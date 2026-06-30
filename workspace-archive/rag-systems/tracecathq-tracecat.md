@@ -6,15 +6,14 @@ source_url: https://github.com/TracecatHQ/tracecat
 resource_id: github:tracecathq/tracecat
 local_vault_path: ai/rag/tracecathq-tracecat.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
@@ -29,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -37,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Platform Architecture**: Python-based, event-driven security automation platform leveraging FastAPI for backend, Next.js for frontend, and Temporal.io for workflow orchestration with OpenAPI and Pydantic for schema validation.
+- **Python-based open-source security automation platform** leveraging FastAPI, Pydantic, and OpenAPI for workflow orchestration, with event-driven architecture powered by Temporal.io.
 
-- **Core Features**: Low-code workflow engine with LLM integration for AI agent collaboration, real-time monitoring, and security-focused automation via modular Python components.
+- **Low-code, agent-friendly system** integrating LLM capabilities, Next.js for frontend, and modular workflow engine for security automation and monitoring.
 
-- **Technical Stack**: Built on modern Python frameworks (FastAPI, Pydantic) with tempo
+- **Scalable, production-ready framework** with 3,703 GitHub stars, supporting AI agents and security teams via temporal workflows and RESTful API design.
 
 ## Use Cases
 

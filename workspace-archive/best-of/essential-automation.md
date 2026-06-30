@@ -18,11 +18,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`firebase-github.md`](../../ai/resources/firebase-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
-- **Category**: `ai/resources` | **Kind**: `WORKFLOW` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`cloudflare-cloudflare-docs.md`](../../ai/resources/cloudflare-cloudflare-docs.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
 ### [git/git](https://github.com/git/git)
 - **Category**: `ai/resources` | **Kind**: `WORKFLOW` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`git-git.md`](../../ai/resources/git-git.md)
@@ -48,25 +43,30 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`denis2054-context-engineering-for-multi-agent-systems.md`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production)
+### [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`nirdiamant-agents-towards-production.md`](../../ai/rag/nirdiamant-agents-towards-production.md)
+- **Score**: `87` | **Path**: [`tracecathq-tracecat.md`](../../ai/rag/tracecathq-tracecat.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [langgenius/dify](https://github.com/langgenius/dify)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
+### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag)
+### [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`datawhalechina-all-in-rag.md`](../../ai/rag/datawhalechina-all-in-rag.md)
+- **Score**: `87` | **Path**: [`deepset-ai-haystack.md`](../../ai/rag/deepset-ai-haystack.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`langchain-ai-langgraph.md`](../../ai/rag/langchain-ai-langgraph.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
+
+### [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag)
+- **Category**: `ai/rag` | **Kind**: `PROMPT` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`tomasonjo-kg-rag.md`](../../ai/rag/tomasonjo-kg-rag.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-30 15:49 IST*
+*Last updated: 2026-06-30 20:31 IST*

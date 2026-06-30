@@ -3,26 +3,25 @@ title: cli/cli
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/cli/cli
-collected_at: '2026-06-29T03:53:11.554309+05:30'
-published_at: '2026-06-28T16:09:49Z'
+source_url: https://github.com/cli/cli#installation
+collected_at: '2026-06-30T20:25:27.196413+05:30'
+published_at: '2026-06-30T14:16:19Z'
 tags:
 - github-repo
 - go
+- hackernews
 - rag
-- scripts
-- workflows
-stars: 45038
+stars: 45070
 language: Go
 status: active
 license: MIT
 archived: false
 created_at: '2019-10-03T15:24:53Z'
-pushed_at: '2026-06-26T21:35:20Z'
+pushed_at: '2026-06-30T14:14:28Z'
 resource_id: github:cli/cli
-first_seen: '2026-06-29T03:53:11.554309+05:30'
-last_seen: '2026-06-29T03:53:11.554309+05:30'
-last_checked: '2026-06-29T03:53:11.554309+05:30'
+first_seen: '2026-06-30T20:25:27.196413+05:30'
+last_seen: '2026-06-30T20:25:27.196413+05:30'
+last_checked: '2026-06-30T20:25:27.196413+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Official GitHub CLI tool for interacting with GitHub repositories and APIs via command line.
-- **Implementation**: Built in Go, leveraging GitHub's GraphQL API (v4) for efficient data fetching and mutation.
-- **Features**: Supports CLI operations for Git/GitHub workflows, including issue/PR management, repository interactions, and API automation.
+- **Purpose**: Official GitHub CLI tool for interacting with GitHub repositories and APIs directly from the command line.
+- **Technical Stack**: Implemented in Go, leveraging GitHub's GraphQL API v4 for efficient data fetching and mutation operations.
+- **Features**: Supports Git operations, issue/PR management, and repository interactions; last updated June 30, 2026.
 
 ## Why It Matters
 
@@ -41,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: cli
-- Stars: 45038
-- Forks: 8624
+- Stars: 45070
+- Forks: 8631
 - Language: Go
 - Topics: cli, git, github-api-v4, golang
-- Last Updated: 2026-06-28T16:09:49Z
+- Last Updated: 2026-06-30T14:16:19Z
 - License: MIT
 - Archived: No
 - Created At: 2019-10-03T15:24:53Z
-- Pushed At: 2026-06-26T21:35:20Z
+- Pushed At: 2026-06-30T14:14:28Z
 
 ## Possible Use Cases
 
@@ -67,4 +66,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/cli/cli
+Original source: https://github.com/cli/cli#installation

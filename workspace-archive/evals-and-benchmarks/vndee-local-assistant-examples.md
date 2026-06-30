@@ -12,7 +12,6 @@ resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Demonstrates building a local, self-hosted ChatPDF application using Python, leveraging LangChain, LLMs, and RAG techniques.
-- **Key Components**: Utilizes Ollama for local LLM inference and integrates Retrieval-Augmented Generation (RAG) for document processing and querying.
-- **Setup**: Provides example implementations for deploying the system entirely offline, avoiding cloud dependencies.
+- **Purpose**: Demonstrates building a local ChatPDF application using Python, LangChain, and Ollama for LLM inference.
+- **Key Components**: Implements RAG (Retrieval-Augmented Generation) for document processing and leverages Ollama for local LLM execution.
+- **Setup**: Requires Python environment; last updated June 2026 with 409 stars and 119 forks.
 
 ## Use Cases
 

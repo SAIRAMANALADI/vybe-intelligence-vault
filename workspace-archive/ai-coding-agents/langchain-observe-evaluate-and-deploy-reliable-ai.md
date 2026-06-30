@@ -8,7 +8,7 @@ local_vault_path: ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: mcp-server
 importance: medium
 tags:
 - agents
@@ -24,17 +24,15 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: mcp-server
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Multi-language SDK Support**: LangSmith provides Python, TypeScript, Go, and Java SDKs for framework-agnostic agent tracing and integration, enabling cross-language agent development and observability.
+- **Framework-agnostic observability & tracing**: Supports native tracing for major agent frameworks (e.g., LangChain, LangGraph, DeepAgents) and OpenTelemetry, with SDKs in Python, TypeScript, Go, and Java; enables structured debugging via message threading and AI-driven analytics for multi-turn agent interactions.
 
-- **Autonomous Agent Debugging**: LangSmith Engine autonomously clusters production failures, diagnoses root causes in traces/code, and proposes fixes, accelerating agent improvement without manual intervention.
-
-- **Production-Grade Agent Deployment**: LangSmith’s agent server offers memory,
+- **Automated evaluation & iterative improvement**: Converts production traces into reusable test cases with LLM-as-judge and multi-turn evals, incorporating human feedback for cali
 
 ## Use Cases
 

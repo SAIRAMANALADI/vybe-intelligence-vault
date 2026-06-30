@@ -17,7 +17,6 @@ tags:
 - openai
 - python
 - rag
-- scripts
 - workflows
 selection_reason:
 - Useful for project building
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI Framework**: Open-source Python-based system (`DB-GPT`) enabling autonomous interaction with databases via LLMs (e.g., DeepSeek, GPT-4) for data analysis, RAG, and agentic workflows.
-- **Security & Privacy**: Supports private, on-premise deployments with encryption and access controls for sensitive data handling.
-- **Modular Architecture**: Integrates with Vicuna, BGI, and other models; designed for extensibility with hacktoberfest contributions and agent-based automation.
+- **Agentic AI Framework**: Open-source Python-based system integrating LLMs (DeepSeek, GPT-4, Vicuna) with database interaction capabilities, enabling autonomous data processing and retrieval via RAG and agentic workflows.
+
+- **Security & Privacy Focus**: Designed for private, secure data handling with built-in encryption and access controls, targeting next-gen AI+Data products without exposing sensitive information.
+
+- **Modular Architecture**: Supports pluggable components (e.g., BGI for data
 
 ## Use Cases
 

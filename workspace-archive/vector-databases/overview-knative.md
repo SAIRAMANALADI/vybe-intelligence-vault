@@ -8,7 +8,7 @@ local_vault_path: ai/rag/overview-knative.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
@@ -18,7 +18,7 @@ tags:
 - workflows
 - youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Overview - Knative
@@ -27,15 +27,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Knative Serving**: Kubernetes-native HTTP-triggered autoscaling runtime with CRDs (Services, Routes, Configurations, Revisions) for stateless workloads, enabling automatic scaling (0-to-N), traffic splitting, and GPU resource support (e.g., LLM inference via KServe integration).
+- **Knative Serving**: Kubernetes-native HTTP-triggered autoscaling runtime managing stateless workloads via CRDs (Services, Routes, Configurations, Revisions) with automatic scale-to-zero, traffic splitting, and GPU resource support for AI/ML inference.
 
-- **Knative Eventing**: CloudEvents-compliant event mesh with loosely coupled components (Sources, Brokers, Triggers, Sinks) for async event routing, supporting real-time pipelines, workflow orchestration, and multi
+- **Knative Eventing**: CloudEvents-compliant asynchronous event routing layer using loosely coupled components (Sources, Brokers, Triggers, Sinks) to decouple event producers/consumers with HTTP-based event delivery and filtering.
+
+- **Knative
 
 ## Use Cases
 

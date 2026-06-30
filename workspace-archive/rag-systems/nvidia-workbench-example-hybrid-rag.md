@@ -14,6 +14,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -32,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-*   Demonstrates a Hybrid Retrieval Augmented Generation (RAG) architecture.
-*   Implemented as an NVIDIA AI Workbench example project.
-*   Utilizes Python for its core functionality.
+- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword/BM25) retrieval methods for enhanced document search and generation.
+
+- **NVIDIA AI Workbench Integration**: Showcases deployment and optimization of the RAG system using NVIDIA’s AI Workbench for scalable, GPU-accelerated inference and retrieval workflows.
+
+- **Python-Based Example**: Provides a reference implementation in Python, leveraging libraries
 
 ## Use Cases
 

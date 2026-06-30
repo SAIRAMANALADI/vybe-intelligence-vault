@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Open-source AI hackers to find and fix your app’s vulnerabilities.
+Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 
 ## Use Cases
 

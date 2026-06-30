@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-06-30T15:33:45.681572+05:30'
+collected_at: '2026-06-30T20:16:01.108829+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-06-30T15:33:45.681572+05:30'
-last_seen: '2026-06-30T15:33:45.681572+05:30'
-last_checked: '2026-06-30T15:33:45.681572+05:30'
+first_seen: '2026-06-30T20:16:01.108829+05:30'
+last_seen: '2026-06-30T20:16:01.108829+05:30'
+last_checked: '2026-06-30T20:16:01.108829+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Java-based repository demonstrating AI question-answering systems using **SSE streaming**, **Agent-based workflows**, **knowledge graph RAG**, and **Function Call** capabilities.
-- **Features**: Supports **vector databases**, **embedding models**, **image generation/understanding**, and **historical message handling** for enhanced RAG pipelines.
-- **Architecture**: Integrates **Alibaba Cloud AI services** with **Spring AI**, emphasizing **retrieval-augmented generation (RAG)** and **multi-modal processing** (text/images).
+- **Multi-modal AI Integration**: Implements SSE streaming, RAG with knowledge graphs, function calls, and historical message handling for AI Q&A, supporting image generation/understanding alongside text-based interactions.
+
+- **Vector Database & Embedding Pipeline**: Utilizes vector databases (e.g., Milvus/Weaviate) for semantic search, with embedding models (e.g., BERT, Sentence-BERT) to enable efficient retrieval-augmented generation (RAG).
+
+- **Agentic Workflows & Java Backend**: Deploys AI agents (e.g., LangChain4j) for orchestration, integrates Alibaba Cloud AI services (e.g., Qwen, DashScope), and leverages Spring AI for Java-based AI application development.
 
 ## Why It Matters
 

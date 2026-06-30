@@ -6,7 +6,7 @@ source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
 resource_id: github:jxzhangjhu/awesome-llm-rag
 local_vault_path: ai/rag/jxzhangjhu-awesome-llm-rag.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: Compilation of advanced retrieval augmented generation (RAG) techniques, frameworks, and tools for Large Language Models (LLMs), covering embeddings, retrieval methods, and integration strategies.
-- **Technical Focus**: Emphasizes retrieval-information optimization, RAG-embeddings, and scalable architectures for enhancing LLM performance via augmented knowledge retrieval.
-- **Dynamic Updates**: Repository actively maintained with last update on **2026-06-29**, ensuri
+- **Curated resource** for advanced **Retrieval-Augmented Generation (RAG)** techniques in **Large Language Models (LLMs)**, covering embeddings, retrieval mechanisms, and integration strategies.
+- **Comprehensive collection** of state-of-the-art methods, frameworks, and tools for enhancing LLM performance via **external knowledge retrieval**.
+- **Actively maintained** repository (last updated **2026-06-30**) with **1,340 stars** and **84 forks**, focusing on **RAG-embeddings** and **information
 
 ## Use Cases
 

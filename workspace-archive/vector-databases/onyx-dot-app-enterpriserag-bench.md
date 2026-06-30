@@ -14,6 +14,7 @@ tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - rag
 - unknown
 selection_reason:
@@ -32,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of performance in real-world internal knowledge bases.
-
-- **Key Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based QA testing across enterprise domains, with Python-based tooling for reproducibility and extensibility.
-
-- **Scope**: Covers enterprise-specific RAG challenges (e.g., do
+- **EnterpriseRAG-Bench**: A specialized benchmark dataset designed to evaluate Retrieval-Augmented Generation (RAG) systems on company internal documents, enabling domain-specific performance assessment.
+- **Key Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based QA tasks tailored for enterprise knowledge bases and information retrieval systems.
+- **Technical Scope**: Supports Python-based RAG evaluation pipelines, covering large language models (LLMs), ret
 
 ## Use Cases
 

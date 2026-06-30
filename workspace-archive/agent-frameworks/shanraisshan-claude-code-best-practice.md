@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Evolution of AI Workflows**: Demonstrates transition from *vibe coding* to *agentic engineering* using Claude Code, emphasizing structured, iterative development practices for AI agents.
+- **Agentic Workflow Optimization**: Repository provides structured methodologies for transitioning from "vibe coding" to agentic engineering, emphasizing systematic Claude Code agent workflows for enhanced productivity and precision in AI-driven development.
 
-- **Best Practices & Skills Repository**: Provides a curated collection of *Claude Code commands*, *skills*, and *context engineering* techniques to optimize AI-driven coding workflows.
+- **Best Practices & Command Patterns**: Curated collection of Claude Code best practices, including optimized commands, skills, and context-engineering techniques tailored for Pakistani developers and the broader AI agent community.
 
-- **Community-Driven Resource**: Maintains an actively updated (as of 2026-06-30) GitHub repository with 61K+ stars, fost
+- **
 
 ## Use Cases
 

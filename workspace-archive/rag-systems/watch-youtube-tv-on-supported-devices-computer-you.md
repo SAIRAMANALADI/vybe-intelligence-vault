@@ -2,14 +2,14 @@
 title: Watch YouTube TV on supported devices - Computer - YouTube TV Help
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://support.google.com/youtubetv/answer/7129767?visit_id=638288444130677992-263304352&p=NFL_Sunday_Ticket_YTV_Devices&rd=1
+source_url: https://support.google.com/youtubetv/answer/7129767?hl=en&ref_topic=7071745
 resource_id: blog:watch-youtube-tv-on-supported-devices-computer-you
 local_vault_path: ai/rag/watch-youtube-tv-on-supported-devices-computer-you.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
-importance: high
+importance: medium
 tags:
 - rag
 - reddit
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Supported Platforms**: YouTube TV is officially supported on select **smart TVs** (LG 2017+, Samsung 2017+, Roku TV, Hisense/Vizio select models), **streaming devices** (Apple TV 4th Gen+, Chromecast w/ Google TV, Fire TV Stick/4K/Cube, Roku Ultra/LT/Express+, TiVo Stream 4K, Xfinity Flex), **game consoles** (PS4/PS5, Xbox One/S/X), and **XR devices** (Meta Quest 2+, Pico, Apple Vision Pro via YouTube XR app).
+- **Supported Platforms**: YouTube TV is compatible with computers (Chrome, Firefox, Safari), smart TVs (LG, Samsung, Roku TV, Vizio, etc.), streaming devices (Apple TV, Chromecast, Fire TV, Roku), game consoles (PlayStation, Xbox), and XR devices (Meta Quest, Apple Vision Pro).
 
-- **System Requirements**: Requires **Chrome, Firefox, or Safari** (latest versio
+- **System Requirements**: Requires latest browser versions (Chrome, Firefox, Safari) or specific hardware (e.g., Roku devices with ≥512MB RAM may have limited features; Apple TV needs app version ≥1.13.1).
+
+- **Trouble
 
 ## Use Cases
 
@@ -45,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://support.google.com/youtubetv/answer/7129767?visit_id=638288444130677992-263304352&p=NFL_Sunday_Ticket_YTV_Devices&rd=1
+Original source URL: https://support.google.com/youtubetv/answer/7129767?hl=en&ref_topic=7071745
 
 ## Local Vault File
 

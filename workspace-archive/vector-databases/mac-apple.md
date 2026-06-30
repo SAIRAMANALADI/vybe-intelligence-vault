@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Mac Product Lineup**: Apple offers MacBook Neo (new budget model), MacBook Air (13" & 15"), MacBook Pro (14" & 16"), iMac (7 color options + silver), Mac mini, and Mac Studio, with displays including Studio Display and Studio Display XDR.
-
-- **Education Pricing**: Students/educators qualify for discounted Mac pricing via Apple’s education store, with eligibility verified at checkout.
-
-- **Customization & Trade-In**: Macs support hardware customization (chip, RAM, storage, color), and Apple T
+- Apple offers education pricing discounts on Mac products for college students and educators via the Apple Store, accessible through the US Education Shop.
+- The Mac lineup includes the new MacBook Neo (starting at $999), MacBook Air (13”/15”), MacBook Pro (14”/16”), iMac (24”), Mac mini, and Mac Studio, with customizable configurations for chip, memory, storage, and color.
+- Key Mac features highlighted include AI integration (on-device processing), seamless ecosystem integration with iPhone/i
 
 ## Use Cases
 

@@ -6,7 +6,7 @@ source_url: https://github.com/QuivrHQ/quivr
 resource_id: github:quivrhq/quivr
 local_vault_path: ai/rag/quivrhq-quivr.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -18,6 +18,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -28,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular RAG Framework**: Open-source Python framework enabling quick integration of GenAI into applications via Retrieval-Augmented Generation (RAG), supporting customizable pipelines for LLMs (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss).
+- **Multi-LLM & Vector Store Agnostic RAG Framework**: Supports integration with any LLM (e.g., GPT4, Groq, Llama) and vector databases (e.g., PGVector, Faiss), enabling flexible GenAI deployment without vendor lock-in.
 
-- **Multi-Platform Compatibility**: Supports any file type, offers Docker deployment, and includes React-based frontend with TypeScript/JavaScript, alongside RESTful API for seamless integration into existing products.
+- **Opinionated RAG Optimization**: Focuses on simplifying Retrieval-Augmented Generation (RAG) workflows for seamless integration into existing products, with customizable pipelines for files, APIs, and frontend components.
 
-- **Privacy &
+- **Full-Stack Deployment**: Provides a Dockerized, P
 
 ## Use Cases
 

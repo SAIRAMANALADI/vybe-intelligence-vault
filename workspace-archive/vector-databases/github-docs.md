@@ -1,19 +1,23 @@
 ---
-title: docs/content/integrations/concepts/about-building-integrations.md at main ·
-  github/docs · GitHub
+title: docs/content/copilot/reference/copilot-cli-reference/cli-command-reference.md
+  at main · github/docs · GitHub
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/github/docs/blob/main/content/integrations/concepts/about-building-integrations.md
+source_url: https://github.com/github/docs/blob/main/content/copilot/reference/copilot-cli-reference/cli-command-reference.md
 resource_id: github:github/docs
 local_vault_path: ai/rag/github-docs.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 tags:
+- agents
+- anthropic
+- models
+- openai
+- producthunt
 - rag
-- reddit
 - scripts
 - web-crawled
 - workflows
@@ -21,21 +25,21 @@ selection_reason:
 - Active open-source repository
 ---
 
-# docs/content/integrations/concepts/about-building-integrations.md at main · github/docs · GitHub
+# docs/content/copilot/reference/copilot-cli-reference/cli-command-reference.md at main · github/docs · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tutorial
+- Resource kind: prompt
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Integration Types**: {% data variables.product.company_short %} supports three primary integration types: **{% data variables.product.prodname_github_apps %}** (server/device-hosted), **{% data variables.product.prodname_actions %} workflows** (event-triggered automation), and **custom actions** (executable code within workflows).
+- **Core CLI Commands**: `copilot` launches an interactive UI; `copilot init` initializes custom instructions; `copilot login` authenticates via OAuth device flow (supports `--host` for GitHub Enterprise); `copilot completion SHELL` enables shell-specific tab completion (bash/zsh/fish); `copilot update`/`version` manage CLI updates.
 
-- **API & Webhook Support**: Integrations leverage **REST** or **GraphQL APIs** for data operations and **webhooks** to receive real-time event notifications (e.g
+- **Authentication Modes**: Supports OAuth tokens (CLI app or `gh` app), fine-grained PATs (`COPILOT_GITHUB_TOKEN`, `GH_TOKEN`, `GITHUB_TOKEN`), and stores tokens i
 
 ## Use Cases
 
@@ -45,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/github/docs/blob/main/content/integrations/concepts/about-building-integrations.md
+Original source URL: https://github.com/github/docs/blob/main/content/copilot/reference/copilot-cli-reference/cli-command-reference.md
 
 ## Local Vault File
 

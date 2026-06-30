@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-06-30T15:33:10.749185+05:30'
+collected_at: '2026-06-30T20:15:25.961870+05:30'
 published_at: '2026-06-30T09:08:11Z'
 tags:
 - agents
@@ -18,11 +18,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2025-12-19T12:23:15Z'
-pushed_at: '2026-06-27T23:32:33Z'
+pushed_at: '2026-06-30T13:26:31Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-06-30T15:33:10.749185+05:30'
-last_seen: '2026-06-30T15:33:10.749185+05:30'
-last_checked: '2026-06-30T15:33:10.749185+05:30'
+first_seen: '2026-06-30T20:15:25.961870+05:30'
+last_seen: '2026-06-30T20:15:25.961870+05:30'
+last_checked: '2026-06-30T20:15:25.961870+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Full-stack AI application template combining FastAPI (backend) and Next.js (frontend) with Docker containerization, PostgreSQL for storage, and WebSocket for real-time streaming.
+- **Full-stack AI app generator** with FastAPI backend and Next.js frontend, pre-configured with **AI Agents, RAG, streaming, auth**, and **20+ integrations** (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI).
 
-- **AI Capabilities**: Pre-integrated with AI agent frameworks (CrewAI, LangChain, LangGraph, Pydantic-AI), RAG pipelines, and 20+ third-party integrations for rapid AI agent development.
+- **Tech stack**: Python (FastAPI, Pydantic), TypeScript (Next.js, React), PostgreSQL, Docker; supports **LLM integration**, WebSocket streaming, and **Pydantic-Deep** for structured outputs.
 
-- **Key Features**: Built-in authentication, Pydantic-Deep for structured data validation, and TypeScript/React for frontend, enabling scalable, production-ready AI agent deployments.
+- **Production-ready features**: Built-in authentication, **multi-agent orchestration**, and modular architecture for rapid deployment of AI-driven applications.
 
 ## Why It Matters
 
@@ -51,7 +51,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2025-12-19T12:23:15Z
-- Pushed At: 2026-06-27T23:32:33Z
+- Pushed At: 2026-06-30T13:26:31Z
 
 ## Possible Use Cases
 

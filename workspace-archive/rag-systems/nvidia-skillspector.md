@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 selection_reason:
@@ -34,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Security scanner designed to detect vulnerabilities, malicious patterns, and security risks in AI agent skills.
-- **Features**: Analyzes AI agent skills for security flaws, leveraging static and dynamic analysis techniques.
-- **Implementation**: Python-based tool with support for extensible rule sets and integration into CI/CD pipelines.
+- **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to detect vulnerabilities, malicious patterns, and security risks without executing the code.
+
+- **Python-Based**: Implemented in Python, leveraging libraries for abstract syntax tree (AST) parsing and pattern matching to identify security flaws in AI skill definitions.
+
+- **Pre-Deployment Security**: Designed for integration into CI/CD pipelines to scan AI agent skills before deployment, ensuring security compl
 
 ## Use Cases
 

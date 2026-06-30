@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI text-embedding-ada-002, Sentence Transformers), and vector databases (Pinecone, Weaviate, Qdrant) for scalable, low-latency retrieval (50ms p95) of relevant context.
+- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI text-embedding-ada-002, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for dynamic knowledge retrieval, reducing LLM hallucinations from 30% to <5% while enabling real-time updates.
 
-- **Advanced Techniques**: Implements hierarchical retrieval, query expansion (20-30% recall improvement), hybrid search (dense + sparse vectors), re-ranking (15-25% precision gain), and adaptive retrieval (Self-
+- **Advanced Retrieval Techniques**: Implements hybrid search (semantic + BM25), query expansion (LLM-generated variants), re-ranking (cross-encoder models), and hierarch
 
 ## Use Cases
 

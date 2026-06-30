@@ -4,23 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-06-30T15:33:50.715250+05:30'
-published_at: '2026-06-29T05:59:26Z'
+collected_at: '2026-06-30T20:16:05.957865+05:30'
+published_at: '2026-06-30T11:35:52Z'
 tags:
 - github-repo
 - hackernews
 - rag
 - unknown
-stars: 1339
+stars: 1340
 language: Unknown
 status: active
 archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-06-30T15:33:50.715250+05:30'
-last_seen: '2026-06-30T15:33:50.715250+05:30'
-last_checked: '2026-06-30T15:33:50.715250+05:30'
+first_seen: '2026-06-30T20:16:05.957865+05:30'
+last_seen: '2026-06-30T20:16:05.957865+05:30'
+last_checked: '2026-06-30T20:16:05.957865+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Compilation of advanced retrieval augmented generation (RAG) techniques, frameworks, and tools for Large Language Models (LLMs), covering embeddings, retrieval methods, and integration strategies.
-- **Technical Focus**: Emphasizes retrieval-information optimization, RAG-embeddings, and scalable architectures for enhancing LLM performance via augmented knowledge retrieval.
-- **Dynamic Updates**: Repository actively maintained with last update on **2026-06-29**, ensuring relevance for cutting-edge RAG advancements.
+- **Curated resource** for advanced **Retrieval-Augmented Generation (RAG)** techniques in **Large Language Models (LLMs)**, covering embeddings, retrieval mechanisms, and integration strategies.
+- **Comprehensive collection** of state-of-the-art methods, frameworks, and tools for enhancing LLM performance via **external knowledge retrieval**.
+- **Actively maintained** repository (last updated **2026-06-30**) with **1,340 stars** and **84 forks**, focusing on **RAG-embeddings** and **information retrieval** optimization.
 
 ## Why It Matters
 
@@ -39,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: jxzhangjhu
-- Stars: 1339
+- Stars: 1340
 - Forks: 84
 - Language: Unknown
 - Topics: embeddings, large-language-models, llm, rag, rag-embeddings, retrieval-augmented-generation, retrieval-information
-- Last Updated: 2026-06-29T05:59:26Z
+- Last Updated: 2026-06-30T11:35:52Z
 - Archived: No
 - Created At: 2023-10-26T17:47:05Z
 - Pushed At: 2026-06-15T18:27:39Z

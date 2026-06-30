@@ -9,13 +9,14 @@ collected_at: '2026-06-30T15:31:50.775953+05:30'
 tags:
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:cupy/cupy
 first_seen: '2026-06-28T19:46:54.546660+05:30'
 last_seen: '2026-06-30T15:31:50.775953+05:30'
 last_checked: '2026-06-30T15:31:50.775953+05:30'
 health_score: 100
 ---
+
 
 # cupy/cupy
 

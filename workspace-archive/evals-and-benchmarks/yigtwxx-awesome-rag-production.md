@@ -15,6 +15,7 @@ tags:
 - hackernews
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Production-Grade RAG Resources**: A GitHub repository (`Yigtwxx/awesome-rag-production`) listing battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, covering LLMs, embeddings, vector databases, and MLOps pipelines.
-
-- **Technical Scope**: Focuses on Python-based implementations, including LangChain, LLMOps, and vector database integrations, with topics spanning AI engineering, generative AI, and retrieval-au
+- **Curated resources**: Repository provides a structured, community-vetted list of production-grade RAG tools, frameworks, and best practices for scalable AI deployment.
+- **Technical scope**: Covers critical components including embeddings, vector databases, LLM orchestration (e.g., LangChain), and MLOps/LLMops integration for end-to-end RAG pipelines.
+- **Python-centric**: Focuses on Python-based implementations with last update timestamp of 2026-06-30, emphasizing modern AI engineering workf
 
 ## Use Cases
 

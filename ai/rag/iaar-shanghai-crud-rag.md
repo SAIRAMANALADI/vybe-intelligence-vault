@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-06-30T15:34:05.755398+05:30'
+collected_at: '2026-06-30T20:16:15.981244+05:30'
 published_at: '2026-06-26T08:31:01Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-06-30T15:34:05.755398+05:30'
-last_seen: '2026-06-30T15:34:05.755398+05:30'
-last_checked: '2026-06-30T15:34:05.755398+05:30'
+first_seen: '2026-06-30T20:16:15.981244+05:30'
+last_seen: '2026-06-30T20:16:15.981244+05:30'
+last_checked: '2026-06-30T20:16:15.981244+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRUD-RAG provides a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive assessment across multiple dimensions (e.g., retrieval accuracy, generation quality, and end-to-end performance).
-
-- **Evaluation Framework**: Implements standardized metrics and tasks to compare RAG models, including retrieval precision/recall, answer correctness, and latency, with datasets tailored for Chinese language understanding.
-
-- **Open-Source Toolkit**: Offers a Python-based repository with modular components for benchmarking, including retrieval modules, evaluation scripts, and baseline model implementations.
+- **Benchmark Design**: Introduces a Chinese-focused benchmark (CRUD-RAG) for evaluating Retrieval-Augmented Generation (RAG) systems in large language models (LLMs), emphasizing comprehensive assessment across multiple dimensions.
+- **Evaluation Scope**: Covers key RAG capabilities including retrieval quality, generation accuracy, and end-to-end performance, with standardized metrics for reproducibility.
+- **Open-Source Framework**: Provides a Python-based toolkit for benchmarking, enabling researchers to test and compare RAG models on Chinese-language tasks.
 
 ## Why It Matters
 

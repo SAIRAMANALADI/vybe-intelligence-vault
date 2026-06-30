@@ -7,9 +7,9 @@ source_url: https://superml.org/tutorials/rag-beginner
 resource_id: blog:rag-tutorial-step-by-step-guide-to-retrieval-augme
 local_vault_path: ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md
 quality_score: 70
-archive_score: 74
+archive_score: 76
 archive_tier: useful
-resource_kind: dataset
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
@@ -29,17 +29,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 76 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Architecture**: Five-step pipeline—load documents, chunk text, embed chunks into vectors, retrieve semantically similar chunks via vector similarity search, and generate answers using an LLM with retrieved context to mitigate hallucinations and ensure traceability.
-
-- **Implementation Stack**: Uses `langchain` for orchestration, `ChromaDB` as the vector store, and OpenAI’s `text-embedding-3-small` for embeddings; supports modular swapping of components (e.g., Pinecone, pgvector, or Huggi
+- **RAG Pipeline**: A 5-step process comprising **load** (ingest documents), **chunk** (split into retrieval-sized pieces), **embed** (convert to vector embeddings and index), **retrieve** (find semantically similar chunks at query time), and **generate** (pass retrieved context to LLM for grounded answers).
+- **Chunking Strategy**: Recursive character splitting with **512-token chunks** and **50-token overlap** to balance semantic boundaries and context retention, implemented via `RecursiveChar
 
 ## Use Cases
 

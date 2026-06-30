@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent orchestration framework**: Supports agentic workflows with low-code/no-code tools, integrating LLM APIs (OpenAI, GPT-4, Gemini) and MCP (Model Context Protocol) for dynamic agent collaboration and task automation.
+- **Multi-agent orchestration framework** enabling agentic workflows with LLM integration (OpenAI, GPT-4, Gemini) via TypeScript/Python, supporting low-code/no-code development and MCP (Model Context Protocol) for tool orchestration.
 
-- **Hybrid development stack**: Combines Next.js (TypeScript frontend) with Python backend, enabling both visual workflow builders and programmatic customization for RAG (Retrieval-Augmented Generation) and AI agent deployment.
+- **RAG-optimized architecture** with built-in retrieval-augmented generation (RAG) pipelines, vector database integration, and automated workflow orchestration for AI-driven automation tasks.
 
-- **Production-grade deployment**: Optim
+- **Production-grade deployment** via Next.js frontend, modular Python
 
 ## Use Cases
 

@@ -8,16 +8,19 @@ local_vault_path: ai/rag/gomate-community-awesome-papers-for-rag.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - benchmark
+- dataset
 - github-repo
+- hackernews
 - paper
 - python
 - rag
+- workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # gomate-community/awesome-papers-for-rag
@@ -26,15 +29,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, benchmarks, and frameworks focused on retrieval-augmented generation (RAG), including implementations in Python.
-- **Metadata**: 135 stars, 12 forks, last updated June 11, 2026; categorized under Python with no additional topics specified.
-- **Purpose**: Serves as a centralized hub for researchers and practitioners to explore advancements, methodologies, and empirical evaluations in RAG systems.
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG) methodologies, architectures, and applications.
+- **Python-Centric**: Primarily Python-based with structured metadata (e.g., BibTeX, arXiv IDs) for easy integration with ML pipelines and research workflows.
+- **Last Updated**: Actively maintained with the latest commit (2026-06-11) reflecting ongoing updates to RAG advancements and benchmarking datasets.
 
 ## Use Cases
 

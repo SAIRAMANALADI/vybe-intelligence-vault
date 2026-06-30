@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Automated AI Ecosystem Aggregator**: Daily curation of AI-related content from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
-- **Bilingual Reporting**: Generates reports in both Chinese (ZH) and English (EN) with automated workflows.
-- **Technical Stack**: Built in TypeScript, last updated on 2026-06-30, with 866 stars and 139 forks.
+- **Automated AI Ecosystem Aggregator**: Daily digest compiling updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
+- **Bilingual Reporting**: Generates reports in both Chinese and English, automated through scheduled CI/CD workflows.
+- **TypeScript-Based Tool**: Open-source repository (866 stars, 140 forks) with last update on 2026-06-30, hosted at `github.com/duanyytop/agents-radar`.
 
 ## Use Cases
 

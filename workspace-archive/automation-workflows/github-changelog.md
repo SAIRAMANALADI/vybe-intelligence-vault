@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- anthropic
 - web-crawled
 - workflows
 selection_reason:
@@ -32,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Integration**: GitHub Copilot now supports **Claude Opus 4.8 (fast mode)** in preview, enhancing AI-assisted coding workflows.
-- **Performance**: Optimized for **faster inference** while maintaining high accuracy in code generation and contextual understanding.
-- **Availability**: Currently in **preview phase** for GitHub Copilot users, with broader rollout anticipated.
+- **Dependabot Dependency**: GitHub's Dependabot no longer automatically infers `.npmrc` configurations for Node.js projects, requiring explicit specification in dependency manifests.
+
+- **Security Impact**: This change enhances supply chain security by preventing unintended npm registry or authentication overrides via `.npmrc` inference.
+
+- **Action Required**: Developers must manually configure `.npmrc` settings in their projects or workflows to maintain expected npm behavior.
 
 ## Use Cases
 

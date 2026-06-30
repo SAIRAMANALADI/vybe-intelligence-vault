@@ -4,13 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-06-30T15:34:35.766400+05:30'
+collected_at: '2026-06-30T20:16:45.982893+05:30'
 published_at: '2026-06-28T05:14:03Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
-- paper
 - python
 - rag
 stars: 172
@@ -21,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-06-30T15:34:35.766400+05:30'
-last_seen: '2026-06-30T15:34:35.766400+05:30'
-last_checked: '2026-06-30T15:34:35.766400+05:30'
+first_seen: '2026-06-30T20:16:45.982893+05:30'
+last_seen: '2026-06-30T20:16:45.982893+05:30'
+last_checked: '2026-06-30T20:16:45.982893+05:30'
 health_score: 100
 ---
 
@@ -31,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: Introduces UniversalRAG, an ACL 2026 Oral paper proposing a unified RAG framework supporting diverse modalities (text, images, tables) and granularities (document, paragraph, sentence) via modality-agnostic retrieval and generation.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence) with unified indexing and retrieval.
 
-- **Technical Architecture**: Implements a two-stage pipeline—(1) modality-agnostic retriever (e.g., contrastive embeddings) and (2) modality-specific generators (e.g., LLMs, diffusion models) with cross-modal attention for fused context integration.
+- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval mechanism using modality-agnostic embeddings (e.g., via contrastive learning) to dynamically select relevant content regardless of input type.
 
-- **Key Innovation**: Enables zero-shot or few-shot adaptation across modalities via shared latent spaces and granularity-aware retrieval, validated on benchmarks spanning text, images, and structured data.
+- **Adaptive Generation Pipeline**: Features a hierarchical retrieval and generation system that dynamically adjusts retrieval granularity and fusion strategies based on query complexity and corpus structure.
 
 ## Why It Matters
 

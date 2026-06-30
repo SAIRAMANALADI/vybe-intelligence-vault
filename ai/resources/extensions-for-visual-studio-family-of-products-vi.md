@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://marketplace.visualstudio.com/VSCode
-published_at: '2026-06-27T21:57:13.210980+05:30'
-collected_at: '2026-06-27T21:57:13.210987+05:30'
+published_at: '2026-06-30T20:20:17.603770+05:30'
+collected_at: '2026-06-30T20:20:17.603785+05:30'
 tags:
 - hackernews
 - web-crawled
 - workflows
 status: active
 resource_id: blog:extensions-for-visual-studio-family-of-products-vi
-first_seen: '2026-06-27T21:57:13.210987+05:30'
-last_seen: '2026-06-27T21:57:13.210987+05:30'
-last_checked: '2026-06-27T21:57:13.210987+05:30'
+first_seen: '2026-06-30T20:20:17.603785+05:30'
+last_seen: '2026-06-30T20:20:17.603785+05:30'
+last_checked: '2026-06-30T20:20:17.603785+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Visual Studio Marketplace** serves as the central hub for VS Code extensions, providing a platform for developers to publish, discover, and install extensions directly within the VS Code editor.
+- **Visual Studio Marketplace**: Centralized platform for discovering, installing, and publishing VS Code extensions, themes, and other tools.
 
-- **Authentication & Integration** requires users to sign in via Microsoft’s identity platform (`app.vssps.visualstudio.com`) to enable extension publishing, purchases, and access to marketplace features.
+- **Authentication & Integration**: Requires sign-in via Microsoft accounts (e.g., `app.vssps.visualstudio.com`) for extension management and marketplace access.
 
-- **Privacy & Compliance** adheres to Microsoft’s privacy policies (e.g., [Your Privacy Choices](https://aka.ms/YourCaliforniaPrivacyChoices)) and includes cookie management, with terms governed by [VS Marketplace ToU](https://aka.ms/vsmarketplace-ToU).
+- **Privacy & Compliance**: Enforces Microsoft’s privacy policies (e.g., cookie management, California Privacy Rights) and terms of use (`vsmarketplace-ToU`).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-27T21:57:13.210980+05:30
+- Published: 2026-06-30T20:20:17.603770+05:30
 
 ## Related Tags
 

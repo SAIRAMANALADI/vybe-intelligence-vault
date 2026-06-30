@@ -12,8 +12,9 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
+- meta-ai
+- models
 - rag
 - workflows
 selection_reason:
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Design**: Lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework implemented in Jupyter Notebooks, emphasizing simplicity and modularity for rapid prototyping.
+- **Framework Design**: `wow-rag` provides a lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework implemented in Jupyter Notebooks, emphasizing modularity and ease of deployment.
 
-- **Core Components**: Includes retrieval mechanisms, vector storage integration, and LLM interaction pipelines, with tutorials demonstrating end-to-end workflows for document Q&A and knowledge augmentation.
+- **Core Components**: Includes retrieval, indexing, and generation modules with preconfigured pipelines for quick integration with LLMs (e.g., LangChain, LlamaIndex) and vector databases (e.g., FAISS, Chroma).
 
-- **Technical Stack**: Leverages Python-based libraries (e.g., `langchain`, `faiss`, `sentence-t
+- **Tutorial-Based Learning**: Offers step-by-step notebooks covering end-to-end RAG w
 
 ## Use Cases
 

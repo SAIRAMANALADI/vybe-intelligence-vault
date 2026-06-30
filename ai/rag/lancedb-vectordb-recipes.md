@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-06-30T15:33:05.711368+05:30'
+collected_at: '2026-06-30T20:15:20.966404+05:30'
 published_at: '2026-06-30T08:00:12Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-06-30T15:33:05.711368+05:30'
-last_seen: '2026-06-30T15:33:05.711368+05:30'
-last_checked: '2026-06-30T15:33:05.711368+05:30'
+first_seen: '2026-06-30T20:15:20.966404+05:30'
+last_seen: '2026-06-30T20:15:20.966404+05:30'
+last_checked: '2026-06-30T20:15:20.966404+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI applications using vector search and LLMs (e.g., GPT-4-Vision, LlamaIndex, LangChain).
+- **Multimodal & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI using vector search, LLMs (e.g., GPT-4 Vision), and frameworks like LangChain and LlamaIndex.
 
-- **Vector Database Integration**: Demonstrates practical use of LanceDB (a vector database) for efficient embeddings storage, retrieval, and fine-tuning workflows in deep-learning pipelines.
+- **Vector Database Integration**: Demonstrates LanceDB as a vector database for efficient storage and retrieval of embeddings, supporting deep learning and fine-tuning workflows.
 
-- **Agent & LLM Tooling**: Includes tutorials for building AI agents with OpenAI models, leveraging vector search for context-aware decision-making and multimodal input processing.
+- **Agent & Pipeline Examples**: Includes tutorials for building AI agents and multimodal pipelines, covering topics like OpenAI embeddings, fine-tuning, and end-to-end LLM applications.
 
 ## Why It Matters
 

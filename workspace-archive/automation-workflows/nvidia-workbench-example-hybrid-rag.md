@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector) and sparse (keyword/BM25) retrieval methods for improved document retrieval accuracy.
+- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword/BM25) retrieval methods for enhanced document search and generation.
 
-- **NVIDIA AI Workbench Integration**: Provides a reference architecture for deploying RAG workflows using NVIDIA AI Workbench, leveraging GPU-accelerated components (e.g., FAISS, Triton Inference Server).
+- **NVIDIA AI Workbench Integration**: Showcases deployment and optimization of the RAG system using NVIDIA’s AI Workbench for scalable, GPU-accelerated inference and retrieval workflows.
 
-- **Python-Based Example**: Includes a modular Python implementation with depend
+- **Python-Based Example**: Provides a reference implementation in Python, leveraging libraries
 
 ## Use Cases
 

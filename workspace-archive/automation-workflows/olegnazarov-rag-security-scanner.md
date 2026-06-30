@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Identifies critical vulnerabilities in AI-powered applications (e.g., chatbots, RAG/LLM systems) via automated security testing.
-- **Features**: Detects prompt injection, OWASP Top 10 risks, and other LLM-specific threats; supports red-team testing and security audits.
-- **Technical Stack**: Python-based tool with integration for OpenAI, automated testing, and CI/CD workflows.
+- **Purpose**: Identifies critical vulnerabilities in AI-powered applications (e.g., chatbots, RAG systems) via automated security testing, focusing on LLM-specific threats like prompt injection and OWASP Top 10 risks.
+- **Features**: Implements red-team techniques for penetration testing, supports OpenAI integrations, and performs security audits on AI workflows.
+- **Technical Stack**: Python-based tool with automated testing capabilities for AI security, including prompt-injection detection an
 
 ## Use Cases
 

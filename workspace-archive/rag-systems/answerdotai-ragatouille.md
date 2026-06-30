@@ -1,41 +1,41 @@
 ---
-title: RAGatouille/examples at main · AnswerDotAI/RAGatouille · GitHub
+title: AnswerDotAI/RAGatouille
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/AnswerDotAI/RAGatouille/tree/main/examples
+source_url: https://github.com/AnswerDotAI/RAGatouille
 resource_id: github:answerdotai/ragatouille
 local_vault_path: ai/rag/answerdotai-ragatouille.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
-- meta-ai
-- models
+- github-repo
+- python
 - rag
-- web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
-# RAGatouille/examples at main · AnswerDotAI/RAGatouille · GitHub
+# AnswerDotAI/RAGatouille
 
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **RAGatouille**: A GitHub repository by AnswerDotAI implementing Retrieval-Augmented Generation (RAG) with ColBERTv2 for efficient and scalable document retrieval and reranking.
-- **Key Features**: Includes examples for basic indexing/search, fine-tuning without annotations, reranking, and integration with Llama Hub and index-free usage.
-- **Metrics**: 271 forks, 3.9k stars, 90 open issues, and 7 pull requests as of the latest snapshot.
+- **ColBERT Integration**: Provides a modular Python library for integrating ColBERT (Contextualized Late Interaction over BERT) into Retrieval-Augmented Generation (RAG) pipelines, enabling efficient late-interaction retrieval.
+- **Training & Inference**: Supports both training and inference workflows for ColBERT models, optimized for modularity and ease of integration into existing RAG architectures.
+- **Research-Backed**: Developed with a focus on state-of-the-art retrieval performance, lever
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/AnswerDotAI/RAGatouille/tree/main/examples
+Original source URL: https://github.com/AnswerDotAI/RAGatouille
 
 ## Local Vault File
 

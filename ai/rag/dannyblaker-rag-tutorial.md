@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/dannyblaker/rag-tutorial
-collected_at: '2026-06-30T15:32:55.688796+05:30'
+collected_at: '2026-06-30T20:15:11.006314+05:30'
 published_at: '2026-06-29T08:47:18Z'
 tags:
 - github-repo
 - hackernews
-- models
 - python
 - rag
 - reddit
-- workflows
 stars: 7
 language: Python
 status: active
@@ -22,9 +20,9 @@ archived: false
 created_at: '2026-01-03T09:47:50Z'
 pushed_at: '2026-01-03T09:50:45Z'
 resource_id: github:dannyblaker/rag-tutorial
-first_seen: '2026-06-30T15:32:55.688796+05:30'
-last_seen: '2026-06-30T15:32:55.688796+05:30'
-last_checked: '2026-06-30T15:32:55.688796+05:30'
+first_seen: '2026-06-30T20:15:11.006314+05:30'
+last_seen: '2026-06-30T20:15:11.006314+05:30'
+last_checked: '2026-06-30T20:15:11.006314+05:30'
 health_score: 100
 ---
 
@@ -32,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6-step guide from fundamentals to production deployment, covering embeddings, vector databases, LLMs, and advanced RAG techniques with hands-on code examples and reusable utilities.
-- **Technical Implementation**: Demonstrates end-to-end RAG system construction, including vector DB integration, LLM fine-tuning, and retrieval-augmented workflows with Python-based demos.
-- **Updated Tooling**: Last modified June 2026, repository includes modular utilities, working examples, and scalable patterns for deploying production-grade RAG systems.
+- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from fundamentals to production deployment, with executable code examples and reusable utilities.
+- **Technical Stack**: Focuses on embeddings, vector databases (e.g., FAISS, Chroma), LLMs (e.g., Hugging Face Transformers), and advanced RAG techniques like retrieval optimization and prompt engineering.
+- **Hands-On Demos**: Includes practical implementations with working code, modular utilities for scalability, and updated tooling (Python-based) as of 2026-06-29.
 
 ## Why It Matters
 

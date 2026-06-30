@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.apple.com/guide/tv/adjust-video-and-audio-settings-atvba773c3c9
-published_at: '2026-06-25T16:45:07.071330+05:30'
-collected_at: '2026-06-25T16:45:07.071340+05:30'
+published_at: '2026-06-30T20:21:09.940778+05:30'
+collected_at: '2026-06-30T20:21:09.940797+05:30'
 tags:
 - frontend_ui
 - rag
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:change-audio-settings-on-apple-tv-4k-apple-support
-first_seen: '2026-06-25T16:45:07.071340+05:30'
-last_seen: '2026-06-25T16:45:07.071340+05:30'
-last_checked: '2026-06-25T16:45:07.071340+05:30'
+first_seen: '2026-06-30T20:21:09.940797+05:30'
+last_seen: '2026-06-30T20:21:09.940797+05:30'
+last_checked: '2026-06-30T20:21:09.940797+05:30'
 health_score: 100
 ---
 
@@ -23,16 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Apple TV 4K supports tvOS 26**, with backward compatibility for versions 12.0 through 18.0, providing structured documentation for setup, navigation, and advanced features like Siri integration and AirPlay 2 streaming.
-
-- **Key functionalities include**:
-  - **Multi-device ecosystem integration** (e.g., HomePod, AirPods, iPhone/iPad as remote, Bluetooth device pairing).
-  - **App ecosystem management** (e.g., Apple TV app for streaming, Fitness+ for workouts, Arcade for gaming, and SharePlay for collaborative experiences).
-
-- **Advanced features**:
-  - **Parental controls, voice recognition, and Family Sharing** for user management.
-  - **Screen saver customization** (e.g., iCloud Photos integration, slideshow creation).
-  - **Cross-platform synchronization** (e.g., Mac library media streaming, iCloud Photos sync).
+- **tvOS 26 Overview**: Apple's tvOS 26 introduces new features for Apple TV 4K, including enhanced Siri integration, improved Control Center navigation, and advanced parental controls via voice recognition.
+- **Device Compatibility & Setup**: Supports pairing with iPhone/iPad for remote functionality, Bluetooth audio devices, and AirPlay streaming; includes model identification and status light diagnostics.
+- **App Ecosystem & Media Management**: Integrates Apple TV, Music, Fitness+, Photos, Arcade, and Podcasts apps with SharePlay, screen saver customization, and cross-device media syncing (e.g., Mac library streaming).
 
 ## Why It Matters
 
@@ -42,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:45:07.071330+05:30
+- Published: 2026-06-30T20:21:09.940778+05:30
 
 ## Related Tags
 

@@ -9,13 +9,14 @@ collected_at: '2026-06-30T15:31:50.776604+05:30'
 tags:
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:commaai/openpilot
 first_seen: '2026-06-26T20:18:15.053508+05:30'
 last_seen: '2026-06-30T15:31:50.776604+05:30'
 last_checked: '2026-06-30T15:31:50.776604+05:30'
 health_score: 100
 ---
+
 
 # commaai/openpilot
 

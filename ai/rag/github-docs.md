@@ -1,35 +1,39 @@
 ---
-title: docs/content/integrations/concepts/about-building-integrations.md at main ·
-  github/docs · GitHub
+title: docs/content/copilot/reference/copilot-cli-reference/cli-command-reference.md
+  at main · github/docs · GitHub
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/github/docs/blob/main/content/integrations/concepts/about-building-integrations.md
-published_at: '2026-06-29T17:04:32.801659+05:30'
-collected_at: '2026-06-29T17:04:32.801673+05:30'
+source_url: https://github.com/github/docs/blob/main/content/copilot/reference/copilot-cli-reference/cli-command-reference.md
+published_at: '2026-06-30T20:21:36.376938+05:30'
+collected_at: '2026-06-30T20:21:36.376955+05:30'
 tags:
+- agents
+- anthropic
+- models
+- openai
+- producthunt
 - rag
-- reddit
 - scripts
 - web-crawled
 - workflows
 status: active
 resource_id: github:github/docs
-first_seen: '2026-06-29T17:04:32.801673+05:30'
-last_seen: '2026-06-29T17:04:32.801673+05:30'
-last_checked: '2026-06-29T17:04:32.801673+05:30'
+first_seen: '2026-06-30T20:21:36.376955+05:30'
+last_seen: '2026-06-30T20:21:36.376955+05:30'
+last_checked: '2026-06-30T20:21:36.376955+05:30'
 health_score: 100
 ---
 
-# docs/content/integrations/concepts/about-building-integrations.md at main · github/docs · GitHub
+# docs/content/copilot/reference/copilot-cli-reference/cli-command-reference.md at main · github/docs · GitHub
 
 ## Summary
 
-- **Integration Types**: {% data variables.product.company_short %} supports three primary integration types: **{% data variables.product.prodname_github_apps %}** (server/device-hosted), **{% data variables.product.prodname_actions %} workflows** (event-triggered automation), and **custom actions** (executable code within workflows).
+- **Core CLI Commands**: `copilot` launches an interactive UI; `copilot init` initializes custom instructions; `copilot login` authenticates via OAuth device flow (supports `--host` for GitHub Enterprise); `copilot completion SHELL` enables shell-specific tab completion (bash/zsh/fish); `copilot update`/`version` manage CLI updates.
 
-- **API & Webhook Support**: Integrations leverage **REST** or **GraphQL APIs** for data operations and **webhooks** to receive real-time event notifications (e.g., issue creation, PR comments).
+- **Authentication Modes**: Supports OAuth tokens (CLI app or `gh` app), fine-grained PATs (`COPILOT_GITHUB_TOKEN`, `GH_TOKEN`, `GITHUB_TOKEN`), and stores tokens in system credential store or `~/.copilot/` (fallback to plaintext if no store exists).
 
-- **Distribution & AI Integration**: {% ifversion fpt or ghec %}Published integrations ({% data variables.product.prodname_github_apps %}, custom actions) can be listed on **{% data variables.product.prodname_marketplace %}**, and **generative AI models** are accessible for free experimentation via {% data variables.product.company_short %}'s AI tools.{% endif %}
+- **Interactive Shortcuts**: Global: `@ FILENAME` includes files, `# NUMBER` references GitHub issues/PRs, `! COMMAND` executes shell commands; Diff mode: `↑`/`↓` navigates changes, `c` comments, `b` toggles branch diff; Navigation: `Ctrl+A/E` moves cursor, `Alt+←/→` moves by word.
 
 ## Why It Matters
 
@@ -39,16 +43,20 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T17:04:32.801659+05:30
+- Published: 2026-06-30T20:21:36.376938+05:30
 
 ## Related Tags
 
+- agents
+- anthropic
+- models
+- openai
+- producthunt
 - rag
-- reddit
 - scripts
 - web-crawled
 - workflows
 
 ## Source
 
-Original source: https://github.com/github/docs/blob/main/content/integrations/concepts/about-building-integrations.md
+Original source: https://github.com/github/docs/blob/main/content/copilot/reference/copilot-cli-reference/cli-command-reference.md

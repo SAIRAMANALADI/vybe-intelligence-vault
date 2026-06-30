@@ -1,32 +1,26 @@
 ---
-title: deepset-ai/haystack · Discussions · GitHub
+title: deepset-ai/haystack
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack/discussions
+source_url: https://github.com/deepset-ai/haystack?source=post_page
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
-tags:
-- agents
-- anthropic
-- rag
-- web-crawled
-- workflows
+importance: high
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# deepset-ai/haystack · Discussions · GitHub
+# deepset-ai/haystack
 
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +28,11 @@ selection_reason:
 
 ## Summary
 
-- **Haystack** is an open-source framework by **deepset-ai** for building **RAG (Retrieval-Augmented Generation)** pipelines, with **25.8k+ stars** and **2.9k+ forks** on GitHub.
-- Active community discussions focus on **debugging retrieval failures**, **RAG quality issues**, and **new toolchains** like **Haystack Diagnostics Engine** for pipeline validation.
-- Recent contributions include **AgentShield** (runtime security for tool calls) and **Agent Memory Guard** (OWASP-compliant memory poison
+- **Modular LLM Orchestration Framework**: Enables building production-ready LLM applications with explicit control over retrieval, routing, memory, and generation via customizable pipelines and agent workflows.
+
+- **Multi-Use Case Support**: Facilitates scalable agents, RAG, multimodal applications, semantic search, and conversational systems with modular design and integration of transformers/PyTorch.
+
+- **Technical Stack & Ecosystem**: Python-based, supports MDX, integrates with GPT-4, Gemini
 
 ## Use Cases
 
@@ -46,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack/discussions
+Original source URL: https://github.com/deepset-ai/haystack?source=post_page
 
 ## Local Vault File
 

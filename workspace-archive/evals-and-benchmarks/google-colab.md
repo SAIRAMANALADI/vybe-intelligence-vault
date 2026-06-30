@@ -2,7 +2,7 @@
 title: Google Colab
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/27_First_RAG_Pipeline.ipynb
+source_url: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
 resource_id: blog:google-colab
 local_vault_path: ai/rag/google-colab.md
 quality_score: 70
@@ -11,6 +11,9 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
+- dataset
+- models
 - rag
 - web-crawled
 selection_reason:
@@ -31,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Resource Access**: The provided link is a Google Colab notebook tutorial titled *"First RAG Pipeline"* hosted on GitHub under the `deepset-ai/haystack-tutorials` repository.
+- **LoRA (Low-Rank Adaptation)**: Introduces trainable rank decomposition matrices into transformer layers, reducing trainable parameters by freezing pre-trained weights while enabling efficient fine-tuning for downstream tasks.
 
-- **Content Focus**: The notebook demonstrates building a **Retrieval-Augmented Generation (RAG)** pipeline using the Haystack framework, a tool for NLP tasks like question answering and document search.
+- **Implementation in Gemma**: Demonstrates LoRA integration with Google’s Gemma models via Hugging Face Transformers, leveraging `peft` library for parameter-efficient fine-tuning with minimal compute overhead.
 
-- **Prerequisite**: Requires Google account authentication to access and execute the interactive tutorial in Google
+- **Performance Metrics**: Achieves competitive results w
 
 ## Use Cases
 
@@ -45,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/27_First_RAG_Pipeline.ipynb
+Original source URL: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
 
 ## Local Vault File
 

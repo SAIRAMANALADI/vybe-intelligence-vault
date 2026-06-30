@@ -4,14 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gomate-community/awesome-papers-for-rag
-collected_at: '2026-06-30T15:34:00.728484+05:30'
+collected_at: '2026-06-30T20:16:11.012051+05:30'
 published_at: '2026-06-11T16:55:48Z'
 tags:
 - benchmark
+- dataset
 - github-repo
+- hackernews
 - paper
 - python
 - rag
+- workflows
 stars: 135
 language: Python
 status: active
@@ -20,9 +23,9 @@ archived: false
 created_at: '2024-02-23T08:38:47Z'
 pushed_at: '2025-10-31T14:16:08Z'
 resource_id: github:gomate-community/awesome-papers-for-rag
-first_seen: '2026-06-30T15:34:00.728484+05:30'
-last_seen: '2026-06-30T15:34:00.728484+05:30'
-last_checked: '2026-06-30T15:34:00.728484+05:30'
+first_seen: '2026-06-30T20:16:11.012051+05:30'
+last_seen: '2026-06-30T20:16:11.012051+05:30'
+last_checked: '2026-06-30T20:16:11.012051+05:30'
 health_score: 100
 ---
 
@@ -30,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, benchmarks, and frameworks focused on retrieval-augmented generation (RAG), including implementations in Python.
-- **Metadata**: 135 stars, 12 forks, last updated June 11, 2026; categorized under Python with no additional topics specified.
-- **Purpose**: Serves as a centralized hub for researchers and practitioners to explore advancements, methodologies, and empirical evaluations in RAG systems.
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG) methodologies, architectures, and applications.
+- **Python-Centric**: Primarily Python-based with structured metadata (e.g., BibTeX, arXiv IDs) for easy integration with ML pipelines and research workflows.
+- **Last Updated**: Actively maintained with the latest commit (2026-06-11) reflecting ongoing updates to RAG advancements and benchmarking datasets.
 
 ## Why It Matters
 

@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [Melvor Idle 2 on Steam](../ai/rag/melvor-idle-2-on-steam.md) ([Source URL](https://store.steampowered.com/app/3218350/melvor_idle_2))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:46:37.481152+05:30
-- **Local Path**: `ai/rag/melvor-idle-2-on-steam.md`
-
-### 2. [Games by Malcs :: Home](../ai/resources/games-by-malcs-home.md) ([Source URL](https://gamesbymalcs.com))
+### 1. [IAIK/merkle-tree](../ai/resources/iaik-merkle-tree.md) ([Source URL](https://github.com/iaik/merkle-tree))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:41:52.568163+05:30
-- **Local Path**: `ai/resources/games-by-malcs-home.md`
+- **Collected At**: 2026-06-30T20:29:05.634577+05:30
+- **Local Path**: `ai/resources/iaik-merkle-tree.md`
 
-### 3. [GitHub Copilot CLI · GitHub](../ai/agents/features-copilot.md) ([Source URL](https://github.com/features/copilot))
+### 2. [FinOps Certified Practitioner](../ai/resources/finops-certified-practitioner.md) ([Source URL](https://learn.finops.org/path/finops-certified-practitioner-self-paced))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T20:28:18.712396+05:30
+- **Local Path**: `ai/resources/finops-certified-practitioner.md`
+
+### 3. [FinOps Foundation · GitHub](../ai/resources/finops-foundation-github.md) ([Source URL](https://github.com/finopsfoundation))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T20:28:18.284575+05:30
+- **Local Path**: `ai/resources/finops-foundation-github.md`
+
+### 4. [The FinOps Foundation](../ai/agents/the-finops-foundation.md) ([Source URL](https://finops.org))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-30T15:41:13.613521+05:30
-- **Local Path**: `ai/agents/features-copilot.md`
+- **Collected At**: 2026-06-30T20:28:14.477476+05:30
+- **Local Path**: `ai/agents/the-finops-foundation.md`
 
-### 4. [NFL Sunday Ticket pricing & billing - YouTube TV Help](../ai/rag/nfl-sunday-ticket-pricing-billing-youtube-tv-help.md) ([Source URL](https://support.google.com/youtubetv/answer/15137773?p=NFL_Sunday_Ticket_Payments&rd=1&visit_id=639003560018834577-2321660432))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:41:11.509436+05:30
-- **Local Path**: `ai/rag/nfl-sunday-ticket-pricing-billing-youtube-tv-help.md`
-
-### 5. [Neo4j · GitHub](../ai/rag/neo4j-github.md) ([Source URL](https://github.com/neo4j))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:41:09.063245+05:30
-- **Local Path**: `ai/rag/neo4j-github.md`
-
-### 6. [Free book: Essential GraphRAG from Manning Publications - Neo4j](../ai/rag/free-book-essential-graphrag-from-manning-publicat.md) ([Source URL](https://neo4j.com/essential-graphrag))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:41:06.662214+05:30
-- **Local Path**: `ai/rag/free-book-essential-graphrag-from-manning-publicat.md`
-
-### 7. [GraphAcademy — Free, Hands-On Neo4j Training & Certification](../ai/rag/free-self-paced-hands-on-online-training-free-neo4.md) ([Source URL](https://graphacademy.neo4j.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:41:05.801933+05:30
-- **Local Path**: `ai/rag/free-self-paced-hands-on-online-training-free-neo4.md`
-
-### 8. [Python Packaging Authority — PyPA documentation](../ai/resources/python-packaging-authority-pypa-documentation.md) ([Source URL](https://pypa.io/en/latest))
+### 5. [Linux Foundation | Browse Projects](../ai/resources/linux-foundation-browse-projects.md) ([Source URL](https://linuxfoundation.org/projects))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:41:03.195349+05:30
-- **Local Path**: `ai/resources/python-packaging-authority-pypa-documentation.md`
+- **Collected At**: 2026-06-30T20:28:11.154808+05:30
+- **Local Path**: `ai/resources/linux-foundation-browse-projects.md`
 
-### 9. [android Git repositories - Git at Google](../ai/rag/android-git-repositories-git-at-google.md) ([Source URL](https://android.googlesource.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:40:31.927550+05:30
-- **Local Path**: `ai/rag/android-git-repositories-git-at-google.md`
-
-### 10. [Firebase | Google's Mobile and Web App Development Platform](../ai/rag/firebase-google-s-mobile-and-web-app-development-p.md) ([Source URL](https://firebase.google.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:40:29.078890+05:30
-- **Local Path**: `ai/rag/firebase-google-s-mobile-and-web-app-development-p.md`
-
-### 11. [Improve performance and UX for client-side AI | web.dev](../ai/rag/improve-performance-and-ux-for-client-side-ai-web.md) ([Source URL](https://web.dev/articles/client-side-ai-performance))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:40:28.557713+05:30
-- **Local Path**: `ai/rag/improve-performance-and-ux-for-client-side-ai-web.md`
-
-### 12. [Artificial Intelligence | web.dev](../ai/rag/artificial-intelligence-web-dev.md) ([Source URL](https://web.dev/explore/ai))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:40:28.485573+05:30
-- **Local Path**: `ai/rag/artificial-intelligence-web-dev.md`
-
-### 13. [Client libraries and Cloud APIs explained | Google Cloud SDK | Google Cloud Documentation](../ai/rag/client-libraries-and-cloud-apis-explained-google-c.md) ([Source URL](https://cloud.google.com/apis/docs/client-libraries-explained))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:40:28.141760+05:30
-- **Local Path**: `ai/rag/client-libraries-and-cloud-apis-explained-google-c.md`
-
-### 14. [Factory Images for Nexus and Pixel Devices | Google Play services | Google for Developers](../ai/resources/factory-images-for-nexus-and-pixel-devices-google.md) ([Source URL](https://developers.google.com/android/images))
+### 6. [C2PA | Verifying Media Content Sources](../ai/resources/c2pa-verifying-media-content-sources.md) ([Source URL](https://c2pa.org))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:40:27.022613+05:30
-- **Local Path**: `ai/resources/factory-images-for-nexus-and-pixel-devices-google.md`
+- **Collected At**: 2026-06-30T20:28:07.792567+05:30
+- **Local Path**: `ai/resources/c2pa-verifying-media-content-sources.md`
 
-### 15. [superproject](../ai/resources/superproject.md) ([Source URL](https://cs.android.com/android/platform/superproject))
+### 7. [Media Types](../ai/rag/media-types.md) ([Source URL](http://iana.org/assignments/media-types))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T20:27:37.863804+05:30
+- **Local Path**: `ai/rag/media-types.md`
+
+### 8. [RFC 6838 - Media Type Specifications and Registration Procedures](../ai/rag/rfc-6838-media-type-specifications-and-registratio.md) ([Source URL](https://tools.ietf.org/html/rfc6838))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T20:27:31.086973+05:30
+- **Local Path**: `ai/rag/rfc-6838-media-type-specifications-and-registratio.md`
+
+### 9. [Merkle tree - Wikipedia](../ai/rag/merkle-tree-wikipedia.md) ([Source URL](https://en.wikipedia.org/wiki/merkle_tree))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T20:27:30.837650+05:30
+- **Local Path**: `ai/rag/merkle-tree-wikipedia.md`
+
+### 10. [@celphase.bsky.social on Bluesky](../ai/resources/celphase-bsky-social-on-bluesky.md) ([Source URL](https://bsky.app/profile/celphase.bsky.social))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:40:25.881072+05:30
-- **Local Path**: `ai/resources/superproject.md`
+- **Collected At**: 2026-06-30T20:26:51.062609+05:30
+- **Local Path**: `ai/resources/celphase-bsky-social-on-bluesky.md`
 
-### 16. [What is artificial intelligence? | web.dev](../ai/rag/what-is-artificial-intelligence-web-dev.md) ([Source URL](https://web.dev/articles/ai-overview))
+### 11. [opencontainers/runc](../ai/rag/opencontainers-runc.md) ([Source URL](https://github.com/opencontainers/runc))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:40:25.308973+05:30
-- **Local Path**: `ai/rag/what-is-artificial-intelligence-web-dev.md`
+- **Collected At**: 2026-06-30T20:25:51.330330+05:30
+- **Local Path**: `ai/rag/opencontainers-runc.md`
 
-### 17. [Functional programming - Wikipedia](../ai/rag/functional-programming-wikipedia.md) ([Source URL](https://en.wikipedia.org/wiki/functional_programming))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:40:23.929057+05:30
-- **Local Path**: `ai/rag/functional-programming-wikipedia.md`
-
-### 18. [17 U.S. Code § 107 - Limitations on exclusive rights: Fair use | U.S. Code | US Law | LII / Legal Information Institute](../ai/rag/17-u-s-code-ss-107-limitations-on-exclusive-rights.md) ([Source URL](http://www4.law.cornell.edu/uscode/17/107.html))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:40:23.069052+05:30
-- **Local Path**: `ai/rag/17-u-s-code-ss-107-limitations-on-exclusive-rights.md`
-
-### 19. [U.S. Copyright Office | U.S. Copyright Office](../ai/resources/u-s-copyright-office-u-s-copyright-office.md) ([Source URL](https://copyright.gov))
+### 12. [image-spec/manifest.md at main · opencontainers/image-spec · GitHub](../ai/resources/opencontainers-image-spec.md) ([Source URL](https://github.com/opencontainers/image-spec))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:40:21.006057+05:30
-- **Local Path**: `ai/resources/u-s-copyright-office-u-s-copyright-office.md`
+- **Collected At**: 2026-06-30T20:25:46.833656+05:30
+- **Local Path**: `ai/resources/opencontainers-image-spec.md`
 
-### 20. [The Right Choice! - Cornell Law School](../ai/resources/the-right-choice-cornell-law-school.md) ([Source URL](https://lawschool.cornell.edu))
+### 13. [cli/cli](../ai/rag/cli-cli.md) ([Source URL](https://github.com/cli/cli))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T20:25:27.196413+05:30
+- **Local Path**: `ai/rag/cli-cli.md`
+
+### 14. [Making sure you're not a bot!](../ai/resources/making-sure-you-re-not-a-bot.md) ([Source URL](https://lumendatabase.org))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:40:19.645419+05:30
-- **Local Path**: `ai/resources/the-right-choice-cornell-law-school.md`
+- **Collected At**: 2026-06-30T20:22:32.911906+05:30
+- **Local Path**: `ai/resources/making-sure-you-re-not-a-bot.md`
 
-### 21. [Review your order history - Google Play Help](../ai/rag/review-your-order-history-google-play-help.md) ([Source URL](https://support.google.com/googleplay/answer/2850369?hl=en))
+### 15. [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md) ([Source URL](https://law.cornell.edu/uscode/text/17/512))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:40:19.157097+05:30
-- **Local Path**: `ai/rag/review-your-order-history-google-play-help.md`
-
-### 22. [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md) ([Source URL](http://www4.law.cornell.edu/uscode/17/512.html))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:40:18.359826+05:30
+- **Collected At**: 2026-06-30T20:22:22.852661+05:30
 - **Local Path**: `ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md`
 
-### 23. [Story’s detailed stats page – Medium Help Center](../ai/rag/storys-detailed-stats-page-medium-help-center.md) ([Source URL](https://help.medium.com/hc/en-us/articles/34831991136151))
+### 16. [iPad - Apple](../ai/resources/ipad-apple.md) ([Source URL](https://apple.com/ipad))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T20:22:22.497853+05:30
+- **Local Path**: `ai/resources/ipad-apple.md`
+
+### 17. [Mac - Apple](../ai/rag/mac-apple.md) ([Source URL](https://apple.com/mac))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:40:13.628575+05:30
+- **Collected At**: 2026-06-30T20:22:22.475924+05:30
+- **Local Path**: `ai/rag/mac-apple.md`
+
+### 18. [Site Map - Apple](../ai/rag/site-map-apple.md) ([Source URL](https://apple.com/sitemap))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T20:22:22.211921+05:30
+- **Local Path**: `ai/rag/site-map-apple.md`
+
+### 19. [Legal - Website Terms of Use - Apple](../ai/agents/legal-website-terms-of-use-apple.md) ([Source URL](https://apple.com/legal/internet-services/terms/site.html))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-30T20:22:22.055454+05:30
+- **Local Path**: `ai/agents/legal-website-terms-of-use-apple.md`
+
+### 20. [Legal - Apple Privacy Policy - Apple](../ai/rag/legal-apple-privacy-policy-apple.md) ([Source URL](https://apple.com/legal/privacy/en-ww))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T20:22:22.018202+05:30
+- **Local Path**: `ai/rag/legal-apple-privacy-policy-apple.md`
+
+### 21. [Watch YouTube TV on supported devices - Computer - YouTube TV Help](../ai/rag/watch-youtube-tv-on-supported-devices-computer-you.md) ([Source URL](https://support.google.com/youtubetv/answer/7129767?hl=en&ref_topic=7071745))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T20:22:16.497881+05:30
+- **Local Path**: `ai/rag/watch-youtube-tv-on-supported-devices-computer-you.md`
+
+### 22. [YouTube TV: Live TV & more - Apps on Google Play](../ai/rag/youtube-tv-live-tv-more-apps-on-google-play.md) ([Source URL](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.unplugged))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T20:22:11.607942+05:30
+- **Local Path**: `ai/rag/youtube-tv-live-tv-more-apps-on-google-play.md`
+
+### 23. [Get extra features on YouTube TV with 4K Plus - Computer - YouTube TV Help](../ai/rag/get-extra-features-on-youtube-tv-with-4k-plus-comp.md) ([Source URL](https://support.google.com/youtubetv/answer/10383365))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T20:22:11.350420+05:30
+- **Local Path**: `ai/rag/get-extra-features-on-youtube-tv-with-4k-plus-comp.md`
+
+### 24. [T5Gemma: A new collection of encoder-decoder Gemma models - Google Developers Blog](../ai/rag/t5gemma-a-new-collection-of-encoder-decoder-gemma.md) ([Source URL](https://developers.googleblog.com/en/t5gemma))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T20:22:07.141053+05:30
+- **Local Path**: `ai/rag/t5gemma-a-new-collection-of-encoder-decoder-gemma.md`
+
+### 25. [MedGemma: Our most capable open models for health AI development](../ai/rag/medgemma-our-most-capable-open-models-for-health-a.md) ([Source URL](https://research.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T20:22:07.064170+05:30
+- **Local Path**: `ai/rag/medgemma-our-most-capable-open-models-for-health-a.md`
+
+### 26. [Google variants - a Gemmaverse Collection](../ai/rag/huggingface-collections-gemmaverse.md) ([Source URL](https://huggingface.co/collections/gemmaverse))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T20:22:06.845595+05:30
+- **Local Path**: `ai/rag/huggingface-collections-gemmaverse.md`
+
+### 27. [Baseline | web.dev](../ai/resources/baseline-web-dev.md) ([Source URL](https://web.dev/baseline))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T20:22:05.735882+05:30
+- **Local Path**: `ai/resources/baseline-web-dev.md`
+
+### 28. [Privacy Sandbox](../ai/resources/privacy-sandbox.md) ([Source URL](https://developers.google.com/privacy-sandbox))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T20:22:05.273355+05:30
+- **Local Path**: `ai/resources/privacy-sandbox.md`
+
+### 29. [PageSpeed Insights](../ai/resources/pagespeed-insights.md) ([Source URL](https://pagespeed.web.dev))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T20:22:05.199173+05:30
+- **Local Path**: `ai/resources/pagespeed-insights.md`
+
+### 30. [specs/specs/serving/knative-api-specification-1.0.md at main · knative/specs · GitHub](../ai/resources/knative-specs.md) ([Source URL](https://github.com/knative/specs))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T20:21:57.610721+05:30
+- **Local Path**: `ai/resources/knative-specs.md`
+
+### 31. [About the Open Container Initiative - Open Container Initiative](../ai/rag/about-the-open-container-initiative-open-container.md) ([Source URL](https://opencontainers.org/about/overview))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T20:21:56.997631+05:30
+- **Local Path**: `ai/rag/about-the-open-container-initiative-open-container.md`
+
+### 32. [Tutorials | Claude by Anthropic](../ai/agents/tutorials-claude-by-anthropic.md) ([Source URL](https://claude.com/resources/tutorials))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-30T20:21:36.823282+05:30
+- **Local Path**: `ai/agents/tutorials-claude-by-anthropic.md`
+
+### 33. [docs/content/copilot/reference/copilot-cli-reference/cli-command-reference.md at main · github/docs · GitHub](../ai/rag/github-docs.md) ([Source URL](https://github.com/github/docs))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T20:21:36.376955+05:30
+- **Local Path**: `ai/rag/github-docs.md`
+
+### 34. [anthropic-experimental/agentic-misalignment](../ai/agents/anthropic-experimental-agentic-misalignment.md) ([Source URL](https://github.com/anthropic-experimental/agentic-misalignment))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-30T20:21:35.445686+05:30
+- **Local Path**: `ai/agents/anthropic-experimental-agentic-misalignment.md`
+
+### 35. [Story’s detailed stats page – Medium Help Center](../ai/rag/storys-detailed-stats-page-medium-help-center.md) ([Source URL](https://help.medium.com/hc/en-us/articles/34831991136151))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T20:21:34.759210+05:30
 - **Local Path**: `ai/rag/storys-detailed-stats-page-medium-help-center.md`
 
-### 24. [Speechify AI - Voice AI Research Lab](../ai/rag/speechify-ai-voice-ai-research-lab.md) ([Source URL](https://speechify.ai))
+### 36. [jq](../ai/resources/jq.md) ([Source URL](https://jqlang.github.io/jq))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T20:21:31.632783+05:30
+- **Local Path**: `ai/resources/jq.md`
+
+### 37. [Claude Platform | Claude by Anthropic](../ai/resources/claude-platform-claude-by-anthropic.md) ([Source URL](https://claude.com/platform/api))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T20:21:31.448343+05:30
+- **Local Path**: `ai/resources/claude-platform-claude-by-anthropic.md`
+
+### 38. [Visual Studio Support - Customer Help & FAQs](../ai/resources/visual-studio-support-customer-help-faqs.md) ([Source URL](https://visualstudio.com/support/support-overview-vs))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T20:21:29.030614+05:30
+- **Local Path**: `ai/resources/visual-studio-support-customer-help-faqs.md`
+
+### 39. [GitHub CLI telemetry - GitHub Docs](../ai/agents/github-cli-telemetry-github-docs.md) ([Source URL](https://docs.github.com/en/github-cli/github-cli/github-cli-telemetry))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-30T20:21:27.394889+05:30
+- **Local Path**: `ai/agents/github-cli-telemetry-github-docs.md`
+
+### 40. [WSL/WSL/install.md at main · MicrosoftDocs/WSL · GitHub](../ai/rag/microsoftdocs-wsl.md) ([Source URL](https://github.com/microsoftdocs/wsl))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:40:11.300647+05:30
-- **Local Path**: `ai/rag/speechify-ai-voice-ai-research-lab.md`
+- **Collected At**: 2026-06-30T20:21:25.754380+05:30
+- **Local Path**: `ai/rag/microsoftdocs-wsl.md`
 
-### 25. [Project Jupyter · GitHub](../ai/resources/project-jupyter-github.md) ([Source URL](https://github.com/jupyter))
+### 41. [Introduction | Electron](../ai/resources/introduction-electron.md) ([Source URL](https://electronjs.org/docs/latest))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:40:09.771662+05:30
-- **Local Path**: `ai/resources/project-jupyter-github.md`
-
-### 26. [typing/conformance at main · python/typing · GitHub](../ai/resources/python-typing.md) ([Source URL](https://github.com/python/typing))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:40:09.363358+05:30
-- **Local Path**: `ai/resources/python-typing.md`
-
-### 27. [jupyterlab/jupyterlab](../ai/resources/jupyterlab-jupyterlab.md) ([Source URL](https://github.com/jupyterlab/jupyterlab))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:40:09.024133+05:30
-- **Local Path**: `ai/resources/jupyterlab-jupyterlab.md`
-
-### 28. [Introduction | Electron](../ai/resources/introduction-electron.md) ([Source URL](https://electronjs.org/docs/latest))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:40:08.898639+05:30
+- **Collected At**: 2026-06-30T20:21:25.040367+05:30
 - **Local Path**: `ai/resources/introduction-electron.md`
 
-### 29. [CodeQL documentation](../ai/rag/codeql-documentation.md) ([Source URL](https://codeql.github.com/docs))
+### 42. [CodeQL documentation](../ai/rag/codeql-documentation.md) ([Source URL](https://codeql.github.com/docs))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:40:08.656345+05:30
+- **Collected At**: 2026-06-30T20:21:24.836229+05:30
 - **Local Path**: `ai/rag/codeql-documentation.md`
 
-### 30. [GitHub Status](../ai/rag/github-status.md) ([Source URL](https://githubstatus.com))
+### 43. [npm Docs](../ai/resources/npm-docs.md) ([Source URL](https://docs.npmjs.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T20:21:24.453355+05:30
+- **Local Path**: `ai/resources/npm-docs.md`
+
+### 44. [Releases · microsoft/WSL · GitHub](../ai/rag/microsoft-wsl.md) ([Source URL](https://github.com/microsoft/wsl))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:40:08.442314+05:30
-- **Local Path**: `ai/rag/github-status.md`
+- **Collected At**: 2026-06-30T20:21:21.418415+05:30
+- **Local Path**: `ai/rag/microsoft-wsl.md`
 
-### 31. [Installation — JupyterLab 4.7.0a0 documentation](../ai/resources/installation-jupyterlab-4-6-0-documentation.md) ([Source URL](https://jupyterlab.rtfd.io/en/latest/getting_started/installation.html))
+### 45. [Install WSL with a single command now available in Windows 10 version 2004 and higher - Windows Command Line](../ai/resources/install-wsl-with-a-single-command-now-available-in.md) ([Source URL](https://devblogs.microsoft.com/commandline/install-wsl-with-a-single-command-now-available-in-windows-10-version-2004-and-higher))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:40:07.000454+05:30
-- **Local Path**: `ai/resources/installation-jupyterlab-4-6-0-documentation.md`
+- **Collected At**: 2026-06-30T20:21:20.879097+05:30
+- **Local Path**: `ai/resources/install-wsl-with-a-single-command-now-available-in.md`
 
-### 32. [Community Guide](../ai/resources/community-guide.md) ([Source URL](https://jupyterbook.org))
+### 46. [Turn on Match Dynamic Range or Match Frame Rate on your Apple TV - Apple Support](../ai/resources/turn-on-match-dynamic-range-or-match-frame-rate-on.md) ([Source URL](https://support.apple.com/en-us/ht208288))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:40:04.512198+05:30
-- **Local Path**: `ai/resources/community-guide.md`
+- **Collected At**: 2026-06-30T20:21:14.708248+05:30
+- **Local Path**: `ai/resources/turn-on-match-dynamic-range-or-match-frame-rate-on.md`
 
-### 33. [JupyterLab Documentation — JupyterLab 4.7.0a0 documentation](../ai/resources/jupyterlab-documentation-jupyterlab-4-7-0a0-docume.md) ([Source URL](https://jupyterlab.readthedocs.io))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:40:04.218310+05:30
-- **Local Path**: `ai/resources/jupyterlab-documentation-jupyterlab-4-7-0a0-docume.md`
-
-### 34. [microsoft/pyright](../ai/resources/microsoft-pyright.md) ([Source URL](https://github.com/microsoft/pyright))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:40:03.974501+05:30
-- **Local Path**: `ai/resources/microsoft-pyright.md`
-
-### 35. [ty](../ai/resources/ty.md) ([Source URL](https://docs.astral.sh/ty))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:40:03.898509+05:30
-- **Local Path**: `ai/resources/ty.md`
-
-### 36. [Pallets Projects](../ai/resources/pallets-projects.md) ([Source URL](https://discord.gg/pallets))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:39:49.306652+05:30
-- **Local Path**: `ai/resources/pallets-projects.md`
-
-### 37. [Jinja2 · PyPI](../ai/resources/client-challenge.md) ([Source URL](https://pypi.org/project/jinja2))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:39:49.048030+05:30
-- **Local Path**: `ai/resources/client-challenge.md`
-
-### 38. [Pallets](../ai/resources/pallets.md) ([Source URL](https://palletsprojects.com/donate))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:39:48.931657+05:30
-- **Local Path**: `ai/resources/pallets.md`
-
-### 39. [pallets/werkzeug](../ai/resources/pallets-werkzeug.md) ([Source URL](https://github.com/pallets/werkzeug))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:39:40.764974+05:30
-- **Local Path**: `ai/resources/pallets-werkzeug.md`
-
-### 40. [Workflow runs · pennersr/django-allauth · GitHub](../ai/resources/pennersr-django-allauth.md) ([Source URL](https://github.com/pennersr/django-allauth))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:39:27.822176+05:30
-- **Local Path**: `ai/resources/pennersr-django-allauth.md`
-
-### 41. [django-allauth](../ai/rag/django-allauth.md) ([Source URL](https://docs.allauth.org/en/latest))
+### 47. [About Medium](../ai/rag/about-medium.md) ([Source URL](https://about.medium.com))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:39:26.274094+05:30
-- **Local Path**: `ai/rag/django-allauth.md`
+- **Collected At**: 2026-06-30T20:21:11.709671+05:30
+- **Local Path**: `ai/rag/about-medium.md`
 
-### 42. [django-allauth · PyPI](../ai/rag/django-allauth-pypi.md) ([Source URL](https://pypi.python.org/pypi/django-allauth))
+### 48. [Streamlined Arbitration Rules & Procedures | JAMS Mediation, Arbitration, ADR Services](../ai/rag/streamlined-arbitration-rules-procedures-jams-medi.md) ([Source URL](https://jamsadr.com/rules-streamlined-arbitration))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:39:25.004447+05:30
-- **Local Path**: `ai/rag/django-allauth-pypi.md`
+- **Collected At**: 2026-06-30T20:21:11.324322+05:30
+- **Local Path**: `ai/rag/streamlined-arbitration-rules-procedures-jams-medi.md`
 
-### 43. [Godot Engine - Free and open source 2D and 3D game engine](../ai/resources/godot-engine-free-and-open-source-2d-and-3d-game-e.md) ([Source URL](https://godotengine.org))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:39:24.378025+05:30
-- **Local Path**: `ai/resources/godot-engine-free-and-open-source-2d-and-3d-game-e.md`
-
-### 44. [gradio-app/gradio](../ai/resources/gradio-app-gradio.md) ([Source URL](https://github.com/gradio-app/gradio))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:39:21.224005+05:30
-- **Local Path**: `ai/resources/gradio-app-gradio.md`
-
-### 45. [Agentic Infrastructure](../ai/rag/agentic-infrastructure.md) ([Source URL](https://vercel.com))
+### 49. [Change audio settings on Apple TV 4K - Apple Support](../ai/rag/change-audio-settings-on-apple-tv-4k-apple-support.md) ([Source URL](https://support.apple.com/guide/tv/adjust-video-and-audio-settings-atvba773c3c9))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:39:19.720268+05:30
-- **Local Path**: `ai/rag/agentic-infrastructure.md`
+- **Collected At**: 2026-06-30T20:21:09.940797+05:30
+- **Local Path**: `ai/rag/change-audio-settings-on-apple-tv-4k-apple-support.md`
 
-### 46. [deepset-ai/haystack · Discussions · GitHub](../ai/rag/deepset-ai-haystack.md) ([Source URL](https://github.com/deepset-ai/haystack))
+### 50. [The Exclusive Home of NFL Sunday Ticket - YouTube & YouTube TV](../ai/rag/the-exclusive-home-of-nfl-sunday-ticket-youtube-yo.md) ([Source URL](https://tv.youtube.com/learn/nflsundayticket))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:39:17.313775+05:30
-- **Local Path**: `ai/rag/deepset-ai-haystack.md`
-
-### 47. [haystack-tutorials/Contributing.md at main · deepset-ai/haystack-tutorials · GitHub](../ai/resources/deepset-ai-haystack-tutorials.md) ([Source URL](https://github.com/deepset-ai/haystack-tutorials))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:39:16.636377+05:30
-- **Local Path**: `ai/resources/deepset-ai-haystack-tutorials.md`
-
-### 48. [electron/forge](../ai/rag/electron-forge.md) ([Source URL](https://github.com/electron/forge))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:39:16.277206+05:30
-- **Local Path**: `ai/rag/electron-forge.md`
-
-### 49. [How we use GitHub to be more productive, collaborative, and secure - The GitHub Blog](../ai/resources/how-we-use-github-to-be-more-productive-collaborat.md) ([Source URL](https://github.blog/engineering/how-we-use-github-to-be-more-productive-collaborative-and-secure))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T15:39:12.503296+05:30
-- **Local Path**: `ai/resources/how-we-use-github-to-be-more-productive-collaborat.md`
-
-### 50. [Unlocking the power of unstructured data with RAG - The GitHub Blog](../ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md) ([Source URL](https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T15:39:12.461116+05:30
-- **Local Path**: `ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md`
+- **Collected At**: 2026-06-30T20:20:49.774279+05:30
+- **Local Path**: `ai/rag/the-exclusive-home-of-nfl-sunday-ticket-youtube-yo.md`
 
 ---
-*Index generated on 2026-06-30T15:47:51.520691+05:30*
+*Index generated on 2026-06-30T20:30:08.642656+05:30*

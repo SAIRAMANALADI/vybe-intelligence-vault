@@ -4,24 +4,22 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/llm-universe
-collected_at: '2026-06-30T15:32:45.775825+05:30'
-published_at: '2026-06-30T08:30:26Z'
+collected_at: '2026-06-30T20:15:01.152000+05:30'
+published_at: '2026-06-30T14:42:54Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
-- workflows
-stars: 13366
+stars: 13370
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2023-10-29T16:01:22Z'
 pushed_at: '2026-02-24T14:33:21Z'
 resource_id: github:datawhalechina/llm-universe
-first_seen: '2026-06-30T15:32:45.775825+05:30'
-last_seen: '2026-06-30T15:32:45.775825+05:30'
-last_checked: '2026-06-30T15:32:45.775825+05:30'
+first_seen: '2026-06-30T20:15:01.152000+05:30'
+last_seen: '2026-06-30T20:15:01.152000+05:30'
+last_checked: '2026-06-30T20:15:01.152000+05:30'
 health_score: 100
 ---
 
@@ -29,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Resource**: A beginner-friendly tutorial for developing LLM applications, structured as Jupyter Notebooks, with an online version available at [datawhalechina.github.io/llm-universe](https://datawhalechina.github.io/llm-universe/).
+- **Educational Framework**: A structured tutorial for beginners in LLM application development, covering foundational to advanced concepts in a hands-on manner using Jupyter Notebooks.
 
-- **Technical Focus**: Covers LangChain and Retrieval-Augmented Generation (RAG) workflows for LLM application development.
+- **Core Topics**: Focuses on **LangChain** (LLM orchestration) and **RAG** (Retrieval-Augmented Generation) pipelines, with practical implementations for real-world applications.
 
-- **Repository Metrics**: 13,366 stars, 1,367 forks, last updated on 2026-06-30.
+- **Repository Metrics**: 13,370 stars, 1,367 forks, last updated June 30, 2026, with active maintenance and community engagement.
 
 ## Why It Matters
 
@@ -42,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 13366
+- Stars: 13370
 - Forks: 1367
 - Language: Jupyter Notebook
 - Topics: langchain, rag
-- Last Updated: 2026-06-30T08:30:26Z
+- Last Updated: 2026-06-30T14:42:54Z
 - Archived: No
 - Created At: 2023-10-29T16:01:22Z
 - Pushed At: 2026-02-24T14:33:21Z

@@ -23,11 +23,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`vstorm-co-full-stack-ai-agent-template.md`](../../ai/rag/vstorm-co-full-stack-ai-agent-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
 - **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `85` | **Path**: [`shadcnstore-shadcn-dashboard-landing-template.md`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md)
@@ -68,6 +63,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`genkit-open-source-ai-framework-by-google-in-javas.md`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`generative-ai-build-ai-powered-apps-with-speed-sec.md`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 
 ## Recommended Learning Path
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-30 15:49 IST*
+*Last updated: 2026-06-30 20:31 IST*

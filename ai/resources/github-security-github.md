@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/security
-published_at: '2026-06-27T21:57:07.632957+05:30'
-collected_at: '2026-06-27T21:57:07.632967+05:30'
+published_at: '2026-06-30T20:20:17.467381+05:30'
+collected_at: '2026-06-30T20:20:17.467395+05:30'
 tags:
 - hackernews
 - paper
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:github-security-github
-first_seen: '2026-06-27T21:57:07.632967+05:30'
-last_seen: '2026-06-27T21:57:07.632967+05:30'
-last_checked: '2026-06-27T21:57:07.632967+05:30'
+first_seen: '2026-06-30T20:20:17.467395+05:30'
+last_seen: '2026-06-30T20:20:17.467395+05:30'
+last_checked: '2026-06-30T20:20:17.467395+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Advanced Security (GHAS)** integrates enterprise-grade security into developer workflows via static analysis, secret protection, and supply chain security tools like CodeQL and dependency tracking.
-
-- **Secret Protection** blocks accidental secret exposure in commits via push protection, while **Code Security** provides AI-driven remediation and vulnerability management directly in GitHub workflows.
-
-- **Supply Chain Security** reduces open-source risks through automated dependency updates, build attestation, and the Security Advisory Database (inclusive of CVEs and GitHub-originated advisories).
+- **GitHub Advanced Security (GHAS)** integrates static analysis, secret protection, and supply chain security into developer workflows via automated scanning, AI remediation, and dependency tracking.
+- **Secret Protection** blocks accidental secret exposure during pushes, while **Code Security** detects vulnerabilities (e.g., XSS, SSRF) via static analysis and AI-driven fixes.
+- **Supply Chain Security** mitigates open-source risks through dependency tracking, auto-updates, and build attestation, supported by the GitHub Security Lab and Advisory Database.
 
 ## Why It Matters
 
@@ -37,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-27T21:57:07.632957+05:30
+- Published: 2026-06-30T20:20:17.467381+05:30
 
 ## Related Tags
 

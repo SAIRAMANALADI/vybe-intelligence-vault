@@ -1,40 +1,41 @@
 ---
-title: supabase/examples/ai at master · supabase/supabase · GitHub
+title: supabase/supabase
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/supabase/supabase/tree/master/examples/ai
+source_url: https://github.com/supabase/supabase
 resource_id: github:supabase/supabase
 local_vault_path: ai/rag/supabase-supabase.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: api
 importance: medium
 tags:
-- meta-ai
-- models
+- frontend_ui
+- github-repo
 - rag
-- reddit
-- web-crawled
+- typescript
 selection_reason:
 - Active open-source repository
 ---
 
-# supabase/examples/ai at master · supabase/supabase · GitHub
+# supabase/supabase
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tutorial
+- Resource kind: api
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Repository Overview**: Supabase's main GitHub repository has **105k stars** and **12.9k forks**, with **235 open issues** and **856 pull requests**.
-- **AI Examples Directory**: Contains subdirectories for AI-related examples, including `aws_bedrock_image_gen`, `edge-functions`, `llamaindex`, and Jupyter notebooks (`face_similarity.ipynb`, `vector_hello_world.ipynb`).
-- **Security & Quality Metrics**: The repository reports **0 security alerts** and **0 quality insights** in the latest scan.
+- **Postgres-based Development Platform**: Supabase provides a dedicated PostgreSQL database with built-in tools (PostgREST, Realtime, Auth, Storage) for building scalable web, mobile, and AI applications.
+
+- **Key Features**: Supports PostgreSQL extensions (pgvector, PostGIS), OAuth2/OIDC auth, realtime updates via WebSockets, and vector embeddings for AI/ML workloads.
+
+- **Tech Stack**: Primarily TypeScript/Deno, with integrations for Next.js, Firebase alternatives, and example projects for ra
 
 ## Use Cases
 
@@ -44,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/supabase/supabase/tree/master/examples/ai
+Original source URL: https://github.com/supabase/supabase
 
 ## Local Vault File
 

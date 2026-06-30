@@ -6,10 +6,10 @@ source_url: https://github.com/AlexPEClub/ai-coding-starter-kit
 resource_id: github:alexpeclub/ai-coding-starter-kit
 local_vault_path: ai/agents/alexpeclub-ai-coding-starter-kit.md
 quality_score: 70
-archive_score: 85
-archive_tier: essential
+archive_score: 75
+archive_tier: useful
 resource_kind: template
-importance: high
+importance: medium
 tags:
 - agents
 - frontend_ui
@@ -25,18 +25,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Browser and Computer Use`
-- Quality score: 70 | Archive score: 85 (essential)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: template
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Next.js Template**: Production-ready starter kit with TypeScript, optimized for AI-driven development workflows.
-
-- **6 Specialized Agents**: Integrates autonomous AI agents for code generation, testing, debugging, optimization, documentation, and deployment.
-
-- **High Activity**: 324 stars, 794 forks, last updated June 29, 2026, indicating active maintenance and community engagement.
+- **Next.js Production Template**: Pre-configured Next.js starter kit optimized for production with TypeScript support.
+- **AI-Powered Workflow**: Integrates 6 specialized agents for automated development tasks (e.g., code generation, testing, debugging).
+- **High Activity Metrics**: 324 stars, 795 forks, last updated June 29, 2026.
 
 ## Use Cases
 

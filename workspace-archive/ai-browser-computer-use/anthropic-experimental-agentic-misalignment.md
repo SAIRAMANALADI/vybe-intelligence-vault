@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `anthropic-experimental/agentic-misalignment` (Python) – A GitHub repository with 631 stars and 142 forks, last updated on **2026-06-28**.
-- **Purpose**: Unspecified – No description, topics, or documentation provided in the repository metadata.
-- **Experimental Focus**: Likely investigates **agentic misalignment** in AI systems, given the repository name and Anthropic's research context.
+- **Repository Overview**: Python-based experimental repository focused on agentic misalignment, last updated June 28, 2026.
+- **Metrics**: 632 stars, 142 forks, no additional metadata or topics provided.
+- **Access**: Public repository hosted on GitHub with no description or documentation.
 
 ## Use Cases
 

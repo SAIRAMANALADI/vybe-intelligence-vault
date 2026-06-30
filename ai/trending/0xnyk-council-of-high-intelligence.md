@@ -10,13 +10,14 @@ tags:
 - github-trending
 - hackernews
 - shell
-status: active
+status: inactive
 resource_id: github:0xnyk/council-of-high-intelligence
 first_seen: '2026-06-29T21:42:25.396690+05:30'
 last_seen: '2026-06-30T15:31:50.777907+05:30'
 last_checked: '2026-06-30T15:31:50.777907+05:30'
 health_score: 100
 ---
+
 
 # 0xNyk/council-of-high-intelligence
 

@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Implementation**: Demonstrates Retrieval Augmented Generation (RAG) using a Blazor Server app with Azure OpenAI and AI Search, enabling hybrid search (vector + keyword + semantic ranking) for document-based Q&A.
-
-- **Security & Deployment**: Integrates managed identity for secure Azure resource access and supports one-command deployment via Azure Developer CLI for streamlined setup.
-
-- **Tech Stack**: Built with .NET, leveraging Blazor Server for UI, Azure OpenAI for generative AI, and A
+- **Hybrid Search Integration**: Implements hybrid search combining vector, keyword, and semantic ranking via Azure AI Search for document retrieval in a Blazor Server app.
+- **Azure OpenAI RAG Pipeline**: Demonstrates Retrieval Augmented Generation (RAG) using Azure OpenAI for chat-based document interaction with managed identity security.
+- **One-Command Deployment**: Supports Azure Developer CLI-based deployment and includes Blazor UI components for interactive document querying.
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://learn.microsoft.com/en-us/windows/wsl/install
-published_at: '2026-06-28T15:10:15.575725+05:30'
-collected_at: '2026-06-28T15:10:15.575743+05:30'
+published_at: '2026-06-30T20:20:08.398247+05:30'
+collected_at: '2026-06-30T20:20:08.398264+05:30'
 tags:
 - hackernews
 - producthunt
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:install-wsl-microsoft-learn
-first_seen: '2026-06-28T15:10:15.575743+05:30'
-last_seen: '2026-06-28T15:10:15.575743+05:30'
-last_checked: '2026-06-28T15:10:15.575743+05:30'
+first_seen: '2026-06-30T20:20:08.398264+05:30'
+last_seen: '2026-06-30T20:20:08.398264+05:30'
+last_checked: '2026-06-30T20:20:08.398264+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **WSL Installation**: Requires Windows 10 (v2004+) or Windows 11; single-command install via `wsl --install` (enables WSL and installs Ubuntu by default). Older systems require manual steps or `-d [Distro]` flag for specific distributions.
+- **WSL Installation**: WSL can be installed via `wsl --install` (Windows 10 2004+/Win11), enabling Linux distros (e.g., Ubuntu) without a VM. Older systems require manual steps or `--list --online` to select a distro (`wsl --install -d <Distro>`).
 
-- **WSL Versions & Management**: Defaults to WSL 2 for new installs; version toggling via `wsl --set-version <Distro> <1|2>`. List distributions with `wsl -l -v` and set defaults using `wsl --set-default <Distro>`.
+- **WSL Versions & Management**: WSL 2 is default; versions can be checked with `wsl -l -v` and switched via `wsl --set-version <Distro> <1|2>`. Default distros/commands are configurable (`wsl --set-default <Distro>`).
 
-- **Offline & Custom Install**: Offline install requires MSI package + `dism.exe` enablement of VirtualMachinePlatform. Custom distributions can be imported via `.wsl`/`.appx` files or built from TAR.
+- **Offline/Advanced Setup**: Offline installs require downloading WSL MSI, enabling `VirtualMachinePlatform` via DISM, and installing distros via `.wsl` files. Preview features are accessible via Windows Insider channels or `wsl.exe --update --pre-release`.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T15:10:15.575725+05:30
+- Published: 2026-06-30T20:20:08.398247+05:30
 
 ## Related Tags
 

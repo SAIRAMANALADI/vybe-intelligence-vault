@@ -8,14 +8,13 @@ local_vault_path: ai/agents/huangjia2019-ai-agents.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: api
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
 - github-repo
 - hackernews
 - jupyter notebook
-- models
 - openai
 selection_reason:
 - Strong keyword match
@@ -28,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: api
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Purpose**: Repository provides introductory examples for building LLM-based AI agents, aimed at beginners in the rapidly evolving LLM development field.
-- **Content**: Contains simple starter examples; directs users to more advanced resources like OpenAI Cookbook and LangChain Examples for deeper exploration.
-- **Technical Details**: Written in Jupyter Notebook, covering topics such as agents, AI, LLM, and NLP, last updated June 21, 2026.
+- **Purpose**: Repository provides introductory examples for building LLM-based AI agents, serving as a beginner-friendly guide to LLM development with foundational concepts.
+- **Content**: Includes simple, hands-on examples in Jupyter Notebook format, focusing on core agent implementation rather than advanced techniques.
+- **Context**: Recommends supplementing learning with resources like OpenAI Cookbook and LangChain Examples due to rapid advancements in the LLM development field.
 
 ## Use Cases
 

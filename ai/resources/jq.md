@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://jqlang.github.io/jq/
-published_at: '2026-06-29T17:04:27.301303+05:30'
-collected_at: '2026-06-29T17:04:27.301312+05:30'
+published_at: '2026-06-30T20:21:31.632772+05:30'
+collected_at: '2026-06-30T20:21:31.632783+05:30'
 tags:
 - web-crawled
 - youtube
 status: active
 resource_id: blog:jq
-first_seen: '2026-06-29T17:04:27.301312+05:30'
-last_seen: '2026-06-29T17:04:27.301312+05:30'
-last_checked: '2026-06-29T17:04:27.301312+05:30'
+first_seen: '2026-06-30T20:21:31.632783+05:30'
+last_seen: '2026-06-30T20:21:31.632783+05:30'
+last_checked: '2026-06-30T20:21:31.632783+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Portable C-based JSON processor** with zero runtime dependencies, enabling single-binary deployment across compatible systems via `scp` or similar methods.
+- **Lightweight JSON processor**: `jq` is a portable C-based command-line tool with zero runtime dependencies, enabling JSON data manipulation via filtering, transformation, and slicing operations similar to `sed`/`awk` for text.
 
-- **Version 1.8.2** released on 20 June 2026, featuring updates and fixes documented in the [release notes](https://github.com/jqlang/jq/releases/tag/jq-1.8.2).
+- **Cross-platform binary compatibility**: Single-binary distribution allows direct execution across compatible systems (e.g., `scp` between machines) without compilation or dependencies.
 
-- **Functionality** analogous to `sed`/`awk` for JSON, enabling slicing, filtering, mapping, and transformation of structured data with concise, expressive queries.
+- **Version 1.8.2 release (2026)**: Latest stable version includes security/bug fixes; downloadable binaries available for Linux (AMD64/ARM64), macOS (Apple Silicon/Intel), and Windows (AMD64).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-29T17:04:27.301303+05:30
+- Published: 2026-06-30T20:21:31.632772+05:30
 
 ## Related Tags
 

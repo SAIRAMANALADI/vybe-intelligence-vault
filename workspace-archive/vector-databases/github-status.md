@@ -2,7 +2,7 @@
 title: GitHub Status
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://www.githubstatus.com
+source_url: https://www.githubstatus.com/
 resource_id: blog:github-status
 local_vault_path: ai/rag/github-status.md
 quality_score: 70
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days).
+- **GitHub Status Page**: Provides real-time operational status, incident reports, and historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days) across global regions (US, EU, Japan, Australia).
 
-- **Incident Management**: Tracks resolved/ongoing incidents (e.g., Copilot Next Edit Suggestions failures on June 23, 2026, affecting 25% of requests) with root cause analysis and mitigation updates.
+- **Notification Systems**: Supports multi-channel incident notifications via email, SMS (100+ country codes), Slack, and webhooks for automated incident tracking (e.g., Copilot AI model provider outages).
 
-- **Notification Systems**: Supports multi-channel incident alerts via email, SM
+- **Incident Root Cause Analysis**: Recent disruptions (e.g., June 25, 2026
 
 ## Use Cases
 
@@ -49,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.githubstatus.com
+Original source URL: https://www.githubstatus.com/
 
 ## Local Vault File
 

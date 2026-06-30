@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-06-30T15:34:05.781963+05:30'
+collected_at: '2026-06-30T20:16:21.002385+05:30'
 published_at: '2026-06-30T08:50:54Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - rag
 - unknown
 stars: 430
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-06-30T15:34:05.781963+05:30'
-last_seen: '2026-06-30T15:34:05.781963+05:30'
-last_checked: '2026-06-30T15:34:05.781963+05:30'
+first_seen: '2026-06-30T20:16:21.002385+05:30'
+last_seen: '2026-06-30T20:16:21.002385+05:30'
+last_checked: '2026-06-30T20:16:21.002385+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of performance in real-world internal knowledge bases.
-
-- **Key Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based QA testing across enterprise domains, with Python-based tooling for reproducibility and extensibility.
-
-- **Scope**: Covers enterprise-specific RAG challenges (e.g., document heterogeneity, retrieval accuracy, and generative AI fidelity) with metrics for retrieval quality, answer correctness, and latency.
+- **EnterpriseRAG-Bench**: A specialized benchmark dataset designed to evaluate Retrieval-Augmented Generation (RAG) systems on company internal documents, enabling domain-specific performance assessment.
+- **Key Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based QA tasks tailored for enterprise knowledge bases and information retrieval systems.
+- **Technical Scope**: Supports Python-based RAG evaluation pipelines, covering large language models (LLMs), retrieval metrics, and generative AI performance in private document contexts.
 
 ## Why It Matters
 

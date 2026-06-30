@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: A specialized repository (`zhengxuJosh/Awesome-RAG-Vision`) aggregating cutting-edge **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including multimodal RAG, vision-language models, and hybrid retrieval strategies.
-
-- **Technical Focus**: Encompasses advanced methodologies such as **cross-modal retrieval**, **semantic alignment** between text and visual data, and **dynamic knowledge integration** for vision tasks (e.g., image
+- **Curated RAG-Vision Resources**: Repository aggregates advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision**, including multimodal models, vision-language integration, and retrieval-augmented pipelines.
+- **Multimodal & Cross-Domain Methods**: Encompasses state-of-the-art approaches combining **vision encoders (e.g., ViT, CLIP)** with **LLMs** for enhanced visual reasoning, zero-shot learning, and contextual retrieval in vision tasks.
+- **Benchmark & To
 
 ## Use Cases
 

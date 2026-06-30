@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Author Profile**: Nicole Choi is a technical writer and developer advocate at GitHub, contributing to open-source documentation and community engagement.
-- **GitHub Contributions**: Active contributor to GitHub’s official blog, focusing on developer tools, workflows, and best practices.
-- **Social Presence**: Maintains a GitHub profile ([@nicchoi29](https://github.com/nicchoi29)) and shares technical insights under the GitHub Blog author tag.
+- **Author Profile**: Nicole Choi is a technical writer and developer advocate at GitHub, contributing to technical documentation and community engagement.
+- **GitHub Contributions**: Active contributor to GitHub’s official blog, focusing on developer tools, workflows, and platform updates.
+- **Social Presence**: Maintains a professional GitHub profile ([@nicchoi29](https://github.com/nicchoi29)) and author page on GitHub Blog.
 
 ## Use Cases
 

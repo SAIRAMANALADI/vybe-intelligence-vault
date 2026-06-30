@@ -3,18 +3,17 @@ title: Making sure you're not a bot!
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://lumendatabase.org/notices/search?utf8=%E2%9C%93&submitter_name_facet=Medium.com&term=Medium
-published_at: '2026-06-27T16:41:24.427923+05:30'
-collected_at: '2026-06-27T16:41:24.427935+05:30'
+source_url: https://lumendatabase.org/
+published_at: '2026-06-30T20:22:32.911894+05:30'
+collected_at: '2026-06-30T20:22:32.911906+05:30'
 tags:
-- hackernews
 - scripts
 - web-crawled
 status: active
 resource_id: blog:making-sure-you-re-not-a-bot
-first_seen: '2026-06-27T16:41:24.427935+05:30'
-last_seen: '2026-06-27T16:41:24.427935+05:30'
-last_checked: '2026-06-27T16:41:24.427935+05:30'
+first_seen: '2026-06-30T20:22:32.911906+05:30'
+last_seen: '2026-06-30T20:22:32.911906+05:30'
+last_checked: '2026-06-30T20:22:32.911906+05:30'
 health_score: 100
 ---
 
@@ -22,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Proof-of-Work Mechanism**: Anubis implements a Hashcash-inspired proof-of-work scheme to mitigate aggressive AI scraping, imposing negligible overhead for individual users but significantly increasing costs for large-scale scrapers.
+- **Anubis employs a Proof-of-Work (PoW) mechanism inspired by Hashcash** to mitigate aggressive AI-driven web scraping, imposing computational costs that scale with scraper volume while remaining negligible for individual users.
 
-- **Headless Browser Detection**: The system serves as a temporary solution while developing advanced fingerprinting techniques (e.g., analyzing font rendering differences) to distinguish legitimate users from automated headless browsers without requiring proof-of-work challenges.
+- **The system prioritizes headless browser detection** (e.g., via font rendering analysis) to reduce reliance on PoW challenges for legitimate users, though current implementation requires JavaScript for PoW verification.
 
-- **JavaScript Dependency**: Anubis mandates modern JavaScript execution (disabling plugins like JShelter may block access) due to AI companies' circumvention of no-JS solutions, with ongoing work to develop alternative verification methods.
+- **Anubis v1.25.0 mandates modern JavaScript execution**, conflicting with privacy plugins like JShelter, and lacks a no-JS alternative due to evolving circumvention tactics by AI scrapers.
 
 ## Why It Matters
 
@@ -36,14 +35,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-27T16:41:24.427923+05:30
+- Published: 2026-06-30T20:22:32.911894+05:30
 
 ## Related Tags
 
-- hackernews
 - scripts
 - web-crawled
 
 ## Source
 
-Original source: https://lumendatabase.org/notices/search?utf8=%E2%9C%93&submitter_name_facet=Medium.com&term=Medium
+Original source: https://lumendatabase.org/

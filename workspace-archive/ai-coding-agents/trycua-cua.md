@@ -17,6 +17,7 @@ tags:
 - hackernews
 - html
 - scripts
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -33,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-OS Agent Framework**: Provides sandboxed environments, SDKs, and benchmarks for training/evaluating AI agents capable of full desktop control across macOS, Linux, and Windows via containerization and virtualization (e.g., Apple Virtualization Framework, Windows Sandbox).
-
-- **Technical Stack**: Primarily HTML-based with integrations for Swift (macOS), Windows automation tools, and Lume for benchmarking; supports containerization and virtualization for isolated agent execution.
-
-- **Ope
+- **Multi-Platform Agent Infrastructure**: Provides sandboxed environments, SDKs, and benchmarks for training/evaluating AI agents capable of full desktop control across macOS, Linux, and Windows.
+- **Technical Stack**: Utilizes containerization (via Lume/Manus) and virtualization frameworks (including Apple’s Virtualization Framework and Windows Sandbox) for secure, isolated agent execution.
+- **Open-Source Tooling**: Offers modular components for agent development, evaluation, and deployment,
 
 ## Use Cases
 

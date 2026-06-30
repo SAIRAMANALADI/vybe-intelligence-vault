@@ -7,7 +7,7 @@ source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
 local_vault_path: ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md
 quality_score: 70
-archive_score: 76
+archive_score: 70
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -23,7 +23,6 @@ tags:
 - mistral
 - models
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
@@ -32,19 +31,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval, augmentation, and generation to enhance LLM responses by dynamically fetching relevant external knowledge, addressing limitations in freshness, private knowledge, and hallucinations.
+- **RAG Evolution**: Naive RAG (basic retrieval + generation) evolved into Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), addressing limitations in freshness, private knowledge, and hallucination mitigation.
 
-- **RAG Evolution**: Progressed from Naive RAG (basic retrieval) to Advanced RAG (hybrid search, reranking, query transformation) and Graph RAG (entity-relation graph-based retrieval for multi-hop reasoning).
-
-- **Implementation Frameworks**: Utilizes libraries like LangC
+- **Core RAG Components**: Retrieval (vector/keyword search), Augmentation (context injection), and Generation (LLM reasoning), with modular frameworks (LangChain/LCEL) enabling flexible pipelines and
 
 ## Use Cases
 

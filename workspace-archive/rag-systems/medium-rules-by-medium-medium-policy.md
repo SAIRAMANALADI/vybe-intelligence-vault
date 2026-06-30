@@ -28,9 +28,9 @@ selection_reason:
 
 ## Summary
 
-- **Prohibited Content**: Medium enforces strict rules against threats of violence, hate speech, harassment, doxxing, non-consensual intimate content, self-harm promotion, spam, and copyright/trademark infringement, with account restrictions or suspensions for violations.
+- **Prohibited Content**: Medium enforces strict policies against threats of violence, hate speech, harassment, doxxing, non-consensual intimate content, self-harm promotion, exploitative material involving minors, and pseudoscience/disinformation that threatens public health or safety.
 
-- **Platform Misuse**: Spam, duplicate content, artificial engagement (e.g., bulk follows/claps via bots), deceptive conduct (e.g., phishing, impersonation), and unauthorized third-party promotions are banned to maintain platf
+- **Spam & Misuse Enforcement**: Duplicate content, cross-posting without rights, automated interactions (e.g., follow spam, clap farming), and deceptive practices (e.g., phishing, impersonation) are banned, wit
 
 ## Use Cases
 

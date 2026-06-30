@@ -6,11 +6,13 @@ source_url: https://github.com/coree/awesome-rag
 resource_id: github:coree/awesome-rag
 local_vault_path: ai/rag/coree-awesome-rag.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
+- dataset
 - github-repo
 - hackernews
 - paper
@@ -26,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: Comprehensive collection of tools, frameworks, libraries, and research papers focused on retrieval-augmented generation (RAG) for large language models (LLMs).
-- **Technical Scope**: Covers embeddings, retrieval systems, RAG models, and integration techniques for enhancing LLMs with external knowledge retrieval.
-- **Community-Driven**: Actively maintained GitHub repository with 425 stars and 49 forks, last updated in June 2026, serving as a centralized hub for RAG ad
+- **Curated RAG Resources**: A GitHub repository (`coree/awesome-rag`) aggregating tools, frameworks, datasets, and research papers focused on **Retrieval-Augmented Generation (RAG)** for large language models (LLMs).
+- **Technical Scope**: Covers **embeddings**, **retrieval systems**, and **RAG model architectures**, including implementations, benchmarks, and optimization techniques for integrating retrieval with generative models.
+- **Community-Driven**: Maintained as an *awesome-list* with 42
 
 ## Use Cases
 

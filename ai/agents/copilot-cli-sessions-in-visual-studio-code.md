@@ -4,17 +4,18 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
-published_at: '2026-06-29T21:51:38.693912+05:30'
-collected_at: '2026-06-29T21:51:38.693926+05:30'
+published_at: '2026-06-30T20:19:28.226317+05:30'
+collected_at: '2026-06-30T20:19:28.226334+05:30'
 tags:
 - agents
 - openai
+- scripts
 - web-crawled
 status: active
 resource_id: blog:copilot-cli-sessions-in-visual-studio-code
-first_seen: '2026-06-29T21:51:38.693926+05:30'
-last_seen: '2026-06-29T21:51:38.693926+05:30'
-last_checked: '2026-06-29T21:51:38.693926+05:30'
+first_seen: '2026-06-30T20:19:28.226334+05:30'
+last_seen: '2026-06-30T20:19:28.226334+05:30'
+last_checked: '2026-06-30T20:19:28.226334+05:30'
 health_score: 100
 ---
 
@@ -22,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Copilot CLI Sessions**: Background agent sessions in VS Code, managed via GitHub Copilot CLI, enabling autonomous task execution (e.g., feature implementation, research) with local/remote isolation modes (Worktree/Folder) and integrated Chat view interaction.
+- **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via Copilot CLI, managed through the Chat view; support parallel execution, worktree/folder isolation modes, and slash commands (`/research`, `/yolo`, etc.) for task automation.
 
-- **Isolation Modes**: Worktree mode creates a separate Git worktree for agent changes (auto-bypassing approvals), while Folder mode applies changes directly to the workspace with configurable permission levels (Default/Bypass/Autopilot).
+- **Isolation & Permissions**: Worktree isolation auto-bypasses approvals (changes isolated to Git worktrees), while folder isolation offers configurable permissions (Default/Bypass/Autopilot) for direct workspace modifications.
 
-- **Permissions & Slash Commands**: Supports structured permission levels (per isolation mode), slash commands (`/research`, `/yolo`), and reusable prompts/skills/hooks for session management and tool auto-approval.
+- **Session Lifecycle**: Created via Chat view or Command Palette, sessions persist post-VS Code closure; forked sessions retain shared worktree isolation until last session is archived/deleted.
 
 ## Why It Matters
 
@@ -36,12 +37,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-29T21:51:38.693912+05:30
+- Published: 2026-06-30T20:19:28.226317+05:30
 
 ## Related Tags
 
 - agents
 - openai
+- scripts
 - web-crawled
 
 ## Source

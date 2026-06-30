@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Implementation**: Java-based repository demonstrating AI question-answering systems using **SSE streaming**, **Agent-based workflows**, **knowledge graph RAG**, and **Function Call** capabilities.
-- **Features**: Supports **vector databases**, **embedding models**, **image generation/understanding**, and **historical message handling** for enhanced RAG pipelines.
-- **Architecture**: Integrates **Alibaba Cloud AI services** with **Spring AI**, emphasizing **retrieval-augmented generation (RAG
+- **Multi-modal AI Integration**: Implements SSE streaming, RAG with knowledge graphs, function calls, and historical message handling for AI Q&A, supporting image generation/understanding alongside text-based interactions.
+
+- **Vector Database & Embedding Pipeline**: Utilizes vector databases (e.g., Milvus/Weaviate) for semantic search, with embedding models (e.g., BERT, Sentence-BERT) to enable efficient retrieval-augmented generation (RAG).
+
+- **Agentic Workflows & Java Backend**: Deploys AI
 
 ## Use Cases
 

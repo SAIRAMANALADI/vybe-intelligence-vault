@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-06-30T15:35:25.810919+05:30'
+collected_at: '2026-06-30T20:17:41.033688+05:30'
 published_at: '2026-06-29T22:29:00Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-29T13:00:12Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-06-30T15:35:25.810919+05:30'
-last_seen: '2026-06-30T15:35:25.810919+05:30'
-last_checked: '2026-06-30T15:35:25.810919+05:30'
+first_seen: '2026-06-30T20:17:41.033688+05:30'
+last_seen: '2026-06-30T20:17:41.033688+05:30'
+last_checked: '2026-06-30T20:17:41.033688+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Language Best Practices Repository**: Hosts standardized coding guidelines and best practices for **TypeScript, Kotlin, Go, Java (Spring Boot), Dart (Flutter), Python (Django/Laravel), and JavaScript frameworks (React, Next.js, NestJS, Angular)** to ensure AI agents adhere to language/framework-specific conventions.
-
-- **Agent-Oriented Standards**: Provides **Cursor Rules, coding standards, and structured templates** to optimize AI agent performance in code generation, refactoring, and framework-specific implementations across **mobile (Android/iOS), web (React/Next.js), and backend (NestJS/Spring Boot)** ecosystems.
-
-- **High-Activity Open-Source Project**: Maintained repository with **516 stars, 149 forks**, and last updated **June 29, 2026**, focusing on **agentic AI development** and cross-platform consistency in AI-driven software engineering.
+- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding guidelines for AI agents, covering multiple frameworks and programming languages (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot).
+- **Purpose & Scope**: Designed to enforce consistent, high-quality code standards for AI agents, including cursor rules and language-specific frameworks (e.g., React Native, iOS, Android).
+- **Metadata**: 516 stars, 149 forks, last updated June 29, 2026; includes topics like `agentic-ai`, `coding-standards`, and `best-practices`.
 
 ## Why It Matters
 

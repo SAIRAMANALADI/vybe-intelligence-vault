@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Repository**: Hosts 300+ AI agents, frameworks, and tools across 20+ categories, updated monthly for 2026.
-- **Technical Scope**: Covers ChatGPT, LangChain, LLMs, and machine learning tools under AI agents umbrella.
-- **Repository Stats**: 1,348 stars, 440 forks, last updated 2026-06-30T09:39:07Z.
+- **Comprehensive AI Agent Resource**: Curated list of 300+ AI agents, frameworks, and tools across 20+ categories, updated monthly for 2026.
+- **High-Engagement Repository**: 1,348 stars and 440 forks, indicating strong community adoption and interest.
+- **Technical Breadth**: Covers ChatGPT, LangChain, LLMs, and machine learning, with last update timestamped June 30, 2026.
 
 ## Use Cases
 

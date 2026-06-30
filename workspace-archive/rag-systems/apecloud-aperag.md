@@ -6,7 +6,7 @@ source_url: https://github.com/apecloud/ApeRAG
 resource_id: github:apecloud/aperag
 local_vault_path: ai/rag/apecloud-aperag.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal indexing**: Supports structured/unstructured data integration (text, graphs, images) via vector + graph databases (e.g., Neo4j, Weaviate) for hybrid retrieval.
-- **AI agents & MCP integration**: Implements autonomous agents with Model Context Protocol (MCP) for dynamic tool orchestration and external API interactions.
-- **Kubernetes-native scalability**: Helm charts for auto-scaling RAG pipelines, with modular microservices (ingestion, retrieval, LLM layers) for distributed deplo
+- **Multi-modal indexing**: Supports text, structured data, and unstructured sources (e.g., PDFs, images) via vector embeddings and graph-based indexing for unified retrieval.
+- **AI agents & MCP integration**: Deploys autonomous agents for dynamic query resolution and integrates with Model Context Protocol (MCP) for extended tooling and interoperability.
+- **Scalable K8s deployment**: Optimized for Kubernetes with Helm charts, enabling horizontal scaling, fault tolerance, and cloud-agnostic orc
 
 ## Use Cases
 

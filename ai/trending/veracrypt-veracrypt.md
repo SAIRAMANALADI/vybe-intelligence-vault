@@ -9,13 +9,14 @@ collected_at: '2026-06-30T15:31:50.778427+05:30'
 tags:
 - c
 - github-trending
-status: active
+status: inactive
 resource_id: github:veracrypt/veracrypt
 first_seen: '2026-06-29T16:55:00.774288+05:30'
 last_seen: '2026-06-30T15:31:50.778427+05:30'
 last_checked: '2026-06-30T15:31:50.778427+05:30'
 health_score: 100
 ---
+
 
 # veracrypt/VeraCrypt
 

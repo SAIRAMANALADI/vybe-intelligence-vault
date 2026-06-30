@@ -18,6 +18,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular RAG Framework**: Open-source Python framework enabling quick integration of GenAI into applications via Retrieval-Augmented Generation (RAG), supporting customizable pipelines for LLMs (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss).
+- **Multi-LLM & Vector Store Agnostic RAG Framework**: Supports integration with any LLM (e.g., GPT4, Groq, Llama) and vector databases (e.g., PGVector, Faiss), enabling flexible GenAI deployment without vendor lock-in.
 
-- **Multi-Platform Compatibility**: Supports any file type, offers Docker deployment, and includes React-based frontend with TypeScript/JavaScript, alongside RESTful API for seamless integration into existing products.
+- **Opinionated RAG Optimization**: Focuses on simplifying Retrieval-Augmented Generation (RAG) workflows for seamless integration into existing products, with customizable pipelines for files, APIs, and frontend components.
 
-- **Privacy &
+- **Full-Stack Deployment**: Provides a Dockerized, P
 
 ## Use Cases
 

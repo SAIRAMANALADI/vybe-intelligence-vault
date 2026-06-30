@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/MicrosoftDocs/wsl/blob/main/WSL/install.md
-published_at: '2026-06-27T16:41:33.132611+05:30'
-collected_at: '2026-06-27T16:41:33.132627+05:30'
+published_at: '2026-06-30T20:21:25.754365+05:30'
+collected_at: '2026-06-30T20:21:25.754380+05:30'
 tags:
 - hackernews
 - producthunt
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: github:microsoftdocs/wsl
-first_seen: '2026-06-27T16:41:33.132627+05:30'
-last_seen: '2026-06-27T16:41:33.132627+05:30'
-last_checked: '2026-06-27T16:41:33.132627+05:30'
+first_seen: '2026-06-30T20:21:25.754380+05:30'
+last_seen: '2026-06-30T20:21:25.754380+05:30'
+last_checked: '2026-06-30T20:21:25.754380+05:30'
 health_score: 100
 ---
 
@@ -26,9 +26,9 @@ health_score: 100
 
 ## Summary
 
-- **WSL Installation**: Single-command installation via `wsl --install` in PowerShell (admin) enables WSL and installs Ubuntu by default; supports Windows 10 (v2004+) and Windows 11.
-- **Version Management**: WSL 2 is default for new installs; versions can be toggled via `wsl --set-version <Distro> <1|2>`; version visibility via `wsl -l -v`.
-- **Offline/Advanced Install**: Requires MSI package + `dism.exe` for VM Platform enablement; distributions installed via `.wsl` files from GitHub.
+- **Single-command WSL installation**: Run `wsl --install` in **admin** PowerShell to enable WSL and install Ubuntu by default; requires Windows 10 (2004+) or Windows 11.
+- **Version management**: WSL 2 is default for new installs; toggle versions via `wsl --set-version <Distro> <1|2>` or set default with `wsl --set-default-version <1|2>`.
+- **Offline/advanced installs**: Use MSI + DISM (`dism.exe /online /enable-feature /featurename:VirtualMachinePlatform`) or import custom distros via `.wsl`/`.appx` files.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T16:41:33.132611+05:30
+- Published: 2026-06-30T20:21:25.754365+05:30
 
 ## Related Tags
 

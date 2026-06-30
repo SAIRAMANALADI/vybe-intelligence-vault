@@ -8,7 +8,7 @@ local_vault_path: ai/agents/hoangnguyen0403-agent-skills-standard.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: template
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Agent Instructions`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: template
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Multi-Language Best Practices Repository**: Hosts standardized coding guidelines and best practices for **TypeScript, Kotlin, Go, Java (Spring Boot), Dart (Flutter), Python (Django/Laravel), and JavaScript frameworks (React, Next.js, NestJS, Angular)** to ensure AI agents adhere to language/framework-specific conventions.
-
-- **Agent-Oriented Standards**: Provides **Cursor Rules, coding standards, and structured templates** to optimize AI agent performance in code generation, refactoring, and
+- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding guidelines for AI agents, covering multiple frameworks and programming languages (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot).
+- **Purpose & Scope**: Designed to enforce consistent, high-quality code standards for AI agents, including cursor rules and language-specific frameworks (e.g., React Native, iOS, Android).
+- **Metadata**: 516 stars, 149 forks,
 
 ## Use Cases
 

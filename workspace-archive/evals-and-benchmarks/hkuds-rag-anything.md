@@ -11,7 +11,9 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- dataset
 - github-repo
+- models
 - python
 - rag
 - youtube
@@ -33,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal RAG Integration**: Framework supports retrieval-augmented generation across text, images, audio, and video modalities, enabling unified processing of heterogeneous data sources.
-- **Modular Architecture**: Implements a plug-and-play pipeline with configurable components (retrievers, rerankers, generators) for flexible deployment in diverse RAG scenarios.
-- **Optimized Performance**: Leverages advanced indexing (e.g., FAISS, Milvus) and parallel processing to enhance retrieval eff
+- **Unified Multi-Modal RAG Framework**: Implements a single, extensible pipeline supporting text, image, audio, and video retrieval-augmented generation (RAG) with modular components for ingestion, indexing, retrieval, and generation.
+
+- **Advanced Retrieval Mechanisms**: Integrates hybrid retrieval (dense + sparse) with cross-modal relevance scoring, dynamic chunking, and metadata-aware filtering for improved context selection across modalities.
+
+- **Scalable & Customizable**: Built on Python
 
 ## Use Cases
 

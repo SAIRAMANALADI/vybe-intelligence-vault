@@ -13,9 +13,9 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated List**: Repository aggregates 803-starred projects focused on AI memory systems, including RAG, agent-based memory, and memory management frameworks, primarily implemented in Python.
-- **Technical Scope**: Covers topics such as `ai-agents`, `ai-engineering`, `memory-management`, and `ai-ml`, emphasizing scalable memory architectures for AI applications.
-- **Maintenance**: Last updated June 30, 2026, ensuring relevance for cutting-edge research in AI memory systems.
+- **Curated list** of AI memory projects, frameworks, and tools focused on **long-term memory, context retention, and adaptive learning** in AI agents.
+- **Python-centric** repository covering **RAG (Retrieval-Augmented Generation), memory architectures, and agentic workflows** for persistent AI state management.
+- **Actively maintained** (last updated 2026-06-30) with **803 stars and 88 forks**, reflecting community engagement in **AI memory optimization and scalability**.
 
 ## Use Cases
 

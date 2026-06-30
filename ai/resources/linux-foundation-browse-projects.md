@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.linuxfoundation.org/projects
-published_at: '2026-06-22T10:54:48.445089+05:30'
-collected_at: '2026-06-22T10:54:48.445097+05:30'
+published_at: '2026-06-30T20:28:11.154792+05:30'
+collected_at: '2026-06-30T20:28:11.154808+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:linux-foundation-browse-projects
-first_seen: '2026-06-22T10:54:48.445097+05:30'
-last_seen: '2026-06-22T10:54:48.445097+05:30'
-last_checked: '2026-06-22T10:54:48.445097+05:30'
+first_seen: '2026-06-30T20:28:11.154808+05:30'
+last_seen: '2026-06-30T20:28:11.154808+05:30'
+last_checked: '2026-06-30T20:28:11.154808+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **CNCF**: Hosts Cloud Native Computing Foundation projects, advancing container orchestration, service meshes, and cloud-native ecosystems (e.g., Kubernetes, Prometheus).
-- **OpenSSF**: Focuses on securing open-source software supply chains via standards, tools, and collaborative initiatives (e.g., Sigstore, SLSA).
-- **Linux Kernel**: Maintains the core Linux operating system kernel, providing foundational system-level functionality and hardware abstraction.
+- **CloudNative Computing Foundation (CNCF)**: Hosts critical open-source projects like Kubernetes, Prometheus, and Envoy, driving standardization and innovation in cloud-native computing and container orchestration.
+
+- **OpenSSF (Open Source Security Foundation)**: Focuses on improving open-source software security through initiatives like Sigstore, Scorecard, and the OpenSSF Best Practices badge to mitigate supply chain risks.
+
+- **RISC-V Foundation**: Develops and promotes the open-standard RISC-V instruction set architecture (ISA), enabling customizable, royalty-free processor designs for diverse computing applications.
 
 ## Why It Matters
 
@@ -32,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T10:54:48.445089+05:30
+- Published: 2026-06-30T20:28:11.154792+05:30
 
 ## Related Tags
 

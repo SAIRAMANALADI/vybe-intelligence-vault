@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama_index
-collected_at: '2026-06-30T03:55:26.492440+05:30'
-published_at: '2026-06-29T22:24:58Z'
+collected_at: '2026-06-30T20:18:11.120154+05:30'
+published_at: '2026-06-30T13:59:55Z'
 tags:
 - agents
 - github-repo
@@ -14,7 +14,7 @@ tags:
 - python
 - rag
 - workflows
-stars: 50509
+stars: 50534
 language: Python
 status: active
 license: MIT
@@ -22,9 +22,9 @@ archived: false
 created_at: '2022-11-02T04:24:54Z'
 pushed_at: '2026-06-26T14:23:35Z'
 resource_id: github:run-llama/llama_index
-first_seen: '2026-06-30T03:55:26.492440+05:30'
-last_seen: '2026-06-30T03:55:26.492440+05:30'
-last_checked: '2026-06-30T03:55:26.492440+05:30'
+first_seen: '2026-06-30T20:18:11.120154+05:30'
+last_seen: '2026-06-30T20:18:11.120154+05:30'
+last_checked: '2026-06-30T20:18:11.120154+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: LlamaIndex is a Python-based framework designed for building document agents and OCR (Optical Character Recognition) pipelines, enabling structured data extraction and processing from unstructured documents.
+- **Framework for LLM Integration**: LlamaIndex is a Python-based framework designed to facilitate the integration of large language models (LLMs) with external data sources, enabling advanced document processing and retrieval-augmented generation (RAG) workflows.
 
-- **Core Capabilities**: Supports multi-agent orchestration, Retrieval-Augmented Generation (RAG), vector database integration, and fine-tuning workflows for LLMs (Large Language Models), facilitating advanced document analysis and agentic applications.
+- **Multi-Agent & OCR Capabilities**: Supports multi-agent systems and optical character recognition (OCR) for document parsing, with built-in tools for fine-tuning and vector database interactions to optimize data retrieval and agent-based workflows.
 
-- **Ecosystem & Integration**: Features a modular architecture with tools for data ingestion, indexing, and querying, optimized for scalability and interoperability with vector databases (e.g., FAISS, Pinecone) and LLM frameworks (e.g., LangChain).
+- **Scalable Data Pipeline**: Provides a modular architecture for constructing document agents, leveraging vector databases for efficient storage and querying, and supports fine-tuning for domain-specific LLM applications.
 
 ## Why It Matters
 
@@ -45,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: run-llama
-- Stars: 50509
-- Forks: 7651
+- Stars: 50534
+- Forks: 7655
 - Language: Python
 - Topics: agents, application, data, fine-tuning, framework, llamaindex, llm, multi-agents, rag, vector-database
-- Last Updated: 2026-06-29T22:24:58Z
+- Last Updated: 2026-06-30T13:59:55Z
 - License: MIT
 - Archived: No
 - Created At: 2022-11-02T04:24:54Z

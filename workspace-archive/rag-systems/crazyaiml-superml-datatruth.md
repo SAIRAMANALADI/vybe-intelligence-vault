@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **NLP-driven data querying**: Enables users to query structured/unstructured data using natural language, eliminating the need for SQL.
-- **Real-time visualization & semantic enforcement**: Provides instant insights via AI-native analytics while ensuring data quality at the semantic layer.
-- **Python-based ML integration**: Leverages machine learning for NLP and analytics, supporting AI-driven data processing and visualization.
+- **Natural Language Querying**: Enables SQL-free data querying via natural language processing (NLP) for AI-native analytics.
+- **Instant Visualization & Semantic Enforcement**: Provides real-time data visualization and enforces data quality at the semantic layer.
+- **Python-Based ML Integration**: Built in Python, leveraging machine learning for AI-driven analytics, data processing, and visualization.
 
 ## Use Cases
 

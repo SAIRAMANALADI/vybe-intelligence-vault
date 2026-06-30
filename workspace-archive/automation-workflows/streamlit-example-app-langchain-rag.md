@@ -12,7 +12,6 @@ resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
-- openai
 - python
 - rag
 - workflows
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Demonstrates a Streamlit app integrating LangChain with a vector store (e.g., FAISS) for **hybrid search** (combining dense and sparse retrieval) to enhance document retrieval relevance.
+- **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval in a LangChain-based RAG pipeline for enhanced document retrieval accuracy.
 
-- **Modular LangChain Components**: Implements a **retrieval-augmented generation (RAG)** workflow using LangChain's `RetrievalQA` chain, with configurable parameters for chunking, embeddings (e.g., HuggingFace), and LLM integration (e.g., OpenAI, local models).
+- **LangChain + VectorStore Workflow**: Implements a Streamlit app showcasing LangChain's retrieval-augmented generation (RAG) using a vector store (e.g., FAISS or Chroma) for semantic search and document augmentation.
 
-- **Streamlit UI for
+- **Streamlit UI for RAG**: Provides a minimal UI to interact with the RAG system
 
 ## Use Cases
 

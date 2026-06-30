@@ -13,6 +13,7 @@ importance: medium
 tags:
 - github-repo
 - jupyter notebook
+- openai
 - rag
 - workflows
 selection_reason:
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Cloud-native RAG & AI pipelines**: Pre-configured templates for Retrieval-Augmented Generation (RAG), AI workflows, and enterprise search with live data synchronization, optimized for Docker deployment.
+- **Cloud-native RAG & AI pipelines**: Docker-optimized templates for real-time Retrieval-Augmented Generation (RAG), AI workflows, and enterprise search with live data synchronization across SharePoint, Google Drive, S3, Kafka, PostgreSQL, and real-time APIs.
 
-- **Multi-source data integration**: Supports real-time connectivity with SharePoint, Google Drive, S3, Kafka, PostgreSQL, and REST APIs, ensuring up-to-date vector indexing and retrieval.
+- **Multi-source integration**: Pre-configured connectors for Hugging Face, OpenAI, vector databases, and local LLM deployment, supporting `llmops`, `llm-security`, and `llm-prompting` workflows.
 
-- **Enterprise-grade LLM toolkit**: Includes Jupyter Notebook-based implementations for Hugging Face L
+- **High-performance indexing**: Uses vec
 
 ## Use Cases
 

@@ -2,7 +2,7 @@
 title: About Medium
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://about.medium.com
+source_url: https://about.medium.com/
 resource_id: blog:about-medium
 local_vault_path: ai/rag/about-medium.md
 quality_score: 70
@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Platform Model**: Medium is a subscription-supported platform (1M+ members) that prioritizes depth, nuance, and thoughtful writing over sensationalism, rejecting ad-based monetization and data selling.
+- **Mission & Model**: Medium is a platform prioritizing depth, nuance, and thoughtful discourse over sensationalism, monetizing via a community of over 1M paying members rather than ads or data sales.
 
-- **User Base & Content**: Hosts 100M+ monthly users (developers, designers, CEOs, etc.) who share insights, experiences, and expertise, fostering collaborative knowledge exchange without requiring pre-existing audiences.
+- **User Base**: Hosts 100M+ monthly users (developers, CEOs, writers) sharing insights, expertise, and personal narratives across diverse domains.
 
-- **Mission & Design**: Aims to deepen collective understanding via wr
+- **Core Features**: Provides a collaborative, ad-free space for publishing and discovery, with built-in tools for reading/writing and membership-ba
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://about.medium.com
+Original source URL: https://about.medium.com/
 
 ## Local Vault File
 

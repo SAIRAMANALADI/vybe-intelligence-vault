@@ -9,13 +9,14 @@ collected_at: '2026-06-30T15:31:50.776412+05:30'
 tags:
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:soxoj/maigret
 first_seen: '2026-06-29T16:55:00.771365+05:30'
 last_seen: '2026-06-30T15:31:50.776412+05:30'
 last_checked: '2026-06-30T15:31:50.776412+05:30'
 health_score: 100
 ---
+
 
 # soxoj/maigret
 

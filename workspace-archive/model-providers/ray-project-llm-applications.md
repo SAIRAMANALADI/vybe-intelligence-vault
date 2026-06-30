@@ -6,10 +6,10 @@ source_url: https://github.com/ray-project/llm-applications
 resource_id: github:ray-project/llm-applications
 local_vault_path: ai/rag/ray-project-llm-applications.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
-resource_kind: benchmark
-importance: medium
+archive_score: 87
+archive_tier: essential
+resource_kind: framework
+importance: high
 tags:
 - github-repo
 - jupyter notebook
@@ -17,10 +17,9 @@ tags:
 - models
 - openai
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # ray-project/llm-applications
@@ -28,17 +27,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 87 (essential)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples leveraging Llama2 and OpenAI models.
-- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) and optimizing inference via Ray’s distributed compute and Anyscale integration.
-- **Deployment & Scalability**: Provides end-to-end guides for deploying RAG-based LLM applications in production, emphasizing Ray’s se
+- **RAG-based LLM Integration**: Demonstrates production-ready Retrieval-Augmented Generation (RAG) pipelines using Ray for scalable serving and deployment of LLMs (e.g., Llama2, OpenAI models).
+- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Anyscale) and optimizing inference performance via Ray’s distributed computing framework.
+- **End-to-End Deployment**: Provides guides for building, evaluating, and deploying LLM applications in production environments with
 
 ## Use Cases
 

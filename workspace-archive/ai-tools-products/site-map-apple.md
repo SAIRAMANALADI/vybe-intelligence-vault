@@ -2,7 +2,7 @@
 title: Site Map - Apple
 archive_category: ai-tools-products
 source_category: ai/rag
-source_url: https://www.apple.com/sitemap
+source_url: https://www.apple.com/sitemap/
 resource_id: blog:site-map-apple
 local_vault_path: ai/rag/site-map-apple.md
 quality_score: 70
@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - rag
 - reddit
 - web-crawled
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Apple Ecosystem Structure**: Apple's sitemap reveals a hierarchical, modular ecosystem with distinct sections for **Mac**, **iPad**, **iPhone**, and **Apple Watch**, each containing subcategories for **hardware models**, **accessories**, **software applications**, **support**, and **developer resources**.
+- **Apple Ecosystem Structure**: The sitemap reveals a hierarchical Apple ecosystem organized into core product lines (Mac, iPad, iPhone, Apple Watch) with dedicated subsections for hardware, accessories, software, and support, indicating a modular yet interconnected product strategy.
 
-- **Cross-Platform Integration**: Core services like **Apple Intelligence**, **iCloud**, **Apple Pay**, **Find My**, and **Accessibility** are uniformly referenced across all device catego
+- **Technical & Developer Resources**: Multiple sections (e.g., macOS/iOS/iPadOS for Developers, Apple Intelligence, AR) highlight Apple’s emphasis on developer tools, AI integration, and platform-specific APIs fo
 
 ## Use Cases
 
@@ -45,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.apple.com/sitemap
+Original source URL: https://www.apple.com/sitemap/
 
 ## Local Vault File
 

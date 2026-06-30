@@ -1,70 +1,55 @@
 ---
-title: microsoft/wsl
+title: Releases · microsoft/WSL · GitHub
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/microsoft/wsl
-collected_at: '2026-06-27T16:44:11.015227+05:30'
-published_at: '2026-06-27T09:35:57Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/microsoft/WSL/releases
+published_at: '2026-06-30T20:21:21.418400+05:30'
+collected_at: '2026-06-30T20:21:21.418415+05:30'
 tags:
-- c++
-- github-repo
+- frontend_ui
+- hackernews
+- producthunt
 - rag
-stars: 32839
-language: C++
+- web-crawled
+- youtube
 status: active
-license: MIT
-archived: false
-created_at: '2016-04-06T17:32:56Z'
-pushed_at: '2026-06-27T08:03:55Z'
 resource_id: github:microsoft/wsl
-first_seen: '2026-06-27T16:44:11.015227+05:30'
-last_seen: '2026-06-27T16:44:11.015227+05:30'
-last_checked: '2026-06-27T16:44:11.015227+05:30'
+first_seen: '2026-06-30T20:21:21.418415+05:30'
+last_seen: '2026-06-30T20:21:21.418415+05:30'
+last_checked: '2026-06-30T20:21:21.418415+05:30'
 health_score: 100
 ---
 
-# microsoft/wsl
+# Releases · microsoft/WSL · GitHub
 
 ## Summary
 
-- **WSL Architecture**: Implements a lightweight compatibility layer for running Linux binary executables natively on Windows via a custom kernel-mode driver (`lxss.sys`) and user-mode components (`wsl.exe`, `wslservice.exe`), leveraging Windows NT kernel interfaces.
+- **WSL 2.9.3 introduces WSL Containers (WSLC) Public Preview**, enabling native Linux container management via a new `wslc` CLI tool, C++/C# SDK, and features like GPU support via CDI, multi-network attachment, and VHD-backed volumes with configurable UID/GID drivers.
 
-- **Kernel Integration**: Utilizes a custom Linux kernel (`wslkernel`) derived from the Windows NT kernel, providing system call translation and emulation for POSIX-compliant Linux syscalls while maintaining Windows security boundaries.
+- **Critical bug fixes** include resolution of `systemctl poweroff` VM termination blocks, use-after-free in virtiofs workers, IPv6 port leaks in Consomme networking, and `wslpath` translation errors for `\\wsl.localhost` paths.
 
-- **Filesystem & Process Model**: Supports Linux filesystem semantics via a virtualized `/` mount (VFS layer) and isolates Linux processes in a containerized environment, using Windows Job Objects and namespace isolation for process containment.
+- **Security updates** in 2.9.3 patch .NET runtime (CVE-2026-45491) and MSRDC (CVE-2026-32157), while 2.7.10 backports VHD restore token impersonation fixes and 2.7.9 resolves AMD chipset/KVM boot regressions via kernel update to 6.18.33.2-2.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: microsoft
-- Stars: 32839
-- Forks: 1760
-- Language: C++
-- Topics: None
-- Last Updated: 2026-06-27T09:35:57Z
-- License: MIT
-- Archived: No
-- Created At: 2016-04-06T17:32:56Z
-- Pushed At: 2026-06-27T08:03:55Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-06-30T20:21:21.418400+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- frontend_ui
+- hackernews
+- producthunt
+- rag
+- web-crawled
+- youtube
 
 ## Source
 
-Original source: https://github.com/microsoft/wsl
+Original source: https://github.com/microsoft/WSL/releases

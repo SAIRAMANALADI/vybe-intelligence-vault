@@ -4,16 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.visualstudio.com/support/support-overview-vs
-published_at: '2026-06-27T21:58:19.255508+05:30'
-collected_at: '2026-06-27T21:58:19.255517+05:30'
+published_at: '2026-06-30T20:21:29.030599+05:30'
+collected_at: '2026-06-30T20:21:29.030614+05:30'
 tags:
-- hackernews
 - web-crawled
 status: active
 resource_id: blog:visual-studio-support-customer-help-faqs
-first_seen: '2026-06-27T21:58:19.255517+05:30'
-last_seen: '2026-06-27T21:58:19.255517+05:30'
-last_checked: '2026-06-27T21:58:19.255517+05:30'
+first_seen: '2026-06-30T20:21:29.030614+05:30'
+last_seen: '2026-06-30T20:21:29.030614+05:30'
+last_checked: '2026-06-30T20:21:29.030614+05:30'
 health_score: 100
 ---
 
@@ -21,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Visual Studio Support**: Centralized troubleshooting for VS IDE issues via [official support page](https://www.visualstudio.com/vs/support/)
-- **VS Code Support**: Microsoft-provided [OAS portal](https://support.microsoft.com/oas/default.aspx?prid=16064) for VS Code technical assistance
-- **Account & Subscriptions**: Dedicated [subscription support](https://www.visualstudio.com/subscriptions/support/) for licensing and billing queries
+- **Visual Studio Support**: Centralized troubleshooting for Visual Studio IDE issues via [official support page](https://www.visualstudio.com/vs/support/).
+- **Visual Studio Code Support**: Dedicated resources for VS Code problems via [Microsoft support portal](https://support.microsoft.com/oas/default.aspx?prid=16064).
+- **Account & Subscriptions**: Resolves billing and subscription queries for Visual Studio via [dedicated support](https://www.visualstudio.com/subscriptions/support/).
 
 ## Why It Matters
 
@@ -33,11 +32,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-27T21:58:19.255508+05:30
+- Published: 2026-06-30T20:21:29.030599+05:30
 
 ## Related Tags
 
-- hackernews
 - web-crawled
 
 ## Source

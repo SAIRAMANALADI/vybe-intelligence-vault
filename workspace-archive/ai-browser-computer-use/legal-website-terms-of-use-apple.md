@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Ownership & Usage Rights**: All Site content (text, graphics, code, etc.) is proprietary to Apple, protected by IP laws, and may not be reproduced, distributed, or used commercially without explicit written consent; unauthorized scraping, deep-linking, or reverse-engineering of Site structure is prohibited.
-
-- **Account Security & Liability**: Users are solely responsible for securing their Apple ID/password and liable for all activity under their account; Apple disclaims liability for unaut
+- **Ownership & Usage Rights**: Apple retains full ownership of all site content (text, graphics, code, etc.), protected by intellectual property laws; unauthorized reproduction, distribution, or deep-linking is prohibited without explicit written consent.
+- **User Responsibilities & Liability**: Users must secure their Apple ID/password, report breaches, and are liable for unauthorized account activity; automated scraping, reverse engineering, or security probing is explicitly forbidden.
+- **Di
 
 ## Use Cases
 

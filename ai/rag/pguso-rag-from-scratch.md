@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-06-30T15:33:05.647607+05:30'
+collected_at: '2026-06-30T20:15:15.892038+05:30'
 published_at: '2026-06-29T11:33:03Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - meta-ai
 - models
 - rag
+- workflows
 stars: 1469
 language: JavaScript
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-06-30T15:33:05.647607+05:30'
-last_seen: '2026-06-30T15:33:05.647607+05:30'
-last_checked: '2026-06-30T15:33:05.647607+05:30'
+first_seen: '2026-06-30T20:15:15.892038+05:30'
+last_seen: '2026-06-30T20:15:15.892038+05:30'
+last_checked: '2026-06-30T20:15:15.892038+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to demystify embeddings, vector search, retrieval, and context-augmented generation without relying on proprietary APIs or black-box systems.
-
-- **JavaScript-Based Implementation**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, with a focus on modularity for educational purposes in understanding RAG components (embedding generation, vector DB operations, and retrieval-augmented prompting).
-
-- **Open-Source Tutorial Repository**: Provides a hands-on guide for developers to build a RAG chatbot pipeline, covering agents, AI-agent integration, and RAG-specific optimizations (e.g., retrieval strategies, context window management) with an updated codebase as of June 2026.
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box dependencies, focusing on embeddings, vector search, retrieval, and context-augmented generation.
+- **JavaScript-Based Pipeline**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference and custom vector search for document retrieval.
+- **Agent & Chatbot Integration**: Provides a modular RAG pipeline for AI agents and chatbots, emphasizing transparency and educational value in AI workflows.
 
 ## Why It Matters
 

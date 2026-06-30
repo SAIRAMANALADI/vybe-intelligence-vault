@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Advanced Security (GHAS)** integrates enterprise-grade security into developer workflows via static analysis, secret protection, and supply chain security tools like CodeQL and dependency tracking.
-
-- **Secret Protection** blocks accidental secret exposure in commits via push protection, while **Code Security** provides AI-driven remediation and vulnerability management directly in GitHub workflows.
-
-- **Supply Chain Security** reduces open-source risks through automated dependency up
+- **GitHub Advanced Security (GHAS)** integrates static analysis, secret protection, and supply chain security into developer workflows via automated scanning, AI remediation, and dependency tracking.
+- **Secret Protection** blocks accidental secret exposure during pushes, while **Code Security** detects vulnerabilities (e.g., XSS, SSRF) via static analysis and AI-driven fixes.
+- **Supply Chain Security** mitigates open-source risks through dependency tracking, auto-updates, and build attestatio
 
 ## Use Cases
 

@@ -8,14 +8,15 @@ local_vault_path: ai/resources/overview-a-cloudflare-workers-ai-docs.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: template
 importance: medium
 tags:
 - reddit
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Overview Â· Cloudflare Workers AI docs
@@ -24,16 +25,18 @@ selection_reason:
 
 - Matched archive category: `Project Ideas`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Workers Wrangler CLI**: A command-line tool for initializing, building, and deploying Cloudflare Workers AI projects with minimal setup.
-- **Project Initialization**: Generates a `wrangler.toml` configuration file and scaffolded project structure for Workers AI applications.
-- **Deployment**: Uses `wrangler deploy` to push Workers AI code to Cloudflare’s edge network, enabling AI inference at global scale.
+- **Workers Wrangler CLI**: A command-line tool for initializing, building, and deploying Workers AI applications, integrating with Cloudflare's Workers platform for serverless execution.
+
+- **Project Initialization**: Run `npx wrangler generate <project-name> https://github.com/cloudflare/workers-ai-template` to scaffold a Workers AI project with preconfigured dependencies and boilerplate code.
+
+- **Deployment Workflow**: Configure `wrangler.toml` with Cloudflare credentials, then deploy via `n
 
 ## Use Cases
 

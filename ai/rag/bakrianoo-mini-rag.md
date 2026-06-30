@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-06-30T15:34:25.740693+05:30'
+collected_at: '2026-06-30T20:16:35.975044+05:30'
 published_at: '2026-06-29T21:08:18Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-06-30T15:34:25.740693+05:30'
-last_seen: '2026-06-30T15:34:25.740693+05:30'
-last_checked: '2026-06-30T15:34:25.740693+05:30'
+first_seen: '2026-06-30T20:16:35.975044+05:30'
+last_seen: '2026-06-30T20:16:35.975044+05:30'
+last_checked: '2026-06-30T20:16:35.975044+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-*   Educational Python project demonstrating production-ready Retrieval Augmented Generation (RAG) application development.
-*   Leverages FastAPI for API services and Docker for containerization, targeting scalable GenAI RAG implementations.
-*   Provides a step-by-step guide for building robust RAG systems.
+- **Educational RAG Pipeline**: Demonstrates end-to-end implementation of a Retrieval-Augmented Generation (RAG) system using FastAPI, Python, and Docker, with step-by-step guidance for production deployment.
+
+- **Modular Architecture**: Implements a scalable microservice design with FastAPI for backend APIs, Docker for containerization, and GenAI integration for LLM-based retrieval and generation.
+
+- **Production-Ready Features**: Includes CI/CD-ready setup, modular components (e.g., vector DB integration, API endpoints), and educational documentation for deploying a robust RAG application.
 
 ## Why It Matters
 

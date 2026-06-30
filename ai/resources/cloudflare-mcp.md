@@ -4,13 +4,13 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cloudflare/mcp
-collected_at: '2026-06-29T03:51:11.865185+05:30'
-published_at: '2026-06-28T12:04:52Z'
+collected_at: '2026-06-30T20:20:12.571838+05:30'
+published_at: '2026-06-30T13:05:07Z'
 tags:
 - github-repo
-- scripts
 - typescript
-stars: 580
+- workflows
+stars: 586
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -18,9 +18,9 @@ archived: false
 created_at: '2026-01-29T15:10:49Z'
 pushed_at: '2026-06-22T15:47:30Z'
 resource_id: github:cloudflare/mcp
-first_seen: '2026-06-29T03:51:11.865185+05:30'
-last_seen: '2026-06-29T03:51:11.865185+05:30'
-last_checked: '2026-06-29T03:51:11.865185+05:30'
+first_seen: '2026-06-30T20:20:12.571838+05:30'
+last_seen: '2026-06-30T20:20:12.571838+05:30'
+last_checked: '2026-06-30T20:20:12.571838+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based MCP server** enabling programmatic interaction with Cloudflare's API for automation and integration.
-- **Supports Cloudflare Workers** and broader Cloudflare services via the MCP protocol for structured tooling.
-- **Last updated June 2026**, with 580 stars and 71 forks, indicating active community engagement.
+- **TypeScript-based MCP server** providing programmatic access to Cloudflare's API for managing Workers, DNS, and other Cloudflare services.
+- **Implements MCP (Model Context Protocol)** to enable structured interactions with Cloudflare resources via AI-driven workflows.
+- **Last updated June 2026**, with active maintenance for compatibility with Cloudflare's evolving API and MCP standards.
 
 ## Why It Matters
 
@@ -39,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: cloudflare
-- Stars: 580
-- Forks: 71
+- Stars: 586
+- Forks: 72
 - Language: TypeScript
 - Topics: cloudflare, cloudflare-workers, mcp, mcp-server
-- Last Updated: 2026-06-28T12:04:52Z
+- Last Updated: 2026-06-30T13:05:07Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-01-29T15:10:49Z

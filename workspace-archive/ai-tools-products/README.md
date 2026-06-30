@@ -13,7 +13,7 @@ Discovering modern AI productivity tools allows developers to streamline their d
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (benchmark - USEFUL Tier)
 - [Docker Hub Container Image Library | App Containerization](https://hub.docker.com) (framework - USEFUL Tier)
 - [JetBrains AI - The JetBrains Blog](https://blog.jetbrains.com/ai) (framework - USEFUL Tier)
-- [Android Mobile App Developer Tools - Android Developers](https://developer.android.com) (framework - USEFUL Tier)
+- [What is retrieval-augmented generation, and what does it do for generative AI? - The GitHub Blog](https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai/) (benchmark - USEFUL Tier)
 - [AI & Vectors | Supabase Docs](https://supabase.com/docs/guides/ai) (template - USEFUL Tier)
 - [Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories](https://arxiv.org/abs/2606.13298) (framework - USEFUL Tier)
 
@@ -25,7 +25,7 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
 - [continuedev/continue](https://github.com/continuedev/continue)
 - [opendevin/opendevin](https://github.com/opendevin/opendevin)
-- [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices)
+- [DS4SD/docling](https://github.com/DS4SD/docling)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-06-30 15:49 IST*
+*Last updated: 2026-06-30 20:31 IST*

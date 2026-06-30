@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Apple TV 4K supports tvOS 26**, with backward compatibility for versions 12.0 through 18.0, providing structured documentation for setup, navigation, and advanced features like Siri integration and AirPlay 2 streaming.
-
-- **Key functionalities include**:
-  - **Multi-device ecosystem integration** (e.g., HomePod, AirPods, iPhone/iPad as remote, Bluetooth device pairing).
-  - **App ecosystem management** (e.g., Apple TV app for streaming, Fitness+ for workouts, Arcade for gaming, and SharePlay
+- **tvOS 26 Overview**: Apple's tvOS 26 introduces new features for Apple TV 4K, including enhanced Siri integration, improved Control Center navigation, and advanced parental controls via voice recognition.
+- **Device Compatibility & Setup**: Supports pairing with iPhone/iPad for remote functionality, Bluetooth audio devices, and AirPlay streaming; includes model identification and status light diagnostics.
+- **App Ecosystem & Media Management**: Integrates Apple TV, Music, Fitness+, Photos, Ar
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/duanyytop/agents-radar
-collected_at: '2026-06-30T15:34:40.740443+05:30'
+collected_at: '2026-06-30T20:16:50.996668+05:30'
 published_at: '2026-06-30T09:14:21Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2026-02-23T03:22:26Z'
 pushed_at: '2026-06-30T01:53:32Z'
 resource_id: github:duanyytop/agents-radar
-first_seen: '2026-06-30T15:34:40.740443+05:30'
-last_seen: '2026-06-30T15:34:40.740443+05:30'
-last_checked: '2026-06-30T15:34:40.740443+05:30'
+first_seen: '2026-06-30T20:16:50.996668+05:30'
+last_seen: '2026-06-30T20:16:50.996668+05:30'
+last_checked: '2026-06-30T20:16:50.996668+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Automated AI Ecosystem Aggregator**: Daily curation of AI-related content from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
-- **Bilingual Reporting**: Generates reports in both Chinese (ZH) and English (EN) with automated workflows.
-- **Technical Stack**: Built in TypeScript, last updated on 2026-06-30, with 866 stars and 139 forks.
+- **Automated AI Ecosystem Aggregator**: Daily digest compiling updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
+- **Bilingual Reporting**: Generates reports in both Chinese and English, automated through scheduled CI/CD workflows.
+- **TypeScript-Based Tool**: Open-source repository (866 stars, 140 forks) with last update on 2026-06-30, hosted at `github.com/duanyytop/agents-radar`.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: duanyytop
 - Stars: 866
-- Forks: 139
+- Forks: 140
 - Language: TypeScript
 - Topics: None
 - Last Updated: 2026-06-30T09:14:21Z

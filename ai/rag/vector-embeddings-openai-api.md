@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://platform.openai.com/docs/guides/embeddings
-published_at: '2026-06-30T10:10:43.776632+05:30'
-collected_at: '2026-06-30T10:10:43.776647+05:30'
+published_at: '2026-06-30T20:18:29.126048+05:30'
+collected_at: '2026-06-30T20:18:29.126067+05:30'
 tags:
 - benchmark
 - dataset
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:vector-embeddings-openai-api
-first_seen: '2026-06-30T10:10:43.776647+05:30'
-last_seen: '2026-06-30T10:10:43.776647+05:30'
-last_checked: '2026-06-30T10:10:43.776647+05:30'
+first_seen: '2026-06-30T20:18:29.126067+05:30'
+last_seen: '2026-06-30T20:18:29.126067+05:30'
+last_checked: '2026-06-30T20:18:29.126067+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **New Embedding Models**: `text-embedding-3-small` and `text-embedding-3-large` offer lower costs, improved multilingual performance, and configurable embedding dimensions (default: 1536/3072) via the `dimensions` parameter, enabling trade-offs between performance and vector size.
+- **Model Specifications**: `text-embedding-3-small` (1536-dim, ~62.5k pages/USD, 62.3% MTEB) and `text-embedding-3-large` (3072-dim, ~9.6k pages/USD, 64.6% MTEB) offer reduced costs, improved multilingual performance, and configurable embedding dimensions via API parameter.
 
-- **Embedding Mechanics**: Text strings are converted into floating-point vectors where cosine distance measures semantic relatedness; embeddings support use cases like search, clustering, classification, and anomaly detection, with pricing based on input tokens (~800 tokens/page).
+- **Embedding Mechanics**: Embeddings are normalized L2 vectors (default 1536/3072 dims) where cosine distance measures semantic relatedness; dimensionality can be reduced post-generation (e.g., to 256) without significant loss of conceptual fidelity using the `dimensions` parameter.
 
-- **Dynamic Dimension Reduction**: Embeddings can be truncated (e.g., to 256D) without losing core semantic properties, allowing compatibility with storage/compute constraints (e.g., vector DBs limited to 1024D) while outperforming older models like `text-embedding-ada-002`.
+- **Use Cases & Implementation**: Enables search, clustering, recommendations, and classification via vector similarity; API supports dynamic dimension adjustment (e.g., truncating to 1024 for storage constraints) and integrates with ML pipelines (e.g., t-SNE for 2D visualization).
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T10:10:43.776632+05:30
+- Published: 2026-06-30T20:18:29.126048+05:30
 
 ## Related Tags
 

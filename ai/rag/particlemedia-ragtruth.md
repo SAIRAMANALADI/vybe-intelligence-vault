@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-06-30T15:32:45.686400+05:30'
+collected_at: '2026-06-30T20:15:01.005158+05:30'
 published_at: '2026-06-29T06:24:27Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - hackernews
+- models
 - python
 - rag
 stars: 256
@@ -21,9 +22,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-06-30T15:32:45.686400+05:30'
-last_seen: '2026-06-30T15:32:45.686400+05:30'
-last_checked: '2026-06-30T15:32:45.686400+05:30'
+first_seen: '2026-06-30T20:15:01.005158+05:30'
+last_seen: '2026-06-30T20:15:01.005158+05:30'
+last_checked: '2026-06-30T20:15:01.005158+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and mitigating hallucinations in generated outputs.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs.
 
-- **Technical Composition**: Contains structured hallucination annotations across diverse domains, enabling fine-grained analysis of RAG model failures in retrieval, generation, and factual consistency.
+- **Technical Scope**: Provides a structured dataset with annotated hallucinations, enabling fine-grained analysis of RAG model failures across retrieval, generation, and integration stages.
 
-- **Implementation**: Provides Python-based tools for dataset access, evaluation metrics, and baseline model training, facilitating reproducible research and benchmarking in hallucination detection.
+- **Implementation**: Python-based repository with tools for dataset exploration, hallucination detection benchmarks, and integration with RAG pipelines for reproducibility and extensibility.
 
 ## Why It Matters
 

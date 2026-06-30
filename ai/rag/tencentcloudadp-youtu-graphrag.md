@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-06-30T15:34:30.795174+05:30'
+collected_at: '2026-06-30T20:16:45.991724+05:30'
 published_at: '2026-06-29T07:58:04Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-06-30T15:34:30.795174+05:30'
-last_seen: '2026-06-30T15:34:30.795174+05:30'
-last_checked: '2026-06-30T15:34:30.795174+05:30'
+first_seen: '2026-06-30T20:16:45.991724+05:30'
+last_seen: '2026-06-30T20:16:45.991724+05:30'
+last_checked: '2026-06-30T20:16:45.991724+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced context.
+- **Vertically Unified Agents Framework**: Introduces a multi-agent architecture where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
 
-- **Graph Retrieval-Augmented Architecture**: Integrates graph-based retrieval with large language models (LLMs) to dynamically construct and traverse knowledge graphs, improving factual accuracy and contextual relevance in reasoning.
+- **Graph Retrieval-Augmented Reasoning**: Integrates graph-based retrieval with LLM reasoning, enabling dynamic subgraph extraction and iterative refinement of knowledge graphs to improve factual accuracy and contextual relevance in outputs.
 
-- **ICLR 2026 Contribution**: Proposes a novel paradigm for graph-centric RAG, optimizing agent coordination and graph traversal for scalable, interpretable complex reasoning in real-world applications.
+- **Optimized for ICLR 2026**: Implemented in Python with modular design for scalability, supporting large-scale graph operations and efficient LLM interactions, as evidenced by 1,212 stars and 183 forks.
 
 ## Why It Matters
 

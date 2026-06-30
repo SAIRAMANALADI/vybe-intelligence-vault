@@ -14,6 +14,7 @@ tags:
 - agents
 - github-repo
 - python
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated AI Agent Use Cases**: Repository hosts 500+ practical AI agent implementations across industries (healthcare, finance, education, retail) with open-source links for hands-on deployment.
-- **Multi-Industry Showcase**: Demonstrates AI agent applications in diverse sectors, emphasizing real-world GenAI and agentic workflows for scalable solutions.
-- **Python-Centric Open-Source Hub**: Repository is Python-based, actively maintained (last update: 2026-06-29), with 33K+ stars and 5.8K+ fo
+- **Curated AI Agent Use Cases**: Repository aggregates 500+ practical AI agent implementations across industries (healthcare, finance, education, retail) with open-source project links for hands-on deployment.
+- **Multi-Sector AI Integration**: Demonstrates GenAI and AI-agent applications via Python-based projects, highlighting cross-domain automation and decision-making workflows.
+- **Active Maintenance & Scalability**: Last updated June 2026, with 33.3K+ stars and 5.9K+ forks, indicating robu
 
 ## Use Cases
 

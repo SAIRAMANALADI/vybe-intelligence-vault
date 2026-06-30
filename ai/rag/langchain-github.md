@@ -4,20 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-06-30T15:36:06.525418+05:30'
-collected_at: '2026-06-30T15:36:06.525430+05:30'
+published_at: '2026-06-30T20:18:11.654037+05:30'
+collected_at: '2026-06-30T20:18:11.654055+05:30'
 tags:
 - agents
 - anthropic
 - rag
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-06-30T15:36:06.525430+05:30'
-last_seen: '2026-06-30T15:36:06.525430+05:30'
-last_checked: '2026-06-30T15:36:06.525430+05:30'
+first_seen: '2026-06-30T20:18:11.654055+05:30'
+last_seen: '2026-06-30T20:18:11.654055+05:30'
+last_checked: '2026-06-30T20:18:11.654055+05:30'
 health_score: 100
 ---
 
@@ -25,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide modular components and integrations for LLM application development, while LangGraph/LangGraph.js enable agent construction via graph-based workflows; Deep Agents/Deep Agents.js support hierarchical agent planning and file system interactions.
+- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as graph structures; Deep Agents/Deep Agents.js support advanced agent capabilities like planning, subagent delegation, and filesystem interactions.
 
-- **Commercial & OSS Extensions**: LangSmith offers a production-grade platform for building and monitoring LLM applications, while extensions like Deep Agents Code, Open SWE, MCP Adapters, and Agent Protocol provide specialized agent capabilities (e.g., terminal-based coding, async workflows, MCP tool compatibility, and framework-agnostic agent APIs).
+- **Commercial Platform**: LangSmith offers a production-grade environment for developing, deploying, and monitoring LLM applications at scale.
 
-- **Ecosystem & Learning**: Unified documentation (via docs.langchain.com), a community forum, and LangChain Academy provide structured learning resources for LangChain’s libraries and commercial offerings.
+- **OSS Extensions & Protocols**: Includes Deep Agents Code (terminal-based coding agent), Open SWE (asynchronous coding agent), MCP Adapters (MCP tool compatibility), and Agent Protocol (framework-agnostic APIs for serving LLM agents in production).
 
 ## Why It Matters
 
@@ -39,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T15:36:06.525418+05:30
+- Published: 2026-06-30T20:18:11.654037+05:30
 
 ## Related Tags
 
@@ -47,7 +46,6 @@ General public resource representing technology updates, guides, or tutorials.
 - anthropic
 - rag
 - web-crawled
-- workflows
 - youtube
 
 ## Source

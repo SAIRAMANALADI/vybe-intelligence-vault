@@ -8,17 +8,18 @@ local_vault_path: ai/rag/olegnazarov-rag-security-scanner.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - github-repo
+- hackernews
 - openai
 - python
 - rag
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # olegnazarov/rag-security-scanner
@@ -27,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `AI Tools and Products`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Purpose**: A Python-based security scanner designed to detect critical vulnerabilities in AI-powered applications (e.g., RAG systems, LLM chatbots) by identifying issues like prompt injection, OWASP Top 10 AI risks, and red-team attack vectors.
-- **Functionality**: Automates security audits via penetration testing, simulating adversarial attacks to evaluate resilience against exploitation in AI workflows.
-- **Scope**: Supports OpenAI, ChatGPT, and general LLM/rag security testing, integratin
+- **Purpose**: Identifies critical vulnerabilities in AI-powered applications (e.g., chatbots, RAG systems) via automated security testing, focusing on LLM-specific threats like prompt injection and OWASP Top 10 risks.
+- **Features**: Implements red-team techniques for penetration testing, supports OpenAI integrations, and performs security audits on AI workflows.
+- **Technical Stack**: Python-based tool with automated testing capabilities for AI security, including prompt-injection detection an
 
 ## Use Cases
 

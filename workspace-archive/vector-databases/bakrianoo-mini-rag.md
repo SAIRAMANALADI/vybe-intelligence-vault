@@ -30,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-*   Educational Python project demonstrating production-ready Retrieval Augmented Generation (RAG) application development.
-*   Leverages FastAPI for API services and Docker for containerization, targeting scalable GenAI RAG implementations.
-*   Provides a step-by-step guide for building robust RAG systems.
+- **Educational RAG Pipeline**: Demonstrates end-to-end implementation of a Retrieval-Augmented Generation (RAG) system using FastAPI, Python, and Docker, with step-by-step guidance for production deployment.
+
+- **Modular Architecture**: Implements a scalable microservice design with FastAPI for backend APIs, Docker for containerization, and GenAI integration for LLM-based retrieval and generation.
+
+- **Production-Ready Features**: Includes CI/CD-ready setup, modular components (e.g., vector DB
 
 ## Use Cases
 

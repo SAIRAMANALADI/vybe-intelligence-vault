@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pathwaycom/llm-app
-collected_at: '2026-06-30T15:33:20.766783+05:30'
-published_at: '2026-06-30T10:02:29Z'
+collected_at: '2026-06-30T20:15:31.040855+05:30'
+published_at: '2026-06-30T14:12:36Z'
 tags:
 - github-repo
 - jupyter notebook
+- openai
 - rag
 - workflows
-stars: 59179
+stars: 59178
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -19,9 +20,9 @@ archived: false
 created_at: '2023-07-19T08:43:37Z'
 pushed_at: '2026-06-29T21:18:26Z'
 resource_id: github:pathwaycom/llm-app
-first_seen: '2026-06-30T15:33:20.766783+05:30'
-last_seen: '2026-06-30T15:33:20.766783+05:30'
-last_checked: '2026-06-30T15:33:20.766783+05:30'
+first_seen: '2026-06-30T20:15:31.040855+05:30'
+last_seen: '2026-06-30T20:15:31.040855+05:30'
+last_checked: '2026-06-30T20:15:31.040855+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Cloud-native RAG & AI pipelines**: Pre-configured templates for Retrieval-Augmented Generation (RAG), AI workflows, and enterprise search with live data synchronization, optimized for Docker deployment.
+- **Cloud-native RAG & AI pipelines**: Docker-optimized templates for real-time Retrieval-Augmented Generation (RAG), AI workflows, and enterprise search with live data synchronization across SharePoint, Google Drive, S3, Kafka, PostgreSQL, and real-time APIs.
 
-- **Multi-source data integration**: Supports real-time connectivity with SharePoint, Google Drive, S3, Kafka, PostgreSQL, and REST APIs, ensuring up-to-date vector indexing and retrieval.
+- **Multi-source integration**: Pre-configured connectors for Hugging Face, OpenAI, vector databases, and local LLM deployment, supporting `llmops`, `llm-security`, and `llm-prompting` workflows.
 
-- **Enterprise-grade LLM toolkit**: Includes Jupyter Notebook-based implementations for Hugging Face LLMs, prompt engineering, security hardening, and LLMops, with vector database support for scalable retrieval.
+- **High-performance indexing**: Uses vector indexing and real-time retrieval for scalable, up-to-date LLM applications, last updated June 30, 2026.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pathwaycom
-- Stars: 59179
+- Stars: 59178
 - Forks: 1435
 - Language: Jupyter Notebook
 - Topics: chatbot, hugging-face, llm, llm-local, llm-prompting, llm-security, llmops, machine-learning, open-ai, pathway, rag, real-time, retrieval-augmented-generation, vector-database, vector-index
-- Last Updated: 2026-06-30T10:02:29Z
+- Last Updated: 2026-06-30T14:12:36Z
 - License: MIT
 - Archived: No
 - Created At: 2023-07-19T08:43:37Z

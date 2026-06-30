@@ -8,7 +8,7 @@ local_vault_path: ai/rag/deep-agents-code-docs-by-langchain.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -17,13 +17,13 @@ tags:
 - openai
 - producthunt
 - rag
+- reddit
 - scripts
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Deep Agents Code - Docs by LangChain
@@ -32,16 +32,16 @@ selection_reason:
 
 - Matched archive category: `MCP Registry`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports dynamic switching between any tool-calling LLM (e.g., OpenAI, Anthropic, Google) mid-session via `/model` command or CLI flags (`--model`), with persistent memory and customizable skills for contextual continuity.
+- **Terminal Coding Agent**: `dcode` is an open-source terminal-based coding agent built on the Deep Agents SDK, supporting dynamic LLM provider/model switching, persistent memory for cross-session context, and configurable skills for behavior customization.
 
-- **Sandboxed Execution & Security**: Enforces human-in-the-loop approval for destructive operations (e.g., file writes, shell commands) with optional auto-approve (`-y`), supports remote sandboxes (LangSmith, E2B, etc.), and restricts sh
+- **Built-in Tools & Capabilities**: Includes file operations (read/write/edit), shell execution (with approval controls), web search (via Tavily API), task planning, subagents for parallel delegation, memory storage/retrieval, and MCP tool
 
 ## Use Cases
 

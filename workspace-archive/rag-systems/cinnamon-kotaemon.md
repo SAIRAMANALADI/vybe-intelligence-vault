@@ -14,6 +14,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG-based Chatbot Framework**: Open-source Python tool leveraging Retrieval-Augmented Generation (RAG) to enable document-based conversational AI with LLMs.
-- **Modular Architecture**: Supports customizable pipelines for document ingestion, retrieval, and response generation, optimized for scalability and extensibility.
-- **Integration-Ready**: Compatible with major LLM APIs and vector databases (e.g., FAISS, Chroma), with pre-built connectors for rapid deployment.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded chat interactions, leveraging LLMs for contextual responses.
+- **Modular Python Framework**: Built in Python with extensible components for document ingestion, retrieval, and LLM integration.
+- **Open-Source License**: Released under an open-source license, supporting community contributions and self-hosting for document-based Q&A workflows.
 
 ## Use Cases
 

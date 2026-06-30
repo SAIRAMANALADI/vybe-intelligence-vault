@@ -8,10 +8,9 @@ local_vault_path: ai/rag/huggingface-collections-gemmaverse.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: tutorial
 importance: medium
 tags:
-- dataset
 - hackernews
 - models
 - rag
@@ -27,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **CodeGemma Collection**: A curated set of 18 models released by Google on Hugging Face, focused on code generation and understanding tasks.
-
-- **Technical Scope**: Models likely leverage transformer architectures optimized for programming languages, supporting tasks like code completion, debugging, and generation.
-
-- **Release Metadata**: Updated on March 12, with 97 resources (models, datasets, or tools) available in the collection.
+- **CodeGemma Collection**: A curated Hugging Face collection by Google, released on Mar 12, featuring 18 items optimized for code-related tasks.
+- **Technical Focus**: Models within the collection are specialized for code generation, completion, and understanding, leveraging Google's Gemma architecture.
+- **Accessibility**: Available under permissive licenses on Hugging Face, enabling open-source research and commercial use.
 
 ## Use Cases
 

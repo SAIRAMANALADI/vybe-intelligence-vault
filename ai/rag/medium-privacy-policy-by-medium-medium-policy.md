@@ -3,20 +3,23 @@ title: Medium Privacy Policy | by Medium | Medium Policy
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9
-published_at: '2026-06-30T04:00:14.839877+05:30'
-collected_at: '2026-06-30T04:00:14.839889+05:30'
+source_url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=
+resource_id: blog:medium-privacy-policy-by-medium-medium-policy
+--------------------------------------------
+published_at: '2026-06-30T20:21:35.870296+05:30'
+collected_at: '2026-06-30T20:21:35.870312+05:30'
 tags:
 - agents
 - hackernews
 - rag
+- reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:medium-privacy-policy-by-medium-medium-policy
-first_seen: '2026-06-30T04:00:14.839889+05:30'
-last_seen: '2026-06-30T04:00:14.839889+05:30'
-last_checked: '2026-06-30T04:00:14.839889+05:30'
+first_seen: '2026-06-30T20:21:35.870312+05:30'
+last_seen: '2026-06-30T20:21:35.870312+05:30'
+last_checked: '2026-06-30T20:21:35.870312+05:30'
 health_score: 100
 ---
 
@@ -24,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Medium collects user-provided data (e.g., name, email, posts) and automatically gathers activity, device, and usage metrics (IP address, OS, browser type) via tracking technologies like cookies and web beacons, including third-party analytics providers.
+- **Data Collection & Tracking**: Medium collects user-provided data (e.g., account details, posts, interactions) and automatically gathers device/usage metrics (IP addresses, cookies, browser/OS data) via tracking technologies (cookies, web beacons) for analytics, personalization, and security purposes.
 
-- **Data Sharing & Processing**: Personal data is shared with vendors for services (e.g., hosting, analytics) and may be disclosed for legal compliance or mergers. Embedded third-party content (e.g., YouTube) transmits user interactions to external hosts, governed by their policies.
+- **Third-Party Sharing & Embeds**: Personal data is shared with vendors (e.g., analytics, fraud prevention) and may be disclosed under legal obligations; embedded third-party content (e.g., YouTube videos) transmits user interactions to external hosts, governed by their policies.
 
-- **Data Transfers & User Control**: User data is transferred/stored globally (e.g., AWS data centers), with steps taken to ensure adequate protection. Users can access, correct, or delete account data but may retain residual data per legal/business needs. Opt-outs for communications and cookie adjustments are available.
+- **Cross-Border Data Transfers**: User data is transferred/stored globally (including U.S. servers like AWS), with safeguards for cross-jurisdictional compliance; users retain rights to access, correct, or delete data via account settings.
 
 ## Why It Matters
 
@@ -38,16 +41,17 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T04:00:14.839877+05:30
+- Published: 2026-06-30T20:21:35.870296+05:30
 
 ## Related Tags
 
 - agents
 - hackernews
 - rag
+- reddit
 - web-crawled
 - youtube
 
 ## Source
 
-Original source: https://policy.medium.com/medium-privacy-policy-f03bf92035c9
+Original source: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=--------------------------------------------

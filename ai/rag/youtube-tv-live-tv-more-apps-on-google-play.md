@@ -3,9 +3,9 @@ title: 'YouTube TV: Live TV & more - Apps on Google Play'
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.unplugged&referrer=utm_source%3Dytv%26utm_medium%3Dfooter%26utm_campaign%3Dplay
-published_at: '2026-06-26T02:02:11.780166+05:30'
-collected_at: '2026-06-26T02:02:11.780175+05:30'
+source_url: https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.unplugged
+published_at: '2026-06-30T20:22:11.607924+05:30'
+collected_at: '2026-06-30T20:22:11.607942+05:30'
 tags:
 - hackernews
 - rag
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:youtube-tv-live-tv-more-apps-on-google-play
-first_seen: '2026-06-26T02:02:11.780175+05:30'
-last_seen: '2026-06-26T02:02:11.780175+05:30'
-last_checked: '2026-06-26T02:02:11.780175+05:30'
+first_seen: '2026-06-30T20:22:11.607942+05:30'
+last_seen: '2026-06-30T20:22:11.607942+05:30'
+last_checked: '2026-06-30T20:22:11.607942+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Service Overview**: YouTube TV provides cable-free live TV streaming with 100+ networks (broadcast, sports, entertainment, news, kids) via monthly subscription; includes cloud DVR (9-month retention), 6 household accounts, and multi-device support (mobile, tablet, TV, computer).
-
-- **NFL Sunday Ticket Integration**: Exclusive home for NFL Sunday Ticket (out-of-market Sunday games), with restrictions excluding commercial use, locally broadcast Fox/CBS games, NBC’s *Sunday Night Football*, digital-only games, and international games.
-
-- **Technical & Operational Details**: Subscription model ($72.99→$82.99/mo) with auto-renewal, no contracts, and regional availability in the U.S.; app supports data encryption, deletion requests, and has a "Teen" rating (shares info, digital purchases).
+- **Service Model**: Subscription-based, month-to-month live TV streaming with no contracts or cancellation fees; auto-renewal enabled by default.
+- **Content & Features**: 100+ networks (broadcast, sports, entertainment, news, kids) with cloud DVR (9-month storage), 6 household accounts, and NFL Sunday Ticket exclusivity.
+- **Technical Specs**: Cross-platform support (mobile, tablet, TV, web), encrypted data in transit, no third-party data sharing, and app-agnostic commercial loudness normalization issues reported.
 
 ## Why It Matters
 
@@ -38,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T02:02:11.780166+05:30
+- Published: 2026-06-30T20:22:11.607924+05:30
 
 ## Related Tags
 
@@ -50,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.unplugged&referrer=utm_source%3Dytv%26utm_medium%3Dfooter%26utm_campaign%3Dplay
+Original source: https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.unplugged

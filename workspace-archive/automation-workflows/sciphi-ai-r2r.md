@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Production-ready RAG system**: Open-source framework implementing **agentic Retrieval-Augmented Generation (RAG)** with a **RESTful API**, optimized for large-scale AI retrieval tasks.
-- **Python-based architecture**: Built in Python with support for **LLM integration**, **vector search**, and **dynamic retrieval workflows** for question-answering (QA) and knowledge-intensive tasks.
-- **Scalable retrieval pipeline**: Features **modular components** (ingestion, indexing, retrieval, generation
+- **Agentic RAG System**: Implements an advanced **Retrieval-Augmented Generation (RAG)** pipeline with agentic workflows, enabling dynamic, multi-step retrieval and generation for complex queries.
+
+- **RESTful API**: Exposes a production-ready **HTTP API** for seamless integration, supporting scalable AI retrieval and question-answering (QA) tasks.
+
+- **Modular Python Framework**: Built in Python with extensible components for **vector search**, **document processing**, and **LLM integration**,
 
 ## Use Cases
 

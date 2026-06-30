@@ -31,15 +31,13 @@ selection_reason:
 
 ## Summary
 
-- **Pricing & Plans**:
-  - YouTube TV + NFL Sunday Ticket: $82.99/month (base YouTube TV plan) + $399/season or $49/month for NFL Sunday Ticket.
-  - YouTube Primetime Channels: NFL Sunday Ticket standalone at $399/season or bundled with NFL RedZone.
+- **Pricing & Availability**:
+  - NFL Sunday Ticket is available as a season pass (Sept–Jan) or month-to-month add-on to YouTube TV ($82.99/month) or as a standalone Primetime Channel on YouTube.
+  - Bundling with NFL RedZone is optional; pricing varies by platform (e.g., iOS may differ).
 
-- **Availability & Restrictions**:
-  - No single-team or weekly purchase options; only full-season or month-to-month plans.
-  - Excludes local in-market games unless part of national broadcasts; includes postseason games.
-
-- **Billing & Cancellation
+- **Coverage & Restrictions**:
+  - Includes out-of-market, local, national, and postseason games (preseason excluded for Primetime Channels).
+  - No single-team or weekly plans; only full-season or month-to-mo
 
 ## Use Cases
 

@@ -40,11 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval, augmentation, and generation to enhance LLM responses by dynamically fetching relevant external knowledge, addressing limitations in freshness, private knowledge, and hallucinations.
+- **RAG Evolution**: Naive RAG (basic retrieval + generation) evolved into Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), addressing limitations in freshness, private knowledge, and hallucination mitigation.
 
-- **RAG Evolution**: Progressed from Naive RAG (basic retrieval) to Advanced RAG (hybrid search, reranking, query transformation) and Graph RAG (entity-relation graph-based retrieval for multi-hop reasoning).
-
-- **Implementation Frameworks**: Utilizes libraries like LangC
+- **Core RAG Components**: Retrieval (vector/keyword search), Augmentation (context injection), and Generation (LLM reasoning), with modular frameworks (LangChain/LCEL) enabling flexible pipelines and
 
 ## Use Cases
 

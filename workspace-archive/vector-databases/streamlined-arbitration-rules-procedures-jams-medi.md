@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Scope & Applicability**: Rules govern JAMS-administered arbitrations where parties agree to use them or claims ≤$250K (excl. interest/fees); JAMS NAC/General Counsel administers per agreement or discretion.
-- **Commencement & Service**: Arbitration deemed commenced upon JAMS issuing Commencement Letter; service/e-filing governed by Rule 5(e-f), with deadlines extended for mail service and technical filing errors addressed via "nunc pro tunc" provisions.
-- **Consolidation & Administrative Aut
+- **Scope & Applicability**: JAMS Streamlined Arbitration Rules (effective June 1, 2021) govern binding arbitrations administered by JAMS where parties agree to use these rules or where disputed claims ≤ $250,000 (excluding interest/fees). JAMS NAC or General Counsel oversees administration, with discretion to assign cases to resolution centers.
+
+- **Commencement & Service**: Arbitration commences upon JAMS issuing a Commencement Letter after verifying agreement terms, fee payments, and service
 
 ## Use Cases
 

@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-06-30T15:32:57.210915+05:30'
-collected_at: '2026-06-30T15:32:57.210930+05:30'
+published_at: '2026-06-30T20:15:08.015771+05:30'
+collected_at: '2026-06-30T20:15:08.015784+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-06-30T15:32:57.210930+05:30'
-last_seen: '2026-06-30T15:32:57.210930+05:30'
-last_checked: '2026-06-30T15:32:57.210930+05:30'
+first_seen: '2026-06-30T20:15:08.015784+05:30'
+last_seen: '2026-06-30T20:15:08.015784+05:30'
+last_checked: '2026-06-30T20:15:08.015784+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval, augmentation, and generation to enhance LLM responses by dynamically fetching relevant external knowledge, addressing limitations in freshness, private knowledge, and hallucinations.
+- **RAG Evolution**: Naive RAG (basic retrieval + generation) evolved into Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), addressing limitations in freshness, private knowledge, and hallucination mitigation.
 
-- **RAG Evolution**: Progressed from Naive RAG (basic retrieval) to Advanced RAG (hybrid search, reranking, query transformation) and Graph RAG (entity-relation graph-based retrieval for multi-hop reasoning).
+- **Core RAG Components**: Retrieval (vector/keyword search), Augmentation (context injection), and Generation (LLM reasoning), with modular frameworks (LangChain/LCEL) enabling flexible pipelines and tool integration.
 
-- **Implementation Frameworks**: Utilizes libraries like LangChain/LCEL for modular pipelines, vector databases (e.g., Chroma, Pinecone) for embeddings, and tools like BM25/ANN for retrieval optimization.
+- **Operational Trade-offs**: Graph RAG excels in relational reasoning but incurs higher graph construction costs, while Advanced RAG improves retrieval accuracy via hybrid search and reranking but increases pipeline complexity; Naive RAG offers simplicity at the cost of robustness.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T15:32:57.210915+05:30
+- Published: 2026-06-30T20:15:08.015771+05:30
 
 ## Related Tags
 

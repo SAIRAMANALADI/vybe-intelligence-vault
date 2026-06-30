@@ -1,69 +1,43 @@
 ---
-title: cloudflare/cloudflare-docs
+title: Sign in to GitHub · GitHub
 category: ai/resources
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/cloudflare/cloudflare-docs
-collected_at: '2026-06-30T01:52:13.615126+05:30'
-published_at: '2026-06-29T19:40:44Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/cloudflare/cloudflare-docs/edit/production/src/content/docs/workers-ai/index.mdx
+published_at: '2026-06-30T20:20:12.618478+05:30'
+collected_at: '2026-06-30T20:20:12.618494+05:30'
 tags:
-- github-repo
-- hackernews
-- mdx
-- workflows
-stars: 4886
-language: MDX
+- web-crawled
 status: active
-license: CC-BY-4.0
-archived: false
-created_at: '2020-09-03T20:29:26Z'
-pushed_at: '2026-06-29T20:21:37Z'
 resource_id: github:cloudflare/cloudflare-docs
-first_seen: '2026-06-30T01:52:13.615126+05:30'
-last_seen: '2026-06-30T01:52:13.615126+05:30'
-last_checked: '2026-06-30T01:52:13.615126+05:30'
+first_seen: '2026-06-30T20:20:12.618494+05:30'
+last_seen: '2026-06-30T20:20:12.618494+05:30'
+last_checked: '2026-06-30T20:20:12.618494+05:30'
 health_score: 100
 ---
 
-# cloudflare/cloudflare-docs
+# Sign in to GitHub · GitHub
 
 ## Summary
 
-- **Repository Structure**: Hosts Cloudflare's official documentation in MDX format, optimized for technical clarity and cross-referencing.
-- **Collaborative Features**: Supports `hacktoberfest` contributions via GitHub workflows, enabling community-driven updates to documentation.
-- **Versioning & Maintenance**: Last updated in 2026, indicating active maintenance with version-controlled content for Cloudflare’s evolving services.
+- **Authentication Error**: The GitHub login page encountered an error while loading, prompting a page reload.
+- **Account Creation Link**: A "Create account" option is provided for new users, redirecting to GitHub's signup page with a return path to the current document.
+- **Passkey Support**: GitHub offers "Sign in with a passkey" as an alternative authentication method.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: cloudflare
-- Stars: 4886
-- Forks: 15393
-- Language: MDX
-- Topics: cloudflare, docs, hacktoberfest, markdown, mdx
-- Last Updated: 2026-06-29T19:40:44Z
-- License: CC-BY-4.0
-- Archived: No
-- Created At: 2020-09-03T20:29:26Z
-- Pushed At: 2026-06-29T20:21:37Z
+- Source: Web Discovery
+- Category: ai/resources
+- Published: 2026-06-30T20:20:12.618478+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- web-crawled
 
 ## Source
 
-Original source: https://github.com/cloudflare/cloudflare-docs
+Original source: https://github.com/cloudflare/cloudflare-docs/edit/production/src/content/docs/workers-ai/index.mdx

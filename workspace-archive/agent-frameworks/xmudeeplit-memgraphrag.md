@@ -12,9 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
 - github-repo
-- hackernews
 - python
 - rag
 selection_reason:
@@ -35,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a novel framework combining memory mechanisms with multi-agent collaboration for Graph Retrieval-Augmented Generation (GraphRAG), enabling dynamic knowledge graph construction and retrieval.
+- **Memory-based Multi-Agent System**: Introduces a novel framework leveraging memory mechanisms for coordinated multi-agent collaboration in graph-based Retrieval-Augmented Generation (RAG), enabling dynamic knowledge integration and retrieval.
 
-- **Ontology-Guided Graph Construction**: Implements ontology-driven techniques to automate and refine graph structure generation, improving semantic coherence and contextual relevance in RAG pipelines.
+- **Graph Construction & Ontology Integration**: Implements an ontology-driven graph construction pipeline to model relationships and entities, enhancing structured knowledge representation for downstream RAG tasks.
 
-- **Python-Based Implementation**: Provides an open-so
+- **KDD 2026 Contribution**: Propose
 
 ## Use Cases
 

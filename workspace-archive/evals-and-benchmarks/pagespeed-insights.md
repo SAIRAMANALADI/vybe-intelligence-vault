@@ -2,7 +2,7 @@
 title: PageSpeed Insights
 archive_category: evals-and-benchmarks
 source_category: ai/resources
-source_url: https://pagespeed.web.dev/
+source_url: https://pagespeed.web.dev
 resource_id: blog:pagespeed-insights
 local_vault_path: ai/resources/pagespeed-insights.md
 quality_score: 70
@@ -30,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Performance Analysis Tool**: Google's PageSpeed Insights evaluates web page performance on mobile and desktop devices using real-world data (CrUX) and lab data, providing optimization suggestions.
+- **Performance Analysis Tool**: Google's PageSpeed Insights evaluates web page performance on mobile and desktop using real-world data (CrUX) and lab data (Lighthouse), providing optimization suggestions.
 
-- **Scoring Mechanism**: Utilizes Lighthouse audits to generate performance scores (0-100) based on Core Web Vitals (LCP, FID, CLS) and other metrics.
+- **Scoring Metrics**: Scores are based on Core Web Vitals (LCP, FID, CLS) and other performance best practices, with actionable recommendations for improvement.
 
-- **Optimization Recommendations**: Provides actionable insights (e.g., image compression, JavaScript minification, caching strategies) to improve
+- **Integration & Resources**: Supports API access for automated monitoring and provides documentation, release notes, and educati
 
 ## Use Cases
 
@@ -44,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://pagespeed.web.dev/
+Original source URL: https://pagespeed.web.dev
 
 ## Local Vault File
 
