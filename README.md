@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-30 04:26 IST</p>
+        <p><b>Last Update:</b> 2026-06-30 05:32 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,27 +55,19 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Standard Contractual Clauses (SCC) - European Commission](ai/resources/standard-contractual-clauses-scc-european-commissi.md)** • Rank: <kbd>+4575</kbd>
-- 🔼 **[Apple Platform Security - Apple Support](ai/resources/apple-platform-security-apple-support.md)** • Rank: <kbd>+483</kbd>
-- 🔼 **[Gerrit](ai/resources/gerrit.md)** • Rank: <kbd>+3385</kbd>
-- 🔼 **[PageSpeed Insights](ai/resources/pagespeed-insights.md)** • Rank: <kbd>+371</kbd>
-- 🔼 **[Shows | web.dev](ai/resources/shows-web-dev.md)** • Rank: <kbd>+2017</kbd>
+- 🔼 **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[stanford-oval/storm](ai/rag/stanford-oval-storm.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[.self: A new top-level domain designed to support self-hosting](ai/community/self-a-new-top-level-domain-designed-to-support-se.md)** • Score: `145`
-- 🆕 **[Working With AI: A concrete example](ai/community/working-with-ai-a-concrete-example.md)** • Score: `58`
-- 🆕 **[Ornith-1.0: Self-scaffolding LLMs for agentic coding](ai/community/ornith-1-0-self-scaffolding-llms-for-agentic-codin.md)** • Score: `44`
-- 🆕 **[Using custom elements - Web APIs | MDN](ai/rag/using-custom-elements-web-apis-mdn.md)** • Score: `0`
-- 🆕 **[declarative-shadow-dom/README.md at master · mfreed7/declarative-shadow-dom · GitHub](ai/resources/mfreed7-declarative-shadow-dom.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[The CEO of Mullvad is the main financer of the Swedish Örebro party](ai/community/the-ceo-of-mullvad-is-the-main-financer-of-the-swe.md)**
-- 💤 **[Tidal AI Policy](ai/community/tidal-ai-policy.md)**
-- 💤 **[Microsoft worker emails colleagues about company's support for genocidal Israel](ai/community/microsoft-worker-emails-colleagues-about-company-s.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
