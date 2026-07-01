@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated resource list** for agentic deep research, focusing on LLM-based reasoning agents, RAG systems, and search agents, with applications in ACL 2026 KnowFM.
-- **Technical scope** includes multi-agent frameworks, hybrid retrieval-generation pipelines, and advanced reasoning strategies for deep research tasks.
-- **Repository metrics**: 781 stars, 62 forks, last updated 2026-06-28, covering topics like agentic AI, deep research agents, and reasoning optimization.
+- **Curated Resource Hub**: Aggregates cutting-edge research (ACL 2026 KnowFM) on agentic deep research, covering agentic RAG, reasoning agents, and LLM-driven search methodologies.
+- **Technical Scope**: Encompasses topics like `deep-research-agent`, `search-agent`, and `reasoning-agent`, emphasizing autonomous multi-step reasoning and retrieval-augmented generation (RAG) architectures.
+- **Community Metrics**: 781 stars, 62 forks, last updated June 2026; serves as a dynamic repository for adva
 
 ## Use Cases
 

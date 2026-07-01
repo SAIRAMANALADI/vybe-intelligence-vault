@@ -8,15 +8,16 @@ local_vault_path: ai/agents/github-awesome-copilot.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: template
+resource_kind: prompt
 importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
-- workflows
+- scripts
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # github/awesome-copilot
@@ -25,15 +26,17 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: template
+- Resource kind: prompt
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates community-driven guides, custom agents, and configurations to optimize GitHub Copilot usage across Python-based implementations.
-- **Structured Extensions**: Provides modular agent skills, prompt engineering templates, and integration examples to enhance AI-driven development workflows.
-- **Active Maintenance**: Last updated July 2026 with 35,998 stars and 4,454 forks, indicating sustained community engagement and iterative improvements.
+- **Repository Overview**: Curated collection of community-driven resources for GitHub Copilot, including instructions, agents, skills, and configurations to optimize Copilot usage.
+
+- **Technical Scope**: Focuses on Python-based implementations, covering agent skills, custom agents, prompt engineering, and AI-driven automation for Copilot.
+
+- **Community & Maintenance**: Actively maintained with 36K+ stars and 4.4K+ forks; last updated July 2026; includes Hacktoberfest participation for collabo
 
 ## Use Cases
 

@@ -4,18 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.kernel.org/
-published_at: '2026-06-30T01:51:52.751243+05:30'
-collected_at: '2026-06-30T01:51:52.751254+05:30'
+published_at: '2026-07-01T15:53:06.520149+05:30'
+collected_at: '2026-07-01T15:53:06.520165+05:30'
 tags:
-- hackernews
 - reddit
 - web-crawled
 - workflows
 status: active
 resource_id: blog:the-linux-kernel-documentation-the-linux-kernel-do
-first_seen: '2026-06-30T01:51:52.751254+05:30'
-last_seen: '2026-06-30T01:51:52.751254+05:30'
-last_checked: '2026-06-30T01:51:52.751254+05:30'
+first_seen: '2026-07-01T15:53:06.520165+05:30'
+last_seen: '2026-07-01T15:53:06.520165+05:30'
+last_checked: '2026-07-01T15:53:06.520165+05:30'
 health_score: 100
 ---
 
@@ -23,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Kernel Development Workflow**: The Linux Kernel documentation outlines the structured process for contributing to the kernel, including patch submission guidelines, community interaction protocols (e.g., `linux-doc@vger.kernel.org`), and maintainer handbook specifications for upstream integration.
+- **Kernel Development & Contribution**: Core documentation covers Linux kernel development processes, patch submission workflows, maintainer guidelines, and community interaction standards (e.g., [Development Process](https://docs.kernel.org/process/development-process.html), [Submitting Patches](https://docs.kernel.org/process/submitting-patches.html)).
 
-- **Core & Subsystem APIs**: Provides detailed technical references for kernel internal APIs, including core subsystems, driver interfaces, synchronization primitives (locking), and architecture-specific implementations (e.g., x86, ARM64, RISC-V).
+- **API & Subsystem Documentation**: Provides detailed references for internal APIs, driver interfaces, subsystem-specific implementations, and synchronization primitives (e.g., [Core API](https://docs.kernel.org/core-api/index.html), [Locking](https://docs.kernel.org/locking/index.html)).
 
-- **Tooling & Debugging**: Documents kernel development tools such as tracing frameworks, fault injection mechanisms, live patching, Rust language support, and architecture-specific build systems (e.g., `kbuild`) for system-level debugging and optimization.
+- **Architecture & Tooling Support**: Includes architecture-specific guides (x86, ARM, RISC-V, etc.), firmware requirements, debugging tools (e.g., tracing, fault injection), and build systems (e.g., [CPU Architectures](https://docs.kernel.org/arch/index.html), [Kbuild](https://docs.kernel.org/kbuild/index.html)).
 
 ## Why It Matters
 
@@ -37,11 +36,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-30T01:51:52.751243+05:30
+- Published: 2026-07-01T15:53:06.520149+05:30
 
 ## Related Tags
 
-- hackernews
 - reddit
 - web-crawled
 - workflows

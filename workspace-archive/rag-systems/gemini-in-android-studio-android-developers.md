@@ -15,7 +15,6 @@ tags:
 - producthunt
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 - youtube
@@ -37,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI Integration**: Android Studio integrates **Gemini** as an agentic AI assistant for end-to-end development workflows, enabling multi-stage task automation (e.g., unit test generation, UI refactoring, crash analysis) with iterative feedback loops and execution plans across project files.
-
-- **Multimodal & Context-Aware Features**: Supports **image-based UI prototyping** (converting wireframes to code), **file/multimodal attachments**, and **context-aware code generation** (e.g., Com
+- **Agent Mode**: Enables multi-stage, complex development tasks (e.g., unit test generation, UI alterations, error fixes) via iterative execution plans across project files, with user review/approval of proposed changes.
+- **Multimodal UI Prototyping**: Converts wireframe/mockup images into functional UI code and provides debugging assistance via screenshot analysis, accelerating modern UI development.
+- **Enterprise-Grade Security**: Data/IP remains proprietary (no model training usage), with
 
 ## Use Cases
 

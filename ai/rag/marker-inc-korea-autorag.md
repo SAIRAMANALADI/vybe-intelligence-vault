@@ -4,16 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-07-01T10:26:42.659502+05:30'
-published_at: '2026-07-01T04:39:29Z'
+collected_at: '2026-07-01T15:46:24.962447+05:30'
+published_at: '2026-07-01T05:33:22Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - python
 - rag
 - scripts
-stars: 4849
+stars: 4850
 language: Python
 status: active
 license: Apache-2.0
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-30T10:37:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-07-01T10:26:42.659502+05:30'
-last_seen: '2026-07-01T10:26:42.659502+05:30'
-last_checked: '2026-07-01T10:26:42.659502+05:30'
+first_seen: '2026-07-01T15:46:24.962447+05:30'
+last_seen: '2026-07-01T15:46:24.962447+05:30'
+last_checked: '2026-07-01T15:46:24.962447+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style Automation for RAG**: Implements automated optimization of Retrieval-Augmented Generation (RAG) pipelines, including hyperparameter tuning, component selection, and performance benchmarking, reducing manual intervention.
+- **AutoML-driven RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using AutoML techniques, dynamically selecting optimal components (e.g., retrieval strategies, embeddings, LLMs) for performance and cost efficiency.
 
-- **Comprehensive Evaluation & Benchmarking**: Provides built-in tools for assessing RAG systems across metrics like retrieval quality, answer correctness, and latency, with support for custom datasets and evaluation protocols.
+- **Comprehensive RAG Benchmarking**: Provides built-in evaluation tools for assessing RAG systems across metrics like answer correctness, retrieval quality, and latency, supporting benchmarking against custom datasets or standardized RAG benchmarks.
 
-- **Modular Python Framework**: Offers a flexible, open-source Python library with pre-built components for document parsing, embeddings, retrieval, and LLM integration, enabling rapid prototyping and deployment.
+- **Modular Pipeline & Document Processing**: Features a modular RAG pipeline with configurable stages (retrieval, generation, post-processing) and built-in document parsers, enabling end-to-end automation from raw text ingestion to optimized LLM inference.
 
 ## Why It Matters
 
@@ -44,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Marker-Inc-Korea
-- Stars: 4849
+- Stars: 4850
 - Forks: 405
 - Language: Python
 - Topics: analysis, automl, benchmarking, document-parser, embeddings, evaluation, llm, llm-evaluation, llm-ops, open-source, ops, optimization, pipeline, python, qa, rag, rag-evaluation, retrieval-augmented-generation
-- Last Updated: 2026-07-01T04:39:29Z
+- Last Updated: 2026-07-01T05:33:22Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-01-10T12:25:00Z

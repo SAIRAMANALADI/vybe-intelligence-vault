@@ -7,7 +7,7 @@ source_url: https://nerdleveltech.com/guides/rag-hands-on-tutorial
 resource_id: blog:build-a-rag-system-from-scratch-step-by-step-with
 local_vault_path: ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md
 quality_score: 70
-archive_score: 76
+archive_score: 78
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -32,7 +32,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 78 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid Retrieval Pipeline**: Combines BM25 keyword search (rank-bm25) with vector similarity search (OpenAI `text-embedding-3-small` + ChromaDB) to balance semantic relevance and exact keyword matching, improving retrieval precision for queries with specific terms.
+- **Hybrid Retrieval Pipeline**: Implements BM25 (keyword-based) + vector search (semantic-based) using `rank-bm25` and LangChain's `BM25Retriever`, combined via reciprocal rank fusion (RRF) to merge results from both methods for improved retrieval relevance.
 
-- **Cross-Encoder Reranking**: Uses a lightweight cross-encoder model (e.g., `cross-encoder/ms-marco-MiniLM-L-6-v2`) to rerank the top 20 hybrid candidates by cross-attention, boosting retrieval quality without requiring external
+- **Cross-Encoder Reranking**: Uses a lightweight cross-encoder (`cross-encoder/ms-marco-MiniLM-L-6-v2`) to rerank hybrid search results, boosting precision by re-scoring top-k candidates with a fine-tuned model (no external API required).
 
 ## Use Cases
 

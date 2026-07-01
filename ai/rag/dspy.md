@@ -3,9 +3,9 @@ title: DSPy
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: http://dspy.ai
-published_at: '2026-06-30T03:57:16.518337+05:30'
-collected_at: '2026-06-30T03:57:16.518349+05:30'
+source_url: https://dspy.ai/
+published_at: '2026-07-01T15:49:05.673155+05:30'
+collected_at: '2026-07-01T15:49:05.673170+05:30'
 tags:
 - agents
 - benchmark
@@ -14,12 +14,13 @@ tags:
 - openai
 - rag
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:dspy
-first_seen: '2026-06-30T03:57:16.518349+05:30'
-last_seen: '2026-06-30T03:57:16.518349+05:30'
-last_checked: '2026-06-30T03:57:16.518349+05:30'
+first_seen: '2026-07-01T15:49:05.673170+05:30'
+last_seen: '2026-07-01T15:49:05.673170+05:30'
+last_checked: '2026-07-01T15:49:05.673170+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **ReActV2 Module**: Introduces an enhanced reasoning-and-acting loop for tool integration, improving adaptive decision-making in DSPy programs.
-- **Improved LM/BaseLM**: Enhances language model handling with better base class abstractions and optimized execution strategies.
-- **Structured Signature Optimization**: Supports typed input/output fields (including images) and GEPA-based compilation to refine programs against metrics (e.g., F1 score, accuracy).
+- **ReActV2 Module & LM/BaseLM Improvements**: Introduces enhanced ReActV2 module for improved reasoning loops with tools, alongside optimizations to LM/BaseLM for better performance and modularity in DSPy 3.3.0b1.
+
+- **Structured Task Definition via Signatures**: Enforces typed input/output fields (e.g., `email: str`, `event_name: str`) for maintainable, portable programs, replacing ad-hoc prompt engineering with declarative task definitions.
+
+- **Optimization & Composition Workflow**: Supports GEPA optimizer for metric-driven prompt tuning (e.g., F1 improvement from 0.41 to 0.63) and enables module composition (e.g., `ChainOfThought`, `ReAct`) with reusable primitives for scalable AI systems.
 
 ## Why It Matters
 
@@ -39,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T03:57:16.518337+05:30
+- Published: 2026-07-01T15:49:05.673155+05:30
 
 ## Related Tags
 
@@ -50,8 +53,9 @@ General public resource representing technology updates, guides, or tutorials.
 - openai
 - rag
 - web-crawled
+- workflows
 - youtube
 
 ## Source
 
-Original source: http://dspy.ai
+Original source: https://dspy.ai/

@@ -8,16 +8,14 @@ local_vault_path: ai/agents/nvidia-ai-blueprints-aiq.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: tool
 importance: medium
 tags:
 - agents
 - github-repo
 - python
-- scripts
-- workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # NVIDIA-AI-Blueprints/aiq
@@ -26,15 +24,15 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: tool
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Enterprise AI Agent Framework**: Open-source reference architecture for constructing AI agents that interface with enterprise data sources, integrate reasoning via advanced LLMs, and generate actionable business insights.
-- **Modular Python Implementation**: Provides a Python-based, extensible codebase for agent orchestration, tool integration, and workflow automation in enterprise environments.
-- **Trust & Scalability Focus**: Incorporates mechanisms for data governance, model reliability,
+*   Provides an open reference NVIDIA Blueprint for constructing intelligent AI agents.
+*   Enables agentic reasoning over enterprise data using state-of-the-art models.
+*   Aims to deliver trusted business insights through integrated data and advanced AI capabilities.
 
 ## Use Cases
 

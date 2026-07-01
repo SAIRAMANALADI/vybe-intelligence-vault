@@ -3,19 +3,19 @@ title: The Medium Blog
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://medium.com/blog/all?topic=product&source=collection_home_page
+source_url: https://blog.medium.com/?source=post_page
 resource_id: blog:the-medium-blog
-----15f753907972-----0-----------------------------------
-published_at: '2026-07-01T04:19:08.043975+05:30'
-collected_at: '2026-07-01T04:19:08.043988+05:30'
+-----d10bb5769280---------------------------------------
+published_at: '2026-07-01T15:49:11.380183+05:30'
+collected_at: '2026-07-01T15:49:11.380194+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:the-medium-blog
-first_seen: '2026-07-01T04:19:08.043988+05:30'
-last_seen: '2026-07-01T04:19:08.043988+05:30'
-last_checked: '2026-07-01T04:19:08.043988+05:30'
+first_seen: '2026-07-01T15:49:11.380194+05:30'
+last_seen: '2026-07-01T15:49:11.380194+05:30'
+last_checked: '2026-07-01T15:49:11.380194+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Medium's sitemap.xml** provides a structured XML index of all accessible URLs, enabling search engine crawlers to efficiently discover and index content across the platform.
-
-- **Medium's navigation and authentication endpoints** leverage OAuth 2.0 and JWT-based sign-in flows, with redirects (`redirect=`) ensuring seamless post-authentication navigation to user-specific or content-specific destinations.
-
-- **Medium's API-driven UI components** (e.g., search, write, app download) utilize query parameters (`source=`) for tracking user interactions and referral attribution, integrating with Google Analytics or internal analytics systems.
+- Medium’s sitemap (`/sitemap.xml`) provides structured XML indexing of all public-facing URLs, including `/blog`, `/search`, and `/m/*` endpoints, enabling efficient crawler discovery.
+- The platform exposes a newsletter subscription endpoint (`/newsletter`) for weekly digest delivery, with tracking parameters (`source=collection_home_page`) for analytics attribution.
+- Medium enforces authentication via `/m/signin` for write operations (`/new-story`) and app redirects (`utm_source=mobileNavBar`), leveraging OAuth2 flows for session management.
 
 ## Why It Matters
 
@@ -37,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T04:19:08.043975+05:30
+- Published: 2026-07-01T15:49:11.380183+05:30
 
 ## Related Tags
 
@@ -46,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://medium.com/blog/all?topic=product&source=collection_home_page----15f753907972-----0-----------------------------------
+Original source: https://blog.medium.com/?source=post_page-----d10bb5769280---------------------------------------

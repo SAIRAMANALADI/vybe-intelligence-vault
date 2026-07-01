@@ -5,7 +5,7 @@ source_type: huggingface_dataset
 source_name: Hugging Face Trending Datasets
 source_url: https://huggingface.co/datasets/ksolovev
 published_at: '2026-03-23T23:30:10.000Z'
-collected_at: '2026-06-30T15:31:49.848539+05:30'
+collected_at: '2026-07-01T15:44:51.372715+05:30'
 tags:
 - dataset
 - hf-dataset
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:datasets/ksolovev
 first_seen: '2026-06-18T23:35:18.472316+05:30'
-last_seen: '2026-06-30T15:31:49.848539+05:30'
-last_checked: '2026-06-30T15:31:49.848539+05:30'
+last_seen: '2026-07-01T15:44:51.372715+05:30'
+last_checked: '2026-07-01T15:44:51.372715+05:30'
 health_score: 100
 ---
 
@@ -22,7 +22,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face dataset: ksolovev/FineNews (Likes: 16, Downloads: 1751465)
+Trending Hugging Face dataset: ksolovev/FineNews (Likes: 16, Downloads: 1864227)
 
 ## Why It Matters
 

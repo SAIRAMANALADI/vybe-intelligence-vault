@@ -2,13 +2,13 @@
 title: Read the Docs tutorial — Read the Docs user documentation
 archive_category: automation-workflows
 source_category: ai/agents
-source_url: https://docs.readthedocs.io/page/tutorial/
+source_url: https://docs.readthedocs.io/page/tutorial/index.html
 resource_id: blog:read-the-docs-tutorial-read-the-docs-user-document
 local_vault_path: ai/agents/read-the-docs-tutorial-read-the-docs-user-document.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: template
 importance: medium
 tags:
 - agents
@@ -20,7 +20,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Read the Docs tutorial — Read the Docs user documentation
@@ -29,16 +29,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Configuration-Driven Builds**: Read the Docs uses `.readthedocs.yaml` for declarative project configuration, enabling reproducible builds with explicit Python version, dependency installation, and output formats (PDF/EPUB) via `pyproject.toml` integration.
+- **GitHub Repository Setup**: Create a public GitHub repository using the Read the Docs tutorial template, containing `.readthedocs.yaml`, `pyproject.toml`, Python source (`lumache.py`), and Sphinx documentation in `docs/` with `conf.py` and `index.rst`.
 
-- **Git-Centric Workflow**: Projects are imported directly from GitHub/GitLab/Bitbucket with webhook-triggered builds, supporting pull request previews, versioned documentation via branch/tags, and automated build failure notifications.
+- **Read the Docs Account & Project Import**: Authorize Read the Docs via GitHub OAuth, verify email, then import the GitHub repository into Read the Docs, configuring project name, repository URL, and default branch (`main`).
+
+- **Automated D
 
 ## Use Cases
 
@@ -48,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.readthedocs.io/page/tutorial/
+Original source URL: https://docs.readthedocs.io/page/tutorial/index.html
 
 ## Local Vault File
 

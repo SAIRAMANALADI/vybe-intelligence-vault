@@ -2,7 +2,7 @@
 title: DSPy
 archive_category: prompt-libraries
 source_category: ai/rag
-source_url: https://dspy-docs.vercel.app
+source_url: https://dspy.ai/
 resource_id: blog:dspy
 local_vault_path: ai/rag/dspy.md
 quality_score: 70
@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **ReActV2 Module**: Introduces an enhanced reasoning-and-acting loop with improved tool integration and adaptive execution strategies for complex LLM workflows.
-- **Signatures & Modules**: Enforces typed input/output task definitions via `dspy.Signature`, with composable modules (`dspy.Predict`, `dspy.ChainOfThought`, `dspy.ReAct`) for modular program design.
-- **GEPA Optimizer**: Compiles programs against custom metrics (e.g., semantic F1) to iteratively optimize performance, reducing relianc
+- **ReActV2 Module & LM/BaseLM Improvements**: Introduces enhanced ReActV2 module for improved reasoning loops with tools, alongside optimizations to LM/BaseLM for better performance and modularity in DSPy 3.3.0b1.
+
+- **Structured Task Definition via Signatures**: Enforces typed input/output fields (e.g., `email: str`, `event_name: str`) for maintainable, portable programs, replacing ad-hoc prompt engineering with declarative task definitions.
+
+- **Optimization & Composition Workflow**: Supports
 
 ## Use Cases
 
@@ -50,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://dspy-docs.vercel.app
+Original source URL: https://dspy.ai/
 
 ## Local Vault File
 

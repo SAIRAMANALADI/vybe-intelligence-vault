@@ -12,10 +12,8 @@ resource_kind: template
 importance: medium
 tags:
 - agents
-- benchmark
 - frontend_ui
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -37,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Overview**: Provides a structured starter repository for building RAG (Retrieval-Augmented Generation) research agents using LangChain, with modular components for retrieval, generation, and evaluation.
-
-- **Key Components**: Includes pre-configured pipelines for document ingestion, vector storage (e.g., FAISS/Chroma), LLM integration (e.g., LangChain's `LLMChain`), and agent orchestration (e.g., `ReAct` or custom workflows).
-
-- **Technical Stack**: Primarily Python-based, leveragin
+- **Template Structure**: Provides a modular Python-based framework for building Retrieval-Augmented Generation (RAG) research agents, leveraging LangChain components.
+- **Key Components**: Includes pre-configured pipelines for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval, and LLM integration (e.g., LangChain's `RetrievalQA`).
+- **Customization Focus**: Designed for extensibility with hooks for custom retrievers, embeddings (e.g., HuggingFace), and agent logic (e.g., ReAct-
 
 ## Use Cases
 

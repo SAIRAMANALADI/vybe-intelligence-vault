@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/functions/css/build/#vars
-published_at: '2026-07-01T04:16:26.152524+05:30'
-collected_at: '2026-07-01T04:16:26.152538+05:30'
+published_at: '2026-07-01T15:50:29.651599+05:30'
+collected_at: '2026-07-01T15:50:29.651614+05:30'
 tags:
 - frontend_ui
 - reddit
 - web-crawled
 status: active
 resource_id: blog:css-build
-first_seen: '2026-07-01T04:16:26.152538+05:30'
-last_seen: '2026-07-01T04:16:26.152538+05:30'
-last_checked: '2026-07-01T04:16:26.152538+05:30'
+first_seen: '2026-07-01T15:50:29.651614+05:30'
+last_seen: '2026-07-01T15:50:29.651614+05:30'
+last_checked: '2026-07-01T15:50:29.651614+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Functionality**: The `css.Build` function in Hugo (v0.158.0+) uses `evanw/esbuild` to bundle, transform, and minify CSS, replacing `@import` statements recursively, applying vendor prefixes, and generating source maps.
-- **Options**: Supports configurable bundling via `externals`, `loaders`, `mainFields`, `minify`, `sourceMap`, `sourcesContent`, `target`, `targetPath`, and `vars` (for injecting CSS variables), with granular control over output.
-- **Usage**: Processes assets from the `assets` directory or Node packages, resolving paths relative to the current file or root, and supports media queries/feature queries in `@import` statements for conditional CSS injection.
+- **Functionality**: `css.Build` bundles, transforms, and minifies CSS resources using `evanw/esbuild`, replacing `@import` statements, applying vendor prefixes, and generating source maps.
+- **Options**: Supports configuration via `externals`, `loaders`, `mainFields`, `minify`, `sourceMap`, `sourcesContent`, `target`, `targetPath`, and `vars` for dynamic CSS variable injection.
+- **Usage**: Processes local and Node package CSS files, with syntax transformations based on `target` environments and optional minification for production builds.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-01T04:16:26.152524+05:30
+- Published: 2026-07-01T15:50:29.651599+05:30
 
 ## Related Tags
 

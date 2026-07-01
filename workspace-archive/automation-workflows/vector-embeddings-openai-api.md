@@ -37,9 +37,12 @@ selection_reason:
 
 ## Summary
 
-- **Model Specifications**: New `text-embedding-3-small` (1536-dim, ~62.5k pages/USD) and `text-embedding-3-large` (3072-dim, ~9.6k pages/USD) embeddings offer lower costs, improved multilingual performance, and configurable dimensionality via the `dimensions` parameter, outperforming `text-embedding-ada-002` (61.0% vs. 62.3%/64.6% on MTEB benchmark).
+- **Model Specifications**:
+  - New `text-embedding-3-small` (1536-dim) and `text-embedding-3-large` (3072-dim) models offer lower costs, improved multilingual performance, and configurable dimensionality via the `dimensions` parameter.
+  - Performance metrics (MTEB eval): `text-embedding-3-small` (62.3%), `text-embedding-3-large` (64.6%), with max input token limit of 8192.
 
-- **Technical Implementation**: Embeddings are L2-normalized vectors (default 1536/3072 dims) generated via API calls (`/v1/embeddings`) with tok
+- **Technical Implementation**:
+  - Embeddings are L2-normalized vectors generated via API (`/v1/embeddings`) with pricin
 
 ## Use Cases
 

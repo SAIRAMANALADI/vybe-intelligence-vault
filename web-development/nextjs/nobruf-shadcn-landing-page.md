@@ -4,17 +4,17 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/nobruf/shadcn-landing-page
-collected_at: '2026-07-01T01:49:58.348240+05:30'
-published_at: '2026-06-30T01:07:34Z'
+collected_at: '2026-07-01T15:44:51.147698+05:30'
+published_at: '2026-07-01T08:37:14Z'
 tags:
 - frontend_ui
-stars: 1251
+stars: 1252
 language: TypeScript
 status: active
 resource_id: github:nobruf/shadcn-landing-page
 first_seen: '2026-06-12T10:40:20.338102+00:00'
-last_seen: '2026-07-01T01:49:58.348240+05:30'
-last_checked: '2026-07-01T01:49:58.348240+05:30'
+last_seen: '2026-07-01T15:44:51.147698+05:30'
+last_checked: '2026-07-01T15:44:51.147698+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: nobruf
-- Stars: 1251
+- Stars: 1252
 - Forks: 271
 - Language: TypeScript
 - Topics: nextjs, responsive-design, shadcn-ui-starter, tailwindcss, typescript
-- Last Updated: 2026-06-30T01:07:34Z
+- Last Updated: 2026-07-01T08:37:14Z
 
 ## Possible Use Cases
 

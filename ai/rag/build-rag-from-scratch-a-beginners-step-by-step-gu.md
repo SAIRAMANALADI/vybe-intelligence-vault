@@ -5,17 +5,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd
-published_at: '2026-07-01T04:11:51.292137+05:30'
-collected_at: '2026-07-01T04:11:51.292150+05:30'
+published_at: '2026-07-01T15:45:53.679896+05:30'
+collected_at: '2026-07-01T15:45:53.679909+05:30'
 tags:
 - openai
 - rag
 - web-crawled
 status: active
 resource_id: blog:build-rag-from-scratch-a-beginners-step-by-step-gu
-first_seen: '2026-07-01T04:11:51.292150+05:30'
-last_seen: '2026-07-01T04:11:51.292150+05:30'
-last_checked: '2026-07-01T04:11:51.292150+05:30'
+first_seen: '2026-07-01T15:45:53.679909+05:30'
+last_seen: '2026-07-01T15:45:53.679909+05:30'
+last_checked: '2026-07-01T15:45:53.679909+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Implements a two-stage process—retrieval (using FAISS for semantic search via embeddings) followed by generation (using OpenAI's LLM with a constrained prompt to prevent hallucinations).
+- **RAG Pipeline Architecture**: The system implements a two-stage process—retrieval (using FAISS vector store for semantic search) followed by generation (via OpenAI's LLM), where retrieved document chunks are injected as context to constrain responses and prevent hallucinations.
 
-- **Modular Implementation**: Structured into four core components: `document_loader.py` (text splitting), `vector_store.py` (FAISS-based embeddings), `rag_chain.py` (prompt engineering + LLM integration), and `main.py` (orchestration), ensuring separation of concerns and scalability.
+- **Modular Implementation**: The solution is decomposed into four core components: `document_loader.py` (text splitting), `vector_store.py` (FAISS embeddings), `rag_chain.py` (prompt engineering with system constraints), and `main.py` (orchestration), enabling clear separation of concerns and extensibility.
 
-- **Hallucination Mitigation**: Enforces answer grounding by restricting the LLM to provided context and returning "I don't know" for out-of-scope queries, achieved via a system prompt and similarity search (`k=3`) over document chunks.
+- **Deterministic Output Control**: A zero-temperature LLM (`gpt-3.5-turbo`) is paired with a strict system prompt that enforces answer grounding in retrieved context, with fallback to "I don't know" when no relevant information exists, ensuring factual reliability.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T04:11:51.292137+05:30
+- Published: 2026-07-01T15:45:53.679896+05:30
 
 ## Related Tags
 

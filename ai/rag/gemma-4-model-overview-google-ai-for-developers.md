@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://ai.google.dev/gemma/docs/core
-published_at: '2026-06-23T09:54:51.935826+05:30'
-collected_at: '2026-06-23T09:54:51.935840+05:30'
+published_at: '2026-07-01T15:52:31.218934+05:30'
+collected_at: '2026-07-01T15:52:31.218946+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:gemma-4-model-overview-google-ai-for-developers
-first_seen: '2026-06-23T09:54:51.935840+05:30'
-last_seen: '2026-06-23T09:54:51.935840+05:30'
-last_checked: '2026-06-23T09:54:51.935840+05:30'
+first_seen: '2026-07-01T15:52:31.218946+05:30'
+last_seen: '2026-07-01T15:52:31.218946+05:30'
+last_checked: '2026-07-01T15:52:31.218946+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Model Family & Architecture**: Gemma 4 introduces five variants (E2B, E4B, 12B, 31B, 26B A4B) with specialized designs: dense (31B), MoE (26B A4B), and unified (12B) for multimodal tasks; E2B/E4B optimized for edge/browser deployment via Per-Layer Embeddings (PLE).
-- **Multimodal & Context Support**: Native processing of text, images (variable aspect ratio/resolution), video, and audio (E2B/E4B/12B); supports up to 256K context window (128K for small models) and multi-token prediction (MTP) for faster inference.
-- **Quantization & Deployment**: Offers Quantization-Aware Training (QAT) models (e.g., 4-bit GGUF, `w4a16-ct`) for efficient deployment across platforms (local, mobile, cloud); memory requirements scale with parameter count and quantization (e.g., 11.4GB BF16 to 2.9GB Q4_0 for E2B).
+- **Model Family & Sizes**: Gemma 4 introduces five architectures (E2B, E4B, 12B, 31B, 26B A4B) with 128K–256K context windows, supporting text, image, video, and audio inputs; E2B/E4B use Per-Layer Embeddings (PLE) for efficiency, while 26B A4B is a Mixture-of-Experts (MoE) model activating 4B parameters per token but requiring full 26B weights in memory.
+
+- **Quantization & Deployment**: Supports BF16 (16-bit), SFP8 (8-bit), Q4_0 (4-bit), and Quantization-Aware Training (QAT) for optimized inference; memory requirements range from 0.84GB (E2B, 4-bit, mobile) to 69.9GB (31B, BF16), with QAT models available for high-efficiency deployment (e.g., `-qat-q4_0-gguf` for local use).
+
+- **Capabilities & Performance**: Features native system prompt support, multi-token prediction (MTP) for speculative decoding, and improved coding/agentic functions; QAT mitigates precision loss during compression, enabling near-baseline performance in quantized models (e.g., `-qat-w4a16-ct` for high-throughput serving).
 
 ## Why It Matters
 
@@ -40,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T09:54:51.935826+05:30
+- Published: 2026-07-01T15:52:31.218934+05:30
 
 ## Related Tags
 

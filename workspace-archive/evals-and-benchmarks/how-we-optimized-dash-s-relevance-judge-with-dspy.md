@@ -6,7 +6,7 @@ source_url: https://dropbox.tech/machine-learning/optimizing-dropbox-dash-releva
 resource_id: blog:how-we-optimized-dash-s-relevance-judge-with-dspy
 local_vault_path: ai/rag/how-we-optimized-dash-s-relevance-judge-with-dspy.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -30,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **DSPy Optimization Framework**: Used DSPy’s GEPA optimizer to systematically adapt a relevance judge from OpenAI’s o3 to OpenAI’s gpt-oss-120b, reducing NMSE (Normalized Mean Squared Error) by 45% (from 8.83 to 4.86) while enabling 10–100x more data labeling at the same cost by optimizing prompts against a fixed human-alignment metric.
+- **DSPy Optimization Framework**: Used DSPy's GEPA optimizer to systematically adapt a relevance judge from OpenAI's o3 to OpenAI's gpt-oss-120b, reducing NMSE by 45% (8.83 → 4.86) and cutting adaptation time from weeks to days while maintaining human alignment.
 
-- **Operational Reliability**: Improved JSON output reliability of a smaller model (gemma-3-12b) by >97% (malformed outputs dropped from 41% to <1%) while red
+- **Operational Reliability**: Optimized a smaller model (gemma-3-12b) to reduce malformed JSON outputs by >97% (40% baseline → <1% invalid) while improving NMSE from 46.88 to 17.26, ensuring machine-readable outputs for downstream pip
 
 ## Use Cases
 

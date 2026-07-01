@@ -4,7 +4,7 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/sanidhyy/modern-portfolio
-collected_at: '2026-06-30T20:14:09.549500+05:30'
+collected_at: '2026-07-01T15:44:50.701392+05:30'
 published_at: '2026-06-30T13:16:58Z'
 tags:
 - animation
@@ -15,8 +15,8 @@ language: JavaScript
 status: active
 resource_id: github:sanidhyy/modern-portfolio
 first_seen: '2026-06-15T12:42:31.615054+00:00'
-last_seen: '2026-06-30T20:14:09.549500+05:30'
-last_checked: '2026-06-30T20:14:09.549500+05:30'
+last_seen: '2026-07-01T15:44:50.701392+05:30'
+last_checked: '2026-07-01T15:44:50.701392+05:30'
 health_score: 100
 ---
 
@@ -34,7 +34,7 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 
 - Owner: sanidhyy
 - Stars: 259
-- Forks: 111
+- Forks: 112
 - Language: JavaScript
 - Topics: 3d-portfolio, 3d-website, animation, framer-motion, modern-ui, modern-ux, netlify, next, nextjs, particles-js, portfolio, react, reactjs, vercel
 - Last Updated: 2026-06-30T13:16:58Z

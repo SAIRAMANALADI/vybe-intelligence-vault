@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://platform.openai.com/docs/guides/embeddings
-published_at: '2026-06-30T22:52:33.630047+05:30'
-collected_at: '2026-06-30T22:52:33.630061+05:30'
+published_at: '2026-07-01T15:49:15.706775+05:30'
+collected_at: '2026-07-01T15:49:15.706789+05:30'
 tags:
 - benchmark
 - dataset
@@ -14,11 +14,12 @@ tags:
 - producthunt
 - rag
 - web-crawled
+- workflows
 status: active
 resource_id: blog:vector-embeddings-openai-api
-first_seen: '2026-06-30T22:52:33.630061+05:30'
-last_seen: '2026-06-30T22:52:33.630061+05:30'
-last_checked: '2026-06-30T22:52:33.630061+05:30'
+first_seen: '2026-07-01T15:49:15.706789+05:30'
+last_seen: '2026-07-01T15:49:15.706789+05:30'
+last_checked: '2026-07-01T15:49:15.706789+05:30'
 health_score: 100
 ---
 
@@ -26,11 +27,17 @@ health_score: 100
 
 ## Summary
 
-- **Model Specifications**: `text-embedding-3-small` (1536D, 62.5k pages/$, 62.3% MTEB) and `text-embedding-3-large` (3072D, 9.6k pages/$, 64.6% MTEB) support dynamic dimension reduction via `dimensions` parameter, enabling trade-offs between vector size and performance.
+- **Model Specifications**:
+  - New `text-embedding-3-small` (1536-dim) and `text-embedding-3-large` (3072-dim) models offer lower costs, improved multilingual performance, and configurable dimensionality via the `dimensions` parameter.
+  - Performance metrics (MTEB eval): `text-embedding-3-small` (62.3%), `text-embedding-3-large` (64.6%), with max input token limit of 8192.
 
-- **API Integration**: Embeddings are generated via OpenAI’s `/v1/embeddings` endpoint, returning normalized float vectors (default 1536D/3072D) with token-based pricing; cosine similarity is used for relatedness measurement in downstream tasks.
+- **Technical Implementation**:
+  - Embeddings are L2-normalized vectors generated via API (`/v1/embeddings`) with pricing based on input token count (~800 tokens/page).
+  - Dimensionality reduction is supported natively (e.g., truncating `text-embedding-3-large` to 256-dim while outperforming `ada-002`'s 1536-dim).
 
-- **Use Cases**: Embeddings enable semantic search, clustering, recommendation, anomaly detection, and classification; dimension reduction (e.g., to 256D) maintains performance while optimizing storage/compute costs.
+- **Use Cases & Workflow**:
+  - Enables semantic search, clustering, and classification via cosine similarity between query/document embeddings.
+  - Post-processing requires normalization for manual dimension adjustments (e.g., truncation + L2 normalization for vector stores).
 
 ## Why It Matters
 
@@ -40,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T22:52:33.630047+05:30
+- Published: 2026-07-01T15:49:15.706775+05:30
 
 ## Related Tags
 
@@ -51,6 +58,7 @@ General public resource representing technology updates, guides, or tutorials.
 - producthunt
 - rag
 - web-crawled
+- workflows
 
 ## Source
 

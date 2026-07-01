@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.python.org
-published_at: '2026-06-30T15:37:10.178439+05:30'
-collected_at: '2026-06-30T15:37:10.178453+05:30'
+published_at: '2026-07-01T15:50:08.244719+05:30'
+collected_at: '2026-07-01T15:50:08.244731+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:3-14-6-documentation
-first_seen: '2026-06-30T15:37:10.178453+05:30'
-last_seen: '2026-06-30T15:37:10.178453+05:30'
-last_checked: '2026-06-30T15:37:10.178453+05:30'
+first_seen: '2026-07-01T15:50:08.244731+05:30'
+last_seen: '2026-07-01T15:50:08.244731+05:30'
+last_checked: '2026-07-01T15:50:08.244731+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Versioning & Support Matrix**: Python 3.14.6 is the latest stable release, with active development for 3.16, pre-release for 3.15, and security fixes for 3.12/3.11/3.10; versions ≤3.9 are end-of-life (EOL).
-
-- **Documentation Structure**: Core sections include "What's New," Tutorial, Library/Reference, Language Spec, C API, and HOWTOs, with auxiliary resources like PEP Index, Packaging Guide, and Static Typing docs.
-
-- **Licensing & Tooling**: Documentation licensed under PSF v2 + Zero-Clause BSD; built with Sphinx 8.2.3, featuring searchable indices (modules, glossary, general) and version-specific archives.
+- **Python 3.14.6** is the latest stable release, with documentation hosted at [docs.python.org/3.14](https://docs.python.org/3.14), including subsections for tutorials, library/reference, and language specifications.
+- **Legacy versions** (3.9–2.6) are marked **EOL**, while 3.10–3.12 receive **security fixes**; 3.15 is in **pre-release**, and 3.16 is **in development**.
+- **Documentation resources** include PEPs, packaging guides, C API references, and static typing docs, all searchable via Sphinx-generated indices (e.g., `genindex.html`, `py-modindex.html`).
 
 ## Why It Matters
 
@@ -34,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-30T15:37:10.178439+05:30
+- Published: 2026-07-01T15:50:08.244719+05:30
 
 ## Related Tags
 

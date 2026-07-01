@@ -18,6 +18,7 @@ tags:
 - producthunt
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -36,9 +37,12 @@ selection_reason:
 
 ## Summary
 
-- **Model Specifications**: `text-embedding-3-small` (1536D, 62.5k pages/$, 62.3% MTEB) and `text-embedding-3-large` (3072D, 9.6k pages/$, 64.6% MTEB) support dynamic dimension reduction via `dimensions` parameter, enabling trade-offs between vector size and performance.
+- **Model Specifications**:
+  - New `text-embedding-3-small` (1536-dim) and `text-embedding-3-large` (3072-dim) models offer lower costs, improved multilingual performance, and configurable dimensionality via the `dimensions` parameter.
+  - Performance metrics (MTEB eval): `text-embedding-3-small` (62.3%), `text-embedding-3-large` (64.6%), with max input token limit of 8192.
 
-- **API Integration**: Embeddings are generated via OpenAI’s `/v1/embeddings` endpoint, returning normalized float vectors (default 1536D/3072D) with token-based pricing; cosine similarity is used for relatedness measurement in
+- **Technical Implementation**:
+  - Embeddings are L2-normalized vectors generated via API (`/v1/embeddings`) with pricin
 
 ## Use Cases
 

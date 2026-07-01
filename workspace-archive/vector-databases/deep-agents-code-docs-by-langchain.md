@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports dynamic switching between any tool-calling LLM (e.g., OpenAI, Anthropic, Google) mid-session via `/model` command or CLI flags (`--model provider:model`), with persistent memory for cross-session context.
+- **Multi-Provider LLM Support**: Deep Agents Code (`dcode`) integrates with any tool-calling LLM (e.g., OpenAI, Anthropic, Google) and allows dynamic model switching mid-session via `/model` command or CLI flags (`--model`), with persistent memory for cross-conversation context.
 
-- **Human-in-the-Loop & Safety Controls**: Enforces approval gates for destructive operations (e.g., file edits, shell execution) with optional auto-approval (`-y`/`--auto-approve`), and supports non-interactive mode with restricted shell commands
+- **Human-in-the-Loop Security & Tools**: Implements mandatory user approval for destructive operations (e.g., file writes, shell execution) via `human-in-the-loop` controls, while offering 15+ built-in tools (e.g., `e
 
 ## Use Cases
 

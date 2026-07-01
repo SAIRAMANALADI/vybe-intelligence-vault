@@ -8,15 +8,16 @@ local_vault_path: ai/rag/change-audio-settings-on-apple-tv-4k-apple-support.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - frontend_ui
 - rag
 - web-crawled
+- workflows
 - youtube
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Change audio settings on Apple TV 4K - Apple Support
@@ -25,15 +26,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **tvOS 26 Overview**: Apple's tvOS 26 introduces new features for Apple TV 4K, including enhanced Siri integration, improved Control Center navigation, and advanced parental controls via voice recognition.
-- **Device Compatibility & Setup**: Supports pairing with iPhone/iPad for remote functionality, Bluetooth audio devices, and AirPlay streaming; includes model identification and status light diagnostics.
-- **App Ecosystem & Media Management**: Integrates Apple TV, Music, Fitness+, Photos, Ar
+- **Apple TV 4K User Guide** provides structured documentation for tvOS 26, covering setup, device interaction, and advanced features like Siri integration, Bluetooth pairing, and multi-device control (e.g., iPhone/iPad as remote or camera input).
+
+- **App-Specific Workflows**: Detailed guides for core apps (TV, Music, Fitness+, Photos, Arcade) include subscription management, playback control, SharePlay functionality, and hardware-specific optimizations (e.g., Apple Watch sync for Fitness+).
+
+-
 
 ## Use Cases
 

@@ -4,25 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA-AI-Blueprints/aiq
-collected_at: '2026-06-30T03:54:46.329564+05:30'
-published_at: '2026-06-28T18:30:14Z'
+collected_at: '2026-07-01T15:48:20.156144+05:30'
+published_at: '2026-07-01T01:38:01Z'
 tags:
 - agents
 - github-repo
 - python
-- scripts
-- workflows
-stars: 760
+stars: 759
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2025-02-11T22:49:57Z'
-pushed_at: '2026-06-29T22:21:57Z'
+pushed_at: '2026-07-01T06:19:13Z'
 resource_id: github:nvidia-ai-blueprints/aiq
-first_seen: '2026-06-30T03:54:46.329564+05:30'
-last_seen: '2026-06-30T03:54:46.329564+05:30'
-last_checked: '2026-06-30T03:54:46.329564+05:30'
+first_seen: '2026-07-01T15:48:20.156144+05:30'
+last_seen: '2026-07-01T15:48:20.156144+05:30'
+last_checked: '2026-07-01T15:48:20.156144+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Enterprise AI Agent Framework**: Open-source reference architecture for constructing AI agents that interface with enterprise data sources, integrate reasoning via advanced LLMs, and generate actionable business insights.
-- **Modular Python Implementation**: Provides a Python-based, extensible codebase for agent orchestration, tool integration, and workflow automation in enterprise environments.
-- **Trust & Scalability Focus**: Incorporates mechanisms for data governance, model reliability, and scalable deployment, optimized for NVIDIA AI infrastructure.
+*   Provides an open reference NVIDIA Blueprint for constructing intelligent AI agents.
+*   Enables agentic reasoning over enterprise data using state-of-the-art models.
+*   Aims to deliver trusted business insights through integrated data and advanced AI capabilities.
 
 ## Why It Matters
 
@@ -41,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVIDIA-AI-Blueprints
-- Stars: 760
+- Stars: 759
 - Forks: 213
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-28T18:30:14Z
+- Last Updated: 2026-07-01T01:38:01Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-02-11T22:49:57Z
-- Pushed At: 2026-06-29T22:21:57Z
+- Pushed At: 2026-07-01T06:19:13Z
 
 ## Possible Use Cases
 

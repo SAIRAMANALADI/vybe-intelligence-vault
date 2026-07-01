@@ -6,10 +6,10 @@ source_url: https://pypi.org/project/deepagents/
 resource_id: blog:deepagents-pypi
 local_vault_path: ai/agents/deepagents-pypi.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - anthropic
@@ -30,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -38,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Architecture**: Built on LangGraph with sub-agent delegation, persistent memory, and pluggable filesystem backends (local/sandboxed/remote), enabling modular and scalable agent orchestration.
-
-- **Model Compatibility**: Supports any tool-calling LLM (frontier APIs, open-weight, or local) via LangChain chat model integration, with production-ready features like streaming, checkpointing, and LangSmith tracing.
-
-- **Security & Extensibility**: Follows a "trust-the-LLM" model with tool
+- **Framework Architecture**: Built on LangGraph with sub-agent delegation, persistent memory, and pluggable filesystem backends (local/sandboxed/remote) for multi-step task execution.
+- **Model Compatibility**: Supports any LLM with tool-calling capabilities (frontier APIs, open-weight models, or local via Ollama/vLLM/llama.cpp) via LangChain’s chat model interface.
+- **Production Features**: Includes human-in-the-loop approvals, streaming/persistence via LangGraph, and LangSmith integration fo
 
 ## Use Cases
 

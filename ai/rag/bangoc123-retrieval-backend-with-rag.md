@@ -4,12 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-01T10:26:57.581138+05:30'
+collected_at: '2026-07-01T15:46:39.967084+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
-- benchmark
 - github-repo
-- models
 - python
 - rag
 stars: 263
@@ -19,9 +17,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-01T10:26:57.581138+05:30'
-last_seen: '2026-07-01T10:26:57.581138+05:30'
-last_checked: '2026-07-01T10:26:57.581138+05:30'
+first_seen: '2026-07-01T15:46:39.967084+05:30'
+last_seen: '2026-07-01T15:46:39.967084+05:30'
+last_checked: '2026-07-01T15:46:39.967084+05:30'
 health_score: 100
 ---
 
@@ -29,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of RAG for Vietnamese**: Demonstrates best practices for Vietnamese text retrieval and generation using Retrieval-Augmented Generation (RAG) with Python, leveraging vector databases and language models optimized for Vietnamese.
-
-- **Modular Architecture**: Features a structured backend with components for document retrieval, embedding generation (e.g., using `sentence-transformers` or `vinai/phobert-base`), and integration with LLM APIs (e.g., `vllm` or `transformers`).
-
-- **Evaluation & Optimization**: Includes scripts for benchmarking retrieval performance (e.g., FAISS or Weaviate) and fine-tuning embeddings for Vietnamese-specific tasks, with support for local deployment and cloud scalability.
+- Implements **Retrieval-Augmented Generation (RAG)** optimized for **Vietnamese language processing**, leveraging vector databases (e.g., FAISS/Weaviate) for efficient document retrieval.
+- Utilizes **PyTorch-based embeddings** (e.g., `vinai/phobert-base`) for contextual Vietnamese text representation, with **FAISS indexing** for low-latency similarity search.
+- Includes **FastAPI backend** for serving RAG pipelines, with **modular components** for document preprocessing, retrieval, and LLM integration (e.g., `vllm` or `transformers`).
 
 ## Why It Matters
 

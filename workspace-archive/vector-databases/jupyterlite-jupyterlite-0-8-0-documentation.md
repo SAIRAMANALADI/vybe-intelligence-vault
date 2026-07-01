@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Browser-Only Execution**: JupyterLite runs entirely in the browser using WebAssembly-based kernels (Pyodide, Xeus Python) with no server dependency, enabling instant deployment via static HTTP(S).
+- **Browser-native Jupyter environment**: JupyterLite is a JupyterLab distribution that runs entirely in the browser, leveraging WebAssembly-based kernels (Pyodide/Xeus) for Python and other languages without requiring a server backend.
 
-- **JupyterLab/Notebook Compatibility**: Supports JupyterLab and Jupyter Notebook interfaces with federated extensions, session/kernel management, and interactive libraries (matplotlib, plotly, ipywidgets) while persisting state via IndexedDB/localStorage.
+- **Static deployment & extensibility**: Served as static HTTP(S) assets, deployable on any static web host or embedded in larger apps; supports JupyterLab extensions and custom kernels with fine-grained configuration.
 
-- **Lightweight Deployment**: Zero-confi
+- **Interactive computing & storage**: Ena
 
 ## Use Cases
 

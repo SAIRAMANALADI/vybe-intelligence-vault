@@ -18,7 +18,6 @@ tags:
 - openai
 - rag
 - reddit
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -37,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Learning Path**: 5-week structured curriculum covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and Matryoshka representation learning for efficient LLM retrieval.
-- **Technical Stack**: Integrates Azure OpenAI, HNSW for vector search, and VS Code notebooks; includes responsible AI practices and multimodal indexing workflows.
-- **Optimization Focus**: Demonstrates scalar/binary quantization for storage efficiency and retrieva
+- **Comprehensive RAG Mastery Guide**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and HNSW indexing for efficient vector search.
+
+- **Azure & OpenAI Integration**: Hands-on labs using Azure AI services, OpenAI APIs, and VS Code for deploying RAG pipelines with multimodal inputs and responsible AI practices.
+
+- **Advanced Optimization Techniques**: Implementat
 
 ## Use Cases
 

@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Implements a two-stage process—retrieval (using FAISS for semantic search via embeddings) followed by generation (using OpenAI's LLM with a constrained prompt to prevent hallucinations).
+- **RAG Pipeline Architecture**: The system implements a two-stage process—retrieval (using FAISS vector store for semantic search) followed by generation (via OpenAI's LLM), where retrieved document chunks are injected as context to constrain responses and prevent hallucinations.
 
-- **Modular Implementation**: Structured into four core components: `document_loader.py` (text splitting), `vector_store.py` (FAISS-based embeddings), `rag_chain.py` (prompt engineering + LLM integration), and `main.py` (orchestration), ensuring separation of concerns and scalab
+- **Modular Implementation**: The solution is decomposed into four core components: `document_loader.py` (text splitting), `vector_store.py` (FAISS embeddings), `rag_chain.py` (prompt engineering with system constrain
 
 ## Use Cases
 

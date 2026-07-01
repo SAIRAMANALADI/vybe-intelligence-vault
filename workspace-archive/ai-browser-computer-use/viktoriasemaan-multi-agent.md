@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 selection_reason:
 - Active open-source repository
@@ -31,9 +30,8 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Hosts examples of AI multi-agent solutions implemented in Jupyter Notebooks, with 209 stars and 124 forks.
-- **Technical Scope**: Focuses on multi-agent systems, likely covering coordination, communication, and task delegation among AI agents.
-- **Last Update**: Repository was last updated on June 23, 2026.
+*   Provides practical examples of AI multi-agent system implementations.
+*   Solutions
 
 ## Use Cases
 

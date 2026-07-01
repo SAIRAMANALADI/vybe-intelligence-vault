@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform engine architecture**: Godot supports multi-platform deployment (Windows, Linux, macOS, Android, iOS, Web, etc.) with a unified editor and runtime, leveraging modular subsystems for rendering (Forward+, Mobile, Compatibility), physics (2D/3D), and scripting (GDScript, C#, C++ via GDExtension).
+- **Cross-platform engine architecture**: Godot supports multi-platform development (desktop, mobile, web, consoles) via a unified C++ core with modular subsystems (rendering, physics, audio) abstracted behind a scripting API.
 
-- **Optimized rendering pipeline**: Implements clustered Forward+ rendering for 3D, with Vulkan backend (4.0+), supporting real-time global illumination, physically-based rendering (PBR
+- **Scene-based node composition**: Projects are structured as hierarchical node trees (2D/3D) with built-in support for instancing, signals (event system), and a custom GDScript (Python-like) for rapid prototyping alongside C#/C++ via GDExtension.
+
+- **Renderer flexibili
 
 ## Use Cases
 

@@ -3,18 +3,18 @@ title: Configure security
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://gohugo.io/configuration/security/
-published_at: '2026-07-01T10:33:45.040305+05:30'
-collected_at: '2026-07-01T10:33:45.040321+05:30'
+source_url: https://gohugo.io/configuration/security/#httpurls
+published_at: '2026-07-01T15:50:34.506059+05:30'
+collected_at: '2026-07-01T15:50:34.506080+05:30'
 tags:
 - frontend_ui
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-security
-first_seen: '2026-07-01T10:33:45.040321+05:30'
-last_seen: '2026-07-01T10:33:45.040321+05:30'
-last_checked: '2026-07-01T10:33:45.040321+05:30'
+first_seen: '2026-07-01T15:50:34.506080+05:30'
+last_seen: '2026-07-01T15:50:34.506080+05:30'
+last_checked: '2026-07-01T15:50:34.506080+05:30'
 health_score: 100
 ---
 
@@ -22,16 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Default Deny Policy**: Hugo enforces a restrictive default security policy via allowlists, blocking `os/exec`, remote communication, and other high-risk operations unless explicitly permitted; violations trigger detailed failure messages.
+- **Default Deny Policy**: Hugo enforces a restrictive default security policy (`security.exec`, `security.http`, etc.) via allowlists, blocking `os/exec`, remote operations, and inline shortcodes unless explicitly permitted by regex patterns.
 
-- **Configurable Security Parameters**:
-  - **Executables**: `exec.allow` whitelists permitted binaries (e.g., `^(dart-)?sass(-embedded)?$`, `^go$`).
-  - **Node.js Permissions**: `node.permissions` restricts file I/O, child processes, and addons (e.g., `allowRead = ["."]`, `allowWrite = []`).
-  - **HTTP/Remote Access**: `http.urls` and `http.methods` regulate `resources.GetRemote` access (e.g., `GET|POST` only, excluding `localhost`).
+- **Node.js Permissions Model**: Introduced in v0.161.0, the `node.permissions` block controls Node.js tool access (`allowRead`, `allowWrite`, `allowChildProcess`) using `--permission` flags, with granular path and addon restrictions.
 
-- **Negation & Overrides**:
-  - Deny rules (prefixed `!`) supersede allow rules; empty allowlists reject all, while `none` disables features.
-  - Environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none`) can override config dynamically.
+- **Negation & Environment Overrides**: Security rules support negation (`!`) for deny-listing, and environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none`) can override config settings dynamically.
 
 ## Why It Matters
 
@@ -41,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-01T10:33:45.040305+05:30
+- Published: 2026-07-01T15:50:34.506059+05:30
 
 ## Related Tags
 
@@ -51,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://gohugo.io/configuration/security/
+Original source: https://gohugo.io/configuration/security/#httpurls

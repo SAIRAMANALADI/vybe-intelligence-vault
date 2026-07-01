@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://pypi.org/project/deepagents/
-published_at: '2026-06-30T10:13:26.534091+05:30'
-collected_at: '2026-06-30T10:13:26.534103+05:30'
+published_at: '2026-07-01T15:52:13.878302+05:30'
+collected_at: '2026-07-01T15:52:13.878318+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:deepagents-pypi
-first_seen: '2026-06-30T10:13:26.534103+05:30'
-last_seen: '2026-06-30T10:13:26.534103+05:30'
-last_checked: '2026-06-30T10:13:26.534103+05:30'
+first_seen: '2026-07-01T15:52:13.878318+05:30'
+last_seen: '2026-07-01T15:52:13.878318+05:30'
+last_checked: '2026-07-01T15:52:13.878318+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Architecture**: Deep Agents v0.6.12 is an opinionated, production-ready agent harness built on LangGraph, offering streaming, persistence, checkpointing, and sub-agent delegation with isolated context windows.
-
-- **Technical Dependencies & Compatibility**: Requires Python ≥3.11 and <4.0, supports tool-calling LLMs (frontier/open-weight/local), and provides extras for `aws` and `quickjs` environments.
-
-- **Security & Extensibility**: Implements a "trust-the-LLM" model with tool-level sandboxing for security, while allowing full customization via overrideable components, pluggable backends (filesystem, memory), and MCP server integration.
+- **Framework Architecture**: Built on LangGraph with sub-agent delegation, persistent memory, and pluggable filesystem backends (local/sandboxed/remote) for multi-step task execution.
+- **Model Compatibility**: Supports any LLM with tool-calling capabilities (frontier APIs, open-weight models, or local via Ollama/vLLM/llama.cpp) via LangChain’s chat model interface.
+- **Production Features**: Includes human-in-the-loop approvals, streaming/persistence via LangGraph, and LangSmith integration for tracing/evaluation in production deployments.
 
 ## Why It Matters
 
@@ -42,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-30T10:13:26.534091+05:30
+- Published: 2026-07-01T15:52:13.878302+05:30
 
 ## Related Tags
 

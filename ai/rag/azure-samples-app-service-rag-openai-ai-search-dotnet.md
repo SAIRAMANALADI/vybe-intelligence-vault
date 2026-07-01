@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/app-service-rag-openai-ai-search-dotnet
-collected_at: '2026-07-01T10:27:37.696146+05:30'
+collected_at: '2026-07-01T15:47:14.993414+05:30'
 published_at: '2026-06-22T01:49:23Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-05-13T14:50:09Z'
 pushed_at: '2025-05-19T15:22:15Z'
 resource_id: github:azure-samples/app-service-rag-openai-ai-search-dotnet
-first_seen: '2026-07-01T10:27:37.696146+05:30'
-last_seen: '2026-07-01T10:27:37.696146+05:30'
-last_checked: '2026-07-01T10:27:37.696146+05:30'
+first_seen: '2026-07-01T15:47:14.993414+05:30'
+last_seen: '2026-07-01T15:47:14.993414+05:30'
+last_checked: '2026-07-01T15:47:14.993414+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Integration**: Demonstrates Retrieval Augmented Generation (RAG) using Azure OpenAI and AI Search with hybrid search (vector + keyword + semantic ranking) for document retrieval and chat interactions.
-
-- **Security & Deployment**: Implements managed identity for secure access and supports one-command deployment via Azure Developer CLI for streamlined setup.
-
-- **Blazor Server App**: Built as a Blazor Server application, enabling real-time chat with documents while leveraging Azure's AI and search services.
+- **Hybrid Search Integration**: Implements hybrid search combining vector, keyword, and semantic ranking in Azure AI Search for document retrieval in a Blazor Server app.
+- **Security & Deployment**: Uses managed identity for secure Azure resource access and supports one-command deployment via Azure Developer CLI.
+- **Tech Stack**: Leverages .NET, Blazor Server, Azure OpenAI, and Azure AI Search for RAG-based chat interactions with documents.
 
 ## Why It Matters
 

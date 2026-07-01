@@ -6,10 +6,10 @@ source_url: https://opentelemetry.io/
 resource_id: blog:opentelemetry
 local_vault_path: ai/agents/opentelemetry.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - reddit
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified Observability Framework**: OpenTelemetry provides a single set of APIs, SDKs, and tools (agents, collectors) to capture distributed traces, metrics, and logs from cloud-native applications, consolidating observability signals with shared context propagation.
+- **Unified Observability Framework**: OpenTelemetry provides a single set of APIs, SDKs, and tools for vendor-neutral instrumentation of distributed traces, metrics, logs, and contextual metadata (baggage) across cloud-native applications.
 
-- **Vendor-Neutral & Multi-Language Support**: Enables instrumentation once with language-specific SDKs (12+ languages) and exports telemetry to any backend (Jaeger, Prometheus, commercial vendors) without vendor lock-in or code
+- **Multi-Layered Data Processing**: Features auto-instrumentation for zero-code setup, an extensible OpenTelemetry Collector (200+ components) for telemetry processing/export, and stable context propagation for cross-service trace correlation.
+
+- **Open Sta
 
 ## Use Cases
 

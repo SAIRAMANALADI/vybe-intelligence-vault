@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-07-01T10:27:17.608429+05:30'
+collected_at: '2026-07-01T15:46:59.925038+05:30'
 published_at: '2026-07-01T03:38:28Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - hackernews
-- paper
 - python
 - rag
 stars: 454
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-07-01T10:27:17.608429+05:30'
-last_seen: '2026-07-01T10:27:17.608429+05:30'
-last_checked: '2026-07-01T10:27:17.608429+05:30'
+first_seen: '2026-07-01T15:46:59.925038+05:30'
+last_seen: '2026-07-01T15:46:59.925038+05:30'
+last_checked: '2026-07-01T15:46:59.925038+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Provides an official evaluation suite (`GraphRAG-Bench`) for GraphRAG models, focusing on graph-based retrieval-augmented generation (RAG) systems, as outlined in the ICLR'26 paper *"When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation"*.
-
-- **Technical Scope**: Implements Python-based tools for analyzing and benchmarking graph retrieval methods, including datasets and metrics tailored for GraphRAG performance assessment.
-
-- **Repository Metadata**: Active project (last updated July 2026) with 454 stars and 52 forks, covering topics like `graphrag`, `benchmark`, and `dataset` under the `GraphRAG-Bench` organization.
+- **Benchmark Suite**: Provides a standardized evaluation framework for GraphRAG models, including datasets and metrics for assessing performance in graph-based retrieval-augmented generation (RAG) tasks.
+- **Technical Scope**: Focuses on analyzing when and how to integrate graph structures into RAG pipelines, covering retrieval strategies, graph construction, and query optimization.
+- **ICLR'26 Contribution**: Presents a comprehensive analysis of graph-based RAG methods, including empirical comparisons and theoretical insights for optimizing graph-enhanced RAG systems.
 
 ## Why It Matters
 

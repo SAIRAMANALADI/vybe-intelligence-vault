@@ -2,18 +2,17 @@
 title: LangChain overview - Docs by LangChain
 archive_category: observability
 source_category: ai/rag
-source_url: https://python.langchain.com
+source_url: https://python.langchain.com/docs/concepts/text_splitters/
 resource_id: blog:langchain-overview-docs-by-langchain
 local_vault_path: ai/rag/langchain-overview-docs-by-langchain.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - agents
 - anthropic
-- benchmark
 - meta-ai
 - models
 - openai
@@ -22,7 +21,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # LangChain overview - Docs by LangChain
@@ -30,19 +29,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Agent Composition**: `create_agent` provides a minimal, configurable harness combining model, tools, prompt, and middleware, enabling custom agent construction for specific use cases with support for multiple providers (OpenAI, Anthropic, Google, etc.).
+- **Agent Composition**: LangChain's `create_agent` provides a minimal, modular harness for composing agents from model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
 
-- **Framework Integration**: LangChain agents are built on LangGraph, inheriting durable execution, human-in-the-loop support, and persistence, while LangSmith offers tracing, debugging, and evaluation capabilities for agent behavior.
+- **Harness Architecture**: Agents are built on LangGraph, inheriting features like durable execution, persistence, and human-in-the-loop support, while enabling incremental customization via middleware.
 
-- **S
+- **Observability & Debugging**: LangSmith integrates for tracing, debugging, and eva
 
 ## Use Cases
 
@@ -52,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://python.langchain.com
+Original source URL: https://python.langchain.com/docs/concepts/text_splitters/
 
 ## Local Vault File
 

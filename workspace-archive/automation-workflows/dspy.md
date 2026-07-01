@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **ReActV2 Module**: Introduces an enhanced reasoning-and-acting loop with improved tool integration and dynamic decision-making for complex LLM workflows.
-- **Enhanced LM/BaseLM**: Updated base language model handling with better performance and modularity for optimized task execution.
-- **Signature-Based Optimization**: GEPA optimizer compiles programs against metrics, improving accuracy (e.g., 62% → 89% F1) via reflective prompt evolution.
+- **ReActV2 Module & LM/BaseLM Improvements**: Introduces enhanced ReActV2 module for improved reasoning loops with tools, alongside optimizations to LM/BaseLM for better performance and modularity in DSPy 3.3.0b1.
+
+- **Structured Task Definition via Signatures**: Enforces typed input/output fields (e.g., `email: str`, `event_name: str`) for maintainable, portable programs, replacing ad-hoc prompt engineering with declarative task definitions.
+
+- **Optimization & Composition Workflow**: Supports
 
 ## Use Cases
 

@@ -3,9 +3,9 @@ title: Read the Docs tutorial — Read the Docs user documentation
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.readthedocs.io/page/tutorial/
-published_at: '2026-06-30T01:51:36.320212+05:30'
-collected_at: '2026-06-30T01:51:36.320226+05:30'
+source_url: https://docs.readthedocs.io/page/tutorial/index.html
+published_at: '2026-07-01T15:50:09.761486+05:30'
+collected_at: '2026-07-01T15:50:09.761497+05:30'
 tags:
 - agents
 - dataset
@@ -16,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:read-the-docs-tutorial-read-the-docs-user-document
-first_seen: '2026-06-30T01:51:36.320226+05:30'
-last_seen: '2026-06-30T01:51:36.320226+05:30'
-last_checked: '2026-06-30T01:51:36.320226+05:30'
+first_seen: '2026-07-01T15:50:09.761497+05:30'
+last_seen: '2026-07-01T15:50:09.761497+05:30'
+last_checked: '2026-07-01T15:50:09.761497+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Configuration-Driven Builds**: Read the Docs uses `.readthedocs.yaml` for declarative project configuration, enabling reproducible builds with explicit Python version, dependency installation, and output formats (PDF/EPUB) via `pyproject.toml` integration.
+- **GitHub Repository Setup**: Create a public GitHub repository using the Read the Docs tutorial template, containing `.readthedocs.yaml`, `pyproject.toml`, Python source (`lumache.py`), and Sphinx documentation in `docs/` with `conf.py` and `index.rst`.
 
-- **Git-Centric Workflow**: Projects are imported directly from GitHub/GitLab/Bitbucket with webhook-triggered builds, supporting pull request previews, versioned documentation via branch/tags, and automated build failure notifications.
+- **Read the Docs Account & Project Import**: Authorize Read the Docs via GitHub OAuth, verify email, then import the GitHub repository into Read the Docs, configuring project name, repository URL, and default branch (`main`).
 
-- **Hosting & Optimization**: Supports custom domains, CDN caching, localized documentation, and structured URL schemes (e.g., `/stable/`, `/latest/`), with analytics for traffic/search patterns and security logs for access tracking.
+- **Automated Documentation Build**: Read the Docs triggers an initial build post-import, with logs accessible via the project home; builds can be monitored for errors or warnings in real-time.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-30T01:51:36.320212+05:30
+- Published: 2026-07-01T15:50:09.761486+05:30
 
 ## Related Tags
 
@@ -54,4 +54,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://docs.readthedocs.io/page/tutorial/
+Original source: https://docs.readthedocs.io/page/tutorial/index.html

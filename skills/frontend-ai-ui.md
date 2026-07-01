@@ -18,42 +18,32 @@ Generative UI (like Vercel AI SDK) enables applications to dynamically render Re
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 7 resources matched in the intelligence vault.
+Active signals: 5 resources matched in the intelligence vault.
 Recently detected signals:
-- [Langfuse](../ai/rag/langfuse.md) (Source: Unknown Source) - Collected 2026-07-01
 - [vercel/ai](../ai/agents/vercel-ai.md) (Source: Unknown Source) - Collected 2026-07-01
-- [Azure-Samples/azure-openai-rag-workshop-template](../ai/rag/azure-samples-azure-openai-rag-workshop-template.md) (Source: Unknown Source) - Collected 2026-07-01
-- [vercel-labs/ai-sdk-preview-rag](../ai/rag/vercel-labs-ai-sdk-preview-rag.md) (Source: Unknown Source) - Collected 2026-07-01
 - [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) (Source: Unknown Source) - Collected 2026-07-01
+- [Langfuse](../ai/rag/langfuse.md) (Source: Unknown Source) - Collected 2026-07-01
+- [AI SDK Integration | OpenAI Agents SDK](../ai/agents/ai-sdk-integration-openai-agents-sdk.md) (Source: Unknown Source) - Collected 2026-06-22
+- [mkrl/e0](../ai/agents/mkrl-e0.md) (Source: Unknown Source) - Collected 2026-06-15
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
 
 <!-- GENERATED:BEST_REPOS_START -->
-### 1. [Azure-Samples/azure-openai-rag-workshop-template](../ai/rag/azure-samples-azure-openai-rag-workshop-template.md) ([GitHub](https://github.com/azure-samples/azure-openai-rag-workshop-template))
+### 1. [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) ([GitHub](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial))
 - Stars: 0
 - Language: Unknown
-- Description: - **Purpose**: Provides a TypeScript-based template for building a Retrieval-Augmented Generation (RAG) chat application using Azure OpenAI services.
+- Description: - **Intermediate LlamaIndex Events Streaming**: Demonstrates how to stream intermediate events from LlamaIndex during RAG (Retrieval-Augmented Generation) to the Vercel AI SDK using Server-Sent Eve...
 
-### 2. [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) ([GitHub](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial))
+### 2. [vercel/ai](../ai/agents/vercel-ai.md) ([GitHub](https://github.com/vercel/ai))
 - Stars: 0
 - Language: Unknown
-- Description: - **Intermediate LlamaIndex Events Streaming**: Demonstrates how to stream intermediate events from LlamaIndex during RAG (Retrieval-Augmented Generation) operations to the Vercel AI SDK using Serv...
+- Description: - **AI SDK**: Open-source TypeScript library by Vercel for building AI-powered apps and agents, supporting LLM integrations (OpenAI, Anthropic, Gemini) and generative UI.
 
-### 3. [vercel-labs/ai-sdk-preview-rag](../ai/rag/vercel-labs-ai-sdk-preview-rag.md) ([GitHub](https://github.com/vercel-labs/ai-sdk-preview-rag))
-- Stars: 0
-- Language: Unknown
-- Description: - **RAG Implementation**: Template demonstrates retrieval-augmented generation (RAG) using the Vercel AI SDK, integrating Next.js for full-stack AI workflows.
-
-### 4. [mkrl/e0](../ai/agents/mkrl-e0.md) ([GitHub](https://github.com/mkrl/e0))
+### 3. [mkrl/e0](../ai/agents/mkrl-e0.md) ([GitHub](https://github.com/mkrl/e0))
 - Stars: 0
 - Language: Unknown
 - Description: A simple Next.js app template for agentic generation of more apps. Powered by Vercel AI SDK and E2B.
-
-### 5. [vercel/ai](../ai/agents/vercel-ai.md) ([GitHub](https://github.com/vercel/ai))
-- Stars: 0
-- Language: Unknown
-- Description: - **AI SDK**: Open-source TypeScript library by Vercel for building AI-powered apps and agents, supporting models like Anthropic, Gemini, and OpenAI.
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -75,4 +65,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-01T10:41:12.930513+05:30.268100+05:30.701502+05:30.315952+05:30.059011+05:30.434982+05:30.193818+05:30.855099+05:30.224662+05:30.381883+05:30.614146+05:30.695517+05:30.025682+05:30.289605+05:30.801729+05:30.014434+05:30.036424+05:30.140720+05:30.763231+05:30.421523+05:30.147359+05:30.356850+05:30.813051+05:30.927833+05:30.892004+05:30.209126+05:30.431416+05:30.935209+05:30.440452+05:30.094858+05:30.102044+05:30.799308+05:30.251475+05:30.175854+05:30.620901+05:30.896639+05:30.833450+05:30.493410+05:30.773792+05:30.777101+05:30.877614+05:30.278204+05:30.412687+05:30.559839+05:30.229074+05:30.357938+05:30.727915+05:30.069958+05:30.066077+05:30.414434+05:30.363515+05:30.877755+05:30.810615+05:30.949333+05:30.426358+05:30.439688+05:30.506295+05:30.846557+05:30.365788+05:30.674019+05:30.493055+05:30.842993+05:30.484872+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-01T16:00:48.457801+05:30.930513+05:30.268100+05:30.701502+05:30.315952+05:30.059011+05:30.434982+05:30.193818+05:30.855099+05:30.224662+05:30.381883+05:30.614146+05:30.695517+05:30.025682+05:30.289605+05:30.801729+05:30.014434+05:30.036424+05:30.140720+05:30.763231+05:30.421523+05:30.147359+05:30.356850+05:30.813051+05:30.927833+05:30.892004+05:30.209126+05:30.431416+05:30.935209+05:30.440452+05:30.094858+05:30.102044+05:30.799308+05:30.251475+05:30.175854+05:30.620901+05:30.896639+05:30.833450+05:30.493410+05:30.773792+05:30.777101+05:30.877614+05:30.278204+05:30.412687+05:30.559839+05:30.229074+05:30.357938+05:30.727915+05:30.069958+05:30.066077+05:30.414434+05:30.363515+05:30.877755+05:30.810615+05:30.949333+05:30.426358+05:30.439688+05:30.506295+05:30.846557+05:30.365788+05:30.674019+05:30.493055+05:30.842993+05:30.484872+05:30.

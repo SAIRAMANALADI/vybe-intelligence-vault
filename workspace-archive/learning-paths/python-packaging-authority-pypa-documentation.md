@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -30,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **PyPA** is a working group maintaining core Python packaging tools (e.g., `pip`, `setuptools`, `twine`) and manages projects like **PyPI** for package distribution and discovery.
-- Publishes the **Python Packaging User Guide** (packaging.python.org), the authoritative resource for Python packaging standards, best practices, and toolchain usage.
-- Hosts projects on **GitHub**, discusses issues via **discuss.python.org**, and provides roadmaps, specifications, and governance under the **Python
+- **PyPA** is a working group that maintains core Python packaging tools (e.g., `pip`, `setuptools`, `twine`) for packaging, distributing, and installing Python software via indexes like **PyPI**.
+
+- Publishes the **Python Packaging User Guide**, the authoritative resource for modern Python packaging workflows, including cross-language integration (e.g., `conda-forge`).
+
+- Hosts projects on **GitHub**, discusses issues via `discuss.python.org`, and provides governance resources (e.g., roadmap, s
 
 ## Use Cases
 

@@ -4,25 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-07-01T10:28:07.687237+05:30'
-published_at: '2026-07-01T04:51:31Z'
+collected_at: '2026-07-01T15:47:50.051007+05:30'
+published_at: '2026-07-01T08:55:27Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - workflows
-stars: 2752
+stars: 2753
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2025-05-15T09:00:54Z'
 pushed_at: '2026-06-28T20:37:52Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-07-01T10:28:07.687237+05:30'
-last_seen: '2026-07-01T10:28:07.687237+05:30'
-last_checked: '2026-07-01T10:28:07.687237+05:30'
+first_seen: '2026-07-01T15:47:50.051007+05:30'
+last_seen: '2026-07-01T15:47:50.051007+05:30'
+last_checked: '2026-07-01T15:47:50.051007+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- Repository focuses on **multi-agent systems**, **memory management**, **planning**, and **reasoning loops** in AI agent development.
-- Contains **Jupyter Notebooks** covering **agentic AI frameworks**, **RAG workflows**, and **agentic coding/engineering** techniques.
-- Updated **July 2026**; 2,752 stars, 600 forks; topics include **agent-skills**, **agentic frameworks**, and **AI agent development**.
+- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed skills, workflows, and reasoning loops for complex task execution.
+- **Memory & Planning**: Implements advanced memory architectures and hierarchical planning modules for persistent context and adaptive decision-making.
+- **Agentic RAG & Frameworks**: Demonstrates Retrieval-Augmented Generation (RAG) integration and modular agentic frameworks for scalable AI agent development.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: MARKTECHPOST-AI-MEDIA-INC
-- Stars: 2752
-- Forks: 600
+- Stars: 2753
+- Forks: 601
 - Language: Jupyter Notebook
 - Topics: agent-skills, agentic-ai, agentic-ai-development, agentic-coding, agentic-engineering, agentic-framework, agentic-rag, agentic-workflow, ai, aiagent, aiagents
-- Last Updated: 2026-07-01T04:51:31Z
+- Last Updated: 2026-07-01T08:55:27Z
 - Archived: No
 - Created At: 2025-05-15T09:00:54Z
 - Pushed At: 2026-06-28T20:37:52Z

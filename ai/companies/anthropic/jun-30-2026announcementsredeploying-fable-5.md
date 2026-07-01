@@ -10,13 +10,14 @@ tags:
 - anthropic
 - anthropic-news
 - blog-post
-status: active
+status: inactive
 resource_id: blog:jun-30-2026announcementsredeploying-fable-5
 first_seen: '2026-07-01T10:24:52.551649+05:30'
 last_seen: '2026-07-01T10:24:52.551649+05:30'
 last_checked: '2026-07-01T10:24:52.551649+05:30'
 health_score: 100
 ---
+
 
 # Jun 30, 2026AnnouncementsRedeploying Fable 5
 

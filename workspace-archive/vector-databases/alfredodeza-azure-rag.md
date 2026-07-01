@@ -12,11 +12,8 @@ resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
-- hackernews
-- openai
 - python
 - rag
-- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -33,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) implementation using Azure services, integrating document retrieval with generative AI models.
-- **Technical Stack**: Python-based, leveraging Azure Cognitive Search for retrieval and Azure OpenAI (or similar) for generation.
-- **Key Features**: Example workflow includes document ingestion, vector embeddings, retrieval pipeline, and LLM integration for contextual response generation.
+*   Implements Retrieval Augmented Generation (RAG) architecture.
+*   Leverages Azure cloud services for deployment and integration.
+*   Developed using Python as the primary programming language.
 
 ## Use Cases
 

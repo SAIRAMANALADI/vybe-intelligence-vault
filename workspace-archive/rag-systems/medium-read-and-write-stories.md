@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- Medium is a content publishing platform leveraging XML sitemaps (`sitemap.xml`) for SEO and discoverability, with core endpoints including `/about`, `/membership`, and `/new-story`.
+- Medium is a content publishing platform leveraging XML sitemaps (`sitemap.xml`) for SEO and discoverability, with core endpoints including `/about`, `/membership`, and `/new-story` for user onboarding and engagement.
 
-- User authentication and content creation are facilitated via `/signin` (login/register) and `/write` endpoints, with registration redirecting to new post creation.
+- Authentication is managed via `/m/signin` (login) and `/m/signin?operation=register` (registration), supporting OAuth2/OIDC flows with redirect URIs for seamless session handling.
 
-- Platform policies and support are governed by `/help`, `/status`, `/privacy`, `/terms`, and `/rules`, while monetization and career opportunities
+- Static assets (e.g., branding images under `miro.medium.com`) and policy pages (`/privacy`, `/t
 
 ## Use Cases
 

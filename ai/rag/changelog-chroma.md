@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://trychroma.com/changelog
-published_at: '2026-06-25T23:00:13.821197+05:30'
-collected_at: '2026-06-25T23:00:13.821203+05:30'
+published_at: '2026-07-01T15:50:28.156121+05:30'
+collected_at: '2026-07-01T15:50:28.156136+05:30'
 tags:
 - agents
 - producthunt
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:changelog-chroma
-first_seen: '2026-06-25T23:00:13.821203+05:30'
-last_seen: '2026-06-25T23:00:13.821203+05:30'
-last_checked: '2026-06-25T23:00:13.821203+05:30'
+first_seen: '2026-07-01T15:50:28.156136+05:30'
+last_seen: '2026-07-01T15:50:28.156136+05:30'
+last_checked: '2026-07-01T15:50:28.156136+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Chroma Sync** (March 2026): Introduced S3, GitHub, and Web synchronization capabilities for data ingestion and versioning in Chroma's vector database infrastructure.
+- **EU Region Support** added in April 2026, expanding Chroma's geographic deployment options for compliance and latency optimization.
 
-- **EU Region Support** (April 2026): Added compliance and deployment options for EU-based users, expanding Chroma's global infrastructure footprint.
+- **Chroma Sync** introduced in October 2025, with S3/GitHub/Web integrations in March 2026, enabling real-time data synchronization across storage systems.
 
-- **Performance & Security Enhancements** (July 2025–February 2026): Implemented metadata arrays, regex search, 70% throughput increase, customer-managed encryption keys (CMEK), and private networking for optimized scalability and security.
+- **Performance and Security Enhancements** (July 2025: 70% throughput increase; December 2025: customer-managed encryption keys; January 2026: private networking and `GroupBy` operations).
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T23:00:13.821197+05:30
+- Published: 2026-07-01T15:50:28.156121+05:30
 
 ## Related Tags
 

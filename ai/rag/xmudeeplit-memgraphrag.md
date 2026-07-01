@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-07-01T10:27:52.675409+05:30'
+collected_at: '2026-07-01T15:47:35.025564+05:30'
 published_at: '2026-06-29T11:01:01Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-07-01T10:27:52.675409+05:30'
-last_seen: '2026-07-01T10:27:52.675409+05:30'
-last_checked: '2026-07-01T10:27:52.675409+05:30'
+first_seen: '2026-07-01T15:47:35.025564+05:30'
+last_seen: '2026-07-01T15:47:35.025564+05:30'
+last_checked: '2026-07-01T15:47:35.025564+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-Augmented Multi-Agent Framework**: Introduces a novel RAG system (`MemGraphRAG`) where multiple agents collaboratively construct and query a dynamic graph-based memory structure, enabling efficient long-term knowledge retention and retrieval.
+- **Memory-based Multi-Agent System**: Introduces a novel framework (MemGraphRAG) leveraging memory-augmented agents for graph-based Retrieval-Augmented Generation (RAG), enhancing contextual reasoning and knowledge retention in multi-agent interactions.
 
-- **Graph Construction & Ontology Integration**: Implements an ontology-driven graph construction pipeline to model relationships between entities, leveraging structured knowledge for enhanced retrieval precision in multi-agent dialogues.
+- **Graph & Ontology Construction**: Implements dynamic graph construction and ontology learning to structure knowledge, enabling efficient retrieval and reasoning over complex, interconnected data for improved LLM performance.
 
-- **KDD 2026 Contribution**: Proposes a memory-based retrieval mechanism that outperforms traditional RAG systems by integrating agent-specific memory with graph-based reasoning, optimizing both contextual relevance and scalability.
+- **Python Implementation**: Provides an open-source Python library for scalable deployment, integrating graph-based memory with RAG pipelines to optimize long-term context utilization in knowledge-intensive tasks.
 
 ## Why It Matters
 

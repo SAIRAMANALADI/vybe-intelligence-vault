@@ -6,16 +6,19 @@ source_url: https://github.com/Danielskry/Awesome-RAG
 resource_id: github:danielskry/awesome-rag
 local_vault_path: ai/rag/danielskry-awesome-rag.md
 quality_score: 70
-archive_score: 75
+archive_score: 81
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
 - hackernews
+- models
 - rag
 - unknown
 selection_reason:
+- Strong keyword match
 - Useful for project building
 ---
 
@@ -24,16 +27,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Curated RAG Resources**: Comprehensive collection of Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI, covering diverse use cases and implementations.
-- **Active Maintenance**: Last updated in July 2026, ensuring relevance with ongoing community contributions and updates to reflect advancements in RAG techniques.
-- **High Engagement**: Repository demonstrates significant traction with 1,285 stars and 156 forks, indicating strong community interest and
+- **Curated RAG Resources**: A comprehensive, community-driven repository listing cutting-edge Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI, spanning LLMs, multimodal systems, and domain-specific implementations.
+- **Technical Breadth**: Covers diverse RAG architectures, including vector databases (e.g., Pinecone, Weaviate), hybrid retrieval methods, and advanced techniques like self-RAG, fine-tuning strategies, and evaluation benchmarks.
+- **Active M
 
 ## Use Cases
 

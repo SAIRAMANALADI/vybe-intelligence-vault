@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **DSpy Optimization**: Databricks integrates DSPy (a framework for programming language models) to enhance LLM pipelines by optimizing prompts and weights, improving model performance and reducing manual tuning overhead.
+- **DSpy Integration**: Databricks optimizes LLM pipelines using **DSpy** (a framework for programming and optimizing LLM prompts) to enhance reliability and performance via structured prompt engineering and automatic prompt optimization.
 
-- **Modular LLM Pipelines**: The platform supports modular, composable LLM workflows with explicit control over retrieval, fine-tuning, and reasoning steps, enabling scalable and maintainable AI applications.
+- **Modular Pipeline Design**: The article highlights **modular decomposition** of LLM pipelines (e.g., retrieval, reasoning, output parsing) to enable fine-grained optimization, caching, and parallel execution for scalability.
 
-- **Unified Data & AI Platform**: Databricks combines data enginee
+- **Cost & Latency Trade-offs**
 
 ## Use Cases
 

@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- hackernews
 - meta-ai
 - models
 - rag
@@ -35,14 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via `Parse` and `Extract` APIs for advanced document processing and structured data extraction, with platform documentation available for integration.
+- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via `Parse` and `Extract` APIs for advanced document processing and agent workflows, with platform documentation available [here](https://developers.llamaindex.ai/python/cloud/).
 
-- **Open-Source Tooling**:
-  - `LiteParse` for lightweight OCR parsing.
-  - `LlamaAgents` for agent-based workflow orchestration.
-  - Core `LlamaIndex` Python library for document indexing and retrieval, with full documentation.
+- **Open-Source Tooling**: Includes `LiteParse` for lightweight parsing, `LlamaAgents` for agent orchestration, and the core `LlamaIndex` Python framework for building RAG/LLM pipelines, all with dedicated documentation.
 
-- **Community & Support**: Active presence on X (Twitter),
+- **Community & Support**: Maintains ac
 
 ## Use Cases
 

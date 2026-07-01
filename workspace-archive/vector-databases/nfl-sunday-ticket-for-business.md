@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- hackernews
 - rag
 - web-crawled
 - youtube
@@ -31,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Discount Offer**: Up to 15% off NFL Sunday Ticket commercial pricing for new/eligible existing EverPass customers, capped at $1,500 per location, valid through June 30, 2026.
+- **Exclusive Commercial Offer**: NFL Sunday Ticket for businesses is exclusively distributed via EverPass, providing all live out-of-market Sunday afternoon NFL games (excluding in-market broadcasts, national games, and digital-only matches) for commercial venues in the U.S., U.S.V.I., and P.R.
 
-- **Hardware & Software Bundle**: Includes up to 6 free commercial-grade streaming devices (preconfigured, Wi-Fi/Ethernet capable) and 3 months free of EverPass Core for centralized device management, scheduling, and multi-location control.
-
-- **Exclusions & Limitations**: NFL Sunday Ticket covers only out-of-market Su
+- **Limited-Time Discount**: Businesses can claim a **$1,000 discount** on NFL Sunday Ticket by signing up by **July 31**, with flexible payment plans and up to **five free commercial-grade devices** in
 
 ## Use Cases
 

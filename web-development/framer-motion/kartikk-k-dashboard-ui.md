@@ -4,18 +4,18 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/kartikk-k/dashboard-ui
-collected_at: '2026-06-16T17:27:23.872117+05:30'
-published_at: '2026-06-04T13:51:17Z'
+collected_at: '2026-07-01T15:44:50.701783+05:30'
+published_at: '2026-07-01T08:33:57Z'
 tags:
 - animation
 - frontend_ui
-stars: 102
+stars: 103
 language: TypeScript
 status: active
 resource_id: github:kartikk-k/dashboard-ui
 first_seen: '2026-06-12T10:40:18.783046+00:00'
-last_seen: '2026-06-16T17:27:23.872117+05:30'
-last_checked: '2026-06-16T17:27:23.872117+05:30'
+last_seen: '2026-07-01T15:44:50.701783+05:30'
+last_checked: '2026-07-01T15:44:50.701783+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 ## Repository Details
 
 - Owner: kartikk-k
-- Stars: 102
+- Stars: 103
 - Forks: 42
 - Language: TypeScript
 - Topics: dashboard, dashboard-ui, framer-motion, githr-dashboard, nextjs-dashboard, react-dashboard
-- Last Updated: 2026-06-04T13:51:17Z
+- Last Updated: 2026-07-01T08:33:57Z
 
 ## Possible Use Cases
 

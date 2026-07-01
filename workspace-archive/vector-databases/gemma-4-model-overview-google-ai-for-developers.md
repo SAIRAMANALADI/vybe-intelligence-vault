@@ -8,7 +8,7 @@ local_vault_path: ai/rag/gemma-4-model-overview-google-ai-for-developers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -30,14 +30,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Model Family & Architecture**: Gemma 4 introduces five variants (E2B, E4B, 12B, 31B, 26B A4B) with specialized designs: dense (31B), MoE (26B A4B), and unified (12B) for multimodal tasks; E2B/E4B optimized for edge/browser deployment via Per-Layer Embeddings (PLE).
-- **Multimodal & Context Support**: Native processing of text, images (variable aspect ratio/resolution), video, and audio (E2B/E4B/12B); supports up to 256K context window (128K for small models) and multi-token prediction (MTP)
+- **Model Family & Sizes**: Gemma 4 introduces five architectures (E2B, E4B, 12B, 31B, 26B A4B) with 128K–256K context windows, supporting text, image, video, and audio inputs; E2B/E4B use Per-Layer Embeddings (PLE) for efficiency, while 26B A4B is a Mixture-of-Experts (MoE) model activating 4B parameters per token but requiring full 26B weights in memory.
+
+- **Quantization & Deployment**: Supports BF16 (16-bit), SFP8 (8-bit), Q4_0 (4-bit), and Quantization-Aware Training (QAT) for optimized inf
 
 ## Use Cases
 

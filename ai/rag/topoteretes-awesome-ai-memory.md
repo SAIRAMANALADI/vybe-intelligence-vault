@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/topoteretes/awesome-ai-memory
-collected_at: '2026-07-01T10:27:12.660701+05:30'
-published_at: '2026-06-30T16:48:13Z'
+collected_at: '2026-07-01T15:46:55.045348+05:30'
+published_at: '2026-07-01T06:44:24Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-stars: 801
+stars: 802
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-11-23T12:40:05Z'
 pushed_at: '2026-06-18T15:07:20Z'
 resource_id: github:topoteretes/awesome-ai-memory
-first_seen: '2026-07-01T10:27:12.660701+05:30'
-last_seen: '2026-07-01T10:27:12.660701+05:30'
-last_checked: '2026-07-01T10:27:12.660701+05:30'
+first_seen: '2026-07-01T15:46:55.045348+05:30'
+last_seen: '2026-07-01T15:46:55.045348+05:30'
+last_checked: '2026-07-01T15:46:55.045348+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated list** of 800+ AI memory projects, focusing on memory management, RAG, and agent-based systems in Python.
-- **Topics covered**: AI agents, memory architectures, retrieval-augmented generation (RAG), and ML-based memory optimization.
-- **Last updated**: June 30, 2026; actively maintained with 88 forks and 801 stars.
+- **Curated Collection**: Repository aggregates open-source AI memory projects, focusing on memory management, retrieval-augmented generation (RAG), and agent-based systems.
+- **Technical Scope**: Primarily Python-based, covering topics like AI agents, memory architectures, and ML-driven memory optimization.
+- **Maintenance**: Last updated July 2026, with 802 stars and 88 forks, indicating active community engagement.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: topoteretes
-- Stars: 801
+- Stars: 802
 - Forks: 88
 - Language: Python
 - Topics: ai, ai-agents, ai-engineering, ai-memory, ai-ml, memory-management, rag
-- Last Updated: 2026-06-30T16:48:13Z
+- Last Updated: 2026-07-01T06:44:24Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-11-23T12:40:05Z

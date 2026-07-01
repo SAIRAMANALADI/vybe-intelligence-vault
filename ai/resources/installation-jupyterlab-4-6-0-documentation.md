@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://jupyterlab.rtfd.io/en/latest/getting_started/installation.html
-published_at: '2026-06-30T15:40:07.000440+05:30'
-collected_at: '2026-06-30T15:40:07.000454+05:30'
+published_at: '2026-07-01T15:53:13.076207+05:30'
+collected_at: '2026-07-01T15:53:13.076223+05:30'
 tags:
 - producthunt
 - reddit
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:installation-jupyterlab-4-7-0a0-documentation
-first_seen: '2026-06-30T15:40:07.000454+05:30'
-last_seen: '2026-06-30T15:40:07.000454+05:30'
-last_checked: '2026-06-30T15:40:07.000454+05:30'
+first_seen: '2026-07-01T15:53:13.076223+05:30'
+last_seen: '2026-07-01T15:53:13.076223+05:30'
+last_checked: '2026-07-01T15:53:13.076223+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Installation Methods**: JupyterLab can be installed via `conda` (`conda install -c conda-forge jupyterlab`), `mamba` (`mamba install -c conda-forge jupyterlab`), `uv` (`uv tool install jupyterlab --with pip`), `pip` (`pip install jupyterlab`), `pipenv` (`pipenv install jupyterlab`), or Docker (using `-e JUPYTER_ENABLE_LAB=yes` flag).
-- **Proxy/Firewall Workarounds**: For restricted networks, set `HTTP_PROXY`/`HTTPS_PROXY` environment variables or disable SSL verification (not recommended) via `conda config --set ssl_verify False` or `npm set strict-ssl False`.
-- **Browser & Extension Support**: Requires modern browsers (Firefox, Chrome, Safari, Edge); extensions depend on `npm`/`jlpm` with registry/proxy configuration if blocked.
+- JupyterLab can be installed via `conda`, `mamba`, `pip`, `pipenv`, `uv`, or Docker, with commands such as `conda install -c conda-forge jupyterlab`, `pip install jupyterlab`, or `docker run -e JUPYTER_ENABLE_LAB=yes`.
+- Installation methods like `pip install --user` require adding `~/.local/bin` to `PATH`, while `pipenv` requires activating the virtualenv (`pipenv shell`) or using `pipenv run jupyter lab`.
+- Corporate proxies may block installations; solutions include setting `HTTP_PROXY`/`HTTPS_PROXY` environment variables or disabling SSL verification (not recommended) with `conda config --set ssl_verify False` or `npm set strict-ssl False`.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-30T15:40:07.000440+05:30
+- Published: 2026-07-01T15:53:13.076207+05:30
 
 ## Related Tags
 

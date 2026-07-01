@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/onyx
-collected_at: '2026-07-01T10:26:47.611673+05:30'
-published_at: '2026-07-01T02:09:27Z'
+collected_at: '2026-07-01T15:46:30.007359+05:30'
+published_at: '2026-07-01T08:23:10Z'
 tags:
 - frontend_ui
 - github-repo
 - openai
 - python
 - rag
-stars: 30632
+stars: 30640
 language: Python
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2023-04-27T06:04:01Z'
-pushed_at: '2026-07-01T02:25:02Z'
+pushed_at: '2026-07-01T09:36:11Z'
 resource_id: github:onyx-dot-app/onyx
-first_seen: '2026-07-01T10:26:47.611673+05:30'
-last_seen: '2026-07-01T10:26:47.611673+05:30'
-last_checked: '2026-07-01T10:26:47.611673+05:30'
+first_seen: '2026-07-01T15:46:30.007359+05:30'
+last_seen: '2026-07-01T15:46:30.007359+05:30'
+last_checked: '2026-07-01T15:46:30.007359+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any LLM, enabling flexible model switching and deployment for diverse use cases.
-- **Advanced RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based similarity search for enterprise-grade information retrieval and contextual AI responses.
-- **Full-Stack Architecture**: Combines Python backend with Next.js frontend, offering self-hosted deployment options, modular UI components, and enterprise search capabilities.
+*   Open-source, self-hosted AI chat platform engineered for LLM agnosticism and advanced conversational AI.
+*   Leverages a Python backend coupled with a Next.js-based frontend for its interactive user interface.
+*   Integrates RAG (Retrieval Augmented Generation), vector search, and enterprise information retrieval for enhanced AI capabilities.
 
 ## Why It Matters
 
@@ -41,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: onyx-dot-app
-- Stars: 30632
-- Forks: 4200
+- Stars: 30640
+- Forks: 4202
 - Language: Python
 - Topics: ai, ai-chat, chatgpt, chatui, enterprise-search, gen-ai, information-retrieval, llm, llm-ui, nextjs, python, rag, self-hosted, vector-search
-- Last Updated: 2026-07-01T02:09:27Z
+- Last Updated: 2026-07-01T08:23:10Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-04-27T06:04:01Z
-- Pushed At: 2026-07-01T02:25:02Z
+- Pushed At: 2026-07-01T09:36:11Z
 
 ## Possible Use Cases
 

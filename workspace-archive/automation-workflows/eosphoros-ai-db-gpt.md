@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI Framework**: Open-source Python-based system integrating LLMs (DeepSeek, GPT-4, Vicuna) with database interaction capabilities, enabling autonomous data processing and retrieval via RAG and agentic workflows.
-
-- **Security & Privacy Focus**: Designed for private, secure data handling with built-in encryption and access controls, targeting next-gen AI+Data products without exposing sensitive information.
-
-- **Modular Architecture**: Supports pluggable components (e.g., BGI for data
+- **Agentic AI Framework**: Open-source Python-based system integrating LLMs (DeepSeek, GPT-4, Vicuna) with RAG for autonomous database interaction and data assistant capabilities.
+- **Security & Privacy Focus**: Implements private, on-premises data processing with BGI (likely a security/encryption module) to mitigate external exposure risks.
+- **Modular Architecture**: Supports hacktoberfest contributions via extensible agents, enabling customization for database operations, AI workflows, and e
 
 ## Use Cases
 

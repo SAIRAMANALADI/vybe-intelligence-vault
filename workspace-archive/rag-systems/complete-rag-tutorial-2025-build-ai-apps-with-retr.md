@@ -12,6 +12,7 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- hackernews
 - rag
 - web-crawled
 - youtube
@@ -33,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- YouTube operates under Google LLC, with core services including content hosting, advertising, and creator monetization, governed by [Terms of Service](https://www.youtube.com/t/terms) and [Privacy Policy](https://www.youtube.com/t/privacy).
-
-- The [Developers](https://developers.google.com/youtube) portal provides APIs for programmatic access to YouTube’s platform, enabling integration with third-party applications and services.
-
-- YouTube’s infrastructure is detailed in [How YouTube Works](ht
+- YouTube operates under Google LLC, providing a platform for video sharing, streaming, and monetization with dedicated resources for creators, advertisers, and developers.
+- Key technical and policy documentation includes **Terms of Service**, **Privacy Policy**, **Copyright Guidelines**, and **How YouTube Works** (detailing infrastructure, algorithms, and operational mechanics).
+- Additional services include **YouTube Premium**, **NFL Sunday Ticket**, experimental feature testing (`/new`), and
 
 ## Use Cases
 

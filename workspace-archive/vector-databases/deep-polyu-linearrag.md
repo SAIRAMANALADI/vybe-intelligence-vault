@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval on large-scale corpora, optimizing LLM performance via graph-based indexing.
-- **Scalability & Efficiency**: Implements linear-time graph traversal algorithms (O(V+E)) for retrieval, significantly reducing computational overhead compared to traditional hierarchical or dense retrieval methods.
-- **ICLR 2026 Contribution**: Proposes a hybrid arc
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel linear graph-based RAG framework for large-scale corpora, optimizing retrieval efficiency and scalability for LLMs by leveraging linear graph structures to enhance contextual augmentation.
+
+- **Efficient Retrieval Mechanism**: Proposes a linear-time graph traversal algorithm for dynamic retrieval, reducing computational overhead while maintaining high retrieval accuracy in large-scale document corpora.
+
+- **ICLR 20
 
 ## Use Cases
 

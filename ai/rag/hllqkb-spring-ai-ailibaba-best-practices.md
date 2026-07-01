@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-07-01T10:27:07.602793+05:30'
+collected_at: '2026-07-01T15:46:44.982702+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-07-01T10:27:07.602793+05:30'
-last_seen: '2026-07-01T10:27:07.602793+05:30'
-last_checked: '2026-07-01T10:27:07.602793+05:30'
+first_seen: '2026-07-01T15:46:44.982702+05:30'
+last_seen: '2026-07-01T15:46:44.982702+05:30'
+last_checked: '2026-07-01T15:46:44.982702+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Features**: Implements AI Q&A system with Server-Sent Events (SSE) streaming, Agent-based workflows, Knowledge Graph Retrieval-Augmented Generation (RAG), Function Calling, historical message handling, image generation/understanding, and embedding/vector database integration.
-- **Technologies**: Built in Java using Spring AI and Alibaba Cloud AI services, leveraging embedding models, vector databases (e.g., Milvus/Weaviate), and RAG pipelines for contextual retrieval.
-- **Components**: Includes image generation/understanding via APIs, multimodal processing (text/images), and structured RAG workflows with function call support for dynamic agent interactions.
+- **Architecture**: Implements a Java-based AI Q&A system leveraging Spring AI with Alibaba Cloud integrations, featuring SSE streaming, RAG with vector databases, and knowledge graph retrieval.
+- **Capabilities**: Supports agent-based workflows, function calling, historical message handling, image generation/understanding, and embedding-based retrieval with vector databases.
+- **Technologies**: Utilizes Java, Spring AI, embedding models, vector databases, and Alibaba Cloud services for multimodal and RAG-enhanced AI interactions.
 
 ## Why It Matters
 

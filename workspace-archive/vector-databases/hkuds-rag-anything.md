@@ -6,19 +6,16 @@ source_url: https://github.com/HKUDS/RAG-Anything
 resource_id: github:hkuds/rag-anything
 local_vault_path: ai/rag/hkuds-rag-anything.md
 quality_score: 70
-archive_score: 81
+archive_score: 75
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- dataset
 - github-repo
-- models
 - python
 - rag
 - youtube
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
@@ -27,19 +24,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Unified Multi-Modal RAG Framework**: Implements a single, extensible pipeline supporting text, image, audio, and video retrieval-augmented generation (RAG) with modular components for ingestion, indexing, retrieval, and generation.
-
-- **Advanced Retrieval Mechanisms**: Integrates hybrid retrieval (dense + sparse) with cross-modal relevance scoring, dynamic chunking, and metadata-aware filtering for improved context selection across modalities.
-
-- **Scalable & Customizable**: Built on Python
+- **Multi-modal RAG Framework**: Implements a unified retrieval-augmented generation (RAG) system supporting text, images, audio, and video modalities for comprehensive data retrieval and generation.
+- **Modular Architecture**: Features a plug-and-play design with customizable components (e.g., encoders, retrievers, LLMs) for flexible integration with existing pipelines.
+- **Advanced Retrieval Mechanisms**: Supports hybrid retrieval (dense + sparse) and cross-modal retrieval for improved accurac
 
 ## Use Cases
 

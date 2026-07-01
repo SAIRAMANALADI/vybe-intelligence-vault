@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/RAG-Anything
-collected_at: '2026-06-30T20:15:11.137379+05:30'
-published_at: '2026-06-30T14:39:08Z'
+collected_at: '2026-07-01T15:45:54.971828+05:30'
+published_at: '2026-07-01T10:15:49Z'
 tags:
-- dataset
 - github-repo
-- models
 - python
 - rag
 - youtube
-stars: 21699
+stars: 21741
 language: Python
 status: active
 license: MIT
@@ -21,9 +19,9 @@ archived: false
 created_at: '2025-06-06T06:47:29Z'
 pushed_at: '2026-06-15T04:43:54Z'
 resource_id: github:hkuds/rag-anything
-first_seen: '2026-06-30T20:15:11.137379+05:30'
-last_seen: '2026-06-30T20:15:11.137379+05:30'
-last_checked: '2026-06-30T20:15:11.137379+05:30'
+first_seen: '2026-07-01T15:45:54.971828+05:30'
+last_seen: '2026-07-01T15:45:54.971828+05:30'
+last_checked: '2026-07-01T15:45:54.971828+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Unified Multi-Modal RAG Framework**: Implements a single, extensible pipeline supporting text, image, audio, and video retrieval-augmented generation (RAG) with modular components for ingestion, indexing, retrieval, and generation.
-
-- **Advanced Retrieval Mechanisms**: Integrates hybrid retrieval (dense + sparse) with cross-modal relevance scoring, dynamic chunking, and metadata-aware filtering for improved context selection across modalities.
-
-- **Scalable & Customizable**: Built on Python with pluggable backends (e.g., FAISS, Weaviate, Milvus) and supports fine-tuning of retrieval/generation via configurable pipelines, enabling adaptation to domain-specific multi-modal datasets.
+- **Multi-modal RAG Framework**: Implements a unified retrieval-augmented generation (RAG) system supporting text, images, audio, and video modalities for comprehensive data retrieval and generation.
+- **Modular Architecture**: Features a plug-and-play design with customizable components (e.g., encoders, retrievers, LLMs) for flexible integration with existing pipelines.
+- **Advanced Retrieval Mechanisms**: Supports hybrid retrieval (dense + sparse) and cross-modal retrieval for improved accuracy in multi-modal contexts.
 
 ## Why It Matters
 
@@ -44,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 21699
-- Forks: 2534
+- Stars: 21741
+- Forks: 2537
 - Language: Python
 - Topics: multi-modal-rag, retrieval-augmented-generation
-- Last Updated: 2026-06-30T14:39:08Z
+- Last Updated: 2026-07-01T10:15:49Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-06T06:47:29Z

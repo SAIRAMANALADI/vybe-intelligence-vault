@@ -14,6 +14,7 @@ tags:
 - agents
 - hackernews
 - web-crawled
+- youtube
 selection_reason:
 - Useful for project building
 ---
@@ -30,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Official LangChain Updates**: Dedicated forum category for official announcements and product updates from the LangChain team.
-
-- **Technical Support Forums**: Two distinct categories (`OSS Product Help` and `LangSmith Product Help`) for community-driven troubleshooting of open-source frameworks and LangSmith tools.
-
-- **Community & Learning Hubs**: Includes `LangChain Academy` for course discussions, `Talking Shop` for agentic application development, and `Forum Feedback` for community-driv
+- **Official LangChain Updates**: Dedicated forum category for product updates and announcements from the LangChain team (7 topics).
+- **Technical Support Hubs**: Two specialized categories for troubleshooting—OSS frameworks (34 topics) and LangSmith (142 topics).
+- **Community & Feedback Channels**: Includes discussion on agentic applications (101 topics) and forum improvements (17 topics).
 
 ## Use Cases
 

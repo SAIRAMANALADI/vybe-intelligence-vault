@@ -8,7 +8,7 @@ local_vault_path: ai/rag/davidzwz-awesome-deep-research.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: workflow
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -16,9 +16,8 @@ tags:
 - hackernews
 - rag
 - unknown
-- workflows
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # DavidZWZ/Awesome-Deep-Research
@@ -27,15 +26,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: workflow
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge research (ACL 2026 KnowFM) on agentic deep research, covering LLM-based reasoning agents, search agents, and RAG systems.
-- **Technical Scope**: Encompasses topics like *agentic RAG*, *deep-research agents*, and *reasoning architectures* for autonomous knowledge synthesis.
-- **Repository Metrics**: 781 stars, 62 forks; last updated June 28, 2026, with focus on multi-agent systems and large-scale reasoning workflows.
+- **Curated Resource Hub**: Aggregates cutting-edge research (ACL 2026 KnowFM) on agentic deep research, covering agentic RAG, reasoning agents, and LLM-driven search methodologies.
+- **Technical Scope**: Encompasses topics like `deep-research-agent`, `search-agent`, and `reasoning-agent`, emphasizing autonomous multi-step reasoning and retrieval-augmented generation (RAG) architectures.
+- **Community Metrics**: 781 stars, 62 forks, last updated June 2026; serves as a dynamic repository for adva
 
 ## Use Cases
 

@@ -6,7 +6,7 @@ source_url: https://trychroma.com/changelog
 resource_id: blog:changelog-chroma
 local_vault_path: ai/rag/changelog-chroma.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Chroma Sync** (March 2026): Introduced S3, GitHub, and Web synchronization capabilities for data ingestion and versioning in Chroma's vector database infrastructure.
+- **EU Region Support** added in April 2026, expanding Chroma's geographic deployment options for compliance and latency optimization.
 
-- **EU Region Support** (April 2026): Added compliance and deployment options for EU-based users, expanding Chroma's global infrastructure footprint.
+- **Chroma Sync** introduced in October 2025, with S3/GitHub/Web integrations in March 2026, enabling real-time data synchronization across storage systems.
 
-- **Performance & Security Enhancements** (July 2025–February 2026): Implemented metadata arrays, regex search, 70% throughput increase, customer-managed encryption keys (CMEK),
+- **Performance and Security Enhancements** (July 2025: 70% throughput increase; December 2025: customer-managed encryption keys; January 2026: private networking and `GroupBy` operations).
 
 ## Use Cases
 

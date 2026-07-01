@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/coding-agent-template
-collected_at: '2026-07-01T10:28:22.745607+05:30'
-published_at: '2026-06-30T22:37:34Z'
+collected_at: '2026-07-01T15:48:00.115656+05:30'
+published_at: '2026-07-01T08:06:36Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - typescript
-- workflows
-stars: 1737
+stars: 1738
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -21,9 +19,9 @@ archived: false
 created_at: '2025-09-23T14:00:46Z'
 pushed_at: '2026-04-13T21:44:42Z'
 resource_id: github:vercel-labs/coding-agent-template
-first_seen: '2026-07-01T10:28:22.745607+05:30'
-last_seen: '2026-07-01T10:28:22.745607+05:30'
-last_checked: '2026-07-01T10:28:22.745607+05:30'
+first_seen: '2026-07-01T15:48:00.115656+05:30'
+last_seen: '2026-07-01T15:48:00.115656+05:30'
+last_checked: '2026-07-01T15:48:00.115656+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Multi-agent system leveraging Vercel Sandbox for isolated execution environments and Vercel AI Gateway for unified AI model access.
-- **Technology Stack**: Built in TypeScript, integrating Vercel’s serverless infrastructure for scalable, distributed agent-based workflows.
-- **Purpose**: Enables autonomous or collaborative AI-driven coding tasks with sandboxed execution and gateway-managed AI model routing.
+- **Multi-agent AI Coding Platform**: Leverages Vercel Sandbox and AI Gateway to enable distributed AI agents for collaborative code generation, debugging, and optimization.
+- **TypeScript-Based Architecture**: Implements a modular TypeScript framework for agent orchestration, task delegation, and inter-agent communication via standardized APIs.
+- **Integration with Vercel Services**: Utilizes Vercel Sandbox for isolated execution environments and AI Gateway for scalable, low-latency AI model inference and routing.
 
 ## Why It Matters
 
@@ -42,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 1737
+- Stars: 1738
 - Forks: 286
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-06-30T22:37:34Z
+- Last Updated: 2026-07-01T08:06:36Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-23T14:00:46Z

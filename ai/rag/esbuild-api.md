@@ -3,9 +3,9 @@ title: esbuild - API
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://esbuild.github.io/api/#sourcemap
-published_at: '2026-07-01T04:18:10.548414+05:30'
-collected_at: '2026-07-01T04:18:10.548431+05:30'
+source_url: https://esbuild.github.io/api/#loader
+published_at: '2026-07-01T15:52:23.942686+05:30'
+collected_at: '2026-07-01T15:52:23.942705+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:esbuild-api
-first_seen: '2026-07-01T04:18:10.548431+05:30'
-last_seen: '2026-07-01T04:18:10.548431+05:30'
-last_checked: '2026-07-01T04:18:10.548431+05:30'
+first_seen: '2026-07-01T15:52:23.942705+05:30'
+last_seen: '2026-07-01T15:52:23.942705+05:30'
+last_checked: '2026-07-01T15:52:23.942705+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **API Access**: esbuild provides three language interfaces (CLI, JavaScript, Go) with identical core concepts; CLI flags support `--foo`, `--foo=bar`, or `--foo:bar` syntax for boolean, single-value, or multi-value options respectively.
+- **API Access**: Esbuild provides identical APIs across CLI, JavaScript, and Go, with language-specific tabs for examples; CLI flags use `--foo`, `--foo=bar`, or `--foo:bar` for boolean, single-value, and multi-value options respectively.
 
-- **Build API**: Primary interface for processing entry points with options like bundling (`--bundle`), output directory (`--outdir`), and incremental builds via `context` in JS/Go (watch, serve, rebuild modes).
+- **Build & Transform APIs**: Primary `build` API bundles/processes entry points with extensive options (e.g., bundling, minification, source maps), while `transform` API processes in-memory code strings (e.g., TS→JS, minification) without file system dependencies.
 
-- **Transform API**: Specialized in-memory code transformation (e.g., TS→JS, minification) with isolated execution, supporting options like `loader`, `minify`, and `target` but lacking bundling/plugins.
+- **Incremental Builds**: Supports `watch` (auto-rebuild on file changes), `serve` (dev server with live reload), and `rebuild` (manual builds) via a shared context object, with `dispose()` to clean up resources.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T04:18:10.548414+05:30
+- Published: 2026-07-01T15:52:23.942686+05:30
 
 ## Related Tags
 
@@ -50,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://esbuild.github.io/api/#sourcemap
+Original source: https://esbuild.github.io/api/#loader

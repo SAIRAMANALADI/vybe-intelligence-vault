@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive RAG Development Guide**: A full-stack technical resource covering Retrieval-Augmented Generation (RAG) implementation, integrating multiple frameworks (LangChain, LlamaIndex) and tools (Milvus, Neo4j) for multimodal and deep learning applications.
+- **Repository Overview**: GitHub repository `datawhalechina/all-in-rag` provides a comprehensive, full-stack guide to RAG (Retrieval-Augmented Generation) development with large models, covering theory to implementation.
 
-- **Multi-LLM & Embedding Support**: Demonstrates integration with advanced models (DeepSeek, Kimi-K2) and embedding techniques, emphasizing practical deployment and optimization for AI-driven applications.
+- **Technical Stack**: Integrates Python-based frameworks/tools including LangChain, LlamaIndex, Milvus (vector DB), Neo4j (graph DB), and supports multimodal embeddings with models like DeepSeek and Kimi-K2.
 
-- **Chinese-Language Focu
+- **Resources & Updates**: Offers an online book (https://datawhale
 
 ## Use Cases
 

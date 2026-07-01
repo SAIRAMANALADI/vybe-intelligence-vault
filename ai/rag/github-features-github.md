@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features
-published_at: '2026-06-30T03:57:22.810727+05:30'
-collected_at: '2026-06-30T03:57:22.810742+05:30'
+published_at: '2026-07-01T15:51:19.016749+05:30'
+collected_at: '2026-07-01T15:51:19.016761+05:30'
 tags:
 - rag
 - scripts
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:github-features-github
-first_seen: '2026-06-30T03:57:22.810742+05:30'
-last_seen: '2026-06-30T03:57:22.810742+05:30'
-last_checked: '2026-06-30T03:57:22.810742+05:30'
+first_seen: '2026-07-01T15:51:19.016761+05:30'
+last_seen: '2026-07-01T15:51:19.016761+05:30'
+last_checked: '2026-07-01T15:51:19.016761+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Copilot**: AI-powered code suggestions for entire functions or lines directly in the editor, with autofix capabilities for 90% of security alerts in supported languages (JavaScript, TypeScript, Java, Python).
+- **GitHub Copilot**: AI-powered code suggestions for whole lines/functions, with autofix capabilities for 90% of security alerts in supported languages (JavaScript, TypeScript, Java, Python) via GitHub Advanced Security (GHAS).
 
-- **GitHub Actions & CI/CD**: Automates workflows via YAML-based tasks, supports self-hosted and GitHub-hosted runners (Linux, Windows, macOS, ARM, GPU), and integrates with 10K+ community actions for testing, deployment, and security compliance.
+- **GitHub Actions & CI/CD**: End-to-end automation for workflows (build, test, deploy) with 10,000+ community actions, self-hosted runners, and workflow visualization/templates for standardized scaling.
 
-- **GitHub Advanced Security (GHAS)**: Real-time code scanning with CodeQL, secret scanning (including AI-enhanced detection), Dependabot for dependency vulnerability alerts, and security campaigns to remediate up to 1K alerts at scale.
+- **GitHub Advanced Security (GHAS)**: Integrated SAST/DAST (CodeQL), secret scanning, Dependabot alerts/updates, and dependency review to detect/remediate vulnerabilities and supply chain risks in real-time.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T03:57:22.810727+05:30
+- Published: 2026-07-01T15:51:19.016749+05:30
 
 ## Related Tags
 

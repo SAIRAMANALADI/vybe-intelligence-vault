@@ -8,17 +8,18 @@ local_vault_path: ai/rag/marker-inc-korea-autorag.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - python
 - rag
 - scripts
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # Marker-Inc-Korea/AutoRAG
@@ -27,17 +28,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **AutoML-Style Automation for RAG**: Implements automated optimization of Retrieval-Augmented Generation (RAG) pipelines, including hyperparameter tuning, component selection, and performance benchmarking, reducing manual intervention.
+- **AutoML-driven RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using AutoML techniques, dynamically selecting optimal components (e.g., retrieval strategies, embeddings, LLMs) for performance and cost efficiency.
 
-- **Comprehensive Evaluation & Benchmarking**: Provides built-in tools for assessing RAG systems across metrics like retrieval quality, answer correctness, and latency, with support for custom datasets and evaluation protocols.
-
-- **Modular Python Framework**:
+- **Comprehensive RAG Benchmarking**: Provides built-in evaluation tools for assessing RAG systems across metrics like answer correctness, retrieval quality, and latency, supporting benchmarking against custom d
 
 ## Use Cases
 

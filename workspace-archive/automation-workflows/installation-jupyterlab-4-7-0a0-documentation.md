@@ -8,7 +8,7 @@ local_vault_path: ai/resources/installation-jupyterlab-4-6-0-documentation.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: dataset
 importance: medium
 tags:
 - producthunt
@@ -26,15 +26,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Installation Methods**: JupyterLab can be installed via `conda` (`conda install -c conda-forge jupyterlab`), `mamba` (`mamba install -c conda-forge jupyterlab`), `uv` (`uv tool install jupyterlab --with pip`), `pip` (`pip install jupyterlab`), `pipenv` (`pipenv install jupyterlab`), or Docker (using `-e JUPYTER_ENABLE_LAB=yes` flag).
-- **Proxy/Firewall Workarounds**: For restricted networks, set `HTTP_PROXY`/`HTTPS_PROXY` environment variables or disable SSL verification (not recommended) vi
+- JupyterLab can be installed via `conda`, `mamba`, `pip`, `pipenv`, `uv`, or Docker, with commands such as `conda install -c conda-forge jupyterlab`, `pip install jupyterlab`, or `docker run -e JUPYTER_ENABLE_LAB=yes`.
+- Installation methods like `pip install --user` require adding `~/.local/bin` to `PATH`, while `pipenv` requires activating the virtualenv (`pipenv shell`) or using `pipenv run jupyter lab`.
+- Corporate proxies may block installations; solutions include setting `HTTP_PROXY`/`HTT
 
 ## Use Cases
 

@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **High-accuracy parsing engine** supporting 90+ formats with layout-aware processing for headers, footers, and split sections, plus multimodal extraction from charts, tables, and images.
+- **Multimodal & Layout-Aware Parsing**: Processes 90+ formats (PDFs, scans, handwriting, tables, charts, images) with layout-aware OCR, preserving complex structures (headers, footers, multi-column layouts) and extracting contextual data from non-textual elements.
 
-- **Granular parsing modes** enabling configurable trade-offs between cost and accuracy, with multilingual support for 100+ languages and enterprise-grade scalability (1B+ docs processed, 25M+ monthly downloads).
-
-- **Workflow-optimized** for complex document types (invoices, insurance claims, healthcare form
+- **Scalable & Multilingual**: Supports enterprise-grade throughput (1B+ docs processed) with granular parsing modes (cost/accuracy tradeoffs), multilingual OCR (100+ languages), and local/cloud deployment options for high concurrenc
 
 ## Use Cases
 

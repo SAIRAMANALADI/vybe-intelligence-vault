@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **LLM Testing & Comparison**: Enables automated testing and performance comparison of LLMs (e.g., GPT, Claude, Gemini, Llama) via declarative configs, with CI/CD and CLI integration.
-- **AI Security & Red Teaming**: Supports AI red teaming, pentesting, and vulnerability scanning for LLM-based systems (e.g., RAGs, agents).
-- **GitHub Action Integration**: TypeScript-based GitHub Action for streamlined LLM evaluation, deployable in CI pipelines with simple YAML configuration.
+- **GitHub Action for Promptfoo**: Enables automated testing of LLM prompts, agents, and RAG systems with AI red teaming, pentesting, and vulnerability scanning capabilities.
+- **Multi-Model Support**: Compares performance across major LLMs (GPT, Claude, Gemini, Llama) via declarative configurations with CLI and CI/CD integration.
+- **TypeScript-Based**: Repository written in TypeScript, supporting simple YAML/JSON configs for prompt evaluation and security assessments.
 
 ## Use Cases
 

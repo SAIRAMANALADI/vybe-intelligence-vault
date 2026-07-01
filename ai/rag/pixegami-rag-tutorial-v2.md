@@ -4,23 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-07-01T10:26:22.548183+05:30'
-published_at: '2026-06-27T12:50:15Z'
+collected_at: '2026-07-01T15:45:59.961463+05:30'
+published_at: '2026-07-01T09:42:55Z'
 tags:
 - benchmark
 - github-repo
+- meta-ai
+- models
 - python
 - rag
-stars: 957
+stars: 958
 language: Python
 status: active
 archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-07-01T10:26:22.548183+05:30'
-last_seen: '2026-07-01T10:26:22.548183+05:30'
-last_checked: '2026-07-01T10:26:22.548183+05:30'
+first_seen: '2026-07-01T15:45:59.961463+05:30'
+last_seen: '2026-07-01T15:45:59.961463+05:30'
+last_checked: '2026-07-01T15:45:59.961463+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates deployment of Retrieval-Augmented Generation (RAG) using local language models (LLMs) via LangChain, eliminating dependency on cloud-based APIs.
-
-- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval relevance with evolving data.
-
-- **Testing & Evaluation Framework**: Includes structured testing methodologies (e.g., retrieval accuracy, response latency) to benchmark RAG performance under varying conditions.
+- **Local LLM Integration**: Demonstrates end-to-end RAG pipeline using local language models (e.g., Ollama) with LangChain for efficient retrieval and generation.
+- **Dynamic Database Updates**: Implements mechanisms to refresh vector stores (e.g., Chroma) with new documents without full rebuilds, ensuring up-to-date context.
+- **Testing Framework**: Includes automated evaluation tools (e.g., RAGAS) for assessing retrieval quality, answer correctness, and latency in local LLM deployments.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pixegami
-- Stars: 957
+- Stars: 958
 - Forks: 607
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-27T12:50:15Z
+- Last Updated: 2026-07-01T09:42:55Z
 - Archived: No
 - Created At: 2024-04-06T09:27:09Z
 - Pushed At: 2024-08-03T16:41:27Z

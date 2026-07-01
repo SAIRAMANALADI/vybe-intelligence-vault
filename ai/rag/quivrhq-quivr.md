@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-07-01T10:27:27.667989+05:30'
+collected_at: '2026-07-01T15:47:10.018354+05:30'
 published_at: '2026-07-01T04:37:33Z'
 tags:
 - frontend_ui
 - github-repo
+- hackernews
 - meta-ai
 - models
 - openai
@@ -22,9 +23,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-07-01T10:27:27.667989+05:30'
-last_seen: '2026-07-01T10:27:27.667989+05:30'
-last_checked: '2026-07-01T10:27:27.667989+05:30'
+first_seen: '2026-07-01T15:47:10.018354+05:30'
+last_seen: '2026-07-01T15:47:10.018354+05:30'
+last_checked: '2026-07-01T15:47:10.018354+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: Quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for diverse use cases while abstracting RAG complexities.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for any LLM (e.g., GPT4, Groq, Llama) and vector store (e.g., PGVector, Faiss) without vendor lock-in.
 
-- **Multi-Backend Compatibility**: Supports any LLM (e.g., GPT-4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across infrastructures with support for various file types and APIs.
+- **Multi-Format & Multi-Store Support**: Enables integration with any file type and provides flexibility in deployment via Docker, with support for multiple databases (PostgreSQL) and vector stores, ensuring compatibility with diverse tech stacks.
 
-- **Full-Stack Deployment**: Provides a Python-based backend with Docker support, a React/TypeScript frontend, and integrates with PostgreSQL, HTML, and JavaScript, emphasizing privacy, security, and ease of integration into existing products.
+- **Privacy-Focused & Extensible**: Offers privacy-centric features (e.g., local LLM support) and is built with modern web technologies (React, TypeScript, JavaScript) for frontend integration, while exposing APIs for backend extensibility.
 
 ## Why It Matters
 

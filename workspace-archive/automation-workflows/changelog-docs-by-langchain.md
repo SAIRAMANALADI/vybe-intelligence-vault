@@ -2,7 +2,7 @@
 title: Changelog - Docs by LangChain
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://docs.langchain.com/oss/javascript/releases/changelog
+source_url: https://docs.langchain.com/oss/python/releases/changelog
 resource_id: blog:changelog-docs-by-langchain
 local_vault_path: ai/rag/changelog-docs-by-langchain.md
 quality_score: 70
@@ -13,14 +13,12 @@ importance: medium
 tags:
 - agents
 - anthropic
-- hackernews
-- meta-ai
-- models
 - openai
 - producthunt
 - rag
 - web-crawled
 - workflows
+- youtube
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -39,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **DeepAgents v1.9.0-alpha.0**: Introduces async subagents for non-blocking background tasks (requires LangSmith Deployment) and **BackendProtocolV2** with structured `Result` objects, multi-modal file support (`Uint8Array` for binary files), simplified method names, and backward compatibility via `adaptBackendProtocol`.
+- **`deepagents` v0.6.0**: Introduces experimental `CodeInterpreterMiddleware` for scoped QuickJS runtime execution, `DeltaChannel` (beta) for incremental state checkpointing in long-running threads, and `ContextHubBackend` for versioned agent file storage via LangSmith Hub.
 
-- **LangGraph v1.1.0**: Adds **StateSchema** for schema-first graph state definitions with Standard JSON Schema support (Zod 4, Valibot, etc.), new primitives (**ReducedValue*
+- **`langgraph` v1.2.0**: Adds per-node timeouts, error handlers, and graceful shutdown via `RunControl`; introduces `DeltaChannel` (beta) to reduce checkpoint overhead and a new v3 event streaming API with typed, per-chann
 
 ## Use Cases
 
@@ -51,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.langchain.com/oss/javascript/releases/changelog
+Original source URL: https://docs.langchain.com/oss/python/releases/changelog
 
 ## Local Vault File
 

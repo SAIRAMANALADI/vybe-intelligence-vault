@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform 2D/3D engine**: Godot supports real-time 2D/3D rendering with a scene-based architecture, utilizing a custom Vulkan-based Forward+ renderer (default in v4.x) alongside Mobile/Compatibility renderers for broader hardware compatibility.
+- **Cross-platform engine architecture**: Godot supports multi-platform development (desktop, mobile, web, consoles) via a unified C++ core with modular subsystems (rendering, physics, audio) abstracted behind a scripting API.
 
-- **GDScript & multi-language support**: Primary scripting via GDScript (Python-like, optimized for Godot), with bindings for C#, C++, and NativeScript (via GDExtension), enabling high-performance and modular extension development.
+- **Scene-based node composition**: Projects are structured as hierarchical node trees (2D/3D) with built-in support for instancing, signals (event system), and a custom GDScript (Python-like) for rapid prototyping alongside C#/C++ via GDExtension.
 
-- **Open-sou
+- **Renderer flexibili
 
 ## Use Cases
 

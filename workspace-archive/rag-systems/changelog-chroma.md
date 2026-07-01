@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Chroma Sync** (March 2026): Introduced S3, GitHub, and Web synchronization capabilities for data ingestion and versioning in Chroma's vector database infrastructure.
+- **EU Region Support** added in April 2026, expanding Chroma's geographic deployment options for compliance and latency optimization.
 
-- **EU Region Support** (April 2026): Added compliance and deployment options for EU-based users, expanding Chroma's global infrastructure footprint.
+- **Chroma Sync** introduced in October 2025, with S3/GitHub/Web integrations in March 2026, enabling real-time data synchronization across storage systems.
 
-- **Performance & Security Enhancements** (July 2025–February 2026): Implemented metadata arrays, regex search, 70% throughput increase, customer-managed encryption keys (CMEK),
+- **Performance and Security Enhancements** (July 2025: 70% throughput increase; December 2025: customer-managed encryption keys; January 2026: private networking and `GroupBy` operations).
 
 ## Use Cases
 

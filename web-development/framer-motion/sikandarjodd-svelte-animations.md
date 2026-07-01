@@ -4,7 +4,7 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/sikandarjodd/svelte-animations
-collected_at: '2026-07-01T10:24:49.733497+05:30'
+collected_at: '2026-07-01T15:44:50.701711+05:30'
 published_at: '2026-07-01T00:14:24Z'
 tags:
 - animation
@@ -14,8 +14,8 @@ language: Svelte
 status: active
 resource_id: github:sikandarjodd/svelte-animations
 first_seen: '2026-06-15T16:20:27.172030+00:00'
-last_seen: '2026-07-01T10:24:49.733497+05:30'
-last_checked: '2026-07-01T10:24:49.733497+05:30'
+last_seen: '2026-07-01T15:44:50.701711+05:30'
+last_checked: '2026-07-01T15:44:50.701711+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 
 - Owner: SikandarJODD
 - Stars: 1204
-- Forks: 45
+- Forks: 46
 - Language: Svelte
 - Topics: aceternity-ui, components, framer-motion, free-components, magicui, svelte, tailwindcss
 - Last Updated: 2026-07-01T00:14:24Z

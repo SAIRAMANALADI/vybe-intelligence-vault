@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Electron Forge** provides a unified build pipeline for Electron apps, including packaging, code signing, installer generation, and artifact publishing, with extensibility via [Plugins](https://electronforge.io/config/plugins), [Makers](https://electronforge.io/config/makers), and [Publishers](https://electronforge.io/config/publishers).
-
-- **Prerequisites** include Node.js ≥ v16.4.0, Git, and a JS package manager (npm/Yarn/pnpm ≥7.7.0), with packaging requiring `node_modules` on disk; Yarn ≥
+- **Electron Forge** provides a unified build pipeline for Electron apps, supporting code signing, installer generation, and artifact publishing via its plugin-based architecture.
+- **Packaging limitations**: Requires `node_modules` on disk; incompatible with Yarn PnP and symlinked dependencies; use `node-linker: node-modules` (Yarn) or `node-linker=hoisted` (pnpm) for compatibility.
+- **Templates & commands**: Supports `webpack`, `vite`, and TypeScript variants; `make` generates platform-specif
 
 ## Use Cases
 

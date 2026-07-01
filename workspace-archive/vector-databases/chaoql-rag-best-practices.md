@@ -6,19 +6,17 @@ source_url: https://github.com/chaoql/rag-best-practices
 resource_id: github:chaoql/rag-best-practices
 local_vault_path: ai/rag/chaoql-rag-best-practices.md
 quality_score: 70
-archive_score: 77
+archive_score: 75
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
 - hackernews
 - python
 - rag
 selection_reason:
-- Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # chaoql/rag-best-practices
@@ -26,17 +24,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 75 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **RAG Implementation**: Repository provides best practices for Retrieval-Augmented Generation (RAG) using large language models (LLMs), focusing on efficient retrieval and generation integration.
-- **Python-Based**: Entire codebase and examples are implemented in Python, leveraging libraries like LangChain, FAISS, or similar for vector storage and retrieval.
-- **Optimized Techniques**: Includes methodologies for query optimization, chunking strategies, embedding models, and evaluation metrics
+- **RAG Optimization**: Repository focuses on retrieval-augmented generation (RAG) best practices for large language models (LLMs), emphasizing efficient retrieval and generation integration.
+- **Python Implementation**: Provides Python-based tools and methodologies for optimizing RAG pipelines, including retrieval strategies, prompt engineering, and post-processing techniques.
+- **Updated Framework**: Last updated in June 2026, ensuring alignment with recent advancements in LLM and RAG technolo
 
 ## Use Cases
 

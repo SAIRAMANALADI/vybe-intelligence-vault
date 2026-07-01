@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tv.youtube.com/learn/nflsundayticket
-published_at: '2026-07-01T10:30:38.097711+05:30'
-collected_at: '2026-07-01T10:30:38.097727+05:30'
+published_at: '2026-07-01T15:49:11.126269+05:30'
+collected_at: '2026-07-01T15:49:11.126284+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-exclusive-home-of-nfl-sunday-ticket-youtube-yo
-first_seen: '2026-07-01T10:30:38.097727+05:30'
-last_seen: '2026-07-01T10:30:38.097727+05:30'
-last_checked: '2026-07-01T10:30:38.097727+05:30'
+first_seen: '2026-07-01T15:49:11.126284+05:30'
+last_seen: '2026-07-01T15:49:11.126284+05:30'
+last_checked: '2026-07-01T15:49:11.126284+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Pricing & Availability**: NFL Sunday Ticket offers new users **$240/yr ($20/mo for 12 months)** or **$378/yr ($31.50/mo for 12 months)** for returning users; standalone or bundled with YouTube TV (requires active YouTube TV plan for TV bundle). Pricing excludes commercial use, digital-only games, and refunds.
+- **Pricing & Plans**: New users can subscribe to NFL Sunday Ticket via YouTube TV for **$20/month for 12 months ($240 total)** or standalone for the same price; returning users pay **$31.50/month ($378 total)**. Requires active YouTube TV plan for bundled option.
 
-- **Coverage & Features**: Provides **all out-of-market Sunday NFL games** (32 teams, AFC/NFC), multiview (4 games simultaneously), fantasy tracking, and NFL RedZone (optional add-on for live touchdown coverage across multiple games).
+- **Coverage & Features**: Grants access to **all out-of-market Sunday NFL games** (32 teams, AFC/NFC), multiview (up to 4 games), NFL RedZone (optional), and live TV channels (ABC, CBS, FOX, ESPN, etc.) with unlimited cloud DVR.
 
-- **Technical Requirements**: Requires **high-speed internet (min 3 Mbps, 7+ Mbps recommended)** and supported devices (YouTube/YouTube TV apps). Standalone option available without cable; no satellite dish or long-term contracts required.
+- **Technical Requirements**: Requires **high-speed internet (3+ Mbps minimum, 7+ Mbps recommended)** and supported devices (YouTube/YouTube TV apps). No satellite dish or cable subscription needed; commercial use excluded.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T10:30:38.097711+05:30
+- Published: 2026-07-01T15:49:11.126269+05:30
 
 ## Related Tags
 

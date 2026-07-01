@@ -14,7 +14,6 @@ tags:
 - agents
 - anthropic
 - github-repo
-- scripts
 - shell
 - workflows
 selection_reason:
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Setup & Configuration**: Provides structured `CLAUDE.md` templates and CLI configurations for optimizing Anthropic's Claude Code workflows, including multi-agent patterns and MCP (Model Context Protocol) integrations.
+- **Setup & Configuration**: Repository provides structured guidance for configuring Claude Code, including `CLAUDE.md` templates for optimal AI-agent interaction and standardized workflows for CLI-based development.
 
-- **Workflow Optimization**: Details cost-efficient execution strategies, resource management, and automation patterns to enhance productivity while minimizing computational overhead in AI-driven development.
+- **Multi-Agent Patterns & MCP Integration**: Documents advanced patterns for multi-agent collaboration and integration with Model Context Protocol (MCP) for enhanced LLM-driven development efficiency.
 
-- **Multi-Agent Patterns**: Includes advanced templates for orchest
+- **Cost Optimization & Maintenance**: Includes strategies for minimizing opera
 
 ## Use Cases
 

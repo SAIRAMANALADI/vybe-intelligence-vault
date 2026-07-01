@@ -6,7 +6,7 @@ source_url: https://developer.android.com/gemini-in-android
 resource_id: blog:gemini-in-android-studio-android-developers
 local_vault_path: ai/rag/gemini-in-android-studio-android-developers.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -15,7 +15,6 @@ tags:
 - producthunt
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 - youtube
@@ -29,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -37,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI Integration**: Android Studio integrates **Gemini** as an agentic AI assistant for end-to-end development workflows, enabling multi-stage task automation (e.g., unit test generation, UI refactoring, crash analysis) with iterative feedback loops and execution plans across project files.
-
-- **Multimodal & Context-Aware Features**: Supports **image-based UI prototyping** (converting wireframes to code), **file/multimodal attachments**, and **context-aware code generation** (e.g., Com
+- **Agent Mode**: Enables multi-stage, complex development tasks (e.g., unit test generation, UI alterations, error fixes) via iterative execution plans across project files, with user review/approval of proposed changes.
+- **Multimodal UI Prototyping**: Converts wireframe/mockup images into functional UI code and provides debugging assistance via screenshot analysis, accelerating modern UI development.
+- **Enterprise-Grade Security**: Data/IP remains proprietary (no model training usage), with
 
 ## Use Cases
 

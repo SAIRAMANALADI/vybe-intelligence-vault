@@ -3,17 +3,17 @@ title: Sphinx — Sphinx documentation
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://www.sphinx-doc.org
-published_at: '2026-07-01T10:30:33.955473+05:30'
-collected_at: '2026-07-01T10:30:33.955490+05:30'
+source_url: https://www.sphinx-doc.org/
+published_at: '2026-07-01T15:49:06.017311+05:30'
+collected_at: '2026-07-01T15:49:06.017326+05:30'
 tags:
 - hackernews
 - web-crawled
 status: active
 resource_id: blog:sphinx-sphinx-documentation
-first_seen: '2026-07-01T10:30:33.955490+05:30'
-last_seen: '2026-07-01T10:30:33.955490+05:30'
-last_checked: '2026-07-01T10:30:33.955490+05:30'
+first_seen: '2026-07-01T15:49:06.017326+05:30'
+last_seen: '2026-07-01T15:49:06.017326+05:30'
+last_checked: '2026-07-01T15:49:06.017326+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-format Documentation Generation**: Supports output formats including HTML, LaTeX (PDF), ePub, Texinfo, with extensible builder mechanisms for custom formats.
-- **Cross-Referencing & Domains**: Enables intra/inter-project cross-references (sections, figures, code objects) and supports domain-specific documentation (Python, C++, etc.) via structured domains.
-- **Extensible Architecture**: Provides robust extension APIs for custom functionality (e.g., autodoc for API generation, theme customization) with built-in and third-party extensions.
+- **Documentation Generation**: Sphinx automates technical documentation generation from reStructuredText or MyST Markdown, supporting structured content (tables, code blocks, math) and cross-referencing across projects via `intersphinx`.
+- **Multi-Format Output**: Supports HTML, LaTeX (PDF), ePub, Texinfo, and other formats through configurable builders, with extensive theme customization (built-in and third-party).
+- **Extensible & API-Aware**: Provides robust extension mechanisms (built-in/third-party) for domain-specific documentation (Python/C++), automatic API extraction from docstrings, and LaTeX/HTML customization.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-01T10:30:33.955473+05:30
+- Published: 2026-07-01T15:49:06.017311+05:30
 
 ## Related Tags
 
@@ -42,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.sphinx-doc.org
+Original source: https://www.sphinx-doc.org/

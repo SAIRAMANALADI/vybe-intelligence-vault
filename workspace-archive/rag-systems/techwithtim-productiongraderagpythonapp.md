@@ -6,18 +6,17 @@ source_url: https://github.com/techwithtim/ProductionGradeRAGPythonApp
 resource_id: github:techwithtim/productiongraderagpythonapp
 local_vault_path: ai/rag/techwithtim-productiongraderagpythonapp.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # techwithtim/ProductionGradeRAGPythonApp
@@ -25,17 +24,15 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Repository Overview**: A Python-based application repository focused on implementing a production-grade Retrieval-Augmented Generation (RAG) system, though no explicit description or documentation is provided.
-- **Project Metrics**: Maintains 70 stars and 46 forks as of the last update (June 29, 2026), indicating moderate community engagement.
-- **Technical Stack**: Utilizes Python for development, with no additional metadata on dependencies, frameworks, or architectural specifics provided i
+*   Python-based application implementing a production-grade Retrieval Augmented Generation (RAG) system.
 
 ## Use Cases
 

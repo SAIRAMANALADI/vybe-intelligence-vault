@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://opentelemetry.io/
-published_at: '2026-06-29T17:04:27.251199+05:30'
-collected_at: '2026-06-29T17:04:27.251207+05:30'
+published_at: '2026-07-01T16:00:27.590925+05:30'
+collected_at: '2026-07-01T16:00:27.590935+05:30'
 tags:
 - agents
 - reddit
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:opentelemetry
-first_seen: '2026-06-29T17:04:27.251207+05:30'
-last_seen: '2026-06-29T17:04:27.251207+05:30'
-last_checked: '2026-06-29T17:04:27.251207+05:30'
+first_seen: '2026-07-01T16:00:27.590935+05:30'
+last_seen: '2026-07-01T16:00:27.590935+05:30'
+last_checked: '2026-07-01T16:00:27.590935+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified Observability Framework**: OpenTelemetry provides a single set of APIs, SDKs, and tools (agents, collectors) to capture distributed traces, metrics, and logs from cloud-native applications, consolidating observability signals with shared context propagation.
+- **Unified Observability Framework**: OpenTelemetry provides a single set of APIs, SDKs, and tools for vendor-neutral instrumentation of distributed traces, metrics, logs, and contextual metadata (baggage) across cloud-native applications.
 
-- **Vendor-Neutral & Multi-Language Support**: Enables instrumentation once with language-specific SDKs (12+ languages) and exports telemetry to any backend (Jaeger, Prometheus, commercial vendors) without vendor lock-in or code changes.
+- **Multi-Layered Data Processing**: Features auto-instrumentation for zero-code setup, an extensible OpenTelemetry Collector (200+ components) for telemetry processing/export, and stable context propagation for cross-service trace correlation.
 
-- **Production-Ready & CNCF-Backed**: APIs (traces, metrics) are stable across languages, supported by 200+ collector components, 1000+ integrations, and adopted by major enterprises (e.g., eBay, GitHub, Shopify) under CNCF governance.
+- **Open Standards & Ecosystem**: Built on CNCF-governed, vendor-neutral specifications (OTLP) with native SDKs for 12+ languages, 1000+ integrations, and production-grade stability, enabling deployment flexibility across on-prem, hybrid, and multi-cloud environments.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-29T17:04:27.251199+05:30
+- Published: 2026-07-01T16:00:27.590925+05:30
 
 ## Related Tags
 

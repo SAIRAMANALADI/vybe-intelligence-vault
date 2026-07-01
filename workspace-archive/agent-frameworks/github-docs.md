@@ -2,7 +2,7 @@
 title: GitHub Docs
 archive_category: agent-frameworks
 source_category: ai/agents
-source_url: https://docs.github.com/
+source_url: https://docs.github.com
 resource_id: blog:github-docs
 local_vault_path: ai/agents/github-docs.md
 quality_score: 70
@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- GitHub Docs provides structured guidance across **account management, authentication (SSH/tokens), repositories, and CI/CD** via GitHub Actions, Packages, and Pages.
-- **Collaborative workflows** are supported through **Pull Requests, Codespaces, GitHub Discussions, and integrations**, enabling real-time code review and cloud-based development.
-- **Security and DevOps tooling** includes **CodeQL for vulnerability analysis, GitHub Copilot for AI-assisted coding, and enterprise-scale security po
+- **Git Integration & Authentication**: GitHub relies on Git for local version control and supports SSH for secure remote connections, enabling encrypted communication over unsecured networks.
+
+- **Collaborative Workflows**: Pull requests facilitate code review, discussion, and merging, while GitHub Actions automates CI/CD pipelines for testing and deployment.
+
+- **Security & Developer Tools**: CodeQL enables static analysis for vulnerability detection, GitHub Copilot provides AI-driven code sug
 
 ## Use Cases
 
@@ -44,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.github.com/
+Original source URL: https://docs.github.com
 
 ## Local Vault File
 

@@ -15,8 +15,6 @@ tags:
 - github-repo
 - python
 - rag
-- scripts
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **AI Agent Integration**: Enables direct interaction between AI agents and JupyterLab notebooks for computational tasks, enhancing automation and workflow efficiency.
-- **JupyterLab Extension**: Built as a Python-based extension for JupyterLab, leveraging its modular architecture for seamless AI agent integration.
-- **Open-Source Framework**: Provides a community-driven platform for extending JupyterLab with AI capabilities, supporting extensibility via plugins and APIs.
+- **JupyterLab Integration**: Open-source extension enabling AI agent connectivity within JupyterLab computational notebooks via a Python-based framework.
+
+- **Agent-Notebook Interface**: Facilitates bidirectional communication between AI agents and Jupyter notebooks, supporting dynamic task execution and data processing.
+
+- **Modular Architecture**: Designed with extensibility in mind, leveraging JupyterLab’s plugin system for seamless integration of AI models and tools.
 
 ## Use Cases
 

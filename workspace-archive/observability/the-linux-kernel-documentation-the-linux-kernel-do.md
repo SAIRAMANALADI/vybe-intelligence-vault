@@ -8,16 +8,15 @@ local_vault_path: ai/resources/the-linux-kernel-documentation-the-linux-kernel-d
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
-- hackernews
 - reddit
 - web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # The Linux Kernel documentation — The Linux Kernel documentation
@@ -26,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Kernel Development Workflow**: The Linux Kernel documentation outlines the structured process for contributing to the kernel, including patch submission guidelines, community interaction protocols (e.g., `linux-doc@vger.kernel.org`), and maintainer handbook specifications for upstream integration.
+- **Kernel Development & Contribution**: Core documentation covers Linux kernel development processes, patch submission workflows, maintainer guidelines, and community interaction standards (e.g., [Development Process](https://docs.kernel.org/process/development-process.html), [Submitting Patches](https://docs.kernel.org/process/submitting-patches.html)).
 
-- **Core & Subsystem APIs**: Provides detailed technical references for kernel internal APIs, including core subsystems, driver interfaces, synchronization primitives (locking), and architecture-s
+- **API & Subsystem Documentation**: Provides detailed references for internal APIs, driver interfaces, subsystem-specific implementations, a
 
 ## Use Cases
 

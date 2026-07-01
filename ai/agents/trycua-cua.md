@@ -4,25 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/trycua/cua
-collected_at: '2026-07-01T04:14:36.003967+05:30'
-published_at: '2026-06-30T22:20:11Z'
+collected_at: '2026-07-01T15:48:40.099618+05:30'
+published_at: '2026-07-01T10:00:12Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - html
 - scripts
-stars: 19235
+stars: 19260
 language: HTML
 status: active
 license: MIT
 archived: false
 created_at: '2025-01-31T15:02:49Z'
-pushed_at: '2026-06-30T22:16:53Z'
+pushed_at: '2026-07-01T08:25:16Z'
 resource_id: github:trycua/cua
-first_seen: '2026-07-01T04:14:36.003967+05:30'
-last_seen: '2026-07-01T04:14:36.003967+05:30'
-last_checked: '2026-07-01T04:14:36.003967+05:30'
+first_seen: '2026-07-01T15:48:40.099618+05:30'
+last_seen: '2026-07-01T15:48:40.099618+05:30'
+last_checked: '2026-07-01T15:48:40.099618+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-OS Agent Framework**: Provides open-source infrastructure for training and evaluating AI agents capable of controlling full desktop environments across macOS, Linux, and Windows using sandboxes, SDKs, and benchmarks.
+- **Multi-Platform Sandboxing**: Provides isolated virtualization environments (macOS, Linux, Windows) for safe execution and evaluation of AI agents controlling full desktop interfaces via containerization and virtualization frameworks (e.g., Apple Virtualization Framework, Windows Sandbox).
 
-- **Virtualization & Sandboxing**: Implements containerization and virtualization (e.g., Apple's Virtualization Framework, Windows Sandbox) to safely isolate and manage agent interactions with desktop OS environments.
+- **Agent Development SDKs & Benchmarks**: Offers toolkits and standardized evaluation metrics for training/testing Computer-Use Agents (CUAs) capable of desktop automation, including Swift (macOS) and cross-platform APIs.
 
-- **Cross-Platform SDKs & Benchmarks**: Offers modular SDKs (e.g., Swift for macOS, Lume for cross-platform) and standardized benchmarks to evaluate agent performance in desktop automation tasks.
+- **Open-Source Infrastructure**: Modular architecture with sandboxed execution, benchmark suites (e.g., Lume, Manus), and integration with hacktoberfest for community-driven contributions, supporting desktop-level AI agent research.
 
 ## Why It Matters
 
@@ -43,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: trycua
-- Stars: 19235
-- Forks: 1262
+- Stars: 19260
+- Forks: 1268
 - Language: HTML
 - Topics: agent, ai-agent, apple, computer-use, computer-use-agent, containerization, cua, desktop-automation, hacktoberfest, lume, macos, manus, operator, swift, virtualization, virtualization-framework, windows, windows-sandbox
-- Last Updated: 2026-06-30T22:20:11Z
+- Last Updated: 2026-07-01T10:00:12Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-31T15:02:49Z
-- Pushed At: 2026-06-30T22:16:53Z
+- Pushed At: 2026-07-01T08:25:16Z
 
 ## Possible Use Cases
 

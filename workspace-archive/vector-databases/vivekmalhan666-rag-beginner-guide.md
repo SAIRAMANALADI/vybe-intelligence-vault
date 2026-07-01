@@ -12,6 +12,7 @@ resource_kind: framework
 importance: high
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
@@ -32,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Implementation Guide**: Step-by-step Python tutorial for constructing a Retrieval-Augmented Generation (RAG) system from the ground up, emphasizing clarity and accessibility for beginners without relying on opaque abstractions.
+- **Purpose**: Step-by-step guide to building a Retrieval-Augmented Generation (RAG) system from scratch in Python, designed for beginners without relying on abstracted libraries or frameworks.
 
-- **Core Components**: Covers essential RAG pipeline elements, including document ingestion, vector embedding, retrieval mechanisms, and integration with large language models (LLMs) for augmented responses.
+- **Key Components**: Covers essential RAG pipeline stages, including document retrieval, embedding generation, and integration with a language model for augmented responses.
 
-- **Minimalist Approach**: Focuses on fundamental Python l
+- **Technical Focus**: Implements core RAG concepts (e.g., vector databases, similarity search) using minimal dependencies, empha
 
 ## Use Cases
 

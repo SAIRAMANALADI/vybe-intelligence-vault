@@ -40,7 +40,9 @@ selection_reason:
 
 ## Summary
 
-*   RAG mitigates LLM limitations (freshness, private knowledge, hallucination)
+- **RAG Overview & Generations**: RAG combines retrieval, augmentation, and generation to address LLM limitations (freshness, private knowledge, hallucinations) by dynamically pulling external data. Evolved from Naive RAG (basic retrieval) to Advanced RAG (hybrid search, reranking, query transformation) and Graph RAG (entity-relation graph traversal for multi-hop reasoning).
+
+- **Core Components & Techniques**: Utilizes embeddings (e.g., `BAAI/bge-m3`), vector DBs (Chroma, Pinecone), and retriev
 
 ## Use Cases
 

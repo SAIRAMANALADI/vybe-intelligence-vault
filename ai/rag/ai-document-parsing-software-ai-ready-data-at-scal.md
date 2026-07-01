@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/llamaparse
-published_at: '2026-07-01T04:18:10.356951+05:30'
-collected_at: '2026-07-01T04:18:10.356966+05:30'
+published_at: '2026-07-01T15:52:25.542236+05:30'
+collected_at: '2026-07-01T15:52:25.542250+05:30'
 tags:
 - benchmark
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
-first_seen: '2026-07-01T04:18:10.356966+05:30'
-last_seen: '2026-07-01T04:18:10.356966+05:30'
-last_checked: '2026-07-01T04:18:10.356966+05:30'
+first_seen: '2026-07-01T15:52:25.542250+05:30'
+last_seen: '2026-07-01T15:52:25.542250+05:30'
+last_checked: '2026-07-01T15:52:25.542250+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **High-accuracy parsing engine** supporting 90+ formats with layout-aware processing for headers, footers, and split sections, plus multimodal extraction from charts, tables, and images.
+- **Multimodal & Layout-Aware Parsing**: Processes 90+ formats (PDFs, scans, handwriting, tables, charts, images) with layout-aware OCR, preserving complex structures (headers, footers, multi-column layouts) and extracting contextual data from non-textual elements.
 
-- **Granular parsing modes** enabling configurable trade-offs between cost and accuracy, with multilingual support for 100+ languages and enterprise-grade scalability (1B+ docs processed, 25M+ monthly downloads).
+- **Scalable & Multilingual**: Supports enterprise-grade throughput (1B+ docs processed) with granular parsing modes (cost/accuracy tradeoffs), multilingual OCR (100+ languages), and local/cloud deployment options for high concurrency.
 
-- **Workflow-optimized** for complex document types (invoices, insurance claims, healthcare forms) with SDKs (TypeScript/Python) and local/cloud deployment options for high concurrency and dedicated customer success.
+- **Developer-Optimized Workflows**: Provides TypeScript/Python SDKs with live notebooks, workflow automation (parse → index → act → decide), and enterprise features (dedicated support, multi-user access) for seamless LLM integration.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T04:18:10.356951+05:30
+- Published: 2026-07-01T15:52:25.542236+05:30
 
 ## Related Tags
 

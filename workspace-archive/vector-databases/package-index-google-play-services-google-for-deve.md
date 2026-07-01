@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Core Google Play Services Packages**: The `com.google.android.gms` namespace includes core packages like `ads`, `auth`, `base`, `cast`, `fitness`, and `games`, covering advertising, authentication, utility functions, casting, fitness APIs, and gaming services.
-
-- **Specialized APIs**: Sub-packages such as `ads.identifier` (Android Advertising ID), `auth.api.identity` (credential management), `auth.api.phone` (SMS Retriever API), and `awareness` (contextual state APIs) provide targeted functi
+- **Core Google Play Services Packages**: `com.google.android.gms` namespace includes critical packages like `ads`, `auth`, `cast`, `fitness`, `games`, and `drive` for advertising, authentication, casting, fitness tracking, gaming, and cloud storage respectively.
+- **Machine Learning & Vision APIs**: Contains `ML Kit` (`com.google.android.gms.mlkit`) and `vision` (`com.google.android.gms.vision`) packages for on-device ML inference and image analysis.
+- **Device & System Integration**: Includes
 
 ## Use Cases
 

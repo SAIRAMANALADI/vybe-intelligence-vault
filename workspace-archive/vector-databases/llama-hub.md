@@ -8,7 +8,7 @@ local_vault_path: ai/rag/llama-hub.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: template
 importance: medium
 tags:
 - agents
@@ -27,17 +27,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: template
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Modular RAG Framework**: LlamaHub provides a repository of modular components (Data Loaders, Agent Tools, LlamaPacks, Llama Datasets) to streamline retrieval-augmented generation (RAG) application development, supporting frameworks like LlamaIndex and LangChain.
+- **Modular RAG Framework**: LlamaHub provides a repository of plug-and-play Data Loaders, Agent Tools, and LlamaPacks to accelerate RAG application development, supporting frameworks like LlamaIndex, LangChain, and others.
 
-- **Extensible Integrations**: Supports 100+ integrations (loaders, tools, datasets) for connecting LLMs to diverse knowledge/data sources, with contribution pathways for community-driven expansion via GitHub.
+- **Extensible Integrations**: Supports 100+ integrations (e.g., APIs, databases, file formats) via community-contributed loaders and tools, enabling seamless LLM connectivity to diverse knowledge sources.
 
-- **Multi-Language Su
+- **Open-Source Contributions**: Actively encourages community contr
 
 ## Use Cases
 

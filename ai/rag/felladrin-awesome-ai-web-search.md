@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/felladrin/awesome-ai-web-search
-collected_at: '2026-07-01T10:27:17.606638+05:30'
+collected_at: '2026-07-01T15:46:55.144233+05:30'
 published_at: '2026-07-01T00:02:08Z'
 tags:
 - github-repo
+- hackernews
 - html
 - rag
 stars: 1362
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-11-09T19:13:37Z'
 pushed_at: '2026-06-26T03:29:22Z'
 resource_id: github:felladrin/awesome-ai-web-search
-first_seen: '2026-07-01T10:27:17.606638+05:30'
-last_seen: '2026-07-01T10:27:17.606638+05:30'
-last_checked: '2026-07-01T10:27:17.606638+05:30'
+first_seen: '2026-07-01T15:46:55.144233+05:30'
+last_seen: '2026-07-01T15:46:55.144233+05:30'
+last_checked: '2026-07-01T15:46:55.144233+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated list of AI-powered web search tools** leveraging LLMs, RAG, and generative AI for enhanced information retrieval and question-answering.
-- **Includes metasearch engines, AI search APIs, and browser extensions** optimized for AI-assisted querying and retrieval-augmented generation.
-- **Open-source and community-driven**, last updated July 2026, with 1,362 stars and 111 forks on GitHub.
+- **Curated AI Web Search Tools**: Repository listing software enabling AI-assisted web searches, including metasearch, question-answering, and retrieval-augmented generation (RAG) systems.
+- **Generative AI Integration**: Focuses on tools leveraging large language models (LLMs) for enhanced information retrieval and generative AI projects.
+- **Technical Scope**: Covers topics like LLM inference, generative AI tools, and information retrieval, with last update timestamped 2026-07-01.
 
 ## Why It Matters
 
@@ -40,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: felladrin
 - Stars: 1362
-- Forks: 111
+- Forks: 112
 - Language: HTML
 - Topics: ai, ai-search-engine, artificial-intelligence, artificial-intelligence-projects, awesome, awesome-list, generative-ai, generative-ai-projects, generative-ai-tools, information-retrieval, llm-inference, metasearch, question-answering, rag, retrieval-augmented-generation, web-search
 - Last Updated: 2026-07-01T00:02:08Z

@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/nicknochnack/Llama2RAG
-collected_at: '2026-07-01T10:26:52.615124+05:30'
+collected_at: '2026-07-01T15:46:34.939773+05:30'
 published_at: '2026-05-24T09:34:54Z'
 tags:
+- dataset
 - github-repo
 - hackernews
 - jupyter notebook
 - meta-ai
 - models
 - rag
-- workflows
 stars: 370
 language: Jupyter Notebook
 status: active
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-08-18T00:18:33Z'
 pushed_at: '2023-08-18T00:23:09Z'
 resource_id: github:nicknochnack/llama2rag
-first_seen: '2026-07-01T10:26:52.615124+05:30'
-last_seen: '2026-07-01T10:26:52.615124+05:30'
-last_checked: '2026-07-01T10:26:52.615124+05:30'
+first_seen: '2026-07-01T15:46:34.939773+05:30'
+last_seen: '2026-07-01T15:46:34.939773+05:30'
+last_checked: '2026-07-01T15:46:34.939773+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model via LlamaIndex, integrating retrieval mechanisms with Llama 2's generative capabilities for enhanced contextual responses.
-
-- **Technical Stack**: Utilizes Jupyter Notebook for implementation, leveraging LlamaIndex's framework for efficient document retrieval and Llama 2 70B for high-capacity language modeling.
-
-- **Repository Status**: Last updated on 2026-05-24, with 370 stars and 112 forks, indicating active community engagement and adoption of the RAG workflow.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B with LlamaIndex for context-aware text generation.
+- **Architecture**: Jupyter Notebook-based pipeline integrating vector storage (e.g., FAISS) for document retrieval and Llama 2 for generation.
+- **Scalability**: Optimized for large-model inference (70B params) with potential for custom dataset integration via LlamaIndex.
 
 ## Why It Matters
 

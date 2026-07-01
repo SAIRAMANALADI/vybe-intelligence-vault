@@ -3,15 +3,12 @@ title: Changelog - Docs by LangChain
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.langchain.com/oss/javascript/releases/changelog
-published_at: '2026-06-30T10:12:18.063918+05:30'
-collected_at: '2026-06-30T10:12:18.063932+05:30'
+source_url: https://docs.langchain.com/oss/python/releases/changelog
+published_at: '2026-07-01T15:50:27.682345+05:30'
+collected_at: '2026-07-01T15:50:27.682354+05:30'
 tags:
 - agents
 - anthropic
-- hackernews
-- meta-ai
-- models
 - openai
 - producthunt
 - rag
@@ -20,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:changelog-docs-by-langchain
-first_seen: '2026-06-30T10:12:18.063932+05:30'
-last_seen: '2026-06-30T10:12:18.063932+05:30'
-last_checked: '2026-06-30T10:12:18.063932+05:30'
+first_seen: '2026-07-01T15:50:27.682354+05:30'
+last_seen: '2026-07-01T15:50:27.682354+05:30'
+last_checked: '2026-07-01T15:50:27.682354+05:30'
 health_score: 100
 ---
 
@@ -30,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **DeepAgents v1.9.0-alpha.0**: Introduces async subagents for non-blocking background tasks (requires LangSmith Deployment) and **BackendProtocolV2** with structured `Result` objects, multi-modal file support (`Uint8Array` for binary files), simplified method names, and backward compatibility via `adaptBackendProtocol`.
+- **`deepagents` v0.6.0**: Introduces experimental `CodeInterpreterMiddleware` for scoped QuickJS runtime execution, `DeltaChannel` (beta) for incremental state checkpointing in long-running threads, and `ContextHubBackend` for versioned agent file storage via LangSmith Hub.
 
-- **LangGraph v1.1.0**: Adds **StateSchema** for schema-first graph state definitions with Standard JSON Schema support (Zod 4, Valibot, etc.), new primitives (**ReducedValue**, **UntrackedValue**, **MessagesValue**), and type utilities (**GraphNode**, **ConditionalEdgeRouter**) for external function typing.
+- **`langgraph` v1.2.0**: Adds per-node timeouts, error handlers, and graceful shutdown via `RunControl`; introduces `DeltaChannel` (beta) to reduce checkpoint overhead and a new v3 event streaming API with typed, per-channel projections.
 
-- **LangChain v1.2.0–v1.3.0**: Introduces **structured output strict mode**, provider-specific server-side tools (file/web search, code interpreter, etc.), content moderation, and model profiles for feature/capability exposure. Community package updates include Jira v3 API, LanceDB hybrid search, and security fixes.
+- **`langchain` v1.3.0**: Supports `version="v3"` in `stream_events`/`astream_events` for enhanced event streaming across agents, maintaining backward compatibility with prior versions.
 
 ## Why It Matters
 
@@ -44,15 +41,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T10:12:18.063918+05:30
+- Published: 2026-07-01T15:50:27.682345+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
-- hackernews
-- meta-ai
-- models
 - openai
 - producthunt
 - rag
@@ -62,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://docs.langchain.com/oss/javascript/releases/changelog
+Original source: https://docs.langchain.com/oss/python/releases/changelog

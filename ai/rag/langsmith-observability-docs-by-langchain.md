@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/langsmith/home
-published_at: '2026-06-30T22:52:32.439969+05:30'
-collected_at: '2026-06-30T22:52:32.439985+05:30'
+published_at: '2026-07-01T15:52:13.094919+05:30'
+collected_at: '2026-07-01T15:52:13.094934+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langsmith-observability-docs-by-langchain
-first_seen: '2026-06-30T22:52:32.439985+05:30'
-last_seen: '2026-06-30T22:52:32.439985+05:30'
-last_checked: '2026-06-30T22:52:32.439985+05:30'
+first_seen: '2026-07-01T15:52:13.094934+05:30'
+last_seen: '2026-07-01T15:52:13.094934+05:30'
+last_checked: '2026-07-01T15:52:13.094934+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **LangSmith Observability** provides end-to-end visibility into LLM applications, including individual traces, production metrics, and performance monitoring across frameworks like OpenAI, Anthropic, and CrewAI.
+- **Full-stack LLM Observability**: LangSmith provides end-to-end visibility into LLM applications, capturing granular traces, production metrics, and performance analytics across frameworks (OpenAI, Anthropic, CrewAI, etc.) via [available integrations](https://docs.langchain.com/langsmith/integrations).
 
-- **Core features** include automated failure detection (via Engine), trace filtering/exporting, dashboard-based performance monitoring, and user feedback collection through annotation queues or inline methods.
+- **Automated Debugging & Monitoring**: Engine feature auto-detects failures, diagnoses root causes, and enables proactive issue resolution; supports trace filtering, dashboarding, alerting, and automated workflows (webhooks, evaluations).
 
-- **Setup options** include cloud, hybrid, or self-hosted LangSmith instances, with API key authentication and framework-specific tracing (e.g., RAG applications) via SDKs or environment variables.
+- **Deployment Flexibility**: Supports cloud, hybrid, or self-hosted LangSmith instances with unified observability, evaluation, prompt engineering, and deployment capabilities; setup via [Platform setup](https://docs.langchain.com/langsmith/platform-setup).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T22:52:32.439969+05:30
+- Published: 2026-07-01T15:52:13.094919+05:30
 
 ## Related Tags
 

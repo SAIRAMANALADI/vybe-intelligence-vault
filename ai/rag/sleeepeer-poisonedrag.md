@@ -4,12 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-01T10:27:27.632484+05:30'
+collected_at: '2026-07-01T15:47:10.005440+05:30'
 published_at: '2026-06-30T11:39:04Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
+- meta-ai
+- mistral
+- models
 - python
 - rag
 - reddit
@@ -21,9 +24,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-01T10:27:27.632484+05:30'
-last_seen: '2026-07-01T10:27:27.632484+05:30'
-last_checked: '2026-07-01T10:27:27.632484+05:30'
+first_seen: '2026-07-01T15:47:10.005440+05:30'
+last_seen: '2026-07-01T15:47:10.005440+05:30'
+last_checked: '2026-07-01T15:47:10.005440+05:30'
 health_score: 100
 ---
 
@@ -31,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting adversarial documents into the retrieval corpus, manipulating model outputs without direct access to the LLM.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by poisoning the retrieval corpus, causing LLMs to generate malicious or incorrect outputs while maintaining high retrieval relevance.
 
-- **Technical Mechanism**: Exploits embedding-space manipulation and retrieval poisoning to ensure adversarial documents are preferentially selected, enabling targeted misinformation injection or bias amplification in generated responses.
+- **Technical Implementation**: Leverages adversarial embedding poisoning and trigger-based retrieval manipulation to subtly alter document representations, enabling targeted misinformation injection without altering the LLM's weights or requiring direct access to the model.
 
-- **Evaluation & Impact**: Validated on multiple RAG pipelines (e.g., vector DBs, BM25), showing significant degradation in factual accuracy and trustworthiness, with proposed mitigation strategies including retrieval sanitization and adversarial training.
+- **Evaluation & Impact**: Demonstrates effectiveness across multiple RAG pipelines (e.g., BM25, DPR, Contriever) and LLMs (e.g., Llama2, Mistral), achieving high attack success rates (up to 95%) while evading detection via semantic-preserving perturbations.
 
 ## Why It Matters
 

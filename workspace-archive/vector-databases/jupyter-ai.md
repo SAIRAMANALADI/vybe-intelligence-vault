@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Language Support**: Jupyter AI integrates with Python, R, Julia, Scala, and Haskell, alongside numerical/ML libraries like NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, TensorFlow, PyTorch, and Apache Spark for computational workflows.
+- **Multi-Language Support**: Jupyter AI integrates with Python, R, Julia, Scala, and Haskell, alongside numerical/scientific libraries (NumPy, Pandas, Matplotlib, SciPy, Scikit-learn) and ML frameworks (TensorFlow, PyTorch), enabling cross-language computational workflows.
 
-- **AI Agent Integration**: Supports frontier AI models (OpenAI, Anthropic, Gemini) and agents (GitHub Copilot, Goose, Kiro, Mistral Vibe, OpenCode) for real-time collaboration, debugging, and notebook execution in JupyterLab.
-
-- **Security & Extensib
+- **AI Agent Integration**: Supports frontier AI models (OpenAI, Anthropic, Gemini) and agents (GitHub Copilot, Goose, Kiro, Mistral Vibe, OpenCode) via MCP (Model Context Protocol), enabling real-time collaborative coding a
 
 ## Use Cases
 

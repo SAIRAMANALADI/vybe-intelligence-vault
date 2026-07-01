@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
+- hackernews
 - reddit
 - web-crawled
 - workflows
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Sphinx** is a Python-based documentation generator supporting both manual (reStructuredText) and automatic (via `autodoc`) code documentation, with native support for Python and extensions (e.g., Breathe) for other languages like C/C++.
+- **Sphinx Overview**: A Python-based documentation generator supporting both manual (reStructuredText) and automatic (via extensions like Breathe) code documentation across multiple languages (e.g., C, C++), with native Python autodoc support.
 
-- **Core workflow** involves project initialization (`sphinx-quickstart`), configuration (`conf.py`), content creation (`.rst` files), and HTML/other format generation (`sphinx-build`), with extensibility via themes and built-in/third-party extensions.
+- **Tutorial Core Components**: Guides users through creating a project with narrative/docs and API autogeneration, covering setup, HTML/other format builds, extensions, themes, cross-referencing, and deployment (e.g., Read the Docs, GitHub Pages).
 
 - **
 

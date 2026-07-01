@@ -2,14 +2,14 @@
 title: Welcome to LlamaIndex 🦙 ! | Developer Documentation
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://docs.llamaindex.ai/en/stable/?utm_source=github&utm_medium=org_card
+source_url: https://docs.llamaindex.ai/en/stable/?utm_source
 resource_id: blog:welcome-to-llamaindex-developer-documentation
 local_vault_path: ai/rag/welcome-to-llamaindex-developer-documentation.md
 quality_score: 70
-archive_score: 70
+archive_score: 80
 archive_tier: useful
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
 - meta-ai
 - models
@@ -24,16 +24,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 80 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Abstraction**: Simplifies complex systems by hiding lower-level details, enabling focus on high-level functionality.
-- **Modularity**: Divides systems into independent, interchangeable components for easier maintenance and scalability.
-- **Encapsulation**: Bundles data and methods within a single unit (e.g., class) to restrict direct access and enforce controlled interaction.
+- **Abstraction**: Simplifying complex systems by modeling classes/objects with essential attributes/methods, hiding implementation details.
+- **Encapsulation**: Bundling data (attributes) and methods operating on that data within a single unit (class), restricting direct access via access modifiers (e.g., `private`).
+- **Polymorphism**: Enabling objects of different classes to be treated as objects of a common superclass, facilitating method overriding (runtime) and overloading (compile-time).
 
 ## Use Cases
 
@@ -43,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.llamaindex.ai/en/stable/?utm_source=github&utm_medium=org_card
+Original source URL: https://docs.llamaindex.ai/en/stable/?utm_source
 
 ## Local Vault File
 

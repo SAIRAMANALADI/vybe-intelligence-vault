@@ -24,7 +24,7 @@ https://github.com/ggerganov/llama.cpp (llama.cpp)
 https://github.com/vllm-project/vllm (vLLM)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)
-- [vndee/local-assistant-examples](https://github.com/vndee/local-assistant-examples)
+- [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2)
 - [google-research/scann at master · google-research/google-research · GitHub](https://github.com/google-research/google-research/tree/master/scann)
 - [microsoft/rag-time](https://github.com/microsoft/rag-time)
 
@@ -44,4 +44,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-07-01 10:42 IST*
+*Last updated: 2026-07-01 16:02 IST*

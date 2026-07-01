@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-07-01T10:27:12.605656+05:30'
+collected_at: '2026-07-01T15:46:49.961856+05:30'
 published_at: '2026-06-30T11:35:52Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
-- paper
 - rag
 - unknown
 stars: 1340
@@ -20,9 +18,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-07-01T10:27:12.605656+05:30'
-last_seen: '2026-07-01T10:27:12.605656+05:30'
-last_checked: '2026-07-01T10:27:12.605656+05:30'
+first_seen: '2026-07-01T15:46:49.961856+05:30'
+last_seen: '2026-07-01T15:46:49.961856+05:30'
+last_checked: '2026-07-01T15:46:49.961856+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource**: Comprehensive collection of advanced RAG techniques, frameworks, and research papers for Large Language Models (LLMs), covering retrieval mechanisms, embedding models, and integration strategies.
+- **Curated resource**: GitHub repository `jxzhangjhu/Awesome-LLM-RAG` aggregates cutting-edge research, tools, and frameworks focused on **Retrieval-Augmented Generation (RAG)** for Large Language Models (LLMs), emphasizing advancements in embeddings and retrieval mechanisms.
 
-- **Technical focus**: Includes state-of-the-art methods for enhancing LLMs with external knowledge via retrieval augmentation, emphasizing embeddings, retrieval-information optimization, and hybrid architectures.
+- **Technical scope**: Encompasses **embedding models**, **RAG architectures**, **retrieval techniques**, and **LLM integration**, covering topics like dense retrieval, hybrid search, and context-aware generation.
 
-- **Updated repository**: Actively maintained with recent advancements (last updated June 2026), featuring community contributions, benchmarks, and tools for implementing RAG in production or research settings.
+- **Dynamic updates**: Repository is actively maintained, with the last commit (`2026-06-30T11:35:52Z`) reflecting recent contributions to the rapidly evolving RAG landscape.
 
 ## Why It Matters
 

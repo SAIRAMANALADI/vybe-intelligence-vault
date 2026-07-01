@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-01T10:26:27.627443+05:30'
+collected_at: '2026-07-01T15:46:04.947329+05:30'
 published_at: '2026-06-30T08:00:12Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-01T10:26:27.627443+05:30'
-last_seen: '2026-07-01T10:26:27.627443+05:30'
-last_checked: '2026-07-01T10:26:27.627443+05:30'
+first_seen: '2026-07-01T15:46:04.947329+05:30'
+last_seen: '2026-07-01T15:46:04.947329+05:30'
+last_checked: '2026-07-01T15:46:04.947329+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based tutorials for Retrieval-Augmented Generation (RAG) and multimodal AI workflows, integrating vector search with LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based tutorials for Retrieval-Augmented Generation (RAG) and multimodal AI using vector search, integrating LLMs (e.g., GPT-4-Vision) with frameworks like LangChain and LlamaIndex.
 
-- **Vector Database Integration**: Demonstrates LanceDB as a vector database for efficient storage and retrieval of embeddings, supporting fine-tuning and deep-learning pipelines for AI agents.
+- **Vector Database Integration**: Demonstrates practical use of LanceDB (a vector database) for efficient embedding storage, retrieval, and hybrid search in AI pipelines, including fine-tuning and agent-based workflows.
 
-- **Tooling & Frameworks**: Includes examples leveraging OpenAI APIs, LangChain, and LlamaIndex for end-to-end AI agent development, multimodal data processing, and embedding-based retrieval systems.
+- **Tooling & Workflows**: Showcases recipes for OpenAI API interactions, embedding generation, and end-to-end agent systems, emphasizing modularity and reproducibility in deep learning and machine learning applications.
 
 ## Why It Matters
 

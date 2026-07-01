@@ -4,11 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-07-01T10:27:17.610080+05:30'
+collected_at: '2026-07-01T15:46:54.974357+05:30'
 published_at: '2026-06-29T08:53:18Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - hackernews
 - rag
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-07-01T10:27:17.610080+05:30'
-last_seen: '2026-07-01T10:27:17.610080+05:30'
-last_checked: '2026-07-01T10:27:17.610080+05:30'
+first_seen: '2026-07-01T15:46:54.974357+05:30'
+last_seen: '2026-07-01T15:46:54.974357+05:30'
+last_checked: '2026-07-01T15:46:54.974357+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG-Vision Resources**: Repository aggregates advanced retrieval-augmented generation (RAG) techniques tailored for computer vision applications, including multimodal fusion, cross-modal retrieval, and vision-language model integration.
-
-- **Multimodal RAG Frameworks**: Features cutting-edge methods leveraging RAG to enhance vision tasks (e.g., image captioning, object detection, VQA) via external knowledge retrieval and contextual grounding.
-
-- **Benchmark & Tooling Collection**: Includes datasets, evaluation metrics, and open-source implementations for validating RAG-based vision models, with emphasis on scalability and interpretability.
+- **Curated Resource**: A specialized GitHub repository compiling advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including multimodal and vision-language model (VLM) integrations.
+- **Scope & Focus**: Encompasses cutting-edge methods for enhancing CV tasks (e.g., image captioning, object detection) via RAG, leveraging external knowledge retrieval to improve accuracy and contextual understanding.
+- **Maintenance & Growth**: Actively updated (last commit: 2026-06-29) with 337 stars and 9 forks, indicating community engagement in advancing RAG-Vision research.
 
 ## Why It Matters
 

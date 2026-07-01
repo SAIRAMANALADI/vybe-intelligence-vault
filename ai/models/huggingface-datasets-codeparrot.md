@@ -5,7 +5,7 @@ source_type: huggingface_dataset
 source_name: Hugging Face Trending Datasets
 source_url: https://huggingface.co/datasets/codeparrot
 published_at: '2022-10-20T15:01:14.000Z'
-collected_at: '2026-06-30T15:31:49.848603+05:30'
+collected_at: '2026-07-01T15:44:51.372740+05:30'
 tags:
 - dataset
 - hf-dataset
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:datasets/codeparrot
 first_seen: '2026-06-30T15:31:49.848603+05:30'
-last_seen: '2026-06-30T15:31:49.848603+05:30'
-last_checked: '2026-06-30T15:31:49.848603+05:30'
+last_seen: '2026-07-01T15:44:51.372740+05:30'
+last_checked: '2026-07-01T15:44:51.372740+05:30'
 health_score: 100
 ---
 
@@ -22,7 +22,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face dataset: codeparrot/github-code (Likes: 367, Downloads: 1390273)
+Trending Hugging Face dataset: codeparrot/github-code (Likes: 367, Downloads: 1487171)
 
 ## Why It Matters
 

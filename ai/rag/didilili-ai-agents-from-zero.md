@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-07-01T10:28:12.657872+05:30'
-published_at: '2026-07-01T04:49:54Z'
+collected_at: '2026-07-01T15:47:50.021757+05:30'
+published_at: '2026-07-01T10:06:51Z'
 tags:
 - agents
 - github-repo
 - models
 - python
 - rag
-stars: 2345
+stars: 2362
 language: Python
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-29T02:49:11Z'
 pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
-first_seen: '2026-07-01T10:28:12.657872+05:30'
-last_seen: '2026-07-01T10:28:12.657872+05:30'
-last_checked: '2026-07-01T10:28:12.657872+05:30'
+first_seen: '2026-07-01T15:47:50.021757+05:30'
+last_seen: '2026-07-01T15:47:50.021757+05:30'
+last_checked: '2026-07-01T15:47:50.021757+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured as a full learning path with hands-on projects and interview prep for AI Agent Development roles.
+- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering; includes enterprise deployment, fine-tuning, and end-to-end project deployment from learning to production.
 
-- **Enterprise-Level AI Agent Development**: Includes skills, LLM fine-tuning, RAG implementation, and deployment strategies, bridging learning to production with real-world projects.
+- **Hands-on & Interview-Ready**: Features practical projects, interview question banks, and aligns with AI application development engineer roles, bridging theory to real-world implementation.
 
-- **Multi-Framework & Tool Integration**: Supports Coze, Cursor, DeepAgents, and Dify, with topics spanning agent frameworks, AIGC, and MCP, updated as of July 2026.
+- **Multi-Framework & Tooling**: Integrates skills, RAG, and agent frameworks (e.g., DeepAgents) with Python, targeting roles in AIGC and AI agent development.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: didilili
-- Stars: 2345
-- Forks: 308
+- Stars: 2362
+- Forks: 312
 - Language: Python
 - Topics: agent, agent-framework, agentic-ai, ai-agent, aigc, coze, cursor, deepagents, dify, gpt, langchain, langgraph, llm, mcp, rag, skills, tutorial
-- Last Updated: 2026-07-01T04:49:54Z
+- Last Updated: 2026-07-01T10:06:51Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-29T02:49:11Z

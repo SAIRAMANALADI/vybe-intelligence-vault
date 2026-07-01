@@ -37,7 +37,7 @@ selection_reason:
 
 - **Purpose**: Simulated software company environment for benchmarking AI agents on complex, multi-step tasks.
 - **Technical Stack**: Python-based benchmark with LLM integration for evaluating agent performance in software development workflows.
-- **Metrics**: Focuses on agent capabilities in task completion, decision-making, and adaptability within a controlled software company simulation.
+- **Metrics**: Focuses on task completion, efficiency, and adaptability in simulated professional software engineering scenarios.
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/kyrolabs/awesome-agents
-collected_at: '2026-06-30T20:17:46.059193+05:30'
-published_at: '2026-06-30T05:00:12Z'
+collected_at: '2026-07-01T15:48:30.072772+05:30'
+published_at: '2026-07-01T08:29:44Z'
 tags:
 - agents
 - github-repo
@@ -13,16 +13,16 @@ tags:
 - rag
 - scripts
 - unknown
-stars: 2562
+stars: 2563
 language: Unknown
 status: active
 archived: false
 created_at: '2023-07-02T11:12:36Z'
 pushed_at: '2026-06-30T03:45:04Z'
 resource_id: github:kyrolabs/awesome-agents
-first_seen: '2026-06-30T20:17:46.059193+05:30'
-last_seen: '2026-06-30T20:17:46.059193+05:30'
-last_checked: '2026-06-30T20:17:46.059193+05:30'
+first_seen: '2026-07-01T15:48:30.072772+05:30'
+last_seen: '2026-07-01T15:48:30.072772+05:30'
+last_checked: '2026-07-01T15:48:30.072772+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated AI Agent Resources**: A comprehensive, community-driven repository aggregating tools, frameworks, libraries, and research papers focused on AI agents, including autonomous systems, multi-agent systems, and agent-based modeling.
-
-- **Multi-Domain Coverage**: Encompasses diverse applications such as reinforcement learning agents, LLM-powered agents, robotic process automation (RPA), and agent-based simulations across domains like finance, healthcare, and cybersecurity.
-
-- **Active Maintenance & Growth**: Regularly updated (last commit: 2026-06-30) with 2,562 stars and 663 forks, indicating robust community engagement and continuous expansion of curated content.
+- **Curated Collection**: Aggregates a comprehensive list of AI agent frameworks, libraries, and tools, spanning autonomous agents, multi-agent systems, and agent-based simulations.
+- **Multi-Domain Coverage**: Encompasses agents for research, coding, web browsing, gaming, and enterprise automation, with links to papers, repositories, and tutorials.
+- **Community-Driven**: Maintained by Kyrolabs with contributions from the AI research community, featuring 2,563+ stars and 665+ forks as of July 2026.
 
 ## Why It Matters
 
@@ -43,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: kyrolabs
-- Stars: 2562
-- Forks: 663
+- Stars: 2563
+- Forks: 665
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-06-30T05:00:12Z
+- Last Updated: 2026-07-01T08:29:44Z
 - Archived: No
 - Created At: 2023-07-02T11:12:36Z
 - Pushed At: 2026-06-30T03:45:04Z

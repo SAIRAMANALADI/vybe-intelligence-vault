@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dasroot.net/posts/2026/03/python-rag-projects-github/
-published_at: '2026-07-01T10:26:13.106696+05:30'
-collected_at: '2026-07-01T10:26:13.106710+05:30'
+published_at: '2026-07-01T15:45:51.107357+05:30'
+collected_at: '2026-07-01T15:45:51.107372+05:30'
 tags:
 - agents
 - benchmark
@@ -19,9 +19,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:the-ultimate-list-of-python-rag-projects-on-github
-first_seen: '2026-07-01T10:26:13.106710+05:30'
-last_seen: '2026-07-01T10:26:13.106710+05:30'
-last_checked: '2026-07-01T10:26:13.106710+05:30'
+first_seen: '2026-07-01T15:45:51.107372+05:30'
+last_seen: '2026-07-01T15:45:51.107372+05:30'
+last_checked: '2026-07-01T15:45:51.107372+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain v0.24.0**: Introduces multi-agent workflows, enhanced prompt engineering, and improved LLM compatibility (e.g., Llama 3.1 70b instruct). Enables modular RAG pipelines with minimal code overhead via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
+- **LangChain v0.24.0**: Introduced multi-agent workflows and enhanced prompt engineering, supporting LLMs like Llama 3.1 70b instruct; enables modular RAG pipelines with minimal code overhead (e.g., `WebBaseLoader` + `VectorstoreIndexCreator`).
 
-- **LlamaIndex v0.12.0**: Optimizes document indexing with semantic chunking and advanced filtering, improving retrieval accuracy by up to 30%. Supports multi-modal parsing (CSV, PDF, images) and integrates with structured databases via `DBConnectors`.
+- **LlamaIndex v0.12.0**: Features semantic chunking and advanced filtering, improving retrieval accuracy by ~30% via optimized document indexing; supports multi-format parsing (CSV, PDF, images) and structured database integration.
 
-- **HyPE (Hypothetical Prompt Embeddings)**: Precomputes hypothetical questions per document chunk during indexing, transforming retrieval into question-question matching. Reduces inference-time computation by 42% and improves retrieval precision/recall by up to 45 percentage points.
+- **HyPE (Hypothetical Prompt Embeddings)**: Precomputes hypothetical prompts during indexing, reducing inference-time overhead by 42% and boosting retrieval precision/recall by up to 45% via question-question matching instead of synthetic answer generation.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T10:26:13.106696+05:30
+- Published: 2026-07-01T15:45:51.107357+05:30
 
 ## Related Tags
 

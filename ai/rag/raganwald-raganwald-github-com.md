@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raganwald/raganwald.github.com
-collected_at: '2026-07-01T10:26:07.587722+05:30'
+collected_at: '2026-07-01T15:45:45.195037+05:30'
 published_at: '2026-06-28T19:26:47Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2012-02-19T03:15:00Z'
 pushed_at: '2026-06-28T19:26:42Z'
 resource_id: github:raganwald/raganwald.github.com
-first_seen: '2026-07-01T10:26:07.587722+05:30'
-last_seen: '2026-07-01T10:26:07.587722+05:30'
-last_checked: '2026-07-01T10:26:07.587722+05:30'
+first_seen: '2026-07-01T15:45:45.195037+05:30'
+last_seen: '2026-07-01T15:45:45.195037+05:30'
+last_checked: '2026-07-01T15:45:45.195037+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Jekyll-based static site generator** for `raganwald.com`, using HTML templates and Markdown content.
-- **Minimal repository** with 30 stars and 60 forks, indicating limited community adoption or visibility.
-- **Last updated June 28, 2026**, suggesting active maintenance but no recent major changes.
+- **Jekyll Static Site Generator**: The repository serves as the source for `raganwald.com`, built using Jekyll, a Ruby-based static site generator.
+- **GitHub Pages Hosting**: The site is hosted via GitHub Pages, leveraging GitHub’s infrastructure for deployment and version control.
+- **HTML-Based Structure**: The entire site is composed in HTML, with no additional templating or build tools specified in the repository metadata.
 
 ## Why It Matters
 

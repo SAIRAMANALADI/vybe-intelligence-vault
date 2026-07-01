@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-07-01T10:28:42.678776+05:30'
+collected_at: '2026-07-01T15:48:25.044630+05:30'
 published_at: '2026-06-30T22:24:12Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - hackernews
 - python
 - scripts
-- workflows
 stars: 327
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-06-28T14:36:38Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-07-01T10:28:42.678776+05:30'
-last_seen: '2026-07-01T10:28:42.678776+05:30'
-last_checked: '2026-07-01T10:28:42.678776+05:30'
+first_seen: '2026-07-01T15:48:25.044630+05:30'
+last_seen: '2026-07-01T15:48:25.044630+05:30'
+last_checked: '2026-07-01T15:48:25.044630+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated ADK Resources**: Repository aggregates production-ready AI agent templates, best practices, and examples using Google’s Agent Development Kit (ADK) across domains like research, business, automation, and education.
-- **Multi-Faceted ADK Support**: Includes samples for `adk-python`, `adk-web`, multi-agent systems, and integration with Google’s Gemini AI, with 327 stars and 46 forks.
-- **Python-Centric & Actively Maintained**: Entirely Python-based with last update on 2026-06-30, covering agentic AI, templates, and Google ADK workflows.
+- **ADK Agents Collection**: Repository hosting a curated list of AI agents built with Google's Agent Development Kit (ADK), including templates, best practices, and production-ready examples across research, business, automation, and education.
+- **Technical Scope**: Focuses on Python-based ADK implementations (`adk-python`, `adk-web`) with support for multi-agent systems, Gemini AI integration, and Google ADK tooling.
+- **Metadata**: 327 stars, 46 forks, last updated June 30, 2026; categorized under `awesome-list`, `agentic-ai`, and related topics.
 
 ## Why It Matters
 

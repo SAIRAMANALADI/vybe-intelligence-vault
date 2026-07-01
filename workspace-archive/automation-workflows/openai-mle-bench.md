@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Scope**: MLE-bench evaluates AI agents' proficiency in end-to-end machine learning engineering tasks, including data processing, model training, and deployment.
-- **Technical Implementation**: Python-based framework with standardized tasks and metrics to assess agent performance across ML engineering workflows.
-- **Repository Status**: Actively maintained (last update: 2026-06-30), with 1.6k stars and 256 forks, indicating community engagement.
+- **Benchmark Scope**: MLE-bench evaluates AI agents' proficiency in end-to-end machine learning engineering tasks, including data preprocessing, model training, hyperparameter tuning, and deployment.
+
+- **Technical Implementation**: Written in Python, it provides a standardized framework for assessing agent performance across diverse ML workflows, with metrics for efficiency, correctness, and reproducibility.
+
+- **Repository Status**: Actively maintained (last updated July 2026), with 1.6K+ sta
 
 ## Use Cases
 

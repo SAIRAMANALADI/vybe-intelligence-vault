@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-07-01T10:26:32.683548+05:30'
+collected_at: '2026-07-01T15:46:10.018472+05:30'
 published_at: '2026-06-24T06:49:45Z'
 tags:
 - agents
-- benchmark
 - frontend_ui
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -23,9 +21,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-07-01T10:26:32.683548+05:30'
-last_seen: '2026-07-01T10:26:32.683548+05:30'
-last_checked: '2026-07-01T10:26:32.683548+05:30'
+first_seen: '2026-07-01T15:46:10.018472+05:30'
+last_seen: '2026-07-01T15:46:10.018472+05:30'
+last_checked: '2026-07-01T15:46:10.018472+05:30'
 health_score: 100
 ---
 
@@ -33,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Overview**: Provides a structured starter repository for building RAG (Retrieval-Augmented Generation) research agents using LangChain, with modular components for retrieval, generation, and evaluation.
-
-- **Key Components**: Includes pre-configured pipelines for document ingestion, vector storage (e.g., FAISS/Chroma), LLM integration (e.g., LangChain's `LLMChain`), and agent orchestration (e.g., `ReAct` or custom workflows).
-
-- **Technical Stack**: Primarily Python-based, leveraging LangChain’s ecosystem (e.g., `langchain_core`, `langchain_community`) and modern ML libraries (e.g., `sentence-transformers`, `pydantic` for data validation).
+- **Template Structure**: Provides a modular Python-based framework for building Retrieval-Augmented Generation (RAG) research agents, leveraging LangChain components.
+- **Key Components**: Includes pre-configured pipelines for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval, and LLM integration (e.g., LangChain's `RetrievalQA`).
+- **Customization Focus**: Designed for extensibility with hooks for custom retrievers, embeddings (e.g., HuggingFace), and agent logic (e.g., ReAct-style workflows).
 
 ## Why It Matters
 

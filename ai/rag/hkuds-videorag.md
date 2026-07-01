@@ -4,10 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-07-01T10:27:47.643282+05:30'
+collected_at: '2026-07-01T15:47:30.037101+05:30'
 published_at: '2026-07-01T03:51:50Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
+- meta-ai
+- models
 - python
 - rag
 - youtube
@@ -19,9 +23,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-07-01T10:27:47.643282+05:30'
-last_seen: '2026-07-01T10:27:47.643282+05:30'
-last_checked: '2026-07-01T10:27:47.643282+05:30'
+first_seen: '2026-07-01T15:47:30.037101+05:30'
+last_seen: '2026-07-01T15:47:30.037101+05:30'
+last_checked: '2026-07-01T15:47:30.037101+05:30'
 health_score: 100
 ---
 
@@ -29,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to interactively query video content via multi-modal embeddings and retrieval mechanisms.
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to process and interact with video content via multi-modal inputs (video + text).
 
-- **Multi-Modal Integration**: Leverages Python-based LLMs with cross-modal retrieval (e.g., text-video, frame-level features) to support dynamic Q&A over extended video sequences.
+- **Technical Pipeline**: Implements a hierarchical retrieval mechanism (frame → segment → video) with multi-modal embeddings (visual + textual) to enhance context-aware video Q&A and summarization.
 
-- **KDD'2026 Contribution**: Proposes a novel architecture for scalable video indexing and retrieval, optimizing long-context LLM interactions with video data (3088 stars, 435 forks).
+- **Benchmark & Scalability**: Evaluated on KDD'2026 benchmarks, supporting 10K+ frame inputs with Python-based multi-modal LLMs (e.g., LLaVA, Video-LLaMA) for scalable video reasoning.
 
 ## Why It Matters
 

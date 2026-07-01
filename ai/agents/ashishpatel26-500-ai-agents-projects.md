@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ashishpatel26/500-AI-Agents-Projects
-collected_at: '2026-07-01T10:28:32.693791+05:30'
-published_at: '2026-07-01T04:03:55Z'
+collected_at: '2026-07-01T15:48:10.038616+05:30'
+published_at: '2026-07-01T10:09:07Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
-stars: 33328
+stars: 33355
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-12-20T13:37:15Z'
 pushed_at: '2026-06-06T11:58:47Z'
 resource_id: github:ashishpatel26/500-ai-agents-projects
-first_seen: '2026-07-01T10:28:32.693791+05:30'
-last_seen: '2026-07-01T10:28:32.693791+05:30'
-last_checked: '2026-07-01T10:28:32.693791+05:30'
+first_seen: '2026-07-01T15:48:10.038616+05:30'
+last_seen: '2026-07-01T15:48:10.038616+05:30'
+last_checked: '2026-07-01T15:48:10.038616+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated AI Agent Repository**: Hosts 500+ open-source AI agent projects spanning healthcare, finance, education, retail, and other sectors, demonstrating real-world GenAI applications.
-- **Technical Implementation**: All projects are Python-based, providing executable code and deployment links for rapid integration and experimentation.
-- **Active Maintenance**: Last updated July 2026, ensuring relevance with ongoing updates and community-driven contributions (33K+ stars, 5.8K+ forks).
+- **Curated AI Agent Repository**: Hosts 500+ open-source AI agent projects spanning healthcare, finance, education, retail, and other sectors, demonstrating practical GenAI applications.
+- **Technical Implementation**: All projects are Python-based, providing executable code and links to open-source repositories for hands-on deployment.
+- **High Community Engagement**: Maintains 33K+ stars and 5.8K+ forks, indicating strong adoption and collaborative development in the AI agent ecosystem.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ashishpatel26
-- Stars: 33328
-- Forks: 5894
+- Stars: 33355
+- Forks: 5898
 - Language: Python
 - Topics: ai-agents, genai
-- Last Updated: 2026-07-01T04:03:55Z
+- Last Updated: 2026-07-01T10:09:07Z
 - License: MIT
 - Archived: No
 - Created At: 2024-12-20T13:37:15Z

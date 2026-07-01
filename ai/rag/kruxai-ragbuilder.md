@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-07-01T10:27:42.682433+05:30'
+collected_at: '2026-07-01T15:47:20.030891+05:30'
 published_at: '2026-06-30T12:14:06Z'
 tags:
+- benchmark
 - github-repo
-- hackernews
 - python
 - rag
 stars: 1535
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-07-01T10:27:42.682433+05:30'
-last_seen: '2026-07-01T10:27:42.682433+05:30'
-last_checked: '2026-07-01T10:27:42.682433+05:30'
+first_seen: '2026-07-01T15:47:20.030891+05:30'
+last_seen: '2026-07-01T15:47:20.030891+05:30'
+last_checked: '2026-07-01T15:47:20.030891+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-ready RAG systems with customizable components (e.g., embedders, retrievers, LLMs) via a modular architecture.
+- **Production-Ready RAG Pipeline**: Provides a modular Python toolkit for constructing end-to-end Retrieval Augmented Generation (RAG) systems optimized for deployment, including data ingestion, vector storage, and retrieval components.
 
-- **Optimization Features**: Implements automated techniques for hyperparameter tuning, chunking strategies, and retrieval optimization to enhance RAG performance.
+- **Modular Architecture**: Supports customizable components (e.g., embedders, retrievers, LLMs) with plug-and-play interfaces to tailor RAG pipelines for specific use cases and data formats.
 
-- **Scalability & Deployment**: Supports deployment-ready setups with integrations for vector databases (e.g., FAISS, Pinecone) and cloud-native scaling (e.g., Docker, Kubernetes).
+- **Performance Optimization**: Includes utilities for benchmarking, latency tuning, and cost-efficiency analysis to ensure scalable, high-performance RAG deployments in production environments.
 
 ## Why It Matters
 

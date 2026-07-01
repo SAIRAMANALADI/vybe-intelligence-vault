@@ -8,10 +8,9 @@ local_vault_path: ai/resources/jupyterlab-documentation-jupyterlab-4-7-0a0-docum
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: tutorial
 importance: medium
 tags:
-- benchmark
 - frontend_ui
 - reddit
 - web-crawled
@@ -27,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **JupyterLab** is a modular, extensible IDE for interactive computing, supporting notebooks, terminals, and rich text editing within a single interface, built as part of the **Project Jupyter** ecosystem.
-
-- **Core features** include real-time collaboration, Language Server Protocol (LSP) integration, a debugger, and a plugin-based architecture enabling customization via extensions (e.g., prebuilt, source, or NPM-based).
-
-- **Development workflow** supports TypeScript/JavaScript-based extensio
+- **JupyterLab** is a modular, extensible IDE for interactive computing, supporting notebooks, text editors, terminals, and rich visualizations within a unified interface.
+- **Architecture** is based on a client-server model with a React-based frontend and a Jupyter Server backend, enabling real-time collaboration and plugin-based customization.
+- **Extension system** allows integration of third-party plugins (e.g., debuggers, language servers) via npm packages, with development workflows suppor
 
 ## Use Cases
 

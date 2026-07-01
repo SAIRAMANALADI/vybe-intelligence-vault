@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated AI Agent Resources**: A comprehensive, community-driven repository aggregating tools, frameworks, libraries, and research papers focused on AI agents, including autonomous systems, multi-agent systems, and agent-based modeling.
-
-- **Multi-Domain Coverage**: Encompasses diverse applications such as reinforcement learning agents, LLM-powered agents, robotic process automation (RPA), and agent-based simulations across domains like finance, healthcare, and cybersecurity.
-
-- **Active Main
+- **Curated Collection**: Aggregates a comprehensive list of AI agent frameworks, libraries, and tools, spanning autonomous agents, multi-agent systems, and agent-based simulations.
+- **Multi-Domain Coverage**: Encompasses agents for research, coding, web browsing, gaming, and enterprise automation, with links to papers, repositories, and tutorials.
+- **Community-Driven**: Maintained by Kyrolabs with contributions from the AI research community, featuring 2,563+ stars and 665+ forks as of July 2
 
 ## Use Cases
 
