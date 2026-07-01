@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-02 02:03 IST</p>
+        <p><b>Last Update:</b> 2026-07-02 03:00 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,25 +55,19 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Sony Deletes 551 Movies PlayStation Owners Paid For](ai/community/sony-deletes-551-movies-playstation-owners-paid-fo.md)** • <kbd>+149 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Apple 'Hide My Email' vulnerability reveals peoples' real email addresses](ai/community/apple-hide-my-email-vulnerability-reveals-peoples.md)** • <kbd>+119 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[css.Build](ai/resources/css-build.md)** • Rank: <kbd>+45</kbd>
-- 🔼 **[Careers at Cloudflare â Open Positions | Cloudflare](ai/resources/careers-at-cloudflare-a-open-positions-cloudflare.md)** • Rank: <kbd>+1238</kbd>
-- 🔼 **[Android Apps on Google Play](ai/rag/android-apps-on-google-play.md)** • Rank: <kbd>+2265</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+11</kbd>
+- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+11</kbd>
+- 🔼 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps](ai/community/division-36-z-jail.md)** • Score: `8`
-- 🆕 **[Privacy Help Center - Policies Help](ai/rag/privacy-help-center-policies-help.md)** • Score: `0`
-- 🆕 **[AWS Email Preference Center](ai/resources/aws-email-preference-center.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Nintendo has raised its employees base salary by 10%](ai/community/nintendo-has-raised-its-employees-base-salary-by-1.md)**
-- 💤 **[Meta loses bid to dismiss US states' claims that FB, Instagram addict children](ai/community/meta-loses-bid-to-dismiss-us-states-claims-that-fb.md)**
-- 💤 **[Show HN: PMB – local memory for coding agents that shows if it is used](ai/community/show-hn-pmb-local-memory-for-coding-agents-that-sh.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
