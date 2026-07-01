@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-01 23:28 IST</p>
+        <p><b>Last Update:</b> 2026-07-02 01:21 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,26 +55,20 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Sony Deletes 551 Movies PlayStation Owners Paid For](ai/community/sony-deletes-551-movies-playstation-owners-paid-fo.md)** • <kbd>+169 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Nintendo has raised its employees base salary by 10%](ai/community/nintendo-has-raised-its-employees-base-salary-by-1.md)** • <kbd>+128 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Getting Started with Python in VS Code](ai/resources/getting-started-with-python-in-vs-code.md)** • Rank: <kbd>+945</kbd>
-- 🔼 **[Speechify: Text to Speech & Voice Typing AI Assistant | 55M+ Users](ai/resources/speechify-text-to-speech-voice-typing-ai-assistant.md)** • Rank: <kbd>+2223</kbd>
-- 🔼 **[What is artificial intelligence? | web.dev](ai/rag/what-is-artificial-intelligence-web-dev.md)** • Rank: <kbd>+954</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+10</kbd>
+- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+10</kbd>
+- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+10</kbd>
+- 🔼 **[stanford-oval/storm](ai/rag/stanford-oval-storm.md)** • Rank: <kbd>+3</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Meta loses bid to dismiss US states' claims that FB, Instagram addict children](ai/community/meta-loses-bid-to-dismiss-us-states-claims-that-fb.md)** • Score: `104`
-- 🆕 **[Apple 'Hide My Email' Vulnerability Reveals Peoples' Real Email Addresses](ai/community/apple-hide-my-email-vulnerability-reveals-peoples.md)** • Score: `70`
-- 🆕 **[Show HN: PMB – local memory for coding agents that shows if it is used](ai/community/show-hn-pmb-local-memory-for-coding-agents-that-sh.md)** • Score: `7`
-- 🆕 **[Using Clang in Visual Studio Code](ai/resources/using-clang-in-visual-studio-code.md)** • Score: `0`
-- 🆕 **[microsoft/vscode-cpptools](ai/rag/microsoft-vscode-cpptools.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Godot will no longer accept AI-authored code contributions](ai/community/godot-will-no-longer-accept-ai-authored-code-contr.md)**
-- 💤 **[Show HN: Frond – a frontend runtime for your app's dependency graph](web-development/community/show-hn-frond-a-frontend-runtime-for-your-app-s-de.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
