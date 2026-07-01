@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-01T23:12:14.316632+05:30",
-  "last_updated": "2026-07-01 23:12 IST",
+  "generated_at": "2026-07-01T23:28:24.235417+05:30",
+  "last_updated": "2026-07-01 23:28 IST",
   "total_resources": 11488,
   "active_resources": 11185,
   "inactive_resources": 303,
-  "total_markdown_files": 58033,
+  "total_markdown_files": 58078,
   "archive_files": 43795,
   "archive_categories": 35,
   "workspace_archive_categories": 35,
@@ -17,19 +17,19 @@
   "examples_count": 8,
   "search_index_entries": 11185,
   "latest_resource_date": "2026-07-01T23:07:13.395759+05:30",
-  "latest_update_time": "2026-07-01T23:12:14.316680+05:30",
+  "latest_update_time": "2026-07-01T23:28:24.235486+05:30",
   "top_categories": [
     {
       "name": "ai/rag",
-      "count": 3619
+      "count": 3622
     },
     {
       "name": "ai/research",
-      "count": 3423
+      "count": 3424
     },
     {
       "name": "ai/agents",
-      "count": 1537
+      "count": 1535
     },
     {
       "name": "ai/resources",
@@ -45,7 +45,7 @@
     },
     {
       "name": "web-development",
-      "count": 41
+      "count": 40
     },
     {
       "name": "web-development/framer-motion",
@@ -62,7 +62,7 @@
   ],
   "category_breakdown": {
     "": 1,
-    "ai/agents": 1537,
+    "ai/agents": 1535,
     "ai/community": 5,
     "ai/companies": 10,
     "ai/companies/anthropic": 9,
@@ -70,12 +70,12 @@
     "ai/companies/mistral": 10,
     "ai/companies/openai": 4,
     "ai/models": 789,
-    "ai/rag": 3619,
-    "ai/releases": 4,
-    "ai/research": 3423,
+    "ai/rag": 3622,
+    "ai/releases": 3,
+    "ai/research": 3424,
     "ai/resources": 1503,
     "ai/trending": 10,
-    "web-development": 41,
+    "web-development": 40,
     "web-development/dashboards": 1,
     "web-development/framer-motion": 26,
     "web-development/gsap": 6,
@@ -1956,8 +1956,8 @@
     "botpenguin.com": 1,
     "startdesigns.com": 1,
     "signitysolutions.com": 1,
-    "status.medium.com": 1,
-    "policy.medium.com": 3
+    "policy.medium.com": 3,
+    "status.medium.com": 1
   },
   "trends": {
     "trending_resources": [
@@ -48886,7 +48886,7 @@
       {
         "id": "arxiv:2606.26494",
         "title": "Clinical Harness for Governable Medical AI Skill Ecosystems",
-        "category": "ai/agents",
+        "category": "ai/research",
         "source_type": "arxiv",
         "url": "https://arxiv.org/abs/2606.26494",
         "file_path": "ai/research/arxiv-2606-26494.md",
@@ -87899,7 +87899,7 @@
       {
         "id": "blog:react-canaries-enabling-incremental-feature-rollou",
         "title": "React Canaries: Enabling Incremental Feature Rollout Outside Meta",
-        "category": "web-development",
+        "category": "ai/rag",
         "source_type": "rss",
         "url": "https://react.dev/blog/2023/05/03/react-canaries",
         "file_path": "ai/rag/react-canaries-enabling-incremental-feature-rollou.md",
@@ -101068,7 +101068,7 @@
       {
         "id": "github:crewaiinc/crewai",
         "title": "crewAIInc/crewAI Release: 1.15.2a1",
-        "category": "ai/agents",
+        "category": "ai/rag",
         "source_type": "github_releases",
         "url": "https://github.com/crewaiinc/crewai",
         "file_path": "ai/rag/crewaiinc-crewai.md",
@@ -101081,7 +101081,7 @@
       {
         "id": "github:pydantic/pydantic-ai",
         "title": "pydantic/pydantic-ai Release: v2.2.0 (2026-06-30)",
-        "category": "ai/releases",
+        "category": "ai/rag",
         "source_type": "github_releases",
         "url": "https://github.com/pydantic/pydantic-ai",
         "file_path": "ai/rag/pydantic-pydantic-ai.md",
@@ -147450,136 +147450,6 @@
         "tier": "tier-3"
       },
       {
-        "id": "blog:wikipedias-most-read-articles-of-2025-by-wikimedia",
-        "title": "Wikipedia’s most-read articles of 2025 | by Wikimedia | Down the Rabbit Hole",
-        "category": "ai/rag",
-        "source_type": "web",
-        "url": "https://medium.com/freely-sharing-the-sum-of-all-knowledge/announcing-wikipedias-top-20-most-read-articles-of-2025-85e03f7410f9",
-        "file_path": "ai/rag/wikipedias-most-read-articles-of-2025-by-wikimedia.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": -16,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "blog:medium-status",
-        "title": "Medium Status",
-        "category": "ai/rag",
-        "source_type": "web",
-        "url": "https://status.medium.com",
-        "file_path": "ai/rag/medium-status.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": -16,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "blog:medium-rules-by-medium-medium-policy",
-        "title": "Medium Rules | by Medium | Medium Policy",
-        "category": "ai/rag",
-        "source_type": "web",
-        "url": "https://policy.medium.com/medium-rules-30e5502c4eb4",
-        "file_path": "ai/rag/medium-rules-by-medium-medium-policy.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": -16,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "blog:careers-at-medium-by-jobs-medium-jobs-at-medium-me",
-        "title": "Careers at Medium | by Jobs @ Medium | Jobs at Medium | Medium",
-        "category": "ai/rag",
-        "source_type": "web",
-        "url": "https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e",
-        "file_path": "ai/rag/careers-at-medium-by-jobs-medium-jobs-at-medium-me.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": -8,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "blog:medium",
-        "title": "Medium",
-        "category": "ai/rag",
-        "source_type": "web",
-        "url": "https://medium.com/search",
-        "file_path": "ai/rag/medium.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": -17,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "blog:medium-help-center",
-        "title": "Medium Help Center",
-        "category": "ai/rag",
-        "source_type": "web",
-        "url": "https://help.medium.com/hc/en-us",
-        "file_path": "ai/rag/medium-help-center.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": -17,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "blog:medium-terms-of-service-by-medium-medium-policy",
-        "title": "Medium Terms of Service | by Medium | Medium Policy",
-        "category": "ai/rag",
-        "source_type": "web",
-        "url": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f",
-        "file_path": "ai/rag/medium-terms-of-service-by-medium-medium-policy.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": -17,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "github:pinecone-io/canopy",
-        "title": "pinecone-io/canopy",
-        "category": "ai/rag",
-        "source_type": "github",
-        "url": "https://github.com/pinecone-io/canopy",
-        "file_path": "ai/rag/pinecone-io-canopy.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": -16,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "blog:medium-apps-on-google-play",
-        "title": "Medium - Apps on Google Play",
-        "category": "ai/rag",
-        "source_type": "web",
-        "url": "https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar",
-        "file_path": "ai/rag/medium-apps-on-google-play.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": -16,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "blog:medium-members-can-listen-to-any-medium-story-with",
-        "title": "Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify",
-        "category": "ai/rag",
-        "source_type": "web",
-        "url": "https://speechify.com/medium",
-        "file_path": "ai/rag/medium-members-can-listen-to-any-medium-story-with.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": -12,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
         "id": "github:infiniflow/ragflow",
         "title": "infiniflow/ragflow",
         "category": "ai/rag",
@@ -147588,7 +147458,7 @@
         "file_path": "ai/rag/infiniflow-ragflow.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": -10981,
+        "rank_change": -10971,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -147601,7 +147471,7 @@
         "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": -17,
+        "rank_change": -7,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -147614,7 +147484,98 @@
         "file_path": "ai/rag/the-medium-blog.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": -29,
+        "rank_change": -19,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
+        "id": "blog:wikipedias-most-read-articles-of-2025-by-wikimedia",
+        "title": "Wikipedia’s most-read articles of 2025 | by Wikimedia | Down the Rabbit Hole",
+        "category": "ai/rag",
+        "source_type": "web",
+        "url": "https://medium.com/freely-sharing-the-sum-of-all-knowledge/announcing-wikipedias-top-20-most-read-articles-of-2025-85e03f7410f9",
+        "file_path": "ai/rag/wikipedias-most-read-articles-of-2025-by-wikimedia.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": -19,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
+        "id": "blog:medium-status",
+        "title": "Medium Status",
+        "category": "ai/rag",
+        "source_type": "web",
+        "url": "https://status.medium.com",
+        "file_path": "ai/rag/medium-status.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": -19,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
+        "id": "blog:medium-rules-by-medium-medium-policy",
+        "title": "Medium Rules | by Medium | Medium Policy",
+        "category": "ai/rag",
+        "source_type": "web",
+        "url": "https://policy.medium.com/medium-rules-30e5502c4eb4",
+        "file_path": "ai/rag/medium-rules-by-medium-medium-policy.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": -19,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
+        "id": "blog:careers-at-medium-by-jobs-medium-jobs-at-medium-me",
+        "title": "Careers at Medium | by Jobs @ Medium | Jobs at Medium | Medium",
+        "category": "ai/rag",
+        "source_type": "web",
+        "url": "https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e",
+        "file_path": "ai/rag/careers-at-medium-by-jobs-medium-jobs-at-medium-me.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": -11,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
+        "id": "blog:medium",
+        "title": "Medium",
+        "category": "ai/rag",
+        "source_type": "web",
+        "url": "https://medium.com/search",
+        "file_path": "ai/rag/medium.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": -20,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
+        "id": "blog:medium-help-center",
+        "title": "Medium Help Center",
+        "category": "ai/rag",
+        "source_type": "web",
+        "url": "https://help.medium.com/hc/en-us",
+        "file_path": "ai/rag/medium-help-center.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": -20,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
+        "id": "blog:medium-terms-of-service-by-medium-medium-policy",
+        "title": "Medium Terms of Service | by Medium | Medium Policy",
+        "category": "ai/rag",
+        "source_type": "web",
+        "url": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f",
+        "file_path": "ai/rag/medium-terms-of-service-by-medium-medium-policy.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": -20,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -147627,17 +147588,43 @@
         "file_path": "ai/rag/stanford-oval-storm.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": -23,
+        "rank_change": -20,
         "new_resource": false,
         "tier": "tier-3"
       },
       {
-        "id": "blog:category",
-        "title": "[CATEGORY] - ",
-        "category": "",
-        "source_type": "",
-        "url": "",
-        "file_path": ".github/ISSUE_TEMPLATE/category-request.md",
+        "id": "github:pinecone-io/canopy",
+        "title": "pinecone-io/canopy",
+        "category": "ai/rag",
+        "source_type": "github",
+        "url": "https://github.com/pinecone-io/canopy",
+        "file_path": "ai/rag/pinecone-io-canopy.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": -20,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
+        "id": "blog:medium-apps-on-google-play",
+        "title": "Medium - Apps on Google Play",
+        "category": "ai/rag",
+        "source_type": "web",
+        "url": "https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar",
+        "file_path": "ai/rag/medium-apps-on-google-play.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": -20,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
+        "id": "blog:medium-members-can-listen-to-any-medium-story-with",
+        "title": "Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify",
+        "category": "ai/rag",
+        "source_type": "web",
+        "url": "https://speechify.com/medium",
+        "file_path": "ai/rag/medium-members-can-listen-to-any-medium-story-with.md",
         "score": 0,
         "score_change": 0,
         "rank_change": -16,
