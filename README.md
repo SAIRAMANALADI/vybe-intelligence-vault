@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-01 10:58 IST</p>
+        <p><b>Last Update:</b> 2026-07-01 15:13 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,26 +55,20 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[From brain waves to words: a new path to communication without surgery](ai/community/from-brain-waves-to-words-a-new-path-to-communicat.md)** • <kbd>+74 pts</kbd>
-- 🔼 **[Status.io - Status Pages & Incident Communications](ai/resources/status-io-status-pages-incident-communications.md)** • Rank: <kbd>+4008</kbd>
-- 🔼 **[Sign in to GitHub · GitHub](ai/resources/docker-docs.md)** • Rank: <kbd>+3212</kbd>
-- 🔼 **[capabilities(7) - Linux manual page](ai/resources/capabilities-7-linux-manual-page.md)** • Rank: <kbd>+4173</kbd>
-- 🔼 **[Docker: Accelerated Container Application Development](ai/rag/docker-accelerated-container-application-developme.md)** • Rank: <kbd>+3975</kbd>
+- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+10</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+10</kbd>
+- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+6</kbd>
+- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+4</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Configuring CAP_IPC_LOCK and CAP_SYS_NICE capabilities in Docker | ClickHouse Docs](ai/resources/configuring-cap-ipc-lock-and-cap-sys-nice-capabili.md)** • Score: `0`
-- 🆕 **[Kotis Design | High-Quality Custom Designs for Your Brand](ai/rag/kotis-design-high-quality-custom-designs-for-your.md)** • Score: `0`
-- 🆕 **[nginx - Official Image | Docker Hub](ai/resources/nginx-official-image-docker-hub.md)** • Score: `0`
-- 🆕 **[Docker - YouTube](ai/resources/docker-youtube.md)** • Score: `0`
-- 🆕 **[Docker Store](ai/rag/docker-store.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Ask HN: Since when does Craigslist's front page have emojis?](ai/community/ask-hn-since-when-does-craigslist-s-front-page-hav.md)**
-- 💤 **[Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5](ai/companies/anthropic/jun-9-2026announcementsclaude-fable-5-and-claude-m.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
