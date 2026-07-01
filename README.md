@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-01 16:02 IST</p>
+        <p><b>Last Update:</b> 2026-07-01 18:06 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,25 +55,18 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[From brain waves to words: a new path to communication without surgery](ai/community/from-brain-waves-to-words-a-new-path-to-communicat.md)** • <kbd>+30 pts</kbd>
-- 🔼 **[OpenTelemetry](ai/agents/opentelemetry.md)** • Rank: <kbd>+2301</kbd>
-- 🔼 **[GitHub · Change is constant. GitHub keeps you ahead. · GitHub](ai/rag/github-change-is-constant-github-keeps-you-ahead-g.md)** • Rank: <kbd>+2728</kbd>
-- 🔼 **[superproject](ai/resources/superproject.md)** • Rank: <kbd>+1056</kbd>
-- 🔼 **[Copilot CLI sessions in Visual Studio Code](ai/agents/copilot-cli-sessions-in-visual-studio-code.md)** • Rank: <kbd>+799</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+9</kbd>
+- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+9</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Godot will no longer accept AI-authored code contributions](ai/community/godot-will-no-longer-accept-ai-authored-code-contr.md)** • Score: `163`
-- 🆕 **[Breathe 'latest' documentation](ai/resources/breathe-latest-documentation.md)** • Score: `0`
-- 🆕 **[jupyterlite/jupyterlite](ai/rag/jupyterlite-jupyterlite.md)** • Score: `0`
-- 🆕 **[Pyodide — Version 314.0.2](ai/resources/pyodide-version-314-0-0.md)** • Score: `0`
-- 🆕 **[Client Challenge](ai/resources/client-challenge-2.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Jun 30, 2026AnnouncementsRedeploying Fable 5](ai/companies/anthropic/jun-30-2026announcementsredeploying-fable-5.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
