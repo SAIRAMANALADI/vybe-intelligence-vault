@@ -34,8 +34,10 @@ selection_reason:
 ## Summary
 
 - **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise RAG performance.
-- **Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based question-answering metrics tailored for internal knowledge bases.
-- **Technical Scope**: Supports Python-based RAG evaluation, large language model (LLM) assessment, and retrieval optimization for ent
+
+- **Key Features**: Includes synthetic data generation for knowledge bases, supports evaluation of semantic search, information retrieval, and LLM-based QA systems in enterprise contexts.
+
+- **Technical Scope**: Implements Python-based tools for RAG evaluation, covering metrics for retrieval
 
 ## Use Cases
 

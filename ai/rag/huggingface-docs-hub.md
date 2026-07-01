@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-07-01T01:54:33.345287+05:30'
-collected_at: '2026-07-01T01:54:33.345303+05:30'
+published_at: '2026-07-01T20:48:22.084489+05:30'
+collected_at: '2026-07-01T20:48:22.084500+05:30'
 tags:
 - agents
 - creative_dev
@@ -15,14 +15,15 @@ tags:
 - models
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-07-01T01:54:33.345303+05:30'
-last_seen: '2026-07-01T01:54:33.345303+05:30'
-last_checked: '2026-07-01T01:54:33.345303+05:30'
+first_seen: '2026-07-01T20:48:22.084500+05:30'
+last_seen: '2026-07-01T20:48:22.084500+05:30'
+last_checked: '2026-07-01T20:48:22.084500+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting via Gradio SDK, Dockerfiles, or static JS/HTML, with optional GPU/accelerated hardware upgrades for performance-critical applications.
+- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with built-in support for Gradio SDK, Docker, and static HTML/JS, supporting GPU/accelerated hardware upgrades for performance optimization.
 
-- **Integration & Customization**: Supports dependency management, GitHub Actions for CI/CD, OpenCV integration, and custom domains; embeddable as API endpoints or MCP servers for agent-based workflows.
+- **Multi-Format SDKs**: Supports multiple deployment paradigms including Python-based Gradio apps, arbitrary Dockerfile deployments, and static web apps, with additional features like embedding Spaces, custom domains, and MCP server integration.
 
-- **Storage & Scalability**: Provides disk usage monitoring, ZeroGPU options, and configurable storage limits; supports Docker-based execution and static HTML deployments for lightweight demos.
+- **Collaboration & Extensibility**: Provides GitHub Actions integration for CI/CD, dependency management, disk/storage quotas, and advanced configurations (e.g., ZeroGPU, Dev Mode) to facilitate collaborative ML development and deployment workflows.
 
 ## Why It Matters
 
@@ -44,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T01:54:33.345287+05:30
+- Published: 2026-07-01T20:48:22.084489+05:30
 
 ## Related Tags
 
@@ -56,6 +57,7 @@ General public resource representing technology updates, guides, or tutorials.
 - models
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows

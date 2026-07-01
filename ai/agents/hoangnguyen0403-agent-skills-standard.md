@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-07-01T15:48:25.029628+05:30'
+collected_at: '2026-07-01T20:46:29.211865+05:30'
 published_at: '2026-07-01T07:59:32Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-29T13:00:12Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-07-01T15:48:25.029628+05:30'
-last_seen: '2026-07-01T15:48:25.029628+05:30'
-last_checked: '2026-07-01T15:48:25.029628+05:30'
+first_seen: '2026-07-01T20:46:29.211865+05:30'
+last_seen: '2026-07-01T20:46:29.211865+05:30'
+last_checked: '2026-07-01T20:46:29.211865+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Best Practices Repository**: Curates standardized coding practices and frameworks for AI agents across multiple languages (TypeScript, Go, Kotlin, etc.) and platforms (Android, iOS, React, Angular, etc.), ensuring consistency in agentic AI development.
-
-- **Structured Agent Skills Standard**: Provides a TypeScript-based framework with modular rules (e.g., `cursor-rules`) to enforce coding standards, optimized for AI agent adherence and cross-platform compatibility.
-
-- **Active Maintenance & Community Engagement**: Regularly updated (last commit: 2026-07-01) with 518 stars and 150 forks, indicating strong community adoption and iterative improvement of best practices for AI-driven development.
+- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding conventions for AI agents, covering 18+ frameworks/languages (e.g., React, Angular, Spring Boot, Flutter, Go) to ensure consistent agentic AI development.
+- **Structured Standards**: Provides framework-specific `cursor-rules` and coding standards to guide AI agents in adhering to language/framework-specific best practices (e.g., NestJS, Next.js, Kotlin).
+- **Maintenance & Community**: Actively maintained (last updated July 2026), with 518 stars and 150 forks, serving as a collaborative reference for agentic AI development across mobile (iOS/Android) and web platforms.
 
 ## Why It Matters
 

@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Contains 5000+ production-ready n8n workflow templates spanning AI, CRM, finance, e-commerce, marketing, and RAG automation.
-- **Metadata**: 411 stars, 164 forks, last updated 2026-06-30T22:05:50Z.
-- **Accessibility**: Free and open-source, language unspecified.
+*   Provides 5000+ production-ready n8n workflow templates for diverse automation scenarios.
+*   Encompasses advanced integrations across AI, CRM, finance, e-commerce, marketing, and RAG systems.
+*   Open-source repository offering practical, real-world automation solutions.
 
 ## Use Cases
 

@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/collections/nvidia/nvidia-nemotron-689f6d6e6ead8e77dd641615
-published_at: '2026-06-28T10:25:12.372939+05:30'
-collected_at: '2026-06-28T10:25:12.372951+05:30'
+published_at: '2026-07-01T20:47:15.757873+05:30'
+collected_at: '2026-07-01T20:47:15.757883+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: huggingface:collections/nvidia
-first_seen: '2026-06-28T10:25:12.372951+05:30'
-last_seen: '2026-06-28T10:25:12.372951+05:30'
-last_checked: '2026-06-28T10:25:12.372951+05:30'
+first_seen: '2026-07-01T20:47:15.757883+05:30'
+last_seen: '2026-07-01T20:47:15.757883+05:30'
+last_checked: '2026-07-01T20:47:15.757883+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Model Specifications**: 12B-parameter text generation model optimized for efficiency and performance, updated on November 25, 2025.
+- **Model Specifications**: Nemotron-Nano-12B-v2 is a 12-billion-parameter text generation model optimized for efficiency and performance, released by NVIDIA on November 25, 2025.
 
-- **Architectural Focus**: Designed for high-throughput inference with optimized memory and compute efficiency, leveraging NVIDIA's proprietary optimizations.
+- **Architecture & Optimization**: Designed for high-throughput inference with reduced memory footprint, leveraging NVIDIA’s proprietary optimizations for low-latency deployment.
 
-- **Deployment Readiness**: Pre-trained for general-purpose text generation tasks, compatible with standard frameworks (e.g., TensorRT-LLM, vLLM) for scalable inference.
+- **Usage & Accessibility**: Available on Hugging Face with 99.7k downloads and 165 likes, indicating community adoption; intended for research and production-scale text generation tasks.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T10:25:12.372939+05:30
+- Published: 2026-07-01T20:47:15.757873+05:30
 
 ## Related Tags
 

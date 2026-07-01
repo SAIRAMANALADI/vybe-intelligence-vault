@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SylphAI-Inc/GithubChat
-collected_at: '2026-07-01T15:45:45.073317+05:30'
+collected_at: '2026-07-01T20:43:49.121133+05:30'
 published_at: '2026-06-30T16:48:21Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 stars: 97
@@ -18,9 +17,9 @@ archived: false
 created_at: '2024-12-05T01:54:18Z'
 pushed_at: '2025-02-10T20:07:53Z'
 resource_id: github:sylphai-inc/githubchat
-first_seen: '2026-07-01T15:45:45.073317+05:30'
-last_seen: '2026-07-01T15:45:45.073317+05:30'
-last_checked: '2026-07-01T15:45:45.073317+05:30'
+first_seen: '2026-07-01T20:43:49.121133+05:30'
+last_seen: '2026-07-01T20:43:49.121133+05:30'
+last_checked: '2026-07-01T20:43:49.121133+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Practical RAG Implementation**: A Retrieval-Augmented Generation (RAG) system designed for interactive querying of GitHub repositories, enabling users to download and chat with repository contents.
-- **Technical Stack**: Built in Python, leveraging RAG architecture for efficient document retrieval and generation.
-- **Metadata**: 97 stars, 20 forks, last updated on 2026-06-30.
+- **RAG Implementation**: Practical Retrieval-Augmented Generation (RAG) system enabling interaction with GitHub repositories via natural language queries.
+- **Tech Stack**: Python-based, leveraging RAG pipelines to process, index, and retrieve repository data for conversational querying.
+- **Metadata**: 97 stars, 20 forks, last updated 2026-06-30; designed for direct deployment and interaction with GitHub-hosted codebases.
 
 ## Why It Matters
 

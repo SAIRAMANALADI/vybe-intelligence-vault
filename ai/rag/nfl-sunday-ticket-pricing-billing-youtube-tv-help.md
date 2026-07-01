@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/youtubetv/answer/15137773?p=NFL_Sunday_Ticket_Payments&rd=1&visit_id=639003560018834577-2321660432
-published_at: '2026-06-30T20:19:34.875955+05:30'
-collected_at: '2026-06-30T20:19:34.875972+05:30'
+published_at: '2026-07-01T20:48:37.160767+05:30'
+collected_at: '2026-07-01T20:48:37.160779+05:30'
 tags:
 - rag
 - reddit
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:nfl-sunday-ticket-pricing-billing-youtube-tv-help
-first_seen: '2026-06-30T20:19:34.875972+05:30'
-last_seen: '2026-06-30T20:19:34.875972+05:30'
-last_checked: '2026-06-30T20:19:34.875972+05:30'
+first_seen: '2026-07-01T20:48:37.160779+05:30'
+last_seen: '2026-07-01T20:48:37.160779+05:30'
+last_checked: '2026-07-01T20:48:37.160779+05:30'
 health_score: 100
 ---
 
@@ -23,17 +23,17 @@ health_score: 100
 
 ## Summary
 
-- **Pricing & Availability**:
-  - NFL Sunday Ticket is available as a season pass (Sept–Jan) or month-to-month add-on to YouTube TV ($82.99/month) or as a standalone Primetime Channel on YouTube.
-  - Bundling with NFL RedZone is optional; pricing varies by platform (e.g., iOS may differ).
+- **Pricing Structure**:
+  - YouTube TV + NFL Sunday Ticket: $82.99/month (base YouTube TV cost) + NFL Sunday Ticket fee (varies by plan, e.g., season pass or Month-to-Month).
+  - YouTube Primetime Channels: NFL Sunday Ticket available as a standalone season pass or bundled with NFL RedZone.
 
-- **Coverage & Restrictions**:
-  - Includes out-of-market, local, national, and postseason games (preseason excluded for Primetime Channels).
-  - No single-team or weekly plans; only full-season or month-to-month options.
+- **Access & Coverage**:
+  - Includes preseason, regular season (out-of-market, local, and national broadcasts), and postseason games.
+  - No single-team or per-game purchase options; Month-to-Month plan available for flexible commitment.
 
 - **Billing & Cancellation**:
-  - Month-to-month allows cancellation anytime with access until next billing cycle (no refunds).
-  - Season passes are non-refundable; automatic renewal can be disabled for future seasons.
+  - Month-to-Month: Recurring charge, cancellable anytime with access until next billing cycle; no refunds.
+  - Season Pass: No cancellations/refunds; automatic renewal can be disabled for future seasons.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T20:19:34.875955+05:30
+- Published: 2026-07-01T20:48:37.160767+05:30
 
 ## Related Tags
 

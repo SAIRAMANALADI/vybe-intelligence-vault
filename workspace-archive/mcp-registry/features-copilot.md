@@ -6,9 +6,9 @@ source_url: https://github.com/features/copilot/cli
 resource_id: github:features/copilot
 local_vault_path: ai/agents/features-copilot.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -16,6 +16,7 @@ tags:
 - frontend_ui
 - hackernews
 - openai
+- scripts
 - web-crawled
 - workflows
 - youtube
@@ -29,19 +30,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: mcp-server
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Multi-Model & Parallel Execution**: Supports `/model` switching and `/fleet` parallelization across multiple subagents (e.g., Anthropic, Google, OpenAI) for concurrent task execution, with `/resume` for session persistence and context retention.
+- **Multi-Agent Parallel Execution**: Copilot CLI enables `/fleet`-based parallelized subagents for concurrent task execution, supporting model switching via `/model` and multi-agent workflows for efficient, distributed problem-solving.
 
-- **GitHub-Native Workflow Integration**: Operates via native GitHub `/mcp` for issue/PR management, branch protections, and policy enforcement, enabling end-to-end workflows from `/plan` to merged PRs with explicit user approval for all changes.
-
--
+- **GitHub-Native MCP Integration**: Built on GitHub’s native Model Context Protocol (MCP), the CLI interacts directly with issues, PRs, branches, and labels, inheriting organizational policies (e.g., branch protections) while maintaining explicit user approval
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-07-01T15:46:59.925038+05:30'
+collected_at: '2026-07-01T20:45:04.095625+05:30'
 published_at: '2026-07-01T03:38:28Z'
 tags:
 - benchmark
@@ -13,6 +13,7 @@ tags:
 - hackernews
 - python
 - rag
+- workflows
 stars: 454
 language: Python
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-07-01T15:46:59.925038+05:30'
-last_seen: '2026-07-01T15:46:59.925038+05:30'
-last_checked: '2026-07-01T15:46:59.925038+05:30'
+first_seen: '2026-07-01T20:45:04.095625+05:30'
+last_seen: '2026-07-01T20:45:04.095625+05:30'
+last_checked: '2026-07-01T20:45:04.095625+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: Provides a standardized evaluation framework for GraphRAG models, including datasets and metrics for assessing performance in graph-based retrieval-augmented generation (RAG) tasks.
-- **Technical Scope**: Focuses on analyzing when and how to integrate graph structures into RAG pipelines, covering retrieval strategies, graph construction, and query optimization.
-- **ICLR'26 Contribution**: Presents a comprehensive analysis of graph-based RAG methods, including empirical comparisons and theoretical insights for optimizing graph-enhanced RAG systems.
+- **Benchmark Framework**: GraphRAG-Benchmark provides a standardized evaluation suite for Graph Retrieval-Augmented Generation (GraphRAG) models, designed to assess performance across diverse graph-based RAG tasks.
+- **Dataset & Analysis**: Includes a comprehensive dataset and analysis tools to determine optimal use cases for graph structures in RAG systems, with findings benchmarked for ICLR'26.
+- **Technical Stack**: Implemented in Python, supporting modular integration for graph retrieval, generation, and evaluation workflows.
 
 ## Why It Matters
 

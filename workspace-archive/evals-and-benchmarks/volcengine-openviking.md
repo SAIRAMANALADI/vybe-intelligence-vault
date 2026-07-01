@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Context Database for AI Agents**: OpenViking provides an open-source, file system-based context database (`/context`) for AI agents (e.g., OpenClaw), unifying memory, resources, and skills into a hierarchical structure for efficient context management.
+- **File System-Based Context Management**: OpenViking implements a hierarchical context database for AI Agents using a file system paradigm, enabling unified management of memory, resources, and skills in a structured, scalable manner.
 
-- **Self-Evolving & Hierarchical Delivery**: Implements a filesystem paradigm (`/context`) to enable hierarchical context delivery and autonomous evolution of agent capabilities through structured context updates.
+- **Self-Evolving Context Engine**: The system supports dynamic, autonomous evolution of context delivery mechanisms, allowing AI Agents (e.g., OpenClaw) to adapt and optimize context retrieval and storage over time.
 
-- **Python-Based & Agentic-
+- **Python-Based Implementation**: Developed
 
 ## Use Cases
 

@@ -14,6 +14,7 @@ tags:
 - agents
 - github-repo
 - hackernews
+- models
 - python
 selection_reason:
 - Active open-source repository
@@ -31,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated AI Agent Repository**: Hosts 500+ open-source AI agent projects spanning healthcare, finance, education, retail, and other sectors, demonstrating practical GenAI applications.
-- **Technical Implementation**: All projects are Python-based, providing executable code and links to open-source repositories for hands-on deployment.
-- **High Community Engagement**: Maintains 33K+ stars and 5.8K+ forks, indicating strong adoption and collaborative development in the AI agent ecosystem.
+- **Curated AI Agent Use Cases**: Repository contains 500+ practical AI agent applications across industries (healthcare, finance, education, retail) with open-source implementations for hands-on learning and deployment.
+
+- **Multi-Industry Showcase**: Demonstrates AI agent transformations via categorized projects, enabling cross-domain technical exploration and integration of generative AI (GenAI) and agentic systems.
+
+- **Python-Based Open-Source Hub**: Hosts a Python-centric collection of AI
 
 ## Use Cases
 

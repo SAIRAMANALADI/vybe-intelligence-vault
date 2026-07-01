@@ -8,7 +8,7 @@ local_vault_path: ai/rag/deep-agents-code-docs-by-langchain.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -19,7 +19,6 @@ tags:
 - rag
 - scripts
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -32,16 +31,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Multi-Provider LLM Support**: Deep Agents Code (`dcode`) integrates with any tool-calling LLM (e.g., OpenAI, Anthropic, Google) and allows dynamic model switching mid-session via `/model` command or CLI flags (`--model`), with persistent memory for cross-conversation context.
+- **Multi-Provider LLM Integration**: Deep Agents Code (`dcode`) supports dynamic switching between any tool-calling LLM (e.g., OpenAI, Anthropic, Google) mid-session, with persistent memory for cross-conversation context and configurable approval controls for sensitive operations.
 
-- **Human-in-the-Loop Security & Tools**: Implements mandatory user approval for destructive operations (e.g., file writes, shell execution) via `human-in-the-loop` controls, while offering 15+ built-in tools (e.g., `e
+- **Core Capabilities**: Includes file I/O (read/write/edit), shell execution (local/remote sandboxes), web search (via Tavily API), task planning, subagent delegation, memory storage/retrieval, and MCP tool integrat
 
 ## Use Cases
 

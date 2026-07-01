@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular RAG Framework**: Open-source Python-based framework for building production-ready Retrieval Augmented Generation (RAG) applications with modular components for seamless integration and customization.
+- **Modular RAG Framework**: Open-source Python framework designed for building production-ready Retrieval Augmented Generation (RAG) applications with pluggable components for retrieval, generation, and orchestration.
 
-- **Multi-Language Support**: Supports both Python (core) and TypeScript (frontend/UI), enabling end-to-end development of AI applications with retrieval-augmented capabilities.
+- **Production-Grade Features**: Supports LLM-Ops, model deployment, fine-tuning, and MLOps integration, enabling scalable and maintainable AI pipelines for enterprise use.
 
-- **MLOps & Deployment Tools**: Integrates LLM-ops, fine-tuning, and model deployment pipelines, facilitatin
+- **Multi-Language Support**: Primarily Python-based with TypeScript compatibility, facilitating full-stac
 
 ## Use Cases
 

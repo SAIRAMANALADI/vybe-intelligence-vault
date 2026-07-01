@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: `fastRAG` is an efficient Python-based framework for **Retrieval-Augmented Generation (RAG)**, integrating **multi-modal** capabilities (e.g., text, knowledge graphs) with **transformers** and **sentence embeddings** (e.g., Colbert, Sentence-Transformers) for tasks like **semantic search**, **QA**, and **summarization**.
+- **Framework Overview**: FastRAG is an efficient Python-based framework for Retrieval Augmented Generation (RAG) optimized for low-latency, high-throughput applications, supporting multi-modal, knowledge-intensive tasks (e.g., QA, summarization) via modular pipelines.
 
-- **Optimized Retrieval & Generation**: Implements **diffusion-based** and **graph-augmented** retrieval mechanisms to enhance **information retrieval
+- **Core Components**: Integrates state-of-the-art retrieval (e.g., ColBERT, sentence-transformers) and generative models (e.g., diffusion, LLMs) with dynamic knowledge graph integration, enabling adaptive retrieval and generatio
 
 ## Use Cases
 

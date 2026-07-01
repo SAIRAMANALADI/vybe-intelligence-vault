@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive GenAI Agent Development**: Provides end-to-end, code-first tutorials covering the full lifecycle of production-grade GenAI agents, from initial prototyping to enterprise deployment, with a focus on practical implementation.
+- **Comprehensive GenAI Agent Development**: Provides end-to-end, code-first tutorials for building production-grade GenAI agents, covering prototyping to enterprise deployment with a focus on scalability and robustness.
 
-- **Multi-Framework & Tooling Support**: Integrates key frameworks (e.g., LangGraph, MCP) and tools (e.g., RAG, LLM orchestration) for building scalable, observable, and production-ready agentic systems in Python.
+- **Multi-Framework & Tooling Support**: Integrates multiple frameworks (e.g., LangGraph, MCP) and tools (e.g., RAG, LLMs) for agentic AI, MLOps, and observability, with Python and Jupyter Notebook-based implementations.
 
-- **MLOps & Observability Integration**: E
+- **Enterprise-Grade Deployment Focus**: Emphasizes prod
 
 ## Use Cases
 

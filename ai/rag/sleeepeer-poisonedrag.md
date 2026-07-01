@@ -4,15 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-01T15:47:10.005440+05:30'
+collected_at: '2026-07-01T20:45:14.155992+05:30'
 published_at: '2026-06-30T11:39:04Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
-- meta-ai
-- mistral
-- models
 - python
 - rag
 - reddit
@@ -24,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-01T15:47:10.005440+05:30'
-last_seen: '2026-07-01T15:47:10.005440+05:30'
-last_checked: '2026-07-01T15:47:10.005440+05:30'
+first_seen: '2026-07-01T20:45:14.155992+05:30'
+last_seen: '2026-07-01T20:45:14.155992+05:30'
+last_checked: '2026-07-01T20:45:14.155992+05:30'
 health_score: 100
 ---
 
@@ -34,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by poisoning the retrieval corpus, causing LLMs to generate malicious or incorrect outputs while maintaining high retrieval relevance.
+- **Novel Attack Framework**: Introduces *PoisonedRAG*, a first-of-its-kind attack targeting Retrieval-Augmented Generation (RAG) systems by corrupting external knowledge bases to manipulate LLM outputs, demonstrated in USENIX Security 2025.
 
-- **Technical Implementation**: Leverages adversarial embedding poisoning and trigger-based retrieval manipulation to subtly alter document representations, enabling targeted misinformation injection without altering the LLM's weights or requiring direct access to the model.
+- **Technical Mechanism**: Exploits adversarial embedding poisoning in vector databases, enabling attackers to inject malicious but semantically plausible content that steers LLM responses toward attacker-desired answers during retrieval.
 
-- **Evaluation & Impact**: Demonstrates effectiveness across multiple RAG pipelines (e.g., BM25, DPR, Contriever) and LLMs (e.g., Llama2, Mistral), achieving high attack success rates (up to 95%) while evading detection via semantic-preserving perturbations.
+- **Evaluation & Impact**: Validated across multiple RAG pipelines, showing high attack success rates (e.g., 80-90% in targeted misinformation) while remaining stealthy, highlighting critical vulnerabilities in trustworthy AI systems.
 
 ## Why It Matters
 

@@ -11,10 +11,10 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (semantic aggregation + hierarchical traversal) to enhance context relevance in generation tasks.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework (AAAI 2026) with multi-layered retrieval (hierarchical) and semantic aggregation for enhanced context relevance in generation tasks.
 
-- **Efficiency Optimizations**: Utilizes lightweight graph pruning and dynamic indexing to reduce retrieval latency while maintaining high precision in knowledge-grounded responses.
+- **Python-Based Implementation**: Provides a lightweight, modular Python library (`LeanRAG`) optimized for efficient knowledge-graph integration and retrieval-augmented generation (RAG) workflows.
 
-- **Python Implementation**: Provides an open-source Python library with modular componen
+- **Performance & Scalability**: Designed for low-latency inferen
 
 ## Use Cases
 

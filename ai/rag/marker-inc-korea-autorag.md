@@ -4,17 +4,18 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-07-01T15:46:24.962447+05:30'
-published_at: '2026-07-01T05:33:22Z'
+collected_at: '2026-07-01T20:44:29.108509+05:30'
+published_at: '2026-07-01T12:24:19Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - hackernews
+- openai
 - python
 - rag
 - scripts
-stars: 4850
+stars: 4852
 language: Python
 status: active
 license: Apache-2.0
@@ -22,9 +23,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-30T10:37:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-07-01T15:46:24.962447+05:30'
-last_seen: '2026-07-01T15:46:24.962447+05:30'
-last_checked: '2026-07-01T15:46:24.962447+05:30'
+first_seen: '2026-07-01T20:44:29.108509+05:30'
+last_seen: '2026-07-01T20:44:29.108509+05:30'
+last_checked: '2026-07-01T20:44:29.108509+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-driven RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using AutoML techniques, dynamically selecting optimal components (e.g., retrieval strategies, embeddings, LLMs) for performance and cost efficiency.
+- **AutoML-style RAG optimization**: Framework automates end-to-end RAG pipeline evaluation and optimization (retrieval, generation, and post-processing) using black-box optimization techniques (e.g., Bayesian optimization) to maximize performance metrics (e.g., answer correctness, relevance) without manual tuning.
 
-- **Comprehensive RAG Benchmarking**: Provides built-in evaluation tools for assessing RAG systems across metrics like answer correctness, retrieval quality, and latency, supporting benchmarking against custom datasets or standardized RAG benchmarks.
+- **Modular & extensible architecture**: Supports customizable components (e.g., document parsers, embedders, retrievers, LLMs) with built-in support for 10+ retrieval strategies, 5+ rerankers, and 20+ evaluation metrics (e.g., EM, F1, BERTScore) via a unified YAML/JSON configuration.
 
-- **Modular Pipeline & Document Processing**: Features a modular RAG pipeline with configurable stages (retrieval, generation, post-processing) and built-in document parsers, enabling end-to-end automation from raw text ingestion to optimized LLM inference.
+- **Benchmarking & deployment tools**: Includes a `RAGBenchmark` class for standardized evaluation across datasets (e.g., MS MARCO, TriviaQA) and `RAGPipeline` for production deployment with caching, async I/O, and integration with APIs (e.g., OpenAI, Hugging Face).
 
 ## Why It Matters
 
@@ -45,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Marker-Inc-Korea
-- Stars: 4850
+- Stars: 4852
 - Forks: 405
 - Language: Python
 - Topics: analysis, automl, benchmarking, document-parser, embeddings, evaluation, llm, llm-evaluation, llm-ops, open-source, ops, optimization, pipeline, python, qa, rag, rag-evaluation, retrieval-augmented-generation
-- Last Updated: 2026-07-01T05:33:22Z
+- Last Updated: 2026-07-01T12:24:19Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-01-10T12:25:00Z

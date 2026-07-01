@@ -11,13 +11,14 @@ tags:
 - anthropic
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:xbtlin/ai-berkshire
 first_seen: '2026-06-25T16:35:46.162141+05:30'
 last_seen: '2026-07-01T15:44:52.068279+05:30'
 last_checked: '2026-07-01T15:44:52.068279+05:30'
 health_score: 100
 ---
+
 
 # xbtlin/ai-berkshire
 

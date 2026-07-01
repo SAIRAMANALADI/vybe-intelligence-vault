@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive AI Agent Repository**: Curated list of 300+ AI agents, frameworks, and tools categorized into 20+ sections, updated monthly.
-- **Key Technologies Covered**: Includes resources on ChatGPT, LangChain, LLMs, and machine learning frameworks.
-- **GitHub Metadata**: 1,357 stars, 441 forks, last updated July 1, 2026.
+- **Comprehensive AI Agents Resource**: Curated list of 300+ AI agents, frameworks, and tools across 20+ categories, updated monthly for 2026.
+- **High Engagement Metrics**: 1,364 stars and 441 forks, indicating strong community adoption and interest.
+- **Diverse Technical Scope**: Covers AI agents, LLM frameworks (LangChain, ChatGPT), machine learning tools, and emerging 2026 technologies.
 
 ## Use Cases
 

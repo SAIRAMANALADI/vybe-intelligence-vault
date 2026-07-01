@@ -12,9 +12,11 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
+- hackernews
 - openai
 - python
 - rag
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Automated security scanner for RAG/LLM-based AI applications (e.g., chatbots, virtual assistants) to detect critical vulnerabilities like prompt injection, OWASP Top 10 risks, and red-team attack vectors.
-- **Features**: Implements penetration testing, automated security audits, and vulnerability scanning for AI systems using Python, with support for OpenAI and other LLM frameworks.
-- **Scope**: Focuses on AI security, LLM security, RAG security, and cybersecurity testing, includi
+- **Purpose**: Identifies critical vulnerabilities in AI-powered applications (e.g., chatbots, RAG systems) via automated security testing, covering prompt injection, OWASP Top 10 risks, and LLM-specific threats.
+- **Features**: Supports red-teaming, security audits, and penetration testing; integrates with OpenAI and other LLM frameworks; detects adversarial attacks in retrieval-augmented generation (RAG) pipelines.
+- **Technical Stack**: Python-based tool with automated testing capabilities, d
 
 ## Use Cases
 

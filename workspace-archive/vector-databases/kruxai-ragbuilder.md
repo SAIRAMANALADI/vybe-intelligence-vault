@@ -6,15 +6,17 @@ source_url: https://github.com/KruxAI/ragbuilder
 resource_id: github:kruxai/ragbuilder
 local_vault_path: ai/rag/kruxai-ragbuilder.md
 quality_score: 70
-archive_score: 85
-archive_tier: essential
+archive_score: 75
+archive_tier: useful
 resource_kind: benchmark
-importance: high
+importance: medium
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -24,18 +26,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 85 (essential)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Production-Ready RAG Pipeline**: Provides a modular Python toolkit for constructing end-to-end Retrieval Augmented Generation (RAG) systems optimized for deployment, including data ingestion, vector storage, and retrieval components.
+- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with customizable components (e.g., embedders, retrievers, LLMs) and optimized workflows for data ingestion, indexing, and retrieval.
 
-- **Modular Architecture**: Supports customizable components (e.g., embedders, retrievers, LLMs) with plug-and-play interfaces to tailor RAG pipelines for specific use cases and data formats.
+- **Performance Optimization**: Implements advanced techniques like dynamic chunking, reranking, and hybrid search (dense + sparse retrieval) to enhance retrieval accuracy and reduce latency in real-world deployments.
 
-- **Performance Optimization**: Includes utilities for benchmarking,
+- **Evaluation & Deployment**: Includes
 
 ## Use Cases
 

@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-07-01T15:46:49.976494+05:30'
+collected_at: '2026-07-01T20:44:54.174633+05:30'
 published_at: '2026-06-30T16:43:51Z'
 tags:
-- benchmark
 - github-repo
+- hackernews
 - openai
 - python
 - rag
@@ -18,11 +18,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-06-30T12:46:56Z'
+pushed_at: '2026-07-01T13:19:10Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-07-01T15:46:49.976494+05:30'
-last_seen: '2026-07-01T15:46:49.976494+05:30'
-last_checked: '2026-07-01T15:46:49.976494+05:30'
+first_seen: '2026-07-01T20:44:54.174633+05:30'
+last_seen: '2026-07-01T20:44:54.174633+05:30'
+last_checked: '2026-07-01T20:44:54.174633+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Deploys Retrieval-Augmented Generation (RAG) pattern using Azure AI Search for retrieval and Azure OpenAI LLMs for generative responses, enabling ChatGPT-style and Q&A interactions.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for ChatGPT-style/Q&A interactions, incorporating common requirements and best practices.
 
-- **Azure Integration**: Leverages Azure-native services (AI Search, OpenAI) with Python-based deployment, including AZD templates for infrastructure-as-code and best-practice configurations.
+- **Technical Stack**: Built in **Python**, leveraging **Azure Developer CLI (azd) templates** for deployment, with integration points for **Azure AI Search**, **Azure OpenAI**, and OpenAI models.
 
-- **Scalable Architecture**: Provides a production-ready accelerator with common enterprise requirements (e.g., authentication, data ingestion pipelines, and evaluation frameworks) pre-configured.
+- **Deployment & Updates**: Uses **azd templates** for infrastructure-as-code deployment; last updated **2026-06-30** with active community engagement (1,172 stars, 643 forks).
 
 ## Why It Matters
 
@@ -51,7 +51,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-06-30T12:46:56Z
+- Pushed At: 2026-07-01T13:19:10Z
 
 ## Possible Use Cases
 

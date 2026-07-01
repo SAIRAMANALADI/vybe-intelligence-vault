@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: A Python-based AI cookbook providing practical examples and tutorials for building AI systems, covering topics like agents, LLMs, and integration with services such as Anthropic and OpenAI.
+- **Repository Overview**: GitHub repository `daveebbelaar/ai-cookbook` provides practical examples and tutorials for building AI systems, primarily in Python, with a focus on agents, LLMs, and integration with Anthropic and OpenAI APIs.
 
-- **Key Metrics**: 4,264 stars, 1,505 forks, last updated on July 1, 2026, with active development in AI/ML tooling and frameworks.
+- **Technical Scope**: Covers key AI topics including agent frameworks, large language model (LLM) implementations, and API interactions for Anthropic and OpenAI, serving as a hands-on guide for developers.
 
-- **Technical Focus**: Demonstrates implementation of AI agents, large language models (LLMs), and API integrations using Python, serving as a hands-
+- **Metadata**: 4,266 stars, 1,505 forks, last update
 
 ## Use Cases
 

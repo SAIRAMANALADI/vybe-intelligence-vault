@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/duanyytop/agents-radar
-collected_at: '2026-07-01T15:47:40.025862+05:30'
+collected_at: '2026-07-01T20:45:44.137396+05:30'
 published_at: '2026-07-01T09:24:07Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-23T03:22:26Z'
 pushed_at: '2026-07-01T03:02:09Z'
 resource_id: github:duanyytop/agents-radar
-first_seen: '2026-07-01T15:47:40.025862+05:30'
-last_seen: '2026-07-01T15:47:40.025862+05:30'
-last_checked: '2026-07-01T15:47:40.025862+05:30'
+first_seen: '2026-07-01T20:45:44.137396+05:30'
+last_seen: '2026-07-01T20:45:44.137396+05:30'
+last_checked: '2026-07-01T20:45:44.137396+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Automated AI Ecosystem Aggregator**: Daily digest compiling AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, etc.) using GitHub Actions for bilingual ZH/EN reports.
-- **Technical Stack**: Implemented in TypeScript, with scheduled updates (last commit: 2026-07-01T09:24:07Z).
-- **Repository Metrics**: 868 stars, 139 forks, no predefined topics; purely data-driven curation of AI advancements.
+- **Automated AI Ecosystem Aggregator**: Daily digest of AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) using GitHub Actions for bilingual ZH/EN reports.
+- **Technical Stack**: Implemented in TypeScript, with scheduled updates (last commit: 2026-07-01T09:24:07Z) and no explicit dependency management visible in the provided metadata.
+- **Repository Metrics**: 868 stars, 139 forks, no listed topics, indicating a niche but growing tool for AI ecosystem monitoring.
 
 ## Why It Matters
 

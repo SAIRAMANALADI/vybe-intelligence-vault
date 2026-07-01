@@ -7,7 +7,7 @@ source_url: https://martinuke0.github.io/posts/2026-01-06-the-best-rag-framework
 resource_id: blog:the-best-rag-frameworks-in-2026-a-comprehensive-gu
 local_vault_path: ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -32,7 +32,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Dominates RAG with 700+ integrations, LangGraph for agentic workflows, and modular chains for retrieval/reranking/generation; supports Pinecone/Weaviate; steep learning curve but strong production tools (LangSmith).
-- **LlamaIndex**: Optimized for data ingestion/indexing with multimodal support (text/images/PDFs), advanced query engines, and 100+ data source integrations; excels in retrieval accuracy for knowledge-intensive applications.
-- **Haystack**: Enterprise-focused with p
+- **LangChain**: Dominates with 700+ integrations, LangGraph for agentic workflows, and modular chains for retrieval, reranking, and generation; ideal for complex, multi-tool pipelines with native observability via LangSmith.
+- **LlamaIndex**: Optimized for advanced indexing and retrieval, supporting multimodal data (text/images/PDFs) with 100+ data source integrations and sophisticated query engines for high-accuracy RAG applications.
+- **Haystack**: Enterprise-focused framework with pipeline a
 
 ## Use Cases
 

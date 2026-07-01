@@ -17,7 +17,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -36,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive LLM Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable MLOps workflows.
-
-- **Technical Focus Areas**: Includes fine-tuning LLMs, evaluation methodologies, system design for ML pipelines, and RAG (Retrieval-Augmented Generation) implementation strategies.
-
-- **AWS-Centric Implementation**: Demonstrates deployment of LLM applications on AWS using Python, with emphasis on MLOps and LLMOps practices
+- **Comprehensive LLM Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable ML system design.
+- **Technical Focus**: Includes fine-tuning LLMs, evaluation methodologies, and MLOps pipelines, with Python-based implementations for GenAI applications.
+- **AWS Integration**: Demonstrates deployment strategies and infrastructure management for LLM/RAG systems using AWS services.
 
 ## Use Cases
 

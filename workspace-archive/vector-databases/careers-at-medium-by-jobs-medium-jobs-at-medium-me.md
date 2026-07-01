@@ -2,7 +2,7 @@
 title: Careers at Medium | by Jobs @ Medium | Jobs at Medium | Medium
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e
+source_url: https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page
 resource_id: blog:careers-at-medium-by-jobs-medium-jobs-at-medium-me
 local_vault_path: ai/rag/careers-at-medium-by-jobs-medium-jobs-at-medium-me.md
 quality_score: 70
@@ -10,11 +10,6 @@ archive_score: 70
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
-tags:
-- rag
-- reddit
-- web-crawled
-- youtube
 selection_reason:
 - Valuable developer reference
 ---
@@ -31,9 +26,11 @@ selection_reason:
 
 ## Summary
 
-- **Remote-first hiring & verification**: Medium operates as a 100% remote company with roles listed exclusively on [Greenhouse.io](https://job-boards.greenhouse.io/medium); external job offers (e.g., LinkedIn) may be scams and should be verified via [help.medium.com](http://help.medium.com/).
+- **Mission & Values**: Medium prioritizes a high-quality, open platform for storytelling, emphasizing diversity, inclusion, and freedom from harmful content, with a remote-first culture and bi-annual all-company retreats.
 
-- **Mission-driven culture**: Focuses on building an ad-free, inclusive publishing platform prioritizing high-quality content, free from harassment, with employee benefits including home office stipends,
+- **Benefits & Support**: Offers comprehensive health insurance, 401(k) plans, unlimited PTO, parental leave, home office stipends, Wi-Fi reimbursement, mental health support, and professional development resources.
+
+- **Hiring & AI Policy**: All positions are listed exclusiv
 
 ## Use Cases
 
@@ -43,7 +40,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e
+Original source URL: https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page
 
 ## Local Vault File
 

@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Role**: Senior Data Platform Engineer (Remote - US) at Medium, focusing on building scalable infrastructure for reading/writing content.
-- **Responsibilities**: Design, develop, and maintain data pipelines, storage systems, and analytics platforms to support Medium’s content ecosystem.
-- **Requirements**: Expertise in distributed systems, big data technologies (e.g., Spark, Kafka), and cloud platforms (e.g., AWS/GCP), with 5+ years of relevant experience.
+- **Remote US Role**: Seeking a **Senior Data Platform Engineer** to enhance Medium's data infrastructure, focusing on scalability, reliability, and performance optimization for large-scale distributed systems.
+- **Core Responsibilities**: Design, develop, and maintain **scalable data pipelines**, **storage solutions**, and **analytics platforms** to support real-time and batch processing for user-generated content and engagement metrics.
+- **Technical Stack**: Requires expertise in **big data t
 
 ## Use Cases
 

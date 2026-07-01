@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-07-01T15:46:35.036539+05:30'
+collected_at: '2026-07-01T20:44:39.213861+05:30'
 published_at: '2026-06-30T11:27:37Z'
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
-- workflows
 stars: 1460
 language: Jupyter Notebook
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-06-30T09:33:23Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-07-01T15:46:35.036539+05:30'
-last_seen: '2026-07-01T15:46:35.036539+05:30'
-last_checked: '2026-07-01T15:46:35.036539+05:30'
+first_seen: '2026-07-01T20:44:39.213861+05:30'
+last_seen: '2026-07-01T20:44:39.213861+05:30'
+last_checked: '2026-07-01T20:44:39.213861+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook examples demonstrating usage of all available foundational models in Amazon Bedrock, including Amazon Titan and other supported models.
+- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples covering all available foundational models (e.g., Amazon Titan) for quick customer onboarding and experimentation.
 
-- **Multi-Faceted AI Integration**: Includes implementations for embeddings, generative AI, knowledge bases, and Retrieval-Augmented Generation (RAG) using LangChain, showcasing end-to-end AI workflows.
+- **Multi-Feature Technical Demos**: Includes implementations for embeddings, generative AI, knowledge bases, and Retrieval-Augmented Generation (RAG) using LangChain integration.
 
-- **AWS Best Practices**: Examples are designed to help customers quickly adopt Amazon Bedrock services while adhering to AWS architectural and security best practices.
+- **AWS Service Integration**: Demonstrates practical use cases leveraging Amazon Bedrock’s capabilities within AWS ecosystems, updated as of June 30, 2026.
 
 ## Why It Matters
 

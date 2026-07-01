@@ -5,18 +5,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY
-published_at: '2026-07-01T15:45:53.818295+05:30'
-collected_at: '2026-07-01T15:45:53.818312+05:30'
+published_at: '2026-07-01T20:43:57.084102+05:30'
+collected_at: '2026-07-01T20:43:57.084113+05:30'
 tags:
-- hackernews
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:complete-rag-tutorial-2025-build-ai-apps-with-retr
-first_seen: '2026-07-01T15:45:53.818312+05:30'
-last_seen: '2026-07-01T15:45:53.818312+05:30'
-last_checked: '2026-07-01T15:45:53.818312+05:30'
+first_seen: '2026-07-01T20:43:57.084113+05:30'
+last_seen: '2026-07-01T20:43:57.084113+05:30'
+last_checked: '2026-07-01T20:43:57.084113+05:30'
 health_score: 100
 ---
 
@@ -24,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- YouTube operates under Google LLC, providing a platform for video sharing, streaming, and monetization with dedicated resources for creators, advertisers, and developers.
-- Key technical and policy documentation includes **Terms of Service**, **Privacy Policy**, **Copyright Guidelines**, and **How YouTube Works** (detailing infrastructure, algorithms, and operational mechanics).
-- Additional services include **YouTube Premium**, **NFL Sunday Ticket**, experimental feature testing (`/new`), and developer APIs via **Google Developers**.
+- YouTube operates under Google LLC, adhering to global privacy, copyright, and policy frameworks (e.g., GDPR, DMCA) with structured enforcement via automated systems and human review.
+- The platform provides APIs (YouTube Data, Analytics, Live Streaming) for developers, enabling integration of video uploads, metadata management, and real-time analytics.
+- Monetization pathways include AdSense integration, YouTube Premium revenue sharing, and NFL Sunday Ticket exclusivity for live sports broadcasting.
 
 ## Why It Matters
 
@@ -36,11 +35,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T15:45:53.818295+05:30
+- Published: 2026-07-01T20:43:57.084102+05:30
 
 ## Related Tags
 
-- hackernews
 - rag
 - web-crawled
 - youtube

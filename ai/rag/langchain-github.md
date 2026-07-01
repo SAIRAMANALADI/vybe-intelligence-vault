@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-07-01T15:50:27.410385+05:30'
-collected_at: '2026-07-01T15:50:27.410397+05:30'
+published_at: '2026-07-01T20:47:09.600688+05:30'
+collected_at: '2026-07-01T20:47:09.600699+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-07-01T15:50:27.410397+05:30'
-last_seen: '2026-07-01T15:50:27.410397+05:30'
-last_checked: '2026-07-01T15:50:27.410397+05:30'
+first_seen: '2026-07-01T20:47:09.600699+05:30'
+last_seen: '2026-07-01T20:47:09.600699+05:30'
+last_checked: '2026-07-01T20:47:09.600699+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: `LangChain`/`LangChain.js` provide reusable LLM application components and integrations; `LangGraph`/`LangGraph.js` enable agent construction via graph-based workflows; `Deep Agents`/`Deep Agents.js` support hierarchical agent planning with filesystem access.
+- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as computational graphs for complex workflows.
 
-- **Commercial & OSS Extensions**: `LangSmith` offers production-grade LLM app development/monitoring; `Deep Agents Code` and `Open SWE` provide terminal/coding agents; `MCP Adapters` bridge MCP tools with LangChain/LangGraph; `Agent Protocol` standardizes framework-agnostic LLM agent APIs.
+- **Agent Frameworks**: Deep Agents/Deep Agents.js support hierarchical agent planning, subagent delegation, and filesystem interactions for advanced task execution.
 
-- **Documentation & Community**: Unified docs at [docs.langchain.com](https://docs.langchain.com/); active community forum and free courses via `LangChain Academy`.
+- **Commercial & Extensible Tools**: LangSmith offers production-grade LLM application monitoring, while MCP Adapters and Agent Protocol standardize framework-agnostic APIs for agent interoperability.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T15:50:27.410385+05:30
+- Published: 2026-07-01T20:47:09.600688+05:30
 
 ## Related Tags
 

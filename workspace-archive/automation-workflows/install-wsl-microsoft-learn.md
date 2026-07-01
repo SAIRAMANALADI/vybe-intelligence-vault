@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **WSL Installation**: WSL can be installed via `wsl --install` (Windows 10 2004+/Win11), enabling Linux distros (e.g., Ubuntu) without a VM. Older systems require manual steps or `--list --online` to select a distro (`wsl --install -d <Distro>`).
+- **WSL Installation**: WSL can be installed via `wsl --install` in PowerShell (admin) on Windows 10 (2004+) or Windows 11, enabling Linux distro integration (e.g., Ubuntu) without a VM. Legacy systems require manual steps or `wsl --list --online` + `wsl --install -d <Distro>` for specific distributions.
 
-- **WSL Versions & Management**: WSL 2 is default; versions can be checked with `wsl -l -v` and switched via `wsl --set-version <Distro> <1|2>`. Default distros/commands are configurable (`wsl --set-default <Distro>`).
-
-- **Offline/Advanced Setup**:
+- **WSL Version Management**: WSL 2 is default for new installs (`wsl -l -v`). Version upgrades/downgrades use `wsl --set-version <Distro> <1|2>`. Default distro/user setup is configured post-i
 
 ## Use Cases
 

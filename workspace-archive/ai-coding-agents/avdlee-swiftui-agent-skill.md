@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 selection_reason:
 - Strong keyword match
@@ -32,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Open-source Python-based SwiftUI best practices repository (`AvdLee/SwiftUI-Agent-Skill`) designed to integrate expert guidance into AI coding tools via the Agent Skills open format.
-
-- **Key Metrics**: 3,147 stars, 146 forks, last updated on **2026-06-30**, with no explicit topic tags.
-
-- **Purpose**: Provides structured SwiftUI expertise to enhance AI-driven code generation/assistance tools.
+- **Purpose**: Provides expert SwiftUI best practices guidance for AI coding tools via the Agent Skills open format.
+- **Technical Stack**: Implemented in Python, designed to integrate with AI agents supporting the Agent Skills format.
+- **Metadata**: 3,153 stars, 146 forks, last updated July 1, 2026.
 
 ## Use Cases
 

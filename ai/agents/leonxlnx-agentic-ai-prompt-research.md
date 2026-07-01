@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-07-01T15:48:50.235280+05:30'
+collected_at: '2026-07-01T20:46:54.266104+05:30'
 published_at: '2026-07-01T07:43:44Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - unknown
+- workflows
 stars: 2470
 language: Unknown
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-07-01T15:48:50.235280+05:30'
-last_seen: '2026-07-01T15:48:50.235280+05:30'
-last_checked: '2026-07-01T15:48:50.235280+05:30'
+first_seen: '2026-07-01T20:46:54.266104+05:30'
+last_seen: '2026-07-01T20:46:54.266104+05:30'
+last_checked: '2026-07-01T20:46:54.266104+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and agent coordination mechanisms for autonomous AI coding assistants, emphasizing multi-agent collaboration and task decomposition.
+- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and coordination mechanisms for autonomous AI coding agents, emphasizing multi-agent collaboration workflows and task decomposition strategies.
 
-- **Security Classification Framework**: Proposes a security classification system for agentic AI prompts, addressing vulnerabilities in prompt injection, data leakage, and adversarial attacks.
+- **Security Classification Framework**: Implements a security classification system for agentic AI interactions, categorizing prompts and outputs based on potential risks (e.g., code injection, data leakage) and mitigation protocols.
 
-- **System Prompt Engineering**: Investigates advanced system prompt engineering techniques for Claude and other agentic AI models to optimize performance, reliability, and safety in coding tasks.
+- **System Prompt Optimization**: Analyzes and refines system prompts for agentic AI assistants (e.g., Claude), optimizing for context retention, tool integration, and adaptive reasoning in software development tasks.
 
 ## Why It Matters
 

@@ -4,11 +4,10 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tv.youtube.com/learn/nflsundayticket
-published_at: '2026-07-01T15:49:11.126269+05:30'
-collected_at: '2026-07-01T15:49:11.126284+05:30'
+published_at: '2026-07-01T20:47:14.830088+05:30'
+collected_at: '2026-07-01T20:47:14.830098+05:30'
 tags:
 - agents
-- hackernews
 - models
 - rag
 - reddit
@@ -16,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-exclusive-home-of-nfl-sunday-ticket-youtube-yo
-first_seen: '2026-07-01T15:49:11.126284+05:30'
-last_seen: '2026-07-01T15:49:11.126284+05:30'
-last_checked: '2026-07-01T15:49:11.126284+05:30'
+first_seen: '2026-07-01T20:47:14.830098+05:30'
+last_seen: '2026-07-01T20:47:14.830098+05:30'
+last_checked: '2026-07-01T20:47:14.830098+05:30'
 health_score: 100
 ---
 
@@ -26,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Pricing & Plans**: New users can subscribe to NFL Sunday Ticket via YouTube TV for **$20/month for 12 months ($240 total)** or standalone for the same price; returning users pay **$31.50/month ($378 total)**. Requires active YouTube TV plan for bundled option.
+- **Pricing & Bundling**: NFL Sunday Ticket offers new users **$240/yr** ($20/mo for 12 months) for out-of-market Sunday games; bundling with YouTube TV Sports Plan adds **$54.99/mo (first 12 months)**, then **$64.99/mo**, requiring an active Sports Plan to retain access.
 
-- **Coverage & Features**: Grants access to **all out-of-market Sunday NFL games** (32 teams, AFC/NFC), multiview (up to 4 games), NFL RedZone (optional), and live TV channels (ABC, CBS, FOX, ESPN, etc.) with unlimited cloud DVR.
+- **Coverage & Features**: Includes **all 32 NFL teams’ out-of-market Sunday games**, multiview (up to 4 games simultaneously), fantasy tracking, and key-play highlights; excludes digital-only games and commercial use.
 
-- **Technical Requirements**: Requires **high-speed internet (3+ Mbps minimum, 7+ Mbps recommended)** and supported devices (YouTube/YouTube TV apps). No satellite dish or cable subscription needed; commercial use excluded.
+- **Access & Requirements**: Requires **high-speed internet (3+ Mbps recommended)**, compatible devices (YouTube/YouTube TV apps), and **no long-term contracts**; cancellation of YouTube TV Sports Plan revokes NFL Sunday Ticket access.
 
 ## Why It Matters
 
@@ -40,12 +39,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T15:49:11.126269+05:30
+- Published: 2026-07-01T20:47:14.830088+05:30
 
 ## Related Tags
 
 - agents
-- hackernews
 - models
 - rag
 - reddit

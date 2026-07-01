@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-07-01T15:47:20.030891+05:30'
+collected_at: '2026-07-01T20:45:24.183896+05:30'
 published_at: '2026-06-30T12:14:06Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
+- workflows
 stars: 1535
 language: Python
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-07-01T15:47:20.030891+05:30'
-last_seen: '2026-07-01T15:47:20.030891+05:30'
-last_checked: '2026-07-01T15:47:20.030891+05:30'
+first_seen: '2026-07-01T20:45:24.183896+05:30'
+last_seen: '2026-07-01T20:45:24.183896+05:30'
+last_checked: '2026-07-01T20:45:24.183896+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Production-Ready RAG Pipeline**: Provides a modular Python toolkit for constructing end-to-end Retrieval Augmented Generation (RAG) systems optimized for deployment, including data ingestion, vector storage, and retrieval components.
+- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with customizable components (e.g., embedders, retrievers, LLMs) and optimized workflows for data ingestion, indexing, and retrieval.
 
-- **Modular Architecture**: Supports customizable components (e.g., embedders, retrievers, LLMs) with plug-and-play interfaces to tailor RAG pipelines for specific use cases and data formats.
+- **Performance Optimization**: Implements advanced techniques like dynamic chunking, reranking, and hybrid search (dense + sparse retrieval) to enhance retrieval accuracy and reduce latency in real-world deployments.
 
-- **Performance Optimization**: Includes utilities for benchmarking, latency tuning, and cost-efficiency analysis to ensure scalable, high-performance RAG deployments in production environments.
+- **Evaluation & Deployment**: Includes built-in benchmarking tools for assessing RAG performance (e.g., retrieval precision, answer correctness) and supports seamless integration with cloud platforms (e.g., AWS, GCP) for scalable deployment.
 
 ## Why It Matters
 

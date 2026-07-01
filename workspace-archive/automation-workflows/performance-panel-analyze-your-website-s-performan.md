@@ -9,9 +9,10 @@ local_vault_path: ai/resources/performance-panel-analyze-your-website-s-performa
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - web-crawled
 - workflows
 - youtube
@@ -26,15 +27,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Core Web Vitals Monitoring**: The Performance panel in Chrome DevTools provides real-time tracking of **LCP (Largest Contentful Paint)**, **CLS (Cumulative Layout Shift)**, and **INP (Interaction to Next Paint)** metrics, offering live scores (Good/Needs Improvement/Bad) and detailed breakdowns via tooltips.
-- **Field Data Integration & Environment Emulation**: Supports fetching **Chrome UX Report (CrUX)** field data for comparison with local metrics, with advanced configuration options to m
+- **Core Web Vitals Monitoring**: The Performance panel in Chrome DevTools captures and displays real-time **LCP (Largest Contentful Paint)**, **CLS (Cumulative Layout Shift)**, and **INP (Interaction to Next Paint)** metrics, providing immediate Core Web Vitals assessment with scores (Good/Needs Improvement/Bad) based on local device performance.
+
+- **Field Data Comparison & Environment Throttling**: Enables fetching and comparison of **Chrome UX Report field data** against local metrics, with
 
 ## Use Cases
 

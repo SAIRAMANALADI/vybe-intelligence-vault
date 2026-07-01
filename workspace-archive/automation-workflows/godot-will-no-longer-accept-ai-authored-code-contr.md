@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by pjmlp. Score: 163, Comments: 85.
+Hacker News story by pjmlp. Score: 448, Comments: 286.
 Original Link: https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/
 
 ## Use Cases

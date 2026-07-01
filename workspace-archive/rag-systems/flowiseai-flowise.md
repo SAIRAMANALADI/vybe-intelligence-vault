@@ -8,7 +8,7 @@ local_vault_path: ai/rag/flowiseai-flowise.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: template
 importance: medium
 tags:
 - agents
@@ -16,12 +16,13 @@ tags:
 - github-repo
 - openai
 - rag
+- reddit
 - scripts
 - typescript
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # FlowiseAI/Flowise
@@ -30,18 +31,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Visual AI Agent Builder**: Open-source, low/no-code platform (TypeScript/React) for constructing AI agents and workflows, leveraging LangChain and large language models (LLMs) like OpenAI.
+- **Visual AI Agent Builder**: Open-source, low/no-code TypeScript framework for constructing AI agents and multi-agent systems with LangChain integration, enabling agentic workflows and RAG pipelines via a React-based UI.
 
-- **Multi-Agent & RAG Support**: Enables multi-agent systems and retrieval-augmented generation (RAG) workflows for advanced AI applications.
+- **Multi-Model & Tool Integration**: Supports OpenAI, JavaScript/TypeScript agents, and external APIs with modular components for chatbots, workflow automation, and multi-agent collaboration.
 
-- **Extensible Architecture**: Modular design with 54K+ GitHub stars, supporting custom integrations, chatbots, and workflow automation via a visual interface.
+- **Deployment & Extensibility**: Self-hostable (Docker/Node.js), supports custom
 
 ## Use Cases
 

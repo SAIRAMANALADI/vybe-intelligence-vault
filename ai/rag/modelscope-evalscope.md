@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/modelscope/evalscope
-collected_at: '2026-07-01T15:47:05.034188+05:30'
-published_at: '2026-07-01T09:17:16Z'
+collected_at: '2026-07-01T20:45:09.136322+05:30'
+published_at: '2026-07-01T11:26:18Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
-stars: 3014
+stars: 3013
 language: Python
 status: active
 license: Apache-2.0
@@ -21,9 +19,9 @@ archived: false
 created_at: '2023-12-07T06:10:49Z'
 pushed_at: '2026-07-01T09:17:10Z'
 resource_id: github:modelscope/evalscope
-first_seen: '2026-07-01T15:47:05.034188+05:30'
-last_seen: '2026-07-01T15:47:05.034188+05:30'
-last_checked: '2026-07-01T15:47:05.034188+05:30'
+first_seen: '2026-07-01T20:45:09.136322+05:30'
+last_seen: '2026-07-01T20:45:09.136322+05:30'
+last_checked: '2026-07-01T20:45:09.136322+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with modular design for efficiency and adaptability.
+- **Framework Purpose**: Streamlined, customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with support for RAG performance assessment.
 
-- **Core Capabilities**: Supports evaluation across key domains including LLM, VLM, RAG, and performance metrics, enabling standardized and reproducible benchmarking.
+- **Key Features**: Modular design for extensibility, enabling efficient performance comparison across diverse model architectures and tasks.
 
-- **Technical Attributes**: Open-source repository (3014 stars, 409 forks) with active maintenance (last updated July 2026), optimized for extensibility and integration with large model workflows.
+- **Repository Stats**: 3,013 stars, 409 forks, last updated July 1, 2026.
 
 ## Why It Matters
 
@@ -44,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: modelscope
-- Stars: 3014
+- Stars: 3013
 - Forks: 409
 - Language: Python
 - Topics: evaluation, llm, performance, rag, vlm
-- Last Updated: 2026-07-01T09:17:16Z
+- Last Updated: 2026-07-01T11:26:18Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-07T06:10:49Z

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-01T15:47:29.973942+05:30'
+collected_at: '2026-07-01T20:45:34.145246+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-01T15:47:29.973942+05:30'
-last_seen: '2026-07-01T15:47:29.973942+05:30'
-last_checked: '2026-07-01T15:47:29.973942+05:30'
+first_seen: '2026-07-01T20:45:34.145246+05:30'
+last_seen: '2026-07-01T20:45:34.145246+05:30'
+last_checked: '2026-07-01T20:45:34.145246+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Memory Organization**: Introduces a novel RAG architecture (ComoRAG) that mimics human memory structures to enhance stateful long narrative reasoning, leveraging episodic and semantic memory layers for dynamic context retention.
+- **Cognitive-Inspired Memory Architecture**: Introduces a memory-organized RAG (Retrieval-Augmented Generation) system inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retention and retrieval.
 
-- **Stateful Long Narrative Reasoning**: Enables persistent, evolving reasoning over extended narratives by organizing retrieved information into memory hierarchies, improving coherence and contextual understanding in multi-turn interactions.
+- **Stateful Long Narrative Reasoning**: Implements dynamic memory updates and hierarchical organization to maintain contextual coherence across extended dialogues or documents, enhancing reasoning over sequential or interconnected narratives.
 
-- **AAAI 2026 Poster Submission**: Presented as a cutting-edge approach in retrieval-augmented generation (RAG), with open-source Python implementation optimized for scalability and adaptability in complex reasoning tasks.
+- **AAAI 2026 Poster Submission**: Presented as a cutting-edge approach in the AAAI 2026 conference, emphasizing advancements in memory-augmented RAG systems for complex, multi-turn reasoning tasks.
 
 ## Why It Matters
 

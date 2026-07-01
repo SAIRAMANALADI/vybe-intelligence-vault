@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository containing Jupyter Notebooks focused on Retrieval-Augmented Generation (RAG) tutorials, with 359 stars and 331 forks.
-- **Technical Focus**: No explicit description provided, but content likely covers RAG implementation, evaluation, and optimization techniques in a notebook-based format.
-- **Last Activity**: Repository last updated on **July 1, 2026**, indicating recent or ongoing development.
+- **Repository Overview**: GitHub repository containing Jupyter Notebooks focused on Retrieval-Augmented Generation (RAG) tutorials.
+- **Metadata**: 360 stars, 330 forks, last updated on July 1, 2026.
+- **Technical Details**: Written in Jupyter Notebook format, no additional topics or description provided.
 
 ## Use Cases
 

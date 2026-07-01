@@ -9,13 +9,14 @@ collected_at: '2026-07-01T15:44:52.069271+05:30'
 tags:
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:roboflow/supervision
 first_seen: '2026-06-30T20:14:10.926530+05:30'
 last_seen: '2026-07-01T15:44:52.069271+05:30'
 last_checked: '2026-07-01T15:44:52.069271+05:30'
 health_score: 100
 ---
+
 
 # roboflow/supervision
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/langsmith/home
-published_at: '2026-07-01T15:52:13.094919+05:30'
-collected_at: '2026-07-01T15:52:13.094934+05:30'
+published_at: '2026-07-01T20:48:18.071138+05:30'
+collected_at: '2026-07-01T20:48:18.071151+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langsmith-observability-docs-by-langchain
-first_seen: '2026-07-01T15:52:13.094934+05:30'
-last_seen: '2026-07-01T15:52:13.094934+05:30'
-last_checked: '2026-07-01T15:52:13.094934+05:30'
+first_seen: '2026-07-01T20:48:18.071151+05:30'
+last_seen: '2026-07-01T20:48:18.071151+05:30'
+last_checked: '2026-07-01T20:48:18.071151+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Full-stack LLM Observability**: LangSmith provides end-to-end visibility into LLM applications, capturing granular traces, production metrics, and performance analytics across frameworks (OpenAI, Anthropic, CrewAI, etc.) via [available integrations](https://docs.langchain.com/langsmith/integrations).
+- **LangSmith Observability** provides end-to-end visibility into LLM applications, enabling trace-level debugging, performance monitoring, and production-wide metrics across frameworks like OpenAI, Anthropic, and CrewAI via [available integrations](https://docs.langchain.com/langsmith/integrations).
 
-- **Automated Debugging & Monitoring**: Engine feature auto-detects failures, diagnoses root causes, and enables proactive issue resolution; supports trace filtering, dashboarding, alerting, and automated workflows (webhooks, evaluations).
+- **Core features** include automated failure detection with **Engine**, trace filtering/export via UI/API, dashboard-based performance monitoring, and feedback collection through inline annotation or queues.
 
-- **Deployment Flexibility**: Supports cloud, hybrid, or self-hosted LangSmith instances with unified observability, evaluation, prompt engineering, and deployment capabilities; setup via [Platform setup](https://docs.langchain.com/langsmith/platform-setup).
+- **Setup workflow**: Create a [LangSmith account](https://smith.langchain.com), generate an API key, instrument apps via environment variables/SDK, and deploy via cloud/hybrid/self-hosted options with observability, evaluation, and prompt engineering included.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T15:52:13.094919+05:30
+- Published: 2026-07-01T20:48:18.071138+05:30
 
 ## Related Tags
 

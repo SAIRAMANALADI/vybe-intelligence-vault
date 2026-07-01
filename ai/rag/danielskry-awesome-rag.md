@@ -4,16 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Danielskry/Awesome-RAG
-collected_at: '2026-07-01T15:46:49.999940+05:30'
-published_at: '2026-07-01T06:37:21Z'
+collected_at: '2026-07-01T20:44:54.081108+05:30'
+published_at: '2026-07-01T13:45:12Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
-- models
 - rag
 - unknown
-stars: 1286
+stars: 1287
 language: Unknown
 status: active
 license: CC0-1.0
@@ -21,9 +18,9 @@ archived: false
 created_at: '2024-04-12T14:45:44Z'
 pushed_at: '2026-06-30T10:58:04Z'
 resource_id: github:danielskry/awesome-rag
-first_seen: '2026-07-01T15:46:49.999940+05:30'
-last_seen: '2026-07-01T15:46:49.999940+05:30'
-last_checked: '2026-07-01T15:46:49.999940+05:30'
+first_seen: '2026-07-01T20:44:54.081108+05:30'
+last_seen: '2026-07-01T20:44:54.081108+05:30'
+last_checked: '2026-07-01T20:44:54.081108+05:30'
 health_score: 100
 ---
 
@@ -31,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: A comprehensive, community-driven repository listing cutting-edge Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI, spanning LLMs, multimodal systems, and domain-specific implementations.
-- **Technical Breadth**: Covers diverse RAG architectures, including vector databases (e.g., Pinecone, Weaviate), hybrid retrieval methods, and advanced techniques like self-RAG, fine-tuning strategies, and evaluation benchmarks.
-- **Active Maintenance**: Regularly updated (as of July 2026) with contributions from 1,286+ stars and 156+ forks, ensuring alignment with evolving RAG research trends and industry deployments.
+- **Curated RAG Resources**: A comprehensive, community-driven repository aggregating cutting-edge Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI.
+- **High-Engagement Open Source Project**: Maintained repository with 1,287 stars and 157 forks, indicating strong community adoption and interest in RAG methodologies.
+- **Multi-Topic Focus**: Covers core RAG concepts alongside practical implementations in large language models (LLMs), with the latest update as of July 1, 2026.
 
 ## Why It Matters
 
@@ -42,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Danielskry
-- Stars: 1286
-- Forks: 156
+- Stars: 1287
+- Forks: 157
 - Language: Unknown
 - Topics: artificial-intelligence, generative-ai, large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-07-01T06:37:21Z
+- Last Updated: 2026-07-01T13:45:12Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2024-04-12T14:45:44Z

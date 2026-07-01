@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/llmware-ai/llmware
-collected_at: '2026-07-01T15:49:05.125220+05:30'
-published_at: '2026-07-01T09:50:16Z'
+collected_at: '2026-07-01T20:47:09.272734+05:30'
+published_at: '2026-07-01T14:04:46Z'
 tags:
 - agents
 - github-repo
@@ -14,7 +14,7 @@ tags:
 - python
 - rag
 - workflows
-stars: 14816
+stars: 14815
 language: Python
 status: active
 license: Apache-2.0
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-09-29T15:19:06Z'
 pushed_at: '2026-05-17T13:53:37Z'
 resource_id: github:llmware-ai/llmware
-first_seen: '2026-07-01T15:49:05.125220+05:30'
-last_seen: '2026-07-01T15:49:05.125220+05:30'
-last_checked: '2026-07-01T15:49:05.125220+05:30'
+first_seen: '2026-07-01T20:47:09.272734+05:30'
+last_seen: '2026-07-01T20:47:09.272734+05:30'
+last_checked: '2026-07-01T20:47:09.272734+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified RAG Framework**: Provides an integrated Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models optimized for efficiency and performance.
+- **Framework Purpose**: Unified Python-based framework for constructing enterprise-grade RAG pipelines using small, specialized models (e.g., LlamaCpp, ONNX, OpenVINO) optimized for efficiency and scalability.
 
-- **Multi-Engine Support**: Supports multiple inference backends (e.g., LlamaCpp, ONNX, OpenVINO) and parsing tools, enabling flexible deployment across diverse hardware and software environments.
+- **Key Features**: Integrates parsing, retrieval augmentation, and generative AI tools with support for agent-based workflows and multi-model compatibility.
 
-- **Enterprise Features**: Includes agent-based workflows, document parsing, and retrieval mechanisms tailored for production-scale applications, with recent updates (as of July 2026) enhancing scalability and tooling.
+- **Performance & Compatibility**: Designed for low-latency inference with last update (July 2026) ensuring compatibility with modern AI toolchains and hardware acceleration.
 
 ## Why It Matters
 
@@ -45,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: llmware-ai
-- Stars: 14816
-- Forks: 2914
+- Stars: 14815
+- Forks: 2913
 - Language: Python
 - Topics: agents, generative-ai-tools, llamacpp, llm, onnx, openvino, parsing, retrieval-augmented-generation, small-specialized-models
-- Last Updated: 2026-07-01T09:50:16Z
+- Last Updated: 2026-07-01T14:04:46Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-09-29T15:19:06Z

@@ -30,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Scite's citation classification system** distinguishes between **citations** (raw references) and **citation statements** (contextual mentions in text), using machine learning to categorize them as supporting, contrasting, or mentioning, unlike traditional citation indexes.
+- **Scite's citation indexing** distinguishes itself by classifying citations into **supporting**, **contrasting**, or **mentioning** based on contextual analysis of citing sentences, unlike traditional citation indexes that only count citations.
 
-- **Scite's coverage** spans millions of documents across disciplines, with a transparent methodology for tracking citations, including handling retracted papers and misclassified entries via user correction mechanisms.
+- **Scite's coverage** spans millions of research articles across disciplines, with ongoing expansion via partnerships and automated ingestion of preprints and peer-reviewed publications.
+
+- **Scite's tools** include **Reference Check** (for identifyin
 
 ## Use Cases
 

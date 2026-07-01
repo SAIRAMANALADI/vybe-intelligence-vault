@@ -9,13 +9,14 @@ collected_at: '2026-07-01T15:44:52.069701+05:30'
 tags:
 - github-trending
 - haskell
-status: active
+status: inactive
 resource_id: github:simplex-chat/simplex-chat
 first_seen: '2026-06-26T20:18:15.053111+05:30'
 last_seen: '2026-07-01T15:44:52.069701+05:30'
 last_checked: '2026-07-01T15:44:52.069701+05:30'
 health_score: 100
 ---
+
 
 # simplex-chat/simplex-chat
 

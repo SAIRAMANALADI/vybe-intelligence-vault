@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/msoedov/agentic_security
-collected_at: '2026-07-01T15:48:55.067288+05:30'
+collected_at: '2026-07-01T20:46:59.204983+05:30'
 published_at: '2026-07-01T00:53:40Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
+- workflows
 stars: 1913
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-04-11T17:18:54Z'
 pushed_at: '2026-06-23T07:20:13Z'
 resource_id: github:msoedov/agentic_security
-first_seen: '2026-07-01T15:48:55.067288+05:30'
-last_seen: '2026-07-01T15:48:55.067288+05:30'
-last_checked: '2026-07-01T15:48:55.067288+05:30'
+first_seen: '2026-07-01T20:46:59.204983+05:30'
+last_seen: '2026-07-01T20:46:59.204983+05:30'
+last_checked: '2026-07-01T20:46:59.204983+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Agentic LLM Vulnerability Scanner is an AI red-teaming toolkit designed to evaluate and test LLM-based systems for security vulnerabilities, including jailbreaks, prompt injections, and adversarial attacks.
-- **Features**: Supports LLM fuzzing, vulnerability scanning, and evaluation frameworks with guardrails to assess robustness against malicious inputs and edge cases.
-- **Technical Stack**: Python-based, integrates with agent frameworks to automate security testing and aggregation of LLM vulnerabilities.
+- **Agentic LLM Vulnerability Scanner**: Python-based framework for evaluating LLM security via red teaming, fuzzing, and jailbreak detection, integrating agentic workflows for automated vulnerability assessment.
+
+- **Multi-Faceted Testing Modules**: Supports prompt testing, LLM guardrails evaluation, and aggregation of fuzzing results across diverse attack vectors (e.g., prompt injection, data exfiltration).
+
+- **Open-Source Toolkit**: 1,913+ GitHub stars with 267 forks, designed for extensibility in AI security research and enterprise LLM hardening. Last updated July 2026.
 
 ## Why It Matters
 

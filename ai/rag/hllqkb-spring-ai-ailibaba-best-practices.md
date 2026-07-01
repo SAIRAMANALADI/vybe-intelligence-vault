@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-07-01T15:46:44.982702+05:30'
+collected_at: '2026-07-01T20:44:49.176858+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - java
 - rag
+- reddit
 - workflows
 stars: 35
 language: Java
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-07-01T15:46:44.982702+05:30'
-last_seen: '2026-07-01T15:46:44.982702+05:30'
-last_checked: '2026-07-01T15:46:44.982702+05:30'
+first_seen: '2026-07-01T20:44:49.176858+05:30'
+last_seen: '2026-07-01T20:44:49.176858+05:30'
+last_checked: '2026-07-01T20:44:49.176858+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements a Java-based AI Q&A system leveraging Spring AI with Alibaba Cloud integrations, featuring SSE streaming, RAG with vector databases, and knowledge graph retrieval.
-- **Capabilities**: Supports agent-based workflows, function calling, historical message handling, image generation/understanding, and embedding-based retrieval with vector databases.
-- **Technologies**: Utilizes Java, Spring AI, embedding models, vector databases, and Alibaba Cloud services for multimodal and RAG-enhanced AI interactions.
+- **Multi-modal RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with Embedding/Vector Database integration, supporting text, image generation (via FunctionCall), and image understanding (OCR/visual QA) using Spring AI and Alibaba Cloud services.
+- **Agentic Workflows**: Demonstrates SSE (Server-Sent Events) streaming for real-time AI responses, FunctionCall for tool integration, and historical message management for conversational context in Java-based agent systems.
+- **Knowledge Graph & Vector Hybrid Search**: Combines knowledge graph retrieval with vector similarity search for enhanced context-aware AI responses, leveraging Alibaba Cloud's AI services for embedding and RAG optimization.
 
 ## Why It Matters
 

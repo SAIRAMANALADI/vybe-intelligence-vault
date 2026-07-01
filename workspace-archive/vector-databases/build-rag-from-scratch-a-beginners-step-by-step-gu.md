@@ -9,7 +9,7 @@ local_vault_path: ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: template
 importance: medium
 tags:
 - openai
@@ -17,7 +17,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **RAG Pipeline Architecture**: The system implements a two-stage process—retrieval (using FAISS vector store for semantic search) followed by generation (via OpenAI's LLM), where retrieved document chunks are injected as context to constrain responses and prevent hallucinations.
+- **RAG Pipeline Architecture**: Implements a modular RAG system with document loading (`document_loader.py`), vector storage (`vector_store.py` using FAISS), and retrieval-augmented generation (`rag_chain.py`), enforcing context-grounded responses via a structured prompt template.
 
-- **Modular Implementation**: The solution is decomposed into four core components: `document_loader.py` (text splitting), `vector_store.py` (FAISS embeddings), `rag_chain.py` (prompt engineering with system constrain
+- **Semantic Retrieval Mechanism**: Utilizes OpenAI embeddings to convert document chunks and queries into dense vector representations, enabling FAISS-based similarity search to retrieve top-*k* relevant context sni
 
 ## Use Cases
 

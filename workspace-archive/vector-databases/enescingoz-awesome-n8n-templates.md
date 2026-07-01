@@ -6,10 +6,10 @@ source_url: https://github.com/enescingoz/awesome-n8n-templates
 resource_id: github:enescingoz/awesome-n8n-templates
 local_vault_path: ai/rag/enescingoz-awesome-n8n-templates.md
 quality_score: 70
-archive_score: 85
-archive_tier: essential
+archive_score: 75
+archive_tier: useful
 resource_kind: template
-importance: high
+importance: medium
 tags:
 - agents
 - github-repo
@@ -27,18 +27,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 85 (essential)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: template
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Extensive n8n Template Library**: Curated collection of 280+ pre-built, production-ready n8n workflows for rapid automation across Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and other platforms.
+- **Collection**: 280+ open-source n8n automation templates covering Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, AI agents, RAG chatbots, email automation, social media, DevOps, and document processing.
 
-- **Diverse Automation Domains**: Covers AI agents, RAG chatbots, email automation, social media management, DevOps pipelines, document processing, and low-code/no-code integrations.
+- **Features**: Pre-built workflows for AI automation, low-code/no-code integration, self-hosted deployment, and support for Telegram bots, with continuous updates (last sync: 2026-07-01).
 
-- **Open-Source & Self-Hosted**: Largest open-source repository of n8n templates with
+- **Metrics**: 23,576 stars, 6,204 forks, and categorized under AI agents, au
 
 ## Use Cases
 

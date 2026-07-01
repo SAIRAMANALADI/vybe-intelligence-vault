@@ -7,13 +7,14 @@ source_url: https://dasroot.net/posts/2026/03/python-rag-projects-github/
 resource_id: blog:the-ultimate-list-of-python-rag-projects-on-github
 local_vault_path: ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: prompt
 importance: medium
 tags:
 - agents
 - benchmark
+- dataset
 - hackernews
 - meta-ai
 - models
@@ -31,7 +32,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain v0.24.0**: Introduced multi-agent workflows and enhanced prompt engineering, supporting LLMs like Llama 3.1 70b instruct; enables modular RAG pipelines with minimal code overhead (e.g., `WebBaseLoader` + `VectorstoreIndexCreator`).
+- **LangChain v0.24.0** introduces multi-agent workflows, enhanced prompt engineering, and improved LLM compatibility (e.g., Llama 3.1 70b instruct), enabling modular RAG pipelines with minimal code overhead via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
 
-- **LlamaIndex v0.12.0**: Features semantic chunking and advanced filtering, improving retrieval accuracy by ~30% via optimized document indexing; supports multi-format parsing (CSV, PDF, images) and structured database integration.
-
-- **HyPE (Hypotheti
+- **LlamaIndex v0.12.0** features semantic chunking and advanced filtering, boosting retrieval accuracy by **30%** in complex datasets, while supporting multi-format document parsing (PDFs, CSVs, Word) and structured databas
 
 ## Use Cases
 

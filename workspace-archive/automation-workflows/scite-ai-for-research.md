@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Smart Citation Analysis**: Classifies citations as supporting, contrasting, or mentioning, providing contextual sentence-level evidence for each classification across 1.6B+ indexed citations.
+- **Database & Coverage**: Aggregates 280M+ full-text scholarly articles, patents, datasets, and preprints from 40+ publishers (e.g., Wiley, SAGE) and open-access sources, enabling full-text search beyond abstracts.
 
-- **Comprehensive Data Coverage**: Aggregates 280M+ full-text scholarly articles, patents, clinical trials, grants, preprints, and datasets from 40+ publishers and open-access sources.
+- **Smart Citation Intelligence**: Classifies citations as *supporting*, *contrasting*, or *mentioning* with contextual sentence-level evidence, enabling evidence-weighted analysis of papers, authors, or institutions.
 
-- **Verifiable AI-Powered Research**: Integrates with tools like Claude, ChatGPT, and Zotero, offering API access for
+- **AI-Assisted Verification**: Integrates with LLMs (Claude, Ch
 
 ## Use Cases
 

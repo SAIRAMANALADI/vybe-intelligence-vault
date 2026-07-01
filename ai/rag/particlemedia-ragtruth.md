@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-07-01T15:45:44.971090+05:30'
+collected_at: '2026-07-01T20:43:49.147437+05:30'
 published_at: '2026-06-29T06:24:27Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-07-01T15:45:44.971090+05:30'
-last_seen: '2026-07-01T15:45:44.971090+05:30'
-last_checked: '2026-07-01T15:45:44.971090+05:30'
+first_seen: '2026-07-01T20:43:49.147437+05:30'
+last_seen: '2026-07-01T20:43:49.147437+05:30'
+last_checked: '2026-07-01T20:43:49.147437+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying hallucinated outputs in grounded generation tasks.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and categorizing hallucinations in generated outputs.
 
-- **Technical Composition**: Contains Python-based tools for generating, annotating, and benchmarking hallucinations in RAG systems, leveraging synthetic and real-world data to simulate retrieval-grounded responses.
+- **Technical Structure**: Contains Python-based tools for generating, annotating, and benchmarking hallucinations in RAG systems, with a focus on factual consistency and error analysis.
 
-- **Evaluation Framework**: Provides metrics and methodologies to quantify hallucination rates, enabling systematic assessment of model reliability in RAG pipelines.
+- **Evaluation Metrics**: Provides standardized metrics and datasets for assessing hallucination rates, enabling comparative analysis of RAG model performance in mitigating false or unsupported claims.
 
 ## Why It Matters
 

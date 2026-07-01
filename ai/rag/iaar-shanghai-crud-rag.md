@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-01T15:47:05.016757+05:30'
+collected_at: '2026-07-01T20:45:09.198994+05:30'
 published_at: '2026-06-26T08:31:01Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-01T15:47:05.016757+05:30'
-last_seen: '2026-07-01T15:47:05.016757+05:30'
-last_checked: '2026-07-01T15:47:05.016757+05:30'
+first_seen: '2026-07-01T20:45:09.198994+05:30'
+last_seen: '2026-07-01T20:45:09.198994+05:30'
+last_checked: '2026-07-01T20:45:09.198994+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Introduces CRUD-RAG, a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive assessment across multiple dimensions (e.g., retrieval quality, generation coherence, and factual accuracy).
-
-- **Evaluation Framework**: Implements a structured pipeline with standardized metrics for assessing RAG performance, including retrieval precision/recall, answer relevance, and hallucination detection, tailored for Chinese LLMs.
-
-- **Open-Source Toolkit**: Provides a Python-based repository with datasets, evaluation scripts, and baseline models to facilitate reproducible research and benchmarking of RAG systems in Chinese contexts.
+- **Benchmark Design**: Introduces CRUD-RAG, a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) in Large Language Models (LLMs), focusing on comprehensive retrieval and generation tasks.
+- **Evaluation Scope**: Covers four key dimensions—**C**omprehension, **R**etrieval, **U**pdate, and **D**ecision—to assess RAG performance across diverse Chinese-language scenarios.
+- **Open-Source Toolkit**: Provides a Python-based framework with standardized datasets, metrics, and evaluation protocols for reproducible RAG benchmarking.
 
 ## Why It Matters
 

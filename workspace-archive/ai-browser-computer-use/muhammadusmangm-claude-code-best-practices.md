@@ -14,6 +14,8 @@ tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
+- scripts
 - shell
 - workflows
 selection_reason:
@@ -32,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Setup & Configuration**: Repository provides structured guidance for configuring Claude Code, including `CLAUDE.md` templates for optimal AI-agent interaction and standardized workflows for CLI-based development.
-
-- **Multi-Agent Patterns & MCP Integration**: Documents advanced patterns for multi-agent collaboration and integration with Model Context Protocol (MCP) for enhanced LLM-driven development efficiency.
-
-- **Cost Optimization & Maintenance**: Includes strategies for minimizing opera
+- **Repository Overview**: GitHub repository (`MuhammadUsmanGM/claude-code-best-practices`) providing structured best practices for **Claude Code**, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+- **Technical Scope**: Focuses on **agentic AI workflows**, **CLI tools**, **LLM integration**, and **MCP (Model Context Protocol)** with Shell-based automation and template configurations.
+- **Metadata**: 60 stars, 11 forks, last update
 
 ## Use Cases
 

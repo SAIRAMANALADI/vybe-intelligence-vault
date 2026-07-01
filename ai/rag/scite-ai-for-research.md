@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.scite.ai/
-published_at: '2026-06-30T10:14:07.434834+05:30'
-collected_at: '2026-06-30T10:14:07.434849+05:30'
+published_at: '2026-07-01T20:48:22.473739+05:30'
+collected_at: '2026-07-01T20:48:22.473749+05:30'
 tags:
 - anthropic
 - dataset
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:scite-ai-for-research
-first_seen: '2026-06-30T10:14:07.434849+05:30'
-last_seen: '2026-06-30T10:14:07.434849+05:30'
-last_checked: '2026-06-30T10:14:07.434849+05:30'
+first_seen: '2026-07-01T20:48:22.473749+05:30'
+last_seen: '2026-07-01T20:48:22.473749+05:30'
+last_checked: '2026-07-01T20:48:22.473749+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Smart Citation Analysis**: Classifies citations as supporting, contrasting, or mentioning, providing contextual sentence-level evidence for each classification across 1.6B+ indexed citations.
+- **Database & Coverage**: Aggregates 280M+ full-text scholarly articles, patents, datasets, and preprints from 40+ publishers (e.g., Wiley, SAGE) and open-access sources, enabling full-text search beyond abstracts.
 
-- **Comprehensive Data Coverage**: Aggregates 280M+ full-text scholarly articles, patents, clinical trials, grants, preprints, and datasets from 40+ publishers and open-access sources.
+- **Smart Citation Intelligence**: Classifies citations as *supporting*, *contrasting*, or *mentioning* with contextual sentence-level evidence, enabling evidence-weighted analysis of papers, authors, or institutions.
 
-- **Verifiable AI-Powered Research**: Integrates with tools like Claude, ChatGPT, and Zotero, offering API access for custom workflows while ensuring every AI-generated claim links directly to the original paper’s supporting evidence.
+- **AI-Assisted Verification**: Integrates with LLMs (Claude, ChatGPT) and tools (Zotero) to provide verifiable, citation-grounded answers with direct links to source sentences, ensuring traceability and reducing hallucination risks.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T10:14:07.434834+05:30
+- Published: 2026-07-01T20:48:22.473739+05:30
 
 ## Related Tags
 

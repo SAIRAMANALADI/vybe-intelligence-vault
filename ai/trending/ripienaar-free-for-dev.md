@@ -10,13 +10,14 @@ tags:
 - github-trending
 - html
 - reddit
-status: active
+status: inactive
 resource_id: github:ripienaar/free-for-dev
 first_seen: '2026-06-26T20:18:15.053981+05:30'
 last_seen: '2026-07-01T15:44:52.068820+05:30'
 last_checked: '2026-07-01T15:44:52.068820+05:30'
 health_score: 100
 ---
+
 
 # ripienaar/free-for-dev
 

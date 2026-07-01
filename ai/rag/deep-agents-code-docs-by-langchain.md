@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/oss/python/deepagents/code/overview
-published_at: '2026-07-01T15:52:18.228764+05:30'
-collected_at: '2026-07-01T15:52:18.228779+05:30'
+published_at: '2026-07-01T20:48:21.128449+05:30'
+collected_at: '2026-07-01T20:48:21.128463+05:30'
 tags:
 - agents
 - anthropic
@@ -15,13 +15,12 @@ tags:
 - rag
 - scripts
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:deep-agents-code-docs-by-langchain
-first_seen: '2026-07-01T15:52:18.228779+05:30'
-last_seen: '2026-07-01T15:52:18.228779+05:30'
-last_checked: '2026-07-01T15:52:18.228779+05:30'
+first_seen: '2026-07-01T20:48:21.128463+05:30'
+last_seen: '2026-07-01T20:48:21.128463+05:30'
+last_checked: '2026-07-01T20:48:21.128463+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Provider LLM Support**: Deep Agents Code (`dcode`) integrates with any tool-calling LLM (e.g., OpenAI, Anthropic, Google) and allows dynamic model switching mid-session via `/model` command or CLI flags (`--model`), with persistent memory for cross-conversation context.
+- **Multi-Provider LLM Integration**: Deep Agents Code (`dcode`) supports dynamic switching between any tool-calling LLM (e.g., OpenAI, Anthropic, Google) mid-session, with persistent memory for cross-conversation context and configurable approval controls for sensitive operations.
 
-- **Human-in-the-Loop Security & Tools**: Implements mandatory user approval for destructive operations (e.g., file writes, shell execution) via `human-in-the-loop` controls, while offering 15+ built-in tools (e.g., `execute`, `web_search`, `edit_file`) with configurable auto-approval (`--auto-approve` or `-y`).
+- **Core Capabilities**: Includes file I/O (read/write/edit), shell execution (local/remote sandboxes), web search (via Tavily API), task planning, subagent delegation, memory storage/retrieval, and MCP tool integration for extensibility.
 
-- **Goal/Rubric-Driven Workflows**: Supports structured task execution via `/goal` (agent proposes acceptance criteria) or `/rubric` (predefined quality gates), with non-interactive mode (`-n`) for automated runs using `--rubric` and `--max-turns` for execution limits.
+- **Operational Modes**: Supports interactive and non-interactive modes with human-in-the-loop approvals, auto-compaction of conversation history, and optional LangSmith tracing for observability; CLI flags enable model selection (`--model`), auto-approval (`-y`), and sandboxed execution (`--sandbox`).
 
 ## Why It Matters
 
@@ -43,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T15:52:18.228764+05:30
+- Published: 2026-07-01T20:48:21.128449+05:30
 
 ## Related Tags
 
@@ -55,7 +54,6 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - scripts
 - web-crawled
-- workflows
 - youtube
 
 ## Source

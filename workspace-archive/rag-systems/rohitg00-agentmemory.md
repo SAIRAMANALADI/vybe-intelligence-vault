@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Persistent Memory Framework**: Provides a structured, TypeScript-based memory system for AI coding agents, enabling long-term context retention and state management based on real-world benchmarks.
+- **Persistent Memory Framework**: Implements a TypeScript-based persistent memory system for AI coding agents, optimized for real-world benchmark performance and seamless integration with tools like ClaudeCode, Cursor, and Copilot.
 
-- **Benchmark-Driven Design**: Optimized for performance and reliability in AI agent workflows, leveraging empirical data to enhance memory persistence and retrieval efficiency.
+- **Multi-Agent Compatibility**: Supports diverse AI coding agents (e.g., Hermes, OpenClaw) via standardized interfaces, enabling cross-platform memory persistence and state management.
 
-- **Multi-Agent Compatibility**: Supports integration with popular AI coding tools (e.g., ClaudeCode, Cursor, Copilot)
+- **Benchmark-Driven Optimization**: Designed for high-performance memory opera
 
 ## Use Cases
 

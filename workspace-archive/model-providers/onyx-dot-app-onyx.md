@@ -6,16 +6,19 @@ source_url: https://github.com/onyx-dot-app/onyx
 resource_id: github:onyx-dot-app/onyx
 local_vault_path: ai/rag/onyx-dot-app-onyx.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
 - frontend_ui
 - github-repo
+- mistral
+- models
 - openai
 - python
 - rag
+- reddit
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -26,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-*   Open-source, self-hosted AI chat platform engineered for LLM agnosticism and advanced conversational AI.
-*   Leverages a Python backend coupled with a Next.js-based frontend for its interactive user interface.
-*   Integrates RAG (Retrieval Augmented Generation), vector search, and enterprise information retrieval for enhanced AI capabilities.
+- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any Large Language Model (LLM) via modular backend architecture, enabling seamless switching between providers (e.g., OpenAI, Mistral, local LLMs).
+
+- **Enterprise-Grade RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based similarity search (e.g., FAISS, Chroma) for contextual information retrieval, optimized for large-scale document processing.
+
+- **Full-Stack Tech Stack**
 
 ## Use Cases
 

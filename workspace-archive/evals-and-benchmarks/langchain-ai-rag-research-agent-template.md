@@ -12,7 +12,6 @@ resource_kind: template
 importance: medium
 tags:
 - agents
-- frontend_ui
 - github-repo
 - python
 - rag
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Template Structure**: Provides a modular Python-based framework for building Retrieval-Augmented Generation (RAG) research agents, leveraging LangChain components.
-- **Key Components**: Includes pre-configured pipelines for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval, and LLM integration (e.g., LangChain's `RetrievalQA`).
-- **Customization Focus**: Designed for extensibility with hooks for custom retrievers, embeddings (e.g., HuggingFace), and agent logic (e.g., ReAct-
+- **Purpose**: Provides a template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating structured workflows for document retrieval and synthesis.
+
+- **Key Components**: Includes modular Python implementations for document loaders, retrievers, and agent orchestration, leveraging LangChain’s ecosystem for LLM integration.
+
+- **Compatibility**: Designed for Python, last updated in June 2026, with dependencies aligned to LangChain’s latest stable releases
 
 ## Use Cases
 

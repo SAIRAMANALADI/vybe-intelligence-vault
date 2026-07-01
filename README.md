@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 11,460</p>
-        <p><b>Active:</b> 11,162 | <b>Inactive:</b> 298</p>
+        <p><b>Resources tracked:</b> 11,470</p>
+        <p><b>Active:</b> 11,169 | <b>Inactive:</b> 301</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 43,729</p>
+        <p><b>Archive Files:</b> 43,752</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-01 18:06 IST</p>
+        <p><b>Last Update:</b> 2026-07-01 21:00 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,18 +55,29 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+9</kbd>
-- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+9</kbd>
+- 🔼 **[Godot will no longer accept AI-authored code contributions](ai/community/godot-will-no-longer-accept-ai-authored-code-contr.md)** • <kbd>+285 pts</kbd>
+- 🔼 **[Performance panel: Analyze your website's performance | Chrome DevTools | Chrome for Developers](ai/resources/performance-panel-analyze-your-website-s-performan.md)** • Rank: <kbd>+2210</kbd>
+- 🔼 **[Introduction to Lighthouse | Chrome for Developers](ai/rag/introduction-to-lighthouse-chrome-for-developers.md)** • Rank: <kbd>+2213</kbd>
+- 🔼 **[AWS Site Terms](ai/rag/aws-site-terms.md)** • Rank: <kbd>+2754</kbd>
+- 🔼 **[Agentic Misalignment: How LLMs could be insider threats \ Anthropic](ai/rag/agentic-misalignment-how-llms-could-be-insider-thr.md)** • Rank: <kbd>+41</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Nintendo has raised its employees base salary by 10%](ai/community/nintendo-has-raised-its-employees-base-salary-by-1.md)** • Score: `259`
+- 🆕 **[Sony Deletes 551 Movies PlayStation Owners Paid For](ai/community/sony-deletes-551-movies-playstation-owners-paid-fo.md)** • Score: `39`
+- 🆕 **[Show HN: Frond – a frontend runtime for your app's dependency graph](web-development/community/show-hn-frond-a-frontend-runtime-for-your-app-s-de.md)** • Score: `11`
+- 🆕 **[Learn Accessibility | web.dev](ai/resources/learn-accessibility-web-dev.md)** • Score: `0`
+- 🆕 **[Access AWS Expert Solutions & Authoritative Knowledge - AWS re:Post | AWS re:Post](ai/rag/access-aws-expert-solutions-authoritative-knowledg.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[From brain waves to words: a new path to communication without surgery](ai/community/from-brain-waves-to-words-a-new-path-to-communicat.md)**
+- 💤 **[CoreBunch/Instatic](ai/trending/corebunch-instatic.md)**
+- 💤 **[roboflow/supervision](ai/trending/roboflow-supervision.md)**
+- 💤 **[google/agents-cli](ai/agents/google-agents-cli.md)**
+- 💤 **[browser-use/video-use](ai/agents/browser-use-video-use.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

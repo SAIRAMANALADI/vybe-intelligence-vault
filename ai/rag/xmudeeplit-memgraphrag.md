@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-07-01T15:47:35.025564+05:30'
+collected_at: '2026-07-01T20:45:39.150826+05:30'
 published_at: '2026-06-29T11:01:01Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-07-01T15:47:35.025564+05:30'
-last_seen: '2026-07-01T15:47:35.025564+05:30'
-last_checked: '2026-07-01T15:47:35.025564+05:30'
+first_seen: '2026-07-01T20:45:39.150826+05:30'
+last_seen: '2026-07-01T20:45:39.150826+05:30'
+last_checked: '2026-07-01T20:45:39.150826+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a novel framework (MemGraphRAG) leveraging memory-augmented agents for graph-based Retrieval-Augmented Generation (RAG), enhancing contextual reasoning and knowledge retention in multi-agent interactions.
+- **Multi-Agent Framework**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging agent-memory and ontology construction for enhanced reasoning.
 
-- **Graph & Ontology Construction**: Implements dynamic graph construction and ontology learning to structure knowledge, enabling efficient retrieval and reasoning over complex, interconnected data for improved LLM performance.
+- **Graph Construction & Ontology Integration**: Dynamically constructs and utilizes graph structures with ontology alignment to improve retrieval and generation in RAG pipelines.
 
-- **Python Implementation**: Provides an open-source Python library for scalable deployment, integrating graph-based memory with RAG pipelines to optimize long-term context utilization in knowledge-intensive tasks.
+- **KDD 2026 Contribution**: Proposes a novel approach to GraphRAG, optimizing multi-agent collaboration and memory mechanisms for scalable knowledge graph applications.
 
 ## Why It Matters
 

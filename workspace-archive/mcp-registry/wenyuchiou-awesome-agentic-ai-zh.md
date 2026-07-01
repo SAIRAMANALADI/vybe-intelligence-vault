@@ -6,7 +6,7 @@ source_url: https://github.com/WenyuChiou/awesome-agentic-ai-zh
 resource_id: github:wenyuchiou/awesome-agentic-ai-zh
 local_vault_path: ai/rag/wenyuchiou-awesome-agentic-ai-zh.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: prompt
 importance: medium
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Trilingual Learning Roadmap**: Covers agentic AI from LLM fundamentals to multi-agent systems, featuring 240+ curated resources in Traditional Chinese, English, and Simplified Chinese, with hands-on Python examples.
+- **Comprehensive trilingual learning roadmap** covering agentic AI from LLM fundamentals to multi-agent systems, featuring **240+ curated resources** and hands-on examples in Python.
 
-- **Key Topics**: Includes agentic workflows, LLM agents, prompt engineering, RAG, MCP, CLI tools, and multi-agent systems, with integration support for tools like Claude Code and Claude Skills.
+- **Key topics include** agentic workflows, LLM agents, Model Context Protocol (MCP), RAG, prompt engineering, and CLI tools, with support for **Claude Code/Skills integration**.
 
-- **Repository Metrics**: 3,643 stars, 494 forks, last updated July 1, 2026, and st
+- **Actively maintained** (last updated July 2026) repository with **3,721 stars** and **503 forks**, structured as an **awesome-list**
 
 ## Use Cases
 

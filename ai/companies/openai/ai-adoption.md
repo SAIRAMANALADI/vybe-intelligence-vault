@@ -4,8 +4,8 @@ category: ai/companies/openai
 source_type: company_blog
 source_name: OpenAI News
 source_url: https://openai.com/news/ai-adoption
-published_at: '2026-07-01T15:44:50.802655+05:30'
-collected_at: '2026-07-01T15:44:50.802658+05:30'
+published_at: '2026-07-01T20:43:05.356472+05:30'
+collected_at: '2026-07-01T20:43:05.356474+05:30'
 tags:
 - blog-post
 - openai
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: blog:ai-adoption
 first_seen: '2026-06-16T04:26:31.360493+00:00'
-last_seen: '2026-07-01T15:44:50.802658+05:30'
-last_checked: '2026-07-01T15:44:50.802658+05:30'
+last_seen: '2026-07-01T20:43:05.356474+05:30'
+last_checked: '2026-07-01T20:43:05.356474+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: OpenAI News
 - Article URL: https://openai.com/news/ai-adoption
-- Collected At: 2026-07-01T15:44:50.802658+05:30
+- Collected At: 2026-07-01T20:43:05.356474+05:30
 
 ## Related Tags
 

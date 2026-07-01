@@ -6,10 +6,10 @@ source_url: https://github.com/dannyblaker/rag-tutorial
 resource_id: github:dannyblaker/rag-tutorial
 local_vault_path: ai/rag/dannyblaker-rag-tutorial.md
 quality_score: 70
-archive_score: 79
-archive_tier: useful
-resource_kind: prompt
-importance: medium
+archive_score: 89
+archive_tier: essential
+resource_kind: tutorial
+importance: high
 tags:
 - github-repo
 - hackernews
@@ -26,17 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 89 (essential)
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from fundamentals to production deployment, with executable code examples and reusable utilities.
-- **Technical Stack**: Focuses on embeddings, vector databases (e.g., FAISS, Chroma), LLMs (e.g., Hugging Face Transformers), and advanced RAG techniques (e.g., retrieval optimization, prompt engineering).
-- **Hands-on Demos**: Includes practical implementations and modular utilities to facilitate building cust
+- **Progressive RAG Tutorial**: 6 structured lessons covering embeddings, vector databases, LLMs, and advanced techniques with working Python code examples and reusable utilities.
+- **Hands-on Implementation**: Includes demos and practical exercises for building production-ready RAG systems from scratch.
+- **Updated Repository**: Last modified on 2026-06-29, hosted in Python with no active forks or stars (7).
 
 ## Use Cases
 

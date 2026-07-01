@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-01T15:46:39.967084+05:30'
+collected_at: '2026-07-01T20:44:44.068585+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
+- benchmark
 - github-repo
+- models
 - python
 - rag
 stars: 263
@@ -17,9 +19,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-01T15:46:39.967084+05:30'
-last_seen: '2026-07-01T15:46:39.967084+05:30'
-last_checked: '2026-07-01T15:46:39.967084+05:30'
+first_seen: '2026-07-01T20:44:44.068585+05:30'
+last_seen: '2026-07-01T20:44:44.068585+05:30'
+last_checked: '2026-07-01T20:44:44.068585+05:30'
 health_score: 100
 ---
 
@@ -27,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- Implements **Retrieval-Augmented Generation (RAG)** optimized for **Vietnamese language processing**, leveraging vector databases (e.g., FAISS/Weaviate) for efficient document retrieval.
-- Utilizes **PyTorch-based embeddings** (e.g., `vinai/phobert-base`) for contextual Vietnamese text representation, with **FAISS indexing** for low-latency similarity search.
-- Includes **FastAPI backend** for serving RAG pipelines, with **modular components** for document preprocessing, retrieval, and LLM integration (e.g., `vllm` or `transformers`).
+- **Vietnamese RAG Implementation**: Provides a production-ready Retrieval-Augmented Generation (RAG) backend optimized for Vietnamese language processing, including document retrieval and generation pipelines.
+
+- **Modular Architecture**: Implements a scalable microservice-based design with components for embedding, vector storage (FAISS/Weaviate), and LLM integration (e.g., ViT5, PhoBERT) for efficient retrieval and generation.
+
+- **Evaluation & Optimization**: Includes benchmarking tools for Vietnamese RAG performance, with optimizations for chunking strategies, embedding models (e.g., `vinai/phobert-base`), and retrieval-augmented fine-tuning.
 
 ## Why It Matters
 

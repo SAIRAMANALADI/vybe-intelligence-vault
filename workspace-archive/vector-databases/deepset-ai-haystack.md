@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - mdx
 - models
 - openai
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Orchestration Framework**: Enables construction of production-grade LLM applications via configurable pipelines with explicit control over retrieval, routing, memory, and generation components.
+- **Modular LLM Orchestration**: Haystack enables building production-grade LLM applications via configurable pipelines with explicit control over retrieval, routing, memory, and generation components.
 
-- **Multi-Use Case Support**: Facilitates scalable agents, RAG, multimodal systems, semantic search, and conversational AI through a unified architecture.
+- **Multi-Use AI Framework**: Supports scalable agents, RAG, multimodal systems, semantic search, and conversational AI with integrations for transformers, PyTorch, and major LLM APIs (e.g., GPT-4, Gemini).
 
-- **Technical Stack**: Python-based, leveraging PyTorch and Transformers, optimized for integration with models like GPT-4 and Gemini.
+- **Open-Source & Extensible**: Python-based framework with 25.7K+ stars, designed for mo
 
 ## Use Cases
 

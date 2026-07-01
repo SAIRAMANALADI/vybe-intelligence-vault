@@ -14,6 +14,7 @@ importance: medium
 tags:
 - agents
 - benchmark
+- dataset
 - hackernews
 - meta-ai
 - models
@@ -39,11 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain v0.24.0**: Introduced multi-agent workflows and enhanced prompt engineering, supporting LLMs like Llama 3.1 70b instruct; enables modular RAG pipelines with minimal code overhead (e.g., `WebBaseLoader` + `VectorstoreIndexCreator`).
+- **LangChain v0.24.0** introduces multi-agent workflows, enhanced prompt engineering, and improved LLM compatibility (e.g., Llama 3.1 70b instruct), enabling modular RAG pipelines with minimal code overhead via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
 
-- **LlamaIndex v0.12.0**: Features semantic chunking and advanced filtering, improving retrieval accuracy by ~30% via optimized document indexing; supports multi-format parsing (CSV, PDF, images) and structured database integration.
-
-- **HyPE (Hypotheti
+- **LlamaIndex v0.12.0** features semantic chunking and advanced filtering, boosting retrieval accuracy by **30%** in complex datasets, while supporting multi-format document parsing (PDFs, CSVs, Word) and structured databas
 
 ## Use Cases
 

@@ -8,14 +8,14 @@ local_vault_path: ai/resources/developer-products-google-for-developers.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - creative_dev
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Developer products - Google for Developers
@@ -24,16 +24,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Android**: Provides modern tools for building cross-device applications with native performance and user experience optimization.
-- **Google Cloud**: Offers scalable infrastructure, AI/ML services, and analytics to accelerate development and data-driven decision-making.
-- **Google AI Studio**: Enables rapid prototyping and deployment of generative AI applications using the Gemini model via an integrated development environment.
+- **Android**: Provides modern tools and SDKs for building cross-device applications with native performance and user experience optimization.
+
+- **Google Cloud**: Offers scalable cloud infrastructure, AI/ML services, and data analytics tools to accelerate development, deployment, and business decision-making.
+
+- **Google AI Studio**: Enables rapid prototyping and deployment of generative AI applications using Gemini models via an integrated development environment.
 
 ## Use Cases
 

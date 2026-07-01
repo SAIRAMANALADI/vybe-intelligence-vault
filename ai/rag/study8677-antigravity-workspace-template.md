@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/study8677/antigravity-workspace-template
-collected_at: '2026-07-01T15:46:14.925481+05:30'
+collected_at: '2026-07-01T20:44:19.061015+05:30'
 published_at: '2026-07-01T09:21:21Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-11-19T08:51:14Z'
 pushed_at: '2026-06-20T03:01:07Z'
 resource_id: github:study8677/antigravity-workspace-template
-first_seen: '2026-07-01T15:46:14.925481+05:30'
-last_seen: '2026-07-01T15:46:14.925481+05:30'
-last_checked: '2026-07-01T15:46:14.925481+05:30'
+first_seen: '2026-07-01T20:44:19.061015+05:30'
+last_seen: '2026-07-01T20:44:19.061015+05:30'
+last_checked: '2026-07-01T20:44:19.061015+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent codebase Q&A system**: Enables grounded, context-aware interactions with codebases via file paths and line numbers, supporting tools like Claude Code, Cursor, and Codex CLI.
+- **Multi-agent codebase Q&A system**: Implements a knowledge engine providing grounded responses with file paths and line numbers for AI IDEs (Claude Code, Cursor, Codex CLI), enabling precise, context-aware code queries.
 
-- **Modular MCP server architecture**: Implements a knowledge graph-backed retrieval system (RAG) for precise, line-level code intelligence across IDEs and CLI environments.
+- **MCP-server architecture**: Exposes a Model Context Protocol (MCP) server for integrating with LLM frameworks (OpenAI, etc.), supporting RAG-based retrieval across codebases with Python-based tooling.
 
-- **Cross-platform IDE/CLI integration**: Provides MCP-compatible server for seamless embedding in Python-based workflows, supporting OpenAI, Copilot, and Windsurf via plugins/agents.
+- **IDE-agnostic plugin**: Functions as a universal developer tool via IDE plugins (Cursor, VS Code, etc.), leveraging a knowledge graph to enhance multi-agent collaboration and code intelligence workflows.
 
 ## Why It Matters
 

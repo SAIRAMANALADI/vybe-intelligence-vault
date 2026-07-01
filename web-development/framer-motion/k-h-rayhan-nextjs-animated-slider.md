@@ -4,18 +4,18 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/k-h-rayhan/nextjs-animated-slider
-collected_at: '2026-06-28T19:46:53.452365+05:30'
-published_at: '2026-06-22T06:19:45Z'
+collected_at: '2026-07-01T20:43:05.156915+05:30'
+published_at: '2026-07-01T13:44:59Z'
 tags:
 - animation
 - frontend_ui
-stars: 378
+stars: 377
 language: TypeScript
 status: active
 resource_id: github:k-h-rayhan/nextjs-animated-slider
 first_seen: '2026-06-12T10:40:18.782936+00:00'
-last_seen: '2026-06-28T19:46:53.452365+05:30'
-last_checked: '2026-06-28T19:46:53.452365+05:30'
+last_seen: '2026-07-01T20:43:05.156915+05:30'
+last_checked: '2026-07-01T20:43:05.156915+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 ## Repository Details
 
 - Owner: K-H-Rayhan
-- Stars: 378
+- Stars: 377
 - Forks: 85
 - Language: TypeScript
 - Topics: framer-motion, nextjs13, react, reactjs-project, tailwindcss
-- Last Updated: 2026-06-22T06:19:45Z
+- Last Updated: 2026-07-01T13:44:59Z
 
 ## Possible Use Cases
 

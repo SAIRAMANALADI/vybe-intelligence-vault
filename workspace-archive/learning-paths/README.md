@@ -22,7 +22,7 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [github/roadmap](https://github.com/github/roadmap)
 - [Postman Inc. · GitHub](https://github.com/postmanlabs)
-- [microsoft/rag-time](https://github.com/microsoft/rag-time)
+- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 - [GitHub · GitHub](https://github.com/github)
 - [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](https://github.com/)
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
@@ -41,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-07-01 16:02 IST*
+*Last updated: 2026-07-01 21:00 IST*

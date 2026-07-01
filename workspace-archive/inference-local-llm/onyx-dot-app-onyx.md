@@ -39,9 +39,9 @@ selection_reason:
 
 - **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any Large Language Model (LLM) via modular backend architecture, enabling seamless switching between providers (e.g., OpenAI, Mistral, local LLMs).
 
-- **Advanced RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based semantic search (e.g., FAISS, Chroma) for enterprise-grade information retrieval and context-aware responses.
+- **Enterprise-Grade RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based similarity search (e.g., FAISS, Chroma) for contextual information retrieval, optimized for large-scale document processing.
 
-- **Full-Stack Architecture**: Combines Next.js fr
+- **Full-Stack Tech Stack**
 
 ## Use Cases
 

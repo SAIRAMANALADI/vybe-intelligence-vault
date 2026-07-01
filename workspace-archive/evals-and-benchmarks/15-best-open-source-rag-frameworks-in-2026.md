@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Firecrawl**: AI-powered web scraping engine for LLM-friendly data extraction, offering `llms.txt` generation, crawl/scrape methods, agent-based extraction, and deep research endpoints for dynamic site access and RAG pipeline enrichment.
+- **LangChain** (⭐️105k): Modular framework for chaining LLM components, supporting flexible data integration, retrieval strategies, and evaluation tools; integrates with LangSmith/LangGraph for debugging/workflow management.
 
-- **LangChain**: Open-source framework with 105k+ stars, providing structured LLM application development, modular RAG components (data connectors, model flexibility, retrieval pipelines), evaluation tools, and ecosystem compatibility (LangSmith, LangGraph).
+- **RAGFlow** (⭐️48.5k): Open-source RAG engine with deep document parsing (PDFs/tables), GraphRAG support, and agentic reasoning; offers visual web interface and multiple storage backends (Elasticsearch/Infinity).
+
+- **Milvus** (⭐️33.9k): Cloud-native vector database opti
 
 ## Use Cases
 

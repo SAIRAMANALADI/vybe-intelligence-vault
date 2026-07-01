@@ -6,10 +6,10 @@ source_url: http://www.nationalarchives.gov.uk/doc/open-government-licence/versi
 resource_id: blog:open-government-licence
 local_vault_path: ai/rag/open-government-licence.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
 resource_kind: dataset
-importance: medium
+importance: high
 tags:
 - dataset
 - hackernews
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Global, royalty-free license**: Grants worldwide, perpetual, non-exclusive rights to use, adapt, and commercially exploit public sector information under OGL v3.0, subject to attribution and compliance conditions.
+- **Licence Scope**: Grants worldwide, royalty-free, perpetual, non-exclusive rights to use, adapt, and commercially exploit public sector information under specified conditions, including mandatory source attribution (e.g., "Contains public sector information licensed under the Open Government Licence v3.0").
 
-- **Attribution requirements**: Mandates inclusion of specified attribution statements (or a URI linking to them) when reusing licensed information; failure to comply revokes granted rights.
-
-- **Exclusions & limitations**: Excludes personal data, unpublished/unreleased informatio
+- **Exclusions & Restrictions**: Excludes personal data, unpublished/unreleased information, logos/crests, military insignia, third-party rights, patents, trademarks, and identity documen
 
 ## Use Cases
 

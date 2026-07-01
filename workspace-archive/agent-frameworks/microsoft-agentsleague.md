@@ -12,10 +12,9 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
 - github-repo
+- leaderboard
 - unknown
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **E-sports-inspired AI challenge**: Hosts live AI Battles with competitive agentic AI, integrating asynchronous community challenges and GitHub-based submissions.
-- **GitHub-centric workflow**: Participants submit solutions via GitHub, enabling version control, collaboration, and automated evaluation of AI agents.
-- **Active development**: Last updated in 2026, indicating ongoing maintenance and potential future expansions of the challenge framework.
+- **E-sports-inspired AI challenge**: Hosts live AI Battles with competitive agentic AI interactions, integrating asynchronous community challenges and GitHub-based submissions for developer engagement.
+- **GitHub-centric framework**: Facilitates submissions, tracking, and collaboration via GitHub, with structured asynchronous challenges for scalable participation.
+- **Dynamic leaderboard & updates**: Real-time tracking of submissions and rankings, last updated June 30, 2026, with active communi
 
 ## Use Cases
 

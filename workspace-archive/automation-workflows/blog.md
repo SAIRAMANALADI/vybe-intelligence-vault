@@ -12,7 +12,6 @@ resource_kind: framework
 importance: high
 tags:
 - agents
-- creative_dev
 - hackernews
 - paper
 - producthunt
@@ -37,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Haystack Framework**: Open-source Python framework for building production-ready NLP pipelines, enabling modular RAG, document processing, and enterprise search workflows with support for transformer models and vector databases.
+- **Haystack Framework**: Open-source Python framework for building production-ready LLM applications, enabling modular pipelines for document retrieval, processing, and agent orchestration with support for RAG, IDP, and enterprise search workflows.
 
-- **Haystack Enterprise Platform**: Unified enterprise-grade solution integrating MCP tooling, harness engineering for AI agent reliability, and sovereign AI compliance with cost control mechanisms for scalable deployments.
-
-- **Technical Solutions Portfolio**: Offe
+- **Enterprise AI Solutions**: Haystack Enterprise Platform provides managed MCP tool integration, production-grade agent harnesses, and sovereign AI infrastructure for scalable, cost-controlled deployments across industries like government, finance
 
 ## Use Cases
 

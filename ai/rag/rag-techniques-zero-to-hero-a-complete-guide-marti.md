@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-07-01T10:26:18.037788+05:30'
-collected_at: '2026-07-01T10:26:18.037802+05:30'
+published_at: '2026-07-01T20:44:00.291235+05:30'
+collected_at: '2026-07-01T20:44:00.291247+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-07-01T10:26:18.037802+05:30'
-last_seen: '2026-07-01T10:26:18.037802+05:30'
-last_checked: '2026-07-01T10:26:18.037802+05:30'
+first_seen: '2026-07-01T20:44:00.291247+05:30'
+last_seen: '2026-07-01T20:44:00.291247+05:30'
+last_checked: '2026-07-01T20:44:00.291247+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator; optionally includes rerankers, query rewriting, caching, and orchestration for improved precision/efficiency.
+- **RAG Architecture**: Combines a retriever (vector/lexical search over embeddings) with a generator (LLM conditioned on retrieved context) to improve factuality and reduce hallucinations by grounding responses in external knowledge.
 
-- **Chunking & Embeddings**: Text segmentation strategies (fixed-size, overlap, semantic, structure-aware, LLM-based) directly impact retrieval quality; embeddings require domain-specific fine-tuning, dimensionality optimization, and normalization for cosine similarity.
+- **Chunking & Embeddings**: Optimal retrieval depends on chunking strategies (fixed-size, semantic, structure-aware) and high-quality embeddings (domain-fine-tuned, normalized, modality-aware), with hybrid retrieval (BM25 + vector) enhancing precision/recall.
 
-- **Multi-Stage Retrieval & Context Management**: Hybrid (BM25 + vector) search improves recall; cross-encoders rerank top-K candidates; query rewriting and multi-hop retrieval enhance coverage; context distillation and autocut mitigate hallucinations and token budget constraints.
+- **Advanced Optimization**: Techniques include two-stage reranking (cross-encoders on top-K candidates), iterative multi-hop retrieval, context distillation (LLM-based evidence condensation), and retrieval-aware fine-tuning to align embeddings with downstream tasks.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T10:26:18.037788+05:30
+- Published: 2026-07-01T20:44:00.291235+05:30
 
 ## Related Tags
 

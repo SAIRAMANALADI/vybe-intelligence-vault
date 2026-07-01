@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mergisi/awesome-openclaw-agents
-collected_at: '2026-07-01T10:28:17.674343+05:30'
-published_at: '2026-07-01T02:39:07Z'
+collected_at: '2026-07-01T20:46:04.168169+05:30'
+published_at: '2026-07-01T12:02:54Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,7 @@ tags:
 - hackernews
 - html
 - scripts
-stars: 3753
+stars: 3756
 language: HTML
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-05T10:51:17Z'
 pushed_at: '2026-05-25T10:21:05Z'
 resource_id: github:mergisi/awesome-openclaw-agents
-first_seen: '2026-07-01T10:28:17.674343+05:30'
-last_seen: '2026-07-01T10:28:17.674343+05:30'
-last_checked: '2026-07-01T10:28:17.674343+05:30'
+first_seen: '2026-07-01T20:46:04.168169+05:30'
+last_seen: '2026-07-01T20:46:04.168169+05:30'
+last_checked: '2026-07-01T20:46:04.168169+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `mergisi/awesome-openclaw-agents` hosts **162 production-ready AI agent templates** for OpenClaw, utilizing **SOUL.md configurations** across **19 categories**.
-- **Technical Stack**: Supports **multi-agent systems**, **LLM integration**, **MCP**, **Docker**, and **no-code automation**, with templates for **Claude**, **CrewClaw**, and **Telegram bots**.
-- **Community-Driven**: Open to **community submissions**; last updated **July 1, 2026**; **3.7K+ stars**, **612 forks**; covers **AI automation**, **productivity**, and **AI agent orchestration**.
+- **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 structured categories.
+- **Technical Scope**: Supports multi-agent systems, MCP integration, Docker deployment, and no-code automation via CrewClaw, Anthropic, and LLM frameworks.
+- **Community & Extensibility**: Open-source contribution model with 3,756 stars, 612 forks, and a submission process for new agent templates (e.g., Telegram bots, productivity tools).
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: mergisi
-- Stars: 3753
+- Stars: 3756
 - Forks: 612
 - Language: HTML
 - Topics: ai-agent-templates, ai-agents, ai-automation, anthropic, automation, awesome, awesome-list, claude, community-agents, crewclaw, docker, llm, mcp, multi-agent, no-code, openclaw, productivity, soul-md, submit-your-agent, telegram-bot
-- Last Updated: 2026-07-01T02:39:07Z
+- Last Updated: 2026-07-01T12:02:54Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-05T10:51:17Z

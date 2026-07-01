@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- anthropic
 - dataset
 - hackernews
 - leaderboard
@@ -21,6 +20,7 @@ tags:
 - reddit
 - scripts
 - web-crawled
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **AWS re:Post** is a community-driven Q&A platform providing peer, AWS, and expert advice for troubleshooting technical and account issues on AWS services.
+- **AWS re:Post** is a community-driven Q&A platform offering peer, AWS, and expert advice for troubleshooting technical and account issues, alongside curated knowledge resources like the AWS Knowledge Center and best practices articles.
 
-- **Key features** include curated knowledge access, AWS Knowledge Center integration, and reusable best practices via articles and selections for faster learning and problem resolution.
+- **Topics** include high-traffic categories such as *Serverless* (11.2M+ posts), *Security, Identity & Compliance* (11.8M+ posts), *Containers* (5.1M+ posts), *Compute* (222.8M+ posts), and the *AWS Well-Architected Framework* (1.7M+ posts).
 
-- **Popular topics** include Serverless (1.1M+ followers), Security & Compliance (1.1M+), Containers (516K+), Compute (222M+), and AWS Well-Architected F
+- **Recent techni
 
 ## Use Cases
 

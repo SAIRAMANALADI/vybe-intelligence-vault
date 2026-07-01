@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-07-01T15:46:19.958615+05:30'
-published_at: '2026-07-01T05:59:55Z'
+collected_at: '2026-07-01T20:44:24.149392+05:30'
+published_at: '2026-07-01T15:12:45Z'
 tags:
 - github-repo
 - python
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-06-09T09:55:55Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-07-01T15:46:19.958615+05:30'
-last_seen: '2026-07-01T15:46:19.958615+05:30'
-last_checked: '2026-07-01T15:46:19.958615+05:30'
+first_seen: '2026-07-01T20:44:24.149392+05:30'
+last_seen: '2026-07-01T20:44:24.149392+05:30'
+last_checked: '2026-07-01T20:44:24.149392+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions, leveraging LLMs for contextual query responses.
-
-- **Modular Python Framework**: Built with extensible components for document ingestion, retrieval, and LLM integration, supporting custom pipelines and vector stores (e.g., FAISS, Chroma).
-
-- **Open-Source & Scalable**: Designed for enterprise-grade deployment with support for multi-modal inputs, hybrid search (dense/sparse retrieval), and distributed processing.
+- **RAG-based Document Chat Tool**: Open-source Python application enabling conversational interaction with documents using Retrieval-Augmented Generation (RAG) architecture for contextual query responses.
+- **Modular Pipeline**: Implements a configurable pipeline for document ingestion, embedding, retrieval, and generation, supporting customizable LLM backends and vector databases.
+- **Scalable & Extensible**: Designed for enterprise use with parallel processing, caching, and plugin support for additional document formats and retrieval strategies.
 
 ## Why It Matters
 
@@ -42,10 +40,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: Cinnamon
 - Stars: 25501
-- Forks: 2124
+- Forks: 2123
 - Language: Python
 - Topics: chatbot, llms, open-source, rag
-- Last Updated: 2026-07-01T05:59:55Z
+- Last Updated: 2026-07-01T15:12:45Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-03-25T08:16:42Z
