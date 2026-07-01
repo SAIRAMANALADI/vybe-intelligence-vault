@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Time**: A structured 5-week learning program focused on Retrieval-Augmented Generation (RAG) techniques, covering hybrid search, vector indexing, and quantization methods (binary/scalar) for efficient LLM retrieval.
-- **Key Technologies**: Integrates Azure, OpenAI APIs, HNSW (Hierarchical Navigable Small World) for vector search, Matryoshka representation learning, and multimodal RAG workflows in Jupyter Notebooks.
-- **Responsible AI & Tooling**: Emphasizes responsible AI practices, Azur
+- **Learning Path**: 5-week structured guide covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization, HNSW indexing, and Matryoshka representation learning.
+- **Tools & Integration**: Demonstrates RAG workflows using Azure, OpenAI APIs, VS Code, and multimodal inputs with responsible AI practices.
+- **Optimization Focus**: Emphasizes efficient retrieval (e.g., HNSW, quantization) and scalable multimodal RAG implementations.
 
 ## Use Cases
 

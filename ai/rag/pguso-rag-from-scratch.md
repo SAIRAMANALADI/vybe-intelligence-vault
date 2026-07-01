@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-07-01T22:55:32.889869+05:30'
-published_at: '2026-06-29T11:33:03Z'
+collected_at: '2026-07-02T01:47:05.533450+05:30'
+published_at: '2026-07-01T18:08:16Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - meta-ai
 - models
 - rag
-stars: 1469
+stars: 1470
 language: JavaScript
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-07-01T22:55:32.889869+05:30'
-last_seen: '2026-07-01T22:55:32.889869+05:30'
-last_checked: '2026-07-01T22:55:32.889869+05:30'
+first_seen: '2026-07-02T01:47:05.533450+05:30'
+last_seen: '2026-07-02T01:47:05.533450+05:30'
+last_checked: '2026-07-02T01:47:05.533450+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **End-to-End RAG Implementation**: Demonstrates building a Retrieval-Augmented Generation (RAG) pipeline from scratch using JavaScript, leveraging `node-llama-cpp` for local LLM integration without external black-box dependencies.
+- **End-to-End RAG Implementation**: Demonstrates building a Retrieval-Augmented Generation (RAG) pipeline from scratch using local LLMs (via `node-llama-cpp`) in JavaScript, covering embeddings, vector search, retrieval, and context-augmented generation without proprietary black boxes.
 
-- **Core Components Covered**: Implements embeddings generation, vector search (likely via cosine similarity or FAISS), retrieval mechanisms, and context-augmented generation to enhance LLM responses with retrieved data.
+- **Educational Focus**: Provides a hands-on tutorial for understanding core RAG components (embedding models, vector databases, retrieval mechanisms, and prompt augmentation) with practical Node.js-based implementation.
 
-- **Educational Focus**: Provides a hands-on tutorial for understanding RAG architecture, emphasizing transparency in how embeddings, retrieval, and generation interact to improve LLM performance.
+- **Toolchain & Integration**: Leverages `node-llama-cpp` for local LLM inference and includes agents, chatbot, and pipeline examples, emphasizing transparency and self-contained execution for educational purposes.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pguso
-- Stars: 1469
+- Stars: 1470
 - Forks: 174
 - Language: JavaScript
 - Topics: agents, ai-agents, educational, llm, node-llama-cpp, nodejs, rag, rag-chatbot, rag-pipeline, tutorial
-- Last Updated: 2026-06-29T11:33:03Z
+- Last Updated: 2026-07-01T18:08:16Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-27T16:19:58Z

@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Git Integration & Authentication**: GitHub relies on Git for version control, with secure remote access via SSH for encrypted communication over unsecured networks.
-- **Repository Management**: Users can create, manage, and format repositories with advanced syntax for documentation, while maintaining collaboration through pull requests.
-- **CI/CD & Security**: GitHub Actions enables automated workflows, while CodeQL and security tools (e.g., secret scanning, supply chain security) enforce co
+- GitHub provides comprehensive documentation for version control using Git, including local setup (`git init`), secure remote access via SSH, and repository management (creation, naming, and collaboration).
+- Key workflows include pull requests for proposing and reviewing changes, authentication methods (tokens, SSH keys), and IDE integration with GitHub Copilot for real-time code suggestions.
+- Enterprise and security features cover secure secrets management, vulnerability detection (CodeQL),
 
 ## Use Cases
 

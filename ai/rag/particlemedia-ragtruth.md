@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-07-01T22:55:12.998489+05:30'
+collected_at: '2026-07-02T01:46:45.611167+05:30'
 published_at: '2026-06-29T06:24:27Z'
 tags:
-- benchmark
 - dataset
 - github-repo
 - hackernews
@@ -21,9 +20,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-07-01T22:55:12.998489+05:30'
-last_seen: '2026-07-01T22:55:12.998489+05:30'
-last_checked: '2026-07-01T22:55:12.998489+05:30'
+first_seen: '2026-07-02T01:46:45.611167+05:30'
+last_seen: '2026-07-02T01:46:45.611167+05:30'
+last_checked: '2026-07-02T01:46:45.611167+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and categorizing hallucinations.
-- **Technical Scope**: Provides a Python-based framework for generating, annotating, and benchmarking hallucination datasets in RAG systems, enabling systematic assessment of model reliability.
-- **Repository Details**: Last updated June 2026, with 256 stars and 32 forks, hosted on GitHub under the MIT License (implied by standard conventions).
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs.
+
+- **Technical Scope**: Provides a structured dataset with annotated hallucinations, enabling fine-grained analysis of RAG model failures across retrieval and generation stages, implemented in Python for accessibility and integration with ML pipelines.
+
+- **Repository Metadata**: Hosted on GitHub with 256 stars and 32 forks as of the last update (2026-06-29), reflecting community engagement and potential for collaborative enhancements.
 
 ## Why It Matters
 

@@ -14,6 +14,7 @@ tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Implementation**: Python-based Retrieval-Augmented Generation (RAG) backend optimized for Vietnamese, integrating vector search with large language models (LLMs) for contextual retrieval.
-- **Key Components**: Includes embedding models (e.g., `vinai/phobert-base`), FAISS for vector indexing, and a FastAPI service for real-time query processing.
-- **Evaluation**: Benchmarked on Vietnamese datasets with metrics like retrieval precision (MRR, Recall@K) and generation quality (BLEU, ROUGE).
+- **Vietnamese RAG Implementation**: Repository demonstrates Retrieval-Augmented Generation (RAG) best practices optimized for Vietnamese language processing, including text preprocessing, embedding generation, and retrieval strategies tailored for Vietnamese corpora.
+
+- **Modular Python Architecture**: Implements a backend system in Python with modular components for document retrieval, vector storage (e.g., FAISS, Chroma), and LLM integration (e.g., ViT5, PhoBERT), enabling scalable and custom
 
 ## Use Cases
 

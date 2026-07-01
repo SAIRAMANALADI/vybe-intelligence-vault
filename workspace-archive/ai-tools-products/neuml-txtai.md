@@ -15,6 +15,7 @@ tags:
 - github-repo
 - python
 - rag
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Capabilities**: txtai is an end-to-end Python framework integrating semantic search, LLM orchestration, and language model workflows, supporting agents, RAG, and vector-based retrieval with transformers and embeddings.
+- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, leveraging embeddings, transformers, and vector search for end-to-end AI pipelines.
 
-- **Core Components**: Built on sentence embeddings, vector search, and retrieval-augmented generation (RAG), it includes a vector database for efficient similarity-based indexing and retrieval.
+- **Core Components**: Features sentence embeddings, vector databases, and retrieval-augmented generation (RAG) for high-performance information retrieval and generative tasks, with support for agents and AI workflow automation.
 
-- **Ecosystem Integration**: Supports NLP pipelines, large language mo
+- **Scalability & Extensibility**: Designed fo
 
 ## Use Cases
 

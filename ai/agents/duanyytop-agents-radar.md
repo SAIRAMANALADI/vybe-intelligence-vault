@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/duanyytop/agents-radar
-collected_at: '2026-07-01T22:57:08.371040+05:30'
+collected_at: '2026-07-02T01:48:40.557403+05:30'
 published_at: '2026-07-01T09:24:07Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2026-02-23T03:22:26Z'
 pushed_at: '2026-07-01T03:02:09Z'
 resource_id: github:duanyytop/agents-radar
-first_seen: '2026-07-01T22:57:08.371040+05:30'
-last_seen: '2026-07-01T22:57:08.371040+05:30'
-last_checked: '2026-07-01T22:57:08.371040+05:30'
+first_seen: '2026-07-02T01:48:40.557403+05:30'
+last_seen: '2026-07-02T01:48:40.557403+05:30'
+last_checked: '2026-07-02T01:48:40.557403+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Automated AI Ecosystem Aggregator**: Daily digest compiling AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
-- **Bilingual Reporting**: Generates reports in both Chinese (ZH) and English (EN) with automated workflows.
-- **TypeScript Implementation**: Open-source project written in TypeScript, last updated on 2026-07-01, with 868 stars and 139 forks.
+- **Multi-source AI Ecosystem Aggregator**: Automated daily digest compiling AI-related updates from 10 platforms (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) using GitHub Actions.
+- **Bilingual Report Generation**: Produces synchronized Chinese/English summaries via automated workflows, ensuring cross-language accessibility.
+- **TypeScript-Based Infrastructure**: Built with TypeScript for structured parsing, filtering, and report generation, last updated on 2026-07-01.
 
 ## Why It Matters
 

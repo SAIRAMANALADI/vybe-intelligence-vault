@@ -17,6 +17,7 @@ tags:
 - models
 - openai
 - unknown
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated repository** listing 28,566+ AI autonomous agents, including tools like AutoGPT, BabyAGI, GPT-Engineer, and Copilot, with 3,090 forks.
-- **Multi-language support** (primarily Python) covering OpenAI’s GPT-4, autonomous agent frameworks, and AI-driven development tools.
-- **Last updated July 2026**, maintaining a structured, community-driven index of cutting-edge AI agent technologies.
+- **Curated collection** of autonomous AI agents, frameworks, and tools including AutoGPT, BabyAGI, GPT-Engineer, and Copilot, primarily for Python-based AI development.
+- **Open-source repository** with 28,568 stars and 3,090 forks, last updated in July 2026, focusing on cutting-edge AI agent technologies and OpenAI integrations (GPT-4).
+- **Technical focus** on autonomous agents, artificial intelligence, and agentic workflows, serving as a high-signal reference for AI researchers and developer
 
 ## Use Cases
 

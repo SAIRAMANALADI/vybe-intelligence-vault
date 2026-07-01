@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ali-bahrainian/RAG_best_practices
-collected_at: '2026-07-01T22:56:07.923080+05:30'
+collected_at: '2026-07-02T01:47:40.524426+05:30'
 published_at: '2026-06-19T11:36:42Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
+- workflows
 stars: 107
 language: Python
 status: active
@@ -17,9 +19,9 @@ archived: false
 created_at: '2024-12-12T14:15:52Z'
 pushed_at: '2025-03-25T10:37:20Z'
 resource_id: github:ali-bahrainian/rag_best_practices
-first_seen: '2026-07-01T22:56:07.923080+05:30'
-last_seen: '2026-07-01T22:56:07.923080+05:30'
-last_checked: '2026-07-01T22:56:07.923080+05:30'
+first_seen: '2026-07-02T01:47:40.524426+05:30'
+last_seen: '2026-07-02T01:47:40.524426+05:30'
+last_checked: '2026-07-02T01:47:40.524426+05:30'
 health_score: 100
 ---
 
@@ -27,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository focused on best practices for Retrieval-Augmented Generation (RAG) systems, containing Python-based implementations and guidelines.
-- **Activity**: Last updated on **2026-06-19**, indicating recent development or maintenance.
-- **Community Metrics**: 107 stars and 20 forks, suggesting moderate adoption and interest in the RAG best practices space.
+- **Repository Overview**: GitHub repository focused on best practices for Retrieval-Augmented Generation (RAG) systems, containing Python-based implementations and methodologies.
+- **Metadata**: 107 stars, 20 forks, last updated on June 19, 2026; no explicit topics or description provided.
+- **Technical Stack**: Primarily Python, targeting optimization and standardization of RAG pipelines and workflows.
 
 ## Why It Matters
 

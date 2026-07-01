@@ -4,23 +4,23 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-07-01T23:04:10.292760+05:30'
-collected_at: '2026-07-01T23:04:10.292773+05:30'
+published_at: '2026-07-02T01:51:25.722403+05:30'
+collected_at: '2026-07-02T01:51:25.722419+05:30'
 tags:
 - agents
 - anthropic
 - frontend_ui
 - hackernews
 - openai
-- scripts
+- reddit
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-07-01T23:04:10.292773+05:30'
-last_seen: '2026-07-01T23:04:10.292773+05:30'
-last_checked: '2026-07-01T23:04:10.292773+05:30'
+first_seen: '2026-07-02T01:51:25.722419+05:30'
+last_seen: '2026-07-02T01:51:25.722419+05:30'
+last_checked: '2026-07-02T01:51:25.722419+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-model & parallel execution**: Supports `/model` switching and `/fleet` for parallelized subagent execution across models (e.g., Anthropic, Google, OpenAI) with `/plan` to `/pr` workflow automation.
+- **Multi-Agent Workflows**: Copilot CLI supports parallelized subagents via `/fleet`, enabling concurrent task execution across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, and multi-step autonomous workflows from `/plan` to merged PRs.
 
-- **GitHub-native MCP integration**: Directly interacts with GitHub issues, PRs, and branches via native `/mcp` server, enabling context-aware task execution while inheriting org policies (branch protections, required checks).
+- **GitHub-Native Integration**: Built on GitHub’s `/mcp` protocol, it interacts directly with issues, PRs, and branches, inherits organization policies (e.g., branch protections), and integrates with VS Code via terminal or chat panel.
 
-- **Agentic runtime & extensibility**: Enables `/agent` customization via `AGENTS.md` and MCP server plugins, with session persistence (`/resume`) and SDK support (`@github/copilot`) for building agentic workflows.
+- **Session Persistence & Extensibility**: Maintains context across sessions via `/resume`, supports custom agents/skills via `AGENTS.md`, and allows MCP server/plugin integrations for tailored workflows, with experimental features accessible via `/experimental show`.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-01T23:04:10.292760+05:30
+- Published: 2026-07-02T01:51:25.722403+05:30
 
 ## Related Tags
 
@@ -51,7 +51,7 @@ General public resource representing technology updates, guides, or tutorials.
 - frontend_ui
 - hackernews
 - openai
-- scripts
+- reddit
 - web-crawled
 - workflows
 - youtube

@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-07-01T22:57:53.444028+05:30'
+collected_at: '2026-07-02T01:49:25.607331+05:30'
 published_at: '2026-07-01T07:59:32Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - typescript
-- workflows
 stars: 518
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-29T13:00:12Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-07-01T22:57:53.444028+05:30'
-last_seen: '2026-07-01T22:57:53.444028+05:30'
-last_checked: '2026-07-01T22:57:53.444028+05:30'
+first_seen: '2026-07-02T01:49:25.607331+05:30'
+last_seen: '2026-07-02T01:49:25.607331+05:30'
+last_checked: '2026-07-02T01:49:25.607331+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Language Best Practices Repository**: Curated collection of coding standards and best practices for TypeScript, Kotlin, Go, Java (Spring Boot), PHP (Laravel), Dart (Flutter), and more, aimed at guiding AI agents in framework and language-specific implementations.
+- **Comprehensive Best Practices Repository**: Curated collection of coding standards and best practices for multiple programming languages (TypeScript, Kotlin, Go, etc.) and frameworks (React, Angular, Spring Boot, NestJS, etc.) to guide AI agents in adhering to industry-standard development practices.
 
-- **Framework-Specific Standards**: Includes structured guidelines for modern frameworks such as React, Next.js, Angular, NestJS, and Android/iOS development, ensuring AI agents adhere to optimized patterns and avoid anti-patterns.
+- **Multi-Platform & Multi-Framework Support**: Includes guidelines for Android (Kotlin), iOS (Flutter), web (React, Next.js, Angular), backend (Spring Boot, Laravel, NestJS), and cross-platform tools (React Native), ensuring broad applicability across modern development stacks.
 
-- **Agentic AI Tooling Integration**: Designed with Cursor Rules and other agentic AI tools in mind, facilitating seamless adoption of standardized practices for AI-driven development workflows.
+- **Agent-Oriented Tooling Integration**: Designed to optimize AI agent performance via structured rules (e.g., Cursor rules) and standardized practices, facilitating consistent, high-quality code generation and adherence to language/framework-specific conventions.
 
 ## Why It Matters
 

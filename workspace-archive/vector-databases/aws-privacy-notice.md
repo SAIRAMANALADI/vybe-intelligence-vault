@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection Scope**: AWS collects personal information via user-provided data, automatic interactions (e.g., cookies, logs), and third-party sources, excluding customer content processed under AWS services.
-- **Data Usage & Sharing**: Personal data is used for AWS service provisioning, fraud prevention, marketing, and shared with third-party service providers, business affiliates, or in compliance with legal obligations.
-- **Security & Retention**: AWS enforces PCI DSS compliance, encryp
+- **Data Collection Scope**: AWS collects personal information via user-provided data, automated interactions (e.g., logs, cookies), and third-party sources for service delivery, fraud prevention, and compliance.
+- **Data Sharing & Security**: Personal data is shared with third-party service providers, business partners, and in compliance with legal requests; AWS employs encryption (PCI DSS), physical/electronic safeguards, and regional data storage controls.
+- **User Control & Retention**: User
 
 ## Use Cases
 

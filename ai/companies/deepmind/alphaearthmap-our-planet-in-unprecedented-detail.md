@@ -4,8 +4,8 @@ category: ai/companies/deepmind
 source_type: company_blog
 source_name: Google DeepMind Blog
 source_url: https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail
-published_at: '2026-07-01T22:54:32.322839+05:30'
-collected_at: '2026-07-01T22:54:32.322841+05:30'
+published_at: '2026-07-02T01:46:07.243546+05:30'
+collected_at: '2026-07-02T01:46:07.243549+05:30'
 tags:
 - blog-post
 - deepmind
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: blog:alphaearthmap-our-planet-in-unprecedented-detail
 first_seen: '2026-06-16T04:26:32.685666+00:00'
-last_seen: '2026-07-01T22:54:32.322841+05:30'
-last_checked: '2026-07-01T22:54:32.322841+05:30'
+last_seen: '2026-07-02T01:46:07.243549+05:30'
+last_checked: '2026-07-02T01:46:07.243549+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Google DeepMind Blog
 - Article URL: https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail
-- Collected At: 2026-07-01T22:54:32.322841+05:30
+- Collected At: 2026-07-02T01:46:07.243549+05:30
 
 ## Related Tags
 

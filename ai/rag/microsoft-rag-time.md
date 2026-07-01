@@ -4,17 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-07-01T22:55:22.975402+05:30'
+collected_at: '2026-07-02T01:46:55.549240+05:30'
 published_at: '2026-06-28T15:57:16Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
 - models
 - openai
 - rag
-- reddit
+- workflows
 stars: 888
 language: Jupyter Notebook
 status: active
@@ -23,9 +22,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-07-01T22:55:22.975402+05:30'
-last_seen: '2026-07-01T22:55:22.975402+05:30'
-last_checked: '2026-07-01T22:55:22.975402+05:30'
+first_seen: '2026-07-02T01:46:55.549240+05:30'
+last_seen: '2026-07-02T01:46:55.549240+05:30'
+last_checked: '2026-07-02T01:46:55.549240+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **5-week structured curriculum** covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization, HNSW indexing, and Matryoshka representation learning for efficient retrieval and LLM integration.
-
-- **Hands-on implementation** using Jupyter Notebooks in VS Code, with Azure OpenAI services, focusing on multimodal RAG, responsible AI practices, and performance optimization (e.g., scalar/binary quantization for vector search).
-
-- **Hybrid search pipeline** combining keyword search, vector search (HNSW), and scalar/binary quantization, with modules on indexing, retrieval augmentation, and evaluation for scalable, production-grade RAG systems.
+- **Learning Path**: 5-week structured guide covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization, HNSW indexing, and Matryoshka representation learning.
+- **Tools & Integration**: Demonstrates RAG workflows using Azure, OpenAI APIs, VS Code, and multimodal inputs with responsible AI practices.
+- **Optimization Focus**: Emphasizes efficient retrieval (e.g., HNSW, quantization) and scalable multimodal RAG implementations.
 
 ## Why It Matters
 

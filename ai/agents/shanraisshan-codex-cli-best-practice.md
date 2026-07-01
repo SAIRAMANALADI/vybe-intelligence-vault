@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-07-01T22:57:53.028861+05:30'
+collected_at: '2026-07-02T01:49:25.621427+05:30'
 published_at: '2026-07-01T14:21:43Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-07-01T22:57:53.028861+05:30'
-last_seen: '2026-07-01T22:57:53.028861+05:30'
-last_checked: '2026-07-01T22:57:53.028861+05:30'
+first_seen: '2026-07-02T01:49:25.621427+05:30'
+last_seen: '2026-07-02T01:49:25.621427+05:30'
+last_checked: '2026-07-02T01:49:25.621427+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
+- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using OpenAI Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
 
-- **Codex CLI Best Practices**: Provides a curated set of commands, skills, and hooks for OpenAI Codex, optimizing context management, multi-agent collaboration, and CLI-based agentic workflows in Python.
+- **CLI-Centric Best Practices**: Provides a curated set of *codex-cli-commands*, *skills*, and *hooks* for optimizing AI agent interactions, including context management, command chaining, and stateful execution in Python-based environments.
 
-- **Pakistan-Centric Development**: Repository curated by a Pakistani developer, showcasing localized best practices for AI agent deployment while maintaining alignment with global agentic engineering standards.
+- **Open-Source Tooling for AI Agents**: Repository serves as a Pakistan-based open-source reference for *agentic-ai* and *codex-ai* tooling, offering reusable patterns for AI agent orchestration, skill development, and CLI-driven automation in software engineering.
 
 ## Why It Matters
 

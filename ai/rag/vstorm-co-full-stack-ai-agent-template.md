@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-07-01T22:55:37.936586+05:30'
+collected_at: '2026-07-02T01:47:10.570872+05:30'
 published_at: '2026-07-01T11:26:21Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 1484
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-06-30T13:26:31Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-07-01T22:55:37.936586+05:30'
-last_seen: '2026-07-01T22:55:37.936586+05:30'
-last_checked: '2026-07-01T22:55:37.936586+05:30'
+first_seen: '2026-07-02T01:47:10.570872+05:30'
+last_seen: '2026-07-02T01:47:10.570872+05:30'
+last_checked: '2026-07-02T01:47:10.570872+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Full-stack template combining FastAPI (backend) and Next.js (frontend) with AI agent frameworks (CrewAI, LangChain, LangGraph, Pydantic-AI), PostgreSQL (database), and Docker (containerization).
+- **Tech Stack**: Combines FastAPI (backend) and Next.js (frontend) with AI agents, RAG, streaming, authentication, and 20+ integrations (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI/Deep).
 
-- **Core Features**: Pre-integrated with 20+ tools (e.g., RAG, streaming, authentication, WebSockets) and supports AI agent workflows, real-time updates, and structured data validation via Pydantic models.
+- **Key Features**: Pre-configured PostgreSQL database, WebSocket support, Docker deployment, and modular architecture for rapid full-stack AI app development.
 
-- **Deployment**: Production-ready setup with PostgreSQL for persistence, FastAPI for REST/WebSocket APIs, and Next.js for React-based UI, last updated July 2026.
+- **Updates & Ecosystem**: Last updated July 2026; includes React/TypeScript frontend, Python backend, and supports 10+ AI frameworks/topics (e.g., LLM, RAG, agent-framework).
 
 ## Why It Matters
 

@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-07-01T22:56:52.964199+05:30'
+collected_at: '2026-07-02T01:48:20.556628+05:30'
 published_at: '2026-07-01T14:42:18Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 stars: 647
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-07-01T22:56:52.964199+05:30'
-last_seen: '2026-07-01T22:56:52.964199+05:30'
-last_checked: '2026-07-01T22:56:52.964199+05:30'
+first_seen: '2026-07-02T01:48:20.556628+05:30'
+last_seen: '2026-07-02T01:48:20.556628+05:30'
+last_checked: '2026-07-02T01:48:20.556628+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Demonstrates end-to-end construction of a production-grade Retrieval-Augmented Generation (RAG) application using Python, with modular components for document ingestion, vector storage, and LLM integration.
+- **Educational RAG Pipeline**: Step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, emphasizing modularity and scalability.
 
-- **Tech Stack**: Implements FastAPI for backend services, Docker for containerization, and leverages GenAI models (e.g., embeddings, LLMs) with vector databases (e.g., FAISS, Chroma) for scalable retrieval.
+- **Modular Architecture**: Implements a decoupled design with components for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval, and LLM inference, integrated via FastAPI endpoints.
 
-- **Step-by-Step Guide**: Provides a structured tutorial covering deployment, API design, and optimization techniques, with emphasis on scalability, monitoring, and CI/CD integration.
+- **Deployment & Scalability**: Includes Dockerized setup for containerized deployment, with configurations for CI/CD, monitoring, and horizontal scaling of RAG services.
 
 ## Why It Matters
 

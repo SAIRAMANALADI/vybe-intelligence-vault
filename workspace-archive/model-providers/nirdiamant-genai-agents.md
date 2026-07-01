@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Resource**: Repository containing 50+ tutorials and implementations for Generative AI Agent techniques, spanning from basic conversational bots to advanced multi-agent systems.
+- **Comprehensive Tutorial Repository**: Hosts 50+ technical tutorials and implementations for Generative AI Agent techniques, covering conversational bots to advanced multi-agent systems.
 
-- **Technical Stack**: Primarily utilizes Python in Jupyter Notebooks, integrating frameworks such as LangChain, LangGraph, OpenAI, and MCP for agentic AI, RAG, and LLM-based applications.
+- **Multi-Framework Support**: Includes implementations using LangChain, LangGraph, MCP, and other frameworks, with integration for LLMs (e.g., OpenAI) and RAG pipelines.
 
-- **High Activity & Reach**: Maintained repository with 22,956 stars and 3,857 forks, last updated on July 1, 2026
+- **Python-Based Jupyter Notebooks**: All resources are provided as executable Jupyter Notebooks, emphasizing hands-on learning for agenti
 
 ## Use Cases
 

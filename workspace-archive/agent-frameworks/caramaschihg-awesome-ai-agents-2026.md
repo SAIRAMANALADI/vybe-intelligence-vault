@@ -13,9 +13,9 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - unknown
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive AI Agent Resource Hub**: Curated list of 300+ AI agents, frameworks, and tools across 20+ categories, updated monthly for 2026.
-- **Multi-Framework Integration**: Covers key ecosystems (e.g., LangChain, ChatGPT) and LLM-centric tools for machine learning workflows.
-- **Active Maintenance**: Last updated July 2026, with 1,365 stars and 441 forks, indicating robust community engagement.
+- **Curated Repository**: Hosts 300+ AI agent frameworks, tools, and resources across 20+ categories, updated monthly for 2026 relevance.
+- **Technical Scope**: Covers ChatGPT, LangChain, LLMs, and machine learning tools, with a focus on AI agent architectures and applications.
+- **Collaborative Metrics**: Maintained by the community with 1,366 stars and 441 forks, ensuring broad adoption and peer review.
 
 ## Use Cases
 

@@ -8,11 +8,10 @@ local_vault_path: ai/rag/privacy-policy-privacy-terms-google.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - agents
-- dataset
 - hackernews
 - models
 - paper
@@ -22,7 +21,7 @@ tags:
 - web-crawled
 - youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Privacy Policy – Privacy & Terms – Google
@@ -31,15 +30,14 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked personal info (emails, photos), device identifiers (IP, unique IDs), and activity logs (searches, watch history, location via GPS/Wi-Fi/cell towers) to personalize content and ads.
-
-- **Cross-Platform Tracking**: Non-account data is tied to browser/device identifiers (e.g., Chrome Incognito mode), enabling cross-session personalization (language, ad relevance) without acco
+- **Data Collection Scope**: Google aggregates data across apps, browsers, and devices, including unique identifiers, IP addresses, device settings, activity logs (searches, videos, interactions), location data (GPS, Wi-Fi, IP), and third-party site/app interactions, with or without an account.
+- **Personal vs. Non-Personal Data**: Signed-in users’ data (e.g., emails, photos, payment info) is tied to their Google Account as personal information, while unsigned users’ data is anonymized via uniqu
 
 ## Use Cases
 

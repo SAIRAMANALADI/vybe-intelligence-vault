@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://skills.github.com
-published_at: '2026-06-29T01:23:07.906048+05:30'
-collected_at: '2026-06-29T01:23:07.906060+05:30'
+published_at: '2026-07-02T01:51:26.935651+05:30'
+collected_at: '2026-07-02T01:51:26.935665+05:30'
 tags:
-- scripts
+- hackernews
 - web-crawled
 - workflows
 status: active
 resource_id: blog:redirecting-to-github-learn
-first_seen: '2026-06-29T01:23:07.906060+05:30'
-last_seen: '2026-06-29T01:23:07.906060+05:30'
-last_checked: '2026-06-29T01:23:07.906060+05:30'
+first_seen: '2026-07-02T01:51:26.935665+05:30'
+last_seen: '2026-07-02T01:51:26.935665+05:30'
+last_checked: '2026-07-02T01:51:26.935665+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- GitHub Learn provides interactive, hands-on tutorials for mastering Git and GitHub workflows directly in the browser.
-- Skills include version control fundamentals, branching strategies, pull requests, and CI/CD integration via GitHub Actions.
-- Each module combines guided instructions with real-time coding environments to reinforce practical proficiency.
+- GitHub Learn provides structured, hands-on tutorials for mastering Git and GitHub workflows.
+- Interactive exercises and projects enable practical application of version control and collaboration techniques.
+- Learning paths are organized by skill level, covering fundamentals to advanced CI/CD and security practices.
 
 ## Why It Matters
 
@@ -34,11 +34,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-29T01:23:07.906048+05:30
+- Published: 2026-07-02T01:51:26.935651+05:30
 
 ## Related Tags
 
-- scripts
+- hackernews
 - web-crawled
 - workflows
 

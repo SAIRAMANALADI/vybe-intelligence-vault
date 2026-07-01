@@ -6,7 +6,7 @@ source_url: https://docs.github.com
 resource_id: blog:github-docs
 local_vault_path: ai/agents/github-docs.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Git Integration & Authentication**: GitHub relies on Git for version control, with secure remote access via SSH for encrypted communication over unsecured networks.
-- **Repository Management**: Users can create, manage, and format repositories with advanced syntax for documentation, while maintaining collaboration through pull requests.
-- **CI/CD & Security**: GitHub Actions enables automated workflows, while CodeQL and security tools (e.g., secret scanning, supply chain security) enforce co
+- GitHub provides comprehensive documentation for version control using Git, including local setup (`git init`), secure remote access via SSH, and repository management (creation, naming, and collaboration).
+- Key workflows include pull requests for proposing and reviewing changes, authentication methods (tokens, SSH keys), and IDE integration with GitHub Copilot for real-time code suggestions.
+- Enterprise and security features cover secure secrets management, vulnerability detection (CodeQL),
 
 ## Use Cases
 

@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Vulnerability Detection**: Scans AI-powered applications (e.g., chatbots, RAG systems) for critical vulnerabilities like prompt injection, data leakage, and adversarial attacks using automated testing and red-teaming techniques.
-
-- **OWASP & AI Security Compliance**: Implements OWASP LLM Top 10 and AI-specific security checks to identify risks such as insecure output handling, excessive data exposure, and unauthorized model manipulation.
-
-- **Python-Based Toolkit**: Provides a Python framewo
+- **Tool Overview**: Python-based RAG/LLM Security Scanner designed to detect critical vulnerabilities in AI applications (e.g., chatbots, virtual assistants) via automated testing and penetration testing techniques.
+- **Key Features**: Supports detection of prompt injection, OWASP Top 10 AI risks, and other LLM-specific threats; integrates with OpenAI and other AI frameworks for security audits.
+- **Functionality**: Leverages red-team methodologies for vulnerability scanning, including automate
 
 ## Use Cases
 

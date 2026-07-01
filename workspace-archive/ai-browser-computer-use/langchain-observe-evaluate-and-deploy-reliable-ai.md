@@ -2,18 +2,19 @@
 title: 'LangChain: Observe, Evaluate, and Deploy Reliable AI Agents'
 archive_category: ai-browser-computer-use
 source_category: ai/agents
-source_url: https://langchain.com/
+source_url: https://www.langchain.com/
 resource_id: blog:langchain-observe-evaluate-and-deploy-reliable-ai
 local_vault_path: ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - benchmark
 - web-crawled
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -24,15 +25,17 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: mcp-server
+- Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Multi-framework observability**: LangSmith provides native tracing for popular agent frameworks (e.g., LangChain, LangGraph) and OpenTelemetry, with SDKs in Python, TypeScript, Go, and Java for structured debugging of multi-turn agent interactions via message threading and AI-driven analytics.
+- **Multi-SDK Integration**: LangSmith supports Python, TypeScript, Go, and Java SDKs for framework-agnostic agent tracing, evaluation, and deployment, with OpenTelemetry compatibility for observability.
 
-- **Automated evaluation & deployment**: Supports LLM-as-judge evals, human feedback calibration, and scalable agent deployment with fault-tolerant infrastructure, durable checkpointing, and native pr
+- **Autonomous Agent Debugging**: LangSmith Engine clusters production failures, diagnoses root causes in traces/code, and proposes fixes autonomously to accelerate agent improvement cycles.
+
+- **Production-Grade Deployment**: LangSmith’s agent server provides fault-tolerant, scalable runtime w
 
 ## Use Cases
 
@@ -42,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://langchain.com/
+Original source URL: https://www.langchain.com/
 
 ## Local Vault File
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/llmware-ai/llmware
-collected_at: '2026-07-01T20:47:09.272734+05:30'
+collected_at: '2026-07-02T01:50:05.676551+05:30'
 published_at: '2026-07-01T14:04:46Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 stars: 14815
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2023-09-29T15:19:06Z'
 pushed_at: '2026-05-17T13:53:37Z'
 resource_id: github:llmware-ai/llmware
-first_seen: '2026-07-01T20:47:09.272734+05:30'
-last_seen: '2026-07-01T20:47:09.272734+05:30'
-last_checked: '2026-07-01T20:47:09.272734+05:30'
+first_seen: '2026-07-02T01:50:05.676551+05:30'
+last_seen: '2026-07-02T01:50:05.676551+05:30'
+last_checked: '2026-07-02T01:50:05.676551+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: Unified Python-based framework for constructing enterprise-grade RAG pipelines using small, specialized models (e.g., LlamaCpp, ONNX, OpenVINO) optimized for efficiency and scalability.
+- **Unified RAG Framework**: Provides a consolidated Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines leveraging small, specialized models optimized for efficiency and performance.
 
-- **Key Features**: Integrates parsing, retrieval augmentation, and generative AI tools with support for agent-based workflows and multi-model compatibility.
+- **Multi-Backend Support**: Integrates multiple inference backends (e.g., llama.cpp, ONNX, OpenVINO) and supports parsing tools, enabling deployment flexibility across diverse hardware and software environments.
 
-- **Performance & Compatibility**: Designed for low-latency inference with last update (July 2026) ensuring compatibility with modern AI toolchains and hardware acceleration.
+- **Enterprise Optimization**: Focuses on scalable, production-ready RAG pipelines with tools for agents, model quantization, and retrieval augmentation, designed for low-latency, high-throughput enterprise applications.
 
 ## Why It Matters
 

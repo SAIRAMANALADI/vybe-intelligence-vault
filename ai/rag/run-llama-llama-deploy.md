@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama_deploy
-collected_at: '2026-06-29T01:24:13.560395+05:30'
+collected_at: '2026-07-02T01:51:30.403182+05:30'
 published_at: '2026-06-09T17:23:27Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-05-29T16:52:16Z'
 pushed_at: '2026-04-06T20:36:41Z'
 resource_id: github:run-llama/llama_deploy
-first_seen: '2026-06-29T01:24:13.560395+05:30'
-last_seen: '2026-06-29T01:24:13.560395+05:30'
-last_checked: '2026-06-29T01:24:13.560395+05:30'
+first_seen: '2026-07-02T01:51:30.403182+05:30'
+last_seen: '2026-07-02T01:51:30.403182+05:30'
+last_checked: '2026-07-02T01:51:30.403182+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: Python-based framework for deploying agentic workflows to production, leveraging LLM integration (via LlamaIndex) and multi-agent architectures.
-- **Key Features**: Supports scalable deployment of autonomous agents, workflow orchestration, and production-grade infrastructure for LLM-driven applications.
-- **Ecosystem Integration**: Compatible with LlamaIndex for data indexing and retrieval, enabling advanced RAG and agentic capabilities in deployed workflows.
+- **Framework for Agentic Workflow Deployment**: Python-based framework enabling production deployment of agentic workflows with support for multi-agent systems, built on LlamaIndex and LLM integration.
+
+- **Key Features**: Facilitates scalable, modular deployment of AI agents with built-in orchestration, state management, and service discovery for distributed workflows.
+
+- **Production-Ready Tooling**: Includes CLI, API endpoints, and monitoring capabilities for managing agent interactions, task execution, and system health in deployment environments.
 
 ## Why It Matters
 
@@ -44,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: run-llama
 - Stars: 2068
-- Forks: 224
+- Forks: 223
 - Language: Python
 - Topics: agents, deployment, framework, llamaindex, llm, multi-agents
 - Last Updated: 2026-06-09T17:23:27Z

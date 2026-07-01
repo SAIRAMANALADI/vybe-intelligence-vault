@@ -13,9 +13,6 @@ importance: medium
 tags:
 - frontend_ui
 - github-repo
-- meta-ai
-- mistral
-- models
 - openai
 - python
 - rag
@@ -38,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-LLM Integration**: Open-source AI chat platform supporting all major LLMs (e.g., ChatGPT, Llama, Mistral) via modular API adapters, enabling seamless switching between models without vendor lock-in.
-
-- **Enterprise-Grade RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with advanced vector databases (e.g., FAISS, Pinecone) for high-precision contextual retrieval and self-hosted knowledge integration.
-
-- **Next.js Frontend + Python Backend**: Hybrid architecture wi
+- **Multi-LLM Compatibility**: Open-source AI chat platform (`onyx`) supporting integration with any Large Language Model (LLM), enabling flexible deployment across diverse AI backends.
+- **Enterprise-Grade Features**: Implements Retrieval-Augmented Generation (RAG), vector search, and information retrieval for advanced AI-driven workflows, with self-hosting capabilities for data privacy.
+- **Tech Stack**: Python-based backend with Next.js frontend, optimized for scalability and modularity (30.6
 
 ## Use Cases
 

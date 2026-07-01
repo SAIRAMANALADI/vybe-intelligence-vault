@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/youtube/api-samples
-collected_at: '2026-07-01T15:50:17.139203+05:30'
+collected_at: '2026-07-02T01:51:10.393693+05:30'
 published_at: '2026-07-01T07:15:37Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: true
 created_at: '2013-12-09T18:41:41Z'
 pushed_at: '2024-06-09T20:38:03Z'
 resource_id: github:youtube/api-samples
-first_seen: '2026-07-01T15:50:17.139203+05:30'
-last_seen: '2026-07-01T15:50:17.139203+05:30'
-last_checked: '2026-07-01T15:50:17.139203+05:30'
+first_seen: '2026-07-02T01:51:10.393693+05:30'
+last_seen: '2026-07-02T01:51:10.393693+05:30'
+last_checked: '2026-07-02T01:51:10.393693+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Contains code samples for YouTube APIs (Data, Analytics, Live Streaming) with language-specific directories (primarily Java).
-- **Metadata**: 6,004 stars, 3,053 forks, last updated July 1, 2026.
-- **Purpose**: Demonstrates API integration patterns for YouTube services.
+*   Provides language-specific code samples for YouTube Data, Analytics, and Live Streaming APIs.
+*   Primarily features Java implementations for API interaction.
+*   Facilitates development and integration with core YouTube platform functionalities via official APIs.
 
 ## Why It Matters
 

@@ -13,12 +13,10 @@ importance: medium
 tags:
 - agents
 - anthropic
-- benchmark
 - github-repo
 - meta-ai
 - models
 - rag
-- scripts
 - typescript
 selection_reason:
 - Strong keyword match
@@ -38,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Action Integration**: Enables automated testing of AI prompts, agents, and RAG systems via GitHub Actions with declarative YAML configurations for CI/CD pipelines.
-- **Multi-Model Benchmarking**: Supports performance comparison across major LLMs (GPT, Claude, Gemini, Llama, etc.) with built-in AI red teaming and vulnerability scanning for LLM security assessment.
-- **TypeScript-Based Tooling**: Provides a TypeScript implementation for local/remote prompt evaluation, prompt engineering
+- **GitHub Action for Promptfoo**: Enables automated testing of prompts, agents, and RAG systems with AI red teaming, pentesting, and LLM vulnerability scanning.
+- **Multi-LLM Support**: Compares performance across models (GPT, Claude, Gemini, Llama, etc.) via declarative configurations, CLI, and CI/CD integration.
+- **TypeScript-Based**: Implemented in TypeScript with topics covering LLM security, prompt engineering, and RAG optimization.
 
 ## Use Cases
 

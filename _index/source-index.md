@@ -6392,7 +6392,6 @@ Resources organized by publisher feed and query sources.
   - [AlexPEClub/ai-coding-starter-kit](../ai/agents/alexpeclub-ai-coding-starter-kit.md)
   - [Ammumammu/https-github.com-majacinka-crewai-experiments](../ai/agents/ammumammu-https-github-com-majacinka-crewai-experiments.md)
   - [Andrew-Jang/RAGHub](../ai/rag/andrew-jang-raghub.md)
-  - [AnswerDotAI/RAGatouille](../ai/rag/answerdotai-ragatouille.md)
   - [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md)
   - [AvdLee/SwiftUI-Agent-Skill](../ai/agents/avdlee-swiftui-agent-skill.md)
   - [Azure-Samples/aisearch-openai-rag-audio](../ai/rag/azure-samples-aisearch-openai-rag-audio.md)
@@ -6676,7 +6675,6 @@ Resources organized by publisher feed and query sources.
   - [daveshap/OpenAI_Agent_Swarm](../ai/rag/daveshap-openai-agent-swarm.md)
   - [davidlyons/threejs-intro](../web-development/threejs/davidlyons-threejs-intro.md)
   - [decodingai-magazine/llm-twin-course](../ai/rag/decodingai-magazine-llm-twin-course.md)
-  - [deepset-ai/haystack](../ai/rag/deepset-ai-haystack.md)
   - [deepset-ai/haystack-cookbook](../ai/rag/deepset-ai-haystack-cookbook.md)
   - [deepset-ai/haystack-experimental](../ai/resources/deepset-ai-haystack-experimental.md)
   - [demcp/awesome-web3-mcp-servers](../ai/resources/demcp-awesome-web3-mcp-servers.md)
@@ -7180,10 +7178,8 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Apple 'Hide My Email' Vulnerability Reveals Peoples' Real Email Addresses](../ai/community/apple-hide-my-email-vulnerability-reveals-peoples.md)
-  - [Meta loses bid to dismiss US states' claims that FB, Instagram addict children](../ai/community/meta-loses-bid-to-dismiss-us-states-claims-that-fb.md)
-  - [Nintendo has raised its employees base salary by 10%](../ai/community/nintendo-has-raised-its-employees-base-salary-by-1.md)
-  - [Show HN: PMB – local memory for coding agents that shows if it is used](../ai/community/show-hn-pmb-local-memory-for-coding-agents-that-sh.md)
+  - [Apple 'Hide My Email' vulnerability reveals peoples' real email addresses](../ai/community/apple-hide-my-email-vulnerability-reveals-peoples.md)
+  - [Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps](../ai/community/division-36-z-jail.md)
   - [Sony Deletes 551 Movies PlayStation Owners Paid For](../ai/community/sony-deletes-551-movies-playstation-owners-paid-fo.md)
 
 ## Unknown Source (type: huggingface)
@@ -8293,6 +8289,7 @@ Resources organized by publisher feed and query sources.
   - [AUI - Documentation](../ai/resources/aui-documentation.md)
   - [AWS Builder Center](../ai/resources/aws-builder-center.md)
   - [AWS Deep Learning Containers Documentation Has Moved - AWS Deep Learning Containers](../ai/resources/aws-deep-learning-containers-documentation-has-mov.md)
+  - [AWS Email Preference Center](../ai/resources/aws-email-preference-center.md)
   - [AWS Marketplace adds Chainlink data standards, enabling devs to link traditional computing services and blockchains | Th](../ai/rag/aws-marketplace-adds-chainlink-data-standards-enab.md)
   - [AWS Privacy Notice](../ai/rag/aws-privacy-notice.md)
   - [AWS Site Terms](../ai/rag/aws-site-terms.md)
@@ -10060,6 +10057,7 @@ Resources organized by publisher feed and query sources.
   - [Privacy & Terms – Google](../ai/resources/privacy-terms-google.md)
   - [Privacy - Apple](../ai/resources/privacy-apple.md)
   - [Privacy @ Oracle | Oracle](../ai/resources/privacy-oracle-oracle.md)
+  - [Privacy Help Center - Policies Help](../ai/rag/privacy-help-center-policies-help.md)
   - [Privacy Policy - Gravitee](../ai/agents/privacy-policy-gravitee.md)
   - [Privacy Policy | Atlassian](../ai/rag/privacy-policy-atlassian.md)
   - [Privacy Policy | Jito Foundation](../ai/rag/privacy-policy-jito-foundation.md)
@@ -10159,6 +10157,7 @@ Resources organized by publisher feed and query sources.
   - [RAG systems: Best practices to master evaluation for accurate and reliable AI. | Google Cloud Blog](../ai/rag/rag-systems-best-practices-to-master-evaluation-fo.md)
   - [RAGFlow](../ai/rag/ragflow.md)
   - [RAGatouille](../ai/rag/ragatouille.md)
+  - [RAGatouille/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb at main · AnswerDotAI/RAGat](../ai/rag/answerdotai-ragatouille.md)
   - [RAL Home | Research Applications Laboratory](../ai/resources/ral-home-research-applications-laboratory.md)
   - [RFC 3986 - Uniform Resource Identifier (URI): Generic Syntax](../ai/rag/rfc-3986-uniform-resource-identifier-uri-generic-s.md)
   - [RFC 5226: Guidelines for Writing an IANA Considerations Section in RFCs | RFC Editor](../ai/rag/rfc-5226-guidelines-for-writing-an-iana-considerat.md)
@@ -10353,6 +10352,7 @@ Resources organized by publisher feed and query sources.
   - [Sign in - Google Accounts](../ai/resources/sign-in-google-accounts.md)
   - [Sign in on a device that's not yours - Computer - Google Account Help](../ai/rag/sign-in-on-a-device-that-s-not-yours-computer-goog.md)
   - [Sign in to Chrome - Computer - Google Chrome Help](../ai/resources/sign-in-to-chrome-computer-google-chrome-help.md)
+  - [Sign in to GitHub · GitHub](../ai/resources/cloudflare-cloudflare-docs.md)
   - [Sign in to GitHub · GitHub](../ai/resources/cloudflare-workers-sdk.md)
   - [Sign in to GitHub · GitHub](../ai/resources/milvus-io-milvus-docs.md)
   - [Sign in to GitHub · GitHub](../ai/resources/getsentry-sentry-docs.md)
@@ -10360,7 +10360,6 @@ Resources organized by publisher feed and query sources.
   - [Sign in to GitHub · GitHub](../ai/resources/firecrawl-firecrawl-docs.md)
   - [Sign in to GitHub · GitHub](../ai/resources/docker-docs.md)
   - [Sign in to GitHub · GitHub](../ai/agents/langchain-ai-docs.md)
-  - [Sign in to GitHub · GitHub](../ai/resources/cloudflare-cloudflare-docs.md)
   - [Sign in to MED SSO (SU, SHC, LPCH)](../ai/resources/sign-in-to-med-sso-su-shc-lpch.md)
   - [Sign in with your UT EID - Loading Session Information](../ai/resources/sign-in-with-your-ut-eid-loading-session-informati.md)
   - [Sign up - Mintlify](../ai/resources/sign-up-mintlify.md)
@@ -11001,6 +11000,7 @@ Resources organized by publisher feed and query sources.
   - [deepset (deepset)](../ai/rag/deepset-deepset.md)
   - [deepset Trust Center](../ai/resources/deepset-trust-center.md)
   - [deepset · GitHub](../ai/resources/deepset-github.md)
+  - [deepset-ai/haystack · Discussions · GitHub](../ai/rag/deepset-ai-haystack.md)
   - [design-proposals-archive/storage/persistent-storage.md at main · kubernetes/design-proposals-archive · GitHub](../ai/rag/design-proposals-archive-storage-persistent-storag.md)
   - [dev](../ai/rag/dev.md)
   - [dev-program](../ai/resources/dev-program.md)
@@ -11227,4 +11227,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-07-01T23:10:23.101214+05:30*
+*Index generated on 2026-07-02T02:02:04.467388+05:30*

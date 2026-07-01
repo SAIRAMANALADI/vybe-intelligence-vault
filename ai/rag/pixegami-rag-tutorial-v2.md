@@ -4,17 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-07-01T22:55:28.331348+05:30'
+collected_at: '2026-07-02T01:47:00.465925+05:30'
 published_at: '2026-07-01T09:42:55Z'
 tags:
-- benchmark
 - github-repo
 - meta-ai
-- mistral
 - models
 - python
 - rag
-- workflows
 stars: 958
 language: Python
 status: active
@@ -22,9 +19,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-07-01T22:55:28.331348+05:30'
-last_seen: '2026-07-01T22:55:28.331348+05:30'
-last_checked: '2026-07-01T22:55:28.331348+05:30'
+first_seen: '2026-07-02T01:47:00.465925+05:30'
+last_seen: '2026-07-02T01:47:00.465925+05:30'
+last_checked: '2026-07-02T01:47:00.465925+05:30'
 health_score: 100
 ---
 
@@ -32,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates end-to-end RAG workflow using locally deployed LLMs (e.g., Llama2, Mistral) via Ollama or LM Studio, avoiding cloud dependency.
-- **Dynamic Database Updates**: Implements automated vector store (ChromaDB/FAISS) refreshes with new documents using LangChain’s `RecursiveCharacterTextSplitter` and embedding pipelines.
-- **Testing & Evaluation**: Includes unit tests (pytest) for retrieval accuracy, prompt engineering validation, and performance benchmarks for RAG components.
+- **Local LLM Integration**: Demonstrates end-to-end RAG pipeline using local language models (e.g., Ollama, LM Studio) for privacy and offline capability.
+- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma, FAISS) refresh mechanisms for real-time document ingestion and retrieval.
+- **Testing Framework**: Includes unit/integration tests (e.g., pytest) for evaluating retrieval quality, prompt engineering, and LLM response accuracy.
 
 ## Why It Matters
 

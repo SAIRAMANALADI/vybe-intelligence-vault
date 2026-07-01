@@ -8,7 +8,7 @@ local_vault_path: ai/rag/lancedb-vectordb-recipes.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # lancedb/vectordb-recipes
@@ -30,16 +30,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI applications using vector search and LLMs (e.g., GPT-4-Vision, LlamaIndex, LangChain).
-- **Vector Database Integration**: Demonstrates fine-tuning and embedding workflows with LanceDB, OpenAI embeddings, and vector databases for scalable retrieval in AI agents.
-- **Agent & LLM Tooling**: Includes tutorials on deploying AI agents with LangChain/LlamaIndex,
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based tutorials and examples for integrating vector search with LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain) for multimodal AI, retrieval-augmented generation (RAG), and agent-based workflows.
+- **Vector Database Integration**: Demonstrates practical use cases leveraging LanceDB (a vector database) for efficient similarity search, embeddings, and fine-tuning workflows in deep-learning pipelines.
+- **Tooling & Frameworks**:
 
 ## Use Cases
 

@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-01T22:56:38.398434+05:30'
+collected_at: '2026-07-02T01:48:10.565662+05:30'
 published_at: '2026-06-30T11:39:04Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
+- meta-ai
+- models
 - python
 - rag
 - reddit
@@ -21,9 +23,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-01T22:56:38.398434+05:30'
-last_seen: '2026-07-01T22:56:38.398434+05:30'
-last_checked: '2026-07-01T22:56:38.398434+05:30'
+first_seen: '2026-07-02T01:48:10.565662+05:30'
+last_seen: '2026-07-02T01:48:10.565662+05:30'
+last_checked: '2026-07-02T01:48:10.565662+05:30'
 health_score: 100
 ---
 
@@ -31,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Framework**: Introduces *PoisonedRAG*, a first-of-its-kind attack targeting Retrieval-Augmented Generation (RAG) systems by corrupting the external knowledge base to manipulate LLM outputs, demonstrated in USENIX Security 2025.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by manipulating retrieved documents to alter LLM outputs without direct model access.
 
-- **Technical Mechanism**: Exploits adversarial perturbations in document embeddings or retrieval indices to inject malicious associations, causing the RAG pipeline to retrieve and prioritize attacker-controlled or misleading information during inference.
+- **Technical Mechanism**: Exploits adversarial embedding poisoning in vector databases, enabling attackers to inject malicious but semantically plausible content that skews retrieval results toward attacker-controlled narratives.
 
-- **Evaluation & Impact**: Validates attack efficacy on multiple RAG architectures, showing significant degradation in response accuracy and trustworthiness, with potential to propagate misinformation or enable targeted misdirection in downstream applications.
+- **Evaluation & Impact**: Validated on multiple RAG pipelines (e.g., LlamaIndex, LangChain) with empirical results showing up to **90% attack success rate** in inducing targeted misinformation or biased responses while maintaining stealth.
 
 ## Why It Matters
 

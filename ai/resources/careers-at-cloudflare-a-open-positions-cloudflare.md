@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.cloudflare.com/careers/jobs/?department=Technology+Research
-published_at: '2026-06-30T10:14:09.688705+05:30'
-collected_at: '2026-06-30T10:14:09.688719+05:30'
+published_at: '2026-07-02T02:00:18.003843+05:30'
+collected_at: '2026-07-02T02:00:18.003856+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:careers-at-cloudflare-a-open-positions-cloudflare
-first_seen: '2026-06-30T10:14:09.688719+05:30'
-last_seen: '2026-06-30T10:14:09.688719+05:30'
-last_checked: '2026-06-30T10:14:09.688719+05:30'
+first_seen: '2026-07-02T02:00:18.003856+05:30'
+last_seen: '2026-07-02T02:00:18.003856+05:30'
+last_checked: '2026-07-02T02:00:18.003856+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Work Model Evolution**: Cloudflare is transitioning from a globally distributed in-office model to a more distributed hybrid work structure while maintaining equity and inclusivity.
-- **Mission-Driven Recruitment**: Focuses on hiring curious, mission-oriented individuals committed to addressing the Internet's most complex challenges.
-- **Open Roles**: Actively hiring for positions aimed at improving Internet infrastructure and services.
+- **Hybrid Work Evolution**: Cloudflare transitions from a globally distributed in-office model to a more distributed hybrid work structure while maintaining equitable and inclusive workplace policies.
+
+- **Mission-Driven Hiring**: Focuses on recruiting curious, mission-oriented individuals committed to addressing the Internet's most critical challenges.
+
+- **Career Development & Collaboration**: Emphasizes investing in employees' career growth while fostering a collaborative, globally distributed work environment.
 
 ## Why It Matters
 
@@ -32,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-30T10:14:09.688705+05:30
+- Published: 2026-07-02T02:00:18.003843+05:30
 
 ## Related Tags
 

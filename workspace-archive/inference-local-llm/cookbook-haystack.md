@@ -6,10 +6,10 @@ source_url: https://haystack.deepset.ai/cookbook
 resource_id: blog:cookbook-haystack
 local_vault_path: ai/rag/cookbook-haystack.md
 quality_score: 70
-archive_score: 74
+archive_score: 84
 archive_tier: useful
-resource_kind: benchmark
-importance: medium
+resource_kind: framework
+importance: high
 tags:
 - agents
 - anthropic
@@ -23,7 +23,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # 🧑‍🍳 Cookbook | Haystack
@@ -31,22 +31,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Inference and Local LLM`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 84 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Haystack Cookbook** provides 71 technical recipes demonstrating integrations with model providers, vector databases, retrieval techniques, and more, categorized by topics like Agents, RAG, Advanced Retrieval, and Multimodal processing.
+- **Haystack Cookbook** provides 71 technical recipes demonstrating integrations of model providers, vector databases, retrieval techniques, and advanced RAG pipelines with Haystack, covering topics like agents, multimodal processing, metadata enrichment, and model serving.
 
-- **Key Recipes Include**:
-  - Agentic Itinerary Planning with OpenStreetMap.
-  - Tabular Data Processing with Prior Labs MCP.
-  - Using Mem0 Memory Store with Haystack Agents.
-  - Hybrid RAG Pipeline with Breakpoints and Query Decomposition.
-  - Multimodal A
+- **Key technical areas** include agentic workflows (e.g., itinerary planning, GitHub issue resolution), hybrid retrieval (BM42, sparse embeddings), and advanced RAG optimizations (query decomposition, HyDE, metadata filteri
 
 ## Use Cases
 

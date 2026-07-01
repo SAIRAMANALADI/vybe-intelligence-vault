@@ -3,9 +3,9 @@ title: LlamaParse Platform Quickstart | Developer Documentation
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://developers.llamaindex.ai/python/cloud/?utm_source=github&utm_medium=org_card
-published_at: '2026-07-01T22:59:22.643294+05:30'
-collected_at: '2026-07-01T22:59:22.643306+05:30'
+source_url: https://docs.cloud.llamaindex.ai/
+published_at: '2026-07-02T01:51:26.184843+05:30'
+collected_at: '2026-07-02T01:51:26.184859+05:30'
 tags:
 - agents
 - meta-ai
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:llamaparse-platform-quickstart-developer-documenta
-first_seen: '2026-07-01T22:59:22.643306+05:30'
-last_seen: '2026-07-01T22:59:22.643306+05:30'
-last_checked: '2026-07-01T22:59:22.643306+05:30'
+first_seen: '2026-07-02T01:51:26.184859+05:30'
+last_seen: '2026-07-02T01:51:26.184859+05:30'
+last_checked: '2026-07-02T01:51:26.184859+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Document Parsing**: Parse is a layout-aware OCR system designed for LLM pipelines, converting PDFs, scans, tables, and charts into structured markdown, text, or JSON.
-- **Multi-Format Support**: Processes diverse document types (PDFs, images, tables, charts) while preserving layout and semantic structure.
-- **Output Flexibility**: Generates clean, structured outputs (markdown, text, JSON) optimized for downstream LLM processing.
+- **Agentic Document Parser**: Parse is designed for LLM pipelines, offering layout-aware OCR to convert PDFs, scans, tables, and charts into structured markdown, text, or JSON.
+- **Multi-Format Support**: Handles diverse input formats (PDFs, scans) and outputs clean, structured data in multiple formats (markdown, text, JSON).
+- **Layout-Aware OCR**: Utilizes advanced OCR to preserve document layout, enabling accurate extraction and conversion of complex structures like tables and charts.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-01T22:59:22.643294+05:30
+- Published: 2026-07-02T01:51:26.184843+05:30
 
 ## Related Tags
 
@@ -46,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://developers.llamaindex.ai/python/cloud/?utm_source=github&utm_medium=org_card
+Original source: https://docs.cloud.llamaindex.ai/

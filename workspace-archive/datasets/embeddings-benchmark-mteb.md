@@ -8,17 +8,18 @@ local_vault_path: ai/rag/embeddings-benchmark-mteb.md
 quality_score: 70
 archive_score: 81
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
 - dataset
 - github-repo
+- leaderboard
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # embeddings-benchmark/mteb
@@ -27,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 81 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **MTEB**: A comprehensive Python-based benchmark for evaluating text embeddings across diverse tasks including retrieval, clustering, classification, and reranking, supporting multilingual and multimodal evaluation.
+- **MTEB Framework**: A Python-based benchmarking tool for evaluating text embeddings across diverse tasks (e.g., retrieval, clustering, reranking) and modalities, supporting multilingual and low-resource NLP scenarios.
 
-- **Key Features**: Supports 56 datasets across 11 task types (e.g., STS, bitext mining, semantic search) with standardized metrics (e.g., Spearman correlation, NDCG) to assess embedding models like Sentence-BERT and neural search systems.
+- **Task Coverage**: Includes 58 datasets spanning 11 task categories (e.g., semantic textual similarity, bitext mining, classification) to assess embeddings' performance in real-world applications like semantic search and neural retrieval.
 
-- **Scope**: Enables cross-lingual and l
+- **State-of-the-Art Evaluation**: Pr
 
 ## Use Cases
 

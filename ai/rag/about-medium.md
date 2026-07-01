@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://about.medium.com/
-published_at: '2026-07-01T23:00:25.424893+05:30'
-collected_at: '2026-07-01T23:00:25.424906+05:30'
+published_at: '2026-07-02T02:00:06.368780+05:30'
+collected_at: '2026-07-02T02:00:06.368789+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:about-medium
-first_seen: '2026-07-01T23:00:25.424906+05:30'
-last_seen: '2026-07-01T23:00:25.424906+05:30'
-last_checked: '2026-07-01T23:00:25.424906+05:30'
+first_seen: '2026-07-02T02:00:06.368789+05:30'
+last_seen: '2026-07-02T02:00:06.368789+05:30'
+last_checked: '2026-07-02T02:00:06.368789+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Purpose**: Medium is a content publishing platform designed to prioritize depth, nuance, and thoughtful conversation over sensationalism, enabling writers to share insights without requiring pre-existing audiences or mailing lists.
+- **Platform Model**: Medium operates as an ad-free, subscription-supported (via Medium Membership) content platform prioritizing depth, nuance, and long-form writing over sensationalism or ad-driven engagement.
 
-- **User Base & Monetization**: Over 100M monthly users contribute diverse content (e.g., software development, personal essays), funded by a subscription-based model (Medium Membership) rather than ads or data monetization.
+- **User Base & Content**: Hosts over 100M monthly users (developers, writers, executives, etc.) who publish unfiltered insights, analyses, and personal narratives, fostering a collaborative ecosystem for knowledge-sharing.
 
-- **Mission-Driven Model**: Operates under a community-supported ethos, rewarding meaningful writing and fostering a collaborative space for knowledge exchange, with membership fees sustaining the platform’s independence.
+- **Revenue & Mission**: Funded by a community of over 1M paying members, Medium avoids data monetization, instead focusing on amplifying thoughtful discourse and rewarding substantive contributions.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T23:00:25.424893+05:30
+- Published: 2026-07-02T02:00:06.368780+05:30
 
 ## Related Tags
 

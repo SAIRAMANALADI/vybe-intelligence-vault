@@ -4,12 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-07-01T22:56:03.035132+05:30'
+collected_at: '2026-07-02T01:47:35.675981+05:30'
 published_at: '2026-06-30T11:27:37Z'
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
+- models
 - rag
+- workflows
 stars: 1460
 language: Jupyter Notebook
 status: active
@@ -18,9 +21,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-06-30T09:33:23Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-07-01T22:56:03.035132+05:30'
-last_seen: '2026-07-01T22:56:03.035132+05:30'
-last_checked: '2026-07-01T22:56:03.035132+05:30'
+first_seen: '2026-07-02T01:47:35.675981+05:30'
+last_seen: '2026-07-02T01:47:35.675981+05:30'
+last_checked: '2026-07-02T01:47:35.675981+05:30'
 health_score: 100
 ---
 
@@ -28,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples covering all available foundational models (e.g., Amazon Titan) for quick customer onboarding and experimentation.
+- **Repository Content**: Provides Jupyter Notebook examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) and use cases like embeddings, generative AI, knowledge bases, and Retrieval-Augmented Generation (RAG) with LangChain integration.
 
-- **Multi-Use Case Demonstrations**: Includes implementations for core Bedrock features such as embeddings, generative AI, knowledge bases, and Retrieval-Augmented Generation (RAG) using tools like LangChain.
+- **Technical Scope**: Demonstrates Amazon Bedrock's capabilities, including model inference, fine-tuning workflows, and deployment strategies for enterprise-scale generative AI applications.
 
-- **AWS Integration Focus**: Showcases integration patterns with AWS services (e.g., knowledge bases) and emphasizes practical deployment scenarios for enterprise use cases.
+- **Dependencies**: Leverages AWS services (Bedrock, Titan, etc.) and frameworks (LangChain) for building, evaluating, and deploying generative AI solutions.
 
 ## Why It Matters
 

@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-07-01T22:56:12.967336+05:30'
+collected_at: '2026-07-02T01:47:45.531883+05:30'
 published_at: '2026-07-01T00:14:18Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
+- workflows
 stars: 4364
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-07-01T22:56:12.967336+05:30'
-last_seen: '2026-07-01T22:56:12.967336+05:30'
-last_checked: '2026-07-01T22:56:12.967336+05:30'
+first_seen: '2026-07-02T01:47:45.531883+05:30'
+last_seen: '2026-07-02T01:47:45.531883+05:30'
+last_checked: '2026-07-02T01:47:45.531883+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Course Structure**: Provides an end-to-end guide for building production-ready LLM and RAG systems using LLMOps best practices, including 12 hands-on lessons and source code.
+- **End-to-end LLM & RAG system**: Course provides hands-on guidance for building production-ready LLM and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including source code and 12 structured lessons.
 
-- **Technical Stack**: Implements Python-based infrastructure with AWS, Pulumi (IaC), Bytewax (stream processing), Qdrant (vector DB), and integrates tools like Comet-ML, Qwak, and Superlinked.
+- **Tech stack integration**: Covers AWS, Bytewax, Comet-ML, Pulumi (IaC), Qdrant (vector DB), Qwak (MLOps), and Superlinked, with Docker for containerization and infrastructure-as-code workflows.
 
-- **Deployment & Scalability**: Utilizes Docker for containerization and emphasizes MLOps/ML system design principles for scalable, production-grade generative AI applications.
+- **ML system design focus**: Emphasizes ML engineering principles, system architecture, and deployment strategies for scalable generative AI applications, updated as of July 2026.
 
 ## Why It Matters
 

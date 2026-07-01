@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/ogulcancelik/herdr
-published_at: '2026-07-01T22:54:31.843804+05:30'
-collected_at: '2026-07-01T22:54:31.843807+05:30'
+published_at: '2026-07-02T01:46:01.881240+05:30'
+collected_at: '2026-07-02T01:46:01.881242+05:30'
 tags:
 - agents
 - github-trending
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: github:ogulcancelik/herdr
 first_seen: '2026-06-30T20:14:10.926750+05:30'
-last_seen: '2026-07-01T22:54:31.843807+05:30'
-last_checked: '2026-07-01T22:54:31.843807+05:30'
+last_seen: '2026-07-02T01:46:01.881242+05:30'
+last_checked: '2026-07-02T01:46:01.881242+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/agents
-- Published: 2026-07-01T22:54:31.843804+05:30
+- Published: 2026-07-02T01:46:01.881240+05:30
 
 ## Related Tags
 

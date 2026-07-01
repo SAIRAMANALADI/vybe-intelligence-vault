@@ -17,6 +17,7 @@ tags:
 - github-repo
 - rag
 - typescript
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Persistent Memory System**: Implements a TypeScript-based framework for AI coding agents, enabling long-term memory storage and retrieval optimized for real-world benchmarks.
+- **Persistent Memory Framework**: Provides durable, long-term storage for AI coding agents, enabling state retention across sessions based on real-world benchmarking.
 
-- **Benchmark-Driven Design**: Evaluates memory performance against standardized coding agent tasks, ensuring adaptability for tools like Claude, Codex, and Cursor.
+- **TypeScript Implementation**: Built in TypeScript for cross-platform compatibility, optimized for agent-based workflows in GenAI tools like ClaudeCode and Cursor.
 
-- **Modular Architecture**: Supports integration with GenAI tools (e.g., Hermes, OpenClaw) via extensible plugins, facilitating cross-platform agent memor
+- **Benchmark-Driven Design**: Evaluated against real-world use cases, supporting integration with AI agents (e.g., Copilot, OpenClaw) via modular memory management
 
 ## Use Cases
 

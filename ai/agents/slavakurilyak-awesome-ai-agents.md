@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/slavakurilyak/awesome-ai-agents
-collected_at: '2026-07-01T22:57:58.445244+05:30'
-published_at: '2026-07-01T17:20:18Z'
+collected_at: '2026-07-02T01:49:30.664344+05:30'
+published_at: '2026-07-01T17:37:09Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - paper
 - python
-- workflows
-stars: 1583
+stars: 1584
 language: Python
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-15T12:48:42Z'
 pushed_at: '2025-09-09T22:33:26Z'
 resource_id: github:slavakurilyak/awesome-ai-agents
-first_seen: '2026-07-01T22:57:58.445244+05:30'
-last_seen: '2026-07-01T22:57:58.445244+05:30'
-last_checked: '2026-07-01T22:57:58.445244+05:30'
+first_seen: '2026-07-02T01:49:30.664344+05:30'
+last_seen: '2026-07-02T01:49:30.664344+05:30'
+last_checked: '2026-07-02T01:49:30.664344+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- Curated repository hosting **300+ agentic AI resources**, including frameworks, libraries, tools, and research papers focused on autonomous and multi-agent systems.
-- Supports **Python-based agent development**, with active community contributions (1,583 stars, 424 forks) and last updated in **July 2026**.
-- Covers **agentic AI topics** such as LLM-driven agents, multi-agent orchestration, tool-use, and agentic workflows for research and production.
+- **Curated Repository**: GitHub repository (`slavakurilyak/awesome-ai-agents`) containing 300+ curated resources on agentic AI, including tools, frameworks, research papers, and libraries.
+- **Technical Scope**: Focuses on AI agents, agentic systems, and autonomous decision-making frameworks, primarily in Python with cross-disciplinary relevance (e.g., reinforcement learning, multi-agent systems).
+- **Community & Maintenance**: Actively maintained (last updated July 2026) with 1,584 stars and 425 forks, indicating strong community engagement and collaborative development.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: slavakurilyak
-- Stars: 1583
-- Forks: 424
+- Stars: 1584
+- Forks: 425
 - Language: Python
 - Topics: agent, agentic, agents
-- Last Updated: 2026-07-01T17:20:18Z
+- Last Updated: 2026-07-01T17:37:09Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-15T12:48:42Z

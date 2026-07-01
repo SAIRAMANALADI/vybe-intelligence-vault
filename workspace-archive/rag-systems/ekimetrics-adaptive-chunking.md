@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Adaptive Chunking Framework**: Implements dynamic chunking strategies tailored to document-specific characteristics, optimizing retrieval-augmented generation (RAG) performance by selecting the most effective text-splitting method per document.
+- **Adaptive Chunking Framework**: Implements dynamic chunking strategies for RAG pipelines, selecting optimal text-splitting methods per document based on structural and semantic properties.
 
-- **LREC 2026 Acceptance**: Paper accepted at the Language Resources and Evaluation Conference (LREC) 2026, indicating peer-reviewed validation of the approach.
+- **LREC 2026 Acceptance**: Paper detailing the methodology and benchmarks for adaptive chunking was accepted at the Language Resources and Evaluation Conference (LREC) 2026.
 
-- **Python Implementation**: Provides an open-source Python library for adaptive chunkin
+- **Python Implementation**: Provides an open-source Python library with modular chunking algorithms (e.g., semantic, structural, h
 
 ## Use Cases
 

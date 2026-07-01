@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355
-published_at: '2026-07-01T22:55:18.630848+05:30'
-collected_at: '2026-07-01T22:55:18.630861+05:30'
+published_at: '2026-07-02T01:46:51.031044+05:30'
+collected_at: '2026-07-02T01:46:51.031054+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:top-10-rag-frameworks-github-repos-2025-by-rowan-b
-first_seen: '2026-07-01T22:55:18.630861+05:30'
-last_seen: '2026-07-01T22:55:18.630861+05:30'
-last_checked: '2026-07-01T22:55:18.630861+05:30'
+first_seen: '2026-07-02T01:46:51.031054+05:30'
+last_seen: '2026-07-02T01:46:51.031054+05:30'
+last_checked: '2026-07-02T01:46:51.031054+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack (deepset-ai)**: Modular AI orchestration framework supporting multiple document stores (Elasticsearch, FAISS, SQL) and LLMs (BERT, RoBERTa, DPR), enabling scalable pipelines for QA, summarization, and retrieval-augmented tasks.
+- **Haystack (deepset-ai)**: Modular AI orchestration framework for production-ready LLM applications with support for multiple document stores (Elasticsearch, FAISS, SQL), scalable architecture, and integration with BERT/RoBERTa/DPR models.
 
-- **RAGFlow (infiniflow)**: Open-source RAG engine with deep document understanding, pre-configured pipelines, and vector database integration, optimized for rapid prototyping and deployment of RAG applications.
+- **RAGFlow (infiniflow)**: Open-source RAG engine focused on deep document understanding, offering pre-built RAG pipelines, vector database integration, and custom embedding model support for rapid deployment.
 
-- **FlashRAG (RUC-NLPIR)**: Lightweight Python toolkit for efficient RAG research, featuring optimized retrieval algorithms, distributed processing support, and benchmarking tools for high-performance RAG implementations.
+- **txtai (neuml)**: All-in-one AI framework for semantic search, LLM orchestration, and document processing with embeddings database, multi-language support, and extensible workflows for semantic search and language model integration.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T22:55:18.630848+05:30
+- Published: 2026-07-02T01:46:51.031044+05:30
 
 ## Related Tags
 

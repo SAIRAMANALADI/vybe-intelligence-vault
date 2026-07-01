@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dasroot.net/posts/2026/03/python-rag-projects-github/
-published_at: '2026-07-01T22:55:18.942607+05:30'
-collected_at: '2026-07-01T22:55:18.942620+05:30'
+published_at: '2026-07-02T01:46:51.547859+05:30'
+collected_at: '2026-07-02T01:46:51.547872+05:30'
 tags:
 - agents
 - benchmark
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:the-ultimate-list-of-python-rag-projects-on-github
-first_seen: '2026-07-01T22:55:18.942620+05:30'
-last_seen: '2026-07-01T22:55:18.942620+05:30'
-last_checked: '2026-07-01T22:55:18.942620+05:30'
+first_seen: '2026-07-02T01:46:51.547872+05:30'
+last_seen: '2026-07-02T01:46:51.547872+05:30'
+last_checked: '2026-07-02T01:46:51.547872+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 - **LangChain v0.24.0** enables modular RAG pipelines with multi-agent workflows, supporting LLMs like Llama 3.1 70b instruct and reducing deployment overhead via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
 
-- **LlamaIndex v0.12.0** introduces semantic chunking and advanced filtering, improving retrieval accuracy by **30%** in complex datasets, with optimized document indexing for unstructured data and support for multi-modal parsing (PDFs, images).
+- **LlamaIndex v0.12.0** introduces semantic chunking and advanced filtering, improving retrieval accuracy by **30%** in complex datasets, with optimizations for unstructured data and integration with structured databases via `DBConnectors`.
 
-- **RAGFlow v0.24.0** provides enterprise-grade RAG with multi-modal document parsing, cross-language queries, and agent-based workflows, integrating Python/JavaScript code execution and supporting models like Gemini 3 Pro and GPT-5.
+- **RAGFlow v0.24.0** supports multi-modal parsing, cross-language queries, and agent-based workflows with Python/JavaScript code execution, integrating models like Gemini 3 Pro and GPT-5 for enterprise-grade RAG deployments.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T22:55:18.942607+05:30
+- Published: 2026-07-02T01:46:51.547859+05:30
 
 ## Related Tags
 

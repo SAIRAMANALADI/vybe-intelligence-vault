@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [Using Clang in Visual Studio Code](../ai/resources/using-clang-in-visual-studio-code.md) ([Source URL](https://code.visualstudio.com/docs/cpp/config-clang-mac))
+### 1. [css.Build](../ai/resources/css-build.md) ([Source URL](https://gohugo.io/functions/css/build))
 - **Category**: ai/resources
-- **Collected At**: 2026-07-01T23:07:13.395759+05:30
-- **Local Path**: `ai/resources/using-clang-in-visual-studio-code.md`
-
-### 2. [microsoft/vscode-cpptools](../ai/rag/microsoft-vscode-cpptools.md) ([Source URL](https://github.com/microsoft/vscode-cpptools))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:07:08.736206+05:30
-- **Local Path**: `ai/rag/microsoft-vscode-cpptools.md`
-
-### 3. [Getting Started with Python in VS Code](../ai/resources/getting-started-with-python-in-vs-code.md) ([Source URL](https://code.visualstudio.com/docs/python/python-tutorial))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-01T23:07:08.436153+05:30
-- **Local Path**: `ai/resources/getting-started-with-python-in-vs-code.md`
-
-### 4. [Python in Visual Studio Code](../ai/rag/python-in-visual-studio-code.md) ([Source URL](https://code.visualstudio.com/docs/languages/python))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:07:08.372452+05:30
-- **Local Path**: `ai/rag/python-in-visual-studio-code.md`
-
-### 5. [Speechify: Text to Speech & Voice Typing AI Assistant | 55M+ Users](../ai/resources/speechify-text-to-speech-voice-typing-ai-assistant.md) ([Source URL](https://speechify.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-01T23:06:51.444959+05:30
-- **Local Path**: `ai/resources/speechify-text-to-speech-voice-typing-ai-assistant.md`
-
-### 6. [What is artificial intelligence? | web.dev](../ai/rag/what-is-artificial-intelligence-web-dev.md) ([Source URL](https://web.dev/articles/ai-overview))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:06:35.956013+05:30
-- **Local Path**: `ai/rag/what-is-artificial-intelligence-web-dev.md`
-
-### 7. [Baseline | web.dev](../ai/resources/baseline-web-dev.md) ([Source URL](https://web.dev/baseline))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-01T23:06:35.902060+05:30
-- **Local Path**: `ai/resources/baseline-web-dev.md`
-
-### 8. [Improve performance and UX for client-side AI | web.dev](../ai/rag/improve-performance-and-ux-for-client-side-ai-web.md) ([Source URL](https://web.dev/articles/client-side-ai-performance))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:06:30.990029+05:30
-- **Local Path**: `ai/rag/improve-performance-and-ux-for-client-side-ai-web.md`
-
-### 9. [litert-samples/compiled_model_api/colab/LiteRT_AOT_Compilation_Tutorial.ipynb at main · google-ai-edge/litert-samples ·](../ai/resources/google-ai-edge-litert-samples.md) ([Source URL](https://github.com/google-ai-edge/litert-samples))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-01T23:06:30.312689+05:30
-- **Local Path**: `ai/resources/google-ai-edge-litert-samples.md`
-
-### 10. [Google DeepMind · GitHub](../ai/rag/google-deepmind-github.md) ([Source URL](https://github.com/google-deepmind))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:06:30.292114+05:30
-- **Local Path**: `ai/rag/google-deepmind-github.md`
-
-### 11. [LiteRT: High-Performance On-Device Machine Learning Framework | Google AI Edge | Google for Developers](../ai/rag/litert-high-performance-on-device-machine-learning.md) ([Source URL](https://developers.google.com/edge/litert))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:06:29.991484+05:30
-- **Local Path**: `ai/rag/litert-high-performance-on-device-machine-learning.md`
-
-### 12. [Google AI Edge | Google for Developers](../ai/rag/google-ai-edge-google-for-developers.md) ([Source URL](https://developers.google.com/edge))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:06:29.732340+05:30
-- **Local Path**: `ai/rag/google-ai-edge-google-for-developers.md`
-
-### 13. [Android Open Source Project](../ai/resources/android-open-source-project.md) ([Source URL](https://source.android.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-01T23:06:25.255916+05:30
-- **Local Path**: `ai/resources/android-open-source-project.md`
-
-### 14. [Pricing · Plans for every developer · GitHub](../ai/rag/pricing-plans-for-every-developer-github.md) ([Source URL](https://github.com/pricing))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:06:20.224342+05:30
-- **Local Path**: `ai/rag/pricing-plans-for-every-developer-github.md`
-
-### 15. [CodeQL documentation](../ai/rag/codeql-documentation.md) ([Source URL](https://codeql.github.com/docs))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:06:18.658457+05:30
-- **Local Path**: `ai/rag/codeql-documentation.md`
-
-### 16. [Introduction | Electron](../ai/resources/introduction-electron.md) ([Source URL](https://electronjs.org/docs/latest))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-01T23:06:18.452962+05:30
-- **Local Path**: `ai/resources/introduction-electron.md`
-
-### 17. [npm Docs](../ai/resources/npm-docs.md) ([Source URL](https://docs.npmjs.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-01T23:06:18.247928+05:30
-- **Local Path**: `ai/resources/npm-docs.md`
-
-### 18. [jq](../ai/resources/jq.md) ([Source URL](https://jqlang.github.io/jq))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-01T23:06:17.690726+05:30
-- **Local Path**: `ai/resources/jq.md`
-
-### 19. [Python - Visual Studio Marketplace](../ai/resources/python-visual-studio-marketplace.md) ([Source URL](https://marketplace.visualstudio.com/items?itemName=ms-python.python))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-01T23:06:16.001341+05:30
-- **Local Path**: `ai/resources/python-visual-studio-marketplace.md`
-
-### 20. [docs/content/copilot/concepts/agents/copilot-cli/research.md at main · github/docs · GitHub](../ai/rag/github-docs.md) ([Source URL](https://github.com/github/docs))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:06:15.084010+05:30
-- **Local Path**: `ai/rag/github-docs.md`
-
-### 21. [Terms & Conditions | Speechify](../ai/rag/terms-conditions-speechify.md) ([Source URL](https://speechify.com/terms))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:06:13.386832+05:30
-- **Local Path**: `ai/rag/terms-conditions-speechify.md`
-
-### 22. [C/C++ - Visual Studio Marketplace](../ai/resources/c-c-visual-studio-marketplace.md) ([Source URL](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-01T23:06:10.666310+05:30
-- **Local Path**: `ai/resources/c-c-visual-studio-marketplace.md`
-
-### 23. [Privacy Policy | Speechify](../ai/rag/privacy-policy-speechify.md) ([Source URL](https://speechify.com/privacy))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:06:08.364355+05:30
-- **Local Path**: `ai/rag/privacy-policy-speechify.md`
-
-### 24. [Speechify · GitHub](../ai/agents/speechify-github.md) ([Source URL](https://github.com/speechifyinc))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-01T23:06:08.089269+05:30
-- **Local Path**: `ai/agents/speechify-github.md`
-
-### 25. [Built-in AI | AI on Chrome | Chrome for Developers](../ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md) ([Source URL](https://developer.chrome.com/docs/ai/built-in))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:05:45.243786+05:30
-- **Local Path**: `ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md`
-
-### 26. [Veo 3.1 â Google DeepMind](../ai/resources/veo-3-1-a-google-deepmind.md) ([Source URL](https://deepmind.google/technologies/veo/veo-2))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-01T23:05:45.059751+05:30
-- **Local Path**: `ai/resources/veo-3-1-a-google-deepmind.md`
-
-### 27. [Gemini Developer API | Gemma open models | Google AI for Developers](../ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md) ([Source URL](https://ai.google.dev))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:05:10.407119+05:30
-- **Local Path**: `ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md`
-
-### 28. [NPU acceleration with LiteRT | Google AI Edge | Google for Developers](../ai/rag/npu-acceleration-with-litert-google-ai-edge-google.md) ([Source URL](https://ai.google.dev/edge/litert/next/npu))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:04:49.962539+05:30
-- **Local Path**: `ai/rag/npu-acceleration-with-litert-google-ai-edge-google.md`
-
-### 29. [Supported media formats | Android media | Android Developers](../ai/resources/supported-media-formats-android-media-android-deve.md) ([Source URL](https://developer.android.com/guide/topics/media/media-formats))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-01T23:04:49.910498+05:30
-- **Local Path**: `ai/resources/supported-media-formats-android-media-android-deve.md`
-
-### 30. [skills/camera at main · android/skills · GitHub](../ai/resources/android-skills.md) ([Source URL](https://github.com/android/skills))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-01T23:04:49.525311+05:30
-- **Local Path**: `ai/resources/android-skills.md`
-
-### 31. [Android Developers Blog: Android 17 is here](../ai/rag/android-developers-blog-android-17-is-here.md) ([Source URL](https://android-developers.googleblog.com/2026/06/android-17.html))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:04:45.878728+05:30
-- **Local Path**: `ai/rag/android-developers-blog-android-17-is-here.md`
-
-### 32. [GitHub Docs](../ai/agents/github-docs.md) ([Source URL](https://docs.github.com))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-01T23:04:32.841370+05:30
-- **Local Path**: `ai/agents/github-docs.md`
-
-### 33. [microsoft/vscode](../ai/rag/microsoft-vscode.md) ([Source URL](https://github.com/microsoft/vscode))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:04:29.120194+05:30
-- **Local Path**: `ai/rag/microsoft-vscode.md`
-
-### 34. [SpeechifyInc/ai-api-examples](../ai/resources/speechifyinc-ai-api-examples.md) ([Source URL](https://github.com/speechifyinc/ai-api-examples))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-01T23:04:23.682305+05:30
-- **Local Path**: `ai/resources/speechifyinc-ai-api-examples.md`
-
-### 35. [Visual Studio Code - The open source AI code editor | Your home for multi-agent development](../ai/agents/visual-studio-code-the-open-source-ai-code-editor.md) ([Source URL](https://code.visualstudio.com))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-01T23:04:21.407154+05:30
-- **Local Path**: `ai/agents/visual-studio-code-the-open-source-ai-code-editor.md`
-
-### 36. [electron/electron](../ai/rag/electron-electron.md) ([Source URL](https://github.com/electron/electron))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:04:18.648920+05:30
-- **Local Path**: `ai/rag/electron-electron.md`
-
-### 37. [Copilot CLI sessions in Visual Studio Code](../ai/agents/copilot-cli-sessions-in-visual-studio-code.md) ([Source URL](https://code.visualstudio.com/docs/copilot/agents/background-agents))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-01T23:04:16.353330+05:30
-- **Local Path**: `ai/agents/copilot-cli-sessions-in-visual-studio-code.md`
-
-### 38. [Speechify AI - Voice AI Research Lab](../ai/rag/speechify-ai-voice-ai-research-lab.md) ([Source URL](https://speechify.ai))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:04:14.732333+05:30
-- **Local Path**: `ai/rag/speechify-ai-voice-ai-research-lab.md`
-
-### 39. [Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron](../ai/rag/build-cross-platform-desktop-apps-with-javascript.md) ([Source URL](https://electronjs.org))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:04:10.759495+05:30
-- **Local Path**: `ai/rag/build-cross-platform-desktop-apps-with-javascript.md`
-
-### 40. [GitHub Copilot CLI · GitHub](../ai/agents/features-copilot.md) ([Source URL](https://github.com/features/copilot))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-01T23:04:10.292773+05:30
-- **Local Path**: `ai/agents/features-copilot.md`
-
-### 41. [Amazon Web Services - YouTube](../ai/resources/amazon-web-services-youtube.md) ([Source URL](https://youtube.com/user/amazonwebservices/cloud))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-01T23:02:41.219797+05:30
-- **Local Path**: `ai/resources/amazon-web-services-youtube.md`
-
-### 42. [AWS Site Terms](../ai/rag/aws-site-terms.md) ([Source URL](https://aws.amazon.com/terms?nc1=f_pr))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:01:06.847677+05:30
-- **Local Path**: `ai/rag/aws-site-terms.md`
-
-### 43. [Discover AWS Official Knowledge Center Articles | AWS re:Post](../ai/rag/discover-aws-official-knowledge-center-articles-aw.md) ([Source URL](https://repost.aws/knowledge-center?nc1=f_dr))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:01:04.870699+05:30
-- **Local Path**: `ai/rag/discover-aws-official-knowledge-center-articles-aw.md`
-
-### 44. [css.Build](../ai/resources/css-build.md) ([Source URL](https://gohugo.io/functions/css/build))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-01T23:00:26.485519+05:30
+- **Collected At**: 2026-07-02T02:00:19.491545+05:30
 - **Local Path**: `ai/resources/css-build.md`
 
-### 45. [Link render hooks](../ai/resources/link-render-hooks.md) ([Source URL](https://gohugo.io/render-hooks/links))
+### 2. [Careers at Cloudflare â Open Positions | Cloudflare](../ai/resources/careers-at-cloudflare-a-open-positions-cloudflare.md) ([Source URL](https://cloudflare.com/careers/jobs?department=Technology+Research))
 - **Category**: ai/resources
-- **Collected At**: 2026-07-01T23:00:26.308361+05:30
-- **Local Path**: `ai/resources/link-render-hooks.md`
+- **Collected At**: 2026-07-02T02:00:18.003856+05:30
+- **Local Path**: `ai/resources/careers-at-cloudflare-a-open-positions-cloudflare.md`
 
-### 46. [About Medium](../ai/rag/about-medium.md) ([Source URL](https://about.medium.com))
+### 3. [Android Apps on Google Play](../ai/rag/android-apps-on-google-play.md) ([Source URL](https://play.google.com))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:00:25.424906+05:30
+- **Collected At**: 2026-07-02T02:00:17.914864+05:30
+- **Local Path**: `ai/rag/android-apps-on-google-play.md`
+
+### 4. [Google Family Link - Apps on Google Play](../ai/resources/google-family-link-apps-on-google-play.md) ([Source URL](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink&referrer=utm_source%3Dplayhelpcenter))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-02T02:00:12.493864+05:30
+- **Local Path**: `ai/resources/google-family-link-apps-on-google-play.md`
+
+### 5. [Privacy Help Center - Policies Help](../ai/rag/privacy-help-center-policies-help.md) ([Source URL](https://support.google.com/policies/answer/9581826))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T02:00:12.347819+05:30
+- **Local Path**: `ai/rag/privacy-help-center-policies-help.md`
+
+### 6. [Affiliates providing business services](../ai/resources/affiliates-providing-business-services.md) ([Source URL](https://privacy.google.com/businesses/affiliates))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-02T02:00:12.104367+05:30
+- **Local Path**: `ai/resources/affiliates-providing-business-services.md`
+
+### 7. [Android Open Source Project](../ai/resources/android-open-source-project.md) ([Source URL](http://source.android.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-02T02:00:10.544426+05:30
+- **Local Path**: `ai/resources/android-open-source-project.md`
+
+### 8. [Android Developers Blog](../ai/resources/android-developers-blog.md) ([Source URL](http://android-developers.googleblog.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-02T02:00:10.165602+05:30
+- **Local Path**: `ai/resources/android-developers-blog.md`
+
+### 9. [About Medium](../ai/rag/about-medium.md) ([Source URL](https://about.medium.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T02:00:06.368789+05:30
 - **Local Path**: `ai/rag/about-medium.md`
 
-### 47. [LangChain: Observe, Evaluate, and Deploy Reliable AI Agents](../ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md) ([Source URL](https://langchain.com))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-01T23:00:22.860508+05:30
-- **Local Path**: `ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md`
-
-### 48. [run-llama/llama_index](../ai/rag/run-llama-llama-index.md) ([Source URL](https://github.com/run-llama/llama_index))
+### 10. [Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform](../ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md) ([Source URL](https://deepset.ai/products-and-services/deepset-ai-platform))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:00:21.752264+05:30
-- **Local Path**: `ai/rag/run-llama-llama-index.md`
+- **Collected At**: 2026-07-02T01:59:48.834674+05:30
+- **Local Path**: `ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md`
 
-### 49. [Configure security](../ai/resources/configure-security.md) ([Source URL](https://gohugo.io/configuration/security))
+### 11. [Blog](../ai/rag/blog.md) ([Source URL](https://deepset.ai/blog))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:59:26.282688+05:30
+- **Local Path**: `ai/rag/blog.md`
+
+### 12. [Creating Your First QA Pipeline with Retrieval-Augmentation | Haystack](../ai/rag/creating-your-first-qa-pipeline-with-retrieval-aug.md) ([Source URL](https://haystack.deepset.ai/tutorials/01_basic_qa_pipeline))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:59:24.791935+05:30
+- **Local Path**: `ai/rag/creating-your-first-qa-pipeline-with-retrieval-aug.md`
+
+### 13. [deepset-ai/haystack-cookbook](../ai/rag/deepset-ai-haystack-cookbook.md) ([Source URL](https://github.com/deepset-ai/haystack-cookbook))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:59:21.154361+05:30
+- **Local Path**: `ai/rag/deepset-ai-haystack-cookbook.md`
+
+### 14. [deepset-ai/haystack · Discussions · GitHub](../ai/rag/deepset-ai-haystack.md) ([Source URL](https://github.com/deepset-ai/haystack))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:59:16.762349+05:30
+- **Local Path**: `ai/rag/deepset-ai-haystack.md`
+
+### 15. [haystack-tutorials/Contributing.md at main · deepset-ai/haystack-tutorials · GitHub](../ai/resources/deepset-ai-haystack-tutorials.md) ([Source URL](https://github.com/deepset-ai/haystack-tutorials))
 - **Category**: ai/resources
-- **Collected At**: 2026-07-01T23:00:21.258814+05:30
-- **Local Path**: `ai/resources/configure-security.md`
+- **Collected At**: 2026-07-02T01:59:16.441613+05:30
+- **Local Path**: `ai/resources/deepset-ai-haystack-tutorials.md`
 
-### 50. [Introduction to Haystack | Haystack Documentation](../ai/rag/introduction-to-haystack-haystack-documentation.md) ([Source URL](https://docs.haystack.deepset.ai/docs/intro))
+### 16. [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md) ([Source URL](https://haystack.deepset.ai/cookbook))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-01T23:00:20.510037+05:30
-- **Local Path**: `ai/rag/introduction-to-haystack-haystack-documentation.md`
+- **Collected At**: 2026-07-02T01:59:14.406666+05:30
+- **Local Path**: `ai/rag/cookbook-haystack.md`
+
+### 17. [Tutorials | Haystack](../ai/rag/tutorials-haystack.md) ([Source URL](https://haystack.deepset.ai/tutorials))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:59:09.261744+05:30
+- **Local Path**: `ai/rag/tutorials-haystack.md`
+
+### 18. [deepset (deepset)](../ai/rag/deepset-deepset.md) ([Source URL](https://huggingface.co/deepset))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:59:06.267336+05:30
+- **Local Path**: `ai/rag/deepset-deepset.md`
+
+### 19. [Access AWS Expert Solutions & Authoritative Knowledge - AWS re:Post | AWS re:Post](../ai/rag/access-aws-expert-solutions-authoritative-knowledg.md) ([Source URL](https://repost.aws?nc1=f_dr))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:59:05.395127+05:30
+- **Local Path**: `ai/rag/access-aws-expert-solutions-authoritative-knowledg.md`
+
+### 20. [AWS Email Preference Center](../ai/resources/aws-email-preference-center.md) ([Source URL](https://pages.awscloud.com/communication-preferences?trk=homepage))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-02T01:58:54.571143+05:30
+- **Local Path**: `ai/resources/aws-email-preference-center.md`
+
+### 21. [AWS Privacy Notice](../ai/rag/aws-privacy-notice.md) ([Source URL](https://aws.amazon.com/privacy?nc1=f_pr))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:57:55.623035+05:30
+- **Local Path**: `ai/rag/aws-privacy-notice.md`
+
+### 22. [AWS Site Terms](../ai/rag/aws-site-terms.md) ([Source URL](https://aws.amazon.com/terms?nc1=f_pr))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:57:50.591015+05:30
+- **Local Path**: `ai/rag/aws-site-terms.md`
+
+### 23. [Discover AWS Official Knowledge Center Articles | AWS re:Post](../ai/rag/discover-aws-official-knowledge-center-articles-aw.md) ([Source URL](https://repost.aws/knowledge-center?nc1=f_dr))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:57:48.438431+05:30
+- **Local Path**: `ai/rag/discover-aws-official-knowledge-center-articles-aw.md`
+
+### 24. [Open Government Licence](../ai/rag/open-government-licence.md) ([Source URL](http://nationalarchives.gov.uk/doc/open-government-licence/version/3))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:57:27.958566+05:30
+- **Local Path**: `ai/rag/open-government-licence.md`
+
+### 25. [Information Commissioner's Office (ICO) - YouTube](../ai/resources/information-commissioner-s-office-ico-youtube.md) ([Source URL](http://youtube.com/user/icocomms))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-02T01:57:27.729116+05:30
+- **Local Path**: `ai/resources/information-commissioner-s-office-ico-youtube.md`
+
+### 26. [Contact us | ICO](../ai/resources/contact-us-ico.md) ([Source URL](https://ico.org.uk/global/contact-us))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-02T01:55:54.480282+05:30
+- **Local Path**: `ai/resources/contact-us-ico.md`
+
+### 27. [Global Infrastructure - AWS](../ai/rag/global-infrastructure-aws.md) ([Source URL](https://aws.amazon.com/about-aws/global-infrastructure))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:55:53.915455+05:30
+- **Local Path**: `ai/rag/global-infrastructure-aws.md`
+
+### 28. [run-llama/llama_deploy](../ai/rag/run-llama-llama-deploy.md) ([Source URL](https://github.com/run-llama/llama_deploy))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:51:30.403182+05:30
+- **Local Path**: `ai/rag/run-llama-llama-deploy.md`
+
+### 29. [Redirecting to GitHub Learn](../ai/resources/redirecting-to-github-learn.md) ([Source URL](https://skills.github.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-02T01:51:26.935665+05:30
+- **Local Path**: `ai/resources/redirecting-to-github-learn.md`
+
+### 30. [LlamaParse Platform Quickstart | Developer Documentation](../ai/agents/llamaparse-platform-quickstart-developer-documenta.md) ([Source URL](https://docs.cloud.llamaindex.ai))
+- **Category**: ai/agents
+- **Collected At**: 2026-07-02T01:51:26.184859+05:30
+- **Local Path**: `ai/agents/llamaparse-platform-quickstart-developer-documenta.md`
+
+### 31. [GitHub Copilot CLI · GitHub](../ai/agents/features-copilot.md) ([Source URL](https://github.com/features/copilot))
+- **Category**: ai/agents
+- **Collected At**: 2026-07-02T01:51:25.722419+05:30
+- **Local Path**: `ai/agents/features-copilot.md`
+
+### 32. [GitHub Features · GitHub](../ai/rag/github-features-github.md) ([Source URL](https://github.com/features))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:51:25.510542+05:30
+- **Local Path**: `ai/rag/github-features-github.md`
+
+### 33. [Releases · gohugoio/hugo · GitHub](../ai/rag/gohugoio-hugo.md) ([Source URL](https://github.com/gohugoio/hugo))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:51:21.331858+05:30
+- **Local Path**: `ai/rag/gohugoio-hugo.md`
+
+### 34. [GitHub Docs](../ai/agents/github-docs.md) ([Source URL](https://docs.github.com))
+- **Category**: ai/agents
+- **Collected At**: 2026-07-02T01:51:20.839444+05:30
+- **Local Path**: `ai/agents/github-docs.md`
+
+### 35. [Cloudflare Research](../ai/rag/cloudflare-research.md) ([Source URL](https://research.cloudflare.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:51:15.664519+05:30
+- **Local Path**: `ai/rag/cloudflare-research.md`
+
+### 36. [openai/tiktoken](../ai/rag/openai-tiktoken.md) ([Source URL](https://github.com/openai/tiktoken))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:51:15.461201+05:30
+- **Local Path**: `ai/rag/openai-tiktoken.md`
+
+### 37. [openai/openai-cookbook](../ai/resources/openai-openai-cookbook.md) ([Source URL](https://github.com/openai/openai-cookbook))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-02T01:51:15.455699+05:30
+- **Local Path**: `ai/resources/openai-openai-cookbook.md`
+
+### 38. [embeddings-benchmark/mteb](../ai/rag/embeddings-benchmark-mteb.md) ([Source URL](https://github.com/embeddings-benchmark/mteb))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:51:15.424465+05:30
+- **Local Path**: `ai/rag/embeddings-benchmark-mteb.md`
+
+### 39. [Android Mobile App Developer Tools - Android Developers](../ai/rag/android-mobile-app-developer-tools-android-develop.md) ([Source URL](http://developer.android.com/index.html))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:51:15.202556+05:30
+- **Local Path**: `ai/rag/android-mobile-app-developer-tools-android-develop.md`
+
+### 40. [Privacy Policy – Privacy & Terms – Google](../ai/rag/privacy-policy-privacy-terms-google.md) ([Source URL](https://policies.google.com/privacy))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:51:11.872029+05:30
+- **Local Path**: `ai/rag/privacy-policy-privacy-terms-google.md`
+
+### 41. [supermldev/agenticAI](../ai/agents/supermldev-agenticai.md) ([Source URL](https://github.com/supermldev/agenticai))
+- **Category**: ai/agents
+- **Collected At**: 2026-07-02T01:51:10.439619+05:30
+- **Local Path**: `ai/agents/supermldev-agenticai.md`
+
+### 42. [youtube/api-samples](../ai/resources/youtube-api-samples.md) ([Source URL](https://github.com/youtube/api-samples))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-02T01:51:10.393693+05:30
+- **Local Path**: `ai/resources/youtube-api-samples.md`
+
+### 43. [supermldev/genvoice-ai](../ai/resources/supermldev-genvoice-ai.md) ([Source URL](https://github.com/supermldev/genvoice-ai))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-02T01:51:10.380832+05:30
+- **Local Path**: `ai/resources/supermldev-genvoice-ai.md`
+
+### 44. [GitHub Status](../ai/rag/github-status.md) ([Source URL](https://githubstatus.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:51:07.050709+05:30
+- **Local Path**: `ai/rag/github-status.md`
+
+### 45. [Home - The GitHub Blog](../ai/resources/home-the-github-blog.md) ([Source URL](https://github.blog))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-02T01:51:04.792795+05:30
+- **Local Path**: `ai/resources/home-the-github-blog.md`
+
+### 46. [Welcome to LlamaIndex 🦙 ! | Developer Documentation](../ai/rag/welcome-to-llamaindex-developer-documentation.md) ([Source URL](https://docs.llamaindex.ai/en/stable))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:50:35.055692+05:30
+- **Local Path**: `ai/rag/welcome-to-llamaindex-developer-documentation.md`
+
+### 47. [GitHub Changelog](../ai/resources/github-changelog.md) ([Source URL](https://github.blog/changelog))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-02T01:50:34.232976+05:30
+- **Local Path**: `ai/resources/github-changelog.md`
+
+### 48. [supermlorg/superml-java · Discussions · GitHub](../ai/resources/supermlorg-superml-java.md) ([Source URL](https://github.com/supermlorg/superml-java))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-02T01:50:15.899807+05:30
+- **Local Path**: `ai/resources/supermlorg-superml-java.md`
+
+### 49. [pgvector/pgvector](../ai/rag/pgvector-pgvector.md) ([Source URL](https://github.com/pgvector/pgvector))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-02T01:50:15.676276+05:30
+- **Local Path**: `ai/rag/pgvector-pgvector.md`
+
+### 50. [adityatelange/hugo-PaperMod](../ai/resources/adityatelange-hugo-papermod.md) ([Source URL](https://github.com/adityatelange/hugo-papermod))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-02T01:50:15.631202+05:30
+- **Local Path**: `ai/resources/adityatelange-hugo-papermod.md`
 
 ---
-*Index generated on 2026-07-01T23:10:23.110302+05:30*
+*Index generated on 2026-07-02T02:02:04.477426+05:30*

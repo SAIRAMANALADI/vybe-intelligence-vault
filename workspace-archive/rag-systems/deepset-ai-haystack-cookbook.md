@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Collection of Jupyter Notebooks demonstrating practical implementations of Haystack, a framework for building search and question-answering systems.
-- **Key Features**: Includes examples for agentic AI, retrieval-augmented generation (RAG), and GenAI use cases, showcasing Python-based workflows.
-- **Metadata**: 545 stars, 127 forks, last updated June 24, 2026. Topics include Haystack-ai, agents, and AI tools.
+- **Purpose**: Repository of Jupyter Notebooks demonstrating practical implementations of [Haystack](https://github.com/deepset-ai/haystack) for agentic AI, retrieval-augmented generation (RAG), and GenAI use cases.
+- **Content**: Examples cover agentic workflows, AI tools integration, and Python-based GenAI applications using Haystack’s framework.
+- **Metadata**: 546 ⭐, 127 🍴, last updated 2026-07-01, primarily Python/Jupyter Notebook-based.
 
 ## Use Cases
 

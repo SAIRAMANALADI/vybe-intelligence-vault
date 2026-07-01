@@ -12,6 +12,7 @@ archive_tier: useful
 resource_kind: template
 importance: medium
 tags:
+- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- Tutorial contributions require either submitting an issue (bug report or new tutorial request) or directly adding/editing `.ipynb` files in the `tutorials` folder, with generated Markdown accompaniments.
-- New tutorials must follow the template structure, adhere to naming conventions (e.g., `XX_descriptive_name.ipynb`), and update `index.toml` (including `weight` for ordering and `colab` flag for Google Colab compatibility).
-- CI checks validate tutorial execution upon PR submission; failures
+- **Contribution Process**: Submit issues for bug reports or new tutorial requests via GitHub; edit/add tutorials by modifying `.ipynb` files in the `tutorials` folder or creating new ones from the template, ensuring compliance with naming conventions and updating `index.toml` with metadata (e.g., `weight`, `colab` flag).
+
+- **Environment Setup**: Install dependencies via `pip install -r requirements.txt` and enable pre-commit hooks (`pre-commit install`) for automated formatting/checks before G
 
 ## Use Cases
 

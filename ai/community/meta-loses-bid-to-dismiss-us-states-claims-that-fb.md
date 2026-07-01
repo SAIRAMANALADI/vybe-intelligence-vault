@@ -13,13 +13,14 @@ collected_at: '2026-07-01T22:54:31.086641+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:meta-loses-bid-to-dismiss-us-states-claims-that-fb
 first_seen: '2026-07-01T22:54:31.086641+05:30'
 last_seen: '2026-07-01T22:54:31.086641+05:30'
 last_checked: '2026-07-01T22:54:31.086641+05:30'
 health_score: 100
 ---
+
 
 # Meta loses bid to dismiss US states' claims that FB, Instagram addict children
 

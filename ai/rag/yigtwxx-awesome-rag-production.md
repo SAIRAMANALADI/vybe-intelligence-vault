@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-07-01T22:56:12.915480+05:30'
+collected_at: '2026-07-02T01:47:45.496970+05:30'
 published_at: '2026-07-01T13:14:52Z'
 tags:
-- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-06-30T05:24:48Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-07-01T22:56:12.915480+05:30'
-last_seen: '2026-07-01T22:56:12.915480+05:30'
-last_checked: '2026-07-01T22:56:12.915480+05:30'
+first_seen: '2026-07-02T01:47:45.496970+05:30'
+last_seen: '2026-07-02T01:47:45.496970+05:30'
+last_checked: '2026-07-02T01:47:45.496970+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Production-Grade RAG Resources**: A comprehensive list of tools, frameworks, and best practices for deploying scalable, production-ready Retrieval-Augmented Generation (RAG) systems, covering LLMs, embeddings, vector databases, and MLOps integration.
-
-- **Python-Centric Ecosystem**: Focuses on Python-based libraries (e.g., LangChain) and tools for RAG pipelines, including retrieval, generation, and evaluation components optimized for production environments.
-
-- **LLMOps & AI Engineering Focus**: Highlights operational best practices (LLMOps) for managing RAG workflows, including deployment, monitoring, and scalability strategies for large-scale AI systems.
+- **Curated Resources**: Repository aggregates production-grade tools, frameworks, and best practices for scalable RAG systems, including embeddings, vector databases, and LLM integration.
+- **Technical Scope**: Covers AI engineering, MLOps, and LLMops with Python-centric implementations, featuring LangChain, generative AI, and retrieval-augmented generation (RAG) workflows.
+- **Maintenance & Metadata**: Last updated July 2026; includes 134 stars, 33 forks, and topics spanning AI/ML infrastructure, vector search, and production deployment.
 
 ## Why It Matters
 

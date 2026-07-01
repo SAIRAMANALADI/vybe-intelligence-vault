@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials/01_basic_qa_pipeline
-published_at: '2026-06-30T03:59:50.506810+05:30'
-collected_at: '2026-06-30T03:59:50.506822+05:30'
+published_at: '2026-07-02T01:59:24.791919+05:30'
+collected_at: '2026-07-02T01:59:24.791935+05:30'
 tags:
 - anthropic
 - dataset
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:creating-your-first-qa-pipeline-with-retrieval-aug
-first_seen: '2026-06-30T03:59:50.506822+05:30'
-last_seen: '2026-06-30T03:59:50.506822+05:30'
-last_checked: '2026-06-30T03:59:50.506822+05:30'
+first_seen: '2026-07-02T01:59:24.791935+05:30'
+last_seen: '2026-07-02T01:59:24.791935+05:30'
+last_checked: '2026-07-02T01:59:24.791935+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Document Processing Pipeline**: Uses `SentenceTransformersDocumentEmbedder` (model: `all-MiniLM-L6-v2`) to generate embeddings for Wikipedia documents (Seven Wonders dataset) stored in an `InMemoryDocumentStore`.
+- **Pipeline Architecture**: Implements a RAG pipeline using `InMemoryDocumentStore`, `SentenceTransformersDocumentEmbedder` for document embeddings, `SentenceTransformersTextEmbedder` for query embeddings, `InMemoryEmbeddingRetriever` for document retrieval, `ChatPromptBuilder` for prompt templating, and a `ChatGenerator` (e.g., `OpenAIChatGenerator`, `MistralChatGenerator`, or `TransformersChatGenerator`) for answer generation.
 
-- **RAG Pipeline Components**: Combines `SentenceTransformersTextEmbedder` (same model), `InMemoryEmbeddingRetriever`, `ChatPromptBuilder` (Jinja2 template with `documents` and `question` variables), and a `ChatGenerator` (e.g., `OpenAIChatGenerator`, `MistralChatGenerator`, or `TransformersChatGenerator` for local LLMs).
+- **Document Processing**: Documents (e.g., Wikipedia pages) are embedded using `SentenceTransformersDocumentEmbedder` (`all-MiniLM-L6-v2` model) and stored in `InMemoryDocumentStore` for retrieval.
 
-- **Execution Flow**: Pipeline connects `text_embedder → retriever → prompt_builder → llm`, where the retriever fetches relevant documents based on query embeddings, the prompt builder constructs the context-aware prompt, and the generator produces the final answer.
+- **Query Execution**: User queries are embedded via `SentenceTransformersTextEmbedder`, retrieved via `InMemoryEmbeddingRetriever`, and combined with a prompt template in `ChatPromptBuilder` before being passed to the `ChatGenerator` for answer synthesis.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T03:59:50.506810+05:30
+- Published: 2026-07-02T01:59:24.791919+05:30
 
 ## Related Tags
 

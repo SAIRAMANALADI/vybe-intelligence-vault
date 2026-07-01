@@ -15,6 +15,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal indexing**: Supports structured (knowledge graphs) and unstructured (text, images) data integration with vector embeddings for hybrid retrieval.
-- **AI agents & MCP integration**: Deploys autonomous agents for dynamic query planning and leverages Model Context Protocol (MCP) for tool orchestration.
-- **Scalable K8s deployment**: Helm charts and Kubernetes-native architecture enable horizontal scaling, fault tolerance, and cloud-agnostic orchestration.
+- **Multi-modal indexing**: Supports structured (knowledge graphs) and unstructured (text, images) data integration via vector embeddings and graph-based retrieval.
+- **AI agents & MCP integration**: Enables autonomous agent workflows with Model Context Protocol (MCP) for dynamic tool orchestration and context-aware reasoning.
+- **Scalable K8s deployment**: Optimized for Kubernetes with Helm charts, horizontal scaling, and distributed processing for high-throughput RAG pipelines.
 
 ## Use Cases
 

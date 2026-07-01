@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-07-01T22:55:28.290632+05:30'
+collected_at: '2026-07-02T01:47:00.460810+05:30'
 published_at: '2026-07-01T13:42:34Z'
 tags:
 - github-repo
+- openai
 - python
 - rag
 - workflows
@@ -18,9 +19,9 @@ archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-07-01T22:55:28.290632+05:30'
-last_seen: '2026-07-01T22:55:28.290632+05:30'
-last_checked: '2026-07-01T22:55:28.290632+05:30'
+first_seen: '2026-07-02T01:47:00.460810+05:30'
+last_seen: '2026-07-02T01:47:00.460810+05:30'
+last_checked: '2026-07-02T01:47:00.460810+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **LangChain RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with LLM-based generation.
-- **Modular Python Architecture**: Utilizes LangChain's modular components (e.g., document loaders, embeddings, vector stores, and LLMs) for scalable RAG workflows.
-- **Example Pipeline**: Includes a tutorial-style example with steps for loading documents, splitting text, embedding, querying, and generating responses via a vector database (e.g., FAISS or Chroma).
+- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced response generation.
+- **Python-Based Architecture**: Utilizes Python for modular components, including document loaders, text splitters, vector stores (e.g., FAISS or Chroma), and LLM integration (e.g., OpenAI, Hugging Face).
+- **Modular Workflow**: Follows a structured RAG workflow: ingestion (load/split/store documents), retrieval (semantic search via embeddings), and generation (LLM synthesis with retrieved context).
 
 ## Why It Matters
 

@@ -13,13 +13,14 @@ collected_at: '2026-07-01T22:54:32.544661+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-pmb-local-memory-for-coding-agents-that-sh
 first_seen: '2026-07-01T22:54:32.544661+05:30'
 last_seen: '2026-07-01T22:54:32.544661+05:30'
 last_checked: '2026-07-01T22:54:32.544661+05:30'
 health_score: 100
 ---
+
 
 # Show HN: PMB – local memory for coding agents that shows if it is used
 

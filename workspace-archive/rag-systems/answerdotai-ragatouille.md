@@ -1,31 +1,32 @@
 ---
-title: AnswerDotAI/RAGatouille
+title: RAGatouille/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
+  at main · AnswerDotAI/RAGat
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/AnswerDotAI/RAGatouille
+source_url: https://github.com/AnswerDotAI/RAGatouille/blob/main/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
 resource_id: github:answerdotai/ragatouille
 local_vault_path: ai/rag/answerdotai-ragatouille.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- github-repo
 - models
-- python
 - rag
+- web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
 ---
 
-# AnswerDotAI/RAGatouille
+# RAGatouille/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb at main · AnswerDotAI/RAGat
 
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **ColBERT Integration**: Provides a modular, Python-based implementation of ColBERT (Contextualized Late Interaction over BERT) for high-precision late-interaction retrieval in RAG pipelines.
+- **RAGatouille**: A GitHub repository by AnswerDotAI implementing Retrieval-Augmented Generation (RAG) with ColBERTv2 for efficient document retrieval and integration with LLMs.
 
-- **Training & Deployment**: Supports both inference and fine-tuning of ColBERT models, enabling state-of-the-art retrieval performance with minimal overhead.
+- **Fine-tuning Pipeline**: Provides a Jupyter notebook (`03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb`) demonstrating fine-tuning of LLMs using instructor embeddings and RAGatouille for unsupervised annotation-free training.
 
-- **Research-Backed & Maintained**: Actively updated (last commit: 2026-06-30) with a growing community (3,938 stars, 271 forks), ensuring alignm
+- **Performance Metrics**: Supports 271 forks, 3.9k stars, and inc
 
 ## Use Cases
 
@@ -47,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/AnswerDotAI/RAGatouille
+Original source URL: https://github.com/AnswerDotAI/RAGatouille/blob/main/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
 
 ## Local Vault File
 

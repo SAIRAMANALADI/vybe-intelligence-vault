@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-01T22:55:58.372096+05:30'
+collected_at: '2026-07-02T01:47:30.639410+05:30'
 published_at: '2026-06-30T01:41:05Z'
 tags:
 - github-repo
-- openai
 - python
 - rag
-- workflows
 stars: 157
 language: Python
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-01T22:55:58.372096+05:30'
-last_seen: '2026-07-01T22:55:58.372096+05:30'
-last_checked: '2026-07-01T22:55:58.372096+05:30'
+first_seen: '2026-07-02T01:47:30.639410+05:30'
+last_seen: '2026-07-02T01:47:30.639410+05:30'
+last_checked: '2026-07-02T01:47:30.639410+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Implementation**: Demonstrates combining vector similarity search with keyword-based retrieval (BM25) using LangChain's `HybridSearchRetriever` for enhanced document retrieval accuracy.
+- **Hybrid RAG Pipeline**: Demonstrates LangChain integration with a vector store (e.g., FAISS/Chroma) and hybrid search (combining dense + sparse retrieval) for enhanced document retrieval and generation.
 
-- **LangChain RAG Pipeline**: Integrates a retrieval-augmented generation workflow with a vector store (e.g., FAISS or Chroma) and a language model (e.g., OpenAI, Hugging Face) to generate context-aware responses.
+- **Streamlit UI**: Provides a real-time interactive interface for querying and visualizing RAG outputs, leveraging Streamlit’s components for dynamic data display.
 
-- **Streamlit UI for RAG**: Provides a Streamlit-based web interface to interact with the RAG system, allowing users to input queries and visualize retrieved documents alongside generated answers.
+- **Modular LangChain Components**: Implements a pipeline using LangChain’s `RetrievalQA`, `VectorStore`, and `LLM` abstractions, with configurable parameters for retrieval strategies and model backends.
 
 ## Why It Matters
 

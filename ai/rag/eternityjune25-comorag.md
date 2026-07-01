@@ -4,11 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-01T22:56:58.014321+05:30'
+collected_at: '2026-07-02T01:48:30.579474+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -20,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-01T22:56:58.014321+05:30'
-last_seen: '2026-07-01T22:56:58.014321+05:30'
-last_checked: '2026-07-01T22:56:58.014321+05:30'
+first_seen: '2026-07-02T01:48:30.579474+05:30'
+last_seen: '2026-07-02T01:48:30.579474+05:30'
+last_checked: '2026-07-02T01:48:30.579474+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework (`ComoRAG`) that emulates human-like stateful reasoning for long narrative comprehension, leveraging structured memory hierarchies to maintain context coherence over extended interactions.
+- **Cognitive Memory Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retrieval and integration.
 
-- **Stateful Long Narrative Reasoning**: Implements dynamic memory updates and retrieval mechanisms to preserve temporal and relational dependencies in narratives, enabling multi-turn reasoning with improved factual consistency and contextual relevance.
+- **Stateful Reasoning Mechanism**: Implements dynamic memory updates and hierarchical retrieval to maintain context consistency across extended dialogues or narratives, enhancing multi-turn reasoning capabilities.
 
-- **AAAI 2026 Poster Submission**: Proposes a novel approach to RAG systems, validated through empirical benchmarks on long-form narrative datasets, demonstrating superior performance in state tracking, memory retention, and contextual accuracy compared to traditional RAG baselines.
+- **AAAI 2026 Poster Submission**: Presented as a novel approach to Retrieval-Augmented Generation (RAG) with empirical validation on long-form reasoning tasks, demonstrating superior performance over traditional RAG methods.
 
 ## Why It Matters
 

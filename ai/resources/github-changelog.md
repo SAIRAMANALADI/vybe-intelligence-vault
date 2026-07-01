@@ -4,16 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.blog/changelog
-published_at: '2026-06-30T20:19:31.870775+05:30'
-collected_at: '2026-06-30T20:19:31.870791+05:30'
+published_at: '2026-07-02T01:50:34.232961+05:30'
+collected_at: '2026-07-02T01:50:34.232976+05:30'
 tags:
 - web-crawled
-- workflows
 status: active
 resource_id: blog:github-changelog
-first_seen: '2026-06-30T20:19:31.870791+05:30'
-last_seen: '2026-06-30T20:19:31.870791+05:30'
-last_checked: '2026-06-30T20:19:31.870791+05:30'
+first_seen: '2026-07-02T01:50:34.232976+05:30'
+last_seen: '2026-07-02T01:50:34.232976+05:30'
+last_checked: '2026-07-02T01:50:34.232976+05:30'
 health_score: 100
 ---
 
@@ -21,11 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Dependabot Dependency**: GitHub's Dependabot no longer automatically infers `.npmrc` configurations for Node.js projects, requiring explicit specification in dependency manifests.
-
-- **Security Impact**: This change enhances supply chain security by preventing unintended npm registry or authentication overrides via `.npmrc` inference.
-
-- **Action Required**: Developers must manually configure `.npmrc` settings in their projects or workflows to maintain expected npm behavior.
+- **GitHub Copilot Integration**: Kimi K2.7 model is now available in GitHub Copilot, enhancing code generation and completion capabilities.
+- **Performance Improvements**: K2.7 offers optimized inference speed and reduced latency for real-time coding assistance.
+- **GitHub Changelog Update**: The release is documented under the Copilot section of GitHub’s official changelog for July 2026.
 
 ## Why It Matters
 
@@ -35,12 +32,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-30T20:19:31.870775+05:30
+- Published: 2026-07-02T01:50:34.232961+05:30
 
 ## Related Tags
 
 - web-crawled
-- workflows
 
 ## Source
 

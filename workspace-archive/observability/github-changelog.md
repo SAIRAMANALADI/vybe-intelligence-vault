@@ -6,14 +6,12 @@ source_url: https://github.blog/changelog
 resource_id: blog:github-changelog
 local_vault_path: ai/resources/github-changelog.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
-- anthropic
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -24,7 +22,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -32,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Integration Update**: GitHub Copilot now supports **Claude Opus 4.8 (fast mode)** in preview, enhancing real-time code generation and assistance.
-- **Performance Optimization**: Fast mode prioritizes **lower-latency inference**, improving responsiveness for interactive development workflows.
-- **Preview Availability**: Feature is currently in **limited preview** under GitHub Copilot’s changelog updates for June 29, 2026.
+- **GitHub Copilot Integration**: Kimi K2.7 model is now available in GitHub Copilot, enhancing code generation and completion capabilities.
+- **Performance Improvements**: K2.7 offers optimized inference speed and reduced latency for real-time coding assistance.
+- **GitHub Changelog Update**: The release is documented under the Copilot section of GitHub’s official changelog for July 2026.
 
 ## Use Cases
 

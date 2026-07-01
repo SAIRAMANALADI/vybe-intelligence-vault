@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-07-01T22:55:22.816211+05:30'
-collected_at: '2026-07-01T22:55:22.816225+05:30'
+published_at: '2026-07-02T01:46:54.688989+05:30'
+collected_at: '2026-07-02T01:46:54.689005+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-07-01T22:55:22.816225+05:30'
-last_seen: '2026-07-01T22:55:22.816225+05:30'
-last_checked: '2026-07-01T22:55:22.816225+05:30'
+first_seen: '2026-07-02T01:46:54.689005+05:30'
+last_seen: '2026-07-02T01:46:54.689005+05:30'
+last_checked: '2026-07-02T01:46:54.689005+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings, vector DBs like Supabase) and generation (LLMs) to enhance contextual accuracy without fine-tuning; latency dominated by embedding generation (~50%) and vector search (~30%).
+- **RAG Pipeline Components**: Core architecture includes document chunking, embedding generation (optimized via LangChain), and vector storage (e.g., Supabase) for retrieval, followed by LLM-based generation with latency benchmarks for optimization.
 
-- **Production Optimizations**: Chunking strategies (semantic vs. fixed-size), embedding quantization (e.g., FP16→INT8), and hybrid retrieval (BM25 + vector similarity) reduce token costs by 40% while improving recall; caching (Redis) and load balancing (Cloudflare Workers) mitigate scaling bottlenecks.
+- **Production Strategies**: Implements hybrid search (dense + sparse retrieval), query expansion, caching, load balancing across models, and deployment via Cloudflare Workers for scalability and cost-efficiency.
 
-- **Monitoring & Trade-offs**: Observability via Sentry tracks hallucination rates (target <2%) and retrieval precision; cost-performance balance favors smaller models (e.g., `all-MiniLM-L6-v2`) with aggressive pruning, accepting ~5% F1-score degradation for 3x speedup.
+- **Monitoring & Troubleshooting**: Integrates Sentry for observability, tracks token usage vs. performance trade-offs, and addresses common issues like poor retrieval quality, high latency, and hallucinations through structured testing and advanced patterns (e.g., multi-modal RAG).
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T22:55:22.816211+05:30
+- Published: 2026-07-02T01:46:54.688989+05:30
 
 ## Related Tags
 

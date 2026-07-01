@@ -1,0 +1,53 @@
+---
+title: ali-bahrainian/RAG_best_practices
+archive_category: automation-workflows
+source_category: ai/rag
+source_url: https://github.com/ali-bahrainian/RAG_best_practices
+resource_id: github:ali-bahrainian/rag_best_practices
+local_vault_path: ai/rag/ali-bahrainian-rag-best-practices.md
+quality_score: 70
+archive_score: 77
+archive_tier: useful
+resource_kind: benchmark
+importance: medium
+tags:
+- github-repo
+- hackernews
+- python
+- rag
+- workflows
+selection_reason:
+- Strong keyword match
+- Active open-source repository
+---
+
+# ali-bahrainian/RAG_best_practices
+
+## Why This Is In The Archive
+
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
+
+## Summary
+
+- **Repository Overview**: GitHub repository focused on best practices for Retrieval-Augmented Generation (RAG) systems, containing Python-based implementations and methodologies.
+- **Metadata**: 107 stars, 20 forks, last updated on June 19, 2026; no explicit topics or description provided.
+- **Technical Stack**: Primarily Python, targeting optimization and standardization of RAG pipelines and workflows.
+
+## Use Cases
+
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
+
+## Source
+
+Original source URL: https://github.com/ali-bahrainian/RAG_best_practices
+
+## Local Vault File
+
+Path: [ali-bahrainian-rag-best-practices.md](../../ai/rag/ali-bahrainian-rag-best-practices.md)

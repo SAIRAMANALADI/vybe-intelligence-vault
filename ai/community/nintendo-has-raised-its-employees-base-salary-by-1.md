@@ -13,13 +13,14 @@ collected_at: '2026-07-01T22:54:31.847671+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:nintendo-has-raised-its-employees-base-salary-by-1
 first_seen: '2026-07-01T20:43:05.787111+05:30'
 last_seen: '2026-07-01T22:54:31.847671+05:30'
 last_checked: '2026-07-01T22:54:31.847671+05:30'
 health_score: 100
 ---
+
 
 # Nintendo has raised its employees base salary by 10%
 

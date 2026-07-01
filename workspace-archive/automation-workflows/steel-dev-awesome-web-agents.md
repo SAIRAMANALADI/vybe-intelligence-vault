@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated collection** of tools, frameworks, and resources for developing AI web agents, including browser automation, LLM integration, and benchmarking utilities.
-- **Python-centric** with focus on AI-driven agent systems, LLMs, and web interaction automation.
-- **Active maintenance** with last update in July 2026, ensuring relevance for modern AI agent development.
+- **Curated Tools & Frameworks**: Repository aggregates Python-based tools, frameworks, and libraries for developing AI-driven web agents, including browser automation and LLM benchmarking utilities.
+- **Benchmarking & Evaluation**: Includes resources for assessing LLM performance in web agent tasks, facilitating standardized testing and optimization.
+- **Active Maintenance**: Last updated in July 2026, ensuring relevance with ongoing contributions from the community (1.49k stars, 193 forks).
 
 ## Use Cases
 

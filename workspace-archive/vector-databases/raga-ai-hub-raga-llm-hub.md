@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose-built framework** for evaluating LLMs, implementing guardrails, and enforcing security protocols in Python-based workflows.
-- **Modular architecture** supports integration with LLMops pipelines, enabling automated evaluation and real-time monitoring of model behavior.
-- **Open-source repository** (114 stars, 14 forks) last updated June 2026, focusing on security-hardened LLM deployments and compliance-ready evaluation metrics.
+- **LLM Evaluation & Guardrails Framework**: Provides tools for assessing LLM performance and enforcing safety constraints via configurable guardrails.
+- **Security & Compliance Integration**: Implements mechanisms for input/output validation, toxicity detection, and policy enforcement in LLM workflows.
+- **Python-Based Toolkit**: Supports modular deployment for LLMops pipelines with evaluation metrics, security checks, and real-time monitoring.
 
 ## Use Cases
 

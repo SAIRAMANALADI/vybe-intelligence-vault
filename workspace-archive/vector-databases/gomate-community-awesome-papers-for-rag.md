@@ -12,9 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- hackernews
-- meta-ai
-- models
 - paper
 - python
 - rag
@@ -34,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: Repository (`gomate-community/awesome-papers-for-rag`) listing peer-reviewed papers, surveys, and technical reports focused on **Retrieval-Augmented Generation (RAG)** methodologies, architectures, and applications.
-- **Python-Centric Tooling**: Primarily Python-based, suggesting compatibility with ML frameworks (e.g., PyTorch, Hugging Face) and libraries for RAG pipeline implementation (e.g., LangChain, LlamaIndex).
-- **Actively Maintained**: Last updated **July 202
+- **Curated RAG Resources**: Repository compiling high-impact papers, frameworks, and tools focused on retrieval-augmented generation (RAG) methodologies, architectures, and applications.
+- **Python-Centric**: Primary implementation and documentation in Python, facilitating integration with popular ML/NLP libraries (e.g., Hugging Face, LangChain).
+- **Last Updated**: July 1, 2026 (active maintenance with recent advancements in RAG research).
 
 ## Use Cases
 

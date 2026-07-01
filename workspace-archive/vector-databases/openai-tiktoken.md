@@ -32,8 +32,8 @@ selection_reason:
 ## Summary
 
 - **BPE Tokenizer**: Implements Byte Pair Encoding (BPE) for efficient tokenization, optimized for OpenAI's models.
-- **Performance**: Designed for speed, leveraging Python for high-throughput token processing.
-- **Compatibility**: Supports OpenAI's tokenization standards, with updates synchronized to model requirements.
+- **Performance**: Designed for speed, leveraging Rust for core operations while providing a Python interface.
+- **Compatibility**: Supports OpenAI's tokenization schemes (e.g., `cl100k_base`, `p50k_base`, `r50k_base`) with pre-trained vocabularies.
 
 ## Use Cases
 

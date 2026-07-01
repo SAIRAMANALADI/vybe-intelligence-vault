@@ -1,8 +1,9 @@
 ---
-title: AnswerDotAI/RAGatouille
+title: RAGatouille/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
+  at main · AnswerDotAI/RAGat
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://github.com/AnswerDotAI/RAGatouille
+source_url: https://github.com/AnswerDotAI/RAGatouille/blob/main/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
 resource_id: github:answerdotai/ragatouille
 local_vault_path: ai/rag/answerdotai-ragatouille.md
 quality_score: 70
@@ -11,16 +12,16 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- github-repo
-- python
+- models
 - rag
+- web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
 ---
 
-# AnswerDotAI/RAGatouille
+# RAGatouille/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb at main · AnswerDotAI/RAGat
 
 ## Why This Is In The Archive
 
@@ -33,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **ColBERT Integration**: Provides modular, easy-to-use implementation of ColBERT (Contextualized Late Interaction over BERT) for late-interaction retrieval in RAG pipelines.
-- **Training & Inference**: Supports both training and inference workflows for ColBERT-based retrieval models with minimal setup.
-- **Research-Backed**: Built on state-of-the-art retrieval methods, ensuring high performance in retrieval-augmented generation (RAG) applications.
+- **RAGatouille**: A GitHub repository by AnswerDotAI implementing Retrieval-Augmented Generation (RAG) with ColBERTv2 for efficient document retrieval and integration with LLMs.
+
+- **Fine-tuning Pipeline**: Provides a Jupyter notebook (`03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb`) demonstrating fine-tuning of LLMs using instructor embeddings and RAGatouille for unsupervised annotation-free training.
+
+- **Performance Metrics**: Supports 271 forks, 3.9k stars, and inc
 
 ## Use Cases
 
@@ -45,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/AnswerDotAI/RAGatouille
+Original source URL: https://github.com/AnswerDotAI/RAGatouille/blob/main/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
 
 ## Local Vault File
 

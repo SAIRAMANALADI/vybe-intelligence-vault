@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Document Processing Pipeline**: Uses `SentenceTransformersDocumentEmbedder` (model: `all-MiniLM-L6-v2`) to generate embeddings for Wikipedia documents (Seven Wonders dataset) stored in an `InMemoryDocumentStore`.
+- **Pipeline Architecture**: Implements a RAG pipeline using `InMemoryDocumentStore`, `SentenceTransformersDocumentEmbedder` for document embeddings, `SentenceTransformersTextEmbedder` for query embeddings, `InMemoryEmbeddingRetriever` for document retrieval, `ChatPromptBuilder` for prompt templating, and a `ChatGenerator` (e.g., `OpenAIChatGenerator`, `MistralChatGenerator`, or `TransformersChatGenerator`) for answer generation.
 
-- **RAG Pipeline Components**: Combines `SentenceTransformersTextEmbedder` (same model), `InMemoryEmbeddingRetriever`, `ChatPromptBuilder` (Jinja2 template with `documents` and `question` variables), and a `ChatGenerator` (e.g., `OpenAIChatGenerator`, `MistralChatGenerator`, or `Tr
+- **Document Processing**: Documents (e.g., Wikipedia pages) are
 
 ## Use Cases
 

@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Repository hosting a comprehensive, community-driven list of AI autonomous agents, frameworks, and tools (e.g., AutoGPT, BabyAGI, GPT-Engineer) for research and development in autonomous AI systems.
-- **Technical Scope**: Covers Python-based implementations, OpenAI API integrations (GPT-3.5/4), and tools like Copilot for agentic workflows, emphasizing modularity and extensibility.
-- **High Activity**: Maintained with frequent updates (last commit: 2026-07-01), reflectin
+- **Curated collection** of autonomous AI agents, frameworks, and tools including AutoGPT, BabyAGI, GPT-Engineer, and Copilot, primarily for Python-based AI development.
+- **Open-source repository** with 28,568 stars and 3,090 forks, last updated in July 2026, focusing on cutting-edge AI agent technologies and OpenAI integrations (GPT-4).
+- **Technical focus** on autonomous agents, artificial intelligence, and agentic workflows, serving as a high-signal reference for AI researchers and developer
 
 ## Use Cases
 

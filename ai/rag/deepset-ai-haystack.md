@@ -1,74 +1,55 @@
 ---
-title: deepset-ai/haystack
+title: deepset-ai/haystack · Discussions · GitHub
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/deepset-ai/haystack
-collected_at: '2026-07-01T22:58:33.117206+05:30'
-published_at: '2026-07-01T16:12:41Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/deepset-ai/haystack/discussions
+published_at: '2026-07-02T01:59:16.762334+05:30'
+collected_at: '2026-07-02T01:59:16.762349+05:30'
 tags:
 - agents
-- github-repo
-- mdx
-- models
-- openai
+- anthropic
+- hackernews
 - rag
+- web-crawled
 - workflows
-stars: 25798
-language: MDX
 status: active
-license: Apache-2.0
-archived: false
-created_at: '2019-11-14T09:05:28Z'
-pushed_at: '2026-07-01T14:56:00Z'
 resource_id: github:deepset-ai/haystack
-first_seen: '2026-07-01T22:58:33.117206+05:30'
-last_seen: '2026-07-01T22:58:33.117206+05:30'
-last_checked: '2026-07-01T22:58:33.117206+05:30'
+first_seen: '2026-07-02T01:59:16.762349+05:30'
+last_seen: '2026-07-02T01:59:16.762349+05:30'
+last_checked: '2026-07-02T01:59:16.762349+05:30'
 health_score: 100
 ---
 
-# deepset-ai/haystack
+# deepset-ai/haystack · Discussions · GitHub
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack enables building production-grade LLM applications via configurable pipelines with explicit control over retrieval, routing, memory, and generation components.
+- **Haystack GitHub Repository**: Open-source framework by deepset-ai for building RAG pipelines, with 25.8k stars, 2.9k forks, 77 open issues, and 25 PRs as of latest snapshot.
 
-- **Multi-Use Case Support**: Supports scalable agents, RAG, multimodal apps, semantic search, and conversational systems with integrations for LLMs (e.g., GPT-4, Gemini) and frameworks (e.g., PyTorch, Transformers).
+- **Key Community Discussions**: Active threads on debugging retrieval failures in RAG (unanswered), runtime security for agent tool calls (`AgentShield`), and open-source diagnostics engine for RAG validation (`Haystack Diagnostics Engine`).
 
-- **Open-Source & Extensible**: Python-based framework with 25K+ stars, designed for modular agent workflows and optimized for scalable, context-engineered AI deployments.
+- **Technical Extensions**: Community-driven tools like `cowork-to-code-bridge` (async execution bridge) and `Agent Memory Guard` (OWASP-compliant memory poisoning protection) for enhancing Haystack pipeline security and debugging.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: deepset-ai
-- Stars: 25798
-- Forks: 2899
-- Language: MDX
-- Topics: agent, agents, ai, gemini, generative-ai, gpt-4, information-retrieval, large-language-models, llm, machine-learning, nlp, orchestration, python, pytorch, question-answering, rag, retrieval-augmented-generation, semantic-search, summarization, transformers
-- Last Updated: 2026-07-01T16:12:41Z
-- License: Apache-2.0
-- Archived: No
-- Created At: 2019-11-14T09:05:28Z
-- Pushed At: 2026-07-01T14:56:00Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-07-02T01:59:16.762334+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- agents
+- anthropic
+- hackernews
+- rag
+- web-crawled
+- workflows
 
 ## Source
 
-Original source: https://github.com/deepset-ai/haystack
+Original source: https://github.com/deepset-ai/haystack/discussions

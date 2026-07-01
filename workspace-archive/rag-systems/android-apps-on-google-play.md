@@ -2,7 +2,7 @@
 title: Android Apps on Google Play
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://play.google.com/store
+source_url: https://play.google.com/
 resource_id: blog:android-apps-on-google-play
 local_vault_path: ai/rag/android-apps-on-google-play.md
 quality_score: 70
@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform gaming integration**: Google Play Games now supports PC via Windows, enabling cloud sync, cross-device progression, and in-app purchases across mobile and desktop platforms.
-
-- **New game releases**: Titles like *UnGodly* (dark fantasy RPG), *Gambonanza* (roguelike chess), and *NTE: Neverness to Everness* (anomaly-hunting city sim) are launching on PC and mobile with in-app monetization models.
-
-- **Featured titles**: High-rated games such as *Clash Royale* (4.5★), *CookieRun:
+- **Google Play Games on PC** supports cross-platform gaming with titles like *Clash Royale*, *Whiteout Survival*, and *Arknights*, featuring in-app purchases and Windows compatibility.
+- **New/Upcoming Releases**: *Persona5: The Phantom X* (1st anniversary with Hatsune Miku), *Mongil: Star Dive* (monster-taming RPG), and *Discounty* (supermarket management simulator) with pre-registration options.
+- **Featured Titles**: High-rated games include *CookieRun: Kingdom* (4.8★), *GODDESS OF VICTORY:
 
 ## Use Cases
 
@@ -49,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://play.google.com/store
+Original source URL: https://play.google.com/
 
 ## Local Vault File
 

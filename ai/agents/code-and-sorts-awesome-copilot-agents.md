@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-07-01T22:57:13.012021+05:30'
+collected_at: '2026-07-02T01:48:40.584673+05:30'
 published_at: '2026-07-01T02:01:43Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - typescript
+- workflows
 stars: 542
 language: TypeScript
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-07-01T22:57:13.012021+05:30'
-last_seen: '2026-07-01T22:57:13.012021+05:30'
-last_checked: '2026-07-01T22:57:13.012021+05:30'
+first_seen: '2026-07-02T01:48:40.584673+05:30'
+last_seen: '2026-07-02T01:48:40.584673+05:30'
+last_checked: '2026-07-02T01:48:40.584673+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: GitHub repository containing structured GitHub Copilot enhancement materials, including instructions, prompts, skills, MCPs, and agent markdown files for AI agent optimization.
-- **Technical Scope**: Focuses on `TypeScript`-based agent skills, prompt engineering, and custom Copilot agent configurations for VS Code integration.
-- **Metadata**: 542 stars, 89 forks, last updated 2026-07-01, covering topics like `agent-skills`, `copilot-instructions`, and `mcp`.
+- **Curated Resource**: GitHub repository hosting a structured collection of GitHub Copilot AI enhancement files, including instructions, prompts, skills, MCPs, and agent markdowns for advanced AI agent customization.
+- **Technical Scope**: Supports TypeScript-based agent development with focus on `agent-skills`, `prompt-engineering`, and `custom-agents` for GitHub Copilot and VSCode Copilot Chat integration.
+- **Metadata**: 542 stars, 89 forks, last updated July 1, 2026; categorized under `awesome-list`, `copilot-instructions`, and `mcp` for AI-driven development workflows.
 
 ## Why It Matters
 

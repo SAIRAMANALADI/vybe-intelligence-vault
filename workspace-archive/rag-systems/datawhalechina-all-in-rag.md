@@ -11,14 +11,13 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- dataset
 - github-repo
 - hackernews
 - meta-ai
 - models
 - python
 - rag
-- reddit
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -37,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive RAG Guide**: A full-stack technical manual for developing large model applications with Retrieval-Augmented Generation (RAG), covering end-to-end implementation from embedding models to deployment.
+- **Comprehensive RAG Development Guide**: A full-stack technical resource covering Retrieval-Augmented Generation (RAG) implementation, including advanced techniques, frameworks (LangChain, LlamaIndex), and multimodal integration (e.g., Kimi-K2, DeepSeek).
 
-- **Multi-Tool Integration**: Supports diverse frameworks (LangChain, LlamaIndex) and databases (Milvus, Neo4j) for vector/multimodal retrieval, with compatibility for models like DeepSeek and Kimi-K2.
+- **Multi-Tool Integration**: Demonstrates practical implementations with vector databases (Milvus), graph databases (Neo4j), and embedding models, emphasizing end-to-end pipelines for production-grade RAG systems.
 
-- **Python-Centric**: Entire repository and tooling ecosystem are Python-based,
+- **Chinese-Language Focu
 
 ## Use Cases
 

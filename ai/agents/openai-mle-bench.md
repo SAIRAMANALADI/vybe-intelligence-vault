@@ -4,15 +4,17 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/openai/mle-bench
-collected_at: '2026-07-01T22:58:13.078251+05:30'
+collected_at: '2026-07-02T01:49:45.679640+05:30'
 published_at: '2026-07-01T07:16:10Z'
 tags:
 - agents
 - benchmark
+- dataset
 - github-repo
 - hackernews
 - openai
 - python
+- workflows
 stars: 1602
 language: Python
 status: active
@@ -21,9 +23,9 @@ archived: false
 created_at: '2024-10-08T17:07:40Z'
 pushed_at: '2026-04-24T17:33:44Z'
 resource_id: github:openai/mle-bench
-first_seen: '2026-07-01T22:58:13.078251+05:30'
-last_seen: '2026-07-01T22:58:13.078251+05:30'
-last_checked: '2026-07-01T22:58:13.078251+05:30'
+first_seen: '2026-07-02T01:49:45.679640+05:30'
+last_seen: '2026-07-02T01:49:45.679640+05:30'
+last_checked: '2026-07-02T01:49:45.679640+05:30'
 health_score: 100
 ---
 
@@ -31,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Scope**: MLE-bench evaluates AI agents' proficiency in end-to-end machine learning engineering tasks, including problem formulation, data handling, model training, and deployment.
+- **Benchmark Scope**: MLE-bench evaluates AI agents' proficiency in end-to-end machine learning engineering tasks, including data preprocessing, model training, hyperparameter optimization, and deployment.
 
-- **Technical Implementation**: Implemented in Python, the benchmark provides standardized tasks with metrics for reproducibility, covering areas like hyperparameter optimization, model debugging, and pipeline integration.
+- **Technical Implementation**: Written in Python, it provides a standardized framework for testing agents' ability to handle real-world ML workflows, with tasks ranging from simple regression to complex deep learning pipelines.
 
-- **Evaluation Metrics**: Focuses on multi-dimensional performance assessment (e.g., accuracy, efficiency, robustness) with automated scoring to quantify AI agents' ML engineering capabilities.
+- **Evaluation Metrics**: Measures agent performance via task completion rates, code correctness, runtime efficiency, and adaptability to unseen datasets or novel problem domains.
 
 ## Why It Matters
 

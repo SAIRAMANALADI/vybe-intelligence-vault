@@ -4,16 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/supermlorg
-published_at: '2026-07-01T04:15:06.170925+05:30'
-collected_at: '2026-07-01T04:15:06.170937+05:30'
+published_at: '2026-07-02T01:50:10.785993+05:30'
+collected_at: '2026-07-02T01:50:10.786005+05:30'
 tags:
-- reddit
 - web-crawled
 status: active
 resource_id: blog:supermlorg-superml-org-github
-first_seen: '2026-07-01T04:15:06.170937+05:30'
-last_seen: '2026-07-01T04:15:06.170937+05:30'
-last_checked: '2026-07-01T04:15:06.170937+05:30'
+first_seen: '2026-07-02T01:50:10.786005+05:30'
+last_seen: '2026-07-02T01:50:10.786005+05:30'
+last_checked: '2026-07-02T01:50:10.786005+05:30'
 health_score: 100
 ---
 
@@ -21,11 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Profile**: `supermlorg` is a GitHub user/organization with 1 repository, 0 projects, 0 packages, and 4 stars; associated with the domain `superml.org`.
-
-- **Achievements**: Holds GitHub achievements for **Pull Shark** (merged PRs) and **YOLO** (merged without review).
-
-- **Pinned Repository**: Hosts `superml-java`, a modular Java-based machine learning framework for model training (5 stars, 1 fork).
+- **GitHub Organization**: `supermlorg` is a GitHub organization with 1 repository, 0 projects, 0 packages, and 4 stars.
+- **Achievements**: The organization holds two GitHub achievements: "Pull Shark" and "YOLO".
+- **Pinned Repository**: The only visible pinned repository is `superml-java`, a modular machine learning framework for Java-based ML model training.
 
 ## Why It Matters
 
@@ -35,11 +32,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-01T04:15:06.170925+05:30
+- Published: 2026-07-02T01:50:10.785993+05:30
 
 ## Related Tags
 
-- reddit
 - web-crawled
 
 ## Source

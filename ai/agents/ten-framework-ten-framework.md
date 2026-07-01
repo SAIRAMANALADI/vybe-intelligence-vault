@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TEN-framework/ten-framework
-collected_at: '2026-07-01T22:57:38.444844+05:30'
-published_at: '2026-07-01T13:51:55Z'
+collected_at: '2026-07-02T01:49:10.593520+05:30'
+published_at: '2026-07-01T17:44:50Z'
 tags:
 - agents
 - github-repo
 - python
 - youtube
-stars: 10818
+stars: 10819
 language: Python
 status: active
 license: NOASSERTION
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-06-19T14:26:15Z'
 pushed_at: '2026-07-01T07:25:54Z'
 resource_id: github:ten-framework/ten-framework
-first_seen: '2026-07-01T22:57:38.444844+05:30'
-last_seen: '2026-07-01T22:57:38.444844+05:30'
-last_checked: '2026-07-01T22:57:38.444844+05:30'
+first_seen: '2026-07-02T01:49:10.593520+05:30'
+last_seen: '2026-07-02T01:49:10.593520+05:30'
+last_checked: '2026-07-02T01:49:10.593520+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source Python framework for building real-time, multi-modal (voice/video) conversational AI agents.
-- **Key Features**: Supports voice and video interactions, enabling real-time processing and multi-modal capabilities.
-- **Status**: Actively maintained with 10,818 stars and 1,312 forks as of the last update (July 1, 2026).
+- **Purpose**: Open-source Python framework for building real-time, multi-modal conversational voice AI agents with support for video and voice modalities.
+- **Key Features**: Enables low-latency, conversational AI interactions through optimized real-time processing pipelines.
+- **Repository Stats**: 10,819 stars, 1,312 forks, last updated July 1, 2026.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TEN-framework
-- Stars: 10818
+- Stars: 10819
 - Forks: 1312
 - Language: Python
 - Topics: ai, multi-modal, real-time, video, voice
-- Last Updated: 2026-07-01T13:51:55Z
+- Last Updated: 2026-07-01T17:44:50Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-06-19T14:26:15Z

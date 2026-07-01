@@ -4,29 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/onyx
-collected_at: '2026-07-01T22:55:57.957594+05:30'
-published_at: '2026-07-01T17:12:40Z'
+collected_at: '2026-07-02T01:47:25.541618+05:30'
+published_at: '2026-07-01T20:09:53Z'
 tags:
 - frontend_ui
 - github-repo
-- meta-ai
-- mistral
-- models
 - openai
 - python
 - rag
 - workflows
-stars: 30652
+stars: 30654
 language: Python
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2023-04-27T06:04:01Z'
-pushed_at: '2026-07-01T17:23:21Z'
+pushed_at: '2026-07-01T20:11:38Z'
 resource_id: github:onyx-dot-app/onyx
-first_seen: '2026-07-01T22:55:57.957594+05:30'
-last_seen: '2026-07-01T22:55:57.957594+05:30'
-last_checked: '2026-07-01T22:55:57.957594+05:30'
+first_seen: '2026-07-02T01:47:25.541618+05:30'
+last_seen: '2026-07-02T01:47:25.541618+05:30'
+last_checked: '2026-07-02T01:47:25.541618+05:30'
 health_score: 100
 ---
 
@@ -34,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-LLM Integration**: Open-source AI chat platform supporting all major LLMs (e.g., ChatGPT, Llama, Mistral) via modular API adapters, enabling seamless switching between models without vendor lock-in.
-
-- **Enterprise-Grade RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with advanced vector databases (e.g., FAISS, Pinecone) for high-precision contextual retrieval and self-hosted knowledge integration.
-
-- **Next.js Frontend + Python Backend**: Hybrid architecture with a Next.js-based UI for real-time chat and a Python backend (FastAPI) for LLM orchestration, RAG pipelines, and enterprise search workflows.
+- **Multi-LLM Compatibility**: Open-source AI chat platform (`onyx`) supporting integration with any Large Language Model (LLM), enabling flexible deployment across diverse AI backends.
+- **Enterprise-Grade Features**: Implements Retrieval-Augmented Generation (RAG), vector search, and information retrieval for advanced AI-driven workflows, with self-hosting capabilities for data privacy.
+- **Tech Stack**: Python-based backend with Next.js frontend, optimized for scalability and modularity (30.6k+ GitHub stars, 4.2k+ forks).
 
 ## Why It Matters
 
@@ -47,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: onyx-dot-app
-- Stars: 30652
+- Stars: 30654
 - Forks: 4205
 - Language: Python
 - Topics: ai, ai-chat, chatgpt, chatui, enterprise-search, gen-ai, information-retrieval, llm, llm-ui, nextjs, python, rag, self-hosted, vector-search
-- Last Updated: 2026-07-01T17:12:40Z
+- Last Updated: 2026-07-01T20:09:53Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-04-27T06:04:01Z
-- Pushed At: 2026-07-01T17:23:21Z
+- Pushed At: 2026-07-01T20:11:38Z
 
 ## Possible Use Cases
 

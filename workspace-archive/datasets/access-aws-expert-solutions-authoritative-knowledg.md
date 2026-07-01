@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **AWS re:Post** is a community-driven Q&A platform offering peer, AWS, and expert advice for troubleshooting technical and account issues, alongside curated knowledge resources like the AWS Knowledge Center and best practices articles.
+- **AWS re:Post** is a community-driven Q&A platform providing peer, AWS, and expert advice for troubleshooting technical and account issues, with curated knowledge sections like the **AWS Knowledge Center** and **AWS Well-Architected Framework**.
 
-- **Topics** include high-traffic categories such as *Serverless* (11.2M+ posts), *Security, Identity & Compliance* (11.8M+ posts), *Containers* (5.1M+ posts), *Compute* (222.8M+ posts), and the *AWS Well-Architected Framework* (1.7M+ posts).
+- **Topics** include **Serverless (11.2M+ posts)**, **Security, Identity & Compliance (11.8M+ posts)**, **Containers (5.1M+ posts)**, and **Compute (222.8M+ posts)**, with active contributor rankings (e.g., Riku_Kobayashi: 75,159 points).
 
-- **Recent techni
+- **Recent
 
 ## Use Cases
 

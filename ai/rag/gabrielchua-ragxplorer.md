@@ -4,10 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-01T22:55:52.906567+05:30'
+collected_at: '2026-07-02T01:47:25.494721+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
-- dataset
+- benchmark
 - github-repo
 - jupyter notebook
 - models
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-01T22:55:52.906567+05:30'
-last_seen: '2026-07-01T22:55:52.906567+05:30'
-last_checked: '2026-07-01T22:55:52.906567+05:30'
+first_seen: '2026-07-02T01:47:25.494721+05:30'
+last_seen: '2026-07-02T01:47:25.494721+05:30'
+last_checked: '2026-07-02T01:47:25.494721+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing and analyzing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM interactions with retrieved data.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly web interface, allowing real-time visualization of RAG components (e.g., document retrieval, context integration, and model outputs) with dynamic updates.
+- **Streamlit-Powered UI**: Implements a Streamlit-based web interface for real-time, interactive exploration of RAG components (e.g., retrieval mechanisms, prompt engineering, and model outputs) with minimal latency.
 
-- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom RAG pipelines, dataset integration, and performance metrics visualization (e.g., retrieval accuracy, latency).
+- **Modular Python Framework**: Built in Python with extensible components for custom RAG pipelines, supporting integration with LLMs, vector databases, and evaluation metrics for debugging and optimization.
 
 ## Why It Matters
 

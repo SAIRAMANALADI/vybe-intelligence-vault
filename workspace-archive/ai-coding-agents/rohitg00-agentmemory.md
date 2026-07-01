@@ -8,19 +8,19 @@ local_vault_path: ai/rag/rohitg00-agentmemory.md
 quality_score: 70
 archive_score: 83
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - anthropic
 - benchmark
 - github-repo
-- hackernews
 - rag
 - typescript
+- workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # rohitg00/agentmemory
@@ -29,16 +29,18 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 83 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Purpose**: Provides persistent memory storage for AI coding agents, validated via real-world benchmarks to enhance performance and reliability.
-- **Technical Stack**: Implemented in TypeScript, supporting integration with AI coding tools like ClaudeCode, Cursor, and Copilot.
-- **Features**: Enables memory retention and contextual learning for agents, with recent updates (as of July 2026) optimizing functionality.
+- **Persistent Memory Framework**: Provides durable, long-term storage for AI coding agents, enabling state retention across sessions based on real-world benchmarking.
+
+- **TypeScript Implementation**: Built in TypeScript for cross-platform compatibility, optimized for agent-based workflows in GenAI tools like ClaudeCode and Cursor.
+
+- **Benchmark-Driven Design**: Evaluated against real-world use cases, supporting integration with AI agents (e.g., Copilot, OpenClaw) via modular memory management
 
 ## Use Cases
 

@@ -6,10 +6,10 @@ source_url: https://docs.llamaindex.ai/en/stable/?utm_source=github&utm_medium=o
 resource_id: blog:welcome-to-llamaindex-developer-documentation
 local_vault_path: ai/rag/welcome-to-llamaindex-developer-documentation.md
 quality_score: 70
-archive_score: 70
+archive_score: 80
 archive_tier: useful
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
 - meta-ai
 - models
@@ -24,18 +24,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 80 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Abstraction**: Simplifies complex systems by modeling classes/objects with high-level attributes/methods, hiding low-level implementation details.
-
-- **Encapsulation**: Bundles data (attributes) and methods (functions) into a single unit (class), restricting direct access to some components via access modifiers (e.g., `private`, `protected`).
-
-- **Polymorphism**: Enables objects of different classes to be treated as objects of a common superclass, facilitating method overriding (runtime) and
+- **Abstraction**: Simplifies complex systems by modeling classes/objects with essential attributes/methods, hiding implementation details.
+- **Encapsulation**: Bundles data and methods within a single unit (e.g., class), restricting direct access to internal states via access modifiers.
+- **Polymorphism**: Enables objects of different classes to be treated as instances of a common superclass, facilitating method overriding and dynamic binding.
 
 ## Use Cases
 

@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Python/TypeScript framework with 125K+ stars, offering 700+ integrations, modular chains, and LangGraph for agentic workflows; ideal for complex, multi-step RAG pipelines.
-- **RAGFlow**: Python-based framework (70K+ stars) specializing in deep document parsing (tables, images, PDFs) with template-based chunking and grounded citations for enterprise-grade RAG.
-- **Pathway**: Python (Rust runtime) framework (50K+ stars) enabling real-time data processing with 350+ connectors, incr
+- **LangChain**: Python/TypeScript framework with 125K+ GitHub stars, offering 700+ integrations, modular chains, and LangGraph for stateful agentic workflows, ideal for complex RAG pipelines.
+- **RAGFlow**: Python-based framework (70K+ stars) specializing in enterprise-grade document parsing (tables, images, scanned PDFs) and template-based chunking to enhance retrieval accuracy.
+- **Pathway**: Python (Rust runtime) framework (50K+ stars) enabling real-time data processing with 350+ connectors,
 
 ## Use Cases
 

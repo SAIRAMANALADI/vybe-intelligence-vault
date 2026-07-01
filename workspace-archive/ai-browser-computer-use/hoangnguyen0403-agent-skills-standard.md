@@ -15,7 +15,6 @@ tags:
 - frontend_ui
 - github-repo
 - typescript
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Language Best Practices Repository**: Curated collection of coding standards and best practices for TypeScript, Kotlin, Go, Java (Spring Boot), PHP (Laravel), Dart (Flutter), and more, aimed at guiding AI agents in framework and language-specific implementations.
+- **Comprehensive Best Practices Repository**: Curated collection of coding standards and best practices for multiple programming languages (TypeScript, Kotlin, Go, etc.) and frameworks (React, Angular, Spring Boot, NestJS, etc.) to guide AI agents in adhering to industry-standard development practices.
 
-- **Framework-Specific Standards**: Includes structured guidelines for modern frameworks such as React, Next.js, Angular, NestJS, and Android/iOS development, ensuring AI agents adhere to optimized patterns and avoid anti-pat
+- **Multi-Platform & Multi-Framework Support**: Includes guidelines for Android (Kotlin), iOS (Flutter), web (React, Next.js, Angular), backend (Spring Boot, Laravel, NestJS), and cross-platform
 
 ## Use Cases
 
