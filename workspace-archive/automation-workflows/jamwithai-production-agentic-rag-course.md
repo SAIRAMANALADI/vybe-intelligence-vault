@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Course Focus**: A structured educational repository on building production-grade **Agentic RAG (Retrieval-Augmented Generation)** systems in Python.
-- **Scale & Activity**: Highly active with **7,281 stars** and **1,623 forks**, last updated in **July 2026**.
-- **Technical Stack**: Primarily Python-based, targeting advanced **RAG pipelines** with agentic workflows for real-world deployment.
+- **Course Focus**: A structured educational resource on building production-grade **Agentic RAG (Retrieval-Augmented Generation)** systems in Python, emphasizing scalable AI workflows.
+- **Technical Scope**: Covers advanced RAG architectures, agent-based orchestration, and deployment strategies for enterprise-grade AI applications.
+- **Repository Stats**: 7,291 stars, 1,622 forks, last updated July 1, 2026, with no additional metadata provided.
 
 ## Use Cases
 

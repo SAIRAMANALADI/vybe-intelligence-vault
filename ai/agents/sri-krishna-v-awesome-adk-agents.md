@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-07-01T20:46:29.195906+05:30'
+collected_at: '2026-07-01T22:57:53.027120+05:30'
 published_at: '2026-06-30T22:24:12Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - hackernews
 - python
 - scripts
+- workflows
 stars: 327
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-06-28T14:36:38Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-07-01T20:46:29.195906+05:30'
-last_seen: '2026-07-01T20:46:29.195906+05:30'
-last_checked: '2026-07-01T20:46:29.195906+05:30'
+first_seen: '2026-07-01T22:57:53.027120+05:30'
+last_seen: '2026-07-01T22:57:53.027120+05:30'
+last_checked: '2026-07-01T22:57:53.027120+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated ADK Resources**: Repository offering templates, best practices, and production-ready examples for building AI agents using Google's Agent Development Kit (ADK), covering domains like research, business, automation, and education.
+- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google's Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
 
-- **Multi-Faceted Toolkit**: Includes support for `adk-python`, `adk-web`, multi-agent systems, and integration with Google's Gemini AI, facilitating diverse agentic AI development scenarios.
+- **Multi-Faceted ADK Support**: Focuses on ADK-Python, ADK-Web, and multi-agent systems, with integration for Gemini AI and Google ADK, targeting agentic AI workflows and scalable agent architectures.
 
-- **Active Maintenance**: Last updated June 30, 2026, with 327 stars and 46 forks, indicating ongoing community engagement and updates.
+- **Technical Specifications**: Python-based implementation, last updated June 30, 2026, with 327 stars and 46 forks, emphasizing modularity and extensibility for agentic AI development.
 
 ## Why It Matters
 

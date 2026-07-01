@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzhao062/pyod
-collected_at: '2026-07-01T20:46:49.217919+05:30'
+collected_at: '2026-07-01T22:58:13.028686+05:30'
 published_at: '2026-07-01T09:35:04Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -21,9 +22,9 @@ archived: false
 created_at: '2017-10-03T20:29:04Z'
 pushed_at: '2026-06-17T02:43:09Z'
 resource_id: github:yzhao062/pyod
-first_seen: '2026-07-01T20:46:49.217919+05:30'
-last_seen: '2026-07-01T20:46:49.217919+05:30'
-last_checked: '2026-07-01T20:46:49.217919+05:30'
+first_seen: '2026-07-01T22:58:13.028686+05:30'
+last_seen: '2026-07-01T22:58:13.028686+05:30'
+last_checked: '2026-07-01T22:58:13.028686+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal Anomaly Detection**: PyOD supports 60+ anomaly detection algorithms for tabular, time series, graph, text, image, and audio data, enabling cross-domain anomaly identification.
+- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ anomaly detection algorithms for tabular, time series, graph, text, image, and audio data, with benchmark-backed performance evaluation via ADEngine.
 
-- **Agentic & Benchmark-Backed Workflow**: Features ADEngine for orchestration and an agentic workflow, leveraging foundation models and benchmark-backed evaluations for adaptive anomaly detection.
+- **Agentic Workflow & Multimodal Support**: Integrates an agentic workflow for AI-driven anomaly detection and handles multimodal data (text, image, audio) alongside traditional tabular and time-series formats.
 
-- **Unsupervised & Deep Learning Integration**: Provides outlier ensembles, novelty detection, and deep learning-based models, with applications in fraud, graph anomaly, and time-series anomaly detection.
+- **Fraud & Graph Anomaly Detection**: Specialized modules for fraud detection, graph anomaly detection, and out-of-distribution (OOD) detection, leveraging deep learning and unsupervised learning techniques.
 
 ## Why It Matters
 

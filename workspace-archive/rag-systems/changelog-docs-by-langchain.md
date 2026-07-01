@@ -2,7 +2,7 @@
 title: Changelog - Docs by LangChain
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://docs.langchain.com/oss/python/releases/changelog
+source_url: https://docs.langchain.com/oss/javascript/releases/changelog
 resource_id: blog:changelog-docs-by-langchain
 local_vault_path: ai/rag/changelog-docs-by-langchain.md
 quality_score: 70
@@ -13,12 +13,14 @@ importance: medium
 tags:
 - agents
 - anthropic
+- hackernews
+- meta-ai
+- models
 - openai
 - producthunt
 - rag
 - web-crawled
 - workflows
-- youtube
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -37,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **`deepagents` v0.6.0**: Introduces experimental `CodeInterpreterMiddleware` for scoped QuickJS runtime execution, `DeltaChannel` (beta) for incremental state checkpointing in long-running threads, and `ContextHubBackend` for versioned agent file storage via LangSmith Hub.
+- **DeepAgents v1.9.0-alpha.0**: Introduces async subagents for non-blocking background tasks requiring LangSmith Deployment, and **BackendProtocolV2** with structured `Result` objects (e.g., `ReadResult`, `LsResult`), multi-modal file support via `Uint8Array` in `readRaw()`, and simplified method names (e.g., `ls` instead of `lsInfo`).
 
-- **`langgraph` v1.2.0**: Adds per-node timeouts, error handlers, and graceful shutdown via `RunControl`; introduces `DeltaChannel` (beta) to reduce checkpoint overhead and a new v3 event streaming API with typed, per-chann
+- **LangGraph v1.1.0**: Adds **StateSchema** for schema-first graph state definitions using Standard JSON Schema (compatible with Zod 4, Valibot, etc.), introdu
 
 ## Use Cases
 
@@ -49,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.langchain.com/oss/python/releases/changelog
+Original source URL: https://docs.langchain.com/oss/javascript/releases/changelog
 
 ## Local Vault File
 

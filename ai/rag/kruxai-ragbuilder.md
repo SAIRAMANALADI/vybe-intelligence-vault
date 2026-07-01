@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-07-01T20:45:24.183896+05:30'
+collected_at: '2026-07-01T22:56:48.404725+05:30'
 published_at: '2026-06-30T12:14:06Z'
 tags:
 - benchmark
@@ -12,7 +12,7 @@ tags:
 - hackernews
 - python
 - rag
-- workflows
+- reddit
 stars: 1535
 language: Python
 status: active
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-07-01T20:45:24.183896+05:30'
-last_seen: '2026-07-01T20:45:24.183896+05:30'
-last_checked: '2026-07-01T20:45:24.183896+05:30'
+first_seen: '2026-07-01T22:56:48.404725+05:30'
+last_seen: '2026-07-01T22:56:48.404725+05:30'
+last_checked: '2026-07-01T22:56:48.404725+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with customizable components (e.g., embedders, retrievers, LLMs) and optimized workflows for data ingestion, indexing, and retrieval.
+- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-ready RAG systems with customizable components (e.g., embedders, retrievers, LLMs) and evaluation frameworks.
 
-- **Performance Optimization**: Implements advanced techniques like dynamic chunking, reranking, and hybrid search (dense + sparse retrieval) to enhance retrieval accuracy and reduce latency in real-world deployments.
+- **Optimized Retrieval & Generation**: Implements advanced techniques like dynamic chunking, hybrid search (vector + keyword), and reranking to enhance retrieval quality and LLM response accuracy.
 
-- **Evaluation & Deployment**: Includes built-in benchmarking tools for assessing RAG performance (e.g., retrieval precision, answer correctness) and supports seamless integration with cloud platforms (e.g., AWS, GCP) for scalable deployment.
+- **Scalable Deployment**: Supports integration with cloud services (e.g., AWS, GCP) and includes Docker/Kubernetes configurations for scalable, end-to-end RAG deployment.
 
 ## Why It Matters
 

@@ -4,17 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
-published_at: '2026-07-01T15:53:26.018832+05:30'
-collected_at: '2026-07-01T15:53:26.018846+05:30'
+published_at: '2026-07-01T23:04:16.353317+05:30'
+collected_at: '2026-07-01T23:04:16.353330+05:30'
 tags:
 - agents
 - openai
 - web-crawled
 status: active
 resource_id: blog:copilot-cli-sessions-in-visual-studio-code
-first_seen: '2026-07-01T15:53:26.018846+05:30'
-last_seen: '2026-07-01T15:53:26.018846+05:30'
-last_checked: '2026-07-01T15:53:26.018846+05:30'
+first_seen: '2026-07-01T23:04:16.353330+05:30'
+last_seen: '2026-07-01T23:04:16.353330+05:30'
+last_checked: '2026-07-01T23:04:16.353330+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via GitHub Copilot CLI, managed through the Chat view; support parallel execution, slash commands (`/research`, `/yolo`), and two isolation modes (Worktree/Folder) for code change isolation.
-- **Isolation & Permissions**: Worktree mode auto-bypasses approvals (isolated Git worktree), while Folder mode supports Default/Bypass/Autopilot permissions; changes apply directly to the workspace.
-- **Session Lifecycle**: Created via Chat view or command palette, sessions persist post-VS Code closure, require explicit user input for approvals, and support multi-repository workspaces with custom agent integration.
+- **Copilot CLI sessions** run autonomously in the background via VS Code's Copilot SDK, enabling parallel task execution (e.g., feature implementation, POC variants) without blocking the editor, with status monitoring via the unified Chat view.
+- **Isolation modes** include **Worktree** (Git worktree-based, auto-approved changes) and **Folder** (direct workspace edits), with permission levels configurable only for Folder mode (Default/Bypass/Autopilot).
+- **Features** include slash commands (`/research`, `/yolo`), multi-session support, and third-party agent compatibility (e.g., OpenAI Codex), with context persistence via session forking and MCP/server integration.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-01T15:53:26.018832+05:30
+- Published: 2026-07-01T23:04:16.353317+05:30
 
 ## Related Tags
 

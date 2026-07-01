@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Course Focus**: GitHub repository offering a structured course on building production-grade **Agentic RAG (Retrieval-Augmented Generation)** systems in Python.
-- **Scale & Activity**: High community engagement with **7,021 stars** and **1,575 forks**, indicating strong interest in agentic AI workflows.
-- **Update Status**: Last updated **June 27, 2026**, suggesting active maintenance and relevance in cutting-edge AI/ML practices.
+- **Course Focus**: A structured educational resource on building production-grade **Agentic RAG (Retrieval-Augmented Generation)** systems in Python, emphasizing scalable AI workflows.
+- **Technical Scope**: Covers advanced RAG architectures, agent-based orchestration, and deployment strategies for enterprise-grade AI applications.
+- **Repository Stats**: 7,291 stars, 1,622 forks, last updated July 1, 2026, with no additional metadata provided.
 
 ## Use Cases
 

@@ -15,7 +15,6 @@ tags:
 - anthropic
 - rag
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Core Libraries**: `LangChain`/`LangChain.js` provide reusable LLM application components and integrations; `LangGraph`/`LangGraph.js` enable agent construction via graph-based workflows; `Deep Agents`/`Deep Agents.js` support hierarchical agent planning with filesystem access.
+- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as graph structures; Deep Agents/Deep Agents.js support planning, subagent delegation, and filesystem operations for complex tasks.
 
-- **Commercial & OSS Extensions**: `LangSmith` offers production-grade LLM app development/monitoring; `Deep Agents Code` and `Open SWE` provide terminal/coding agents; `MCP Adapters` bridge MCP tools with LangChain/L
+- **Commercial Platform**: LangSmith offers a production-grade platform for building, monitoring, and maintaining LLM applications at scale.
+
+- **OSS Extensions**: Includes Deep Agents Code (terminal
 
 ## Use Cases
 

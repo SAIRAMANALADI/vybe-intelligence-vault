@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Architecture**: CTI-RAG integrates **Retrieval-Augmented Generation (RAG)** with **knowledge graph** and **causal reasoning** to enhance Cyber Threat Intelligence (CTI) analysis, enabling structured threat data processing and contextual reasoning.
-
-- **Core Components**: Python-based framework combining **graph-based knowledge representation** (for entity relationships) and **causal inference models** (for attack pattern analysis) to improve threat detection and analyst decision-ma
+- **Framework**: CTI-RAG is a Python-based Retrieval-Augmented Generation (RAG) framework designed for Cyber Threat Intelligence (CTI), enhancing threat analysis through knowledge graphs and causal reasoning.
+- **Features**: Integrates structured knowledge representation (knowledge graphs) with generative AI (RAG) to improve contextual threat intelligence retrieval and analysis.
+- **Updates**: Last modified on June 30, 2026, with 299 stars and 24 forks on GitHub.
 
 ## Use Cases
 

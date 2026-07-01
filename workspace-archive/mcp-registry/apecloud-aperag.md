@@ -6,7 +6,7 @@ source_url: https://github.com/apecloud/ApeRAG
 resource_id: github:apecloud/aperag
 local_vault_path: ai/rag/apecloud-aperag.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal & GraphRAG Integration**: Combines GraphRAG with multi-modal indexing (text, structured/unstructured data) for enhanced contextual retrieval and knowledge graph construction.
-
-- **AI Agents & MCP Support**: Implements AI agents for autonomous task execution and integrates with Model Context Protocol (MCP) for standardized multi-model interactions.
-
-- **Scalable Kubernetes Deployment**: Designed for production-grade scalability with Kubernetes-native deployment, supporting distrib
+- **Multi-modal indexing**: Supports structured (knowledge graphs) and unstructured (text, images) data integration with vector embeddings for hybrid retrieval.
+- **AI agents & MCP integration**: Deploys autonomous agents for dynamic query planning and leverages Model Context Protocol (MCP) for tool orchestration.
+- **Scalable K8s deployment**: Helm charts and Kubernetes-native architecture enable horizontal scaling, fault tolerance, and cloud-agnostic orchestration.
 
 ## Use Cases
 

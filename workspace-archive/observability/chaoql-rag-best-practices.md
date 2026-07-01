@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Optimization Framework**: Repository provides Python-based best practices for optimizing Retrieval-Augmented Generation (RAG) pipelines, focusing on model performance and retrieval efficiency.
-- **Technical Implementation**: Includes methodologies for integrating large language models (LLMs) with vector databases, emphasizing chunking strategies, embedding models, and retrieval tuning.
-- **Evaluation Metrics**: Implements benchmarking for RAG systems, covering metrics like answer relevan
+- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) techniques with Python, focusing on optimizing large model performance via structured prompt engineering and retrieval strategies.
+- **Modular Architecture**: Repository includes reusable components for document indexing, vector database integration, and dynamic prompt generation to enhance contextual relevance.
+- **Benchmarking & Best Practices**: Provides evaluation metrics and guidelines for assessing RAG pipeli
 
 ## Use Cases
 

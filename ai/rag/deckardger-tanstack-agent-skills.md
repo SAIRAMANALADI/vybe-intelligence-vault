@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-07-01T10:28:47.654633+05:30'
+collected_at: '2026-07-01T22:57:53.035601+05:30'
 published_at: '2026-06-29T02:03:10Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - rag
 - reddit
 - unknown
+- workflows
 stars: 191
 language: Unknown
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-07-01T10:28:47.654633+05:30'
-last_seen: '2026-07-01T10:28:47.654633+05:30'
-last_checked: '2026-07-01T10:28:47.654633+05:30'
+first_seen: '2026-07-01T22:57:53.035601+05:30'
+last_seen: '2026-07-01T22:57:53.035601+05:30'
+last_checked: '2026-07-01T22:57:53.035601+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (v5+), including stale-while-revalidate (SWR) strategies and automatic background refetching.
+- **Optimized TanStack Query Integration**: Demonstrates efficient data fetching, caching, and synchronization patterns for AI agents using TanStack Query (v5+), including stale-while-revalidate (SWR) strategies and automatic retries for failed queries.
 
-- **TanStack Router Best Practices**: Implements dynamic route loading, prefetching, and type-safe navigation for AI agents, leveraging TanStack Router’s file-based routing and nested layout support to minimize runtime overhead.
+- **Advanced Router Configuration**: Implements dynamic route matching, lazy-loaded route segments, and type-safe navigation for SPAs, leveraging TanStack Router’s file-based routing and search param validation for AI agent workflows.
 
-- **TanStack Start (SSR/SSG) Optimization**: Provides guidelines for server-side rendering (SSR) and static site generation (SSG) with TanStack Start, focusing on hydration strategies, edge runtime compatibility, and performance tuning for AI agent workloads.
+- **Start Framework Best Practices**: Showcases modular architecture with TanStack Start, including SSR/SSG hybrid rendering, edge-optimized API routes, and zero-config TypeScript support for AI agent deployments.
 
 ## Why It Matters
 

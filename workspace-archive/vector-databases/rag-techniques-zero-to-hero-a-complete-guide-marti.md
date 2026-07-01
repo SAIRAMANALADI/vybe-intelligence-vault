@@ -8,7 +8,7 @@ local_vault_path: ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -22,7 +22,7 @@ tags:
 - rag
 - reddit
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog
@@ -31,17 +31,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **RAG Architecture**: Combines a retriever (vector/lexical search over embeddings) with a generator (LLM conditioned on retrieved context) to improve factuality and reduce hallucinations by grounding responses in external knowledge.
+- **Core RAG Pipeline**: Combines a retriever (vector/lexical) with an LLM generator, optionally enhanced by rerankers, query rewriting, caching, and orchestration layers for improved precision and efficiency.
 
-- **Chunking & Embeddings**: Optimal retrieval depends on chunking strategies (fixed-size, semantic, structure-aware) and high-quality embeddings (domain-fine-tuned, normalized, modality-aware), with hybrid retrieval (BM25 + vector) enhancing precision/recall.
+- **Chunking & Embeddings**: Text segmentation strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; domain-specific fine-tuned embeddings outperform off-the-shelf models, with dimensionality and normalization critical for performance.
 
--
+- **Advanced Retriev
 
 ## Use Cases
 

@@ -6,14 +6,15 @@ source_name: GitHub Discovery
 source_url: https://github.com/stanford-oval/storm?source=post_page
 resource_id: github:stanford-oval/storm
 -----dba899ae0355---------------------------------------
-collected_at: '2026-07-01T04:14:55.996930+05:30'
-published_at: '2026-06-30T22:40:16Z'
+collected_at: '2026-07-01T22:58:28.052834+05:30'
+published_at: '2026-07-01T17:26:04Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-stars: 29699
+stars: 29732
 language: Python
 status: active
 license: MIT
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-03-24T16:23:39Z'
 pushed_at: '2025-09-30T18:07:21Z'
 resource_id: github:stanford-oval/storm
-first_seen: '2026-07-01T04:14:55.996930+05:30'
-last_seen: '2026-07-01T04:14:55.996930+05:30'
-last_checked: '2026-07-01T04:14:55.996930+05:30'
+first_seen: '2026-07-01T22:58:28.052834+05:30'
+last_seen: '2026-07-01T22:58:28.052834+05:30'
+last_checked: '2026-07-01T22:58:28.052834+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **LLM-Powered Research & Report Generation**: Uses large language models to autonomously research a topic, synthesize information, and produce a full-length, citation-backed report.
-- **Agentic RAG Framework**: Implements retrieval-augmented generation (RAG) with an agentic loop, enabling iterative querying, verification, and refinement of sources.
-- **EMNLP 2024 & NAACL Contributions**: Designed for deep research tasks, leveraging structured reasoning and citation grounding for high-fidelity knowledge curation.
+- **LLM-Powered Research System**: STORM autonomously researches a topic by querying search engines, retrieving and synthesizing information, and generating a full-length report with inline citations using a large language model (LLM).
+
+- **Agentic RAG Framework**: Implements an agentic retrieval-augmented generation (RAG) pipeline with iterative retrieval, multi-source synthesis, and structured report generation, optimized for deep research tasks.
+
+- **EMNLP 2024 Contribution**: Presented as a novel knowledge curation system in EMNLP 2024, leveraging Python-based NLP techniques for automated, citation-backed report generation.
 
 ## Why It Matters
 
@@ -42,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: stanford-oval
-- Stars: 29699
-- Forks: 2764
+- Stars: 29732
+- Forks: 2770
 - Language: Python
 - Topics: agentic-rag, deep-research, emnlp2024, knowledge-curation, large-language-models, naacl, nlp, report-generation, retrieval-augmented-generation
-- Last Updated: 2026-06-30T22:40:16Z
+- Last Updated: 2026-07-01T17:26:04Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-24T16:23:39Z

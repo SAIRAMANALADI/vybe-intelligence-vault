@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sierra-research/tau2-bench
-collected_at: '2026-07-01T20:46:44.263730+05:30'
+collected_at: '2026-07-01T22:58:08.122011+05:30'
 published_at: '2026-07-01T12:04:57Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - hackernews
 - python
-- workflows
 stars: 1489
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-06-09T23:46:17Z'
 pushed_at: '2026-06-29T21:42:51Z'
 resource_id: github:sierra-research/tau2-bench
-first_seen: '2026-07-01T20:46:44.263730+05:30'
-last_seen: '2026-07-01T20:46:44.263730+05:30'
-last_checked: '2026-07-01T20:46:44.263730+05:30'
+first_seen: '2026-07-01T22:58:08.122011+05:30'
+last_seen: '2026-07-01T22:58:08.122011+05:30'
+last_checked: '2026-07-01T22:58:08.122011+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-driven tool integration with standardized evaluation metrics.
-
-- **Technical Scope**: Implemented in Python, the benchmark includes multi-turn task execution, dynamic tool selection, and user simulation to assess agent adaptability and performance in complex workflows.
-
-- **Evaluation Framework**: Measures agent efficiency, tool utilization accuracy, and user interaction quality, providing a reproducible environment for comparing LLM-based agents in practical scenarios.
+- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions in real-world domains, focusing on conversational agents and LLM-based systems with tool integration.
+- **Technical Scope**: Implemented in Python, the benchmark assesses multi-turn interactions, tool-use efficiency, and adaptability in dynamic environments.
+- **Evaluation Metrics**: Measures performance via task completion rates, latency, and user-agent collaboration quality across diverse, domain-specific scenarios.
 
 ## Why It Matters
 

@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-01T20:44:44.068585+05:30'
+collected_at: '2026-07-01T22:56:07.931135+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
 - benchmark
 - github-repo
-- models
 - python
 - rag
 stars: 263
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-01T20:44:44.068585+05:30'
-last_seen: '2026-07-01T20:44:44.068585+05:30'
-last_checked: '2026-07-01T20:44:44.068585+05:30'
+first_seen: '2026-07-01T22:56:07.931135+05:30'
+last_seen: '2026-07-01T22:56:07.931135+05:30'
+last_checked: '2026-07-01T22:56:07.931135+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Provides a production-ready Retrieval-Augmented Generation (RAG) backend optimized for Vietnamese language processing, including document retrieval and generation pipelines.
+- **Vietnamese RAG Implementation**: Demonstrates best practices for Retrieval-Augmented Generation (RAG) specifically tailored for Vietnamese language processing, including text preprocessing, embedding generation, and retrieval mechanisms optimized for Vietnamese corpora.
 
-- **Modular Architecture**: Implements a scalable microservice-based design with components for embedding, vector storage (FAISS/Weaviate), and LLM integration (e.g., ViT5, PhoBERT) for efficient retrieval and generation.
+- **Modular Python Architecture**: Features a structured backend with components for document retrieval, embedding models (e.g., `sentence-transformers`), vector storage (e.g., FAISS or Chroma), and LLM integration (e.g., `vllm` or `transformers`) for Vietnamese-specific tasks.
 
-- **Evaluation & Optimization**: Includes benchmarking tools for Vietnamese RAG performance, with optimizations for chunking strategies, embedding models (e.g., `vinai/phobert-base`), and retrieval-augmented fine-tuning.
+- **Evaluation & Deployment**: Includes scripts for benchmarking retrieval quality (e.g., MRR, Recall@K) and deploying the RAG pipeline as a FastAPI/Flask service with Vietnamese language support.
 
 ## Why It Matters
 

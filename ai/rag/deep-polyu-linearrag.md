@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-01T20:45:34.155820+05:30'
+collected_at: '2026-07-01T22:56:58.440789+05:30'
 published_at: '2026-06-30T08:33:12Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-01T20:45:34.155820+05:30'
-last_seen: '2026-07-01T20:45:34.155820+05:30'
-last_checked: '2026-07-01T20:45:34.155820+05:30'
+first_seen: '2026-07-01T22:56:58.440789+05:30'
+last_seen: '2026-07-01T22:56:58.440789+05:30'
+last_checked: '2026-07-01T22:56:58.440789+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing LLM performance via structured, scalable graph-based indexing.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval on large-scale corpora, optimizing both memory and computational efficiency compared to traditional graph-based RAG methods.
 
-- **ICLR 2026 Contribution**: Proposes a linear-time graph retrieval mechanism, reducing computational overhead while maintaining high retrieval accuracy, addressing scalability challenges in traditional RAG systems.
+- **ICLR 2026 Contribution**: Proposes a linear-time graph traversal mechanism for dynamic knowledge integration, enabling scalable and real-time augmentation of large language models (LLMs) with structured corpora.
 
-- **Implementation**: Python-based implementation with modular design for graph construction, retrieval, and integration with LLMs, supporting dynamic updates and large-scale corpus processing.
+- **Implementation**: Python-based repository (`LinearRAG`) with 521 stars and 61 forks, focusing on graph-based RAG optimization for LLMs, last updated June 30, 2026.
 
 ## Why It Matters
 

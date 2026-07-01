@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Baseline Definition & Governance**: Originated by Chrome team, now managed by the WebDX Community Group; defines interoperable web features via two stages: *Newly available* (all core browsers support) and *Widely available* (30 months post-interop, safe for broad adoption).
+- **Baseline Definition & Governance**: Originated by Chrome team, now managed by the [WebDX Community Group](https://web-platform-dx.github.io/web-features/), defining interoperable web features with two stages: *Newly available* (all core browsers support) and *Widely available* (30 months post-interoperability).
 
-- **Core Browser Support**: Baseline features must be supported by Chrome (desktop/Android), Edge, Firefox (desktop/Android), and Safari (macOS/iOS) to qualify for interoperability.
-
-- **Tooling & Integration**: Baselin
+- **Core Browser Set & Compatibility**: Supports Chrome (desktop/Android), Edge, Firefox (desktop/Android), and Safari (macOS/iOS); enables developers to trust feature compatibility
 
 ## Use Cases
 

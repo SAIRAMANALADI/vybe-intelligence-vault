@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Git Integration & Authentication**: GitHub relies on Git for local version control and supports SSH for secure remote connections, enabling encrypted communication over unsecured networks.
-
-- **Collaborative Workflows**: Pull requests facilitate code review, discussion, and merging, while GitHub Actions automates CI/CD pipelines for testing and deployment.
-
-- **Security & Developer Tools**: CodeQL enables static analysis for vulnerability detection, GitHub Copilot provides AI-driven code sug
+- **Git Integration & Authentication**: GitHub relies on Git for version control, with secure remote access via SSH for encrypted communication over unsecured networks.
+- **Repository Management**: Users can create, manage, and format repositories with advanced syntax for documentation, while maintaining collaboration through pull requests.
+- **CI/CD & Security**: GitHub Actions enables automated workflows, while CodeQL and security tools (e.g., secret scanning, supply chain security) enforce co
 
 ## Use Cases
 

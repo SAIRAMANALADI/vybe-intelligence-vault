@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://web.dev/articles/ai-overview
-published_at: '2026-07-01T04:19:22.283655+05:30'
-collected_at: '2026-07-01T04:19:22.283684+05:30'
+published_at: '2026-07-01T23:06:35.956000+05:30'
+collected_at: '2026-07-01T23:06:35.956013+05:30'
 tags:
 - anthropic
 - dataset
@@ -19,9 +19,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:what-is-artificial-intelligence-web-dev
-first_seen: '2026-07-01T04:19:22.283684+05:30'
-last_seen: '2026-07-01T04:19:22.283684+05:30'
-last_checked: '2026-07-01T04:19:22.283684+05:30'
+first_seen: '2026-07-01T23:06:35.956013+05:30'
+last_seen: '2026-07-01T23:06:35.956013+05:30'
+last_checked: '2026-07-01T23:06:35.956013+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **AI Fundamentals**: AI encompasses non-human programs/models performing problem-solving, creativity, and content generation (e.g., generative AI), with capabilities ranging from ML to deep learning (DL) and NLP, where DL uses DNNs for tasks like image classification.
+- **AI Fundamentals**: AI refers to non-human programs/models performing complex tasks (e.g., problem-solving, creativity) via machine learning (ML), including generative AI for content creation. Models are trained on curated datasets, with inference generating outputs—accuracy depends on training quality and scope.
 
-- **AI Deployment Models**: AI inference occurs via **client-side** (browser-based, e.g., Transformers.js, TensorFlow.js) for low latency/privacy or **server-side** (cloud-based, e.g., LLMs like Gemini) for scalability, with hybrid approaches combining both.
+- **AI Deployment Models**: Client-side AI (browser-based, e.g., Transformers.js, TensorFlow.js) offers low latency, privacy, and offline access, while server-side AI (cloud-based, e.g., LLMs) provides higher performance. Hybrid approaches combine both for flexibility.
 
-- **Key Challenges**: AI faces **data quality/recency** issues, **ethical/bias risks** (e.g., human-trained model amplification), and **security/privacy concerns** (e.g., third-party API exposure), mitigated partially by client-side AI.
+- **Key Challenges**: AI faces issues like outdated training data, ethical biases (mitigated via tools like Monk Skin Tone Scale), and security/privacy risks (addressed via client-side processing). Tuning techniques (e.g., RLHF, LoRA) adapt pre-trained models for specific tasks.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T04:19:22.283655+05:30
+- Published: 2026-07-01T23:06:35.956000+05:30
 
 ## Related Tags
 

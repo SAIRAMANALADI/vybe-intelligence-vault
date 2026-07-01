@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Novel Attack Framework**: Introduces *PoisonedRAG*, a first-of-its-kind attack targeting Retrieval-Augmented Generation (RAG) systems by corrupting external knowledge bases to manipulate LLM outputs, demonstrated in USENIX Security 2025.
+- **Novel Attack Framework**: Introduces *PoisonedRAG*, a first-of-its-kind attack targeting Retrieval-Augmented Generation (RAG) systems by corrupting the external knowledge base to manipulate LLM outputs, demonstrated in USENIX Security 2025.
 
-- **Technical Mechanism**: Exploits adversarial embedding poisoning in vector databases, enabling attackers to inject malicious but semantically plausible content that steers LLM responses toward attacker-desired answers during retrieval.
-
-- **Evaluation &
+- **Technical Mechanism**: Exploits adversarial perturbations in document embeddings or retrieval indices to inject malicious associations, causing the RAG pipeline to retrieve and prioritize attacker-controlled or misleading information during inference
 
 ## Use Cases
 

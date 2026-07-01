@@ -14,7 +14,6 @@ tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - html
 - scripts
 selection_reason:
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 structured categories.
-- **Technical Scope**: Supports multi-agent systems, MCP integration, Docker deployment, and no-code automation via CrewClaw, Anthropic, and LLM frameworks.
-- **Community & Extensibility**: Open-source contribution model with 3,756 stars, 612 forks, and a submission process for new agent templates (e.g., Telegram bots, productivity tools).
+- **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 categories.
+- **Metadata**: 3,758 stars, 612 forks, primarily HTML-based, last updated July 1, 2026.
+- **Scope & Topics**: Covers AI agents, automation (Anthropic, Claude, CrewClaw), multi-agent systems, MCP, no-code tools, and community-driven contributions (e.g., Docker, Telegram bots).
 
 ## Use Cases
 

@@ -2,13 +2,13 @@
 title: Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://www.electronjs.org/
+source_url: https://electronjs.org/
 resource_id: blog:build-cross-platform-desktop-apps-with-javascript
 local_vault_path: ai/rag/build-cross-platform-desktop-apps-with-javascript.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - anthropic
@@ -22,7 +22,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron
@@ -31,18 +31,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Runtime Architecture**: Electron combines Chromium's rendering engine and Node.js runtime, enabling cross-platform desktop applications via JavaScript/TypeScript with native OS integration.
+- **Runtime Architecture**: Electron combines Chromium's rendering engine with Node.js, enabling cross-platform desktop apps using JavaScript, HTML, and CSS while supporting native OS APIs via the main process.
 
-- **Security & Maintenance**: Releases are synchronized with Chromium updates for immediate security patches, while the open-source project (under OpenJS Foundation) ensures community-driven stability and extensibility via npm packages or native add-ons.
+- **Security & Maintenance**: Releases sync with Chromium updates for immediate security patches, and the autoUpdater module enables seamless cross-platform software distribution with Squirrel.
 
-- **Distribution & Tooling**: Supports platform-s
+- **Tooling & Ecosystem**: Electron Forge provides a modular build/publish pipeline, while El
 
 ## Use Cases
 
@@ -52,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.electronjs.org/
+Original source URL: https://electronjs.org/
 
 ## Local Vault File
 

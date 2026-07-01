@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- agents
 - benchmark
 - github-repo
 - hackernews
@@ -36,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive LLM Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable MLOps workflows.
+- **Comprehensive LLM Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable GenAI systems.
 
-- **Technical Focus Areas**: Includes fine-tuning LLMs, evaluation methodologies, system design for ML pipelines, and RAG (Retrieval-Augmented Generation) implementation strategies.
+- **Technical Focus**: Includes fine-tuning LLMs, evaluation methodologies, and ML system design, with Python-based implementations for AWS infrastructure.
 
-- **AWS-Centric Implementation**: Demonstrates deployment of LLM applications on AWS using Python, with emphasis on MLOps and LLMOps practices
+- **MLOps & RAG Integration**: Addresses LLMOps workflows, multi-agent systems, and RAG optimization for production-grade GenAI applications.
 
 ## Use Cases
 

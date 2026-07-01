@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-01T20:44:34.152417+05:30'
+collected_at: '2026-07-01T22:55:58.372096+05:30'
 published_at: '2026-06-30T01:41:05Z'
 tags:
 - github-repo
-- hackernews
+- openai
 - python
 - rag
 - workflows
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-01T20:44:34.152417+05:30'
-last_seen: '2026-07-01T20:44:34.152417+05:30'
-last_checked: '2026-07-01T20:44:34.152417+05:30'
+first_seen: '2026-07-01T22:55:58.372096+05:30'
+last_seen: '2026-07-01T22:55:58.372096+05:30'
+last_checked: '2026-07-01T22:55:58.372096+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval in a LangChain-powered RAG pipeline for enhanced document retrieval accuracy.
+- **Hybrid Search Implementation**: Demonstrates combining vector similarity search with keyword-based retrieval (BM25) using LangChain's `HybridSearchRetriever` for enhanced document retrieval accuracy.
 
-- **Streamlit UI**: Provides a web interface built with Streamlit to interactively query and visualize RAG-based responses using LangChain's retrieval and generation workflows.
+- **LangChain RAG Pipeline**: Integrates a retrieval-augmented generation workflow with a vector store (e.g., FAISS or Chroma) and a language model (e.g., OpenAI, Hugging Face) to generate context-aware responses.
 
-- **Vectorstore Utilization**: Implements a vector database (e.g., FAISS or Chroma) for efficient semantic search, paired with hybrid search techniques to optimize retrieval performance.
+- **Streamlit UI for RAG**: Provides a Streamlit-based web interface to interact with the RAG system, allowing users to input queries and visualize retrieved documents alongside generated answers.
 
 ## Why It Matters
 

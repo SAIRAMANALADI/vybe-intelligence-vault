@@ -9,7 +9,7 @@ local_vault_path: ai/rag/rag-application-tutorial-2025-build-production-rea.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
-resource_kind: prompt
+resource_kind: dataset
 importance: high
 tags:
 - agents
@@ -33,18 +33,16 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: prompt
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings via vector DB like Supabase) and generation (LLMs) to enhance factual accuracy without fine-tuning; latency dominated by embedding (~40%) and retrieval (~30%) stages.
+- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings, vector DBs like Supabase) and generation (LLMs) to enhance contextual accuracy without fine-tuning; latency dominated by embedding generation (~50%) and vector search (~30%).
 
-- **Production Optimizations**: Chunking strategies (semantic/recursive), embedding quantization (e.g., `int8`), hybrid search (BM25 + vector), and caching (Redis) reduce costs by 30-50% while maintaining 95%+ retrieval precision.
-
-- **Scaling & Monitoring**:
+- **Production Optimizations**: Chunking strategies (semantic vs. fixed-size), embedding quantization (e.g., FP16→INT8), and hybrid retrieval (BM25 + vector similarity) reduce token costs by 40% while improving recall; caching (Redis) and load balanc
 
 ## Use Cases
 

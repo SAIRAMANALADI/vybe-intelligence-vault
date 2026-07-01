@@ -4,23 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-07-01T20:45:34.133721+05:30'
-published_at: '2026-07-01T11:14:47Z'
+collected_at: '2026-07-01T22:56:58.416764+05:30'
+published_at: '2026-07-01T15:41:11Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
-- workflows
-stars: 230
+stars: 231
 language: Python
 status: active
 archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-03-23T06:52:23Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-07-01T20:45:34.133721+05:30'
-last_seen: '2026-07-01T20:45:34.133721+05:30'
-last_checked: '2026-07-01T20:45:34.133721+05:30'
+first_seen: '2026-07-01T22:56:58.416764+05:30'
+last_seen: '2026-07-01T22:56:58.416764+05:30'
+last_checked: '2026-07-01T22:56:58.416764+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework (AAAI 2026) with multi-layered retrieval (hierarchical) and semantic aggregation for enhanced context relevance in generation tasks.
-
-- **Python-Based Implementation**: Provides a lightweight, modular Python library (`LeanRAG`) optimized for efficient knowledge-graph integration and retrieval-augmented generation (RAG) workflows.
-
-- **Performance & Scalability**: Designed for low-latency inference with optimized graph traversal and caching mechanisms, supporting dynamic knowledge updates while maintaining computational efficiency.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework (LeanRAG) that enhances retrieval via multi-level semantic aggregation and hierarchical graph traversal for improved context relevance.
+- **Efficiency Optimizations**: Utilizes lightweight graph pruning and semantic caching to reduce computational overhead while maintaining retrieval accuracy in AAAI 2026 benchmarks.
+- **Python Implementation**: Open-source codebase (MIT License) with modular design for integration with LLM pipelines, supporting dynamic knowledge graph updates and adaptive retrieval strategies.
 
 ## Why It Matters
 
@@ -41,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: KnowledgeXLab
-- Stars: 230
+- Stars: 231
 - Forks: 28
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-01T11:14:47Z
+- Last Updated: 2026-07-01T15:41:11Z
 - Archived: No
 - Created At: 2025-05-19T09:31:30Z
 - Pushed At: 2026-03-23T06:52:23Z

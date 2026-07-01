@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/render-hooks/links/#position
-published_at: '2026-06-27T16:40:27.669912+05:30'
-collected_at: '2026-06-27T16:40:27.669925+05:30'
+published_at: '2026-07-01T23:00:26.308348+05:30'
+collected_at: '2026-07-01T23:00:26.308361+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:link-render-hooks
-first_seen: '2026-06-27T16:40:27.669925+05:30'
-last_seen: '2026-06-27T16:40:27.669925+05:30'
-last_checked: '2026-06-27T16:40:27.669925+05:30'
+first_seen: '2026-07-01T23:00:26.308361+05:30'
+last_seen: '2026-07-01T23:00:26.308361+05:30'
+last_checked: '2026-07-01T23:00:26.308361+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Link Render Hook Context**: The `render-link.html` template receives structured context including `Destination` (link URL), `Text`/`PlainText` (link content), `Title` (tooltip), `Ordinal` (link index), `Page`/`PageInner` (contextual page references), and `Position` (link location in content).
+- **Link Render Hook Context**: Link render hooks in Hugo receive structured context including `Destination` (link URL), `Ordinal` (zero-based link index), `Page`/`PageInner` (current/nested page references), `PlainText`/`Text` (link description), `Title` (link title), and `Position` (link location in content). New in v0.160.0: `Ordinal` and `Position` fields.
 
-- **Embedded Hook Behavior**: Hugo’s embedded link render hook resolves internal destinations via page/resource matching (falling back to global assets), while external links are passed through unchanged; configuration (`useEmbedded: auto|always|fallback|never`) controls its usage.
+- **Default Behavior & Configuration**: Hugo’s default embedded link render hook resolves internal destinations via page/resource matching, passes through remote URLs, and supports `useEmbedded` modes (`auto`, `always`, `fallback`, `never`). Global resources must reside in `assets`; `static` resources require explicit mounting to `assets`.
 
-- **PageInner Mechanism**: The `PageInner` field enables contextual link resolution for nested content (e.g., via `RenderShortcodes`), ensuring relative paths resolve correctly within included pages while maintaining global context for footnotes/TOC.
+- **PageInner Use Case**: `PageInner` resolves links/resources relative to included pages (e.g., via `RenderShortcodes`), enabling consistent context (e.g., footnotes, TOC) in composite pages. Requires Markdown shortcode notation and falls back to `Page` if irrelevant.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-27T16:40:27.669912+05:30
+- Published: 2026-07-01T23:00:26.308348+05:30
 
 ## Related Tags
 

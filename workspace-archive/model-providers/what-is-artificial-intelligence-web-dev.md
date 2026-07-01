@@ -6,7 +6,7 @@ source_url: https://web.dev/articles/ai-overview
 resource_id: blog:what-is-artificial-intelligence-web-dev
 local_vault_path: ai/rag/what-is-artificial-intelligence-web-dev.md
 quality_score: 70
-archive_score: 76
+archive_score: 74
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **AI Fundamentals**: AI encompasses non-human programs/models performing problem-solving, creativity, and content generation (e.g., generative AI), with capabilities ranging from ML to deep learning (DL) and NLP, where DL uses DNNs for tasks like image classification.
+- **AI Fundamentals**: AI refers to non-human programs/models performing complex tasks (e.g., problem-solving, creativity) via machine learning (ML), including generative AI for content creation. Models are trained on curated datasets, with inference generating outputs—accuracy depends on training quality and scope.
 
-- **AI Deployment Models**: AI inference occurs via **client-side** (browser-based, e.g., Transformers.js, TensorFlow.js) for low latency/privacy or **server-side** (cloud-based, e.g., LLMs like Gemini) for scalability, with hyb
+- **AI Deployment Models**: Client-side AI (browser-based, e.g., Transformers.js, TensorFlow.js) offers low latency, privacy, and offline access, while server-side AI (cloud-based,
 
 ## Use Cases
 

@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-07-01T01:50:55.709695+05:30'
-collected_at: '2026-07-01T01:50:55.709711+05:30'
+published_at: '2026-07-01T22:55:22.816211+05:30'
+collected_at: '2026-07-01T22:55:22.816225+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-07-01T01:50:55.709711+05:30'
-last_seen: '2026-07-01T01:50:55.709711+05:30'
-last_checked: '2026-07-01T01:50:55.709711+05:30'
+first_seen: '2026-07-01T22:55:22.816225+05:30'
+last_seen: '2026-07-01T22:55:22.816225+05:30'
+last_checked: '2026-07-01T22:55:22.816225+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (e.g., via LangChain), vector storage (e.g., Supabase), and retrieval-augmented generation with LLM integration for contextual response synthesis.
+- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings, vector DBs like Supabase) and generation (LLMs) to enhance contextual accuracy without fine-tuning; latency dominated by embedding generation (~50%) and vector search (~30%).
 
-- **Production Optimization Techniques**: Advanced strategies involve hybrid search (dense + sparse retrieval), query expansion/rewriting, caching layers, load balancing across models, and deployment via Cloudflare Workers for scalability.
+- **Production Optimizations**: Chunking strategies (semantic vs. fixed-size), embedding quantization (e.g., FP16→INT8), and hybrid retrieval (BM25 + vector similarity) reduce token costs by 40% while improving recall; caching (Redis) and load balancing (Cloudflare Workers) mitigate scaling bottlenecks.
 
-- **Monitoring & Cost Control**: Implementation requires observability tools (e.g., Sentry for error tracking), latency benchmarking, token usage optimization, and trade-off analysis between performance and operational costs.
+- **Monitoring & Trade-offs**: Observability via Sentry tracks hallucination rates (target <2%) and retrieval precision; cost-performance balance favors smaller models (e.g., `all-MiniLM-L6-v2`) with aggressive pruning, accepting ~5% F1-score degradation for 3x speedup.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T01:50:55.709695+05:30
+- Published: 2026-07-01T22:55:22.816211+05:30
 
 ## Related Tags
 

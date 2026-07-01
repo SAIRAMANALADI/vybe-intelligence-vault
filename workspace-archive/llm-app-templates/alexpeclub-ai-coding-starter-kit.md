@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Next.js Template**: Production-ready starter kit with TypeScript, optimized for AI-driven workflows.
-- **6 Specialized Agents**: Integrates autonomous AI agents for code generation, debugging, testing, and deployment.
-- **Last Updated**: July 1, 2026 (commit timestamp: `2026-07-01T07:06:01Z`).
+- **Next.js Template**: Production-ready starter kit with TypeScript, optimized for AI-driven development workflows.
+- **6 Specialized AI Agents**: Integrates autonomous agents for code generation, testing, debugging, optimization, documentation, and deployment.
+- **High Activity**: 325 stars, 798 forks, last updated July 1, 2026, indicating active maintenance and community engagement.
 
 ## Use Cases
 

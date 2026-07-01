@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-07-01T20:44:49.176858+05:30'
+collected_at: '2026-07-01T22:56:12.898877+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
 - github-repo
 - java
 - rag
-- reddit
 - workflows
 stars: 35
 language: Java
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-07-01T20:44:49.176858+05:30'
-last_seen: '2026-07-01T20:44:49.176858+05:30'
-last_checked: '2026-07-01T20:44:49.176858+05:30'
+first_seen: '2026-07-01T22:56:12.898877+05:30'
+last_seen: '2026-07-01T22:56:12.898877+05:30'
+last_checked: '2026-07-01T22:56:12.898877+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with Embedding/Vector Database integration, supporting text, image generation (via FunctionCall), and image understanding (OCR/visual QA) using Spring AI and Alibaba Cloud services.
-- **Agentic Workflows**: Demonstrates SSE (Server-Sent Events) streaming for real-time AI responses, FunctionCall for tool integration, and historical message management for conversational context in Java-based agent systems.
-- **Knowledge Graph & Vector Hybrid Search**: Combines knowledge graph retrieval with vector similarity search for enhanced context-aware AI responses, leveraging Alibaba Cloud's AI services for embedding and RAG optimization.
+- **Implements AI Q&A system** with SSE streaming, Agent-based workflows, and RAG using knowledge graphs, function calls, historical message handling, and multimodal capabilities (image generation/understanding).
+
+- **Integrates core AI components** including Embedding models, Vector Databases, and RAG pipelines for efficient retrieval and generation.
+
+- **Built with Java/Spring AI** and Alibaba Cloud services, optimized for production-grade AI agent architectures with last update in 2026.
 
 ## Why It Matters
 

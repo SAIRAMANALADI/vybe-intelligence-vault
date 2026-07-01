@@ -36,10 +36,8 @@ selection_reason:
 
 ## Summary
 
-- **Mandatory Arbitration & Class Action Waiver**: Terms enforce binding arbitration for disputes, explicitly waiving class actions, with updates retroactively affecting unresolved claims; users must opt out or cease service use to avoid binding terms.
-
-- **Subscription Model & Auto-Renewal**: Paid subscriptions auto-renew monthly/annually unless canceled 30+ days pre-termination (for business plans) or via account settings (consumer plans), with no pro-rated refunds for unused periods.
-
+- **Mandatory Arbitration & Class Action Waiver**: Terms enforce pre-dispute arbitration for disputes, explicitly waiving class actions, with updates binding even to past unreported disputes; users must opt out by ceasing service use.
+- **Subscription Model & Auto-Renewal**: Paid subscriptions auto-renew monthly/annually unless canceled via account settings, with charges processed by Speechify or third-party payment partners (e.g., Apple/Google), and no pro-rated refunds for unused days.
 - **Use
 
 ## Use Cases

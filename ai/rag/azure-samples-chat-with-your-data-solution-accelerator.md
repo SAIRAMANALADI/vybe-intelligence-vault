@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-07-01T20:44:54.174633+05:30'
+collected_at: '2026-07-01T22:56:18.007025+05:30'
 published_at: '2026-06-30T16:43:51Z'
 tags:
 - github-repo
-- hackernews
 - openai
 - python
 - rag
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-06-06T01:40:48Z'
 pushed_at: '2026-07-01T13:19:10Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-07-01T20:44:54.174633+05:30'
-last_seen: '2026-07-01T20:44:54.174633+05:30'
-last_checked: '2026-07-01T20:44:54.174633+05:30'
+first_seen: '2026-07-01T22:56:18.007025+05:30'
+last_seen: '2026-07-01T22:56:18.007025+05:30'
+last_checked: '2026-07-01T22:56:18.007025+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for ChatGPT-style/Q&A interactions, incorporating common requirements and best practices.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure, combining **Azure AI Search** for retrieval with **Azure OpenAI** LLMs for chat/Q&A experiences, following best practices for production-grade deployments.
 
-- **Technical Stack**: Built in **Python**, leveraging **Azure Developer CLI (azd) templates** for deployment, with integration points for **Azure AI Search**, **Azure OpenAI**, and OpenAI models.
+- **Key Components**: Includes **Azure Developer CLI (azd) templates** for deployment, **Python-based** implementation, and supports **semantic search**, **vector indexing**, and **hybrid retrieval** mechanisms.
 
-- **Deployment & Updates**: Uses **azd templates** for infrastructure-as-code deployment; last updated **2026-06-30** with active community engagement (1,172 stars, 643 forks).
+- **Features**: Provides end-to-end solution for document ingestion, embedding generation, retrieval optimization, and chat interface, with modular design for customization and scalability.
 
 ## Why It Matters
 

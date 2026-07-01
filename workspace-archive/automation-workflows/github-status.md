@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page** provides real-time operational status, uptime metrics (e.g., 99.99% for Git Operations), and incident tracking for core services (Actions, Packages, Copilot) across regions (US, EU, Australia, Japan).
+- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., Git Operations, API Requests, Actions) with 90-day uptime metrics and incident tracking via [githubstatus.com](https://www.githubstatus.com/).
 
-- **Incident Management** includes automated notifications via email, SMS (global phone codes supported), Slack, and webhooks for incident creation/updates/resolution, with historical data accessible via Atom/RSS feeds.
-
-- **Past Incidents** highlight recurring issues (e.g
+- **Incident Management**: Recent major incidents include Copilot budget limit delays (resolved July 1, 2026) and GitHub service disruptions (e.g., Webhooks/Pull Requests degradation on June 25, 2026), with root causes ranging from configuration errors to hyperviso
 
 ## Use Cases
 

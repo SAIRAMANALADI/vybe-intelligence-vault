@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Python SDK** for cloud-based OCR and document parsing, integrated with **LlamaParse** for structured extraction.
-- Supports **information extraction** and parsing workflows via cloud APIs, optimized for document agents.
-- Compatible with Python, last updated **2026-06-30**; repository has **44 stars** and **10 forks**.
+- Python SDK providing cloud-based OCR and document parsing via LlamaParse, enabling structured extraction of text and data from documents.
+- Supports integration with document agents for automated information extraction and parsing workflows.
+- Compatible with Python, last updated June 30, 2026, with 44 stars and 10 forks on GitHub.
 
 ## Use Cases
 

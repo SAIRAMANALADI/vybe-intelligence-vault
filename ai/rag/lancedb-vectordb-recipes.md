@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-01T20:44:09.125151+05:30'
+collected_at: '2026-07-01T22:55:32.920866+05:30'
 published_at: '2026-06-30T08:00:12Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -24,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-01T20:44:09.125151+05:30'
-last_seen: '2026-07-01T20:44:09.125151+05:30'
-last_checked: '2026-07-01T20:44:09.125151+05:30'
+first_seen: '2026-07-01T22:55:32.920866+05:30'
+last_seen: '2026-07-01T22:55:32.920866+05:30'
+last_checked: '2026-07-01T22:55:32.920866+05:30'
 health_score: 100
 ---
 
@@ -34,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI workflows using vector search and LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
-
-- **Vector Database Integration**: Demonstrates LanceDB as a vector database for efficient storage, retrieval, and fine-tuning of embeddings in AI/ML pipelines.
-
-- **Agent & LLM Tooling**: Includes tutorials on deploying AI agents with OpenAI models, LangChain, and fine-tuning techniques for optimizing multimodal and RAG-based applications.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI applications using vector search and LLMs (e.g., GPT-4-Vision, LlamaIndex, LangChain).
+- **Vector Database Integration**: Demonstrates fine-tuning and embedding workflows with LanceDB, OpenAI embeddings, and vector databases for scalable retrieval in AI agents.
+- **Agent & LLM Tooling**: Includes tutorials on deploying AI agents with LangChain/LlamaIndex, leveraging vector search for context-aware LLM interactions and multimodal data processing.
 
 ## Why It Matters
 

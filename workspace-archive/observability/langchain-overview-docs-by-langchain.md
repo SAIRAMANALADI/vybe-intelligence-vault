@@ -2,11 +2,11 @@
 title: LangChain overview - Docs by LangChain
 archive_category: observability
 source_category: ai/rag
-source_url: https://python.langchain.com/docs/concepts/text_splitters/
+source_url: https://js.langchain.com
 resource_id: blog:langchain-overview-docs-by-langchain
 local_vault_path: ai/rag/langchain-overview-docs-by-langchain.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: prompt
 importance: medium
@@ -29,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Agent Composition**: LangChain's `create_agent` provides a minimal, modular harness for composing agents from model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
+- **Modular Agent Harness**: `create_agent` provides a minimal, configurable harness combining model, tools, prompt, and middleware, enabling custom agent composition for specific use cases with support for multiple LLM providers (OpenAI, Anthropic, Google, etc.).
 
-- **Harness Architecture**: Agents are built on LangGraph, inheriting features like durable execution, persistence, and human-in-the-loop support, while enabling incremental customization via middleware.
-
-- **Observability & Debugging**: LangSmith integrates for tracing, debugging, and eva
+- **Unified Interface & Extensibility**: Standardizes model interaction (chat, embeddings) across providers via a single interface, while allowing incremental addition of capabilities (guardrails, retries, routing) through middleware
 
 ## Use Cases
 
@@ -51,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://python.langchain.com/docs/concepts/text_splitters/
+Original source URL: https://js.langchain.com
 
 ## Local Vault File
 

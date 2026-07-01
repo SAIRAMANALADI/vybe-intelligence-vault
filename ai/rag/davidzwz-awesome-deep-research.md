@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-07-01T20:45:39.153840+05:30'
+collected_at: '2026-07-01T22:57:02.993425+05:30'
 published_at: '2026-07-01T10:26:12Z'
 tags:
 - agents
-- benchmark
+- dataset
 - github-repo
-- hackernews
-- paper
 - rag
 - unknown
 stars: 782
@@ -22,9 +20,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-05-02T04:18:19Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-07-01T20:45:39.153840+05:30'
-last_seen: '2026-07-01T20:45:39.153840+05:30'
-last_checked: '2026-07-01T20:45:39.153840+05:30'
+first_seen: '2026-07-01T22:57:02.993425+05:30'
+last_seen: '2026-07-01T22:57:02.993425+05:30'
+last_checked: '2026-07-01T22:57:02.993425+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository aggregates cutting-edge resources on agentic deep research, focusing on LLM-driven reasoning agents, RAG architectures, and search-agent frameworks for automated knowledge synthesis.
-
-- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026 KnowFM benchmarks, emphasizing multi-agent collaboration, long-form reasoning, and adaptive retrieval strategies for complex research tasks.
-
-- **Technical Scope**: Covers topics including agentic RAG, deep-research agents, and reasoning pipelines, with curated links to papers, tools, and frameworks for scalable knowledge discovery.
+- **Curated Resource Hub**: Aggregates state-of-the-art tools, datasets, and methodologies for agentic deep research, focusing on LLM-driven reasoning and search agents (e.g., RAG, multi-agent systems).
+- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026’s Knowledge Foundation Model (KnowFM) initiative, emphasizing structured knowledge extraction and reasoning over unstructured data.
+- **Active Maintenance**: Last updated July 2026, with 782 stars and 62 forks, indicating ongoing community contributions and relevance in agentic AI research.
 
 ## Why It Matters
 

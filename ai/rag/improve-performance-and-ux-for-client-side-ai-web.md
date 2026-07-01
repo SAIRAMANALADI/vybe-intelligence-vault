@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://web.dev/articles/client-side-ai-performance
-published_at: '2026-07-01T04:19:16.519346+05:30'
-collected_at: '2026-07-01T04:19:16.519360+05:30'
+published_at: '2026-07-01T23:06:30.990015+05:30'
+collected_at: '2026-07-01T23:06:30.990029+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:improve-performance-and-ux-for-client-side-ai-web
-first_seen: '2026-07-01T04:19:16.519360+05:30'
-last_seen: '2026-07-01T04:19:16.519360+05:30'
-last_checked: '2026-07-01T04:19:16.519360+05:30'
+first_seen: '2026-07-01T23:06:30.990029+05:30'
+last_seen: '2026-07-01T23:06:30.990029+05:30'
+last_checked: '2026-07-01T23:06:30.990029+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Client-side AI benefits and libraries**: Client-side AI runs in-browser, offering low latency, reduced server costs, privacy, and offline access. Key libraries include TensorFlow.js, Transformers.js, and MediaPipe GenAI, but performance overheads (model size, GPU/CPU load) must be managed.
+- **Model Size Optimization**: Client-side AI models should be <10MB for optimal performance; specialized models (e.g., language detection at 315KB) are preferred over generic LLMs (e.g., Gemma 2B at 1.3GB). Use model shrinking techniques and compare quality vs. size trade-offs.
 
-- **Model size and optimization strategies**: Model size varies widely (e.g., 9.4KB for BudouX, 1.3GB for Gemma 2B). Optimize by selecting task-specific models, using model shrinking techniques, and leveraging WebGPU/Wasm fallbacks. Prefer smaller models (≤10MB) to align with median web page sizes.
+- **Hardware & Compatibility Checks**: Validate WebGPU support and device capabilities (e.g., `Navigator.hardwareConcurrency`, `deviceMemory`) to ensure model compatibility; fallback to Wasm if GPU acceleration fails.
 
-- **Performance best practices**: Prioritize progressive loading (e.g., lazy downloads, chunked fetches), offload tasks to web workers, and implement error handling for GPU/CPU constraints. Use progress indicators and cancellable inference to maintain UX during delays.
+- **Progressive Loading & Error Handling**: Implement chunked downloads (e.g., `fetch-in-chunks`), cache models via Cache API, and offload inference to web workers to avoid UI blocking. Handle runtime errors (e.g., GPU loss, network interruptions) and provide cancellable inference with user feedback.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T04:19:16.519346+05:30
+- Published: 2026-07-01T23:06:30.990015+05:30
 
 ## Related Tags
 

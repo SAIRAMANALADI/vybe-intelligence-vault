@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-01T20:45:09.198994+05:30'
+collected_at: '2026-07-01T22:56:32.988062+05:30'
 published_at: '2026-06-26T08:31:01Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- leaderboard
 - python
 - rag
 stars: 393
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-01T20:45:09.198994+05:30'
-last_seen: '2026-07-01T20:45:09.198994+05:30'
-last_checked: '2026-07-01T20:45:09.198994+05:30'
+first_seen: '2026-07-01T22:56:32.988062+05:30'
+last_seen: '2026-07-01T22:56:32.988062+05:30'
+last_checked: '2026-07-01T22:56:32.988062+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Introduces CRUD-RAG, a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) in Large Language Models (LLMs), focusing on comprehensive retrieval and generation tasks.
-- **Evaluation Scope**: Covers four key dimensions—**C**omprehension, **R**etrieval, **U**pdate, and **D**ecision—to assess RAG performance across diverse Chinese-language scenarios.
-- **Open-Source Toolkit**: Provides a Python-based framework with standardized datasets, metrics, and evaluation protocols for reproducible RAG benchmarking.
+- **Benchmark Design**: Introduces CRUD-RAG, a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), focusing on comprehensive performance metrics across retrieval and generation tasks.
+
+- **Evaluation Framework**: Implements a structured evaluation pipeline with four key dimensions: **C**omplexity, **R**etrieval, **U**nderstanding, and **D**iversity, assessing LLMs' ability to handle multi-stage reasoning and contextual retrieval in Chinese.
+
+- **Open-Source Toolkit**: Provides a Python-based toolkit with standardized datasets, evaluation scripts, and leaderboards to facilitate reproducible research and benchmarking of RAG systems in Chinese language contexts.
 
 ## Why It Matters
 

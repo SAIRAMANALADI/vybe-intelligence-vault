@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.github.com
-published_at: '2026-07-01T15:51:15.706472+05:30'
-collected_at: '2026-07-01T15:51:15.706486+05:30'
+published_at: '2026-07-01T23:04:32.841360+05:30'
+collected_at: '2026-07-01T23:04:32.841370+05:30'
 tags:
 - agents
 - scripts
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-docs
-first_seen: '2026-07-01T15:51:15.706486+05:30'
-last_seen: '2026-07-01T15:51:15.706486+05:30'
-last_checked: '2026-07-01T15:51:15.706486+05:30'
+first_seen: '2026-07-01T23:04:32.841370+05:30'
+last_seen: '2026-07-01T23:04:32.841370+05:30'
+last_checked: '2026-07-01T23:04:32.841370+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Git Integration & Authentication**: GitHub relies on Git for local version control and supports SSH for secure remote connections, enabling encrypted communication over unsecured networks.
-
-- **Collaborative Workflows**: Pull requests facilitate code review, discussion, and merging, while GitHub Actions automates CI/CD pipelines for testing and deployment.
-
-- **Security & Developer Tools**: CodeQL enables static analysis for vulnerability detection, GitHub Copilot provides AI-driven code suggestions in IDEs, and REST/GraphQL APIs support programmatic repository interactions.
+- **Git Integration & Authentication**: GitHub relies on Git for version control, with secure remote access via SSH for encrypted communication over unsecured networks.
+- **Repository Management**: Users can create, manage, and format repositories with advanced syntax for documentation, while maintaining collaboration through pull requests.
+- **CI/CD & Security**: GitHub Actions enables automated workflows, while CodeQL and security tools (e.g., secret scanning, supply chain security) enforce code quality and vulnerability mitigation.
 
 ## Why It Matters
 
@@ -38,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-01T15:51:15.706472+05:30
+- Published: 2026-07-01T23:04:32.841360+05:30
 
 ## Related Tags
 

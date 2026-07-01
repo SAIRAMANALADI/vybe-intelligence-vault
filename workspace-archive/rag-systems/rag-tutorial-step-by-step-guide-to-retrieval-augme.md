@@ -9,10 +9,11 @@ local_vault_path: ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
+- hackernews
 - models
 - openai
 - paper
@@ -21,7 +22,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org
@@ -30,16 +31,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline**: A 5-step process comprising document loading, chunking, embedding/indexing, retrieval, and generation, enabling LLMs to produce grounded answers from external data without fine-tuning.
-- **Chunking Strategy**: Recursive character splitting with 512-token chunks and 50-token overlap optimizes semantic context retention for retrieval while avoiding irrelevant or fragmented data.
-- **Re-ranking & Evaluation**: Production-grade RAG requires cross-encoder re-ranking (e.g., `cross-
+- **RAG Pipeline**: A 5-step process consisting of **Load** (ingest documents), **Chunk** (split into retrieval-sized pieces), **Embed** (convert chunks to vector embeddings), **Retrieve** (find semantically similar chunks at query time), and **Generate** (pass retrieved context to LLM for grounded answers).
+
+- **Technical Implementation**: Uses `langchain` and `chromadb` with OpenAI embeddings (`text-embedding-3-small`) and `gpt-4o-mini` for retrieval and generation, respectively; employs recur
 
 ## Use Cases
 

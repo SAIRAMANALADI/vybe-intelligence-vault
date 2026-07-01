@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform desktop app framework** leveraging Chromium for rendering, Node.js for backend integration, and V8 for JavaScript execution, enabling native-like applications using HTML, CSS, and JavaScript.
-
-- **C++ core architecture** with bindings to Chromium’s Blink engine and Node.js, facilitating low-level system access while maintaining high-level developer ergonomics.
-
-- **Extensive ecosystem** with 121,848+ GitHub stars, supporting integration with tools like CodeSandbox, and enablin
+- **Cross-platform desktop app framework** leveraging Chromium (Blink), Node.js, and V8 JavaScript engine to build apps using HTML, CSS, and JavaScript.
+- **Core architecture** integrates a modified Chromium browser engine with Node.js runtime, enabling native OS APIs access while maintaining web compatibility.
+- **C++-based implementation** with bindings to JavaScript/TypeScript, supporting Windows, macOS, and Linux via a single codebase.
 
 ## Use Cases
 

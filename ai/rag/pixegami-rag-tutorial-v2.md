@@ -4,14 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-07-01T20:44:04.041431+05:30'
+collected_at: '2026-07-01T22:55:28.331348+05:30'
 published_at: '2026-07-01T09:42:55Z'
 tags:
 - benchmark
-- dataset
 - github-repo
+- meta-ai
+- mistral
+- models
 - python
 - rag
+- workflows
 stars: 958
 language: Python
 status: active
@@ -19,9 +22,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-07-01T20:44:04.041431+05:30'
-last_seen: '2026-07-01T20:44:04.041431+05:30'
-last_checked: '2026-07-01T20:44:04.041431+05:30'
+first_seen: '2026-07-01T22:55:28.331348+05:30'
+last_seen: '2026-07-01T22:55:28.331348+05:30'
+last_checked: '2026-07-01T22:55:28.331348+05:30'
 health_score: 100
 ---
 
@@ -29,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates deployment of Retrieval-Augmented Generation (RAG) pipelines using local language models (LLMs) via LangChain, eliminating dependency on cloud-based APIs.
-- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval relevance with evolving data.
-- **Testing Framework**: Includes automated evaluation pipelines for RAG systems, assessing metrics like retrieval accuracy, response relevance, and latency using synthetic or benchmark datasets.
+- **Local LLM Integration**: Demonstrates end-to-end RAG workflow using locally deployed LLMs (e.g., Llama2, Mistral) via Ollama or LM Studio, avoiding cloud dependency.
+- **Dynamic Database Updates**: Implements automated vector store (ChromaDB/FAISS) refreshes with new documents using LangChain’s `RecursiveCharacterTextSplitter` and embedding pipelines.
+- **Testing & Evaluation**: Includes unit tests (pytest) for retrieval accuracy, prompt engineering validation, and performance benchmarks for RAG components.
 
 ## Why It Matters
 

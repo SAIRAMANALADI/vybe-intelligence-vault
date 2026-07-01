@@ -13,13 +13,14 @@ collected_at: '2026-07-01T20:43:06.917138+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:godot-will-no-longer-accept-ai-authored-code-contr
 first_seen: '2026-07-01T15:44:51.071419+05:30'
 last_seen: '2026-07-01T20:43:06.917138+05:30'
 last_checked: '2026-07-01T20:43:06.917138+05:30'
 health_score: 100
 ---
+
 
 # Godot will no longer accept AI-authored code contributions
 

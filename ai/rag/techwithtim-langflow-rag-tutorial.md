@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/techwithtim/Langflow-RAG-Tutorial
-collected_at: '2026-07-01T20:44:09.042887+05:30'
+collected_at: '2026-07-01T22:55:32.879986+05:30'
 published_at: '2026-06-29T00:42:26Z'
 tags:
 - github-repo
+- hackernews
 - rag
 - unknown
+- workflows
 stars: 95
 language: Unknown
 status: active
@@ -17,9 +19,9 @@ archived: false
 created_at: '2024-04-17T10:56:19Z'
 pushed_at: '2024-07-18T10:50:24Z'
 resource_id: github:techwithtim/langflow-rag-tutorial
-first_seen: '2026-07-01T20:44:09.042887+05:30'
-last_seen: '2026-07-01T20:44:09.042887+05:30'
-last_checked: '2026-07-01T20:44:09.042887+05:30'
+first_seen: '2026-07-01T22:55:32.879986+05:30'
+last_seen: '2026-07-01T22:55:32.879986+05:30'
+last_checked: '2026-07-01T22:55:32.879986+05:30'
 health_score: 100
 ---
 
@@ -27,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (95 ⭐, 25 🍴), last updated 2026-06-29.
-- **Language/Topics**: Unspecified; no metadata provided.
-- **Purpose**: Unclear (no description or topics listed).
+- **Repository Overview**: GitHub repository titled "Langflow-RAG-Tutorial" with 95 stars and 25 forks, last updated on June 29, 2026.
+- **Technical Focus**: Tutorial repository likely demonstrating Retrieval-Augmented Generation (RAG) workflows using Langflow, a visual framework for building LLM applications.
+- **Metadata Gap**: Language and topics unspecified, suggesting potential lack of documentation or recent updates.
 
 ## Why It Matters
 

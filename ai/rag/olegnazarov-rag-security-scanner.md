@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/olegnazarov/rag-security-scanner
-collected_at: '2026-07-01T20:45:14.098885+05:30'
+collected_at: '2026-07-01T22:56:37.935426+05:30'
 published_at: '2026-06-24T12:14:44Z'
 tags:
 - github-repo
@@ -12,7 +12,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 stars: 71
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-07-15T14:16:25Z'
 pushed_at: '2025-09-14T06:39:55Z'
 resource_id: github:olegnazarov/rag-security-scanner
-first_seen: '2026-07-01T20:45:14.098885+05:30'
-last_seen: '2026-07-01T20:45:14.098885+05:30'
-last_checked: '2026-07-01T20:45:14.098885+05:30'
+first_seen: '2026-07-01T22:56:37.935426+05:30'
+last_seen: '2026-07-01T22:56:37.935426+05:30'
+last_checked: '2026-07-01T22:56:37.935426+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Identifies critical vulnerabilities in AI-powered applications (e.g., chatbots, RAG systems) via automated security testing, covering prompt injection, OWASP Top 10 risks, and LLM-specific threats.
-- **Features**: Supports red-teaming, security audits, and penetration testing; integrates with OpenAI and other LLM frameworks; detects adversarial attacks in retrieval-augmented generation (RAG) pipelines.
-- **Technical Stack**: Python-based tool with automated testing capabilities, designed for CI/CD pipelines and security assessment workflows.
+- **Vulnerability Detection**: Scans AI-powered applications (e.g., chatbots, RAG systems) for critical vulnerabilities like prompt injection, data leakage, and adversarial attacks using automated testing and red-teaming techniques.
+
+- **OWASP & AI Security Compliance**: Implements OWASP LLM Top 10 and AI-specific security checks to identify risks such as insecure output handling, excessive data exposure, and unauthorized model manipulation.
+
+- **Python-Based Toolkit**: Provides a Python framework for security audits, integrating with OpenAI and other LLM APIs to perform penetration testing and vulnerability assessments on RAG/ LLM systems.
 
 ## Why It Matters
 

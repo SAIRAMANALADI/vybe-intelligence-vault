@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- anthropic
 - hackernews
 - openai
 - producthunt
@@ -36,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Platform TTS & Voice AI**: Cross-platform (web, iOS, Android, Windows, macOS, Chrome/Edge extensions) with 1,000+ AI voices, real-time text-to-speech (TTS), voice dictation (160 WPM vs. 40 WPM typing), and contextual Q&A for documents/PDFs.
+- **Multi-Platform TTS Engine**: Speechify provides a cross-platform text-to-speech (TTS) system with lifelike AI voices (1,000+ options), real-time text highlighting, and adjustable playback speeds (up to 4.5x) across web, Chrome/Edge extensions, iOS, Android, Windows, and macOS.
 
-- **Core Features**: Document scanning/reading, speed control (up to 4.5x), text highlighting, AI-generated podcasts from text, meeting note-taking with summaries, and voice-first workspace integration (Slack, Outlook, etc.).
-
-- **Awards & Adoption
+- **Voice AI Assistant Capabilities**: Integrates dictation (160 WPM vs. 40 WPM typing), contextual Q&A, document summarization, AI podcast generation from text, and meeting note-taking with automated key point extrac
 
 ## Use Cases
 

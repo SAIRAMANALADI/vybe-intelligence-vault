@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-07-01T20:44:09.044443+05:30'
+collected_at: '2026-07-01T22:55:32.889869+05:30'
 published_at: '2026-06-29T11:33:03Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-07-01T20:44:09.044443+05:30'
-last_seen: '2026-07-01T20:44:09.044443+05:30'
-last_checked: '2026-07-01T20:44:09.044443+05:30'
+first_seen: '2026-07-01T22:55:32.889869+05:30'
+last_seen: '2026-07-01T22:55:32.889869+05:30'
+last_checked: '2026-07-01T22:55:32.889869+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- Implements **Retrieval-Augmented Generation (RAG)** pipeline from scratch using **JavaScript/Node.js**, leveraging `node-llama-cpp` for local LLM inference without external dependencies.
-- Demonstrates **embedding generation**, **vector search**, **retrieval**, and **context-augmented generation** with hands-on tutorials for educational purposes.
-- Supports **offline/local execution** for privacy and customization, avoiding black-box APIs while covering core RAG components (e.g., document indexing, similarity search, prompt augmentation).
+- **End-to-End RAG Implementation**: Demonstrates building a Retrieval-Augmented Generation (RAG) pipeline from scratch using JavaScript, leveraging `node-llama-cpp` for local LLM integration without external black-box dependencies.
+
+- **Core Components Covered**: Implements embeddings generation, vector search (likely via cosine similarity or FAISS), retrieval mechanisms, and context-augmented generation to enhance LLM responses with retrieved data.
+
+- **Educational Focus**: Provides a hands-on tutorial for understanding RAG architecture, emphasizing transparency in how embeddings, retrieval, and generation interact to improve LLM performance.
 
 ## Why It Matters
 

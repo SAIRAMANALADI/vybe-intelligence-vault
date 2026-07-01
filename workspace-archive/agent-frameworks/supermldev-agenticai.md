@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Educational repository for learning Agentic AI concepts, maintained by superml.dev.
-- **Metadata**: 2 stars, 1 fork, language unspecified, no topics, last updated April 24, 2026.
-- **Access**: Available at [GitHub](https://github.com/supermldev/agenticAI).
+- **Repository Status**: Minimal activity (2 stars, 1 fork) with no specified primary language or topics.
+- **Purpose**: Educational resource focused on Agentic AI, maintained by superml.dev.
+- **Last Update**: Repository last modified on **2026-04-24T15:33:57Z**.
 
 ## Use Cases
 

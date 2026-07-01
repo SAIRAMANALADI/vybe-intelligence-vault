@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-07-01T20:44:29.108509+05:30'
+collected_at: '2026-07-01T22:55:52.922613+05:30'
 published_at: '2026-07-01T12:24:19Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - hackernews
-- openai
 - python
 - rag
 - scripts
@@ -23,9 +21,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-30T10:37:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-07-01T20:44:29.108509+05:30'
-last_seen: '2026-07-01T20:44:29.108509+05:30'
-last_checked: '2026-07-01T20:44:29.108509+05:30'
+first_seen: '2026-07-01T22:55:52.922613+05:30'
+last_seen: '2026-07-01T22:55:52.922613+05:30'
+last_checked: '2026-07-01T22:55:52.922613+05:30'
 health_score: 100
 ---
 
@@ -33,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-style RAG optimization**: Framework automates end-to-end RAG pipeline evaluation and optimization (retrieval, generation, and post-processing) using black-box optimization techniques (e.g., Bayesian optimization) to maximize performance metrics (e.g., answer correctness, relevance) without manual tuning.
+- **AutoML-Style Automation**: AutoRAG provides automated optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning effort while improving performance metrics.
 
-- **Modular & extensible architecture**: Supports customizable components (e.g., document parsers, embedders, retrievers, LLMs) with built-in support for 10+ retrieval strategies, 5+ rerankers, and 20+ evaluation metrics (e.g., EM, F1, BERTScore) via a unified YAML/JSON configuration.
+- **Comprehensive Evaluation & Benchmarking**: The framework includes built-in evaluation tools for RAG systems, supporting multi-dimensional benchmarking across retrieval, generation, and end-to-end metrics.
 
-- **Benchmarking & deployment tools**: Includes a `RAGBenchmark` class for standardized evaluation across datasets (e.g., MS MARCO, TriviaQA) and `RAGPipeline` for production deployment with caching, async I/O, and integration with APIs (e.g., OpenAI, Hugging Face).
+- **Modular Pipeline & Document Processing**: Supports customizable RAG pipelines with integrated document parsing, embedding generation, and retrieval mechanisms, enabling end-to-end optimization for QA and LLM-based applications.
 
 ## Why It Matters
 

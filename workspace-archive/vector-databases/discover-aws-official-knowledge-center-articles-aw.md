@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **S3 Replication Failures**: Objects may fail to replicate in S3 due to missing IAM permissions, incorrect bucket policy configurations, or disabled replication rules, even when cross-region or same-region replication is enabled.
+- **S3 Replication Failures**: Common causes include missing or misconfigured IAM roles, improper bucket policy permissions, or replication configuration errors in Amazon S3 general-purpose buckets.
 
-- **EC2 SSH Connection Issues**: "Connection refused" or "Permission denied (publickey)" errors during SSH access to EC2 Linux instances typically stem from misconfigured security groups, disabled SSH access, or incorrect key pair associations.
+- **EC2 Instance Connection Issues**: SSH/RDP failures may stem from security group misconfigurations, missing or incorrect key pairs, or disabled instance-level permissions for Systems Manager.
 
-- **Lambda Function M
+- **AWS WAF Log Inconsistencies**: Filtered/missing logs often result from incorrect log subscription se
 
 ## Use Cases
 

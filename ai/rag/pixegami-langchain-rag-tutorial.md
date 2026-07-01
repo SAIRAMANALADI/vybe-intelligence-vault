@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-07-01T20:44:04.045329+05:30'
+collected_at: '2026-07-01T22:55:28.290632+05:30'
 published_at: '2026-07-01T13:42:34Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 971
 language: Python
 status: active
@@ -17,9 +18,9 @@ archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-07-01T20:44:04.045329+05:30'
-last_seen: '2026-07-01T20:44:04.045329+05:30'
-last_checked: '2026-07-01T20:44:04.045329+05:30'
+first_seen: '2026-07-01T22:55:28.290632+05:30'
+last_seen: '2026-07-01T22:55:28.290632+05:30'
+last_checked: '2026-07-01T22:55:28.290632+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
-- **Modular Python Codebase**: Structured with clear separation of concerns (e.g., document loading, embedding, retrieval, and generation) for extensibility and maintainability.
-- **Dependency Management**: Utilizes LangChain core components (e.g., `RetrievalQA`, `VectorStoreIndex`) and likely integrates with embeddings (e.g., HuggingFace) and vector databases (e.g., Chroma/FAISS) for efficient retrieval.
+- **LangChain RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with LLM-based generation.
+- **Modular Python Architecture**: Utilizes LangChain's modular components (e.g., document loaders, embeddings, vector stores, and LLMs) for scalable RAG workflows.
+- **Example Pipeline**: Includes a tutorial-style example with steps for loading documents, splitting text, embedding, querying, and generating responses via a vector database (e.g., FAISS or Chroma).
 
 ## Why It Matters
 

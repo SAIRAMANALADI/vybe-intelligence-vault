@@ -13,7 +13,7 @@ Public developer APIs supply external context and utilities for LLM tools.
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [FastAPI - FastAPI](https://fastapi.tiangolo.com/) (template - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
-- [docs/content/integrations/concepts/about-building-integrations.md at main · github/docs · GitHub](https://github.com/github/docs/blob/main/content/integrations/concepts/about-building-integrations.md) (tutorial - USEFUL Tier)
+- [airweave-ai/airweave](https://github.com/airweave-ai/airweave) (framework - USEFUL Tier)
 - [Canvas LMS | Instructure Developer Documentation Portal](https://api.instructure.com) (tutorial - USEFUL Tier)
 - [fdsnws-event Web Service Interface Documentation | IPGP Data Center Web Services](http://ws.ipgp.fr/fdsnws/event/1) (tutorial - USEFUL Tier)
 
@@ -21,7 +21,7 @@ Public developer APIs supply external context and utilities for LLM tools.
 
 https://github.com/public-apis/public-apis (Public APIs)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
-- [docs/content/integrations/concepts/about-building-integrations.md at main · github/docs · GitHub](https://github.com/github/docs/blob/main/content/integrations/concepts/about-building-integrations.md)
+- [airweave-ai/airweave](https://github.com/airweave-ai/airweave)
 
 ## Best Learning Resources
 
@@ -39,4 +39,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-07-01 21:00 IST*
+*Last updated: 2026-07-01 23:11 IST*

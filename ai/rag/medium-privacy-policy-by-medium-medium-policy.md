@@ -6,8 +6,8 @@ source_name: Web Discovery
 source_url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page
 resource_id: blog:medium-privacy-policy-by-medium-medium-policy
 -----d10bb5769280---------------------------------------
-published_at: '2026-07-01T20:47:14.594901+05:30'
-collected_at: '2026-07-01T20:47:14.594913+05:30'
+published_at: '2026-07-01T22:58:38.721298+05:30'
+collected_at: '2026-07-01T22:58:38.721311+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:medium-privacy-policy-by-medium-medium-policy
-first_seen: '2026-07-01T20:47:14.594913+05:30'
-last_seen: '2026-07-01T20:47:14.594913+05:30'
-last_checked: '2026-07-01T20:47:14.594913+05:30'
+first_seen: '2026-07-01T22:58:38.721311+05:30'
+last_seen: '2026-07-01T22:58:38.721311+05:30'
+last_checked: '2026-07-01T22:58:38.721311+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection & Tracking**: Medium collects user-provided data (e.g., name, email, posts) and automatically gathers activity, device, and usage metadata (IP, OS, browser, cookies, beacons) via tracking technologies for service improvement, personalization, and analytics.
+- **Data Collection & Sources**: Medium collects user-provided data (e.g., account details, posts, interactions) and automatically gathers device/usage metrics (IP addresses, device IDs, browser type) via cookies, web beacons, and third-party analytics providers. Payment data is processed by third-party processors, governed by their own privacy policies.
 
-- **Third-Party Sharing & Embeds**: Personal data is shared with vendors (e.g., analytics, hosting) and disclosed under legal obligations. Embedded third-party content (e.g., YouTube) transmits user interactions to external hosts, governed by their policies.
+- **Data Sharing & Legal Compliance**: Personal data is shared with vendors for services (e.g., hosting, analytics, fraud prevention), other users (visible interactions), and under legal obligations (e.g., law enforcement requests). Aggregated/de-identified data may also be shared. Data transfers occur globally, including to the U.S., with safeguards for adequacy.
 
-- **Cross-Border Transfers & User Controls**: Data is transferred/stored globally (e.g., AWS), with steps taken to ensure adequate protection. Users can access, correct, or delete account data, manage cookies, and opt out of communications via settings.
+- **User Controls & Rights**: Users can access, correct, or delete account data via settings. Opt-out options exist for communications, cookies, and push notifications. California residents have additional rights under CCPA, including opting out of data sales (if applicable).
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T20:47:14.594901+05:30
+- Published: 2026-07-01T22:58:38.721298+05:30
 
 ## Related Tags
 

@@ -4,10 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-01T20:44:34.133576+05:30'
+collected_at: '2026-07-01T22:55:58.400411+05:30'
 published_at: '2026-06-30T16:45:55Z'
 tags:
+- benchmark
 - github-repo
+- meta-ai
+- mistral
+- models
 - python
 - rag
 - workflows
@@ -19,9 +23,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-01T20:44:34.133576+05:30'
-last_seen: '2026-07-01T20:44:34.133576+05:30'
-last_checked: '2026-07-01T20:44:34.133576+05:30'
+first_seen: '2026-07-01T22:55:58.400411+05:30'
+last_seen: '2026-07-01T22:55:58.400411+05:30'
+last_checked: '2026-07-01T22:55:58.400411+05:30'
 health_score: 100
 ---
 
@@ -29,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector) and sparse (BM25) retrieval methods for enhanced document search accuracy in Python.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document search and context augmentation in generative AI workflows.
 
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework to streamline deployment and experimentation of hybrid RAG models with GPU acceleration.
+- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework to streamline deployment, fine-tuning, and evaluation of RAG models with GPU-accelerated components (e.g., NVIDIA NeMo, Triton Inference Server).
 
-- **Example Project Structure**: Provides a modular Python-based repository with preconfigured components for indexing, retrieval, and generation workflows, optimized for NVIDIA GPUs.
+- **Python-Based Example**: Provides a reference implementation in Python, showcasing modular components for document preprocessing, retrieval (FAISS/BM25), LLM integration (e.g., Llama, Mistral), and evaluation metrics (e.g., retrieval precision, answer relevance).
 
 ## Why It Matters
 

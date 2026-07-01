@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 11,470</p>
-        <p><b>Active:</b> 11,169 | <b>Inactive:</b> 301</p>
+        <p><b>Resources tracked:</b> 11,488</p>
+        <p><b>Active:</b> 11,185 | <b>Inactive:</b> 303</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 43,752</p>
+        <p><b>Archive Files:</b> 43,795</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-01 21:16 IST</p>
+        <p><b>Last Update:</b> 2026-07-01 23:12 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,29 +55,26 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Godot will no longer accept AI-authored code contributions](ai/community/godot-will-no-longer-accept-ai-authored-code-contr.md)** • <kbd>+285 pts</kbd>
-- 🔼 **[Performance panel: Analyze your website's performance | Chrome DevTools | Chrome for Developers](ai/resources/performance-panel-analyze-your-website-s-performan.md)** • Rank: <kbd>+2210</kbd>
-- 🔼 **[Introduction to Lighthouse | Chrome for Developers](ai/rag/introduction-to-lighthouse-chrome-for-developers.md)** • Rank: <kbd>+2213</kbd>
-- 🔼 **[AWS Site Terms](ai/rag/aws-site-terms.md)** • Rank: <kbd>+2754</kbd>
-- 🔼 **[Agentic Misalignment: How LLMs could be insider threats \ Anthropic](ai/rag/agentic-misalignment-how-llms-could-be-insider-thr.md)** • Rank: <kbd>+41</kbd>
+- 🔼 **[Sony Deletes 551 Movies PlayStation Owners Paid For](ai/community/sony-deletes-551-movies-playstation-owners-paid-fo.md)** • <kbd>+169 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Nintendo has raised its employees base salary by 10%](ai/community/nintendo-has-raised-its-employees-base-salary-by-1.md)** • <kbd>+128 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Getting Started with Python in VS Code](ai/resources/getting-started-with-python-in-vs-code.md)** • Rank: <kbd>+945</kbd>
+- 🔼 **[Speechify: Text to Speech & Voice Typing AI Assistant | 55M+ Users](ai/resources/speechify-text-to-speech-voice-typing-ai-assistant.md)** • Rank: <kbd>+2223</kbd>
+- 🔼 **[What is artificial intelligence? | web.dev](ai/rag/what-is-artificial-intelligence-web-dev.md)** • Rank: <kbd>+954</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Nintendo has raised its employees base salary by 10%](ai/community/nintendo-has-raised-its-employees-base-salary-by-1.md)** • Score: `259`
-- 🆕 **[Sony Deletes 551 Movies PlayStation Owners Paid For](ai/community/sony-deletes-551-movies-playstation-owners-paid-fo.md)** • Score: `39`
-- 🆕 **[Show HN: Frond – a frontend runtime for your app's dependency graph](web-development/community/show-hn-frond-a-frontend-runtime-for-your-app-s-de.md)** • Score: `11`
-- 🆕 **[Learn Accessibility | web.dev](ai/resources/learn-accessibility-web-dev.md)** • Score: `0`
-- 🆕 **[Access AWS Expert Solutions & Authoritative Knowledge - AWS re:Post | AWS re:Post](ai/rag/access-aws-expert-solutions-authoritative-knowledg.md)** • Score: `0`
+- 🆕 **[Meta loses bid to dismiss US states' claims that FB, Instagram addict children](ai/community/meta-loses-bid-to-dismiss-us-states-claims-that-fb.md)** • Score: `104`
+- 🆕 **[Apple 'Hide My Email' Vulnerability Reveals Peoples' Real Email Addresses](ai/community/apple-hide-my-email-vulnerability-reveals-peoples.md)** • Score: `70`
+- 🆕 **[Show HN: PMB – local memory for coding agents that shows if it is used](ai/community/show-hn-pmb-local-memory-for-coding-agents-that-sh.md)** • Score: `7`
+- 🆕 **[Using Clang in Visual Studio Code](ai/resources/using-clang-in-visual-studio-code.md)** • Score: `0`
+- 🆕 **[microsoft/vscode-cpptools](ai/rag/microsoft-vscode-cpptools.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[From brain waves to words: a new path to communication without surgery](ai/community/from-brain-waves-to-words-a-new-path-to-communicat.md)**
-- 💤 **[CoreBunch/Instatic](ai/trending/corebunch-instatic.md)**
-- 💤 **[roboflow/supervision](ai/trending/roboflow-supervision.md)**
-- 💤 **[google/agents-cli](ai/agents/google-agents-cli.md)**
-- 💤 **[browser-use/video-use](ai/agents/browser-use-video-use.md)**
+- 💤 **[Godot will no longer accept AI-authored code contributions](ai/community/godot-will-no-longer-accept-ai-authored-code-contr.md)**
+- 💤 **[Show HN: Frond – a frontend runtime for your app's dependency graph](web-development/community/show-hn-frond-a-frontend-runtime-for-your-app-s-de.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

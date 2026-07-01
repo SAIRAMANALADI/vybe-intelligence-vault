@@ -8,9 +8,10 @@ local_vault_path: ai/rag/milvus-io-milvus.md
 quality_score: 70
 archive_score: 81
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: dataset
 importance: medium
 tags:
+- dataset
 - github-repo
 - go
 - hackernews
@@ -26,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 81 (useful)
-- Resource kind: benchmark
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-*   Cloud-native, distributed vector database engineered in Go for scalable Approximate Nearest Neighbor (ANN) search.
-*   Integrates multiple ANN indexing algorithms including HNSW, Faiss, and DiskANN for high-performance vector similarity.
-*   Optimized for embedding-based applications such as LLM RAG, image search, and general nearest-neighbor retrieval.
+- **Scalable ANN Search Engine**: Milvus is a cloud-native, distributed vector database optimized for high-performance approximate nearest neighbor (ANN) search, supporting billion-scale datasets with sub-linear query latency.
+- **Multi-Algorithm Support**: Integrates multiple indexing algorithms (e.g., HNSW, DiskANN, FAISS) and similarity metrics (e.g., L2, IP, COSINE) for flexible vector similarity search across applications like RAG, image retrieval, and LLM embeddings.
+- **Go-Based Architect
 
 ## Use Cases
 

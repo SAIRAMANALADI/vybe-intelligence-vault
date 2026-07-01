@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `techwithtim/Langflow-RAG-Tutorial` with 95 stars and 25 forks, last updated on 2026-06-29.
-- **Technical Focus**: Tutorial repository for implementing Retrieval-Augmented Generation (RAG) using Langflow (a visual framework for LLM workflows).
-- **Language/Topics**: Language unspecified; no topics tagged in the repository metadata.
+- **Repository Overview**: GitHub repository titled "Langflow-RAG-Tutorial" with 95 stars and 25 forks, last updated on June 29, 2026.
+- **Technical Focus**: Tutorial repository likely demonstrating Retrieval-Augmented Generation (RAG) workflows using Langflow, a visual framework for building LLM applications.
+- **Metadata Gap**: Language and topics unspecified, suggesting potential lack of documentation or recent updates.
 
 ## Use Cases
 

@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pathwaycom/llm-app
-collected_at: '2026-07-01T20:44:24.105438+05:30'
-published_at: '2026-07-01T14:55:55Z'
+collected_at: '2026-07-01T22:55:47.949235+05:30'
+published_at: '2026-07-01T16:48:55Z'
 tags:
 - github-repo
 - jupyter notebook
 - openai
 - rag
-stars: 59163
+- workflows
+stars: 59161
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -19,9 +20,9 @@ archived: false
 created_at: '2023-07-19T08:43:37Z'
 pushed_at: '2026-06-29T21:18:26Z'
 resource_id: github:pathwaycom/llm-app
-first_seen: '2026-07-01T20:44:24.105438+05:30'
-last_seen: '2026-07-01T20:44:24.105438+05:30'
-last_checked: '2026-07-01T20:44:24.105438+05:30'
+first_seen: '2026-07-01T22:55:47.949235+05:30'
+last_seen: '2026-07-01T22:55:47.949235+05:30'
+last_checked: '2026-07-01T22:55:47.949235+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Cloud-ready templates** for RAG, AI pipelines, and enterprise search with live data synchronization across SharePoint, Google Drive, S3, Kafka, PostgreSQL, and real-time APIs.
+- **Cloud-native RAG & AI pipelines**: Pre-configured templates for Retrieval-Augmented Generation (RAG), AI workflows, and enterprise search with live data synchronization, supporting SharePoint, Google Drive, S3, Kafka, PostgreSQL, and real-time APIs.
 
-- **Docker-optimized** (🐳) deployment with support for vector databases, Hugging Face models, and OpenAI integration for LLM prompting and security.
+- **Docker-optimized & multi-source integration**: Containerized (🐳) deployment with live sync capabilities for PostgreSQL, Kafka, and vector databases, enabling real-time data ingestion and retrieval.
 
-- **Real-time data processing** via Pathway’s vector indexing and retrieval-augmented generation (RAG) with Jupyter Notebook-based implementation.
+- **Enterprise-grade LLM stack**: Supports Hugging Face, OpenAI, and local LLMs with built-in security (llm-security), prompting optimization (llm-prompting), and MLOps (llmops) for scalable, production-ready AI applications.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pathwaycom
-- Stars: 59163
+- Stars: 59161
 - Forks: 1435
 - Language: Jupyter Notebook
 - Topics: chatbot, hugging-face, llm, llm-local, llm-prompting, llm-security, llmops, machine-learning, open-ai, pathway, rag, real-time, retrieval-augmented-generation, vector-database, vector-index
-- Last Updated: 2026-07-01T14:55:55Z
+- Last Updated: 2026-07-01T16:48:55Z
 - License: MIT
 - Archived: No
 - Created At: 2023-07-19T08:43:37Z

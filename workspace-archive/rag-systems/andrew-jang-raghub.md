@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Community-curated RAG ecosystem**: Open-source repository aggregating frameworks, projects, and resources for Retrieval-Augmented Generation (RAG), spanning LLMs, NLP, and machine learning.
-- **Metadata**: 1,945 stars, 181 forks, last updated July 1, 2026; topics include AI, LLM, NLP, and open-source RAG tools.
-- **GitHub resource**: Hosted at `Andrew-Jang/RAGHub`, serving as a centralized hub for RAG-related advancements and contributions.
+- **Community-curated RAG ecosystem**: Open-source repository aggregating frameworks, projects, and resources for Retrieval-Augmented Generation (RAG), spanning AI, LLMs, NLP, and machine learning.
+- **Metadata**: 1,945 stars, 181 forks, last updated July 1, 2026; topics include `ai`, `llm`, `nlp`, `rag`, and `open-source`.
+- **Contribution-driven**: Hosted on GitHub (`Andrew-Jang/RAGHub`) for collaborative expansion of RAG-related tools and research.
 
 ## Use Cases
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/vndee-local-assistant-examples.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
@@ -16,10 +16,9 @@ tags:
 - models
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # vndee/local-assistant-examples
@@ -28,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Implementation**: Demonstrates a local ChatPDF system using Python, leveraging LangChain for workflow orchestration and RAG (Retrieval-Augmented Generation) for document processing.
-- **Tech Stack**: Integrates Ollama for local LLM inference, enabling offline-capable document interaction without cloud dependencies.
-- **Deployment**: Provides a self-contained example for running the assistant locally, optimized for privacy and minimal setup overhead.
+- **Local ChatPDF Implementation**: Demonstrates building a local ChatPDF application using Python, leveraging LangChain for LLM orchestration and RAG (Retrieval-Augmented Generation) for document processing.
+- **Ollama Integration**: Utilizes Ollama, a lightweight LLM framework, to enable local LLM inference without cloud dependencies.
+- **Modular Examples**: Provides self-contained examples for deploying and customizing a local ChatPDF system, optimized for offline use with minimal setup overh
 
 ## Use Cases
 

@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Meta-Voicebox**: Speechify's implementation of Meta's generative AI model for speech, enabling cross-task generalization with state-of-the-art performance (594 stars, 32 forks).
-- **AI API SDKs**: TypeScript/Python SDKs (`speechify-api-sdk-typescript`, `speechify-api-sdk-python`) and examples (`ai-api-examples`) for Speechify's Text-to-Speech and Voice Agents APIs.
-- **Text Processing Tools**: Open-source libraries for string manipulation (`string-tracker`) and PDF/EPUB processing (`olmocr`,
+- **Meta-Voicebox**: First generative AI model for speech, enabling cross-task generalization with state-of-the-art performance, implemented in a public repository with 594 stars and 32 forks.
+
+- **Speechify AI API SDKs**: Multi-language SDKs (TypeScript, Python) for integrating Speechify's Text-to-Speech and Voice Agents APIs, including examples and cookbook recipes.
+
+- **Text Processing Libraries**: Open-source tools like `olmocr` (PDF linearization for LLM training) and `textract` (multi-form
 
 ## Use Cases
 

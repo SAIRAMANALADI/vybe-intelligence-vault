@@ -2,7 +2,7 @@
 title: LlamaIndex | AI Agents for Document OCR + Workflows
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://www.llamaindex.ai/
+source_url: https://www.llamaindex.ai
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
 local_vault_path: ai/rag/llamaindex-ai-agents-for-document-ocr-workflows.md
 quality_score: 70
@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, featuring task-specific experts (e.g., text, charts, tables), auto-correction loops for error detection/fixing, and semantic understanding to convert complex layouts into LLM-ready structured outputs.
+- **Agentic OCR with VLM Integration**: LlamaParse leverages Vision-Language Models (VLMs) to automate document parsing, reducing manual processing from hours to seconds with layout-aware understanding and structured schema extraction.
 
-- **Performance & Scalability**: Benchmarks demonstrate superior accuracy in parsing, chart/table extraction, and multi-modal document handling compared to proprietary VLM,
+- **Multi-Modal Document Processing**: Supports complex layouts, handwritten text, tables, and charts via specialized agents, recursive auto-correction loops, and bounding box outputs for high-precision extraction.
+
+- **Enterprise-Grade Features**: Offers 10K fre
 
 ## Use Cases
 
@@ -50,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.llamaindex.ai/
+Original source URL: https://www.llamaindex.ai
 
 ## Local Vault File
 

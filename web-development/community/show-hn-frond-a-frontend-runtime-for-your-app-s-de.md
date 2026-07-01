@@ -13,13 +13,14 @@ collected_at: '2026-07-01T20:43:08.587977+05:30'
 tags:
 - frontend
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-frond-a-frontend-runtime-for-your-app-s-de
 first_seen: '2026-07-01T20:43:08.587977+05:30'
 last_seen: '2026-07-01T20:43:08.587977+05:30'
 last_checked: '2026-07-01T20:43:08.587977+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Frond – a frontend runtime for your app's dependency graph
 

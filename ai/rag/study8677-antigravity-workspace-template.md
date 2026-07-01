@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/study8677/antigravity-workspace-template
-collected_at: '2026-07-01T20:44:19.061015+05:30'
+collected_at: '2026-07-01T22:55:42.885613+05:30'
 published_at: '2026-07-01T09:21:21Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 stars: 1294
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-11-19T08:51:14Z'
 pushed_at: '2026-06-20T03:01:07Z'
 resource_id: github:study8677/antigravity-workspace-template
-first_seen: '2026-07-01T20:44:19.061015+05:30'
-last_seen: '2026-07-01T20:44:19.061015+05:30'
-last_checked: '2026-07-01T20:44:19.061015+05:30'
+first_seen: '2026-07-01T22:55:42.885613+05:30'
+last_seen: '2026-07-01T22:55:42.885613+05:30'
+last_checked: '2026-07-01T22:55:42.885613+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent codebase Q&A system**: Implements a knowledge engine providing grounded responses with file paths and line numbers for AI IDEs (Claude Code, Cursor, Codex CLI), enabling precise, context-aware code queries.
-
-- **MCP-server architecture**: Exposes a Model Context Protocol (MCP) server for integrating with LLM frameworks (OpenAI, etc.), supporting RAG-based retrieval across codebases with Python-based tooling.
-
-- **IDE-agnostic plugin**: Functions as a universal developer tool via IDE plugins (Cursor, VS Code, etc.), leveraging a knowledge graph to enhance multi-agent collaboration and code intelligence workflows.
+- **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for codebase interaction across AI IDEs (Claude Code, Cursor, Codex CLI).
+- **MCP server implementation** in Python, integrating RAG, knowledge graphs, and OpenAI APIs for semantic code search and contextual reasoning.
+- **IDE-agnostic plugin** supporting Copilot, Windsurf, and other tools via SDK, facilitating multi-agent collaboration and real-time code intelligence.
 
 ## Why It Matters
 

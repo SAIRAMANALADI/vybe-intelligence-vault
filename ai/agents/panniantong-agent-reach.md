@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Panniantong/Agent-Reach
-collected_at: '2026-06-30T22:49:57.301292+05:30'
-published_at: '2026-06-30T17:18:41Z'
+collected_at: '2026-07-01T22:57:13.375343+05:30'
+published_at: '2026-07-01T17:26:44Z'
 tags:
 - agents
 - anthropic
@@ -13,9 +13,8 @@ tags:
 - python
 - reddit
 - scripts
-- workflows
 - youtube
-stars: 46804
+stars: 48134
 language: Python
 status: active
 license: MIT
@@ -23,9 +22,9 @@ archived: false
 created_at: '2026-02-24T02:10:24Z'
 pushed_at: '2026-06-29T15:22:51Z'
 resource_id: github:panniantong/agent-reach
-first_seen: '2026-06-30T22:49:57.301292+05:30'
-last_seen: '2026-06-30T22:49:57.301292+05:30'
-last_checked: '2026-06-30T22:49:57.301292+05:30'
+first_seen: '2026-07-01T22:57:13.375343+05:30'
+last_seen: '2026-07-01T22:57:13.375343+05:30'
+last_checked: '2026-07-01T22:57:13.375343+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Platform Web Scraper**: CLI tool (`Agent-Reach`) written in Python that scrapes content from Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu without requiring API keys or incurring fees.
+- **Multi-platform web scraping CLI**: Enables AI agents to extract data from Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu via a single command-line interface without requiring API fees.
 
-- **Real-Time Data Extraction**: Supports live search and retrieval of posts, transcripts, and metadata (e.g., YouTube transcripts, GitHub repos) via direct scraping, enabling AI agents to "see" internet content dynamically.
+- **Zero-cost API alternative**: Implements custom scrapers for each platform, bypassing official APIs to provide free access to content, transcripts, and metadata.
 
-- **Agent Integration & Automation**: Designed for AI agent workflows (e.g., MCP, Claude-Code, Cursor) with modular scrapers (`twitter-scraper`, `reddit-scraper`, etc.) for extensibility and zero-cost API alternatives.
+- **Python-based MCP toolkit**: Built in Python with modular components for real-time data retrieval, supporting AI agent integration (e.g., Claude Code, Cursor) for automated research and automation tasks.
 
 ## Why It Matters
 
@@ -46,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Panniantong
-- Stars: 46804
-- Forks: 3701
+- Stars: 48134
+- Forks: 3822
 - Language: Python
 - Topics: agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript
-- Last Updated: 2026-06-30T17:18:41Z
+- Last Updated: 2026-07-01T17:26:44Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-24T02:10:24Z

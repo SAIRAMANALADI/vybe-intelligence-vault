@@ -16,6 +16,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent architecture where specialized agents (e.g., retrieval, reasoning, knowledge graph agents) collaborate hierarchically for complex reasoning tasks, improving adaptability across domains.
+- **Vertically Unified Agents**: Introduces a hierarchical agent framework where specialized agents (e.g., retrieval, reasoning, planning) operate in a coordinated pipeline for complex reasoning tasks, leveraging graph structures for enhanced context.
 
-- **Graph Retrieval-Augmented Generation (GraphRAG)**: Integrates knowledge graphs with RAG to enhance contextual retrieval, enabling agents to perform multi-hop reasoning and structured knowledge synthesis for improved accuracy in complex queries.
+- **Graph Retrieval-Augmented Reasoning**: Combines GraphRAG with multi-agent collaboration to dynamically construct and traverse knowledge graphs, enabling efficient retrieval and synthesis of structured information for LLM-based reasoning.
 
-- **M
+- **
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-07-01T20:44:00.291235+05:30'
-collected_at: '2026-07-01T20:44:00.291247+05:30'
+published_at: '2026-07-01T22:55:24.044016+05:30'
+collected_at: '2026-07-01T22:55:24.044028+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-07-01T20:44:00.291247+05:30'
-last_seen: '2026-07-01T20:44:00.291247+05:30'
-last_checked: '2026-07-01T20:44:00.291247+05:30'
+first_seen: '2026-07-01T22:55:24.044028+05:30'
+last_seen: '2026-07-01T22:55:24.044028+05:30'
+last_checked: '2026-07-01T22:55:24.044028+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines a retriever (vector/lexical search over embeddings) with a generator (LLM conditioned on retrieved context) to improve factuality and reduce hallucinations by grounding responses in external knowledge.
+- **Core RAG Pipeline**: Combines a retriever (vector/lexical) with an LLM generator, optionally enhanced by rerankers, query rewriting, caching, and orchestration layers for improved precision and efficiency.
 
-- **Chunking & Embeddings**: Optimal retrieval depends on chunking strategies (fixed-size, semantic, structure-aware) and high-quality embeddings (domain-fine-tuned, normalized, modality-aware), with hybrid retrieval (BM25 + vector) enhancing precision/recall.
+- **Chunking & Embeddings**: Text segmentation strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; domain-specific fine-tuned embeddings outperform off-the-shelf models, with dimensionality and normalization critical for performance.
 
-- **Advanced Optimization**: Techniques include two-stage reranking (cross-encoders on top-K candidates), iterative multi-hop retrieval, context distillation (LLM-based evidence condensation), and retrieval-aware fine-tuning to align embeddings with downstream tasks.
+- **Advanced Retrieval & Evaluation**: Hybrid search (BM25 + vector) improves recall, while cross-encoder rerankers enhance precision; multi-hop retrieval and iterative reasoning frameworks (e.g., GraphRAG) enable complex queries, with evaluation metrics spanning retrieval (nDCG, MRR) and generation (factuality, hallucination rate).
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T20:44:00.291235+05:30
+- Published: 2026-07-01T22:55:24.044016+05:30
 
 ## Related Tags
 

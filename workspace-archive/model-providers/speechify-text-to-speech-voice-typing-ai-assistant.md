@@ -6,16 +6,18 @@ source_url: https://speechify.com/
 resource_id: blog:speechify-text-to-speech-voice-typing-ai-assistant
 local_vault_path: ai/resources/speechify-text-to-speech-voice-typing-ai-assistant.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- anthropic
 - hackernews
 - openai
 - producthunt
 - reddit
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -27,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Cross-Platform Voice AI Assistant**: Speechify provides a unified voice AI layer across web, Chrome/Edge extensions, iOS, Android, Windows, and macOS, enabling text-to-speech (TTS), voice dictation, and contextual Q&A with lifelike AI voices (1,000+ options) and real-time text highlighting.
+- **Multi-Platform TTS Engine**: Speechify provides a cross-platform text-to-speech (TTS) system with lifelike AI voices (1,000+ options), real-time text highlighting, and adjustable playback speeds (up to 4.5x) across web, Chrome/Edge extensions, iOS, Android, Windows, and macOS.
 
-- **Core Features**: Includes document/PDF scanning-to-speech, 4.5x speed playback, AI-powered summarization, podcast generation from text, voice-based note-taking (5x faster than typing), and meeting tr
+- **Voice AI Assistant Capabilities**: Integrates dictation (160 WPM vs. 40 WPM typing), contextual Q&A, document summarization, AI podcast generation from text, and meeting note-taking with automated key point extrac
 
 ## Use Cases
 

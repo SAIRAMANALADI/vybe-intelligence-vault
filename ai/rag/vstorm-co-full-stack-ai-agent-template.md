@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-07-01T20:44:14.104949+05:30'
+collected_at: '2026-07-01T22:55:37.936586+05:30'
 published_at: '2026-07-01T11:26:21Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 1484
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-06-30T13:26:31Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-07-01T20:44:14.104949+05:30'
-last_seen: '2026-07-01T20:44:14.104949+05:30'
-last_checked: '2026-07-01T20:44:14.104949+05:30'
+first_seen: '2026-07-01T22:55:37.936586+05:30'
+last_seen: '2026-07-01T22:55:37.936586+05:30'
+last_checked: '2026-07-01T22:55:37.936586+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Full-stack AI agent framework** combining FastAPI (backend) and Next.js (frontend) with pre-configured AI agents, RAG pipelines, real-time streaming, and authentication.
+- **Tech Stack**: Full-stack template combining FastAPI (backend) and Next.js (frontend) with AI agent frameworks (CrewAI, LangChain, LangGraph, Pydantic-AI), PostgreSQL (database), and Docker (containerization).
 
-- **Integrated tooling** includes 20+ pre-built integrations (e.g., LangChain, LangGraph, CrewAI, Pydantic-AI/Deep), PostgreSQL for persistence, and WebSocket support for bidirectional communication.
+- **Core Features**: Pre-integrated with 20+ tools (e.g., RAG, streaming, authentication, WebSockets) and supports AI agent workflows, real-time updates, and structured data validation via Pydantic models.
 
-- **Production-ready scaffolding** with Docker deployment, Pydantic models for data validation, and TypeScript/React for frontend, optimized for LLM-driven applications.
+- **Deployment**: Production-ready setup with PostgreSQL for persistence, FastAPI for REST/WebSocket APIs, and Next.js for React-based UI, last updated July 2026.
 
 ## Why It Matters
 

@@ -5,17 +5,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY
-published_at: '2026-07-01T20:43:57.084102+05:30'
-collected_at: '2026-07-01T20:43:57.084113+05:30'
+published_at: '2026-07-01T22:55:21.236035+05:30'
+collected_at: '2026-07-01T22:55:21.236047+05:30'
 tags:
+- hackernews
 - rag
+- scripts
 - web-crawled
 - youtube
 status: active
 resource_id: blog:complete-rag-tutorial-2025-build-ai-apps-with-retr
-first_seen: '2026-07-01T20:43:57.084113+05:30'
-last_seen: '2026-07-01T20:43:57.084113+05:30'
-last_checked: '2026-07-01T20:43:57.084113+05:30'
+first_seen: '2026-07-01T22:55:21.236047+05:30'
+last_seen: '2026-07-01T22:55:21.236047+05:30'
+last_checked: '2026-07-01T22:55:21.236047+05:30'
 health_score: 100
 ---
 
@@ -23,9 +25,11 @@ health_score: 100
 
 ## Summary
 
-- YouTube operates under Google LLC, adhering to global privacy, copyright, and policy frameworks (e.g., GDPR, DMCA) with structured enforcement via automated systems and human review.
-- The platform provides APIs (YouTube Data, Analytics, Live Streaming) for developers, enabling integration of video uploads, metadata management, and real-time analytics.
-- Monetization pathways include AdSense integration, YouTube Premium revenue sharing, and NFL Sunday Ticket exclusivity for live sports broadcasting.
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, advertising, and developer APIs (YouTube Data API v3, YouTube Analytics API) for integration and automation.
+
+- **Technical Infrastructure**: Utilizes Google Cloud for scalable storage, CDN for global content delivery, and machine learning models for recommendation systems, content moderation, and ad targeting.
+
+- **Developer & Creator Tools**: Provides APIs for metadata management, live streaming, and monetization; supports OAuth 2.0 for secure authentication and offers analytics dashboards for performance tracking.
 
 ## Why It Matters
 
@@ -35,11 +39,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T20:43:57.084102+05:30
+- Published: 2026-07-01T22:55:21.236035+05:30
 
 ## Related Tags
 
+- hackernews
 - rag
+- scripts
 - web-crawled
 - youtube
 

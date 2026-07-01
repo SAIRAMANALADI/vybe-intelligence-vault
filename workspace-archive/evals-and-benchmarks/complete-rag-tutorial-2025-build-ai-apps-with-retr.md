@@ -9,15 +9,17 @@ local_vault_path: ai/rag/complete-rag-tutorial-2025-build-ai-apps-with-retr.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
+- hackernews
 - rag
+- scripts
 - web-crawled
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Complete RAG Tutorial 2025: Build AI Apps with Retrieval Augmented Generation - YouTube
@@ -26,16 +28,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- YouTube operates under Google LLC, adhering to global privacy, copyright, and policy frameworks (e.g., GDPR, DMCA) with structured enforcement via automated systems and human review.
-- The platform provides APIs (YouTube Data, Analytics, Live Streaming) for developers, enabling integration of video uploads, metadata management, and real-time analytics.
-- Monetization pathways include AdSense integration, YouTube Premium revenue sharing, and NFL Sunday Ticket exclusivity for live sports broadca
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, advertising, and developer APIs (YouTube Data API v3, YouTube Analytics API) for integration and automation.
+
+- **Technical Infrastructure**: Utilizes Google Cloud for scalable storage, CDN for global content delivery, and machine learning models for recommendation systems, content moderation, and ad targeting.
+
+- **Developer & Creator Tools**: Provides APIs for metadata
 
 ## Use Cases
 

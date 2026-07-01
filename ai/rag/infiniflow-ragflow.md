@@ -3,15 +3,18 @@ title: infiniflow/ragflow
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/infiniflow/ragflow
-collected_at: '2026-07-01T20:44:24.099959+05:30'
-published_at: '2026-07-01T15:09:50Z'
+source_url: https://github.com/infiniflow/ragflow?source=post_page
+resource_id: github:infiniflow/ragflow
+-----dba899ae0355---------------------------------------
+collected_at: '2026-07-01T22:58:28.146519+05:30'
+published_at: '2026-07-01T17:14:12Z'
 tags:
 - agents
 - github-repo
 - go
 - rag
-stars: 84047
+- workflows
+stars: 84057
 language: Go
 status: active
 license: Apache-2.0
@@ -19,9 +22,9 @@ archived: false
 created_at: '2023-12-12T06:13:13Z'
 pushed_at: '2026-07-01T13:49:40Z'
 resource_id: github:infiniflow/ragflow
-first_seen: '2026-07-01T20:44:24.099959+05:30'
-last_seen: '2026-07-01T20:44:24.099959+05:30'
-last_checked: '2026-07-01T20:44:24.099959+05:30'
+first_seen: '2026-07-01T22:58:28.146519+05:30'
+last_seen: '2026-07-01T22:58:28.146519+05:30'
+last_checked: '2026-07-01T22:58:28.146519+05:30'
 health_score: 100
 ---
 
@@ -29,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG-Plus-Agent Architecture**: Integrates advanced Retrieval-Augmented Generation (RAG) with autonomous agent capabilities to dynamically refine queries, retrieve context, and optimize LLM responses via iterative feedback loops.
+- **Hybrid RAG Engine**: Combines advanced retrieval-augmented generation (RAG) with agentic workflows to enhance LLM context processing, integrating both retrieval and agent-based reasoning.
 
-- **Context Engine with Multi-Modal Support**: Implements a high-performance context management system in Go, enabling structured parsing, indexing, and retrieval of unstructured data (text, PDFs, tables) with sub-second latency for real-time LLM augmentation.
+- **Multi-Modal Context Management**: Supports structured/unstructured data (text, tables, images) with dynamic context fusion, enabling superior LLM inference via a unified pipeline.
 
-- **Scalable Deployment & Extensibility**: Designed for enterprise-grade scalability with modular agent plugins, distributed retrieval pipelines, and REST/gRPC APIs, supporting custom model integration (e.g., local LLMs, vector DBs) via open-source SDKs.
+- **Scalable Go Implementation**: Built in Go for high-performance parallel processing, with modular design for extensibility in production-grade RAG applications.
 
 ## Why It Matters
 
@@ -42,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: infiniflow
-- Stars: 84047
-- Forks: 9761
+- Stars: 84057
+- Forks: 9766
 - Language: Go
 - Topics: agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-management, llm-apps, rag, retrieval-augmented-generation
-- Last Updated: 2026-07-01T15:09:50Z
+- Last Updated: 2026-07-01T17:14:12Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-12T06:13:13Z
@@ -68,4 +71,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/infiniflow/ragflow
+Original source: https://github.com/infiniflow/ragflow?source=post_page-----dba899ae0355---------------------------------------

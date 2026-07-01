@@ -12,9 +12,9 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
+- benchmark
 - models
 - rag
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified AI App Lifecycle Management**: Platform supports full-cycle development (prototyping to production) with data ingestion, model integration, pipeline building, deployment, and monitoring in a single environment.
+- **Unified AI App Lifecycle Management**: Haystack Enterprise Platform supports end-to-end development, from prototyping to large-scale production deployment, including data ingestion, model integration, evaluation, and monitoring.
 
-- **Modular RAG & Agent Framework**: Enables construction of advanced RAG pipelines and AI agents via configurable components (retrievers, rankers, generators) with visual Pipeline Builder and model-agnostic LLM/embedding provider support.
+- **Modular RAG & Agent Framework**: Enables construction of advanced retrieval-augmented generation (RAG) systems and AI agents via configurable pipelines (retrievers, rankers, generators) with support for multi-model switching and tool integration.
 
-- **Enterprise Observability & Inte
+- **Observabil
 
 ## Use Cases
 

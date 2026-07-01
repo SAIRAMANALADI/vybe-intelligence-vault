@@ -4,16 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-07-01T20:43:59.096981+05:30'
+collected_at: '2026-07-01T22:55:22.975402+05:30'
 published_at: '2026-06-28T15:57:16Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
 - models
 - openai
 - rag
-- workflows
+- reddit
 stars: 888
 language: Jupyter Notebook
 status: active
@@ -22,9 +23,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-07-01T20:43:59.096981+05:30'
-last_seen: '2026-07-01T20:43:59.096981+05:30'
-last_checked: '2026-07-01T20:43:59.096981+05:30'
+first_seen: '2026-07-01T22:55:22.975402+05:30'
+last_seen: '2026-07-01T22:55:22.975402+05:30'
+last_checked: '2026-07-01T22:55:22.975402+05:30'
 health_score: 100
 ---
 
@@ -32,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Time**: A structured 5-week learning program focused on Retrieval-Augmented Generation (RAG) techniques, covering hybrid search, vector indexing, and quantization methods (binary/scalar) for efficient LLM retrieval.
-- **Key Technologies**: Integrates Azure, OpenAI APIs, HNSW (Hierarchical Navigable Small World) for vector search, Matryoshka representation learning, and multimodal RAG workflows in Jupyter Notebooks.
-- **Responsible AI & Tooling**: Emphasizes responsible AI practices, Azure deployment, and VS Code-based development for scalable RAG pipelines with keyword and vector search optimizations.
+- **5-week structured curriculum** covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization, HNSW indexing, and Matryoshka representation learning for efficient retrieval and LLM integration.
+
+- **Hands-on implementation** using Jupyter Notebooks in VS Code, with Azure OpenAI services, focusing on multimodal RAG, responsible AI practices, and performance optimization (e.g., scalar/binary quantization for vector search).
+
+- **Hybrid search pipeline** combining keyword search, vector search (HNSW), and scalar/binary quantization, with modules on indexing, retrieval augmentation, and evaluation for scalable, production-grade RAG systems.
 
 ## Why It Matters
 

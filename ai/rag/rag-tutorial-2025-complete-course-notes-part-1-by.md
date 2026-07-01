@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280
-published_at: '2026-07-01T20:43:58.450242+05:30'
-collected_at: '2026-07-01T20:43:58.450254+05:30'
+published_at: '2026-07-01T22:55:23.357268+05:30'
+collected_at: '2026-07-01T22:55:23.357280+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
-first_seen: '2026-07-01T20:43:58.450254+05:30'
-last_seen: '2026-07-01T20:43:58.450254+05:30'
-last_checked: '2026-07-01T20:43:58.450254+05:30'
+first_seen: '2026-07-01T22:55:23.357280+05:30'
+last_seen: '2026-07-01T22:55:23.357280+05:30'
+last_checked: '2026-07-01T22:55:23.357280+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines LLMs with retrieval systems to fetch external information (documents, databases) for enhanced responses while avoiding context window overload; operates via two pipelines: **injection** (data ingestion, chunking, embedding) and **retrieval** (query embedding, similarity search, LLM augmentation).
+- **RAG Architecture**: RAG combines LLMs with external retrieval systems to enhance responses by fetching relevant information from documents/databases without overloading the LLM's context window, addressing scalability issues (e.g., 1 petabyte of enterprise data exceeds LLM token limits).
 
-- **Vector Embeddings**: High-dimensional numerical representations (e.g., OpenAI’s 3,072-dim vectors) of text chunks/images, enabling semantic similarity search; embeddings are stored in vector databases (Pinecone, Weaviate, FAISS) for efficient retrieval.
+- **Embedding Pipeline**: Text is chunked (e.g., 1,000 tokens), converted into high-dimensional vector embeddings (e.g., OpenAI's 3,072D vectors) via embedding models, and stored in vector databases (e.g., Pinecone, FAISS) for semantic similarity matching.
 
-- **Chunking & Retrieval Workflow**: Documents are split into fixed-token chunks (e.g., 1,000 tokens), embedded, and indexed; user queries are embedded and matched against stored vectors using similarity metrics (e.g., cosine distance) to retrieve top-*k* relevant chunks, which are then fed to the LLM for contextual answer generation.
+- **Retrieval Workflow**: User queries are embedded and compared against stored vectors; top-*k* semantically similar chunks are retrieved and passed to the LLM for answer generation, ensuring efficient, context-aware responses.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T20:43:58.450242+05:30
+- Published: 2026-07-01T22:55:23.357268+05:30
 
 ## Related Tags
 

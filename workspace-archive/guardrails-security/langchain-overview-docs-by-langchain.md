@@ -2,18 +2,17 @@
 title: LangChain overview - Docs by LangChain
 archive_category: guardrails-security
 source_category: ai/rag
-source_url: https://python.langchain.com
+source_url: https://js.langchain.com
 resource_id: blog:langchain-overview-docs-by-langchain
 local_vault_path: ai/rag/langchain-overview-docs-by-langchain.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - agents
 - anthropic
-- benchmark
 - meta-ai
 - models
 - openai
@@ -22,7 +21,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # LangChain overview - Docs by LangChain
@@ -31,18 +30,16 @@ selection_reason:
 
 - Matched archive category: `Guardrails and Security`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Agent Composition**: `create_agent` provides a minimal, configurable harness combining model, tools, prompt, and middleware, enabling custom agent construction for specific use cases with support for multiple providers (OpenAI, Anthropic, Google, etc.).
+- **Modular Agent Harness**: `create_agent` provides a minimal, configurable harness combining model, tools, prompt, and middleware, enabling custom agent composition for specific use cases with support for multiple LLM providers (OpenAI, Anthropic, Google, etc.).
 
-- **Framework Integration**: LangChain agents are built on LangGraph, inheriting durable execution, human-in-the-loop support, and persistence, while LangSmith offers tracing, debugging, and evaluation capabilities for agent behavior.
-
-- **S
+- **Unified Interface & Extensibility**: Standardizes model interaction (chat, embeddings) across providers via a single interface, while allowing incremental addition of capabilities (guardrails, retries, routing) through middleware
 
 ## Use Cases
 
@@ -52,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://python.langchain.com
+Original source URL: https://js.langchain.com
 
 ## Local Vault File
 

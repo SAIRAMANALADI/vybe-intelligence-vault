@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-07-01T20:46:14.233947+05:30'
+collected_at: '2026-07-01T22:57:38.450891+05:30'
 published_at: '2026-07-01T04:46:25Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
 stars: 6461
 language: Python
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-07-01T20:46:14.233947+05:30'
-last_seen: '2026-07-01T20:46:14.233947+05:30'
-last_checked: '2026-07-01T20:46:14.233947+05:30'
+first_seen: '2026-07-01T22:57:38.450891+05:30'
+last_seen: '2026-07-01T22:57:38.450891+05:30'
+last_checked: '2026-07-01T22:57:38.450891+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source context retrieval layer designed to enhance AI agents by providing structured, efficient access to relevant data sources for improved LLM performance.
-- **Key Features**: Supports semantic search, retrieval-augmented generation (RAG), and enterprise data integration via connectors, API, and SDK for seamless AI agent workflows.
-- **Technical Stack**: Python-based implementation with support for semantic search, API-driven retrieval, and modular data connectors for enterprise data sources.
+- **Context Retrieval Layer**: Open-source Python-based framework (`airweave`) designed to enhance AI agents with a retrieval-augmented generation (RAG) layer for dynamic context fetching from enterprise data sources.
+
+- **Enterprise Data Integration**: Supports semantic search, API-based data connectors, and semantic indexing for structured/unstructured data (e.g., databases, documents, APIs) to augment LLM responses with real-time context.
+
+- **Developer & Scalability Features**: Provides SDKs, REST APIs, and modular architecture for customizable retrieval pipelines, optimized for high-performance enterprise deployments with caching, batching, and async I/O.
 
 ## Why It Matters
 

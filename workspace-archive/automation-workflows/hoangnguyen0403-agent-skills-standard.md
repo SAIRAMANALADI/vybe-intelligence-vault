@@ -8,7 +8,7 @@ local_vault_path: ai/agents/hoangnguyen0403-agent-skills-standard.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: template
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -27,18 +27,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: template
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Multi-Language Best Practices Repository**: Curates standardized coding guidelines and best practices for AI agents across TypeScript, Kotlin, Go, Java (Spring Boot), PHP (Laravel), Dart (Flutter), and more, ensuring framework-agnostic consistency.
+- **Multi-Language Best Practices Repository**: Curated collection of coding standards and best practices for TypeScript, Kotlin, Go, Java (Spring Boot), PHP (Laravel), Dart (Flutter), and more, aimed at guiding AI agents in framework and language-specific implementations.
 
-- **Agent-Oriented Development Standards**: Defines structured `cursor-rules` and skill templates to optimize AI agent performance in Android, iOS, React, Next.js, Angular, and NestJS ecosystems.
-
-- **Version-Controlled Standards Hub**: Actively
+- **Framework-Specific Standards**: Includes structured guidelines for modern frameworks such as React, Next.js, Angular, NestJS, and Android/iOS development, ensuring AI agents adhere to optimized patterns and avoid anti-pat
 
 ## Use Cases
 

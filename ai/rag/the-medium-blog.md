@@ -3,19 +3,19 @@ title: The Medium Blog
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://blog.medium.com/?source=post_page
+source_url: https://medium.com/blog/all?source=collection_home_page
 resource_id: blog:the-medium-blog
------d10bb5769280---------------------------------------
-published_at: '2026-07-01T15:49:11.380183+05:30'
-collected_at: '2026-07-01T15:49:11.380194+05:30'
+----15f753907972
+published_at: '2026-07-01T23:02:31.448534+05:30'
+collected_at: '2026-07-01T23:02:31.448550+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:the-medium-blog
-first_seen: '2026-07-01T15:49:11.380194+05:30'
-last_seen: '2026-07-01T15:49:11.380194+05:30'
-last_checked: '2026-07-01T15:49:11.380194+05:30'
+first_seen: '2026-07-01T23:02:31.448550+05:30'
+last_seen: '2026-07-01T23:02:31.448550+05:30'
+last_checked: '2026-07-01T23:02:31.448550+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- Medium’s sitemap (`/sitemap.xml`) provides structured XML indexing of all public-facing URLs, including `/blog`, `/search`, and `/m/*` endpoints, enabling efficient crawler discovery.
-- The platform exposes a newsletter subscription endpoint (`/newsletter`) for weekly digest delivery, with tracking parameters (`source=collection_home_page`) for analytics attribution.
-- Medium enforces authentication via `/m/signin` for write operations (`/new-story`) and app redirects (`utm_source=mobileNavBar`), leveraging OAuth2 flows for session management.
+- Medium’s sitemap (`/sitemap.xml`) provides structured XML indexing of all public-facing URLs, including blog posts, product pages, and static content.
+- Navigation endpoints leverage UTM parameters (`utm_source`, `referrer`) for tracking user flows between web and mobile (Android/iOS) applications.
+- Static resources (e.g., logos, favicons) are served via CDN (`miro.medium.com`) with fixed dimensions (e.g., `resize:fill:64:64`) for consistent rendering.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T15:49:11.380183+05:30
+- Published: 2026-07-01T23:02:31.448534+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://blog.medium.com/?source=post_page-----d10bb5769280---------------------------------------
+Original source: https://medium.com/blog/all?source=collection_home_page----15f753907972

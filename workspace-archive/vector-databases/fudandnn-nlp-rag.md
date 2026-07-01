@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Implementation of EMNLP2024 Paper**: Repository provides a Python-based implementation of the paper *"Searching for Best Practices in Retrieval-Augmented Generation"* with a focus on RAG optimization techniques.
-- **Repository Stats**: 346 stars, 21 forks, last updated on **2026-06-28**, with no additional topics tagged.
-- **Technical Focus**: Codebase likely includes retrieval mechanisms, generation models, and benchmarking tools for evaluating RAG systems.
+- **Implementation**: Provides a Python-based implementation of the EMNLP 2024 paper *"Searching for Best Practices in Retrieval-Augmented Generation"*, focusing on RAG optimization techniques.
+- **Repository Stats**: 346 stars, 21 forks, last updated on 2026-06-28.
+- **Technical Scope**: Covers retrieval-augmented generation best practices, likely including model architectures, retrieval strategies, and evaluation methodologies.
 
 ## Use Cases
 

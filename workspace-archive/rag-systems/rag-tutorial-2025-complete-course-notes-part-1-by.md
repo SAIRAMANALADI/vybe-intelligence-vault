@@ -6,7 +6,7 @@ source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-n
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
 local_vault_path: ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md
 quality_score: 70
-archive_score: 76
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines LLMs with retrieval systems to fetch external information (documents, databases) for enhanced responses while avoiding context window overload; operates via two pipelines: **injection** (data ingestion, chunking, embedding) and **retrieval** (query embedding, similarity search, LLM augmentation).
+- **RAG Architecture**: RAG combines LLMs with external retrieval systems to enhance responses by fetching relevant information from documents/databases without overloading the LLM's context window, addressing scalability issues (e.g., 1 petabyte of enterprise data exceeds LLM token limits).
 
-- **Vector Embeddings**: High-dimensional numerical representations (e.g., OpenAI’s 3,072-dim vectors) of text chunks/images, enabling semantic similarity search; embed
+- **Embedding Pipeline**: Text is chunked (e.g., 1,000 tokens), converted into high-dimensional vector embeddings (e.g., OpenAI's 3,072D vectors) via embedding models, and stored in vector databases (e.g.,
 
 ## Use Cases
 

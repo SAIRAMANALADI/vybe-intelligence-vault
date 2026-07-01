@@ -31,9 +31,8 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection Scope**: Speechify collects Personal Data (e.g., username, email, payment info) and Non-Personal Data (e.g., log files, device identifiers, aggregated usage stats) via user interaction, third-party sources, and automated tracking (IP, cookies, device metadata).
-
-- **Data Usage & Sharing**: Data is processed for service provision, fraud prevention, and business optimization; shared only with vetted third-party service providers under contractual obligations, or when legally co
+- **Data Collection Scope**: Speechify collects Personal Data (e.g., username, email, payment info) and Non-Personal Data (e.g., usage stats, device identifiers) via user input, automated logging (IP, cookies, log files), and third-party sources (e.g., social logins, analytics partners like Google Analytics, Meta Pixel).
+- **Data Usage & Sharing**: Data is used for service provision, fraud prevention, and marketing (with opt-out). Speechify does not sell data but shares it with vetted service pr
 
 ## Use Cases
 

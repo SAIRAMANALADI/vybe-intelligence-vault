@@ -8,7 +8,7 @@ local_vault_path: ai/agents/duanyytop-agents-radar.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: product
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -17,6 +17,7 @@ tags:
 - producthunt
 - scripts
 - typescript
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -27,15 +28,15 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: product
+- Resource kind: workflow
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Automated AI Ecosystem Aggregator**: Daily digest of AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) using GitHub Actions for bilingual ZH/EN reports.
-- **Technical Stack**: Implemented in TypeScript, with scheduled updates (last commit: 2026-07-01T09:24:07Z) and no explicit dependency management visible in the provided metadata.
-- **Repository Metrics**: 868 stars, 139 forks, no listed topics, indicating a niche but growing tool for AI ec
+- **Automated AI Ecosystem Aggregator**: Daily digest compiling AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
+- **Bilingual Reporting**: Generates reports in both Chinese (ZH) and English (EN) with automated workflows.
+- **TypeScript Implementation**: Open-source project written in TypeScript, last updated on 2026-07-01, with 868 stars and 139 forks.
 
 ## Use Cases
 

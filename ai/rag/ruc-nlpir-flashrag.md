@@ -3,10 +3,8 @@ title: RUC-NLPIR/FlashRAG
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/RUC-NLPIR/FlashRAG?source=post_page
-resource_id: github:ruc-nlpir/flashrag
------dba899ae0355---------------------------------------
-collected_at: '2026-07-01T20:47:04.366263+05:30'
+source_url: https://github.com/RUC-NLPIR/FlashRAG
+collected_at: '2026-07-01T22:56:27.947304+05:30'
 published_at: '2026-06-30T16:45:57Z'
 tags:
 - benchmark
@@ -23,9 +21,9 @@ archived: false
 created_at: '2024-03-14T01:40:33Z'
 pushed_at: '2026-04-10T03:37:48Z'
 resource_id: github:ruc-nlpir/flashrag
-first_seen: '2026-07-01T20:47:04.366263+05:30'
-last_seen: '2026-07-01T20:47:04.366263+05:30'
-last_checked: '2026-07-01T20:47:04.366263+05:30'
+first_seen: '2026-07-01T22:56:27.947304+05:30'
+last_seen: '2026-07-01T22:56:27.947304+05:30'
+last_checked: '2026-07-01T22:56:27.947304+05:30'
 health_score: 100
 ---
 
@@ -33,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **FlashRAG Toolkit**: Python-based framework designed for efficient Retrieval-Augmented Generation (RAG) research, optimized for speed and scalability in large language model (LLM) applications.
+- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient implementations to accelerate experimentation and deployment.
 
-- **Key Features**: Includes benchmarking tools, curated datasets, and modular components to streamline RAG pipeline development, evaluation, and deployment.
+- **Benchmark & Dataset Integration**: Provides built-in support for standardized RAG benchmarks and datasets, enabling reproducible evaluation of retrieval and generation performance across diverse tasks.
 
-- **WWW2025 Resource**: Presented at The Web Conference 2025, emphasizing cutting-edge advancements in RAG efficiency, retrieval methods, and integration with LLMs.
+- **Modular & Extensible**: Designed with modularity in mind, allowing researchers to easily integrate custom models, retrieval methods, or evaluation metrics while maintaining high performance.
 
 ## Why It Matters
 
@@ -72,4 +70,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/RUC-NLPIR/FlashRAG?source=post_page-----dba899ae0355---------------------------------------
+Original source: https://github.com/RUC-NLPIR/FlashRAG

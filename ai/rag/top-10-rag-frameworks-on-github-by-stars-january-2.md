@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91
-published_at: '2026-07-01T20:43:55.194728+05:30'
-collected_at: '2026-07-01T20:43:55.194739+05:30'
+published_at: '2026-07-01T22:55:18.635603+05:30'
+collected_at: '2026-07-01T22:55:18.635612+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:top-10-rag-frameworks-on-github-by-stars-january-2
-first_seen: '2026-07-01T20:43:55.194739+05:30'
-last_seen: '2026-07-01T20:43:55.194739+05:30'
-last_checked: '2026-07-01T20:43:55.194739+05:30'
+first_seen: '2026-07-01T22:55:18.635612+05:30'
+last_seen: '2026-07-01T22:55:18.635612+05:30'
+last_checked: '2026-07-01T22:55:18.635612+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Python/TypeScript framework with 125K+ GitHub stars, offering 700+ integrations, modular chains, and LangGraph for agentic workflows, ideal for complex RAG pipelines.
-- **Pathway**: Python (Rust runtime) with 50K+ stars, specializing in real-time data processing with 350+ connectors and incremental updates for live knowledge bases.
-- **LightRAG**: Python-based (27.4K+ stars) from HKU research, employing graph-based RAG (GraphRAG) for relationship-aware retrieval, optimized for lightweight and academic-grade applications.
+- **LangChain**: Python/TypeScript framework with 125K+ stars, offering 700+ integrations, modular chains, and LangGraph for agentic workflows; ideal for complex, multi-step RAG pipelines.
+- **RAGFlow**: Python-based framework (70K+ stars) specializing in deep document parsing (tables, images, PDFs) with template-based chunking and grounded citations for enterprise-grade RAG.
+- **Pathway**: Python (Rust runtime) framework (50K+ stars) enabling real-time data processing with 350+ connectors, incremental updates, and unified ETL+RAG for live knowledge bases.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T20:43:55.194728+05:30
+- Published: 2026-07-01T22:55:18.635603+05:30
 
 ## Related Tags
 

@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Extension Overview**: The C/C++ extension for VS Code provides IntelliSense, debugging, and code browsing for C/C++ but **does not include a compiler or debugger**; relies on external tools (e.g., MSVC, Clang, GCC) for compilation and execution.
-
-- **Supported Platforms/Compilers**: Officially supports **MSVC, Clang, GCC** across **Windows (x64/x86/arm64/arm), Linux (x64/x86/arm64/arm), and macOS (x64/x86/arm64)**, with IntelliSense modes configurable per compiler/architecture.
-
-- **Telemetr
+- **Extension Overview**: The C/C++ extension for VS Code provides IntelliSense, debugging, and code browsing for C/C++ without bundling a compiler or debugger; relies on system-installed tools (e.g., MSVC, Clang, GCC).
+- **Supported Platforms & Compilers**: Officially supports MSVC, Clang, and GCC across Windows (x64/x86/arm64/arm), Linux (x64/x86/arm64/arm), and macOS (x64/arm64), with IntelliSense modes configurable per compiler.
+- **Telemetry & Contributions**: Collects usage data (opt-in vi
 
 ## Use Cases
 

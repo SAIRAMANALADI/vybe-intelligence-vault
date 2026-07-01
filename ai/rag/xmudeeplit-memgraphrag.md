@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-07-01T20:45:39.150826+05:30'
+collected_at: '2026-07-01T22:57:03.015049+05:30'
 published_at: '2026-06-29T11:01:01Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-07-01T20:45:39.150826+05:30'
-last_seen: '2026-07-01T20:45:39.150826+05:30'
-last_checked: '2026-07-01T20:45:39.150826+05:30'
+first_seen: '2026-07-01T22:57:03.015049+05:30'
+last_seen: '2026-07-01T22:57:03.015049+05:30'
+last_checked: '2026-07-01T22:57:03.015049+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Framework**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging agent-memory and ontology construction for enhanced reasoning.
+- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging agent-memory interactions for enhanced retrieval and generation.
 
-- **Graph Construction & Ontology Integration**: Dynamically constructs and utilizes graph structures with ontology alignment to improve retrieval and generation in RAG pipelines.
+- **Graph & Ontology Construction**: Dynamically constructs graphs and ontologies to structure knowledge, enabling efficient retrieval and reasoning over complex relationships in unstructured data.
 
-- **KDD 2026 Contribution**: Proposes a novel approach to GraphRAG, optimizing multi-agent collaboration and memory mechanisms for scalable knowledge graph applications.
+- **KDD 2026 Contribution**: Proposes MemGraphRAG as a novel framework for scalable, memory-augmented GraphRAG, optimizing multi-agent collaboration for improved performance in knowledge-intensive tasks.
 
 ## Why It Matters
 

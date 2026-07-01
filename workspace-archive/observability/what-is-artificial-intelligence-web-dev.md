@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **AI Fundamentals**: AI encompasses non-human programs/models performing problem-solving, creativity, and content generation (e.g., generative AI), with capabilities ranging from ML to deep learning (DL) and NLP, where DL uses DNNs for tasks like image classification.
+- **AI Fundamentals**: AI refers to non-human programs/models performing complex tasks (e.g., problem-solving, creativity) via machine learning (ML), including generative AI for content creation. Models are trained on curated datasets, with inference generating outputs—accuracy depends on training quality and scope.
 
-- **AI Deployment Models**: AI inference occurs via **client-side** (browser-based, e.g., Transformers.js, TensorFlow.js) for low latency/privacy or **server-side** (cloud-based, e.g., LLMs like Gemini) for scalability, with hyb
+- **AI Deployment Models**: Client-side AI (browser-based, e.g., Transformers.js, TensorFlow.js) offers low latency, privacy, and offline access, while server-side AI (cloud-based,
 
 ## Use Cases
 

@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by _tk_. Score: 259, Comments: 119.
+Hacker News story by _tk_. Score: 387, Comments: 202.
 Original Link: https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/
 
 ## Use Cases

@@ -2,7 +2,7 @@
 title: The Medium Blog
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://blog.medium.com/?source=post_page
+source_url: https://medium.com/blog/all?source=collection_home_page
 resource_id: blog:the-medium-blog
 local_vault_path: ai/rag/the-medium-blog.md
 quality_score: 70
@@ -28,9 +28,9 @@ selection_reason:
 
 ## Summary
 
-- Medium’s sitemap (`/sitemap.xml`) provides structured XML indexing of all public-facing URLs, including `/blog`, `/search`, and `/m/*` endpoints, enabling efficient crawler discovery.
-- The platform exposes a newsletter subscription endpoint (`/newsletter`) for weekly digest delivery, with tracking parameters (`source=collection_home_page`) for analytics attribution.
-- Medium enforces authentication via `/m/signin` for write operations (`/new-story`) and app redirects (`utm_source=mobileNavBar
+- Medium’s sitemap (`/sitemap.xml`) provides structured XML indexing of all public-facing URLs, including blog posts, product pages, and static content.
+- Navigation endpoints leverage UTM parameters (`utm_source`, `referrer`) for tracking user flows between web and mobile (Android/iOS) applications.
+- Static resources (e.g., logos, favicons) are served via CDN (`miro.medium.com`) with fixed dimensions (e.g., `resize:fill:64:64`) for consistent rendering.
 
 ## Use Cases
 
@@ -40,7 +40,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://blog.medium.com/?source=post_page
+Original source URL: https://medium.com/blog/all?source=collection_home_page
 
 ## Local Vault File
 

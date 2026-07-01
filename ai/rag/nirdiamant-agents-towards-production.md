@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/agents-towards-production
-collected_at: '2026-07-01T20:45:24.134217+05:30'
-published_at: '2026-07-01T12:05:49Z'
+collected_at: '2026-07-01T22:56:48.397206+05:30'
+published_at: '2026-07-01T15:39:36Z'
 tags:
 - agents
 - github-repo
 - jupyter notebook
 - rag
-stars: 20890
+stars: 20891
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-06-16T17:33:44Z'
 pushed_at: '2026-06-17T20:54:13Z'
 resource_id: github:nirdiamant/agents-towards-production
-first_seen: '2026-07-01T20:45:24.134217+05:30'
-last_seen: '2026-07-01T20:45:24.134217+05:30'
-last_checked: '2026-07-01T20:45:24.134217+05:30'
+first_seen: '2026-07-01T22:56:48.397206+05:30'
+last_seen: '2026-07-01T22:56:48.397206+05:30'
+last_checked: '2026-07-01T22:56:48.397206+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive GenAI Agent Development**: Provides end-to-end, code-first tutorials for building production-grade GenAI agents, covering prototyping to enterprise deployment with a focus on scalability and robustness.
+- **Comprehensive Tutorials**: Provides end-to-end, code-first guides for developing production-grade GenAI agents, covering prototyping to enterprise deployment with a focus on practical implementation.
 
-- **Multi-Framework & Tooling Support**: Integrates multiple frameworks (e.g., LangGraph, MCP) and tools (e.g., RAG, LLMs) for agentic AI, MLOps, and observability, with Python and Jupyter Notebook-based implementations.
+- **Multi-Framework Support**: Integrates multiple agent frameworks (e.g., LangGraph, MCP) and tools (e.g., RAG, LLMs) alongside MLOps and observability best practices for scalable AI systems.
 
-- **Enterprise-Grade Deployment Focus**: Emphasizes production-ready deployment strategies, multi-agent systems, and observability for GenAI applications, updated as of July 2026.
+- **Python & Jupyter-Centric**: Delivers tutorials exclusively in Python using Jupyter Notebooks, emphasizing reproducibility and hands-on learning for GenAI agent development.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NirDiamant
-- Stars: 20890
+- Stars: 20891
 - Forks: 2775
 - Language: Jupyter Notebook
 - Topics: agent, agent-framework, agentic-ai, agents, ai-agents, deployment, genai, generative-ai, langgraph, llm, llms, mcp, mlops, multi-agent-systems, observability, production, python, rag, tutorials
-- Last Updated: 2026-07-01T12:05:49Z
+- Last Updated: 2026-07-01T15:39:36Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-06-16T17:33:44Z

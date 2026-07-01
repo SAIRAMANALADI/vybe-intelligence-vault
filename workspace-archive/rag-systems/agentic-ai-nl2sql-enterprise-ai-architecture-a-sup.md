@@ -9,16 +9,15 @@ local_vault_path: ai/rag/agentic-ai-nl2sql-enterprise-ai-architecture-a-sup.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
 - rag
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Agentic AI, NL2SQL & Enterprise AI Architecture â SuperML.dev | SuperML.dev â AI/ML Architecture for Enterprise
@@ -27,16 +26,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **SEC Form 8-K disclosure**: A Pennsylvania bank filed an SEC Form 8-K for unauthorized employee use of an AI tool on customer data, marking the first "shadow AI" disclosure as a material cybersecurity risk.
-- **Regulatory precedent**: The disclosure establishes a new benchmark for AI governance, signaling imminent regulatory scrutiny on unapproved AI tool usage in sensitive data contexts.
-- **Cybersecurity implications**: The incident highlights vulnerabilities in data handling practices, dem
+- **First SEC 8-K disclosure** for unauthorized AI tool usage on customer data by a Pennsylvania bank employee, establishing "shadow AI" as a **material cybersecurity risk** requiring regulatory reporting.
+
+- **Regulatory precedent** set: Unauthorized AI deployment on sensitive data now mandates **mandatory disclosure** under SEC guidelines, signaling stricter enforcement for AI governance in financial institutions.
+
+- **Operational risk amplification**: Even without external breaches or disrupt
 
 ## Use Cases
 

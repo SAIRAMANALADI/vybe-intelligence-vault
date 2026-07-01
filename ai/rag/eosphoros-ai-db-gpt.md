@@ -4,16 +4,18 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/eosphoros-ai/DB-GPT
-collected_at: '2026-07-01T20:45:19.207354+05:30'
-published_at: '2026-07-01T14:42:01Z'
+collected_at: '2026-07-01T22:56:42.982367+05:30'
+published_at: '2026-07-01T17:23:05Z'
 tags:
 - agents
+- dataset
 - github-repo
 - models
 - openai
 - python
 - rag
-stars: 19326
+- workflows
+stars: 19327
 language: Python
 status: active
 license: MIT
@@ -21,9 +23,9 @@ archived: false
 created_at: '2023-04-13T14:52:43Z'
 pushed_at: '2026-07-01T13:28:07Z'
 resource_id: github:eosphoros-ai/db-gpt
-first_seen: '2026-07-01T20:45:19.207354+05:30'
-last_seen: '2026-07-01T20:45:19.207354+05:30'
-last_checked: '2026-07-01T20:45:19.207354+05:30'
+first_seen: '2026-07-01T22:56:42.982367+05:30'
+last_seen: '2026-07-01T22:56:42.982367+05:30'
+last_checked: '2026-07-01T22:56:42.982367+05:30'
 health_score: 100
 ---
 
@@ -31,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases via LLMs (e.g., GPT-4, DeepSeek, Vicuna) for SQL generation, query optimization, and data analysis.
-- **Privacy & Security Focus**: Implements RAG (Retrieval-Augmented Generation) and BGI (presumably a security layer) to ensure private, secure data processing without external API dependencies.
-- **Modular Architecture**: Python-based system supporting multi-model LLM integration, agent orchestration, and hacktoberfest-compatible extensibility for database-centric AI applications.
+- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) for querying, analysis, and data manipulation via natural language.
+- **Security & Privacy Focus**: Implements RAG (Retrieval-Augmented Generation) and private LLM deployment to ensure data confidentiality and secure access control for sensitive datasets.
+- **Modular Architecture**: Supports extensible agent-based workflows with Python backend, integrating tools like BGI for enhanced data processing and Hacktoberfest-compatible contributions.
 
 ## Why It Matters
 
@@ -42,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: eosphoros-ai
-- Stars: 19326
+- Stars: 19327
 - Forks: 2786
 - Language: Python
 - Topics: agents, bgi, database, deepseek, gpt, gpt-4, hacktoberfest, llm, private, rag, security, vicuna
-- Last Updated: 2026-07-01T14:42:01Z
+- Last Updated: 2026-07-01T17:23:05Z
 - License: MIT
 - Archived: No
 - Created At: 2023-04-13T14:52:43Z

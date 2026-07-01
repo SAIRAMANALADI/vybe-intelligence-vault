@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-07-01T20:44:29.133194+05:30'
+collected_at: '2026-07-01T22:55:52.909682+05:30'
 published_at: '2026-06-30T16:48:40Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-07-01T20:44:29.133194+05:30'
-last_seen: '2026-07-01T20:44:29.133194+05:30'
-last_checked: '2026-07-01T20:44:29.133194+05:30'
+first_seen: '2026-07-01T22:55:52.909682+05:30'
+last_seen: '2026-07-01T22:55:52.909682+05:30'
+last_checked: '2026-07-01T22:55:52.909682+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG pipeline leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining competitive performance in retrieval-augmented generation tasks.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
 
-- **Efficiency Optimizations**: Implements lightweight retrieval mechanisms and model distillation techniques to enable deployment on resource-constrained hardware without sacrificing accuracy.
+- **Architectural Efficiency**: Optimizes retrieval and generation stages by integrating lightweight embeddings (e.g., distilled encoders) and compact decoders, enabling deployment on resource-constrained hardware without sacrificing accuracy.
 
-- **Open-Source Toolkit**: Provides a Python-based repository with modular components for customizable RAG workflows, supporting rapid experimentation and integration with existing NLP pipelines.
+- **Open-Source Implementation**: Provides a Python-based repository with modular components for end-to-end RAG workflows, including retrieval, prompt augmentation, and generation, with last updates as of June 2026.
 
 ## Why It Matters
 

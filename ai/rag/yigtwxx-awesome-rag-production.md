@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-07-01T20:44:49.204906+05:30'
+collected_at: '2026-07-01T22:56:12.915480+05:30'
 published_at: '2026-07-01T13:14:52Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
+- workflows
 stars: 134
 language: Python
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-06-30T05:24:48Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-07-01T20:44:49.204906+05:30'
-last_seen: '2026-07-01T20:44:49.204906+05:30'
-last_checked: '2026-07-01T20:44:49.204906+05:30'
+first_seen: '2026-07-01T22:56:12.915480+05:30'
+last_seen: '2026-07-01T22:56:12.915480+05:30'
+last_checked: '2026-07-01T22:56:12.915480+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated resources**: Repository provides a vetted list of production-grade tools, frameworks, and best practices for building scalable Retrieval-Augmented Generation (RAG) systems, optimized for deployment in real-world environments.
+- **Curated Production-Grade RAG Resources**: A comprehensive list of tools, frameworks, and best practices for deploying scalable, production-ready Retrieval-Augmented Generation (RAG) systems, covering LLMs, embeddings, vector databases, and MLOps integration.
 
-- **Comprehensive toolset**: Includes battle-tested components across embeddings, vector databases, LLMs, and MLOps pipelines, with emphasis on LangChain integration and Python-based implementations.
+- **Python-Centric Ecosystem**: Focuses on Python-based libraries (e.g., LangChain) and tools for RAG pipelines, including retrieval, generation, and evaluation components optimized for production environments.
 
-- **MLOps & scalability focus**: Highlights production-grade practices for LLMops, retrieval pipelines, and system scalability, ensuring robustness in generative AI applications.
+- **LLMOps & AI Engineering Focus**: Highlights operational best practices (LLMOps) for managing RAG workflows, including deployment, monitoring, and scalability strategies for large-scale AI systems.
 
 ## Why It Matters
 

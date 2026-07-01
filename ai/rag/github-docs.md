@@ -1,34 +1,35 @@
 ---
-title: docs/content/integrations/concepts/about-building-integrations.md at main ·
-  github/docs · GitHub
+title: docs/content/copilot/concepts/agents/copilot-cli/research.md at main · github/docs
+  · GitHub
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/github/docs/blob/main/content/integrations/concepts/about-building-integrations.md
-published_at: '2026-07-01T04:19:13.757306+05:30'
-collected_at: '2026-07-01T04:19:13.757318+05:30'
+source_url: https://github.com/github/docs/blob/main/content/copilot/concepts/agents/copilot-cli/research.md
+published_at: '2026-07-01T23:06:15.083997+05:30'
+collected_at: '2026-07-01T23:06:15.084010+05:30'
 tags:
+- agents
+- frontend_ui
+- hackernews
 - rag
-- scripts
 - web-crawled
-- workflows
 status: active
 resource_id: github:github/docs
-first_seen: '2026-07-01T04:19:13.757318+05:30'
-last_seen: '2026-07-01T04:19:13.757318+05:30'
-last_checked: '2026-07-01T04:19:13.757318+05:30'
+first_seen: '2026-07-01T23:06:15.084010+05:30'
+last_seen: '2026-07-01T23:06:15.084010+05:30'
+last_checked: '2026-07-01T23:06:15.084010+05:30'
 health_score: 100
 ---
 
-# docs/content/integrations/concepts/about-building-integrations.md at main · github/docs · GitHub
+# docs/content/copilot/concepts/agents/copilot-cli/research.md at main · github/docs · GitHub
 
 ## Summary
 
-- Integrations extend {% data variables.product.company_short %}'s functionality via **{% data variables.product.prodname_github_apps %}**, **{% data variables.product.prodname_actions %} workflows**, or **custom actions**, enabling automation (e.g., issue management, PR comments) and external actions (e.g., Slack notifications) triggered by GitHub events.
+- **Autonomous Research Agent**: The `/research` command in {% data variables.product.prodname_copilot_cli %} activates a specialized research agent that autonomously gathers and synthesizes in-depth information from local codebases, GitHub repositories (public/private), and the web, producing a comprehensive Markdown report with citations and a CLI summary.
 
-- Integrations interact with GitHub via **REST API**, **GraphQL API**, and **webhooks**, enabling data fetching, modifications, and real-time event-driven workflows.
+- **Adaptive Output & Storage**: Reports adapt to query types (process, conceptual, or technical deep-dive) and are saved as Markdown files in a session-specific directory, with sharing options via GitHub gists or local files using `/share gist research` or `/share file research [PATH]`.
 
-- {% ifversion fpt or ghec %}Published integrations ({% data variables.product.prodname_github_apps %} or custom actions) can be listed on **{% data variables.product.prodname_marketplace %}**, and AI-powered integrations can leverage free GitHub-hosted models for prototyping.{% endif %}
+- **Model & Session Constraints**: The research agent uses a fixed AI model (non-configurable) and stores reports in session-specific directories (`~/.copilot/session-state/SESSION-ID/research/`), making prior reports inaccessible in new sessions unless manually retrieved from the filesystem.
 
 ## Why It Matters
 
@@ -38,15 +39,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T04:19:13.757306+05:30
+- Published: 2026-07-01T23:06:15.083997+05:30
 
 ## Related Tags
 
+- agents
+- frontend_ui
+- hackernews
 - rag
-- scripts
 - web-crawled
-- workflows
 
 ## Source
 
-Original source: https://github.com/github/docs/blob/main/content/integrations/concepts/about-building-integrations.md
+Original source: https://github.com/github/docs/blob/main/content/copilot/concepts/agents/copilot-cli/research.md

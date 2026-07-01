@@ -17,7 +17,6 @@ tags:
 - github-repo
 - hackernews
 - unknown
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -36,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **GSAP AI Skills Repository**: Official AI training dataset for GSAP (GreenSock Animation Platform), designed to educate AI agents on GSAP usage, best practices, animation patterns, and plugin integration.
-- **Technical Scope**: Covers core GSAP functionality, advanced animation techniques, and plugin-specific workflows to ensure AI agents generate optimized, production-ready animations.
-- **Metadata**: 10,020 stars, 611 forks, last updated 2026-06-25; language unspecified, no additional topic
+- **GSAP Skills Repository**: Official AI training dataset for GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration for AI coding agents.
+- **Technical Scope**: Includes structured guidance on GSAP’s core engine, advanced animations, and performance optimization techniques for scalable implementations.
+- **Metadata**: 10.6k+ stars, 630 forks, last updated July 2026; language unspecified but focused on GSAP’s JavaScript/TypeScript ecosystem.
 
 ## Use Cases
 

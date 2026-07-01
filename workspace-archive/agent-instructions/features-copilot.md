@@ -16,6 +16,7 @@ tags:
 - frontend_ui
 - hackernews
 - openai
+- scripts
 - web-crawled
 - workflows
 - youtube
@@ -37,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Model & Parallel Execution**: Supports `/model` switching and `/fleet` parallelization across multiple subagents (e.g., Anthropic, Google, OpenAI) for concurrent task execution, with `/resume` for session persistence and context retention.
+- **Multi-model & parallel execution**: Supports `/model` switching and `/fleet` for parallelized subagent execution across models (e.g., Anthropic, Google, OpenAI) with `/plan` to `/pr` workflow automation.
 
-- **GitHub-Native Workflow Integration**: Operates via native GitHub `/mcp` for issue/PR management, branch protections, and policy enforcement, enabling end-to-end workflows from `/plan` to merged PRs with explicit user approval for all changes.
+- **GitHub-native MCP integration**: Directly interacts with GitHub issues, PRs, and branches via native `/mcp` server, enabling context-aware task execution while inheriting org policies (branch protections, required checks).
 
--
+- **Agentic runtime & extensibility**: Enables `/agent` customi
 
 ## Use Cases
 

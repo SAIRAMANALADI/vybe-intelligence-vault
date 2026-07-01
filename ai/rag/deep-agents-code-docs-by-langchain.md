@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/oss/python/deepagents/code/overview
-published_at: '2026-07-01T20:48:21.128449+05:30'
-collected_at: '2026-07-01T20:48:21.128463+05:30'
+published_at: '2026-07-01T22:59:27.249431+05:30'
+collected_at: '2026-07-01T22:59:27.249445+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:deep-agents-code-docs-by-langchain
-first_seen: '2026-07-01T20:48:21.128463+05:30'
-last_seen: '2026-07-01T20:48:21.128463+05:30'
-last_checked: '2026-07-01T20:48:21.128463+05:30'
+first_seen: '2026-07-01T22:59:27.249445+05:30'
+last_seen: '2026-07-01T22:59:27.249445+05:30'
+last_checked: '2026-07-01T22:59:27.249445+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Deep Agents Code (`dcode`) supports dynamic switching between any tool-calling LLM (e.g., OpenAI, Anthropic, Google) mid-session, with persistent memory for cross-conversation context and configurable approval controls for sensitive operations.
+- **Multi-Provider LLM Integration**: `dcode` supports dynamic switching between LLM providers (e.g., OpenAI, Anthropic, Google) or models mid-session via `/model` command or CLI flags (`--model`), with persistent memory for cross-session context retention.
 
-- **Core Capabilities**: Includes file I/O (read/write/edit), shell execution (local/remote sandboxes), web search (via Tavily API), task planning, subagent delegation, memory storage/retrieval, and MCP tool integration for extensibility.
+- **Sandboxed & Approval-Gated Execution**: Executes shell commands locally or in remote sandboxes (e.g., LangSmith, E2B), with human-in-the-loop approval required for destructive operations (`write_file`, `edit_file`, `execute`) unless auto-approved via `-y` or allowlisted commands.
 
-- **Operational Modes**: Supports interactive and non-interactive modes with human-in-the-loop approvals, auto-compaction of conversation history, and optional LangSmith tracing for observability; CLI flags enable model selection (`--model`), auto-approval (`-y`), and sandboxed execution (`--sandbox`).
+- **Extensible Tooling & Observability**: Built-in tools include file I/O (`read_file`, `edit_file`), web search (Tavily API), subagents for parallel task delegation, and MCP tool integration; optional LangSmith tracing (`LANGSMITH_TRACING=true`) enables detailed agent operation logging for debugging.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T20:48:21.128449+05:30
+- Published: 2026-07-01T22:59:27.249431+05:30
 
 ## Related Tags
 

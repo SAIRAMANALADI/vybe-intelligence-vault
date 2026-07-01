@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-07-01T20:46:29.177488+05:30'
+collected_at: '2026-07-01T22:57:53.028861+05:30'
 published_at: '2026-07-01T14:21:43Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-07-01T20:46:29.177488+05:30'
-last_seen: '2026-07-01T20:46:29.177488+05:30'
-last_checked: '2026-07-01T20:46:29.177488+05:30'
+first_seen: '2026-07-01T22:57:53.028861+05:30'
+last_seen: '2026-07-01T22:57:53.028861+05:30'
+last_checked: '2026-07-01T22:57:53.028861+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Demonstrates transition from vibe coding to structured agentic engineering using Codex CLI, emphasizing modular hooks, context engineering, and command orchestration for scalable AI-driven development workflows.
+- **Agentic Workflow Integration**: Demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
 
-- **CLI Skills & Commands**: Provides a curated set of Codex CLI commands, skills, and best practices for efficient agentic coding, including dynamic context injection, skill chaining, and stateful execution for complex tasks.
+- **Codex CLI Best Practices**: Provides a curated set of commands, skills, and hooks for OpenAI Codex, optimizing context management, multi-agent collaboration, and CLI-based agentic workflows in Python.
 
-- **Open-Source Best Practices**: Repository serves as a reference implementation for Pakistani developers, showcasing OpenAI Codex integration, multi-agent collaboration patterns, and repository-specific hooks for automated workflow automation.
+- **Pakistan-Centric Development**: Repository curated by a Pakistani developer, showcasing localized best practices for AI agent deployment while maintaining alignment with global agentic engineering standards.
 
 ## Why It Matters
 

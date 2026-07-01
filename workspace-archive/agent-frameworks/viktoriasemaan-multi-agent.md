@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository showcasing AI multi-agent solutions implemented in Jupyter Notebooks, last updated on June 23, 2026.
-- **Metrics**: 209 stars and 124 forks, indicating moderate community engagement.
-- **Technical Focus**: Demonstrates collaborative AI agent architectures, though specific methodologies are not detailed in the provided metadata.
+- **Repository Overview**: GitHub repository hosting Jupyter Notebook examples for AI multi-agent solutions, with 209 stars and 124 forks.
+- **Technical Stack**: Implemented in Jupyter Notebook, focusing on multi-agent AI systems.
+- **Last Update**: Repository last updated on **June 23, 2026**.
 
 ## Use Cases
 
