@@ -12,8 +12,10 @@ resource_kind: tool
 importance: medium
 tags:
 - github-repo
+- hackernews
 - html
 - rag
+- reddit
 selection_reason:
 - Active open-source repository
 ---
@@ -30,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: GitHub repository for Ragnarok Offline Pre-Renewal Pack, containing static HTML content.
-- **Purpose**: Designed for use with OpenKore, Rathena, and Ragnarok Online Pre-Renewal clients.
-- **Metadata**: 17 stars, 7 forks, last updated on 2026-07-01.
+- **Repository Purpose**: Hosts the static website for *Ragnarok Offline Pre-Renewal Pack*, a modified version of *Ragnarok Online* using *OpenKore*, *rAthena*, and related tools.
+- **Technical Stack**: Entirely HTML-based, with no backend or dynamic components (static site).
+- **Last Activity**: Updated on **2026-07-01**, indicating active maintenance despite low star/fork count (17/7).
 
 ## Use Cases
 

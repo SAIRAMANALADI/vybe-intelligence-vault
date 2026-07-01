@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-02T01:47:30.634060+05:30'
+collected_at: '2026-07-02T04:12:36.316618+05:30'
 published_at: '2026-06-30T16:45:55Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 368
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-02T01:47:30.634060+05:30'
-last_seen: '2026-07-02T01:47:30.634060+05:30'
-last_checked: '2026-07-02T01:47:30.634060+05:30'
+first_seen: '2026-07-02T04:12:36.316618+05:30'
+last_seen: '2026-07-02T04:12:36.316618+05:30'
+last_checked: '2026-07-02T04:12:36.316618+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document search and context augmentation.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining vector and keyword-based retrieval for enhanced document grounding in NVIDIA AI Workbench.
 
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined development, deployment, and scalability of AI-driven applications with optimized GPU acceleration.
+- **NVIDIA AI Workbench Integration**: Provides a structured example project leveraging NVIDIA's AI Workbench framework for deploying and scaling RAG workflows in Python.
 
-- **Python-Based Example**: Provides a Python-based reference implementation with modular components for customization, including retrieval, reranking, and LLM inference stages.
+- **Modular Python Architecture**: Features a Python-based implementation with reusable components for document processing, retrieval, and LLM integration, optimized for NVIDIA GPU acceleration.
 
 ## Why It Matters
 

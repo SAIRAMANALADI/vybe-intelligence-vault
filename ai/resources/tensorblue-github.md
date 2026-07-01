@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/tensorblue
-published_at: '2026-07-02T01:50:10.723557+05:30'
-collected_at: '2026-07-02T01:50:10.723570+05:30'
+published_at: '2026-07-02T04:15:16.657612+05:30'
+collected_at: '2026-07-02T04:15:16.657623+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:tensorblue-github
-first_seen: '2026-07-02T01:50:10.723570+05:30'
-last_seen: '2026-07-02T01:50:10.723570+05:30'
-last_checked: '2026-07-02T01:50:10.723570+05:30'
+first_seen: '2026-07-02T04:15:16.657623+05:30'
+last_seen: '2026-07-02T04:15:16.657623+05:30'
+last_checked: '2026-07-02T04:15:16.657623+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- GitHub user `tensorblue` has **0 public repositories, projects, or packages** as of the last update.
-- The account has **51 stars** but no visible activity in repositories or contributions.
-- User interaction options include **blocking** or **reporting abuse** via GitHub’s official mechanisms.
+- GitHub profile for user `tensorblue` with 2 followers, 0 following, and 51 stars, but no public repositories, projects, or packages.
+- User has no public activity or contributions visible on GitHub.
+- Options to block or report the user are available via GitHub’s built-in tools.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-02T01:50:10.723557+05:30
+- Published: 2026-07-02T04:15:16.657612+05:30
 
 ## Related Tags
 

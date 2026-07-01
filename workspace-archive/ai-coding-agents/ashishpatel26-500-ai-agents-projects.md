@@ -8,14 +8,13 @@ local_vault_path: ai/agents/ashishpatel26-500-ai-agents-projects.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: workflow
+resource_kind: tool
 importance: medium
 tags:
 - agents
 - github-repo
 - hackernews
 - python
-- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -26,15 +25,17 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: workflow
+- Resource kind: tool
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Curated AI Agent Applications**: Repository contains 500+ open-source AI agent projects demonstrating practical implementations across industries (healthcare, finance, education, retail, etc.).
-- **Technical Implementation**: All projects are Python-based, providing executable code and links to open-source repositories for hands-on deployment.
-- **GenAI Focus**: Emphasizes generative AI (GenAI) applications, showcasing modern AI agent architectures and their transformative impact on sector-s
+- **Curated AI Agent Use Cases**: Repository aggregates 500+ practical AI agent implementations across industries (healthcare, finance, education, retail) with open-source code for hands-on deployment and learning.
+
+- **Multi-Sector Technical Showcase**: Projects demonstrate GenAI and AI-agent applications using Python, providing executable examples and references for real-world industry transformations.
+
+- **Active Maintenance & Community**: Last updated July 2026; high engagement with 33,420 s
 
 ## Use Cases
 

@@ -8,11 +8,10 @@ local_vault_path: ai/rag/gomate-community-awesome-papers-for-rag.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: dataset
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
-- dataset
 - github-repo
 - hackernews
 - paper
@@ -30,16 +29,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: dataset
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG) methodologies, architectures, and applications.
-- **Python-Centric**: Primarily Python-based with structured metadata (e.g., BibTeX, arXiv IDs) for easy integration with ML pipelines and research workflows.
-- **Last Updated**: Actively maintained with the latest commit (2026-06-11) reflecting ongoing updates to RAG advancements and benchmarking datasets.
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG), optimized for AI/ML research workflows.
+- **Python-Centric Tooling**: Entirely Python-based, facilitating integration with PyTorch/TensorFlow ecosystems for RAG model development and evaluation.
+- **Actively Maintained**: Last updated July 2026 (v1.0+), ensuring inclusion of recent advancements in RAG architectures, retrieval mechanisms, and hybrid trai
 
 ## Use Cases
 

@@ -6,17 +6,16 @@ source_url: https://gradio.app/
 resource_id: blog:gradio
 local_vault_path: ai/rag/gradio.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
 - hackernews
 - producthunt
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -28,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Gradio 6 Release**: Introduces new features and improvements for faster, more efficient ML app development with enhanced UI components and performance optimizations.
+- **Gradio 6.0** introduces enhanced UI components, improved performance, and new deployment options, enabling faster prototyping and production-ready ML web apps with minimal frontend code.
 
-- **40+ Pre-built Components**: Supports diverse data types (images, audio, video, 3D, dataframes) with input/output widgets, enabling rapid prototyping without frontend expertise.
+- **40+ pre-built components** (e.g., `ImageSlider`, `AnnotatedImage`, `Chatbot`, `Model3D`) support inputs/outputs for images, audio, video, 3D models, dataframes, and more, with zero JavaScript/CSS requirements.
 
-- **Deployment & Sharing**: Offers free hosting via Hugging Face Spaces, instant local sharing via `demo.launch(share=True)`, and seamless integrat
+- **Permanent hosting** via Hugging Face Spaces (free, auto-scaling) and instant sharing via
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-07-02T01:47:55.527274+05:30'
+collected_at: '2026-07-02T04:13:01.383292+05:30'
 published_at: '2026-06-29T08:53:18Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-07-02T01:47:55.527274+05:30'
-last_seen: '2026-07-02T01:47:55.527274+05:30'
-last_checked: '2026-07-02T01:47:55.527274+05:30'
+first_seen: '2026-07-02T04:13:01.383292+05:30'
+last_seen: '2026-07-02T04:13:01.383292+05:30'
+last_checked: '2026-07-02T04:13:01.383292+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A specialized GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including multimodal RAG, vision-language models, and cross-modal retrieval strategies.
+- **Curated RAG-Vision Resources**: Aggregates advanced retrieval-augmented generation (RAG) techniques specifically for computer vision applications, including multimodal models, vision-language models (VLMs), and retrieval-enhanced visual understanding.
 
-- **Repository Metrics**: 337 stars, 9 forks, last updated **June 29, 2026**, with no explicit language or topic tags specified in the metadata.
+- **Multi-Modal Integration**: Focuses on methods combining visual feature retrieval with generative models to enhance tasks like image captioning, visual question answering (VQA), and scene understanding.
 
-- **Focus Areas**: Encompasses cutting-edge RAG methodologies for CV tasks such as **image-text retrieval**, **visual question answering (VQA)**, **multimodal reasoning**, and **zero-shot/few-shot learning** with retrieval augmentation.
+- **Dynamic Updates**: Repository is actively maintained with the latest advancements, last updated in **June 2026**, ensuring access to cutting-edge RAG-Vision research and implementations.
 
 ## Why It Matters
 

@@ -8,16 +8,15 @@ local_vault_path: ai/rag/techwithtim-langflow-rag-tutorial.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - github-repo
 - rag
 - unknown
-- workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # techwithtim/Langflow-RAG-Tutorial
@@ -26,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Repository Purpose**: Tutorial for implementing Retrieval-Augmented Generation (RAG) using Langflow, a visual framework for building LLM workflows.
-- **Repository Metadata**: 95 stars, 25 forks, last updated on 2026-06-29, language unspecified.
-- **Access**: Available at [GitHub](https://github.com/techwithtim/Langflow-RAG-Tutorial).
+- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (95 ⭐, 25 🍴)
+- **Language**: Unspecified (last updated: 2026-06-29)
+- **Content**: No metadata provided (topics, description, or language detected)
 
 ## Use Cases
 

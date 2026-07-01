@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PacktPublishing/LLM-Engineers-Handbook
-collected_at: '2026-07-02T01:47:40.548734+05:30'
+collected_at: '2026-07-02T04:12:46.289591+05:30'
 published_at: '2026-07-01T18:17:00Z'
 tags:
 - benchmark
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-04-09T10:56:03Z'
 pushed_at: '2026-04-22T08:25:03Z'
 resource_id: github:packtpublishing/llm-engineers-handbook
-first_seen: '2026-07-02T01:47:40.548734+05:30'
-last_seen: '2026-07-02T01:47:40.548734+05:30'
-last_checked: '2026-07-02T01:47:40.548734+05:30'
+first_seen: '2026-07-02T04:12:46.289591+05:30'
+last_seen: '2026-07-02T04:12:46.289591+05:30'
+last_checked: '2026-07-02T04:12:46.289591+05:30'
 health_score: 100
 ---
 
@@ -34,9 +34,9 @@ health_score: 100
 
 - **Comprehensive LLM Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-grade systems.
 
-- **Technical Focus Areas**: Includes fine-tuning LLMs, evaluation frameworks, ML system design, and MLOps integration, with Python-based implementations and AWS deployment strategies.
+- **Technical Stack & Tools**: Focuses on Python-based implementations, including fine-tuning LLMs, RAG pipelines, and ML system design with MLOps/LLMOps workflows for AWS environments.
 
-- **Repository Metadata**: 5,144 stars, 1,239 forks, last updated July 2026, emphasizing GenAI, RAG, and AWS-centric workflows for LLM engineers.
+- **Evaluation & Optimization**: Includes methodologies for LLM evaluation, performance benchmarking, and deployment strategies to ensure robustness and efficiency in GenAI applications.
 
 ## Why It Matters
 

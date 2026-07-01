@@ -4,8 +4,8 @@ category: ai/trending
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/allenai/olmocr
-published_at: '2026-07-02T01:46:01.880090+05:30'
-collected_at: '2026-07-02T01:46:01.880092+05:30'
+published_at: '2026-07-02T04:11:04.664485+05:30'
+collected_at: '2026-07-02T04:11:04.664488+05:30'
 tags:
 - dataset
 - github-trending
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: github:allenai/olmocr
 first_seen: '2026-07-01T20:43:06.579425+05:30'
-last_seen: '2026-07-02T01:46:01.880092+05:30'
-last_checked: '2026-07-02T01:46:01.880092+05:30'
+last_seen: '2026-07-02T04:11:04.664488+05:30'
+last_checked: '2026-07-02T04:11:04.664488+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/trending
-- Published: 2026-07-02T01:46:01.880090+05:30
+- Published: 2026-07-02T04:11:04.664485+05:30
 
 ## Related Tags
 

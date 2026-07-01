@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-07-02T01:48:50.576007+05:30'
+collected_at: '2026-07-02T04:13:56.350656+05:30'
 published_at: '2026-07-01T16:31:20Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-01-29T02:49:11Z'
 pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
-first_seen: '2026-07-02T01:48:50.576007+05:30'
-last_seen: '2026-07-02T01:48:50.576007+05:30'
-last_checked: '2026-07-02T01:48:50.576007+05:30'
+first_seen: '2026-07-02T04:13:56.350656+05:30'
+last_seen: '2026-07-02T04:13:56.350656+05:30'
+last_checked: '2026-07-02T04:13:56.350656+05:30'
 health_score: 100
 ---
 
@@ -32,8 +32,10 @@ health_score: 100
 ## Summary
 
 - **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured as a full learning path from basics to enterprise deployment and fine-tuning.
-- **Hands-on Projects & Interview Prep**: Includes real-world projects, enterprise-grade deployment workflows, and a curated interview question bank aligned with AI application engineer roles.
-- **Multi-Framework & Tool Integration**: Integrates Python-based agent frameworks (e.g., DeepAgents) with enterprise tools (Cursor, Coze, Dify) and MCP for end-to-end AI agent development and deployment.
+
+- **Hands-on Projects & Interview Prep**: Includes real-world projects, enterprise-grade deployment strategies, and a curated interview question bank targeting AI application development roles.
+
+- **Multi-Framework & Tool Integration**: Integrates skills, LLM APIs, and agent frameworks (e.g., DeepAgents, Cursor) with RAG pipelines, emphasizing end-to-end workflows from development to production deployment.
 
 ## Why It Matters
 

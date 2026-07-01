@@ -10,9 +10,9 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 
 - [llmware-ai/llmware](https://github.com/llmware-ai/llmware) (framework - ESSENTIAL Tier)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
+- [MLflow - Open Source AI Platform for Agents, LLMs & Models](https://mlflow.org/) (framework - ESSENTIAL Tier)
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (framework - USEFUL Tier)
 - [Getting Started | OpenTelemetry](https://opentelemetry.io/docs/getting-started/) (tutorial - USEFUL Tier)
-- [GitHub Changelog](https://github.blog/changelog) (tutorial - USEFUL Tier)
 - [nginx - Official Image | Docker Hub](https://hub.docker.com/_/nginx/) (template - USEFUL Tier)
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (dataset - USEFUL Tier)
 - [Introduction - Tree-sitter](https://tree-sitter.github.io/tree-sitter/) (framework - USEFUL Tier)
@@ -44,4 +44,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-07-02 02:02 IST*
+*Last updated: 2026-07-02 04:28 IST*

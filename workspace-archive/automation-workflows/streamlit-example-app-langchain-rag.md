@@ -8,17 +8,16 @@ local_vault_path: ai/rag/streamlit-example-app-langchain-rag.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- openai
 - python
 - rag
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # streamlit/example-app-langchain-rag
@@ -27,18 +26,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Hybrid Search Implementation**: Demonstrates combining vector similarity search with keyword-based retrieval (BM25) using LangChain's `HybridSearchRetriever` for enhanced document retrieval accuracy.
+- **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval in LangChain for enhanced RAG performance.
 
-- **LangChain RAG Pipeline**: Integrates a retrieval-augmented generation workflow with a vector store (e.g., FAISS or Chroma) and a language model (e.g., OpenAI, Hugging Face) to generate context-aware responses.
+- **LangChain + VectorStore Pipeline**: Implements a retrieval-augmented generation workflow using LangChain's framework with a vector database (e.g., FAISS, Chroma) for document retrieval.
 
-- **Streamlit UI for RAG**: Provides a Streamlit-based web interface to interact
+- **Streamlit UI for RAG**: Provides a Streamlit-based frontend to interact with the RAG system, enabling real-time query input and response vi
 
 ## Use Cases
 

@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic OS Framework**: Open-source TypeScript-based system (`elizaOS/eliza`) enabling autonomous AI agents with plugin support, RAG integration, and multi-platform communication (Discord, Slack, Telegram).
-- **Swarm & Crypto Integration**: Designed for decentralized agent swarms with cryptographic capabilities, supporting crypto-native workflows and cross-platform agent coordination.
-- **Modular Architecture**: Plugin-driven system for extensibility, combining chatbot, AI agent, and OS func
+- **Agentic OS Framework**: Open-source TypeScript-based system (`elizaOS`) enabling autonomous AI agents with plugin extensibility, supporting RAG, swarm intelligence, and multi-platform integration (Discord, Slack, Telegram).
+
+- **Modular Architecture**: Designed for plugin-driven workflows, facilitating custom AI agent deployments with crypto, chatbot, and autonomous capabilities via a unified framework.
+
+- **Active Development**: Last updated July 2026, with 18.6k+ stars and 5.5k+ forks, ind
 
 ## Use Cases
 

@@ -4,21 +4,22 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.android.com/gemini-in-android
-published_at: '2026-07-01T15:52:05.911747+05:30'
-collected_at: '2026-07-01T15:52:05.911763+05:30'
+published_at: '2026-07-02T04:24:16.606165+05:30'
+collected_at: '2026-07-02T04:24:16.606179+05:30'
 tags:
 - agents
 - producthunt
 - rag
 - reddit
+- scripts
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:gemini-in-android-studio-android-developers
-first_seen: '2026-07-01T15:52:05.911763+05:30'
-last_seen: '2026-07-01T15:52:05.911763+05:30'
-last_checked: '2026-07-01T15:52:05.911763+05:30'
+first_seen: '2026-07-02T04:24:16.606179+05:30'
+last_seen: '2026-07-02T04:24:16.606179+05:30'
+last_checked: '2026-07-02T04:24:16.606179+05:30'
 health_score: 100
 ---
 
@@ -26,9 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Agent Mode**: Enables multi-stage, complex development tasks (e.g., unit test generation, UI alterations, error fixes) via iterative execution plans across project files, with user review/approval of proposed changes.
-- **Multimodal UI Prototyping**: Converts wireframe/mockup images into functional UI code and provides debugging assistance via screenshot analysis, accelerating modern UI development.
-- **Enterprise-Grade Security**: Data/IP remains proprietary (no model training usage), with VPC-SC/Private Google Access support, IP indemnification, and admin-controlled access for paid tiers ($19–$45/user/month).
+- **Agentic AI Integration**: Gemini in Android Studio provides an AI agent designed for Android development, enabling multi-stage task automation (e.g., unit test generation, UI alterations, crash fixes) with iterative execution plans and real-time code suggestions.
+
+- **Multimodal & Context-Aware Features**: Supports multimodal inputs (e.g., UI wireframe images → code conversion, screenshot-based debugging) and maintains context via `.aiexclude` file control, ensuring data privacy while optimizing workflow efficiency.
+
+- **Enterprise & Free Tier Offerings**: Free tier includes core features (Agent Mode, Gemini chat, code completion), while paid tiers (Standard: $19/user/month, Enterprise: $45/user/month) add IP compliance, custom code suggestions, and advanced integrations (Firebase, BigQuery).
 
 ## Why It Matters
 
@@ -38,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T15:52:05.911747+05:30
+- Published: 2026-07-02T04:24:16.606165+05:30
 
 ## Related Tags
 
@@ -46,6 +49,7 @@ General public resource representing technology updates, guides, or tutorials.
 - producthunt
 - rag
 - reddit
+- scripts
 - web-crawled
 - workflows
 - youtube

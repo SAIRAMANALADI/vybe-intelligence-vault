@@ -29,9 +29,9 @@ selection_reason:
 
 ## Summary
 
-- Google Forms submission endpoint (`/viewform`) uses `POST` with required `Email` field validation.
-- Form submission bypasses client-side JS; server-side processing handles data via Google’s Wise service.
-- Form hosted on `docs.google.com/forms` with abuse reporting endpoint (`/abuse`) and Google branding compliance.
+- **Form Submission Requirements**: Google Forms requires email input (marked as required) and feedback submission, with data processed via Google's servers (no local storage).
+- **Security Notice**: Explicitly warns against submitting passwords through the form and links to Google’s Terms of Service and Privacy Policy.
+- **Google Branding & Reporting**: Form branded with Google logo, includes abuse reporting link, and provides help/feedback options via Google Forms.
 
 ## Use Cases
 

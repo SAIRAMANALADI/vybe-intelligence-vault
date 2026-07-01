@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/RAG_Techniques
-collected_at: '2026-07-02T01:47:00.474425+05:30'
+collected_at: '2026-07-02T04:12:06.186724+05:30'
 published_at: '2026-07-01T18:15:05Z'
 tags:
 - agents
@@ -15,6 +15,7 @@ tags:
 - models
 - openai
 - rag
+- workflows
 stars: 28289
 language: Jupyter Notebook
 status: active
@@ -23,9 +24,9 @@ archived: false
 created_at: '2024-07-13T16:08:36Z'
 pushed_at: '2026-06-17T20:54:18Z'
 resource_id: github:nirdiamant/rag_techniques
-first_seen: '2026-07-02T01:47:00.474425+05:30'
-last_seen: '2026-07-02T01:47:00.474425+05:30'
-last_checked: '2026-07-02T01:47:00.474425+05:30'
+first_seen: '2026-07-02T04:12:06.186724+05:30'
+last_seen: '2026-07-02T04:12:06.186724+05:30'
+last_checked: '2026-07-02T04:12:06.186724+05:30'
 health_score: 100
 ---
 
@@ -34,8 +35,8 @@ health_score: 100
 ## Summary
 
 - **Repository Overview**: Hosts advanced RAG techniques with Jupyter Notebook tutorials, covering agentic RAG, embeddings, semantic search, and vector databases.
-- **Technical Stack**: Integrates LangChain, LlamaIndex, OpenAI, and Python for LLMs, generative AI, and NLP applications.
-- **Metadata**: 28.3K stars, 3.4K forks, last updated July 2026, with topics including RAG, LLM optimization, and retrieval mechanisms.
+- **Technical Stack**: Integrates LangChain, LlamaIndex, OpenAI, and Python for LLM-based retrieval-augmented generation workflows.
+- **Metadata**: 28.3K stars, 3.4K forks, last updated July 2026, with topics spanning NLP, generative AI, and vector search optimization.
 
 ## Why It Matters
 
@@ -45,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: NirDiamant
 - Stars: 28289
-- Forks: 3426
+- Forks: 3427
 - Language: Jupyter Notebook
 - Topics: agentic-rag, ai, embeddings, generative-ai, gpt, langchain, llama-index, llm, llms, machine-learning, nlp, openai, python, rag, retrieval-augmented-generation, semantic-search, tutorials, vector-database
 - Last Updated: 2026-07-01T18:15:05Z

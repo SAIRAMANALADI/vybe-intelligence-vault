@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch for real-time monitoring, with modular components for extensibility in cybersecurity workflows.
-
-- **RAG-Enhanced Memory & Detection**: Implements Retrieval-Augmented Generation (RAG) to build behavioral memory from SOC data, enabling LLM-driven validation of anomalies and threat detection.
-
-- **Automated Threat Validation**: Uses LLMs to cross-verify real-time anomalies against historical patterns, autom
+- **Modular SOC Agent**: Python-based autonomous agent with skill-based architecture for monitoring OpenSearch/Elasticsearch logs, integrating RAG for behavioral memory, and validating anomalies via LLMs.
+- **Real-Time Anomaly Detection**: Combines retrieval-augmented generation (RAG) with LLM-driven validation to identify and assess threats dynamically in SOC environments.
+- **Autonomous Threat Hunting**: Automates threat detection and SOC operations with modular components, enabling scalable,
 
 ## Use Cases
 

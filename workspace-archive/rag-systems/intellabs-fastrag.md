@@ -6,17 +6,15 @@ source_url: https://github.com/IntelLabs/fastRAG
 resource_id: github:intellabs/fastrag
 local_vault_path: ai/rag/intellabs-fastrag.md
 quality_score: 70
-archive_score: 77
+archive_score: 81
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -27,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: FastRAG is an efficient Python-based framework for Retrieval-Augmented Generation (RAG) optimized for speed and scalability, integrating retrieval, generation, and multi-modal capabilities.
-- **Key Components**: Supports advanced retrieval techniques (e.g., Colbert, semantic search) and integrates sentence transformers, knowledge graphs, and diffusion models for enhanced generative AI workflows.
-- **Benchmarking & Integration**: Includes built-in benchmarking tools for
+- **Framework Overview**: `fastRAG` is an efficient Python-based framework for **Retrieval Augmented Generation (RAG)**, optimized for **low-latency** and **scalable** deployment in generative AI tasks, supporting **multi-modal** and **knowledge-intensive** applications.
+
+- **Key Components**:
+  - **Retrieval**: Integrates **ColBERT** for **semantic search**, **sentence-transformers** for embeddings, and **knowledge graphs** for structured retrieval.
+  - **Generation**: Supports **diffusion mode
 
 ## Use Cases
 

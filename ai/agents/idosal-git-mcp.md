@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-07-02T01:48:45.587294+05:30'
+collected_at: '2026-07-02T04:13:51.333552+05:30'
 published_at: '2026-07-01T16:52:08Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - typescript
-- workflows
 stars: 8224
 language: TypeScript
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-07-02T01:48:45.587294+05:30'
-last_seen: '2026-07-02T01:48:45.587294+05:30'
-last_checked: '2026-07-02T01:48:45.587294+05:30'
+first_seen: '2026-07-02T04:13:51.333552+05:30'
+last_seen: '2026-07-02T04:13:51.333552+05:30'
+last_checked: '2026-07-02T04:13:51.333552+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **GitMCP Overview**: Open-source TypeScript-based remote MCP server enabling AI agents (e.g., Claude, Copilot, Cursor) to interact with any GitHub repository via standardized MCP protocol.
-- **Core Functionality**: Mitigates "code hallucinations" by providing real-time, accurate GitHub project data to LLMs, ensuring reliable context for AI-driven development tasks.
-- **Integration & Use Cases**: Supports agentic AI workflows by exposing Git operations (e.g., repo cloning, file retrieval, commit history) as MCP tools for seamless LLM integration.
+- **Purpose**: GitMCP is an open-source, remote MCP (Model Context Protocol) server designed to provide structured, real-time access to any GitHub repository, mitigating LLM code hallucinations by ensuring accurate, up-to-date code context.
+
+- **Technical Stack**: Implemented in TypeScript, it enables seamless integration with AI agents (e.g., Claude, Copilot, Cursor) by exposing GitHub project data via a standardized MCP interface for real-time retrieval and manipulation.
+
+- **Features**: Supports dynamic repository interaction (read/write), branch/tag management, and file operations, while maintaining low-latency synchronization with GitHub's API for real-time accuracy.
 
 ## Why It Matters
 

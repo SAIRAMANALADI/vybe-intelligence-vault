@@ -4,14 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-02T01:48:10.565662+05:30'
+collected_at: '2026-07-02T04:13:16.317319+05:30'
 published_at: '2026-06-30T11:39:04Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
-- meta-ai
-- models
 - python
 - rag
 - reddit
@@ -23,9 +20,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-02T01:48:10.565662+05:30'
-last_seen: '2026-07-02T01:48:10.565662+05:30'
-last_checked: '2026-07-02T01:48:10.565662+05:30'
+first_seen: '2026-07-02T04:13:16.317319+05:30'
+last_seen: '2026-07-02T04:13:16.317319+05:30'
+last_checked: '2026-07-02T04:13:16.317319+05:30'
 health_score: 100
 ---
 
@@ -33,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by manipulating retrieved documents to alter LLM outputs without direct model access.
+- **Novel Attack Framework**: Introduces *PoisonedRAG*, a first-of-its-kind attack targeting Retrieval-Augmented Generation (RAG) systems by corrupting the external knowledge base to manipulate LLM outputs during inference.
 
-- **Technical Mechanism**: Exploits adversarial embedding poisoning in vector databases, enabling attackers to inject malicious but semantically plausible content that skews retrieval results toward attacker-controlled narratives.
+- **Knowledge Corruption Mechanism**: Demonstrates how adversaries can subtly inject malicious or misleading data into the retrieval corpus, causing the RAG pipeline to retrieve and prioritize poisoned content, leading to biased or incorrect responses.
 
-- **Evaluation & Impact**: Validated on multiple RAG pipelines (e.g., LlamaIndex, LangChain) with empirical results showing up to **90% attack success rate** in inducing targeted misinformation or biased responses while maintaining stealth.
+- **Evaluation & Mitigations**: Validates the attack's effectiveness on real-world RAG systems, proposes detection strategies (e.g., anomaly detection in embeddings), and suggests defensive measures like input sanitization and retrieval filtering.
 
 ## Why It Matters
 

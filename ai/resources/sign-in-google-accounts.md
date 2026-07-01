@@ -3,17 +3,16 @@ title: Sign in - Google Accounts
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://support.google.com/youtubetv/gethelp?symptom=about_nfl_sunday_ticket&utm_source=st_lp
-published_at: '2026-07-01T20:48:37.185136+05:30'
-collected_at: '2026-07-01T20:48:37.185144+05:30'
+source_url: https://myaccount.google.com/activitycontrols
+published_at: '2026-07-02T04:21:13.508821+05:30'
+collected_at: '2026-07-02T04:21:13.508833+05:30'
 tags:
 - web-crawled
-- youtube
 status: active
 resource_id: blog:sign-in-google-accounts
-first_seen: '2026-07-01T20:48:37.185144+05:30'
-last_seen: '2026-07-01T20:48:37.185144+05:30'
-last_checked: '2026-07-01T20:48:37.185144+05:30'
+first_seen: '2026-07-02T04:21:13.508833+05:30'
+last_seen: '2026-07-02T04:21:13.508833+05:30'
+last_checked: '2026-07-02T04:21:13.508833+05:30'
 health_score: 100
 ---
 
@@ -21,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Flow**: Google's sign-in page implements a **WebLiteSignIn** flow for user authentication, utilizing a **ServiceLogin** endpoint with **OAuth 2.0** for session management.
+- **Authentication Interface**: Google's sign-in page requires user credentials (email/phone) for account access, with optional recovery options and private browsing mode for enhanced security.
 
-- **Recovery & Privacy**: Supports **username recovery** via `usernamerecovery` endpoint and enforces **private browsing mode** (`Guest mode`) to mitigate session hijacking risks.
+- **Session Management**: Post-authentication, users are redirected to `activitycontrols` via a `continue` parameter, utilizing `dsh` (dynamic security hash) and `ifkv` (integrity flow key validation) for session integrity.
 
-- **Multi-Path Navigation**: Redirects users to **YouTube TV support** (`symptom=about_nfl_sunday_ticket`) post-authentication, with fallback to **account creation** (`SignUp` flow) if no credentials exist.
+- **Account Creation Flow**: The "Create account" link triggers a separate `SignUp` flow (`flowName=GlifWebSignIn`) with identical redirect logic, ensuring seamless transition to account registration.
 
 ## Why It Matters
 
@@ -35,13 +34,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-01T20:48:37.185136+05:30
+- Published: 2026-07-02T04:21:13.508821+05:30
 
 ## Related Tags
 
 - web-crawled
-- youtube
 
 ## Source
 
-Original source: https://support.google.com/youtubetv/gethelp?symptom=about_nfl_sunday_ticket&utm_source=st_lp
+Original source: https://myaccount.google.com/activitycontrols

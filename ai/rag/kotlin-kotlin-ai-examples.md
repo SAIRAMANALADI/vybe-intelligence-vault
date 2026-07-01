@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Kotlin/Kotlin-AI-Examples
-collected_at: '2026-06-29T16:58:19.433963+05:30'
-published_at: '2026-06-19T15:03:02Z'
+collected_at: '2026-07-02T04:14:26.419241+05:30'
+published_at: '2026-07-01T13:56:04Z'
 tags:
 - agents
 - github-repo
@@ -19,11 +19,11 @@ status: active
 license: Apache-2.0
 archived: false
 created_at: '2024-10-03T23:36:12Z'
-pushed_at: '2026-06-19T15:02:54Z'
+pushed_at: '2026-07-01T13:55:55Z'
 resource_id: github:kotlin/kotlin-ai-examples
-first_seen: '2026-06-29T16:58:19.433963+05:30'
-last_seen: '2026-06-29T16:58:19.433963+05:30'
-last_checked: '2026-06-29T16:58:19.433963+05:30'
+first_seen: '2026-07-02T04:14:26.419241+05:30'
+last_seen: '2026-07-02T04:14:26.419241+05:30'
+last_checked: '2026-07-02T04:14:26.419241+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A Kotlin-based repository showcasing AI integration examples using frameworks like Spring AI and LangChain4j, with interactive Jupyter Notebooks for practical learning.
-- **Technical Scope**: Covers AI topics including agents, inference, and OpenAI integration, leveraging Kotlin for AI-driven applications.
-- **Metadata**: 264 stars, 32 forks, last updated June 19, 2026; categorized under AI, Kotlin, and related topics.
+- **Repository Overview**: Kotlin/Kotlin-AI-Examples provides Kotlin-based implementations of AI frameworks (e.g., Spring AI, LangChain4j) with Jupyter Notebooks for interactive learning and experimentation.
+- **Technical Scope**: Focuses on AI agents, inference, and integration with OpenAI, leveraging Kotlin for backend logic and notebooks for demonstration.
+- **Metadata**: 264 stars, 32 forks, last updated July 2026; topics include `agents`, `ai`, `kotlin`, and `langchain`.
 
 ## Why It Matters
 
@@ -46,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 32
 - Language: Jupyter Notebook
 - Topics: agents, ai, awesome, inference, kotlin, langchain, openai, spring
-- Last Updated: 2026-06-19T15:03:02Z
+- Last Updated: 2026-07-01T13:56:04Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-10-03T23:36:12Z
-- Pushed At: 2026-06-19T15:02:54Z
+- Pushed At: 2026-07-01T13:55:55Z
 
 ## Possible Use Cases
 

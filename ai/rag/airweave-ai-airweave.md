@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-07-02T01:49:10.659360+05:30'
+collected_at: '2026-07-02T04:14:16.462276+05:30'
 published_at: '2026-07-01T19:58:31Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
 stars: 6462
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-07-02T01:49:10.659360+05:30'
-last_seen: '2026-07-02T01:49:10.659360+05:30'
-last_checked: '2026-07-02T01:49:10.659360+05:30'
+first_seen: '2026-07-02T04:14:16.462276+05:30'
+last_seen: '2026-07-02T04:14:16.462276+05:30'
+last_checked: '2026-07-02T04:14:16.462276+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-source context retrieval layer**: Airweave provides a Python-based SDK and API for AI agents to dynamically fetch and integrate contextual data from enterprise sources, enhancing RAG (Retrieval-Augmented Generation) workflows.
+- **Open-source context retrieval layer**: Airweave provides a Python-based SDK and API for semantic search and context retrieval, designed as a middleware layer for AI agents to dynamically fetch relevant enterprise data.
 
-- **Semantic search & data connectors**: Supports semantic search, vector databases, and pre-built connectors for structured/unstructured enterprise data (e.g., SQL, NoSQL, APIs), enabling low-latency retrieval for LLMs.
+- **Enterprise data integration**: Supports connectors for structured/unstructured data (e.g., databases, APIs, documents) with built-in retrieval-augmented generation (RAG) capabilities to enhance LLM responses.
 
-- **Enterprise-ready features**: Includes API-first design, SDK for custom integrations, and scalability for high-volume retrieval, with last update (2026-07-01) indicating active development in AI agent infrastructure.
+- **Scalable search infrastructure**: Implements vector search and hybrid retrieval methods, optimized for low-latency API responses and modular integration with agent frameworks.
 
 ## Why It Matters
 

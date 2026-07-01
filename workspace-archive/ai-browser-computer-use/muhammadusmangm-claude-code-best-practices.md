@@ -15,6 +15,7 @@ tags:
 - anthropic
 - github-repo
 - hackernews
+- scripts
 - shell
 - workflows
 selection_reason:
@@ -33,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Setup & Configuration**: Provides structured guidelines for configuring Claude Code environments, including `.claude.md` templates for project-specific settings and optimal CLI toolchain integration.
-
-- **Multi-Agent & Workflow Patterns**: Documents advanced patterns for orchestrating multi-agent workflows, MCP (Model Context Protocol) integrations, and cost-efficient LLM interaction strategies.
-
-- **Optimization & Maintenance**: Includes cost-optimization techniques for LLM usage, repositor
+- **Repository Structure**: Provides a structured wiki with best practices for **Claude Code**, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+- **Technical Focus**: Primarily targets **Shell-based** automation and CLI tooling for **Anthropic’s Claude Code**, with integration support for **MCP (Model Context Protocol)** and LLM-driven workflows.
+- **Maintenance & Updates**: Last updated **July 1, 2026**, with **60 stars** and **1
 
 ## Use Cases
 

@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Guest Mode in Chrome**: Uses a temporary session where browsing history, cookies, and site data are deleted upon exit; activity is still logged in Google Wallet per standard activity controls.
-- **Private Browsing in Other Browsers**: Opens a session where local history and cookies are not saved; requires manual cache/cookie clearing if private mode is unavailable.
-- **Manual Cleanup for Non-Private Sessions**: Clearing browser cache/cookies and deleting browsing history is necessary before/
+- **Guest Mode in Chrome**: Enables temporary sign-in on shared/public devices without saving browsing history, cookies, or site data; activity is still logged in Google Wallet per account settings.
+- **Private Browsing in Other Browsers**: Uses incognito/private windows (e.g., Safari, Firefox, Edge) to prevent local storage of search history/cookies; requires manual sign-out post-use.
+- **Cache/Cookie Clearing for Non-Private Browsing**: If private mode unavailable, clear browser cache/cookies
 
 ## Use Cases
 

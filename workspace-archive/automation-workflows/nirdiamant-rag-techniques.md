@@ -38,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: `NirDiamant/RAG_Techniques` provides Jupyter Notebook tutorials demonstrating advanced **Retrieval-Augmented Generation (RAG)** techniques, covering agentic RAG, embeddings, semantic search, and vector databases.
-
-- **Technical Scope**: Includes implementations with **LangChain**, **LlamaIndex**, **OpenAI**, and **LLMs**, focusing on **generative AI**, **NLP**, and **Python**-based RAG pipelines.
-
-- **Metadata**: 28.3K stars, 3.4K forks, last updated **2026-07-01**, wi
+- **Repository Overview**: Hosts advanced RAG techniques with Jupyter Notebook tutorials, covering agentic RAG, embeddings, semantic search, and vector databases.
+- **Technical Stack**: Integrates LangChain, LlamaIndex, OpenAI, and Python for LLM-based retrieval-augmented generation workflows.
+- **Metadata**: 28.3K stars, 3.4K forks, last updated July 2026, with topics spanning NLP, generative AI, and vector search optimization.
 
 ## Use Cases
 

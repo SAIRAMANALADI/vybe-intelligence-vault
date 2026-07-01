@@ -2,7 +2,7 @@
 title: Google's products and services - About Google
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://about.google/products
+source_url: https://about.google/products/
 resource_id: blog:google-s-products-and-services-about-google
 local_vault_path: ai/rag/google-s-products-and-services-about-google.md
 quality_score: 70
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **AI-Powered Search Enhancements**: Google Search introduces *Circle to Search* (visual search via camera/gesture), *AI Mode* (conversational AI responses with follow-ups), and *Lens* (multimodal search via images/camera), leveraging LLMs for contextual understanding and real-time problem-solving (e.g., handwritten equation solving).
-
-- **Gemini AI Ecosystem**: Google’s *Gemini* integrates across products with features like *Gemini Live* (real-time voice interaction), *Canvas* (AI-driven proto
+- **Circle to Search**: Enables real-time visual search on Android via camera or screen interaction, leveraging Google Lens for contextual AI responses (e.g., solving equations, identifying objects).
+- **Gemini AI Suite**: Integrates multimodal AI across Google products (e.g., Chrome, Workspace) for conversational queries, content generation (text/image/video), and task automation via browser/OS-level APIs.
+- **Pixel/Android Ecosystem**: Showcases AI-driven hardware features (e.g., Quick Share,
 
 ## Use Cases
 
@@ -47,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://about.google/products
+Original source URL: https://about.google/products/
 
 ## Local Vault File
 

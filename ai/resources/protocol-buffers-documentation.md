@@ -3,18 +3,17 @@ title: Protocol Buffers Documentation
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://protobuf.dev
-published_at: '2026-06-29T21:54:20.055809+05:30'
-collected_at: '2026-06-29T21:54:20.055832+05:30'
+source_url: https://developers.google.com/protocol-buffers/
+published_at: '2026-07-02T04:21:05.513458+05:30'
+collected_at: '2026-07-02T04:21:05.513473+05:30'
 tags:
 - hackernews
 - web-crawled
-- workflows
 status: active
 resource_id: blog:protocol-buffers-documentation
-first_seen: '2026-06-29T21:54:20.055832+05:30'
-last_seen: '2026-06-29T21:54:20.055832+05:30'
-last_checked: '2026-06-29T21:54:20.055832+05:30'
+first_seen: '2026-07-02T04:21:05.513473+05:30'
+last_seen: '2026-07-02T04:21:05.513473+05:30'
+last_checked: '2026-07-02T04:21:05.513473+05:30'
 health_score: 100
 ---
 
@@ -22,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Serialization Mechanism**: Protocol Buffers (protobuf) are Google's language- and platform-neutral mechanism for serializing structured data, offering a more efficient alternative to XML with smaller, faster, and simpler serialization.
-
-- **Language Support & Implementation**: Supports generated code in multiple languages (C++, Java, Python, etc.) with proto3 adding PHP support; data structure is defined in `.proto` files (e.g., `message Person { string name = 1; }`), enabling cross-language serialization/deserialization.
-
-- **Usage Workflow**: Requires a protobuf compiler for code generation; data is manipulated via generated classes (e.g., `Person.newBuilder()` in Java) and persisted/read using binary streams (e.g., `writeTo()`/`ParseFromIstream()`).
+- Protocol Buffers (protobuf) are Google's **language-neutral, platform-neutral** serialization format, designed as a **binary alternative to XML/JSON**, offering **smaller payloads and faster processing**.
+- Supports **code generation** in **C++, C#, Dart, Go, Java, Kotlin, Objective-C, Python, Rust, Ruby**, and **PHP (proto3)**, with structured data defined via `.proto` schemas (e.g., `message Person { string name = 1; }`).
+- Enables **efficient serialization/deserialization** via generated classes (e.g., Java/C++ builders/parsers) and requires the **protobuf compiler** for schema compilation.
 
 ## Why It Matters
 
@@ -36,14 +33,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-29T21:54:20.055809+05:30
+- Published: 2026-07-02T04:21:05.513458+05:30
 
 ## Related Tags
 
 - hackernews
 - web-crawled
-- workflows
 
 ## Source
 
-Original source: https://protobuf.dev
+Original source: https://developers.google.com/protocol-buffers/

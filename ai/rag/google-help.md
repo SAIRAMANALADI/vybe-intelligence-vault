@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/
-published_at: '2026-06-26T15:37:10.406784+05:30'
-collected_at: '2026-06-26T15:37:10.406800+05:30'
+published_at: '2026-07-02T04:21:11.202324+05:30'
+collected_at: '2026-07-02T04:21:11.202333+05:30'
 tags:
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:google-help
-first_seen: '2026-06-26T15:37:10.406800+05:30'
-last_seen: '2026-06-26T15:37:10.406800+05:30'
-last_checked: '2026-06-26T15:37:10.406800+05:30'
+first_seen: '2026-07-02T04:21:11.202333+05:30'
+last_seen: '2026-07-02T04:21:11.202333+05:30'
+last_checked: '2026-07-02T04:21:11.202333+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Chrome**: Chromium-based browser with V8 JavaScript engine, Blink rendering engine, and built-in sandboxing for security.
-- **Google Cloud**: Enterprise-grade cloud platform offering Compute Engine, BigQuery, and Kubernetes Engine for scalable infrastructure.
-- **Google Ads**: Programmatic advertising platform leveraging ML for bid optimization, audience targeting, and real-time bidding (RTB) auctions.
+- **Google Workspace Status Dashboard**: Provides real-time status and incident reports for Google products and services, enabling users to check for outages or downtime.
+- **Google Product Experts Program**: A community initiative where selected experts provide peer-to-peer support and insights across various Google products.
+- **Google Account Recovery & Transactions**: Centralized portal for account access recovery and management of recent financial transactions via Google Payments.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T15:37:10.406784+05:30
+- Published: 2026-07-02T04:21:11.202324+05:30
 
 ## Related Tags
 

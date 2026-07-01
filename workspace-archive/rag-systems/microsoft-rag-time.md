@@ -17,7 +17,7 @@ tags:
 - models
 - openai
 - rag
-- workflows
+- reddit
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Learning Path**: 5-week structured guide covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization, HNSW indexing, and Matryoshka representation learning.
-- **Tools & Integration**: Demonstrates RAG workflows using Azure, OpenAI APIs, VS Code, and multimodal inputs with responsible AI practices.
-- **Optimization Focus**: Emphasizes efficient retrieval (e.g., HNSW, quantization) and scalable multimodal RAG implementations.
+- **Learning Path**: 5-week structured curriculum covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and Matryoshka representation learning.
+- **Technologies & Tools**: Integrates Azure AI, OpenAI LLMs, HNSW for vector search, and VS Code for hands-on Jupyter Notebook exercises.
+- **Focus Areas**: Responsible AI, multimodal RAG, indexing strategies, and optimization techniques (e.g., scalar/binary quantization) for scalable retrie
 
 ## Use Cases
 

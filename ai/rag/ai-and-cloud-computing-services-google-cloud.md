@@ -3,9 +3,9 @@ title: AI and Cloud Computing Services | Google Cloud
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://cloud.google.com
-published_at: '2026-07-01T04:19:24.474581+05:30'
-collected_at: '2026-07-01T04:19:24.474596+05:30'
+source_url: https://cloud.google.com/?hl=en
+published_at: '2026-07-02T04:24:10.049494+05:30'
+collected_at: '2026-07-02T04:24:10.049507+05:30'
 tags:
 - agents
 - creative_dev
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:ai-and-cloud-computing-services-google-cloud
-first_seen: '2026-07-01T04:19:24.474596+05:30'
-last_seen: '2026-07-01T04:19:24.474596+05:30'
-last_checked: '2026-07-01T04:19:24.474596+05:30'
+first_seen: '2026-07-02T04:24:10.049507+05:30'
+last_seen: '2026-07-02T04:24:10.049507+05:30'
+last_checked: '2026-07-02T04:24:10.049507+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Google AI Threat Defense**: Introduces an AI-driven security framework leveraging adversarial ML techniques to proactively detect and mitigate AI-specific threats, including prompt injection and model evasion attacks, via real-time threat intelligence integration.
+- **Google AI Threat Defense**: New security framework leveraging AI to proactively detect, analyze, and mitigate advanced cyber threats in real-time, integrating with Google Cloud’s threat intelligence and Mandiant services.
 
-- **Gemini Enterprise Agent Platform**: A unified, managed platform for developing, orchestrating, and governing AI agents, supporting multi-agent architectures with remote MCP server integration and access to 200+ foundation models for enterprise-grade automation.
+- **Gemini Enterprise Agent Platform**: Unified platform for developing, orchestrating, and governing AI agents, featuring Agent Studio, remote MCP server support, and access to 200+ foundation models for enterprise-grade deployments.
 
-- **AI Infrastructure Scaling**: Google Cloud's AI Hypercomputer architecture enables scalable agentic workloads via custom TPUs, GPUs, and Arm-based Axion processors, optimized for low-latency inference and high-throughput training in distributed environments.
+- **AI Infrastructure Scaling**: Next-gen AI Hypercomputer architecture designed for the "agentic era," enabling scalable, high-performance AI workloads with custom TPUs, GPUs, and Arm-based Google Axion Processors.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T04:19:24.474581+05:30
+- Published: 2026-07-02T04:24:10.049494+05:30
 
 ## Related Tags
 
@@ -64,4 +64,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://cloud.google.com
+Original source: https://cloud.google.com/?hl=en

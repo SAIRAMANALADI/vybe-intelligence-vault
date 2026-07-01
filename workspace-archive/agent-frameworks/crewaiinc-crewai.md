@@ -1,5 +1,5 @@
 ---
-title: 'crewAIInc/crewAI Release: 1.15.2a1'
+title: 'crewAIInc/crewAI Release: 1.15.2a2'
 archive_category: agent-frameworks
 source_category: ai/agents
 source_url: https://github.com/crewaiinc/crewai
@@ -8,7 +8,7 @@ local_vault_path: ai/rag/crewaiinc-crewai.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: template
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -16,19 +16,19 @@ tags:
 - github-release
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
-# crewAIInc/crewAI Release: 1.15.2a1
+# crewAIInc/crewAI Release: 1.15.2a2
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: template
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 

@@ -14,13 +14,14 @@ collected_at: '2026-07-02T01:46:01.571914+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:division-36/z-jail
 first_seen: '2026-07-02T01:46:01.571914+05:30'
 last_seen: '2026-07-02T01:46:01.571914+05:30'
 last_checked: '2026-07-02T01:46:01.571914+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps
 

@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-07-02T01:49:25.601813+05:30'
+collected_at: '2026-07-02T04:14:36.500387+05:30'
 published_at: '2026-07-01T14:48:32Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
+- scripts
 - shell
 - workflows
 stars: 60
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-07-02T01:49:25.601813+05:30'
-last_seen: '2026-07-02T01:49:25.601813+05:30'
-last_checked: '2026-07-02T01:49:25.601813+05:30'
+first_seen: '2026-07-02T04:14:36.500387+05:30'
+last_seen: '2026-07-02T04:14:36.500387+05:30'
+last_checked: '2026-07-02T04:14:36.500387+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Setup & Configuration**: Provides structured guidelines for configuring Claude Code environments, including `.claude.md` templates for project-specific settings and optimal CLI toolchain integration.
-
-- **Multi-Agent & Workflow Patterns**: Documents advanced patterns for orchestrating multi-agent workflows, MCP (Model Context Protocol) integrations, and cost-efficient LLM interaction strategies.
-
-- **Optimization & Maintenance**: Includes cost-optimization techniques for LLM usage, repository-specific workflows, and best practices for maintaining scalable AI-driven development processes.
+- **Repository Structure**: Provides a structured wiki with best practices for **Claude Code**, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+- **Technical Focus**: Primarily targets **Shell-based** automation and CLI tooling for **Anthropic’s Claude Code**, with integration support for **MCP (Model Context Protocol)** and LLM-driven workflows.
+- **Maintenance & Updates**: Last updated **July 1, 2026**, with **60 stars** and **11 forks**, indicating active community engagement in refining agentic AI development practices.
 
 ## Why It Matters
 

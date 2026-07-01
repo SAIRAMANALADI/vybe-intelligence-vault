@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-07-02T01:47:35.675981+05:30'
+collected_at: '2026-07-02T04:12:41.380012+05:30'
 published_at: '2026-06-30T11:27:37Z'
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
-- models
 - rag
 - workflows
 stars: 1460
@@ -21,9 +20,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-06-30T09:33:23Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-07-02T01:47:35.675981+05:30'
-last_seen: '2026-07-02T01:47:35.675981+05:30'
-last_checked: '2026-07-02T01:47:35.675981+05:30'
+first_seen: '2026-07-02T04:12:41.380012+05:30'
+last_seen: '2026-07-02T04:12:41.380012+05:30'
+last_checked: '2026-07-02T04:12:41.380012+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Content**: Provides Jupyter Notebook examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) and use cases like embeddings, generative AI, knowledge bases, and Retrieval-Augmented Generation (RAG) with LangChain integration.
-
-- **Technical Scope**: Demonstrates Amazon Bedrock's capabilities, including model inference, fine-tuning workflows, and deployment strategies for enterprise-scale generative AI applications.
-
-- **Dependencies**: Leverages AWS services (Bedrock, Titan, etc.) and frameworks (LangChain) for building, evaluating, and deploying generative AI solutions.
+- **Repository Overview**: Provides starter examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) with practical implementations.
+- **Technical Scope**: Includes Jupyter Notebooks for embeddings, generative AI, knowledge bases, and RAG (Retrieval-Augmented Generation) workflows, leveraging LangChain integration.
+- **Use Cases**: Demonstrates Amazon Bedrock's capabilities for building AI-driven applications, with modular examples for rapid prototyping and deployment.
 
 ## Why It Matters
 

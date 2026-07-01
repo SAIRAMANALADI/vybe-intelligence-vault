@@ -11,9 +11,9 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - reddit
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- Google Workspace Marketplace enables distribution of third-party integrations including Workspace add-ons, Editor add-ons, Google Chat apps, Classroom add-ons, Drive apps, and Web apps for user/administrator installation.
+- **Publishing Scope**: Google Workspace Marketplace supports publishing of Workspace add-ons, Editor add-ons, Google Chat apps, Classroom add-ons, Drive apps, and Web apps for user/administrator discovery and installation.
 
-- Apps undergo Google’s pre-publication review for compliance with safety, content, and style guidelines before Marketplace listing.
+- **Pre-Publication Review**: Google enforces mandatory app reviews to validate compliance with safety, content, and style guidelines prior to marketplace publication.
 
-- Developers can access publishing workflows, multi-integration listing, and licensing/installation data via dedicated [Marketplace APIs](htt
+- **Developer Resources**: Provides technical pathways for publishing (`how-to-publish`), multi-integratio
 
 ## Use Cases
 

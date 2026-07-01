@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Repository**: A meticulously maintained GitHub repository (`alvinreal/awesome-opensource-ai`) listing high-quality, truly open-source AI projects, models, tools, and infrastructure, updated daily.
-- **Technical Scope**: Focuses on core AI domains including agents, generative AI, LLMs, machine learning (MLOps), and retrieval-augmented generation (RAG), with primary implementation in Python.
-- **Community Metrics**: Actively maintained with 3,949 stars, 460 forks, and last updated on *
+- **Curated Collection**: Aggregates high-quality, truly open-source AI projects, models, tools, and infrastructure, with daily updates to ensure relevance.
+- **Technical Scope**: Encompasses agents, generative AI, LLMs, machine learning, MLOps, and retrieval-augmented generation (RAG), primarily implemented in Python.
+- **Community & Maintenance**: Actively maintained repository with 3,987 stars, 467 forks, and last updated on 2026-07-01, reflecting ongoing community engagement and updates.
 
 ## Use Cases
 

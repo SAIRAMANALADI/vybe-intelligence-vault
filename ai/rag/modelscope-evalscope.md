@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/modelscope/evalscope
-collected_at: '2026-07-02T01:48:05.577054+05:30'
+collected_at: '2026-07-02T04:13:11.339018+05:30'
 published_at: '2026-07-01T11:26:18Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-12-07T06:10:49Z'
 pushed_at: '2026-07-01T09:17:10Z'
 resource_id: github:modelscope/evalscope
-first_seen: '2026-07-02T01:48:05.577054+05:30'
-last_seen: '2026-07-02T01:48:05.577054+05:30'
-last_checked: '2026-07-02T01:48:05.577054+05:30'
+first_seen: '2026-07-02T04:13:11.339018+05:30'
+last_seen: '2026-07-02T04:13:11.339018+05:30'
+last_checked: '2026-07-02T04:13:11.339018+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with a focus on efficiency and performance metrics.
-
-- **Key Features**: Supports evaluation across multiple modalities (text, vision, generative tasks) and includes tools for RAG (Retrieval-Augmented Generation) performance assessment.
-
-- **Repository Status**: Actively maintained with 3,013 stars, 410 forks, and last updated on 2026-07-01.
+- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with a focus on efficiency and performance.
+- **Key Features**: Supports evaluation of RAG (Retrieval-Augmented Generation) systems alongside standard LLM/VLM tasks, enabling comprehensive performance assessment.
+- **Repository Stats**: 3,013 stars, 410 forks; last updated on 2026-07-01 with active maintenance.
 
 ## Why It Matters
 

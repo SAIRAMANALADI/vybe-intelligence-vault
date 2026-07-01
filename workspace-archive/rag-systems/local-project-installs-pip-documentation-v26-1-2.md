@@ -32,7 +32,9 @@ selection_reason:
 
 ## Summary
 
-*   `pip install <path/to/project>` performs a regular installation, copying project files
+- Regular install (`pip install path/to/project`) copies project files to Python's site-packages, mirroring a distribution install; suitable for CI/deployment.
+- Editable install (`pip install -e path/to/project`) adds project directory to Python's import path without copying files, enabling live code changes during development.
+- Modern pip (v21.3+) builds projects in-place by default, improving speed but generating backend-specific artifacts (e.g., `.egg-info`) and potentially breaking paralle
 
 ## Use Cases
 

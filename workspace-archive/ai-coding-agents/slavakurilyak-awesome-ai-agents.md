@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Repository**: GitHub repository (`slavakurilyak/awesome-ai-agents`) containing 300+ curated resources on agentic AI, including tools, frameworks, research papers, and libraries.
-- **Technical Scope**: Focuses on AI agents, agentic systems, and autonomous decision-making frameworks, primarily in Python with cross-disciplinary relevance (e.g., reinforcement learning, multi-agent systems).
-- **Community & Maintenance**: Actively maintained (last updated July 2026) with 1,584 stars and 4
+- **Curated Collection**: A GitHub repository hosting a structured, community-driven list of 300+ resources focused on agentic AI, including frameworks, tools, research papers, and applications.
+- **Technical Scope**: Primarily Python-based, covering agent architectures, multi-agent systems, reinforcement learning, and autonomous agent frameworks (e.g., LangChain, AutoGen, CrewAI).
+- **Active Maintenance**: Last updated in July 2026, with 1,584 stars and 425 forks, indicating ongoing community e
 
 ## Use Cases
 

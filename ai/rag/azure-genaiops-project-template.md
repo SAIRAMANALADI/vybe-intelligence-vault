@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-07-02T01:47:10.518191+05:30'
+collected_at: '2026-07-02T04:12:21.257397+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
+- openai
 - rag
 - scripts
 - workflows
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-07-02T01:47:10.518191+05:30'
-last_seen: '2026-07-02T01:47:10.518191+05:30'
-last_checked: '2026-07-02T01:47:10.518191+05:30'
+first_seen: '2026-07-02T04:12:21.257397+05:30'
+last_seen: '2026-07-02T04:12:21.257397+05:30'
+last_checked: '2026-07-02T04:12:21.257397+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a Bicep-based Infrastructure-as-Code (IaC) template for deploying a **Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline** on Azure.
-- **Key Components**: Includes modular Bicep templates for provisioning Azure resources (e.g., AKS, Cosmos DB, Azure AI Search) to support RAG workflows.
-- **Deployment**: Designed for **GitHub Actions CI/CD integration**, enabling automated GenAIOps pipeline deployments with Azure-native tooling.
+- **Bicep-based IaC Template**: Provides infrastructure-as-code (IaC) for deploying a **Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline** on Azure, leveraging Bicep for declarative resource provisioning.
+
+- **RAG Pipeline Integration**: Includes pre-configured components for **vector databases, embedding models, and LLM orchestration**, enabling end-to-end retrieval-augmented generation workflows with Azure services (e.g., Azure Cognitive Search, Azure OpenAI).
+
+- **Ops-Ready Features**: Designed for **CI/CD automation**, monitoring (via Azure Monitor), and scalability, with modular Bicep templates for environment-specific deployments (dev/test/prod).
 
 ## Why It Matters
 

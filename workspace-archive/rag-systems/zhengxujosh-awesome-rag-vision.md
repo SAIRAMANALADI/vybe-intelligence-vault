@@ -6,7 +6,7 @@ source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
 resource_id: github:zhengxujosh/awesome-rag-vision
 local_vault_path: ai/rag/zhengxujosh-awesome-rag-vision.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource**: A specialized GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including multimodal RAG, vision-language models, and cross-modal retrieval strategies.
+- **Curated RAG-Vision Resources**: Aggregates advanced retrieval-augmented generation (RAG) techniques specifically for computer vision applications, including multimodal models, vision-language models (VLMs), and retrieval-enhanced visual understanding.
 
-- **Repository Metrics**: 337 stars, 9 forks, last updated **June 29, 2026**, with no explicit language or topic tags specified in the metadata.
+- **Multi-Modal Integration**: Focuses on methods combining visual feature retrieval with generative models to enhance tasks like image captioning, visual question answering (VQA), and scene understanding.
 
-- **Focus Areas**: Encompasses cutting-edge RAG methodologies fo
+- **Dynamic Updates**: Repository is
 
 ## Use Cases
 

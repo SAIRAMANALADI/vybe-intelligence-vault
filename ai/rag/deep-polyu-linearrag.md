@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-02T01:48:30.589406+05:30'
+collected_at: '2026-07-02T04:13:36.359732+05:30'
 published_at: '2026-06-30T08:33:12Z'
 tags:
-- dataset
 - github-repo
 - python
 - rag
-- workflows
 stars: 521
 language: Python
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-02T01:48:30.589406+05:30'
-last_seen: '2026-07-02T01:48:30.589406+05:30'
-last_checked: '2026-07-02T01:48:30.589406+05:30'
+first_seen: '2026-07-02T04:13:36.359732+05:30'
+last_seen: '2026-07-02T04:13:36.359732+05:30'
+last_checked: '2026-07-02T04:13:36.359732+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel graph-based RAG framework optimizing retrieval and generation for large-scale corpora, targeting ICLR 2026.
-- **Efficiency & Scalability**: Implements linear-time graph traversal and retrieval mechanisms, reducing computational overhead while maintaining performance on massive datasets.
-- **Python Implementation**: Provides an open-source Python library for LinearRAG, supporting integration with LLMs and graph-based RAG workflows.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval and augmentation in large-scale corpora, optimized for ICLR 2026.
+- **Scalability & Efficiency**: Implements linear-time graph traversal and retrieval mechanisms, significantly reducing computational overhead compared to traditional graph-based RAG methods.
+- **Python Implementation**: Provides an open-source Python library with modular components for graph construction, retrieval, and LLM integration, supporting large-scale corpora and dynamic updates.
 
 ## Why It Matters
 

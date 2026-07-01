@@ -36,8 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection Scope**: Google aggregates data across apps, browsers, and devices, including unique identifiers, IP addresses, device settings, activity logs (searches, videos, interactions), location data (GPS, Wi-Fi, IP), and third-party site/app interactions, with or without an account.
-- **Personal vs. Non-Personal Data**: Signed-in users’ data (e.g., emails, photos, payment info) is tied to their Google Account as personal information, while unsigned users’ data is anonymized via uniqu
+- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked (e.g., emails, location) and non-account-linked (e.g., device identifiers, IP addresses, browser activity) information, with retention policies tied to user settings and regulatory compliance.
+
+- **Technical Mechanisms**: Utilizes unique identifiers, cookies, pixel tags, and sensor data (GPS/Wi-Fi/Bluetooth) to track cross-service activity, personalize content (ads/search
 
 ## Use Cases
 

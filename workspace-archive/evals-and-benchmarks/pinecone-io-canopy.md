@@ -28,9 +28,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Framework**: Python-based Retrieval Augmented Generation (RAG) framework integrating Pinecone's vector database for enhanced context retrieval and LLM augmentation.
-- **Context Engine**: Powers dynamic context management for LLMs, enabling efficient retrieval and integration of relevant data from vector embeddings.
-- **Pinecone Integration**: Optimized for Pinecone's vector database, leveraging its scalability and performance for large-scale RAG applications.
+- **RAG Framework & Context Engine**: Python-based framework for Retrieval Augmented Generation (RAG) with Pinecone, enabling enhanced LLM responses via vector database integration.
+
+- **Pinecone Vector Database**: Leverages Pinecone’s managed vector DB for efficient similarity search and retrieval of contextual data to augment generative AI models.
+
+- **Modular Architecture**: Designed for scalability with components for indexing, retrieval, and generation, optimized for production-grade LLM ap
 
 ## Use Cases
 

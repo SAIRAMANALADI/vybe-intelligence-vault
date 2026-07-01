@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, monetization (via YouTube Partner Program), and live streaming (e.g., NFL Sunday Ticket).
-- **Technical Infrastructure**: Utilizes Google’s cloud infrastructure (via `developers.google.com/youtube`) for scalable video processing, recommendations (AI-driven via "How YouTube Works"), and API access for developers.
-- **Policy & Compliance**: Enforces [Terms of Service](http
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization (via YouTube Partners/Advertisers), and creator tools (e.g., YouTube Studio, Copyright Match Tool).
+
+- **Technical Infrastructure**: Leverages Google’s CDN and AI-driven recommendation algorithms (e.g., deep neural networks for personalized content suggestions) to optimize delivery and engagement across 2+ billion monthly users.
+
+- **Policy & Comp
 
 ## Use Cases
 

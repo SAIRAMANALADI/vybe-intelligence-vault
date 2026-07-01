@@ -8,12 +8,13 @@ local_vault_path: ai/rag/ajac-zero-example-rag-app.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: dataset
+resource_kind: workflow
 importance: medium
 tags:
 - github-repo
 - rag
 - typescript
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -25,18 +26,18 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: dataset
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Observability & LLM Integration**: Incorporates Langfuse for LLM observability and LiteLLM for multi-provider (100+) LLM support, enabling monitoring and debugging of RAG pipelines.
+- **Observability & LLM Integration**: Implements Langfuse for LLM observability and supports 100+ providers via LiteLLM for seamless LLM integration and monitoring.
 
-- **Strict Development Standards**: Full TypeScript type-checking, 100% test coverage, and Dockerized deployment for reproducibility and scalability.
+- **DevOps & Type Safety**: Fully Dockerized with TypeScript, ensuring portability and type-checking; includes 100% test coverage for reliability.
 
-- **Modern RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with modular architecture, supporting rapid experimentation across diverse LLM backends
+- **Scalability & Metadata**: Designed for RAG workflows with structured metadata handling, optimized for AI/ML pipelines and extensible provider support.
 
 ## Use Cases
 

@@ -2,14 +2,14 @@
 title: Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://www.deepset.ai/products-and-services/haystack-enterprise-platform
+source_url: https://www.deepset.ai/products-and-services/deepset-ai-platform
 resource_id: blog:build-scale-ai-agents-and-apps-faster-haystack-ent
 local_vault_path: ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
-resource_kind: template
-importance: medium
+resource_kind: dataset
+importance: high
 tags:
 - agents
 - dataset
@@ -20,7 +20,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform
@@ -28,17 +28,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: template
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Enterprise AI Orchestration**: Deepset's Haystack Enterprise Platform enables end-to-end orchestration of AI agents and applications, supporting prototype-to-production workflows with governance, scalability, and enterprise-grade security while avoiding vendor lock-in.
+- **Enterprise AI Orchestration**: deepset's Haystack Enterprise Platform enables end-to-end development, testing, deployment, and monitoring of production-ready AI agents and applications with enterprise-grade security, scalability, and governance.
 
-- **Multimodal Data Integration**: Supports retrieval-augmented generation (RAG) across text, tables, images, and documents with built-in metadata management and multimodal indexing, including compliance for sensitive/classif
+- **Multimodal & Sovereign Data Handling**: Supports accurate retrieval across text, tables, images, and documents with built-in metadata management, multimodal indexing, and compliance for sensitive/classified data in sovereign control environments
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.deepset.ai/products-and-services/haystack-enterprise-platform
+Original source URL: https://www.deepset.ai/products-and-services/deepset-ai-platform
 
 ## Local Vault File
 

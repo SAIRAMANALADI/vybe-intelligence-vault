@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -30,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Cognitive Memory Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retrieval and integration.
+- **Cognitive Architecture Integration**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
 
-- **Stateful Reasoning Mechanism**: Implements dynamic memory updates and hierarchical retrieval to maintain context consistency across extended dialogues or narratives, enhancing multi-turn reasoning capabilities.
+- **Stateful Reasoning Mechanism**: Implements dynamic memory retrieval and update policies to maintain contextual coherence across extended dialogues or narratives, leveraging episodic and semantic memory modules.
 
-- **AAAI 2026 Poster Submission**: Presented as a novel approach to Re
+- **AAAI 2026 Poster Contribution**: Proposes novel evaluation metrics and bench
 
 ## Use Cases
 

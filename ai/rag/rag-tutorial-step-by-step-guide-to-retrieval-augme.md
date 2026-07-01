@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://superml.org/tutorials/rag-beginner
-published_at: '2026-07-02T01:46:52.994336+05:30'
-collected_at: '2026-07-02T01:46:52.994349+05:30'
+published_at: '2026-07-02T04:11:59.557714+05:30'
+collected_at: '2026-07-02T04:11:59.557722+05:30'
 tags:
 - benchmark
 - models
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-tutorial-step-by-step-guide-to-retrieval-augme
-first_seen: '2026-07-02T01:46:52.994349+05:30'
-last_seen: '2026-07-02T01:46:52.994349+05:30'
-last_checked: '2026-07-02T01:46:52.994349+05:30'
+first_seen: '2026-07-02T04:11:59.557722+05:30'
+last_seen: '2026-07-02T04:11:59.557722+05:30'
+last_checked: '2026-07-02T04:11:59.557722+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline**: A 5-step process comprising document loading, chunking, embedding/indexing (using ChromaDB), retrieval (semantic similarity search), and generation (LLM with retrieved context) to produce grounded, citable answers from external data.
+- **RAG Architecture**: A 5-step pipeline—**Load** (ingest documents), **Chunk** (split into retrieval-sized segments), **Embed** (convert to vector embeddings via `text-embedding-3-small`), **Retrieve** (semantic search using ChromaDB with `k=4` chunks), and **Generate** (LLM response grounded in retrieved context using `gpt-4o-mini` with zero-temperature sampling).
 
-- **Chunking Strategy**: Recursive character splitting with 512-token chunks and 50-token overlap optimizes semantic boundaries for retrieval, balancing context retention and precision in vector similarity matching.
+- **Key Components**: Uses **LangChain** for modular pipeline orchestration, **ChromaDB** for vector storage, and **OpenAI’s embedding/LLM APIs** (interchangeable with alternatives like Pinecone or `gpt-4`). Chunking employs recursive splitting (512 tokens, 50-token overlap) to balance semantic coherence and retrieval precision.
 
-- **Production Enhancements**: Cross-encoder re-ranking (e.g., `cross-encoder/ms-marco-MiniLM-L-6-v2`) and evaluation frameworks like RAGAS (faithfulness, relevancy, context precision) are critical for improving retrieval accuracy and answer quality beyond baseline embedding-based systems.
+- **Enhancements for Production**: **Re-ranking** via cross-encoder (e.g., `cross-encoder/ms-marco-MiniLM-L-6-v2`) improves retrieval accuracy, while **RAGAS** evaluates faithfulness, relevancy, and context precision. Hybrid retrieval (combining keyword + vector search) and query expansion further optimize performance.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T01:46:52.994336+05:30
+- Published: 2026-07-02T04:11:59.557714+05:30
 
 ## Related Tags
 

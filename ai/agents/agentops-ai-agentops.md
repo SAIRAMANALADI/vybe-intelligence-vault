@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AgentOps-AI/agentops
-collected_at: '2026-07-02T01:49:45.687588+05:30'
+collected_at: '2026-07-02T04:14:51.464822+05:30'
 published_at: '2026-07-01T20:04:43Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-08-15T23:26:23Z'
 pushed_at: '2026-06-25T08:25:03Z'
 resource_id: github:agentops-ai/agentops
-first_seen: '2026-07-02T01:49:45.687588+05:30'
-last_seen: '2026-07-02T01:49:45.687588+05:30'
-last_checked: '2026-07-02T01:49:45.687588+05:30'
+first_seen: '2026-07-02T04:14:51.464822+05:30'
+last_seen: '2026-07-02T04:14:51.464822+05:30'
+last_checked: '2026-07-02T04:14:51.464822+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Python SDK** for monitoring AI agents, tracking LLM costs, and benchmarking, with integrations for frameworks like CrewAI, LangChain, AutoGen, and OpenAI Agents SDK.
+- **Python SDK** for monitoring AI agents, tracking LLM costs, and benchmarking, compatible with major LLM providers (OpenAI, Anthropic, Mistral, Groq) and agent frameworks (CrewAI, LangChain, AutoGen, OpenAI Agents SDK, AG2, CamelAI, Agno, Ollama).
 
-- **Multi-LLM Support** includes Anthropic, Groq, Mistral, Ollama, OpenAI, and others, enabling cost estimation and evaluation metrics across diverse models.
+- **Features** include real-time agent monitoring, granular cost estimation (per-token/per-call), and evaluation metrics for agent performance and LLM outputs.
 
-- **Last Updated**: 2026-07-01, with 5,670 stars and 602 forks, indicating active development and community adoption.
+- **Integration** via lightweight instrumentation (no vendor lock-in), supporting async/await patterns and structured logging for debugging and optimization.
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: AgentOps-AI
 - Stars: 5670
-- Forks: 602
+- Forks: 603
 - Language: Python
 - Topics: agent, agentops, agents-sdk, ai, anthropic, autogen, cost-estimation, crewai, evals, evaluation-metrics, groq, langchain, llm, mistral, ollama, openai, openai-agents
 - Last Updated: 2026-07-01T20:04:43Z

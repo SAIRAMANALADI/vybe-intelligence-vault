@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -31,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Dependabot Dependency**: GitHub's Dependabot no longer automatically infers `.npmrc` configurations for Node.js projects, requiring explicit specification in dependency manifests.
+- **Auto Model Selection for Enterprises**: GitHub introduces default auto model selection for enterprises, optimizing AI model choices based on workload requirements without manual intervention.
 
-- **Security Impact**: This change enhances supply chain security by preventing unintended npm registry or authentication overrides via `.npmrc` inference.
+- **Integration with Client Apps & Copilot**: Enhanced compatibility with client applications and GitHub Copilot, ensuring seamless AI-driven workflows and automation across enterprise tools.
 
-- **Action Required**: Developers must manually configure `.npmrc` settings in their projects or workflows to maintain expected npm behavior.
+- **Enterprise Management Tools Enhancement**: Updated enterprise management tools to support auto model selec
 
 ## Use Cases
 

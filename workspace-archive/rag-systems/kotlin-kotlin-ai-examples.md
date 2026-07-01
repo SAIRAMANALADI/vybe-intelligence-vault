@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: A Kotlin-based repository showcasing AI integration examples using frameworks like Spring AI and LangChain4j, with interactive Jupyter Notebooks for practical learning.
-- **Technical Scope**: Covers AI topics including agents, inference, and OpenAI integration, leveraging Kotlin for AI-driven applications.
-- **Metadata**: 264 stars, 32 forks, last updated June 19, 2026; categorized under AI, Kotlin, and related topics.
+- **Repository Overview**: Kotlin/Kotlin-AI-Examples provides Kotlin-based implementations of AI frameworks (e.g., Spring AI, LangChain4j) with Jupyter Notebooks for interactive learning and experimentation.
+- **Technical Scope**: Focuses on AI agents, inference, and integration with OpenAI, leveraging Kotlin for backend logic and notebooks for demonstration.
+- **Metadata**: 264 stars, 32 forks, last updated July 2026; topics include `agents`, `ai`, `kotlin`, and `langchain`.
 
 ## Use Cases
 

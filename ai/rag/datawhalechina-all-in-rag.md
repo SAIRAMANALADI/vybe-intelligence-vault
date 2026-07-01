@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-07-02T01:46:45.601351+05:30'
+collected_at: '2026-07-02T04:11:46.212960+05:30'
 published_at: '2026-07-01T18:16:41Z'
 tags:
-- dataset
 - github-repo
 - hackernews
 - meta-ai
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-06-05T08:29:26Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-07-02T01:46:45.601351+05:30'
-last_seen: '2026-07-02T01:46:45.601351+05:30'
-last_checked: '2026-07-02T01:46:45.601351+05:30'
+first_seen: '2026-07-02T04:11:46.212960+05:30'
+last_seen: '2026-07-02T04:11:46.212960+05:30'
+last_checked: '2026-07-02T04:11:46.212960+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Development Guide**: A full-stack technical resource covering Retrieval-Augmented Generation (RAG) implementation, including advanced techniques, frameworks (LangChain, LlamaIndex), and multimodal integration (e.g., Kimi-K2, DeepSeek).
+- **Comprehensive RAG Stack Guide**: Covers end-to-end RAG development with Python, integrating frameworks like LangChain, LlamaIndex, and deep learning models (DeepSeek, Kimi-K2) for retrieval-augmented generation.
 
-- **Multi-Tool Integration**: Demonstrates practical implementations with vector databases (Milvus), graph databases (Neo4j), and embedding models, emphasizing end-to-end pipelines for production-grade RAG systems.
+- **Multi-Technology Integration**: Demonstrates hybrid RAG pipelines using vector databases (Milvus), graph databases (Neo4j), and multimodal embeddings for enhanced retrieval and generation.
 
-- **Chinese-Language Focus**: Tailored for Chinese-language LLM applications, with updated resources (last modified July 2026) and practical examples leveraging local AI models and datasets.
+- **Production-Ready Implementation**: Provides deployment-ready examples with modular architecture, optimized for scalability and performance in real-world AI applications.
 
 ## Why It Matters
 

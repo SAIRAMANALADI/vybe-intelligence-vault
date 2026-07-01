@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/apps-script
-published_at: '2026-06-28T22:21:17.258065+05:30'
-collected_at: '2026-06-28T22:21:17.258079+05:30'
+published_at: '2026-07-02T04:24:17.366817+05:30'
+collected_at: '2026-07-02T04:24:17.366828+05:30'
 tags:
 - agents
 - scripts
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:apps-script-google-for-developers
-first_seen: '2026-06-28T22:21:17.258079+05:30'
-last_seen: '2026-06-28T22:21:17.258079+05:30'
-last_checked: '2026-06-28T22:21:17.258079+05:30'
+first_seen: '2026-07-02T04:24:17.366828+05:30'
+last_seen: '2026-07-02T04:24:17.366828+05:30'
+last_checked: '2026-07-02T04:24:17.366828+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Apps Script** is a cloud-based JavaScript platform integrated with Google Drive, enabling automation and extension of Google Workspace via APIs and triggers.
-- Supports **automations**, **custom functions** (e.g., in Google Sheets), **add-ons**, and **AI-powered features** (e.g., Vertex AI, Gemini Enterprise) for Google Chat and Workspace apps.
-- Provides **advanced services** (e.g., Vertex AI API) and **REST API** for programmatic script management, with sample implementations for AI agents and integrations.
+- **Platform Overview**: Apps Script is a cloud-based JavaScript platform integrated with Google Drive, enabling automation and integration across Google Workspace products via simple scripting.
+
+- **Core Capabilities**: Supports automations (menus, triggers, schedules), custom Google Sheets functions, add-ons for third-party integrations, and conversational interfaces for Google Chat.
+
+- **AI Integration**: Provides Vertex AI advanced service for generative AI models, supports agentic Google Chat apps (ADK, A2A, A2UI), and offers samples for AI-powered solutions like Gmail message analysis and travel concierge agents.
 
 ## Why It Matters
 
@@ -35,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-28T22:21:17.258065+05:30
+- Published: 2026-07-02T04:24:17.366817+05:30
 
 ## Related Tags
 

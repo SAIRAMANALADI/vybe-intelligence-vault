@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-07-02T01:47:10.594784+05:30'
+collected_at: '2026-07-02T04:12:16.272654+05:30'
 published_at: '2026-06-24T06:49:45Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
+- workflows
 stars: 313
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-07-02T01:47:10.594784+05:30'
-last_seen: '2026-07-02T01:47:10.594784+05:30'
-last_checked: '2026-07-02T01:47:10.594784+05:30'
+first_seen: '2026-07-02T04:12:16.272654+05:30'
+last_seen: '2026-07-02T04:12:16.272654+05:30'
+last_checked: '2026-07-02T04:12:16.272654+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, optimized for rapid prototyping and deployment.
+- **Template Purpose**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, optimized for Python-based workflows.
 
-- **Key Components**: Includes pre-configured pipelines for document ingestion, vector storage (e.g., Chroma/FAISS), and LLM integration (e.g., LangChain’s `LLMChain` or `RetrievalQA`), with modular components for customization.
+- **Key Components**: Likely includes modular pipelines for document retrieval, prompt engineering, and agent orchestration, leveraging LangChain’s core abstractions (e.g., `Retriever`, `LLMChain`, `AgentExecutor`).
 
-- **Technical Stack**: Python-based, leveraging LangChain’s ecosystem (e.g., `langchain_core`, `langchain_community`) and likely dependencies like `pydantic`, `transformers`, and vector DB clients for scalability.
+- **Update Status**: Last commit reflects active maintenance as of **2026-06-24**, with 313 stars and 72 forks, indicating community adoption and iterative refinement.
 
 ## Why It Matters
 

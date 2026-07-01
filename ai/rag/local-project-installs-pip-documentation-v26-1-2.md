@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pip.pypa.io/en/stable/topics/local-project-installs/#editable-installs
-published_at: '2026-06-30T15:37:07.317587+05:30'
-collected_at: '2026-06-30T15:37:07.317600+05:30'
+published_at: '2026-07-02T04:16:27.952160+05:30'
+collected_at: '2026-07-02T04:16:27.952174+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:local-project-installs-pip-documentation-v26-1-2
-first_seen: '2026-06-30T15:37:07.317600+05:30'
-last_seen: '2026-06-30T15:37:07.317600+05:30'
-last_checked: '2026-06-30T15:37:07.317600+05:30'
+first_seen: '2026-07-02T04:16:27.952174+05:30'
+last_seen: '2026-07-02T04:16:27.952174+05:30'
+last_checked: '2026-07-02T04:16:27.952174+05:30'
 health_score: 100
 ---
 
@@ -22,7 +22,9 @@ health_score: 100
 
 ## Summary
 
-*   `pip install <path/to/project>` performs a regular installation, copying project files
+- Regular install (`pip install path/to/project`) copies project files to Python's site-packages, mirroring a distribution install; suitable for CI/deployment.
+- Editable install (`pip install -e path/to/project`) adds project directory to Python's import path without copying files, enabling live code changes during development.
+- Modern pip (v21.3+) builds projects in-place by default, improving speed but generating backend-specific artifacts (e.g., `.egg-info`) and potentially breaking parallel builds.
 
 ## Why It Matters
 
@@ -32,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T15:37:07.317587+05:30
+- Published: 2026-07-02T04:16:27.952160+05:30
 
 ## Related Tags
 

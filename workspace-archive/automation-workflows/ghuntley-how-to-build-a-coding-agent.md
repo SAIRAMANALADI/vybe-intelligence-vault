@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Workshop for constructing a **coding agent** (e.g., Roo Code, Cline, Cursor) using **Go**, covering AI-driven code assistance and automation.
-- **Technical Scope**: Focuses on **agent architecture**, **AI integration**, and **real-time code interaction** workflows.
-- **Repository Stats**: **5.7K+ stars**, **641 forks**, last updated **July 2026**; includes topics like **AI, tutorials, and agent-based development**.
+- **Purpose**: Workshop guide for constructing an AI-powered coding agent (e.g., Roo Code, Cline) using Go, covering architecture, tooling, and integration patterns.
+- **Key Components**: Focuses on agent-based AI workflows, LLM interactions, and IDE/tooling integration (e.g., Cursor, Windsurf) with modular Go-based implementation.
+- **Technical Scope**: Covers real-time code analysis, task automation, and multi-agent collaboration patterns, updated as of July 2026.
 
 ## Use Cases
 

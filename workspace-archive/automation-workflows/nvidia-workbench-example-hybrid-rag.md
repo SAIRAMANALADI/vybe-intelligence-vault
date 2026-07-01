@@ -11,11 +11,7 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
-- meta-ai
-- mistral
-- models
 - python
 - rag
 - workflows
@@ -37,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document search and context augmentation in generative AI workflows.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining vector and keyword-based retrieval for enhanced document grounding in NVIDIA AI Workbench.
 
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework to streamline deployment, fine-tuning, and evaluation of RAG models with GPU-accelerated components (e.g., NVIDIA NeMo, Triton Inference Server).
+- **NVIDIA AI Workbench Integration**: Provides a structured example project leveraging NVIDIA's AI Workbench framework for deploying and scaling RAG workflows in Python.
 
-- **Python-B
+- **Modular Python Architecture**: Features a Python-based implementation with reusable components for document processing, r
 
 ## Use Cases
 

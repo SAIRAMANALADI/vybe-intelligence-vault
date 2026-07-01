@@ -18,6 +18,7 @@ tags:
 - paper
 - producthunt
 - rag
+- reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -37,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **CoSAI** is an OASIS Open initiative uniting industry/academia to standardize secure AI development via collaborative research, open-source tooling, and best practices across four workstreams: AI software supply chain security, defender readiness, risk governance, and agentic system design patterns.
+- **CoSAI** is an OASIS Open-based consortium developing open-source frameworks and methodologies for securing AI systems, focusing on four key workstreams: *Software Supply Chain Security for AI Systems*, *Preparing Defenders for a Changing Security Landscape*, *AI Security Risk Governance*, and *Secure Design Patterns for Agentic Systems*.
 
-- Released the **AI Shared Responsibility Framework** to delineate accountability for AI failures, alongside new research on **agentic identity/security** post-RSAC 2026, emphasizing identity man
+- **Agentic Identity & Security Research** unveiled at RSAC 2026 introduces a shared responsibility framework to address liability gaps in AI failures, emp
 
 ## Use Cases
 

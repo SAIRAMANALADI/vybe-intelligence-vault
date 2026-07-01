@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
@@ -34,8 +35,8 @@ selection_reason:
 ## Summary
 
 - **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to identify vulnerabilities, malicious patterns, and security risks without executing the code.
-- **Python-Based**: Implemented in Python, leveraging libraries for abstract syntax tree (AST) parsing and pattern matching to analyze skill definitions.
-- **Rule-Based Detection**: Uses predefined rules and heuristics to flag insecure practices, unsafe function calls, or suspicious logic in AI agent skills.
+- **Python-Based**: Implemented in Python, leveraging static analysis techniques to inspect AI agent skill definitions, configurations, and dependencies.
+- **Open-Source Security Scanner**: Released under an open-source license, enabling community-driven security audits and enhancements for AI agent ecosystems.
 
 ## Use Cases
 

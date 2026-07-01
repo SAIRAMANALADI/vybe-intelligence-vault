@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- `Marshal`/`Unmarshal` functions convert protocol buffer messages to/from wire format (binary serialization), with `MarshalOptions`/`UnmarshalOptions` providing advanced control over the process, including deterministic serialization and append operations.
+- Core binary serialization functions: `Size` computes wire-format message size, `Marshal` converts messages to wire format (with `MarshalOptions` for control), and `Unmarshal` parses wire-format data into messages (with `UnmarshalOptions` for control).
 
-- Core message operations include `Clone` (deep copy), `Merge` (merge content), `Equal` (recursive comparison), `Reset` (clear content), and `CheckInitialized` (validate required fields), with `protoreflect`-based extensions for proto2 via `
+- Message manipulation utilities: `Clone` creates deep copies, `Merge` combines message contents, `Equal` performs deep comparison (including NaN handling), `Reset` clears message fields, and `CheckInitialized` validates required fields in proto
 
 ## Use Cases
 

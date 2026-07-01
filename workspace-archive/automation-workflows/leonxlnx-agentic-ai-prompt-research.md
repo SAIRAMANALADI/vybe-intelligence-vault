@@ -8,18 +8,17 @@ local_vault_path: ai/agents/leonxlnx-agentic-ai-prompt-research.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - unknown
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # Leonxlnx/agentic-ai-prompt-research
@@ -28,18 +27,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and agent coordination mechanisms for autonomous AI coding assistants, emphasizing multi-agent collaboration and task decomposition.
-
-- **Security Classification Framework**: Introduces a security classification system for agentic AI interactions, addressing vulnerabilities in prompt injection, data leakage, and unauthorized tool execution.
-
-- **System Prompt Engineering**: Explores advanced system prompt tech
+- **Agentic AI Coding Assistants**: Investigates prompt patterns and coordination mechanisms for autonomous AI agents in software development workflows.
+- **Security Classification**: Analyzes threat models and access control strategies for agentic AI systems to mitigate risks in code generation and execution.
+- **System Prompts & Reconstruction**: Deconstructs and reconstructs system-level prompts to optimize agentic behavior, focusing on efficiency and reliability.
 
 ## Use Cases
 

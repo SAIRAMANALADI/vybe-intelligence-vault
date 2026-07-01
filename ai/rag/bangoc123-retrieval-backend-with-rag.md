@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-02T01:47:40.543026+05:30'
+collected_at: '2026-07-02T04:12:46.270472+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
 - benchmark
-- dataset
 - github-repo
-- hackernews
 - python
 - rag
 stars: 263
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-02T01:47:40.543026+05:30'
-last_seen: '2026-07-02T01:47:40.543026+05:30'
-last_checked: '2026-07-02T01:47:40.543026+05:30'
+first_seen: '2026-07-02T04:12:46.270472+05:30'
+last_seen: '2026-07-02T04:12:46.270472+05:30'
+last_checked: '2026-07-02T04:12:46.270472+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Repository demonstrates Retrieval-Augmented Generation (RAG) best practices optimized for Vietnamese language processing, including text preprocessing, embedding generation, and retrieval strategies tailored for Vietnamese corpora.
+- **Implementation of RAG Pipeline for Vietnamese**: Repository demonstrates a Retrieval-Augmented Generation (RAG) system optimized for Vietnamese language processing, integrating document retrieval and generation components tailored for Vietnamese text.
 
-- **Modular Python Architecture**: Implements a backend system in Python with modular components for document retrieval, vector storage (e.g., FAISS, Chroma), and LLM integration (e.g., ViT5, PhoBERT), enabling scalable and customizable RAG pipelines.
+- **Modular Python Architecture**: Project structured with Python-based modules for document preprocessing, vector embedding (e.g., using `sentence-transformers`), retrieval (e.g., FAISS or Weaviate), and LLM integration (e.g., `vllm` or `transformers`).
 
-- **Evaluation & Optimization**: Includes benchmarking scripts for Vietnamese-specific RAG metrics (e.g., retrieval accuracy, response relevance) and optimization techniques (e.g., query expansion, reranking) to enhance performance on Vietnamese datasets.
+- **Benchmarking & Best Practices**: Includes evaluation scripts for Vietnamese RAG tasks (e.g., retrieval accuracy, response quality) and adheres to best practices for multilingual RAG, such as query expansion and chunking strategies for Vietnamese text.
 
 ## Why It Matters
 

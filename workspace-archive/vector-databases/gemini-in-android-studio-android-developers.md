@@ -15,6 +15,7 @@ tags:
 - producthunt
 - rag
 - reddit
+- scripts
 - web-crawled
 - workflows
 - youtube
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Agent Mode**: Enables multi-stage, complex development tasks (e.g., unit test generation, UI alterations, error fixes) via iterative execution plans across project files, with user review/approval of proposed changes.
-- **Multimodal UI Prototyping**: Converts wireframe/mockup images into functional UI code and provides debugging assistance via screenshot analysis, accelerating modern UI development.
-- **Enterprise-Grade Security**: Data/IP remains proprietary (no model training usage), with
+- **Agentic AI Integration**: Gemini in Android Studio provides an AI agent designed for Android development, enabling multi-stage task automation (e.g., unit test generation, UI alterations, crash fixes) with iterative execution plans and real-time code suggestions.
+
+- **Multimodal & Context-Aware Features**: Supports multimodal inputs (e.g., UI wireframe images → code conversion, screenshot-based debugging) and maintains context via `.aiexclude` file control, ensuring data privacy while optimi
 
 ## Use Cases
 

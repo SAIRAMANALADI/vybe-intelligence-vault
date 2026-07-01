@@ -13,7 +13,6 @@ importance: medium
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 selection_reason:
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: FastRAG is an efficient Python-based framework for Retrieval-Augmented Generation (RAG) optimized for low-latency, high-throughput applications, supporting multi-modal and knowledge-intensive tasks.
+- **Framework Overview**: `fastRAG` is an efficient Python-based framework for **Retrieval Augmented Generation (RAG)**, optimized for **low-latency** and **scalable** deployment in generative AI tasks, supporting **multi-modal** and **knowledge-intensive** applications.
 
-- **Core Components**: Integrates state-of-the-art retrieval (e.g., ColBERT, sentence-transformers) and generative models (e.g., LLMs) with diffusion-based techniques for enhanced semantic search and summarization.
-
-- **Benchmarking & Scalability**: Provides built-in benchm
+- **Key Components**:
+  - **Retrieval**: Integrates **ColBERT** for **semantic search**, **sentence-transformers** for embeddings, and **knowledge graphs** for structured retrieval.
+  - **Generation**: Supports **diffusion mode
 
 ## Use Cases
 

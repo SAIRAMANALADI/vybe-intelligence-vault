@@ -2,7 +2,7 @@
 title: GitHub Docs
 archive_category: ai-coding-agents
 source_category: ai/agents
-source_url: https://docs.github.com
+source_url: https://docs.github.com/
 resource_id: blog:github-docs
 local_vault_path: ai/agents/github-docs.md
 quality_score: 70
@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- GitHub provides comprehensive documentation for version control using Git, including local setup (`git init`), secure remote access via SSH, and repository management (creation, naming, and collaboration).
-- Key workflows include pull requests for proposing and reviewing changes, authentication methods (tokens, SSH keys), and IDE integration with GitHub Copilot for real-time code suggestions.
-- Enterprise and security features cover secure secrets management, vulnerability detection (CodeQL),
+- **Core GitHub Functionality**: GitHub integrates Git (open-source VCS) for local version control, supports SSH for secure remote connections, and enables repository creation/management for collaborative development workflows.
+
+- **Collaboration & Automation**: Features include pull requests for code review/merging, GitHub Actions for CI/CD, and GitHub Copilot for AI-driven code suggestions in IDEs.
+
+- **Security & Extensibility**: Provides CodeQL for vulnerability analysis, secure secret manag
 
 ## Use Cases
 
@@ -44,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.github.com
+Original source URL: https://docs.github.com/
 
 ## Local Vault File
 

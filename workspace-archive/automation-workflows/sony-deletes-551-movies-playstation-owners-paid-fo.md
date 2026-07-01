@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by bilsbie. Score: 357, Comments: 175.
+Hacker News story by bilsbie. Score: 478, Comments: 209.
 Original Link: https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for
 
 ## Use Cases

@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Apps Script** is a cloud-based JavaScript platform integrated with Google Drive, enabling automation and extension of Google Workspace via APIs and triggers.
-- Supports **automations**, **custom functions** (e.g., in Google Sheets), **add-ons**, and **AI-powered features** (e.g., Vertex AI, Gemini Enterprise) for Google Chat and Workspace apps.
-- Provides **advanced services** (e.g., Vertex AI API) and **REST API** for programmatic script management, with sample implementations for AI agents
+- **Platform Overview**: Apps Script is a cloud-based JavaScript platform integrated with Google Drive, enabling automation and integration across Google Workspace products via simple scripting.
+
+- **Core Capabilities**: Supports automations (menus, triggers, schedules), custom Google Sheets functions, add-ons for third-party integrations, and conversational interfaces for Google Chat.
+
+- **AI Integration**: Provides Vertex AI advanced service for generative AI models, supports agentic Google Ch
 
 ## Use Cases
 

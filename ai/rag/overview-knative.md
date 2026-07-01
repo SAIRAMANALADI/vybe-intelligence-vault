@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://knative.dev/docs/
-published_at: '2026-06-30T22:54:20.328328+05:30'
-collected_at: '2026-06-30T22:54:20.328341+05:30'
+published_at: '2026-07-02T04:25:06.725979+05:30'
+collected_at: '2026-07-02T04:25:06.725990+05:30'
 tags:
 - benchmark
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:overview-knative
-first_seen: '2026-06-30T22:54:20.328341+05:30'
-last_seen: '2026-06-30T22:54:20.328341+05:30'
-last_checked: '2026-06-30T22:54:20.328341+05:30'
+first_seen: '2026-07-02T04:25:06.725990+05:30'
+last_seen: '2026-07-02T04:25:06.725990+05:30'
+last_checked: '2026-07-02T04:25:06.725990+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Knative Serving**: Kubernetes-native HTTP-triggered autoscaling runtime managing stateless services via CRDs (Services, Routes, Configurations, Revisions) with automatic scale-to-zero, traffic splitting, and GPU resource support for ML inference workloads.
+- **Knative Architecture**: Comprises three core components—**Serving** (HTTP-triggered autoscaling container runtime with lifecycle management), **Eventing** (CloudEvents-based asynchronous event routing layer), and **Functions** (developer-focused framework for stateless function deployment)—all operating as Kubernetes CRDs for portability across environments.
 
-- **Knative Eventing**: CloudEvents-compliant event-driven architecture with loosely coupled components (Sources, Brokers, Triggers, Sinks) enabling asynchronous event routing, filtering, and delivery between producers/consumers.
+- **Serving Mechanics**: Uses **Services, Routes, Configurations, and Revisions** to manage deployments, with automatic scaling (zero-to-N pods), traffic splitting (blue-green/canary), and GPU/accelerator support via Kubernetes-native pod abstractions for AI/ML inference workloads.
 
-- **Knative Functions**: Simplified function-as-a-service (FaaS) framework abstracting Kubernetes complexity, supporting local development/testing and standardized deployment of stateless functions leveraging Serving/Eventing components.
+- **Eventing Workflow**: Implements **Sources → Brokers → Triggers → Sinks** for decoupled event processing, where CloudEvents-compliant events are routed via HTTP POST, enabling loose coupling between producers/consumers and supporting real-time pipelines, workflows, and analytics.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T22:54:20.328328+05:30
+- Published: 2026-07-02T04:25:06.725979+05:30
 
 ## Related Tags
 

@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-07-02T01:47:45.596782+05:30'
+collected_at: '2026-07-02T04:12:56.336209+05:30'
 published_at: '2026-06-30T16:43:51Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
+- reddit
 stars: 1172
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2023-06-06T01:40:48Z'
 pushed_at: '2026-07-01T19:12:28Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-07-02T01:47:45.596782+05:30'
-last_seen: '2026-07-02T01:47:45.596782+05:30'
-last_checked: '2026-07-02T01:47:45.596782+05:30'
+first_seen: '2026-07-02T04:12:56.336209+05:30'
+last_seen: '2026-07-02T04:12:56.336209+05:30'
+last_checked: '2026-07-02T04:12:56.336209+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern on Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A, with pre-built best practices and common requirements.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A experiences, following best practices.
 
-- **Deployment**: Provides **Azure Developer CLI (azd) templates** for streamlined infrastructure-as-code (IaC) deployment, supporting Python-based implementations.
+- **Components**: Includes **Python-based** solution with **AZD templates** for deployment, integrating Azure AI Search for vector/keyword retrieval and Azure OpenAI for LLM-powered responses.
 
-- **Features**: Enables **ChatGPT-style conversational AI** and **Q&A experiences** with customizable data integration, optimized for production-grade Azure environments.
+- **Use Case**: Provides a production-ready accelerator for building **ChatGPT-style or Q&A applications** with enterprise-grade retrieval and generative AI capabilities in Azure.
 
 ## Why It Matters
 

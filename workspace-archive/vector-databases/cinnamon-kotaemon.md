@@ -8,14 +8,14 @@ local_vault_path: ai/rag/cinnamon-kotaemon.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
 - python
 - rag
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # Cinnamon/kotaemon
@@ -24,15 +24,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **RAG-based Chatbot**: Open-source Python tool enabling document interaction via Retrieval-Augmented Generation (RAG) with LLMs for contextual Q&A.
-- **Modular Architecture**: Supports customizable pipelines for document ingestion, embedding, retrieval, and generation with pluggable components.
-- **Scalable Deployment**: Designed for extensibility with APIs, CLI, and Docker support for local/cloud-based document processing.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational AI, combining retrieval of relevant document chunks with LLM-based response generation.
+
+- **Modular Python Framework**: Built in Python with extensible components for document ingestion, vector storage, retrieval, and LLM integration, supporting customization for diverse document types and models.
+
+- **Open-Source Deployment**: Provides a self-hostable, open-source solution w
 
 ## Use Cases
 

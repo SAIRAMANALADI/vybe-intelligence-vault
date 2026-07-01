@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-07-02T01:48:35.563460+05:30'
+collected_at: '2026-07-02T04:13:41.371636+05:30'
 published_at: '2026-06-29T11:01:01Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-07-02T01:48:35.563460+05:30'
-last_seen: '2026-07-02T01:48:35.563460+05:30'
-last_checked: '2026-07-02T01:48:35.563460+05:30'
+first_seen: '2026-07-02T04:13:41.371636+05:30'
+last_seen: '2026-07-02T04:13:41.371636+05:30'
+last_checked: '2026-07-02T04:13:41.371636+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for graph retrieval-augmented generation (GraphRAG), leveraging agent-memory interactions for enhanced knowledge retrieval and generation.
+- **Memory-based Multi-Agent System**: Introduces a novel **MemGraphRAG** framework leveraging memory-augmented agents for **Graph Retrieval-Augmented Generation (GraphRAG)**, enabling dynamic knowledge graph construction and retrieval.
 
-- **Graph & Ontology Construction**: Dynamically constructs graphs and ontologies to structure and integrate knowledge, enabling efficient retrieval and reasoning over complex relationships.
+- **Ontology-Driven Graph Construction**: Implements an **ontology-aware** approach to build and refine knowledge graphs, ensuring structured, scalable, and semantically consistent graph representations for downstream tasks.
 
-- **KDD 2026 Framework**: Designed as a novel approach for GraphRAG, integrating memory mechanisms with graph-based retrieval to improve contextual accuracy and multi-agent collaboration.
+- **Python Implementation**: Provides an open-source Python-based system with multi-agent collaboration, optimized for **KDD 2026** standards, supporting graph-based RAG applications.
 
 ## Why It Matters
 

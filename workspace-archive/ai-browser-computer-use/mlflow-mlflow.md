@@ -8,17 +8,16 @@ local_vault_path: ai/agents/mlflow-mlflow.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - openai
 - python
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # mlflow/mlflow
@@ -27,17 +26,15 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Unified AI Engineering Platform**: MLflow provides a comprehensive open-source framework for developing, debugging, evaluating, monitoring, and optimizing production-grade AI applications, including agents, LLMs, and ML models.
-
-- **Core Capabilities**: Supports model management, observability, cost control, and access management for models/data, with integrations for Apache Spark, LangChain, and OpenAI.
-
-- **Technical Stack**: Primarily Python-based, with features for LLM evaluation, prompt
+- **MLflow** is an open-source AI engineering platform designed for **agents, LLMs, and ML models**, enabling **debugging, evaluation, monitoring, and optimization** of production-grade AI applications.
+- Supports **cost control, access management for models/data**, and integrates with tools like **LangChain, OpenAI, and Apache Spark** for **LLMops, MLops, and prompt engineering**.
+- Provides **observability, model management, and governance** features, with recent updates (as of 2026-07-01) enh
 
 ## Use Cases
 

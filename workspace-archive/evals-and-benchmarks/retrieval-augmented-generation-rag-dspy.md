@@ -8,7 +8,7 @@ local_vault_path: ai/rag/retrieval-augmented-generation-rag-dspy.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
@@ -23,7 +23,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Retrieval-Augmented Generation (RAG) - DSPy
@@ -32,16 +32,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **DSPy RAG Pipeline**: Demonstrates a basic RAG system using DSPy with `dspy.Predict` and `dspy.ChainOfThought` modules, configured with OpenAI's `gpt-4o-mini` via `dspy.LM`, and structured input/output handling via DSPy Signatures.
+- **DSPy RAG Pipeline**: Uses `dspy.Predict` or advanced modules like `dspy.ChainOfThought` with structured signatures (e.g., `question: str -> response: str`) to enforce input/output schemas, while MLflow integration enables prompt/optimization tracing for debugging.
 
-- **Dataset Integration & Evaluation**: Uses the RAG-QA Arena "Tech" dataset (StackExchange-based QA pairs) with `dspy.Example` for structured data handling, splitting into `trainset` (200), `devset` (300), and `testset` (500) for iterative optimization and evalua
+- **Dataset Integration**: Loads tech QA pairs from the RAG-QA Arena dataset, converts them to `dspy.Example` objects with `.with_inputs()` to separate inputs/labels, and splits into 200 train/300 validation/500 test sets for iter
 
 ## Use Cases
 

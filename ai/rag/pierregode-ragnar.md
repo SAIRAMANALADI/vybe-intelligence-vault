@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PierreGode/Ragnar
-collected_at: '2026-07-02T01:48:10.538254+05:30'
+collected_at: '2026-07-02T04:13:16.286957+05:30'
 published_at: '2026-07-01T13:38:53Z'
 tags:
 - github-repo
@@ -17,11 +17,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2025-11-01T03:12:25Z'
-pushed_at: '2026-07-01T19:43:37Z'
+pushed_at: '2026-07-01T21:56:49Z'
 resource_id: github:pierregode/ragnar
-first_seen: '2026-07-02T01:48:10.538254+05:30'
-last_seen: '2026-07-02T01:48:10.538254+05:30'
-last_checked: '2026-07-02T01:48:10.538254+05:30'
+first_seen: '2026-07-02T04:13:16.286957+05:30'
+last_seen: '2026-07-02T04:13:16.286957+05:30'
+last_checked: '2026-07-02T04:13:16.286957+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose & Features**: Ragnar is a Python-based offensive security tool for Raspberry Pi, integrating a 2.13-inch e-Paper HAT for network scanning, target discovery, port enumeration, service identification, and vulnerability detection.
-- **Hardware Integration**: Designed to leverage Raspberry Pi’s GPIO with a dedicated e-Paper display for real-time data visualization of scan results.
-- **Project Context**: Serves as the predecessor ("Father") to another tool named Bjorn, with active development (last updated 2026-07-01) and a growing community (649 stars, 58 forks).
+- **Purpose**: Ragnar is a Python-based offensive security tool designed for Raspberry Pi, integrating a 2.13-inch e-Paper HAT for network scanning and vulnerability assessment.
+- **Functionality**: Discovers network targets, enumerates open ports, identifies exposed services, and detects vulnerabilities in scanned environments.
+- **Metadata**: Last updated July 1, 2026; 649 stars, 58 forks; no associated topics.
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2025-11-01T03:12:25Z
-- Pushed At: 2026-07-01T19:43:37Z
+- Pushed At: 2026-07-01T21:56:49Z
 
 ## Possible Use Cases
 

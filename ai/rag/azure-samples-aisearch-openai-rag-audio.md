@@ -4,16 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/aisearch-openai-rag-audio
-collected_at: '2026-07-02T01:47:35.577011+05:30'
-published_at: '2026-07-01T14:11:23Z'
+collected_at: '2026-07-02T04:12:41.498136+05:30'
+published_at: '2026-07-01T22:16:15Z'
 tags:
 - github-repo
+- hackernews
 - models
 - openai
 - python
 - rag
 - workflows
-stars: 555
+stars: 556
 language: Python
 status: active
 license: MIT
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-09-19T22:36:40Z'
 pushed_at: '2025-11-19T20:13:53Z'
 resource_id: github:azure-samples/aisearch-openai-rag-audio
-first_seen: '2026-07-02T01:47:35.577011+05:30'
-last_seen: '2026-07-02T01:47:35.577011+05:30'
-last_checked: '2026-07-02T01:47:35.577011+05:30'
+first_seen: '2026-07-02T04:12:41.498136+05:30'
+last_seen: '2026-07-02T04:12:41.498136+05:30'
+last_checked: '2026-07-02T04:12:41.498136+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates the VoiceRAG pattern using Azure AI Search for vector retrieval and Azure OpenAI's `gpt-4o-realtime-preview` model for real-time interactive voice generative AI experiences.
-- **Architecture**: Combines Retrieval-Augmented Generation (RAG) with Azure services to enable dynamic, context-aware voice interactions via a Python-based pipeline.
-- **Key Components**: Leverages Azure AI Search (vector database), OpenAI's gpt-4o-realtime-preview, and Azure deployment templates for scalable, end-to-end voice RAG workflows.
+- **Implementation of VoiceRAG Pattern**: Demonstrates interactive voice generative AI using Retrieval-Augmented Generation (RAG) with Azure AI Search and Azure OpenAI's `gpt-4o-realtime-preview` model for real-time audio processing.
+
+- **Technical Stack**: Python-based solution leveraging Azure AI Search (vector database) and OpenAI's API for multimodal (audio/text) RAG workflows.
+
+- **Deployment & Scalability**: Designed as an AZD (Azure Developer CLI) template, enabling rapid deployment and scaling of voice-enabled RAG applications on Azure.
 
 ## Why It Matters
 
@@ -42,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Azure-Samples
-- Stars: 555
+- Stars: 556
 - Forks: 352
 - Language: Python
 - Topics: ai-azd-templates, azd-templates, azure, azure-ai-search, generative-ai, gpt, language-model, openai, rag, retrieval-augmented-generation, search, vector-database
-- Last Updated: 2026-07-01T14:11:23Z
+- Last Updated: 2026-07-01T22:16:15Z
 - License: MIT
 - Archived: No
 - Created At: 2024-09-19T22:36:40Z

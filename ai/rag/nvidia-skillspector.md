@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/SkillSpector
-collected_at: '2026-07-01T22:58:18.515023+05:30'
-published_at: '2026-07-01T17:10:14Z'
+collected_at: '2026-07-02T04:14:56.466196+05:30'
+published_at: '2026-07-01T22:39:07Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-stars: 11724
+stars: 11744
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-03-21T00:28:43Z'
 pushed_at: '2026-07-01T05:30:13Z'
 resource_id: github:nvidia/skillspector
-first_seen: '2026-07-01T22:58:18.515023+05:30'
-last_seen: '2026-07-01T22:58:18.515023+05:30'
-last_checked: '2026-07-01T22:58:18.515023+05:30'
+first_seen: '2026-07-02T04:14:56.466196+05:30'
+last_seen: '2026-07-02T04:14:56.466196+05:30'
+last_checked: '2026-07-02T04:14:56.466196+05:30'
 health_score: 100
 ---
 
@@ -30,8 +31,8 @@ health_score: 100
 ## Summary
 
 - **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to identify vulnerabilities, malicious patterns, and security risks without executing the code.
-- **Python-Based**: Implemented in Python, leveraging libraries for abstract syntax tree (AST) parsing and pattern matching to analyze skill definitions.
-- **Rule-Based Detection**: Uses predefined rules and heuristics to flag insecure practices, unsafe function calls, or suspicious logic in AI agent skills.
+- **Python-Based**: Implemented in Python, leveraging static analysis techniques to inspect AI agent skill definitions, configurations, and dependencies.
+- **Open-Source Security Scanner**: Released under an open-source license, enabling community-driven security audits and enhancements for AI agent ecosystems.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVIDIA
-- Stars: 11724
-- Forks: 957
+- Stars: 11744
+- Forks: 959
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-01T17:10:14Z
+- Last Updated: 2026-07-01T22:39:07Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-03-21T00:28:43Z

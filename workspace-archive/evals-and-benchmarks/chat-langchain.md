@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - hackernews
 - web-crawled
 selection_reason:
@@ -31,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Latency & Throughput Trade-offs**: The article discusses the inherent trade-offs between latency and throughput in distributed systems, emphasizing how optimizing for one often degrades the other due to factors like network congestion, queueing delays, and synchronization overhead.
+- **Performance Bottleneck Identification**: The article discusses methods to identify performance bottlenecks in computing systems, focusing on CPU, memory, and I/O subsystems using profiling tools like `perf`, `vtune`, and `strace`.
 
-- **Consensus Protocols**: It evaluates modern consensus algorithms (e.g., Paxos, Raft, PBFT) in terms of fault tolerance, message complexity, and performance under varying workloads, highlighting their suitabili
+- **Optimization Techniques**: Highlights low-level optimization strategies such as loop unrolling, SIMD (Single Instruction Multiple Data) vectorization, and cache-aware algorithms to improve computational efficiency.
+
+- **Benchmarking & Validation**: Emphasizes
 
 ## Use Cases
 

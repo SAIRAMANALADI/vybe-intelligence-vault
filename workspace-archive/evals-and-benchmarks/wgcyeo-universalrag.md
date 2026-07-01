@@ -12,8 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- hackernews
-- models
 - python
 - rag
 selection_reason:
@@ -34,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: UniversalRAG introduces a unified retrieval-augmented generation (RAG) framework designed to handle diverse modalities (e.g., text, images, tables) and granularities (e.g., documents, passages, entities) within a single pipeline, leveraging modality-agnostic retrieval and generation mechanisms.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence-level) via unified indexing and retrieval mechanisms.
 
-- **Key Innovation**: Implements a **modality-agnostic retriever** that dynamically adapts to varying input types, paired with a **granularity-aware generator** that synthesizes
+- **Modality-Agnostic Retrieval**: Implements cross-modal retrieval using modality-specific encoders (e.g., CLIP for vision-language) and a shared embedding space, allowing dynamic fusion of heterogeneous data sources during genera
 
 ## Use Cases
 

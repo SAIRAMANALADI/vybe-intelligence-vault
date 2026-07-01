@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzhao062/pyod
-collected_at: '2026-07-01T22:58:13.028686+05:30'
+collected_at: '2026-07-02T04:14:51.384790+05:30'
 published_at: '2026-07-01T09:35:04Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -22,9 +21,9 @@ archived: false
 created_at: '2017-10-03T20:29:04Z'
 pushed_at: '2026-06-17T02:43:09Z'
 resource_id: github:yzhao062/pyod
-first_seen: '2026-07-01T22:58:13.028686+05:30'
-last_seen: '2026-07-01T22:58:13.028686+05:30'
-last_checked: '2026-07-01T22:58:13.028686+05:30'
+first_seen: '2026-07-02T04:14:51.384790+05:30'
+last_seen: '2026-07-02T04:14:51.384790+05:30'
+last_checked: '2026-07-02T04:14:51.384790+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ anomaly detection algorithms for tabular, time series, graph, text, image, and audio data, with benchmark-backed performance evaluation via ADEngine.
+- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, with benchmark-backed ADEngine orchestration for unified evaluation and deployment.
 
-- **Agentic Workflow & Multimodal Support**: Integrates an agentic workflow for AI-driven anomaly detection and handles multimodal data (text, image, audio) alongside traditional tabular and time-series formats.
+- **Agentic Workflow Integration**: Enables AI agents to autonomously orchestrate anomaly detection pipelines via agentic workflows, leveraging foundation models for adaptive and multimodal analysis.
 
-- **Fraud & Graph Anomaly Detection**: Specialized modules for fraud detection, graph anomaly detection, and out-of-distribution (OOD) detection, leveraging deep learning and unsupervised learning techniques.
+- **Multimodal & Unsupervised Capabilities**: Implements outlier ensembles, novelty detection, and OOD (out-of-distribution) detection, with specialized modules for fraud, graph, and time-series anomaly detection.
 
 ## Why It Matters
 

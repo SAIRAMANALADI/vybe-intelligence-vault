@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Graph-Enhanced Indexing**: LightRAG constructs a knowledge graph by extracting entities and relationships from segmented document chunks using LLM-based functions (`R(·)` for extraction, `P(·)` for key-value profiling, and `D(·)` for deduplication), enabling multi-hop subgraph reasoning and efficient retrieval via structured key-value mappings.
+- **Graph-Enhanced Indexing**: LightRAG constructs a knowledge graph by extracting entities and relationships from text chunks using LLM-based functions (`R(·)` for extraction, `P(·)` for key-value profiling, and `D(·)` for deduplication), enabling efficient multi-hop retrieval and contextual understanding.
 
-- **Dual-Level Retrieval Paradigm**: Implements low-level (entity-specific) and high-level (abstract/conceptual) retrieval strategies, combining gra
+- **Dual-Level Retrieval Paradigm**: Implements low-level (entity-specific) and high-level (abstract/theme-based) retrieval via graph and vector representations, optimizing both precision (e
 
 ## Use Cases
 

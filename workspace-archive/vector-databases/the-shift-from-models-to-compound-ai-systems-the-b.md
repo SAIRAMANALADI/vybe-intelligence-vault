@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Emergence of Compound AI Systems**: State-of-the-art AI results are increasingly achieved through compound systems integrating multiple components (e.g., LLMs, symbolic solvers, retrieval mechanisms) rather than monolithic models alone, as demonstrated by systems like AlphaCode 2, AlphaGeometry, and RAG pipelines.
+- **Emergence of Compound AI Systems**: State-of-the-art AI results are increasingly achieved through compound systems (e.g., Google’s AlphaCode 2, AlphaGeometry) integrating multiple components (LLMs, symbolic solvers, retrieval, execution modules) rather than monolithic models, enabling higher reliability and dynamic adaptability.
 
-- **Key Drivers for Compound Systems**: Performance gains via system design (e.g., iterative sampling/filtering), dynamic knowledge integration (e.g., retrieval-augmented generati
+- **Key Drivers for Compound Systems**: System design enables task-specific optimizations (e.g., multi-sample filtering in AlphaCode 2), dynamic knowledge integrati
 
 ## Use Cases
 

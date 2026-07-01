@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/agents-towards-production
-collected_at: '2026-07-02T01:48:20.549562+05:30'
+collected_at: '2026-07-02T04:13:26.314027+05:30'
 published_at: '2026-07-01T15:39:36Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-06-16T17:33:44Z'
 pushed_at: '2026-06-17T20:54:13Z'
 resource_id: github:nirdiamant/agents-towards-production
-first_seen: '2026-07-02T01:48:20.549562+05:30'
-last_seen: '2026-07-02T01:48:20.549562+05:30'
-last_checked: '2026-07-02T01:48:20.549562+05:30'
+first_seen: '2026-07-02T04:13:26.314027+05:30'
+last_seen: '2026-07-02T04:13:26.314027+05:30'
+last_checked: '2026-07-02T04:13:26.314027+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Tutorials**: Provides end-to-end, code-first guides for developing production-grade GenAI agents, covering prototype to enterprise deployment with a focus on practical implementation.
+- **Purpose**: Provides end-to-end, code-first tutorials for building production-grade GenAI agents, covering development from prototype to enterprise deployment.
 
-- **Multi-Framework Support**: Integrates key technologies including LangGraph, MCP, RAG, and multi-agent systems, with observability and MLOps practices for scalable AI agent deployment.
+- **Technical Stack**: Utilizes Python, Jupyter Notebooks, LangGraph, and MCP for agent frameworks, RAG, multi-agent systems, and observability in GenAI applications.
 
-- **Python & Jupyter Notebooks**: Delivers tutorials in Python and Jupyter Notebooks, emphasizing hands-on learning for GenAI, LLMs, and agentic AI systems.
+- **Scope**: Includes MLOps, deployment strategies, and enterprise-grade integration of LLMs, with a focus on production readiness and scalability.
 
 ## Why It Matters
 

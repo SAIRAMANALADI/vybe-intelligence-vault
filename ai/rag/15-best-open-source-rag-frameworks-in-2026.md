@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-07-02T01:46:52.254290+05:30'
-collected_at: '2026-07-02T01:46:52.254305+05:30'
+published_at: '2026-07-02T04:11:58.492053+05:30'
+collected_at: '2026-07-02T04:11:58.492065+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-07-02T01:46:52.254305+05:30'
-last_seen: '2026-07-02T01:46:52.254305+05:30'
-last_checked: '2026-07-02T01:46:52.254305+05:30'
+first_seen: '2026-07-02T04:11:58.492065+05:30'
+last_seen: '2026-07-02T04:11:58.492065+05:30'
+last_checked: '2026-07-02T04:11:58.492065+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Firecrawl**: AI-powered web scraping engine for LLM-friendly data extraction at scale, offering structured document generation (e.g., `llms.txt`), dynamic site crawling, and deep research capabilities via API.
+- **Firecrawl**: AI-powered web scraping engine for LLM-friendly data extraction at scale, featuring structured document conversion (Markdown/HTML), agent-based data retrieval, and deep research capabilities via REST APIs for RAG pipeline enrichment.
 
-- **LangChain**: Modular framework for RAG pipelines with model flexibility, vector store integrations, retrieval components, and evaluation tools; supports LangSmith/LangGraph for debugging/workflow management (`pip install -U langchain`).
+- **RAGFlow**: Open-source RAG engine with deep document parsing (PDFs/tables/layouts), GraphRAG support for knowledge graphs, and dual storage backends (Elasticsearch/Infinity), optimized for complex document understanding in production workflows.
 
-- **Milvus**: Cloud-native vector database optimized for scalable ANN similarity search, supporting hybrid queries, multi-modal embeddings, and enterprise-grade features for production RAG systems (e.g., `docker run milvusdb/milvus:latest`).
+- **Milvus**: Cloud-native vector database specializing in ANN-based similarity search, offering hybrid retrieval (vector + scalar filtering), multi-modal embedding support, and horizontal scalability for billion-scale RAG deployments with enterprise-grade consistency.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T01:46:52.254290+05:30
+- Published: 2026-07-02T04:11:58.492053+05:30
 
 ## Related Tags
 

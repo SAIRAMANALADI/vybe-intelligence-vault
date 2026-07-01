@@ -8,15 +8,16 @@ local_vault_path: ai/rag/patchy631-ai-engineering-hub.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
 - jupyter notebook
 - rag
+- workflows
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # patchy631/ai-engineering-hub
@@ -25,17 +26,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Comprehensive LLM & RAG Tutorials**: Repository provides detailed, hands-on guides on Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) architectures, including implementation in Jupyter Notebooks.
+- **Comprehensive LLM & RAG Tutorials**: Repository provides detailed, hands-on guides on Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems, including implementation in Jupyter Notebooks.
 
-- **Real-World AI Agent Applications**: Covers practical deployments of AI agents, integrating LLMs and RAG with tools like MCP (Model Context Protocol) for scalable, production-grade solutions.
+- **Real-World AI Agent Applications**: Covers practical deployments of AI agents, demonstrating end-to-end workflows and integration with modern AI frameworks (e.g., MCP).
 
-- **Active Development & Community Engagement**: Maintained with frequent updates
+- **Active Development & Community**: Maintained with recent updates (as of July 2026), featuring 36,259 star
 
 ## Use Cases
 

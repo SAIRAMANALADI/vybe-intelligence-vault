@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Gemini 3.5 Flash** achieves frontier-level performance in agentic tasks and coding, outperforming prior models (e.g., 76.2% on Terminal-Bench 2.1, 84.2% on CharXiv Reasoning) while delivering **4x faster output tokens per second** than competing models.
+- **Gemini 3.5 Flash** achieves frontier-level performance in agentic tasks and coding, outperforming prior models (e.g., 76.2% on Terminal-Bench 2.1) while delivering **4x faster output tokens per second** than competing models.
 
-- **Agentic scalability** enabled via **Antigravity harness**, allowing multi-step workflows (e.g., codebase refactoring, game development) and **subagent collaboration** for complex, long-horizon tasks with reduced latency and cost.
+- **Enhanced agentic workflows** via Google Antigravity enable multi-step, long-horizon automation (e.g., codebase refactoring, financial document processing) at **<50% cost** of other frontier models, with subagents for parallelized task execution.
 
-- **Fr
+- **Frontier safet
 
 ## Use Cases
 

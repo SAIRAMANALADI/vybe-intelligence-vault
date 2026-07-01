@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Observability & LLM Integration**: Implements Langfuse for LLM observability with support for 100+ providers via LiteLLM, enabling comprehensive monitoring and debugging of RAG workflows.
+- **Observability & LLM Integration**: Implements Langfuse for LLM observability and supports 100+ providers via LiteLLM for seamless LLM integration and monitoring.
 
-- **DevOps & Type Safety**: Fully Dockerized with TypeScript-based full type-checking and 100% test coverage, ensuring robust deployment and maintainability.
+- **DevOps & Type Safety**: Fully Dockerized with TypeScript, ensuring portability and type-checking; includes 100% test coverage for reliability.
 
-- **Scalability & Extensibility**: Designed for modularity with multi-provider LLM support, facilitating scalable and adaptable RAG applications.
+- **Scalability & Metadata**: Designed for RAG workflows with structured metadata handling, optimized for AI/ML pipelines and extensible provider support.
 
 ## Use Cases
 

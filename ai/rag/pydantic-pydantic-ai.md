@@ -5,7 +5,7 @@ source_type: github_releases
 source_name: GitHub Releases AI
 source_url: https://github.com/pydantic/pydantic-ai
 published_at: '2026-07-01T00:01:01Z'
-collected_at: '2026-07-02T01:46:03.454976+05:30'
+collected_at: '2026-07-02T04:11:07.504306+05:30'
 tags:
 - anthropic
 - dataset
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: github:pydantic/pydantic-ai
 first_seen: '2026-06-16T13:57:15.241580+05:30'
-last_seen: '2026-07-02T01:46:03.454976+05:30'
-last_checked: '2026-07-02T01:46:03.454976+05:30'
+last_seen: '2026-07-02T04:11:07.504306+05:30'
+last_checked: '2026-07-02T04:11:07.504306+05:30'
 health_score: 100
 ---
 

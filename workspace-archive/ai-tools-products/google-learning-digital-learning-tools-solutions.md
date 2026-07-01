@@ -2,7 +2,7 @@
 title: Google Learning - Digital Learning Tools & Solutions
 archive_category: ai-tools-products
 source_category: ai/resources
-source_url: https://learning.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+source_url: https://learning.google/
 resource_id: blog:google-learning-digital-learning-tools-solutions
 local_vault_path: ai/resources/google-learning-digital-learning-tools-solutions.md
 quality_score: 70
@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **AI Integration in Education**: Google's AI tools like *Gemini for Education* enhance personalized learning, provide real-time feedback, and improve accessibility for students and educators, while *Generative AI for Educators Course* offers training for AI-driven teaching strategies.
+- **AI-Powered Education Tools**: Google integrates AI (e.g., Gemini, NotebookLM) into education to personalize learning, provide real-time feedback, enhance accessibility, and automate administrative tasks for educators via Google Workspace for Education.
 
-- **AI-Powered Workforce Development**: Tools such as *Gemini for Google Workspace* and *Grow with Google* boost productivity, teamwork, and skill acquisition, with AI trainings available for in-demand technical
+- **AI-Driven Workforce & Lifelong Learning**: AI tools (e.g., Shiffbot, Illuminate) are deployed to upskill professionals (Google Cloud, Workspace) and assist individuals in career growth (Grow with Google) through structured training and AI
 
 ## Use Cases
 
@@ -46,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://learning.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+Original source URL: https://learning.google/
 
 ## Local Vault File
 

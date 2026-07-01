@@ -3,16 +3,16 @@ title: Client Challenge
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://pypi.org/project/jupyterlite
-published_at: '2026-07-01T15:53:09.879444+05:30'
-collected_at: '2026-07-01T15:53:09.879456+05:30'
+source_url: https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history
+published_at: '2026-07-02T04:21:13.158514+05:30'
+collected_at: '2026-07-02T04:21:13.158520+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:client-challenge
-first_seen: '2026-07-01T15:53:09.879456+05:30'
-last_seen: '2026-07-01T15:53:09.879456+05:30'
-last_checked: '2026-07-01T15:53:09.879456+05:30'
+first_seen: '2026-07-02T04:21:13.158520+05:30'
+last_seen: '2026-07-02T04:21:13.158520+05:30'
+last_checked: '2026-07-02T04:21:13.158520+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **JavaScript Dependency**: The webpage requires JavaScript to function; it is currently disabled in the user's browser.
-- **Possible Causes**: Disabled JavaScript, browser extensions (e.g., ad blockers), network issues, or browser settings may prevent loading.
-- **Recommended Actions**: Enable JavaScript, disable extensions, check network connectivity, or switch browsers.
+- **JavaScript Dependency**: The webpage requires JavaScript to function, which is currently disabled in the user's browser.
+- **Potential Causes**: Disabled JavaScript, browser extensions, network issues, or browser settings may be preventing the page from loading.
+- **Recommended Actions**: Enable JavaScript, check network connection, disable ad blockers, or try using a different browser.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-01T15:53:09.879444+05:30
+- Published: 2026-07-02T04:21:13.158514+05:30
 
 ## Related Tags
 
@@ -40,4 +40,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://pypi.org/project/jupyterlite
+Original source: https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history

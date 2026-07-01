@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Chrome**: Chromium-based browser with V8 JavaScript engine, Blink rendering engine, and built-in sandboxing for security.
-- **Google Cloud**: Enterprise-grade cloud platform offering Compute Engine, BigQuery, and Kubernetes Engine for scalable infrastructure.
-- **Google Ads**: Programmatic advertising platform leveraging ML for bid optimization, audience targeting, and real-time bidding (RTB) auctions.
+- **Google Workspace Status Dashboard**: Provides real-time status and incident reports for Google products and services, enabling users to check for outages or downtime.
+- **Google Product Experts Program**: A community initiative where selected experts provide peer-to-peer support and insights across various Google products.
+- **Google Account Recovery & Transactions**: Centralized portal for account access recovery and management of recent financial transactions via Google Payments.
 
 ## Use Cases
 

@@ -4,10 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-02T01:47:25.494721+05:30'
+collected_at: '2026-07-02T04:12:31.163381+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
-- benchmark
+- dataset
 - github-repo
 - jupyter notebook
 - models
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-02T01:47:25.494721+05:30'
-last_seen: '2026-07-02T01:47:25.494721+05:30'
-last_checked: '2026-07-02T01:47:25.494721+05:30'
+first_seen: '2026-07-02T04:12:31.163381+05:30'
+last_seen: '2026-07-02T04:12:31.163381+05:30'
+last_checked: '2026-07-02T04:12:31.163381+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM interactions with retrieved data.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for dynamic visualization of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time analysis of retrieval and generation processes.
 
-- **Streamlit-Powered UI**: Implements a Streamlit-based web interface for real-time, interactive exploration of RAG components (e.g., retrieval mechanisms, prompt engineering, and model outputs) with minimal latency.
+- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based exploration, allowing users to inspect RAG components (e.g., embeddings, retrieval scores, LLM outputs) via a user-friendly dashboard.
 
-- **Modular Python Framework**: Built in Python with extensible components for custom RAG pipelines, supporting integration with LLMs, vector databases, and evaluation metrics for debugging and optimization.
+- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom datasets, retrieval models, and LLM integrations; last updated June 2026.
 
 ## Why It Matters
 

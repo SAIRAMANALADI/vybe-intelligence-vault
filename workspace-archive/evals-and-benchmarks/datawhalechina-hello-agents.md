@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational Repository**: Provides a comprehensive tutorial (`《从零开始构建智能体》`) on building intelligent agents from scratch, covering both theoretical foundations and practical implementations.
+- **Repository Overview**: A comprehensive Chinese tutorial repository (`datawhalechina/hello-agents`) focused on building intelligent agents from scratch, covering both theoretical principles and practical implementations.
 
-- **Technical Stack**: Implemented in Python, leveraging Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and agent-based architectures for hands-on learning.
+- **Technical Scope**: Covers key AI/ML concepts including **Large Language Models (LLM)**, **Retrieval-Augmented Generation (RAG)**, and agent-based system architectures, implemented in Python.
 
-- **Repository Metrics**: Highly active with 63,258 stars and 7,827 forks, last updated on July 1, 2026, indicating strong com
+- **Project Metrics**: Highly active with **63,263 stars**, **7,827 forks**, an
 
 ## Use Cases
 

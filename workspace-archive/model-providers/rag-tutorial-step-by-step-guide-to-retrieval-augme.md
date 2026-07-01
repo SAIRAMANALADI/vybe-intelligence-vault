@@ -9,7 +9,7 @@ local_vault_path: ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
@@ -21,7 +21,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org
@@ -30,18 +30,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline**: A 5-step process comprising document loading, chunking, embedding/indexing (using ChromaDB), retrieval (semantic similarity search), and generation (LLM with retrieved context) to produce grounded, citable answers from external data.
+- **RAG Architecture**: A 5-step pipeline—**Load** (ingest documents), **Chunk** (split into retrieval-sized segments), **Embed** (convert to vector embeddings via `text-embedding-3-small`), **Retrieve** (semantic search using ChromaDB with `k=4` chunks), and **Generate** (LLM response grounded in retrieved context using `gpt-4o-mini` with zero-temperature sampling).
 
-- **Chunking Strategy**: Recursive character splitting with 512-token chunks and 50-token overlap optimizes semantic boundaries for retrieval, balancing context retention and precision in vector similarity matching.
-
-- **Production Enhancements*
+- **Key Components**: Uses **LangChain** for modular pipeline orchestration, **ChromaDB** for vector storage, and **OpenAI’s embe
 
 ## Use Cases
 

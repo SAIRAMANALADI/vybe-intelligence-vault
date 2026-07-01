@@ -6,10 +6,10 @@ source_url: https://mlflow.org/
 resource_id: blog:mlflow-open-source-ai-platform-for-agents-llms-mod
 local_vault_path: ai/agents/mlflow-open-source-ai-platform-for-agents-llms-mod.md
 quality_score: 70
-archive_score: 72
+archive_score: 84
 archive_tier: useful
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
 - anthropic
@@ -29,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 84 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Observability & Tracing**: MLflow provides end-to-end tracing of LLM applications and agents using OpenTelemetry, enabling deep behavioral insights, production monitoring (quality, cost, safety), and issue detection across correctness, latency, execution, adherence, relevance, and safety dimensions.
+- **Observability & Tracing**: MLflow provides end-to-end tracing of LLM applications and agents using OpenTelemetry, enabling deep behavioral insights, production monitoring, and cost/safety tracking across any LLM provider or agent framework.
 
-- **Unified AI Engineering Platform**: Supports prompt versioning/optimization, AI Gateway for multi-provider LLM routing, and Agent Server for FastAPI-based deployment with built-in tracing, va
+- **Evaluation & Optimization**: Supports 50+ built-in metrics and LLM-as-a-judge evaluations with automated issue detection (correctness, latency, safety), plus prompt versioning, A/B testing, and optimization via state-of-the-art algorithms.
+
+- **Unifi
 
 ## Use Cases
 

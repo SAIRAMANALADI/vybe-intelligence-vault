@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Language Best Practices Repository**: Curated collection of coding standards and best practices for TypeScript, Kotlin, Go, Java (Spring Boot), PHP (Laravel), Dart (Flutter), and more, aimed at guiding AI agents in framework and language-specific implementations.
+- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding guidelines for AI agents, covering multiple frameworks (e.g., Angular, NestJS, Spring Boot) and platforms (Android, iOS, Flutter, React Native).
 
-- **Framework-Specific Standards**: Includes structured guidelines for modern frameworks such as React, Next.js, Angular, NestJS, and Android/iOS development, ensuring AI agents adhere to optimized patterns and avoid anti-pat
+- **Key Features**: Includes language-specific standards (TypeScript, Kotlin, Go), framework-specific rules (Next.js, Laravel, React), and tooling integrations (Cursor Rules) to enforce consistency in AI-driven development workflows.
+
+- **Maintenance & Co
 
 ## Use Cases
 

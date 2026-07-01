@@ -4,7 +4,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 
 | Repository | Focus Category | Quality Score |
 | :--- | :--- | :--- |
-| [crewAIInc/crewAI Release: 1.15.2a1](https://github.com/crewaiinc/crewai) | `ai-coding-agents/` | 70 |
+| [crewAIInc/crewAI Release: 1.15.2a2](https://github.com/crewaiinc/crewai) | `ai-coding-agents/` | 70 |
 | [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) | `ai-coding-agents/` | 70 |
 | [LangChain · GitHub](https://github.com/langchain-ai) | `ai-coding-agents/` | 70 |
 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | `ai-coding-agents/` | 70 |
@@ -13,6 +13,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [firecrawl repositories · GitHub](https://github.com/orgs/firecrawl/repositories?q=sort%3Astars) | `ai-coding-agents/` | 70 |
 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | `ai-coding-agents/` | 70 |
 | [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) | `ai-coding-agents/` | 70 |
+| [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `ai-coding-agents/` | 70 |
 | [cline/cline](https://github.com/cline/cline) | `ai-coding-agents/` | 70 |
 | [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) | `ai-coding-agents/` | 70 |
 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/omniroute) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) | `ai-coding-agents/` | 70 |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | `ai-coding-agents/` | 70 |
 | [Zijian-Ni/awesome-ai-agents-2026](https://github.com/Zijian-Ni/awesome-ai-agents-2026) | `ai-coding-agents/` | 70 |
-| [aden-hive/hive](https://github.com/aden-hive/hive) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

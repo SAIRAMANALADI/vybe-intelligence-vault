@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/
-published_at: '2026-07-02T01:50:12.604432+05:30'
-collected_at: '2026-07-02T01:50:12.604449+05:30'
+published_at: '2026-07-02T04:15:07.114707+05:30'
+collected_at: '2026-07-02T04:15:07.114719+05:30'
 tags:
 - frontend_ui
 - web-crawled
 status: active
 resource_id: blog:the-world-s-fastest-framework-for-building-website
-first_seen: '2026-07-02T01:50:12.604449+05:30'
-last_seen: '2026-07-02T01:50:12.604449+05:30'
-last_checked: '2026-07-02T01:50:12.604449+05:30'
+first_seen: '2026-07-02T04:15:07.114719+05:30'
+last_seen: '2026-07-02T04:15:07.114719+05:30'
+last_checked: '2026-07-02T04:15:07.114719+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Licensing & Adoption**: Distributed under Apache 2.0 License; 88,799 GitHub stars (as of June 30, 2026) with an active community and frequent releases.
-- **Performance & Architecture**: Go-based, optimized for speed; renders large sites in seconds with advanced templating and asset pipelines (image/Sass/JS processing).
-- **Flexibility & Tooling**: Supports multilingual sites, taxonomies, and embedded dev server; includes TailwindCSS support, image EXIF extraction, and JavaScript bundling (tree-shaking/code-splitting).
+- **License & Popularity**: Distributed under Apache 2.0 License with 88,811 GitHub stars (as of July 1, 2026).
+- **Performance & Flexibility**: Go-based, optimized for speed; renders large sites in seconds with advanced templating and asset pipelines.
+- **Features**: Supports multilingual content, powerful taxonomies, image/Sass/JS processing, and includes an embedded web server for live reloading.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-02T01:50:12.604432+05:30
+- Published: 2026-07-02T04:15:07.114707+05:30
 
 ## Related Tags
 

@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Account Recovery & Security**: Google provides structured recovery steps for lost/locked accounts, including 2-Step Verification, Advanced Protection, and Enhanced Safe Browsing to mitigate unauthorized access risks.
-
-- **Data & Privacy Controls**: Users can manage activity logs, location data, and linked app permissions via Google’s centralized privacy settings, enabling granular control over stored personal information.
-
-- **Family & Cross-Platform Management**: Supports supervised child a
+- **Google Account Security**: Supports 2-Step Verification, Advanced Protection, and Enhanced Safe Browsing; includes suspicious activity monitoring and digital ID linking for enhanced security.
+- **Account Recovery & Management**: Provides tools for password reset, recovery of hacked/compromised accounts, deletion of activity/data, and configuration of recovery options.
+- **Privacy & Data Control**: Enables management of activity controls, location settings, data downloads/deletion, and granul
 
 ## Use Cases
 

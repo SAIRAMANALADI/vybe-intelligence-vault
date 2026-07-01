@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 11,491</p>
-        <p><b>Active:</b> 11,185 | <b>Inactive:</b> 306</p>
+        <p><b>Resources tracked:</b> 11,511</p>
+        <p><b>Active:</b> 11,203 | <b>Inactive:</b> 308</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 43,807</p>
+        <p><b>Archive Files:</b> 43,860</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-02 03:00 IST</p>
+        <p><b>Last Update:</b> 2026-07-02 04:28 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,19 +55,26 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+11</kbd>
-- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+11</kbd>
-- 🔼 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Sony Deletes 551 Movies PlayStation Owners Paid For](ai/community/sony-deletes-551-movies-playstation-owners-paid-fo.md)** • <kbd>+121 pts</kbd>
+- 🔼 **[Overview - Knative](ai/rag/overview-knative.md)** • Rank: <kbd>+1114</kbd>
+- 🔼 **[Home - Coalition for Secure AI](ai/rag/home-coalition-for-secure-ai.md)** • Rank: <kbd>+3756</kbd>
+- 🔼 **[Web Vitals | Articles | web.dev](ai/resources/web-vitals-articles-web-dev.md)** • Rank: <kbd>+319</kbd>
+- 🔼 **[Apps Script | Google for Developers](ai/agents/apps-script-google-for-developers.md)** • Rank: <kbd>+2877</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[OpenWiki: CLI that writes and maintains agent documentation for your codebase](ai/community/langchain-ai-openwiki.md)** • Score: `8`
+- 🆕 **[Experience AI](ai/rag/experience-ai.md)** • Score: `0`
+- 🆕 **[Google Cloud Platform](ai/resources/google-cloud-platform.md)** • Score: `0`
+- 🆕 **[Educator Resources & Technology Training - Google for Education - Google for Education](ai/rag/educator-resources-technology-training-google-for.md)** • Score: `0`
+- 🆕 **[Education: Programs Overview | Google Cloud](ai/rag/education-programs-overview-google-cloud.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Apple 'Hide My Email' vulnerability reveals peoples' real email addresses](ai/community/apple-hide-my-email-vulnerability-reveals-peoples.md)**
+- 💤 **[Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps](ai/community/division-36-z-jail.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

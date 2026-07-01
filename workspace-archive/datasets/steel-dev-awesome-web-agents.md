@@ -15,6 +15,7 @@ tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - python
 - scripts
 selection_reason:
@@ -35,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Tools & Frameworks**: Repository aggregates Python-based libraries, frameworks, and tools for developing AI web agents, including browser automation, LLM integration, and agent orchestration.
-- **Benchmarking & Evaluation**: Includes resources for benchmarking LLM performance in web agent tasks, with datasets and metrics for assessing agent capabilities.
-- **Community-Driven**: Actively maintained list with 1,490+ stars and 193 forks, last updated July 2026, covering AI agents, autom
+- **Curated Resource List**: Repository aggregating tools, frameworks, and resources for developing AI web agents, including browser automation, LLM benchmarking, and agent orchestration libraries.
+
+- **Technical Scope**: Focuses on Python-based solutions with emphasis on LLMs, AI agents, and browser automation frameworks (e.g., Playwright, Selenium integrations).
+
+- **Benchmarking & Evaluation**: Includes curated benchmarks and datasets for assessing AI agent performance in web environments (e.
 
 ## Use Cases
 

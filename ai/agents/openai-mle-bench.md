@@ -4,12 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/openai/mle-bench
-collected_at: '2026-07-02T01:49:45.679640+05:30'
+collected_at: '2026-07-02T04:14:51.473147+05:30'
 published_at: '2026-07-01T07:16:10Z'
 tags:
 - agents
 - benchmark
-- dataset
 - github-repo
 - hackernews
 - openai
@@ -23,9 +22,9 @@ archived: false
 created_at: '2024-10-08T17:07:40Z'
 pushed_at: '2026-04-24T17:33:44Z'
 resource_id: github:openai/mle-bench
-first_seen: '2026-07-02T01:49:45.679640+05:30'
-last_seen: '2026-07-02T01:49:45.679640+05:30'
-last_checked: '2026-07-02T01:49:45.679640+05:30'
+first_seen: '2026-07-02T04:14:51.473147+05:30'
+last_seen: '2026-07-02T04:14:51.473147+05:30'
+last_checked: '2026-07-02T04:14:51.473147+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Scope**: MLE-bench evaluates AI agents' proficiency in end-to-end machine learning engineering tasks, including data preprocessing, model training, hyperparameter optimization, and deployment.
+- **MLE-bench**: A benchmark suite designed to evaluate AI agents' proficiency in machine learning engineering tasks, including model training, debugging, and deployment workflows.
 
-- **Technical Implementation**: Written in Python, it provides a standardized framework for testing agents' ability to handle real-world ML workflows, with tasks ranging from simple regression to complex deep learning pipelines.
+- **Technical Scope**: Implemented in Python, the benchmark assesses end-to-end ML engineering capabilities, such as hyperparameter optimization, error handling, and integration with ML frameworks (e.g., PyTorch, TensorFlow).
 
-- **Evaluation Metrics**: Measures agent performance via task completion rates, code correctness, runtime efficiency, and adaptability to unseen datasets or novel problem domains.
+- **Evaluation Metrics**: Measures performance via standardized tasks with automated scoring, focusing on correctness, efficiency, and robustness in real-world ML engineering scenarios.
 
 ## Why It Matters
 

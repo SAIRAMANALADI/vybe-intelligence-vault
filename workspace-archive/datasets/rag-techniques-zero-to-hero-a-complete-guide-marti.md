@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store (ANN indexes like HNSW/IVF+PQ), and an LLM generator conditioned on retrieved context; optionally includes rerankers, query rewriting, caching, and orchestration layers for precision/efficiency.
+- **Core RAG Pipeline**: Combines a retriever (vector/lexical) with an LLM generator, optionally enhanced by rerankers, query rewriting, caching, and orchestration layers for improved precision and efficiency.
 
-- **Chunking & Embeddings**: Text segmentation strategies (fixed-size, overlap, semantic, structure-aware, or LLM-based) directly impact retrieval quality; embeddings require domain-specific fine-tuning, dimensionality normaliz
+- **Chunking & Embeddings**: Text segmentation strategies (fixed-size, overlap, semantic, structure-aware) directly impact retrieval quality; domain-specific fine-tuning of embeddings (dimensionality, normalization) improves retrieval accuracy for multilingual/multimodal data.
+
+- **Multi-
 
 ## Use Cases
 

@@ -6,7 +6,7 @@ source_url: https://www.databricks.com/blog/optimizing-databricks-llm-pipelines-
 resource_id: blog:optimizing-databricks-llm-pipelines-with-dspy-data
 local_vault_path: ai/rag/optimizing-databricks-llm-pipelines-with-dspy-data.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **DSpy Integration**: Databricks optimizes LLM pipelines using **DSpy** (a framework for programming and optimizing LLM prompts) to enhance reliability and performance via structured prompt engineering and automatic prompt optimization.
+- **DSpy Integration**: Databricks optimizes LLM pipelines using **DSpy** (a framework for programming LLMs) to enhance prompt optimization, reduce manual tuning, and improve model performance via structured inference chains and automatic prompt adaptation.
 
-- **Modular Pipeline Design**: The article highlights **modular decomposition** of LLM pipelines (e.g., retrieval, reasoning, output parsing) to enable fine-grained optimization, caching, and parallel execution for scalability.
-
-- **Cost & Latency Trade-offs**
+- **Modular LLM Pipelines**: The article highlights **modular design patterns** for LLM workflows, enabling reusable components (e.g., retrievers, routers, and aggregators) to streamline development and deployment in Databricks’ unified data
 
 ## Use Cases
 

@@ -2,13 +2,13 @@
 title: DSPy
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://dspy.ai/
+source_url: http://dspy.ai
 resource_id: blog:dspy
 local_vault_path: ai/rag/dspy.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -22,7 +22,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # DSPy
@@ -31,18 +31,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **ReActV2 Module & LM/BaseLM Improvements**: Introduces enhanced ReActV2 module for improved reasoning loops with tools, alongside optimizations to LM/BaseLM for better performance and modularity in DSPy 3.3.0b1.
+- **ReActV2 Module & LM/BaseLM Improvements**: DSPy 3.3.0b1 introduces an updated ReAct module (ReActV2) and enhancements to LM/BaseLM, improving reasoning and tool-use capabilities in agentic workflows.
 
-- **Structured Task Definition via Signatures**: Enforces typed input/output fields (e.g., `email: str`, `event_name: str`) for maintainable, portable programs, replacing ad-hoc prompt engineering with declarative task definitions.
+- **Structured Task Definition via Signatures**: Tasks are defined using typed `InputField` and `OutputField` signatures (e.g., `email: str -> event_name: str, date: str`), enabling modular, maintainable, and optimizable programs without manual prompt engineering.
 
-- **Optimization & Composition Workflow**: Supports
+- **Optimization & Multimodal
 
 ## Use Cases
 
@@ -52,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://dspy.ai/
+Original source URL: http://dspy.ai
 
 ## Local Vault File
 

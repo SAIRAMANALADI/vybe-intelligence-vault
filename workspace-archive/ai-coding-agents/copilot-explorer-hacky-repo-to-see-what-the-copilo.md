@@ -7,7 +7,7 @@ source_url: https://thakkarparth007.github.io/copilot-explorer/posts/copilot-int
 resource_id: blog:copilot-explorer-hacky-repo-to-see-what-the-copilo
 local_vault_path: ai/rag/copilot-explorer-hacky-repo-to-see-what-the-copilo.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: prompt
 importance: medium
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Prompt Engineering**: Copilot constructs prompts by combining contextual snippets from the current file and other recently accessed files (up to 20) of the same language, including path markers, similar file references, and code before/after the cursor. The prompt is structured with prefix (context) and suffix (completion target), formatted for Codex's FIM (Fill-In-Middle) mode.
+- **Prompt Engineering Pipeline**: Copilot constructs prompts by combining the current file's context (prefix/suffix) with relevant snippets from other project files, enabling cross-file function/variable inference. The prompt includes structured metadata (e.g., file paths, language markers) and prioritizes elements via a "Prompt Wishlist" system, dynamically balancing token budgets for prefix/suffix.
 
-- **Snippet Extraction Logic**: Relevant snippets are extracted via `PromptWishlist` with prioritized elements (`
+- **Snippet Extraction & FIM Mode**: Relevant snippets are extracted from the 20 most recently
 
 ## Use Cases
 

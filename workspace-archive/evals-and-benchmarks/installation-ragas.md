@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- Installation via `pip install ragas` or latest from GitHub (`pip install git+https://github.com/vibrantlabsai/ragas.git`).
-- Editable install for contributions: `git clone https://github.com/vibrantlabsai/ragas.git && pip install -e .`.
-- Explicit dependency management for `langchain_openai`: `pip install -U "langchain-core>=0.2,<0.3" "langchain-openai>=0.1,<0.2" openai`.
+- Ragas can be installed via `pip install ragas` or from the GitHub main branch using `pip install git+https://github.com/vibrantlabsai/ragas.git`.
+- For development, clone the repository and install in editable mode: `git clone https://github.com/vibrantlabsai/ragas.git && pip install -e .`.
+- To avoid dependency conflicts with `langchain_openai`, explicitly install `langchain-core>=0.2,<0.3`, `langchain-openai>=0.1,<0.2`, and `openai`.
 
 ## Use Cases
 

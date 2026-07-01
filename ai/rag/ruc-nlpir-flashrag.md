@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/RUC-NLPIR/FlashRAG
-collected_at: '2026-07-02T01:48:00.568086+05:30'
+collected_at: '2026-07-02T04:13:06.335097+05:30'
 published_at: '2026-06-30T16:45:57Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-03-14T01:40:33Z'
 pushed_at: '2026-04-10T03:37:48Z'
 resource_id: github:ruc-nlpir/flashrag
-first_seen: '2026-07-02T01:48:00.568086+05:30'
-last_seen: '2026-07-02T01:48:00.568086+05:30'
-last_checked: '2026-07-02T01:48:00.568086+05:30'
+first_seen: '2026-07-02T04:13:06.335097+05:30'
+last_seen: '2026-07-02T04:13:06.335097+05:30'
+last_checked: '2026-07-02T04:13:06.335097+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit designed for high-performance Retrieval-Augmented Generation (RAG) research, optimized for speed and scalability in large language model (LLM) applications.
+- **Efficient RAG Framework**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experiments.
 
-- **Benchmark & Dataset Support**: The repository includes built-in benchmarks and datasets tailored for evaluating RAG systems, enabling reproducible experiments and performance comparisons across different configurations.
+- **Benchmark & Dataset Support**: Includes built-in benchmarks and datasets for evaluating RAG systems, enabling standardized performance comparisons across models and retrieval strategies.
 
-- **Modular Architecture**: FlashRAG provides a modular framework with pre-configured pipelines for retrieval, augmentation, and generation, supporting customization for advanced RAG research and deployment.
+- **Modular & Extensible**: Designed with modularity in mind, allowing researchers to easily integrate custom retrieval methods, language models, or evaluation metrics into the pipeline.
 
 ## Why It Matters
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
-resource_kind: template
+resource_kind: dataset
 importance: high
 tags:
 - agents
@@ -20,7 +20,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform
@@ -29,16 +29,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: template
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Haystack Enterprise Platform** is a production-ready framework for building, testing, and deploying custom AI agents and applications with enterprise-grade security, scalability, and support, leveraging the open-source Haystack framework for orchestration.
+- **Enterprise AI Orchestration**: deepset's Haystack Enterprise Platform enables end-to-end development, testing, deployment, and monitoring of production-ready AI agents and applications with enterprise-grade security, scalability, and governance.
 
-- **Core Features**: Supports multimodal indexing (text, tables, images, documents) with sensitive/classified data handling, composable AI orchestration for vendor-agnostic LLM integration, and pre-built pipeline templates for rapid proto
+- **Multimodal & Sovereign Data Handling**: Supports accurate retrieval across text, tables, images, and documents with built-in metadata management, multimodal indexing, and compliance for sensitive/classified data in sovereign control environments
 
 ## Use Cases
 

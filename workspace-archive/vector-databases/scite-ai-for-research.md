@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Database & Coverage**: Aggregates 280M+ full-text scholarly articles, patents, datasets, and preprints from 40+ publishers (e.g., Wiley, SAGE) and open-access sources, enabling full-text search beyond abstracts.
+- **Database & Coverage**: Scite indexes **1.6B+ citations** across **280M+ full-text scholarly articles**, patents, clinical trials, grants, preprints, and datasets, with direct publisher agreements (e.g., Wiley, SAGE, 40+ others) enabling full-text search beyond abstracts.
 
-- **Smart Citation Intelligence**: Classifies citations as *supporting*, *contrasting*, or *mentioning* with contextual sentence-level evidence, enabling evidence-weighted analysis of papers, authors, or institutions.
-
-- **AI-Assisted Verification**: Integrates with LLMs (Claude, Ch
+- **Smart Citation Intelligence**: Uses **AI-driven Smart Citations** to classify citations as *supporting*, *contrasting*, or *mentioning*, providing contextual evidence for claims and enabling verification of AI-generated
 
 ## Use Cases
 

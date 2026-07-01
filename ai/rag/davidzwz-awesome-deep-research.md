@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-07-02T01:48:30.557838+05:30'
+collected_at: '2026-07-02T04:13:41.324223+05:30'
 published_at: '2026-07-01T10:26:12Z'
 tags:
 - agents
+- benchmark
+- dataset
 - github-repo
-- paper
+- hackernews
 - rag
-- scripts
 - unknown
 stars: 782
 language: Unknown
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-05-02T04:18:19Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-07-02T01:48:30.557838+05:30'
-last_seen: '2026-07-02T01:48:30.557838+05:30'
-last_checked: '2026-07-02T01:48:30.557838+05:30'
+first_seen: '2026-07-02T04:13:41.324223+05:30'
+last_seen: '2026-07-02T04:13:41.324223+05:30'
+last_checked: '2026-07-02T04:13:41.324223+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Aggregates state-of-the-art resources on agentic deep research, including papers, tools, and frameworks focused on autonomous reasoning and search agents for large language models (LLMs).
-- **ACL 2026 KnowFM Integration**: Aligns with the ACL 2026 KnowFM initiative, emphasizing multi-agent systems, RAG (Retrieval-Augmented Generation), and deep research methodologies for enhanced LLM reasoning.
-- **Active Maintenance**: Last updated July 2026, ensuring inclusion of recent advancements in agentic AI, reasoning agents, and LLM-driven research automation.
+- **Curated resource list** for agentic deep research, focusing on LLM-driven reasoning agents, search agents, and advanced RAG techniques, aligned with ACL 2026 KnowFM benchmarks.
+- **Key topics** include agentic AI, deep research agents, multi-agent collaboration, and hybrid retrieval-generation architectures for complex knowledge synthesis.
+- **Repository structure** aggregates state-of-the-art tools, datasets, and methodologies for autonomous research agents, last updated July 2026.
 
 ## Why It Matters
 
