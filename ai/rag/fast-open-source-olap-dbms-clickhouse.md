@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://clickhouse.com
-published_at: '2026-06-29T03:54:17.982817+05:30'
-collected_at: '2026-06-29T03:54:17.982831+05:30'
+published_at: '2026-07-01T10:36:40.500450+05:30'
+collected_at: '2026-07-01T10:36:40.500460+05:30'
 tags:
 - agents
 - anthropic
@@ -20,9 +20,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:fast-open-source-olap-dbms-clickhouse
-first_seen: '2026-06-29T03:54:17.982831+05:30'
-last_seen: '2026-06-29T03:54:17.982831+05:30'
-last_checked: '2026-06-29T03:54:17.982831+05:30'
+first_seen: '2026-07-01T10:36:40.500460+05:30'
+last_seen: '2026-07-01T10:36:40.500460+05:30'
+last_checked: '2026-07-01T10:36:40.500460+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Columnar OLAP Engine**: ClickHouse is an open-source column-oriented database management system optimized for real-time analytics, offering millisecond query performance at petabyte scale with high compression ratios and vectorized query execution.
+- **Columnar OLAP Engine**: Optimized for real-time analytics with millisecond query performance at petabyte scale, leveraging vectorized execution and columnar storage for efficient data processing.
 
-- **Multi-Model Capabilities**: Supports real-time analytics, observability (logs/metrics/traces), ML/GenAI workloads (vector search, aggregations), and data warehousing via SQL, with native integrations for 100+ tools (e.g., Langfuse, LangChain, Grafana).
+- **Open-Source Observability Stack (ClickStack)**: Provides scalable storage and querying for logs, metrics, and traces, enabling real-time monitoring and debugging of AI/ML systems.
 
-- **Enterprise-Grade Scalability**: Deployed by Fortune 500s (e.g., Sony, Lyft, Cisco, Tesla) for mission-critical workloads, featuring horizontal scalability, ACID compliance, and cloud-native architecture with sub-second latency for petabyte-scale datasets.
+- **Vector Search & GenAI Integration**: Supports high-performance vector search and instant aggregations, powering machine learning models and generative AI applications with sub-second latency.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T03:54:17.982817+05:30
+- Published: 2026-07-01T10:36:40.500450+05:30
 
 ## Related Tags
 

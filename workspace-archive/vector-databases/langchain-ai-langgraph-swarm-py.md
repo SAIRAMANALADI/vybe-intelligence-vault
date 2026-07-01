@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -33,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: A Python library designed for orchestrating multi-agent systems using LangGraph, enabling complex workflows with LLMs and agent interactions.
-- **Key Features**: Supports dynamic agent collaboration, stateful graph-based execution, and integration with LangChain's ecosystem for scalable multi-agent applications.
-- **Technical Stack**: Built in Python, leveraging LangGraph for graph-based agent orchestration and compatibility with modern LLM frameworks.
+- **Multi-Agent Orchestration**: Implements a swarm-based framework for coordinating multiple LLM-driven agents in Python, leveraging LangGraph for stateful workflows and inter-agent communication.
+
+- **LangGraph Integration**: Utilizes LangGraph’s graph-based execution model to enable dynamic agent collaboration, task delegation, and parallel processing with explicit state management.
+
+- **Scalable Architecture**: Designed for extensibility, supporting custom agent definitions, tool integration
 
 ## Use Cases
 

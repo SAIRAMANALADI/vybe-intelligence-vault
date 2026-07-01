@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- `docker run` syntax: `docker run [OPTIONS] IMAGE[:TAG|@DIGEST] [COMMAND] [ARG...]` with image references supporting tags (`IMAGE:TAG`) or digests (`IMAGE@DIGEST`) for versioning and immutability.
+- `docker run` command syntax: `docker run [OPTIONS] IMAGE[:TAG|@DIGEST] [COMMAND] [ARG...]` with image references supporting tags (`IMAGE:TAG`) or digests (`IMAGE@DIGEST`) for versioning and immutability.
 
-- Container isolation: Containers run with isolated filesystems, networking, and process trees; background mode enabled via `--detach` (`-d`), foreground by default; logs accessed via `docker logs` and re-attached via `docker attach`.
+- Container isolation: Containers run in isolated environments with separate filesystems, networking, and process trees; foreground (default) vs. background (`-d`) execution modes control terminal interaction.
 
-- Filesystem mounts: Supports volume mounts (`--mount source=VOL_
+- Filesystem persistence: Uses `--mount` flag with `volume` (managed by Docker) or
 
 ## Use Cases
 

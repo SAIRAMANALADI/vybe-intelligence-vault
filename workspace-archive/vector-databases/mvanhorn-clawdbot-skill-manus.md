@@ -16,6 +16,7 @@ tags:
 - rag
 - scripts
 - shell
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Task Delegation Framework**: Enables delegation of complex tasks (e.g., web research, report generation, code building, data scraping) to Manus AI via predefined templates and autonomous execution.
-- **Monitoring & Cost Tracking**: Provides real-time task monitoring, progress tracking, and cost management for AI-driven operations within the OpenClaw ecosystem.
-- **Shell-Based Automation**: Implements task automation and integration with Manus AI using Shell scripting, leveraging OpenClaw's a
+- **Task Delegation Framework**: Enables delegation of complex tasks (web research, report generation, code building, data scraping) to Manus AI via OpenClaw skill, leveraging task templates, monitoring, and cost tracking for automation.
+- **Shell-Based Implementation**: Entirely implemented in Shell, facilitating lightweight integration with AI-agent systems (Manus, ClawHub) for task execution and workflow orchestration.
+- **OpenClaw Integration**: Functions as an OpenClaw-compatible AI skill,
 
 ## Use Cases
 

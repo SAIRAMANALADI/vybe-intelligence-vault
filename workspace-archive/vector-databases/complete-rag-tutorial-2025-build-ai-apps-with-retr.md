@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization, and community engagement tools for creators and viewers.
-- **Developer & API Access**: Provides a [YouTube Developer API](https://developers.google.com/youtube) for programmatic interaction with platform features (e.g., video uploads, analytics, and live streaming).
-- **Policy & Compliance**: Enforces [Terms of Service](https://www.youtube.com/t/
+- YouTube operates under Google LLC, with core services including content hosting, advertising, and creator monetization, governed by [Terms of Service](https://www.youtube.com/t/terms) and [Privacy Policy](https://www.youtube.com/t/privacy).
+
+- The [Developers](https://developers.google.com/youtube) portal provides APIs for programmatic access to YouTube’s platform, enabling integration with third-party applications and services.
+
+- YouTube’s infrastructure is detailed in [How YouTube Works](ht
 
 ## Use Cases
 

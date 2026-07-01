@@ -36,10 +36,8 @@ selection_reason:
 ## Summary
 
 - **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) implementation using Azure services, integrating document retrieval with generative AI models.
-
-- **Technical Stack**: Python-based, leveraging Azure Cognitive Search for document indexing/retrieval and Azure OpenAI for generative capabilities.
-
-- **Repository Structure**: Contains 226 forks, indicating active community engagement, with last update in April 2026; focuses on Azure-specific RAG workflows.
+- **Technical Stack**: Python-based, leveraging Azure Cognitive Search for retrieval and Azure OpenAI (or similar) for generation.
+- **Key Features**: Example workflow includes document ingestion, vector embeddings, retrieval pipeline, and LLM integration for contextual response generation.
 
 ## Use Cases
 

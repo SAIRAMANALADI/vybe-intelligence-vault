@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Observability & LLM Integration**: Implements Langfuse for LLM observability alongside LiteLLM, supporting 100+ LLM providers with structured logging and monitoring.
-
-- **Full-Stack Type Safety & Testing**: Dockerized deployment with TypeScript, ensuring 100% test coverage and end-to-end type-checking for robustness.
-
-- **Scalable RAG Architecture**: Modular design optimized for Retrieval-Augmented Generation (RAG) workflows, facilitating rapid integration and provider-agnostic LLM interacti
+- **Observability & Provider Integration**: Implements LLM observability via Langfuse and supports 100+ LLM providers through LiteLLM abstraction layer.
+- **DevOps & Type Safety**: Fully Dockerized deployment with end-to-end TypeScript type-checking and 100% test coverage for robustness.
+- **Modern RAG Pipeline**: Demonstrates Retrieval-Augmented Generation (RAG) workflow with production-grade architecture and latest updates (2026-03-17).
 
 ## Use Cases
 

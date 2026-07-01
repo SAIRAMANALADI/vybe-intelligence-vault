@@ -3,17 +3,18 @@ title: Full featured documentation deployment platform - Read the Docs
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://about.readthedocs.com/
-published_at: '2026-06-30T15:38:07.490612+05:30'
-collected_at: '2026-06-30T15:38:07.490626+05:30'
+source_url: https://readthedocs.org
+published_at: '2026-07-01T10:30:33.573975+05:30'
+collected_at: '2026-07-01T10:30:33.573991+05:30'
 tags:
 - agents
 - web-crawled
+- workflows
 status: active
 resource_id: blog:full-featured-documentation-deployment-platform-re
-first_seen: '2026-06-30T15:38:07.490626+05:30'
-last_seen: '2026-06-30T15:38:07.490626+05:30'
-last_checked: '2026-06-30T15:38:07.490626+05:30'
+first_seen: '2026-07-01T10:30:33.573991+05:30'
+last_seen: '2026-07-01T10:30:33.573991+05:30'
+last_checked: '2026-07-01T10:30:33.573991+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code for Documentation**: Integrates with Git repositories to automate builds, previews, and versioning for documentation, treating docs as code while handling infrastructure overhead (e.g., pipelines, auth).
+- **Infrastructure-as-a-Service for Documentation**: Automates builds, previews, and hosting for docs-as-code workflows via Git integration, eliminating manual pipeline management for engineering and docs teams.
 
-- **Multi-Tool & AI Support**: Supports Sphinx, MkDocs, Docusaurus, etc., with AI agent integration (e.g., `llms.txt`, Markdown negotiation) and live PR previews with visual diffs against production.
+- **Multi-Tool & Version Support**: Supports Sphinx, MkDocs, Docusaurus, and AI agent integrations (e.g., llms.txt) with versioned docs, PR previews, and visual diffs against production.
 
-- **Versioning & Access Control**: Enables versioned docs (branch/tag-based) with SSO (GitHub/GitLab) for permission management; free for open-source, paid plans for private repos/advanced features.
+- **Access Control & Enterprise Features**: Offers SSO (GitHub/GitLab), private repo cloning, and permission management; free for open-source, with paid plans for advanced features.
 
 ## Why It Matters
 
@@ -35,13 +36,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-30T15:38:07.490612+05:30
+- Published: 2026-07-01T10:30:33.573975+05:30
 
 ## Related Tags
 
 - agents
 - web-crawled
+- workflows
 
 ## Source
 
-Original source: https://about.readthedocs.com/
+Original source: https://readthedocs.org

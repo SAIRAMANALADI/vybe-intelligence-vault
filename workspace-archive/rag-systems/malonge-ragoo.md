@@ -12,7 +12,6 @@ resource_kind: tool
 importance: medium
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 selection_reason:
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Deprecation Notice**: RaGOO is no longer maintained; users are directed to migrate to **RagTag** ([GitHub](https://github.com/malonge/RagTag)) for updated genome scaffolding functionality.
-- **Technical Scope**: Python-based toolkit specialized in **bioinformatics**, focusing on **genome assembly** and **scaffolding** of large genomic sequences.
-- **Repository Metrics**: 173 stars, 28 forks; last updated **2026-06-18**.
+- **RaGOO**: A discontinued Python-based tool for genome assembly and scaffolding in bioinformatics.
+- **Replacement**: Users are directed to **RagTag** (https://github.com/malonge/RagTag) for continued support.
+- **Metadata**: 173 stars, 28 forks, last updated 2026-06-18.
 
 ## Use Cases
 

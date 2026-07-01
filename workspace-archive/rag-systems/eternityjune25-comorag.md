@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework inspired by human memory organization, enabling stateful long narrative reasoning via structured memory hierarchies.
+- **Cognitive Memory Architecture**: Introduces a memory-organized RAG framework simulating human-like memory retrieval and reasoning for long narrative tasks, enhancing stateful reasoning via structured memory hierarchies.
 
-- **Memory Organization**: Implements a multi-layered memory system (episodic, semantic, procedural) with dynamic retrieval and consolidation mechanisms to maintain contextual coherence over extended interactions.
+- **Stateful Long Narrative Reasoning**: Proposes a dynamic memory update mechanism to maintain contextual coherence across extended dialogues or documents, improving multi-turn reasoning performance.
 
-- **AAAI 2026 Contribution**: Proposes novel memory update policie
+- **AAAI 2026 Poster Submission**: Presents empirical results demonstrati
 
 ## Use Cases
 

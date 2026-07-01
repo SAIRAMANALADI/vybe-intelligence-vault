@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cmAIdx/headless-claude-automation-template
-collected_at: '2026-06-29T10:34:50.813603+05:30'
+collected_at: '2026-07-01T10:29:37.746348+05:30'
 published_at: '2026-04-02T22:38:06Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2026-02-28T19:33:02Z'
 pushed_at: '2026-03-02T03:11:44Z'
 resource_id: github:cmaidx/headless-claude-automation-template
-first_seen: '2026-06-29T10:34:50.813603+05:30'
-last_seen: '2026-06-29T10:34:50.813603+05:30'
-last_checked: '2026-06-29T10:34:50.813603+05:30'
+first_seen: '2026-07-01T10:29:37.746348+05:30'
+last_seen: '2026-07-01T10:29:37.746348+05:30'
+last_checked: '2026-07-01T10:29:37.746348+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Enables autonomous software delivery via headless Claude agents, transforming requirements documents into reviewed pull requests through CI/CD automation.
-
-- **Key Components**: Integrates GitHub Actions for workflow orchestration, supports multi-agent collaboration, and interfaces with Linear for issue tracking.
-
-- **Technical Stack**: Implemented in Shell, leverages `claude-code` for headless agent execution, and automates PR reviews in GitHub repositories.
+- **Template Purpose**: Enables autonomous software delivery via headless Claude agents, converting requirements documents into pull requests for CI/CD pipelines.
+- **Key Features**: Supports multi-agent workflows, integrates with GitHub Actions, and automates tasks across tools like Linear for issue tracking.
+- **Technical Stack**: Implemented in Shell, leverages `claude-code` for headless execution, and includes reusable workflows for autonomous PR generation.
 
 ## Why It Matters
 

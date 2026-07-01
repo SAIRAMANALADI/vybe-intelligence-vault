@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-07-01T04:14:05.944241+05:30'
-published_at: '2026-06-30T22:36:33Z'
+collected_at: '2026-07-01T10:28:27.719095+05:30'
+published_at: '2026-07-01T04:46:25Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
 - workflows
-stars: 6460
+stars: 6461
 language: Python
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-07-01T04:14:05.944241+05:30'
-last_seen: '2026-07-01T04:14:05.944241+05:30'
-last_checked: '2026-07-01T04:14:05.944241+05:30'
+first_seen: '2026-07-01T10:28:27.719095+05:30'
+last_seen: '2026-07-01T10:28:27.719095+05:30'
+last_checked: '2026-07-01T10:28:27.719095+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-source context retrieval layer**: Airweave provides a Python-based SDK for AI agents to fetch, index, and retrieve contextual data from enterprise sources (e.g., databases, APIs) via semantic search and retrieval-augmented generation (RAG) pipelines.
+- **Open-source context retrieval layer** for AI agents, enabling dynamic context augmentation via semantic search and retrieval-augmented generation (RAG).
 
-- **Modular data connectors**: Supports 60+ pre-built connectors (e.g., PostgreSQL, Notion, Slack) and custom integrations for real-time data ingestion, enabling low-latency retrieval for LLM-powered agents.
+- **Python-based SDK** with enterprise data connectors, supporting API-driven semantic search, information retrieval, and integration with LLMs for enhanced agent performance.
 
-- **Enterprise-grade API**: Offers a RESTful API with filtering, caching, and batch processing for scalable context retrieval, optimized for high-throughput agent workflows and hybrid search (vector + keyword).
+- **Features**: Data connectors for enterprise sources, modular API for context retrieval, and scalable infrastructure for AI agent workflows (last updated July 2026).
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: airweave-ai
-- Stars: 6460
-- Forks: 814
+- Stars: 6461
+- Forks: 815
 - Language: Python
 - Topics: agent-infrastructure, ai, ai-agents, ai-infrastructure, api, context-retrieval, data-connectors, developer-tools, enterprise-data, information-retrieval, integration, llm, open-source, rag, retrieval, retrieval-augmented-generation, sdk, search, search-api, semantic-search
-- Last Updated: 2026-06-30T22:36:33Z
+- Last Updated: 2026-07-01T04:46:25Z
 - License: MIT
 - Archived: No
 - Created At: 2024-12-24T10:00:06Z

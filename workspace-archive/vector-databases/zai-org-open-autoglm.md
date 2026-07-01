@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Open Phone Agent Model**: Open-AutoGLM provides an open-source framework for deploying AI agents capable of autonomous phone interactions, enabling tasks like call handling, scheduling, and information retrieval without human intervention.
+- **Open Phone Agent Model & Framework**: Open-AutoGLM provides an open-source framework for deploying AI agents on mobile devices, enabling autonomous phone interactions via natural language commands.
 
-- **Modular Python Framework**: The repository includes a Python-based, extensible architecture with pre-trained models, APIs, and tools to customize and deploy phone agents for diverse use cases, leveraging large language models (LLMs) for natural langua
+- **Modular Architecture**: The repository includes a Python-based modular design with components for speech recognition, NLP processing, task execution, and API integrations to facilitate phone automation.
+
+- **Extensible & Community-Driven**: Supports custom agent development with 25.6K+ stars
 
 ## Use Cases
 

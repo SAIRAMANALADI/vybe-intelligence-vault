@@ -1,39 +1,42 @@
 ---
-title: 'pydantic/pydantic-ai Release: v2.1.0 (2026-06-29)'
+title: 'pydantic/pydantic-ai Release: v2.2.0 (2026-06-30)'
 archive_category: model-providers
 source_category: ai/releases
 source_url: https://github.com/pydantic/pydantic-ai
 resource_id: github:pydantic/pydantic-ai
 local_vault_path: ai/rag/pydantic-pydantic-ai.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: dataset
 importance: medium
 tags:
 - anthropic
+- dataset
 - github-release
-- hackernews
+- mistral
+- models
 - pydantic-pydantic-ai
+- youtube
 selection_reason:
 - Strong keyword match
 - Active open-source repository
 ---
 
-# pydantic/pydantic-ai Release: v2.1.0 (2026-06-29)
+# pydantic/pydantic-ai Release: v2.2.0 (2026-06-30)
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-* feat: Add Anthropic `_20260209` web tools with server-tool replay by @adtyavrdhn in https://github.com/pydantic/pydantic-ai/pull/4844
+* feat: add TwelveLabs Pegasus video-understanding example by @mohit-twelvelabs in https://github.com/pydantic/pydantic-ai/pull/6061
 
 ## Use Cases
 

@@ -8,25 +8,25 @@ Vector databases provide sub-millisecond similarity search across millions of em
 
 ## Top Matched Resources
 
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (prompt - ESSENTIAL Tier)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (benchmark - ESSENTIAL Tier)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
-- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production) (framework - ESSENTIAL Tier)
 - [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (tutorial - ESSENTIAL Tier)
-- [langgenius/dify](https://github.com/langgenius/dify) (mcp-server - ESSENTIAL Tier)
 - [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide) (framework - ESSENTIAL Tier)
 - [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](https://nerdleveltech.com/guides/rag-systems) (framework - ESSENTIAL Tier)
 - [Haystack | Haystack](https://haystack.deepset.ai/) (framework - ESSENTIAL Tier)
+- [AI & Vectors | Supabase Docs](https://supabase.com/docs/guides/ai) (template - ESSENTIAL Tier)
+- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/chroma-core/chroma (Chroma)
 https://github.com/qdrant/qdrant (Qdrant)
 https://github.com/lancedb/lancedb (LanceDB)
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
-- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production)
 - [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- [langgenius/dify](https://github.com/langgenius/dify)
+- [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide)
+- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/lancedb/lancedb (LanceDB)
 
 ---
 
-*Last updated: 2026-07-01 04:27 IST*
+*Last updated: 2026-07-01 10:42 IST*

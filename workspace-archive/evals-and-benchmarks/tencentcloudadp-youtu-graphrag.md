@@ -6,13 +6,16 @@ source_url: https://github.com/TencentCloudADP/youtu-graphrag
 resource_id: github:tencentcloudadp/youtu-graphrag
 local_vault_path: ai/rag/tencentcloudadp-youtu-graphrag.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
+- hackernews
+- models
 - python
 - rag
 selection_reason:
@@ -25,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,7 +36,9 @@ selection_reason:
 
 ## Summary
 
-*   Implements Youtu-GraphRAG, a novel framework for Retrieval-Augmented Generation (RAG) leveraging graph
+- **Vertically Unified Agents Framework**: Introduces a multi-agent architecture where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
+
+- **Graph-Centric RAG Integration**: Combines retrieval-augmented generation (RAG) with graph neural networks (GNNs) to dynamically construct and traverse knowledge graphs, enabling efficient multi-hop reasoning and cross-domain kn
 
 ## Use Cases
 

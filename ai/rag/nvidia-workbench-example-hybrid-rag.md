@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-01T04:12:25.875377+05:30'
+collected_at: '2026-07-01T10:26:47.615272+05:30'
 published_at: '2026-06-30T16:45:55Z'
 tags:
+- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-01T04:12:25.875377+05:30'
-last_seen: '2026-07-01T04:12:25.875377+05:30'
-last_checked: '2026-07-01T04:12:25.875377+05:30'
+first_seen: '2026-07-01T10:26:47.615272+05:30'
+last_seen: '2026-07-01T10:26:47.615272+05:30'
+last_checked: '2026-07-01T10:26:47.615272+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document search and context augmentation in generative AI models.
+- **Hybrid RAG Pipeline**: Implements a hybrid retrieval-augmented generation (RAG) system combining dense (vector) and sparse (keyword/BM25) retrieval methods for enhanced document search and context augmentation.
 
-- **NVIDIA AI Workbench Integration**: Provides a reference architecture for deploying hybrid RAG workflows using NVIDIA's AI Workbench, leveraging GPU-accelerated libraries (e.g., RAPIDS, Triton) for scalable inference and retrieval.
+- **NVIDIA AI Workbench Integration**: Designed as an example project for NVIDIA's AI Workbench, leveraging GPU-accelerated components (e.g., FAISS for vector search, Triton Inference Server for LLM deployment).
 
-- **Python-Based Example**: Includes a modular Python implementation with dependencies for vector databases (e.g., FAISS, Milvus), LLM inference (e.g., NVIDIA NeMo), and hybrid retrieval orchestration, optimized for NVIDIA GPUs.
+- **Python-Based Implementation**: Provides a modular Python codebase with dependencies for RAG workflows (e.g., LangChain, HuggingFace Transformers, PyTorch) and includes example datasets/configurations for rapid prototyping.
 
 ## Why It Matters
 

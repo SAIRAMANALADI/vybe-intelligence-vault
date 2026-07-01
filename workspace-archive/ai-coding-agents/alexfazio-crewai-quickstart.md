@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Provides Jupyter Notebooks, cookbooks, and recipes demonstrating CrewAI's agentic workflow implementations and tools.
-- **Technical Scope**: Focuses on multi-agent systems, workflow automation, and agentic AI tooling.
-- **Metadata**: 420 stars, 74 forks, last updated June 3, 2026.
+- **Repository Overview**: A GitHub repository (`alexfazio/crewAI-quickstart`) containing Jupyter Notebooks, cookbooks, and recipes demonstrating CrewAI's agentic workflow implementations and tools.
+- **Key Metrics**: 420 stars, 74 forks, last updated on 2026-06-03.
+- **Technical Focus**: Showcases practical implementations of multi-agent systems using CrewAI, with topics centered on agents, cookbook examples, and workflow automation.
 
 ## Use Cases
 

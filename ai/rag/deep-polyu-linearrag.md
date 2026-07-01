@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-01T04:13:25.998019+05:30'
+collected_at: '2026-07-01T10:27:47.697556+05:30'
 published_at: '2026-06-30T08:33:12Z'
 tags:
 - dataset
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-01T04:13:25.998019+05:30'
-last_seen: '2026-07-01T04:13:25.998019+05:30'
-last_checked: '2026-07-01T04:13:25.998019+05:30'
+first_seen: '2026-07-01T10:27:47.697556+05:30'
+last_seen: '2026-07-01T10:27:47.697556+05:30'
+last_checked: '2026-07-01T10:27:47.697556+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a linear-time graph-based RAG framework for large-scale corpora, optimizing retrieval efficiency via linear graph traversal while maintaining contextual relevance for LLMs.
-
-- **Key Innovation**: Introduces a linear-time graph construction and traversal mechanism, reducing computational overhead compared to traditional graph-based RAG methods while preserving retrieval accuracy.
-
-- **Performance**: Evaluated on large-scale datasets, demonstrating significant improvements in retrieval speed and scalability, with minimal degradation in generation quality.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval on large-scale corpora, optimizing LLM performance via graph-based indexing.
+- **Scalability & Efficiency**: Implements linear-time graph traversal algorithms (O(V+E)) for retrieval, significantly reducing computational overhead compared to traditional hierarchical or dense retrieval methods.
+- **ICLR 2026 Contribution**: Proposes a hybrid architecture combining graph-based retrieval with generative LLMs, validated on large-scale datasets with empirical gains in retrieval accuracy and generation quality.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-07-01T04:13:05.918978+05:30'
+collected_at: '2026-07-01T10:27:32.621211+05:30'
 published_at: '2026-06-30T16:56:54Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - python
 - rag
 - scripts
+- workflows
 stars: 250
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-06-18T03:28:29Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-07-01T04:13:05.918978+05:30'
-last_seen: '2026-07-01T04:13:05.918978+05:30'
-last_checked: '2026-07-01T04:13:05.918978+05:30'
+first_seen: '2026-07-01T10:27:32.621211+05:30'
+last_seen: '2026-07-01T10:27:32.621211+05:30'
+last_checked: '2026-07-01T10:27:32.621211+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch for real-time log analysis, with modular skill-based architecture for extensible threat detection and response.
+- **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch for real-time monitoring, with modular components for extensibility in cybersecurity workflows.
 
-- **RAG-Enhanced Behavioral Memory**: Uses Retrieval-Augmented Generation (RAG) to build contextual behavioral profiles from historical data, enabling LLM-driven anomaly validation and adaptive threat hunting.
+- **RAG-Enhanced Memory & Detection**: Implements Retrieval-Augmented Generation (RAG) to build behavioral memory from SOC data, enabling LLM-driven validation of anomalies and threat detection.
 
-- **LLM-Powered Anomaly Validation**: Leverages large language models (LLMs) to cross-validate detected anomalies against behavioral baselines, enhancing detection accuracy and reducing false positives in SOC operations.
+- **Automated Threat Validation**: Uses LLMs to cross-verify real-time anomalies against historical patterns, automating SOC operations for threat hunting and incident response.
 
 ## Why It Matters
 

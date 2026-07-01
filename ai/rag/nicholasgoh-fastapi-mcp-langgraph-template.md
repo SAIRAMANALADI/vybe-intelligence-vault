@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NicholasGoh/fastapi-mcp-langgraph-template
-collected_at: '2026-06-30T10:10:05.580088+05:30'
+collected_at: '2026-07-01T10:29:57.777380+05:30'
 published_at: '2026-06-27T11:44:53Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
+- reddit
 stars: 548
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-04-16T13:47:46Z'
 pushed_at: '2026-03-03T23:35:58Z'
 resource_id: github:nicholasgoh/fastapi-mcp-langgraph-template
-first_seen: '2026-06-30T10:10:05.580088+05:30'
-last_seen: '2026-06-30T10:10:05.580088+05:30'
-last_checked: '2026-06-30T10:10:05.580088+05:30'
+first_seen: '2026-07-01T10:29:57.777380+05:30'
+last_seen: '2026-07-01T10:29:57.777380+05:30'
+last_checked: '2026-07-01T10:29:57.777380+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Template integrates FastAPI (web framework), LangGraph (agentic orchestration), and MCP (Model Context Protocol) for modular, scalable agent systems with SQLModel for ORM and Supabase for database/storage.
-
-- **Observability & Deployment**: Includes Prometheus (metrics), Grafana (visualization), Langfuse (LLM observability), and Nginx (reverse proxy) for production-grade monitoring and deployment.
-
-- **Tooling**: Pre-configured with LangGraph-Python for stateful workflows, Supabase for auth/storage, and SQLModel for PostgreSQL-compatible database interactions, optimized for rapid iteration.
+- **Architecture**: Template integrates FastAPI, MCP, and LangGraph for agentic orchestration with modular components (e.g., SQLModel for DB, Supabase for auth/storage).
+- **Observability**: Pre-configured with Prometheus/Grafana for metrics, Langfuse for tracing/LLM evals, and Nginx for reverse proxy.
+- **Deployment**: Designed for scalability with Docker/K8s-ready setup, CI/CD-optimized, and supports rapid iteration via community tooling.
 
 ## Why It Matters
 

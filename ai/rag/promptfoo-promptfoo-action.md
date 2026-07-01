@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/promptfoo/promptfoo-action
-collected_at: '2026-07-01T04:13:10.990032+05:30'
+collected_at: '2026-07-01T10:27:37.768440+05:30'
 published_at: '2026-06-30T16:43:58Z'
 tags:
 - agents
@@ -14,7 +14,6 @@ tags:
 - meta-ai
 - models
 - rag
-- scripts
 - typescript
 stars: 69
 language: TypeScript
@@ -22,11 +21,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2023-06-21T03:10:38Z'
-pushed_at: '2026-06-29T14:00:49Z'
+pushed_at: '2026-07-01T00:38:43Z'
 resource_id: github:promptfoo/promptfoo-action
-first_seen: '2026-07-01T04:13:10.990032+05:30'
-last_seen: '2026-07-01T04:13:10.990032+05:30'
-last_checked: '2026-07-01T04:13:10.990032+05:30'
+first_seen: '2026-07-01T10:27:37.768440+05:30'
+last_seen: '2026-07-01T10:27:37.768440+05:30'
+last_checked: '2026-07-01T10:27:37.768440+05:30'
 health_score: 100
 ---
 
@@ -34,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Action Integration**: Enables automated testing of LLMs (e.g., GPT, Claude, Gemini, Llama) via GitHub Actions with declarative YAML configurations for CI/CD pipelines.
-- **AI Security & Red Teaming**: Supports LLM vulnerability scanning, pentesting, and adversarial testing to evaluate robustness and security of prompts, agents, and RAG systems.
-- **Multi-Model Benchmarking**: Facilitates performance comparison across LLMs (e.g., GPT, Claude, Gemini) with command-line and CI/CD compatibility for scalable evaluations.
+- **LLM Testing & Comparison**: Enables automated testing and performance comparison of LLMs (e.g., GPT, Claude, Gemini, Llama) via declarative configs, with CI/CD and CLI integration.
+- **AI Security & Red Teaming**: Supports AI red teaming, pentesting, and vulnerability scanning for LLM-based systems (e.g., RAGs, agents).
+- **GitHub Action Integration**: TypeScript-based GitHub Action for streamlined LLM evaluation, deployable in CI pipelines with simple YAML configuration.
 
 ## Why It Matters
 
@@ -53,7 +52,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2023-06-21T03:10:38Z
-- Pushed At: 2026-06-29T14:00:49Z
+- Pushed At: 2026-07-01T00:38:43Z
 
 ## Possible Use Cases
 

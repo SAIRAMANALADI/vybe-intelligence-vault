@@ -4,18 +4,18 @@ category: ai/agents
 source_type: github
 source_name: GitHub Topics AI Search
 source_url: https://github.com/mozilla-ai/any-agent
-collected_at: '2026-06-30T22:47:05.917467+05:30'
-published_at: '2026-06-30T16:49:48Z'
+collected_at: '2026-07-01T10:24:50.570232+05:30'
+published_at: '2026-07-01T04:17:47Z'
 tags:
 - agents
 - benchmark
-stars: 1179
+stars: 1180
 language: Python
 status: active
 resource_id: github:mozilla-ai/any-agent
 first_seen: '2026-06-18T23:35:18.966747+05:30'
-last_seen: '2026-06-30T22:47:05.917467+05:30'
-last_checked: '2026-06-30T22:47:05.917467+05:30'
+last_seen: '2026-07-01T10:24:50.570232+05:30'
+last_checked: '2026-07-01T10:24:50.570232+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: mozilla-ai
-- Stars: 1179
+- Stars: 1180
 - Forks: 94
 - Language: Python
 - Topics: a2a, agent-evaluation, agents, ai, mcp
-- Last Updated: 2026-06-30T16:49:48Z
+- Last Updated: 2026-07-01T04:17:47Z
 
 ## Possible Use Cases
 

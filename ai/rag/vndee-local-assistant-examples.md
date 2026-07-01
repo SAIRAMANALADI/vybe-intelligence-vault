@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vndee/local-assistant-examples
-collected_at: '2026-07-01T04:12:30.792653+05:30'
+collected_at: '2026-07-01T10:26:52.594999+05:30'
 published_at: '2026-06-05T12:02:48Z'
 tags:
 - github-repo
@@ -12,7 +12,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 stars: 409
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2023-11-30T15:51:33Z'
 pushed_at: '2025-10-20T09:08:40Z'
 resource_id: github:vndee/local-assistant-examples
-first_seen: '2026-07-01T04:12:30.792653+05:30'
-last_seen: '2026-07-01T04:12:30.792653+05:30'
-last_checked: '2026-07-01T04:12:30.792653+05:30'
+first_seen: '2026-07-01T10:26:52.594999+05:30'
+last_seen: '2026-07-01T10:26:52.594999+05:30'
+last_checked: '2026-07-01T10:26:52.594999+05:30'
 health_score: 100
 ---
 
@@ -33,7 +32,7 @@ health_score: 100
 
 - **Implementation**: Demonstrates building a local ChatPDF system using Python, leveraging LangChain for LLM orchestration and RAG (Retrieval-Augmented Generation) for document processing.
 - **Dependencies**: Utilizes Ollama for local LLM inference, enabling offline operation without cloud dependency.
-- **Repository Scope**: Provides example implementations (409 stars, 118 forks) with last update on 2026-06-05, focusing on modular, self-contained local AI assistant workflows.
+- **Deployment**: Provides example configurations for running the system entirely locally, with updates as of June 2026.
 
 ## Why It Matters
 

@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **E-sports-inspired AI challenge**: Hosts live AI Battles with competitive agentic AI, blending developer engagement with gaming dynamics.
-- **Asynchronous community participation**: Features GitHub-based submissions and asynchronous challenges, enabling global developer collaboration.
-- **GitHub-centric ecosystem**: Utilizes GitHub for submissions, updates, and community interactions, with last activity recorded on 2026-06-30.
+- **E-sports inspired AI challenge**: Hosts live AI Battles with asynchronous community challenges, integrating competitive AI development with gamified elements.
+- **GitHub-based submission system**: Participants submit solutions via GitHub, enabling version-controlled, collaborative, and transparent challenge resolution.
+- **Active developer engagement**: Repository last updated in 2026, indicating ongoing development and community participation with 285 stars and 91 forks.
 
 ## Use Cases
 

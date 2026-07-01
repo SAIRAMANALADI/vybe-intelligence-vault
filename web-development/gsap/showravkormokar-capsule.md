@@ -4,7 +4,7 @@ category: web-development/gsap
 source_type: github
 source_name: GitHub GSAP Resources
 source_url: https://github.com/showravkormokar/capsule
-collected_at: '2026-07-01T01:49:57.691636+05:30'
+collected_at: '2026-07-01T10:24:49.108030+05:30'
 published_at: '2026-06-30T05:37:46Z'
 tags:
 - animation
@@ -16,8 +16,8 @@ language: JavaScript
 status: active
 resource_id: github:showravkormokar/capsule
 first_seen: '2026-06-15T12:42:32.315713+00:00'
-last_seen: '2026-07-01T01:49:57.691636+05:30'
-last_checked: '2026-07-01T01:49:57.691636+05:30'
+last_seen: '2026-07-01T10:24:49.108030+05:30'
+last_checked: '2026-07-01T10:24:49.108030+05:30'
 health_score: 100
 ---
 
@@ -35,7 +35,7 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 
 - Owner: ShowravKormokar
 - Stars: 67
-- Forks: 13
+- Forks: 14
 - Language: JavaScript
 - Topics: awwwards, awwwards-inspired, capsules, gsap-animation, react-icons, reactjs, scrolltrigger, tailwind-css, website
 - Last Updated: 2026-06-30T05:37:46Z

@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Infrastructure-as-a-Service for Documentation**: Automates builds, previews, and hosting for docs-as-code workflows, eliminating manual pipeline management for engineering and documentation teams.
+- **Infrastructure-as-a-Service for Documentation**: Automates builds, previews, and hosting for docs-as-code workflows via Git integration, eliminating manual pipeline management for engineering and docs teams.
 
-- **Multi-Tool & Version Support**: Supports Sphinx, MkDocs, Docusaurus, and others with versioned docs, PR-based live previews, and visual diffs against production for regression detection.
+- **Multi-Tool & Version Support**: Supports Sphinx, MkDocs, Docusaurus, and AI agent integrations (e.g., llms.txt) with versioned docs, PR previews, and visual diffs against production.
 
-- **Enterprise & Open Source Features**: Free for open-source projects; paid plans offer SSO (GitHub/GitLa
+- **Access Control & Enterprise Features**: Offers SSO (GitHub/GitLab), private repo cloning, and p
 
 ## Use Cases
 

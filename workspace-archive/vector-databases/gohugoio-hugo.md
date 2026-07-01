@@ -1,44 +1,41 @@
 ---
-title: Releases · gohugoio/hugo · GitHub
+title: gohugoio/hugo
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/gohugoio/hugo/releases
+source_url: https://github.com/gohugoio/hugo
 resource_id: github:gohugoio/hugo
 local_vault_path: ai/rag/gohugoio-hugo.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: workflow
 importance: medium
 tags:
-- agents
-- frontend_ui
-- hackernews
+- github-repo
+- go
 - rag
-- reddit
 - scripts
-- web-crawled
 selection_reason:
 - Active open-source repository
 ---
 
-# Releases · gohugoio/hugo · GitHub
+# gohugoio/hugo
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tutorial
+- Resource kind: workflow
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Hugo v0.163.3** introduces fixes for code block rendering (escaping language identifiers), preserves non-ASCII whitespace in parsers, and adds support for Babel/PostCSS config variants in resource processing.
+- **Static Site Generator (SSG)**: Hugo is a highly optimized Go-based static site generator, enabling rapid website builds from Markdown, HTML, and other content formats with minimal configuration overhead.
 
-- **Hugo v0.163.2** resolves filesystem access issues (ERR_ACCESS_DENIED) in Node.js resolvers and standardizes behavior for missing external converters in markup processing.
+- **Performance-Centric Design**: Leverages Go’s concurrency model and in-memory processing to achieve sub-millisecond rebuild times, outperforming traditional CMS platforms in speed and scalability.
 
-- **Hugo v0.163.1** patches security vulnerabilities (CVE-related fixes in `golang.org/x/image` and symlink ha
+- **Extensible Architecture**: Supports modular themes, custom shortcodes, and plugin-base
 
 ## Use Cases
 
@@ -48,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/gohugoio/hugo/releases
+Original source URL: https://github.com/gohugoio/hugo
 
 ## Local Vault File
 

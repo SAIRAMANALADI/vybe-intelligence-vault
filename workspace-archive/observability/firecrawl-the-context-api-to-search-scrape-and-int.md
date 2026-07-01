@@ -7,21 +7,21 @@ source_url: https://firecrawl.dev
 resource_id: blog:firecrawl-the-context-api-to-search-scrape-and-int
 local_vault_path: ai/rag/firecrawl-the-context-api-to-search-scrape-and-int.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - anthropic
 - benchmark
-- hackernews
 - openai
 - paper
 - producthunt
 - rag
 - scripts
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -32,7 +32,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -40,11 +40,11 @@ selection_reason:
 
 ## Summary
 
-- **Specialized AI/ML Research Index**: Firecrawl Research Index provides state-of-the-art (SOTA) recall for AI/ML research, optimized for high-precision data retrieval with minimal noise.
+- **Specialized AI/ML Research Index**: Firecrawl Research Index provides state-of-the-art (SOTA) recall for AI/ML research, optimized for high-precision data retrieval and agentic workflows.
 
-- **Multi-Format Web Data Extraction**: Supports real-time scraping into structured formats (Markdown, JSON) with embedded screenshots, PDF/DOCX parsing, and interactive page manipulation (clicks, navigation, form filling) via API/SDK.
+- **Multi-Format Web Data Extraction**: Supports structured (JSON), unstructured (Markdown), and interactive (screenshots, live interaction) data extraction from web pages, including JS-heavy SPAs, with 96% coverage and 93% token efficiency.
 
-- **Performance & Reliability Metrics**: Achieves 96% web coverage (inclu
+- **Open-Source Web Infrastructure**: Core toolkit (Python/Node.
 
 ## Use Cases
 

@@ -2,7 +2,7 @@
 title: 'Docker: Accelerated Container Application Development'
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://www.docker.com
+source_url: https://www.docker.com/
 resource_id: blog:docker-accelerated-container-application-developme
 local_vault_path: ai/rag/docker-accelerated-container-application-developme.md
 quality_score: 70
@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **MicroVM-based Isolation**: Docker Sandboxes leverage MicroVMs (e.g., SEV-SNP, TEE) to provide hardware-enforced isolation for agent sessions, locking down network and filesystem access at runtime while extending cloud-grade security to local development.
+- **MicroVM-based Isolation**: Docker Sandboxes leverage microVMs (e.g., SEV-SNP, TEE) to provide hardware-enforced isolation for agent sessions, locking down network and filesystem access at runtime for secure execution.
 
-- **Unified Governance & Hardened Components**: Docker AI Governance enforces identity-bound policies (e.g., Rego-based checks) and audit trails, while Docker Hardened Images (SLSA Level 3, signed, and continuously patched) mitigate supply
+- **Policy-Driven Governance**: Docker AI Governance enforces identity-bound policies (e.g., OPA/Rego) and requires signed, SLSA Level 3-compliant images, ensuring least-privilege execution and audit-ready attestation logs.
+
+- **Seamless Developer Integration**: Agents run loc
 
 ## Use Cases
 
@@ -46,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.docker.com
+Original source URL: https://www.docker.com/
 
 ## Local Vault File
 

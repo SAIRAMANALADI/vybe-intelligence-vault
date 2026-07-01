@@ -8,29 +8,29 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
-### [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
-- **Category**: `ai/rag` | **Kind**: `PROMPT` | **Tier**: `ESSENTIAL`
-- **Score**: `91` | **Path**: [`dannyblaker-rag-tutorial.md`](../../ai/rag/dannyblaker-rag-tutorial.md)
+### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production)
+### [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`yigtwxx-awesome-rag-production.md`](../../ai/rag/yigtwxx-awesome-rag-production.md)
+- **Score**: `91` | **Path**: [`graphrag-bench-graphrag-benchmark.md`](../../ai/rag/graphrag-bench-graphrag-benchmark.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
-
-### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
-- **Category**: `ai/rag` | **Kind**: `PROMPT` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`dannyblaker-rag-tutorial.md`](../../ai/rag/dannyblaker-rag-tutorial.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`vivekmalhan666-rag-beginner-guide.md`](../../ai/rag/vivekmalhan666-rag-beginner-guide.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/)
@@ -53,20 +53,20 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`denis2054-context-engineering-for-multi-agent-systems.md`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`enescingoz-awesome-n8n-templates.md`](../../ai/rag/enescingoz-awesome-n8n-templates.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [langgenius/dify](https://github.com/langgenius/dify)
-- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
-
-### [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`ritik-prog-n8n-automation-templates-5000.md`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [tomasonjo (Tomaz Bratanic) · GitHub](https://github.com/tomasonjo/)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`tomasonjo-tomaz-bratanic-github.md`](../../ai/rag/tomasonjo-tomaz-bratanic-github.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-01 04:28 IST*
+*Last updated: 2026-07-01 10:42 IST*

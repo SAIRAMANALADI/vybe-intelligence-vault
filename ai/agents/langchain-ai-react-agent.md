@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/react-agent
-collected_at: '2026-06-29T10:35:00.863855+05:30'
-published_at: '2026-06-27T07:09:52Z'
+collected_at: '2026-07-01T10:29:47.794890+05:30'
+published_at: '2026-06-30T16:47:19Z'
 tags:
 - agents
 - frontend_ui
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-21T19:57:32Z'
 pushed_at: '2026-06-26T08:21:52Z'
 resource_id: github:langchain-ai/react-agent
-first_seen: '2026-06-29T10:35:00.863855+05:30'
-last_seen: '2026-06-29T10:35:00.863855+05:30'
-last_checked: '2026-06-29T10:35:00.863855+05:30'
+first_seen: '2026-07-01T10:29:47.794890+05:30'
+last_seen: '2026-07-01T10:29:47.794890+05:30'
+last_checked: '2026-07-01T10:29:47.794890+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a LangGraph-based implementation of a ReAct (Reasoning and Acting) agent in Python, enabling iterative reasoning and action execution workflows.
-- **Key Components**: Utilizes LangGraph for state management and agent orchestration, with predefined tools and workflows for agentic behavior.
-- **Repository Stats**: 781 stars, 691 forks, last updated June 27, 2026.
+- **Template Purpose**: Provides a LangGraph-based implementation of a ReAct (Reasoning and Acting) agent in Python, facilitating interactive decision-making workflows.
+- **Key Components**: Utilizes LangGraph for stateful, multi-actor applications with Python, enabling structured agentic behavior (reasoning + tool usage).
+- **Update Status**: Last modified on **2026-06-30**, with **781 stars** and **691 forks**, indicating active community engagement.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 691
 - Language: Python
 - Topics: langgraph, langgraph-python, langgraph-template
-- Last Updated: 2026-06-27T07:09:52Z
+- Last Updated: 2026-06-30T16:47:19Z
 - License: MIT
 - Archived: No
 - Created At: 2024-08-21T19:57:32Z

@@ -6,13 +6,14 @@ source_url: https://github.com/microsoft/ai-agents-for-beginners
 resource_id: github:microsoft/ai-agents-for-beginners
 local_vault_path: ai/rag/microsoft-ai-agents-for-beginners.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 - workflows
@@ -26,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **12-Lesson Curriculum**: Structured guide covering foundational to advanced concepts in AI agent development, including agentic RAG, Autogen, and Semantic Kernel frameworks.
-- **Jupyter Notebook-Based**: Hands-on, executable lessons with practical implementations in Python, focusing on agentic AI workflows and frameworks.
-- **Microsoft Ecosystem Integration**: Utilizes Autogen, Semantic Kernel, and other Microsoft AI tools for building scalable, agent-based generative AI solutions.
+- **Curriculum Structure**: 12-lesson Jupyter Notebook-based course covering foundational to advanced AI agent development, including agentic RAG, Autogen, and Semantic Kernel frameworks.
+
+- **Technical Focus**: Emphasizes hands-on implementation of agentic AI systems, with topics spanning agentic frameworks, generative AI integration, and multi-agent orchestration.
+
+- **Ecosystem Alignment**: Aligns with Microsoft’s AI tooling (Autogen, Semantic Kernel) and supports agentic workflows, including
 
 ## Use Cases
 

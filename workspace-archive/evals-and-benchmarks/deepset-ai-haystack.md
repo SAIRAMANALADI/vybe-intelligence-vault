@@ -2,23 +2,14 @@
 title: deepset-ai/haystack
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack
+source_url: https://github.com/deepset-ai/haystack?source=post_page
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
-tags:
-- agents
-- github-repo
-- hackernews
-- mdx
-- models
-- openai
-- rag
-- workflows
+importance: high
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -29,7 +20,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -37,11 +28,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack enables building production-grade LLM applications via configurable pipelines with explicit control over retrieval, routing, memory, and generation components.
+- **Modular AI Orchestration**: Haystack enables building production-ready LLM applications via configurable pipelines and agent workflows, with explicit control over retrieval, routing, memory, and generation components.
 
-- **Multi-Domain Support**: Supports scalable agents, RAG, multimodal apps, semantic search, and conversational systems with integrations for models like GPT-4 and Gemini.
+- **Multi-Use Case Framework**: Supports scalable agents, RAG, multimodal apps, semantic search, and conversational systems, leveraging Python, PyTorch, and transformer architectures.
 
-- **Technical Stack**: Python-based framework leveraging PyTorch and Transformers, optimized for information retrieval, quest
+- **High-Performance Tooling**: Optimized for large-scale deployments with native integratio
 
 ## Use Cases
 
@@ -51,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack
+Original source URL: https://github.com/deepset-ai/haystack?source=post_page
 
 ## Local Vault File
 

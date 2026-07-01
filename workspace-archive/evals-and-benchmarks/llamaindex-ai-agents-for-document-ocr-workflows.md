@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, combining agentic understanding, specialized experts (e.g., text, charts, tables), and auto-correction loops to achieve high accuracy on complex, multi-modal documents.
+- **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, featuring task-specific experts (e.g., text, charts, tables) and recursive auto-correction loops to handle complex, multi-modal documents with high accuracy.
 
-- **Structured Extraction & Benchmark Performance**: Supports schema-based, LLM-driven extraction of unstructured content (e.g., handwritten text, tables, charts) with industry-leading performance, outperf
+- **Structured Extraction & Indexing**: Supports schema-based, LLM-driven extraction of unstructured content into structured formats, with enterprise-grade chunking/embedding pipelines optimized for precision in RAG
 
 ## Use Cases
 

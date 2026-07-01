@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Implementation Focus**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline construction from scratch using local LLMs (via `node-llama-cpp`) in JavaScript, emphasizing transparency over black-box solutions.
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using JavaScript, emphasizing transparency with local LLMs (via `node-llama-cpp`) and no proprietary black boxes.
 
-- **Core Components**: Covers end-to-end RAG mechanics—embeddings generation, vector search, retrieval augmentation, and context-augmented LLM generation—without external dependencies.
+- **Core Components**: Covers embeddings generation, vector search (likely FAISS or similar), retrieval mechanisms, and context-augmented generation, providing hands-on understanding of each step.
 
-- **Educational Tool**: Provides a hands-on tutorial for Node.js developers to understand and
+- **Modern Stack**: Built on Node.js with `node-llama-cpp` for LLM inference,
 
 ## Use Cases
 

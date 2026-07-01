@@ -8,7 +8,7 @@ local_vault_path: ai/rag/polymarket-agents.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tool
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # Polymarket/agents
@@ -26,16 +26,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tool
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-*   Python-based AI agents for autonomous trading on the Polymarket platform.
-*   Enables automated market participation and execution within decentralized prediction markets.
-*   Leverages AI for decision-making and strategy implementation in a trading context.
+- **Autonomous Trading Framework**: Python-based repository enabling AI agents to execute trades autonomously on Polymarket, leveraging market-making and prediction strategies.
+
+- **Modular Architecture**: Designed with extensible components for order execution, market data ingestion, and strategy optimization, facilitating rapid prototyping of trading algorithms.
+
+- **Integration with Polymarket API**: Direct interaction with Polymarket's conditional market protocols via REST/WebSocket APIs, en
 
 ## Use Cases
 

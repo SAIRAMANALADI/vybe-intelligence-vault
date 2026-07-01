@@ -35,8 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: Implements a Java-based AI Q&A system leveraging **Spring AI** with **Alibaba Cloud** integrations, featuring **SSE (Server-Sent Events)** streaming, **Agent-based workflows**, and **RAG (Retrieval-Augmented Generation)** with **knowledge graphs**.
-- **Capabilities**: Supports **Function Calling**, **historical message management**, **image generation/understanding**, **Embedding models**, **Vector Database** integration, and **RAG pipelines** for enhanced contextual response
+- **Features**: Implements AI Q&A system with Server-Sent Events (SSE) streaming, Agent-based workflows, Knowledge Graph Retrieval-Augmented Generation (RAG), Function Calling, historical message handling, image generation/understanding, and embedding/vector database integration.
+- **Technologies**: Built in Java using Spring AI and Alibaba Cloud AI services, leveraging embedding models, vector databases (e.g., Milvus/Weaviate), and RAG pipelines for contextual retrieval.
+- **Components**: Inclu
 
 ## Use Cases
 

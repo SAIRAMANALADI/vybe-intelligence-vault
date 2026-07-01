@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/dannyblaker/rag-tutorial
-collected_at: '2026-07-01T04:11:50.786855+05:30'
+collected_at: '2026-07-01T10:26:17.644069+05:30'
 published_at: '2026-06-29T08:47:18Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - python
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-01-03T09:47:50Z'
 pushed_at: '2026-01-03T09:50:45Z'
 resource_id: github:dannyblaker/rag-tutorial
-first_seen: '2026-07-01T04:11:50.786855+05:30'
-last_seen: '2026-07-01T04:11:50.786855+05:30'
-last_checked: '2026-07-01T04:11:50.786855+05:30'
+first_seen: '2026-07-01T10:26:17.644069+05:30'
+last_seen: '2026-07-01T10:26:17.644069+05:30'
+last_checked: '2026-07-01T10:26:17.644069+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Progressive RAG Learning Path**: 6 structured lessons covering foundational to advanced RAG concepts, from embeddings and vector databases to LLM integration and production deployment, with reusable Python utilities and hands-on demos.
-
-- **Technical Implementation Focus**: Provides working code examples for core RAG components (e.g., embedding models, vector stores like Chroma/FAISS, and LLM APIs) and advanced techniques (e.g., retrieval optimization, prompt engineering).
-
-- **Production-Ready Tooling**: Includes reusable utilities for pipeline orchestration, evaluation metrics, and deployment strategies, with last update timestamp indicating ongoing maintenance (June 2026).
+- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from fundamentals to production deployment, with executable code examples and reusable utilities.
+- **Technical Focus**: Covers embeddings, vector databases, LLMs, and advanced RAG techniques, emphasizing hands-on implementation and system design.
+- **Repository Details**: Python-based, last updated June 2026, minimal community adoption (7 stars, 0 forks), no additional topics listed.
 
 ## Why It Matters
 

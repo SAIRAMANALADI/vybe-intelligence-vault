@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mvanhorn/clawdbot-skill-manus
-collected_at: '2026-06-30T10:09:40.580794+05:30'
+collected_at: '2026-07-01T10:29:32.764546+05:30'
 published_at: '2026-06-20T22:15:22Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - rag
 - scripts
 - shell
+- workflows
 stars: 25
 language: Shell
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-22T01:48:25Z'
 pushed_at: '2026-03-16T05:09:31Z'
 resource_id: github:mvanhorn/clawdbot-skill-manus
-first_seen: '2026-06-30T10:09:40.580794+05:30'
-last_seen: '2026-06-30T10:09:40.580794+05:30'
-last_checked: '2026-06-30T10:09:40.580794+05:30'
+first_seen: '2026-07-01T10:29:32.764546+05:30'
+last_seen: '2026-07-01T10:29:32.764546+05:30'
+last_checked: '2026-07-01T10:29:32.764546+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Task Delegation Framework**: Enables delegation of complex tasks (e.g., web research, report generation, code building, data scraping) to Manus AI via predefined templates and autonomous execution.
-- **Monitoring & Cost Tracking**: Provides real-time task monitoring, progress tracking, and cost management for AI-driven operations within the OpenClaw ecosystem.
-- **Shell-Based Automation**: Implements task automation and integration with Manus AI using Shell scripting, leveraging OpenClaw's agent-based architecture for extensibility.
+- **Task Delegation Framework**: Enables delegation of complex tasks (web research, report generation, code building, data scraping) to Manus AI via OpenClaw skill, leveraging task templates, monitoring, and cost tracking for automation.
+- **Shell-Based Implementation**: Entirely implemented in Shell, facilitating lightweight integration with AI-agent systems (Manus, ClawHub) for task execution and workflow orchestration.
+- **OpenClaw Integration**: Functions as an OpenClaw-compatible AI skill, supporting autonomous operations, web browsing, and structured report generation with modular task handling.
 
 ## Why It Matters
 

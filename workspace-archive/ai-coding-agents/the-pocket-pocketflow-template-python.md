@@ -6,19 +6,16 @@ source_url: https://github.com/The-Pocket/PocketFlow-Template-Python
 resource_id: github:the-pocket/pocketflow-template-python
 local_vault_path: ai/agents/the-pocket-pocketflow-template-python.md
 quality_score: 70
-archive_score: 79
+archive_score: 75
 archive_tier: useful
 resource_kind: template
 importance: medium
 tags:
 - agents
-- anthropic
 - github-repo
-- openai
 - python
 - workflows
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
@@ -27,17 +24,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: template
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Agentic Coding Framework**: Python-based template for autonomous AI coding agents, enabling automated code generation, testing, and debugging workflows.
-- **Project Structure**: Pre-configured modular layout with standardized directories (e.g., `agents/`, `tests/`, `configs/`) for scalable agentic development.
-- **Integration-Ready**: Supports LLM APIs (e.g., OpenAI, Anthropic) and tooling (e.g., pytest, Docker) for end-to-end agentic pipelines.
+- **Project Template**: Provides a structured Python repository template for agentic coding workflows, enabling automated code generation, testing, and deployment.
+- **Agentic Coding**: Integrates AI-driven agents to autonomously perform coding tasks, including refactoring, optimization, and bug fixing.
+- **Modular Design**: Includes pre-configured CI/CD pipelines, dependency management, and extensible agent interfaces for rapid Python project development.
 
 ## Use Cases
 

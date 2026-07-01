@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous Development Orchestration**: Template leverages GitHub Actions and Claude to automate AI agents under Scrum framework, enabling autonomous issue-driven development and management directly from GitHub Issues.
+- **Autonomous Development Orchestration**: Template leverages GitHub Actions and Claude to deploy AI agents under Scrum framework, enabling autonomous issue-driven development and management directly from GitHub Issues.
 
-- **Scrum Framework Integration**: Implements Scrum workflows (e.g., sprints, backlog grooming, standups) via AI agents, autonomously assigning tasks, tracking progress, and generating reports without human intervention.
+- **Scrum Framework Integration**: Agents autonomously handle sprint planning, task breakdown, and progress tracking by parsing and executing tasks derived from GitHub Issues, simulating a full Scrum team workflow.
 
-- **Open-Source AI Agent System**: Provides a modular,
+- **Open-Source Template**: Provides a pre-configured reposito
 
 ## Use Cases
 

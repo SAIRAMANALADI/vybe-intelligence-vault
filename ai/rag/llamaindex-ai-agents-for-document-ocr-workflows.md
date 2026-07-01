@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/
-published_at: '2026-07-01T04:14:56.462316+05:30'
-collected_at: '2026-07-01T04:14:56.462329+05:30'
+published_at: '2026-07-01T10:30:28.327595+05:30'
+collected_at: '2026-07-01T10:30:28.327611+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-07-01T04:14:56.462329+05:30'
-last_seen: '2026-07-01T04:14:56.462329+05:30'
-last_checked: '2026-07-01T04:14:56.462329+05:30'
+first_seen: '2026-07-01T10:30:28.327611+05:30'
+last_seen: '2026-07-01T10:30:28.327611+05:30'
+last_checked: '2026-07-01T10:30:28.327611+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, combining agentic understanding, specialized experts (e.g., text, charts, tables), and auto-correction loops to achieve high accuracy on complex, multi-modal documents.
+- **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, featuring task-specific experts (e.g., text, charts, tables) and recursive auto-correction loops to handle complex, multi-modal documents with high accuracy.
 
-- **Structured Extraction & Benchmark Performance**: Supports schema-based, LLM-driven extraction of unstructured content (e.g., handwritten text, tables, charts) with industry-leading performance, outperforming proprietary VLM, commercial IDP, and open-source OCR baselines in overall parsing, table, and chart extraction benchmarks.
+- **Structured Extraction & Indexing**: Supports schema-based, LLM-driven extraction of unstructured content into structured formats, with enterprise-grade chunking/embedding pipelines optimized for precision in RAG applications across 50+ file types (including handwritten notes and embedded images).
 
-- **Enterprise-Grade Features**: Offers 10,000 free credits/month (~1,000 pages), 99.9% uptime, HIPAA/GDPR/SOC2 compliance, flexible deployment (cloud or VPC), and dedicated SLAs—optimized for scalable, secure, and mission-critical document automation workflows.
+- **Enterprise Deployment**: Offers 10K free credits/month (~1K pages), 99.9% uptime, HIPAA/GDPR/SOC2 compliance, and flexible deployment (cloud or VPC) with dedicated SLAs for production-grade AI workloads.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T04:14:56.462316+05:30
+- Published: 2026-07-01T10:30:28.327595+05:30
 
 ## Related Tags
 

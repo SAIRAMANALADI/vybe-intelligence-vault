@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/deepset-ai/haystack-cookbook/
-collected_at: '2026-06-29T03:54:10.427600+05:30'
+collected_at: '2026-07-01T10:34:46.467186+05:30'
 published_at: '2026-06-24T15:47:47Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-02T12:11:38Z'
 pushed_at: '2026-06-19T11:59:45Z'
 resource_id: github:deepset-ai/haystack-cookbook
-first_seen: '2026-06-29T03:54:10.427600+05:30'
-last_seen: '2026-06-29T03:54:10.427600+05:30'
-last_checked: '2026-06-29T03:54:10.427600+05:30'
+first_seen: '2026-07-01T10:34:46.467186+05:30'
+last_seen: '2026-07-01T10:34:46.467186+05:30'
+last_checked: '2026-07-01T10:34:46.467186+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Repository of example Jupyter Notebooks demonstrating practical applications of **Haystack**, an open-source framework for building **agentic AI systems**, **RAG pipelines**, and **GenAI use cases** in Python.
-- **Scope**: Covers **agentic workflows**, **AI tools integration**, and **generative AI applications**, with notebooks showcasing real-world implementations.
-- **Metadata**: 545 ⭐, 127 🍴, last updated **2026-06-24**; focuses on **Haystack AI**, **RAG**, and **GenAI** use cases.
+- **Purpose**: Collection of Jupyter Notebooks demonstrating practical implementations of Haystack, a framework for building search and question-answering systems.
+- **Key Features**: Includes examples for agentic AI, retrieval-augmented generation (RAG), and GenAI use cases, showcasing Python-based workflows.
+- **Metadata**: 545 stars, 127 forks, last updated June 24, 2026. Topics include Haystack-ai, agents, and AI tools.
 
 ## Why It Matters
 

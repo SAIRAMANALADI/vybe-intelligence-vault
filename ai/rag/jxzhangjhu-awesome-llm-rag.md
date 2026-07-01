@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-07-01T04:12:45.838750+05:30'
+collected_at: '2026-07-01T10:27:12.605656+05:30'
 published_at: '2026-06-30T11:35:52Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
 - paper
@@ -19,9 +20,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-07-01T04:12:45.838750+05:30'
-last_seen: '2026-07-01T04:12:45.838750+05:30'
-last_checked: '2026-07-01T04:12:45.838750+05:30'
+first_seen: '2026-07-01T10:27:12.605656+05:30'
+last_seen: '2026-07-01T10:27:12.605656+05:30'
+last_checked: '2026-07-01T10:27:12.605656+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource**: A comprehensive, community-maintained list of advanced **Retrieval-Augmented Generation (RAG)** techniques, frameworks, and research papers for **Large Language Models (LLMs)**.
-- **Technical focus**: Covers **embeddings**, **retrieval mechanisms**, and **RAG-augmented LLM architectures**, including topics like **retrieval-information** and **RAG-embeddings**.
-- **Updated frequently**: Last updated **June 30, 2026**, ensuring relevance with ongoing advancements in **LLM-RAG integration**.
+- **Curated resource**: Comprehensive collection of advanced RAG techniques, frameworks, and research papers for Large Language Models (LLMs), covering retrieval mechanisms, embedding models, and integration strategies.
+
+- **Technical focus**: Includes state-of-the-art methods for enhancing LLMs with external knowledge via retrieval augmentation, emphasizing embeddings, retrieval-information optimization, and hybrid architectures.
+
+- **Updated repository**: Actively maintained with recent advancements (last updated June 2026), featuring community contributions, benchmarks, and tools for implementing RAG in production or research settings.
 
 ## Why It Matters
 

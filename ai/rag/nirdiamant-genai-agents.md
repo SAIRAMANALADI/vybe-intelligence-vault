@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/GenAI_Agents
-collected_at: '2026-07-01T04:13:45.913468+05:30'
-published_at: '2026-06-30T22:36:30Z'
+collected_at: '2026-07-01T10:28:07.672176+05:30'
+published_at: '2026-07-01T04:34:05Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,8 @@ tags:
 - jupyter notebook
 - openai
 - rag
-stars: 22944
+- workflows
+stars: 22948
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-09-09T20:10:19Z'
 pushed_at: '2026-06-17T20:54:15Z'
 resource_id: github:nirdiamant/genai_agents
-first_seen: '2026-07-01T04:13:45.913468+05:30'
-last_seen: '2026-07-01T04:13:45.913468+05:30'
-last_checked: '2026-07-01T04:13:45.913468+05:30'
+first_seen: '2026-07-01T10:28:07.672176+05:30'
+last_seen: '2026-07-01T10:28:07.672176+05:30'
+last_checked: '2026-07-01T10:28:07.672176+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Resource**: Repository containing 50+ tutorials and implementations for Generative AI Agent techniques, ranging from basic conversational bots to advanced multi-agent systems.
+- **Comprehensive Tutorial Repository**: Hosts 50+ technical implementations covering Generative AI agent techniques, ranging from basic conversational bots to advanced multi-agent systems, with a focus on practical, executable examples in Jupyter Notebooks.
 
-- **Technical Stack**: Primarily uses Jupyter Notebooks with integrations for LangChain, LangGraph, LLMs (e.g., OpenAI), RAG, and MCP for building agentic AI systems in Python.
+- **Multi-Tool Ecosystem Integration**: Demonstrates agentic AI workflows using frameworks like LangChain, LangGraph, and MCP, alongside integrations with OpenAI LLMs, RAG pipelines, and Python-based machine learning pipelines for autonomous agent development.
 
-- **Active Development**: Last updated on 2026-06-30, with 22,944 stars and 3,855 forks, indicating a large and active community focused on agentic AI, autonomous agents, and multi-agent systems.
+- **High-Activity Open-Source Project**: Maintained repository with 22,948 stars and 3,856 forks, last updated in July 2026, serving as a dynamic resource for cutting-edge generative AI agent architectures and methodologies.
 
 ## Why It Matters
 
@@ -44,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NirDiamant
-- Stars: 22944
-- Forks: 3855
+- Stars: 22948
+- Forks: 3856
 - Language: Jupyter Notebook
 - Topics: agentic-ai, agents, ai, ai-agents, autonomous-agents, genai, generative-ai, langchain, langgraph, llm, llms, machine-learning, mcp, multi-agent, multi-agent-systems, openai, python, rag, tutorials
-- Last Updated: 2026-06-30T22:36:30Z
+- Last Updated: 2026-07-01T04:34:05Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-09-09T20:10:19Z

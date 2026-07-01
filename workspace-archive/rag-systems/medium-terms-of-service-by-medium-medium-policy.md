@@ -2,7 +2,7 @@
 title: Medium Terms of Service | by Medium | Medium Policy
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://medium.com/policy/9db0094a1e0f
+source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page
 resource_id: blog:medium-terms-of-service-by-medium-medium-policy
 local_vault_path: ai/rag/medium-terms-of-service-by-medium-medium-policy.md
 quality_score: 70
@@ -10,10 +10,6 @@ archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
-tags:
-- agents
-- rag
-- web-crawled
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -32,8 +28,9 @@ selection_reason:
 
 ## Summary
 
-- **License Grant**: Users retain content ownership but grant Medium a **nonexclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display user content across all Services, including derivative works (e.g., previews, top-author lists) with attribution, limited to Medium’s platform.
-- **Arbitration Clause**: Disputes (excluding small claims/IP injunctions) are resolved via **confidential, binding arbitration** under JAMS rules, waiving class actions/jury
+- **License Grant & Content Ownership**: Users retain rights to submitted content but grant Medium a **non-exclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Services (e.g., web, mobile) with attribution. This license enables cross-platform distribution (e.g., previews, derivative works like curated lists) but does not extend beyond Medium’s ecosystem.
+
+- **Dispute Resolution & Liability Limits**: All disputes (except smal
 
 ## Use Cases
 
@@ -43,7 +40,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://medium.com/policy/9db0094a1e0f
+Original source URL: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page
 
 ## Local Vault File
 

@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines a retriever (vector/lexical search) with a generator (LLM) to ground responses in external, up-to-date knowledge, improving factuality and reducing hallucinations compared to parametric-only models.
+- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator; optionally includes rerankers, query rewriting, caching, and orchestration for improved precision/efficiency.
 
-- **Key Components**: Includes chunking strategies (semantic/structure-aware), hybrid retrieval (BM25 + vector), cross-encoder reranking, query rewriting, and context distillation to optimize retrieval precision and generation quality.
+- **Chunking & Embeddings**: Text segmentation strategies (fixed-size, overlap, semantic, structure-aware, LLM-based) directly impact retrieval quality; embeddings require domain-specific fine-tuning, dimensionality optimization, and normalization for cosine similarity.
 
-- **Operational Challenges**:
+- **Multi-Stag
 
 ## Use Cases
 

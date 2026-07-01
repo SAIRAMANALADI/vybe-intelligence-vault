@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Columnar OLAP Engine**: ClickHouse is an open-source column-oriented database management system optimized for real-time analytics, offering millisecond query performance at petabyte scale with high compression ratios and vectorized query execution.
+- **Columnar OLAP Engine**: Optimized for real-time analytics with millisecond query performance at petabyte scale, leveraging vectorized execution and columnar storage for efficient data processing.
 
-- **Multi-Model Capabilities**: Supports real-time analytics, observability (logs/metrics/traces), ML/GenAI workloads (vector search, aggregations), and data warehousing via SQL, with native integrations for 100+ tools (e.g., Langfuse, LangChain,
+- **Open-Source Observability Stack (ClickStack)**: Provides scalable storage and querying for logs, metrics, and traces, enabling real-time monitoring and debugging of AI/ML systems.
+
+- **Vector Search & GenAI Integration**: Supports high-performance vector search and instant aggregations, powerin
 
 ## Use Cases
 

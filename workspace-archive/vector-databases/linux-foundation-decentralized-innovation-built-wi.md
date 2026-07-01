@@ -2,7 +2,7 @@
 title: Linux Foundation - Decentralized innovation, built with trust
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://www.linuxfoundation.org
+source_url: https://www.linuxfoundation.org/
 resource_id: blog:linux-foundation-decentralized-innovation-built-wi
 local_vault_path: ai/rag/linux-foundation-decentralized-innovation-built-wi.md
 quality_score: 70
@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Scale & Impact**: Hosts **1,300+ open-source projects**, with **855K+ developers contributing code**, adding **89M lines weekly**, supported by **21K+ organizations**.
-- **Neutral Collaboration Hub**: Provides a **trusted, vendor-neutral ecosystem** for open software, hardware, standards, and data projects, including **100+ standards/specifications**.
-- **Dual Membership/Project Hosting Model**: Enables organizations to **join as members** (shape ecosystem, measure contributions) or **host p
+- **Hosts 1,300+ open-source projects** spanning software, hardware, standards, and data, with 855K+ developers contributing 89M+ lines of code weekly.
+- **Provides neutral governance and scaling infrastructure** for projects, backed by 21K+ contributing organizations and 100+ standards/specifications.
+- **Offers training and events** (e.g., 4M+ developers trained, 229+ upcoming events) while enabling digital trust, sustainability, and security initiatives across ecosystems.
 
 ## Use Cases
 
@@ -42,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.linuxfoundation.org
+Original source URL: https://www.linuxfoundation.org/
 
 ## Local Vault File
 

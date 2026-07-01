@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified AI Application Lifecycle Management**: Platform supports end-to-end development, from prototyping to production deployment, with built-in tools for data ingestion, model selection, evaluation, and monitoring.
+- **Unified AI Application Lifecycle Management**: Supports end-to-end development from prototyping to production deployment, including data ingestion, model integration, evaluation, and monitoring.
 
-- **Modular Pipeline Architecture**: Enables construction of AI agents and RAG systems using interchangeable components (retrievers, rankers, generators) with support for OCR, document conversion, and multi-model provider integration.
+- **Modular Pipeline Architecture**: Enables building AI agents and RAG systems via configurable components (retrievers, rankers, generators) with visual Pipeline Builder and model-agnostic LLM/embedding provider support.
 
-- **Observability & Deployment Flexibility
+- **Observability & Deployment Tools**: Integrates tracing (Langfuse, Weights
 
 ## Use Cases
 

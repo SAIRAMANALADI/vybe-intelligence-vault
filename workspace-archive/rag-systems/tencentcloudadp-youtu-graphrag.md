@@ -12,7 +12,10 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
+- hackernews
+- models
 - python
 - rag
 selection_reason:
@@ -33,7 +36,9 @@ selection_reason:
 
 ## Summary
 
-*   Implements Youtu-GraphRAG, a novel framework for Retrieval-Augmented Generation (RAG) leveraging graph
+- **Vertically Unified Agents Framework**: Introduces a multi-agent architecture where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
+
+- **Graph-Centric RAG Integration**: Combines retrieval-augmented generation (RAG) with graph neural networks (GNNs) to dynamically construct and traverse knowledge graphs, enabling efficient multi-hop reasoning and cross-domain kn
 
 ## Use Cases
 

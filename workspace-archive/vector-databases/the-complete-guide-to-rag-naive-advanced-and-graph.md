@@ -7,9 +7,9 @@ source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
 local_vault_path: ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md
 quality_score: 70
-archive_score: 78
+archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -23,8 +23,7 @@ tags:
 - mistral
 - models
 selection_reason:
-- Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte
@@ -32,17 +31,14 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 78 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
 - Selection reasons:
-  - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **RAG Overview**: Retrieval-Augmented Generation (RAG) integrates retrieval, augmentation, and generation to enhance LLM responses by dynamically pulling relevant external knowledge, addressing issues like hallucination, data freshness, and private knowledge constraints.
-
-- **RAG Generations**: Naive RAG (basic vector search), Advanced RAG (hybrid retrieval, reranking, query transformation), Modular RAG (dynamic routing, tool integration), and Graph RAG (entity-relation graph-based retrieval f
+*   RAG mitigates LLM limitations (freshness, private knowledge, hallucination)
 
 ## Use Cases
 

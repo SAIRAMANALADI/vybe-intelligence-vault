@@ -13,8 +13,8 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: A starter template for **CrewAI** (a Python framework for AI agent orchestration) with minimal documentation.
-- **Metadata**: 7 stars, 4 forks, Python-based, last updated **2025-09-09**.
-- **Purpose**: Likely intended as a boilerplate for building multi-agent AI workflows using CrewAI.
+- **Repository Overview**: A starter template for CrewAI, a Python-based framework for multi-agent AI systems, with 7 stars and 4 forks.
+- **Technical Stack**: Implemented in Python, last updated on September 9, 2025.
+- **Metadata**: No additional topics or description provided; minimal repository structure.
 
 ## Use Cases
 

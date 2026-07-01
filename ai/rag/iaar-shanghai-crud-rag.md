@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-01T04:13:00.877650+05:30'
+collected_at: '2026-07-01T10:27:22.650962+05:30'
 published_at: '2026-06-26T08:31:01Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-01T04:13:00.877650+05:30'
-last_seen: '2026-07-01T04:13:00.877650+05:30'
-last_checked: '2026-07-01T04:13:00.877650+05:30'
+first_seen: '2026-07-01T10:27:22.650962+05:30'
+last_seen: '2026-07-01T10:27:22.650962+05:30'
+last_checked: '2026-07-01T10:27:22.650962+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Introduces CRUD-RAG, a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) in Large Language Models (LLMs), focusing on comprehensive Chinese contextual understanding and retrieval tasks.
+- **Benchmark Design**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive performance metrics across diverse retrieval and generation tasks.
 
-- **Evaluation Scope**: Covers four core RAG operations—**C**reate, **R**etrieve, **U**pdate, and **D**elete—assessing LLMs' dynamic interaction with external knowledge bases and real-time data manipulation.
+- **Evaluation Scope**: The benchmark assesses CRUD (Create, Read, Update, Delete) operations in RAG pipelines, measuring efficiency, accuracy, and robustness in handling dynamic knowledge updates and multi-turn interactions.
 
-- **Technical Implementation**: Provides a Python-based framework with standardized datasets, metrics, and evaluation protocols to benchmark RAG performance across diverse Chinese linguistic and domain-specific scenarios.
+- **Technical Framework**: Implemented in Python, the repository provides standardized datasets, evaluation protocols, and baseline models to facilitate reproducible research and systematic comparison of RAG architectures.
 
 ## Why It Matters
 

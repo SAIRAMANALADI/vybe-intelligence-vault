@@ -16,7 +16,7 @@ tags:
 - hackernews
 - producthunt
 - rag
-- reddit
+- scripts
 - web-crawled
 - workflows
 - youtube
@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Haystack Framework**: Open-source Python framework for building production-ready LLM applications, enabling retrieval-augmented generation (RAG), document processing, and enterprise search with modular components for document indexing, retrieval, and querying.
+- **Haystack Framework**: Open-source Python framework for building production-ready **Retrieval-Augmented Generation (RAG)** pipelines, enabling context-aware LLM applications with modular components for document retrieval, processing, and query execution.
 
-- **Enterprise Offerings**: Provides **Haystack Enterprise Starter/Platform** with priority support, expert consultation, and pre-built templates for scalable AI deployments, including **Haystack Enterprise Platform Trial** for testin
+- **Enterprise Offerings**: **Haystack Enterprise Platform** provides priority support, expert consultation, and pre-built templates for scalable AI deployments, including **Haystack Enterprise Starter** and **Platform Trial** for evaluation
 
 ## Use Cases
 

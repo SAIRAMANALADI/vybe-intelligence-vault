@@ -3,12 +3,15 @@ title: neuml/txtai
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/neuml/txtai
-collected_at: '2026-07-01T04:15:00.994048+05:30'
-published_at: '2026-06-30T14:33:25Z'
+source_url: https://github.com/neuml/txtai?source=post_page
+resource_id: github:neuml/txtai
+-----dba899ae0355---------------------------------------
+collected_at: '2026-07-01T10:30:42.864554+05:30'
+published_at: '2026-07-01T03:19:51Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -20,9 +23,9 @@ archived: false
 created_at: '2020-08-09T19:14:59Z'
 pushed_at: '2026-06-22T17:06:32Z'
 resource_id: github:neuml/txtai
-first_seen: '2026-07-01T04:15:00.994048+05:30'
-last_seen: '2026-07-01T04:15:00.994048+05:30'
-last_checked: '2026-07-01T04:15:00.994048+05:30'
+first_seen: '2026-07-01T10:30:42.864554+05:30'
+last_seen: '2026-07-01T10:30:42.864554+05:30'
+last_checked: '2026-07-01T10:30:42.864554+05:30'
 health_score: 100
 ---
 
@@ -30,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, supporting agents, RAG, and vector search.
+- **Framework Capabilities**: txtai is an end-to-end Python framework integrating semantic search, LLM orchestration, and language model workflows, supporting agents, RAG, and vector-based retrieval with sentence embeddings and transformers.
 
-- **Modular Components**: Leverages transformers, sentence embeddings, and vector databases for efficient information retrieval and NLP tasks.
+- **Technical Stack**: Built on Python with support for vector databases, embeddings, and large language models (LLMs), enabling hybrid search, information retrieval, and NLP pipelines.
 
-- **Scalable Architecture**: Designed for extensibility with support for custom workflows, embeddings, and integration with large language models (LLMs).
+- **Repository Metrics**: 12,691 stars, 839 forks, last updated July 2026, with active development in AI agents, semantic search, and retrieval-augmented generation (RAG) workflows.
 
 ## Why It Matters
 
@@ -44,10 +47,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: neuml
 - Stars: 12691
-- Forks: 838
+- Forks: 839
 - Language: Python
 - Topics: agents, ai, ai-agents, embeddings, information-retrieval, language-model, large-language-models, llm, nlp, python, rag, retrieval-augmented-generation, search, search-engine, semantic-search, sentence-embeddings, transformers, txtai, vector-database, vector-search
-- Last Updated: 2026-06-30T14:33:25Z
+- Last Updated: 2026-07-01T03:19:51Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2020-08-09T19:14:59Z
@@ -69,4 +72,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/neuml/txtai
+Original source: https://github.com/neuml/txtai?source=post_page-----dba899ae0355---------------------------------------

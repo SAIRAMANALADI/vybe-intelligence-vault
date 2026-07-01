@@ -9,7 +9,7 @@ local_vault_path: ai/rag/rag-retrieval-augmented-generation-guide-2025-impl.md
 quality_score: 70
 archive_score: 78
 archive_tier: useful
-resource_kind: prompt
+resource_kind: benchmark
 importance: medium
 tags:
 - anthropic
@@ -19,7 +19,6 @@ tags:
 - openai
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -31,16 +30,16 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 78 (useful)
-- Resource kind: prompt
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI `text-embedding-ada-002`, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for scalable, low-latency retrieval; retrieval strategies include semantic search, hybrid search (vector + BM25), and re-ranking (cross-encoder models like `ms-marco-MiniLM`).
+- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI `text-embedding-ada-002`, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) to dynamically retrieve and ground LLM responses in external knowledge.
 
-- **Implementation Workflow**: Documents are split into 200-500 token chunks, embedded, and stored in a
+- **Advanced Techniques**: Implements hierarchical retrieval, query expansion, hybrid search (dense + sparse vectors), cross-encoder re-ranking, and adaptive retrieval (Self-RAG) to improve recall, precision
 
 ## Use Cases
 

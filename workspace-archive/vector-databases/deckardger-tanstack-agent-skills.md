@@ -12,7 +12,6 @@ resource_kind: benchmark
 importance: medium
 tags:
 - agents
-- frontend_ui
 - github-repo
 - rag
 - reddit
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Provides best practices for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (React Query), including stale-while-revalidate (SWR) strategies and automatic background refetching.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (v5+), including stale-while-revalidate (SWR) strategies and automatic background refetching.
 
-- **TanStack Router Advanced Patterns**: Implements dynamic routing, lazy loading, and type-safe navigation for AI agents, leveraging TanStack Router’s file-based routing and nested route configurations for scalable frontend
+- **TanStack Router Best Practices**: Implements dynamic route loading, prefetching, and type-safe navigation for AI agents, leveraging TanStack Router’s file-based routing and nested layout support to minimize runtime overhe
 
 ## Use Cases
 

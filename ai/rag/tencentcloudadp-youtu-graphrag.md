@@ -4,11 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-07-01T04:13:25.924980+05:30'
+collected_at: '2026-07-01T10:27:52.657649+05:30'
 published_at: '2026-06-30T16:52:23Z'
 tags:
 - agents
+- benchmark
 - github-repo
+- hackernews
+- models
 - python
 - rag
 stars: 1211
@@ -19,9 +22,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-07-01T04:13:25.924980+05:30'
-last_seen: '2026-07-01T04:13:25.924980+05:30'
-last_checked: '2026-07-01T04:13:25.924980+05:30'
+first_seen: '2026-07-01T10:27:52.657649+05:30'
+last_seen: '2026-07-01T10:27:52.657649+05:30'
+last_checked: '2026-07-01T10:27:52.657649+05:30'
 health_score: 100
 ---
 
@@ -29,7 +32,11 @@ health_score: 100
 
 ## Summary
 
-*   Implements Youtu-GraphRAG, a novel framework for Retrieval-Augmented Generation (RAG) leveraging graph
+- **Vertically Unified Agents Framework**: Introduces a multi-agent architecture where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
+
+- **Graph-Centric RAG Integration**: Combines retrieval-augmented generation (RAG) with graph neural networks (GNNs) to dynamically construct and traverse knowledge graphs, enabling efficient multi-hop reasoning and cross-domain knowledge synthesis.
+
+- **Optimized for ICLR 2026**: Implements state-of-the-art techniques in agent orchestration, graph-based memory, and LLM fine-tuning, with benchmarks demonstrating superior performance in complex reasoning tasks compared to traditional RAG baselines.
 
 ## Why It Matters
 

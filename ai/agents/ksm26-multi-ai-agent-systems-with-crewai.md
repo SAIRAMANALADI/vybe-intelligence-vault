@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ksm26/Multi-AI-Agent-Systems-with-crewAI
-collected_at: '2026-06-29T10:35:40.878285+05:30'
+collected_at: '2026-07-01T10:30:27.798261+05:30'
 published_at: '2026-06-25T02:12:04Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-05-27T13:55:05Z'
 pushed_at: '2024-06-11T14:01:02Z'
 resource_id: github:ksm26/multi-ai-agent-systems-with-crewai
-first_seen: '2026-06-29T10:35:40.878285+05:30'
-last_seen: '2026-06-29T10:35:40.878285+05:30'
-last_checked: '2026-06-29T10:35:40.878285+05:30'
+first_seen: '2026-07-01T10:30:27.798261+05:30'
+last_seen: '2026-07-01T10:30:27.798261+05:30'
+last_checked: '2026-07-01T10:30:27.798261+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent System Framework**: Demonstrates specialized AI agent teams using the open-source `crewAI` library to automate complex, multi-step business processes via role-playing, natural language prompting, and custom tool integration.
+- **Specialized AI Agent Teams**: Demonstrates how to design and organize specialized AI agents using the open-source `crewAI` library to automate complex, multi-step business processes (e.g., financial analysis, event planning, customer support).
 
-- **Technical Implementation**: Focuses on modular agent design, error handling, and workflow optimization for tasks such as financial analysis, customer support automation, and resume tailoring using Jupyter Notebooks.
+- **Multi-Agent System Architecture**: Implements role-playing, natural language prompting, and custom tools to enable agent cooperation, task automation, and error handling in Jupyter Notebook-based workflows.
 
-- **Advanced Features**: Includes AI memory management, event planning, and business process automation with support for custom tools, ensuring scalable and adaptable multi-agent system deployments.
+- **Business Process Optimization**: Focuses on AI workflow optimization, memory management, and automation of tasks like resume tailoring, technical writing, and customer support using modular agent interactions.
 
 ## Why It Matters
 

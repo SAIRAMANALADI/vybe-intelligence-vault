@@ -4,17 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/greensock/gsap-skills
-collected_at: '2026-07-01T04:14:15.969121+05:30'
-published_at: '2026-06-30T20:52:29Z'
+collected_at: '2026-07-01T10:28:42.791489+05:30'
+published_at: '2026-07-01T04:56:59Z'
 tags:
 - agents
 - animation
 - github-repo
-- hackernews
 - scripts
 - unknown
 - workflows
-stars: 10565
+stars: 10585
 language: Unknown
 status: active
 license: MIT
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-03-04T17:22:35Z'
 pushed_at: '2026-04-21T23:47:09Z'
 resource_id: github:greensock/gsap-skills
-first_seen: '2026-07-01T04:14:15.969121+05:30'
-last_seen: '2026-07-01T04:14:15.969121+05:30'
-last_checked: '2026-07-01T04:14:15.969121+05:30'
+first_seen: '2026-07-01T10:28:42.791489+05:30'
+last_seen: '2026-07-01T10:28:42.791489+05:30'
+last_checked: '2026-07-01T10:28:42.791489+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **GSAP AI Skills Repository**: Provides structured AI training for GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration to standardize AI agent usage.
-- **Technical Specifications**: Repository includes curated examples and workflows for efficient GSAP implementation, optimized for AI-driven automation and code generation.
-- **Metadata**: 10,565 stars, 629 forks, last updated 2026-06-30; language unspecified, no additional topics or tags.
+- **GSAP AI Skill Repository**: Provides structured training for AI agents to implement GSAP (GreenSock Animation Platform) with optimized animations, best practices, and plugin integration.
+- **Key Focus Areas**: Covers common animation patterns, performance optimization, and correct usage of GSAP’s core engine and plugins (e.g., ScrollTrigger, MorphSVG).
+- **Metadata**: 10.5k+ stars, last updated July 2026, designed for AI-driven automation in animation workflows.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: greensock
-- Stars: 10565
+- Stars: 10585
 - Forks: 629
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-06-30T20:52:29Z
+- Last Updated: 2026-07-01T04:56:59Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-04T17:22:35Z

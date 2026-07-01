@@ -10,13 +10,14 @@ tags:
 - anthropic
 - anthropic-news
 - blog-post
-status: active
+status: inactive
 resource_id: blog:jun-9-2026announcementsclaude-fable-5-and-claude-m
 first_seen: '2026-06-11T18:20:57.834549+00:00'
 last_seen: '2026-07-01T04:10:43.584476+05:30'
 last_checked: '2026-07-01T04:10:43.584476+05:30'
 health_score: 100
 ---
+
 
 # Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5
 

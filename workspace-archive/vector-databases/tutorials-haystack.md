@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - benchmark
-- hackernews
 - models
 - openai
 - rag
@@ -36,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Evaluation Guide**: Comprehensive tutorial covering evaluation metrics and methodologies for assessing Haystack pipelines, including statistical and model-based approaches.
-- **Agentic RAG Systems**: Advanced tutorials on building multi-agent systems, conversational RAG with chat history, and tool-calling agents with fallback mechanisms for robust QA workflows.
-- **Multimodal & Optimization Techniques**: Tutorials on creating vision+text RAG pipelines, hybrid retrieval (dense + keyword-based
+- **Evaluation Guide**: Comprehensive walkthrough covering statistical and model-based metrics for assessing RAG pipeline performance, including precision, recall, and LLM-as-a-judge methods.
+
+- **Multimodal RAG Pipeline**: Tutorial demonstrating a vision+text RAG system that integrates image and text embeddings for grounded question answering using multimodal models.
+
+- **KV Cache Compression**: Guide on using TurboQuant quantization to reduce memory footprint of large LLMs, enabling deployment
 
 ## Use Cases
 

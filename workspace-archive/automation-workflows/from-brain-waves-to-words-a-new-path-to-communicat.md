@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by alok-g. Score: 56, Comments: 35.
+Hacker News story by alok-g. Score: 130, Comments: 70.
 Original Link: https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1
 
 ## Use Cases

@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Tech Stack**: TypeScript-based Next.js application with TailwindCSS for styling and Shadcn for UI components.
-- **Purpose**: Work-in-progress (WIP) template for building agentic chat applications.
-- **Metadata**: 56 stars, 56 forks, last updated June 1, 2026.
+- **Tech Stack**: TypeScript-based template using Next.js for frontend, TailwindCSS for styling, and Shadcn for UI components.
+- **Purpose**: Work-in-progress (WIP) agentic chat application template designed for modular, AI-driven conversational interfaces.
+- **Metadata**: 56 stars, 56 forks, last updated on 2026-06-01.
 
 ## Use Cases
 

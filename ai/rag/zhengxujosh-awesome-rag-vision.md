@@ -4,9 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-07-01T04:12:50.849465+05:30'
+collected_at: '2026-07-01T10:27:17.610080+05:30'
 published_at: '2026-06-29T08:53:18Z'
 tags:
+- benchmark
+- dataset
 - github-repo
 - hackernews
 - rag
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-07-01T04:12:50.849465+05:30'
-last_seen: '2026-07-01T04:12:50.849465+05:30'
-last_checked: '2026-07-01T04:12:50.849465+05:30'
+first_seen: '2026-07-01T10:27:17.610080+05:30'
+last_seen: '2026-07-01T10:27:17.610080+05:30'
+last_checked: '2026-07-01T10:27:17.610080+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)** applications.
-- **Metadata**: 337 stars, 9 forks, last updated **2026-06-29**; language unspecified, no additional topics listed.
-- **Purpose**: Serves as a **centralized reference** for cutting-edge RAG methods integrating vision-language models, multimodal retrieval, and generative AI for CV tasks.
+- **Curated RAG-Vision Resources**: Repository aggregates advanced retrieval-augmented generation (RAG) techniques tailored for computer vision applications, including multimodal fusion, cross-modal retrieval, and vision-language model integration.
+
+- **Multimodal RAG Frameworks**: Features cutting-edge methods leveraging RAG to enhance vision tasks (e.g., image captioning, object detection, VQA) via external knowledge retrieval and contextual grounding.
+
+- **Benchmark & Tooling Collection**: Includes datasets, evaluation metrics, and open-source implementations for validating RAG-based vision models, with emphasis on scalability and interpretability.
 
 ## Why It Matters
 

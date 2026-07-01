@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IntelLabs/fastRAG
-collected_at: '2026-07-01T04:13:00.919852+05:30'
+collected_at: '2026-07-01T10:27:27.669802+05:30'
 published_at: '2026-06-28T18:50:15Z'
 tags:
 - benchmark
 - github-repo
 - python
 - rag
+- workflows
 stars: 1783
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: true
 created_at: '2023-01-23T16:25:35Z'
 pushed_at: '2026-01-12T19:58:22Z'
 resource_id: github:intellabs/fastrag
-first_seen: '2026-07-01T04:13:00.919852+05:30'
-last_seen: '2026-07-01T04:13:00.919852+05:30'
-last_checked: '2026-07-01T04:13:00.919852+05:30'
+first_seen: '2026-07-01T10:27:27.669802+05:30'
+last_seen: '2026-07-01T10:27:27.669802+05:30'
+last_checked: '2026-07-01T10:27:27.669802+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: FastRAG is an efficient Python-based framework for Retrieval Augmented Generation (RAG), optimized for large-scale NLP tasks with support for multi-modal inputs and knowledge graphs.
+- **Framework Overview**: `fastRAG` is an efficient Python-based framework for **Retrieval-Augmented Generation (RAG)**, integrating **multi-modal** capabilities (e.g., text, knowledge graphs) with **transformers** and **sentence embeddings** (e.g., Colbert, Sentence-Transformers) for tasks like **semantic search**, **QA**, and **summarization**.
 
-- **Key Features**: Integrates advanced retrieval methods (e.g., ColBERT, sentence-transformers) with generative models (e.g., diffusion, LLMs) for tasks like QA, summarization, and semantic search.
+- **Optimized Retrieval & Generation**: Implements **diffusion-based** and **graph-augmented** retrieval mechanisms to enhance **information retrieval** and **LLM prompting**, with benchmarks for evaluating performance in **generative AI** workflows.
 
-- **Performance & Extensibility**: Designed for scalability, featuring benchmarking tools and modular architecture to support custom retrieval/generation pipelines.
+- **Modular & Scalable**: Designed for **high-throughput** RAG pipelines, supporting **distributed inference** and **multi-modal fusion**, with tools for **benchmarking** and **custom retrieval strategies** across NLP and vision-language tasks.
 
 ## Why It Matters
 

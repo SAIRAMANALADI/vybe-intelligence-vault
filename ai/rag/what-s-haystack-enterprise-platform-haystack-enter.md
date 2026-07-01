@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.cloud.deepset.ai/docs/getting-started
-published_at: '2026-06-30T04:00:33.767838+05:30'
-collected_at: '2026-06-30T04:00:33.767848+05:30'
+published_at: '2026-07-01T10:33:03.123660+05:30'
+collected_at: '2026-07-01T10:33:03.123670+05:30'
 tags:
 - agents
 - benchmark
@@ -16,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:what-s-haystack-enterprise-platform-haystack-enter
-first_seen: '2026-06-30T04:00:33.767848+05:30'
-last_seen: '2026-06-30T04:00:33.767848+05:30'
-last_checked: '2026-06-30T04:00:33.767848+05:30'
+first_seen: '2026-07-01T10:33:03.123670+05:30'
+last_seen: '2026-07-01T10:33:03.123670+05:30'
+last_checked: '2026-07-01T10:33:03.123670+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Application Lifecycle Management**: Platform supports end-to-end development, from prototyping to production deployment, with built-in tools for data ingestion, model selection, evaluation, and monitoring.
+- **Unified AI Application Lifecycle Management**: Supports end-to-end development from prototyping to production deployment, including data ingestion, model integration, evaluation, and monitoring.
 
-- **Modular Pipeline Architecture**: Enables construction of AI agents and RAG systems using interchangeable components (retrievers, rankers, generators) with support for OCR, document conversion, and multi-model provider integration.
+- **Modular Pipeline Architecture**: Enables building AI agents and RAG systems via configurable components (retrievers, rankers, generators) with visual Pipeline Builder and model-agnostic LLM/embedding provider support.
 
-- **Observability & Deployment Flexibility**: Provides REST API for automation, built-in performance dashboards, third-party tracing (Langfuse, Weave), and prototype sharing via branded links before production rollout.
+- **Observability & Deployment Tools**: Integrates tracing (Langfuse, Weights & Biases) and REST API for automation, alongside built-in logs and performance dashboards for production monitoring and user feedback collection.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T04:00:33.767838+05:30
+- Published: 2026-07-01T10:33:03.123660+05:30
 
 ## Related Tags
 

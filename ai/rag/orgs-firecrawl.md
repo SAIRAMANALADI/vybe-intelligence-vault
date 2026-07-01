@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/orgs/firecrawl/repositories?q=sort%3Astars
-published_at: '2026-07-01T01:55:33.706610+05:30'
-collected_at: '2026-07-01T01:55:33.706627+05:30'
+published_at: '2026-07-01T10:32:09.642323+05:30'
+collected_at: '2026-07-01T10:32:09.642337+05:30'
 tags:
 - agents
 - anthropic
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: github:orgs/firecrawl
-first_seen: '2026-07-01T01:55:33.706627+05:30'
-last_seen: '2026-07-01T01:55:33.706627+05:30'
-last_checked: '2026-07-01T01:55:33.706627+05:30'
+first_seen: '2026-07-01T10:32:09.642337+05:30'
+last_seen: '2026-07-01T10:32:09.642337+05:30'
+last_checked: '2026-07-01T10:32:09.642337+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Firecrawl Core**: TypeScript-based web scraping/crawling API with 142k stars, supporting HTML-to-Markdown conversion, structured data extraction, and AI-powered interaction at scale (AGPL-3.0 license).
+- **Firecrawl**: TypeScript-based web scraping/crawling API with 142k stars, supporting HTML-to-Markdown conversion, AI integration, and large-scale data extraction via REST endpoints.
 
-- **Firecrawl MCP Server**: JavaScript-based Model Context Protocol (MCP) server enabling LLM clients (e.g., Cursor, Claude) to integrate web scraping/search via standardized interfaces (MIT license, 6.8k stars).
+- **pdf-inspector**: Rust-based high-performance PDF processing library (1.5k stars) featuring OCR-aware text extraction, scanned vs. text-based PDF classification, and smart routing for downstream tasks.
 
-- **PDF Inspector**: Rust-based high-performance library for PDF classification (scanned vs. text-based) and text extraction, optimized for routing decisions in data pipelines (MIT license, 1.5k stars).
+- **firecrawl-mcp-server**: JavaScript MCP server (6.8k stars) enabling LLM clients (Cursor/Claude) to perform real-time web scraping, batch content extraction, and structured data collection via standardized MCP protocol.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T01:55:33.706610+05:30
+- Published: 2026-07-01T10:32:09.642323+05:30
 
 ## Related Tags
 

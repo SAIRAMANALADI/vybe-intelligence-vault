@@ -17,7 +17,6 @@ tags:
 - hackernews
 - python
 - scripts
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Repository aggregating tools, frameworks, and resources for developing AI-driven web agents, focusing on browser automation, LLM integration, and benchmarking.
-- **Technical Scope**: Primarily Python-based, covering AI agents, LLM evaluation, and automation frameworks with active community contributions (1.4K+ stars, 193 forks).
-- **Updated & Active**: Last modified in June 2026, ensuring relevance for modern AI agent development and LLM benchmarking workflows.
+- **Curated Resource**: A GitHub repository (`steel-dev/awesome-web-agents`) compiling tools, frameworks, and resources for developing AI-driven web agents, covering browser automation, LLM integration, and benchmarking.
+- **Technical Scope**: Focuses on Python-based solutions, with emphasis on LLM-based agents, browser automation (e.g., Selenium, Playwright), and evaluation frameworks for agent performance.
+- **Community Metrics**: High engagement (1.4k+ stars, 193 forks) with last update in Ju
 
 ## Use Cases
 

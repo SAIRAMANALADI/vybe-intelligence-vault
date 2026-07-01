@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource**: Aggregates GitHub Copilot enhancement files (instructions, prompts, skills, MCPs, and agent markdowns) for advanced AI agent integration.
-- **Technical Scope**: Covers `agent-skills`, `prompt-engineering`, `custom-agents`, and `MCP` (Model Context Protocol) configurations for VS Code Copilot Chat.
-- **Repository Stats**: 541 stars, 87 forks, TypeScript-based, last updated 2026-06-29.
+- **Curated Resource**: Collection of GitHub Copilot instructions, prompts, skills, MCPs, and agent markdown files for enhanced AI agent interactions.
+- **Technical Scope**: Focuses on `agent-skills`, `prompt-engineering`, `custom-agents`, and `MCP` (Model Context Protocol) integration for VS Code Copilot Chat.
+- **Repository Metrics**: 542 stars, 89 forks, TypeScript-based, last updated July 1, 2026.
 
 ## Use Cases
 

@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Agent Development Guide**: Provides a step-by-step tutorial on building intelligent agents from scratch, covering core principles and practical implementations in Python.
+- **Educational Repository**: Provides a structured tutorial (`《从零开始构建智能体》`) for building AI agents from scratch, covering both theoretical foundations and practical implementations.
 
-- **Key Technical Components**: Focuses on integrating large language models (LLMs), retrieval-augmented generation (RAG), and agent architectures for real-world applications.
+- **Technical Scope**: Focuses on core components like Large Language Models (LLM), Retrieval-Augmented Generation (RAG), and agent architectures, implemented in Python.
 
-- **Open-Source Educational Resource**: Hosted on GitHub with 62,976 stars and 7,786 forks, offering a collaborative learning platfor
+- **Community & Maintenance**: Actively maintained (last update: 2026-07-01), with 63,048 stars and 7,795 forks, indicating strong community enga
 
 ## Use Cases
 

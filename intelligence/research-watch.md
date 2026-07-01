@@ -7,12 +7,14 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | ["Generate" the Future of Work through AI: Empirical Evidence from Online Labor Markets](https://arxiv.org/abs/2308.05201) | `ai-coding-agents/` | 70 |
 | [The Governance Inversion Hypothesis: Why More AI Regulation May Produce Less Organisational Control](https://arxiv.org/abs/2606.26117) | `ai-coding-agents/` | 70 |
 | [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) | `ai-coding-agents/` | 70 |
+| [RigorBench: Benchmarking Engineering Process Discipline in Autonomous AI Coding Agents](https://arxiv.org/abs/2606.22678) | `ai-coding-agents/` | 70 |
 | [When Generic Prompt Improvements Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025) | `ai-coding-agents/` | 70 |
 | [The Interference Gap: Comparing Retrieval Bounds in Human Memory and RAG Systems](https://arxiv.org/abs/2606.28327) | `ai-coding-agents/` | 70 |
 | [ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues](https://arxiv.org/abs/2606.18237) | `ai-coding-agents/` | 70 |
 | [Fair Cognitive Impairment Detection Through Unlearning](https://arxiv.org/abs/2606.18571) | `ai-coding-agents/` | 70 |
 | [ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research](https://arxiv.org/abs/2606.07591) | `ai-coding-agents/` | 70 |
 | [Dot-Flik: A Scalable Edge AI Architecture for Distributed Insect Monitoring](https://arxiv.org/abs/2606.26121) | `ai-coding-agents/` | 70 |
+| [ASR-Agnostic Multimodal Spectrotemporal Modeling for Early Dementia Detection](https://arxiv.org/abs/2606.30646) | `ai-coding-agents/` | 70 |
 | [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243) | `ai-coding-agents/` | 70 |
 | ["Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills in the Wild](https://arxiv.org/abs/2602.06547) | `ai-coding-agents/` | 70 |
 | [Geometric Measurements of the Axiom of Choice in Neural Proof Embeddings](https://arxiv.org/abs/2606.28572) | `ai-coding-agents/` | 70 |
@@ -27,7 +29,5 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [It Lied to a Doctor to Buy Poison Ingredients: Quantifying Real-World Misuse of Phone-use Agents](https://arxiv.org/abs/2606.27944) | `ai-coding-agents/` | 70 |
 | [AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility](https://arxiv.org/abs/2606.13608) | `ai-coding-agents/` | 70 |
 | [MiniMax Sparse Attention](https://arxiv.org/abs/2606.13392) | `ai-coding-agents/` | 70 |
-| [Evolving Programmatic Skill Networks](https://arxiv.org/abs/2601.03509) | `ai-coding-agents/` | 70 |
-| [Life After Benchmark Saturation: A Case Study of CORE-Bench](https://arxiv.org/abs/2606.26158) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

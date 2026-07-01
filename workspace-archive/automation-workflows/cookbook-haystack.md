@@ -6,10 +6,10 @@ source_url: https://haystack.deepset.ai/cookbook
 resource_id: blog:cookbook-haystack
 local_vault_path: ai/rag/cookbook-haystack.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
-resource_kind: framework
-importance: medium
+resource_kind: benchmark
+importance: high
 tags:
 - agents
 - anthropic
@@ -23,7 +23,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # 🧑‍🍳 Cookbook | Haystack
@@ -31,19 +31,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Haystack Cookbook** provides 71 technical recipes for integrating model providers, vector databases, retrieval techniques, and more, with examples spanning RAG, agents, multimodal processing, and advanced retrieval strategies.
-
-- **Key Technical Areas Covered**: Custom tool integration (e.g., MCP, OpenStreetMap), hybrid retrieval (e.g., BM42, HyDE), and agentic workflows (e.g., self-reflecting agents, swarm architectures) with support for async execution and function calling.
-
-- **Specialize
+- **Haystack Cookbook** provides 71 technical recipes demonstrating integrations with model providers, vector databases, retrieval techniques, and advanced AI workflows (e.g., RAG, agents, multimodal processing).
+- **Key focus areas** include agentic systems (e.g., itinerary planning, GitHub issue resolution), retrieval optimization (e.g., hybrid RAG, HyDE, metadata enrichment), and observability/evaluation (e.g., Arize Phoenix, RAGAS).
+- **Experimental and production-ready examples** cover dive
 
 ## Use Cases
 

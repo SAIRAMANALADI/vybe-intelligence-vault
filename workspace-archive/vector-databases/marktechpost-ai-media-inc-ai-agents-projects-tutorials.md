@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Systems**: Repository focuses on collaborative AI agents with skills in memory, planning, and reasoning loops for complex task execution.
-- **Agentic AI Development**: Contains Jupyter Notebooks covering agentic frameworks, RAG (Retrieval-Augmented Generation), and workflow optimization.
-- **Technical Resources**: 2750+ stars, 601 forks; updated June 2026; includes agentic coding, engineering, and AI agent tutorials.
+- Repository focuses on **multi-agent systems**, **memory management**, **planning**, and **reasoning loops** in AI agent development.
+- Contains **Jupyter Notebooks** covering **agentic AI frameworks**, **RAG workflows**, and **agentic coding/engineering** techniques.
+- Updated **July 2026**; 2,752 stars, 600 forks; topics include **agent-skills**, **agentic frameworks**, and **AI agent development**.
 
 ## Use Cases
 

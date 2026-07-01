@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-01T04:13:25.849927+05:30'
+collected_at: '2026-07-01T10:27:47.632424+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-01T04:13:25.849927+05:30'
-last_seen: '2026-07-01T04:13:25.849927+05:30'
-last_checked: '2026-07-01T04:13:25.849927+05:30'
+first_seen: '2026-07-01T10:27:47.632424+05:30'
+last_seen: '2026-07-01T10:27:47.632424+05:30'
+last_checked: '2026-07-01T10:27:47.632424+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework inspired by human memory organization, enabling stateful long narrative reasoning via structured memory hierarchies.
+- **Cognitive Memory Architecture**: Introduces a memory-organized RAG framework simulating human-like memory retrieval and reasoning for long narrative tasks, enhancing stateful reasoning via structured memory hierarchies.
 
-- **Memory Organization**: Implements a multi-layered memory system (episodic, semantic, procedural) with dynamic retrieval and consolidation mechanisms to maintain contextual coherence over extended interactions.
+- **Stateful Long Narrative Reasoning**: Proposes a dynamic memory update mechanism to maintain contextual coherence across extended dialogues or documents, improving multi-turn reasoning performance.
 
-- **AAAI 2026 Contribution**: Proposes novel memory update policies and retrieval strategies, validated on long-form reasoning benchmarks, achieving state-of-the-art performance in narrative consistency and factual recall.
+- **AAAI 2026 Poster Submission**: Presents empirical results demonstrating superior accuracy and efficiency over traditional RAG models in long-form narrative comprehension benchmarks.
 
 ## Why It Matters
 

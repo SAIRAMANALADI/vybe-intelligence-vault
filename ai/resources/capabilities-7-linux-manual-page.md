@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://man7.org/linux/man-pages/man7/capabilities.7.html
-published_at: '2026-06-24T21:05:28.690149+05:30'
-collected_at: '2026-06-24T21:05:28.690162+05:30'
+published_at: '2026-07-01T10:38:31.806578+05:30'
+collected_at: '2026-07-01T10:38:31.806594+05:30'
 tags:
 - hackernews
 - producthunt
 - web-crawled
 status: active
 resource_id: blog:capabilities-7-linux-manual-page
-first_seen: '2026-06-24T21:05:28.690162+05:30'
-last_seen: '2026-06-24T21:05:28.690162+05:30'
-last_checked: '2026-06-24T21:05:28.690162+05:30'
+first_seen: '2026-07-01T10:38:31.806594+05:30'
+last_seen: '2026-07-01T10:38:31.806594+05:30'
+last_checked: '2026-07-01T10:38:31.806594+05:30'
 health_score: 100
 ---
 
@@ -22,14 +22,16 @@ health_score: 100
 
 ## Summary
 
-- **Linux Capabilities Overview**: Linux divides traditional superuser privileges into granular *capabilities* (per-thread attributes), replacing binary root/superuser model since kernel 2.2. Each capability controls specific privileged operations (e.g., `CAP_NET_ADMIN` for network config, `CAP_SYS_ADMIN` for system admin tasks).
+- **Linux Capabilities Overview**: Traditional UNIX privilege model (root vs. non-root) replaced by fine-grained capabilities (per-thread attributes) in Linux 2.2+, enabling selective privilege delegation instead of full root access.
 
 - **Key Capabilities**:
-  - `CAP_BPF` (Linux 5.8+): Enables privileged BPF operations (separated from `CAP_SYS_ADMIN`).
-  - `CAP_CHECKPOINT_RESTORE` (Linux 5.9+): Allows PID namespace manipulation and `/proc/pid/map_files` access.
-  - `CAP_PERFMON` (Linux 5.8+): Grants performance monitoring (e.g., `perf_event_open`), decoupled from `CAP_SYS_ADMIN`.
+  - **CAP_SYS_ADMIN**: Overloaded system admin operations (mount, quotactl, BPF, checkpoint/restore, etc.).
+  - **CAP_NET_RAW**: Raw/Packet sockets, transparent proxying.
+  - **CAP_BPF/CHECKPOINT_RESTORE/PERFMON**: Modern capabilities (Linux 5.8+) separating BPF, checkpointing, and perf monitoring from CAP_SYS_ADMIN.
 
-- **Privilege Escalation Risks**: `CAP_SYS_ADMIN` is overloaded (combines 50+ operations), making it a high-risk target. Modern kernels introduce specialized capabilities (e.g., `CAP_BPF`, `CAP_PERFMON`) to reduce attack surface by splitting monolithic privileges.
+- **Privilege Escalation Controls**:
+  - **CAP_SETPCAP**: Modify thread capability sets (bounding/inheritable) or (pre-2.6.24) grant/remove any capability.
+  - **CAP_SETUID/SETGID**: Arbitrary UID/GID manipulation, including namespace mapping and socket credential forging.
 
 ## Why It Matters
 
@@ -39,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T21:05:28.690149+05:30
+- Published: 2026-07-01T10:38:31.806578+05:30
 
 ## Related Tags
 

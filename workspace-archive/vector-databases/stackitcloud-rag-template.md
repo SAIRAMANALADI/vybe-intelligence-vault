@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Implementation**: Provides a template for building AI chatbots and document management systems using Retrieval-Augmented Generation (RAG) with vector search capabilities.
-- **Tech Stack**: Utilizes FastAPI for the backend, Python for core logic, and supports Docker/Kubernetes for deployment; integrates with Ollama for LLM access and a vector database for embeddings.
-- **Deployment Ready**: Pre-configured for cloud deployment with STACKIT, including Docker and Kubernetes support for scala
+- **Purpose**: Template for deploying AI chatbots and document management systems using **Retrieval-Augmented Generation (RAG)** with **vector search** and **FastAPI** backend.
+- **Key Components**: Integrates **Ollama** (LLM), **vector database** (for embeddings), and supports **Docker/Kubernetes** deployment; optimized for **Python**.
+- **Features**: Includes **RAG-chatbot** architecture, **LLM inference**, and **document retrieval** pipeline; last updated **2026-06-28**.
 
 ## Use Cases
 

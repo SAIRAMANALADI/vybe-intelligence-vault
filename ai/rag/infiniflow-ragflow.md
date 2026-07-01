@@ -6,25 +6,25 @@ source_name: GitHub Discovery
 source_url: https://github.com/infiniflow/ragflow?source=post_page
 resource_id: github:infiniflow/ragflow
 -----dba899ae0355---------------------------------------
-collected_at: '2026-07-01T04:14:55.975207+05:30'
-published_at: '2026-06-30T22:36:25Z'
+collected_at: '2026-07-01T10:30:42.910264+05:30'
+published_at: '2026-07-01T04:54:11Z'
 tags:
 - agents
 - github-repo
 - go
 - rag
 - workflows
-stars: 83971
+stars: 83992
 language: Go
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-12-12T06:13:13Z'
-pushed_at: '2026-06-30T14:30:44Z'
+pushed_at: '2026-07-01T02:47:39Z'
 resource_id: github:infiniflow/ragflow
-first_seen: '2026-07-01T04:14:55.975207+05:30'
-last_seen: '2026-07-01T04:14:55.975207+05:30'
-last_checked: '2026-07-01T04:14:55.975207+05:30'
+first_seen: '2026-07-01T10:30:42.910264+05:30'
+last_seen: '2026-07-01T10:30:42.910264+05:30'
+last_checked: '2026-07-01T10:30:42.910264+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG-Engine**: Combines advanced Retrieval-Augmented Generation (RAG) with agentic workflows to enhance LLM context processing via a modular, extensible architecture.
+- **Hybrid RAG-Engine**: Combines state-of-the-art Retrieval-Augmented Generation (RAG) with agentic workflows to enhance LLM context processing via dynamic retrieval and structured reasoning.
 
-- **Multi-Modal Context Layer**: Supports structured/unstructured data ingestion (e.g., PDFs, web pages) with adaptive retrieval strategies and dynamic agent orchestration for optimized LLM inference.
+- **Go-Based Architecture**: Implements a high-performance, concurrent Go backend for scalable document ingestion, indexing, and retrieval with low-latency LLM interaction.
 
-- **Scalable Go Implementation**: Optimized for high-throughput, low-latency operations with built-in vector search, agentic tool integration, and REST/gRPC APIs for seamless LLM app integration.
+- **Agentic Context Layer**: Enables multi-agent orchestration for adaptive retrieval strategies, context refinement, and task-specific augmentation in LLM applications.
 
 ## Why It Matters
 
@@ -45,15 +45,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: infiniflow
-- Stars: 83971
-- Forks: 9750
+- Stars: 83992
+- Forks: 9754
 - Language: Go
 - Topics: agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-management, llm-apps, rag, retrieval-augmented-generation
-- Last Updated: 2026-06-30T22:36:25Z
+- Last Updated: 2026-07-01T04:54:11Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-12T06:13:13Z
-- Pushed At: 2026-06-30T14:30:44Z
+- Pushed At: 2026-07-01T02:47:39Z
 
 ## Possible Use Cases
 

@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Danielskry/Awesome-RAG
-collected_at: '2026-07-01T04:12:45.845776+05:30'
-published_at: '2026-06-30T10:58:09Z'
+collected_at: '2026-07-01T10:27:07.573585+05:30'
+published_at: '2026-07-01T00:55:01Z'
 tags:
-- benchmark
 - github-repo
+- hackernews
 - rag
 - unknown
-stars: 1284
+stars: 1285
 language: Unknown
 status: active
 license: CC0-1.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-04-12T14:45:44Z'
 pushed_at: '2026-06-30T10:58:04Z'
 resource_id: github:danielskry/awesome-rag
-first_seen: '2026-07-01T04:12:45.845776+05:30'
-last_seen: '2026-07-01T04:12:45.845776+05:30'
-last_checked: '2026-07-01T04:12:45.845776+05:30'
+first_seen: '2026-07-01T10:27:07.573585+05:30'
+last_seen: '2026-07-01T10:27:07.573585+05:30'
+last_checked: '2026-07-01T10:27:07.573585+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Aggregates cutting-edge Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI, spanning LLMs, vector databases, and hybrid retrieval mechanisms.
-- **High-Activity Open-Source Project**: Maintained repository with 1,284 stars and 157 forks, indicating strong community engagement and rapid updates (last commit: 2026-06-30).
-- **Multi-Topic Focus**: Covers core RAG components including retrieval strategies, prompt engineering, evaluation metrics, and deployment pipelines for scalable generative AI systems.
+- **Curated RAG Resources**: Comprehensive collection of Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI, covering diverse use cases and implementations.
+- **Active Maintenance**: Last updated in July 2026, ensuring relevance with ongoing community contributions and updates to reflect advancements in RAG techniques.
+- **High Engagement**: Repository demonstrates significant traction with 1,285 stars and 156 forks, indicating strong community interest and adoption in AI/ML research.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Danielskry
-- Stars: 1284
-- Forks: 157
+- Stars: 1285
+- Forks: 156
 - Language: Unknown
 - Topics: artificial-intelligence, generative-ai, large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-06-30T10:58:09Z
+- Last Updated: 2026-07-01T00:55:01Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2024-04-12T14:45:44Z

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/olegnazarov/rag-security-scanner
-collected_at: '2026-07-01T04:13:05.861584+05:30'
+collected_at: '2026-07-01T10:27:32.632225+05:30'
 published_at: '2026-06-24T12:14:44Z'
 tags:
 - github-repo
@@ -12,6 +12,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 stars: 71
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-07-15T14:16:25Z'
 pushed_at: '2025-09-14T06:39:55Z'
 resource_id: github:olegnazarov/rag-security-scanner
-first_seen: '2026-07-01T04:13:05.861584+05:30'
-last_seen: '2026-07-01T04:13:05.861584+05:30'
-last_checked: '2026-07-01T04:13:05.861584+05:30'
+first_seen: '2026-07-01T10:27:32.632225+05:30'
+last_seen: '2026-07-01T10:27:32.632225+05:30'
+last_checked: '2026-07-01T10:27:32.632225+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Automated security scanner for RAG/LLM-based applications (e.g., chatbots, virtual assistants) to detect critical vulnerabilities like prompt injection, OWASP Top 10 risks, and AI-specific threats.
-- **Features**: Implements red-team techniques, automated testing, and security audits tailored for LLM/rag systems, supporting OpenAI and other AI frameworks.
-- **Technical Stack**: Python-based tool with integration for CI/CD pipelines, vulnerability scanning, and penetration testing in AI-driven environments.
+- **Purpose**: A Python-based security scanner designed to detect critical vulnerabilities in AI-powered applications (e.g., RAG/LLM systems, chatbots, virtual assistants) through automated testing and red-teaming techniques.
+- **Key Features**: Implements OWASP LLM Top 10 and prompt injection detection, supports OpenAI-compatible APIs, and integrates security audits for AI workflows.
+- **Capabilities**: Identifies security flaws in retrieval-augmented generation (RAG) pipelines, including data leakage, adversarial attacks, and unauthorized access vectors.
 
 ## Why It Matters
 

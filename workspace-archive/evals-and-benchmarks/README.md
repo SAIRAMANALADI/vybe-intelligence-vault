@@ -8,25 +8,25 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 
 ## Top Matched Resources
 
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (prompt - ESSENTIAL Tier)
 - [Mem0 · GitHub](https://github.com/mem0ai) (mcp-server - ESSENTIAL Tier)
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) (framework - ESSENTIAL Tier)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (template - ESSENTIAL Tier)
 - [protobuf-go/proto at v1.36.11 · protocolbuffers/protobuf-go · GitHub](https://github.com/protocolbuffers/protobuf-go/tree/v1.36.11/proto) (benchmark - ESSENTIAL Tier)
-- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production) (framework - ESSENTIAL Tier)
-- [langgenius/dify](https://github.com/langgenius/dify) (mcp-server - ESSENTIAL Tier)
 - [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide) (framework - ESSENTIAL Tier)
 - [tomasonjo (Tomaz Bratanic) · GitHub](https://github.com/tomasonjo/) (benchmark - ESSENTIAL Tier)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page) (framework - ESSENTIAL Tier)
+- [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag) (prompt - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/tylerwince/promptfoo (Promptfoo)
 https://github.com/confident-ai/deepeval (DeepEval)
 https://github.com/explodinggradients/ragas (Ragas)
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
 - [Mem0 · GitHub](https://github.com/mem0ai)
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack)
 - [protobuf-go/proto at v1.36.11 · protocolbuffers/protobuf-go · GitHub](https://github.com/protocolbuffers/protobuf-go/tree/v1.36.11/proto)
-- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production)
+- [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/explodinggradients/ragas (Ragas)
 
 ---
 
-*Last updated: 2026-07-01 04:27 IST*
+*Last updated: 2026-07-01 10:42 IST*

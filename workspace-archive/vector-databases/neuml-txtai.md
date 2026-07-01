@@ -2,20 +2,14 @@
 title: neuml/txtai
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/neuml/txtai
+source_url: https://github.com/neuml/txtai?source=post_page
 resource_id: github:neuml/txtai
 local_vault_path: ai/rag/neuml-txtai.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
-tags:
-- agents
-- github-repo
-- python
-- rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -26,7 +20,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +28,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, supporting agents, RAG, and vector search.
+- **Framework Capabilities**: txtai is an end-to-end Python framework integrating semantic search, LLM orchestration, and language model workflows, supporting agents, RAG, and vector-based retrieval with sentence embeddings and transformers.
 
-- **Modular Components**: Leverages transformers, sentence embeddings, and vector databases for efficient information retrieval and NLP tasks.
+- **Technical Stack**: Built on Python with support for vector databases, embeddings, and large language models (LLMs), enabling hybrid search, information retrieval, and NLP pipelines.
 
-- **Scalable Architecture**: Designed for extensibility with support for custom workflows, embeddings, and integration with large language models (LLMs).
+- **Repository Metrics**: 12,691 stars, 839 forks, last updated July 2
 
 ## Use Cases
 
@@ -48,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/neuml/txtai
+Original source URL: https://github.com/neuml/txtai?source=post_page
 
 ## Local Vault File
 

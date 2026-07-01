@@ -6,19 +6,18 @@ source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
 resource_id: github:liangdabiao/easy_investment_agent_crewai
 local_vault_path: ai/rag/liangdabiao-easy-investment-agent-crewai.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
 - github-repo
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # liangdabiao/easy_investment_Agent_crewai
@@ -26,17 +25,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Multi-agent A-share analysis system**: Implements 4 specialized AI agents (data collection, financial analysis, sentiment evaluation, decision synthesis) using CrewAI for collaborative A-share market intelligence.
-- **AKShare integration**: Leverages AKShare API for real-time quotes, financials, fund flows, and sentiment data to power agent-driven analysis.
-- **China-market optimization**: Tailored for A-share characteristics with specialized tools for Chinese stock market dynamics and decis
+- **Multi-Agent A股 Analysis Framework**: Leverages AKShare for real-time A-share data (quotes, financials, fund flows, sentiment) and CrewAI to orchestrate 4 specialized AI agents (e.g., data fetcher, analyzer, sentiment evaluator, decision recommender) for collaborative investment insights.
+
+- **China-Specific Optimization**: Tailored for A-share market nuances (e.g., regulatory constraints, liquidity patterns) with specialized tools for Chinese financial data processing and reporting.
+
+- **End
 
 ## Use Cases
 

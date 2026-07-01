@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - youtube
 selection_reason:
@@ -31,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal conversational AI framework**: Open-source Python-based system enabling real-time voice and video interactions for conversational agents with multi-modal capabilities.
-
-- **Real-time processing architecture**: Designed for low-latency conversational AI, supporting synchronous and asynchronous multi-modal data streams (voice, video, text).
-
-- **Extensible plugin system**: Modular framework with 10,811+ GitHub stars, allowing integration of custom models, APIs, and processing pipel
+- **Purpose**: Open-source framework for building conversational voice AI agents with multi-modal capabilities (voice, video, real-time processing).
+- **Technical Stack**: Primarily implemented in Python, supporting real-time audio/video interactions and multi-modal data processing.
+- **Metrics**: 10,815 stars, 1,313 forks, last updated July 1, 2026.
 
 ## Use Cases
 

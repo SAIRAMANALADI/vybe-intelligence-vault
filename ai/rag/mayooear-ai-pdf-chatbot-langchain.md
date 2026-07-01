@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mayooear/ai-pdf-chatbot-langchain
-collected_at: '2026-06-30T10:10:15.599078+05:30'
-published_at: '2026-06-30T01:19:24Z'
+collected_at: '2026-07-01T10:30:02.745311+05:30'
+published_at: '2026-06-30T16:32:27Z'
 tags:
 - agents
 - frontend_ui
@@ -23,9 +23,9 @@ archived: true
 created_at: '2023-03-17T01:23:26Z'
 pushed_at: '2026-03-27T16:04:05Z'
 resource_id: github:mayooear/ai-pdf-chatbot-langchain
-first_seen: '2026-06-30T10:10:15.599078+05:30'
-last_seen: '2026-06-30T10:10:15.599078+05:30'
-last_checked: '2026-06-30T10:10:15.599078+05:30'
+first_seen: '2026-07-01T10:30:02.745311+05:30'
+last_seen: '2026-07-01T10:30:02.745311+05:30'
+last_checked: '2026-07-01T10:30:02.745311+05:30'
 health_score: 100
 ---
 
@@ -34,8 +34,8 @@ health_score: 100
 ## Summary
 
 - **Tech Stack**: TypeScript-based AI PDF chatbot leveraging LangChain, LangGraph, Next.js, and OpenAI for agentic workflows and document interaction.
-- **Core Functionality**: Enables conversational querying over PDFs via a structured pipeline combining document parsing, vector embeddings, and LLM-driven response generation.
-- **Architecture**: Implements a modular agent system with stateful workflows (LangGraph) for dynamic PDF processing and real-time Q&A capabilities.
+- **Core Functionality**: Enables conversational querying over PDFs via a structured agent architecture, integrating retrieval-augmented generation (RAG) for contextual responses.
+- **Scalability**: Modular design with 16.5k+ GitHub stars, supporting multi-agent orchestration and dynamic graph-based state management for extensibility.
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 3220
 - Language: TypeScript
 - Topics: agents, ai, chatbot, langchain, langgraph, nextjs, openai, pdf, typescript
-- Last Updated: 2026-06-30T01:19:24Z
+- Last Updated: 2026-06-30T16:32:27Z
 - License: MIT
 - Archived: Yes
 - Created At: 2023-03-17T01:23:26Z

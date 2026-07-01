@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datarobot-community/datarobot-agent-templates
-collected_at: '2026-06-30T10:10:20.698579+05:30'
-published_at: '2026-06-12T08:39:39Z'
+collected_at: '2026-07-01T10:30:12.842953+05:30'
+published_at: '2026-06-30T17:42:09Z'
 tags:
 - agents
 - github-repo
@@ -14,8 +14,9 @@ tags:
 - models
 - python
 - rag
+- scripts
 - workflows
-stars: 18
+stars: 19
 language: Python
 status: active
 license: Apache-2.0
@@ -23,9 +24,9 @@ archived: false
 created_at: '2025-05-14T14:40:53Z'
 pushed_at: '2026-06-24T08:04:39Z'
 resource_id: github:datarobot-community/datarobot-agent-templates
-first_seen: '2026-06-30T10:10:20.698579+05:30'
-last_seen: '2026-06-30T10:10:20.698579+05:30'
-last_checked: '2026-06-30T10:10:20.698579+05:30'
+first_seen: '2026-07-01T10:30:12.842953+05:30'
+last_seen: '2026-07-01T10:30:12.842953+05:30'
+last_checked: '2026-07-01T10:30:12.842953+05:30'
 health_score: 100
 ---
 
@@ -33,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides modular templates for building agentic workflows integrating DataRobot, CrewAI, LangGraph, LlamaIndex, and LLM frameworks for autonomous AI systems.
+- **Repository Purpose**: Provides agentic workflow templates for DataRobot, integrating frameworks like CrewAI, LangGraph, and LlamaIndex to enable LLM-driven automation and AI agent orchestration.
 
-- **Technical Stack**: Implemented in Python, leveraging agentic-AI libraries (CrewAI, LangGraph) and retrieval/augmentation tools (LlamaIndex) for orchestrated LLM-driven workflows.
+- **Technical Stack**: Implemented in Python, leveraging DataRobot’s API ecosystem with modular templates for agent-based workflows, including retrieval-augmented generation (RAG) and multi-agent collaboration.
 
-- **Integration Focus**: Designed to extend DataRobot's capabilities via agentic templates, enabling automated decision-making, multi-agent collaboration, and LLM-powered data processing pipelines.
+- **Key Features**: Includes pre-built templates for agentic AI tasks (e.g., data processing, model deployment, and LLM inference) with support for customizable agent roles, tools, and workflows.
 
 ## Why It Matters
 
@@ -46,11 +47,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datarobot-community
-- Stars: 18
+- Stars: 19
 - Forks: 12
 - Language: Python
 - Topics: agentic-ai, crewai, datarobot, langgraph, llamaindex, llm
-- Last Updated: 2026-06-12T08:39:39Z
+- Last Updated: 2026-06-30T17:42:09Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-05-14T14:40:53Z

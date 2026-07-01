@@ -8,7 +8,7 @@ local_vault_path: ai/rag/davidzwz-awesome-deep-research.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # DavidZWZ/Awesome-Deep-Research
@@ -28,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, including tools, frameworks, and methodologies for autonomous knowledge synthesis using LLMs and RAG systems.
-- **ACL 2026 KnowFM Focus**: Aligns with ACL 2026’s Knowledge Foundation Models (KnowFM) initiative, emphasizing reasoning agents, search optimization, and multi-step reasoning pipelines.
-- **Technical Scope**: Covers agentic AI, deep research agents, and advanced retrieval-augmented generation (RAG) te
+- **Curated Resource Hub**: Aggregates cutting-edge research (ACL 2026 KnowFM) on agentic deep research, covering LLM-based reasoning agents, search agents, and RAG systems.
+- **Technical Scope**: Encompasses topics like *agentic RAG*, *deep-research agents*, and *reasoning architectures* for autonomous knowledge synthesis.
+- **Repository Metrics**: 781 stars, 62 forks; last updated June 28, 2026, with focus on multi-agent systems and large-scale reasoning workflows.
 
 ## Use Cases
 

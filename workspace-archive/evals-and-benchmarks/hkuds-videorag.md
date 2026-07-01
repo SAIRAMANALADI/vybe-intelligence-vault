@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 - youtube
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system enabling multi-modal LLMs to process and interact with long-form video content via structured video-text retrieval and generation.
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to interactively query video content via multi-modal embeddings and retrieval mechanisms.
 
-- **Technical Implementation**: Leverages Python with multi-modal LLMs, employing hierarchical video chunking, dense retrieval, and cross-modal alignment for efficient long-video understanding.
+- **Multi-Modal Integration**: Leverages Python-based LLMs with cross-modal retrieval (e.g., text-video, frame-level features) to support dynamic Q&A over extended video sequences.
 
-- **KDD'2026 Contribution**: Proposes a novel pipeline for querying videos using natural l
+- **KDD'2026 Contribution**: Proposes a novel architecture for scalable video indexing and retrieval
 
 ## Use Cases
 

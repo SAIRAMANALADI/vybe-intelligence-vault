@@ -4,17 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/youtube
-published_at: '2026-07-01T04:15:04.963427+05:30'
-collected_at: '2026-07-01T04:15:04.963439+05:30'
+published_at: '2026-07-01T10:30:38.126561+05:30'
+collected_at: '2026-07-01T10:30:38.126572+05:30'
 tags:
-- hackernews
 - web-crawled
 - youtube
 status: active
 resource_id: blog:youtube-google-for-developers
-first_seen: '2026-07-01T04:15:04.963439+05:30'
-last_seen: '2026-07-01T04:15:04.963439+05:30'
-last_checked: '2026-07-01T04:15:04.963439+05:30'
+first_seen: '2026-07-01T10:30:38.126572+05:30'
+last_seen: '2026-07-01T10:30:38.126572+05:30'
+last_checked: '2026-07-01T10:30:38.126572+05:30'
 health_score: 100
 ---
 
@@ -22,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **YouTube IFrame Player API**: Enables embedding and customizing YouTube video playback within applications via IFrame, iOS, and customizable player parameters.
+- **YouTube IFrame API**: Embed and customize YouTube video playback in apps via IFrame, iOS helper, and player parameters for tailored user experience.
 
-- **YouTube Data API v3**: Facilitates search, uploads, playlist management, and other core YouTube functionalities with comprehensive reference documentation and code samples.
+- **YouTube Data API v3**: Enables search, uploads, playlist management, and other core YouTube functionalities with structured endpoints and code samples.
 
-- **YouTube Analytics & Reporting API**: Provides channel and video interaction metrics, live streaming management, and one-click subscription button integration with detailed technical guides.
+- **YouTube Analytics & Live Streaming APIs**: Provides channel performance insights via reporting API and supports live broadcast scheduling/management through the Live Streaming API.
 
 ## Why It Matters
 
@@ -36,11 +35,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-01T04:15:04.963427+05:30
+- Published: 2026-07-01T10:30:38.126561+05:30
 
 ## Related Tags
 
-- hackernews
 - web-crawled
 - youtube
 

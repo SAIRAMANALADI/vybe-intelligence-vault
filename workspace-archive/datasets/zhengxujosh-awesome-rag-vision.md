@@ -6,11 +6,12 @@ source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
 resource_id: github:zhengxujosh/awesome-rag-vision
 local_vault_path: ai/rag/zhengxujosh-awesome-rag-vision.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - dataset
 - github-repo
 - hackernews
@@ -18,7 +19,7 @@ tags:
 - unknown
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # zhengxuJosh/Awesome-RAG-Vision
@@ -26,17 +27,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Curated resource**: A GitHub repository compiling advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, aggregating state-of-the-art methods, datasets, and tools.
-- **Metadata**: 337 stars, 9 forks, last updated **June 29, 2026**; language unspecified, no additional topics listed.
-- **Purpose**: Serves as a **centralized reference** for researchers/practitioners to explore **vision-language RAG** applications, including multimodal re
+- **Curated RAG-Vision Resources**: Repository aggregates advanced retrieval-augmented generation (RAG) techniques tailored for computer vision applications, including multimodal fusion, cross-modal retrieval, and vision-language model integration.
+
+- **Multimodal RAG Frameworks**: Features cutting-edge methods leveraging RAG to enhance vision tasks (e.g., image captioning, object detection, VQA) via external knowledge retrieval and contextual grounding.
+
+- **Benchmark & Tooling Collection**: In
 
 ## Use Cases
 

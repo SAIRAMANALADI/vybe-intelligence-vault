@@ -4,11 +4,10 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/odsc2015/agentic-hackathon-template
-collected_at: '2026-06-30T10:09:55.583476+05:30'
+collected_at: '2026-07-01T10:29:47.735049+05:30'
 published_at: '2026-05-10T13:08:24Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - unknown
 stars: 19
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-07-24T08:33:29Z'
 pushed_at: '2025-07-25T16:42:10Z'
 resource_id: github:odsc2015/agentic-hackathon-template
-first_seen: '2026-06-30T10:09:55.583476+05:30'
-last_seen: '2026-06-30T10:09:55.583476+05:30'
-last_checked: '2026-06-30T10:09:55.583476+05:30'
+first_seen: '2026-07-01T10:29:47.735049+05:30'
+last_seen: '2026-07-01T10:29:47.735049+05:30'
+last_checked: '2026-07-01T10:29:47.735049+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Standardized Starter Repository**: Provides a pre-structured template for Agentic AI App Hackathon submissions, including folder organization, environment specifications, and documentation templates to ensure consistency and reproducibility.
+- **Standardized Structure**: Provides a pre-defined folder layout and environment specifications to ensure reproducibility and consistent submissions for the Agentic AI App Hackathon.
 
-- **Reproducible Environment Spec**: Includes a defined environment setup (e.g., `requirements.txt`, `Dockerfile`, or `conda.yml`) to ensure all teams use identical dependencies and configurations for fair judging.
+- **Documentation Scaffolding**: Includes placeholders for documentation to streamline team collaboration and judging processes.
 
-- **Documentation Placeholders**: Offers structured documentation templates (e.g., `README.md`, `CONTRIBUTING.md`) to guide teams in documenting their projects, streamlining the submission and evaluation process.
+- **Version Control**: Last updated on **2026-05-10**, with **19 stars** and **192 forks**, indicating active community engagement.
 
 ## Why It Matters
 

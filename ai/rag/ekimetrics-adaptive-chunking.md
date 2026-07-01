@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ekimetrics/adaptive-chunking
-collected_at: '2026-07-01T04:13:30.904849+05:30'
+collected_at: '2026-07-01T10:27:57.672770+05:30'
 published_at: '2026-06-30T17:12:40Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
+- paper
 - python
 - rag
 stars: 358
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-26T09:14:21Z'
 pushed_at: '2026-05-20T10:25:13Z'
 resource_id: github:ekimetrics/adaptive-chunking
-first_seen: '2026-07-01T04:13:30.904849+05:30'
-last_seen: '2026-07-01T04:13:30.904849+05:30'
-last_checked: '2026-07-01T04:13:30.904849+05:30'
+first_seen: '2026-07-01T10:27:57.672770+05:30'
+last_seen: '2026-07-01T10:27:57.672770+05:30'
+last_checked: '2026-07-01T10:27:57.672770+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Adaptive Chunking Framework**: Automatically selects optimal chunking strategies per document for Retrieval-Augmented Generation (RAG) pipelines, optimizing context granularity and retrieval performance.
-
-- **Multi-Method Integration**: Supports diverse chunking techniques (e.g., semantic, structural, fixed-size) with dynamic selection based on document characteristics and downstream task requirements.
-
-- **LREC 2026 Acceptance**: Presented at the Language Resources and Evaluation Conference (LREC) 2026, validated for efficiency in information retrieval and NLP applications.
+- **Adaptive Chunking Framework**: Dynamically selects optimal text chunking strategies per document for RAG pipelines, optimizing retrieval quality without manual tuning.
+- **LREC 2026 Acceptance**: Paper describing the method was peer-reviewed and accepted at the Language Resources and Evaluation Conference (LREC) 2026.
+- **Python Implementation**: Open-source library with modular design for integrating multiple chunking algorithms (e.g., semantic, structural, or heuristic-based) and evaluating their impact on downstream tasks.
 
 ## Why It Matters
 

@@ -4,15 +4,18 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/continuedev/continue
-collected_at: '2026-07-01T04:14:00.945152+05:30'
-published_at: '2026-06-30T21:53:01Z'
+collected_at: '2026-07-01T10:28:22.721860+05:30'
+published_at: '2026-07-01T03:36:03Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- openai
+- meta-ai
+- models
+- scripts
 - typescript
-stars: 34603
+- workflows
+stars: 34611
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -20,9 +23,9 @@ archived: false
 created_at: '2023-05-24T03:39:39Z'
 pushed_at: '2026-06-30T13:15:38Z'
 resource_id: github:continuedev/continue
-first_seen: '2026-07-01T04:14:00.945152+05:30'
-last_seen: '2026-07-01T04:14:00.945152+05:30'
-last_checked: '2026-07-01T04:14:00.945152+05:30'
+first_seen: '2026-07-01T10:28:22.721860+05:30'
+last_seen: '2026-07-01T10:28:22.721860+05:30'
+last_checked: '2026-07-01T10:28:22.721860+05:30'
 health_score: 100
 ---
 
@@ -30,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-source AI coding agent** implemented in TypeScript, enabling autonomous or semi-autonomous code generation, refactoring, and debugging via natural language prompts.
+- **Open-source AI coding agent**: Continue is a TypeScript-based autonomous coding assistant designed to automate software development tasks via CLI and IDE integrations.
 
-- **CLI-based interface** with extensible architecture, supporting integration with multiple LLM providers (e.g., OpenAI, Anthropic) and custom model configurations.
+- **Multi-platform support**: Integrates with popular editors (VS Code, JetBrains) and provides a CLI for workflow automation, enabling context-aware code generation, debugging, and refactoring.
 
-- **Developer tooling integration** via plugins (e.g., VS Code, JetBrains) for real-time context-aware assistance, repository-level analysis, and multi-file modification capabilities.
+- **Extensible architecture**: Modular design allows customization via plugins, supporting local/remote LLM backends (e.g., Ollama, Anthropic) and enterprise-grade security controls.
 
 ## Why It Matters
 
@@ -43,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: continuedev
-- Stars: 34603
-- Forks: 4901
+- Stars: 34611
+- Forks: 4910
 - Language: TypeScript
 - Topics: agent, ai, cli, developer-tools, open-source
-- Last Updated: 2026-06-30T21:53:01Z
+- Last Updated: 2026-07-01T03:36:03Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-05-24T03:39:39Z

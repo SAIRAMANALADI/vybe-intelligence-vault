@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Repository forked to create autonomous agent templates named "daimon" using JavaScript.
-- **Metadata**: 2 stars, 18 forks, last updated on 2026-04-24T07:15:56Z.
-- **Language & Structure**: Entirely JavaScript-based, no additional topics or dependencies specified.
+- **Template Purpose**: A JavaScript-based autonomous agent template designed for forking to create custom instances of "daimons."
+- **Repository Metrics**: 2 stars, 18 forks, last updated on April 24, 2026.
+- **Structure**: Minimalist repository with no additional topics or dependencies specified.
 
 ## Use Cases
 

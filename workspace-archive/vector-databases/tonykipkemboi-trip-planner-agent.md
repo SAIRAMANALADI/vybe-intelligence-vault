@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent CrewAI Framework**: Implements a Python-based CrewAI agent system for automated trip planning, leveraging LLMs to orchestrate tasks like itinerary generation, booking, and optimization.
-
-- **Open-Source & LLM Integration**: Utilizes OpenAI's LLMs (via CrewAI) for natural language processing and decision-making, with modular Python architecture for extensibility.
-
-- **GitHub Repository**: Hosted at `tonykipkemboi/trip_planner_agent`, last updated May 2026, with 143 stars and 63 fo
+- **CrewAI Agents**: Implements multi-agent systems using CrewAI framework for autonomous trip planning tasks.
+- **LLM Integration**: Utilizes Large Language Models (LLMs) via OpenAI's API for natural language processing and itinerary generation.
+- **Python-based**: Entirely written in Python, leveraging libraries for agent orchestration, API interactions, and data processing.
 
 ## Use Cases
 

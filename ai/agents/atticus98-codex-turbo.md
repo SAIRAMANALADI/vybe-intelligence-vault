@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/atticus98/codex-turbo
-collected_at: '2026-06-29T10:34:55.778973+05:30'
+collected_at: '2026-07-01T10:29:37.722586+05:30'
 published_at: '2026-06-26T03:06:08Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2026-02-23T13:58:02Z'
 pushed_at: '2026-05-28T09:45:25Z'
 resource_id: github:atticus98/codex-turbo
-first_seen: '2026-06-29T10:34:55.778973+05:30'
-last_seen: '2026-06-29T10:34:55.778973+05:30'
-last_checked: '2026-06-29T10:34:55.778973+05:30'
+first_seen: '2026-07-01T10:29:37.722586+05:30'
+last_seen: '2026-07-01T10:29:37.722586+05:30'
+last_checked: '2026-07-01T10:29:37.722586+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Parallel Scheduling**: Enables native parallel execution via primary agent coordination and sub-agent task distribution for optimized Codex CLI performance.
-- **Autonomous Coordination**: Primary agent dynamically manages sub-agents, ensuring efficient task delegation and workload balancing without manual intervention.
-- **Reference Template**: Provides a structured configuration framework for deploying Codex CLI with parallel scheduling capabilities, last updated June 2026.
+- **Multi-Agent Parallel Scheduling**: Enables native parallel execution via a primary agent coordinating autonomous sub-agents for distributed task processing.
+- **CLI Configuration Template**: Provides a reference implementation for Codex CLI to optimize task distribution and agent autonomy.
+- **Performance Optimization**: Designed for high-efficiency task scheduling with minimal overhead in agent coordination.
 
 ## Why It Matters
 

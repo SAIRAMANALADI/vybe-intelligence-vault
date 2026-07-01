@@ -8,14 +8,14 @@ local_vault_path: ai/rag/muesli-smartcrop.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
 - go
 - rag
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # muesli/smartcrop
@@ -24,15 +24,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Algorithm**: Implements a saliency-based cropping algorithm in Go, analyzing image entropy, edges, and face detection to determine optimal crop regions.
-- **Features**: Supports arbitrary crop sizes and aspect ratios, with optional face detection prioritization and smart fallback to center crops.
-- **Performance**: Optimized for speed with minimal dependencies, leveraging Go’s concurrency for efficient image processing.
+- **Algorithm**: Implements a saliency-based cropping algorithm to identify visually important regions in images using edge detection and entropy analysis.
+- **Implementation**: Written in Go, leveraging OpenCV for image processing and providing a library for integration into other projects.
+- **Features**: Supports arbitrary crop sizes and aspect ratios, with configurable parameters for sensitivity and smoothing.
 
 ## Use Cases
 

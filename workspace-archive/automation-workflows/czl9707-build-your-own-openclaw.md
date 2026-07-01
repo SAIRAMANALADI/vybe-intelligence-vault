@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular Python Framework**: Open-source repository providing a structured, step-by-step implementation of an AI agent using Python, emphasizing modularity for extensibility and customization.
+- **Modular Python Framework**: Provides a structured, step-by-step implementation of an AI agent using Python, emphasizing modular design for extensibility and customization.
 
-- **LLM Integration**: Demonstrates integration with large language models (LLMs) for core agent functionality, including prompt engineering, tool usage, and response generation workflows.
+- **OpenClaw Core Components**: Implements key agent functionalities including memory management, tool integration, and LLM interaction via a customizable architecture.
 
-- **Tutorial-Driven Development**: Offers a hands-on tutorial with practical examples, covering agent architectur
+- **Hands-on Tutorial**: Offers a practical guide with executable examples, covering agent initialization, workflow orchestration, and integration with e
 
 ## Use Cases
 

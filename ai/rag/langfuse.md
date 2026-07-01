@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://langfuse.com
-published_at: '2026-06-29T03:52:23.589813+05:30'
-collected_at: '2026-06-29T03:52:23.589828+05:30'
+published_at: '2026-07-01T10:33:05.877771+05:30'
+collected_at: '2026-07-01T10:33:05.877786+05:30'
 tags:
 - agents
 - anthropic
@@ -24,9 +24,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langfuse
-first_seen: '2026-06-29T03:52:23.589828+05:30'
-last_seen: '2026-06-29T03:52:23.589828+05:30'
-last_checked: '2026-06-29T03:52:23.589828+05:30'
+first_seen: '2026-07-01T10:33:05.877786+05:30'
+last_seen: '2026-07-01T10:33:05.877786+05:30'
+last_checked: '2026-07-01T10:33:05.877786+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Adoption Metrics**: Used by **19 of the Fortune 50**, processes **10+ billion observations/month**, and supports **100,000+ engineers** building AI applications.
+- **Scalability Metrics**: Processes **10+ billion observations/month** with **100,000+ engineers** leveraging the platform, including **19 of the Fortune 50** enterprises.
 
-- **Core Capabilities**: Provides **end-to-end LLM observability** (traces, cost, latency), **prompt management**, **evaluation frameworks** (LLM-as-a-judge, human review), and **collaborative annotation** for continuous AI agent improvement.
+- **Core Capabilities**: Provides **end-to-end LLM observability**, including hierarchical tracing, prompt management, evaluation (LLM-as-a-judge, heuristics, human review), experiments, and cost/latency monitoring in a single integrated workflow.
 
-- **Integration Ecosystem**: Supports **100+ integrations** (e.g., LangChain, Vercel AI SDK, OpenAI, Anthropic) across **multiple languages** (Python, TypeScript, Go, Java) via OpenTelemetry, enabling **framework-agnostic deployment**.
+- **Multi-Language & Framework Support**: Compatible with **any stack** via OpenTelemetry (Python, TypeScript, Go, Java, .NET, Ruby, PHP, Swift) and **100+ integrations** (LangChain, Vercel AI SDK, LiteLLM, OpenAI, Anthropic, Mistral, etc.) with no framework lock-in.
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T03:52:23.589813+05:30
+- Published: 2026-07-01T10:33:05.877771+05:30
 
 ## Related Tags
 

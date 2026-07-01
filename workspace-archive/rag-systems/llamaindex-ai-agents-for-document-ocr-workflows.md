@@ -6,7 +6,7 @@ source_url: https://www.llamaindex.ai/
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
 local_vault_path: ai/rag/llamaindex-ai-agents-for-document-ocr-workflows.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -30,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, combining agentic understanding, specialized experts (e.g., text, charts, tables), and auto-correction loops to achieve high accuracy on complex, multi-modal documents.
+- **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, featuring task-specific experts (e.g., text, charts, tables) and recursive auto-correction loops to handle complex, multi-modal documents with high accuracy.
 
-- **Structured Extraction & Benchmark Performance**: Supports schema-based, LLM-driven extraction of unstructured content (e.g., handwritten text, tables, charts) with industry-leading performance, outperf
+- **Structured Extraction & Indexing**: Supports schema-based, LLM-driven extraction of unstructured content into structured formats, with enterprise-grade chunking/embedding pipelines optimized for precision in RAG
 
 ## Use Cases
 

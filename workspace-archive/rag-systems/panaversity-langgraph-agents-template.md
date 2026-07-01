@@ -12,7 +12,9 @@ resource_kind: template
 importance: medium
 tags:
 - agents
+- anthropic
 - github-repo
+- openai
 - python
 - rag
 - workflows
@@ -34,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a starter template for constructing multi-agent systems using Python, leveraging LangGraph for orchestration.
+- **Purpose**: Provides a starter template for constructing **multi-agent systems** using Python, leveraging the LangGraph framework for orchestration and workflow management.
 
-- **Key Components**: Includes pre-configured agents, state management, and workflow definitions to streamline agent collaboration and task execution.
+- **Key Components**: Includes modular agent definitions, state management, and inter-agent communication patterns to enable **parallel/concurrent task execution** and **distributed decision-making**.
 
-- **Update Status**: Last modified on **2026-06-10**, indicating active maintenance or development.
+- **Dependencies**: Built on **LangGraph** (likely an extension of LangChain) with Python 3.x, requiring integration with
 
 ## Use Cases
 

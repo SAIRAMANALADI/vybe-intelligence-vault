@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent System Framework**: Demonstrates specialized AI agent teams using the open-source `crewAI` library to automate complex, multi-step business processes via role-playing, natural language prompting, and custom tool integration.
+- **Specialized AI Agent Teams**: Demonstrates how to design and organize specialized AI agents using the open-source `crewAI` library to automate complex, multi-step business processes (e.g., financial analysis, event planning, customer support).
 
-- **Technical Implementation**: Focuses on modular agent design, error handling, and workflow optimization for tasks such as financial analysis, customer support automation, and resume tailoring using Jupyter Notebooks.
+- **Multi-Agent System Architecture**: Implements role-playing, natural language prompting, and custom tools to enable agent cooperation, task automation, and error handling in Jupyter Notebook-based workflows.
 
-- **Advanced Features**: Includes AI
+- **Business Process Optimization**: Fo
 
 ## Use Cases
 

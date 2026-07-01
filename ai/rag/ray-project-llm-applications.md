@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-07-01T04:13:20.882522+05:30'
+collected_at: '2026-07-01T10:27:47.656617+05:30'
 published_at: '2026-06-30T16:44:21Z'
 tags:
 - benchmark
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-07-01T04:13:20.882522+05:30'
-last_seen: '2026-07-01T04:13:20.882522+05:30'
-last_checked: '2026-07-01T04:13:20.882522+05:30'
+first_seen: '2026-07-01T10:27:47.656617+05:30'
+last_seen: '2026-07-01T10:27:47.656617+05:30'
+last_checked: '2026-07-01T10:27:47.656617+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized retrieval mechanisms.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving and Llama2 for LLM inference, with modular components for retrieval, prompt engineering, and generation.
 
-- **Fine-Tuning & Serving**: Provides Jupyter Notebook-based guides for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve for scalable inference in production environments.
+- **Multi-Model Compatibility**: Supports OpenAI-compatible APIs and integrates with Anyscale for scalable model serving, enabling hybrid deployments across open-source (Llama2) and proprietary (OpenAI) LLMs.
 
-- **Multi-Model Integration**: Showcases hybrid architectures combining proprietary (OpenAI) and open-source (Llama2, Anyscale) models, with tooling for evaluation and monitoring in ML pipelines.
+- **Fine-Tuning & Optimization**: Includes Jupyter Notebooks for fine-tuning LLMs and optimizing RAG pipelines via Ray’s distributed compute, with benchmarks for latency, throughput, and cost efficiency in production environments.
 
 ## Why It Matters
 

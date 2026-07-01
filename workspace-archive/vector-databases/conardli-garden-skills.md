@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Open-source collection by ConardLi covering web design, knowledge retrieval, image generation, and other technical skills, implemented primarily in CSS.
-- **Key Features**: Integrates AI agents, RAG (Retrieval-Augmented Generation), and tools like GPT-Image-2 for image generation; supports Claude for agent-based workflows.
-- **Metadata**: 8,955 stars, 1,210 forks; last updated June 30, 2026; categorized under agent, RAG, web-design, and image-generation topics.
+- **Multi-domain Skills Repository**: Open-source collection covering web design, knowledge retrieval, image generation, and other technical domains, implemented primarily in CSS.
+
+- **AI-Driven Tool Integration**: Features tools like `gpt-image-2` for image generation, RAG (Retrieval-Augmented Generation) for knowledge retrieval, and compatibility with agents like Claude for AI-assisted workflows.
+
+- **Active Maintenance & Community Engagement**: Last updated in July 2026, with 8,976 stars and
 
 ## Use Cases
 

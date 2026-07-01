@@ -12,7 +12,6 @@ resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
-- hackernews
 - html
 - rag
 selection_reason:
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated list** of AI-powered web search tools leveraging LLMs, RAG, and metasearch techniques for enhanced information retrieval and question-answering.
-- **Covers generative AI tools** for web search, including inference-based models, retrieval-augmented generation (RAG), and hybrid search architectures.
-- **GitHub repository** (HTML-based) with 1.3k+ stars, last updated June 2026, focusing on AI-driven search engines and projects.
+- **Curated list of AI-powered web search tools** leveraging LLMs, RAG, and generative AI for enhanced information retrieval and question-answering.
+- **Includes metasearch engines, AI search APIs, and browser extensions** optimized for AI-assisted querying and retrieval-augmented generation.
+- **Open-source and community-driven**, last updated July 2026, with 1,362 stars and 111 forks on GitHub.
 
 ## Use Cases
 

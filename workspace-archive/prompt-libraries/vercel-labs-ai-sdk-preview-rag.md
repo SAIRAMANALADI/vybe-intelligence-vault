@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Implementation**: Template demonstrates retrieval-augmented generation (RAG) using Vercel's AI SDK, integrating document retrieval with LLM generation in a Next.js application.
-
-- **Tech Stack**: Built with TypeScript, leveraging Next.js for frontend/backend, and the AI SDK for core LLM and embedding functionalities.
-
-- **Key Features**: Includes vector database integration (likely via `@ai-sdk/*), structured prompt engineering, and modular RAG pipeline for scalable AI-driven search/retr
+- **RAG Implementation**: Template demonstrates retrieval-augmented generation (RAG) using the Vercel AI SDK, integrating Next.js for full-stack AI workflows.
+- **TypeScript-Based**: Entirely written in TypeScript, leveraging Vercel’s AI SDK for structured LLM interactions and tooling.
+- **Modular Architecture**: Designed for extensibility with configurable retrieval pipelines, vector stores, and prompt engineering for production-grade RAG systems.
 
 ## Use Cases
 

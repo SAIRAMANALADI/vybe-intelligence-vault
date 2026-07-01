@@ -8,7 +8,7 @@ local_vault_path: ai/rag/nicknochnack-llama2rag.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
@@ -20,7 +20,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # nicknochnack/Llama2RAG
@@ -29,16 +29,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model with LlamaIndex for document retrieval and generation.
-- **Environment**: Developed in a Jupyter Notebook, leveraging GPU-accelerated inference for Llama 2 70B.
-- **Workflow**: Integrates document indexing, retrieval, and prompt-based generation, showcasing end-to-end RAG pipeline efficiency.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model via LlamaIndex, integrating retrieval mechanisms with Llama 2's generative capabilities for enhanced contextual responses.
+
+- **Technical Stack**: Utilizes Jupyter Notebook for implementation, leveraging LlamaIndex's framework for efficient document retrieval and Llama 2 70B for high-capacity language modeling.
+
+- **Repository Status**: Last updated on 2026-05-24, with 370 stars and 112 forks, indicat
 
 ## Use Cases
 

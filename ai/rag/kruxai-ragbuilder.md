@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-07-01T04:13:15.916727+05:30'
+collected_at: '2026-07-01T10:27:42.682433+05:30'
 published_at: '2026-06-30T12:14:06Z'
 tags:
-- benchmark
-- dataset
 - github-repo
+- hackernews
 - python
 - rag
-- workflows
 stars: 1535
 language: Python
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-07-01T04:13:15.916727+05:30'
-last_seen: '2026-07-01T04:13:15.916727+05:30'
-last_checked: '2026-07-01T04:13:15.916727+05:30'
+first_seen: '2026-07-01T10:27:42.682433+05:30'
+last_seen: '2026-07-01T10:27:42.682433+05:30'
+last_checked: '2026-07-01T10:27:42.682433+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based toolkit to construct production-grade RAG systems with customizable components (e.g., embedding models, retrievers, LLMs) and workflows.
+- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-ready RAG systems with customizable components (e.g., embedders, retrievers, LLMs) via a modular architecture.
 
-- **Optimization Tools**: Includes utilities for benchmarking, hyperparameter tuning, and evaluation to optimize retrieval quality and generation performance for specific datasets.
+- **Optimization Features**: Implements automated techniques for hyperparameter tuning, chunking strategies, and retrieval optimization to enhance RAG performance.
 
-- **Deployment-Ready**: Supports integration with cloud services and frameworks (e.g., FastAPI, Docker) to streamline deployment of RAG pipelines in production environments.
+- **Scalability & Deployment**: Supports deployment-ready setups with integrations for vector databases (e.g., FAISS, Pinecone) and cloud-native scaling (e.g., Docker, Kubernetes).
 
 ## Why It Matters
 

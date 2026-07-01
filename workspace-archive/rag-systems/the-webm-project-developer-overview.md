@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- hackernews
 - rag
 - reddit
 - web-crawled
@@ -34,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Core Components**: WebM Project provides `libvpx` (VP8/VP9 codec SDK), `libwebm` (WebM file parser), and `webm-tools` (alpha-channel, encryption, streaming tools) under Chromium's Git repositories.
+- **WebM Project Repositories**: Hosts open-source projects including `libvpx` (VP8/VP9 codec SDK), `libwebm` (WebM file parser), `webm-tools` (alpha-channel, encryption, streaming tools), and `libwebp` (WebP image library), all managed via Git and Google’s Gerrit for code reviews and contributions.
 
-- **Documentation & Standards**: Includes RFC 6386 (VP8 data format), WebM container format specs, VP9 bitstream drafts, and ISO media file bindings for VP codecs.
-
-- **Development Workflow**: Uses Git for version control with continuous integration via Jenkins; contributions require patch submis
+- **Technical Specifications & Docs**: Provides formal documentation such as the VP9 bitstream format, WebM container format, VP8 RTP payload draft, and WebM encryption standards, alongside RFC 6386
 
 ## Use Cases
 

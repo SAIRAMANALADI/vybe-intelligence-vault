@@ -13,9 +13,9 @@ importance: medium
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., node, subgraph, global) and semantic aggregation to enhance contextual relevance in generation tasks.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-layered retrieval (entity, subgraph, global) and semantic aggregation to enhance context relevance in generation tasks.
 
-- **Efficiency Optimizations**: Leverages lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval accuracy, as evidenced by AAAI 2026 benchmarking.
+- **Efficiency Optimizations**: Uses lightweight graph traversal and caching mechanisms to reduce computational overhead while maintaining retrieval accuracy, as demonstrated in AAAI 2026 benchmarks.
 
-- **Python Implementation**: Provides a modular, open-so
+- **Python-Based Implementation**: Provides modular, extensible c
 
 ## Use Cases
 

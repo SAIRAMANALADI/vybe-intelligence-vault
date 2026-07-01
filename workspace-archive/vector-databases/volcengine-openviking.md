@@ -8,7 +8,7 @@ local_vault_path: ai/rag/volcengine-openviking.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - rag
 - workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # volcengine/OpenViking
@@ -26,17 +26,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: workflow
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Context Database for AI Agents**: OpenViking provides an open-source, file system-based context database (`/context`) for AI agents (e.g., OpenClaw), unifying memory, resources, and skills into a hierarchical structure for efficient context management.
+- **Hierarchical Context Management**: OpenViking implements a file system-like paradigm to unify and hierarchically manage context (memory, resources, and skills) for AI Agents, enabling structured and scalable context delivery.
 
-- **Self-Evolving & Hierarchical Delivery**: Implements a filesystem paradigm (`/context`) to enable hierarchical context delivery and autonomous evolution of agent capabilities through structured context updates.
+- **Self-Evolving Architecture**: The system supports autonomous evolution of context through dynamic updates and adaptations, ensuring continuous improvement of agent capabilities without manual intervention.
 
-- **Python-Based & Agentic-
+- **Multi-Agent Integration**: Designed for seamless integ
 
 ## Use Cases
 

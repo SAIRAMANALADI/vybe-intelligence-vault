@@ -3,16 +3,16 @@ title: Sign in to GitHub · GitHub
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/docker/docs/edit/main/content/get-docker.md
-published_at: '2026-06-25T23:00:03.495050+05:30'
-collected_at: '2026-06-25T23:00:03.495058+05:30'
+source_url: https://github.com/docker/docs/edit/main/content/get-started/_index.md
+published_at: '2026-07-01T10:38:33.725912+05:30'
+collected_at: '2026-07-01T10:38:33.725938+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: github:docker/docs
-first_seen: '2026-06-25T23:00:03.495058+05:30'
-last_seen: '2026-06-25T23:00:03.495058+05:30'
-last_checked: '2026-06-25T23:00:03.495058+05:30'
+first_seen: '2026-07-01T10:38:33.725938+05:30'
+last_seen: '2026-07-01T10:38:33.725938+05:30'
+last_checked: '2026-07-01T10:38:33.725938+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Failure**: The GitHub login page encountered an error while loading, preventing user authentication.
-- **Account Recovery**: Users can reset passwords via the provided [password reset link](https://github.com/password_reset).
-- **New User Option**: Unregistered users can create an account via the [signup link](https://github.com/signup?return_to=https%3A%2F%2Fgithub.com%2Fdocker%2Fdocs%2Fedit%2Fmain%2Fcontent%2Fget-docker.md&source=login).
+- **Authentication Failure**: The error indicates a failed attempt to load the GitHub login page, potentially due to a server-side issue or misconfigured session state.
+
+- **Password Reset Option**: GitHub provides a password recovery mechanism via the `password_reset` endpoint for users who lose access credentials.
+
+- **Passkey Support**: GitHub supports modern authentication via passkeys, allowing passwordless sign-in through supported devices and platforms.
 
 ## Why It Matters
 
@@ -32,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-25T23:00:03.495050+05:30
+- Published: 2026-07-01T10:38:33.725912+05:30
 
 ## Related Tags
 
@@ -40,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/docker/docs/edit/main/content/get-docker.md
+Original source: https://github.com/docker/docs/edit/main/content/get-started/_index.md

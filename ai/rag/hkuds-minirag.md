@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-07-01T04:12:20.805169+05:30'
+collected_at: '2026-07-01T10:26:42.637134+05:30'
 published_at: '2026-06-30T16:48:40Z'
 tags:
+- benchmark
 - github-repo
-- models
 - python
 - rag
 stars: 1964
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-07-01T04:12:20.805169+05:30'
-last_seen: '2026-07-01T04:12:20.805169+05:30'
-last_checked: '2026-07-01T04:12:20.805169+05:30'
+first_seen: '2026-07-01T10:26:42.637134+05:30'
+last_seen: '2026-07-01T10:26:42.637134+05:30'
+last_checked: '2026-07-01T10:26:42.637134+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
-- **Optimized Architecture**: Implements lightweight retrieval and generation components, including a distilled retriever and a compact SLM, to achieve efficiency without sacrificing accuracy in downstream tasks.
-- **Open-Source Implementation**: Provides a Python-based, modular codebase with pre-trained models and fine-tuning scripts, enabling reproducibility and community-driven improvements in RAG systems.
+- Introduces **MiniRAG**, a simplified RAG framework leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining performance.
+- Proposes **modular architecture** with lightweight retrieval, reranking, and generation components optimized for efficiency in edge/low-resource deployments.
+- Achieves **competitive results** on benchmarks (e.g., MTEB, BEIR) with models <1B parameters, demonstrating 3-5x faster inference vs. traditional RAG pipelines.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: HKUDS
 - Stars: 1964
-- Forks: 253
+- Forks: 254
 - Language: Python
 - Topics: large-language-models, rag, retrieval-augmented-generation
 - Last Updated: 2026-06-30T16:48:40Z
