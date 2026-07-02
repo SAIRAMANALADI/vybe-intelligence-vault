@@ -6,7 +6,7 @@ source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
 local_vault_path: ai/rag/15-best-open-source-rag-frameworks-in-2026.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Modular Python framework (105k⭐) for LLM/RAG pipelines with 100+ integrations, vector stores, and evaluation tools; supports dynamic model swapping and structured workflows via LangGraph/LangSmith.
+- **LangChain**: Modular framework (105k ⭐) for chaining LLM components with data connectors, model flexibility, and retrieval pipelines; integrates with LangSmith/LangGraph for debugging/workflow management.
 
-- **RAGFlow**: Open-source RAG engine (48.5k⭐) specializing in deep document parsing (PDFs/tables) with GraphRAG support, visual UI, and dual storage backends (Elasticsearch/Infinity) for structured retrieval.
+- **RAGFlow**: Open-source RAG engine (48.5k ⭐) specializing in deep document parsing (PDFs/tables) with GraphRAG, agentic reasoning, and dual storage (Elasticsearch/Infinity) via Python SDK/REST APIs.
 
-- **Milvus**: Cloud-native vector DB (33.9k⭐) optimized for billion-scale
+- **Milvus**: High-performance vector database (33.9k ⭐) optimized for ANN search, hybr
 
 ## Use Cases
 

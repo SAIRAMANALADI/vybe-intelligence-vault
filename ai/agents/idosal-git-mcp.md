@@ -4,15 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-07-02T20:02:50.955478+05:30'
-published_at: '2026-07-02T13:36:35Z'
+collected_at: '2026-07-02T22:35:55.344116+05:30'
+published_at: '2026-07-02T16:00:24Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
 - typescript
-stars: 8227
+- workflows
+stars: 8228
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-07-02T20:02:50.955478+05:30'
-last_seen: '2026-07-02T20:02:50.955478+05:30'
-last_checked: '2026-07-02T20:02:50.955478+05:30'
+first_seen: '2026-07-02T22:35:55.344116+05:30'
+last_seen: '2026-07-02T22:35:55.344116+05:30'
+last_checked: '2026-07-02T22:35:55.344116+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: GitMCP is an open-source, remote MCP server designed to mitigate "code hallucinations" by providing accurate, real-time GitHub repository data to AI agents and LLMs.
-- **Technical Stack**: Implemented in TypeScript, it enables seamless integration with AI tools (e.g., Claude, Copilot, Cursor) via the Model Context Protocol (MCP).
-- **Functionality**: Acts as a bridge between AI agents and GitHub projects, ensuring contextually grounded responses by fetching live repository data (commits, branches, issues, etc.).
+- **GitMCP**: Open-source TypeScript-based MCP server enabling remote interaction with any GitHub repository to mitigate code hallucinations in AI agents.
+- **Key Features**: Facilitates agentic AI workflows (e.g., Claude, Copilot, Cursor) by providing structured GitHub project access via MCP protocol.
+- **Technical Stack**: Built with TypeScript, supports real-time Git operations, and integrates with MCP-compatible AI tools for enhanced code reliability.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: idosal
-- Stars: 8227
+- Stars: 8228
 - Forks: 729
 - Language: TypeScript
 - Topics: agentic-ai, agents, ai, claude, copilot, cursor, git, llm, mcp
-- Last Updated: 2026-07-02T13:36:35Z
+- Last Updated: 2026-07-02T16:00:24Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-03-29T00:44:19Z

@@ -14,6 +14,7 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -30,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Core Project**: [neo4j/neo4j](https://github.com/neo4j/neo4j) is the primary open-source graph database implementation in Java, with 16.8k stars and 2.6k forks, enabling ACID-compliant transactional graph operations.
+- **Neo4j Core Engine**: Open-source graph database (Java-based) with 16.8k stars, supporting ACID transactions, Cypher query language, and native graph storage.
 
-- **Driver Ecosystem**: Provides official Bolt protocol drivers for multiple languages: Java (`neo4j-java-driver`), JavaScript (`neo4j-javascript-driver`), Python (`neo4j-python-driver`), and .NET (`neo4j-dotnet-driver`), all Apache-2.0 licensed.
+- **Multi-Language Drivers**: Official Bolt protocol drivers for Java (342 stars), JavaScript (915 stars), Python (1k stars), .NET (246 stars), and Rust extensions for Python performance optimization.
 
-- **GDS & Extensions**: [graph
+- **Graph Ecosystem Tools**: Graph Data Science library (803 stars), APOC procedures (210 stars), and Spark connector (320 stars) for d
 
 ## Use Cases
 

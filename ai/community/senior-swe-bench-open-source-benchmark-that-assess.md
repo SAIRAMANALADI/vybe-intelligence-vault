@@ -5,29 +5,28 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://senior-swe-bench.snorkel.ai
 hn_url: https://news.ycombinator.com/item?id=48755928
-score: 80
+score: 133
 author: matt_d
-comments_count: 65
+comments_count: 95
 published_at: '2026-07-02T08:25:16+05:30'
-collected_at: '2026-07-02T15:03:26.622513+05:30'
+collected_at: '2026-07-02T22:32:57.909008+05:30'
 tags:
 - agents
 - benchmark
 - hackernews
-status: inactive
+status: active
 resource_id: hackernews:senior-swe-bench-open-source-benchmark-that-assess
 first_seen: '2026-07-02T09:52:28.581223+05:30'
-last_seen: '2026-07-02T15:03:26.622513+05:30'
-last_checked: '2026-07-02T15:03:26.622513+05:30'
+last_seen: '2026-07-02T22:32:57.909008+05:30'
+last_checked: '2026-07-02T22:32:57.909008+05:30'
 health_score: 100
 ---
-
 
 # Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers
 
 ## Summary
 
-Hacker News story by matt_d. Score: 80, Comments: 65.
+Hacker News story by matt_d. Score: 133, Comments: 95.
 Original Link: https://senior-swe-bench.snorkel.ai/
 
 ## Why It Matters
@@ -37,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: matt_d
-- Score: 80 Upvotes
-- Comments: 65 Discussions
+- Score: 133 Upvotes
+- Comments: 95 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48755928
 - Original Article: https://senior-swe-bench.snorkel.ai
 

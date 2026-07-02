@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/cookbook
-published_at: '2026-07-02T01:59:14.406650+05:30'
-collected_at: '2026-07-02T01:59:14.406666+05:30'
+published_at: '2026-07-02T22:38:20.913959+05:30'
+collected_at: '2026-07-02T22:38:20.913975+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:cookbook-haystack
-first_seen: '2026-07-02T01:59:14.406666+05:30'
-last_seen: '2026-07-02T01:59:14.406666+05:30'
-last_checked: '2026-07-02T01:59:14.406666+05:30'
+first_seen: '2026-07-02T22:38:20.913975+05:30'
+last_seen: '2026-07-02T22:38:20.913975+05:30'
+last_checked: '2026-07-02T22:38:20.913975+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Cookbook** provides 71 technical recipes demonstrating integrations of model providers, vector databases, retrieval techniques, and advanced RAG pipelines with Haystack, covering topics like agents, multimodal processing, metadata enrichment, and model serving.
+- **Haystack Cookbook** provides 71 technical recipes demonstrating integrations with model providers, vector databases, retrieval techniques, and more, covering topics like **Agents, RAG, Multimodal, Advanced Retrieval, and Observability**.
 
-- **Key technical areas** include agentic workflows (e.g., itinerary planning, GitHub issue resolution), hybrid retrieval (BM42, sparse embeddings), and advanced RAG optimizations (query decomposition, HyDE, metadata filtering).
+- **Key Recipes** include **Agentic Itinerary Planning with OpenStreetMap**, **Multimodal Agent with fastRAG**, **Hybrid RAG with BM42**, and **Evaluating RAG with Arize Phoenix**, showcasing advanced retrieval, memory integration, and multimodal workflows.
 
-- **Experimental and production-ready examples** showcase cutting-edge integrations such as vLLM inference, NVIDIA NIMs for self-deployed models, and multimodal agents with fastRAG, alongside evaluation frameworks like Arize Phoenix and RAGAS.
+- **Experimental & Custom Use Cases** feature **Mem0 Memory Store with Haystack Agents**, **Metadata Extraction with LLMs**, and **Prompt Optimization with DSPy**, highlighting cutting-edge techniques in memory management, metadata enrichment, and prompt engineering.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T01:59:14.406650+05:30
+- Published: 2026-07-02T22:38:20.913959+05:30
 
 ## Related Tags
 

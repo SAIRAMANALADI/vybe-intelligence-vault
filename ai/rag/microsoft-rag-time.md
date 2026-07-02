@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-07-02T20:01:00.931784+05:30'
+collected_at: '2026-07-02T22:34:05.322417+05:30'
 published_at: '2026-06-28T15:57:16Z'
 tags:
 - github-repo
@@ -13,7 +13,6 @@ tags:
 - models
 - openai
 - rag
-- reddit
 stars: 888
 language: Jupyter Notebook
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-07-02T20:01:00.931784+05:30'
-last_seen: '2026-07-02T20:01:00.931784+05:30'
-last_checked: '2026-07-02T20:01:00.931784+05:30'
+first_seen: '2026-07-02T22:34:05.322417+05:30'
+last_seen: '2026-07-02T22:34:05.322417+05:30'
+last_checked: '2026-07-02T22:34:05.322417+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Mastery Program**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals to advanced techniques, including hybrid search (HNSW + keyword search), vector/scalar quantization, and multimodal RAG pipelines.
-
-- **Azure & OpenAI Integration**: Hands-on labs using Azure services (e.g., OpenAI embeddings, vector stores) and tools like Visual Studio Code for deploying scalable RAG systems with responsible AI guardrails.
-
-- **Advanced Techniques**: Implements binary/matryoshka representation learning for efficient indexing, supports scalar quantization for storage optimization, and includes notebooks for binary-quantized vector search with HNSW.
+- **RAG Time**: A structured 5-week learning program focused on Retrieval-Augmented Generation (RAG) techniques, covering hybrid search, vector indexing, and quantization methods (binary/scalar) for efficient LLM retrieval.
+- **Key Technologies**: Integrates Azure, OpenAI APIs, HNSW (Hierarchical Navigable Small World) for approximate nearest neighbor search, and Matryoshka Representation Learning for scalable embeddings.
+- **Tools & Practices**: Includes Jupyter Notebooks for hands-on implementation, supports multimodal RAG, and emphasizes responsible AI practices in LLM deployment via Visual Studio Code.
 
 ## Why It Matters
 

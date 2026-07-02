@@ -13,7 +13,6 @@ importance: medium
 tags:
 - github-repo
 - hackernews
-- paper
 - rag
 - unknown
 selection_reason:
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated resource**: Aggregates advanced RAG techniques, frameworks, and research papers for Large Language Models (LLMs), covering retrieval-augmented generation, embeddings, and retrieval-information optimization.
-- **Technical scope**: Encompasses RAG-embeddings, retrieval strategies, and integration methodologies to enhance LLM performance via augmented knowledge retrieval.
-- **Repository metrics**: 1,340 stars, 84 forks, last updated June 30, 2026, with topics including embeddings, LLMs,
+- **Curated Resource**: Comprehensive collection of advanced Retrieval-Augmented Generation (RAG) techniques, frameworks, and tools for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
+- **Technical Scope**: Focuses on cutting-edge RAG methodologies, including retrieval-information optimization, LLM-embedding interactions, and hybrid retrieval architectures for enhanced generation performance.
+- **Community-Driven**: Actively maintained reposit
 
 ## Use Cases
 

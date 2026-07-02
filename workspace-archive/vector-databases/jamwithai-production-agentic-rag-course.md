@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository focused on production-level Agentic RAG (Retrieval-Augmented Generation) systems, implemented in Python.
-- **Project Scale**: 7,299 stars and 1,623 forks, indicating significant community engagement and adoption.
-- **Last Activity**: Last updated on July 2, 2026, suggesting ongoing development or maintenance.
+- **Repository Overview**: GitHub repository titled `production-agentic-rag-course` with 7,305 stars and 1,623 forks, primarily written in Python.
+- **Last Updated**: Repository was last updated on **July 2, 2026**, at **15:53:23 UTC**.
+- **Content Focus**: Implicitly related to **production-grade agentic RAG (Retrieval-Augmented Generation)** systems, though no explicit description is provided.
 
 ## Use Cases
 

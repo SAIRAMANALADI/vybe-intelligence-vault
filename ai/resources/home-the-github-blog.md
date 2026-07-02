@@ -4,16 +4,18 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.blog
-published_at: '2026-07-02T20:07:02.845784+05:30'
-collected_at: '2026-07-02T20:07:02.845801+05:30'
+published_at: '2026-07-02T22:38:17.394987+05:30'
+collected_at: '2026-07-02T22:38:17.395001+05:30'
 tags:
 - reddit
+- scripts
 - web-crawled
+- workflows
 status: active
 resource_id: blog:home-the-github-blog
-first_seen: '2026-07-02T20:07:02.845801+05:30'
-last_seen: '2026-07-02T20:07:02.845801+05:30'
-last_checked: '2026-07-02T20:07:02.845801+05:30'
+first_seen: '2026-07-02T22:38:17.395001+05:30'
+last_seen: '2026-07-02T22:38:17.395001+05:30'
+last_checked: '2026-07-02T22:38:17.395001+05:30'
 health_score: 100
 ---
 
@@ -21,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Branch Protection Rules**: Enforce mandatory pull request reviews, status checks, and restrict force pushes to critical branches (e.g., `main`, `master`), reducing unauthorized code merges and supply-chain risks.
-
-- **Code Scanning & Secret Scanning**: Enable GitHub’s native static analysis (CodeQL) and secret detection to automatically identify vulnerabilities and exposed credentials in repositories.
-
-- **Dependency Management**: Activate Dependabot alerts and automatic security updates for vulnerable dependencies, mitigating known exploits in third-party libraries.
+- **Initial Scale**: GitHub processed **20,000+ secret scanning alerts** across **15,000 repositories**, requiring automated triage and prioritization.
+- **Workflow Automation**: Implemented **remediation workflows** to categorize, prioritize, and resolve alerts, reducing manual review overhead.
+- **Efficiency Milestone**: Achieved **"inbox zero"** in **9 months** via structured automation, signal filtering, and systematic remediation.
 
 ## Why It Matters
 
@@ -35,12 +35,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-02T20:07:02.845784+05:30
+- Published: 2026-07-02T22:38:17.394987+05:30
 
 ## Related Tags
 
 - reddit
+- scripts
 - web-crawled
+- workflows
 
 ## Source
 

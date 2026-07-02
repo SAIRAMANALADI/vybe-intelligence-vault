@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Java-based machine learning library** (`superml-java`) under the `supermlorg` GitHub organization, with 1 fork and 5 stars.
-- **Repository includes** issues (1), pull requests (1), discussions, GitHub Actions, and a models section for ML artifacts.
-- **Primary discussion categories** include Announcements, General, Ideas, Polls, Q&A, and Show and Tell for community engagement.
+- **Java-based machine learning library** under the `supermlorg` organization, with 1 fork and 5 stars on GitHub.
+- **Repository includes** issues, pull requests, discussions, CI/CD via GitHub Actions, and model hosting capabilities.
+- **Discussion categories** cover announcements, general Q&A, ideas, polls, and community guidelines for collaborative development.
 
 ## Use Cases
 

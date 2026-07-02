@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-07-02T20:02:35.955543+05:30'
+collected_at: '2026-07-02T22:35:40.321851+05:30'
 published_at: '2026-07-01T15:28:06Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-07-02T20:02:35.955543+05:30'
-last_seen: '2026-07-02T20:02:35.955543+05:30'
-last_checked: '2026-07-02T20:02:35.955543+05:30'
+first_seen: '2026-07-02T22:35:40.321851+05:30'
+last_seen: '2026-07-02T22:35:40.321851+05:30'
+last_checked: '2026-07-02T22:35:40.321851+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, validation) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced context-awareness.
 
-- **Graph Retrieval-Augmented Architecture**: Integrates graph-based retrieval with large language models (LLMs) to dynamically construct and traverse knowledge graphs, enabling efficient subgraph extraction and context-aware reasoning for downstream tasks.
+- **Graph Retrieval-Augmented Reasoning**: Integrates graph-based knowledge retrieval with LLM-driven reasoning, enabling dynamic subgraph extraction and iterative refinement of answers via agentic loops.
 
-- **ICLR 2026 Contribution**: Proposes a novel paradigm for complex reasoning by vertically unifying agents with graph RAG, demonstrating state-of-the-art performance in tasks requiring multi-hop reasoning, factual grounding, and structured knowledge synthesis.
+- **Performance & Scalability**: Evaluated on ICLR 2026 benchmarks, demonstrating superior accuracy on complex reasoning tasks compared to traditional RAG systems, with optimizations for large-scale graph processing in Python.
 
 ## Why It Matters
 

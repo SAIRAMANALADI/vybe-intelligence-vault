@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status and historical uptime metrics (e.g., 99.99% for Git Operations) for GitHub services, including incidents, degradations, and maintenance events.
-
-- **Notification Systems**: Supports multi-channel incident notifications via email, SMS (global), Slack, and webhooks for automated incident tracking and resolution updates.
-
-- **Past Incidents**: Documented major outages such as Copilot budget reset delays (July 1, 2026) and Copilot Cloud
+- **GitHub Status Page** provides real-time incident reporting and uptime metrics for GitHub services (e.g., Git Operations, API Requests, Pages) across regions (AU, EU, JP, US) with 90-day historical data.
+- **Notification Subscriptions** support email, SMS (global dial codes), Slack, and webhook-based incident updates with OTP verification for security.
+- **Recent Incidents**: Pages service degraded (Jul 2, 2026), Copilot budget reset delays (Jul 1), and GitHub signup flow disruption (Jun 30),
 
 ## Use Cases
 

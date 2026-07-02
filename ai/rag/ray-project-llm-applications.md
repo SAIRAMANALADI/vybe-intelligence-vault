@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-07-02T15:05:58.724057+05:30'
+collected_at: '2026-07-02T22:35:35.339652+05:30'
 published_at: '2026-06-30T16:44:21Z'
 tags:
-- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-07-02T15:05:58.724057+05:30'
-last_seen: '2026-07-02T15:05:58.724057+05:30'
-last_checked: '2026-07-02T15:05:58.724057+05:30'
+first_seen: '2026-07-02T22:35:35.339652+05:30'
+last_seen: '2026-07-02T22:35:35.339652+05:30'
+last_checked: '2026-07-02T22:35:35.339652+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized retrieval mechanisms.
-
-- **Fine-Tuning & Serving Optimization**: Provides notebooks for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve for low-latency, scalable inference in production environments.
-
-- **Multi-Model & Tooling Support**: Includes examples leveraging Anyscale endpoints and custom tooling for end-to-end LLM application development, with emphasis on modularity and performance benchmarking.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples leveraging Llama2 and OpenAI models for scalable inference.
+- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) and optimizing performance via Anyscale integration, with emphasis on latency/throughput trade-offs in production environments.
+- **Modular Architecture**: Provides a Ray-based serving framework for LLM applications, featuring reusable components for retrieval, vector databases, and API deployment, with Jupyter notebooks for end-to-end prototyping.
 
 ## Why It Matters
 

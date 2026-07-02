@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-07-02T20:03:55.997502+05:30'
+collected_at: '2026-07-02T22:37:00.387593+05:30'
 published_at: '2026-07-01T07:43:44Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - unknown
 - workflows
 stars: 2470
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-07-02T20:03:55.997502+05:30'
-last_seen: '2026-07-02T20:03:55.997502+05:30'
-last_checked: '2026-07-02T20:03:55.997502+05:30'
+first_seen: '2026-07-02T22:37:00.387593+05:30'
+last_seen: '2026-07-02T22:37:00.387593+05:30'
+last_checked: '2026-07-02T22:37:00.387593+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and agent coordination mechanisms for autonomous AI coding assistants, emphasizing system prompts and prompt engineering techniques for multi-agent collaboration.
-
-- **Security Classification Framework**: Proposes a security classification system for agentic AI interactions, likely addressing vulnerabilities, access controls, and safe execution boundaries in AI-driven development workflows.
-
-- **Claude Integration & AI Research**: Investigates the integration of Claude-based models within agentic frameworks, including prompt optimization, task decomposition, and real-world applicability in AI-assisted software engineering.
+- **Agentic AI Coding Assistants**: Reverse-engineers prompt patterns and coordination mechanisms for autonomous AI coding agents, focusing on multi-agent systems and task decomposition.
+- **Security Classification**: Analyzes threat models and mitigation strategies for agentic AI, including prompt injection, data leakage, and adversarial attacks in development environments.
+- **Prompt Engineering Framework**: Proposes structured system prompts for agentic workflows, optimizing for reliability, context retention, and tool integration in software engineering tasks.
 
 ## Why It Matters
 

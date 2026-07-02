@@ -4,17 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/e2b-dev/awesome-ai-agents
-collected_at: '2026-07-02T09:56:30.015810+05:30'
-published_at: '2026-07-02T00:51:44Z'
+collected_at: '2026-07-02T22:36:40.372868+05:30'
+published_at: '2026-07-02T16:31:36Z'
 tags:
 - agents
 - github-repo
 - models
 - openai
-- scripts
 - unknown
-- workflows
-stars: 28570
+stars: 28586
 language: Unknown
 status: active
 license: NOASSERTION
@@ -22,9 +20,9 @@ archived: false
 created_at: '2023-06-19T00:20:06Z'
 pushed_at: '2025-02-26T10:04:45Z'
 resource_id: github:e2b-dev/awesome-ai-agents
-first_seen: '2026-07-02T09:56:30.015810+05:30'
-last_seen: '2026-07-02T09:56:30.015810+05:30'
-last_checked: '2026-07-02T09:56:30.015810+05:30'
+first_seen: '2026-07-02T22:36:40.372868+05:30'
+last_seen: '2026-07-02T22:36:40.372868+05:30'
+last_checked: '2026-07-02T22:36:40.372868+05:30'
 health_score: 100
 ---
 
@@ -32,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated repository** of AI autonomous agents, including tools like AutoGPT, BabyAGI, and GPT-Engineer, focused on automation and AI-driven workflows.
-- **Supports multiple AI models** (e.g., GPT-4, OpenAI) and frameworks, primarily implemented in Python for extensibility and integration.
-- **Actively maintained** (last updated July 2026) with high community engagement (28.5k+ stars, 3k+ forks), emphasizing cutting-edge AI agent development.
+- **Curated Collection**: Repository hosting a structured, community-driven list of AI autonomous agents, frameworks, and tools (e.g., AutoGPT, BabyAGI, GPT-Engineer) for research and development.
+- **Multi-Topic Scope**: Covers Python-based implementations, OpenAI integrations (GPT-3/4), and tools like Copilot, emphasizing autonomous agent architectures and artificial intelligence applications.
+- **Active Maintenance**: Last updated July 2026, with 28.5K+ stars and 3K+ forks, indicating sustained community engagement and contributions.
 
 ## Why It Matters
 
@@ -43,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: e2b-dev
-- Stars: 28570
-- Forks: 3091
+- Stars: 28586
+- Forks: 3093
 - Language: Unknown
 - Topics: agent, ai, artificial-intelligence, autogpt, autonomous-agents, awesome, babyagi, copilot, gpt, gpt-4, gpt-engineer, openai, python
-- Last Updated: 2026-07-02T00:51:44Z
+- Last Updated: 2026-07-02T16:31:36Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-06-19T00:20:06Z

@@ -7,7 +7,7 @@ source_url: https://superml.org/tutorials/rag-beginner
 resource_id: blog:rag-tutorial-step-by-step-guide-to-retrieval-augme
 local_vault_path: ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md
 quality_score: 70
-archive_score: 76
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -29,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: A 5-step pipeline—**Load** (ingest documents), **Chunk** (split into retrieval-sized segments), **Embed** (convert to vector embeddings via `text-embedding-3-small`), **Retrieve** (semantic search using ChromaDB with `k=4` chunks), and **Generate** (LLM response grounded in retrieved context using `gpt-4o-mini` with zero-temperature sampling).
+- **RAG Pipeline**: A 5-step process comprising document loading, chunking, embedding/indexing (using ChromaDB), retrieval of relevant chunks via semantic similarity, and generation of grounded answers using an LLM (e.g., OpenAI's GPT-4o-mini) with retrieved context.
 
-- **Key Components**: Uses **LangChain** for modular pipeline orchestration, **ChromaDB** for vector storage, and **OpenAI’s embe
+- **Chunking Strategy**: Documents are split into 512-token chunks with 50-token overlap using `RecursiveCharacterTextSplitter` to preserve semantic boundaries, balancing context retention and retrieval efficiency.
+
+- **Enhancement
 
 ## Use Cases
 

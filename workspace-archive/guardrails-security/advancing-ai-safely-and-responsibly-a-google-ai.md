@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: prompt
 importance: medium
 tags:
+- benchmark
 - deepmind
 - hackernews
 - rag
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Automated Red Teaming (ART)**: Google employs ART to proactively test Gemini models by simulating realistic attacks, significantly improving resistance to indirect prompt injection attacks during tool-use, as demonstrated in the 2.5 model family.
-- **Security Enhancement**: ART-driven testing has led to a measurable increase in protection rates, positioning Gemini 2.5 as the most secure model family to date.
-- **Continuous Improvement**: The iterative ART process is integrated into Google’s
+- **Automated Red Teaming (ART)**: Google employs ART to proactively test Gemini models by simulating realistic attack vectors, significantly improving resistance against indirect prompt injection attacks during tool-use, with Gemini 2.5 achieving the highest protection rate to date.
+
+- **Security Enhancements via ART**: The iterative ART process has been instrumental in identifying and mitigating vulnerabilities, leading to measurable improvements in model security, particularly in handling too
 
 ## Use Cases
 

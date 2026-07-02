@@ -13,13 +13,14 @@ collected_at: '2026-07-02T20:00:15.337602+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-fake-news-complaining-about-how-ai-fake-news-is
 first_seen: '2026-07-02T20:00:15.337602+05:30'
 last_seen: '2026-07-02T20:00:15.337602+05:30'
 last_checked: '2026-07-02T20:00:15.337602+05:30'
 health_score: 100
 ---
+
 
 # AI fake news complaining about how AI fake news is the death of real news
 

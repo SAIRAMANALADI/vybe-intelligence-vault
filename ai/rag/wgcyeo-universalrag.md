@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-02T20:02:40.939859+05:30'
+collected_at: '2026-07-02T22:35:45.301963+05:30'
 published_at: '2026-06-28T05:14:03Z'
 tags:
 - github-repo
+- models
 - python
 - rag
 stars: 172
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-02T20:02:40.939859+05:30'
-last_seen: '2026-07-02T20:02:40.939859+05:30'
-last_checked: '2026-07-02T20:02:40.939859+05:30'
+first_seen: '2026-07-02T22:35:45.301963+05:30'
+last_seen: '2026-07-02T22:35:45.301963+05:30'
+last_checked: '2026-07-02T22:35:45.301963+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: Introduces a unified retrieval-augmented generation (RAG) system supporting diverse modalities (text, images, tables) and granularities (document, paragraph, sentence) via modality-specific encoders and hierarchical retrieval.
+- **Multimodal RAG Framework**: Introduces a unified retrieval-augmented generation (RAG) system capable of handling diverse data modalities (text, images, tables, etc.) and granularities (document-level to fine-grained segments) via a single architecture.
 
-- **Dynamic Retrieval & Fusion Mechanism**: Implements adaptive retrieval strategies (dense/sparse) and modality-aware fusion to optimize context relevance, leveraging cross-modal attention for coherent multi-modal generation.
+- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval mechanism leveraging modality-specific encoders and a shared embedding space, enabling efficient retrieval across heterogeneous corpora without modality-specific fine-tuning.
 
-- **ACL 2026 Oral Contribution**: Presents a scalable architecture with modular components for plug-and-play integration of new modalities/granularities, validated on heterogeneous corpora with state-of-the-art performance in multimodal QA and generation tasks.
+- **Dynamic Granularity Adaptation**: Employs a hierarchical retrieval strategy with adaptive chunking and fusion, optimizing retrieval granularity based on query complexity and corpus structure for improved generation quality.
 
 ## Why It Matters
 

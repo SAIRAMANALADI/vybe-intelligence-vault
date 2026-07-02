@@ -4,11 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/agentsleague
-collected_at: '2026-07-02T01:48:40.619052+05:30'
+collected_at: '2026-07-02T22:35:50.374767+05:30'
 published_at: '2026-06-30T16:54:25Z'
 tags:
 - agents
 - github-repo
+- leaderboard
 - unknown
 stars: 285
 language: Unknown
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-12-15T11:55:32Z'
 pushed_at: '2026-04-06T09:34:39Z'
 resource_id: github:microsoft/agentsleague
-first_seen: '2026-07-02T01:48:40.619052+05:30'
-last_seen: '2026-07-02T01:48:40.619052+05:30'
-last_checked: '2026-07-02T01:48:40.619052+05:30'
+first_seen: '2026-07-02T22:35:50.374767+05:30'
+last_seen: '2026-07-02T22:35:50.374767+05:30'
+last_checked: '2026-07-02T22:35:50.374767+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **E-sports-inspired AI challenge**: Hosts live AI Battles with competitive agentic AI, blending developer engagement with gaming dynamics.
-- **Asynchronous & GitHub-integrated**: Features asynchronous community challenges with GitHub-based submissions for scalable participation.
-- **Repository metadata**: 285 stars, 91 forks, last updated 2026-06-30; language unspecified, no topics listed.
+- **AI Battles & Challenges**: Hosts live, competitive AI agent battles with asynchronous community challenges, enabling real-time agentic AI interactions and performance comparisons.
+- **GitHub-Based Submissions**: Facilitates developer participation via GitHub, allowing asynchronous submissions, version control, and collaborative development of AI agents.
+- **E-Sports Integration**: Transforms AI development into a high-energy, e-sports-style competition with structured leaderboards, rankings, and performance tracking.
 
 ## Why It Matters
 
@@ -40,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: microsoft
 - Stars: 285
-- Forks: 91
+- Forks: 90
 - Language: Unknown
 - Topics: None
 - Last Updated: 2026-06-30T16:54:25Z

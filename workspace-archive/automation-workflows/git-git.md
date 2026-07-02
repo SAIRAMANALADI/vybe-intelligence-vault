@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Mirror Repository**: Git's official source code mirror hosted on GitHub, serving as a read-only reference with contributions submitted via patches to the mailing list using [GitGitGadget](https://gitgitgadget.github.io/).
-- **Contribution Workflow**: Follows the `Documentation/SubmittingPatches` procedure for submitting improvements, with pull requests converted to patches for mailing list review.
-- **Metadata**: 61,840+ stars, 28,063+ forks; primarily written in C with shell scripting suppo
+- **Mirror Repository**: Git's official publish-only source code mirror hosted on GitHub, accepting contributions via patches submitted to the mailing list using the `Documentation/SubmittingPatches` process.
+- **Contribution Workflow**: Pull requests are converted into patches via [GitGitGadget](https://gitgitgadget.github.io/) for integration into the upstream mailing list-based development model.
+- **Metadata**: 61,809 stars, 28,082 forks; primarily written in C with shell scripting contribut
 
 ## Use Cases
 

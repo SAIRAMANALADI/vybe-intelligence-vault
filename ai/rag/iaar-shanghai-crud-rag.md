@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-02T15:05:33.693699+05:30'
+collected_at: '2026-07-02T22:35:15.302500+05:30'
 published_at: '2026-06-26T08:31:01Z'
 tags:
 - benchmark
+- dataset
 - github-repo
-- models
 - python
 - rag
 stars: 393
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-02T15:05:33.693699+05:30'
-last_seen: '2026-07-02T15:05:33.693699+05:30'
-last_checked: '2026-07-02T15:05:33.693699+05:30'
+first_seen: '2026-07-02T22:35:15.302500+05:30'
+last_seen: '2026-07-02T22:35:15.302500+05:30'
+last_checked: '2026-07-02T22:35:15.302500+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Introduces a **Chinese-language benchmark (CRUD-RAG)** for evaluating Retrieval-Augmented Generation (RAG) systems in LLMs, focusing on **Create, Read, Update, Delete (CRUD) operations** across diverse retrieval tasks.
+- **Benchmark Design**: Introduces a **Chinese-language benchmark** for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), focusing on **comprehensive task coverage** (e.g., retrieval quality, generation coherence, and end-to-end performance).
 
-- **Evaluation Framework**: Provides a **comprehensive suite of 10K+ Chinese queries** spanning **knowledge-intensive, open-domain, and domain-specific scenarios**, with metrics for **retrieval accuracy, generation quality, and end-to-end performance**.
+- **Evaluation Framework**: Implements **standardized metrics** (e.g., retrieval precision/recall, answer correctness) and **diverse Chinese datasets** (e.g., news, academic, and domain-specific texts) to assess RAG capabilities under varying conditions.
 
-- **Open-Source Toolkit**: Offers a **Python-based implementation** with modular components for **retrievers, generators, and evaluators**, enabling reproducible benchmarking and fine-tuning of RAG pipelines.
+- **Open-Source Toolkit**: Provides a **Python-based repository** with modular components for **retriever, generator, and evaluator**, enabling reproducible benchmarking and customization for research/industrial applications.
 
 ## Why It Matters
 

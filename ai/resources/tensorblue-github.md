@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/tensorblue
-published_at: '2026-07-02T20:04:16.099749+05:30'
-collected_at: '2026-07-02T20:04:16.099762+05:30'
+published_at: '2026-07-02T22:37:20.545623+05:30'
+collected_at: '2026-07-02T22:37:20.545633+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:tensorblue-github
-first_seen: '2026-07-02T20:04:16.099762+05:30'
-last_seen: '2026-07-02T20:04:16.099762+05:30'
-last_checked: '2026-07-02T20:04:16.099762+05:30'
+first_seen: '2026-07-02T22:37:20.545633+05:30'
+last_seen: '2026-07-02T22:37:20.545633+05:30'
+last_checked: '2026-07-02T22:37:20.545633+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Profile**: `tensorblue` is a GitHub user account with 51 stars but no public repositories, projects, or packages.
-- **User Activity**: The account has 2 followers and 0 following, with no visible public activity or contributions.
-- **Error State**: GitHub displays an error when attempting to load repositories, suggesting a potential account or API issue.
+- GitHub user `tensorblue` has **51 public stars** but **0 repositories, projects, or packages** under their profile.
+- User account shows **2 followers** and **0 following**, with no public activity or contributions.
+- GitHub API indicates a **loading error** when attempting to access popular repositories, suggesting potential profile or API issues.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-02T20:04:16.099749+05:30
+- Published: 2026-07-02T22:37:20.545623+05:30
 
 ## Related Tags
 

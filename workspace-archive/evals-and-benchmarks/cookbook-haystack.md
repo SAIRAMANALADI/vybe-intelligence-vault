@@ -6,10 +6,10 @@ source_url: https://haystack.deepset.ai/cookbook
 resource_id: blog:cookbook-haystack
 local_vault_path: ai/rag/cookbook-haystack.md
 quality_score: 70
-archive_score: 86
-archive_tier: essential
-resource_kind: framework
-importance: high
+archive_score: 74
+archive_tier: useful
+resource_kind: prompt
+importance: medium
 tags:
 - agents
 - anthropic
@@ -23,7 +23,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # 🧑‍🍳 Cookbook | Haystack
@@ -31,17 +31,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 86 (essential)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Haystack Cookbook** provides 71 technical recipes demonstrating integrations of model providers, vector databases, retrieval techniques, and advanced RAG pipelines with Haystack, covering topics like agents, multimodal processing, metadata enrichment, and model serving.
+- **Haystack Cookbook** provides 71 technical recipes demonstrating integrations with model providers, vector databases, retrieval techniques, and more, covering topics like **Agents, RAG, Multimodal, Advanced Retrieval, and Observability**.
 
-- **Key technical areas** include agentic workflows (e.g., itinerary planning, GitHub issue resolution), hybrid retrieval (BM42, sparse embeddings), and advanced RAG optimizations (query decomposition, HyDE, metadata filteri
+- **Key Recipes** include **Agentic Itinerary Planning with OpenStreetMap**, **Multimodal Agent with fastRAG**, **Hybrid RAG with BM42**, and **Evaluating RAG with Arize Phoenix**, showcasing advanced retrieval, memory integration, and multimodal workflows.
 
 ## Use Cases
 

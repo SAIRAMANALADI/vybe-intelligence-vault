@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-02T20:01:10.878875+05:30'
+collected_at: '2026-07-02T22:34:15.307337+05:30'
 published_at: '2026-06-30T08:00:12Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-02T20:01:10.878875+05:30'
-last_seen: '2026-07-02T20:01:10.878875+05:30'
-last_checked: '2026-07-02T20:01:10.878875+05:30'
+first_seen: '2026-07-02T22:34:15.307337+05:30'
+last_seen: '2026-07-02T22:34:15.307337+05:30'
+last_checked: '2026-07-02T22:34:15.307337+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems using vector search and LLMs (e.g., GPT-4-Vision, LlamaIndex, LangChain).
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI using vector search and LLMs, including GPT-4 Vision integration.
 
-- **Vector Database Integration**: Demonstrates LanceDB as a vector database for efficient embeddings storage, retrieval, and fine-tuning workflows in deep learning pipelines.
+- **Toolchain Integration**: Demonstrates workflows with LangChain, LlamaIndex, and OpenAI APIs, covering embeddings, fine-tuning, and agent-based systems for multimodal and text-based tasks.
 
-- **Agent & LLM Tooling**: Includes tutorials on building AI agents with OpenAI models, LangChain/LlamaIndex frameworks, and multimodal embeddings for real-world applications.
+- **Vector Database Focus**: Leverages LanceDB for efficient vector storage and retrieval, showcasing practical recipes for deploying scalable multimodal AI and RAG pipelines.
 
 ## Why It Matters
 

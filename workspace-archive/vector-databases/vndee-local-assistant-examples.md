@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a local implementation of a ChatPDF system using Python, enabling offline document interaction via LLMs.
-- **Key Components**: Utilizes LangChain for pipeline orchestration, Ollama for local LLM inference, and RAG for document retrieval.
-- **Setup**: Requires local deployment; updated June 2026 with support for modular document processing workflows.
+- **Purpose**: Demonstrates building a local ChatPDF application using Python, LangChain, and Ollama for RAG (Retrieval-Augmented Generation) workflows.
+- **Key Components**: Integrates LangChain for LLM orchestration, Ollama for local LLM inference, and a RAG pipeline for document processing.
+- **Deployment**: Runs entirely locally, enabling offline PDF interaction without cloud dependencies.
 
 ## Use Cases
 

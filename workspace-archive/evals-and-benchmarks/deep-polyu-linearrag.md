@@ -6,13 +6,11 @@ source_url: https://github.com/DEEP-PolyU/LinearRAG
 resource_id: github:deep-polyu/linearrag
 local_vault_path: ai/rag/deep-polyu-linearrag.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -26,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing LLM performance via graph-based indexing and query routing.
-
-- **Scalable Graph Construction**: Implements a linear-time graph construction algorithm to represent document corpora as graphs, enabling efficient subgraph retrieval and dynamic expansion for adaptive knowledge augmentation.
-
-- **Performance Bench
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval and generation, optimizing large-scale corpus processing.
+- **ICLR 2026 Contribution**: Proposes a linear-time graph-based retrieval mechanism to enhance LLM performance while reducing computational overhead in RAG pipelines.
+- **Implementation**: Open-source Python library (`LinearRAG`) with graph-based retrieval, supporting scalable and effi
 
 ## Use Cases
 

@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - reddit
+- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- GitHub's Open Source Program Office employs a new **license compliance product** to automate and scale management of open source dependencies, ensuring adherence to licensing terms.
-- The system integrates **real-time scanning** of repositories to detect and flag non-compliant licenses, reducing manual review overhead.
-- Compliance workflows are streamlined via **automated enforcement policies**, enabling organizations to enforce license restrictions and approvals at scale.
+- **Initial Scale**: GitHub processed **20,000+ secret scanning alerts** across **15,000 repositories**, requiring automated triage and prioritization.
+- **Workflow Automation**: Implemented **remediation workflows** to categorize, prioritize, and resolve alerts, reducing manual review overhead.
+- **Efficiency Milestone**: Achieved **"inbox zero"** in **9 months** via structured automation, signal filtering, and systematic remediation.
 
 ## Use Cases
 

@@ -8,7 +8,6 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 
 ## Top Matched Resources
 
-- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app) (workflow - ESSENTIAL Tier)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [MLflow - Open Source AI Platform for Agents, LLMs & Models](https://mlflow.org/) (framework - ESSENTIAL Tier)
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (framework - USEFUL Tier)
@@ -16,16 +15,17 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 - [nginx - Official Image | Docker Hub](https://hub.docker.com/_/nginx/) (template - USEFUL Tier)
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (dataset - USEFUL Tier)
 - [Introduction - Tree-sitter](https://tree-sitter.github.io/tree-sitter/) (framework - USEFUL Tier)
+- [Distributed authority quickstart | Netcode for GameObjects | 2.11.2](https://docs.unity3d.com/Packages/com.unity.netcode.gameobjects@2.11/manual/da-quickstart.html) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/langfuse/langfuse (Langfuse)
 https://github.com/Arize-AI/phoenix (Arize Phoenix)
-- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
 - [OpenTelemetry - CNCF · GitHub](https://github.com/open-telemetry)
 - [NicholasGoh/fastapi-mcp-langgraph-template](https://github.com/NicholasGoh/fastapi-mcp-langgraph-template)
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 - [open-telemetry/community](https://github.com/open-telemetry/community#mailing-lists)
 
 ## Best Learning Resources
@@ -44,4 +44,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-07-02 20:16 IST*
+*Last updated: 2026-07-02 22:49 IST*

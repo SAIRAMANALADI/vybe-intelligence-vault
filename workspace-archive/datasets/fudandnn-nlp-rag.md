@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- Implements best practices for Retrieval-Augmented Generation (RAG) as outlined in the EMNLP 2024 paper, focusing on optimizing retrieval and generation pipelines.
-- Provides a Python-based framework for evaluating and benchmarking RAG systems, including modular components for document retrieval, re-ranking, and response generation.
-- Supports extensibility via custom retrievers, generators, and evaluators, with a structured API for integrating new models or datasets.
+- **Implementation of EMNLP2024 Paper**: Provides a Python-based implementation of retrieval-augmented generation (RAG) best practices, focusing on optimizing retrieval and generation components for improved performance.
+
+- **Modular Design**: Likely includes configurable pipelines for document retrieval, query processing, and response generation, enabling customization for different RAG architectures.
+
+- **Evaluation Framework**: May incorporate benchmarking tools to assess retrieval quality, g
 
 ## Use Cases
 

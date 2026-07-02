@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-07-02T20:03:25.991041+05:30'
+collected_at: '2026-07-02T22:36:35.335983+05:30'
 published_at: '2026-07-02T09:38:04Z'
 tags:
 - agents
 - github-repo
 - openai
 - python
+- scripts
 - workflows
 stars: 911
 language: Python
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-07-02T20:03:25.991041+05:30'
-last_seen: '2026-07-02T20:03:25.991041+05:30'
-last_checked: '2026-07-02T20:03:25.991041+05:30'
+first_seen: '2026-07-02T22:36:35.335983+05:30'
+last_seen: '2026-07-02T22:36:35.335983+05:30'
+last_checked: '2026-07-02T22:36:35.335983+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Demonstrates transition from "vibe coding" to structured agentic engineering using Codex CLI, emphasizing modular hooks, context engineering, and skill-based command execution for scalable AI-driven development.
+- **Agentic Workflow Integration**: Repository provides structured methodologies for transitioning from "vibe coding" to agentic engineering using Codex CLI, emphasizing automation, hooks, and context engineering for scalable AI-driven development.
 
-- **CLI-Centric Best Practices**: Provides a curated repository of Codex CLI commands, agent templates, and hooks for OpenAI’s Codex, optimizing multi-agent collaboration, task decomposition, and automated workflow orchestration in Python.
+- **Codex CLI Best Practices**: Includes optimized commands, skills, and CLI agent configurations to enhance productivity, with a focus on modularization, reusable hooks, and efficient context management for OpenAI Codex agents.
 
-- **Pakistan-Centric AI Development**: Showcases a localized ecosystem (e.g., Pakistani developer tools, context-aware prompts) while maintaining global applicability for AI agent frameworks, with last update timestamped for 2026-07-02.
+- **Open-Source Contributions & Community**: Repository serves as a Pakistani developer-led initiative (shanraisshan) with 911 stars and 55 forks, documenting evolving best practices for AI agentic workflows in Python-based Codex CLI environments.
 
 ## Why It Matters
 

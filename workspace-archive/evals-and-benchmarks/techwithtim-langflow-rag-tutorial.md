@@ -34,8 +34,8 @@ selection_reason:
 ## Summary
 
 - **Repository Overview**: GitHub repository `techwithtim/Langflow-RAG-Tutorial` with 95 stars and 25 forks, last updated on 2026-06-29.
-- **Technical Focus**: Tutorial repository centered on Langflow and Retrieval-Augmented Generation (RAG) methodologies, though no explicit description or language is provided.
-- **Resource Status**: Minimal metadata (no topics, language, or description) suggests either an incomplete or newly initialized repository.
+- **Technical Focus**: Tutorial repository focused on Langflow and Retrieval-Augmented Generation (RAG) methodologies (language unspecified).
+- **Status**: No description, topics, or language metadata provided in repository metadata.
 
 ## Use Cases
 

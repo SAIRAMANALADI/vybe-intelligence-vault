@@ -4,17 +4,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/neo4j
-published_at: '2026-06-30T22:51:27.868438+05:30'
-collected_at: '2026-06-30T22:51:27.868455+05:30'
+published_at: '2026-07-02T22:37:25.988927+05:30'
+collected_at: '2026-07-02T22:37:25.988941+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 status: active
 resource_id: blog:neo4j-github
-first_seen: '2026-06-30T22:51:27.868455+05:30'
-last_seen: '2026-06-30T22:51:27.868455+05:30'
-last_checked: '2026-06-30T22:51:27.868455+05:30'
+first_seen: '2026-07-02T22:37:25.988941+05:30'
+last_seen: '2026-07-02T22:37:25.988941+05:30'
+last_checked: '2026-07-02T22:37:25.988941+05:30'
 health_score: 100
 ---
 
@@ -22,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Project**: [neo4j/neo4j](https://github.com/neo4j/neo4j) is the primary open-source graph database implementation in Java, with 16.8k stars and 2.6k forks, enabling ACID-compliant transactional graph operations.
+- **Neo4j Core Engine**: Open-source graph database (Java-based) with 16.8k stars, supporting ACID transactions, Cypher query language, and native graph storage.
 
-- **Driver Ecosystem**: Provides official Bolt protocol drivers for multiple languages: Java (`neo4j-java-driver`), JavaScript (`neo4j-javascript-driver`), Python (`neo4j-python-driver`), and .NET (`neo4j-dotnet-driver`), all Apache-2.0 licensed.
+- **Multi-Language Drivers**: Official Bolt protocol drivers for Java (342 stars), JavaScript (915 stars), Python (1k stars), .NET (246 stars), and Rust extensions for Python performance optimization.
 
-- **GDS & Extensions**: [graph-data-science](https://github.com/neo4j/graph-data-science) library offers scalable graph algorithms (e.g., PageRank, community detection), while [apoc](https://github.com/neo4j/apoc) provides procedural extensions for data integration and utility functions.
+- **Graph Ecosystem Tools**: Graph Data Science library (803 stars), APOC procedures (210 stars), and Spark connector (320 stars) for distributed graph analytics and ETL workflows.
 
 ## Why It Matters
 
@@ -36,13 +37,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T22:51:27.868438+05:30
+- Published: 2026-07-02T22:37:25.988927+05:30
 
 ## Related Tags
 
 - rag
 - reddit
 - web-crawled
+- workflows
 
 ## Source
 

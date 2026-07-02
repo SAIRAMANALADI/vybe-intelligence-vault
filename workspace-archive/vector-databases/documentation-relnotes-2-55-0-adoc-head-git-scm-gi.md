@@ -8,14 +8,14 @@ local_vault_path: ai/rag/documentation-relnotes-2-55-0-adoc-head-git-scm-gi.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - hackernews
 - rag
 - web-crawled
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Documentation/RelNotes/2.55.0.adoc · HEAD · git-scm / Git · GitLab
@@ -24,17 +24,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Definition**: Loading refers to the process of transferring data from a storage medium (e.g., disk, network) into memory (RAM) for execution or processing.
+- **Definition**: Loading refers to the process of transferring data or program instructions from secondary storage (e.g., HDD, SSD) into primary memory (RAM) for execution or access by the CPU.
 - **Types**:
-  - **Static Loading**: Pre-links libraries/objects at compile/link time.
-  - **Dynamic Loading**: Loads libraries/objects at runtime (e.g., via `dlopen()` in Unix or `LoadLibrary()` in Windows).
-- **Performance Impact**: I/O-bound latency and memory overhead; mitigated via techniques like prefetching, caching, or memory-mapp
+  - **Static Loading**: Pre-loads all required data/programs at system startup (e.g., BIOS, firmware).
+  - **Dynamic Loading**: Loads modules or libraries into memory only when explicitly called during runtime (e.g., shared libraries, DLLs).
+- **Performance Impact**: Inefficient loading mech
 
 ## Use Cases
 

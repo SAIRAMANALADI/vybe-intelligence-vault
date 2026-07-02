@@ -3,16 +3,16 @@ title: Sign in - Google Accounts
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://myaccount.google.com/activitycontrols
-published_at: '2026-07-02T04:21:13.508821+05:30'
-collected_at: '2026-07-02T04:21:13.508833+05:30'
+source_url: https://bugs.chromium.org/p/chromium/issues/entry?template=Security%20Bug
+published_at: '2026-07-02T22:42:55.139332+05:30'
+collected_at: '2026-07-02T22:42:55.139347+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:sign-in-google-accounts
-first_seen: '2026-07-02T04:21:13.508833+05:30'
-last_seen: '2026-07-02T04:21:13.508833+05:30'
-last_checked: '2026-07-02T04:21:13.508833+05:30'
+first_seen: '2026-07-02T22:42:55.139347+05:30'
+last_seen: '2026-07-02T22:42:55.139347+05:30'
+last_checked: '2026-07-02T22:42:55.139347+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Interface**: Google's sign-in page requires user credentials (email/phone) for account access, with optional recovery options and private browsing mode for enhanced security.
+- **Authentication Flow**: Utilizes Google's OAuth-based WebLiteSignIn for session management, redirecting to `issues.chromium.org` post-authentication with a `continue` parameter for seamless navigation.
 
-- **Session Management**: Post-authentication, users are redirected to `activitycontrols` via a `continue` parameter, utilizing `dsh` (dynamic security hash) and `ifkv` (integrity flow key validation) for session integrity.
+- **Recovery & Privacy**: Provides `usernamerecovery` endpoint for email retrieval and enforces private browsing mode (`Guest mode`) to mitigate session persistence risks via `p=signin_privatebrowsing`.
 
-- **Account Creation Flow**: The "Create account" link triggers a separate `SignUp` flow (`flowName=GlifWebSignIn`) with identical redirect logic, ensuring seamless transition to account registration.
+- **Multi-Path Signup**: Supports both existing account sign-in and new account creation (`GlifWebSignIn`) with dual redirect flows (`SignUp`/`ServiceLogin`) and persistent `ifkv` security tokens for CSRF mitigation.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-02T04:21:13.508821+05:30
+- Published: 2026-07-02T22:42:55.139332+05:30
 
 ## Related Tags
 
@@ -42,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://myaccount.google.com/activitycontrols
+Original source: https://bugs.chromium.org/p/chromium/issues/entry?template=Security%20Bug

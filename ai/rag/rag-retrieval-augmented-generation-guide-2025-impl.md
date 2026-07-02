@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025
-published_at: '2026-07-02T20:00:57.931507+05:30'
-collected_at: '2026-07-02T20:00:57.931522+05:30'
+published_at: '2026-07-02T22:34:03.098953+05:30'
+collected_at: '2026-07-02T22:34:03.098967+05:30'
 tags:
 - anthropic
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-retrieval-augmented-generation-guide-2025-impl
-first_seen: '2026-07-02T20:00:57.931522+05:30'
-last_seen: '2026-07-02T20:00:57.931522+05:30'
-last_checked: '2026-07-02T20:00:57.931522+05:30'
+first_seen: '2026-07-02T22:34:03.098967+05:30'
+last_seen: '2026-07-02T22:34:03.098967+05:30'
+last_checked: '2026-07-02T22:34:03.098967+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI `text-embedding-ada-002`, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for dynamic knowledge retrieval before LLM generation.
+- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI `text-embedding-ada-002`, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for dynamic knowledge retrieval and LLM response augmentation.
 
-- **Advanced Techniques**: Implements hierarchical retrieval, query expansion, hybrid search (dense + sparse vectors), re-ranking (e.g., `ms-marco-MiniLM`), and adaptive retrieval (Self-RAG) to improve recall, precision, and reduce hallucinations.
+- **Retrieval Strategies**: Implements semantic search (cosine similarity), hybrid search (vector + BM25), query expansion (LLM-generated variants), and re-ranking (cross-encoder models) to improve recall and precision in knowledge retrieval.
 
-- **Production Metrics**: Achieves 90-95% accuracy with <2s latency, $0.02-0.10/query cost, and 10-50x cost savings vs fine-tuning; validated in case studies (e.g., legal Q&A: 92% accuracy, 2.5s response time).
+- **Performance Metrics**: Achieves 90-95% accuracy with 80% hallucination reduction, 10-50x cost savings vs. fine-tuning, and sub-2s latency in production (e.g., legal Q&A at 92% accuracy, $0.05/query).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T20:00:57.931507+05:30
+- Published: 2026-07-02T22:34:03.098953+05:30
 
 ## Related Tags
 

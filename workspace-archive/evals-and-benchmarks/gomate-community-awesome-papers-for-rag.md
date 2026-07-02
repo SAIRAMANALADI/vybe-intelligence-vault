@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, frameworks, and tools focused on retrieval-augmented generation (RAG) techniques, including architectures, benchmarks, and evaluation methods.
-- **Python-Centric**: Primarily Python-based, leveraging libraries like `transformers`, `sentence-transformers`, and `FAISS` for retrieval and generation tasks.
-- **Active Maintenance**: Last updated in July 2026, indicating ongoing curation with contributions from the `gomate-commun
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, benchmarks, and frameworks focused on retrieval-augmented generation (RAG), emphasizing technical depth in hybrid retrieval-generation architectures.
+- **Python-Centric Tooling**: Hosts Python-based implementations, libraries, and evaluation tools for RAG systems, supporting reproducibility and integration with ML pipelines.
+- **Last Updated**: Repository metadata indicates last synchronization on **2026-07-01T02:40:05Z**,
 
 ## Use Cases
 

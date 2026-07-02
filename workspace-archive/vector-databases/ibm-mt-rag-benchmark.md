@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Design**: Multi-Turn Retrieval-Augmented Generation (RAG) evaluation framework with sequential query-response interactions to assess long-context reasoning and iterative retrieval capabilities.
-- **Technical Components**: Implements dynamic multi-turn dialogue pipelines with configurable retrieval strategies, synthetic dataset generation, and standardized evaluation metrics for coherence, factuality, and retrieval efficiency.
-- **Python-Based Implementation**: Provides modular Pyth
+- **Benchmark Overview**: Evaluates Multi-Turn Retrieval-Augmented Generation (RAG) systems, focusing on iterative query refinement and context retention across turns.
+- **Technical Implementation**: Python-based framework with standardized datasets and metrics for assessing RAG performance in multi-turn conversational settings.
+- **Evaluation Metrics**: Includes turn-level accuracy, context utilization, and response coherence, enabling comparative analysis of RAG models.
 
 ## Use Cases
 

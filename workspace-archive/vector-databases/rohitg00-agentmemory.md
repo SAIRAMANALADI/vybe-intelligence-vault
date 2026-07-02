@@ -17,7 +17,6 @@ tags:
 - github-repo
 - rag
 - typescript
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Persistent Memory Framework**: Provides long-term, structured memory storage for AI coding agents, optimized for real-world benchmark performance and seamless integration with agent workflows.
+- **Persistent Memory Framework**: Provides long-term, structured memory storage for AI coding agents, enabling context retention across sessions based on real-world benchmarking.
 
-- **TypeScript-Based Implementation**: Built in TypeScript for cross-platform compatibility, supporting extensibility via modular components and APIs for memory operations.
+- **TypeScript Implementation**: Built in TypeScript, offering type safety and modularity for integration with agent-based systems like ClaudeCode, Cursor, and Copilot.
 
-- **Benchmark-Driven Optimization**: Designed around real-world benchmarks, ensuring high efficiency in agent memory retrieval,
+- **Benchmark-Driven Optimization**: Designed to enhance agent performance by leveraging empirical benchmarks for memory persistence and retrieval ef
 
 ## Use Cases
 

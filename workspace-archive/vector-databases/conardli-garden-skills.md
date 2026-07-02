@@ -16,8 +16,9 @@ tags:
 - css
 - github-repo
 - hackernews
+- models
+- openai
 - rag
-- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -34,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Domain Technical Repository**: Open-source collection covering web design (CSS), knowledge retrieval (RAG), and image generation (GPT-Image-2), with additional focus on AI agents and Claude integration.
-
-- **High Community Engagement**: 9,054 stars and 1,221 forks, indicating strong adoption and collaborative interest in the repository's technical resources.
-
-- **Recent Updates & Tooling**: Last updated on 2026-07-02, reflecting active maintenance and compatibility with modern AI/ML wo
+- **Repository Overview**: Open-source collection by ConardLi covering web design, knowledge retrieval, image generation, and other technical skills, with 9,062 stars and 1,222 forks.
+- **Technical Stack**: Primarily implemented in CSS, with integrations for AI agents (Claude), GPT-4 Image Generation, and RAG (Retrieval-Augmented Generation) pipelines.
+- **Last Update**: Repository last updated on **2026-07-02T16:07:07Z**, indicating active maintenance.
 
 ## Use Cases
 

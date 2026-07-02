@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Repository hosting 300+ meticulously organized agentic AI resources, including frameworks, libraries, and research papers.
-- **Technical Scope**: Focuses on agent-based systems, agentic architectures, and multi-agent interactions, primarily in Python.
-- **Community Metrics**: 1,587 stars and 426 forks, indicating active engagement and adoption in AI agent development circles.
+- **Curated Collection**: Repository hosting a structured, community-driven list of **300+ agentic AI resources**, including frameworks, tools, research papers, and libraries focused on autonomous AI agents.
+- **Technical Scope**: Primarily Python-based, emphasizing **agentic architectures**, multi-agent systems, and AI agent orchestration techniques for scalability and interoperability.
+- **Active Maintenance**: Last updated **July 2026**, with **1.5K+ stars** and **400+ forks**, indicating str
 
 ## Use Cases
 

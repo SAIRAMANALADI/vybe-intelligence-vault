@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/workflow-builder-template
-collected_at: '2026-07-02T09:55:59.952123+05:30'
+collected_at: '2026-07-02T22:36:10.373505+05:30'
 published_at: '2026-07-01T04:52:23Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - scripts
 - typescript
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-11-03T17:14:16Z'
 pushed_at: '2026-01-13T08:27:13Z'
 resource_id: github:vercel-labs/workflow-builder-template
-first_seen: '2026-07-02T09:55:59.952123+05:30'
-last_seen: '2026-07-02T09:55:59.952123+05:30'
-last_checked: '2026-07-02T09:55:59.952123+05:30'
+first_seen: '2026-07-02T22:36:10.373505+05:30'
+last_seen: '2026-07-02T22:36:10.373505+05:30'
+last_checked: '2026-07-02T22:36:10.373505+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Visual AI Workflow Automation**: Open-source platform enabling drag-and-drop creation of AI-driven workflows with TypeScript-based agents for automation tasks.
+- **Visual AI Workflow Automation**: Template for building AI-driven workflow automation platforms using TypeScript, enabling agent-based task orchestration and AI model integration.
 
-- **Vercel Integration**: Built on Vercel’s infrastructure, leveraging serverless functions and edge computing for scalable workflow execution.
+- **GitHub Metrics**: 1,160 stars, 223 forks, last updated July 1, 2026, with topics including agents, AI, and workflows.
 
-- **Modular Architecture**: Template includes pre-configured components for AI agents, workflow orchestration, and real-time collaboration, optimized for rapid deployment.
+- **Vercel Integration**: Designed for Vercel deployments, leveraging modern web technologies for scalable, serverless workflow automation.
 
 ## Why It Matters
 
@@ -45,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: vercel-labs
 - Stars: 1160
-- Forks: 224
+- Forks: 223
 - Language: TypeScript
 - Topics: agents, ai, workflows
 - Last Updated: 2026-07-01T04:52:23Z

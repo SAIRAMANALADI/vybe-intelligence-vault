@@ -19,8 +19,8 @@ tags:
 - models
 - paper
 - rag
+- reddit
 - scripts
-- web-crawled
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting with built-in support for Gradio, Docker, and static HTML/JS apps, with optional GPU acceleration for performance-critical workloads.
+- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with support for Gradio, Docker, and static HTML/JS applications, including GPU acceleration for performance-critical workloads.
 
-- **Storage & Compute**: Supports disk usage monitoring, custom domains, and ZeroGPU configurations; integrates with GitHub Actions for CI/CD and supports MCP servers for agent-based workflows.
+- **Storage & Compute**: Spaces supports disk usage management, custom domains, and ZeroGPU/GPU upgrades for scalable ML inference, with configurations for Docker-based environments and embedded deployment options.
 
-- **Advanced Features**: Provides SDKs for Gradio/Streamlit/Docker, embedding capabilities, OAuth
+- **Integration & Automation**: Provid
 
 ## Use Cases
 

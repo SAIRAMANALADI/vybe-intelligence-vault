@@ -4,8 +4,8 @@ category: ai/rag
 source_type: huggingface_model
 source_name: Hugging Face Trending Models
 source_url: https://huggingface.co/baai/bge-m3
-published_at: '2026-07-02T20:00:14.107169+05:30'
-collected_at: '2026-07-02T20:00:14.107179+05:30'
+published_at: '2026-07-02T22:32:56.639533+05:30'
+collected_at: '2026-07-02T22:32:56.639540+05:30'
 tags:
 - hf-model
 - huggingface
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:baai/bge-m3
 first_seen: '2026-06-18T23:35:18.374836+05:30'
-last_seen: '2026-07-02T20:00:14.107179+05:30'
-last_checked: '2026-07-02T20:00:14.107179+05:30'
+last_seen: '2026-07-02T22:32:56.639540+05:30'
+last_checked: '2026-07-02T22:32:56.639540+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Trending Models
 - Category: ai/rag
-- Published: 2026-07-02T20:00:14.107169+05:30
+- Published: 2026-07-02T22:32:56.639533+05:30
 
 ## Related Tags
 

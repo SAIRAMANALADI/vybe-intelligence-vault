@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-07-02T20:01:05.858255+05:30'
+collected_at: '2026-07-02T22:34:10.261752+05:30'
 published_at: '2026-07-02T14:21:51Z'
 tags:
-- benchmark
 - github-repo
-- meta-ai
-- models
 - python
 - rag
+- workflows
 stars: 959
 language: Python
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-07-02T20:01:05.858255+05:30'
-last_seen: '2026-07-02T20:01:05.858255+05:30'
-last_checked: '2026-07-02T20:01:05.858255+05:30'
+first_seen: '2026-07-02T22:34:10.261752+05:30'
+last_seen: '2026-07-02T22:34:10.261752+05:30'
+last_checked: '2026-07-02T22:34:10.261752+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates a RAG pipeline leveraging local language models (e.g., Ollama) for offline inference, reducing dependency on cloud APIs.
-- **Dynamic Database Updates**: Implements mechanisms to refresh vector stores (e.g., ChromaDB) with new documents without full reindexing, enabling incremental knowledge updates.
-- **Testing Framework**: Includes automated evaluation tools (e.g., RAGAS) to benchmark retrieval quality, answer correctness, and latency across different LLM configurations.
+- **Local LLM Integration**: Demonstrates deployment and utilization of local large language models (LLMs) for retrieval-augmented generation (RAG) pipelines, emphasizing offline execution and reduced dependency on cloud APIs.
+
+- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS), ensuring RAG system relevance and accuracy with new data ingestion workflows.
+
+- **Testing Framework**: Includes structured testing protocols (e.g., unit tests, integration tests) for RAG components, validating retrieval quality, response generation, and end-to-end pipeline robustness.
 
 ## Why It Matters
 

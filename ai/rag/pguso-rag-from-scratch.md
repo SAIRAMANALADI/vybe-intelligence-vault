@@ -4,15 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-07-02T20:01:05.839101+05:30'
+collected_at: '2026-07-02T22:34:15.231360+05:30'
 published_at: '2026-07-01T18:08:16Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - javascript
 - meta-ai
 - models
 - rag
+- workflows
 stars: 1470
 language: JavaScript
 status: active
@@ -21,9 +23,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-07-02T20:01:05.839101+05:30'
-last_seen: '2026-07-02T20:01:05.839101+05:30'
-last_checked: '2026-07-02T20:01:05.839101+05:30'
+first_seen: '2026-07-02T22:34:15.231360+05:30'
+last_seen: '2026-07-02T22:34:15.231360+05:30'
+last_checked: '2026-07-02T22:34:15.231360+05:30'
 health_score: 100
 ---
 
@@ -31,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **End-to-End RAG Implementation**: Demonstrates building a Retrieval-Augmented Generation (RAG) pipeline from scratch using local LLMs (via `node-llama-cpp`) in JavaScript, covering embeddings, vector search, retrieval, and context-augmented generation without proprietary black boxes.
+- **End-to-end RAG implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using JavaScript, covering embeddings generation, vector search, retrieval, and context-augmented LLM inference with `node-llama-cpp`.
 
-- **Educational Focus**: Provides a hands-on tutorial for understanding core RAG components (e.g., document chunking, vector databases, prompt augmentation) with Node.js, emphasizing transparency and real-world applicability.
+- **Local-first, black-box-free approach**: Focuses on local LLMs and transparent techniques to eliminate proprietary abstractions, emphasizing hands-on understanding of core RAG components.
 
-- **Toolchain & Ecosystem**: Leverages `node-llama-cpp` for local LLM inference, integrates vector search (likely FAISS or similar), and targets AI agents, chatbots, and educational use cases with modular, open-source components.
+- **Educational toolkit**: Provides a structured tutorial for building RAG chatbots/pipelines, including agent-based workflows, optimized for Node.js environments and modular integration.
 
 ## Why It Matters
 

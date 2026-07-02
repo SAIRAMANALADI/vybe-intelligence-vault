@@ -16,7 +16,6 @@ tags:
 - hackernews
 - jupyter notebook
 - rag
-- scripts
 - workflows
 selection_reason:
 - Active open-source repository
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Repository of Jupyter Notebook-based agents leveraging LLMs to automate routine cybersecurity tasks (e.g., adversary emulation via MITRE CALDERA integration).
-- **Key Features**: Supports adversary emulation, AI-driven threat detection, and infosec workflow automation with modular agent architectures.
-- **Technical Stack**: Python-based agents, LLM integration, and compatibility with MITRE CALDERA for adversary simulation.
+- **Repository Overview**: Hosts Jupyter Notebook-based agents leveraging LLMs for cybersecurity tasks, including adversary emulation, with integration for tools like CALDERA.
+- **Technical Scope**: Focuses on automating infosec workflows (e.g., threat detection, red teaming) via AI-driven agents.
+- **Metadata**: 373 stars, 70 forks, last updated June 29, 2026; topics include `adversary-emulation`, `ai`, `cybersecurity`, and `llm`.
 
 ## Use Cases
 

@@ -9,14 +9,14 @@ local_vault_path: ai/rag/complete-rag-tutorial-2025-build-ai-apps-with-retr.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - rag
 - web-crawled
 - youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Complete RAG Tutorial 2025: Build AI Apps with Retrieval Augmented Generation - YouTube
@@ -25,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **YouTube's Developer Platform**: Provides APIs, tools, and documentation for integrating YouTube functionality into applications via [YouTube Developers](https://developers.google.com/youtube).
-- **Content Policies & Safety**: Enforces [YouTube's Policies & Safety](https://www.youtube.com/about/policies/) to regulate copyright, community guidelines, and legal compliance.
-- **Platform Monetization & Advertising**: Offers [Advertising](https://www.youtube.com/ads/) solutions for creators and br
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos, with additional features for creators, advertisers, and developers.
+- **Developer & API Access**: Provides a [YouTube Data API](https://developers.google.com/youtube) for programmatic interaction, allowing integration of YouTube functionality into third-party applications.
+- **Content & Policy Framework**: Operates under [Terms of Service](https://www.youtube.com/t/
 
 ## Use Cases
 

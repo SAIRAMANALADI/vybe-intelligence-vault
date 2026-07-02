@@ -8,14 +8,13 @@ local_vault_path: ai/rag/tencent-weknora.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - benchmark
 - github-repo
 - go
-- hackernews
 - meta-ai
 - models
 - openai
@@ -23,7 +22,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # Tencent/WeKnora
@@ -32,18 +31,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Multi-Functional LLM Platform**: Transforms raw documents into a queryable RAG system, autonomous reasoning agent, and self-maintaining Wiki, supporting multimodal and multi-tenant architectures.
+- **Multi-Model RAG & Agentic Workflow**: Implements Retrieval-Augmented Generation (RAG) with support for OpenAI and Ollama models, enabling autonomous reasoning agents and self-maintaining Wiki functionality via semantic/vector search and reranking.
 
-- **Technical Stack**: Built in Go, integrates embeddings, vector search, reranking, and semantic search with support for OpenAI/Ollama models for generative AI and chatbot functionalities.
+- **Go-Based Scalable Architecture**: Built in Go for high-performance multi-tenant deployment, featuring embeddings generation, evaluation pipelines, and vector-based knowledge storage/retrieval.
 
-- **Advanced Features**: Includes evaluation tools, multi-model support, and semantic capabilities for knowl
+- **Modular Integration**: Supports multimodal in
 
 ## Use Cases
 

@@ -6,20 +6,19 @@ source_url: https://github.com/langchain-ai/open-swe
 resource_id: github:langchain-ai/open-swe
 local_vault_path: ai/agents/langchain-ai-open-swe.md
 quality_score: 70
-archive_score: 77
+archive_score: 75
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
 - agents
 - anthropic
-- benchmark
 - github-repo
 - openai
 - python
+- scripts
 - workflows
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
@@ -28,17 +27,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an asynchronous, multi-agent system for autonomous code generation, debugging, and optimization using LLMs (OpenAI, Anthropic, etc.).
-- **Modular Architecture**: Supports dynamic agent collaboration with pluggable tools, task queues, and state management for scalable workflows.
-- **Benchmarking & Extensibility**: Includes evaluation frameworks for agent performance and supports custom agent/LLM integrations via standardized interfaces.
+- **Asynchronous Coding Agent**: Open-SWE is an open-source framework designed for building asynchronous coding agents, enabling parallel task execution and non-blocking I/O operations for efficient code generation and debugging.
+
+- **Multi-LLM Integration**: Supports Anthropic's ClaudeCode and OpenAI's LLMs, facilitating cross-platform agent development with configurable model endpoints and API integrations.
+
+- **Scalable Agent Architecture**: Implements modular design with Python-based async/a
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://g.co/pixel/scam-detection-help
-published_at: '2026-07-02T04:21:11.888232+05:30'
-collected_at: '2026-07-02T04:21:11.888242+05:30'
+published_at: '2026-07-02T22:47:25.831896+05:30'
+collected_at: '2026-07-02T22:47:25.831907+05:30'
 tags:
 - deepmind
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:use-scam-detection-phone-app-help
-first_seen: '2026-07-02T04:21:11.888242+05:30'
-last_seen: '2026-07-02T04:21:11.888242+05:30'
-last_checked: '2026-07-02T04:21:11.888242+05:30'
+first_seen: '2026-07-02T22:47:25.831907+05:30'
+last_seen: '2026-07-02T22:47:25.831907+05:30'
+last_checked: '2026-07-02T22:47:25.831907+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Device & Region Compatibility**: Scam Detection is exclusive to Google Pixel devices (Pixel 6+ in US, Pixel 9+ in 12 countries, Pixel 9a in US) with a SIM card from supported countries; requires manual opt-in.
-- **On-Device Processing**: Uses Gemini Nano (Pixel 9+) or Google’s ML models (earlier devices) for real-time scam detection; no audio/storage transmitted externally.
-- **User Interaction**: Provides audible alerts during calls; users can dismiss false positives or end calls via in-app notifications; feature can be toggled per-call or globally.
+- **Device & Regional Compatibility**: Scam Detection is exclusive to Google Pixel devices (Pixel 6+ in US, Pixel 9+ in 11 countries, Pixel 9a in US) and requires a SIM card from a supported country while the device is in that region.
+
+- **On-Device AI Processing**: Uses Gemini Nano (Pixel 9+) or Google’s ML models (earlier devices) for real-time scam detection; all processing is on-device with no audio/storage transmission to external servers.
+
+- **User Control & Alerts**: Feature is opt-in by default, provides audible beeps during calls, and alerts users via notifications/sounds/vibrations for high-risk scams; users can dismiss alerts or end calls directly from the interface.
 
 ## Why It Matters
 
@@ -36,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T04:21:11.888232+05:30
+- Published: 2026-07-02T22:47:25.831896+05:30
 
 ## Related Tags
 

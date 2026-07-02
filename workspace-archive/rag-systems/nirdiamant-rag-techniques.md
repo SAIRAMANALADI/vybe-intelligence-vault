@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-*   Showcases advanced Retrieval-Augmented Generation (RAG) techniques through detailed Jupyter Notebook tutorials.
-*   Leverages prominent LLM orchestration frameworks, including LangChain and LlamaIndex, alongside OpenAI models, embeddings, and vector databases.
-*   Explores diverse RAG paradigms, encompassing agentic RAG, semantic search, and various embedding-based retrieval strategies.
+- **Comprehensive RAG Techniques**: Repository provides detailed Jupyter Notebook tutorials covering advanced Retrieval-Augmented Generation (RAG) methodologies, including agentic RAG, semantic search, and hybrid retrieval strategies.
+
+- **Multi-Framework Integration**: Implements RAG systems using popular frameworks such as LangChain, LlamaIndex, and integrates with LLMs (e.g., GPT, OpenAI) and vector databases for efficient retrieval and generation.
+
+- **Technical Stack & Tools**: Utilizes Pyt
 
 ## Use Cases
 

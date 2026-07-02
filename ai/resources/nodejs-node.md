@@ -1,67 +1,49 @@
 ---
-title: nodejs/node
+title: node/CONTRIBUTING.md at main · nodejs/node · GitHub
 category: ai/resources
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/nodejs/node
-collected_at: '2026-07-02T04:20:10.940131+05:30'
-published_at: '2026-07-01T21:39:15Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/nodejs/node/blob/main/CONTRIBUTING.md
+published_at: '2026-07-02T22:42:37.253091+05:30'
+collected_at: '2026-07-02T22:42:37.253105+05:30'
 tags:
-- github-repo
-- javascript
-stars: 117949
-language: JavaScript
+- hackernews
+- scripts
+- web-crawled
+- workflows
 status: active
-license: NOASSERTION
-archived: false
-created_at: '2014-11-26T19:57:11Z'
-pushed_at: '2026-07-01T18:35:39Z'
 resource_id: github:nodejs/node
-first_seen: '2026-07-02T04:20:10.940131+05:30'
-last_seen: '2026-07-02T04:20:10.940131+05:30'
-last_checked: '2026-07-02T04:20:10.940131+05:30'
+first_seen: '2026-07-02T22:42:37.253105+05:30'
+last_seen: '2026-07-02T22:42:37.253105+05:30'
+last_checked: '2026-07-02T22:42:37.253105+05:30'
 health_score: 100
 ---
 
-# nodejs/node
+# node/CONTRIBUTING.md at main · nodejs/node · GitHub
 
 ## Summary
 
-- **Runtime Environment**: Node.js is a cross-platform JavaScript runtime built on Chrome's V8 JavaScript engine, enabling server-side execution of JavaScript code.
-- **Cross-Platform Support**: Compatible with Linux, macOS, and Windows, with native binaries available for each platform.
-- **License & Ecosystem**: MIT-licensed, with a large ecosystem of modules (via npm) and a thriving open-source community (117K+ stars, 35K+ forks).
+- **Governance & Contributions**: Node.js operates under an open governance model where significant contributors gain Collaborator status and commit-access; contributions span code, docs, infrastructure, and advocacy.
+- **Pull Request Process**: PRs are the primary mechanism for changes; contributors must adhere to the Developer's Certificate of Origin (DCO) 1.1 and follow structured review/approval workflows.
+- **Compliance & Automation**: Unauthorized automation/bots require explicit Node.js project authorization; all interactions must comply with the project's [Code of Conduct](https://github.com/nodejs/admin/blob/HEAD/CODE_OF_CONDUCT.md).
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: nodejs
-- Stars: 117949
-- Forks: 35841
-- Language: JavaScript
-- Topics: javascript, js, linux, macos, mit, node, nodejs, runtime, windows
-- Last Updated: 2026-07-01T21:39:15Z
-- License: NOASSERTION
-- Archived: No
-- Created At: 2014-11-26T19:57:11Z
-- Pushed At: 2026-07-01T18:35:39Z
+- Source: Web Discovery
+- Category: ai/resources
+- Published: 2026-07-02T22:42:37.253091+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- hackernews
+- scripts
+- web-crawled
+- workflows
 
 ## Source
 
-Original source: https://github.com/nodejs/node
+Original source: https://github.com/nodejs/node/blob/main/CONTRIBUTING.md

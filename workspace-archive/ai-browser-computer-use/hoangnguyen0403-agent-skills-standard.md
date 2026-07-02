@@ -14,8 +14,8 @@ tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - typescript
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Coding Standards Repository**: Hosts standardized best practices for 18+ programming languages and frameworks (e.g., TypeScript, React, Angular, Go, Kotlin, Spring Boot) to guide AI agents in adhering to language/framework-specific conventions.
+- **Comprehensive Coding Standards Repository**: Hosts standardized best practices for programming languages (TypeScript, Kotlin, Go, etc.) and frameworks (React, Angular, Spring Boot, Laravel, etc.) to guide AI agents in adhering to industry-standard coding conventions.
 
-- **Multi-Platform Support**: Covers mobile (Android, iOS, Flutter, React Native), web (React, Next.js, Angular), backend (NestJS, Laravel, Spring Boot), and general-purpose (Go, Kotlin) ecosystems with structured guidelines.
-
-- **Agent
+- **Multi-Platform & Framework Support**: Covers mobile (Android, iOS, Flutter), web (React, Next.js, Angular), backend (NestJS, Spring Boot, Go), and mobile app development (React Native) with structured guidelines for each.
 
 ## Use Cases
 

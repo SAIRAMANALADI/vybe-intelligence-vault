@@ -4,23 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hoodini/ai-agents-skills
-collected_at: '2026-07-02T20:02:45.898566+05:30'
-published_at: '2026-06-30T20:55:42Z'
+collected_at: '2026-07-02T22:35:50.311821+05:30'
+published_at: '2026-07-02T14:43:02Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - python
-stars: 241
+- workflows
+stars: 242
 language: Python
 status: active
 archived: false
 created_at: '2026-01-07T15:25:35Z'
 pushed_at: '2026-06-18T13:29:17Z'
 resource_id: github:hoodini/ai-agents-skills
-first_seen: '2026-07-02T20:02:45.898566+05:30'
-last_seen: '2026-07-02T20:02:45.898566+05:30'
-last_checked: '2026-07-02T20:02:45.898566+05:30'
+first_seen: '2026-07-02T22:35:50.311821+05:30'
+last_seen: '2026-07-02T22:35:50.311821+05:30'
+last_checked: '2026-07-02T22:35:50.311821+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Purpose**: Curated collection of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf) implemented in Python.
-
-- **Metadata**: 241 stars, 58 forks, last updated 2026-06-30T20:55:42Z.
-
-- **Source & Creation**: Developed by Yuval Avidani using GitHub Copilot via VS Code Insiders.
+- **Repository Overview**: Curated collection of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf), created using GitHub Copilot via VS Code Insiders.
+- **Metadata**: 242 stars, 58 forks, Python-based, last updated on 2026-07-02.
+- **Purpose**: Repository (`hoodini/ai-agents-skills`) provides domain-specific skills to enhance AI agent capabilities in coding workflows.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: hoodini
-- Stars: 241
+- Stars: 242
 - Forks: 58
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-30T20:55:42Z
+- Last Updated: 2026-07-02T14:43:02Z
 - Archived: No
 - Created At: 2026-01-07T15:25:35Z
 - Pushed At: 2026-06-18T13:29:17Z

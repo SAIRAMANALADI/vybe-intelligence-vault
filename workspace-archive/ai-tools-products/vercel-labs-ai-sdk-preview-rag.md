@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Implementation**: Template for Retrieval-Augmented Generation (RAG) using Vercel's AI SDK, integrating Next.js for full-stack AI workflows.
-- **Tech Stack**: TypeScript-based, leveraging Vercel AI SDK with Next.js for structured AI-driven applications.
-- **Metadata**: 408 stars, 84 forks, last updated June 30, 2026; focuses on AI SDK, Next.js, and RAG workflows.
+*   TypeScript-based RAG template integrating Vercel's AI SDK for generative AI workflows.
+*   Implements retrieval-augmented generation patterns within a Next.js application context.
+*   Provides a foundational architecture for AI SDK-powered RAG systems.
 
 ## Use Cases
 

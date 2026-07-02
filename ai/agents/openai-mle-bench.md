@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/openai/mle-bench
-collected_at: '2026-07-02T20:03:51.036493+05:30'
+collected_at: '2026-07-02T22:36:55.411961+05:30'
 published_at: '2026-07-01T07:16:10Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - hackernews
 - openai
 - python
-- workflows
 stars: 1602
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-10-08T17:07:40Z'
 pushed_at: '2026-04-24T17:33:44Z'
 resource_id: github:openai/mle-bench
-first_seen: '2026-07-02T20:03:51.036493+05:30'
-last_seen: '2026-07-02T20:03:51.036493+05:30'
-last_checked: '2026-07-02T20:03:51.036493+05:30'
+first_seen: '2026-07-02T22:36:55.411961+05:30'
+last_seen: '2026-07-02T22:36:55.411961+05:30'
+last_checked: '2026-07-02T22:36:55.411961+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Purpose**: MLE-bench evaluates AI agents' proficiency in machine learning engineering tasks, including model training, debugging, and optimization.
+- **Benchmark Purpose**: MLE-bench evaluates AI agents' proficiency in machine learning engineering tasks, including model development, debugging, and optimization.
 
-- **Technical Specifications**: Implemented in Python, it provides a standardized framework for assessing end-to-end ML workflows, with tasks ranging from data preprocessing to deployment.
+- **Technical Stack**: Implemented in Python, the benchmark provides a standardized framework for assessing ML engineering capabilities.
 
-- **Repository Metrics**: 1,602 stars, 256 forks, last updated July 1, 2026. Focuses on practical ML engineering challenges rather than theoretical benchmarks.
+- **Repository Status**: Last updated July 1, 2026, with 1,602 stars and 256 forks, indicating active community engagement.
 
 ## Why It Matters
 

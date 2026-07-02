@@ -10,11 +10,11 @@ ReAct loops, human-in-the-loop, multi-agent coordination, agent memory persisten
 LangGraph, CrewAI, AutoGen, Microsoft Semantic Kernel.
 
 ## Recommended Resources from the Vault
+*   [Installation | Haystack Documentation](https://docs.haystack.deepset.ai/docs/installation)
 *   [haystack-tutorials/Contributing.md at main · deepset-ai/haystack-tutorials · GitHub](https://github.com/deepset-ai/haystack-tutorials/blob/main/Contributing.md#contributing-to-haystack-tutorials)
 *   [Haystack](https://discord.com/invite/Dr63fr9NDS)
 *   [deepset-ai/haystack-experimental](https://github.com/deepset-ai/haystack-experimental)
 *   [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers)
-*   [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714)
 
 ## Project Ideas
 *   A researcher agent that scrapes hacker news and compiles summaries into markdown.

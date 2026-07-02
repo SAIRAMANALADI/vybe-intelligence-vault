@@ -4,10 +4,11 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/supermldev/genvoice-ai
-collected_at: '2026-07-02T01:51:10.380832+05:30'
+collected_at: '2026-07-02T22:38:30.572034+05:30'
 published_at: '2025-06-27T23:50:11Z'
 tags:
 - github-repo
+- hackernews
 - python
 stars: 2
 language: Python
@@ -16,9 +17,9 @@ archived: false
 created_at: '2025-06-09T21:09:10Z'
 pushed_at: '2025-06-27T23:50:07Z'
 resource_id: github:supermldev/genvoice-ai
-first_seen: '2026-07-02T01:51:10.380832+05:30'
-last_seen: '2026-07-02T01:51:10.380832+05:30'
-last_checked: '2026-07-02T01:51:10.380832+05:30'
+first_seen: '2026-07-02T22:38:30.572034+05:30'
+last_seen: '2026-07-02T22:38:30.572034+05:30'
+last_checked: '2026-07-02T22:38:30.572034+05:30'
 health_score: 100
 ---
 
@@ -26,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `supermldev/genvoice-ai` – A Python-based repository showcasing HeyGen AI voice synthesis capabilities.
-- **Last Updated**: `2025-06-27T23:50:11Z` – Latest commit timestamp indicating active development.
-- **Metrics**: Minimal activity (2 stars, 0 forks) with no specified topics or dependencies.
+- **Repository Overview**: Minimal Python-based project (`supermldev/genvoice-ai`) showcasing HeyGen AI voice synthesis capabilities, with only 2 stars and no forks.
+- **Technical Stack**: Implements HeyGen AI's voice generation model (unspecified version) using Python, last updated on **2025-06-27**.
+- **Scope**: Demonstrates core HeyGen AI functionality (e.g., text-to-speech, voice cloning) with no additional dependencies or topics listed.
 
 ## Why It Matters
 

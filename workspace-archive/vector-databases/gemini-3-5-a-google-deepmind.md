@@ -2,22 +2,21 @@
 title: "Gemini 3.5 â\x80\x94 Google DeepMind"
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://deepmind.google/technologies/gemini/
+source_url: https://deepmind.google/technologies/gemini/nano/
 resource_id: blog:gemini-3-5-a-google-deepmind
 local_vault_path: ai/rag/gemini-3-5-a-google-deepmind.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
-- benchmark
 - deepmind
 - rag
 - web-crawled
 - youtube
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Gemini 3.5 â Google DeepMind
@@ -26,17 +25,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Multimodal Architecture**: Gemini Pro integrates advanced transformer-based models with cross-modal attention mechanisms, enabling unified processing of text, image, audio, and video inputs for complex reasoning tasks.
+- **Gemini Pro** excels in handling **complex tasks** and **creative concept generation**, leveraging advanced multimodal capabilities (text, image, audio, video) for high-performance AI applications.
 
-- **Scalable Performance**: Optimized for high-performance computing (HPC) environments, leveraging TPU v5e accelerators and distributed training frameworks to achieve state-of-the-art results in multimodal benchmarks.
+- **Architectural Optimization**: Utilizes a **scalable transformer-based model** with **mixture-of-experts (MoE)** layers, enabling efficient parallel processing and reduced computational overhead for large-scale inference.
 
-- **API-Driven Deployment**: Offers a RESTful API with g
+- **Multimodal Integration**: Supports **real-time cross-modal reasoning
 
 ## Use Cases
 
@@ -46,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://deepmind.google/technologies/gemini/
+Original source URL: https://deepmind.google/technologies/gemini/nano/
 
 ## Local Vault File
 

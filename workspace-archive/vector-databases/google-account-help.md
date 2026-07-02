@@ -30,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Google Account Security**: Supports 2-Step Verification, Advanced Protection, and Enhanced Safe Browsing; includes suspicious activity monitoring and digital ID linking for enhanced security.
-- **Account Recovery & Management**: Provides tools for password reset, recovery of hacked/compromised accounts, deletion of activity/data, and configuration of recovery options.
-- **Privacy & Data Control**: Enables management of activity controls, location settings, data downloads/deletion, and granul
+- **Account Security**: Google supports **2-Step Verification (2FA)**, **Advanced Protection Program**, and **Enhanced Safe Browsing** to mitigate unauthorized access risks, including phishing and credential stuffing attacks.
+
+- **Recovery & Access Control**: Google provides **multi-factor recovery options** (SMS, email, security keys), **cross-account protection**, and **inactive account policies** (3-18 months of inactivity triggers deletion or transfer via Inactive Account Manager).
+
+- **Data
 
 ## Use Cases
 

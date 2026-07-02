@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`Azure/agent-innovator-lab`) focused on constructing AI agents on Azure, emphasizing search optimization, agent architecture, evaluation methodologies, and Retrieval-Augmented Generation (RAG) best practices.
-- **Technical Stack**: Primarily implemented in Jupyter Notebooks, with last update timestamped `2026-06-30T14:03:05Z`.
-- **Metadata**: Contains 57 stars, 31 forks, and has no listed topics; URL: [Azure/agent-innovator-lab](https://github.com/Az
+- **Repository Overview**: GitHub repository (`Azure/agent-innovator-lab`) focused on building AI agents on Azure, covering search optimization, agent design, evaluation, and RAG best practices.
+- **Technical Stack**: Implemented in Jupyter Notebooks, last updated on 2026-06-30.
+- **Metadata**: 57 stars, 31 forks; no explicit topics listed.
 
 ## Use Cases
 

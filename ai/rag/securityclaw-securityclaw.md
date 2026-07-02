@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-07-02T15:05:38.674914+05:30'
+collected_at: '2026-07-02T22:35:20.328896+05:30'
 published_at: '2026-06-30T16:56:54Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-06-18T03:28:29Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-07-02T15:05:38.674914+05:30'
-last_seen: '2026-07-02T15:05:38.674914+05:30'
-last_checked: '2026-07-02T15:05:38.674914+05:30'
+first_seen: '2026-07-02T22:35:20.328896+05:30'
+last_seen: '2026-07-02T22:35:20.328896+05:30'
+last_checked: '2026-07-02T22:35:20.328896+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch for real-time data monitoring, with modular components for extensibility in cybersecurity operations.
+- **Modular SOC Agent**: Python-based autonomous agent with skill-based architecture for monitoring OpenSearch/Elasticsearch logs, integrating RAG for behavioral memory, and validating anomalies in real-time using LLMs.
 
-- **RAG & LLM Integration**: Implements Retrieval-Augmented Generation (RAG) to build behavioral memory from monitored data, leveraging LLMs for anomaly validation and threat detection.
+- **Threat Detection Pipeline**: Combines retrieval-augmented generation (RAG) for contextual memory with LLM-driven anomaly validation to enhance SOC automation for threat hunting and incident response.
 
-- **Automated Threat Hunting**: Validates real-time anomalies using LLMs, enabling autonomous threat detection and SOC automation for cybersecurity operations.
+- **Repository Metrics**: 250 stars, 26 forks; last updated June 30, 2026; focuses on AI-driven security operations, SOC automation, and cybersecurity threat detection.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: SecurityClaw
 - Stars: 250
-- Forks: 25
+- Forks: 26
 - Language: Python
 - Topics: ai-agents, ai-security, anomaly-detection, autonomous-agents, cybersecurity, llm, opensearch, rag, retrieval-augmented-generation, security-operations-center, soc, soc-automation, threat-detection, threat-hunting
 - Last Updated: 2026-06-30T16:56:54Z

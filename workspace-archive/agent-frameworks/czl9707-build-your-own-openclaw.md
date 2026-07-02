@@ -8,15 +8,14 @@ local_vault_path: ai/agents/czl9707-build-your-own-openclaw.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # czl9707/build-your-own-openclaw
@@ -25,17 +24,15 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Repository Overview**: GitHub repository providing a step-by-step tutorial to construct an AI agent from scratch using Python, covering core concepts and implementation details.
-
-- **Technical Focus**: Utilizes Large Language Models (LLMs) and Python-based frameworks to guide users through agent architecture, tool integration, and customization.
-
-- **Project Status**: Actively maintained (last updated July 2026), with 1,761 stars and 312 forks, indicating community engagement and adoption.
+*   Offers a Python-based, step-by-step guide for constructing AI agents.
+*   Focuses on practical implementation of LLM-driven agent architectures.
+*   Provides a foundational tutorial for developing custom, self-contained AI agent systems.
 
 ## Use Cases
 

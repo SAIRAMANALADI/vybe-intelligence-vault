@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-*   High-performance document parsing and text extraction engine, implemented in Rust.
-*   Specializes in OCR recognition for diverse document types, including PDF processing.
-*   Provides an open-source solution for robust document processing and text extraction workflows.
+- **Rust-based OCR & PDF Parser**: `liteparse` is a high-performance document parser optimized for OCR, PDF processing, and text extraction, implemented in Rust for speed and safety.
+- **Lightweight & Modular**: Designed for efficiency with minimal overhead, supporting fast document parsing while maintaining extensibility for custom processing pipelines.
+- **Open-Source & Actively Maintained**: Actively developed (last updated July 2026) with a growing community (11K+ stars, 750+ forks), focusin
 
 ## Use Cases
 

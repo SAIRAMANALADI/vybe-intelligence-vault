@@ -15,7 +15,6 @@ tags:
 - github-repo
 - jupyter notebook
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive LLM & RAG Tutorials**: Repository provides detailed, hands-on guides on Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) architectures, including implementation in Jupyter Notebooks.
-- **Real-World AI Agent Applications**: Features practical examples and frameworks for deploying AI agents in production environments, covering multi-agent systems and MCP (Model Context Protocol) integrations.
-- **Active Development & Community**: Maintained with recent update
+- **Comprehensive LLM/RAG Tutorials**: Repository offers in-depth, hands-on tutorials covering Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) architectures with practical implementations in Jupyter Notebooks.
+
+- **AI Agent Applications**: Includes real-world examples and frameworks for deploying AI agents, emphasizing practical integration of LLMs and RAG systems in production environments.
+
+- **Multi-Tool & MCP Integration**: Focuses on modular AI engineering with support
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-agentic-rag
-collected_at: '2026-07-02T15:04:58.617575+05:30'
+collected_at: '2026-07-02T22:34:40.411141+05:30'
 published_at: '2026-06-18T07:25:57Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-14T17:08:04Z'
 pushed_at: '2026-06-11T22:51:59Z'
 resource_id: github:nvidia/workbench-example-agentic-rag
-first_seen: '2026-07-02T15:04:58.617575+05:30'
-last_seen: '2026-07-02T15:04:58.617575+05:30'
-last_checked: '2026-07-02T15:04:58.617575+05:30'
+first_seen: '2026-07-02T22:34:40.411141+05:30'
+last_seen: '2026-07-02T22:34:40.411141+05:30'
+last_checked: '2026-07-02T22:34:40.411141+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Implementation**: Demonstrates an autonomous agent-based Retrieval-Augmented Generation (RAG) pipeline using NVIDIA AI Workbench, integrating retrieval and generative components for dynamic decision-making.
-
-- **Jupyter Notebook-Based Workflow**: Entire project structured as executable Jupyter Notebooks, enabling interactive experimentation with agentic RAG components (e.g., retrieval strategies, LLM integration, and tool orchestration).
-
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA’s AI Workbench framework for streamlined deployment, dependency management, and GPU-accelerated inference, optimized for NVIDIA hardware (e.g., GPUs, CUDA).
+- **Agentic RAG Implementation**: Demonstrates a multi-agent system for Retrieval Augmented Generation (RAG) using NVIDIA AI Workbench, integrating retrieval, reasoning, and generation workflows.
+- **Jupyter Notebook-Based**: Entire project structured as executable Jupyter Notebooks, enabling interactive development and experimentation with agentic RAG pipelines.
+- **NVIDIA Toolchain Integration**: Leverages NVIDIA's ecosystem (e.g., GPU-accelerated libraries) for optimized agentic workflows, with last update timestamp indicating active development.
 
 ## Why It Matters
 
@@ -44,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: NVIDIA
 - Stars: 166
-- Forks: 234
+- Forks: 235
 - Language: Jupyter Notebook
 - Topics: None
 - Last Updated: 2026-06-18T07:25:57Z

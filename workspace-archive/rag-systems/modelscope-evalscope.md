@@ -16,6 +16,7 @@ tags:
 - hackernews
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Purpose**: Streamlined, customizable Python-based framework for evaluating large models (LLMs, VLMs, AIGC) and performance benchmarking.
-- **Key Features**: Supports evaluation of RAG (Retrieval-Augmented Generation) pipelines alongside standard model assessments.
-- **Technical Scope**: Last updated July 2026; designed for efficiency and extensibility in large-scale model evaluation.
+- **Framework Purpose**: Designed for efficient evaluation and benchmarking of large models (LLMs, VLMs, AIGC) with customizable pipelines and streamlined workflows.
+- **Key Features**: Supports modular evaluation tasks (e.g., RAG, performance metrics) with Python-based extensibility for diverse model types.
+- **Technical Stack**: Python-centric, optimized for scalability and integration with model evaluation workflows (last updated: 2026-07-02).
 
 ## Use Cases
 

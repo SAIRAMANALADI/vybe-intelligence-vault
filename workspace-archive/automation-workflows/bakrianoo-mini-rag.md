@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational RAG Pipeline**: Provides a step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modular deployment.
+- **Educational RAG Pipeline**: Step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, Docker, and FastAPI, with a focus on GenAI integration.
 
-- **Modular Architecture**: Implements a scalable microservices-based design with FastAPI for backend services, Docker for containerization, and integrates GenAI components for LLM-based retrieval and generation.
+- **Modular Architecture**: Implements a scalable microservices-based design, separating components like retrieval, embedding, and LLM inference for maintainability and performance.
 
-- **Hands-on Implementation**: Covers end-to-end workflow including data ingestio
+- **CI/CD & Deployment**: Includes Dockerized setup with automated workflows for testing, deployment, and monit
 
 ## Use Cases
 

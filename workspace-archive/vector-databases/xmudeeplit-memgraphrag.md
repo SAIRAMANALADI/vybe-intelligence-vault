@@ -15,7 +15,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Implements a graph RAG framework where multiple agents collaboratively construct and query a knowledge graph using memory-driven retrieval mechanisms for enhanced LLM reasoning.
+- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging distributed agent memory for enhanced retrieval and generation.
 
-- **Graph Construction & Ontology Integration**: Dynamically builds and refines graph structures with ontology constraints, enabling structured knowledge representation and adaptive retrieval for downstream tasks.
+- **Graph & Ontology Construction**: Dynamically constructs knowledge graphs and ontologies from unstructured data, enabling structured reasoning and retrieval for downstream tasks.
 
-- **Python Implementation**: Provides a modular, open-source Python
+- **Python-Based Framework**: Provides a modular Python implementation with components for agent coordination,
 
 ## Use Cases
 

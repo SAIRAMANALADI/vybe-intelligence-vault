@@ -13,10 +13,10 @@ importance: medium
 tags:
 - agents
 - anthropic
-- benchmark
 - github-repo
 - openai
 - python
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an asynchronous, multi-agent system for autonomous code generation, debugging, and optimization using LLMs (OpenAI, Anthropic, etc.).
-- **Modular Architecture**: Supports dynamic agent collaboration with pluggable tools, task queues, and state management for scalable workflows.
-- **Benchmarking & Extensibility**: Includes evaluation frameworks for agent performance and supports custom agent/LLM integrations via standardized interfaces.
+- **Asynchronous Coding Agent**: Open-SWE is an open-source framework designed for building asynchronous coding agents, enabling parallel task execution and non-blocking I/O operations for efficient code generation and debugging.
+
+- **Multi-LLM Integration**: Supports Anthropic's ClaudeCode and OpenAI's LLMs, facilitating cross-platform agent development with configurable model endpoints and API integrations.
+
+- **Scalable Agent Architecture**: Implements modular design with Python-based async/a
 
 ## Use Cases
 

@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 11,971</p>
-        <p><b>Active:</b> 11,651 | <b>Inactive:</b> 320</p>
+        <p><b>Resources tracked:</b> 12,015</p>
+        <p><b>Active:</b> 11,695 | <b>Inactive:</b> 320</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 45,689</p>
+        <p><b>Archive Files:</b> 45,766</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-02 20:50 IST</p>
+        <p><b>Last Update:</b> 2026-07-02 22:50 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,29 +55,25 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Kimi K2.7 Code is generally available in GitHub Copilot](ai/community/kimi-k2-7-code-is-generally-available-in-github-co.md)** • <kbd>+131 pts</kbd>
-- 🔼 **[Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction](ai/community/asymmetric-quantization-near-lossless-retrieval-wi.md)** • <kbd>+48 pts</kbd>
-- 🔼 **[Google Cloud Platform · GitHub](ai/rag/google-cloud-platform-github.md)** • Rank: <kbd>+2841</kbd>
-- 🔼 **[AI and Cloud Computing Services | Google Cloud](ai/rag/ai-and-cloud-computing-services-google-cloud.md)** • Rank: <kbd>+74</kbd>
-- 🔼 **[Code customization overview | Gemini for Google Cloud | Google Cloud Documentation](ai/rag/code-customization-overview-gemini-for-google-clou.md)** • Rank: <kbd>+1578</kbd>
+- 🔼 **[Kimi K2.7 Code is generally available in GitHub Copilot](ai/community/kimi-k2-7-code-is-generally-available-in-github-co.md)** • <kbd>+53 pts</kbd>
+- 🔼 **[Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction](ai/community/asymmetric-quantization-near-lossless-retrieval-wi.md)** • <kbd>+18 pts</kbd>
+- 🔼 **[Gemini 3.5 â Google DeepMind](ai/rag/gemini-3-5-a-google-deepmind.md)** • Rank: <kbd>+3401</kbd>
+- 🔼 **[Advancing AI safely and responsibly â Google AI](ai/rag/advancing-ai-safely-and-responsibly-a-google-ai.md)** • Rank: <kbd>+890</kbd>
+- 🔼 **[Use Scam Detection - Phone app Help](ai/rag/use-scam-detection-phone-app-help.md)** • Rank: <kbd>+888</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[AI fake news complaining about how AI fake news is the death of real news](ai/community/ai-fake-news-complaining-about-how-ai-fake-news-is.md)** • Score: `95`
-- 🆕 **[Open source communities](ai/agents/open-source-communities.md)** • Score: `0`
-- 🆕 **[ansible-collections/google.cloud](ai/rag/ansible-collections-google-cloud.md)** • Score: `0`
-- 🆕 **[Google Cloud (GCP) Classic | Pulumi Registry](ai/rag/google-cloud-gcp-classic-pulumi-registry.md)** • Score: `0`
-- 🆕 **[Welcome · Crossplane v2.3](ai/resources/welcome-crossplane-v2-3.md)** • Score: `0`
+- 🆕 **[The primary purpose of code review is to find code that will be hard to maintain](ai/community/the-primary-purpose-of-code-review-is-to-find-code.md)** • Score: `207`
+- 🆕 **[AI can't be listed as inventor on patent applications, Japan's top court rules](ai/community/ai-can-t-be-listed-as-inventor-on-patent-applicati.md)** • Score: `194`
+- 🆕 **[The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing](ai/community/the-egg-bandits-made-a-thousand-times-the-fine-the.md)** • Score: `171`
+- 🆕 **[Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](ai/community/senior-swe-bench-open-source-benchmark-that-assess.md)** • Score: `133`
+- 🆕 **[Show HN: Mail Memories – A desktop app to rescue photos from Gmail](ai/community/show-hn-mail-memories-a-desktop-app-to-rescue-phot.md)** • Score: `71`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](ai/community/senior-swe-bench-open-source-benchmark-that-assess.md)**
-- 💤 **[togatoga/karukan](ai/trending/togatoga-karukan.md)**
-- 💤 **[allenai/olmocr](ai/trending/allenai-olmocr.md)**
-- 💤 **[facebook/astryx](ai/agents/facebook-astryx.md)**
-- 💤 **[microsoft/AI-For-Beginners](ai/trending/microsoft-ai-for-beginners.md)**
+- 💤 **[AI fake news complaining about how AI fake news is the death of real news](ai/community/ai-fake-news-complaining-about-how-ai-fake-news-is.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

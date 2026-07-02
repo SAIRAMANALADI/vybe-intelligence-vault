@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by unliftedq. Score: 270, Comments: 111.
+Hacker News story by unliftedq. Score: 323, Comments: 135.
 Original Link: https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/
 
 ## Use Cases

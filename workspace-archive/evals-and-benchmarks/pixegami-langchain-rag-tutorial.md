@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-*   Implements a Retrieval Augmented Generation (RAG) application using Langchain.
-*   Developed entirely in Python.
-*   Serves as a simplified, demonstrative tutorial for RAG system construction.
+- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
+
+- **Python-Based Architecture**: Utilizes Python with LangChain’s modular components (e.g., document loaders, vector stores, and LLMs) to construct a functional RAG system.
+
+- **GitHub Repository**: Hosted on GitHub with 970 stars and 519 forks, last updated on July 2, 2026; serves as a tutorial for b
 
 ## Use Cases
 

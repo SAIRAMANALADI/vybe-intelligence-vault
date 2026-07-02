@@ -4,11 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-07-02T15:05:28.594235+05:30'
+collected_at: '2026-07-02T22:35:05.311235+05:30'
 published_at: '2026-06-29T08:53:18Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - hackernews
 - rag
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-07-02T15:05:28.594235+05:30'
-last_seen: '2026-07-02T15:05:28.594235+05:30'
-last_checked: '2026-07-02T15:05:28.594235+05:30'
+first_seen: '2026-07-02T22:35:05.311235+05:30'
+last_seen: '2026-07-02T22:35:05.311235+05:30'
+last_checked: '2026-07-02T22:35:05.311235+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG-Vision Resources**: A specialized repository aggregating advanced retrieval-augmented generation (RAG) techniques tailored for computer vision applications, including multimodal models, vision-language integration, and contextual retrieval methods.
+- **Curated Resource**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including methods integrating vision-language models, multimodal retrieval, and contextual augmentation.
 
-- **Multimodal RAG Frameworks**: Highlights cutting-edge frameworks combining vision encoders (e.g., ViT, CLIP) with RAG architectures to enhance zero-shot learning, image captioning, and visual question answering.
+- **Scope & Focus**: Encompasses cutting-edge RAG approaches for CV tasks such as image captioning, visual question answering (VQA), and cross-modal retrieval, emphasizing hybrid architectures combining vision encoders (e.g., ViT, CLIP) with generative models (e.g., LLMs, diffusion models).
 
-- **Benchmark & Evaluation Tools**: Includes datasets and metrics for assessing RAG-based vision models, focusing on retrieval accuracy, generative performance, and cross-modal alignment in vision-language tasks.
+- **Maintenance & Community**: Last updated **June 29, 2026**, with **337 stars** and **9 forks**, indicating active curation but limited community adoption; language unspecified, suggesting potential reliance on external documentation or multilingual resources.
 
 ## Why It Matters
 

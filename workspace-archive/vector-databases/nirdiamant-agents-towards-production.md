@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Tutorials**: Provides end-to-end, code-first guides for building production-grade GenAI agents, covering development from prototype to enterprise deployment.
+- **Comprehensive GenAI Agent Development**: Provides end-to-end, code-first tutorials for building production-grade GenAI agents, covering prototyping to enterprise deployment with frameworks like LangGraph and MCP.
 
-- **Technical Stack**: Focuses on Python-based implementations using frameworks like LangGraph, MCP, and tools for RAG, multi-agent systems, and MLOps, with Jupyter Notebooks for interactive learning.
+- **Multi-Technology Stack**: Integrates Python, LLMs, RAG, MLOps, and observability tools for scalable agentic AI systems, including multi-agent architectures and deployment strategies.
 
-- **Production & Observability**: Emphasizes deployment strategies, scalability, and observability for enterprise-grade G
+- **Open-Source Educational Resource**: Hosted on GitHub with 20.8K+ stars, offering structure
 
 ## Use Cases
 

@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform desktop apps**: Electron embeds Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based desktop apps to run natively on Windows, macOS, and Linux without native development dependencies.
+- **Cross-platform desktop apps**: Electron embeds Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based desktop apps that run natively on Windows, macOS, and Linux without requiring native development expertise.
 
-- **Core components**: Electron apps consist of a main process (`main.js`) managing app lifecycle, preload scripts (`preload.js`) bridging Node.js APIs to the renderer, and UI windows (`index.html`) rendering Chromium-based content.
+- **Core components**: Electron apps consist of a main process (`main.js`) managing app lifecycle and windows, a preload script (`preload.js`) bridging Node.js APIs to the renderer, and HTML/CSS for UI rendering (e.g., `index.html`).
 
-- **Development ecosystem**: Electron
+- **Development tools**: El
 
 ## Use Cases
 

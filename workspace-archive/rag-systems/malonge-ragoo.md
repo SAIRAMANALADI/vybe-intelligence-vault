@@ -12,7 +12,6 @@ resource_kind: tool
 importance: medium
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 selection_reason:
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Deprecation Notice**: RaGOO is no longer maintained; users are directed to migrate to **RagTag** ([malonge/RagTag](https://github.com/malonge/RagTag)) for continued development and support.
-- **Technical Scope**: Python-based toolkit specialized for **genome assembly** and **scaffolding** in bioinformatics, optimizing contig ordering and orientation.
-- **Metadata**: 173 GitHub stars, 28 forks, last updated **2026-06-18**; categorized under **bioinformatics**, **genome-assembly**, and **genom
+- **Deprecation Notice**: RaGOO (Python-based tool) is no longer maintained; users are directed to **RagTag** (successor repository: [malonge/RagTag](https://github.com/malonge/RagTag)) for continued development.
+- **Functionality**: Designed for **genome assembly scaffolding** and **bioinformatics** applications, optimizing contig ordering and orientation against reference genomes.
+- **Metadata**: 173 GitHub stars, 28 forks, last updated **2026-06-18**; categorized under **genome-assembly** and
 
 ## Use Cases
 

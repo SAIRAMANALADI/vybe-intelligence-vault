@@ -2,7 +2,7 @@
 title: web.dev
 archive_category: learning-paths
 source_category: ai/resources
-source_url: https://web.dev/
+source_url: https://web.dev
 resource_id: blog:web-dev
 local_vault_path: ai/resources/web-dev.md
 quality_score: 70
@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Core Web Vitals Optimization**: Interaction to Next Paint (INP) is now a Core Web Vital metric; resources provide guidance on measuring and optimizing INP, alongside best practices for improving Core Web Vitals performance and debunking common misconceptions about Largest Contentful Paint (LCP) optimization.
+- **Core Web Vitals Optimization**: Interaction to Next Paint (INP) is now a Core Web Vital metric; resources provide guidance on measuring and optimizing INP, alongside best practices for improving Largest Contentful Paint (LCP) beyond image optimization.
 
-- **Modern Web Platform Features**: Cross-browser support for advanced APIs such as CSS subgrid, new CSS color spaces/functions, and TransformStream enables richer UI/UX; additionally,
+- **Web Platform Resources**: web.dev offers structured learning paths for HTML, CSS, and JavaScript, including beginner courses and advanced topics like CSS subgrid, color spaces, and source maps for debugging.
+
+- **Progressive Web Apps (PWA
 
 ## Use Cases
 
@@ -44,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://web.dev/
+Original source URL: https://web.dev
 
 ## Local Vault File
 

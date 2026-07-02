@@ -8,14 +8,15 @@ local_vault_path: ai/agents/commandcodeai-langbase-examples.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: workflow
 importance: medium
 tags:
 - agents
 - github-repo
 - typescript
+- workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # CommandCodeAI/langbase-examples
@@ -24,15 +25,17 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: workflow
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Serverless AI Agents & Pipes**: Open-source framework for building composable, serverless AI agents with built-in pipes for data flow and processing.
-- **Memory Management**: Implements structured memory systems for AI agents, enabling stateful interactions and context retention.
-- **TypeScript-Based Examples**: Provides TypeScript examples demonstrating composable AI architectures, memory handling, and agent orchestration.
+- **Serverless AI Agents**: Repository showcases Langbase's open-source implementation of serverless AI agents, enabling scalable, event-driven AI workflows without infrastructure management.
+
+- **Composable AI Pipes & Memory**: Demonstrates modular AI pipelines and stateful memory systems for building complex, maintainable AI applications with reusable components.
+
+- **TypeScript-Based Examples**: Provides TypeScript implementations of AI-driven systems, highlighting integration with composable
 
 ## Use Cases
 

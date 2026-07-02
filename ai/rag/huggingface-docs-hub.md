@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-07-02T15:08:25.323654+05:30'
-collected_at: '2026-07-02T15:08:25.323667+05:30'
+published_at: '2026-07-02T22:38:20.758951+05:30'
+collected_at: '2026-07-02T22:38:20.758964+05:30'
 tags:
 - agents
 - creative_dev
@@ -15,14 +15,15 @@ tags:
 - models
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-07-02T15:08:25.323667+05:30'
-last_seen: '2026-07-02T15:08:25.323667+05:30'
-last_checked: '2026-07-02T15:08:25.323667+05:30'
+first_seen: '2026-07-02T22:38:20.758964+05:30'
+last_seen: '2026-07-02T22:38:20.758964+05:30'
+last_checked: '2026-07-02T22:38:20.758964+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps via Gradio, Docker, or static HTML/JS, with optional GPU acceleration for performance-critical applications.
+- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with support for Gradio, Docker, and static HTML/JS applications, including GPU acceleration for performance-critical workloads.
 
-- **Integration & Customization**: Supports dependency management, GitHub Actions for CI/CD, and embedding Spaces in external platforms; also allows custom Python/Docker configurations.
+- **Storage & Compute**: Spaces supports disk usage management, custom domains, and ZeroGPU/GPU upgrades for scalable ML inference, with configurations for Docker-based environments and embedded deployment options.
 
-- **Storage & Performance**: Provides disk usage monitoring, ZeroGPU options for cost efficiency, and GPU upgrades for high-performance inference workloads.
+- **Integration & Automation**: Provides GitHub Actions integration for CI/CD, OAuth/Sign-In with Hugging Face, and MCP server/agent tool support for programmatic interaction with hosted Spaces.
 
 ## Why It Matters
 
@@ -44,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T15:08:25.323654+05:30
+- Published: 2026-07-02T22:38:20.758951+05:30
 
 ## Related Tags
 
@@ -56,6 +57,7 @@ General public resource representing technology updates, guides, or tutorials.
 - models
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows

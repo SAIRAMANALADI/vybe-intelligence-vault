@@ -6,7 +6,7 @@ source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
 resource_id: github:muhammadusmangm/claude-code-best-practices
 local_vault_path: ai/agents/muhammadusmangm-claude-code-best-practices.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: template
 importance: medium
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Hosts a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Stack**: Primarily Shell-based, with integration support for agentic AI, MCP, and CLI tools.
-- **Metadata**: 60 stars, 11 forks, last updated July 1, 2026; focuses on Anthropic’s Claude ecosystem and developer tooling.
+- **Repository Overview**: GitHub repository providing structured best practices for **Claude Code**, including setup guides, `CLAUDE.md` templates, workflow optimizations, multi-agent patterns, and cost-reduction strategies.
+- **Technical Scope**: Focuses on **agentic AI workflows**, **CLI tooling**, **MCP integration**, and **LLM optimization** with shell-scripting examples.
+- **Maintenance & Community**: Last updated **July 2026**, with **60 stars** and **11 forks**, indicating active but nic
 
 ## Use Cases
 

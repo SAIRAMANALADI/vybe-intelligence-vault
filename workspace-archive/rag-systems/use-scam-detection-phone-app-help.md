@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Device & Region Compatibility**: Scam Detection is exclusive to Google Pixel devices (Pixel 6+ in US, Pixel 9+ in 12 countries, Pixel 9a in US) with a SIM card from supported countries; requires manual opt-in.
-- **On-Device Processing**: Uses Gemini Nano (Pixel 9+) or Google’s ML models (earlier devices) for real-time scam detection; no audio/storage transmitted externally.
-- **User Interaction**: Provides audible alerts during calls; users can dismiss false positives or end calls via in-app
+- **Device & Regional Compatibility**: Scam Detection is exclusive to Google Pixel devices (Pixel 6+ in US, Pixel 9+ in 11 countries, Pixel 9a in US) and requires a SIM card from a supported country while the device is in that region.
+
+- **On-Device AI Processing**: Uses Gemini Nano (Pixel 9+) or Google’s ML models (earlier devices) for real-time scam detection; all processing is on-device with no audio/storage transmission to external servers.
+
+- **User Control & Alerts**: Feature is opt-in by
 
 ## Use Cases
 

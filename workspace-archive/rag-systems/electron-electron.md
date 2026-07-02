@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform desktop app framework** leveraging Chromium (Blink), Node.js, and V8 JavaScript engine to build native apps using web technologies (HTML/CSS/JS).
-- **Core architecture** integrates a modified Chromium browser engine with Node.js runtime, enabling direct DOM access and native OS APIs via IPC (Inter-Process Communication).
-- **Build system** relies on GN/Ninja for compilation, supports platform-specific binaries (Windows/macOS/Linux), and integrates with Chromium’s sandboxing/se
+- **Electron Framework**: Enables cross-platform desktop application development using JavaScript, HTML, and CSS, leveraging Chromium for rendering and Node.js for backend integration.
+- **Core Technologies**: Built on C++ (core), V8 (JavaScript engine), and integrates Chromium (browser engine) with Node.js for native APIs and runtime.
+- **Repository Metrics**: 121,867 stars, 17,283 forks; actively maintained with last update on 2026-07-02; supports Codespaces integration.
 
 ## Use Cases
 

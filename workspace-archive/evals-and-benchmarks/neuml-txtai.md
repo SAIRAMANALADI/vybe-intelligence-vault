@@ -2,7 +2,7 @@
 title: neuml/txtai
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://github.com/neuml/txtai
+source_url: https://github.com/neuml/txtai?source=post_page
 resource_id: github:neuml/txtai
 local_vault_path: ai/rag/neuml-txtai.md
 quality_score: 70
@@ -10,12 +10,6 @@ archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
-tags:
-- agents
-- github-repo
-- python
-- rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +28,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, supporting agents, RAG, and vector search.
-- **Key Components**: Built on transformers, sentence embeddings, and vector databases for efficient information retrieval and NLP tasks.
-- **Scalability & Extensibility**: Supports large-language models, retrieval-augmented generation, and custom workflows with modular architecture.
+- **Framework Capabilities**: Python-based all-in-one AI framework integrating semantic search, LLM orchestration, and language model workflows with support for agents, RAG, and vector databases.
+
+- **Core Components**: Implements sentence embeddings, transformers, and vector search for information retrieval, enabling advanced NLP tasks like retrieval-augmented generation (RAG).
+
+- **Technical Features**: Supports embeddings, vector search, and integrates with large language models (LLMs) for wo
 
 ## Use Cases
 
@@ -46,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/neuml/txtai
+Original source URL: https://github.com/neuml/txtai?source=post_page
 
 ## Local Vault File
 

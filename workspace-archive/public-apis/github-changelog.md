@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Merge Tracking Enhancement**: Enterprise and organization reports now include total merge counts categorized by adoption phases (e.g., `adopted`, `trialing`, `unadopted`), enabling granular insights into adoption trends.
-- **Account-Level Integration**: Merge metrics are aggregated at the account level, providing unified visibility across teams and repositories within an organization.
-- **API & UI Accessibility**: The feature is exposed via both the GitHub UI (organization reports) and REST
+- **Issue Fields General Availability**: GitHub Issue Fields are now GA, enabling custom metadata (e.g., dropdowns, text, numbers) for standardized issue tracking across repositories.
+- **Projects & Issues Integration**: Enhanced Projects (beta) now supports granular field-level permissions and automation rules tied to issue metadata.
+- **API & CLI Support**: New REST API endpoints (`/repos/{owner}/{repo}/fields`) and CLI commands (`gh field`) allow programmatic field management and validation.
 
 ## Use Cases
 

@@ -2,7 +2,7 @@
 title: 'Scite: AI for Research'
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://scite.ai/
+source_url: https://www.scite.ai/
 resource_id: blog:scite-ai-for-research
 local_vault_path: ai/rag/scite-ai-for-research.md
 quality_score: 70
@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Database & Coverage**: Aggregates 280M+ full-text scholarly articles, patents, preprints, books, and datasets with direct publisher agreements (e.g., Wiley, SAGE) and open-access sources, enabling full-text search beyond abstracts.
-- **Smart Citation Intelligence**: Classifies citations as supporting, contrasting, or mentioning with contextual sentence-level evidence, enabling evidence-weighted analysis of papers, authors, or institutions.
-- **Cross-Domain Integration**: Connects research ar
+- **Database & Coverage**: Aggregates 280M+ full-text scholarly articles, patents, books, and datasets across 40+ publishers (e.g., Wiley, SAGE) with direct licensing agreements, enabling full-text search beyond abstracts.
+
+- **Smart Citation Analysis**: Classifies citations as *supporting*, *contrasting*, or *mentioning* with contextual sentence-level evidence, enabling evidence-weighted research synthesis and verification.
+
+- **Multi-Domain Integration**: Supports cross-referencing across pate
 
 ## Use Cases
 
@@ -50,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://scite.ai/
+Original source URL: https://www.scite.ai/
 
 ## Local Vault File
 

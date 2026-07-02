@@ -1,36 +1,43 @@
 ---
-title: deepset-ai/haystack
+title: deepset-ai/haystack · Discussions · GitHub
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack?source=post_page
+source_url: https://github.com/deepset-ai/haystack/discussions
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
-archive_score: 85
-archive_tier: essential
+archive_score: 75
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
+tags:
+- agents
+- anthropic
+- hackernews
+- rag
+- web-crawled
+- workflows
 selection_reason:
 - Useful for project building
 ---
 
-# deepset-ai/haystack
+# deepset-ai/haystack · Discussions · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 85 (essential)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Modular AI Orchestration**: Enables building production-ready LLM applications via configurable pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation components.
+- **Haystack GitHub Repository**: Open-source framework by deepset-ai with 25.8k stars, 2.9k forks, and active development (70 issues, 24 PRs).
 
-- **Multi-Use Case Support**: Designed for scalable agents, RAG, multimodal systems, semantic search, and conversational AI, leveraging transformers and PyTorch for advanced NLP tasks.
+- **Community Discussions**: Active technical discussions on debugging retrieval failures, RAG quality, runtime security (AgentShield), diagnostics engine for RAG pipelines, and agent memory protection.
 
-- **Open-Source Framework**: Python-based, optimized for generative AI (e.g., GPT-4, Gemini) with too
+- **Technical Enhancements**: Proposals for async execution bridges (cowork-to-code-bridge), LLM usage tracking, table QA in Haystack 2.0, and pre-acti
 
 ## Use Cases
 
@@ -40,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack?source=post_page
+Original source URL: https://github.com/deepset-ai/haystack/discussions
 
 ## Local Vault File
 

@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-07-02T15:05:18.639499+05:30'
+collected_at: '2026-07-02T22:35:00.341298+05:30'
 published_at: '2026-06-30T16:43:51Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
-- workflows
+- reddit
 stars: 1172
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-07-02T01:08:04Z'
+pushed_at: '2026-07-02T16:43:41Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-07-02T15:05:18.639499+05:30'
-last_seen: '2026-07-02T15:05:18.639499+05:30'
-last_checked: '2026-07-02T15:05:18.639499+05:30'
+first_seen: '2026-07-02T22:35:00.341298+05:30'
+last_seen: '2026-07-02T22:35:00.341298+05:30'
+last_checked: '2026-07-02T22:35:00.341298+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern on Azure using **Azure AI Search** for vector-based retrieval and **Azure OpenAI** for LLM-powered chat/Q&A workflows.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A experiences, following Azure best practices.
 
-- **Key Components**: Includes **Python-based** solution with **AZD templates**, supporting best practices for data ingestion, indexing, and retrieval-augmented prompting.
+- **Key Components**: Includes **Python-based** solution with **AZD templates**, integrating Azure AI Search for vector/keyword retrieval and Azure OpenAI for LLM-powered responses.
 
-- **Deployment**: Provides end-to-end accelerator with preconfigured Azure resources (e.g., OpenAI, AI Search) and modular design for customization.
+- **Features**: Provides end-to-end RAG pipeline with common requirements (e.g., document ingestion, embedding, retrieval, and chat interface) optimized for Azure deployments.
 
 ## Why It Matters
 
@@ -51,7 +51,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-07-02T01:08:04Z
+- Pushed At: 2026-07-02T16:43:41Z
 
 ## Possible Use Cases
 
