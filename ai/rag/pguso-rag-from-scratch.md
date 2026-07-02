@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-07-02T15:04:33.534670+05:30'
+collected_at: '2026-07-02T20:01:05.839101+05:30'
 published_at: '2026-07-01T18:08:16Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-07-02T15:04:33.534670+05:30'
-last_seen: '2026-07-02T15:04:33.534670+05:30'
-last_checked: '2026-07-02T15:04:33.534670+05:30'
+first_seen: '2026-07-02T20:01:05.839101+05:30'
+last_seen: '2026-07-02T20:01:05.839101+05:30'
+last_checked: '2026-07-02T20:01:05.839101+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **End-to-End RAG Implementation**: Demonstrates building a Retrieval-Augmented Generation (RAG) system from scratch using local LLMs (via `node-llama-cpp`) without proprietary APIs, covering embeddings, vector search, retrieval, and context-augmented generation in JavaScript.
+- **End-to-End RAG Implementation**: Demonstrates building a Retrieval-Augmented Generation (RAG) pipeline from scratch using local LLMs (via `node-llama-cpp`) in JavaScript, covering embeddings, vector search, retrieval, and context-augmented generation without proprietary black boxes.
 
-- **Educational Focus**: Provides a hands-on tutorial to demystify RAG pipelines, emphasizing transparency and real-world understanding of core components (e.g., vector databases, prompt augmentation) for developers.
+- **Educational Focus**: Provides a hands-on tutorial for understanding core RAG components (e.g., document chunking, vector databases, prompt augmentation) with Node.js, emphasizing transparency and real-world applicability.
 
-- **Technical Stack**: Leverages `node-llama-cpp` for local LLM inference, Node.js for backend logic, and likely integrates vector search libraries (e.g., FAISS via JS bindings) for efficient document retrieval.
+- **Toolchain & Ecosystem**: Leverages `node-llama-cpp` for local LLM inference, integrates vector search (likely FAISS or similar), and targets AI agents, chatbots, and educational use cases with modular, open-source components.
 
 ## Why It Matters
 

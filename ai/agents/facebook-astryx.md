@@ -11,13 +11,14 @@ tags:
 - frontend_ui
 - github-trending
 - typescript
-status: active
+status: inactive
 resource_id: github:facebook/astryx
 first_seen: '2026-06-30T20:14:10.927278+05:30'
 last_seen: '2026-07-02T15:03:26.157161+05:30'
 last_checked: '2026-07-02T15:03:26.157161+05:30'
 health_score: 100
 ---
+
 
 # facebook/astryx
 

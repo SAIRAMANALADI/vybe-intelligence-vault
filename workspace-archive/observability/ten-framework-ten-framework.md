@@ -14,6 +14,7 @@ tags:
 - agents
 - github-repo
 - python
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -33,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: Open-source Python-based framework for building real-time, multi-modal (voice/video) conversational AI agents with support for voice and video interactions.
-
-- **Key Features**: Enables low-latency, real-time processing for conversational AI, integrating multi-modal inputs (voice/video) with modular architecture for extensibility.
-
-- **Repository Stats**: 10,821 stars, 1,312 forks, last updated July 2, 2026. Focuses on AI-driven, real-time agent development.
+- **Multi-modal real-time framework**: Python-based open-source system enabling conversational voice AI agents with integrated video, voice, and multi-modal processing capabilities.
+- **High-performance architecture**: Designed for real-time interactions, optimized for low-latency voice and video processing with scalable agent deployment.
+- **Extensible agent ecosystem**: Supports modular integration of AI models, tools, and services, facilitating customizable conversational workflows and multi-
 
 ## Use Cases
 

@@ -2,7 +2,7 @@
 title: Gemini Code Assist for teams and businesses
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://codeassist.google/
+source_url: https://cloud.google.com/products/gemini/code-assist
 resource_id: blog:gemini-code-assist-for-teams-and-businesses
 local_vault_path: ai/rag/gemini-code-assist-for-teams-and-businesses.md
 quality_score: 70
@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Gemini 3 Integration**: Leverages Google's most advanced LLM (1M token context window) for AI-assisted coding, natural language chat, and code generation across IDEs (VS Code, JetBrains), terminal (Gemini CLI), and Google Cloud services (Firebase, BigQuery, Apigee).
+- **Gemini Code Assist** leverages **Gemini 3** (1M token context window) for secure generative AI coding assistance, supporting **multi-file edits, project context, and MCP tool integrations** in agent mode for full SDLC task automation.
 
-- **Agentic Workflows & Automation**: Supports multi-file edits, project-wide context, and Human-in-the-Loop (HiTL) oversight via agent mode; automates tasks like API design (Apigee), CI/CD flows (Application Integration), and t
+- **IDE & CLI Integration**: Provides **inline code completion, natural language chat, and smart actions** across VS Code, JetBrains IDEs, Cloud Workstations, and CLI (Gemini CLI), with **local codebase awareness** for context-aware suggestions.
+
+- **Enterpris
 
 ## Use Cases
 
@@ -48,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://codeassist.google/
+Original source URL: https://cloud.google.com/products/gemini/code-assist
 
 ## Local Vault File
 

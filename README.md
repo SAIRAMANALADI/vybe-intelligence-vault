@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 11,950</p>
-        <p><b>Active:</b> 11,640 | <b>Inactive:</b> 310</p>
+        <p><b>Resources tracked:</b> 11,971</p>
+        <p><b>Active:</b> 11,651 | <b>Inactive:</b> 320</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 45,631</p>
+        <p><b>Archive Files:</b> 45,689</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-02 17:46 IST</p>
+        <p><b>Last Update:</b> 2026-07-02 20:17 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,21 +55,29 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+10</kbd>
-- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+10</kbd>
-- 🔼 **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** • Rank: <kbd>+6</kbd>
-- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+4</kbd>
-- 🔼 **[pathwaycom/llm-app](ai/rag/pathwaycom-llm-app.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Kimi K2.7 Code is generally available in GitHub Copilot](ai/community/kimi-k2-7-code-is-generally-available-in-github-co.md)** • <kbd>+131 pts</kbd>
+- 🔼 **[Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction](ai/community/asymmetric-quantization-near-lossless-retrieval-wi.md)** • <kbd>+48 pts</kbd>
+- 🔼 **[Google Cloud Platform · GitHub](ai/rag/google-cloud-platform-github.md)** • Rank: <kbd>+2841</kbd>
+- 🔼 **[AI and Cloud Computing Services | Google Cloud](ai/rag/ai-and-cloud-computing-services-google-cloud.md)** • Rank: <kbd>+74</kbd>
+- 🔼 **[Code customization overview | Gemini for Google Cloud | Google Cloud Documentation](ai/rag/code-customization-overview-gemini-for-google-clou.md)** • Rank: <kbd>+1578</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[AI fake news complaining about how AI fake news is the death of real news](ai/community/ai-fake-news-complaining-about-how-ai-fake-news-is.md)** • Score: `95`
+- 🆕 **[Open source communities](ai/agents/open-source-communities.md)** • Score: `0`
+- 🆕 **[ansible-collections/google.cloud](ai/rag/ansible-collections-google-cloud.md)** • Score: `0`
+- 🆕 **[Google Cloud (GCP) Classic | Pulumi Registry](ai/rag/google-cloud-gcp-classic-pulumi-registry.md)** • Score: `0`
+- 🆕 **[Welcome · Crossplane v2.3](ai/resources/welcome-crossplane-v2-3.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](ai/community/senior-swe-bench-open-source-benchmark-that-assess.md)**
+- 💤 **[togatoga/karukan](ai/trending/togatoga-karukan.md)**
+- 💤 **[allenai/olmocr](ai/trending/allenai-olmocr.md)**
+- 💤 **[facebook/astryx](ai/agents/facebook-astryx.md)**
+- 💤 **[microsoft/AI-For-Beginners](ai/trending/microsoft-ai-for-beginners.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

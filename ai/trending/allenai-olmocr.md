@@ -10,13 +10,14 @@ tags:
 - dataset
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:allenai/olmocr
 first_seen: '2026-07-01T20:43:06.579425+05:30'
 last_seen: '2026-07-02T15:03:26.157562+05:30'
 last_checked: '2026-07-02T15:03:26.157562+05:30'
 health_score: 100
 ---
+
 
 # allenai/olmocr
 

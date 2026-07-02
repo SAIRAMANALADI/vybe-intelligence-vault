@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- Introduces **MiniRAG**, a simplified **Retrieval-Augmented Generation (RAG)** framework leveraging small, open-source language models (LLMs) to reduce computational overhead while maintaining performance.
-- Proposes an **end-to-end differentiable architecture** with lightweight retrieval and generation components, optimized for efficiency in low-resource settings.
-- Achieves **competitive results** on benchmark tasks (e.g., question answering, knowledge-intensive tasks) with **<1B parameter mo
+- Introduces **MiniRAG**, a simplified **Retrieval-Augmented Generation (RAG)** framework leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance.
+- Implements **lightweight retrieval and generation pipelines** optimized for efficiency, achieving competitive results with minimal model size (e.g., <1B parameters).
+- Provides **modular, extensible architecture** with pre-trained checkpoints and benchmarks, enabling rapid deployment in re
 
 ## Use Cases
 

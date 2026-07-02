@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Broad Definition of Personal Data**: Apple treats any data linked or linkable to an identifiable individual (e.g., device serial numbers, aggregated non-personal data excluded) as "personal data," regardless of location, covering interactions across websites, apps, and in-person engagements.
+- **Definition & Scope of Personal Data**: Apple treats any data linked to an identifiable individual (e.g., device serial numbers, aggregated non-personal data excluded) as "personal data," regardless of geographic location, covering interactions via websites, apps, or in-store visits.
 
-- **Data Minimization & Legal Bases for Processing**: Apple collects only necessary personal data, relying on user consent, contractual necessity, legal compliance, or legitimate interests for processin
+- **Data Collection & Usage**: Apple collects minimal personal data (e.g., account, device, payment, health, or location info) necessary for services, transactions, security, or legal compliance, with explicit u
 
 ## Use Cases
 

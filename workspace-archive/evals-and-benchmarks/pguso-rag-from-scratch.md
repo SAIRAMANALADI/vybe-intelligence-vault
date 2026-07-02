@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
@@ -36,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **End-to-End RAG Implementation**: Demonstrates building a Retrieval-Augmented Generation (RAG) system from scratch using local LLMs (via `node-llama-cpp`) without proprietary APIs, covering embeddings, vector search, retrieval, and context-augmented generation in JavaScript.
+- **End-to-End RAG Implementation**: Demonstrates building a Retrieval-Augmented Generation (RAG) pipeline from scratch using local LLMs (via `node-llama-cpp`) in JavaScript, covering embeddings, vector search, retrieval, and context-augmented generation without proprietary black boxes.
 
-- **Educational Focus**: Provides a hands-on tutorial to demystify RAG pipelines, emphasizing transparency and real-world understanding of core components (e.g., vector databases, prompt augmentation) for developers.
-
--
+- **Educational Focus**: Provides a hands-on tutorial for understanding core RAG components (e.g., document chunking, vector databases, prompt augmentation) with Node.js, emphasizing transparency and real-world
 
 ## Use Cases
 

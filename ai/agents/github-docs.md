@@ -3,9 +3,9 @@ title: GitHub Docs
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.github.com
-published_at: '2026-07-02T15:09:21.610106+05:30'
-collected_at: '2026-07-02T15:09:21.610117+05:30'
+source_url: https://docs.github.com/
+published_at: '2026-07-02T20:07:02.774157+05:30'
+collected_at: '2026-07-02T20:07:02.774171+05:30'
 tags:
 - agents
 - scripts
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-docs
-first_seen: '2026-07-02T15:09:21.610117+05:30'
-last_seen: '2026-07-02T15:09:21.610117+05:30'
-last_checked: '2026-07-02T15:09:21.610117+05:30'
+first_seen: '2026-07-02T20:07:02.774171+05:30'
+last_seen: '2026-07-02T20:07:02.774171+05:30'
+last_checked: '2026-07-02T20:07:02.774171+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Core GitHub Functionality**: GitHub integrates Git for version control, supports SSH for secure remote access, and provides repository management for collaborative development workflows.
+- GitHub Docs provides structured guidance across core workflows including authentication (SSH, tokens), repository lifecycle management (creation, remote sync), and pull request-based collaboration with integrated code review.
 
-- **Security & Automation**: GitHub Actions enables CI/CD pipelines, CodeQL supports vulnerability scanning, and Copilot offers AI-driven code suggestions within IDEs.
+- Advanced tooling is covered via GitHub Actions for CI/CD, Codespaces for cloud-based development environments, and GitHub Copilot for AI-driven code generation and IDE integration.
 
-- **API & Integration**: REST/GraphQL APIs, webhooks, and GitHub Apps facilitate custom integrations, while enterprise features include organizational governance and scalable security policies.
+- Security and compliance workflows include CodeQL for static analysis, Secrets scanning for credential leakage prevention, and Supply Chain Security features for dependency integrity enforcement.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-02T15:09:21.610106+05:30
+- Published: 2026-07-02T20:07:02.774157+05:30
 
 ## Related Tags
 
@@ -50,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://docs.github.com
+Original source: https://docs.github.com/

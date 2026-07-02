@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-02T15:05:03.667734+05:30'
+collected_at: '2026-07-02T20:01:35.965711+05:30'
 published_at: '2026-06-30T01:41:05Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 157
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-02T15:05:03.667734+05:30'
-last_seen: '2026-07-02T15:05:03.667734+05:30'
-last_checked: '2026-07-02T15:05:03.667734+05:30'
+first_seen: '2026-07-02T20:01:35.965711+05:30'
+last_seen: '2026-07-02T20:01:35.965711+05:30'
+last_checked: '2026-07-02T20:01:35.965711+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval in a LangChain-based RAG pipeline for enhanced document retrieval accuracy.
+- **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval in a LangChain-powered RAG pipeline for enhanced document retrieval accuracy.
 
-- **Streamlit UI for RAG**: Implements a Streamlit web interface to visualize and interact with LangChain's retrieval-augmented generation (RAG) workflow, including vector store management and query processing.
+- **Streamlit UI**: Provides a web interface built with Streamlit to interact with the RAG system, enabling real-time query input and response visualization.
 
-- **Modular Vector Store**: Utilizes a vector database (e.g., FAISS or Chroma) for efficient semantic search, integrated with LangChain's retrieval chains for context-aware LLM responses.
+- **Vectorstore Utilization**: Uses a vector database (e.g., FAISS or Chroma) for storing and querying embeddings, enabling efficient semantic search over document chunks.
 
 ## Why It Matters
 

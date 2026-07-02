@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-02T15:06:03.669570+05:30'
+collected_at: '2026-07-02T20:02:40.939859+05:30'
 published_at: '2026-06-28T05:14:03Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-02T15:06:03.669570+05:30'
-last_seen: '2026-07-02T15:06:03.669570+05:30'
-last_checked: '2026-07-02T15:06:03.669570+05:30'
+first_seen: '2026-07-02T20:02:40.939859+05:30'
+last_seen: '2026-07-02T20:02:40.939859+05:30'
+last_checked: '2026-07-02T20:02:40.939859+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence levels) using unified encoders and retrievers.
+- **Multimodal & Multi-Granularity RAG Framework**: Introduces a unified retrieval-augmented generation (RAG) system supporting diverse modalities (text, images, tables) and granularities (document, paragraph, sentence) via modality-specific encoders and hierarchical retrieval.
 
-- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval mechanism leveraging modality-specific encoders (e.g., CLIP for vision, BERT for text) with a shared latent space for joint embedding and retrieval optimization.
+- **Dynamic Retrieval & Fusion Mechanism**: Implements adaptive retrieval strategies (dense/sparse) and modality-aware fusion to optimize context relevance, leveraging cross-modal attention for coherent multi-modal generation.
 
-- **Dynamic Adaptation & Scalability**: Features adaptive retrieval strategies (e.g., hierarchical indexing, dynamic chunking) to handle large-scale, heterogeneous corpora efficiently while maintaining low-latency inference.
+- **ACL 2026 Oral Contribution**: Presents a scalable architecture with modular components for plug-and-play integration of new modalities/granularities, validated on heterogeneous corpora with state-of-the-art performance in multimodal QA and generation tasks.
 
 ## Why It Matters
 

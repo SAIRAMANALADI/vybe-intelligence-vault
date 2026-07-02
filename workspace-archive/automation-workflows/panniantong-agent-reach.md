@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Platform Web Scraper**: CLI tool (`Agent-Reach`) written in Python that scrapes content from Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu without requiring API keys or incurring fees.
+- **Multi-Platform Web Scraper**: CLI tool (`Agent-Reach`) in Python enabling AI agents to extract data from Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu without API fees, supporting transcripts, posts, and code repositories.
 
-- **Real-Time Data Extraction**: Supports live search and retrieval of posts, transcripts, and metadata (e.g., YouTube transcripts, GitHub repos) via direct scraping, enabling AI agents to "see" internet content dynamically.
+- **Zero-Cost Architecture**: Eliminates API dependency by scraping directly via open-source libraries (e.g., `snscrape` for Twitter, `yt-dlp` for YouTube) and custom parsers, optimized for LLM integration (e.g., MCP, Claude Code).
 
-- **Agent Integration & Automation**: Designed for AI agent work
+- **Modular & Extensible*
 
 ## Use Cases
 

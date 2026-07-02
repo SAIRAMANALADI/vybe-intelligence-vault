@@ -18,7 +18,6 @@ tags:
 - producthunt
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -37,12 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Model Specifications**:
-  - New `text-embedding-3-small` (1536-dim) and `text-embedding-3-large` (3072-dim) models offer lower costs, improved multilingual performance, and configurable dimensionality via the `dimensions` parameter.
-  - Performance metrics (MTEB eval): `text-embedding-3-small` (62.3%), `text-embedding-3-large` (64.6%), with max input token limit of 8192.
+- **Model Specifications**: New `text-embedding-3-small` (1536-dim) and `text-embedding-3-large` (3072-dim) models offer lower costs, improved multilingual performance, and configurable dimensionality via the `dimensions` parameter, enabling trade-offs between vector size and accuracy.
 
-- **Technical Implementation**:
-  - Embeddings are L2-normalized vectors generated via API (`/v1/embeddings`) with pricin
+- **Embedding Generation**: Embeddings are generated via API calls to `/v1/embeddings` with input text, returning a vector of floating-point numbers; token-based pricing applies (e.g., ~62.5k pages per dollar for
 
 ## Use Cases
 

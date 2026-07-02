@@ -1,30 +1,28 @@
 ---
-title: 'pytorch/pytorch Release: PyTorch 2.12.1 Release, bug fix release'
+title: pytorch/pytorch
 category: ai/rag
-source_type: github_releases
-source_name: GitHub Releases AI
+source_type: github_trending
+source_name: GitHub Trending AI
 source_url: https://github.com/pytorch/pytorch
-published_at: '2026-06-18T00:41:17Z'
-collected_at: '2026-07-02T15:03:26.327099+05:30'
+published_at: '2026-07-02T20:00:14.035484+05:30'
+collected_at: '2026-07-02T20:00:14.035486+05:30'
 tags:
-- github-release
-- pytorch-pytorch
-- rag
+- github-trending
+- python
 status: active
 resource_id: github:pytorch/pytorch
 first_seen: '2026-06-16T13:57:13.028028+05:30'
-last_seen: '2026-07-02T15:03:26.327099+05:30'
-last_checked: '2026-07-02T15:03:26.327099+05:30'
+last_seen: '2026-07-02T20:00:14.035486+05:30'
+last_checked: '2026-07-02T20:00:14.035486+05:30'
 health_score: 100
 ---
 
-# pytorch/pytorch Release: PyTorch 2.12.1 Release, bug fix release
+
+# pytorch/pytorch
 
 ## Summary
 
-This release is meant to fix the following regressions and silent correctness issues:
-## Regression fixes
-- Fix nondeterministic outputs in test_batch_invariance with FLASH_ATTN on NVIDIA B200 GPUs ([#181248](https://github.com/pytorch/pytorch/issues/181248)), fixed by updating Triton to 3.7.1 ([#...
+Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## Why It Matters
 
@@ -32,15 +30,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Details
 
-- Source: GitHub Releases AI
-- Category: ai/rag
-- Published: 2026-06-18T00:41:17Z
+- Source: GitHub Trending AI
+- Category: ai/trending
+- Published: 2026-07-02T20:00:14.035484+05:30
 
 ## Related Tags
 
-- github-release
-- pytorch-pytorch
-- rag
+- github-trending
+- python
 
 ## Source
 

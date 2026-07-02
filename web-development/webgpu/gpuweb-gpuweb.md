@@ -4,17 +4,17 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/gpuweb/gpuweb
-collected_at: '2026-07-01T22:54:30.315644+05:30'
-published_at: '2026-07-01T17:02:43Z'
+collected_at: '2026-07-02T20:00:13.695655+05:30'
+published_at: '2026-07-02T10:28:40Z'
 tags:
 - threejs
-stars: 5419
+stars: 5420
 language: Bikeshed
 status: active
 resource_id: github:gpuweb/gpuweb
 first_seen: '2026-06-16T04:26:16.637043+00:00'
-last_seen: '2026-07-01T22:54:30.315644+05:30'
-last_checked: '2026-07-01T22:54:30.315644+05:30'
+last_seen: '2026-07-02T20:00:13.695655+05:30'
+last_checked: '2026-07-02T20:00:13.695655+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: gpuweb
-- Stars: 5419
+- Stars: 5420
 - Forks: 376
 - Language: Bikeshed
 - Topics: gpgpu-computing, gpu, w3c, webgpu, wgsl
-- Last Updated: 2026-07-01T17:02:43Z
+- Last Updated: 2026-07-02T10:28:40Z
 
 ## Possible Use Cases
 

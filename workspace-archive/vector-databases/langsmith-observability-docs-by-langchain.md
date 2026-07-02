@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-framework observability**: LangSmith provides end-to-end visibility into LLM applications, supporting integrations with OpenAI, Anthropic, CrewAI, Vercel AI SDK, Pydantic AI, and others via [available integrations](https://docs.langchain.com/langsmith/integrations).
+- **Multi-framework observability**: LangSmith provides end-to-end visibility into LLM applications across frameworks (OpenAI, Anthropic, CrewAI, Vercel AI SDK, Pydantic AI) via standardized tracing and integration hooks.
 
-- **Trace instrumentation & monitoring**: Enables tracing via environment variables, SDKs, or framework integrations, with capabilities for filtering, exporting, and comparing traces; supports RAG application instrumentati
+- **Trace lifecycle management**: Supports trace creation, filtering, export, comparison, and automated failure detection (via LangSmith Engine) with configurable retention, pricing tiers, and alerting mechanisms.
+
+- **Deployment flexibility**: Offers cloud, hybrid, or self-ho
 
 ## Use Cases
 

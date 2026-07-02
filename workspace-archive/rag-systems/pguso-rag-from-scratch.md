@@ -6,14 +6,13 @@ source_url: https://github.com/pguso/rag-from-scratch
 resource_id: github:pguso/rag-from-scratch
 local_vault_path: ai/rag/pguso-rag-from-scratch.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
 resource_kind: prompt
 importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
@@ -28,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **End-to-End RAG Implementation**: Demonstrates building a Retrieval-Augmented Generation (RAG) system from scratch using local LLMs (via `node-llama-cpp`) without proprietary APIs, covering embeddings, vector search, retrieval, and context-augmented generation in JavaScript.
+- **End-to-End RAG Implementation**: Demonstrates building a Retrieval-Augmented Generation (RAG) pipeline from scratch using local LLMs (via `node-llama-cpp`) in JavaScript, covering embeddings, vector search, retrieval, and context-augmented generation without proprietary black boxes.
 
-- **Educational Focus**: Provides a hands-on tutorial to demystify RAG pipelines, emphasizing transparency and real-world understanding of core components (e.g., vector databases, prompt augmentation) for developers.
-
--
+- **Educational Focus**: Provides a hands-on tutorial for understanding core RAG components (e.g., document chunking, vector databases, prompt augmentation) with Node.js, emphasizing transparency and real-world
 
 ## Use Cases
 

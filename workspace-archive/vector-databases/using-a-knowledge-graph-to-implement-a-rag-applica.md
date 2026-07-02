@@ -6,9 +6,9 @@ source_url: https://neo4j.com/blog/developer/rag-tutorial/
 resource_id: blog:using-a-knowledge-graph-to-implement-a-rag-applica
 local_vault_path: ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -23,7 +23,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Using a knowledge graph to implement a RAG application
@@ -31,17 +31,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **GraphRAG Architecture**: Combines vector search (semantic similarity) with graph search (structured relationships) using Neo4j and LangChain, enabling LLMs to generate more accurate, explainable, and scalable responses by integrating structured domain knowledge with unstructured text retrieval.
+- **GraphRAG Architecture**: Combines vector search (semantic similarity) with graph-based structured queries (Cypher/SPARQL) to enhance RAG systems, enabling both semantic understanding and symbolic reasoning for more accurate and explainable LLM responses.
 
-- **Core RAG Process**: Three-stage workflow—(1) **Retrieval** via embedding models and vector databases, (2) **Augmentation** by combining retrieved data with user input into a richer prompt, and (3
+- **Core Components**: Requires a knowledge graph (Neo4j) for structured data, vector embeddings (OpenAI) for unstructured text, and an orchestration framework (LangChain) to integrate retrieval and generation workflows.
+
+- **Implementation
 
 ## Use Cases
 

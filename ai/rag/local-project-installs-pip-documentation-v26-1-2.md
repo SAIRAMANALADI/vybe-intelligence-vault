@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pip.pypa.io/en/stable/topics/local-project-installs/#editable-installs
-published_at: '2026-07-02T04:16:27.952160+05:30'
-collected_at: '2026-07-02T04:16:27.952174+05:30'
+published_at: '2026-07-02T20:08:11.498625+05:30'
+collected_at: '2026-07-02T20:08:11.498639+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:local-project-installs-pip-documentation-v26-1-2
-first_seen: '2026-07-02T04:16:27.952174+05:30'
-last_seen: '2026-07-02T04:16:27.952174+05:30'
-last_checked: '2026-07-02T04:16:27.952174+05:30'
+first_seen: '2026-07-02T20:08:11.498639+05:30'
+last_seen: '2026-07-02T20:08:11.498639+05:30'
+last_checked: '2026-07-02T20:08:11.498639+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,11 @@ health_score: 100
 
 ## Summary
 
-- Regular install (`pip install path/to/project`) copies project files to Python's site-packages, mirroring a distribution install; suitable for CI/deployment.
-- Editable install (`pip install -e path/to/project`) adds project directory to Python's import path without copying files, enabling live code changes during development.
-- Modern pip (v21.3+) builds projects in-place by default, improving speed but generating backend-specific artifacts (e.g., `.egg-info`) and potentially breaking parallel builds.
+- **Regular Install**: Installs a local project into the Python environment by copying files, mimicking a standard package installation (`pip install path/to/project`). Used in CI/CD and deployments for accurate environment replication.
+
+- **Editable Install**: Installs a local project in "development mode" (`pip install -e path/to/project`), adding the project directory to Python’s import path without copying files, ideal for active development.
+
+- **Build Artifacts & Backend Behavior**: Post-pip v21.3, local builds invoke the build system in-place, improving speed but potentially littering directories with artifacts (e.g., `.egg-info`) and disrupting parallel builds in backends like `setuptools`.
 
 ## Why It Matters
 
@@ -34,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T04:16:27.952160+05:30
+- Published: 2026-07-02T20:08:11.498625+05:30
 
 ## Related Tags
 

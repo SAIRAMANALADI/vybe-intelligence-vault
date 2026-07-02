@@ -31,8 +31,11 @@ selection_reason:
 
 ## Summary
 
-*   Firecrawl's `/agent` API enables autonomous, prompt-driven web data extraction, performing deep navigation and search without requiring explicit URLs, and supports structured output via JSON schema.
-*   Agent jobs
+- **Autonomous Web Navigation**: Firecrawl `/agent` autonomously searches, navigates, and gathers data from websites without requiring predefined URLs, using only a natural language `prompt` parameter for task specification.
+
+- **Model Options & Cost Efficiency**: Supports two models—`spark-1-mini` (60% cheaper, default) for standard tasks and `spark-1-pro` for high-accuracy complex research—with dynamic credit-based pricing scaling with extraction complexity.
+
+- **Asynchronous Job Handling**: A
 
 ## Use Cases
 

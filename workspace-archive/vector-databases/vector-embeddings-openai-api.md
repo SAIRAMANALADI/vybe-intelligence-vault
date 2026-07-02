@@ -6,7 +6,7 @@ source_url: https://platform.openai.com/docs/guides/embeddings
 resource_id: blog:vector-embeddings-openai-api
 local_vault_path: ai/rag/vector-embeddings-openai-api.md
 quality_score: 70
-archive_score: 72
+archive_score: 70
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -19,7 +19,6 @@ tags:
 - rag
 - web-crawled
 selection_reason:
-- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -28,17 +27,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: dataset
 - Selection reasons:
-  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Model Specifications**: `text-embedding-3-small` (1536-dim, 62.5k pages/USD) and `text-embedding-3-large` (3072-dim, 9.6k pages/USD) offer reduced costs, improved multilingual performance, and configurable dimensionality via the `dimensions` parameter, with max input token limit of 8192.
+- **Model Specifications**: New `text-embedding-3-small` (1536-dim) and `text-embedding-3-large` (3072-dim) models offer lower costs, improved multilingual performance, and configurable dimensionality via the `dimensions` parameter, enabling trade-offs between vector size and accuracy.
 
-- **Embedding Mechanics**: Text strings are converted into dense vector embeddings (floating-point lists) where cosine similarity between vectors quantifies semantic relatedness; dimensionality can be dynam
+- **Embedding Generation**: Embeddings are generated via API calls to `/v1/embeddings` with input text, returning a vector of floating-point numbers; token-based pricing applies (e.g., ~62.5k pages per dollar for
 
 ## Use Cases
 

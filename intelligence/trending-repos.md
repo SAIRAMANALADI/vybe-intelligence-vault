@@ -6,6 +6,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | :--- | :--- | :--- |
 | [crewAIInc/crewAI Release: 1.15.2a2](https://github.com/crewaiinc/crewai) | `ai-coding-agents/` | 70 |
 | [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) | `ai-coding-agents/` | 70 |
+| [LangChain · GitHub](https://github.com/langchain-ai) | `ai-coding-agents/` | 70 |
 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | `ai-coding-agents/` | 70 |
 | [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](https://github.com/resources/whitepapers/gartner-magic-quadrant-and-critical-capabilities-for-ai-code-assistants) | `ai-coding-agents/` | 70 |
 | [study8677/antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) | `ai-coding-agents/` | 70 |
@@ -16,7 +17,9 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `ai-coding-agents/` | 70 |
 | [cline/cline](https://github.com/cline/cline) | `ai-coding-agents/` | 70 |
 | [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) | `ai-coding-agents/` | 70 |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/omniroute) | `ai-coding-agents/` | 70 |
+| [JuliusBrussee/caveman](https://github.com/juliusbrussee/caveman) | `ai-coding-agents/` | 70 |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | `ai-coding-agents/` | 70 |
+| [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | `ai-coding-agents/` | 70 |
 | [HeJiguang/codescan](https://github.com/HeJiguang/codescan) | `ai-coding-agents/` | 70 |
 | [crewAIInc/awesome-crewai](https://github.com/crewAIInc/awesome-crewai) | `ai-coding-agents/` | 70 |
 | [EvanThomasLuke/Awesome-AI-Hacking-Agents](https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents) | `ai-coding-agents/` | 70 |
@@ -26,8 +29,5 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [Marketplace · GitHub](https://github.com/marketplace?type=actions) | `ai-coding-agents/` | 70 |
 | [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) | `ai-coding-agents/` | 70 |
 | [ilexistools/agents-sdk-templates](https://github.com/ilexistools/agents-sdk-templates) | `ai-coding-agents/` | 70 |
-| [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) | `ai-coding-agents/` | 70 |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | `ai-coding-agents/` | 70 |
-| [Zijian-Ni/awesome-ai-agents-2026](https://github.com/Zijian-Ni/awesome-ai-agents-2026) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

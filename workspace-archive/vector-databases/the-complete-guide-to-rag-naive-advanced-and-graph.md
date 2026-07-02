@@ -7,9 +7,9 @@ source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
 local_vault_path: ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md
 quality_score: 70
-archive_score: 76
+archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -23,8 +23,7 @@ tags:
 - mistral
 - models
 selection_reason:
-- Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte
@@ -32,17 +31,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 76 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
 - Selection reasons:
-  - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **RAG (Retrieval-Augmented Generation)** integrates retrieval, augmentation, and generation to enhance LLM responses by dynamically pulling relevant external knowledge, addressing limitations in freshness, private knowledge, and hallucination while enabling cost efficiency and auditability.
+- **RAG (Retrieval-Augmented Generation)** integrates external retrieval with LLM generation to address limitations in freshness, private knowledge, and hallucinations by dynamically fetching relevant documents during inference.
 
-- **Evolution of RAG** spans four generations: *Naive RAG* (basic vector search), *Advanced RAG* (hybrid retrieval, reranking, query transformation), *Modular RAG* (routing, looping, tool integration), and
+- **Evolution of RAG** spans four generations: *Naive RAG* (basic retrieval), *Advanced RAG* (hybrid retrieval, reranking, query transformation), *Modular RAG* (agentic routing, tool integration), and *Graph RAG* (entity-relation graph traversal for multi-hop reasoning)
 
 ## Use Cases
 

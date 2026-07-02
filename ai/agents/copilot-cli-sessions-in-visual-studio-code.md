@@ -4,17 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
-published_at: '2026-07-02T10:01:17.877518+05:30'
-collected_at: '2026-07-02T10:01:17.877530+05:30'
+published_at: '2026-07-02T20:07:15.850214+05:30'
+collected_at: '2026-07-02T20:07:15.850231+05:30'
 tags:
 - agents
 - openai
 - web-crawled
 status: active
 resource_id: blog:copilot-cli-sessions-in-visual-studio-code
-first_seen: '2026-07-02T10:01:17.877530+05:30'
-last_seen: '2026-07-02T10:01:17.877530+05:30'
-last_checked: '2026-07-02T10:01:17.877530+05:30'
+first_seen: '2026-07-02T20:07:15.850231+05:30'
+last_seen: '2026-07-02T20:07:15.850231+05:30'
+last_checked: '2026-07-02T20:07:15.850231+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Background Execution & Integration**: Copilot CLI sessions run autonomously in the background via the Copilot CLI agent harness, managed via VS Code's Copilot SDK, enabling parallel task execution without blocking the editor; sessions persist even after VS Code closure.
+- **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via GitHub Copilot CLI, managed through the Chat view; support multi-repository workspaces, custom agents, and deep research tasks with isolation modes (Worktree/Folder).
 
-- **Isolation Modes**: Supports **Worktree** (Git worktree-based isolation for safe, separate changes) and **Folder** (direct workspace modifications) isolation, with Worktree auto-bypassing approvals due to isolated context.
+- **Isolation & Permissions**: Worktree isolation (Git worktree) auto-approves tools (Bypass Approvals), while Folder isolation allows Default/Bypass/Autopilot modes; permissions depend on isolation type and workspace Git repository status.
 
-- **Permissions & Slash Commands**: Folder isolation offers **Default Approvals**, **Bypass Approvals**, or **Autopilot** modes; Worktree enforces auto-approval. Features slash commands (`/research`, `/yolo`, `/compact`) for session control and reusable prompts/skills.
+- **Session Management**: Sessions initiated via Chat view or `Chat: New Copilot CLI` command; slash commands (`/research`, `/yolo`) and reusable prompts/skills/hooks enhance interaction; session state persists post-VS Code closure.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-02T10:01:17.877518+05:30
+- Published: 2026-07-02T20:07:15.850214+05:30
 
 ## Related Tags
 

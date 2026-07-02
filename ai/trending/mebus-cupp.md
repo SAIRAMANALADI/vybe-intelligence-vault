@@ -9,13 +9,14 @@ collected_at: '2026-07-02T15:03:26.158157+05:30'
 tags:
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:mebus/cupp
 first_seen: '2026-06-30T20:14:10.925772+05:30'
 last_seen: '2026-07-02T15:03:26.158157+05:30'
 last_checked: '2026-07-02T15:03:26.158157+05:30'
 health_score: 100
 ---
+
 
 # Mebus/cupp
 

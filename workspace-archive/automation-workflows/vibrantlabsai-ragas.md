@@ -13,6 +13,8 @@ importance: medium
 tags:
 - benchmark
 - github-repo
+- meta-ai
+- models
 - python
 - rag
 - workflows
@@ -34,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Ragas**: Python library for evaluating LLM applications, focusing on **LLMOps** and **RAG pipelines** with 14,581+ GitHub stars.
-- **Key Features**: Provides **automated, multi-metric evaluation** (e.g., faithfulness, context relevance) for LLM outputs and RAG systems.
-- **Integration**: Designed for seamless integration into **LLM workflows**, supporting customizable metrics and benchmarking.
+- **Ragas**: Python library for evaluating LLM applications, focusing on **Retrieval-Augmented Generation (RAG)** systems with 14+ metrics (e.g., faithfulness, context relevance, answer correctness).
+- **Key Features**: Modular design for custom metrics, supports both **reference-free** and **reference-based** evaluation, integrates with frameworks like LangChain and LlamaIndex.
+- **Performance & Adoption**: 14.6k+ GitHub stars, active community contributions, and compatibility with modern LLM o
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/dan5py/turborepo-shadcn-ui
-collected_at: '2026-06-29T03:45:13.842422+05:30'
+collected_at: '2026-07-02T20:00:14.379784+05:30'
 published_at: '2026-06-28T21:51:29Z'
 tags:
 - frontend_ui
@@ -13,8 +13,8 @@ language: CSS
 status: active
 resource_id: github:dan5py/turborepo-shadcn-ui
 first_seen: '2026-06-12T10:40:21.841586+00:00'
-last_seen: '2026-06-29T03:45:13.842422+05:30'
-last_checked: '2026-06-29T03:45:13.842422+05:30'
+last_seen: '2026-07-02T20:00:14.379784+05:30'
+last_checked: '2026-07-02T20:00:14.379784+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 
 - Owner: dan5py
 - Stars: 667
-- Forks: 127
+- Forks: 126
 - Language: CSS
 - Topics: monorepo, monorepo-example, monorepo-starter, nextjs, nextjs-typescript, react, react-typescript, reactjs, shadcn-ui, tailwind, tailwindcss, turbo, turbo-starter, turborepo, turborepo-starter, typescript
 - Last Updated: 2026-06-28T21:51:29Z

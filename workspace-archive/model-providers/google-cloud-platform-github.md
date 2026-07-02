@@ -6,19 +6,17 @@ source_url: https://github.com/googlecloudPlatform/
 resource_id: blog:google-cloud-platform-github
 local_vault_path: ai/rag/google-cloud-platform-github.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
-resource_kind: benchmark
-importance: medium
+archive_score: 87
+archive_tier: essential
+resource_kind: template
+importance: high
 tags:
 - agents
-- benchmark
 - rag
-- reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # Google Cloud Platform · GitHub
@@ -26,17 +24,20 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 87 (essential)
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Google Cloud Platform (GCP) GitHub Organization**: Hosts 1,490+ public repositories providing code samples, tools, and libraries for GCP services across multiple languages (Python, Go, JavaScript, Java, PHP, .NET, etc.), licensed under Apache-2.0.
+- **Official Google Cloud Platform (GCP) GitHub organization** hosting 1,491+ repositories with language-specific SDKs (Python, Go, Node.js, Java, PHP, .NET) and infrastructure-as-code (Terraform) samples.
 
-- **Key Projects**: Includes `prometheus-engine` (GCP Managed Service for Prometheus), `gcsfuse` (user-space filesystem for Google Cloud Storage), `PerfKitBenchmarker` (cloud benchmarking tool), and `cluster-toolkit` (Terraform-based AI/ML/HPC dep
+- **Key repositories**:
+  - `cloud-foundation-fabric`: Modular Terraform toolkit for GCP landing zones and infrastructure.
+  - `gcsfuse`: User-space FUSE implementation enabling direct interaction with Google Cloud Storage (GCS) as a filesystem.
+  - `race-condition`: Reference architecture fo
 
 ## Use Cases
 

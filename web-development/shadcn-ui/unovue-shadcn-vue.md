@@ -4,17 +4,17 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/unovue/shadcn-vue
-collected_at: '2026-07-02T15:03:25.495023+05:30'
-published_at: '2026-07-02T06:45:06Z'
+collected_at: '2026-07-02T20:00:14.377548+05:30'
+published_at: '2026-07-02T14:30:00Z'
 tags:
 - frontend_ui
-stars: 10211
+stars: 10212
 language: TypeScript
 status: active
 resource_id: github:unovue/shadcn-vue
 first_seen: '2026-06-16T04:26:21.211193+00:00'
-last_seen: '2026-07-02T15:03:25.495023+05:30'
-last_checked: '2026-07-02T15:03:25.495023+05:30'
+last_seen: '2026-07-02T20:00:14.377548+05:30'
+last_checked: '2026-07-02T20:00:14.377548+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: unovue
-- Stars: 10211
+- Stars: 10212
 - Forks: 663
 - Language: TypeScript
 - Topics: accessible, component-library, radix-vue, reka-ui, shadcn, shadcn-ui, ui-kit, ui-library, vue, vue-ui-kit
-- Last Updated: 2026-07-02T06:45:06Z
+- Last Updated: 2026-07-02T14:30:00Z
 
 ## Possible Use Cases
 

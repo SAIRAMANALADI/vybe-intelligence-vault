@@ -4,6 +4,7 @@ Micro-SaaS templates, business validations, boilerplate code, and builder launch
 
 | Resource | Vault Folder | Score |
 | :--- | :--- | :--- |
+| [Apple Platform Security - Apple Support](https://support.apple.com/guide/security/welcome/web) | `startup-builder/` | 70 |
 | [Twilio Hub](https://developers.twilio.com/series/twilio-developers-hub/landing_page) | `startup-builder/` | 70 |
 | [Ulusal Destek Programları | TÜBİTAK | Türkiye Bilimsel ve Teknolojik Araştırma Kurumu](https://www.tubitak.gov.tr/tr/destekler/sanayi/ulusal-destek-programlari) | `startup-builder/` | 70 |
 | [Home - Center For Technology Licensing](https://ctl.cornell.edu) | `startup-builder/` | 70 |

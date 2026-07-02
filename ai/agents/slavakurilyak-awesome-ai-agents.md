@@ -4,13 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/slavakurilyak/awesome-ai-agents
-collected_at: '2026-07-02T15:07:03.740592+05:30'
-published_at: '2026-07-02T06:48:36Z'
+collected_at: '2026-07-02T20:03:35.965905+05:30'
+published_at: '2026-07-02T10:57:35Z'
 tags:
 - agents
 - github-repo
+- hackernews
+- paper
 - python
-stars: 1586
+stars: 1587
 language: Python
 status: active
 license: MIT
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-01-15T12:48:42Z'
 pushed_at: '2025-09-09T22:33:26Z'
 resource_id: github:slavakurilyak/awesome-ai-agents
-first_seen: '2026-07-02T15:07:03.740592+05:30'
-last_seen: '2026-07-02T15:07:03.740592+05:30'
-last_checked: '2026-07-02T15:07:03.740592+05:30'
+first_seen: '2026-07-02T20:03:35.965905+05:30'
+last_seen: '2026-07-02T20:03:35.965905+05:30'
+last_checked: '2026-07-02T20:03:35.965905+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository aggregates 300+ open-source agentic AI resources, frameworks, and tools, primarily in Python, for building autonomous AI agents.
-- **Community Metrics**: Maintains 1,586 stars and 426 forks, indicating active community engagement and adoption.
-- **Last Updated**: Content was last synchronized on **July 2, 2026**, ensuring recent and relevant references for agentic AI development.
+- **Curated Collection**: Repository hosting 300+ meticulously organized agentic AI resources, including frameworks, libraries, and research papers.
+- **Technical Scope**: Focuses on agent-based systems, agentic architectures, and multi-agent interactions, primarily in Python.
+- **Community Metrics**: 1,587 stars and 426 forks, indicating active engagement and adoption in AI agent development circles.
 
 ## Why It Matters
 
@@ -39,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: slavakurilyak
-- Stars: 1586
+- Stars: 1587
 - Forks: 426
 - Language: Python
 - Topics: agent, agentic, agents
-- Last Updated: 2026-07-02T06:48:36Z
+- Last Updated: 2026-07-02T10:57:35Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-15T12:48:42Z

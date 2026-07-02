@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack provides a transparent, modular framework for building production-ready AI agents, RAG pipelines, and context-engineered systems with full inspection, debugging, and optimization capabilities via serializable, cloud-agnostic pipelines.
+- **Modular AI Orchestration**: Haystack provides a transparent, modular framework for building production-ready AI agents, RAG systems, and context-engineered workflows with full pipeline visibility, debugging, and optimization capabilities.
 
-- **Multi-Provider Integration**: Supports seamless integration with diverse AI models (OpenAI, Anthropic, Mistral, Hugging Face) and vector databases (Weaviate, Pinecone, Elasticsearch) without vendor lock-in, enabling fl
+- **Multi-Provider & Cloud-Agnostic**: Supports seamless integration with major LLMs (OpenAI, Anthropic, Mistral, etc.) and vector databases (Weaviate, Pinecone, Elasticsearch) while ensuring vendor neutrality and Kubernetes-ready, cloud-agnostic deploymen
 
 ## Use Cases
 

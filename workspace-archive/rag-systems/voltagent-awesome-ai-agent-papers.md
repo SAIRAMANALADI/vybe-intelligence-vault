@@ -2,26 +2,23 @@
 title: VoltAgent/awesome-ai-agent-papers
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/VoltAgent/awesome-ai-agent-papers
+source_url: https://github.com/voltagent/awesome-ai-agent-papers
 resource_id: github:voltagent/awesome-ai-agent-papers
 local_vault_path: ai/rag/voltagent-awesome-ai-agent-papers.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
 - benchmark
-- github-repo
-- hackernews
 - paper
 - rag
-- unknown
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # VoltAgent/awesome-ai-agent-papers
@@ -30,16 +27,14 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Curated 2026 AI Agent Research Repository**: Hosts a structured collection of 2026 AI agent research papers, focusing on agent engineering, memory mechanisms, evaluation frameworks, workflow optimization, and autonomous system architectures.
-- **Technical Scope**: Encompasses LLM-based agents, Retrieval-Augmented Generation (RAG), memory-augmented architectures, and agentic workflows, with emphasis on scalability and autonomy.
-- **Metadata**: 1,502 stars, 162 forks, last updated July 2, 2026
+A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems.
 
 ## Use Cases
 
@@ -49,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/VoltAgent/awesome-ai-agent-papers
+Original source URL: https://github.com/voltagent/awesome-ai-agent-papers
 
 ## Local Vault File
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/github-features-github.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: template
+resource_kind: tutorial
 importance: medium
 tags:
 - rag
@@ -16,7 +16,7 @@ tags:
 - web-crawled
 - workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # GitHub Features · GitHub
@@ -25,17 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: template
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **GitHub Copilot**: AI-powered code completion and generation tool integrated into editors, providing real-time suggestions for lines, functions, or fixes (e.g., Copilot Autofix for 90% of CodeQL alerts in JS/TS/Java/Python).
-
-- **GitHub Actions & CI/CD**: Native automation platform with 10,000+ community actions, self-hosted/cloud runners (Linux/macOS/Windows/ARM/GPU), and workflow visualization/templates for standardized, scalable pipelines (e.g., Dependabot for dependency updates).
-
-- **Git
+- **GitHub Copilot**: AI-powered code suggestions for line-by-line or function-level completions directly in the editor, enhancing developer productivity.
+- **GitHub Advanced Security (GHAS)**: Integrated suite for vulnerability detection (CodeQL), secret scanning, dependency management (Dependabot), and AI-driven autofixes (Copilot Autofix) to proactively secure codebases.
+- **GitHub Actions & CI/CD**: Native automation platform with prebuilt workflows, self-hosted runners, and marketplace inte
 
 ## Use Cases
 

@@ -6,10 +6,10 @@ source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
 resource_id: github:vstorm-co/full-stack-ai-agent-template
 local_vault_path: ai/rag/vstorm-co-full-stack-ai-agent-template.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: template
-importance: high
+importance: medium
 tags:
 - agents
 - frontend_ui
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Tech Stack**: Full-stack template combining FastAPI (backend) and Next.js (frontend) with AI agent frameworks (CrewAI, LangChain, LangGraph, Pydantic-AI), PostgreSQL (database), and Docker (containerization).
+- **Full-stack AI app generator** with FastAPI backend and Next.js frontend, pre-configured for AI Agents, RAG, streaming, authentication, and 20+ integrations (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI).
 
-- **Core Features**: Pre-integrated with 20+ tools (e.g., RAG, streaming, authentication, WebSockets) and supports AI agent workflows, real-time updates, and structured data validation via Pydantic models.
+- **Tech stack**: Python (FastAPI, PostgreSQL, Pydantic), TypeScript/React (Next.js), Docker, WebSocket support, with built-in tools for LLM orchestration and agent workflows.
 
-- **Deployment**: Production-ready setup with PostgreSQL for persistence, FastA
+- **Out-of-the-box features**: Multi-agent systems, real-time streaming, authentication, and integrations with
 
 ## Use Cases
 

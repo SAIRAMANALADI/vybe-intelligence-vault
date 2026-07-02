@@ -18,13 +18,13 @@ Vector databases form the retrieval core of semantic search, recommendation engi
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 3793 resources matched in the intelligence vault.
+Active signals: 3798 resources matched in the intelligence vault.
 Recently detected signals:
-- [NFL Sunday Ticket pricing & billing - YouTube TV Help](../ai/rag/nfl-sunday-ticket-pricing-billing-youtube-tv-help.md) (Source: Unknown Source) - Collected 2026-07-02
-- [NFL Sunday Ticket for Business](../ai/rag/nfl-sunday-ticket-for-business.md) (Source: Unknown Source) - Collected 2026-07-02
-- [Scite: AI for Research](../ai/rag/scite-ai-for-research.md) (Source: Unknown Source) - Collected 2026-07-02
-- [Get Started | DataCamp](../ai/rag/get-started-datacamp.md) (Source: Unknown Source) - Collected 2026-07-02
-- [The WebM Project | Submitting Patches](../ai/rag/the-webm-project-submitting-patches.md) (Source: Unknown Source) - Collected 2026-07-02
+- [Google Cloud Platform · GitHub](../ai/rag/google-cloud-platform-github.md) (Source: Unknown Source) - Collected 2026-07-02
+- [AI and Cloud Computing Services | Google Cloud](../ai/rag/ai-and-cloud-computing-services-google-cloud.md) (Source: Unknown Source) - Collected 2026-07-02
+- [ansible-collections/google.cloud](../ai/rag/ansible-collections-google-cloud.md) (Source: Unknown Source) - Collected 2026-07-02
+- [Google Cloud (GCP) Classic | Pulumi Registry](../ai/rag/google-cloud-gcp-classic-pulumi-registry.md) (Source: Unknown Source) - Collected 2026-07-02
+- [Google.Cloud — Ansible Community Documentation](../ai/rag/google-cloud-ansible-community-documentation.md) (Source: Unknown Source) - Collected 2026-07-02
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -65,25 +65,25 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Repository Overview**: Milvus Bootcamp is a GitHub repository (`milvus-io/bootcamp`) providing tutorials and resources for vector database applications, with 2.4k stars and 688 forks.
 
-### 8. [NVIDIA/workbench-example-agentic-rag](../ai/rag/nvidia-workbench-example-agentic-rag.md) ([GitHub](https://github.com/nvidia/workbench-example-agentic-rag))
+### 8. [langchain-ai/rag-research-agent-template](../ai/rag/langchain-ai-rag-research-agent-template.md) ([GitHub](https://github.com/langchain-ai/rag-research-agent-template))
+- Stars: 0
+- Language: Unknown
+- Description: - **Purpose**: Provides a template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating document retrieval and AI-driven synthesis.
+
+### 9. [NVIDIA/workbench-example-agentic-rag](../ai/rag/nvidia-workbench-example-agentic-rag.md) ([GitHub](https://github.com/nvidia/workbench-example-agentic-rag))
 - Stars: 0
 - Language: Unknown
 - Description: - **Agentic RAG Implementation**: Demonstrates an autonomous agent-based Retrieval-Augmented Generation (RAG) pipeline using NVIDIA AI Workbench, integrating retrieval and generative components for...
 
-### 9. [pgvector/pgvector](../ai/rag/pgvector-pgvector.md) ([GitHub](https://github.com/pgvector/pgvector))
+### 10. [pgvector/pgvector](../ai/rag/pgvector-pgvector.md) ([GitHub](https://github.com/pgvector/pgvector))
 - Stars: 0
 - Language: Unknown
-- Description: - **Purpose**: Extends PostgreSQL with vector similarity search capabilities, enabling efficient approximate nearest neighbor (ANN) and nearest neighbor (NN) queries.
-
-### 10. [langchain-ai/rag-research-agent-template](../ai/rag/langchain-ai-rag-research-agent-template.md) ([GitHub](https://github.com/langchain-ai/rag-research-agent-template))
-- Stars: 0
-- Language: Unknown
-- Description: - **Template Purpose**: Provides a structured starter repository for building RAG (Retrieval-Augmented Generation) research agents using LangChain, optimized for Python-based LLM workflows.
+- Description: - **PostgreSQL Extension**: Implements vector similarity search (ANN/L2/cosine) directly in Postgres via a C-based extension, enabling efficient nearest-neighbor queries on vector embeddings.
 
 ### 11. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
 - Stars: 0
 - Language: Unknown
-- Description: - **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI using vector search and LLMs (e.g., GPT-4-Vision, Llam...
+- Description: - **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems using vector search and LLMs (e.g., GPT-4-Visi...
 
 ### 12. [Kotlin/Kotlin-AI-Examples](../ai/rag/kotlin-kotlin-ai-examples.md) ([GitHub](https://github.com/kotlin/kotlin-ai-examples))
 - Stars: 0
@@ -148,12 +148,12 @@ Recently detected signals:
 ### 24. [study8677/antigravity-workspace-template](../ai/rag/study8677-antigravity-workspace-template.md) ([GitHub](https://github.com/study8677/antigravity-workspace-template))
 - Stars: 0
 - Language: Unknown
-- Description: - **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for AI IDEs (Claude Code, Cursor, Codex CLI).
+- Description: - **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for AI IDEs (Claude Code, Cursor, Codex CLI)
 
 ### 25. [vstorm-co/full-stack-ai-agent-template](../ai/rag/vstorm-co-full-stack-ai-agent-template.md) ([GitHub](https://github.com/vstorm-co/full-stack-ai-agent-template))
 - Stars: 0
 - Language: Unknown
-- Description: - **Tech Stack**: Full-stack AI application template integrating FastAPI (backend) with Next.js (frontend), featuring AI Agents, RAG, streaming, authentication, and 20+ pre-configured integrations ...
+- Description: - **Full-stack AI app generator** with FastAPI backend and Next.js frontend, pre-configured for AI Agents, RAG, streaming, authentication, and 20+ integrations (e.g., CrewAI, LangChain, LangGraph, ...
 
 ### 26. [Denis2054/Context-Engineering-for-Multi-Agent-Systems](../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md) ([GitHub](https://github.com/denis2054/context-engineering-for-multi-agent-systems))
 - Stars: 0
@@ -168,17 +168,17 @@ Recently detected signals:
 ### 28. [streamlit/example-app-langchain-rag](../ai/rag/streamlit-example-app-langchain-rag.md) ([GitHub](https://github.com/streamlit/example-app-langchain-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval in a LangChain-based RAG pipeline for enhanced document retrieval accuracy.
+- Description: - **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval in a LangChain-powered RAG pipeline for enhanced document retrieval accuracy.
 
-### 29. [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) ([GitHub](https://github.com/nirdiamant/rag_techniques))
-- Stars: 0
-- Language: Unknown
-- Description: - **Repository Content**: Hosts advanced RAG techniques with Jupyter Notebook tutorials covering agentic RAG, embeddings, semantic search, and vector databases using frameworks like LangChain, Llam...
-
-### 30. [Phala-Network/ai-agent-template-openai](../ai/rag/phala-network-ai-agent-template-openai.md) ([GitHub](https://github.com/phala-network/ai-agent-template-openai))
+### 29. [Phala-Network/ai-agent-template-openai](../ai/rag/phala-network-ai-agent-template-openai.md) ([GitHub](https://github.com/phala-network/ai-agent-template-openai))
 - Stars: 0
 - Language: Unknown
 - Description: - **Template Structure**: Provides a TypeScript-based contract template for integrating OpenAI's API with AI agents on the Phala Network, enabling serverless execution of AI workloads.
+
+### 30. [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md) ([GitHub](https://github.com/nirdiamant/agents-towards-production))
+- Stars: 0
+- Language: Unknown
+- Description: - **Comprehensive Tutorials**: Provides end-to-end, code-first guides for building production-grade GenAI agents, covering development from prototype to enterprise deployment.
 
 ### 31. [DeckardGer/tanstack-agent-skills](../ai/rag/deckardger-tanstack-agent-skills.md) ([GitHub](https://github.com/deckardger/tanstack-agent-skills))
 - Stars: 0
@@ -225,35 +225,35 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Template Structure**: Open-source TypeScript framework for deploying cloud-based AI agents with modular components for LLM integration, tool orchestration, and state management.
 
-### 40. [lgesuellip/langgraph-whatsapp-agent](../ai/rag/lgesuellip-langgraph-whatsapp-agent.md) ([GitHub](https://github.com/lgesuellip/langgraph-whatsapp-agent))
+### 40. [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md) ([GitHub](https://github.com/marktechpost-ai-media-inc/ai-agents-projects-tutorials))
+- Stars: 0
+- Language: Unknown
+- Description: - **Multi-agent systems**: Repository focuses on frameworks and tutorials for developing AI agents capable of collaboration, task delegation, and inter-agent communication.
+
+### 41. [lgesuellip/langgraph-whatsapp-agent](../ai/rag/lgesuellip-langgraph-whatsapp-agent.md) ([GitHub](https://github.com/lgesuellip/langgraph-whatsapp-agent))
 - Stars: 0
 - Language: Unknown
 - Description: - **WhatsApp Agent Framework**: Template for deploying AI agents on WhatsApp using LangGraph and Twilio, enabling bidirectional message/image processing and graph-based agent invocation.
 
-### 41. [raga-ai-hub/RagaAI-Catalyst](../ai/rag/raga-ai-hub-ragaai-catalyst.md) ([GitHub](https://github.com/raga-ai-hub/ragaai-catalyst))
+### 42. [raga-ai-hub/RagaAI-Catalyst](../ai/rag/raga-ai-hub-ragaai-catalyst.md) ([GitHub](https://github.com/raga-ai-hub/ragaai-catalyst))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: raga-ai-hub/RagaAI-Catalyst
 
-### 42. [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md) ([GitHub](https://github.com/nirdiamant/agents-towards-production))
+### 43. [TencentCloudADP/youtu-graphrag](../ai/rag/tencentcloudadp-youtu-graphrag.md) ([GitHub](https://github.com/tencentcloudadp/youtu-graphrag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Comprehensive Tutorials**: Provides end-to-end, code-first guides for building production-grade GenAI agents, covering development from prototype to enterprise deployment.
+- Description: - **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, validation) collaborate hierarchically for complex reasoning tasks, leverag...
 
-### 43. [enescingoz/awesome-n8n-templates](../ai/rag/enescingoz-awesome-n8n-templates.md) ([GitHub](https://github.com/enescingoz/awesome-n8n-templates))
+### 44. [enescingoz/awesome-n8n-templates](../ai/rag/enescingoz-awesome-n8n-templates.md) ([GitHub](https://github.com/enescingoz/awesome-n8n-templates))
 - Stars: 0
 - Language: Unknown
-- Description: - **Repository Overview**: GitHub repository hosting **280+ open-source n8n automation templates** for integrations with Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and...
+- Description: - **Repository**: `enescingoz/awesome-n8n-templates` – Largest open-source collection of **280+ pre-built n8n automation templates** covering **Gmail, Telegram, Slack, Discord, WhatsApp, Google Dri...
 
-### 44. [vercel-labs/coding-agent-template](../ai/rag/vercel-labs-coding-agent-template.md) ([GitHub](https://github.com/vercel-labs/coding-agent-template))
+### 45. [vercel-labs/coding-agent-template](../ai/rag/vercel-labs-coding-agent-template.md) ([GitHub](https://github.com/vercel-labs/coding-agent-template))
 - Stars: 0
 - Language: Unknown
-- Description: - **Multi-agent AI Architecture**: Template implements a distributed AI coding system using Vercel Sandbox for isolated agent execution and Vercel AI Gateway for unified API management.
-
-### 45. [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md) ([GitHub](https://github.com/marktechpost-ai-media-inc/ai-agents-projects-tutorials))
-- Stars: 0
-- Language: Unknown
-- Description: - **Multi-agent systems**: Repository focuses on frameworks and tutorials for developing AI agents capable of collaboration, task delegation, and inter-agent communication.
+- Description: - **Multi-agent AI coding platform** leveraging **Vercel Sandbox** for isolated execution environments and **AI Gateway** for managing AI model interactions.
 
 ### 46. [mem0ai/mem0](../ai/rag/mem0ai-mem0.md) ([GitHub](https://github.com/mem0ai/mem0))
 - Stars: 0
@@ -270,15 +270,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Framework**: LlamaIndex is a Python-based framework designed for building document agents and OCR systems, enabling integration with LLMs, vector databases, and multi-agent architectures.
 
-### 49. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
+### 49. [neuml/txtai](../ai/rag/neuml-txtai.md) ([GitHub](https://github.com/neuml/txtai))
 - Stars: 0
 - Language: Unknown
-- Description: - **End-to-End RAG Implementation**: Demonstrates building a Retrieval-Augmented Generation (RAG) system from scratch using local LLMs (via `node-llama-cpp`) without proprietary APIs, covering embe...
+- Description: - **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, supporting agents, RAG, and vector search.
 
-### 50. [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant.md) ([GitHub](https://github.com/sahithirmaryada/raredx-agentic-diagnostic-assistant))
+### 50. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
 - Stars: 0
 - Language: Unknown
-- Description: Evidence-grounded rare disease diagnostic assistant using LangGraph, Neo4j, ChromaDB, biomedical embeddings, PubMed citations, and benchmark-based evaluation.
+- Description: - **End-to-End RAG Implementation**: Demonstrates building a Retrieval-Augmented Generation (RAG) pipeline from scratch using local LLMs (via `node-llama-cpp`) in JavaScript, covering embeddings, v...
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -300,4 +300,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-02T15:19:16.499311+05:30.887214+05:30.329810+05:30.975145+05:30.422753+05:30.910957+05:30.040764+05:30.514840+05:30.784993+05:30.260412+05:30.833346+05:30.610827+05:30.941469+05:30.627469+05:30.333297+05:30.728272+05:30.841586+05:30.078084+05:30.148857+05:30.465342+05:30.733245+05:30.274903+05:30.487991+05:30.475991+05:30.573761+05:30.187211+05:30.848011+05:30.573145+05:30.785380+05:30.241256+05:30.353356+05:30.314816+05:30.619280+05:30.839856+05:30.357950+05:30.882683+05:30.519215+05:30.514576+05:30.171877+05:30.625278+05:30.539278+05:30.990541+05:30.244397+05:30.154175+05:30.813398+05:30.066292+05:30.051325+05:30.054959+05:30.547440+05:30.703175+05:30.798681+05:30.466126+05:30.589982+05:30.933382+05:30.283410+05:30.277409+05:30.638018+05:30.577059+05:30.107484+05:30.018009+05:30.164497+05:30.642075+05:30.664174+05:30.711551+05:30.029393+05:30.546069+05:30.868173+05:30.672332+05:30.017610+05:30.235319+05:30.032490+05:30.187241+05:30.681147+05:30.814935+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-02T20:15:59.463145+05:30.499311+05:30.887214+05:30.329810+05:30.975145+05:30.422753+05:30.910957+05:30.040764+05:30.514840+05:30.784993+05:30.260412+05:30.833346+05:30.610827+05:30.941469+05:30.627469+05:30.333297+05:30.728272+05:30.841586+05:30.078084+05:30.148857+05:30.465342+05:30.733245+05:30.274903+05:30.487991+05:30.475991+05:30.573761+05:30.187211+05:30.848011+05:30.573145+05:30.785380+05:30.241256+05:30.353356+05:30.314816+05:30.619280+05:30.839856+05:30.357950+05:30.882683+05:30.519215+05:30.514576+05:30.171877+05:30.625278+05:30.539278+05:30.990541+05:30.244397+05:30.154175+05:30.813398+05:30.066292+05:30.051325+05:30.054959+05:30.547440+05:30.703175+05:30.798681+05:30.466126+05:30.589982+05:30.933382+05:30.283410+05:30.277409+05:30.638018+05:30.577059+05:30.107484+05:30.018009+05:30.164497+05:30.642075+05:30.664174+05:30.711551+05:30.029393+05:30.546069+05:30.868173+05:30.672332+05:30.017610+05:30.235319+05:30.032490+05:30.187241+05:30.681147+05:30.814935+05:30.

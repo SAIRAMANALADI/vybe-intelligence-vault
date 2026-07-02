@@ -10,11 +10,11 @@ Boilerplates, landing landing conversions, billing integrations, database setups
 Supabase, Stripe, Next.js templates, Vercel, Resend.
 
 ## Recommended Resources from the Vault
+*   [Apple Platform Security - Apple Support](https://support.apple.com/guide/security/welcome/web)
 *   [Twilio Hub](https://developers.twilio.com/series/twilio-developers-hub/landing_page)
 *   [Ulusal Destek Programları | TÜBİTAK | Türkiye Bilimsel ve Teknolojik Araştırma Kurumu](https://www.tubitak.gov.tr/tr/destekler/sanayi/ulusal-destek-programlari)
 *   [Home - Center For Technology Licensing](https://ctl.cornell.edu)
 *   [Dr. Axel Rauschmayer](https://dr-axel.de)
-*   [windowsserverdocs/WindowsServerDocs/administration/OpenSSH/OpenSSH_Install_FirstUse.md at main · MicrosoftDocs/windowsse](https://github.com/MicrosoftDocs/windowsserverdocs/blob/main/WindowsServerDocs/administration/OpenSSH/OpenSSH_Install_FirstUse.md)
 
 ## Project Ideas
 *   Deploy a complete SaaS boilerplate with Stripe billing and user login in 2 hours.

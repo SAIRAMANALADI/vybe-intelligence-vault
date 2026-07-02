@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Cognitive Memory Framework**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) system inspired by human cognitive memory structures, enabling stateful long narrative reasoning with structured memory retrieval.
+- **Cognitive Architecture Integration**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive memory structures, enabling stateful long narrative reasoning via hierarchical memory modules (e.g., episodic, semantic, and procedural memory layers).
 
-- **Stateful Long-Context Processing**: Implements dynamic memory organization to maintain contextual coherence across extended dialogues or narratives, addressing limitations in traditional RAG systems for sequential reasoning tasks.
-
-- **AAAI 2026 Poster Submission
+- **Dynamic Memory Management**: Implements adaptive memory retrieval and update mechanisms using a **gated attention** system to prioritize relevant context snippets, reducing noise while preserving
 
 ## Use Cases
 

@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Purpose**: Curated collection of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf) in Python, created via GitHub Copilot in VS Code Insiders.
+- **Repository Purpose**: Curated collection of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf) implemented in Python.
 
 - **Metadata**: 241 stars, 58 forks, last updated 2026-06-30T20:55:42Z.
 
-- **Source & Authorship**: Developed by Yuval Avidani using GitHub Copilot via VS Code Insiders.
+- **Source & Creation**: Developed by Yuval Avidani using GitHub Copilot via VS Code Insiders.
 
 ## Use Cases
 

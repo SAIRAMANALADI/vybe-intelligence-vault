@@ -13,6 +13,7 @@ importance: medium
 tags:
 - c++
 - github-repo
+- hackernews
 - rag
 selection_reason:
 - Useful for project building
@@ -30,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform desktop app framework** leveraging Chromium, Node.js, and V8 to build native applications using JavaScript, HTML, and CSS.
-- **Core architecture** combines a modified Chromium browser engine with Node.js integration, enabling direct access to OS APIs via JavaScript.
-- **High-performance runtime** optimized for desktop applications, supporting native features like system dialogs, menus, and hardware acceleration.
+- **Cross-platform desktop app framework** leveraging Chromium (Blink), Node.js, and V8 JavaScript engine to build native apps using web technologies (HTML/CSS/JS).
+- **Core architecture** integrates a modified Chromium browser engine with Node.js runtime, enabling direct DOM access and native OS APIs via IPC (Inter-Process Communication).
+- **Build system** relies on GN/Ninja for compilation, supports platform-specific binaries (Windows/macOS/Linux), and integrates with Chromium’s sandboxing/se
 
 ## Use Cases
 

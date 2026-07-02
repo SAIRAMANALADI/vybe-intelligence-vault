@@ -16,7 +16,6 @@ tags:
 - hackernews
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Framework for evaluating LLMs, implementing guardrails, and ensuring LLM security within MLOps pipelines.
-- **Key Features**: Supports structured evaluation metrics, real-time safety checks, and security compliance for deployed LLMs.
-- **Technical Stack**: Python-based, integrates with LLMops workflows for scalable deployment and monitoring.
+- **Purpose**: Framework for evaluating, securing, and implementing guardrails in Large Language Models (LLMs) within LLM operations (LLMOps).
+- **Features**: Supports LLM evaluation metrics, real-time guardrails for safety/compliance, and security mechanisms to mitigate risks like prompt injection or data leakage.
+- **Technical Stack**: Python-based, integrates with LLM ecosystems for deployment and monitoring.
 
 ## Use Cases
 

@@ -14,13 +14,14 @@ tags:
 - agents
 - benchmark
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:senior-swe-bench-open-source-benchmark-that-assess
 first_seen: '2026-07-02T09:52:28.581223+05:30'
 last_seen: '2026-07-02T15:03:26.622513+05:30'
 last_checked: '2026-07-02T15:03:26.622513+05:30'
 health_score: 100
 ---
+
 
 # Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers
 

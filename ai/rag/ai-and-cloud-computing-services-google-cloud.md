@@ -3,9 +3,9 @@ title: AI and Cloud Computing Services | Google Cloud
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://cloud.google.com
-published_at: '2026-07-02T15:08:45.948001+05:30'
-collected_at: '2026-07-02T15:08:45.948015+05:30'
+source_url: http://cloud.google.com
+published_at: '2026-07-02T20:15:08.874700+05:30'
+collected_at: '2026-07-02T20:15:08.874714+05:30'
 tags:
 - agents
 - creative_dev
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:ai-and-cloud-computing-services-google-cloud
-first_seen: '2026-07-02T15:08:45.948015+05:30'
-last_seen: '2026-07-02T15:08:45.948015+05:30'
-last_checked: '2026-07-02T15:08:45.948015+05:30'
+first_seen: '2026-07-02T20:15:08.874714+05:30'
+last_seen: '2026-07-02T20:15:08.874714+05:30'
+last_checked: '2026-07-02T20:15:08.874714+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Gemini Enterprise Agent Platform**: Fully-managed AI development platform for building, orchestrating, and governing AI agents with access to Agent Studio and 200+ foundation models, enabling rapid deployment of multi-agent systems.
+- **Google AI Threat Defense**: Introduces AI-driven security measures to proactively detect and mitigate adversarial threats, leveraging real-time threat intelligence and adaptive defense mechanisms.
 
-- **Google AI Threat Defense**: Introduces agentic defense mechanisms leveraging AI to proactively detect, analyze, and mitigate advanced cyber threats, enhancing real-time threat intelligence and response capabilities.
+- **Gemini Enterprise Agent Platform**: A unified platform for developing, orchestrating, and governing AI agents, supporting multi-agent architectures and integration with 200+ foundation models via Agent Studio.
 
-- **AI Infrastructure Scaling**: Google Cloud's AI Hypercomputer architecture scales for the "agentic era," integrating custom TPUs, GPUs, and Arm-based Google Axion Processors to support high-performance, low-latency AI workloads.
+- **AI Infrastructure Scaling**: Google Cloud’s AI Hypercomputer enables scalable agentic-era workloads, utilizing custom TPUs, GPUs, and Arm-based Google Axion Processors for high-performance AI compute.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T15:08:45.948001+05:30
+- Published: 2026-07-02T20:15:08.874700+05:30
 
 ## Related Tags
 
@@ -64,4 +64,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://cloud.google.com
+Original source: http://cloud.google.com

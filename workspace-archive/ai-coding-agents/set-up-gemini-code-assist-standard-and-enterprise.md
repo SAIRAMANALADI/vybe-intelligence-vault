@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Deprecation & Migration**: Gemini Code Assist IDE extensions and CLI for individual tiers (Standard/Enterprise) are deprecated as of June 18, 2026, with users required to migrate to **Antigravity** and **Antigravity CLI** per [deprecation page](https://developers.google.com/gemini-code-assist/docs/deprecations/code-assist-individuals).
-
-- **Subscription & License Management**: Admin must purchase a subscription (Standard/Enterprise) via **Admin for Gemini** console, assign licenses (auto/man
+- **Gemini Code Assist Standard/Enterprise Setup**: Requires subscription purchase, license assignment (auto/manual), API enablement (`cloudaicompanion.googleapis.com`), and IAM role grants (`Gemini for Google Cloud User`, `Service Usage Consumer`) in a Google Cloud project.
+- **Firewall/API Access**: Users must allow outbound traffic to Google APIs (`oauth2.googleapis.com`, `serviceusage.googleapis.com`, etc.) and configure VPC Service Controls if applicable.
+- **Deprecation Notice**: Gemini Co
 
 ## Use Cases
 

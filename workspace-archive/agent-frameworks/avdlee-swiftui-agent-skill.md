@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides expert SwiftUI best practices guidance for AI coding tools via the Agent Skills open format.
-- **Technical Stack**: Implemented in Python, designed to integrate with AI agents supporting the Agent Skills format.
-- **Metadata**: 3,153 stars, 146 forks, last updated July 1, 2026.
+- **SwiftUI Best Practices Integration**: Repository provides an AI coding tool (Agent Skills open format) with expert SwiftUI best practices guidance for AI agents.
+- **Technical Metadata**: 3,159 stars, 147 forks, Python-based implementation, last updated July 2, 2026.
+- **Purpose**: Enhances AI coding assistants with structured SwiftUI expertise via an open-format skill module.
 
 ## Use Cases
 

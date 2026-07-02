@@ -26,7 +26,7 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
+- [junwoojeong100/azure-intelligent-app-labs](https://github.com/junwoojeong100/azure-intelligent-app-labs)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-07-02 15:20 IST*
+*Last updated: 2026-07-02 20:17 IST*

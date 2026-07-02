@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow` (GitHub Classroom-created)
-- **Metadata**: 1 star, 68 forks, Python-based, last updated 2025-09-16T07:09:35Z
-- **Access**: Public repository with no additional topics listed
+- **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow` (1 star, 68 forks) for a GitHub Classroom assignment.
+- **Language**: Python-based workflow implementation.
+- **Last Updated**: 2025-09-16T07:09:35Z.
 
 ## Use Cases
 

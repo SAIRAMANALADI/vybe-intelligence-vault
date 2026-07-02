@@ -9,13 +9,14 @@ collected_at: '2026-07-02T15:03:26.158698+05:30'
 tags:
 - github-trending
 - typescript
-status: active
+status: inactive
 resource_id: github:refactoringhq/tolaria
 first_seen: '2026-06-29T16:55:00.773989+05:30'
 last_seen: '2026-07-02T15:03:26.158698+05:30'
 last_checked: '2026-07-02T15:03:26.158698+05:30'
 health_score: 100
 ---
+
 
 # refactoringhq/tolaria
 

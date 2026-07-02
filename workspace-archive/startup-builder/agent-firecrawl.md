@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous Web Navigation & Data Extraction**: Firecrawl `/agent` performs deep web searches and autonomous navigation without requiring predefined URLs, dynamically exploring sites to gather structured data based on natural language prompts (`prompt` parameter) or optional URL lists (`urls`). Supports structured output via JSON schemas (Pydantic/Zod) for type-safe extraction.
+- **Autonomous Web Navigation**: Firecrawl `/agent` autonomously searches, navigates, and gathers data from websites without requiring predefined URLs, using only a natural language `prompt` parameter for task specification.
 
-- **Asynchronous Job Processing with Dual Model Options**: Agent jobs run asynchronously, returning a `Job ID` for
+- **Model Options & Cost Efficiency**: Supports two models—`spark-1-mini` (60% cheaper, default) for standard tasks and `spark-1-pro` for high-accuracy complex research—with dynamic credit-based pricing scaling with extraction complexity.
+
+- **Asynchronous Job Handling**: A
 
 ## Use Cases
 

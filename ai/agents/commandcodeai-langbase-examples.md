@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/CommandCodeAI/langbase-examples
-collected_at: '2026-07-02T09:56:19.987515+05:30'
+collected_at: '2026-07-02T20:03:26.004602+05:30'
 published_at: '2026-06-30T16:45:49Z'
 tags:
 - agents
 - github-repo
 - typescript
-- workflows
 stars: 92
 language: TypeScript
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-02-28T18:31:33Z'
 pushed_at: '2026-05-15T21:04:04Z'
 resource_id: github:commandcodeai/langbase-examples
-first_seen: '2026-07-02T09:56:19.987515+05:30'
-last_seen: '2026-07-02T09:56:19.987515+05:30'
-last_checked: '2026-07-02T09:56:19.987515+05:30'
+first_seen: '2026-07-02T20:03:26.004602+05:30'
+last_seen: '2026-07-02T20:03:26.004602+05:30'
+last_checked: '2026-07-02T20:03:26.004602+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Serverless AI Agents**: Open-source examples demonstrating serverless AI agent architectures using Langbase, enabling scalable, event-driven AI workflows without infrastructure management.
-
-- **Composable AI Pipelines**: Modular TypeScript-based implementations of AI pipes, memory systems, and composable AI components for building customizable, reusable AI workflows.
-
-- **Memory & State Management**: Examples showcasing persistent AI memory, state handling, and context-aware interactions in serverless environments, optimized for low-latency inference.
+- **Serverless AI Agents & Pipes**: Open-source framework for building composable, serverless AI agents with built-in pipes for data flow and processing.
+- **Memory Management**: Implements structured memory systems for AI agents, enabling stateful interactions and context retention.
+- **TypeScript-Based Examples**: Provides TypeScript examples demonstrating composable AI architectures, memory handling, and agent orchestration.
 
 ## Why It Matters
 

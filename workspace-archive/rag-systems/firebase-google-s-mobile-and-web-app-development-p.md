@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform SDKs**: Firebase provides unified SDKs for iOS, Android, Web, Flutter, Unity, and C++, enabling seamless app development and deployment across multiple platforms.
+- **Cross-platform SDKs**: Firebase provides unified SDKs for iOS, Android, Web, Flutter, Unity, and C++, enabling seamless app development across multiple platforms with shared backend infrastructure.
 
-- **AI-powered services**: Integrates generative AI (e.g., Gemini) and AI Logic for building intelligent apps, alongside managed infrastructure (App Hosting, Cloud Functions) for scalable, secure deployments.
+- **AI/ML Integration**: Firebase AI Logic and Firebase ML enable integration of generative AI (e.g., Google’s Gemini) and machine learning models into apps, while Agent Skills facilitates AI agent workflows.
 
-- **Modular ecosystem**: Offers 50+ products (Firestore, Authentication, Crashlytics, etc.) and pre-package
+- **Managed Backend Services**: Offers scalable backend solutions including Firestore (
 
 ## Use Cases
 

@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by breadislove. Score: 22, Comments: 2.
+Hacker News story by breadislove. Score: 70, Comments: 19.
 Original Link: https://www.mixedbread.com/blog/asymmetric-quant
 
 ## Use Cases

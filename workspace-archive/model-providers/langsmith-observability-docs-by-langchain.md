@@ -6,7 +6,7 @@ source_url: https://docs.langchain.com/langsmith/home
 resource_id: blog:langsmith-observability-docs-by-langchain
 local_vault_path: ai/rag/langsmith-observability-docs-by-langchain.md
 quality_score: 70
-archive_score: 74
+archive_score: 76
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -29,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-framework observability**: LangSmith provides end-to-end visibility into LLM applications, supporting integrations with OpenAI, Anthropic, CrewAI, Vercel AI SDK, Pydantic AI, and others via [available integrations](https://docs.langchain.com/langsmith/integrations).
+- **Multi-framework observability**: LangSmith provides end-to-end visibility into LLM applications across frameworks (OpenAI, Anthropic, CrewAI, Vercel AI SDK, Pydantic AI) via standardized tracing and integration hooks.
 
-- **Trace instrumentation & monitoring**: Enables tracing via environment variables, SDKs, or framework integrations, with capabilities for filtering, exporting, and comparing traces; supports RAG application instrumentati
+- **Trace lifecycle management**: Supports trace creation, filtering, export, comparison, and automated failure detection (via LangSmith Engine) with configurable retention, pricing tiers, and alerting mechanisms.
+
+- **Deployment flexibility**: Offers cloud, hybrid, or self-ho
 
 ## Use Cases
 

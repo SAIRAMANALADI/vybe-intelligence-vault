@@ -3,18 +3,18 @@ title: 'AIP-9: Glossary'
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://google.aip.dev/9
-published_at: '2026-06-29T21:54:09.302113+05:30'
-collected_at: '2026-06-29T21:54:09.302127+05:30'
+source_url: https://cloud.google.com/apis/design/glossary#api_service_endpoint
+published_at: '2026-07-02T20:12:57.540921+05:30'
+collected_at: '2026-07-02T20:12:57.540939+05:30'
 tags:
 - hackernews
 - reddit
 - web-crawled
 status: active
 resource_id: blog:aip-9-glossary
-first_seen: '2026-06-29T21:54:09.302127+05:30'
-last_seen: '2026-06-29T21:54:09.302127+05:30'
-last_checked: '2026-06-29T21:54:09.302127+05:30'
+first_seen: '2026-07-02T20:12:57.540939+05:30'
+last_seen: '2026-07-02T20:12:57.540939+05:30'
+last_checked: '2026-07-02T20:12:57.540939+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Terminology Standardization**: AIP-9 defines standardized terminology (e.g., *API*, *API backend*, *API consumer*, *API producer*) to ensure consistency across Google API Improvement Proposals (AIPs).
-
-- **API Components**: Key components are explicitly defined, including *API service* (deployed implementation), *API service endpoint* (network address), *API service name* (DNS-compatible identifier), and *API method* (individual operation, typically an RPC).
-
-- **Client & User Distinction**: Differentiates between *client* (programmatic entities like SDKs or CLIs) and *user* (human interacting via tools like cURL), with additional clarification on *Declarative Clients* (Infrastructure-as-Code tools like Terraform).
+- **API Service Architecture**: Defines `API frontend` (load balancing/authentication proxy) and `API backend` (business logic servers), which may run co-located or distributed; both can be compiled into a single binary.
+- **API Terminology Standardization**: Establishes consistent definitions for core concepts such as `API method` (Protocol Buffers `rpc`), `API service` (deployed implementation), and `API product` (bundle of service, docs, and support).
+- **Client Classification**: Differentiates `Declarative Clients` (IaC tools like Terraform) from imperative clients, emphasizing their state reconciliation mechanism for resource management.
 
 ## Why It Matters
 
@@ -36,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-29T21:54:09.302113+05:30
+- Published: 2026-07-02T20:12:57.540921+05:30
 
 ## Related Tags
 
@@ -46,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://google.aip.dev/9
+Original source: https://cloud.google.com/apis/design/glossary#api_service_endpoint

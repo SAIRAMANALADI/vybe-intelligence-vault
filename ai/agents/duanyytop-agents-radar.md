@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/duanyytop/agents-radar
-collected_at: '2026-07-02T09:55:39.874378+05:30'
-published_at: '2026-07-02T04:18:29Z'
+collected_at: '2026-07-02T20:02:45.933042+05:30'
+published_at: '2026-07-02T07:04:22Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - producthunt
 - scripts
 - typescript
-stars: 870
+stars: 871
 language: TypeScript
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-23T03:22:26Z'
 pushed_at: '2026-07-02T00:34:30Z'
 resource_id: github:duanyytop/agents-radar
-first_seen: '2026-07-02T09:55:39.874378+05:30'
-last_seen: '2026-07-02T09:55:39.874378+05:30'
-last_checked: '2026-07-02T09:55:39.874378+05:30'
+first_seen: '2026-07-02T20:02:45.933042+05:30'
+last_seen: '2026-07-02T20:02:45.933042+05:30'
+last_checked: '2026-07-02T20:02:45.933042+05:30'
 health_score: 100
 ---
 
@@ -32,8 +32,8 @@ health_score: 100
 ## Summary
 
 - **Automated AI Ecosystem Aggregator**: Daily digest compiling AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
-- **Bilingual Reporting**: Generates reports in both Chinese and English, synchronized with the latest AI ecosystem developments.
-- **Technical Stack**: Built in TypeScript, last updated on 2026-07-02, with 870 stars and 140 forks on GitHub.
+- **Bilingual Reporting**: Generates reports in both Chinese and English, automated through CI/CD pipelines.
+- **Technical Stack**: Built in TypeScript, last updated July 2, 2026, with 871 stars and 140 forks.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: duanyytop
-- Stars: 870
+- Stars: 871
 - Forks: 140
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-07-02T04:18:29Z
+- Last Updated: 2026-07-02T07:04:22Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-23T03:22:26Z

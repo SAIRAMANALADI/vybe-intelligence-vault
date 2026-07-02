@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **MLE-bench**: A benchmark suite designed to evaluate AI agents' proficiency in machine learning engineering tasks, including model training, debugging, and deployment workflows.
+- **Benchmark Purpose**: MLE-bench evaluates AI agents' proficiency in machine learning engineering tasks, including model training, debugging, and optimization.
 
-- **Technical Scope**: Implemented in Python, the benchmark assesses end-to-end ML engineering capabilities, such as hyperparameter optimization, error handling, and integration with ML frameworks (e.g., PyTorch, TensorFlow).
+- **Technical Specifications**: Implemented in Python, it provides a standardized framework for assessing end-to-end ML workflows, with tasks ranging from data preprocessing to deployment.
 
-- **Evaluation Metrics**: Measures performance via standardized tasks with automated scorin
+- **Repository Metrics**: 1,602 stars, 256 forks, last updated July 1, 2026. Focuses on practical ML engineering challenges rather than theoretical
 
 ## Use Cases
 

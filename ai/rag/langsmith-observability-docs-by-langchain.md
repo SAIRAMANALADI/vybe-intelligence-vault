@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/langsmith/home
-published_at: '2026-07-02T15:08:22.997097+05:30'
-collected_at: '2026-07-02T15:08:22.997109+05:30'
+published_at: '2026-07-02T20:08:16.230687+05:30'
+collected_at: '2026-07-02T20:08:16.230701+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langsmith-observability-docs-by-langchain
-first_seen: '2026-07-02T15:08:22.997109+05:30'
-last_seen: '2026-07-02T15:08:22.997109+05:30'
-last_checked: '2026-07-02T15:08:22.997109+05:30'
+first_seen: '2026-07-02T20:08:16.230701+05:30'
+last_seen: '2026-07-02T20:08:16.230701+05:30'
+last_checked: '2026-07-02T20:08:16.230701+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-framework observability**: LangSmith provides end-to-end visibility into LLM applications, supporting integrations with OpenAI, Anthropic, CrewAI, Vercel AI SDK, Pydantic AI, and others via [available integrations](https://docs.langchain.com/langsmith/integrations).
+- **Multi-framework observability**: LangSmith provides end-to-end visibility into LLM applications across frameworks (OpenAI, Anthropic, CrewAI, Vercel AI SDK, Pydantic AI) via standardized tracing and integration hooks.
 
-- **Trace instrumentation & monitoring**: Enables tracing via environment variables, SDKs, or framework integrations, with capabilities for filtering, exporting, and comparing traces; supports RAG application instrumentation and performance monitoring via dashboards and alerts.
+- **Trace lifecycle management**: Supports trace creation, filtering, export, comparison, and automated failure detection (via LangSmith Engine) with configurable retention, pricing tiers, and alerting mechanisms.
 
-- **Automated failure detection & deployment**: LangSmith Engine automates issue detection and root cause analysis in traces; supports cloud, hybrid, or self-hosted deployment with observability, evaluation, prompt engineering, and deployment features.
+- **Deployment flexibility**: Offers cloud, hybrid, or self-hosted setup options with core features (observability, evaluation, prompt engineering, deployment) and MCP integration for IDE/editor connectivity.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T15:08:22.997097+05:30
+- Published: 2026-07-02T20:08:16.230687+05:30
 
 ## Related Tags
 

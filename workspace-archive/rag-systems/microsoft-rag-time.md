@@ -6,7 +6,7 @@ source_url: https://github.com/microsoft/rag-time
 resource_id: github:microsoft/rag-time
 local_vault_path: ai/rag/microsoft-rag-time.md
 quality_score: 70
-archive_score: 81
+archive_score: 83
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 83 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Learning Path**: 5-week structured curriculum covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and Matryoshka representation learning for efficient LLM integration.
+- **Comprehensive RAG Mastery Program**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals to advanced techniques, including hybrid search (HNSW + keyword search), vector/scalar quantization, and multimodal RAG pipelines.
 
-- **Technical Stack**: Focuses on Azure-hosted Jupyter Notebooks, OpenAI/GPT models, HNSW for vector search, and VS Code integration, with modules on responsible AI and multimodal RAG.
+- **Azure & OpenAI Integration**: Hands-on labs using Azure services (e.g., OpenAI embeddings, vector stores) and tools like Visual Studio Code for deploying scalable RAG systems with responsible AI guardrails.
 
-- **Optimization Focus**: Emphasizes indexing strategies (scalar/binary quan
+- **Advanced Techniques*
 
 ## Use Cases
 

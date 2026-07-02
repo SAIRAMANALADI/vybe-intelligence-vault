@@ -2,13 +2,13 @@
 title: Colab | Google for Developers
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://colab.google
+source_url: https://colab.google/
 resource_id: blog:colab-google-for-developers
 local_vault_path: ai/rag/colab-google-for-developers.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -27,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Zero-setup cloud notebooks**: Hosted Jupyter environment with pre-configured runtimes, free GPU/TPU access, and seamless Google Drive integration for collaborative workflows.
+- **Zero-Setup Cloud Notebooks**: Hosted Jupyter Notebook service with pre-configured runtimes (GPUs/TPUs) requiring no local setup, enabling instant execution of ML projects.
 
-- **AI-powered coding assistant**: Natural language-to-code generation, real-time debugging, autonomous data analysis via Gemini, and effortless code optimization/refactoring.
+- **AI-Driven Code Assistance**: Integrates Gemini AI for real-time code generation, debugging, autonomous data analysis, and effortless transformation of existing code via natural language prompts.
 
-- **Enterprise-grade scalability**: Vertex AI-integrated security (IAM), regional storage via Dataform, 24-hour background execution, and Pro/P
+- **Enterprise-Grade Features**: Supports IAM-secured collaborative workspaces, regional storage via Dataform, and scalable
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://colab.google
+Original source URL: https://colab.google/
 
 ## Local Vault File
 

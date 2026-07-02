@@ -5,17 +5,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.android.com/studio/debug/app-quality-insights
-published_at: '2026-06-29T21:55:13.763252+05:30'
-collected_at: '2026-06-29T21:55:13.763266+05:30'
+published_at: '2026-07-02T20:13:00.796569+05:30'
+collected_at: '2026-07-02T20:13:00.796585+05:30'
 tags:
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:analyze-issues-from-firebase-crashlytics-and-andro
-first_seen: '2026-06-29T21:55:13.763266+05:30'
-last_seen: '2026-06-29T21:55:13.763266+05:30'
-last_checked: '2026-06-29T21:55:13.763266+05:30'
+first_seen: '2026-07-02T20:13:00.796585+05:30'
+last_seen: '2026-07-02T20:13:00.796585+05:30'
+last_checked: '2026-07-02T20:13:00.796585+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Integration & Compatibility**: App Quality Insights (AQI) in Android Studio integrates Firebase Crashlytics and Android Vitals data, requiring **Android Studio Narwhal 4 Feature Drop** or newer (10-month support window). AQI supports crash analysis, stack traces, and issue filtering directly in the IDE, with offline mode for cached data.
+- **App Quality Insights (AQI) Integration**: Android Studio's AQI tool window consolidates Firebase Crashlytics and Google Play's Android Vitals data, enabling in-IDE crash analysis with features like code highlighting, stack trace navigation, severity filtering, and issue notes—requires Android Studio **Narwhal 4 Feature Drop** or newer.
 
-- **Key Features**: AQI highlights crash-related code lines, provides stack traces with code navigation, and offers statistics grouped by device/OS. Supports annotations for crash frequency, issue notes, and filtering by severity, version, and device attributes.
+- **Crashlytics Data Analysis**: AQI provides variant-based crash grouping, device/version breakdowns, custom key-value logging, and direct code-to-stack-trace navigation; supports offline mode with cached data and reconnection to sync updates.
 
-- **Setup & Limitations**: Requires Firebase/Crashlytics SDK integration via **Tools > Firebase > Crashlytics** in Android Studio. Discrepancies between Crashlytics and Android Vitals counts occur due to differing crash capture timings and user opt-outs. Permissions must be configured per [service permissions](https://developer.android.com/studio/services#service-permissions).
+- **Android Vitals Access**: AQI surfaces Google Play’s stability metrics (e.g., ANRs, crashes) with filtering by device/OS, allowing prioritization of fixes; discrepancies between Crashlytics and Vitals counts stem from differing crash capture timings and user opt-outs.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-29T21:55:13.763252+05:30
+- Published: 2026-07-02T20:13:00.796569+05:30
 
 ## Related Tags
 

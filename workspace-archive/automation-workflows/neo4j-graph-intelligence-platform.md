@@ -8,13 +8,11 @@ local_vault_path: ai/rag/neo4j-graph-intelligence-platform.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: tutorial
 importance: medium
 tags:
-- agents
-- benchmark
+- hackernews
 - rag
-- reddit
 - web-crawled
 - workflows
 selection_reason:
@@ -28,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **GraphRAG Architecture**: Explores integration of Neo4j Aura Agents with GraphRAG for enhanced retrieval-augmented generation (RAG) using graph-based knowledge structures.
-- **Agentic Workflows**: Details multi-agent orchestration in Neo4j Aura for dynamic query routing, subgraph traversal, and adaptive reasoning in knowledge graphs.
-- **Performance Optimization**: Discusses scalability, latency reduction, and cost-efficiency benchmarks for production-grade agentic graph systems.
+- **Event**: GraphTalk Manufacturing – Germany, a Neo4j-hosted conference in Europe on July 2, 2026, focusing on leveraging connected data in manufacturing.
+- **Objective**: Explore how graph technologies enable real-time data integration, analytics, and decision-making in industrial workflows.
+- **Target Audience**: Manufacturing professionals, data engineers, and IT leaders seeking to optimize operations through graph-based data solutions.
 
 ## Use Cases
 

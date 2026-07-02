@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Comprehensive tutorial (`《从零开始构建智能体》`) for building intelligent agents from scratch, covering both theory and practical implementation.
-- **Technical Scope**: Focuses on agent architectures, large language models (LLMs), retrieval-augmented generation (RAG), and Python-based implementations.
-- **Repository Stats**: 63,436 stars, 7,854 forks, last updated July 2, 2026.
+- **Purpose**: Comprehensive tutorial on building intelligent agents from scratch, covering both theoretical foundations and practical implementations.
+- **Technical Scope**: Focuses on Python-based agent development, integrating LLM (Large Language Models), RAG (Retrieval-Augmented Generation), and agent architectures.
+- **Resources**: Open-source repository with 63.5K+ stars and 7.8K+ forks, last updated July 2026, serving as an educational guide for agent systems.
 
 ## Use Cases
 

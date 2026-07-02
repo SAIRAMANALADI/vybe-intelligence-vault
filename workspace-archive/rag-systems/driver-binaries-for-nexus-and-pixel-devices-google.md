@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- Provides **vendor binary images** for Nexus/Pixel devices (Android 10–15) from Google, covering hardware components (e.g., Qualcomm, Broadcom, Samsung) with SHA-256 checksums for integrity verification.
+- Provides **vendor binary images** for Nexus/Pixel devices (Android 10–15), including Pixel 9a, Pixel 9 Pro Fold ("comet"), and Pixel 9 Pro ("caiman"), with SHA-256 checksums for integrity verification.
 
-- Binaries are **licensed for personal use only**, prohibiting redistribution or unauthorized modification per Google’s terms.
+- Binaries are **Google-hosted**, licensed for personal use only, and include hardware support from vendors like Qualcomm, Broadcom, and Samsung for older models.
 
-- Includes **device-specific builds** (e.g., Pixel 9a/9 Pro/9 Pro Fold) with versioned firmware (e.g., `BD4A.250505.003`, `AP4A.241205.013`) hosted on Google’s CDN wi
+- Downloads are versioned by Android build (e.g., `BD4A.240925.111`, `AP4A.241205.013`) and device codename, with direct `.tgz` lin
 
 ## Use Cases
 

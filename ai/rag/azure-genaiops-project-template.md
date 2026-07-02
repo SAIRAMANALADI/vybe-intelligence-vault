@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-07-02T15:04:43.631716+05:30'
+collected_at: '2026-07-02T20:01:15.933552+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
+- openai
 - rag
 - workflows
 stars: 44
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-07-02T15:04:43.631716+05:30'
-last_seen: '2026-07-02T15:04:43.631716+05:30'
-last_checked: '2026-07-02T15:04:43.631716+05:30'
+first_seen: '2026-07-02T20:01:15.933552+05:30'
+last_seen: '2026-07-02T20:01:15.933552+05:30'
+last_checked: '2026-07-02T20:01:15.933552+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for a Generative AI Ops (GenAIOps) solution, enabling automated provisioning of Azure resources for Retrieval-Augmented Generation (RAG) workflows.
+- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for a Generative AI Operations (GenAIOps) solution, enabling automated provisioning of Azure resources for RAG (Retrieval-Augmented Generation) pipelines.
 
-- **RAG Pipeline Foundation**: Includes pre-configured components for vector databases, compute, and orchestration to support RAG workflows, ensuring scalability and integration with Azure AI services.
+- **RAG Pipeline Integration**: Pre-configured to deploy Azure services (e.g., Azure AI Search, Azure OpenAI, Cosmos DB) for end-to-end RAG workflows, including data ingestion, vector storage, and LLM inference.
 
-- **Ops-Ready Design**: Incorporates monitoring, logging, and CI/CD best practices for GenAI applications, facilitating MLOps/GitOps workflows for continuous deployment and governance.
+- **Ops-Ready Features**: Includes monitoring, logging, and CI/CD-agnostic IaC patterns for scalable GenAI deployments, with last update timestamp indicating active maintenance.
 
 ## Why It Matters
 
@@ -43,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: Azure
 - Stars: 44
-- Forks: 55
+- Forks: 56
 - Language: Bicep
 - Topics: None
 - Last Updated: 2026-05-21T00:52:07Z

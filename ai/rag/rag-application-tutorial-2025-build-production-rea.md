@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-07-02T01:46:54.688989+05:30'
-collected_at: '2026-07-02T01:46:54.689005+05:30'
+published_at: '2026-07-02T20:01:00.381586+05:30'
+collected_at: '2026-07-02T20:01:00.381597+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-07-02T01:46:54.689005+05:30'
-last_seen: '2026-07-02T01:46:54.689005+05:30'
-last_checked: '2026-07-02T01:46:54.689005+05:30'
+first_seen: '2026-07-02T20:01:00.381597+05:30'
+last_seen: '2026-07-02T20:01:00.381597+05:30'
+last_checked: '2026-07-02T20:01:00.381597+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Components**: Core architecture includes document chunking, embedding generation (optimized via LangChain), and vector storage (e.g., Supabase) for retrieval, followed by LLM-based generation with latency benchmarks for optimization.
+- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings via vector DB like Supabase) and generation (LLMs) with chunking strategies (e.g., semantic splitting) and embedding optimization (e.g., fine-tuned models) for contextual augmentation.
 
-- **Production Strategies**: Implements hybrid search (dense + sparse retrieval), query expansion, caching, load balancing across models, and deployment via Cloudflare Workers for scalability and cost-efficiency.
+- **Production Optimizations**: Implements hybrid search (dense + sparse retrieval), query rewriting, caching layers, load balancing (multi-model inference), and deployment via Cloudflare Workers for low-latency scaling.
 
-- **Monitoring & Troubleshooting**: Integrates Sentry for observability, tracks token usage vs. performance trade-offs, and addresses common issues like poor retrieval quality, high latency, and hallucinations through structured testing and advanced patterns (e.g., multi-modal RAG).
+- **Monitoring & Cost Control**: Integrates Sentry for observability, tracks token usage/latency benchmarks, and enforces cost-performance trade-offs via streaming responses and selective retrieval (e.g., top-k filtering).
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T01:46:54.688989+05:30
+- Published: 2026-07-02T20:01:00.381586+05:30
 
 ## Related Tags
 

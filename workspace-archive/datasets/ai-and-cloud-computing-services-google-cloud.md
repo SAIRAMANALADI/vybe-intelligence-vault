@@ -2,7 +2,7 @@
 title: AI and Cloud Computing Services | Google Cloud
 archive_category: datasets
 source_category: ai/rag
-source_url: https://cloud.google.com
+source_url: http://cloud.google.com
 resource_id: blog:ai-and-cloud-computing-services-google-cloud
 local_vault_path: ai/rag/ai-and-cloud-computing-services-google-cloud.md
 quality_score: 70
@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Gemini Enterprise Agent Platform**: Fully-managed AI development platform for building, orchestrating, and governing AI agents with access to Agent Studio and 200+ foundation models, enabling rapid deployment of multi-agent systems.
+- **Google AI Threat Defense**: Introduces AI-driven security measures to proactively detect and mitigate adversarial threats, leveraging real-time threat intelligence and adaptive defense mechanisms.
 
-- **Google AI Threat Defense**: Introduces agentic defense mechanisms leveraging AI to proactively detect, analyze, and mitigate advanced cyber threats, enhancing real-time threat intelligence and response capabilities.
+- **Gemini Enterprise Agent Platform**: A unified platform for developing, orchestrating, and governing AI agents, supporting multi-agent architectures and integration with 200+ foundation models via Agent Studio.
 
-- **AI Infrastructure Scaling**: Google C
+- **AI Infrastructure Scaling**: Google Cloud’s AI Hypercomputer enables scalable a
 
 ## Use Cases
 
@@ -53,7 +53,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://cloud.google.com
+Original source URL: http://cloud.google.com
 
 ## Local Vault File
 

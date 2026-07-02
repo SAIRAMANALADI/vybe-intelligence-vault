@@ -8,7 +8,7 @@ local_vault_path: ai/rag/the-medium-blog.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 selection_reason:
 - Strong keyword match
@@ -21,18 +21,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Medium’s sitemap.xml** provides structured XML-based indexing of all public-facing URLs, enabling efficient crawling and discovery of blog posts, product pages, and static resources.
+- **Sitemap.xml**: Provides a structured XML index of all accessible URLs on Medium, enabling efficient web crawler indexing and SEO optimization.
 
-- **Authentication endpoints** (`/m/signin`) handle OAuth2-based login/registration flows with redirect URIs, supporting session management for authenticated users.
+- **Multi-factor authentication endpoints**: `/m/signin` handles both login (`operation=login`) and registration (`operation=register`) with OAuth2 redirects, supporting session persistence via `redirect` parameter.
 
-- **API-driven navigation** (`/search`, `/blog/all`) leverages query parameters (e.g., `?topic=product`) to dynamically filter content, while stat
+- **Content categorization API**: `/blog/all?topic=product` and `/blog/all?source=---publication_nav-...` endpoints filter blog posts b
 
 ## Use Cases
 

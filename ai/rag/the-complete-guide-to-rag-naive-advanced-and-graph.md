@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-07-02T15:04:26.087120+05:30'
-collected_at: '2026-07-02T15:04:26.087134+05:30'
+published_at: '2026-07-02T20:00:59.727390+05:30'
+collected_at: '2026-07-02T20:00:59.727406+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-07-02T15:04:26.087134+05:30'
-last_seen: '2026-07-02T15:04:26.087134+05:30'
-last_checked: '2026-07-02T15:04:26.087134+05:30'
+first_seen: '2026-07-02T20:00:59.727406+05:30'
+last_seen: '2026-07-02T20:00:59.727406+05:30'
+last_checked: '2026-07-02T20:00:59.727406+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG (Retrieval-Augmented Generation)** integrates retrieval, augmentation, and generation to enhance LLM responses by dynamically pulling relevant external knowledge, addressing limitations in freshness, private knowledge, and hallucination while enabling cost efficiency and auditability.
+- **RAG (Retrieval-Augmented Generation)** integrates external retrieval with LLM generation to address limitations in freshness, private knowledge, and hallucinations by dynamically fetching relevant documents during inference.
 
-- **Evolution of RAG** spans four generations: *Naive RAG* (basic vector search), *Advanced RAG* (hybrid retrieval, reranking, query transformation), *Modular RAG* (routing, looping, tool integration), and *Graph RAG* (entity-relation graph traversal for multi-hop reasoning), each addressing specific scalability and accuracy challenges.
+- **Evolution of RAG** spans four generations: *Naive RAG* (basic retrieval), *Advanced RAG* (hybrid retrieval, reranking, query transformation), *Modular RAG* (agentic routing, tool integration), and *Graph RAG* (entity-relation graph traversal for multi-hop reasoning).
 
-- **Key RAG Components** include embeddings (e.g., `BAAI/bge-m3`), retrieval algorithms (BM25, ANN), frameworks (LangChain, LlamaIndex), and vector/graph databases (Chroma, Weaviate), with techniques like HyDE and RRF optimizing multi-retriever fusion and query relevance.
+- **Core RAG pipeline** consists of document chunking, embedding storage, similarity-based retrieval, and LLM augmentation, with performance enhanced via techniques like HyDE, RRF fusion, and MMR diversity optimization.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T15:04:26.087120+05:30
+- Published: 2026-07-02T20:00:59.727390+05:30
 
 ## Related Tags
 

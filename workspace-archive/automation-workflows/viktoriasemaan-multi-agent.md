@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Contains Jupyter Notebook examples demonstrating AI multi-agent systems, with 209 stars and 124 forks.
-- **Technical Stack**: Implemented in Python-based Jupyter Notebooks, focusing on multi-agent architectures and workflows.
-- **Last Update**: Codebase last modified on **2026-06-23**, indicating active but infrequent maintenance.
+- **Repository Content**: Jupyter Notebook-based examples demonstrating AI multi-agent systems, including architectures, interactions, and workflows.
+- **Technical Scope**: Covers collaborative agent behaviors, task delegation, and potential synchronization mechanisms in distributed AI environments.
+- **Update Status**: Last commit on 2026-06-23, indicating active but infrequent maintenance.
 
 ## Use Cases
 

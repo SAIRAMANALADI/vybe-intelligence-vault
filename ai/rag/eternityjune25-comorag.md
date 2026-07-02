@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-02T15:05:58.670725+05:30'
+collected_at: '2026-07-02T20:02:35.928293+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-02T15:05:58.670725+05:30'
-last_seen: '2026-07-02T15:05:58.670725+05:30'
-last_checked: '2026-07-02T15:05:58.670725+05:30'
+first_seen: '2026-07-02T20:02:35.928293+05:30'
+last_seen: '2026-07-02T20:02:35.928293+05:30'
+last_checked: '2026-07-02T20:02:35.928293+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Memory Framework**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) system inspired by human cognitive memory structures, enabling stateful long narrative reasoning with structured memory retrieval.
+- **Cognitive Architecture Integration**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive memory structures, enabling stateful long narrative reasoning via hierarchical memory modules (e.g., episodic, semantic, and procedural memory layers).
 
-- **Stateful Long-Context Processing**: Implements dynamic memory organization to maintain contextual coherence across extended dialogues or narratives, addressing limitations in traditional RAG systems for sequential reasoning tasks.
+- **Dynamic Memory Management**: Implements adaptive memory retrieval and update mechanisms using a **gated attention** system to prioritize relevant context snippets, reducing noise while preserving temporal and causal dependencies in long-form narratives.
 
-- **AAAI 2026 Poster Submission**: Presented as a cutting-edge approach in AI reasoning, leveraging Python-based implementation for scalable memory management and retrieval in long-form reasoning scenarios.
+- **Stateful Reasoning Pipeline**: Features a **multi-stage reasoning loop** with memory consolidation, where intermediate reasoning steps are stored and reused, improving coherence and factual consistency in multi-turn dialogue or document-level QA tasks.
 
 ## Why It Matters
 

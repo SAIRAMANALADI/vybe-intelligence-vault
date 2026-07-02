@@ -20,7 +20,6 @@ tags:
 - models
 - openai
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -39,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Functional LLM Platform**: Transforms raw documents into a queryable RAG system, autonomous reasoning agent, and self-maintaining Wiki, supporting multimodal and multi-tenant architectures.
+- **Multi-modal LLM Knowledge Platform**: Converts raw documents into a queryable RAG (Retrieval-Augmented Generation) system, an autonomous reasoning agent, and a self-maintaining Wiki, supporting embeddings, vector search, and semantic search.
 
-- **Technical Stack**: Built in Go, integrates embeddings, vector search, reranking, and semantic search with support for OpenAI/Ollama models for generative AI and chatbot functionalities.
+- **Technical Stack**: Implemented in Go, supports multi-tenancy, multi-model integration (e.g., Ollama, OpenAI), and includes features like reranking, evaluation tools, and semantic search for enhanced knowledge retrieval.
 
-- **Advanced Features**: Includes evaluation tools, multi-model support, and semantic capabilities for knowl
+- **Deployment & Features**:
 
 ## Use Cases
 

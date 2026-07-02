@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Andrew-Jang/RAGHub
-collected_at: '2026-07-02T15:04:23.657396+05:30'
-published_at: '2026-07-02T04:37:10Z'
+collected_at: '2026-07-02T20:01:00.818358+05:30'
+published_at: '2026-07-02T11:30:00Z'
 tags:
 - github-repo
 - hackernews
+- models
 - rag
 - unknown
-stars: 1946
+stars: 1948
 language: Unknown
 status: active
 license: MIT
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-10-02T12:07:52Z'
 pushed_at: '2026-06-20T16:17:32Z'
 resource_id: github:andrew-jang/raghub
-first_seen: '2026-07-02T15:04:23.657396+05:30'
-last_seen: '2026-07-02T15:04:23.657396+05:30'
-last_checked: '2026-07-02T15:04:23.657396+05:30'
+first_seen: '2026-07-02T20:01:00.818358+05:30'
+last_seen: '2026-07-02T20:01:00.818358+05:30'
+last_checked: '2026-07-02T20:01:00.818358+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Community-Curated RAG Ecosystem**: Open-source repository aggregating frameworks, projects, and resources for Retrieval-Augmented Generation (RAG), facilitating collaboration and knowledge sharing in AI/ML/NLP domains.
-- **Metadata**: 1,946 stars, 181 forks; last updated July 2, 2026; covers topics including AI, LLMs, NLP, and open-source tools.
-- **Technical Scope**: Focuses on RAG architectures, integrating retrieval mechanisms with large language models for enhanced contextual generation and performance.
+- **Curated RAG Ecosystem**: Open-source repository aggregating frameworks, projects, and resources for Retrieval-Augmented Generation (RAG), facilitating community contributions and exploration of the RAG landscape.
+- **Technical Breadth**: Encompasses tools and libraries spanning AI, LLMs, NLP, and machine learning, with a focus on retrieval-augmented techniques for enhancing generative models.
+- **Active Maintenance**: Last updated in July 2026, ensuring inclusion of recent advancements and community-driven updates in the RAG domain.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Andrew-Jang
-- Stars: 1946
+- Stars: 1948
 - Forks: 181
 - Language: Unknown
 - Topics: ai, artificial-intelligence, large-language-models, llm, machine-learning, natural-language-processing, nlp, open-source, rag, retrieval-augmented-generation
-- Last Updated: 2026-07-02T04:37:10Z
+- Last Updated: 2026-07-02T11:30:00Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-02T12:07:52Z

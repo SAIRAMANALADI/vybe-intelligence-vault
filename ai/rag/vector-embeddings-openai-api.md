@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://platform.openai.com/docs/guides/embeddings
-published_at: '2026-07-02T01:50:12.246271+05:30'
-collected_at: '2026-07-02T01:50:12.246284+05:30'
+published_at: '2026-07-02T20:04:16.878166+05:30'
+collected_at: '2026-07-02T20:04:16.878183+05:30'
 tags:
 - benchmark
 - dataset
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:vector-embeddings-openai-api
-first_seen: '2026-07-02T01:50:12.246284+05:30'
-last_seen: '2026-07-02T01:50:12.246284+05:30'
-last_checked: '2026-07-02T01:50:12.246284+05:30'
+first_seen: '2026-07-02T20:04:16.878183+05:30'
+last_seen: '2026-07-02T20:04:16.878183+05:30'
+last_checked: '2026-07-02T20:04:16.878183+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Model Specifications**: `text-embedding-3-small` (1536-dim, 62.5k pages/USD) and `text-embedding-3-large` (3072-dim, 9.6k pages/USD) offer reduced costs, improved multilingual performance, and configurable dimensionality via the `dimensions` parameter, with max input token limit of 8192.
+- **Model Specifications**: New `text-embedding-3-small` (1536-dim) and `text-embedding-3-large` (3072-dim) models offer lower costs, improved multilingual performance, and configurable dimensionality via the `dimensions` parameter, enabling trade-offs between vector size and accuracy.
 
-- **Embedding Mechanics**: Text strings are converted into dense vector embeddings (floating-point lists) where cosine similarity between vectors quantifies semantic relatedness; dimensionality can be dynamically reduced (e.g., to 256) without significant performance loss using the `dimensions` API parameter.
+- **Embedding Generation**: Embeddings are generated via API calls to `/v1/embeddings` with input text, returning a vector of floating-point numbers; token-based pricing applies (e.g., ~62.5k pages per dollar for `text-embedding-3-small`).
 
-- **Use Cases & Implementation**: Embeddings enable semantic search, clustering, recommendations, and classification; API integration requires tokenized input (billed per token) and returns normalized vectors for downstream tasks like vector database storage or ML feature extraction.
+- **Use Cases & Optimization**: Embeddings enable semantic search, clustering, and classification; dimensionality reduction (e.g., to 256) is supported while maintaining performance, and cosine similarity is used for relevance scoring in retrieval tasks.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T01:50:12.246271+05:30
+- Published: 2026-07-02T20:04:16.878166+05:30
 
 ## Related Tags
 

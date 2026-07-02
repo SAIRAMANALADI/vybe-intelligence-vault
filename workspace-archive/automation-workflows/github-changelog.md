@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **General Availability (GA) of Issue Fields**: GitHub Issue Fields are now generally available, enabling custom metadata fields for enhanced issue tracking and workflow customization across repositories.
-- **Enhanced Issue Metadata Management**: Users can define and utilize custom fields (e.g., dropdowns, text, numbers) to standardize and enrich issue data, improving categorization and automation in project workflows.
-- **Integration with Projects & Issues**: Issue Fields integrate seamlessly
+- **General Availability of Issue Fields**: GitHub Issue Fields are now generally available, enabling custom metadata and structured data for issues across repositories.
+- **Enhanced Issue Customization**: Supports predefined and user-defined fields (e.g., dropdowns, text, dates) for granular issue tracking and workflow automation.
+- **Projects & Issues Integration**: Improved interoperability between Projects and Issues, allowing seamless field synchronization and enhanced project management ca
 
 ## Use Cases
 

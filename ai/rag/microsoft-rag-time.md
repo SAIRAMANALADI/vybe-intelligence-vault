@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-07-02T15:04:23.675252+05:30'
+collected_at: '2026-07-02T20:01:00.931784+05:30'
 published_at: '2026-06-28T15:57:16Z'
 tags:
 - github-repo
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-07-02T15:04:23.675252+05:30'
-last_seen: '2026-07-02T15:04:23.675252+05:30'
-last_checked: '2026-07-02T15:04:23.675252+05:30'
+first_seen: '2026-07-02T20:01:00.931784+05:30'
+last_seen: '2026-07-02T20:01:00.931784+05:30'
+last_checked: '2026-07-02T20:01:00.931784+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Learning Path**: 5-week structured curriculum covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and Matryoshka representation learning for efficient LLM integration.
+- **Comprehensive RAG Mastery Program**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals to advanced techniques, including hybrid search (HNSW + keyword search), vector/scalar quantization, and multimodal RAG pipelines.
 
-- **Technical Stack**: Focuses on Azure-hosted Jupyter Notebooks, OpenAI/GPT models, HNSW for vector search, and VS Code integration, with modules on responsible AI and multimodal RAG.
+- **Azure & OpenAI Integration**: Hands-on labs using Azure services (e.g., OpenAI embeddings, vector stores) and tools like Visual Studio Code for deploying scalable RAG systems with responsible AI guardrails.
 
-- **Optimization Focus**: Emphasizes indexing strategies (scalar/binary quantization) and hybrid retrieval (vector + keyword) to enhance performance in production-scale RAG systems.
+- **Advanced Techniques**: Implements binary/matryoshka representation learning for efficient indexing, supports scalar quantization for storage optimization, and includes notebooks for binary-quantized vector search with HNSW.
 
 ## Why It Matters
 

@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-07-02T15:06:53.696295+05:30'
+collected_at: '2026-07-02T20:03:30.993971+05:30'
 published_at: '2026-07-01T07:59:32Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - typescript
-- workflows
 stars: 518
 language: TypeScript
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-29T13:00:12Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-07-02T15:06:53.696295+05:30'
-last_seen: '2026-07-02T15:06:53.696295+05:30'
-last_checked: '2026-07-02T15:06:53.696295+05:30'
+first_seen: '2026-07-02T20:03:30.993971+05:30'
+last_seen: '2026-07-02T20:03:30.993971+05:30'
+last_checked: '2026-07-02T20:03:30.993971+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Language Best Practices Repository**: Curated collection of coding standards and best practices for TypeScript, Kotlin, Go, Dart (Flutter), Java (Spring Boot), PHP (Laravel), and JavaScript frameworks (React, Next.js, NestJS) to guide AI agents in framework/language-specific development.
-- **Agentic AI Development Focus**: Provides structured guidelines (e.g., Cursor Rules, Android/iOS standards) to ensure AI agents adhere to optimized patterns for cross-platform and framework-specific implementations.
-- **Active Maintenance & Community**: Last updated July 2026 with 518 stars and 150 forks, indicating ongoing community engagement and iterative improvements to standards for AI-driven development workflows.
+- **Comprehensive Coding Standards Repository**: Hosts standardized best practices for 18+ programming languages and frameworks (e.g., TypeScript, React, Angular, Go, Kotlin, Spring Boot) to guide AI agents in adhering to language/framework-specific conventions.
+
+- **Multi-Platform Support**: Covers mobile (Android, iOS, Flutter, React Native), web (React, Next.js, Angular), backend (NestJS, Laravel, Spring Boot), and general-purpose (Go, Kotlin) ecosystems with structured guidelines.
+
+- **Agent-Focused Tooling**: Includes `cursor-rules` integration for AI agents, ensuring consistent code generation and review across supported technologies, with last update timestamped **2026-07-01**.
 
 ## Why It Matters
 

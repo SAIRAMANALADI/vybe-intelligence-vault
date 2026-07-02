@@ -10,13 +10,14 @@ tags:
 - anthropic
 - github-trending
 - typescript
-status: active
+status: inactive
 resource_id: github:diegosouzapw/omniroute
 first_seen: '2026-06-30T20:14:10.925325+05:30'
 last_seen: '2026-07-02T15:03:26.157377+05:30'
 last_checked: '2026-07-02T15:03:26.157377+05:30'
 health_score: 100
 ---
+
 
 # diegosouzapw/OmniRoute
 

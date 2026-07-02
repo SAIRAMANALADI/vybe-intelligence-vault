@@ -8,14 +8,14 @@ local_vault_path: ai/agents/copilot-cli-sessions-in-visual-studio-code.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - agents
 - openai
 - web-crawled
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Copilot CLI sessions in Visual Studio Code
@@ -24,15 +24,17 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Background Execution & Integration**: Copilot CLI sessions run autonomously in the background via the Copilot CLI agent harness, managed via VS Code's Copilot SDK, enabling parallel task execution without blocking the editor; sessions persist even after VS Code closure.
+- **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via GitHub Copilot CLI, managed through the Chat view; support multi-repository workspaces, custom agents, and deep research tasks with isolation modes (Worktree/Folder).
 
-- **Isolation Modes**: Supports **Worktree** (Git worktree-based isolation for safe, separate changes) and **Folder** (direct workspace modifications) isolation, with Worktree auto-bypassing approvals due to isolated context
+- **Isolation & Permissions**: Worktree isolation (Git worktree) auto-approves tools (Bypass Approvals), while Folder isolation allows Default/Bypass/Autopilot modes; permissions depend on isolation type and workspace Git repository status.
+
+- **
 
 ## Use Cases
 

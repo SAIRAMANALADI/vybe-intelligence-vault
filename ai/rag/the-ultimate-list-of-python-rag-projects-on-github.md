@@ -5,11 +5,12 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dasroot.net/posts/2026/03/python-rag-projects-github/
-published_at: '2026-07-02T15:04:20.745728+05:30'
-collected_at: '2026-07-02T15:04:20.745739+05:30'
+published_at: '2026-07-02T20:00:57.659039+05:30'
+collected_at: '2026-07-02T20:00:57.659053+05:30'
 tags:
 - agents
 - benchmark
+- dataset
 - hackernews
 - meta-ai
 - models
@@ -19,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:the-ultimate-list-of-python-rag-projects-on-github
-first_seen: '2026-07-02T15:04:20.745739+05:30'
-last_seen: '2026-07-02T15:04:20.745739+05:30'
-last_checked: '2026-07-02T15:04:20.745739+05:30'
+first_seen: '2026-07-02T20:00:57.659053+05:30'
+last_seen: '2026-07-02T20:00:57.659053+05:30'
+last_checked: '2026-07-02T20:00:57.659053+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain v0.24.0**: Modular RAG orchestration with multi-agent workflows, enhanced prompt engineering, and compatibility with Llama 3.1 70b instruct; enables minimal-code RAG pipelines via `WebBaseLoader` and `VectorstoreIndexCreator`.
+- **LangChain v0.24.0** enables modular RAG pipelines with multi-agent workflows and improved LLM compatibility (e.g., Llama 3.1 70b instruct), reducing deployment overhead via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
 
-- **LlamaIndex v0.12.0**: Optimized document indexing with semantic chunking and +30% retrieval accuracy; supports multi-modal parsing (PDFs, images) and structured database integration via `DBConnectors`.
+- **LlamaIndex v0.12.0** introduces semantic chunking and advanced filtering, boosting retrieval accuracy by **30%** in complex datasets, with support for multi-format document parsing (PDFs, images) via `DBConnectors` and `Unstructured.io`.
 
-- **HyPE (Hypothetical Prompt Embeddings)**: Precomputes hypothetical questions per document chunk during indexing, improving retrieval precision by up to 45% and reducing inference-time overhead by 42% via question-question matching.
+- **RAGFlow v0.24.0** supports multi-modal parsing, cross-language queries, and agent-based workflows with Python/JavaScript code execution, integrating enterprise data sources (Confluence, S3, Google Drive) and models like Gemini 3 Pro and GPT-5.
 
 ## Why It Matters
 
@@ -43,12 +44,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T15:04:20.745728+05:30
+- Published: 2026-07-02T20:00:57.659039+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
+- dataset
 - hackernews
 - meta-ai
 - models

@@ -8,14 +8,16 @@ local_vault_path: ai/rag/google-deepmind-github.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: template
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - deepmind
-- models
 - rag
+- reddit
 - web-crawled
+- workflows
+- youtube
 selection_reason:
 - Useful for project building
 ---
@@ -26,17 +28,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: template
+- Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **AlphaFold 3**: Open-source inference pipeline for protein structure prediction, leveraging advanced deep learning architectures to model molecular interactions with high accuracy.
+- **AlphaFold 3 Inference Pipeline**: Open-source Python implementation for protein structure prediction, leveraging deep learning to model molecular interactions with atomic-level precision.
 
-- **MuJoCo & MuJoCo Warp**: General-purpose physics simulators (C++/Python) optimized for multi-joint dynamics with contact; MuJoCo Warp provides GPU acceleration for NVIDIA hardware via CUDA.
+- **MuJoCo Physics Simulator**: High-performance C++ library for multi-body dynamics with contact, widely used for reinforcement learning and robotics research.
 
-- **DM-Haiku & Acme**: JAX-based neural network library (DM-Haiku) and reinforcement learning framework (Acme) enabling s
+- **JAX-Based Neural Network Libraries**: `dm-haiku` provides a modular neural network framework in JAX, enabling efficient, hardware-accelerated
 
 ## Use Cases
 
