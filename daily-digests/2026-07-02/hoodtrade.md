@@ -1,52 +1,55 @@
 ---
-title: "YarikRuuuu/hoodtrade"
+title: "hoodtrade/hoodtrade"
 category: "Tooling"
-tech_stack: ["Python", "Solidity", "Ethereum RPC", "Uniswap", "Claude AI", "Arbitrum-Orbit", "ERC-20", "Poetry"]
-quality_score: 8
-rag_relevance: 7
-tags: ["pre-trade safety", "smart contract analysis", "MEV protection", "liquidity risk", "Robinhood Chain"]
-source: "https://github.com/YarikRuuuu/hoodtrade"
-discovered_at: "2026-07-02T15:11:44Z"
+tech_stack: ["Python", "Typer", "Pydantic", "Rich", "HTTPX", "Anthropic Claude (optional)", "Uniswap V3", "Robinhood Chain", "JSON-RPC"]
+quality_score: 9
+rag_relevance: 8
+tags: ["pre-trade safety", "risk assessment", "smart contract analysis", "MEV detection", "DeFi security"]
+source: "https://github.com/hoodtrade/hoodtrade"
+discovered_at: "2026-07-02T17:42:44Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Hood Trade is a pre-trade safety scanner for Robinhood Chain that evaluates swap transactions before execution, providing a GO/CAUTION/NO-GO verdict with on-chain evidence. It operates read-only, never holding funds or signing transactions, and focuses on mitigating risks like liquidity removal, MEV, and token counterparty issues.
+Hood Trade is a pre-trade safety scanner for Robinhood Chain that evaluates swaps for risks like unverified tokens, rug pulls, honeypots, and MEV before execution. It provides a deterministic GO/CAUTION/NO-GO verdict with on-chain evidence, ensuring users can make informed decisions without signing or holding funds.
 
 ## Key Features
-- Deterministic risk scoring engine with severity-based verdicts (GO/CAUTION/NO-GO)
-- Checks for contract ownership, liquidity depth, and execution risks like MEV
-- Claude-powered plain-language summaries (optional, offline fallback available)
-- Read-only operation with no fund custody or transaction signing
-- Configurable thresholds and RPC chain-id pinning for security
+- 15 automated checks covering contract, pool, execution, and stock token risks
+- Deterministic verdict engine with configurable thresholds for CAUTION/NO-GO
+- Honeypot detection via simulated transfer/approve calls
+- Optional AI-powered risk summaries using Claude Opus 4.8
+- Fully offline mode with fallback templates for environments without API access
 
 ## Why It Matters for RAG Builders
-It provides critical pre-trade risk assessment for users interacting with new or permissionless chains, reducing exposure to liquidity attacks, MEV, and token counterparty risks before transaction signing.
+It provides critical pre-trade risk validation for DeFi users on Robinhood Chain, reducing exposure to scams, honeypots, and MEV attacks before transaction signing.
 
 ## Tech Stack Deep Dive
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Solidity
-Automated review identified **Solidity** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Typer
+Automated review identified **Typer** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Ethereum RPC
-Automated review identified **Ethereum RPC** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Pydantic
+Automated review identified **Pydantic** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Uniswap
-Automated review identified **Uniswap** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Rich
+Automated review identified **Rich** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Claude AI
-Automated review identified **Claude AI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### HTTPX
+Automated review identified **HTTPX** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Arbitrum-Orbit
-Automated review identified **Arbitrum-Orbit** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Anthropic Claude (optional)
+Automated review identified **Anthropic Claude (optional)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### ERC-20
-Automated review identified **ERC-20** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Uniswap V3
+Automated review identified **Uniswap V3** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Poetry
-Automated review identified **Poetry** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Robinhood Chain
+Automated review identified **Robinhood Chain** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### JSON-RPC
+Automated review identified **JSON-RPC** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

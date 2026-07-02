@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-02 22:50 IST</p>
+        <p><b>Last Update:</b> 2026-07-02 23:19 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,25 +55,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Kimi K2.7 Code is generally available in GitHub Copilot](ai/community/kimi-k2-7-code-is-generally-available-in-github-co.md)** • <kbd>+53 pts</kbd>
-- 🔼 **[Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction](ai/community/asymmetric-quantization-near-lossless-retrieval-wi.md)** • <kbd>+18 pts</kbd>
-- 🔼 **[Gemini 3.5 â Google DeepMind](ai/rag/gemini-3-5-a-google-deepmind.md)** • Rank: <kbd>+3401</kbd>
-- 🔼 **[Advancing AI safely and responsibly â Google AI](ai/rag/advancing-ai-safely-and-responsibly-a-google-ai.md)** • Rank: <kbd>+890</kbd>
-- 🔼 **[Use Scam Detection - Phone app Help](ai/rag/use-scam-detection-phone-app-help.md)** • Rank: <kbd>+888</kbd>
+- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+13</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[The primary purpose of code review is to find code that will be hard to maintain](ai/community/the-primary-purpose-of-code-review-is-to-find-code.md)** • Score: `207`
-- 🆕 **[AI can't be listed as inventor on patent applications, Japan's top court rules](ai/community/ai-can-t-be-listed-as-inventor-on-patent-applicati.md)** • Score: `194`
-- 🆕 **[The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing](ai/community/the-egg-bandits-made-a-thousand-times-the-fine-the.md)** • Score: `171`
-- 🆕 **[Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](ai/community/senior-swe-bench-open-source-benchmark-that-assess.md)** • Score: `133`
-- 🆕 **[Show HN: Mail Memories – A desktop app to rescue photos from Gmail](ai/community/show-hn-mail-memories-a-desktop-app-to-rescue-phot.md)** • Score: `71`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[AI fake news complaining about how AI fake news is the death of real news](ai/community/ai-fake-news-complaining-about-how-ai-fake-news-is.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

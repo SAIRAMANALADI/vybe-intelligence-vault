@@ -1,58 +1,58 @@
 ---
-title: "Gitlawb/zero"
-category: "Agent Framework"
-tech_stack: ["Go", "TypeScript", "npm", "OpenAI API", "Anthropic API", "Gemini API", "Ollama", "LM Studio", "MCP (Model Context Protocol)", "Git"]
+title: "vaibhavpandeyvpz/zero"
+category: "UI Component"
+tech_stack: ["Next.js", "React", "TypeScript", "Node.js", "Express", "Tailwind CSS", "Radix UI", "shadcn UI", "PM2", "Hooman"]
 quality_score: 9
 rag_relevance: 7
-tags: ["coding agent", "local AI", "terminal", "multi-provider", "sandbox"]
-source: "https://github.com/Gitlawb/zero"
-discovered_at: "2026-07-02T12:10:05Z"
+tags: ["self-hosted", "AI agent UI", "MCP integration", "local LLM", "Next.js"]
+source: "https://github.com/vaibhavpandeyvpz/zero"
+discovered_at: "2026-07-02T17:43:09Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Zero is a local terminal-based AI coding agent that allows users to inspect repositories, edit files, run commands, and manage sessions entirely on their own machine. It supports multiple AI providers, provides granular permission controls, and offers both interactive TUI and headless execution modes.
+Zero is an open-source, self-hosted web UI designed to interact with local AI agents. It provides a clean interface to chat with agents, manage MCP servers and skills, and configure agent behavior, all while ensuring data privacy by running locally.
 
 ## Key Features
-- Interactive TUI with model/provider pickers, slash commands, and live tool rendering
-- Headless execution mode (`zero exec`) for scriptable and CI-friendly agent runs
-- Granular permission and sandbox policy for file writes, shell commands, and network access
-- Supports 25+ AI providers including OpenAI, Anthropic, Groq, Ollama, and local models
-- Durable local sessions with resumable, searchable, and forking capabilities
+- Streaming chat with reasoning display and file attachments
+- Tool approvals and auto-approval modes for agent actions
+- MCP server and skill management via a web interface
+- Deep configuration for providers, models, prompts, and tools
+- Mobile-friendly layout and resumable chat sessions
 
 ## Why It Matters for RAG Builders
-Zero enables developers to build and test AI-driven coding workflows locally with full control over models, permissions, and data, reducing dependency on cloud-based agents.
+Zero provides a user-friendly interface for managing and interacting with local AI agents, making it essential for developers who prioritize privacy and self-hosting in their RAG or AI stack.
 
 ## Tech Stack Deep Dive
-### Go
-Automated review identified **Go** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Next.js
+Automated review identified **Next.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### React
+Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### TypeScript
 Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### npm
-Automated review identified **npm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenAI API
-Automated review identified **OpenAI API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Express
+Automated review identified **Express** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Anthropic API
-Automated review identified **Anthropic API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Tailwind CSS
+Automated review identified **Tailwind CSS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Gemini API
-Automated review identified **Gemini API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Radix UI
+Automated review identified **Radix UI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Ollama
-Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### shadcn UI
+Automated review identified **shadcn UI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### LM Studio
-Automated review identified **LM Studio** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PM2
+Automated review identified **PM2** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Git
-Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Hooman
+Automated review identified **Hooman** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
