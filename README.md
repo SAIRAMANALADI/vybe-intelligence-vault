@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-02 10:10 IST</p>
+        <p><b>Last Update:</b> 2026-07-02 12:11 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,26 +55,21 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[github/codeql](ai/resources/github-codeql.md)** • Rank: <kbd>+2443</kbd>
-- 🔼 **[electron/electron](ai/rag/electron-electron.md)** • Rank: <kbd>+359</kbd>
-- 🔼 **[npm Status](ai/rag/npm-status.md)** • Rank: <kbd>+2440</kbd>
-- 🔼 **[Getting Started | Electron Forge](ai/rag/getting-started-electron-forge.md)** • Rank: <kbd>+426</kbd>
-- 🔼 **[GitHub · Change is constant. GitHub keeps you ahead. · GitHub](ai/rag/github-change-is-constant-github-keeps-you-ahead-g.md)** • Rank: <kbd>+422</kbd>
+- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+10</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+10</kbd>
+- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+10</kbd>
+- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+10</kbd>
+- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+4</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](ai/community/senior-swe-bench-open-source-benchmark-that-assess.md)** • Score: `19`
-- 🆕 **[GitHub Partner Program · GitHub](ai/rag/github-partner-program-github.md)** • Score: `0`
-- 🆕 **[Sign in for Software Support and Product Help - GitHub Support](ai/resources/sign-in-for-software-support-and-product-help-gith.md)** • Score: `0`
-- 🆕 **[Terms of Service](ai/rag/terms-of-service.md)** • Score: `0`
-- 🆕 **[Databricks Online Feature Stores | Databricks on AWS](ai/rag/databricks-online-feature-stores-databricks-on-aws.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Sony Deletes 551 Movies PlayStation Owners Paid For](ai/community/sony-deletes-551-movies-playstation-owners-paid-fo.md)**
-- 💤 **[OpenWiki: CLI that writes and maintains agent documentation for your codebase](ai/community/langchain-ai-openwiki.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
