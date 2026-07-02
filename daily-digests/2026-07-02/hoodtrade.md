@@ -1,27 +1,27 @@
 ---
-title: "hoodtrade/hoodtrade"
+title: "hoodtradeprofile/hoodtrade"
 category: "Tooling"
-tech_stack: ["Python", "Typer", "Pydantic", "Rich", "HTTPX", "Anthropic Claude (optional)", "Uniswap V3", "Robinhood Chain", "JSON-RPC"]
+tech_stack: ["Python", "Typer", "Pydantic", "Rich", "HTTPX", "Anthropic Claude (optional)", "Uniswap V3", "Robinhood Chain"]
 quality_score: 9
 rag_relevance: 8
-tags: ["pre-trade safety", "risk assessment", "smart contract analysis", "MEV detection", "DeFi security"]
-source: "https://github.com/hoodtrade/hoodtrade"
-discovered_at: "2026-07-02T17:42:44Z"
+tags: ["pre-trade safety", "DeFi risk assessment", "honeypot detection", "MEV protection", "Robinhood Chain"]
+source: "https://github.com/hoodtradeprofile/hoodtrade"
+discovered_at: "2026-07-02T19:16:47Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Hood Trade is a pre-trade safety scanner for Robinhood Chain that evaluates swaps for risks like unverified tokens, rug pulls, honeypots, and MEV before execution. It provides a deterministic GO/CAUTION/NO-GO verdict with on-chain evidence, ensuring users can make informed decisions without signing or holding funds.
+Hood Trade is a pre-trade safety scanner for Robinhood Chain that evaluates swaps before execution by running a 15-check battery to detect risks like unverified tokens, rug pulls, honeypots, and MEV. It provides deterministic GO/CAUTION/NO-GO verdicts with on-chain evidence and optional AI summaries.
 
 ## Key Features
 - 15 automated checks covering contract, pool, execution, and stock token risks
-- Deterministic verdict engine with configurable thresholds for CAUTION/NO-GO
-- Honeypot detection via simulated transfer/approve calls
-- Optional AI-powered risk summaries using Claude Opus 4.8
-- Fully offline mode with fallback templates for environments without API access
+- Deterministic verdicts (GO/CAUTION/NO-GO) based on configurable thresholds
+- Honeypot detection via simulated transfers and approvals
+- Optional AI summaries (Claude) for risk explanations without overriding decisions
+- Read-only operation with no fund custody or signing
 
 ## Why It Matters for RAG Builders
-It provides critical pre-trade risk validation for DeFi users on Robinhood Chain, reducing exposure to scams, honeypots, and MEV attacks before transaction signing.
+It provides critical pre-trade risk mitigation for DeFi users on Robinhood Chain by automating checks that prevent common scams and unsafe trades before execution.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -47,9 +47,6 @@ Automated review identified **Uniswap V3** as a key module contributing to infra
 
 ### Robinhood Chain
 Automated review identified **Robinhood Chain** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### JSON-RPC
-Automated review identified **JSON-RPC** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

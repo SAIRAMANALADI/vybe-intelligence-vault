@@ -1,27 +1,27 @@
 ---
 title: "guipmilek/despezzas-mcp"
 category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Express", "Hono", "Zod", "Cloudflare Workers", "Docker", "Firebase Authentication", "Git"]
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Express", "Hono", "Zod", "Cloudflare Workers", "Docker", "Firebase Authentication"]
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP Server", "Financial Data", "Despezzas Integration", "Agent Tools", "OAuth"]
+tags: ["MCP Server", "Financial Data", "Agent Integration", "TypeScript", "Cloudflare Workers"]
 source: "https://github.com/guipmilek/despezzas-mcp"
-discovered_at: "2026-07-02T17:47:42Z"
+discovered_at: "2026-07-02T19:20:39Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Servidor MCP não oficial para integrar dados financeiros do Despezzas (plataforma de gerenciamento financeiro) a clientes compatíveis com MCP, como ChatGPT. Expõe ferramentas para leitura, escrita e gerenciamento de contas, transações, cartões e perfis financeiros via API não oficial.
+Despezzas MCP is an unofficial Model Context Protocol (MCP) server that connects to the Despezzas financial platform, exposing tools for managing accounts, transactions, cards, and financial summaries. It enables AI agents and clients like ChatGPT to interact with personal financial data via MCP-compatible interfaces.
 
 ## Key Features
-- Integração não oficial com a API do Despezzas para gerenciamento financeiro
-- Suporte a ferramentas de leitura e escrita (contas, transações, cartões, perfis)
-- Autenticação via token bearer, e-mail/senha ou OAuth MCP
-- Modos de transporte stdio e HTTP (Node.js ou Cloudflare Workers)
-- Validação de segurança com confirmação obrigatória para operações destrutivas
+- Exposes MCP-compatible tools for reading and writing financial data (accounts, transactions, cards, categories)
+- Supports multiple authentication methods (Bearer token, email/password, OAuth)
+- Includes safety mechanisms like write confirmation and transaction preparation tools
+- Deployable via Cloudflare Workers, Docker, or Node.js HTTP server
+- Provides debugging tools like HAR inspection and request monitoring
 
 ## Why It Matters for RAG Builders
-Fornece uma ponte não oficial mas funcional para acessar dados financeiros pessoais via MCP, permitindo que agentes de IA interajam com sistemas de gerenciamento financeiro de forma estruturada e segura.
+It enables AI agents to securely interact with personal financial data through standardized MCP interfaces, bridging the gap between financial platforms and AI-driven automation.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -50,9 +50,6 @@ Automated review identified **Docker** as a key module contributing to infrastru
 
 ### Firebase Authentication
 Automated review identified **Firebase Authentication** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Git
-Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
