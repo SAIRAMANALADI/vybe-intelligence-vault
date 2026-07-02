@@ -8,9 +8,9 @@ Model Context Protocol (MCP) acts as the bridge connecting LLMs and local develo
 
 ## Top Matched Resources
 
-- [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (mcp-server - ESSENTIAL Tier)
-- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) (mcp-server - ESSENTIAL Tier)
+- [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) (mcp-server - ESSENTIAL Tier)
+- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) (framework - ESSENTIAL Tier)
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) (framework - ESSENTIAL Tier)
 - [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) (mcp-server - ESSENTIAL Tier)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
@@ -41,4 +41,4 @@ https://github.com/modelcontextprotocol/servers (MCP Reference Servers)
 
 ---
 
-*Last updated: 2026-07-02 22:49 IST*
+*Last updated: 2026-07-03 04:06 IST*

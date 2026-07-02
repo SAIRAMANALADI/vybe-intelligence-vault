@@ -18,6 +18,7 @@ tags:
 - openai
 - rag
 - reddit
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -36,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive RAG Mastery Program**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals to advanced techniques, including hybrid search (HNSW + keyword search), vector/scalar quantization, and multimodal RAG pipelines.
+- **Comprehensive RAG Mastery Guide**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization, HNSW indexing, and Matryoshka representation learning.
 
-- **Azure & OpenAI Integration**: Hands-on labs using Azure services (e.g., OpenAI embeddings, vector stores) and tools like Visual Studio Code for deploying scalable RAG systems with responsible AI guardrails.
-
-- **Advanced Techniques*
+- **Multi-Tool Integration**: Demonstrates RAG workflows using Azure AI services, OpenAI LLMs, and VS Code, with notebooks focusing on multimodal inputs, responsible AI practices, and efficient vector search implementation
 
 ## Use Cases
 

@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 12,015</p>
-        <p><b>Active:</b> 11,695 | <b>Inactive:</b> 320</p>
+        <p><b>Resources tracked:</b> 12,038</p>
+        <p><b>Active:</b> 11,712 | <b>Inactive:</b> 326</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 45,766</p>
+        <p><b>Archive Files:</b> 45,834</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-03 03:47 IST</p>
+        <p><b>Last Update:</b> 2026-07-03 04:08 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,17 +55,29 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+13</kbd>
+- 🔼 **[Spain Orders Blacklist of Palantir from Public and Private Companies](ai/community/spain-orders-blacklist-of-palantir-from-public-and.md)** • <kbd>+442 pts</kbd> • Rank: <kbd>+7</kbd>
+- 🔼 **[AI can't be listed as inventor on patent applications, Japan's top court rules](ai/community/ai-can-t-be-listed-as-inventor-on-patent-applicati.md)** • <kbd>+148 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Home - Mozilla Hacks - the Web developer blog](ai/rag/home-mozilla-hacks-the-web-developer-blog.md)** • Rank: <kbd>+4901</kbd>
+- 🔼 **[Privacy policy](ai/rag/privacy-policy.md)** • Rank: <kbd>+378</kbd>
+- 🔼 **[YouTube TV: Live TV & more - Apps on Google Play](ai/rag/youtube-tv-live-tv-more-apps-on-google-play.md)** • Rank: <kbd>+1754</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Vulkan is now available on NetBSD](ai/community/segaboy-vulkan-netbsd.md)** • Score: `60`
+- 🆕 **[Claude-real-video － any LLM can watch a video](ai/community/huangchihhungleo-claude-real-video.md)** • Score: `43`
+- 🆕 **[The Short Leash AI Coding Method for Beating Fable](ai/community/the-short-leash-ai-coding-method-for-beating-fable.md)** • Score: `36`
+- 🆕 **[Ask HN: Since when does Craigslist's front page have emojis?](ai/community/ask-hn-since-when-does-craigslist-s-front-page-hav.md)** • Score: `30`
+- 🆕 **[Reality has a surprising amount of detail](ai/community/reality-has-a-surprising-amount-of-detail.md)** • Score: `23`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Kimi K2.7 Code is generally available in GitHub Copilot](ai/community/kimi-k2-7-code-is-generally-available-in-github-co.md)**
+- 💤 **[The primary purpose of code review is to find code that will be hard to maintain](ai/community/the-primary-purpose-of-code-review-is-to-find-code.md)**
+- 💤 **[The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing](ai/community/the-egg-bandits-made-a-thousand-times-the-fine-the.md)**
+- 💤 **[Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](ai/community/senior-swe-bench-open-source-benchmark-that-assess.md)**
+- 💤 **[Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction](ai/community/asymmetric-quantization-near-lossless-retrieval-wi.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

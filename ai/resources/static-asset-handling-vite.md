@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://vite.dev/guide/assets.html#importing-asset-as-url
-published_at: '2026-06-27T04:18:22.189979+05:30'
-collected_at: '2026-06-27T04:18:22.189991+05:30'
+published_at: '2026-07-03T04:00:12.235949+05:30'
+collected_at: '2026-07-03T04:00:12.235963+05:30'
 tags:
 - reddit
 - threejs
 - web-crawled
 status: active
 resource_id: blog:static-asset-handling-vite
-first_seen: '2026-06-27T04:18:22.189991+05:30'
-last_seen: '2026-06-27T04:18:22.189991+05:30'
-last_checked: '2026-06-27T04:18:22.189991+05:30'
+first_seen: '2026-07-03T04:00:12.235963+05:30'
+last_seen: '2026-07-03T04:00:12.235963+05:30'
+last_checked: '2026-07-03T04:00:12.235963+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Asset Import Handling**: Vite resolves static asset imports (e.g., images, fonts) to public URLs during development and hashed production paths, similar to `file-loader` in webpack, with automatic detection for common file types and configurable extensions via `assetsInclude`.
+- **Asset Import Behavior**: Importing static assets (e.g., images, fonts) via ES modules returns a resolved public URL (`/src/asset.ext` in dev, `/assets/asset.hash.ext` in prod), similar to `file-loader` in webpack, with automatic hashing, optimization, and inlining (if below `assetsInlineLimit`).
 
-- **Query Suffixes for Advanced Handling**: Vite supports explicit asset processing via query suffixes (`?url`, `?inline`, `?no-inline`, `?raw`, `?worker`), enabling forced URL resolution, inlining control, raw string imports, and web worker script separation.
+- **Query Suffixes for Advanced Handling**: Vite supports query modifiers for explicit control: `?url` (force URL import), `?raw` (import as string), `?inline`/`no-inline` (control inlining), and `?worker`/`sharedworker` (load scripts as web workers).
 
-- **Public Directory and `import.meta.url`**: Assets in `/public` are served at root paths without hashing or imports, while `new URL(url, import.meta.url)` provides native ESM-based static asset resolution, transformed during build for production compatibility.
+- **Public Directory & `import.meta.url`**: Unreferenced assets (e.g., `robots.txt`) can be placed in `/public` (served at `/` in dev, copied to dist root). Native `new URL('./asset.ext', import.meta.url)` resolves asset paths dynamically, with Vite transforming static paths during build (fails for dynamic paths or SSR).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-27T04:18:22.189979+05:30
+- Published: 2026-07-03T04:00:12.235949+05:30
 
 ## Related Tags
 

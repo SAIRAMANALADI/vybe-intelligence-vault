@@ -8,7 +8,7 @@ local_vault_path: ai/agents/specification-model-context-protocol.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: template
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -16,7 +16,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Specification - Model Context Protocol
@@ -25,18 +25,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: template
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Protocol Core**: MCP standardizes LLM integration via JSON-RPC 2.0, enabling stateful communication between **Hosts** (LLM apps), **Clients** (connectors), and **Servers** (context/tool providers), inspired by LSP.
-
-- **Feature Set**: Servers expose **Resources** (data/context), **Prompts** (templated workflows), and **Tools** (executable functions); Clients support **Sampling** (agentic LLM interactions), **Roots** (URI/filesystem access), and **Elicitation** (user input requests).
-
-- **Sec
+- **Protocol Core**: MCP is an open protocol enabling standardized JSON-RPC 2.0 communication between LLM hosts, clients, and servers for contextual data/tool integration, inspired by LSP.
+- **Key Features**: Servers provide resources, prompts, and tools; clients support sampling, roots, and elicitation, with additional utilities like progress tracking and error reporting.
+- **Security Mandates**: Enforces explicit user consent for data access, tool invocation, and LLM sampling, with robust UI c
 
 ## Use Cases
 

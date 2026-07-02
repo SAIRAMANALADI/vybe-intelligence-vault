@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Design**: Introduces a **Chinese-language benchmark** for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), focusing on **comprehensive task coverage** (e.g., retrieval quality, generation coherence, and end-to-end performance).
+- **Benchmark Suite**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), covering diverse retrieval and generation scenarios.
 
-- **Evaluation Framework**: Implements **standardized metrics** (e.g., retrieval precision/recall, answer correctness) and **diverse Chinese datasets** (e.g., news, academic, and domain-specific texts) to assess RAG c
+- **Evaluation Framework**: Implements structured metrics for assessing RAG performance, including retrieval precision, contextual relevance, and generation quality in Chinese language contexts.
+
+- **Open-Source Toolkit**: Released under Python, the repository includes datasets
 
 ## Use Cases
 

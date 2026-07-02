@@ -8,7 +8,7 @@ local_vault_path: ai/rag/gemini-3-5-a-google-deepmind.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
@@ -18,7 +18,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Gemini 3.5 â Google DeepMind
@@ -27,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Multimodal Architecture**: Gemini Pro integrates advanced transformer-based models with cross-modal attention mechanisms, enabling unified processing of text, image, audio, and video inputs for complex reasoning tasks.
+- **Advanced multimodal capabilities**: Gemini Pro integrates text, image, audio, and video processing, enabling complex, cross-modal reasoning and generation tasks with high contextual accuracy.
 
-- **Scalable Performance**: Optimized for high-performance computing (HPC) environments, leveraging TPU v5e accelerators and distributed training frameworks to achieve state-of-the-art results in multimodal benchmarks.
+- **Scalable architecture**: Utilizes a transformer-based model with optimized attention mechanisms (e.g., Mixture-of-Experts) for efficient handling of large-scale, high-dimensional data inputs.
 
-- **API-Driven Deployment**: Offers a RESTful API with g
+- **Performance benchmarks**: Achieves state-of-the-art results on multimodal benchmarks (e.g., MMLU, DROP
 
 ## Use Cases
 

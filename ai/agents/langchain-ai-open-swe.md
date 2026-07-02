@@ -4,27 +4,26 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-07-02T22:36:20.418060+05:30'
-published_at: '2026-07-02T16:56:16Z'
+collected_at: '2026-07-03T03:53:20.281547+05:30'
+published_at: '2026-07-02T21:37:28Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - openai
 - python
-- scripts
 - workflows
-stars: 10086
+stars: 10088
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-05-21T21:44:24Z'
-pushed_at: '2026-07-02T17:05:07Z'
+pushed_at: '2026-07-02T21:38:13Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-07-02T22:36:20.418060+05:30'
-last_seen: '2026-07-02T22:36:20.418060+05:30'
-last_checked: '2026-07-02T22:36:20.418060+05:30'
+first_seen: '2026-07-03T03:53:20.281547+05:30'
+last_seen: '2026-07-03T03:53:20.281547+05:30'
+last_checked: '2026-07-03T03:53:20.281547+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Open-SWE is an open-source framework designed for building asynchronous coding agents, enabling parallel task execution and non-blocking I/O operations for efficient code generation and debugging.
+- **Asynchronous Multi-Agent Framework**: Implements an event-driven, non-blocking architecture for parallelized coding tasks using Python's `asyncio`, enabling concurrent execution of LLM-based agents for code generation, review, and testing.
 
-- **Multi-LLM Integration**: Supports Anthropic's ClaudeCode and OpenAI's LLMs, facilitating cross-platform agent development with configurable model endpoints and API integrations.
+- **Tool Integration & Extensibility**: Supports dynamic tool registration (e.g., Anthropic ClaudeCode, OpenAI LLM APIs) via a modular plugin system, allowing runtime addition of custom tools (e.g., linters, debuggers) without codebase modifications.
 
-- **Scalable Agent Architecture**: Implements modular design with Python-based async/await patterns, optimized for high-throughput workflows in software engineering automation.
+- **State Management & Fault Tolerance**: Utilizes a persistent task queue (e.g., Redis) for state recovery, with built-in retry logic and error handling to ensure robustness during long-running asynchronous workflows.
 
 ## Why It Matters
 
@@ -45,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 10086
-- Forks: 1156
+- Stars: 10088
+- Forks: 1157
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-07-02T16:56:16Z
+- Last Updated: 2026-07-02T21:37:28Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z
-- Pushed At: 2026-07-02T17:05:07Z
+- Pushed At: 2026-07-02T21:38:13Z
 
 ## Possible Use Cases
 

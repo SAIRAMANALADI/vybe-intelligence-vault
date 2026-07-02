@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by mgh2. Score: 55, Comments: 2.
+Hacker News story by mgh2. Score: 497, Comments: 158.
 Original Link: https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv
 
 ## Use Cases

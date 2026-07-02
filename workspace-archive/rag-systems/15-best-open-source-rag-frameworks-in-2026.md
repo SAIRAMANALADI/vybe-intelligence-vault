@@ -6,7 +6,7 @@ source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
 local_vault_path: ai/rag/15-best-open-source-rag-frameworks-in-2026.md
 quality_score: 70
-archive_score: 76
+archive_score: 74
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Modular framework (105k ⭐) for chaining LLM components with data connectors, model flexibility, and retrieval pipelines; integrates with LangSmith/LangGraph for debugging/workflow management.
-
-- **RAGFlow**: Open-source RAG engine (48.5k ⭐) specializing in deep document parsing (PDFs/tables) with GraphRAG, agentic reasoning, and dual storage (Elasticsearch/Infinity) via Python SDK/REST APIs.
-
-- **Milvus**: High-performance vector database (33.9k ⭐) optimized for ANN search, hybr
+- **LangChain**: Modular framework for LLM/RAG pipelines with 100k+ GitHub stars, offering model flexibility, vector store integrations, retrieval components, and evaluation tools via `pip install -U langchain`.
+- **RAGFlow**: Open-source RAG engine with deep document parsing (PDFs/tables), GraphRAG support, and visual web interface; deployable via Docker with 48.5k GitHub stars.
+- **Milvus**: High-performance, distributed vector database optimized for ANN search in RAG systems, supporting multi
 
 ## Use Cases
 

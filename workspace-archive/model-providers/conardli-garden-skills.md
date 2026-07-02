@@ -6,7 +6,7 @@ source_url: https://github.com/ConardLi/garden-skills
 resource_id: github:conardli/garden-skills
 local_vault_path: ai/rag/conardli-garden-skills.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -16,8 +16,6 @@ tags:
 - css
 - github-repo
 - hackernews
-- models
-- openai
 - rag
 selection_reason:
 - Strong keyword match
@@ -29,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -37,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Open-source collection by ConardLi covering web design, knowledge retrieval, image generation, and other technical skills, with 9,062 stars and 1,222 forks.
-- **Technical Stack**: Primarily implemented in CSS, with integrations for AI agents (Claude), GPT-4 Image Generation, and RAG (Retrieval-Augmented Generation) pipelines.
-- **Last Update**: Repository last updated on **2026-07-02T16:07:07Z**, indicating active maintenance.
+- **Repository Overview**: Open-source collection by ConardLi covering web design, knowledge retrieval, image generation, and other technical skills.
+- **Technical Stack**: Primarily implemented in CSS, with integrations for AI agents (Claude), RAG (Retrieval-Augmented Generation), and GPT-image-2 for image generation.
+- **Project Metrics**: 9,064 stars, 1,223 forks, last updated July 2, 2026.
 
 ## Use Cases
 

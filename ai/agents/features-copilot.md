@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-07-02T10:00:12.041080+05:30'
-collected_at: '2026-07-02T10:00:12.041094+05:30'
+published_at: '2026-07-03T03:56:32.311391+05:30'
+collected_at: '2026-07-03T03:56:32.311405+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-07-02T10:00:12.041094+05:30'
-last_seen: '2026-07-02T10:00:12.041094+05:30'
-last_checked: '2026-07-02T10:00:12.041094+05:30'
+first_seen: '2026-07-03T03:56:32.311405+05:30'
+last_seen: '2026-07-03T03:56:32.311405+05:30'
+last_checked: '2026-07-03T03:56:32.311405+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent orchestration**: GitHub Copilot CLI enables parallelized subagent execution via `/fleet`, allowing concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, converging on a decision-ready result.
+- **Multi-agent orchestration**: GitHub Copilot CLI enables parallelized subagent execution via `/fleet`, allowing concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching and result convergence.
 
-- **GitHub-native workflow integration**: Built on GitHub’s Model Context Protocol (MCP), it natively interacts with issues, PRs, and branches, supporting `/plan` to `/pr` workflows, branch protections, and inherited Copilot Business/Enterprise governance policies.
+- **Native GitHub integration**: Built on GitHub’s Model Context Protocol (MCP), it directly interacts with issues, PRs, branches, and labels, inheriting organization policies (branch protections, governance) while supporting `/plan` to PR workflows with explicit user approval for changes.
 
-- **Terminal-to-IDE continuity**: Supports `/remote` device-agnostic monitoring, `/resume` for session persistence, and seamless transitions between CLI (`/plan`, `/delegate`) and VS Code for refinement, with explicit user approval required for all file modifications and commands.
+- **Session persistence & extensibility**: Maintains context across sessions via memory/compaction, supports `/resume` for long-running tasks, and allows customization via `AGENTS.md` skills/MCP servers, with experimental features accessible via `/experimental show`.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-02T10:00:12.041080+05:30
+- Published: 2026-07-03T03:56:32.311391+05:30
 
 ## Related Tags
 

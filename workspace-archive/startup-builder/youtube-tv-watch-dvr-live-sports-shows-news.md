@@ -2,7 +2,7 @@
 title: YouTube TV - Watch & DVR Live Sports, Shows & News
 archive_category: startup-builder
 source_category: ai/rag
-source_url: https://tv.youtube.com/
+source_url: https://tv.youtube.com/welcome?utm_source=hc_banner&utm_medium=help_center&utm_campaign=world_cup_2026_promo
 resource_id: blog:youtube-tv-watch-dvr-live-sports-shows-news
 local_vault_path: ai/rag/youtube-tv-watch-dvr-live-sports-shows-news.md
 quality_score: 70
@@ -34,15 +34,14 @@ selection_reason:
 
 ## Summary
 
-- **Pricing & Plans**:
-  - Main YouTube TV plan: **$67.99/month for first 3 months** (save $45), then **$82.99/month** (offer ends 8/26/2026).
-  - New Sports Plan: **$54.99/month for first year** (save $120), then **$64.99/month**.
+- **Pricing & Promotions**: New users pay **$67.99/month for 3 months** (main plan), then **$82.99/month**; Sports Plan is **$54.99/month for 12 months**, then **$64.99/month**. Offers end **August 26, 2026**.
 
-- **Core Features**:
-  - **Unlimited DVR storage**, **multiview** (up to 4 streams), **6 household accounts**, and **3 simultaneous streams**.
-  - **No contracts, hidden fees, or installation costs**; includes local channels (NBC, CBS, FOX, ABC, ESPN, etc.).
+- **Plan Features**:
+  - **Main Plan**: 100+ channels, unlimited DVR, multiview, 6 household accounts, 3 streams.
+  - **Sports Plan**: 30+ channels, unlimited DVR, multiview, 6 household accounts, 3 streams.
 
-- **Add
+- **Add-Ons & Extras**:
+  - **4K Plus ($9.99/mo)**: Unlimited streams, offline p
 
 ## Use Cases
 
@@ -52,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://tv.youtube.com/
+Original source URL: https://tv.youtube.com/welcome?utm_source=hc_banner&utm_medium=help_center&utm_campaign=world_cup_2026_promo
 
 ## Local Vault File
 

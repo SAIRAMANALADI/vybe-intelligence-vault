@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Conference Overview**: Interrupt 2026 by LangChain provides on-demand access to 23 technical sessions featuring production-grade AI agent implementations from companies like Cisco, LinkedIn, Toyota, and others.
+- **Conference Overview**: Interrupt 2026 by LangChain provides on-demand access to 23 technical sessions featuring production-grade AI agent deployments from companies like Cisco, LinkedIn, Toyota, and Lyft, covering frameworks, evaluations, and enterprise-scale implementations.
 
-- **Key Technical Topics**: Sessions cover agent evaluation frameworks (e.g., Lyft’s production evals), legal compliance in agentic systems (Chime), sandboxed execution (LangSmith), and enterprise-scale deployments (Box, MongoDB).
-
-- **Sponsorship & Tooling**: Major sponsors include
+- **Key Technical Topics**: Sessions include deep dives into agent architectures (e.g., Cisco’s CX agents, Toyota’s production systems), evaluation frameworks (e.g., Lyft’s production evals, Chime’s legal compliance),
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-07-02T22:34:20.379487+05:30'
+collected_at: '2026-07-03T03:51:20.155763+05:30'
 published_at: '2026-07-02T11:01:07Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 1486
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-07-02T10:29:33Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-07-02T22:34:20.379487+05:30'
-last_seen: '2026-07-02T22:34:20.379487+05:30'
-last_checked: '2026-07-02T22:34:20.379487+05:30'
+first_seen: '2026-07-03T03:51:20.155763+05:30'
+last_seen: '2026-07-03T03:51:20.155763+05:30'
+last_checked: '2026-07-03T03:51:20.155763+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Full-stack AI agent template** with FastAPI backend and Next.js frontend, pre-integrated with **20+ AI services** (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI) and **RAG pipelines** for LLM-driven workflows.
+- **Full-stack AI agent template** integrating FastAPI (backend) with Next.js (frontend), featuring built-in AI agents, RAG, streaming, authentication, and 20+ pre-configured integrations (e.g., CrewAI, LangChain, LangGraph).
 
-- **Production-ready features** including **authentication**, **PostgreSQL persistence**, **WebSocket streaming**, and **Dockerized deployment** for scalable AI agent applications.
+- **Tech stack**: Python (FastAPI, Pydantic, PostgreSQL), TypeScript/React (Next.js), Docker for containerization, WebSocket for real-time communication, and LLM support via LangChain/Pydantic-AI.
 
-- **TypeScript/Python hybrid stack** with **Pydantic-Deep** validation, **React** UI components, and modular agent frameworks for rapid AI app development.
+- **Key features**: Pre-built AI agent framework, modular architecture, and out-of-the-box integrations (e.g., auth, RAG, streaming) for rapid deployment of scalable AI applications.
 
 ## Why It Matters
 

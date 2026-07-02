@@ -4,12 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-02T22:34:50.276001+05:30'
+collected_at: '2026-07-03T03:51:50.090838+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
 - github-repo
-- meta-ai
-- models
 - python
 - rag
 stars: 263
@@ -19,9 +17,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-02T22:34:50.276001+05:30'
-last_seen: '2026-07-02T22:34:50.276001+05:30'
-last_checked: '2026-07-02T22:34:50.276001+05:30'
+first_seen: '2026-07-03T03:51:50.090838+05:30'
+last_seen: '2026-07-03T03:51:50.090838+05:30'
+last_checked: '2026-07-03T03:51:50.090838+05:30'
 health_score: 100
 ---
 
@@ -29,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Python-based Retrieval-Augmented Generation (RAG) system optimized for Vietnamese text processing, integrating vector search with large language models (LLMs) for contextual retrieval.
+- **RAG Implementation for Vietnamese**: Repository demonstrates best practices for Vietnamese Retrieval-Augmented Generation (RAG) systems, focusing on efficient retrieval and generation pipelines tailored for Vietnamese language processing.
 
-- **Key Features**: Demonstrates best practices in Vietnamese RAG, including text preprocessing, embedding generation (e.g., using `sentence-transformers` or `Vietnamese-specific models`), and retrieval-augmented generation pipelines with frameworks like LangChain or LlamaIndex.
+- **Python-Based Backend**: Utilizes Python for backend development, integrating libraries like `FAISS` (Facebook AI Similarity Search) for vector storage and retrieval, and `sentence-transformers` for embedding generation.
 
-- **Architecture**: Likely employs a modular design with components for document ingestion, vector storage (e.g., FAISS, Chroma, or Weaviate), retrieval (semantic search), and LLM integration (e.g., fine-tuned Vietnamese LLMs or APIs like ViT5).
+- **Modular Architecture**: Implements a modular design with components for document preprocessing, vector indexing, retrieval, and response generation, optimized for Vietnamese text handling and scalability.
 
 ## Why It Matters
 

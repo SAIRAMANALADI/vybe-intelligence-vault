@@ -8,17 +8,14 @@ local_vault_path: ai/rag/techwithtim-productiongraderagpythonapp.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
-- hackernews
-- meta-ai
-- models
 - python
 - rag
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # techwithtim/ProductionGradeRAGPythonApp
@@ -27,15 +24,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Repository Overview**: Python-based RAG (Retrieval-Augmented Generation) application designed for production-grade deployment, with 70 stars and 46 forks.
-- **Technical Stack**: Utilizes Python for implementation, though specific libraries/frameworks (e.g., LangChain, LlamaIndex) are not detailed in metadata.
-- **Last Update**: Repository last modified on **2026-06-29T14:39:40Z**, indicating active maintenance or recent changes.
+- **Repository Overview**: A Python-based application repository (`techwithtim/ProductionGradeRAGPythonApp`) focused on a production-grade Retrieval-Augmented Generation (RAG) system, though no explicit description is provided.
+- **Metadata**: 70 stars, 46 forks, last updated on **2026-06-29T14:39:40Z**, with no associated topics or language-specific details beyond Python.
+- **Source**: Available at [GitHub](https://github.com/techwithtim/ProductionGradeRAGPythonApp).
 
 ## Use Cases
 

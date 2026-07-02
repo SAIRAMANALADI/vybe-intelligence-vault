@@ -14,7 +14,6 @@ tags:
 - hackernews
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Valuable developer reference
 ---
@@ -31,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Event**: GraphTalk Manufacturing – Germany, a Neo4j-hosted conference in Europe on July 2, 2026, focusing on leveraging connected data in manufacturing.
-- **Objective**: Explore how graph technologies enable real-time data integration, analytics, and decision-making in industrial workflows.
-- **Target Audience**: Manufacturing professionals, data engineers, and IT leaders seeking to optimize operations through graph-based data solutions.
+- **Event**: LJC Meetup at Neo4j – "Smarter Search with Spring AI and Neo4j" (London, July 2, 2026, 6:00 PM BST).
+- **Focus**: Integration of **Spring AI** with **Neo4j** for enhanced search capabilities using graph-based AI techniques.
+- **Target Audience**: Java/Graph AI developers interested in leveraging **Spring AI** for **Neo4j**-powered intelligent search solutions.
 
 ## Use Cases
 

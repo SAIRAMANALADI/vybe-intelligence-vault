@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-07-02T22:35:15.355366+05:30'
+collected_at: '2026-07-03T03:52:15.224516+05:30'
 published_at: '2026-07-01T15:02:46Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-07-02T22:35:15.355366+05:30'
-last_seen: '2026-07-02T22:35:15.355366+05:30'
-last_checked: '2026-07-02T22:35:15.355366+05:30'
+first_seen: '2026-07-03T03:52:15.224516+05:30'
+last_seen: '2026-07-03T03:52:15.224516+05:30'
+last_checked: '2026-07-03T03:52:15.224516+05:30'
 health_score: 100
 ---
 
@@ -30,14 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise search and QA performance.
+- **EnterpriseRAG-Bench**: A specialized benchmark dataset designed for evaluating Retrieval-Augmented Generation (RAG) systems on company internal documents, enabling assessment of performance in enterprise contexts.
 
-- **Key Features**:
-  - Synthetic data generation for internal knowledge bases.
-  - Evaluation metrics for semantic search, retrieval accuracy, and LLM response quality.
-  - Supports Python-based RAG pipelines and large language model (LLM) testing.
+- **Key Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based QA tasks, with support for Python-based implementations and multi-topic enterprise search scenarios.
 
-- **Scope**: Covers enterprise use cases including document retrieval, generative AI, and LLM evaluation, with a focus on internal knowledge base integration.
+- **Metrics & Scope**: Focuses on RAG evaluation metrics (e.g., retrieval accuracy, answer correctness) across enterprise domains, with last update in July 2026 and active community engagement (433 stars, 45 forks).
 
 ## Why It Matters
 

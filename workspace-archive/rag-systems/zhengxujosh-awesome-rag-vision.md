@@ -6,9 +6,9 @@ source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
 resource_id: github:zhengxujosh/awesome-rag-vision
 local_vault_path: ai/rag/zhengxujosh-awesome-rag-vision.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
@@ -17,7 +17,7 @@ tags:
 - unknown
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # zhengxuJosh/Awesome-RAG-Vision
@@ -25,17 +25,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including methods integrating vision-language models, multimodal retrieval, and contextual augmentation.
-
-- **Scope & Focus**: Encompasses cutting-edge RAG approaches for CV tasks such as image captioning, visual question answering (VQA), and cross-modal retrieval, emphasizing hybrid architectures combining vi
+- **Curated Resource**: A structured collection of advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, including state-of-the-art methods and frameworks.
+- **Scope**: Encompasses **multimodal RAG** approaches, integrating vision-language models (VLMs), cross-modal retrieval, and domain-specific adaptations for CV tasks (e.g., image captioning, visual question answering).
+- **Dynamic Updates**: Actively maintained repository with the la
 
 ## Use Cases
 

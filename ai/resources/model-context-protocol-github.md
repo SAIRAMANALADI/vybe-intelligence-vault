@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/modelcontextprotocol
-published_at: '2026-07-02T15:10:20.182134+05:30'
-collected_at: '2026-07-02T15:10:20.182146+05:30'
+published_at: '2026-07-03T03:58:12.635327+05:30'
+collected_at: '2026-07-03T03:58:12.635338+05:30'
 tags:
 - web-crawled
 - workflows
 status: active
 resource_id: blog:model-context-protocol-github
-first_seen: '2026-07-02T15:10:20.182146+05:30'
-last_seen: '2026-07-02T15:10:20.182146+05:30'
-last_checked: '2026-07-02T15:10:20.182146+05:30'
+first_seen: '2026-07-03T03:58:12.635338+05:30'
+last_seen: '2026-07-03T03:58:12.635338+05:30'
+last_checked: '2026-07-03T03:58:12.635338+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Protocol Definition**: MCP is an open, standardized protocol enabling bidirectional communication between LLM applications and external data sources/tools via structured context exchange.
-- **Multi-Language SDK Support**: Provides official SDKs (TypeScript, Python, Java, Kotlin, C#, Go, PHP, Ruby, Rust, Swift) for protocol implementation and server development.
-- **Project Ecosystem**: Includes core repositories for protocol specification, language-specific SDKs, sample servers, and maintained MCP servers under the Linux Foundation.
+- **Protocol Definition**: MCP is an open protocol enabling standardized integration between LLM applications and external data sources/tools via a structured interface for context exchange.
+- **Multi-Language SDK Support**: Provides official SDKs (TypeScript, Python, Java, Kotlin, C#, Go, PHP, Ruby, Rust, Swift) for protocol implementation across major programming languages.
+- **Project Ecosystem**: Hosted under The Linux Foundation, includes specification/docs, maintained servers, and authorization extensions, with contribution guidelines for community-driven development.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-02T15:10:20.182134+05:30
+- Published: 2026-07-03T03:58:12.635327+05:30
 
 ## Related Tags
 

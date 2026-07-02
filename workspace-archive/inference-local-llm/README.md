@@ -10,12 +10,12 @@ Local LLM serving enables cost-free, private, and offline AI application archite
 
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (api - ESSENTIAL Tier)
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) (api - ESSENTIAL Tier)
+- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) (tutorial - ESSENTIAL Tier)
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (benchmark - ESSENTIAL Tier)
 - [Community Providers: Ollama](https://ai-sdk.dev/providers/community-providers/ollama) (framework - USEFUL Tier)
 - [MODE: Modality-Decomposed Expert-Level Mixed-Precision Quantization for MoE Multimodal LLMs](https://arxiv.org/abs/2606.17118) (framework - USEFUL Tier)
 - [LineageMark: Multi-user White-box Watermarking for Contribution Tracing in Model Derivation Chains](https://arxiv.org/abs/2606.17123) (framework - USEFUL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
-- [FlipGuard: Defending Large Language Models Against Quantization-Conditioned Backdoor Attacks](https://arxiv.org/abs/2606.28962) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,7 +24,7 @@ https://github.com/ggerganov/llama.cpp (llama.cpp)
 https://github.com/vllm-project/vllm (vLLM)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)
-- [vndee/local-assistant-examples](https://github.com/vndee/local-assistant-examples)
+- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)
 - [llmware-ai/llmware](https://github.com/llmware-ai/llmware)
 - [google-research/scann at master · google-research/google-research · GitHub](https://github.com/google-research/google-research/tree/master/scann)
 
@@ -44,4 +44,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-07-02 22:49 IST*
+*Last updated: 2026-07-03 04:07 IST*

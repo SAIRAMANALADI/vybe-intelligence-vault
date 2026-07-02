@@ -15,7 +15,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Azure RAG Implementation**: Python-based example demonstrating Retrieval Augmented Generation (RAG) using Azure services, integrating document retrieval with large language models for enhanced responses.
+- **RAG Implementation**: Demonstrates Retrieval Augmented Generation (RAG) using Azure services (e.g., Azure Cognitive Search, Azure OpenAI) to enhance LLM responses with external data retrieval.
 
-- **Repository Metadata**: 53 stars, 226 forks, last updated April 23, 2026; focuses on Azure cloud integration for RAG workflows without additional topics or dependencies.
+- **Python-Based**: Entirely written in Python, leveraging Azure SDKs (e.g., `azure-search-documents`, `azure-ai-openai`) for seamless integration with Azure cloud services.
 
-- **Key Components**: Likely leverages Azure Cognitive Search for retrieval and Azure OpenAI (or similar) for generat
+- **Deployment-Ready**: Includes infrastructure-as-code (IaC) templates (e.g., Bicep/ARM) for automated Azure resource provisio
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-07-02T22:34:01.614951+05:30'
-collected_at: '2026-07-02T22:34:01.614964+05:30'
+published_at: '2026-07-03T03:51:02.795018+05:30'
+collected_at: '2026-07-03T03:51:02.795030+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-07-02T22:34:01.614964+05:30'
-last_seen: '2026-07-02T22:34:01.614964+05:30'
-last_checked: '2026-07-02T22:34:01.614964+05:30'
+first_seen: '2026-07-03T03:51:02.795030+05:30'
+last_seen: '2026-07-03T03:51:02.795030+05:30'
+last_checked: '2026-07-03T03:51:02.795030+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Modular framework (105k ⭐) for chaining LLM components with data connectors, model flexibility, and retrieval pipelines; integrates with LangSmith/LangGraph for debugging/workflow management.
-
-- **RAGFlow**: Open-source RAG engine (48.5k ⭐) specializing in deep document parsing (PDFs/tables) with GraphRAG, agentic reasoning, and dual storage (Elasticsearch/Infinity) via Python SDK/REST APIs.
-
-- **Milvus**: High-performance vector database (33.9k ⭐) optimized for ANN search, hybrid queries, and multi-modal embeddings; scales horizontally and integrates with major RAG frameworks (LangChain/LlamaIndex).
+- **LangChain**: Modular framework for LLM/RAG pipelines with 100k+ GitHub stars, offering model flexibility, vector store integrations, retrieval components, and evaluation tools via `pip install -U langchain`.
+- **RAGFlow**: Open-source RAG engine with deep document parsing (PDFs/tables), GraphRAG support, and visual web interface; deployable via Docker with 48.5k GitHub stars.
+- **Milvus**: High-performance, distributed vector database optimized for ANN search in RAG systems, supporting multi-modal embeddings and hybrid queries; deployable via `docker run milvusdb/milvus:latest`.
 
 ## Why It Matters
 
@@ -47,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T22:34:01.614951+05:30
+- Published: 2026-07-03T03:51:02.795018+05:30
 
 ## Related Tags
 

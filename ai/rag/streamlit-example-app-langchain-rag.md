@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-02T22:34:40.314544+05:30'
+collected_at: '2026-07-03T03:51:40.177818+05:30'
 published_at: '2026-06-30T01:41:05Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-02T22:34:40.314544+05:30'
-last_seen: '2026-07-02T22:34:40.314544+05:30'
-last_checked: '2026-07-02T22:34:40.314544+05:30'
+first_seen: '2026-07-03T03:51:40.177818+05:30'
+last_seen: '2026-07-03T03:51:40.177818+05:30'
+last_checked: '2026-07-03T03:51:40.177818+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval using LangChain's `HybridSearchRetriever` for enhanced document retrieval accuracy.
+- **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval in LangChain for enhanced RAG performance.
 
-- **LangChain & RAG Pipeline**: Implements a Retrieval-Augmented Generation (RAG) workflow with a vector store (e.g., FAISS or Chroma) for document storage and retrieval, followed by LLM-based response generation.
+- **LangChain + Vectorstore Pipeline**: Implements a retrieval-augmented generation workflow using LangChain's modular components (e.g., document loaders, embeddings, retrievers) and a vector database (e.g., FAISS, Chroma).
 
-- **Streamlit UI**: Provides a web interface via Streamlit to interact with the RAG system, allowing users to input queries and receive contextually augmented responses dynamically.
+- **Streamlit UI for RAG**: Provides a real-time interactive interface via Streamlit to visualize and query the RAG system, showcasing hybrid search results and generated responses.
 
 ## Why It Matters
 

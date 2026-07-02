@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crazyaiml/Superml.DataTruth
-collected_at: '2026-06-30T20:18:31.073180+05:30'
+collected_at: '2026-07-03T03:54:25.324274+05:30'
 published_at: '2026-05-16T00:04:25Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-12-31T17:08:30Z'
 pushed_at: '2026-06-26T01:37:44Z'
 resource_id: github:crazyaiml/superml.datatruth
-first_seen: '2026-06-30T20:18:31.073180+05:30'
-last_seen: '2026-06-30T20:18:31.073180+05:30'
-last_checked: '2026-06-30T20:18:31.073180+05:30'
+first_seen: '2026-07-03T03:54:25.324274+05:30'
+last_seen: '2026-07-03T03:54:25.324274+05:30'
+last_checked: '2026-07-03T03:54:25.324274+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Natural Language Querying**: Enables SQL-free data querying via natural language processing (NLP) for AI-native analytics.
-- **Instant Visualization & Semantic Enforcement**: Provides real-time data visualization and enforces data quality at the semantic layer.
-- **Python-Based ML Integration**: Built in Python, leveraging machine learning for AI-driven analytics, data processing, and visualization.
+- **Natural Language Query Engine**: Enables users to query structured/unstructured data using plain English, eliminating the need for SQL or complex query syntax.
+- **Semantic Data Quality Layer**: Automatically enforces data integrity and consistency at the semantic level, ensuring reliable analytics without manual validation.
+- **Real-Time Visualization & ML Integration**: Instantly generates interactive dashboards and leverages ML models for predictive insights, all within a Python-based AI-native framework.
 
 ## Why It Matters
 

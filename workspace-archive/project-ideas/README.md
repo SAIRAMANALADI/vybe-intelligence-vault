@@ -8,7 +8,6 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ## Top Matched Resources
 
-- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) (template - ESSENTIAL Tier)
 - [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560) (benchmark - USEFUL Tier)
 - [DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving](https://arxiv.org/abs/2606.07001) (prompt - USEFUL Tier)
 - [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (template - USEFUL Tier)
@@ -16,15 +15,16 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 - [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) (benchmark - USEFUL Tier)
 - [AutoMine Solution for AV2 2026 Scenario Mining Challenge](https://arxiv.org/abs/2606.11874) (prompt - USEFUL Tier)
 - [From Prompts to Tokens: Internalizing Causal Supervision in Vision-Language Model for Multi-Image Causal Reasoning](https://arxiv.org/abs/2606.11745) (prompt - USEFUL Tier)
+- [Modeling Complex Behaviors: Multi-Personality Composition and Dynamic Switching in Vision-Language Models](https://arxiv.org/abs/2606.11074) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 - [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
+- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search)
 - [crewAIInc/awesome-crewai](https://github.com/crewAIInc/awesome-crewai)
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
 - [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
-- [nekomeowww (Neko) · GitHub](https://github.com/nekomeowww)
 
 ## Best Learning Resources
 
@@ -40,4 +40,4 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ---
 
-*Last updated: 2026-07-02 22:50 IST*
+*Last updated: 2026-07-03 04:07 IST*

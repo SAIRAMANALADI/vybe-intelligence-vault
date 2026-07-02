@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raganwald/raganwald.github.com
-collected_at: '2026-07-02T22:33:55.230444+05:30'
+collected_at: '2026-07-03T03:50:55.150603+05:30'
 published_at: '2026-06-28T19:26:47Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2012-02-19T03:15:00Z'
 pushed_at: '2026-06-28T19:26:42Z'
 resource_id: github:raganwald/raganwald.github.com
-first_seen: '2026-07-02T22:33:55.230444+05:30'
-last_seen: '2026-07-02T22:33:55.230444+05:30'
-last_checked: '2026-07-02T22:33:55.230444+05:30'
+first_seen: '2026-07-03T03:50:55.150603+05:30'
+last_seen: '2026-07-03T03:50:55.150603+05:30'
+last_checked: '2026-07-03T03:50:55.150603+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Static Site Generator**: Uses Jekyll to compile Markdown/HTML into a static site hosted on GitHub Pages.
-- **Repository Structure**: Contains source files for `raganwald.com`, including templates, assets, and content.
-- **GitHub Integration**: Hosted on GitHub with 30 stars and 60 forks, last updated in 2026.
+- **Jekyll-based static site generator**: Repository contains the source for `raganwald.com`, built using Jekyll, a Ruby-based static site generator.
+- **Minimalistic structure**: Hosted as a GitHub Pages repository with HTML as the primary language, indicating a lightweight, content-focused structure.
+- **Outdated metadata**: Last commit timestamp (`2026-06-28T19:26:47Z`) suggests potential future-dated metadata or an error in repository tracking.
 
 ## Why It Matters
 

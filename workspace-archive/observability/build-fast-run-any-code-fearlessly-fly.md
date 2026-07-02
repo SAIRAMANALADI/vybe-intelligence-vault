@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Hardware-virtualized containers (Fly Machines)**: Launch instantly, run only when needed, and scale to tens of thousands of instances with sub-second startup times, supporting HTTP requests and untrusted code execution in isolated sandboxes.
-- **Global, low-latency infrastructure**: Deploy in 18 regions with sub-100ms response times, featuring built-in private networking, end-to-end encryption, and persistent NVMe storage alongside global object storage for durable data retention.
-- **Enterp
+- **Hardware-virtualized Fly Machines**: Launch instant, isolated containers with dedicated CPU/memory/networking, billed per-second; supports untrusted code execution and scales to tens of thousands of instances.
+- **Global, low-latency infrastructure**: 18 regions with sub-100ms response times, built-in private networking, and end-to-end encryption; optimized for distributed systems (e.g., CockroachDB, globally-distributed Postgres).
+- **Enterprise-grade security**: KVM-hardened isolation, mem
 
 ## Use Cases
 

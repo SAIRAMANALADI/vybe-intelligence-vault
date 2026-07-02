@@ -6,9 +6,9 @@ source_url: https://github.com/gomate-community/awesome-papers-for-rag
 resource_id: github:gomate-community/awesome-papers-for-rag
 local_vault_path: ai/rag/gomate-community-awesome-papers-for-rag.md
 quality_score: 70
-archive_score: 75
+archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
@@ -17,8 +17,10 @@ tags:
 - paper
 - python
 - rag
+- workflows
 selection_reason:
-- Useful for project building
+- Strong keyword match
+- Active open-source repository
 ---
 
 # gomate-community/awesome-papers-for-rag
@@ -26,16 +28,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, benchmarks, and frameworks focused on retrieval-augmented generation (RAG), emphasizing technical depth in hybrid retrieval-generation architectures.
-- **Python-Centric Tooling**: Hosts Python-based implementations, libraries, and evaluation tools for RAG systems, supporting reproducibility and integration with ML pipelines.
-- **Last Updated**: Repository metadata indicates last synchronization on **2026-07-01T02:40:05Z**,
+- **Curated RAG Research**: Repository aggregates peer-reviewed papers and technical resources on retrieval-augmented generation (RAG), spanning architectural innovations, efficiency optimizations, and evaluation methodologies.
+- **Python-Centric Tooling**: Primarily Python-based, with implementations and benchmarks leveraging libraries like `transformers`, `langchain`, and `faiss` for retrieval and generation workflows.
+- **Last Updated 2026-07-01**: Repository snapshot reflects the latest adva
 
 ## Use Cases
 

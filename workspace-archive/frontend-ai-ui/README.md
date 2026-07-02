@@ -14,8 +14,8 @@ Aesthetic, responsive AI chat interfaces and bento grids enhance user engagement
 - [Next.js by Vercel - The React Framework](https://nextjs.org/) (framework - USEFUL Tier)
 - [Overview - Mem0](https://docs.mem0.ai/overview) (tutorial - USEFUL Tier)
 - [Builder.io: Collaborative Platform to Build With AI Agents](https://builder.io) (prompt - USEFUL Tier)
-- [Styles and CSS | Docs](https://docs.astro.build/en/guides/styling/#tailwind) (tutorial - USEFUL Tier)
 - [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine) (template - USEFUL Tier)
+- [jolbol1/nextjs-velite-blog-template](https://github.com/jolbol1/nextjs-velite-blog-template) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -44,4 +44,4 @@ https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
 
 ---
 
-*Last updated: 2026-07-02 22:50 IST*
+*Last updated: 2026-07-03 04:07 IST*

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-07-02T22:38:20.758951+05:30'
-collected_at: '2026-07-02T22:38:20.758964+05:30'
+published_at: '2026-07-03T03:55:27.529218+05:30'
+collected_at: '2026-07-03T03:55:27.529230+05:30'
 tags:
 - agents
 - creative_dev
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-07-02T22:38:20.758964+05:30'
-last_seen: '2026-07-02T22:38:20.758964+05:30'
-last_checked: '2026-07-02T22:38:20.758964+05:30'
+first_seen: '2026-07-03T03:55:27.529230+05:30'
+last_seen: '2026-07-03T03:55:27.529230+05:30'
+last_checked: '2026-07-03T03:55:27.529230+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with support for Gradio, Docker, and static HTML/JS applications, including GPU acceleration for performance-critical workloads.
+- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting on user/organization profiles with support for Gradio SDK, Docker, and static HTML/JS applications, including GPU acceleration for performance-critical workloads.
 
-- **Storage & Compute**: Spaces supports disk usage management, custom domains, and ZeroGPU/GPU upgrades for scalable ML inference, with configurations for Docker-based environments and embedded deployment options.
+- **Multi-SDK Support**: Provides native integration for Gradio, Docker, and custom Python/HTML/JS stacks, with advanced configurations like ZeroGPU, Dev Mode, and custom domains for flexible deployment.
 
-- **Integration & Automation**: Provides GitHub Actions integration for CI/CD, OAuth/Sign-In with Hugging Face, and MCP server/agent tool support for programmatic interaction with hosted Spaces.
+- **Collaboration & Extensibility**: Supports GitHub Actions for CI/CD, OAuth-based authentication, and embedding via MCP servers or API endpoints, with storage management via Xet backend and disk usage monitoring.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T22:38:20.758951+05:30
+- Published: 2026-07-03T03:55:27.529218+05:30
 
 ## Related Tags
 

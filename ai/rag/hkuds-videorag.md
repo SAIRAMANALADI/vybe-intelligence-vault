@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-07-02T22:35:40.344813+05:30'
-published_at: '2026-07-02T13:47:35Z'
+collected_at: '2026-07-03T03:52:40.172330+05:30'
+published_at: '2026-07-02T19:18:17Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - youtube
-stars: 3091
+stars: 3092
 language: Python
 status: active
 license: NOASSERTION
@@ -21,9 +19,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-07-02T22:35:40.344813+05:30'
-last_seen: '2026-07-02T22:35:40.344813+05:30'
-last_checked: '2026-07-02T22:35:40.344813+05:30'
+first_seen: '2026-07-03T03:52:40.172330+05:30'
+last_seen: '2026-07-03T03:52:40.172330+05:30'
+last_checked: '2026-07-03T03:52:40.172330+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to "chat" with videos via multi-modal inputs and outputs.
-- **Technical Stack**: Implemented in Python, leveraging Large Language Models (LLMs) and multi-modal architectures to process and generate responses from video content.
-- **Key Features**: Supports long-video understanding, multi-modal interactions, and efficient retrieval mechanisms, optimized for KDD'2026 benchmarking.
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to "chat" with video content via multi-modal inputs and structured retrieval mechanisms.
+
+- **Multi-Modal Integration**: Combines vision (video frames), audio, and text modalities, leveraging advanced encoders (e.g., CLIP, Whisper) and cross-modal attention for unified representation learning.
+
+- **Efficient Retrieval**: Implements hierarchical or sparse retrieval strategies (e.g., shot/scene-level indexing) to handle long-form video data, optimizing context relevance for LLMs while mitigating computational overhead.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 3091
+- Stars: 3092
 - Forks: 435
 - Language: Python
 - Topics: large-language-models, llms, long-video-understanding, multi-modal-llms, rag, retrieval-augmented-generation
-- Last Updated: 2026-07-02T13:47:35Z
+- Last Updated: 2026-07-02T19:18:17Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-02-03T03:59:11Z

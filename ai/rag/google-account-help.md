@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/accounts?hl=en-US&p=account_iph
-published_at: '2026-07-02T22:43:28.472417+05:30'
-collected_at: '2026-07-02T22:43:28.472433+05:30'
+published_at: '2026-07-03T03:57:23.359669+05:30'
+collected_at: '2026-07-03T03:57:23.359682+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:google-account-help
-first_seen: '2026-07-02T22:43:28.472433+05:30'
-last_seen: '2026-07-02T22:43:28.472433+05:30'
-last_checked: '2026-07-02T22:43:28.472433+05:30'
+first_seen: '2026-07-03T03:57:23.359682+05:30'
+last_seen: '2026-07-03T03:57:23.359682+05:30'
+last_checked: '2026-07-03T03:57:23.359682+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Account Security**: Google supports **2-Step Verification (2FA)**, **Advanced Protection Program**, and **Enhanced Safe Browsing** to mitigate unauthorized access risks, including phishing and credential stuffing attacks.
+- **Account Security & Recovery**: Google Accounts support 2-Step Verification (2FA), Advanced Protection Program, and Enhanced Safe Browsing; account recovery involves identity verification via recovery email/phone, security questions, or trusted devices.
 
-- **Recovery & Access Control**: Google provides **multi-factor recovery options** (SMS, email, security keys), **cross-account protection**, and **inactive account policies** (3-18 months of inactivity triggers deletion or transfer via Inactive Account Manager).
+- **Data Management & Privacy**: Users can control activity logging (Web & App Activity, Location History), manage stored data (Timeline, emails, files), and enforce deletion policies (auto-delete controls, manual deletion, or account termination).
 
-- **Data Privacy & App Linking**: Users can manage **activity controls**, **third-party app permissions**, and **data sharing** via Google Account Linking, with granular controls for location, Web & App Activity, and personal information exposure.
+- **Cross-Platform & Family Integration**: Supports "Sign in with Google" OAuth 2.0 for third-party apps, Family Link for child accounts (age-based restrictions, supervision transfer), and linked digital IDs (e.g., mobile driver’s licenses).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T22:43:28.472417+05:30
+- Published: 2026-07-03T03:57:23.359669+05:30
 
 ## Related Tags
 

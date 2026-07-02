@@ -6,7 +6,7 @@ source_url: https://github.com/slavakurilyak/awesome-ai-agents
 resource_id: github:slavakurilyak/awesome-ai-agents
 local_vault_path: ai/agents/slavakurilyak-awesome-ai-agents.md
 quality_score: 70
-archive_score: 77
+archive_score: 75
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -17,7 +17,6 @@ tags:
 - paper
 - python
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
@@ -26,17 +25,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Curated Collection**: Repository hosting a structured, community-driven list of **300+ agentic AI resources**, including frameworks, tools, research papers, and libraries focused on autonomous AI agents.
-- **Technical Scope**: Primarily Python-based, emphasizing **agentic architectures**, multi-agent systems, and AI agent orchestration techniques for scalability and interoperability.
-- **Active Maintenance**: Last updated **July 2026**, with **1.5K+ stars** and **400+ forks**, indicating str
+- **Curated Resource**: GitHub repository containing 300+ curated links to agentic AI tools, frameworks, libraries, research papers, and educational materials.
+- **Technical Scope**: Focuses on AI agents, agentic systems, and autonomous decision-making frameworks, primarily in Python.
+- **Metadata**: 1,587 stars, 426 forks, last updated July 2, 2026.
 
 ## Use Cases
 

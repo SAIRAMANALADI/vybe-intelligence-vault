@@ -38,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection Scope**: Gemini Apps collect explicit user inputs (prompts, files, transcripts, feedback) and contextual metadata (device/browser data, permissions, location, app interactions) to power AI responses, personalization, and service improvements.
+- **Data Collection Scope**: Collects explicit user inputs (prompts, files, audio/video transcripts) and derived outputs (generated content, model reasoning steps, interaction logs), alongside device/app metadata (permissions, browser context, system settings) and third-party Connected App data.
 
-- **Processing & Retention**: Data is processed for service delivery, model training, and human review (with anonymization where possible), with retention tied to user settings (e.g., "Keep Activity" controls) and legal obligations.
-
--
+- **Processing & Usage**: Data is used for service provisioning, model improvement, personalization, and security under Google’s Privacy Policy, with human review for quality control; EU/UK processing b
 
 ## Use Cases
 

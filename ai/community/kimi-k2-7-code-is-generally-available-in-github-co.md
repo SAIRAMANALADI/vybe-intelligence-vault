@@ -13,13 +13,14 @@ collected_at: '2026-07-02T22:32:56.613891+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:kimi-k2-7-code-is-generally-available-in-github-co
 first_seen: '2026-07-02T15:03:24.676857+05:30'
 last_seen: '2026-07-02T22:32:56.613891+05:30'
 last_checked: '2026-07-02T22:32:56.613891+05:30'
 health_score: 100
 ---
+
 
 # Kimi K2.7 Code is generally available in GitHub Copilot
 

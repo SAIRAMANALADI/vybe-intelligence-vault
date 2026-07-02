@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **LangGraph-based multi-agent architecture** enabled controllable routing of customer escalations, reducing latency by 80% and operational costs while handling 2.5M+ conversations (equivalent to 700 FTEs).
+- **LangGraph-based multi-agent architecture** enabled scalable, controllable routing of customer escalations across departments, reducing latency, improving reliability, and cutting operational costs for Klarna’s AI assistant.
 
-- **Context-aware prompt optimization via LangSmith** dynamically tailored responses to specific scenarios, lowering token costs and improving accuracy in root cause identification for payment escalations.
+- **Context-aware prompt engineering** dynamically tailored responses to specific scenarios, optimizing token usage and latency while ensuring relevance and accuracy in customer interactions.
 
-- **Test-driven development with LangSmith** facilitated rigorous LLM evaluations an
+- **LangSmith-driven observability and evaluations** facilitated rigorous test
 
 ## Use Cases
 

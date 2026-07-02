@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/about/security/
-published_at: '2026-06-27T14:26:41.571315+05:30'
-collected_at: '2026-06-27T14:26:41.571324+05:30'
+published_at: '2026-07-03T03:57:20.542704+05:30'
+collected_at: '2026-07-03T03:57:20.542714+05:30'
 tags:
 - rag
 - reddit
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:security-model
-first_seen: '2026-06-27T14:26:41.571324+05:30'
-last_seen: '2026-06-27T14:26:41.571324+05:30'
-last_checked: '2026-06-27T14:26:41.571324+05:30'
+first_seen: '2026-07-03T03:57:20.542714+05:30'
+last_seen: '2026-07-03T03:57:20.542714+05:30'
+last_checked: '2026-07-03T03:57:20.542714+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Trust Model**: Hugo distinguishes between trusted (e.g., `layouts`, `static`, `data`) and untrusted (e.g., `content`, content adapters) sources, with exceptions for inline shortcodes. The `hugo server` is restricted to local development only.
+- **Trust Model**: Hugo distinguishes between trusted (templates, static assets, `layouts`, `archetypes`, `data`, `i18n`, `resources`) and untrusted (content, content adapters in `content`) sources, with exceptions for inline shortcodes.
 
-- **Runtime Security**: Uses a virtual file system, read-only access for user-defined components, and strict sandboxing to prevent arbitrary OS command execution. External binaries (e.g., Asciidoctor) are predefined and disabled by default.
+- **Runtime Security**: Implements a virtual file system, read-only access for user-defined components, controlled external binaries, and no arbitrary command execution; relies on Go modules with `go.sum` for dependency integrity.
 
-- **Dependency & Output Security**: Enforces Go modules with `go.sum` for dependency integrity checks; sanitizes HTML/Markdown output by default (configurable via `safe` functions) and aligns with OWASP standards for static site generation.
+- **Web Security**: Follows OWASP standards, escapes untrusted data by default, provides `safe` functions for trusted content, and sanitizes Markdown output; static generation inherently reduces attack surface.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T14:26:41.571315+05:30
+- Published: 2026-07-03T03:57:20.542704+05:30
 
 ## Related Tags
 

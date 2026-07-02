@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- models
 - unknown
 selection_reason:
 - Active open-source repository
@@ -31,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Repository designed for educational exploration of Agentic AI concepts, maintained by superml.dev.
-- **Metadata**: Contains 2 stars, 1 fork, and has an unspecified primary language; no active topics.
-- **Update Status**: Last updated on 2026-04-24T15:33:57Z.
+- **Purpose**: Educational repository for learning Agentic AI concepts, maintained by superml.dev.
+- **Metadata**: 2 stars, 1 fork, last updated on 2026-04-24.
+- **Status**: Language and topics unspecified, repository appears inactive or unclassified.
 
 ## Use Cases
 

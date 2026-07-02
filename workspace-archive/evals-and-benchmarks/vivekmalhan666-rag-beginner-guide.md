@@ -12,6 +12,8 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
+- meta-ai
+- models
 - python
 - rag
 selection_reason:
@@ -32,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-*   Implements a Retrieval-Augmented Generation (RAG) system using Python.
-*   Focuses on fundamental RAG component construction, eschewing high-level library abstractions.
-*   Provides a step-by-step guide for understanding RAG architecture from first principles.
+- **Purpose**: Step-by-step guide to building a Retrieval-Augmented Generation (RAG) system in Python from scratch, designed for beginners without relying on abstracted libraries or frameworks.
+
+- **Implementation**: Covers core RAG components, including document retrieval (vector embeddings, similarity search) and generation (LLM integration), with hands-on Python code examples.
+
+- **Scope**: Focuses on foundational RAG concepts (e.g., chunking, indexing, prompt engineering) while avoiding pre-
 
 ## Use Cases
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/crazyaiml-superml-datatruth.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tool
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
@@ -16,7 +16,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # crazyaiml/Superml.DataTruth
@@ -25,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `Frontend AI UI`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tool
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Natural Language Query Engine**: Enables users to query structured/unstructured data using plain English, eliminating the need for SQL by leveraging NLP and semantic parsing.
-- **Real-time Visualization & Insights**: Automatically generates interactive dashboards and visualizations from queried data, providing instant analytical insights.
-- **Semantic Data Quality Enforcement**: Implements AI-driven data validation and quality checks at the semantic layer, ensuring consistency and accuracy w
+- **Natural Language Query Engine**: Enables users to query structured/unstructured data using plain English, eliminating the need for SQL or complex query syntax.
+- **Semantic Data Quality Layer**: Automatically enforces data integrity and consistency at the semantic level, ensuring reliable analytics without manual validation.
+- **Real-Time Visualization & ML Integration**: Instantly generates interactive dashboards and leverages ML models for predictive insights, all within a Python-based AI-
 
 ## Use Cases
 

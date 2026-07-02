@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- GitHub has been self-hosting its platform since **October 19, 2007**, with **2.5M+ commits**, **1M+ issues**, and **650k+ PRs** across **4,357 repos** from **50+ countries**, leveraging open-source tools like **Ruby on Rails, Go, React, and Kafka**.
-
-- GitHub's open-source contributions include maintaining core tools (**GitHub CLI, Desktop, Git LFS, Primer**) and contributing heavily to **VS Code, Ruby on Rails, and Homebrew**, with **218M+ contributions** to public projects in the past year.
+- GitHub's infrastructure is built on open source technologies including Ruby on Rails, Go, Primer, React, and Kafka, with over 2.5M commits and 1M issues across 4,357 repositories since its first commit on October 19, 2007.
+- GitHub's team actively contributes to key open source projects, with their top three contributions being Visual Studio Code, Ruby on Rails, and Homebrew.
+- GitHub maintains and develops its own open source tools such as GitHub CLI, GitHub Desktop, Git LFS, and Primer, whil
 
 ## Use Cases
 

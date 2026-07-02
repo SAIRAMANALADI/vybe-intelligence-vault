@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Content**: Provides Jupyter Notebook examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan, embeddings, generative AI) and use cases like knowledge bases and RAG (Retrieval-Augmented Generation) with LangChain integration.
-
-- **Technical Scope**: Demonstrates Amazon Bedrock's capabilities, including model fine-tuning, inference, and deployment workflows, with practical implementations for AWS customers.
-
-- **Tooling & Integration**: Includes e
+- **Repository Overview**: Provides starter examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) for generative AI, embeddings, and retrieval-augmented generation (RAG) workflows.
+- **Technical Stack**: Implemented primarily in Jupyter Notebooks, leveraging LangChain for modular AI pipeline construction and AWS Knowledge Bases for data integration.
+- **Use Cases**: Demonstrates end-to-end workflows including model fine-tuning, vector embeddings, and RAG-ba
 
 ## Use Cases
 

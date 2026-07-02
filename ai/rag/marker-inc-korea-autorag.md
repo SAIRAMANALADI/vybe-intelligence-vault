@@ -4,17 +4,18 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-07-02T22:34:35.288840+05:30'
-published_at: '2026-07-02T16:14:34Z'
+collected_at: '2026-07-03T03:51:35.143779+05:30'
+published_at: '2026-07-02T18:18:02Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - hackernews
+- meta-ai
+- models
 - python
 - rag
 - scripts
-stars: 4852
+stars: 4853
 language: Python
 status: active
 license: Apache-2.0
@@ -22,9 +23,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-07-02T03:46:39Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-07-02T22:34:35.288840+05:30'
-last_seen: '2026-07-02T22:34:35.288840+05:30'
-last_checked: '2026-07-02T22:34:35.288840+05:30'
+first_seen: '2026-07-03T03:51:35.143779+05:30'
+last_seen: '2026-07-03T03:51:35.143779+05:30'
+last_checked: '2026-07-03T03:51:35.143779+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-driven RAG Optimization**: AutoRAG automates Retrieval-Augmented Generation (RAG) pipeline optimization using AutoML techniques, dynamically tuning retrieval strategies, embeddings, and generation parameters for performance without manual intervention.
+- **AutoML-Style Automation**: AutoRAG provides automated optimization of RAG pipelines, including retrieval, generation, and evaluation components, using machine learning techniques to dynamically select and tune configurations without manual intervention.
 
-- **Comprehensive RAG Evaluation Suite**: Provides built-in benchmarking and analysis tools for evaluating RAG systems across metrics like retrieval accuracy, answer correctness, and latency, supporting both open-source and custom datasets.
+- **Comprehensive Evaluation Framework**: The framework includes built-in benchmarking tools for assessing RAG performance across metrics like answer correctness, context relevance, and latency, enabling systematic comparison of different RAG strategies.
 
-- **Modular Python Framework**: Implements a flexible, pipeline-based architecture in Python, supporting document parsing, embedding generation, retrieval methods, and LLM integration with plug-and-play components for customization.
+- **Modular & Extensible Pipeline**: AutoRAG supports customizable pipelines with pluggable components (e.g., document parsers, embeddings, LLMs) and integrates with popular libraries (e.g., LangChain, LlamaIndex) for seamless deployment in production environments.
 
 ## Why It Matters
 
@@ -45,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Marker-Inc-Korea
-- Stars: 4852
+- Stars: 4853
 - Forks: 405
 - Language: Python
 - Topics: analysis, automl, benchmarking, document-parser, embeddings, evaluation, llm, llm-evaluation, llm-ops, open-source, ops, optimization, pipeline, python, qa, rag, rag-evaluation, retrieval-augmented-generation
-- Last Updated: 2026-07-02T16:14:34Z
+- Last Updated: 2026-07-02T18:18:02Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-01-10T12:25:00Z

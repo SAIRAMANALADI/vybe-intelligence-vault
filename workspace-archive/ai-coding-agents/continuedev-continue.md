@@ -12,13 +12,10 @@ resource_kind: prompt
 importance: medium
 tags:
 - agents
-- anthropic
 - github-repo
 - meta-ai
 - models
-- openai
 - typescript
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -37,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Open-source AI coding agent** implemented in TypeScript, enabling autonomous or semi-autonomous code generation, debugging, and refactoring via natural language prompts.
-- **CLI-first architecture** with extensible plugin system, supporting integration with IDEs (VS Code, JetBrains) and local/remote LLM backends (e.g., Ollama, Anthropic, OpenAI).
-- **Stateful session management** with context-aware memory, allowing persistent project-specific workflows and iterative task execution with tool-
+- **Open-source AI coding agent** implemented in TypeScript, enabling autonomous or assisted code generation, refactoring, and debugging via natural language prompts.
+- **CLI-based interface** with extensible plugin architecture, supporting integration with local/remote LLMs (e.g., GitHub Models, Ollama) and IDE plugins (VS Code, JetBrains).
+- **Stateful session management** with context-aware memory, allowing persistent multi-turn interactions for complex coding tasks while preserving project-s
 
 ## Use Cases
 

@@ -1,41 +1,42 @@
 ---
-title: docs/content/copilot/concepts/agents/copilot-cli/research.md at main · github/docs
-  · GitHub
+title: docs/content/site-policy/privacy-policies/github-general-privacy-statement.md
+  at main · github/docs · GitHub
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/github/docs/blob/main/content/copilot/concepts/agents/copilot-cli/research.md
+source_url: https://github.com/github/docs/blob/main/content/site-policy/privacy-policies/github-general-privacy-statement.md
 resource_id: github:github/docs
 local_vault_path: ai/rag/github-docs.md
 quality_score: 70
-archive_score: 75
-archive_tier: useful
+archive_score: 85
+archive_tier: essential
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
 - agents
-- frontend_ui
 - hackernews
+- models
 - rag
 - web-crawled
+- youtube
 selection_reason:
 - Active open-source repository
 ---
 
-# docs/content/copilot/concepts/agents/copilot-cli/research.md at main · github/docs · GitHub
+# docs/content/site-policy/privacy-policies/github-general-privacy-statement.md at main · github/docs · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 85 (essential)
 - Resource kind: tutorial
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Autonomous Research Agent**: The `/research` command in {% data variables.product.prodname_copilot_cli %} activates a specialized research agent that autonomously gathers and synthesizes in-depth information from local codebases, GitHub repositories (public/private), and the web, producing a comprehensive Markdown report with citations and a CLI summary.
+- **Data Controller Role Clarification**: GitHub acts as a **Data Controller** for Personal Data when users interact directly with Services, but shifts to **Data Processor** when accounts are provided by organizations (e.g., employers/schools), governed by a **Data Protection Agreement** between GitHub and the controlling entity.
 
-- **Adaptive Output & Storage**: Reports adapt to query types (process, conceptual, or technical deep-dive) and are saved as Markdown file
+- **Automated Data Collection**: GitHub collects Personal Data via **essential cookies** (for functionality) and **non-essential cookies** (for analytics/ads, with jur
 
 ## Use Cases
 
@@ -45,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/github/docs/blob/main/content/copilot/concepts/agents/copilot-cli/research.md
+Original source URL: https://github.com/github/docs/blob/main/content/site-policy/privacy-policies/github-general-privacy-statement.md
 
 ## Local Vault File
 

@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Repository**: Hosts 1,500+ technical resources/tools focused on AI agents, covering frameworks, workflows, and multi-agent systems.
-- **Multi-Topic Coverage**: Encompasses agent-based modeling, CLI tools, agentic workflows, and frameworks for AI agent development.
-- **High Activity**: Maintained with recent updates (as of 2026-07-02), featuring 1,871 stars and 592 forks, indicating strong community engagement.
+- **Comprehensive AI Agent Resource Hub**: Curated list of 1,500+ tools, frameworks, and resources for AI agents, covering agent-based modeling, multi-agent systems, agentic workflows, and CLI tools.
+- **Multi-Topic Coverage**: Encompasses 20+ subtopics including `agentic-ai`, `ai-agent-framework`, `multi-agent-systems`, and `aiworkflow`, with active maintenance (last updated July 2026).
+- **High Community Engagement**: Repository has 1,871 stars and 592 forks, indicating strong adoption and col
 
 ## Use Cases
 

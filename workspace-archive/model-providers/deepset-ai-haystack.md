@@ -1,33 +1,26 @@
 ---
-title: deepset-ai/haystack · Discussions · GitHub
+title: deepset-ai/haystack
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack/discussions
+source_url: https://github.com/deepset-ai/haystack?source=post_page
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
-tags:
-- agents
-- anthropic
-- hackernews
-- rag
-- web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# deepset-ai/haystack · Discussions · GitHub
+# deepset-ai/haystack
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +28,11 @@ selection_reason:
 
 ## Summary
 
-- **Haystack GitHub Repository**: Open-source framework by deepset-ai with 25.8k stars, 2.9k forks, and active development (70 issues, 24 PRs).
+- **Framework Purpose**: Open-source AI orchestration tool for building production-grade LLM applications with modular pipelines and agent workflows, enabling explicit control over retrieval, routing, memory, and generation components.
 
-- **Community Discussions**: Active technical discussions on debugging retrieval failures, RAG quality, runtime security (AgentShield), diagnostics engine for RAG pipelines, and agent memory protection.
+- **Technical Capabilities**: Supports scalable agents, RAG, multimodal applications, semantic search, and conversational systems with integrations for transformers, PyTorch, and major LLM APIs (e.g., GPT-4, Gemini).
 
-- **Technical Enhancements**: Proposals for async execution bridges (cowork-to-code-bridge), LLM usage tracking, table QA in Haystack 2.0, and pre-acti
+- **Architecture & Ecosystem**: Designed for
 
 ## Use Cases
 
@@ -49,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack/discussions
+Original source URL: https://github.com/deepset-ai/haystack?source=post_page
 
 ## Local Vault File
 

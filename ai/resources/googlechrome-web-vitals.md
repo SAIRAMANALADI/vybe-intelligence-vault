@@ -4,8 +4,8 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GoogleChrome/web-vitals
-collected_at: '2026-07-02T10:02:18.039518+05:30'
-published_at: '2026-07-02T00:15:43Z'
+collected_at: '2026-07-03T03:59:09.075518+05:30'
+published_at: '2026-07-02T15:40:38Z'
 tags:
 - github-repo
 - javascript
@@ -15,11 +15,11 @@ status: active
 license: Apache-2.0
 archived: false
 created_at: '2020-03-23T18:31:05Z'
-pushed_at: '2026-07-01T23:34:22Z'
+pushed_at: '2026-07-02T20:13:21Z'
 resource_id: github:googlechrome/web-vitals
-first_seen: '2026-07-02T10:02:18.039518+05:30'
-last_seen: '2026-07-02T10:02:18.039518+05:30'
-last_checked: '2026-07-02T10:02:18.039518+05:30'
+first_seen: '2026-07-03T03:59:09.075518+05:30'
+last_seen: '2026-07-03T03:59:09.075518+05:30'
+last_checked: '2026-07-03T03:59:09.075518+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Core Web Vitals**: Defines key performance metrics (LCP, FID, CLS) for assessing user experience, with JavaScript library (`web-vitals.js`) to measure and report them.
-- **Performance Measurement**: Provides standardized APIs (`PerformanceObserver`, `PerformanceEntry`) to collect real-user and synthetic lab data for optimization.
-- **Reporting & Debugging**: Supports aggregation, visualization, and debugging tools (e.g., `reportWebVitals()`) for actionable insights in production.
+- **Core Web Vitals Metrics**: Defines key performance indicators (LCP, FID, CLS) for web page health, measuring loading (Largest Contentful Paint), interactivity (First Input Delay), and visual stability (Cumulative Layout Shift).
+- **JavaScript Library**: Provides a lightweight (<1KB) open-source JS library to measure and report Core Web Vitals in real-world conditions with minimal overhead.
+- **Field & Lab Data**: Supports both synthetic testing (lab) and real user monitoring (field) via standardized APIs (`PerformanceObserver`, `Event Timing API`) for comprehensive performance analysis.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 515
 - Language: JavaScript
 - Topics: None
-- Last Updated: 2026-07-02T00:15:43Z
+- Last Updated: 2026-07-02T15:40:38Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2020-03-23T18:31:05Z
-- Pushed At: 2026-07-01T23:34:22Z
+- Pushed At: 2026-07-02T20:13:21Z
 
 ## Possible Use Cases
 

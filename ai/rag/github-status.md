@@ -3,9 +3,9 @@ title: GitHub Status
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.githubstatus.com/
-published_at: '2026-07-02T22:38:26.548801+05:30'
-collected_at: '2026-07-02T22:38:26.548807+05:30'
+source_url: https://www.githubstatus.com
+published_at: '2026-07-03T03:58:19.565466+05:30'
+collected_at: '2026-07-03T03:58:19.565475+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-07-02T22:38:26.548807+05:30'
-last_seen: '2026-07-02T22:38:26.548807+05:30'
-last_checked: '2026-07-02T22:38:26.548807+05:30'
+first_seen: '2026-07-03T03:58:19.565475+05:30'
+last_seen: '2026-07-03T03:58:19.565475+05:30'
+last_checked: '2026-07-03T03:58:19.565475+05:30'
 health_score: 100
 ---
 
@@ -26,9 +26,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Status Page** provides real-time incident reporting and uptime metrics for GitHub services (e.g., Git Operations, API Requests, Pages) across regions (AU, EU, JP, US) with 90-day historical data.
-- **Notification Subscriptions** support email, SMS (global dial codes), Slack, and webhook-based incident updates with OTP verification for security.
-- **Recent Incidents**: Pages service degraded (Jul 2, 2026), Copilot budget reset delays (Jul 1), and GitHub signup flow disruption (Jun 30), with root cause analyses and mitigations documented.
+- **GitHub Status Page** provides real-time operational status for GitHub services (e.g., Git Operations, API Requests, Actions) with 90-day uptime metrics, incident tracking, and historical data via Atom/RSS feeds.
+- **Notification Systems** support email, SMS (global carrier support), Slack, and webhook-based incident updates for GitHub service disruptions, with OTP verification for secure subscriptions.
+- **Regional Status Endpoints** (au.githubstatus.com, eu.githubstatus.com, jp.githubstatus.com, us.githubstatus.com) monitor GitHub Enterprise Cloud status by geographic region, complementing the global status page.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T22:38:26.548801+05:30
+- Published: 2026-07-03T03:58:19.565466+05:30
 
 ## Related Tags
 
@@ -52,4 +52,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.githubstatus.com/
+Original source: https://www.githubstatus.com

@@ -2,7 +2,7 @@
 title: GitHub Universe 2026
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://githubuniverse.com/?utm_source=Blog&utm_medium=GitHub&utm_campaign=module_uni_26
+source_url: https://githubuniverse.com/?utm_source=Site&utm_medium=GitHub&utm_campaign=shop_seb_uni_26
 resource_id: blog:github-universe-2026
 local_vault_path: ai/rag/github-universe-2026.md
 quality_score: 70
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Event Details**: GitHub Universe 2026 will be held **October 28–29** in **San Francisco, CA** (in-person at Fort Mason Center + virtual), with a **Day of Learning** at GitHub HQ on **October 30**.
+- **Event Overview**: GitHub Universe 2026 (Oct 28–29, San Francisco) is a hybrid (in-person/virtual) developer conference focusing on AI agents, human collaboration, and GitHub’s latest product launches, with a Day of Learning at GitHub HQ on Oct 30.
 
-- **Pricing & Discounts**: Super Early Bird pricing (**$799** in-person, **free** virtual) available until **July 8**, with team discounts (**20% off for 4+ passes**) and add-ons like workshops ($99) and certifications ($30).
+- **Pricing/Tiers**: Super Early Bird pricing ($799 in-person, $639/team) until July 8; virtual attendance is free; additional workshops/certifications available ($50–$99).
 
-- **Agenda Highlights**: Keynotes (Oct 28–29), breakout sessions, partn
+- **Agenda Highlights**: Day 1–2 feature keynotes, breakout sessions, and
 
 ## Use Cases
 
@@ -50,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://githubuniverse.com/?utm_source=Blog&utm_medium=GitHub&utm_campaign=module_uni_26
+Original source URL: https://githubuniverse.com/?utm_source=Site&utm_medium=GitHub&utm_campaign=shop_seb_uni_26
 
 ## Local Vault File
 

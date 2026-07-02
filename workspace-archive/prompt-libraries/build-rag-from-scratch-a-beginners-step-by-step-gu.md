@@ -9,7 +9,7 @@ local_vault_path: ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: template
+resource_kind: prompt
 importance: medium
 tags:
 - openai
@@ -17,7 +17,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Prompt Libraries`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: template
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Implements a modular RAG system with document loading (`document_loader.py`), vector storage (`vector_store.py` using FAISS), and retrieval-augmented generation (`rag_chain.py`), enforcing context-grounded responses via a structured prompt template.
+- **RAG Pipeline**: Implements a retrieval-augmented generation system using a two-step process: (1) **retrieval** via semantic search (FAISS + OpenAI embeddings) on document chunks, followed by (2) **generation** using a constrained LLM prompt that restricts answers to retrieved context only.
 
-- **Semantic Retrieval Mechanism**: Utilizes OpenAI embeddings to convert document chunks and queries into dense vector representations, enabling FAISS-based similarity search to retrieve top-*k* relevant context sni
+- **Modular Architecture**: Follows a clean separation of concerns with dedicated components: `document_loader.py` (text splitting), `vector_store.py` (FAISS indexing), and `rag_chain.py` (prompt engineer
 
 ## Use Cases
 

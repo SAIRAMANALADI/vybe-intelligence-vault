@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Google Play Billing Updates**: Introduces expanded billing flexibility, reduced fees, and new programs to enhance developer monetization, with details available via [blog](http://goo.gle/playdev-q3-updates) and [video](https://www.youtube.com/watch?v=hcvvo6Sag0Q).
+- **Google Play Billing Updates**: Google Play introduced expanded billing flexibility, reduced fees, and new programs to enhance developer monetization, with details available via [blog](http://goo.gle/playdev-q3-updates) and [video](https://www.youtube.com/watch?v=hcvvo6Sag0Q).
 
-- **Android 17 & XR Platform**: Android 17 source code is live on AOSP with Pixel rollout; Android XR adds expanded engine support and new tools for immersive app development.
+- **Android 17 & XR Platform**: Android 17 (API 37) is now live on AOSP with Pixel rollouts; Android XR platform updates include expanded engine support, new tools, and resources for immersive development.
 
-- **SDK License Terms**: Android Studio Quail 1 | 202
+- **Android
 
 ## Use Cases
 

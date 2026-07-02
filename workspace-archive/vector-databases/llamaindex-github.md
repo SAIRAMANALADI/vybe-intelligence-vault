@@ -6,20 +6,22 @@ source_url: https://github.com/run-llama
 resource_id: blog:llamaindex-github
 local_vault_path: ai/rag/llamaindex-github.md
 quality_score: 70
-archive_score: 75
-archive_tier: useful
-resource_kind: framework
-importance: medium
+archive_score: 85
+archive_tier: essential
+resource_kind: tutorial
+importance: high
 tags:
 - agents
+- hackernews
 - meta-ai
 - models
 - rag
+- reddit
 - web-crawled
 - workflows
 - youtube
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # LlamaIndex · GitHub
@@ -27,18 +29,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 85 (essential)
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via `Parse` and `Extract` APIs for document processing workflows, with platform documentation available at [developers.llamaindex.ai](https://developers.llamaindex.ai/python/cloud/).
+- **LlamaParse Cloud Services**: Provides cloud-based OCR/document parsing (`Parse`, `Extract`) with state-of-the-art (SOTA) agentic OCR capabilities for document workflows and AI agents.
 
-- **Open-Source Tooling**: Includes `LiteParse` (lightweight OCR), `LlamaAgents` (agent orchestration framework), and `LlamaIndex` (Python library for LLM-based data pipelines), all with linked GitHub repositories and documentation.
+- **Open-Source Tooling**: Offers open-source alternatives (`LiteParse`, `LlamaAgents`, `LlamaIndex (Python)`) with modular architectures for local or custom deployments, including workflow orchestration and document processing.
 
-- **Community & Support
+- **Multi-Platform Integration**: Supports cross-platform integration via officia
 
 ## Use Cases
 

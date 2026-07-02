@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines LLMs with retrieval systems to fetch external information (documents, databases) for improved accuracy while avoiding context window overload; splits into **injection pipeline** (chunking, embedding) and **retrieval pipeline** (query embedding, similarity search).
+- **RAG Architecture**: Combines LLMs with retrieval systems to fetch external information (documents, databases) dynamically, avoiding context window overload; divided into **Injection Pipeline** (data ingestion, chunking, embedding) and **Retrieval Pipeline** (query embedding, similarity search, answer generation).
 
-- **Embedding Fundamentals**: Converts text chunks/queries into high-dimensional vectors (e.g., OpenAI’s 3,072-dim embeddings) where semantic similarity is preserved—closer vectors indicate related mea
+- **Embedding Fundamentals**: Converts text chunks into high-dimensional vectors (e.g., OpenAI’s `text-embedding-3-large` uses 3,072 dimensions) where semantic similarity is preser
 
 ## Use Cases
 

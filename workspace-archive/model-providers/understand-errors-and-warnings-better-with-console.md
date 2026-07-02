@@ -9,7 +9,7 @@ local_vault_path: ai/resources/understand-errors-and-warnings-better-with-consol
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 tags:
 - hackernews
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Console Insights** feature in Chrome DevTools uses AI (Gemini) to provide explanations for console errors/warnings by analyzing console messages, stack traces, source code, and network headers.
-- **Requirements** include latest Chrome version, signed-in Google Account, English (US) language setting, and enabling **AI Innovations** in DevTools settings.
-- **Data Usage & Limitations**: Input/output data is collected for product improvement; responses may be inaccurate or misleading, requiring
+- **Console Insights Feature**: Chrome DevTools integrates Google's Gemini AI to provide contextual explanations for console errors/warnings via an "Understand this error" button, requiring Chrome 121+, signed-in Google Account, and English (US) settings.
+
+- **Data Collection & Privacy**: Input data (console messages, stack traces, source code, network headers) is processed by Google for feature improvement, with human review possible; data retention is up to 18 months and excludes enterprise-ma
 
 ## Use Cases
 

@@ -4,12 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/supermldev/agenticAI
-collected_at: '2026-07-02T01:51:10.439619+05:30'
+collected_at: '2026-07-03T03:56:17.175075+05:30'
 published_at: '2026-04-24T15:33:57Z'
 tags:
 - agents
 - github-repo
-- models
 - unknown
 stars: 2
 language: Unknown
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-06-04T01:40:42Z'
 pushed_at: '2026-04-23T14:29:13Z'
 resource_id: github:supermldev/agenticai
-first_seen: '2026-07-02T01:51:10.439619+05:30'
-last_seen: '2026-07-02T01:51:10.439619+05:30'
-last_checked: '2026-07-02T01:51:10.439619+05:30'
+first_seen: '2026-07-03T03:56:17.175075+05:30'
+last_seen: '2026-07-03T03:56:17.175075+05:30'
+last_checked: '2026-07-03T03:56:17.175075+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Repository designed for educational exploration of Agentic AI concepts, maintained by superml.dev.
-- **Metadata**: Contains 2 stars, 1 fork, and has an unspecified primary language; no active topics.
-- **Update Status**: Last updated on 2026-04-24T15:33:57Z.
+- **Purpose**: Educational repository for learning Agentic AI concepts, maintained by superml.dev.
+- **Metadata**: 2 stars, 1 fork, last updated on 2026-04-24.
+- **Status**: Language and topics unspecified, repository appears inactive or unclassified.
 
 ## Why It Matters
 

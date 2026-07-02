@@ -2,15 +2,16 @@
 title: "Gemini 3.5 â\x80\x94 Google DeepMind"
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://deepmind.google/technologies/gemini/nano/
+source_url: https://deepmind.google/technologies/gemini/
 resource_id: blog:gemini-3-5-a-google-deepmind
 local_vault_path: ai/rag/gemini-3-5-a-google-deepmind.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - deepmind
 - rag
 - web-crawled
@@ -26,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Gemini Pro** excels in handling **complex tasks** and **creative concept generation**, leveraging advanced multimodal capabilities (text, image, audio, video) for high-performance AI applications.
+- **Advanced multimodal capabilities**: Gemini Pro integrates text, image, audio, and video processing, enabling complex, cross-modal reasoning and generation tasks with high contextual accuracy.
 
-- **Architectural Optimization**: Utilizes a **scalable transformer-based model** with **mixture-of-experts (MoE)** layers, enabling efficient parallel processing and reduced computational overhead for large-scale inference.
+- **Scalable architecture**: Utilizes a transformer-based model with optimized attention mechanisms (e.g., Mixture-of-Experts) for efficient handling of large-scale, high-dimensional data inputs.
 
-- **Multimodal Integration**: Supports **real-time cross-modal reasoning
+- **Performance benchmarks**: Achieves state-of-the-art results on multimodal benchmarks (e.g., MMLU, DROP
 
 ## Use Cases
 
@@ -47,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://deepmind.google/technologies/gemini/nano/
+Original source URL: https://deepmind.google/technologies/gemini/
 
 ## Local Vault File
 

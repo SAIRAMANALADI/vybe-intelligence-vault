@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - openai
 - unknown
 selection_reason:
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive AI Agent Resource**: Curated list of 300+ AI agents, frameworks, and tools across 20+ categories, updated monthly for 2026.
-- **High Community Engagement**: 1,369 stars and 443 forks, indicating strong adoption and interest in AI agent technologies.
-- **Technical Scope**: Covers LLM-based systems, ChatGPT integrations, LangChain, and machine learning tools under active development.
+- **Curated repository** with 300+ AI agent frameworks, tools, and resources, organized into 20+ categories, updated monthly.
+- **Key topics** include AI agents, LLM frameworks (e.g., LangChain, ChatGPT), machine learning, and agentic AI systems.
+- **GitHub stats**: 1,369 stars, 444 forks, last updated July 2, 2026.
 
 ## Use Cases
 

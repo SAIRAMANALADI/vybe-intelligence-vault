@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Model Size Optimization**: Client-side AI models should be <10MB for optimal performance; specialized models (e.g., language detection at 315KB) are preferred over generic LLMs (e.g., Gemma 2B at 1.3GB). Use model shrinking techniques and compare quality vs. size trade-offs.
+- **Client-side AI benefits and trade-offs**: Client-side AI runs in-browser, offering low latency, reduced server costs, privacy, and offline access but introduces performance overhead due to model downloads and computational demands; libraries like TensorFlow.js, Transformers.js, and MediaPipe GenAI enable cross-browser deployment.
 
-- **Hardware & Compatibility Checks**: Validate WebGPU support and device capabilities (e.g., `Navigator.hardwareConcurrency`, `deviceMemory`) to ensure model compatibility; fallback to Wasm if GPU acceleration fails.
+- **Model size and optimization strategies**: Model size varies widely (e.g., 9.4KB for BudouX vs. 1.3GB for Gemma 2B); techniques like model shrinking, task-speci
 
 ## Use Cases
 

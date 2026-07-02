@@ -17,6 +17,8 @@ tags:
 - models
 - openai
 - rag
+- reddit
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -35,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Time**: A structured 5-week learning program focused on Retrieval-Augmented Generation (RAG) techniques, covering hybrid search, vector indexing, and quantization methods (binary/scalar) for efficient LLM retrieval.
-- **Key Technologies**: Integrates Azure, OpenAI APIs, HNSW (Hierarchical Navigable Small World) for approximate nearest neighbor search, and Matryoshka Representation Learning for scalable embeddings.
-- **Tools & Practices**: Includes Jupyter Notebooks for hands-on implement
+- **Comprehensive RAG Mastery Guide**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization, HNSW indexing, and Matryoshka representation learning.
+
+- **Multi-Tool Integration**: Demonstrates RAG workflows using Azure AI services, OpenAI LLMs, and VS Code, with notebooks focusing on multimodal inputs, responsible AI practices, and efficient vector search implementation
 
 ## Use Cases
 

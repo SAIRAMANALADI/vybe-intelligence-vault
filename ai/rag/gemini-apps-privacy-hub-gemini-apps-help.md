@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/gemini/answer/13594961#privacy_notice
-published_at: '2026-06-28T19:52:21.330649+05:30'
-collected_at: '2026-06-28T19:52:21.330666+05:30'
+published_at: '2026-07-03T03:57:23.148763+05:30'
+collected_at: '2026-07-03T03:57:23.148776+05:30'
 tags:
 - agents
 - deepmind
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:gemini-apps-privacy-hub-gemini-apps-help
-first_seen: '2026-06-28T19:52:21.330666+05:30'
-last_seen: '2026-06-28T19:52:21.330666+05:30'
-last_checked: '2026-06-28T19:52:21.330666+05:30'
+first_seen: '2026-07-03T03:57:23.148776+05:30'
+last_seen: '2026-07-03T03:57:23.148776+05:30'
+last_checked: '2026-07-03T03:57:23.148776+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Gemini Apps collect explicit user inputs (prompts, files, transcripts, feedback) and contextual metadata (device/browser data, permissions, location, app interactions) to power AI responses, personalization, and service improvements.
+- **Data Collection Scope**: Collects explicit user inputs (prompts, files, audio/video transcripts) and derived outputs (generated content, model reasoning steps, interaction logs), alongside device/app metadata (permissions, browser context, system settings) and third-party Connected App data.
 
-- **Processing & Retention**: Data is processed for service delivery, model training, and human review (with anonymization where possible), with retention tied to user settings (e.g., "Keep Activity" controls) and legal obligations.
+- **Processing & Usage**: Data is used for service provisioning, model improvement, personalization, and security under Google’s Privacy Policy, with human review for quality control; EU/UK processing bases include legitimate interest and contract necessity.
 
-- **Third-Party Integration**: Connected Apps (Google/third-party) exchange data per their policies, while features like *Gemini Spark* and *Canvas* introduce additional remote data handling (e.g., browser screenshots, app-specific permissions).
+- **Retention & Sharing**: Temporary chats (with "Keep Activity" off) are retained for ≤30 days; user data may be shared with Connected Apps per their policies, and model training data is stripped of direct identifiers before processing.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T19:52:21.330649+05:30
+- Published: 2026-07-03T03:57:23.148763+05:30
 
 ## Related Tags
 

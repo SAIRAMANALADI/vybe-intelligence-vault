@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://aws.amazon.com/about-aws/global-infrastructure/
-published_at: '2026-07-02T15:08:29.165401+05:30'
-collected_at: '2026-07-02T15:08:29.165414+05:30'
+published_at: '2026-07-03T03:56:05.909753+05:30'
+collected_at: '2026-07-03T03:56:05.909765+05:30'
 tags:
 - hackernews
 - producthunt
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:global-infrastructure-aws
-first_seen: '2026-07-02T15:08:29.165414+05:30'
-last_seen: '2026-07-02T15:08:29.165414+05:30'
-last_checked: '2026-07-02T15:08:29.165414+05:30'
+first_seen: '2026-07-03T03:56:05.909765+05:30'
+last_seen: '2026-07-03T03:56:05.909765+05:30'
+last_checked: '2026-07-03T03:56:05.909765+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Global Reach & Scalability**: AWS operates **39 Regions** with **123 Availability Zones (AZs)**, plus **750+ CloudFront POPs**, **45 Local Zones**, and **33 Wavelength Zones**, enabling low-latency, high-performance deployments across **7 continents** with planned expansions in **Saudi Arabia, Chile, New Zealand, Taiwan, and Australia**.
+- **Global Reach & Resilience**: AWS operates **39 Regions** with **123 Availability Zones (AZs)**, each containing **≥3 isolated AZs** for high availability, plus **750+ CloudFront POPs** and **15 Regional edge caches** for low-latency delivery.
 
-- **High Availability & Resilience**: Each AWS Region consists of **≥3 physically isolated AZs**, interconnected via **~20M km of fiber**, ensuring **sub-millisecond latency** and **99.99%+ uptime** for mission-critical workloads.
+- **Scalable Network Backbone**: Leverages **~20M km of fiber** (terrestrial/subsea) with **45 Local Zones** and **33 Wavelength Zones** to optimize latency, performance, and data residency for edge/5G workloads.
 
-- **Hybrid & Edge Compute Solutions**: Supports **on-premises (Outposts), edge (Local Zones/Wavelength), and content delivery (CloudFront)** deployments, enabling consistent hybrid-cloud experiences with **regulatory compliance** and **ultra-low latency** for latency-sensitive applications.
+- **Hybrid & Edge Compute Offerings**: Supports **Outposts** (on-prem), **Dedicated Local Zones** (regulatory compliance), **Wavelength** (telco-integrated), and **CloudFront** for secure, high-speed content delivery.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T15:08:29.165401+05:30
+- Published: 2026-07-03T03:56:05.909753+05:30
 
 ## Related Tags
 

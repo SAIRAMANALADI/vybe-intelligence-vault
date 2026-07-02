@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Actions using branch names/tags are vulnerable**: Tags/branches can be force-pushed or deleted/replaced, allowing malicious actors to inject harmful code (e.g., exfiltrating secrets) into widely used actions, compromising CI/CD pipelines.
+- **GitHub Actions using branch names/tags are vulnerable to malicious updates**: Attackers can replace tags/branches via Git, injecting malicious code to exfiltrate secrets (e.g., `DOCKER_PASSWORD`) without altering commit hashes.
 
-- **Commit hashes are immutable and secure**: Unlike branches/tags, commit hashes (SHA-1) are unique and cannot be rewritten, ensuring deterministic and tamper-proof action references in workflows.
+- **Commit hashes provide immutable references**: Unlike tags/branches, commit SHAs are cryptographically unique and cannot be rewritten, ensuring workflows reference fixed, verifiable code.
 
-- **NPM’s precedent for immutability**: NPM’s 24-h
+- **NPM’s precedent for version immutability**: NPM’s 24-hour unpublish pol
 
 ## Use Cases
 

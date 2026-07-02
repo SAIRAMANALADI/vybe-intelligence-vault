@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://policies.google.com/terms
-published_at: '2026-07-02T04:17:07.156681+05:30'
-collected_at: '2026-07-02T04:17:07.156695+05:30'
+published_at: '2026-07-03T03:56:10.556978+05:30'
+collected_at: '2026-07-03T03:56:10.556992+05:30'
 tags:
 - hackernews
 - paper
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-terms-of-service-privacy-terms-google
-first_seen: '2026-07-02T04:17:07.156695+05:30'
-last_seen: '2026-07-02T04:17:07.156695+05:30'
-last_checked: '2026-07-02T04:17:07.156695+05:30'
+first_seen: '2026-07-03T03:56:10.556992+05:30'
+last_seen: '2026-07-03T03:56:10.556992+05:30'
+last_checked: '2026-07-03T03:56:10.556992+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Service Provider & Legal Framework**: Google LLC (Delaware-registered, USA) provides services under U.S. laws, with age requirements for account holders and parental consent for minors; service-specific terms may impose additional restrictions.
+- **Service Provider & Legal Framework**: Google LLC (Delaware-registered, US laws) provides services under updated Terms of Service (effective May 22, 2024) with future revisions planned for July 30, 2026; users under age thresholds require parental/guardian consent.
 
-- **AI/ML-Driven Service Evolution**: Google reserves the right to modify, update, or discontinue services (including automated software updates) with material changes subject to advance notice, except in urgent cases (e.g., security threats); users may export content via Google Takeout.
+- **Service Usage & AI Integration**: Google services (Search, Maps, Pixel, etc.) leverage AI/ML for features like real-time translation, spam/malware detection, and automatic software updates; material changes may require advance notice and user content export via Google Takeout.
 
-- **Content & Conduct Policies**: Users retain IP rights to their content but grant Google a license for service operation; prohibited activities include reverse engineering, AI model training on Google-generated content, phishing, and automated scraping violating `robots.txt` or machine-readable instructions.
+- **User Obligations & Restrictions**: Users must comply with terms, respect privacy/IP rights, avoid abuse (e.g., malware, phishing, prompt injection), and not reverse-engineer services or use AI-generated content to develop competing models; Google retains IP rights while granting limited usage permissions.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T04:17:07.156681+05:30
+- Published: 2026-07-03T03:56:10.556978+05:30
 
 ## Related Tags
 

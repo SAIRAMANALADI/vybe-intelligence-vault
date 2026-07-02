@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-02T22:34:40.343574+05:30'
+collected_at: '2026-07-03T03:51:40.195073+05:30'
 published_at: '2026-06-30T16:45:55Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 368
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-02T22:34:40.343574+05:30'
-last_seen: '2026-07-02T22:34:40.343574+05:30'
-last_checked: '2026-07-02T22:34:40.343574+05:30'
+first_seen: '2026-07-03T03:51:40.195073+05:30'
+last_seen: '2026-07-03T03:51:40.195073+05:30'
+last_checked: '2026-07-03T03:51:40.195073+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining vector and keyword-based search for enhanced document retrieval accuracy.
+- **Hybrid RAG Pipeline**: Implements a hybrid retrieval-augmented generation (RAG) system combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document search and context augmentation in generative AI workflows.
 
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined development, deployment, and experimentation of RAG models in Python.
+- **NVIDIA AI Workbench Integration**: Demonstrates deployment and optimization of the RAG pipeline using NVIDIA AI Workbench, leveraging GPU acceleration and NVIDIA’s software stack (e.g., TensorRT, Triton) for scalable inference.
 
-- **Modular Python Architecture**: Provides a structured, extensible codebase with components for document processing, retrieval, and generation, optimized for GPU acceleration.
+- **Modular Python Implementation**: Provides a Python-based reference architecture with modular components for document preprocessing, retrieval, and generation, enabling customization for domain-specific RAG applications.
 
 ## Why It Matters
 

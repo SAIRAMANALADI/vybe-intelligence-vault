@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/llamaparse
-published_at: '2026-07-01T15:52:25.542236+05:30'
-collected_at: '2026-07-01T15:52:25.542250+05:30'
+published_at: '2026-07-03T03:56:20.597173+05:30'
+collected_at: '2026-07-03T03:56:20.597187+05:30'
 tags:
 - benchmark
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
-first_seen: '2026-07-01T15:52:25.542250+05:30'
-last_seen: '2026-07-01T15:52:25.542250+05:30'
-last_checked: '2026-07-01T15:52:25.542250+05:30'
+first_seen: '2026-07-03T03:56:20.597187+05:30'
+last_seen: '2026-07-03T03:56:20.597187+05:30'
+last_checked: '2026-07-03T03:56:20.597187+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Layout-Aware Parsing**: Processes 90+ formats (PDFs, scans, handwriting, tables, charts, images) with layout-aware OCR, preserving complex structures (headers, footers, multi-column layouts) and extracting contextual data from non-textual elements.
+- **Multi-format parsing**: Supports 90+ document formats (PDFs, scans, invoices, healthcare forms, etc.) with layout-aware extraction of headers, footers, tables, charts, handwriting, and checkboxes into clean markdown.
 
-- **Scalable & Multilingual**: Supports enterprise-grade throughput (1B+ docs processed) with granular parsing modes (cost/accuracy tradeoffs), multilingual OCR (100+ languages), and local/cloud deployment options for high concurrency.
+- **Multimodal & multilingual**: Combines OCR, vision models, and NLP to process text, images, and structured data while supporting 100+ languages, optimized for enterprise-scale workflows.
 
-- **Developer-Optimized Workflows**: Provides TypeScript/Python SDKs with live notebooks, workflow automation (parse → index → act → decide), and enterprise features (dedicated support, multi-user access) for seamless LLM integration.
+- **Granular control & deployment**: Offers configurable parsing modes (cost/accuracy trade-offs), local/cloud deployment, high concurrency, and SDKs (Python/TypeScript) for seamless integration into AI pipelines.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T15:52:25.542236+05:30
+- Published: 2026-07-03T03:56:20.597173+05:30
 
 ## Related Tags
 

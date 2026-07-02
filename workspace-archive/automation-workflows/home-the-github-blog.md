@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Initial Scale**: GitHub processed **20,000+ secret scanning alerts** across **15,000 repositories**, requiring automated triage and prioritization.
-- **Workflow Automation**: Implemented **remediation workflows** to categorize, prioritize, and resolve alerts, reducing manual review overhead.
-- **Efficiency Milestone**: Achieved **"inbox zero"** in **9 months** via structured automation, signal filtering, and systematic remediation.
+- **Scale & Challenge**: GitHub processed **20,000+ secret scanning alerts** across **15,000 repositories**, necessitating automated triage and remediation to manage noise.
+- **Workflow Automation**: Developed **custom remediation workflows** to prioritize and resolve alerts, reducing manual review overhead and accelerating incident response.
+- **Inbox Zero Achievement**: Achieved **inbox zero** in **9 months** via structured automation, signal filtering, and systematic alert resolution.
 
 ## Use Cases
 

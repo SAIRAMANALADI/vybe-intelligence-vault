@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/youtubetv/answer/13769266
-published_at: '2026-07-02T09:59:35.649234+05:30'
-collected_at: '2026-07-02T09:59:35.649249+05:30'
+published_at: '2026-07-03T03:57:09.666751+05:30'
+collected_at: '2026-07-03T03:57:09.666764+05:30'
 tags:
 - rag
 - reddit
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:manage-renewal-for-nfl-sunday-ticket-on-youtube-tv
-first_seen: '2026-07-02T09:59:35.649249+05:30'
-last_seen: '2026-07-02T09:59:35.649249+05:30'
-last_checked: '2026-07-02T09:59:35.649249+05:30'
+first_seen: '2026-07-03T03:57:09.666764+05:30'
+last_seen: '2026-07-03T03:57:09.666764+05:30'
+last_checked: '2026-07-03T03:57:09.666764+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Season Pass Renewal**: Automatic renewal occurs at full retail price before the next season; cancellation must be done prior to renewal to avoid charges. Mid-season cancellations retain access until the current season ends if YouTube TV plan remains active.
+- **Auto-renewal behavior**: Season Pass subscriptions auto-renew at full retail price before the next season (non-refundable), while Month-to-Month plans charge monthly on the same billing date; both can be canceled anytime before renewal to avoid charges.
 
-- **Month-to-Month Billing**: Charges occur on the same date monthly; cancellation is allowed anytime via Settings, with access retained until the next billing cycle. Billing dates and payment methods can be reviewed at `tv.youtube.com/settings/billing`.
+- **Cancellation process**: Users can cancel renewal via `tv.youtube.com/settings/billing` under "Memberships" → NFL Sunday Ticket → **MANAGE** → **CANCEL**, retaining access until the next billing cycle unless YouTube TV membership is paused.
 
-- **Plan Modifications & Payments**: Early renewal allows switching to monthly installments before auto-renewal; payment plans vary by eligibility. Credit card updates must be made before auto-renewal at `tv.youtube.com/settings/billing`; pausing YouTube TV halts NFL Sunday Ticket billing until unpaused.
+- **Plan modifications**: Users can switch payment plans (e.g., to monthly installments) before auto-renewal by early renewal via **Settings** → **Renew early**, but cannot alter RedZone or standalone/YouTube TV add-on plans post-renewal.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T09:59:35.649234+05:30
+- Published: 2026-07-03T03:57:09.666751+05:30
 
 ## Related Tags
 

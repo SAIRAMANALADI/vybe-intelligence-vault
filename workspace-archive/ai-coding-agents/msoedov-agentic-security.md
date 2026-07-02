@@ -8,12 +8,13 @@ local_vault_path: ai/agents/msoedov-agentic-security.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: template
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - python
 selection_reason:
 - Useful for project building
@@ -25,15 +26,15 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: template
+- Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Agentic LLM Security Scanner**: Python-based framework for automated vulnerability assessment and red teaming of LLM systems, supporting jailbreak detection, prompt injection testing, and security evaluation.
-- **Multi-Tool Integration**: Aggregates LLM fuzzing tools, vulnerability scanners, and guardrail testers to systematically probe AI models for weaknesses (e.g., prompt leaks, adversarial inputs).
-- **Evaluation & Benchmarking**: Provides structured LLM evaluation frameworks for securit
+- **Agentic LLM Vulnerability Scanner**: A Python-based framework for red teaming and evaluating LLM security vulnerabilities, including jailbreaks, prompt injections, and guardrail bypasses.
+- **LLM Fuzzing & Aggregation**: Implements automated fuzzing techniques to test LLM robustness, aggregating results for comprehensive vulnerability assessment.
+- **Multi-Topic Security Toolkit**: Supports agent-framework integration, LLM evaluation, and security testing across prompt-testing, guardrails, a
 
 ## Use Cases
 

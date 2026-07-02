@@ -6,10 +6,10 @@ source_url: https://docs.astro.build/en/guides/styling/#tailwind
 resource_id: blog:styles-and-css-docs
 local_vault_path: web-development/tailwind/styles-and-css-docs.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
-importance: high
+importance: medium
 tags:
 - frontend_ui
 - web-crawled
@@ -23,7 +23,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Frontend AI UI`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- Astro supports **scoped styles** (via `scopedStyleStrategy`) that compile to isolated CSS with unique `data-astro-cid-*` attributes, preventing style leakage while preserving specificity and allowing low-specificity selectors (e.g., `h1 {}`) to work safely within component boundaries.
-
-- **CSS import order** determines precedence in Astro: `<head>` link tags (lowest), imported stylesheets, and scoped styles (highest). Conflicts with equal specificity are resolved by last-imported rule, while h
+- Astro supports scoped styles via `<style>` tags, which compile to unique selectors (e.g., `h1[data-astro-cid-xxx]`) to prevent leakage, allowing low-specificity selectors like `h1 {}` without conflicts.
+- CSS import order determines precedence: `<link>` tags (lowest), imported stylesheets, then scoped styles (highest), with same-specificity conflicts resolved by last-imported rule.
+- Tailwind 4 integration in Astro ≥5.2.0 uses `astro add tailwind` to install `@tailwindcss/vite`, while legacy T
 
 ## Use Cases
 

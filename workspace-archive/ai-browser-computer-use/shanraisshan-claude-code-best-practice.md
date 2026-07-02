@@ -8,7 +8,7 @@ local_vault_path: ai/agents/shanraisshan-claude-code-best-practice.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - html
 - workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # shanraisshan/claude-code-best-practice
@@ -26,15 +26,17 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Agentic Workflow Optimization**: Repository provides structured methodologies to transition from *vibe coding* to *agentic engineering* using Claude Code, emphasizing systematic task decomposition, context engineering, and iterative refinement for complex AI-driven development workflows.
+- **Repository Overview**: Curated best practices for transitioning from *vibe coding* to *agentic engineering* using **Claude Code**, covering workflows, commands, and skills for AI-driven development.
 
-- **Best Practices & Command Patterns**: Curated collection of *Claude Code best practices*, including optimized commands, skills, and workflows for efficient AI-agent collaboration, with focus on Anthropic
+- **Key Focus Areas**: Emphasizes *context engineering*, *agentic workflows*, and *Claude-specific optimizations* (e.g., `claude-code-agents`, `claude-code-commands`) for scalable AI-assisted coding.
+
+- **Community & Resources**: Repository includes structured guides, examples, and updates (last
 
 ## Use Cases
 

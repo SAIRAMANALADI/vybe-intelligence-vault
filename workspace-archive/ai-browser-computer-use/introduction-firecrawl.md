@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **API Capabilities**: Firecrawl provides a unified API for web search, scraping, and interaction, supporting LLM-ready outputs (markdown, JSON, screenshots) and dynamic content handling (JavaScript rendering, form interactions).
-- **Integration Methods**: Supports AI agents via `llms.txt` index, MCP Server for direct tool integration (Claude, Cursor, VS Code), and CLI/SDKs (Python, Node, cURL) for programmatic access.
-- **Production Features**: Optimized for high throughput with low-latency re
+- **API Capabilities**: Firecrawl provides a unified API for web search, scraping, and interaction, supporting LLM-ready outputs (markdown, JSON, screenshots) and handling JavaScript rendering, anti-bot measures, and dynamic content.
+- **Integration Methods**: Supports AI agents via `llms.txt` indexing, MCP Server for direct AI tool integration (Claude, Cursor, VS Code), and CLI/SDKs (Python, Node, cURL) for programmatic access.
+- **Performance & Features**: Optimized for high throughput with su
 
 ## Use Cases
 

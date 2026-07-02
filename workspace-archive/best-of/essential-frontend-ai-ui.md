@@ -18,16 +18,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`jcodesmore-ai-website-cloner-template.md`](../../ai/agents/jcodesmore-ai-website-cloner-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`vstorm-co-full-stack-ai-agent-template.md`](../../ai/rag/vstorm-co-full-stack-ai-agent-template.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`wassim249-fastapi-langgraph-agent-production-ready-template.md`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
@@ -58,14 +48,24 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`builder-io-collaborative-platform-to-build-with-ai.md`](../../ai/rag/builder-io-collaborative-platform-to-build-with-ai.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
-### [Styles and CSS | Docs](https://docs.astro.build/en/guides/styling/#tailwind)
-- **Category**: `web-development/tailwind` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`styles-and-css-docs.md`](../../web-development/tailwind/styles-and-css-docs.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
 ### [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`genkit-open-source-ai-framework-by-google-in-javas.md`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`generative-ai-build-ai-powered-apps-with-speed-sec.md`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2606-24937.md`](../../ai/rag/arxiv-2606-24937.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [XSkill: Continual Learning from Experience and Skills in Multimodal Agents](https://arxiv.org/abs/2603.12056)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2603-12056.md`](../../ai/agents/arxiv-2603-12056.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-02 22:50 IST*
+*Last updated: 2026-07-03 04:07 IST*

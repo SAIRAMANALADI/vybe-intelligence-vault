@@ -8,7 +8,7 @@ local_vault_path: ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 tags:
 - hackernews
@@ -27,16 +27,15 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Gemini Nano Integration**: Chrome's built-in AI leverages **Gemini Nano**, a lightweight foundation model, enabling on-device AI tasks via browser-managed APIs (e.g., summarization, translation, proofreading).
-- **API Ecosystem**: Chrome provides **specialized APIs** (e.g., `Proofreader`, `Writer`, `Translator`, `Summarizer`) for client-side AI tasks, with polyfills available for cross-browser compatibility.
-- **Model Management**: Chrome handles **on-device model downloads, updates, and cac
+- **Gemini Nano Integration**: Chrome's built-in AI leverages Google's **Gemini Nano** model for on-device inference, enabling AI-powered features like summarization, translation, and text generation without external API calls.
+- **AI APIs Availability**: Chrome provides multiple **client-side AI APIs** (e.g., `Proofreader`, `Writer`, `Rewriter`, `Translator`, `Language Detector`, `Summarizer`, `Prompt`) for tasks like grammar correction, content generation, and real-time translation, with suppo
 
 ## Use Cases
 

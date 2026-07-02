@@ -12,6 +12,7 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- hackernews
 - rag
 - web-crawled
 - youtube
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos, with additional features for creators, advertisers, and developers.
-- **Developer & API Access**: Provides a [YouTube Data API](https://developers.google.com/youtube) for programmatic interaction, allowing integration of YouTube functionality into third-party applications.
-- **Content & Policy Framework**: Operates under [Terms of Service](https://www.youtube.com/t/
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization, and creator tools.
+- **Technical Infrastructure**: Utilizes Google’s distributed systems (e.g., CDNs, AI-driven recommendations) for scalable, low-latency video delivery and metadata processing.
+- **Developer & Policy Framework**: Provides APIs (YouTube Data/Player) for integration, enforces copyright via Content ID, and adheres to privacy regula
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/langsmith/home
-published_at: '2026-07-02T20:08:16.230687+05:30'
-collected_at: '2026-07-02T20:08:16.230701+05:30'
+published_at: '2026-07-03T03:57:27.867567+05:30'
+collected_at: '2026-07-03T03:57:27.867580+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langsmith-observability-docs-by-langchain
-first_seen: '2026-07-02T20:08:16.230701+05:30'
-last_seen: '2026-07-02T20:08:16.230701+05:30'
-last_checked: '2026-07-02T20:08:16.230701+05:30'
+first_seen: '2026-07-03T03:57:27.867580+05:30'
+last_seen: '2026-07-03T03:57:27.867580+05:30'
+last_checked: '2026-07-03T03:57:27.867580+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-framework observability**: LangSmith provides end-to-end visibility into LLM applications across frameworks (OpenAI, Anthropic, CrewAI, Vercel AI SDK, Pydantic AI) via standardized tracing and integration hooks.
+- **Multi-framework observability**: LangSmith provides end-to-end tracing, debugging, and monitoring for LLM applications across frameworks (e.g., OpenAI, Anthropic, CrewAI) via [/llms.txt](https://docs.langchain.com/llms.txt) integrations.
 
-- **Trace lifecycle management**: Supports trace creation, filtering, export, comparison, and automated failure detection (via LangSmith Engine) with configurable retention, pricing tiers, and alerting mechanisms.
+- **Automated failure detection**: LangSmith Engine automatically identifies recurring issues in traces, diagnoses root causes, and enables resolution workflows with built-in automation rules and webhooks.
 
-- **Deployment flexibility**: Offers cloud, hybrid, or self-hosted setup options with core features (observability, evaluation, prompt engineering, deployment) and MCP integration for IDE/editor connectivity.
+- **Three deployment models**: Supports cloud, hybrid, or self-hosted LangSmith instances, all including observability, evaluation, prompt engineering, and deployment capabilities via [Platform setup](https://docs.langchain.com/langsmith/platform-setup).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T20:08:16.230687+05:30
+- Published: 2026-07-03T03:57:27.867567+05:30
 
 ## Related Tags
 

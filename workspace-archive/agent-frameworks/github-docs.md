@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- GitHub Docs provides structured guidance across core workflows including authentication (SSH, tokens), repository lifecycle management (creation, remote sync), and pull request-based collaboration with integrated code review.
+- **Git Integration & Authentication**: GitHub relies on Git for version control, supporting secure connections via SSH for encrypted remote interactions, with key management and repository setup as foundational workflows.
 
-- Advanced tooling is covered via GitHub Actions for CI/CD, Codespaces for cloud-based development environments, and GitHub Copilot for AI-driven code generation and IDE integration.
+- **Collaborative Development Workflows**: Pull requests enable structured code review and merging, while GitHub Actions automates CI/CD pipelines for testing, packaging, and deployment across integrated repositories.
 
-- Security and compliance workflows include CodeQL for static analysis, Secrets scannin
+- **Security & Developer Tooling**: Code security feature
 
 ## Use Cases
 

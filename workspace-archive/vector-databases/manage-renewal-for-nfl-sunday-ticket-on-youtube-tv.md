@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Season Pass Renewal**: Automatic renewal occurs at full retail price before the next season; cancellation must be done prior to renewal to avoid charges. Mid-season cancellations retain access until the current season ends if YouTube TV plan remains active.
+- **Auto-renewal behavior**: Season Pass subscriptions auto-renew at full retail price before the next season (non-refundable), while Month-to-Month plans charge monthly on the same billing date; both can be canceled anytime before renewal to avoid charges.
 
-- **Month-to-Month Billing**: Charges occur on the same date monthly; cancellation is allowed anytime via Settings, with access retained until the next billing cycle. Billing dates and payment methods can be reviewed at `tv.youtube.com/s
+- **Cancellation process**: Users can cancel renewal via `tv.youtube.com/settings/billing` under "Memberships" → NFL Sunday Ticket → **MANAGE** → **CANCEL**, retaining access until the next billing cycle unless YouTube TV membership is pause
 
 ## Use Cases
 

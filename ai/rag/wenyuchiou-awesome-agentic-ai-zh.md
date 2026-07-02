@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/WenyuChiou/awesome-agentic-ai-zh
-collected_at: '2026-07-02T22:36:25.371835+05:30'
+collected_at: '2026-07-03T03:53:25.236697+05:30'
 published_at: '2026-07-02T16:39:58Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2026-05-04T22:18:51Z'
 pushed_at: '2026-07-01T12:26:22Z'
 resource_id: github:wenyuchiou/awesome-agentic-ai-zh
-first_seen: '2026-07-02T22:36:25.371835+05:30'
-last_seen: '2026-07-02T22:36:25.371835+05:30'
-last_checked: '2026-07-02T22:36:25.371835+05:30'
+first_seen: '2026-07-03T03:53:25.236697+05:30'
+last_seen: '2026-07-03T03:53:25.236697+05:30'
+last_checked: '2026-07-03T03:53:25.236697+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Trilingual Learning Roadmap**: Curated collection of 240+ resources spanning **LLM fundamentals to multi-agent systems**, available in **Traditional Chinese, Simplified Chinese, and English**, with hands-on Python examples.
-
-- **Key Technical Domains**: Covers **Agentic AI workflows**, **LLM agents**, **RAG**, **prompt engineering**, **Model Context Protocol (MCP)**, **Claude Code/Skills**, and **multi-agent orchestration**.
-
-- **Repository Stats**: **3,949 stars**, **512 forks**, last updated **July 2, 2026**, with structured topics including **CLI tools**, **tutorials**, and **Chinese LLM integrations**.
+- **Trilingual Learning Roadmap**: Curated 240+ resources (繁中/English/简中) covering LLM fundamentals to multi-agent systems, with hands-on Python examples and CLI tools.
+- **Technical Scope**: Includes agentic workflows, RAG, prompt engineering, MCP, and model integration (e.g., Claude Code/Skills) with focus on AI agent architectures.
+- **Repository Metrics**: 3.9k+ stars, 512 forks, last updated July 2026; topics span agentic AI, LLM agents, and multi-agent systems.
 
 ## Why It Matters
 

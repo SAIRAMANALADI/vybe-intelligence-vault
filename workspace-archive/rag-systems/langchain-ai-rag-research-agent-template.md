@@ -12,13 +12,9 @@ resource_kind: template
 importance: medium
 tags:
 - agents
-- benchmark
-- dataset
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -37,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Purpose**: Provides a structured framework for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating integration of LLMs with external knowledge sources.
-- **Technical Stack**: Implements Python-based RAG pipelines with modular components for document retrieval, vector storage (e.g., FAISS/Chroma), and LLM interaction (e.g., LangChain's `RetrievalQA`).
-- **Key Features**: Includes pre-configured agent workflows, example datasets, and evaluation
+- **Purpose**: Provides a template for building Retrieval-Augmented Generation (RAG) research agents using LangChain.
+- **Components**: Includes Python-based implementation for document retrieval, agent orchestration, and LLM integration.
+- **Updates**: Last modified on 2026-06-24, with 313 stars and 72 forks.
 
 ## Use Cases
 

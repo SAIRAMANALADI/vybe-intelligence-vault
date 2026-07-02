@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Lighthouse** is an open-source, automated tool for auditing web pages across performance, accessibility, SEO, and more, supporting Chrome DevTools, CLI, Node.js module, and web UI workflows.
-- **Extensibility** is supported via **stack packs** (platform-specific recommendations) and **plugins** (custom audits via Node.js modules).
-- **Integration** options include CI/CD integration, GitHub Gists for report sharing, and JSON output for programmatic analysis.
+- **Lighthouse** is an open-source, automated tool for auditing web pages across performance, accessibility, SEO, and more, supporting Chrome DevTools, CLI, Node.js, and web UI workflows.
+- **Extensibility features** include **stack packs** (platform-specific recommendations) and **plugins** (custom audits via Node.js modules).
+- **Integration options** cover CI/CD via Node module, Lighthouse CI for regression prevention, and JSON/GitHub Gist-based report sharing.
 
 ## Use Cases
 

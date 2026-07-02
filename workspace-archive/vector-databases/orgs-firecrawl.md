@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Firecrawl**: TypeScript-based API framework for scalable web scraping, crawling, and interaction, supporting HTML-to-Markdown conversion, structured data extraction, and integration with AI/LLM tools (143k stars, AGPL-3.0).
+- **Firecrawl**: TypeScript-based API framework for scalable web scraping, crawling, and interaction, supporting HTML-to-Markdown conversion, with 143k stars and AGPL-3.0 licensing.
 
-- **Firecrawl MCP Server**: JavaScript-based Model Context Protocol (MCP) server enabling LLM clients (e.g., Cursor, Claude) to perform real-time web scraping, batch processing, and content extraction via standardized APIs (6.8k stars, MIT License).
+- **Firecrawl MCP Server**: JavaScript-based Model Context Protocol (MCP) server enabling LLM clients (e.g., Cursor, Claude) to integrate web scraping/search via batch processing and content extraction.
 
-- **PDF Inspector**:
+- **PDF Inspector**: Rust-based library for high-performance PDF analysis, supporting text extraction, classifica
 
 ## Use Cases
 

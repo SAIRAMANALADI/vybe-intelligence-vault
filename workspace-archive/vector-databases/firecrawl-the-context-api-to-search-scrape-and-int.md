@@ -9,21 +9,21 @@ local_vault_path: ai/rag/firecrawl-the-context-api-to-search-scrape-and-int.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
 - anthropic
 - benchmark
+- hackernews
 - openai
 - paper
 - producthunt
 - rag
 - scripts
 - web-crawled
-- workflows
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Firecrawl - The context API to search, scrape, and interact with the web at scale. 🔥
@@ -32,17 +32,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Specialized AI/ML Research Index**: Firecrawl Research Index provides state-of-the-art (SOTA) recall for AI/ML research, optimized for high-precision data retrieval and agentic workflows.
+- **Real-time Web Monitoring**: Firecrawl's `/monitor` feature provides always-on search, instantly pinging agents when new content appears online, enabling immediate data ingestion and processing.
 
-- **Multi-Format Web Data Extraction**: Supports structured (JSON), unstructured (Markdown), and interactive (screenshots, live interaction) data extraction from web pages, including JS-heavy SPAs, with 96% coverage and 93% token efficiency.
+- **Multi-Format Web Data Extraction**: Supports structured outputs (JSON, Markdown) and dynamic interactions (clicks, navigation) with 96% web coverage, including JS-heavy pages, while optimizing token efficiency (93% fewer input tokens).
 
-- **Open-Source Web Infrastructure**: Core toolkit (Python/Node.
+- **Open-Source Web Infrastructure**: Built for AI agents wi
 
 ## Use Cases
 

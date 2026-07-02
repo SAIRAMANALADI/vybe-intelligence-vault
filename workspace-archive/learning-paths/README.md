@@ -8,13 +8,13 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 
 ## Top Matched Resources
 
-- [github/roadmap](https://github.com/github/roadmap) (tutorial - ESSENTIAL Tier)
 - [DSA Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) (benchmark - USEFUL Tier)
 - [Get Started - The Go Programming Language](https://go.dev/learn) (tutorial - USEFUL Tier)
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [Unity Essentials Pathway - Learn Game Development for Beginners | Unity Learn](https://learn.unity.com/pathway/unity-essentials) (tutorial - USEFUL Tier)
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
 - [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (framework - USEFUL Tier)
+- [github/roadmap](https://github.com/github/roadmap) (tutorial - USEFUL Tier)
 - [Redirecting to GitHub Learn](https://skills.github.com) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
@@ -24,7 +24,7 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [Redirecting to GitHub Learn](https://skills.github.com)
 - [Postman Inc. · GitHub](https://github.com/postmanlabs)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
-- [GitHub · GitHub](https://github.com/github)
+- [microsoft/rag-time](https://github.com/microsoft/rag-time)
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
 
 ## Best Learning Resources
@@ -41,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-07-02 22:50 IST*
+*Last updated: 2026-07-03 04:07 IST*

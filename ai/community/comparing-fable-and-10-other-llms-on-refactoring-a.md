@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:comparing-fable-and-10-other-llms-on-refactoring-a
 first_seen: '2026-07-02T22:32:57.381692+05:30'
 last_seen: '2026-07-02T22:32:57.381692+05:30'
 last_checked: '2026-07-02T22:32:57.381692+05:30'
 health_score: 100
 ---
+
 
 # Comparing Fable and 10 other LLMs on refactoring a LangGraph god node
 

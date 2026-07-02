@@ -7,9 +7,9 @@ source_url: https://superml.org/tutorials/rag-beginner
 resource_id: blog:rag-tutorial-step-by-step-guide-to-retrieval-augme
 local_vault_path: ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
@@ -21,7 +21,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org
@@ -29,19 +29,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **RAG Pipeline**: A 5-step process comprising document loading, chunking, embedding/indexing (using ChromaDB), retrieval of relevant chunks via semantic similarity, and generation of grounded answers using an LLM (e.g., OpenAI's GPT-4o-mini) with retrieved context.
+- **RAG Architecture**: Retrieval-Augmented Generation (RAG) enhances LLM responses by dynamically retrieving relevant documents from a knowledge base at query time, ensuring answers are grounded in current, domain-specific data rather than static training data, improving accuracy, auditability, and updatability while reducing costs compared to fine-tuning.
 
-- **Chunking Strategy**: Documents are split into 512-token chunks with 50-token overlap using `RecursiveCharacterTextSplitter` to preserve semantic boundaries, balancing context retention and retrieval efficiency.
-
-- **Enhancement
+- **Core Pipeline**: A RAG system consists of five sequential steps: (1) **Load** documents (PDFs, web pages, etc.) using LangChain loaders
 
 ## Use Cases
 

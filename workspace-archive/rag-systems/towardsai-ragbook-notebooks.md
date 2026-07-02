@@ -8,7 +8,7 @@ local_vault_path: ai/rag/towardsai-ragbook-notebooks.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -20,7 +20,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # towardsai/ragbook-notebooks
@@ -29,16 +29,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- Repository contains Jupyter Notebooks for *"Building LLMs for Production"* by Towards AI, covering topics like **RAG, LangChain, LlamaIndex, and LLM deployment**.
-- Supports **Python-based agent workflows** with 552 stars and 196 forks, last updated **June 30, 2026**.
-- Focuses on **production-grade LLM applications**, including optimization, scalability, and integration with AI frameworks.
+- Repository containing Jupyter Notebooks for the book *"Building LLMs for Production"* by Towards AI, covering topics like **RAG (Retrieval-Augmented Generation), LangChain, LlamaIndex, and LLM deployment**.
+- Includes **196 forks** and **552 stars**, with last update on **June 30, 2026**; focuses on **Python-based agentic workflows** and **LLM optimization**.
+- Supports **multi-agent systems, LangChain/LlamaIndex integrations**, and production-grade **LLM fine-tuning/pipelines**.
 
 ## Use Cases
 

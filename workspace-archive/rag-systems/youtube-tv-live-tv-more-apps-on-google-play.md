@@ -2,7 +2,7 @@
 title: 'YouTube TV: Live TV & more - Apps on Google Play'
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.unplugged
+source_url: https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.unplugged&referrer=utm_source%3Dytv%26utm_medium%3Dfooter%26utm_campaign%3Dplay
 resource_id: blog:youtube-tv-live-tv-more-apps-on-google-play
 local_vault_path: ai/rag/youtube-tv-live-tv-more-apps-on-google-play.md
 quality_score: 70
@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Service Model**: Subscription-based, month-to-month live TV streaming with no contracts or cancellation fees; auto-renewal enabled by default.
-- **Content & Features**: 100+ networks (broadcast, sports, entertainment, news, kids) with cloud DVR (9-month storage), 6 household accounts, and NFL Sunday Ticket exclusivity.
-- **Technical Specs**: Cross-platform support (mobile, tablet, TV, web), encrypted data in transit, no third-party data sharing, and app-agnostic commercial loudness normaliza
+- **Service Overview**: YouTube TV offers cable-free live TV streaming with 100+ networks (e.g., CBS, FOX, NBC, NFL Network, HGTV), cloud DVR (9-month storage), and 6 household accounts, priced at $72.99/month (increasing to $82.99).
+
+- **Technical Features**: Supports multi-device streaming (smartphone, tablet, TV, computer), no cable box required, and includes NFL Sunday Ticket (excludes commercial use and certain games).
+
+- **Data & Privacy**: App collects location/personal data but encrypts
 
 ## Use Cases
 
@@ -46,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.unplugged
+Original source URL: https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.unplugged&referrer=utm_source%3Dytv%26utm_medium%3Dfooter%26utm_campaign%3Dplay
 
 ## Local Vault File
 

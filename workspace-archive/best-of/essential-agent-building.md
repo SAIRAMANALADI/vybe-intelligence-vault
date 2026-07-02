@@ -13,24 +13,24 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `91` | **Path**: [`jcodesmore-ai-website-cloner-template.md`](../../ai/agents/jcodesmore-ai-website-cloner-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
-- **Category**: `ai/resources` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `91` | **Path**: [`model-context-protocol-github.md`](../../ai/resources/model-context-protocol-github.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
-- **Category**: `ai/resources` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `91` | **Path**: [`modelcontextprotocol-typescript-sdk.md`](../../ai/resources/modelcontextprotocol-typescript-sdk.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [Detecting AI Coding Agents in Open Source: A Validated Multi-Method Census of 180 Million Repositories](https://arxiv.org/abs/2606.24429)
 - **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `90` | **Path**: [`arxiv-2606-24429.md`](../../ai/agents/arxiv-2606-24429.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
+- **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`model-context-protocol-github.md`](../../ai/resources/model-context-protocol-github.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [github/github-mcp-server](https://github.com/github/github-mcp-server)
 - **Category**: `ai/resources` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`github-github-mcp-server.md`](../../ai/resources/github-github-mcp-server.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
+- **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`modelcontextprotocol-typescript-sdk.md`](../../ai/resources/modelcontextprotocol-typescript-sdk.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-02 22:50 IST*
+*Last updated: 2026-07-03 04:07 IST*

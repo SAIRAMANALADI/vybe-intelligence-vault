@@ -14,7 +14,6 @@ tags:
 - anthropic
 - openai
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,8 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-language SDK Generation**: Stainless produces SDKs in TypeScript (npm), Python (PyPI), Go, Java (Maven), and Kotlin (Maven) for APIs like OpenAI, Modern Treasury, Anthropic, Cloudflare, and others.
-- **Automated OpenAPI Integration**: Users can automate SDK updates by pushing OpenAPI specs via a [GitHub Action](https://github.com/marketplace/actions/stainless-upload-openapi-specification) and installing the [Stainless GitHub App](https://github.com/marketplace/stainless-app) for Releas
+- **Multi-language SDK Generation**: Stainless produces SDKs in TypeScript (npm), Python (PyPI), Go, Java (Maven), and Kotlin (Maven) for APIs like OpenAI, Modern Treasury, Anthropic, and others, with direct GitHub repository links provided for each.
+
+- **Automated OpenAPI Integration**: Users can push OpenAPI specs to Stainless via a [GitHub Action](https://github.com/marketplace/actions/stainless-upload-openapi-specification) to auto-generate and update SDKs in connected repositories.
+
+- **Git
 
 ## Use Cases
 

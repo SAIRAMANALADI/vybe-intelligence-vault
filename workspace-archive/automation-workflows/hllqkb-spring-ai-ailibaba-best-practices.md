@@ -15,6 +15,7 @@ tags:
 - github-repo
 - java
 - rag
+- reddit
 - workflows
 selection_reason:
 - Strong keyword match
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Implementation**: Java-based repository demonstrating AI question-answering systems using **SSE streaming**, **Agent-based workflows**, **knowledge graph RAG**, **Function Calling**, **historical message handling**, **image generation/understanding**, **Embedding models**, **Vector Databases**, and **RAG pipelines**.
+- **Implements RAG with Vector Databases**: Demonstrates Retrieval-Augmented Generation (RAG) using embedding models and vector databases for efficient knowledge retrieval and response augmentation in Java-based AI Q&A systems.
 
-- **Architecture**: Integrates **Alibaba Cloud AI services** with **Spring AI** for modular AI agent development, combining **retrieval-augmented generation (RAG)** with **func
+- **Agentic Workflows with Function Calling**: Integrates AI agent architectures supporting function calls, SSE (Server-Sent Events) streaming, and historical message management for dynamic, stateful interactions.
+
+- **Multimodal AI Capabilities**: Supports image generat
 
 ## Use Cases
 

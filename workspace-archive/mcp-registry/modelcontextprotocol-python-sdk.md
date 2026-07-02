@@ -12,8 +12,8 @@ resource_kind: framework
 importance: high
 tags:
 - github-repo
-- hackernews
 - python
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Official Python SDK for Model Context Protocol (MCP) servers and clients, enabling structured interaction with MCP-compliant systems.
-- **Key Metrics**: 23,447 stars, 3,580 forks, last updated on 2026-06-26.
-- **Technical Stack**: Python-based implementation for MCP protocol integration.
+- **Official Python SDK** for Model Context Protocol (MCP) servers and clients, enabling structured interaction with MCP-compliant systems.
+- **Repository metrics**: 23,514 stars, 3,602 forks, last updated July 2, 2026.
+- **Primary language**: Python, designed for seamless integration with MCP-based tools and workflows.
 
 ## Use Cases
 

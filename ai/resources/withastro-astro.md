@@ -4,23 +4,22 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/withastro/astro
-collected_at: '2026-06-27T04:18:25.570061+05:30'
-published_at: '2026-06-26T22:36:56Z'
+collected_at: '2026-07-03T04:00:13.854519+05:30'
+published_at: '2026-07-02T22:14:06Z'
 tags:
-- frontend_ui
 - github-repo
 - typescript
-stars: 60531
+stars: 60666
 language: TypeScript
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2021-03-15T17:19:47Z'
-pushed_at: '2026-06-26T22:17:59Z'
+pushed_at: '2026-07-02T20:59:45Z'
 resource_id: github:withastro/astro
-first_seen: '2026-06-27T04:18:25.570061+05:30'
-last_seen: '2026-06-27T04:18:25.570061+05:30'
-last_checked: '2026-06-27T04:18:25.570061+05:30'
+first_seen: '2026-07-03T04:00:13.854519+05:30'
+last_seen: '2026-07-03T04:00:13.854519+05:30'
+last_checked: '2026-07-03T04:00:13.854519+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Rendering Engine**: Astro supports static site generation (SSG), server-side rendering (SSR), and partial hydration via "islands architecture," enabling optimized performance for content-driven websites by minimizing client-side JavaScript.
+- **Hybrid Static/Server Rendering**: Astro supports static site generation (SSG) for content-driven sites while enabling server-side rendering (SSR) for dynamic content, allowing hybrid deployment strategies.
 
-- **Component Framework Agnostic**: Integrates seamlessly with React, Vue, Svelte, Preact, and others, allowing developers to use their preferred UI components while Astro handles the build and optimization process.
+- **Islands Architecture**: Implements partial hydration via "islands"—interactive UI components isolated from static content, optimizing performance by reducing JavaScript payload.
 
-- **Zero-JS by Default**: Prioritizes fast load times by shipping minimal JavaScript at runtime, with optional partial hydration for interactive components, ensuring high performance even for complex sites.
+- **Universal Framework**: Built in TypeScript, supports Node.js backends and browser execution, enabling cross-environment component reuse and seamless integration with modern frontend tooling.
 
 ## Why It Matters
 
@@ -41,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: withastro
-- Stars: 60531
-- Forks: 3574
+- Stars: 60666
+- Forks: 3587
 - Language: TypeScript
 - Topics: astro, blog, browser, components, hybrid, islands, node, server, static, static-site-generator, universal
-- Last Updated: 2026-06-26T22:36:56Z
+- Last Updated: 2026-07-02T22:14:06Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2021-03-15T17:19:47Z
-- Pushed At: 2026-06-26T22:17:59Z
+- Pushed At: 2026-07-02T20:59:45Z
 
 ## Possible Use Cases
 

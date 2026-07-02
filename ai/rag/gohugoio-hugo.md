@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/gohugoio/hugo/releases
-published_at: '2026-07-02T22:38:31.469902+05:30'
-collected_at: '2026-07-02T22:38:31.469916+05:30'
+published_at: '2026-07-03T03:56:13.255810+05:30'
+collected_at: '2026-07-03T03:56:13.255826+05:30'
 tags:
 - agents
 - frontend_ui
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugo
-first_seen: '2026-07-02T22:38:31.469916+05:30'
-last_seen: '2026-07-02T22:38:31.469916+05:30'
-last_checked: '2026-07-02T22:38:31.469916+05:30'
+first_seen: '2026-07-03T03:56:13.255826+05:30'
+last_seen: '2026-07-03T03:56:13.255826+05:30'
+last_checked: '2026-07-03T03:56:13.255826+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Hugo v0.163.3** introduces fixes for markup rendering (code block escaping), parser preservation of non-ASCII whitespace, and support for Babel/PostCSS config variants in resource processing.
+- **Hugo v0.163.3** includes fixes for code block rendering (escaping `lang` attributes), preservation of non-ASCII whitespace in parsers, and support for Babel/PostCSS config variants in resource processing.
 
-- **Hugo v0.163.2** resolves Node.js resolver access issues and standardizes behavior for missing external converters in markup processing.
+- **Hugo v0.163.2** resolves `ERR_ACCESS_DENIED` in Node's resolver and standardizes behavior for missing external converters in markup processing.
 
-- **Hugo v0.163.0** improves AVIF image handling with adjusted default quality (60), per-format quality settings, and added encoding hints for lossy compression.
+- **Hugo v0.163.0** improves AVIF image handling with configurable quality settings (default reduced to 60) and introduces `hint` parameter support for AVIF/WEBP compression.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T22:38:31.469902+05:30
+- Published: 2026-07-03T03:56:13.255810+05:30
 
 ## Related Tags
 

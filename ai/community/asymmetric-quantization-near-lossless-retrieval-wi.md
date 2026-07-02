@@ -14,13 +14,14 @@ tags:
 - hackernews
 - models
 - rag
-status: active
+status: inactive
 resource_id: hackernews:asymmetric-quantization-near-lossless-retrieval-wi
 first_seen: '2026-07-02T15:03:25.338083+05:30'
 last_seen: '2026-07-02T22:32:57.994086+05:30'
 last_checked: '2026-07-02T22:32:57.994086+05:30'
 health_score: 100
 ---
+
 
 # Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction
 

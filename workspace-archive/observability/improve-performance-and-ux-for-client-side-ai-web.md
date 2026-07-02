@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Client-side AI benefits and libraries**: Client-side AI runs in-browser, offering low latency, reduced server costs, privacy, and offline access. Key libraries include TensorFlow.js, Transformers.js, and MediaPipe GenAI, but performance overheads (model size, GPU/CPU load) must be managed.
+- **Client-side AI benefits and trade-offs**: Client-side AI runs in-browser, offering low latency, reduced server costs, privacy, and offline access but introduces performance overhead due to model downloads and computational demands; libraries like TensorFlow.js, Transformers.js, and MediaPipe GenAI enable cross-browser deployment.
 
-- **Model size and optimization strategies**: Model size varies widely (e.g., 9.4KB for BudouX, 1.3GB for Gemma 2B). Optimize by selecting task-specific models, using model shrinking techniques, and lever
+- **Model size and optimization strategies**: Model size varies widely (e.g., 9.4KB for BudouX vs. 1.3GB for Gemma 2B); techniques like model shrinking, task-speci
 
 ## Use Cases
 

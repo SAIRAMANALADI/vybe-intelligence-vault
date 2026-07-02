@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **AI Fundamentals**: AI encompasses non-human programs/models performing complex problem-solving and creativity, including generative AI which creates new content; capabilities vary widely across technologies.
+- **AI Fundamentals**: AI refers to non-human programs/models performing complex tasks (e.g., problem-solving, creativity, content generation) via machine learning (ML), with generative AI creating new content from learned patterns.
 
-- **AI Deployment Models**: Client-side AI (browser-based inference) offers low latency, privacy, and offline access via libraries like Transformers.js/TensorFlow.js, while server-side AI leverages cloud-based LLMs (e.g., Gemini 1.5 Pro); hybrid approaches combine both.
+- **AI Deployment Models**: AI inference occurs either client-side (browser-based, e.g., Transformers.js, TensorFlow.js) for low latency/privacy or server-side (cloud-based, e.g., LLMs) for scalability, with hybrid approaches combining both.
 
-- **Challenges
+- **Key Challenges**: A
 
 ## Use Cases
 

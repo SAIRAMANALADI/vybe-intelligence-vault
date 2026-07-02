@@ -4,22 +4,22 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/youtube/api-samples
-collected_at: '2026-07-02T01:51:10.393693+05:30'
-published_at: '2026-07-01T07:15:37Z'
+collected_at: '2026-07-03T03:56:07.116200+05:30'
+published_at: '2026-07-02T09:16:29Z'
 tags:
 - github-repo
 - java
 - youtube
-stars: 6004
+stars: 6005
 language: Java
 status: active
 archived: true
 created_at: '2013-12-09T18:41:41Z'
 pushed_at: '2024-06-09T20:38:03Z'
 resource_id: github:youtube/api-samples
-first_seen: '2026-07-02T01:51:10.393693+05:30'
-last_seen: '2026-07-02T01:51:10.393693+05:30'
-last_checked: '2026-07-02T01:51:10.393693+05:30'
+first_seen: '2026-07-03T03:56:07.116200+05:30'
+last_seen: '2026-07-03T03:56:07.116200+05:30'
+last_checked: '2026-07-03T03:56:07.116200+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides language-specific code samples for YouTube Data, Analytics, and Live Streaming APIs.
-*   Primarily features Java implementations for API interaction.
-*   Facilitates development and integration with core YouTube platform functionalities via official APIs.
+- **Multi-API Sample Repository**: Provides code samples for YouTube Data, Analytics, and Live Streaming APIs, organized by language-specific directories (primarily Java).
+- **High Community Engagement**: Maintains 6,005 stars and 3,054 forks, indicating strong adoption and collaborative usage.
+- **Recent Updates**: Last modified on **2026-07-02**, ensuring compatibility with current API specifications and best practices.
 
 ## Why It Matters
 
@@ -38,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: youtube
-- Stars: 6004
-- Forks: 3053
+- Stars: 6005
+- Forks: 3054
 - Language: Java
 - Topics: None
-- Last Updated: 2026-07-01T07:15:37Z
+- Last Updated: 2026-07-02T09:16:29Z
 - Archived: Yes
 - Created At: 2013-12-09T18:41:41Z
 - Pushed At: 2024-06-09T20:38:03Z

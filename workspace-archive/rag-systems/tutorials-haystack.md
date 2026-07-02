@@ -6,14 +6,13 @@ source_url: https://haystack.deepset.ai/tutorials
 resource_id: blog:tutorials-haystack
 local_vault_path: ai/rag/tutorials-haystack.md
 quality_score: 70
-archive_score: 74
+archive_score: 76
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
 - agents
 - benchmark
-- hackernews
 - models
 - openai
 - rag
@@ -30,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -40,9 +39,9 @@ selection_reason:
 
 - **Evaluation Framework**: Haystack provides a guided walkthrough for evaluating RAG pipelines using statistical and model-based metrics, enabling systematic performance assessment of generative QA systems.
 
-- **Multimodal & Agentic Workflows**: Tutorials cover advanced implementations including multimodal RAG (combining text and vision), multi-agent systems for modular task delegation, and human-in-the-loop validation for safer agent execution.
+- **Multimodal RAG Pipeline**: Tutorial demonstrates building a vision+text RAG pipeline using Haystack to answer queries grounded in both image and text data, leveraging multimodal embeddings and retrieval.
 
-- **Optimization & Deployment**: Includes techni
+- **Agentic RAG with Fallback**: Covers creating an agentic RAG system with condit
 
 ## Use Cases
 

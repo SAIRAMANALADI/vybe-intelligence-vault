@@ -4,18 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/deepset
-published_at: '2026-07-02T01:59:06.267321+05:30'
-collected_at: '2026-07-02T01:59:06.267336+05:30'
+published_at: '2026-07-03T03:55:22.455015+05:30'
+collected_at: '2026-07-03T03:55:22.455026+05:30'
 tags:
 - agents
-- hackernews
+- benchmark
 - rag
+- scripts
 - web-crawled
 status: active
 resource_id: blog:deepset-deepset
-first_seen: '2026-07-02T01:59:06.267336+05:30'
-last_seen: '2026-07-02T01:59:06.267336+05:30'
-last_checked: '2026-07-02T01:59:06.267336+05:30'
+first_seen: '2026-07-03T03:55:22.455026+05:30'
+last_seen: '2026-07-03T03:55:22.455026+05:30'
+last_checked: '2026-07-03T03:55:22.455026+05:30'
 health_score: 100
 ---
 
@@ -23,9 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoQuizzer**: A Hugging Face Space by deepset that automates quiz generation using LLMs, enabling interactive Q&A sessions or LLM-driven gameplay.
-- **Functionality**: Supports three modes—quiz generation, human participation, or LLM-based gameplay—via a user-friendly interface.
-- **Technical Stack**: Leverages Hugging Face Spaces for deployment and integrates LLMs (e.g., 🦙) for dynamic content creation and interaction.
+- **AutoQuizzer**: An interactive Hugging Face Space by deepset enabling automated quiz generation, human play, or LLM-based quiz play via a web interface.
+
+- **Core Functionality**: Leverages a language model (🦙 LLM) to dynamically generate quizzes, evaluate responses, and facilitate interactive quiz sessions in real-time.
+
+- **Deployment**: Hosted as a public Space on Hugging Face, providing an accessible, no-code solution for quiz automation and evaluation.
 
 ## Why It Matters
 
@@ -35,13 +38,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T01:59:06.267321+05:30
+- Published: 2026-07-03T03:55:22.455015+05:30
 
 ## Related Tags
 
 - agents
-- hackernews
+- benchmark
 - rag
+- scripts
 - web-crawled
 
 ## Source

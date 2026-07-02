@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/
-published_at: '2026-07-02T22:37:10.787100+05:30'
-collected_at: '2026-07-02T22:37:10.787114+05:30'
+published_at: '2026-07-03T03:54:11.037248+05:30'
+collected_at: '2026-07-03T03:54:11.037265+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-07-02T22:37:10.787114+05:30'
-last_seen: '2026-07-02T22:37:10.787114+05:30'
-last_checked: '2026-07-02T22:37:10.787114+05:30'
+first_seen: '2026-07-03T03:54:11.037265+05:30'
+last_seen: '2026-07-03T03:54:11.037265+05:30'
+last_checked: '2026-07-03T03:54:11.037265+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR & Structured Extraction**: LlamaParse leverages Vision-Language Model (VLM)-powered agents for agentic OCR, enabling layout-aware parsing, structured schema extraction, and automated document understanding with minimal manual intervention.
+- **Agentic OCR & VLM Integration**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, reducing manual processing from hours to seconds with structured extraction and schema-based insights.
 
-- **Multi-Modal & Error-Corrected Processing**: Supports parsing of complex documents (handwritten text, tables, charts) with specialized expert agents, auto-correction loops for error detection/fixing, and high pass-through rates even on noisy or multi-modal inputs.
+- **Multi-Modal Parsing & Auto-Correction**: Supports 50+ unstructured file types (PDFs, images, handwritten text, charts, tables) with task-specific agents, recursive error detection loops, and bounding box outputs for high-fidelity extraction.
 
-- **Enterprise-Grade Performance & Security**: Benchmarked for superior accuracy in parsing, table/chart extraction, and indexing; offers 99.9% uptime, HIPAA/GDPR/SOC2 compliance, granular access controls, and flexible deployment (cloud or VPC).
+- **Enterprise-Grade Features**: Offers 10K free credits/month, HIPAA/GDPR/SOC2 compliance, 99.9% uptime, flexible cloud/VPC deployment, and dedicated SLAs for scalable, secure document automation in finance, healthcare, and manufacturing.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T22:37:10.787100+05:30
+- Published: 2026-07-03T03:54:11.037248+05:30
 
 ## Related Tags
 

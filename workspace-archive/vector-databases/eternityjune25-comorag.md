@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -30,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Cognitive-Inspired Memory Organization**: Introduces a memory-optimized RAG (Retrieval-Augmented Generation) framework mimicking human-like memory structures to enhance stateful long narrative reasoning, leveraging hierarchical and associative memory modules.
+- **Cognitive Architecture**: Introduces a memory-organized RAG (Retrieval-Augmented Generation) framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
 
-- **Stateful Long Narrative Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended dialogues or narratives, improving reasoning consistency in multi-turn interactions.
+- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended interactions, leveraging episodic and semantic memory layers for enhanced reasoning.
+
+- **AAAI 2026 Contribution**: Proposes a novel approach
 
 ## Use Cases
 

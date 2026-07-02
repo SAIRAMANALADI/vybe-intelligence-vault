@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: Hosts the static site for *Ragnarok Offline Pre-Renewal Pack*, a non-subscription version of *Ragnarok Online*.
-- **Technical Stack**: Built with **HTML**, leveraging *OpenKore*, *rAthena*, and *ROPre* for offline server emulation.
-- **Metadata**: 17 stars, 7 forks, last updated **2026-07-01**; focuses on *Pre-Renewal* mechanics.
+- **Repository**: Hosts the static website for *Ragnarok Offline Pre-Renewal Pack*, a modified version of *Ragnarok Online* using *OpenKore* and *rAthena* server emulation.
+- **Technical Stack**: Pure HTML-based frontend with no backend logic, serving as a documentation/hosting hub for offline client modifications.
+- **Last Updated**: July 1, 2026 (commit timestamp), with 17 stars and 7 forks, indicating limited but active community engagement.
 
 ## Use Cases
 

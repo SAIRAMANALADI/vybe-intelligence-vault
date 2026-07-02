@@ -13,13 +13,14 @@ collected_at: '2026-07-02T22:32:56.335649+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-mail-memories-a-desktop-app-to-rescue-phot
 first_seen: '2026-07-02T22:32:56.335649+05:30'
 last_seen: '2026-07-02T22:32:56.335649+05:30'
 last_checked: '2026-07-02T22:32:56.335649+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Mail Memories – A desktop app to rescue photos from Gmail
 

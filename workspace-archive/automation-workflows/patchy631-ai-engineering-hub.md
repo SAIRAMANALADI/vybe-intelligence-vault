@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - workflows
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Resource Collection**: GitHub repository (`patchy631/ai-engineering-hub`) with 36,271 stars and 5,997 forks, containing Jupyter Notebook-based tutorials on LLMs, RAGs, and real-world AI agent applications.
-- **Technical Focus**: Covers advanced topics including **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **AI agents**, **MCP (Model Context Protocol)**, and **machine learning** implementations.
-- **Last Updated**: July 2, 2026, ensuring recent and relevant tech
+- **Comprehensive LLM & RAG Tutorials**: Repository provides detailed, hands-on Jupyter Notebook-based guides covering Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and their integration into real-world AI agent applications.
+
+- **AI Agent Applications**: Focuses on practical implementations of AI agents, including Multi-Chain Processing (MCP) and advanced machine learning workflows, with real-world use-case demonstrations.
+
+- **High Community Engagement**: Maintains signif
 
 ## Use Cases
 

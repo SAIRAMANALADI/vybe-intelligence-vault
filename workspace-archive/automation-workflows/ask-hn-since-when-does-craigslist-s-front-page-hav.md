@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by argee. Score: 5, Comments: 3.
+Hacker News story by argee. Score: 30, Comments: 29.
 Original Link: None
 
 ## Use Cases

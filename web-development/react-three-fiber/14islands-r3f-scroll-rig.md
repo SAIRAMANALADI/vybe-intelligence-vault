@@ -4,18 +4,18 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/14islands/r3f-scroll-rig
-collected_at: '2026-07-01T20:43:05.232324+05:30'
-published_at: '2026-07-01T11:54:17Z'
+collected_at: '2026-07-03T03:50:14.610237+05:30'
+published_at: '2026-07-02T21:51:30Z'
 tags:
 - frontend_ui
 - threejs
-stars: 948
+stars: 949
 language: TypeScript
 status: active
 resource_id: github:14islands/r3f-scroll-rig
 first_seen: '2026-06-12T10:40:15.865486+00:00'
-last_seen: '2026-07-01T20:43:05.232324+05:30'
-last_checked: '2026-07-01T20:43:05.232324+05:30'
+last_seen: '2026-07-03T03:50:14.610237+05:30'
+last_checked: '2026-07-03T03:50:14.610237+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: 14islands
-- Stars: 948
+- Stars: 949
 - Forks: 48
 - Language: TypeScript
 - Topics: lenis, react-three-fiber, smoothscroll
-- Last Updated: 2026-07-01T11:54:17Z
+- Last Updated: 2026-07-02T21:51:30Z
 
 ## Possible Use Cases
 

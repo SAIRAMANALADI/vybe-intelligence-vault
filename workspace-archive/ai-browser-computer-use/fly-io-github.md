@@ -32,14 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Fly.io** is a cloud platform by **superfly** for deploying containerized applications globally, with verified domain control (`fly.io`) and GitHub organization backing.
-
-- Key open-source projects include:
-  - **flyctl** (Go): CLI for Fly.io service management.
-  - **litefs** (Go): FUSE-based distributed SQLite replication system.
-  - **corrosion** (Rust): Gossip-based service discovery for large-scale distributed systems.
-
-- Additional notable repositories: **fly-go** (Go API client), **fly
+- **Fly.io** is a cloud computing platform specializing in distributed application deployment, with verified domain control by **superfly** (GitHub organization).
+- Key open-source tools include **flyctl** (Go-based CLI for Fly.io services), **LiteFS** (FUSE-based distributed SQLite replication), and **corrosion** (Rust-based gossip protocol for service discovery).
+- The organization maintains 264+ repositories, including Go/Python clients, PostgreSQL operators, and VS Code extensions, primarily
 
 ## Use Cases
 

@@ -6,7 +6,7 @@ source_url: https://github.com/IBM/mt-rag-benchmark
 resource_id: github:ibm/mt-rag-benchmark
 local_vault_path: ai/rag/ibm-mt-rag-benchmark.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Overview**: Evaluates Multi-Turn Retrieval-Augmented Generation (RAG) systems, focusing on iterative query refinement and context retention across turns.
-- **Technical Implementation**: Python-based framework with standardized datasets and metrics for assessing RAG performance in multi-turn conversational settings.
-- **Evaluation Metrics**: Includes turn-level accuracy, context utilization, and response coherence, enabling comparative analysis of RAG models.
+- **Benchmark Suite**: Multi-Turn Retrieval-Augmented Generation (RAG) evaluation framework designed to assess conversational RAG systems across multi-turn interactions.
+- **Technical Stack**: Implemented in Python, leveraging modular components for dataset handling, retrieval, and generation evaluation.
+- **Evaluation Focus**: Measures performance metrics (e.g., answer correctness, context relevance, coherence) in multi-turn conversational RAG scenarios.
 
 ## Use Cases
 

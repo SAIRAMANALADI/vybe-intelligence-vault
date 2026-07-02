@@ -6,10 +6,10 @@ source_url: https://github.com/pguso/ai-agents-from-scratch
 resource_id: github:pguso/ai-agents-from-scratch
 local_vault_path: ai/agents/pguso-ai-agents-from-scratch.md
 quality_score: 70
-archive_score: 75
-archive_tier: useful
-resource_kind: framework
-importance: medium
+archive_score: 85
+archive_tier: essential
+resource_kind: tutorial
+importance: high
 tags:
 - agents
 - frontend_ui
@@ -19,7 +19,7 @@ tags:
 - meta-ai
 - models
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # pguso/ai-agents-from-scratch
@@ -27,16 +27,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 85 (essential)
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using JavaScript, focusing on local LLMs (via `node-llama-cpp`) to avoid black-box abstractions.
-- **Core Technical Concepts**: Covers function calling, memory management, and ReAct (Reasoning and Acting) patterns to implement agentic behavior without proprietary dependencies.
-- **Project Structure**: Demonstrates practical integration of agent frameworks (e.g., React-based agents) with local LLMs, upd
+- **Educational Repository**: Provides a hands-on tutorial to build AI agents from scratch using local LLMs (via `node-llama-cpp`) in JavaScript, emphasizing transparency and eliminating "black box" dependencies.
+
+- **Core Technical Focus**: Covers essential AI agent components—function calling, memory management, and ReAct (Reasoning and Acting) patterns—for practical implementation and understanding.
+
+- **Project Structure**: Includes modular examples (e.g., React-based agents) and updated as
 
 ## Use Cases
 

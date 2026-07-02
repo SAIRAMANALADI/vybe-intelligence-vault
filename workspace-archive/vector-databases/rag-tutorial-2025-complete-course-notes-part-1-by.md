@@ -6,7 +6,7 @@ source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-n
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
 local_vault_path: ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md
 quality_score: 70
-archive_score: 76
+archive_score: 78
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 78 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines LLMs with retrieval systems to fetch external information (documents, databases) for improved accuracy while avoiding context window overload; splits into **injection pipeline** (chunking, embedding) and **retrieval pipeline** (query embedding, similarity search).
+- **RAG Architecture**: Combines LLMs with retrieval systems to fetch external information (documents, databases) dynamically, avoiding context window overload; divided into **Injection Pipeline** (data ingestion, chunking, embedding) and **Retrieval Pipeline** (query embedding, similarity search, answer generation).
 
-- **Embedding Fundamentals**: Converts text chunks/queries into high-dimensional vectors (e.g., OpenAI’s 3,072-dim embeddings) where semantic similarity is preserved—closer vectors indicate related mea
+- **Embedding Fundamentals**: Converts text chunks into high-dimensional vectors (e.g., OpenAI’s `text-embedding-3-large` uses 3,072 dimensions) where semantic similarity is preser
 
 ## Use Cases
 

@@ -39,9 +39,9 @@ selection_reason:
 
 - **Repository Overview**: A Python-based AI cookbook providing practical examples and tutorials for building AI systems, covering topics like agents, LLMs (OpenAI, Anthropic), and AI development workflows.
 
-- **Key Metrics**: 4,261 stars, 1,504 forks, last updated June 30, 2026, with active contributions in AI/ML development.
+- **Key Metrics**: 4,274 stars, 1,507 forks, last updated July 2, 2026, with a focus on AI/ML implementation guides and agent-based architectures.
 
-- **Technical Focus**: Demonstrates integration with major AI frameworks (OpenAI, Anthropic) and emphasizes agent-based AI system design in Python.
+- **Technical Scope**: Demonstrates integration with OpenAI and Anthropic LLMs, emphasizing Python-based AI system development, agent frameworks
 
 ## Use Cases
 

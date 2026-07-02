@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/ParseBench
-collected_at: '2026-07-02T22:36:50.432797+05:30'
-published_at: '2026-06-30T16:29:33Z'
+collected_at: '2026-07-03T03:53:50.291288+05:30'
+published_at: '2026-07-02T20:41:49Z'
 tags:
 - agents
 - benchmark
@@ -21,11 +21,11 @@ status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-04-10T20:46:33Z'
-pushed_at: '2026-06-25T00:20:31Z'
+pushed_at: '2026-07-02T20:41:45Z'
 resource_id: github:run-llama/parsebench
-first_seen: '2026-07-02T22:36:50.432797+05:30'
-last_seen: '2026-07-02T22:36:50.432797+05:30'
-last_checked: '2026-07-02T22:36:50.432797+05:30'
+first_seen: '2026-07-03T03:53:50.291288+05:30'
+last_seen: '2026-07-03T03:53:50.291288+05:30'
+last_checked: '2026-07-03T03:53:50.291288+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: ParseBench is a benchmarking suite designed to evaluate document parsing capabilities of AI agents, focusing on metrics like OCR accuracy, table extraction, and PDF parsing.
-- **Key Features**: Supports evaluation across multiple document types (PDFs, images, structured tables) with integration for LLMs (e.g., LlamaIndex) and vision-language models.
-- **Technical Scope**: Includes Python-based tools for automated testing, metrics computation, and comparative analysis of parsing pipelines (e.g., OCR + LLM vs. end-to-end models).
+- **Purpose**: ParseBench is a specialized benchmarking framework designed to evaluate document parsing capabilities of AI agents, focusing on tasks like PDF parsing, OCR, and table extraction.
+- **Key Features**: Supports evaluation across multiple modalities (text, vision-language models) and integrates with libraries like LlamaIndex for structured document processing.
+- **Technical Scope**: Includes metrics for assessing performance in document-AI tasks, enabling comparison of models, OCR engines, and parsing pipelines.
 
 ## Why It Matters
 
@@ -48,11 +48,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 67
 - Language: Python
 - Topics: benchmark, document-ai, document-parsing, evaluation, llamaindex, llm, machine-learning, ocr, pdf-parsing, table-extraction, vision-language-models
-- Last Updated: 2026-06-30T16:29:33Z
+- Last Updated: 2026-07-02T20:41:49Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-04-10T20:46:33Z
-- Pushed At: 2026-06-25T00:20:31Z
+- Pushed At: 2026-07-02T20:41:45Z
 
 ## Possible Use Cases
 

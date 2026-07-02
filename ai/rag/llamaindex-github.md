@@ -4,21 +4,23 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/run-llama
-published_at: '2026-07-02T22:37:15.810841+05:30'
-collected_at: '2026-07-02T22:37:15.810855+05:30'
+published_at: '2026-07-03T03:54:15.676118+05:30'
+collected_at: '2026-07-03T03:54:15.676131+05:30'
 tags:
 - agents
+- hackernews
 - meta-ai
 - models
 - rag
+- reddit
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:llamaindex-github
-first_seen: '2026-07-02T22:37:15.810855+05:30'
-last_seen: '2026-07-02T22:37:15.810855+05:30'
-last_checked: '2026-07-02T22:37:15.810855+05:30'
+first_seen: '2026-07-03T03:54:15.676131+05:30'
+last_seen: '2026-07-03T03:54:15.676131+05:30'
+last_checked: '2026-07-03T03:54:15.676131+05:30'
 health_score: 100
 ---
 
@@ -26,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via `Parse` and `Extract` APIs for document processing workflows, with platform documentation available at [developers.llamaindex.ai](https://developers.llamaindex.ai/python/cloud/).
+- **LlamaParse Cloud Services**: Provides cloud-based OCR/document parsing (`Parse`, `Extract`) with state-of-the-art (SOTA) agentic OCR capabilities for document workflows and AI agents.
 
-- **Open-Source Tooling**: Includes `LiteParse` (lightweight OCR), `LlamaAgents` (agent orchestration framework), and `LlamaIndex` (Python library for LLM-based data pipelines), all with linked GitHub repositories and documentation.
+- **Open-Source Tooling**: Offers open-source alternatives (`LiteParse`, `LlamaAgents`, `LlamaIndex (Python)`) with modular architectures for local or custom deployments, including workflow orchestration and document processing.
 
-- **Community & Support**: Maintains active engagement via [X (Twitter)](https://twitter.com/llama_index), [LinkedIn](https://www.linkedin.com/company/llamaindex), and [YouTube](https://www.youtube.com/@llamaindex) for updates and tutorials.
+- **Multi-Platform Integration**: Supports cross-platform integration via official documentation, GitHub repositories, and social media channels (X/Twitter, LinkedIn, YouTube) for community engagement and technical support.
 
 ## Why It Matters
 
@@ -40,14 +42,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T22:37:15.810841+05:30
+- Published: 2026-07-03T03:54:15.676118+05:30
 
 ## Related Tags
 
 - agents
+- hackernews
 - meta-ai
 - models
 - rag
+- reddit
 - web-crawled
 - workflows
 - youtube

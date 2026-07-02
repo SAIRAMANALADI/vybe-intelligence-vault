@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Console Insights** feature in Chrome DevTools uses Google's LLMs to provide AI-generated explanations for console errors/warnings, requiring Chrome v124+, signed-in Google Account, and English (US) language settings.
+- **Console Insights Feature**: Chrome DevTools integrates Google's Gemini AI to provide contextual explanations for console errors/warnings via an "Understand this error" button, requiring Chrome 121+, signed-in Google Account, and English (US) settings.
 
-- **Data Collection**: Inputs include console messages, stack traces, source code, and network headers; outputs and usage data are collected by Google for product improvement, with human review possible and data retained for up to 18 months.
-
-- **Limitations & Risks**: LLMs may
+- **Data Collection & Privacy**: Input data (console messages, stack traces, source code, network headers) is processed by Google for feature improvement, with human review possible; data retention is up to 18 months and excludes enterprise-ma
 
 ## Use Cases
 

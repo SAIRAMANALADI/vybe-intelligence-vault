@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model with LlamaIndex for document retrieval and indexing in a Jupyter Notebook environment.
-
-- **Scalability**: Leverages a large-scale model (70B parameters) for enhanced contextual understanding and response generation, optimized for high-performance inference.
-
-- **Integration**: Combines Llama 2's generative capabilities with LlamaIndex's retrieval mechanisms to enable dynamic, context-aware Q&A or doc
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model via LlamaIndex in a Jupyter Notebook environment.
+- **Scalability**: Leverages a high-parameter-count model (70B) for enhanced contextual understanding and response generation.
+- **Update Status**: Repository last updated on May 24, 2026, indicating ongoing maintenance or development.
 
 ## Use Cases
 

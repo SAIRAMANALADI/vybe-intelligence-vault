@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-07-02T22:35:00.341298+05:30'
+collected_at: '2026-07-03T03:52:00.240342+05:30'
 published_at: '2026-06-30T16:43:51Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
-- reddit
+- workflows
 stars: 1172
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-07-02T16:43:41Z'
+pushed_at: '2026-07-02T20:46:37Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-07-02T22:35:00.341298+05:30'
-last_seen: '2026-07-02T22:35:00.341298+05:30'
-last_checked: '2026-07-02T22:35:00.341298+05:30'
+first_seen: '2026-07-03T03:52:00.240342+05:30'
+last_seen: '2026-07-03T03:52:00.240342+05:30'
+last_checked: '2026-07-03T03:52:00.240342+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A experiences, following Azure best practices.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure, leveraging **Azure AI Search** for vector-based retrieval and **Azure OpenAI** LLMs for generative responses, supporting both chat and Q&A workflows.
 
-- **Key Components**: Includes **Python-based** solution with **AZD templates**, integrating Azure AI Search for vector/keyword retrieval and Azure OpenAI for LLM-powered responses.
+- **Key Components**: Includes **Python-based** implementation with **AZD templates** for deployment, integrating best practices for indexing, retrieval, and prompt engineering in a production-grade RAG system.
 
-- **Features**: Provides end-to-end RAG pipeline with common requirements (e.g., document ingestion, embedding, retrieval, and chat interface) optimized for Azure deployments.
+- **Features**: Provides end-to-end solution with **semantic search**, **document processing**, and **LLM orchestration**, optimized for scalability and cost-efficiency in Azure cloud environments.
 
 ## Why It Matters
 
@@ -51,7 +51,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-07-02T16:43:41Z
+- Pushed At: 2026-07-02T20:46:37Z
 
 ## Possible Use Cases
 

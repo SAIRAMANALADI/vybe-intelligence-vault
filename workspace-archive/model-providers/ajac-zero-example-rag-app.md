@@ -16,7 +16,6 @@ tags:
 - openai
 - rag
 - typescript
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Observability & Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for 100+ provider compatibility (e.g., OpenAI, Anthropic, Hugging Face).
-- **DevOps & Type Safety**: Dockerized deployment with full TypeScript type-checking and 100% test coverage for robust, scalable RAG applications.
-- **Modern Stack**: TypeScript-based, actively maintained (last updated 2026-03-17), and optimized for AI/ML workflows with RAG-specific tooling.
+- **Multi-Provider LLM Integration**: Leverages LiteLLM to support 100+ LLM providers with unified API compatibility, enabling seamless switching between models (e.g., OpenAI, Anthropic, Hugging Face) via environment variables.
+
+- **Observability & Monitoring**: Embeds Langfuse for comprehensive LLM observability, tracking token usage, latency, and model performance metrics in real-time with full traceability of RAG pipeline interactions.
+
+- **Production-Grade Tooling**: Dockerized deployment wi
 
 ## Use Cases
 

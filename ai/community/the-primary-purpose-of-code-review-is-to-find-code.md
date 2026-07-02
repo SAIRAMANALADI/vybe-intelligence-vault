@@ -13,13 +13,14 @@ collected_at: '2026-07-02T22:32:56.685735+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-primary-purpose-of-code-review-is-to-find-code
 first_seen: '2026-07-02T22:32:56.685735+05:30'
 last_seen: '2026-07-02T22:32:56.685735+05:30'
 last_checked: '2026-07-02T22:32:56.685735+05:30'
 health_score: 100
 ---
+
 
 # The primary purpose of code review is to find code that will be hard to maintain
 

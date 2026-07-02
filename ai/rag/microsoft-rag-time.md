@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-07-02T22:34:05.322417+05:30'
+collected_at: '2026-07-03T03:51:05.248757+05:30'
 published_at: '2026-06-28T15:57:16Z'
 tags:
 - github-repo
@@ -13,6 +13,8 @@ tags:
 - models
 - openai
 - rag
+- reddit
+- workflows
 stars: 888
 language: Jupyter Notebook
 status: active
@@ -21,9 +23,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-07-02T22:34:05.322417+05:30'
-last_seen: '2026-07-02T22:34:05.322417+05:30'
-last_checked: '2026-07-02T22:34:05.322417+05:30'
+first_seen: '2026-07-03T03:51:05.248757+05:30'
+last_seen: '2026-07-03T03:51:05.248757+05:30'
+last_checked: '2026-07-03T03:51:05.248757+05:30'
 health_score: 100
 ---
 
@@ -31,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Time**: A structured 5-week learning program focused on Retrieval-Augmented Generation (RAG) techniques, covering hybrid search, vector indexing, and quantization methods (binary/scalar) for efficient LLM retrieval.
-- **Key Technologies**: Integrates Azure, OpenAI APIs, HNSW (Hierarchical Navigable Small World) for approximate nearest neighbor search, and Matryoshka Representation Learning for scalable embeddings.
-- **Tools & Practices**: Includes Jupyter Notebooks for hands-on implementation, supports multimodal RAG, and emphasizes responsible AI practices in LLM deployment via Visual Studio Code.
+- **Comprehensive RAG Mastery Guide**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization, HNSW indexing, and Matryoshka representation learning.
+
+- **Multi-Tool Integration**: Demonstrates RAG workflows using Azure AI services, OpenAI LLMs, and VS Code, with notebooks focusing on multimodal inputs, responsible AI practices, and efficient vector search implementations.
+
+- **Optimized Retrieval Techniques**: Implements state-of-the-art retrieval methods (e.g., scalar/binary quantization, HNSW) for scalable, low-latency hybrid search in production-grade RAG systems.
 
 ## Why It Matters
 

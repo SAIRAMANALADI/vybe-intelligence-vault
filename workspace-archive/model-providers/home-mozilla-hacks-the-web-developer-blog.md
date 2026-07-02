@@ -2,7 +2,7 @@
 title: Home - Mozilla Hacks - the Web developer blog
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://hacks.mozilla.org
+source_url: https://hacks.mozilla.org/
 resource_id: blog:home-mozilla-hacks-the-web-developer-blog
 local_vault_path: ai/rag/home-mozilla-hacks-the-web-developer-blog.md
 quality_score: 70
@@ -17,7 +17,6 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -37,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **PACT: Anonymous Credentials for the Web** introduces a privacy-preserving credential system to mitigate bot traffic while maintaining web openness, leveraging cryptographic proofs for selective disclosure without revealing user identity.
+- **Firefox 151 introduces Web Serial API support**, enabling direct web-to-serial-device communication (e.g., microcontrollers, 3D printers) without native software, enhancing IoT/web integration.
 
-- **Web Serial API in Firefox 151** enables direct serial communication between web apps and hardware devices (e.g., microcontrollers, 3D printers) via a standardized browser API, eliminating the need for native software dependencies.
+- **Firefox 148 implements the Sanitizer API**, providing standardized XSS protection by sanitizing untrusted HTML before DOM insertion, mitigating cross-site scripting vulnerabilities.
 
-- **Firefox 148 imple
+- **Claude Mythos Preview aided Firefox security hardening**, identifying and fixing an unprecedented number of la
 
 ## Use Cases
 
@@ -51,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://hacks.mozilla.org
+Original source URL: https://hacks.mozilla.org/
 
 ## Local Vault File
 

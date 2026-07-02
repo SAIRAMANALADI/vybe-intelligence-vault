@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-02T22:35:40.320334+05:30'
+collected_at: '2026-07-03T03:52:40.195875+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-02T22:35:40.320334+05:30'
-last_seen: '2026-07-02T22:35:40.320334+05:30'
-last_checked: '2026-07-02T22:35:40.320334+05:30'
+first_seen: '2026-07-03T03:52:40.195875+05:30'
+last_seen: '2026-07-03T03:52:40.195875+05:30'
+last_checked: '2026-07-03T03:52:40.195875+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Memory Organization**: Introduces a memory-optimized RAG (Retrieval-Augmented Generation) framework mimicking human-like memory structures to enhance stateful long narrative reasoning, leveraging hierarchical and associative memory modules.
+- **Cognitive Architecture**: Introduces a memory-organized RAG (Retrieval-Augmented Generation) framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
 
-- **Stateful Long Narrative Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended dialogues or narratives, improving reasoning consistency in multi-turn interactions.
+- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended interactions, leveraging episodic and semantic memory layers for enhanced reasoning.
 
-- **AAAI 2026 Poster Submission**: Presents empirical results demonstrating superior performance in long-form reasoning tasks compared to traditional RAG baselines, with codebase available in Python for reproducibility.
+- **AAAI 2026 Contribution**: Proposes a novel approach to long-form narrative understanding, validated through empirical benchmarks demonstrating superior performance in stateful reasoning tasks compared to traditional RAG models.
 
 ## Why It Matters
 

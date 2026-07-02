@@ -13,6 +13,7 @@ importance: medium
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Framework designed for evaluating large language models (LLMs), implementing guardrails, and ensuring LLM security within Python-based workflows.
-- **Key Features**: Supports LLM evaluation metrics, real-time guardrail mechanisms, and security protocols to mitigate risks in generative AI applications.
-- **Integration**: Part of the Raga AI ecosystem, facilitating LLM operations (LLMOps) with modular components for deployment and monitoring.
+- **Purpose**: Framework for evaluating large language models (LLMs), implementing guardrails, and ensuring LLM security within production environments.
+- **Key Features**: Supports LLMops workflows, integrates security protocols, and provides structured evaluation metrics for model performance and safety.
+- **Technical Stack**: Python-based repository with modular design for extensibility in guardrail implementations and security enforcement.
 
 ## Use Cases
 

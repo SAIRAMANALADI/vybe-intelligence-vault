@@ -5,12 +5,13 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://firecrawl.dev
-published_at: '2026-07-01T10:30:30.010613+05:30'
-collected_at: '2026-07-01T10:30:30.010633+05:30'
+published_at: '2026-07-03T03:55:27.104019+05:30'
+collected_at: '2026-07-03T03:55:27.104030+05:30'
 tags:
 - agents
 - anthropic
 - benchmark
+- hackernews
 - openai
 - paper
 - producthunt
@@ -21,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:firecrawl-the-context-api-to-search-scrape-and-int
-first_seen: '2026-07-01T10:30:30.010633+05:30'
-last_seen: '2026-07-01T10:30:30.010633+05:30'
-last_checked: '2026-07-01T10:30:30.010633+05:30'
+first_seen: '2026-07-03T03:55:27.104030+05:30'
+last_seen: '2026-07-03T03:55:27.104030+05:30'
+last_checked: '2026-07-03T03:55:27.104030+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Specialized AI/ML Research Index**: Firecrawl Research Index provides state-of-the-art (SOTA) recall for AI/ML research, optimized for high-precision data retrieval and agentic workflows.
+- **Real-time Web Monitoring**: Firecrawl's `/monitor` feature provides always-on search, instantly pinging agents when new content appears online, enabling immediate data ingestion and processing.
 
-- **Multi-Format Web Data Extraction**: Supports structured (JSON), unstructured (Markdown), and interactive (screenshots, live interaction) data extraction from web pages, including JS-heavy SPAs, with 96% coverage and 93% token efficiency.
+- **Multi-Format Web Data Extraction**: Supports structured outputs (JSON, Markdown) and dynamic interactions (clicks, navigation) with 96% web coverage, including JS-heavy pages, while optimizing token efficiency (93% fewer input tokens).
 
-- **Open-Source Web Infrastructure**: Core toolkit (Python/Node.js SDKs, CLI, MCP) enables search, scrape, and real-time interaction with web data, backed by a high-performance, latency-optimized (P95: 3.4s) and open-source (142.3K GitHub stars) architecture.
+- **Open-Source Web Infrastructure**: Built for AI agents with sub-3.5s P95 latency, fair access partnerships (e.g., Wikimedia), and MCP/Skills integration for seamless agent onboarding and automation.
 
 ## Why It Matters
 
@@ -45,13 +46,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T10:30:30.010613+05:30
+- Published: 2026-07-03T03:55:27.104019+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
 - benchmark
+- hackernews
 - openai
 - paper
 - producthunt

@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Dataset Source**: CrUX aggregates real-world Chrome user experience data from globally distributed browsers, filtered by [user eligibility criteria](https://developer.chrome.com/docs/crux/methodology#user-eligibility).
-
-- **Core Web Vitals Integration**: Represents all user-centric [Core Web Vitals metrics](https://web.dev/articles/vitals) via structured [dimensions](https://developer.chrome.com/docs/crux/methodology/dimensions) and [metrics](https://developer.chrome.com/docs/crux/methodolog
+- **CrUX Dataset**: Public dataset from real Chrome users globally, representing Core Web Vitals metrics (e.g., LCP, FID, CLS) for popular web destinations.
+- **Eligibility & Dimensions**: Data collected from eligible users based on specific criteria; includes dimensions (e.g., device type, country) and metrics (e.g., FCP, TTFB) for performance analysis.
+- **Public Access & Ranking Impact**: Available via Google tools/third-party APIs; used in Google Search’s page experience ranking factor for e
 
 ## Use Cases
 

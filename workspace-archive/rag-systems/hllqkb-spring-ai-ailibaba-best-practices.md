@@ -6,7 +6,7 @@ source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
 local_vault_path: ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -15,6 +15,7 @@ tags:
 - github-repo
 - java
 - rag
+- reddit
 - workflows
 selection_reason:
 - Strong keyword match
@@ -26,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Implementation**: Java-based repository demonstrating AI question-answering systems using **SSE streaming**, **Agent-based workflows**, **knowledge graph RAG**, **Function Calling**, **historical message handling**, **image generation/understanding**, **Embedding models**, **Vector Databases**, and **RAG pipelines**.
+- **Implements RAG with Vector Databases**: Demonstrates Retrieval-Augmented Generation (RAG) using embedding models and vector databases for efficient knowledge retrieval and response augmentation in Java-based AI Q&A systems.
 
-- **Architecture**: Integrates **Alibaba Cloud AI services** with **Spring AI** for modular AI agent development, combining **retrieval-augmented generation (RAG)** with **func
+- **Agentic Workflows with Function Calling**: Integrates AI agent architectures supporting function calls, SSE (Server-Sent Events) streaming, and historical message management for dynamic, stateful interactions.
+
+- **Multimodal AI Capabilities**: Supports image generat
 
 ## Use Cases
 

@@ -2,7 +2,7 @@
 title: Sign in to GitHub · GitHub
 archive_category: agent-frameworks
 source_category: ai/agents
-source_url: https://github.com/langchain-ai/docs/edit/main/src/oss/deepagents/overview.mdx
+source_url: https://github.com/langchain-ai/docs/edit/main/src/oss/deepagents/code/overview.mdx
 resource_id: github:langchain-ai/docs
 local_vault_path: ai/agents/langchain-ai-docs.md
 quality_score: 70
@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
+- hackernews
 - web-crawled
 selection_reason:
 - Active open-source repository
@@ -29,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- GitHub authentication failure detected during page load, requiring a manual reload.
-- Account creation link provided for new users, redirecting to signup with return path to specific documentation edit page.
-- Passkey-based authentication option available as an alternative sign-in method.
+- **Authentication Error**: The GitHub login page encountered an error during page load, requiring a manual reload.
+- **Account Creation Link**: Provides a direct URL (`/signup`) for new user registration with a return path to the specific documentation page.
+- **Passkey Support**: Implicitly indicates support for passkey-based authentication (modern FIDO2/WebAuthn alternative to passwords).
 
 ## Use Cases
 
@@ -41,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/langchain-ai/docs/edit/main/src/oss/deepagents/overview.mdx
+Original source URL: https://github.com/langchain-ai/docs/edit/main/src/oss/deepagents/code/overview.mdx
 
 ## Local Vault File
 

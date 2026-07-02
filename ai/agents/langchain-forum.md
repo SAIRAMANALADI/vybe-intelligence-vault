@@ -4,18 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://forum.langchain.com/
-published_at: '2026-07-01T15:50:26.120141+05:30'
-collected_at: '2026-07-01T15:50:26.120155+05:30'
+published_at: '2026-07-03T03:55:53.791798+05:30'
+collected_at: '2026-07-03T03:55:53.791812+05:30'
 tags:
 - agents
-- hackernews
 - web-crawled
 - youtube
 status: active
 resource_id: blog:langchain-forum
-first_seen: '2026-07-01T15:50:26.120155+05:30'
-last_seen: '2026-07-01T15:50:26.120155+05:30'
-last_checked: '2026-07-01T15:50:26.120155+05:30'
+first_seen: '2026-07-03T03:55:53.791812+05:30'
+last_seen: '2026-07-03T03:55:53.791812+05:30'
+last_checked: '2026-07-03T03:55:53.791812+05:30'
 health_score: 100
 ---
 
@@ -23,9 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Official LangChain Updates**: Dedicated forum category for product updates and announcements from the LangChain team (7 topics).
-- **Technical Support Hubs**: Two specialized categories for troubleshooting—OSS frameworks (34 topics) and LangSmith (142 topics).
-- **Community & Feedback Channels**: Includes discussion on agentic applications (101 topics) and forum improvements (17 topics).
+- **Official Product Updates**: The [Announcements](https://forum.langchain.com/c/announcements/15) category provides official updates from the LangChain team, including product releases and changes.
+
+- **Community Support Forums**: Multiple categories ([OSS Product Help](https://forum.langchain.com/c/oss-product-help-lc-and-lg/16), [LangSmith Product Help](https://forum.langchain.com/c/help/9)) facilitate expert-driven troubleshooting for open-source frameworks and LangSmith.
+
+- **Discussion & Feedback Channels**: Categories like [Talking Shop](https://forum.langchain.com/c/talking-shop/12) and [Forum Feedback](https://forum.langchain.com/c/forum-feedback/2) enable community discussions on agentic applications and forum improvements, respectively.
 
 ## Why It Matters
 
@@ -35,12 +36,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-01T15:50:26.120141+05:30
+- Published: 2026-07-03T03:55:53.791798+05:30
 
 ## Related Tags
 
 - agents
-- hackernews
 - web-crawled
 - youtube
 

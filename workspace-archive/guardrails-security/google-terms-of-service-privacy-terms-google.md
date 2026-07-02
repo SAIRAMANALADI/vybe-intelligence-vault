@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Service Provider & Legal Framework**: Google LLC (Delaware, USA) operates under U.S. laws, providing services under a contractual agreement where users must comply with Terms of Service and Privacy Policy; age requirements apply, with parental consent mandatory for minors.
+- **Service Provider & Legal Framework**: Google LLC (Delaware-registered, US laws) provides services under updated Terms of Service (effective May 22, 2024) with future revisions planned for July 30, 2026; users under age thresholds require parental/guardian consent.
 
-- **Content & Intellectual Property**: Users retain IP rights to their uploaded content, but grant Google a license for service operation; reverse engineering, automated scraping, or AI model training using Google’s conte
+- **Service Usage & AI Integration**: Google services (Search, Maps, Pixel, etc.) leverage AI/ML for features like real-time translation, spam/malware detection, and automatic software updates; material changes may require advance
 
 ## Use Cases
 

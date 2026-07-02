@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.chrome.com/docs/lighthouse/overview
-published_at: '2026-07-02T10:02:21.752943+05:30'
-collected_at: '2026-07-02T10:02:21.752968+05:30'
+published_at: '2026-07-03T03:59:13.422049+05:30'
+collected_at: '2026-07-03T03:59:13.422062+05:30'
 tags:
 - hackernews
 - rag
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:introduction-to-lighthouse-chrome-for-developers
-first_seen: '2026-07-02T10:02:21.752968+05:30'
-last_seen: '2026-07-02T10:02:21.752968+05:30'
-last_checked: '2026-07-02T10:02:21.752968+05:30'
+first_seen: '2026-07-03T03:59:13.422062+05:30'
+last_seen: '2026-07-03T03:59:13.422062+05:30'
+last_checked: '2026-07-03T03:59:13.422062+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Lighthouse** is an open-source, automated tool for auditing web pages across performance, accessibility, SEO, and more, supporting Chrome DevTools, CLI, Node.js module, and web UI workflows.
-- **Extensibility** is supported via **stack packs** (platform-specific recommendations) and **plugins** (custom audits via Node.js modules).
-- **Integration** options include CI/CD integration, GitHub Gists for report sharing, and JSON output for programmatic analysis.
+- **Lighthouse** is an open-source, automated tool for auditing web pages across performance, accessibility, SEO, and more, supporting Chrome DevTools, CLI, Node.js, and web UI workflows.
+- **Extensibility features** include **stack packs** (platform-specific recommendations) and **plugins** (custom audits via Node.js modules).
+- **Integration options** cover CI/CD via Node module, Lighthouse CI for regression prevention, and JSON/GitHub Gist-based report sharing.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T10:02:21.752943+05:30
+- Published: 2026-07-03T03:59:13.422049+05:30
 
 ## Related Tags
 

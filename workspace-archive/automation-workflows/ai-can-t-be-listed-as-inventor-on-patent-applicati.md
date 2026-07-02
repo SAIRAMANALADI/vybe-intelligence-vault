@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by mushstory. Score: 194, Comments: 81.
+Hacker News story by mushstory. Score: 342, Comments: 181.
 Original Link: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/
 
 ## Use Cases

@@ -6,12 +6,14 @@ source_url: https://github.com/VivekMalhan666/rag-beginner-guide
 resource_id: github:vivekmalhan666/rag-beginner-guide
 local_vault_path: ai/rag/vivekmalhan666-rag-beginner-guide.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - github-repo
+- meta-ai
+- models
 - python
 - rag
 selection_reason:
@@ -24,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Prompt Libraries`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -32,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Step-by-step RAG implementation**: Python-based guide for building a Retrieval-Augmented Generation (RAG) system from scratch, emphasizing beginner accessibility without abstracted libraries or frameworks.
+- **Purpose**: Step-by-step guide to building a Retrieval-Augmented Generation (RAG) system in Python from scratch, designed for beginners without relying on abstracted libraries or frameworks.
 
-- **Core components**: Covers essential RAG pipeline elements, including document ingestion, vector embedding (e.g., using `sentence-transformers` or `FAISS`), retrieval (e.g., similarity search), and integration with a generative model (e.g., Hugging Face `transformers`).
+- **Implementation**: Covers core RAG components, including document retrieval (vector embeddings, similarity search) and generation (LLM integration), with hands-on Python code examples.
 
-- **No abstrac
+- **Scope**: Focuses on foundational RAG concepts (e.g., chunking, indexing, prompt engineering) while avoiding pre-
 
 ## Use Cases
 

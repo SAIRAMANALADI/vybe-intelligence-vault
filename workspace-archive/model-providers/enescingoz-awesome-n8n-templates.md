@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Extensive Template Library**: Hosts 280+ open-source n8n automation templates for integrations with Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more, covering AI agents, RAG chatbots, email automation, social media, DevOps, and document processing.
-
-- **High Community Adoption**: Maintains 23,594 GitHub stars and 6,206 forks, indicating strong community engagement and validation for n8n automation workflows.
-
-- **Self-Hosted & Low-Code Focus**: Provides no-co
+- **Repository**: `enescingoz/awesome-n8n-templates` – A curated collection of **280+ open-source n8n automation templates** covering integrations with **Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI**, and more.
+- **Key Features**: Includes **AI agents, RAG chatbots, email automation, social media tools, DevOps workflows, and document processing**—all deployable via **low-code/no-code** n8n workflows.
+- **Stats**: **23.6K+ stars**, **6.2K+ forks**, last updated **July
 
 ## Use Cases
 

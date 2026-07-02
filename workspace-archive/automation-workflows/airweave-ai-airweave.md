@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -34,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Open-source context retrieval layer**: Airweave provides a Python-based SDK for retrieving and integrating contextual data into AI agents, supporting semantic search and retrieval-augmented generation (RAG).
-
-- **Enterprise data connectors**: Supports integration with structured/unstructured enterprise data sources via APIs, enabling retrieval of relevant context for AI agent workflows.
-
-- **Scalable search & retrieval**: Implements advanced retrieval mechanisms (e.g., semantic search) with
+- **Purpose**: Open-source context retrieval layer designed to enhance AI agents by integrating enterprise data through semantic search and retrieval-augmented generation (RAG).
+- **Key Features**: Provides API-driven data connectors, semantic search capabilities, and a Python-based SDK for seamless integration with AI workflows and enterprise systems.
+- **Technical Scope**: Supports context retrieval for LLMs, supports enterprise data integration, and includes tools for developer-friendly API a
 
 ## Use Cases
 

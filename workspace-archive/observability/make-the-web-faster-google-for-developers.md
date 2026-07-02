@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **PageSpeed Tools**: Google's PageSpeed Insights provides performance scoring and optimization suggestions for websites, while PageSpeed Modules (for Apache/Nginx) automatically rewrite and optimize server-side resources.
+- **PageSpeed Tools**: Google's PageSpeed Insights provides performance scores and actionable suggestions for website optimization via online analysis, while PageSpeed Modules (Apache/Nginx) automatically rewrite and optimize site resources in real-time.
 
-- **Infrastructure Leveraging**: Google Public DNS enhances browsing speed/security, and Google's CDN serves popular open-source JavaScript libraries to reduce latency.
+- **Infrastructure Leveraging**: Google Public DNS enhances browsing speed/security, and Google's CDN serves popular open-source JavaScript libraries to reduce latency and improve load times.
 
-- **Performance Standards & Best Practices**: Google promotes protocols like WebP and offers guidelines f
+- **Performance Standards & Best Practices**: Googl
 
 ## Use Cases
 
