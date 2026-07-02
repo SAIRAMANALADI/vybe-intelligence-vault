@@ -1,12 +1,12 @@
 ---
 title: "vitali87/code-graph-rag"
 category: "Orchestrator"
-tech_stack: ["Python", "Tree-sitter", "Memgraph", "Qdrant", "Docker", "Ollama", "OpenAI", "Google Gemini", "Rust", "C/C++", "Java", "JavaScript/TypeScript", "PHP", "Lua", "Go", "Scala"]
+tech_stack: ["Python", "Tree-sitter", "Memgraph", "Qdrant", "Docker", "Ollama", "OpenAI", "Google Gemini", "Rust", "C", "C++", "Java", "JavaScript", "TypeScript", "PHP", "Lua", "Go", "Scala"]
 quality_score: 9
 rag_relevance: 10
-tags: ["RAG", "code analysis", "knowledge graph", "multi-language support", "AI-powered development"]
+tags: ["RAG", "knowledge-graph", "code-analysis", "multi-language", "AI-orchestration"]
 source: "https://github.com/vitali87/code-graph-rag"
-discovered_at: "2026-07-02T17:46:17Z"
+discovered_at: "2026-07-02T22:13:43Z"
 evaluated_by: "mistral-small-latest"
 ---
 
@@ -14,14 +14,14 @@ evaluated_by: "mistral-small-latest"
 Code-Graph-RAG is a graph-based Retrieval-Augmented Generation (RAG) system designed to analyze multi-language codebases, build comprehensive knowledge graphs, and enable natural language querying of code structure and relationships. It supports advanced features like code editing, dependency analysis, and AI-powered optimizations.
 
 ## Key Features
-- Multi-language codebase parsing and indexing using Tree-sitter
-- Knowledge graph storage and querying via Memgraph
-- Natural language to Cypher query generation for codebase exploration
-- AI-powered code editing and optimization with AST-based targeting
-- Support for local (Ollama) and cloud (OpenAI, Google) AI models
+- Multi-language codebase parsing and analysis using Tree-sitter
+- Knowledge graph storage and querying with Memgraph for code structure relationships
+- Natural language querying of codebases with AI-powered Cypher generation
+- Advanced code editing with AST-based surgical modifications and diff previews
+- AI-driven code optimization with reference-guided workflows and dependency analysis
 
 ## Why It Matters for RAG Builders
-It provides a unified, AI-driven approach to understanding and modifying complex codebases, making it essential for RAG builders seeking to integrate advanced code analysis and natural language interaction.
+It provides a unified, AI-native approach to understanding, querying, and modifying complex multi-language codebases, making it essential for RAG builders seeking deep code intelligence.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -51,14 +51,20 @@ Automated review identified **Google Gemini** as a key module contributing to in
 ### Rust
 Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### C/C++
-Automated review identified **C/C++** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### C
+Automated review identified **C** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### C++
+Automated review identified **C++** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Java
 Automated review identified **Java** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JavaScript/TypeScript
-Automated review identified **JavaScript/TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JavaScript
+Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### PHP
 Automated review identified **PHP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
