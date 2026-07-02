@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/techwithtim/ProductionGradeRAGPythonApp
-collected_at: '2026-07-02T04:13:31.338803+05:30'
+collected_at: '2026-07-02T09:55:24.929660+05:30'
 published_at: '2026-06-29T14:39:40Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-09-10T15:52:23Z'
 pushed_at: '2025-09-10T15:54:33Z'
 resource_id: github:techwithtim/productiongraderagpythonapp
-first_seen: '2026-07-02T04:13:31.338803+05:30'
-last_seen: '2026-07-02T04:13:31.338803+05:30'
-last_checked: '2026-07-02T04:13:31.338803+05:30'
+first_seen: '2026-07-02T09:55:24.929660+05:30'
+last_seen: '2026-07-02T09:55:24.929660+05:30'
+last_checked: '2026-07-02T09:55:24.929660+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A Python-based application focused on production-grade Retrieval-Augmented Generation (RAG) systems, though no explicit description is provided.
-- **Repository Metrics**: 70 stars and 46 forks, indicating moderate community interest and adoption.
-- **Last Activity**: Last updated on **2026-06-29T14:39:40Z**, suggesting recent maintenance or updates.
+- **Repository Overview**: A Python-based application repository focused on implementing a production-grade Retrieval-Augmented Generation (RAG) system, though no explicit description is provided.
+- **Project Metrics**: Contains 70 stars and 46 forks, indicating moderate community interest and adoption.
+- **Last Update**: The repository was last updated on **June 29, 2026**, suggesting active maintenance or recent development.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/deepset-ai/haystack
-collected_at: '2026-07-02T04:15:11.524214+05:30'
-published_at: '2026-07-01T18:50:55Z'
+collected_at: '2026-07-02T09:58:15.152512+05:30'
+published_at: '2026-07-02T03:32:44Z'
 tags:
 - agents
 - github-repo
@@ -14,7 +14,7 @@ tags:
 - openai
 - rag
 - workflows
-stars: 25799
+stars: 25802
 language: MDX
 status: active
 license: Apache-2.0
@@ -22,9 +22,9 @@ archived: false
 created_at: '2019-11-14T09:05:28Z'
 pushed_at: '2026-07-01T14:56:00Z'
 resource_id: github:deepset-ai/haystack
-first_seen: '2026-07-02T04:15:11.524214+05:30'
-last_seen: '2026-07-02T04:15:11.524214+05:30'
-last_checked: '2026-07-02T04:15:11.524214+05:30'
+first_seen: '2026-07-02T09:58:15.152512+05:30'
+last_seen: '2026-07-02T09:58:15.152512+05:30'
+last_checked: '2026-07-02T09:58:15.152512+05:30'
 health_score: 100
 ---
 
@@ -34,9 +34,9 @@ health_score: 100
 
 - **Modular AI Orchestration**: Haystack enables building production-grade LLM applications via configurable pipelines with explicit control over retrieval, routing, memory, and generation components.
 
-- **Multi-Use Framework**: Supports scalable agents, RAG, multimodal apps, semantic search, and conversational systems through a unified Python-based architecture leveraging PyTorch and Transformers.
+- **Multi-Use Case Framework**: Supports scalable agents, RAG, multimodal systems, semantic search, and conversational AI through a unified Python-based architecture leveraging PyTorch and Transformers.
 
-- **Context-Engineered Design**: Optimized for information retrieval and generative AI tasks (e.g., QA, summarization) with integrations for models like GPT-4 and Gemini, last updated July 2026.
+- **Enterprise-Grade Features**: Designed for high-performance deployments with optimized retrieval-augmented generation (RAG), question-answering, and summarization capabilities.
 
 ## Why It Matters
 
@@ -45,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: deepset-ai
-- Stars: 25799
+- Stars: 25802
 - Forks: 2899
 - Language: MDX
 - Topics: agent, agents, ai, gemini, generative-ai, gpt-4, information-retrieval, large-language-models, llm, machine-learning, nlp, orchestration, python, pytorch, question-answering, rag, retrieval-augmented-generation, semantic-search, summarization, transformers
-- Last Updated: 2026-07-01T18:50:55Z
+- Last Updated: 2026-07-02T03:32:44Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2019-11-14T09:05:28Z

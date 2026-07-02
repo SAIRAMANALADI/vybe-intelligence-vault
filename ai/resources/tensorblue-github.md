@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/tensorblue
-published_at: '2026-07-02T04:15:16.657612+05:30'
-collected_at: '2026-07-02T04:15:16.657623+05:30'
+published_at: '2026-07-02T09:58:20.160308+05:30'
+collected_at: '2026-07-02T09:58:20.160315+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:tensorblue-github
-first_seen: '2026-07-02T04:15:16.657623+05:30'
-last_seen: '2026-07-02T04:15:16.657623+05:30'
-last_checked: '2026-07-02T04:15:16.657623+05:30'
+first_seen: '2026-07-02T09:58:20.160315+05:30'
+last_seen: '2026-07-02T09:58:20.160315+05:30'
+last_checked: '2026-07-02T09:58:20.160315+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- GitHub profile for user `tensorblue` with 2 followers, 0 following, and 51 stars, but no public repositories, projects, or packages.
-- User has no public activity or contributions visible on GitHub.
-- Options to block or report the user are available via GitHub’s built-in tools.
+- GitHub user `tensorblue` has **0 public repositories, projects, or packages**, with **51 stars** across unspecified contributions.
+- User account is **unfollowed by default**, with no follower or following counts displayed.
+- GitHub interface indicates **"Something went wrong"** when attempting to load repositories, suggesting potential API or account access issues.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-02T04:15:16.657612+05:30
+- Published: 2026-07-02T09:58:20.160308+05:30
 
 ## Related Tags
 

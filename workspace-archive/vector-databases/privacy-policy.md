@@ -1,8 +1,8 @@
 ---
-title: Privacy policy
+title: Privacy Policy
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://www.langchain.com/privacy-policy
+source_url: https://scite.ai/policy
 resource_id: blog:privacy-policy
 local_vault_path: ai/rag/privacy-policy.md
 quality_score: 70
@@ -14,13 +14,13 @@ tags:
 - agents
 - hackernews
 - rag
-- reddit
 - web-crawled
+- youtube
 selection_reason:
 - Valuable developer reference
 ---
 
-# Privacy policy
+# Privacy Policy
 
 ## Why This Is In The Archive
 
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection Scope**: Collects personal and business contact information (emails, payment details, roles), usage data (device specs, IP, browser), and third-party sourced data (marketing partners, social media interactions) for service operation, marketing, and compliance.
+- **Data Collection Scope**: Collects identifiers (name, email, phone), financial details, professional info, user-generated content (publications, comments), and device/browser metadata (IP, geolocation) via direct input, third-party auth (ORCiD, Google), cookies, and public sources.
 
-- **Processing & Sharing**: Uses data for service provision, research, and legal compliance; shares with service providers, affiliates, authorities, and in business transfers (e.g., mergers) under contractual safeguard
+- **Cookie & Tracking Policies**: Uses strictly necessary, analytics (Google Analytics), functional, and targeting cookies; adheres to Global Privacy Control opt-out but ignores "Do Not Track" signals; third-party
 
 ## Use Cases
 
@@ -44,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.langchain.com/privacy-policy
+Original source URL: https://scite.ai/policy
 
 ## Local Vault File
 

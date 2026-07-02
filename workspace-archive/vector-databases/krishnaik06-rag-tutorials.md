@@ -31,8 +31,9 @@ selection_reason:
 
 ## Summary
 
-*   Focuses on Retrieval Augmented Generation (RAG) methodologies.
-*   Implements R
+- **Repository Overview**: Jupyter Notebook-based tutorials focused on Retrieval-Augmented Generation (RAG) techniques, maintained by `krishnaik06`.
+- **Activity Metrics**: 362 stars, 330 forks, last updated on **July 2, 2026**.
+- **Technical Stack**: Primarily Python-based notebooks (Jupyter) for RAG implementations, with no explicit topic tags.
 
 ## Use Cases
 

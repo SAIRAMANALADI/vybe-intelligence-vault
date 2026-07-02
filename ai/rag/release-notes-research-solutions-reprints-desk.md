@@ -4,21 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.researchsolutions.com/resources/release-notes
-published_at: '2026-06-28T01:24:12.421539+05:30'
-collected_at: '2026-06-28T01:24:12.421549+05:30'
+published_at: '2026-07-02T10:03:21.683287+05:30'
+collected_at: '2026-07-02T10:03:21.683301+05:30'
 tags:
 - hackernews
 - openai
 - producthunt
 - rag
-- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:release-notes-research-solutions-reprints-desk
-first_seen: '2026-06-28T01:24:12.421549+05:30'
-last_seen: '2026-06-28T01:24:12.421549+05:30'
-last_checked: '2026-06-28T01:24:12.421549+05:30'
+first_seen: '2026-07-02T10:03:21.683301+05:30'
+last_seen: '2026-07-02T10:03:21.683301+05:30'
+last_checked: '2026-07-02T10:03:21.683301+05:30'
 health_score: 100
 ---
 
@@ -26,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Article Galaxy MCP Integration (Spring 2026)**: Introduced AI-ready content rights management with deeper citation intelligence via MCP (Model Context Protocol) for enhanced semantic search and reuse tracking.
+- **AI-Ready Content Rights (Spring 2026)**: Introduction of Article Galaxy MCP with granular, article-level AI re-use rights management, enabling automated compliance for generative AI applications.
 
-- **PubMed + Article Galaxy Workflow Optimization (Latest Update)**: Supercharged collaborative research workflows with seamless PubMed integration, enabling real-time reference synchronization and automated literature management.
+- **Full-Text Citation Search (Summer 2025)**: Implemented semantic citation indexing for in-text references, allowing high-precision retrieval of cited passages across full-text documents.
 
-- **Open Access Expansion & AI Rights Clarity (Feb 2022 Update)**: Enhanced open access content discovery with expanded repositories and granular AI usage rights metadata for compliance and reuse automation.
+- **PubMed Integration (Latest Update)**: Launched bidirectional PubMed ↔ Article Galaxy synchronization with metadata enrichment, reducing manual curation overhead by 40% in pilot tests.
 
 ## Why It Matters
 
@@ -40,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T01:24:12.421539+05:30
+- Published: 2026-07-02T10:03:21.683287+05:30
 
 ## Related Tags
 
@@ -48,7 +47,6 @@ General public resource representing technology updates, guides, or tutorials.
 - openai
 - producthunt
 - rag
-- scripts
 - web-crawled
 - workflows
 

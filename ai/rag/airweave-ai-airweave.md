@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-07-02T04:14:16.462276+05:30'
+collected_at: '2026-07-02T09:56:10.002618+05:30'
 published_at: '2026-07-01T19:58:31Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
+- workflows
 stars: 6462
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-07-02T04:14:16.462276+05:30'
-last_seen: '2026-07-02T04:14:16.462276+05:30'
-last_checked: '2026-07-02T04:14:16.462276+05:30'
+first_seen: '2026-07-02T09:56:10.002618+05:30'
+last_seen: '2026-07-02T09:56:10.002618+05:30'
+last_checked: '2026-07-02T09:56:10.002618+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-source context retrieval layer**: Airweave provides a Python-based SDK and API for semantic search and context retrieval, designed as a middleware layer for AI agents to dynamically fetch relevant enterprise data.
+- **Open-source context retrieval layer**: Provides a modular, API-driven infrastructure for AI agents to dynamically fetch and integrate contextual data from enterprise sources, enabling enhanced retrieval-augmented generation (RAG) workflows.
 
-- **Enterprise data integration**: Supports connectors for structured/unstructured data (e.g., databases, APIs, documents) with built-in retrieval-augmented generation (RAG) capabilities to enhance LLM responses.
+- **Multi-protocol data connectors**: Supports semantic search, structured/unstructured data retrieval, and integration with APIs, databases, and vector stores via pluggable connectors (e.g., SQL, NoSQL, REST, GraphQL).
 
-- **Scalable search infrastructure**: Implements vector search and hybrid retrieval methods, optimized for low-latency API responses and modular integration with agent frameworks.
+- **Python-based SDK & search API**: Offers a developer-friendly SDK for custom agent integration, alongside a high-performance search API optimized for low-latency, scalable context retrieval in production environments.
 
 ## Why It Matters
 

@@ -14,10 +14,10 @@ Curated highlights from the current week's collection, representing high-quality
 *   [Blog | Bluesky](https://docs.bsky.app/blog) (Score: 70) - Category: `ai-coding-agents/`
 *   [Main Page « WordPress Codex](https://codex.wordpress.org) (Score: 70) - Category: `ai-coding-agents/`
 *   [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (Score: 70) - Category: `ai-coding-agents/`
-*   [crewAIInc/crewAI Release: 1.15.2a2](https://github.com/crewaiinc/crewai) (Score: 70) - Category: `ai-coding-agents/`
 *   ["Generate" the Future of Work through AI: Empirical Evidence from Online Labor Markets](https://arxiv.org/abs/2308.05201) (Score: 70) - Category: `ai-coding-agents/`
+*   [Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?](https://arxiv.org/abs/2607.01211) (Score: 70) - Category: `ai-coding-agents/`
 *   [What is the Model Context Protocol (MCP)? - Model Context Protocol](https://modelcontextprotocol.io/) (Score: 70) - Category: `ai-coding-agents/`
 *   [The Governance Inversion Hypothesis: Why More AI Regulation May Produce Less Organisational Control](https://arxiv.org/abs/2606.26117) (Score: 70) - Category: `ai-coding-agents/`
-*   [monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1](https://blog.langchain.com/customers-monday/) (Score: 70) - Category: `ai-coding-agents/`
+*   [GameDevBench: Evaluating Agentic Capabilities Through Game Development](https://arxiv.org/abs/2602.11103) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

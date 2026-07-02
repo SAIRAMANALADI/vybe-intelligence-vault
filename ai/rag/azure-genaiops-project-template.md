@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-07-02T04:12:21.257397+05:30'
+collected_at: '2026-07-02T09:54:14.857675+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
 - openai
 - rag
-- scripts
 - workflows
 stars: 44
 language: Bicep
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-07-02T04:12:21.257397+05:30'
-last_seen: '2026-07-02T04:12:21.257397+05:30'
-last_checked: '2026-07-02T04:12:21.257397+05:30'
+first_seen: '2026-07-02T09:54:14.857675+05:30'
+last_seen: '2026-07-02T09:54:14.857675+05:30'
+last_checked: '2026-07-02T09:54:14.857675+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Bicep-based IaC Template**: Provides infrastructure-as-code (IaC) for deploying a **Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline** on Azure, leveraging Bicep for declarative resource provisioning.
-
-- **RAG Pipeline Integration**: Includes pre-configured components for **vector databases, embedding models, and LLM orchestration**, enabling end-to-end retrieval-augmented generation workflows with Azure services (e.g., Azure Cognitive Search, Azure OpenAI).
-
-- **Ops-Ready Features**: Designed for **CI/CD automation**, monitoring (via Azure Monitor), and scalability, with modular Bicep templates for environment-specific deployments (dev/test/prod).
+- **Purpose**: Provides a Bicep-based infrastructure-as-code (IaC) template for deploying a **Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline** on Azure.
+- **Key Components**: Includes Azure resources (e.g., **Azure AI Search, Azure OpenAI, Azure Container Apps, Key Vault**) for end-to-end RAG workflow orchestration.
+- **Deployment**: Enables automated infrastructure provisioning via Bicep modules, supporting CI/CD integration for scalable GenAI applications.
 
 ## Why It Matters
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/github-change-is-constant-github-keeps-you-ahead-g.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: prompt
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -30,15 +30,16 @@ selection_reason:
 
 - Matched archive category: `Startup Builder`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: prompt
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **GitHub Copilot Integration**: AI-powered code assistance (refactoring, feature implementation) via natural language prompts, supporting full software development lifecycle (SDLC) workflows with agent-based task automation (e.g., updating website functionality).
-- **Security & Automation**: GitHub Advanced Security leverages Copilot Autofix for vulnerability remediation (70% MTTR reduction), Dependabot for dependency updates, and Secret Protection to block/remediate leaked secrets (8.3M+ leak
+- **GitHub Copilot Integration**: AI-powered code generation, refactoring, and automation across the SDLC, with features like Copilot Chat, Autofix, and Agent mode for end-to-end workflow acceleration (e.g., Duolingo reported 25% developer speed boost).
+
+- **Unified DevSecOps Platform**: Built-in CI/CD (GitHub Actions), cloud dev environments (Codespaces), dependency management (Dependabot), and security tools (Secret Protection, Code Security) with AI-driven vulnerability remediation (70% MTTR
 
 ## Use Cases
 

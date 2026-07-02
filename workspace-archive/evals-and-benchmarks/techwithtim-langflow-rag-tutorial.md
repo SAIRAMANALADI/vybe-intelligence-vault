@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
+- hackernews
 - rag
 - unknown
 - workflows
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Purpose**: Tutorial for implementing Retrieval-Augmented Generation (RAG) using Langflow, a visual framework for building LLM workflows.
-- **Repository Metadata**: 95 stars, 25 forks, last updated on 2026-06-29, language unspecified.
-- **Access**: Available at [GitHub](https://github.com/techwithtim/Langflow-RAG-Tutorial).
+- **Repository Overview**: GitHub repository `techwithtim/Langflow-RAG-Tutorial` with 95 stars and 25 forks, last updated on 2026-06-29.
+- **Technical Focus**: Tutorial repository likely demonstrating Retrieval-Augmented Generation (RAG) workflows using Langflow (a visual framework for LLM pipelines).
+- **Language/Topics**: Language unspecified; no topics listed in metadata.
 
 ## Use Cases
 

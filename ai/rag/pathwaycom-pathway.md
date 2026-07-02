@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pathwaycom/pathway
-collected_at: '2026-06-30T22:51:12.384794+05:30'
-published_at: '2026-06-30T17:18:02Z'
+collected_at: '2026-07-02T09:58:10.140317+05:30'
+published_at: '2026-07-02T03:19:41Z'
 tags:
 - github-repo
 - python
 - rag
 - workflows
-stars: 62790
+stars: 62777
 language: Python
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2022-11-27T13:01:14Z'
-pushed_at: '2026-06-30T15:08:35Z'
+pushed_at: '2026-07-02T00:35:31Z'
 resource_id: github:pathwaycom/pathway
-first_seen: '2026-06-30T22:51:12.384794+05:30'
-last_seen: '2026-06-30T22:51:12.384794+05:30'
-last_checked: '2026-06-30T22:51:12.384794+05:30'
+first_seen: '2026-07-02T09:58:10.140317+05:30'
+last_seen: '2026-07-02T09:58:10.140317+05:30'
+last_checked: '2026-07-02T09:58:10.140317+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Stream Processing & Real-Time Analytics**: Python-based ETL framework enabling low-latency stream processing, real-time analytics, and time-series analysis with Rust-optimized performance for high-throughput data pipelines.
+- **Real-time ETL & Stream Processing**: Python-based framework enabling low-latency stream processing, real-time analytics, and dynamic ETL pipelines with support for Kafka integration and time-series analysis.
 
-- **LLM & RAG Integration**: Supports large language model (LLM) pipelines and retrieval-augmented generation (RAG) workflows, facilitating real-time data ingestion, transformation, and AI-driven processing.
+- **LLM & RAG Pipelines**: Native support for Large Language Model (LLM) pipelines and Retrieval-Augmented Generation (RAG) workflows, facilitating AI-driven data processing and enrichment.
 
-- **Scalable Dataflow Engine**: Implements a distributed dataflow model with Kafka integration, batch/stream hybrid processing, and IoT analytics, optimized for both Python and Rust components for high scalability.
+- **Hybrid Batch/Stream Execution**: Combines batch and stream processing via Rust-optimized backend, ensuring high performance for both historical and real-time data workflows.
 
 ## Why It Matters
 
@@ -42,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pathwaycom
-- Stars: 62790
-- Forks: 1676
+- Stars: 62777
+- Forks: 1674
 - Language: Python
 - Topics: batch-processing, data-analytics, data-pipelines, data-processing, dataflow, etl, etl-framework, iot-analytics, kafka, machine-learning-algorithms, pathway, python, real-time, rust, stream-processing, streaming, time-series-analysis
-- Last Updated: 2026-06-30T17:18:02Z
+- Last Updated: 2026-07-02T03:19:41Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2022-11-27T13:01:14Z
-- Pushed At: 2026-06-30T15:08:35Z
+- Pushed At: 2026-07-02T00:35:31Z
 
 ## Possible Use Cases
 

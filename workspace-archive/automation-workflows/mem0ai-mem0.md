@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Universal Memory Layer**: Provides a scalable, persistent memory system for AI agents to store, retrieve, and manage long-term context, enabling stateful interactions beyond immediate LLM context windows.
+- **Universal Memory Layer**: Provides a modular, extensible framework for managing long-term memory in AI agents, enabling persistent state across sessions and interactions.
 
-- **Modular Architecture**: Supports pluggable storage backends (e.g., vector DBs, SQL) and integrates with frameworks like LangChain, facilitating customizable memory solutions for diverse agentic workflows.
+- **Multi-Model Integration**: Supports integration with various LLMs (e.g., ChatGPT) and memory backends (e.g., vector databases) for scalable, hybrid memory retrieval (RAG + stateful memory).
 
-- **State & Context Management**: Implements hybrid memory (semantic + structure
+- **Agent Orchestration**: Facilitates state management and context-aware decision-making in AI agents via Python SDK, with plugi
 
 ## Use Cases
 

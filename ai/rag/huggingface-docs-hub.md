@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-07-02T04:16:29.464076+05:30'
-collected_at: '2026-07-02T04:16:29.464090+05:30'
+published_at: '2026-07-02T09:59:22.519071+05:30'
+collected_at: '2026-07-02T09:59:22.519084+05:30'
 tags:
 - agents
 - creative_dev
@@ -15,15 +15,14 @@ tags:
 - models
 - paper
 - rag
-- reddit
 - scripts
 - web-crawled
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-07-02T04:16:29.464090+05:30'
-last_seen: '2026-07-02T04:16:29.464090+05:30'
-last_checked: '2026-07-02T04:16:29.464090+05:30'
+first_seen: '2026-07-02T09:59:22.519084+05:30'
+last_seen: '2026-07-02T09:59:22.519084+05:30'
+last_checked: '2026-07-02T09:59:22.519084+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with support for Gradio, Docker, and static HTML/JavaScript applications, including GPU acceleration for performance-critical workloads.
+- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting with built-in support for Gradio, Docker, and static HTML/JS apps, with optional GPU acceleration for performance-critical workloads.
 
-- **Storage & Configuration**: Supports disk usage monitoring, custom domains, and embedded deployment options; also allows Docker-based execution and GitHub Actions integration for CI/CD workflows.
+- **Storage & Compute**: Supports disk usage monitoring, custom domains, and ZeroGPU configurations; integrates with GitHub Actions for CI/CD and supports MCP servers for agent-based workflows.
 
-- **Advanced Features**: Includes Dev Mode for iterative development, ZeroGPU for cost-efficient inference, and MCP server/agent tool integrations for extended functionality.
+- **Advanced Features**: Provides SDKs for Gradio/Streamlit/Docker, embedding capabilities, OAuth sign-in, and session trace formatting for debugging agent interactions.
 
 ## Why It Matters
 
@@ -45,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T04:16:29.464076+05:30
+- Published: 2026-07-02T09:59:22.519071+05:30
 
 ## Related Tags
 
@@ -57,7 +56,6 @@ General public resource representing technology updates, guides, or tutorials.
 - models
 - paper
 - rag
-- reddit
 - scripts
 - web-crawled
 - workflows

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/introduction-to-lighthouse-chrome-for-developers.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - hackernews
@@ -18,7 +18,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Introduction to Lighthouse | Chrome for Developers
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Lighthouse** is an open-source, automated tool for auditing web pages across performance, accessibility, SEO, and other metrics, supporting execution via Chrome DevTools, CLI, Node.js module, or web UI (e.g., PageSpeed Insights).
-- **Extensible via stack packs and plugins**: Stack packs provide platform-specific recommendations (e.g., CMS/frameworks), while plugins enable custom audits by leveraging Lighthouse’s collected data.
-- **Report sharing and integration**: Reports can be exported as
+- **Lighthouse** is an open-source, automated tool for auditing web pages across performance, accessibility, SEO, and more, supporting Chrome DevTools, CLI, Node.js module, and web UI workflows.
+- **Extensibility** is supported via **stack packs** (platform-specific recommendations) and **plugins** (custom audits via Node.js modules).
+- **Integration** options include CI/CD integration, GitHub Gists for report sharing, and JSON output for programmatic analysis.
 
 ## Use Cases
 

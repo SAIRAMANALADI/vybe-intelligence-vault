@@ -30,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **EverPass Platform Overview**: Centralized dashboard for managing screens, devices, and data analytics with real-time monitoring and control capabilities.
-
-- **EverPass Engage & Live Sports Streaming**: Supports live event streaming with low-latency protocols (e.g., HLS/DASH) and interactive engagement features via EverPass Manager.
-
-- **Device Management & Troubleshooting**: Provides OTA updates, remote diagnostics, and automated provisioning for Spectrum Xumo and other supported devices.
+- **Platform Overview**: Centralized dashboard for managing screens, devices, and data analytics within the EverPass ecosystem.
+- **Live Event Streaming**: Supports real-time streaming of live events with direct integration into the EverPass platform.
+- **Device Management**: Comprehensive tools for device installation, troubleshooting, and ordering, including Spectrum for Business Xumo device compatibility.
 
 ## Use Cases
 

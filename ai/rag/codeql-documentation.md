@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://codeql.github.com/docs
-published_at: '2026-07-01T23:06:18.658446+05:30'
-collected_at: '2026-07-01T23:06:18.658457+05:30'
+published_at: '2026-07-02T10:01:19.074987+05:30'
+collected_at: '2026-07-02T10:01:19.075004+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:codeql-documentation
-first_seen: '2026-07-01T23:06:18.658457+05:30'
-last_seen: '2026-07-01T23:06:18.658457+05:30'
-last_checked: '2026-07-01T23:06:18.658457+05:30'
+first_seen: '2026-07-02T10:01:19.075004+05:30'
+last_seen: '2026-07-02T10:01:19.075004+05:30'
+last_checked: '2026-07-02T10:01:19.075004+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **CodeQL Overview**: Enables querying code as data to identify and eradicate vulnerabilities via custom queries, with support for multiple languages, libraries, and frameworks.
-
-- **Core Components**: Includes QL (query language) reference, standard libraries, and query help documentation for writing, running, and analyzing code efficiently.
-
-- **Resources & Tools**: Provides CLI releases, VS Code extension, and GitHub repository for development, along with system requirements and CWE coverage details.
+- **CodeQL Overview**: CodeQL treats code as data, enabling vulnerability detection via structured queries; supported languages/frameworks and CWE coverage are documented in latest release.
+- **Query Development**: QL language reference, language-specific guides, and interactive puzzles facilitate writing and running CodeQL queries for static analysis.
+- **Resources & Tools**: CodeQL CLI, VS Code extension, and GitHub repository provide development, execution, and contribution pathways; standard libraries and query help support query construction.
 
 ## Why It Matters
 
@@ -35,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T23:06:18.658446+05:30
+- Published: 2026-07-02T10:01:19.074987+05:30
 
 ## Related Tags
 

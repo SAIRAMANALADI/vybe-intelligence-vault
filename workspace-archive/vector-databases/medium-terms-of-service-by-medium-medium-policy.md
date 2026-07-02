@@ -26,9 +26,9 @@ selection_reason:
 
 ## Summary
 
-- **License Grant & Content Ownership**: Users retain rights to submitted content but grant Medium a **non-exclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Services (e.g., web, mobile) with attribution. This license enables cross-platform distribution (e.g., previews, derivative works like curated lists) but does not extend beyond Medium’s ecosystem.
+- **License Grant & IP Rights**: Users retain ownership of submitted content but grant Medium a **nonexclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Services (e.g., web, mobile) with attribution, including derivative works (e.g., previews, curated lists).
 
-- **Dispute Resolution & Liability Limits**: All disputes (except smal
+- **Dispute Resolution & Liability Waiver**: All disputes (except small claims/IP injunctions) are resolved via **confidential, binding arbitration** under JAMS Rules
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/pricing
-published_at: '2026-07-01T23:06:20.224328+05:30'
-collected_at: '2026-07-01T23:06:20.224342+05:30'
+published_at: '2026-07-02T10:01:23.115255+05:30'
+collected_at: '2026-07-02T10:01:23.115271+05:30'
 tags:
 - agents
 - rag
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:pricing-plans-for-every-developer-github
-first_seen: '2026-07-01T23:06:20.224342+05:30'
-last_seen: '2026-07-01T23:06:20.224342+05:30'
-last_checked: '2026-07-01T23:06:20.224342+05:30'
+first_seen: '2026-07-02T10:01:23.115271+05:30'
+last_seen: '2026-07-02T10:01:23.115271+05:30'
+last_checked: '2026-07-02T10:01:23.115271+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Free Tier**: Offers unlimited public/private repositories, Dependabot security updates, 2,000 CI/CD minutes/month, 500MB package storage, and community support.
+- **GitHub Free Tier**: Unlimited public/private repositories, Dependabot security updates, 2,000 CI/CD minutes/month (public repos), 500MB Packages storage (public repos), Issues & Projects, and Community support.
 
-- **GitHub Team Plan**: Includes all Free features plus repository rules, multiple pull request reviewers, draft PRs, Codespaces access ($0.18/hr compute, $0.07/GB storage), 3,000 CI/CD minutes/month, and 2GB package storage.
+- **GitHub Team Plan**: Adds GitHub Codespaces ($0.18/hr compute, $0.07/GB storage), repository rules (branch/tag protections, required reviewers), draft PRs, code owners, 3,000 CI/CD minutes/month, 2GB Packages storage, and web-based support.
 
-- **GitHub Enterprise Plan**: Adds data residency, Enterprise Managed Users via IdP, SCIM provisioning, audit log API, SOC1/2 compliance, FedRAMP ATO, SAML SSO, 50,000 CI/CD minutes/month, and 50GB package storage.
+- **GitHub Enterprise Plan**: Includes Team features plus data residency (multi-tenant Azure), Enterprise Managed Users (IdP integration), SCIM provisioning, enterprise account management, environment protection rules, SOC1/SOC2 compliance, FedRAMP ATO, SAML SSO, advanced auditing, GitHub Connect, 50,000 CI/CD minutes/month, and 50GB Packages storage.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T23:06:20.224328+05:30
+- Published: 2026-07-02T10:01:23.115255+05:30
 
 ## Related Tags
 

@@ -3,18 +3,18 @@ title: Baseline | web.dev
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://web.dev/baseline
-published_at: '2026-07-01T23:06:35.902047+05:30'
-collected_at: '2026-07-01T23:06:35.902060+05:30'
+source_url: https://web.dev/baseline/
+published_at: '2026-07-02T10:00:20.778429+05:30'
+collected_at: '2026-07-02T10:00:20.778444+05:30'
 tags:
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:baseline-web-dev
-first_seen: '2026-07-01T23:06:35.902060+05:30'
-last_seen: '2026-07-01T23:06:35.902060+05:30'
-last_checked: '2026-07-01T23:06:35.902060+05:30'
+first_seen: '2026-07-02T10:00:20.778444+05:30'
+last_seen: '2026-07-02T10:00:20.778444+05:30'
+last_checked: '2026-07-02T10:00:20.778444+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Baseline Definition & Governance**: Originated by Chrome team, now managed by the [WebDX Community Group](https://web-platform-dx.github.io/web-features/), defining interoperable web features with two stages: *Newly available* (all core browsers support) and *Widely available* (30 months post-interoperability).
+- **Baseline Definition & Stages**: Baseline is a standardized set of web platform features with interoperable browser support, defined by the WebDX Community Group. Features progress through **Newly available** (all core browsers support) and **Widely available** (30 months post-interop) stages, replacing prior "Limited availability" status.
 
-- **Core Browser Set & Compatibility**: Supports Chrome (desktop/Android), Edge, Firefox (desktop/Android), and Safari (macOS/iOS); enables developers to trust feature compatibility when all Baseline-marked features are used.
+- **Core Browser Set & Tooling Integration**: Baseline is validated across Chrome, Edge, Firefox, and Safari (desktop/Android/iOS). Tools like **Browserslist**, **Chrome DevTools**, **ESLint**, **VS Code**, and **Netlify extensions** now integrate Baseline queries to streamline feature adoption and linting.
 
-- **Tooling Integration**: Includes [Browserslist support](https://web.dev/articles/use-baseline-with-browserslist), [ESLint CSS linting](https://web.dev/blog/eslint-baseline-integration), [Chrome DevTools integration](https://web.dev/blog/baseline-devtools-css), and [Netlify extension](https://web.dev/blog/baseline-netlify-extension) for real-user data-driven Baseline adoption.
+- **Adoption & Case Studies**: Baseline simplifies browser support decisions by providing clear compatibility data. Case studies (e.g., Target, Cybozu) demonstrate reduced overhead, while resources like the **web-features npm package** and **Web Platform Dashboard** enable custom tooling and real-user data integration.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-01T23:06:35.902047+05:30
+- Published: 2026-07-02T10:00:20.778429+05:30
 
 ## Related Tags
 
@@ -46,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://web.dev/baseline
+Original source: https://web.dev/baseline/

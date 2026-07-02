@@ -16,7 +16,7 @@ tags:
 - openai
 - python
 - rag
-- reddit
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Universal Memory Layer**: Provides a modular, persistent memory system for AI agents, enabling long-term context retention and state management across sessions.
+- **Universal Memory Layer**: Provides a modular, extensible framework for managing long-term memory in AI agents, enabling persistent state across sessions and interactions.
 
-- **Multi-Model Integration**: Supports structured (vector/RAG) and unstructured (textual) memory storage with retrieval mechanisms optimized for LLM-based agents.
+- **Multi-Model Integration**: Supports integration with various LLMs (e.g., ChatGPT) and memory backends (e.g., vector databases) for scalable, hybrid memory retrieval (RAG + stateful memory).
 
-- **Scalable Architecture**: Implements a Python-based framework with pluggable backends (e.g., SQLite, Redis, Postgres) for distributed memory operations in production
+- **Agent Orchestration**: Facilitates state management and context-aware decision-making in AI agents via Python SDK, with plugi
 
 ## Use Cases
 

@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Subscription Details**: NFL RedZone with Sports Plus costs **$10.99/month** and is added to YouTube TV as an optional sports package.
-- **Features**: Includes **hundreds of live games/events with unlimited DVR storage** and a **spoiler-free mode** to hide scores.
-- **Channel List**: Provides access to **18 channels**, including NFL RedZone, Tennis Channel, Willow, and others (full list provided).
+- **Cost & Availability**: NFL RedZone with Sports Plus is available as a **$10.99/month add-on** to YouTube TV, bundling multiple sports channels not purchasable individually.
+
+- **Features**: Includes **unlimited DVR storage** for live games/events and **score-hiding** to prevent spoilers on team/league pages.
+
+- **Channel List**: Package contains **17 channels**, including NFL RedZone, beIN SPORTS, Tennis Channel, Stadium, PokerGO+, and Willow.
 
 ## Use Cases
 

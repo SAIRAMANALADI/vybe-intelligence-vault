@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.scite.ai/
-published_at: '2026-07-02T04:16:29.812281+05:30'
-collected_at: '2026-07-02T04:16:29.812288+05:30'
+published_at: '2026-07-02T10:00:09.508308+05:30'
+collected_at: '2026-07-02T10:00:09.508321+05:30'
 tags:
 - anthropic
 - dataset
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:scite-ai-for-research
-first_seen: '2026-07-02T04:16:29.812288+05:30'
-last_seen: '2026-07-02T04:16:29.812288+05:30'
-last_checked: '2026-07-02T04:16:29.812288+05:30'
+first_seen: '2026-07-02T10:00:09.508321+05:30'
+last_seen: '2026-07-02T10:00:09.508321+05:30'
+last_checked: '2026-07-02T10:00:09.508321+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Database & Coverage**: Scite indexes **1.6B+ citations** across **280M+ full-text scholarly articles**, patents, clinical trials, grants, preprints, and datasets, with direct publisher agreements (e.g., Wiley, SAGE, 40+ others) enabling full-text search beyond abstracts.
+- **Smart Citation Analysis**: Classifies citations as supporting, contrasting, or mentioning, providing contextual evidence for research claims via AI-driven analysis of 1.6B+ indexed citations.
 
-- **Smart Citation Intelligence**: Uses **AI-driven Smart Citations** to classify citations as *supporting*, *contrasting*, or *mentioning*, providing contextual evidence for claims and enabling verification of AI-generated answers via direct paper-to-sentence citations.
+- **Cross-Domain Research Integration**: Aggregates 280M+ full-text scholarly articles, patents, clinical trials, grants, preprints, and datasets with direct publisher agreements (e.g., Wiley, SAGE, 40+ others).
 
-- **Integration & Workflow**: Operates within **Claude, ChatGPT, Zotero**, and MCP-compatible tools, with a **browser extension** and **developer API**, ensuring seamless adoption without workflow disruption.
+- **Verifiable AI Research Assistant**: Delivers answers grounded in specific paper excerpts with one-click verification, integrated into tools like Claude, ChatGPT, Zotero, and via API for custom workflows.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T04:16:29.812281+05:30
+- Published: 2026-07-02T10:00:09.508308+05:30
 
 ## Related Tags
 

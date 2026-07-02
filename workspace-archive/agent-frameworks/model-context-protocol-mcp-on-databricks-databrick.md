@@ -30,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Governance & Access Control**: MCP servers on Databricks are managed via Unity AI Gateway, enforcing access control via Unity Catalog permissions and secure credential handling through managed OAuth connections.
-- **Server Types & Integration**: Supports Databricks-managed, external, and custom MCP servers, enabling seamless integration with AI agents, third-party tools, and Databricks Apps for extended functionality.
-- **Pricing Model**: Custom MCP servers follow Databricks Apps pricing, wh
+- **Access & Security**: MCP servers on Databricks integrate with Unity Catalog for role-based access control (RBAC) and credential management via OAuth-secured Unity Catalog connections, ensuring secure tool access without exposing credentials.
+
+- **Centralized Management**: Unity AI Gateway provides a unified interface to deploy, monitor, and govern MCP servers (managed, external, or custom) with centralized visibility and policy enforcement.
+
+- **Compute & Pricing**: Custom MCP servers follow
 
 ## Use Cases
 

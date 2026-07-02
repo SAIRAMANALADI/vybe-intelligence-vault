@@ -4,17 +4,17 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/pdsuwwz/nextjs-nextra-starter
-collected_at: '2026-06-24T10:06:13.257373+05:30'
-published_at: '2026-06-24T02:26:50Z'
+collected_at: '2026-07-02T09:52:28.424173+05:30'
+published_at: '2026-07-02T02:12:21Z'
 tags:
 - frontend_ui
-stars: 299
+stars: 300
 language: TypeScript
 status: active
 resource_id: github:pdsuwwz/nextjs-nextra-starter
 first_seen: '2026-06-12T10:40:20.338284+00:00'
-last_seen: '2026-06-24T10:06:13.257373+05:30'
-last_checked: '2026-06-24T10:06:13.257373+05:30'
+last_seen: '2026-07-02T09:52:28.424173+05:30'
+last_checked: '2026-07-02T09:52:28.424173+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: pdsuwwz
-- Stars: 299
+- Stars: 300
 - Forks: 51
 - Language: TypeScript
 - Topics: aceternity, ai, blog, i18n, iconify, mdx, multilingual, nextjs-starter, nextra, open-source, radix, react, responsive, shadcn, ssr, starter, tailwindcss, template, ui, vercel
-- Last Updated: 2026-06-24T02:26:50Z
+- Last Updated: 2026-07-02T02:12:21Z
 
 ## Possible Use Cases
 

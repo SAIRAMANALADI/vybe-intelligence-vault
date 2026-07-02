@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-02T04:13:36.359732+05:30'
+collected_at: '2026-07-02T09:55:29.962506+05:30'
 published_at: '2026-06-30T08:33:12Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-02T04:13:36.359732+05:30'
-last_seen: '2026-07-02T04:13:36.359732+05:30'
-last_checked: '2026-07-02T04:13:36.359732+05:30'
+first_seen: '2026-07-02T09:55:29.962506+05:30'
+last_seen: '2026-07-02T09:55:29.962506+05:30'
+last_checked: '2026-07-02T09:55:29.962506+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval and augmentation in large-scale corpora, optimized for ICLR 2026.
-- **Scalability & Efficiency**: Implements linear-time graph traversal and retrieval mechanisms, significantly reducing computational overhead compared to traditional graph-based RAG methods.
-- **Python Implementation**: Provides an open-source Python library with modular components for graph construction, retrieval, and LLM integration, supporting large-scale corpora and dynamic updates.
+- **Linear Graph RAG Framework**: Introduces LinearRAG, a novel graph-based Retrieval-Augmented Generation (RAG) method that linearizes graph structures for efficient retrieval in large-scale corpora, optimizing LLM performance.
+
+- **ICLR 2026 Contribution**: Proposes a scalable graph retrieval mechanism leveraging linear graph traversal to reduce computational overhead while maintaining contextual relevance in LLM augmentations.
+
+- **Python Implementation**: Provides an open-source Python library for LinearRAG, supporting graph construction, linear retrieval, and integration with LLMs for enhanced generation tasks.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tv.youtube.com/learn/nflsundayticket
-published_at: '2026-07-01T20:47:14.830088+05:30'
-collected_at: '2026-07-01T20:47:14.830098+05:30'
+published_at: '2026-07-02T09:58:18.956576+05:30'
+collected_at: '2026-07-02T09:58:18.956592+05:30'
 tags:
 - agents
 - models
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-exclusive-home-of-nfl-sunday-ticket-youtube-yo
-first_seen: '2026-07-01T20:47:14.830098+05:30'
-last_seen: '2026-07-01T20:47:14.830098+05:30'
-last_checked: '2026-07-01T20:47:14.830098+05:30'
+first_seen: '2026-07-02T09:58:18.956592+05:30'
+last_seen: '2026-07-02T09:58:18.956592+05:30'
+last_checked: '2026-07-02T09:58:18.956592+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,9 @@ health_score: 100
 
 ## Summary
 
-- **Pricing & Bundling**: NFL Sunday Ticket offers new users **$240/yr** ($20/mo for 12 months) for out-of-market Sunday games; bundling with YouTube TV Sports Plan adds **$54.99/mo (first 12 months)**, then **$64.99/mo**, requiring an active Sports Plan to retain access.
-
-- **Coverage & Features**: Includes **all 32 NFL teams’ out-of-market Sunday games**, multiview (up to 4 games simultaneously), fantasy tracking, and key-play highlights; excludes digital-only games and commercial use.
-
-- **Access & Requirements**: Requires **high-speed internet (3+ Mbps recommended)**, compatible devices (YouTube/YouTube TV apps), and **no long-term contracts**; cancellation of YouTube TV Sports Plan revokes NFL Sunday Ticket access.
+- **Pricing & Plans**: New users can purchase NFL Sunday Ticket for $240/yr (12x $20/mo) or $31.50/mo for returning users; standalone or bundled with YouTube TV ($67.99/mo for first 3 months, then $82.99/mo).
+- **Coverage & Features**: Includes all out-of-market Sunday NFL games, multiview (up to 4 games), fantasy tracking, and NFL RedZone (optional add-on); requires high-speed internet (≥3 Mbps, 7+ Mbps recommended).
+- **Accessibility & Requirements**: Available via YouTube TV or standalone; no cable/satellite required; supported on devices via YouTube/YouTube TV apps; commercial use excluded.
 
 ## Why It Matters
 
@@ -39,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T20:47:14.830088+05:30
+- Published: 2026-07-02T09:58:18.956576+05:30
 
 ## Related Tags
 

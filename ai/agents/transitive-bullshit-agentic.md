@@ -4,15 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/transitive-bullshit/agentic
-collected_at: '2026-06-29T10:35:05.762546+05:30'
-published_at: '2026-06-28T09:42:43Z'
+collected_at: '2026-07-02T09:57:30.079518+05:30'
+published_at: '2026-07-01T07:20:53Z'
 tags:
 - agents
 - github-repo
 - openai
+- scripts
 - typescript
 - workflows
-stars: 18121
+stars: 18120
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -20,9 +21,9 @@ archived: true
 created_at: '2022-12-03T00:05:09Z'
 pushed_at: '2026-02-11T04:50:03Z'
 resource_id: github:transitive-bullshit/agentic
-first_seen: '2026-06-29T10:35:05.762546+05:30'
-last_seen: '2026-06-29T10:35:05.762546+05:30'
-last_checked: '2026-06-29T10:35:05.762546+05:30'
+first_seen: '2026-07-02T09:57:30.079518+05:30'
+last_seen: '2026-07-02T09:57:30.079518+05:30'
+last_checked: '2026-07-02T09:57:30.079518+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based MCP Framework**: Open-source library (`agentic`) for converting APIs into paid MCP servers, enabling monetization of AI agent interactions via standardized Model Context Protocol (MCP) interfaces.
-
-- **AI Agent Orchestration**: Supports multi-agent workflows with LLM integrations (e.g., OpenAI), enabling dynamic tool usage, state management, and cost-efficient execution of complex tasks.
-
-- **Real-time API Monetization**: Implements rate-limiting, subscription tiers, and usage tracking to facilitate direct billing for AI-driven API consumption, with last update (June 2026) reflecting active development.
+- **Purpose**: Converts existing APIs into paid MCP (Model Context Protocol) servers for instant deployment, enabling monetization of AI/LLM services.
+- **Tech Stack**: Built in TypeScript, integrates with OpenAI and other LLM providers for agentic workflows.
+- **Features**: Facilitates rapid conversion of APIs into MCP-compatible endpoints, with support for agent-based automation and AI-driven interactions.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: transitive-bullshit
-- Stars: 18121
-- Forks: 2234
+- Stars: 18120
+- Forks: 2233
 - Language: TypeScript
 - Topics: agents, ai, llms, openai
-- Last Updated: 2026-06-28T09:42:43Z
+- Last Updated: 2026-07-01T07:20:53Z
 - License: NOASSERTION
 - Archived: Yes
 - Created At: 2022-12-03T00:05:09Z

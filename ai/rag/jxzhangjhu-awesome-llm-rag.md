@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-07-02T04:12:56.303418+05:30'
+collected_at: '2026-07-02T09:54:49.866816+05:30'
 published_at: '2026-06-30T11:35:52Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-07-02T04:12:56.303418+05:30'
-last_seen: '2026-07-02T04:12:56.303418+05:30'
-last_checked: '2026-07-02T04:12:56.303418+05:30'
+first_seen: '2026-07-02T09:54:49.866816+05:30'
+last_seen: '2026-07-02T09:54:49.866816+05:30'
+last_checked: '2026-07-02T09:54:49.866816+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource**: Comprehensive collection of advanced **Retrieval-Augmented Generation (RAG)** techniques, frameworks, and tools for **Large Language Models (LLMs)**, including **embeddings**, **retrieval mechanisms**, and **hybrid approaches**.
-- **Technical scope**: Covers **RAG-embeddings**, **information retrieval (IR)**, and integration strategies to enhance LLM performance via external knowledge augmentation.
-- **Maintenance**: Actively updated repository (last commit: **2026-06-30**) with **1,340 stars** and **84 forks**, serving as a reference for cutting-edge RAG research and implementations.
+- **Curated resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques for **Large Language Models (LLMs)**, including embeddings, retrieval mechanisms, and hybrid architectures.
+
+- **Key topics covered**: Focuses on **RAG embeddings**, **retrieval-information strategies**, and integration with LLMs to enhance factual accuracy, context-aware generation, and dynamic knowledge updates.
+
+- **Repository stats**: 1,340 stars, 84 forks, last updated **2026-06-30**; categorized under **embeddings**, **LLMs**, **RAG**, and related subfields.
 
 ## Why It Matters
 

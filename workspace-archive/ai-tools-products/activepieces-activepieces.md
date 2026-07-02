@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **MCP Integration**: Activepieces provides ~400 MCP servers, enabling AI agents to interact with diverse tools and services for workflow automation.
-- **AI Workflow Automation**: Supports AI-driven workflows and agent-based automation, positioning itself as an alternative to n8n with no-code capabilities.
-- **TypeScript Framework**: Built in TypeScript, offering a scalable and maintainable architecture for AI agent frameworks and MCP tooling.
+- **TypeScript-based open-source platform** for AI agent orchestration, workflow automation, and MCP (Model Context Protocol) integration (~400 pre-built MCP servers).
+- **Features AI workflow automation**, no-code tooling, and an alternative to n8n with support for AI agent frameworks and multi-agent systems.
+- **Last updated July 2026**, with 23K+ stars and 3.8K+ forks, emphasizing extensibility via MCP servers and TypeScript-based agent tooling.
 
 ## Use Cases
 

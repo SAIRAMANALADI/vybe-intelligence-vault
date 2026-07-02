@@ -2,7 +2,7 @@
 title: Baseline | web.dev
 archive_category: automation-workflows
 source_category: ai/resources
-source_url: https://web.dev/baseline
+source_url: https://web.dev/baseline/
 resource_id: blog:baseline-web-dev
 local_vault_path: ai/resources/baseline-web-dev.md
 quality_score: 70
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Baseline Definition & Governance**: Originated by Chrome team, now managed by the [WebDX Community Group](https://web-platform-dx.github.io/web-features/), defining interoperable web features with two stages: *Newly available* (all core browsers support) and *Widely available* (30 months post-interoperability).
+- **Baseline Definition & Stages**: Baseline is a standardized set of web platform features with interoperable browser support, defined by the WebDX Community Group. Features progress through **Newly available** (all core browsers support) and **Widely available** (30 months post-interop) stages, replacing prior "Limited availability" status.
 
-- **Core Browser Set & Compatibility**: Supports Chrome (desktop/Android), Edge, Firefox (desktop/Android), and Safari (macOS/iOS); enables developers to trust feature compatibility
+- **Core Browser Set & Tooling Integration**: Baseline is validated across Chrome, Edge, Firefox, and Safari (desktop/Android/iOS). Tools like **Browsersl
 
 ## Use Cases
 
@@ -44,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://web.dev/baseline
+Original source URL: https://web.dev/baseline/
 
 ## Local Vault File
 

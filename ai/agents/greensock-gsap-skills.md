@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/greensock/gsap-skills
-collected_at: '2026-07-02T04:14:26.418967+05:30'
-published_at: '2026-07-01T22:06:18Z'
+collected_at: '2026-07-02T09:56:19.965864+05:30'
+published_at: '2026-07-02T04:03:16Z'
 tags:
 - agents
 - animation
@@ -13,7 +13,7 @@ tags:
 - hackernews
 - unknown
 - workflows
-stars: 10660
+stars: 10680
 language: Unknown
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-04T17:22:35Z'
 pushed_at: '2026-04-21T23:47:09Z'
 resource_id: github:greensock/gsap-skills
-first_seen: '2026-07-02T04:14:26.418967+05:30'
-last_seen: '2026-07-02T04:14:26.418967+05:30'
-last_checked: '2026-07-02T04:14:26.418967+05:30'
+first_seen: '2026-07-02T09:56:19.965864+05:30'
+last_seen: '2026-07-02T09:56:19.965864+05:30'
+last_checked: '2026-07-02T09:56:19.965864+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **GSAP AI Skills Repository**: Provides structured training for AI coding agents on GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration.
-- **Technical Scope**: Includes optimization techniques, performance considerations, and advanced animation workflows for GSAP.
-- **Last Updated**: July 1, 2026, with 10,660 stars and 630 forks, indicating active community engagement.
+- **GSAP Skill Development**: Repository provides AI agents with structured skills to master GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration for optimized workflows.
+
+- **Technical Training Framework**: Implements a modular skill system to educate AI coding agents on GSAP’s core functionalities, including timeline management, performance optimization, and advanced animation techniques.
+
+- **Repository Metadata**: Hosted on GitHub with 10,680 stars, 631 forks, last updated July 2, 2026; language unspecified, focusing exclusively on GSAP-related AI skill development.
 
 ## Why It Matters
 
@@ -42,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: greensock
-- Stars: 10660
-- Forks: 630
+- Stars: 10680
+- Forks: 631
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-01T22:06:18Z
+- Last Updated: 2026-07-02T04:03:16Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-04T17:22:35Z

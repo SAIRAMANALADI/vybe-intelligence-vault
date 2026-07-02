@@ -4,25 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gptme/gptme-agent-template
-collected_at: '2026-07-01T10:29:27.755099+05:30'
-published_at: '2026-06-30T20:56:56Z'
+collected_at: '2026-07-02T09:57:10.022460+05:30'
+published_at: '2026-07-02T02:07:26Z'
 tags:
 - agents
 - github-repo
 - hackernews
-- scripts
 - shell
-- workflows
 stars: 49
 language: Shell
 status: active
 archived: false
 created_at: '2024-11-21T09:16:40Z'
-pushed_at: '2026-06-30T20:56:50Z'
+pushed_at: '2026-07-02T02:07:21Z'
 resource_id: github:gptme/gptme-agent-template
-first_seen: '2026-07-01T10:29:27.755099+05:30'
-last_seen: '2026-07-01T10:29:27.755099+05:30'
-last_checked: '2026-07-01T10:29:27.755099+05:30'
+first_seen: '2026-07-02T09:57:10.022460+05:30'
+last_seen: '2026-07-02T09:57:10.022460+05:30'
+last_checked: '2026-07-02T09:57:10.022460+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a workspace structure for creating persistent autonomous agents using `gptme`, enabling capabilities such as building, learning, socializing, and task assistance.
-
-- **Technical Stack**: Primarily implemented in **Shell**, facilitating agent orchestration and workflow automation.
-
-- **Repository Status**: Last updated on **2026-06-30**, with **49 stars** and **27 forks**, indicating active community engagement.
+- **Template Purpose**: Provides a structured workspace for deploying persistent autonomous agents capable of building, learning, socializing, and assisting users via the `gptme` framework.
+- **Technical Stack**: Implemented in Shell, facilitating agent orchestration, environment setup, and CLI-based interactions.
+- **Repository Status**: Last updated on 2026-07-02, with 49 stars and 27 forks, indicating active community engagement.
 
 ## Why It Matters
 
@@ -47,10 +43,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 27
 - Language: Shell
 - Topics: None
-- Last Updated: 2026-06-30T20:56:56Z
+- Last Updated: 2026-07-02T02:07:26Z
 - Archived: No
 - Created At: 2024-11-21T09:16:40Z
-- Pushed At: 2026-06-30T20:56:50Z
+- Pushed At: 2026-07-02T02:07:21Z
 
 ## Possible Use Cases
 

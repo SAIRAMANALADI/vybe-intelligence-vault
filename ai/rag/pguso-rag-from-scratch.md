@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-07-02T04:12:11.158199+05:30'
+collected_at: '2026-07-02T09:54:04.834040+05:30'
 published_at: '2026-07-01T18:08:16Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - meta-ai
 - models
 - rag
+- workflows
 stars: 1470
 language: JavaScript
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-07-02T04:12:11.158199+05:30'
-last_seen: '2026-07-02T04:12:11.158199+05:30'
-last_checked: '2026-07-02T04:12:11.158199+05:30'
+first_seen: '2026-07-02T09:54:04.834040+05:30'
+last_seen: '2026-07-02T09:54:04.834040+05:30'
+last_checked: '2026-07-02T09:54:04.834040+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-*   Deconstructs RAG pipeline implementation using local LLMs via `node-llama-cpp` in JavaScript, prioritizing transparent component understanding.
-*   Focuses on fundamental RAG stages: embedding generation, vector search, document retrieval, and context-augmented generation.
-*   Provides an educational, end-to-
+- **Educational RAG Implementation**: Provides a step-by-step JavaScript-based tutorial to build a Retrieval-Augmented Generation (RAG) system from scratch using local LLMs (via `node-llama-cpp`), eliminating black-box dependencies to enhance understanding of embeddings, vector search, retrieval, and context-augmented generation.
+
+- **Modular RAG Pipeline**: Implements core RAG components—document ingestion, embedding generation (e.g., with `transformers.js` or `sentence-transformers`), vector storage (e.g., FAISS or in-memory), retrieval (semantic search), and prompt augmentation—demonstrating their integration in a Node.js environment.
+
+- **Agentic RAG Chatbot**: Demonstrates deploying a RAG-powered chatbot as an AI agent, leveraging retrieval to dynamically fetch and inject relevant context into LLM prompts for improved response accuracy and groundedness, with examples for extensibility (e.g., multi-agent workflows).
 
 ## Why It Matters
 

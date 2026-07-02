@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-02T04:13:36.348519+05:30'
+collected_at: '2026-07-02T09:55:29.906470+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-02T04:13:36.348519+05:30'
-last_seen: '2026-07-02T04:13:36.348519+05:30'
-last_checked: '2026-07-02T04:13:36.348519+05:30'
+first_seen: '2026-07-02T09:55:29.906470+05:30'
+last_seen: '2026-07-02T09:55:29.906470+05:30'
+last_checked: '2026-07-02T09:55:29.906470+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture Integration**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
+- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory hierarchies.
 
-- **Stateful Reasoning Mechanism**: Implements dynamic memory retrieval and update policies to maintain contextual coherence across extended dialogues or narratives, leveraging episodic and semantic memory modules.
+- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended interactions, addressing limitations of traditional RAG in long-form reasoning tasks.
 
-- **AAAI 2026 Poster Contribution**: Proposes novel evaluation metrics and benchmarks for assessing long-form reasoning capabilities in RAG systems, with open-source Python implementation for reproducibility.
+- **AAAI 2026 Contribution**: Proposes a novel approach for scalable, memory-efficient RAG systems, validated through empirical benchmarks demonstrating superior performance in narrative reasoning compared to baseline models.
 
 ## Why It Matters
 

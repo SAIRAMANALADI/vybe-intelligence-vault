@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/ai-agents-for-beginners
-collected_at: '2026-07-01T10:29:22.773911+05:30'
-published_at: '2026-07-01T04:40:42Z'
+collected_at: '2026-07-02T09:57:00.079354+05:30'
+published_at: '2026-07-02T04:20:35Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - workflows
-stars: 68269
+stars: 68356
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-11-28T10:42:52Z'
 pushed_at: '2026-06-25T10:43:38Z'
 resource_id: github:microsoft/ai-agents-for-beginners
-first_seen: '2026-07-01T10:29:22.773911+05:30'
-last_seen: '2026-07-01T10:29:22.773911+05:30'
-last_checked: '2026-07-01T10:29:22.773911+05:30'
+first_seen: '2026-07-02T09:57:00.079354+05:30'
+last_seen: '2026-07-02T09:57:00.079354+05:30'
+last_checked: '2026-07-02T09:57:00.079354+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curriculum Structure**: 12-lesson Jupyter Notebook-based course covering foundational to advanced AI agent development, including agentic RAG, Autogen, and Semantic Kernel frameworks.
+- **12-Lesson Curriculum**: Structured guide covering foundational to advanced concepts in building AI agents, including agentic RAG, AutoGen, and Semantic Kernel frameworks.
 
-- **Technical Focus**: Emphasizes hands-on implementation of agentic AI systems, with topics spanning agentic frameworks, generative AI integration, and multi-agent orchestration.
+- **Jupyter Notebook-Based**: Hands-on learning with executable notebooks for practical implementation of AI agent architectures and workflows.
 
-- **Ecosystem Alignment**: Aligns with Microsoft’s AI tooling (Autogen, Semantic Kernel) and supports agentic workflows, including retrieval-augmented generation (RAG) and autonomous agent interactions.
+- **Microsoft Ecosystem Integration**: Focuses on tools like AutoGen and Semantic Kernel, leveraging Microsoft’s agentic AI frameworks for scalable agent development.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: microsoft
-- Stars: 68269
-- Forks: 22645
+- Stars: 68356
+- Forks: 22671
 - Language: Jupyter Notebook
 - Topics: agentic-ai, agentic-framework, agentic-rag, ai-agents, ai-agents-framework, autogen, generative-ai, semantic-kernel
-- Last Updated: 2026-07-01T04:40:42Z
+- Last Updated: 2026-07-02T04:20:35Z
 - License: MIT
 - Archived: No
 - Created At: 2024-11-28T10:42:52Z

@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting via profile/organization pages, supporting Gradio (Python SDK), Docker (arbitrary Dockerfiles), and static HTML/JS implementations, with GPU/accelerated hardware upgrades available.
+- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting via Gradio SDK (Python), Dockerfiles, or static JS/HTML—supports GPU/accelerated hardware upgrades for performance-critical applications.
 
-- **Integration & Customization**: Supports dependency management, OpenCV integration, GitHub Actions for CI/CD, and embedding in external platforms; includes dev mode, storage monitoring, and ArXiv submission for research dissemination.
+- **Integration & Customization**: Supports dependency management, OpenCV integration, GitHub Actions CI/CD, and embedding; allows organizational card integration and ArXiv submissions for academic visibility.
 
-- **Do
+- **Advanced Features**: Dev Mode for debugging, disk/storage monitoring, and
 
 ## Use Cases
 

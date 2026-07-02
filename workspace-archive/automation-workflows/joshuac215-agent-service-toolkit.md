@@ -6,10 +6,10 @@ source_url: https://github.com/JoshuaC215/agent-service-toolkit
 resource_id: github:joshuac215/agent-service-toolkit
 local_vault_path: ai/agents/joshuac215-agent-service-toolkit.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - github-repo
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Integration**: Combines LangGraph for agent orchestration, FastAPI for backend REST services, and Streamlit for frontend UI in a Python-based AI agent service toolkit.
+- **Framework Integration**: Combines LangGraph for agent orchestration, FastAPI for backend services, and Streamlit for frontend UI in a Python-based AI agent toolkit.
 
-- **Modular Architecture**: Designed for extensibility with predefined tooling patterns, enabling rapid deployment of AI agents with configurable workflows and APIs.
+- **Modular Architecture**: Designed for extensibility with predefined agent workflows, tool integration, and RESTful API endpoints for agent management.
 
-- **Production-Ready Features**: Includes built-in monitoring, logging, and scalability optimizations for deploying AI agents in enterprise environmen
+- **Deployment Ready**: Includes Docker support, example configurations, and documentation for scalable AI agent service deployment.
 
 ## Use Cases
 

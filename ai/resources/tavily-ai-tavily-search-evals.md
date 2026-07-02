@@ -4,11 +4,12 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/tavily-ai/tavily-search-evals
-collected_at: '2026-06-30T22:54:29.769701+05:30'
+collected_at: '2026-07-02T10:01:07.664099+05:30'
 published_at: '2026-05-31T17:09:29Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 stars: 11
 language: Python
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-06-19T16:00:27Z'
 pushed_at: '2026-04-02T14:49:05Z'
 resource_id: github:tavily-ai/tavily-search-evals
-first_seen: '2026-06-30T22:54:29.769701+05:30'
-last_seen: '2026-06-30T22:54:29.769701+05:30'
-last_checked: '2026-06-30T22:54:29.769701+05:30'
+first_seen: '2026-07-02T10:01:07.664099+05:30'
+last_seen: '2026-07-02T10:01:07.664099+05:30'
+last_checked: '2026-07-02T10:01:07.664099+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Public repository for benchmarking search performance across multiple search providers using standardized evaluations.
-- **Implementation**: Python-based framework for executing and comparing search benchmarks.
-- **Metadata**: Last updated on 2026-05-31; no active forks or topics as of the latest commit.
+- **Purpose**: Repository for executing search benchmarks across multiple search providers to evaluate performance and accuracy.
+- **Technical Stack**: Implemented in Python, with no additional language dependencies or frameworks specified.
+- **Metadata**: Last updated on 2026-05-31, with minimal GitHub activity (11 stars, 1 fork).
 
 ## Why It Matters
 
@@ -40,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: tavily-ai
 - Stars: 11
-- Forks: 0
+- Forks: 1
 - Language: Python
 - Topics: None
 - Last Updated: 2026-05-31T17:09:29Z

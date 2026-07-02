@@ -6,7 +6,7 @@ source_url: https://speechify.ai/
 resource_id: blog:speechify-ai-voice-ai-research-lab
 local_vault_path: ai/rag/speechify-ai-voice-ai-research-lab.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Zero-shot voice cloning**: Enables cloning of any voice from a 10-30 second reference clip, capturing timbre, cadence, and micro-expressions via Simba model.
-- **Emotion and multilingual control**: Simba 3.0 supports fine-grained emotional expression (neutral, happy, sad, excited, calm) and native-quality synthesis across 30+ locales with locale-specific voices.
-- **API integration**: Single API endpoint (`/v1/audio/speech`) for TTS, voice cloning, and agent embedding with SSML prosody contr
+- **Zero-shot voice cloning**: Enables cloning of any voice from a 10-30s reference audio with high fidelity, capturing timbre, cadence, and micro-expressions via Simba 3.0’s streaming-native architecture.
+- **Emotion & prosody control**: Simba 3.0 supports fine-grained emotional synthesis (neutral, happy, sad, excited, calm) and SSML prosody adjustments, enabling nuanced tonal/rhythmic variations beyond basic pitch/speed.
+- **Multilingual TTS & agent integration**: Offers native-quality synthes
 
 ## Use Cases
 

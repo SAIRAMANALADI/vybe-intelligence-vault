@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-07-02T04:13:41.371636+05:30'
+collected_at: '2026-07-02T09:55:34.922678+05:30'
 published_at: '2026-06-29T11:01:01Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-07-02T04:13:41.371636+05:30'
-last_seen: '2026-07-02T04:13:41.371636+05:30'
-last_checked: '2026-07-02T04:13:41.371636+05:30'
+first_seen: '2026-07-02T09:55:34.922678+05:30'
+last_seen: '2026-07-02T09:55:34.922678+05:30'
+last_checked: '2026-07-02T09:55:34.922678+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a novel **MemGraphRAG** framework leveraging memory-augmented agents for **Graph Retrieval-Augmented Generation (GraphRAG)**, enabling dynamic knowledge graph construction and retrieval.
+- **Memory-based Multi-Agent System**: Introduces a novel framework where multiple agents collaboratively construct and utilize a dynamic memory graph for enhanced retrieval-augmented generation (RAG), leveraging agent-specific memory to improve contextual reasoning.
 
-- **Ontology-Driven Graph Construction**: Implements an **ontology-aware** approach to build and refine knowledge graphs, ensuring structured, scalable, and semantically consistent graph representations for downstream tasks.
+- **Graph Construction & Ontology Integration**: Implements an ontology-driven graph construction pipeline to structure knowledge hierarchically, enabling efficient subgraph retrieval and reasoning over complex relationships in unstructured data.
 
-- **Python Implementation**: Provides an open-source Python-based system with multi-agent collaboration, optimized for **KDD 2026** standards, supporting graph-based RAG applications.
+- **KDD 2026 Contribution**: Proposes a memory-augmented RAG system optimized for multi-agent collaboration, demonstrating state-of-the-art performance in graph-based knowledge retrieval and generation tasks.
 
 ## Why It Matters
 

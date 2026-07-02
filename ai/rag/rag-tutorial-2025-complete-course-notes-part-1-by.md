@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280
-published_at: '2026-07-02T04:11:59.443274+05:30'
-collected_at: '2026-07-02T04:11:59.443285+05:30'
+published_at: '2026-07-02T09:53:52.416764+05:30'
+collected_at: '2026-07-02T09:53:52.416778+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
-first_seen: '2026-07-02T04:11:59.443285+05:30'
-last_seen: '2026-07-02T04:11:59.443285+05:30'
-last_checked: '2026-07-02T04:11:59.443285+05:30'
+first_seen: '2026-07-02T09:53:52.416778+05:30'
+last_seen: '2026-07-02T09:53:52.416778+05:30'
+last_checked: '2026-07-02T09:53:52.416778+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: RAG combines LLMs with external retrieval systems to enhance responses by fetching relevant information from documents/databases without overloading the LLM's context window, addressing scalability issues (e.g., 1PB enterprise data = 1.3 quintillion tokens).
-- **Embedding Pipeline**: Chunking (e.g., 1,000-token segments) and embedding conversion (e.g., OpenAI's 3,072-dim vectors) transform text into mathematical representations, enabling semantic similarity comparisons in vector databases (e.g., Pinecone, FAISS).
-- **Two-Part Workflow**: Injection pipeline ingests/embeds data; retrieval pipeline converts user queries to vectors, retrieves top-*k* relevant chunks via similarity search, and passes them to the LLM for answer generation.
+- **RAG Architecture**: RAG combines LLMs with retrieval systems to fetch relevant external information (documents, databases) dynamically, avoiding context window overflow by injecting only pertinent chunks into the LLM prompt.
+
+- **Vector Embeddings & Semantic Search**: Text is converted into high-dimensional vectors (e.g., 3,072D for OpenAI’s `text-embedding-3-large`) where semantic similarity is computed via distance metrics (e.g., cosine similarity), enabling retrieval of contextually relevant chunks from vector databases (Pinecone, Weaviate, FAISS).
+
+- **Pipeline Workflow**: The system consists of (1) **Injection Pipeline** (chunking → embedding → storage in vector DB) and (2) **Retrieval Pipeline** (query embedding → similarity search → top-*k* chunk retrieval → LLM augmentation for answer generation).
 
 ## Why It Matters
 
@@ -44,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T04:11:59.443274+05:30
+- Published: 2026-07-02T09:53:52.416764+05:30
 
 ## Related Tags
 

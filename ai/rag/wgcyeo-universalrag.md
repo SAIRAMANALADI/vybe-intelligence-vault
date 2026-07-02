@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-02T04:13:41.466365+05:30'
+collected_at: '2026-07-02T09:55:34.896712+05:30'
 published_at: '2026-06-28T05:14:03Z'
 tags:
 - github-repo
+- paper
 - python
 - rag
 stars: 172
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-02T04:13:41.466365+05:30'
-last_seen: '2026-07-02T04:13:41.466365+05:30'
-last_checked: '2026-07-02T04:13:41.466365+05:30'
+first_seen: '2026-07-02T09:55:34.896712+05:30'
+last_seen: '2026-07-02T09:55:34.896712+05:30'
+last_checked: '2026-07-02T09:55:34.896712+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence-level) via unified indexing and retrieval mechanisms.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG beyond text by integrating diverse modalities (e.g., images, tables, code) and varying granularities (e.g., document-level, chunk-level) into a unified retrieval-augmented generation pipeline.
 
-- **Modality-Agnostic Retrieval**: Implements cross-modal retrieval using modality-specific encoders (e.g., CLIP for vision-language) and a shared embedding space, allowing dynamic fusion of heterogeneous data sources during generation.
+- **Modality-Agnostic Retrieval & Fusion**: Implements a cross-modal retrieval mechanism with modality-specific encoders and a fusion module to dynamically combine heterogeneous data sources during generation, optimizing context relevance.
 
-- **Adaptive Retrieval Strategies**: Dynamically selects retrieval granularity and modality based on query complexity and context, optimizing performance via a learned routing module that balances relevance and computational efficiency.
+- **ACL 2026 Oral Contribution**: Proposes a novel architecture with empirical validation on multimodal corpora, demonstrating state-of-the-art performance in tasks requiring integration of disparate data types (e.g., scientific papers with figures, tables, and references).
 
 ## Why It Matters
 

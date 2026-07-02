@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - python
 - rag
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework for resilient AI agents**: LangGraph provides a Python-based framework for building, deploying, and managing resilient multi-agent systems, leveraging graph-based workflows for complex task orchestration.
-- **Integration with LLMs and enterprise tools**: Supports integration with OpenAI, Gemini, Pydantic, and enterprise-grade RAG pipelines, enabling structured agent interactions and enterprise-ready AI deployments.
-- **Open-source multi-agent orchestration**: Enables parallel/concu
+- **Framework Purpose**: LangGraph is a Python-based framework designed for building resilient, multi-agent systems and workflows, integrating with LLMs (e.g., OpenAI, Gemini) and enterprise tools (e.g., RAG, Pydantic) for robust AI agent orchestration.
+
+- **Key Features**: Supports stateful, graph-based agent interactions with built-in resilience (e.g., retries, error handling), modularity via Python classes, and compatibility with LangChain ecosystem for generative AI and deep agent applicatio
 
 ## Use Cases
 

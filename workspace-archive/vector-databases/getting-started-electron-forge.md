@@ -30,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Electron Forge** provides a unified build pipeline for Electron apps, supporting code signing, installer generation, and artifact publishing via its plugin-based architecture.
-- **Packaging limitations**: Requires `node_modules` on disk; incompatible with Yarn PnP and symlinked dependencies; use `node-linker: node-modules` (Yarn) or `node-linker=hoisted` (pnpm) for compatibility.
-- **Templates & commands**: Supports `webpack`, `vite`, and TypeScript variants; `make` generates platform-specif
+- **Electron Forge** is a unified tool for packaging, distributing, and publishing Electron applications, integrating features like code signing, installer generation, and artifact publishing out-of-the-box.
+
+- **Packaging limitations**: Requires `node_modules` on disk; does not support Yarn PnP or symlinked dependencies. Workarounds include Yarn's `node-modules` mode or pnpm's `node-linker=hoisted` in `.npmrc`.
+
+- **Templates & workflows**: Supports scaffolding via `create-electron-app` with fi
 
 ## Use Cases
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/ali-bahrainian-rag-best-practices.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
@@ -17,7 +17,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # ali-bahrainian/RAG_best_practices
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
 - **Repository Overview**: GitHub repository focused on best practices for Retrieval-Augmented Generation (RAG) systems, containing Python-based implementations and guidelines.
-- **Metadata**: 107 stars, 20 forks, last updated on 2026-06-19T11:36:42Z.
-- **Scope**: No additional topics listed; content likely centers on RAG-specific techniques and optimizations.
+- **Metadata**: 107 stars, 20 forks, last updated on 2026-06-19, with no additional topics or description provided.
+- **Technical Stack**: Primarily Python, likely including libraries/frameworks for RAG pipelines (e.g., LangChain, HuggingFace Transformers, FAISS, or Weaviate).
 
 ## Use Cases
 

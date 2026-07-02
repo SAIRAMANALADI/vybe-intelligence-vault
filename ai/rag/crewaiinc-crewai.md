@@ -1,59 +1,72 @@
 ---
-title: 'crewAIInc/crewAI Release: 1.15.2a2'
+title: crewAIInc/crewAI
 category: ai/rag
-source_type: github_releases
-source_name: GitHub Releases AI
-source_url: https://github.com/crewaiinc/crewai
-published_at: '2026-07-01T22:15:05Z'
-collected_at: '2026-07-02T04:11:08.499963+05:30'
+source_type: github
+source_name: GitHub Discovery
+source_url: https://github.com/crewAIInc/crewAI
+collected_at: '2026-07-02T09:58:00.131728+05:30'
+published_at: '2026-07-02T04:00:31Z'
 tags:
 - agents
-- crewaiinc-crewai
-- github-release
+- github-repo
+- python
+- rag
+- workflows
+stars: 54735
+language: Python
 status: active
+license: MIT
+archived: false
+created_at: '2023-10-27T03:26:59Z'
+pushed_at: '2026-07-01T23:27:23Z'
 resource_id: github:crewaiinc/crewai
-first_seen: '2026-06-16T13:57:16.144372+05:30'
-last_seen: '2026-07-02T04:11:08.499963+05:30'
-last_checked: '2026-07-02T04:11:08.499963+05:30'
+first_seen: '2026-07-02T09:58:00.131728+05:30'
+last_seen: '2026-07-02T09:58:00.131728+05:30'
+last_checked: '2026-07-02T09:58:00.131728+05:30'
 health_score: 100
 ---
 
-
-# crewAIInc/crewAI Release: 1.15.2a2
+# crewAIInc/crewAI
 
 ## Summary
 
-## What's Changed
+- **Role-based AI Agent Orchestration**: CrewAI is a Python framework designed to coordinate autonomous AI agents through role-playing, enabling structured collaboration for complex task execution.
 
-### Features
-- Add aiobotocore to the bedrock extra
-- Document flow agent options
-- Add text helper to flow skill example
-- Add text helper for flow CEL prompts
-- Add streaming docs to the navigation
+- **Collaborative Intelligence**: Agents within CrewAI operate as specialized entities, leveraging shared intelligence to dynamically allocate tasks and optimize workflows without manual intervention.
 
-### Bug Fixes
-- Reject self-listening flow methods
-
-### Documentation
-- Update s...
+- **LLM Integration & Scalability**: Built for Python, CrewAI supports large language models (LLMs) and scales via modular agent roles, task delegation, and real-time synchronization (last updated July 2026).
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: GitHub Releases AI
-- Category: ai/agents
-- Published: 2026-07-01T22:15:05Z
+- Owner: crewAIInc
+- Stars: 54735
+- Forks: 7674
+- Language: Python
+- Topics: agents, ai, ai-agents, aiagentframework, llms
+- Last Updated: 2026-07-02T04:00:31Z
+- License: MIT
+- Archived: No
+- Created At: 2023-10-27T03:26:59Z
+- Pushed At: 2026-07-01T23:27:23Z
 
-## Related Tags
+## Possible Use Cases
 
-- agents
-- crewaiinc-crewai
-- github-release
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 
-Original source: https://github.com/crewaiinc/crewai
+Original source: https://github.com/crewAIInc/crewAI

@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-07-02T04:13:41.324223+05:30'
+collected_at: '2026-07-02T09:55:34.955526+05:30'
 published_at: '2026-07-01T10:26:12Z'
 tags:
 - agents
-- benchmark
-- dataset
 - github-repo
 - hackernews
 - rag
 - unknown
+- workflows
 stars: 782
 language: Unknown
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-05-02T04:18:19Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-07-02T04:13:41.324223+05:30'
-last_seen: '2026-07-02T04:13:41.324223+05:30'
-last_checked: '2026-07-02T04:13:41.324223+05:30'
+first_seen: '2026-07-02T09:55:34.955526+05:30'
+last_seen: '2026-07-02T09:55:34.955526+05:30'
+last_checked: '2026-07-02T09:55:34.955526+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource list** for agentic deep research, focusing on LLM-driven reasoning agents, search agents, and advanced RAG techniques, aligned with ACL 2026 KnowFM benchmarks.
-- **Key topics** include agentic AI, deep research agents, multi-agent collaboration, and hybrid retrieval-generation architectures for complex knowledge synthesis.
-- **Repository structure** aggregates state-of-the-art tools, datasets, and methodologies for autonomous research agents, last updated July 2026.
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, focusing on LLM-driven reasoning agents, search agents, and advanced RAG systems for complex knowledge synthesis.
+- **ACL 2026 KnowFM Integration**: Compiles peer-reviewed contributions and technical frameworks from the ACL 2026 KnowFM initiative, emphasizing autonomous research agents and multi-step reasoning pipelines.
+- **High-Activity Repository**: Maintains active development (782 stars, 62 forks) with last update in July 2026, covering topics like agentic AI, deep research workflows, and hybrid retrieval-reasoning architectures.
 
 ## Why It Matters
 

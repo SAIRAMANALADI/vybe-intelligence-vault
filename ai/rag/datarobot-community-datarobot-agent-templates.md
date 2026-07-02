@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datarobot-community/datarobot-agent-templates
-collected_at: '2026-07-01T10:30:12.842953+05:30'
+collected_at: '2026-07-02T09:57:55.175876+05:30'
 published_at: '2026-06-30T17:42:09Z'
 tags:
 - agents
@@ -22,11 +22,11 @@ status: active
 license: Apache-2.0
 archived: false
 created_at: '2025-05-14T14:40:53Z'
-pushed_at: '2026-06-24T08:04:39Z'
+pushed_at: '2026-07-01T08:08:35Z'
 resource_id: github:datarobot-community/datarobot-agent-templates
-first_seen: '2026-07-01T10:30:12.842953+05:30'
-last_seen: '2026-07-01T10:30:12.842953+05:30'
-last_checked: '2026-07-01T10:30:12.842953+05:30'
+first_seen: '2026-07-02T09:57:55.175876+05:30'
+last_seen: '2026-07-02T09:57:55.175876+05:30'
+last_checked: '2026-07-02T09:57:55.175876+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Purpose**: Provides agentic workflow templates for DataRobot, integrating frameworks like CrewAI, LangGraph, and LlamaIndex to enable LLM-driven automation and AI agent orchestration.
-
-- **Technical Stack**: Implemented in Python, leveraging DataRobot’s API ecosystem with modular templates for agent-based workflows, including retrieval-augmented generation (RAG) and multi-agent collaboration.
-
-- **Key Features**: Includes pre-built templates for agentic AI tasks (e.g., data processing, model deployment, and LLM inference) with support for customizable agent roles, tools, and workflows.
+- **Purpose**: Provides templates for DataRobot Agentic Workflows, integrating frameworks like CrewAI, LangGraph, and LlamaIndex for LLM-driven automation.
+- **Technical Stack**: Python-based, leveraging DataRobot APIs for agentic AI workflows, with dependencies on CrewAI, LangGraph, and LlamaIndex.
+- **Repository Status**: Last updated June 30, 2026, with 19 stars and 12 forks, indicating active but niche community adoption.
 
 ## Why It Matters
 
@@ -55,7 +53,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-05-14T14:40:53Z
-- Pushed At: 2026-06-24T08:04:39Z
+- Pushed At: 2026-07-01T08:08:35Z
 
 ## Possible Use Cases
 

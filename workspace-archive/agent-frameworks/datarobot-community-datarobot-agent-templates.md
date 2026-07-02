@@ -6,7 +6,7 @@ source_url: https://github.com/datarobot-community/datarobot-agent-templates
 resource_id: github:datarobot-community/datarobot-agent-templates
 local_vault_path: ai/rag/datarobot-community-datarobot-agent-templates.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: template
 importance: medium
@@ -30,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -38,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Purpose**: Provides agentic workflow templates for DataRobot, integrating frameworks like CrewAI, LangGraph, and LlamaIndex to enable LLM-driven automation and AI agent orchestration.
-
-- **Technical Stack**: Implemented in Python, leveraging DataRobot’s API ecosystem with modular templates for agent-based workflows, including retrieval-augmented generation (RAG) and multi-agent collaboration.
-
-- **Key Features**: Includes pre-built templates for agentic AI tasks (e.g., data proces
+- **Purpose**: Provides templates for DataRobot Agentic Workflows, integrating frameworks like CrewAI, LangGraph, and LlamaIndex for LLM-driven automation.
+- **Technical Stack**: Python-based, leveraging DataRobot APIs for agentic AI workflows, with dependencies on CrewAI, LangGraph, and LlamaIndex.
+- **Repository Status**: Last updated June 30, 2026, with 19 stars and 12 forks, indicating active but niche community adoption.
 
 ## Use Cases
 

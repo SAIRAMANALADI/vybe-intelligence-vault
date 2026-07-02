@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-07-02T04:12:51.310215+05:30'
+collected_at: '2026-07-02T09:54:44.846588+05:30'
 published_at: '2026-06-22T11:51:50Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
 - python
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-07-02T04:12:51.310215+05:30'
-last_seen: '2026-07-02T04:12:51.310215+05:30'
-last_checked: '2026-07-02T04:12:51.310215+05:30'
+first_seen: '2026-07-02T09:54:44.846588+05:30'
+last_seen: '2026-07-02T09:54:44.846588+05:30'
+last_checked: '2026-07-02T09:54:44.846588+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A Python-based repository (`chaoql/rag-best-practices`) focused on best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), last updated on **2026-06-22**.
+- **RAG Optimization Framework**: Repository provides Python-based best practices for optimizing Retrieval-Augmented Generation (RAG) systems, focusing on large model integration with retrieval mechanisms.
 
-- **Key Focus**: Provides technical guidance and implementation strategies for optimizing RAG pipelines, including retrieval mechanisms, prompt engineering, and integration with LLMs.
+- **Technical Implementation**: Includes methodologies for efficient document retrieval, chunking strategies, and embedding optimization to enhance LLM performance in knowledge-intensive tasks.
 
-- **Repository Metrics**: 92 stars, 10 forks, no active topics, indicating a niche but growing resource for RAG optimization.
+- **Evaluation & Benchmarking**: Offers tools for assessing RAG system accuracy, latency, and robustness, with updates as of June 2026.
 
 ## Why It Matters
 

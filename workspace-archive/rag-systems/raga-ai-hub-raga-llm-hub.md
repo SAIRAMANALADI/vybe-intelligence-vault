@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **LLM Evaluation & Guardrails Framework**: Python-based repository providing tools for assessing large language model (LLM) performance, implementing guardrails for safety, and enforcing security constraints.
-
-- **Modular Architecture**: Supports LLMops workflows with extensible modules for evaluation metrics, security policies, and compliance checks, enabling customization for diverse use cases.
-
-- **Security & Compliance Focus**: Integrates security best practices and regulatory compliance c
+- **LLM Evaluation & Guardrails Framework**: Python-based repository providing tools for assessing Large Language Model (LLM) performance, implementing guardrails, and enforcing security constraints.
+- **Security & Compliance**: Integrates mechanisms for LLM security, including input/output validation, bias detection, and policy enforcement to mitigate risks in production deployments.
+- **LLMOps Integration**: Supports operational workflows for LLM deployment, monitoring, and evaluation, with ex
 
 ## Use Cases
 

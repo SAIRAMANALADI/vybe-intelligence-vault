@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-07-02T04:13:51.384451+05:30'
+collected_at: '2026-07-02T09:55:44.943992+05:30'
 published_at: '2026-07-01T02:01:43Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-07-02T04:13:51.384451+05:30'
-last_seen: '2026-07-02T04:13:51.384451+05:30'
-last_checked: '2026-07-02T04:13:51.384451+05:30'
+first_seen: '2026-07-02T09:55:44.943992+05:30'
+last_seen: '2026-07-02T09:55:44.943992+05:30'
+last_checked: '2026-07-02T09:55:44.943992+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) containing structured GitHub Copilot instructions, prompts, skills, MCPs (Model Context Protocol), and agent markdown files to optimize AI agent interactions.
-- **Technical Scope**: Focuses on `TypeScript`-based agent skills, prompt engineering, and custom Copilot agent configurations for VS Code integration (`vscode-copilot-chat`).
-- **Metadata**: 542 stars, 89 forks, last updated `2026-07-01T02:01:43Z`, covering topics like `agent-skills`, `ai-agents`, `copilot-instructions`, and `mcp`.
+- **Curated Resource**: Repository (`awesome-copilot-agents`) containing GitHub instructions, prompts, skills, MCPs, and agent markdown files to optimize GitHub Copilot AI performance.
+- **Technical Scope**: Focuses on `agent-skills`, `prompt-engineering`, `custom-agents`, and `MCP` integration for enhanced AI agent functionality in VS Code.
+- **Metadata**: 542 stars, 89 forks, TypeScript-based, last updated July 2026, covering `copilot-instructions`, `copilot-prompting`, and `vscode-copilot-chat` topics.
 
 ## Why It Matters
 

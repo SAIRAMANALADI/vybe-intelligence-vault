@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI Integration**: Gemini in Android Studio provides an AI agent designed for Android development, enabling multi-stage task automation (e.g., unit test generation, UI alterations, crash fixes) with iterative execution plans and real-time code suggestions.
+- **Agentic AI Integration**: Gemini in Android Studio provides an agentic AI assistant for Android development, enabling multi-stage task automation (e.g., unit test generation, UI alterations, error fixing) via **Agent Mode**, which formulates execution plans across project files and iteratively refines code based on feedback.
 
-- **Multimodal & Context-Aware Features**: Supports multimodal inputs (e.g., UI wireframe images → code conversion, screenshot-based debugging) and maintains context via `.aiexclude` file control, ensuring data privacy while optimi
+- **Multimodal & Context-Aware Features**: Supports **image-based UI prototyping** (converting wireframes/mockups to code) and **context-aware code assistance** (e.g.,
 
 ## Use Cases
 

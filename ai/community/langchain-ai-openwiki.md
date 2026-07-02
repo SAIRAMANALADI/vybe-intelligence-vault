@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:langchain-ai/openwiki
 first_seen: '2026-07-02T04:11:09.197854+05:30'
 last_seen: '2026-07-02T04:11:09.197854+05:30'
 last_checked: '2026-07-02T04:11:09.197854+05:30'
 health_score: 100
 ---
+
 
 # OpenWiki: CLI that writes and maintains agent documentation for your codebase
 

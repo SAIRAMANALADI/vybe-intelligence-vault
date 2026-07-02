@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - hackernews
-- producthunt
 - rag
 - reddit
 - web-crawled
@@ -37,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page** provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with 90-day uptime metrics and incident tracking.
-- **Notification Systems** support email, SMS (global), Slack, and webhook-based incident alerts for GitHub service disruptions.
-- **Past Incidents** include Copilot delays (July 1, 2026), EU network maintenance (June 27, 2026), and hypervisor-related job service degradation (June 25, 2026).
+- **GitHub Status Page** provides real-time operational status, incident reports, and historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days) for GitHub services across regions (US, EU, Australia, Japan).
+
+- **Incident Management** includes automated notifications via email, SMS (global carrier support), Slack, and webhooks for incident creation, updates, and resolutions, with OTP-based verification for security.
+
+- **Past Incidents** highlight service disruptions (e.g.,
 
 ## Use Cases
 

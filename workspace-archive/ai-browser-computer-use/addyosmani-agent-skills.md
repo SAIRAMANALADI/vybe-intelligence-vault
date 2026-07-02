@@ -14,7 +14,6 @@ tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - shell
 selection_reason:
 - Active open-source repository
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`addyosmani/agent-skills`) providing production-grade engineering skills for AI coding agents, with 68,234 stars and 7,398 forks.
-- **Technical Focus**: Primarily Shell-based, designed for integration with AI coding agents (e.g., `claude-code`, `cursor`) and tools like `antigravity-ide`.
-- **Last Updated**: July 1, 2026, indicating active maintenance and recent updates.
+- **Repository Overview**: Production-grade engineering skills repository (`addyosmani/agent-skills`) for AI coding agents, with 68,448 stars and 7,414 forks, primarily written in Shell.
+- **Key Topics**: Focuses on `agent-skills`, `antigravity`, `antigravity-ide`, `claude-code`, `cursor`, and related AI coding agent tools.
+- **Last Updated**: Repository last updated on **July 2, 2026**, with active development tracked via the provided URL.
 
 ## Use Cases
 

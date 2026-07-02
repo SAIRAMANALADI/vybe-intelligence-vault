@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-07-02T04:12:31.260444+05:30'
+collected_at: '2026-07-02T09:54:24.862161+05:30'
 published_at: '2026-06-30T16:48:40Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
-- models
 - python
 - rag
 stars: 1964
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-07-02T04:12:31.260444+05:30'
-last_seen: '2026-07-02T04:12:31.260444+05:30'
-last_checked: '2026-07-02T04:12:31.260444+05:30'
+first_seen: '2026-07-02T09:54:24.862161+05:30'
+last_seen: '2026-07-02T09:54:24.862161+05:30'
+last_checked: '2026-07-02T09:54:24.862161+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG pipeline leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining competitive performance in retrieval-augmented generation tasks.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
 
-- **Key Innovations**: Implements lightweight retrieval mechanisms and model compression techniques (e.g., quantization, distillation) to optimize efficiency without sacrificing accuracy, targeting edge deployment scenarios.
+- **Architectural Efficiency**: Optimizes RAG by integrating lightweight retrieval mechanisms and model compression techniques, enabling deployment on resource-constrained hardware without sacrificing accuracy.
 
-- **Benchmark Performance**: Demonstrates state-of-the-art results on standard RAG benchmarks (e.g., KILT, BEIR) with models <1B parameters, achieving up to 90% of the performance of larger proprietary systems at a fraction of the cost.
+- **Open-Source Implementation**: Provides a Python-based, modular repository (`HKUDS/MiniRAG`) with pre-trained SLMs, retrieval tools, and benchmarking utilities for reproducible research and real-world applications.
 
 ## Why It Matters
 

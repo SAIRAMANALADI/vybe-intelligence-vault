@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-07-01T22:57:53.035601+05:30'
+collected_at: '2026-07-02T09:56:24.940907+05:30'
 published_at: '2026-06-29T02:03:10Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-07-01T22:57:53.035601+05:30'
-last_seen: '2026-07-01T22:57:53.035601+05:30'
-last_checked: '2026-07-01T22:57:53.035601+05:30'
+first_seen: '2026-07-02T09:56:24.940907+05:30'
+last_seen: '2026-07-02T09:56:24.940907+05:30'
+last_checked: '2026-07-02T09:56:24.940907+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates efficient data fetching, caching, and synchronization patterns for AI agents using TanStack Query (v5+), including stale-while-revalidate (SWR) strategies and automatic retries for failed queries.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (v5+), including stale-while-revalidate (SWR) strategies and automatic retries for failed queries.
 
-- **Advanced Router Configuration**: Implements dynamic route matching, lazy-loaded route segments, and type-safe navigation for SPAs, leveraging TanStack Router’s file-based routing and search param validation for AI agent workflows.
+- **State Management with TanStack Router**: Implements dynamic route-based state persistence and lazy-loaded route modules, leveraging TanStack Router’s type-safe navigation and nested routing for scalable AI agent workflows.
 
-- **Start Framework Best Practices**: Showcases modular architecture with TanStack Start, including SSR/SSG hybrid rendering, edge-optimized API routes, and zero-config TypeScript support for AI agent deployments.
+- **Performance-Centric TanStack Start Setup**: Configures TanStack Start (meta-framework) for minimal bundle size and optimized hydration, with pre-rendering support for AI agent-generated static content and edge-side execution.
 
 ## Why It Matters
 

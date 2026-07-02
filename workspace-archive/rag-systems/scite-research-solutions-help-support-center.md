@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Scite's citation indexing** distinguishes itself by classifying citations into **supporting**, **contrasting**, or **mentioning** based on contextual analysis of citing sentences, unlike traditional citation indexes that only count citations.
+- **Scite's citation indexing** differentiates itself by classifying citations into **supporting, mentioning, or contrasting** based on contextual analysis of citation statements, unlike traditional citation indexes that only count citations.
 
-- **Scite's coverage** spans millions of research articles across disciplines, with ongoing expansion via partnerships and automated ingestion of preprints and peer-reviewed publications.
+- **Scite's coverage** spans millions of research articles with citation statements extracted from PDFs, enabling granular citation analysis and real-time updates to citation classifications.
 
-- **Scite's tools** include **Reference Check** (for identifyin
+- **Scite's tools** include **Reference Check** for identifying
 
 ## Use Cases
 

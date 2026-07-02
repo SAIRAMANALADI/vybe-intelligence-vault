@@ -13,13 +13,14 @@ collected_at: '2026-07-02T04:11:09.047336+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:sony-deletes-551-movies-playstation-owners-paid-fo
 first_seen: '2026-07-01T20:43:06.416518+05:30'
 last_seen: '2026-07-02T04:11:09.047336+05:30'
 last_checked: '2026-07-02T04:11:09.047336+05:30'
 health_score: 100
 ---
+
 
 # Sony Deletes 551 Movies PlayStation Owners Paid For
 

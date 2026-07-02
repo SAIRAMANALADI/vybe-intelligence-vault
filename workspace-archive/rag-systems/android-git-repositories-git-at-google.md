@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Android Git Repository Structure**: Hosted on `android.googlesource.com`, the repository contains kernel, device-specific, and accessory-related code (e.g., `device/google/bluejay-kernel`, `device/google/accessory/arduino`) with versioned kernel branches (e.g., `5.10`, `6.1`).
+- **Android Git Repository Structure**: Hosts a hierarchical Git repository structure for Android development, including device-specific kernels (e.g., `device/google/bluejay-kernel`), platform-agnostic components (e.g., `device/generic/common`), and accessory support (e.g., `device/google/accessory/arduino`).
 
-- **Gerrit Code Review Integration**: Uses Gerrit for code review (`android-review.googlesource.com`) with OAuth2 authentication (`client_id=413937457453.apps.googleusercontent.com`) for secure access to `gerritcodere
+- **Device-Specific Branches & Kernels**: Many device projects (e.g., `device/google/akita`, `device/google/redbull`) include kernel branches for multiple Android versions (e.g., `5.15`,
 
 ## Use Cases
 

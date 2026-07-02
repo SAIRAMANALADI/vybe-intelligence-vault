@@ -3,26 +3,28 @@ title: infiniflow/ragflow
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/infiniflow/ragflow
-collected_at: '2026-07-02T04:12:26.234453+05:30'
-published_at: '2026-07-01T22:21:54Z'
+source_url: https://github.com/infiniflow/ragflow?source=post_page
+resource_id: github:infiniflow/ragflow
+-----dba899ae0355---------------------------------------
+collected_at: '2026-07-02T09:58:15.139499+05:30'
+published_at: '2026-07-02T04:17:51Z'
 tags:
 - agents
 - github-repo
 - go
+- hackernews
 - rag
-- workflows
-stars: 84064
+stars: 84086
 language: Go
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-12-12T06:13:13Z'
-pushed_at: '2026-07-01T13:49:40Z'
+pushed_at: '2026-07-02T04:07:19Z'
 resource_id: github:infiniflow/ragflow
-first_seen: '2026-07-02T04:12:26.234453+05:30'
-last_seen: '2026-07-02T04:12:26.234453+05:30'
-last_checked: '2026-07-02T04:12:26.234453+05:30'
+first_seen: '2026-07-02T09:58:15.139499+05:30'
+last_seen: '2026-07-02T09:58:15.139499+05:30'
+last_checked: '2026-07-02T09:58:15.139499+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG-Plus-Agent Architecture**: Combines retrieval-augmented generation (RAG) with agentic workflows to enhance LLM context processing via dynamic tool integration and adaptive reasoning.
-
-- **Go-Based Implementation**: Built in Go for high-performance parallel processing, optimized for low-latency context retrieval and real-time LLM interaction.
-
-- **Modular Context Engine**: Supports structured/unstructured data ingestion, multi-modal retrieval, and dynamic context pruning for scalable, production-grade RAG deployments.
+- **RAGFlow**: Open-source RAG engine integrating advanced RAG with Agent capabilities to enhance LLM context layers.
+- **Technical Stack**: Implemented in Go, supporting agentic AI, retrieval, and context management for LLM applications.
+- **Metadata**: 84,086 stars, 9,772 forks, last updated July 2, 2026.
 
 ## Why It Matters
 
@@ -43,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: infiniflow
-- Stars: 84064
-- Forks: 9765
+- Stars: 84086
+- Forks: 9772
 - Language: Go
 - Topics: agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-management, llm-apps, rag, retrieval-augmented-generation
-- Last Updated: 2026-07-01T22:21:54Z
+- Last Updated: 2026-07-02T04:17:51Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-12T06:13:13Z
-- Pushed At: 2026-07-01T13:49:40Z
+- Pushed At: 2026-07-02T04:07:19Z
 
 ## Possible Use Cases
 
@@ -69,4 +69,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/infiniflow/ragflow
+Original source: https://github.com/infiniflow/ragflow?source=post_page-----dba899ae0355---------------------------------------

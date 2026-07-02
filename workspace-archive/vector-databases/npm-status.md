@@ -29,9 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **Operational Metrics**: npm services (www.npmjs.com, package installation/publishing/search, security audit, replication feed) maintained 99.93–100% uptime over the last 90 days, with no recorded major outages.
-- **Notification System**: Supports email and SMS incident notifications via reCAPTCHA-protected forms, compliant with Atlassian and Google privacy policies.
-- **Statuspage Integration**: Provides historical uptime data via Atom/RSS feeds and Twitter (@npmstatus) for real-time incident
+- **Operational Metrics**: npm services (website, package installation/publishing/search, security audit, replication feed) maintained 99.93–100% uptime over the last 90 days, with no recorded major outages.
+- **Notification System**: Supports email/SMS alerts for incident creation/resolution via OTP-verified subscriptions, adhering to Atlassian/npm privacy policies and Google reCAPTCHA.
+- **Statuspage Integration**: Provides historical uptime data (Atom/RSS feeds) and real-time incident trackin
 
 ## Use Cases
 

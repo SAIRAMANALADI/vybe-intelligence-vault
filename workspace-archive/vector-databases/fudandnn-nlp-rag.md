@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Implementation**: Provides a Python-based implementation of retrieval-augmented generation (RAG) techniques as outlined in the EMNLP 2024 paper "Searching for Best Practices in Retrieval-Augmented Generation."
-- **Optimization Focus**: Evaluates and compares various RAG strategies to identify best practices for improving generation quality and efficiency.
-- **Repository Details**: Last updated June 28, 2026, with 346 stars and 21 forks, hosted on GitHub under the FudanDNN-NLP organization.
+- **Implementation of EMNLP 2024 Paper**: Repository provides a Python-based implementation of the paper *"Searching for Best Practices in Retrieval-Augmented Generation"*, focusing on RAG optimization techniques.
+
+- **Repository Metadata**: 346 stars, 21 forks, last updated on 2026-06-28, with no additional topics tagged.
+
+- **Technical Stack**: Utilizes Python for RAG pipeline development, likely integrating retrieval and generation components for enhanced performance.
 
 ## Use Cases
 

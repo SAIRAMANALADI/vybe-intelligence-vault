@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 11,511</p>
-        <p><b>Active:</b> 11,203 | <b>Inactive:</b> 308</p>
+        <p><b>Resources tracked:</b> 11,930</p>
+        <p><b>Active:</b> 11,620 | <b>Inactive:</b> 310</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 43,860</p>
+        <p><b>Archive Files:</b> 45,574</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-02 08:24 IST</p>
+        <p><b>Last Update:</b> 2026-07-02 10:10 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,18 +55,26 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+10</kbd>
-- 🔼 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[github/codeql](ai/resources/github-codeql.md)** • Rank: <kbd>+2443</kbd>
+- 🔼 **[electron/electron](ai/rag/electron-electron.md)** • Rank: <kbd>+359</kbd>
+- 🔼 **[npm Status](ai/rag/npm-status.md)** • Rank: <kbd>+2440</kbd>
+- 🔼 **[Getting Started | Electron Forge](ai/rag/getting-started-electron-forge.md)** • Rank: <kbd>+426</kbd>
+- 🔼 **[GitHub · Change is constant. GitHub keeps you ahead. · GitHub](ai/rag/github-change-is-constant-github-keeps-you-ahead-g.md)** • Rank: <kbd>+422</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](ai/community/senior-swe-bench-open-source-benchmark-that-assess.md)** • Score: `19`
+- 🆕 **[GitHub Partner Program · GitHub](ai/rag/github-partner-program-github.md)** • Score: `0`
+- 🆕 **[Sign in for Software Support and Product Help - GitHub Support](ai/resources/sign-in-for-software-support-and-product-help-gith.md)** • Score: `0`
+- 🆕 **[Terms of Service](ai/rag/terms-of-service.md)** • Score: `0`
+- 🆕 **[Databricks Online Feature Stores | Databricks on AWS](ai/rag/databricks-online-feature-stores-databricks-on-aws.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Sony Deletes 551 Movies PlayStation Owners Paid For](ai/community/sony-deletes-551-movies-playstation-owners-paid-fo.md)**
+- 💤 **[OpenWiki: CLI that writes and maintains agent documentation for your codebase](ai/community/langchain-ai-openwiki.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/youtubetv/answer/10057534
-published_at: '2026-06-26T20:32:21.705279+05:30'
-collected_at: '2026-06-26T20:32:21.705294+05:30'
+published_at: '2026-07-02T09:59:30.568933+05:30'
+collected_at: '2026-07-02T09:59:30.568947+05:30'
 tags:
 - rag
 - reddit
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:add-nfl-redzone-with-sports-plus-to-your-youtube-t
-first_seen: '2026-06-26T20:32:21.705294+05:30'
-last_seen: '2026-06-26T20:32:21.705294+05:30'
-last_checked: '2026-06-26T20:32:21.705294+05:30'
+first_seen: '2026-07-02T09:59:30.568947+05:30'
+last_seen: '2026-07-02T09:59:30.568947+05:30'
+last_checked: '2026-07-02T09:59:30.568947+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Subscription Details**: NFL RedZone with Sports Plus costs **$10.99/month** and is added to YouTube TV as an optional sports package.
-- **Features**: Includes **hundreds of live games/events with unlimited DVR storage** and a **spoiler-free mode** to hide scores.
-- **Channel List**: Provides access to **18 channels**, including NFL RedZone, Tennis Channel, Willow, and others (full list provided).
+- **Cost & Availability**: NFL RedZone with Sports Plus is available as a **$10.99/month add-on** to YouTube TV, bundling multiple sports channels not purchasable individually.
+
+- **Features**: Includes **unlimited DVR storage** for live games/events and **score-hiding** to prevent spoilers on team/league pages.
+
+- **Channel List**: Package contains **17 channels**, including NFL RedZone, beIN SPORTS, Tennis Channel, Stadium, PokerGO+, and Willow.
 
 ## Why It Matters
 
@@ -36,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T20:32:21.705279+05:30
+- Published: 2026-07-02T09:59:30.568933+05:30
 
 ## Related Tags
 

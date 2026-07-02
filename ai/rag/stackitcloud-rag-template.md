@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stackitcloud/rag-template
-collected_at: '2026-07-02T04:12:21.239496+05:30'
+collected_at: '2026-07-02T09:54:14.862515+05:30'
 published_at: '2026-07-01T22:24:25Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-01-16T12:14:53Z'
 pushed_at: '2026-07-01T19:28:24Z'
 resource_id: github:stackitcloud/rag-template
-first_seen: '2026-07-02T04:12:21.239496+05:30'
-last_seen: '2026-07-02T04:12:21.239496+05:30'
-last_checked: '2026-07-02T04:12:21.239496+05:30'
+first_seen: '2026-07-02T09:54:14.862515+05:30'
+last_seen: '2026-07-02T09:54:14.862515+05:30'
+last_checked: '2026-07-02T09:54:14.862515+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **FastAPI-based RAG pipeline**: Implements Retrieval-Augmented Generation (RAG) with FastAPI for AI chatbots and document management, supporting vector search via a vector database.
-- **Containerized deployment**: Provides Docker and Kubernetes configurations for scalable, reproducible RAG system deployment with Ollama LLM integration.
-- **Modular Python stack**: Combines Python, FastAPI, and STACKIT services, leveraging vector embeddings for efficient document retrieval and LLM augmentation.
+- **FastAPI-based RAG pipeline**: Implements Retrieval-Augmented Generation (RAG) with vector search for document management and AI chatbots, leveraging FastAPI for RESTful API endpoints.
+- **Vector database integration**: Supports vector search via a dedicated vector database (e.g., Qdrant, Weaviate) for efficient document retrieval and semantic similarity matching.
+- **Containerized deployment**: Provides Docker and Kubernetes configurations for scalable, cloud-native deployment with Ollama for local LLM inference and STACKIT for cloud integration.
 
 ## Why It Matters
 

@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-02T04:13:11.366360+05:30'
+collected_at: '2026-07-02T09:55:04.904488+05:30'
 published_at: '2026-06-26T08:31:01Z'
 tags:
 - benchmark
-- dataset
 - github-repo
-- hackernews
 - python
 - rag
 stars: 393
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-02T04:13:11.366360+05:30'
-last_seen: '2026-07-02T04:13:11.366360+05:30'
-last_checked: '2026-07-02T04:13:11.366360+05:30'
+first_seen: '2026-07-02T09:55:04.904488+05:30'
+last_seen: '2026-07-02T09:55:04.904488+05:30'
+last_checked: '2026-07-02T09:55:04.904488+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRUD-RAG introduces a Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive metrics for large language models (LLMs) in Chinese contexts.
-- **Evaluation Scope**: The benchmark assesses CRUD (Create, Read, Update, Delete) operations in RAG pipelines, measuring performance across retrieval accuracy, generation quality, and contextual relevance.
-- **Technical Implementation**: The repository provides a Python-based framework for benchmarking, including datasets, evaluation scripts, and standardized protocols for reproducibility.
+- **Benchmark Design**: CRUD-RAG provides a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems in large language models (LLMs), focusing on **Create, Read, Update, Delete (CRUD)** operations to assess dynamic knowledge interaction.
+- **Evaluation Scope**: Tests retrieval accuracy, contextual relevance, and generation quality under **multi-turn dialogue and knowledge-intensive tasks**, with standardized metrics for precision, recall, and coherence.
+- **Open-Source Framework**: Implements a Python-based pipeline with modular components for **document retrieval, context fusion, and response generation**, enabling reproducibility and extensibility for LLM research.
 
 ## Why It Matters
 

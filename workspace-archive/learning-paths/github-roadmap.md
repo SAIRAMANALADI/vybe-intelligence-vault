@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: high
 tags:
 - github-repo
-- hackernews
 - unknown
 selection_reason:
 - Strong keyword match
@@ -32,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Public Roadmap Tracking**: GitHub's official repository provides a transparent view of upcoming features and improvements for GitHub.com and GitHub Enterprise, enabling community feedback and prioritization.
-
-- **Collaborative Development**: The roadmap is open-source, allowing users to submit issues, suggest enhancements, and track progress, fostering direct engagement between GitHub and its user base.
-
-- **Regular Updates**: The roadmap is dynamically updated (last modified: 2026-06-30) to
+- **Public Roadmap**: GitHub's official public roadmap repository tracks upcoming features and improvements for GitHub.com and GitHub Enterprise.
+- **Collaborative Tracking**: Issues in the repository serve as a transparent, community-driven system for feature requests, prioritization, and progress updates.
+- **Scheduled Updates**: Last modified on **2026-07-01**, indicating regular maintenance and alignment with GitHub's long-term development cycles.
 
 ## Use Cases
 

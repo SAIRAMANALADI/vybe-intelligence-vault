@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Project Template**: Provides a structured Python repository template for agentic coding workflows, enabling automated code generation, testing, and deployment.
-- **Agentic Coding**: Integrates AI-driven agents to autonomously perform coding tasks, including refactoring, optimization, and bug fixing.
-- **Modular Design**: Includes pre-configured CI/CD pipelines, dependency management, and extensible agent interfaces for rapid Python project development.
+- **Agentic Coding Framework**: Provides a structured template for Python-based agentic coding workflows, enabling autonomous or semi-autonomous code generation, testing, and optimization.
+
+- **Project Scaffolding**: Includes pre-configured Python project templates with standardized directory layouts, dependency management (e.g., `pyproject.toml`), and tooling integrations (e.g., `pytest`, `black`, `mypy`).
+
+- **Modular Agentic Components**: Implements reusable modules for agent orchestration, t
 
 ## Use Cases
 

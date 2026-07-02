@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: A Python-based application focused on production-grade Retrieval-Augmented Generation (RAG) systems, though no explicit description is provided.
-- **Repository Metrics**: 70 stars and 46 forks, indicating moderate community interest and adoption.
-- **Last Activity**: Last updated on **2026-06-29T14:39:40Z**, suggesting recent maintenance or updates.
+- **Repository Overview**: A Python-based application repository focused on implementing a production-grade Retrieval-Augmented Generation (RAG) system, though no explicit description is provided.
+- **Project Metrics**: Contains 70 stars and 46 forks, indicating moderate community interest and adoption.
+- **Last Update**: The repository was last updated on **June 29, 2026**, suggesting active maintenance or recent development.
 
 ## Use Cases
 

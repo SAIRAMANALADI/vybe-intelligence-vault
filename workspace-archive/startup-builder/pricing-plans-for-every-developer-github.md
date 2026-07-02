@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Free Tier**: Offers unlimited public/private repositories, Dependabot security updates, 2,000 CI/CD minutes/month, 500MB package storage, and community support.
+- **GitHub Free Tier**: Unlimited public/private repositories, Dependabot security updates, 2,000 CI/CD minutes/month (public repos), 500MB Packages storage (public repos), Issues & Projects, and Community support.
 
-- **GitHub Team Plan**: Includes all Free features plus repository rules, multiple pull request reviewers, draft PRs, Codespaces access ($0.18/hr compute, $0.07/GB storage), 3,000 CI/CD minutes/month, and 2GB package storage.
+- **GitHub Team Plan**: Adds GitHub Codespaces ($0.18/hr compute, $0.07/GB storage), repository rules (branch/tag protections, required reviewers), draft PRs, code owners, 3,000 CI/CD minutes/month, 2GB Packages storage, and web-based support.
 
-- **GitHub Enterprise Plan**: Adds data residency, Enterprise Managed Users via IdP, SCIM provisioni
+- **GitHub Enterprise Plan**: Includes
 
 ## Use Cases
 

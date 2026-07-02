@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI Security Framework**: DefenseClaw provides a Python-based security governance framework for agentic AI systems, enabling policy enforcement, threat detection, and compliance monitoring in autonomous AI workflows.
+- **Purpose**: DefenseClaw is a Python-based framework designed to enforce security governance for agentic AI systems, ensuring compliance with security policies and mitigating risks in autonomous AI agents.
 
-- **Modular Architecture**: The repository implements a modular design with extensible components for integrating security controls, audit logging, and real-time monitoring across AI agent interactions.
+- **Key Features**: Implements policy enforcement mechanisms, real-time monitoring, and adaptive security controls tailored for agentic AI workflows to prevent unauthorized actions and data exfiltration.
 
-- **Open-Source Governance Toolkit**: Focused on enterprise-grade s
+- **Architecture**: Modular design with extensible components for integrating custom s
 
 ## Use Cases
 

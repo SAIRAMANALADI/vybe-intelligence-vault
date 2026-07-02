@@ -14,7 +14,7 @@ LiteLLM, LangChain, OpenAI API, Anthropic SDK.
 *   [Haystack](https://discord.com/invite/Dr63fr9NDS)
 *   [deepset-ai/haystack-experimental](https://github.com/deepset-ai/haystack-experimental)
 *   [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers)
-*   [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714)
+*   [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
 
 ## Project Ideas
 *   Build an API router that fallbacks to a smaller LLM when rate limits are hit.

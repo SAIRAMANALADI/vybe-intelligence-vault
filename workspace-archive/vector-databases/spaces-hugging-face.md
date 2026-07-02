@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
-- hackernews
 - rag
 - web-crawled
 selection_reason:
@@ -31,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Boogu-Image-0.1** is a multimodal AI model enabling image editing and generation, leveraging diffusion-based techniques for high-quality outputs.
-- Supports **turbo mode** for accelerated inference, optimizing speed without significant quality degradation.
-- Deployed as a **Hugging Face Space**, providing an interactive web interface for real-time image manipulation and generation tasks.
+- **Streaming OCR**: Enables real-time text extraction from images and PDFs with unlimited processing capacity.
+- **Hugging Face Integration**: Deployed as a Hugging Face Space (baidu/Unlimited-OCR) with optimized backend infrastructure.
+- **Performance**: Achieves high throughput via scalable OCR pipelines, leveraging Baidu’s proprietary models for accuracy.
 
 ## Use Cases
 

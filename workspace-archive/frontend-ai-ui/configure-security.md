@@ -32,9 +32,12 @@ selection_reason:
 
 ## Summary
 
-- **Default Security Policy**: Hugo enforces a restrictive security policy by default, blocking `os/exec`, remote communication, and other high-risk operations unless explicitly allowed via allowlists (e.g., `exec.allow` for permitted executables like `sass`, `git`, `node`).
+- **Default Deny Policy**: Hugo enforces a restrictive security model by default, blocking `os/exec`, remote communication, and other sensitive operations unless explicitly allowed via allowlists (regex-based).
 
-- **Content & HTTP Restrictions**: Content formats (e.g., `text/html`) and HTTP operations (methods/URLs) are controlled via regex-based allowlists; negation rules (`!`) enable deny-listing (e.g., blocking `localhost` or `e
+- **Configurable Allowlists**:
+  - `exec.allow`: Permits specific binaries (e.g., `sass`, `go`, `git`).
+  - `http.urls`: Restricts remote resource fetching to whitelisted domains (negation rules supported).
+  - `node.permissions`: Controls Node.js tool access (e.g., `tailwindcss` file I/
 
 ## Use Cases
 

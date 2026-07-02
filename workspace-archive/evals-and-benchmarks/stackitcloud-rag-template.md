@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **FastAPI-based RAG pipeline**: Implements Retrieval-Augmented Generation (RAG) with FastAPI for AI chatbots and document management, supporting vector search via a vector database.
-- **Containerized deployment**: Provides Docker and Kubernetes configurations for scalable, reproducible RAG system deployment with Ollama LLM integration.
-- **Modular Python stack**: Combines Python, FastAPI, and STACKIT services, leveraging vector embeddings for efficient document retrieval and LLM augmentation.
+- **FastAPI-based RAG pipeline**: Implements Retrieval-Augmented Generation (RAG) with vector search for document management and AI chatbots, leveraging FastAPI for RESTful API endpoints.
+- **Vector database integration**: Supports vector search via a dedicated vector database (e.g., Qdrant, Weaviate) for efficient document retrieval and semantic similarity matching.
+- **Containerized deployment**: Provides Docker and Kubernetes configurations for scalable, cloud-native deployment with Ollama fo
 
 ## Use Cases
 

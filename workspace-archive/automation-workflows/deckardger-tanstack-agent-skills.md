@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates efficient data fetching, caching, and synchronization patterns for AI agents using TanStack Query (v5+), including stale-while-revalidate (SWR) strategies and automatic retries for failed queries.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (v5+), including stale-while-revalidate (SWR) strategies and automatic retries for failed queries.
 
-- **Advanced Router Configuration**: Implements dynamic route matching, lazy-loaded route segments, and type-safe navigation for SPAs, leveraging TanStack Router’s file-based routing and search param validation for AI agent workflows.
-
-- **Start
+- **State Management with TanStack Router**: Implements dynamic route-based state persistence and lazy-loaded route modules, leveraging TanStack Router’s type-safe navigation and nested routing for scalable AI agent work
 
 ## Use Cases
 

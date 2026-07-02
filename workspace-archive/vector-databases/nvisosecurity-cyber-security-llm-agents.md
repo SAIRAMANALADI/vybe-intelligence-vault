@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Repository of LLM-based agents designed to automate routine cybersecurity tasks, including adversary emulation, using frameworks like CALDERA.
-- **Technical Stack**: Implemented in Jupyter Notebooks, leveraging LLMs for infosec workflows (e.g., threat detection, red teaming).
-- **Integration**: Supports CALDERA for adversary emulation, with modular agents for cybersecurity operations (last updated: 2026-06-29).
+- **Purpose**: Repository containing LLM-based agents designed to automate cybersecurity tasks, including adversary emulation and threat detection.
+- **Technical Stack**: Implemented primarily in Jupyter Notebooks, leveraging LLMs for cybersecurity operations.
+- **Integration**: Compatible with frameworks like CALDERA for adversary emulation and infosec workflows.
 
 ## Use Cases
 

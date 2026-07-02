@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Cloud-native RAG & AI pipelines**: Pre-configured templates for Retrieval-Augmented Generation (RAG), AI workflows, and enterprise search, optimized for Docker deployment and real-time data synchronization with SharePoint, Google Drive, S3, Kafka, PostgreSQL, and live APIs.
+- **Cloud-native RAG & AI pipelines**: Pre-configured templates for Retrieval-Augmented Generation (RAG), AI workflows, and enterprise search, supporting real-time data synchronization with SharePoint, Google Drive, S3, Kafka, PostgreSQL, and REST APIs.
 
-- **Multi-source data integration**: Supports live data ingestion from 10+ sources (e.g., SharePoint, S3, Kafka) with vector database indexing for low-latency retrieval, enabling up-to-date AI responses without manual up
+- **Multi-source integration**: Dockerized deployment with live data connectors for structured/unstructured sources, enabling low-latency vector indexing and retrieval via vector databases.
+
+- **Enterprise-grade features**: Includes LLM security
 
 ## Use Cases
 

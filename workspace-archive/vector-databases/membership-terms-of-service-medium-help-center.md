@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Subscription Model**: Medium's Member Services operate on a recurring payment model (monthly/annually), with fees charged automatically on the same day of each billing cycle; cancellation takes effect at the end of the current period without refunds for unused time.
+- **Billing & Renewal**: Member Services operate on recurring (monthly/annual) subscriptions, auto-renewing unless canceled before the next billing cycle; fees are charged on the same day of renewal, with prorated refunds unavailable.
 
-- **Payment & Access Control**: Payments are processed via stored payment methods (credit card, Apple Pay, etc.), with Medium reserving the right to revoke access for failed payments or policy violations; taxes are user’s respon
+- **Access & Termination**: Users receive a non-exclusive license for personal, non-commercial use; violations or payment failures may result in immediate revocation of access without refunds.
+
+- **Gift Memberships**: Pre-paid codes expire after one year, are non-
 
 ## Use Cases
 

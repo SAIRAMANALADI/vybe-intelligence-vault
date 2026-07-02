@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Starter Templates & Resources**: Provides foundational codebases and documentation for building autonomous AI agents, orchestration frameworks, and real-world AI workflows, primarily in C#.
+- **Starter Templates & Resources**: Provides foundational codebases and documentation for developing agentic AI applications, including autonomous agents and orchestration frameworks.
 
-- **Hackathon Submissions**: Includes project submissions from a hackathon focused on next-generation agentic AI applications, showcasing practical implementations and innovations.
+- **Hackathon Submissions**: Contains project submissions from a hackathon focused on next-generation AI workflows, showcasing real-world implementations and innovations.
 
-- **Last Updated**: Repository was last updated on **2026-06-25T14:15:58Z**, with minimal activity (9 stars, 4 forks).
+- **C#-Based Implementation**: All resources and templates are written in C#, targeting .NET ecosystems for agentic AI development.
 
 ## Use Cases
 

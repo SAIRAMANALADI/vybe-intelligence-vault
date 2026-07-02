@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform desktop app framework** leveraging Chromium (Blink), Node.js, and V8 JavaScript engine to build apps using HTML, CSS, and JavaScript.
-- **Core architecture** integrates a modified Chromium browser engine with Node.js runtime, enabling native OS APIs access while maintaining web compatibility.
-- **C++-based implementation** with bindings to JavaScript/TypeScript, supporting Windows, macOS, and Linux via a single codebase.
+- **Cross-platform desktop app framework** leveraging Chromium, Node.js, and V8 to build native applications using JavaScript, HTML, and CSS.
+- **Core architecture** combines a modified Chromium browser engine with Node.js integration, enabling direct access to OS APIs via JavaScript.
+- **High-performance runtime** optimized for desktop applications, supporting native features like system dialogs, menus, and hardware acceleration.
 
 ## Use Cases
 

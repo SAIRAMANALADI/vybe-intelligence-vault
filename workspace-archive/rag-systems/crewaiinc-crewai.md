@@ -1,41 +1,44 @@
 ---
-title: 'crewAIInc/crewAI Release: 1.14.7'
+title: crewAIInc/crewAI
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/crewaiinc/crewai
+source_url: https://github.com/crewAIInc/crewAI
 resource_id: github:crewaiinc/crewai
 local_vault_path: ai/rag/crewaiinc-crewai.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
-- anthropic
-- benchmark
-- crewaiinc-crewai
-- github-release
+- github-repo
+- python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
-# crewAIInc/crewAI Release: 1.14.7
+# crewAIInc/crewAI
 
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-General public resource representing technology updates, guides, or tutorials.
+- **Role-based AI Agent Orchestration**: CrewAI is a Python framework designed to coordinate autonomous AI agents through role-playing, enabling structured collaboration for complex task execution.
+
+- **Collaborative Intelligence**: Agents within CrewAI operate as specialized entities, leveraging shared intelligence to dynamically allocate tasks and optimize workflows without manual intervention.
+
+- **LLM Integration & Scalability**: Built for Python, CrewAI supports large language models (LLMs)
 
 ## Use Cases
 
@@ -45,7 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source URL: https://github.com/crewaiinc/crewai
+Original source URL: https://github.com/crewAIInc/crewAI
 
 ## Local Vault File
 

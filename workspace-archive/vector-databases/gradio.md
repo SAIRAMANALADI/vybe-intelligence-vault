@@ -6,10 +6,10 @@ source_url: https://gradio.app/
 resource_id: blog:gradio
 local_vault_path: ai/rag/gradio.md
 quality_score: 70
-archive_score: 80
+archive_score: 70
 archive_tier: useful
 resource_kind: tutorial
-importance: high
+importance: medium
 tags:
 - hackernews
 - producthunt
@@ -26,18 +26,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 80 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Gradio 6.0** introduces enhanced UI components, improved performance, and new deployment options, enabling faster prototyping and production-ready ML web apps with minimal frontend code.
+- **Gradio 6.0** introduces streamlined Python-based UI component integration (e.g., `Button`, `Plot`, `Dataframe`, `ImageSlider`, `Gallery`) with zero frontend development overhead, enabling rapid ML app deployment via `demo.launch()`.
 
-- **40+ pre-built components** (e.g., `ImageSlider`, `AnnotatedImage`, `Chatbot`, `Model3D`) support inputs/outputs for images, audio, video, 3D models, dataframes, and more, with zero JavaScript/CSS requirements.
+- **Permanent hosting** is supported via Hugging Face Spaces with auto-scaling, while **instant sharing** is possible via temporary public URLs (`share=True`), eliminating deployment complexity.
 
-- **Permanent hosting** via Hugging Face Spaces (free, auto-scaling) and instant sharing via
+- **40+ pre-built components** (e.g., `Chatbot`, `Audio`, `Annotat
 
 ## Use Cases
 

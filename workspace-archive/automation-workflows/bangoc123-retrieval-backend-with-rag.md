@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Repository demonstrates best practices for Retrieval-Augmented Generation (RAG) tailored for Vietnamese language processing, leveraging Python-based pipelines.
+- **Vietnamese RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) best practices tailored for Vietnamese language processing, leveraging Python-based pipelines for document retrieval and generation.
 
-- **Key Components**: Includes vector database integration (e.g., FAISS/Weaviate), embedding models (e.g., vietnamese-sbert), and retrieval-augmented generation workflows optimized for Vietnamese NLP tasks.
+- **Modular Architecture**: Features a structured backend with components for embedding generation (e.g., using `sentence-transformers`), vector storage (e.g., FAISS or Chroma), and retrieval-augmented generation via LLMs (e.g., `vinai/PhoGPT`).
 
-- **Deployment-Ready**: Provides modular backend architecture with FastAPI/Flask endpoints, su
+- **Localization Focus**: Optimi
 
 ## Use Cases
 

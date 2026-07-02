@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework (LeanRAG) that enhances retrieval via semantic aggregation of multi-hop knowledge paths and hierarchical retrieval strategies for improved context relevance (AAAI 2026 submission).
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., node/edge-level) and semantic aggregation to enhance contextual relevance in generation tasks.
 
-- **Efficient Python Implementation**: Provides a lightweight, modular Python library optimized for low-latency knowledge-graph interactions, supporting dynamic graph traversal and adaptive retrieval policies.
+- **AAAI 2026 Framework**: Introduces a novel architecture optimized for knowledge-intensive generation, leveraging graph structures for dynamic, hierarchical data retrieval and fusion.
 
-- **S
+- **Python Implementation**: Provides an open-source Python library (`LeanRAG`) w
 
 ## Use Cases
 

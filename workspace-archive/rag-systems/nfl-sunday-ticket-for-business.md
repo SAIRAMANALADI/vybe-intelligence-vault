@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Exclusive Commercial Offer**: NFL Sunday Ticket for businesses is exclusively distributed via EverPass, providing all live out-of-market Sunday afternoon NFL games (excluding in-market broadcasts, national games, and digital-only matches) for commercial venues in the U.S., U.S.V.I., and P.R.
+- **Commercial Licensing**: NFL Sunday Ticket for business is exclusively distributed by EverPass in the U.S., U.S.V.I., and P.R., providing licensed, commercial-grade streaming of all out-of-market Sunday afternoon NFL games (excluding in-market broadcasts, NFL Network, and national games).
 
-- **Limited-Time Discount**: Businesses can claim a **$1,000 discount** on NFL Sunday Ticket by signing up by **July 31**, with flexible payment plans and up to **five free commercial-grade devices** in
+- **Hardware & Payment Flexibility**: Offer includes up to five free commercial-grade devices and allows spreading costs via flexible payment plans, with a **$1,000 discount** available until July 31.
+
+- **
 
 ## Use Cases
 

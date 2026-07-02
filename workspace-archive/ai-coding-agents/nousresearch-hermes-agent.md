@@ -16,6 +16,7 @@ tags:
 - github-repo
 - openai
 - python
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports Anthropic (Claude), OpenAI (ChatGPT, Codex), and other LLM APIs for dynamic agent behavior across providers.
-- **Extensible Agent Framework**: Python-based architecture with modular components for custom tool integration, state management, and adaptive learning.
-- **Tool Ecosystem**: Includes `claude-code`, `clawdbot`, and `moltbot` for code execution, web browsing, and system interaction via structured API calls.
+- **Multi-Model Agent Framework**: Open-source Python-based AI agent system (`hermes-agent`) supporting integration with Anthropic, OpenAI, and other LLM providers for autonomous task execution and tool usage (e.g., `claude-code`, `codex`).
+
+- **Extensible Architecture**: Designed for modularity with plugins (`moltbot`, `clawdbot`) and custom toolchains, enabling dynamic adaptation to user-specific workflows and evolving AI capabilities.
+
+- **High Scalability**: Optimized for large-scale deploym
 
 ## Use Cases
 

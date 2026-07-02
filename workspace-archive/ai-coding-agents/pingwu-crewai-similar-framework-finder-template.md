@@ -12,6 +12,7 @@ resource_kind: template
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
 - python
 selection_reason:
@@ -30,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Template for identifying AI agent frameworks similar to CrewAI, implemented in Python.
-- **Metadata**: 1 star, 9 forks, last updated on 2024-11-27.
-- **Structure**: Minimal repository with no additional topics or dependencies specified.
+- **Purpose**: Template to identify Python frameworks similar to CrewAI, facilitating comparative analysis of multi-agent AI orchestration tools.
+- **Structure**: Python-based repository with minimal dependencies, designed for extensibility and rapid framework evaluation.
+- **Metadata**: 1 star, 9 forks, last updated 2024-11-27; lacks explicit documentation or topic tags.
 
 ## Use Cases
 

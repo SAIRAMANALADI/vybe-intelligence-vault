@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Customized GitHub Training & Consulting**: Offers tailored hands-on consulting, workshops, and training (e.g., GitHub Actions, Admin, API, Copilot) to optimize DevSecOps, Innersource, and GitHub adoption across enterprise environments (Cloud/Server).
+- **Customized GitHub Services**: Tailored consulting, workshops, and training (e.g., GitHub Actions, Copilot, Advanced Security) to optimize CI/CD, security, and developer workflows across GitHub Enterprise Cloud/Server.
 
-- **Advanced Security & Automation Services**: Provides specialized engagements for GitHub Advanced Security (GHAS) adoption, CodeQL query development/customization, and CI/CD migration to GitHub Actions with strategic workflow optimization.
+- **Advanced Security & Automation**: Specialized services for GitHub Advanced Security (GHAS) adoption, CodeQL query development, and automation pipelines to enhance secure software development lifecycle (SSDLC).
 
--
+- **Migration & Strategic Advisory**: End-to-end migration sup
 
 ## Use Cases
 

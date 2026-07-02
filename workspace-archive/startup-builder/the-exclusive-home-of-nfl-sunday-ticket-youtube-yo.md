@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Pricing & Bundling**: NFL Sunday Ticket offers new users **$240/yr** ($20/mo for 12 months) for out-of-market Sunday games; bundling with YouTube TV Sports Plan adds **$54.99/mo (first 12 months)**, then **$64.99/mo**, requiring an active Sports Plan to retain access.
-
-- **Coverage & Features**: Includes **all 32 NFL teams’ out-of-market Sunday games**, multiview (up to 4 games simultaneously), fantasy tracking, and key-play highlights; excludes digital-only games and commercial use.
-
-- **Ac
+- **Pricing & Plans**: New users can purchase NFL Sunday Ticket for $240/yr (12x $20/mo) or $31.50/mo for returning users; standalone or bundled with YouTube TV ($67.99/mo for first 3 months, then $82.99/mo).
+- **Coverage & Features**: Includes all out-of-market Sunday NFL games, multiview (up to 4 games), fantasy tracking, and NFL RedZone (optional add-on); requires high-speed internet (≥3 Mbps, 7+ Mbps recommended).
+- **Accessibility & Requirements**: Available via YouTube TV or standalone; no
 
 ## Use Cases
 

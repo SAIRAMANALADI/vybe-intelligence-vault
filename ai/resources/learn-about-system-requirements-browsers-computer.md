@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/drive/answer/2375082
-published_at: '2026-06-28T22:21:16.795290+05:30'
-collected_at: '2026-06-28T22:21:16.795305+05:30'
+published_at: '2026-07-02T10:03:12.238550+05:30'
+collected_at: '2026-07-02T10:03:12.238562+05:30'
 tags:
 - hackernews
 - reddit
 - web-crawled
 status: active
 resource_id: blog:learn-about-system-requirements-browsers-computer
-first_seen: '2026-06-28T22:21:16.795305+05:30'
-last_seen: '2026-06-28T22:21:16.795305+05:30'
-last_checked: '2026-06-28T22:21:16.795305+05:30'
+first_seen: '2026-07-02T10:03:12.238562+05:30'
+last_seen: '2026-07-02T10:03:12.238562+05:30'
+last_checked: '2026-07-02T10:03:12.238562+05:30'
 health_score: 100
 ---
 
@@ -22,15 +22,15 @@ health_score: 100
 
 ## Summary
 
-- **Browser Requirements**: Google Drive, Docs, Sheets, Slides, Vids, and Forms require an updated browser with cookies and JavaScript enabled; only the two most recent browser versions are officially supported, though others may work with limited functionality.
+- **Browser Requirements**: Google Docs, Sheets, Slides, Vids, and Forms require **cookies and JavaScript enabled**, and support **only the two most recent browser versions** (other browsers may lack full feature support).
 
 - **Drive for Desktop OS Support**:
-  - **Windows**: 64-bit (Win 10+) or ARM64 (Win 11+), requires Microsoft WebView2 (auto-installed or manually via Evergreen Standalone Installer).
-  - **Mac**: macOS Monterey 12.1+ (Ventura 13.0+ required by June 2026); Linux lacks desktop support (use web version).
+  - **Windows**: 64-bit (Win 10+) or ARM64 (Win 11+), requires **Microsoft WebView2** (auto-installed or manually via Evergreen Standalone Installer).
+  - **macOS**: Monterey 12.1+ (Ventura 13.0+ required post-June 2026); **Linux unsupported** (use web version).
 
 - **File System & Limitations**:
-  - Supports APFS, HFS+, and NTFS; uses FAT32 for virtual Drive (4GB file size limit).
-  - Excludes 32-bit Windows, beta OSes, and network volumes (SMB/NFS). Real-time Office editing requires Office 2010+.
+  - Supports **APFS, HFS+, NTFS** (cache only); **excludes network volumes (SMB/NFS)**.
+  - Virtual Drive uses **FAT32** (4GB file size limit); **32-bit Windows, beta OS, and Office <2010 unsupported**.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-28T22:21:16.795290+05:30
+- Published: 2026-07-02T10:03:12.238550+05:30
 
 ## Related Tags
 

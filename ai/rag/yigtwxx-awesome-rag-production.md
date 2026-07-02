@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-07-02T04:12:51.288760+05:30'
+collected_at: '2026-07-02T09:54:44.849849+05:30'
 published_at: '2026-07-01T13:14:52Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
+- workflows
 stars: 134
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-06-30T05:24:48Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-07-02T04:12:51.288760+05:30'
-last_seen: '2026-07-02T04:12:51.288760+05:30'
-last_checked: '2026-07-02T04:12:51.288760+05:30'
+first_seen: '2026-07-02T09:54:44.849849+05:30'
+last_seen: '2026-07-02T09:54:44.849849+05:30'
+last_checked: '2026-07-02T09:54:44.849849+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated resources**: Repository provides a vetted collection of production-grade RAG tools, frameworks, and best practices for scalable AI systems.
-- **Technical scope**: Covers embeddings, vector databases, LLMops, and MLOps with Python-centric implementations (e.g., LangChain).
-- **Operational focus**: Emphasizes battle-tested solutions for generative AI, LLMs, and retrieval-augmented generation in production environments.
+- **Curated Resource**: A structured, community-maintained list of production-grade tools, frameworks, and best practices for **scalable RAG (Retrieval-Augmented Generation) systems**, covering end-to-end deployment challenges (e.g., embeddings, vector databases, LLMops).
+- **Technical Scope**: Focuses on **Python-based** solutions, integrating key components like **LangChain**, **LLMs**, **MLOps**, and **vector databases** (e.g., FAISS, Pinecone, Weaviate) for high-performance retrieval and generation workflows.
+- **Operational Focus**: Emphasizes **battle-tested** methodologies for **scalability, reliability, and productionization** of RAG pipelines, including monitoring, optimization, and CI/CD integration for generative AI applications.
 
 ## Why It Matters
 

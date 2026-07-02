@@ -8,7 +8,7 @@ local_vault_path: ai/agents/langchain-opentutorial-langchain-opentutorial.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # LangChain-OpenTutorial/LangChain-OpenTutorial
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Repository Overview**: A comprehensive open-source tutorial repository for LangChain and LangGraph, designed for educational purposes with Jupyter Notebook-based examples.
-- **Technical Scope**: Covers agent-based workflows, integrating LangChain (a framework for LLM applications) and LangGraph (a graph-based execution engine) for structured AI pipelines.
-- **Metadata**: 1,080 stars, 338 forks, last updated June 29, 2026, with a focus on practical implementation in notebook format.
+- **Educational Repository**: Provides open tutorials on LangChain and LangGraph, implemented in Jupyter Notebooks, designed for broad accessibility.
+- **Technical Scope**: Covers agent-based workflows, integrating LangChain (LLM orchestration) and LangGraph (graph-based state management).
+- **Project Metrics**: Maintained repository with 1,083 stars, 339 forks, last updated July 1, 2026.
 
 ## Use Cases
 

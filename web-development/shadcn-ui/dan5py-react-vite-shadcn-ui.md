@@ -4,17 +4,17 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/dan5py/react-vite-shadcn-ui
-collected_at: '2026-06-29T03:45:13.842475+05:30'
-published_at: '2026-06-17T16:08:42Z'
+collected_at: '2026-07-02T09:52:28.916520+05:30'
+published_at: '2026-07-02T00:41:06Z'
 tags:
 - frontend_ui
-stars: 309
+stars: 308
 language: TypeScript
 status: active
 resource_id: github:dan5py/react-vite-shadcn-ui
 first_seen: '2026-06-12T10:40:21.841615+00:00'
-last_seen: '2026-06-29T03:45:13.842475+05:30'
-last_checked: '2026-06-29T03:45:13.842475+05:30'
+last_seen: '2026-07-02T09:52:28.916520+05:30'
+last_checked: '2026-07-02T09:52:28.916520+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: dan5py
-- Stars: 309
+- Stars: 308
 - Forks: 122
 - Language: TypeScript
 - Topics: eslint, pnpm, react, react-typescript, react-typescript-template, reactjs, shadcn-ui, tailwind, tailwindcss, typescript, vite, vite-react, vite-react-typescript, vite-template, vite-template-react, vitejs
-- Last Updated: 2026-06-17T16:08:42Z
+- Last Updated: 2026-07-02T00:41:06Z
 
 ## Possible Use Cases
 

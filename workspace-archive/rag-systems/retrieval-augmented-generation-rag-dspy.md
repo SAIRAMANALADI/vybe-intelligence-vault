@@ -6,7 +6,7 @@ source_url: https://dspy.ai/tutorials/rag/
 resource_id: blog:retrieval-augmented-generation-rag-dspy
 local_vault_path: ai/rag/retrieval-augmented-generation-rag-dspy.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **DSPy RAG Pipeline**: Uses `dspy.Predict` or advanced modules like `dspy.ChainOfThought` with structured signatures (e.g., `question: str -> response: str`) to enforce input/output schemas, while MLflow integration enables prompt/optimization tracing for debugging.
+- **DSPy Configuration & LM Integration**: DSPy is configured to use OpenAI's `gpt-4o-mini` via `dspy.LM('openai/gpt-4o-mini')`, with authentication handled via `OPENAI_API_KEY`. The framework supports modular LM interactions through `dspy.Predict`, `dspy.ChainOfThought`, and other modules, enabling structured input/output schemas for LLM-driven tasks.
 
-- **Dataset Integration**: Loads tech QA pairs from the RAG-QA Arena dataset, converts them to `dspy.Example` objects with `.with_inputs()` to separate inputs/labels, and splits into 200 train/300 validation/500 test sets for iter
+- **RAG Pipeline & Data Handling**: The tutorial demonstrates a basic RAG setup for tech QA, using DSPy's `dspy.Embedder` and `dspy.retrievers.E
 
 ## Use Cases
 

@@ -8,14 +8,13 @@ local_vault_path: ai/rag/release-notes-research-solutions-reprints-desk.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
 - hackernews
 - openai
 - producthunt
 - rag
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -29,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Article Galaxy MCP Integration (Spring 2026)**: Introduced AI-ready content rights management with deeper citation intelligence via MCP (Model Context Protocol) for enhanced semantic search and reuse tracking.
+- **AI-Ready Content Rights (Spring 2026)**: Introduction of Article Galaxy MCP with granular, article-level AI re-use rights management, enabling automated compliance for generative AI applications.
 
-- **PubMed + Article Galaxy Workflow Optimization (Latest Update)**: Supercharged collaborative research workflows with seamless PubMed integration, enabling real-time reference synchronization and automated literature management.
+- **Full-Text Citation Search (Summer 2025)**: Implemented semantic citation indexing for in-text references, allowing high-precision retrieval of cited passages across full-text documents.
 
-- **Open Access Expansion & AI Rights Clarity (Feb 20
+- **PubMed Integration (Latest Update)**: Launched bidirectional PubMed ↔ Article Galaxy synchronization wit
 
 ## Use Cases
 

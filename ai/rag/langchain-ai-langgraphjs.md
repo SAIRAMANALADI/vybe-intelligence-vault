@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/langgraphjs
-collected_at: '2026-07-01T10:30:07.839862+05:30'
-published_at: '2026-06-30T16:45:25Z'
+collected_at: '2026-07-02T09:57:45.129088+05:30'
+published_at: '2026-07-01T05:01:59Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
 - workflows
-stars: 3068
+stars: 3069
 language: TypeScript
 status: active
 license: MIT
 archived: false
 created_at: '2024-01-09T17:40:12Z'
-pushed_at: '2026-06-30T03:10:26Z'
+pushed_at: '2026-07-01T18:56:43Z'
 resource_id: github:langchain-ai/langgraphjs
-first_seen: '2026-07-01T10:30:07.839862+05:30'
-last_seen: '2026-07-01T10:30:07.839862+05:30'
-last_checked: '2026-07-01T10:30:07.839862+05:30'
+first_seen: '2026-07-02T09:57:45.129088+05:30'
+last_seen: '2026-07-02T09:57:45.129088+05:30'
+last_checked: '2026-07-02T09:57:45.129088+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Graph-Based Agent Framework**: LangGraphJS enables the construction of resilient language agents using graph-based architectures, facilitating complex workflow orchestration via nodes and edges.
+- **Graph-Based Agent Framework**: LangGraphJS enables building resilient, stateful language agents using graph-based workflows, allowing complex multi-step interactions and decision-making via directed acyclic graphs (DAGs).
 
-- **TypeScript Implementation**: Built in TypeScript, it leverages modern JavaScript/TypeScript features for type safety, modularity, and integration with AI/ML ecosystems.
+- **TypeScript Implementation**: The framework is implemented in TypeScript, providing type safety and modern JavaScript features for agent orchestration, state management, and tool integration.
 
-- **Agent Resilience & Extensibility**: Supports fault tolerance, dynamic routing, and tool integration, allowing agents to handle failures and adapt workflows programmatically.
+- **Modular & Extensible**: Supports dynamic agent graphs with custom nodes, conditional edges, and persistent state, leveraging LangChain’s ecosystem for LLM integration, tool usage, and resilience patterns.
 
 ## Why It Matters
 
@@ -43,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 3068
+- Stars: 3069
 - Forks: 516
 - Language: TypeScript
 - Topics: agents, ai, artificial-intelligence, generative-ai, llm, node, typescript
-- Last Updated: 2026-06-30T16:45:25Z
+- Last Updated: 2026-07-01T05:01:59Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-09T17:40:12Z
-- Pushed At: 2026-06-30T03:10:26Z
+- Pushed At: 2026-07-01T18:56:43Z
 
 ## Possible Use Cases
 

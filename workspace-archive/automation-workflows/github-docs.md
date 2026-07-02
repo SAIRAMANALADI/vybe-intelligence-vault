@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Core GitHub Functionality**: GitHub integrates Git (open-source VCS) for local version control, supports SSH for secure remote connections, and enables repository creation/management for collaborative development workflows.
+- **GitHub Core Functionality**: GitHub relies on Git for version control, supports SSH for secure remote connections, and enables repository creation/management for collaborative development workflows.
 
-- **Collaboration & Automation**: Features include pull requests for code review/merging, GitHub Actions for CI/CD, and GitHub Copilot for AI-driven code suggestions in IDEs.
+- **Collaboration & Automation**: Pull requests facilitate code review and merging, GitHub Actions enables CI/CD pipelines, and GitHub Copilot provides AI-driven code suggestions within IDEs.
 
-- **Security & Extensibility**: Provides CodeQL for vulnerability analysis, secure secret manag
+- **Security & Extensibility**: GitHub offers security features like secret management and vulnerabilit
 
 ## Use Cases
 

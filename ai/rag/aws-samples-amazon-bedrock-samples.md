@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-07-02T04:12:41.380012+05:30'
+collected_at: '2026-07-02T09:54:34.962669+05:30'
 published_at: '2026-06-30T11:27:37Z'
 tags:
+- anthropic
 - github-repo
-- hackernews
 - jupyter notebook
+- models
 - rag
 - workflows
 stars: 1460
@@ -20,9 +21,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-06-30T09:33:23Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-07-02T04:12:41.380012+05:30'
-last_seen: '2026-07-02T04:12:41.380012+05:30'
-last_checked: '2026-07-02T04:12:41.380012+05:30'
+first_seen: '2026-07-02T09:54:34.962669+05:30'
+last_seen: '2026-07-02T09:54:34.962669+05:30'
+last_checked: '2026-07-02T09:54:34.962669+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Provides starter examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) with practical implementations.
-- **Technical Scope**: Includes Jupyter Notebooks for embeddings, generative AI, knowledge bases, and RAG (Retrieval-Augmented Generation) workflows, leveraging LangChain integration.
-- **Use Cases**: Demonstrates Amazon Bedrock's capabilities for building AI-driven applications, with modular examples for rapid prototyping and deployment.
+- **Comprehensive Amazon Bedrock Examples**: Repository provides starter code and Jupyter Notebooks demonstrating usage of all available Amazon Bedrock foundational models (e.g., Amazon Titan, Claude, Jurassic) for generative AI tasks.
+
+- **Multi-Use-Case Implementations**: Includes examples for key Bedrock features: embeddings generation, Retrieval-Augmented Generation (RAG) with knowledge bases, and integration with LangChain for LLM workflows.
+
+- **AWS Service Integration**: Showcases practical applications leveraging Amazon Bedrock within AWS ecosystems, including model deployment, fine-tuning workflows, and hybrid AI solutions.
 
 ## Why It Matters
 

@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zai-org/Open-AutoGLM
-collected_at: '2026-07-01T10:29:22.749465+05:30'
-published_at: '2026-07-01T02:48:24Z'
+collected_at: '2026-07-02T09:57:00.015291+05:30'
+published_at: '2026-07-02T02:50:48Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
 - scripts
-stars: 25658
+stars: 25672
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-12-08T09:23:44Z'
 pushed_at: '2026-03-06T08:38:39Z'
 resource_id: github:zai-org/open-autoglm
-first_seen: '2026-07-01T10:29:22.749465+05:30'
-last_seen: '2026-07-01T10:29:22.749465+05:30'
-last_checked: '2026-07-01T10:29:22.749465+05:30'
+first_seen: '2026-07-02T09:57:00.015291+05:30'
+last_seen: '2026-07-02T09:57:00.015291+05:30'
+last_checked: '2026-07-02T09:57:00.015291+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Open Phone Agent Model & Framework**: Open-AutoGLM provides an open-source framework for deploying AI agents on mobile devices, enabling autonomous phone interactions via natural language commands.
+- **Open-AutoGLM Framework**: Provides an open-source framework for developing AI-powered phone agent models, enabling autonomous interaction with mobile devices via natural language or structured commands.
 
-- **Modular Architecture**: The repository includes a Python-based modular design with components for speech recognition, NLP processing, task execution, and API integrations to facilitate phone automation.
+- **Modular Architecture**: Implements a modular design with components for perception, decision-making, and action execution, supporting extensibility for custom agent behaviors and integration with third-party tools.
 
-- **Extensible & Community-Driven**: Supports custom agent development with 25.6K+ stars and 4K+ forks, leveraging collaborative contributions for continuous improvement in phone-based AI agent capabilities.
+- **Python-Based Implementation**: Leverages Python for core logic, with dependencies on libraries like PyTorch or Transformers for model training/inference, and APIs for device automation (e.g., ADB for Android).
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: zai-org
-- Stars: 25658
-- Forks: 3999
+- Stars: 25672
+- Forks: 3997
 - Language: Python
 - Topics: agent, phone-use-agent
-- Last Updated: 2026-07-01T02:48:24Z
+- Last Updated: 2026-07-02T02:50:48Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-12-08T09:23:44Z

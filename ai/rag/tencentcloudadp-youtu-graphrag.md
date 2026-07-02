@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-07-02T04:13:36.352427+05:30'
+collected_at: '2026-07-02T09:55:29.918236+05:30'
 published_at: '2026-07-01T15:28:06Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-07-02T04:13:36.352427+05:30'
-last_seen: '2026-07-02T04:13:36.352427+05:30'
-last_checked: '2026-07-02T04:13:36.352427+05:30'
+first_seen: '2026-07-02T09:55:29.918236+05:30'
+last_seen: '2026-07-02T09:55:29.918236+05:30'
+last_checked: '2026-07-02T09:55:29.918236+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) operate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced context.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) operate hierarchically within a graph-based RAG system to decompose and solve complex reasoning tasks.
 
-- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Integrates graph-based retrieval with large language models (LLMs) to dynamically construct and traverse knowledge graphs, improving factual accuracy and contextual relevance in reasoning.
+- **Graph-Centric RAG**: Leverages a dynamic knowledge graph to structure and retrieve contextually relevant information, enabling efficient multi-hop reasoning and cross-domain knowledge integration for LLMs.
 
-- **Python Implementation**: Provides an open-source Python library optimized for scalable graph operations, agent orchestration, and LLM integration, with modular components for extensibility and performance.
+- **ICLR 2026 Contribution**: Proposes a novel architecture combining graph neural networks (GNNs) with retrieval-augmented generation (RAG), optimizing for scalability, interpretability, and performance on complex reasoning benchmarks.
 
 ## Why It Matters
 

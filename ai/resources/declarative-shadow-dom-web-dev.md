@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.chrome.com/docs/css-ui/declarative-shadow-dom
-published_at: '2026-06-30T04:00:25.891148+05:30'
-collected_at: '2026-06-30T04:00:25.891166+05:30'
+published_at: '2026-07-02T10:02:21.974929+05:30'
+collected_at: '2026-07-02T10:02:21.974942+05:30'
 tags:
 - hackernews
 - reddit
 - web-crawled
 status: active
 resource_id: blog:declarative-shadow-dom-web-dev
-first_seen: '2026-06-30T04:00:25.891166+05:30'
-last_seen: '2026-06-30T04:00:25.891166+05:30'
-last_checked: '2026-06-30T04:00:25.891166+05:30'
+first_seen: '2026-07-02T10:02:21.974942+05:30'
+last_seen: '2026-07-02T10:02:21.974942+05:30'
+last_checked: '2026-07-02T10:02:21.974942+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Declarative Shadow DOM (DSD)** is a standardized web platform feature (WHATWG HTML spec) enabling native shadow DOM encapsulation via HTML `<template>` elements with the `shadowrootmode` attribute, replacing the deprecated `shadowroot` attribute (standardized in 2023).
+- **Standardization & Browser Support**: Declarative Shadow DOM (DSD) is now a standardized web platform feature (WHATWG HTML spec) with full cross-browser support (Chrome 124+, Firefox 123+, Safari 16.4+, Edge 111+), replacing the older `shadowroot` attribute with `shadowrootmode` per the 2023 spec update.
 
-- **Cross-browser availability** achieved as of August 5, 2024, with full support in Chrome 124+, Firefox 123+, Safari 16.4+, and Edge 111+, marking it as **Baseline Newly Available**.
+- **Technical Implementation**: DSD enables shadow DOM encapsulation via HTML `<template>` elements with a `shadowrootmode` attribute (e.g., `shadowrootmode="open"`), allowing declarative attachment of shadow roots during parsing without JavaScript, improving performance and SEO.
 
-- **Technical implementation** requires a `<template>` element with `shadowrootmode="open|closed"` attached to a shadow host, parsed during HTML parsing (no JavaScript `attachShadow()` required), improving performance and SEO.
+- **Baseline Availability**: As of August 5, 2024, DSD is marked as **Baseline Newly Available**, signifying its production-ready status across all major engines and its inclusion in the Baseline 2024 rollout.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-30T04:00:25.891148+05:30
+- Published: 2026-07-02T10:02:21.974929+05:30
 
 ## Related Tags
 

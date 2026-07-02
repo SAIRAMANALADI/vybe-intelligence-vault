@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/czl9707/build-your-own-openclaw
-collected_at: '2026-07-01T10:28:12.669265+05:30'
-published_at: '2026-07-01T03:18:48Z'
+collected_at: '2026-07-02T09:55:54.890871+05:30'
+published_at: '2026-07-01T16:15:50Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
-- workflows
-stars: 1758
+stars: 1761
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-03-11T02:47:02Z'
 pushed_at: '2026-06-28T12:49:25Z'
 resource_id: github:czl9707/build-your-own-openclaw
-first_seen: '2026-07-01T10:28:12.669265+05:30'
-last_seen: '2026-07-01T10:28:12.669265+05:30'
-last_checked: '2026-07-01T10:28:12.669265+05:30'
+first_seen: '2026-07-02T09:55:54.890871+05:30'
+last_seen: '2026-07-02T09:55:54.890871+05:30'
+last_checked: '2026-07-02T09:55:54.890871+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular Python Framework**: Provides a structured, step-by-step implementation of an AI agent using Python, emphasizing modular design for extensibility and customization.
+- **Repository Overview**: GitHub repository providing a step-by-step tutorial to construct an AI agent from scratch using Python, covering core concepts and implementation details.
 
-- **OpenClaw Core Components**: Implements key agent functionalities including memory management, tool integration, and LLM interaction via a customizable architecture.
+- **Technical Focus**: Utilizes Large Language Models (LLMs) and Python-based frameworks to guide users through agent architecture, tool integration, and customization.
 
-- **Hands-on Tutorial**: Offers a practical guide with executable examples, covering agent initialization, workflow orchestration, and integration with external APIs/LLMs.
+- **Project Status**: Actively maintained (last updated July 2026), with 1,761 stars and 312 forks, indicating community engagement and adoption.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: czl9707
-- Stars: 1758
+- Stars: 1761
 - Forks: 312
 - Language: Python
 - Topics: ai-agent, build-your-own-x, llm, python, tutorial
-- Last Updated: 2026-07-01T03:18:48Z
+- Last Updated: 2026-07-01T16:15:50Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-11T02:47:02Z

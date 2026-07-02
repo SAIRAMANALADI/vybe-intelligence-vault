@@ -5,18 +5,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY
-published_at: '2026-07-02T04:12:00.359533+05:30'
-collected_at: '2026-07-02T04:12:00.359541+05:30'
+published_at: '2026-07-02T09:53:53.407495+05:30'
+collected_at: '2026-07-02T09:53:53.407510+05:30'
 tags:
-- hackernews
 - rag
+- reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:complete-rag-tutorial-2025-build-ai-apps-with-retr
-first_seen: '2026-07-02T04:12:00.359541+05:30'
-last_seen: '2026-07-02T04:12:00.359541+05:30'
-last_checked: '2026-07-02T04:12:00.359541+05:30'
+first_seen: '2026-07-02T09:53:53.407510+05:30'
+last_seen: '2026-07-02T09:53:53.407510+05:30'
+last_checked: '2026-07-02T09:53:53.407510+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization (via YouTube Partners/Advertisers), and creator tools (e.g., YouTube Studio, Copyright Match Tool).
-
-- **Technical Infrastructure**: Leverages Google’s CDN and AI-driven recommendation algorithms (e.g., deep neural networks for personalized content suggestions) to optimize delivery and engagement across 2+ billion monthly users.
-
-- **Policy & Compliance**: Enforces content policies via automated systems (e.g., Content ID for copyright, machine learning for policy violations) and provides transparency reports on takedowns, privacy practices, and API access for developers.
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, live streaming, monetization (via YouTube Partner Program), and advertising (via Google Ads).
+- **Developer & Creator Resources**: Provides APIs, SDKs, and tools (e.g., YouTube Data API, YouTube Analytics) for developers and creators to integrate, analyze, and optimize content delivery and engagement.
+- **Policy & Compliance**: Enforces community guidelines, copyright policies (DMCA compliance), privacy standards (GDPR/CCPA), and safety measures (e.g., restricted modes, age restrictions) with transparent reporting mechanisms.
 
 ## Why It Matters
 
@@ -38,12 +36,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T04:12:00.359533+05:30
+- Published: 2026-07-02T09:53:53.407495+05:30
 
 ## Related Tags
 
-- hackernews
 - rag
+- reddit
 - web-crawled
 - youtube
 
