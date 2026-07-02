@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by matt_d. Score: 19, Comments: 10.
+Hacker News story by matt_d. Score: 80, Comments: 65.
 Original Link: https://senior-swe-bench.snorkel.ai/
 
 ## Use Cases

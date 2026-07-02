@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-07-02T09:53:54.884025+05:30'
+collected_at: '2026-07-02T15:04:23.675252+05:30'
 published_at: '2026-06-28T15:57:16Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
 - models
 - openai
 - rag
+- reddit
 stars: 888
 language: Jupyter Notebook
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-07-02T09:53:54.884025+05:30'
-last_seen: '2026-07-02T09:53:54.884025+05:30'
-last_checked: '2026-07-02T09:53:54.884025+05:30'
+first_seen: '2026-07-02T15:04:23.675252+05:30'
+last_seen: '2026-07-02T15:04:23.675252+05:30'
+last_checked: '2026-07-02T15:04:23.675252+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Learning Path**: 5-week structured guide covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization, HNSW indexing, and Matryoshka representation learning for efficient LLM retrieval augmentation.
+- **Learning Path**: 5-week structured curriculum covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and Matryoshka representation learning for efficient LLM integration.
 
-- **Tooling & Integration**: Hands-on labs using Azure, OpenAI APIs, and VS Code, with notebooks demonstrating multimodal RAG, responsible AI practices, and optimization for production-scale generative AI applications.
+- **Technical Stack**: Focuses on Azure-hosted Jupyter Notebooks, OpenAI/GPT models, HNSW for vector search, and VS Code integration, with modules on responsible AI and multimodal RAG.
 
-- **Performance Focus**: Benchmarks and implementations for optimizing retrieval latency, memory efficiency, and accuracy in RAG pipelines, including hybrid search strategies and quantization methods for large-scale deployments.
+- **Optimization Focus**: Emphasizes indexing strategies (scalar/binary quantization) and hybrid retrieval (vector + keyword) to enhance performance in production-scale RAG systems.
 
 ## Why It Matters
 

@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Hosts Jupyter Notebook examples demonstrating AI multi-agent systems, with 209 stars and 123 forks as of last update (2026-06-23).
-- **Technical Focus**: Primarily utilizes Jupyter Notebooks for implementation and experimentation with multi-agent architectures.
-- **Use Case**: Provides practical, executable examples for designing, simulating, and evaluating AI agents collaborating in shared environments.
+- **Repository**: `viktoriasemaan/multi-agent` hosts Jupyter Notebook examples demonstrating AI multi-agent systems, with 209 stars and 124 forks.
+- **Technical Focus**: Contains executable notebooks for designing, simulating, and evaluating multi-agent AI architectures (e.g., cooperative/competitive agents).
+- **Last Update**: Repository was last modified on **2026-06-23T22:55:07Z**, indicating active development or maintenance.
 
 ## Use Cases
 

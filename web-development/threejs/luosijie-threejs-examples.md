@@ -4,7 +4,7 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/luosijie/threejs-examples
-collected_at: '2026-06-16T17:27:23.869270+05:30'
+collected_at: '2026-07-02T15:03:24.814460+05:30'
 published_at: '2026-06-08T19:52:14Z'
 tags:
 - threejs
@@ -13,8 +13,8 @@ language: TypeScript
 status: active
 resource_id: github:luosijie/threejs-examples
 first_seen: '2026-06-12T10:40:14.585733+00:00'
-last_seen: '2026-06-16T17:27:23.869270+05:30'
-last_checked: '2026-06-16T17:27:23.869270+05:30'
+last_seen: '2026-07-02T15:03:24.814460+05:30'
+last_checked: '2026-07-02T15:03:24.814460+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 
 - Owner: luosijie
 - Stars: 544
-- Forks: 198
+- Forks: 199
 - Language: TypeScript
 - Topics: blender, threejs, webgl
 - Last Updated: 2026-06-08T19:52:14Z

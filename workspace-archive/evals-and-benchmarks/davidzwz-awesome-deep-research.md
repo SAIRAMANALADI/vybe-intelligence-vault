@@ -16,7 +16,6 @@ tags:
 - hackernews
 - rag
 - unknown
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, focusing on LLM-driven reasoning agents, search agents, and advanced RAG systems for complex knowledge synthesis.
-- **ACL 2026 KnowFM Integration**: Compiles peer-reviewed contributions and technical frameworks from the ACL 2026 KnowFM initiative, emphasizing autonomous research agents and multi-step reasoning pipelines.
-- **High-Activity Repository**: Maintains active development (782 stars, 62 forks) with la
+- Curated collection of resources on **agentic deep research**, focusing on autonomous AI systems for complex information synthesis.
+- Includes tools and frameworks for **multi-agent reasoning**, **deep research agents**, and **advanced RAG (Retrieval-Augmented Generation)** techniques.
+- Aggregates state-of-the-art methods in **LLM-driven reasoning**, **search agents**, and **knowledge-intensive tasks** from ACL 2026 KnowFM contributions.
 
 ## Use Cases
 

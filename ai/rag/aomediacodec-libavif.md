@@ -4,24 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aomediacodec/libavif
-collected_at: '2026-06-30T22:54:24.625225+05:30'
-published_at: '2026-06-30T16:10:57Z'
+collected_at: '2026-07-02T15:10:24.879833+05:30'
+published_at: '2026-07-02T02:28:20Z'
 tags:
 - c
 - github-repo
 - rag
-- reddit
-stars: 2124
+stars: 2125
 language: C
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2019-06-10T17:54:32Z'
-pushed_at: '2026-06-30T16:10:52Z'
+pushed_at: '2026-07-01T07:55:47Z'
 resource_id: github:aomediacodec/libavif
-first_seen: '2026-06-30T22:54:24.625225+05:30'
-last_seen: '2026-06-30T22:54:24.625225+05:30'
-last_checked: '2026-06-30T22:54:24.625225+05:30'
+first_seen: '2026-07-02T15:10:24.879833+05:30'
+last_seen: '2026-07-02T15:10:24.879833+05:30'
+last_checked: '2026-07-02T15:10:24.879833+05:30'
 health_score: 100
 ---
 
@@ -30,8 +29,8 @@ health_score: 100
 ## Summary
 
 - **Purpose**: C-based library for encoding and decoding AV1 Image File Format (AVIF) files, leveraging the AV1 codec for high-efficiency compression.
-- **Key Features**: Supports both lossy and lossless encoding/decoding, with integration of libaom (AOMedia's AV1 encoder/decoder) and optional support for other AV1 implementations.
-- **Dependencies**: Requires libaom (or alternative AV1 codec) and standard C libraries; designed for cross-platform compatibility (Linux, macOS, Windows).
+- **Key Features**: Supports both lossy and lossless encoding/decoding, integrates with libaom (AOMedia's AV1 codec), and handles AVIF's container structure (ISO/IEC 23000-22).
+- **Dependencies**: Requires libaom for AV1 encoding/decoding and libavif for AVIF container handling; compatible with modern C compilers (C99 or later).
 
 ## Why It Matters
 
@@ -40,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: aomediacodec
-- Stars: 2124
+- Stars: 2125
 - Forks: 293
 - Language: C
 - Topics: None
-- Last Updated: 2026-06-30T16:10:57Z
+- Last Updated: 2026-07-02T02:28:20Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2019-06-10T17:54:32Z
-- Pushed At: 2026-06-30T16:10:52Z
+- Pushed At: 2026-07-01T07:55:47Z
 
 ## Possible Use Cases
 

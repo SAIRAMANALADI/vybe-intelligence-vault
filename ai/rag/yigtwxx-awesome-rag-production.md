@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-07-02T09:54:44.849849+05:30'
+collected_at: '2026-07-02T15:05:13.607513+05:30'
 published_at: '2026-07-01T13:14:52Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-06-30T05:24:48Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-07-02T09:54:44.849849+05:30'
-last_seen: '2026-07-02T09:54:44.849849+05:30'
-last_checked: '2026-07-02T09:54:44.849849+05:30'
+first_seen: '2026-07-02T15:05:13.607513+05:30'
+last_seen: '2026-07-02T15:05:13.607513+05:30'
+last_checked: '2026-07-02T15:05:13.607513+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A structured, community-maintained list of production-grade tools, frameworks, and best practices for **scalable RAG (Retrieval-Augmented Generation) systems**, covering end-to-end deployment challenges (e.g., embeddings, vector databases, LLMops).
-- **Technical Scope**: Focuses on **Python-based** solutions, integrating key components like **LangChain**, **LLMs**, **MLOps**, and **vector databases** (e.g., FAISS, Pinecone, Weaviate) for high-performance retrieval and generation workflows.
-- **Operational Focus**: Emphasizes **battle-tested** methodologies for **scalability, reliability, and productionization** of RAG pipelines, including monitoring, optimization, and CI/CD integration for generative AI applications.
+- **Curated resources**: Repository aggregates production-grade tools, frameworks, and best practices for scalable RAG systems, including embeddings, vector databases, and LLMops workflows.
+- **Technical scope**: Covers Python-based implementations (e.g., LangChain) and MLOps integration for large language models (LLMs) and generative AI pipelines.
+- **Maintenance**: Last updated July 2026, with 134 stars and 33 forks, indicating active community engagement in AI engineering and RAG deployment.
 
 ## Why It Matters
 

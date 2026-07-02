@@ -36,10 +36,8 @@ selection_reason:
 ## Summary
 
 - **Purpose**: Provides a Python-based toolkit for constructing production-grade Retrieval Augmented Generation (RAG) pipelines optimized for custom datasets.
-
-- **Key Features**: Supports end-to-end RAG workflows, including data ingestion, chunking, vector storage, retrieval, and LLM integration with configurable components.
-
-- **Technical Stack**: Leverages Python with modular architecture for extensibility, targeting GenAI applications in developer tooling environments.
+- **Key Features**: Supports end-to-end RAG workflows, including data ingestion, chunking, embedding, retrieval, and generation, with modular components for customization.
+- **Technical Stack**: Leverages Python with dependencies for vector databases (e.g., FAISS, Chroma), LLMs (e.g., Hugging Face Transformers), and retrieval mechanisms (e
 
 ## Use Cases
 

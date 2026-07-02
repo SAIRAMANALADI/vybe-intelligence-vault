@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-07-02T09:53:59.870575+05:30'
+collected_at: '2026-07-02T15:04:28.577052+05:30'
 published_at: '2026-07-02T00:00:20Z'
 tags:
 - github-repo
-- openai
 - python
 - rag
 stars: 970
@@ -18,9 +17,9 @@ archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-07-02T09:53:59.870575+05:30'
-last_seen: '2026-07-02T09:53:59.870575+05:30'
-last_checked: '2026-07-02T09:53:59.870575+05:30'
+first_seen: '2026-07-02T15:04:28.577052+05:30'
+last_seen: '2026-07-02T15:04:28.577052+05:30'
+last_checked: '2026-07-02T15:04:28.577052+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
-
-- **Python-Based**: Entirely written in Python, leveraging LangChain's modular framework for document processing, vector storage (e.g., FAISS or Chroma), and LLM integration (e.g., OpenAI, Hugging Face).
-
-- **Modular Structure**: Includes components for document loading (e.g., `PyPDFLoader`, `TextLoader`), text splitting (`RecursiveCharacterTextSplitter`), embedding generation (e.g., `HuggingFaceEmbeddings`), and retrieval-augmented QA chains (`RetrievalQA`).
+- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with LLM-based generation.
+- **Python-Based Stack**: Utilizes Python with LangChain for orchestration, likely paired with embeddings (e.g., HuggingFace) and vector stores (e.g., FAISS/Chroma) for document indexing.
+- **Tutorial Focus**: Provides a step-by-step guide for building a RAG system, covering document loading, splitting, embedding, retrieval, and prompt augmentation for LLM inference.
 
 ## Why It Matters
 

@@ -8,17 +8,16 @@ local_vault_path: ai/rag/alucek-graphrag-breakdown.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
 - github-repo
 - jupyter notebook
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # ALucek/GraphRAG-Breakdown
@@ -27,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Knowledge Graph RAG Architecture**: Demonstrates a retrieval-augmented generation (RAG) pipeline leveraging knowledge graphs (KGs) to enhance contextual retrieval, with modular components for graph construction, query processing, and response generation.
+- **GraphRAG Architecture Breakdown**: Repository dissects Knowledge Graph Retrieval-Augmented Generation (KG-RAG) into modular components, illustrating data ingestion, graph construction, retrieval strategies, and LLM integration with Jupyter Notebook visualizations.
 
-- **Visual & Interactive Breakdown**: Provides Jupyter Notebook-based diagrams and examples to illustrate graph-based RAG workflows, including entity resolution, relationship extraction, and multi-hop reasoning.
-
-- **Implementation & Evalua
+- **Retrieval Mechanisms**: Demonstrates hybrid retrieval (vector + graph-based) for contextual grounding, including graph traversal algorithms (e.g., shortest path, community detection) to optimize subgraph extraction for downstr
 
 ## Use Cases
 

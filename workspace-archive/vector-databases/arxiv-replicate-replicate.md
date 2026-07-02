@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **HappyHorse-1.0**: Alibaba's text-to-video/image-to-video diffusion model supporting 720p/1080p resolutions, 3-15s durations, and 5 aspect ratios (25.6K runs).
-- **Grok-Imagine-Video**: xAI's video generation model leveraging Grok architecture (1.2M runs).
-- **SEEDance-2.0**: ByteDance's multimodal video generator with native audio, multimodal reference inputs, and adaptive duration control (912K runs).
+- **Music-2.6**: Text-to-music diffusion model generating full-length songs/instrumentals with optional auto-generated lyrics, achieving 15.8K runs on Replicate.
+- **Nano-Banana-2**: Google’s fast diffusion-based image generation model enabling conversational editing, multi-image fusion, and character consistency, with 13.3M runs.
+- **Grok-Imagine-Video**: xAI’s video generation model leveraging diffusion transformers, accumulating 1.2M runs on Replicate.
 
 ## Use Cases
 

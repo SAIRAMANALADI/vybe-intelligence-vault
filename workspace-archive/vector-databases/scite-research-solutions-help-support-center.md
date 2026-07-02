@@ -11,9 +11,9 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- paper
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Valuable developer reference
 ---
@@ -30,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Scite's citation indexing** differentiates itself by classifying citations into **supporting, mentioning, or contrasting** based on contextual analysis of citation statements, unlike traditional citation indexes that only count citations.
+- **Scite's citation analysis** distinguishes between *citations* (raw references) and *citation statements* (contextual mentions in text), enabling classification of citations as supporting, contrasting, or mentioning based on semantic analysis of surrounding text.
 
-- **Scite's coverage** spans millions of research articles with citation statements extracted from PDFs, enabling granular citation analysis and real-time updates to citation classifications.
-
-- **Scite's tools** include **Reference Check** for identifying
+- **Coverage and data integrity** are managed via Scite's proprietary database, which includes over 1.2B citation statements across 50M+ documents; missing citations can be reported for inclusion via a dedicated feedback mechanism.
 
 ## Use Cases
 

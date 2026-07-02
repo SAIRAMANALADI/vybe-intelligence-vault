@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Custom ADR Services & Training**: Delivers tailored alternative dispute resolution (ADR) services and training programs (e.g., psychological safety, diversity, neurodiversity, leadership) via live, virtual, or hybrid formats to address organizational conflict and skill gaps.
+- **Custom ADR & Training Programs**: Delivers tailored alternative dispute resolution (ADR) services and training (e.g., psychological safety, neurodiversity, leadership) via live, virtual, or hybrid formats to address organizational conflict and skill gaps.
 
-- **Multi-Phased Facilitation Programs**: Implements structured, industry-specific solutions (e.g., higher education, healthcare, government) to rebuild trust, optimize reporting systems, and enhance team dynamics throu
+- **Multi-Phased Facilitation & Ombudsman Services**: Implements structured facilitation programs (e.g., trust rebuilding in higher education, anonymous HR reporting in healthcare) and independent ombudsman services to resolve disputes, en
 
 ## Use Cases
 

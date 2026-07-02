@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Domain Technical Repository**: Open-source collection covering web design, knowledge retrieval (RAG), and image generation (GPT-Image-2), with modular implementations for agent-based workflows.
-
-- **Tech Stack & Integration**: Primarily CSS-based but includes tools for AI-driven tasks (e.g., RAG pipelines, image synthesis) and compatibility with models like Claude.
-
-- **Active Maintenance & Community**: Updated July 2026, with 9.0K+ stars and 1.2K+ forks, indicating strong adoption and
+- **Multi-domain technical repository** containing open-source implementations for **web design, knowledge retrieval (RAG), and image generation (GPT-Image-2)**, with additional **AI agent** utilities.
+- **Tech stack**: Primarily **CSS** with integrations for **Claude** and **RAG pipelines**, targeting modern web and AI workflows.
+- **Active maintenance**: Last updated **July 2026**, with **9,045 stars** and **1,220 forks**, indicating strong community adoption.
 
 ## Use Cases
 

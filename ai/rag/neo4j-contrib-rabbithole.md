@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: http://github.com/neo4j-contrib/rabbithole
-collected_at: '2026-07-01T15:52:17.383124+05:30'
+collected_at: '2026-07-02T15:10:03.241103+05:30'
 published_at: '2026-06-30T20:16:32Z'
 tags:
 - github-repo
 - java
 - rag
-- reddit
 stars: 80
 language: Java
 status: active
@@ -18,9 +17,9 @@ archived: false
 created_at: '2012-04-04T07:21:00Z'
 pushed_at: '2023-09-15T09:51:09Z'
 resource_id: github:neo4j-contrib/rabbithole
-first_seen: '2026-07-01T15:52:17.383124+05:30'
-last_seen: '2026-07-01T15:52:17.383124+05:30'
-last_checked: '2026-07-01T15:52:17.383124+05:30'
+first_seen: '2026-07-02T15:10:03.241103+05:30'
+last_seen: '2026-07-02T15:10:03.241103+05:30'
+last_checked: '2026-07-02T15:10:03.241103+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Embeddable Neo4j Console**: Provides an interactive, embeddable console for Neo4j, enabling in-process database interaction without requiring a separate server instance.
-
+- **Embeddable Neo4j Console**: Provides an interactive, embeddable console for Neo4j, enabling in-process database interaction without requiring a separate server setup.
 - **Java-Based Implementation**: Fully implemented in Java, leveraging Neo4j’s core libraries for seamless integration and performance.
-
-- **Last Updated (Future Dated)**: Repository last updated on **2026-06-30**, suggesting potential ongoing development or maintenance despite low star/fork activity.
+- **Last Updated (Future Dated)**: Repository last updated on **2026-06-30**, indicating potential future development or maintenance.
 
 ## Why It Matters
 

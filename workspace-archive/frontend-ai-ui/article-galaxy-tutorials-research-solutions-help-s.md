@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - paper
-- reddit
 - web-crawled
 - workflows
 - youtube
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Video Tutorials**: Provides step-by-step video guides for bulk article ordering, PubMed document ordering, re-use rights verification, workflow management, reference management, and browser/Word extensions.
-- **PDF Quick Reference Guides**: Offers downloadable PDFs for accessing papers via discovery portals, dashboard usage, and ordering with publisher tokens.
-- **Support & Ticketing**: Includes access to help center, ticket submission, and release notes for ongoing updates.
+- **Video Tutorials**: Provides step-by-step video guides for bulk article ordering, document ordering via Order Form/PubMed, re-use rights verification, research workflow management, reference management, browser extension usage, and Word citation tools.
+- **PDF Quick Reference Guides**: Offers downloadable guides for accessing papers from 70+ discovery portals, dashboard navigation, and ordering with publisher tokens.
+- **Support & Requests**: Centralized help center with ticketing system (`My
 
 ## Use Cases
 

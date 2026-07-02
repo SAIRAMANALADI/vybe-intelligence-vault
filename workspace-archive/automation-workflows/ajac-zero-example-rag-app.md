@@ -6,10 +6,10 @@ source_url: https://github.com/ajac-zero/example-rag-app
 resource_id: github:ajac-zero/example-rag-app
 local_vault_path: ai/rag/ajac-zero-example-rag-app.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: workflow
-importance: medium
+importance: high
 tags:
 - github-repo
 - rag
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Observability & LLM Integration**: Implements Langfuse for LLM observability and supports 100+ providers via LiteLLM for seamless LLM integration and monitoring.
+- **Observability & Provider Integration**: Implements LLM observability via Langfuse and supports 100+ LLM providers through LiteLLM for seamless model switching and monitoring.
 
-- **DevOps & Type Safety**: Fully Dockerized with TypeScript, ensuring portability and type-checking; includes 100% test coverage for reliability.
+- **Development Rigor**: Fully Dockerized with TypeScript, enforces strict type-checking, and achieves 100% test coverage for robust, production-ready RAG application development.
 
-- **Scalability & Metadata**: Designed for RAG workflows with structured metadata handling, optimized for AI/ML pipelines and extensible provider support.
+- **Scalability & Maintenance**: Actively maintained (last updated Mar 2026), structured for modularity, and designed to handle diverse RAG
 
 ## Use Cases
 

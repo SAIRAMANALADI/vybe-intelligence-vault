@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://scite.ai/terms
-published_at: '2026-07-02T10:03:25.323728+05:30'
-collected_at: '2026-07-02T10:03:25.323742+05:30'
+published_at: '2026-07-02T15:10:25.061113+05:30'
+collected_at: '2026-07-02T15:10:25.061123+05:30'
 tags:
 - agents
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:terms-of-service
-first_seen: '2026-07-02T10:03:25.323742+05:30'
-last_seen: '2026-07-02T10:03:25.323742+05:30'
-last_checked: '2026-07-02T10:03:25.323742+05:30'
+first_seen: '2026-07-02T15:10:25.061123+05:30'
+last_seen: '2026-07-02T15:10:25.061123+05:30'
+last_checked: '2026-07-02T15:10:25.061123+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Service Functionality**: Scite’s platform uses a proprietary classifier to analyze scientific claims in published articles, aggregating subsequent support or contradiction via AI-generated content (AI Content), while explicitly prohibiting the use of user data (Customer Data) for AI training.
+- **Service Functionality**: Scite’s platform uses a proprietary classifier to analyze scientific articles, aggregating subsequent commentaries to determine if claims are supported or contradicted; users can request AI-generated content derived from these analyses, with explicit prohibition on using customer data for AI training.
 
-- **Legal & Compliance Framework**: Users retain full responsibility for verifying article credibility and legal compliance; prohibited content (e.g., obscene, defamatory) is subject to removal, and violations may result in account termination or legal referral.
+- **User Responsibilities & Liabilities**: Users must independently verify article credibility, citations, and legal obligations; Scite disclaims liability for research outcomes and prohibits illegal activities, unauthorized account sharing, or misuse of proprietary classifier results (e.g., derivative works or redistribution).
 
-- **Ownership & Restrictions**: All proprietary components (e.g., classifier, AI Content) are owned by Scite; users cannot reverse-engineer, redistribute, or use Classifier Results outside permitted analyses, and third-party site links are disclaimed from liability.
+- **Ownership & Termination**: Scite retains all rights to its proprietary technology and aggregated data (Company Materials), while third-party article content remains subject to original licenses; users may terminate subscriptions with 30-day notice, and accounts may be suspended for payment failures or policy violations.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T10:03:25.323728+05:30
+- Published: 2026-07-02T15:10:25.061113+05:30
 
 ## Related Tags
 

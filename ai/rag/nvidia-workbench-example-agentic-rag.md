@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-agentic-rag
-collected_at: '2026-07-02T09:54:29.882653+05:30'
+collected_at: '2026-07-02T15:04:58.617575+05:30'
 published_at: '2026-06-18T07:25:57Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-14T17:08:04Z'
 pushed_at: '2026-06-11T22:51:59Z'
 resource_id: github:nvidia/workbench-example-agentic-rag
-first_seen: '2026-07-02T09:54:29.882653+05:30'
-last_seen: '2026-07-02T09:54:29.882653+05:30'
-last_checked: '2026-07-02T09:54:29.882653+05:30'
+first_seen: '2026-07-02T15:04:58.617575+05:30'
+last_seen: '2026-07-02T15:04:58.617575+05:30'
+last_checked: '2026-07-02T15:04:58.617575+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Implementation**: Demonstrates an autonomous, multi-agent system for Retrieval Augmented Generation (RAG) using NVIDIA AI Workbench, enabling dynamic task decomposition and tool integration.
+- **Agentic RAG Implementation**: Demonstrates an autonomous agent-based Retrieval-Augmented Generation (RAG) pipeline using NVIDIA AI Workbench, integrating retrieval and generative components for dynamic decision-making.
 
-- **Jupyter Notebook-Based**: Entire workflow encapsulated in a Jupyter Notebook, providing an interactive, reproducible environment for agentic RAG experimentation.
+- **Jupyter Notebook-Based Workflow**: Entire project structured as executable Jupyter Notebooks, enabling interactive experimentation with agentic RAG components (e.g., retrieval strategies, LLM integration, and tool orchestration).
 
-- **Modular Architecture**: Leverages NVIDIA's ecosystem (e.g., NeMo, Triton) for scalable retrieval, LLM inference, and agent orchestration, optimized for GPU acceleration.
+- **NVIDIA AI Workbench Integration**: Leverages NVIDIA’s AI Workbench framework for streamlined deployment, dependency management, and GPU-accelerated inference, optimized for NVIDIA hardware (e.g., GPUs, CUDA).
 
 ## Why It Matters
 

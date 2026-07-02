@@ -14,7 +14,6 @@ tags:
 - c
 - github-repo
 - rag
-- reddit
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,8 +33,8 @@ selection_reason:
 ## Summary
 
 - **Purpose**: C-based library for encoding and decoding AV1 Image File Format (AVIF) files, leveraging the AV1 codec for high-efficiency compression.
-- **Key Features**: Supports both lossy and lossless encoding/decoding, with integration of libaom (AOMedia's AV1 encoder/decoder) and optional support for other AV1 implementations.
-- **Dependencies**: Requires libaom (or alternative AV1 codec) and standard C libraries; designed for cross-platform compatibility (Linux, macOS, Windows).
+- **Key Features**: Supports both lossy and lossless encoding/decoding, integrates with libaom (AOMedia's AV1 codec), and handles AVIF's container structure (ISO/IEC 23000-22).
+- **Dependencies**: Requires libaom for AV1 encoding/decoding and libavif for AVIF container handling; compatible with modern C compilers (C99 or later).
 
 ## Use Cases
 

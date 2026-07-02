@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **INP Metric Definition**: Interaction to Next Paint (INP) measures a page's responsiveness by tracking the latency of all qualifying interactions during a user's visit, with the final INP value being the longest observed interaction (excluding outliers). Optimal INP is **≤200ms**, measured at the **75th percentile** across mobile and desktop devices.
+- **INP Metric**: Interaction to Next Paint (INP) is a Core Web Vital measuring page responsiveness by tracking the latency of all qualifying interactions during a user's visit; target is **≤200ms** (75th percentile across mobile/desktop).
 
-- **Interaction Breakdown & Optimization**: Interactions consist of **input delay** (time until event callbacks start), **processing duration**
+- **Interaction Breakdown**: INP latency consists of **input delay** (time until event callbacks start), **processing duration** (event callback execution), and **presentation delay** (time to render next frame); optimization requires addressing all three sub
 
 ## Use Cases
 

@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-07-02T09:56:24.957751+05:30'
+collected_at: '2026-07-02T15:06:53.696295+05:30'
 published_at: '2026-07-01T07:59:32Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - typescript
+- workflows
 stars: 518
 language: TypeScript
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-29T13:00:12Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-07-02T09:56:24.957751+05:30'
-last_seen: '2026-07-02T09:56:24.957751+05:30'
-last_checked: '2026-07-02T09:56:24.957751+05:30'
+first_seen: '2026-07-02T15:06:53.696295+05:30'
+last_seen: '2026-07-02T15:06:53.696295+05:30'
+last_checked: '2026-07-02T15:06:53.696295+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering 18+ frameworks/languages (e.g., React, Angular, NestJS, Spring Boot, Flutter, Kotlin) to ensure consistency in agentic AI development.
-
-- **Key Features**: Provides structured guidelines for Android, iOS, web (Next.js/React), backend (Laravel, Go), and mobile frameworks, optimized for AI agent adherence via `cursor-rules` integration.
-
-- **Maintenance**: Last updated July 2026, with 518 stars and 150 forks, indicating active community engagement and evolving standards for agentic AI development.
+- **Multi-Language Best Practices Repository**: Curated collection of coding standards and best practices for TypeScript, Kotlin, Go, Dart (Flutter), Java (Spring Boot), PHP (Laravel), and JavaScript frameworks (React, Next.js, NestJS) to guide AI agents in framework/language-specific development.
+- **Agentic AI Development Focus**: Provides structured guidelines (e.g., Cursor Rules, Android/iOS standards) to ensure AI agents adhere to optimized patterns for cross-platform and framework-specific implementations.
+- **Active Maintenance & Community**: Last updated July 2026 with 518 stars and 150 forks, indicating ongoing community engagement and iterative improvements to standards for AI-driven development workflows.
 
 ## Why It Matters
 

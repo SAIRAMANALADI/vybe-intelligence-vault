@@ -8,13 +8,14 @@ local_vault_path: ai/rag/release-notes-research-solutions-reprints-desk.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: tutorial
 importance: medium
 tags:
 - hackernews
 - openai
 - producthunt
 - rag
+- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -27,17 +28,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **AI-Ready Content Rights (Spring 2026)**: Introduction of Article Galaxy MCP with granular, article-level AI re-use rights management, enabling automated compliance for generative AI applications.
+- **Spring 2026 Updates**: Introduction of Article Galaxy MCP, expanded AI-ready content rights, and enhanced citation intelligence with deeper metadata integration.
 
-- **Full-Text Citation Search (Summer 2025)**: Implemented semantic citation indexing for in-text references, allowing high-precision retrieval of cited passages across full-text documents.
+- **Winter 2025 Updates**: Implementation of a unified shopping cart system, AI-driven search optimization, and workflow automation improvements for cross-platform compatibility.
 
-- **PubMed Integration (Latest Update)**: Launched bidirectional PubMed ↔ Article Galaxy synchronization wit
+- **Fall 2025 Updates**: Article-level AI rights management, redesigned UI/UX for scalability, and integration of real-time citation tracking with third-
 
 ## Use Cases
 

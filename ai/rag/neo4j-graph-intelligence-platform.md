@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: http://neo4j.org/resources/cypher
-published_at: '2026-07-01T04:17:29.265259+05:30'
-collected_at: '2026-07-01T04:17:29.265272+05:30'
+published_at: '2026-07-02T15:10:03.986128+05:30'
+collected_at: '2026-07-02T15:10:03.986141+05:30'
 tags:
-- dataset
+- hackernews
 - rag
 - web-crawled
 status: active
 resource_id: blog:neo4j-graph-intelligence-platform
-first_seen: '2026-07-01T04:17:29.265272+05:30'
-last_seen: '2026-07-01T04:17:29.265272+05:30'
-last_checked: '2026-07-01T04:17:29.265272+05:30'
+first_seen: '2026-07-02T15:10:03.986141+05:30'
+last_seen: '2026-07-02T15:10:03.986141+05:30'
+last_checked: '2026-07-02T15:10:03.986141+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Explainable AI (XAI) Integration**: Leveraging knowledge graphs (e.g., Neo4j) to embed causal reasoning and traceability into AI decision-making, enabling transparent "why" explanations for high-stakes applications.
-
-- **Enterprise Value Proposition**: Addressing regulatory compliance (e.g., EU AI Act) and operational trust by converting opaque AI models into auditable, interpretable systems with measurable ROI in sectors like healthcare and finance.
-
-- **Scalable Knowledge Graphs**: Utilizing graph databases to model domain-specific ontologies, facilitating real-time causal inference and dynamic reasoning across trillion-scale datasets for competitive differentiation.
+- **Event**: GraphTalk Manufacturing – Germany, a technical conference focused on leveraging connected data in manufacturing, scheduled for July 2, 2026, at 09:30 AM CEST.
+- **Platform**: Registration is open via Neo4j’s official events page, targeting professionals in the manufacturing sector.
+- **Focus**: Emphasizes the application of graph technologies (e.g., Neo4j) for data integration, analytics, and operational efficiency in industrial environments.
 
 ## Why It Matters
 
@@ -36,11 +34,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T04:17:29.265259+05:30
+- Published: 2026-07-02T15:10:03.986128+05:30
 
 ## Related Tags
 
-- dataset
+- hackernews
 - rag
 - web-crawled
 

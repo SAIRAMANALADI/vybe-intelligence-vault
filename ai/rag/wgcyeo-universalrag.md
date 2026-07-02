@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-02T09:55:34.896712+05:30'
+collected_at: '2026-07-02T15:06:03.669570+05:30'
 published_at: '2026-06-28T05:14:03Z'
 tags:
 - github-repo
-- paper
 - python
 - rag
 stars: 172
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-02T09:55:34.896712+05:30'
-last_seen: '2026-07-02T09:55:34.896712+05:30'
-last_checked: '2026-07-02T09:55:34.896712+05:30'
+first_seen: '2026-07-02T15:06:03.669570+05:30'
+last_seen: '2026-07-02T15:06:03.669570+05:30'
+last_checked: '2026-07-02T15:06:03.669570+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG beyond text by integrating diverse modalities (e.g., images, tables, code) and varying granularities (e.g., document-level, chunk-level) into a unified retrieval-augmented generation pipeline.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence levels) using unified encoders and retrievers.
 
-- **Modality-Agnostic Retrieval & Fusion**: Implements a cross-modal retrieval mechanism with modality-specific encoders and a fusion module to dynamically combine heterogeneous data sources during generation, optimizing context relevance.
+- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval mechanism leveraging modality-specific encoders (e.g., CLIP for vision, BERT for text) with a shared latent space for joint embedding and retrieval optimization.
 
-- **ACL 2026 Oral Contribution**: Proposes a novel architecture with empirical validation on multimodal corpora, demonstrating state-of-the-art performance in tasks requiring integration of disparate data types (e.g., scientific papers with figures, tables, and references).
+- **Dynamic Adaptation & Scalability**: Features adaptive retrieval strategies (e.g., hierarchical indexing, dynamic chunking) to handle large-scale, heterogeneous corpora efficiently while maintaining low-latency inference.
 
 ## Why It Matters
 

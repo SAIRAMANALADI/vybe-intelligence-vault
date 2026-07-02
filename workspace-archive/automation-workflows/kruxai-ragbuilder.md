@@ -8,10 +8,12 @@ local_vault_path: ai/rag/kruxai-ragbuilder.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: dataset
 importance: medium
 tags:
+- dataset
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -26,18 +28,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Purpose**: Provides a Python-based toolkit for constructing production-grade Retrieval Augmented Generation (RAG) systems optimized for user-specific data pipelines.
-
-- **Key Features**: Supports modular components for data ingestion, embedding generation, vector storage, and retrieval, enabling end-to-end RAG workflows with customizable configurations.
-
-- **Integration**: Designed for GenAI applications, leveraging developer-friendly interfaces to streamline deployment and scalability in pr
+- **Purpose**: Provides a Python-based toolkit for constructing production-grade Retrieval Augmented Generation (RAG) pipelines optimized for custom datasets.
+- **Key Features**: Supports end-to-end RAG workflows, including data ingestion, chunking, embedding, retrieval, and generation, with modular components for customization.
+- **Technical Stack**: Leverages Python with dependencies for vector databases (e.g., FAISS, Chroma), LLMs (e.g., Hugging Face Transformers), and retrieval mechanisms (e
 
 ## Use Cases
 

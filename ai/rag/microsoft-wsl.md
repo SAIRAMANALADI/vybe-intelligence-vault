@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/microsoft/WSL/releases
-published_at: '2026-06-30T20:21:21.418400+05:30'
-collected_at: '2026-06-30T20:21:21.418415+05:30'
+published_at: '2026-07-02T15:10:21.202907+05:30'
+collected_at: '2026-07-02T15:10:21.202917+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: github:microsoft/wsl
-first_seen: '2026-06-30T20:21:21.418415+05:30'
-last_seen: '2026-06-30T20:21:21.418415+05:30'
-last_checked: '2026-06-30T20:21:21.418415+05:30'
+first_seen: '2026-07-02T15:10:21.202917+05:30'
+last_seen: '2026-07-02T15:10:21.202917+05:30'
+last_checked: '2026-07-02T15:10:21.202917+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **WSL 2.9.3 introduces WSL Containers (WSLC) Public Preview**, enabling native Linux container management via a new `wslc` CLI tool, C++/C# SDK, and features like GPU support via CDI, multi-network attachment, and VHD-backed volumes with configurable UID/GID drivers.
+- **WSL 2.9.3 introduces WSL Containers (WSLC) Public Preview** with native Linux container support via `wslc` CLI, C++/C#-WinRT SDK, and features like GPU support (CDI), per-container resource limits, multi-network attachment, and VHD-backed volumes.
 
-- **Critical bug fixes** include resolution of `systemctl poweroff` VM termination blocks, use-after-free in virtiofs workers, IPv6 port leaks in Consomme networking, and `wslpath` translation errors for `\\wsl.localhost` paths.
+- **Critical bug fixes in 2.9.3** address use-after-free in virtiofs, IPv6 port leaks, `systemctl poweroff` hangs, `wslpath` translation errors, and VM termination timeouts, alongside security updates to .NET runtime (CVE-2026-45491) and MSRDC (CVE-2026-32157).
 
-- **Security updates** in 2.9.3 patch .NET runtime (CVE-2026-45491) and MSRDC (CVE-2026-32157), while 2.7.10 backports VHD restore token impersonation fixes and 2.7.9 resolves AMD chipset/KVM boot regressions via kernel update to 6.18.33.2-2.
+- **2.7.10 backports VHD restore security fix** by passing mounting user tokens, while 2.7.9 remains a pre-release with no documented changes in the provided context.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T20:21:21.418400+05:30
+- Published: 2026-07-02T15:10:21.202907+05:30
 
 ## Related Tags
 

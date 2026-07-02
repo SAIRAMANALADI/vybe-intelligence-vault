@@ -30,7 +30,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face model: timm/mobilenetv3_small_100.lamb_in1k (Likes: 80, Downloads: 24161012)
+Trending Hugging Face model: timm/mobilenetv3_small_100.lamb_in1k (Likes: 80, Downloads: 24901386)
 
 ## Use Cases
 

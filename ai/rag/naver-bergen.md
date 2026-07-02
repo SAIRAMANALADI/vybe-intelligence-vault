@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/naver/bergen
-collected_at: '2026-07-02T09:54:59.908475+05:30'
+collected_at: '2026-07-02T15:05:33.669848+05:30'
 published_at: '2026-06-16T10:22:47Z'
 tags:
 - benchmark
+- dataset
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - reddit
-- workflows
 stars: 274
 language: Jupyter Notebook
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-05-09T14:13:44Z'
 pushed_at: '2026-03-11T09:37:23Z'
 resource_id: github:naver/bergen
-first_seen: '2026-07-02T09:54:59.908475+05:30'
-last_seen: '2026-07-02T09:54:59.908475+05:30'
-last_checked: '2026-07-02T09:54:59.908475+05:30'
+first_seen: '2026-07-02T15:05:33.669848+05:30'
+last_seen: '2026-07-02T15:05:33.669848+05:30'
+last_checked: '2026-07-02T15:05:33.669848+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Bergen is a benchmarking library designed specifically for Retrieval-Augmented Generation (RAG) systems, enabling standardized evaluation of augmentation, retrieval, and generation components.
-- **Implementation**: Written in Jupyter Notebook, it provides a modular framework for assessing RAG pipelines, including metrics for retrieval quality, generation accuracy, and end-to-end performance.
-- **Scope**: Supports LLMs and integrates with common RAG workflows, offering tools to compare retrieval strategies, augmentation techniques, and generative model outputs under consistent experimental conditions.
+- **Purpose**: Bergen is a benchmarking library specifically designed for evaluating Retrieval-Augmented Generation (RAG) systems, enabling systematic assessment of retrieval and generation components.
+- **Implementation**: Implemented in Jupyter Notebooks, it supports modular evaluation of augmentation, retrieval, and generation pipelines for Large Language Models (LLMs).
+- **Scope**: Provides standardized metrics and datasets to compare RAG performance across tasks, facilitating reproducibility and optimization in LLM-driven applications.
 
 ## Why It Matters
 

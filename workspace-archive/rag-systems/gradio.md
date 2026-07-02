@@ -16,6 +16,7 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -35,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Gradio 6.0** introduces streamlined Python-based UI component integration (e.g., `Button`, `Plot`, `Dataframe`, `ImageSlider`, `Gallery`) with zero frontend development overhead, enabling rapid ML app deployment via `demo.launch()`.
+- **Gradio 6.0** introduces rapid ML app development with 40+ pre-built components (e.g., `ImageSlider`, `AnnotatedImage`, `Chatbot`) for handling diverse data types (images, audio, video, 3D models, dataframes) via Python without frontend expertise.
 
-- **Permanent hosting** is supported via Hugging Face Spaces with auto-scaling, while **instant sharing** is possible via temporary public URLs (`share=True`), eliminating deployment complexity.
+- **Deployment & Scalability**: Supports one-command installation (`pip install gradio`), local/remote hosting (e.g., Hugging Face Spaces), and instant sharing via public URLs (`demo.launch(share=True)`) with auto-scaling.
 
-- **40+ pre-built components** (e.g., `Chatbot`, `Audio`, `Annotat
+- **Community Validation
 
 ## Use Cases
 

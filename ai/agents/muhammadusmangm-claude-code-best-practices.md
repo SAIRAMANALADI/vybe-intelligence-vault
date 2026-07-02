@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-07-02T09:56:29.961919+05:30'
+collected_at: '2026-07-02T15:06:58.721127+05:30'
 published_at: '2026-07-01T14:48:32Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - scripts
 - shell
 - workflows
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-07-02T09:56:29.961919+05:30'
-last_seen: '2026-07-02T09:56:29.961919+05:30'
-last_checked: '2026-07-02T09:56:29.961919+05:30'
+first_seen: '2026-07-02T15:06:58.721127+05:30'
+last_seen: '2026-07-02T15:06:58.721127+05:30'
+last_checked: '2026-07-02T15:06:58.721127+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Structure & Templates**: Provides `CLAUDE.md` templates and structured workflows for optimizing Claude Code usage, including multi-agent patterns and CLI configurations.
+- **Repository Overview**: GitHub repository (`MuhammadUsmanGM/claude-code-best-practices`) providing structured best practices for **Claude Code**, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
 
-- **Cost & Performance Optimization**: Focuses on cost-efficient practices for LLM interactions, MCP integration, and resource management in AI-driven development workflows.
+- **Technical Scope**: Focuses on **agentic AI workflows**, **CLI tools**, **MCP integration**, and **LLM optimization** with Shell-based scripts/templates for automation and efficiency.
 
-- **Agentic AI & Developer Tools**: Documents best practices for agentic AI workflows, Anthropic API integration, and Shell-based automation for enhanced productivity.
+- **Metadata**: 60 stars, 11 forks, last updated **July 1, 2026**; covers topics like `anthropic`, `developer-tools`, and `ai` under the `agentic-ai` umbrella.
 
 ## Why It Matters
 

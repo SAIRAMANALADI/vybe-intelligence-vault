@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **WebM Project Repositories**: Hosts open-source projects including `libvpx` (VP8/VP9 codec SDK), `libwebm` (WebM file parser), `webm-tools` (alpha-channel, encryption, streaming tools), and `libwebp` (WebP image library), all managed via Git and Google’s Gerrit for code reviews and contributions.
+- **WebM Project Repositories**: Hosts open-source projects including `libvpx` (VP8/VP9 codec SDK), `libwebm` (WebM file parser), `webm-tools` (alpha-channel, encryption, streaming tools), and `libwebp` (WebP image library), all managed via Git and Google's Gerrit for code reviews.
 
-- **Technical Specifications & Docs**: Provides formal documentation such as the VP9 bitstream format, WebM container format, VP8 RTP payload draft, and WebM encryption standards, alongside RFC 6386
+- **Technical Documentation**: Provides detailed specs such as VP9 bitstream format, WebM container format, VP8 RTP payload draft (RFC 6386), and encryption standards, alongside encoder parameter examples and continu
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-07-02T09:54:44.857616+05:30'
+collected_at: '2026-07-02T15:05:18.617570+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-07-02T09:54:44.857616+05:30'
-last_seen: '2026-07-02T09:54:44.857616+05:30'
-last_checked: '2026-07-02T09:54:44.857616+05:30'
+first_seen: '2026-07-02T15:05:18.617570+05:30'
+last_seen: '2026-07-02T15:05:18.617570+05:30'
+last_checked: '2026-07-02T15:05:18.617570+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Implements RAG with Vector Database**: Utilizes embedding models and vector databases for efficient retrieval-augmented generation (RAG) in AI Q&A systems.
-- **Agent & Function Call Integration**: Supports agent-based workflows with function calling for dynamic task execution and SSE streaming for real-time responses.
-- **Multi-Modal & Historical Context Handling**: Incorporates image generation/understanding, embedding-based similarity search, and historical message management for context-aware interactions.
+- **Implementation of RAG with Knowledge Graph**: Demonstrates Retrieval-Augmented Generation (RAG) using a knowledge graph for enhanced AI question-answering systems, leveraging structured data for context-aware responses.
+
+- **Multi-modal AI Capabilities**: Integrates image generation, image understanding, and function calling within a Spring AI framework, enabling end-to-end AI agent workflows with SSE (Server-Sent Events) streaming.
+
+- **Vector Database & Embedding Pipeline**: Utilizes vector databases for semantic search and embedding models for efficient retrieval, alongside historical message management and Aliyun AI services for scalable AI-driven applications.
 
 ## Why It Matters
 

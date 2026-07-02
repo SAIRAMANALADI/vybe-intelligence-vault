@@ -8,7 +8,7 @@ local_vault_path: ai/rag/terms-of-service.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - web-crawled
 - youtube
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Terms of Service
@@ -27,15 +27,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Service Functionality**: Scite’s platform uses a proprietary classifier to analyze scientific claims in published articles, aggregating subsequent support or contradiction via AI-generated content (AI Content), while explicitly prohibiting the use of user data (Customer Data) for AI training.
+- **Service Functionality**: Scite’s platform uses a proprietary classifier to analyze scientific articles, aggregating subsequent commentaries to determine if claims are supported or contradicted; users can request AI-generated content derived from these analyses, with explicit prohibition on using customer data for AI training.
 
-- **Legal & Compliance Framework**: Users retain full responsibility for verifying article credibility and legal compliance; prohibited content (e.g., obscene, defamatory) is subject to removal, and vi
+- **User Responsibilities & Liabilities**: Users must independently verify article credibility, citations, and legal obligations; Scite disclaims liability for researc
 
 ## Use Cases
 

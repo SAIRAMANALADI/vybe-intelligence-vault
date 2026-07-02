@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Terminal Coding Agent**: `dcode` is an open-source terminal-based coding agent built on the Deep Agents SDK, supporting dynamic LLM provider/model switching, persistent memory for cross-session context, and configurable skills for behavior customization.
+- **Terminal Coding Agent**: `dcode` is an open-source terminal-based coding agent built on the Deep Agents SDK, supporting dynamic LLM provider/model switching, persistent memory for cross-session context, customizable skills, and approval-gated tool execution.
 
-- **Built-in Tools & Capabilities**: Includes file operations (read/write/edit), shell execution (with approval controls), web search (via Tavily API), task planning, subagents for parallel delegation, memory storage/retrieval, and MCP tool
+- **Core Capabilities**: Includes file I/O, shell execution (local/remote sandboxes), web search (Tavily), task planning, subagents, memory storage/retrieval, MCP tool integration, and LangSmith tracing for observability.
+
+- **CLI & Con
 
 ## Use Cases
 

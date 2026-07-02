@@ -4,20 +4,20 @@ category: ai/agents
 source_type: github
 source_name: GitHub Topics AI Search
 source_url: https://github.com/langwatch/langwatch
-collected_at: '2026-07-02T04:11:05.403870+05:30'
-published_at: '2026-07-01T14:33:24Z'
+collected_at: '2026-07-02T15:03:25.790092+05:30'
+published_at: '2026-07-02T06:32:36Z'
 tags:
 - agents
 - benchmark
 - dataset
 - openai
-stars: 3318
+stars: 3320
 language: TypeScript
 status: active
 resource_id: github:langwatch/langwatch
 first_seen: '2026-06-18T23:35:18.966621+05:30'
-last_seen: '2026-07-02T04:11:05.403870+05:30'
-last_checked: '2026-07-02T04:11:05.403870+05:30'
+last_seen: '2026-07-02T15:03:25.790092+05:30'
+last_checked: '2026-07-02T15:03:25.790092+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langwatch
-- Stars: 3318
+- Stars: 3320
 - Forks: 325
 - Language: TypeScript
 - Topics: ai, analytics, datasets, dspy, evaluation, gpt, llm, llm-ops, llmops, low-code, observability, openai, prompt-engineering
-- Last Updated: 2026-07-01T14:33:24Z
+- Last Updated: 2026-07-02T06:32:36Z
 
 ## Possible Use Cases
 

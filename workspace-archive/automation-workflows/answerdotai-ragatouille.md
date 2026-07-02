@@ -1,44 +1,43 @@
 ---
-title: RAGatouille/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
-  at main · AnswerDotAI/RAGat
+title: AnswerDotAI/RAGatouille
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://github.com/AnswerDotAI/RAGatouille/blob/main/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
+source_url: https://github.com/AnswerDotAI/RAGatouille
 resource_id: github:answerdotai/ragatouille
 local_vault_path: ai/rag/answerdotai-ragatouille.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
-- models
+- github-repo
+- python
 - rag
-- web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
-# RAGatouille/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb at main · AnswerDotAI/RAGat
+# AnswerDotAI/RAGatouille
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **RAGatouille**: A GitHub repository by AnswerDotAI implementing Retrieval-Augmented Generation (RAG) with ColBERTv2 for efficient document retrieval and integration with LLMs.
+- **ColBERT Integration**: Provides modular, easy-to-use implementation of ColBERT (Contextualized Late Interaction over BERT) for high-performance late-interaction retrieval in RAG pipelines.
 
-- **Fine-tuning Pipeline**: Provides a Jupyter notebook (`03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb`) demonstrating fine-tuning of LLMs using instructor embeddings and RAGatouille for unsupervised annotation-free training.
+- **Research-Backed**: Built on state-of-the-art retrieval methods, ensuring optimized performance for dense retrieval tasks.
 
-- **Performance Metrics**: Supports 271 forks, 3.9k stars, and inc
+- **Python Framework**: Designed for flexibility, enabling seamless integration into existing RAG workflows with minimal overhead.
 
 ## Use Cases
 
@@ -48,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/AnswerDotAI/RAGatouille/blob/main/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
+Original source URL: https://github.com/AnswerDotAI/RAGatouille
 
 ## Local Vault File
 

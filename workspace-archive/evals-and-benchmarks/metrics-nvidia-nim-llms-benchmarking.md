@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Time to First Token (TTFT)**: Measures latency from query submission to first token output, including prompt tokenization, KV-cache generation, and network delays; scales with prompt length due to attention computation overhead.
-- **Inter-Token Latency (ITL)**: Average time between consecutive tokens (excluding TTFT in GenAI-Perf), reflecting decoding efficiency and memory bandwidth; critical for long-sequence generation where KV-cache growth impacts attention computation.
-- **Tokens Per Sec
+- **Time to First Token (TTFT)**: Measures latency from query submission to first output token, including request queuing, prefill time, and network latency; scales with prompt length due to KV-cache computation.
+- **Inter-Token Latency (ITL)**: Average time between consecutive tokens (excluding TTFT in GenAI-Perf), reflecting decoding efficiency and memory/attention computation performance.
+- **Tokens Per Second (TPS)**: System throughput metric calculated as total output tokens divided by time
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.datacamp.com/courses/machine-learning-in-the-tidyverse
-published_at: '2026-06-24T10:29:04.696855+05:30'
-collected_at: '2026-06-24T10:29:04.696869+05:30'
+published_at: '2026-07-02T15:14:31.058211+05:30'
+collected_at: '2026-07-02T15:14:31.058224+05:30'
 tags:
 - benchmark
 - dataset
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:machine-learning-in-the-tidyverse-course-datacamp
-first_seen: '2026-06-24T10:29:04.696869+05:30'
-last_seen: '2026-06-24T10:29:04.696869+05:30'
-last_checked: '2026-06-24T10:29:04.696869+05:30'
+first_seen: '2026-07-02T15:14:31.058224+05:30'
+last_seen: '2026-07-02T15:14:31.058224+05:30'
+last_checked: '2026-07-02T15:14:31.058224+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Data Wrangling with `tidyr`**: Use `tidyr` functions (`pivot_longer()`, `pivot_wider()`, `separate()`, `unite()`) to reshape and clean datasets into tidy format (long format) for consistent model input, ensuring each variable is a column and each observation is a row.
-
-- **Iterative Model Generation with `purrr`**: Employ `purrr::map()`, `pmap()`, or `cross_df()` to programmatically generate multiple model specifications (e.g., linear, random forest) across hyperparameters or datasets, enabling batch processing and reproducibility.
-
-- **Model Evaluation Pipeline**: Integrate `tidyr` for post-modeling data reshaping (e.g., tidying predictions/residuals) and `purrr` for automated performance metric calculations (e.g., `map_dbl()` for RMSE/R²) across models, facilitating comparative analysis.
+- Utilize `tidyr` for data wrangling, specifically reshaping data into tidy formats (e.g., `pivot_longer()`, `pivot_wider()`) to prepare datasets for machine learning pipelines.
+- Employ `purrr` for functional programming, enabling efficient model iteration, tuning, and evaluation via `map()`, `pmap()`, and `cross_df()` for hyperparameter grids.
+- Integrate with `tidymodels` ecosystem (e.g., `parsnip`, `recipes`) to streamline model generation, preprocessing, and performance assessment (e.g., `fit()`, `tune_grid()`).
 
 ## Why It Matters
 
@@ -37,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:29:04.696855+05:30
+- Published: 2026-07-02T15:14:31.058211+05:30
 
 ## Related Tags
 

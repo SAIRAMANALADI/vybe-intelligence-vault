@@ -8,7 +8,7 @@ local_vault_path: ai/rag/krishnaik06-rag-tutorials.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
@@ -17,7 +17,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # krishnaik06/RAG-Tutorials
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Repository Overview**: Jupyter Notebook-based tutorials focused on Retrieval-Augmented Generation (RAG) techniques, maintained by `krishnaik06`.
-- **Activity Metrics**: 362 stars, 330 forks, last updated on **July 2, 2026**.
-- **Technical Stack**: Primarily Python-based notebooks (Jupyter) for RAG implementations, with no explicit topic tags.
+- **Repository Focus**: Collection of Jupyter Notebooks demonstrating Retrieval-Augmented Generation (RAG) techniques, frameworks, and implementations.
+- **Technical Scope**: Covers end-to-end RAG pipelines, including document retrieval, embedding models, vector databases, and LLM integration.
+- **Educational Purpose**: Designed for hands-on learning of RAG architectures, optimized for experimentation with open-source tools like FAISS, LangChain, and Hugging Face models.
 
 ## Use Cases
 

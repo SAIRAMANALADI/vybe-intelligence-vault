@@ -2,7 +2,7 @@
 title: 'Scite: AI for Research'
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://www.scite.ai/
+source_url: https://scite.ai/
 resource_id: blog:scite-ai-for-research
 local_vault_path: ai/rag/scite-ai-for-research.md
 quality_score: 70
@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Smart Citation Analysis**: Classifies citations as supporting, contrasting, or mentioning, providing contextual evidence for research claims via AI-driven analysis of 1.6B+ indexed citations.
-
-- **Cross-Domain Research Integration**: Aggregates 280M+ full-text scholarly articles, patents, clinical trials, grants, preprints, and datasets with direct publisher agreements (e.g., Wiley, SAGE, 40+ others).
-
-- **Verifiable AI Research Assistant**: Delivers answers grounded in specific paper excerp
+- **Database & Coverage**: Aggregates 280M+ full-text scholarly articles, patents, preprints, books, and datasets with direct publisher agreements (e.g., Wiley, SAGE) and open-access sources, enabling full-text search beyond abstracts.
+- **Smart Citation Intelligence**: Classifies citations as supporting, contrasting, or mentioning with contextual sentence-level evidence, enabling evidence-weighted analysis of papers, authors, or institutions.
+- **Cross-Domain Integration**: Connects research ar
 
 ## Use Cases
 
@@ -50,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.scite.ai/
+Original source URL: https://scite.ai/
 
 ## Local Vault File
 

@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Repository for executing search benchmarks across multiple search providers to evaluate performance and accuracy.
-- **Technical Stack**: Implemented in Python, with no additional language dependencies or frameworks specified.
-- **Metadata**: Last updated on 2026-05-31, with minimal GitHub activity (11 stars, 1 fork).
+- **Purpose**: Repository for executing standardized search benchmarks across multiple search providers to evaluate performance and accuracy.
+- **Technical Stack**: Python-based evaluation framework with no additional dependencies listed.
+- **Metadata**: Minimal repository activity (1 fork, 11 stars) with last update in May 2026.
 
 ## Use Cases
 

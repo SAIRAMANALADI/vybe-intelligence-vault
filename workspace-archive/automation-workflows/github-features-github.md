@@ -8,7 +8,7 @@ local_vault_path: ai/rag/github-features-github.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: template
 importance: medium
 tags:
 - rag
@@ -17,7 +17,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # GitHub Features · GitHub
@@ -26,16 +26,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: tutorial
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **GitHub Copilot**: AI-powered code completion and generation within IDEs, offering whole-line or function-level suggestions; integrates with GitHub Advanced Security for automated vulnerability fixes (e.g., 90% alert remediation in JS/TS/Java/Python).
+- **GitHub Copilot**: AI-powered code completion and generation tool integrated into editors, providing real-time suggestions for lines, functions, or fixes (e.g., Copilot Autofix for 90% of CodeQL alerts in JS/TS/Java/Python).
 
-- **GitHub Actions & CI/CD**: Cloud-hosted (Linux/macOS/Windows/ARM/GPU) or self-hosted workflow automation with 10,000+ community actions; supports workflow visualization, templating, and dependency-aware security scanning (e.g., Dependabot al
+- **GitHub Actions & CI/CD**: Native automation platform with 10,000+ community actions, self-hosted/cloud runners (Linux/macOS/Windows/ARM/GPU), and workflow visualization/templates for standardized, scalable pipelines (e.g., Dependabot for dependency updates).
+
+- **Git
 
 ## Use Cases
 

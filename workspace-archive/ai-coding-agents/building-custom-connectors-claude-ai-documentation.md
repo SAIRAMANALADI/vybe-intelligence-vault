@@ -33,13 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Transport & Authentication**:
-  - Supports **Streamable HTTP** (legacy HTTP+SSE deprecated) and OAuth 2.0 with Dynamic Client Registration (DCR), token refresh, and custom credentials.
-  - OAuth callback URL: `https://claude.ai/api/mcp/auth_callback` (hosted) or loopback for Claude Code.
+- **Authentication**: Supports MCP auth specs (2025-03-26, 2025-06-18, 2025-11-25), Dynamic Client Registration (DCR), OAuth callback (`https://claude.ai/api/mcp/auth_callback`), token refresh/expiry, and custom credentials for non-DCR servers.
 
-- **Protocol Features**:
-  - Supports **tools, prompts, resources** (text/binary), and **image-based tool results**.
-  - **Unsupported**: Resource subscriptions, sampling, and advanced/draft capabilities.
+- **Transports & Limits**: Streamable HTTP is the primary transport (legacy HTTP+SSE deprecated); tool result limits: ~150k chars (Claude.ai/Desktop), 25k tokens (Claude Code), with configurable timeouts (300s default for Desktop, `MCP_TOOL_TIMEOUT` for
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-07-02T09:59:22.519071+05:30'
-collected_at: '2026-07-02T09:59:22.519084+05:30'
+published_at: '2026-07-02T15:08:25.323654+05:30'
+collected_at: '2026-07-02T15:08:25.323667+05:30'
 tags:
 - agents
 - creative_dev
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-07-02T09:59:22.519084+05:30'
-last_seen: '2026-07-02T09:59:22.519084+05:30'
-last_checked: '2026-07-02T09:59:22.519084+05:30'
+first_seen: '2026-07-02T15:08:25.323667+05:30'
+last_seen: '2026-07-02T15:08:25.323667+05:30'
+last_checked: '2026-07-02T15:08:25.323667+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting with built-in support for Gradio, Docker, and static HTML/JS apps, with optional GPU acceleration for performance-critical workloads.
+- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps via Gradio, Docker, or static HTML/JS, with optional GPU acceleration for performance-critical applications.
 
-- **Storage & Compute**: Supports disk usage monitoring, custom domains, and ZeroGPU configurations; integrates with GitHub Actions for CI/CD and supports MCP servers for agent-based workflows.
+- **Integration & Customization**: Supports dependency management, GitHub Actions for CI/CD, and embedding Spaces in external platforms; also allows custom Python/Docker configurations.
 
-- **Advanced Features**: Provides SDKs for Gradio/Streamlit/Docker, embedding capabilities, OAuth sign-in, and session trace formatting for debugging agent interactions.
+- **Storage & Performance**: Provides disk usage monitoring, ZeroGPU options for cost efficiency, and GPU upgrades for high-performance inference workloads.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T09:59:22.519071+05:30
+- Published: 2026-07-02T15:08:25.323654+05:30
 
 ## Related Tags
 

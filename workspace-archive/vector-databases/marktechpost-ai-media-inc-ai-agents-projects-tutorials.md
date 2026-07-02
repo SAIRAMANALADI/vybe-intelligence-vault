@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Systems Focus**: Repository specializes in multi-agent architectures, covering coordination, communication protocols, and distributed task execution in AI agents.
-
-- **Memory & Reasoning Integration**: Includes tutorials on implementing memory architectures (short/long-term) and reasoning loops (e.g., chain-of-thought, reflection) for agentic workflows.
-
-- **Tooling & Frameworks**: Demonstrates agentic development using frameworks like LangChain, CrewAI, and custom Jupyter Notebo
+- **Multi-agent systems**: Repository focuses on frameworks and tutorials for developing AI agents capable of collaboration, task delegation, and inter-agent communication.
+- **Memory & reasoning loops**: Includes projects demonstrating agentic memory architectures, planning algorithms, and iterative reasoning processes for complex workflows.
+- **Agentic RAG & workflows**: Features implementations of Retrieval-Augmented Generation (RAG) integrated with agentic systems for dynamic, context-aware
 
 ## Use Cases
 

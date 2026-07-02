@@ -4,17 +4,17 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/udecode/plate
-collected_at: '2026-07-02T04:11:05.451114+05:30'
-published_at: '2026-07-01T21:40:30Z'
+collected_at: '2026-07-02T15:03:25.495094+05:30'
+published_at: '2026-07-02T07:02:29Z'
 tags:
 - frontend_ui
-stars: 16376
+stars: 16377
 language: TypeScript
 status: active
 resource_id: github:udecode/plate
 first_seen: '2026-06-16T04:26:21.211228+00:00'
-last_seen: '2026-07-02T04:11:05.451114+05:30'
-last_checked: '2026-07-02T04:11:05.451114+05:30'
+last_seen: '2026-07-02T15:03:25.495094+05:30'
+last_checked: '2026-07-02T15:03:25.495094+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: udecode
-- Stars: 16376
+- Stars: 16377
 - Forks: 987
 - Language: TypeScript
 - Topics: ai, mcp, react, shadcn-ui, slate, typescript, wysiwyg
-- Last Updated: 2026-07-01T21:40:30Z
+- Last Updated: 2026-07-02T07:02:29Z
 
 ## Possible Use Cases
 

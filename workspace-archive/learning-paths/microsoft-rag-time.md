@@ -11,13 +11,13 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
 - models
 - openai
 - rag
+- reddit
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Learning Path**: 5-week structured guide covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization, HNSW indexing, and Matryoshka representation learning for efficient LLM retrieval augmentation.
+- **Learning Path**: 5-week structured curriculum covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and Matryoshka representation learning for efficient LLM integration.
 
-- **Tooling & Integration**: Hands-on labs using Azure, OpenAI APIs, and VS Code, with notebooks demonstrating multimodal RAG, responsible AI practices, and optimization for production-scale generative AI applications.
+- **Technical Stack**: Focuses on Azure-hosted Jupyter Notebooks, OpenAI/GPT models, HNSW for vector search, and VS Code integration, with modules on responsible AI and multimodal RAG.
 
-- **Performance Focu
+- **Optimization Focus**: Emphasizes indexing strategies (scalar/binary quan
 
 ## Use Cases
 

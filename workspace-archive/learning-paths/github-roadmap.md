@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Public Roadmap**: GitHub's official public roadmap repository tracks upcoming features and improvements for GitHub.com and GitHub Enterprise.
-- **Collaborative Tracking**: Issues in the repository serve as a transparent, community-driven system for feature requests, prioritization, and progress updates.
-- **Scheduled Updates**: Last modified on **2026-07-01**, indicating regular maintenance and alignment with GitHub's long-term development cycles.
+- **Public Roadmap Repository**: GitHub's official public roadmap (`github/roadmap`) tracks upcoming features and improvements for GitHub products, including GitHub.com and GitHub Enterprise.
+- **Community Engagement**: The repository (8.7k+ stars, 1.6k+ forks) allows users to view, discuss, and provide feedback on planned developments via GitHub Issues and Discussions.
+- **Last Updated**: The roadmap was last synchronized on **July 1, 2026**, reflecting the most recent updates to GitHub's devel
 
 ## Use Cases
 

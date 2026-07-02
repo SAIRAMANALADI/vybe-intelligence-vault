@@ -12,7 +12,9 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
+- anthropic
 - hackernews
+- openai
 - web-crawled
 - workflows
 - youtube
@@ -34,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-Ready Documentation Layer**: GitBook provides a structured knowledge layer for AI agents via built-in MCP (Model Context Protocol), enabling agents to query docs with structured access and providing analytics on tool usage and queries.
+- **GitBook** provides an **AI-ready documentation infrastructure** that ensures both **readability by agents** and **accuracy for human users**, addressing the challenge of maintaining up-to-date and reliable documentation as products evolve.
 
-- **Proactive Documentation Management**: GitBook Agent monitors docs in real-time, proactively suggesting improvements (e.g., updates, corrections) by analyzing support tickets, changelogs, and repositories to ensure accuracy and relevance.
+- **Key features** include **Git Sync** (auto-updating docs from product repos), **GitBook Agent** (proactively detecting stale content), and **AI Assistant** (enabling direct Q&A for users via embedded AI).
 
-- **Unified K
+- **Enterprise-grade security** (SOC 2, ISO 27
 
 ## Use Cases
 

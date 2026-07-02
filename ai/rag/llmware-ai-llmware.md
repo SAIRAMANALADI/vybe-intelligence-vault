@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/llmware-ai/llmware
-collected_at: '2026-07-02T09:58:15.131215+05:30'
+collected_at: '2026-07-02T15:07:33.788632+05:30'
 published_at: '2026-07-01T14:04:46Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 stars: 14815
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2023-09-29T15:19:06Z'
 pushed_at: '2026-05-17T13:53:37Z'
 resource_id: github:llmware-ai/llmware
-first_seen: '2026-07-02T09:58:15.131215+05:30'
-last_seen: '2026-07-02T09:58:15.131215+05:30'
-last_checked: '2026-07-02T09:58:15.131215+05:30'
+first_seen: '2026-07-02T15:07:33.788632+05:30'
+last_seen: '2026-07-02T15:07:33.788632+05:30'
+last_checked: '2026-07-02T15:07:33.788632+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Unified RAG Framework**: Provides a consolidated Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, domain-specialized models optimized for efficiency (e.g., ONNX, OpenVINO, llama.cpp).
-
-- **Multi-Model & Tool Integration**: Supports heterogeneous model architectures (LLMs, small specialized models) and integrates parsing, retrieval, and agent-based workflows for modular, scalable enterprise applications.
-
-- **Performance Optimization**: Leverages lightweight inference engines (e.g., ONNX Runtime, OpenVINO) and optimized backends (llama.cpp) to enable low-latency, high-throughput RAG deployments on commodity hardware.
+- **Unified RAG Framework**: Provides a Python-based, end-to-end pipeline for enterprise Retrieval-Augmented Generation (RAG) using small, specialized models optimized for efficiency (e.g., llama.cpp, ONNX, OpenVINO).
+- **Modular Architecture**: Supports parsing, retrieval, and generation with pluggable components for agents, LLM integration, and model quantization/acceleration.
+- **Enterprise Focus**: Designed for scalability with 14.8k+ GitHub stars, featuring last-updated optimizations (2026-07-01) for production-grade deployments.
 
 ## Why It Matters
 

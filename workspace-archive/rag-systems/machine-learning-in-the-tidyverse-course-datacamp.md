@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Wrangling with `tidyr`**: Use `tidyr` functions (`pivot_longer()`, `pivot_wider()`, `separate()`, `unite()`) to reshape and clean datasets into tidy format (long format) for consistent model input, ensuring each variable is a column and each observation is a row.
-
-- **Iterative Model Generation with `purrr`**: Employ `purrr::map()`, `pmap()`, or `cross_df()` to programmatically generate multiple model specifications (e.g., linear, random forest) across hyperparameters or datasets, enabl
+- Utilize `tidyr` for data wrangling, specifically reshaping data into tidy formats (e.g., `pivot_longer()`, `pivot_wider()`) to prepare datasets for machine learning pipelines.
+- Employ `purrr` for functional programming, enabling efficient model iteration, tuning, and evaluation via `map()`, `pmap()`, and `cross_df()` for hyperparameter grids.
+- Integrate with `tidymodels` ecosystem (e.g., `parsnip`, `recipes`) to streamline model generation, preprocessing, and performance assessment (e.g., `f
 
 ## Use Cases
 

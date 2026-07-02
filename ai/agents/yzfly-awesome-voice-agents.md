@@ -4,12 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzfly/awesome-voice-agents
-collected_at: '2026-07-02T09:56:29.955171+05:30'
-published_at: '2026-06-30T22:08:10Z'
+collected_at: '2026-07-02T15:06:58.716772+05:30'
+published_at: '2026-07-02T09:24:31Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - unknown
 stars: 34
 language: Unknown
@@ -17,11 +16,11 @@ status: active
 license: CC0-1.0
 archived: false
 created_at: '2025-11-03T02:20:30Z'
-pushed_at: '2026-06-30T22:08:06Z'
+pushed_at: '2026-07-02T09:24:27Z'
 resource_id: github:yzfly/awesome-voice-agents
-first_seen: '2026-07-02T09:56:29.955171+05:30'
-last_seen: '2026-07-02T09:56:29.955171+05:30'
-last_checked: '2026-07-02T09:56:29.955171+05:30'
+first_seen: '2026-07-02T15:06:58.716772+05:30'
+last_seen: '2026-07-02T15:06:58.716772+05:30'
+last_checked: '2026-07-02T15:06:58.716772+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`yzfly/awesome-voice-agents`) listing frameworks, tools, and best practices for voice AI agents, covering STT, TTS, VAD, voice cloning, conversion, recognition, and synthesis.
-- **Metadata**: 34 stars, 15 forks, last updated 2026-06-30; topics include `agents`, `realtime-chat`, and voice-related subfields.
-- **Scope**: Focuses on voice agent development, including real-time interaction, voice activity detection (VAD), and voice assistant technologies.
+- **Curated resource** for voice AI agent frameworks, tools, and best practices, covering STT, TTS, VAD, voice cloning, conversion, recognition, and synthesis.
+- **Topics include** realtime chat, voice assistants, and agent-based systems, with last update on 2026-07-02.
+- **Repository stats**: 34 stars, 15 forks, language unspecified, maintained by `yzfly`.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 15
 - Language: Unknown
 - Topics: agents, realtime-chat, stt, tts, vad, voice-activity-detection, voice-agents, voice-assistant, voice-cloning, voice-conversion, voice-recognition, voice-synthesis
-- Last Updated: 2026-06-30T22:08:10Z
+- Last Updated: 2026-07-02T09:24:31Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2025-11-03T02:20:30Z
-- Pushed At: 2026-06-30T22:08:06Z
+- Pushed At: 2026-07-02T09:24:27Z
 
 ## Possible Use Cases
 

@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic Workflow Optimization**: Repository provides structured methodologies to transition from *vibe coding* to *agentic engineering* using Claude Code, emphasizing systematic task decomposition, tool orchestration, and iterative refinement for complex AI-driven development workflows.
+- **Repository Overview**: Curated collection of best practices for transitioning from *vibe coding* to *agentic engineering* using Claude Code, covering workflow optimization, command structures, and skill development.
 
-- **Best Practices & Command Patterns**: Curated collection of *Claude Code* best practices, including optimized command sequences, context engineering techniques, and skill modules tailored for high-efficie
+- **Technical Focus**: Emphasizes *context engineering*, *agentic workflows*, and advanced *Claude Code* commands for Pakistani developers and global contributors.
+
+- **Resource Scope**: Includes HTML-based documentation, community-driven examples, and updates tracking Anthropic
 
 ## Use Cases
 

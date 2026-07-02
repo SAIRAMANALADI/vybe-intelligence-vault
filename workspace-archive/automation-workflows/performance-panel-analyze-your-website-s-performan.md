@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Real-time Core Web Vitals Monitoring**: The Performance panel in Chrome DevTools provides live tracking of **LCP (Largest Contentful Paint)**, **CLS (Cumulative Layout Shift)**, and **INP (Interaction to Next Paint)**, offering immediate scoring (Good/Needs Improvement/Poor) to assess real-user experience metrics.
+- **Core Web Vitals Monitoring**: The Performance panel in Chrome DevTools provides real-time tracking of **LCP (Largest Contentful Paint)**, **CLS (Cumulative Layout Shift)**, and **INP (Interaction to Next Paint)**, offering immediate scoring (Good/Needs Improvement/Poor) to assess Core Web Vitals under local conditions.
 
-- **Field Data Integration & Environment Throttling**: Enables comparison of local performance metrics with **Chrome UX Report (CrUX)** field data, with configurable throttling (C
+- **Field Data Integration & Environment Simulation**: Enables fetching **Chrome UX Report (CrUX)** field data for direct comparison between local metrics and real-user exper
 
 ## Use Cases
 

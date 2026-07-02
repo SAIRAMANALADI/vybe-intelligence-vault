@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-02T09:54:39.853649+05:30'
+collected_at: '2026-07-02T15:05:08.609492+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-02T09:54:39.853649+05:30'
-last_seen: '2026-07-02T09:54:39.853649+05:30'
-last_checked: '2026-07-02T09:54:39.853649+05:30'
+first_seen: '2026-07-02T15:05:08.609492+05:30'
+last_seen: '2026-07-02T15:05:08.609492+05:30'
+last_checked: '2026-07-02T15:05:08.609492+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) best practices tailored for Vietnamese language processing, leveraging Python-based pipelines for document retrieval and generation.
+- **Vietnamese RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) best practices tailored for Vietnamese language processing, leveraging Python-based pipelines.
 
-- **Modular Architecture**: Features a structured backend with components for embedding generation (e.g., using `sentence-transformers`), vector storage (e.g., FAISS or Chroma), and retrieval-augmented generation via LLMs (e.g., `vinai/PhoGPT`).
+- **Modular Architecture**: Features a structured backend with components for document retrieval, embedding generation (e.g., using `sentence-transformers`), and LLM integration (e.g., `vllm` or `transformers`).
 
-- **Localization Focus**: Optimizes for Vietnamese linguistic nuances (e.g., tokenization, stopwords, and embedding models like `bkai-foundation-models/vietnamese-embedding`) with end-to-end workflows for indexing and querying.
+- **Optimized Workflow**: Includes preprocessing (Vietnamese tokenization/normalization), vector storage (FAISS/ChromaDB), and retrieval-augmented generation with Vietnamese-specific LLMs (e.g., `PhoGPT`).
 
 ## Why It Matters
 

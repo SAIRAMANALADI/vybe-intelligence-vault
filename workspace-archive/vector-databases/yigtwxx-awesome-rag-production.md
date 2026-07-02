@@ -6,7 +6,7 @@ source_url: https://github.com/Yigtwxx/awesome-rag-production
 resource_id: github:yigtwxx/awesome-rag-production
 local_vault_path: ai/rag/yigtwxx-awesome-rag-production.md
 quality_score: 70
-archive_score: 83
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 83 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,8 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource**: A structured, community-maintained list of production-grade tools, frameworks, and best practices for **scalable RAG (Retrieval-Augmented Generation) systems**, covering end-to-end deployment challenges (e.g., embeddings, vector databases, LLMops).
-- **Technical Scope**: Focuses on **Python-based** solutions, integrating key components like **LangChain**, **LLMs**, **MLOps**, and **vector databases** (e.g., FAISS, Pinecone, Weaviate) for high-performance retrieval and gen
+- **Curated resources**: Repository aggregates production-grade tools, frameworks, and best practices for scalable RAG systems, including embeddings, vector databases, and LLMops workflows.
+- **Technical scope**: Covers Python-based implementations (e.g., LangChain) and MLOps integration for large language models (LLMs) and generative AI pipelines.
+- **Maintenance**: Last updated July 2026, with 134 stars and 33 forks, indicating active community engagement in AI engineering and RAG deployment.
 
 ## Use Cases
 

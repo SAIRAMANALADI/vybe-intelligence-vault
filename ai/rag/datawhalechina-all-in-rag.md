@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-07-02T09:53:44.926500+05:30'
-published_at: '2026-07-02T03:27:45Z'
+collected_at: '2026-07-02T15:04:08.585457+05:30'
+published_at: '2026-07-02T09:25:39Z'
 tags:
 - github-repo
 - hackernews
@@ -13,16 +13,16 @@ tags:
 - models
 - python
 - rag
-stars: 9111
+stars: 9122
 language: Python
 status: active
 archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-06-05T08:29:26Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-07-02T09:53:44.926500+05:30'
-last_seen: '2026-07-02T09:53:44.926500+05:30'
-last_checked: '2026-07-02T09:53:44.926500+05:30'
+first_seen: '2026-07-02T15:04:08.585457+05:30'
+last_seen: '2026-07-02T15:04:08.585457+05:30'
+last_checked: '2026-07-02T15:04:08.585457+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Development Guide**: A full-stack technical resource covering Retrieval-Augmented Generation (RAG) implementation, including model integration (DeepSeek, Kimi-K2), embedding techniques, and multimodal processing.
+- **Comprehensive RAG Guide**: Repository provides a full-stack technical guide for Retrieval-Augmented Generation (RAG) development, covering end-to-end implementation with Python.
 
-- **Toolchain Integration**: Demonstrates practical applications using LangChain, LlamaIndex, Milvus (vector DB), and Neo4j (graph DB) for efficient data retrieval and knowledge augmentation in Python-based pipelines.
+- **Toolchain Integration**: Supports multiple frameworks/languages (LangChain, LlamaIndex) and databases (Milvus, Neo4j) for embedding, multimodal processing, and vector search.
 
-- **Advanced Topics**: Addresses cutting-edge RAG optimizations, multi-modal data handling, and deployment strategies for large language models (LLMs) with up-to-date methodologies (last updated July 2026).
+- **LLM Compatibility**: Designed for compatibility with advanced models (DeepSeek, Kimi-K2) and includes multimodal RAG techniques.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 9111
-- Forks: 4532
+- Stars: 9122
+- Forks: 4539
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
-- Last Updated: 2026-07-02T03:27:45Z
+- Last Updated: 2026-07-02T09:25:39Z
 - Archived: No
 - Created At: 2025-06-05T08:12:35Z
 - Pushed At: 2026-06-05T08:29:26Z

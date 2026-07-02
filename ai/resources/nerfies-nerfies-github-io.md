@@ -4,22 +4,22 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/nerfies/nerfies.github.io
-collected_at: '2026-07-02T04:15:16.517433+05:30'
-published_at: '2026-07-01T00:12:55Z'
+collected_at: '2026-07-02T15:07:38.742860+05:30'
+published_at: '2026-07-02T07:51:01Z'
 tags:
 - github-repo
 - hackernews
 - javascript
-stars: 4256
+stars: 4258
 language: JavaScript
 status: active
 archived: false
 created_at: '2020-11-24T09:35:45Z'
 pushed_at: '2024-06-21T11:47:54Z'
 resource_id: github:nerfies/nerfies.github.io
-first_seen: '2026-07-02T04:15:16.517433+05:30'
-last_seen: '2026-07-02T04:15:16.517433+05:30'
-last_checked: '2026-07-02T04:15:16.517433+05:30'
+first_seen: '2026-07-02T15:07:38.742860+05:30'
+last_seen: '2026-07-02T15:07:38.742860+05:30'
+last_checked: '2026-07-02T15:07:38.742860+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository for Nerfies, a JavaScript-based project with 4,256 stars and 1,936 forks.
-- **Technical Stack**: Primarily utilizes JavaScript for implementation.
-- **Last Update**: Repository last updated on July 1, 2026.
+- **Repository Overview**: GitHub repository for Nerfies, a JavaScript-based project with 4,258 stars and 1,937 forks.
+- **Technical Details**: Primarily utilizes JavaScript; no additional topics or framework specifics listed.
+- **Update Status**: Last updated on July 2, 2026.
 
 ## Why It Matters
 
@@ -38,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: nerfies
-- Stars: 4256
-- Forks: 1936
+- Stars: 4258
+- Forks: 1937
 - Language: JavaScript
 - Topics: None
-- Last Updated: 2026-07-01T00:12:55Z
+- Last Updated: 2026-07-02T07:51:01Z
 - Archived: No
 - Created At: 2020-11-24T09:35:45Z
 - Pushed At: 2024-06-21T11:47:54Z

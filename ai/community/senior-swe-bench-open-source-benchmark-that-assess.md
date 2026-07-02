@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://senior-swe-bench.snorkel.ai
 hn_url: https://news.ycombinator.com/item?id=48755928
-score: 19
+score: 80
 author: matt_d
-comments_count: 10
+comments_count: 65
 published_at: '2026-07-02T08:25:16+05:30'
-collected_at: '2026-07-02T09:52:28.581223+05:30'
+collected_at: '2026-07-02T15:03:26.622513+05:30'
 tags:
 - agents
 - benchmark
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:senior-swe-bench-open-source-benchmark-that-assess
 first_seen: '2026-07-02T09:52:28.581223+05:30'
-last_seen: '2026-07-02T09:52:28.581223+05:30'
-last_checked: '2026-07-02T09:52:28.581223+05:30'
+last_seen: '2026-07-02T15:03:26.622513+05:30'
+last_checked: '2026-07-02T15:03:26.622513+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by matt_d. Score: 19, Comments: 10.
+Hacker News story by matt_d. Score: 80, Comments: 65.
 Original Link: https://senior-swe-bench.snorkel.ai/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: matt_d
-- Score: 19 Upvotes
-- Comments: 10 Discussions
+- Score: 80 Upvotes
+- Comments: 65 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48755928
 - Original Article: https://senior-swe-bench.snorkel.ai
 

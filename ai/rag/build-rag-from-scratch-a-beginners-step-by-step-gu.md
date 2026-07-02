@@ -5,17 +5,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd
-published_at: '2026-07-01T20:43:58.927327+05:30'
-collected_at: '2026-07-01T20:43:58.927337+05:30'
+published_at: '2026-07-02T15:04:24.751168+05:30'
+collected_at: '2026-07-02T15:04:24.751180+05:30'
 tags:
 - openai
 - rag
 - web-crawled
+- workflows
 status: active
 resource_id: blog:build-rag-from-scratch-a-beginners-step-by-step-gu
-first_seen: '2026-07-01T20:43:58.927337+05:30'
-last_seen: '2026-07-01T20:43:58.927337+05:30'
-last_checked: '2026-07-01T20:43:58.927337+05:30'
+first_seen: '2026-07-02T15:04:24.751180+05:30'
+last_seen: '2026-07-02T15:04:24.751180+05:30'
+last_checked: '2026-07-02T15:04:24.751180+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Implements a modular RAG system with document loading (`document_loader.py`), vector storage (`vector_store.py` using FAISS), and retrieval-augmented generation (`rag_chain.py`), enforcing context-grounded responses via a structured prompt template.
+- **RAG Pipeline**: Implements a retrieval-augmented generation system using LangChain, FAISS for vector storage, and OpenAI embeddings to ground responses in retrieved document chunks, preventing hallucinations by restricting answers to provided context.
 
-- **Semantic Retrieval Mechanism**: Utilizes OpenAI embeddings to convert document chunks and queries into dense vector representations, enabling FAISS-based similarity search to retrieve top-*k* relevant context snippets for downstream LLM generation.
+- **Modular Architecture**: Splits functionality into four core components—document loading/splitting, vector store creation, RAG chain construction, and user interaction—each isolated in separate Python modules for clarity and maintainability.
 
-- **Hallucination Mitigation**: Enforces strict answer generation constraints via a system prompt that restricts responses to retrieved context, returning "I don't know" for out-of-scope queries, ensuring factual grounding without external knowledge.
+- **Semantic Search Workflow**: Converts user queries into embeddings, performs similarity search in FAISS to retrieve top-k relevant text chunks, and feeds these as context to an LLM with a strict prompt enforcing "I don't know" responses when no answer exists in the documents.
 
 ## Why It Matters
 
@@ -37,13 +38,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T20:43:58.927327+05:30
+- Published: 2026-07-02T15:04:24.751168+05:30
 
 ## Related Tags
 
 - openai
 - rag
 - web-crawled
+- workflows
 
 ## Source
 

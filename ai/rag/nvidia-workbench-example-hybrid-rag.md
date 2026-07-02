@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-02T09:54:29.893712+05:30'
+collected_at: '2026-07-02T15:04:58.644111+05:30'
 published_at: '2026-06-30T16:45:55Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-02T09:54:29.893712+05:30'
-last_seen: '2026-07-02T09:54:29.893712+05:30'
-last_checked: '2026-07-02T09:54:29.893712+05:30'
+first_seen: '2026-07-02T15:04:58.644111+05:30'
+last_seen: '2026-07-02T15:04:58.644111+05:30'
+last_checked: '2026-07-02T15:04:58.644111+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document grounding in LLMs.
+- **Hybrid RAG Pipeline**: Implements a hybrid retrieval-augmented generation (RAG) system combining dense (vector) and sparse (BM25) retrieval methods to enhance context relevance in LLM responses.
 
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined deployment, containerization, and GPU-accelerated inference of the RAG system.
+- **NVIDIA AI Workbench Integration**: Demonstrates deployment and orchestration of the RAG pipeline using NVIDIA AI Workbench, leveraging GPU acceleration for efficient inference and retrieval.
 
-- **Python-Based Pipeline**: Provides a modular Python implementation with dependencies on libraries like LangChain, FAISS (for vector search), and NVIDIA's NeMo or Triton for LLM serving.
+- **Python-Based Implementation**: Provides a Python-based reference architecture with modular components for document processing, retrieval, and generation, optimized for NVIDIA GPUs.
 
 ## Why It Matters
 

@@ -13,8 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
-- scripts
 - unknown
 selection_reason:
 - Active open-source repository
@@ -32,9 +30,8 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Curated list of AI-driven hacking agents/tools, likely for offensive security research and penetration testing automation.
-- **Metadata**: 523 stars, 83 forks, last updated July 1, 2026 (future-dated, suggesting potential placeholder or experimental status).
-- **Technical Gap**: Language unspecified ("Unknown"), indicating either multi-language support or lack of clear documentation.
+*   Curated repository indexing AI agents specifically designed for offensive cybersecurity operations.
+*   Functions
 
 ## Use Cases
 

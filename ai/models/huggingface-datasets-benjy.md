@@ -5,7 +5,7 @@ source_type: huggingface_dataset
 source_name: Hugging Face Trending Datasets
 source_url: https://huggingface.co/datasets/benjy
 published_at: '2025-02-05T18:44:13.000Z'
-collected_at: '2026-07-01T15:44:51.372669+05:30'
+collected_at: '2026-07-02T15:03:25.351301+05:30'
 tags:
 - dataset
 - hf-dataset
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:datasets/benjy
 first_seen: '2026-06-22T15:16:20.631542+05:30'
-last_seen: '2026-07-01T15:44:51.372669+05:30'
-last_checked: '2026-07-01T15:44:51.372669+05:30'
+last_seen: '2026-07-02T15:03:25.351301+05:30'
+last_checked: '2026-07-02T15:03:25.351301+05:30'
 health_score: 100
 ---
 
@@ -22,7 +22,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face dataset: Benjy/typed_digital_signatures (Likes: 7, Downloads: 2141013)
+Trending Hugging Face dataset: Benjy/typed_digital_signatures (Likes: 7, Downloads: 2297744)
 
 ## Why It Matters
 

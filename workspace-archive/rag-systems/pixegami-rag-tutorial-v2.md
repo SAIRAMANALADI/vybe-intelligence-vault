@@ -8,14 +8,11 @@ local_vault_path: ai/rag/pixegami-rag-tutorial-v2.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: template
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
 - github-repo
-- meta-ai
-- mistral
-- models
 - python
 - rag
 selection_reason:
@@ -29,16 +26,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: template
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates a Langchain-based RAG pipeline leveraging local LLMs (e.g., Llama, Mistral) for offline inference, avoiding cloud API dependencies.
-- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma, FAISS) refresh mechanisms to incorporate new documents without full rebuilds.
-- **Testing Framework**: Includes unit/integration tests for RAG components (retriever, LLM, prompt templates) with evaluation metrics (e.g., retrieval accuracy, an
+- **Local LLM Integration**: Demonstrates implementation of Retrieval-Augmented Generation (RAG) using local language models (LLMs) via LangChain, eliminating dependency on cloud-based APIs.
+
+- **Dynamic Database Updates**: Implements mechanisms for real-time or incremental updates to the vector database (e.g., Chroma, FAISS), ensuring retrieval relevance with evolving data.
+
+- **Testing Framework**: Includes structured testing protocols for RAG pipelines, covering retrieval accuracy, response q
 
 ## Use Cases
 

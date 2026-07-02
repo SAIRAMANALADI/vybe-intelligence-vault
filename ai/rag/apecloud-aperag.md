@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/apecloud/ApeRAG
-collected_at: '2026-07-02T09:55:24.936326+05:30'
-published_at: '2026-07-02T04:21:51Z'
+collected_at: '2026-07-02T15:05:53.677249+05:30'
+published_at: '2026-07-02T09:31:06Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
-stars: 1225
+stars: 1233
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-06-20T12:18:12Z'
 pushed_at: '2026-05-02T05:01:36Z'
 resource_id: github:apecloud/aperag
-first_seen: '2026-07-02T09:55:24.936326+05:30'
-last_seen: '2026-07-02T09:55:24.936326+05:30'
-last_checked: '2026-07-02T09:55:24.936326+05:30'
+first_seen: '2026-07-02T15:05:53.677249+05:30'
+last_seen: '2026-07-02T15:05:53.677249+05:30'
+last_checked: '2026-07-02T15:05:53.677249+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal indexing**: Supports structured/unstructured data integration (text, graphs, embeddings) with hybrid retrieval for context-aware RAG pipelines.
-- **AI agents & MCP integration**: Enables autonomous agent workflows with Model Context Protocol (MCP) for dynamic tool orchestration and real-time knowledge updates.
-- **Kubernetes-native scalability**: Helm charts and modular microservices for distributed graph-based RAG deployment with horizontal scaling and fault tolerance.
+- **Multi-modal GraphRAG Engine**: Implements a production-ready GraphRAG system with support for text, structured, and unstructured data indexing, enabling enhanced contextual retrieval via knowledge graphs.
+
+- **AI Agents & MCP Integration**: Incorporates AI agents for autonomous reasoning and integrates with the Model Context Protocol (MCP) for standardized multi-model interactions and tool orchestration.
+
+- **Scalable Kubernetes Deployment**: Designed for horizontal scalability with Kubernetes-native deployment, supporting distributed processing and real-time updates for large-scale RAG applications.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: apecloud
-- Stars: 1225
-- Forks: 138
+- Stars: 1233
+- Forks: 139
 - Language: Python
 - Topics: agents, context-engineering, graphrag, knowledge-graph, mcp
-- Last Updated: 2026-07-02T04:21:51Z
+- Last Updated: 2026-07-02T09:31:06Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-06-20T12:18:12Z

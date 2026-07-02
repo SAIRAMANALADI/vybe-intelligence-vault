@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 11,930</p>
-        <p><b>Active:</b> 11,620 | <b>Inactive:</b> 310</p>
+        <p><b>Resources tracked:</b> 11,950</p>
+        <p><b>Active:</b> 11,640 | <b>Inactive:</b> 310</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 45,574</p>
+        <p><b>Archive Files:</b> 45,631</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-02 12:11 IST</p>
+        <p><b>Last Update:</b> 2026-07-02 15:21 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,16 +55,20 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+10</kbd>
-- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+10</kbd>
-- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+10</kbd>
-- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+10</kbd>
-- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+4</kbd>
+- 🔼 **[Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](ai/community/senior-swe-bench-open-source-benchmark-that-assess.md)** • <kbd>+61 pts</kbd>
+- 🔼 **[Optimize Interaction to Next Paint | web.dev](ai/resources/optimize-interaction-to-next-paint-web-dev.md)** • Rank: <kbd>+2735</kbd>
+- 🔼 **[NFL Sunday Ticket pricing & billing - YouTube TV Help](ai/rag/nfl-sunday-ticket-pricing-billing-youtube-tv-help.md)** • Rank: <kbd>+905</kbd>
+- 🔼 **[NFL Sunday Ticket for Business](ai/rag/nfl-sunday-ticket-for-business.md)** • Rank: <kbd>+70</kbd>
+- 🔼 **[Scite: AI for Research](ai/rag/scite-ai-for-research.md)** • Rank: <kbd>+65</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Kimi K2.7 Code is generally available in GitHub Copilot](ai/community/kimi-k2-7-code-is-generally-available-in-github-co.md)** • Score: `139`
+- 🆕 **[Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction](ai/community/asymmetric-quantization-near-lossless-retrieval-wi.md)** • Score: `22`
+- 🆕 **[Teach Browser](ai/resources/teach-browser.md)** • Score: `0`
+- 🆕 **[GitBook · GitHub](ai/agents/gitbook-github.md)** • Score: `0`
+- 🆕 **[GitBookIO/community](ai/resources/gitbookio-community.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.

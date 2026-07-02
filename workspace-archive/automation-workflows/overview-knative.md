@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Knative Architecture**: Comprises three core components—**Serving** (HTTP-triggered autoscaling container runtime with lifecycle management), **Eventing** (CloudEvents-based asynchronous event routing layer), and **Functions** (developer-focused framework for stateless function deployment)—all operating as Kubernetes CRDs for portability across environments.
+- **Knative Serving**: Kubernetes-native HTTP-triggered autoscaling runtime managing stateless workloads via CRDs (Services, Routes, Configurations, Revisions) with automatic scaling (0-to-N), traffic splitting, and ingress integration.
 
-- **Serving Mechanics**: Uses **Services, Routes, Configurations, and Revisions** to manage deployments, with automatic scaling (zero-
+- **Knative Eventing**: CloudEvents-compliant asynchronous event routing layer with loosely coupled components (Sources, Brokers, Triggers, Sinks) enabling event-driven architectures across heterogeneous systems.
+
+- **Knative Functions**: Developer-centric frame
 
 ## Use Cases
 

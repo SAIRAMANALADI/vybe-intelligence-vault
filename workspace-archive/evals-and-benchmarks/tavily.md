@@ -6,17 +6,12 @@ source_url: https://tavily.com
 resource_id: blog:tavily
 local_vault_path: ai/agents/tavily.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
-- anthropic
-- benchmark
-- dataset
-- models
-- openai
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -28,19 +23,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Real-time web data retrieval & extraction**: Provides structured, chunked web data via API for grounding LLMs, reducing hallucinations by ensuring fresh, factual context with real-time search and intelligent caching.
-
-- **Enterprise-grade scalability & security**: Handles 300M+ monthly requests with 99.99% uptime, 180ms p50 latency, and built-in safeguards (PII blocking, prompt injection detection, malicious source filtering) for production deployment.
-
-- **Benchmark-proven performance**: Ac
+- **Live Web Data Retrieval**: `tavily.search()` dynamically fetches real-time web data to provide fresh context for ground models.
+- **Structured Content Extraction**: Automatically extracts and chunks relevant information from retrieved sources, optimizing input for model reasoning.
+- **Hallucination Mitigation**: Enables models to reason over verified, up-to-date facts by grounding responses in structured, sourced content.
 
 ## Use Cases
 

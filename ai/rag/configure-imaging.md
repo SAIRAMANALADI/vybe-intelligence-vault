@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/imaging/#avif
-published_at: '2026-07-01T10:33:50.054830+05:30'
-collected_at: '2026-07-01T10:33:50.054846+05:30'
+published_at: '2026-07-02T15:09:16.100841+05:30'
+collected_at: '2026-07-02T15:09:16.100854+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:configure-imaging
-first_seen: '2026-07-01T10:33:50.054846+05:30'
-last_seen: '2026-07-01T10:33:50.054846+05:30'
-last_checked: '2026-07-01T10:33:50.054846+05:30'
+first_seen: '2026-07-02T15:09:16.100854+05:30'
+last_seen: '2026-07-02T15:09:16.100854+05:30'
+last_checked: '2026-07-02T15:09:16.100854+05:30'
 health_score: 100
 ---
 
@@ -23,15 +23,14 @@ health_score: 100
 
 ## Summary
 
-- **Image Processing Defaults**: Default settings include `anchor: smart`, `bgColor: #ffffff`, `resampleFilter: box`, and format-specific defaults (AVIF: `quality: 60`, `encoderSpeed: 10`; JPEG: `quality: 75`; WebP: `quality: 75`, `method: 2`).
+- **Image Processing Configurations**:
+  - Default settings include `anchor: smart`, `bgColor: #ffffff`, `resampleFilter: box`, with format-specific optimizations for AVIF (`quality: 60`, `encoderSpeed: 10`), JPEG (`quality: 75`), and WebP (`quality: 75`, `method: 2`).
 
-- **Format-Specific Configurations**:
-  - **AVIF**: Supports `lossy`/`lossless` compression, `encoderSpeed` (1-10), `hint` (`drawing`, `icon`, `photo`, etc.), and `quality` (1-100).
-  - **WebP**: Configurable via `compression`, `hint`, `method` (0-6), `quality` (1-100), and `useSharpYuv` (bool).
+- **Exif Metadata Control**:
+  - Excludes fields like `GPS`, `Exif`, `Contrast`, `Resolution`, etc., by default via `excludeFields`; supports customization via `includeFields` and `sources` (`exif`, `iptc`, `xmp`).
 
-- **Metadata Handling**:
-  - **Exif Filtering**: Excludes fields like `GPS`, `Exif`, `Exposure[MPB]`, etc., by default; configurable via `excludeFields`/`includeFields`.
-  - **Meta Method**: Controls extracted metadata granularity via `fields` (glob patterns) and `sources` (`exif`, `iptc`, `xmp`).
+- **Deprecated & Format-Specific Parameters**:
+  - Top-level `compression`, `hint`, and `quality` settings are deprecated (v0.163.0); replaced by format-specific equivalents (e.g., `imaging.avif.compression`, `imaging.webp.method`).
 
 ## Why It Matters
 
@@ -41,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T10:33:50.054830+05:30
+- Published: 2026-07-02T15:09:16.100841+05:30
 
 ## Related Tags
 

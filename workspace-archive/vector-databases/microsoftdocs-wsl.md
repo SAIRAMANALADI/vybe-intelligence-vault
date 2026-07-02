@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Single-command WSL installation**: Run `wsl --install` in **admin** PowerShell to enable WSL and install Ubuntu by default; requires Windows 10 (2004+) or Windows 11.
-- **Version management**: WSL 2 is default for new installs; toggle versions via `wsl --set-version <Distro> <1|2>` or set default with `wsl --set-default-version <1|2>`.
-- **Offline/advanced installs**: Use MSI + DISM (`dism.exe /online /enable-feature /featurename:VirtualMachinePlatform`) or import custom distros via `.wsl`/`
+- **WSL Installation**: Run `wsl --install` in **admin PowerShell** to enable WSL and install Ubuntu by default; requires Windows 10 (2004+) or Windows 11.
+- **Version Management**: WSL 2 is default for new installs; use `wsl --set-version <Distro> <1|2>` to switch versions or `wsl --set-default-version <1|2>` to set the default WSL version.
+- **Offline Install**: Download the WSL MSI package, enable `VirtualMachinePlatform` via `dism.exe`, and install distributions using `.wsl` files from [Dist
 
 ## Use Cases
 

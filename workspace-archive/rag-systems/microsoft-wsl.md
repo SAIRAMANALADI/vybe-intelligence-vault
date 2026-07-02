@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **WSL 2.9.3 introduces WSL Containers (WSLC) Public Preview**, enabling native Linux container management via a new `wslc` CLI tool, C++/C# SDK, and features like GPU support via CDI, multi-network attachment, and VHD-backed volumes with configurable UID/GID drivers.
+- **WSL 2.9.3 introduces WSL Containers (WSLC) Public Preview** with native Linux container support via `wslc` CLI, C++/C#-WinRT SDK, and features like GPU support (CDI), per-container resource limits, multi-network attachment, and VHD-backed volumes.
 
-- **Critical bug fixes** include resolution of `systemctl poweroff` VM termination blocks, use-after-free in virtiofs workers, IPv6 port leaks in Consomme networking, and `wslpath` translation errors for `\\wsl.localhost` paths.
+- **Critical bug fixes in 2.9.3** address use-after-free in virtiofs, IPv6 port leaks, `systemctl poweroff` hangs, `wslpath` translation errors, and VM termination timeouts, alongside security updates to .NET runtime (CVE-2026-45491) and MSRDC (CV
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Medium/medium-policy
-collected_at: '2026-07-02T10:00:26.927232+05:30'
+collected_at: '2026-07-02T15:09:24.834198+05:30'
 published_at: '2026-06-13T05:00:47Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2014-03-18T23:19:18Z'
 pushed_at: '2023-06-27T19:27:08Z'
 resource_id: github:medium/medium-policy
-first_seen: '2026-07-02T10:00:26.927232+05:30'
-last_seen: '2026-07-02T10:00:26.927232+05:30'
-last_checked: '2026-07-02T10:00:26.927232+05:30'
+first_seen: '2026-07-02T15:09:24.834198+05:30'
+last_seen: '2026-07-02T15:09:24.834198+05:30'
+last_checked: '2026-07-02T15:09:24.834198+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Purpose**: Contains Medium’s official policies and guidelines, governing user conduct, content moderation, and platform operations.
-- **Metadata**: 276 stars, 59 forks, last updated on 2026-06-13.
-- **Accessibility**: No explicit language specified; repository structure and documentation are not detailed in the provided metadata.
+- **Repository Overview**: Contains Medium's official policies and guidelines, though language/framework details are unspecified.
+- **Metadata**: 276 stars, 59 forks, last updated on **2026-06-13T05:00:47Z**.
+- **Access**: Available at [GitHub URL](https://github.com/Medium/medium-policy).
 
 ## Why It Matters
 

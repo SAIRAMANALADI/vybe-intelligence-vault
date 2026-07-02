@@ -2,7 +2,7 @@
 title: Get Started | DataCamp
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://app.datacamp.com/sandbox/get-started/python-openai
+source_url: https://app.datacamp.com/sandbox/get-started/python-anthropic
 resource_id: blog:get-started-datacamp
 local_vault_path: ai/rag/get-started-datacamp.md
 quality_score: 70
@@ -11,7 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- openai
+- anthropic
 - rag
 - web-crawled
 selection_reason:
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Authentication Methods**: Supports email/password login, Single Sign-On (SSO), and third-party OAuth via Google, LinkedIn, Facebook, and Apple.
-- **Session Persistence**: "Remember me" option enables persistent authentication via cookies.
-- **Data Compliance**: User data stored in the USA; login accepts Terms of Use and Privacy Policy.
+- **Authentication Methods**: Supports email/password login, Single Sign-On (SSO), and OAuth via Google, Microsoft, LinkedIn, Facebook, and Apple.
+- **Security & Compliance**: Enforces Terms of Use, Privacy Policy, and data storage in the USA per user agreement.
+- **Redirect Flow**: Post-authentication redirects to a sandbox environment (`python-anthropic`) with session persistence controlled via `remember_me` parameter.
 
 ## Use Cases
 
@@ -44,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://app.datacamp.com/sandbox/get-started/python-openai
+Original source URL: https://app.datacamp.com/sandbox/get-started/python-anthropic
 
 ## Local Vault File
 

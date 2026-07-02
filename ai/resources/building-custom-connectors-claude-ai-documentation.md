@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://claude.com/docs/connectors/building
-published_at: '2026-06-26T10:17:19.899387+05:30'
-collected_at: '2026-06-26T10:17:19.899399+05:30'
+published_at: '2026-07-02T15:10:15.774061+05:30'
+collected_at: '2026-07-02T15:10:15.774072+05:30'
 tags:
 - anthropic
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:building-custom-connectors-claude-ai-documentation
-first_seen: '2026-06-26T10:17:19.899399+05:30'
-last_seen: '2026-06-26T10:17:19.899399+05:30'
-last_checked: '2026-06-26T10:17:19.899399+05:30'
+first_seen: '2026-07-02T15:10:15.774072+05:30'
+last_seen: '2026-07-02T15:10:15.774072+05:30'
+last_checked: '2026-07-02T15:10:15.774072+05:30'
 health_score: 100
 ---
 
@@ -23,17 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Transport & Authentication**:
-  - Supports **Streamable HTTP** (legacy HTTP+SSE deprecated) and OAuth 2.0 with Dynamic Client Registration (DCR), token refresh, and custom credentials.
-  - OAuth callback URL: `https://claude.ai/api/mcp/auth_callback` (hosted) or loopback for Claude Code.
+- **Authentication**: Supports MCP auth specs (2025-03-26, 2025-06-18, 2025-11-25), Dynamic Client Registration (DCR), OAuth callback (`https://claude.ai/api/mcp/auth_callback`), token refresh/expiry, and custom credentials for non-DCR servers.
 
-- **Protocol Features**:
-  - Supports **tools, prompts, resources** (text/binary), and **image-based tool results**.
-  - **Unsupported**: Resource subscriptions, sampling, and advanced/draft capabilities.
+- **Transports & Limits**: Streamable HTTP is the primary transport (legacy HTTP+SSE deprecated); tool result limits: ~150k chars (Claude.ai/Desktop), 25k tokens (Claude Code), with configurable timeouts (300s default for Desktop, `MCP_TOOL_TIMEOUT` for Code).
 
-- **Technical Constraints**:
-  - **Claude.ai/Desktop**: ~150K chars/tool result, 300s timeout.
-  - **Claude Code**: 25K tokens/tool result (configurable), configurable timeout via `MCP_TOOL_TIMEOUT`.
+- **Protocol Features**: Supports tools, prompts, resources (text/binary), and image-based tool results; lacks resource subscriptions, sampling, and advanced/draft capabilities.
 
 ## Why It Matters
 
@@ -43,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-26T10:17:19.899387+05:30
+- Published: 2026-07-02T15:10:15.774061+05:30
 
 ## Related Tags
 

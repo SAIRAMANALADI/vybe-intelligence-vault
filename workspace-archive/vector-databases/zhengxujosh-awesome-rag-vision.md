@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
+- dataset
 - github-repo
 - hackernews
 - rag
@@ -32,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource**: A structured collection of advanced RAG techniques specifically tailored for Computer Vision applications, including multimodal retrieval and generation methods.
+- **Curated RAG-Vision Resources**: A specialized repository aggregating advanced retrieval-augmented generation (RAG) techniques tailored for computer vision applications, including multimodal models, vision-language integration, and contextual retrieval methods.
 
-- **Repository Metrics**: 337 stars, 9 forks, last updated June 29, 2026, with no explicit primary language or topics listed.
+- **Multimodal RAG Frameworks**: Highlights cutting-edge frameworks combining vision encoders (e.g., ViT, CLIP) with RAG architectures to enhance zero-shot learning, image captioning, and visual question answering.
 
-- **Focus Area**: Encompasses cutting-edge RAG frameworks, benchmarks, and tools bridging vision-language models, retrieval systems, and generative AI for visual data.
+- **Benchmark & Ev
 
 ## Use Cases
 

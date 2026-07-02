@@ -8,13 +8,13 @@ local_vault_path: ai/rag/medium-partner-program.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - rag
 - web-crawled
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Medium Partner Program
@@ -23,15 +23,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Earnings Model**: Writers earn revenue based on member engagement metrics—30+ second read time, claps, highlights, replies, follows, and Boosted story interactions—with payouts scaling with deeper reader engagement.
-- **Quality Focus**: Medium’s Partner Program prioritizes long-form, thoughtful content over clickbait, rewarding sustained read time and positive interactions to align with its mission of deepening collective wisdom.
-- **Calculation & Support**: Earnings are computed using total
+- **Earnings Model**: Medium Partner Program compensates writers based on member engagement metrics, including read time (≥30s), claps, highlights, replies, new follows, and Boosted story interactions, prioritizing quality over clickbait.
+
+- **Boost & Follower Bonuses**: Writers earn additional revenue for follower retention and Boosted stories, incentivizing community growth and high-quality content curation.
+
+- **Calculation Framework**: Earnings are derived from aggregated engagement data (vi
 
 ## Use Cases
 

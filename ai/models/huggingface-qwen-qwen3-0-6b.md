@@ -4,16 +4,16 @@ category: ai/models
 source_type: huggingface_model
 source_name: Hugging Face Trending Models
 source_url: https://huggingface.co/qwen/qwen3-0.6b
-published_at: '2026-07-02T09:52:28.474444+05:30'
-collected_at: '2026-07-02T09:52:28.474453+05:30'
+published_at: '2026-07-02T15:03:25.207709+05:30'
+collected_at: '2026-07-02T15:03:25.207715+05:30'
 tags:
 - hf-model
 - huggingface
 status: active
 resource_id: huggingface:qwen/qwen3-0.6b
 first_seen: '2026-06-18T23:35:18.374849+05:30'
-last_seen: '2026-07-02T09:52:28.474453+05:30'
-last_checked: '2026-07-02T09:52:28.474453+05:30'
+last_seen: '2026-07-02T15:03:25.207715+05:30'
+last_checked: '2026-07-02T15:03:25.207715+05:30'
 health_score: 100
 ---
 
@@ -21,7 +21,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1376, Downloads: 27983322)
+Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1377, Downloads: 28147234)
 
 ## Why It Matters
 
@@ -31,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Trending Models
 - Category: ai/models
-- Published: 2026-07-02T09:52:28.474444+05:30
+- Published: 2026-07-02T15:03:25.207709+05:30
 
 ## Related Tags
 

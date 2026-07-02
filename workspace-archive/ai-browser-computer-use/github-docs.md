@@ -2,7 +2,7 @@
 title: GitHub Docs
 archive_category: ai-browser-computer-use
 source_category: ai/agents
-source_url: https://docs.github.com/
+source_url: https://docs.github.com
 resource_id: blog:github-docs
 local_vault_path: ai/agents/github-docs.md
 quality_score: 70
@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Core Functionality**: GitHub relies on Git for version control, supports SSH for secure remote connections, and enables repository creation/management for collaborative development workflows.
+- **Core GitHub Functionality**: GitHub integrates Git for version control, supports SSH for secure remote access, and provides repository management for collaborative development workflows.
 
-- **Collaboration & Automation**: Pull requests facilitate code review and merging, GitHub Actions enables CI/CD pipelines, and GitHub Copilot provides AI-driven code suggestions within IDEs.
+- **Security & Automation**: GitHub Actions enables CI/CD pipelines, CodeQL supports vulnerability scanning, and Copilot offers AI-driven code suggestions within IDEs.
 
-- **Security & Extensibility**: GitHub offers security features like secret management and vulnerabilit
+- **API & Integration**: REST/GraphQL APIs, webhooks, and GitHub Apps facilitate custom integrations, while enterprise features include org
 
 ## Use Cases
 
@@ -46,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.github.com/
+Original source URL: https://docs.github.com
 
 ## Local Vault File
 

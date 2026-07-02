@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://console.neo4j.org/?id=vrs4
-published_at: '2026-06-24T20:46:05.343523+05:30'
-collected_at: '2026-06-24T20:46:05.343535+05:30'
+published_at: '2026-07-02T15:08:29.989576+05:30'
+collected_at: '2026-07-02T15:08:29.989588+05:30'
 tags:
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:neo4j-console
-first_seen: '2026-06-24T20:46:05.343535+05:30'
-last_seen: '2026-06-24T20:46:05.343535+05:30'
-last_checked: '2026-06-24T20:46:05.343535+05:30'
+first_seen: '2026-07-02T15:08:29.989588+05:30'
+last_seen: '2026-07-02T15:08:29.989588+05:30'
+last_checked: '2026-07-02T15:08:29.989588+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Interactive Graph Management**: The Neo4j Console allows real-time graph modifications via Cypher queries, enabling node creation (`CREATE (neo:Person { name : "Neo" })`) and relationship establishment (`CREATE (neo)-[:KNOWS {since:"2 days"}]->(morpheus)`).
-
-- **Querying Capabilities**: Supports complex graph traversals and updates using Cypher, e.g., `MATCH (user:Person {name:"Neo"})-[:KNOWS]->(friend) WHERE friend.age > 20 RETURN user,friend ORDER BY friend.age LIMIT 10`.
-
-- **Hosting & Access**: The console is hosted on Heroku with open-source code available on GitHub; users can share graphs via generated URLs or embed HTML snippets.
+*   Provides an interactive, visualized console for Neo4j graph databases, supporting real-time graph manipulation and querying.
+*   Leverages Cypher for all graph operations, including node/relationship creation (`CREATE`) and complex pattern matching/filtering (`MATCH`, `WHERE`, `RETURN`), with selectable Cypher compiler versions (e.g., 3.0-cost, 2.3-rule).
+*   Facilitates sharing and embedding of graph states and queries via parameterized URLs or HTML snippets, allowing for version control and initial graph setup configuration.
 
 ## Why It Matters
 
@@ -36,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T20:46:05.343523+05:30
+- Published: 2026-07-02T15:08:29.989576+05:30
 
 ## Related Tags
 

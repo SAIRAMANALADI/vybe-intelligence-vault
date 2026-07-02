@@ -2,7 +2,7 @@
 title: Overview | GitBook Documentation
 archive_category: agent-frameworks
 source_category: ai/agents
-source_url: https://gitbook.com/docs
+source_url: https://gitbook.com/docs/
 resource_id: blog:overview-gitbook-documentation
 local_vault_path: ai/agents/overview-gitbook-documentation.md
 quality_score: 70
@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-native documentation platform** enabling dynamic, self-improving guides, API references, and product documentation with intelligent tools.
+- **AI-native documentation platform** enabling creation of product guides, API references, and user-centric docs with intelligent, self-improving tools.
 
 - **Block-based editor** for structured content creation with Git synchronization support for docs-as-code workflows.
 
-- **AI-powered features** including GitBook Agent, Assistant, MCP servers, and LLM-ready documentation for enhanced search and automation.
+- **AI-powered features** including GitBook Agent, Assistant, MCP servers, and LLM-ready documentation for enhanced search and automation capabilities.
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://gitbook.com/docs
+Original source URL: https://gitbook.com/docs/
 
 ## Local Vault File
 

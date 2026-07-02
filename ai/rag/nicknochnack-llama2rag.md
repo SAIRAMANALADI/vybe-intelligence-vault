@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/nicknochnack/Llama2RAG
-collected_at: '2026-07-02T09:54:34.867002+05:30'
+collected_at: '2026-07-02T15:05:03.611256+05:30'
 published_at: '2026-05-24T09:34:54Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-08-18T00:18:33Z'
 pushed_at: '2023-08-18T00:23:09Z'
 resource_id: github:nicknochnack/llama2rag
-first_seen: '2026-07-02T09:54:34.867002+05:30'
-last_seen: '2026-07-02T09:54:34.867002+05:30'
-last_checked: '2026-07-02T09:54:34.867002+05:30'
+first_seen: '2026-07-02T15:05:03.611256+05:30'
+last_seen: '2026-07-02T15:05:03.611256+05:30'
+last_checked: '2026-07-02T15:05:03.611256+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Implements a Retrieval-Augmented Generation (RAG) system.
-*   Utilizes the Llama 2 70b large language model.
-*   Leverages Llama Index for RAG framework orchestration, presented as a Jupyter Notebook.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model and LlamaIndex for document retrieval and generation.
+- **Format**: Jupyter Notebook-based repository with structured code for end-to-end RAG pipeline.
+- **Update Status**: Last modified on **2026-05-24**, indicating active maintenance or future-proofing.
 
 ## Why It Matters
 

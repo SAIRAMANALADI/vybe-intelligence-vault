@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/github/roadmap
-collected_at: '2026-07-02T10:00:16.898097+05:30'
+collected_at: '2026-07-02T15:09:19.865231+05:30'
 published_at: '2026-07-01T15:43:27Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2020-03-31T21:35:07Z'
 pushed_at: '2024-10-15T17:31:37Z'
 resource_id: github:github/roadmap
-first_seen: '2026-07-02T10:00:16.898097+05:30'
-last_seen: '2026-07-02T10:00:16.898097+05:30'
-last_checked: '2026-07-02T10:00:16.898097+05:30'
+first_seen: '2026-07-02T15:09:19.865231+05:30'
+last_seen: '2026-07-02T15:09:19.865231+05:30'
+last_checked: '2026-07-02T15:09:19.865231+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Public Roadmap**: GitHub's official public roadmap repository tracks upcoming features and improvements for GitHub.com and GitHub Enterprise.
-- **Collaborative Tracking**: Issues in the repository serve as a transparent, community-driven system for feature requests, prioritization, and progress updates.
-- **Scheduled Updates**: Last modified on **2026-07-01**, indicating regular maintenance and alignment with GitHub's long-term development cycles.
+- **Public Roadmap Repository**: GitHub's official public roadmap (`github/roadmap`) tracks upcoming features and improvements for GitHub products, including GitHub.com and GitHub Enterprise.
+- **Community Engagement**: The repository (8.7k+ stars, 1.6k+ forks) allows users to view, discuss, and provide feedback on planned developments via GitHub Issues and Discussions.
+- **Last Updated**: The roadmap was last synchronized on **July 1, 2026**, reflecting the most recent updates to GitHub's development priorities.
 
 ## Why It Matters
 

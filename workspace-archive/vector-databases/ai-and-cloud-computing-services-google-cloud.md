@@ -2,13 +2,13 @@
 title: AI and Cloud Computing Services | Google Cloud
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://cloud.google.com/?hl=en
+source_url: https://cloud.google.com
 resource_id: blog:ai-and-cloud-computing-services-google-cloud
 local_vault_path: ai/rag/ai-and-cloud-computing-services-google-cloud.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -22,7 +22,7 @@ tags:
 - threejs
 - web-crawled
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # AI and Cloud Computing Services | Google Cloud
@@ -31,17 +31,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: mcp-server
+- Resource kind: dataset
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Google AI Threat Defense**: New security framework leveraging AI to proactively detect, analyze, and mitigate advanced cyber threats in real-time, integrating with Google Cloud’s threat intelligence and Mandiant services.
+- **Gemini Enterprise Agent Platform**: Fully-managed AI development platform for building, orchestrating, and governing AI agents with access to Agent Studio and 200+ foundation models, enabling rapid deployment of multi-agent systems.
 
-- **Gemini Enterprise Agent Platform**: Unified platform for developing, orchestrating, and governing AI agents, featuring Agent Studio, remote MCP server support, and access to 200+ foundation models for enterprise-grade deployments.
+- **Google AI Threat Defense**: Introduces agentic defense mechanisms leveraging AI to proactively detect, analyze, and mitigate advanced cyber threats, enhancing real-time threat intelligence and response capabilities.
 
-- **AI Infrastructure Scaling**: Next
+- **AI Infrastructure Scaling**: Google C
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://cloud.google.com/?hl=en
+Original source URL: https://cloud.google.com
 
 ## Local Vault File
 

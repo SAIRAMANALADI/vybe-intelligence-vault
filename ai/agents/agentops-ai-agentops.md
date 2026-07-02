@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AgentOps-AI/agentops
-collected_at: '2026-07-02T09:56:45.034133+05:30'
-published_at: '2026-07-02T02:44:11Z'
+collected_at: '2026-07-02T15:07:13.792148+05:30'
+published_at: '2026-07-02T07:39:43Z'
 tags:
 - agents
 - anthropic
@@ -16,7 +16,7 @@ tags:
 - models
 - openai
 - python
-stars: 5673
+stars: 5675
 language: Python
 status: active
 license: MIT
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-08-15T23:26:23Z'
 pushed_at: '2026-06-25T08:25:03Z'
 resource_id: github:agentops-ai/agentops
-first_seen: '2026-07-02T09:56:45.034133+05:30'
-last_seen: '2026-07-02T09:56:45.034133+05:30'
-last_checked: '2026-07-02T09:56:45.034133+05:30'
+first_seen: '2026-07-02T15:07:13.792148+05:30'
+last_seen: '2026-07-02T15:07:13.792148+05:30'
+last_checked: '2026-07-02T15:07:13.792148+05:30'
 health_score: 100
 ---
 
@@ -34,9 +34,11 @@ health_score: 100
 
 ## Summary
 
-- Python SDK for comprehensive AI agent monitoring, LLM cost tracking, and benchmarking with multi-framework support (CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, CamelAI)
-- Integrates with major LLM providers (OpenAI, Anthropic, Mistral, Groq, Ollama) and supports cost estimation, evaluation metrics, and evals
-- 5,673+ GitHub stars, last updated July 2026, designed for production-grade agent observability and performance analysis
+- **Python SDK** for AI agent monitoring, LLM cost tracking, benchmarking, and evaluation metrics integration with frameworks like CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI.
+
+- **Multi-LLM Support**: Compatible with major LLM providers (OpenAI, Anthropic, Mistral, Groq, Ollama) and agent frameworks, enabling cross-platform agent performance analysis.
+
+- **Features**: Real-time monitoring, cost estimation, evaluation metrics, and benchmarking with last update on **2026-07-02**; open-source under MIT License with **5,675 stars** and **603 forks**.
 
 ## Why It Matters
 
@@ -45,11 +47,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: AgentOps-AI
-- Stars: 5673
+- Stars: 5675
 - Forks: 603
 - Language: Python
 - Topics: agent, agentops, agents-sdk, ai, anthropic, autogen, cost-estimation, crewai, evals, evaluation-metrics, groq, langchain, llm, mistral, ollama, openai, openai-agents
-- Last Updated: 2026-07-02T02:44:11Z
+- Last Updated: 2026-07-02T07:39:43Z
 - License: MIT
 - Archived: No
 - Created At: 2023-08-15T23:26:23Z

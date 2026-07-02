@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Auto Model Selection for Enterprises**: GitHub introduces default auto model selection for enterprises, optimizing AI model choices based on workload requirements without manual intervention.
-
-- **Integration with Client Apps & Copilot**: Enhanced compatibility with client applications and GitHub Copilot, ensuring seamless AI-driven workflows and automation across enterprise tools.
-
-- **Enterprise Management Tools Enhancement**: Updated enterprise management tools to support auto model selec
+- **General Availability (GA) of Issue Fields**: GitHub Issue Fields are now generally available, enabling custom metadata fields for enhanced issue tracking and workflow customization across repositories.
+- **Enhanced Issue Metadata Management**: Users can define and utilize custom fields (e.g., dropdowns, text, numbers) to standardize and enrich issue data, improving categorization and automation in project workflows.
+- **Integration with Projects & Issues**: Issue Fields integrate seamlessly
 
 ## Use Cases
 

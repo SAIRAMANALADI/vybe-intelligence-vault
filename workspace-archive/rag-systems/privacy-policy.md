@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection Scope**: Collects identifiers (name, email, phone), financial details, professional info, user-generated content (publications, comments), and device/browser metadata (IP, geolocation) via direct input, third-party auth (ORCiD, Google), cookies, and public sources.
+- **Data Collection Scope**: Scite collects multiple categories of personal data, including identifiers (name, email, phone), financial details, professional information, user-generated content (publications, comments), and device metadata (IP, geolocation, browser type), with explicit consent required for sensitive data like payment information.
 
-- **Cookie & Tracking Policies**: Uses strictly necessary, analytics (Google Analytics), functional, and targeting cookies; adheres to Global Privacy Control opt-out but ignores "Do Not Track" signals; third-party
+- **Cookie & Tracking Policies**: Uses strict, analytics, functional, and targeting cookies (via Google Analytics and third parties) to track user beh
 
 ## Use Cases
 
