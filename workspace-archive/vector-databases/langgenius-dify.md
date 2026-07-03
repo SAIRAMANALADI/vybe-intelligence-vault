@@ -14,6 +14,7 @@ tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - models
 - openai
 - rag
@@ -36,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic Workflow Platform**: Open-source, production-ready framework for building, deploying, and orchestrating agentic AI workflows with low-code/no-code capabilities, supporting LLM integrations (e.g., OpenAI, GPT-4, Gemini) and RAG pipelines.
+- **Platform Overview**: Dify is a production-ready, open-source platform for building agentic workflows, enabling orchestration of LLMs (e.g., GPT-4, Gemini), RAG, and MCP integrations with low/no-code tooling.
 
-- **Multi-Language Support**: Core backend in Python for workflow orchestration, with a Next.js (TypeScript) frontend for UI/UX, enabling MCP (Model Context Protocol) and tool integration.
+- **Technical Stack**: Built with **TypeScript** (frontend: Next.js) and **Python** (backend), supporting AI automation, workflow orchestration, and multi-agent systems.
 
-- **Enterprise Features**: Includes built-in RAG, automatio
+- **Key Features**: Supports **multi-model LLMs**, **RAG pipelines**, **MCP integration**, and **visual workflow edi
 
 ## Use Cases
 

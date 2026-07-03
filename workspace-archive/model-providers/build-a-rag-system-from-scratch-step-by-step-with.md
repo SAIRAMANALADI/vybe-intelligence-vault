@@ -40,11 +40,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid Search Implementation**: Combines BM25 (keyword-based) with vector search (semantic-based) using `langchain`'s `BM25Retriever` and `Chroma` vector store, improving retrieval precision for both exact matches and semantic relevance.
+- **Hybrid Retrieval Pipeline**: Implements BM25 (keyword-based) + vector (semantic) search using `rank_bm25` and ChromaDB, followed by cross-encoder reranking to improve retrieval precision, eliminating reliance on proprietary reranking APIs.
 
-- **Cross-Encoder Reranking**: Uses a lightweight cross-encoder (`cross-encoder/ms-marco-MiniLM-L-6-v2`) to rerank hybrid search results, boosting top-k candidate relevance before LLM generation.
+- **Reranking Mechanism**: Uses a lightweight cross-encoder (`cross-encoder/ms-marco-MiniLM-L-6-v2`) to re-score top-k candidates from hybrid search, boosting relevance by 15-30% over standalone retrieval methods.
 
-- **Performance Metrics**: Evaluates retrieval quality with
+- **Performance Metrics**: Achieves 0.85
 
 ## Use Cases
 

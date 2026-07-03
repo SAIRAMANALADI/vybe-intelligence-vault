@@ -1,5 +1,5 @@
 ---
-title: Reality has a surprising amount of detail
+title: Reality has a surprising amount of detail (2017)
 archive_category: automation-workflows
 source_category: ai/community
 source_url: https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail
@@ -18,7 +18,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Reality has a surprising amount of detail
+# Reality has a surprising amount of detail (2017)
 
 ## Why This Is In The Archive
 
@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by vinhnx. Score: 23, Comments: 6.
+Hacker News story by vinhnx. Score: 261, Comments: 99.
 Original Link: https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail
 
 ## Use Cases

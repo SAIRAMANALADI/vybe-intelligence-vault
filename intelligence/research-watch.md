@@ -21,13 +21,13 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | ["Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills in the Wild](https://arxiv.org/abs/2602.06547) | `ai-coding-agents/` | 70 |
 | [Geometric Measurements of the Axiom of Choice in Neural Proof Embeddings](https://arxiv.org/abs/2606.28572) | `ai-coding-agents/` | 70 |
 | [The Verification Horizon: No Silver Bullet for Coding Agent Rewards](https://arxiv.org/abs/2606.26300) | `ai-coding-agents/` | 70 |
+| [Coding-agents can replicate scientific machine learning papers](https://arxiv.org/abs/2607.02134) | `ai-coding-agents/` | 70 |
+| [Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228) | `ai-coding-agents/` | 70 |
+| [TestEvo-Bench: An Executable and Live Benchmark for Test and Code Co-Evolution](https://arxiv.org/abs/2607.02469) | `ai-coding-agents/` | 70 |
 | [LemonHarness Technical Report](https://arxiv.org/abs/2606.24311) | `ai-coding-agents/` | 70 |
 | [Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/abs/2602.11988) | `ai-coding-agents/` | 70 |
+| [Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases](https://arxiv.org/abs/2607.01425) | `ai-coding-agents/` | 70 |
 | [Toward Generalist Autonomous Research via Hypothesis-Tree Refinement](https://arxiv.org/abs/2606.11926) | `ai-coding-agents/` | 70 |
 | [AeroCast: Probabilistic 3D Trajectory Prediction for Non-Cooperative Aerial Obstacles via Transformer-MDN Architecture](https://arxiv.org/abs/2606.25122) | `ai-coding-agents/` | 70 |
-| [Understanding Diversity Collapse in RLVR via the Lens of Overtraining](https://arxiv.org/abs/2606.15455) | `ai-coding-agents/` | 70 |
-| [PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329) | `ai-coding-agents/` | 70 |
-| [Fin-RATE: A Real-world Financial Analytics and Tracking Evaluation Benchmark for LLMs on SEC Filings](https://arxiv.org/abs/2602.07294) | `ai-coding-agents/` | 70 |
-| [It Lied to a Doctor to Buy Poison Ingredients: Quantifying Real-World Misuse of Phone-use Agents](https://arxiv.org/abs/2606.27944) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-07-03T03:52:55.206601+05:30'
+collected_at: '2026-07-03T15:09:21.823663+05:30'
 published_at: '2026-07-02T18:49:01Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - typescript
-- workflows
 stars: 8229
 language: TypeScript
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-07-03T03:52:55.206601+05:30'
-last_seen: '2026-07-03T03:52:55.206601+05:30'
-last_checked: '2026-07-03T03:52:55.206601+05:30'
+first_seen: '2026-07-03T15:09:21.823663+05:30'
+last_seen: '2026-07-03T15:09:21.823663+05:30'
+last_checked: '2026-07-03T15:09:21.823663+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Remote MCP Server for GitHub**: Provides a TypeScript-based, open-source remote MCP (Model Context Protocol) server enabling direct interaction with any GitHub repository to mitigate AI code hallucinations.
+- **Purpose**: GitMCP is an open-source, remote MCP (Model Context Protocol) server designed to provide structured, real-time access to any GitHub repository, mitigating AI code hallucinations by ensuring accurate, up-to-date context for LLM-based agents.
 
-- **Agentic AI Integration**: Designed for seamless integration with AI agents (e.g., Claude, Copilot, Cursor) to fetch, analyze, and validate code from GitHub projects in real-time.
+- **Technical Stack**: Implemented in TypeScript, it enables seamless integration with AI agents (e.g., Claude, Copilot, Cursor) via the MCP standard, facilitating dynamic repository interaction without local cloning.
 
-- **Dynamic Repository Sync**: Automatically syncs with GitHub repositories, ensuring up-to-date context for AI-driven development workflows (last updated: 2026-07-02).
+- **Key Features**: Supports real-time repository queries (files, commits, issues), version-aware context retrieval, and agent-agnostic compatibility, with last update timestamp indicating active maintenance.
 
 ## Why It Matters
 

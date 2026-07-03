@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `masumi-network/crewai-masumi-quickstart-template`
-- **Metadata**: 13 ⭐, 20 🍴, Python-based, last updated 2026-04-12T20:15:37Z
-- **Purpose**: Template for quickstart integration with CrewAI (no additional description provided)
+- **Repository**: `masumi-network/crewai-masumi-quickstart-template` (Python-based)
+- **Stats**: 13 ⭐, 20 🍴, last updated 2026-04-12
+- **Purpose**: Minimal template for quickstart with CrewAI (no additional metadata or topics)
 
 ## Use Cases
 

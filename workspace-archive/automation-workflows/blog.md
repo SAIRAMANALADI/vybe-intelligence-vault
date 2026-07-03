@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Haystack Framework**: Open-source Python framework for building production-ready LLM applications, enabling modular pipelines for document retrieval, processing, and agent orchestration with support for RAG, IDP, and enterprise search workflows.
+- **Haystack Framework**: Open-source Python framework for building production-ready NLP pipelines, supporting modular components for document retrieval, processing, and question answering with integrations to LLMs, vector databases, and APIs.
 
-- **Enterprise AI Solutions**: Haystack Enterprise Platform provides managed MCP tool integration, production-grade agent harnesses, and sovereign AI infrastructure for scalable, cost-controlled deployments across industries like government, finance
+- **Enterprise AI Solutions**: Offers **Haystack Enterprise Platform** (unified AI solution), **Haystack Enterprise Starter** (scalable deployment), and **MCP tool integration** to expose pipelines as managed tools for agentic workflows.
+
+- **Sovereign AI
 
 ## Use Cases
 

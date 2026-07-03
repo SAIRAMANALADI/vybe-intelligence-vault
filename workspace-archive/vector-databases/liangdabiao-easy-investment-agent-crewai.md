@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent A-Shares Analysis Framework**: Leverages AKShare for real-time A-share data (quotes, financials, fund flows, sentiment) and CrewAI to orchestrate 4 specialized AI agents (e.g., data fetcher, analyzer, sentiment evaluator, decision generator) for collaborative investment insights.
-
-- **China-Specific Optimization**: Tailored for A-share market nuances (e.g., regulatory constraints, liquidity patterns) with tools for Chinese financial data integration and localized sentiment analys
+- **Multi-Agent System**: Implements 4 specialized AI agents collaborating for A-share investment analysis, leveraging CrewAI framework for orchestration.
+- **Data Integration**: Utilizes AKShare for real-time A-share market data, including stock quotes, financials, fund flows, and sentiment analysis.
+- **Chinese Market Optimization**: Tailored for A-share characteristics, providing automated professional investment recommendations based on multi-source data synthesis.
 
 ## Use Cases
 

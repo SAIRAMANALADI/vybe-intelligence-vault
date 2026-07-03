@@ -14,9 +14,9 @@ tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
+- reddit
 selection_reason:
 - Useful for project building
 ---
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Suite**: Multi-Turn Retrieval-Augmented Generation (RAG) evaluation framework designed to assess conversational RAG systems across multi-turn interactions.
-- **Technical Stack**: Implemented in Python, leveraging modular components for dataset handling, retrieval, and generation evaluation.
-- **Evaluation Focus**: Measures performance metrics (e.g., answer correctness, context relevance, coherence) in multi-turn conversational RAG scenarios.
+- **Benchmark Design**: Multi-Turn Retrieval-Augmented Generation (RAG) benchmark evaluating conversational RAG systems across multi-turn interactions, focusing on context retention and iterative refinement.
+- **Evaluation Metrics**: Includes standard RAG metrics (e.g., answer correctness, context relevance) and novel multi-turn-specific metrics (e.g., turn consistency, cumulative error propagation).
+- **Implementation**: Python-based framework with modular components for dataset integration, re
 
 ## Use Cases
 

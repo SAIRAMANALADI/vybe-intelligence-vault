@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-07-03T03:53:35.257303+05:30'
+collected_at: '2026-07-03T15:10:01.924393+05:30'
 published_at: '2026-06-29T02:03:10Z'
 tags:
 - agents
-- frontend_ui
 - github-repo
 - rag
 - reddit
 - unknown
-- workflows
 stars: 191
 language: Unknown
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-07-03T03:53:35.257303+05:30'
-last_seen: '2026-07-03T03:53:35.257303+05:30'
-last_checked: '2026-07-03T03:53:35.257303+05:30'
+first_seen: '2026-07-03T15:10:01.924393+05:30'
+last_seen: '2026-07-03T15:10:01.924393+05:30'
+last_checked: '2026-07-03T15:10:01.924393+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications, leveraging TanStack Query's reactivity and performance optimizations.
+- **Optimized Caching Strategies**: Implements advanced TanStack Query patterns (e.g., `staleTime`, `gcTime`) to minimize redundant API calls and improve cache consistency in AI-driven applications.
 
-- **Router Best Practices for AI Agents**: Provides structured routing strategies using TanStack Router to handle dynamic, AI-generated navigation paths with type safety and minimal re-renders.
+- **Dynamic Route Management**: Leverages TanStack Router’s type-safe routing and lazy loading to streamline navigation in AI agents, reducing bundle size and enhancing performance.
 
-- **Start Framework Integration**: Showcases TanStack Start for server-side rendering (SSR) and static site generation (SSG) in AI agent workflows, ensuring seamless hydration and performance.
+- **State Synchronization**: Integrates TanStack Start for seamless state hydration/rehydration, ensuring AI agents maintain context consistency across server-client transitions.
 
 ## Why It Matters
 

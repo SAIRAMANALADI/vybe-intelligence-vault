@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/apecloud/ApeRAG
-collected_at: '2026-07-03T03:52:35.248716+05:30'
-published_at: '2026-07-02T22:01:57Z'
+collected_at: '2026-07-03T15:09:01.851910+05:30'
+published_at: '2026-07-03T04:46:31Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 1241
+stars: 1247
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-06-20T12:18:12Z'
 pushed_at: '2026-05-02T05:01:36Z'
 resource_id: github:apecloud/aperag
-first_seen: '2026-07-03T03:52:35.248716+05:30'
-last_seen: '2026-07-03T03:52:35.248716+05:30'
-last_checked: '2026-07-03T03:52:35.248716+05:30'
+first_seen: '2026-07-03T15:09:01.851910+05:30'
+last_seen: '2026-07-03T15:09:01.851910+05:30'
+last_checked: '2026-07-03T15:09:01.851910+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 - **Multi-modal indexing**: Supports integration of diverse data types (text, images, etc.) into a unified graph-based retrieval system for enhanced context engineering.
 
-- **AI agents & MCP integration**: Incorporates autonomous agents and Model Context Protocol (MCP) for dynamic, scalable knowledge graph interactions and retrieval.
+- **AI agents & MCP integration**: Incorporates autonomous agents and Model Context Protocol (MCP) for dynamic, scalable knowledge graph interactions and orchestration.
 
-- **Kubernetes-native deployment**: Optimized for scalable, production-grade deployment via Kubernetes, ensuring high availability and fault tolerance.
+- **Kubernetes-native deployment**: Optimized for scalable, production-grade deployment via Kubernetes, ensuring high availability and distributed processing.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: apecloud
-- Stars: 1241
+- Stars: 1247
 - Forks: 142
 - Language: Python
 - Topics: agents, context-engineering, graphrag, knowledge-graph, mcp
-- Last Updated: 2026-07-02T22:01:57Z
+- Last Updated: 2026-07-03T04:46:31Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-06-20T12:18:12Z

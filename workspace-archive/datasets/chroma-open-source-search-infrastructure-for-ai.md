@@ -8,7 +8,7 @@ local_vault_path: ai/rag/chroma-open-source-search-infrastructure-for-ai.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Chroma - open-source search infrastructure for AI
@@ -30,18 +30,18 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Multi-modal search engine**: ChromaDB supports vector, full-text, regex, and metadata search with sparse (BM25/SPLADE) and dense embeddings, enabling hybrid retrieval across lexical and semantic dimensions.
+- **Multi-modal search infrastructure**: Supports vector, full-text, regex, and metadata search with up to 10x cost reduction via object storage tiering and automatic caching (p50 latency: 20ms warm, 650ms cold for 100k vectors).
 
-- **Serverless, object-storage-backed architecture**: Leverages S3/GCS with intelligent tiering (hot/cold data) and caching for cost-efficient scaling (up to 10x cheaper than memory-based systems) while maintaining low latency (p99 < 57ms for warm queries).
+- **Enterprise-grade scalability**: Handles 1M collections/database, 5M records/collection, 30MB/s write throughput, and 2000+ QPS with SOC 2 Type II compliance; offers BYOC, multi-region replication, and point-in-time recovery.
 
-- **Enterprise-grade BYOC and
+- **Open-source Apache 2.0 core**: 27k+
 
 ## Use Cases
 

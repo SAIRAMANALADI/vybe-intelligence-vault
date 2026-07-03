@@ -18,13 +18,13 @@ MCP provides a unified way for LLMs to securely interact with file systems, data
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 105 resources matched in the intelligence vault.
+Active signals: 109 resources matched in the intelligence vault.
 Recently detected signals:
-- [modelcontextprotocol/typescript-sdk](../ai/resources/modelcontextprotocol-typescript-sdk.md) (Source: Unknown Source) - Collected 2026-07-03
-- [modelcontextprotocol/python-sdk](../ai/resources/modelcontextprotocol-python-sdk.md) (Source: Unknown Source) - Collected 2026-07-03
-- [microsoft/playwright-mcp](../ai/agents/microsoft-playwright-mcp.md) (Source: Unknown Source) - Collected 2026-07-03
-- [Specification - Model Context Protocol](../ai/agents/specification-model-context-protocol.md) (Source: Unknown Source) - Collected 2026-07-03
-- [Add and manage MCP servers in VS Code](../ai/rag/add-and-manage-mcp-servers-in-vs-code.md) (Source: Unknown Source) - Collected 2026-07-03
+- [Use the Gemini Code Assist agent mode | Google for Developers](../ai/agents/use-the-gemini-code-assist-agent-mode-google-for-d.md) (Source: Unknown Source) - Collected 2026-07-03
+- [google-gemini/gemini-cli](../ai/agents/google-gemini-gemini-cli.md) (Source: Unknown Source) - Collected 2026-07-03
+- [Spaces · Hugging Face](../ai/rag/huggingface-docs-hub.md) (Source: Unknown Source) - Collected 2026-07-03
+- [GitHub Copilot CLI · GitHub](../ai/agents/features-copilot.md) (Source: Unknown Source) - Collected 2026-07-03
+- [braincrew-lab/langgraph-mcp-agents](../ai/rag/braincrew-lab-langgraph-mcp-agents.md) (Source: Unknown Source) - Collected 2026-07-03
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -50,15 +50,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: Official SonarQube MCP Server for code quality and security in AI agents
 
-### 5. [study8677/antigravity-workspace-template](../ai/rag/study8677-antigravity-workspace-template.md) ([GitHub](https://github.com/study8677/antigravity-workspace-template))
-- Stars: 0
-- Language: Unknown
-- Description: - **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for codebase interaction across AI IDEs (Claude Code, Cursor, Codex CLI).
-
-### 6. [cloudflare/mcp-server-cloudflare](../ai/resources/cloudflare-mcp-server-cloudflare.md) ([GitHub](https://github.com/cloudflare/mcp-server-cloudflare))
+### 5. [cloudflare/mcp-server-cloudflare](../ai/resources/cloudflare-mcp-server-cloudflare.md) ([GitHub](https://github.com/cloudflare/mcp-server-cloudflare))
 - Stars: 0
 - Language: Unknown
 - Description: - **TypeScript-based MCP server** for integrating Cloudflare services, enabling programmatic interaction with Cloudflare's API via the MCP (Model Context Protocol) standard.
+
+### 6. [study8677/antigravity-workspace-template](../ai/rag/study8677-antigravity-workspace-template.md) ([GitHub](https://github.com/study8677/antigravity-workspace-template))
+- Stars: 0
+- Language: Unknown
+- Description: - **Multi-agent codebase Q&A system**: Implements a knowledge engine using MCP servers, RAG, and vector search to provide grounded answers with file paths and line numbers for any codebase.
 
 ### 7. [github/github-mcp-server](../ai/resources/github-github-mcp-server.md) ([GitHub](https://github.com/github/github-mcp-server))
 - Stars: 0
@@ -70,35 +70,35 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Purpose**: LangGraph solution template for MCP (Model Context Protocol) integration, enabling structured multi-agent workflows in Python.
 
-### 9. [mukul975/cve-mcp-server](../ai/resources/mukul975-cve-mcp-server.md) ([GitHub](https://github.com/mukul975/cve-mcp-server))
+### 9. [braincrew-lab/langgraph-mcp-agents](../ai/rag/braincrew-lab-langgraph-mcp-agents.md) ([GitHub](https://github.com/braincrew-lab/langgraph-mcp-agents))
+- Stars: 0
+- Language: Unknown
+- Description: - **Architecture**: Implements a LangGraph-based ReAct (Reasoning and Acting) agent framework with Model Context Protocol (MCP) integration for dynamic tool orchestration and API/data source intera...
+
+### 10. [mukul975/cve-mcp-server](../ai/resources/mukul975-cve-mcp-server.md) ([GitHub](https://github.com/mukul975/cve-mcp-server))
 - Stars: 0
 - Language: Unknown
 - Description: Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.
 
-### 10. [Jpisnice/shadcn-ui-mcp-server](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) ([GitHub](https://github.com/jpisnice/shadcn-ui-mcp-server))
+### 11. [Jpisnice/shadcn-ui-mcp-server](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) ([GitHub](https://github.com/jpisnice/shadcn-ui-mcp-server))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: Jpisnice/shadcn-ui-mcp-server
 
-### 11. [golf-mcp/golf](../ai/agents/golf-mcp-golf.md) ([GitHub](https://github.com/golf-mcp/golf))
+### 12. [golf-mcp/golf](../ai/agents/golf-mcp-golf.md) ([GitHub](https://github.com/golf-mcp/golf))
 - Stars: 0
 - Language: Unknown
 - Description: Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents
 
-### 12. [SylphxAI/pdf-reader-mcp](../ai/rag/sylphxai-pdf-reader-mcp.md) ([GitHub](https://github.com/sylphxai/pdf-reader-mcp))
+### 13. [SylphxAI/pdf-reader-mcp](../ai/rag/sylphxai-pdf-reader-mcp.md) ([GitHub](https://github.com/sylphxai/pdf-reader-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: Production-ready MCP server for PDF processing - 5-10x faster with parallel processing and 94%+ test coverage
 
-### 13. [Mem0 · GitHub](../ai/rag/mem0-github.md) ([GitHub](https://github.com/mem0ai))
+### 14. [Mem0 · GitHub](../ai/rag/mem0-github.md) ([GitHub](https://github.com/mem0ai))
 - Stars: 0
 - Language: Unknown
 - Description: - **Core Project**: `mem0` is an open-source Python-based universal memory layer for AI agents, enabling long-term memory integration with frameworks like LangChain, CrewAI, and AutoGen.
-
-### 14. [braincrew-lab/langgraph-mcp-agents](../ai/rag/braincrew-lab-langgraph-mcp-agents.md) ([GitHub](https://github.com/braincrew-lab/langgraph-mcp-agents))
-- Stars: 0
-- Language: Unknown
-- Description: - **LangGraph + ReAct Agent**: Implements a LangGraph-based ReAct (Reasoning and Acting) agent architecture with MCP (Model Context Protocol) integration for tool execution and data source/API inte...
 
 ### 15. [kylestratis/ai_agents_mcp_examples](../ai/agents/kylestratis-ai-agents-mcp-examples.md) ([GitHub](https://github.com/kylestratis/ai_agents_mcp_examples))
 - Stars: 0
@@ -125,15 +125,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: Repository: oxbshw/LLM-Agents-Ecosystem-Handbook
 
-### 20. [langgenius/dify](../ai/rag/langgenius-dify.md) ([GitHub](https://github.com/langgenius/dify))
-- Stars: 0
-- Language: Unknown
-- Description: - **Agentic Workflow Platform**: Open-source, production-ready framework for building, deploying, and orchestrating agentic AI workflows with low-code/no-code capabilities, supporting LLM integrati...
-
-### 21. [apecloud/ApeRAG](../ai/rag/apecloud-aperag.md) ([GitHub](https://github.com/apecloud/aperag))
+### 20. [apecloud/ApeRAG](../ai/rag/apecloud-aperag.md) ([GitHub](https://github.com/apecloud/aperag))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-modal indexing**: Supports integration of diverse data types (text, images, etc.) into a unified graph-based retrieval system for enhanced context engineering.
+
+### 21. [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([GitHub](https://github.com/wenyuchiou/awesome-agentic-ai-zh))
+- Stars: 0
+- Language: Unknown
+- Description: - **Comprehensive trilingual learning roadmap** covering agentic AI from LLM fundamentals to multi-agent systems, featuring **240+ curated resources** and **hands-on Python examples**.
 
 ### 22. [Flux159/mcp-chat](../ai/agents/flux159-mcp-chat.md) ([GitHub](https://github.com/flux159/mcp-chat))
 - Stars: 0
@@ -145,30 +145,30 @@ Recently detected signals:
 - Language: Unknown
 - Description: - Defines OpenTelemetry semantic conventions for Generative AI (GenAI) across **events** (inputs/outputs), **exceptions**, **metrics**, **model spans**, and **agent spans** to standardize telemetry...
 
-### 24. [activepieces/activepieces](../ai/agents/activepieces-activepieces.md) ([GitHub](https://github.com/activepieces/activepieces))
+### 24. [idosal/git-mcp](../ai/agents/idosal-git-mcp.md) ([GitHub](https://github.com/idosal/git-mcp))
 - Stars: 0
 - Language: Unknown
-- Description: - **TypeScript-based open-source platform** for AI agent orchestration, workflow automation, and MCP (Model Context Protocol) integration (~400 pre-built MCP servers).
+- Description: - **Purpose**: GitMCP is an open-source, remote MCP (Model Context Protocol) server designed to provide structured, real-time access to any GitHub repository, mitigating AI code hallucinations by e...
 
-### 25. [FareedKhan-dev/production-grade-mcp-agentic-system](../ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system.md) ([GitHub](https://github.com/fareedkhan-dev/production-grade-mcp-agentic-system))
+### 25. [activepieces/activepieces](../ai/agents/activepieces-activepieces.md) ([GitHub](https://github.com/activepieces/activepieces))
 - Stars: 0
 - Language: Unknown
-- Description: Building a Production-Grade MCP Server Architecture with a Multi-Agent System
+- Description: - **TypeScript-based open-source platform** for AI agent orchestration, MCP (Model Context Protocol) integration (~400 MCP servers), and workflow automation, serving as an alternative to n8n with n...
 
 ### 26. [Model Context Protocol · GitHub](../ai/resources/model-context-protocol-github.md) ([GitHub](https://github.com/modelcontextprotocol))
 - Stars: 0
 - Language: Unknown
 - Description: - **Protocol Definition**: MCP is an open protocol enabling standardized integration between LLM applications and external data sources/tools via a structured interface for context exchange.
 
-### 27. [idosal/git-mcp](../ai/agents/idosal-git-mcp.md) ([GitHub](https://github.com/idosal/git-mcp))
-- Stars: 0
-- Language: Unknown
-- Description: - **Remote MCP Server for GitHub**: Provides a TypeScript-based, open-source remote MCP (Model Context Protocol) server enabling direct interaction with any GitHub repository to mitigate AI code ha...
-
-### 28. [microsoft/playwright-mcp](../ai/agents/microsoft-playwright-mcp.md) ([GitHub](https://github.com/microsoft/playwright-mcp))
+### 27. [microsoft/playwright-mcp](../ai/agents/microsoft-playwright-mcp.md) ([GitHub](https://github.com/microsoft/playwright-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: - **Playwright MCP Server**: A TypeScript-based implementation enabling **Model Context Protocol (MCP)** integration with Playwright for browser automation and testing.
+
+### 28. [FareedKhan-dev/production-grade-mcp-agentic-system](../ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system.md) ([GitHub](https://github.com/fareedkhan-dev/production-grade-mcp-agentic-system))
+- Stars: 0
+- Language: Unknown
+- Description: Building a Production-Grade MCP Server Architecture with a Multi-Agent System
 
 ### 29. [demcp/awesome-web3-mcp-servers](../ai/resources/demcp-awesome-web3-mcp-servers.md) ([GitHub](https://github.com/demcp/awesome-web3-mcp-servers))
 - Stars: 0
@@ -178,17 +178,17 @@ Recently detected signals:
 ### 30. [0x4m4/hexstrike-ai](../ai/agents/0x4m4-hexstrike-ai.md) ([GitHub](https://github.com/0x4m4/hexstrike-ai))
 - Stars: 0
 - Language: Unknown
-- Description: - **MCP Server for AI Agents**: HexStrike AI MCP Agents enables AI models (e.g., Claude, GPT, Copilot) to autonomously execute **150+ cybersecurity tools** for automated pentesting, vulnerability d...
+- Description: - **MCP Server Integration**: HexStrike AI MCP Agents is a Python-based MCP server enabling AI agents (e.g., Claude, GPT, Copilot) to autonomously execute **150+ cybersecurity tools** for pentestin...
 
 ### 31. [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner.md) ([GitHub](https://github.com/cisco-ai-defense/mcp-scanner))
 - Stars: 0
 - Language: Unknown
 - Description: Scan MCP servers for potential threats & security findings.
 
-### 32. [mergisi/awesome-openclaw-agents](../ai/agents/mergisi-awesome-openclaw-agents.md) ([GitHub](https://github.com/mergisi/awesome-openclaw-agents))
+### 32. [google-gemini/gemini-cli](../ai/agents/google-gemini-gemini-cli.md) ([GitHub](https://github.com/google-gemini/gemini-cli))
 - Stars: 0
 - Language: Unknown
-- Description: - **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 distinct categories, with a submission process for new templates.
+- Description: - **TypeScript-based CLI tool** integrating Google's Gemini API for terminal-based AI agent interactions, enabling direct model access without a browser interface.
 
 ### 33. [langfuse Ideas · Discussions · GitHub](../ai/agents/orgs-langfuse.md) ([GitHub](https://github.com/orgs/langfuse))
 - Stars: 0
@@ -210,20 +210,20 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Agentic SDLC Framework**: JavaScript-based AI-driven development framework (`smart-sdlc`) enabling autonomous Software Development Life Cycle (SDLC) processes via agentic workflows.
 
-### 37. [GitHub Copilot CLI · GitHub](../ai/agents/features-copilot.md) ([GitHub](https://github.com/features/copilot))
+### 37. [transitive-bullshit/agentic](../ai/agents/transitive-bullshit-agentic.md) ([GitHub](https://github.com/transitive-bullshit/agentic))
 - Stars: 0
 - Language: Unknown
-- Description: - **Multi-agent orchestration**: GitHub Copilot CLI enables parallelized subagent execution via `/fleet`, allowing concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI...
+- Description: - **TypeScript-based MCP Framework**: Open-source toolkit for converting APIs into Model Context Protocol (MCP) servers, enabling paid AI agent integrations with LLMs (e.g., OpenAI) via standardize...
 
-### 38. [cloudflare/mcp](../ai/resources/cloudflare-mcp.md) ([GitHub](https://github.com/cloudflare/mcp))
+### 38. [MuhammadUsmanGM/claude-code-best-practices](../ai/agents/muhammadusmangm-claude-code-best-practices.md) ([GitHub](https://github.com/muhammadusmangm/claude-code-best-practices))
+- Stars: 0
+- Language: Unknown
+- Description: - **Repository Structure**: Provides a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+
+### 39. [cloudflare/mcp](../ai/resources/cloudflare-mcp.md) ([GitHub](https://github.com/cloudflare/mcp))
 - Stars: 0
 - Language: Unknown
 - Description: - **TypeScript-based MCP server** providing programmatic access to Cloudflare's API for managing Workers, DNS, and other Cloudflare services.
-
-### 39. [transitive-bullshit/agentic](../ai/agents/transitive-bullshit-agentic.md) ([GitHub](https://github.com/transitive-bullshit/agentic))
-- Stars: 0
-- Language: Unknown
-- Description: - **Purpose**: Converts existing APIs into paid MCP (Model Context Protocol) servers for instant deployment, enabling monetization of AI/LLM services.
 
 ### 40. [FuzzingLabs/secpipe](../ai/agents/fuzzinglabs-secpipe.md) ([GitHub](https://github.com/fuzzinglabs/secpipe))
 - Stars: 0
@@ -238,47 +238,47 @@ Recently detected signals:
 ### 42. [Code-and-Sorts/awesome-copilot-agents](../ai/agents/code-and-sorts-awesome-copilot-agents.md) ([GitHub](https://github.com/code-and-sorts/awesome-copilot-agents))
 - Stars: 0
 - Language: Unknown
-- Description: - **Curated Resource**: Repository (`awesome-copilot-agents`) containing GitHub instructions, prompts, skills, MCPs, and agent markdown files to optimize GitHub Copilot AI interactions.
+- Description: - **Curated Resource**: A GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) hosting a structured collection of GitHub Copilot customization files, including instructions, prompts, skills,...
 
 ### 43. [affaan-m/agentshield](../ai/agents/affaan-m-agentshield.md) ([GitHub](https://github.com/affaan-m/agentshield))
 - Stars: 0
 - Language: Unknown
-- Description: - **Multi-format security scanner** for AI agent configurations, MCP servers, and tool permissions, deployable via CLI, GitHub Action, ECC plugin, or GitHub App.
+- Description: - **Purpose**: AI agent security scanner designed to detect vulnerabilities in agent configurations, MCP servers, and tool permissions.
 
-### 44. [FuzzingLabs/mcp-security-hub](../ai/resources/fuzzinglabs-mcp-security-hub.md) ([GitHub](https://github.com/fuzzinglabs/mcp-security-hub))
+### 44. [GitHub Copilot CLI · GitHub](../ai/agents/features-copilot.md) ([GitHub](https://github.com/features/copilot))
+- Stars: 0
+- Language: Unknown
+- Description: - **Multi-Agent Parallel Execution**: Copilot CLI supports `/fleet` for parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI), enabling concurrent task processing...
+
+### 45. [FuzzingLabs/mcp-security-hub](../ai/resources/fuzzinglabs-mcp-security-hub.md) ([GitHub](https://github.com/fuzzinglabs/mcp-security-hub))
 - Stars: 0
 - Language: Unknown
 - Description: A growing collection of MCP servers bringing offensive security tools to AI assistants. Nmap, Ghidra, Nuclei, SQLMap, Hashcat and more.
 
-### 45. [jlbadano/ig-mcp](../ai/resources/jlbadano-ig-mcp.md) ([GitHub](https://github.com/jlbadano/ig-mcp))
+### 46. [jlbadano/ig-mcp](../ai/resources/jlbadano-ig-mcp.md) ([GitHub](https://github.com/jlbadano/ig-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: A production-ready Model Context Protocol (MCP) server that enables AI applications to seamlessly interact with Instagram Business accounts.
 
-### 46. [semgrep/mcp](../ai/resources/semgrep-mcp.md) ([GitHub](https://github.com/semgrep/mcp))
+### 47. [semgrep/mcp](../ai/resources/semgrep-mcp.md) ([GitHub](https://github.com/semgrep/mcp))
 - Stars: 0
 - Language: Unknown
 - Description: A MCP server for using Semgrep to scan code for security vulnerabilities.
 
-### 47. [tavily-ai/tavily-mcp](../ai/resources/tavily-ai-tavily-mcp.md) ([GitHub](https://github.com/tavily-ai/tavily-mcp))
+### 48. [tavily-ai/tavily-mcp](../ai/resources/tavily-ai-tavily-mcp.md) ([GitHub](https://github.com/tavily-ai/tavily-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: Production ready MCP server with real-time search, extract, map & crawl.
 
-### 48. [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md) ([GitHub](https://github.com/cyproxio/mcp-for-security))
+### 49. [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md) ([GitHub](https://github.com/cyproxio/mcp-for-security))
 - Stars: 0
 - Language: Unknown
 - Description: MCP for Security: A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI wor...
 
-### 49. [riseandignite/mcp-shield](../ai/resources/riseandignite-mcp-shield.md) ([GitHub](https://github.com/riseandignite/mcp-shield))
+### 50. [riseandignite/mcp-shield](../ai/resources/riseandignite-mcp-shield.md) ([GitHub](https://github.com/riseandignite/mcp-shield))
 - Stars: 0
 - Language: Unknown
 - Description: Security scanner for MCP servers
-
-### 50. [acuvity/minibridge](../ai/resources/acuvity-minibridge.md) ([GitHub](https://github.com/acuvity/minibridge))
-- Stars: 0
-- Language: Unknown
-- Description: Make your MCP servers secure and production ready
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -300,4 +300,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-03T04:06:01.523175+05:30.332929+05:30.216001+05:30.355757+05:30.724916+05:30.232206+05:30.793924+05:30.327598+05:30.822711+05:30.899267+05:30.310697+05:30.745537+05:30.048898+05:30.791182+05:30.499115+05:30.913340+05:30.752360+05:30.376555+05:30.707496+05:30.910226+05:30.145469+05:30.228447+05:30.585130+05:30.841501+05:30.322973+05:30.532200+05:30.593610+05:30.701893+05:30.329281+05:30.988510+05:30.716772+05:30.927210+05:30.375967+05:30.497845+05:30.469536+05:30.787967+05:30.008964+05:30.510817+05:30.991614+05:30.663225+05:30.685680+05:30.423328+05:30.874932+05:30.805157+05:30.240659+05:30.539182+05:30.503349+05:30.168786+05:30.472040+05:30.495610+05:30.696231+05:30.006993+05:30.106261+05:30.319081+05:30.993907+05:30.122388+05:30.520244+05:30.857034+05:30.854349+05:30.158097+05:30.151960+05:30.613998+05:30.612259+05:30.743764+05:30.219495+05:30.226409+05:30.308267+05:30.671842+05:30.192408+05:30.489920+05:30.324090+05:30.681655+05:30.831238+05:30.300012+05:30.282249+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-03T15:22:22.459722+05:30.523175+05:30.332929+05:30.216001+05:30.355757+05:30.724916+05:30.232206+05:30.793924+05:30.327598+05:30.822711+05:30.899267+05:30.310697+05:30.745537+05:30.048898+05:30.791182+05:30.499115+05:30.913340+05:30.752360+05:30.376555+05:30.707496+05:30.910226+05:30.145469+05:30.228447+05:30.585130+05:30.841501+05:30.322973+05:30.532200+05:30.593610+05:30.701893+05:30.329281+05:30.988510+05:30.716772+05:30.927210+05:30.375967+05:30.497845+05:30.469536+05:30.787967+05:30.008964+05:30.510817+05:30.991614+05:30.663225+05:30.685680+05:30.423328+05:30.874932+05:30.805157+05:30.240659+05:30.539182+05:30.503349+05:30.168786+05:30.472040+05:30.495610+05:30.696231+05:30.006993+05:30.106261+05:30.319081+05:30.993907+05:30.122388+05:30.520244+05:30.857034+05:30.854349+05:30.158097+05:30.151960+05:30.613998+05:30.612259+05:30.743764+05:30.219495+05:30.226409+05:30.308267+05:30.671842+05:30.192408+05:30.489920+05:30.324090+05:30.681655+05:30.831238+05:30.300012+05:30.282249+05:30.

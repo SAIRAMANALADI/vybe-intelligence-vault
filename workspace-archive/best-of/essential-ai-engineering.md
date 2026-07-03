@@ -8,9 +8,29 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
+### [Stainless · GitHub](https://github.com/stainless-api)
+- **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`stainless-github.md`](../../ai/resources/stainless-github.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`run-llama-llamaindexts.md`](../../ai/rag/run-llama-llamaindexts.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`graphrag-bench-graphrag-benchmark.md`](../../ai/rag/graphrag-bench-graphrag-benchmark.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [langgenius/dify](https://github.com/langgenius/dify)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`deepset-ai-haystack.md`](../../ai/rag/deepset-ai-haystack.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [Mem0 · GitHub](https://github.com/mem0ai)
@@ -18,9 +38,9 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`mem0-github.md`](../../ai/rag/mem0-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [ray-project/llm-applications](https://github.com/ray-project/llm-applications)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`ray-project-llm-applications.md`](../../ai/rag/ray-project-llm-applications.md)
+### [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`stackitcloud-rag-template.md`](../../ai/rag/stackitcloud-rag-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [Mem0 · GitHub](https://github.com/mem0ai)
@@ -43,30 +63,10 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`llamasearchai-openagi-customization.md`](../../ai/resources/llamasearchai-openagi-customization.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [ray-project/llm-applications](https://github.com/ray-project/llm-applications)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`ray-project-llm-applications.md`](../../ai/rag/ray-project-llm-applications.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
 - **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`sylphxai-pdf-reader-mcp.md`](../../ai/rag/sylphxai-pdf-reader-mcp.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
-
-### [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag)
-- **Category**: `ai/rag` | **Kind**: `PROMPT` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`tomasonjo-kg-rag.md`](../../ai/rag/tomasonjo-kg-rag.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`google-cloud-platform-github.md`](../../ai/rag/google-cloud-platform-github.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
-- **Category**: `ai/rag` | **Kind**: `API` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`yonatangross-orchestkit.md`](../../ai/rag/yonatangross-orchestkit.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-03 04:07 IST*
+*Last updated: 2026-07-03 15:24 IST*

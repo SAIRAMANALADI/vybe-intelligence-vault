@@ -4,12 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vin67/crewai_docker
-collected_at: '2026-07-01T10:30:12.782190+05:30'
+collected_at: '2026-07-03T15:11:26.946054+05:30'
 published_at: '2026-03-15T20:13:41Z'
 tags:
 - agents
 - github-repo
 - python
+- scripts
+- workflows
 stars: 9
 language: Python
 status: active
@@ -17,9 +19,9 @@ archived: false
 created_at: '2024-12-02T21:32:28Z'
 pushed_at: '2024-12-02T22:01:46Z'
 resource_id: github:vin67/crewai_docker
-first_seen: '2026-07-01T10:30:12.782190+05:30'
-last_seen: '2026-07-01T10:30:12.782190+05:30'
-last_checked: '2026-07-01T10:30:12.782190+05:30'
+first_seen: '2026-07-03T15:11:26.946054+05:30'
+last_seen: '2026-07-03T15:11:26.946054+05:30'
+last_checked: '2026-07-03T15:11:26.946054+05:30'
 health_score: 100
 ---
 
@@ -27,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Base Image**: Uses `python:3.11-slim` as the base Docker image for minimal footprint and compatibility with CrewAI.
-- **Dependencies**: Installs CrewAI (`crewai`) and other essential packages (`pip`) in an isolated virtual environment (`venv`).
-- **Optimized Layers**: Multi-stage build with explicit layer caching for efficient rebuilds and reduced final image size.
+- **Dockerfile Template**: Provides a pre-configured Dockerfile for deploying CrewAI applications, optimizing containerization for Python-based AI workflows.
+- **Minimal Setup**: Designed for lightweight deployment with essential dependencies, ensuring efficient resource usage for CrewAI agents.
+- **Automated Build**: Supports CI/CD integration via GitHub Actions, enabling streamlined image builds and updates for CrewAI Docker deployments.
 
 ## Why It Matters
 

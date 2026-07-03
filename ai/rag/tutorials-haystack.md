@@ -4,11 +4,12 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-07-03T03:56:17.871318+05:30'
-collected_at: '2026-07-03T03:56:17.871327+05:30'
+published_at: '2026-07-03T15:15:10.554584+05:30'
+collected_at: '2026-07-03T15:15:10.554596+05:30'
 tags:
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag
@@ -17,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-07-03T03:56:17.871327+05:30'
-last_seen: '2026-07-03T03:56:17.871327+05:30'
-last_checked: '2026-07-03T03:56:17.871327+05:30'
+first_seen: '2026-07-03T15:15:10.554596+05:30'
+last_seen: '2026-07-03T15:15:10.554596+05:30'
+last_checked: '2026-07-03T15:15:10.554596+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Evaluation Framework**: Haystack provides a guided walkthrough for evaluating RAG pipelines using statistical and model-based metrics, enabling systematic performance assessment of generative QA systems.
-
-- **Multimodal RAG Pipeline**: Tutorial demonstrates building a vision+text RAG pipeline using Haystack to answer queries grounded in both image and text data, leveraging multimodal embeddings and retrieval.
-
-- **Agentic RAG with Fallback**: Covers creating an agentic RAG system with conditional routing to web search as a fallback, enhancing robustness in scenarios where document retrieval fails.
+- Haystack supports **evaluation frameworks** for assessing RAG pipelines using statistical and model-based metrics (e.g., relevance, answer correctness).
+- **Agentic workflows** enable multi-tool integration, including web search fallbacks, human-in-the-loop confirmations, and multi-agent systems for modular task specialization.
+- **Advanced retrieval techniques** include hybrid (dense + keyword) retrieval, metadata embedding for improved filtering, and sentence-window retrieval for contextual precision.
 
 ## Why It Matters
 
@@ -41,12 +40,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T03:56:17.871318+05:30
+- Published: 2026-07-03T15:15:10.554584+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag

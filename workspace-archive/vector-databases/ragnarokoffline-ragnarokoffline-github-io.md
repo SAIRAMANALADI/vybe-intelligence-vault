@@ -15,6 +15,7 @@ tags:
 - hackernews
 - html
 - rag
+- scripts
 selection_reason:
 - Active open-source repository
 ---
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: Hosts the static website for *Ragnarok Offline Pre-Renewal Pack*, a modified version of *Ragnarok Online* using *OpenKore* and *rAthena* server emulation.
-- **Technical Stack**: Pure HTML-based frontend with no backend logic, serving as a documentation/hosting hub for offline client modifications.
-- **Last Updated**: July 1, 2026 (commit timestamp), with 17 stars and 7 forks, indicating limited but active community engagement.
+- **Repository**: Hosts the **Ragnarok Offline Pre-Renewal Pack**, a static HTML-based implementation of the classic Ragnarok Online game client.
+- **Technical Stack**: Utilizes **OpenKore** for automation and **rAthena** for server-side functionality, targeting the pre-renewal version of Ragnarok Online.
+- **Last Update**: Repository was last modified on **July 1, 2026**, with 17 stars and 7 forks, indicating limited but active community engagement.
 
 ## Use Cases
 

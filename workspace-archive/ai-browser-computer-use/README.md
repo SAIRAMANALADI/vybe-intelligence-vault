@@ -8,25 +8,25 @@ Computer-use and browser agents transition AI from text engines to active workfl
 
 ## Top Matched Resources
 
-- [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (tool - ESSENTIAL Tier)
+- [Speechify · GitHub](https://github.com/SpeechifyInc) (framework - ESSENTIAL Tier)
+- [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (template - ESSENTIAL Tier)
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) (api - ESSENTIAL Tier)
+- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) (framework - ESSENTIAL Tier)
 - [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
 - [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) (tutorial - ESSENTIAL Tier)
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) (framework - ESSENTIAL Tier)
-- [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (mcp-server - ESSENTIAL Tier)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/microsoft/playwright (Playwright)
 https://github.com/showlab/ComputerUse (Computer Use Examples)
+- [Speechify · GitHub](https://github.com/SpeechifyInc)
 - [vin67/crewai_docker](https://github.com/vin67/crewai_docker)
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)
+- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic)
 - [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
-- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)
-- [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/showlab/ComputerUse (Computer Use Examples)
 
 ---
 
-*Last updated: 2026-07-03 04:07 IST*
+*Last updated: 2026-07-03 15:24 IST*

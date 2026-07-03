@@ -4,17 +4,18 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
-published_at: '2026-07-03T03:58:19.661897+05:30'
-collected_at: '2026-07-03T03:58:19.661914+05:30'
+published_at: '2026-07-03T15:15:45.465543+05:30'
+collected_at: '2026-07-03T15:15:45.465556+05:30'
 tags:
 - agents
 - openai
 - web-crawled
+- workflows
 status: active
 resource_id: blog:copilot-cli-sessions-in-visual-studio-code
-first_seen: '2026-07-03T03:58:19.661914+05:30'
-last_seen: '2026-07-03T03:58:19.661914+05:30'
-last_checked: '2026-07-03T03:58:19.661914+05:30'
+first_seen: '2026-07-03T15:15:45.465556+05:30'
+last_seen: '2026-07-03T15:15:45.465556+05:30'
+last_checked: '2026-07-03T15:15:45.465556+05:30'
 health_score: 100
 ---
 
@@ -22,9 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Copilot CLI sessions** run autonomously in the background via the Copilot CLI agent harness, managed via VS Code’s Chat view, enabling parallel task execution without blocking the editor.
-- **Isolation modes** (`Worktree`/`Folder`) control change application: `Worktree` uses Git worktrees for isolated changes (auto-approved), while `Folder` applies changes directly to the workspace with configurable permission levels.
-- **Permissions & slash commands** (`/research`, `/yolo`, `/compact`) enable deep research, auto-approval toggling, and conversation management, with `Worktree` enforcing `Bypass Approvals` and `Folder` supporting `Default Approvals`, `Bypass Approvals`, or `Autopilot`.
+- **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via GitHub Copilot CLI, managed through the Chat view; support parallel execution for independent tasks with local machine execution continuity post-VS Code closure.
+
+- **Isolation Modes**: Two modes—**Worktree** (isolated Git worktree for safe changes) and **Folder** (direct workspace modifications)—with Worktree enforcing auto-approvals and Folder offering configurable permissions (Default/Bypass/Autopilot).
+
+- **Permissions & Workflow**: Worktree mode auto-approves all tool calls; Folder mode supports configurable permissions. Sessions initiated via Chat view or CLI commands, with slash commands (`/research`, `/yolo`) enabling advanced interactions.
 
 ## Why It Matters
 
@@ -34,13 +37,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-03T03:58:19.661897+05:30
+- Published: 2026-07-03T15:15:45.465543+05:30
 
 ## Related Tags
 
 - agents
 - openai
 - web-crawled
+- workflows
 
 ## Source
 

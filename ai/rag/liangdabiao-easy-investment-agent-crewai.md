@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
-collected_at: '2026-07-02T09:58:00.059140+05:30'
+collected_at: '2026-07-03T15:11:37.095537+05:30'
 published_at: '2026-07-01T05:07:53Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-09-26T11:16:52Z'
 pushed_at: '2026-05-07T01:07:08Z'
 resource_id: github:liangdabiao/easy_investment_agent_crewai
-first_seen: '2026-07-02T09:58:00.059140+05:30'
-last_seen: '2026-07-02T09:58:00.059140+05:30'
-last_checked: '2026-07-02T09:58:00.059140+05:30'
+first_seen: '2026-07-03T15:11:37.095537+05:30'
+last_seen: '2026-07-03T15:11:37.095537+05:30'
+last_checked: '2026-07-03T15:11:37.095537+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent A-Shares Analysis Framework**: Leverages AKShare for real-time A-share data (quotes, financials, fund flows, sentiment) and CrewAI to orchestrate 4 specialized AI agents (e.g., data fetcher, analyzer, sentiment evaluator, decision generator) for collaborative investment insights.
-
-- **China-Specific Optimization**: Tailored for A-share market nuances (e.g., regulatory constraints, liquidity patterns) with tools for Chinese financial data integration and localized sentiment analysis.
-
-- **End-to-End Investment Pipeline**: Combines automated data ingestion, multi-agent reasoning, and decision synthesis to produce actionable investment recommendations with transparent rationale.
+- **Multi-Agent System**: Implements 4 specialized AI agents collaborating for A-share investment analysis, leveraging CrewAI framework for orchestration.
+- **Data Integration**: Utilizes AKShare for real-time A-share market data, including stock quotes, financials, fund flows, and sentiment analysis.
+- **Chinese Market Optimization**: Tailored for A-share characteristics, providing automated professional investment recommendations based on multi-source data synthesis.
 
 ## Why It Matters
 

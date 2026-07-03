@@ -6,13 +6,14 @@ source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
 local_vault_path: ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md
 quality_score: 70
-archive_score: 77
+archive_score: 81
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - java
 - rag
 - reddit
@@ -27,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Implements RAG with Vector Databases**: Demonstrates Retrieval-Augmented Generation (RAG) using embedding models and vector databases for efficient knowledge retrieval and response augmentation in Java-based AI Q&A systems.
+- **Architecture**: Implements a Java-based AI Q&A system leveraging **Spring AI** with **Alibaba Cloud** integrations, featuring **SSE streaming**, **Agent-based workflows**, **RAG with knowledge graphs**, **Function Calling**, and **message history** for conversational context.
 
-- **Agentic Workflows with Function Calling**: Integrates AI agent architectures supporting function calls, SSE (Server-Sent Events) streaming, and historical message management for dynamic, stateful interactions.
-
-- **Multimodal AI Capabilities**: Supports image generat
+- **Multimodal Capabilities**: Supports **image generation** (via diffusion models), **image understanding** (OCR/VLM), **embedding models**, and **vector databases** (e.g., Milvus/Weaviate) for hybrid RAG pipelines.
 
 ## Use Cases
 

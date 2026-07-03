@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Specialized AI Agent Teams**: Demonstrates how to design and organize specialized AI agents using the open-source `crewAI` library to automate complex, multi-step business processes (e.g., financial analysis, event planning, customer support).
+- **Multi-Agent System Design**: Demonstrates specialized AI agent teams using the open-source `crewAI` library to automate complex, multi-step business processes (e.g., customer support, financial analysis, event planning) via role-playing and natural language prompting.
 
-- **Multi-Agent System Architecture**: Implements role-playing, natural language prompting, and custom tools to enable agent cooperation, task automation, and error handling in Jupyter Notebook-based workflows.
-
-- **Business Process Optimization**: Fo
+- **Workflow Optimization & Automation**: Implements AI memory, custom tools, and error-handling to optimize task automation, including resume tailoring and technical writing, ensuring robust execution of business workflows.
 
 ## Use Cases
 

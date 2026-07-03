@@ -4,20 +4,20 @@ category: ai/rag
 source_type: github
 source_name: GitHub Topics AI Search
 source_url: https://github.com/oxbshw/llm-agents-ecosystem-handbook
-collected_at: '2026-07-01T10:24:50.570222+05:30'
-published_at: '2026-07-01T01:06:21Z'
+collected_at: '2026-07-03T15:06:00.299757+05:30'
+published_at: '2026-07-03T07:56:45Z'
 tags:
 - agents
 - benchmark
 - models
 - rag
-stars: 531
+stars: 532
 language: Python
 status: active
 resource_id: github:oxbshw/llm-agents-ecosystem-handbook
 first_seen: '2026-06-18T23:35:18.966710+05:30'
-last_seen: '2026-07-01T10:24:50.570222+05:30'
-last_checked: '2026-07-01T10:24:50.570222+05:30'
+last_seen: '2026-07-03T15:06:00.299757+05:30'
+last_checked: '2026-07-03T15:06:00.299757+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: oxbshw
-- Stars: 531
+- Stars: 532
 - Forks: 84
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, fine-tuning, finetuning-llms, freamework, llm, llmops, local-development, mcp-server, memory, rag, rag-chatbot, voice-agent
-- Last Updated: 2026-07-01T01:06:21Z
+- Last Updated: 2026-07-03T07:56:45Z
 
 ## Possible Use Cases
 

@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Google Play Games on PC** supports cross-platform gaming with titles like *Clash Royale*, *Whiteout Survival*, and *Arknights*, featuring in-app purchases and Windows compatibility.
-- **New/Upcoming Releases**: *Persona5: The Phantom X* (1st anniversary with Hatsune Miku), *Mongil: Star Dive* (monster-taming RPG), and *Discounty* (supermarket management simulator) with pre-registration options.
-- **Featured Titles**: High-rated games include *CookieRun: Kingdom* (4.8★), *GODDESS OF VICTORY:
+- **Google Play Games on PC** supports cross-platform gaming with titles like *Clash Royale* (4.5★), *Whiteout Survival* (4.1★), and *Arknights* (4.3★), offering in-app purchases and Windows compatibility.
+
+- **Upcoming releases** include *UnGodly* (Mature 17+), *Moonlight Peaks* (Teen), and *Guild Wars Reforged* (Teen), with pre-registration and gothic/vampire-themed gameplay.
+
+- **Featured RPG titles** like *Genshin Impact* (3.2★) and *GODDESS OF VICTORY: NIKKE* (4.7★) integrate monetization v
 
 ## Use Cases
 

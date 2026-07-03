@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crewAIInc/crewAI-tools
-collected_at: '2026-07-02T09:58:00.117902+05:30'
-published_at: '2026-07-01T14:10:53Z'
+collected_at: '2026-07-03T15:11:37.043825+05:30'
+published_at: '2026-07-02T15:06:23Z'
 tags:
 - agents
 - github-repo
 - python
-stars: 1450
+- workflows
+stars: 1451
 language: Python
 status: active
 license: MIT
@@ -18,9 +19,9 @@ archived: true
 created_at: '2024-01-11T17:29:13Z'
 pushed_at: '2025-10-23T18:08:34Z'
 resource_id: github:crewaiinc/crewai-tools
-first_seen: '2026-07-02T09:58:00.117902+05:30'
-last_seen: '2026-07-02T09:58:00.117902+05:30'
-last_checked: '2026-07-02T09:58:00.117902+05:30'
+first_seen: '2026-07-03T15:11:37.043825+05:30'
+last_seen: '2026-07-03T15:11:37.043825+05:30'
+last_checked: '2026-07-03T15:11:37.043825+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Python-based toolkit** for extending CrewAI agents' functionality with modular, reusable components.
-- **1,450+ stars & 532 forks** indicating strong community adoption and active development.
-- **Supports AI agent orchestration** via CrewAI integration, enabling enhanced agent capabilities.
+- **Purpose**: Extends CrewAI agent capabilities via modular Python tools for enhanced AI agent functionality.
+- **Features**: Provides reusable, customizable tools for agents to interact with external systems or perform specialized tasks.
+- **Integration**: Designed for seamless compatibility with CrewAI agents, enabling rapid deployment of AI-driven workflows.
 
 ## Why It Matters
 
@@ -39,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: crewAIInc
-- Stars: 1450
-- Forks: 532
+- Stars: 1451
+- Forks: 531
 - Language: Python
 - Topics: ai, aiagents, crewai, crewai-tools
-- Last Updated: 2026-07-01T14:10:53Z
+- Last Updated: 2026-07-02T15:06:23Z
 - License: MIT
 - Archived: Yes
 - Created At: 2024-01-11T17:29:13Z

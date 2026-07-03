@@ -8,12 +8,13 @@ local_vault_path: ai/agents/strnad-crewai-studio.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tool
+resource_kind: workflow
 importance: medium
 tags:
 - agents
 - github-repo
 - python
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -25,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tool
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **GUI for CrewAI Management**: Provides a no-code, multi-platform interface (built with Streamlit) for configuring, running, and monitoring CrewAI agents and tasks without requiring Python coding expertise.
-
-- **Environment Flexibility**: Supports both Conda and virtual environments for dependency isolation, ensuring compatibility across different system configurations.
-
-- **Recent Updates**: Last updated on **2026-06-24**, with **1,304 stars** and **315 forks**, indicating active community en
+- **Multi-platform GUI** for managing and executing CrewAI agents/tasks without coding, built with **Streamlit** and **Python**.
+- Supports **Conda** and **virtual environments** for dependency isolation, enabling seamless agent deployment.
+- Open-source repository with **1.3K+ stars**, last updated in **July 2026**, optimized for **CrewAI** workflows.
 
 ## Use Cases
 

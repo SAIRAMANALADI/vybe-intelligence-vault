@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Graph-Based Agent Framework**: LangGraphJS enables building resilient, stateful language agents using graph-based workflows, allowing complex multi-step interactions and decision-making via directed acyclic graphs (DAGs).
+- **Graph-Based Agent Framework**: LangGraphJS enables the construction of resilient language agents using graph-based architectures, facilitating complex workflows and state management.
 
-- **TypeScript Implementation**: The framework is implemented in TypeScript, providing type safety and modern JavaScript features for agent orchestration, state management, and tool integration.
+- **TypeScript Implementation**: The framework is implemented in TypeScript, providing type safety and leveraging modern JavaScript/TypeScript features for agent development.
 
-- **Modular & Extensible**: Supports dynamic agent graphs with custom nodes,
+- **Integration with LLMs**: Designed for seamless integration with large language models (LLMs), enabling generative AI applications wi
 
 ## Use Cases
 

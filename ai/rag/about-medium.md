@@ -3,17 +3,17 @@ title: About Medium
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://about.medium.com/
-published_at: '2026-07-02T15:08:26.237901+05:30'
-collected_at: '2026-07-02T15:08:26.237912+05:30'
+source_url: https://about.medium.com
+published_at: '2026-07-03T15:12:30.814181+05:30'
+collected_at: '2026-07-03T15:12:30.814193+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:about-medium
-first_seen: '2026-07-02T15:08:26.237912+05:30'
-last_seen: '2026-07-02T15:08:26.237912+05:30'
-last_checked: '2026-07-02T15:08:26.237912+05:30'
+first_seen: '2026-07-03T15:12:30.814193+05:30'
+last_seen: '2026-07-03T15:12:30.814193+05:30'
+last_checked: '2026-07-03T15:12:30.814193+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Mission & Model**: Medium is a platform for long-form, high-quality writing, prioritizing depth and nuance over sensationalism, funded by a community of over 1M members rather than ads or data sales.
-- **User Base**: Hosts 100M+ monthly users, including developers, designers, CEOs, and writers, who share insights, experiences, and expertise without requiring pre-existing audiences.
-- **Core Features**: Provides a collaborative, ad-free space for reading and writing, with tools for publishing and monetization via memberships, while enforcing a strict content policy to maintain quality.
+- **Mission & Model**: Medium is a subscription-supported platform (1M+ members) prioritizing depth over sensationalism, rejecting ads/data monetization to focus on thoughtful writing and collective understanding.
+- **User Base & Content**: Hosts 100M+ monthly users (developers, designers, CEOs, etc.) sharing niche expertise, personal insights, and long-form content via a collaborative, follower-free publishing model.
+- **UX & Goals**: Emphasizes simplicity, readability, and reader-writer alignment, aiming to foster nuanced dialogue and "time well spent" through a clean, ad-free interface.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T15:08:26.237901+05:30
+- Published: 2026-07-03T15:12:30.814181+05:30
 
 ## Related Tags
 
@@ -42,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://about.medium.com/
+Original source: https://about.medium.com

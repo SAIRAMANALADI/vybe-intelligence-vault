@@ -1,34 +1,36 @@
 ---
-title: 'pydantic/pydantic-ai Release: v2.3.0 (2026-07-01)'
+title: 'pydantic/pydantic-ai Release: v2.4.0 (2026-07-02)'
 category: ai/rag
 source_type: github_releases
 source_name: GitHub Releases AI
 source_url: https://github.com/pydantic/pydantic-ai
-published_at: '2026-07-02T02:09:16Z'
-collected_at: '2026-07-03T03:50:17.447400+05:30'
+published_at: '2026-07-03T01:24:57Z'
+collected_at: '2026-07-03T15:06:01.972740+05:30'
 tags:
+- agents
 - github-release
 - hackernews
-- openai
+- mistral
+- models
 - pydantic-pydantic-ai
+- workflows
 status: active
 resource_id: github:pydantic/pydantic-ai
 first_seen: '2026-06-16T13:57:15.241580+05:30'
-last_seen: '2026-07-03T03:50:17.447400+05:30'
-last_checked: '2026-07-03T03:50:17.447400+05:30'
+last_seen: '2026-07-03T15:06:01.972740+05:30'
+last_checked: '2026-07-03T15:06:01.972740+05:30'
 health_score: 100
 ---
 
 
-# pydantic/pydantic-ai Release: v2.3.0 (2026-07-01)
+# pydantic/pydantic-ai Release: v2.4.0 (2026-07-02)
 
 ## Summary
 
 ## What's Changed
 ### 🚀 Features
-* Add native Z.AI (Zhipu AI) provider with thinking support by @eliasaronson in https://github.com/pydantic/pydantic-ai/pull/4273
-### 🐛 Bug Fixes
-* fix(test): set `provider_name` on ...
+* Split `preserve_file_data` into `allow_uploaded_files` (inbound security) and an AG-UI representation opt-in by @DouweM in https://github.com/pydantic/pydantic-ai/pull/6232
+* Add `...
 
 ## Why It Matters
 
@@ -37,15 +39,18 @@ General public resource representing technology updates, guides, or tutorials.
 ## Details
 
 - Source: GitHub Releases AI
-- Category: ai/releases
-- Published: 2026-07-02T02:09:16Z
+- Category: ai/agents
+- Published: 2026-07-03T01:24:57Z
 
 ## Related Tags
 
+- agents
 - github-release
 - hackernews
-- openai
+- mistral
+- models
 - pydantic-pydantic-ai
+- workflows
 
 ## Source
 

@@ -6,10 +6,10 @@ source_url: https://haystack.deepset.ai/cookbook
 resource_id: blog:cookbook-haystack
 local_vault_path: ai/rag/cookbook-haystack.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
-resource_kind: benchmark
-importance: medium
+resource_kind: framework
+importance: high
 tags:
 - agents
 - anthropic
@@ -23,7 +23,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # 🧑‍🍳 Cookbook | Haystack
@@ -31,22 +31,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Guardrails and Security`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Haystack Cookbook** provides 71 technical recipes demonstrating integrations with model providers, vector databases, retrieval techniques, and more, categorized by topics like Agents, RAG, Advanced Retrieval, and Multimodal processing.
-
-- **Key Recipes Include**:
-  - Agentic Itinerary Planning with OpenStreetMap.
-  - Tabular Data Processing with Prior Labs MCP.
-  - Using Mem0 Memory Store with Haystack Agents.
-  - Hybrid RAG Pipeline with Breakpoints and Query Decomposition.
-  - Multimodal A
+- **Haystack Cookbook** provides 71 technical recipes covering **agents, RAG, multimodal processing, vector databases, model serving, and advanced retrieval** with integrations like **OpenStreetMap, MCP, vLLM, Mem0, and Azure AI Search**.
+- **Key technical areas** include **agentic workflows (e.g., itinerary planning, GitHub PR creation), hybrid retrieval (BM42, HyDE), metadata enrichment, and multimodal QA** with tools like **Gemma, Llama 3.2, and fastRAG**.
+- **Experimental and production-read
 
 ## Use Cases
 

@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-framework observability**: LangSmith provides end-to-end tracing, debugging, and monitoring for LLM applications across frameworks (e.g., OpenAI, Anthropic, CrewAI) via [/llms.txt](https://docs.langchain.com/llms.txt) integrations.
+- **Multi-framework observability**: LangSmith provides end-to-end tracing, debugging, and monitoring for LLM applications across frameworks (e.g., OpenAI, Anthropic, CrewAI) and providers via standardized integrations.
 
-- **Automated failure detection**: LangSmith Engine automatically identifies recurring issues in traces, diagnoses root causes, and enables resolution workflows with built-in automation rules and webhooks.
+- **Automated failure detection**: LangSmith Engine automatically identifies recurring issues in traces, diagnoses root causes, and enables resolution workflows with built-in automation, alerts, and dashboards.
 
-- **Three deployment models**: Supports cloud, hyb
+- **Deployment flexibility**: Supports cloud, hybrid, or self-hoste
 
 ## Use Cases
 

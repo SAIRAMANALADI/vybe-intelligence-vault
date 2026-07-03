@@ -6,19 +6,19 @@ source_url: https://github.com/idosal/git-mcp
 resource_id: github:idosal/git-mcp
 local_vault_path: ai/agents/idosal-git-mcp.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - typescript
-- workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # idosal/git-mcp
@@ -26,19 +26,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 81 (useful)
-- Resource kind: mcp-server
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Remote MCP Server for GitHub**: Provides a TypeScript-based, open-source remote MCP (Model Context Protocol) server enabling direct interaction with any GitHub repository to mitigate AI code hallucinations.
+- **Purpose**: GitMCP is an open-source, remote MCP (Model Context Protocol) server designed to provide structured, real-time access to any GitHub repository, mitigating AI code hallucinations by ensuring accurate, up-to-date context for LLM-based agents.
 
-- **Agentic AI Integration**: Designed for seamless integration with AI agents (e.g., Claude, Copilot, Cursor) to fetch, analyze, and validate code from GitHub projects in real-time.
+- **Technical Stack**: Implemented in TypeScript, it enables seamless integration with AI agents (e.g., Claude, Copilot, Cursor) via the MCP standard, facilitating dynamic repository interaction without local cloning.
 
-- **Dynamic Repository Sync**: Automatically syncs with GitHub repositories, ensuring up-to-date context
+- **Key Features**: Supp
 
 ## Use Cases
 

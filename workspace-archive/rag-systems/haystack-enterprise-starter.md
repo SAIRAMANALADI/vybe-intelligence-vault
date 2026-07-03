@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Haystack Framework**: Open-source Python framework for building production-ready LLM applications with modular pipelines for document retrieval, processing, and querying.
+- **Haystack Framework**: Open-source Python framework for building production-ready LLM applications, enabling modular pipelines for document retrieval, processing, and generation with support for vector databases, BM25, and transformer models.
 
-- **Enterprise Support Offerings**: Priority support, expert consultation, and pre-built templates for Haystack implementations, accelerating AI deployment in production environments.
+- **Enterprise Offerings**: Provides three tiers of enterprise support (Starter, Platform, Platform Trial) with priority support, expert consultation, and pre-built templates for scalable Haystack deployments in production environments.
 
-- **Industry Solutions**: Tailored implementations for sectors including government, finance, legal, healthcare, and manufacturing, leverag
+- **Industry So
 
 ## Use Cases
 

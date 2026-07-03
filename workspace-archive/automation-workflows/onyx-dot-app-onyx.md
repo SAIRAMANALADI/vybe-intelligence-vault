@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Open-source AI platform** written in Python, supporting **RAG (Retrieval-Augmented Generation)**, **vector search**, and **enterprise information retrieval** with a **Next.js**-based UI.
-- **Self-hosted LLM integration** enabling **ChatGPT-like chat** with **multi-model compatibility**, **advanced features**, and **customizable UI** for AI-driven workflows.
-- **Scalable architecture** with **30.6K+ stars** and **4.2K+ forks**, optimized for **gen-AI applications**, **document search**, and *
+- **Architecture**: Python-based open-source AI platform enabling AI chat with **RAG (Retrieval-Augmented Generation)**, **vector search**, and **enterprise-grade information retrieval** via Next.js frontend.
+- **Features**: Supports **self-hosting**, integrates with **any LLM**, and includes advanced UI components for **ChatGPT-like interactions** with **multi-modal capabilities**.
+- **Deployment**: Optimized for **scalability** with modular design, supporting **vector databases** and **enterpr
 
 ## Use Cases
 

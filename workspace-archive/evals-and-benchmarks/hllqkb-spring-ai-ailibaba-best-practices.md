@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - java
 - rag
 - reddit
@@ -35,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Implements RAG with Vector Databases**: Demonstrates Retrieval-Augmented Generation (RAG) using embedding models and vector databases for efficient knowledge retrieval and response augmentation in Java-based AI Q&A systems.
+- **Architecture**: Implements a Java-based AI Q&A system leveraging **Spring AI** with **Alibaba Cloud** integrations, featuring **SSE streaming**, **Agent-based workflows**, **RAG with knowledge graphs**, **Function Calling**, and **message history** for conversational context.
 
-- **Agentic Workflows with Function Calling**: Integrates AI agent architectures supporting function calls, SSE (Server-Sent Events) streaming, and historical message management for dynamic, stateful interactions.
-
-- **Multimodal AI Capabilities**: Supports image generat
+- **Multimodal Capabilities**: Supports **image generation** (via diffusion models), **image understanding** (OCR/VLM), **embedding models**, and **vector databases** (e.g., Milvus/Weaviate) for hybrid RAG pipelines.
 
 ## Use Cases
 

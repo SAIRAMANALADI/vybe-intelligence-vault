@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/langsmith/home
-published_at: '2026-07-03T03:57:27.867567+05:30'
-collected_at: '2026-07-03T03:57:27.867580+05:30'
+published_at: '2026-07-03T15:14:27.864433+05:30'
+collected_at: '2026-07-03T15:14:27.864447+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langsmith-observability-docs-by-langchain
-first_seen: '2026-07-03T03:57:27.867580+05:30'
-last_seen: '2026-07-03T03:57:27.867580+05:30'
-last_checked: '2026-07-03T03:57:27.867580+05:30'
+first_seen: '2026-07-03T15:14:27.864447+05:30'
+last_seen: '2026-07-03T15:14:27.864447+05:30'
+last_checked: '2026-07-03T15:14:27.864447+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-framework observability**: LangSmith provides end-to-end tracing, debugging, and monitoring for LLM applications across frameworks (e.g., OpenAI, Anthropic, CrewAI) via [/llms.txt](https://docs.langchain.com/llms.txt) integrations.
+- **Multi-framework observability**: LangSmith provides end-to-end tracing, debugging, and monitoring for LLM applications across frameworks (e.g., OpenAI, Anthropic, CrewAI) and providers via standardized integrations.
 
-- **Automated failure detection**: LangSmith Engine automatically identifies recurring issues in traces, diagnoses root causes, and enables resolution workflows with built-in automation rules and webhooks.
+- **Automated failure detection**: LangSmith Engine automatically identifies recurring issues in traces, diagnoses root causes, and enables resolution workflows with built-in automation, alerts, and dashboards.
 
-- **Three deployment models**: Supports cloud, hybrid, or self-hosted LangSmith instances, all including observability, evaluation, prompt engineering, and deployment capabilities via [Platform setup](https://docs.langchain.com/langsmith/platform-setup).
+- **Deployment flexibility**: Supports cloud, hybrid, or self-hosted LangSmith instances with unified observability, evaluation, prompt engineering, and deployment capabilities (pricing/retention details in [Usage and billing](https://docs.langchain.com/langsmith/usage-and-billing)).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T03:57:27.867567+05:30
+- Published: 2026-07-03T15:14:27.864433+05:30
 
 ## Related Tags
 

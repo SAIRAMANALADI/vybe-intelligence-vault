@@ -6,7 +6,7 @@ source_url: https://github.com/Azure-Samples/app-service-rag-openai-ai-search-do
 resource_id: github:azure-samples/app-service-rag-openai-ai-search-dotnet
 local_vault_path: ai/rag/azure-samples-app-service-rag-openai-ai-search-dotnet.md
 quality_score: 70
-archive_score: 83
+archive_score: 81
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 83 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Implementation**: Demonstrates Retrieval Augmented Generation (RAG) using a Blazor Server app with Azure OpenAI and AI Search, enabling hybrid search (vector + keyword + semantic ranking) for document-based queries.
-
-- **Security & Deployment**: Implements managed identity for secure access and supports one-command deployment via Azure Developer CLI for streamlined setup.
-
-- **Tech Stack**: Built with .NET (Blazor Server) and integrates Azure OpenAI for embeddings and AI Search for hybri
+- **RAG Implementation**: Demonstrates Retrieval Augmented Generation (RAG) using Azure OpenAI and Azure AI Search with hybrid search (vector + keyword + semantic ranking) for document-based chat interactions.
+- **Security & Deployment**: Uses managed identities for secure authentication and supports one-command deployment via Azure Developer CLI.
+- **Tech Stack**: Built as a Blazor Server application in .NET, with no explicit topics tagged but focused on AI-driven document retrieval and chat ca
 
 ## Use Cases
 

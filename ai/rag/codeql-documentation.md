@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://codeql.github.com/docs
-published_at: '2026-07-03T03:58:18.726773+05:30'
-collected_at: '2026-07-03T03:58:18.726785+05:30'
+published_at: '2026-07-03T15:15:16.376546+05:30'
+collected_at: '2026-07-03T15:15:16.376558+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:codeql-documentation
-first_seen: '2026-07-03T03:58:18.726785+05:30'
-last_seen: '2026-07-03T03:58:18.726785+05:30'
-last_checked: '2026-07-03T03:58:18.726785+05:30'
+first_seen: '2026-07-03T15:15:16.376558+05:30'
+last_seen: '2026-07-03T15:15:16.376558+05:30'
+last_checked: '2026-07-03T15:15:16.376558+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **CodeQL Overview**: Enables querying code as data to identify and eradicate vulnerabilities via customizable queries, with support for multiple languages, libraries, and frameworks.
+- **CodeQL** treats code as data, enabling vulnerability detection via structured queries (QL) to identify and eliminate recurring security flaws across codebases.
 
-- **Query Development & Execution**: Provides tools for writing, testing, and running CodeQL queries, including a CLI, VS Code extension, and language-specific guides for efficient analysis.
+- **Supported languages/frameworks** (e.g., C/C++, Java, JavaScript, Python) and **CWE coverage** are documented, with **release notes** detailing tooling/query improvements and system requirements for deployment.
 
-- **Documentation & Resources**: Offers comprehensive references for QL language syntax, standard libraries, CWE coverage, and release-specific updates to aid in vulnerability detection and mitigation.
+- **Resources** include a **CLI**, **VS Code extension**, and **GitHub repository** for query development, while **reference docs** provide QL syntax, standard libraries, and query-specific guidance.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T03:58:18.726773+05:30
+- Published: 2026-07-03T15:15:16.376546+05:30
 
 ## Related Tags
 

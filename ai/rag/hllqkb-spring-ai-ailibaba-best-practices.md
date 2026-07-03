@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-07-03T03:51:55.150697+05:30'
+collected_at: '2026-07-03T15:08:21.757332+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - java
 - rag
 - reddit
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-07-03T03:51:55.150697+05:30'
-last_seen: '2026-07-03T03:51:55.150697+05:30'
-last_checked: '2026-07-03T03:51:55.150697+05:30'
+first_seen: '2026-07-03T15:08:21.757332+05:30'
+last_seen: '2026-07-03T15:08:21.757332+05:30'
+last_checked: '2026-07-03T15:08:21.757332+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Implements RAG with Vector Databases**: Demonstrates Retrieval-Augmented Generation (RAG) using embedding models and vector databases for efficient knowledge retrieval and response augmentation in Java-based AI Q&A systems.
+- **Architecture**: Implements a Java-based AI Q&A system leveraging **Spring AI** with **Alibaba Cloud** integrations, featuring **SSE streaming**, **Agent-based workflows**, **RAG with knowledge graphs**, **Function Calling**, and **message history** for conversational context.
 
-- **Agentic Workflows with Function Calling**: Integrates AI agent architectures supporting function calls, SSE (Server-Sent Events) streaming, and historical message management for dynamic, stateful interactions.
+- **Multimodal Capabilities**: Supports **image generation** (via diffusion models), **image understanding** (OCR/VLM), **embedding models**, and **vector databases** (e.g., Milvus/Weaviate) for hybrid RAG pipelines.
 
-- **Multimodal AI Capabilities**: Supports image generation (e.g., via diffusion models), image understanding (OCR/VLM), and structured knowledge graph integration for enhanced contextual reasoning in Spring AI applications.
+- **Technical Stack**: Uses **Java/Spring Boot** with **Alibaba Cloud AI services**, **Embedding APIs**, and **vector DBs** for retrieval-augmented generation, optimized for enterprise-grade AI workflows.
 
 ## Why It Matters
 

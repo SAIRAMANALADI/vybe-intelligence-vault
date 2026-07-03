@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting on user/organization profiles with support for Gradio SDK, Docker, and static HTML/JS applications, including GPU acceleration for performance-critical workloads.
+- **Hosting & Deployment**: Hugging Face Spaces enables deployment of ML demo applications directly on user/organization profiles with built-in support for Gradio, Docker, and static HTML/JavaScript apps, including GPU acceleration options.
 
-- **Multi-SDK Support**: Provides native integration for Gradio, Docker, and custom Python/HTML/JS stacks, with advanced configurations like ZeroGPU, Dev Mode, and custom domains for flexible deployment.
+- **Storage & Compute**: Supports disk usage tracking, custom domains, and ZeroGPU configurations, with options for advanced compute (e.g., AWS Trainium/Inferentia) and resource management via storage buckets (S3-compatible).
 
-- **Collaboration & Extensibility**: Supports GitHub Action
+- **Integration & Automation**:
 
 ## Use Cases
 

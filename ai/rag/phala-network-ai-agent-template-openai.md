@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Phala-Network/ai-agent-template-openai
-collected_at: '2026-07-02T22:36:15.328677+05:30'
+collected_at: '2026-07-03T15:09:42.189974+05:30'
 published_at: '2026-06-30T16:46:05Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-28T19:00:47Z'
 pushed_at: '2024-09-05T18:01:35Z'
 resource_id: github:phala-network/ai-agent-template-openai
-first_seen: '2026-07-02T22:36:15.328677+05:30'
-last_seen: '2026-07-02T22:36:15.328677+05:30'
-last_checked: '2026-07-02T22:36:15.328677+05:30'
+first_seen: '2026-07-03T15:09:42.189974+05:30'
+last_seen: '2026-07-03T15:09:42.189974+05:30'
+last_checked: '2026-07-03T15:09:42.189974+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based AI-Agent Contract Template**: Provides a structured foundation for integrating OpenAI's API with Phala Network's confidential computing framework, enabling secure, off-chain AI agent execution.
+- **Template Purpose**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, enabling secure, off-chain computation and privacy-preserving interactions.
 
-- **OpenAI Integration**: Implements OpenAI's function calling and tool-use patterns to enable AI agents to interact with external contracts or APIs while maintaining privacy via Phala's Trusted Execution Environment (TEE).
+- **Key Components**: Includes pre-configured OpenAPI client integration, Phala Network worker setup, and example agent logic for processing requests/responses via secure enclaves.
 
-- **Phala Network Compatibility**: Designed for deployment on Phala's decentralized cloud, leveraging its blockchain-anchored privacy guarantees to ensure confidential, verifiable AI agent operations.
+- **Deployment & Usage**: Designed for deployment on Phala's confidential computing infrastructure, leveraging TEE (Trusted Execution Environment) for encrypted computation and data integrity.
 
 ## Why It Matters
 

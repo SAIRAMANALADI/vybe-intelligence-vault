@@ -5,7 +5,7 @@ source_type: huggingface_dataset
 source_name: Hugging Face Trending Datasets
 source_url: https://huggingface.co/datasets/huggingface
 published_at: '2026-07-01T13:27:12.000Z'
-collected_at: '2026-07-02T15:03:25.351275+05:30'
+collected_at: '2026-07-03T15:05:59.718959+05:30'
 tags:
 - dataset
 - hf-dataset
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:datasets/huggingface
 first_seen: '2026-06-18T23:35:18.472104+05:30'
-last_seen: '2026-07-02T15:03:25.351275+05:30'
-last_checked: '2026-07-02T15:03:25.351275+05:30'
+last_seen: '2026-07-03T15:05:59.718959+05:30'
+last_checked: '2026-07-03T15:05:59.718959+05:30'
 health_score: 100
 ---
 
@@ -22,7 +22,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face dataset: huggingface/documentation-images (Likes: 160, Downloads: 3009457)
+Trending Hugging Face dataset: huggingface/documentation-images (Likes: 160, Downloads: 2994114)
 
 ## Why It Matters
 

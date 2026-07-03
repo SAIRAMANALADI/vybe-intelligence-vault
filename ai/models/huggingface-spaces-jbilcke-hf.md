@@ -4,16 +4,16 @@ category: ai/models
 source_type: huggingface_space
 source_name: Hugging Face Trending Spaces
 source_url: https://huggingface.co/spaces/jbilcke-hf
-published_at: '2026-07-03T03:50:15.627885+05:30'
-collected_at: '2026-07-03T03:50:15.627893+05:30'
+published_at: '2026-07-03T15:05:59.766471+05:30'
+collected_at: '2026-07-03T15:05:59.766476+05:30'
 tags:
 - hf-space
 - huggingface
 status: active
 resource_id: huggingface:spaces/jbilcke-hf
 first_seen: '2026-06-18T23:35:18.514966+05:30'
-last_seen: '2026-07-03T03:50:15.627893+05:30'
-last_checked: '2026-07-03T03:50:15.627893+05:30'
+last_seen: '2026-07-03T15:05:59.766476+05:30'
+last_checked: '2026-07-03T15:05:59.766476+05:30'
 health_score: 100
 ---
 
@@ -21,7 +21,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11154, Downloads: 0)
+Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11155, Downloads: 0)
 
 ## Why It Matters
 
@@ -31,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Trending Spaces
 - Category: ai/models
-- Published: 2026-07-03T03:50:15.627885+05:30
+- Published: 2026-07-03T15:05:59.766471+05:30
 
 ## Related Tags
 

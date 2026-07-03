@@ -2,28 +2,26 @@
 title: Changelog - Docs by LangChain
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://docs.langchain.com/oss/javascript/releases/changelog
+source_url: https://docs.langchain.com/oss/python/releases/changelog
 resource_id: blog:changelog-docs-by-langchain
 local_vault_path: ai/rag/changelog-docs-by-langchain.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - anthropic
-- hackernews
-- meta-ai
-- models
 - openai
 - producthunt
 - rag
 - web-crawled
 - workflows
+- youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Changelog - Docs by LangChain
@@ -32,16 +30,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **DeepAgents v1.9.0-alpha.0**: Introduces async subagents for non-blocking background tasks requiring LangSmith Deployment, and **BackendProtocolV2** with structured `Result` objects (e.g., `ReadResult`, `LsResult`), multi-modal file support via `Uint8Array` in `readRaw()`, and simplified method names (e.g., `ls` instead of `lsInfo`).
+- **`deepagents` v0.6.0**: Introduced experimental `CodeInterpreterMiddleware` for scoped QuickJS runtime-based code execution, added `version="v3"` support for event streaming, and introduced `DeltaChannel` (beta) for incremental delta storage in long-running threads to optimize checkpoint sizes.
 
-- **LangGraph v1.1.0**: Adds **StateSchema** for schema-first graph state definitions using Standard JSON Schema (compatible with Zod 4, Valibot, etc.), introdu
+- **`langgraph` v1.2.0**: Added per-node timeouts (`run_timeout`, `idle_timeout`), node-level error handlers for recovery, and `DeltaChannel` (beta) for efficient incremental state storage; introduced
 
 ## Use Cases
 
@@ -51,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.langchain.com/oss/javascript/releases/changelog
+Original source URL: https://docs.langchain.com/oss/python/releases/changelog
 
 ## Local Vault File
 

@@ -8,25 +8,25 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 
 ## Top Matched Resources
 
-- [ray-project/llm-applications](https://github.com/ray-project/llm-applications) (framework - ESSENTIAL Tier)
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) (framework - ESSENTIAL Tier)
 - [Mem0 · GitHub](https://github.com/mem0ai) (mcp-server - ESSENTIAL Tier)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (template - ESSENTIAL Tier)
 - [protobuf-go/proto at v1.36.11 · protocolbuffers/protobuf-go · GitHub](https://github.com/protocolbuffers/protobuf-go/tree/v1.36.11/proto) (benchmark - ESSENTIAL Tier)
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) (framework - ESSENTIAL Tier)
 - [tomasonjo (Tomaz Bratanic) · GitHub](https://github.com/tomasonjo/) (benchmark - ESSENTIAL Tier)
-- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (benchmark - ESSENTIAL Tier)
+- [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template) (template - ESSENTIAL Tier)
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
-- [truefoundry/cognita](https://github.com/truefoundry/cognita) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/tylerwince/promptfoo (Promptfoo)
 https://github.com/confident-ai/deepeval (DeepEval)
 https://github.com/explodinggradients/ragas (Ragas)
-- [ray-project/llm-applications](https://github.com/ray-project/llm-applications)
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [Mem0 · GitHub](https://github.com/mem0ai)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack)
 - [protobuf-go/proto at v1.36.11 · protocolbuffers/protobuf-go · GitHub](https://github.com/protocolbuffers/protobuf-go/tree/v1.36.11/proto)
-- [tomasonjo (Tomaz Bratanic) · GitHub](https://github.com/tomasonjo/)
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/explodinggradients/ragas (Ragas)
 
 ---
 
-*Last updated: 2026-07-03 04:07 IST*
+*Last updated: 2026-07-03 15:23 IST*

@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - rag
-- scripts
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -32,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **AI-powered alert noise reduction**: Automatically filters and prioritizes critical alerts to minimize unnecessary pages, using machine learning to distinguish between high-impact incidents and routine notifications.
-
-- **Human-centric scheduling automation**: Implements effortless, context-aware on-call scheduling with AI-driven rotation adjustments to ensure optimal coverage while balancing team workload and expertise.
-
-- **Real-time incident trends and mobile integration**: Provides action
+- **AI-driven alert noise reduction**: Uses machine learning to filter and prioritize alerts, minimizing false positives and reducing unnecessary pages.
+- **Automated scheduling & escalation**: Implements dynamic, rule-based on-call scheduling with intelligent escalation paths to ensure optimal incident response coverage.
+- **Real-time analytics & trends**: Provides actionable insights via dashboards tracking on-call performance, response times, and incident resolution patterns.
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/GenAI_Agents
-collected_at: '2026-07-03T03:53:00.223211+05:30'
-published_at: '2026-07-02T21:16:22Z'
+collected_at: '2026-07-03T15:09:26.859864+05:30'
+published_at: '2026-07-03T07:45:48Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - jupyter notebook
 - openai
 - rag
-stars: 22972
+stars: 22979
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-09-09T20:10:19Z'
 pushed_at: '2026-06-17T20:54:15Z'
 resource_id: github:nirdiamant/genai_agents
-first_seen: '2026-07-03T03:53:00.223211+05:30'
-last_seen: '2026-07-03T03:53:00.223211+05:30'
-last_checked: '2026-07-03T03:53:00.223211+05:30'
+first_seen: '2026-07-03T15:09:26.859864+05:30'
+last_seen: '2026-07-03T15:09:26.859864+05:30'
+last_checked: '2026-07-03T15:09:26.859864+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Tutorial Repository**: Hosts 50+ technical tutorials and implementations for Generative AI Agent techniques, spanning from basic conversational bots to advanced multi-agent systems, leveraging frameworks like LangChain, LangGraph, and MCP.
-
-- **Multi-Framework Support**: Demonstrates integrations with OpenAI, LangChain, LangGraph, and MCP, focusing on Python-based implementations (Jupyter Notebooks) for agentic AI, RAG, and autonomous agent architectures.
-
-- **High Community Engagement**: Maintained repository with 22,972 stars and 3,857 forks, last updated July 2, 2026, reflecting active development and broad adoption in AI agent research and deployment.
+*   Comprehensive collection of 50+ Jupyter Notebook tutorials and implementations for Generative AI Agent techniques.
+*   Covers a spectrum of agent architectures, from basic conversational bots to complex multi-agent systems (MAS), utilizing frameworks like LangChain and LangGraph.
+*   Demonstrates practical applications of LLMs, RAG, and potential Multi-Agent Communication Protocols (MCP) for autonomous agent development.
 
 ## Why It Matters
 
@@ -44,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NirDiamant
-- Stars: 22972
-- Forks: 3857
+- Stars: 22979
+- Forks: 3859
 - Language: Jupyter Notebook
 - Topics: agentic-ai, agents, ai, ai-agents, autonomous-agents, genai, generative-ai, langchain, langgraph, llm, llms, machine-learning, mcp, multi-agent, multi-agent-systems, openai, python, rag, tutorials
-- Last Updated: 2026-07-02T21:16:22Z
+- Last Updated: 2026-07-03T07:45:48Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-09-09T20:10:19Z

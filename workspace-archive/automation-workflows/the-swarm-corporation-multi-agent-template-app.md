@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Template Structure**: Provides a minimalist, high-performance framework for deploying multi-agent systems with support for frameworks like AutoGen, CrewAI, LangChain, and HuggingFace Transformers.
+- **Template Structure**: Provides a lightweight, high-performance shell-based scaffold for rapid deployment of multi-agent applications using frameworks like AutoGen, CrewAI, LangChain, and HuggingFace Transformers.
 
-- **Performance & Reliability**: Optimized for low-latency, scalable agent interactions with built-in testing and validation mechanisms for multi-agent workflows.
+- **Multi-Agent Integration**: Supports agentic workflows with built-in compatibility for swarm intelligence, model orchestration (LLMs/Transformers), and agent operations (AgentOps) for scalable agent collaboration.
 
-- **Tooling Integration**: Pre-configured for seamless integration with LLMs, Swarms, AgentOps, and Transformers-models, enabling rapi
+- **Testing & Extensibility**: Includes testing utilities and mo
 
 ## Use Cases
 

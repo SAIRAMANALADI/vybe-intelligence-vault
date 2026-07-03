@@ -3,9 +3,9 @@ title: AI and Cloud Computing Services | Google Cloud
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: http://cloud.google.com
-published_at: '2026-07-02T20:15:08.874700+05:30'
-collected_at: '2026-07-02T20:15:08.874714+05:30'
+source_url: https://cloud.google.com
+published_at: '2026-07-03T15:16:06.688075+05:30'
+collected_at: '2026-07-03T15:16:06.688085+05:30'
 tags:
 - agents
 - creative_dev
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:ai-and-cloud-computing-services-google-cloud
-first_seen: '2026-07-02T20:15:08.874714+05:30'
-last_seen: '2026-07-02T20:15:08.874714+05:30'
-last_checked: '2026-07-02T20:15:08.874714+05:30'
+first_seen: '2026-07-03T15:16:06.688085+05:30'
+last_seen: '2026-07-03T15:16:06.688085+05:30'
+last_checked: '2026-07-03T15:16:06.688085+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Google AI Threat Defense**: Introduces AI-driven security measures to proactively detect and mitigate adversarial threats, leveraging real-time threat intelligence and adaptive defense mechanisms.
+- **AI Threat Defense**: Introduces Google AI Threat Defense to proactively mitigate AI-driven cyber threats using agentic defense mechanisms, enhancing real-time threat detection and response.
 
 - **Gemini Enterprise Agent Platform**: A unified platform for developing, orchestrating, and governing AI agents, supporting multi-agent architectures and integration with 200+ foundation models via Agent Studio.
 
-- **AI Infrastructure Scaling**: Google Cloud’s AI Hypercomputer enables scalable agentic-era workloads, utilizing custom TPUs, GPUs, and Arm-based Google Axion Processors for high-performance AI compute.
+- **AI Infrastructure Scaling**: Google AI Hypercomputer enables scaling for the "agentic era," leveraging custom TPUs, GPUs, and Arm-based Axion Processors to optimize performance for large-scale AI workloads.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T20:15:08.874700+05:30
+- Published: 2026-07-03T15:16:06.688075+05:30
 
 ## Related Tags
 
@@ -64,4 +64,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: http://cloud.google.com
+Original source: https://cloud.google.com

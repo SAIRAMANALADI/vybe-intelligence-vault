@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/affaan-m/ecc
-published_at: '2026-07-03T03:50:16.156313+05:30'
-collected_at: '2026-07-03T03:50:16.156316+05:30'
+published_at: '2026-07-03T15:06:00.631131+05:30'
+collected_at: '2026-07-03T15:06:00.631134+05:30'
 tags:
 - agents
 - anthropic
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: github:affaan-m/ecc
 first_seen: '2026-07-02T20:00:14.034749+05:30'
-last_seen: '2026-07-03T03:50:16.156316+05:30'
-last_checked: '2026-07-03T03:50:16.156316+05:30'
+last_seen: '2026-07-03T15:06:00.631134+05:30'
+last_checked: '2026-07-03T15:06:00.631134+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/agents
-- Published: 2026-07-03T03:50:16.156313+05:30
+- Published: 2026-07-03T15:06:00.631131+05:30
 
 ## Related Tags
 

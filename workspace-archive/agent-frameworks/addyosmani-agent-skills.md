@@ -8,13 +8,15 @@ local_vault_path: ai/agents/addyosmani-agent-skills.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: product
+resource_kind: workflow
 importance: medium
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - shell
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -25,15 +27,17 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: product
+- Resource kind: workflow
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Repository Overview**: Production-grade engineering skills repository (`addyosmani/agent-skills`) for AI coding agents, with 68,448 stars and 7,414 forks, primarily written in Shell.
-- **Key Topics**: Focuses on `agent-skills`, `antigravity`, `antigravity-ide`, `claude-code`, `cursor`, and related AI coding agent tools.
-- **Last Updated**: Repository last updated on **July 2, 2026**, with active development tracked via the provided URL.
+- **Repository Purpose**: Provides production-grade engineering skills for AI coding agents, optimized for tools like `claude-code`, `cursor`, and `antigravity-ide`.
+
+- **Technical Stack**: Implemented primarily in Shell, with integration for agent-based workflows and IDE-specific skillsets.
+
+- **Metadata**: Highly active with 68,673 stars, 7,446 forks, and last updated on 2026-07-03.
 
 ## Use Cases
 

@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -38,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI using vector search, LLMs (e.g., GPT-4-Vision), and embeddings.
-- **Integration Frameworks**: Demonstrates workflows with LangChain, LlamaIndex, and OpenAI APIs for fine-tuning, agent-based systems, and multimodal pipelines.
-- **Vector Database Focus**: Leverages LanceDB for efficient vector storage and retrieval, covering deep-learning embeddings, fine-t
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI applications, integrating vector search with LLMs (e.g., GPT-4 Vision) for advanced AI workflows.
+
+- **Vector Database Integration**: Demonstrates practical use of LanceDB (a vector database) with frameworks like LangChain and LlamaIndex for efficient embedding storage, retrieval, and fine-tuning in machine learning pipelines.
+
+- **Agentic & Embedding Wor
 
 ## Use Cases
 

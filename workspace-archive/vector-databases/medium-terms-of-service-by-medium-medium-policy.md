@@ -2,7 +2,7 @@
 title: Medium Terms of Service | by Medium | Medium Policy
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://medium.com/policy/9db0094a1e0f
+source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=
 resource_id: blog:medium-terms-of-service-by-medium-medium-policy
 local_vault_path: ai/rag/medium-terms-of-service-by-medium-medium-policy.md
 quality_score: 70
@@ -10,10 +10,6 @@ archive_score: 70
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
-tags:
-- agents
-- rag
-- web-crawled
 selection_reason:
 - Valuable developer reference
 ---
@@ -30,9 +26,9 @@ selection_reason:
 
 ## Summary
 
-- **License Grant & Content Ownership**: Users retain rights to submitted content but grant Medium a **non-exclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all platforms (e.g., web, mobile) with attribution. This license is required for cross-platform distribution and derivative works (e.g., previews, top-author lists).
+- **License Grant**: Users retain ownership of their content but grant Medium a **worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display their content across all Medium services (web, mobile, etc.), including derivative works (e.g., previews, curated lists) with attribution.
 
-- **Liability & Dispute Resolution**: Medium disclaims warranties (e.g., accuracy, reliability) and limit
+- **Dispute Resolution**: All disputes (excluding small claims or IP injunctions) are resolved via **confidential, binding arbitration** under JAMS rules, with venue in San Francisco
 
 ## Use Cases
 
@@ -42,7 +38,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://medium.com/policy/9db0094a1e0f
+Original source URL: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=
 
 ## Local Vault File
 

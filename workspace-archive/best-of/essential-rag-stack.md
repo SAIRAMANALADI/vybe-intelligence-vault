@@ -8,30 +8,40 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
-### [truefoundry/cognita](https://github.com/truefoundry/cognita)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `91` | **Path**: [`truefoundry-cognita.md`](../../ai/rag/truefoundry-cognita.md)
+### [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `93` | **Path**: [`stackitcloud-rag-template.md`](../../ai/rag/stackitcloud-rag-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [ray-project/llm-applications](https://github.com/ray-project/llm-applications)
+### [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `91` | **Path**: [`ray-project-llm-applications.md`](../../ai/rag/ray-project-llm-applications.md)
+- **Score**: `91` | **Path**: [`graphrag-bench-graphrag-benchmark.md`](../../ai/rag/graphrag-bench-graphrag-benchmark.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
+
+### [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`run-llama-llamaindexts.md`](../../ai/rag/run-llama-llamaindexts.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`truefoundry-cognita.md`](../../ai/rag/truefoundry-cognita.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `91` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
+- **Score**: `89` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/)
 - **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
-- **Score**: `90` | **Path**: [`rag-application-tutorial-2025-build-production-rea.md`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
+- **Score**: `88` | **Path**: [`rag-application-tutorial-2025-build-production-rea.md`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [Leveraging Phase Information to Boost Unrolled Network Learning for Image Deblurring](https://arxiv.org/abs/2607.00251)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
@@ -48,24 +58,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `88` | **Path**: [`arxiv-2508-03898.md`](../../ai/research/arxiv-2508-03898.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [Generative AI and Federated Learning for Intrusion Detection Systems: A Survey](https://arxiv.org/abs/2607.01305)
+- **Category**: `ai/research` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
+- **Score**: `88` | **Path**: [`arxiv-2607-01305.md`](../../ai/research/arxiv-2607-01305.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
 ### [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`denis2054-context-engineering-for-multi-agent-systems.md`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [ansible-collections/google.cloud](https://github.com/ansible-collections/google.cloud)
-- **Category**: `ai/rag` | **Kind**: `WORKFLOW` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`ansible-collections-google-cloud.md`](../../ai/rag/ansible-collections-google-cloud.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [langgenius/dify](https://github.com/langgenius/dify)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-03 04:07 IST*
+*Last updated: 2026-07-03 15:24 IST*

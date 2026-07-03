@@ -11,10 +11,12 @@ archive_tier: useful
 resource_kind: prompt
 importance: medium
 tags:
+- benchmark
 - github-repo
 - hackernews
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -33,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository focused on best practices for Retrieval-Augmented Generation (RAG) systems, containing Python-based implementations and guidelines.
-- **Metadata**: 107 stars, 20 forks, last updated on June 19, 2026; no associated topics or description provided.
-- **Technical Scope**: Aims to optimize RAG pipelines, likely covering retrieval strategies, prompt engineering, and integration techniques for generative AI models.
+- **Repository Overview**: GitHub repository focused on best practices for Retrieval-Augmented Generation (RAG) pipelines, containing Python-based implementations and guidelines.
+- **Metadata**: 107 stars, 20 forks, last updated on 2026-06-19, with no specified topics or description.
+- **Technical Stack**: Primarily Python, targeting optimization and standardization of RAG workflows (e.g., retrieval strategies, prompt engineering, evaluation metrics).
 
 ## Use Cases
 

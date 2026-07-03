@@ -30,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Parallel Scheduling**: Implements native parallelism via Codex CLI, enabling autonomous coordination of primary agents and efficient task distribution to sub-agents for optimized workload management.
-
-- **Configuration Template**: Provides a reference template for setting up multi-agent systems with Codex, facilitating scalable and high-performance task execution through parallel processing.
-
-- **Repository Metadata**: Hosted on GitHub with 198 stars, 11 forks, and last updated o
+- **Multi-Agent Parallel Scheduling**: Implements native parallelism via Codex CLI to enable autonomous coordination between primary and sub-agents for efficient task distribution.
+- **Configuration Template**: Provides a reference template for setting up multi-agent parallel scheduling with Codex CLI, optimizing native parallel capabilities.
+- **Repository Metadata**: Hosted on GitHub with 197 stars, 11 forks, and last updated on 2026-07-03; language unspecified but focuses on Codex CLI integra
 
 ## Use Cases
 

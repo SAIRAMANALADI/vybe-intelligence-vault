@@ -8,15 +8,18 @@ local_vault_path: ai/rag/pixegami-rag-tutorial-v2.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
+- meta-ai
+- mistral
+- models
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # pixegami/rag-tutorial-v2
@@ -25,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-*   Langchain-based RAG tutorial (v2) demonstrating enhanced retrieval augmented generation.
-*   Features local LLM integration and updated database interaction patterns.
-*   Incorporates testing methodologies for RAG system validation.
+- Implements **LangChain RAG pipeline** with **local LLMs** (e.g., Llama, Mistral) via Ollama or HuggingFace, avoiding API dependency.
+- Features **dynamic database updates** using **ChromaDB** or **FAISS** for vector storage, enabling real-time document ingestion and retrieval.
+- Includes **testing framework** with **RAGAS** and **TruLens** for evaluating retrieval quality, answer correctness, and hallucination rates.
 
 ## Use Cases
 

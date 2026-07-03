@@ -8,7 +8,7 @@ local_vault_path: ai/rag/nirdiamant-rag-techniques.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -32,16 +32,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Advanced RAG Techniques**: Repository provides Jupyter Notebook tutorials on cutting-edge RAG methodologies, including agentic RAG, hybrid search, and multi-modal retrieval.
-- **Tooling Integration**: Demonstrates implementations with LangChain, LlamaIndex, and vector databases (e.g., FAISS, Pinecone) for optimized retrieval and generation workflows.
-- **Evaluation & Benchmarking**: Includes notebooks for assessing RAG performance metrics (e.g., retrieval accuracy, latency) and comparing emb
+- **Advanced RAG Techniques**: Repository provides Jupyter Notebook tutorials on cutting-edge RAG methodologies, including agentic RAG, hybrid retrieval, and multi-modal integration, with implementations in LangChain and LlamaIndex.
+
+- **Toolchain Integration**: Demonstrates practical integration with vector databases (e.g., FAISS, Pinecone), LLMs (OpenAI, GPT), and embeddings (e.g., Sentence-Transformers) for optimized retrieval and generation workflows.
+
+- **Performance Optimization**: Include
 
 ## Use Cases
 

@@ -2,11 +2,11 @@
 title: 'AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex'
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://www.llamaindex.ai/llamaparse
+source_url: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
 local_vault_path: ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -30,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-format parsing**: Supports 90+ document formats (PDFs, scans, invoices, healthcare forms, etc.) with layout-aware extraction of headers, footers, tables, charts, handwriting, and checkboxes into clean markdown.
+- **Multi-format parsing engine** supporting 90+ document formats (PDFs, scanned docs, images, handwriting) with layout-aware structure extraction (headers, footers, tables, charts) and multimodal context integration.
 
-- **Multimodal & multilingual**: Combines OCR, vision models, and NLP to process text, images, and structured data while supporting 100+ languages, optimized for enterprise-scale workflows.
+- **Scalable, multilingual document processing** with granular parsing modes for cost-accuracy optimization, enterprise-grade concurrency, and OCR support for 100+ languages.
 
-- **Granular control & deployment**: Offers configurable parsing modes (cost/accuracy t
+- **Developer-focused API** with TypeScript/Python SDKs, live notebooks, and workflow automation for inde
 
 ## Use Cases
 
@@ -52,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.llamaindex.ai/llamaparse
+Original source URL: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
 
 ## Local Vault File
 

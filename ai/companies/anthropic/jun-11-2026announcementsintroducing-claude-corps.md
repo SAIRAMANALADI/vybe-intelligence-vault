@@ -10,13 +10,14 @@ tags:
 - anthropic
 - anthropic-news
 - blog-post
-status: active
+status: inactive
 resource_id: blog:jun-11-2026announcementsintroducing-claude-corps
 first_seen: '2026-07-01T01:50:04.779450+05:30'
 last_seen: '2026-07-03T03:50:19.245188+05:30'
 last_checked: '2026-07-03T03:50:19.245188+05:30'
 health_score: 100
 ---
+
 
 # Jun 11, 2026AnnouncementsIntroducing Claude Corps
 

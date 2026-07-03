@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
-- hackernews
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Documentation Relocation**: LangGraph documentation has been moved to [docs.langchain.com](https://docs.langchain.com/oss/python/langgraph/overview).
-- **Redirect Mechanism**: Users are automatically redirected to the new documentation site.
-- **No Content Changes**: The relocation does not affect the technical content or structure of the documentation.
+- LangGraph documentation relocated to [docs.langchain.com](https://docs.langchain.com/oss/python/langgraph/overview)
+- New URL replaces prior hosting location for LangGraph resources
+- Redirect mechanism active to guide users to updated documentation site
 
 ## Use Cases
 

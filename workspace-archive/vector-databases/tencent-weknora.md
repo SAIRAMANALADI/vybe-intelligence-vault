@@ -15,6 +15,7 @@ tags:
 - benchmark
 - github-repo
 - go
+- hackernews
 - meta-ai
 - models
 - openai
@@ -38,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-functional LLM Platform**: Converts raw documents into a **queryable RAG (Retrieval-Augmented Generation)**, an **autonomous reasoning agent**, and a **self-maintaining Wiki** with support for **multi-tenancy** and **multi-model** LLMs (e.g., Ollama, OpenAI).
+- **Multi-tenant LLM Knowledge Platform**: Open-source Go-based system (`WeKnora`) enabling conversion of raw documents into queryable RAG, autonomous reasoning agents, and self-maintaining Wikis with support for multi-tenancy, multimodal models (Ollama/OpenAI), and semantic/vector search.
 
-- **Advanced Search & Evaluation**: Implements **semantic search**, **vector search**, **reranking**, and **embeddings** for efficient document retrieval, along with built-in **evaluation** mechanisms for performance assessment.
+- **Core Technical Features**: Implements embeddings, reranking, evaluation pipelines, and semantic/vector search for question-answering, with modular integration of LLMs, embeddings, and rerankers for RAG an
 
 ## Use Cases
 

@@ -12,7 +12,6 @@ resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
-- hackernews
 - html
 - rag
 selection_reason:
@@ -31,9 +30,8 @@ selection_reason:
 
 ## Summary
 
-- **Curated list** of AI-powered web search tools leveraging LLMs, RAG, and metasearch techniques for enhanced information retrieval and question-answering.
-- **Covers generative AI applications** in search, including inference optimization, retrieval-augmented generation, and AI-driven metasearch engines.
-- **GitHub repository** (HTML-based) with 1.3K+ stars, last updated July 2026, focusing on AI search tools, generative AI projects, and web-based AI assistants.
+*   Curates an "awesome list" of software leveraging generative AI and LLM inference for advanced web search capabilities.
+*   Highlights tools employing Retrieval-Augmented Generation (R
 
 ## Use Cases
 

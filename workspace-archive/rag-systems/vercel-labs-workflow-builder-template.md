@@ -12,7 +12,6 @@ resource_kind: template
 importance: medium
 tags:
 - agents
-- frontend_ui
 - github-repo
 - rag
 - scripts
@@ -36,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **TypeScript-based visual AI workflow automation platform** enabling drag-and-drop construction of multi-agent systems with real-time execution capabilities.
+- **TypeScript-based Visual AI Workflow Automation**: Open-source template for building AI-driven workflow automation platforms with a visual interface, leveraging Vercel's ecosystem.
 
-- **Repository structure optimized for Vercel deployments**, leveraging Next.js for UI and serverless functions for workflow orchestration.
+- **Agent & Workflow Orchestration**: Supports modular agent-based architectures for dynamic task automation, with pre-configured templates for rapid deployment.
 
-- **Key features**: Pre-built AI agent templates, modular workflow components, and GitHub Actions CI/CD pipeline for automated testing and deployment.
+- **Vercel-Optimized Deployment**: Designed for Vercel serverless functions, enabling scalable, edge-optimized AI workflow execution with built-in CI/CD
 
 ## Use Cases
 

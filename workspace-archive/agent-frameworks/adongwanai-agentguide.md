@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - html
 - rag
 selection_reason:
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **LangGraph实战与AI Agent开发指南**: 专注于LangGraph框架的实战教程，涵盖AI Agent开发的核心概念、架构设计与实现方法，适合转行大模型或算法工程师的学习路径。
+- **Comprehensive AI Agent Development Guide**: Covers LangGraph, advanced RAG, multi-agent systems, and CrewAI with practical implementations and tutorials for AI agent development.
 
-- **高级RAG与多Agent协作**: 整合GraphRAG、Multi-Agent系统、GRPO等先进技术，提供强化学习、数据合成与RAG优化的实操指南，支持复杂场景下的智能体部署与交互。
+- **Interview & Career Resources**: Provides interview preparation materials, job-hunting strategies, and a curated question bank for roles like algorithm engineers and LLM specialists.
 
-- **面试题库与就业资源**: 汇集大模型面试题库、算法工程师岗位要求与转行指南，包含SFT、LLM微调、Agentic RAG等技术栈的面试准备材料，持续更新至2026年7月。
+- **Advanced Techniques & Tools**: Includes topics on GRPO, SFT, data synthesis, GraphRAG, and reinforcement learning, with a foc
 
 ## Use Cases
 

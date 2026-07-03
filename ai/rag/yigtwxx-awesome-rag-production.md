@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-07-03T03:51:55.148915+05:30'
+collected_at: '2026-07-03T15:08:21.770791+05:30'
 published_at: '2026-07-02T22:04:15Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
+- workflows
 stars: 136
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-06-30T05:24:48Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-07-03T03:51:55.148915+05:30'
-last_seen: '2026-07-03T03:51:55.148915+05:30'
-last_checked: '2026-07-03T03:51:55.148915+05:30'
+first_seen: '2026-07-03T15:08:21.770791+05:30'
+last_seen: '2026-07-03T15:08:21.770791+05:30'
+last_checked: '2026-07-03T15:08:21.770791+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`Yigtwxx/awesome-rag-production`) compiling production-grade tools, frameworks, and best practices for **scalable RAG (Retrieval-Augmented Generation)** systems, emphasizing **LLMops** and **MLops** integration.
-- **Technical Scope**: Focuses on **Python-based** implementations, covering **vector databases**, **embeddings**, **LangChain**, and **large language models (LLMs)** for high-performance RAG deployments.
-- **Operational Focus**: Includes **battle-tested** methodologies for **AI engineering**, **generative AI**, and **retrieval pipelines**, with updates as of **July 2026** to ensure relevance in evolving AI/ML landscapes.
+- **Curated Resources**: Repository provides a vetted collection of tools, frameworks, and best practices for deploying scalable, production-grade RAG systems, emphasizing battle-tested solutions.
+- **Technical Scope**: Focuses on Python-based implementations, covering embeddings, vector databases, LLM integration (e.g., LangChain), and MLOps/LLMops workflows for RAG pipelines.
+- **Updated Ecosystem**: Last updated July 2026, ensuring relevance to current AI/ML engineering trends, including generative AI, LLMs, and retrieval-augmented generation architectures.
 
 ## Why It Matters
 

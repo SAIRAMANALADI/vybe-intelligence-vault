@@ -8,14 +8,13 @@ local_vault_path: ai/agents/continuedev-continue.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: prompt
+resource_kind: workflow
 importance: medium
 tags:
 - agents
 - github-repo
-- meta-ai
-- models
 - typescript
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -26,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: prompt
+- Resource kind: workflow
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Open-source AI coding agent** implemented in TypeScript, enabling autonomous or assisted code generation, refactoring, and debugging via natural language prompts.
-- **CLI-based interface** with extensible plugin architecture, supporting integration with local/remote LLMs (e.g., GitHub Models, Ollama) and IDE plugins (VS Code, JetBrains).
-- **Stateful session management** with context-aware memory, allowing persistent multi-turn interactions for complex coding tasks while preserving project-s
+- **TypeScript-based open-source coding agent** with CLI integration for AI-assisted development workflows.
+- **34.6k+ GitHub stars** and **4.9k+ forks**, indicating significant community adoption and collaboration.
+- **Last updated July 2026**, ensuring ongoing maintenance and feature enhancements for developer tools.
 
 ## Use Cases
 

@@ -6,19 +6,18 @@ source_url: https://github.com/transitive-bullshit/agentic
 resource_id: github:transitive-bullshit/agentic
 local_vault_path: ai/agents/transitive-bullshit-agentic.md
 quality_score: 70
-archive_score: 75
-archive_tier: useful
-resource_kind: workflow
-importance: medium
+archive_score: 85
+archive_tier: essential
+resource_kind: framework
+importance: high
 tags:
 - agents
 - github-repo
 - openai
-- scripts
 - typescript
 - workflows
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # transitive-bullshit/agentic
@@ -26,16 +25,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
-- Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: workflow
+- Quality score: 70 | Archive score: 85 (essential)
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Purpose**: Converts existing APIs into paid MCP (Model Context Protocol) servers for instant deployment, enabling monetization of AI/LLM services.
-- **Tech Stack**: Built in TypeScript, integrates with OpenAI and other LLM providers for agentic workflows.
-- **Features**: Facilitates rapid conversion of APIs into MCP-compatible endpoints, with support for agent-based automation and AI-driven interactions.
+- **TypeScript-based MCP Framework**: Open-source toolkit for converting APIs into Model Context Protocol (MCP) servers, enabling paid AI agent integrations with LLMs (e.g., OpenAI) via standardized interfaces.
+
+- **Agentic Orchestration**: Supports dynamic agent workflows with TypeScript, facilitating real-time LLM interactions, tool usage, and state management for autonomous systems.
+
+- **Production-Ready Features**: Includes error handling, rate limiting, and MCP compliance for scalable deplo
 
 ## Use Cases
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/free-book-essential-graphrag-from-manning-publicat.md
 quality_score: 70
 archive_score: 80
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: high
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - rag
 - web-crawled
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Free book: Essential GraphRAG from Manning Publications - Neo4j
@@ -26,17 +26,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 80 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
 - **GraphRAG Integration**: Combines structured (knowledge graphs) and unstructured data to enhance LLM responses, reducing hallucinations and improving contextual depth via interconnected data retrieval.
 
-- **Technical Components**: Covers vector similarity, query rewriting, parent document retrieval, knowledge graph construction (via LLMs), and agentic AI integration for advanced RAG systems.
+- **Technical Components**: Covers vector similarity, query rewriting, parent document retrieval, knowledge graph construction via LLMs, and agentic AI integration for advanced RAG systems.
 
-- **Evaluation Framework**: Includes methodologies for assessing RAG performance and accuracy, ensuri
+- **Evaluation & Deployment**: Includes methodologies for assessing RAG performance/accuracy and provid
 
 ## Use Cases
 

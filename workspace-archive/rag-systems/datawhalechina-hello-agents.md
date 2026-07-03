@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 selection_reason:
@@ -34,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Agent Development Guide**: Provides a structured tutorial on building intelligent agents from scratch, covering core principles, architectures, and practical implementations.
-
-- **Multi-Technique Integration**: Focuses on combining large language models (LLMs), retrieval-augmented generation (RAG), and Python-based tooling for agent development.
-
-- **Open-Source Educational Resource**: Hosted on GitHub with 63.5K+ stars and 7.8K+ forks, offering continuously updated content (la
+- **Purpose**: Comprehensive tutorial in Chinese for building intelligent agents from scratch, covering theory and practical implementation.
+- **Core Components**: Integrates LLMs, RAG (Retrieval-Augmented Generation), and agent-based architectures using Python.
+- **Scope**: Covers foundational principles to advanced agent development, updated as of July 2026.
 
 ## Use Cases
 

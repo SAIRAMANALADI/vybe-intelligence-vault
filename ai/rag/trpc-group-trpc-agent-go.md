@@ -4,20 +4,20 @@ category: ai/rag
 source_type: github
 source_name: GitHub Topics AI Search
 source_url: https://github.com/trpc-group/trpc-agent-go
-collected_at: '2026-07-03T03:50:15.788104+05:30'
-published_at: '2026-07-02T22:18:23Z'
+collected_at: '2026-07-03T15:06:00.299635+05:30'
+published_at: '2026-07-03T09:26:15Z'
 tags:
 - agents
 - benchmark
 - rag
 - workflows
-stars: 1489
+stars: 1496
 language: Go
 status: active
 resource_id: github:trpc-group/trpc-agent-go
 first_seen: '2026-06-18T23:35:18.966633+05:30'
-last_seen: '2026-07-03T03:50:15.788104+05:30'
-last_checked: '2026-07-03T03:50:15.788104+05:30'
+last_seen: '2026-07-03T15:06:00.299635+05:30'
+last_checked: '2026-07-03T15:06:00.299635+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: trpc-group
-- Stars: 1489
-- Forks: 201
+- Stars: 1496
+- Forks: 204
 - Language: Go
 - Topics: a2a, a2a-protocol, ag-ui, agent, agent-framework, ai, ai-agents, evaluation, go, golang, graph-workflows, llm, mcp, model-context-protocol, multi-agent, observability, opentelemetry, rag
-- Last Updated: 2026-07-02T22:18:23Z
+- Last Updated: 2026-07-03T09:26:15Z
 
 ## Possible Use Cases
 

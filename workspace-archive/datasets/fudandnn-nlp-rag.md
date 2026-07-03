@@ -36,8 +36,8 @@ selection_reason:
 ## Summary
 
 - Implements retrieval-augmented generation (RAG) best practices as per EMNLP 2024, focusing on optimizing retrieval and generation pipelines for improved performance.
-- Provides a Python-based framework for integrating and evaluating various RAG components, including retrievers, rerankers, and generators.
-- Supports modular experimentation with configurable hyperparameters and retrieval strategies for benchmarking against standard datasets.
+- Provides a Python-based framework for evaluating and benchmarking RAG systems, including modular components for retrievers, generators, and fusion strategies.
+- Supports extensibility for custom datasets, models, and evaluation metrics, with a structured repository for reproducibility and comparative analysis.
 
 ## Use Cases
 

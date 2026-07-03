@@ -1,7 +1,7 @@
 ---
-title: 'pydantic/pydantic-ai Release: v2.3.0 (2026-07-01)'
+title: 'pydantic/pydantic-ai Release: v2.4.0 (2026-07-02)'
 archive_category: model-providers
-source_category: ai/releases
+source_category: ai/agents
 source_url: https://github.com/pydantic/pydantic-ai
 resource_id: github:pydantic/pydantic-ai
 local_vault_path: ai/rag/pydantic-pydantic-ai.md
@@ -11,16 +11,19 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- agents
 - github-release
 - hackernews
-- openai
+- mistral
+- models
 - pydantic-pydantic-ai
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
 ---
 
-# pydantic/pydantic-ai Release: v2.3.0 (2026-07-01)
+# pydantic/pydantic-ai Release: v2.4.0 (2026-07-02)
 
 ## Why This Is In The Archive
 
@@ -33,7 +36,7 @@ selection_reason:
 
 ## Summary
 
-* Add native Z.AI (Zhipu AI) provider with thinking support by @eliasaronson in https://github.com/pydantic/pydantic-ai/pull/4273
+* Split `preserve_file_data` into `allow_uploaded_files` (inbound security) and an AG-UI representation opt-in by @DouweM in https://github.com/pydantic/pydantic-ai/pull/6232
 
 ## Use Cases
 

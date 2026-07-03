@@ -4,14 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/braincrew-lab/langgraph-mcp-agents
-collected_at: '2026-07-02T09:57:50.111630+05:30'
+collected_at: '2026-07-03T15:11:27.017050+05:30'
 published_at: '2026-06-30T04:23:32Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - python
 - rag
+- workflows
 stars: 708
 language: Python
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2025-03-30T14:25:58Z'
 pushed_at: '2025-04-14T11:00:22Z'
 resource_id: github:braincrew-lab/langgraph-mcp-agents
-first_seen: '2026-07-02T09:57:50.111630+05:30'
-last_seen: '2026-07-02T09:57:50.111630+05:30'
-last_checked: '2026-07-02T09:57:50.111630+05:30'
+first_seen: '2026-07-03T15:11:27.017050+05:30'
+last_seen: '2026-07-03T15:11:27.017050+05:30'
+last_checked: '2026-07-03T15:11:27.017050+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **LangGraph + ReAct Agent**: Implements a LangGraph-based ReAct (Reasoning and Acting) agent architecture with MCP (Model Context Protocol) integration for tool execution and data source/API interactions.
+- **Architecture**: Implements a LangGraph-based ReAct (Reasoning and Acting) agent framework with Model Context Protocol (MCP) integration for dynamic tool orchestration and API/data source interactions.
 
-- **Streamlit Web Interface**: Provides a dynamic Streamlit-based UI for configuring, deploying, and interacting with AI agents, enabling real-time agent setup and management.
+- **Interface**: Provides a Streamlit-based web UI for real-time configuration, deployment, and interaction with AI agents, enabling dynamic MCP tool integration and management.
 
-- **Python Implementation**: Built in Python, leveraging LangGraph for agent orchestration and MCP for standardized tool integration across heterogeneous data sources and APIs.
+- **Technical Stack**: Python-based implementation leveraging LangGraph for agent workflows and MCP for standardized tool access across heterogeneous data sources/APIs.
 
 ## Why It Matters
 

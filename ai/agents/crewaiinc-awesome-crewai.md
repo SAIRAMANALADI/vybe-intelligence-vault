@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crewAIInc/awesome-crewai
-collected_at: '2026-07-01T10:30:22.826981+05:30'
-published_at: '2026-06-29T16:41:25Z'
+collected_at: '2026-07-03T15:11:41.990273+05:30'
+published_at: '2026-07-02T15:06:48Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - unknown
-stars: 498
+stars: 500
 language: Unknown
 status: active
 license: MIT
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-11-25T15:39:51Z'
 pushed_at: '2025-06-09T15:58:36Z'
 resource_id: github:crewaiinc/awesome-crewai
-first_seen: '2026-07-01T10:30:22.826981+05:30'
-last_seen: '2026-07-01T10:30:22.826981+05:30'
-last_checked: '2026-07-01T10:30:22.826981+05:30'
+first_seen: '2026-07-03T15:11:41.990273+05:30'
+last_seen: '2026-07-03T15:11:41.990273+05:30'
+last_checked: '2026-07-03T15:11:41.990273+05:30'
 health_score: 100
 ---
 
@@ -30,8 +29,8 @@ health_score: 100
 ## Summary
 
 - **Curated Open-Source Projects**: Repository aggregates community-built AI agent projects using CrewAI, facilitating discovery and contribution.
-- **Technical Resource Hub**: Enables extension of AI agent capabilities through modular, open-source implementations shared by the CrewAI community.
-- **Metadata**: 498 stars, 126 forks, last updated 2026-06-29T16:41:25Z (language unspecified).
+- **Metadata**: 500 stars, 127 forks, last updated July 2, 2026; language and topics unspecified.
+- **Purpose**: Enables extension of CrewAI’s AI agent capabilities through collaborative open-source development.
 
 ## Why It Matters
 
@@ -40,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: crewAIInc
-- Stars: 498
-- Forks: 126
+- Stars: 500
+- Forks: 127
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-06-29T16:41:25Z
+- Last Updated: 2026-07-02T15:06:48Z
 - License: MIT
 - Archived: No
 - Created At: 2024-11-25T15:39:51Z

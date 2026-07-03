@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Open-source context retrieval layer designed to enhance AI agents by integrating enterprise data through semantic search and retrieval-augmented generation (RAG).
-- **Key Features**: Provides API-driven data connectors, semantic search capabilities, and a Python-based SDK for seamless integration with AI workflows and enterprise systems.
-- **Technical Scope**: Supports context retrieval for LLMs, supports enterprise data integration, and includes tools for developer-friendly API a
+- **Purpose**: Open-source context retrieval layer designed to enhance AI agent capabilities by integrating enterprise data and semantic search functionalities.
+
+- **Key Features**: Supports retrieval-augmented generation (RAG), data connectors, and semantic search via a Python-based SDK and API for AI agent infrastructure.
+
+- **Technical Stack**: Built in Python with integration capabilities for enterprise data, search APIs, and LLM workflows; last updated July 3, 2026.
 
 ## Use Cases
 

@@ -14,8 +14,8 @@ tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - html
-- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Evolution of AI Workflows**: Demonstrates transition from *vibe coding* (intuitive, unstructured AI interaction) to *agentic engineering* (structured, autonomous AI-driven development) using Claude Code for complex software engineering tasks.
+- **Agentic Workflow Transition**: Repository documents the shift from traditional "vibe coding" to structured agentic engineering practices for Claude Code, emphasizing systematic workflows and context engineering for improved AI agent performance.
 
-- **Best Practices Repository**: Provides curated guidelines, commands, and skills for optimizing Claude Code agents, emphasizing *context engineering*, modular workflows, and reproducible AI-driven development processes.
+- **Technical Best Practices**: Provides curated guidelines and command patterns for optimizing Claude Code agents, including skills, context management, and command execution for high-efficiency AI-driven development.
 
 - **Community-Driven Resource
 

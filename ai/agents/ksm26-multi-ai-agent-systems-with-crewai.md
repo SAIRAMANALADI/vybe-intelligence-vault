@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ksm26/Multi-AI-Agent-Systems-with-crewAI
-collected_at: '2026-07-01T10:30:27.798261+05:30'
+collected_at: '2026-07-03T15:11:41.961949+05:30'
 published_at: '2026-06-25T02:12:04Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-05-27T13:55:05Z'
 pushed_at: '2024-06-11T14:01:02Z'
 resource_id: github:ksm26/multi-ai-agent-systems-with-crewai
-first_seen: '2026-07-01T10:30:27.798261+05:30'
-last_seen: '2026-07-01T10:30:27.798261+05:30'
-last_checked: '2026-07-01T10:30:27.798261+05:30'
+first_seen: '2026-07-03T15:11:41.961949+05:30'
+last_seen: '2026-07-03T15:11:41.961949+05:30'
+last_checked: '2026-07-03T15:11:41.961949+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Specialized AI Agent Teams**: Demonstrates how to design and organize specialized AI agents using the open-source `crewAI` library to automate complex, multi-step business processes (e.g., financial analysis, event planning, customer support).
+- **Multi-Agent System Design**: Demonstrates specialized AI agent teams using the open-source `crewAI` library to automate complex, multi-step business processes (e.g., customer support, financial analysis, event planning) via role-playing and natural language prompting.
 
-- **Multi-Agent System Architecture**: Implements role-playing, natural language prompting, and custom tools to enable agent cooperation, task automation, and error handling in Jupyter Notebook-based workflows.
+- **Workflow Optimization & Automation**: Implements AI memory, custom tools, and error-handling to optimize task automation, including resume tailoring and technical writing, ensuring robust execution of business workflows.
 
-- **Business Process Optimization**: Focuses on AI workflow optimization, memory management, and automation of tasks like resume tailoring, technical writing, and customer support using modular agent interactions.
+- **Technical Implementation**: Provides Jupyter Notebook-based examples for integrating agent cooperation, custom tools, and AI workflows, with updates as of June 2026 for real-world applications.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: ksm26
 - Stars: 162
-- Forks: 58
+- Forks: 59
 - Language: Jupyter Notebook
 - Topics: agent-cooperation, ai-agents, ai-memory, ai-workflow-optimization, business-process-automation, complex-task-management, crewai, custom-tools, customer-support-automation, error-handling, event-planning, financial-analysis, multi-agent-systems, natural-language-prompting, open-source-ai, resume-tailoring, role-playing, task-automation, technical-writing
 - Last Updated: 2026-06-25T02:12:04Z

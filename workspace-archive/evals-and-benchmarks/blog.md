@@ -17,6 +17,7 @@ tags:
 - producthunt
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Haystack Framework**: Open-source Python framework for building production-ready **Retrieval-Augmented Generation (RAG)** pipelines, supporting modular components for document retrieval, embedding, and LLM integration.
+- **Haystack Framework**: Open-source Python framework for building production-ready NLP pipelines, supporting modular components for document retrieval, processing, and question answering with integrations to LLMs, vector databases, and APIs.
 
-- **Haystack Enterprise Platform**: Commercial offering with **managed MCP tool integration**, enabling exposure of Haystack pipelines as composable tools for enterprise agent ecosystems with production-grade reliability.
+- **Enterprise AI Solutions**: Offers **Haystack Enterprise Platform** (unified AI solution), **Haystack Enterprise Starter** (scalable deployment), and **MCP tool integration** to expose pipelines as managed tools for agentic workflows.
 
-- **Sovereign AI Focus**: Emphasizes **cost control v
+- **Sovereign AI
 
 ## Use Cases
 

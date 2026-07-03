@@ -1,42 +1,41 @@
 ---
-title: vibrantlabsai/ragas
+title: ragas/docs/concepts/metrics/index.md at main · vibrantlabsai/ragas · GitHub
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/vibrantlabsai/ragas
+source_url: https://github.com/vibrantlabsai/ragas/blob/master/docs/concepts/metrics/index.md
 resource_id: github:vibrantlabsai/ragas
 local_vault_path: ai/rag/vibrantlabsai-ragas.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
-- github-repo
-- meta-ai
-- models
-- python
+- hackernews
 - rag
-- workflows
+- web-crawled
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
-# vibrantlabsai/ragas
+# ragas/docs/concepts/metrics/index.md at main · vibrantlabsai/ragas · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Ragas**: Python library for evaluating LLM applications, focusing on **Retrieval-Augmented Generation (RAG)** systems with 14+ metrics (e.g., faithfulness, context relevance, answer correctness).
-- **Key Features**: Modular design for custom metrics, supports both **reference-free** and **reference-based** evaluation, integrates with frameworks like LangChain and LlamaIndex.
-- **Performance & Adoption**: 14.6k+ GitHub stars, active community contributions, and compatibility with modern LLM o
+- **Design Principles**: Metrics in Ragas are structured around core design principles focusing on modularity, extensibility, and interpretability for evaluating RAG (Retrieval-Augmented Generation) systems.
+
+- **Available Metrics**: Ragas provides a suite of metrics (e.g., faithfulness, answer relevance, context precision) that quantify performance across dimensions like correctness, relevance, and context utilization in RAG pipelines.
+
+- **Inner Workings**: Metrics leverage NLP techniques (e.g
 
 ## Use Cases
 
@@ -46,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/vibrantlabsai/ragas
+Original source URL: https://github.com/vibrantlabsai/ragas/blob/master/docs/concepts/metrics/index.md
 
 ## Local Vault File
 

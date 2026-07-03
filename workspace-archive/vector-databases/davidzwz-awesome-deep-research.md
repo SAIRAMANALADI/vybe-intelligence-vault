@@ -8,15 +8,16 @@ local_vault_path: ai/rag/davidzwz-awesome-deep-research.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: api
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - unknown
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # DavidZWZ/Awesome-Deep-Research
@@ -25,15 +26,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: api
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, including agentic RAG, reasoning agents, and search agents, with a focus on LLM-driven methodologies.
-- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026 KnowFM conference themes, emphasizing knowledge-focused, multi-agent research systems.
-- **High-Activity Repository**: Maintains 785 stars and 62 forks, indicating strong community engagement and rapid updates (last modified July 2, 2026).
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, including agentic RAG, reasoning agents, and LLM-driven search frameworks, aligned with ACL 2026 KnowFM contributions.
+- **Technical Breadth**: Encompasses large language models (LLMs), retrieval-augmented generation (RAG), and multi-agent reasoning systems, emphasizing autonomous information synthesis and iterative refinement.
+- **Community-Driven Repository**: Maintained with 785 stars and 62 forks, reflecti
 
 ## Use Cases
 

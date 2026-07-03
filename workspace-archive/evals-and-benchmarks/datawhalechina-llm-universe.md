@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational Framework**: Provides a structured, beginner-friendly tutorial for developing LLM applications, leveraging Jupyter Notebooks for hands-on learning.
+- **Educational Framework**: Provides a structured, beginner-friendly tutorial for developing large language model (LLM) applications, covering foundational to advanced concepts in a hands-on manner using Jupyter Notebooks.
 
-- **Technical Focus**: Integrates LangChain and RAG (Retrieval-Augmented Generation) methodologies to demonstrate practical implementations of LLM applications.
+- **Key Technologies**: Focuses on **LangChain** for LLM orchestration and **Retrieval-Augmented Generation (RAG)** for enhancing model outputs with external knowledge bases.
 
-- **Resource Metrics**: Maintains high engagement with 13,392 stars and 1,371 forks, indicating strong community adoption and iterative updates (last modified July 2, 2026).
+- **Resources & Updates**: Offers an online book (hosted via GitHub Pages) with continuous updates;
 
 ## Use Cases
 

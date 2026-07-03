@@ -4,17 +4,17 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/shadcnstore/shadcn-dashboard-landing-template
-collected_at: '2026-07-02T15:03:25.072946+05:30'
-published_at: '2026-07-02T08:22:57Z'
+collected_at: '2026-07-03T15:05:59.616654+05:30'
+published_at: '2026-07-03T08:38:18Z'
 tags:
 - frontend_ui
-stars: 828
+stars: 830
 language: TypeScript
 status: active
 resource_id: github:shadcnstore/shadcn-dashboard-landing-template
 first_seen: '2026-06-15T16:20:29.191191+00:00'
-last_seen: '2026-07-02T15:03:25.072946+05:30'
-last_checked: '2026-07-02T15:03:25.072946+05:30'
+last_seen: '2026-07-03T15:05:59.616654+05:30'
+last_checked: '2026-07-03T15:05:59.616654+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: shadcnstore
-- Stars: 828
+- Stars: 830
 - Forks: 196
 - Language: TypeScript
 - Topics: admin-dashboard, admin-panel, dark-mode, dashboard, landing-page, nextjs, shadcn, shadcn-admin, shadcn-ui, shadcn-ui-blocks, shadcn-ui-boilerplate, shadcn-ui-starter, shadcn-ui-template, tailwindcss, tweakcn, typescript, vite-react
-- Last Updated: 2026-07-02T08:22:57Z
+- Last Updated: 2026-07-03T08:38:18Z
 
 ## Possible Use Cases
 

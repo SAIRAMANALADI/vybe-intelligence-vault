@@ -16,7 +16,6 @@ tags:
 - github-repo
 - openai
 - python
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Asynchronous Multi-Agent Framework**: Implements an event-driven, non-blocking architecture for parallelized coding tasks using Python's `asyncio`, enabling concurrent execution of LLM-based agents for code generation, review, and testing.
+- **Asynchronous Multi-Agent Framework**: Open-SWE implements an asynchronous, event-driven architecture for distributed coding agents, enabling parallel task execution and non-blocking I/O operations via Python's `asyncio`.
 
-- **Tool Integration & Extensibility**: Supports dynamic tool registration (e.g., Anthropic ClaudeCode, OpenAI LLM APIs) via a modular plugin system, allowing runtime addition of custom tools (e.g., linters, debuggers) without codebase modifications.
+- **ClaudeCode & LLM Integration**: Supports Anthropic's ClaudeCode and OpenAI-compatible LLMs for code generation/review, with async API calls and streaming responses for real-time feedback.
 
-- *
+- **Modular Tooling & State Management**: Provides pluggable tools (e.g., Git, sh
 
 ## Use Cases
 

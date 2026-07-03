@@ -1,5 +1,5 @@
 ---
-title: The Short Leash AI Coding Method for Beating Fable
+title: The short leash AI coding method for beating Fable
 archive_category: automation-workflows
 source_category: ai/community
 source_url: https://blog.okturtles.org/2026/07/short-leash-ai-method
@@ -18,7 +18,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# The Short Leash AI Coding Method for Beating Fable
+# The short leash AI coding method for beating Fable
 
 ## Why This Is In The Archive
 
@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by Riseed. Score: 36, Comments: 22.
+Hacker News story by Riseed. Score: 133, Comments: 158.
 Original Link: https://blog.okturtles.org/2026/07/short-leash-ai-method/
 
 ## Use Cases

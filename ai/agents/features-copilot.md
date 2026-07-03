@@ -4,22 +4,23 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-07-03T03:56:32.311391+05:30'
-collected_at: '2026-07-03T03:56:32.311405+05:30'
+published_at: '2026-07-03T15:13:25.361839+05:30'
+collected_at: '2026-07-03T15:13:25.361849+05:30'
 tags:
 - agents
 - anthropic
 - frontend_ui
 - hackernews
 - openai
+- scripts
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-07-03T03:56:32.311405+05:30'
-last_seen: '2026-07-03T03:56:32.311405+05:30'
-last_checked: '2026-07-03T03:56:32.311405+05:30'
+first_seen: '2026-07-03T15:13:25.361849+05:30'
+last_seen: '2026-07-03T15:13:25.361849+05:30'
+last_checked: '2026-07-03T15:13:25.361849+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent orchestration**: GitHub Copilot CLI enables parallelized subagent execution via `/fleet`, allowing concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching and result convergence.
+- **Multi-Agent Parallel Execution**: Copilot CLI supports `/fleet` for parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI), enabling concurrent task processing with `/model` switching and convergence on decision-ready results.
 
-- **Native GitHub integration**: Built on GitHub’s Model Context Protocol (MCP), it directly interacts with issues, PRs, branches, and labels, inheriting organization policies (branch protections, governance) while supporting `/plan` to PR workflows with explicit user approval for changes.
+- **GitHub-Native MCP Integration**: Built on GitHub’s Model Context Protocol (MCP), CLI interacts natively with issues, PRs, branches, and labels, inheriting org policies (branch protections, governance) while maintaining explicit user approval for file/command actions.
 
-- **Session persistence & extensibility**: Maintains context across sessions via memory/compaction, supports `/resume` for long-running tasks, and allows customization via `AGENTS.md` skills/MCP servers, with experimental features accessible via `/experimental show`.
+- **Agentic Workflow Automation**: Features `/plan` for task outlining, `/resume` for session persistence, `/delegate` for PR creation, and `/remote` for cross-device monitoring—all via terminal-native workflows with SDK extensibility (`@github/copilot` npm package).
 
 ## Why It Matters
 
@@ -41,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-03T03:56:32.311391+05:30
+- Published: 2026-07-03T15:13:25.361839+05:30
 
 ## Related Tags
 
@@ -50,6 +51,7 @@ General public resource representing technology updates, guides, or tutorials.
 - frontend_ui
 - hackernews
 - openai
+- scripts
 - web-crawled
 - workflows
 - youtube

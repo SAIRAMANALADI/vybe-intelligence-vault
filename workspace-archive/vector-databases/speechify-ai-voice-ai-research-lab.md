@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Zero-shot voice cloning**: Enables cloning of any voice from a 10-30s reference audio with high fidelity, capturing timbre, cadence, and micro-expressions via Simba 3.0’s streaming-native architecture.
-- **Emotion & prosody control**: Simba 3.0 supports fine-grained emotional synthesis (neutral, happy, sad, excited, calm) and SSML prosody adjustments, enabling nuanced tonal/rhythmic variations beyond basic pitch/speed.
-- **Multilingual TTS & agent integration**: Offers native-quality synthes
+- **Zero-shot voice cloning**: Enables cloning of any voice from a 10-30 second reference clip, capturing speaker identity (timbre, cadence, micro-expressions) via Simba model's streaming-native architecture.
+- **Emotion & multilingual synthesis**: Simba 3.0 supports fine-grained emotional control (prosody-level adjustments) and native-quality speech across 30+ locales with locale-specific voices.
+- **API integration**: Single API endpoint (`/v1/audio/speech`) for TTS, voice cloning, and agent d
 
 ## Use Cases
 

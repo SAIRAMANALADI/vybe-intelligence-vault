@@ -15,7 +15,9 @@ tags:
 - github-repo
 - models
 - openai
+- scripts
 - unknown
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Repository hosting a structured, community-driven list of AI autonomous agents, frameworks, and tools (e.g., AutoGPT, BabyAGI, GPT-Engineer) for research and development.
-- **Multi-Topic Scope**: Covers Python-based implementations, OpenAI integrations (GPT-3/4), and tools like Copilot, emphasizing autonomous agent architectures and artificial intelligence applications.
-- **Active Maintenance**: Last updated July 2026, with 28.5K+ stars and 3K+ forks, indicating sustain
+- **Curated list of AI autonomous agents**: Repository aggregates tools, frameworks, and projects (e.g., AutoGPT, BabyAGI, GPT-Engineer) for building AI-driven autonomous agents, emphasizing Python-based implementations and OpenAI/GPT-4 compatibility.
+
+- **High community engagement**: Maintains 28.5K+ stars and 3K+ forks, reflecting significant adoption and collaborative contributions in the AI agent ecosystem.
+
+- **Last updated July 2026**: Ensures inclusion of recent advancements in autonomous
 
 ## Use Cases
 

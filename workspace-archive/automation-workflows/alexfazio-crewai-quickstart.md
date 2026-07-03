@@ -8,17 +8,16 @@ local_vault_path: ai/agents/alexfazio-crewai-quickstart.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: workflow
 importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # alexfazio/crewAI-quickstart
@@ -27,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Repository Overview**: A curated collection of Jupyter Notebooks, cookbooks, and recipes demonstrating practical implementations of CrewAI's agentic workflows and tools.
-- **Technical Scope**: Focuses on agent-based systems, utilizing CrewAI's framework for orchestrating multi-agent interactions and workflows.
-- **Metadata**: 421 stars, 74 forks, last updated July 2, 2026, with primary language being Python (Jupyter Notebook).
+- **Repository Overview**: Contains Jupyter Notebooks, cookbooks, and recipes demonstrating CrewAI's agentic workflow implementations and tools.
+- **Metadata**: 421 stars, 74 forks, last updated 2026-07-02, primary language: Jupyter Notebook.
+- **Focus Areas**: Showcases agents, cookbook examples, and CrewAI tool integrations.
 
 ## Use Cases
 

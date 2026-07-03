@@ -3,9 +3,9 @@ title: esbuild - API
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://esbuild.github.io/api/#external
-published_at: '2026-07-02T10:03:05.406261+05:30'
-collected_at: '2026-07-02T10:03:05.406275+05:30'
+source_url: https://esbuild.github.io/api/#main-fields
+published_at: '2026-07-03T15:14:53.083471+05:30'
+collected_at: '2026-07-03T15:14:53.083486+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:esbuild-api
-first_seen: '2026-07-02T10:03:05.406275+05:30'
-last_seen: '2026-07-02T10:03:05.406275+05:30'
-last_checked: '2026-07-02T10:03:05.406275+05:30'
+first_seen: '2026-07-03T15:14:53.083486+05:30'
+last_seen: '2026-07-03T15:14:53.083486+05:30'
+last_checked: '2026-07-03T15:14:53.083486+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- Esbuild provides three API access methods: CLI (with flags like `--foo`, `--foo=bar`, or `--foo:bar`), JavaScript (async/sync), and Go, with shared core concepts but language-specific implementations.
+- **API Access**: Supports CLI, JavaScript, and Go with identical core concepts; CLI flags use `--foo`, `--foo=bar`, or `--foo:bar` for boolean, single-value, and multi-value parameters respectively, while shell interpretation issues can be avoided by using JS/Go APIs.
 
-- The primary APIs are `build` (for file-based bundling/transformation) and `transform` (for in-memory code transformation), supporting incremental builds via `context` with `watch`, `serve`, and `rebuild` modes.
+- **Build & Transform APIs**: Primary `build` API bundles/processes entry points with extensive options (e.g., bundling, minification, source maps), while the `transform` API isolates in-memory code transformations (e.g., TS→JS, minification) without filesystem dependencies.
 
-- Key options span general (e.g., `platform`, `bundle`), input (e.g., `entryPoints`, `loader`), output (e.g., `outdir`, `format`), optimization (e.g., `minify`, `define`), and logging (e.g., `logLevel`, `color`).
+- **Incremental Builds**: Supports `watch` (auto-rebuild on file changes), `serve` (local dev server), and `rebuild` (manual triggers) via a shared `context` object in JS/Go; CLI uses implicit context. Contexts must be disposed to release resources.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T10:03:05.406261+05:30
+- Published: 2026-07-03T15:14:53.083471+05:30
 
 ## Related Tags
 
@@ -50,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://esbuild.github.io/api/#external
+Original source: https://esbuild.github.io/api/#main-fields

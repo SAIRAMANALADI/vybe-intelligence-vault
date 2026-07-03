@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Role-based AI Agent Orchestration**: CrewAI is a Python framework designed to coordinate autonomous AI agents through role-playing, enabling structured collaboration for complex task execution.
+- **Role-based agent orchestration**: Framework enables autonomous AI agents to assume specific roles (e.g., researcher, writer) and collaborate via structured task delegation and workflow management in Python.
 
-- **Collaborative Intelligence**: Agents within CrewAI operate as specialized entities, leveraging shared intelligence to dynamically allocate tasks and optimize workflows without manual intervention.
+- **Multi-agent collaboration**: Supports parallel/sequential task execution with inter-agent communication, leveraging LLMs for dynamic decision-making and role-specific optimizations.
 
-- **LLM Integration & Scalability**: Built for Python, CrewAI supports large language models (LLMs)
+- **Scalable task handling**: Designed for complex workflows with built-in error handling, state mana
 
 ## Use Cases
 

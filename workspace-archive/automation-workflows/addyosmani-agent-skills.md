@@ -15,7 +15,6 @@ tags:
 - anthropic
 - github-repo
 - hackernews
-- scripts
 - shell
 - workflows
 selection_reason:
@@ -38,9 +37,9 @@ selection_reason:
 
 - **Repository Purpose**: Provides production-grade engineering skills for AI coding agents, optimized for tools like `claude-code`, `cursor`, and `antigravity-ide`.
 
-- **Technical Stack**: Primarily implemented in Shell, with focus on agent-specific workflows and automation.
+- **Technical Stack**: Implemented primarily in Shell, with integration for agent-based workflows and IDE-specific skillsets.
 
-- **Metrics**: 68,010 stars, 7,381 forks, last updated June 30, 2026.
+- **Metadata**: Highly active with 68,673 stars, 7,446 forks, and last updated on 2026-07-03.
 
 ## Use Cases
 

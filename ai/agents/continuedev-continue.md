@@ -4,15 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/continuedev/continue
-collected_at: '2026-07-03T03:53:15.262726+05:30'
-published_at: '2026-07-02T18:59:23Z'
+collected_at: '2026-07-03T15:09:41.920821+05:30'
+published_at: '2026-07-03T09:06:49Z'
 tags:
 - agents
 - github-repo
-- meta-ai
-- models
 - typescript
-stars: 34647
+- workflows
+stars: 34665
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-05-24T03:39:39Z'
 pushed_at: '2026-07-01T23:13:25Z'
 resource_id: github:continuedev/continue
-first_seen: '2026-07-03T03:53:15.262726+05:30'
-last_seen: '2026-07-03T03:53:15.262726+05:30'
-last_checked: '2026-07-03T03:53:15.262726+05:30'
+first_seen: '2026-07-03T15:09:41.920821+05:30'
+last_seen: '2026-07-03T15:09:41.920821+05:30'
+last_checked: '2026-07-03T15:09:41.920821+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Open-source AI coding agent** implemented in TypeScript, enabling autonomous or assisted code generation, refactoring, and debugging via natural language prompts.
-- **CLI-based interface** with extensible plugin architecture, supporting integration with local/remote LLMs (e.g., GitHub Models, Ollama) and IDE plugins (VS Code, JetBrains).
-- **Stateful session management** with context-aware memory, allowing persistent multi-turn interactions for complex coding tasks while preserving project-specific knowledge.
+- **TypeScript-based open-source coding agent** with CLI integration for AI-assisted development workflows.
+- **34.6k+ GitHub stars** and **4.9k+ forks**, indicating significant community adoption and collaboration.
+- **Last updated July 2026**, ensuring ongoing maintenance and feature enhancements for developer tools.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: continuedev
-- Stars: 34647
-- Forks: 4930
+- Stars: 34665
+- Forks: 4937
 - Language: TypeScript
 - Topics: agent, ai, cli, developer-tools, open-source
-- Last Updated: 2026-07-02T18:59:23Z
+- Last Updated: 2026-07-03T09:06:49Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-05-24T03:39:39Z

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-07-03T03:54:05.300360+05:30'
+collected_at: '2026-07-03T15:10:31.992866+05:30'
 published_at: '2026-07-02T18:58:39Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-02-27T06:48:32Z'
 pushed_at: '2026-07-02T21:19:11Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-07-03T03:54:05.300360+05:30'
-last_seen: '2026-07-03T03:54:05.300360+05:30'
-last_checked: '2026-07-03T03:54:05.300360+05:30'
+first_seen: '2026-07-03T15:10:31.992866+05:30'
+last_seen: '2026-07-03T15:10:31.992866+05:30'
+last_checked: '2026-07-03T15:10:31.992866+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-source security automation platform** built with Python, FastAPI, and Next.js, enabling event-driven workflows via a low-code interface with OpenAPI and Pydantic for schema validation.
-- **Integrates AI agents and LLM capabilities** for intelligent orchestration, leveraging Temporal.io for durable workflow execution and temporal state management.
-- **Designed for teams** with monitoring, security-focused automation, and scalable workflow engine architecture, last updated July 2026.
+- **Python-based open-source security automation platform** leveraging FastAPI, Pydantic, and TemporalIO for workflow orchestration, event-driven execution, and low-code automation with OpenAPI compliance.
+
+- **Integrates AI agents and LLM capabilities** for security operations, enabling autonomous threat detection, response, and monitoring with Next.js for frontend and a scalable event-driven architecture.
+
+- **Designed for teams** with modular workflow engine, security-focused tooling, and support for real-time monitoring, automation, and orchestration of security processes.
 
 ## Why It Matters
 

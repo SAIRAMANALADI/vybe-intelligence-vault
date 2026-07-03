@@ -14,6 +14,7 @@ tags:
 - agents
 - dataset
 - models
+- openai
 - producthunt
 - web-crawled
 - youtube
@@ -35,12 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Hugging Face** is an AI research organization maintaining core open-source libraries (`transformers`, `diffusers`, `datasets`, `peft`, `accelerate`, `optimum`) for state-of-the-art ML across modalities (text, vision, audio, multimodal) with PyTorch integration.
+- **Core Libraries**: Hugging Face maintains industry-standard open-source frameworks including `transformers` (162k+ stars) for unified ML model definition (text/vision/audio/multimodal), `diffusers` (34k+ stars) for diffusion-based generative AI, and `datasets` (21.7k+ stars) for large-scale data processing.
 
-- **Key repositories**:
-  - `transformers`: Unified framework for defining/inference/training SOTA models (162k+ stars).
-  - `diffusers`: Diffusion models for generative tasks (image/video/audio) in PyTorch (34k+ stars).
-  - `dataset
+- **Optimization & Fine-Tuning**: Provides `accelerate` for cross-device PyTorch execution with mixed precision (FP8) and DeepSpeed/FSDP support, `peft` (21.4k+ stars) for parameter-effic
 
 ## Use Cases
 

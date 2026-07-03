@@ -33,7 +33,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by cortexosmain. Score: 43, Comments: 9.
+Hacker News story by cortexosmain. Score: 134, Comments: 41.
 Original Link: https://github.com/HUANGCHIHHUNGLeo/claude-real-video
 
 ## Use Cases

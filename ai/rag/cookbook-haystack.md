@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/cookbook
-published_at: '2026-07-02T22:38:20.913959+05:30'
-collected_at: '2026-07-02T22:38:20.913975+05:30'
+published_at: '2026-07-03T15:15:10.663940+05:30'
+collected_at: '2026-07-03T15:15:10.663953+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:cookbook-haystack
-first_seen: '2026-07-02T22:38:20.913975+05:30'
-last_seen: '2026-07-02T22:38:20.913975+05:30'
-last_checked: '2026-07-02T22:38:20.913975+05:30'
+first_seen: '2026-07-03T15:15:10.663953+05:30'
+last_seen: '2026-07-03T15:15:10.663953+05:30'
+last_checked: '2026-07-03T15:15:10.663953+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Cookbook** provides 71 technical recipes demonstrating integrations with model providers, vector databases, retrieval techniques, and more, covering topics like **Agents, RAG, Multimodal, Advanced Retrieval, and Observability**.
-
-- **Key Recipes** include **Agentic Itinerary Planning with OpenStreetMap**, **Multimodal Agent with fastRAG**, **Hybrid RAG with BM42**, and **Evaluating RAG with Arize Phoenix**, showcasing advanced retrieval, memory integration, and multimodal workflows.
-
-- **Experimental & Custom Use Cases** feature **Mem0 Memory Store with Haystack Agents**, **Metadata Extraction with LLMs**, and **Prompt Optimization with DSPy**, highlighting cutting-edge techniques in memory management, metadata enrichment, and prompt engineering.
+- **Haystack Cookbook** provides 71 technical recipes covering **agents, RAG, multimodal processing, vector databases, model serving, and advanced retrieval** with integrations like **OpenStreetMap, MCP, vLLM, Mem0, and Azure AI Search**.
+- **Key technical areas** include **agentic workflows (e.g., itinerary planning, GitHub PR creation), hybrid retrieval (BM42, HyDE), metadata enrichment, and multimodal QA** with tools like **Gemma, Llama 3.2, and fastRAG**.
+- **Experimental and production-ready examples** demonstrate **function calling, async pipelines, safety guardrails, and observability** with frameworks like **DSPy, Prometheus 2, and Arize Phoenix**.
 
 ## Why It Matters
 
@@ -46,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T22:38:20.913959+05:30
+- Published: 2026-07-03T15:15:10.663940+05:30
 
 ## Related Tags
 

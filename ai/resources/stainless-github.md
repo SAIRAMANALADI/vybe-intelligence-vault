@@ -4,17 +4,18 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/stainless-api
-published_at: '2026-07-03T03:58:12.701861+05:30'
-collected_at: '2026-07-03T03:58:12.701871+05:30'
+published_at: '2026-07-03T15:15:16.871221+05:30'
+collected_at: '2026-07-03T15:15:16.871234+05:30'
 tags:
 - anthropic
 - openai
+- scripts
 - web-crawled
 status: active
 resource_id: blog:stainless-github
-first_seen: '2026-07-03T03:58:12.701871+05:30'
-last_seen: '2026-07-03T03:58:12.701871+05:30'
-last_checked: '2026-07-03T03:58:12.701871+05:30'
+first_seen: '2026-07-03T15:15:16.871234+05:30'
+last_seen: '2026-07-03T15:15:16.871234+05:30'
+last_checked: '2026-07-03T15:15:16.871234+05:30'
 health_score: 100
 ---
 
@@ -22,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-language SDK Generation**: Stainless produces SDKs in TypeScript (npm), Python (PyPI), Go, Java (Maven), and Kotlin (Maven) for APIs like OpenAI, Modern Treasury, Anthropic, and others, with direct GitHub repository links provided for each.
-
-- **Automated OpenAPI Integration**: Users can push OpenAPI specs to Stainless via a [GitHub Action](https://github.com/marketplace/actions/stainless-upload-openapi-specification) to auto-generate and update SDKs in connected repositories.
-
-- **GitHub App for Maintenance**: The [Stainless GitHub App](https://github.com/marketplace/stainless-app) ensures SDKs stay synchronized with upstream API changes by creating Release PRs in production repositories.
+- **Multi-language SDK Generation**: Stainless produces SDKs in TypeScript (npm), Python (PyPI), Go, Java (Maven), and Kotlin (Maven) for APIs like OpenAI, Modern Treasury, Anthropic, Mux, Cloudflare, Orb, Lithic, Groq, and Increase, with official SDK repositories linked for each language.
+- **Automated SDK Maintenance**: Uses GitHub Actions for OpenAPI spec updates and a GitHub App to auto-generate Release PRs for SDK repositories, ensuring synchronization with API changes.
+- **Developer Onboarding**: Requires signing up on Stainless’ platform, pushing OpenAPI specs via GitHub Actions, and installing their GitHub App to maintain SDKs in production repositories.
 
 ## Why It Matters
 
@@ -36,12 +35,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-03T03:58:12.701861+05:30
+- Published: 2026-07-03T15:15:16.871221+05:30
 
 ## Related Tags
 
 - anthropic
 - openai
+- scripts
 - web-crawled
 
 ## Source

@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alvinreal/awesome-opensource-ai
-collected_at: '2026-07-03T03:52:05.253160+05:30'
-published_at: '2026-07-02T18:46:51Z'
+collected_at: '2026-07-03T15:08:31.774865+05:30'
+published_at: '2026-07-03T08:08:29Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-stars: 4003
+stars: 4007
 language: Python
 status: active
 license: CC0-1.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-03-24T15:58:22Z'
 pushed_at: '2026-07-02T12:19:13Z'
 resource_id: github:alvinreal/awesome-opensource-ai
-first_seen: '2026-07-03T03:52:05.253160+05:30'
-last_seen: '2026-07-03T03:52:05.253160+05:30'
-last_checked: '2026-07-03T03:52:05.253160+05:30'
+first_seen: '2026-07-03T15:08:31.774865+05:30'
+last_seen: '2026-07-03T15:08:31.774865+05:30'
+last_checked: '2026-07-03T15:08:31.774865+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Open-Source AI Repository**: A continuously updated list (`daily`) of high-quality, truly open-source AI projects, models, tools, and infrastructure, covering agents, LLMs, generative AI, MLOps, and RAG systems.
-
-- **Technical Scope**: Primarily Python-based, with topics including `artificial-intelligence`, `machine-learning`, `mlops`, and `open-source-ai`, emphasizing transparency and community-driven development.
-
-- **Metrics & Maintenance**: Maintains `4,003 stars` and `472 forks`, with the last update on `2026-07-02T18:46:51Z`, ensuring recent and relevant resource tracking.
+*   Curated `awesome-list` aggregating open-source AI projects, models, tools, and infrastructure.
+*   Categorizes resources across agents, LLMs, generative AI, MLOps, and RAG domains.
+*   Python-based repository, actively maintained with daily updates, tracking open-source AI ecosystem evolution.
 
 ## Why It Matters
 
@@ -43,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: alvinreal
-- Stars: 4003
-- Forks: 472
+- Stars: 4007
+- Forks: 473
 - Language: Python
 - Topics: agents, ai, artificial-intelligence, awesome, awesome-list, generative-ai, llm, machine-learning, mlops, open-source, open-source-ai, rag
-- Last Updated: 2026-07-02T18:46:51Z
+- Last Updated: 2026-07-03T08:08:29Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2026-03-24T15:58:22Z

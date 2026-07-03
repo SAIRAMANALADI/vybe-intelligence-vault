@@ -1,72 +1,51 @@
 ---
-title: vibrantlabsai/ragas
+title: ragas/docs/concepts/metrics/index.md at main · vibrantlabsai/ragas · GitHub
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/vibrantlabsai/ragas
-collected_at: '2026-07-02T20:08:13.742087+05:30'
-published_at: '2026-07-02T11:13:59Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/vibrantlabsai/ragas/blob/master/docs/concepts/metrics/index.md
+published_at: '2026-07-03T15:13:14.618840+05:30'
+collected_at: '2026-07-03T15:13:14.618850+05:30'
 tags:
 - benchmark
-- github-repo
-- meta-ai
-- models
-- python
+- hackernews
 - rag
-- workflows
-stars: 14618
-language: Python
+- web-crawled
 status: active
-license: Apache-2.0
-archived: false
-created_at: '2023-05-08T17:48:04Z'
-pushed_at: '2026-02-24T07:47:19Z'
 resource_id: github:vibrantlabsai/ragas
-first_seen: '2026-07-02T20:08:13.742087+05:30'
-last_seen: '2026-07-02T20:08:13.742087+05:30'
-last_checked: '2026-07-02T20:08:13.742087+05:30'
+first_seen: '2026-07-03T15:13:14.618850+05:30'
+last_seen: '2026-07-03T15:13:14.618850+05:30'
+last_checked: '2026-07-03T15:13:14.618850+05:30'
 health_score: 100
 ---
 
-# vibrantlabsai/ragas
+# ragas/docs/concepts/metrics/index.md at main · vibrantlabsai/ragas · GitHub
 
 ## Summary
 
-- **Ragas**: Python library for evaluating LLM applications, focusing on **Retrieval-Augmented Generation (RAG)** systems with 14+ metrics (e.g., faithfulness, context relevance, answer correctness).
-- **Key Features**: Modular design for custom metrics, supports both **reference-free** and **reference-based** evaluation, integrates with frameworks like LangChain and LlamaIndex.
-- **Performance & Adoption**: 14.6k+ GitHub stars, active community contributions, and compatibility with modern LLM ops workflows (e.g., CI/CD pipelines).
+- **Design Principles**: Metrics in Ragas are structured around core design principles focusing on modularity, extensibility, and interpretability for evaluating RAG (Retrieval-Augmented Generation) systems.
+
+- **Available Metrics**: Ragas provides a suite of metrics (e.g., faithfulness, answer relevance, context precision) that quantify performance across dimensions like correctness, relevance, and context utilization in RAG pipelines.
+
+- **Inner Workings**: Metrics leverage NLP techniques (e.g., embeddings, LLM-based evaluations) to compute scores, often comparing generated answers against ground truths or retrieved contexts for automated assessment.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: vibrantlabsai
-- Stars: 14618
-- Forks: 1520
-- Language: Python
-- Topics: evaluation, llm, llmops
-- Last Updated: 2026-07-02T11:13:59Z
-- License: Apache-2.0
-- Archived: No
-- Created At: 2023-05-08T17:48:04Z
-- Pushed At: 2026-02-24T07:47:19Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-07-03T15:13:14.618840+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- benchmark
+- hackernews
+- rag
+- web-crawled
 
 ## Source
 
-Original source: https://github.com/vibrantlabsai/ragas
+Original source: https://github.com/vibrantlabsai/ragas/blob/master/docs/concepts/metrics/index.md

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/speed/webp/docs/cwebp
-published_at: '2026-07-02T15:10:21.142105+05:30'
-collected_at: '2026-07-02T15:10:21.142115+05:30'
+published_at: '2026-07-03T15:14:31.890187+05:30'
+collected_at: '2026-07-03T15:14:31.890201+05:30'
 tags:
 - models
 - rag
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:cwebp-webp-google-for-developers
-first_seen: '2026-07-02T15:10:21.142115+05:30'
-last_seen: '2026-07-02T15:10:21.142115+05:30'
-last_checked: '2026-07-02T15:10:21.142115+05:30'
+first_seen: '2026-07-03T15:14:31.890201+05:30'
+last_seen: '2026-07-03T15:14:31.890201+05:30'
+last_checked: '2026-07-03T15:14:31.890201+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- `cwebp` is a command-line tool for lossy/lossless WebP image compression from formats like PNG, JPEG, or TIFF, supporting quality control (`-q`), lossless mode (`-lossless`), and presets (`-preset photo/icon`).
-- Advanced features include spatial noise shaping (`-sns`), deblocking filter strength (`-f`), multi-threading (`-mt`), and image manipulation options like cropping (`-crop`) and resizing (`-resize`).
-- Output control options include specifying output file (`-o`), suppressing output (`-quiet`), and logging metrics like PSNR (`-print_psnr`) or SSIM (`-print_ssim`).
+- `cwebp` is a command-line tool for lossy/lossless WebP image compression, supporting input formats like PNG, JPEG, TIFF, and raw Y'CbCr, with advanced options for quality control (`-q`, `-lossless`, `-near_lossless`), method tuning (`-m`, `-z`), and metadata handling (`-metadata`).
+- Supports basic image manipulation (`-crop`, `-resize`) and fine-tuning via lossy-specific options (`-f`, `-sharpness`, `-sns`, `-partition_limit`) or lossless-specific options (`-alpha_q`, `-alpha_method`).
+- Provides multi-threading (`-mt`), memory optimization (`-low_memory`), and detailed logging/debugging options (`-v`, `-print_psnr`, `-map`), with output control via `-o` and `-quiet`.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T15:10:21.142105+05:30
+- Published: 2026-07-03T15:14:31.890187+05:30
 
 ## Related Tags
 

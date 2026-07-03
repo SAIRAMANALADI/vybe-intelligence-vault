@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Abstraction**: Simplifies complex systems by hiding lower-level details, enabling focus on high-level functionality and design.
-- **Modularity**: Divides systems into independent, interchangeable components, enhancing maintainability, scalability, and reusability.
-- **Scalability**: Design principle ensuring system performance and efficiency can grow proportionally with increased load or demand.
+- **Abstraction**: Simplifies complex systems by modeling classes/objects with high-level attributes/methods, hiding low-level implementation details.
+- **Encapsulation**: Bundles data (attributes) and methods (functions) into a single unit (class), restricting direct access to some components via access modifiers (e.g., `private`, `protected`).
+- **Polymorphism**: Enables objects of different classes to be treated as objects of a common superclass, facilitating dynamic method resolution (e.g.,
 
 ## Use Cases
 

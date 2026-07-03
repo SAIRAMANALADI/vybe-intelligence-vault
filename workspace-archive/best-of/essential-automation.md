@@ -8,6 +8,16 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
+### [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`ritik-prog-n8n-automation-templates-5000.md`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [vin67/crewai_docker](https://github.com/vin67/crewai_docker)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`vin67-crewai-docker.md`](../../ai/agents/vin67-crewai-docker.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [git/git](https://github.com/git/git)
 - **Category**: `ai/resources` | **Kind**: `WORKFLOW` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`git-git.md`](../../ai/resources/git-git.md)
@@ -16,6 +26,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
 - **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`model-context-protocol-github.md`](../../ai/resources/model-context-protocol-github.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [Stainless · GitHub](https://github.com/stainless-api)
+- **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`stainless-github.md`](../../ai/resources/stainless-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)
@@ -43,29 +58,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`ansible-collections-google-cloud.md`](../../ai/rag/ansible-collections-google-cloud.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
+### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [langgenius/dify](https://github.com/langgenius/dify)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`jamwithai-production-agentic-rag-course.md`](../../ai/rag/jamwithai-production-agentic-rag-course.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`hkuds-ai-researcher.md`](../../ai/rag/hkuds-ai-researcher.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [truefoundry/cognita](https://github.com/truefoundry/cognita)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`truefoundry-cognita.md`](../../ai/rag/truefoundry-cognita.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Neo4j · GitHub](https://github.com/neo4j)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`neo4j-github.md`](../../ai/rag/neo4j-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-03 04:07 IST*
+*Last updated: 2026-07-03 15:24 IST*

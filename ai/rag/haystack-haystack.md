@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/
-published_at: '2026-07-03T03:54:11.081034+05:30'
-collected_at: '2026-07-03T03:54:11.081044+05:30'
+published_at: '2026-07-03T15:11:42.749380+05:30'
+collected_at: '2026-07-03T15:11:42.749391+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:haystack-haystack
-first_seen: '2026-07-03T03:54:11.081044+05:30'
-last_seen: '2026-07-03T03:54:11.081044+05:30'
-last_checked: '2026-07-03T03:54:11.081044+05:30'
+first_seen: '2026-07-03T15:11:42.749391+05:30'
+last_seen: '2026-07-03T15:11:42.749391+05:30'
+last_checked: '2026-07-03T15:11:42.749391+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack provides a transparent, modular framework for building production-ready AI agents, RAG systems, and context-engineered workflows with full visibility for debugging and optimization.
+- **Modular AI Orchestration**: Haystack provides a transparent, modular framework for building production-ready AI agents, RAG systems, and context-engineered workflows with full inspection, debugging, and optimization capabilities.
 
-- **Cross-Platform Integration**: Supports seamless integration with major AI models (OpenAI, Anthropic, Mistral) and vector databases (Weaviate, Pinecone, Elasticsearch) without vendor lock-in, enabling flexible, composable AI pipelines.
+- **Cross-Platform & Vendor-Neutral**: Supports integration with major LLMs (OpenAI, Anthropic, Mistral) and vector databases (Weaviate, Pinecone, Elasticsearch) without vendor lock-in, enabling flexible, cloud-agnostic deployments.
 
-- **Enterprise-Grade Scalability**: Offers Kubernetes-ready, cloud-agnostic pipelines with built-in reliability, observability, and deployment tools, supporting large-scale AI operations across environments.
+- **Enterprise-Grade Scalability**: Offers Kubernetes-ready pipelines with built-in reliability, observability, and deployment guides, scaling from open-source prototypes to large-scale enterprise solutions.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T03:54:11.081034+05:30
+- Published: 2026-07-03T15:11:42.749380+05:30
 
 ## Related Tags
 

@@ -35,9 +35,9 @@ selection_reason:
 
 - **Multi-modal indexing**: Supports integration of diverse data types (text, images, etc.) into a unified graph-based retrieval system for enhanced context engineering.
 
-- **AI agents & MCP integration**: Incorporates autonomous agents and Model Context Protocol (MCP) for dynamic, scalable knowledge graph interactions and retrieval.
+- **AI agents & MCP integration**: Incorporates autonomous agents and Model Context Protocol (MCP) for dynamic, scalable knowledge graph interactions and orchestration.
 
-- **Kubernetes-native deployment**: Optimized for scalable, production-grade deployment via Kubernetes, ensuring high availability and fault tolerance.
+- **Kubernetes-native deployment**: Optimized for scalable, production-grade deployment via Kubernetes, ensuring high availability and distributed processing.
 
 ## Use Cases
 

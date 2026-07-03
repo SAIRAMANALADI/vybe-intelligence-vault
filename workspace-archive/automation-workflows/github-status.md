@@ -2,7 +2,7 @@
 title: GitHub Status
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://www.githubstatus.com
+source_url: https://www.githubstatus.com/
 resource_id: blog:github-status
 local_vault_path: ai/rag/github-status.md
 quality_score: 70
@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page** provides real-time operational status for GitHub services (e.g., Git Operations, API Requests, Actions) with 90-day uptime metrics, incident tracking, and historical data via Atom/RSS feeds.
-- **Notification Systems** support email, SMS (global carrier support), Slack, and webhook-based incident updates for GitHub service disruptions, with OTP verification for secure subscriptions.
-- **Regional Status Endpoints** (au.githubstatus.com, eu.githubstatus.com, jp.githubstatus
+- **GitHub Status Page**: Provides real-time operational status of GitHub services (e.g., Git Operations, API Requests, Actions) with historical uptime metrics (99.99% for Git Operations over 90 days) and incident tracking.
+
+- **Notification Subscriptions**: Supports multi-channel incident notifications via email, SMS (global phone number verification), Slack, and webhooks for automated incident updates (e.g., `POST` to webhook URL on status changes).
+
+- **Regional Status Monitoring**: Tracks Gi
 
 ## Use Cases
 
@@ -48,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.githubstatus.com
+Original source URL: https://www.githubstatus.com/
 
 ## Local Vault File
 

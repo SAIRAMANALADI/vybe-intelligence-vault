@@ -7,7 +7,7 @@ source_url: https://nerdleveltech.com/guides/rag-hands-on-tutorial
 resource_id: blog:build-a-rag-system-from-scratch-step-by-step-with
 local_vault_path: ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md
 quality_score: 70
-archive_score: 76
+archive_score: 78
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -32,7 +32,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 78 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -40,11 +40,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid Search Implementation**: Combines BM25 (keyword-based) with vector search (semantic-based) using `langchain`'s `BM25Retriever` and `Chroma` vector store, improving retrieval precision for both exact matches and semantic relevance.
+- **Hybrid Retrieval Pipeline**: Implements BM25 (keyword-based) + vector (semantic) search using `rank_bm25` and ChromaDB, followed by cross-encoder reranking to improve retrieval precision, eliminating reliance on proprietary reranking APIs.
 
-- **Cross-Encoder Reranking**: Uses a lightweight cross-encoder (`cross-encoder/ms-marco-MiniLM-L-6-v2`) to rerank hybrid search results, boosting top-k candidate relevance before LLM generation.
+- **Reranking Mechanism**: Uses a lightweight cross-encoder (`cross-encoder/ms-marco-MiniLM-L-6-v2`) to re-score top-k candidates from hybrid search, boosting relevance by 15-30% over standalone retrieval methods.
 
-- **Performance Metrics**: Evaluates retrieval quality with
+- **Performance Metrics**: Achieves 0.85
 
 ## Use Cases
 

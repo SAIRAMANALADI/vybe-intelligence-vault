@@ -8,15 +8,16 @@ local_vault_path: ai/rag/muesli-smartcrop.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: tool
 importance: medium
 tags:
 - github-repo
 - go
+- hackernews
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # muesli/smartcrop
@@ -25,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: tool
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Algorithm**: Implements a saliency-based cropping algorithm to identify visually important regions in images using edge detection and entropy analysis.
-- **Implementation**: Written in Go, leveraging OpenCV for image processing and providing a library for integration into other projects.
-- **Features**: Supports arbitrary crop sizes and aspect ratios, with configurable parameters for sensitivity and smoothing.
+- **Algorithm**: Uses a saliency-based approach to detect visually important regions in images before cropping, optimizing for aesthetic and content-aware selections.
+- **Implementation**: Written in Go, leveraging image processing techniques like edge detection, entropy analysis, and face detection to determine optimal crop regions.
+- **Flexibility**: Supports arbitrary crop sizes and aspect ratios, dynamically adjusting to input dimensions while preserving key visual elements.
 
 ## Use Cases
 

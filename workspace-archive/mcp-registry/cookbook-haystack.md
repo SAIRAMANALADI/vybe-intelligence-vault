@@ -8,7 +8,7 @@ local_vault_path: ai/rag/cookbook-haystack.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: high
 tags:
 - agents
@@ -23,7 +23,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # 🧑‍🍳 Cookbook | Haystack
@@ -32,16 +32,16 @@ selection_reason:
 
 - Matched archive category: `MCP Registry`
 - Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Haystack Cookbook** provides 71 technical recipes demonstrating integrations with model providers, vector databases, retrieval techniques, and advanced AI workflows (e.g., RAG, agents, multimodal processing).
-- **Key focus areas** include agentic systems (e.g., itinerary planning, GitHub issue resolution), retrieval optimization (e.g., hybrid RAG, HyDE, metadata enrichment), and observability/evaluation (e.g., Arize Phoenix, RAGAS).
-- **Experimental and production-ready examples** cover dive
+- **Haystack Cookbook** provides 71 technical recipes covering **agents, RAG, multimodal processing, vector databases, model serving, and advanced retrieval** with integrations like **OpenStreetMap, MCP, vLLM, Mem0, and Azure AI Search**.
+- **Key technical areas** include **agentic workflows (e.g., itinerary planning, GitHub PR creation), hybrid retrieval (BM42, HyDE), metadata enrichment, and multimodal QA** with tools like **Gemma, Llama 3.2, and fastRAG**.
+- **Experimental and production-read
 
 ## Use Cases
 

@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational RAG Pipeline**: Step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modular deployment.
-- **GenAI Integration**: Demonstrates integration of generative AI models with vector databases (e.g., FAISS/Chroma) for efficient document retrieval and context-aware response generation.
-- **CI/CD & Scalability**: Includes Dockerized setup for reproducibility, FastAPI endpoints for RESTful interactions,
+- **Educational RAG Pipeline**: Step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, with a focus on GenAI integration.
+
+- **Modular Architecture**: Implements a scalable microservices-based design, separating components like embedding generation, vector storage (e.g., FAISS/Chroma), and retrieval logic for maintainability.
+
+- **CI/CD & Deployment**: Includes Dockerized setup with FastAPI endpoints, automated te
 
 ## Use Cases
 

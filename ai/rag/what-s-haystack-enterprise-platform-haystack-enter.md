@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.cloud.deepset.ai/docs/getting-started
-published_at: '2026-07-02T04:17:13.894832+05:30'
-collected_at: '2026-07-02T04:17:13.894845+05:30'
+published_at: '2026-07-03T15:13:18.715702+05:30'
+collected_at: '2026-07-03T15:13:18.715712+05:30'
 tags:
 - agents
 - benchmark
@@ -16,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:what-s-haystack-enterprise-platform-haystack-enter
-first_seen: '2026-07-02T04:17:13.894845+05:30'
-last_seen: '2026-07-02T04:17:13.894845+05:30'
-last_checked: '2026-07-02T04:17:13.894845+05:30'
+first_seen: '2026-07-03T15:13:18.715712+05:30'
+last_seen: '2026-07-03T15:13:18.715712+05:30'
+last_checked: '2026-07-03T15:13:18.715712+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Application Lifecycle Management**: Platform supports prototyping to production deployment, including data ingestion, model selection, evaluation, and monitoring for AI-powered applications.
+- **Unified AI Application Lifecycle Management**: Enables end-to-end development, prototyping, deployment, and monitoring of AI-powered applications with integrated data ingestion, model selection, and evaluation workflows.
 
-- **Modular Pipeline Architecture**: Enables building AI agents and RAG systems via configurable components (retrievers, rankers, generators) with visual Pipeline Builder and support for multi-model integration (e.g., LLMs, embeddings).
+- **Modular Pipeline Architecture**: Supports AI agents and advanced RAG systems via configurable pipelines (retrievers, rankers, generators) with visual Pipeline Builder and model-agnostic integrations for LLMs/embeddings.
 
-- **Observability & Deployment Flexibility**: Integrates with tracing tools (Langfuse, Weave) and provides REST API for automation, while offering prototype sharing (branded links) and production deployment via API with built-in performance dashboards.
+- **Enterprise Observability & Deployment**: Provides REST API for automation, built-in logging/monitoring dashboards, third-party tracing (Langfuse, Weights & Biases), and prototype sharing with feedback collection before production deployment.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T04:17:13.894832+05:30
+- Published: 2026-07-03T15:13:18.715702+05:30
 
 ## Related Tags
 

@@ -6,10 +6,10 @@ source_url: https://www.deepset.ai/blog
 resource_id: blog:blog
 local_vault_path: ai/rag/blog.md
 quality_score: 70
-archive_score: 74
+archive_score: 84
 archive_tier: useful
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
 - hackernews
@@ -17,6 +17,7 @@ tags:
 - producthunt
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -27,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 84 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Haystack Enterprise Platform**: Unified enterprise AI framework integrating RAG, IDP, and AI Agents with MCP tooling support for production-grade deployments, previously branded as deepset AI Platform.
+- **Haystack Framework**: Open-source Python framework for building production-ready NLP pipelines, supporting modular components for document retrieval, processing, and question answering with integrations to LLMs, vector databases, and APIs.
 
-- **Harness Engineering**: System-level reliability methodology for AI agents, emphasizing failure classification and mitigation via engineered pipelines rather than model selection alone, implemented in Haystack.
+- **Enterprise AI Solutions**: Offers **Haystack Enterprise Platform** (unified AI solution), **Haystack Enterprise Starter** (scalable deployment), and **MCP tool integration** to expose pipelines as managed tools for agentic workflows.
 
-- **Sovereign AI Focus**: Emphasizes transparent, open infrastructure (e.g., D
+- **Sovereign AI
 
 ## Use Cases
 

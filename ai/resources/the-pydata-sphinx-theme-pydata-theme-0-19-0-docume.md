@@ -4,16 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html
-published_at: '2026-06-24T21:08:59.494948+05:30'
-collected_at: '2026-06-24T21:08:59.494959+05:30'
+published_at: '2026-07-03T15:15:08.078516+05:30'
+collected_at: '2026-07-03T15:15:08.078528+05:30'
 tags:
 - frontend_ui
+- reddit
 - web-crawled
 status: active
 resource_id: blog:the-pydata-sphinx-theme-pydata-theme-0-19-0-docume
-first_seen: '2026-06-24T21:08:59.494959+05:30'
-last_seen: '2026-06-24T21:08:59.494959+05:30'
-last_checked: '2026-06-24T21:08:59.494959+05:30'
+first_seen: '2026-07-03T15:15:08.078528+05:30'
+last_seen: '2026-07-03T15:15:08.078528+05:30'
+last_checked: '2026-07-03T15:15:08.078528+05:30'
 health_score: 100
 ---
 
@@ -21,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Bootstrap-based Sphinx theme** with responsive design, enabling dynamic layout adaptation across screen sizes and interactive light/dark theme toggling via CSS variables.
-- **PyData/Jupyter integration** with native support for execution outputs, Jupyter extensions, and customizable UI components (e.g., Sphinx Design elements).
-- **Modular configuration** including navigation depth control, version switching, analytics integration, and performance optimization for large-scale documentation.
+- **Bootstrap-based Sphinx theme** with responsive design, supporting light/dark theme toggles and customizable UI via CSS variables.
+- **Jupyter/PyData integration** with native support for execution outputs and Sphinx Design components.
+- **Modular configuration** with extensive user guides covering layout, branding, accessibility, and performance optimization.
 
 ## Why It Matters
 
@@ -33,11 +34,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T21:08:59.494948+05:30
+- Published: 2026-07-03T15:15:08.078516+05:30
 
 ## Related Tags
 
 - frontend_ui
+- reddit
 - web-crawled
 
 ## Source

@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Practical RAG Implementation**: A Retrieval-Augmented Generation (RAG) system enabling users to download and interact with GitHub repositories via chat.
-- **Python-Based**: Fully implemented in Python, leveraging modern NLP and code analysis libraries for repository ingestion and query processing.
-- **GitHub Integration**: Supports direct repository downloads and real-time querying, with the latest update as of 2026-06-30 (97 stars, 20 forks).
+- **Practical RAG Implementation**: Implements a Retrieval-Augmented Generation (RAG) system enabling users to download and interactively query GitHub repositories via natural language.
+- **Python-Based Architecture**: Developed in Python, leveraging libraries for repository parsing, vector embeddings, and LLM integration for contextual retrieval.
+- **Last Updated**: Repository last modified on **2026-06-30**, with **97 stars** and **20 forks**, indicating active but niche adoption.
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/dannyblaker/rag-tutorial
-collected_at: '2026-07-03T03:51:05.182860+05:30'
+collected_at: '2026-07-03T15:07:31.809971+05:30'
 published_at: '2026-06-29T08:47:18Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-03T09:47:50Z'
 pushed_at: '2026-01-03T09:50:45Z'
 resource_id: github:dannyblaker/rag-tutorial
-first_seen: '2026-07-03T03:51:05.182860+05:30'
-last_seen: '2026-07-03T03:51:05.182860+05:30'
-last_checked: '2026-07-03T03:51:05.182860+05:30'
+first_seen: '2026-07-03T15:07:31.809971+05:30'
+last_seen: '2026-07-03T15:07:31.809971+05:30'
+last_checked: '2026-07-03T15:07:31.809971+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from foundational concepts to production deployment, with executable code examples and reusable utilities.
-- **Technical Scope**: Covers embeddings, vector databases, large language models (LLMs), and advanced RAG techniques, emphasizing practical implementation.
-- **Repository Details**: Python-based, last updated June 29, 2026; minimal adoption (7 stars, 0 forks) but includes hands-on demos for self-paced learning.
+- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from fundamentals to production deployment, with executable code examples and reusable utilities.
+
+- **Technical Scope**: Covers embeddings, vector databases (e.g., FAISS, Chroma), LLMs (e.g., Hugging Face Transformers), and advanced RAG techniques like retrieval optimization and hybrid search.
+
+- **Python-Based Implementation**: Provides hands-on demos in Python, leveraging libraries such as `langchain`, `sentence-transformers`, and `pydantic` for modular RAG system construction.
 
 ## Why It Matters
 

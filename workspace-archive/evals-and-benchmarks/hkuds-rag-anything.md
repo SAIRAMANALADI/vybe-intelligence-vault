@@ -12,11 +12,9 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- meta-ai
-- models
+- hackernews
 - python
 - rag
-- youtube
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal RAG integration**: Framework supports retrieval-augmented generation across text, images, audio, and video modalities using unified embedding and indexing pipelines.
-
-- **Modular architecture**: Implements plug-and-play components for document parsing, vector storage (e.g., FAISS/Chroma), reranking (e.g., ColBERTv2), and LLM integration (e.g., LlamaIndex/LangChain).
-
-- **Dynamic retrieval strategies**: Features adaptive query routing, hybrid search (dense+sparse), and context-awa
+- **Multi-modal RAG Integration**: Framework supports retrieval-augmented generation (RAG) across text, images, and other modalities, enabling unified processing of heterogeneous data sources.
+- **Modular Architecture**: Implements a plug-and-play design with configurable components (e.g., retrievers, generators, pre/post-processing) for extensibility and customization.
+- **Optimized Pipeline**: Leverages advanced indexing (e.g., vector DBs) and retrieval techniques (e.g., cross-modal similarity
 
 ## Use Cases
 

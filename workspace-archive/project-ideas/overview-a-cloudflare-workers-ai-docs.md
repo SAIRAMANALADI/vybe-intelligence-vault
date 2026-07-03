@@ -13,7 +13,6 @@ importance: medium
 tags:
 - reddit
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -32,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Workers Wrangler CLI**: A command-line tool for initializing, building, and deploying Workers AI applications, integrating with Cloudflare's Workers platform for serverless execution.
+- **Workers Wrangler CLI**: A command-line tool for initializing, building, and deploying Workers AI applications, integrating with Cloudflare Workers for serverless execution.
 
-- **Project Initialization**: Run `npx wrangler generate <project-name> https://github.com/cloudflare/workers-ai-template` to scaffold a Workers AI project with preconfigured dependencies and boilerplate code.
+- **Project Initialization**: Run `npm create cloudflare@latest` to scaffold a Workers AI project, selecting the Workers AI template for pre-configured dependencies and settings.
 
-- **Deployment Workflow**: Configure `wrangler.toml` with Cloudflare credentials, then deploy via `n
+- **Deployment**: Use `wrangler deploy` to publish the Workers AI application to Cloudflare’s global network, enabling low-latency inference f
 
 ## Use Cases
 

@@ -8,15 +8,16 @@ local_vault_path: ai/agents/sanbuphy-learn-coding-agent.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: framework
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
 - hackernews
 - unknown
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # sanbuphy/learn-coding-agent
@@ -25,15 +26,15 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `sanbuphy/learn-coding-agent` focuses on research and development of **Coding Agents**, with 12,091 stars and 19,682 forks, indicating significant community interest.
-- **Technical Details**: The repository's primary language is **not specified**, and it lacks defined topics, suggesting an experimental or evolving project structure.
-- **Update Status**: Last updated on **July 1, 2026**, reflecting recent activity in the research domain.
+- **Repository Overview**: GitHub repository `sanbuphy/learn-coding-agent` focused on research in coding agents, with 12,091 stars and 19,681 forks, last updated on July 3, 2026.
+- **Technical Scope**: Dedicated to advancing autonomous coding agents, though specific language/framework details are unspecified ("Unknown" language).
+- **Research Focus**: Explores methodologies, benchmarks, or tools for evaluating and improving coding agent capabilities in software development tasks.
 
 ## Use Cases
 

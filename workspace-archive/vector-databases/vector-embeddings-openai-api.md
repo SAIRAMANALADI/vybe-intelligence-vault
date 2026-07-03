@@ -8,7 +8,7 @@ local_vault_path: ai/rag/vector-embeddings-openai-api.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: dataset
+resource_kind: prompt
 importance: medium
 tags:
 - benchmark
@@ -18,6 +18,7 @@ tags:
 - producthunt
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Valuable developer reference
 ---
@@ -28,15 +29,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: dataset
+- Resource kind: prompt
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Model Specifications**: New `text-embedding-3-small` (1536-dim) and `text-embedding-3-large` (3072-dim) models offer lower costs, improved multilingual performance, and configurable dimensionality via the `dimensions` parameter, enabling trade-offs between vector size and accuracy.
+- **Model Specifications**: `text-embedding-3-small` (1536-dim, 62.5k pages/USD, 62.3% MTEB) and `text-embedding-3-large` (3072-dim, 9.6k pages/USD, 64.6% MTEB) support dynamic dimension reduction via `dimensions` parameter, enabling trade-offs between performance and cost (e.g., 256-dim `text-embedding-3-large` outperforms 1536-dim `text-embedding-ada-002`).
 
-- **Embedding Generation**: Embeddings are generated via API calls to `/v1/embeddings` with input text, returning a vector of floating-point numbers; token-based pricing applies (e.g., ~62.5k pages per dollar for
+- **API Integration**: Embeddings are generated via POST request to `/v1/embeddings` with `input` (text string/array) and `model` paramet
 
 ## Use Cases
 

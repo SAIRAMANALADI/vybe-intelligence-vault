@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Model Agent Framework**: Implements CrewAI template enabling dynamic selection across multiple LLMs (e.g., GPT-3, GPT-4, Mixtral, Llama 3, Gemma) within a single workflow.
-- **Python-Based Architecture**: Leverages Python for agent orchestration, model integration, and CrewAI compatibility for modular AI task execution.
-- **Last Updated**: Repository last modified on **2025-03-13**, indicating recent maintenance for model compatibility and performance optimizations.
+- **Multi-Model Agent Template**: Provides a CrewAI-compatible framework enabling dynamic selection of multiple LLM agents (e.g., GPT-3, GPT-4, Mixtral, Llama 3, Gemma) within a single workflow.
+
+- **Python-Based Implementation**: Built in Python, leveraging CrewAI’s agent orchestration for modular LLM integration and task delegation.
+
+- **Last Updated**: Repository last modified on **2025-03-13**, with 11 stars and 8 forks as of the latest snapshot.
 
 ## Use Cases
 

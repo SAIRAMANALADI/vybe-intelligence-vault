@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic LLM Vulnerability Scanner**: A Python-based framework for red teaming and evaluating LLM security vulnerabilities, including jailbreaks, prompt injections, and guardrail bypasses.
-- **LLM Fuzzing & Aggregation**: Implements automated fuzzing techniques to test LLM robustness, aggregating results for comprehensive vulnerability assessment.
-- **Multi-Topic Security Toolkit**: Supports agent-framework integration, LLM evaluation, and security testing across prompt-testing, guardrails, a
+- **Purpose**: Agentic LLM Vulnerability Scanner designed for AI red teaming, evaluating LLM security, and testing for jailbreaks, prompt injections, and other vulnerabilities.
+- **Features**: Includes an agentic framework for LLM fuzzing, vulnerability scanning, and evaluation with guardrails and aggregator tools.
+- **Technical Stack**: Python-based repository with support for agent frameworks, LLM security testing, and automated prompt testing.
 
 ## Use Cases
 

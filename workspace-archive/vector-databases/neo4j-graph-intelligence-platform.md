@@ -8,14 +8,15 @@ local_vault_path: ai/rag/neo4j-graph-intelligence-platform.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
-- hackernews
+- mistral
+- models
 - rag
 - web-crawled
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Neo4j Graph Intelligence Platform
@@ -24,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Event**: LJC Meetup at Neo4j – "Smarter Search with Spring AI and Neo4j" (London, July 2, 2026, 6:00 PM BST).
-- **Focus**: Integration of **Spring AI** with **Neo4j** for enhanced search capabilities using graph-based AI techniques.
-- **Target Audience**: Java/Graph AI developers interested in leveraging **Spring AI** for **Neo4j**-powered intelligent search solutions.
+- **Integration of Neo4j and Mistral AI**: Leverages graph-based knowledge representation in Neo4j with Mistral AI's large language models (LLMs) to enable explainable, enterprise-grade AI systems by linking structured knowledge graphs with generative AI outputs.
+
+- **Explainable AI (XAI) Framework**: Utilizes Neo4j’s graph database to provide transparent reasoning paths for AI decisions, allowing enterprises to audit, trace, and validate model outputs through interconnected data relationships.
 
 ## Use Cases
 

@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/huangchihhungleo/claude-real-video
 hn_url: https://news.ycombinator.com/item?id=48766005
-score: 43
+score: 134
 author: cortexosmain
-comments_count: 9
+comments_count: 41
 published_at: '2026-07-03T00:40:12+05:30'
-collected_at: '2026-07-03T03:50:17.743551+05:30'
+collected_at: '2026-07-03T15:06:01.717996+05:30'
 tags:
 - anthropic
 - hackernews
@@ -18,8 +18,8 @@ tags:
 status: active
 resource_id: github:huangchihhungleo/claude-real-video
 first_seen: '2026-07-03T03:50:17.743551+05:30'
-last_seen: '2026-07-03T03:50:17.743551+05:30'
-last_checked: '2026-07-03T03:50:17.743551+05:30'
+last_seen: '2026-07-03T15:06:01.717996+05:30'
+last_checked: '2026-07-03T15:06:01.717996+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by cortexosmain. Score: 43, Comments: 9.
+Hacker News story by cortexosmain. Score: 134, Comments: 41.
 Original Link: https://github.com/HUANGCHIHHUNGLeo/claude-real-video
 
 ## Why It Matters
@@ -37,8 +37,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: cortexosmain
-- Score: 43 Upvotes
-- Comments: 9 Discussions
+- Score: 134 Upvotes
+- Comments: 41 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48766005
 - Original Article: https://github.com/huangchihhungleo/claude-real-video
 

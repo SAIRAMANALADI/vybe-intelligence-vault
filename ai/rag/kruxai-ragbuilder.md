@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-07-03T03:52:30.234832+05:30'
+collected_at: '2026-07-03T15:08:56.867216+05:30'
 published_at: '2026-07-02T17:19:50Z'
 tags:
-- benchmark
 - dataset
 - github-repo
 - python
 - rag
+- workflows
 stars: 1537
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-07-03T03:52:30.234832+05:30'
-last_seen: '2026-07-03T03:52:30.234832+05:30'
-last_checked: '2026-07-03T03:52:30.234832+05:30'
+first_seen: '2026-07-03T15:08:56.867216+05:30'
+last_seen: '2026-07-03T15:08:56.867216+05:30'
+last_checked: '2026-07-03T15:08:56.867216+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose-built RAG Optimization Toolkit**: Provides a Python-based framework for constructing production-grade Retrieval Augmented Generation (RAG) pipelines, focusing on data-specific optimization for retrieval and generation components.
+- **RAG Optimization Toolkit**: Provides a Python-based framework for constructing production-grade Retrieval Augmented Generation (RAG) systems, optimizing data retrieval and generation pipelines.
 
-- **Modular Architecture**: Implements a configurable pipeline with components for data ingestion, embedding, retrieval, and LLM integration, enabling customization for diverse datasets and use cases.
+- **Modular Architecture**: Implements customizable components (e.g., embedders, retrievers, LLMs) to adapt to diverse datasets and use cases, ensuring scalability and performance.
 
-- **Key Features**: Includes pre-processing utilities, vector database integration, retrieval tuning, and evaluation metrics to benchmark and enhance RAG system performance.
+- **Open-Source & Community-Driven**: Actively maintained (last updated July 2026) with 1.5K+ GitHub stars, fostering collaboration for continuous improvement in RAG deployment workflows.
 
 ## Why It Matters
 

@@ -4,18 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.trychroma.com/docs/overview/introduction
-published_at: '2026-07-01T15:49:16.283157+05:30'
-collected_at: '2026-07-01T15:49:16.283172+05:30'
+published_at: '2026-07-03T15:11:53.164585+05:30'
+collected_at: '2026-07-03T15:11:53.164595+05:30'
 tags:
 - agents
 - openai
 - rag
 - web-crawled
+- workflows
 status: active
 resource_id: blog:introduction-chroma-docs
-first_seen: '2026-07-01T15:49:16.283172+05:30'
-last_seen: '2026-07-01T15:49:16.283172+05:30'
-last_checked: '2026-07-01T15:49:16.283172+05:30'
+first_seen: '2026-07-03T15:11:53.164595+05:30'
+last_seen: '2026-07-03T15:11:53.164595+05:30'
+last_checked: '2026-07-03T15:11:53.164595+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal vector database**: Chroma supports storage and retrieval of embeddings for text, images, audio, and other modalities with metadata tagging, enabling hybrid search across modalities.
+- **Multi-modal Vector Database**: Chroma supports storage and retrieval of embeddings with metadata for text, images, audio, and other modalities, enabling dense, sparse, and hybrid vector search with similarity queries.
 
-- **Flexible retrieval pipeline**: Implements dense, sparse, and hybrid vector search with metadata filtering, full-text/regex search, and compatibility with embedding models (OpenAI, Cohere, Hugging Face, etc.).
+- **Metadata & Full-Text Filtering**: Provides real-time metadata filtering and full-text/regex search capabilities, allowing granular query refinement without relying solely on embeddings.
 
-- **Open-source & scalable deployment**: Licensed under Apache 2.0, deployable locally, self-hosted, or via Chroma Cloud (serverless, zero-ops) with example use cases in agentic search and code indexing.
+- **Open-Source & Cloud Deployment**: Licensed under Apache 2.0, Chroma offers self-hosting, local deployment, or a managed serverless option (Chroma Cloud) with SDK support for document storage, embeddings (e.g., OpenAI, Hugging Face), and agentic workflows.
 
 ## Why It Matters
 
@@ -37,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T15:49:16.283157+05:30
+- Published: 2026-07-03T15:11:53.164585+05:30
 
 ## Related Tags
 
@@ -45,6 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 - openai
 - rag
 - web-crawled
+- workflows
 
 ## Source
 

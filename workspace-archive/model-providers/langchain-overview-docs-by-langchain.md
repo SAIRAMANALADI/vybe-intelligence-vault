@@ -2,7 +2,7 @@
 title: LangChain overview - Docs by LangChain
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://js.langchain.com
+source_url: https://python.langchain.com/docs/concepts/text_splitters/
 resource_id: blog:langchain-overview-docs-by-langchain
 local_vault_path: ai/rag/langchain-overview-docs-by-langchain.md
 quality_score: 70
@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Modular Agent Harness**: `create_agent` provides a minimal, configurable harness combining model, tools, prompt, and middleware, enabling custom agent composition for specific use cases with support for multiple LLM providers (OpenAI, Anthropic, Google, etc.).
+- **Agent Composition**: LangChain's `create_agent` provides a minimal, modular harness combining model, tools, prompt, and middleware, enabling custom agent construction for specific use cases with support for multiple providers (OpenAI, Anthropic, Google, etc.).
 
-- **Unified Interface & Extensibility**: Standardizes model interaction (chat, embeddings) across providers via a single interface, while allowing incremental addition of capabilities (guardrails, retries, routing) through middleware
+- **Harness Architecture**: Agents are built atop LangGraph, inheriting durable execution, persistence, and human-in-the-loop capabilities, while offering incremental configurability via middleware for guardrails, retries, routing, an
 
 ## Use Cases
 
@@ -49,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://js.langchain.com
+Original source URL: https://python.langchain.com/docs/concepts/text_splitters/
 
 ## Local Vault File
 

@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- dataset
 - github-repo
 - python
 - rag
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to "chat" with video content via multi-modal inputs and structured retrieval mechanisms.
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system tailored for long-video understanding, enabling LLMs to interactively query and reason over video content via multi-modal embeddings and retrieval mechanisms.
 
-- **Multi-Modal Integration**: Combines vision (video frames), audio, and text modalities, leveraging advanced encoders (e.g., CLIP, Whisper) and cross-modal attention for unified representation learning.
+- **Multi-Modal Integration**: Leverages both visual and textual modalities, combining video frame embeddings with transcript/OCR data to enhance contextual retrieval and generate coherent responses for video-based Q&A.
 
-- **Efficient Retrieval**: Implements hierarchical or sparse retrieval strate
+- **KDD'2026 Contribution**: Propose
 
 ## Use Cases
 

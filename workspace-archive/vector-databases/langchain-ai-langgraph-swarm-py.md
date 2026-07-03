@@ -12,7 +12,9 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
+- anthropic
 - github-repo
+- openai
 - python
 - rag
 - workflows
@@ -32,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Orchestration**: Implements a swarm-based framework for coordinating multiple LLM-driven agents in Python, leveraging LangGraph for stateful workflows and inter-agent communication.
+- **Multi-agent orchestration framework**: Implements a swarm-based architecture for coordinating multiple LLM-powered agents in Python, leveraging LangGraph for stateful workflows and inter-agent communication.
 
-- **LangGraph Integration**: Utilizes LangGraph’s graph-based execution model to enable dynamic agent collaboration, task delegation, and parallel processing with explicit state management.
+- **Dynamic task allocation**: Supports adaptive agent collaboration via priority-based scheduling, conflict resolution, and real-time state synchronization using a distributed message-passing protocol.
 
-- **Scalable Architecture**: Designed for extensibility, supporting custom agent definitions, tool integration
+- **Extensible tooling**: Provides built-in integrations for common LLM backends (e
 
 ## Use Cases
 

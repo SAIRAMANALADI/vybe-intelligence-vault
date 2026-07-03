@@ -34,7 +34,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face model: cross-encoder/ms-marco-MiniLM-L6-v2 (Likes: 270, Downloads: 80594295)
+Trending Hugging Face model: cross-encoder/ms-marco-MiniLM-L6-v2 (Likes: 270, Downloads: 80360315)
 
 ## Use Cases
 

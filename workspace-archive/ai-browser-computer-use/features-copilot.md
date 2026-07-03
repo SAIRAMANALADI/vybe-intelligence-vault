@@ -8,7 +8,7 @@ local_vault_path: ai/agents/features-copilot.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -16,6 +16,7 @@ tags:
 - frontend_ui
 - hackernews
 - openai
+- scripts
 - web-crawled
 - workflows
 - youtube
@@ -29,15 +30,15 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: mcp-server
+- Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Multi-agent orchestration**: GitHub Copilot CLI enables parallelized subagent execution via `/fleet`, allowing concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching and result convergence.
+- **Multi-Agent Parallel Execution**: Copilot CLI supports `/fleet` for parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI), enabling concurrent task processing with `/model` switching and convergence on decision-ready results.
 
-- **Native GitHub integration**: Built on GitHub’s Model Context Protocol (MCP), it directly interacts with issues, PRs, branches, and labels, inheriting organization policies (branch protections, governance) while supporting `/plan` to PR workflows wi
+- **GitHub-Native MCP Integration**: Built on GitHub’s Model Context Protocol (MCP), CLI interacts natively with issues, PRs, branches, and labels, inheriting org policies (branch protections, governance) while maintaining explicit us
 
 ## Use Cases
 

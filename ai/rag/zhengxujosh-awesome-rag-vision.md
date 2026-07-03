@@ -4,23 +4,22 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-07-03T03:52:05.156602+05:30'
-published_at: '2026-06-29T08:53:18Z'
+collected_at: '2026-07-03T15:08:31.781448+05:30'
+published_at: '2026-07-03T02:13:34Z'
 tags:
 - github-repo
-- hackernews
 - rag
 - unknown
-stars: 337
+stars: 338
 language: Unknown
 status: active
 archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-07-03T03:52:05.156602+05:30'
-last_seen: '2026-07-03T03:52:05.156602+05:30'
-last_checked: '2026-07-03T03:52:05.156602+05:30'
+first_seen: '2026-07-03T15:08:31.781448+05:30'
+last_seen: '2026-07-03T15:08:31.781448+05:30'
+last_checked: '2026-07-03T15:08:31.781448+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A structured collection of advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, including state-of-the-art methods and frameworks.
-- **Scope**: Encompasses **multimodal RAG** approaches, integrating vision-language models (VLMs), cross-modal retrieval, and domain-specific adaptations for CV tasks (e.g., image captioning, visual question answering).
-- **Dynamic Updates**: Actively maintained repository with the latest advancements, last updated **June 29, 2026**, featuring contributions from the research community.
+*   Curated repository indexing advanced Retrieval Augmented Generation (RAG) methodologies specifically for Computer Vision (CV) applications.
+*   Focuses on the intersection of generative models, external knowledge retrieval, and visual data processing.
+*   Serves as a resource for state-of-the
 
 ## Why It Matters
 
@@ -39,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: zhengxuJosh
-- Stars: 337
+- Stars: 338
 - Forks: 9
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-06-29T08:53:18Z
+- Last Updated: 2026-07-03T02:13:34Z
 - Archived: No
 - Created At: 2024-11-21T07:35:07Z
 - Pushed At: 2026-01-25T12:29:49Z

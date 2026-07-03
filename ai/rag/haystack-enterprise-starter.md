@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.deepset.ai/products-and-services/haystack-enterprise
-published_at: '2026-07-02T20:08:11.691409+05:30'
-collected_at: '2026-07-02T20:08:11.691425+05:30'
+published_at: '2026-07-03T15:12:25.224572+05:30'
+collected_at: '2026-07-03T15:12:25.224585+05:30'
 tags:
 - agents
 - benchmark
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:haystack-enterprise-starter
-first_seen: '2026-07-02T20:08:11.691425+05:30'
-last_seen: '2026-07-02T20:08:11.691425+05:30'
-last_checked: '2026-07-02T20:08:11.691425+05:30'
+first_seen: '2026-07-03T15:12:25.224585+05:30'
+last_seen: '2026-07-03T15:12:25.224585+05:30'
+last_checked: '2026-07-03T15:12:25.224585+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Framework**: Open-source Python framework for building production-ready LLM applications with modular pipelines for document retrieval, processing, and querying.
+- **Haystack Framework**: Open-source Python framework for building production-ready LLM applications, enabling modular pipelines for document retrieval, processing, and generation with support for vector databases, BM25, and transformer models.
 
-- **Enterprise Support Offerings**: Priority support, expert consultation, and pre-built templates for Haystack implementations, accelerating AI deployment in production environments.
+- **Enterprise Offerings**: Provides three tiers of enterprise support (Starter, Platform, Platform Trial) with priority support, expert consultation, and pre-built templates for scalable Haystack deployments in production environments.
 
-- **Industry Solutions**: Tailored implementations for sectors including government, finance, legal, healthcare, and manufacturing, leveraging RAG, IDP, and enterprise search technologies.
+- **Industry Solutions**: Targets sectors (e.g., government, finance, legal, healthcare) with specialized applications including AI agents, RAG pipelines, intelligent document processing (IDP), and enterprise search via modular, customizable components.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T20:08:11.691409+05:30
+- Published: 2026-07-03T15:12:25.224572+05:30
 
 ## Related Tags
 

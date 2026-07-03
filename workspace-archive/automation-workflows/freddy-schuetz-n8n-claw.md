@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **OpenClaw-inspired AI Agent Framework**: Autonomous agent system built entirely in n8n, featuring adaptive RAG-powered memory, MCP-based Skills integration, and Expert Agents with delegated sub-agents for hierarchical task execution.
+- **Autonomous AI Agent Framework**: OpenClaw-inspired system built entirely in n8n, featuring adaptive RAG-powered memory, MCP-based Skills templates, and Expert Agents with delegated sub-agents for hierarchical task execution.
 
-- **Proactive Task & Media Management**: Supports proactive task orchestration, media understanding capabilities, and self-hosted deployment via a single setup script, leveraging Supabase for backend storage.
+- **Proactive Task & Media Management**: Supports proactive task orchestration, media understanding capabilities, and self-hosted deployment via a single setup script, leveraging Supabase for storage.
 
-- **Modular & Extensible**: Integrates with SearXNG
+- **Integration Stack**: Combines Crawl4AI for scraping, SearXNG for
 
 ## Use Cases
 

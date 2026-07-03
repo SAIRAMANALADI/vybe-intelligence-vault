@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated ADK Resources**: Repository offering templates, best practices, and production-ready examples for AI agents built with Google's Agent Development Kit (ADK), covering research, business, automation, and education use cases.
-
-- **Multi-Platform Support**: Includes ADK-Python, ADK-Web, and multi-agent system examples, with integration for Gemini AI and Google ADK frameworks.
-
-- **Technical Metadata**: 328 stars, 46 forks, Python-based, last updated July 2, 2026, with topics including ag
+- **Repository Overview**: Curated collection of AI agents built with Google's Agent Development Kit (ADK), featuring templates, best practices, and production-ready examples across research, business, automation, and education.
+- **Technical Stack**: Primarily Python-based, supporting ADK-Python and ADK-Web, with integration for Gemini AI and multi-agent systems.
+- **Metadata**: 328 stars, 47 forks, last updated July 2, 2026; includes topics like agentic AI, agent-samples, and Google ADK.
 
 ## Use Cases
 

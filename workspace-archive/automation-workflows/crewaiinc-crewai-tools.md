@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Python-based toolkit** for extending CrewAI agent capabilities, enabling integration of custom tools and functionalities.
-- **Repository structure** includes modular components for tool registration, execution, and lifecycle management within CrewAI workflows.
-- **Supports dynamic tool invocation**, error handling, and metadata-driven tool discovery for AI agents.
+- **Purpose**: Extends CrewAI agent capabilities via modular Python tools for enhanced AI agent functionality.
+- **Features**: Provides reusable, customizable tools for agents to interact with external systems or perform specialized tasks.
+- **Integration**: Designed for seamless compatibility with CrewAI agents, enabling rapid deployment of AI-driven workflows.
 
 ## Use Cases
 

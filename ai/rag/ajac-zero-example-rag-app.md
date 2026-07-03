@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ajac-zero/example-rag-app
-collected_at: '2026-07-03T03:51:45.115676+05:30'
+collected_at: '2026-07-03T15:08:11.759228+05:30'
 published_at: '2026-03-17T09:29:28Z'
 tags:
-- anthropic
 - github-repo
-- openai
 - rag
 - typescript
+- workflows
 stars: 159
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-02-18T16:15:24Z'
 pushed_at: '2026-01-15T20:18:12Z'
 resource_id: github:ajac-zero/example-rag-app
-first_seen: '2026-07-03T03:51:45.115676+05:30'
-last_seen: '2026-07-03T03:51:45.115676+05:30'
-last_checked: '2026-07-03T03:51:45.115676+05:30'
+first_seen: '2026-07-03T15:08:11.759228+05:30'
+last_seen: '2026-07-03T15:08:11.759228+05:30'
+last_checked: '2026-07-03T15:08:11.759228+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Leverages LiteLLM to support 100+ LLM providers with unified API compatibility, enabling seamless switching between models (e.g., OpenAI, Anthropic, Hugging Face) via environment variables.
+- **Observability & LLM Integration**: Implements Langfuse for LLM observability with support for 100+ providers via LiteLLM, enabling comprehensive monitoring and logging of RAG pipeline interactions.
 
-- **Observability & Monitoring**: Embeds Langfuse for comprehensive LLM observability, tracking token usage, latency, and model performance metrics in real-time with full traceability of RAG pipeline interactions.
+- **Development Rigor**: Fully Dockerized with TypeScript, enforces strict type-checking, and achieves 100% test coverage for robust, scalable deployment.
 
-- **Production-Grade Tooling**: Dockerized deployment with TypeScript strict typing, 100% test coverage, and CI/CD-ready structure; includes pre-configured observability dashboards and modular RAG components for extensibility.
+- **Modern AI Stack**: Designed for Retrieval-Augmented Generation (RAG) workflows, optimized for AI/ML applications with modular architecture and provider-agnostic LLM support.
 
 ## Why It Matters
 

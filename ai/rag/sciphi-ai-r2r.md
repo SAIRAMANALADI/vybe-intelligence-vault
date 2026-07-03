@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SciPhi-AI/R2R
-collected_at: '2026-07-03T03:52:35.232066+05:30'
-published_at: '2026-07-02T16:19:42Z'
+collected_at: '2026-07-03T15:09:01.833160+05:30'
+published_at: '2026-07-03T03:58:35Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-stars: 7913
+stars: 7914
 language: Python
 status: active
 license: MIT
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-02-12T03:24:27Z'
 pushed_at: '2025-11-07T01:02:44Z'
 resource_id: github:sciphi-ai/r2r
-first_seen: '2026-07-03T03:52:35.232066+05:30'
-last_seen: '2026-07-03T03:52:35.232066+05:30'
-last_checked: '2026-07-03T03:52:35.232066+05:30'
+first_seen: '2026-07-03T15:09:01.833160+05:30'
+last_seen: '2026-07-03T15:09:01.833160+05:30'
+last_checked: '2026-07-03T15:09:01.833160+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Framework**: Production-ready Python-based system implementing retrieval-augmented generation (RAG) with agentic capabilities, enabling dynamic interaction between retrieval and generation components for enhanced Q&A and search tasks.
+- **Agentic RAG System**: Implements an agentic Retrieval-Augmented Generation (RAG) architecture with a RESTful API for production-grade AI retrieval, enabling dynamic interaction between retrieval and generation components.
 
-- **RESTful API Integration**: Exposes a scalable, production-grade API for seamless integration with downstream applications, facilitating standardized access to retrieval and generation functionalities.
+- **Python-Based Framework**: Built in Python, leveraging large language models (LLMs) for question-answering, retrieval systems, and search functionalities with modular components for extensibility.
 
-- **State-of-the-Art Retrieval**: Incorporates advanced retrieval mechanisms optimized for large language models (LLMs), supporting efficient document indexing, querying, and hybrid search strategies for high-performance AI-driven retrieval systems.
+- **State-of-the-Art (SoTA) Features**: Supports advanced retrieval techniques, vector search, and hybrid query processing, optimized for high-performance AI-driven knowledge retrieval and real-time updates.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: SciPhi-AI
-- Stars: 7913
+- Stars: 7914
 - Forks: 641
 - Language: Python
 - Topics: artificial-intelligence, large-language-models, python, question-answering, rag, retrieval-augmented-generation, retrieval-systems, search
-- Last Updated: 2026-07-02T16:19:42Z
+- Last Updated: 2026-07-03T03:58:35Z
 - License: MIT
 - Archived: No
 - Created At: 2024-02-12T03:24:27Z

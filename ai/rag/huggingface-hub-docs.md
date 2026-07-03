@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/huggingface/hub-docs/blob/main/docs/hub/spaces.md
-published_at: '2026-07-03T03:56:22.462353+05:30'
-collected_at: '2026-07-03T03:56:22.462368+05:30'
+published_at: '2026-07-03T15:16:18.631756+05:30'
+collected_at: '2026-07-03T15:16:18.631768+05:30'
 tags:
 - creative_dev
 - rag
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:huggingface/hub-docs
-first_seen: '2026-07-03T03:56:22.462368+05:30'
-last_seen: '2026-07-03T03:56:22.462368+05:30'
-last_checked: '2026-07-03T03:56:22.462368+05:30'
+first_seen: '2026-07-03T15:16:18.631768+05:30'
+last_seen: '2026-07-03T15:16:18.631768+05:30'
+last_checked: '2026-07-03T15:16:18.631768+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo app hosting on user/organization profiles with support for Gradio SDK, arbitrary Dockerfiles, and static JS/HTML deployments, including GPU/accelerated hardware upgrades.
+- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with support for Gradio SDK, arbitrary Dockerfiles, and static HTML/JS apps, with optional GPU/accelerated hardware upgrades.
 
-- **SDK & Customization**: Built-in Gradio integration allows rapid Python app development; Docker Spaces enable full environment control; static HTML/JS Spaces support frontend-only deployments.
+- **Integration & Customization**: Supports dependency management, OpenCV integration, GitHub Actions for CI/CD, and embedding Spaces; also allows adding Spaces to ArXiv and customizing organization cards.
 
-- **Advanced Features**: Supports GPU acceleration, disk/storage management, GitHub Actions integration, and embedding; includes detailed configuration references and changelog for version tracking.
+- **Advanced Features**: Provides dev mode, disk/storage monitoring, multiple SDKs (Gradio, Docker, static HTML, custom Python), and config reference; contact via forum, email, or Twitter for support.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T03:56:22.462353+05:30
+- Published: 2026-07-03T15:16:18.631756+05:30
 
 ## Related Tags
 

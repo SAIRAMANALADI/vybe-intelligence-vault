@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Gemini API Integration**: Enables developers to integrate cutting-edge AI models (Gemini, Imagen, Veo) via API keys for app development, with support for multimodal inputs and outputs.
-- **On-Device AI with Google AI Edge**: Supports deployment of lightweight, customizable AI models (e.g., Gemma, Gemini Nano) across mobile, web, and embedded systems for low-latency, privacy-preserving applications.
-- **Responsible AI Toolkit**: Provides frameworks (e.g., Secure AI Framework (SAIF), Responsib
+- **Gemini API Integration**: Provides access to cutting-edge AI models (Gemini, Imagen, Veo) via API for app integration, with tools for prompt engineering and code generation in Google AI Studio.
+- **On-Device & Edge AI**: Supports deployment of lightweight models (e.g., **Gemini Nano**) on-device (Android, Chrome) for low-latency, privacy-preserving generative AI without cloud dependency.
+- **Responsible AI Framework**: Offers **Secure AI Framework (SAIF)** and **Responsible GenAI Toolkit** f
 
 ## Use Cases
 

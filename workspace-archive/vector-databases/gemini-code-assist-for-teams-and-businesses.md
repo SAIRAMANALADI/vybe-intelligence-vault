@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Gemini Code Assist** leverages **Gemini 3** (1M token context window) for secure generative AI coding assistance, supporting **multi-file edits, project context, and MCP tool integrations** in agent mode for full SDLC task automation.
+- **Model & Context**: Leverages **Gemini 3** (preview) with **1M token context window**, fine-tuned on open-source code, security data, and Google Cloud docs for code completion, generation, and chat in IDEs/cloud services.
 
-- **IDE & CLI Integration**: Provides **inline code completion, natural language chat, and smart actions** across VS Code, JetBrains IDEs, Cloud Workstations, and CLI (Gemini CLI), with **local codebase awareness** for context-aware suggestions.
+- **Agentic & CLI Capabilities**: Supports **agent mode** (preview) for multi-file edits, project context, and MCP tool integration; **Gemini CLI** (open-source) enables terminal-based AI-driven coding, command execution, and dynamic troubleshooting.
 
-- **Enterpris
+- **Enterprise Feature
 
 ## Use Cases
 

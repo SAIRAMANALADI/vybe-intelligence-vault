@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Java-based PDF parser** designed for AI-ready data extraction, supporting accessibility compliance (PDF/UA, WCAG) via OCR, bounding box detection, and tagged PDF processing.
-- **Multi-format output** (HTML, JSON, Markdown) with table extraction, OCR recognition, and document structure preservation for RAG pipelines.
-- **Open-source tool** automating PDF accessibility remediation, including text extraction, layout analysis, and conversion for downstream AI/ML applications.
+- **Java-based PDF parser** designed for AI-ready data extraction, supporting accessibility standards (PDF/UA, WCAG) and automated tagging for OCR-enabled documents.
+- **Multi-format output** with support for HTML, JSON, Markdown, and bounding box annotations, enabling structured data extraction for RAG pipelines and table parsing.
+- **Open-source toolkit** with features for tagged PDF processing, accessibility compliance (a11y, EAA), and conversion to machine-readable formats for AI/ML applicat
 
 ## Use Cases
 

@@ -4,17 +4,16 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://langchain-ai.github.io/langgraph/
-published_at: '2026-06-30T22:51:14.141251+05:30'
-collected_at: '2026-06-30T22:51:14.141265+05:30'
+published_at: '2026-07-03T15:11:47.217245+05:30'
+collected_at: '2026-07-03T15:11:47.217253+05:30'
 tags:
 - agents
-- hackernews
 - web-crawled
 status: active
 resource_id: blog:redirecting-to-langgraph-documentation
-first_seen: '2026-06-30T22:51:14.141265+05:30'
-last_seen: '2026-06-30T22:51:14.141265+05:30'
-last_checked: '2026-06-30T22:51:14.141265+05:30'
+first_seen: '2026-07-03T15:11:47.217253+05:30'
+last_seen: '2026-07-03T15:11:47.217253+05:30'
+last_checked: '2026-07-03T15:11:47.217253+05:30'
 health_score: 100
 ---
 
@@ -22,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Documentation Relocation**: LangGraph documentation has been moved to [docs.langchain.com](https://docs.langchain.com/oss/python/langgraph/overview).
-- **Redirect Mechanism**: Users are automatically redirected to the new documentation site.
-- **No Content Changes**: The relocation does not affect the technical content or structure of the documentation.
+- LangGraph documentation relocated to [docs.langchain.com](https://docs.langchain.com/oss/python/langgraph/overview)
+- New URL replaces prior hosting location for LangGraph resources
+- Redirect mechanism active to guide users to updated documentation site
 
 ## Why It Matters
 
@@ -34,12 +33,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-30T22:51:14.141251+05:30
+- Published: 2026-07-03T15:11:47.217245+05:30
 
 ## Related Tags
 
 - agents
-- hackernews
 - web-crawled
 
 ## Source

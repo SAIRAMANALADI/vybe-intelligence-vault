@@ -6,10 +6,10 @@ source_url: https://github.com/run-llama/LlamaIndexTS
 resource_id: github:run-llama/llamaindexts
 local_vault_path: ai/rag/run-llama-llamaindexts.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
 - anthropic
@@ -20,7 +20,6 @@ tags:
 - openai
 - rag
 - typescript
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -31,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **TypeScript-based LLM Data Framework**: LlamaIndexTS is a server-side data framework designed for LLM applications, enabling structured data integration and retrieval for TypeScript/JavaScript environments.
+- **TypeScript-based LLM Data Framework**: LlamaIndexTS is a server-side data framework designed for LLM applications, enabling efficient data ingestion, indexing, and retrieval for TypeScript/JavaScript environments.
 
-- **Core Features**: Supports embeddings, vector stores, and agentic workflows; integrates with LLM providers (OpenAI, Groq, Llama3) and frameworks (React, Node.js).
+- **Modular Architecture**: Supports integrations with major LLM providers (OpenAI, Groq, Llama3) and frameworks (React, Node.js), with built-in support for embeddings, agents, and chatbot pipelines.
 
-- **Ecosystem & Tooling**: Part of the LlamaIndex ecosystem (`create-llama`); optimized for Claude AI and modern JS/TS too
+- **Active Development**: Last updated in July 2026, the repository (3,078 stars
 
 ## Use Cases
 

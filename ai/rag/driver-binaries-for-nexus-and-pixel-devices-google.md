@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/android/drivers/
-published_at: '2026-07-02T20:12:02.528374+05:30'
-collected_at: '2026-07-02T20:12:02.528394+05:30'
+published_at: '2026-07-03T15:16:13.949514+05:30'
+collected_at: '2026-07-03T15:16:13.949529+05:30'
 tags:
 - hackernews
 - producthunt
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:driver-binaries-for-nexus-and-pixel-devices-google
-first_seen: '2026-07-02T20:12:02.528394+05:30'
-last_seen: '2026-07-02T20:12:02.528394+05:30'
-last_checked: '2026-07-02T20:12:02.528394+05:30'
+first_seen: '2026-07-03T15:16:13.949529+05:30'
+last_seen: '2026-07-03T15:16:13.949529+05:30'
+last_checked: '2026-07-03T15:16:13.949529+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,9 @@ health_score: 100
 
 ## Summary
 
-- Provides **vendor binary images** for Nexus/Pixel devices (Android 10–15), including Pixel 9a, Pixel 9 Pro Fold ("comet"), and Pixel 9 Pro ("caiman"), with SHA-256 checksums for integrity verification.
-
-- Binaries are **Google-hosted**, licensed for personal use only, and include hardware support from vendors like Qualcomm, Broadcom, and Samsung for older models.
-
-- Downloads are versioned by Android build (e.g., `BD4A.240925.111`, `AP4A.241205.013`) and device codename, with direct `.tgz` links for vendor images.
+- **Binary Hardware Support Files**: Google provides proprietary vendor binaries for Nexus and Pixel devices (Android 10–15), including components from Qualcomm, Broadcom, LG, ASUS, NVIDIA, Imagination Technologies, and Samsung.
+- **Licensing & Usage Restrictions**: Files are for personal use only; redistribution or unauthorized use violates included license terms.
+- **Download & Integrity Verification**: Each vendor image includes SHA-256 checksums for integrity validation (e.g., Pixel 9a/9 Pro Fold binaries for Android 15.0.0).
 
 ## Why It Matters
 
@@ -39,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T20:12:02.528374+05:30
+- Published: 2026-07-03T15:16:13.949514+05:30
 
 ## Related Tags
 

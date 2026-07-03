@@ -8,7 +8,7 @@ local_vault_path: ai/rag/xmudeeplit-memgraphrag.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # XMUDeepLIT/MemGraphRAG
@@ -26,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging agent-memory interactions for enhanced knowledge retrieval and generation.
+- **Memory-based Multi-Agent System**: Introduces a novel **KDD 2026** framework where multiple agents collaboratively construct and query **graph-based memory structures** for enhanced retrieval-augmented generation (RAG), leveraging agent-specific memory for dynamic knowledge integration.
 
-- **Graph & Ontology Construction**: Dynamically constructs knowledge graphs and ontologies to structure and contextualize information, improving retrieval precision and semantic understanding in RAG pipelines.
-
-- **Python-Based Implementation**: Developed in Python, utilizing libra
+- **Graph Construction & Ontology Integration**: Implements an **ontology-driven graph construction** pipeline to model relationships between entities, enabling efficient subgraph retrieval and structured re
 
 ## Use Cases
 

@@ -14,7 +14,6 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Neo4j Core Engine**: Open-source graph database (Java-based) with 16.8k stars, supporting ACID transactions, Cypher query language, and native graph storage.
+- **Neo4j Core Engine**: Open-source graph database implemented in Java (`neo4j/neo4j`), supporting ACID transactions, Cypher query language, and native graph storage with 16.8k+ GitHub stars.
 
-- **Multi-Language Drivers**: Official Bolt protocol drivers for Java (342 stars), JavaScript (915 stars), Python (1k stars), .NET (246 stars), and Rust extensions for Python performance optimization.
+- **Multi-Language Bolt Drivers**: Official drivers for JavaScript, Python, Java, and Scala enabling Bolt protocol communication with Neo4j, with active maintenance (e.g., `neo4j-javascript-driver` at 915 stars).
 
-- **Graph Ecosystem Tools**: Graph Data Science library (803 stars), APOC procedures (210 stars), and Spark connector (320 stars) for d
+- **Graph Data Science & Extensions**: `graph-data-science` library (803 stars) provides gra
 
 ## Use Cases
 

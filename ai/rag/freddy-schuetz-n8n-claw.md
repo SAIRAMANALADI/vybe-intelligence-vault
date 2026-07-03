@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-07-02T09:57:10.007787+05:30'
+collected_at: '2026-07-03T15:10:46.912841+05:30'
 published_at: '2026-07-01T20:31:47Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-01T20:31:41Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-07-02T09:57:10.007787+05:30'
-last_seen: '2026-07-02T09:57:10.007787+05:30'
-last_checked: '2026-07-02T09:57:10.007787+05:30'
+first_seen: '2026-07-03T15:10:46.912841+05:30'
+last_seen: '2026-07-03T15:10:46.912841+05:30'
+last_checked: '2026-07-03T15:10:46.912841+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **OpenClaw-inspired AI Agent Framework**: Autonomous agent system built entirely in n8n, featuring adaptive RAG-powered memory, MCP-based Skills integration, and Expert Agents with delegated sub-agents for hierarchical task execution.
+- **Autonomous AI Agent Framework**: OpenClaw-inspired system built entirely in n8n, featuring adaptive RAG-powered memory, MCP-based Skills templates, and Expert Agents with delegated sub-agents for hierarchical task execution.
 
-- **Proactive Task & Media Management**: Supports proactive task orchestration, media understanding capabilities, and self-hosted deployment via a single setup script, leveraging Supabase for backend storage.
+- **Proactive Task & Media Management**: Supports proactive task orchestration, media understanding capabilities, and self-hosted deployment via a single setup script, leveraging Supabase for storage.
 
-- **Modular & Extensible**: Integrates with SearXNG for search, Crawl4AI for scraping, and MCP templates for skill expansion, enabling a self-hosted, scalable AI agent framework.
+- **Integration Stack**: Combines Crawl4AI for scraping, SearXNG for search engine functionality, and MCP for modular skill development, with all components orchestrated through n8n.
 
 ## Why It Matters
 

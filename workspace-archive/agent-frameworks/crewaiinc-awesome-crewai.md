@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - unknown
 selection_reason:
 - Strong keyword match
@@ -34,8 +33,8 @@ selection_reason:
 ## Summary
 
 - **Curated Open-Source Projects**: Repository aggregates community-built AI agent projects using CrewAI, facilitating discovery and contribution.
-- **Technical Resource Hub**: Enables extension of AI agent capabilities through modular, open-source implementations shared by the CrewAI community.
-- **Metadata**: 498 stars, 126 forks, last updated 2026-06-29T16:41:25Z (language unspecified).
+- **Metadata**: 500 stars, 127 forks, last updated July 2, 2026; language and topics unspecified.
+- **Purpose**: Enables extension of CrewAI’s AI agent capabilities through collaborative open-source development.
 
 ## Use Cases
 

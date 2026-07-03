@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-07-02T09:57:55.169446+05:30'
+collected_at: '2026-07-03T15:11:32.087903+05:30'
 published_at: '2026-06-07T13:03:16Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-07-02T09:57:55.169446+05:30'
-last_seen: '2026-07-02T09:57:55.169446+05:30'
-last_checked: '2026-07-02T09:57:55.169446+05:30'
+first_seen: '2026-07-03T15:11:32.087903+05:30'
+last_seen: '2026-07-03T15:11:32.087903+05:30'
+last_checked: '2026-07-03T15:11:32.087903+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a collaborative framework using frameworks like CrewAI, AutoGen, and LangChain to distribute document processing tasks among specialized AI agents (e.g., retrieval, analysis, synthesis).
+- **Multi-Agent RAG Framework**: Implements a collaborative system of AI agents (e.g., CrewAI, AutoGen) for document processing, analysis, and insight generation using retrieval-augmented generation (RAG) with vector databases (ChromaDB, Pinecone, Weaviate).
 
-- **RAG Pipeline Integration**: Supports retrieval-augmented generation (RAG) with vector databases (ChromaDB, Pinecone, Weaviate) and LLM backends (OpenAI GPT-3.5/4/5, Anthropic) for dynamic document querying and insight extraction.
+- **Integration Stack**: Supports OpenAI (GPT-3.5/4/5), Anthropic, LangChain, and Discord for agent orchestration, retrieval, and real-time interaction.
 
-- **Scalability & Extensibility**: Designed for modularity, enabling integration with Discord for real-time collaboration, and supports swarm-based multi-agent orchestration for large-scale document analysis workflows.
+- **Deployment & Extensibility**: Template includes modular agent roles, RAG pipelines, and is optimized for Python with last update in 2026, enabling customization for swarm-based workflows.
 
 ## Why It Matters
 

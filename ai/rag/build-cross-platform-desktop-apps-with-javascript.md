@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://electronjs.org/
-published_at: '2026-07-01T23:04:10.759481+05:30'
-collected_at: '2026-07-01T23:04:10.759495+05:30'
+published_at: '2026-07-03T15:13:22.820782+05:30'
+collected_at: '2026-07-03T15:13:22.820794+05:30'
 tags:
 - anthropic
 - frontend_ui
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:build-cross-platform-desktop-apps-with-javascript
-first_seen: '2026-07-01T23:04:10.759495+05:30'
-last_seen: '2026-07-01T23:04:10.759495+05:30'
-last_checked: '2026-07-01T23:04:10.759495+05:30'
+first_seen: '2026-07-03T15:13:22.820794+05:30'
+last_seen: '2026-07-03T15:13:22.820794+05:30'
+last_checked: '2026-07-03T15:13:22.820794+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Runtime Architecture**: Electron combines Chromium's rendering engine with Node.js, enabling cross-platform desktop apps using JavaScript, HTML, and CSS while supporting native OS APIs via the main process.
+- **Runtime Architecture**: Electron combines Chromium's rendering engine with Node.js, enabling cross-platform desktop apps using JavaScript/TypeScript while maintaining native OS integration via main process APIs.
 
-- **Security & Maintenance**: Releases sync with Chromium updates for immediate security patches, and the autoUpdater module enables seamless cross-platform software distribution with Squirrel.
+- **Security & Maintenance**: Releases synchronize with Chromium updates for immediate security patches, and the `crashReporter` module enables automated crash data collection for debugging.
 
-- **Tooling & Ecosystem**: Electron Forge provides a modular build/publish pipeline, while Electron Fiddle offers an experimental sandbox for rapid prototyping with framework-agnostic frontend integration (React, Vue, Angular, etc.).
+- **Tooling & Ecosystem**: Electron Forge provides a standardized build/publish pipeline, while integration with npm packages (e.g., React, Vue, TypeScript) and platform-specific installers (DMG/MSI/RPM) streamlines distribution.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T23:04:10.759481+05:30
+- Published: 2026-07-03T15:13:22.820782+05:30
 
 ## Related Tags
 

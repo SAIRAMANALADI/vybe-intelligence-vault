@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-03T03:51:35.131295+05:30'
+collected_at: '2026-07-03T15:08:01.793380+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-03T03:51:35.131295+05:30'
-last_seen: '2026-07-03T03:51:35.131295+05:30'
-last_checked: '2026-07-03T03:51:35.131295+05:30'
+first_seen: '2026-07-03T15:08:01.793380+05:30'
+last_seen: '2026-07-03T15:08:01.793380+05:30'
+last_checked: '2026-07-03T15:08:01.793380+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Python-based Jupyter Notebook application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of retrieval and generation processes.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of RAG workflows and components.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based visualization, allowing users to inspect RAG components (e.g., embeddings, retrieval results, LLM outputs) in real-time with minimal setup.
+- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly interface, allowing dynamic visualization of RAG processes (e.g., retrieval, generation) with real-time updates and customizable parameters.
 
-- **Modular Design**: Supports custom RAG configurations (e.g., vector stores, LLMs) via Python notebooks, with extensible visualization features for debugging and optimizing RAG workflows.
+- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting integration with LLM frameworks and enabling custom RAG pipeline analysis via Jupyter Notebooks.
 
 ## Why It Matters
 

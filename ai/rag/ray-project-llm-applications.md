@@ -4,17 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-07-03T03:52:35.198193+05:30'
+collected_at: '2026-07-03T15:09:01.822722+05:30'
 published_at: '2026-06-30T16:44:21Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
 - openai
 - rag
+- workflows
 stars: 1857
 language: Jupyter Notebook
 status: active
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-07-03T03:52:35.198193+05:30'
-last_seen: '2026-07-03T03:52:35.198193+05:30'
-last_checked: '2026-07-03T03:52:35.198193+05:30'
+first_seen: '2026-07-03T15:09:01.822722+05:30'
+last_seen: '2026-07-03T15:09:01.822722+05:30'
+last_checked: '2026-07-03T15:09:01.822722+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Implementation**: Provides production-ready techniques for Retrieval-Augmented Generation (RAG) using Ray, integrating vector databases (e.g., FAISS, Weaviate) with LLMs (e.g., Llama2, OpenAI) for scalable inference and fine-tuning.
-- **Hybrid Serving Architecture**: Demonstrates a distributed serving framework leveraging Ray Serve for low-latency LLM inference, combining custom fine-tuned models with external APIs (e.g., Anyscale, OpenAI) for dynamic workload handling.
-- **Benchmarking & Optimization**: Includes Jupyter notebooks for evaluating RAG performance metrics (e.g., retrieval accuracy, latency) and optimizing throughput via Ray’s parallelization, batching, and resource allocation strategies.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows leveraging Ray for distributed serving, with examples integrating Llama2 and OpenAI models.
+- **Fine-Tuning & Optimization**: Provides notebooks for fine-tuning LLMs (e.g., Llama2) and optimizing inference via Ray’s scalable serving infrastructure.
+- **Tooling & Deployment**: Includes end-to-end guides for deploying RAG applications using Anyscale, Ray Serve, and other MLops tools for scalable production environments.
 
 ## Why It Matters
 

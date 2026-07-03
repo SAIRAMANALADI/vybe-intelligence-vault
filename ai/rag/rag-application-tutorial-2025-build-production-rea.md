@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-07-02T20:01:00.381586+05:30'
-collected_at: '2026-07-02T20:01:00.381597+05:30'
+published_at: '2026-07-03T15:07:32.955981+05:30'
+collected_at: '2026-07-03T15:07:32.955994+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-07-02T20:01:00.381597+05:30'
-last_seen: '2026-07-02T20:01:00.381597+05:30'
-last_checked: '2026-07-02T20:01:00.381597+05:30'
+first_seen: '2026-07-03T15:07:32.955994+05:30'
+last_seen: '2026-07-03T15:07:32.955994+05:30'
+last_checked: '2026-07-03T15:07:32.955994+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings via vector DB like Supabase) and generation (LLMs) with chunking strategies (e.g., semantic splitting) and embedding optimization (e.g., fine-tuned models) for contextual augmentation.
+- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings + vector DB) and generation (LLM) to enhance factual accuracy; LangChain simplifies pipeline implementation.
 
-- **Production Optimizations**: Implements hybrid search (dense + sparse retrieval), query rewriting, caching layers, load balancing (multi-model inference), and deployment via Cloudflare Workers for low-latency scaling.
+- **Production Optimizations**: Chunking strategies (semantic/recursive), embedding optimization (model selection, dimensionality reduction), and hybrid retrieval (dense + sparse) improve latency and relevance.
 
-- **Monitoring & Cost Control**: Integrates Sentry for observability, tracks token usage/latency benchmarks, and enforces cost-performance trade-offs via streaming responses and selective retrieval (e.g., top-k filtering).
+- **Scalability & Monitoring**: Caching (Redis), load balancing (multiple LLM instances), and observability (Sentry, latency metrics) ensure high availability and performance in cloud deployments (e.g., Cloudflare Workers).
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T20:01:00.381586+05:30
+- Published: 2026-07-03T15:07:32.955981+05:30
 
 ## Related Tags
 

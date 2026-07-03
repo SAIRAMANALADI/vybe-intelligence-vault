@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-03T03:51:15.140755+05:30'
+collected_at: '2026-07-03T15:07:41.729508+05:30'
 published_at: '2026-06-30T08:00:12Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -24,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-03T03:51:15.140755+05:30'
-last_seen: '2026-07-03T03:51:15.140755+05:30'
-last_checked: '2026-07-03T03:51:15.140755+05:30'
+first_seen: '2026-07-03T15:07:41.729508+05:30'
+last_seen: '2026-07-03T15:07:41.729508+05:30'
+last_checked: '2026-07-03T15:07:41.729508+05:30'
 health_score: 100
 ---
 
@@ -34,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI using vector search, LLMs (e.g., GPT-4-Vision), and embeddings.
-- **Integration Frameworks**: Demonstrates workflows with LangChain, LlamaIndex, and OpenAI APIs for fine-tuning, agent-based systems, and multimodal pipelines.
-- **Vector Database Focus**: Leverages LanceDB for efficient vector storage and retrieval, covering deep-learning embeddings, fine-tuning techniques, and end-to-end AI agent architectures.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI applications, integrating vector search with LLMs (e.g., GPT-4 Vision) for advanced AI workflows.
+
+- **Vector Database Integration**: Demonstrates practical use of LanceDB (a vector database) with frameworks like LangChain and LlamaIndex for efficient embedding storage, retrieval, and fine-tuning in machine learning pipelines.
+
+- **Agentic & Embedding Workflows**: Includes tutorials on deploying agents, fine-tuning embeddings, and leveraging OpenAI models for tasks spanning deep learning, multimodal processing, and agent-based systems.
 
 ## Why It Matters
 

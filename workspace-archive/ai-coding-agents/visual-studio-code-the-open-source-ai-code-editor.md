@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Component Refactoring**: Extracted `MailListItem` from `MailList.tsx` into a standalone component with typed props (`email`, `isSelected`, `onOpen`), reducing `MailList` complexity from 30 to 6 lines while preserving keyboard navigation, selection state, and accessibility (ARIA roles).
+- **Component Refactoring**: Extracted `MailListItem` into a standalone component with typed props (`email`, `isSelected`, `onOpen`), reducing `MailList.tsx` complexity from 30 to 6 lines while preserving keyboard navigation, selection state, and accessibility (ARIA roles).
 
-- **Batch Processing Optimization**: Implemented `POST /process/batch` in Go with parallel file processing (8 max concurrency), per-request 30s timeout, OpenTelemetry spans, and structured logging, reducing 6
+- **Batch Processing Optimization**: Implemented `POST /process/batch` endpoint in Go with parallel processing (8 concurrent workers), OpenTelemetry spans, and structured logging, reducing 64-image batch processing time from
 
 ## Use Cases
 

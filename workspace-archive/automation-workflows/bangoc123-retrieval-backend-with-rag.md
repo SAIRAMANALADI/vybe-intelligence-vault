@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -37,7 +38,7 @@ selection_reason:
 
 - **Modular Architecture**: Features a structured backend with components for document retrieval, embedding generation (e.g., using `sentence-transformers`), and LLM integration (e.g., `vllm` or `transformers`).
 
-- **Optimized Workflow**: Includes preprocessing (Vietnamese tokenization/normalization), vector storage
+- **Optimized Workflow**: Includes preprocessing (Vietnamese text normalization), vector database integr
 
 ## Use Cases
 

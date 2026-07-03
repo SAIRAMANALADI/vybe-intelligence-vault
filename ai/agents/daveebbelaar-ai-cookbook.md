@@ -4,18 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/daveebbelaar/ai-cookbook
-collected_at: '2026-07-03T03:53:00.274565+05:30'
-published_at: '2026-07-02T17:55:27Z'
+collected_at: '2026-07-03T15:09:26.884657+05:30'
+published_at: '2026-07-03T07:57:34Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - openai
 - python
 - reddit
-- workflows
-stars: 4274
+stars: 4276
 language: Python
 status: active
 license: MIT
@@ -23,9 +21,9 @@ archived: false
 created_at: '2025-01-30T15:14:29Z'
 pushed_at: '2026-05-14T11:46:10Z'
 resource_id: github:daveebbelaar/ai-cookbook
-first_seen: '2026-07-03T03:53:00.274565+05:30'
-last_seen: '2026-07-03T03:53:00.274565+05:30'
-last_checked: '2026-07-03T03:53:00.274565+05:30'
+first_seen: '2026-07-03T15:09:26.884657+05:30'
+last_seen: '2026-07-03T15:09:26.884657+05:30'
+last_checked: '2026-07-03T15:09:26.884657+05:30'
 health_score: 100
 ---
 
@@ -33,11 +31,8 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A Python-based AI cookbook providing practical examples and tutorials for building AI systems, covering topics like agents, LLMs (OpenAI, Anthropic), and AI development workflows.
-
-- **Key Metrics**: 4,274 stars, 1,507 forks, last updated July 2, 2026, with a focus on AI/ML implementation guides and agent-based architectures.
-
-- **Technical Scope**: Demonstrates integration with OpenAI and Anthropic LLMs, emphasizing Python-based AI system development, agent frameworks, and hands-on tutorials.
+*   Python-centric repository providing practical examples for AI system development.
+*   Demonstrates integration
 
 ## Why It Matters
 
@@ -46,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: daveebbelaar
-- Stars: 4274
+- Stars: 4276
 - Forks: 1507
 - Language: Python
 - Topics: agents, ai, anthropic, llm, openai, python
-- Last Updated: 2026-07-02T17:55:27Z
+- Last Updated: 2026-07-03T07:57:34Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-30T15:14:29Z

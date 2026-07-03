@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/FlowiseAI/Flowise
-collected_at: '2026-07-02T20:04:01.048322+05:30'
-published_at: '2026-07-02T13:46:02Z'
+collected_at: '2026-07-03T15:10:36.926833+05:30'
+published_at: '2026-07-03T09:27:24Z'
 tags:
 - agents
 - frontend_ui
@@ -16,7 +16,7 @@ tags:
 - scripts
 - typescript
 - workflows
-stars: 54197
+stars: 54237
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-03-31T12:23:09Z'
 pushed_at: '2026-07-01T09:28:31Z'
 resource_id: github:flowiseai/flowise
-first_seen: '2026-07-02T20:04:01.048322+05:30'
-last_seen: '2026-07-02T20:04:01.048322+05:30'
-last_checked: '2026-07-02T20:04:01.048322+05:30'
+first_seen: '2026-07-03T15:10:36.926833+05:30'
+last_seen: '2026-07-03T15:10:36.926833+05:30'
+last_checked: '2026-07-03T15:10:36.926833+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Visual AI Agent Builder**: Open-source, low/no-code TypeScript framework for constructing AI agents and multi-agent systems with drag-and-drop workflows, leveraging LangChain and React for modular agentic workflows.
+- **Visual AI Agent Builder**: Open-source, low/no-code platform in TypeScript/React for constructing AI agents and workflows, leveraging LangChain and LLMs (e.g., OpenAI) for agentic AI and multi-agent systems.
 
-- **Multi-Model & Tool Integration**: Supports OpenAI, RAG, and custom LLM integrations with built-in connectors for chatbots, APIs, and external tools, enabling dynamic agent-environment interactions.
+- **RAG & Chatbot Integration**: Supports Retrieval-Augmented Generation (RAG) and chatbot development with modular components for document processing, memory, and API integrations.
 
-- **Deployment & Scalability**: Self-hostable (Docker/Node.js) with real-time updates, optimized for scalable agentic workflows, and extensible via JavaScript/TypeScript plugins for enterprise automation.
+- **Workflow Automation**: Enables drag-and-drop visual orchestration of AI workflows, including multi-agent collaboration, with real-time updates and deployment via Docker/Node.js.
 
 ## Why It Matters
 
@@ -47,11 +47,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: FlowiseAI
-- Stars: 54197
-- Forks: 24628
+- Stars: 54237
+- Forks: 24632
 - Language: TypeScript
 - Topics: agentic-ai, agentic-workflow, agents, artificial-intelligence, chatbot, chatgpt, javascript, langchain, large-language-models, low-code, multiagent-systems, no-code, openai, rag, react, typescript, workflow-automation
-- Last Updated: 2026-07-02T13:46:02Z
+- Last Updated: 2026-07-03T09:27:24Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-03-31T12:23:09Z

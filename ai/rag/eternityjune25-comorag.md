@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-03T03:52:40.195875+05:30'
+collected_at: '2026-07-03T15:09:06.817730+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-03T03:52:40.195875+05:30'
-last_seen: '2026-07-03T03:52:40.195875+05:30'
-last_checked: '2026-07-03T03:52:40.195875+05:30'
+first_seen: '2026-07-03T15:09:06.817730+05:30'
+last_seen: '2026-07-03T15:09:06.817730+05:30'
+last_checked: '2026-07-03T15:09:06.817730+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized RAG (Retrieval-Augmented Generation) framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
+- **Cognitive Memory Organization**: Introduces a memory-optimized RAG framework (`ComoRAG`) inspired by human cognitive memory structures, enabling stateful long-form narrative reasoning with structured memory retrieval.
 
-- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended interactions, leveraging episodic and semantic memory layers for enhanced reasoning.
+- **AAAI 2026 Poster**: Presented as a cutting-edge research contribution at AAAI 2026, emphasizing advancements in long-context reasoning via memory-augmented retrieval mechanisms.
 
-- **AAAI 2026 Contribution**: Proposes a novel approach to long-form narrative understanding, validated through empirical benchmarks demonstrating superior performance in stateful reasoning tasks compared to traditional RAG models.
+- **Python Implementation**: Open-source Python repository (`ComoRAG`) with 339 stars, featuring memory-organized retrieval for scalable, stateful reasoning in long narratives.
 
 ## Why It Matters
 

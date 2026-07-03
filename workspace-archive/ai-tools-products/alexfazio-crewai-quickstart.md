@@ -13,9 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
-- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -35,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Provides Jupyter Notebooks, cookbooks, and recipes demonstrating CrewAI's agentic workflow implementations and tools.
-- **Technical Scope**: Focuses on multi-agent systems, workflow automation, and agentic AI tooling.
-- **Metadata**: 420 stars, 74 forks, last updated June 3, 2026.
+- **Repository Overview**: Contains Jupyter Notebooks, cookbooks, and recipes demonstrating CrewAI's agentic workflow implementations and tools.
+- **Metadata**: 421 stars, 74 forks, last updated 2026-07-02, primary language: Jupyter Notebook.
+- **Focus Areas**: Showcases agents, cookbook examples, and CrewAI tool integrations.
 
 ## Use Cases
 

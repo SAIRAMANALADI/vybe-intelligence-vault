@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/fparpas/Developing-Agentic-AI-Apps-Hackathon
-collected_at: '2026-07-02T09:57:20.073628+05:30'
+collected_at: '2026-07-03T15:10:56.939165+05:30'
 published_at: '2026-06-25T14:15:58Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-07-29T07:12:15Z'
 pushed_at: '2026-06-25T14:14:26Z'
 resource_id: github:fparpas/developing-agentic-ai-apps-hackathon
-first_seen: '2026-07-02T09:57:20.073628+05:30'
-last_seen: '2026-07-02T09:57:20.073628+05:30'
-last_checked: '2026-07-02T09:57:20.073628+05:30'
+first_seen: '2026-07-03T15:10:56.939165+05:30'
+last_seen: '2026-07-03T15:10:56.939165+05:30'
+last_checked: '2026-07-03T15:10:56.939165+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Starter Templates & Resources**: Provides foundational codebases and documentation for developing agentic AI applications, including autonomous agents and orchestration frameworks.
-
-- **Hackathon Submissions**: Contains project submissions from a hackathon focused on next-generation AI workflows, showcasing real-world implementations and innovations.
-
-- **C#-Based Implementation**: All resources and templates are written in C#, targeting .NET ecosystems for agentic AI development.
+- **Starter Templates & Resources**: Repository provides foundational code and documentation for building autonomous agents and orchestration frameworks using C#.
+- **Hackathon Submissions**: Includes project submissions from a hackathon focused on next-generation agentic AI applications, demonstrating real-world implementations.
+- **Last Updated**: Repository was last updated on June 25, 2026, ensuring recent and relevant content for agentic AI development.
 
 ## Why It Matters
 

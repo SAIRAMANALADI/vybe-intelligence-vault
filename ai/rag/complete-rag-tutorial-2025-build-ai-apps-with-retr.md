@@ -5,18 +5,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY
-published_at: '2026-07-03T03:51:04.372930+05:30'
-collected_at: '2026-07-03T03:51:04.372943+05:30'
+published_at: '2026-07-03T15:07:29.984139+05:30'
+collected_at: '2026-07-03T15:07:29.984152+05:30'
 tags:
-- hackernews
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:complete-rag-tutorial-2025-build-ai-apps-with-retr
-first_seen: '2026-07-03T03:51:04.372943+05:30'
-last_seen: '2026-07-03T03:51:04.372943+05:30'
-last_checked: '2026-07-03T03:51:04.372943+05:30'
+first_seen: '2026-07-03T15:07:29.984152+05:30'
+last_seen: '2026-07-03T15:07:29.984152+05:30'
+last_checked: '2026-07-03T15:07:29.984152+05:30'
 health_score: 100
 ---
 
@@ -24,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization, and creator tools.
-- **Technical Infrastructure**: Utilizes Google’s distributed systems (e.g., CDNs, AI-driven recommendations) for scalable, low-latency video delivery and metadata processing.
-- **Developer & Policy Framework**: Provides APIs (YouTube Data/Player) for integration, enforces copyright via Content ID, and adheres to privacy regulations (e.g., GDPR, COPPA).
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, live streaming, monetization (via YouTube Partner Program), and advertising (Google Ads).
+- **Developer & Creator Resources**: Provides APIs, SDKs, and tools (e.g., YouTube Data API, YouTube Analytics) for developers and creators to integrate, analyze, and optimize content delivery.
+- **Policy & Compliance**: Enforces community guidelines, copyright policies, and privacy standards (e.g., GDPR, COPPA) with tools like Content ID for automated copyright protection.
 
 ## Why It Matters
 
@@ -36,11 +35,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T03:51:04.372930+05:30
+- Published: 2026-07-03T15:07:29.984139+05:30
 
 ## Related Tags
 
-- hackernews
 - rag
 - web-crawled
 - youtube

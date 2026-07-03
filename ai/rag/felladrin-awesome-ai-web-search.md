@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/felladrin/awesome-ai-web-search
-collected_at: '2026-07-03T03:52:05.109493+05:30'
-published_at: '2026-07-01T21:20:05Z'
+collected_at: '2026-07-03T15:08:31.771070+05:30'
+published_at: '2026-07-03T04:50:17Z'
 tags:
 - github-repo
-- hackernews
 - html
 - rag
-stars: 1363
+stars: 1364
 language: HTML
 status: active
 license: CC0-1.0
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-11-09T19:13:37Z'
 pushed_at: '2026-07-01T20:55:28Z'
 resource_id: github:felladrin/awesome-ai-web-search
-first_seen: '2026-07-03T03:52:05.109493+05:30'
-last_seen: '2026-07-03T03:52:05.109493+05:30'
-last_checked: '2026-07-03T03:52:05.109493+05:30'
+first_seen: '2026-07-03T15:08:31.771070+05:30'
+last_seen: '2026-07-03T15:08:31.771070+05:30'
+last_checked: '2026-07-03T15:08:31.771070+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,8 @@ health_score: 100
 
 ## Summary
 
-- **Curated list** of AI-powered web search tools leveraging LLMs, RAG, and metasearch techniques for enhanced information retrieval and question-answering.
-- **Covers generative AI applications** in search, including inference optimization, retrieval-augmented generation, and AI-driven metasearch engines.
-- **GitHub repository** (HTML-based) with 1.3K+ stars, last updated July 2026, focusing on AI search tools, generative AI projects, and web-based AI assistants.
+*   Curates an "awesome list" of software leveraging generative AI and LLM inference for advanced web search capabilities.
+*   Highlights tools employing Retrieval-Augmented Generation (R
 
 ## Why It Matters
 
@@ -40,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: felladrin
-- Stars: 1363
+- Stars: 1364
 - Forks: 112
 - Language: HTML
 - Topics: ai, ai-search-engine, artificial-intelligence, artificial-intelligence-projects, awesome, awesome-list, generative-ai, generative-ai-projects, generative-ai-tools, information-retrieval, llm-inference, metasearch, question-answering, rag, retrieval-augmented-generation, web-search
-- Last Updated: 2026-07-01T21:20:05Z
+- Last Updated: 2026-07-03T04:50:17Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2024-11-09T19:13:37Z

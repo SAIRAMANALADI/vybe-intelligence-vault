@@ -13,8 +13,10 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - java
 - rag
+- reddit
 - workflows
 selection_reason:
 - Strong keyword match
@@ -34,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Implementation of RAG with Knowledge Graph**: Demonstrates Retrieval-Augmented Generation (RAG) using a knowledge graph for enhanced context-aware AI responses, integrating structured data retrieval with generative models.
+- **Architecture**: Implements a Java-based AI Q&A system leveraging **Spring AI** with **Alibaba Cloud** integrations, featuring **SSE streaming**, **Agent-based workflows**, **RAG with knowledge graphs**, **Function Calling**, and **message history** for conversational context.
 
-- **Multi-modal AI Capabilities**: Supports image generation (via FunctionCall), image understanding, and embedding-based vector search, leveraging Spring AI and Alibaba Cloud services for end-to-end AI workflows.
-
-- **Agentic & Streaming Workflows**: Implements SSE (Serv
+- **Multimodal Capabilities**: Supports **image generation** (via diffusion models), **image understanding** (OCR/VLM), **embedding models**, and **vector databases** (e.g., Milvus/Weaviate) for hybrid RAG pipelines.
 
 ## Use Cases
 

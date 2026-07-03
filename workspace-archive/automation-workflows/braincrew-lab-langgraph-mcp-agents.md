@@ -38,9 +38,9 @@ selection_reason:
 
 - **Architecture**: Implements a LangGraph-based ReAct (Reasoning and Acting) agent framework with Model Context Protocol (MCP) integration for dynamic tool orchestration and API/data source interactions.
 
-- **Interface**: Provides a Streamlit-based web UI for real-time configuration, deployment, and interaction with AI agents, enabling dynamic agent setup and management.
+- **Interface**: Provides a Streamlit-based web UI for real-time configuration, deployment, and interaction with AI agents, enabling dynamic MCP tool integration and management.
 
-- **Technical Stack**: Python-based implementation leveraging LangGraph for agent workflows and MCP for standardized tool in
+- **Technical Stack**: Python-based implementation leveraging LangGraph for agent workflows and MCP for standardize
 
 ## Use Cases
 

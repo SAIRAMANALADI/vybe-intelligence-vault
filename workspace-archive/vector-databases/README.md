@@ -8,25 +8,25 @@ Vector databases provide sub-millisecond similarity search across millions of em
 
 ## Top Matched Resources
 
-- [ray-project/llm-applications](https://github.com/ray-project/llm-applications) (framework - ESSENTIAL Tier)
+- [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template) (template - ESSENTIAL Tier)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (tutorial - ESSENTIAL Tier)
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (tutorial - ESSENTIAL Tier)
 - [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](https://nerdleveltech.com/guides/rag-systems) (framework - ESSENTIAL Tier)
 - [Haystack | Haystack](https://haystack.deepset.ai/) (framework - ESSENTIAL Tier)
 - [AI & Vectors | Supabase Docs](https://supabase.com/docs/guides/ai) (template - ESSENTIAL Tier)
-- [ansible-collections/google.cloud](https://github.com/ansible-collections/google.cloud) (workflow - ESSENTIAL Tier)
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/chroma-core/chroma (Chroma)
 https://github.com/qdrant/qdrant (Qdrant)
 https://github.com/lancedb/lancedb (LanceDB)
-- [ray-project/llm-applications](https://github.com/ray-project/llm-applications)
+- [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- [ansible-collections/google.cloud](https://github.com/ansible-collections/google.cloud)
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/lancedb/lancedb (LanceDB)
 
 ---
 
-*Last updated: 2026-07-03 04:07 IST*
+*Last updated: 2026-07-03 15:23 IST*

@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Jekyll-based static site generator**: Repository contains the source for `raganwald.com`, built using Jekyll, a Ruby-based static site generator.
-- **Minimalistic structure**: Hosted as a GitHub Pages repository with HTML as the primary language, indicating a lightweight, content-focused structure.
-- **Outdated metadata**: Last commit timestamp (`2026-06-28T19:26:47Z`) suggests potential future-dated metadata or an error in repository tracking.
+- **Jekyll-based static site generator**: Repository contains the source for `raganwald.com`, a static website built using Jekyll, a Ruby-based static site generator.
+- **Minimalist structure**: The project is a lightweight HTML-based site with no additional dependencies or complex build tools, relying solely on Jekyll's default configuration.
+- **Outdated metadata**: Last commit timestamp (`2026-06-28T19:26:47Z`) suggests potential future-dated or incorrect repository metadata, as GitHub does n
 
 ## Use Cases
 

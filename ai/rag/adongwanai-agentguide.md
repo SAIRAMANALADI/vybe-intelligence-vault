@@ -4,23 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/adongwanai/AgentGuide
-collected_at: '2026-07-02T09:58:05.048477+05:30'
-published_at: '2026-07-02T04:05:42Z'
+collected_at: '2026-07-03T15:11:41.995579+05:30'
+published_at: '2026-07-03T09:32:37Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - html
 - rag
-stars: 6496
+stars: 6558
 language: HTML
 status: active
 archived: false
 created_at: '2025-11-03T10:46:38Z'
 pushed_at: '2026-06-09T07:55:15Z'
 resource_id: github:adongwanai/agentguide
-first_seen: '2026-07-02T09:58:05.048477+05:30'
-last_seen: '2026-07-02T09:58:05.048477+05:30'
-last_checked: '2026-07-02T09:58:05.048477+05:30'
+first_seen: '2026-07-03T15:11:41.995579+05:30'
+last_seen: '2026-07-03T15:11:41.995579+05:30'
+last_checked: '2026-07-03T15:11:41.995579+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **LangGraph实战与AI Agent开发指南**: 专注于LangGraph框架的实战教程，涵盖AI Agent开发的核心概念、架构设计与实现方法，适合转行大模型或算法工程师的学习路径。
+- **Comprehensive AI Agent Development Guide**: Covers LangGraph, advanced RAG, multi-agent systems, and CrewAI with practical implementations and tutorials for AI agent development.
 
-- **高级RAG与多Agent协作**: 整合GraphRAG、Multi-Agent系统、GRPO等先进技术，提供强化学习、数据合成与RAG优化的实操指南，支持复杂场景下的智能体部署与交互。
+- **Interview & Career Resources**: Provides interview preparation materials, job-hunting strategies, and a curated question bank for roles like algorithm engineers and LLM specialists.
 
-- **面试题库与就业资源**: 汇集大模型面试题库、算法工程师岗位要求与转行指南，包含SFT、LLM微调、Agentic RAG等技术栈的面试准备材料，持续更新至2026年7月。
+- **Advanced Techniques & Tools**: Includes topics on GRPO, SFT, data synthesis, GraphRAG, and reinforcement learning, with a focus on practical, hands-on learning for AI/ML engineers.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: adongwanai
-- Stars: 6496
-- Forks: 640
+- Stars: 6558
+- Forks: 646
 - Language: HTML
 - Topics: agenticrag, ai-agent, crewai, graphrag, grpo, interview, job-hunting, langchain, llm, multi-agent, rag, sft, tutorial
-- Last Updated: 2026-07-02T04:05:42Z
+- Last Updated: 2026-07-03T09:32:37Z
 - Archived: No
 - Created At: 2025-11-03T10:46:38Z
 - Pushed At: 2026-06-09T07:55:15Z

@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **TypeScript SDK** for cloud-based OCR and document parsing, integrating with **LlamaParse** for advanced text extraction and information retrieval.
-- Supports **document processing** workflows, enabling structured data extraction for downstream AI/agent applications.
-- Compatible with **LlamaCloud** ecosystem, facilitating seamless integration with document agents and parsing pipelines.
+- **TypeScript SDK for LlamaParse**: Provides cloud-based OCR and document parsing capabilities via the `llamaparse` API, enabling structured extraction of text and metadata from documents.
+- **Document Processing & Information Extraction**: Supports advanced parsing workflows for agents, including structured data extraction, information retrieval, and document-agent integration.
+- **Cloud-Ready & TypeScript-Based**: Optimized for cloud deployment with TypeScript, offering modular APIs for docum
 
 ## Use Cases
 

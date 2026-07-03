@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-07-03T03:51:10.187689+05:30'
-published_at: '2026-07-02T18:29:20Z'
+collected_at: '2026-07-03T15:07:36.793831+05:30'
+published_at: '2026-07-03T09:37:36Z'
 tags:
 - agents
 - github-repo
 - jupyter notebook
 - rag
-- workflows
-stars: 36282
+stars: 36299
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-06-08T11:18:11Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-07-03T03:51:10.187689+05:30'
-last_seen: '2026-07-03T03:51:10.187689+05:30'
-last_checked: '2026-07-03T03:51:10.187689+05:30'
+first_seen: '2026-07-03T15:07:36.793831+05:30'
+last_seen: '2026-07-03T15:07:36.793831+05:30'
+last_checked: '2026-07-03T15:07:36.793831+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive LLM & RAG Tutorials**: Repository provides detailed, hands-on Jupyter Notebook-based guides covering Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and their integration into real-world AI agent applications.
-
-- **AI Agent Applications**: Focuses on practical implementations of AI agents, including Multi-Chain Processing (MCP) and advanced machine learning workflows, with real-world use-case demonstrations.
-
-- **High Community Engagement**: Maintains significant traction with **36,282 stars**, **5,999 forks**, and frequent updates (last modified **2026-07-02**), indicating active development and broad adoption in AI engineering.
+*   Provides in-depth tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) systems, and AI agent architectures.
+*   Content is delivered primarily via Jupyter Notebooks, focusing on practical, real-world AI agent implementations.
+*   Explores advanced AI engineering topics, including Multi-agent Communication Protocols (MCP) and machine learning principles for robust AI systems.
 
 ## Why It Matters
 
@@ -43,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: patchy631
-- Stars: 36282
-- Forks: 5999
+- Stars: 36299
+- Forks: 6004
 - Language: Jupyter Notebook
 - Topics: agents, ai, llms, machine-learning, mcp, rag
-- Last Updated: 2026-07-02T18:29:20Z
+- Last Updated: 2026-07-03T09:37:36Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T10:43:24Z
