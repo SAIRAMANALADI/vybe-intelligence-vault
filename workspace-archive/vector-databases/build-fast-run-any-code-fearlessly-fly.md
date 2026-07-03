@@ -8,7 +8,7 @@ local_vault_path: ai/rag/build-fast-run-any-code-fearlessly-fly.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -16,7 +16,7 @@ tags:
 - rag
 - web-crawled
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Build fast. Run any code fearlessly. · Fly
@@ -25,15 +25,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Hardware-virtualized Fly Machines**: Launch instant, isolated containers with dedicated CPU/memory/networking, billed per-second; supports untrusted code execution and scales to tens of thousands of instances.
-- **Global, low-latency infrastructure**: 18 regions with sub-100ms response times, built-in private networking, and end-to-end encryption; optimized for distributed systems (e.g., CockroachDB, globally-distributed Postgres).
-- **Enterprise-grade security**: KVM-hardened isolation, mem
+- **Hardware-virtualized Fly Machines**: Launch instantly as isolated, KVM-backed containers with dedicated CPU/memory, supporting untrusted code execution, HTTP requests, and scaling to tens of thousands of instances with sub-second startup times.
+
+- **Global, low-latency infrastructure**: Deploy in 18 regions with private networking, end-to-end encryption, and NVMe storage; supports clustered databases (e.g., CockroachDB, Postgres) and distributed systems without requiring Terraform.
+
+- **Ente
 
 ## Use Cases
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
@@ -22,7 +22,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex
@@ -31,18 +31,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Multi-format & multimodal parsing**: Supports 90+ document formats (PDFs, scans, invoices, healthcare forms, etc.) with layout-aware extraction, OCR for handwriting/checkboxes, and multimodal analysis (tables, charts, images) for structured markdown output.
+- **Multi-format document parsing** with 90+ supported formats, including complex layouts, tables, charts, handwriting, checkboxes, and images, converting them into clean Markdown for AI applications.
 
-- **Scalable & multilingual NLP pipeline**: Processes 1B+ documents monthly with enterprise-grade concurrency, 100+ language support, and granular parsing modes (cost/accuracy trade-offs) for high-volume workflows.
+- **Advanced parsing capabilities** featuring layout-aware processing (headers, footers, split sections), multimodal parsing (charts, tables, images), granular control modes for cost-accuracy optimization, and multilingual support for 100+ languages.
 
-- **Developer-first w
+- **Enterprise-grade scalability** with suppor
 
 ## Use Cases
 

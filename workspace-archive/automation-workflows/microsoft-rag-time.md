@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive RAG Mastery Guide**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization, HNSW indexing, and Matryoshka representation learning.
-
-- **Multi-Tool Integration**: Demonstrates RAG workflows using Azure AI services, OpenAI LLMs, and VS Code, with notebooks focusing on multimodal inputs, responsible AI practices, and efficient vector search implementation
+- **5-week structured learning path** covering advanced **Retrieval-Augmented Generation (RAG)** techniques, including **binary/scalar quantization**, **Matryoshka representation learning**, and **hybrid search** (vector + keyword) for efficient indexing and retrieval.
+- **Hands-on implementation** using **Azure OpenAI**, **HNSW** for approximate nearest neighbor search, and **multimodal RAG** workflows, with notebooks optimized for **Visual Studio Code**.
+- **Responsible AI focus** integrating
 
 ## Use Cases
 

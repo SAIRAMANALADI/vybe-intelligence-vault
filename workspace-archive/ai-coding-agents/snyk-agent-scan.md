@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 selection_reason:
 - Useful for project building
@@ -30,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Security scanner designed to audit AI agents, MCP servers, and agent skills for vulnerabilities and misconfigurations.
-- **Key Features**: Supports static and dynamic analysis of agent frameworks, MCP protocol interactions, and skill integrations.
-- **Implementation**: Python-based tool with extensible architecture for integrating additional security checks and compliance rules.
+- **Purpose**: Security scanner designed to detect vulnerabilities in AI agents, MCP servers, and agent skills.
+- **Key Features**: Supports static and dynamic analysis for identifying security risks in AI-driven systems.
+- **Technical Stack**: Python-based tool with integration for MCP (Model Context Protocol) security assessments.
 
 ## Use Cases
 

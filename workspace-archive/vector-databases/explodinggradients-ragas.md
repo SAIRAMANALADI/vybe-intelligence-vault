@@ -15,7 +15,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **RAGAS**: A Python library for evaluating LLM applications, particularly Retrieval-Augmented Generation (RAG) systems, with 14.6k+ GitHub stars.
-- **Key Features**: Provides metrics for faithfulness, answer relevance, context precision/relevance, and harmfulness to assess RAG pipeline performance.
-- **Integration**: Supports seamless evaluation workflows for LLMops, enabling automated testing and benchmarking of LLM-based applications.
+- **RAGAS Framework**: Python-based library for evaluating LLM applications, focusing on Retrieval-Augmented Generation (RAG) pipelines with metrics for faithfulness, answer relevance, and context precision.
+
+- **Key Metrics**: Implements automated evaluation across dimensions like hallucination detection, answer correctness, and context recall, leveraging both reference-free and reference-based scoring.
+
+- **Integration & Tooling**: Supports seamless integration with LLM pipelines, offering CLI
 
 ## Use Cases
 

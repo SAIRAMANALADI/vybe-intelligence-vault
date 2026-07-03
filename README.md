@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 12,575</p>
-        <p><b>Active:</b> 12,232 | <b>Inactive:</b> 343</p>
+        <p><b>Resources tracked:</b> 12,609</p>
+        <p><b>Active:</b> 12,265 | <b>Inactive:</b> 344</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 47,982</p>
+        <p><b>Archive Files:</b> 48,058</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-04 00:48 IST</p>
+        <p><b>Last Update:</b> 2026-07-04 01:38 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,21 +55,25 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[The most insightful stories about Medium - Medium](ai/resources/the-most-insightful-stories-about-medium-medium.md)** • Rank: <kbd>+10</kbd>
-- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+9</kbd>
-- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+9</kbd>
-- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+9</kbd>
-- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Jamesob's guide to running SOTA LLMs locally](ai/community/jamesob-local-llm.md)** • <kbd>+124 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[My dad helped build North America's oat supply chain: Can it be remade?](ai/community/my-dad-helped-build-north-america-s-oat-supply-cha.md)** • <kbd>+45 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Hugging Face · GitHub](ai/agents/hugging-face-github.md)** • Rank: <kbd>+376</kbd>
+- 🔼 **[hub-docs/docs/hub/spaces.md at main · huggingface/hub-docs · GitHub](ai/rag/huggingface-hub-docs.md)** • Rank: <kbd>+374</kbd>
+- 🔼 **[CodeQL - Visual Studio Marketplace](ai/resources/codeql-visual-studio-marketplace.md)** • Rank: <kbd>+3956</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Ask HN: Is anyone experimenting with different ways of using LLMs for coding?](ai/community/ask-hn-is-anyone-experimenting-with-different-ways.md)** • Score: `55`
+- 🆕 **[Instead of banning AI, I made a classroom contract with my students](ai/community/instead-of-banning-ai-i-made-a-classroom-contract.md)** • Score: `30`
+- 🆕 **[The MJ Rathbun case: How an autonomous AI bot cyberbullied a human programmer](ai/community/the-mj-rathbun-case-how-an-autonomous-ai-bot-cyber.md)** • Score: `3`
+- 🆕 **[Prisma · GitHub](ai/resources/prisma-github.md)** • Score: `0`
+- 🆕 **[Agent Infrastructure for TypeScript](ai/agents/agent-infrastructure-for-typescript.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Reality has a surprising amount of detail (2017)](ai/community/reality-has-a-surprising-amount-of-detail.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

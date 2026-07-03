@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive LLM & RAG Tutorials**: Repository provides in-depth, hands-on Jupyter Notebook-based tutorials covering Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and their integration into real-world AI agent applications.
+- **Comprehensive LLM & RAG Tutorials**: Repository provides in-depth, hands-on Jupyter Notebook tutorials covering Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) architectures with practical implementations.
 
-- **AI Agent & MCP Integration**: Focuses on practical implementations of AI agents, including Model Context Protocol (MCP) applications, with structured workflows for deploying and optimizing agent-based systems.
+- **Real-World AI Agent Applications**: Includes advanced tutorials on deploying AI agents in production environments, demonstrating end-to-end workflows for agentic systems using modern AI engineering practices.
 
-- **High-Activity Open-Source Pro
+- **Cutting-Edge AI Engineering Resources**: Focuses
 
 ## Use Cases
 

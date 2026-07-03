@@ -6,15 +6,12 @@ source_url: https://github.com/HKUDS/MiniRAG
 resource_id: github:hkuds/minirag
 local_vault_path: ai/rag/hkuds-minirag.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
-- meta-ai
-- models
 - python
 - rag
 selection_reason:
@@ -27,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Miniaturized RAG Pipeline**: Introduces a simplified RAG framework leveraging small (<=1B parameters) open-sourced language models (e.g., TinyLlama, Phi-2) to reduce computational overhead while maintaining competitive performance on retrieval and generation tasks.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) architecture leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, targeting ACL 2026.
 
-- **Modular Design**: Implements a plug-and-play architecture with decoupled retrieval (e.g., BM25, DPR) and generation components, enabling flexible integration with various small-scale models and retrieval methods.
+- **Key Innovations**: Focuses on modularity and efficiency by optimizing retrieval mechanisms and generator integration, enabling deployment on resource-constrained hardware without sacrificing accuracy.
 
-- **Efficie
+- **Open-Source Implementation**: Provides a Python-base
 
 ## Use Cases
 

@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Hugo v0.163.3** introduces fixes for code block rendering (escaping language identifiers), preserves non-ASCII whitespace in parsers, and adds support for `babel/postcss` config variants in resource processing.
+- **Hugo v0.163.3** introduces fixes for code block rendering (escaping language tags), preserves non-ASCII whitespace in parsers, and adds support for Babel/PostCSS config variants in resource processing.
 
-- **Hugo v0.163.2** resolves `ERR_ACCESS_DENIED` issues in Node's resolver and standardizes external converter behavior when dependencies are missing.
+- **Hugo v0.163.2** resolves `ERR_ACCESS_DENIED` in Node.js resolvers and standardizes external converter behavior for missing dependencies.
 
-- **Hugo v0.163.1** patches security vulnerabilities (e.g., integer IPv4 host encoding, symlink handling) and fixes multi-segment re
+- **Hugo v0.163.0** improves AVIF image handling with configurable quality settings (default 60) and per-format hints (e.g., `photo`/`picture`) for los
 
 ## Use Cases
 

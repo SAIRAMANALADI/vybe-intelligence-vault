@@ -6,10 +6,10 @@ source_url: https://android.googlesource.com
 resource_id: blog:android-git-repositories-git-at-google
 local_vault_path: ai/rag/android-git-repositories-git-at-google.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
-resource_kind: framework
-importance: high
+resource_kind: benchmark
+importance: medium
 tags:
 - benchmark
 - frontend_ui
@@ -23,7 +23,7 @@ tags:
 - scripts
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # android Git repositories - Git at Google
@@ -31,17 +31,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Official Android Git Repository**: Hosted at `android.googlesource.com`, this is the canonical source for Android OS, kernel, device-specific code, and accessory support (e.g., `device/google/`, `device/generic/`), including hardware-specific implementations for platforms like `akita`, `bluejay`, and `coral`.
+- **Git Repository Hosting**: The [Android Open Source Project (AOSP)](https://android.googlesource.com/) provides a centralized Git repository hosting platform for Android-related projects, including device-specific configurations, kernels, and accessory support.
 
-- **Device-Specific Branches & Kernels**: Many device directories (e.g., `device/google/bluejay-kernel/`, `device/google/akita-kernels/6.1/`) include kernel branches for specific Andro
+- **Device-Specific Repositories**: Contains over 200 device-specific repositories (e.g., `device/google/bluejay`, `device/asus/flo`) with kernel (`*-kernel`), SELinux policy (`*-sepolicy`), and variant-specific branches (e.g., `5.10`
 
 ## Use Cases
 

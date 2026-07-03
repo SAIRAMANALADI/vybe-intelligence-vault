@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/
-published_at: '2026-07-03T22:20:28.113678+05:30'
-collected_at: '2026-07-03T22:20:28.113692+05:30'
+published_at: '2026-07-04T01:24:41.956206+05:30'
+collected_at: '2026-07-04T01:24:41.956216+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:haystack-haystack
-first_seen: '2026-07-03T22:20:28.113692+05:30'
-last_seen: '2026-07-03T22:20:28.113692+05:30'
-last_checked: '2026-07-03T22:20:28.113692+05:30'
+first_seen: '2026-07-04T01:24:41.956216+05:30'
+last_seen: '2026-07-04T01:24:41.956216+05:30'
+last_checked: '2026-07-04T01:24:41.956216+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack provides a transparent, modular framework for building production-ready AI agents, RAG systems, and context-engineered workflows with full visibility into retrieval, reasoning, memory, and tool integration.
+- **Modular AI Orchestration**: Open-source framework for building production-ready LLM-powered agents, RAG pipelines, and multimodal AI systems with full transparency, debugging, and optimization capabilities via modular components.
 
-- **Vendor-Neutral Integration**: Supports seamless integration with major AI models (OpenAI, Anthropic, Mistral) and vector databases (Weaviate, Pinecone, Elasticsearch) via an open architecture, avoiding vendor lock-in.
+- **Vendor-Agnostic Integration**: Supports seamless integration with major AI/ML tools (OpenAI, Hugging Face, Weaviate, etc.) and cloud-agnostic deployment (Kubernetes-ready) with no vendor lock-in.
 
-- **Enterprise-Scale Deployment**: Offers cloud-agnostic, Kubernetes-ready pipelines with built-in reliability, observability, and deployment guides, enabling scalable, production-grade AI systems.
+- **Enterprise-Grade Scalability**: Offers enterprise support, visual pipeline design, secure access controls, and scalable cloud/on-prem deployment with built-in reliability, observability, and testing workflows.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T22:20:28.113678+05:30
+- Published: 2026-07-04T01:24:41.956206+05:30
 
 ## Related Tags
 

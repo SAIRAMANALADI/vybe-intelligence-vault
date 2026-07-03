@@ -6,15 +6,16 @@ source_url: https://github.com/JCodesMore/ai-website-cloner-template
 resource_id: github:jcodesmore/ai-website-cloner-template
 local_vault_path: ai/agents/jcodesmore-ai-website-cloner-template.md
 quality_score: 70
-archive_score: 85
-archive_tier: essential
+archive_score: 75
+archive_tier: useful
 resource_kind: template
-importance: high
+importance: medium
 tags:
 - agents
 - anthropic
 - frontend_ui
 - github-repo
+- hackernews
 - scripts
 - typescript
 - workflows
@@ -27,18 +28,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 85 (essential)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: template
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **AI-Powered Website Cloning**: Uses AI coding agents (e.g., Claude Code) to automate website cloning via a single command, eliminating manual reverse-engineering.
+- **AI-Powered Website Cloning**: Template enables single-command website cloning via AI coding agents (e.g., Claude Code), automating reverse-engineering and reconstruction of React/Next.js sites with shadcn/ui and TailwindCSS.
 
-- **Modern Tech Stack**: Built with **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, and **shadcn/ui** for scalable, production-ready UI components.
+- **Technical Stack**: Built in TypeScript with Next.js, React, and shadcn/ui; integrates web-scraping and AI agent workflows for dynamic content replication.
 
-- **Automated Workflow**: Integrates **web-scraping**, **AI agent orchestration**, and **boilerplate generation** to clone and deploy websites with minimal setup.
+- **Automation & Tooling**: Supports AI-driven boilerplate generation, developer tooling, and CI/CD-ready work
 
 ## Use Cases
 

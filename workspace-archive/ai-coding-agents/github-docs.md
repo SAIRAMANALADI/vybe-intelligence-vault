@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Core Workflows**: Git is the foundational VCS for GitHub, enabling local version control; SSH provides secure remote access; repositories store and manage project files; Markdown syntax supports structured documentation and formatting.
-
-- **Collaborative Development**: Pull requests facilitate code review and merging; GitHub Copilot integrates AI-driven code suggestions in IDEs; remote repository management synchronizes local and hosted codebases.
-
-- **Security & Automation**: GitHub
+- **Git Integration & Authentication**: GitHub relies on Git for version control, supporting secure remote connections via SSH for authenticated interactions with repositories.
+- **Collaborative Workflows**: Pull requests enable proposing, reviewing, and merging code changes, while GitHub Copilot integrates AI-driven code suggestions directly into IDEs.
+- **CI/CD & Security**: GitHub Actions automates workflows, GitHub Packages manages dependencies, and CodeQL enforces code security by identifyi
 
 ## Use Cases
 

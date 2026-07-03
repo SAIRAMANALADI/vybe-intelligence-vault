@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-03T22:17:57.659803+05:30'
+collected_at: '2026-07-04T01:22:11.448786+05:30'
 published_at: '2026-06-30T16:45:55Z'
 tags:
+- benchmark
 - github-repo
+- models
 - python
 - rag
 stars: 368
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-03T22:17:57.659803+05:30'
-last_seen: '2026-07-03T22:17:57.659803+05:30'
-last_checked: '2026-07-03T22:17:57.659803+05:30'
+first_seen: '2026-07-04T01:22:11.448786+05:30'
+last_seen: '2026-07-04T01:22:11.448786+05:30'
+last_checked: '2026-07-04T01:22:11.448786+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a hybrid retrieval-augmented generation (RAG) system combining dense (vector) and sparse (keyword/BM25) retrieval methods for improved document retrieval accuracy.
-- **NVIDIA AI Workbench Integration**: Demonstrates deployment and orchestration of the RAG pipeline using NVIDIA AI Workbench, leveraging GPU acceleration for efficient LLM inference and retrieval.
-- **Modular Python Implementation**: Provides a Python-based, modular codebase with components for document preprocessing, retrieval, and generation, optimized for scalability and extensibility.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document grounding.
+
+- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined deployment, fine-tuning, and evaluation of multi-modal RAG models.
+
+- **Python-Based Example**: Provides a structured Python codebase with modular components for indexing, retrieval, and generation, optimized for GPU acceleration.
 
 ## Why It Matters
 

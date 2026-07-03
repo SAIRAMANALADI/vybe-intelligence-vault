@@ -8,23 +8,23 @@ Public developer APIs supply external context and utilities for LLM tools.
 
 ## Top Matched Resources
 
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) (framework - ESSENTIAL Tier)
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [The official repository for Dart and Flutter packages.](https://pub.dev) (benchmark - USEFUL Tier)
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [FastAPI - FastAPI](https://fastapi.tiangolo.com/) (template - USEFUL Tier)
 - [Cerbos · GitHub](https://github.com/cerbos) (benchmark - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) (workflow - USEFUL Tier)
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) (benchmark - USEFUL Tier)
+- [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
 - [Cerbos · GitHub](https://github.com/cerbos)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat)
-- [chroma-core/chroma](https://github.com/chroma-core/chroma)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
+- [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app?source=post_page)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-07-03 22:33 IST*
+*Last updated: 2026-07-04 01:38 IST*

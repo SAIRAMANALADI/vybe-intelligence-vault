@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/kyrolabs/awesome-agents
-collected_at: '2026-07-02T22:36:40.392484+05:30'
-published_at: '2026-07-02T08:49:21Z'
+collected_at: '2026-07-04T01:24:11.485110+05:30'
+published_at: '2026-07-03T17:50:32Z'
 tags:
 - agents
 - github-repo
 - paper
 - rag
+- scripts
 - unknown
 stars: 2565
 language: Unknown
@@ -19,9 +20,9 @@ archived: false
 created_at: '2023-07-02T11:12:36Z'
 pushed_at: '2026-06-30T03:45:04Z'
 resource_id: github:kyrolabs/awesome-agents
-first_seen: '2026-07-02T22:36:40.392484+05:30'
-last_seen: '2026-07-02T22:36:40.392484+05:30'
-last_checked: '2026-07-02T22:36:40.392484+05:30'
+first_seen: '2026-07-04T01:24:11.485110+05:30'
+last_seen: '2026-07-04T01:24:11.485110+05:30'
+last_checked: '2026-07-04T01:24:11.485110+05:30'
 health_score: 100
 ---
 
@@ -30,8 +31,8 @@ health_score: 100
 ## Summary
 
 - **Curated Collection**: Aggregates a comprehensive list of AI agent frameworks, libraries, tools, and research papers for autonomous agent development.
-- **Multi-Domain Coverage**: Encompasses agents for general AI, reinforcement learning, multi-agent systems, and specialized domains (e.g., robotics, finance).
-- **Open-Source Focus**: Primarily highlights open-source projects with active GitHub repositories, updated as of July 2026.
+- **Multi-Domain Coverage**: Encompasses agents for web browsing, code generation, task automation, and multi-modal interactions.
+- **Open-Source Focus**: Primarily features open-source projects with active community contributions and GitHub repositories.
 
 ## Why It Matters
 
@@ -41,10 +42,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: kyrolabs
 - Stars: 2565
-- Forks: 665
+- Forks: 664
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-02T08:49:21Z
+- Last Updated: 2026-07-03T17:50:32Z
 - Archived: No
 - Created At: 2023-07-02T11:12:36Z
 - Pushed At: 2026-06-30T03:45:04Z

@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Open-source AI coding agent** implemented in TypeScript, enabling autonomous code generation, editing, and debugging via CLI and IDE integrations.
-- **Modular architecture** supports extensible plugins for custom tools, models, and workflows, facilitating integration with various LLM providers and development environments.
-- **Real-time collaboration features** include context-aware code suggestions, multi-file edits, and session persistence, optimized for developer productivity in local or
+- **Open-source AI coding agent** implemented in TypeScript, enabling autonomous or assisted code generation, refactoring, and debugging via CLI.
+- **Extensible architecture** supporting custom models, tools, and workflows, with integration into popular IDEs (VS Code, JetBrains) via plugins.
+- **Active development** (last updated July 2026) with 34.6K+ stars and 4.9K+ forks, emphasizing collaborative, community-driven enhancements.
 
 ## Use Cases
 

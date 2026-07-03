@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-07-03T22:17:27.591764+05:30'
+collected_at: '2026-07-04T01:21:41.397923+05:30'
 published_at: '2026-07-02T00:00:20Z'
 tags:
 - github-repo
+- openai
 - python
 - rag
-- workflows
 stars: 970
 language: Python
 status: active
@@ -18,9 +18,9 @@ archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-07-03T22:17:27.591764+05:30'
-last_seen: '2026-07-03T22:17:27.591764+05:30'
-last_checked: '2026-07-03T22:17:27.591764+05:30'
+first_seen: '2026-07-04T01:21:41.397923+05:30'
+last_seen: '2026-07-04T01:21:41.397923+05:30'
+last_checked: '2026-07-04T01:21:41.397923+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced response generation.
+- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
 
-- **Python-Based Architecture**: Utilizes Python with LangChain’s modular components (e.g., `Retriever`, `LLMChain`) to construct a RAG workflow, likely leveraging vector stores (e.g., FAISS, Chroma) for document indexing.
+- **Python-Based**: Entirely written in Python, leveraging LangChain's modular framework for document loading, embedding, vector storage (e.g., FAISS), and LLM integration (e.g., OpenAI, HuggingFace).
 
-- **Tutorial Focus**: Provides a step-by-step guide for building a RAG system, covering document loading, embedding, retrieval, and prompt engineering, with minimal dependencies for ease of replication.
+- **Modular Structure**: Includes components for document preprocessing, vector database setup, retrieval logic, and prompt templating, with example notebooks for quick deployment and testing.
 
 ## Why It Matters
 

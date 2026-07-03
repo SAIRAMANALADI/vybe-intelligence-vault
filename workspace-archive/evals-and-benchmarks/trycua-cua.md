@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-OS Agent Framework**: Provides sandboxed environments and SDKs for training/evaluating AI agents capable of full desktop control on macOS, Linux, and Windows via containerization and virtualization (e.g., Windows Sandbox, Apple Virtualization Framework).
-
-- **Technical Stack**: Primarily HTML-based with Swift integration for macOS agents, supporting desktop automation, virtualization, and cross-platform agent development (e.g., Lume, Manus frameworks).
-
-- **Benchmarking & Tooling**: In
+- **Purpose**: Open-source framework providing sandboxes, SDKs, and benchmarks for training/evaluating AI agents capable of full desktop control (macOS, Linux, Windows).
+- **Key Components**: Includes virtualization, containerization, and platform-specific tools (e.g., macOS Virtualization Framework, Windows Sandbox) for secure agent-environment interaction.
+- **Technical Scope**: Supports cross-platform automation (Swift, HTML, Lume) with focus on agent-based desktop interaction, virtualization
 
 ## Use Cases
 

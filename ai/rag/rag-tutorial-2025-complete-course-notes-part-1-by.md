@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280
-published_at: '2026-07-03T22:17:21.620658+05:30'
-collected_at: '2026-07-03T22:17:21.620674+05:30'
+published_at: '2026-07-04T01:21:34.409999+05:30'
+collected_at: '2026-07-04T01:21:34.410013+05:30'
 tags:
 - agents
 - anthropic
@@ -18,12 +18,13 @@ tags:
 - producthunt
 - rag
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
-first_seen: '2026-07-03T22:17:21.620674+05:30'
-last_seen: '2026-07-03T22:17:21.620674+05:30'
-last_checked: '2026-07-03T22:17:21.620674+05:30'
+first_seen: '2026-07-04T01:21:34.410013+05:30'
+last_seen: '2026-07-04T01:21:34.410013+05:30'
+last_checked: '2026-07-04T01:21:34.410013+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Divided into **injection pipeline** (data ingestion: chunking + embedding) and **retrieval pipeline** (query embedding + similarity search in vector DB), enabling efficient handling of large-scale enterprise documents (e.g., 10M tokens) without exceeding LLM context windows.
+- **RAG Architecture**: Combines LLMs with retrieval systems to fetch relevant external information (e.g., documents, databases) for enhanced responses while avoiding context window overload; splits into **Injection Pipeline** (data ingestion, chunking, embedding) and **Retrieval Pipeline** (query embedding, similarity search, LLM generation).
 
-- **Vector Embeddings**: High-dimensional numerical representations (e.g., OpenAI’s 3,072-dim embeddings) capturing semantic relationships (e.g., "cat" `[34, 8, 7.5]` vs. "kitten" `[33, 8, 7.2]`), enabling similarity-based retrieval via vector databases (Pinecone, Weaviate, FAISS).
+- **Vector Embeddings**: Mathematical representations (e.g., 3,072-dimensional vectors via OpenAI’s `text-embedding-3-large`) of text chunks/queries, enabling semantic similarity search in vector databases (e.g., Pinecone, Weaviate, FAISS) to retrieve top-*k* relevant chunks for LLM input.
 
-- **Retrieval Process**: User query is embedded and compared against stored document embeddings using similarity metrics (e.g., cosine distance), retrieving top-*k* relevant chunks (e.g., 10) for LLM augmentation to generate accurate answers without prompt overload.
+- **Chunking & Embedding Workflow**: Documents are split into fixed-token chunks (e.g., 1,000 tokens), each converted to embeddings via specialized models (e.g., OpenAI, Cohere, Mistral), stored in vector DBs, and matched against query embeddings using similarity metrics (e.g., cosine distance) to supply contextually relevant text to the LLM for final answer generation.
 
 ## Why It Matters
 
@@ -45,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T22:17:21.620658+05:30
+- Published: 2026-07-04T01:21:34.409999+05:30
 
 ## Related Tags
 
@@ -60,6 +61,7 @@ General public resource representing technology updates, guides, or tutorials.
 - producthunt
 - rag
 - web-crawled
+- workflows
 - youtube
 
 ## Source

@@ -1,0 +1,53 @@
+---
+title: langchain-huggingface · PyPI
+archive_category: inference-local-llm
+source_category: ai/rag
+source_url: https://pypi.org/project/langchain-huggingface/
+resource_id: blog:langchain-huggingface-pypi
+local_vault_path: ai/rag/langchain-huggingface-pypi.md
+quality_score: 70
+archive_score: 72
+archive_tier: useful
+resource_kind: tutorial
+importance: medium
+tags:
+- rag
+- reddit
+- web-crawled
+selection_reason:
+- Strong keyword match
+- Valuable developer reference
+---
+
+# langchain-huggingface · PyPI
+
+## Why This Is In The Archive
+
+- Matched archive category: `Inference and Local LLM`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
+
+## Summary
+
+- **Integration Package**: `langchain-huggingface` v1.2.2 (Apr 16, 2026) bridges LangChain with Hugging Face models, enabling seamless LLM/embedding integration via `HuggingFacePipeline` and `HuggingFaceEmbeddings`.
+
+- **Dependencies**: Base install excludes `sentence-transformers`/`transformers`; `[full]` extra requires `sentence-transformers>=5.2.0` and `transformers>=5.0.0` for local inference, enforcing stricter versioning than prior `langchain-community` releases.
+
+- **Compatibility**: Supp
+
+## Use Cases
+
+- Private AI execution
+- Offline model serving
+- Quantization setups
+
+## Source
+
+Original source URL: https://pypi.org/project/langchain-huggingface/
+
+## Local Vault File
+
+Path: [langchain-huggingface-pypi.md](../../ai/rag/langchain-huggingface-pypi.md)

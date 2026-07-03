@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/azure-openai-rag-workshop-template
-collected_at: '2026-07-03T22:17:42.604815+05:30'
+collected_at: '2026-07-04T01:21:56.419287+05:30'
 published_at: '2026-03-04T07:23:59Z'
 tags:
 - github-repo
 - openai
 - rag
 - typescript
-- workflows
 stars: 21
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-11-07T15:26:56Z'
 pushed_at: '2024-06-11T20:54:41Z'
 resource_id: github:azure-samples/azure-openai-rag-workshop-template
-first_seen: '2026-07-03T22:17:42.604815+05:30'
-last_seen: '2026-07-03T22:17:42.604815+05:30'
-last_checked: '2026-07-03T22:17:42.604815+05:30'
+first_seen: '2026-07-04T01:21:56.419287+05:30'
+last_seen: '2026-07-04T01:21:56.419287+05:30'
+last_checked: '2026-07-04T01:21:56.419287+05:30'
 health_score: 100
 ---
 
@@ -31,8 +30,8 @@ health_score: 100
 ## Summary
 
 - **Purpose**: Provides a TypeScript-based template for building a Retrieval-Augmented Generation (RAG) chat application using Azure OpenAI services.
-- **Key Components**: Includes pre-configured workflows for document ingestion, vector embeddings, and chat interface integration with Azure OpenAI models.
-- **Workshop Focus**: Designed to guide users through deploying a custom ChatGPT-like system with RAG capabilities, emphasizing Azure cloud integration.
+- **Structure**: Includes pre-configured components for document ingestion, vector storage, and LLM-powered query processing.
+- **Deployment**: Designed for Azure cloud integration, leveraging Azure OpenAI, Cognitive Search, and other Azure services for scalable RAG implementation.
 
 ## Why It Matters
 

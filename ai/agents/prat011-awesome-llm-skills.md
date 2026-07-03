@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Prat011/awesome-llm-skills
-collected_at: '2026-07-03T22:20:07.689258+05:30'
-published_at: '2026-07-03T16:46:56Z'
+collected_at: '2026-07-04T01:24:21.510594+05:30'
+published_at: '2026-07-03T18:12:33Z'
 tags:
 - agents
 - anthropic
@@ -16,16 +16,16 @@ tags:
 - openai
 - python
 - workflows
-stars: 1362
+stars: 1363
 language: Python
 status: active
 archived: false
 created_at: '2025-10-22T06:15:37Z'
 pushed_at: '2026-06-23T07:39:26Z'
 resource_id: github:prat011/awesome-llm-skills
-first_seen: '2026-07-03T22:20:07.689258+05:30'
-last_seen: '2026-07-03T22:20:07.689258+05:30'
-last_checked: '2026-07-03T22:20:07.689258+05:30'
+first_seen: '2026-07-04T01:24:21.510594+05:30'
+last_seen: '2026-07-04T01:24:21.510594+05:30'
+last_checked: '2026-07-04T01:24:21.510594+05:30'
 health_score: 100
 ---
 
@@ -34,8 +34,10 @@ health_score: 100
 ## Summary
 
 - **Curated Repository**: Hosts a structured collection of LLM and AI Agent skills, tools, and resources for customizing AI workflows, compatible with Claude Code, Codex, Gemini CLI, and custom agents.
-- **Technical Scope**: Focuses on Python-based implementations, covering Anthropic, OpenAI, Google (Gemini), Llama, Qwen, and related CLI tools (e.g., Codex CLI, Gemini CLI) for agent skill development.
-- **Metadata**: 1,362 stars, 216 forks, last updated July 3, 2026, with topics including `awesome-list`, `claude-skills`, and `llms`.
+
+- **Multi-Platform Support**: Includes tools for Anthropic, OpenAI, Google (Gemini), and other LLM ecosystems (e.g., Llama, Qwen), with CLI and SDK integrations for agent customization.
+
+- **Technical Stack**: Primarily Python-based, with 1,363 stars and 216 forks, last updated July 3, 2026, focusing on agentic workflows and skill development.
 
 ## Why It Matters
 
@@ -44,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Prat011
-- Stars: 1362
+- Stars: 1363
 - Forks: 216
 - Language: Python
 - Topics: anthropic, awesome-list, awesome-lists, claude-code, claude-skills, claude-skills-creator, codex, codex-cli, gemini, gemini-cli, llama, llms, openai, opencode, qwen, qwen-coder, skills
-- Last Updated: 2026-07-03T16:46:56Z
+- Last Updated: 2026-07-03T18:12:33Z
 - Archived: No
 - Created At: 2025-10-22T06:15:37Z
 - Pushed At: 2026-06-23T07:39:26Z

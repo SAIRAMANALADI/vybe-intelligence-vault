@@ -14,8 +14,8 @@ tags:
 - agents
 - frontend_ui
 - github-repo
+- reddit
 - typescript
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Language Best Practices Repository**: Curated collection of coding standards and best practices for 15+ programming languages and frameworks (TypeScript, Go, Kotlin, React, Spring Boot, etc.) to guide AI agents in adhering to framework-specific conventions.
+- **Multi-Language Best Practices Repository**: Curated collection of coding standards and best practices for AI agents across TypeScript, Kotlin, Go, Java (Spring Boot), PHP (Laravel), Dart (Flutter), and more, ensuring framework-specific compliance.
 
-- **Agent-Oriented Standards**: Designed to enforce structured, maintainable, and scalable code patterns for AI-driven development workflows, including Cursor Rules and AI-specific linting configurations.
+- **Agent-Oriented Development Standards**: Defines structured guidelines (e.g., Cursor Rules, NestJS/Angular/React patterns) to optimize AI agent interactions with frameworks, enhancing code consistency and maintainability.
 
-- **Active Maintenance &
+- **Active Maintenanc
 
 ## Use Cases
 

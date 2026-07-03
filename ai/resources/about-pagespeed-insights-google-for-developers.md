@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/speed/docs/insights/v5/about
-published_at: '2026-06-26T02:02:26.082489+05:30'
-collected_at: '2026-06-26T02:02:26.082501+05:30'
+published_at: '2026-07-04T01:28:25.754103+05:30'
+collected_at: '2026-07-04T01:28:25.754114+05:30'
 tags:
 - creative_dev
 - dataset
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:about-pagespeed-insights-google-for-developers
-first_seen: '2026-06-26T02:02:26.082501+05:30'
-last_seen: '2026-06-26T02:02:26.082501+05:30'
-last_checked: '2026-06-26T02:02:26.082501+05:30'
+first_seen: '2026-07-04T01:28:25.754114+05:30'
+last_seen: '2026-07-04T01:28:25.754114+05:30'
+last_checked: '2026-07-04T01:28:25.754114+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **PageSpeed Insights (PSI)** evaluates web page performance using both **real-world (CrUX)** and **lab (Lighthouse)** data, reporting metrics like FCP, LCP, CLS, INP, and TTFB, with categorization into Good/Needs Improvement/Poor based on predefined thresholds.
-- **Core Web Vitals (LCP, CLS, INP)** are assessed at the 75th percentile to ensure pages meet quality thresholds for the majority of users, with aggregation requiring sufficient data across all three metrics for a passing assessment.
-- **Lab diagnostics** via Lighthouse provide scored audits (Performance, Accessibility, Best Practices, SEO) under simulated mid-tier device and network conditions, while field data from CrUX reflects anonymized real-user experiences over a 28-day trailing period.
+- **PageSpeed Insights (PSI)** evaluates web page performance using both **real-world data** (Chrome User Experience Report) and **lab data** (Lighthouse), measuring metrics like **FCP, LCP, CLS, INP, and TTFB** to provide optimization insights.
+- **Core Web Vitals** (LCP, CLS, INP) are assessed at the 75th percentile to ensure quality experiences under varied device/network conditions, with thresholds defining **Good (0-1800ms FCP, 0-2500ms LCP, 0-0.1 CLS, 0-200ms INP)**.
+- **Lab diagnostics** via Lighthouse simulate mid-tier mobile (Moto G4) and desktop environments, scoring performance, accessibility, best practices, and SEO, while field data (CrUX) updates daily (vs. monthly BigQuery) for trailing 28-day periods.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-26T02:02:26.082489+05:30
+- Published: 2026-07-04T01:28:25.754103+05:30
 
 ## Related Tags
 

@@ -4,13 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-07-03T22:17:27.567942+05:30'
+collected_at: '2026-07-04T01:21:41.424199+05:30'
 published_at: '2026-07-02T14:21:51Z'
 tags:
 - benchmark
 - github-repo
+- meta-ai
+- models
 - python
 - rag
+- workflows
 stars: 959
 language: Python
 status: active
@@ -18,9 +21,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-07-03T22:17:27.567942+05:30'
-last_seen: '2026-07-03T22:17:27.567942+05:30'
-last_checked: '2026-07-03T22:17:27.567942+05:30'
+first_seen: '2026-07-04T01:21:41.424199+05:30'
+last_seen: '2026-07-04T01:21:41.424199+05:30'
+last_checked: '2026-07-04T01:21:41.424199+05:30'
 health_score: 100
 ---
 
@@ -28,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline leveraging local language models (LLMs) for offline inference, reducing dependency on cloud-based APIs.
-- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval relevance with evolving data.
-- **Testing & Evaluation Framework**: Includes structured testing protocols (e.g., retrieval accuracy, response quality) to benchmark RAG performance under varying conditions.
+- **Local LLM Integration**: Demonstrates advanced RAG workflows using locally hosted large language models (LLMs) via frameworks like Ollama or LM Studio, eliminating cloud dependency.
+
+- **Dynamic Database Updates**: Implements automated ingestion pipelines for updating vector databases (e.g., Chroma, Weaviate) with new documents, ensuring real-time knowledge base synchronization.
+
+- **Testing & Evaluation**: Includes structured testing methodologies (e.g., RAGAS, TruLens) to benchmark retrieval accuracy, response relevance, and latency for iterative optimization.
 
 ## Why It Matters
 

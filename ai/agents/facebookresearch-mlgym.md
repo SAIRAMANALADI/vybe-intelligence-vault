@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/MLGym
-collected_at: '2026-07-03T22:20:17.771656+05:30'
+collected_at: '2026-07-04T01:24:31.581217+05:30'
 published_at: '2026-07-01T12:27:01Z'
 tags:
 - agents
 - benchmark
+- dataset
 - github-repo
-- leaderboard
 - python
-- scripts
+- workflows
 stars: 610
 language: Python
 status: active
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-02-18T18:26:47Z'
 pushed_at: '2025-08-10T20:00:53Z'
 resource_id: github:facebookresearch/mlgym
-first_seen: '2026-07-03T22:20:17.771656+05:30'
-last_seen: '2026-07-03T22:20:17.771656+05:30'
-last_checked: '2026-07-03T22:20:17.771656+05:30'
+first_seen: '2026-07-04T01:24:31.581217+05:30'
+last_seen: '2026-07-04T01:24:31.581217+05:30'
+last_checked: '2026-07-04T01:24:31.581217+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework & Benchmark**: MLGym introduces a modular Python framework for training and evaluating AI research agents, paired with a benchmark suite to standardize progress in autonomous research capabilities.
+- **Framework for AI Research Agents**: MLGym provides a modular Python framework designed to standardize and accelerate AI research workflows by enabling automated experimentation, benchmarking, and reproducibility across diverse tasks.
 
-- **Modular Design**: The framework supports customizable agent architectures, task environments, and evaluation metrics, enabling reproducible experimentation across diverse research scenarios.
+- **Benchmark Suite**: Includes a comprehensive benchmark suite with standardized tasks, metrics, and datasets to evaluate AI research agents' performance, facilitating fair comparisons and progress tracking in AI research.
 
-- **Benchmark Suite**: Includes standardized tasks (e.g., hyperparameter optimization, neural architecture search) with leaderboards to track agent performance and foster reproducibility in AI research automation.
+- **Scalability & Extensibility**: Supports distributed computing and customizable pipelines, allowing researchers to scale experiments and integrate new algorithms or tasks seamlessly while maintaining reproducibility.
 
 ## Why It Matters
 

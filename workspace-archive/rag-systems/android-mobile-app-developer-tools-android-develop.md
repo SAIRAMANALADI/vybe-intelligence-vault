@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Google Play Billing Updates**: Google Play introduced expanded billing flexibility, reduced fees, and new programs to enhance developer monetization, with detailed updates available via [blog](http://goo.gle/playdev-q3-updates) and [video](https://www.youtube.com/watch?v=hcvvo6Sag0Q).
+- **Google Play Billing Updates**: Google Play is introducing expanded billing flexibility, reduced fees, and new programs to enhance developer monetization, with details available in the [Q3 updates](http://goo.gle/playdev-q3-updates) and a [video overview](https://www.youtube.com/watch?v=hcvvo6Sag0Q).
 
-- **Android 17 & XR Platform**: Android 17 (API 37) is now live on AOSP with Pixel rollout; Android XR expands engine support and resources for immersive app development across the ecosystem.
-
-- **Android Stud
+- **Android 17 & XR Platform**: Android 17 (API 37) is now available via AOSP, with Pixel rollouts starting; the platform also expands XR support, offering new tools for building, testing, and s
 
 ## Use Cases
 

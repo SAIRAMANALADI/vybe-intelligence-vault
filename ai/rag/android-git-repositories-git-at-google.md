@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://android.googlesource.com
-published_at: '2026-07-02T20:11:57.754097+05:30'
-collected_at: '2026-07-02T20:11:57.754121+05:30'
+published_at: '2026-07-04T01:29:41.183827+05:30'
+collected_at: '2026-07-04T01:29:41.183842+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-07-02T20:11:57.754121+05:30'
-last_seen: '2026-07-02T20:11:57.754121+05:30'
-last_checked: '2026-07-02T20:11:57.754121+05:30'
+first_seen: '2026-07-04T01:29:41.183842+05:30'
+last_seen: '2026-07-04T01:29:41.183842+05:30'
+last_checked: '2026-07-04T01:29:41.183842+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Official Android Git Repository**: Hosted at `android.googlesource.com`, this is the canonical source for Android OS, kernel, device-specific code, and accessory support (e.g., `device/google/`, `device/generic/`), including hardware-specific implementations for platforms like `akita`, `bluejay`, and `coral`.
+- **Git Repository Hosting**: The [Android Open Source Project (AOSP)](https://android.googlesource.com/) provides a centralized Git repository hosting platform for Android-related projects, including device-specific configurations, kernels, and accessory support.
 
-- **Device-Specific Branches & Kernels**: Many device directories (e.g., `device/google/bluejay-kernel/`, `device/google/akita-kernels/6.1/`) include kernel branches for specific Android versions (e.g., 5.10, 6.1), alongside device-specific sepolicy (SELinux policy) configurations for security enforcement.
+- **Device-Specific Repositories**: Contains over 200 device-specific repositories (e.g., `device/google/bluejay`, `device/asus/flo`) with kernel (`*-kernel`), SELinux policy (`*-sepolicy`), and variant-specific branches (e.g., `5.10`, `6.1` kernel versions).
 
-- **Accessory & Emulation Support**: Includes Android accessory frameworks (e.g., `device/google/accessory/arduino/`, `device/google/accessory/demokit/`) and emulator/device emulation targets (e.g., `device/generic/goldfish`, `device/generic/qemu`) for development and testing.
+- **Code Review & Access Control**: Uses Gerrit for code review (`https://android-review.googlesource.com/`) with OAuth2-based authentication (`https://accounts.google.com/o/oauth2/auth`) and password management (`https://security.google.com/settings/security/permissions`).
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T20:11:57.754097+05:30
+- Published: 2026-07-04T01:29:41.183827+05:30
 
 ## Related Tags
 

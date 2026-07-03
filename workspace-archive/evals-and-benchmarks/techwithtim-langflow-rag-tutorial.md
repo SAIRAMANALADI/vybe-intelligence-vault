@@ -8,15 +8,18 @@ local_vault_path: ai/rag/techwithtim-langflow-rag-tutorial.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
+- hackernews
+- openai
 - rag
 - unknown
+- workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # techwithtim/Langflow-RAG-Tutorial
@@ -25,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Repository Status**: Last updated on 2026-06-29, with 95 stars and 25 forks, but no language or topic metadata available.
-- **Purpose**: Unspecified (no description provided in the repository metadata).
-- **Content Focus**: Implied to cover Langflow and RAG (Retrieval-Augmented Generation) integration, though details are undocumented.
+- **Repository Purpose**: Tutorial for implementing Retrieval-Augmented Generation (RAG) using Langflow, a visual framework for building LLM workflows.
+- **Technical Stack**: Likely integrates Langchain, vector databases (e.g., Chroma, FAISS), and LLM APIs (e.g., OpenAI, HuggingFace) for RAG pipelines.
+- **Last Update**: Repository was last modified on **July 3, 2026**, indicating active maintenance or recent development.
 
 ## Use Cases
 

@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive AI Agent Resource**: Curated list of 300+ AI agents, frameworks, and tools, spanning 20+ categories, with monthly updates.
-- **Technical Breadth**: Covers key AI domains including LLMs, LangChain, ChatGPT, and machine learning, targeting 2026 advancements.
-- **Active Maintenance**: Last updated July 3, 2026, ensuring relevance with high community engagement (1,378 stars, 446 forks).
+- **Comprehensive AI Agent Resource Hub**: Curated list of 300+ AI agents, frameworks, and tools across 20+ categories, updated monthly as of July 2026.
+- **Technical Scope**: Covers ChatGPT, LangChain, LLMs, and machine learning tools with a focus on AI agent architectures and applications.
+- **High Community Engagement**: 1,378 stars and 446 forks, indicating strong community adoption and collaborative maintenance.
 
 ## Use Cases
 

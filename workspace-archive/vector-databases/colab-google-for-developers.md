@@ -8,7 +8,7 @@ local_vault_path: ai/rag/colab-google-for-developers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: prompt
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -26,17 +26,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: prompt
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Zero-Setup Cloud Notebooks**: Hosted Jupyter Notebook service with pre-configured runtimes (GPUs/TPUs) requiring no local setup, enabling instant execution of ML projects.
-
-- **AI-Driven Code Assistance**: Integrates Gemini AI for real-time code generation, debugging, autonomous data analysis, and effortless transformation of existing code via natural language prompts.
-
-- **Enterprise-Grade Features**: Supports IAM-secured collaborative workspaces, regional storage via Dataform, and scalable
+- **Zero-setup, cloud-hosted Jupyter Notebooks** with pre-configured runtimes, offering instant access to GPUs/TPUs for ML acceleration without local setup.
+- **AI-driven coding assistant (Gemini)** integrated into notebooks for natural language code generation, debugging, autonomous analysis, and effortless transformation of existing code.
+- **Enterprise-grade features** including IAM-secured workspaces, regional storage via Dataform, and scalable compute with Pro/Pro+ tiers offering extended e
 
 ## Use Cases
 

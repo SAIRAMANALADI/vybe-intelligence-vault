@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-published_at: '2026-07-02T01:57:27.958554+05:30'
-collected_at: '2026-07-02T01:57:27.958566+05:30'
+published_at: '2026-07-04T01:28:23.587381+05:30'
+collected_at: '2026-07-04T01:28:23.587390+05:30'
 tags:
 - dataset
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:open-government-licence
-first_seen: '2026-07-02T01:57:27.958566+05:30'
-last_seen: '2026-07-02T01:57:27.958566+05:30'
-last_checked: '2026-07-02T01:57:27.958566+05:30'
+first_seen: '2026-07-04T01:28:23.587390+05:30'
+last_seen: '2026-07-04T01:28:23.587390+05:30'
+last_checked: '2026-07-04T01:28:23.587390+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Licensing Terms**: Grants worldwide, royalty-free, perpetual, non-exclusive use of public sector information under OGL v3.0, permitting copying, adaptation, commercial/non-commercial exploitation, and combination with other data, subject to attribution requirements.
+- **Licence Terms**: Grants worldwide, royalty-free, perpetual, non-exclusive rights to use, adapt, and commercially exploit public sector information under specified conditions, including mandatory source attribution (e.g., "Contains public sector information licensed under the Open Government Licence v3.0").
 
-- **Exclusions & Restrictions**: Excludes personal data, unpublished/unreleased information, logos/crests (unless integral), military insignia, third-party rights, patents, trademarks, and identity documents; prohibits use implying official endorsement.
+- **Exclusions & Restrictions**: Excludes personal data, unpublished/unreleased information, logos/crests, military insignia, third-party rights, and specific identity documents; prohibits use implying official endorsement or violating governing law.
 
-- **Liability & Compliance**: Information provided "as is" with no warranties; licensors are not liable for errors, omissions, or damages; non-compliance with attribution terms automatically revokes granted rights.
+- **Liability & Compliance**: Information provided "as is" with no warranties; licensor not liable for errors, omissions, or damages; failure to comply with attribution terms automatically revokes granted rights.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T01:57:27.958554+05:30
+- Published: 2026-07-04T01:28:23.587381+05:30
 
 ## Related Tags
 

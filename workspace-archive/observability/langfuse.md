@@ -6,7 +6,7 @@ source_url: https://langfuse.com
 resource_id: blog:langfuse
 local_vault_path: ai/rag/langfuse.md
 quality_score: 70
-archive_score: 80
+archive_score: 76
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 80 (useful)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Scalability Metrics**: Processes **10+ billion observations/month** with **100,000+ engineers** leveraging the platform, including **19 of the Fortune 50** enterprises.
+- **Scalability & Adoption**: Supports **10+ billion observations/month**, used by **19 of the Fortune 50**, with **100,000+ engineers** building on the platform.
 
-- **Core Capabilities**: Provides **end-to-end LLM observability**, including hierarchical tracing, prompt management, evaluation (LLM-as-a-judge, heuristics, human review), experiments, and cost/latency monitoring in a single integrated workflow.
+- **Core Features**: Provides **end-to-end LLM observability** (traces, metrics, cost/latency monitoring), **prompt management**, **evaluation tools** (LLM-as-a-judge, human review), and **collaborative experimentation** for AI agents/products.
 
-- **Multi-Language & Framework Support**: Compatible with **any stack** via O
+- **Multi-Framework & Multi-Model Support**: Compatible with **100+ integrations** (e.g.,
 
 ## Use Cases
 

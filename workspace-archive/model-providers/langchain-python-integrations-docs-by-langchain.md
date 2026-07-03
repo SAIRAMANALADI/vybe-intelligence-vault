@@ -8,7 +8,7 @@ local_vault_path: ai/rag/langchain-python-integrations-docs-by-langchain.md
 quality_score: 70
 archive_score: 80
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - anthropic
@@ -21,7 +21,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # LangChain Python integrations - Docs by LangChain
@@ -30,16 +30,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 80 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- LangChain provides **1000+ integrations** across chat/embedding models, tools, document loaders, and vector stores via dedicated `langchain-<provider>` packages (e.g., `langchain-openai`, `langchain-google-vertexai`), enabling consistent API usage across providers.
-- Each provider package implements **standard LangChain interfaces** (e.g., chat models, embeddings, vector stores), allowing seamless provider swapping without code changes by specifying the target model name.
-- The ecosystem inclu
+- LangChain provides **1000+ integrations** across AI models, tools, document loaders, and vector stores via dedicated `langchain-<provider>` packages, enabling consistent API usage across providers (e.g., OpenAI, Anthropic, Google) with minimal code changes.
+
+- **Popular providers** include OpenAI (`langchain-openai`), Google (Vertex AI/`langchain-google-vertexai`), Anthropic (`langchain-anthropic`), AWS (`langchain-aws`), and Ollama (`langchain-ollama`), each offering Python/JS/TS SDKs for sea
 
 ## Use Cases
 

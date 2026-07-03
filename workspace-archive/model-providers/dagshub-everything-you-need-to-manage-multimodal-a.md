@@ -2,13 +2,13 @@
 title: 'DagsHub: Everything you need to manage multimodal AI'
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://dagshub.com
+source_url: https://dagshub.com/
 resource_id: blog:dagshub-everything-you-need-to-manage-multimodal-a
 local_vault_path: ai/rag/dagshub-everything-you-need-to-manage-multimodal-a.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - dataset
@@ -19,7 +19,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # DagsHub: Everything you need to manage multimodal AI
@@ -28,18 +28,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Unified AI Data & Model Management Platform**: Supports curation, annotation, and versioning of multimodal datasets (vision, audio, LLM) with lineage tracking, experiment management, and model registry, integrating with MLflow and cloud/on-prem storage.
+- **Unified AI Data & Model Management**: Platform supports multimodal dataset curation/annotation, experiment tracking (MLflow-compatible), and model versioning/deployment with lineage, integrating with existing ML frameworks and cloud storage.
 
-- **Tiered Pricing & Scalability**:
-  - **Individual**: Free tier with public repos, 100 private experiments, 2 collaborators, and 20GB storage.
-  - **Team**: $99/user/month with private repos, multimodal auto-labeling, 1TB storage, and RBAC
+- **Tiered Pricing & Scalability**: Free tier for individuals (20GB storage, 100 private experiments); Team tier ($99/user/month) adds private repos, multimodal auto-labeling, and 1TB storage; Enterprise offers petabyte-scale storage, VPC/air-gapped dep
 
 ## Use Cases
 
@@ -49,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://dagshub.com
+Original source URL: https://dagshub.com/
 
 ## Local Vault File
 

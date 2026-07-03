@@ -4,15 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://ico.org.uk/global/contact-us/
-published_at: '2026-07-03T03:56:06.785676+05:30'
-collected_at: '2026-07-03T03:56:06.785689+05:30'
+published_at: '2026-07-04T01:27:07.298256+05:30'
+collected_at: '2026-07-04T01:27:07.298269+05:30'
 tags:
+- hackernews
 - web-crawled
 status: active
 resource_id: blog:contact-us-ico
-first_seen: '2026-07-03T03:56:06.785689+05:30'
-last_seen: '2026-07-03T03:56:06.785689+05:30'
-last_checked: '2026-07-03T03:56:06.785689+05:30'
+first_seen: '2026-07-04T01:27:07.298269+05:30'
+last_seen: '2026-07-04T01:27:07.298269+05:30'
+last_checked: '2026-07-04T01:27:07.298269+05:30'
 health_score: 100
 ---
 
@@ -20,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Service Unavailability**: ICO's helpline and live chat services are currently non-operational, causing potential disruptions in user support.
-- **Global Access**: The [ICO Global](https://ico.org.uk/global/) page remains accessible despite service outages.
-- **User Impact**: Apology issued for inconvenience; no alternative support methods provided in the announcement.
+- No substantive content provided in the linked resource; only navigation and contact links are present.
+- The "Global" section of the ICO website likely aggregates international data protection resources but lacks specific technical details in the referenced link.
+- Contact information is standard and does not include technical specifications or research-oriented content.
 
 ## Why It Matters
 
@@ -32,10 +33,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-03T03:56:06.785676+05:30
+- Published: 2026-07-04T01:27:07.298256+05:30
 
 ## Related Tags
 
+- hackernews
 - web-crawled
 
 ## Source

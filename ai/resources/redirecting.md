@@ -1,30 +1,28 @@
 ---
-title: Redirecting
+title: Redirecting…
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.percona.com/percona-monitoring-and-management
-published_at: '2026-06-24T22:53:05.694329+05:30'
-collected_at: '2026-06-24T22:53:05.694341+05:30'
+source_url: https://web-platform-dx.github.io/web-features/
+published_at: '2026-07-04T01:28:26.260740+05:30'
+collected_at: '2026-07-04T01:28:26.260748+05:30'
 tags:
-- hackernews
-- reddit
 - web-crawled
 status: active
 resource_id: blog:redirecting
-first_seen: '2026-06-24T22:53:05.694341+05:30'
-last_seen: '2026-06-24T22:53:05.694341+05:30'
-last_checked: '2026-06-24T22:53:05.694341+05:30'
+first_seen: '2026-07-04T01:28:26.260748+05:30'
+last_seen: '2026-07-04T01:28:26.260748+05:30'
+last_checked: '2026-07-04T01:28:26.260748+05:30'
 health_score: 100
 ---
 
-# Redirecting
+# Redirecting…
 
 ## Summary
 
-- **Percona 3.x Documentation**: Comprehensive technical documentation for Percona's open-source database solutions, including MySQL, MongoDB, and PostgreSQL variants.
-- **Key Features**: Highlights performance optimization, scalability enhancements, and advanced monitoring/management tools for database operations.
-- **Deployment & Integration**: Provides detailed guides for containerized (Docker/Kubernetes) and bare-metal deployments, with integration support for cloud and hybrid environments.
+- **Resource Relocation**: The page has been moved to a new URL.
+- **Redirect Mechanism**: Automatic redirection is implemented; fallback provided via clickable link.
+- **New Location**: Updated content accessible at [https://web-platform-dx.github.io/baseline/](https://web-platform-dx.github.io/baseline/).
 
 ## Why It Matters
 
@@ -34,14 +32,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T22:53:05.694329+05:30
+- Published: 2026-07-04T01:28:26.260740+05:30
 
 ## Related Tags
 
-- hackernews
-- reddit
 - web-crawled
 
 ## Source
 
-Original source: https://docs.percona.com/percona-monitoring-and-management
+Original source: https://web-platform-dx.github.io/web-features/

@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - dataset
 - github-repo
 - python
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Optimization Toolkit**: Provides a Python-based framework for constructing production-grade Retrieval Augmented Generation (RAG) systems, optimizing data retrieval and generation pipelines.
+- **RAG Optimization Toolkit**: Python-based framework (`ragbuilder`) designed to streamline the creation of production-grade Retrieval Augmented Generation (RAG) pipelines, emphasizing scalability and deployment readiness.
 
-- **Modular Architecture**: Implements customizable components (e.g., embedders, retrievers, LLMs) to adapt to diverse datasets and use cases, ensuring scalability and performance.
+- **Modular Architecture**: Implements a plug-and-play structure for components (e.g., embedders, retrievers, LLMs) with configurable pipelines to optimize retrieval-augmented generation workflows for specific datasets.
 
-- **Open-Source & Community-Driven**: Actively maintained (last updated July 2026) with 1.5K+ GitHub stars, fostering c
+- **Key Features**: Supports automated evaluation metr
 
 ## Use Cases
 

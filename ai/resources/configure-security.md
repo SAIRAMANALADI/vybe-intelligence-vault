@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/security/
-published_at: '2026-07-03T20:10:08.350918+05:30'
-collected_at: '2026-07-03T20:10:08.350933+05:30'
+published_at: '2026-07-04T01:26:22.460125+05:30'
+collected_at: '2026-07-04T01:26:22.460134+05:30'
 tags:
 - frontend_ui
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-security
-first_seen: '2026-07-03T20:10:08.350933+05:30'
-last_seen: '2026-07-03T20:10:08.350933+05:30'
-last_checked: '2026-07-03T20:10:08.350933+05:30'
+first_seen: '2026-07-04T01:26:22.460134+05:30'
+last_seen: '2026-07-04T01:26:22.460134+05:30'
+last_checked: '2026-07-04T01:26:22.460134+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,15 @@ health_score: 100
 
 ## Summary
 
-- **Default Security Policy**: Hugo enforces a restrictive security policy by default, blocking `os/exec`, remote communication, and other sensitive operations unless explicitly allowed via allowlists (e.g., `exec.allow` permits `^(dart-)?sass(-embedded)?$`, `^go$`, `^git$`).
+- **Default Deny Policy**: Hugo enforces a restrictive default security policy via allowlists, blocking `os/exec`, remote communication, and other sensitive operations unless explicitly permitted; violations trigger detailed error messages.
 
-- **Content & Environment Controls**: `allowContent` restricts HTML content in `content/` (denied by default), while `exec.osEnv` and `funcs.getenv` whitelist OS environment variables (e.g., `^HUGO_`, `^CI$`) for security-sensitive functions.
+- **Configurable Security Parameters**:
+  - **Content/Execution**: `allowContent` (denies HTML by default), `exec.allow` (whitelists binaries like `sass`, `git`, `node`), `exec.osEnv` (restricts OS env vars).
+  - **HTTP/Node.js**: `http.urls` (whitelists/blacklists URLs), `node.permissions` (controls Node.js tool access to FS/addons/workers).
 
-- **Node.js & HTTP Permissions**: Node.js tools (e.g., `tailwindcss`) are sandboxed via `node.permissions` (read/write/child process restrictions), and `http.urls`/`methods` control remote resource access (e.g., blocking `localhost` or `evil.example.com`).
+- **Negation & Override Rules**:
+  - Patterns prefixed with `!` act as deny rules (e.g., `! ^text/html$` blocks HTML content).
+  - Environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none`) can override settings dynamically.
 
 ## Why It Matters
 
@@ -36,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-03T20:10:08.350918+05:30
+- Published: 2026-07-04T01:26:22.460125+05:30
 
 ## Related Tags
 

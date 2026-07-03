@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **PageSpeed Insights (PSI)** evaluates web page performance using both **real-world (CrUX)** and **lab (Lighthouse)** data, reporting metrics like FCP, LCP, CLS, INP, and TTFB, with categorization into Good/Needs Improvement/Poor based on predefined thresholds.
-- **Core Web Vitals (LCP, CLS, INP)** are assessed at the 75th percentile to ensure pages meet quality thresholds for the majority of users, with aggregation requiring sufficient data across all three metrics for a passing assessment.
--
+- **PageSpeed Insights (PSI)** evaluates web page performance using both **real-world data** (Chrome User Experience Report) and **lab data** (Lighthouse), measuring metrics like **FCP, LCP, CLS, INP, and TTFB** to provide optimization insights.
+- **Core Web Vitals** (LCP, CLS, INP) are assessed at the 75th percentile to ensure quality experiences under varied device/network conditions, with thresholds defining **Good (0-1800ms FCP, 0-2500ms LCP, 0-0.1 CLS, 0-200ms INP)**.
+- **Lab diagnostics**
 
 ## Use Cases
 

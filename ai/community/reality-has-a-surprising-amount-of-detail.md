@@ -13,13 +13,14 @@ collected_at: '2026-07-03T22:16:38.881006+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:reality-has-a-surprising-amount-of-detail-2017
 first_seen: '2026-07-03T03:50:16.797138+05:30'
 last_seen: '2026-07-03T22:16:38.881006+05:30'
 last_checked: '2026-07-03T22:16:38.881006+05:30'
 health_score: 100
 ---
+
 
 # Reality has a surprising amount of detail (2017)
 

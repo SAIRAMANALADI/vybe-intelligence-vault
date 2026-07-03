@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/techwithtim/Langflow-RAG-Tutorial
-collected_at: '2026-07-03T22:17:32.563107+05:30'
+collected_at: '2026-07-04T01:21:46.366216+05:30'
 published_at: '2026-07-03T04:57:47Z'
 tags:
 - github-repo
+- hackernews
+- openai
 - rag
 - unknown
 - workflows
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-04-17T10:56:19Z'
 pushed_at: '2024-07-18T10:50:24Z'
 resource_id: github:techwithtim/langflow-rag-tutorial
-first_seen: '2026-07-03T22:17:32.563107+05:30'
-last_seen: '2026-07-03T22:17:32.563107+05:30'
-last_checked: '2026-07-03T22:17:32.563107+05:30'
+first_seen: '2026-07-04T01:21:46.366216+05:30'
+last_seen: '2026-07-04T01:21:46.366216+05:30'
+last_checked: '2026-07-04T01:21:46.366216+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (96 ⭐, 25 🍴) – No description, topics, or language metadata provided.
-- **Last Update**: 2026-07-03T04:57:47Z – Indicates future-dated commit (potential placeholder or error).
-- **Content**: Likely a tutorial repository for **Langflow** (RAG workflows), though specifics are unverified due to missing metadata.
+- **Repository Purpose**: Tutorial for implementing Retrieval-Augmented Generation (RAG) using Langflow, a visual framework for building LLM workflows.
+- **Technical Stack**: Likely integrates Langchain, vector databases (e.g., Chroma, FAISS), and LLM APIs (e.g., OpenAI, HuggingFace) for RAG pipelines.
+- **Last Update**: Repository was last modified on **July 3, 2026**, indicating active maintenance or recent development.
 
 ## Why It Matters
 

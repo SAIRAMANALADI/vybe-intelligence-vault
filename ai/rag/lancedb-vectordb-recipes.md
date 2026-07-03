@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-03T22:17:32.590301+05:30'
+collected_at: '2026-07-04T01:21:46.387286+05:30'
 published_at: '2026-06-30T08:00:12Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-03T22:17:32.590301+05:30'
-last_seen: '2026-07-03T22:17:32.590301+05:30'
-last_checked: '2026-07-03T22:17:32.590301+05:30'
+first_seen: '2026-07-04T01:21:46.387286+05:30'
+last_seen: '2026-07-04T01:21:46.387286+05:30'
+last_checked: '2026-07-04T01:21:46.387286+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI workflows, integrating vector search with LLMs (e.g., GPT-4-Vision, LlamaIndex, LangChain).
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based tutorials for Retrieval-Augmented Generation (RAG) and multimodal AI applications using vector search and LLMs, including examples with GPT-4 Vision and OpenAI embeddings.
 
-- **Vector Database Recipes**: Demonstrates practical use cases of LanceDB (a vector database) for efficient similarity search, embeddings management, and fine-tuning pipelines in AI/ML applications.
+- **Integration with Vector Databases & Frameworks**: Demonstrates workflows leveraging LanceDB (vector database), LangChain, and LlamaIndex for efficient embedding storage, retrieval, and agent-based AI systems.
 
-- **Agent & LLM Integration**: Includes tutorials on deploying agents with vector search, combining OpenAI APIs, deep learning models, and multimodal embeddings for production-grade AI systems.
+- **Fine-Tuning & Embedding Optimization**: Includes examples for fine-tuning models, optimizing embeddings, and deploying multimodal pipelines with tools like PyTorch and Hugging Face for deep learning applications.
 
 ## Why It Matters
 

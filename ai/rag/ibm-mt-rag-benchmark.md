@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IBM/mt-rag-benchmark
-collected_at: '2026-07-03T22:18:32.631757+05:30'
+collected_at: '2026-07-04T01:22:46.389028+05:30'
 published_at: '2026-06-26T15:53:38Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - python
 - rag
 stars: 145
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-12-17T19:26:10Z'
 pushed_at: '2026-05-01T18:23:01Z'
 resource_id: github:ibm/mt-rag-benchmark
-first_seen: '2026-07-03T22:18:32.631757+05:30'
-last_seen: '2026-07-03T22:18:32.631757+05:30'
-last_checked: '2026-07-03T22:18:32.631757+05:30'
+first_seen: '2026-07-04T01:22:46.389028+05:30'
+last_seen: '2026-07-04T01:22:46.389028+05:30'
+last_checked: '2026-07-04T01:22:46.389028+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Turn RAG Evaluation Framework**: A specialized benchmark for assessing multi-turn Retrieval-Augmented Generation (RAG) systems, focusing on conversational context retention and iterative retrieval quality.
-- **Python-Based Implementation**: Provides a structured codebase for benchmarking, including dataset handling, evaluation metrics, and baseline model comparisons.
-- **Last Updated (2026-06-26)**: Repository includes recent updates, ensuring compatibility with modern RAG architectures and evaluation methodologies.
+- **Benchmark Design**: Multi-Turn Retrieval-Augmented Generation (RAG) evaluation framework assessing conversational context retention, dynamic retrieval, and multi-step reasoning across extended dialogues.
+- **Technical Components**: Python-based implementation with standardized datasets, evaluation metrics (e.g., answer correctness, context relevance, turn-level accuracy), and modular pipeline for integrating custom RAG models.
+- **Validation Scope**: Tests long-context handling, iterative query refinement, and cross-turn dependency resolution with open-source tooling for reproducibility and extensibility.
 
 ## Why It Matters
 

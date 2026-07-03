@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
-- dataset
 - github-repo
 - hackernews
 - python
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements advanced retrieval-augmented generation (RAG) techniques with Python, focusing on optimizing large model performance through hybrid retrieval (dense + sparse) and adaptive chunking strategies.
-
-- **Evaluation & Benchmarking**: Includes a modular evaluation pipeline for assessing RAG systems across metrics like retrieval precision, generation coherence, and latency, with support for custom datasets and metrics.
-
-- **Deployment-Ready Components**: Provi
+- **RAG Optimization Framework**: Implements advanced retrieval-augmented generation (RAG) techniques in Python, focusing on optimizing large model performance through structured prompt engineering and dynamic context retrieval.
+- **Modular Architecture**: Features a scalable, modular design with configurable components for embedding models, vector databases, and response generation, enabling customization for domain-specific applications.
+- **Benchmarking & Evaluation**: Includes built-in evalu
 
 ## Use Cases
 

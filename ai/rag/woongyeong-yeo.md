@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://wgcyeo.github.io
-published_at: '2026-06-28T22:13:51.883202+05:30'
-collected_at: '2026-06-28T22:13:51.883214+05:30'
+published_at: '2026-07-04T01:24:46.868715+05:30'
+collected_at: '2026-07-04T01:24:46.868723+05:30'
 tags:
 - agents
 - benchmark
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:woongyeong-yeo
-first_seen: '2026-06-28T22:13:51.883214+05:30'
-last_seen: '2026-06-28T22:13:51.883214+05:30'
-last_checked: '2026-06-28T22:13:51.883214+05:30'
+first_seen: '2026-07-04T01:24:46.868723+05:30'
+last_seen: '2026-07-04T01:24:46.868723+05:30'
+last_checked: '2026-07-04T01:24:46.868723+05:30'
 health_score: 100
 ---
 
@@ -27,14 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Research Focus**: Develops Large Language Models (LLMs) with autonomous discovery and reasoning capabilities, leveraging universal retrieval across heterogeneous multimodal knowledge sources, structured memory systems for long-horizon tasks, and self-evolution via feedback mechanisms.
-
-- **Key Publications**:
-  - *WorldMM*: Dynamic multimodal memory agent for long video reasoning (CVPR 2026 Highlight).
-  - *UniversalRAG*: Retrieval-augmented generation over diverse modalities and granularities (ACL 2026 Oral).
-  - *Self-CI*: Complementary self-distillation for contextual integrity in LLMs (arXiv 2026).
-
-- **Technical Contributions**: Introduces frameworks for universal retrieval (e.g., UniversalRAG), dynamic memory integration (e.g., WorldMM), and self-distillation for contextual integrity and long-horizon agent optimization.
+- Research focus on **autonomous discovery and reasoning** in Large Language Models (LLMs) via **large-scale, diverse real-world knowledge integration**, including **heterogeneous multimodal retrieval**, **structured memory systems**, and **self-evolution mechanisms**.
+- Developed **UniversalRAG** (ACL 2026 Oral), enabling **retrieval-augmented generation across diverse modalities and granularities**, and **WorldMM** (CVPR 2026 Highlight), a **dynamic multimodal memory agent** for long video reasoning.
+- Introduced **complementary self-distillation techniques** (arXiv 2026) for **contextual integrity in LLMs**, enhancing reasoning consistency and long-horizon agent performance.
 
 ## Why It Matters
 
@@ -44,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T22:13:51.883202+05:30
+- Published: 2026-07-04T01:24:46.868715+05:30
 
 ## Related Tags
 

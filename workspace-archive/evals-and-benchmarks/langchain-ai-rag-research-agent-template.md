@@ -13,9 +13,9 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Template repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating structured AI research workflows.
-
-- **Key Components**: Likely includes modular Python scripts for document retrieval, prompt engineering, and agent orchestration, leveraging LangChain’s framework for LLM integration.
-
-- **Updates**: Last modified on **2026-06-24**, indicating active maintenance or recent development cycles.
+- **Purpose**: Template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating structured AI research workflows.
+- **Technical Stack**: Python-based, leveraging LangChain’s modular framework for LLM integration, document retrieval, and agent orchestration.
+- **Key Features**: Pre-configured agent architecture for iterative research tasks, with hooks for custom tool integration and prompt engineering.
 
 ## Use Cases
 

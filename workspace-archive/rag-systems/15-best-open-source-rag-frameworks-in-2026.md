@@ -6,7 +6,7 @@ source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
 local_vault_path: ai/rag/15-best-open-source-rag-frameworks-in-2026.md
 quality_score: 70
-archive_score: 74
+archive_score: 76
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Firecrawl**: AI-powered web scraping/crawling API converting dynamic websites into LLM-friendly markdown/structured data; includes `scrape()`/`crawl()` endpoints, LLM.txt generation, and deep research capabilities for RAG data ingestion.
+- **Firecrawl**: AI-powered web scraping/crawling API converting dynamic websites to LLM-friendly markdown/structured data; supports `scrape()`, `crawl()`, and `deep-research` endpoints for dataset enrichment in RAG pipelines.
 
-- **LlamaIndex**: Modular data framework bridging LLMs with private datasets via 300+ integrations; supports multi-modal indexing (vector/keyword/graph), custom query engines, and optimized retrieval pipelines for RAG applications.
+- **RAGFlow**: Open-source RAG engine with deep document parsing (PDFs/tables/layouts), GraphRAG support, and visual web UI; offers Python SDK + REST APIs with Elasticsearch/Infinity storage backends.
 
-- **Milvus**: Cloud-nati
+- **Milvus**: Cloud-native vector database optimized for billion-scale
 
 ## Use Cases
 

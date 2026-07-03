@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- GitHub user `tensorblue` has **0 public repositories, projects, or packages**, with **51 stars** across unspecified items.
-- User account is **unfollowed by default**, with **2 followers** and **0 following** at the time of inspection.
-- GitHub UI indicates **"Something went wrong"** when attempting to load repositories, suggesting potential account deactivation or API/data retrieval issues.
+- **GitHub Profile**: `tensorblue` is a GitHub user account with 51 stars, 2 followers, and no public repositories, projects, or packages as of the last update.
+- **User Status**: The account has no public activity (repositories/projects/packages) and is not following any users.
+- **Error State**: GitHub reports an error loading the profile, suggesting potential data retrieval or display issues.
 
 ## Use Cases
 

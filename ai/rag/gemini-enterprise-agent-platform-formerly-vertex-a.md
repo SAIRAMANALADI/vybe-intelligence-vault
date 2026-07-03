@@ -3,9 +3,9 @@ title: Gemini Enterprise Agent Platform (formerly Vertex AI) | Google Cloud
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://cloud.google.com/products/gemini-enterprise-agent-platform
-published_at: '2026-06-29T21:54:28.929781+05:30'
-collected_at: '2026-06-29T21:54:28.929798+05:30'
+source_url: https://cloud.google.com/vertex-ai
+published_at: '2026-07-04T01:27:18.117373+05:30'
+collected_at: '2026-07-04T01:27:18.117389+05:30'
 tags:
 - agents
 - anthropic
@@ -24,9 +24,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:gemini-enterprise-agent-platform-formerly-vertex-a
-first_seen: '2026-06-29T21:54:28.929798+05:30'
-last_seen: '2026-06-29T21:54:28.929798+05:30'
-last_checked: '2026-06-29T21:54:28.929798+05:30'
+first_seen: '2026-07-04T01:27:18.117389+05:30'
+last_seen: '2026-07-04T01:27:18.117389+05:30'
+last_checked: '2026-07-04T01:27:18.117389+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified Agent Development & Deployment**: Google Cloud's Gemini Enterprise Agent Platform provides a single environment for building, scaling, governing, and optimizing enterprise-grade AI agents, integrating Vertex AI tools with unified data/AI workflows and MLOps automation.
+- **Unified AI Agent Development**: Google Cloud's Gemini Enterprise Agent Platform integrates data, AI models (e.g., Gemini 3.5, Claude, Gemma), and MLOps tools into a single environment for building, scaling, and governing enterprise-grade agents with unified workflows.
 
-- **Multi-Model & Customization Support**: Supports 200+ models (Gemini 3.5, Anthropic Claude, Gemma) via Model Garden, with fine-tuning options, security controls, and evaluation services for objective model assessment.
+- **Model Customization & Evaluation**: Supports 200+ models with fine-tuning options (e.g., hyperparameter tuning, framework-agnostic training) and enterprise-grade evaluation via Model Evaluation service for objective model assessment.
 
-- **Agent Orchestration & Workflow Automation**: Features Google Antigravity for multi-agent orchestration (e.g., automated product launch workflows) and Agent Studio for prompt design/testing with multimodal inputs (text, images, video).
+- **Agent Orchestration & MLOps**: Features Google Antigravity for multi-agent workflow automation (e.g., code generation, asset creation) and modular MLOps tools (e.g., Model Registry, Feature Store, Pipelines) for lifecycle management, monitoring, and deployment.
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T21:54:28.929781+05:30
+- Published: 2026-07-04T01:27:18.117373+05:30
 
 ## Related Tags
 
@@ -70,4 +70,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://cloud.google.com/products/gemini-enterprise-agent-platform
+Original source: https://cloud.google.com/vertex-ai

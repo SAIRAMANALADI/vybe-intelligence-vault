@@ -6,8 +6,8 @@ source_url: https://haystack.deepset.ai/
 resource_id: blog:haystack-haystack
 local_vault_path: ai/rag/haystack-haystack.md
 quality_score: 70
-archive_score: 86
-archive_tier: essential
+archive_score: 82
+archive_tier: useful
 resource_kind: framework
 importance: high
 tags:
@@ -29,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 86 (essential)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack provides a transparent, modular framework for building production-ready AI agents, RAG systems, and context-engineered workflows with full visibility into retrieval, reasoning, memory, and tool integration.
+- **Modular AI Orchestration**: Open-source framework for building production-ready LLM-powered agents, RAG pipelines, and multimodal AI systems with full transparency, debugging, and optimization capabilities via modular components.
 
-- **Vendor-Neutral Integration**: Supports seamless integration with major AI models (OpenAI, Anthropic, Mistral) and vector databases (Weaviate, Pinecone, Elasticsearch) via an open architecture, avoiding vendor lock-in.
+- **Vendor-Agnostic Integration**: Supports seamless integration with major AI/ML tools (OpenAI, Hugging Face, Weaviate, etc.) and cloud-agnostic deployment (Kubernetes-ready) with no vendor lock-in.
 
-- **Enterprise-Scale Deploym
+- **Enterprise-Grade Scalability**: Offers enterprise support, v
 
 ## Use Cases
 

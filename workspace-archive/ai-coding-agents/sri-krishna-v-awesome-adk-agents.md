@@ -16,6 +16,7 @@ tags:
 - hackernews
 - python
 - scripts
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Curated collection of AI agents built with Google's Agent Development Kit (ADK), featuring templates, best practices, and production-ready examples across research, business, automation, and education.
-- **Technical Stack**: Primarily Python-based, supporting ADK-Python and ADK-Web, with integration for Gemini AI and multi-agent systems.
-- **Metadata**: 328 stars, 47 forks, last updated July 2, 2026; includes topics like agentic AI, agent-samples, and Google ADK.
+- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google's Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
+- **Technical Scope**: Focuses on ADK-Python and ADK-Web implementations, with support for multi-agent systems, agentic AI workflows, and integration with Google's Gemini AI models.
+- **Metadata**: 329 stars, 47 forks, primarily Py
 
 ## Use Cases
 

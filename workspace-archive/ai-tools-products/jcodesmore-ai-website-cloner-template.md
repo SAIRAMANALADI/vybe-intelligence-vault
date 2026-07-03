@@ -15,6 +15,7 @@ tags:
 - anthropic
 - frontend_ui
 - github-repo
+- hackernews
 - scripts
 - typescript
 - workflows
@@ -36,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-Powered Website Cloning**: Automates full-stack website cloning (React/Next.js) via a single command using AI coding agents (e.g., Claude Code) for reverse-engineering and reconstruction.
+- **AI-Powered Website Cloning**: Template enables single-command website cloning via AI coding agents (e.g., Claude Code), automating reverse-engineering and reconstruction of React/Next.js sites with shadcn/ui and TailwindCSS.
 
-- **Tech Stack**: Built with TypeScript, Next.js, React, TailwindCSS, and shadcn/ui; integrates AI agents for dynamic DOM parsing, state management extraction, and responsive UI replication.
+- **Technical Stack**: Built in TypeScript with Next.js, React, and shadcn/ui; integrates web-scraping and AI agent workflows for dynamic content replication.
 
-- **Features**: Supports web scraping, dynamic content handling, and boilerplate generation; optimized for devel
+- **Automation & Tooling**: Supports AI-driven boilerplate generation, developer tooling, and CI/CD-ready work
 
 ## Use Cases
 

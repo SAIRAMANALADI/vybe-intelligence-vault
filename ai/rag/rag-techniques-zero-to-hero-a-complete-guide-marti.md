@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-07-03T20:04:05.950425+05:30'
-collected_at: '2026-07-03T20:04:05.950440+05:30'
+published_at: '2026-07-04T01:21:36.972418+05:30'
+collected_at: '2026-07-04T01:21:36.972432+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-07-03T20:04:05.950440+05:30'
-last_seen: '2026-07-03T20:04:05.950440+05:30'
-last_checked: '2026-07-03T20:04:05.950440+05:30'
+first_seen: '2026-07-04T01:21:36.972432+05:30'
+last_seen: '2026-07-04T01:21:36.972432+05:30'
+last_checked: '2026-07-04T01:21:36.972432+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store (e.g., HNSW/IVF indexes), LLM generator conditioned on retrieved context, and optional rerankers/query rewriters; orchestration layers manage caching, latency, and cost optimization.
+- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator; optionally includes rerankers, query rewriting, caching, and orchestration for improved precision and efficiency.
 
-- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector fusion), multi-hop iterative retrieval (GraphRAG, agent-based workflows), and cross-encoder reranking (distilled for efficiency) improve precision/recall while reducing hallucinations via structured evidence aggregation.
+- **Chunking & Embeddings**: Chunking strategies (fixed-size, overlap, semantic, structure-aware, LLM-based) directly impact retrieval quality; embeddings (off-the-shelf or fine-tuned) require dimensionality optimization, normalization, and domain adaptation for multilingual/multimodal data.
 
-- **Operational & Evaluation Frameworks**: Production RAG systems require token-budgeted context management (autocut), multilingual/multimodal embedding support, retrieval-aware fine-tuning, and evaluation metrics spanning retrieval (nDCG/MRR) and generation (factuality/hallucination rates) with gold-standard benchmarks.
+- **Advanced Retrieval & Evaluation**: Hybrid retrieval (BM25 + vector) with ANN indexes improves recall; two-stage retrieval (retriever + cross-encoder reranker) enhances precision; multi-hop/iterative retrieval and context distillation reduce hallucinations; evaluation metrics include precision/recall, factuality, and latency/cost trade-offs.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T20:04:05.950425+05:30
+- Published: 2026-07-04T01:21:36.972418+05:30
 
 ## Related Tags
 

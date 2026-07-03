@@ -8,7 +8,7 @@ local_vault_path: ai/rag/woongyeong-yeo.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Woongyeong Yeo
@@ -30,18 +30,15 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Research Focus**: Develops Large Language Models (LLMs) with autonomous discovery and reasoning capabilities, leveraging universal retrieval across heterogeneous multimodal knowledge sources, structured memory systems for long-horizon tasks, and self-evolution via feedback mechanisms.
-
-- **Key Publications**:
-  - *WorldMM*: Dynamic multimodal memory agent for long video reasoning (CVPR 2026 Highlight).
-  - *UniversalRAG*: Retrieval-augmented generation over diverse modalities and granulariti
+- Research focus on **autonomous discovery and reasoning** in Large Language Models (LLMs) via **large-scale, diverse real-world knowledge integration**, including **heterogeneous multimodal retrieval**, **structured memory systems**, and **self-evolution mechanisms**.
+- Developed **UniversalRAG** (ACL 2026 Oral), enabling **retrieval-augmented generation across diverse modalities and granularities**, and **WorldMM** (CVPR 2026 Highlight), a **dynamic multimodal memory agent** for long video rea
 
 ## Use Cases
 

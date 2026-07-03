@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Columnar OLAP Engine**: Optimized for real-time analytics with millisecond query performance at petabyte scale, leveraging vectorized execution and columnar storage for efficient data processing.
-
-- **Open-Source Observability Stack (ClickStack)**: Provides scalable storage and querying for logs, metrics, and traces, enabling real-time monitoring and debugging of AI/ML systems.
-
-- **Vector Search & GenAI Integration**: Supports high-performance vector search and instant aggregations, powerin
+- **Columnar OLAP Database**: Optimized for real-time analytics with millisecond query performance at petabyte scale, leveraging vectorized execution and columnar storage for efficient data processing.
+- **Multi-Model Support**: Combines OLAP, time-series, vector search, and full-text search capabilities, enabling unified analytics for AI/ML workloads, observability, and traditional data warehousing.
+- **Open-Source Core with Cloud Scalability**: Provides an open-source foundation (ClickHouse OS
 
 ## Use Cases
 

@@ -12,12 +12,12 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
 - openai
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG-based LLM Production Guide**: Provides a structured approach to deploying Retrieval-Augmented Generation (RAG) models in production using Ray, covering end-to-end workflows from fine-tuning to serving.
-- **Multi-Framework Integration**: Demonstrates integration with Llama2, OpenAI, and Anyscale APIs, leveraging Ray for distributed computing and scalable model serving.
-- **Jupyter Notebook-Based Tutorials**: Offers hands-on, executable notebooks for implementing RAG pipelines, fine-tuning
+- **RAG-based LLM Production Guide**: Provides a structured approach to deploying Retrieval-Augmented Generation (RAG) models in production using frameworks like Ray, OpenAI, and Anyscale.
+- **Multi-Framework Integration**: Demonstrates integration with Llama2, fine-tuning techniques, and serving strategies for scalable LLM applications.
+- **Jupyter Notebook-Based Tutorials**: Offers hands-on, executable examples for implementing RAG pipelines, leveraging Ray's distributed computing for efficien
 
 ## Use Cases
 

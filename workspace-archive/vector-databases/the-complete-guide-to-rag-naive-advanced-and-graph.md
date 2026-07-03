@@ -7,7 +7,7 @@ source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
 local_vault_path: ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md
 quality_score: 70
-archive_score: 72
+archive_score: 76
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -32,7 +32,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval, augmentation, and generation to enhance LLM responses by dynamically fetching relevant external knowledge (e.g., documents, databases) during inference, addressing limitations like hallucinations, stale knowledge, and private data constraints.
+- **RAG Overview & Generations**: RAG combines retrieval, augmentation, and generation to address LLM limitations (freshness, private knowledge, hallucinations). Evolved from **Naive RAG** (basic vector search) to **Advanced RAG** (hybrid retrieval, reranking, query rewriting) to **Graph RAG** (entity-relation graph traversal for multi-hop reasoning).
 
-- **Generational Evolution**: RAG progressed from *Naive* (basic vector search + LLM) to *Advanced* (hybrid retrieval, reranking, query rewriting) to *Modular* (agentic routing, tool integration) and *Graph RAG*
+- **Core Components & Techniques**: Uses embeddings (e.g., `BAAI/bge-m3`), vector DBs (Chroma, Pinecone), and retrieval methods (BM25, HNSW, RRF)
 
 ## Use Cases
 

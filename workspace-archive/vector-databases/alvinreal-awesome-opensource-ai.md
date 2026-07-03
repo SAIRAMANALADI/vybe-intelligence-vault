@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Aggregates truly open-source AI projects, models, tools, and infrastructure, with daily updates to ensure relevance and accuracy.
-- **Technical Scope**: Encompasses agents, generative AI, LLMs, MLOps, and RAG, primarily implemented in Python, covering core AI/ML domains.
-- **Community & Maintenance**: Actively maintained repository (4008 stars, 473 forks) with last update on 2026-07-03, ensuring up-to-date resources.
+- **Curated Open-Source AI Repository**: Hosts a meticulously maintained list of truly open-source AI projects, models, tools, and infrastructure, updated daily with 4008 stars and 473 forks.
+- **Technical Scope**: Focuses on Python-based projects covering agents, generative AI, LLMs, MLOps, and RAG, emphasizing transparency and open-source principles.
+- **Last Updated**: Repository was last synchronized on **2026-07-03T18:27:37Z**, ensuring recent and relevant resources.
 
 ## Use Cases
 

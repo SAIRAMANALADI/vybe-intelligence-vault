@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IntelLabs/fastRAG
-collected_at: '2026-07-03T22:18:32.626888+05:30'
+collected_at: '2026-07-04T01:22:46.455143+05:30'
 published_at: '2026-07-02T18:17:56Z'
 tags:
 - benchmark
-- dataset
 - github-repo
-- hackernews
 - python
 - rag
 stars: 1784
@@ -21,9 +19,9 @@ archived: true
 created_at: '2023-01-23T16:25:35Z'
 pushed_at: '2026-01-12T19:58:22Z'
 resource_id: github:intellabs/fastrag
-first_seen: '2026-07-03T22:18:32.626888+05:30'
-last_seen: '2026-07-03T22:18:32.626888+05:30'
-last_checked: '2026-07-03T22:18:32.626888+05:30'
+first_seen: '2026-07-04T01:22:46.455143+05:30'
+last_seen: '2026-07-04T01:22:46.455143+05:30'
+last_checked: '2026-07-04T01:22:46.455143+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: FastRAG is an efficient Python-based framework for Retrieval Augmented Generation (RAG), optimized for large-scale multi-modal and NLP tasks including question-answering, summarization, and semantic search.
+- **Framework Overview**: FastRAG is an efficient, modular Python framework for Retrieval-Augmented Generation (RAG) optimized for low-latency, high-throughput applications, integrating retrieval, re-ranking, and generation components.
 
-- **Key Components**: Integrates advanced retrieval techniques (e.g., ColBERT, sentence-transformers) with generative models (e.g., diffusion, LLMs) and supports knowledge graphs for enhanced contextual retrieval and generation.
+- **Key Features**: Supports multi-modal retrieval (text, knowledge graphs), dynamic routing, and hybrid search (dense + sparse embeddings) with built-in integration for ColBERT, Sentence-Transformers, and diffusion-based generative models.
 
-- **Performance Focus**: Designed for scalability and efficiency, featuring benchmarks for evaluating retrieval and generation performance across diverse datasets and use cases.
+- **Performance & Extensibility**: Benchmarked for semantic search, QA, and summarization; designed for scalability with pluggable components, enabling custom pipelines for LLM-based applications.
 
 ## Why It Matters
 

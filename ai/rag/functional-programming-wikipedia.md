@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://en.wikipedia.org/wiki/Functional_programming
-published_at: '2026-06-30T15:40:23.929040+05:30'
-collected_at: '2026-06-30T15:40:23.929057+05:30'
+published_at: '2026-07-04T01:28:29.322104+05:30'
+collected_at: '2026-07-04T01:28:29.322116+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:functional-programming-wikipedia
-first_seen: '2026-06-30T15:40:23.929057+05:30'
-last_seen: '2026-06-30T15:40:23.929057+05:30'
-last_checked: '2026-06-30T15:40:23.929057+05:30'
+first_seen: '2026-07-04T01:28:29.322116+05:30'
+last_seen: '2026-07-04T01:28:29.322116+05:30'
+last_checked: '2026-07-04T01:28:29.322116+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Paradigm Definition**: Functional programming is a declarative paradigm where programs are constructed via function application and composition, using expression trees that map values to values rather than imperative state updates.
+- **First-class and higher-order functions**: Functions are treated as first-class citizens, enabling them to be passed as arguments, returned from other functions, and assigned to variables, facilitating modular and composable program design.
 
-- **First-Class Functions**: Functions are treated as first-class entities—bindable to identifiers, passable as arguments, and returnable from other functions—enabling modular, composable, and declarative program structures.
+- **Pure functions and referential transparency**: Core to functional programming is the concept of pure functions—deterministic operations with no side effects, ensuring consistent outputs for identical inputs and enabling easier reasoning and debugging.
 
-- **Pure vs. Impure**: Pure functional programming restricts functions to deterministic, side-effect-free operations (no mutable state or I/O), contrasting with impure imperative procedures that modify state or produce side effects.
+- **Declarative paradigm over imperative state manipulation**: Programs are structured as expressions and function compositions rather than sequences of state-modifying statements, emphasizing what is computed over how it is computed.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T15:40:23.929040+05:30
+- Published: 2026-07-04T01:28:29.322104+05:30
 
 ## Related Tags
 

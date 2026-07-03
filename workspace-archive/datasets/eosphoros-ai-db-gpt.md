@@ -18,7 +18,7 @@ tags:
 - openai
 - python
 - rag
-- workflows
+- scripts
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) for querying, analysis, and data manipulation via natural language.
-- **Security & Privacy Focus**: Implements RAG (Retrieval-Augmented Generation) and private LLM deployment to ensure data confidentiality and secure access control for sensitive datasets.
-- **Modular Architecture**: Supports extensible agent-based workflows with Python backend, integrat
+- **Agentic AI Framework**: DB-GPT is an open-source framework designed to create autonomous AI agents for database interactions, leveraging LLMs (e.g., GPT-4, Vicuna, DeepSeek) for natural language querying and task automation.
+
+- **Privacy & Security Focus**: Implements private RAG (Retrieval-Augmented Generation) and encryption to ensure secure, on-premises data processing, avoiding cloud dependency for sensitive datasets.
+
+- **Extensible Architecture**: Supports modular integration with data
 
 ## Use Cases
 

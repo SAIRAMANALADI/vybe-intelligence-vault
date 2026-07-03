@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Baseline Definition & Stages**: Baseline is a standardized set of web platform features with interoperable browser support, defined by the WebDX Community Group. Features progress through **Newly available** (all core browsers support) and **Widely available** (30 months post-interop) stages, replacing prior "Limited availability" status.
+- **Baseline Definition & Governance**: Originated by Chrome team, now maintained by the WebDX Community Group; defines interoperable web platform features via two stages: *Newly available* (all core browsers support) and *Widely available* (30 months post-interoperability).
 
-- **Core Browser Set & Tooling Integration**: Baseline is validated across Chrome, Edge, Firefox, and Safari (desktop/Android/iOS). Tools like **Browsersl
+- **Core Browser Set & Feature Adoption**: Supports Chrome, Edge, Firefox, and Safari (desktop/Android); enables developers to trust feature compatibility when all Baseline features are used, with tools like Browserslist, E
 
 ## Use Cases
 

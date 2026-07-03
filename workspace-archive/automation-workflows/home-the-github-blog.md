@@ -6,7 +6,7 @@ source_url: https://github.blog
 resource_id: blog:home-the-github-blog
 local_vault_path: ai/resources/home-the-github-blog.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Scale & Scope**: GitHub processed **20,000+ secret scanning alerts** across **15,000 repositories**, necessitating automated triage and remediation workflows to manage the volume.
+- **Alert Volume & Scope**: GitHub processed **20,000+ secret scanning alerts** across **15,000 repositories**, necessitating scalable triage and remediation strategies.
 
-- **Signal-to-Noise Optimization**: Implemented **machine learning-based filtering** and **context-aware prioritization** to distinguish critical secrets from false positives, reducing alert fatigue.
+- **Signal-to-Noise Optimization**: Implemented **automated filtering and prioritization workflows** to distinguish critical secrets from false positives, reducing manual review overhead.
 
-- **Operational Efficiency**: Achieved **inbox zero** in **9 months** via **automated remediation pipelines**, **G
+- **Inbox Zero Achievement**: Achieved **full remediation in nine months** via structured automation, workflow integration, and policy enfor
 
 ## Use Cases
 

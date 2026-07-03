@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial
-collected_at: '2026-07-03T22:17:37.548647+05:30'
+collected_at: '2026-07-04T01:21:51.350078+05:30'
 published_at: '2026-05-04T02:37:33Z'
 tags:
 - github-repo
-- hackernews
 - meta-ai
 - models
 - rag
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-04-05T21:12:53Z'
 pushed_at: '2024-04-08T10:45:53Z'
 resource_id: github:rsrohan99/rag-stream-intermediate-events-tutorial
-first_seen: '2026-07-03T22:17:37.548647+05:30'
-last_seen: '2026-07-03T22:17:37.548647+05:30'
-last_checked: '2026-07-03T22:17:37.548647+05:30'
+first_seen: '2026-07-04T01:21:51.350078+05:30'
+last_seen: '2026-07-04T01:21:51.350078+05:30'
+last_checked: '2026-07-04T01:21:51.350078+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Event Streaming Architecture**: Demonstrates how to stream intermediate LlamaIndex RAG events (e.g., node parsing, retrieval, synthesis) to the Vercel AI SDK using Server-Sent Events (SSE) for real-time client updates.
+- **Intermediate Event Streaming**: Demonstrates streaming LlamaIndex RAG intermediate events (e.g., node parsing, retrieval) via Server-Sent Events (SSE) to the Vercel AI SDK for real-time processing.
 
-- **Integration Workflow**: Implements a TypeScript-based pipeline where LlamaIndex events are intercepted and forwarded via SSE to the Vercel AI SDK, enabling asynchronous, event-driven RAG processing.
+- **Vercel AI SDK Integration**: Shows how to configure the Vercel AI SDK to consume SSE streams from LlamaIndex, enabling asynchronous, event-driven RAG workflows.
 
-- **Technical Stack**: Uses TypeScript with LlamaIndex for RAG operations and Vercel AI SDK for client-side event consumption, leveraging SSE for low-latency bidirectional communication.
+- **TypeScript Implementation**: Provides a TypeScript-based example with structured event handling for intermediate RAG steps, ensuring type safety and modularity.
 
 ## Why It Matters
 

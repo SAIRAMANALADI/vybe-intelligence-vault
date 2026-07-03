@@ -8,9 +8,10 @@ local_vault_path: ai/rag/keras-team-keras.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - frontend_ui
 - models
 - rag
@@ -26,15 +27,14 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Breaking Changes in Keras 3**: Major API cleanups and modernizations introduce incompatibilities with Keras 2, including default `jit_compile=True`, removal of `tf.keras` SavedModel support, and disallowed nested inputs/outputs in `Model()`.
-- **Removed/Deprecated Features**: Keras 3 drops rarely used APIs (e.g., `compat.v1`, `RaggedTensor`, `LocallyConnected`/`Kernelized` layers) and enforces stricter naming rules (e.g., no `/` in layer/variable names).
-- **Backend & Functional Shifts**: Ke
+- **Breaking Changes in Keras 3**: Major API cleanups and modernizations introduce incompatibilities with Keras 2, including removal of deprecated APIs (`compat.v1`, `experimental` namespaces), default `jit_compile=True`, disallowed `TF SavedModel` save/load via `model.save()`/`load_model()`, and stricter input/output nesting rules.
+- **TensorFlow-Specific Adjustments**: Keras 3 disables TF autograph in custom layers by default, disallows TF ops on Keras tensors during functional model construct
 
 ## Use Cases
 

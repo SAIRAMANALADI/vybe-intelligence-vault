@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/pytorch/pytorch
-published_at: '2026-07-03T22:16:37.458496+05:30'
-collected_at: '2026-07-03T22:16:37.458498+05:30'
+published_at: '2026-07-04T01:20:43.933270+05:30'
+collected_at: '2026-07-04T01:20:43.933276+05:30'
 tags:
 - github-trending
 - python
 status: active
 resource_id: github:pytorch/pytorch
 first_seen: '2026-06-16T13:57:13.028028+05:30'
-last_seen: '2026-07-03T22:16:37.458498+05:30'
-last_checked: '2026-07-03T22:16:37.458498+05:30'
+last_seen: '2026-07-04T01:20:43.933276+05:30'
+last_checked: '2026-07-04T01:20:43.933276+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/trending
-- Published: 2026-07-03T22:16:37.458496+05:30
+- Published: 2026-07-04T01:20:43.933270+05:30
 
 ## Related Tags
 

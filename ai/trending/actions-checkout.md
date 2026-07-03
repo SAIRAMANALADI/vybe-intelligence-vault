@@ -4,16 +4,16 @@ category: ai/trending
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/actions/checkout
-published_at: '2026-07-03T22:16:37.457141+05:30'
-collected_at: '2026-07-03T22:16:37.457144+05:30'
+published_at: '2026-07-04T01:20:43.931432+05:30'
+collected_at: '2026-07-04T01:20:43.931439+05:30'
 tags:
 - github-trending
 - typescript
 status: active
 resource_id: github:actions/checkout
 first_seen: '2026-07-02T20:00:14.034556+05:30'
-last_seen: '2026-07-03T22:16:37.457144+05:30'
-last_checked: '2026-07-03T22:16:37.457144+05:30'
+last_seen: '2026-07-04T01:20:43.931439+05:30'
+last_checked: '2026-07-04T01:20:43.931439+05:30'
 health_score: 100
 ---
 
@@ -31,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/trending
-- Published: 2026-07-03T22:16:37.457141+05:30
+- Published: 2026-07-04T01:20:43.931432+05:30
 
 ## Related Tags
 

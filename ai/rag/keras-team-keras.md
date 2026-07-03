@@ -4,9 +4,10 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/keras-team/keras/issues/18467
-published_at: '2026-07-01T04:19:19.408406+05:30'
-collected_at: '2026-07-01T04:19:19.408422+05:30'
+published_at: '2026-07-04T01:28:29.198647+05:30'
+collected_at: '2026-07-04T01:28:29.198660+05:30'
 tags:
+- benchmark
 - frontend_ui
 - models
 - rag
@@ -14,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:keras-team/keras
-first_seen: '2026-07-01T04:19:19.408422+05:30'
-last_seen: '2026-07-01T04:19:19.408422+05:30'
-last_checked: '2026-07-01T04:19:19.408422+05:30'
+first_seen: '2026-07-04T01:28:29.198660+05:30'
+last_seen: '2026-07-04T01:28:29.198660+05:30'
+last_checked: '2026-07-04T01:28:29.198660+05:30'
 health_score: 100
 ---
 
@@ -24,9 +25,9 @@ health_score: 100
 
 ## Summary
 
-- **Breaking Changes in Keras 3**: Major API cleanups and modernizations introduce incompatibilities with Keras 2, including default `jit_compile=True`, removal of `tf.keras` SavedModel support, and disallowed nested inputs/outputs in `Model()`.
-- **Removed/Deprecated Features**: Keras 3 drops rarely used APIs (e.g., `compat.v1`, `RaggedTensor`, `LocallyConnected`/`Kernelized` layers) and enforces stricter naming rules (e.g., no `/` in layer/variable names).
-- **Backend & Functional Shifts**: Keras 3 disables TF autograph in custom layers by default, prohibits TF ops on Keras tensors during functional model construction, and removes symbolic `add_loss()` while requiring explicit metric tracking for multioutput models.
+- **Breaking Changes in Keras 3**: Major API cleanups and modernizations introduce incompatibilities with Keras 2, including removal of deprecated APIs (`compat.v1`, `experimental` namespaces), default `jit_compile=True`, disallowed `TF SavedModel` save/load via `model.save()`/`load_model()`, and stricter input/output nesting rules.
+- **TensorFlow-Specific Adjustments**: Keras 3 disables TF autograph in custom layers by default, disallows TF ops on Keras tensors during functional model construction, and deprecates `tf.Variable` as layer attributes (replaced with `add_weight()` or `keras.Variable`).
+- **Removed Features/Attributes**: Keras 3 eliminates niche features (e.g., `RaggedTensor` support, `AlphaDropout`, `ThresholdedReLU`, `RandomHeight/Width`), deprecated layer attributes (`metrics`, `dynamic`), and legacy RNN arguments (`constants`, `time_major`). Multioutput model evaluation and metric tracking also require explicit configuration.
 
 ## Why It Matters
 
@@ -36,10 +37,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T04:19:19.408406+05:30
+- Published: 2026-07-04T01:28:29.198647+05:30
 
 ## Related Tags
 
+- benchmark
 - frontend_ui
 - models
 - rag

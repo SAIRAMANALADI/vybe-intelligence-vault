@@ -2,22 +2,25 @@
 title: Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://www.deepset.ai/products-and-services/deepset-ai-platform
+source_url: https://www.deepset.ai/haystack
 resource_id: blog:build-scale-ai-agents-and-apps-faster-haystack-ent
 local_vault_path: ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md
 quality_score: 70
-archive_score: 80
+archive_score: 70
 archive_tier: useful
-resource_kind: dataset
-importance: high
+resource_kind: prompt
+importance: medium
 tags:
 - agents
-- dataset
+- anthropic
+- benchmark
 - hackernews
-- producthunt
+- meta-ai
+- mistral
+- models
+- openai
 - rag
-- web-crawled
-- workflows
+- reddit
 selection_reason:
 - Valuable developer reference
 ---
@@ -27,16 +30,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 80 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: prompt
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Enterprise AI Orchestration**: deepset's Haystack Enterprise Platform enables end-to-end development, testing, deployment, and monitoring of production-ready AI agents and applications with enterprise-grade security, scalability, and governance.
+- **Precision Context Engineering**: Enables fine-grained control over AI agent context, tools, and memory via configurable document retrieval, API access, and prompt construction with full transparency into decision-making inputs.
 
-- **Multimodal & Sovereign Data Handling**: Supports accurate retrieval across text, tables, images, and documents with built-in metadata management, multimodal indexing, and compliance for sensitive/classified data in sovereign control environments
+- **Sovereign Deployment & Portability**: Supports multi-cloud/self-hosted deployment with serverless autoscaling, allowing seamless model/provider/vendor swapping without code rewrites, ensuring no vendor lock-in.
+
+- **Production Observability & Governance**: Provid
 
 ## Use Cases
 
@@ -46,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.deepset.ai/products-and-services/deepset-ai-platform
+Original source URL: https://www.deepset.ai/haystack
 
 ## Local Vault File
 

@@ -2,13 +2,13 @@
 title: SentenceTransformers Documentation — Sentence Transformers documentation
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://www.sbert.net
+source_url: https://sbert.net/
 resource_id: blog:sentencetransformers-documentation-sentence-transf
 local_vault_path: ai/rag/sentencetransformers-documentation-sentence-transf.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -22,7 +22,7 @@ tags:
 - rag
 - reddit
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # SentenceTransformers Documentation — Sentence Transformers documentation
@@ -31,17 +31,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Installation & Setup**: Supports multiple installation methods (pip, conda, uv, source) with optional CUDA-enabled PyTorch for GPU acceleration; includes editable installs for development.
-
-- **SentenceTransformer Core Functionality**: Enables embedding generation, semantic similarity, clustering, retrieval/re-ranking, and multimodal (text/image/audio) applications via modular architecture with pre-trained models optimized for tasks like semantic search and paraphrase mining.
-
-- **Training &
+- **Installation Flexibility**: Supports multiple installation methods (`uv`, `pip`, `conda`, source, editable) with optional PyTorch CUDA support for GPU acceleration.
+- **Sentence Transformer Architecture**: Modular design enabling custom models, efficient inference via PyTorch/ONNX/OpenVINO, and MTEB-based evaluation for benchmarking.
+- **Training Pipeline**: End-to-end finetuning framework with dataset formatting, loss functions, evaluators, and multi-dataset training support for custom embe
 
 ## Use Cases
 
@@ -51,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.sbert.net
+Original source URL: https://sbert.net/
 
 ## Local Vault File
 

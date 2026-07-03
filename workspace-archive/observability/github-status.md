@@ -2,7 +2,7 @@
 title: GitHub Status
 archive_category: observability
 source_category: ai/rag
-source_url: https://githubstatus.com/
+source_url: https://www.githubstatus.com
 resource_id: blog:github-status
 local_vault_path: ai/rag/github-status.md
 quality_score: 70
@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status, incident reports, and historical uptime (e.g., 99.99% for Git Operations over 90 days) for GitHub services (Git Operations, Webhooks, API Requests, Issues, Pull Requests, Actions, etc.) via [githubstatus.com](https://githubstatus.com/).
+- **GitHub Status Page** provides real-time operational metrics for GitHub services (e.g., Git Operations, Webhooks, API Requests) with 99.99%+ uptime over 90 days, including incident tracking and historical data via Atom/RSS feeds.
 
-- **Multi-Channel Incident Notifications**: Supports subscriptions via email, SMS (global phone number list), Slack, and webhooks for incident updates (creation, resolution, status changes), with p
+- **Notification Systems** support email, SMS (global), Slack, and webhook-based incident updates, with OTP verification for security and compliance via Atlassian/GitHub privacy policies.
+
+- **Recent Incidents** include Pages deployment latency (resolved), Copilot b
 
 ## Use Cases
 
@@ -48,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://githubstatus.com/
+Original source URL: https://www.githubstatus.com
 
 ## Local Vault File
 

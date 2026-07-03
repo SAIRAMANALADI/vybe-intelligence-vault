@@ -40,11 +40,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid Retrieval Pipeline**: Implements BM25 (keyword-based) + vector (semantic) search using `rank_bm25` and ChromaDB, followed by cross-encoder reranking to improve retrieval precision, eliminating reliance on proprietary reranking APIs.
+- **Hybrid Retrieval Pipeline**: Implements BM25 + vector search (OpenAI `text-embedding-3-small`) in ChromaDB for improved retrieval relevance, combining semantic similarity with exact keyword matching.
 
-- **Reranking Mechanism**: Uses a lightweight cross-encoder (`cross-encoder/ms-marco-MiniLM-L-6-v2`) to re-score top-k candidates from hybrid search, boosting relevance by 15-30% over standalone retrieval methods.
+- **Cross-Encoder Reranking**: Uses a free cross-encoder model (e.g., `cross-encoder/ms-marco-MiniLM-L-6-v2`) to rerank hybrid search results, boosting precision by re-scoring candidate documents based on contextual relevance.
 
-- **Performance Metrics**: Achieves 0.85
+- **Evaluation Metrics**: Integrates RAGAS (v0.2.15) to measure ret
 
 ## Use Cases
 

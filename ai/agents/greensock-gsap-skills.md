@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/greensock/gsap-skills
-collected_at: '2026-07-03T22:19:47.697251+05:30'
-published_at: '2026-07-03T16:42:11Z'
+collected_at: '2026-07-04T01:24:01.500781+05:30'
+published_at: '2026-07-03T19:12:19Z'
 tags:
 - agents
 - animation
 - github-repo
 - hackernews
 - unknown
-stars: 10792
+stars: 10797
 language: Unknown
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-04T17:22:35Z'
 pushed_at: '2026-04-21T23:47:09Z'
 resource_id: github:greensock/gsap-skills
-first_seen: '2026-07-03T22:19:47.697251+05:30'
-last_seen: '2026-07-03T22:19:47.697251+05:30'
-last_checked: '2026-07-03T22:19:47.697251+05:30'
+first_seen: '2026-07-04T01:24:01.500781+05:30'
+last_seen: '2026-07-04T01:24:01.500781+05:30'
+last_checked: '2026-07-04T01:24:01.500781+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **GSAP AI Skills Repository**: Provides structured AI training for GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration for AI coding agents.
-- **Technical Scope**: Focuses on teaching AI agents optimal GSAP usage, including performance considerations, animation sequencing, and advanced plugin methodologies.
-- **Repository Metadata**: 10,792 stars, 635 forks, last updated July 3, 2026; language unspecified but likely JavaScript/TypeScript-based given GSAP's ecosystem.
+- **GSAP AI Skills Repository**: Provides structured training for AI agents to implement GSAP animations, covering best practices, common patterns, and plugin integration.
+- **Technical Focus**: Emphasizes correct GSAP usage, including performance optimization and advanced animation techniques.
+- **Metadata**: 10.7k+ stars, 635 forks, last updated July 3, 2026. Language unspecified; no additional topics listed.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: greensock
-- Stars: 10792
+- Stars: 10797
 - Forks: 635
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-03T16:42:11Z
+- Last Updated: 2026-07-03T19:12:19Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-04T17:22:35Z

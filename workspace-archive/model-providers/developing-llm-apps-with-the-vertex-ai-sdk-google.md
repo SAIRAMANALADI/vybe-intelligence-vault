@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Gemini 2.5 Flash Integration**: Utilize the Vertex AI SDK to interact with the `gemini-2.5-flash` model for LLM-powered chat functionality, enabling real-time travel assistance, bookings, and location-based queries.
-- **Tooling & Function Calling**: Implement weather data retrieval via function calling, allowing the LLM to fetch real-time weather information for travel planning.
-- **Stateful Chat Session**: Refactor the application to maintain conversational context using Streamlit’s session
+- **Gemini 2.5 Flash Integration**: Utilize the Vertex AI SDK in Python to interact with the `gemini-2.5-flash` model for generating conversational responses in a Streamlit-based travel assistant chatbot.
+
+- **Function Calling for Real-Time Data**: Implement tooling (e.g., weather API integration) via function calling to enable the LLM to fetch and process real-time data dynamically during user interactions.
+
+- **Stateful Chat Session Management**: Refactor the application to maintain conversati
 
 ## Use Cases
 

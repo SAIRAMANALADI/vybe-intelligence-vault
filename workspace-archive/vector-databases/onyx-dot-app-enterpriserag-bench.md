@@ -33,11 +33,13 @@ selection_reason:
 
 ## Summary
 
-- **Dataset & Benchmark**: Provides a structured dataset and evaluation framework for Retrieval-Augmented Generation (RAG) systems tailored to company internal documents, enabling standardized testing of enterprise RAG models.
+- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of LLM performance in real-world internal knowledge contexts.
 
-- **Synthetic Data Generation**: Implements synthetic data generation techniques to create diverse, realistic internal documents and Q&A pairs for robust RAG evaluation across domains.
+- **Key Features**:
+  - Synthetic data generation for enterprise-specific Q&A tasks.
+  - Evaluation metrics for retrieval quality, answer correctness, and semantic search performance in closed-domain scenarios.
 
-- **Multi-Metric Evaluation**: Supports comprehensive RAG evaluation with metrics for
+- **Technical Scope**: Supports Python-based RA
 
 ## Use Cases
 

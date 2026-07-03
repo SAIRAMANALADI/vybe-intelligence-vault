@@ -6,7 +6,7 @@ source_url: https://www.stainless.com/products/docs
 resource_id: blog:stainless-stainless-docs-platform
 local_vault_path: ai/rag/stainless-stainless-docs-platform.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Dynamic API Documentation Sync**: REST API, SDK, and narrative docs automatically stay synchronized with the actual API, eliminating manual updates and ensuring accuracy.
+- **Dynamic API Documentation Sync**: REST API, SDK, and narrative docs automatically synchronize with the actual API, ensuring real-time accuracy for both developers and AI agents.
 
-- **AI-Optimized Hybrid Search**: Implements AI-powered hybrid search for enhanced developer and AI agent accessibility, integrating with tools like `llms.txt` for structured data extraction.
+- **Astro-Based Customization**: Built on Astro for high-performance, content-driven websites, enabling full UI/UX customization via TypeScript-first integrations, middleware, and server-side hooks.
 
-- **Astro-Based Extensibility**: Built on Astro for high-performance, content-driven sites with full customization via TypeScript-f
+- **Multi-Framework & Deployment Flexibility**: Supports React, Svelte, Vue, Solid, Preact, and others; deployable on
 
 ## Use Cases
 

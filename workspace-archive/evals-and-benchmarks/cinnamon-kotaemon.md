@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG-based Document Interaction**: Implements Retrieval-Augmented Generation (RAG) to enable contextual querying and conversational interaction with uploaded documents.
-- **Modular Python Architecture**: Built in Python with extensible components for document ingestion, embedding, retrieval, and LLM integration.
-- **Open-Source & Scalable**: Licensed under Apache 2.0, supports custom model integration, and scales via vector databases (e.g., FAISS, Chroma) for efficient document search.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions with LLMs.
+- **Python Implementation**: Built in Python, leveraging modern NLP libraries (e.g., LangChain, HuggingFace) for document processing and retrieval.
+- **Modular Design**: Supports customizable pipelines for document ingestion, embedding, retrieval, and LLM integration with open-source components.
 
 ## Use Cases
 

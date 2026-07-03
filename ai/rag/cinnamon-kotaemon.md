@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-07-03T22:17:47.563843+05:30'
-published_at: '2026-07-03T14:06:08Z'
+collected_at: '2026-07-04T01:22:01.393253+05:30'
+published_at: '2026-07-03T17:18:13Z'
 tags:
 - github-repo
 - python
 - rag
-stars: 25512
+stars: 25511
 language: Python
 status: active
 license: Apache-2.0
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-06-09T09:55:55Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-07-03T22:17:47.563843+05:30'
-last_seen: '2026-07-03T22:17:47.563843+05:30'
-last_checked: '2026-07-03T22:17:47.563843+05:30'
+first_seen: '2026-07-04T01:22:01.393253+05:30'
+last_seen: '2026-07-04T01:22:01.393253+05:30'
+last_checked: '2026-07-04T01:22:01.393253+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Document Interaction**: Implements Retrieval-Augmented Generation (RAG) to enable contextual querying and conversational interaction with uploaded documents.
-- **Modular Python Architecture**: Built in Python with extensible components for document ingestion, embedding, retrieval, and LLM integration.
-- **Open-Source & Scalable**: Licensed under Apache 2.0, supports custom model integration, and scales via vector databases (e.g., FAISS, Chroma) for efficient document search.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions with LLMs.
+- **Python Implementation**: Built in Python, leveraging modern NLP libraries (e.g., LangChain, HuggingFace) for document processing and retrieval.
+- **Modular Design**: Supports customizable pipelines for document ingestion, embedding, retrieval, and LLM integration with open-source components.
 
 ## Why It Matters
 
@@ -39,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Cinnamon
-- Stars: 25512
+- Stars: 25511
 - Forks: 2125
 - Language: Python
 - Topics: chatbot, llms, open-source, rag
-- Last Updated: 2026-07-03T14:06:08Z
+- Last Updated: 2026-07-03T17:18:13Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-03-25T08:16:42Z

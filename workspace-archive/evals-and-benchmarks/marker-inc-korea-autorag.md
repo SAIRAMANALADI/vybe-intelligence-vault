@@ -17,6 +17,7 @@ tags:
 - python
 - rag
 - scripts
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning and improving performance across metrics like answer correctness, context relevance, and latency.
+- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using AutoML techniques, reducing manual tuning effort.
 
-- **Comprehensive Pipeline Support**: The framework integrates document parsing, embedding generation, retrieval, and generation stages with built-in benchmarking tools, enabling end-to-end analysis and opt
+- **Comprehensive RAG Pipeline Support**: Includes document parsing, embedding generation, retrieval, and LLM integration with built-in benchmarking and analysis tools for end-to-end RAG workflows.
+
+- **Open-Source Python Framework**: Provides a modular, extensible Python library with pre-configured pipel
 
 ## Use Cases
 

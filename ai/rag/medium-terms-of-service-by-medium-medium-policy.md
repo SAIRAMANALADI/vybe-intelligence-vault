@@ -3,20 +3,18 @@ title: Medium Terms of Service | by Medium | Medium Policy
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page
-resource_id: blog:medium-terms-of-service-by-medium-medium-policy
------d10bb5769280---------------------------------------
-published_at: '2026-07-03T22:20:34.329208+05:30'
-collected_at: '2026-07-03T22:20:34.329222+05:30'
+source_url: https://medium.com/policy/9db0094a1e0f
+published_at: '2026-07-04T01:25:34.211288+05:30'
+collected_at: '2026-07-04T01:25:34.211299+05:30'
 tags:
 - agents
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium-terms-of-service-by-medium-medium-policy
-first_seen: '2026-07-03T22:20:34.329222+05:30'
-last_seen: '2026-07-03T22:20:34.329222+05:30'
-last_checked: '2026-07-03T22:20:34.329222+05:30'
+first_seen: '2026-07-04T01:25:34.211299+05:30'
+last_seen: '2026-07-04T01:25:34.211299+05:30'
+last_checked: '2026-07-04T01:25:34.211299+05:30'
 health_score: 100
 ---
 
@@ -24,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **License Grant**: Users retain content ownership but grant Medium a **nonexclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display user content across all Services (e.g., web, mobile) with attribution, including derivative works like previews or curated lists.
+- **License Grant**: Users retain content ownership but grant Medium a **non-exclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display user content across all Services (e.g., web, mobile) with attribution, including derivative works like previews or curated lists.
 
-- **Dispute Resolution**: Mandatory **binding arbitration** (JAMS Streamlined Rules) waives class actions/jury trials; disputes are resolved individually in San Francisco (or user’s county if a consumer) under the **Federal Arbitration Act**, with informal resolution required before formal proceedings.
+- **Liability Limitation**: Medium’s liability is capped at **$50 USD or the amount paid by the user**, excluding gross negligence, fraud, or intentional misconduct, and disclaims warranties for **accuracy, completeness, or reliability** of Services/content.
 
-- **Liability Limits**: Medium disclaims warranties (e.g., accuracy, fitness) and caps liability at **$50 USD or fees paid** (except for gross negligence/fraud), excluding indirect damages (e.g., lost profits) unless prohibited by law.
+- **Dispute Resolution**: Mandatory **binding arbitration** under JAMS rules replaces court/jury trials, with disputes resolved individually (no class actions) in **San Francisco** (consumers may opt for local arbitration), governed by the **Federal Arbitration Act**.
 
 ## Why It Matters
 
@@ -38,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T22:20:34.329208+05:30
+- Published: 2026-07-04T01:25:34.211288+05:30
 
 ## Related Tags
 
@@ -48,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----d10bb5769280---------------------------------------
+Original source: https://medium.com/policy/9db0094a1e0f

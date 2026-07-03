@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- Implements **Server-Sent Events (SSE)** for real-time AI response streaming in a Java-based Spring AI system.
-- Integrates **RAG (Retrieval-Augmented Generation)** with **vector databases**, **embeddings**, and **knowledge graphs** for enhanced contextual Q&A.
-- Supports **Agent workflows**, **Function Calling**, **historical message handling**, and **image generation/understanding** via Alibaba Cloud AI services.
+- **Implements RAG with Vector Database**: Utilizes embedding models and vector databases for retrieval-augmented generation (RAG) to enhance AI question-answering systems with knowledge retrieval.
+- **Supports SSE Streaming & Agent Workflows**: Implements Server-Sent Events (SSE) for real-time streaming responses and integrates AI agents for dynamic, multi-step task execution.
+- **Multi-Modal & Function-Call Capabilities**: Includes image generation/understanding, function calling for tool inte
 
 ## Use Cases
 

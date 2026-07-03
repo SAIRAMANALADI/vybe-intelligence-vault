@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Electron Forge** integrates a modular build pipeline for Electron apps, supporting code signing, installer generation, and artifact publishing via plugins, makers, and publishers APIs.
-- **Packaging constraints** require `node_modules` on disk; Yarn ≥2 must use `node-linker: node-modules`, and pnpm requires `node-linker=hoisted` in `.npmrc` due to naive module resolution.
-- **Templates** (`webpack`, `vite`, etc.) streamline project initialization with modern tooling, while `forge.config.js`
+- **Electron Forge** provides a unified build pipeline for Electron apps, including packaging, code signing, installer generation, and artifact publishing, with extensibility via [Plugin API](https://electronforge.io/config/plugins), [Makers](https://electronforge.io/config/makers), and [Publishers](https://electronforge.io/config/publishers).
+
+- **Packaging dependencies** requires `node_modules` on disk; Yarn ≥2 must use `nodeLinker: node-modules`, and pnpm requires `node-linker=hoisted` in `.n
 
 ## Use Cases
 

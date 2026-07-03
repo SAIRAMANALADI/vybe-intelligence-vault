@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Core Architecture**: Electron integrates Chromium for rendering and Node.js for backend APIs, enabling cross-platform desktop apps with JavaScript/TypeScript.
-- **Security & Stability**: Releases are synchronized with Chromium updates for immediate security patches and stable rendering targets.
-- **Extensibility & Tooling**: Supports npm packages, native add-ons, and frameworks (React, Vue, Angular), with tools like Electron Forge for packaging and distribution.
+- **Runtime Architecture**: Electron integrates Chromium for rendering and Node.js for backend APIs, enabling cross-platform desktop apps with JavaScript/TypeScript.
+- **Security & Maintenance**: Releases align with Chromium updates for immediate security patches and leverage npm for extensibility via native add-ons or frontend frameworks (React, Angular, etc.).
+- **Distribution & Tooling**: Supports platform-specific installers (DMG/MSI/RPM), app store deployment (Mac/Windows/Linux), and crash
 
 ## Use Cases
 

@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/onyx
-collected_at: '2026-07-03T22:17:52.599518+05:30'
-published_at: '2026-07-03T16:36:03Z'
+collected_at: '2026-07-04T01:22:06.384302+05:30'
+published_at: '2026-07-03T19:45:54Z'
 tags:
 - frontend_ui
 - github-repo
 - openai
 - python
 - rag
-stars: 30703
+- workflows
+stars: 30704
 language: Python
 status: active
 license: NOASSERTION
@@ -20,9 +21,9 @@ archived: false
 created_at: '2023-04-27T06:04:01Z'
 pushed_at: '2026-07-03T10:57:34Z'
 resource_id: github:onyx-dot-app/onyx
-first_seen: '2026-07-03T22:17:52.599518+05:30'
-last_seen: '2026-07-03T22:17:52.599518+05:30'
-last_checked: '2026-07-03T22:17:52.599518+05:30'
+first_seen: '2026-07-04T01:22:06.384302+05:30'
+last_seen: '2026-07-04T01:22:06.384302+05:30'
+last_checked: '2026-07-04T01:22:06.384302+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Open-source AI chat platform** supporting **any LLM** with advanced features like **RAG, vector search, and enterprise-grade information retrieval** in Python.
-- **Full-stack architecture** combining **Next.js frontend** with **Python backend**, enabling self-hosted deployment for scalable AI interactions.
-- **Modular design** with **multi-modal support** (text, retrieval, enterprise search) and **extensible UI components** for customizable LLM-based applications.
+- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any Large Language Model (LLM), enabling flexible deployment across diverse AI backends.
+- **Advanced RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based semantic search for enterprise-grade information retrieval and contextual accuracy.
+- **Full-Stack Architecture**: Combines Python backend with Next.js frontend, offering a self-hostable, scalable UI for AI-driven chat and enterprise search workflows.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: onyx-dot-app
-- Stars: 30703
+- Stars: 30704
 - Forks: 4207
 - Language: Python
 - Topics: ai, ai-chat, chatgpt, chatui, enterprise-search, gen-ai, information-retrieval, llm, llm-ui, nextjs, python, rag, self-hosted, vector-search
-- Last Updated: 2026-07-03T16:36:03Z
+- Last Updated: 2026-07-03T19:45:54Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-04-27T06:04:01Z

@@ -4,23 +4,23 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stanfordnlp/dspy
-collected_at: '2026-06-28T22:13:17.903675+05:30'
-published_at: '2026-06-28T16:43:13Z'
+collected_at: '2026-07-04T01:24:51.576707+05:30'
+published_at: '2026-07-03T19:33:14Z'
 tags:
 - github-repo
+- models
 - python
-- workflows
-stars: 35553
+stars: 35801
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-01-09T21:01:51Z'
-pushed_at: '2026-06-25T16:53:41Z'
+pushed_at: '2026-07-02T16:57:59Z'
 resource_id: github:stanfordnlp/dspy
-first_seen: '2026-06-28T22:13:17.903675+05:30'
-last_seen: '2026-06-28T22:13:17.903675+05:30'
-last_checked: '2026-06-28T22:13:17.903675+05:30'
+first_seen: '2026-07-04T01:24:51.576707+05:30'
+last_seen: '2026-07-04T01:24:51.576707+05:30'
+last_checked: '2026-07-04T01:24:51.576707+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Programmatic LM Optimization**: DSPy introduces a framework to programmatically optimize language model (LM) behavior via declarative modules (e.g., `Predict`, `Retrieve`) and teleprompters, replacing ad-hoc prompting with structured, trainable pipelines.
+- **Programmatic LM Optimization**: DSPy introduces a framework to programmatically compose and optimize language model (LM) calls, shifting from manual prompt engineering to structured, declarative pipelines with automatic parameter tuning via teleprompters.
 
-- **Modular & Composable Design**: Supports modular components (e.g., `Signature`, `Module`) for defining LM tasks, enabling reusable, composable workflows (e.g., chains, loops) with explicit control over LM interactions.
+- **Modular Pipeline Design**: Enables definition of LM-based modules (e.g., `Predict`, `Retrieve`) and their interactions (e.g., chains, loops) using Python classes, with compilation optimizing prompts, weights, and logic for downstream tasks.
 
-- **Automated Optimization**: Implements teleprompters (e.g., `BootstrapFewShot`, `MIPRO`) to automate prompt and parameter tuning via gradient-free optimization, improving task performance without manual prompt engineering.
+- **Automated Compilation**: Teleprompters (e.g., `BootstrapFewShot`, `MIPROv2`) automatically generate and refine task-specific programs by optimizing metrics, reducing reliance on handcrafted prompts while improving performance and reproducibility.
 
 ## Why It Matters
 
@@ -41,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: stanfordnlp
-- Stars: 35553
-- Forks: 3027
+- Stars: 35801
+- Forks: 3053
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-28T16:43:13Z
+- Last Updated: 2026-07-03T19:33:14Z
 - License: MIT
 - Archived: No
 - Created At: 2023-01-09T21:01:51Z
-- Pushed At: 2026-06-25T16:53:41Z
+- Pushed At: 2026-07-02T16:57:59Z
 
 ## Possible Use Cases
 

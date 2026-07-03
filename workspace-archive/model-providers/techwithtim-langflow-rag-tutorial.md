@@ -16,6 +16,7 @@ tags:
 - openai
 - rag
 - unknown
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Purpose**: Tutorial for implementing Retrieval-Augmented Generation (RAG) using Langflow, an open-source framework for building LLM-powered applications.
-- **Technical Stack**: Integrates Langflow with RAG pipelines, likely involving vector databases (e.g., Chroma, FAISS), embedding models (e.g., Sentence Transformers), and LLM APIs (e.g., Hugging Face, OpenAI).
-- **Last Updated**: June 9, 2026 (future-dated, may indicate placeholder or automated update).
+- **Repository Purpose**: Tutorial for implementing Retrieval-Augmented Generation (RAG) using Langflow, a visual framework for building LLM workflows.
+- **Technical Stack**: Likely integrates Langchain, vector databases (e.g., Chroma, FAISS), and LLM APIs (e.g., OpenAI, HuggingFace) for RAG pipelines.
+- **Last Update**: Repository was last modified on **July 3, 2026**, indicating active maintenance or recent development.
 
 ## Use Cases
 

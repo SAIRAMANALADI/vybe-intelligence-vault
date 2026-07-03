@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Chroma is a high-performance, open-source vector database and search infrastructure designed for AI workloads, enabling efficient similarity search and retrieval of embeddings.
-- **Technical Stack**: Implemented in Rust for memory safety and performance, with support for distributed deployments and scalable indexing of vector embeddings.
-- **Features**: Supports AI agents via REST API, integrates with embedding models, and provides filtering, metadata management, and batch operati
+- **Purpose**: Chroma is a vector database and search infrastructure designed for AI applications, enabling efficient storage and retrieval of embeddings and metadata.
+- **Technical Stack**: Implemented in Rust for performance and safety, with support for AI agents, embeddings, and semantic search.
+- **Features**: Supports hybrid search (vector + metadata filtering), scalability, and integration with AI/ML pipelines.
 
 ## Use Cases
 

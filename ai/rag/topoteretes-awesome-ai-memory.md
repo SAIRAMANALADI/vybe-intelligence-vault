@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/topoteretes/awesome-ai-memory
-collected_at: '2026-07-03T22:18:22.632283+05:30'
+collected_at: '2026-07-04T01:22:36.443596+05:30'
 published_at: '2026-07-03T03:18:15Z'
 tags:
 - agents
 - github-repo
-- hackernews
+- meta-ai
+- models
 - python
 - rag
 stars: 804
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-11-23T12:40:05Z'
 pushed_at: '2026-06-18T15:07:20Z'
 resource_id: github:topoteretes/awesome-ai-memory
-first_seen: '2026-07-03T22:18:22.632283+05:30'
-last_seen: '2026-07-03T22:18:22.632283+05:30'
-last_checked: '2026-07-03T22:18:22.632283+05:30'
+first_seen: '2026-07-04T01:22:36.443596+05:30'
+last_seen: '2026-07-04T01:22:36.443596+05:30'
+last_checked: '2026-07-04T01:22:36.443596+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Repository**: A GitHub repository (`topoteretes/awesome-ai-memory`) listing 804+ curated projects focused on AI memory systems, including RAG, memory management, and agent-based architectures, primarily implemented in Python.
+- **Curated list of AI memory projects**: Repository aggregates tools, frameworks, and research focused on AI memory systems, including short-term/long-term memory, context retention, and retrieval-augmented generation (RAG) implementations.
 
-- **Technical Scope**: Encompasses topics such as `ai-memory`, `ai-agents`, `memory-management`, and `rag`, emphasizing scalable solutions for persistent, context-aware AI systems.
+- **Python-centric ecosystem**: Majority of listed projects are Python-based, leveraging libraries like LangChain, LlamaIndex, and custom neural architectures for memory-augmented AI agents.
 
-- **Maintenance & Metadata**: Last updated July 3, 2026; 89 forks, 804 stars; serves as a dynamic reference for cutting-edge research and implementations in AI memory architectures.
+- **Active maintenance & community**: Updated July 2026 with 804 stars and 89 forks, indicating sustained community engagement in memory-aware AI engineering and research.
 
 ## Why It Matters
 

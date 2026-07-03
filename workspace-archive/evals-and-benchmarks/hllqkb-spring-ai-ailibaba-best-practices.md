@@ -15,6 +15,7 @@ tags:
 - github-repo
 - java
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **SSE Streaming & Agent Integration**: Implements Server-Sent Events (SSE) for real-time AI responses and integrates AI agents for dynamic interaction flows.
-- **Knowledge Graph & RAG**: Utilizes knowledge graphs for structured data retrieval and Retrieval-Augmented Generation (RAG) for enhanced contextual responses.
-- **Multi-Modal & Vector DB**: Supports image generation/understanding, embedding-based vector search, and integrates vector databases (e.g., Chroma, Milvus) for efficient similar
+- **Implements RAG with Vector Database**: Utilizes embedding models and vector databases for retrieval-augmented generation (RAG) to enhance AI question-answering systems with knowledge retrieval.
+- **Supports SSE Streaming & Agent Workflows**: Implements Server-Sent Events (SSE) for real-time streaming responses and integrates AI agents for dynamic, multi-step task execution.
+- **Multi-Modal & Function-Call Capabilities**: Includes image generation/understanding, function calling for tool inte
 
 ## Use Cases
 

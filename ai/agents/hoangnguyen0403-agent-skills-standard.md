@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-07-03T22:19:52.737387+05:30'
+collected_at: '2026-07-04T01:24:06.459054+05:30'
 published_at: '2026-07-03T11:18:33Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- reddit
 - typescript
-- workflows
 stars: 520
 language: TypeScript
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-29T13:00:12Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-07-03T22:19:52.737387+05:30'
-last_seen: '2026-07-03T22:19:52.737387+05:30'
-last_checked: '2026-07-03T22:19:52.737387+05:30'
+first_seen: '2026-07-04T01:24:06.459054+05:30'
+last_seen: '2026-07-04T01:24:06.459054+05:30'
+last_checked: '2026-07-04T01:24:06.459054+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Language Best Practices Repository**: Curated collection of coding standards and best practices for 15+ programming languages and frameworks (TypeScript, Go, Kotlin, React, Spring Boot, etc.) to guide AI agents in adhering to framework-specific conventions.
+- **Multi-Language Best Practices Repository**: Curated collection of coding standards and best practices for AI agents across TypeScript, Kotlin, Go, Java (Spring Boot), PHP (Laravel), Dart (Flutter), and more, ensuring framework-specific compliance.
 
-- **Agent-Oriented Standards**: Designed to enforce structured, maintainable, and scalable code patterns for AI-driven development workflows, including Cursor Rules and AI-specific linting configurations.
+- **Agent-Oriented Development Standards**: Defines structured guidelines (e.g., Cursor Rules, NestJS/Angular/React patterns) to optimize AI agent interactions with frameworks, enhancing code consistency and maintainability.
 
-- **Active Maintenance & Community**: Last updated July 2026 with 520 stars and 151 forks, indicating ongoing contributions and adoption across Android, iOS, Flutter, Laravel, NestJS, and other ecosystems.
+- **Active Maintenance & Community Engagement**: Last updated July 2026 with 520+ stars and 151 forks, reflecting ongoing contributions to refine agentic AI development practices across mobile (iOS/Android) and web (Next.js, React Native) ecosystems.
 
 ## Why It Matters
 

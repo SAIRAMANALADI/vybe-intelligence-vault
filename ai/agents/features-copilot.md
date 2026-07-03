@@ -4,22 +4,23 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-07-03T22:26:38.009451+05:30'
-collected_at: '2026-07-03T22:26:38.009464+05:30'
+published_at: '2026-07-04T01:26:20.312108+05:30'
+collected_at: '2026-07-04T01:26:20.312119+05:30'
 tags:
 - agents
 - anthropic
 - frontend_ui
 - hackernews
 - openai
+- reddit
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-07-03T22:26:38.009464+05:30'
-last_seen: '2026-07-03T22:26:38.009464+05:30'
-last_checked: '2026-07-03T22:26:38.009464+05:30'
+first_seen: '2026-07-04T01:26:20.312119+05:30'
+last_seen: '2026-07-04T01:26:20.312119+05:30'
+last_checked: '2026-07-04T01:26:20.312119+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-model agentic CLI**: GitHub Copilot CLI integrates native GitHub `/mcp` support to interact with issues, PRs, and branches, enabling parallelized multi-agent workflows via `/fleet` across models (Anthropic, Google, OpenAI) with session persistence and `/resume` for long-running tasks.
+- **Multi-Model & Parallel Execution**: Supports `/model` switching and `/fleet` for parallelized subagent execution across models (e.g., Anthropic, Google, OpenAI), enabling concurrent task processing with `/plan` to `/pr` workflows.
 
-- **Terminal-to-IDE orchestration**: Supports `/plan` to `/IDE` transitions (VS Code integration), `/delegate` for autonomous branch/PR creation with `/diff` review, and `/remote` for cross-device monitoring/steering while enforcing org policies (branch protections, required checks).
+- **GitHub-Native MCP Integration**: Built on GitHub’s Model Context Protocol (`/mcp`) for native issue/PR/branch interaction, with session persistence (`/resume`) and governance inheritance (branch protections, Copilot Business/Enterprise policies).
 
-- **Extensible SDK & governance**: Built on GitHub’s agentic runtime with `/agent` and `/skills` for custom behaviors via `AGENTS.md`, supports MCP server integrations, and inherits Copilot Business/Enterprise governance policies with explicit approval for all file/command actions.
+- **Agentic Workflows & SDK Extensibility**: Enables `/delegate` for autonomous PR creation, custom agent behavior via `AGENTS.md`/`/skills`, and early-access experimental features (`/experimental`). Extensible via Copilot SDK (`npm install -g @github/copilot`) for custom tool integration.
 
 ## Why It Matters
 
@@ -41,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-03T22:26:38.009451+05:30
+- Published: 2026-07-04T01:26:20.312108+05:30
 
 ## Related Tags
 
@@ -50,6 +51,7 @@ General public resource representing technology updates, guides, or tutorials.
 - frontend_ui
 - hackernews
 - openai
+- reddit
 - web-crawled
 - workflows
 - youtube

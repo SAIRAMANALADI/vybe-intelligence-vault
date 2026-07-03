@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://nerdleveltech.com/guides/rag-hands-on-tutorial
-published_at: '2026-07-03T15:07:33.752545+05:30'
-collected_at: '2026-07-03T15:07:33.752559+05:30'
+published_at: '2026-07-04T01:21:38.340331+05:30'
+collected_at: '2026-07-04T01:21:38.340358+05:30'
 tags:
 - agents
 - benchmark
@@ -20,9 +20,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:build-a-rag-system-from-scratch-step-by-step-with
-first_seen: '2026-07-03T15:07:33.752559+05:30'
-last_seen: '2026-07-03T15:07:33.752559+05:30'
-last_checked: '2026-07-03T15:07:33.752559+05:30'
+first_seen: '2026-07-04T01:21:38.340358+05:30'
+last_seen: '2026-07-04T01:21:38.340358+05:30'
+last_checked: '2026-07-04T01:21:38.340358+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Retrieval Pipeline**: Implements BM25 (keyword-based) + vector (semantic) search using `rank_bm25` and ChromaDB, followed by cross-encoder reranking to improve retrieval precision, eliminating reliance on proprietary reranking APIs.
+- **Hybrid Retrieval Pipeline**: Implements BM25 + vector search (OpenAI `text-embedding-3-small`) in ChromaDB for improved retrieval relevance, combining semantic similarity with exact keyword matching.
 
-- **Reranking Mechanism**: Uses a lightweight cross-encoder (`cross-encoder/ms-marco-MiniLM-L-6-v2`) to re-score top-k candidates from hybrid search, boosting relevance by 15-30% over standalone retrieval methods.
+- **Cross-Encoder Reranking**: Uses a free cross-encoder model (e.g., `cross-encoder/ms-marco-MiniLM-L-6-v2`) to rerank hybrid search results, boosting precision by re-scoring candidate documents based on contextual relevance.
 
-- **Performance Metrics**: Achieves 0.85+ RAGAS scores (faithfulness, answer correctness, context precision) with hybrid search, demonstrating superior grounding compared to pure vector search (0.72 RAGAS score).
+- **Evaluation Metrics**: Integrates RAGAS (v0.2.15) to measure retrieval quality across 4 metrics (faithfulness, answer relevance, context precision, context recall) for objective pipeline assessment.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T15:07:33.752545+05:30
+- Published: 2026-07-04T01:21:38.340331+05:30
 
 ## Related Tags
 

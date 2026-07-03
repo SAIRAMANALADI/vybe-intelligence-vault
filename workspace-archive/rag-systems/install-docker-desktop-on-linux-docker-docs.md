@@ -2,13 +2,13 @@
 title: Install Docker Desktop on Linux | Docker Docs
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://docs.docker.com/desktop/linux/install
+source_url: https://docs.docker.com/desktop/linux/install/
 resource_id: blog:install-docker-desktop-on-linux-docker-docs
 local_vault_path: ai/rag/install-docker-desktop-on-linux-docker-docs.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - hackernews
@@ -17,7 +17,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Install Docker Desktop on Linux | Docker Docs
@@ -26,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Installation & Context Isolation**: Docker Desktop for Linux runs in a VM with an isolated `desktop-linux` context, requiring manual switching via `docker context use`; conflicts arise if Docker Engine is running concurrently due to port/resource contention.
-
-- **System Requirements**: Requires 64-bit CPU with virtualization support, KVM-enabled kernel modules (`kvm_intel`/`kvm_amd`), QEMU ≥5.2, systemd, ≥4GB RAM, and user permissions configured via `sudo usermod -aG kvm $USER`.
-
-- **SDK Con
+- **Docker Desktop for Linux** runs in a VM, creating a dedicated `desktop-linux` context, isolating its containers/images from the host's Docker Engine (pre-installation).
+- **Requirements**: 64-bit CPU with KVM virtualization support, QEMU ≥5.2, systemd, ≥4GB RAM, and user permissions configured for `/dev/kvm` (e.g., `sudo usermod -aG kvm $USER`).
+- **Dual Installation**: Docker Desktop and Docker Engine can coexist but require context switching (`docker context use`) to avoid port conflicts;
 
 ## Use Cases
 
@@ -47,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.docker.com/desktop/linux/install
+Original source URL: https://docs.docker.com/desktop/linux/install/
 
 ## Local Vault File
 

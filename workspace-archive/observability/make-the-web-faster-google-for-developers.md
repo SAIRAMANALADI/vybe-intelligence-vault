@@ -8,14 +8,14 @@ local_vault_path: ai/rag/make-the-web-faster-google-for-developers.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - rag
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Make the Web Faster | Google for Developers
@@ -24,18 +24,16 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **PageSpeed Tools**: Google's PageSpeed Insights provides performance scores and actionable suggestions for website optimization via online analysis, while PageSpeed Modules (Apache/Nginx) automatically rewrite and optimize site resources in real-time.
+- **PageSpeed Tools**: Google provides online tools like [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights) for analyzing and optimizing website performance, offering actionable suggestions to improve speed. Additionally, open-source [PageSpeed Modules](https://developers.google.com/speed/pagespeed/module) for Apache/Nginx automate resource optimization on servers.
 
-- **Infrastructure Leveraging**: Google Public DNS enhances browsing speed/security, and Google's CDN serves popular open-source JavaScript libraries to reduce latency and improve load times.
-
-- **Performance Standards & Best Practices**: Googl
+- **Infrastructure Leveraging**: Google Public DNS enhances browsing speed/security, while [hosted librar
 
 ## Use Cases
 

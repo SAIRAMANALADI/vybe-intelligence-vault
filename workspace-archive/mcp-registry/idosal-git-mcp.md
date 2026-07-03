@@ -6,9 +6,9 @@ source_url: https://github.com/idosal/git-mcp
 resource_id: github:idosal/git-mcp
 local_vault_path: ai/agents/idosal-git-mcp.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # idosal/git-mcp
@@ -27,17 +27,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 81 (useful)
-- Resource kind: mcp-server
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **GitMCP Overview**: Open-source TypeScript-based MCP server enabling remote access to any GitHub repository, designed to mitigate AI code hallucinations by providing accurate, real-time code context.
-- **Integration & Use Cases**: Compatible with AI agents (Claude, Copilot, Cursor) for secure, agentic workflows; supports structured queries for repository metadata, file content, and diffs.
-- **Technical Features**: Implements MCP (Model Context Protocol) for standardized communication; last up
+- **Purpose**: Acts as a remote MCP (Model Context Protocol) server enabling AI agents to interact with any GitHub repository to mitigate code hallucinations via direct, real-time access to codebases.
+
+- **Technical Stack**: Implemented in TypeScript, facilitating seamless integration with AI-driven development tools (e.g., Claude, Copilot, Cursor) and supporting agentic workflows.
+
+- **Features**: Open-source under permissive licensing, supports dynamic repository queries, and enables context-a
 
 ## Use Cases
 

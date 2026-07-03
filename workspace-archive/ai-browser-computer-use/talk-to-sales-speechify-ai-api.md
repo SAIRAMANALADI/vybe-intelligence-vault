@@ -29,9 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **Response Time & Routing**: Guaranteed reply within one business day from a real engineer or account lead, with inquiries routed based on volume pricing, compliance, or pilot needs.
-- **No-Pressure Process**: Initial short conversation to assess fit, with free-tier access available for immediate prototyping.
-- **Contact Options**: Direct email (`api@speechify.com`) or web form submission; free API key provided post-inquiry for hands-on development.
+- **Response Time & Routing**: Guarantees a reply within one business day from a real engineer or account lead, with inquiries routed based on volume pricing, compliance, or guided pilot needs.
+- **No-Pressure Process**: Focuses on a brief, low-pressure conversation to assess fit, while allowing immediate use of the free tier for testing.
+- **Contact Options**: Provides both a web form and direct email (`api@speechify.com`) for inquiries, with a follow-up confirmation and free API key access for
 
 ## Use Cases
 

@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - benchmark
-- hackernews
 - models
 - openai
 - rag
@@ -36,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- Haystack supports **evaluation frameworks** for assessing RAG pipelines using statistical and model-based metrics (e.g., relevance, answer correctness).
-- **Agentic workflows** enable multi-tool integration, including web search fallbacks, human-in-the-loop confirmations, and multi-agent systems for modular task specialization.
-- **Advanced retrieval techniques** include hybrid (dense + keyword) retrieval, metadata embedding for improved filtering, and sentence-window retrieval for contextual
+- **Evaluation Framework**: Haystack provides a guided walkthrough for implementing evaluation metrics to assess RAG pipeline performance, including statistical and model-based approaches.
+
+- **Agentic RAG Systems**: Tutorials cover advanced agentic workflows, including multi-agent systems, tool-calling agents, and fallback mechanisms (e.g., web search integration) for dynamic query routing.
+
+- **Multimodal & Structured Outputs**: Haystack supports multimodal RAG (vision+text) and structured out
 
 ## Use Cases
 

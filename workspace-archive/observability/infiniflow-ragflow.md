@@ -2,20 +2,14 @@
 title: infiniflow/ragflow
 archive_category: observability
 source_category: ai/rag
-source_url: https://github.com/infiniflow/ragflow
+source_url: https://github.com/infiniflow/ragflow?source=post_page
 resource_id: github:infiniflow/ragflow
 local_vault_path: ai/rag/infiniflow-ragflow.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
-tags:
-- agents
-- github-repo
-- go
-- rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -27,18 +21,18 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Hybrid RAG Architecture**: Combines advanced Retrieval-Augmented Generation (RAG) with Agent-based workflows to enhance LLM context processing via dynamic retrieval and reasoning integration.
+- **Hybrid RAG-Enabled Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with agent-based workflows to dynamically enhance LLM context precision via structured document parsing (e.g., PDFs, spreadsheets) and semantic retrieval.
 
-- **Go-Based Implementation**: Built in Go for high-performance parallel processing, optimized for low-latency retrieval and scalable context management in production environments.
+- **Agentic Context Management**: Implements multi-agent orchestration for adaptive retrieval, query refinement, and real-time context fusion, optimizing LLM inference with domain-specific knowledge graphs and dynamic prompt engineering.
 
-- **Agentic Context Engine**: Supports multi-agent orchestration for adaptive retrieval, context refinement, and tool int
+-
 
 ## Use Cases
 
@@ -48,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/infiniflow/ragflow
+Original source URL: https://github.com/infiniflow/ragflow?source=post_page
 
 ## Local Vault File
 

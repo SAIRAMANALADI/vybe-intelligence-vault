@@ -12,7 +12,9 @@ resource_kind: workflow
 importance: medium
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
+- models
 - workflows
 selection_reason:
 - Strong keyword match
@@ -32,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Resource Hub**: Repository containing Jupyter Notebooks, code samples, and applications demonstrating ML and generative AI workflows on Google Cloud Vertex AI, covering AutoML, MLOps, and model deployment.
-
-- **Multi-Topic Support**: Includes samples for Vertex AI features such as Gemini API, generative AI, model garden, pipelines, and predictions, with integration for Colab and Colab Enterprise.
-
-- **Google Cloud Integration**: Provides practical examples for managing and deve
+- **Repository Contents**: Hosts Jupyter Notebooks, code samples, and sample apps demonstrating ML and generative AI workflows on Google Cloud Vertex AI, including AutoML, MLOps, and model deployment.
+- **Key Features**: Supports Colab/Colab Enterprise integration, Vertex AI Workbench, and includes resources for Gemini API, GenAI, and Model Garden.
+- **Technical Scope**: Covers end-to-end workflows for training, fine-tuning, deploying, and managing ML models with Vertex AI pipelines and predicti
 
 ## Use Cases
 

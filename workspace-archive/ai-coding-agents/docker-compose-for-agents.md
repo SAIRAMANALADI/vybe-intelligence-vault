@@ -8,7 +8,7 @@ local_vault_path: ai/agents/docker-compose-for-agents.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: template
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -30,15 +30,15 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: template
+- Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Purpose**: Provides Docker Compose configurations to deploy and orchestrate open-source AI agents, LLMs (e.g., `llama-cpp`), tools, and agent runtimes for agentic workflows.
-- **Technical Stack**: TypeScript-based examples with Docker integration, supporting self-hosted setups and compatibility with frameworks like OpenAI Gym.
-- **Features**: Ready-to-use templates for managing agentic workflows, LLMs, and tools, last updated June 2026 with 986 stars and 443 forks.
+- **Purpose**: Enables deployment and orchestration of AI agents using Docker Compose, integrating open-source LLMs, tools, and agent runtimes via pre-configured examples.
+- **Key Components**: Supports self-hosted agentic workflows with tools like `llama-cpp`, `OpenAI Gym`, and agent frameworks, all managed through declarative `docker-compose.yml` configurations.
+- **Technical Stack**: TypeScript-based repository with examples for orchestrating containerized AI agents, last updated in July 2026
 
 ## Use Cases
 

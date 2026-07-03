@@ -8,24 +8,24 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 
 ## Top Matched Resources
 
+- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) (template - ESSENTIAL Tier)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
 - [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (template - ESSENTIAL Tier)
+- [Vue · GitHub](https://github.com/vuejs/) (framework - ESSENTIAL Tier)
 - [git/git](https://github.com/git/git) (workflow - ESSENTIAL Tier)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
 - [Stainless · GitHub](https://github.com/stainless-api) (framework - ESSENTIAL Tier)
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) (framework - ESSENTIAL Tier)
-- [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes) (workflow - ESSENTIAL Tier)
-- [devguide/documentation/help-documenting.rst at main · python/devguide · GitHub](https://github.com/python/devguide/blob/main/documentation/help-documenting.rst?plain=true) (tutorial - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/n8n-io/n8n (n8n)
+- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
 - [vin67/crewai_docker](https://github.com/vin67/crewai_docker)
+- [Vue · GitHub](https://github.com/vuejs/)
 - [git/git](https://github.com/git/git)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
-- [Stainless · GitHub](https://github.com/stainless-api)
-- [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-07-03 22:33 IST*
+*Last updated: 2026-07-04 01:38 IST*

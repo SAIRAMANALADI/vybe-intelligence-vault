@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-03T22:19:02.654033+05:30'
+collected_at: '2026-07-04T01:23:16.426534+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-03T22:19:02.654033+05:30'
-last_seen: '2026-07-03T22:19:02.654033+05:30'
-last_checked: '2026-07-03T22:19:02.654033+05:30'
+first_seen: '2026-07-04T01:23:16.426534+05:30'
+last_seen: '2026-07-04T01:23:16.426534+05:30'
+last_checked: '2026-07-04T01:23:16.426534+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Granular RAG Framework**: Introduces a retrieval-augmented generation (RAG) system capable of handling diverse data modalities (text, images, tables) and granularities (documents, paragraphs, entities) via a unified architecture.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation across diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, entity-level), leveraging unified embedding and indexing strategies.
 
-- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval mechanism leveraging modality-specific encoders (e.g., CLIP for vision, BERT for text) and a shared embedding space for joint indexing and retrieval.
+- **ACL 2026 Oral Presentation**: The system is highlighted as an oral presentation at ACL 2026, emphasizing its novel contributions to scalable, cross-modal retrieval and generation in large corpora.
 
-- **Dynamic Granularity Adaptation**: Employs a hierarchical retrieval strategy that dynamically adjusts granularity (coarse-to-fine) based on query complexity and context, optimizing both relevance and computational efficiency.
+- **Python Implementation**: The framework is implemented in Python, integrating with modern LLM architectures and retrieval libraries (e.g., FAISS, Weaviate) for efficient multimodal indexing and dynamic context fusion.
 
 ## Why It Matters
 

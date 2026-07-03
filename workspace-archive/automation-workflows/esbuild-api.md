@@ -2,7 +2,7 @@
 title: esbuild - API
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://esbuild.github.io/api/#main-fields
+source_url: https://esbuild.github.io/api/#external
 resource_id: blog:esbuild-api
 local_vault_path: ai/rag/esbuild-api.md
 quality_score: 70
@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **API Access**: Supports CLI, JavaScript, and Go with identical core concepts; CLI flags use `--foo`, `--foo=bar`, or `--foo:bar` for boolean, single-value, and multi-value parameters respectively, while shell interpretation issues can be avoided by using JS/Go APIs.
+- Esbuild provides three language interfaces (CLI, JavaScript, Go) with identical core concepts but language-specific syntax; CLI flags support `--foo`, `--foo=bar`, or `--foo:bar` formats for boolean, single-value, and multi-value parameters respectively.
 
-- **Build & Transform APIs**: Primary `build` API bundles/processes entry points with extensive options (e.g., bundling, minification, source maps), while the `transform` API isolates in-memory code transformations (e.g., TS→JS,
+- The primary APIs are `build` (file-based bundling/transformation) and `transform` (in-memory code transformation), with incremental build modes (`watch`, `serve`, `rebuild`) enabled via a shared `context` object for optimized development wo
 
 ## Use Cases
 
@@ -46,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://esbuild.github.io/api/#main-fields
+Original source URL: https://esbuild.github.io/api/#external
 
 ## Local Vault File
 

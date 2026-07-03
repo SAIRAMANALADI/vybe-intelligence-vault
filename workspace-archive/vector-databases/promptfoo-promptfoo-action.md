@@ -18,7 +18,6 @@ tags:
 - meta-ai
 - models
 - rag
-- scripts
 - typescript
 - workflows
 selection_reason:
@@ -37,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **LLM Evaluation & Testing**: GitHub Action for automated testing of prompts, agents, and RAG systems across models (GPT, Claude, Gemini, Llama, etc.) with performance comparison and CI/CD integration.
-- **AI Red Teaming & Security**: Enables pentesting, vulnerability scanning, and adversarial testing for LLM applications via declarative configurations.
-- **TypeScript-Based**: Implemented in TypeScript with simple YAML/JSON configs for declarative workflows and seamless GitHub Actions integrat
+- **GitHub Action for Promptfoo**: Enables automated testing and evaluation of LLM prompts, agents, and RAG systems with AI red teaming, pentesting, and vulnerability scanning capabilities.
+- **Multi-Model Support**: Compares performance across major LLMs (GPT, Claude, Gemini, Llama, etc.) via declarative configurations with CLI and CI/CD integration.
+- **TypeScript-Based**: Implemented in TypeScript, supporting simple YAML/JSON configs for declarative prompt evaluation and security testing work
 
 ## Use Cases
 

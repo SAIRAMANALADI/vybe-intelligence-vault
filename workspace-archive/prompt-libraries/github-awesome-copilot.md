@@ -13,8 +13,8 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource Hub**: A community-driven GitHub repository (`github/awesome-copilot`) aggregating instructions, agents, skills, and configurations to optimize GitHub Copilot usage, with 36,140+ stars and 4,488+ forks.
-
-- **Technical Focus**: Primarily Python-based, the repository includes prompt engineering techniques, custom agent implementations (`custom-agents`), and agent-specific skills (`agent-skills`) to enhance Copilot’s functionality.
-
-- **Active Maintenance & Topics**: Last updat
+- **Curated Resource Hub**: Aggregates community-driven guides, agents, skills, and configurations to optimize GitHub Copilot usage, covering prompt engineering, custom agents, and AI-driven workflows.
+- **Multi-Topic Repository**: Encompasses topics like `agent-skills`, `custom-agents`, `hacktoberfest`, and `prompt-engineering`, with active maintenance (last updated July 2026).
+- **Python-Centric & Open-Source**: Primarily Python-based, fostering extensibility with 36K+ stars and 4.5K+ forks, e
 
 ## Use Cases
 

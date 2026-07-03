@@ -1,5 +1,5 @@
 ---
-title: 'My Dad Helped Build North America''s Oat Supply Chain: Can It Be Remade?'
+title: 'My dad helped build North America''s oat supply chain: Can it be remade?'
 archive_category: automation-workflows
 source_category: ai/community
 source_url: https://ambrook.com/offrange/perspective/how-we-lost-our-oats
@@ -18,7 +18,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?
+# My dad helped build North America's oat supply chain: Can it be remade?
 
 ## Why This Is In The Archive
 
@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by surprisetalk. Score: 14, Comments: 1.
+Hacker News story by surprisetalk. Score: 59, Comments: 26.
 Original Link: https://ambrook.com/offrange/perspective/how-we-lost-our-oats
 
 ## Use Cases

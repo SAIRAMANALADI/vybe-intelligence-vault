@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-07-03T22:18:57.638392+05:30'
+collected_at: '2026-07-04T01:23:11.417725+05:30'
 published_at: '2026-07-03T10:01:26Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
 stars: 1213
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-07-03T22:18:57.638392+05:30'
-last_seen: '2026-07-03T22:18:57.638392+05:30'
-last_checked: '2026-07-03T22:18:57.638392+05:30'
+first_seen: '2026-07-04T01:23:11.417725+05:30'
+last_seen: '2026-07-04T01:23:11.417725+05:30'
+last_checked: '2026-07-04T01:23:11.417725+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent architecture where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) operate hierarchically within a graph-based RAG system to enhance complex reasoning tasks.
 
-- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Integrates graph-based knowledge retrieval with large language models (LLMs) to dynamically construct and traverse knowledge graphs, improving factual accuracy and contextual relevance in reasoning.
+- **Graph-Centric RAG**: Leverages a unified graph structure to integrate heterogeneous data (text, knowledge graphs) for retrieval-augmented reasoning, optimizing contextual relevance and logical coherence in outputs.
 
-- **Python Implementation**: Provides an open-source framework in Python, optimized for scalability and modularity, with support for dynamic graph updates and agent coordination in complex reasoning workflows.
+- **ICLR 2026 Contribution**: Proposes a novel architecture combining graph neural networks (GNNs) with large language models (LLMs) to enable scalable, interpretable, and efficient complex reasoning in real-world applications.
 
 ## Why It Matters
 

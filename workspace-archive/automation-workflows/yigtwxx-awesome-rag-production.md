@@ -12,7 +12,8 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- hackernews
+- meta-ai
+- models
 - python
 - rag
 - workflows
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`Yigtwxx/awesome-rag-production`) listing production-grade tools, frameworks, and best practices for scalable RAG systems, covering LLMs, embeddings, vector databases, and MLOps.
+- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, covering end-to-end deployment challenges.
 
-- **Technical Scope**: Focuses on Python-based implementations, integrating LangChain, LLMOps, and generative AI workflows for deployment-ready RAG pipelines.
+- **Comprehensive Tech Stack**: Includes Python-based tools for embeddings (e.g., FAISS, Chroma), vector databases (e.g., Pinecone, Weaviate), LLM frameworks (e.g., LangChain, LlamaIndex), and MLOps pipelines for RAG workflows.
 
-- **Community & Updates**: Maintained with 136 stars, 33 forks, and last updated July 2026, emphasizing cutting-edg
+- **MLOps & AI Engineering Foc
 
 ## Use Cases
 

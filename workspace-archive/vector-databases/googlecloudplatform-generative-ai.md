@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Hosts sample code and Jupyter Notebooks for deploying Generative AI solutions on Google Cloud, specifically leveraging the **Gemini Enterprise Agent Platform** and **Vertex AI**.
+- **Repository Overview**: Hosts sample code and Jupyter Notebooks for deploying Generative AI solutions on Google Cloud, specifically leveraging the **Gemini Enterprise Agent Platform** and **Vertex AI** for LLM integration.
 
-- **Key Components**: Integrates **LangChain**, **Gemini API**, and **Vertex AI Gemini API** for building agents, LLMs, and generative AI workflows with Google Cloud services.
+- **Key Technologies**: Supports **Gemini API**, **LangChain**, and **Vertex AI Gemini API**, with examples covering **large language models (LLMs)**, agent-based workflows, and Google Cloud services (GCP).
 
-- **Technical Stack**: Primarily uses **Jupyter Notebooks** and supports **GCP (Google Cloud Platform)** services, i
+- **Structure & Usage**: Contains modular notebooks for rapid pro
 
 ## Use Cases
 

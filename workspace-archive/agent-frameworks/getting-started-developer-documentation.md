@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Custom Agent Integration**: LlamaSheets enables the deployment of custom agents to process extracted spreadsheet data, allowing for tailored data analysis pipelines via API or SDK.
+- **Custom Agent Integration**: LlamaSheets enables programmatic interaction with spreadsheet data via custom agents, allowing for automated analysis and manipulation of structured data using defined APIs or SDKs.
 
-- **Workflow Automation**: Supports the creation of automated workflows that chain multiple processing steps (e.g., cleaning, transformation, aggregation) for scalable, repeatable data operations.
+- **Workflow Automation**: Supports creation of multi-step workflows to process spreadsheet data, including data extraction, transformation, and loading (ETL) with conditional logic and error handling.
 
-- **Extensible Architecture**: Facilitates integration with external tools (e.g., Python scripts, cloud services) to
+- **Extensibility via APIs**: Facilitates integration with external tools/services
 
 ## Use Cases
 

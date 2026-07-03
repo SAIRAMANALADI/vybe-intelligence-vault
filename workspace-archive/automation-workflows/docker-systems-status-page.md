@@ -2,7 +2,7 @@
 title: Docker Systems Status Page
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: http://dockerstatus.com/
+source_url: https://www.dockerstatus.com/
 resource_id: blog:docker-systems-status-page
 local_vault_path: ai/rag/docker-systems-status-page.md
 quality_score: 70
@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **All Docker services (Hub Registry, Authentication, Desktop, Docs, etc.) are fully operational** with 100% uptime across all monitored endpoints as of the latest update.
-
-- **API response times** for Docker Registry Hub and Docker.com average **~420ms**, with **Docker Com Uptime** at **99.98-100%** over recent intervals.
-
-- **Status monitoring** supports email, webhook, RSS, and Slack integrations via Status.io, with no reported incidents affecting service availability.
+- **All Docker services (Hub Registry, Authentication, Desktop, Docs, etc.) are fully operational** with 100% uptime across all metrics.
+- **API response times** average **~420ms** (Registry Hub: 419.04ms, Docker Com: 432.16ms) with **100% uptime** in the latest reported intervals.
+- **Status tracking** available via **email, webhook, RSS, and Slack**; historical data accessible via [Status History](https://www.dockerstatus.com/pages/history/533c6539221ae15e3f000031).
 
 ## Use Cases
 
@@ -48,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: http://dockerstatus.com/
+Original source URL: https://www.dockerstatus.com/
 
 ## Local Vault File
 

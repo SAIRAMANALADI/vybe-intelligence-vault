@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-07-03T22:17:52.612319+05:30'
-published_at: '2026-07-02T18:18:02Z'
+collected_at: '2026-07-04T01:22:06.376225+05:30'
+published_at: '2026-07-03T18:15:32Z'
 tags:
 - benchmark
 - github-repo
@@ -13,7 +13,8 @@ tags:
 - python
 - rag
 - scripts
-stars: 4853
+- workflows
+stars: 4852
 language: Python
 status: active
 license: Apache-2.0
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-07-02T03:46:39Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-07-03T22:17:52.612319+05:30'
-last_seen: '2026-07-03T22:17:52.612319+05:30'
-last_checked: '2026-07-03T22:17:52.612319+05:30'
+first_seen: '2026-07-04T01:22:06.376225+05:30'
+last_seen: '2026-07-04T01:22:06.376225+05:30'
+last_checked: '2026-07-04T01:22:06.376225+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning and improving performance across metrics like answer correctness, context relevance, and latency.
+- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using AutoML techniques, reducing manual tuning effort.
 
-- **Comprehensive Pipeline Support**: The framework integrates document parsing, embedding generation, retrieval, and generation stages with built-in benchmarking tools, enabling end-to-end analysis and optimization of RAG systems for diverse tasks (e.g., QA, document retrieval).
+- **Comprehensive RAG Pipeline Support**: Includes document parsing, embedding generation, retrieval, and LLM integration with built-in benchmarking and analysis tools for end-to-end RAG workflows.
 
-- **Open-Source Python Toolkit**: Built in Python, AutoRAG provides modular components (e.g., embeddings, evaluators) and supports customization for LLMs, retrieval methods, and evaluation criteria, with active community contributions and frequent updates.
+- **Open-Source Python Framework**: Provides a modular, extensible Python library with pre-configured pipelines, evaluation metrics, and optimization strategies for rapid RAG deployment and iteration.
 
 ## Why It Matters
 
@@ -44,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Marker-Inc-Korea
-- Stars: 4853
+- Stars: 4852
 - Forks: 405
 - Language: Python
 - Topics: analysis, automl, benchmarking, document-parser, embeddings, evaluation, llm, llm-evaluation, llm-ops, open-source, ops, optimization, pipeline, python, qa, rag, rag-evaluation, retrieval-augmented-generation
-- Last Updated: 2026-07-02T18:18:02Z
+- Last Updated: 2026-07-03T18:15:32Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-01-10T12:25:00Z

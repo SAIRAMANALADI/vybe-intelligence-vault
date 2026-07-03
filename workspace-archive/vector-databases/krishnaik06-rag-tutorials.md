@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository containing Jupyter Notebooks focused on Retrieval-Augmented Generation (RAG) tutorials, with 364 stars and 331 forks.
-- **Technical Stack**: Primarily utilizes Python-based Jupyter Notebooks for RAG implementations and demonstrations.
-- **Last Activity**: Repository last updated on **July 2, 2026**, indicating recent or ongoing development.
+- **Repository**: `krishnaik06/RAG-Tutorials` is a Jupyter Notebook-based collection focused on Retrieval-Augmented Generation (RAG) techniques, with 365 stars and 331 forks.
+- **Last Updated**: The repository was last updated on **July 3, 2026**, indicating recent or ongoing development.
+- **Content**: Despite no explicit description, the repository likely contains tutorials, implementations, or demonstrations of RAG methodologies in Jupyter Notebook format.
 
 ## Use Cases
 

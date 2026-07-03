@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ALucek/GraphRAG-Breakdown
-collected_at: '2026-07-03T22:18:07.558800+05:30'
+collected_at: '2026-07-04T01:22:21.373074+05:30'
 published_at: '2026-06-24T01:50:50Z'
 tags:
+- benchmark
 - github-repo
 - jupyter notebook
 - rag
-- workflows
 stars: 174
 language: Jupyter Notebook
 status: active
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-12-20T10:35:56Z'
 pushed_at: '2024-12-20T10:38:46Z'
 resource_id: github:alucek/graphrag-breakdown
-first_seen: '2026-07-03T22:18:07.558800+05:30'
-last_seen: '2026-07-03T22:18:07.558800+05:30'
-last_checked: '2026-07-03T22:18:07.558800+05:30'
+first_seen: '2026-07-04T01:22:21.373074+05:30'
+last_seen: '2026-07-04T01:22:21.373074+05:30'
+last_checked: '2026-07-04T01:22:21.373074+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Knowledge Graph RAG Architecture**: Demonstrates a modular pipeline integrating knowledge graphs (KGs) with retrieval-augmented generation (RAG), emphasizing graph-based retrieval over traditional vector search for contextual grounding.
+- **Knowledge Graph RAG Architecture**: Demonstrates a modular pipeline integrating knowledge graphs (KGs) with Retrieval-Augmented Generation (RAG), including graph construction, retrieval, and generation stages with explicit component interactions.
 
-- **Visual & Code Breakdown**: Provides Jupyter Notebook-based diagrams and executable examples to illustrate KG construction, query optimization, and RAG integration, including entity resolution and relationship extraction workflows.
+- **Graph-Based Retrieval Mechanisms**: Implements graph-aware retrieval strategies (e.g., subgraph extraction, path-based retrieval) to enhance context relevance, with visualizations of query processing over KGs.
 
-- **Performance & Use Cases**: Highlights practical applications (e.g., QA over structured data) and discusses trade-offs between KG complexity, retrieval latency, and generation quality in hybrid RAG systems.
+- **Evaluation & Examples**: Provides Jupyter Notebook-based case studies comparing traditional RAG vs. GraphRAG, including metrics (e.g., answer correctness, retrieval precision) and failure mode analyses.
 
 ## Why It Matters
 

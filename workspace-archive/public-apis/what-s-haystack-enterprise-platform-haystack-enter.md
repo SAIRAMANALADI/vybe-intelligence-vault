@@ -2,7 +2,7 @@
 title: What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation
 archive_category: public-apis
 source_category: ai/rag
-source_url: https://docs.cloud.deepset.ai/docs/getting-started
+source_url: https://docs.cloud.deepset.ai/docs/getting-started?__hstc=17958374.34708e2a09562f4972500c174140941c.1781253286645.1782744530064.1782887335051.6&__hssc=17958374.15.1782887335051&__hsfp=f0d584f5cf03caae536faced7333acfe
 resource_id: blog:what-s-haystack-enterprise-platform-haystack-enter
 local_vault_path: ai/rag/what-s-haystack-enterprise-platform-haystack-enter.md
 quality_score: 70
@@ -12,10 +12,8 @@ resource_kind: benchmark
 importance: medium
 tags:
 - agents
-- benchmark
 - models
 - rag
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -36,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified AI Application Lifecycle Management**: Enables end-to-end development, prototyping, deployment, and monitoring of AI-powered applications with integrated data ingestion, model selection, and evaluation workflows.
+- **Data Processing Pipeline**: Supports automated ingestion, OCR, and preprocessing of unstructured data (PDFs, Office docs, images) via built-in converters and document stores for vectorized retrieval.
 
-- **Modular Pipeline Architecture**: Supports AI agents and advanced RAG systems via configurable pipelines (retrievers, rankers, generators) with visual Pipeline Builder and model-agnostic integrations for LLMs/embeddings.
+- **Modular AI Agents & RAG**: Enables construction of multi-component pipelines (retrievers, rankers, generators) for enterprise-grade agents and RAG systems with model-agnostic LLM/embedding provider integration.
 
-- **Enterprise Observability & Deployment**: Prov
+- **Lifecycle Management**: Provides REST API-driven deployment, observability
 
 ## Use Cases
 
@@ -50,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.cloud.deepset.ai/docs/getting-started
+Original source URL: https://docs.cloud.deepset.ai/docs/getting-started?__hstc=17958374.34708e2a09562f4972500c174140941c.1781253286645.1782744530064.1782887335051.6&__hssc=17958374.15.1782887335051&__hsfp=f0d584f5cf03caae536faced7333acfe
 
 ## Local Vault File
 

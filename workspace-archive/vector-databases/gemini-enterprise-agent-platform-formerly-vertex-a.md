@@ -2,13 +2,13 @@
 title: Gemini Enterprise Agent Platform (formerly Vertex AI) | Google Cloud
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://cloud.google.com/products/gemini-enterprise-agent-platform
+source_url: https://cloud.google.com/vertex-ai
 resource_id: blog:gemini-enterprise-agent-platform-formerly-vertex-a
 local_vault_path: ai/rag/gemini-enterprise-agent-platform-formerly-vertex-a.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -22,7 +22,7 @@ tags:
 - producthunt
 - rag
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Gemini Enterprise Agent Platform (formerly Vertex AI) | Google Cloud
@@ -31,15 +31,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Unified Agent Development & Deployment**: Google Cloud's Gemini Enterprise Agent Platform provides a single environment for building, scaling, governing, and optimizing enterprise-grade AI agents, integrating Vertex AI tools with unified data/AI workflows and MLOps automation.
+- **Unified AI Agent Development**: Google Cloud's Gemini Enterprise Agent Platform integrates data, AI models (e.g., Gemini 3.5, Claude, Gemma), and MLOps tools into a single environment for building, scaling, and governing enterprise-grade agents with unified workflows.
 
-- **Multi-Model & Customization Support**: Supports 200+ models (Gemini 3.5, Anthropic Claude, Gemma) via Model Garden, with fine-tuning options, security controls, and evaluation services for objective model assessme
+- **Model Customization & Evaluation**: Supports 200+ models with fine-tuning options (e.g., hyperparameter tuning, framework-agnostic training) and enterprise-grade evaluation via Model Evaluation service for objective model
 
 ## Use Cases
 
@@ -49,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://cloud.google.com/products/gemini-enterprise-agent-platform
+Original source URL: https://cloud.google.com/vertex-ai
 
 ## Local Vault File
 

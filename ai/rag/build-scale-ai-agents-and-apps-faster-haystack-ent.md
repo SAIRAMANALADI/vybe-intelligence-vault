@@ -3,22 +3,27 @@ title: Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.deepset.ai/products-and-services/deepset-ai-platform
-published_at: '2026-07-02T04:16:20.431846+05:30'
-collected_at: '2026-07-02T04:16:20.431857+05:30'
+source_url: https://www.deepset.ai/haystack
+published_at: '2026-07-04T01:25:23.455145+05:30'
+collected_at: '2026-07-04T01:25:23.455155+05:30'
 tags:
 - agents
-- dataset
+- anthropic
+- benchmark
 - hackernews
-- producthunt
+- meta-ai
+- mistral
+- models
+- openai
 - rag
+- reddit
 - web-crawled
 - workflows
 status: active
 resource_id: blog:build-scale-ai-agents-and-apps-faster-haystack-ent
-first_seen: '2026-07-02T04:16:20.431857+05:30'
-last_seen: '2026-07-02T04:16:20.431857+05:30'
-last_checked: '2026-07-02T04:16:20.431857+05:30'
+first_seen: '2026-07-04T01:25:23.455155+05:30'
+last_seen: '2026-07-04T01:25:23.455155+05:30'
+last_checked: '2026-07-04T01:25:23.455155+05:30'
 health_score: 100
 ---
 
@@ -26,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Enterprise AI Orchestration**: deepset's Haystack Enterprise Platform enables end-to-end development, testing, deployment, and monitoring of production-ready AI agents and applications with enterprise-grade security, scalability, and governance.
+- **Precision Context Engineering**: Enables fine-grained control over AI agent context, tools, and memory via configurable document retrieval, API access, and prompt construction with full transparency into decision-making inputs.
 
-- **Multimodal & Sovereign Data Handling**: Supports accurate retrieval across text, tables, images, and documents with built-in metadata management, multimodal indexing, and compliance for sensitive/classified data in sovereign control environments.
+- **Sovereign Deployment & Portability**: Supports multi-cloud/self-hosted deployment with serverless autoscaling, allowing seamless model/provider/vendor swapping without code rewrites, ensuring no vendor lock-in.
 
-- **Composable AI & Expert Integration**: Provides vendor-agnostic LLM integration via composable orchestration, iterative pipeline customization (drag-and-drop UI, custom components), and embedded AI expertise for rapid prototyping-to-deployment workflows.
+- **Production Observability & Governance**: Provides unified run history, component-level error tracking, runtime guardrails, and RBAC with SOC 2 Type II/ISO 27001/HIPAA/GDPR compliance for enterprise-grade security and auditability.
 
 ## Why It Matters
 
@@ -40,18 +45,23 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T04:16:20.431846+05:30
+- Published: 2026-07-04T01:25:23.455145+05:30
 
 ## Related Tags
 
 - agents
-- dataset
+- anthropic
+- benchmark
 - hackernews
-- producthunt
+- meta-ai
+- mistral
+- models
+- openai
 - rag
+- reddit
 - web-crawled
 - workflows
 
 ## Source
 
-Original source: https://www.deepset.ai/products-and-services/deepset-ai-platform
+Original source: https://www.deepset.ai/haystack

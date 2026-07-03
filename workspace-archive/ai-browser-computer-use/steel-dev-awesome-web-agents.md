@@ -17,7 +17,6 @@ tags:
 - hackernews
 - python
 - scripts
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Repository aggregating tools, frameworks, and resources for developing AI web agents, including browser automation, LLM benchmarking, and agent orchestration libraries.
-- **Technical Scope**: Focuses on Python-based solutions, covering LLM integration, agentic workflows, and web interaction automation for AI-driven systems.
-- **Community & Maintenance**: Actively maintained (last updated July 2026) with 1.5K+ stars and 192 forks, indicating strong community engagement i
+- **Curated Collection**: Repository hosting a structured, community-driven list of tools, frameworks, and resources specifically for developing AI-powered web agents, including browser automation and LLM integration.
+
+- **Technical Scope**: Focuses on Python-based solutions, covering AI agents, LLM benchmarking, and browser automation frameworks for autonomous web interaction.
+
+- **Metadata**: 1,495 stars, 192 forks, last updated July 3, 2026, with topics including `ai`, `ai-agents`, `browser-a
 
 ## Use Cases
 

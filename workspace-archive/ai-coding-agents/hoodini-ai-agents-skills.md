@@ -8,14 +8,14 @@ local_vault_path: ai/agents/hoodini-ai-agents-skills.md
 quality_score: 70
 archive_score: 85
 archive_tier: useful
-resource_kind: workflow
+resource_kind: tool
 importance: medium
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - python
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -27,18 +27,16 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 85 (useful)
-- Resource kind: workflow
+- Resource kind: tool
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Repository Overview**: Curated collection of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf) implemented in Python, created using GitHub Copilot via VS Code Insiders.
-
-- **Metadata**: 242 stars, 58 forks, last updated on 2026-07-02T14:43:02Z, no additional topics specified.
-
-- **Purpose**: Designed to enhance AI agent capabilities by providing modular, reusable skill implementations for AI-driven development workflows.
+- **Repository Overview**: Curated collection of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf), authored by Yuval Avidani via GitHub Copilot in VS Code Insiders.
+- **Metadata**: 242 stars, 58 forks, Python-based, last updated 2026-07-02T14:43:02Z.
+- **Purpose**: Repository serves as a technical resource for extending AI agent capabilities with domain-specific skills.
 
 ## Use Cases
 

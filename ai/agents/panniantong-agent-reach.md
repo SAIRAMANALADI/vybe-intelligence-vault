@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Panniantong/Agent-Reach
-collected_at: '2026-07-02T20:02:45.944404+05:30'
-published_at: '2026-07-02T14:27:56Z'
+collected_at: '2026-07-04T01:23:26.453067+05:30'
+published_at: '2026-07-03T19:53:15Z'
 tags:
 - agents
 - anthropic
@@ -15,17 +15,17 @@ tags:
 - scripts
 - workflows
 - youtube
-stars: 48880
+stars: 49770
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2026-02-24T02:10:24Z'
-pushed_at: '2026-07-02T10:34:41Z'
+pushed_at: '2026-07-03T06:57:59Z'
 resource_id: github:panniantong/agent-reach
-first_seen: '2026-07-02T20:02:45.944404+05:30'
-last_seen: '2026-07-02T20:02:45.944404+05:30'
-last_checked: '2026-07-02T20:02:45.944404+05:30'
+first_seen: '2026-07-04T01:23:26.453067+05:30'
+last_seen: '2026-07-04T01:23:26.453067+05:30'
+last_checked: '2026-07-04T01:23:26.453067+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Platform Web Scraper**: CLI tool (`Agent-Reach`) in Python enabling AI agents to extract data from Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu without API fees, supporting transcripts, posts, and code repositories.
+- **Multi-Platform Web Scraper**: CLI tool written in Python that enables AI agents to extract and search content from Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu without incurring API fees.
 
-- **Zero-Cost Architecture**: Eliminates API dependency by scraping directly via open-source libraries (e.g., `snscrape` for Twitter, `yt-dlp` for YouTube) and custom parsers, optimized for LLM integration (e.g., MCP, Claude Code).
+- **Zero-Cost Data Retrieval**: Implements custom scrapers for each platform, bypassing official APIs to provide unrestricted access to public data, reducing operational costs for LLM-based agents.
 
-- **Modular & Extensible**: Designed for agentic workflows with 48.8k+ stars, supporting automation via CLI, and last updated July 2026 for real-time data retrieval across 17+ topics (e.g., `ai-search`, `web-scraper`).
+- **Integration & Automation**: Supports MCP (Model Context Protocol), CLAUDE-Code, and Cursor, facilitating seamless integration into existing AI agent workflows for real-time web data ingestion.
 
 ## Why It Matters
 
@@ -46,15 +46,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Panniantong
-- Stars: 48880
-- Forks: 3891
+- Stars: 49770
+- Forks: 3963
 - Language: Python
 - Topics: agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript
-- Last Updated: 2026-07-02T14:27:56Z
+- Last Updated: 2026-07-03T19:53:15Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-24T02:10:24Z
-- Pushed At: 2026-07-02T10:34:41Z
+- Pushed At: 2026-07-03T06:57:59Z
 
 ## Possible Use Cases
 

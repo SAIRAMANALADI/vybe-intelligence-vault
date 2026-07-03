@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Framework**: τ-Bench introduces a structured benchmark for evaluating tool-agent-user interactions in real-world domains, focusing on conversational agents and LLM-based systems.
-- **Multi-Component Evaluation**: Assesses performance across tool usage, agent decision-making, and user interaction dynamics, providing granular metrics for system efficiency and reliability.
-- **Python-Based Implementation**: Open-source repository with modular Python codebase, enabling extensibility an
+- **τ-Bench** introduces a benchmark framework for evaluating tool-agent-user interactions in real-world domains, focusing on conversational agents and language model agents.
+- The repository provides a Python-based implementation with 1,509 stars and 380 forks, last updated in July 2026.
+- Designed to assess multi-turn tool-use capabilities, τ-Bench targets LLMs in complex, domain-specific scenarios requiring agent-mediated interactions.
 
 ## Use Cases
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/medium-privacy-policy-by-medium-medium-policy.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: dataset
 importance: medium
 selection_reason:
 - Strong keyword match
@@ -21,16 +21,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Data Collection & Sources**: Collects user-provided data (e.g., posts, profile info) and automatically gathers activity, transactional, device, and usage data (IP, OS, cookies, web beacons) via tracking technologies. Third-party sources (social networks, analytics providers) and derived inferences (e.g., location, preferences) are also utilized.
+- **Data Collection & Sources**: Medium collects personal data directly (e.g., account creation, content submission) and automatically (e.g., IP addresses, device identifiers, reading history) via cookies, web beacons, and third-party integrations (e.g., social logins, analytics providers). Payment data is processed by third-party processors, subject to their policies.
 
-- **Data Sharing & Disclosure**: Shares personal data with users (visible content), vendors (analytics, fraud prevention), legal entities (complian
+- **Data Sharing & Processing**: Personal data is shared with service providers (e.g., hosting, analytics, fraud prevention), d
 
 ## Use Cases
 

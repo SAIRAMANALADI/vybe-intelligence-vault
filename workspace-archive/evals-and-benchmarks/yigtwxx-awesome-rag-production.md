@@ -12,9 +12,11 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- hackernews
+- meta-ai
+- models
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resources**: Repository providing a vetted collection of production-grade tools, frameworks, and best practices for building scalable RAG systems, covering LLMs, embeddings, and vector databases.
-- **Technical Scope**: Focuses on AI engineering, MLOps, and LLMops with Python-centric implementations, including LangChain and vector database integrations.
-- **Operational Focus**: Emphasizes battle-tested solutions for deployment, scalability, and maintenance of RAG pipelines in producti
+- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, covering end-to-end deployment challenges.
+
+- **Comprehensive Tech Stack**: Includes Python-based tools for embeddings (e.g., FAISS, Chroma), vector databases (e.g., Pinecone, Weaviate), LLM frameworks (e.g., LangChain, LlamaIndex), and MLOps pipelines for RAG workflows.
+
+- **MLOps & AI Engineering Foc
 
 ## Use Cases
 

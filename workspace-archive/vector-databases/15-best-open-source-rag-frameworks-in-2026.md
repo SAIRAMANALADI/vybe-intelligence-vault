@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Firecrawl**: AI-powered web scraping/crawling API converting dynamic websites into LLM-friendly markdown/structured data; includes `scrape()`/`crawl()` endpoints, LLM.txt generation, and deep research capabilities for RAG data ingestion.
+- **Firecrawl**: AI-powered web scraping/crawling API converting dynamic websites to LLM-friendly markdown/structured data; supports `scrape()`, `crawl()`, and `deep-research` endpoints for dataset enrichment in RAG pipelines.
 
-- **LlamaIndex**: Modular data framework bridging LLMs with private datasets via 300+ integrations; supports multi-modal indexing (vector/keyword/graph), custom query engines, and optimized retrieval pipelines for RAG applications.
+- **RAGFlow**: Open-source RAG engine with deep document parsing (PDFs/tables/layouts), GraphRAG support, and visual web UI; offers Python SDK + REST APIs with Elasticsearch/Infinity storage backends.
 
-- **Milvus**: Cloud-nati
+- **Milvus**: Cloud-native vector database optimized for billion-scale
 
 ## Use Cases
 

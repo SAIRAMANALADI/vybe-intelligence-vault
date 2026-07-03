@@ -2,7 +2,7 @@
 title: deepset-ai/haystack
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack
+source_url: https://github.com/deepset-ai/haystack?source=post_page
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
@@ -10,15 +10,6 @@ archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
-tags:
-- agents
-- github-repo
-- hackernews
-- mdx
-- models
-- openai
-- rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -37,11 +28,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Orchestration**: Open-source framework (Python) for building production-grade LLM applications with explicit control over retrieval, routing, memory, and generation components in modular pipelines.
+- **Modular AI Orchestration**: Enables construction of production-grade LLM applications via configurable pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation components.
 
-- **Multi-Use Capabilities**: Supports scalable agents, RAG, multimodal apps, semantic search, and conversational systems with integrations for transformers, PyTorch, and major LLMs (e.g., GPT-4, Gemini).
+- **Multi-Use Case Support**: Facilitates scalable agents, RAG, multimodal applications, semantic search, and conversational systems through a unified framework.
 
-- **Technical Stack**: Built with MDX, optimized for information retrieval and N
+- **Technical Stack**: Built in Python with PyTorch, supporting transformer-based models (e.g., GPT-4, Gemini) and op
 
 ## Use Cases
 
@@ -51,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack
+Original source URL: https://github.com/deepset-ai/haystack?source=post_page
 
 ## Local Vault File
 

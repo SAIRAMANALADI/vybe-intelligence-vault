@@ -2,7 +2,7 @@
 title: The Medium Blog
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://medium.com/blog/all?topic=product&source=collection_home_page
+source_url: https://blog.medium.com
 resource_id: blog:the-medium-blog
 local_vault_path: ai/rag/the-medium-blog.md
 quality_score: 70
@@ -10,6 +10,9 @@ archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
+tags:
+- rag
+- web-crawled
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -28,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- Medium’s sitemap (`/sitemap.xml`) exposes structured URLs for SEO indexing, including `/blog`, `/new-story`, and `/search` endpoints.
-- User authentication endpoints (`/m/signin`, `/m/register`) use OAuth2 redirects with `operation=login/register` parameters for session management.
-- Static resources (e.g., `/v2/resize:fill:64:64/...`) leverage CDN-based image optimization with query-string parameters for dynamic resizing.
+- **Medium's sitemap.xml** provides structured XML-based indexing of all published content, enabling search engine crawlers to efficiently discover and index blog posts, static pages, and media assets.
+
+- **Medium’s navigation and authentication flows** leverage HTTPS redirects with UTM tracking parameters (e.g., `utm_source=mobileNavBar`) to optimize user acquisition and session tracking across web and mobile platforms.
+
+- **Medium’s editorial and product updates** are organized via topic-based
 
 ## Use Cases
 
@@ -40,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://medium.com/blog/all?topic=product&source=collection_home_page
+Original source URL: https://blog.medium.com
 
 ## Local Vault File
 

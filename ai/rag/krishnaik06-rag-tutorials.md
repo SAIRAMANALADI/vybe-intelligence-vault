@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/krishnaik06/RAG-Tutorials
-collected_at: '2026-07-03T22:17:32.552070+05:30'
-published_at: '2026-07-02T19:20:07Z'
+collected_at: '2026-07-04T01:21:46.363576+05:30'
+published_at: '2026-07-03T19:28:08Z'
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
-stars: 364
+stars: 365
 language: Jupyter Notebook
 status: active
 license: GPL-3.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-09-03T03:41:25Z'
 pushed_at: '2026-04-03T17:43:05Z'
 resource_id: github:krishnaik06/rag-tutorials
-first_seen: '2026-07-03T22:17:32.552070+05:30'
-last_seen: '2026-07-03T22:17:32.552070+05:30'
-last_checked: '2026-07-03T22:17:32.552070+05:30'
+first_seen: '2026-07-04T01:21:46.363576+05:30'
+last_seen: '2026-07-04T01:21:46.363576+05:30'
+last_checked: '2026-07-04T01:21:46.363576+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository containing Jupyter Notebooks focused on Retrieval-Augmented Generation (RAG) tutorials, with 364 stars and 331 forks.
-- **Technical Stack**: Primarily utilizes Python-based Jupyter Notebooks for RAG implementations and demonstrations.
-- **Last Activity**: Repository last updated on **July 2, 2026**, indicating recent or ongoing development.
+- **Repository**: `krishnaik06/RAG-Tutorials` is a Jupyter Notebook-based collection focused on Retrieval-Augmented Generation (RAG) techniques, with 365 stars and 331 forks.
+- **Last Updated**: The repository was last updated on **July 3, 2026**, indicating recent or ongoing development.
+- **Content**: Despite no explicit description, the repository likely contains tutorials, implementations, or demonstrations of RAG methodologies in Jupyter Notebook format.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: krishnaik06
-- Stars: 364
+- Stars: 365
 - Forks: 331
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-07-02T19:20:07Z
+- Last Updated: 2026-07-03T19:28:08Z
 - License: GPL-3.0
 - Archived: No
 - Created At: 2025-09-03T03:41:25Z

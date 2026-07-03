@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Scalability Metrics**: Processes **10+ billion observations/month** with **100,000+ engineers** leveraging the platform, including **19 of the Fortune 50** enterprises.
+- **Scalability & Adoption**: Supports **10+ billion observations/month**, used by **19 of the Fortune 50**, with **100,000+ engineers** building on the platform.
 
-- **Core Capabilities**: Provides **end-to-end LLM observability**, including hierarchical tracing, prompt management, evaluation (LLM-as-a-judge, heuristics, human review), experiments, and cost/latency monitoring in a single integrated workflow.
+- **Core Features**: Provides **end-to-end LLM observability** (traces, metrics, cost/latency monitoring), **prompt management**, **evaluation tools** (LLM-as-a-judge, human review), and **collaborative experimentation** for AI agents/products.
 
-- **Multi-Language & Framework Support**: Compatible with **any stack** via O
+- **Multi-Framework & Multi-Model Support**: Compatible with **100+ integrations** (e.g.,
 
 ## Use Cases
 

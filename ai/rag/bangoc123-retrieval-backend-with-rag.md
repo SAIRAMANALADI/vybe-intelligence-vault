@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-03T22:18:07.568740+05:30'
+collected_at: '2026-07-04T01:22:21.416901+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-03T22:18:07.568740+05:30'
-last_seen: '2026-07-03T22:18:07.568740+05:30'
-last_checked: '2026-07-03T22:18:07.568740+05:30'
+first_seen: '2026-07-04T01:22:21.416901+05:30'
+last_seen: '2026-07-04T01:22:21.416901+05:30'
+last_checked: '2026-07-04T01:22:21.416901+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) best practices specifically optimized for Vietnamese language processing, including text preprocessing, embedding generation, and retrieval mechanisms tailored to Vietnamese linguistic features.
+- **Vietnamese RAG Implementation**: Repository demonstrates Retrieval-Augmented Generation (RAG) best practices specifically optimized for Vietnamese language processing, leveraging Python-based pipelines.
 
-- **Modular Python Architecture**: Implements a scalable backend using Python with components for document retrieval, vector storage (e.g., FAISS or Chroma), and LLM integration (e.g., ViT5, PhoBERT) for contextual generation.
+- **Modular Architecture**: Includes components for document retrieval, embedding generation (likely using models like `vinai/phobert-base`), and integration with vector databases (e.g., FAISS or Chroma) for efficient similarity search.
 
-- **Evaluation & Deployment**: Includes evaluation metrics (e.g., retrieval accuracy, response relevance) and deployment scripts (Docker, FastAPI) for production-grade Vietnamese RAG systems.
+- **Evaluation & Optimization**: Provides tools for benchmarking RAG performance on Vietnamese datasets, with focus on retrieval accuracy, response quality, and latency optimization.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-codeql
-published_at: '2026-06-29T03:51:23.837581+05:30'
-collected_at: '2026-06-29T03:51:23.837595+05:30'
+published_at: '2026-07-04T01:30:13.464504+05:30'
+collected_at: '2026-07-04T01:30:13.464512+05:30'
 tags:
 - hackernews
 - reddit
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:codeql-visual-studio-marketplace
-first_seen: '2026-06-29T03:51:23.837595+05:30'
-last_seen: '2026-06-29T03:51:23.837595+05:30'
-last_checked: '2026-06-29T03:51:23.837595+05:30'
+first_seen: '2026-07-04T01:30:13.464512+05:30'
+last_seen: '2026-07-04T01:30:13.464512+05:30'
+last_checked: '2026-07-04T01:30:13.464512+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Integration & Features**: The CodeQL extension for VS Code enables static analysis by querying CodeQL databases, visualizing data flow paths for security triage, and providing IntelliSense for writing custom queries. It supports path queries and integrates with GitHub’s open-source security query repository.
+- **Integration & Features**: The extension integrates CodeQL into VS Code, enabling query execution on source code databases, data flow visualization for security triage, and IntelliSense support for writing custom queries using open-source security query repositories.
 
-- **Setup & Workflow**: Requires VS Code 1.39+; auto-manages CodeQL CLI by default but allows manual CLI configuration. Users can import GitHub-hosted databases, run predefined queries, or execute custom `.ql` files against selected databases via the extension’s command palette.
+- **Setup & Workflow**: Requires VS Code ≥1.39; auto-manages CodeQL CLI or allows manual CLI configuration. Supports importing GitHub databases, running queries via CLI, and updating standard libraries via `git pull` in the starter workspace.
 
-- **Telemetry & Licensing**: Collects opt-in usage metrics (retaining IP/install IDs for 30 days, anonymous data for 180 days). Licensed under MIT; uses CodeQL under GitHub’s terms, with full documentation available via GitHub’s CodeQL docs.
+- **Telemetry & Licensing**: Collects anonymous usage data (opt-in) with retention limits (30 days for IP/IDs, 180 days for aggregated data). Licensed under MIT; uses GitHub CodeQL terms.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-29T03:51:23.837581+05:30
+- Published: 2026-07-04T01:30:13.464504+05:30
 
 ## Related Tags
 

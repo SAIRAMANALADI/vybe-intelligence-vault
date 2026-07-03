@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-03T22:18:32.667119+05:30'
+collected_at: '2026-07-04T01:22:46.449622+05:30'
 published_at: '2026-07-02T18:18:02Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-03T22:18:32.667119+05:30'
-last_seen: '2026-07-03T22:18:32.667119+05:30'
-last_checked: '2026-07-03T22:18:32.667119+05:30'
+first_seen: '2026-07-04T01:22:46.449622+05:30'
+last_seen: '2026-07-04T01:22:46.449622+05:30'
+last_checked: '2026-07-04T01:22:46.449622+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems across four core operations: **Create**, **Read**, **Update**, and **Delete**, with 10K+ test cases spanning diverse domains.
-- **Evaluation Framework**: Provides standardized metrics for assessing RAG performance in Chinese LLMs, including retrieval accuracy, generation quality, and robustness to noise/irrelevant context.
-- **Open-Source Toolkit**: Offers a Python-based implementation with modular components for dataset generation, retrieval evaluation, and end-to-end RAG pipeline testing.
+- **Benchmark Suite**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems across **Create**, **Read**, **Update**, and **Delete** operations, covering 10+ domains and 50K+ QA pairs.
+- **Evaluation Framework**: Provides standardized metrics for assessing RAG models on **retrieval accuracy**, **generation quality**, and **end-to-end performance**, with open-source tools for reproducibility.
+- **Dataset & Tools**: Includes a large-scale Chinese corpus (e.g., Wikipedia, news, legal texts) and Python-based evaluation pipelines for fine-grained analysis of RAG components.
 
 ## Why It Matters
 

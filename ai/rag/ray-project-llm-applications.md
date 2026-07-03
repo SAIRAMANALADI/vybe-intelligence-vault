@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-07-03T22:18:52.642234+05:30'
+collected_at: '2026-07-04T01:23:06.482922+05:30'
 published_at: '2026-06-30T16:44:21Z'
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
 - openai
 - rag
-- workflows
 stars: 1857
 language: Jupyter Notebook
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-07-03T22:18:52.642234+05:30'
-last_seen: '2026-07-03T22:18:52.642234+05:30'
-last_checked: '2026-07-03T22:18:52.642234+05:30'
+first_seen: '2026-07-04T01:23:06.482922+05:30'
+last_seen: '2026-07-04T01:23:06.482922+05:30'
+last_checked: '2026-07-04T01:23:06.482922+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, including integration with Llama2, OpenAI, and Anyscale models.
-- **Fine-Tuning & Optimization**: Provides Jupyter Notebook-based guides for fine-tuning LLMs (e.g., Llama2) and optimizing inference performance via Ray’s distributed serving capabilities.
-- **End-to-End Deployment**: Covers scalable serving architectures, multi-model management, and production-ready LLM application deployment using Ray’s ecosystem.
+- **RAG-based LLM Production Guide**: Provides a structured approach to deploying Retrieval-Augmented Generation (RAG) models in production using frameworks like Ray, OpenAI, and Anyscale.
+- **Multi-Framework Integration**: Demonstrates integration with Llama2, fine-tuning techniques, and serving strategies for scalable LLM applications.
+- **Jupyter Notebook-Based Tutorials**: Offers hands-on, executable examples for implementing RAG pipelines, leveraging Ray's distributed computing for efficient model serving.
 
 ## Why It Matters
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/langfuse-langfuse.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -17,9 +17,8 @@ tags:
 - openai
 - rag
 - web-crawled
-- youtube
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # Releases · langfuse/langfuse · GitHub
@@ -28,15 +27,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Trace UI Enhancements**: v3.201.0 introduced a condensed detail layout and smoother timeline rendering in trace views (LFE-10539, LFE-10538), while v3.201.1 fixed peek navigation panel toggling at narrow widths (LFE-10547) and restored timeline gutter touch-scrolling with overscan optimizations (LFE-10548).
+- **v3.205.0 Release**: Introduces real v4 session views with filters, collapsible filter sidebar, improved code evaluator editing, MCP/API-based widget creation, enhanced trace graph view with live framing, metadata key suggestions, and Parquet export promotion; fixes session query errors, media chip rendering, agent instrumentation, and ClickHouse seeder mismatches.
 
-- **Timeline & Metrics Improvements**: v3.200.0 rebuilt the trace timeline as a two-pane waterfall (LFE-10527) and added wall-clock duration display for subtree observations (LFE-10475),
+- **v3.204.0 Release**: Adds SDK attribution persistence, collapsible tool calls in trace UI, custom graph renderer with trace p
 
 ## Use Cases
 

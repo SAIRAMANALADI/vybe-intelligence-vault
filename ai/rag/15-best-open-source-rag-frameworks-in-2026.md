@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-07-03T22:17:19.084434+05:30'
-collected_at: '2026-07-03T22:17:19.084447+05:30'
+published_at: '2026-07-04T01:21:33.533241+05:30'
+collected_at: '2026-07-04T01:21:33.533254+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-07-03T22:17:19.084447+05:30'
-last_seen: '2026-07-03T22:17:19.084447+05:30'
-last_checked: '2026-07-03T22:17:19.084447+05:30'
+first_seen: '2026-07-04T01:21:33.533254+05:30'
+last_seen: '2026-07-04T01:21:33.533254+05:30'
+last_checked: '2026-07-04T01:21:33.533254+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Firecrawl**: AI-powered web scraping/crawling API converting dynamic websites into LLM-friendly markdown/structured data; includes `scrape()`/`crawl()` endpoints, LLM.txt generation, and deep research capabilities for RAG data ingestion.
+- **Firecrawl**: AI-powered web scraping/crawling API converting dynamic websites to LLM-friendly markdown/structured data; supports `scrape()`, `crawl()`, and `deep-research` endpoints for dataset enrichment in RAG pipelines.
 
-- **LlamaIndex**: Modular data framework bridging LLMs with private datasets via 300+ integrations; supports multi-modal indexing (vector/keyword/graph), custom query engines, and optimized retrieval pipelines for RAG applications.
+- **RAGFlow**: Open-source RAG engine with deep document parsing (PDFs/tables/layouts), GraphRAG support, and visual web UI; offers Python SDK + REST APIs with Elasticsearch/Infinity storage backends.
 
-- **Milvus**: Cloud-native vector database optimized for billion-scale ANN search; offers hybrid retrieval (vector + scalar filtering), multi-modal support, and enterprise-grade scalability for production RAG systems.
+- **Milvus**: Cloud-native vector database optimized for billion-scale ANN search; integrates with RAG frameworks (LangChain/LlamaIndex) and supports hybrid search (vector + scalar/FT) with multi-modal embeddings.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T22:17:19.084434+05:30
+- Published: 2026-07-04T01:21:33.533241+05:30
 
 ## Related Tags
 

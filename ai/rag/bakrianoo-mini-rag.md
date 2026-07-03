@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-07-03T22:18:52.636041+05:30'
+collected_at: '2026-07-04T01:23:06.441184+05:30'
 published_at: '2026-07-02T20:30:29Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-07-03T22:18:52.636041+05:30'
-last_seen: '2026-07-03T22:18:52.636041+05:30'
-last_checked: '2026-07-03T22:18:52.636041+05:30'
+first_seen: '2026-07-04T01:23:06.441184+05:30'
+last_seen: '2026-07-04T01:23:06.441184+05:30'
+last_checked: '2026-07-04T01:23:06.441184+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, emphasizing scalability and modularity.
+- **Educational RAG Pipeline**: Step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, emphasizing modularity and scalability.
 
 - **Tech Stack Integration**: Demonstrates integration of GenAI models with FastAPI for backend services and Docker for containerization, ensuring reproducible deployment environments.
 
-- **Modular Architecture**: Implements a structured workflow for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval, and response generation, optimized for low-latency inference.
+- **Modular Architecture**: Implements a structured workflow for document ingestion, embedding generation, vector storage (e.g., FAISS/Chroma), and retrieval-augmented inference, optimized for performance and maintainability.
 
 ## Why It Matters
 

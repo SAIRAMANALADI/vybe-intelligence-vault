@@ -4,25 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-07-03T22:18:17.647366+05:30'
+collected_at: '2026-07-04T01:22:31.435252+05:30'
 published_at: '2026-06-30T16:43:51Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
-- reddit
 stars: 1172
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-07-03T16:04:59Z'
+pushed_at: '2026-07-03T19:24:38Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-07-03T22:18:17.647366+05:30'
-last_seen: '2026-07-03T22:18:17.647366+05:30'
-last_checked: '2026-07-03T22:18:17.647366+05:30'
+first_seen: '2026-07-04T01:22:31.435252+05:30'
+last_seen: '2026-07-04T01:22:31.435252+05:30'
+last_checked: '2026-07-04T01:22:31.435252+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for vector/keyword retrieval and **Azure OpenAI** LLMs for generating ChatGPT-style/Q&A responses in a production-grade Azure deployment.
+- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** models for generating ChatGPT-style and Q&A responses, following Azure best practices.
 
-- **Key Components**: Includes **Python-based** solution with **AZD templates** for infrastructure-as-code (IaC), supporting common RAG requirements like document ingestion, embedding generation, semantic search, and prompt engineering best practices.
+- **Azure Deployment**: Provides **Azure Developer CLI (azd) templates** for end-to-end infrastructure-as-code (IaC) deployment, including pre-configured Azure resources (e.g., OpenAI, AI Search, storage).
 
-- **Deployment & Scalability**: Designed for Azure with modular components (e.g., search indexes, OpenAI deployments) optimized for scalability, last updated **2026-06-30** with active community maintenance (1172⭐, 643🍴).
+- **Python-Based**: Entire solution is implemented in Python, with modular components for indexing, retrieval, and chat orchestration, optimized for scalability and enterprise-grade requirements.
 
 ## Why It Matters
 
@@ -51,7 +50,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-07-03T16:04:59Z
+- Pushed At: 2026-07-03T19:24:38Z
 
 ## Possible Use Cases
 

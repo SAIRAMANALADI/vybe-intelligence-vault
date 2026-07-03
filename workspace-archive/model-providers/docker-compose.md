@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **New Reconciliation Algorithm**: v5.2.0 introduces an updated reconciliation algorithm between observed and expected states in Docker Compose, improving state management for Compose workloads.
-
-- **Bug Fixes & Improvements**: Includes fixes for build context handling, environment variable validation, TTY auto-detection, and proxy bypass for loopback registries, alongside dependency updates (e.g., Go `1.26.4`, Docker CLI `v29.6.0`).
-
-- **Enhanced Security & Performance**: Adds `rawsetenv` mess
+- **Native init container support** introduced in v5.3.0, enabling pre-start initialization tasks via `init` containers in Compose configurations.
+- **Reconciliation algorithm overhaul** in v5.2.0, replacing the state comparison mechanism for improved alignment between observed and expected service states.
+- **Dependency updates** in v5.3.0 (compose-go v2.13.0) and v5.2.0 (Go 1.26.4, `github.com/containerd/typeurl/v2` v2.3.0) with optimizations like efficient string splitting and prefix trimming
 
 ## Use Cases
 

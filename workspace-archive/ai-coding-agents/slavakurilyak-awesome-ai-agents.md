@@ -13,7 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
+- paper
 - python
 selection_reason:
 - Useful for project building
@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: GitHub repository hosting a structured, community-driven list of 300+ resources focused on agentic AI systems, frameworks, and tools.
-- **Technical Scope**: Primarily Python-based, emphasizing agent architectures, multi-agent systems, and autonomous agent frameworks for AI research and deployment.
-- **Metrics**: 1,588 stars, 424 forks, last updated July 3, 2026, reflecting active maintenance and community engagement.
+- **Curated Collection**: GitHub repository hosting 300+ curated resources on agentic AI, covering frameworks, tools, research papers, and applications.
+- **Metrics**: 1,588 stars, 424 forks, primarily Python-based, with last update on 2026-07-03.
+- **Focus**: Dedicated to agentic AI systems, emphasizing autonomous agents, multi-agent systems, and agent-based architectures.
 
 ## Use Cases
 

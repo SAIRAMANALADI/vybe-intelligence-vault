@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
-published_at: '2026-07-03T22:21:29.074666+05:30'
-collected_at: '2026-07-03T22:21:29.074679+05:30'
+published_at: '2026-07-04T01:25:25.501951+05:30'
+collected_at: '2026-07-04T01:25:25.501961+05:30'
 tags:
 - benchmark
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
-first_seen: '2026-07-03T22:21:29.074679+05:30'
-last_seen: '2026-07-03T22:21:29.074679+05:30'
-last_checked: '2026-07-03T22:21:29.074679+05:30'
+first_seen: '2026-07-04T01:25:25.501961+05:30'
+last_seen: '2026-07-04T01:25:25.501961+05:30'
+last_checked: '2026-07-04T01:25:25.501961+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-format & multimodal parsing**: Supports 90+ document formats (PDFs, scans, invoices, healthcare forms, etc.) with layout-aware extraction, OCR for handwriting/checkboxes, and multimodal analysis (tables, charts, images) for structured markdown output.
+- **Multi-format document parsing** with 90+ supported formats, including complex layouts, tables, charts, handwriting, checkboxes, and images, converting them into clean Markdown for AI applications.
 
-- **Scalable & multilingual NLP pipeline**: Processes 1B+ documents monthly with enterprise-grade concurrency, 100+ language support, and granular parsing modes (cost/accuracy trade-offs) for high-volume workflows.
+- **Advanced parsing capabilities** featuring layout-aware processing (headers, footers, split sections), multimodal parsing (charts, tables, images), granular control modes for cost-accuracy optimization, and multilingual support for 100+ languages.
 
-- **Developer-first with enterprise features**: Offers TypeScript/Python SDKs, live notebooks, local/cloud deployment options, and dedicated customer success—validated by 300k+ users and benchmarks against competitors for reliability.
+- **Enterprise-grade scalability** with support for millions of pages, local/cloud deployment, high concurrency, and dedicated customer success, validated by leading AI teams and enterprises.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T22:21:29.074666+05:30
+- Published: 2026-07-04T01:25:25.501951+05:30
 
 ## Related Tags
 

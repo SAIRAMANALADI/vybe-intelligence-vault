@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.stainless.com/products/docs
-published_at: '2026-07-03T15:13:21.635475+05:30'
-collected_at: '2026-07-03T15:13:21.635487+05:30'
+published_at: '2026-07-04T01:27:27.119207+05:30'
+collected_at: '2026-07-04T01:27:27.119223+05:30'
 tags:
 - agents
 - frontend_ui
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:stainless-stainless-docs-platform
-first_seen: '2026-07-03T15:13:21.635487+05:30'
-last_seen: '2026-07-03T15:13:21.635487+05:30'
-last_checked: '2026-07-03T15:13:21.635487+05:30'
+first_seen: '2026-07-04T01:27:27.119223+05:30'
+last_seen: '2026-07-04T01:27:27.119223+05:30'
+last_checked: '2026-07-04T01:27:27.119223+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Dynamic API Documentation Sync**: REST API, SDK, and narrative docs automatically stay synchronized with the actual API, eliminating manual updates and ensuring accuracy.
+- **Dynamic API Documentation Sync**: REST API, SDK, and narrative docs automatically synchronize with the actual API, ensuring real-time accuracy for both developers and AI agents.
 
-- **AI-Optimized Hybrid Search**: Implements AI-powered hybrid search for enhanced developer and AI agent accessibility, integrating with tools like `llms.txt` for structured data extraction.
+- **Astro-Based Customization**: Built on Astro for high-performance, content-driven websites, enabling full UI/UX customization via TypeScript-first integrations, middleware, and server-side hooks.
 
-- **Astro-Based Extensibility**: Built on Astro for high-performance, content-driven sites with full customization via TypeScript-first integrations, CSS variables for theming, and support for frameworks like React, Svelte, and Vue.
+- **Multi-Framework & Deployment Flexibility**: Supports React, Svelte, Vue, Solid, Preact, and others; deployable on Stainless infrastructure or self-hosted via SSG/SSR compatibility.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T15:13:21.635475+05:30
+- Published: 2026-07-04T01:27:27.119207+05:30
 
 ## Related Tags
 

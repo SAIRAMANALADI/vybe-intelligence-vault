@@ -28,11 +28,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Purpose**: Open-source AI orchestration tool for building production-grade LLM applications with modular pipelines and agent workflows, enabling explicit control over retrieval, routing, memory, and generation components.
+- **Modular AI Orchestration**: Enables construction of production-grade LLM applications via configurable pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation components.
 
-- **Technical Capabilities**: Supports scalable agents, RAG, multimodal applications, semantic search, and conversational systems with integrations for transformers, PyTorch, and major LLM APIs (e.g., GPT-4, Gemini).
+- **Multi-Use Case Support**: Facilitates scalable agents, RAG, multimodal applications, semantic search, and conversational systems through a unified framework.
 
-- **Architecture & Ecosystem**: Designed for
+- **Technical Stack**: Built in Python with PyTorch, supporting transformer-based models (e.g., GPT-4, Gemini) and op
 
 ## Use Cases
 

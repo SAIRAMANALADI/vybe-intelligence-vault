@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-07-03T03:51:05.248757+05:30'
+collected_at: '2026-07-04T01:21:36.483599+05:30'
 published_at: '2026-06-28T15:57:16Z'
 tags:
 - github-repo
@@ -23,9 +23,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-07-03T03:51:05.248757+05:30'
-last_seen: '2026-07-03T03:51:05.248757+05:30'
-last_checked: '2026-07-03T03:51:05.248757+05:30'
+first_seen: '2026-07-04T01:21:36.483599+05:30'
+last_seen: '2026-07-04T01:21:36.483599+05:30'
+last_checked: '2026-07-04T01:21:36.483599+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Mastery Guide**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization, HNSW indexing, and Matryoshka representation learning.
-
-- **Multi-Tool Integration**: Demonstrates RAG workflows using Azure AI services, OpenAI LLMs, and VS Code, with notebooks focusing on multimodal inputs, responsible AI practices, and efficient vector search implementations.
-
-- **Optimized Retrieval Techniques**: Implements state-of-the-art retrieval methods (e.g., scalar/binary quantization, HNSW) for scalable, low-latency hybrid search in production-grade RAG systems.
+- **5-week structured learning path** covering advanced **Retrieval-Augmented Generation (RAG)** techniques, including **binary/scalar quantization**, **Matryoshka representation learning**, and **hybrid search** (vector + keyword) for efficient indexing and retrieval.
+- **Hands-on implementation** using **Azure OpenAI**, **HNSW** for approximate nearest neighbor search, and **multimodal RAG** workflows, with notebooks optimized for **Visual Studio Code**.
+- **Responsible AI focus** integrating **scalar/binary quantization** for model efficiency and **scalable retrieval** in generative AI pipelines.
 
 ## Why It Matters
 
