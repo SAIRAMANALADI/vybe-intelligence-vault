@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: A comprehensive collection of tools, frameworks, libraries, and research papers focused on retrieval-augmented generation (RAG) for large language models (LLMs), including embeddings, retrieval systems, and LLM-specific implementations.
-- **Multi-Topic Coverage**: Encompasses key areas such as RAG models, retrieval mechanisms, embedding techniques, and integration strategies for enhancing LLMs with external knowledge retrieval.
-- **Active Maintenance**: Last updated
+- **Curated RAG Resources**: A comprehensive collection of tools, frameworks, libraries, and research papers focused on retrieval-augmented generation (RAG) for large language models (LLMs).
+- **Technical Scope**: Covers embeddings, retrieval systems, RAG models, and their integration with LLMs, emphasizing practical implementations and theoretical advancements.
+- **Community-Driven**: Actively maintained GitHub repository with 428 stars and 50 forks, last updated in July 2026, serving as a dyna
 
 ## Use Cases
 

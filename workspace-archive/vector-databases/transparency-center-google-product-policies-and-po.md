@@ -2,7 +2,7 @@
 title: Transparency Center - Google Product Policies and Policy Areas
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://transparency.google
+source_url: https://transparency.google/
 resource_id: blog:transparency-center-google-product-policies-and-po
 local_vault_path: ai/rag/transparency-center-google-product-policies-and-po.md
 quality_score: 70
@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Policy Enforcement Metrics**: In 2024, Google blocked 5.1B malicious ads, removed 18.5M YouTube videos violating Community Guidelines (H2 2024), and de-indexed 882K CSAM-related URLs from Search results (H2 2024).
-- **Structured Policy Framework**: Google enforces product-specific policies (e.g., Ads, YouTube) via dedicated teams, leveraging data-driven risk assessment to mitigate misuse and ensure compliance with local laws.
-- **Transparency & Accountability**: Publicly discloses enforcemen
+- **Policy Framework & Enforcement**: Google maintains structured product policies (terms of service, Community Guidelines, developer policies) with dedicated teams to enforce violations, leveraging data-driven approaches to mitigate risks and ensure user safety across platforms like Ads, YouTube, and Search.
+
+- **Transparency & Accountability Metrics**: Publicly reports enforcement actions, including blocking **8.3B bad ads (2025)**, removing **20.7M YouTube videos (H2 2025)**, and de-indexing
 
 ## Use Cases
 
@@ -43,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://transparency.google
+Original source URL: https://transparency.google/
 
 ## Local Vault File
 

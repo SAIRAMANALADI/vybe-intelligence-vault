@@ -5,7 +5,7 @@ source_type: huggingface_dataset
 source_name: Hugging Face Trending Datasets
 source_url: https://huggingface.co/datasets/hallucinations-leaderboard
 published_at: '2024-10-31T20:32:52.000Z'
-collected_at: '2026-07-03T15:05:59.719071+05:30'
+collected_at: '2026-07-03T20:03:17.896983+05:30'
 tags:
 - dataset
 - hf-dataset
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: huggingface:datasets/hallucinations-leaderboard
 first_seen: '2026-07-01T15:44:51.372752+05:30'
-last_seen: '2026-07-03T15:05:59.719071+05:30'
-last_checked: '2026-07-03T15:05:59.719071+05:30'
+last_seen: '2026-07-03T20:03:17.896983+05:30'
+last_checked: '2026-07-03T20:03:17.896983+05:30'
 health_score: 100
 ---
 
@@ -23,7 +23,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face dataset: hallucinations-leaderboard/results (Likes: 3, Downloads: 1512992)
+Trending Hugging Face dataset: hallucinations-leaderboard/results (Likes: 4, Downloads: 1512992)
 
 ## Why It Matters
 

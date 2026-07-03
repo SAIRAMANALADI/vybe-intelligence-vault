@@ -14,6 +14,7 @@ tags:
 - github-repo
 - jupyter notebook
 - rag
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -30,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **GraphRAG Architecture**: Demonstrates a knowledge graph-enhanced Retrieval-Augmented Generation (RAG) pipeline, integrating graph-based retrieval with LLM generation for improved contextual accuracy.
-- **Visual & Practical Breakdown**: Provides Jupyter Notebook-based diagrams and examples to illustrate graph construction, query processing, and retrieval mechanisms in RAG systems.
-- **Implementation Focus**: Covers modular components (e.g., graph construction, entity linking, retrieval strate
+- **Knowledge Graph RAG Architecture**: Demonstrates a retrieval-augmented generation (RAG) pipeline enhanced with knowledge graphs, integrating structured data for improved context retrieval and generation.
+- **Visual & Code Examples**: Provides Jupyter Notebook-based diagrams and executable examples to illustrate graph-based RAG workflows, including graph construction, query processing, and response generation.
+- **Modular Implementation**: Includes modular components for entity extraction, gr
 
 ## Use Cases
 

@@ -11,13 +11,14 @@ tags:
 - github-trending
 - reddit
 - shell
-status: active
+status: inactive
 resource_id: github:msitarzewski/agency-agents
 first_seen: '2026-06-29T16:55:00.770210+05:30'
 last_seen: '2026-07-03T15:06:00.629742+05:30'
 last_checked: '2026-07-03T15:06:00.629742+05:30'
 health_score: 100
 ---
+
 
 # msitarzewski/agency-agents
 

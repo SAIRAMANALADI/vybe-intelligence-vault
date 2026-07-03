@@ -4,17 +4,17 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/ykob/sketch-threejs
-collected_at: '2026-07-03T15:05:59.128514+05:30'
-published_at: '2026-07-03T06:56:51Z'
+collected_at: '2026-07-03T20:03:17.364497+05:30'
+published_at: '2026-07-03T12:30:19Z'
 tags:
 - threejs
-stars: 2533
+stars: 2532
 language: JavaScript
 status: active
 resource_id: github:ykob/sketch-threejs
 first_seen: '2026-06-12T10:40:14.585676+00:00'
-last_seen: '2026-07-03T15:05:59.128514+05:30'
-last_checked: '2026-07-03T15:05:59.128514+05:30'
+last_seen: '2026-07-03T20:03:17.364497+05:30'
+last_checked: '2026-07-03T20:03:17.364497+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: ykob
-- Stars: 2533
+- Stars: 2532
 - Forks: 329
 - Language: JavaScript
 - Topics: gulp, threejs, webgl
-- Last Updated: 2026-07-03T06:56:51Z
+- Last Updated: 2026-07-03T12:30:19Z
 
 ## Possible Use Cases
 

@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Service Provider & Legal Framework**: Google LLC (Delaware-registered, US laws) provides services under updated Terms of Service (effective May 22, 2024) with future revisions planned for July 30, 2026; users under age thresholds require parental/guardian consent.
+- **Service Provider & Legal Framework**: Google LLC (Delaware-registered) operates under U.S. laws, providing services under a contractual agreement where users agree to Terms of Service (effective May 22, 2024) and must comply with age requirements (parental consent for minors).
 
-- **Service Usage & AI Integration**: Google services (Search, Maps, Pixel, etc.) leverage AI/ML for features like real-time translation, spam/malware detection, and automatic software updates; material changes may require advance
+- **Service Usage & Compliance**: Users must adhere to Google’s Terms, Privacy Policy, and service-specific policies (e.g., Generative AI Prohibited Use Policy), while respecting intellectual property, privacy rights,
 
 ## Use Cases
 

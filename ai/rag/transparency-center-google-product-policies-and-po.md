@@ -3,9 +3,9 @@ title: Transparency Center - Google Product Policies and Policy Areas
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://transparency.google
-published_at: '2026-06-25T23:00:48.982733+05:30'
-collected_at: '2026-06-25T23:00:48.982740+05:30'
+source_url: https://transparency.google/
+published_at: '2026-07-03T20:11:29.031719+05:30'
+collected_at: '2026-07-03T20:11:29.031732+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:transparency-center-google-product-policies-and-po
-first_seen: '2026-06-25T23:00:48.982740+05:30'
-last_seen: '2026-06-25T23:00:48.982740+05:30'
-last_checked: '2026-06-25T23:00:48.982740+05:30'
+first_seen: '2026-07-03T20:11:29.031732+05:30'
+last_seen: '2026-07-03T20:11:29.031732+05:30'
+last_checked: '2026-07-03T20:11:29.031732+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Policy Enforcement Metrics**: In 2024, Google blocked 5.1B malicious ads, removed 18.5M YouTube videos violating Community Guidelines (H2 2024), and de-indexed 882K CSAM-related URLs from Search results (H2 2024).
-- **Structured Policy Framework**: Google enforces product-specific policies (e.g., Ads, YouTube) via dedicated teams, leveraging data-driven risk assessment to mitigate misuse and ensure compliance with local laws.
-- **Transparency & Accountability**: Publicly discloses enforcement actions (e.g., government content removal requests) and provides tools for user reporting/appeals, aligning with VP Laurie Richardson’s commitment to a safer digital ecosystem.
+- **Policy Framework & Enforcement**: Google maintains structured product policies (terms of service, Community Guidelines, developer policies) with dedicated teams to enforce violations, leveraging data-driven approaches to mitigate risks and ensure user safety across platforms like Ads, YouTube, and Search.
+
+- **Transparency & Accountability Metrics**: Publicly reports enforcement actions, including blocking **8.3B bad ads (2025)**, removing **20.7M YouTube videos (H2 2025)**, and de-indexing **264K CSAM-related URLs (H2 2025)**, alongside regular disclosures of government content removal requests.
+
+- **Collaborative Policy Development**: Engages global experts, developers, and creators (e.g., Google Play, YouTube) to co-create scalable policies, emphasizing creator guidance, feedback tools, and appeals processes to uphold platform integrity.
 
 ## Why It Matters
 
@@ -35,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T23:00:48.982733+05:30
+- Published: 2026-07-03T20:11:29.031719+05:30
 
 ## Related Tags
 
@@ -46,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://transparency.google
+Original source: https://transparency.google/

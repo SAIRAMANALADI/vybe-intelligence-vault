@@ -6,7 +6,7 @@ source_url: https://github.com/nicknochnack/Llama2RAG
 resource_id: github:nicknochnack/llama2rag
 local_vault_path: ai/rag/nicknochnack-llama2rag.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model with LlamaIndex for efficient data indexing and retrieval.
-- **Environment**: Developed in a Jupyter Notebook, leveraging Python-based workflows for interactive experimentation.
-- **Updates**: Last modified on **2026-05-24**, indicating active maintenance or recent enhancements.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model integrated with Llama Index for document retrieval and generation workflows.
+
+- **Technical Stack**: Developed in a Jupyter Notebook environment, leveraging Llama 2's 70B parameter model for high-capacity language processing and Llama Index for efficient indexing and retrieval of document embeddings.
+
+- **Update Status**: Last modified on **May 24, 2026**, indicating active maintenance or recent enhan
 
 ## Use Cases
 

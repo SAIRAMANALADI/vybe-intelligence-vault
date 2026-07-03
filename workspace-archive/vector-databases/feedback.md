@@ -29,9 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **Form Submission Requirements**: Google Forms requires email input (marked as required) and feedback submission, with data processed via Google's servers (no local storage).
-- **Security Notice**: Explicitly warns against submitting passwords through the form and links to Google’s Terms of Service and Privacy Policy.
-- **Google Branding & Reporting**: Form branded with Google logo, includes abuse reporting link, and provides help/feedback options via Google Forms.
+- **Form Submission**: Google Forms interface requiring email input for feedback submission, with data handled via Google's servers (no local storage).
+- **Security Notice**: Explicit warning against submitting passwords through the form, with links to Google’s Terms of Service and Privacy Policy.
+- **Reporting Mechanism**: Option to flag suspicious content via a dedicated abuse reporting form linked to Google Forms.
 
 ## Use Cases
 

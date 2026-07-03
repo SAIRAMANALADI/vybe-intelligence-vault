@@ -6,7 +6,7 @@ source_url: https://github.com/pixegami/rag-tutorial-v2
 resource_id: github:pixegami/rag-tutorial-v2
 local_vault_path: ai/rag/pixegami-rag-tutorial-v2.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- Implements **LangChain RAG pipeline** with **local LLMs** (e.g., Llama, Mistral) via Ollama or HuggingFace, avoiding API dependency.
-- Features **dynamic database updates** using **ChromaDB** or **FAISS** for vector storage, enabling real-time document ingestion and retrieval.
-- Includes **testing framework** with **RAGAS** and **TruLens** for evaluating retrieval quality, answer correctness, and hallucination rates.
+- **Local LLM Integration**: Demonstrates Langchain-based RAG pipeline leveraging locally hosted LLMs (e.g., Llama, Mistral) via Ollama or vLLM for offline inference.
+- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma, FAISS) refresh pipelines to incorporate new documents without full rebuilds.
+- **Testing Framework**: Includes unit/integration tests (e.g., pytest) for retrieval accuracy, prompt engineering, and end-to-end RAG performance validation.
 
 ## Use Cases
 

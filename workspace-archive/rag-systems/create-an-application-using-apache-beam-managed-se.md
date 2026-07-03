@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Resource Setup**: Requires creating two Kinesis data streams (`ExampleInputStream`, `ExampleOutputStream`) and an S3 bucket (`ka-app-code-<user>`) for application code storage.
-- **Apache Beam Transformation Logic**: Implements a `PingPongFn` DoFn that converts input "ping" to "pong" while passing other records unchanged, using Apache Beam's `ParDo` for processing.
-- **Application Deployment**: Compiles Java code with Maven (`mvn package -Dflink.version=1.15.2`), uploads JAR to S3, and confi
+- **Resource Setup**: Requires creation of two Kinesis data streams (`ExampleInputStream`, `ExampleOutputStream`) and an S3 bucket (`ka-app-code-<user>`) for storing the application JAR file.
+
+- **Apache Beam Job Logic**: Implements a `PingPongFn` transform in Java that converts input "ping" records to "pong" in the output stream while passing through other records unchanged.
+
+- **Deployment & Execution**: Compiles with Maven (`mvn package -Dflink.version=1.15.2`), uploads the JAR to S3, configu
 
 ## Use Cases
 

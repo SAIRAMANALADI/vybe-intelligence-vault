@@ -4,18 +4,18 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/anl331/goey-toast
-collected_at: '2026-07-03T03:50:14.503377+05:30'
-published_at: '2026-07-02T17:34:51Z'
+collected_at: '2026-07-03T20:03:17.477290+05:30'
+published_at: '2026-07-03T12:14:03Z'
 tags:
 - animation
 - frontend_ui
-stars: 1157
+stars: 1158
 language: TypeScript
 status: active
 resource_id: github:anl331/goey-toast
 first_seen: '2026-06-16T04:26:17.920794+00:00'
-last_seen: '2026-07-03T03:50:14.503377+05:30'
-last_checked: '2026-07-03T03:50:14.503377+05:30'
+last_seen: '2026-07-03T20:03:17.477290+05:30'
+last_checked: '2026-07-03T20:03:17.477290+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 ## Repository Details
 
 - Owner: anl331
-- Stars: 1157
+- Stars: 1158
 - Forks: 52
 - Language: TypeScript
 - Topics: animation, blob, component, framer-motion, gooey, morph, nextjs, notification, react, sonner, toast, typescript, ui
-- Last Updated: 2026-07-02T17:34:51Z
+- Last Updated: 2026-07-03T12:14:03Z
 
 ## Possible Use Cases
 

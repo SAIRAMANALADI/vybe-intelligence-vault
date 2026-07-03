@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by Riseed. Score: 133, Comments: 158.
+Hacker News story by Riseed. Score: 163, Comments: 208.
 Original Link: https://blog.okturtles.org/2026/07/short-leash-ai-method/
 
 ## Use Cases

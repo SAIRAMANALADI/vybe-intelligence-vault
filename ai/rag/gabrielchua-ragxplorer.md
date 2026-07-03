@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-03T15:08:01.793380+05:30'
+collected_at: '2026-07-03T20:04:35.277707+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
 - github-repo
 - jupyter notebook
+- meta-ai
 - models
 - rag
-- workflows
 stars: 1221
 language: Jupyter Notebook
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-03T15:08:01.793380+05:30'
-last_seen: '2026-07-03T15:08:01.793380+05:30'
-last_checked: '2026-07-03T15:08:01.793380+05:30'
+first_seen: '2026-07-03T20:04:35.277707+05:30'
+last_seen: '2026-07-03T20:04:35.277707+05:30'
+last_checked: '2026-07-03T20:04:35.277707+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of RAG workflows and components.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing and analyzing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly interface, allowing dynamic visualization of RAG processes (e.g., retrieval, generation) with real-time updates and customizable parameters.
+- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly web interface, allowing dynamic visualization of RAG components (e.g., retrieval mechanisms, context relevance, and model outputs) without requiring deep frontend development.
 
-- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting integration with LLM frameworks and enabling custom RAG pipeline analysis via Jupyter Notebooks.
+- **Python-Based & Modular**: Built in Python with modular design, supporting customization for different RAG frameworks (e.g., LangChain, LlamaIndex) and extensibility for additional visualization metrics or data sources.
 
 ## Why It Matters
 

@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Gemini API Integration**: Provides access to advanced reasoning and generative models (e.g., `gemini-3.5-flash`) via REST, Python, JavaScript, Go, and Java SDKs, enabling multimodal processing (code, text, media) and real-time agentic workflows with a single API endpoint.
+- **Gemini API Integration**: Provides access to advanced reasoning and generative models (e.g., `gemini-3.5-flash`) via REST and SDKs (Python, JavaScript, Go, Java) for multimodal, long-context AI workflows in applications.
 
-- **Agent-First Development Platforms**: Google Antigravity (CLI/desktop app) and AI Studio enable autonomous agent operations, mission control customization, and prompt-to-production app generation with AI features, optim
+- **Agent-First Platforms**: Google Antigravity enables autonomous agent development with mission control for customization, while Cloud Run automates scalable deployment without infrastructure management.
+
+- **Enterprise & Web AI Tools**: Gemini Enterprise Agent Platform s
 
 ## Use Cases
 

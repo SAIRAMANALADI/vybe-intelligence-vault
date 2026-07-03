@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Copilot**: AI-powered code suggestions for line-by-line or function-level completions directly in the editor, enhancing developer productivity.
-- **GitHub Advanced Security (GHAS)**: Integrated suite for vulnerability detection (CodeQL), secret scanning, dependency management (Dependabot), and AI-driven autofixes (Copilot Autofix) to proactively secure codebases.
-- **GitHub Actions & CI/CD**: Native automation platform with prebuilt workflows, self-hosted runners, and marketplace inte
+- **GitHub Copilot**: AI-powered code suggestions for line/block completion, with Copilot Chat for contextual AI assistance and Autofix for automated vulnerability remediation in supported languages (JavaScript, TypeScript, Java, Python).
+
+- **GitHub Advanced Security (GHAS)**: Integrated SAST/DAST via CodeQL, secret scanning, Dependabot for dependency vulnerability management, and security campaigns to bulk-fix alerts with AI-driven patches.
+
+- **GitHub Actions & CI/CD**: Native workflow automa
 
 ## Use Cases
 

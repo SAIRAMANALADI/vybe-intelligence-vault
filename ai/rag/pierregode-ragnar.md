@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PierreGode/Ragnar
-collected_at: '2026-07-03T15:08:46.792473+05:30'
+collected_at: '2026-07-03T20:05:20.294528+05:30'
 published_at: '2026-07-02T23:21:51Z'
 tags:
 - github-repo
@@ -17,11 +17,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2025-11-01T03:12:25Z'
-pushed_at: '2026-07-03T09:28:56Z'
+pushed_at: '2026-07-03T14:21:55Z'
 resource_id: github:pierregode/ragnar
-first_seen: '2026-07-03T15:08:46.792473+05:30'
-last_seen: '2026-07-03T15:08:46.792473+05:30'
-last_checked: '2026-07-03T15:08:46.792473+05:30'
+first_seen: '2026-07-03T20:05:20.294528+05:30'
+last_seen: '2026-07-03T20:05:20.294528+05:30'
+last_checked: '2026-07-03T20:05:20.294528+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Ragnar is a Python-based offensive security tool designed for Raspberry Pi, integrating a 2.13-inch e-Paper HAT for network scanning and vulnerability assessment.
-- **Functionality**: Discovers network targets, enumerates open ports, identifies exposed services, and detects vulnerabilities in target systems.
-- **Metadata**: Last updated July 2, 2026; 654 stars, 58 forks; no associated topics.
+- **Purpose & Features**: Ragnar is a Python-based offensive security tool designed for Raspberry Pi, integrating a 2.13-inch e-Paper HAT for network scanning, target discovery, port enumeration, service identification, and vulnerability assessment.
+
+- **Hardware Integration**: Utilizes a 2.13-inch e-Paper HAT for display, enabling portable, low-power network reconnaissance and reporting.
+
+- **Repository Metrics**: 654 stars, 58 forks, last updated on 2026-07-02; no additional topics or dependencies specified.
 
 ## Why It Matters
 
@@ -48,7 +50,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2025-11-01T03:12:25Z
-- Pushed At: 2026-07-03T09:28:56Z
+- Pushed At: 2026-07-03T14:21:55Z
 
 ## Possible Use Cases
 

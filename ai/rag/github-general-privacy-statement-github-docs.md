@@ -3,9 +3,9 @@ title: GitHub General Privacy Statement - GitHub Docs
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.github.com/en/github/site-policy/github-privacy-statement
-published_at: '2026-07-03T03:56:51.350862+05:30'
-collected_at: '2026-07-03T03:56:51.350876+05:30'
+source_url: https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement
+published_at: '2026-07-03T20:12:20.238960+05:30'
+collected_at: '2026-07-03T20:12:20.238975+05:30'
 tags:
 - agents
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-general-privacy-statement-github-docs
-first_seen: '2026-07-03T03:56:51.350876+05:30'
-last_seen: '2026-07-03T03:56:51.350876+05:30'
-last_checked: '2026-07-03T03:56:51.350876+05:30'
+first_seen: '2026-07-03T20:12:20.238975+05:30'
+last_seen: '2026-07-03T20:12:20.238975+05:30'
+last_checked: '2026-07-03T20:12:20.238975+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: GitHub collects Personal Data directly (account info, user content, payment details), automatically (cookies, geolocation, service usage logs), and from third parties (public sources, linked services, vendors), with processing purposes including business operations, safety/security, product improvement, and legal compliance.
+- **Data Collection Scope**: GitHub collects Personal Data directly (e.g., account details, user content), automatically (e.g., IP addresses, cookies, service usage logs), and from third parties (e.g., public sources, linked services, vendors), with processing purposes including business operations, security, product development, and legal compliance.
 
-- **Controller-Processor Dynamics**: When accounts are provided by organizations (employers/schools), GitHub acts as a Data Processor under their Data Controller instructions, governed by a Data Protection Agreement, while retaining privacy obligations for limited processing activities.
+- **Controller-Processor Dynamics**: When accounts are provided by organizations (e.g., employers/schools), GitHub acts as a Data Processor under a Data Protection Agreement, while the organization remains the Data Controller for most Personal Data processing activities.
 
-- **Third-Party Data Sharing**: Personal Data may be shared with abuse/fraud prevention entities, affiliates (e.g., Microsoft), and third-party services (integrations, linked accounts), with privacy governed by their respective policies and contractual agreements.
+- **Data Sharing & Third-Party Integrations**: Personal Data may be shared with abuse/fraud prevention entities, third-party extensions (governed by their privacy policies), and linked services (based on user settings), with GitHub employing data minimization and de-identification techniques where feasible for AI/ML model training.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T03:56:51.350862+05:30
+- Published: 2026-07-03T20:12:20.238960+05:30
 
 ## Related Tags
 
@@ -52,4 +52,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://docs.github.com/en/github/site-policy/github-privacy-statement
+Original source: https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement

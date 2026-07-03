@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Framework**: Official repository for GraphRAG-Bench, designed to evaluate Graph Retrieval-Augmented Generation (GraphRAG) models, providing standardized metrics and datasets for comparative analysis.
-- **Technical Scope**: Focuses on determining optimal use cases for graph-based RAG systems, analyzing retrieval performance across diverse graph structures and query types.
-- **Implementation**: Python-based benchmark with modular components for dataset generation, evaluation pipeline
+- **Benchmark Framework**: Provides an official evaluation suite (`GraphRAG-Bench`) for GraphRAG models, including standardized metrics and datasets to assess performance in graph-based retrieval-augmented generation (RAG) tasks.
+
+- **Technical Scope**: Focuses on analyzing when graph structures enhance RAG performance, with implementations in Python for modular evaluation across diverse graph retrieval strategies.
+
+- **Dataset & Analysis**: Includes curated datasets (`graphragdataset`) and tool
 
 ## Use Cases
 

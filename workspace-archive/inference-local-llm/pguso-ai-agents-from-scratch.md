@@ -6,10 +6,10 @@ source_url: https://github.com/pguso/ai-agents-from-scratch
 resource_id: github:pguso/ai-agents-from-scratch
 local_vault_path: ai/agents/pguso-ai-agents-from-scratch.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: tutorial
-importance: high
+importance: medium
 tags:
 - agents
 - frontend_ui
@@ -18,6 +18,7 @@ tags:
 - javascript
 - meta-ai
 - models
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -28,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Inference and Local LLM`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Educational Repository**: Provides a hands-on tutorial to build AI agents from scratch using local LLMs (via `node-llama-cpp`) in JavaScript, emphasizing transparency and eliminating "black box" dependencies.
-
-- **Core Technical Focus**: Covers essential AI agent components—function calling, memory management, and ReAct (Reasoning and Acting) patterns—for practical implementation and understanding.
-
-- **Project Structure**: Includes modular examples (e.g., React-based agents) and updated as
+- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using local LLMs (via `node-llama-cpp`), emphasizing transparency by avoiding black-box models.
+- **Core Technical Concepts**: Covers function calling, memory management, and ReAct (Reasoning and Acting) patterns to implement agentic workflows in JavaScript.
+- **Repository Details**: 4,374 stars, 637 forks, last updated July 3, 2026, with topics including AI agents, function-calling, and React-based ag
 
 ## Use Cases
 

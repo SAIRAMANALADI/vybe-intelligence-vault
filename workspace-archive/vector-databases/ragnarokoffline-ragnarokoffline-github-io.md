@@ -12,10 +12,8 @@ resource_kind: tool
 importance: medium
 tags:
 - github-repo
-- hackernews
 - html
 - rag
-- scripts
 selection_reason:
 - Active open-source repository
 ---
@@ -32,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: Hosts the **Ragnarok Offline Pre-Renewal Pack**, a static HTML-based implementation of the classic Ragnarok Online game client.
-- **Technical Stack**: Utilizes **OpenKore** for automation and **rAthena** for server-side functionality, targeting the pre-renewal version of Ragnarok Online.
-- **Last Update**: Repository was last modified on **July 1, 2026**, with 17 stars and 7 forks, indicating limited but active community engagement.
+- **Repository**: `ragnarokoffline/ragnarokoffline.github.io` hosts the **Ragnarok Offline Pre-Renewal Pack**, a static HTML-based resource for offline Ragnarok Online gameplay.
+- **Integration**: Designed for use with **OpenKore**, **rAthena**, and compatible with **Ragnarok Online Pre-Renewal** mechanics.
+- **Last Updated**: Repository was last modified on **2026-07-01T17:16:23Z**, indicating active maintenance.
 
 ## Use Cases
 

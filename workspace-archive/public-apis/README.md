@@ -8,20 +8,20 @@ Public developer APIs supply external context and utilities for LLM tools.
 
 ## Top Matched Resources
 
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [The official repository for Dart and Flutter packages.](https://pub.dev) (benchmark - USEFUL Tier)
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [FastAPI - FastAPI](https://fastapi.tiangolo.com/) (template - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) (workflow - USEFUL Tier)
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) (benchmark - USEFUL Tier)
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat)
 - [chroma-core/chroma](https://github.com/chroma-core/chroma)
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 
@@ -41,4 +41,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-07-03 15:24 IST*
+*Last updated: 2026-07-03 20:20 IST*

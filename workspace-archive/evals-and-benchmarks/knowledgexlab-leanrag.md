@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Semantic Aggregation Mechanism**: Implements a knowledge-graph-based approach to aggregate and refine retrieved information using semantic relationships, enhancing contextual relevance in generation tasks.
-
-- **Hierarchical Retrieval Strategy**: Utilizes a multi-layered retrieval system to progressively narrow down relevant data from coarse to fine granularity, optimizing retrieval efficiency and accuracy.
-
-- **Python-Based Framework**: Provides an open-source Python implementation designed
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework (LeanRAG) leveraging semantic aggregation for enhanced retrieval and generation, as proposed in AAAI 2026.
+- **Python Implementation**: Open-source codebase in Python, optimized for modularity and extensibility in RAG pipelines.
+- **Last Updated (2026-07-03)**: Repository includes recent updates with 243 stars and 29 forks, indicating active community engagement.
 
 ## Use Cases
 

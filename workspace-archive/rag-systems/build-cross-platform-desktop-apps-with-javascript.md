@@ -2,13 +2,13 @@
 title: Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://electronjs.org/
+source_url: https://www.electronjs.org/
 resource_id: blog:build-cross-platform-desktop-apps-with-javascript
 local_vault_path: ai/rag/build-cross-platform-desktop-apps-with-javascript.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - anthropic
@@ -22,7 +22,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron
@@ -31,18 +31,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Runtime Architecture**: Electron combines Chromium's rendering engine with Node.js, enabling cross-platform desktop apps using JavaScript/TypeScript while maintaining native OS integration via main process APIs.
-
-- **Security & Maintenance**: Releases synchronize with Chromium updates for immediate security patches, and the `crashReporter` module enables automated crash data collection for debugging.
-
-- **Tooling & Ecosystem**: Electron Forge provides a standardized build/publish pipeline, w
+- **Core Architecture**: Electron integrates Chromium for rendering and Node.js for backend APIs, enabling cross-platform desktop apps with JavaScript/TypeScript.
+- **Security & Stability**: Releases are synchronized with Chromium updates for immediate security patches and stable rendering targets.
+- **Extensibility & Tooling**: Supports npm packages, native add-ons, and frameworks (React, Vue, Angular), with tools like Electron Forge for packaging and distribution.
 
 ## Use Cases
 
@@ -52,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://electronjs.org/
+Original source URL: https://www.electronjs.org/
 
 ## Local Vault File
 

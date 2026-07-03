@@ -8,7 +8,7 @@ local_vault_path: ai/rag/apecloud-aperag.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: dataset
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -26,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: dataset
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Multi-modal indexing**: Supports integration of diverse data types (text, images, etc.) into a unified graph-based retrieval system for enhanced context engineering.
-
-- **AI agents & MCP integration**: Incorporates autonomous agents and Model Context Protocol (MCP) for dynamic, scalable knowledge graph interactions and orchestration.
-
-- **Kubernetes-native deployment**: Optimized for scalable, production-grade deployment via Kubernetes, ensuring high availability and distributed processing.
+- **Multi-modal indexing**: Supports both text and non-text data (e.g., images, documents) via unified graph-based retrieval for enhanced context engineering.
+- **AI agents & MCP integration**: Deploys autonomous agents with Model Context Protocol (MCP) support for dynamic, scalable knowledge graph interactions.
+- **Kubernetes-native scalability**: Optimized for production-grade deployment with auto-scaling, fault tolerance, and distributed graph processing in K8s environments.
 
 ## Use Cases
 

@@ -11,13 +11,14 @@ tags:
 - github-trending
 - javascript
 - reddit
-status: active
+status: inactive
 resource_id: github:santifer/career-ops
 first_seen: '2026-07-02T20:00:14.033813+05:30'
 last_seen: '2026-07-03T15:06:00.630181+05:30'
 last_checked: '2026-07-03T15:06:00.630181+05:30'
 health_score: 100
 ---
+
 
 # santifer/career-ops
 

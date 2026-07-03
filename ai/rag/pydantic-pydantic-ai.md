@@ -5,7 +5,7 @@ source_type: github_releases
 source_name: GitHub Releases AI
 source_url: https://github.com/pydantic/pydantic-ai
 published_at: '2026-07-03T01:24:57Z'
-collected_at: '2026-07-03T15:06:01.972740+05:30'
+collected_at: '2026-07-03T20:03:20.372531+05:30'
 tags:
 - agents
 - github-release
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: github:pydantic/pydantic-ai
 first_seen: '2026-06-16T13:57:15.241580+05:30'
-last_seen: '2026-07-03T15:06:01.972740+05:30'
-last_checked: '2026-07-03T15:06:01.972740+05:30'
+last_seen: '2026-07-03T20:03:20.372531+05:30'
+last_checked: '2026-07-03T20:03:20.372531+05:30'
 health_score: 100
 ---
 

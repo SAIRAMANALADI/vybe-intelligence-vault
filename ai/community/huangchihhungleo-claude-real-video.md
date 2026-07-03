@@ -15,13 +15,14 @@ tags:
 - hackernews
 - llm
 - youtube
-status: active
+status: inactive
 resource_id: github:huangchihhungleo/claude-real-video
 first_seen: '2026-07-03T03:50:17.743551+05:30'
 last_seen: '2026-07-03T15:06:01.717996+05:30'
 last_checked: '2026-07-03T15:06:01.717996+05:30'
 health_score: 100
 ---
+
 
 # Claude-real-video － any LLM can watch a video
 

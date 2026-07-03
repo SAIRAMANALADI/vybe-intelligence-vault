@@ -11,13 +11,14 @@ tags:
 - github-trending
 - python
 - workflows
-status: active
+status: inactive
 resource_id: github:langflow-ai/langflow
 first_seen: '2026-07-02T20:00:14.035339+05:30'
 last_seen: '2026-07-03T15:06:00.631828+05:30'
 last_checked: '2026-07-03T15:06:00.631828+05:30'
 health_score: 100
 ---
+
 
 # langflow-ai/langflow
 

@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ anomaly detection algorithms for tabular, time series, graph, text, image, and audio data, with benchmark-backed orchestration via `ADEngine`.
+- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, with benchmark-backed ADEngine orchestration for unified evaluation and deployment.
 
-- **Agentic Workflow Integration**: Enables AI agents to autonomously execute anomaly detection pipelines, leveraging foundation models for multimodal analysis.
+- **Agentic Workflow Integration**: Enables AI agents to autonomously execute anomaly detection tasks via an agentic workflow, leveraging foundation models for adaptive detection strategies.
 
-- **Active Development & Ecosystem**: Maintained repository (last updated July 2026) with 9.8K+ stars, covering topics like fraud
+- **Multimodal & Fraud Detection Focus**: Specialized in multimodal anomaly detection
 
 ## Use Cases
 

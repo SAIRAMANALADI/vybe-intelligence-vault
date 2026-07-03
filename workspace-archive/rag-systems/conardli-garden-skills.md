@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Open-source collection (`ConardLi/garden-skills`) with 9,083 stars and 1,225 forks, covering web design, knowledge retrieval, image generation, and AI agent integration.
-- **Technical Stack**: Primarily CSS-based, with tools for RAG (Retrieval-Augmented Generation), GPT-image-2, and AI agent workflows.
-- **Last Update**: July 3, 2026; topics include `agent`, `claude`, `rag`, and `web-design`.
+- **Repository Overview**: Open-source collection of technical skills curated by ConardLi, covering web design, knowledge retrieval, image generation, and other domains.
+- **Technical Stack**: Primarily implemented in CSS, with integration of AI tools (e.g., GPT-Image-2, RAG) and agent-based workflows.
+- **Metadata**: 9,094 stars, 1,226 forks, last updated July 3, 2026, with topics including agent, RAG, and web-design.
 
 ## Use Cases
 

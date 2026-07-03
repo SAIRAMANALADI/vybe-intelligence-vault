@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-03T15:08:16.748410+05:30'
+collected_at: '2026-07-03T20:04:50.296200+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
-- workflows
 stars: 263
 language: Python
 status: active
@@ -19,9 +17,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-03T15:08:16.748410+05:30'
-last_seen: '2026-07-03T15:08:16.748410+05:30'
-last_checked: '2026-07-03T15:08:16.748410+05:30'
+first_seen: '2026-07-03T20:04:50.296200+05:30'
+last_seen: '2026-07-03T20:04:50.296200+05:30'
+last_checked: '2026-07-03T20:04:50.296200+05:30'
 health_score: 100
 ---
 
@@ -29,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) best practices tailored for Vietnamese language processing, leveraging Python-based pipelines.
+- **Vietnamese RAG Implementation**: Demonstrates best practices for building Retrieval-Augmented Generation (RAG) systems tailored for Vietnamese language processing, including document retrieval and generation pipelines.
 
-- **Modular Architecture**: Features a structured backend with components for document retrieval, embedding generation (e.g., using `sentence-transformers`), and LLM integration (e.g., `vllm` or `transformers`).
+- **Python-Based Architecture**: Utilizes Python with frameworks like LangChain or Haystack for modular RAG components (e.g., embeddings, vector stores, LLMs) optimized for Vietnamese text.
 
-- **Optimized Workflow**: Includes preprocessing (Vietnamese text normalization), vector database integration (e.g., FAISS or Milvus), and evaluation metrics for retrieval quality and generation performance.
+- **Scalable Vietnamese Vector Search**: Implements efficient Vietnamese text vectorization (e.g., using `sentence-transformers` or `vinai/phobert-base`) and retrieval (e.g., FAISS, Weaviate) for low-latency, high-accuracy document search.
 
 ## Why It Matters
 

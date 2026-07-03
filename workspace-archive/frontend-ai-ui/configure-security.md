@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Default Security Policy**: Hugo enforces a restrictive security policy by default, blocking `os/exec`, remote communication, and other sensitive operations unless explicitly allowed via allowlists; violations trigger detailed failure messages.
+- **Default Security Policy**: Hugo enforces a restrictive security policy by default, blocking `os/exec`, remote communication, and other sensitive operations unless explicitly allowed via allowlists (e.g., `exec.allow` permits `^(dart-)?sass(-embedded)?$`, `^go$`, `^git$`).
 
-- **Configurable Allowlists**: Security policies are defined via regex-based allowlists for content types (`allowContent`), executables (`exec.allow`), OS env vars (`exec.osEnv`/`funcs.getenv`), HTTP methods/URLs (`http.methods`/`urls`), and Node.js p
+- **Content & Environment Controls**: `allowContent` restricts HTML content in `content/` (denied by default), while `exec.osEnv` and `funcs.getenv` whitelist OS environment variables (e.g., `^HUGO_`, `^CI$`) for security-
 
 ## Use Cases
 

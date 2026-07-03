@@ -3,18 +3,17 @@ title: Making sure you're not a bot!
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://lumendatabase.org/
-published_at: '2026-07-02T10:00:33.239826+05:30'
-collected_at: '2026-07-02T10:00:33.239837+05:30'
+source_url: https://www.lumendatabase.org/
+published_at: '2026-07-03T20:12:30.735273+05:30'
+collected_at: '2026-07-03T20:12:30.735285+05:30'
 tags:
-- hackernews
 - scripts
 - web-crawled
 status: active
 resource_id: blog:making-sure-you-re-not-a-bot
-first_seen: '2026-07-02T10:00:33.239837+05:30'
-last_seen: '2026-07-02T10:00:33.239837+05:30'
-last_checked: '2026-07-02T10:00:33.239837+05:30'
+first_seen: '2026-07-03T20:12:30.735285+05:30'
+last_seen: '2026-07-03T20:12:30.735285+05:30'
+last_checked: '2026-07-03T20:12:30.735285+05:30'
 health_score: 100
 ---
 
@@ -22,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Proof-of-Work Mechanism**: Anubis implements a Hashcash-inspired proof-of-work scheme to mitigate aggressive AI scraping, imposing negligible overhead for individual users but significantly increasing costs for large-scale scrapers.
+- **Proof-of-Work Mechanism**: Anubis employs a Hashcash-inspired Proof-of-Work (PoW) scheme to mitigate aggressive AI-driven web scraping, imposing computational costs that scale with scraping volume while remaining negligible for individual users.
 
-- **Headless Browser Detection**: The system serves as a temporary solution while developing advanced fingerprinting techniques (e.g., analyzing font rendering) to distinguish headless browsers from legitimate users, reducing reliance on proof-of-work challenges.
+- **Headless Browser Detection**: The system prioritizes fingerprinting and identifying headless browsers (e.g., via font rendering discrepancies) to reduce reliance on PoW challenges for legitimate users, though this requires JavaScript execution.
 
-- **JavaScript Dependency**: Anubis requires modern JavaScript to function, as AI-driven scraping practices have necessitated this shift; disabling JavaScript (e.g., via plugins like JShelter) will block access until a no-JS alternative is implemented.
+- **JavaScript Dependency**: Anubis mandates modern JavaScript for PoW challenges due to AI-driven circumvention of no-JS solutions, with a no-JS fallback in development to balance accessibility and anti-scraping efficacy.
 
 ## Why It Matters
 
@@ -36,14 +35,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-02T10:00:33.239826+05:30
+- Published: 2026-07-03T20:12:30.735273+05:30
 
 ## Related Tags
 
-- hackernews
 - scripts
 - web-crawled
 
 ## Source
 
-Original source: https://lumendatabase.org/
+Original source: https://www.lumendatabase.org/

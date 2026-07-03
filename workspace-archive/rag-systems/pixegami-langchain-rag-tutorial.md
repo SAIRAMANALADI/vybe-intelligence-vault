@@ -6,7 +6,7 @@ source_url: https://github.com/pixegami/langchain-rag-tutorial
 resource_id: github:pixegami/langchain-rag-tutorial
 local_vault_path: ai/rag/pixegami-langchain-rag-tutorial.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -24,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -32,9 +32,7 @@ selection_reason:
 
 ## Summary
 
-*   Implements a Langchain-based Retrieval Augmented Generation (RAG) system.
-*   Python-based implementation targeting LLM application development.
-*
+*   Implements a Retrieval-Augmented Generation (RAG) system leveraging the Lang
 
 ## Use Cases
 

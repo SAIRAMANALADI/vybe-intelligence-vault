@@ -15,6 +15,7 @@ tags:
 - hackernews
 - jupyter notebook
 - rag
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational Framework**: Provides a structured, beginner-friendly tutorial for developing large language model (LLM) applications, covering foundational to advanced concepts in a hands-on manner using Jupyter Notebooks.
+- **Educational Framework**: A beginner-friendly tutorial repository for developing LLM applications, structured as Jupyter Notebooks, covering topics like LangChain and RAG (Retrieval-Augmented Generation).
 
-- **Key Technologies**: Focuses on **LangChain** for LLM orchestration and **Retrieval-Augmented Generation (RAG)** for enhancing model outputs with external knowledge bases.
+- **Technical Scope**: Focuses on practical implementation of large language model applications, emphasizing modular design and hands-on development workflows.
 
-- **Resources & Updates**: Offers an online book (hosted via GitHub Pages) with continuous updates;
+- **Community & Maintenance**: Actively maintained with 13,393 stars, 1,371 forks, and last updated on 2026-07-03, indicating stro
 
 ## Use Cases
 

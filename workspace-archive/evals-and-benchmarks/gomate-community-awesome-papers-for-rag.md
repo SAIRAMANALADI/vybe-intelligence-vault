@@ -8,20 +8,18 @@ local_vault_path: ai/rag/gomate-community-awesome-papers-for-rag.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
 - github-repo
 - hackernews
-- meta-ai
-- models
 - paper
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # gomate-community/awesome-papers-for-rag
@@ -30,16 +28,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on Retrieval-Augmented Generation (RAG) methodologies, architectures, and applications.
-- **Python-Centric Tooling**: Includes Python-based implementations, libraries (e.g., `LangChain`, `LlamaIndex`), and frameworks for RAG system development and evaluation.
-- **Last Updated**: Repository content synchronized as of **2026-07-01**, ensuring inclusion of recent advancements in RAG research and
+- **Curated RAG Resources**: Repository (`gomate-community/awesome-papers-for-rag`) compiles peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG) architectures, benchmarks, and applications.
+
+- **Python-Centric Tooling**: Primarily Python-based, with structured metadata (e.g., `awesome-papers-for-rag.json`) categorizing resources by task (e.g., QA, summarization) and methodology (e.g., dense retrieval, hybrid search).
+
+- **Last Updated**: Repository metada
 
 ## Use Cases
 

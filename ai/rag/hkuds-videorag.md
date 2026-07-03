@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-07-03T15:09:06.848786+05:30'
+collected_at: '2026-07-03T20:05:40.346203+05:30'
 published_at: '2026-07-03T05:52:30Z'
 tags:
-- dataset
 - github-repo
+- hackernews
 - python
 - rag
 - youtube
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-07-03T15:09:06.848786+05:30'
-last_seen: '2026-07-03T15:09:06.848786+05:30'
-last_checked: '2026-07-03T15:09:06.848786+05:30'
+first_seen: '2026-07-03T20:05:40.346203+05:30'
+last_seen: '2026-07-03T20:05:40.346203+05:30'
+last_checked: '2026-07-03T20:05:40.346203+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system tailored for long-video understanding, enabling LLMs to interactively query and reason over video content via multi-modal embeddings and retrieval mechanisms.
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to process and interact with video content via multi-modal inputs (e.g., frames, audio, metadata).
 
-- **Multi-Modal Integration**: Leverages both visual and textual modalities, combining video frame embeddings with transcript/OCR data to enhance contextual retrieval and generate coherent responses for video-based Q&A.
+- **Technical Implementation**: Leverages Python with multi-modal LLMs to segment, embed, and retrieve video segments dynamically, enhancing contextual Q&A and summarization for extended video durations.
 
-- **KDD'2026 Contribution**: Proposes a novel architecture for scalable video comprehension, optimizing retrieval latency and accuracy for large-scale video datasets while maintaining compatibility with existing LLM backbones.
+- **KDD'2026 Contribution**: Proposes novel retrieval mechanisms and indexing strategies to optimize multi-modal RAG for video data, addressing scalability and latency challenges in long-video applications.
 
 ## Why It Matters
 

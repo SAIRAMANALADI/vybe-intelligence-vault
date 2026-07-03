@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **TypeScript-based LLM Data Framework**: LlamaIndexTS is a server-side data framework designed for LLM applications, enabling structured data integration and retrieval for TypeScript/JavaScript environments.
-
-- **Core Features**: Supports embeddings, vector stores, and agentic workflows; integrates with LLM providers (OpenAI, Groq, Llama3) and frameworks (React, Node.js).
-
-- **Ecosystem & Tooling**: Part of the LlamaIndex ecosystem (`create-llama`); optimized for Claude AI and modern JS/TS too
+- **Framework Purpose**: LlamaIndexTS is a TypeScript-based data framework designed for server-side LLM (Large Language Model) applications, enabling structured data integration and retrieval for AI-driven workflows.
+- **Key Features**: Supports embeddings, agent-based systems, and integration with LLMs (e.g., Llama3, OpenAI, Groq) via Node.js/TypeScript, optimized for chatbots and RAG (Retrieval-Augmented Generation) pipelines.
+- **Ecosystem**: Compatible with React, JavaScript, and modern AI t
 
 ## Use Cases
 

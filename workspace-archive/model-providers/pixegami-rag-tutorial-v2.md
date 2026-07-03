@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- Implements **LangChain RAG pipeline** with **local LLMs** (e.g., Llama, Mistral) via Ollama or HuggingFace, avoiding API dependency.
-- Features **dynamic database updates** using **ChromaDB** or **FAISS** for vector storage, enabling real-time document ingestion and retrieval.
-- Includes **testing framework** with **RAGAS** and **TruLens** for evaluating retrieval quality, answer correctness, and hallucination rates.
+- **Local LLM Integration**: Demonstrates Langchain-based RAG pipeline leveraging locally hosted LLMs (e.g., Llama, Mistral) via Ollama or vLLM for offline inference.
+- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma, FAISS) refresh pipelines to incorporate new documents without full rebuilds.
+- **Testing Framework**: Includes unit/integration tests (e.g., pytest) for retrieval accuracy, prompt engineering, and end-to-end RAG performance validation.
 
 ## Use Cases
 

@@ -2,14 +2,14 @@
 title: Stack Overflow Insights - Developer Hiring, Marketing, and User Research
 archive_category: datasets
 source_category: ai/agents
-source_url: https://survey.stackoverflow.co
+source_url: https://survey.stackoverflow.co/
 resource_id: blog:stack-overflow-insights-developer-hiring-marketing
 local_vault_path: ai/agents/stack-overflow-insights-developer-hiring-marketing.md
 quality_score: 70
-archive_score: 74
+archive_score: 84
 archive_tier: useful
 resource_kind: dataset
-importance: medium
+importance: high
 tags:
 - agents
 - dataset
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 84 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Survey Scale**: 2025 Developer Survey collected responses from **49,000+ developers across 177 countries**, covering **314 technologies** and **62 questions**, with a new focus on **AI agent tools and LLMs**.
-
-- **Data Accessibility**: Raw survey data available in **CSV format** via GitHub for years **2011–2025**, including results, datasets, and archives for longitudinal analysis.
-
-- **Historical Continuity**: Fifteenth annual iteration, providing **15 years of consistent developer trends**
+- **Survey Scope**: 2025 Stack Overflow Developer Survey collected 49,000+ responses from 177 countries, covering 314 technologies with dedicated focus on AI agent tools, LLMs, and community platforms.
+- **Data Accessibility**: Raw survey data available in CSV format via GitHub, with historical archives dating back to 2011.
+- **Survey Platform**: Results and datasets hosted on Stack Overflow’s official survey platform with GitHub repository for version control and transparency.
 
 ## Use Cases
 
@@ -47,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://survey.stackoverflow.co
+Original source URL: https://survey.stackoverflow.co/
 
 ## Local Vault File
 

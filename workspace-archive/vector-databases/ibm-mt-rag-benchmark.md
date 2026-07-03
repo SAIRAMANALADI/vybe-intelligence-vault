@@ -16,7 +16,6 @@ tags:
 - github-repo
 - python
 - rag
-- reddit
 selection_reason:
 - Useful for project building
 ---
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Design**: Multi-Turn Retrieval-Augmented Generation (RAG) benchmark evaluating conversational RAG systems across multi-turn interactions, focusing on context retention and iterative refinement.
-- **Evaluation Metrics**: Includes standard RAG metrics (e.g., answer correctness, context relevance) and novel multi-turn-specific metrics (e.g., turn consistency, cumulative error propagation).
-- **Implementation**: Python-based framework with modular components for dataset integration, re
+- **Purpose**: Evaluates multi-turn Retrieval-Augmented Generation (RAG) systems, focusing on conversational context retention and iterative retrieval quality.
+- **Implementation**: Python-based framework with standardized metrics for assessing multi-turn RAG pipelines, including context relevance and answer consistency across turns.
+- **Benchmark Components**: Includes synthetic and real-world datasets, evaluation scripts, and baseline models (e.g., dense retrievers + LLMs) for comparative anal
 
 ## Use Cases
 

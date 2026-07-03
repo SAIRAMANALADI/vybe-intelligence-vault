@@ -16,7 +16,6 @@ tags:
 - models
 - python
 - rag
-- reddit
 - workflows
 selection_reason:
 - Strong keyword match
@@ -36,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a template for deploying Retrieval-Augmented Generation (RAG) systems with FastAPI, enabling AI chatbots and document management via vector search.
-- **Key Components**: Integrates Python, FastAPI, Ollama (LLM), and a vector database (e.g., Chroma/Weaviate) for document retrieval, with Docker/Kubernetes support for deployment.
-- **Features**: Supports RAG workflows, includes API endpoints for chat/document interaction, and is optimized for scalable deployment (local/LLM-a
+- **Purpose**: Provides a template for deploying AI chatbots and document management systems using **Retrieval-Augmented Generation (RAG)** with **vector search** and **FastAPI** backend.
+- **Key Components**: Integrates **Ollama** for LLM inference, **FastAPI** for REST endpoints, and supports **Docker** and **Kubernetes** for deployment; includes **vector database** integration for semantic search.
+- **Tech Stack**: Python-based, leveraging **STACKIT** infrastructure; optimized for **RAG-chatb
 
 ## Use Cases
 

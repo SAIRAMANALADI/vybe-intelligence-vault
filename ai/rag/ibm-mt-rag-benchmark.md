@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IBM/mt-rag-benchmark
-collected_at: '2026-07-03T15:08:41.840403+05:30'
+collected_at: '2026-07-03T20:05:15.314467+05:30'
 published_at: '2026-06-26T15:53:38Z'
 tags:
 - benchmark
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - python
 - rag
-- reddit
 stars: 145
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-12-17T19:26:10Z'
 pushed_at: '2026-05-01T18:23:01Z'
 resource_id: github:ibm/mt-rag-benchmark
-first_seen: '2026-07-03T15:08:41.840403+05:30'
-last_seen: '2026-07-03T15:08:41.840403+05:30'
-last_checked: '2026-07-03T15:08:41.840403+05:30'
+first_seen: '2026-07-03T20:05:15.314467+05:30'
+last_seen: '2026-07-03T20:05:15.314467+05:30'
+last_checked: '2026-07-03T20:05:15.314467+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Multi-Turn Retrieval-Augmented Generation (RAG) benchmark evaluating conversational RAG systems across multi-turn interactions, focusing on context retention and iterative refinement.
-- **Evaluation Metrics**: Includes standard RAG metrics (e.g., answer correctness, context relevance) and novel multi-turn-specific metrics (e.g., turn consistency, cumulative error propagation).
-- **Implementation**: Python-based framework with modular components for dataset integration, retriever/generator evaluation, and turn-level analysis, supporting extensibility for custom RAG pipelines.
+- **Purpose**: Evaluates multi-turn Retrieval-Augmented Generation (RAG) systems, focusing on conversational context retention and iterative retrieval quality.
+- **Implementation**: Python-based framework with standardized metrics for assessing multi-turn RAG pipelines, including context relevance and answer consistency across turns.
+- **Benchmark Components**: Includes synthetic and real-world datasets, evaluation scripts, and baseline models (e.g., dense retrievers + LLMs) for comparative analysis.
 
 ## Why It Matters
 

@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- models
 - rag
 - unknown
 selection_reason:
@@ -31,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Community-driven repository aggregating RAG frameworks, projects, and resources for open-source collaboration and exploration in AI/ML/NLP domains.
-- **Scope**: Covers retrieval-augmented generation (RAG) tools, libraries, and research, targeting large language models (LLMs) and natural language processing (NLP) applications.
-- **Metadata**: 1,948 stars, 181 forks, last updated July 2, 2026; includes topics like AI, machine learning, and open-source contributions.
+- **Community-driven RAG repository** hosting open-source frameworks, projects, and resources for Retrieval-Augmented Generation (RAG) systems.
+- **Curated ecosystem** covering AI, LLMs, NLP, and machine learning with active contributions and updates (last synced 2026-07-02).
+- **1,948 stars, 181 forks** on GitHub, aggregating tools and research for scalable RAG implementations.
 
 ## Use Cases
 

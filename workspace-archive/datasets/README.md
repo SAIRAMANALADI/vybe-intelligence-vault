@@ -24,8 +24,8 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 - [Speechify · GitHub](https://github.com/SpeechifyInc)
 - [google-research/scann at master · google-research/google-research · GitHub](https://github.com/google-research/google-research/tree/master/scann)
 - [project-miracl/miracl](https://github.com/project-miracl/miracl)
+- [TencentCloudADP/youtu-graphrag](https://github.com/TencentCloudADP/youtu-graphrag)
 - [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench)
-- [facebookresearch/CRAG](https://github.com/facebookresearch/CRAG)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-07-03 15:24 IST*
+*Last updated: 2026-07-03 20:20 IST*

@@ -4,18 +4,18 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/pmndrs/uikit
-collected_at: '2026-07-02T22:32:56.006563+05:30'
-published_at: '2026-07-02T16:38:13Z'
+collected_at: '2026-07-03T20:03:17.213498+05:30'
+published_at: '2026-07-03T10:55:18Z'
 tags:
 - frontend_ui
 - threejs
-stars: 3183
+stars: 3184
 language: TypeScript
 status: active
 resource_id: github:pmndrs/uikit
 first_seen: '2026-06-12T10:40:15.865429+00:00'
-last_seen: '2026-07-02T22:32:56.006563+05:30'
-last_checked: '2026-07-02T22:32:56.006563+05:30'
+last_seen: '2026-07-03T20:03:17.213498+05:30'
+last_checked: '2026-07-03T20:03:17.213498+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: pmndrs
-- Stars: 3183
-- Forks: 175
+- Stars: 3184
+- Forks: 176
 - Language: TypeScript
 - Topics: flexbox, r3f, react, threejs, typescript, uikit, userinterface, yoga
-- Last Updated: 2026-07-02T16:38:13Z
+- Last Updated: 2026-07-03T10:55:18Z
 
 ## Possible Use Cases
 

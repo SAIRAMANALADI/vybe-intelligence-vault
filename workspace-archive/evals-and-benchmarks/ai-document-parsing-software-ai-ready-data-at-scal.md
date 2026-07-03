@@ -6,7 +6,7 @@ source_url: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=or
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
 local_vault_path: ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -30,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-format parsing engine** supporting 90+ document formats (PDFs, scanned docs, images, handwriting) with layout-aware structure extraction (headers, footers, tables, charts) and multimodal context integration.
+- **High-accuracy parsing engine** supporting 90+ document formats with layout-aware OCR, multimodal context extraction (tables, charts, images), and granular parsing modes for cost-accuracy optimization.
 
-- **Scalable, multilingual document processing** with granular parsing modes for cost-accuracy optimization, enterprise-grade concurrency, and OCR support for 100+ languages.
+- **Scalable enterprise-grade solution** processing 1B+ documents monthly with multilingual support (100+ languages), local/cloud deployment options, and high concurrency for large-scale workflows.
 
-- **Developer-focused API** with TypeScript/Python SDKs, live notebooks, and workflow automation for inde
+- **Structured output generation** converting complex layouts (headers, footers, multi-page PDF
 
 ## Use Cases
 

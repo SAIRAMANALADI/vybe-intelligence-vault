@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **LlamaParse Cloud Services**: Provides cloud-based OCR and document processing via `Parse` (SOTA agentic OCR), `Extract` (structured data extraction), and a unified `Platform Documentation` for integration.
+- **LlamaParse Cloud Services**: Offers three core products—**Parse** (SOTA agentic OCR for document processing), **Extract** (structured data extraction), and a **Platform** for unified document workflows with cloud-based APIs.
 
-- **Open-Source Tooling**: Offers `LiteParse` (lightweight OCR), `LlamaAgents` (agentic workflows), and `LlamaIndex (Python)` (core indexing/retrieval framework) with full documentation and GitHub repositories.
+- **Open-Source Tooling**: Provides **LiteParse** (lightweight OCR), **LlamaAgents** (modular agent framework), and **LlamaIndex (Python)** (comprehensive data framework) with full documentation and GitHub repositories.
 
-- **Community & Support**: Maintains active social presence on `X (Twitter)`,
+- **Community & Integrations**: Maintains active
 
 ## Use Cases
 

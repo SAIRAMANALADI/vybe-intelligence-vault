@@ -13,13 +13,14 @@ tags:
 - mistral-ai-news
 - models
 - workflows
-status: active
+status: inactive
 resource_id: blog:product-workflows-for-work-that-runs-the-business
 first_seen: '2026-06-16T04:26:33.365997+00:00'
 last_seen: '2026-07-03T15:06:05.720816+05:30'
 last_checked: '2026-07-03T15:06:05.720816+05:30'
 health_score: 100
 ---
+
 
 # Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI
 

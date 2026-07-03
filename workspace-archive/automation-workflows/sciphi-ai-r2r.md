@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic RAG Framework**: Production-ready Python-based retrieval system implementing agentic Retrieval-Augmented Generation (RAG) with RESTful API endpoints for dynamic, multi-stage retrieval and generation workflows.
-
-- **Scalable Retrieval Pipeline**: Incorporates optimized indexing, vector search, and hybrid retrieval mechanisms (dense + sparse) for high-performance document retrieval in large-scale LLM applications.
-
-- **Modular Architecture**: Designed for extensibility with pluggable c
+- **Agentic RAG System**: Implements an advanced, production-ready retrieval-augmented generation (RAG) framework with agentic capabilities, enabling dynamic, multi-step retrieval and reasoning workflows.
+- **RESTful API**: Exposes a scalable, standardized API for integration with downstream applications, supporting efficient querying and management of retrieval pipelines.
+- **Python-Based Architecture**: Built in Python with modular components for indexing, retrieval, and generation, optimized
 
 ## Use Cases
 

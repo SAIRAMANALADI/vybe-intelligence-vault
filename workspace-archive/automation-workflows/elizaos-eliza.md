@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic OS Framework**: Open-source TypeScript-based system designed for building autonomous AI agents with plugin support, enabling integration across Discord, Slack, Telegram, and other platforms.
+- **Agentic OS Framework**: Open-source TypeScript-based system enabling autonomous AI agents with plugin extensibility, supporting RAG, swarm intelligence, and multi-platform integration (Discord, Slack, Telegram).
 
-- **Swarm & RAG Capabilities**: Supports swarm intelligence for distributed agent collaboration and Retrieval-Augmented Generation (RAG) for enhanced contextual knowledge retrieval.
+- **Modular Architecture**: Designed for plugin-driven workflows, facilitating custom AI agent deployments with crypto compatibility and real-time interaction capabilities.
 
-- **Extensible Architecture**: Modular design allows for crypto, plugin, and framework integrations, facilitating
+- **Active Development**: Last updated July 2026, with 18.6k+ stars and 5.5k+ forks, indicating a rapidly evo
 
 ## Use Cases
 

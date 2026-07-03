@@ -6,10 +6,10 @@ source_url: https://github.com/run-llama/LlamaIndexTS
 resource_id: github:run-llama/llamaindexts
 local_vault_path: ai/rag/run-llama-llamaindexts.md
 quality_score: 70
-archive_score: 89
-archive_tier: essential
+archive_score: 79
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - anthropic
@@ -20,6 +20,7 @@ tags:
 - openai
 - rag
 - typescript
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -30,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 89 (essential)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -38,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **TypeScript-based LLM Data Framework**: LlamaIndexTS is a server-side data framework designed for LLM applications, enabling efficient data ingestion, indexing, and retrieval for TypeScript/JavaScript environments.
-
-- **Modular Architecture**: Supports integrations with major LLM providers (OpenAI, Groq, Llama3) and frameworks (React, Node.js), with built-in support for embeddings, agents, and chatbot pipelines.
-
-- **Active Development**: Last updated in July 2026, the repository (3,078 stars
+- **Framework Purpose**: LlamaIndexTS is a TypeScript-based data framework designed for server-side LLM (Large Language Model) applications, enabling structured data integration and retrieval for AI-driven workflows.
+- **Key Features**: Supports embeddings, agent-based systems, and integration with LLMs (e.g., Llama3, OpenAI, Groq) via Node.js/TypeScript, optimized for chatbots and RAG (Retrieval-Augmented Generation) pipelines.
+- **Ecosystem**: Compatible with React, JavaScript, and modern AI t
 
 ## Use Cases
 

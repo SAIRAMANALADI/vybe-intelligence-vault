@@ -26,7 +26,7 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
 - [Google Research · GitHub](https://github.com/google-research)
 - [Azure-Samples/azure-openai-rag-workshop-template](https://github.com/Azure-Samples/azure-openai-rag-workshop-template)
-- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-07-03 15:23 IST*
+*Last updated: 2026-07-03 20:19 IST*

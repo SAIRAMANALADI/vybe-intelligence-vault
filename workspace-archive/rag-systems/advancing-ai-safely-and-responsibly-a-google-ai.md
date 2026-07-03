@@ -8,10 +8,9 @@ local_vault_path: ai/rag/advancing-ai-safely-and-responsibly-a-google-ai.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - deepmind
 - hackernews
 - rag
@@ -19,7 +18,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Advancing AI safely and responsibly â Google AI
@@ -28,16 +27,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Automated Red Teaming (ART)**: Google employs ART to proactively test Gemini models by simulating realistic attack vectors, significantly improving resistance against indirect prompt injection attacks during tool-use, with Gemini 2.5 achieving the highest protection rate to date.
+- **Automated Red Teaming (ART)**: Google employs ART to proactively simulate adversarial attacks on Gemini models, identifying and mitigating security vulnerabilities, particularly against indirect prompt injection attacks during tool-use.
 
-- **Security Enhancements via ART**: The iterative ART process has been instrumental in identifying and mitigating vulnerabilities, leading to measurable improvements in model security, particularly in handling too
+- **Security Enhancement in Gemini 2.5**: ART-driven improvements have significantly boosted Gemini 2.5's protection rate, establishing it as the most secure model family to date in Google's lineup.
+
+- **Proactive Security Strategy**: ART is central to Googl
 
 ## Use Cases
 

@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-format parsing engine** supporting 90+ document formats (PDFs, scanned docs, images, handwriting) with layout-aware structure extraction (headers, footers, tables, charts) and multimodal context integration.
+- **High-accuracy parsing engine** supporting 90+ document formats with layout-aware OCR, multimodal context extraction (tables, charts, images), and granular parsing modes for cost-accuracy optimization.
 
-- **Scalable, multilingual document processing** with granular parsing modes for cost-accuracy optimization, enterprise-grade concurrency, and OCR support for 100+ languages.
+- **Scalable enterprise-grade solution** processing 1B+ documents monthly with multilingual support (100+ languages), local/cloud deployment options, and high concurrency for large-scale workflows.
 
-- **Developer-focused API** with TypeScript/Python SDKs, live notebooks, and workflow automation for inde
+- **Structured output generation** converting complex layouts (headers, footers, multi-page PDF
 
 ## Use Cases
 

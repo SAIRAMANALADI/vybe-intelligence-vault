@@ -6,9 +6,9 @@ source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-n
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
 local_vault_path: ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md
 quality_score: 70
-archive_score: 78
+archive_score: 74
 archive_tier: useful
-resource_kind: dataset
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -31,17 +31,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 78 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Architecture**: Combines LLMs with retrieval systems to fetch relevant external data (e.g., documents, databases) for context-aware responses, avoiding context window overload by processing only necessary chunks (e.g., 1,000 tokens per chunk from a 10M-token corpus).
+- **RAG Architecture**: Combines LLMs with retrieval systems to fetch relevant external data (documents, databases) for accurate responses, avoiding context window overload by injecting only pertinent chunks into the LLM.
 
-- **Embedding Pipeline**: Chunks are converted into high-dimensional vector embeddings (e.g., 3,072 dimensions for OpenAI’s `text-embedding-3-large`) using specialized models, enabling semantic similarity searches in vector
+- **Embedding Pipeline**: Chunks source documents (e.g., 10M tokens → 10K chunks of 1K tokens each) into vector embeddings (e.g., OpenAI’s 3,072-dimensional vectors) using specialized models, storing them in vector databases (e.g., Pinecone, FAISS) for semantic similarity matc
 
 ## Use Cases
 

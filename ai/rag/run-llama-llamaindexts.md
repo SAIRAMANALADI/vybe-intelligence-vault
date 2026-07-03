@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/LlamaIndexTS
-collected_at: '2026-07-03T15:13:25.190543+05:30'
+collected_at: '2026-07-03T20:09:15.025495+05:30'
 published_at: '2026-07-01T00:13:59Z'
 tags:
 - agents
@@ -16,6 +16,7 @@ tags:
 - openai
 - rag
 - typescript
+- workflows
 stars: 3078
 language: TypeScript
 status: active
@@ -24,9 +25,9 @@ archived: true
 created_at: '2023-06-13T06:41:20Z'
 pushed_at: '2026-03-11T20:07:07Z'
 resource_id: github:run-llama/llamaindexts
-first_seen: '2026-07-03T15:13:25.190543+05:30'
-last_seen: '2026-07-03T15:13:25.190543+05:30'
-last_checked: '2026-07-03T15:13:25.190543+05:30'
+first_seen: '2026-07-03T20:09:15.025495+05:30'
+last_seen: '2026-07-03T20:09:15.025495+05:30'
+last_checked: '2026-07-03T20:09:15.025495+05:30'
 health_score: 100
 ---
 
@@ -34,11 +35,9 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based LLM Data Framework**: LlamaIndexTS is a server-side data framework designed for LLM applications, enabling efficient data ingestion, indexing, and retrieval for TypeScript/JavaScript environments.
-
-- **Modular Architecture**: Supports integrations with major LLM providers (OpenAI, Groq, Llama3) and frameworks (React, Node.js), with built-in support for embeddings, agents, and chatbot pipelines.
-
-- **Active Development**: Last updated in July 2026, the repository (3,078 stars, 520 forks) focuses on scalable, production-ready LLM application development with a strong ecosystem of tools and integrations.
+- **Framework Purpose**: LlamaIndexTS is a TypeScript-based data framework designed for server-side LLM (Large Language Model) applications, enabling structured data integration and retrieval for AI-driven workflows.
+- **Key Features**: Supports embeddings, agent-based systems, and integration with LLMs (e.g., Llama3, OpenAI, Groq) via Node.js/TypeScript, optimized for chatbots and RAG (Retrieval-Augmented Generation) pipelines.
+- **Ecosystem**: Compatible with React, JavaScript, and modern AI tooling (e.g., `create-llama`), with 3,078+ stars and active maintenance (last updated July 2026).
 
 ## Why It Matters
 

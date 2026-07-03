@@ -14,7 +14,6 @@ tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - meta-ai
 - models
 - openai
@@ -36,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource**: Aggregates tools, libraries, and frameworks for customizing AI agent workflows, compatible with **Claude Code**, **Codex**, **Gemini CLI**, and custom agents.
-- **Multi-Model Support**: Includes resources for **LLMs** (e.g., Llama, Qwen, OpenAI) and **AI agents**, with CLI integrations for **Claude Skills**, **Codex CLI**, and **Gemini CLI**.
-- **Technical Stack**: Primarily **Python**-based, with topics covering **anthropic**, **opencode**, **qwen-coder**, and **claude-s
+- **Curated LLM/AI Agent Skills Repository**: A GitHub-based collection of tools, resources, and skills for customizing AI agent workflows, compatible with Claude Code, Codex, Gemini CLI, and custom agents.
+
+- **Multi-Platform Support**: Includes integrations for Anthropic, OpenAI, Google (Gemini), Llama, Qwen, and other LLM ecosystems via CLI tools and SDKs.
+
+- **Python-Centric & Actively Maintained**: Primarily Python-based, last updated July 2026, with 1.3k+ stars and 216 forks, focusing on e
 
 ## Use Cases
 

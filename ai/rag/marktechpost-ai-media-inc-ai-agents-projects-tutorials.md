@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-07-03T15:09:27.414886+05:30'
+collected_at: '2026-07-03T20:06:00.378682+05:30'
 published_at: '2026-07-02T19:38:47Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-05-15T09:00:54Z'
 pushed_at: '2026-07-01T18:40:22Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-07-03T15:09:27.414886+05:30'
-last_seen: '2026-07-03T15:09:27.414886+05:30'
-last_checked: '2026-07-03T15:09:27.414886+05:30'
+first_seen: '2026-07-03T20:06:00.378682+05:30'
+last_seen: '2026-07-03T20:06:00.378682+05:30'
+last_checked: '2026-07-03T20:06:00.378682+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Explores multi-agent system architectures and their implementation.
-*   Details core agentic components: memory mechanisms, planning algorithms, and reasoning loops.
-*   Covers practical agentic AI development, including RAG integration and workflow engineering.
+- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed skills, workflows, and frameworks for agentic AI development.
+- **Memory & reasoning loops**: Includes tutorials on integrating memory systems and iterative reasoning loops for enhanced agentic behavior.
+- **Jupyter Notebook-based**: All projects and tutorials are implemented in Jupyter Notebooks, covering agentic RAG, coding, and engineering applications.
 
 ## Why It Matters
 

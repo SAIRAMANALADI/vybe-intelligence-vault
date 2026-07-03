@@ -6,10 +6,10 @@ source_url: https://fi.google.com/about/plans
 resource_id: blog:unlimited-flexible-group-phone-plans-rates-google
 local_vault_path: ai/rag/unlimited-flexible-group-phone-plans-rates-google.md
 quality_score: 70
-archive_score: 80
+archive_score: 70
 archive_tier: useful
 resource_kind: tutorial
-importance: high
+importance: medium
 tags:
 - producthunt
 - rag
@@ -25,16 +25,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 80 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Dynamic 5G/4G/LTE network switching** leveraging T-Mobile, U.S. Cellular, and partner networks for optimal coverage and speeds.
-- **Usage-based billing** with $10/GB overage on Flexible plan and high-speed data caps (100GB/Premium, 50GB/Standard, 30GB/Essentials) before throttling to 256kbps.
-- **Integrated Google security stack** including built-in VPN, advanced spam blocking, and Google Account protections across all plans.
+- **Dynamic 5G/4G/LTE Network Switching**: Google Fi automatically selects and switches between available networks (T-Mobile, US Cellular, and Wi-Fi) to optimize speed, coverage, and reliability without manual intervention.
+- **Usage-Based Billing (Flexible Plan)**: Charges $10/GB for data usage with a monthly base fee of $20/line, including bill protection to cap overage costs after 6GB of usage.
+- **Integrated Security & Privacy Features**: Built-in VPN by Google One, advanced spam call blocki
 
 ## Use Cases
 

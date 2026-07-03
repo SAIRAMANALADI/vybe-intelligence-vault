@@ -8,7 +8,7 @@ local_vault_path: ai/rag/github-careers.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - hackernews
@@ -21,7 +21,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # GitHub Careers
@@ -30,16 +30,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **GitHub’s core platform** integrates AI-powered tools (e.g., Copilot) with CI/CD automation, package management, and security scanning to streamline developer workflows and vulnerability mitigation.
-- **Cultural and operational values** emphasize customer obsession, iterative development ("ship to learn"), ownership, and inclusive collaboration, with manager fundamentals focused on coaching and accountability.
-- **GitHub’s talent strategy** prioritizes diversity, remote flexibility, and profe
+- GitHub operates as the world's leading AI-powered developer platform, serving over 150M developers with integrated CI/CD, security, and AI-driven development tools (GitHub Actions, Codespaces, Copilot).
+- Core organizational values emphasize customer obsession, iterative development ("ship to learn"), growth mindset, and collective ownership, with leadership principles focused on clarity, energy, and impact.
+- GitHub prioritizes diversity, inclusion, and remote-first culture, offering competit
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/aisearch-openai-rag-audio
-collected_at: '2026-07-03T15:08:11.821122+05:30'
+collected_at: '2026-07-03T20:04:45.317459+05:30'
 published_at: '2026-07-02T07:39:30Z'
 tags:
 - github-repo
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-09-19T22:36:40Z'
 pushed_at: '2025-11-19T20:13:53Z'
 resource_id: github:azure-samples/aisearch-openai-rag-audio
-first_seen: '2026-07-03T15:08:11.821122+05:30'
-last_seen: '2026-07-03T15:08:11.821122+05:30'
-last_checked: '2026-07-03T15:08:11.821122+05:30'
+first_seen: '2026-07-03T20:04:45.317459+05:30'
+last_seen: '2026-07-03T20:04:45.317459+05:30'
+last_checked: '2026-07-03T20:04:45.317459+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of VoiceRAG Pattern**: Demonstrates interactive voice generative AI using Retrieval-Augmented Generation (RAG) with Azure AI Search and Azure OpenAI's `gpt-4o-realtime-preview` model for real-time audio processing.
+- **VoiceRAG Implementation**: Demonstrates an interactive voice generative AI system using **RAG** with **Azure AI Search** and **Azure OpenAI's `gpt-4o-realtime-preview`** model for real-time audio processing.
 
-- **Technical Stack**: Python-based solution integrating Azure AI Search (vector database) and OpenAI's GPT model, leveraging RAG for enhanced retrieval and generation in voice applications.
+- **Technical Stack**: Built in **Python**, leveraging **vector database** capabilities of **Azure AI Search** for retrieval-augmented generation (RAG) and **OpenAI's gpt-4o-realtime-preview** for audio-based LLM interactions.
 
-- **Deployment & Scalability**: Provides an Azure Developer CLI (azd) template for rapid deployment, supporting vector search and scalable generative AI workflows.
+- **Deployment & Integration**: Uses **Azure Developer CLI (azd)** templates for infrastructure-as-code deployment, integrating **generative AI**, **search**, and **vector embeddings** for end-to-end voice-enabled RAG workflows.
 
 ## Why It Matters
 

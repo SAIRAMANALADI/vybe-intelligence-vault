@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Low-level orchestration framework** for building stateful, long-running agents with durable execution, streaming, and human-in-the-loop capabilities.
-- **Core features** include persistence (failure recovery), comprehensive memory (short/long-term), and debugging via LangSmith for execution tracing and state visualization.
-- **Ecosystem integration** with LangChain (models/tools), LangSmith (observability/deployment), and Deep Agents (planning/subagents) for end-to-end agent development.
+- **Low-level orchestration framework** for building stateful, long-running agents with durable execution, streaming, and human-in-the-loop capabilities, independent of higher-level abstractions.
+
+- **Core features** include persistence (failure recovery), comprehensive memory (short/long-term), human-in-the-loop inspection/modification, and deep debugging via LangSmith for execution tracing and state transitions.
+
+- **Ecosystem integration** with LangChain components (e.g., Deep Agents for plan
 
 ## Use Cases
 

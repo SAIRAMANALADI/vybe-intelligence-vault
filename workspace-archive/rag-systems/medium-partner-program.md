@@ -8,14 +8,14 @@ local_vault_path: ai/rag/medium-partner-program.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - rag
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Medium Partner Program
@@ -24,18 +24,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Earnings Model**: Medium Partner Program compensates writers based on member engagement metrics, including read time (≥30s), claps, highlights, replies, new follows, and Boosted story interactions, prioritizing quality over clickbait.
+- **Earnings Calculation**: Medium Partner Program compensates writers based on member engagement metrics including read time (≥30s), claps, highlights, replies, new follows, and Boosted story interactions, with payouts scaling with deeper engagement and follower retention.
 
-- **Boost & Follower Bonuses**: Writers earn additional revenue for follower retention and Boosted stories, incentivizing community growth and high-quality content curation.
+- **Quality Incentives**: The program prioritizes long-form, high-quality content over clickbait, rewarding thoughtful reads and community-building through follower bonuses and algorithmic Boosts for select stories.
 
-- **Calculation Framework**: Earnings are derived from aggregated engagement data (vi
+- **App
 
 ## Use Cases
 

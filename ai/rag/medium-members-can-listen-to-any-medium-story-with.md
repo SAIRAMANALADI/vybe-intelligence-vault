@@ -7,18 +7,17 @@ source_name: Web Discovery
 source_url: https://speechify.com/medium?source=
 resource_id: blog:medium-members-can-listen-to-any-medium-story-with
 --------------------------------------------
-published_at: '2026-07-03T04:00:20.388126+05:30'
-collected_at: '2026-07-03T04:00:20.388140+05:30'
+published_at: '2026-07-03T20:09:25.378303+05:30'
+collected_at: '2026-07-03T20:09:25.378315+05:30'
 tags:
 - producthunt
 - rag
 - web-crawled
-- workflows
 status: active
 resource_id: blog:medium-members-can-listen-to-any-medium-story-with
-first_seen: '2026-07-03T04:00:20.388140+05:30'
-last_seen: '2026-07-03T04:00:20.388140+05:30'
-last_checked: '2026-07-03T04:00:20.388140+05:30'
+first_seen: '2026-07-03T20:09:25.378315+05:30'
+last_seen: '2026-07-03T20:09:25.378315+05:30'
+last_checked: '2026-07-03T20:09:25.378315+05:30'
 health_score: 100
 ---
 
@@ -26,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Integration & Accessibility**: Medium’s "Listen" feature, powered by Speechify, enables Medium members to convert any article into audio with synchronized text highlighting, enhancing accessibility for users with dyslexia, visual impairments, or time constraints (e.g., multitasking, commuting).
+- **Integration & Accessibility**: Medium’s "Listen" feature, powered by Speechify, enables Medium members to convert any article into audio (0.5x–4.5x speed) with synchronized text highlighting, enhancing accessibility for users with dyslexia, visual impairments, or those multitasking (e.g., commuting, exercising).
 
-- **Performance & Customization**: Users can adjust playback speed (0.5x–4.5x) and select from multiple narrators, with reports of up to 3x higher consumption rates and improved retention when combining listening with reading.
+- **Productivity & Proofreading**: Users report consuming 3x more content via audio, while writers leverage the feature for proofreading drafts—detecting awkward phrasing or errors through auditory feedback rather than silent reading.
 
-- **Proofreading & Workflow**: Writers can leverage the tool for proofreading drafts by generating a shareable link, enabling real-time audio review to identify awkward phrasing or errors in sentence structure.
+- **Customization**: Medium members can switch between multiple AI narrators and adjust playback speed (up to 4.5x) directly via the "Listen" button at the top of articles, with settings accessible in the bottom-left (voice) and bottom-right (speed) corners.
 
 ## Why It Matters
 
@@ -40,14 +39,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T04:00:20.388126+05:30
+- Published: 2026-07-03T20:09:25.378303+05:30
 
 ## Related Tags
 
 - producthunt
 - rag
 - web-crawled
-- workflows
 
 ## Source
 

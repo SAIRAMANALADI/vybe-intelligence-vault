@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/
-published_at: '2026-07-03T03:54:11.037248+05:30'
-collected_at: '2026-07-03T03:54:11.037265+05:30'
+published_at: '2026-07-03T20:07:10.875307+05:30'
+collected_at: '2026-07-03T20:07:10.875322+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-07-03T03:54:11.037265+05:30'
-last_seen: '2026-07-03T03:54:11.037265+05:30'
-last_checked: '2026-07-03T03:54:11.037265+05:30'
+first_seen: '2026-07-03T20:07:10.875322+05:30'
+last_seen: '2026-07-03T20:07:10.875322+05:30'
+last_checked: '2026-07-03T20:07:10.875322+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR & VLM Integration**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, reducing manual processing from hours to seconds with structured extraction and schema-based insights.
+- **Agentic OCR & Structured Extraction**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, enabling structured extraction of defined schemas with 10,000 free credits/month (~1000 pages).
 
-- **Multi-Modal Parsing & Auto-Correction**: Supports 50+ unstructured file types (PDFs, images, handwritten text, charts, tables) with task-specific agents, recursive error detection loops, and bounding box outputs for high-fidelity extraction.
+- **Multi-Modal & Error-Corrected Parsing**: Supports 50+ unstructured file types (PDFs, handwritten notes, tables, charts) with task-specific agents, auto-correction loops, and recursive error detection for high pass-through rates on complex/multi-modal documents.
 
-- **Enterprise-Grade Features**: Offers 10K free credits/month, HIPAA/GDPR/SOC2 compliance, 99.9% uptime, flexible cloud/VPC deployment, and dedicated SLAs for scalable, secure document automation in finance, healthcare, and manufacturing.
+- **Enterprise-Grade Deployment**: Offers 99.9% uptime, HIPAA/GDPR/SOC2 compliance, granular access controls, and flexible deployment (cloud or VPC) with dedicated SLAs for mission-critical AI workloads.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T03:54:11.037248+05:30
+- Published: 2026-07-03T20:07:10.875307+05:30
 
 ## Related Tags
 

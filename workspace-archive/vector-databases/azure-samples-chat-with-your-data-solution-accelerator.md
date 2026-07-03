@@ -6,7 +6,7 @@ source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accele
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
 local_vault_path: ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md
 quality_score: 70
-archive_score: 75
+archive_score: 77
 archive_tier: useful
 resource_kind: template
 importance: medium
@@ -17,6 +17,7 @@ tags:
 - rag
 - workflows
 selection_reason:
+- Strong keyword match
 - Useful for project building
 ---
 
@@ -25,18 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: template
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern on Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for conversational Q&A, following best practices for production-grade deployments.
-
-- **Key Components**: Includes **Python-based** implementation with **AZD templates** for deployment, integrating Azure services (AI Search, OpenAI) and supporting **ChatGPT-style** and structured Q&A workflows.
-
-- **Features**: Provides end-to-end accelerator with
+- **RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for generation, enabling ChatGPT-style and Q&A interactions.
+- **Azure Deployment**: Provides **Azure Developer CLI (azd) templates** for end-to-end deployment, incorporating best practices for scalability, security, and cost-efficiency in Azure.
+- **Python-Based**: Built with Python, leveraging **Azure SDKs** and OpenAI APIs to integrate document
 
 ## Use Cases
 

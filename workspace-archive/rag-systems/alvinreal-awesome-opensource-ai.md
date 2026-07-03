@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-*   Curated `awesome-list` aggregating open-source AI projects, models, tools, and infrastructure.
-*   Categorizes resources across agents, LLMs, generative AI, MLOps, and RAG domains.
-*   Python-based repository, actively maintained with daily updates, tracking open-source AI ecosystem evolution.
+*   A curated `awesome-list` repository indexing truly open-source AI projects, models, tools, and infrastructure.
+*   Categorizes resources across critical AI domains: agents, generative AI, LLMs, MLOps, and RAG.
+*   Actively maintained with daily updates, reflecting a dynamic collection for a community exceeding 4k stars.
 
 ## Use Cases
 

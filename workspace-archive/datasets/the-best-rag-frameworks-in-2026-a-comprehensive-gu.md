@@ -40,11 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Dominates RAG with 700+ integrations, LangGraph for agentic workflows, and modular chains for retrieval/reranking/generation; ideal for complex, stateful pipelines but has a steep learning curve and is code-heavy.
-
-- **LlamaIndex**: Optimized for production-grade indexing and retrieval with multimodal support (text/images/PDFs), advanced routers, and 100+ data source integrations; excels in knowledge-intensive applications but lacks native agentic features.
-
-- **Haystack**: Ente
+- **LangChain**: Dominates RAG ecosystems with 700+ integrations, LangGraph for agentic workflows, and modular chains for retrieval-generation pipelines; ideal for complex, multi-tool applications but has a steep learning curve.
+- **LlamaIndex**: Optimized for advanced indexing and retrieval of multimodal data (text, images, PDFs), featuring query engines, routers, and 100+ data source integrations; excels in knowledge-intensive, enterprise-scale applications.
+- **Haystack**: Enterprise-grade fr
 
 ## Use Cases
 

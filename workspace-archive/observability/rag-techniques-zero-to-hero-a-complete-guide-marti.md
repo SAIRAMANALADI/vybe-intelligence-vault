@@ -8,7 +8,7 @@ local_vault_path: ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -23,7 +23,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog
@@ -32,16 +32,16 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional rerankers/caching; hybrid retrieval (BM25 + vector) improves recall/precision, while two-stage retrieval (first-stage ANN + second-stage cross-encoder) balances efficiency/accuracy.
+- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store (e.g., HNSW/IVF indexes), LLM generator conditioned on retrieved context, and optional rerankers/query rewriters; orchestration layers manage caching, latency, and cost optimization.
 
-- **Chunking & Embeddings Optimization**: Chunking strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; domain-specific fine-tuning of embeddings (e.
+- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector fusion), multi-hop iterative retrieval (GraphRAG, agent-based workflows), and cross-encoder reranking (distilled for efficiency) improve precision/rec
 
 ## Use Cases
 

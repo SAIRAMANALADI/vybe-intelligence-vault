@@ -13,6 +13,7 @@ importance: medium
 tags:
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -29,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **CodeQL** treats code as data, enabling vulnerability detection via structured queries (QL) to identify and eliminate recurring security flaws across codebases.
-
-- **Supported languages/frameworks** (e.g., C/C++, Java, JavaScript, Python) and **CWE coverage** are documented, with **release notes** detailing tooling/query improvements and system requirements for deployment.
-
-- **Resources** include a **CLI**, **VS Code extension**, and **GitHub repository** for query development, while **refer
+- **CodeQL Overview**: Enables querying code as data to identify and eradicate vulnerabilities; supports multiple languages, libraries, and frameworks with detailed CWE coverage documentation.
+- **Core Components**: Includes QL language reference, standard libraries, and query help; supported by CLI, VS Code extension, and open-source repository for extensibility.
+- **Operational Workflow**: Facilitates query writing, execution, and sharing; provides system requirements, change logs, and languag
 
 ## Use Cases
 

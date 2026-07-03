@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 12,512</p>
-        <p><b>Active:</b> 12,181 | <b>Inactive:</b> 331</p>
+        <p><b>Resources tracked:</b> 12,535</p>
+        <p><b>Active:</b> 12,194 | <b>Inactive:</b> 341</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 47,845</p>
+        <p><b>Archive Files:</b> 47,890</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-03 17:50 IST</p>
+        <p><b>Last Update:</b> 2026-07-03 20:20 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,21 +55,29 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+12</kbd>
-- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+6</kbd>
-- 🔼 **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** • Rank: <kbd>+6</kbd>
-- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+4</kbd>
+- 🔼 **[The short leash AI coding method for beating Fable](ai/community/the-short-leash-ai-coding-method-for-beating-fable.md)** • <kbd>+30 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[GitHub Status](ai/rag/github-status.md)** • Rank: <kbd>+85</kbd>
+- 🔼 **[Google Issue Tracker](ai/resources/google-issue-tracker.md)** • Rank: <kbd>+6045</kbd>
+- 🔼 **[Making sure you're not a bot!](ai/resources/making-sure-you-re-not-a-bot.md)** • Rank: <kbd>+1099</kbd>
+- 🔼 **[Community Guide](ai/resources/community-guide.md)** • Rank: <kbd>+1633</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Reality has a surprising amount of detail (2017)](ai/community/reality-has-a-surprising-amount-of-detail.md)** • Score: `261`
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Reality has a surprising amount of detail (2017)](ai/community/reality-has-a-surprising-amount-of-detail.md)** • Score: `317`
+- 🆕 **[Please stop the AI confidence theater](ai/community/please-stop-the-ai-confidence-theater.md)** • Score: `110`
+- 🆕 **[KAIST College of Engineering, 카이스트 공과대학 (전산학부, 기계공학과, 항공우주공학과, 전기및전자공학부, 건설및환경공학과, 바이오및뇌공학과, 산업디자인학과, 산업및시스템공학과, 생명화학공학과](ai/rag/kaist-college-of-engineering-kaiseuteu-gonggwadaeh.md)** • Score: `0`
+- 🆕 **[Google Store Learning Center - Google Store Help](ai/rag/google-store-learning-center-google-store-help.md)** • Score: `0`
+- 🆕 **[Delete, allow, and manage cookies in Chrome - Computer - Google Chrome Help](ai/rag/delete-allow-and-manage-cookies-in-chrome-computer.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Claude-real-video － any LLM can watch a video](ai/community/huangchihhungleo-claude-real-video.md)**
+- 💤 **[A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time](ai/community/a-special-wireless-free-nikon-camera-is-publicly-a.md)**
+- 💤 **[langflow-ai/langflow](ai/agents/langflow-ai-langflow.md)**
+- 💤 **[agentskills/agentskills](ai/agents/agentskills-agentskills.md)**
+- 💤 **[affaan-m/ECC](ai/agents/affaan-m-ecc.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

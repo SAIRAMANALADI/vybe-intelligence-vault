@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Applications**: Comprehensive repository listing Retrieval-Augmented Generation (RAG) applications in Generative AI, covering diverse implementations and use cases.
-- **Metadata**: 1,289 stars, 159 forks, last updated July 2, 2026; topics include AI, generative models, LLMs, and RAG.
-- **Resource Type**: GitHub repository serving as a centralized hub for RAG-related tools, frameworks, and research in Generative AI.
+- **Curated repository** of Retrieval-Augmented Generation (RAG) applications, frameworks, and tools for Generative AI, covering large language models (LLMs) and beyond.
+- **Open-source index** with 1,290+ stars and 160+ forks, maintained under the `artificial-intelligence`, `generative-ai`, and `rag` topics.
+- **Last updated** in July 2026, providing a structured, community-driven resource for RAG research and deployment.
 
 ## Use Cases
 

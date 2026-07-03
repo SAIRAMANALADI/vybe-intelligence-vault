@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **CRAG**: A comprehensive benchmark suite designed for evaluating Retrieval-Augmented Generation (RAG) systems, providing standardized metrics and datasets for performance assessment.
-- **Implementation**: Distributed across Jupyter Notebooks, enabling reproducible experimentation and modular evaluation of RAG components (retriever, generator, and pipeline).
-- **Scope**: Covers diverse RAG scenarios (e.g., factual QA, multi-hop reasoning) with automated scoring, facilitating systematic compari
+- **CRAG**: A comprehensive benchmark suite designed to evaluate Retrieval-Augmented Generation (RAG) systems, providing standardized metrics and datasets for performance assessment.
+- **Implementation**: Developed using Jupyter Notebooks, enabling reproducible experimentation and modular evaluation across diverse RAG configurations.
+- **Scope**: Focuses on rigorous testing of RAG pipelines, including retrieval accuracy, generation quality, and end-to-end system robustness under varied condition
 
 ## Use Cases
 

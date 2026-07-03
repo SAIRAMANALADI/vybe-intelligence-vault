@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.llamaindex.ai/
-published_at: '2026-07-03T15:13:20.059867+05:30'
-collected_at: '2026-07-03T15:13:20.059879+05:30'
+published_at: '2026-07-03T20:08:22.979176+05:30'
+collected_at: '2026-07-03T20:08:22.979190+05:30'
 tags:
 - agents
 - meta-ai
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:llamaparse-platform-quickstart-developer-documenta
-first_seen: '2026-07-03T15:13:20.059879+05:30'
-last_seen: '2026-07-03T15:13:20.059879+05:30'
-last_checked: '2026-07-03T15:13:20.059879+05:30'
+first_seen: '2026-07-03T20:08:22.979190+05:30'
+last_seen: '2026-07-03T20:08:22.979190+05:30'
+last_checked: '2026-07-03T20:08:22.979190+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Layout-aware OCR**: Parse performs advanced optical character recognition (OCR) while preserving document structure (e.g., PDFs, scans) for accurate layout extraction.
+- **Layout-Aware OCR**: Parse performs Optical Character Recognition (OCR) while preserving document layout, enabling accurate extraction of text, tables, and charts from PDFs and scans.
 
-- **Multi-format Output**: Converts parsed documents into clean markdown, plain text, or structured JSON, optimizing compatibility with LLM pipelines.
+- **Multi-Format Output**: Converts processed documents into clean markdown, plain text, or structured JSON for seamless integration into LLM pipelines.
 
-- **Table/Chart Support**: Specialized handling of tables and charts ensures accurate extraction and representation in the output format.
+- **Agentic Processing**: Designed as an autonomous parser, optimizing document understanding for downstream AI tasks with minimal manual intervention.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-03T15:13:20.059867+05:30
+- Published: 2026-07-03T20:08:22.979176+05:30
 
 ## Related Tags
 

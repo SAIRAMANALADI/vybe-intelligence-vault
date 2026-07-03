@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Cognitive Memory Organization**: Introduces a memory-optimized RAG framework (`ComoRAG`) inspired by human cognitive memory structures, enabling stateful long-form narrative reasoning with structured memory retrieval.
+- **Cognitive Architecture Integration**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long-form narrative reasoning with structured memory retrieval and dynamic context management.
 
-- **AAAI 2026 Poster**: Presented as a cutting-edge research contribution at AAAI 2026, emphasizing advancements in long-context reasoning via memory-augmented retrieval mechanisms.
+- **Stateful Reasoning Mechanism**: Implements a hierarchical memory system that maintains temporal and relational coherence across extended dialogues or narratives, leveraging episodic and semantic memory modules for coherent multi-turn reasoning.
 
-- **Python Implementation**: Open-source Python repository (`ComoRAG`) with 339 stars, featuri
+- **AAAI 20
 
 ## Use Cases
 

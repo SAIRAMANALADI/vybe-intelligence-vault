@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-07-03T15:08:26.767674+05:30'
+collected_at: '2026-07-03T20:05:00.276154+05:30'
 published_at: '2026-06-30T11:35:52Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
-- paper
 - rag
 - unknown
 stars: 1340
@@ -20,9 +18,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-07-03T15:08:26.767674+05:30'
-last_seen: '2026-07-03T15:08:26.767674+05:30'
-last_checked: '2026-07-03T15:08:26.767674+05:30'
+first_seen: '2026-07-03T20:05:00.276154+05:30'
+last_seen: '2026-07-03T20:05:00.276154+05:30'
+last_checked: '2026-07-03T20:05:00.276154+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A comprehensive GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) aggregating cutting-edge research, tools, and methodologies in **Retrieval-Augmented Generation (RAG)** for Large Language Models (LLMs), covering embeddings, retrieval techniques, and hybrid architectures.
+- **Curated Resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) aggregating advanced **Retrieval-Augmented Generation (RAG)** techniques for **Large Language Models (LLMs)**, including embeddings, retrieval mechanisms, and hybrid architectures.
 
-- **Key Focus Areas**: Emphasizes advanced topics like **RAG-optimized embeddings**, **retrieval-information strategies**, and **LLM integration**, with curated papers, frameworks, and benchmarks for improving factuality, context-awareness, and efficiency in generative models.
+- **Technical Scope**: Focuses on **RAG-embeddings**, **retrieval-information** optimization, and integration strategies to enhance LLM performance via external knowledge augmentation.
 
-- **Community & Updates**: Actively maintained with **1,340+ stars** and **84 forks**, last updated **June 30, 2026**; serves as a dynamic reference for researchers and practitioners in LLM-driven RAG systems.
+- **Metadata**: 1,340 stars, 84 forks, last updated **2026-06-30**; categorized under `embeddings`, `llm`, `rag`, and related topics.
 
 ## Why It Matters
 

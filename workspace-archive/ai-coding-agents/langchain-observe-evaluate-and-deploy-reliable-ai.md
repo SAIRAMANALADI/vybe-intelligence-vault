@@ -2,13 +2,13 @@
 title: 'LangChain: Observe, Evaluate, and Deploy Reliable AI Agents'
 archive_category: ai-coding-agents
 source_category: ai/agents
-source_url: https://www.langchain.com/
+source_url: https://langchain.com/
 resource_id: blog:langchain-observe-evaluate-and-deploy-reliable-ai
 local_vault_path: ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: mcp-server
 importance: medium
 tags:
 - agents
@@ -25,17 +25,15 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: mcp-server
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Autonomous Agent Debugging**: LangSmith Engine clusters production failures, identifies root causes in traces/code, and proposes fixes autonomously to accelerate agent improvement cycles.
+- **Framework-agnostic observability & debugging**: LangSmith provides native tracing for popular agent frameworks (e.g., LangChain, LangGraph) and OpenTelemetry, with SDKs in Python/TypeScript/Go/Java, enabling structured trace analysis for multi-turn interactions, async workflows, and root-cause debugging via AI-driven insights.
 
-- **Multi-Framework Observability**: Provides native tracing for agent frameworks (OpenTelemetry-compatible) with SDKs in Python/TypeScript/Go/Java, enabling structured debugging of long-context, branching agent workflows.
-
-- **Production-Grade Deployment**: Agent server supports async human-in-the-loop in
+- **Automated evaluation & iterative improvement**: Captures production traces as reusable test cases, supports LLM-as-judge/multi-turn evals, human feedback calibrat
 
 ## Use Cases
 
@@ -45,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.langchain.com/
+Original source URL: https://langchain.com/
 
 ## Local Vault File
 

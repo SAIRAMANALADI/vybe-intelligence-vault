@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/Awesome-GraphRAG
-collected_at: '2026-07-03T15:08:26.807099+05:30'
-published_at: '2026-07-02T19:08:11Z'
+collected_at: '2026-07-03T20:05:00.314428+05:30'
+published_at: '2026-07-03T11:06:41Z'
 tags:
 - benchmark
 - github-repo
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-21T08:29:58Z'
 pushed_at: '2026-06-02T12:52:38Z'
 resource_id: github:deep-polyu/awesome-graphrag
-first_seen: '2026-07-03T15:08:26.807099+05:30'
-last_seen: '2026-07-03T15:08:26.807099+05:30'
-last_checked: '2026-07-03T15:08:26.807099+05:30'
+first_seen: '2026-07-03T20:05:00.314428+05:30'
+last_seen: '2026-07-03T20:05:00.314428+05:30'
+last_checked: '2026-07-03T20:05:00.314428+05:30'
 health_score: 100
 ---
 
@@ -32,8 +32,8 @@ health_score: 100
 ## Summary
 
 - **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, covering knowledge graphs, LLMs, and RAG methodologies.
-- **Technical Scope**: Encompasses **GraphRAG-specific topics** (e.g., graph-augmented retrieval, structured knowledge integration) and adjacent fields (e.g., large language models, retrieval systems).
-- **Active Maintenance**: Last updated **July 2026**, indicating ongoing curation of cutting-edge research and tools in GraphRAG.
+- **Technical Scope**: Encompasses **GraphRAG-specific topics** (e.g., graph-augmented retrieval, structured knowledge integration) and adjacent fields (e.g., large language models, retrieval-augmented generation).
+- **Repository Metrics**: 2,506 stars, 217 forks, last updated **July 3, 2026**; serves as a dynamic reference for cutting-edge research in graph-enhanced RAG systems.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 217
 - Language: Unknown
 - Topics: graphrag, graphrag-paper, graphrag-survey, knowledge-graph, large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-07-02T19:08:11Z
+- Last Updated: 2026-07-03T11:06:41Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T08:29:58Z

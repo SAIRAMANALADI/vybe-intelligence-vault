@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/youtube/contact/yt_researcher_certification
-published_at: '2026-06-25T16:47:09.339515+05:30'
-collected_at: '2026-06-25T16:47:09.339527+05:30'
+published_at: '2026-07-03T20:12:03.594661+05:30'
+collected_at: '2026-07-03T20:12:03.594677+05:30'
 tags:
 - anthropic
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:youtube-researcher-program-application-youtube-hel
-first_seen: '2026-06-25T16:47:09.339527+05:30'
-last_seen: '2026-06-25T16:47:09.339527+05:30'
-last_checked: '2026-06-25T16:47:09.339527+05:30'
+first_seen: '2026-07-03T20:12:03.594677+05:30'
+last_seen: '2026-07-03T20:12:03.594677+05:30'
+last_checked: '2026-07-03T20:12:03.594677+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Application Requirements**: Form requires details on research, institution affiliation, API Client, and current/proposed YouTube API usage, with data processed under [Privacy Policy](https://policies.google.com/privacy) and [Researcher Program Policies](https://research.youtube/policies/).
+- **Application Requirements**: The YouTube Researcher Program application mandates details on research focus, institutional affiliation, API Client specifics, and current/proposed YouTube API usage, with data processed under [Privacy Policy](https://policies.google.com/privacy) and [Researcher Program Policies](https://research.youtube/policies/).
 
-- **Institution Validation**: Applicants must select a pre-approved organization from a dropdown list (e.g., universities, research institutes) with country-specific validation.
+- **Institutional Validation**: Applicants must select their organization from a pre-approved list (e.g., universities, research institutes) and provide a monitored institutional email for official communications.
 
-- **Quota & Updates**: Existing participants must declare changes to research details (e.g., proposals, publications) and specify if additional API quota is needed.
+- **Policy Compliance**: Changes to research details (e.g., proposal updates) require re-application, with submissions subject to YouTube’s [Terms](https://research.youtube/policies/terms) and eligibility criteria.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:47:09.339515+05:30
+- Published: 2026-07-03T20:12:03.594661+05:30
 
 ## Related Tags
 

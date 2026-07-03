@@ -2,7 +2,7 @@
 title: Google Account Help
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://support.google.com/accounts?hl=en-US&p=account_iph
+source_url: https://support.google.com/accounts
 resource_id: blog:google-account-help
 local_vault_path: ai/rag/google-account-help.md
 quality_score: 70
@@ -14,6 +14,8 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
+- youtube
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -32,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Account Security & Recovery**: Google Accounts support 2-Step Verification (2FA), Advanced Protection Program, and Enhanced Safe Browsing; account recovery involves identity verification via recovery email/phone, security questions, or trusted devices.
+- **Google Account Core Functionality**: A Google Account serves as a unified identity for accessing Google services (e.g., Gmail, Drive, YouTube), requiring email/password or OAuth-based authentication, with options for 2-Step Verification (2SV) and Advanced Protection for enhanced security.
 
-- **Data Management & Privacy**: Users can control activity logging (Web & App Activity, Location History), manage stored data (Timeline, emails, files), and enforce deletion policies (auto-delete controls, manual deletion, or account termina
+- **Account Recovery & Security Mechanisms**: Supports recovery via secondary emails/phones, security questions, or account activity verification; compromised accounts can be secured via [Google’s Account
 
 ## Use Cases
 
@@ -44,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://support.google.com/accounts?hl=en-US&p=account_iph
+Original source URL: https://support.google.com/accounts
 
 ## Local Vault File
 

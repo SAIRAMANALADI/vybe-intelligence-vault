@@ -7,9 +7,9 @@ source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
 local_vault_path: ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md
 quality_score: 70
-archive_score: 70
+archive_score: 76
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -23,7 +23,8 @@ tags:
 - mistral
 - models
 selection_reason:
-- Valuable developer reference
+- Strong keyword match
+- Useful for project building
 ---
 
 # The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte
@@ -31,16 +32,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 76 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
-- **RAG (Retrieval-Augmented Generation)** integrates external retrieval with LLM generation to address limitations in freshness, private knowledge, and hallucinations by dynamically fetching relevant documents during inference.
+- **RAG (Retrieval-Augmented Generation)** integrates retrieval and generation, enabling LLMs to access external knowledge dynamically, addressing issues like hallucinations, freshness, and private data limitations by augmenting prompts with retrieved documents.
 
-- **Evolution of RAG** spans four generations: *Naive RAG* (basic retrieval), *Advanced RAG* (hybrid retrieval, reranking, query transformation), *Modular RAG* (agentic routing, tool integration), and *Graph RAG* (entity-relation graph traversal for multi-hop reasoning)
+- **Evolution of RAG** spans four generations: *Naive RAG* (basic retrieval), *Advanced RAG* (hybrid retrieval, reranking, query transformation), *Modular RAG* (routing, looping, tool integration), and *Graph RAG* (entity-relation graph
 
 ## Use Cases
 

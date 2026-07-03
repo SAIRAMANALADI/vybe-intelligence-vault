@@ -13,7 +13,6 @@ importance: medium
 tags:
 - github-repo
 - go
-- hackernews
 - rag
 selection_reason:
 - Strong keyword match
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Algorithm**: Uses a saliency-based approach to detect visually important regions in images before cropping, optimizing for aesthetic and content-aware selections.
-- **Implementation**: Written in Go, leveraging image processing techniques like edge detection, entropy analysis, and face detection to determine optimal crop regions.
-- **Flexibility**: Supports arbitrary crop sizes and aspect ratios, dynamically adjusting to input dimensions while preserving key visual elements.
+- **Algorithm**: Implements a saliency-based approach to identify visually important regions in images, using edge detection and entropy analysis to determine optimal crop regions.
+- **Implementation**: Written in Go, leveraging efficient image processing libraries for real-time crop suggestion across arbitrary aspect ratios and resolutions.
+- **Optimization**: Prioritizes high-contrast edges and textured regions while avoiding faces and salient objects, ensuring aesthetically pleasing crops wit
 
 ## Use Cases
 

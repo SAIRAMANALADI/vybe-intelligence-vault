@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-*   Explores multi-agent system architectures and their implementation.
-*   Details core agentic components: memory mechanisms, planning algorithms, and reasoning loops.
-*   Covers practical agentic AI development, including RAG integration and workflow engineering.
+- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed skills, workflows, and frameworks for agentic AI development.
+- **Memory & reasoning loops**: Includes tutorials on integrating memory systems and iterative reasoning loops for enhanced agentic behavior.
+- **Jupyter Notebook-based**: All projects and tutorials are implemented in Jupyter Notebooks, covering agentic RAG, coding, and engineering applications.
 
 ## Use Cases
 

@@ -12,9 +12,10 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- models
+- hackernews
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as presented in ACL2026.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance.
 
-- **Optimized Architecture**: Implements a lightweight retrieval mechanism paired with a distilled LLM, enabling efficient knowledge integration without extensive fine-tuning or large-scale model dependencies.
+- **Technical Innovation**: Proposes lightweight retrieval and generation mechanisms optimized for efficiency, enabling deployment on resource-constrained hardware without sacrificing accuracy.
 
-- **Open-Source Implementation**: Provides a Pytho
+- **Open-Source Implementation**: Provides a Python-based repository with modular component
 
 ## Use Cases
 

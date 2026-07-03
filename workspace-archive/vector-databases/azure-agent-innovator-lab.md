@@ -17,7 +17,6 @@ tags:
 - hackernews
 - jupyter notebook
 - rag
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -34,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Azure/agent-innovator-lab provides a structured framework for developing AI agents on Azure, focusing on search optimization, agent architecture, evaluation methodologies, and Retrieval-Augmented Generation (RAG) best practices.
-
-- **Technical Implementation**: Implemented primarily in Jupyter Notebooks, the repository includes hands-on examples and workflows for designing, testing, and refining AI agents using Azure services.
-
-- **Key Focus Areas**: Emphasizes practic
+- **Repository Focus**: Provides a structured approach to building AI agents on Azure, emphasizing search optimization, agent architecture, evaluation frameworks, and Retrieval-Augmented Generation (RAG) best practices.
+- **Technical Stack**: Implemented primarily in Jupyter Notebooks, leveraging Azure services for agent development and evaluation.
+- **Last Update**: Repository last updated on **June 30, 2026**, with 57 stars and 31 forks.
 
 ## Use Cases
 

@@ -5,7 +5,7 @@ source_type: huggingface_dataset
 source_name: Hugging Face Trending Datasets
 source_url: https://huggingface.co/datasets/anisoleai
 published_at: '2026-05-29T12:35:53.000Z'
-collected_at: '2026-07-03T15:05:59.718880+05:30'
+collected_at: '2026-07-03T20:03:17.896878+05:30'
 tags:
 - dataset
 - hf-dataset
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:datasets/anisoleai
 first_seen: '2026-07-01T15:44:51.372686+05:30'
-last_seen: '2026-07-03T15:05:59.718880+05:30'
-last_checked: '2026-07-03T15:05:59.718880+05:30'
+last_seen: '2026-07-03T20:03:17.896878+05:30'
+last_checked: '2026-07-03T20:03:17.896878+05:30'
 health_score: 100
 ---
 
@@ -22,7 +22,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face dataset: anisoleai/fineweb-tokenized (Likes: 2, Downloads: 3435357)
+Trending Hugging Face dataset: anisoleai/fineweb-tokenized (Likes: 3, Downloads: 3435357)
 
 ## Why It Matters
 

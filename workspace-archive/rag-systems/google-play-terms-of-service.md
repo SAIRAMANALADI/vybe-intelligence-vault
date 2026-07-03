@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Account & Access Control**: Users must maintain secure Google accounts (age-restricted for minors) and comply with regional availability; unauthorized access or sharing of account details voids service eligibility, with account disabling triggering loss of family-shared content or payment methods.
+- **Account & Access Control**: Google Play requires a valid Google Account with age restrictions enforced per regional laws; minors need parental consent. Unauthorized account sharing or data harvesting is prohibited, and disabled accounts lose access to all associated Content and family-sharing features.
 
-- **Content & Transaction Policies**: Purchases (including pre-orders) are binding upon confirmation email, with all sales final per [Refund Policy](https://support.google.com/googleplay/answer/24
+- **Content & Security Policies**: Google Play provides Content (apps, media, etc.) with updates auto-applied, including critical security patches. Malware protection scans apps/URLs, with wa
 
 ## Use Cases
 

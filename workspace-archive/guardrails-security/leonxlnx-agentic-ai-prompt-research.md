@@ -14,7 +14,6 @@ tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - unknown
 selection_reason:
 - Strong keyword match
@@ -34,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and agent coordination mechanisms for autonomous AI coding assistants, emphasizing system prompts and interaction frameworks.
-
-- **Security Classification**: Investigates security classifications and vulnerabilities in agentic AI systems, likely including prompt injection, data leakage, and adversarial attack vectors.
-
-- **Claude & Prompt Engineering**: Examines the use of Claude (Anthropic's model) and advanc
+- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and coordination mechanisms for autonomous AI coding assistants, emphasizing multi-agent collaboration and task decomposition.
+- **Security Classification Framework**: Proposes a security classification system for agentic AI interactions, addressing vulnerabilities in prompt injection, data leakage, and unauthorized tool access.
+- **System Prompt Optimization**: Investigates structured system prompts for Claud
 
 ## Use Cases
 

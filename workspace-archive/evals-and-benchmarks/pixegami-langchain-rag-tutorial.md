@@ -32,9 +32,7 @@ selection_reason:
 
 ## Summary
 
-*   Implements a Langchain-based Retrieval Augmented Generation (RAG) system.
-*   Python-based implementation targeting LLM application development.
-*
+*   Implements a Retrieval-Augmented Generation (RAG) system leveraging the Lang
 
 ## Use Cases
 

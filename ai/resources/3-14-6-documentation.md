@@ -4,15 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.python.org
-published_at: '2026-07-01T15:50:08.244719+05:30'
-collected_at: '2026-07-01T15:50:08.244731+05:30'
+published_at: '2026-07-03T20:12:04.899640+05:30'
+collected_at: '2026-07-03T20:12:04.899653+05:30'
 tags:
+- reddit
 - web-crawled
 status: active
 resource_id: blog:3-14-6-documentation
-first_seen: '2026-07-01T15:50:08.244731+05:30'
-last_seen: '2026-07-01T15:50:08.244731+05:30'
-last_checked: '2026-07-01T15:50:08.244731+05:30'
+first_seen: '2026-07-03T20:12:04.899653+05:30'
+last_seen: '2026-07-03T20:12:04.899653+05:30'
+last_checked: '2026-07-03T20:12:04.899653+05:30'
 health_score: 100
 ---
 
@@ -20,9 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Python 3.14.6** is the latest stable release, with documentation hosted at [docs.python.org/3.14](https://docs.python.org/3.14), including subsections for tutorials, library/reference, and language specifications.
-- **Legacy versions** (3.9–2.6) are marked **EOL**, while 3.10–3.12 receive **security fixes**; 3.15 is in **pre-release**, and 3.16 is **in development**.
-- **Documentation resources** include PEPs, packaging guides, C API references, and static typing docs, all searchable via Sphinx-generated indices (e.g., `genindex.html`, `py-modindex.html`).
+- **Version Support Matrix**: Python 3.14.6 is the latest stable release, with active support for versions 3.12–3.14 (security fixes), 3.11–3.10 (EOL pending), and legacy versions 3.9–2.6 marked as End-of-Life (EOL).
+
+- **Documentation Structure**: Official Python 3.14.6 docs include "What's New," Tutorial, Library/Reference Manuals, HOWTOs, C API docs, and indices (module, general, glossary) for syntax, libraries, and extensions.
+
+- **Licensing & Resources**: Python docs are licensed under PSF 2.0/Zero-Clause BSD; additional resources include PEPs, packaging guides, and developer/contribution docs hosted on Sphinx 8.2.3.
 
 ## Why It Matters
 
@@ -32,10 +35,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-01T15:50:08.244719+05:30
+- Published: 2026-07-03T20:12:04.899640+05:30
 
 ## Related Tags
 
+- reddit
 - web-crawled
 
 ## Source

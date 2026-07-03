@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IntelLabs/fastRAG
-collected_at: '2026-07-03T15:08:41.820436+05:30'
+collected_at: '2026-07-03T20:05:15.359302+05:30'
 published_at: '2026-07-02T18:17:56Z'
 tags:
 - benchmark
 - github-repo
 - python
 - rag
+- workflows
 stars: 1784
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: true
 created_at: '2023-01-23T16:25:35Z'
 pushed_at: '2026-01-12T19:58:22Z'
 resource_id: github:intellabs/fastrag
-first_seen: '2026-07-03T15:08:41.820436+05:30'
-last_seen: '2026-07-03T15:08:41.820436+05:30'
-last_checked: '2026-07-03T15:08:41.820436+05:30'
+first_seen: '2026-07-03T20:05:15.359302+05:30'
+last_seen: '2026-07-03T20:05:15.359302+05:30'
+last_checked: '2026-07-03T20:05:15.359302+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: FastRAG is an efficient, Python-based framework for Retrieval-Augmented Generation (RAG) optimized for speed and scalability, leveraging transformers, sentence embeddings, and multi-modal capabilities.
-
-- **Core Components**: Integrates state-of-the-art retrieval (e.g., ColBERT, semantic search) and generative models (e.g., LLMs) with support for knowledge graphs, diffusion models, and benchmarking tools for QA/summarization tasks.
-
-- **Performance Focus**: Designed for low-latency, high-throughput RAG pipelines with modular architecture, supporting hybrid retrieval (dense/sparse) and multi-modal inputs for generative AI applications.
+- **Framework Overview**: FastRAG is an efficient Python-based framework for Retrieval Augmented Generation (RAG) optimized for large-scale applications, supporting multi-modal inputs (text, knowledge graphs) and hybrid retrieval (dense + sparse).
+- **Key Features**: Integrates state-of-the-art components like ColBERTv2 for late interaction retrieval, Sentence Transformers for embeddings, and diffusion models for generative tasks, with built-in support for semantic search and question-answering.
+- **Benchmarking & Scalability**: Designed for high performance with modular components for benchmarking, includes tools for summarization and supports distributed retrieval/generation workflows.
 
 ## Why It Matters
 

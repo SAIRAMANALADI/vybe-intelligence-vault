@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated AI-Powered Web Search Tools**: Repository aggregating software enabling AI-assisted web search, including metasearch, question-answering, and retrieval-augmented generation (RAG) systems.
-
-- **Technical Scope**: Focuses on generative AI, LLM inference, and information retrieval tools, with applications in AI search engines and projects leveraging artificial intelligence.
-
-- **Metadata**: 1,363 stars, 112 forks, primarily HTML-based, last updated July 1, 2026, covering topics like AI
+- **Curated list** of AI-powered web search tools leveraging LLMs, RAG, and metasearch techniques for enhanced information retrieval and question-answering.
+- **Covers generative AI tools** for web search, including inference-based models, retrieval-augmented generation (RAG), and hybrid search methodologies.
+- **GitHub repository** (HTML-based) with 1.3K+ stars, last updated July 2026, featuring a structured collection of AI-driven search engines and projects.
 
 ## Use Cases
 

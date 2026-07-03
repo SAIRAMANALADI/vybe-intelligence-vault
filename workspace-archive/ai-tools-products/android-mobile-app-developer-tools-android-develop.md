@@ -2,7 +2,7 @@
 title: Android Mobile App Developer Tools - Android Developers
 archive_category: ai-tools-products
 source_category: ai/rag
-source_url: https://developer.android.com
+source_url: http://developer.android.com/index.html
 resource_id: blog:android-mobile-app-developer-tools-android-develop
 local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Google Play Billing Updates**: Google Play introduced expanded billing flexibility, reduced fees, and new programs to support developer monetization, with details available in the [Q3 updates blog](http://goo.gle/playdev-q3-updates) and a [dedicated video](https://www.youtube.com/watch?v=hcvvo6Sag0Q).
+- **Google Play Billing Updates**: Google Play introduced expanded billing flexibility, reduced fees, and new programs to enhance developer monetization, with detailed updates available via [blog](http://goo.gle/playdev-q3-updates) and [video](https://www.youtube.com/watch?v=hcvvo6Sag0Q).
 
-- **Android 17 & XR Platform**: Android 17 (API 37) is now live on AOSP with Pixel rollouts, while Android XR expands engine support and resources for immersive app development ([XR blog](http
+- **Android 17 & XR Platform**: Android 17 (API 37) is now live on AOSP with Pixel rollout; Android XR expands engine support and resources for immersive app development across the ecosystem.
+
+- **Android Stud
 
 ## Use Cases
 
@@ -47,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developer.android.com
+Original source URL: http://developer.android.com/index.html
 
 ## Local Vault File
 

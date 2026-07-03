@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ALucek/GraphRAG-Breakdown
-collected_at: '2026-07-03T15:08:16.780361+05:30'
+collected_at: '2026-07-03T20:04:50.269510+05:30'
 published_at: '2026-06-24T01:50:50Z'
 tags:
 - github-repo
 - jupyter notebook
 - rag
+- workflows
 stars: 174
 language: Jupyter Notebook
 status: active
@@ -17,9 +18,9 @@ archived: false
 created_at: '2024-12-20T10:35:56Z'
 pushed_at: '2024-12-20T10:38:46Z'
 resource_id: github:alucek/graphrag-breakdown
-first_seen: '2026-07-03T15:08:16.780361+05:30'
-last_seen: '2026-07-03T15:08:16.780361+05:30'
-last_checked: '2026-07-03T15:08:16.780361+05:30'
+first_seen: '2026-07-03T20:04:50.269510+05:30'
+last_seen: '2026-07-03T20:04:50.269510+05:30'
+last_checked: '2026-07-03T20:04:50.269510+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **GraphRAG Architecture**: Demonstrates a knowledge graph-enhanced Retrieval-Augmented Generation (RAG) pipeline, integrating graph-based retrieval with LLM generation for improved contextual accuracy.
-- **Visual & Practical Breakdown**: Provides Jupyter Notebook-based diagrams and examples to illustrate graph construction, query processing, and retrieval mechanisms in RAG systems.
-- **Implementation Focus**: Covers modular components (e.g., graph construction, entity linking, retrieval strategies) with code examples for deploying GraphRAG in real-world applications.
+- **Knowledge Graph RAG Architecture**: Demonstrates a retrieval-augmented generation (RAG) pipeline enhanced with knowledge graphs, integrating structured data for improved context retrieval and generation.
+- **Visual & Code Examples**: Provides Jupyter Notebook-based diagrams and executable examples to illustrate graph-based RAG workflows, including graph construction, query processing, and response generation.
+- **Modular Implementation**: Includes modular components for entity extraction, graph construction, and retrieval strategies, enabling customization for domain-specific RAG applications.
 
 ## Why It Matters
 

@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Stack Internal** integrates human expertise with AI automation for enterprise knowledge management, replacing Stack Overflow for Teams.
-- **Stack Data Licensing** provides access to curated technical content for AI/ML training and attribution.
-- **Collectives** offers centralized, community-driven documentation and collaboration for specific technologies.
+- **Stack Internal** is a knowledge platform integrating human expertise with AI automation for enterprise use, replacing Stack Overflow for Teams.
+
+- **Stack Data Licensing** provides access to curated technical content with proper attribution for AI/ML applications.
+
+- **Stack Ads** enables brand engagement with Stack Overflow’s technical audience via targeted advertising solutions.
 
 ## Use Cases
 

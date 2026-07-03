@@ -8,7 +8,7 @@ local_vault_path: ai/rag/decodingai-magazine-llm-twin-course.md
 quality_score: 70
 archive_score: 87
 archive_tier: essential
-resource_kind: dataset
+resource_kind: tutorial
 importance: high
 tags:
 - github-repo
@@ -27,7 +27,7 @@ selection_reason:
 
 - Matched archive category: `AI Tools and Products`
 - Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: dataset
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
@@ -35,8 +35,8 @@ selection_reason:
 ## Summary
 
 - **Course Content**: Provides hands-on guidance for building production-ready LLM and RAG systems using LLMOps best practices, including source code and 12 structured lessons.
-- **Technical Stack**: Utilizes Python-based tools (Bytewax, Qdrant, Pulumi) alongside AWS, Docker, and infrastructure-as-code (IaC) for scalable ML system design.
-- **Key Integrations**: Incorporates MLOps tools (Comet-ML, Qwak) and vector databases (Qdrant, Superlinked) for RAG pipelines and generative AI workflows.
+- **Technical Stack**: Utilizes Python with AWS, Bytewax, Comet-ML, Pulumi, Qdrant, Qwak, and Superlinked for infrastructure-as-code, MLOps, and generative AI workflows.
+- **Deployment & Tools**: Includes Docker for containerization, with focus on ML system design, RAG implementation, and infrastructure management via Pul
 
 ## Use Cases
 

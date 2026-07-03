@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
-published_at: '2026-07-03T15:15:15.908260+05:30'
-collected_at: '2026-07-03T15:15:15.908273+05:30'
+published_at: '2026-07-03T20:08:24.014188+05:30'
+collected_at: '2026-07-03T20:08:24.014203+05:30'
 tags:
 - benchmark
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
-first_seen: '2026-07-03T15:15:15.908273+05:30'
-last_seen: '2026-07-03T15:15:15.908273+05:30'
-last_checked: '2026-07-03T15:15:15.908273+05:30'
+first_seen: '2026-07-03T20:08:24.014203+05:30'
+last_seen: '2026-07-03T20:08:24.014203+05:30'
+last_checked: '2026-07-03T20:08:24.014203+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-format parsing engine** supporting 90+ document formats (PDFs, scanned docs, images, handwriting) with layout-aware structure extraction (headers, footers, tables, charts) and multimodal context integration.
+- **High-accuracy parsing engine** supporting 90+ document formats with layout-aware OCR, multimodal context extraction (tables, charts, images), and granular parsing modes for cost-accuracy optimization.
 
-- **Scalable, multilingual document processing** with granular parsing modes for cost-accuracy optimization, enterprise-grade concurrency, and OCR support for 100+ languages.
+- **Scalable enterprise-grade solution** processing 1B+ documents monthly with multilingual support (100+ languages), local/cloud deployment options, and high concurrency for large-scale workflows.
 
-- **Developer-focused API** with TypeScript/Python SDKs, live notebooks, and workflow automation for indexing, retrieval, and AI-ready data transformation at scale (1B+ documents processed).
+- **Structured output generation** converting complex layouts (headers, footers, multi-page PDFs) into clean markdown, with SDKs (TypeScript/Python) and workflow automation for downstream AI/ML integration.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T15:15:15.908260+05:30
+- Published: 2026-07-03T20:08:24.014188+05:30
 
 ## Related Tags
 

@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-07-03T15:10:01.924393+05:30'
+collected_at: '2026-07-03T20:06:35.449847+05:30'
 published_at: '2026-06-29T02:03:10Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - rag
 - reddit
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-07-03T15:10:01.924393+05:30'
-last_seen: '2026-07-03T15:10:01.924393+05:30'
-last_checked: '2026-07-03T15:10:01.924393+05:30'
+first_seen: '2026-07-03T20:06:35.449847+05:30'
+last_seen: '2026-07-03T20:06:35.449847+05:30'
+last_checked: '2026-07-03T20:06:35.449847+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized Caching Strategies**: Implements advanced TanStack Query patterns (e.g., `staleTime`, `gcTime`) to minimize redundant API calls and improve cache consistency in AI-driven applications.
+- **Optimized TanStack Query Integration**: Demonstrates advanced caching strategies, stale-while-revalidate patterns, and automatic background refetching for AI-driven applications to minimize redundant network requests.
 
-- **Dynamic Route Management**: Leverages TanStack Router’s type-safe routing and lazy loading to streamline navigation in AI agents, reducing bundle size and enhancing performance.
+- **Router-Level State Management**: Implements dynamic route-based data fetching and prefetching in TanStack Router to ensure seamless client-side navigation with preloaded data, reducing perceived latency in AI agents.
 
-- **State Synchronization**: Integrates TanStack Start for seamless state hydration/rehydration, ensuring AI agents maintain context consistency across server-client transitions.
+- **Start Framework Performance Tuning**: Provides benchmarked configurations for TanStack Start to optimize SSR/SSG hybrid rendering, leveraging edge caching and partial hydration for AI agent workloads.
 
 ## Why It Matters
 

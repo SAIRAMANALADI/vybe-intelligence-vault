@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://streaming-analytics.workshop.aws/beam-on-kda/
-published_at: '2026-06-30T23:00:32.489263+05:30'
-collected_at: '2026-06-30T23:00:32.489276+05:30'
+published_at: '2026-07-03T20:12:08.358208+05:30'
+collected_at: '2026-07-03T20:12:08.358219+05:30'
 tags:
-- frontend_ui
+- hackernews
 - web-crawled
 status: active
 resource_id: blog:workshop-studio
-first_seen: '2026-06-30T23:00:32.489276+05:30'
-last_seen: '2026-06-30T23:00:32.489276+05:30'
-last_checked: '2026-06-30T23:00:32.489276+05:30'
+first_seen: '2026-07-03T20:12:08.358219+05:30'
+last_seen: '2026-07-03T20:12:08.358219+05:30'
+last_checked: '2026-07-03T20:12:08.358219+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Client-Side Error**: The message indicates JavaScript is disabled in the user's browser, preventing execution of dynamic web application logic.
-- **React Dependency**: Modern web apps (e.g., those built with React) rely on JavaScript for rendering components, state management, and interactivity.
-- **Resolution Path**: Users must enable JavaScript in browser settings or troubleshoot extensions/ad blockers interfering with script execution.
+- **Client-Side Dependency**: The application requires JavaScript to execute core functionalities, as indicated by the error message.
+- **Browser Limitation**: Without JavaScript enabled, the app's dynamic content, rendering, and interactivity are blocked by the browser.
+- **Common Web Standard**: JavaScript is a fundamental web technology for modern web applications, and its absence prevents proper operation.
 
 ## Why It Matters
 
@@ -33,11 +33,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-30T23:00:32.489263+05:30
+- Published: 2026-07-03T20:12:08.358208+05:30
 
 ## Related Tags
 
-- frontend_ui
+- hackernews
 - web-crawled
 
 ## Source

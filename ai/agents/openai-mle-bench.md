@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/openai/mle-bench
-collected_at: '2026-07-03T15:10:21.982351+05:30'
+collected_at: '2026-07-03T20:06:55.452020+05:30'
 published_at: '2026-07-03T06:53:06Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - github-repo
 - openai
 - python
+- workflows
 stars: 1606
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-10-08T17:07:40Z'
 pushed_at: '2026-04-24T17:33:44Z'
 resource_id: github:openai/mle-bench
-first_seen: '2026-07-03T15:10:21.982351+05:30'
-last_seen: '2026-07-03T15:10:21.982351+05:30'
-last_checked: '2026-07-03T15:10:21.982351+05:30'
+first_seen: '2026-07-03T20:06:55.452020+05:30'
+last_seen: '2026-07-03T20:06:55.452020+05:30'
+last_checked: '2026-07-03T20:06:55.452020+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-*   Provides a benchmark for quantitatively assessing AI agents' performance in machine learning engineering (MLE) tasks.
-*   Implemented primarily in Python, indicating a programmatic framework for MLE evaluation.
-*   Developed by OpenAI, focusing on standardized measurement of AI agent capabilities within the MLE domain.
+- **MLE-bench**: A benchmark suite designed to evaluate AI agents' proficiency in machine learning engineering tasks, including model training, debugging, and deployment workflows.
+
+- **Implementation**: Written in Python, the benchmark provides standardized tasks, metrics, and evaluation protocols to assess agent performance across diverse ML engineering challenges.
+
+- **Scope**: Focuses on end-to-end ML workflows (e.g., data preprocessing, hyperparameter tuning, error handling) to measure practical engineering capabilities rather than isolated model performance.
 
 ## Why It Matters
 

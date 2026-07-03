@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/RUC-NLPIR/FlashRAG
-collected_at: '2026-07-03T15:08:36.831622+05:30'
+collected_at: '2026-07-03T20:05:10.314938+05:30'
 published_at: '2026-07-02T18:18:03Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-03-14T01:40:33Z'
 pushed_at: '2026-04-10T03:37:48Z'
 resource_id: github:ruc-nlpir/flashrag
-first_seen: '2026-07-03T15:08:36.831622+05:30'
-last_seen: '2026-07-03T15:08:36.831622+05:30'
-last_checked: '2026-07-03T15:08:36.831622+05:30'
+first_seen: '2026-07-03T20:05:10.314938+05:30'
+last_seen: '2026-07-03T20:05:10.314938+05:30'
+last_checked: '2026-07-03T20:05:10.314938+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experiments.
+- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for rapid Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and parallel processing to accelerate experimentation.
 
-- **Benchmark & Dataset Support**: Includes built-in benchmarking tools and curated datasets for evaluating RAG models, enabling standardized performance comparisons across tasks.
+- **Benchmark & Dataset Integration**: Includes pre-configured benchmarks and datasets tailored for RAG evaluation, enabling standardized testing and reproducible results across retrieval and generation tasks.
 
-- **Modular & Extensible**: Designed with modularity in mind, supporting custom retrieval strategies, LLMs, and integration with external libraries for rapid prototyping and deployment.
+- **Modular Architecture**: Designed with modular components for seamless integration with large language models (LLMs), supporting custom retrieval strategies, prompt engineering, and evaluation pipelines.
 
 ## Why It Matters
 

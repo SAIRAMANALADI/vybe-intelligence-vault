@@ -1,44 +1,38 @@
 ---
-title: crewAIInc/crewAI
+title: 'crewAIInc/crewAI Release: 1.15.2a2'
 archive_category: agent-frameworks
-source_category: ai/rag
-source_url: https://github.com/crewAIInc/crewAI
+source_category: ai/agents
+source_url: https://github.com/crewaiinc/crewai
 resource_id: github:crewaiinc/crewai
 local_vault_path: ai/rag/crewaiinc-crewai.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - agents
-- github-repo
-- python
-- rag
-- workflows
+- crewaiinc-crewai
+- github-release
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
-# crewAIInc/crewAI
+# crewAIInc/crewAI Release: 1.15.2a2
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Role-based agent orchestration**: Framework enables autonomous AI agents to assume specific roles (e.g., researcher, writer) and collaborate via structured task delegation and workflow management in Python.
-
-- **Multi-agent collaboration**: Supports parallel/sequential task execution with inter-agent communication, leveraging LLMs for dynamic decision-making and role-specific optimizations.
-
-- **Scalable task handling**: Designed for complex workflows with built-in error handling, state mana
+General public resource representing technology updates, guides, or tutorials.
 
 ## Use Cases
 
@@ -48,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/crewAIInc/crewAI
+Original source URL: https://github.com/crewaiinc/crewai
 
 ## Local Vault File
 

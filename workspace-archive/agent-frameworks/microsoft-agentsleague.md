@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **E-sports-inspired AI challenge platform** featuring live AI Battles and asynchronous community challenges with GitHub-based submissions.
-- **Repository metadata**: 285 stars, 90 forks, last updated 2026-06-30T16:54:25Z.
-- **Language/Topics**: Undefined language and topics despite active development.
+- **E-sports-inspired AI challenge**: Hosts live AI Battles with competitive, asynchronous community challenges, integrating an e-sports format into agentic AI development.
+- **GitHub-based submissions**: Participants submit solutions via GitHub, enabling version-controlled, collaborative, and transparent challenge resolution.
+- **Active development cycle**: Last updated June 30, 2026, indicating ongoing maintenance and potential for future challenges or expansions.
 
 ## Use Cases
 

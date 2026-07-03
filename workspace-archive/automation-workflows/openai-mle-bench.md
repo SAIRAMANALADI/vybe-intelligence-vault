@@ -14,7 +14,6 @@ tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - openai
 - python
 - workflows
@@ -36,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Scope**: MLE-bench evaluates AI agents' proficiency in end-to-end machine learning engineering tasks, including data preprocessing, model training, hyperparameter optimization, and deployment.
+- **MLE-bench**: A benchmark suite designed to evaluate AI agents' proficiency in machine learning engineering tasks, including model training, debugging, and deployment workflows.
 
-- **Technical Implementation**: Implemented in Python, the benchmark provides standardized environments, metrics, and evaluation protocols to assess agent performance across diverse ML workflows.
+- **Implementation**: Written in Python, the benchmark provides standardized tasks, metrics, and evaluation protocols to assess agent performance across diverse ML engineering challenges.
 
-- **Evaluation Metrics**: Focuses on functional correctness, efficiency (time/resource usage),
+- **Scope**: Focuses on end-to-end ML workflows (e.g., data preprocessing, hyperparameter tuning, error handling) to measure prac
 
 ## Use Cases
 

@@ -4,15 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-07-03T15:10:26.925795+05:30'
+collected_at: '2026-07-03T20:07:00.428725+05:30'
 published_at: '2026-07-02T22:12:40Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - unknown
-- workflows
 stars: 2471
 language: Unknown
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-07-03T15:10:26.925795+05:30'
-last_seen: '2026-07-03T15:10:26.925795+05:30'
-last_checked: '2026-07-03T15:10:26.925795+05:30'
+first_seen: '2026-07-03T20:07:00.428725+05:30'
+last_seen: '2026-07-03T20:07:00.428725+05:30'
+last_checked: '2026-07-03T20:07:00.428725+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and coordination mechanisms for autonomous AI agents in coding tasks, emphasizing system prompts and agentic workflows.
-- **Security Classification**: Investigates security implications and classifications of agentic AI systems, likely addressing vulnerabilities, access controls, and adversarial robustness in multi-agent environments.
-- **Claude & Prompt Engineering**: Examines specialized prompt engineering techniques for agentic AI models (e.g., Claude) to optimize task decomposition, tool use, and inter-agent communication.
+- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and coordination mechanisms for autonomous AI coding assistants, emphasizing multi-agent collaboration and task decomposition.
+- **Security Classification Framework**: Proposes a security classification system for agentic AI interactions, addressing vulnerabilities in prompt injection, data leakage, and unauthorized tool access.
+- **System Prompt Optimization**: Investigates structured system prompts for Claude and similar models, optimizing for reliability, context retention, and deterministic behavior in complex coding tasks.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://beam.apache.org/
-published_at: '2026-06-30T22:53:20.797293+05:30'
-collected_at: '2026-06-30T22:53:20.797306+05:30'
+published_at: '2026-07-03T20:09:18.120289+05:30'
+collected_at: '2026-07-03T20:09:18.120303+05:30'
 tags:
 - hackernews
 - rag
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:apache-beama-r
-first_seen: '2026-06-30T22:53:20.797306+05:30'
-last_seen: '2026-06-30T22:53:20.797306+05:30'
-last_checked: '2026-06-30T22:53:20.797306+05:30'
+first_seen: '2026-07-03T20:09:18.120303+05:30'
+last_seen: '2026-07-03T20:09:18.120303+05:30'
+last_checked: '2026-07-03T20:09:18.120303+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified Batch/Stream Processing**: Apache Beam provides a single programming model for both batch and streaming data processing, enabling "write once, run anywhere" execution across diverse execution environments (e.g., Flink, Spark, Google Cloud Dataflow).
+- **Unified Batch/Streaming Model**: Apache Beam provides a single programming model for both batch and streaming data processing, enabling "write once, run anywhere" pipelines for mission-critical workloads.
 
-- **Multi-Language & Portable Pipelines**: Supports Java, Python, Go, TypeScript, Scala, YAML, and SQL for pipeline development, with portable execution across multiple runners to avoid vendor lock-in.
+- **Multi-Runner & Multi-Language Support**: Supports execution across multiple runners (Flink, Spark, Dataflow, etc.) and languages (Java, Python, Go, Scala, TypeScript, SQL, YAML), ensuring portability and flexibility.
 
-- **Extensible Open-Source Framework**: Built on open-source principles with extensible integrations (e.g., TensorFlow Extended, Apache Hop) and scalable case studies (e.g., LinkedIn processing 4 trillion events/day, HSBC 100x scaling).
+- **Extensible & Scalable**: Open-source framework with extensible architecture (e.g., TensorFlow Extended, Apache Hop) and proven scalability (e.g., LinkedIn processes 4 trillion events/day, Booking.com achieves 36x acceleration).
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T22:53:20.797293+05:30
+- Published: 2026-07-03T20:09:18.120289+05:30
 
 ## Related Tags
 

@@ -6,10 +6,10 @@ source_url: https://github.com/run-llama/llama_deploy
 resource_id: github:run-llama/llama_deploy
 local_vault_path: ai/rag/run-llama-llama-deploy.md
 quality_score: 70
-archive_score: 85
-archive_tier: essential
+archive_score: 75
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - github-repo
@@ -27,18 +27,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 85 (essential)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Framework for Agentic Workflow Deployment**: Python-based framework enabling production deployment of agentic workflows with support for multi-agent systems, built on LlamaIndex and LLM integration.
+- **Framework for Agentic Workflow Deployment**: Python-based framework enabling production deployment of agentic workflows, supporting multi-agent systems and integration with LlamaIndex and LLMs.
 
-- **Key Features**: Facilitates scalable, modular deployment of AI agents with built-in orchestration, state management, and service discovery for distributed workflows.
+- **Modular Architecture**: Designed for scalability and flexibility, allowing decomposition of complex workflows into reusable, deployable components.
 
-- **Production-Ready Tooling**: Includes CLI, API endpoints, and monitoring capabilities for managing agent interactions, tas
+- **Active Development**: Last updated in June 2026, indicating ongoing maintenance and feature enhancements for enterprise-grade agent deployment.
 
 ## Use Cases
 

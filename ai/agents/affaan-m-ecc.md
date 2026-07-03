@@ -11,13 +11,14 @@ tags:
 - anthropic
 - github-trending
 - javascript
-status: active
+status: inactive
 resource_id: github:affaan-m/ecc
 first_seen: '2026-07-02T20:00:14.034749+05:30'
 last_seen: '2026-07-03T15:06:00.631134+05:30'
 last_checked: '2026-07-03T15:06:00.631134+05:30'
 health_score: 100
 ---
+
 
 # affaan-m/ECC
 

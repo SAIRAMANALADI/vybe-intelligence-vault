@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-03T15:09:11.859587+05:30'
+collected_at: '2026-07-03T20:05:45.343559+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
-- benchmark
 - github-repo
 - models
 - python
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-03T15:09:11.859587+05:30'
-last_seen: '2026-07-03T15:09:11.859587+05:30'
-last_checked: '2026-07-03T15:09:11.859587+05:30'
+first_seen: '2026-07-03T20:05:45.343559+05:30'
+last_seen: '2026-07-03T20:05:45.343559+05:30'
+last_checked: '2026-07-03T20:05:45.343559+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence) without requiring modality-specific fine-tuning.
+- **Multimodal RAG Framework**: Introduces a retrieval-augmented generation (RAG) system capable of handling diverse data modalities (text, images, tables, etc.) and granularities (documents, paragraphs, entities) via unified retrieval and generation mechanisms.
 
-- **Unified Retrieval Mechanism**: Proposes a modality-agnostic retrieval system leveraging cross-modal embeddings and hierarchical indexing to dynamically select and fuse relevant information from heterogeneous corpora.
+- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval module using modality-specific encoders and a shared embedding space, enabling joint retrieval across heterogeneous corpora without modality-specific fine-tuning.
 
-- **ACL 2026 Oral Contribution**: Presents a novel architecture with empirical validation on multimodal benchmarks, demonstrating superior performance in tasks requiring cross-modal reasoning and context-aware generation.
+- **Adaptive Granularity Selection**: Dynamically adjusts retrieval granularity (e.g., document vs. sentence-level) based on query complexity and corpus structure, optimizing generation quality via a learned granularity selector.
 
 ## Why It Matters
 

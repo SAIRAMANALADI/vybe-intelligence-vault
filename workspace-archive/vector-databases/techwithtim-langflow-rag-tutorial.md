@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (96 ⭐, 25 🍴)
-- **Last Updated**: 2026-07-03T04:57:47Z
-- **Language/Topics**: Unknown (No metadata provided)
+- **Repository**: `techwithtim/Langflow-RAG-Tutorial`
+- **Last Updated**: July 3, 2026
+- **Metrics**: 96 stars, 25 forks, language unspecified, no topics listed
 
 ## Use Cases
 

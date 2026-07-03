@@ -6,7 +6,7 @@ source_url: https://developers.google.com/
 resource_id: blog:google-for-developers-build-with-gemini
 local_vault_path: ai/agents/google-for-developers-build-with-gemini.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Gemini API Integration**: Provides access to advanced reasoning and generative models (e.g., `gemini-3.5-flash`) via REST, Python, JavaScript, Go, and Java SDKs, enabling multimodal processing (code, text, media) and real-time agentic workflows with a single API endpoint.
+- **Gemini API Integration**: Provides access to advanced reasoning and generative models (e.g., `gemini-3.5-flash`) via REST and SDKs (Python, JavaScript, Go, Java) for multimodal, long-context AI workflows in applications.
 
-- **Agent-First Development Platforms**: Google Antigravity (CLI/desktop app) and AI Studio enable autonomous agent operations, mission control customization, and prompt-to-production app generation with AI features, optim
+- **Agent-First Platforms**: Google Antigravity enables autonomous agent development with mission control for customization, while Cloud Run automates scalable deployment without infrastructure management.
+
+- **Enterprise & Web AI Tools**: Gemini Enterprise Agent Platform s
 
 ## Use Cases
 

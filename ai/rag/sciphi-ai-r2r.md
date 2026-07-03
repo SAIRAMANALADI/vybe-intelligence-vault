@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SciPhi-AI/R2R
-collected_at: '2026-07-03T15:09:01.833160+05:30'
+collected_at: '2026-07-03T20:05:35.323291+05:30'
 published_at: '2026-07-03T03:58:35Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
+- workflows
 stars: 7914
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-02-12T03:24:27Z'
 pushed_at: '2025-11-07T01:02:44Z'
 resource_id: github:sciphi-ai/r2r
-first_seen: '2026-07-03T15:09:01.833160+05:30'
-last_seen: '2026-07-03T15:09:01.833160+05:30'
-last_checked: '2026-07-03T15:09:01.833160+05:30'
+first_seen: '2026-07-03T20:05:35.323291+05:30'
+last_seen: '2026-07-03T20:05:35.323291+05:30'
+last_checked: '2026-07-03T20:05:35.323291+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG System**: Implements an agentic Retrieval-Augmented Generation (RAG) architecture with a RESTful API for production-grade AI retrieval, enabling dynamic interaction between retrieval and generation components.
-
-- **Python-Based Framework**: Built in Python, leveraging large language models (LLMs) for question-answering, retrieval systems, and search functionalities with modular components for extensibility.
-
-- **State-of-the-Art (SoTA) Features**: Supports advanced retrieval techniques, vector search, and hybrid query processing, optimized for high-performance AI-driven knowledge retrieval and real-time updates.
+- **Agentic RAG System**: Implements an advanced, production-ready retrieval-augmented generation (RAG) framework with agentic capabilities, enabling dynamic, multi-step retrieval and reasoning workflows.
+- **RESTful API**: Exposes a scalable, standardized API for integration with downstream applications, supporting efficient querying and management of retrieval pipelines.
+- **Python-Based Architecture**: Built in Python with modular components for indexing, retrieval, and generation, optimized for large-scale language model interactions and question-answering tasks.
 
 ## Why It Matters
 

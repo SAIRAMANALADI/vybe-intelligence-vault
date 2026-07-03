@@ -8,16 +8,14 @@ local_vault_path: ai/rag/google-s-products-and-services-about-google.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 tags:
 - creative_dev
 - hackernews
 - rag
 - reddit
-- scripts
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Valuable developer reference
@@ -29,15 +27,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: prompt
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Circle to Search**: Enables real-time visual search on Android via camera or screen interaction, leveraging Google Lens for contextual AI responses (e.g., solving equations, identifying objects).
-- **Gemini AI Suite**: Integrates multimodal AI across Google products (e.g., Chrome, Workspace) for conversational queries, content generation (text/image/video), and task automation via browser/OS-level APIs.
-- **Pixel/Android Ecosystem**: Showcases AI-driven hardware features (e.g., Quick Share,
+- **Circle to Search & AI Mode**: Android's "Circle to Search" enables real-time visual search via camera or screen tap, while AI Mode provides contextual, multi-turn AI responses with follow-up capabilities and web-linked sources.
+
+- **Gemini AI Suite**: Integrates multimodal interactions (text, voice, image, video) with features like **Gemini Live** (conversational AI), **Canvas** (prompt-to-prototype generation), and **AI-powered media tools** (image/video generation, editing via Google Photo
 
 ## Use Cases
 

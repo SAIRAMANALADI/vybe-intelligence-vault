@@ -29,11 +29,11 @@ selection_reason:
 
 ## Summary
 
-- **Graph Database Fundamentals**: Introduces core concepts of graph databases, including nodes, relationships, properties, and labels as fundamental building blocks for modeling connected data.
+- **Graph Database Fundamentals**: Introduces core concepts of graph databases, including nodes, relationships, properties, and labels, contrasting them with traditional relational databases.
 
-- **Neo4j Architecture Overview**: Covers Neo4j’s native graph storage engine, ACID-compliant transactional processing, and the Cypher query language for efficient graph traversal and pattern matching.
+- **Neo4j Architecture**: Covers Neo4j’s native graph storage engine, ACID-compliant transactional capabilities, and its Cypher query language for efficient graph traversal and pattern matching.
 
-- **Hands-on Querying & Use Cases**: Demonstrates practical Cypher queries for CRUD operations and ex
+- **Hands-on Setup**: Guides users through installing Neo4j, creating a sample database, and executing basic Cy
 
 ## Use Cases
 

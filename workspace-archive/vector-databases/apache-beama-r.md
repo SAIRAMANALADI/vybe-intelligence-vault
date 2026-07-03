@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified Batch/Stream Processing**: Apache Beam provides a single programming model for both batch and streaming data processing, enabling "write once, run anywhere" execution across diverse execution environments (e.g., Flink, Spark, Google Cloud Dataflow).
+- **Unified Batch/Streaming Model**: Apache Beam provides a single programming model for both batch and streaming data processing, enabling "write once, run anywhere" pipelines for mission-critical workloads.
 
-- **Multi-Language & Portable Pipelines**: Supports Java, Python, Go, TypeScript, Scala, YAML, and SQL for pipeline development, with portable execution across multiple runners to avoid vendor lock-in.
+- **Multi-Runner & Multi-Language Support**: Supports execution across multiple runners (Flink, Spark, Dataflow, etc.) and languages (Java, Python, Go, Scala, TypeScript, SQL, YAML), ensuring portability and flexibility.
 
-- **Extensible Open-Source Framewo
+- **Extensible & Scalable**: Open-source framework with extensible a
 
 ## Use Cases
 
