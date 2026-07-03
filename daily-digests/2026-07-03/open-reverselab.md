@@ -3,25 +3,25 @@ title: "LING71671/open-reverselab"
 category: "Tooling"
 tech_stack: ["Python", "MCP (Model Context Protocol)", "Ghidra", "Frida", "x64dbg", "Jadx", "Rizin", "SQLite", "PowerShell", "uv (Python package manager)"]
 quality_score: 9
-rag_relevance: 7
-tags: ["reverse engineering", "MCP automation", "CTF toolchain", "binary analysis", "agent workflow"]
+rag_relevance: 8
+tags: ["reverse engineering", "MCP automation", "CTF toolkit", "binary analysis", "AI agent workflow"]
 source: "https://github.com/LING71671/open-reverselab"
-discovered_at: "2026-07-03T17:19:17Z"
+discovered_at: "2026-07-03T19:10:27Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Open-ReverseLab is an open-source reverse engineering lab that combines a 178-article knowledge base with over 100 MCP automation tools for tasks like CTF pentesting, APK/PE binary analysis, cryptography, and game cheating analysis. It is designed to be agent-native, using a directory-as-convention approach for structured workflows.
+Open-ReverseLab is an open-source reverse engineering lab providing a 178-article knowledge base and 100+ MCP automation tools for tasks like CTF pentesting, APK/PE binary analysis, cryptography, and game cheating. It follows a directory-as-convention approach and is designed to be agent-native for AI-driven workflows.
 
 ## Key Features
-- Agent-native reverse engineering lab with structured knowledge base and MCP tool integration
-- Comprehensive coverage of CTF pentesting, APK/PE binary analysis, cryptography, and game cheating
-- Directory-as-convention workflow for consistent agent routing and tool execution
-- Pre-built automation scripts and toolchains for rapid setup and deployment
-- Supports multi-board workflows (CTF-website, APK, PE, general) with signal-based routing
+- 178-article knowledge base covering CTF, APK, PE, and cryptography techniques
+- 100+ MCP automation tools for reverse engineering tasks
+- Directory-as-convention structure for agent-native workflows
+- Pre-configured boards for specific reverse engineering domains (e.g., ctf-website, apk-reverse)
+- Agent-driven routing via `kb_router` and MCP tool mapping for attack chains
 
 ## Why It Matters for RAG Builders
-It provides a structured, agent-friendly environment for automating reverse engineering tasks, reducing manual effort and enabling scalable AI-driven analysis workflows.
+It provides a comprehensive, agent-native toolchain and knowledge base for reverse engineering tasks, enabling AI agents to automate complex workflows in CTF, binary analysis, and security research.
 
 ## Tech Stack Deep Dive
 ### Python

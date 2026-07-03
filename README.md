@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-03 22:55 IST</p>
+        <p><b>Last Update:</b> 2026-07-04 00:48 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,26 +55,21 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Reality has a surprising amount of detail (2017)](ai/community/reality-has-a-surprising-amount-of-detail.md)** • <kbd>+23 pts</kbd>
-- 🔼 **[Discourse | Where Tech Companies Build Communities](ai/resources/discourse-where-tech-companies-build-communities.md)** • Rank: <kbd>+1697</kbd>
-- 🔼 **[github/codeql](ai/resources/github-codeql.md)** • Rank: <kbd>+6</kbd>
-- 🔼 **[npm Status](ai/rag/npm-status.md)** • Rank: <kbd>+8</kbd>
-- 🔼 **[Getting Started | Electron Forge](ai/rag/getting-started-electron-forge.md)** • Rank: <kbd>+8</kbd>
+- 🔼 **[The most insightful stories about Medium - Medium](ai/resources/the-most-insightful-stories-about-medium-medium.md)** • Rank: <kbd>+10</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+9</kbd>
+- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+9</kbd>
+- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+9</kbd>
+- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Jamesob's guide to running SOTA LLMs locally](ai/community/jamesob-local-llm.md)** • Score: `38`
-- 🆕 **[My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?](ai/community/my-dad-helped-build-north-america-s-oat-supply-cha.md)** • Score: `14`
-- 🆕 **[Speechify Inc status](ai/resources/speechify-inc-status.md)** • Score: `0`
-- 🆕 **[Submit a Report - Watchdog](ai/rag/submit-a-report-watchdog.md)** • Score: `0`
-- 🆕 **[istio/community](ai/resources/istio-community.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[The short leash AI coding method for beating Fable](ai/community/the-short-leash-ai-coding-method-for-beating-fable.md)**
-- 💤 **[Please stop the AI confidence theater](ai/community/please-stop-the-ai-confidence-theater.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
