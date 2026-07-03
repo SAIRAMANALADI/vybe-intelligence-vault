@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Modular framework with 105k+ GitHub stars, offering data connection interfaces, model flexibility, and retrieval components for RAG pipelines; integrates with LangSmith and LangGraph for debugging and workflow management (`pip install -U langchain`).
+- **Firecrawl**: AI-powered web scraping/crawling API converting dynamic websites into LLM-friendly markdown/structured data; includes `scrape()`/`crawl()` endpoints, LLM.txt generation, and deep research capabilities for RAG data ingestion.
 
-- **Milvus**: High-performance, cloud-native vector database (33.9k+ stars) optimized for scalable ANN search, hybrid queries, and multi-modal embeddings; supports distributed clusters and integrates with major RAG frameworks like
+- **LlamaIndex**: Modular data framework bridging LLMs with private datasets via 300+ integrations; supports multi-modal indexing (vector/keyword/graph), custom query engines, and optimized retrieval pipelines for RAG applications.
+
+- **Milvus**: Cloud-nati
 
 ## Use Cases
 

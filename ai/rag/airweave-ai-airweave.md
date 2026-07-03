@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-07-03T20:06:20.451331+05:30'
+collected_at: '2026-07-03T22:19:37.711560+05:30'
 published_at: '2026-07-03T08:43:31Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
+- workflows
 stars: 6464
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-07-03T20:06:20.451331+05:30'
-last_seen: '2026-07-03T20:06:20.451331+05:30'
-last_checked: '2026-07-03T20:06:20.451331+05:30'
+first_seen: '2026-07-03T22:19:37.711560+05:30'
+last_seen: '2026-07-03T22:19:37.711560+05:30'
+last_checked: '2026-07-03T22:19:37.711560+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source context retrieval layer designed to enhance AI agents by providing structured, efficient access to relevant data via semantic search and retrieval-augmented generation (RAG).
+- **Open-source context retrieval layer**: Provides a modular, Python-based framework for AI agents to dynamically fetch and integrate contextual data from enterprise sources via APIs, semantic search, and RAG pipelines.
 
-- **Key Features**: Supports enterprise data integration, semantic search, and API-based context retrieval with connectors for diverse data sources (e.g., databases, APIs, unstructured data).
+- **Enterprise data connectors**: Supports integration with structured/unstructured data sources (SQL, NoSQL, documents) and real-time APIs, enabling unified retrieval for LLMs and agent workflows.
 
-- **Technical Stack**: Python-based SDK with modular architecture for extensibility, enabling integration with LLMs, vector databases, and enterprise search systems.
+- **Developer-focused SDK & API**: Offers a lightweight SDK for custom retrieval logic, search optimizations, and scalable deployment, with semantic search and retrieval-augmented generation (RAG) capabilities.
 
 ## Why It Matters
 

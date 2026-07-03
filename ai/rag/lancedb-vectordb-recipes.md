@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-03T20:04:15.276156+05:30'
+collected_at: '2026-07-03T22:17:32.590301+05:30'
 published_at: '2026-06-30T08:00:12Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -24,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-03T20:04:15.276156+05:30'
-last_seen: '2026-07-03T20:04:15.276156+05:30'
-last_checked: '2026-07-03T20:04:15.276156+05:30'
+first_seen: '2026-07-03T22:17:32.590301+05:30'
+last_seen: '2026-07-03T22:17:32.590301+05:30'
+last_checked: '2026-07-03T22:17:32.590301+05:30'
 health_score: 100
 ---
 
@@ -34,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems, leveraging vector search and LLMs (e.g., GPT-4 Vision) for tasks like image-text retrieval and cross-modal reasoning.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI workflows, integrating vector search with LLMs (e.g., GPT-4-Vision, LlamaIndex, LangChain).
 
-- **Integration with Vector Databases & Frameworks**: Demonstrates workflows using LanceDB (vector database) with LangChain, LlamaIndex, and OpenAI APIs for embedding generation, fine-tuning, and agent-based applications.
+- **Vector Database Recipes**: Demonstrates practical use cases of LanceDB (a vector database) for efficient similarity search, embeddings management, and fine-tuning pipelines in AI/ML applications.
 
-- **Technical Focus Areas**: Covers embeddings optimization, fine-tuning strategies, and deployment of multimodal pipelines, including tools for preprocessing, indexing, and querying multimodal data (e.g., images, text).
+- **Agent & LLM Integration**: Includes tutorials on deploying agents with vector search, combining OpenAI APIs, deep learning models, and multimodal embeddings for production-grade AI systems.
 
 ## Why It Matters
 

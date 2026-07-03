@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
-published_at: '2026-07-03T20:08:24.014188+05:30'
-collected_at: '2026-07-03T20:08:24.014203+05:30'
+published_at: '2026-07-03T22:21:29.074666+05:30'
+collected_at: '2026-07-03T22:21:29.074679+05:30'
 tags:
 - benchmark
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
-first_seen: '2026-07-03T20:08:24.014203+05:30'
-last_seen: '2026-07-03T20:08:24.014203+05:30'
-last_checked: '2026-07-03T20:08:24.014203+05:30'
+first_seen: '2026-07-03T22:21:29.074679+05:30'
+last_seen: '2026-07-03T22:21:29.074679+05:30'
+last_checked: '2026-07-03T22:21:29.074679+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **High-accuracy parsing engine** supporting 90+ document formats with layout-aware OCR, multimodal context extraction (tables, charts, images), and granular parsing modes for cost-accuracy optimization.
+- **Multi-format & multimodal parsing**: Supports 90+ document formats (PDFs, scans, invoices, healthcare forms, etc.) with layout-aware extraction, OCR for handwriting/checkboxes, and multimodal analysis (tables, charts, images) for structured markdown output.
 
-- **Scalable enterprise-grade solution** processing 1B+ documents monthly with multilingual support (100+ languages), local/cloud deployment options, and high concurrency for large-scale workflows.
+- **Scalable & multilingual NLP pipeline**: Processes 1B+ documents monthly with enterprise-grade concurrency, 100+ language support, and granular parsing modes (cost/accuracy trade-offs) for high-volume workflows.
 
-- **Structured output generation** converting complex layouts (headers, footers, multi-page PDFs) into clean markdown, with SDKs (TypeScript/Python) and workflow automation for downstream AI/ML integration.
+- **Developer-first with enterprise features**: Offers TypeScript/Python SDKs, live notebooks, local/cloud deployment options, and dedicated customer success—validated by 300k+ users and benchmarks against competitors for reliability.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T20:08:24.014188+05:30
+- Published: 2026-07-03T22:21:29.074666+05:30
 
 ## Related Tags
 

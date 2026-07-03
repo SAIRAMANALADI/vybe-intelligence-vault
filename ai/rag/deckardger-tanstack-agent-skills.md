@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-07-03T20:06:35.449847+05:30'
+collected_at: '2026-07-03T22:19:52.662747+05:30'
 published_at: '2026-06-29T02:03:10Z'
 tags:
 - agents
-- benchmark
+- frontend_ui
 - github-repo
 - rag
 - reddit
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-07-03T20:06:35.449847+05:30'
-last_seen: '2026-07-03T20:06:35.449847+05:30'
-last_checked: '2026-07-03T20:06:35.449847+05:30'
+first_seen: '2026-07-03T22:19:52.662747+05:30'
+last_seen: '2026-07-03T22:19:52.662747+05:30'
+last_checked: '2026-07-03T22:19:52.662747+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced caching strategies, stale-while-revalidate patterns, and automatic background refetching for AI-driven applications to minimize redundant network requests.
+- **Optimized TanStack Query Integration**: Provides best practices for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (React Query).
 
-- **Router-Level State Management**: Implements dynamic route-based data fetching and prefetching in TanStack Router to ensure seamless client-side navigation with preloaded data, reducing perceived latency in AI agents.
+- **TanStack Router Best Practices**: Implements advanced routing strategies for AI agents, including dynamic route handling, lazy loading, and state management for complex navigation scenarios.
 
-- **Start Framework Performance Tuning**: Provides benchmarked configurations for TanStack Start to optimize SSR/SSG hybrid rendering, leveraging edge caching and partial hydration for AI agent workloads.
+- **TanStack Start Optimization**: Focuses on performance tuning for server-side rendering (SSR) and static site generation (SSG) in AI agents, leveraging TanStack Start for minimal overhead and maximum scalability.
 
 ## Why It Matters
 

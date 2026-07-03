@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-native documentation platform** with structured navigation, customizable themes, and React component support for dynamic content rendering.
+- **AI-native documentation platform** with features like `llms.txt` for LLM discovery, `skill.md` for contextual AI assistance, and Model Context Protocol (MCP) integration for enhanced search and automation.
 
-- **API documentation features** including OpenAPI/AsyncAPI integration, SDK example management, and multi-response handling via MDX setup.
+- **Comprehensive API documentation tools** including OpenAPI/AsyncAPI support, SDK example integration, complex data type handling, and manual API page creation via MDX.
 
-- **Deployment & optimization tools** supporting GitHub/GitLab CI, Vercel proxies, SEO, analytics, and AI-driven search via `llms.txt` and Model Context Protocol (MCP).
+- **Advanced deployment and optimization** options such as monorepo/multi-repo setups, GitHub/GitLab CI/CD integratio
 
 ## Use Cases
 

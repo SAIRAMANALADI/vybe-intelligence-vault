@@ -2,7 +2,7 @@
 title: GitHub CLI | Take GitHub to the command line
 archive_category: ai-coding-agents
 source_category: ai/agents
-source_url: https://cli.github.com
+source_url: https://cli.github.com/
 resource_id: blog:github-cli-take-github-to-the-command-line
 local_vault_path: ai/agents/github-cli-take-github-to-the-command-line.md
 quality_score: 70
@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub CLI (`gh`)** is a free, open-source tool that integrates GitHub workflows directly into the terminal, supporting commands like `gh issue list`, `gh pr status`, `gh release create`, and custom aliases (e.g., `gh alias set bugs 'issue list --label="bugs"'`).
-
-- **Cross-platform installation** is supported via package managers (`brew install gh`, `winget`, `apt`, `dnf`, `zypper`) or direct downloads (`.deb`, `.rpm`, `.msi`, `.zip`, `.tar.gz`).
-
-- **Enterprise compatibility** is enabled v
+- **GitHub CLI (`gh`)** is a free, open-source CLI tool that integrates GitHub workflows (issues, PRs, releases, etc.) directly into the terminal, reducing context switching.
+- **Key commands** include `gh issue list`, `gh pr status/checkout/create`, `gh release create`, and `gh repo view`, with support for scripting via API calls and custom aliases (e.g., `gh alias set`).
+- **Installation** is cross-platform (macOS, Windows, Linux) via package managers (Homebrew, WinGet, apt/dnf/zypper) or dire
 
 ## Use Cases
 
@@ -46,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://cli.github.com
+Original source URL: https://cli.github.com/
 
 ## Local Vault File
 

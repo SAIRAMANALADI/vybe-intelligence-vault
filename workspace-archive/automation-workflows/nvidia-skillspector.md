@@ -8,11 +8,10 @@ local_vault_path: ai/rag/nvidia-skillspector.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: workflow
 importance: medium
 tags:
 - agents
-- benchmark
 - github-repo
 - hackernews
 - python
@@ -29,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Vulnerability Detection**: Scans AI agent skills for security flaws, malicious patterns, and vulnerabilities using static analysis techniques.
-- **Python-Based Tool**: Implements core security checks via Python, leveraging AST parsing and rule-based pattern matching for skill evaluation.
-- **Real-Time Analysis**: Processes skills dynamically with updates as of 2026-06-28, ensuring detection of evolving threats in AI agent workflows.
+- **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to identify vulnerabilities, malicious patterns, and security risks without executing the code.
+- **Python-Based**: Implemented in Python, leveraging static analysis techniques to inspect AI agent skills for potential security threats.
+- **Open-Source Security Scanner**: Released under an open-source license, enabling community contributions and integration into security workflows for AI agents.
 
 ## Use Cases
 

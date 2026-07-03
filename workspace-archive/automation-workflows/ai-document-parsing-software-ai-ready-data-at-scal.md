@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **High-accuracy parsing engine** supporting 90+ document formats with layout-aware OCR, multimodal context extraction (tables, charts, images), and granular parsing modes for cost-accuracy optimization.
+- **Multi-format & multimodal parsing**: Supports 90+ document formats (PDFs, scans, invoices, healthcare forms, etc.) with layout-aware extraction, OCR for handwriting/checkboxes, and multimodal analysis (tables, charts, images) for structured markdown output.
 
-- **Scalable enterprise-grade solution** processing 1B+ documents monthly with multilingual support (100+ languages), local/cloud deployment options, and high concurrency for large-scale workflows.
+- **Scalable & multilingual NLP pipeline**: Processes 1B+ documents monthly with enterprise-grade concurrency, 100+ language support, and granular parsing modes (cost/accuracy trade-offs) for high-volume workflows.
 
-- **Structured output generation** converting complex layouts (headers, footers, multi-page PDF
+- **Developer-first w
 
 ## Use Cases
 

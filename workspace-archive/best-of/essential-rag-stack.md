@@ -8,30 +8,30 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
-### [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `91` | **Path**: [`graphrag-bench-graphrag-benchmark.md`](../../ai/rag/graphrag-bench-graphrag-benchmark.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [neuml/txtai](https://github.com/neuml/txtai?source=post_page)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`neuml-txtai.md`](../../ai/rag/neuml-txtai.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
+
+### [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`truefoundry-cognita.md`](../../ai/rag/truefoundry-cognita.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [neuml/txtai](https://github.com/neuml/txtai?source=post_page)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`neuml-txtai.md`](../../ai/rag/neuml-txtai.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
+
+### [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/)
 - **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-03 20:20 IST*
+*Last updated: 2026-07-03 22:34 IST*

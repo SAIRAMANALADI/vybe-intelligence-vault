@@ -9,13 +9,13 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 ## Top Matched Resources
 
 - [Mem0 · GitHub](https://github.com/mem0ai) (mcp-server - ESSENTIAL Tier)
-- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) (framework - ESSENTIAL Tier)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (template - ESSENTIAL Tier)
 - [protobuf-go/proto at v1.36.11 · protocolbuffers/protobuf-go · GitHub](https://github.com/protocolbuffers/protobuf-go/tree/v1.36.11/proto) (benchmark - ESSENTIAL Tier)
 - [neuml/txtai](https://github.com/neuml/txtai?source=post_page) (framework - ESSENTIAL Tier)
+- [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
+- [ray-project/llm-applications](https://github.com/ray-project/llm-applications) (benchmark - ESSENTIAL Tier)
 - [tomasonjo (Tomaz Bratanic) · GitHub](https://github.com/tomasonjo/) (benchmark - ESSENTIAL Tier)
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
-- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,10 +23,10 @@ https://github.com/tylerwince/promptfoo (Promptfoo)
 https://github.com/confident-ai/deepeval (DeepEval)
 https://github.com/explodinggradients/ragas (Ragas)
 - [Mem0 · GitHub](https://github.com/mem0ai)
-- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack)
 - [protobuf-go/proto at v1.36.11 · protocolbuffers/protobuf-go · GitHub](https://github.com/protocolbuffers/protobuf-go/tree/v1.36.11/proto)
 - [neuml/txtai](https://github.com/neuml/txtai?source=post_page)
+- [langgenius/dify](https://github.com/langgenius/dify)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/explodinggradients/ragas (Ragas)
 
 ---
 
-*Last updated: 2026-07-03 20:19 IST*
+*Last updated: 2026-07-03 22:33 IST*

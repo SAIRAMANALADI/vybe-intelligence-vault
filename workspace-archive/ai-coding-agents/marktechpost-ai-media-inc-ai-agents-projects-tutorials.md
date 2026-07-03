@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent architectures**: Repository explores agentic AI systems with focus on distributed agent skills, inter-agent communication, and modular workflows for complex task decomposition.
+- **Multi-Agent Systems & Workflows**: Repository focuses on agentic AI development, covering multi-agent systems, autonomous workflows, and agentic RAG (Retrieval-Augmented Generation) implementations in Jupyter Notebooks.
 
-- **Memory & reasoning loops**: Implements persistent memory systems and iterative planning/reasoning mechanisms (e.g., RAG-integrated agentic frameworks) for context-aware decision-making.
+- **Memory & Reasoning Loops**: Includes tutorials on integrating memory management and iterative reasoning loops for enhanced agentic decision-making and long-term planning.
 
-- **Development toolkit**: Provides Jupyter Notebook-based tutorials covering agentic frameworks, coding agents, an
+- **Agentic Frameworks & Skills**: Provides projects and tutorials on agentic frameworks, coding ag
 
 ## Use Cases
 

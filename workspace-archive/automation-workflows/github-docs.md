@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- GitHub integrates with **Git** for local version control and supports **SSH** for secure remote connections, enabling encrypted communication over unsecured networks.
-- **Pull requests** facilitate collaborative code review and merging, while **GitHub Actions** provides CI/CD automation for workflow orchestration and package management via **GitHub Packages**.
-- **GitHub Copilot** offers AI-driven code suggestions in IDEs, and **CodeQL** enables static analysis for vulnerability detection and
+- **GitHub Core Workflows**: Git is the foundational VCS for GitHub, enabling local version control; SSH provides secure remote access; repositories store and manage project files; Markdown syntax supports structured documentation and formatting.
+
+- **Collaborative Development**: Pull requests facilitate code review and merging; GitHub Copilot integrates AI-driven code suggestions in IDEs; remote repository management synchronizes local and hosted codebases.
+
+- **Security & Automation**: GitHub
 
 ## Use Cases
 

@@ -2,26 +2,28 @@
 title: Changelog - Docs by LangChain
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://docs.langchain.com/oss/python/releases/changelog
+source_url: https://docs.langchain.com/oss/javascript/releases/changelog
 resource_id: blog:changelog-docs-by-langchain
 local_vault_path: ai/rag/changelog-docs-by-langchain.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
 - anthropic
+- hackernews
+- meta-ai
+- models
 - openai
 - producthunt
 - rag
 - web-crawled
 - workflows
-- youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Changelog - Docs by LangChain
@@ -30,16 +32,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **`deepagents` v0.6.0**: Introduced experimental `CodeInterpreterMiddleware` for scoped QuickJS runtime-based code execution, added `version="v3"` support for event streaming, and introduced `DeltaChannel` (beta) for incremental delta storage in long-running threads to optimize checkpoint sizes.
+- **DeepAgents v1.9.0-alpha.0**: Introduces async subagents for non-blocking background tasks (requires LangSmith Deployment) and **BackendProtocolV2** with structured `Result` objects, multi-modal file support (`Uint8Array` for binary files), simplified method names, and backward compatibility via `adaptBackendProtocol`.
 
-- **`langgraph` v1.2.0**: Added per-node timeouts (`run_timeout`, `idle_timeout`), node-level error handlers for recovery, and `DeltaChannel` (beta) for efficient incremental state storage; introduced
+- **LangGraph v1.1.0**: Adds **StateSchema** for schema-first graph state definitions with Standard JSON Schema support (Zod 4, Valibot, etc.), new primitives (`ReducedValue`,
 
 ## Use Cases
 
@@ -49,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.langchain.com/oss/python/releases/changelog
+Original source URL: https://docs.langchain.com/oss/javascript/releases/changelog
 
 ## Local Vault File
 

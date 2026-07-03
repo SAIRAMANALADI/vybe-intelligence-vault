@@ -8,7 +8,7 @@ local_vault_path: ai/rag/medium-privacy-policy-by-medium-medium-policy.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: dataset
+resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
@@ -20,15 +20,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: dataset
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Data Collection & Sources**: Medium collects personal data directly from users (e.g., account details, content, interactions) and automatically via tracking technologies (cookies, device identifiers, IP addresses, activity logs). Third-party sources (social networks, analytics providers) and inferred data (e.g., location, reading preferences) are also utilized.
+- **Data Collection & Sources**: Collects user-provided data (e.g., posts, profile info) and automatically gathers activity, transactional, device, and usage data (IP, OS, cookies, web beacons) via tracking technologies. Third-party sources (social networks, analytics providers) and derived inferences (e.g., location, preferences) are also utilized.
 
-- **Data Sharing & Processing**: Personal data is shared with vendors (e.g., hosting, analytics, fraud prevention), disclosed for l
+- **Data Sharing & Disclosure**: Shares personal data with users (visible content), vendors (analytics, fraud prevention), legal entities (complian
 
 ## Use Cases
 

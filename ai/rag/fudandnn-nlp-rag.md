@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/FudanDNN-NLP/RAG
-collected_at: '2026-07-03T20:04:55.303913+05:30'
+collected_at: '2026-07-03T22:18:12.601028+05:30'
 published_at: '2026-07-02T18:18:04Z'
 tags:
+- benchmark
 - github-repo
 - paper
 - python
 - rag
+- workflows
 stars: 347
 language: Python
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-06-29T13:07:50Z'
 pushed_at: '2024-12-21T07:32:41Z'
 resource_id: github:fudandnn-nlp/rag
-first_seen: '2026-07-03T20:04:55.303913+05:30'
-last_seen: '2026-07-03T20:04:55.303913+05:30'
-last_checked: '2026-07-03T20:04:55.303913+05:30'
+first_seen: '2026-07-03T22:18:12.601028+05:30'
+last_seen: '2026-07-03T22:18:12.601028+05:30'
+last_checked: '2026-07-03T22:18:12.601028+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Provides a Python-based implementation of retrieval-augmented generation (RAG) models, focusing on best practices as outlined in EMNLP 2024 research.
-- **Key Features**: Optimized for retrieval augmentation, likely includes modular components for indexing, retrieval, and generation pipelines.
-- **Updates**: Last updated July 2, 2026, indicating active maintenance and potential integration of recent advancements.
+- Implements best practices for Retrieval-Augmented Generation (RAG) as proposed in EMNLP2024, optimizing retrieval and generation pipelines for improved performance.
+- Provides a Python-based framework with modular components for document retrieval, query processing, and response generation, enabling customizable RAG workflows.
+- Supports extensibility via configurable hyperparameters and integration with popular NLP libraries (e.g., HuggingFace Transformers), facilitating reproducibility and benchmarking.
 
 ## Why It Matters
 

@@ -3,9 +3,9 @@ title: GitHub CLI | Take GitHub to the command line
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://cli.github.com
-published_at: '2026-07-03T20:09:20.228184+05:30'
-collected_at: '2026-07-03T20:09:20.228199+05:30'
+source_url: https://cli.github.com/
+published_at: '2026-07-03T22:29:09.940218+05:30'
+collected_at: '2026-07-03T22:29:09.940232+05:30'
 tags:
 - agents
 - producthunt
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:github-cli-take-github-to-the-command-line
-first_seen: '2026-07-03T20:09:20.228199+05:30'
-last_seen: '2026-07-03T20:09:20.228199+05:30'
-last_checked: '2026-07-03T20:09:20.228199+05:30'
+first_seen: '2026-07-03T22:29:09.940232+05:30'
+last_seen: '2026-07-03T22:29:09.940232+05:30'
+last_checked: '2026-07-03T22:29:09.940232+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub CLI (`gh`)** is a free, open-source tool that integrates GitHub workflows directly into the terminal, supporting commands like `gh issue list`, `gh pr status`, `gh release create`, and custom aliases (e.g., `gh alias set bugs 'issue list --label="bugs"'`).
-
-- **Cross-platform installation** is supported via package managers (`brew install gh`, `winget`, `apt`, `dnf`, `zypper`) or direct downloads (`.deb`, `.rpm`, `.msi`, `.zip`, `.tar.gz`).
-
-- **Enterprise compatibility** is enabled via GitHub Enterprise Server integration, allowing CLI operations on self-hosted instances alongside GitHub.com.
+- **GitHub CLI (`gh`)** is a free, open-source CLI tool that integrates GitHub workflows (issues, PRs, releases, etc.) directly into the terminal, reducing context switching.
+- **Key commands** include `gh issue list`, `gh pr status/checkout/create`, `gh release create`, and `gh repo view`, with support for scripting via API calls and custom aliases (e.g., `gh alias set`).
+- **Installation** is cross-platform (macOS, Windows, Linux) via package managers (Homebrew, WinGet, apt/dnf/zypper) or direct binaries, with GitHub Copilot CLI (`gh copilot`) for AI-assisted tasks.
 
 ## Why It Matters
 
@@ -38,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-03T20:09:20.228184+05:30
+- Published: 2026-07-03T22:29:09.940218+05:30
 
 ## Related Tags
 
@@ -50,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://cli.github.com
+Original source: https://cli.github.com/

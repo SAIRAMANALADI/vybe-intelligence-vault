@@ -4,11 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-07-03T20:05:00.276154+05:30'
+collected_at: '2026-07-03T22:18:17.584529+05:30'
 published_at: '2026-06-30T11:35:52Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
+- models
+- paper
 - rag
 - unknown
 stars: 1340
@@ -18,9 +21,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-07-03T20:05:00.276154+05:30'
-last_seen: '2026-07-03T20:05:00.276154+05:30'
-last_checked: '2026-07-03T20:05:00.276154+05:30'
+first_seen: '2026-07-03T22:18:17.584529+05:30'
+last_seen: '2026-07-03T22:18:17.584529+05:30'
+last_checked: '2026-07-03T22:18:17.584529+05:30'
 health_score: 100
 ---
 
@@ -28,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) aggregating advanced **Retrieval-Augmented Generation (RAG)** techniques for **Large Language Models (LLMs)**, including embeddings, retrieval mechanisms, and hybrid architectures.
+- **Curated RAG Resources**: Aggregates advanced techniques, frameworks, and research papers on retrieval-augmented generation (RAG) for Large Language Models (LLMs), including embeddings, retrieval mechanisms, and integration strategies.
 
-- **Technical Scope**: Focuses on **RAG-embeddings**, **retrieval-information** optimization, and integration strategies to enhance LLM performance via external knowledge augmentation.
+- **Multi-Topic Coverage**: Encompasses key areas such as LLM fine-tuning, embedding optimization, retrieval-augmented architectures, and information retrieval (IR) advancements tailored for RAG systems.
 
-- **Metadata**: 1,340 stars, 84 forks, last updated **2026-06-30**; categorized under `embeddings`, `llm`, `rag`, and related topics.
+- **Active Maintenance**: Last updated in June 2026, ensuring inclusion of recent developments in RAG methodologies, tools, and benchmarking resources for cutting-edge LLM applications.
 
 ## Why It Matters
 

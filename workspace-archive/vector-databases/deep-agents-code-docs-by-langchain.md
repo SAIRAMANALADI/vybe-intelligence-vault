@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Provider LLM Support**: `dcode` operates with any tool-calling LLM (e.g., OpenAI, Anthropic, Google) and allows dynamic model switching mid-session via `/model` command or CLI flags (`--model`), with persistent memory for cross-conversation context.
+- **Multi-Provider LLM Integration**: Supports dynamic switching between LLM providers (OpenAI, Anthropic, Google, etc.) mid-session via `/model` command or CLI flags (`--model`), with persistent memory and customizable skills for contextual continuity.
 
-- **Human-Gated & Remote Execution**: Implements approval controls for destructive operations (e.g., file edits, shell commands) with optional auto-approval (`-y`), supports remote sandboxes (e.g., LangSmith, E2B) for tool execution, and e
+- **Sandboxed Execution & Tooling**: Enables remote code execution in sandboxes (LangSmith, Daytona, Modal, etc.), with built-in tools (`execute`, `web_search`, `edit_file`) requiring human approval for destructive operations, and MCP tool integ
 
 ## Use Cases
 

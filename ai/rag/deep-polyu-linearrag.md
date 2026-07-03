@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-03T20:05:40.359819+05:30'
+collected_at: '2026-07-03T22:18:57.653649+05:30'
 published_at: '2026-07-03T05:52:08Z'
 tags:
+- dataset
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-03T20:05:40.359819+05:30'
-last_seen: '2026-07-03T20:05:40.359819+05:30'
-last_checked: '2026-07-03T20:05:40.359819+05:30'
+first_seen: '2026-07-03T22:18:57.653649+05:30'
+last_seen: '2026-07-03T22:18:57.653649+05:30'
+last_checked: '2026-07-03T22:18:57.653649+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel linear graph-based RAG framework for large-scale corpora, optimizing retrieval efficiency and scalability for LLMs by leveraging linear graph structures to enhance contextual relevance and reduce computational overhead.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel linear graph-based RAG framework for large-scale corpora, enabling efficient retrieval and generation by leveraging linear graph structures to optimize query processing and context integration in LLMs.
 
-- **Graph-Based RAG Optimization**: Proposes a linear graph construction method to represent document relationships, enabling efficient subgraph retrieval and dynamic graph updates, which improves retrieval accuracy and adaptability in large-scale knowledge bases.
+- **Scalability & Efficiency**: Proposes a linear-time retrieval mechanism (O(n) complexity) for handling massive document collections, addressing the quadratic complexity limitations of traditional graph-based RAG methods while maintaining high retrieval accuracy.
 
-- **Performance & Scalability**: Demonstrates superior performance in retrieval-augmented generation tasks, achieving lower latency and higher throughput compared to traditional RAG methods, while maintaining high contextual precision in downstream LLM applications.
+- **ICLR 2026 Contribution**: Presents a theoretical and empirical framework for LinearRAG, demonstrating superior performance in retrieval-augmented generation tasks on large-scale datasets, with open-source implementation in Python for reproducibility.
 
 ## Why It Matters
 

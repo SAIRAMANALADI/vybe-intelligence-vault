@@ -3,9 +3,9 @@ title: Releases · microsoft/WSL · GitHub
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/microsoft/WSL/releases
-published_at: '2026-07-02T15:10:21.202907+05:30'
-collected_at: '2026-07-02T15:10:21.202917+05:30'
+source_url: https://github.com/microsoft/wsl/releases
+published_at: '2026-07-03T22:23:53.923479+05:30'
+collected_at: '2026-07-03T22:23:53.923495+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: github:microsoft/wsl
-first_seen: '2026-07-02T15:10:21.202917+05:30'
-last_seen: '2026-07-02T15:10:21.202917+05:30'
-last_checked: '2026-07-02T15:10:21.202917+05:30'
+first_seen: '2026-07-03T22:23:53.923495+05:30'
+last_seen: '2026-07-03T22:23:53.923495+05:30'
+last_checked: '2026-07-03T22:23:53.923495+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **WSL 2.9.3 introduces WSL Containers (WSLC) Public Preview** with native Linux container support via `wslc` CLI, C++/C#-WinRT SDK, and features like GPU support (CDI), per-container resource limits, multi-network attachment, and VHD-backed volumes.
+- **WSL 2.9.3 introduces WSL Containers (WSLC) Public Preview**, enabling native Linux container support via a new `wslc` CLI and SDK (C++/C#/WinRT), with features like GPU acceleration (via CDI), multi-network attachment, VHD-backed volumes, and per-container resource limits.
 
-- **Critical bug fixes in 2.9.3** address use-after-free in virtiofs, IPv6 port leaks, `systemctl poweroff` hangs, `wslpath` translation errors, and VM termination timeouts, alongside security updates to .NET runtime (CVE-2026-45491) and MSRDC (CVE-2026-32157).
+- **Critical bug fixes** include resolution of `systemctl poweroff` hangs, use-after-free in virtiofs/virtioProxy, IPv6 port leaks, and `wslpath` translation errors, alongside security updates to .NET runtime (CVE-2026-45491) and MSRDC (CVE-2026-32157).
 
-- **2.7.10 backports VHD restore security fix** by passing mounting user tokens, while 2.7.9 remains a pre-release with no documented changes in the provided context.
+- **Performance/architecture improvements** feature per-device SWIOTLB pools for virtiofs/VirtioProxy, hardened VHD attach/restore via impersonation, and renamed VirtioProxy networking mode to "Consomme" for clarity.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T15:10:21.202907+05:30
+- Published: 2026-07-03T22:23:53.923479+05:30
 
 ## Related Tags
 
@@ -52,4 +52,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/microsoft/WSL/releases
+Original source: https://github.com/microsoft/wsl/releases

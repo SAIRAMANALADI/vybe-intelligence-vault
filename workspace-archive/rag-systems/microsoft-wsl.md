@@ -2,7 +2,7 @@
 title: Releases · microsoft/WSL · GitHub
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/microsoft/WSL/releases
+source_url: https://github.com/microsoft/wsl/releases
 resource_id: github:microsoft/wsl
 local_vault_path: ai/rag/microsoft-wsl.md
 quality_score: 70
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **WSL 2.9.3 introduces WSL Containers (WSLC) Public Preview** with native Linux container support via `wslc` CLI, C++/C#-WinRT SDK, and features like GPU support (CDI), per-container resource limits, multi-network attachment, and VHD-backed volumes.
+- **WSL 2.9.3 introduces WSL Containers (WSLC) Public Preview**, enabling native Linux container support via a new `wslc` CLI and SDK (C++/C#/WinRT), with features like GPU acceleration (via CDI), multi-network attachment, VHD-backed volumes, and per-container resource limits.
 
-- **Critical bug fixes in 2.9.3** address use-after-free in virtiofs, IPv6 port leaks, `systemctl poweroff` hangs, `wslpath` translation errors, and VM termination timeouts, alongside security updates to .NET runtime (CVE-2026-45491) and MSRDC (CV
+- **Critical bug fixes** include resolution of `systemctl poweroff` hangs, use-after-free in virtiofs/virtioProxy, IPv6 port leaks, and `wslpath` translation errors, alongside security updates to .NET runtime (CVE-2026-45
 
 ## Use Cases
 
@@ -47,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/microsoft/WSL/releases
+Original source URL: https://github.com/microsoft/wsl/releases
 
 ## Local Vault File
 

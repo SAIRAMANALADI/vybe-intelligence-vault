@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://learn.microsoft.com/en-us/windows/wsl/install
-published_at: '2026-07-02T15:09:09.655940+05:30'
-collected_at: '2026-07-02T15:09:09.655952+05:30'
+published_at: '2026-07-03T22:23:49.252191+05:30'
+collected_at: '2026-07-03T22:23:49.252206+05:30'
 tags:
 - hackernews
 - producthunt
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:install-wsl-microsoft-learn
-first_seen: '2026-07-02T15:09:09.655952+05:30'
-last_seen: '2026-07-02T15:09:09.655952+05:30'
-last_checked: '2026-07-02T15:09:09.655952+05:30'
+first_seen: '2026-07-03T22:23:49.252206+05:30'
+last_seen: '2026-07-03T22:23:49.252206+05:30'
+last_checked: '2026-07-03T22:23:49.252206+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **WSL Installation & Requirements**: WSL requires Windows 10 (v2004+) or Windows 11; install via `wsl --install` (enables WSL and installs Ubuntu by default). Older systems require manual steps or `wsl --install -d <Distro>` to specify a distribution.
+- **WSL Installation**: Requires Windows 10 (v2004+) or Windows 11; single-command install via `wsl --install` (enables WSL and installs Ubuntu by default; `-d [Distro]` flag changes default distro; `--list --online` lists available distros).
 
-- **WSL Versions & Management**: WSL 2 is default for new installs; switch versions via `wsl --set-version <Distro> <1|2>`. List distributions with `wsl -l -v` and set defaults using `wsl --set-default <Distro>`.
+- **WSL Versions & Management**: WSL 2 is default for new installs; version toggling via `wsl --set-version <Distro> <1|2>`; version check with `wsl -l -v`; default distro set via `wsl --set-default <Distro>`.
 
-- **Offline & Custom Install**: Offline WSL requires MSI package + `dism.exe` for VM enablement, followed by `.wsl` file installation. Custom distros can be imported or built via TAR/.appx files.
+- **Offline & Advanced Install**: Offline install requires WSL MSI package + `dism.exe /online /enable-feature /featurename:VirtualMachinePlatform`; custom distros importable via `.wsl`/`.appx` or built from TAR; preview features via Windows Insider or `wsl.exe --update --pre-release`.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T15:09:09.655940+05:30
+- Published: 2026-07-03T22:23:49.252191+05:30
 
 ## Related Tags
 

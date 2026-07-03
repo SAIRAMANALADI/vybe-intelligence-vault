@@ -3,17 +3,19 @@ title: 'Medium: Read and write stories.'
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://medium.com/
-published_at: '2026-07-01T20:49:14.599896+05:30'
-collected_at: '2026-07-01T20:49:14.599905+05:30'
+source_url: https://medium.com/?source=post_page
+resource_id: blog:medium-read-and-write-stories
+---top_nav_layout_nav-----------------------------------------
+published_at: '2026-07-03T22:22:00.001728+05:30'
+collected_at: '2026-07-03T22:22:00.001743+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium-read-and-write-stories
-first_seen: '2026-07-01T20:49:14.599905+05:30'
-last_seen: '2026-07-01T20:49:14.599905+05:30'
-last_checked: '2026-07-01T20:49:14.599905+05:30'
+first_seen: '2026-07-03T22:22:00.001743+05:30'
+last_seen: '2026-07-03T22:22:00.001743+05:30'
+last_checked: '2026-07-03T22:22:00.001743+05:30'
 health_score: 100
 ---
 
@@ -21,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- Medium is a content publishing platform leveraging XML sitemaps (`sitemap.xml`) for SEO and discoverability, with core endpoints including `/signin`, `/new-story`, and `/membership` for user authentication and subscription management.
-
-- The platform enforces structured authentication flows via OAuth2 redirects (e.g., `?operation=register&redirect=`) and supports third-party integrations like Text-to-Speech (via Speechify) and monetization through membership tiers.
-
-- Medium’s infrastructure includes status monitoring (`status.medium.com`), help documentation (`help.medium.com`), and compliance policies (e.g., privacy, terms, rules) hosted under `/policy/` and `/hc/` subdomains.
+- Medium is a content publishing platform leveraging a RESTful API architecture for user authentication (`/signin`, `/membership`) and content delivery (`/sitemap.xml`).
+- The platform enforces content moderation via `Medium Rules` and `Terms of Service`, with additional privacy compliance through `Medium Privacy Policy`.
+- Static assets (e.g., `https://miro.medium.com/v2/format:webp/4*SdjkdS98aKH76I8eD0_qjw.png`) are served via CDN with WebP compression for optimized performance.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T20:49:14.599896+05:30
+- Published: 2026-07-03T22:22:00.001728+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://medium.com/
+Original source: https://medium.com/?source=post_page---top_nav_layout_nav-----------------------------------------

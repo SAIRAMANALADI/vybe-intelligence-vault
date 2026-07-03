@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-03T20:04:40.318553+05:30'
+collected_at: '2026-07-03T22:17:57.597770+05:30'
 published_at: '2026-06-30T01:41:05Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 157
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-03T20:04:40.318553+05:30'
-last_seen: '2026-07-03T20:04:40.318553+05:30'
-last_checked: '2026-07-03T20:04:40.318553+05:30'
+first_seen: '2026-07-03T22:17:57.597770+05:30'
+last_seen: '2026-07-03T22:17:57.597770+05:30'
+last_checked: '2026-07-03T22:17:57.597770+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Demonstrates a Streamlit app integrating LangChain with a vector store (e.g., FAISS) and hybrid search (combining dense and sparse retrieval) for enhanced document retrieval and generation.
+- **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval in a LangChain-based RAG pipeline for enhanced document retrieval accuracy.
 
-- **Modular LangChain Components**: Uses LangChain’s `RetrievalQA`, `VectorStoreRetriever`, and `HybridSearchRetriever` to chain document retrieval, prompt templating, and LLM generation in a single workflow.
+- **Streamlit Frontend**: Provides a web interface built with Streamlit to interact with the RAG system, visualizing query results and retrieved context.
 
-- **Streamlit UI for RAG**: Provides a real-time web interface for querying the RAG system, visualizing retrieved documents, and displaying generated responses with customizable parameters (e.g., search type, top-k results).
+- **Vectorstore Utilization**: Implements a vector database (e.g., FAISS or Chroma) for storing and querying embeddings, enabling efficient semantic search over unstructured data.
 
 ## Why It Matters
 

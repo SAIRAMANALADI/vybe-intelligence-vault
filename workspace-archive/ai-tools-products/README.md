@@ -8,7 +8,7 @@ Discovering modern AI productivity tools allows developers to streamline their d
 
 ## Top Matched Resources
 
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (tutorial - ESSENTIAL Tier)
+- [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
 - [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (template - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (benchmark - USEFUL Tier)
@@ -20,7 +20,7 @@ Discovering modern AI productivity tools allows developers to streamline their d
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+- [langgenius/dify](https://github.com/langgenius/dify)
 - [vin67/crewai_docker](https://github.com/vin67/crewai_docker)
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)
 - [opendevin/opendevin](https://github.com/opendevin/opendevin)
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-07-03 20:20 IST*
+*Last updated: 2026-07-03 22:33 IST*

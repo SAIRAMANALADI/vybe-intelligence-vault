@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-07-03T20:05:45.360743+05:30'
+collected_at: '2026-07-03T22:19:02.696261+05:30'
 published_at: '2026-07-03T14:19:28Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-07-03T20:05:45.360743+05:30'
-last_seen: '2026-07-03T20:05:45.360743+05:30'
-last_checked: '2026-07-03T20:05:45.360743+05:30'
+first_seen: '2026-07-03T22:19:02.696261+05:30'
+last_seen: '2026-07-03T22:19:02.696261+05:30'
+last_checked: '2026-07-03T22:19:02.696261+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a novel framework leveraging memory-augmented agents for dynamic graph construction and retrieval in RAG pipelines, enabling adaptive knowledge integration.
+- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for graph retrieval-augmented generation (GraphRAG), leveraging agent-memory and ontology construction for enhanced knowledge retrieval.
 
-- **GraphRAG Integration**: Implements a graph-based retrieval mechanism where agents construct and refine ontological graphs to enhance contextual relevance and multi-hop reasoning in generation tasks.
+- **Graph Construction & Ontology Integration**: Dynamically constructs knowledge graphs and integrates ontologies to improve contextual understanding and retrieval precision in RAG pipelines.
 
-- **Ontology-Driven Architecture**: Utilizes ontology construction to structure domain knowledge, facilitating efficient memory updates and scalable multi-agent collaboration for knowledge-intensive applications.
+- **Python-Based Framework**: Developed in Python, optimized for graph-based RAG applications with modular components for agent-memory, graph construction, and ontology handling.
 
 ## Why It Matters
 

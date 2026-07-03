@@ -63,10 +63,10 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`ansible-collections-google-cloud.md`](../../ai/rag/ansible-collections-google-cloud.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
+### [langgenius/dify](https://github.com/langgenius/dify)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-03 20:20 IST*
+*Last updated: 2026-07-03 22:34 IST*

@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Tutorials**: Provides end-to-end, code-first guides for building production-grade GenAI agents, covering prototype development to enterprise deployment.
-- **Technical Stack**: Utilizes Python, LangGraph, MCP, and integrates MLOps, RAG, multi-agent systems, and observability tools for scalable agentic AI solutions.
-- **Enterprise Focus**: Includes deployment strategies, agent frameworks, and best practices for transitioning from prototype to large-scale production environments.
+- **Comprehensive Tutorials**: Provides end-to-end, code-first guides for building production-grade GenAI agents, covering prototyping to enterprise deployment with frameworks like LangGraph and MCP.
+
+- **Multi-Faceted Technical Scope**: Integrates core components such as RAG, multi-agent systems, LLMs, MLOps, and observability for scalable AI agent architectures in Python.
+
+- **Enterprise-Ready Tooling**: Focuses on deployment pipelines, observability, and scalability best practices for AI agen
 
 ## Use Cases
 

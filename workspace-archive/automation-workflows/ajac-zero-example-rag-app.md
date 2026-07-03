@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Observability & LLM Integration**: Implements Langfuse for LLM observability with support for 100+ providers via LiteLLM, enabling comprehensive monitoring and logging of RAG pipeline interactions.
+- **Observability & Integration**: Implements LLM observability via Langfuse for monitoring and debugging, with support for 100+ LLM providers through LiteLLM abstraction layer.
 
-- **Development Rigor**: Fully Dockerized with TypeScript, enforces strict type-checking, and achieves 100% test coverage for robust, scalable deployment.
+- **Development Rigor**: Fully Dockerized, TypeScript-based application with end-to-end type checking (TypeScript) and 100% test coverage for reliability.
 
-- **Modern AI Stack**: Designed for Retrieval-Augmented Generation (RAG) workflows, optimized for AI/ML applications with modular architectur
+- **Scalability & Extensibility**: Designed for modular RAG (Retrieval-Augmented Generation) workflows, enabling easy integration with additional providers or custom
 
 ## Use Cases
 

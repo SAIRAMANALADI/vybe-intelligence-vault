@@ -6,7 +6,7 @@ source_url: https://github.com/AgentOps-AI/agentops
 resource_id: github:agentops-ai/agentops
 local_vault_path: ai/agents/agentops-ai-agentops.md
 quality_score: 70
-archive_score: 83
+archive_score: 81
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -20,7 +20,6 @@ tags:
 - models
 - openai
 - python
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -31,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 83 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Python SDK** for **AI agent monitoring**, **LLM cost tracking**, **benchmarking**, and evaluation metrics, supporting integration with major LMs (OpenAI, Anthropic, Mistral, Groq) and agent frameworks (CrewAI, LangChain, Autogen, OpenAI Agents SDK, AG2, CamelAI, Agno, Ollama).
+- **Python SDK** for **AI agent monitoring**, **LLM cost tracking**, **benchmarking**, and evaluation metrics, supporting **CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI**.
 
-- **Real-time analytics** and **cost estimation** for LLM interactions, with support for **multi-agent workflows**, **evals**, and **performance benchmarking** across diverse agent architectures.
+- **Multi-LLM integration** with **Anthropic, Groq, Mistral, Ollama, OpenAI**, and others, enabling cross-framework agent performance analysis and cost estimation.
 
-- **Lightweight inst
+- **Real-time monitoring** and **evals** via a lightweight Python client, with **last update (2026-07-03)** indicating active development
 
 ## Use Cases
 

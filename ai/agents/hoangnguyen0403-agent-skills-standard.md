@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-07-03T20:06:35.389641+05:30'
+collected_at: '2026-07-03T22:19:52.737387+05:30'
 published_at: '2026-07-03T11:18:33Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-29T13:00:12Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-07-03T20:06:35.389641+05:30'
-last_seen: '2026-07-03T20:06:35.389641+05:30'
-last_checked: '2026-07-03T20:06:35.389641+05:30'
+first_seen: '2026-07-03T22:19:52.737387+05:30'
+last_seen: '2026-07-03T22:19:52.737387+05:30'
+last_checked: '2026-07-03T22:19:52.737387+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Language Best Practices Repository**: Curated collection of coding standards and best practices for TypeScript, Kotlin, Go, Java (Spring Boot), Dart (Flutter), PHP (Laravel), JavaScript/TypeScript frameworks (React, Next.js, NestJS, Angular), and mobile platforms (Android/iOS), designed to guide AI agents in adhering to language/framework-specific conventions.
+- **Multi-Language Best Practices Repository**: Curated collection of coding standards and best practices for 15+ programming languages and frameworks (TypeScript, Go, Kotlin, React, Spring Boot, etc.) to guide AI agents in adhering to framework-specific conventions.
 
-- **Agent-Oriented Standards**: Provides `.cursorrules` and structured guidelines to enforce consistency in AI-generated code across 19+ programming languages and frameworks, optimizing for maintainability, security, and performance.
+- **Agent-Oriented Standards**: Designed to enforce structured, maintainable, and scalable code patterns for AI-driven development workflows, including Cursor Rules and AI-specific linting configurations.
 
-- **Active Maintenance & Community Engagement**: Last updated July 2026 with 520 stars and 151 forks, reflecting ongoing contributions and community adoption for standardized AI agent development workflows.
+- **Active Maintenance & Community**: Last updated July 2026 with 520 stars and 151 forks, indicating ongoing contributions and adoption across Android, iOS, Flutter, Laravel, NestJS, and other ecosystems.
 
 ## Why It Matters
 

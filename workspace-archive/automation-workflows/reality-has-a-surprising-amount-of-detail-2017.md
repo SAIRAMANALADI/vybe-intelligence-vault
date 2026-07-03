@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by vinhnx. Score: 317, Comments: 117.
+Hacker News story by vinhnx. Score: 340, Comments: 127.
 Original Link: https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail
 
 ## Use Cases

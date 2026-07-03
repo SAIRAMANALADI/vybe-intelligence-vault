@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-07-03T15:09:21.823663+05:30'
+collected_at: '2026-07-03T22:19:12.660067+05:30'
 published_at: '2026-07-02T18:49:01Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - github-repo
 - hackernews
 - typescript
+- workflows
 stars: 8229
 language: TypeScript
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-07-03T15:09:21.823663+05:30'
-last_seen: '2026-07-03T15:09:21.823663+05:30'
-last_checked: '2026-07-03T15:09:21.823663+05:30'
+first_seen: '2026-07-03T22:19:12.660067+05:30'
+last_seen: '2026-07-03T22:19:12.660067+05:30'
+last_checked: '2026-07-03T22:19:12.660067+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: GitMCP is an open-source, remote MCP (Model Context Protocol) server designed to provide structured, real-time access to any GitHub repository, mitigating AI code hallucinations by ensuring accurate, up-to-date context for LLM-based agents.
-
-- **Technical Stack**: Implemented in TypeScript, it enables seamless integration with AI agents (e.g., Claude, Copilot, Cursor) via the MCP standard, facilitating dynamic repository interaction without local cloning.
-
-- **Key Features**: Supports real-time repository queries (files, commits, issues), version-aware context retrieval, and agent-agnostic compatibility, with last update timestamp indicating active maintenance.
+- **GitMCP Overview**: Open-source TypeScript-based MCP server enabling remote access to any GitHub repository, designed to mitigate AI code hallucinations by providing accurate, real-time code context.
+- **Integration & Use Cases**: Compatible with AI agents (Claude, Copilot, Cursor) for secure, agentic workflows; supports structured queries for repository metadata, file content, and diffs.
+- **Technical Features**: Implements MCP (Model Context Protocol) for standardized communication; last updated July 2026 with active community (8.2K+ stars, 728 forks).
 
 ## Why It Matters
 
@@ -44,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: idosal
 - Stars: 8229
-- Forks: 729
+- Forks: 728
 - Language: TypeScript
 - Topics: agentic-ai, agents, ai, claude, copilot, cursor, git, llm, mcp
 - Last Updated: 2026-07-02T18:49:01Z

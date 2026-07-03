@@ -8,7 +8,7 @@ local_vault_path: ai/rag/the-medium-blog.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
@@ -20,17 +20,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Sitemap.xml**: Provides a structured XML index of all accessible URLs on Medium, enabling efficient web crawler indexing and SEO optimization.
-
-- **Multi-factor authentication endpoints**: `/m/signin` handles both login (`operation=login`) and registration (`operation=register`) with OAuth2 redirects, supporting session persistence via `redirect` parameter.
-
-- **Content categorization API**: `/blog/all?topic=product` and `/blog/all?source=---publication_nav-...` endpoints filter blog posts b
+- Medium’s sitemap (`/sitemap.xml`) exposes structured URLs for SEO indexing, including `/blog`, `/new-story`, and `/search` endpoints.
+- User authentication endpoints (`/m/signin`, `/m/register`) use OAuth2 redirects with `operation=login/register` parameters for session management.
+- Static resources (e.g., `/v2/resize:fill:64:64/...`) leverage CDN-based image optimization with query-string parameters for dynamic resizing.
 
 ## Use Cases
 

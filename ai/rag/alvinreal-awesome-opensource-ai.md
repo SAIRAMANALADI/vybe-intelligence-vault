@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alvinreal/awesome-opensource-ai
-collected_at: '2026-07-03T20:05:05.306639+05:30'
+collected_at: '2026-07-03T22:18:22.579948+05:30'
 published_at: '2026-07-03T12:31:38Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 stars: 4008
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-03-24T15:58:22Z'
 pushed_at: '2026-07-03T12:31:36Z'
 resource_id: github:alvinreal/awesome-opensource-ai
-first_seen: '2026-07-03T20:05:05.306639+05:30'
-last_seen: '2026-07-03T20:05:05.306639+05:30'
-last_checked: '2026-07-03T20:05:05.306639+05:30'
+first_seen: '2026-07-03T22:18:22.579948+05:30'
+last_seen: '2026-07-03T22:18:22.579948+05:30'
+last_checked: '2026-07-03T22:18:22.579948+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   A curated `awesome-list` repository indexing truly open-source AI projects, models, tools, and infrastructure.
-*   Categorizes resources across critical AI domains: agents, generative AI, LLMs, MLOps, and RAG.
-*   Actively maintained with daily updates, reflecting a dynamic collection for a community exceeding 4k stars.
+- **Curated Collection**: Aggregates truly open-source AI projects, models, tools, and infrastructure, with daily updates to ensure relevance and accuracy.
+- **Technical Scope**: Encompasses agents, generative AI, LLMs, MLOps, and RAG, primarily implemented in Python, covering core AI/ML domains.
+- **Community & Maintenance**: Actively maintained repository (4008 stars, 473 forks) with last update on 2026-07-03, ensuring up-to-date resources.
 
 ## Why It Matters
 
@@ -41,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: alvinreal
 - Stars: 4008
-- Forks: 474
+- Forks: 473
 - Language: Python
 - Topics: agents, ai, artificial-intelligence, awesome, awesome-list, generative-ai, llm, machine-learning, mlops, open-source, open-source-ai, rag
 - Last Updated: 2026-07-03T12:31:38Z

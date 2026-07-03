@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-03T20:05:15.326606+05:30'
+collected_at: '2026-07-03T22:18:32.667119+05:30'
 published_at: '2026-07-02T18:18:02Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- leaderboard
 - python
 - rag
 stars: 394
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-03T20:05:15.326606+05:30'
-last_seen: '2026-07-03T20:05:15.326606+05:30'
-last_checked: '2026-07-03T20:05:15.326606+05:30'
+first_seen: '2026-07-03T22:18:32.667119+05:30'
+last_seen: '2026-07-03T22:18:32.667119+05:30'
+last_checked: '2026-07-03T22:18:32.667119+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Introduces CRUD-RAG, a Chinese benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems for Large Language Models (LLMs) with a focus on comprehensive performance metrics.
-- **Evaluation Scope**: Covers multiple dimensions of RAG, including retrieval quality, generation accuracy, and end-to-end system efficiency, tailored for Chinese language tasks.
-- **Open-Source Toolkit**: Provides a Python-based repository with standardized datasets, evaluation scripts, and leaderboard functionality for reproducible benchmarking of RAG models.
+- **Benchmark Suite**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems across four core operations: **Create**, **Read**, **Update**, and **Delete**, with 10K+ test cases spanning diverse domains.
+- **Evaluation Framework**: Provides standardized metrics for assessing RAG performance in Chinese LLMs, including retrieval accuracy, generation quality, and robustness to noise/irrelevant context.
+- **Open-Source Toolkit**: Offers a Python-based implementation with modular components for dataset generation, retrieval evaluation, and end-to-end RAG pipeline testing.
 
 ## Why It Matters
 

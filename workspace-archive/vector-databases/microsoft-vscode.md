@@ -8,14 +8,15 @@ local_vault_path: ai/rag/microsoft-vscode.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
+- hackernews
 - rag
 - typescript
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # microsoft/vscode
@@ -24,17 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Cross-platform Electron-based editor**: VS Code is built with Electron (Chromium + Node.js) for cross-platform desktop applications (Windows, macOS, Linux) with web-native UI rendering.
+- **Electron-based IDE**: VS Code is built using Electron, a framework enabling cross-platform desktop applications with web technologies (HTML, CSS, JavaScript/TypeScript), leveraging Chromium for rendering and Node.js for backend integration.
 
-- **TypeScript-centric architecture**: Core editor logic and extensions are primarily written in TypeScript, leveraging static typing for robustness and tooling integration (e.g., IntelliSense, refactoring).
-
-- **Extensible plugin ecosystem**: VS Code’s functionality is modularized via extensions (e.g., lang
+- **Language Server Protocol (LSP) Integration**: Implements LSP for language-agnostic code intelligence, enabling features like IntelliSense, diagnostics, and refactoring across multiple programming languages via standardized communication between edito
 
 ## Use Cases
 

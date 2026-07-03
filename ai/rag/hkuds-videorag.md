@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-07-03T20:05:40.346203+05:30'
+collected_at: '2026-07-03T22:18:57.623563+05:30'
 published_at: '2026-07-03T05:52:30Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 - youtube
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-07-03T20:05:40.346203+05:30'
-last_seen: '2026-07-03T20:05:40.346203+05:30'
-last_checked: '2026-07-03T20:05:40.346203+05:30'
+first_seen: '2026-07-03T22:18:57.623563+05:30'
+last_seen: '2026-07-03T22:18:57.623563+05:30'
+last_checked: '2026-07-03T22:18:57.623563+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to process and interact with video content via multi-modal inputs (e.g., frames, audio, metadata).
-
-- **Technical Implementation**: Leverages Python with multi-modal LLMs to segment, embed, and retrieve video segments dynamically, enhancing contextual Q&A and summarization for extended video durations.
-
-- **KDD'2026 Contribution**: Proposes novel retrieval mechanisms and indexing strategies to optimize multi-modal RAG for video data, addressing scalability and latency challenges in long-video applications.
+- Introduces **VideoRAG**, a framework enabling **multi-modal long-video understanding** via **Retrieval-Augmented Generation (RAG)** for Large Language Models (LLMs), supporting natural language interaction with video content.
+- Implements **Python-based** pipeline leveraging **multi-modal LLMs** to process, index, and retrieve semantically relevant video segments for dynamic Q&A and summarization.
+- Achieves **scalable retrieval** across extended video durations by integrating **dense video embeddings** and **hierarchical indexing** for efficient segment localization.
 
 ## Why It Matters
 

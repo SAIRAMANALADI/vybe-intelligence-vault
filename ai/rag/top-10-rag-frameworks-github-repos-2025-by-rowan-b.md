@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355
-published_at: '2026-07-03T20:04:00.795530+05:30'
-collected_at: '2026-07-03T20:04:00.795544+05:30'
+published_at: '2026-07-03T22:17:18.219611+05:30'
+collected_at: '2026-07-03T22:17:18.219628+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:top-10-rag-frameworks-github-repos-2025-by-rowan-b
-first_seen: '2026-07-03T20:04:00.795544+05:30'
-last_seen: '2026-07-03T20:04:00.795544+05:30'
-last_checked: '2026-07-03T20:04:00.795544+05:30'
+first_seen: '2026-07-03T22:17:18.219628+05:30'
+last_seen: '2026-07-03T22:17:18.219628+05:30'
+last_checked: '2026-07-03T22:17:18.219628+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack (deepset-ai)**: Modular AI orchestration framework supporting multiple document stores (Elasticsearch, FAISS, SQL), language models (BERT, RoBERTa, DPR), and scalable pipelines for document retrieval, QA, and summarization.
+- **Haystack (deepset-ai)**: Modular AI orchestration framework supporting multi-document stores (Elasticsearch, FAISS, SQL), scalable pipelines for NLP tasks (QA, summarization), and integration with LLMs (BERT, RoBERTa, DPR) via 14.6k GitHub stars.
 
-- **RAGFlow (infiniflow)**: Open-source RAG engine with deep document understanding, pre-built RAG pipelines, vector database integration, and custom embedding model support for streamlined RAG application development.
+- **RAGFlow (infiniflow)**: Open-source RAG engine emphasizing deep document understanding with pre-built workflows, vector DB integration, and custom embedding support, achieving 11.6k GitHub stars.
 
-- **FlashRAG (RUC-NLPIR)**: Lightweight Python toolkit optimized for efficient RAG research with distributed processing, benchmarking tools, and integration with language models and vector stores for high-performance retrieval.
+- **txtai (neuml)**: All-in-one AI framework combining semantic search, LLM orchestration, and embeddings DB for multi-language/document workflows, with 7.5k GitHub stars.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T20:04:00.795530+05:30
+- Published: 2026-07-03T22:17:18.219611+05:30
 
 ## Related Tags
 

@@ -8,7 +8,7 @@ local_vault_path: ai/agents/prat011-awesome-llm-skills.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -22,7 +22,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # Prat011/awesome-llm-skills
@@ -31,18 +31,16 @@ selection_reason:
 
 - Matched archive category: `AI Tools and Products`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Curated Repository**: Hosts a structured collection of LLM (Large Language Model) and AI Agent skills, tools, and resources for customizing AI workflows, compatible with platforms like Claude Code, Codex, and Gemini CLI.
-
-- **Technical Scope**: Primarily implemented in Python, covering integrations with Anthropic, OpenAI, Llama, Qwen, and other LLM frameworks, with a focus on CLI-based and agentic tooling.
-
-- **Metadata**: 1,354 stars, 212 forks, last updated June 30, 2026, under the `Prat01
+- **Curated Repository**: Hosts a structured collection of LLM and AI Agent skills, tools, and resources for customizing AI workflows, compatible with Claude Code, Codex, Gemini CLI, and custom agents.
+- **Technical Scope**: Focuses on Python-based implementations, covering Anthropic, OpenAI, Google (Gemini), Llama, Qwen, and related CLI tools (e.g., Codex CLI, Gemini CLI) for agent skill development.
+- **Metadata**: 1,362 stars, 216 forks, last updated July 3, 2026, with topics including `aweso
 
 ## Use Cases
 

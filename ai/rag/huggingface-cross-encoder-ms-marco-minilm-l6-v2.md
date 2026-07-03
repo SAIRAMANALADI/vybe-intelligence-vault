@@ -4,8 +4,8 @@ category: ai/rag
 source_type: huggingface_model
 source_name: Hugging Face Trending Models
 source_url: https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2
-published_at: '2026-07-03T20:03:17.827120+05:30'
-collected_at: '2026-07-03T20:03:17.827128+05:30'
+published_at: '2026-07-03T22:16:36.474069+05:30'
+collected_at: '2026-07-03T22:16:36.474078+05:30'
 tags:
 - dataset
 - hf-model
@@ -15,8 +15,8 @@ tags:
 status: active
 resource_id: huggingface:cross-encoder/ms-marco-minilm-l6-v2
 first_seen: '2026-06-18T23:35:18.374698+05:30'
-last_seen: '2026-07-03T20:03:17.827128+05:30'
-last_checked: '2026-07-03T20:03:17.827128+05:30'
+last_seen: '2026-07-03T22:16:36.474078+05:30'
+last_checked: '2026-07-03T22:16:36.474078+05:30'
 health_score: 100
 ---
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Trending Models
 - Category: ai/rag
-- Published: 2026-07-03T20:03:17.827120+05:30
+- Published: 2026-07-03T22:16:36.474069+05:30
 
 ## Related Tags
 

@@ -2,7 +2,7 @@
 title: Microsoft Developer
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://developer.microsoft.com
+source_url: https://developer.microsoft.com/en-us/
 resource_id: blog:microsoft-developer
 local_vault_path: ai/rag/microsoft-developer.md
 quality_score: 70
@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
+- anthropic
 - frontend_ui
 - hackernews
 - meta-ai
@@ -20,7 +21,6 @@ tags:
 - producthunt
 - rag
 - reddit
-- scripts
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Microsoft Build 2026 Announcements**: Introduced seven new MAI AI models (image, voice, transcription, coding, reasoning) forming a multimodal ecosystem, alongside GitHub’s agent-native desktop experience for agentic development.
-- **Microsoft Foundry Platform Updates**: Enhanced with runtime, tools, memory, grounding, models, observability, and governance features to support production-grade AI agent deployment and scaling.
-- **Security & Agentic SDLC**: Launched Microsoft Scout (always-on
+- **Microsoft Foundry** now supports production-grade AI agent deployment with runtime, memory, grounding, observability, and governance tooling (announced at Build 2026).
+
+- **Microsoft Scout** introduces a new agent category called *Autopilots*—always-on, autonomous agents designed for continuous task execution.
+
+- **MCP-Powered AI Travel Agents** sample demonstrates an enterprise-grade application using LlamaIndex agents and Azure Container Apps (ACA) for travel agency automation.
 
 ## Use Cases
 
@@ -51,7 +53,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developer.microsoft.com
+Original source URL: https://developer.microsoft.com/en-us/
 
 ## Local Vault File
 

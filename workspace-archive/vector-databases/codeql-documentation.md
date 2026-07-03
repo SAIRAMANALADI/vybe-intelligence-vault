@@ -13,7 +13,6 @@ importance: medium
 tags:
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -30,9 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **CodeQL Overview**: Enables querying code as data to identify and eradicate vulnerabilities; supports multiple languages, libraries, and frameworks with detailed CWE coverage documentation.
-- **Core Components**: Includes QL language reference, standard libraries, and query help; supported by CLI, VS Code extension, and open-source repository for extensibility.
-- **Operational Workflow**: Facilitates query writing, execution, and sharing; provides system requirements, change logs, and languag
+- **CodeQL Overview**: Enables querying code as data to identify and eradicate vulnerabilities across supported languages/frameworks via structured QL queries.
+- **Core Components**: Includes QL language reference, standard libraries, query help, and coverage of CWEs for vulnerability analysis.
+- **Resources**: Provides CLI releases, VS Code extension, GitHub repository for contributions, and system requirements for execution.
 
 ## Use Cases
 

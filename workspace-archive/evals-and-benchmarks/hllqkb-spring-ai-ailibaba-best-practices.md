@@ -15,7 +15,6 @@ tags:
 - github-repo
 - java
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- Implements **Server-Sent Events (SSE)** for real-time AI response streaming in a Java-based Spring AI system.
-- Integrates **RAG (Retrieval-Augmented Generation)** with **vector databases**, **embeddings**, and **knowledge graphs** for enhanced contextual Q&A.
-- Supports **Agent workflows**, **Function Calling**, **historical message handling**, and **image generation/understanding** via Alibaba Cloud AI services.
+- **SSE Streaming & Agent Integration**: Implements Server-Sent Events (SSE) for real-time AI responses and integrates AI agents for dynamic interaction flows.
+- **Knowledge Graph & RAG**: Utilizes knowledge graphs for structured data retrieval and Retrieval-Augmented Generation (RAG) for enhanced contextual responses.
+- **Multi-Modal & Vector DB**: Supports image generation/understanding, embedding-based vector search, and integrates vector databases (e.g., Chroma, Milvus) for efficient similar
 
 ## Use Cases
 

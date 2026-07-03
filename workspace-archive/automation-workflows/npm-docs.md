@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **npm CLI**: Command-line interface for interacting with the npm registry, enabling package installation, version management, and script execution via commands like `npm install`, `npm publish`, and `npm run`.
-- **Package Management**: Supports dependency resolution, semantic versioning (semver), and lifecycle scripts (e.g., `preinstall`, `postpublish`) for automating build/deployment workflows.
-- **Security & Policies**: Enforces registry access controls, two-factor authentication (2FA), and
+- **npm CLI**: Command-line interface for managing Node.js packages, including installation (`npm install`), versioning (`npm version`), and publishing (`npm publish`) via registry interactions.
+- **Package Registry**: Centralized repository for Node.js modules with metadata (e.g., `package.json`) enabling dependency resolution, versioning, and distribution.
+- **Security Policies**: Defines threat mitigations (e.g., package signing, audit tools) and organizational controls (e.g., 2FA, access tok
 
 ## Use Cases
 

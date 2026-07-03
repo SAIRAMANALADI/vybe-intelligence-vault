@@ -2,22 +2,20 @@
 title: Mintlify - The Knowledge Platform Built for Agents
 archive_category: agent-frameworks
 source_category: ai/agents
-source_url: https://www.mintlify.com?utm_campaign=poweredBy&utm_medium=referral&utm_source=affinityco
+source_url: https://www.mintlify.com?utm_campaign=poweredBy&utm_medium=referral&utm_source=nitric
 resource_id: blog:mintlify-the-knowledge-platform-built-for-agents
 local_vault_path: ai/agents/mintlify-the-knowledge-platform-built-for-agents.md
 quality_score: 70
-archive_score: 72
+archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
-- scripts
+- hackernews
 - web-crawled
-- workflows
 selection_reason:
-- Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Mintlify - The Knowledge Platform Built for Agents
@@ -25,17 +23,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Definition**: Agent-native platforms are designed to natively support autonomous agents, enabling seamless integration, execution, and management of agent-based workflows without requiring external orchestration layers.
-- **Core Features**: Includes built-in agent lifecycle management, inter-agent communication protocols, and native tool integration (e.g., APIs, databases, or external services) for real-time decision-making.
-- **Use Cases**: Optimized for multi-agent systems (MAS), AI-driven
+- **Definition**: Agent-native platform refers to a system architecture designed to natively support autonomous agents, enabling them to operate, interact, and execute tasks without requiring extensive middleware or adaptation layers.
+
+- **Core Features**:
+  - **Agent Orchestration**: Built-in mechanisms for managing agent lifecycle, including deployment, monitoring, and termination.
+  - **Inter-Agent Communication**: Native protocols for secure, low-latency interaction between agents (e.g., mes
 
 ## Use Cases
 
@@ -45,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.mintlify.com?utm_campaign=poweredBy&utm_medium=referral&utm_source=affinityco
+Original source URL: https://www.mintlify.com?utm_campaign=poweredBy&utm_medium=referral&utm_source=nitric
 
 ## Local Vault File
 

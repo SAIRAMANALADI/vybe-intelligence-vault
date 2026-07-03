@@ -15,6 +15,7 @@ tags:
 - benchmark
 - github-repo
 - go
+- hackernews
 - meta-ai
 - models
 - openai
@@ -37,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-functional LLM Platform**: Converts raw documents into a queryable RAG system, autonomous reasoning agent, and self-maintaining Wiki via Go-based architecture.
+- **Multi-modal LLM Knowledge Platform**: Converts raw documents into a queryable RAG (Retrieval-Augmented Generation) system, an autonomous reasoning agent, and a self-maintaining Wiki, supporting embeddings, vector search, and semantic search.
 
-- **Advanced Search & Embedding**: Supports vector search, reranking, and multimodal embeddings (e.g., OpenAI, Ollama) with semantic and multi-tenant capabilities.
+- **Technical Stack**: Built in Go, integrates with Ollama and OpenAI models, supports multi-tenancy, multi-model inference, and includes evaluation, reranking, and semantic search capabilities.
 
-- **Evaluation & Scalability**: Includes built-in evaluation tools for generative AI, supports OpenAI-compatible APIs, and is optimized for large-scale knowledge ba
+- **Features**: Enables question-answering, chatbot funct
 
 ## Use Cases
 

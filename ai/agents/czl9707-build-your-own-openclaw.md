@@ -4,14 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/czl9707/build-your-own-openclaw
-collected_at: '2026-07-03T20:06:05.370816+05:30'
+collected_at: '2026-07-03T22:19:22.650115+05:30'
 published_at: '2026-07-03T13:47:01Z'
 tags:
 - agents
 - github-repo
-- meta-ai
-- models
-- openai
 - python
 stars: 1769
 language: Python
@@ -21,9 +18,9 @@ archived: false
 created_at: '2026-03-11T02:47:02Z'
 pushed_at: '2026-06-28T12:49:25Z'
 resource_id: github:czl9707/build-your-own-openclaw
-first_seen: '2026-07-03T20:06:05.370816+05:30'
-last_seen: '2026-07-03T20:06:05.370816+05:30'
-last_checked: '2026-07-03T20:06:05.370816+05:30'
+first_seen: '2026-07-03T22:19:22.650115+05:30'
+last_seen: '2026-07-03T22:19:22.650115+05:30'
+last_checked: '2026-07-03T22:19:22.650115+05:30'
 health_score: 100
 ---
 
@@ -31,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular Python Framework**: Provides a structured, step-by-step implementation of an AI agent using Python, emphasizing modularity for extensibility (e.g., custom tools, memory, and reasoning modules).
+- **Modular Python Framework**: Provides a structured, step-by-step implementation of an AI agent using Python, emphasizing modularity for customization and scalability.
 
-- **OpenClaw Core Components**: Implements key AI agent subsystems such as tool integration, memory management (short/long-term), and decision-making via LLM-driven planning/reasoning loops.
+- **LLM Integration**: Demonstrates integration with large language models (LLMs) for core agent functionality, including prompt engineering and response handling.
 
-- **Tutorial-Driven Learning**: Includes hands-on guides for deploying agents with local LLMs (e.g., Ollama) or APIs (e.g., OpenAI), with examples for tool use, agent orchestration, and performance optimization.
+- **Open-Source Tutorial**: Offers a comprehensive, open-source guide for building AI agents, covering architecture, tooling, and deployment with community-driven updates.
 
 ## Why It Matters
 

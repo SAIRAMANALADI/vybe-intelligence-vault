@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/agents-towards-production
-collected_at: '2026-07-03T20:05:30.298480+05:30'
+collected_at: '2026-07-03T22:18:47.607999+05:30'
 published_at: '2026-07-03T13:00:07Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-06-16T17:33:44Z'
 pushed_at: '2026-06-17T20:54:13Z'
 resource_id: github:nirdiamant/agents-towards-production
-first_seen: '2026-07-03T20:05:30.298480+05:30'
-last_seen: '2026-07-03T20:05:30.298480+05:30'
-last_checked: '2026-07-03T20:05:30.298480+05:30'
+first_seen: '2026-07-03T22:18:47.607999+05:30'
+last_seen: '2026-07-03T22:18:47.607999+05:30'
+last_checked: '2026-07-03T22:18:47.607999+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Tutorials**: Provides end-to-end, code-first guides for building production-grade GenAI agents, covering prototype development to enterprise deployment.
-- **Technical Stack**: Utilizes Python, LangGraph, MCP, and integrates MLOps, RAG, multi-agent systems, and observability tools for scalable agentic AI solutions.
-- **Enterprise Focus**: Includes deployment strategies, agent frameworks, and best practices for transitioning from prototype to large-scale production environments.
+- **Comprehensive Tutorials**: Provides end-to-end, code-first guides for building production-grade GenAI agents, covering prototyping to enterprise deployment with frameworks like LangGraph and MCP.
+
+- **Multi-Faceted Technical Scope**: Integrates core components such as RAG, multi-agent systems, LLMs, MLOps, and observability for scalable AI agent architectures in Python.
+
+- **Enterprise-Ready Tooling**: Focuses on deployment pipelines, observability, and scalability best practices for AI agents in production environments.
 
 ## Why It Matters
 

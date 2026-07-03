@@ -12,11 +12,10 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
-- dataset
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified Graph-Based RAG Framework**: Introduces *Youtu-GraphRAG*, a vertically integrated system combining graph structures with retrieval-augmented generation (RAG) to enhance complex reasoning in LLMs, leveraging hierarchical agent interactions for improved contextual retrieval.
+- **Vertically Unified Agents**: Introduces a multi-agent architecture where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
 
-- **Multi-Agent Hierarchical Architecture**: Implements a *vertically unified agent* paradigm where specialized agents (e.g., retrieval, reasoning, and planning) collaborate via graph-based coordination, enabling
+- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Integrates graph-based knowledge retrieval with large language models (LLMs) to dynamically construct and traverse knowledge graphs, improving factual accuracy and contextual relevance in
 
 ## Use Cases
 

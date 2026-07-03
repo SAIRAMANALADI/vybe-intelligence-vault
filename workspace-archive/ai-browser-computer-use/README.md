@@ -8,7 +8,6 @@ Computer-use and browser agents transition AI from text engines to active workfl
 
 ## Top Matched Resources
 
-- [Speechify · GitHub](https://github.com/SpeechifyInc) (framework - ESSENTIAL Tier)
 - [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (template - ESSENTIAL Tier)
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) (api - ESSENTIAL Tier)
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) (framework - ESSENTIAL Tier)
@@ -16,17 +15,18 @@ Computer-use and browser agents transition AI from text engines to active workfl
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) (framework - ESSENTIAL Tier)
 - [vonzosten/awesome-LangGraph](https://github.com/vonzosten/awesome-LangGraph) (template - ESSENTIAL Tier)
+- [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (mcp-server - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/microsoft/playwright (Playwright)
 https://github.com/showlab/ComputerUse (Computer Use Examples)
-- [Speechify · GitHub](https://github.com/SpeechifyInc)
 - [vin67/crewai_docker](https://github.com/vin67/crewai_docker)
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic)
 - [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
+- [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/showlab/ComputerUse (Computer Use Examples)
 
 ---
 
-*Last updated: 2026-07-03 20:20 IST*
+*Last updated: 2026-07-03 22:34 IST*

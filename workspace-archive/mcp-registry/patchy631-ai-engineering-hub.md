@@ -6,16 +6,16 @@ source_url: https://github.com/patchy631/ai-engineering-hub
 resource_id: github:patchy631/ai-engineering-hub
 local_vault_path: ai/rag/patchy631-ai-engineering-hub.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Content Focus**: Repository provides advanced tutorials on **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **real-world AI agent applications**, emphasizing practical implementation.
-- **Technical Stack**: Primarily uses **Jupyter Notebooks** for demonstrations, covering topics like **agents**, **machine learning**, **Model Context Protocol (MCP)**, and **RAG architectures**.
-- **Repository Metrics**: Highly active with **36,303 stars** and **6,007 forks**, la
+- **Comprehensive LLM & RAG Tutorials**: Repository provides in-depth, hands-on Jupyter Notebook-based tutorials covering Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and their integration into real-world AI agent applications.
+
+- **AI Agent & MCP Integration**: Focuses on practical implementations of AI agents, including Model Context Protocol (MCP) applications, with structured workflows for deploying and optimizing agent-based systems.
+
+- **High-Activity Open-Source Pro
 
 ## Use Cases
 

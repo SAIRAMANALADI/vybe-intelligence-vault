@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Workflows**: Copilot CLI supports parallelized subagents via `/fleet`, enabling concurrent task execution across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, and maintains session persistence with `/resume` for long-running tasks.
+- **Multi-model agentic CLI**: GitHub Copilot CLI integrates native GitHub `/mcp` support to interact with issues, PRs, and branches, enabling parallelized multi-agent workflows via `/fleet` across models (Anthropic, Google, OpenAI) with session persistence and `/resume` for long-running tasks.
 
-- **GitHub-Native Integration**: Built on GitHub’s native `/mcp` protocol, Copilot CLI interacts directly with issues, pull requests, and branches, inherits organizational policies (e.g., branch protections), and supports
+- **Terminal-to-IDE orchestration**: Supports `/plan` to `/IDE` transitions (VS Code integration), `/delegate` for autonomous branch/PR creation with `/diff` review, and `/remote` for cross-device monito
 
 ## Use Cases
 

@@ -25,8 +25,8 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
 - [Google Research · GitHub](https://github.com/google-research)
-- [Azure-Samples/azure-openai-rag-workshop-template](https://github.com/Azure-Samples/azure-openai-rag-workshop-template)
-- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
+- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-07-03 20:19 IST*
+*Last updated: 2026-07-03 22:33 IST*

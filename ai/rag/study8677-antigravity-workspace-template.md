@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/study8677/antigravity-workspace-template
-collected_at: '2026-07-03T20:04:25.253805+05:30'
-published_at: '2026-07-02T12:48:04Z'
+collected_at: '2026-07-03T22:17:42.534567+05:30'
+published_at: '2026-07-03T15:38:03Z'
 tags:
 - agents
 - anthropic
@@ -19,11 +19,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2025-11-19T08:51:14Z'
-pushed_at: '2026-06-20T03:01:07Z'
+pushed_at: '2026-07-03T15:37:58Z'
 resource_id: github:study8677/antigravity-workspace-template
-first_seen: '2026-07-03T20:04:25.253805+05:30'
-last_seen: '2026-07-03T20:04:25.253805+05:30'
-last_checked: '2026-07-03T20:04:25.253805+05:30'
+first_seen: '2026-07-03T22:17:42.534567+05:30'
+last_seen: '2026-07-03T22:17:42.534567+05:30'
+last_checked: '2026-07-03T22:17:42.534567+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Knowledge Engine**: Enables grounded Q&A with file paths and line numbers for any AI IDE, integrating with Claude Code, Cursor, and Codex CLI.
-- **MCP Server & RAG Integration**: Implements a Model Context Protocol (MCP) server with Retrieval-Augmented Generation (RAG) for enhanced codebase intelligence.
-- **Open-Source Python Template**: Provides a structured workspace for AI-driven development tools, supporting agents, copilots, and IDE plugins.
+- **Multi-agent codebase Q&A system**: Enables grounded, context-aware interactions with codebases via file paths and line numbers, supporting tools like Claude Code, Cursor, and Codex CLI.
+
+- **MCP/knowledge graph integration**: Leverages Model Context Protocol (MCP) and RAG to construct a retrievable knowledge graph for precise, cross-referenced code intelligence.
+
+- **IDE-agnostic plugin architecture**: Provides a Python-based framework deployable across AI IDEs (e.g., VS Code, Cursor) with support for OpenAI, Copilot, and Windsurf.
 
 ## Why It Matters
 
@@ -43,14 +45,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: study8677
 - Stars: 1295
-- Forks: 259
+- Forks: 260
 - Language: Python
 - Topics: agents-sdk, ai-agent, claude-code, code-intelligence, code-search, codebase-qa, codex-cli, copilot, cursor, developer-tools, ide-plugin, knowledge-graph, llm, mcp, mcp-server, multi-agent, openai, python, rag, windsurf
-- Last Updated: 2026-07-02T12:48:04Z
+- Last Updated: 2026-07-03T15:38:03Z
 - License: MIT
 - Archived: No
 - Created At: 2025-11-19T08:51:14Z
-- Pushed At: 2026-06-20T03:01:07Z
+- Pushed At: 2026-07-03T15:37:58Z
 
 ## Possible Use Cases
 

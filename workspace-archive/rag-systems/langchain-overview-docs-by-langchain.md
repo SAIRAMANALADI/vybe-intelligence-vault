@@ -2,17 +2,18 @@
 title: LangChain overview - Docs by LangChain
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://python.langchain.com/docs/concepts/text_splitters/
+source_url: https://js.langchain.com
 resource_id: blog:langchain-overview-docs-by-langchain
 local_vault_path: ai/rag/langchain-overview-docs-by-langchain.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - anthropic
+- benchmark
 - meta-ai
 - models
 - openai
@@ -21,7 +22,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # LangChain overview - Docs by LangChain
@@ -29,17 +30,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Agent Composition**: LangChain's `create_agent` provides a minimal, modular harness combining model, tools, prompt, and middleware, enabling custom agent construction for specific use cases with support for multiple providers (OpenAI, Anthropic, Google, etc.).
+- **Agent Harness Architecture**: `create_agent` provides a minimal, modular harness for composing agents from model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
 
-- **Harness Architecture**: Agents are built atop LangGraph, inheriting durable execution, persistence, and human-in-the-loop capabilities, while offering incremental configurability via middleware for guardrails, retries, routing, an
+- **Multi-Framework Integration**: LangChain agents are built on LangGraph, enabling durable execution, human-in-the-loop support, and persistence, while LangSmith offers observability for debugging and evaluation.
+
+- **Standardized Model Interface**: Unified interface for chat models and emb
 
 ## Use Cases
 
@@ -49,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://python.langchain.com/docs/concepts/text_splitters/
+Original source URL: https://js.langchain.com
 
 ## Local Vault File
 

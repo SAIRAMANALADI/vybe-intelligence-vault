@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-03T20:05:40.308125+05:30'
+collected_at: '2026-07-03T22:18:57.622003+05:30'
 published_at: '2026-07-03T09:52:43Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-03T20:05:40.308125+05:30'
-last_seen: '2026-07-03T20:05:40.308125+05:30'
-last_checked: '2026-07-03T20:05:40.308125+05:30'
+first_seen: '2026-07-03T22:18:57.622003+05:30'
+last_seen: '2026-07-03T22:18:57.622003+05:30'
+last_checked: '2026-07-03T22:18:57.622003+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture Integration**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long-form narrative reasoning with structured memory retrieval and dynamic context management.
+- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) system (`ComoRAG`) that mimics human-like memory structures for stateful long narrative reasoning, leveraging cognitive psychology principles.
 
-- **Stateful Reasoning Mechanism**: Implements a hierarchical memory system that maintains temporal and relational coherence across extended dialogues or narratives, leveraging episodic and semantic memory modules for coherent multi-turn reasoning.
+- **Stateful Long-Context Handling**: Implements a hierarchical memory system to maintain context consistency across extended dialogues or narratives, enabling coherent multi-turn reasoning without catastrophic forgetting.
 
-- **AAAI 2026 Poster Submission**: Proposes a novel approach to retrieval-augmented generation (RAG) optimized for long-form reasoning, with empirical validation demonstrating superior performance in narrative consistency and contextual recall compared to traditional RAG models.
+- **AAAI 2026 Poster Submission**: Proposes novel evaluation metrics and benchmarks for stateful reasoning, with open-source Python implementation available for reproducibility and further research.
 
 ## Why It Matters
 

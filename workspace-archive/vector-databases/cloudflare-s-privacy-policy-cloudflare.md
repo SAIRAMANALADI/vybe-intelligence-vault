@@ -8,7 +8,7 @@ local_vault_path: ai/rag/cloudflare-s-privacy-policy-cloudflare.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -20,7 +20,7 @@ tags:
 - web-crawled
 - youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Cloudflare's Privacy Policy | Cloudflare
@@ -29,15 +29,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Cloudflare's Connectivity Cloud** delivers over 60 integrated networking, security, and performance services (e.g., CDN, DDoS protection, Zero Trust) via a unified global network.
-- **Developer Platform** supports serverless compute (Workers), AI/ML (Workers AI), storage (R2, D1), and observability tools with pay-as-you-go pricing.
-- **Enterprise-Grade Security** includes L3/4 & L7 DDoS mitigation, SASE (Cloudflare One), API security (API Shield), and post-quantum cryptography compliance.
+- **Cloudflare Connectivity Cloud**: Provides 60+ integrated services across networking, security, and performance, including SASE (Cloudflare One), application security (L7 DDoS protection, WAF, API security), and application performance (CDN, DNS, load balancing).
+
+- **Developer Platform**: Supports serverless compute (Workers), AI/ML (Workers AI, AI Gateway), storage (R2, D1), and observability (Workers Observability), with pricing tiers for Workers, KV, and R2.
+
+- **Enterprise & Compliance**
 
 ## Use Cases
 

@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-07-03T20:04:55.281579+05:30'
+collected_at: '2026-07-03T22:18:12.605811+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
 - github-repo
 - java
 - rag
-- workflows
 stars: 35
 language: Java
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-07-03T20:04:55.281579+05:30'
-last_seen: '2026-07-03T20:04:55.281579+05:30'
-last_checked: '2026-07-03T20:04:55.281579+05:30'
+first_seen: '2026-07-03T22:18:12.605811+05:30'
+last_seen: '2026-07-03T22:18:12.605811+05:30'
+last_checked: '2026-07-03T22:18:12.605811+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- Implements **Server-Sent Events (SSE)** for real-time AI response streaming in a Java-based Spring AI system.
-- Integrates **RAG (Retrieval-Augmented Generation)** with **vector databases**, **embeddings**, and **knowledge graphs** for enhanced contextual Q&A.
-- Supports **Agent workflows**, **Function Calling**, **historical message handling**, and **image generation/understanding** via Alibaba Cloud AI services.
+- **SSE Streaming & Agent Integration**: Implements Server-Sent Events (SSE) for real-time AI responses and integrates AI agents for dynamic interaction flows.
+- **Knowledge Graph & RAG**: Utilizes knowledge graphs for structured data retrieval and Retrieval-Augmented Generation (RAG) for enhanced contextual responses.
+- **Multi-Modal & Vector DB**: Supports image generation/understanding, embedding-based vector search, and integrates vector databases (e.g., Chroma, Milvus) for efficient similarity retrieval.
 
 ## Why It Matters
 

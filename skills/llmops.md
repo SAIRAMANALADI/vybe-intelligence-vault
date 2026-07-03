@@ -19,13 +19,13 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 629 resources matched in the intelligence vault.
+Active signals: 630 resources matched in the intelligence vault.
 Recently detected signals:
+- [Develop generative AI apps on Microsoft Foundry - Training | Microsoft Learn](../ai/rag/develop-generative-ai-apps-on-microsoft-foundry-tr.md) (Source: Unknown Source) - Collected 2026-07-03
+- [🧑‍ Cookbook | Haystack](../ai/rag/cookbook-haystack.md) (Source: Unknown Source) - Collected 2026-07-03
+- [run-llama/llama_index](../ai/rag/run-llama-llama-index.md) (Source: Unknown Source) - Collected 2026-07-03
 - [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) (Source: Unknown Source) - Collected 2026-07-03
-- [wgcyeo/UniversalRAG](../ai/rag/wgcyeo-universalrag.md) (Source: Unknown Source) - Collected 2026-07-03
 - [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md) (Source: Unknown Source) - Collected 2026-07-03
-- [promptfoo/promptfoo-action](../ai/rag/promptfoo-promptfoo-action.md) (Source: Unknown Source) - Collected 2026-07-03
-- [raga-ai-hub/raga-llm-hub](../ai/rag/raga-ai-hub-raga-llm-hub.md) (Source: Unknown Source) - Collected 2026-07-03
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -59,7 +59,7 @@ Recently detected signals:
 ### 6. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
 - Stars: 0
 - Language: Unknown
-- Description: - **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems, leveraging vector search and LLMs (e.g., GPT-...
+- Description: - **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI workflows, integrating vector search with LLMs (e.g., ...
 
 ### 7. [RAGatouille/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb at main · AnswerDotAI/RAGat](../ai/rag/answerdotai-ragatouille.md) ([GitHub](https://github.com/answerdotai/ragatouille))
 - Stars: 0
@@ -76,65 +76,65 @@ Recently detected signals:
 - Language: Unknown
 - Description: Repository: GoogleCloudPlatform/agent-starter-pack
 
-### 10. [run-llama/llama_index](../ai/rag/run-llama-llama-index.md) ([GitHub](https://github.com/run-llama/llama_index))
-- Stars: 0
-- Language: Unknown
-- Description: - **Framework**: LlamaIndex is a Python-based framework designed for building document agents and OCR (Optical Character Recognition) systems, enabling integration with LLMs (Large Language Models)...
-
-### 11. [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([GitHub](https://github.com/oxbshw/llm-agents-ecosystem-handbook))
+### 10. [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([GitHub](https://github.com/oxbshw/llm-agents-ecosystem-handbook))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: oxbshw/LLM-Agents-Ecosystem-Handbook
+
+### 11. [run-llama/llama_index](../ai/rag/run-llama-llama-index.md) ([GitHub](https://github.com/run-llama/llama_index))
+- Stars: 0
+- Language: Unknown
+- Description: - **Framework Overview**: LlamaIndex is a Python-based framework designed for building document agents and OCR (Optical Character Recognition) systems, enabling integration with LLMs (Large Languag...
 
 ### 12. [brandonhimpfen/awesome-llmops](../ai/resources/brandonhimpfen-awesome-llmops.md) ([GitHub](https://github.com/brandonhimpfen/awesome-llmops))
 - Stars: 0
 - Language: Unknown
 - Description: A curated list of tools, frameworks, platforms, and resources for Large Language Model Operations (LLMOps).
 
-### 13. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
+### 13. [PacktPublishing/LLM-Engineers-Handbook](../ai/rag/packtpublishing-llm-engineers-handbook.md) ([GitHub](https://github.com/packtpublishing/llm-engineers-handbook))
 - Stars: 0
 - Language: Unknown
-- Description: - **Comprehensive AI Agent Learning Path**: Covers LangChain, LangGraph, Coze, Dify, MCP, and other frameworks/tools; includes RAG, LLM fine-tuning, and prompt engineering for enterprise-grade depl...
+- Description: - **Comprehensive LLM Guide**: Covers fundamentals to deployment of advanced LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-grade systems.
 
-### 14. [PacktPublishing/LLM-Engineers-Handbook](../ai/rag/packtpublishing-llm-engineers-handbook.md) ([GitHub](https://github.com/packtpublishing/llm-engineers-handbook))
+### 14. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
 - Stars: 0
 - Language: Unknown
-- Description: - **Comprehensive Guide**: Covers LLM fundamentals, fine-tuning, deployment, and RAG applications on AWS using LLMOps best practices.
+- Description: - **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured as a full learning path from zero to enterprise deployment and fi...
 
 ### 15. [ajac-zero/example-rag-app](../ai/rag/ajac-zero-example-rag-app.md) ([GitHub](https://github.com/ajac-zero/example-rag-app))
 - Stars: 0
 - Language: Unknown
-- Description: - **Observability & LLM Integration**: Implements Langfuse for LLM observability, supporting 100+ providers via LiteLLM for seamless model switching and monitoring.
+- Description: - **Observability & Integration**: Implements LLM observability via Langfuse for monitoring and debugging, with support for 100+ LLM providers through LiteLLM abstraction layer.
 
 ### 16. [tensorchord/awesome-llmops](../ai/resources/tensorchord-awesome-llmops.md) ([GitHub](https://github.com/tensorchord/awesome-llmops))
 - Stars: 0
 - Language: Unknown
 - Description: An awesome & curated list of best LLMOps tools for developers
 
-### 17. [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md) ([GitHub](https://github.com/ray-project/llm-applications))
+### 17. [promptfoo/promptfoo-action](../ai/rag/promptfoo-promptfoo-action.md) ([GitHub](https://github.com/promptfoo/promptfoo-action))
 - Stars: 0
 - Language: Unknown
-- Description: - **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples leveraging Llama2 and OpenAI models.
+- Description: - **LLM Evaluation & Testing**: GitHub Action for automated testing of prompts, agents, and RAG systems across models (GPT, Claude, Gemini, Llama, etc.) with performance comparison and CI/CD integr...
 
-### 18. [promptfoo/promptfoo-action](../ai/rag/promptfoo-promptfoo-action.md) ([GitHub](https://github.com/promptfoo/promptfoo-action))
+### 18. [aws-samples/amazon-bedrock-samples](../ai/rag/aws-samples-amazon-bedrock-samples.md) ([GitHub](https://github.com/aws-samples/amazon-bedrock-samples))
 - Stars: 0
 - Language: Unknown
-- Description: - **GitHub Action for Promptfoo**: Enables automated testing of LLM prompts, agents, and RAG systems via CI/CD pipelines with declarative YAML configurations.
+- Description: - **Repository Overview**: Provides starter examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) for generative AI workflows.
 
-### 19. [aws-samples/amazon-bedrock-samples](../ai/rag/aws-samples-amazon-bedrock-samples.md) ([GitHub](https://github.com/aws-samples/amazon-bedrock-samples))
-- Stars: 0
-- Language: Unknown
-- Description: - **Repository Overview**: Provides starter examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) with practical implementations.
-
-### 20. [phoenix0706/langgraph-agent-gaia-benchmark](../ai/agents/phoenix0706-langgraph-agent-gaia-benchmark.md) ([GitHub](https://github.com/phoenix0706/langgraph-agent-gaia-benchmark))
+### 19. [phoenix0706/langgraph-agent-gaia-benchmark](../ai/agents/phoenix0706-langgraph-agent-gaia-benchmark.md) ([GitHub](https://github.com/phoenix0706/langgraph-agent-gaia-benchmark))
 - Stars: 0
 - Language: Unknown
 - Description: No description provided.
 
+### 20. [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md) ([GitHub](https://github.com/ray-project/llm-applications))
+- Stars: 0
+- Language: Unknown
+- Description: - **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, including integration with Llama2, OpenAI, and Any...
+
 ### 21. [raga-ai-hub/raga-llm-hub](../ai/rag/raga-ai-hub-raga-llm-hub.md) ([GitHub](https://github.com/raga-ai-hub/raga-llm-hub))
 - Stars: 0
 - Language: Unknown
-- Description: - **Purpose-built framework** for evaluating LLMs, implementing guardrails, and enforcing security protocols in Python-based workflows.
+- Description: - **Purpose**: Open-source Python framework for evaluating, securing, and implementing guardrails in Large Language Models (LLMs) as part of LLM operations (LLMOps).
 
 ### 22. [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md) ([GitHub](https://github.com/curiousily/ai-bootcamp))
 - Stars: 0
@@ -159,22 +159,22 @@ Recently detected signals:
 ### 26. [Yigtwxx/awesome-rag-production](../ai/rag/yigtwxx-awesome-rag-production.md) ([GitHub](https://github.com/yigtwxx/awesome-rag-production))
 - Stars: 0
 - Language: Unknown
-- Description: - **Curated Resource**: A GitHub repository (`Yigtwxx/awesome-rag-production`) listing production-grade tools, frameworks, and best practices for scalable RAG systems, covering LLMs, embeddings, ve...
+- Description: - **Curated Resources**: Repository providing a vetted collection of production-grade tools, frameworks, and best practices for building scalable RAG systems, covering LLMs, embeddings, and vector ...
 
-### 27. [wgcyeo/UniversalRAG](../ai/rag/wgcyeo-universalrag.md) ([GitHub](https://github.com/wgcyeo/universalrag))
+### 27. [pathwaycom/llm-app](../ai/rag/pathwaycom-llm-app.md) ([GitHub](https://github.com/pathwaycom/llm-app))
 - Stars: 0
 - Language: Unknown
-- Description: - **Multimodal RAG Framework**: Introduces a retrieval-augmented generation (RAG) system capable of handling diverse data modalities (text, images, tables, etc.) and granularities (documents, parag...
+- Description: - **Cloud-native RAG & AI pipelines**: Pre-configured templates for retrieval-augmented generation (RAG), AI workflows, and enterprise search with live data synchronization via Docker containers.
 
-### 28. [onyx-dot-app/EnterpriseRAG-Bench](../ai/rag/onyx-dot-app-enterpriserag-bench.md) ([GitHub](https://github.com/onyx-dot-app/enterpriserag-bench))
+### 28. [jxzhangjhu/Awesome-LLM-RAG](../ai/rag/jxzhangjhu-awesome-llm-rag.md) ([GitHub](https://github.com/jxzhangjhu/awesome-llm-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Purpose**: Provides a benchmarking dataset and framework for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of LLM...
+- Description: - **Curated RAG Resources**: Aggregates advanced techniques, frameworks, and research papers on retrieval-augmented generation (RAG) for Large Language Models (LLMs), including embeddings, retrieva...
 
-### 29. [pathwaycom/llm-app](../ai/rag/pathwaycom-llm-app.md) ([GitHub](https://github.com/pathwaycom/llm-app))
+### 29. [HKUDS/MiniRAG](../ai/rag/hkuds-minirag.md) ([GitHub](https://github.com/hkuds/minirag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Cloud-native RAG & AI pipelines**: Pre-configured templates for Retrieval-Augmented Generation (RAG), AI workflows, and enterprise search with live data synchronization via Docker containers.
+- Description: - **Miniaturized RAG Pipeline**: Introduces a simplified RAG framework leveraging small (<=1B parameters) open-sourced language models (e.g., TinyLlama, Phi-2) to reduce computational overhead whil...
 
 ### 30. [explodinggradients/ragas](../ai/rag/explodinggradients-ragas.md) ([GitHub](https://github.com/explodinggradients/ragas))
 - Stars: 0
@@ -199,7 +199,7 @@ Recently detected signals:
 ### 34. [decodingai-magazine/llm-twin-course](../ai/rag/decodingai-magazine-llm-twin-course.md) ([GitHub](https://github.com/decodingai-magazine/llm-twin-course))
 - Stars: 0
 - Language: Unknown
-- Description: - **Course Content**: Provides hands-on guidance for building production-ready LLM and RAG systems using LLMOps best practices, including source code and 12 structured lessons.
+- Description: - **Course Structure**: Provides hands-on guidance for building production-ready LLM and RAG systems using LLMOps best practices, including 12 interactive lessons and source code.
 
 ### 35. [Google Research · GitHub](../ai/resources/google-research-github.md) ([GitHub](https://github.com/google-research))
 - Stars: 0
@@ -241,4 +241,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-03T20:18:54.834594+05:30.743366+05:30.795213+05:30.567285+05:30.508354+05:30.622095+05:30.996912+05:30.488947+05:30.071939+05:30.584722+05:30.075067+05:30.157773+05:30.591570+05:30.987433+05:30.398440+05:30.034256+05:30.758596+05:30.154247+05:30.957718+05:30.598331+05:30.952488+05:30.128483+05:30.362967+05:30.444769+05:30.789216+05:30.049091+05:30.545300+05:30.756791+05:30.800206+05:30.905400+05:30.530272+05:30.191404+05:30.916268+05:30.127245+05:30.576769+05:30.698798+05:30.666412+05:30.983666+05:30.205082+05:30.708218+05:30.201210+05:30.863994+05:30.879943+05:30.599346+05:30.049935+05:30.977504+05:30.417964+05:30.704003+05:30.661069+05:30.323842+05:30.616017+05:30.629111+05:30.781924+05:30.133773+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-03T22:32:13.612242+05:30.834594+05:30.743366+05:30.795213+05:30.567285+05:30.508354+05:30.622095+05:30.996912+05:30.488947+05:30.071939+05:30.584722+05:30.075067+05:30.157773+05:30.591570+05:30.987433+05:30.398440+05:30.034256+05:30.758596+05:30.154247+05:30.957718+05:30.598331+05:30.952488+05:30.128483+05:30.362967+05:30.444769+05:30.789216+05:30.049091+05:30.545300+05:30.756791+05:30.800206+05:30.905400+05:30.530272+05:30.191404+05:30.916268+05:30.127245+05:30.576769+05:30.698798+05:30.666412+05:30.983666+05:30.205082+05:30.708218+05:30.201210+05:30.863994+05:30.879943+05:30.599346+05:30.049935+05:30.977504+05:30.417964+05:30.704003+05:30.661069+05:30.323842+05:30.616017+05:30.629111+05:30.781924+05:30.133773+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.

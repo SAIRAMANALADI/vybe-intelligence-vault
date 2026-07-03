@@ -8,7 +8,7 @@ local_vault_path: ai/rag/docs-directory-cloudflare-docs.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Docs directory | Cloudflare Docs
@@ -28,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **1.1.1.1 DNS Resolver**: A high-performance, privacy-focused DNS resolver optimized for private browsing, leveraging Cloudflare's global network for low-latency, secure DNS queries.
+- **1.1.1.1 DNS Resolver**: A high-performance, privacy-focused DNS resolver (1.1.1.1) optimized for secure and fast private browsing, leveraging Cloudflare’s global network for low-latency responses.
 
-- **Cloudflare One**: A Zero Trust security platform replacing legacy perimeters, integrating SWG, ZTNA, CASB, and firewall-as-a-service (Cloudflare Network Firewall) for unified enterprise security.
+- **Cloudflare One Platform**: A Zero Trust security framework replacing legacy perimeters, integrating network security (e.g., firewall, DDoS protection), remote browser isolation, and SASE via appliances/clients for unified threat mitigation.
 
-- **Workers & Durable Objects**: Serverless compute (Workers) with stateful storage (Durable Objects) enabling pe
+- **Workers & AI Services**: Serverless compute (Wor
 
 ## Use Cases
 

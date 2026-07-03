@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 12,535</p>
-        <p><b>Active:</b> 12,194 | <b>Inactive:</b> 341</p>
+        <p><b>Resources tracked:</b> 12,575</p>
+        <p><b>Active:</b> 12,232 | <b>Inactive:</b> 343</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 47,890</p>
+        <p><b>Archive Files:</b> 47,982</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-03 20:43 IST</p>
+        <p><b>Last Update:</b> 2026-07-03 22:34 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,29 +55,26 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[The short leash AI coding method for beating Fable](ai/community/the-short-leash-ai-coding-method-for-beating-fable.md)** • <kbd>+30 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[GitHub Status](ai/rag/github-status.md)** • Rank: <kbd>+85</kbd>
-- 🔼 **[Google Issue Tracker](ai/resources/google-issue-tracker.md)** • Rank: <kbd>+6045</kbd>
-- 🔼 **[Making sure you're not a bot!](ai/resources/making-sure-you-re-not-a-bot.md)** • Rank: <kbd>+1099</kbd>
-- 🔼 **[Community Guide](ai/resources/community-guide.md)** • Rank: <kbd>+1633</kbd>
+- 🔼 **[Reality has a surprising amount of detail (2017)](ai/community/reality-has-a-surprising-amount-of-detail.md)** • <kbd>+23 pts</kbd>
+- 🔼 **[Discourse | Where Tech Companies Build Communities](ai/resources/discourse-where-tech-companies-build-communities.md)** • Rank: <kbd>+1697</kbd>
+- 🔼 **[github/codeql](ai/resources/github-codeql.md)** • Rank: <kbd>+6</kbd>
+- 🔼 **[npm Status](ai/rag/npm-status.md)** • Rank: <kbd>+8</kbd>
+- 🔼 **[Getting Started | Electron Forge](ai/rag/getting-started-electron-forge.md)** • Rank: <kbd>+8</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Reality has a surprising amount of detail (2017)](ai/community/reality-has-a-surprising-amount-of-detail.md)** • Score: `317`
-- 🆕 **[Please stop the AI confidence theater](ai/community/please-stop-the-ai-confidence-theater.md)** • Score: `110`
-- 🆕 **[KAIST College of Engineering, 카이스트 공과대학 (전산학부, 기계공학과, 항공우주공학과, 전기및전자공학부, 건설및환경공학과, 바이오및뇌공학과, 산업디자인학과, 산업및시스템공학과, 생명화학공학과](ai/rag/kaist-college-of-engineering-kaiseuteu-gonggwadaeh.md)** • Score: `0`
-- 🆕 **[Google Store Learning Center - Google Store Help](ai/rag/google-store-learning-center-google-store-help.md)** • Score: `0`
-- 🆕 **[Delete, allow, and manage cookies in Chrome - Computer - Google Chrome Help](ai/rag/delete-allow-and-manage-cookies-in-chrome-computer.md)** • Score: `0`
+- 🆕 **[Jamesob's guide to running SOTA LLMs locally](ai/community/jamesob-local-llm.md)** • Score: `38`
+- 🆕 **[My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?](ai/community/my-dad-helped-build-north-america-s-oat-supply-cha.md)** • Score: `14`
+- 🆕 **[Speechify Inc status](ai/resources/speechify-inc-status.md)** • Score: `0`
+- 🆕 **[Submit a Report - Watchdog](ai/rag/submit-a-report-watchdog.md)** • Score: `0`
+- 🆕 **[istio/community](ai/resources/istio-community.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Claude-real-video － any LLM can watch a video](ai/community/huangchihhungleo-claude-real-video.md)**
-- 💤 **[A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time](ai/community/a-special-wireless-free-nikon-camera-is-publicly-a.md)**
-- 💤 **[langflow-ai/langflow](ai/agents/langflow-ai-langflow.md)**
-- 💤 **[agentskills/agentskills](ai/agents/agentskills-agentskills.md)**
-- 💤 **[affaan-m/ECC](ai/agents/affaan-m-ecc.md)**
+- 💤 **[The short leash AI coding method for beating Fable](ai/community/the-short-leash-ai-coding-method-for-beating-fable.md)**
+- 💤 **[Please stop the AI confidence theater](ai/community/please-stop-the-ai-confidence-theater.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

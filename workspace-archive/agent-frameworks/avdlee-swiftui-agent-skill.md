@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 selection_reason:
 - Active open-source repository
@@ -31,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Repository provides expert SwiftUI best practices guidance in the Agent Skills open format for AI coding tools.
-- **Technical Details**: Implemented in Python, last updated on **2026-07-03**, with **3,165 stars** and **148 forks**.
-- **Integration**: Designed to enhance AI coding agents with structured SwiftUI expertise.
+- **Purpose**: Provides expert SwiftUI best practices guidance in an AI coding tool (Agent Skills open format).
+- **Metrics**: 3,167 stars, 148 forks, last updated 2026-07-03.
+- **Implementation**: Python-based repository for integrating SwiftUI expertise into AI agents.
 
 ## Use Cases
 

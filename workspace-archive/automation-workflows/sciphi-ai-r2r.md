@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic RAG System**: Implements an advanced, production-ready retrieval-augmented generation (RAG) framework with agentic capabilities, enabling dynamic, multi-step retrieval and reasoning workflows.
-- **RESTful API**: Exposes a scalable, standardized API for integration with downstream applications, supporting efficient querying and management of retrieval pipelines.
-- **Python-Based Architecture**: Built in Python with modular components for indexing, retrieval, and generation, optimized
+- **Agentic RAG Framework**: Implements a production-ready Retrieval-Augmented Generation (RAG) system with agentic capabilities, enabling dynamic interaction between retrieval and generation components for enhanced AI responses.
+
+- **RESTful API Integration**: Provides a scalable, modular API for seamless integration with downstream applications, supporting efficient document retrieval and question-answering workflows.
+
+- **Advanced Retrieval & Python-Based**: Leverages state-of-the-art retriev
 
 ## Use Cases
 

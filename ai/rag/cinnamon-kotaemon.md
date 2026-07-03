@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-07-03T20:04:30.285846+05:30'
+collected_at: '2026-07-03T22:17:47.563843+05:30'
 published_at: '2026-07-03T14:06:08Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-06-09T09:55:55Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-07-03T20:04:30.285846+05:30'
-last_seen: '2026-07-03T20:04:30.285846+05:30'
-last_checked: '2026-07-03T20:04:30.285846+05:30'
+first_seen: '2026-07-03T22:17:47.563843+05:30'
+last_seen: '2026-07-03T22:17:47.563843+05:30'
+last_checked: '2026-07-03T22:17:47.563843+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions, leveraging LLMs for contextual responses while retrieving relevant document snippets.
-
-- **Modular Python Framework**: Built with a Python-based, extensible pipeline supporting document ingestion, chunking, vector embedding (via FAISS/Chroma), and retrieval-augmented LLM inference with pluggable components.
-
-- **Open-Source Deployment**: Provides a self-hosted, open-source solution with pre-configured integrations for document processing (PDFs, text, etc.), multi-modal support, and customizable retrieval strategies for enterprise/local use.
+- **RAG-based Document Interaction**: Implements Retrieval-Augmented Generation (RAG) to enable contextual querying and conversational interaction with uploaded documents.
+- **Modular Python Architecture**: Built in Python with extensible components for document ingestion, embedding, retrieval, and LLM integration.
+- **Open-Source & Scalable**: Licensed under Apache 2.0, supports custom model integration, and scales via vector databases (e.g., FAISS, Chroma) for efficient document search.
 
 ## Why It Matters
 

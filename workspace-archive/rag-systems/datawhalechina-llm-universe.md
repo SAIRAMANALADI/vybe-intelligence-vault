@@ -8,17 +8,16 @@ local_vault_path: ai/rag/datawhalechina-llm-universe.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # datawhalechina/llm-universe
@@ -27,18 +26,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Educational Framework**: A beginner-friendly tutorial repository for developing LLM applications, structured as Jupyter Notebooks, covering topics like LangChain and RAG (Retrieval-Augmented Generation).
+- **Educational Resource**: Provides a beginner-friendly tutorial for developing large language model (LLM) applications, structured as Jupyter Notebooks with a focus on practical implementation.
 
-- **Technical Scope**: Focuses on practical implementation of large language model applications, emphasizing modular design and hands-on development workflows.
+- **Key Technologies**: Integrates **LangChain** for LLM orchestration and **RAG (Retrieval-Augmented Generation)** for enhancing model responses with external data retrieval.
 
-- **Community & Maintenance**: Actively maintained with 13,393 stars, 1,371 forks, and last updated on 2026-07-03, indicating stro
+- **Maintenance & Community**: Actively maintained (last updated July 2026) with 13.4k+ stars and 1.4k+ forks, indicating stro
 
 ## Use Cases
 

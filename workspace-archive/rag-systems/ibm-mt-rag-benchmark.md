@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Evaluates multi-turn Retrieval-Augmented Generation (RAG) systems, focusing on conversational context retention and iterative retrieval quality.
-- **Implementation**: Python-based framework with standardized metrics for assessing multi-turn RAG pipelines, including context relevance and answer consistency across turns.
-- **Benchmark Components**: Includes synthetic and real-world datasets, evaluation scripts, and baseline models (e.g., dense retrievers + LLMs) for comparative anal
+- **Multi-Turn RAG Evaluation Framework**: A specialized benchmark for assessing multi-turn Retrieval-Augmented Generation (RAG) systems, focusing on conversational context retention and iterative retrieval quality.
+- **Python-Based Implementation**: Provides a structured codebase for benchmarking, including dataset handling, evaluation metrics, and baseline model comparisons.
+- **Last Updated (2026-06-26)**: Repository includes recent updates, ensuring compatibility with modern RAG architecture
 
 ## Use Cases
 

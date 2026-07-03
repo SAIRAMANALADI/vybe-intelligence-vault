@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
 - github-repo
 - hackernews
 - openai
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated 2026 AI Agent Ecosystem**: Repository hosting 300+ categorized resources (frameworks, tools, libraries) for AI agents, updated monthly, covering 20+ domains (e.g., LangChain, LLMs, ChatGPT integration).
-- **High-Activity Open-Source Project**: 1,375 stars and 445 forks, indicating strong community engagement and rapid evolution of AI agent technologies.
-- **Technical Breadth**: Encompasses core AI/ML topics (e.g., LLM optimization, agent orchestration) and emerging 2026 trends, servi
+- **Comprehensive AI Agent Resource**: Curated list of 300+ AI agents, frameworks, and tools, spanning 20+ categories, with monthly updates.
+- **Technical Breadth**: Covers key AI domains including LLMs, LangChain, ChatGPT, and machine learning, targeting 2026 advancements.
+- **Active Maintenance**: Last updated July 3, 2026, ensuring relevance with high community engagement (1,378 stars, 446 forks).
 
 ## Use Cases
 

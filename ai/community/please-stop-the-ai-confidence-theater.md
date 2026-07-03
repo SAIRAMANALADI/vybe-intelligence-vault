@@ -13,13 +13,14 @@ collected_at: '2026-07-03T20:03:17.497273+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:please-stop-the-ai-confidence-theater
 first_seen: '2026-07-03T20:03:17.497273+05:30'
 last_seen: '2026-07-03T20:03:17.497273+05:30'
 last_checked: '2026-07-03T20:03:17.497273+05:30'
 health_score: 100
 ---
+
 
 # Please stop the AI confidence theater
 

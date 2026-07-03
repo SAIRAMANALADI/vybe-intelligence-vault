@@ -8,18 +8,16 @@ local_vault_path: ai/agents/ashishpatel26-500-ai-agents-projects.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: tool
 importance: medium
 tags:
 - agents
 - github-repo
 - hackernews
 - python
-- scripts
-- workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # ashishpatel26/500-AI-Agents-Projects
@@ -28,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `LLM App Templates`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: tool
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
 - **Curated AI Agent Use Cases**: Repository aggregates 500+ practical AI agent implementations across industries (healthcare, finance, education, retail) with open-source project links for hands-on deployment.
-
-- **Multi-Sector Technical Showcase**: Demonstrates GenAI and AI-agent applications via Python-based projects, highlighting cross-domain automation, decision-making, and workflow optimization.
-
-- **Active Maintenance & Community Engagement**: Last updated July 2026; sustains high communi
+- **Technical Stack & Maintenance**: Entirely Python-based, last updated July 2026, with 33.5K+ stars and 5.9K+ forks, indicating active community engagement and maintenance.
+- **GenAI & AI-Agent Focus**: Specifically targets generative AI and autonomous agent applications, providing a st
 
 ## Use Cases
 

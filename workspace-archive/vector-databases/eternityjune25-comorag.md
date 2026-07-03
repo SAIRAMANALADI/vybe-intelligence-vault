@@ -8,14 +8,15 @@ local_vault_path: ai/rag/eternityjune25-comorag.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - github-repo
 - python
 - rag
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # EternityJune25/ComoRAG
@@ -24,17 +25,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Cognitive Architecture Integration**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long-form narrative reasoning with structured memory retrieval and dynamic context management.
+- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) system (`ComoRAG`) that mimics human-like memory structures for stateful long narrative reasoning, leveraging cognitive psychology principles.
 
-- **Stateful Reasoning Mechanism**: Implements a hierarchical memory system that maintains temporal and relational coherence across extended dialogues or narratives, leveraging episodic and semantic memory modules for coherent multi-turn reasoning.
+- **Stateful Long-Context Handling**: Implements a hierarchical memory system to maintain context consistency across extended dialogues or narratives, enabling coherent multi-turn reasoning without catastrophic forgetting.
 
-- **AAAI 20
+- **AAAI 2026 Poster Submi
 
 ## Use Cases
 

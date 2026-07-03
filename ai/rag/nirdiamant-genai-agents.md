@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/GenAI_Agents
-collected_at: '2026-07-03T20:06:00.337181+05:30'
+collected_at: '2026-07-03T22:19:17.649413+05:30'
 published_at: '2026-07-03T13:04:29Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-09-09T20:10:19Z'
 pushed_at: '2026-06-17T20:54:15Z'
 resource_id: github:nirdiamant/genai_agents
-first_seen: '2026-07-03T20:06:00.337181+05:30'
-last_seen: '2026-07-03T20:06:00.337181+05:30'
-last_checked: '2026-07-03T20:06:00.337181+05:30'
+first_seen: '2026-07-03T22:19:17.649413+05:30'
+last_seen: '2026-07-03T22:19:17.649413+05:30'
+last_checked: '2026-07-03T22:19:17.649413+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Resource**: Repository containing **50+ tutorials and implementations** for Generative AI Agent techniques, ranging from **basic conversational bots** to **complex multi-agent systems**.
-- **Technical Stack**: Primarily implemented in **Jupyter Notebooks** with support for **LangChain, LangGraph, MCP, OpenAI, and RAG** frameworks, leveraging **Python** and **LLMs**.
-- **Active Development**: Last updated **July 3, 2026**, with **22,982 stars** and **3,860 forks**, indicating strong community engagement and ongoing contributions.
+- **Comprehensive Resource**: Repository containing **50+ tutorials and implementations** for Generative AI Agent techniques, spanning from basic conversational bots to **complex multi-agent systems**.
+
+- **Technical Stack**: Primarily implemented in **Jupyter Notebooks** using frameworks like **LangChain, LangGraph, and MCP**, with integrations for **LLMs (e.g., OpenAI), RAG, and Python-based AI agent architectures**.
+
+- **High Activity & Relevance**: Last updated **July 3, 2026**, with **22,982 stars** and **3,860 forks**, indicating strong community engagement and relevance in **agentic AI, autonomous agents, and multi-agent systems**.
 
 ## Why It Matters
 

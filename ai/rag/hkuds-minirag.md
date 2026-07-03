@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-07-03T20:04:35.319884+05:30'
-published_at: '2026-07-03T03:22:53Z'
+collected_at: '2026-07-03T22:17:52.582475+05:30'
+published_at: '2026-07-03T16:17:41Z'
 tags:
+- benchmark
 - github-repo
-- hackernews
+- meta-ai
+- models
 - python
 - rag
-- workflows
-stars: 1966
+stars: 1965
 language: Python
 status: active
 license: MIT
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-07-03T20:04:35.319884+05:30'
-last_seen: '2026-07-03T20:04:35.319884+05:30'
-last_checked: '2026-07-03T20:04:35.319884+05:30'
+first_seen: '2026-07-03T22:17:52.582475+05:30'
+last_seen: '2026-07-03T22:17:52.582475+05:30'
+last_checked: '2026-07-03T22:17:52.582475+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance.
+- **Miniaturized RAG Pipeline**: Introduces a simplified RAG framework leveraging small (<=1B parameters) open-sourced language models (e.g., TinyLlama, Phi-2) to reduce computational overhead while maintaining competitive performance on retrieval and generation tasks.
 
-- **Technical Innovation**: Proposes lightweight retrieval and generation mechanisms optimized for efficiency, enabling deployment on resource-constrained hardware without sacrificing accuracy.
+- **Modular Design**: Implements a plug-and-play architecture with decoupled retrieval (e.g., BM25, DPR) and generation components, enabling flexible integration with various small-scale models and retrieval methods.
 
-- **Open-Source Implementation**: Provides a Python-based repository with modular components for customization, supporting rapid integration into existing NLP workflows.
+- **Efficiency Optimizations**: Achieves state-of-the-art results on benchmarks (e.g., NQ, TriviaQA) with minimal resource requirements (~1 GPU-hour for fine-tuning), contrasting traditional RAG systems that rely on larger models (e.g., 7B+ parameters).
 
 ## Why It Matters
 
@@ -43,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 1966
+- Stars: 1965
 - Forks: 253
 - Language: Python
 - Topics: large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-07-03T03:22:53Z
+- Last Updated: 2026-07-03T16:17:41Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-11T13:24:14Z

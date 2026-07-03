@@ -14,6 +14,7 @@ tags:
 - github-repo
 - rag
 - unknown
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `techwithtim/Langflow-RAG-Tutorial`
-- **Last Updated**: July 3, 2026
-- **Metrics**: 96 stars, 25 forks, language unspecified, no topics listed
+- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (96 ⭐, 25 🍴) – No description, topics, or language metadata provided.
+- **Last Update**: 2026-07-03T04:57:47Z – Indicates future-dated commit (potential placeholder or error).
+- **Content**: Likely a tutorial repository for **Langflow** (RAG workflows), though specifics are unverified due to missing metadata.
 
 ## Use Cases
 

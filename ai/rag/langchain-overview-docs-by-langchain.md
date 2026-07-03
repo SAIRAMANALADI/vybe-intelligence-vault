@@ -3,12 +3,13 @@ title: LangChain overview - Docs by LangChain
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://python.langchain.com/docs/concepts/text_splitters/
-published_at: '2026-07-03T15:11:58.047987+05:30'
-collected_at: '2026-07-03T15:11:58.048000+05:30'
+source_url: https://js.langchain.com
+published_at: '2026-07-03T22:20:38.487672+05:30'
+collected_at: '2026-07-03T22:20:38.487686+05:30'
 tags:
 - agents
 - anthropic
+- benchmark
 - meta-ai
 - models
 - openai
@@ -17,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langchain-overview-docs-by-langchain
-first_seen: '2026-07-03T15:11:58.048000+05:30'
-last_seen: '2026-07-03T15:11:58.048000+05:30'
-last_checked: '2026-07-03T15:11:58.048000+05:30'
+first_seen: '2026-07-03T22:20:38.487686+05:30'
+last_seen: '2026-07-03T22:20:38.487686+05:30'
+last_checked: '2026-07-03T22:20:38.487686+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agent Composition**: LangChain's `create_agent` provides a minimal, modular harness combining model, tools, prompt, and middleware, enabling custom agent construction for specific use cases with support for multiple providers (OpenAI, Anthropic, Google, etc.).
+- **Agent Harness Architecture**: `create_agent` provides a minimal, modular harness for composing agents from model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
 
-- **Harness Architecture**: Agents are built atop LangGraph, inheriting durable execution, persistence, and human-in-the-loop capabilities, while offering incremental configurability via middleware for guardrails, retries, routing, and tool policies.
+- **Multi-Framework Integration**: LangChain agents are built on LangGraph, enabling durable execution, human-in-the-loop support, and persistence, while LangSmith offers observability for debugging and evaluation.
 
-- **Observability & Debugging**: LangSmith integrates for tracing, debugging, and evaluating agent behavior, capturing execution data (traces, tool calls, state transitions) to identify failure modes and improve performance.
+- **Standardized Model Interface**: Unified interface for chat models and embeddings across providers, with `create_agent` enabling incremental customization via middleware for guardrails, retries, and routing.
 
 ## Why It Matters
 
@@ -41,12 +42,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T15:11:58.047987+05:30
+- Published: 2026-07-03T22:20:38.487672+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
+- benchmark
 - meta-ai
 - models
 - openai
@@ -56,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://python.langchain.com/docs/concepts/text_splitters/
+Original source: https://js.langchain.com

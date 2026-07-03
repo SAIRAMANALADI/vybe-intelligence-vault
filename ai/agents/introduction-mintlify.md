@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://mintlify.com/docs
-published_at: '2026-06-23T01:22:53.979098+05:30'
-collected_at: '2026-06-23T01:22:53.979110+05:30'
+published_at: '2026-07-03T22:28:24.090362+05:30'
+collected_at: '2026-07-03T22:28:24.090379+05:30'
 tags:
 - agents
 - frontend_ui
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:introduction-mintlify
-first_seen: '2026-06-23T01:22:53.979110+05:30'
-last_seen: '2026-06-23T01:22:53.979110+05:30'
-last_checked: '2026-06-23T01:22:53.979110+05:30'
+first_seen: '2026-07-03T22:28:24.090379+05:30'
+last_seen: '2026-07-03T22:28:24.090379+05:30'
+last_checked: '2026-07-03T22:28:24.090379+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **AI-native documentation platform** with structured navigation, customizable themes, and React component support for dynamic content rendering.
+- **AI-native documentation platform** with features like `llms.txt` for LLM discovery, `skill.md` for contextual AI assistance, and Model Context Protocol (MCP) integration for enhanced search and automation.
 
-- **API documentation features** including OpenAPI/AsyncAPI integration, SDK example management, and multi-response handling via MDX setup.
+- **Comprehensive API documentation tools** including OpenAPI/AsyncAPI support, SDK example integration, complex data type handling, and manual API page creation via MDX.
 
-- **Deployment & optimization tools** supporting GitHub/GitLab CI, Vercel proxies, SEO, analytics, and AI-driven search via `llms.txt` and Model Context Protocol (MCP).
+- **Advanced deployment and optimization** options such as monorepo/multi-repo setups, GitHub/GitLab CI/CD integration, authentication, SEO, and multi-format exports (Markdown, PDF).
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-23T01:22:53.979098+05:30
+- Published: 2026-07-03T22:28:24.090362+05:30
 
 ## Related Tags
 

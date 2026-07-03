@@ -6,18 +6,18 @@ source_url: https://github.com/HKUDS/RAG-Anything
 resource_id: github:hkuds/rag-anything
 local_vault_path: ai/rag/hkuds-rag-anything.md
 quality_score: 70
-archive_score: 81
+archive_score: 75
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- dataset
 - github-repo
 - python
 - rag
 - workflows
 - youtube
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
@@ -26,19 +26,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Unified Multi-Modal RAG Framework**: Implements a single framework supporting text, image, audio, and video retrieval-augmented generation (RAG) with modular components for ingestion, retrieval, and generation.
+- **Multi-Modal RAG Integration**: Framework supports retrieval-augmented generation (RAG) across text, images, audio, and video modalities, enabling unified cross-modal retrieval and generation pipelines.
 
-- **Advanced Retrieval Mechanisms**: Integrates hybrid retrieval (dense + sparse) and cross-modal retrieval, leveraging state-of-the-art encoders (e.g., CLIP, BLIP) and vector databases (e.g., FAISS, Milvus) for efficient multi-modal indexing.
+- **Modular Architecture**: Implements a plug-and-play design with interchangeable retrievers (e.g., dense, sparse, hybrid) and generators (e.g., LLMs, diffusion models), facilitating customizable RAG workflows.
 
-- **Customizable Pipeline**: Provides c
+- **Optimized Pipeline Efficiency**: Incorporates dynamic chunking, adaptive ret
 
 ## Use Cases
 

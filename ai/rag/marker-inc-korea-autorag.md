@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-07-03T20:04:35.222982+05:30'
+collected_at: '2026-07-03T22:17:52.612319+05:30'
 published_at: '2026-07-02T18:18:02Z'
 tags:
 - benchmark
@@ -13,7 +13,6 @@ tags:
 - python
 - rag
 - scripts
-- workflows
 stars: 4853
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-07-02T03:46:39Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-07-03T20:04:35.222982+05:30'
-last_seen: '2026-07-03T20:04:35.222982+05:30'
-last_checked: '2026-07-03T20:04:35.222982+05:30'
+first_seen: '2026-07-03T22:17:52.612319+05:30'
+last_seen: '2026-07-03T22:17:52.612319+05:30'
+last_checked: '2026-07-03T22:17:52.612319+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style Automation for RAG**: AutoRAG provides an open-source framework for automated optimization and evaluation of Retrieval-Augmented Generation (RAG) pipelines, leveraging AutoML techniques to streamline hyperparameter tuning, component selection, and performance benchmarking.
+- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning and improving performance across metrics like answer correctness, context relevance, and latency.
 
-- **Comprehensive RAG Pipeline Toolkit**: Supports end-to-end RAG workflows including document parsing, embedding generation, retrieval, and LLM integration, with built-in evaluation metrics for QA tasks, embeddings, and LLM outputs.
+- **Comprehensive Pipeline Support**: The framework integrates document parsing, embedding generation, retrieval, and generation stages with built-in benchmarking tools, enabling end-to-end analysis and optimization of RAG systems for diverse tasks (e.g., QA, document retrieval).
 
-- **Benchmarking & Optimization**: Enables automated comparison of RAG configurations (e.g., retrievers, rerankers, prompt templates) via standardized benchmarks, with optimization driven by multi-objective criteria (e.g., latency, accuracy, cost).
+- **Open-Source Python Toolkit**: Built in Python, AutoRAG provides modular components (e.g., embeddings, evaluators) and supports customization for LLMs, retrieval methods, and evaluation criteria, with active community contributions and frequent updates.
 
 ## Why It Matters
 

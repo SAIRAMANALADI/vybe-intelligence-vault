@@ -29,9 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **Integration & Accessibility**: Medium’s "Listen" feature, powered by Speechify, enables Medium members to convert any article into audio (0.5x–4.5x speed) with synchronized text highlighting, enhancing accessibility for users with dyslexia, visual impairments, or those multitasking (e.g., commuting, exercising).
+- **Integration & Accessibility**: Medium’s partnership with Speechify enables members to convert any article into audio via a "Listen" button, supporting multi-modal consumption (text + audio) with highlighted text synchronization, enhancing accessibility for users with dyslexia or visual impairments.
 
-- **Productivity & Proofreading**: Users report consuming 3x more content via audio, while writers leverage the feature for proofreading drafts—detecting awkward phrasing or errors
+- **Performance & Utility**: Audio playback supports speed adjustments (0.5x–4.5x), with users reporting up to 3x more content consumption; writers leverage the feature for proofreading by identi
 
 ## Use Cases
 

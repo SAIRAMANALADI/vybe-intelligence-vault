@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-03T20:05:45.343559+05:30'
+collected_at: '2026-07-03T22:19:02.654033+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
 - github-repo
-- models
 - python
 - rag
 stars: 173
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-03T20:05:45.343559+05:30'
-last_seen: '2026-07-03T20:05:45.343559+05:30'
-last_checked: '2026-07-03T20:05:45.343559+05:30'
+first_seen: '2026-07-03T22:19:02.654033+05:30'
+last_seen: '2026-07-03T22:19:02.654033+05:30'
+last_checked: '2026-07-03T22:19:02.654033+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal RAG Framework**: Introduces a retrieval-augmented generation (RAG) system capable of handling diverse data modalities (text, images, tables, etc.) and granularities (documents, paragraphs, entities) via unified retrieval and generation mechanisms.
+- **Multimodal & Granular RAG Framework**: Introduces a retrieval-augmented generation (RAG) system capable of handling diverse data modalities (text, images, tables) and granularities (documents, paragraphs, entities) via a unified architecture.
 
-- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval module using modality-specific encoders and a shared embedding space, enabling joint retrieval across heterogeneous corpora without modality-specific fine-tuning.
+- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval mechanism leveraging modality-specific encoders (e.g., CLIP for vision, BERT for text) and a shared embedding space for joint indexing and retrieval.
 
-- **Adaptive Granularity Selection**: Dynamically adjusts retrieval granularity (e.g., document vs. sentence-level) based on query complexity and corpus structure, optimizing generation quality via a learned granularity selector.
+- **Dynamic Granularity Adaptation**: Employs a hierarchical retrieval strategy that dynamically adjusts granularity (coarse-to-fine) based on query complexity and context, optimizing both relevance and computational efficiency.
 
 ## Why It Matters
 

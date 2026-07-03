@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-07-03T15:07:32.955981+05:30'
-collected_at: '2026-07-03T15:07:32.955994+05:30'
+published_at: '2026-07-03T22:17:23.348531+05:30'
+collected_at: '2026-07-03T22:17:23.348548+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-07-03T15:07:32.955994+05:30'
-last_seen: '2026-07-03T15:07:32.955994+05:30'
-last_checked: '2026-07-03T15:07:32.955994+05:30'
+first_seen: '2026-07-03T22:17:23.348548+05:30'
+last_seen: '2026-07-03T22:17:23.348548+05:30'
+last_checked: '2026-07-03T22:17:23.348548+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings + vector DB) and generation (LLM) to enhance factual accuracy; LangChain simplifies pipeline implementation.
+- **RAG Pipeline Optimization**: Implements hybrid search (dense + sparse retrieval), query expansion, and chunking strategies to enhance retrieval quality and reduce latency in production systems.
 
-- **Production Optimizations**: Chunking strategies (semantic/recursive), embedding optimization (model selection, dimensionality reduction), and hybrid retrieval (dense + sparse) improve latency and relevance.
+- **Vector Database Integration**: Utilizes Supabase for scalable vector storage and retrieval, with advanced retrieval strategies (e.g., multi-modal RAG) for handling diverse data formats (PDFs, images).
 
-- **Scalability & Monitoring**: Caching (Redis), load balancing (multiple LLM instances), and observability (Sentry, latency metrics) ensure high availability and performance in cloud deployments (e.g., Cloudflare Workers).
+- **Production-Ready Deployment**: Includes caching, load balancing, and Cloudflare Workers for scaling, with monitoring via Sentry and token optimization for cost-performance trade-offs.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T15:07:32.955981+05:30
+- Published: 2026-07-03T22:17:23.348531+05:30
 
 ## Related Tags
 

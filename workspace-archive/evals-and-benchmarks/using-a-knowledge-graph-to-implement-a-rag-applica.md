@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **GraphRAG Architecture**: Combines vector search (semantic similarity) with graph search (structured relationships) using Neo4j and LangChain, enabling LLMs to generate more accurate, explainable, and scalable responses by integrating structured domain knowledge with unstructured text retrieval.
+- **GraphRAG Architecture**: Combines vector search (semantic similarity) with graph-based structured queries (Cypher/SPARQL) using Neo4j and LangChain, enabling explainable, scalable RAG systems that reason over both unstructured text and structured relationships.
 
-- **Core RAG Process**: Three-stage workflow—(1) **Retrieval** (embedding-based vector search + structured filtering), (2) **Augmentation** (combining retrieved data with user input into an augmented
+- **Core RAG Workflow**: Three-stage process—(1) **Retrieval**: Embed user query and fetch top-*k* relevant chunks from vector DB (e.g., Neo4j) via cosine similarity, (2) **Augmentation**: Construct augmented prompt by combining retr
 
 ## Use Cases
 

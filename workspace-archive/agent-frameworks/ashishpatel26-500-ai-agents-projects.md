@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated AI Agent Projects**: Repository containing 500+ open-source AI agent implementations across industries (healthcare, finance, education, retail) with practical use cases and implementation links.
-- **Technical Stack**: Primarily Python-based projects, categorized under AI agents and generative AI (GenAI) topics.
-- **Repository Metrics**: 33,533 stars, 5,918 forks, last updated July 3, 2026.
+- **Curated AI Agent Use Cases**: Repository aggregates 500+ practical AI agent implementations across industries (healthcare, finance, education, retail) with open-source project links for hands-on deployment.
+- **Technical Stack & Maintenance**: Entirely Python-based, last updated July 2026, with 33.5K+ stars and 5.9K+ forks, indicating active community engagement and maintenance.
+- **GenAI & AI-Agent Focus**: Specifically targets generative AI and autonomous agent applications, providing a st
 
 ## Use Cases
 

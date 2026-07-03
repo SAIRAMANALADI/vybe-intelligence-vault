@@ -6,7 +6,7 @@ source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
 resource_id: github:vstorm-co/full-stack-ai-agent-template
 local_vault_path: ai/rag/vstorm-co-full-stack-ai-agent-template.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
 resource_kind: template
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Tech Stack**: Full-stack template integrating FastAPI (backend) with Next.js (frontend), PostgreSQL (database), and Docker (containerization), supporting AI agents via CrewAI, LangChain, LangGraph, and Pydantic-AI/Pydantic-Deep.
+- **Full-stack AI app generator** with FastAPI backend and Next.js frontend, pre-configured with AI Agents, RAG, streaming, authentication, and **20+ integrations** (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI).
 
-- **Key Features**: Pre-configured with RAG (Retrieval-Augmented Generation), real-time streaming (WebSocket), authentication, and 20+ third-party integrations (e.g., LLM APIs, vector DBs).
+- **Tech stack**: Python (FastAPI), TypeScript (Next.js/React), PostgreSQL, Docker; supports **LLM integration**, WebSocket streaming, and structured validation via Pydantic.
 
-- **Architecture**: Modular design with Pydantic models for data validation
+- **Out-of-the-box features**: Multi-agent orchestration, RAG pipelines, auth (JWT/OAuth), and pre-built co
 
 ## Use Cases
 

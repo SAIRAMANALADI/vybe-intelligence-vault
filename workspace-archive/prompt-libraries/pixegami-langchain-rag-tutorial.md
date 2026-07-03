@@ -14,6 +14,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -32,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **LangChain-based RAG pipeline**: Implements a Retrieval-Augmented Generation (RAG) system using LangChain, integrating document retrieval with LLM-based text generation.
-- **Python implementation**: Built with Python, leveraging LangChain’s modular components (e.g., document loaders, embeddings, vector stores, and LLMs).
-- **Tutorial structure**: Designed as an educational repository, demonstrating core RAG concepts (e.g., chunking, embedding, retrieval, and prompt engineering) with minimal d
+- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced response generation.
+
+- **Python-Based Architecture**: Utilizes Python with LangChain’s modular components (e.g., `Retriever`, `LLMChain`) to construct a RAG workflow, likely leveraging vector stores (e.g., FAISS, Chroma) for document indexing.
+
+- **Tutorial Focus**: Provides a step-by-step guide for building a R
 
 ## Use Cases
 

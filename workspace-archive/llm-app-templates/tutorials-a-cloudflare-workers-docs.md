@@ -13,11 +13,11 @@ importance: medium
 tags:
 - agents
 - frontend_ui
-- models
 - openai
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Tutorials** cover diverse Cloudflare Workers use cases, including AI integration (e.g., RAG, image generation), database interactions (D1, PostgreSQL, MySQL), and migration guides (Netlify/Vercel to Workers).
-- **Beginner-friendly** tutorials include deploying Express.js apps, building Slackbots, and setting up Workers KV with Rust, while **intermediate/advanced** topics involve fine-tuning AI models, web crawlers with Queues, and real-time chat applications.
-- **AI/ML-focused** tutorials le
+- **Cloudflare Workers Tutorials**: Provides step-by-step guides for deploying applications, integrating databases (D1, PostgreSQL, MySQL, Turso), and leveraging AI models (Workers AI) with R2 storage for tasks like image generation and RAG pipelines.
+
+- **Migration & Integration Guides**: Includes tutorials for migrating from platforms like Netlify/Vercel, integrating with external APIs (rate limiting, Slackbot), and using Workers KV with Rust for edge data handling.
+
+- **Advanced Use Cases**:
 
 ## Use Cases
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/vndee-local-assistant-examples.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: workflow
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
@@ -16,6 +16,7 @@ tags:
 - models
 - python
 - rag
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -26,15 +27,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: workflow
+- Resource kind: benchmark
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Purpose**: Demonstrates building a local ChatPDF application using Python, leveraging LangChain, LLMs, and RAG for document interaction.
-- **Key Components**: Integrates Ollama for local LLM inference and LangChain for RAG pipeline implementation.
-- **Deployment**: Designed for local execution, avoiding cloud dependencies; last updated June 2026.
+- **Purpose**: Demonstrates building a local ChatPDF application using Python, leveraging LangChain, LLMs, Ollama, and RAG (Retrieval-Augmented Generation) for document interaction.
+- **Key Components**: Integrates LangChain for workflow orchestration, Ollama for local LLM inference, and RAG for document retrieval and context-aware responses.
+- **Local Execution**: Designed to run entirely offline, enabling privacy-focused document processing without cloud dependencies.
 
 ## Use Cases
 

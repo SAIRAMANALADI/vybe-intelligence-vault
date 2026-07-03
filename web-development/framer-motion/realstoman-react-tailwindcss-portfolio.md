@@ -4,19 +4,19 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/realstoman/react-tailwindcss-portfolio
-collected_at: '2026-06-15T12:42:31.615136+00:00'
-published_at: '2026-06-08T11:48:54Z'
+collected_at: '2026-07-03T22:16:36.049878+05:30'
+published_at: '2026-07-03T15:49:42Z'
 tags:
 - animation
 - creative_dev
 - frontend_ui
-stars: 286
+stars: 287
 language: JavaScript
 status: active
 resource_id: github:realstoman/react-tailwindcss-portfolio
 first_seen: '2026-06-15T12:42:31.615136+00:00'
-last_seen: '2026-06-15T12:42:31.615136+00:00'
-last_checked: '2026-06-15T12:42:31.615136+00:00'
+last_seen: '2026-07-03T22:16:36.049878+05:30'
+last_checked: '2026-07-03T22:16:36.049878+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 ## Repository Details
 
 - Owner: realstoman
-- Stars: 286
+- Stars: 287
 - Forks: 131
 - Language: JavaScript
 - Topics: components, context-api, dark-mode, dark-theme, framer-motion, javascript, js, react, react-hooks, react-router, reactjs, starter-template, tailwind-css, tailwindcss, ui, website
-- Last Updated: 2026-06-08T11:48:54Z
+- Last Updated: 2026-07-03T15:49:42Z
 
 ## Possible Use Cases
 

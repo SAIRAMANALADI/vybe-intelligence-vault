@@ -8,12 +8,13 @@ local_vault_path: ai/rag/pixegami-langchain-rag-tutorial.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -25,14 +26,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-*   Implements a Retrieval-Augmented Generation (RAG) system leveraging the Lang
+- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced response generation.
+
+- **Python-Based Architecture**: Utilizes Python with LangChain’s modular components (e.g., `Retriever`, `LLMChain`) to construct a RAG workflow, likely leveraging vector stores (e.g., FAISS, Chroma) for document indexing.
+
+- **Tutorial Focus**: Provides a step-by-step guide for building a R
 
 ## Use Cases
 

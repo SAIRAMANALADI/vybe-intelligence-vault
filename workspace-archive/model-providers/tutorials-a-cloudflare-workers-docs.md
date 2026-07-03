@@ -8,7 +8,7 @@ local_vault_path: ai/rag/tutorials-a-cloudflare-workers-docs.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Tutorials Â· Cloudflare Workers docs
@@ -30,16 +30,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- Cloudflare Workers tutorials cover integration with databases (D1, PostgreSQL, MySQL, Turso), AI/ML (Workers AI, RAG, BigQuery), and third-party services (Slack, Postmark, Resend, Twilio, Airtable).
-- Tutorials span beginner to advanced difficulty, including migrations (Netlify/Vercel to Workers), real-time apps (chat), and AI-driven workflows (image generation, PDF summarization).
-- Supports serverless architectures with event-driven patterns (Queues, R2 event notifications) and framework-spe
+- **Cloudflare Workers Tutorials**: Provides step-by-step guides for deploying applications, integrating databases (D1, PostgreSQL, MySQL, Turso), and leveraging AI models (Workers AI) with R2 storage for tasks like image generation and RAG pipelines.
+
+- **Migration & Integration Guides**: Includes tutorials for migrating from platforms like Netlify/Vercel, integrating with external APIs (rate limiting, Slackbot), and using Workers KV with Rust for edge data handling.
+
+- **Advanced Use Cases**:
 
 ## Use Cases
 

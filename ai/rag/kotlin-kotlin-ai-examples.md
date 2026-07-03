@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Kotlin/Kotlin-AI-Examples
-collected_at: '2026-07-02T04:14:26.419241+05:30'
-published_at: '2026-07-01T13:56:04Z'
+collected_at: '2026-07-03T22:19:47.677331+05:30'
+published_at: '2026-07-02T02:19:59Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - jupyter notebook
 - openai
 - rag
-stars: 264
+stars: 265
 language: Jupyter Notebook
 status: active
 license: Apache-2.0
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-03T23:36:12Z'
 pushed_at: '2026-07-01T13:55:55Z'
 resource_id: github:kotlin/kotlin-ai-examples
-first_seen: '2026-07-02T04:14:26.419241+05:30'
-last_seen: '2026-07-02T04:14:26.419241+05:30'
-last_checked: '2026-07-02T04:14:26.419241+05:30'
+first_seen: '2026-07-03T22:19:47.677331+05:30'
+last_seen: '2026-07-03T22:19:47.677331+05:30'
+last_checked: '2026-07-03T22:19:47.677331+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Kotlin/Kotlin-AI-Examples provides Kotlin-based implementations of AI frameworks (e.g., Spring AI, LangChain4j) with Jupyter Notebooks for interactive learning and experimentation.
-- **Technical Scope**: Focuses on AI agents, inference, and integration with OpenAI, leveraging Kotlin for backend logic and notebooks for demonstration.
-- **Metadata**: 264 stars, 32 forks, last updated July 2026; topics include `agents`, `ai`, `kotlin`, and `langchain`.
+- **Repository Overview**: Kotlin-based repository showcasing AI integration examples using frameworks like Spring AI and LangChain4j, with interactive Kotlin notebooks for practical learning.
+
+- **Technical Stack**: Focuses on AI inference, OpenAI integration, and agent-based systems, leveraging Kotlin for Jupyter Notebook environments.
+
+- **Metadata**: 265 stars, 32 forks, last updated July 2, 2026; categorized under AI, Kotlin, LangChain, and Spring-related topics.
 
 ## Why It Matters
 
@@ -42,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Kotlin
-- Stars: 264
+- Stars: 265
 - Forks: 32
 - Language: Jupyter Notebook
 - Topics: agents, ai, awesome, inference, kotlin, langchain, openai, spring
-- Last Updated: 2026-07-01T13:56:04Z
+- Last Updated: 2026-07-02T02:19:59Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-10-03T23:36:12Z

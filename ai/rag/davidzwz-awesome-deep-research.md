@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-07-03T20:05:45.343302+05:30'
+collected_at: '2026-07-03T22:19:02.647280+05:30'
 published_at: '2026-07-03T10:55:12Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-05-02T04:18:19Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-07-03T20:05:45.343302+05:30'
-last_seen: '2026-07-03T20:05:45.343302+05:30'
-last_checked: '2026-07-03T20:05:45.343302+05:30'
+first_seen: '2026-07-03T22:19:02.647280+05:30'
+last_seen: '2026-07-03T22:19:02.647280+05:30'
+last_checked: '2026-07-03T22:19:02.647280+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research systems, including agentic RAG, reasoning agents, and LLM-based search frameworks, with a focus on ACL 2026 KnowFM contributions.
-
-- **Technical Scope**: Encompasses topics such as multi-agent collaboration, advanced retrieval mechanisms, and reasoning optimization for deep research tasks in large language models.
-
-- **Active Maintenance**: Last updated July 2026, ensuring inclusion of recent advancements in agentic AI, deep research methodologies, and scalable search-agent architectures.
+- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on autonomous agents, reasoning models, and advanced RAG (Retrieval-Augmented Generation) systems for complex knowledge synthesis.
+- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026’s Knowledge Foundation Models (KnowFM) initiative, emphasizing multi-agent collaboration, long-form reasoning, and scalable deep research frameworks.
+- **Technical Scope**: Encompasses large language models (LLMs), search agents, reasoning agents, and hybrid architectures to enable autonomous literature review, hypothesis generation, and evidence-based synthesis.
 
 ## Why It Matters
 

@@ -6,12 +6,13 @@ source_url: https://github.com/SpeechifyInc
 resource_id: blog:speechify-github
 local_vault_path: ai/agents/speechify-github.md
 quality_score: 70
-archive_score: 85
-archive_tier: essential
+archive_score: 75
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
+- benchmark
 - dataset
 - reddit
 - web-crawled
@@ -24,18 +25,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
-- Quality score: 70 | Archive score: 85 (essential)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Meta-Voicebox**: First generative AI model for speech, enabling cross-task generalization with state-of-the-art performance, implemented in a public repository with 594 stars and 32 forks.
+- **Meta-Voicebox**: First generative AI model for speech, enabling cross-task generalization with state-of-the-art performance (GitHub: [SpeechifyInc/Meta-voicebox](https://github.com/SpeechifyInc/Meta-voicebox)).
 
-- **Speechify AI API SDKs**: Multi-language SDKs (TypeScript, Python) for Text-to-Speech and Voice Agents APIs, including official examples and agent-tracking tools (e.g., `speechify-api-sdk-typescript`, `speechify-api-sdk-python`).
+- **Speechify AI API SDKs**: Multi-language support (TypeScript, Python) for Text-to-Speech and Voice Agents APIs, including legacy and modern SDKs (e.g., [speechify-api-sdk-typescript](https://github.com/SpeechifyInc/speechify-api-sdk-typescript)).
 
-- **Toolchain for LLM Data Processing**: Open-source projects like `olmo
+- **Open-source toolkits**: Inclu
 
 ## Use Cases
 

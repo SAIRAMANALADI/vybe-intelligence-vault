@@ -18,13 +18,13 @@ Generative UI (like Vercel AI SDK) enables applications to dynamically render Re
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 7 resources matched in the intelligence vault.
+Active signals: 8 resources matched in the intelligence vault.
 Recently detected signals:
+- [LangSmith Observability - Docs by LangChain](../ai/rag/langsmith-observability-docs-by-langchain.md) (Source: Unknown Source) - Collected 2026-07-03
 - [vercel/ai](../ai/agents/vercel-ai.md) (Source: Unknown Source) - Collected 2026-07-03
+- [Azure-Samples/azure-openai-rag-workshop-template](../ai/rag/azure-samples-azure-openai-rag-workshop-template.md) (Source: Unknown Source) - Collected 2026-07-03
 - [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) (Source: Unknown Source) - Collected 2026-07-03
-- [vercel-labs/ai-sdk-preview-rag](../ai/rag/vercel-labs-ai-sdk-preview-rag.md) (Source: Unknown Source) - Collected 2026-07-03
 - [mayooear/ai-pdf-chatbot-langchain](../ai/rag/mayooear-ai-pdf-chatbot-langchain.md) (Source: Unknown Source) - Collected 2026-07-03
-- [Langfuse](../ai/rag/langfuse.md) (Source: Unknown Source) - Collected 2026-07-01
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -35,15 +35,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Tech Stack**: TypeScript-based AI PDF chatbot leveraging LangChain for LLM orchestration, LangGraph for agent workflows, and Next.js for the frontend; integrates OpenAI's models for NLP tasks.
 
-### 2. [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) ([GitHub](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial))
+### 2. [Azure-Samples/azure-openai-rag-workshop-template](../ai/rag/azure-samples-azure-openai-rag-workshop-template.md) ([GitHub](https://github.com/azure-samples/azure-openai-rag-workshop-template))
 - Stars: 0
 - Language: Unknown
-- Description: - Demonstrates streaming intermediate LlamaIndex RAG events via Server-Sent Events (SSE) to the Vercel AI SDK for real-time client-side processing.
+- Description: - **Purpose**: Provides a TypeScript-based template for building a Retrieval-Augmented Generation (RAG) chat application using Azure OpenAI services.
 
-### 3. [vercel-labs/ai-sdk-preview-rag](../ai/rag/vercel-labs-ai-sdk-preview-rag.md) ([GitHub](https://github.com/vercel-labs/ai-sdk-preview-rag))
+### 3. [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) ([GitHub](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial))
 - Stars: 0
 - Language: Unknown
-- Description: - **Purpose**: Provides a Retrieval-Augmented Generation (RAG) template using the Vercel AI SDK for Next.js applications.
+- Description: - **Event Streaming Architecture**: Demonstrates how to stream intermediate LlamaIndex RAG events (e.g., node parsing, retrieval, synthesis) to the Vercel AI SDK using Server-Sent Events (SSE) for ...
 
 ### 4. [mkrl/e0](../ai/agents/mkrl-e0.md) ([GitHub](https://github.com/mkrl/e0))
 - Stars: 0
@@ -53,7 +53,7 @@ Recently detected signals:
 ### 5. [vercel/ai](../ai/agents/vercel-ai.md) ([GitHub](https://github.com/vercel/ai))
 - Stars: 0
 - Language: Unknown
-- Description: - **AI SDK**: Open-source TypeScript library for building AI-powered applications and agents, developed by Vercel (creators of Next.js).
+- Description: - **AI SDK**: Open-source TypeScript library by Vercel for building AI-powered apps/agents, supporting models like Anthropic, Gemini, and OpenAI.
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -75,4 +75,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-03T20:18:55.160531+05:30.066459+05:30.108401+05:30.834345+05:30.844283+05:30.929795+05:30.309839+05:30.784709+05:30.389856+05:30.879024+05:30.370747+05:30.457801+05:30.930513+05:30.268100+05:30.701502+05:30.315952+05:30.059011+05:30.434982+05:30.193818+05:30.855099+05:30.224662+05:30.381883+05:30.614146+05:30.695517+05:30.025682+05:30.289605+05:30.801729+05:30.014434+05:30.036424+05:30.140720+05:30.763231+05:30.421523+05:30.147359+05:30.356850+05:30.813051+05:30.927833+05:30.892004+05:30.209126+05:30.431416+05:30.935209+05:30.440452+05:30.094858+05:30.102044+05:30.799308+05:30.251475+05:30.175854+05:30.620901+05:30.896639+05:30.833450+05:30.493410+05:30.773792+05:30.777101+05:30.877614+05:30.278204+05:30.412687+05:30.559839+05:30.229074+05:30.357938+05:30.727915+05:30.069958+05:30.066077+05:30.414434+05:30.363515+05:30.877755+05:30.810615+05:30.949333+05:30.426358+05:30.439688+05:30.506295+05:30.846557+05:30.365788+05:30.674019+05:30.493055+05:30.842993+05:30.484872+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-03T22:32:13.934789+05:30.160531+05:30.066459+05:30.108401+05:30.834345+05:30.844283+05:30.929795+05:30.309839+05:30.784709+05:30.389856+05:30.879024+05:30.370747+05:30.457801+05:30.930513+05:30.268100+05:30.701502+05:30.315952+05:30.059011+05:30.434982+05:30.193818+05:30.855099+05:30.224662+05:30.381883+05:30.614146+05:30.695517+05:30.025682+05:30.289605+05:30.801729+05:30.014434+05:30.036424+05:30.140720+05:30.763231+05:30.421523+05:30.147359+05:30.356850+05:30.813051+05:30.927833+05:30.892004+05:30.209126+05:30.431416+05:30.935209+05:30.440452+05:30.094858+05:30.102044+05:30.799308+05:30.251475+05:30.175854+05:30.620901+05:30.896639+05:30.833450+05:30.493410+05:30.773792+05:30.777101+05:30.877614+05:30.278204+05:30.412687+05:30.559839+05:30.229074+05:30.357938+05:30.727915+05:30.069958+05:30.066077+05:30.414434+05:30.363515+05:30.877755+05:30.810615+05:30.949333+05:30.426358+05:30.439688+05:30.506295+05:30.846557+05:30.365788+05:30.674019+05:30.493055+05:30.842993+05:30.484872+05:30.

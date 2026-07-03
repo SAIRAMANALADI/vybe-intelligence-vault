@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.cloudflare.com/
-published_at: '2026-07-03T15:14:19.539218+05:30'
-collected_at: '2026-07-03T15:14:19.539231+05:30'
+published_at: '2026-07-03T22:23:08.704221+05:30'
+collected_at: '2026-07-03T22:23:08.704236+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:cloudflare-developer-docs-cloudflare-docs
-first_seen: '2026-07-03T15:14:19.539231+05:30'
-last_seen: '2026-07-03T15:14:19.539231+05:30'
-last_checked: '2026-07-03T15:14:19.539231+05:30'
+first_seen: '2026-07-03T22:23:08.704236+05:30'
+last_seen: '2026-07-03T22:23:08.704236+05:30'
+last_checked: '2026-07-03T22:23:08.704236+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Serverless Compute & AI Integration**: Cloudflare enables deployment of serverless functions, full-stack apps, and AI inference globally via Workers, Containers, Durable Objects, and Workers AI with single-command workflows (e.g., `npm create cloudflare@latest my-app` or `npx wrangler ai models`), eliminating server management, cold starts, and GPU overhead.
+- **Serverless Compute & AI Integration**: Cloudflare enables global deployment of serverless functions, full-stack apps, and AI inference via Workers, Containers, Durable Objects, and Workers AI—eliminating cold starts, GPU management, and capacity planning with single-command workflows (`npm create cloudflare@latest my-app`, `npx wrangler ai models`).
 
-- **Global Data & Media Services**: Offers serverless SQL (D1), globally distributed key-value (KV), object storage (R2), and media pipelines (Images/Stream) with direct Worker integration, enabling instant, low-latency queries and media processing without connection management or infrastructure scaling.
+- **Unified Data & Storage Layer**: Provides globally distributed SQL (D1), key-value (KV), object storage (R2), and accelerated databases (Hyperdrive) with direct Worker integration, removing connection management overhead and enabling instant, low-latency queries worldwide (`npx wrangler d1 create my-database`).
 
-- **Security & Performance Stack**: Provides post-quantum encrypted tunnels (Cloudflare Tunnel), identity-first access (Access), WAF, and SWG (Gateway) with advanced features like hostname-based Mesh routing, AI traffic controls, and cache optimization via Vary headers, ensuring scalable security and performance.
+- **Security & Performance Stack**: Integrates WAF, Turnstile (CAPTCHA-free bot mitigation), quantum-safe tunnels (Cloudflare Tunnel), and a global CDN with caching, image optimization, and HTTP/3—optimizing both security (WAF, Access, Gateway) and performance (Smart Shield, Web Analytics) at scale.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T15:14:19.539218+05:30
+- Published: 2026-07-03T22:23:08.704221+05:30
 
 ## Related Tags
 

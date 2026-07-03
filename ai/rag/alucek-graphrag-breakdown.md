@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ALucek/GraphRAG-Breakdown
-collected_at: '2026-07-03T20:04:50.269510+05:30'
+collected_at: '2026-07-03T22:18:07.558800+05:30'
 published_at: '2026-06-24T01:50:50Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-12-20T10:35:56Z'
 pushed_at: '2024-12-20T10:38:46Z'
 resource_id: github:alucek/graphrag-breakdown
-first_seen: '2026-07-03T20:04:50.269510+05:30'
-last_seen: '2026-07-03T20:04:50.269510+05:30'
-last_checked: '2026-07-03T20:04:50.269510+05:30'
+first_seen: '2026-07-03T22:18:07.558800+05:30'
+last_seen: '2026-07-03T22:18:07.558800+05:30'
+last_checked: '2026-07-03T22:18:07.558800+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Knowledge Graph RAG Architecture**: Demonstrates a retrieval-augmented generation (RAG) pipeline enhanced with knowledge graphs, integrating structured data for improved context retrieval and generation.
-- **Visual & Code Examples**: Provides Jupyter Notebook-based diagrams and executable examples to illustrate graph-based RAG workflows, including graph construction, query processing, and response generation.
-- **Modular Implementation**: Includes modular components for entity extraction, graph construction, and retrieval strategies, enabling customization for domain-specific RAG applications.
+- **Knowledge Graph RAG Architecture**: Demonstrates a modular pipeline integrating knowledge graphs (KGs) with retrieval-augmented generation (RAG), emphasizing graph-based retrieval over traditional vector search for contextual grounding.
+
+- **Visual & Code Breakdown**: Provides Jupyter Notebook-based diagrams and executable examples to illustrate KG construction, query optimization, and RAG integration, including entity resolution and relationship extraction workflows.
+
+- **Performance & Use Cases**: Highlights practical applications (e.g., QA over structured data) and discusses trade-offs between KG complexity, retrieval latency, and generation quality in hybrid RAG systems.
 
 ## Why It Matters
 

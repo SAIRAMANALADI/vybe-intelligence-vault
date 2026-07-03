@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-03T20:05:20.255913+05:30'
+collected_at: '2026-07-03T22:18:37.623505+05:30'
 published_at: '2026-06-30T11:39:04Z'
 tags:
 - benchmark
 - github-repo
-- meta-ai
-- models
+- hackernews
 - python
 - rag
 - reddit
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-03T20:05:20.255913+05:30'
-last_seen: '2026-07-03T20:05:20.255913+05:30'
-last_checked: '2026-07-03T20:05:20.255913+05:30'
+first_seen: '2026-07-03T22:18:37.623505+05:30'
+last_seen: '2026-07-03T22:18:37.623505+05:30'
+last_checked: '2026-07-03T22:18:37.623505+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating how adversaries can corrupt the knowledge base of RAG systems by injecting malicious documents into the retrieval corpus, leading to manipulated outputs without direct access to model parameters.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate incorrect or harmful outputs.
 
-- **Mechanism & Impact**: Details two attack modes—*knowledge corruption* (altering retrieved context) and *prompt injection* (bypassing safety filters)—showcasing how compromised RAG pipelines can produce incorrect, biased, or harmful responses while evading detection.
+- **Technical Implementation**: Leverages adversarial document poisoning to manipulate the retrieval process, exploiting vulnerabilities in embedding models and retrieval mechanisms to steer LLM responses toward attacker-defined targets.
 
-- **Evaluation & Mitigations**: Presents experimental results on multiple LLMs (e.g., Llama2, Vicuna) and proposes defense strategies, including retrieval sanitization and adversarial training, to mitigate poisoning risks in RAG architectures.
+- **Evaluation & Impact**: Validated on multiple RAG pipelines (e.g., dense retrieval + LLMs), showing high attack success rates while maintaining stealth, with implications for trustworthy AI and secure deployment of RAG systems.
 
 ## Why It Matters
 

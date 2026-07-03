@@ -26,35 +26,35 @@ This index groups resources by direct developer use-cases and design goals.
 ## Document Knowledge base & Search (RAG)
 
 - [neuml/txtai](https://github.com/neuml/txtai?source=post_page) (Category: `rag-systems` | [`Local File`](../../ai/rag/neuml-txtai.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `rag-systems` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page) (Category: `rag-systems` | [`Local File`](../../ai/rag/truefoundry-cognita.md))
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Category: `rag-systems` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
 - [neuml/txtai](https://github.com/neuml/txtai?source=post_page) (Category: `vector-databases` | [`Local File`](../../ai/rag/neuml-txtai.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `vector-databases` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (Category: `rag-systems` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Category: `rag-systems` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
 - [ansible-collections/google.cloud](https://github.com/ansible-collections/google.cloud) (Category: `rag-systems` | [`Local File`](../../ai/rag/ansible-collections-google-cloud.md))
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (Category: `rag-systems` | [`Local File`](../../ai/rag/decodingai-magazine-llm-twin-course.md))
 
 ## Model Selection, Inference & Cost Profiling
 
 - [Stainless · GitHub](https://github.com/stainless-api) (Category: `model-providers` | [`Local File`](../../ai/resources/stainless-github.md))
+- [langgenius/dify](https://github.com/langgenius/dify) (Category: `model-providers` | [`Local File`](../../ai/rag/langgenius-dify.md))
 - [Mem0 · GitHub](https://github.com/mem0ai) (Category: `model-providers` | [`Local File`](../../ai/rag/mem0-github.md))
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (Category: `model-providers` | [`Local File`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `observability` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Category: `observability` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Category: `model-providers` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
-- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Category: `model-providers` | [`Local File`](../../ai/rag/sylphxai-pdf-reader-mcp.md))
-- [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag) (Category: `model-providers` | [`Local File`](../../ai/rag/tomasonjo-kg-rag.md))
-- [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/) (Category: `model-providers` | [`Local File`](../../ai/rag/google-cloud-platform-github.md))
+- [ray-project/llm-applications](https://github.com/ray-project/llm-applications) (Category: `model-providers` | [`Local File`](../../ai/rag/ray-project-llm-applications.md))
 
 ## Production Auditing & Prompt Injection Protection
 
 - [Mem0 · GitHub](https://github.com/mem0ai) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/mem0-github.md))
-- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/graphrag-bench-graphrag-benchmark.md))
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [protobuf-go/proto at v1.36.11 · protocolbuffers/protobuf-go · GitHub](https://github.com/protocolbuffers/protobuf-go/tree/v1.36.11/proto) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/resources/protocolbuffers-protobuf-go.md))
 - [neuml/txtai](https://github.com/neuml/txtai?source=post_page) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/neuml-txtai.md))
+- [langgenius/dify](https://github.com/langgenius/dify) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/langgenius-dify.md))
+- [ray-project/llm-applications](https://github.com/ray-project/llm-applications) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/ray-project-llm-applications.md))
 - [tomasonjo (Tomaz Bratanic) · GitHub](https://github.com/tomasonjo/) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/tomasonjo-tomaz-bratanic-github.md))
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
-- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/truefoundry-cognita.md))
 
 ## Script Automations & External API Integration
 
@@ -91,6 +91,7 @@ This index groups resources by direct developer use-cases and design goals.
 
 ## Curriculums & Reference Projects
 
+- [github/roadmap](https://github.com/github/roadmap) (Category: `learning-paths` | [`Local File`](../../ai/resources/github-roadmap.md))
 - [DSA Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) (Category: `learning-paths` | [`Local File`](../../ai/resources/dsa-tutorial-geeksforgeeks.md))
 - [Get Started - The Go Programming Language](https://go.dev/learn) (Category: `learning-paths` | [`Local File`](../../ai/resources/get-started-the-go-programming-language.md))
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Category: `learning-paths` | [`Local File`](../../ai/rag/staircase-ai.md))
@@ -98,7 +99,6 @@ This index groups resources by direct developer use-cases and design goals.
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (Category: `learning-paths` | [`Local File`](../../ai/agents/bitbucket-atlassian-community.md))
 - [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (Category: `learning-paths` | [`Local File`](../../ai/research/arxiv-2507-16696.md))
 - [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560) (Category: `project-ideas` | [`Local File`](../../ai/rag/arxiv-2606-11560.md))
-- [DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving](https://arxiv.org/abs/2606.07001) (Category: `project-ideas` | [`Local File`](../../ai/rag/arxiv-2606-07001.md))
 
 ---
-*Last updated: 2026-07-03 20:20 IST*
+*Last updated: 2026-07-03 22:34 IST*

@@ -14,7 +14,9 @@ tags:
 - agents
 - benchmark
 - github-repo
+- leaderboard
 - python
+- scripts
 selection_reason:
 - Useful for project building
 ---
@@ -31,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: MLGym is a Python-based framework designed to standardize and advance AI research agents through modular, scalable, and reproducible experimentation pipelines.
+- **Framework & Benchmark**: MLGym introduces a modular Python framework for training and evaluating AI research agents, paired with a benchmark suite to standardize progress in autonomous research capabilities.
 
-- **Benchmark Suite**: Includes a comprehensive benchmarking system to evaluate AI agents across diverse tasks, enabling systematic comparison and performance tracking.
+- **Modular Design**: The framework supports customizable agent architectures, task environments, and evaluation metrics, enabling reproducible experimentation across diverse research scenarios.
 
-- **Modular Architecture**: Features a plug-and-play design with configurable components (e.g., agents, environments, tasks) to facilitate rapi
+- **Benchmark Suite**: Includes standardized tasks (e.g., hyperparameter optimization, neur
 
 ## Use Cases
 

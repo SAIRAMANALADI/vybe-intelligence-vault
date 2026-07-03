@@ -6,10 +6,10 @@ source_url: https://haystack.deepset.ai/cookbook
 resource_id: blog:cookbook-haystack
 local_vault_path: ai/rag/cookbook-haystack.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
-resource_kind: framework
-importance: high
+resource_kind: prompt
+importance: medium
 tags:
 - agents
 - anthropic
@@ -23,7 +23,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # 🧑‍🍳 Cookbook | Haystack
@@ -31,17 +31,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Haystack Cookbook** provides 71 technical recipes covering **agents, RAG, multimodal processing, vector databases, model serving, and advanced retrieval** with integrations like **OpenStreetMap, MCP, vLLM, Mem0, and Azure AI Search**.
-- **Key technical areas** include **agentic workflows (e.g., itinerary planning, GitHub PR creation), hybrid retrieval (BM42, HyDE), metadata enrichment, and multimodal QA** with tools like **Gemma, Llama 3.2, and fastRAG**.
-- **Experimental and production-read
+- **Haystack Cookbook** provides 71 technical recipes demonstrating integration of model providers, vector databases, retrieval techniques, and custom components (e.g., agents, RAG, multimodal, async pipelines) with Haystack.
+- **Key Focus Areas**: Advanced retrieval (HyDE, BM42, hybrid search), agentic workflows (MCP, function calling, memory), and multimodal/observability techniques (e.g., Mem0, Arize Phoenix, vLLM).
+- **Experimental & Production Use Cases**: Includes experimental setups (e.g.
 
 ## Use Cases
 

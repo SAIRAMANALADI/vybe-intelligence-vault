@@ -13,19 +13,19 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `91` | **Path**: [`stainless-github.md`](../../ai/resources/stainless-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Mem0 · GitHub](https://github.com/mem0ai)
-- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`mem0-github.md`](../../ai/rag/mem0-github.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Mem0 · GitHub](https://github.com/mem0ai)
-- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`mem0-github.md`](../../ai/rag/mem0-github.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
+### [langgenius/dify](https://github.com/langgenius/dify)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`graphrag-bench-graphrag-benchmark.md`](../../ai/rag/graphrag-bench-graphrag-benchmark.md)
+- **Score**: `89` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [Mem0 · GitHub](https://github.com/mem0ai)
+- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`mem0-github.md`](../../ai/rag/mem0-github.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [Mem0 · GitHub](https://github.com/mem0ai)
+- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`mem0-github.md`](../../ai/rag/mem0-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack)
@@ -41,6 +41,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
 - **Category**: `ai/resources` | **Kind**: `API` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`llamasearchai-openagi-customization.md`](../../ai/resources/llamasearchai-openagi-customization.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [ray-project/llm-applications](https://github.com/ray-project/llm-applications)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`ray-project-llm-applications.md`](../../ai/rag/ray-project-llm-applications.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
@@ -63,11 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`yonatangross-orchestkit.md`](../../ai/rag/yonatangross-orchestkit.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`transitive-bullshit-agentic.md`](../../ai/agents/transitive-bullshit-agentic.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 
 ## Recommended Learning Path
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-03 20:20 IST*
+*Last updated: 2026-07-03 22:34 IST*
