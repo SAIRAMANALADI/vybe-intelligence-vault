@@ -12,12 +12,9 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
-- hackernews
 - rag
 - web-crawled
 - workflows
-- youtube
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Framework**: Haystack provides an open-source, extensible framework for building custom AI pipelines (RAG, agents, IDP, search) with full control over models, tools, and infrastructure, enabling transparent, adaptable deployments across cloud, VPC, on-premise, or air-gapped environments.
+- **Open, modular AI framework**: Haystack provides an open-source, modular architecture enabling customization of agent primitives (tools, memory, retrievers, pipelines) without proprietary lock-in, supporting transparent, auditable AI development.
 
-- **Enterprise-Grade RAG & Agents**: Supports high-precision retrieval-augmented generation (RAG) with hybrid search, multimodal inputs, and deterministic orchestration, while enabling multi-step
+- **Sovereign deployment & governance**: Supports self-hosted or cloud deployments with built-in RBAC, audit logs, and data lineage, ensuring full control over infrastructure, data, and compliance posture.
+
+- **Context-engineered agents**: Enables e
 
 ## Use Cases
 

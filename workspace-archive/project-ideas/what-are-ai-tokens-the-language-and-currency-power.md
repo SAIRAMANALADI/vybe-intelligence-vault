@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: dataset
 importance: medium
 tags:
+- agents
 - anthropic
 - benchmark
 - dataset
@@ -37,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Tokenization Process**: AI models convert raw data (text, images, audio, etc.) into discrete tokens via tokenization, where words/phrases are split into subword units (e.g., "darkness" → ["dark", "ness"]) for numerical representation, enabling efficient processing and semantic learning.
+- **Tokenization Process**: AI models convert input data (text, images, audio) into discrete tokens via tokenization, where words/phrases are split into numerical representations (e.g., "dark"=217, "ness"=655), enabling structured processing and contextual understanding.
 
-- **Token Utilization in AI Workflows**: Tokens drive both training (billions/trillions of tokens for pretraining/post-training) and inference (context windows of thousands to millions of tokens), with reaso
+- **Token Economics in AI Workloads**: Token processing drives cost/revenue in AI systems; pretraining scales with token volume (scaling laws), while inference costs are optimized via context windows (e.g., 1M+ tokens for long-
 
 ## Use Cases
 

@@ -15,6 +15,7 @@ tags:
 - benchmark
 - meta-ai
 - models
+- paper
 - rag
 - scripts
 - web-crawled
@@ -37,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Field-level confidence scoring**: Provides granular, per-field extraction confidence metrics to quantify certainty in extracted data points.
+- **Field-level confidence scoring**: Quantifies extraction certainty per field, enabling reliability assessment of structured data extraction from documents.
 
-- **Layout + context-aware parsing**: Uses advanced reasoning to accurately extract structured data from complex document layouts, including nested tables and spatial relationships.
+- **Layout + context-aware parsing**: Uses advanced reasoning to accurately extract multi-field data (names, dates, numbers, decisions) from complex document layouts, including nested tables and spatial structures.
 
-- **Iterative schema development & granular control**: Supports custom schema definition or auto-detection of fields, with configurable parsing modes to balance cost and a
+- **Iterative schema development & granular control**: Supports custom schema definition or auto-detection, with configurabl
 
 ## Use Cases
 

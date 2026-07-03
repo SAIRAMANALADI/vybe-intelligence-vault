@@ -8,7 +8,7 @@ local_vault_path: ai/rag/prompt-engineering-openai-api.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -22,7 +22,7 @@ tags:
 - reddit
 - web-crawled
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Prompt engineering | OpenAI API
@@ -31,15 +31,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **API Integration**: OpenAI's Responses API and Chat Completions API allow text generation via structured prompts, supporting outputs like code, JSON, or prose, with SDKs available in multiple languages (JavaScript, Python, Go, Ruby, Java, C#) and direct HTTP requests.
-
-- **Structured Outputs & Model Selection**: Models can return structured JSON data via Structured Outputs; choice of model (e.g., `gpt-5.5`, reasoning models, or smaller variants) impacts speed, cost, and task complexity handli
+- The OpenAI API supports text generation via the `Responses` and `Chat Completions` endpoints, with structured outputs for JSON responses and non-deterministic content generation.
+- Model selection (`gpt-5.5`, reasoning models, or smaller variants) impacts speed, cost, and reasoning capability, with snapshots recommended for production stability.
+- Prompt engineering leverages `instructions` and message roles (`developer`, `user`, `assistant`) to enforce task-specific behavior, while structured
 
 ## Use Cases
 

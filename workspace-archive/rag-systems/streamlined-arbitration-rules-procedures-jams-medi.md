@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Scope & Applicability**: JAMS Streamlined Arbitration Rules (effective June 1, 2021) govern binding arbitrations administered by JAMS where parties agree to use these rules or claims do not exceed $250,000 (excluding interest/attorney fees). JAMS National Arbitration Committee (NAC) or designees oversee administration, with authority to assign cases to Resolution Centers.
+- **Scope & Applicability**: Rules govern JAMS-administered arbitrations where parties agree to use them or claims ≤$250K (excl. interest/fees); JAMS NAC or General Counsel oversees administration, with authority to assign cases to Resolution Centers.
 
-- **Commencement & Service**: Arbitration commences upon JAMS issuing a Commencement Letter after verifying agreement te
+- **Commencement & Service**: Arbitration deemed commenced upon JAMS issuing Commencement Letter after meeting criteria (e.g., executed agreement, court order); service/e-filing governed by strict timelines, holiday extensions, and JAMS Electronic
 
 ## Use Cases
 

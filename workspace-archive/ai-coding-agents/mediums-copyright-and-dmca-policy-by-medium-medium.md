@@ -29,9 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **DMCA Compliance Requirements**: Medium adheres to Section 512 of the DMCA, requiring formal copyright infringement reports to include a signature, identification of the copyrighted work, infringing material location, contact details, good-faith belief statement, and accuracy certification under penalty of perjury.
+- **DMCA Compliance Requirements**: Notices must include a signature, identification of the copyrighted work, infringing material location, contact details, a good-faith infringement belief statement, and accuracy certification under penalty of perjury; submitted via `copyright@medium.com` or physical mail to Medium’s designated agent.
 
-- **Processing & Enforcement**: Medium processes claims in order received, may remove/restrict infringing content, notifies affected users, forwards complaints to the Lumen databa
+- **Processing & Penalties**: Medium processes claims in order received, removes infringing content upon valid notice, and may suspend or terminate repeat violat
 
 ## Use Cases
 

@@ -18,6 +18,7 @@ tags:
 - openai
 - python
 - reddit
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`daveebbelaar/ai-cookbook`) providing practical examples and tutorials for building AI systems, with 4,275 stars and 1,507 forks.
-- **Technical Scope**: Focuses on AI development using Python, covering topics like agents, LLMs (OpenAI, Anthropic), and AI system architecture.
-- **Last Update**: Repository last updated on July 3, 2026, with active maintenance and updates.
+- **Repository Overview**: `ai-cookbook` is a Python-based repository providing practical examples and tutorials for building AI systems, with 4,274 stars and 1,508 forks.
+- **Technical Focus**: Covers agents, LLMs (OpenAI, Anthropic), and AI integration patterns with Python.
+- **Last Updated**: July 3, 2026, ensuring relevance for modern AI development workflows.
 
 ## Use Cases
 

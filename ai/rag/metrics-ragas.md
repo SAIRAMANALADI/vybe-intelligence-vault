@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.ragas.io/en/stable/concepts/metrics/
-published_at: '2026-07-03T15:11:52.862149+05:30'
-collected_at: '2026-07-03T15:11:52.862158+05:30'
+published_at: '2026-07-04T03:51:54.348509+05:30'
+collected_at: '2026-07-04T03:51:54.348519+05:30'
 tags:
 - benchmark
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:metrics-ragas
-first_seen: '2026-07-03T15:11:52.862158+05:30'
-last_seen: '2026-07-03T15:11:52.862158+05:30'
-last_checked: '2026-07-03T15:11:52.862158+05:30'
+first_seen: '2026-07-04T03:51:54.348519+05:30'
+last_seen: '2026-07-04T03:51:54.348519+05:30'
+last_checked: '2026-07-04T03:51:54.348519+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Metric Design Principles**: Ragas metrics follow a modular architecture emphasizing **faithfulness**, **answer relevance**, and **contextual precision** to evaluate RAG pipelines without ground truth, using LLM-based scoring functions.
+- **Ragas Metrics Framework**: Provides a structured approach to evaluating Retrieval-Augmented Generation (RAG) systems, emphasizing modularity and extensibility in metric design for performance assessment.
 
-- **Core Metrics**: Includes **Faithfulness** (measures hallucination via entailment checks), **Answer Relevance** (assesses alignment with input query), and **Context Precision** (evaluates retrieved context utility), all computed via probabilistic LLM judgments.
+- **Core Metrics**: Includes key evaluation dimensions such as **Faithfulness** (answer consistency with context), **Answer Relevance** (precision of response to query), and **Context Precision/Recall** (relevance and sufficiency of retrieved context).
 
-- **Implementation**: Metrics leverage **prompt-based LLM evaluations** with deterministic scoring (0-1 scale) and support customization via modular components for domain-specific adaptations.
+- **Implementation & Extensibility**: Metrics are implemented as Python classes with standardized interfaces, enabling custom metric integration while maintaining compatibility with Ragas' evaluation pipelines.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T15:11:52.862149+05:30
+- Published: 2026-07-04T03:51:54.348509+05:30
 
 ## Related Tags
 

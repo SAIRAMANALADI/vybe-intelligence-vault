@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://ambrook.com/offrange/perspective/how-we-lost-our-oats
 hn_url: https://news.ycombinator.com/item?id=48732870
-score: 59
+score: 77
 author: surprisetalk
-comments_count: 26
+comments_count: 43
 published_at: '2026-06-30T19:30:51+05:30'
-collected_at: '2026-07-04T01:20:42.942471+05:30'
+collected_at: '2026-07-04T03:47:46.116139+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:my-dad-helped-build-north-america-s-oat-supply-cha
 first_seen: '2026-07-03T22:16:38.098014+05:30'
-last_seen: '2026-07-04T01:20:42.942471+05:30'
-last_checked: '2026-07-04T01:20:42.942471+05:30'
+last_seen: '2026-07-04T03:47:46.116139+05:30'
+last_checked: '2026-07-04T03:47:46.116139+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by surprisetalk. Score: 59, Comments: 26.
+Hacker News story by surprisetalk. Score: 77, Comments: 43.
 Original Link: https://ambrook.com/offrange/perspective/how-we-lost-our-oats
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: surprisetalk
-- Score: 59 Upvotes
-- Comments: 26 Discussions
+- Score: 77 Upvotes
+- Comments: 43 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48732870
 - Original Article: https://ambrook.com/offrange/perspective/how-we-lost-our-oats
 

@@ -8,15 +8,16 @@ local_vault_path: ai/rag/run-payments-with-stripe-firebase-extensions-hub.md
 quality_score: 70
 archive_score: 80
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: high
 tags:
 - frontend_ui
+- hackernews
 - rag
 - reddit
 - web-crawled
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Run Payments with Stripe | Firebase Extensions Hub
@@ -25,17 +26,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 80 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Ownership Transfer**: Stripe has officially transferred the Firestore Stripe Payments extension to Invertase, with maintenance now handled by the latter ([issue #524](https://github.com/invertase/stripe-firebase-extensions/issues/524)).
+- **Ownership Transfer**: The Stripe Firestore extension has been officially transferred to Invertase for maintenance, with migration recommended from `stripe/firestore-stripe-payments` to `invertase/firestore-stripe-payments` ([GitHub issue #524](https://github.com/invertase/stripe-firebase-extensions/issues/524)).
 
-- **Key Functionality**: The extension synchronizes Stripe payments (one-time and recurring) with Firebase Authentication and Cloud Firestore, enabling access control via custom claims and real-time subscription status updates.
-
-- **Migration Requirement**:
+- **Core Functionality**: The extension synchronizes Stripe payments (one-time/subscriptions) with Firebase Authentication and Cloud Firestore, enabling access control via custom cl
 
 ## Use Cases
 

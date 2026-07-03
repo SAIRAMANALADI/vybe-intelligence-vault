@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-07-04T01:22:26.423841+05:30'
+collected_at: '2026-07-04T03:49:27.360638+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-07-04T01:22:26.423841+05:30'
-last_seen: '2026-07-04T01:22:26.423841+05:30'
-last_checked: '2026-07-04T01:22:26.423841+05:30'
+first_seen: '2026-07-04T03:49:27.360638+05:30'
+last_seen: '2026-07-04T03:49:27.360638+05:30'
+last_checked: '2026-07-04T03:49:27.360638+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Implements RAG with Vector Database**: Utilizes embedding models and vector databases for retrieval-augmented generation (RAG) to enhance AI question-answering systems with knowledge retrieval.
-- **Supports SSE Streaming & Agent Workflows**: Implements Server-Sent Events (SSE) for real-time streaming responses and integrates AI agents for dynamic, multi-step task execution.
-- **Multi-Modal & Function-Call Capabilities**: Includes image generation/understanding, function calling for tool integration, and historical message management for context-aware interactions.
+- **Implementation of RAG with Knowledge Graph**: Demonstrates integration of Retrieval-Augmented Generation (RAG) using knowledge graphs for enhanced contextual retrieval and response generation in a Java-based Spring AI system.
+
+- **Multi-Modal AI Capabilities**: Supports both image generation (via Function Call) and image understanding (via embedding-based retrieval) alongside traditional text-based AI workflows.
+
+- **Advanced AI Agent Features**: Implements SSE (Server-Sent Events) streaming, historical message management, and vector database integration for efficient embedding storage and retrieval.
 
 ## Why It Matters
 

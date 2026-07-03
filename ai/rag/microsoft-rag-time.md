@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-07-04T01:21:36.483599+05:30'
+collected_at: '2026-07-04T03:48:37.310302+05:30'
 published_at: '2026-06-28T15:57:16Z'
 tags:
 - github-repo
@@ -13,7 +13,6 @@ tags:
 - models
 - openai
 - rag
-- reddit
 - workflows
 stars: 888
 language: Jupyter Notebook
@@ -23,9 +22,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-07-04T01:21:36.483599+05:30'
-last_seen: '2026-07-04T01:21:36.483599+05:30'
-last_checked: '2026-07-04T01:21:36.483599+05:30'
+first_seen: '2026-07-04T03:48:37.310302+05:30'
+last_seen: '2026-07-04T03:48:37.310302+05:30'
+last_checked: '2026-07-04T03:48:37.310302+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **5-week structured learning path** covering advanced **Retrieval-Augmented Generation (RAG)** techniques, including **binary/scalar quantization**, **Matryoshka representation learning**, and **hybrid search** (vector + keyword) for efficient indexing and retrieval.
-- **Hands-on implementation** using **Azure OpenAI**, **HNSW** for approximate nearest neighbor search, and **multimodal RAG** workflows, with notebooks optimized for **Visual Studio Code**.
-- **Responsible AI focus** integrating **scalar/binary quantization** for model efficiency and **scalable retrieval** in generative AI pipelines.
+- **RAG Time**: A structured 5-week curriculum designed to master Retrieval-Augmented Generation (RAG) using Jupyter Notebooks, covering topics like hybrid search, vector indexing, and quantization techniques (binary/scalar).
+- **Key Technologies**: Integrates Azure, OpenAI, HNSW, and Matryoshka representation learning for efficient retrieval and multimodal RAG workflows in VS Code.
+- **Focus Areas**: Emphasizes responsible AI, hybrid search (keyword + vector), and advanced indexing methods for scalable, low-latency LLM applications.
 
 ## Why It Matters
 

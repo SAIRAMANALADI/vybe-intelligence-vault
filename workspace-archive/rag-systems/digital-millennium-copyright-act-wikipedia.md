@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Enactment & Scope**: U.S. copyright law (Pub. L. 105-304, 1998) implementing WIPO treaties, criminalizing circumvention of DRM/access controls (17 U.S.C. §§ 1201–1205) and increasing penalties for online copyright infringement.
+- **Legal Framework**: Enacted in 1998 (Pub. L. 105-304), the DMCA implements WIPO treaties, criminalizing circumvention of DRM and access controls, with penalties for copyright infringement heightened on digital platforms.
 
-- **Liability Framework**: Introduces safe harbor provisions (17 U.S.C. § 512) shielding ISPs/online platforms from direct/indirect liability for user-generated infringing content, conditioned on compliance with takedown notices.
+- **Liability Shield**: Introduces **17 U.S.C. § 512**, providing safe harbor provisions for ISPs and intermediaries, exempting them from direct/indirect liability for user-generated infringing content if they comply with takedown notices.
 
-- **Amendments & Impact**: Amended T
+- **Technical Provisions**: Amends
 
 ## Use Cases
 

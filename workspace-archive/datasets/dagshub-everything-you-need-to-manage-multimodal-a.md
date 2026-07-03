@@ -6,9 +6,9 @@ source_url: https://dagshub.com/
 resource_id: blog:dagshub-everything-you-need-to-manage-multimodal-a
 local_vault_path: ai/rag/dagshub-everything-you-need-to-manage-multimodal-a.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - dataset
@@ -19,7 +19,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # DagsHub: Everything you need to manage multimodal AI
@@ -27,17 +27,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Unified AI Data & Model Management**: Platform supports multimodal dataset curation/annotation, experiment tracking (MLflow-compatible), and model versioning/deployment with lineage, integrating with existing ML frameworks and cloud storage.
+- **Unified AI Data & Model Management**: Platform for curating multimodal datasets (vision, audio, LLM), tracking experiments (MLflow-compatible), and managing model versions with lineage, supporting petabyte-scale data and CI/CD/CT integration.
 
-- **Tiered Pricing & Scalability**: Free tier for individuals (20GB storage, 100 private experiments); Team tier ($99/user/month) adds private repos, multimodal auto-labeling, and 1TB storage; Enterprise offers petabyte-scale storage, VPC/air-gapped dep
+- **Tiered Subscription Model**: Free tier (Individual) with public repos, 100 private experiments, and 20GB storage; Team tier ($99/user/month) adds private repos, multimodal auto-labeling, RBAC, and 1TB storage; Enterprise offers petabyte-scale, on-p
 
 ## Use Cases
 

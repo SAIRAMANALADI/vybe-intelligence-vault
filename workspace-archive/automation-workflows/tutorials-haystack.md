@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag
@@ -37,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Evaluation Framework**: Haystack provides a guided walkthrough for implementing evaluation metrics to assess RAG pipeline performance, including statistical and model-based approaches.
+- **Evaluation Framework**: Haystack provides a guided walkthrough for evaluating RAG pipelines using statistical and model-based metrics, enabling systematic performance assessment of generative QA systems.
 
-- **Agentic RAG Systems**: Tutorials cover advanced agentic workflows, including multi-agent systems, tool-calling agents, and fallback mechanisms (e.g., web search integration) for dynamic query routing.
+- **Multimodal & Agentic Workflows**: Tutorials cover advanced implementations including multimodal RAG (combining text and vision), multi-agent systems, tool-calling agents with web search fallback, and human-in-the-loop confirmation strategies for safer AI interactions.
 
-- **Multimodal & Structured Outputs**: Haystack supports multimodal RAG (vision+text) and structured out
+- **Optimization
 
 ## Use Cases
 

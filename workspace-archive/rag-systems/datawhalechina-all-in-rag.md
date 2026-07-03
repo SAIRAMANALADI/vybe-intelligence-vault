@@ -6,7 +6,7 @@ source_url: https://github.com/datawhalechina/all-in-rag
 resource_id: github:datawhalechina/all-in-rag
 local_vault_path: ai/rag/datawhalechina-all-in-rag.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive RAG Guide**: Repository provides a full-stack technical guide for developing RAG (Retrieval-Augmented Generation) applications, covering end-to-end implementation with Python.
-- **Key Technologies**: Integrates multiple AI frameworks and tools including LangChain, LlamaIndex, Milvus (vector DB), Neo4j (graph DB), and supports embeddings/models like DeepSeek, Kimi-K2.
-- **Multimodal & Advanced Features**: Includes support for multimodal RAG, graph-based retrieval (Neo4j), and ve
+- **Comprehensive RAG Development Guide**: Repository provides a full-stack technical manual for building Retrieval-Augmented Generation (RAG) applications with large language models (LLMs), covering end-to-end implementation strategies.
+
+- **Multi-Tool & Framework Integration**: Supports multiple embedding models (e.g., DeepSeek, Kimi-K2), vector databases (Milvus), graph databases (Neo4j), and frameworks (LangChain, LlamaIndex) for multimodal RAG pipelines.
+
+- **Python-Centric Implementation**
 
 ## Use Cases
 

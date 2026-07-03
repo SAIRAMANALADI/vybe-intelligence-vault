@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-04T01:22:11.448786+05:30'
+collected_at: '2026-07-04T03:49:12.348155+05:30'
 published_at: '2026-06-30T16:45:55Z'
 tags:
-- benchmark
 - github-repo
-- models
 - python
 - rag
+- workflows
 stars: 368
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-04T01:22:11.448786+05:30'
-last_seen: '2026-07-04T01:22:11.448786+05:30'
-last_checked: '2026-07-04T01:22:11.448786+05:30'
+first_seen: '2026-07-04T03:49:12.348155+05:30'
+last_seen: '2026-07-04T03:49:12.348155+05:30'
+last_checked: '2026-07-04T03:49:12.348155+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document grounding.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document grounding in LLMs.
 
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined deployment, fine-tuning, and evaluation of multi-modal RAG models.
+- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined development, deployment, and experimentation with multi-modal RAG workflows in Python.
 
-- **Python-Based Example**: Provides a structured Python codebase with modular components for indexing, retrieval, and generation, optimized for GPU acceleration.
+- **Modular Architecture**: Provides a structured example with configurable components for retrieval, reranking, and generation, optimized for GPU acceleration and scalability.
 
 ## Why It Matters
 

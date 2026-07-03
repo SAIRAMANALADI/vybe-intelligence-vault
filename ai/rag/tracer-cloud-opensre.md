@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Tracer-Cloud/opensre
-collected_at: '2026-07-03T20:06:15.430255+05:30'
-published_at: '2026-07-03T14:20:33Z'
+collected_at: '2026-07-04T03:50:47.433132+05:30'
+published_at: '2026-07-03T22:08:43Z'
 tags:
 - agents
 - github-repo
@@ -13,17 +13,17 @@ tags:
 - rag
 - scripts
 - workflows
-stars: 7806
+stars: 7815
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-01-13T00:04:47Z'
-pushed_at: '2026-07-03T14:30:52Z'
+pushed_at: '2026-07-03T18:02:20Z'
 resource_id: github:tracer-cloud/opensre
-first_seen: '2026-07-03T20:06:15.430255+05:30'
-last_seen: '2026-07-03T20:06:15.430255+05:30'
-last_checked: '2026-07-03T20:06:15.430255+05:30'
+first_seen: '2026-07-04T03:50:47.433132+05:30'
+last_seen: '2026-07-04T03:50:47.433132+05:30'
+last_checked: '2026-07-04T03:50:47.433132+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Open-source AI SRE toolkit** enabling autonomous Site Reliability Engineering (SRE) agents with Python-based automation for incident management, root cause analysis (RCA), and remediation workflows.
-
-- **Integrated observability & alerting** supports Datadog, Grafana, and Slack, facilitating real-time alert correlation, incident response, and cross-platform notifications.
-
-- **Extensible remediation framework** leverages AI-driven decision-making for automated incident resolution, with modular components for custom SRE agent development and integration.
+- **AI-Powered SRE Toolkit**: Open-source framework (`opensre`) enabling autonomous Site Reliability Engineering (SRE) agents with AI-driven alerting, incident management, and root-cause analysis.
+- **Integrated Observability Stack**: Supports Datadog, Grafana, Slack, and other tools for real-time monitoring, alert correlation, and automated remediation workflows.
+- **Python-Based Automation**: Leverages Python for extensible agent development, enabling custom SRE logic for observability, incident response, and reliability engineering.
 
 ## Why It Matters
 
@@ -44,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Tracer-Cloud
-- Stars: 7806
-- Forks: 1048
+- Stars: 7815
+- Forks: 1051
 - Language: Python
 - Topics: ai-sre, alerting, datadog, grafana, incident-management, observability, remediation, root-cause-analysis, site-reliability-engineering, slack, sre
-- Last Updated: 2026-07-03T14:20:33Z
+- Last Updated: 2026-07-03T22:08:43Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-01-13T00:04:47Z
-- Pushed At: 2026-07-03T14:30:52Z
+- Pushed At: 2026-07-03T18:02:20Z
 
 ## Possible Use Cases
 

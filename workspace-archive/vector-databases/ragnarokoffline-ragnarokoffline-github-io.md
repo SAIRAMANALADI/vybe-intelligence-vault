@@ -6,10 +6,10 @@ source_url: https://github.com/ragnarokoffline/ragnarokoffline.github.io
 resource_id: github:ragnarokoffline/ragnarokoffline.github.io
 local_vault_path: ai/rag/ragnarokoffline-ragnarokoffline-github-io.md
 quality_score: 70
-archive_score: 85
-archive_tier: essential
+archive_score: 75
+archive_tier: useful
 resource_kind: tool
-importance: high
+importance: medium
 tags:
 - github-repo
 - hackernews
@@ -24,16 +24,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 85 (essential)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: tool
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Purpose**: Hosts the official website for *Ragnarok Offline Pre-Renewal Pack*, a modified version of *Ragnarok Online* using *OpenKore* and *rAthena* for offline gameplay.
-- **Technical Stack**: Static HTML site with no backend, serving as a documentation hub for the Pre-Renewal client and server modifications.
-- **Repository Status**: Last updated on **2026-07-01**, with 17 stars and 7 forks, indicating limited but active community engagement.
+- **Repository Purpose**: Hosts the static website for *Ragnarok Offline Pre-Renewal Pack*, a modified version of *Ragnarok Online* using *OpenKore*, *rAthena*, and related tools.
+- **Technical Stack**: Entirely HTML-based, with no backend logic; serves as a documentation/resource hub for offline gameplay modifications.
+- **Metadata**: 17 stars, 7 forks, last updated July 1, 2026; categorized under *openkore*, *ragrnarok*, and *rathena* topics.
 
 ## Use Cases
 

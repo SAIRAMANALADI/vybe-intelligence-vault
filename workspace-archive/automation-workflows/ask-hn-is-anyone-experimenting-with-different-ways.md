@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by yehiaabdelm. Score: 55, Comments: 69.
+Hacker News story by yehiaabdelm. Score: 96, Comments: 131.
 Original Link: None
 
 ## Use Cases

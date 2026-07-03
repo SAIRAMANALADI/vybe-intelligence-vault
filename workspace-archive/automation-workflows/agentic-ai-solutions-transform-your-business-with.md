@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **NVIDIA Agentic AI Framework**: Provides modular building blocks for autonomous AI agents capable of reasoning, planning, and multi-step task execution without continuous human input, leveraging multi-agent collaboration and iterative model refinement via human/AI feedback loops.
+- **Agentic AI Framework**: NVIDIA provides a multi-agent system where specialized agents autonomously handle complex, multi-step tasks (research, decision-making, execution) without continuous human input, enabling parallel workflows and iterative model improvement via human/AI feedback loops.
 
-- **NVIDIA Agent Toolkit**: Enables enterprise-grade customization of AI agents with open Nemotron models, specialized tools/skills, and secure runtime environments for controlled deployment and lifecycle management
+- **NVIDIA Agent Toolkit**: A development suite offering open Nemotron models, customizable tools/skills, and a secure runtime environment to build, deploy, and control enterprise-grade AI agents with sp
 
 ## Use Cases
 

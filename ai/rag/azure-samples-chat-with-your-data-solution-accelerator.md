@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-07-04T01:22:31.435252+05:30'
+collected_at: '2026-07-04T03:49:32.398879+05:30'
 published_at: '2026-06-30T16:43:51Z'
 tags:
+- benchmark
 - github-repo
 - openai
 - python
@@ -17,11 +18,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-07-03T19:24:38Z'
+pushed_at: '2026-07-03T22:14:22Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-07-04T01:22:31.435252+05:30'
-last_seen: '2026-07-04T01:22:31.435252+05:30'
-last_checked: '2026-07-04T01:22:31.435252+05:30'
+first_seen: '2026-07-04T03:49:32.398879+05:30'
+last_seen: '2026-07-04T03:49:32.398879+05:30'
+last_checked: '2026-07-04T03:49:32.398879+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** models for generating ChatGPT-style and Q&A responses, following Azure best practices.
-
-- **Azure Deployment**: Provides **Azure Developer CLI (azd) templates** for end-to-end infrastructure-as-code (IaC) deployment, including pre-configured Azure resources (e.g., OpenAI, AI Search, storage).
-
-- **Python-Based**: Entire solution is implemented in Python, with modular components for indexing, retrieval, and chat orchestration, optimized for scalability and enterprise-grade requirements.
+- **RAG Implementation**: Deploys Retrieval-Augmented Generation (RAG) pattern using Azure AI Search for retrieval and Azure OpenAI LLMs for generation, enabling ChatGPT-style and Q&A interactions.
+- **Azure Integration**: Leverages Azure AI Search for vector search and Azure OpenAI for LLM inference, with best practices for scalability, security, and cost optimization.
+- **Accelerator Features**: Provides pre-configured Azure Resource Manager (ARM) templates via Azure Developer CLI (azd) for rapid deployment, including sample data pipelines and evaluation frameworks.
 
 ## Why It Matters
 
@@ -50,7 +49,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-07-03T19:24:38Z
+- Pushed At: 2026-07-03T22:14:22Z
 
 ## Possible Use Cases
 

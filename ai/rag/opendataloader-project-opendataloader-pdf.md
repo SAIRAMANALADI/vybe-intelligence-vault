@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/opendataloader-project/opendataloader-pdf
-collected_at: '2026-07-04T01:22:01.354014+05:30'
+collected_at: '2026-07-04T03:49:02.267943+05:30'
 published_at: '2026-07-03T19:09:11Z'
 tags:
 - github-repo
 - java
 - rag
-- workflows
 stars: 26276
 language: Java
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-05-13T05:48:02Z'
 pushed_at: '2026-06-29T08:43:34Z'
 resource_id: github:opendataloader-project/opendataloader-pdf
-first_seen: '2026-07-04T01:22:01.354014+05:30'
-last_seen: '2026-07-04T01:22:01.354014+05:30'
-last_checked: '2026-07-04T01:22:01.354014+05:30'
+first_seen: '2026-07-04T03:49:02.267943+05:30'
+last_seen: '2026-07-04T03:49:02.267943+05:30'
+last_checked: '2026-07-04T03:49:02.267943+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Java-based PDF parser** designed for AI-ready data extraction, supporting accessibility standards (PDF/UA, WCAG) and automated OCR for scanned documents.
-- **Multi-format output** with support for HTML, JSON, Markdown, and bounding box annotations for structured document parsing (tables, tagged PDFs).
-- **Open-source tool** optimized for RAG pipelines, document accessibility compliance (EAA), and integration with AI/LLM workflows via robust PDF extraction and conversion.
+- **Java-based PDF Parser**: Open-source tool designed for AI-ready data extraction from PDFs, supporting accessibility compliance (e.g., PDF/UA, WCAG) and automated OCR for scanned documents.
+
+- **Multi-format Output**: Converts PDFs to structured formats (HTML, JSON, Markdown) with bounding box annotations, table extraction, and tagged PDF support for semantic analysis.
+
+- **AI Integration & Accessibility**: Enables RAG pipelines via extracted content, supports accessibility features (a11y, EAA), and handles both native and scanned PDFs with OCR recognition.
 
 ## Why It Matters
 

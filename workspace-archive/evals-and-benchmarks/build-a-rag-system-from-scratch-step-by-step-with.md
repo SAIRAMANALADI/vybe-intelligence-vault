@@ -7,7 +7,7 @@ source_url: https://nerdleveltech.com/guides/rag-hands-on-tutorial
 resource_id: blog:build-a-rag-system-from-scratch-step-by-step-with
 local_vault_path: ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md
 quality_score: 70
-archive_score: 76
+archive_score: 74
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -32,7 +32,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -40,11 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid Retrieval Pipeline**: Implements BM25 + vector search (OpenAI `text-embedding-3-small`) in ChromaDB for improved retrieval relevance, combining semantic similarity with exact keyword matching.
+- **Hybrid Retrieval Pipeline**: Implements **BM25 + vector search** for retrieval, combining keyword-based (BM25) and semantic (vector) matching to improve recall and precision, followed by **cross-encoder reranking** (free, no API key required) to reorder top-k candidates based on contextual relevance.
 
-- **Cross-Encoder Reranking**: Uses a free cross-encoder model (e.g., `cross-encoder/ms-marco-MiniLM-L-6-v2`) to rerank hybrid search results, boosting precision by re-scoring candidate documents based on contextual relevance.
-
-- **Evaluation Metrics**: Integrates RAGAS (v0.2.15) to measure ret
+- **ChromaDB Hybrid Search Implementation**: Uses `Chroma` with `BM25` retriever (`BM25Retriever`) and `vector retriever` (`VectorStoreRetriever`), merging results via `EnsembleRetriever` (weig
 
 ## Use Cases
 

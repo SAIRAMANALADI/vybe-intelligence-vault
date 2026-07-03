@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/imaging/#avif
-published_at: '2026-07-03T20:10:13.239825+05:30'
-collected_at: '2026-07-03T20:10:13.239840+05:30'
+published_at: '2026-07-04T03:55:11.386258+05:30'
+collected_at: '2026-07-04T03:55:11.386267+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:configure-imaging
-first_seen: '2026-07-03T20:10:13.239840+05:30'
-last_seen: '2026-07-03T20:10:13.239840+05:30'
-last_checked: '2026-07-03T20:10:13.239840+05:30'
+first_seen: '2026-07-04T03:55:11.386267+05:30'
+last_seen: '2026-07-04T03:55:11.386267+05:30'
+last_checked: '2026-07-04T03:55:11.386267+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Image Processing Defaults**: Default settings include `anchor: smart`, `bgColor: #ffffff`, `resampleFilter: box`, and format-specific defaults for AVIF (`quality: 60`, `encoderSpeed: 10`), JPEG (`quality: 75`), and WebP (`quality: 75`, `method: 2`).
+- **Default Imaging Settings**: Default anchor is `smart` (using `muesli/smartcrop` for focal point detection), background color `#ffffff`, and `box` resampling filter; deprecated top-level `compression`, `hint`, and `quality` settings are replaced by format-specific configurations.
 
-- **Exif Metadata Control**: Configurable via `meta.fields` (glob-based filtering) and `meta.sources` (`exif`, `iptc`, or `xmp`), with default exclusion of technical fields (e.g., `GPS`, `Exif`, `Sharp`) to optimize performance.
+- **AVIF/WebP/JPEG Configuration**: AVIF (`lossy` compression, `encoderSpeed: 10`, `quality: 60`, `hint: photo`), WebP (`lossy` compression, `method: 2`, `quality: 75`, `useSharpYuv: false`), and JPEG (`quality: 75`) support format-specific tuning for encoding speed, quality, and chroma subsampling.
 
-- **Format-Specific Tuning**: AVIF supports `lossy`/`lossless` compression with `encoderSpeed` (1-10) and `hint` (e.g., `photo`, `text`); WebP allows `method` (0-6) and `useSharpYuv` for RGB-to-YUV conversion.
+- **EXIF/Meta Filtering**: `meta.fields` excludes technical metadata (e.g., `GPS`, `Exif`, `Sharp`) by default; `sources` defaults to `['exif', 'iptc']` but can include `xmp` for broader metadata extraction.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T20:10:13.239825+05:30
+- Published: 2026-07-04T03:55:11.386258+05:30
 
 ## Related Tags
 

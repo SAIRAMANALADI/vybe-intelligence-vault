@@ -14,6 +14,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel linear graph-based RAG framework for large-scale corpora, optimizing retrieval efficiency and scalability for LLMs by leveraging linear graph structures to enhance contextual relevance and reduce computational overhead.
-
-- **Graph-Based RAG Optimization**: Proposes a linear graph construction method to represent document relationships, enabling efficient subgraph retrieval and dynamic graph updates, which improves
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a novel RAG framework leveraging linear graph structures for efficient retrieval and generation on large-scale corpora, targeting ICLR 2026.
+- **Graph-Based Retrieval**: Implements linear graph traversal for scalable and low-latency retrieval, optimizing LLM augmentation in high-dimensional data spaces.
+- **Python Implementation**: Provides an open-source Python library with 523 stars and 61 forks, supporting graphRAG, LLMs,
 
 ## Use Cases
 

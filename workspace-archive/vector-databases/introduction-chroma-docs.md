@@ -6,7 +6,7 @@ source_url: https://docs.trychroma.com/docs/overview/introduction
 resource_id: blog:introduction-chroma-docs
 local_vault_path: ai/rag/introduction-chroma-docs.md
 quality_score: 70
-archive_score: 74
+archive_score: 76
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-model embedding & retrieval**: Supports dense, sparse, and hybrid vector search with pluggable embeddings (OpenAI, Cohere, Hugging Face, etc.), enabling cross-modal retrieval (text, images, audio) via unified indexing.
+- **Multi-modal vector database**: Chroma supports storage and retrieval of embeddings for text, images, audio, and other modalities with metadata, enabling cross-modal search and filtering.
 
-- **Metadata-aware querying**: Enables real-time filtering of results using metadata conditions and supports full-text/regex search independently of vector operations.
+- **Hybrid search capabilities**: Implements dense, sparse, and hybrid vector search, combining similarity-based retrieval with full-text and regex search, all filterable by metadata at query time.
 
-- **Deployment flexibility**: Open-source (Apache 2.0) with self-hosting or managed Cloud option; inc
+- **Open-source & scalable**: Licensed under Apache 2.0, Chroma offers self-hosted, cloud, or managed (Chroma
 
 ## Use Cases
 

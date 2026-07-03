@@ -6,7 +6,7 @@ source_url: https://github.com/alfredodeza/azure-rag
 resource_id: github:alfredodeza/azure-rag
 local_vault_path: ai/rag/alfredodeza-azure-rag.md
 quality_score: 70
-archive_score: 75
+archive_score: 77
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -16,6 +16,7 @@ tags:
 - python
 - rag
 selection_reason:
+- Strong keyword match
 - Active open-source repository
 ---
 
@@ -24,18 +25,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: benchmark
 - Selection reasons:
+  - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) implementation using Azure services, integrating document retrieval with generative AI models.
-
-- **Key Components**: Utilizes Azure's AI Search for vector-based document retrieval and Azure OpenAI for generative responses, with Python as the primary language.
-
-- **Repository Status**: Last updated April 23, 2026; 53 stars, 226 forks, no active topics.
+- **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) implementation using Azure services (e.g., Azure Cognitive Search, Azure OpenAI) in Python.
+- **Key Components**: Likely integrates Azure's vector search capabilities with a generative AI model to enhance response accuracy via retrieved context.
+- **Repository Status**: Last updated April 23, 2026; minimal activity (53 stars, 227 forks) with no specified topics.
 
 ## Use Cases
 

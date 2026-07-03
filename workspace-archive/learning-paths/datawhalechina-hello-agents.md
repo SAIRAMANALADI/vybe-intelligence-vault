@@ -14,8 +14,10 @@ tags:
 - agents
 - github-repo
 - hackernews
+- models
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -34,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Agent Development Guide**: Provides a zero-to-one tutorial on agent principles and practices, covering foundational concepts to advanced implementations in Python.
+- **Comprehensive Agent Development Guide**: Tutorial series covering foundational principles and practical implementation of AI agents from scratch, with focus on LLM integration, RAG systems, and Python-based workflows.
 
-- **Key Technical Components**: Focuses on integrating large language models (LLMs), retrieval-augmented generation (RAG), and agent architectures for practical AI system construction.
+- **High-Engagement Open-Source Project**: Repository with 63.8k+ stars and 7.9k+ forks, indicating strong community adoption and collaborative development in agentic AI systems.
 
-- **Open-Source Educational Resource**: Hosted on GitHub with 62.7K+ stars and 7.8K+ forks, offering structured learning paths and
+- **Updated Technical Resource**: Last modified on 2026-07-03, ensuring relevance with recent adv
 
 ## Use Cases
 

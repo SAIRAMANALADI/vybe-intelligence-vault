@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.apple.com/macos/
-published_at: '2026-06-28T15:17:16.831373+05:30'
-collected_at: '2026-06-28T15:17:16.831386+05:30'
+published_at: '2026-07-04T03:57:37.332856+05:30'
+collected_at: '2026-07-04T03:57:37.332870+05:30'
 tags:
 - agents
 - benchmark
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:macos-apple-developer
-first_seen: '2026-06-28T15:17:16.831386+05:30'
-last_seen: '2026-06-28T15:17:16.831386+05:30'
-last_checked: '2026-06-28T15:17:16.831386+05:30'
+first_seen: '2026-07-04T03:57:37.332870+05:30'
+last_seen: '2026-07-04T03:57:37.332870+05:30'
+last_checked: '2026-07-04T03:57:37.332870+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,9 @@ health_score: 100
 
 ## Summary
 
-- **Apple Intelligence & Foundation Models Framework**: Integrates AI capabilities into macOS apps via native Swift APIs, enabling multimodal reasoning (text + images) with on-device or Private Cloud Compute models, dynamic model swapping, and real-time adaptive intelligence through the Evaluations framework.
-
-- **Metal 4 & Video Effects API**: Leverages Metal for GPU-accelerated rendering (including ML inference in shaders) and exposes ML-based video processing (Motion Blur, FRC, Super-Resolution) to enhance video editing apps with up to 4x upscaling and real-time effects.
-
-- **App Intents & Live Activities**: Uses structured schemas to make app content discoverable via Spotlight and Siri, with View Annotations for on-screen contextual actions, while Live Activities provide real-time updates in the menu bar for sports, rideshares, or delivery tracking.
+- **Apple Intelligence & Foundation Models**: Integrate app actions into Siri AI via App Intents using the Foundation Models framework (native Swift API) for multimodal prompts, on-device Vision tools, Dynamic Profiles, and Evaluations for real-time adaptive AI features.
+- **Metal 4 & Video Effects API**: Leverage Metal for GPU-accelerated rendering (including ML inference in shaders) and MetalFX for performance optimization; use Video Effects API for ML-based video processing (e.g., Motion Blur, Frame Rate Conversion, Super-Resolution up to 4x).
+- **Live Activities & Widgets**: Implement Live Activities for real-time status updates (e.g., sports, rideshares) in the menu bar and widgets for glanceable app data on Mac desktop or Notification Center, with cross-device compatibility (iPhone widgets on Mac).
 
 ## Why It Matters
 
@@ -40,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T15:17:16.831373+05:30
+- Published: 2026-07-04T03:57:37.332856+05:30
 
 ## Related Tags
 

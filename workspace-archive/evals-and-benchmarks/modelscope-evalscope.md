@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with a focus on efficiency and performance metrics.
-
-- **Key Features**: Supports evaluation across multiple modalities (text, vision, generative tasks) and includes tools for Retrieval-Augmented Generation (RAG) performance assessment.
-
-- **Repository Stats**: 3,027 stars, 414 forks, last updated July 3, 2026. Designed for modularity and extensibility in m
+- **Framework Purpose**: `evalscope` is a Python-based, modular framework designed for efficient evaluation and benchmarking of large models (LLMs, VLMs, AIGC) with customizable pipelines.
+- **Key Features**: Supports performance benchmarking across tasks like RAG, with streamlined workflows for reproducibility and extensibility via configurable components.
+- **Repository Stats**: 3,027 stars, 414 forks; last updated July 3, 2026.
 
 ## Use Cases
 

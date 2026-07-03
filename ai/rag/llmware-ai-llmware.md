@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/llmware-ai/llmware
-collected_at: '2026-07-04T01:24:46.623402+05:30'
+collected_at: '2026-07-04T03:51:47.476068+05:30'
 published_at: '2026-07-03T14:49:37Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 stars: 14815
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2023-09-29T15:19:06Z'
 pushed_at: '2026-05-17T13:53:37Z'
 resource_id: github:llmware-ai/llmware
-first_seen: '2026-07-04T01:24:46.623402+05:30'
-last_seen: '2026-07-04T01:24:46.623402+05:30'
-last_checked: '2026-07-04T01:24:46.623402+05:30'
+first_seen: '2026-07-04T03:51:47.476068+05:30'
+last_seen: '2026-07-04T03:51:47.476068+05:30'
+last_checked: '2026-07-04T03:51:47.476068+05:30'
 health_score: 100
 ---
 
@@ -34,9 +33,9 @@ health_score: 100
 
 - **Unified RAG Framework**: Provides an integrated Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models optimized for efficiency and performance.
 
-- **Multi-Backend Support**: Supports multiple inference backends including LlamaCpp, ONNX, and OpenVINO, enabling deployment flexibility across different hardware accelerators (CPU/GPU/TPU).
+- **Multi-Model Support**: Supports multiple inference backends (e.g., llama.cpp, ONNX, OpenVINO) and integrates parsing, retrieval, and generation components for modular pipeline customization.
 
-- **Enterprise Features**: Includes built-in document parsing, retrieval mechanisms, and agent-based workflows for scalable, production-ready AI applications.
+- **Enterprise Tooling**: Includes agents, generative AI utilities, and last-updated (2026-07-03) capabilities for scalable, production-ready deployments in enterprise environments.
 
 ## Why It Matters
 
@@ -46,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: llmware-ai
 - Stars: 14815
-- Forks: 2915
+- Forks: 2914
 - Language: Python
 - Topics: agents, generative-ai-tools, llamacpp, llm, onnx, openvino, parsing, retrieval-augmented-generation, small-specialized-models
 - Last Updated: 2026-07-03T14:49:37Z

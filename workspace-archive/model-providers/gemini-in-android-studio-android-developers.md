@@ -6,21 +6,22 @@ source_url: https://developer.android.com/gemini-in-android
 resource_id: blog:gemini-in-android-studio-android-developers
 local_vault_path: ai/rag/gemini-in-android-studio-android-developers.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: template
 importance: medium
 tags:
 - agents
 - producthunt
 - rag
 - reddit
+- scripts
 - web-crawled
 - workflows
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Gemini in Android Studio - Android Developers
@@ -28,19 +29,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Agent Mode** enables multi-stage, goal-driven development tasks (e.g., unit test generation, UI alterations, error fixing) with iterative execution plans spanning multiple project files, allowing review/acceptance of proposed changes.
+- **Agentic AI Integration**: Android Studio Quail 1 integrates **Gemini AI** as an agentic assistant for end-to-end Android development, enabling multi-stage task automation (e.g., unit test generation, UI refactoring, crash analytics) via **Agent Mode**, reducing manual effort and context switching.
 
-- **Multimodal UI Prototyping** allows direct conversion of wireframe/mockup images into functional Android UI code via image attachment, accelerating modern UI development and bug resolution through screenshot-based troubleshooting.
-
-- **Enterprise-Grade Priv
+- **Multimodal & Context-Aware Features**: Supports **image-based UI prototyping** (wireframe-to-code) and **file attachment** for contextual code generation, while **Prompt Library** allows reusa
 
 ## Use Cases
 

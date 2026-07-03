@@ -6,7 +6,7 @@ source_url: https://gohugo.io/configuration/imaging/#avif
 resource_id: blog:configure-imaging
 local_vault_path: ai/rag/configure-imaging.md
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -16,6 +16,7 @@ tags:
 - reddit
 - web-crawled
 selection_reason:
+- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -24,18 +25,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
+  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Image Processing Defaults**: Default settings include `anchor: smart`, `bgColor: #ffffff`, `resampleFilter: box`, and format-specific defaults for AVIF (`quality: 60`, `encoderSpeed: 10`), JPEG (`quality: 75`), and WebP (`quality: 75`, `method: 2`).
+- **Default Imaging Settings**: Default anchor is `smart` (using `muesli/smartcrop` for focal point detection), background color `#ffffff`, and `box` resampling filter; deprecated top-level `compression`, `hint`, and `quality` settings are replaced by format-specific configurations.
 
-- **Exif Metadata Control**: Configurable via `meta.fields` (glob-based filtering) and `meta.sources` (`exif`, `iptc`, or `xmp`), with default exclusion of technical fields (e.g., `GPS`, `Exif`, `Sharp`) to optimize performance.
-
-- **Format-Spec
+- **AVIF/WebP/JPEG Configuration**: AVIF (`lossy` compression, `encoderSpeed: 10`, `quality: 60`, `hint: photo`), WebP (`lossy` compression, `method: 2`, `quality: 75`, `useSharpYuv: false`), and JPEG (`quality: 75`
 
 ## Use Cases
 

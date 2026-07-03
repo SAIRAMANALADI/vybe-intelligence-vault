@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama-hub/
-collected_at: '2026-06-30T02:00:19.357157+05:30'
-published_at: '2026-06-26T21:45:27Z'
+collected_at: '2026-07-04T03:57:30.817708+05:30'
+published_at: '2026-07-02T10:47:53Z'
 tags:
 - github-repo
 - hackernews
@@ -13,8 +13,7 @@ tags:
 - meta-ai
 - models
 - rag
-- workflows
-stars: 3472
+stars: 3473
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -22,9 +21,9 @@ archived: true
 created_at: '2023-02-01T05:25:29Z'
 pushed_at: '2024-03-01T15:17:16Z'
 resource_id: github:run-llama/llama-hub
-first_seen: '2026-06-30T02:00:19.357157+05:30'
-last_seen: '2026-06-30T02:00:19.357157+05:30'
-last_checked: '2026-06-30T02:00:19.357157+05:30'
+first_seen: '2026-07-04T03:57:30.817708+05:30'
+last_seen: '2026-07-04T03:57:30.817708+05:30'
+last_checked: '2026-07-04T03:57:30.817708+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Community-driven library providing modular data loaders for LLMs, designed for seamless integration with LlamaIndex and LangChain frameworks.
-- **Technical Scope**: Repository contains Jupyter Notebook-based implementations, enabling structured data ingestion and preprocessing workflows for downstream LLM applications.
-- **Metadata**: 3472 stars, 718 forks; last updated on 2026-06-26, indicating active maintenance and community engagement.
+- **Purpose**: A community-driven repository providing modular data loaders for LLMs, designed for integration with LlamaIndex and/or LangChain frameworks.
+- **Technical Stack**: Implemented primarily in Jupyter Notebook, enabling interactive data processing and experimentation.
+- **Metadata**: 3,473 stars, 718 forks, last updated on 2026-07-02; serves as a centralized hub for extensible data ingestion pipelines.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: run-llama
-- Stars: 3472
+- Stars: 3473
 - Forks: 718
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-06-26T21:45:27Z
+- Last Updated: 2026-07-02T10:47:53Z
 - License: MIT
 - Archived: Yes
 - Created At: 2023-02-01T05:25:29Z

@@ -14,6 +14,7 @@ tags:
 - agents
 - github-repo
 - hackernews
+- models
 - python
 - rag
 - workflows
@@ -35,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Open-source tutorial repository (`datawhalechina/hello-agents`) teaching end-to-end **agent system** construction from fundamentals to deployment, with 63,349 stars and 7,839 forks.
+- **Comprehensive Agent Development Guide**: Tutorial series covering foundational principles and practical implementation of AI agents from scratch, with focus on LLM integration, RAG systems, and Python-based workflows.
 
-- **Technical Scope**: Covers **LLM-driven agents**, **RAG (Retrieval-Augmented Generation)**, and Python-based implementations, emphasizing practical workflows for intelligent agent development.
+- **High-Engagement Open-Source Project**: Repository with 63.8k+ stars and 7.9k+ forks, indicating strong community adoption and collaborative development in agentic AI systems.
 
-- **Educational Focus**: Structured as a step-by-step guide for building agents from scratch,
+- **Updated Technical Resource**: Last modified on 2026-07-03, ensuring relevance with recent adv
 
 ## Use Cases
 

@@ -32,8 +32,8 @@ selection_reason:
 
 ## Summary
 
-- **VPC Service Controls Integration**: Add `Gemini for Google Cloud API` and `Gemini Code Assist API` to an existing organization-level service perimeter, including all required projects and VPC networks, while optionally configuring ingress policies for IDE access.
-- **Network Configuration**: Enable Private Google Access, enforce firewall rules (deny-all egress + allow restricted VIP range `199.36.153.4/30:443`), and configure Cloud DNS to resolve `*.googleapis.com` to `restricted.googleapis.
+- **VPC Service Controls Integration**: Add `Gemini for Google Cloud API` and `Gemini Code Assist API` to an existing organization-level service perimeter, including relevant projects and VPC networks, while restricting outbound traffic to the `199.36.153.4/30` restricted VIP range (`restricted.googleapis.com`) via firewall rules and DNS response policies.
+- **Firewall & DNS Configuration**: Enforce egress control by creating a deny-all rule (priority >1000) and an allow rule (priority <1000) fo
 
 ## Use Cases
 

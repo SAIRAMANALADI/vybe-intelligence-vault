@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-07-04T01:23:31.475494+05:30'
+collected_at: '2026-07-04T03:50:32.364371+05:30'
 published_at: '2026-07-03T18:45:29Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - models
 - python
 - rag
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-01-29T02:49:11Z'
 pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
-first_seen: '2026-07-04T01:23:31.475494+05:30'
-last_seen: '2026-07-04T01:23:31.475494+05:30'
-last_checked: '2026-07-04T01:23:31.475494+05:30'
+first_seen: '2026-07-04T03:50:32.364371+05:30'
+last_seen: '2026-07-04T03:50:32.364371+05:30'
+last_checked: '2026-07-04T03:50:32.364371+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering with a structured learning path, hands-on projects, and interview preparation aligned with enterprise-level AI agent development roles.
+- **Comprehensive 2026 AI Agent Bootcamp**: Covers end-to-end AI agent development from fundamentals to enterprise deployment, including LangChain/LangGraph, Coze, Dify, MCP, and skills integration, with RAG, LLM fine-tuning, and prompt engineering.
 
-- **Enterprise-Level AI Agent Development**: Includes skills for deploying, fine-tuning, and scaling AI agents, with modules on enterprise deployment, project deployment, and interview readiness for AI application development engineering positions.
+- **Full-Stack Project Pipeline**: Provides structured learning paths, hands-on projects, and interview preparation aligned with AI application engineering roles, emphasizing deployment, optimization, and real-world implementation.
 
-- **Multi-Framework & Tool Integration**: Integrates frameworks (LangChain, LangGraph, Coze, Dify) and tools (MCP, RAG, skills) with Python, providing a full-stack approach from foundational concepts to production-grade AI agent implementation.
+- **Toolchain & Ecosystem Integration**: Focuses on MCP, RAG, and agent frameworks (LangChain, LangGraph, Coze, Dify) with Python-based implementations, covering both technical depth and practical deployment scenarios.
 
 ## Why It Matters
 

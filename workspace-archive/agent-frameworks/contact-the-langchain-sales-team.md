@@ -14,6 +14,7 @@ tags:
 - agents
 - benchmark
 - web-crawled
+- workflows
 selection_reason:
 - Valuable developer reference
 ---
@@ -30,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **LangSmith** is an agent engineering platform designed for rapid deployment and reliability of AI agents, offering tools for **observation, evaluation, and deployment** while abstracting infrastructure complexity.
-- **Key features** include no-code agent building via **Fleet**, agent monitoring, and evaluation, enabling teams to accelerate the agent development lifecycle.
-- **Enterprise-ready** with support for teams of all sizes, trusted by industry leaders such as **Klarna, Cloudflare, and
+- **LangSmith** is an agent engineering platform designed for rapid deployment of reliable agents, offering observability, evaluation, and deployment capabilities while abstracting infrastructure complexity.
+
+- **Key features** include agent monitoring/evaluation, simplified deployment pipelines, and no-code agent development via **Fleet**, enabling faster iteration cycles for teams.
+
+- **Enterprise-ready** with support for scalable agent workflows, trusted by major teams (e.g., Klarna, Cloudfla
 
 ## Use Cases
 

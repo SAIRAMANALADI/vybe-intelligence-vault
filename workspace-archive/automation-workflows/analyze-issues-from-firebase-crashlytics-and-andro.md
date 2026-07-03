@@ -9,7 +9,7 @@ local_vault_path: ai/resources/analyze-issues-from-firebase-crashlytics-and-andr
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - web-crawled
@@ -17,7 +17,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Analyze issues from Firebase Crashlytics and Android Vitals with App Quality Insights | Android Studio | Android Develop
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **App Quality Insights (AQI) Integration**: Android Studio's AQI tool window consolidates Firebase Crashlytics and Google Play's Android Vitals data, enabling in-IDE crash analysis with features like code highlighting, stack trace navigation, severity filtering, and issue notes—requires Android Studio **Narwhal 4 Feature Drop** or newer.
+- **Integration & Compatibility**: App Quality Insights (AQI) in Android Studio (v4 Feature Drop+) consolidates Firebase Crashlytics and Google Play's Android Vitals data directly in the IDE, enabling in-line stack trace analysis, code navigation, and issue filtering (severity, device, Android version, etc.), with offline mode support for cached data.
 
-- **Crashlytics Data Analysis**: AQI provides variant-based crash grouping, device/version breakdowns, custom key-value logging, and direct code-to-stack-tra
+- **Code-Level Debugging**: AQI highlights crash-related code lines with gutter icons, provides variant-based crash grouping, stack trace diffs (
 
 ## Use Cases
 

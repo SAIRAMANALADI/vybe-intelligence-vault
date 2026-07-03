@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Persistent Memory System**: Provides long-term, structured memory storage for AI coding agents, optimized for real-world benchmark performance and seamless integration with development workflows.
+- **Persistent Memory System**: Provides durable storage and retrieval for AI coding agents, optimized for real-world benchmarks and long-term task execution.
 
-- **TypeScript Implementation**: Built in TypeScript, ensuring type safety and compatibility with modern JavaScript/TypeScript-based AI agent frameworks and tools.
+- **TypeScript Implementation**: Built in TypeScript, enabling type-safe interactions and integration with modern AI agent frameworks (e.g., ClaudeCode, Cursor, Copilot).
 
-- **Multi-Tool Integration**: Supports integration with popular AI coding agents (e.g., ClaudeCode, Cursor, Copilot) and frameworks (e
+- **Benchmark-Driven Design**: Evaluated against real-world use cases, ensuring performance and reliability for agent-based workflows (e.g., Hermes, OpenClaw).
 
 ## Use Cases
 

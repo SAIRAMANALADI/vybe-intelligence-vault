@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-04T01:22:06.378409+05:30'
+collected_at: '2026-07-04T03:49:07.292277+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
-- dataset
+- benchmark
 - github-repo
+- hackernews
 - jupyter notebook
 - models
 - rag
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-04T01:22:06.378409+05:30'
-last_seen: '2026-07-04T01:22:06.378409+05:30'
-last_checked: '2026-07-04T01:22:06.378409+05:30'
+first_seen: '2026-07-04T03:49:07.292277+05:30'
+last_seen: '2026-07-04T03:49:07.292277+05:30'
+last_checked: '2026-07-04T03:49:07.292277+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM interactions and data retrieval processes.
-
-- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based visualization, facilitating real-time analysis of RAG components (e.g., embeddings, retrieval mechanisms, and LLM outputs) with user-friendly controls.
-
-- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom datasets, retrieval strategies, and LLM integrations; last updated June 2026 with active community contributions (1.2k+ stars, 115 forks).
+- **Purpose**: Open-source tool designed for interactive visualization and exploration of Retrieval-Augmented Generation (RAG) pipelines using Python and Streamlit.
+- **Features**: Enables real-time debugging, analysis, and performance evaluation of RAG systems through Jupyter Notebook-based visualizations.
+- **Technical Stack**: Built with Python, Streamlit for UI, and integrates with Jupyter Notebooks for interactive data exploration.
 
 ## Why It Matters
 

@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAGAS**: A Python library for evaluating LLM applications, particularly Retrieval-Augmented Generation (RAG) systems, with 14.6k+ GitHub stars.
-- **Key Features**: Provides metrics for faithfulness, answer relevance, context precision/relevance, and harmfulness to assess RAG pipeline performance.
-- **Integration**: Supports seamless evaluation workflows for LLMops, enabling automated testing and benchmarking of LLM-based applications.
+- **RAGAS**: Python library for evaluating LLM applications, focusing on RAG (Retrieval-Augmented Generation) pipelines with 14638 GitHub stars and 1523 forks.
+- **Key Features**: Provides metrics for assessing faithfulness, answer relevance, context precision, and context recall in LLM outputs.
+- **Integration**: Designed for LLM Ops workflows, enabling automated evaluation and benchmarking of LLM applications in production environments.
 
 ## Use Cases
 

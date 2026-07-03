@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.apple.com/legal/privacy/en-ww/
-published_at: '2026-07-02T20:11:38.297991+05:30'
-collected_at: '2026-07-02T20:11:38.298009+05:30'
+published_at: '2026-07-04T03:55:07.394560+05:30'
+collected_at: '2026-07-04T03:55:07.394571+05:30'
 tags:
 - agents
 - dataset
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:legal-apple-privacy-policy-apple
-first_seen: '2026-07-02T20:11:38.298009+05:30'
-last_seen: '2026-07-02T20:11:38.298009+05:30'
-last_checked: '2026-07-02T20:11:38.298009+05:30'
+first_seen: '2026-07-04T03:55:07.394571+05:30'
+last_seen: '2026-07-04T03:55:07.394571+05:30'
+last_checked: '2026-07-04T03:55:07.394571+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Definition & Scope of Personal Data**: Apple treats any data linked to an identifiable individual (e.g., device serial numbers, aggregated non-personal data excluded) as "personal data," regardless of geographic location, covering interactions via websites, apps, or in-store visits.
-
-- **Data Collection & Usage**: Apple collects minimal personal data (e.g., account, device, payment, health, or location info) necessary for services, transactions, security, or legal compliance, with explicit user consent required for additional processing.
-
-- **Third-Party & AI Data Handling**: Apple receives data from individuals/partners (e.g., fraud prevention, loyalty programs) and uses Applebot (web crawler) for public data (no user profiling), while AI model training excludes private user data.
+- **Broad Definition of Personal Data**: Apple defines "personal data" as any information relating to an identified or identifiable individual, including indirect identifiers (e.g., device serial numbers), regardless of location; aggregated data is excluded.
+- **Data Minimization & Legal Bases**: Apple collects only necessary personal data, relying on user consent, contractual necessity, legitimate interests, or legal compliance for processing; sensitive data is not used for profiling without human review.
+- **Third-Party & AI Data Handling**: Apple receives data from individuals, partners, and public sources (via Applebot), with measures to avoid re-identification; personal data is not used to train foundational AI models.
 
 ## Why It Matters
 
@@ -41,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T20:11:38.297991+05:30
+- Published: 2026-07-04T03:55:07.394560+05:30
 
 ## Related Tags
 

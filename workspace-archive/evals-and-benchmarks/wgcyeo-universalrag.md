@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation across diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, entity-level), leveraging unified embedding and indexing strategies.
+- **Multimodal & Multi-Granularity RAG Framework**: Introduces a retrieval-augmented generation (RAG) system (`UniversalRAG`) designed to handle diverse data modalities (e.g., text, images, tables) and granularities (e.g., documents, paragraphs, entities) within a unified architecture.
 
-- **ACL 2026 Oral Presentation**: The system is highlighted as an oral presentation at ACL 2026, emphasizing its novel contributions to scalable, cross-modal retrieval and generation in large corpor
+- **Modular Retrieval & Adaptive Fusion**: Implements a modular retrieval pipeline with modality-specific encoders and an adaptive fusion mechanism to dynamically combine retrieved information across modalities,
 
 ## Use Cases
 

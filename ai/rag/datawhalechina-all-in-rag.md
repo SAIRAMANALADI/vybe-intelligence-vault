@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-07-04T01:21:21.361012+05:30'
+collected_at: '2026-07-04T03:48:22.237499+05:30'
 published_at: '2026-07-03T17:44:28Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-06-05T08:29:26Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-07-04T01:21:21.361012+05:30'
-last_seen: '2026-07-04T01:21:21.361012+05:30'
-last_checked: '2026-07-04T01:21:21.361012+05:30'
+first_seen: '2026-07-04T03:48:22.237499+05:30'
+last_seen: '2026-07-04T03:48:22.237499+05:30'
+last_checked: '2026-07-04T03:48:22.237499+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Guide**: Repository provides a full-stack technical guide for developing RAG (Retrieval-Augmented Generation) applications, covering end-to-end implementation with Python.
-- **Key Technologies**: Integrates multiple AI frameworks and tools including LangChain, LlamaIndex, Milvus (vector DB), Neo4j (graph DB), and supports embeddings/models like DeepSeek, Kimi-K2.
-- **Multimodal & Advanced Features**: Includes support for multimodal RAG, graph-based retrieval (Neo4j), and vector search (Milvus), with last update in July 2026.
+- **Comprehensive RAG Development Guide**: Repository provides a full-stack technical manual for building Retrieval-Augmented Generation (RAG) applications with large language models (LLMs), covering end-to-end implementation strategies.
+
+- **Multi-Tool & Framework Integration**: Supports multiple embedding models (e.g., DeepSeek, Kimi-K2), vector databases (Milvus), graph databases (Neo4j), and frameworks (LangChain, LlamaIndex) for multimodal RAG pipelines.
+
+- **Python-Centric Implementation**: Entire stack is implemented in Python, with last update (2026-07-03) ensuring compatibility with modern AI/ML tooling and LLM advancements.
 
 ## Why It Matters
 

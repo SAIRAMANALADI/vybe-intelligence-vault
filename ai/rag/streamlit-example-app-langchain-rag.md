@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-04T01:22:11.459947+05:30'
+collected_at: '2026-07-04T03:49:12.346412+05:30'
 published_at: '2026-06-30T01:41:05Z'
 tags:
 - github-repo
+- openai
 - python
 - rag
-- workflows
 stars: 157
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-04T01:22:11.459947+05:30'
-last_seen: '2026-07-04T01:22:11.459947+05:30'
-last_checked: '2026-07-04T01:22:11.459947+05:30'
+first_seen: '2026-07-04T03:49:12.346412+05:30'
+last_seen: '2026-07-04T03:49:12.346412+05:30'
+last_checked: '2026-07-04T03:49:12.346412+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector store retrieval (likely FAISS or similar) with hybrid search (dense + sparse embeddings) for enhanced document retrieval accuracy.
+- Implements a Streamlit-based RAG (Retrieval-Augmented Generation) application using LangChain for LLM orchestration and hybrid search (combining vector similarity and keyword-based retrieval) over a vector store.
 
-- **LangChain Integration**: Utilizes LangChain’s modular framework for chaining LLM calls, document loaders, and retrievers, demonstrating end-to-end RAG workflow in a Streamlit UI.
+- Demonstrates integration with a vector database (e.g., FAISS, Chroma, or Pinecone) for efficient document retrieval and combines results with a generative model (e.g., OpenAI, Hugging Face) for contextual response synthesis.
 
-- **Streamlit Deployment**: Showcases a production-ready Streamlit app for interactive RAG demos, with real-time query processing and hybrid search result visualization.
+- Features a modular pipeline for document ingestion, embedding generation (e.g., using SentenceTransformers or OpenAI embeddings), and interactive querying via a Streamlit UI with hybrid search optimization.
 
 ## Why It Matters
 

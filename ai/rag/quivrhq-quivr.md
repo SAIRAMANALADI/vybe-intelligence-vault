@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-07-04T01:22:51.452419+05:30'
+collected_at: '2026-07-04T03:49:52.374886+05:30'
 published_at: '2026-07-03T19:31:33Z'
 tags:
 - frontend_ui
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-07-04T01:22:51.452419+05:30'
-last_seen: '2026-07-04T01:22:51.452419+05:30'
-last_checked: '2026-07-04T01:22:51.452419+05:30'
+first_seen: '2026-07-04T03:49:52.374886+05:30'
+last_seen: '2026-07-04T03:49:52.374886+05:30'
+last_checked: '2026-07-04T03:49:52.374886+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr provides an opinionated Retrieval-Augmented Generation (RAG) system designed for seamless GenAI integration into applications, abstracting complexity for developers to focus on product-specific logic.
+- **Modular RAG Framework**: QuivrHQ/quivr provides an opinionated Retrieval-Augmented Generation (RAG) pipeline designed for seamless GenAI integration into applications, supporting customization for LLM providers (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss).
 
-- **Multi-Backend Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across diverse infrastructure while accommodating custom file integrations.
+- **Multi-Format & Multi-Store Support**: Enables integration with any file type and vector storage backend, offering flexibility in deployment (e.g., PostgreSQL, Docker) while maintaining privacy and security.
 
-- **Full-Stack Toolkit**: Offers a Python-based backend with Docker support, a React/TypeScript frontend, and APIs for OpenAI/Groq integration, emphasizing security, privacy, and extensibility for production-grade applications.
+- **Tech Stack**: Built in Python with a React/TypeScript frontend, exposing APIs for extensibility (e.g., OpenAPI, Groq) and supporting Dockerized deployments for scalable, production-ready GenAI applications.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: QuivrHQ
 - Stars: 39183
-- Forks: 3719
+- Forks: 3718
 - Language: Python
 - Topics: ai, api, chatbot, chatgpt, database, docker, framework, frontend, groq, html, javascript, llm, openai, postgresql, privacy, rag, react, security, typescript, vector
 - Last Updated: 2026-07-03T19:31:33Z

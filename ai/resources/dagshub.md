@@ -4,15 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://discord.com/invite/9gU36Y6
-published_at: '2026-06-22T11:19:39.463230+05:30'
-collected_at: '2026-06-22T11:19:39.463241+05:30'
+published_at: '2026-07-04T03:53:16.872149+05:30'
+collected_at: '2026-07-04T03:53:16.872158+05:30'
 tags:
+- frontend_ui
 - web-crawled
 status: active
 resource_id: blog:dagshub
-first_seen: '2026-06-22T11:19:39.463241+05:30'
-last_seen: '2026-06-22T11:19:39.463241+05:30'
-last_checked: '2026-06-22T11:19:39.463241+05:30'
+first_seen: '2026-07-04T03:53:16.872158+05:30'
+last_seen: '2026-07-04T03:53:16.872158+05:30'
+last_checked: '2026-07-04T03:53:16.872158+05:30'
 health_score: 100
 ---
 
@@ -20,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **JavaScript Dependency**: The application requires JavaScript to be enabled in the browser for full functionality.
-- **Client-Side Execution**: Core application logic and rendering depend on JavaScript execution in the user's browser.
-- **Error State**: Without JavaScript enabled, users encounter a blocking error preventing access to the application's features.
+- **Client-Side Scripting Requirement**: The application mandates JavaScript execution in the user's browser to render content and enable interactive functionality.
+- **Frontend Dependency**: Relies on JavaScript-based frameworks/libraries (e.g., React, Angular) for dynamic UI updates and state management.
+- **Error Handling Mechanism**: Displays a fallback message ("Enable JavaScript to run this app") when the browser blocks or fails to execute JavaScript.
 
 ## Why It Matters
 
@@ -32,10 +33,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:19:39.463230+05:30
+- Published: 2026-07-04T03:53:16.872149+05:30
 
 ## Related Tags
 
+- frontend_ui
 - web-crawled
 
 ## Source

@@ -15,6 +15,7 @@ tags:
 - github-repo
 - hackernews
 - python
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Security scanner designed to detect vulnerabilities in AI agents, MCP servers, and agent skills.
-- **Key Features**: Supports static and dynamic analysis for identifying security risks in AI-driven systems.
-- **Technical Stack**: Python-based tool with integration for MCP (Model Context Protocol) security assessments.
+- **Purpose**: Security scanner designed to audit AI agents, MCP servers, and agent skills for vulnerabilities and misconfigurations.
+- **Key Features**: Supports detection of security risks in AI workflows, including model context protocol (MCP) integrations and agent-specific attack surfaces.
+- **Technical Stack**: Implemented in Python, with active maintenance and updates as of July 2026.
 
 ## Use Cases
 

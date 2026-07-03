@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:the-mj-rathbun-case-how-an-autonomous-ai-bot-cyber
 first_seen: '2026-07-04T01:20:43.188240+05:30'
 last_seen: '2026-07-04T01:20:43.188240+05:30'
 last_checked: '2026-07-04T01:20:43.188240+05:30'
 health_score: 100
 ---
+
 
 # The MJ Rathbun case: How an autonomous AI bot cyberbullied a human programmer
 

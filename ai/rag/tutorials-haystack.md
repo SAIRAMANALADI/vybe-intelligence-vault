@@ -4,11 +4,12 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-07-04T01:29:16.856710+05:30'
-collected_at: '2026-07-04T01:29:16.856720+05:30'
+published_at: '2026-07-04T03:54:21.648246+05:30'
+collected_at: '2026-07-04T03:54:21.648256+05:30'
 tags:
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag
@@ -17,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-07-04T01:29:16.856720+05:30'
-last_seen: '2026-07-04T01:29:16.856720+05:30'
-last_checked: '2026-07-04T01:29:16.856720+05:30'
+first_seen: '2026-07-04T03:54:21.648256+05:30'
+last_seen: '2026-07-04T03:54:21.648256+05:30'
+last_checked: '2026-07-04T03:54:21.648256+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Evaluation Framework**: Haystack provides a guided walkthrough for implementing evaluation metrics to assess RAG pipeline performance, including statistical and model-based approaches.
+- **Evaluation Framework**: Haystack provides a guided walkthrough for evaluating RAG pipelines using statistical and model-based metrics, enabling systematic performance assessment of generative QA systems.
 
-- **Agentic RAG Systems**: Tutorials cover advanced agentic workflows, including multi-agent systems, tool-calling agents, and fallback mechanisms (e.g., web search integration) for dynamic query routing.
+- **Multimodal & Agentic Workflows**: Tutorials cover advanced implementations including multimodal RAG (combining text and vision), multi-agent systems, tool-calling agents with web search fallback, and human-in-the-loop confirmation strategies for safer AI interactions.
 
-- **Multimodal & Structured Outputs**: Haystack supports multimodal RAG (vision+text) and structured output generation (e.g., Pydantic/JSON schema) with OpenAI models, enabling complex data processing pipelines.
+- **Optimization & Customization**: Haystack tutorials include techniques for metadata embedding for improved retrieval, hybrid retrieval (combining dense and keyword-based methods), KV cache compression (TurboQuant) for LLM memory efficiency, and custom SuperComponent creation via `@super_component` decorator.
 
 ## Why It Matters
 
@@ -41,12 +42,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T01:29:16.856710+05:30
+- Published: 2026-07-04T03:54:21.648246+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag

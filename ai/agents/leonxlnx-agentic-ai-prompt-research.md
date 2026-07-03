@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-07-04T01:24:31.494389+05:30'
+collected_at: '2026-07-04T03:51:32.445856+05:30'
 published_at: '2026-07-02T22:12:40Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - github-repo
 - hackernews
 - unknown
+- workflows
 stars: 2471
 language: Unknown
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-07-04T01:24:31.494389+05:30'
-last_seen: '2026-07-04T01:24:31.494389+05:30'
-last_checked: '2026-07-04T01:24:31.494389+05:30'
+first_seen: '2026-07-04T03:51:32.445856+05:30'
+last_seen: '2026-07-04T03:51:32.445856+05:30'
+last_checked: '2026-07-04T03:51:32.445856+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and coordination mechanisms for autonomous AI coding agents, emphasizing system prompts and multi-agent collaboration frameworks.
-
-- **Security Classification**: Investigates security risks and mitigation strategies in agentic AI systems, including prompt injection, data leakage, and adversarial attacks.
-
-- **Claude & Prompt Engineering**: Examines advanced prompt engineering techniques tailored for agentic AI models like Claude, optimizing for task decomposition, tool integration, and real-time code generation.
+- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and coordination mechanisms for autonomous AI agents in coding tasks, emphasizing system prompts and agentic workflows.
+- **Security Classification**: Investigates security implications and classifications of agentic AI systems, likely addressing vulnerabilities in multi-agent architectures and prompt injection risks.
+- **Claude & Prompt Engineering**: Examines advanced prompt engineering techniques tailored for agentic AI models like Claude, optimizing agent autonomy and task decomposition.
 
 ## Why It Matters
 

@@ -6,20 +6,21 @@ source_url: https://github.com/shanraisshan/codex-cli-best-practice
 resource_id: github:shanraisshan/codex-cli-best-practice
 local_vault_path: ai/agents/shanraisshan-codex-cli-best-practice.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
-resource_kind: workflow
-importance: high
+archive_score: 77
+archive_tier: useful
+resource_kind: template
+importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - python
 - scripts
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # shanraisshan/codex-cli-best-practice
@@ -27,17 +28,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
-- Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: workflow
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository provides structured methodologies to transition from "vibe coding" to **agentic engineering** using Codex CLI, emphasizing automation, context engineering, and modular hooks for scalable AI-driven development workflows.
+- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
 
-- **Codex CLI Skills & Hooks**: Demonstrates implementation of **custom Codex CLI commands, skills, and hooks** to extend OpenAI Codex capabilities, enabling persistent context management, multi-agent collaboration, and reusable AI
+- **CLI-Centric Best Practices**: Provides a curated set of *Codex CLI commands*, agent templates, and skill configurations optimized for OpenAI’s Codex, enabling reproducible, scalable AI agent interactions in Python-based environments.
+
+- **C
 
 ## Use Cases
 

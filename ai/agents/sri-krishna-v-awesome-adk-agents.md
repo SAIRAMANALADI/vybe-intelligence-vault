@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-07-04T01:24:06.492310+05:30'
+collected_at: '2026-07-04T03:51:07.413800+05:30'
 published_at: '2026-07-03T10:09:19Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - hackernews
 - python
 - scripts
-- workflows
 stars: 329
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-06-28T14:36:38Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-07-04T01:24:06.492310+05:30'
-last_seen: '2026-07-04T01:24:06.492310+05:30'
-last_checked: '2026-07-04T01:24:06.492310+05:30'
+first_seen: '2026-07-04T03:51:07.413800+05:30'
+last_seen: '2026-07-04T03:51:07.413800+05:30'
+last_checked: '2026-07-04T03:51:07.413800+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google's Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
-- **Technical Scope**: Focuses on ADK-Python and ADK-Web implementations, with support for multi-agent systems, agentic AI workflows, and integration with Google's Gemini AI models.
-- **Metadata**: 329 stars, 47 forks, primarily Python-based, last updated July 3, 2026, with topics covering ADK, agent samples, and Google ADK ecosystem.
+- **Curated ADK Resources**: Repository containing Google’s Agent Development Kit (ADK) templates, best practices, and production-ready AI agent examples across domains like research, business, automation, and education.
+- **Multi-Platform Support**: Includes `adk-python`, `adk-web`, and examples for multi-agent systems, with a focus on Google’s Gemini AI integration.
+- **Technical Scope**: Python-based collection covering agentic AI, ADK-specific tools, and deployment-ready samples, last updated July 2026.
 
 ## Why It Matters
 

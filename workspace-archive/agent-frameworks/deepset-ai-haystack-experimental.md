@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Experimental Features Repository**: Hosts cutting-edge, untested additions to the Haystack framework, designed for developers to explore and contribute to nascent functionalities.
-- **Minimal Metadata**: Lacks explicit topic categorization, indicating an early-stage or highly specialized codebase focused on rapid iteration rather than broad adoption.
-- **Recent Activity**: Last updated in mid-2026, suggesting active but infrequent maintenance, with a small contributor base (64 stars, 24 fork
+- **Experimental Features Repository**: Hosts cutting-edge, untested modules and enhancements for Haystack, a Python-based NLP framework.
+- **Metadata**: 64 GitHub stars, 24 forks, last updated on July 1, 2026.
+- **Purpose**: Serves as a sandbox for innovative but unstable additions to Haystack’s core functionality.
 
 ## Use Cases
 

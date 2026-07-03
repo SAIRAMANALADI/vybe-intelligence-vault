@@ -12,7 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- meta-ai
+- hackernews
 - models
 - python
 - rag
@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, covering end-to-end deployment challenges.
+- **Curated RAG Production Resources**: Repository providing a vetted list of tools, frameworks, and best practices for deploying scalable, production-grade Retrieval-Augmented Generation (RAG) systems, covering components like embeddings, vector databases, and LLM integration.
 
-- **Comprehensive Tech Stack**: Includes Python-based tools for embeddings (e.g., FAISS, Chroma), vector databases (e.g., Pinecone, Weaviate), LLM frameworks (e.g., LangChain, LlamaIndex), and MLOps pipelines for RAG workflows.
-
-- **MLOps & AI Engineering Foc
+- **Technical Scope**: Focuses on Python-based AI/ML engineering tools (e.g., LangChain) and MLOps practices for optimizing RAG pipelines, including retrieval mechanisms, LLM fine-tuning, and vector database management.
 
 ## Use Cases
 

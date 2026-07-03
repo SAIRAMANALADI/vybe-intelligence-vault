@@ -12,11 +12,11 @@ resource_kind: template
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
 - hackernews
 - python
 - rag
-- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Template Purpose**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, optimized for rapid prototyping and deployment.
+- **Template Purpose**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, optimized for Python-based AI workflows.
 
-- **Key Components**: Includes modular Python scripts for document ingestion, vector storage (e.g., Chroma/FAISS), and agent-based query processing with LLM integration (e.g., LangChain's `ConversationalRetrievalChain`).
+- **Key Components**: Includes modular components for document retrieval, vector storage (e.g., FAISS/Chroma), and agent orchestration with LangChain’s LCEL (LangChain Expression Language) for dynamic pipeline execution.
 
-- **Technical Stack**: Leverages Python with dependencies like `langchain`, `pyda
+- **Technical Stack**: Leverages Python with dependencies like `langchain`, `langgraph`,
 
 ## Use Cases
 

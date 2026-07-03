@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://news.ycombinator.com/item?id=48771515
 hn_url: https://news.ycombinator.com/item?id=48771515
-score: 55
+score: 96
 author: yehiaabdelm
-comments_count: 69
+comments_count: 131
 published_at: '2026-07-03T11:51:44+05:30'
-collected_at: '2026-07-04T01:20:44.617958+05:30'
+collected_at: '2026-07-04T03:47:46.888971+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:ask-hn-is-anyone-experimenting-with-different-ways
 first_seen: '2026-07-04T01:20:44.617958+05:30'
-last_seen: '2026-07-04T01:20:44.617958+05:30'
-last_checked: '2026-07-04T01:20:44.617958+05:30'
+last_seen: '2026-07-04T03:47:46.888971+05:30'
+last_checked: '2026-07-04T03:47:46.888971+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by yehiaabdelm. Score: 55, Comments: 69.
+Hacker News story by yehiaabdelm. Score: 96, Comments: 131.
 Original Link: None
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: yehiaabdelm
-- Score: 55 Upvotes
-- Comments: 69 Discussions
+- Score: 96 Upvotes
+- Comments: 131 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48771515
 - Original Article: https://news.ycombinator.com/item?id=48771515
 

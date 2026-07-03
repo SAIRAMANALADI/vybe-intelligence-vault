@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-07-04T01:22:06.376225+05:30'
+collected_at: '2026-07-04T03:49:07.341562+05:30'
 published_at: '2026-07-03T18:15:32Z'
 tags:
 - benchmark
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-07-02T03:46:39Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-07-04T01:22:06.376225+05:30'
-last_seen: '2026-07-04T01:22:06.376225+05:30'
-last_checked: '2026-07-04T01:22:06.376225+05:30'
+first_seen: '2026-07-04T03:49:07.341562+05:30'
+last_seen: '2026-07-04T03:49:07.341562+05:30'
+last_checked: '2026-07-04T03:49:07.341562+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using AutoML techniques, reducing manual tuning effort.
+- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning while improving performance metrics.
 
-- **Comprehensive RAG Pipeline Support**: Includes document parsing, embedding generation, retrieval, and LLM integration with built-in benchmarking and analysis tools for end-to-end RAG workflows.
+- **Comprehensive RAG Toolkit**: Supports document parsing, embedding generation, retrieval evaluation, and LLM-based QA benchmarking with built-in AutoML for hyperparameter optimization and pipeline configuration.
 
-- **Open-Source Python Framework**: Provides a modular, extensible Python library with pre-configured pipelines, evaluation metrics, and optimization strategies for rapid RAG deployment and iteration.
+- **Open-Source Python Framework**: Provides modular components for RAG workflows, including benchmarking tools, document parsers, and LLM evaluation metrics, with active community contributions and updates.
 
 ## Why It Matters
 

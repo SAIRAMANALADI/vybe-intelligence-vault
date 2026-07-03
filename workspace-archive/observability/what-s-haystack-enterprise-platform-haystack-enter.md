@@ -6,9 +6,9 @@ source_url: https://docs.cloud.deepset.ai/docs/getting-started?__hstc=17958374.3
 resource_id: blog:what-s-haystack-enterprise-platform-haystack-enter
 local_vault_path: ai/rag/what-s-haystack-enterprise-platform-haystack-enter.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation
@@ -26,19 +26,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Data Processing Pipeline**: Supports automated ingestion, OCR, and preprocessing of unstructured data (PDFs, Office docs, images) via built-in converters and document stores for vectorized retrieval.
+- **Data Processing Pipeline**: Supports automated ingestion, OCR, and preprocessing of multi-format documents (PDFs, Office, images) via built-in converters and document stores for vectorized retrieval.
 
-- **Modular AI Agents & RAG**: Enables construction of multi-component pipelines (retrievers, rankers, generators) for enterprise-grade agents and RAG systems with model-agnostic LLM/embedding provider integration.
+- **Modular AI Agent Framework**: Enables construction of reasoning-capable agents and RAG pipelines using interchangeable components (retrievers, rankers, generators) with visual Pipeline Builder and model-agnostic integrations.
 
-- **Lifecycle Management**: Provides REST API-driven deployment, observability
+- **Observability & Deployment**: Provides REST API for lifecycl
 
 ## Use Cases
 

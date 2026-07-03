@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated 2026 AI Agent Research**: Repository aggregates cutting-edge papers on AI agents, focusing on agent engineering, memory systems, evaluation frameworks, workflow optimization, and autonomous architectures.
-- **Technical Scope**: Encompasses LLM-driven agents, retrieval-augmented generation (RAG), and memory-augmented architectures, with emphasis on scalability and real-world deployment.
-- **Metadata**: 1,511 stars, 162 forks; last updated July 3, 2026; categorized under AI agents, LLM
+- **Curated 2026 AI Agent Research**: Repository compiles cutting-edge papers on AI agent engineering, memory systems, evaluation frameworks, workflows, and autonomous systems, specifically from 2026.
+- **Technical Scope**: Focuses on LLM-based agents, retrieval-augmented generation (RAG), and advanced memory architectures, with emphasis on practical implementations and theoretical advancements.
+- **High-Activity Open-Source Project**: Maintained with 1,511 stars and 162 forks, last updated July
 
 ## Use Cases
 

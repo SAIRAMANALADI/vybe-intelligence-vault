@@ -6,15 +6,16 @@ source_url: https://github.com/ALucek/GraphRAG-Breakdown
 resource_id: github:alucek/graphrag-breakdown
 local_vault_path: ai/rag/alucek-graphrag-breakdown.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
-- benchmark
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -25,19 +26,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Knowledge Graph RAG Architecture**: Demonstrates a modular pipeline integrating knowledge graphs (KGs) with Retrieval-Augmented Generation (RAG), including graph construction, retrieval, and generation stages with explicit component interactions.
+- **Knowledge Graph RAG Architecture**: Repository provides a structured breakdown of integrating knowledge graphs (KGs) with Retrieval-Augmented Generation (RAG), including modular components for entity extraction, graph construction, and query-aware retrieval.
 
-- **Graph-Based Retrieval Mechanisms**: Implements graph-aware retrieval strategies (e.g., subgraph extraction, path-based retrieval) to enhance context relevance, with visualizations of query processing over KGs.
+- **Visual & Example-Based Learning**: Includes Jupyter Notebooks with diagrams and executable examples demonstrating end-to-end workflows, such as converting unstructured text into KGs and using them for context-aware LLM prompting.
 
-- **Evaluation & Examples**: Prov
+-
 
 ## Use Cases
 

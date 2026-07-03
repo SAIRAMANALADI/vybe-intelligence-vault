@@ -4,24 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-07-04T01:23:31.535127+05:30'
-published_at: '2026-07-03T19:20:32Z'
+collected_at: '2026-07-04T03:50:32.420275+05:30'
+published_at: '2026-07-03T20:05:36Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
+- scripts
 - workflows
 stars: 2758
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2025-05-15T09:00:54Z'
-pushed_at: '2026-07-03T19:20:27Z'
+pushed_at: '2026-07-03T20:05:33Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-07-04T01:23:31.535127+05:30'
-last_seen: '2026-07-04T01:23:31.535127+05:30'
-last_checked: '2026-07-04T01:23:31.535127+05:30'
+first_seen: '2026-07-04T03:50:32.420275+05:30'
+last_seen: '2026-07-04T03:50:32.420275+05:30'
+last_checked: '2026-07-04T03:50:32.420275+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Systems**: Repository focuses on collaborative AI agents with advanced coordination, task delegation, and inter-agent communication protocols for complex workflows.
-- **Memory & Reasoning Loops**: Implements persistent memory architectures and iterative reasoning cycles to enhance agent decision-making and contextual adaptation.
-- **Agentic Frameworks**: Provides tutorials on building agentic AI systems using Jupyter Notebooks, covering planning, RAG integration, and skill-based agent development.
+- **Multi-Agent Systems & Frameworks**: Repository focuses on agentic AI development, covering multi-agent systems, memory management, planning, and reasoning loops with practical implementations in Jupyter Notebooks.
+
+- **Agentic AI Skills**: Includes tutorials on agentic RAG, workflow automation, and agentic coding/engineering, emphasizing modular agent skills and framework integration.
+
+- **Technical Stack**: Primarily uses Python-based Jupyter Notebooks for agentic AI projects, with active updates (last commit: 2026-07-03) and a growing community (2,758 stars, 603 forks).
 
 ## Why It Matters
 
@@ -44,10 +48,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 603
 - Language: Jupyter Notebook
 - Topics: agent-skills, agentic-ai, agentic-ai-development, agentic-coding, agentic-engineering, agentic-framework, agentic-rag, agentic-workflow, ai, aiagent, aiagents
-- Last Updated: 2026-07-03T19:20:32Z
+- Last Updated: 2026-07-03T20:05:36Z
 - Archived: No
 - Created At: 2025-05-15T09:00:54Z
-- Pushed At: 2026-07-03T19:20:27Z
+- Pushed At: 2026-07-03T20:05:33Z
 
 ## Possible Use Cases
 

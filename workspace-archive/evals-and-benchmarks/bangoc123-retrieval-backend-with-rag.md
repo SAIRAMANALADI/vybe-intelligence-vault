@@ -6,19 +6,17 @@ source_url: https://github.com/bangoc123/retrieval-backend-with-rag
 resource_id: github:bangoc123/retrieval-backend-with-rag
 local_vault_path: ai/rag/bangoc123-retrieval-backend-with-rag.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
-- benchmark
-- dataset
 - github-repo
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # bangoc123/retrieval-backend-with-rag
@@ -26,19 +24,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Repository demonstrates Retrieval-Augmented Generation (RAG) best practices specifically optimized for Vietnamese language processing, leveraging Python-based pipelines.
+- **Vietnamese RAG Implementation**: Repository provides a Vietnamese-focused Retrieval-Augmented Generation (RAG) backend, optimized for Vietnamese language processing tasks.
 
-- **Modular Architecture**: Includes components for document retrieval, embedding generation (likely using models like `vinai/phobert-base`), and integration with vector databases (e.g., FAISS or Chroma) for efficient similarity search.
+- **Python-Based Architecture**: Utilizes Python for implementation, leveraging libraries/frameworks like LangChain, FAISS, and Hugging Face Transformers for efficient retrieval and generation.
 
-- **Evaluation & Optimization**: Provides tools for be
+- **Modular Design**: Includes components for document retrieval (vector DB with FAISS), embedding models (e.g., `vinai/phobert-
 
 ## Use Cases
 

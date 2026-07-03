@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Service Overview**: YouTube TV offers cable-free live TV streaming with 100+ networks (e.g., CBS, FOX, NBC, NFL Network, HGTV), cloud DVR (9-month storage), and 6 household accounts, priced at $72.99/month (increasing to $82.99).
+- **Service Offering**: YouTube TV provides cable-free live TV streaming with 100+ networks (e.g., CBS, FOX, NBC, NFL Network, HGTV), cloud DVR (9-month storage), and 6 household accounts with individual logins and DVRs. NFL Sunday Ticket is now exclusive to YouTube TV.
 
-- **Technical Features**: Supports multi-device streaming (smartphone, tablet, TV, computer), no cable box required, and includes NFL Sunday Ticket (excludes commercial use and certain games).
+- **Subscription Model**: Monthly pay-as-you-go membership ($72.99→$82.99) with no contracts, cancellation fees, or long-term obligations. Auto-renewal can be disabled via account settings 24 hours prior to billing.
 
-- **Data & Privacy**: App collects location/personal data but encrypts
+- **Data Ha
 
 ## Use Cases
 

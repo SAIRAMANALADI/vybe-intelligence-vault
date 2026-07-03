@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Tencent/WeKnora
-collected_at: '2026-07-04T01:22:11.437410+05:30'
-published_at: '2026-07-03T19:34:44Z'
+collected_at: '2026-07-04T03:49:12.337040+05:30'
+published_at: '2026-07-03T21:23:35Z'
 tags:
 - agents
 - benchmark
@@ -15,8 +15,7 @@ tags:
 - models
 - openai
 - rag
-- reddit
-stars: 17725
+stars: 17726
 language: Go
 status: active
 license: NOASSERTION
@@ -24,9 +23,9 @@ archived: false
 created_at: '2025-07-22T08:01:23Z'
 pushed_at: '2026-07-03T10:38:38Z'
 resource_id: github:tencent/weknora
-first_seen: '2026-07-04T01:22:11.437410+05:30'
-last_seen: '2026-07-04T01:22:11.437410+05:30'
-last_checked: '2026-07-04T01:22:11.437410+05:30'
+first_seen: '2026-07-04T03:49:12.337040+05:30'
+last_seen: '2026-07-04T03:49:12.337040+05:30'
+last_checked: '2026-07-04T03:49:12.337040+05:30'
 health_score: 100
 ---
 
@@ -34,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal RAG & Agent Framework**: WeKnora converts raw documents into a queryable Retrieval-Augmented Generation (RAG) system, supports autonomous reasoning agents, and maintains a self-updating Wiki, all in Go.
+- **Multi-modal RAG & Agent Framework**: WeKnora converts raw documents into a queryable Retrieval-Augmented Generation (RAG) system, supports autonomous reasoning agents, and maintains a self-updating Wiki via Go-based pipelines integrating embeddings, vector search, and reranking.
 
-- **Scalable Vector & Semantic Search**: Integrates embeddings, reranking, and vector/semantic search with support for multi-tenancy, multi-model LLMs (Ollama, OpenAI), and semantic indexing.
+- **Scalable Multi-Tenant Architecture**: Implements a Golang-based, multi-tenant system supporting OpenAI/Ollama LLMs, semantic/vector search, and multi-model embeddings for enterprise-grade knowledge bases and chatbots.
 
-- **Production-Grade Features**: Includes evaluation tools, chatbot interfaces, and knowledge-base management with last update timestamp (2026-07-03).
+- **Evaluation & Self-Maintenance**: Includes built-in evaluation tools for RAG/agent performance, supports dynamic document updates, and enables semantic Wiki auto-maintenance via embeddings and reranking.
 
 ## Why It Matters
 
@@ -47,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Tencent
-- Stars: 17725
-- Forks: 2381
+- Stars: 17726
+- Forks: 2380
 - Language: Go
 - Topics: agent, agentic, ai, chatbot, embeddings, evaluation, generative-ai, golang, knowledge-base, llm, multi-tenant, multimodel, ollama, openai, question-answering, rag, reranking, semantic-search, vector-search, wiki
-- Last Updated: 2026-07-03T19:34:44Z
+- Last Updated: 2026-07-03T21:23:35Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-07-22T08:01:23Z

@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging agent-memory interactions for enhanced knowledge retrieval and generation.
+- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging agent-memory and ontology-construction for enhanced knowledge retrieval and generation.
 
-- **Graph & Ontology Construction**: Dynamically constructs and integrates graph structures and ontologies to improve contextual understanding and retrieval efficiency in RAG pipelines.
+- **Graph Construction & Ontology Integration**: Dynamically constructs knowledge graphs and integrates ontologies to improve contextual understanding and retrieval efficiency in RAG pipelines.
 
-- **Python-Based Implementation**: Provides an open-source Python framework optimized for large-
+- **Python-Based Framework**: Developed in Python, the repository provides
 
 ## Use Cases
 

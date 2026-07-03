@@ -18,13 +18,13 @@ It saves hours of repetitive development tasks, guarantees operational consisten
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 3104 resources matched in the intelligence vault.
+Active signals: 3118 resources matched in the intelligence vault.
 Recently detected signals:
-- [Prisma · GitHub](../ai/resources/prisma-github.md) (Source: Unknown Source) - Collected 2026-07-04
-- [Agent Infrastructure for TypeScript](../ai/agents/agent-infrastructure-for-typescript.md) (Source: Unknown Source) - Collected 2026-07-04
-- [Mastering Nuxt | The official courses for learning Nuxt](../ai/rag/mastering-nuxt-the-official-courses-for-learning-n.md) (Source: Unknown Source) - Collected 2026-07-04
-- [Vue · GitHub](../ai/resources/vue-github.md) (Source: Unknown Source) - Collected 2026-07-04
-- [Vue School | The #1 source for learning Vue.js from experts](../ai/rag/vue-school-the-1-source-for-learning-vue-js-from-e.md) (Source: Unknown Source) - Collected 2026-07-04
+- [ChatGPT Supported Countries | OpenAI Help Center](../ai/rag/chatgpt-supported-countries-openai-help-center.md) (Source: Unknown Source) - Collected 2026-07-04
+- [run-llama/llama-hub](../ai/rag/run-llama-llama-hub.md) (Source: Unknown Source) - Collected 2026-07-04
+- [github/codeql](../ai/resources/github-codeql.md) (Source: Unknown Source) - Collected 2026-07-04
+- [electron/electron](../ai/rag/electron-electron.md) (Source: Unknown Source) - Collected 2026-07-04
+- [Getting Started | Electron Forge](../ai/rag/getting-started-electron-forge.md) (Source: Unknown Source) - Collected 2026-07-04
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -38,12 +38,12 @@ Recently detected signals:
 ### 2. [enescingoz/awesome-n8n-templates](../ai/rag/enescingoz-awesome-n8n-templates.md) ([GitHub](https://github.com/enescingoz/awesome-n8n-templates))
 - Stars: 0
 - Language: Unknown
-- Description: - **Extensive n8n Template Library**: Curated collection of **280+ pre-built, production-ready automation workflows** for **Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI**...
+- Description: - **Extensive n8n Template Library**: Repository containing **280+ pre-built, open-source automation templates** for n8n, covering integrations with **Gmail, Telegram, Slack, Discord, WhatsApp, Goo...
 
 ### 3. [vercel-labs/workflow-builder-template](../ai/rag/vercel-labs-workflow-builder-template.md) ([GitHub](https://github.com/vercel-labs/workflow-builder-template))
 - Stars: 0
 - Language: Unknown
-- Description: - **TypeScript-based Visual AI Workflow Automation**: A platform enabling drag-and-drop creation of AI-driven workflows with TypeScript, emphasizing modular agent interactions and automation.
+- Description: - **Platform Overview**: Visual AI workflow automation platform enabling drag-and-drop creation of AI-driven workflows with TypeScript-based architecture.
 
 ### 4. [cmAIdx/headless-claude-automation-template](../ai/rag/cmaidx-headless-claude-automation-template.md) ([GitHub](https://github.com/cmaidx/headless-claude-automation-template))
 - Stars: 0
@@ -55,15 +55,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Autonomous AI Agent Framework**: OpenClaw-inspired system built entirely in n8n, featuring adaptive RAG-powered memory, MCP-based Skills templates, and Expert Agents with delegated sub-agents f...
 
-### 6. [langgenius/dify](../ai/rag/langgenius-dify.md) ([GitHub](https://github.com/langgenius/dify))
+### 6. [FlowiseAI/Flowise](../ai/rag/flowiseai-flowise.md) ([GitHub](https://github.com/flowiseai/flowise))
 - Stars: 0
 - Language: Unknown
-- Description: - **Agentic Workflow Platform**: Open-source, production-ready framework for building, deploying, and orchestrating agentic AI workflows with low-code/no-code capabilities, supporting LLM integrati...
+- Description: - **FlowiseAI/Flowise**: Open-source, low/no-code TypeScript framework for building AI agents and workflows with visual drag-and-drop interface, leveraging LangChain for LLM orchestration and multi...
 
-### 7. [FlowiseAI/Flowise](../ai/rag/flowiseai-flowise.md) ([GitHub](https://github.com/flowiseai/flowise))
+### 7. [langgenius/dify](../ai/rag/langgenius-dify.md) ([GitHub](https://github.com/langgenius/dify))
 - Stars: 0
 - Language: Unknown
-- Description: - **Visual AI Agent Builder**: Open-source, low/no-code TypeScript framework for constructing AI agents and multi-agent systems with drag-and-drop workflows, leveraging LangChain and LLMs (e.g., Op...
+- Description: - **Multi-agent orchestration framework**: Supports agentic workflows with MCP, RAG, and LLM integrations (OpenAI, GPT-4, Gemini) via low-code/no-code Next.js/Python interfaces.
 
 ### 8. [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md) ([GitHub](https://github.com/datarobot-community/datarobot-agent-templates))
 - Stars: 0
@@ -80,25 +80,25 @@ Recently detected signals:
 - Language: Unknown
 - Description: Repository: huggingface/transformers
 
-### 11. [plusai-solutions/ai-scrum-master-template](../ai/rag/plusai-solutions-ai-scrum-master-template.md) ([GitHub](https://github.com/plusai-solutions/ai-scrum-master-template))
+### 11. [Phala-Network/ai-agent-template-openai](../ai/rag/phala-network-ai-agent-template-openai.md) ([GitHub](https://github.com/phala-network/ai-agent-template-openai))
+- Stars: 0
+- Language: Unknown
+- Description: - **Template Structure**: Provides a TypeScript-based starter kit for deploying AI agents on the Phala Network using OpenAI's API integration.
+
+### 12. [plusai-solutions/ai-scrum-master-template](../ai/rag/plusai-solutions-ai-scrum-master-template.md) ([GitHub](https://github.com/plusai-solutions/ai-scrum-master-template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Autonomous Development Orchestration**: Template leverages GitHub Actions and Claude to deploy AI agents under Scrum framework, enabling autonomous issue-driven development and management direc...
 
-### 12. [run-llama/LlamaIndexTS](../ai/rag/run-llama-llamaindexts.md) ([GitHub](https://github.com/run-llama/llamaindexts))
+### 13. [run-llama/LlamaIndexTS](../ai/rag/run-llama-llamaindexts.md) ([GitHub](https://github.com/run-llama/llamaindexts))
 - Stars: 0
 - Language: Unknown
 - Description: - **Framework Purpose**: LlamaIndexTS is a TypeScript-based data framework designed for server-side LLM (Large Language Model) applications, enabling structured data integration and retrieval for A...
 
-### 13. [zilliztech/claude-context](../ai/rag/zilliztech-claude-context.md) ([GitHub](https://github.com/zilliztech/claude-context))
+### 14. [zilliztech/claude-context](../ai/rag/zilliztech-claude-context.md) ([GitHub](https://github.com/zilliztech/claude-context))
 - Stars: 0
 - Language: Unknown
 - Description: - **Code Search MCP**: Implements a **Model Context Protocol (MCP)** server in TypeScript for **Claude Code**, enabling semantic search across entire codebases via embeddings (powered by **Voyage A...
-
-### 14. [vercel-labs/coding-agent-template](../ai/rag/vercel-labs-coding-agent-template.md) ([GitHub](https://github.com/vercel-labs/coding-agent-template))
-- Stars: 0
-- Language: Unknown
-- Description: - **Architecture**: Multi-agent system leveraging Vercel Sandbox for isolated execution environments and AI Gateway for unified AI model access.
 
 ### 15. [langchain-ai/retrieval-agent-template](../ai/rag/langchain-ai-retrieval-agent-template.md) ([GitHub](https://github.com/langchain-ai/retrieval-agent-template))
 - Stars: 0
@@ -110,10 +110,10 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Multi-Agent System Design**: Demonstrates specialized AI agent teams using the open-source `crewAI` library to automate complex, multi-step business processes (e.g., customer support, financial...
 
-### 17. [TracecatHQ/tracecat](../ai/rag/tracecathq-tracecat.md) ([GitHub](https://github.com/tracecathq/tracecat))
+### 17. [rohitg00/agentmemory](../ai/rag/rohitg00-agentmemory.md) ([GitHub](https://github.com/rohitg00/agentmemory))
 - Stars: 0
 - Language: Unknown
-- Description: - **Platform Overview**: Tracecat is an open-source, event-driven security automation platform designed for teams and AI agents, leveraging Python, FastAPI, and Next.js for backend and frontend com...
+- Description: - **Persistent Memory System**: Provides durable storage and retrieval for AI coding agents, optimized for real-world benchmarks and long-term task execution.
 
 ### 18. [JCodesMore/ai-website-cloner-template](../ai/agents/jcodesmore-ai-website-cloner-template.md) ([GitHub](https://github.com/jcodesmore/ai-website-cloner-template))
 - Stars: 0
@@ -130,155 +130,155 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Tech Stack**: TypeScript-based AI PDF chatbot leveraging LangChain for LLM orchestration, LangGraph for agent workflows, and Next.js for the frontend; integrates OpenAI's models for NLP tasks.
 
-### 21. [rohitg00/agentmemory](../ai/rag/rohitg00-agentmemory.md) ([GitHub](https://github.com/rohitg00/agentmemory))
+### 21. [promptfoo/promptfoo-action](../ai/rag/promptfoo-promptfoo-action.md) ([GitHub](https://github.com/promptfoo/promptfoo-action))
 - Stars: 0
 - Language: Unknown
-- Description: - **Persistent Memory System**: Provides long-term, structured memory storage for AI coding agents, optimized for real-world benchmark performance and seamless integration with development workflows.
+- Description: - **GitHub Action for Promptfoo**: Enables automated testing of LLM prompts, agents, and RAG systems with AI red teaming, pentesting, and vulnerability scanning capabilities.
 
 ### 22. [firecrawl repositories · GitHub](../ai/rag/orgs-firecrawl.md) ([GitHub](https://github.com/orgs/firecrawl))
 - Stars: 0
 - Language: Unknown
 - Description: - **Firecrawl**: TypeScript-based API framework for scalable web scraping, crawling, and interaction, supporting HTML-to-Markdown conversion, with 143k stars and AGPL-3.0 licensing.
 
-### 23. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([GitHub](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow))
+### 23. [TracecatHQ/tracecat](../ai/rag/tracecathq-tracecat.md) ([GitHub](https://github.com/tracecathq/tracecat))
 - Stars: 0
 - Language: Unknown
-- Description: - **Repository Details**: Python-based GitHub Classroom assignment (`icensraghomework-classroom01-rag3-hw03_workflow`) with 66 forks and 0 stars, last updated on 2025-02-14.
+- Description: - **Platform Overview**: Open-source security automation platform enabling event-driven workflows for teams and AI agents, built with Python (FastAPI backend) and Next.js (frontend), leveraging Ope...
 
-### 24. [mvanhorn/clawdbot-skill-manus](../ai/rag/mvanhorn-clawdbot-skill-manus.md) ([GitHub](https://github.com/mvanhorn/clawdbot-skill-manus))
+### 24. [NVIDIA/workbench-example-agentic-rag](../ai/rag/nvidia-workbench-example-agentic-rag.md) ([GitHub](https://github.com/nvidia/workbench-example-agentic-rag))
+- Stars: 0
+- Language: Unknown
+- Description: - **Agentic RAG Implementation**: Demonstrates an autonomous RAG pipeline leveraging NVIDIA AI Workbench, integrating agentic workflows for dynamic retrieval and generation.
+
+### 25. [langchain-ai/rag-research-agent-template](../ai/rag/langchain-ai-rag-research-agent-template.md) ([GitHub](https://github.com/langchain-ai/rag-research-agent-template))
+- Stars: 0
+- Language: Unknown
+- Description: - **Template Purpose**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, optimized for Python-based AI workflows.
+
+### 26. [mvanhorn/clawdbot-skill-manus](../ai/rag/mvanhorn-clawdbot-skill-manus.md) ([GitHub](https://github.com/mvanhorn/clawdbot-skill-manus))
 - Stars: 0
 - Language: Unknown
 - Description: - **Task Delegation & Automation**: Enables delegation of complex tasks (e.g., web research, report generation, code building, data scraping) to Manus AI via OpenClaw skill, leveraging task templat...
 
-### 25. [vercel-labs/knowledge-agent-template](../ai/rag/vercel-labs-knowledge-agent-template.md) ([GitHub](https://github.com/vercel-labs/knowledge-agent-template))
+### 27. [vercel-labs/knowledge-agent-template](../ai/rag/vercel-labs-knowledge-agent-template.md) ([GitHub](https://github.com/vercel-labs/knowledge-agent-template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Provides a TypeScript-based template for building AI agents that dynamically synchronize with a file-system knowledge base, enabling real-time updates and contextual responses.
 
-### 26. [cline/cline](../ai/rag/cline-cline.md) ([GitHub](https://github.com/cline/cline))
+### 28. [cline/cline](../ai/rag/cline-cline.md) ([GitHub](https://github.com/cline/cline))
 - Stars: 0
 - Language: Unknown
 - Description: - **Autonomous Coding Agent**: Cline operates as an autonomous coding agent, functioning as an SDK, IDE extension, or CLI assistant to automate and assist in software development tasks.
 
-### 27. [CommandCodeAI/langbase-examples](../ai/agents/commandcodeai-langbase-examples.md) ([GitHub](https://github.com/commandcodeai/langbase-examples))
+### 29. [CommandCodeAI/langbase-examples](../ai/agents/commandcodeai-langbase-examples.md) ([GitHub](https://github.com/commandcodeai/langbase-examples))
 - Stars: 0
 - Language: Unknown
 - Description: - **Serverless AI Agents**: Repository showcases Langbase's open-source implementation of serverless AI agents, enabling scalable, event-driven AI workflows without infrastructure management.
 
-### 28. [AlexPEClub/ai-coding-starter-kit](../ai/agents/alexpeclub-ai-coding-starter-kit.md) ([GitHub](https://github.com/alexpeclub/ai-coding-starter-kit))
+### 30. [AlexPEClub/ai-coding-starter-kit](../ai/agents/alexpeclub-ai-coding-starter-kit.md) ([GitHub](https://github.com/alexpeclub/ai-coding-starter-kit))
 - Stars: 0
 - Language: Unknown
 - Description: - **Next.js Template**: Production-ready starter kit with TypeScript, optimized for AI-driven development workflows.
 
-### 29. [promptfoo/promptfoo-action](../ai/rag/promptfoo-promptfoo-action.md) ([GitHub](https://github.com/promptfoo/promptfoo-action))
-- Stars: 0
-- Language: Unknown
-- Description: - **GitHub Action for Promptfoo**: Enables automated testing and evaluation of LLM prompts, agents, and RAG systems with AI red teaming, pentesting, and vulnerability scanning capabilities.
-
-### 30. [Workflow runs · pennersr/django-allauth · GitHub](../ai/resources/pennersr-django-allauth.md) ([GitHub](https://github.com/pennersr/django-allauth))
+### 31. [Workflow runs · pennersr/django-allauth · GitHub](../ai/resources/pennersr-django-allauth.md) ([GitHub](https://github.com/pennersr/django-allauth))
 - Stars: 0
 - Language: Unknown
 - Description: - **django-allauth** is a Django authentication library with 10.3k GitHub stars and 3.1k forks, supporting OAuth, social account integration, and email verification.
 
-### 31. [Tracer-Cloud/opensre](../ai/rag/tracer-cloud-opensre.md) ([GitHub](https://github.com/tracer-cloud/opensre))
+### 32. [Tracer-Cloud/opensre](../ai/rag/tracer-cloud-opensre.md) ([GitHub](https://github.com/tracer-cloud/opensre))
 - Stars: 0
 - Language: Unknown
-- Description: - **Open-source AI SRE toolkit** enabling autonomous Site Reliability Engineering (SRE) agents with Python-based automation for incident management, root cause analysis (RCA), and remediation workf...
+- Description: - **AI-Powered SRE Toolkit**: Open-source framework (`opensre`) enabling autonomous Site Reliability Engineering (SRE) agents with AI-driven alerting, incident management, and root-cause analysis.
 
-### 32. [Expert Services | GitHub · GitHub](../ai/rag/expert-services-github-github.md) ([GitHub](https://services.github.com))
+### 33. [Expert Services | GitHub · GitHub](../ai/rag/expert-services-github-github.md) ([GitHub](https://services.github.com))
 - Stars: 0
 - Language: Unknown
 - Description: - **Customized GitHub Services**: Tailored consulting, workshops, and training (e.g., GitHub Actions, Copilot, Advanced Security) to optimize CI/CD, security, and developer workflows across GitHub ...
 
-### 33. [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](../ai/rag/github-change-is-constant-github-keeps-you-ahead-g.md) ([GitHub](https://github.com))
+### 34. [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](../ai/rag/github-change-is-constant-github-keeps-you-ahead-g.md) ([GitHub](https://github.com))
 - Stars: 0
 - Language: Unknown
 - Description: - **GitHub Copilot Integration**: AI-powered code generation, refactoring, and automation across the SDLC, with features like Copilot Chat, Autofix, and Agent mode for end-to-end workflow accelerat...
 
-### 34. [microsoft/playwright-mcp](../ai/agents/microsoft-playwright-mcp.md) ([GitHub](https://github.com/microsoft/playwright-mcp))
+### 35. [microsoft/playwright-mcp](../ai/agents/microsoft-playwright-mcp.md) ([GitHub](https://github.com/microsoft/playwright-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: - **Playwright MCP Server**: A TypeScript-based implementation enabling **Model Context Protocol (MCP)** integration with Playwright for browser automation and testing.
 
-### 35. [mrjf (Russell Horton) · GitHub](../ai/agents/mrjf-russell-horton-github.md) ([GitHub](https://github.com/mrjf))
+### 36. [mrjf (Russell Horton) · GitHub](../ai/agents/mrjf-russell-horton-github.md) ([GitHub](https://github.com/mrjf))
 - Stars: 0
 - Language: Unknown
 - Description: - GitHub user **mrjf** (Russell Horton) maintains **28 repositories**, with **49 stars** and **60 followers**, specializing in computational linguistics and AI-driven workflows.
 
-### 36. [ChinskiKaczynski/Awesome-OpenAI-Agent-Templates](../ai/agents/chinskikaczynski-awesome-openai-agent-templates.md) ([GitHub](https://github.com/chinskikaczynski/awesome-openai-agent-templates))
+### 37. [ChinskiKaczynski/Awesome-OpenAI-Agent-Templates](../ai/agents/chinskikaczynski-awesome-openai-agent-templates.md) ([GitHub](https://github.com/chinskikaczynski/awesome-openai-agent-templates))
 - Stars: 0
 - Language: Unknown
 - Description: A curated list of OpenAI agent templates, workflows, and starters built with Agent Builder, Agents SDK, and ChatKit.
 
-### 37. [vercel-labs/open-agents](../ai/rag/vercel-labs-open-agents.md) ([GitHub](https://github.com/vercel-labs/open-agents))
+### 38. [elizaOS/eliza](../ai/rag/elizaos-eliza.md) ([GitHub](https://github.com/elizaos/eliza))
 - Stars: 0
 - Language: Unknown
-- Description: - **Purpose**: Open-source template for constructing cloud-based AI agents with TypeScript, enabling scalable, serverless agentic workflows.
+- Description: - **Agentic OS Framework**: Open-source TypeScript-based system enabling autonomous AI agents with plugin extensibility for RAG, crypto, and multi-platform (Discord, Slack, Telegram) integration.
 
-### 38. [The-Swarm-Corporation/Multi-Agent-RAG-Template](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md) ([GitHub](https://github.com/the-swarm-corporation/multi-agent-rag-template))
+### 39. [SecurityClaw/SecurityClaw](../ai/rag/securityclaw-securityclaw.md) ([GitHub](https://github.com/securityclaw/securityclaw))
+- Stars: 0
+- Language: Unknown
+- Description: - **Modular SOC Agent**: Python-based autonomous agent for Security Operations Centers (SOCs) with skill-based modularity, designed to monitor OpenSearch/Elasticsearch data streams in real-time.
+
+### 40. [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md) ([GitHub](https://github.com/marktechpost-ai-media-inc/ai-agents-projects-tutorials))
+- Stars: 0
+- Language: Unknown
+- Description: - **Multi-Agent Systems & Frameworks**: Repository focuses on agentic AI development, covering multi-agent systems, memory management, planning, and reasoning loops with practical implementations i...
+
+### 41. [idosal/git-mcp](../ai/agents/idosal-git-mcp.md) ([GitHub](https://github.com/idosal/git-mcp))
+- Stars: 0
+- Language: Unknown
+- Description: - **GitMCP Overview**: Open-source, remote MCP server enabling AI agents (e.g., Claude, Copilot, Cursor) to interact with any GitHub repository via TypeScript, mitigating "code hallucinations" by p...
+
+### 42. [The-Swarm-Corporation/Multi-Agent-RAG-Template](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md) ([GitHub](https://github.com/the-swarm-corporation/multi-agent-rag-template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-Agent RAG Framework**: Implements a collaborative system of AI agents (e.g., CrewAI, AutoGen) for document processing, analysis, and insight generation using retrieval-augmented generatio...
 
-### 39. [NVIDIA/workbench-example-agentic-rag](../ai/rag/nvidia-workbench-example-agentic-rag.md) ([GitHub](https://github.com/nvidia/workbench-example-agentic-rag))
-- Stars: 0
-- Language: Unknown
-- Description: - **Agentic RAG Implementation**: Demonstrates an agentic RAG system leveraging NVIDIA AI Workbench for dynamic retrieval and generation workflows.
-
-### 40. [langchain-ai/rag-research-agent-template](../ai/rag/langchain-ai-rag-research-agent-template.md) ([GitHub](https://github.com/langchain-ai/rag-research-agent-template))
-- Stars: 0
-- Language: Unknown
-- Description: - **Purpose**: Template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating structured AI research workflows.
-
-### 41. [reworkd/AgentGPT](../ai/rag/reworkd-agentgpt.md) ([GitHub](https://github.com/reworkd/agentgpt))
+### 43. [reworkd/AgentGPT](../ai/rag/reworkd-agentgpt.md) ([GitHub](https://github.com/reworkd/agentgpt))
 - Stars: 0
 - Language: Unknown
 - Description: - **Browser-based autonomous AI agent deployment**: Enables users to assemble, configure, and deploy AI agents directly in the browser without local setup, leveraging modern web technologies.
 
-### 42. [How does GitHub compare to other DevOps tools? · GitHub](../ai/rag/how-does-github-compare-to-other-devops-tools-gith.md) ([GitHub](https://resources.github.com/devops/tools/compare))
+### 44. [How does GitHub compare to other DevOps tools? · GitHub](../ai/rag/how-does-github-compare-to-other-devops-tools-gith.md) ([GitHub](https://resources.github.com/devops/tools/compare))
 - Stars: 0
 - Language: Unknown
 - Description: - **GitHub Actions**: Provides pre-built CI/CD workflows with thousands of automations in the GitHub Marketplace, enabling rapid build, test, and deployment with minimal pipeline management overhead.
 
-### 43. [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) ([GitHub](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial))
-- Stars: 0
-- Language: Unknown
-- Description: - **Intermediate Event Streaming**: Demonstrates streaming LlamaIndex RAG intermediate events (e.g., node parsing, retrieval) via Server-Sent Events (SSE) to the Vercel AI SDK for real-time process...
-
-### 44. [agent0ai/agent-zero](../ai/rag/agent0ai-agent-zero.md) ([GitHub](https://github.com/agent0ai/agent-zero))
+### 45. [agent0ai/agent-zero](../ai/rag/agent0ai-agent-zero.md) ([GitHub](https://github.com/agent0ai/agent-zero))
 - Stars: 0
 - Language: Unknown
 - Description: - **Framework Overview**: Agent Zero is an open-source AI framework in Python designed for building autonomous agents with capabilities for task execution, reasoning, and interaction in Linux envir...
 
-### 45. [muhammad-uzair-yasin/CrewAi_starter_template](../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md) ([GitHub](https://github.com/muhammad-uzair-yasin/crewai_starter_template))
+### 46. [muhammad-uzair-yasin/CrewAi_starter_template](../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md) ([GitHub](https://github.com/muhammad-uzair-yasin/crewai_starter_template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository**: `muhammad-uzair-yasin/CrewAi_starter_template` – A minimal starter template for **CrewAI** (Python-based multi-agent orchestration framework).
 
-### 46. [trpc-group/trpc-agent-go](../ai/rag/trpc-group-trpc-agent-go.md) ([GitHub](https://github.com/trpc-group/trpc-agent-go))
+### 47. [trpc-group/trpc-agent-go](../ai/rag/trpc-group-trpc-agent-go.md) ([GitHub](https://github.com/trpc-group/trpc-agent-go))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: trpc-group/trpc-agent-go
-
-### 47. [SecurityClaw/SecurityClaw](../ai/rag/securityclaw-securityclaw.md) ([GitHub](https://github.com/securityclaw/securityclaw))
-- Stars: 0
-- Language: Unknown
-- Description: - **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch monitoring, RAG-based behavioral memory construction, and real-time anomaly validation via LLMs for adapt...
 
 ### 48. [NicholasGoh/fastapi-mcp-langgraph-template](../ai/rag/nicholasgoh-fastapi-mcp-langgraph-template.md) ([GitHub](https://github.com/nicholasgoh/fastapi-mcp-langgraph-template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Architecture**: Template integrates FastAPI, MCP, and LangGraph for agentic orchestration with modular components (e.g., SQLModel for DB, Supabase for auth/storage).
 
-### 49. [Phala-Network/ai-agent-template-openai](../ai/rag/phala-network-ai-agent-template-openai.md) ([GitHub](https://github.com/phala-network/ai-agent-template-openai))
+### 49. [truefoundry/cognita](../ai/rag/truefoundry-cognita.md) ([GitHub](https://github.com/truefoundry/cognita))
 - Stars: 0
 - Language: Unknown
-- Description: - **Template Structure**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with Phala Network, enabling on-chain AI computations.
+- Description: - **Modular RAG Framework**: Open-source Python-based framework for building production-grade Retrieval Augmented Generation (RAG) applications with modular components for scalability and customiza...
 
-### 50. [fzn0x/watchtower](../ai/rag/fzn0x-watchtower.md) ([GitHub](https://github.com/fzn0x/watchtower))
+### 50. [shanraisshan/codex-cli-best-practice](../ai/agents/shanraisshan-codex-cli-best-practice.md) ([GitHub](https://github.com/shanraisshan/codex-cli-best-practice))
 - Stars: 0
 - Language: Unknown
-- Description: Watchtower is a simple AI-powered penetration testing automation CLI tool that leverages LLMs and LangGraph to orchestrate agentic workflows that you can use to test your websites locally. Generate...
+- Description: - **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and sk...
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -300,4 +300,4 @@ Useful for roles such as: DevOps Engineer, Site Reliability Engineer, Workflow A
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-04T01:36:31.369856+05:30.248753+05:30.470698+05:30.381011+05:30.411456+05:30.095936+05:30.169406+05:30.230775+05:30.613245+05:30.072404+05:30.697246+05:30.166031+05:30.655752+05:30.749388+05:30.237009+05:30.540396+05:30.996559+05:30.589225+05:30.350680+05:30.702510+05:30.422826+05:30.106680+05:30.489882+05:30.624001+05:30.859907+05:30.934925+05:30.257597+05:30.524236+05:30.051071+05:30.264193+05:30.268930+05:30.369230+05:30.987125+05:30.645879+05:30.369440+05:30.582598+05:30.038980+05:30.151993+05:30.113292+05:30.424784+05:30.647108+05:30.157552+05:30.673331+05:30.317702+05:30.320207+05:30.994907+05:30.448364+05:30.367844+05:30.816392+05:30.081080+05:30.003040+05:30.662814+05:30.928472+05:30.922417+05:30.971624+05:30.421412+05:30.567508+05:30.687177+05:30.355273+05:30.481745+05:30.837280+05:30.183844+05:30.179391+05:30.532735+05:30.477001+05:30.000572+05:30.921794+05:30.064247+05:30.541110+05:30.559052+05:30.616814+05:30.943958+05:30.463577+05:30.779450+05:30.588992+05:30.937697+05:30.142229+05:30.913410+05:30.103213+05:30.590016+05:30.675711+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-04T04:03:27.888368+05:30.369856+05:30.248753+05:30.470698+05:30.381011+05:30.411456+05:30.095936+05:30.169406+05:30.230775+05:30.613245+05:30.072404+05:30.697246+05:30.166031+05:30.655752+05:30.749388+05:30.237009+05:30.540396+05:30.996559+05:30.589225+05:30.350680+05:30.702510+05:30.422826+05:30.106680+05:30.489882+05:30.624001+05:30.859907+05:30.934925+05:30.257597+05:30.524236+05:30.051071+05:30.264193+05:30.268930+05:30.369230+05:30.987125+05:30.645879+05:30.369440+05:30.582598+05:30.038980+05:30.151993+05:30.113292+05:30.424784+05:30.647108+05:30.157552+05:30.673331+05:30.317702+05:30.320207+05:30.994907+05:30.448364+05:30.367844+05:30.816392+05:30.081080+05:30.003040+05:30.662814+05:30.928472+05:30.922417+05:30.971624+05:30.421412+05:30.567508+05:30.687177+05:30.355273+05:30.481745+05:30.837280+05:30.183844+05:30.179391+05:30.532735+05:30.477001+05:30.000572+05:30.921794+05:30.064247+05:30.541110+05:30.559052+05:30.616814+05:30.943958+05:30.463577+05:30.779450+05:30.588992+05:30.937697+05:30.142229+05:30.913410+05:30.103213+05:30.590016+05:30.675711+05:30.

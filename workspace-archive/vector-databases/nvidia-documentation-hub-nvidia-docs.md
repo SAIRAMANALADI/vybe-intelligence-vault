@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **NVIDIA AIStore**: A distributed object store for AI workloads with linear scalability and fast-tiering for cloud storage, enabling seamless integration with AI pipelines.
-
-- **NVIDIA NemoClaw**: An open-source stack simplifying the deployment of OpenClaw always-on assistants via a single command, integrating NVIDIA OpenShell runtime and Nemotron models for secure, autonomous agent execution.
-
-- **NVIDIA Dynamo**: A component-based, data center-scale inference serving framework designed to me
+- **AIStore**: A distributed object store optimized for AI workloads, offering seamless fast-tiering for cloud storage and linear scalability, deployable anywhere.
+- **NVIDIA NemoClaw**: An open-source stack simplifying the deployment of OpenClaw assistants with secure, autonomous agent execution via NVIDIA OpenShell runtime and Nemotron models.
+- **NVIDIA Dynamo**: A scalable, component-based inference serving framework designed for complex use cases, including Generative AI, with data center-l
 
 ## Use Cases
 

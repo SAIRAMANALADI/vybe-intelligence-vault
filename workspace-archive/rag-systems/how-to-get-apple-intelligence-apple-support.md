@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Device Compatibility**: Apple Intelligence requires iPhone 15 Pro/16+, iPad mini (A17 Pro)/M1+, Mac M1+, Apple Vision Pro, or Apple Watch Series 6+/SE 2+ paired with an enabled iPhone; supports iOS 18.1+, iPadOS 18.1+, macOS 15.1+, visionOS 2.4+, watchOS 11+.
+- **Device Compatibility**: Apple Intelligence requires iPhone 15 Pro/16+, iPad mini (A17 Pro)/M1+, Mac M1+, Apple Vision Pro, or Apple Watch Series 6+/SE 2+ paired with an enabled iPhone; supported OS versions include iOS 18.1+, iPadOS 18.1+, macOS 15.1+, visionOS 2.4+, and watchOS 11+.
 
-- **Key Features**: Enables on-device AI capabilities including Live Translation (Messages/Phone/FaceTime), Genmoji, Image Playground, Writing Tools, Siri enhancements, Smart Reply, Voicemail summaries, Notes transcription, and Workout
+- **Key Features**: Enables on-device AI capabilities such as Live Translation (Messages/Phone/FaceTime/AirPods), Writing Tools, Genmoji, Image Playground, Siri enhancements (voice/text), Smart Reply, Voicemail
 
 ## Use Cases
 

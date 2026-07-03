@@ -4,17 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://codeql.github.com/docs
-published_at: '2026-07-04T01:28:05.939078+05:30'
-collected_at: '2026-07-04T01:28:05.939089+05:30'
+published_at: '2026-07-04T03:54:26.994069+05:30'
+collected_at: '2026-07-04T03:54:26.994078+05:30'
 tags:
-- hackernews
 - rag
 - web-crawled
 status: active
 resource_id: blog:codeql-documentation
-first_seen: '2026-07-04T01:28:05.939089+05:30'
-last_seen: '2026-07-04T01:28:05.939089+05:30'
-last_checked: '2026-07-04T01:28:05.939089+05:30'
+first_seen: '2026-07-04T03:54:26.994078+05:30'
+last_seen: '2026-07-04T03:54:26.994078+05:30'
+last_checked: '2026-07-04T03:54:26.994078+05:30'
 health_score: 100
 ---
 
@@ -22,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **CodeQL Overview**: CodeQL treats code as data, enabling vulnerability detection via structured queries; supported languages, frameworks, and CWEs are documented in release-specific resources.
-- **Query Development & Execution**: QL language reference and standard libraries facilitate query writing; CodeQL CLI, VS Code extension, and repository enable query development, execution, and contribution.
-- **Technical Resources**: System requirements, language guides, and query help provide implementation details for CodeQL analysis across supported languages and frameworks.
+- **CodeQL Overview**: CodeQL treats code as data, enabling vulnerability detection via structured queries; supported languages/frameworks include C/C++, C#, Go, Java, JavaScript/TypeScript, Python, and Ruby.
+- **Query Development & Execution**: Queries can be written using QL (a Datalog-derived language), tested via VS Code extension or CLI, and shared to standardize vulnerability eradication across codebases.
+- **Resources & Documentation**: Includes QL language reference, standard libraries, query help, and system requirements; CLI releases, VS Code extension, and GitHub repository facilitate integration and contribution.
 
 ## Why It Matters
 
@@ -34,11 +33,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T01:28:05.939078+05:30
+- Published: 2026-07-04T03:54:26.994069+05:30
 
 ## Related Tags
 
-- hackernews
 - rag
 - web-crawled
 

@@ -6,10 +6,10 @@ source_url: https://github.com/ray-project/llm-applications
 resource_id: github:ray-project/llm-applications
 local_vault_path: ai/rag/ray-project-llm-applications.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
-resource_kind: framework
-importance: high
+archive_score: 77
+archive_tier: useful
+resource_kind: prompt
+importance: medium
 tags:
 - github-repo
 - jupyter notebook
@@ -20,7 +20,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # ray-project/llm-applications
@@ -28,17 +28,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Prompt Libraries`
-- Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **RAG Pipeline Implementation**: Provides a production-ready framework for Retrieval-Augmented Generation (RAG) using Ray, integrating Llama2, OpenAI, and Anyscale models with optimized serving and fine-tuning workflows.
-- **Modular Architecture**: Demonstrates a scalable, distributed system leveraging Ray for parallel processing, batch inference, and efficient LLM serving in Jupyter Notebook environments.
-- **End-to-End Workflow**: Covers data ingestion, retrieval systems, prompt engineering,
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with modular components for retrieval, prompt engineering, and LLM inference.
+- **Multi-Model Support**: Includes examples for Llama2, OpenAI, and Anyscale endpoints, with fine-tuning guidance for domain-specific adaptation and performance optimization.
+- **Scalable Deployment**: Leverages Ray’s distributed computing for high-throughput LLM serving, with
 
 ## Use Cases
 

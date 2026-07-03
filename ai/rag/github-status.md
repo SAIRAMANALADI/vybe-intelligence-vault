@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.githubstatus.com
-published_at: '2026-07-04T01:28:06.677992+05:30'
-collected_at: '2026-07-04T01:28:06.678002+05:30'
+published_at: '2026-07-04T03:54:15.417984+05:30'
+collected_at: '2026-07-04T03:54:15.417995+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-07-04T01:28:06.678002+05:30'
-last_seen: '2026-07-04T01:28:06.678002+05:30'
-last_checked: '2026-07-04T01:28:06.678002+05:30'
+first_seen: '2026-07-04T03:54:15.417995+05:30'
+last_seen: '2026-07-04T03:54:15.417995+05:30'
+last_checked: '2026-07-04T03:54:15.417995+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Status Page** provides real-time operational metrics for GitHub services (e.g., Git Operations, Webhooks, API Requests) with 99.99%+ uptime over 90 days, including incident tracking and historical data via Atom/RSS feeds.
+- **GitHub Status Page** provides real-time operational metrics for GitHub services (e.g., Git Operations, Webhooks, Actions) with 99.99%–100% uptime over 90 days, tracked via [githubstatus.com](https://www.githubstatus.com).
 
-- **Notification Systems** support email, SMS (global), Slack, and webhook-based incident updates, with OTP verification for security and compliance via Atlassian/GitHub privacy policies.
+- **Incident Notifications** support multiple channels: email (OTP-verified), SMS (global country codes), Slack, and webhooks (POST-based integrations) for incident updates, resolutions, and component status changes.
 
-- **Recent Incidents** include Pages deployment latency (resolved), Copilot budget reset delays (resolved), and Copilot Cloud Agent failures (8% error rate, mitigated via runtime rollback and enhanced monitoring).
+- **Historical Data & Regional Status**: Uptime history is available via [Atom/RSS feeds](https://www.githubstatus.com/history.atom), and regional status pages (e.g., [au.githubstatus.com](https://au.githubstatus.com)) monitor GitHub Enterprise Cloud by geography.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T01:28:06.677992+05:30
+- Published: 2026-07-04T03:54:15.417984+05:30
 
 ## Related Tags
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/WenyuChiou/awesome-agentic-ai-zh
-collected_at: '2026-07-04T01:23:56.526899+05:30'
+collected_at: '2026-07-04T03:50:57.400790+05:30'
 published_at: '2026-07-03T18:34:52Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-05-04T22:18:51Z'
 pushed_at: '2026-07-03T13:56:27Z'
 resource_id: github:wenyuchiou/awesome-agentic-ai-zh
-first_seen: '2026-07-04T01:23:56.526899+05:30'
-last_seen: '2026-07-04T01:23:56.526899+05:30'
-last_checked: '2026-07-04T01:23:56.526899+05:30'
+first_seen: '2026-07-04T03:50:57.400790+05:30'
+last_seen: '2026-07-04T03:50:57.400790+05:30'
+last_checked: '2026-07-04T03:50:57.400790+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Trilingual Learning Roadmap**: Curates 240+ resources (Python-based) covering LLM fundamentals to multi-agent systems, with materials in Traditional Chinese, English, and Simplified Chinese.
-- **Agentic AI Focus**: Includes topics like AI agents, workflows, RAG, prompt engineering, MCP, and CLI tools, with hands-on examples and tutorials.
-- **High Activity Metrics**: 3,981 stars, 519 forks, last updated July 2026, indicating active maintenance and community engagement.
+- **Comprehensive trilingual learning roadmap** covering agentic AI fundamentals to multi-agent systems, with **240+ curated resources** and hands-on Python examples.
+- **Covers key topics** including LLM basics, agentic workflows, prompt engineering, RAG, MCP, CLI tools, and multi-agent architectures with **Claude Code/Skills integration**.
+- **Actively maintained** (last updated July 2026) repository with **3.9k+ stars** and **500+ forks**, featuring a structured progression path for AI agent development.
 
 ## Why It Matters
 

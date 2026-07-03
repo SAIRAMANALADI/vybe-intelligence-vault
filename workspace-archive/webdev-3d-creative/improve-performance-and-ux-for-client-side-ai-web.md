@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Client-side AI benefits and trade-offs**: Client-side AI runs in-browser, offering low latency, reduced server costs, privacy, and offline access but introduces performance overhead due to model downloads and computational demands; libraries like TensorFlow.js, Transformers.js, and MediaPipe GenAI enable cross-browser deployment.
+- **Model Selection & Optimization**: Choose task-specific models (e.g., BudouX at 9.4KB GZipped) over generic LLMs (e.g., Gemma 2B at 1.3GB) to balance size and accuracy; apply model shrinking techniques to reduce size while maintaining performance.
 
-- **Model size and optimization strategies**: Model size varies widely (e.g., 9.4KB for BudouX vs. 1.3GB for Gemma 2B); techniques like model shrinking, task-speci
+- **Hardware & Compatibility Checks**: Verify WebGPU support (fallback to Wasm if unavailable) and use `Navigator.hardwareConcurrency`/`deviceMemory` to rule out underpowered devices; explicitly cache models via Cache API to avoid redundant downloa
 
 ## Use Cases
 

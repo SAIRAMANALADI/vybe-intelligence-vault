@@ -15,7 +15,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid Search Implementation**: Demonstrates combining vector similarity search with keyword-based retrieval (BM25) using LangChain's `HybridSearchRetriever` for enhanced document retrieval accuracy.
+- Implements a Streamlit-based RAG (Retrieval-Augmented Generation) application using LangChain for LLM orchestration and hybrid search (combining vector similarity and keyword-based retrieval) over a vector store.
 
-- **LangChain RAG Pipeline**: Integrates a retrieval-augmented generation workflow with a vector store (e.g., FAISS or Chroma) and a language model (e.g., OpenAI, Hugging Face) to generate context-aware responses.
+- Demonstrates integration with a vector database (e.g., FAISS, Chroma, or Pinecone) for efficient document retrieval and combines results with a generative model (e.g., OpenAI, Hugging Face) for contextual response synthesis.
 
-- **Streamlit UI for RAG**: Provides a Streamlit-based web interface to interact
+- Features a modular pipeline for document ingestion, em
 
 ## Use Cases
 

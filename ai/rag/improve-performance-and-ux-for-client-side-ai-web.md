@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://web.dev/articles/client-side-ai-performance
-published_at: '2026-07-03T03:59:17.524882+05:30'
-collected_at: '2026-07-03T03:59:17.524895+05:30'
+published_at: '2026-07-04T03:55:23.481670+05:30'
+collected_at: '2026-07-04T03:55:23.481682+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:improve-performance-and-ux-for-client-side-ai-web
-first_seen: '2026-07-03T03:59:17.524895+05:30'
-last_seen: '2026-07-03T03:59:17.524895+05:30'
-last_checked: '2026-07-03T03:59:17.524895+05:30'
+first_seen: '2026-07-04T03:55:23.481682+05:30'
+last_seen: '2026-07-04T03:55:23.481682+05:30'
+last_checked: '2026-07-04T03:55:23.481682+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Client-side AI benefits and trade-offs**: Client-side AI runs in-browser, offering low latency, reduced server costs, privacy, and offline access but introduces performance overhead due to model downloads and computational demands; libraries like TensorFlow.js, Transformers.js, and MediaPipe GenAI enable cross-browser deployment.
+- **Model Selection & Optimization**: Choose task-specific models (e.g., BudouX at 9.4KB GZipped) over generic LLMs (e.g., Gemma 2B at 1.3GB) to balance size and accuracy; apply model shrinking techniques to reduce size while maintaining performance.
 
-- **Model size and optimization strategies**: Model size varies widely (e.g., 9.4KB for BudouX vs. 1.3GB for Gemma 2B); techniques like model shrinking, task-specific specialization, and chunked downloads mitigate performance impacts, while explicit caching (via Cache API) avoids redundant fetches.
+- **Hardware & Compatibility Checks**: Verify WebGPU support (fallback to Wasm if unavailable) and use `Navigator.hardwareConcurrency`/`deviceMemory` to rule out underpowered devices; explicitly cache models via Cache API to avoid redundant downloads.
 
-- **Runtime considerations and UX mitigation**: GPU acceleration (WebGPU/WebNN) reduces UI blocking, but CPU-based inference should use web workers; error handling (e.g., `try/catch`, GPUDevice.lost) and progress indicators (download/inference) are critical for responsive UX, with cancellable operations improving resource efficiency.
+- **Progressive Loading & Error Handling**: Implement chunked downloads (e.g., `fetch-in-chunks`) with progress indicators, offload inference to web workers to prevent UI blocking, and handle runtime errors (e.g., GPU loss) with `try/catch` and user feedback animations.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T03:59:17.524882+05:30
+- Published: 2026-07-04T03:55:23.481670+05:30
 
 ## Related Tags
 

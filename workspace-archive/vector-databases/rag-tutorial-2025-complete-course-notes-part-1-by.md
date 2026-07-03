@@ -6,7 +6,7 @@ source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-n
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
 local_vault_path: ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md
 quality_score: 70
-archive_score: 78
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 78 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines LLMs with retrieval systems to fetch relevant external information (e.g., documents, databases) for enhanced responses while avoiding context window overload; splits into **Injection Pipeline** (data ingestion, chunking, embedding) and **Retrieval Pipeline** (query embedding, similarity search, LLM generation).
+- **RAG Architecture**: Divided into two pipelines—**Injection** (data ingestion: chunking + embedding) and **Retrieval** (query embedding + vector DB similarity search)—to mitigate LLM context window limits (e.g., 1M tokens for GPT-4.1 vs. enterprise-scale data like 1PB requiring 1.3 quintillion tokens).
 
-- **Vector Embeddings**: Mathematical representations (e.g., 3,072-dimensional vectors via OpenAI’s `text-embedding-3-large`) of text chunks/queries, ena
+- **Embedding Mechanics**: Text converted to high-dimensional vectors (e.g., OpenAI’s `text-embedding-3-large` outputs 3,072 dimensions) where semantic similarity is quantified via Euclidean/c
 
 ## Use Cases
 

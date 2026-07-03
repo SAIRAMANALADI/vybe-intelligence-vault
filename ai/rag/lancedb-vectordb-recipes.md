@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-04T01:21:46.387286+05:30'
+collected_at: '2026-07-04T03:48:47.278480+05:30'
 published_at: '2026-06-30T08:00:12Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-04T01:21:46.387286+05:30'
-last_seen: '2026-07-04T01:21:46.387286+05:30'
-last_checked: '2026-07-04T01:21:46.387286+05:30'
+first_seen: '2026-07-04T03:48:47.278480+05:30'
+last_seen: '2026-07-04T03:48:47.278480+05:30'
+last_checked: '2026-07-04T03:48:47.278480+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based tutorials for Retrieval-Augmented Generation (RAG) and multimodal AI applications using vector search and LLMs, including examples with GPT-4 Vision and OpenAI embeddings.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples and tutorials for integrating vector search with LLMs (e.g., GPT-4-Vision, LangChain, LlamaIndex) to build Retrieval-Augmented Generation (RAG) systems and multimodal AI pipelines.
 
-- **Integration with Vector Databases & Frameworks**: Demonstrates workflows leveraging LanceDB (vector database), LangChain, and LlamaIndex for efficient embedding storage, retrieval, and agent-based AI systems.
+- **Vector Database Integration**: Demonstrates practical use of LanceDB (a vector database) for efficient storage, retrieval, and fine-tuning of embeddings in deep-learning workflows, including OpenAI embeddings and custom model fine-tuning.
 
-- **Fine-Tuning & Embedding Optimization**: Includes examples for fine-tuning models, optimizing embeddings, and deploying multimodal pipelines with tools like PyTorch and Hugging Face for deep learning applications.
+- **Agentic AI Systems**: Includes recipes for deploying AI agents leveraging vector search for dynamic context retrieval, combining tools like LangChain/LlamaIndex with LLMs to enable autonomous or semi-autonomous task execution.
 
 ## Why It Matters
 

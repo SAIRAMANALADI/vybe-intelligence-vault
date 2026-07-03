@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/youtubetv/answer/10970168
-published_at: '2026-06-26T02:02:11.311773+05:30'
-collected_at: '2026-06-26T02:02:11.311784+05:30'
+published_at: '2026-07-04T03:56:03.564940+05:30'
+collected_at: '2026-07-04T03:56:03.564953+05:30'
 tags:
 - rag
 - reddit
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:get-select-networks-without-youtube-tv-computer-yo
-first_seen: '2026-06-26T02:02:11.311784+05:30'
-last_seen: '2026-06-26T02:02:11.311784+05:30'
-last_checked: '2026-06-26T02:02:11.311784+05:30'
+first_seen: '2026-07-04T03:56:03.564953+05:30'
+last_seen: '2026-07-04T03:56:03.564953+05:30'
+last_checked: '2026-07-04T03:56:03.564953+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Individual Network Subscription**: YouTube TV allows standalone purchases of select networks without requiring a full YouTube TV plan, accessible via web/Android (not iOS); networks requiring YouTube TV are marked accordingly.
-- **Unbundling Process**: Existing YouTube TV subscribers can cancel their main plan to subscribe to individual networks separately, losing bundled promotions but gaining granular control over channel selection.
-- **Platform Limitations**: Standalone network purchases and unbundling are only supported on desktop web and Android devices, with no iOS compatibility.
+- **Individual Network Subscription**: Users can purchase select networks without a full YouTube TV subscription if the network does not display "Requires YouTube TV" under add-on options; currently supported on Android and desktop web browsers only (iOS unavailable).
+- **Unbundling Process**: Existing YouTube TV subscribers can cancel their main plan via **Settings > Membership > Manage > Cancel**, losing bundled promos, then re-subscribe to individual networks through the same interface.
+- **Network Management**: Post-cancellation, users can selectively re-add networks via **Settings > Membership**, with changes confirmed by selecting **Update memberships**.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T02:02:11.311773+05:30
+- Published: 2026-07-04T03:56:03.564940+05:30
 
 ## Related Tags
 

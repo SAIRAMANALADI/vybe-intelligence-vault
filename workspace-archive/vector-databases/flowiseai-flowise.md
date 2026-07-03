@@ -6,21 +6,21 @@ source_url: https://github.com/FlowiseAI/Flowise
 resource_id: github:flowiseai/flowise
 local_vault_path: ai/rag/flowiseai-flowise.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 75
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - openai
 - rag
 - scripts
 - typescript
 - workflows
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
@@ -29,19 +29,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Visual AI Agent Builder**: Open-source, low/no-code TypeScript framework for constructing AI agents and multi-agent systems with drag-and-drop workflows, leveraging LangChain and LLMs (e.g., OpenAI) for agentic AI and RAG applications.
+- **FlowiseAI/Flowise**: Open-source, low/no-code TypeScript framework for building AI agents and workflows with visual drag-and-drop interface, leveraging LangChain for LLM orchestration and multi-agent systems.
 
-- **Multi-Model & Tool Integration**: Supports seamless integration with large language models (LLMs), vector databases, APIs, and external tools, enabling dynamic agentic workflows and automation via a React-based UI.
+- **Key Features**: Supports RAG, ChatGPT/OpenAI integrations, and agentic workflows; enables multi-agent collaboration, chatbot deployment, and workflow automation via React-based UI.
 
-- **Production-Ready Deployment**: Feat
+- **Technical Stack**: Built in TypeScript/JavaScript, integrates with LLMs (e.g., OpenAI), and supp
 
 ## Use Cases
 

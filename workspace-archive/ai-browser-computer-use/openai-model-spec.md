@@ -8,7 +8,7 @@ local_vault_path: ai/agents/openai-model-spec.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: prompt
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -24,17 +24,17 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: prompt
+- Resource kind: tutorial
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Under-18 Safety Mode** introduced, adding age-specific safety rules for users aged 13-17, while simplifying honesty guidelines by removing confidentiality protection rules.
+- **Under-18 Safety Mode (v2025.12.18):** Introduces age-specific safety guidelines for users aged 13-17, building on existing safety rules while tailoring interactions to developmental needs.
 
-- **Chain of Command** updated to allow implicit delegation of authority to tool outputs (e.g., AGENTS.md instructions) and extended self-harm guidelines to include delusions and mania, with a new "respect real-world ties" section.
+- **Chain of Command & Agent Autonomy (v2025.09.12/v2025.10.27):** Clarifies implicit delegation of authority to tool outputs (e.g., AGENTS.md) and defines principles for agent autonomy, including scope limits and side-effect control.
 
-- **Root Authority** renamed from "Platform," now superseding System messages; added **No
+- **Root Authority & Safe Completions (v2025.09.12/v2025.12.18):** Ren
 
 ## Use Cases
 

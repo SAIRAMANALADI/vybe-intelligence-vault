@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dagshub.com/
-published_at: '2026-07-04T01:28:09.113902+05:30'
-collected_at: '2026-07-04T01:28:09.113910+05:30'
+published_at: '2026-07-04T03:52:25.571289+05:30'
+collected_at: '2026-07-04T03:52:25.571302+05:30'
 tags:
 - dataset
 - rag
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:dagshub-everything-you-need-to-manage-multimodal-a
-first_seen: '2026-07-04T01:28:09.113910+05:30'
-last_seen: '2026-07-04T01:28:09.113910+05:30'
-last_checked: '2026-07-04T01:28:09.113910+05:30'
+first_seen: '2026-07-04T03:52:25.571302+05:30'
+last_seen: '2026-07-04T03:52:25.571302+05:30'
+last_checked: '2026-07-04T03:52:25.571302+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Data & Model Management**: Platform supports multimodal dataset curation/annotation, experiment tracking (MLflow-compatible), and model versioning/deployment with lineage, integrating with existing ML frameworks and cloud storage.
+- **Unified AI Data & Model Management**: Platform for curating multimodal datasets (vision, audio, LLM), tracking experiments (MLflow-compatible), and managing model versions with lineage, supporting petabyte-scale data and CI/CD/CT integration.
 
-- **Tiered Pricing & Scalability**: Free tier for individuals (20GB storage, 100 private experiments); Team tier ($99/user/month) adds private repos, multimodal auto-labeling, and 1TB storage; Enterprise offers petabyte-scale storage, VPC/air-gapped deployment, and SSO/LDAP RBAC.
+- **Tiered Subscription Model**: Free tier (Individual) with public repos, 100 private experiments, and 20GB storage; Team tier ($99/user/month) adds private repos, multimodal auto-labeling, RBAC, and 1TB storage; Enterprise offers petabyte-scale, on-prem/VPC deployment, SSO/LDAP, and SLA-backed support.
 
-- **Enterprise Features**: On-premise/air-gapped installation, OpenShift compatibility, organizational resource control, and enterprise-grade security (SSO, RBAC, SLA) for high-scale AI workloads.
+- **Enterprise-Grade Features**: Full model deployment to clusters, air-gapped/on-prem installation, OpenShift compatibility, and organizational resource control with priority support and custom quotas.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T01:28:09.113902+05:30
+- Published: 2026-07-04T03:52:25.571289+05:30
 
 ## Related Tags
 

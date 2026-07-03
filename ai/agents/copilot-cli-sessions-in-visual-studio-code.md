@@ -4,17 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
-published_at: '2026-07-04T01:28:06.961203+05:30'
-collected_at: '2026-07-04T01:28:06.961219+05:30'
+published_at: '2026-07-04T03:54:27.717980+05:30'
+collected_at: '2026-07-04T03:54:27.717993+05:30'
 tags:
 - agents
 - openai
 - web-crawled
 status: active
 resource_id: blog:copilot-cli-sessions-in-visual-studio-code
-first_seen: '2026-07-04T01:28:06.961219+05:30'
-last_seen: '2026-07-04T01:28:06.961219+05:30'
-last_checked: '2026-07-04T01:28:06.961219+05:30'
+first_seen: '2026-07-04T03:54:27.717993+05:30'
+last_seen: '2026-07-04T03:54:27.717993+05:30'
+last_checked: '2026-07-04T03:54:27.717993+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via GitHub Copilot CLI, managed through the Chat view; support multi-repository workspaces and parallel task execution with isolation modes (Worktree/Folder).
+- **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via GitHub Copilot CLI, managed through the Chat view; support multi-repository workspaces, custom agents, and deep research tasks with `/research` command.
 
-- **Isolation & Permissions**: Worktree isolation uses Git worktrees for isolated changes (auto-approved), while Folder isolation applies changes directly to the workspace with configurable permission levels (Default/Bypass/Autopilot).
+- **Isolation Modes**: Copilot CLI supports **Worktree** (isolated Git worktree for agent changes) and **Folder** (direct workspace modifications) isolation, with auto-approval in Worktree mode and configurable permissions in Folder mode.
 
-- **CLI Features**: Supports slash commands (`/research`, `/yolo`, `/compact`), reusable prompts, and hooks; integrates with Copilot SDK for session lifecycle management (start/stop/monitor).
+- **Permissions & Approvals**: Worktree isolation enforces **Bypass Approvals**, while Folder isolation allows **Default Approvals**, **Bypass Approvals**, or **Autopilot** modes, configurable via the permissions picker in chat.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-04T01:28:06.961203+05:30
+- Published: 2026-07-04T03:54:27.717980+05:30
 
 ## Related Tags
 

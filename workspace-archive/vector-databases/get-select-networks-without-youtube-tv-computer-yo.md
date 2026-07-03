@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Individual Network Subscription**: YouTube TV allows standalone purchases of select networks without requiring a full YouTube TV plan, accessible via web/Android (not iOS); networks requiring YouTube TV are marked accordingly.
-- **Unbundling Process**: Existing YouTube TV subscribers can cancel their main plan to subscribe to individual networks separately, losing bundled promotions but gaining granular control over channel selection.
-- **Platform Limitations**: Standalone network purchases
+- **Individual Network Subscription**: Users can purchase select networks without a full YouTube TV subscription if the network does not display "Requires YouTube TV" under add-on options; currently supported on Android and desktop web browsers only (iOS unavailable).
+- **Unbundling Process**: Existing YouTube TV subscribers can cancel their main plan via **Settings > Membership > Manage > Cancel**, losing bundled promos, then re-subscribe to individual networks through the same interface.
+- **N
 
 ## Use Cases
 

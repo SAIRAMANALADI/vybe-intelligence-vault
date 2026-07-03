@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-07-04T01:22:26.398217+05:30'
+collected_at: '2026-07-04T03:49:27.346710+05:30'
 published_at: '2026-07-03T13:07:34Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
 - python
 - rag
+- workflows
 stars: 93
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-07-04T01:22:26.398217+05:30'
-last_seen: '2026-07-04T01:22:26.398217+05:30'
-last_checked: '2026-07-04T01:22:26.398217+05:30'
+first_seen: '2026-07-04T03:49:27.346710+05:30'
+last_seen: '2026-07-04T03:49:27.346710+05:30'
+last_checked: '2026-07-04T03:49:27.346710+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements advanced retrieval-augmented generation (RAG) techniques in Python, focusing on optimizing large model performance through structured prompt engineering and dynamic context retrieval.
-- **Modular Architecture**: Features a scalable, modular design with configurable components for embedding models, vector databases, and response generation, enabling customization for domain-specific applications.
-- **Benchmarking & Evaluation**: Includes built-in evaluation metrics and benchmarking tools to assess retrieval quality, answer accuracy, and latency, supporting iterative refinement of RAG pipelines.
+- **Implementation Focus**: Repository provides Python-based best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), emphasizing optimized retrieval and generation workflows.
+
+- **Key Components**: Includes methodologies for efficient document retrieval, context integration, and prompt engineering tailored for LLMs to enhance response accuracy and relevance.
+
+- **Update Status**: Last updated on **2026-07-03**, indicating ongoing maintenance and relevance for current RAG advancements.
 
 ## Why It Matters
 

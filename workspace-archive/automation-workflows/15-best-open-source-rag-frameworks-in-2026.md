@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Firecrawl**: AI-powered web scraping/crawling API converting dynamic websites to LLM-friendly markdown/structured data; supports `scrape()`, `crawl()`, and `deep-research` endpoints for dataset enrichment in RAG pipelines.
+- **LangChain**: Modular framework with 105k+ GitHub stars, offering data connectors, model flexibility, retrieval components, and evaluation tools for RAG pipelines; integrates with LangSmith and LangGraph for debugging and workflow management.
 
-- **RAGFlow**: Open-source RAG engine with deep document parsing (PDFs/tables/layouts), GraphRAG support, and visual web UI; offers Python SDK + REST APIs with Elasticsearch/Infinity storage backends.
+- **RAGFlow**: Open-source RAG engine (48.5k stars) with deep document understanding (PDFs, tables, layouts), GraphRAG support, and a visual web interface for structured data extraction and retrieval.
 
-- **Milvus**: Cloud-native vector database optimized for billion-scale
+- **Milvus**: High-performance, cloud-native vector
 
 ## Use Cases
 

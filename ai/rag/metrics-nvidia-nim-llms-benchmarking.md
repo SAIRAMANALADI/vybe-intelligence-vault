@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.nvidia.com/nim/benchmarking/llm/latest/metrics.html#time-to-first-token-ttft
-published_at: '2026-07-02T15:10:13.533090+05:30'
-collected_at: '2026-07-02T15:10:13.533101+05:30'
+published_at: '2026-07-04T03:54:06.787043+05:30'
+collected_at: '2026-07-04T03:54:06.787052+05:30'
 tags:
 - benchmark
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:metrics-nvidia-nim-llms-benchmarking
-first_seen: '2026-07-02T15:10:13.533101+05:30'
-last_seen: '2026-07-02T15:10:13.533101+05:30'
-last_checked: '2026-07-02T15:10:13.533101+05:30'
+first_seen: '2026-07-04T03:54:06.787052+05:30'
+last_seen: '2026-07-04T03:54:06.787052+05:30'
+last_checked: '2026-07-04T03:54:06.787052+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Time to First Token (TTFT)**: Measures latency from query submission to first output token, including request queuing, prefill time, and network latency; scales with prompt length due to KV-cache computation.
-- **Inter-Token Latency (ITL)**: Average time between consecutive tokens (excluding TTFT in GenAI-Perf), reflecting decoding efficiency and memory/attention computation performance.
-- **Tokens Per Second (TPS)**: System throughput metric calculated as total output tokens divided by time between first and last response (GenAI-Perf) or entire benchmark duration (LLMPerf), with per-user TPS defined as output length divided by end-to-end latency.
+- **Time to First Token (TTFT)**: Measures latency from query submission to first token output, including prompt tokenization, KV-cache generation, and network overhead; scales linearly with prompt length due to attention computation requirements.
+- **Inter-Token Latency (ITL)**: Average time between consecutive output tokens (excluding TTFT in GenAI-Perf), reflecting decoding efficiency; influenced by KV-cache growth and memory bandwidth during attention computation.
+- **Tokens Per Second (TPS)**: System-wide throughput metric (total output tokens divided by time between first and last response), with variations in calculation methods (e.g., sliding window in GenAI-Perf vs. full benchmark duration in LLMPerf) affecting reported values.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T15:10:13.533090+05:30
+- Published: 2026-07-04T03:54:06.787043+05:30
 
 ## Related Tags
 

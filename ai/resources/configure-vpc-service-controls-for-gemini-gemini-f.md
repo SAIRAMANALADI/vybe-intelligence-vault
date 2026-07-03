@@ -5,16 +5,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/gemini-code-assist/docs/configure-vpc-service-controls
-published_at: '2026-06-29T21:55:03.670044+05:30'
-collected_at: '2026-06-29T21:55:03.670059+05:30'
+published_at: '2026-07-04T03:55:24.894810+05:30'
+collected_at: '2026-07-04T03:55:24.894822+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-vpc-service-controls-for-gemini-gemini-f
-first_seen: '2026-06-29T21:55:03.670059+05:30'
-last_seen: '2026-06-29T21:55:03.670059+05:30'
-last_checked: '2026-06-29T21:55:03.670059+05:30'
+first_seen: '2026-07-04T03:55:24.894822+05:30'
+last_seen: '2026-07-04T03:55:24.894822+05:30'
+last_checked: '2026-07-04T03:55:24.894822+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **VPC Service Controls Integration**: Add `Gemini for Google Cloud API` and `Gemini Code Assist API` to an existing organization-level service perimeter, including all required projects and VPC networks, while optionally configuring ingress policies for IDE access.
-- **Network Configuration**: Enable Private Google Access, enforce firewall rules (deny-all egress + allow restricted VIP range `199.36.153.4/30:443`), and configure Cloud DNS to resolve `*.googleapis.com` to `restricted.googleapis.com`.
-- **Additional Considerations**: Extend perimeter access via VPN/Interconnect for external clients, manage IDE/GitHub access restrictions, and review VPC Service Controls limitations for compliance with Gemini Code Assist.
+- **VPC Service Controls Integration**: Add `Gemini for Google Cloud API` and `Gemini Code Assist API` to an existing organization-level service perimeter, including relevant projects and VPC networks, while restricting outbound traffic to the `199.36.153.4/30` restricted VIP range (`restricted.googleapis.com`) via firewall rules and DNS response policies.
+- **Firewall & DNS Configuration**: Enforce egress control by creating a deny-all rule (priority >1000) and an allow rule (priority <1000) for TCP/443 to `199.36.153.4/30`, then configure Cloud DNS to resolve `*.googleapis.com` to the restricted VIP range with A records (TTL: 300).
+- **Optional Access Extensions**: Enable ingress policies for IDE plugins (e.g., Cloud Code) by defining access levels via Access Context Manager, while ensuring client machines outside the perimeter comply with restricted access policies to prevent data exfiltration.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-29T21:55:03.670044+05:30
+- Published: 2026-07-04T03:55:24.894810+05:30
 
 ## Related Tags
 

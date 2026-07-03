@@ -17,7 +17,6 @@ tags:
 - meta-ai
 - models
 - rag
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Community-driven library providing modular data loaders for LLMs, designed for seamless integration with LlamaIndex and LangChain frameworks.
-- **Technical Scope**: Repository contains Jupyter Notebook-based implementations, enabling structured data ingestion and preprocessing workflows for downstream LLM applications.
-- **Metadata**: 3472 stars, 718 forks; last updated on 2026-06-26, indicating active maintenance and community engagement.
+- **Purpose**: A community-driven repository providing modular data loaders for LLMs, designed for integration with LlamaIndex and/or LangChain frameworks.
+- **Technical Stack**: Implemented primarily in Jupyter Notebook, enabling interactive data processing and experimentation.
+- **Metadata**: 3,473 stars, 718 forks, last updated on 2026-07-02; serves as a centralized hub for extensible data ingestion pipelines.
 
 ## Use Cases
 

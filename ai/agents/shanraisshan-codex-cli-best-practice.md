@@ -4,11 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-07-04T01:24:06.490076+05:30'
+collected_at: '2026-07-04T03:51:07.458069+05:30'
 published_at: '2026-07-03T17:34:01Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - python
 - scripts
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-07-04T01:24:06.490076+05:30'
-last_seen: '2026-07-04T01:24:06.490076+05:30'
-last_checked: '2026-07-04T01:24:06.490076+05:30'
+first_seen: '2026-07-04T03:51:07.458069+05:30'
+last_seen: '2026-07-04T03:51:07.458069+05:30'
+last_checked: '2026-07-04T03:51:07.458069+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository provides structured methodologies to transition from "vibe coding" to **agentic engineering** using Codex CLI, emphasizing automation, context engineering, and modular hooks for scalable AI-driven development workflows.
+- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
 
-- **Codex CLI Skills & Hooks**: Demonstrates implementation of **custom Codex CLI commands, skills, and hooks** to extend OpenAI Codex capabilities, enabling persistent context management, multi-agent collaboration, and reusable AI agent patterns.
+- **CLI-Centric Best Practices**: Provides a curated set of *Codex CLI commands*, agent templates, and skill configurations optimized for OpenAI’s Codex, enabling reproducible, scalable AI agent interactions in Python-based environments.
 
-- **Best Practices & CLI Commands**: Repository includes **production-ready Codex CLI best practices**, covering command chaining, context engineering, and agentic workflows optimized for Pakistani developers and global AI engineering teams.
+- **Context & Hook Optimization**: Implements advanced *context-engineering* techniques and custom *hooks* to dynamically manage AI agent states, ensuring efficient state transitions and task execution in agentic workflows.
 
 ## Why It Matters
 

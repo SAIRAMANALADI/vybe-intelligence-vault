@@ -11,10 +11,10 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
 - python
 - workflows
+- youtube
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Gradio**: Open-source Python library enabling rapid development and deployment of interactive ML/web apps with minimal code, supporting UI components (e.g., sliders, plots) and direct model integration.
+- **Gradio**: An open-source Python library enabling rapid development and deployment of interactive ML/web applications with minimal code, supporting real-time data visualization, model inference, and UI component integration.
 
-- **Key Features**: Supports real-time inference, customizable layouts, and sharing via public links; integrates with frameworks like TensorFlow/PyTorch and tools (e.g., Hugging Face Spaces).
+- **Key Features**: Supports dynamic interfaces (e.g., `gr.Interface`, `gr.Blocks`), integrates with frameworks like TensorFlow/PyTorch, and enables sharing via shareable links or Hugging Face Spaces.
 
-- **Deployment**: Enables local testing, cloud deployment (e.g., Hugging Face), and embedding in Ju
+- **Ecosystem**: Facilitates deployment across platforms (local/remot
 
 ## Use Cases
 

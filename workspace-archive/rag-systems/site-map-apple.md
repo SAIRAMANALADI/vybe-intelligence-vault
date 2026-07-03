@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - rag
 - reddit
 - web-crawled
@@ -33,8 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Apple Ecosystem Structure**: The sitemap outlines Apple's hierarchical product and service organization, including dedicated sections for Mac, iPad, iPhone, and Apple Watch, each with subcategories for hardware models, accessories, applications, and support.
-- **Cross-Platform Integration**: Key sections highlight Apple's ecosystem interoperability, such as continuity features (e.g., "Better with iPhone/Mac"), shared applications (e.g., Apple Books, Apple Podcasts), and cross-device services
+- **Apple Ecosystem Structure**: The site map outlines Apple's product hierarchy, including dedicated sections for Mac, iPad, iPhone, and Apple Watch, each with subcategories for models, accessories, applications, and support.
+
+- **Technical & Developer Resources**: Key sections like "macOS for Developers," "iPadOS for Developers," and "iOS for Developers" provide direct links to Apple’s developer documentation and tools for software integration.
+
+- **Support & Services Integration**: Each produ
 
 ## Use Cases
 

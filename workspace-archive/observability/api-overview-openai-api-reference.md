@@ -8,13 +8,12 @@ local_vault_path: ai/rag/api-overview-openai-api-reference.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: benchmark
 importance: medium
 tags:
 - models
 - openai
 - rag
-- reddit
 - web-crawled
 - workflows
 selection_reason:
@@ -28,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **API Surface & Authentication**: OpenAI API offers three primary surfaces—**Responses** (for model/text/audio/image interactions), **Realtime API** (low-latency WebRTC/WebSocket/SIP audio sessions), and **Administration** (user/project/key management). Authentication uses **HTTP Bearer tokens** (API keys or short-lived tokens via workload identity federation), with optional `OpenAI-Organization` and `OpenAI-Project` headers for multi-tenant setups.
+- **API Surface & Authentication**: OpenAI API offers three primary surfaces—**Responses** (direct model requests, tool use, audio/image/text inputs), **Realtime API** (low-latency voice/audio via WebRTC/WebSocket/SIP), and **Administration** (organization workflows, API keys, audit logs). Authentication uses **Bearer tokens** (API keys or short-lived access tokens via workload identity federation), with optional `OpenAI-Organization` and `OpenAI-Project` headers for multi-tenant setups.
 
-- **Debugging & Rate Limits**: API response
+- **De
 
 ## Use Cases
 

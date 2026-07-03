@@ -6,10 +6,10 @@ source_url: https://www.deepset.ai/blog
 resource_id: blog:blog
 local_vault_path: ai/rag/blog.md
 quality_score: 70
-archive_score: 82
+archive_score: 70
 archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - hackernews
@@ -19,7 +19,6 @@ tags:
 - web-crawled
 - workflows
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
@@ -28,19 +27,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Haystack Framework**: Open-source Python framework for building production-ready NLP pipelines, supporting modular components for document retrieval, processing, and question answering with integrations to LLMs, vector databases, and APIs.
+- **Harness Engineering**: Agent reliability is determined by system architecture (e.g., failure classification, recovery mechanisms) rather than model selection alone; production-grade agent harnesses can be built using Haystack for robust AI agent deployment.
 
-- **Enterprise AI Solutions**: Offers **Haystack Enterprise Platform** (unified AI solution), **Haystack Enterprise Starter** (scalable deployment), and **MCP tool integration** to expose pipelines as managed tools for agentic workflows.
-
-- **Sovereign AI
+- **Sovereign AI Economics**: Enterprise AI cost inflation stems from model inefficiency, excessive context usage, ungoverned agentic workflows; sovereign AI frameworks (e.g., Deutschland-Stack) mitigate costs via transparency, adaptabil
 
 ## Use Cases
 

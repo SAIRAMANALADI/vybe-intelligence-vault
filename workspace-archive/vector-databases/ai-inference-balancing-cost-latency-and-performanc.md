@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **NVIDIA AI Inference Solutions**: Provides optimized inference platforms (e.g., Dynamo, NIM) for fast AI model deployment, balancing peak performance, throughput, and ultra-low latency critical for large-scale LLM inference.
+- **NVIDIA AI Inference Solutions**: Provides optimized inference platforms (e.g., Dynamo, NIM) for fast AI model deployment, balancing peak performance, high throughput, and ultra-low latency critical for scaling large language models (LLMs).
 
-- **Cost Optimization Strategies**: Offers actionable best practices to minimize cost per token in AI inference, leveraging full-stack NVIDIA solutions for maximum efficiency and value.
+- **Cost Optimization Strategies**: Focuses on reducing cost per token through actionable best practices and expert guidance, emphasizing infrastructure optimization for AI workloads.
 
-- **Use Case-Driven Infrastructure**: Tailors compute, networking, and software requ
+- **LLM Use Case Requirements**: Highlights the need for purpose-built
 
 ## Use Cases
 

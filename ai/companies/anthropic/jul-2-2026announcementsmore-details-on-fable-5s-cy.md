@@ -5,8 +5,8 @@ category: ai/companies/anthropic
 source_type: company_blog
 source_name: Anthropic News
 source_url: https://anthropic.com/news/fable-safeguards-jailbreak-framework
-published_at: '2026-07-04T01:20:43.508232+05:30'
-collected_at: '2026-07-04T01:20:43.508236+05:30'
+published_at: '2026-07-04T03:47:45.478193+05:30'
+collected_at: '2026-07-04T03:47:45.478195+05:30'
 tags:
 - anthropic
 - anthropic-news
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: blog:jul-2-2026announcementsmore-details-on-fable-5s-cy
 first_seen: '2026-07-03T15:06:05.071203+05:30'
-last_seen: '2026-07-04T01:20:43.508236+05:30'
-last_checked: '2026-07-04T01:20:43.508236+05:30'
+last_seen: '2026-07-04T03:47:45.478195+05:30'
+last_checked: '2026-07-04T03:47:45.478195+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Anthropic News
 - Article URL: https://anthropic.com/news/fable-safeguards-jailbreak-framework
-- Collected At: 2026-07-04T01:20:43.508236+05:30
+- Collected At: 2026-07-04T03:47:45.478195+05:30
 
 ## Related Tags
 

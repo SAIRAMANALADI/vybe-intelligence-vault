@@ -4,25 +4,26 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-07-03T15:09:46.904443+05:30'
-published_at: '2026-07-03T08:51:13Z'
+collected_at: '2026-07-04T03:50:52.445097+05:30'
+published_at: '2026-07-03T19:34:42Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - openai
 - python
-stars: 10092
+- workflows
+stars: 10095
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-05-21T21:44:24Z'
-pushed_at: '2026-07-02T23:17:20Z'
+pushed_at: '2026-07-03T14:35:50Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-07-03T15:09:46.904443+05:30'
-last_seen: '2026-07-03T15:09:46.904443+05:30'
-last_checked: '2026-07-03T15:09:46.904443+05:30'
+first_seen: '2026-07-04T03:50:52.445097+05:30'
+last_seen: '2026-07-04T03:50:52.445097+05:30'
+last_checked: '2026-07-04T03:50:52.445097+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Multi-Agent Framework**: Open-SWE implements an asynchronous, event-driven architecture for distributed coding agents, enabling parallel task execution and non-blocking I/O operations via Python's `asyncio`.
+- **Asynchronous Multi-Agent Framework**: Implements an event-driven, non-blocking architecture for concurrent task execution using Python's asyncio, enabling parallelized LLM interactions and tool usage across distributed agents.
 
-- **ClaudeCode & LLM Integration**: Supports Anthropic's ClaudeCode and OpenAI-compatible LLMs for code generation/review, with async API calls and streaming responses for real-time feedback.
+- **Tool-Agnostic Integration**: Supports dynamic switching between LLM providers (OpenAI, Anthropic) and external tools (ClaudeCode) via standardized interfaces, with built-in rate limiting and retry mechanisms for fault tolerance.
 
-- **Modular Tooling & State Management**: Provides pluggable tools (e.g., Git, shell) and a Redis-backed state store for persistent agent memory, ensuring fault tolerance and task resumption.
+- **State Management & Observability**: Features a distributed task queue with Redis-backed persistence, real-time progress tracking via WebSocket streams, and structured logging for debugging asynchronous workflows.
 
 ## Why It Matters
 
@@ -43,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 10092
+- Stars: 10095
 - Forks: 1157
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-07-03T08:51:13Z
+- Last Updated: 2026-07-03T19:34:42Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z
-- Pushed At: 2026-07-02T23:17:20Z
+- Pushed At: 2026-07-03T14:35:50Z
 
 ## Possible Use Cases
 

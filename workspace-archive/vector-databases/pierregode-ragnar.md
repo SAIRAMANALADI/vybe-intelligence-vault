@@ -8,11 +8,10 @@ local_vault_path: ai/rag/pierregode-ragnar.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: product
+resource_kind: workflow
 importance: medium
 tags:
 - github-repo
-- hackernews
 - paper
 - python
 - rag
@@ -26,17 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: product
+- Resource kind: workflow
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Purpose & Functionality**: Ragnar is an offensive security tool designed for Raspberry Pi, integrating a 2.13-inch e-Paper HAT for network scanning, target discovery, port enumeration, service identification, and vulnerability detection.
-
-- **Technical Stack**: Implemented in Python, leveraging modular libraries for network reconnaissance and hardware interaction with the e-Paper display.
-
-- **Metadata**: 655 stars, 58 forks, last updated on 2026-07-03; serves as a predecessor to the Bjorn t
+- **Purpose-built offensive security tool** for Raspberry Pi, integrating a 2.13-inch e-Paper HAT for network reconnaissance and vulnerability assessment.
+- **Automated discovery pipeline** scans for network targets, open ports, exposed services, and known vulnerabilities using Python-based tooling.
+- **Project lineage**: Forked from Bjorn, with active development (last update: 2026-07-03) and 655 stars, 58 forks.
 
 ## Use Cases
 

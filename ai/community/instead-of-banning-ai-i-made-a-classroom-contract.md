@@ -13,13 +13,14 @@ collected_at: '2026-07-04T01:20:43.465569+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:instead-of-banning-ai-i-made-a-classroom-contract
 first_seen: '2026-07-04T01:20:43.465569+05:30'
 last_seen: '2026-07-04T01:20:43.465569+05:30'
 last_checked: '2026-07-04T01:20:43.465569+05:30'
 health_score: 100
 ---
+
 
 # Instead of banning AI, I made a classroom contract with my students
 

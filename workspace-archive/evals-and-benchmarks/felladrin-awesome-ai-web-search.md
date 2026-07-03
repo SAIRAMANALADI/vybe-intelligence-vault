@@ -12,7 +12,6 @@ resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
-- hackernews
 - html
 - rag
 selection_reason:
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated AI Web Search Tools**: Repository listing software enabling AI-assisted web searches, including generative AI, RAG, and metasearch tools for enhanced information retrieval and question-answering.
-- **Technical Scope**: Covers LLM inference, retrieval-augmented generation (RAG), and metasearch engines, with a focus on generative AI projects and AI-driven search optimization.
-- **Metadata**: 1.36k stars, 112 forks, last updated July 3, 2026; primary language is HTML, with topics spanni
+- **Curated list** of AI-powered web search tools leveraging **LLMs, RAG, and generative AI** for enhanced information retrieval and question-answering.
+- **Covers metasearch engines, AI assistants, and retrieval-augmented systems**, including projects for **local LLM inference** and **web-based AI search interfaces**.
+- **GitHub repository** (HTML-based) with **1,364 stars** and **112 forks**, last updated **July 3, 2026**, hosted at `https://github.com/felladrin/awesome-ai-web-search`.
 
 ## Use Cases
 

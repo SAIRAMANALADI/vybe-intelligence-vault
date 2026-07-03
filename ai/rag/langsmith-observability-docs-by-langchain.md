@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/langsmith/home
-published_at: '2026-07-03T22:23:10.915789+05:30'
-collected_at: '2026-07-03T22:23:10.915804+05:30'
+published_at: '2026-07-04T03:54:12.680431+05:30'
+collected_at: '2026-07-04T03:54:12.680442+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langsmith-observability-docs-by-langchain
-first_seen: '2026-07-03T22:23:10.915804+05:30'
-last_seen: '2026-07-03T22:23:10.915804+05:30'
-last_checked: '2026-07-03T22:23:10.915804+05:30'
+first_seen: '2026-07-04T03:54:12.680442+05:30'
+last_seen: '2026-07-04T03:54:12.680442+05:30'
+last_checked: '2026-07-04T03:54:12.680442+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-framework observability**: LangSmith provides end-to-end visibility into LLM applications across frameworks and providers (e.g., OpenAI, Anthropic, CrewAI, Vercel AI SDK) via standardized tracing and integrations.
-
-- **Automated failure detection & debugging**: Engine feature automatically identifies recurring issues in traces, diagnoses root causes, and enables resolution through automated workflows, dashboards, and alerts.
-
-- **Deployment flexibility**: Supports cloud, hybrid, or self-hosted LangSmith instances with unified observability, evaluation, prompt engineering, and deployment capabilities (no credit card required for basic setup).
+- **Multi-framework observability**: LangSmith provides end-to-end visibility into LLM applications across frameworks (OpenAI, Anthropic, CrewAI, Vercel AI SDK, Pydantic AI) via standardized tracing and metrics collection.
+- **Automated failure detection**: LangSmith Engine automatically identifies recurring issues in traces, performs root cause analysis, and enables resolution workflows with configurable automations and alerts.
+- **Deployment flexibility**: Supports cloud, hybrid, or self-hosted LangSmith instances with unified observability, evaluation, prompt engineering, and deployment capabilities.
 
 ## Why It Matters
 
@@ -41,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T22:23:10.915789+05:30
+- Published: 2026-07-04T03:54:12.680431+05:30
 
 ## Related Tags
 

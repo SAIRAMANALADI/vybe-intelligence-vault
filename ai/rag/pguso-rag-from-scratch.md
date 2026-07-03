@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-07-04T01:21:46.397186+05:30'
+collected_at: '2026-07-04T03:48:47.267927+05:30'
 published_at: '2026-07-01T18:08:16Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-07-04T01:21:46.397186+05:30'
-last_seen: '2026-07-04T01:21:46.397186+05:30'
-last_checked: '2026-07-04T01:21:46.397186+05:30'
+first_seen: '2026-07-04T03:48:47.267927+05:30'
+last_seen: '2026-07-04T03:48:47.267927+05:30'
+last_checked: '2026-07-04T03:48:47.267927+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline construction from scratch in JavaScript, emphasizing transparency by avoiding proprietary black boxes and using local LLMs (via `node-llama-cpp`).
+- **Educational RAG Implementation**: Provides a step-by-step JavaScript-based tutorial to build a Retrieval-Augmented Generation (RAG) system from scratch using local LLMs, eliminating black-box dependencies and emphasizing practical understanding of embeddings, vector search, retrieval, and context-augmented generation.
 
-- **Core Components**: Covers end-to-end implementation of embeddings generation, vector search (retrieval), and context-augmented generation, with a focus on practical Node.js integration for AI agents.
+- **Tech Stack**: Utilizes `node-llama-cpp` for local LLM inference and Node.js for the backend, ensuring a lightweight, self-contained environment for experimentation and learning.
 
-- **Open-Source Tutorial**: Provides a hands-on, step-by-step guide for developers to understand and deploy RAG systems, including chatbot integration and pipeline optimization (last updated July 2026).
+- **Key Features**: Implements core RAG components (embedding generation, vector search, retrieval, and prompt augmentation) in a modular, educational format, with a focus on transparency and hands-on Node.js development.
 
 ## Why It Matters
 

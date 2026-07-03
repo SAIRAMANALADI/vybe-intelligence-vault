@@ -4,25 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/techwithtim/Langflow-RAG-Tutorial
-collected_at: '2026-07-04T01:21:46.366216+05:30'
-published_at: '2026-07-03T04:57:47Z'
+collected_at: '2026-07-04T03:48:47.271342+05:30'
+published_at: '2026-07-03T20:52:55Z'
 tags:
 - github-repo
 - hackernews
-- openai
 - rag
 - unknown
-- workflows
-stars: 96
+stars: 97
 language: Unknown
 status: active
 archived: false
 created_at: '2024-04-17T10:56:19Z'
 pushed_at: '2024-07-18T10:50:24Z'
 resource_id: github:techwithtim/langflow-rag-tutorial
-first_seen: '2026-07-04T01:21:46.366216+05:30'
-last_seen: '2026-07-04T01:21:46.366216+05:30'
-last_checked: '2026-07-04T01:21:46.366216+05:30'
+first_seen: '2026-07-04T03:48:47.271342+05:30'
+last_seen: '2026-07-04T03:48:47.271342+05:30'
+last_checked: '2026-07-04T03:48:47.271342+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Purpose**: Tutorial for implementing Retrieval-Augmented Generation (RAG) using Langflow, a visual framework for building LLM workflows.
-- **Technical Stack**: Likely integrates Langchain, vector databases (e.g., Chroma, FAISS), and LLM APIs (e.g., OpenAI, HuggingFace) for RAG pipelines.
-- **Last Update**: Repository was last modified on **July 3, 2026**, indicating active maintenance or recent development.
+- **Repository Overview**: GitHub repository `techwithtim/Langflow-RAG-Tutorial` with 97 stars and 25 forks, last updated on 2026-07-03.
+- **Technical Focus**: Tutorial repository for implementing Retrieval-Augmented Generation (RAG) using Langflow, a visual framework for building LLM applications.
+- **Language/Framework**: Primary language/framework unspecified ("Unknown"), suggesting potential flexibility or dependency on Langflow's supported stack.
 
 ## Why It Matters
 
@@ -41,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: techwithtim
-- Stars: 96
+- Stars: 97
 - Forks: 25
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-03T04:57:47Z
+- Last Updated: 2026-07-03T20:52:55Z
 - Archived: No
 - Created At: 2024-04-17T10:56:19Z
 - Pushed At: 2024-07-18T10:50:24Z

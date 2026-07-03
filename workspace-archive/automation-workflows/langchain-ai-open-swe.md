@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Asynchronous Multi-Agent Framework**: Implements an event-driven, non-blocking architecture for parallelized coding tasks using Python's `asyncio`, enabling concurrent execution of LLM-based agents for code generation, review, and testing.
+- **Asynchronous Multi-Agent Framework**: Implements an event-driven, non-blocking architecture for concurrent task execution using Python's asyncio, enabling parallelized LLM interactions and tool usage across distributed agents.
 
-- **Tool Integration & Extensibility**: Supports dynamic tool registration (e.g., Anthropic ClaudeCode, OpenAI LLM APIs) via a modular plugin system, allowing runtime addition of custom tools (e.g., linters, debuggers) without codebase modifications.
+- **Tool-Agnostic Integration**: Supports dynamic switching between LLM providers (OpenAI, Anthropic) and external tools (ClaudeCode) via standardized interfaces, with built-in rate limiting and retry mechanisms for fault tolerance.
 
-- *
+- **State Management & Observabili
 
 ## Use Cases
 

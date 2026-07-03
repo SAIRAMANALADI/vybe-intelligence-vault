@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-07-04T01:24:11.499959+05:30'
+collected_at: '2026-07-04T03:51:12.394991+05:30'
 published_at: '2026-07-01T14:48:32Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-07-04T01:24:11.499959+05:30'
-last_seen: '2026-07-04T01:24:11.499959+05:30'
-last_checked: '2026-07-04T01:24:11.499959+05:30'
+first_seen: '2026-07-04T03:51:12.394991+05:30'
+last_seen: '2026-07-04T03:51:12.394991+05:30'
+last_checked: '2026-07-04T03:51:12.394991+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Stack**: Primarily shell-based, with integration support for agentic AI, MCP, and CLI tools to enhance Anthropic's LLM workflows.
-- **Metadata**: 60 stars, 11 forks, last updated July 1, 2026; focuses on developer productivity and AI-driven automation.
+- **Repository Overview**: A curated GitHub repository (`MuhammadUsmanGM/claude-code-best-practices`) providing structured best practices for **Claude Code**, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+
+- **Technical Scope**: Focuses on **AI agentic workflows**, **CLI tooling**, **LLM integration**, and **MCP (Model Context Protocol)** patterns, with Shell scripts for automation and template generation.
+
+- **Key Features**: Includes **cost-efficient LLM usage patterns**, **multi-agent collaboration templates**, and **developer tooling optimizations**, last updated on **2026-07-01**.
 
 ## Why It Matters
 

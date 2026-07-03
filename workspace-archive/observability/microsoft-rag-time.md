@@ -17,7 +17,6 @@ tags:
 - models
 - openai
 - rag
-- reddit
 - workflows
 selection_reason:
 - Strong keyword match
@@ -37,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive RAG Mastery Guide**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization, HNSW indexing, and Matryoshka representation learning.
-
-- **Multi-Tool Integration**: Demonstrates RAG workflows using Azure AI services, OpenAI LLMs, and VS Code, with notebooks focusing on multimodal inputs, responsible AI practices, and efficient vector search implementation
+- **RAG Time**: A structured 5-week curriculum designed to master Retrieval-Augmented Generation (RAG) using Jupyter Notebooks, covering topics like hybrid search, vector indexing, and quantization techniques (binary/scalar).
+- **Key Technologies**: Integrates Azure, OpenAI, HNSW, and Matryoshka representation learning for efficient retrieval and multimodal RAG workflows in VS Code.
+- **Focus Areas**: Emphasizes responsible AI, hybrid search (keyword + vector), and advanced indexing methods for
 
 ## Use Cases
 

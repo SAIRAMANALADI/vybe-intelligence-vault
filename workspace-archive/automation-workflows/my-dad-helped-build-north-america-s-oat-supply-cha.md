@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by surprisetalk. Score: 59, Comments: 26.
+Hacker News story by surprisetalk. Score: 77, Comments: 43.
 Original Link: https://ambrook.com/offrange/perspective/how-we-lost-our-oats
 
 ## Use Cases

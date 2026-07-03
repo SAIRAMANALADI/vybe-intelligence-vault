@@ -36,9 +36,8 @@ selection_reason:
 
 ## Summary
 
-- **Apple Intelligence & Foundation Models Framework**: Integrates AI capabilities into macOS apps via native Swift APIs, enabling multimodal reasoning (text + images) with on-device or Private Cloud Compute models, dynamic model swapping, and real-time adaptive intelligence through the Evaluations framework.
-
-- **Metal 4 & Video Effects API**: Leverages Metal for GPU-accelerated rendering (including ML inference in shaders) and exposes ML-based video processing (Motion Blur, FRC, Super-Resoluti
+- **Apple Intelligence & Foundation Models**: Integrate app actions into Siri AI via App Intents using the Foundation Models framework (native Swift API) for multimodal prompts, on-device Vision tools, Dynamic Profiles, and Evaluations for real-time adaptive AI features.
+- **Metal 4 & Video Effects API**: Leverage Metal for GPU-accelerated rendering (including ML inference in shaders) and MetalFX for performance optimization; use Video Effects API for ML-based video processing (e.g., Motion Blur
 
 ## Use Cases
 

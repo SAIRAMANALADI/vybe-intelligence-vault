@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/cookbook
-published_at: '2026-07-04T01:27:22.300768+05:30'
-collected_at: '2026-07-04T01:27:22.300780+05:30'
+published_at: '2026-07-04T03:54:26.783322+05:30'
+collected_at: '2026-07-04T03:54:26.783332+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:cookbook-haystack
-first_seen: '2026-07-04T01:27:22.300780+05:30'
-last_seen: '2026-07-04T01:27:22.300780+05:30'
-last_checked: '2026-07-04T01:27:22.300780+05:30'
+first_seen: '2026-07-04T03:54:26.783332+05:30'
+last_seen: '2026-07-04T03:54:26.783332+05:30'
+last_checked: '2026-07-04T03:54:26.783332+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Cookbook** provides 71 technical recipes covering model providers, vector databases, retrieval techniques, and integrations (e.g., OpenStreetMap, MCP, vLLM, Azure AI Search) with demos for agents, RAG, multimodal processing, and advanced retrieval methods.
-- **Key technical areas** include agentic workflows (e.g., itinerary planning, GitHub issue resolution), hybrid RAG pipelines (e.g., query decomposition, HyDE), and model serving (e.g., vLLM, NVIDIA NIMs, FastEmbed) with integrations like Chroma, Qdrant, and AstraDB.
-- **Experimental/evaluation tools** (e.g., Mem0 memory store, Arize Phoenix, Prometheus 2) and customization techniques (e.g., DSPy prompt optimization, metadata enrichment) are demonstrated alongside domain-specific applications (e.g., legal document analysis, multilingual RAG).
+- **Agentic RAG Integration**: Demonstrates agent-based retrieval pipelines using tools like OpenStreetMap, MCP, and custom memory stores (e.g., Mem0) to enhance dynamic query processing and contextual reasoning in Haystack-based systems.
+- **Advanced Retrieval Techniques**: Showcases hybrid retrieval (BM42, HyDE), metadata enrichment, and sparse embeddings (Qdrant + FastEmbed) to optimize document retrieval accuracy and relevance in RAG workflows.
+- **Multimodal & Cross-Domain Applications**: Covers multimodal agents (e.g., fastRAG), multilingual RAG (Cohere v3), and integrations with external APIs (e.g., Azure AI Search, NVIDIA NIMs) for domain-specific use cases like legal analysis and web QA.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T01:27:22.300768+05:30
+- Published: 2026-07-04T03:54:26.783322+05:30
 
 ## Related Tags
 

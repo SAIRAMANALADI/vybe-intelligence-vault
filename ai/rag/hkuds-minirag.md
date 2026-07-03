@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-07-04T01:22:06.401186+05:30'
+collected_at: '2026-07-04T03:49:07.290372+05:30'
 published_at: '2026-07-03T16:17:41Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-07-04T01:22:06.401186+05:30'
-last_seen: '2026-07-04T01:22:06.401186+05:30'
-last_checked: '2026-07-04T01:22:06.401186+05:30'
+first_seen: '2026-07-04T03:49:07.290372+05:30'
+last_seen: '2026-07-04T03:49:07.290372+05:30'
+last_checked: '2026-07-04T03:49:07.290372+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) architecture leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, targeting ACL 2026.
-
-- **Key Innovations**: Focuses on modularity and efficiency by optimizing retrieval mechanisms and generator integration, enabling deployment on resource-constrained hardware without sacrificing accuracy.
-
-- **Open-Source Implementation**: Provides a Python-based, lightweight RAG pipeline with modular components (retriever, generator, and fusion modules) for reproducibility and community-driven enhancements.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline optimized for small, open-sourced language models (SLMs), reducing computational overhead while maintaining performance.
+- **Modular Architecture**: Implements a lightweight, modular design with decoupled retrieval and generation components, enabling efficient integration with SLMs (e.g., <1B parameters).
+- **Benchmark Performance**: Achieves competitive results on ACL2026 benchmarks with minimal resource requirements, demonstrating viability for edge/low-cost deployments.
 
 ## Why It Matters
 

@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-04T01:23:11.452285+05:30'
+collected_at: '2026-07-04T03:50:12.365938+05:30'
 published_at: '2026-07-03T09:52:43Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-04T01:23:11.452285+05:30'
-last_seen: '2026-07-04T01:23:11.452285+05:30'
-last_checked: '2026-07-04T01:23:11.452285+05:30'
+first_seen: '2026-07-04T03:50:12.365938+05:30'
+last_seen: '2026-07-04T03:50:12.365938+05:30'
+last_checked: '2026-07-04T03:50:12.365938+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retrieval and integration.
-
-- **Stateful Reasoning**: Implements dynamic memory updates and hierarchical organization to maintain context coherence across extended dialogues or narratives, enhancing multi-turn reasoning capabilities.
-
-- **AAAI 2026 Contribution**: Proposes a novel retrieval mechanism that optimizes memory access patterns, improving efficiency and accuracy in long-form reasoning tasks compared to traditional RAG systems.
+- **Cognitive Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework inspired by human memory organization, enabling stateful long-form narrative reasoning with structured memory retrieval.
+- **Memory Organization**: Implements hierarchical memory layers (episodic, semantic, procedural) to dynamically store, retrieve, and synthesize contextual information for coherent multi-turn reasoning.
+- **AAAI 2026 Contribution**: Proposes a novel evaluation framework for stateful reasoning, demonstrating superior performance in long narrative tasks compared to traditional RAG systems.
 
 ## Why It Matters
 

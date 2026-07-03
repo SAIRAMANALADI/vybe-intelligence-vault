@@ -8,16 +8,16 @@ local_vault_path: ai/rag/vibrantlabsai-ragas.md
 quality_score: 70
 archive_score: 81
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
-- hackernews
+- dataset
 - rag
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # ragas/docs/concepts/metrics/index.md at main · vibrantlabsai/ragas · GitHub
@@ -26,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 81 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Design Principles**: Metrics in Ragas are structured around core design principles focusing on modularity, extensibility, and interpretability for evaluating RAG (Retrieval-Augmented Generation) systems.
+- **Overview & Design Principles**: Metrics in Ragas are modular, customizable components designed to evaluate RAG (Retrieval-Augmented Generation) pipelines, focusing on aspects like faithfulness, correctness, and efficiency while adhering to core design principles such as modularity, extensibility, and interpretability.
 
-- **Available Metrics**: Ragas provides a suite of metrics (e.g., faithfulness, answer relevance, context precision) that quantify performance across dimensions like correctness, relevance, and context utilization in RAG pipelines.
-
-- **Inner Workings**: Metrics leverage NLP techniques (e.g
+- **Available Metrics**: Ragas provides predefined metrics including **Faithfulness** (measures hallucination in generated answers), **Answer Relevance** (assesses alignment b
 
 ## Use Cases
 

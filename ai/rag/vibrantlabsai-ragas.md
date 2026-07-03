@@ -4,18 +4,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/vibrantlabsai/ragas/blob/master/docs/concepts/metrics/index.md
-published_at: '2026-07-03T15:13:14.618840+05:30'
-collected_at: '2026-07-03T15:13:14.618850+05:30'
+published_at: '2026-07-04T03:53:13.495157+05:30'
+collected_at: '2026-07-04T03:53:13.495170+05:30'
 tags:
 - benchmark
-- hackernews
+- dataset
 - rag
 - web-crawled
 status: active
 resource_id: github:vibrantlabsai/ragas
-first_seen: '2026-07-03T15:13:14.618850+05:30'
-last_seen: '2026-07-03T15:13:14.618850+05:30'
-last_checked: '2026-07-03T15:13:14.618850+05:30'
+first_seen: '2026-07-04T03:53:13.495170+05:30'
+last_seen: '2026-07-04T03:53:13.495170+05:30'
+last_checked: '2026-07-04T03:53:13.495170+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Design Principles**: Metrics in Ragas are structured around core design principles focusing on modularity, extensibility, and interpretability for evaluating RAG (Retrieval-Augmented Generation) systems.
+- **Overview & Design Principles**: Metrics in Ragas are modular, customizable components designed to evaluate RAG (Retrieval-Augmented Generation) pipelines, focusing on aspects like faithfulness, correctness, and efficiency while adhering to core design principles such as modularity, extensibility, and interpretability.
 
-- **Available Metrics**: Ragas provides a suite of metrics (e.g., faithfulness, answer relevance, context precision) that quantify performance across dimensions like correctness, relevance, and context utilization in RAG pipelines.
+- **Available Metrics**: Ragas provides predefined metrics including **Faithfulness** (measures hallucination in generated answers), **Answer Relevance** (assesses alignment between query and response), **Context Precision** (evaluates retrieved context relevance), and **Context Recall** (gauges context sufficiency), each with configurable parameters for granular control.
 
-- **Inner Workings**: Metrics leverage NLP techniques (e.g., embeddings, LLM-based evaluations) to compute scores, often comparing generated answers against ground truths or retrieved contexts for automated assessment.
+- **Implementation Framework**: Metrics are implemented as Python classes inheriting from a base `Metric` class, supporting batch processing, parallel evaluation, and integration with datasets via standardized interfaces (e.g., `evaluate()` method), enabling scalable and reproducible assessments.
 
 ## Why It Matters
 
@@ -37,12 +37,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T15:13:14.618840+05:30
+- Published: 2026-07-04T03:53:13.495157+05:30
 
 ## Related Tags
 
 - benchmark
-- hackernews
+- dataset
 - rag
 - web-crawled
 

@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.blog
-published_at: '2026-07-04T01:26:07.033411+05:30'
-collected_at: '2026-07-04T01:26:07.033421+05:30'
+published_at: '2026-07-04T03:52:26.745771+05:30'
+collected_at: '2026-07-04T03:52:26.745783+05:30'
 tags:
 - reddit
 - scripts
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:home-the-github-blog
-first_seen: '2026-07-04T01:26:07.033421+05:30'
-last_seen: '2026-07-04T01:26:07.033421+05:30'
-last_checked: '2026-07-04T01:26:07.033421+05:30'
+first_seen: '2026-07-04T03:52:26.745783+05:30'
+last_seen: '2026-07-04T03:52:26.745783+05:30'
+last_checked: '2026-07-04T03:52:26.745783+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Alert Volume & Scope**: GitHub processed **20,000+ secret scanning alerts** across **15,000 repositories**, necessitating scalable triage and remediation strategies.
+- **Scale & Challenge**: GitHub processed **20,000+ secret scanning alerts** across **15,000 repositories**, requiring automated triage to distinguish critical vulnerabilities from noise.
 
-- **Signal-to-Noise Optimization**: Implemented **automated filtering and prioritization workflows** to distinguish critical secrets from false positives, reducing manual review overhead.
+- **Workflow Automation**: Implemented **remediation workflows** to systematically address alerts, reducing manual review overhead and accelerating resolution.
 
-- **Inbox Zero Achievement**: Achieved **full remediation in nine months** via structured automation, workflow integration, and policy enforcement across repositories.
+- **Inbox Zero Achievement**: Achieved **inbox zero** in **9 months** by refining detection logic, prioritizing high-risk secrets, and integrating automated remediation pipelines.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-04T01:26:07.033411+05:30
+- Published: 2026-07-04T03:52:26.745771+05:30
 
 ## Related Tags
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://web.dev/articles/ai-overview
-published_at: '2026-07-03T03:59:17.913830+05:30'
-collected_at: '2026-07-03T03:59:17.913843+05:30'
+published_at: '2026-07-04T03:55:28.563856+05:30'
+collected_at: '2026-07-04T03:55:28.563867+05:30'
 tags:
 - anthropic
 - dataset
@@ -19,9 +19,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:what-is-artificial-intelligence-web-dev
-first_seen: '2026-07-03T03:59:17.913843+05:30'
-last_seen: '2026-07-03T03:59:17.913843+05:30'
-last_checked: '2026-07-03T03:59:17.913843+05:30'
+first_seen: '2026-07-04T03:55:28.563867+05:30'
+last_seen: '2026-07-04T03:55:28.563867+05:30'
+last_checked: '2026-07-04T03:55:28.563867+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **AI Fundamentals**: AI refers to non-human programs/models performing complex tasks (e.g., problem-solving, creativity, content generation) via machine learning (ML), with generative AI creating new content from learned patterns.
+- **AI Fundamentals**: AI encompasses non-human programs/models performing complex tasks like problem-solving, creativity, and generative content creation, with capabilities ranging from machine learning (ML) to deep learning (DL) and natural language processing (NLP).
 
-- **AI Deployment Models**: AI inference occurs either client-side (browser-based, e.g., Transformers.js, TensorFlow.js) for low latency/privacy or server-side (cloud-based, e.g., LLMs) for scalability, with hybrid approaches combining both.
+- **AI Deployment Models**: AI inference can be executed client-side (browser-based, e.g., Transformers.js, TensorFlow.js) for low latency/privacy, server-side (cloud-based, e.g., Gemini 1.5 Pro) for scalability, or hybrid (combining both) for optimized performance.
 
-- **Key Challenges**: AI faces issues like data recency/bias (requiring prompt engineering or RLHF tuning), security/privacy risks (mitigated via client-side AI), and ethical concerns (e.g., copyright, stereotype amplification).
+- **Key Challenges**: AI adoption faces hurdles in data quality/recency, ethical bias (e.g., amplification of human stereotypes), and security/privacy risks, necessitating mitigation strategies like client-side processing and bias-aware tuning (e.g., RLHF, LoRA).
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T03:59:17.913830+05:30
+- Published: 2026-07-04T03:55:28.563856+05:30
 
 ## Related Tags
 

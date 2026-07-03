@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Implements RAG with Vector Database**: Utilizes embedding models and vector databases for retrieval-augmented generation (RAG) to enhance AI question-answering systems with knowledge retrieval.
-- **Supports SSE Streaming & Agent Workflows**: Implements Server-Sent Events (SSE) for real-time streaming responses and integrates AI agents for dynamic, multi-step task execution.
-- **Multi-Modal & Function-Call Capabilities**: Includes image generation/understanding, function calling for tool inte
+- **Implementation of RAG with Knowledge Graph**: Demonstrates integration of Retrieval-Augmented Generation (RAG) using knowledge graphs for enhanced contextual retrieval and response generation in a Java-based Spring AI system.
+
+- **Multi-Modal AI Capabilities**: Supports both image generation (via Function Call) and image understanding (via embedding-based retrieval) alongside traditional text-based AI workflows.
+
+- **Advanced AI Agent Features**: Implements SSE (Server-Sent Events) streaming
 
 ## Use Cases
 

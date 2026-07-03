@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Electron Forge** provides a unified build pipeline for Electron apps, including packaging, code signing, installer generation, and artifact publishing, with extensibility via [Plugin API](https://electronforge.io/config/plugins), [Makers](https://electronforge.io/config/makers), and [Publishers](https://electronforge.io/config/publishers).
-
-- **Packaging dependencies** requires `node_modules` on disk; Yarn ≥2 must use `nodeLinker: node-modules`, and pnpm requires `node-linker=hoisted` in `.n
+- **Electron Forge** integrates a modular build pipeline for Electron apps, supporting code signing, installers, and artifact publishing via its **Plugin API**, **Makers**, and **Publishers** for extensibility.
+- **Packaging limitations** require `node_modules` to be physically present; Yarn ≥2 must use `node-linker: node-modules`, and pnpm requires `node-linker=hoisted` in `.npmrc`.
+- **Initialization** is done via `create-electron-app`, with templates (`webpack`, `vite`, etc.) providing pre-co
 
 ## Use Cases
 

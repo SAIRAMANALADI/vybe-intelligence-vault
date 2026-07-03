@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Image Processing Defaults**: Default settings include `anchor: smart`, `bgColor: #ffffff`, `resampleFilter: box`, and format-specific defaults for AVIF (`quality: 60`, `encoderSpeed: 10`), JPEG (`quality: 75`), and WebP (`quality: 75`, `method: 2`).
+- **Default Imaging Settings**: Default anchor is `smart` (using `muesli/smartcrop` for focal point detection), background color `#ffffff`, and `box` resampling filter; deprecated top-level `compression`, `hint`, and `quality` settings are replaced by format-specific configurations.
 
-- **Exif Metadata Control**: Configurable via `meta.fields` (glob-based filtering) and `meta.sources` (`exif`, `iptc`, or `xmp`), with default exclusion of technical fields (e.g., `GPS`, `Exif`, `Sharp`) to optimize performance.
-
-- **Format-Spec
+- **AVIF/WebP/JPEG Configuration**: AVIF (`lossy` compression, `encoderSpeed: 10`, `quality: 60`, `hint: photo`), WebP (`lossy` compression, `method: 2`, `quality: 75`, `useSharpYuv: false`), and JPEG (`quality: 75`
 
 ## Use Cases
 

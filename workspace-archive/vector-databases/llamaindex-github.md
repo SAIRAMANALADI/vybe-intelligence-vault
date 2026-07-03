@@ -2,16 +2,17 @@
 title: LlamaIndex · GitHub
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/run-llama
+source_url: https://github.com/run-llama/
 resource_id: blog:llamaindex-github
 local_vault_path: ai/rag/llamaindex-github.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
+- hackernews
 - meta-ai
 - models
 - rag
@@ -19,7 +20,7 @@ tags:
 - workflows
 - youtube
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # LlamaIndex · GitHub
@@ -28,17 +29,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **LlamaParse** provides SOTA agentic OCR for document processing, with cloud-based tools (`Parse`, `Extract`) and platform documentation for integration into workflows and agents.
-
-- **Open-source components** include `LiteParse` for lightweight parsing, `LlamaAgents` for agent orchestration, and the core `LlamaIndex` Python library for document indexing and retrieval.
-
-- **Community & documentation** are accessible via GitHub, with additional support channels on Twitter, LinkedIn, and YouTube
+- **LlamaParse** offers SOTA Agentic OCR for document processing, with cloud-based tools (`Parse`, `Extract`) and platform documentation for integration.
+- **Open-source components** include `LiteParse`, `LlamaAgents`, and `LlamaIndex (Python)` with respective GitHub repositories and technical documentation.
+- **Community engagement** via X (Twitter), LinkedIn, and YouTube for updates, networking, and educational content.
 
 ## Use Cases
 
@@ -48,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/run-llama
+Original source URL: https://github.com/run-llama/
 
 ## Local Vault File
 
