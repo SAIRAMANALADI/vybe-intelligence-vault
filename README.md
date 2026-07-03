@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-03 15:24 IST</p>
+        <p><b>Last Update:</b> 2026-07-03 17:50 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,29 +55,21 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Reality has a surprising amount of detail (2017)](ai/community/reality-has-a-surprising-amount-of-detail.md)** • <kbd>+238 pts</kbd> • Rank: <kbd>+6</kbd>
-- 🔼 **[The short leash AI coding method for beating Fable](ai/community/the-short-leash-ai-coding-method-for-beating-fable.md)** • <kbd>+97 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[Claude-real-video － any LLM can watch a video](ai/community/huangchihhungleo-claude-real-video.md)** • <kbd>+91 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[Speechify · GitHub](ai/agents/speechify-github.md)** • Rank: <kbd>+1096</kbd>
-- 🔼 **[Neo4j · GitHub](ai/rag/neo4j-github.md)** • Rank: <kbd>+369</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+12</kbd>
+- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+6</kbd>
+- 🔼 **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** • Rank: <kbd>+6</kbd>
+- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+4</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time](ai/community/a-special-wireless-free-nikon-camera-is-publicly-a.md)** • Score: `59`
-- 🆕 **[Data Scientist | GraphAcademy](ai/rag/data-scientist-courses-free-neo4j-courses-from-gra.md)** • Score: `0`
-- 🆕 **[Gemini Code Assist overview | Google for Developers](ai/rag/gemini-code-assist-overview-google-for-developers.md)** • Score: `0`
-- 🆕 **[Use the Gemini Code Assist agent mode | Google for Developers](ai/agents/use-the-gemini-code-assist-agent-mode-google-for-d.md)** • Score: `0`
-- 🆕 **[google-gemini/gemini-cli](ai/agents/google-gemini-gemini-cli.md)** • Score: `0`
+- 🆕 **[Reality has a surprising amount of detail (2017)](ai/community/reality-has-a-surprising-amount-of-detail.md)** • Score: `261`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Spain Orders Blacklist of Palantir from Public and Private Companies](ai/community/spain-orders-blacklist-of-palantir-from-public-and.md)**
-- 💤 **[AI can't be listed as inventor on patent applications, Japan's top court rules](ai/community/ai-can-t-be-listed-as-inventor-on-patent-applicati.md)**
-- 💤 **[Vulkan is now available on NetBSD](ai/community/segaboy-vulkan-netbsd.md)**
-- 💤 **[Ask HN: Since when does Craigslist's front page have emojis?](ai/community/ask-hn-since-when-does-craigslist-s-front-page-hav.md)**
-- 💤 **[Jun 11, 2026AnnouncementsIntroducing Claude Corps](ai/companies/anthropic/jun-11-2026announcementsintroducing-claude-corps.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
