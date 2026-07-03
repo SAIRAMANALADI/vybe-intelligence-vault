@@ -1,27 +1,27 @@
 ---
 title: "hayashiii-ghub/hikizan"
 category: "Agent Framework"
-tech_stack: ["Shell", "Claude Code Plugin", "Agent Skills Framework", "Git Hooks", "Markdown", "Bash Scripting", "JSON", "Semantic Versioning"]
-quality_score: 9
-rag_relevance: 8
-tags: ["AI agent workflows", "deterministic safety", "skill-based automation", "Claude Code plugin", "code review automation"]
+tech_stack: ["Shell", "Claude Code Plugin", "Agent Skills Framework", "Git Hooks", "TypeScript (for plugin manifests)", "Markdown (for documentation)"]
+quality_score: 8
+rag_relevance: 7
+tags: ["AI agent workflows", "deterministic git hooks", "skill-based automation", "tiered execution", "PR standardization"]
 source: "https://github.com/hayashiii-ghub/hikizan"
-discovered_at: "2026-07-03T03:56:23Z"
+discovered_at: "2026-07-03T07:00:38Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-hikizan is a Claude Code plugin and Agent Skills-compatible skill pack designed to optimize AI agent workflows by balancing guided execution and flexibility. It provides verb-split skills for tasks like exploration, code review, design, execution, PR submission, and writing, while enforcing deterministic safety floors (hooks) to prevent destructive operations.
+hikizan is a Claude Code plugin and Agent Skills-compatible skill pack designed to standardize AI agent workflows by providing verb-split skills, deterministic git hooks (floors), and tiered execution modes (standard/guided) to balance autonomy and safety in AI-driven development tasks.
 
 ## Key Features
-- Verb-split skills (tansaku, sadoku, sekkei, jikkou, teishutsu, kaku) for modular task execution
-- Two-tier system (standard/guided) to balance guided execution with opt-out flexibility
-- Deterministic hooks (floors) to prevent destructive operations like force pushes or irreversible file deletions
-- Standardized PR submission workflow with 6-section exit contract for traceability
-- Cross-harness compatibility (Claude Code plugin, Cursor/Codex skill pack)
+- Verb-split skills (6 core skills: tansaku, sadoku, sekkei, jikkou, teishutsu, kaku) for modular AI agent tasks
+- Deterministic git hooks (floors) to enforce safety (force push denial, destructive operation confirmation, draft PR blocking)
+- Tiered execution modes (standard/guided) to balance autonomy and structured workflows
+- Standardized PR exit contract (6-section PR description template for traceability)
+- Multi-harness support (Claude Code, Codex, Cursor) with dedicated plugin/skill pack distributions
 
 ## Why It Matters for RAG Builders
-It provides a structured yet flexible framework for AI agents to execute tasks reliably while enforcing safety constraints, reducing cognitive load and improving consistency in automated workflows.
+hikizan provides a structured, safety-first framework for AI agents to execute development tasks autonomously while ensuring deterministic outcomes and traceability, critical for reliable RAG and AI stack integrations.
 
 ## Tech Stack Deep Dive
 ### Shell
@@ -36,17 +36,11 @@ Automated review identified **Agent Skills Framework** as a key module contribut
 ### Git Hooks
 Automated review identified **Git Hooks** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Markdown
-Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript (for plugin manifests)
+Automated review identified **TypeScript (for plugin manifests)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Bash Scripting
-Automated review identified **Bash Scripting** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### JSON
-Automated review identified **JSON** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Semantic Versioning
-Automated review identified **Semantic Versioning** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Markdown (for documentation)
+Automated review identified **Markdown (for documentation)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

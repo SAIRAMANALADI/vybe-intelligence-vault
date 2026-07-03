@@ -1,46 +1,52 @@
 ---
-title: "Arcis-Protocol/mcp"
+title: "hypawave/mcp"
 category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "Node.js", "HTTP Server", "Vercel Serverless", "DeFi Smart Contracts"]
-quality_score: 7
-rag_relevance: 8
-tags: ["DeFi", "MCP Server", "AI Agent Integration", "Vault Operations", "Smart Contracts"]
-source: "https://github.com/Arcis-Protocol/mcp"
-discovered_at: "2026-07-03T04:02:36Z"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Nostr Wallet Connect (NWC)", "Bitcoin Lightning Network", "AES-256-GCM (encryption)", "REST API", "NPM"]
+quality_score: 8
+rag_relevance: 7
+tags: ["Bitcoin Lightning", "MCP server", "non-custodial marketplace", "agent-to-agent transactions", "autonomous agents"]
+source: "https://github.com/hypawave/mcp"
+discovered_at: "2026-07-03T07:05:31Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-The @arcisprotocol/mcp repository provides an MCP (Model Context Protocol) server to connect AI agents to DeFi vaults, enabling seamless interactions with Arcis Protocol's smart contracts. It supports three deployment modes: local, self-hosted HTTP, and Vercel Serverless, offering read and write tools for vault operations.
+@hypawave/mcp is an MCP server enabling autonomous agents to buy, sell, and discover digital goods and services over Bitcoin Lightning Network paths via Hypawave's non-custodial marketplace. It facilitates direct wallet-to-wallet transactions without intermediaries, ensuring funds remain in user control.
 
 ## Key Features
-- Three deployment modes (local, self-hosted HTTP, Vercel Serverless) for flexibility
-- Nine tools for reading and writing vault operations (e.g., deposit, withdraw, balance checks)
-- Rate-limited write operations (60s cooldown) for security
-- Integration with Base Mainnet and Arcis Protocol smart contracts
-- Compatible with existing Arcis Protocol tools like CUSTOS for autonomous operations
+- Enables agents to discover, buy, and sell digital goods/services via Bitcoin Lightning Network
+- Supports 15+ tools for marketplace operations (search, buy, sell, manage offers, payments)
+- Non-custodial design: funds flow directly between wallets without intermediaries
+- Integrates with NWC-capable wallets for automated payments and preimage verification
+- Content integrity verified via local AES-256-GCM encryption and SHA-256 commitments
 
 ## Why It Matters for RAG Builders
-It enables AI agents to directly interact with DeFi vaults, bridging the gap between AI workflows and decentralized finance operations.
+It provides a decentralized, non-custodial framework for agents to transact digital assets over Bitcoin Lightning, reducing reliance on traditional payment processors and enhancing trustless commerce.
 
 ## Tech Stack Deep Dive
 ### TypeScript
 Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### Node.js
 Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### HTTP Server
-Automated review identified **HTTP Server** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Vercel Serverless
-Automated review identified **Vercel Serverless** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Nostr Wallet Connect (NWC)
+Automated review identified **Nostr Wallet Connect (NWC)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### DeFi Smart Contracts
-Automated review identified **DeFi Smart Contracts** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Bitcoin Lightning Network
+Automated review identified **Bitcoin Lightning Network** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### AES-256-GCM (encryption)
+Automated review identified **AES-256-GCM (encryption)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### REST API
+Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### NPM
+Automated review identified **NPM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

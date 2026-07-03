@@ -1,37 +1,37 @@
 ---
 title: "esterhuizen/opensidekick"
 category: "Agent Framework"
-tech_stack: ["JavaScript", "Chrome Extension (MV3)", "Service Worker", "Content Scripts", "OpenAI-compatible API", "Anthropic Messages API", "Ollama", "LM Studio", "Node.js (for tooling)"]
+tech_stack: ["JavaScript", "Chrome Extension (Manifest V3)", "Service Workers", "Content Scripts", "OpenAI-compatible API", "Anthropic Messages API", "Model Context Protocol (MCP)", "Ollama", "LM Studio", "Node.js (for development scripts)"]
 quality_score: 9
-rag_relevance: 7
-tags: ["Browser Automation", "Agentic AI", "Privacy-First", "Provider-Agnostic", "Chrome Extension"]
+rag_relevance: 8
+tags: ["AI Agent", "Browser Automation", "Provider-Agnostic", "Local LLM Support", "Chrome Extension"]
 source: "https://github.com/esterhuizen/opensidekick"
-discovered_at: "2026-07-03T03:56:16Z"
+discovered_at: "2026-07-03T07:00:53Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-OpenSidekick is an open-source, provider-agnostic AI agent for Chrome that operates in the browser's side panel, enabling agentic control of web pages. Users can bring their own LLM provider or use local models, ensuring privacy and flexibility without vendor lock-in.
+OpenSidekick is an open-source, provider-agnostic AI agent delivered as a Chrome extension that operates in the browser's side panel. It reads the current webpage, performs agentic actions like clicking, typing, and navigating, and can work across multiple tabs while allowing users to bring their own LLM provider or local model.
 
 ## Key Features
-- Agentic browser control with DOM-based actions (click, type, navigate, etc.)
-- Support for any LLM provider (OpenAI, Anthropic, local models via Ollama/LM Studio)
-- Multi-tab and scheduled task capabilities with streaming responses
-- Safety layers including plan-first approval, prompt-injection awareness, and sensitive-site protections
-- Workflow recording and replay for task automation
+- Agentic browser control with DOM-based actions (clicks, typing, navigation, etc.)
+- Provider-agnostic LLM integration (OpenRouter, OpenAI, Anthropic, local models via Ollama/LM Studio)
+- Multi-tab support and workflow recording/replay for task automation
+- Safety layers including plan-first approval, sensitive-site protections, and prompt-injection awareness
+- MCP tool server integration for extending agent capabilities beyond the browser
 
 ## Why It Matters for RAG Builders
-OpenSidekick provides a critical open-source alternative for agentic browser automation, enabling developers to integrate AI-driven web interactions without vendor lock-in while maintaining full privacy and control over their models.
+OpenSidekick enables AI engineers to build agentic browser automation tools with full control over LLM providers and local model integration, reducing vendor lock-in and enhancing privacy for RAG and AI stack implementations.
 
 ## Tech Stack Deep Dive
 ### JavaScript
 Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Chrome Extension (MV3)
-Automated review identified **Chrome Extension (MV3)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Chrome Extension (Manifest V3)
+Automated review identified **Chrome Extension (Manifest V3)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Service Worker
-Automated review identified **Service Worker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Service Workers
+Automated review identified **Service Workers** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Content Scripts
 Automated review identified **Content Scripts** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -42,14 +42,17 @@ Automated review identified **OpenAI-compatible API** as a key module contributi
 ### Anthropic Messages API
 Automated review identified **Anthropic Messages API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### Ollama
 Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### LM Studio
 Automated review identified **LM Studio** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js (for tooling)
-Automated review identified **Node.js (for tooling)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js (for development scripts)
+Automated review identified **Node.js (for development scripts)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
