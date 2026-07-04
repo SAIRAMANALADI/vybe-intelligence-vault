@@ -4,24 +4,24 @@ category: "Vector DB"
 tech_stack: ["Python", "FastAPI", "PostgreSQL", "GeoJSON", "Docker", "Swagger UI", "React", "TypeScript", "Matomo", "Zenodo"]
 quality_score: 9
 rag_relevance: 10
-tags: ["historical geography", "geospatial data", "AI agent tools", "structured database", "academic citations"]
+tags: ["historical geography", "geospatial data", "AI agent tools", "structured historical records", "academic citations"]
 source: "https://github.com/Soil911/AtlasPI"
-discovered_at: "2026-07-04T21:58:09Z"
+discovered_at: "2026-07-04T22:56:32Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-AtlasPI is a structured historical geographic database designed for AI agents, providing queryable historical entities, boundaries, and events from 4500 BCE to 2024 with GeoJSON support, confidence scores, and academic citations.
+AtlasPI is a structured historical geographic database designed for AI agents, providing queryable historical entities, boundaries, and events from 4500 BCE to 2024 with GeoJSON, confidence scores, and academic citations. It bridges fragmented historical data into a single, machine-consumable REST API.
 
 ## Key Features
-- Comprehensive historical entity database (1,006 entities) spanning 6,500 years with GeoJSON boundaries
+- Comprehensive historical entity database (1,006 entities) with GeoJSON boundaries and coordinates
 - REST API with 67+ endpoints for querying entities, events, and territories by year, region, or type
-- Confidence scoring, academic citations, and ethical transparency for disputed or uncertain data
-- MCP server integration for AI agent tooling and real-time queries
-- Ethical framework enforcing truth, transparency, and bias mitigation in historical data
+- Confidence scoring and academic citations for transparency and reliability
+- Ethical framework for handling contested or biased historical data
+- MCP server integration for AI agent tooling
 
 ## Why It Matters for RAG Builders
-AtlasPI provides a critical structured data layer for RAG systems needing accurate historical geographic context, enabling AI agents to query complex historical boundaries, events, and territories with citations and confidence metrics.
+AtlasPI provides a critical structured historical geographic dataset for RAG systems, enabling AI agents to query and reason over complex historical events with verifiable sources and confidence metrics.
 
 ## Tech Stack Deep Dive
 ### Python
