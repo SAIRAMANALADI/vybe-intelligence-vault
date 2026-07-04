@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-04 16:50 IST</p>
+        <p><b>Last Update:</b> 2026-07-04 18:50 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,29 +55,19 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[MSI Center – How to gain SYSTEM privileges in seconds](ai/community/msi-center-how-to-gain-system-privileges-in-second.md)** • <kbd>+55 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Jamesob's guide to running SOTA LLMs locally](ai/community/jamesob-local-llm.md)** • <kbd>+53 pts</kbd>
-- 🔼 **[discourse/discourse](ai/resources/discourse-discourse.md)** • Rank: <kbd>+4074</kbd>
-- 🔼 **[Discourse | Where Tech Companies Build Communities](ai/resources/discourse-where-tech-companies-build-communities.md)** • Rank: <kbd>+479</kbd>
-- 🔼 **[Speechify: Text to Speech & Voice Typing AI Assistant | 60M+ Users](ai/resources/speechify-text-to-speech-voice-typing-ai-assistant.md)** • Rank: <kbd>+1845</kbd>
+- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+13</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+13</kbd>
+- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+12</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[The bottleneck might be the air in the room](ai/community/the-bottleneck-might-be-the-air-in-the-room.md)** • Score: `293`
-- 🆕 **[Postgres data stored in Parquet on S3: LTAP architecture explained](ai/community/postgres-data-stored-in-parquet-on-s3-ltap-archite.md)** • Score: `34`
-- 🆕 **[Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining](ai/community/adam-s-car-diagnosis.md)** • Score: `16`
-- 🆕 **[Spaces - Hugging Face Forums](ai/resources/spaces-hugging-face-forums.md)** • Score: `0`
-- 🆕 **[Report Content for Legal Reasons - Legal Help](ai/resources/report-content-for-legal-reasons-legal-help.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Espionage Against the European Parliament](ai/community/espionage-against-the-european-parliament.md)**
-- 💤 **[The circuit that lets your brain think and see](ai/community/the-circuit-that-lets-your-brain-think-and-see.md)**
-- 💤 **[anthropics/claude-code](ai/agents/anthropics-claude-code.md)**
-- 💤 **[apache/maven](ai/trending/apache-maven.md)**
-- 💤 **[ansible/ansible](ai/agents/ansible-ansible.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
