@@ -1,11 +1,11 @@
 ---
-title: 'Speechify: Text to Speech & Voice Typing AI Assistant | 55M+ Users'
+title: 'Speechify: Text to Speech & Voice Typing AI Assistant | 60M+ Users'
 category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.com/
-published_at: '2026-07-01T23:06:51.444946+05:30'
-collected_at: '2026-07-01T23:06:51.444959+05:30'
+published_at: '2026-07-04T16:46:21.045716+05:30'
+collected_at: '2026-07-04T16:46:21.045733+05:30'
 tags:
 - anthropic
 - hackernews
@@ -17,21 +17,21 @@ tags:
 - youtube
 status: active
 resource_id: blog:speechify-text-to-speech-voice-typing-ai-assistant
-first_seen: '2026-07-01T23:06:51.444959+05:30'
-last_seen: '2026-07-01T23:06:51.444959+05:30'
-last_checked: '2026-07-01T23:06:51.444959+05:30'
+first_seen: '2026-07-04T16:46:21.045733+05:30'
+last_seen: '2026-07-04T16:46:21.045733+05:30'
+last_checked: '2026-07-04T16:46:21.045733+05:30'
 health_score: 100
 ---
 
-# Speechify: Text to Speech & Voice Typing AI Assistant | 55M+ Users
+# Speechify: Text to Speech & Voice Typing AI Assistant | 60M+ Users
 
 ## Summary
 
-- **Multi-Platform TTS Engine**: Speechify provides a cross-platform text-to-speech (TTS) system with lifelike AI voices (1,000+ options), real-time text highlighting, and adjustable playback speeds (up to 4.5x) across web, Chrome/Edge extensions, iOS, Android, Windows, and macOS.
+- **Cross-Platform TTS & Voice AI Integration**: Speechify provides a unified voice AI assistant across web, Chrome/Edge extensions, iOS, Android, Windows, and macOS, enabling text-to-speech (TTS), voice dictation, and contextual Q&A with lifelike AI voices (1,000+ options) and real-time text highlighting.
 
-- **Voice AI Assistant Capabilities**: Integrates dictation (160 WPM vs. 40 WPM typing), contextual Q&A, document summarization, AI podcast generation from text, and meeting note-taking with automated key point extraction.
+- **Core Functionalities**: Supports PDF/Document TTS with speed control (up to 4.5x), OCR-based "scan & listen," AI-powered summarization/quizzing, podcast generation from text, and hands-free voice typing (160 WPM vs. 40 WPM typing) with cross-app compatibility (Slack, Outlook, etc.).
 
-- **Enterprise & Consumer Features**: Supports voice-first document creation, cross-application dictation (Slack, Outlook, etc.), and specialized workflows for professionals, students, and creators, with 5M+ users and 2025 Apple Design Award recognition.
+- **Enterprise & Accessibility Features**: Includes AI meeting note-taking with context-aware summaries, voice-first document workspace, and specialized workflows for professionals (document processing), students (learning aids), creators (podcast tools), and entertainment (celebrity voice synthesis).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-01T23:06:51.444946+05:30
+- Published: 2026-07-04T16:46:21.045716+05:30
 
 ## Related Tags
 

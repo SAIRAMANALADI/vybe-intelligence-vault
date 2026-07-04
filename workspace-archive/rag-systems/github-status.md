@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests, Issues, Pull Requests, Actions, Packages, Pages, Copilot) with historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days).
+- **GitHub Status Page**: Provides real-time operational status, incident reports, and historical uptime data for GitHub services (e.g., Git Operations, Webhooks, API Requests) across regions (US, EU, Australia, Japan) with 99.9%+ uptime metrics.
 
-- **Incident Management**: Tracks and resolves incidents (e.g., Pages deployment latency, Copilot budget limit resets, GitHub Signup Flow disruptions) with root cause analyses, mitigation steps, and resolution timestamps (e.
+- **Notification Systems**: Supports multi-channel incident notifications via email, SMS (global phone codes), Slack, and webhooks for real-time updates on incident creation, resolution, or status changes.
+
+- **Incident Tracking**: Documents past incid
 
 ## Use Cases
 

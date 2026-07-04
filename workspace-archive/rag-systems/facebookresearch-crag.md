@@ -8,7 +8,7 @@ local_vault_path: ai/rag/facebookresearch-crag.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - benchmark
@@ -18,7 +18,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # facebookresearch/CRAG
@@ -27,18 +27,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Benchmark Framework**: CRAG (Comprehensive RAG Benchmark) provides a structured evaluation framework for Retrieval-Augmented Generation (RAG) systems, enabling systematic assessment of performance across diverse tasks and datasets.
-
-- **Modular Design**: Implements a modular architecture with configurable components (e.g., retrievers, generators, evaluators) to facilitate reproducible experiments and fair comparisons between RAG methodologies.
-
-- **Evaluation Metrics**: Incorporates multi-di
+- **Benchmark Design**: CRAG is a **Comprehensive RAG (Retrieval-Augmented Generation) benchmark** designed to evaluate RAG systems across **multiple dimensions**, including factuality, robustness, and efficiency.
+- **Evaluation Scope**: Includes **diverse datasets** (e.g., long-form QA, multi-hop reasoning) and **metrics** (e.g., answer correctness, citation accuracy, hallucination rate).
+- **Implementation**: Provided as **Jupyter Notebooks** with modular components for **custom dataset integr
 
 ## Use Cases
 

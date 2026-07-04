@@ -6,13 +6,13 @@ source_url: https://github.com/ray-project/llm-applications
 resource_id: github:ray-project/llm-applications
 local_vault_path: ai/rag/ray-project-llm-applications.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -29,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized fine-tuning techniques.
-- **Scalable Serving Architecture**: Leverages Ray’s distributed computing framework to deploy and scale LLM applications, ensuring low-latency inference and efficient resource utilization.
-- **End-to-End Tooling**: Provides Jupyter Notebook-based guides for Anyscale integrati
+- **RAG Pipeline Implementation**: Provides production-grade guidance for building Retrieval-Augmented Generation (RAG) applications using frameworks like Llama2, OpenAI, and Anyscale, with integration of Ray for distributed serving and fine-tuning.
+
+- **Modular Architecture**: Demonstrates a scalable architecture leveraging Ray’s distributed computing for LLM serving, retrieval systems, and fine-tuning workflows, optimized for performance and cost-efficiency.
+
+- **Jupyter Notebook-Based Tutoria
 
 ## Use Cases
 

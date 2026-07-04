@@ -8,7 +8,7 @@ local_vault_path: ai/rag/google-terms-of-service-privacy-terms-google.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - hackernews
@@ -20,7 +20,7 @@ tags:
 - web-crawled
 - youtube
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Google Terms of Service – Privacy & Terms – Google
@@ -29,15 +29,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Service Provider & Legal Framework**: Google LLC (Delaware-registered) operates under U.S. laws, providing services under a contractual agreement where users agree to Terms of Service (effective May 22, 2024) and must comply with age requirements (parental consent for minors).
+- **Service Provider & Jurisdiction**: Google LLC (Delaware-registered, US-based) provides services under US laws, with contractual obligations defined in the Terms of Service (effective May 22, 2024).
 
-- **Service Usage & Compliance**: Users must adhere to Google’s Terms, Privacy Policy, and service-specific policies (e.g., Generative AI Prohibited Use Policy), while respecting intellectual property, privacy rights,
+- **Content & AI Usage Restrictions**: Users must comply with prohibitions on reverse engineering, automated scraping, or using Google-generated content to train AI models; violations include prompt injection, jailbreaking, or adversarial attacks.
+
+- **User Responsibilities & Enforcement**: Users
 
 ## Use Cases
 

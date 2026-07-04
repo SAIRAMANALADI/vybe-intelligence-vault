@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-04T09:33:31.733798+05:30'
+collected_at: '2026-07-04T16:33:00.221181+05:30'
 published_at: '2026-06-30T08:00:12Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -23,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-04T09:33:31.733798+05:30'
-last_seen: '2026-07-04T09:33:31.733798+05:30'
-last_checked: '2026-07-04T09:33:31.733798+05:30'
+first_seen: '2026-07-04T16:33:00.221181+05:30'
+last_seen: '2026-07-04T16:33:00.221181+05:30'
+last_checked: '2026-07-04T16:33:00.221181+05:30'
 health_score: 100
 ---
 
@@ -33,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based tutorials for Retrieval-Augmented Generation (RAG) and multimodal AI systems, leveraging vector search and LLMs (e.g., GPT-4 Vision) with frameworks like LangChain and LlamaIndex.
+- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based examples for integrating vector search with LLMs (e.g., GPT-4-Vision, LlamaIndex, LangChain) to build Retrieval-Augmented Generation (RAG) systems and multimodal AI pipelines.
 
-- **Vector Database Integration**: Demonstrates practical use cases of LanceDB (a vector database) for efficient similarity search, embeddings, and fine-tuning workflows in deep-learning pipelines.
+- **Vector Database-Centric Workflows**: Demonstrates fine-tuning and embedding generation techniques using LanceDB as the underlying vector database, with focus on optimizing multimodal embeddings and agent-based AI architectures.
 
-- **Agentic Workflows**: Includes examples of autonomous agent systems (e.g., OpenAI Agents) utilizing vector search for dynamic decision-making, combining LLMs with structured data retrieval.
+- **Tooling & Integration Examples**: Includes practical tutorials for OpenAI APIs, deep-learning embeddings, and agent frameworks, showcasing end-to-end implementations for multimodal and RAG-based AI systems.
 
 ## Why It Matters
 

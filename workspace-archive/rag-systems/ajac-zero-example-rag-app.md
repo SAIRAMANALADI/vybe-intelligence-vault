@@ -6,15 +6,19 @@ source_url: https://github.com/ajac-zero/example-rag-app
 resource_id: github:ajac-zero/example-rag-app
 local_vault_path: ai/rag/ajac-zero-example-rag-app.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: workflow
-importance: high
+importance: medium
 tags:
+- anthropic
+- frontend_ui
 - github-repo
+- mistral
+- models
+- openai
 - rag
 - typescript
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -25,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Observability & LLM Integration**: Implements Langfuse for LLM observability with support for 100+ providers via LiteLLM, enabling comprehensive monitoring and multi-model compatibility.
-- **Full-Stack Type Safety**: Dockerized TypeScript application with full type-checking (e.g., TypeScript strict mode) and 100% test coverage for robust, maintainable RAG workflows.
-- **Production-Ready Features**: Includes pre-configured RAG pipeline, modular architecture, and CI/CD-ready setup for scalable
+- **Observability & Multi-Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for seamless switching across 100+ LLM providers (e.g., OpenAI, Anthropic, Mistral) via a unified API.
+
+- **Reliability & Scalability**: Fully Dockerized with TypeScript strict typing, 100% test coverage, and modular architecture for production-grade RAG deployments.
+
+- **Modern Tooling**: Leverages Next.js/React for the frontend, with optimized vector search (e.g., Pinecone, Chroma) and CI/CD-rea
 
 ## Use Cases
 

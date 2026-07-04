@@ -18,6 +18,8 @@ tags:
 - openai
 - python
 - rag
+- scripts
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Open-source agentic AI framework enabling autonomous data interaction and analysis via LLMs (e.g., GPT-4, DeepSeek, Vicuna) for next-gen AI+Data products.
-- **Core Features**: Supports RAG (Retrieval-Augmented Generation), private/local LLM deployment, and database integration with security-focused architecture.
-- **Technical Stack**: Python-based, optimized for agents, BGI (Business-Grade Intelligence), and hacktoberfest contributions, with last update on 2026-07-03.
+- **Purpose**: Open-source agentic AI framework enabling autonomous interaction with databases via LLMs (e.g., GPT-4, DeepSeek, Vicuna) for next-gen AI+Data applications.
+- **Key Features**: Supports RAG, private/local LLM deployment, and integrates with BGI for enhanced data processing; optimized for security and hacktoberfest contributions.
+- **Technical Stack**: Python-based, leverages agentic workflows to bridge LLMs with structured/unstructured data, enabling self-service analytics and auto
 
 ## Use Cases
 

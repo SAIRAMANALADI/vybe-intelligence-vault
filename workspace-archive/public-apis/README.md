@@ -15,7 +15,7 @@ Public developer APIs supply external context and utilities for LLM tools.
 - [Cerbos · GitHub](https://github.com/cerbos) (benchmark - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) (workflow - USEFUL Tier)
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) (benchmark - USEFUL Tier)
+- [Improve Transparency with Statuspage | Atlassian](https://www.atlassian.com/software/statuspage?utm_campaign=status.npmjs.org&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,8 +23,6 @@ https://github.com/public-apis/public-apis (Public APIs)
 - [Cerbos · GitHub](https://github.com/cerbos)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat)
-- [chroma-core/chroma](https://github.com/chroma-core/chroma)
-- [airweave-ai/airweave](https://github.com/airweave-ai/airweave)
 
 ## Best Learning Resources
 
@@ -42,4 +40,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-07-04 09:49 IST*
+*Last updated: 2026-07-04 16:49 IST*

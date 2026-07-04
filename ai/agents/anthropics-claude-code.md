@@ -12,13 +12,14 @@ tags:
 - github-trending
 - python
 - workflows
-status: active
+status: inactive
 resource_id: github:anthropics/claude-code
 first_seen: '2026-07-03T20:03:18.992368+05:30'
 last_seen: '2026-07-04T09:32:39.771217+05:30'
 last_checked: '2026-07-04T09:32:39.771217+05:30'
 health_score: 100
 ---
+
 
 # anthropics/claude-code
 

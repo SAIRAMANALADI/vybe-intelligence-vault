@@ -16,7 +16,6 @@ tags:
 - hackernews
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Static security scanner for AI agent skills, designed to detect vulnerabilities, malicious patterns, and security risks in Python-based AI workflows.
-- **Core Functionality**: Analyzes AI agent skills for exploitable flaws, unsafe code execution, and adversarial attack vectors using static code analysis techniques.
-- **Technical Stack**: Implemented in Python, leveraging AST parsing, pattern matching, and rule-based detection for security auditing of AI agent components.
+- **Static Analysis Tool**: SkillSpector performs static code analysis on AI agent skills to identify security vulnerabilities, malicious patterns, and high-risk configurations without execution.
+- **Python-Based**: Implements static analysis using Python, leveraging AST (Abstract Syntax Tree) parsing and pattern-matching techniques to detect security flaws in agent skill definitions.
+- **Pre-Deployment Security**: Designed for integration into CI/CD pipelines to scan AI agent skills before depl
 
 ## Use Cases
 

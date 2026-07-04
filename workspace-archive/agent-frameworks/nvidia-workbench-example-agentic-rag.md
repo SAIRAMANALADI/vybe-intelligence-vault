@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 - workflows
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic RAG Implementation**: Demonstrates a multi-agent system for Retrieval Augmented Generation (RAG) using NVIDIA AI Workbench, integrating retrieval, reasoning, and generation workflows.
-- **Jupyter Notebook-Based**: Entire project structured as executable Jupyter Notebooks, enabling interactive development and experimentation with agentic RAG pipelines.
-- **NVIDIA Toolchain Integration**: Leverages NVIDIA's ecosystem (e.g., GPU-accelerated libraries) for optimized agentic workflows, wi
+- **Purpose**: Demonstrates an Agentic Retrieval Augmented Generation (RAG) system using NVIDIA AI Workbench, integrating multi-agent workflows with retrieval-augmented generation for dynamic knowledge synthesis.
+
+- **Technical Stack**: Implemented in Jupyter Notebook, leveraging NVIDIA’s ecosystem for GPU-accelerated LLM inference and vectorized retrieval pipelines.
+
+- **Key Features**: Showcases modular agent interactions, adaptive retrieval strategies, and end-to-end pipeline orchestration fo
 
 ## Use Cases
 

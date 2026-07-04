@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-07-04T09:34:11.688432+05:30'
+collected_at: '2026-07-04T16:33:40.262460+05:30'
 published_at: '2026-07-03T13:07:34Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-07-04T09:34:11.688432+05:30'
-last_seen: '2026-07-04T09:34:11.688432+05:30'
-last_checked: '2026-07-04T09:34:11.688432+05:30'
+first_seen: '2026-07-04T16:33:40.262460+05:30'
+last_seen: '2026-07-04T16:33:40.262460+05:30'
+last_checked: '2026-07-04T16:33:40.262460+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Framework**: Provides structured best practices for enhancing large language models (LLMs) with retrieval-augmented generation (RAG), focusing on indexing, retrieval, and generation optimization.
-- **Python-Based Implementation**: Repository contains Python-based tools and scripts for evaluating and refining RAG pipelines, including chunking strategies, embedding models, and retrieval mechanisms.
-- **Evaluation & Benchmarking**: Includes methodologies for assessing RAG performance, such as retrieval accuracy, generation quality, and latency benchmarks, with updates planned for future LLM advancements.
+- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular components for indexing, retrieval, and generation, leveraging vector databases (e.g., FAISS, Chroma) and embedding models (e.g., Sentence-BERT, BAAI/bge).
+- **Hybrid Retrieval Strategies**: Supports multi-stage retrieval (dense + sparse) with reranking (e.g., cross-encoder models) to balance precision/recall and mitigate hallucinations in LLM outputs.
+- **Evaluation & Benchmarking**: Includes automated evaluation pipelines for RAG systems, measuring metrics like context relevance, answer faithfulness, and latency, with adaptable configs for custom datasets.
 
 ## Why It Matters
 

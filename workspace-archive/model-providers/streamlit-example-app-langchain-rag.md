@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- Implements a **Streamlit-based RAG pipeline** using **LangChain** for document retrieval and generation, integrating a **vector store** for semantic search and a **hybrid search** mechanism (combining vector and keyword-based retrieval).
-
-- Demonstrates **end-to-end workflow** from document ingestion (via `UnstructuredFileLoader` or similar) to **retrieval-augmented generation (RAG)** using a **LLM** (e.g., OpenAI, HuggingFace) with **retriever** and **chain** abstractions.
-
-- Features **inter
+- Implements a **Streamlit-based RAG pipeline** using **LangChain** for document retrieval and generation, integrating a **vector store** (e.g., FAISS, Chroma) for semantic search.
+- Supports **hybrid search** (combining keyword and vector similarity) to enhance retrieval accuracy, with configurable parameters for chunking, embeddings (e.g., OpenAI, HuggingFace), and LLM backends.
+- Demonstrates **end-to-end workflow**: document ingestion → embedding → vector store → retrieval → LLM generation,
 
 ## Use Cases
 

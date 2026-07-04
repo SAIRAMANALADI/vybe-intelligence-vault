@@ -13,6 +13,8 @@ importance: medium
 tags:
 - benchmark
 - github-repo
+- meta-ai
+- models
 - python
 - rag
 - workflows
@@ -34,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates advanced RAG pipelines using local large language models (LLMs) for privacy and cost efficiency, leveraging frameworks like LangChain for modular workflows.
-
-- **Dynamic Database Updates**: Implements automated or semi-automated database refresh mechanisms to ensure retrieval-augmented generation (RAG) systems operate on up-to-date knowledge without manual intervention.
-
-- **Testing & Validation Framework**: Includes structured testing methodologies (e.g
+- **Local LLM Integration**: Demonstrates advanced RAG workflows using local language models (e.g., Ollama, LM Studio) for offline inference, reducing dependency on cloud APIs.
+- **Dynamic Database Updates**: Implements automated or manual pipeline updates for vector databases (e.g., Chroma, FAISS) to ensure real-time retrieval accuracy.
+- **Testing Framework**: Includes structured evaluation metrics (e.g., retrieval precision, response relevance) and unit tests for modular components (e.g., emb
 
 ## Use Cases
 

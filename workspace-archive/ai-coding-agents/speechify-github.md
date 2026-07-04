@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
 - dataset
 - reddit
 - web-crawled
@@ -32,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Meta-Voicebox**: First generative AI model for speech, enabling cross-task generalization with state-of-the-art performance (GitHub: [SpeechifyInc/Meta-voicebox](https://github.com/SpeechifyInc/Meta-voicebox)).
+- **Meta-Voicebox**: SpeechifyInc's implementation of Meta's generative AI model for speech, enabling cross-task generalization with state-of-the-art performance (594 stars, 32 forks).
 
-- **Speechify AI API SDKs**: Multi-language support (TypeScript, Python) for Text-to-Speech and Voice Agents APIs, including legacy and modern SDKs (e.g., [speechify-api-sdk-typescript](https://github.com/SpeechifyInc/speechify-api-sdk-typescript)).
+- **AI/ML Toolkit (olmocr)**: Forked from AllenAI, this Python toolkit linearizes PDFs for LLM datasets/training, licensed under Apache-2.0 (1.5K+ forks).
 
-- **Open-source toolkits**: Inclu
+- **Speculative Decoding Framework (SpecForge)**: Forked from SGL-project, enables effortless training and deployment of speculative decoding models for SGLan
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dagshub.com/
-published_at: '2026-07-04T03:52:25.571289+05:30'
-collected_at: '2026-07-04T03:52:25.571302+05:30'
+published_at: '2026-07-04T16:36:29.615860+05:30'
+collected_at: '2026-07-04T16:36:29.615874+05:30'
 tags:
 - dataset
 - rag
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:dagshub-everything-you-need-to-manage-multimodal-a
-first_seen: '2026-07-04T03:52:25.571302+05:30'
-last_seen: '2026-07-04T03:52:25.571302+05:30'
-last_checked: '2026-07-04T03:52:25.571302+05:30'
+first_seen: '2026-07-04T16:36:29.615874+05:30'
+last_seen: '2026-07-04T16:36:29.615874+05:30'
+last_checked: '2026-07-04T16:36:29.615874+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Data & Model Management**: Platform for curating multimodal datasets (vision, audio, LLM), tracking experiments (MLflow-compatible), and managing model versions with lineage, supporting petabyte-scale data and CI/CD/CT integration.
+- **Unified AI Data & Model Management**: Platform supports curation/annotation of multimodal datasets (vision, audio, LLM), experiment tracking (MLflow-compatible), and model versioning/deployment with lineage tracking across public/private repositories.
 
-- **Tiered Subscription Model**: Free tier (Individual) with public repos, 100 private experiments, and 20GB storage; Team tier ($99/user/month) adds private repos, multimodal auto-labeling, RBAC, and 1TB storage; Enterprise offers petabyte-scale, on-prem/VPC deployment, SSO/LDAP, and SLA-backed support.
+- **Scalable Infrastructure**: Offers tiered plans (Individual/Team/Enterprise) with storage limits (20GB–1TB), RBAC controls, petabyte-scale data management, and on-prem/cloud deployment options (VPC/air-gapped, SSO/LDAP/OIDC).
 
-- **Enterprise-Grade Features**: Full model deployment to clusters, air-gapped/on-prem installation, OpenShift compatibility, and organizational resource control with priority support and custom quotas.
+- **MLOps Integration**: Enables CI/CD/CT pipelines, interactive pipelines, auto-labeling, and seamless integration with cloud storage/ML frameworks while providing priority/enterprise support and organizational resource control.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T03:52:25.571289+05:30
+- Published: 2026-07-04T16:36:29.615860+05:30
 
 ## Related Tags
 

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AgentOps-AI/agentops
-collected_at: '2026-07-04T09:36:11.883584+05:30'
+collected_at: '2026-07-04T16:35:40.412388+05:30'
 published_at: '2026-07-03T19:02:14Z'
 tags:
 - agents
@@ -16,7 +16,6 @@ tags:
 - models
 - openai
 - python
-- workflows
 stars: 5678
 language: Python
 status: active
@@ -25,9 +24,9 @@ archived: false
 created_at: '2023-08-15T23:26:23Z'
 pushed_at: '2026-06-25T08:25:03Z'
 resource_id: github:agentops-ai/agentops
-first_seen: '2026-07-04T09:36:11.883584+05:30'
-last_seen: '2026-07-04T09:36:11.883584+05:30'
-last_checked: '2026-07-04T09:36:11.883584+05:30'
+first_seen: '2026-07-04T16:35:40.412388+05:30'
+last_seen: '2026-07-04T16:35:40.412388+05:30'
+last_checked: '2026-07-04T16:35:40.412388+05:30'
 health_score: 100
 ---
 
@@ -35,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Framework Integration**: Python SDK supporting monitoring, cost tracking, and benchmarking for AI agents across frameworks including CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI.
+- **Comprehensive Monitoring SDK**: Python-based tool for real-time monitoring, cost tracking, and benchmarking of AI agents and LLM interactions, supporting frameworks like CrewAI, LangChain, Autogen, and OpenAI Agents SDK.
 
-- **LLM & Provider Agnostic**: Compatible with major LMs (e.g., OpenAI, Anthropic, Mistral, Groq) and local models (Ollama), enabling seamless integration and evaluation across diverse agentic workflows.
+- **Multi-LLM & Framework Integration**: Compatible with major LLM providers (OpenAI, Anthropic, Mistral, Groq, Ollama) and agent frameworks (AG2, CamelAI), enabling unified observability across heterogeneous AI systems.
 
-- **Advanced Observability Features**: Provides real-time monitoring, LLM cost estimation, and evaluation metrics (e.g., evals) with last update timestamp (2026-07-03) for cutting-edge agent performance analysis.
+- **Advanced Analytics & Cost Estimation**: Provides evaluation metrics, evals, and granular cost estimation for LLM usage, facilitating optimization and performance benchmarking in production environments.
 
 ## Why It Matters
 
@@ -49,7 +48,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: AgentOps-AI
 - Stars: 5678
-- Forks: 603
+- Forks: 604
 - Language: Python
 - Topics: agent, agentops, agents-sdk, ai, anthropic, autogen, cost-estimation, crewai, evals, evaluation-metrics, groq, langchain, llm, mistral, ollama, openai, openai-agents
 - Last Updated: 2026-07-03T19:02:14Z

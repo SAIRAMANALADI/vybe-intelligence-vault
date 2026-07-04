@@ -15,7 +15,6 @@ tags:
 - openai
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal vector database**: Chroma supports storage and retrieval of embeddings for text, images, audio, and other modalities with metadata, enabling cross-modal search and filtering.
+- **Multi-modal vector database**: Chroma stores embeddings with metadata for text, images, audio, and other modalities, enabling dense, sparse, and hybrid similarity search across modalities.
 
-- **Hybrid search capabilities**: Implements dense, sparse, and hybrid vector search, combining similarity-based retrieval with full-text and regex search, all filterable by metadata at query time.
+- **Flexible retrieval & filtering**: Supports full-text/regex search, metadata filtering at query time, and integration with embedding models (OpenAI, Cohere, Hugging Face, etc.).
 
-- **Open-source & scalable**: Licensed under Apache 2.0, Chroma offers self-hosted, cloud, or managed (Chroma
+- **Open-source & scalable**: Apache 2.0-licensed, deployable locally/self-hosted, or via Chroma Cloud for serverless, zero-
 
 ## Use Cases
 

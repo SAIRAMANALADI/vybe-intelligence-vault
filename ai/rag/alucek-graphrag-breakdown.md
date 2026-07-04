@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ALucek/GraphRAG-Breakdown
-collected_at: '2026-07-04T09:34:06.698906+05:30'
+collected_at: '2026-07-04T16:33:35.234579+05:30'
 published_at: '2026-06-24T01:50:50Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
+- workflows
 stars: 174
 language: Jupyter Notebook
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-12-20T10:35:56Z'
 pushed_at: '2024-12-20T10:38:46Z'
 resource_id: github:alucek/graphrag-breakdown
-first_seen: '2026-07-04T09:34:06.698906+05:30'
-last_seen: '2026-07-04T09:34:06.698906+05:30'
-last_checked: '2026-07-04T09:34:06.698906+05:30'
+first_seen: '2026-07-04T16:33:35.234579+05:30'
+last_seen: '2026-07-04T16:33:35.234579+05:30'
+last_checked: '2026-07-04T16:33:35.234579+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Knowledge Graph RAG Architecture**: Repository provides a detailed breakdown of integrating knowledge graphs with Retrieval-Augmented Generation (RAG), including modular diagrams and executable Jupyter Notebook examples.
-- **Technical Implementation**: Demonstrates graph-based retrieval pipelines, entity-relationship mappings, and contextual enrichment for LLM responses using structured knowledge graphs.
-- **Evaluation & Optimization**: Includes comparative analysis of traditional RAG vs. GraphRAG, with metrics for retrieval accuracy, latency, and contextual relevance in generative tasks.
+- **Knowledge Graph RAG Architecture**: Provides a structured breakdown of integrating knowledge graphs (KGs) with Retrieval-Augmented Generation (RAG), emphasizing graph-based retrieval for enhanced context-aware generation.
+- **Visual & Example-Based Explanation**: Includes Jupyter Notebook diagrams and practical examples to illustrate graph construction, query optimization, and RAG pipeline integration.
+- **Technical Focus**: Covers topics like graph retrieval strategies, entity linking, and KG-enhanced RAG workflows, with updates as of June 2026.
 
 ## Why It Matters
 

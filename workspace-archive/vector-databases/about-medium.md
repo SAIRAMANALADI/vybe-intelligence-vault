@@ -29,11 +29,11 @@ selection_reason:
 
 ## Summary
 
-- **Mission & Model**: Medium operates as an ad-free, subscription-supported platform (1M+ members) prioritizing depth over sensationalism, rewarding nuanced, long-form content while avoiding data monetization.
+- **Open publishing platform**: Medium enables any user to publish content without requiring pre-existing audience or infrastructure, focusing on insightful writing over viral sensationalism.
 
-- **User Base & Content**: Hosts 100M+ monthly users (developers, CEOs, writers) sharing unfiltered insights on work, experiences, and expertise via collaborative, follower-agnostic publishing.
+- **Community-driven monetization**: Supported by over 1M paying members (not ads/data sales), Medium incentivizes depth and nuance in writing via a subscription-based model.
 
-- **Core Values**: Focuses on thoughtful discourse, substance over packaging, and collective
+- **Diverse contributor base**: Hosts 100M+ monthly users including developers, designers, and executives, facilitating knowledge-s
 
 ## Use Cases
 

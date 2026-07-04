@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Repository**: Hosts 300+ AI agent-related resources across 20+ categories, updated monthly, covering frameworks, tools, and research in 2026.
-- **Technical Scope**: Encompasses AI agents, LLMs, machine learning tools, and integrations (e.g., LangChain, ChatGPT) with a focus on cutting-edge advancements.
-- **Metadata**: 1,378 stars, 447 forks, last updated July 3, 2026; language unspecified but includes AI/ML-centric topics.
+- **Curated Repository**: Hosts 300+ AI agent resources across 20+ categories, updated monthly, covering frameworks (e.g., LangChain), LLMs, and tools for AI agent development.
+- **Technical Scope**: Encompasses ChatGPT, machine learning, and artificial intelligence tools, with a focus on agentic systems and their integration in 2026.
+- **Metadata**: 1,381 stars, 445 forks, last updated July 4, 2026; language unspecified but includes AI/ML-centric topics.
 
 ## Use Cases
 

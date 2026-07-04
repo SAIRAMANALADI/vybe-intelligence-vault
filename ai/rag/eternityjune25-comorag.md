@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-04T09:34:56.740697+05:30'
+collected_at: '2026-07-04T16:34:25.291180+05:30'
 published_at: '2026-07-03T09:52:43Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-04T09:34:56.740697+05:30'
-last_seen: '2026-07-04T09:34:56.740697+05:30'
-last_checked: '2026-07-04T09:34:56.740697+05:30'
+first_seen: '2026-07-04T16:34:25.291180+05:30'
+last_seen: '2026-07-04T16:34:25.291180+05:30'
+last_checked: '2026-07-04T16:34:25.291180+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework inspired by human cognitive memory organization, enabling stateful long narrative reasoning by structuring memory hierarchically (e.g., episodic, semantic, and procedural layers).
-
-- **Stateful Reasoning Mechanism**: Implements a dynamic memory update system where retrieved context is integrated into an evolving memory graph, allowing the model to maintain coherence and context across extended interactions or narratives.
-
-- **Python-Based Implementation**: Provides an open-source Python implementation with modular components for memory organization, retrieval, and reasoning, optimized for AAAI 2026 poster presentation (340 stars, 47 forks).
+- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning.
+- **Stateful Reasoning**: Implements dynamic memory management to maintain contextual coherence across extended dialogues or narratives, leveraging structured memory retrieval.
+- **AAAI 2026 Poster**: Presented as a cutting-edge approach in AI reasoning, with an open-source Python implementation available for research and development.
 
 ## Why It Matters
 

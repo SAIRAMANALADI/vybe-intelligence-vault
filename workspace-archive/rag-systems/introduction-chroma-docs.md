@@ -6,7 +6,7 @@ source_url: https://docs.trychroma.com/docs/overview/introduction
 resource_id: blog:introduction-chroma-docs
 local_vault_path: ai/rag/introduction-chroma-docs.md
 quality_score: 70
-archive_score: 76
+archive_score: 74
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -15,7 +15,6 @@ tags:
 - openai
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -26,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal vector database**: Chroma supports storage and retrieval of embeddings for text, images, audio, and other modalities with metadata, enabling cross-modal search and filtering.
+- **Multi-modal vector database**: Chroma stores embeddings with metadata for text, images, audio, and other modalities, enabling dense, sparse, and hybrid similarity search across modalities.
 
-- **Hybrid search capabilities**: Implements dense, sparse, and hybrid vector search, combining similarity-based retrieval with full-text and regex search, all filterable by metadata at query time.
+- **Flexible retrieval & filtering**: Supports full-text/regex search, metadata filtering at query time, and integration with embedding models (OpenAI, Cohere, Hugging Face, etc.).
 
-- **Open-source & scalable**: Licensed under Apache 2.0, Chroma offers self-hosted, cloud, or managed (Chroma
+- **Open-source & scalable**: Apache 2.0-licensed, deployable locally/self-hosted, or via Chroma Cloud for serverless, zero-
 
 ## Use Cases
 

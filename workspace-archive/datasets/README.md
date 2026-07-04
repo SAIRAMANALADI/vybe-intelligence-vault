@@ -23,9 +23,9 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 - [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [google-research/scann at master · google-research/google-research · GitHub](https://github.com/google-research/google-research/tree/master/scann)
 - [project-miracl/miracl](https://github.com/project-miracl/miracl)
-- [ParticleMedia/RAGTruth](https://github.com/ParticleMedia/RAGTruth)
+- [run-llama/ParseBench](https://github.com/run-llama/ParseBench)
+- [wgcyeo/UniversalRAG](https://github.com/wgcyeo/UniversalRAG)
 - [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench)
-- [facebookresearch/CRAG](https://github.com/facebookresearch/CRAG)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-07-04 09:49 IST*
+*Last updated: 2026-07-04 16:49 IST*

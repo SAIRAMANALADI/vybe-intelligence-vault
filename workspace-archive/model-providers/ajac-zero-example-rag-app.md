@@ -6,13 +6,16 @@ source_url: https://github.com/ajac-zero/example-rag-app
 resource_id: github:ajac-zero/example-rag-app
 local_vault_path: ai/rag/ajac-zero-example-rag-app.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
 resource_kind: workflow
 importance: medium
 tags:
 - anthropic
+- frontend_ui
 - github-repo
+- mistral
+- models
 - openai
 - rag
 - typescript
@@ -26,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Leverages LiteLLM to support 100+ LLM providers with unified API compatibility, enabling seamless switching between models (e.g., OpenAI, Anthropic, Hugging Face) via environment variables.
+- **Observability & Multi-Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for seamless switching across 100+ LLM providers (e.g., OpenAI, Anthropic, Mistral) via a unified API.
 
-- **Observability & Monitoring**: Embeds Langfuse for comprehensive LLM observability, tracking token usage, latency, and model performance metrics in real-time with full traceability of RAG pipeline interactions.
+- **Reliability & Scalability**: Fully Dockerized with TypeScript strict typing, 100% test coverage, and modular architecture for production-grade RAG deployments.
 
-- **Production-Grade Tooling**: Dockerized deployment wi
+- **Modern Tooling**: Leverages Next.js/React for the frontend, with optimized vector search (e.g., Pinecone, Chroma) and CI/CD-rea
 
 ## Use Cases
 

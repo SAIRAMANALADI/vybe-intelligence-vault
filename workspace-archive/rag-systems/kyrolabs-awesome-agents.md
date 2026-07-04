@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Aggregates a comprehensive list of AI agent frameworks, libraries, tools, and research papers for autonomous agent development.
-- **Multi-Domain Coverage**: Encompasses agents for web browsing, code generation, task automation, and multi-modal interactions.
-- **Open-Source Focus**: Primarily features open-source projects with active community contributions and GitHub repositories.
+- **Curated Collection**: Aggregates a comprehensive list of AI agent frameworks, tools, libraries, and research papers for autonomous agent development.
+- **Multi-Domain Coverage**: Encompasses agents for web browsing, code generation, task automation, and multi-agent systems across diverse applications.
+- **Open-Source & Research Focus**: Prioritizes open-source projects, academic papers, and cutting-edge implementations in AI agent architectures.
 
 ## Use Cases
 

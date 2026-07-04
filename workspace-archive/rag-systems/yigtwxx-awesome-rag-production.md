@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource**: Repository providing a vetted collection of tools, frameworks, and best practices for deploying scalable, production-grade RAG systems, emphasizing reliability and efficiency.
-- **Technical Scope**: Covers core components such as embeddings, vector databases, LLM integration (e.g., LangChain), and MLOps/LLMops workflows for end-to-end RAG pipelines.
-- **Python-Centric**: Focuses on Python-based implementations, with last update timestamp (2026-07-03) indicating active mai
+- **Curated Production-Grade RAG Resources**: A GitHub repository (`Yigtwxx/awesome-rag-production`) listing battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, focusing on AI/ML engineering and LLMops.
+
+- **Key Technical Components**: Includes resources on embeddings, vector databases, LangChain, LLMs, MLOps, and Python-based implementations for end-to-end RAG workflows, emphasizing scalability and deployment.
+
+- **Met
 
 ## Use Cases
 

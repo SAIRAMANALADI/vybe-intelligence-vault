@@ -7,6 +7,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [Mintlify · GitHub](https://github.com/mintlify) | `ai-coding-agents/` | 70 |
 | [crewAIInc/crewAI Release: 1.15.2a2](https://github.com/crewaiinc/crewai) | `ai-coding-agents/` | 70 |
 | [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) | `ai-coding-agents/` | 70 |
+| [LangChain · GitHub](https://github.com/langchain-ai) | `ai-coding-agents/` | 70 |
 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | `ai-coding-agents/` | 70 |
 | [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](https://github.com/resources/whitepapers/gartner-magic-quadrant-and-critical-capabilities-for-ai-code-assistants) | `ai-coding-agents/` | 70 |
 | [study8677/antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) | `ai-coding-agents/` | 70 |
@@ -18,6 +19,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [cline/cline](https://github.com/cline/cline) | `ai-coding-agents/` | 70 |
 | [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) | `ai-coding-agents/` | 70 |
 | [JuliusBrussee/caveman](https://github.com/juliusbrussee/caveman) | `ai-coding-agents/` | 70 |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | `ai-coding-agents/` | 70 |
 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | `ai-coding-agents/` | 70 |
 | [HeJiguang/codescan](https://github.com/HeJiguang/codescan) | `ai-coding-agents/` | 70 |
 | [crewAIInc/awesome-crewai](https://github.com/crewAIInc/awesome-crewai) | `ai-coding-agents/` | 70 |
@@ -27,7 +29,5 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [vin67/crewai_docker](https://github.com/vin67/crewai_docker) | `ai-coding-agents/` | 70 |
 | [Marketplace · GitHub](https://github.com/marketplace?type=actions) | `ai-coding-agents/` | 70 |
 | [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) | `ai-coding-agents/` | 70 |
-| [ilexistools/agents-sdk-templates](https://github.com/ilexistools/agents-sdk-templates) | `ai-coding-agents/` | 70 |
-| [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

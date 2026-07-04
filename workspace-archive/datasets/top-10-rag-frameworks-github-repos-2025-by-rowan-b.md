@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Haystack (deepset-ai)**: Modular AI orchestration framework supporting multi-document stores (Elasticsearch, FAISS, SQL), scalable NLP pipelines, and integration with BERT/RoBERTa/DPR models for production-ready RAG systems.
+- **Haystack (deepset-ai)**: Modular AI orchestration framework for production-ready RAG pipelines, supporting multiple document stores (Elasticsearch, FAISS, SQL) and LLMs (BERT, RoBERTa, DPR) with scalable architecture.
 
-- **RAGFlow (infiniflow)**: Open-source RAG engine emphasizing deep document understanding with pre-built pipelines, vector DB integration, and a user-friendly workflow designer for rapid prototyping and deployment.
+- **RAGFlow (infiniflow)**: Open-source RAG engine emphasizing deep document understanding, featuring pre-built RAG pipelines, vector database integration, and custom embedding model support for simplified deployment.
 
-- **FlashRAG (RUC-NLPIR)**: Lightweight Python toolki
+- **txtai (neuml)**: All-in-one AI framework for semantic
 
 ## Use Cases
 

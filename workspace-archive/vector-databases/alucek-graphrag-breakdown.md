@@ -11,11 +11,11 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Knowledge Graph RAG Architecture**: Repository provides a detailed breakdown of integrating knowledge graphs with Retrieval-Augmented Generation (RAG), including modular diagrams and executable Jupyter Notebook examples.
-- **Technical Implementation**: Demonstrates graph-based retrieval pipelines, entity-relationship mappings, and contextual enrichment for LLM responses using structured knowledge graphs.
-- **Evaluation & Optimization**: Includes comparative analysis of traditional RAG vs. Gr
+- **Knowledge Graph RAG Architecture**: Provides a structured breakdown of integrating knowledge graphs (KGs) with Retrieval-Augmented Generation (RAG), emphasizing graph-based retrieval for enhanced context-aware generation.
+- **Visual & Example-Based Explanation**: Includes Jupyter Notebook diagrams and practical examples to illustrate graph construction, query optimization, and RAG pipeline integration.
+- **Technical Focus**: Covers topics like graph retrieval strategies, entity linking, and
 
 ## Use Cases
 

@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Copyright Removal Process**: Google provides a [legal troubleshooter](https://support.google.com/legal/troubleshooter/1114905) to streamline DMCA removal requests, requiring specific information for compliance.
-- **DMCA Agent Contact**: Copyright complaints can be submitted via email (`dmca-agent@google.com`) or mail to Google’s Copyright Manager at 1600 Amphitheater Parkway, Mountain View, CA 94043.
-- **Copyright Resources**: Google’s Copyright Help Center includes guides on copyright basic
+- Google provides a [legal troubleshooter](https://support.google.com/legal/troubleshooter/1114905) for streamlined copyright removal requests, requiring specific information for compliance.
+- Google LLC’s DMCA Agent can be contacted at `dmca-agent@google.com` or via mail at **1600 Amphitheatre Parkway, Mountain View, CA 94043** for formal copyright infringement notifications.
+- Google’s copyright resources include definitions of copyright and "fair use," FAQs, and policies on handling repeat in
 
 ## Use Cases
 

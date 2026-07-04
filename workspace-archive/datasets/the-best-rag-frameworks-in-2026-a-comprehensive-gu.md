@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain (2026)**: Dominates with 700+ integrations, LangGraph for agentic workflows, and modular chains for retrieval/reranking/generation; ideal for complex, multi-tool pipelines but has a steep learning curve and is code-heavy.
-- **LlamaIndex (2026)**: Optimized for production-grade indexing and retrieval, supporting multimodal data (text/images/PDFs) with advanced routers, query engines, and 100+ data source integrations; excels in knowledge-intensive applications.
-- **Haystack & RAGFlo
+- **LangChain**: Dominant open-source RAG framework with 700+ integrations, LangGraph for agentic workflows, and modular chains for retrieval/reranking/generation; supports Pinecone/Weaviate and offers LangSmith for observability.
+- **LlamaIndex**: Production-grade indexing framework optimized for retrieval accuracy with multimodal support (text/images/PDFs), advanced routers/query engines, and 100+ data source integrations.
+- **Haystack**: Enterprise-ready framework featuring modular pipelines,
 
 ## Use Cases
 

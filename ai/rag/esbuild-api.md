@@ -3,9 +3,9 @@ title: esbuild - API
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://esbuild.github.io/api/#external
-published_at: '2026-07-04T01:28:14.577891+05:30'
-collected_at: '2026-07-04T01:28:14.577903+05:30'
+source_url: https://esbuild.github.io/api/#main-fields
+published_at: '2026-07-04T16:38:27.459913+05:30'
+collected_at: '2026-07-04T16:38:27.459925+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:esbuild-api
-first_seen: '2026-07-04T01:28:14.577903+05:30'
-last_seen: '2026-07-04T01:28:14.577903+05:30'
-last_checked: '2026-07-04T01:28:14.577903+05:30'
+first_seen: '2026-07-04T16:38:27.459925+05:30'
+last_seen: '2026-07-04T16:38:27.459925+05:30'
+last_checked: '2026-07-04T16:38:27.459925+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- Esbuild provides three language interfaces (CLI, JavaScript, Go) with identical core concepts but language-specific syntax; CLI flags support `--foo`, `--foo=bar`, or `--foo:bar` formats for boolean, single-value, and multi-value parameters respectively.
+- **API Access & Syntax**: Esbuild provides identical APIs across CLI, JavaScript, and Go, with CLI flags supporting `--foo`, `--foo=bar`, or `--foo:bar` formats for boolean, single-value, and multi-value parameters respectively; shell-specific argument interpretation risks can be avoided by using JS/Go APIs.
 
-- The primary APIs are `build` (file-based bundling/transformation) and `transform` (in-memory code transformation), with incremental build modes (`watch`, `serve`, `rebuild`) enabled via a shared `context` object for optimized development workflows.
+- **Core APIs**: Primary interfaces are `build` (file-based bundling/transformation with incremental modes: watch, serve, rebuild) and `transform` (in-memory code transformation for isolated use cases like minification/TS→JS conversion).
 
-- CLI shell interpretation risks can be avoided by using JavaScript/Go APIs; `build` supports 40+ options across categories (input, output, optimization, etc.), while `transform` is isolated (no bundling/plugins) but optimized for single-file operations like minification or TS→JS conversion.
+- **Context Management**: Long-running build contexts enable shared options and incremental builds; `dispose()` releases resources, while JS/Go APIs support async/sync modes and advanced features like live reloading via combined watch/serve contexts.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T01:28:14.577891+05:30
+- Published: 2026-07-04T16:38:27.459913+05:30
 
 ## Related Tags
 
@@ -50,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://esbuild.github.io/api/#external
+Original source: https://esbuild.github.io/api/#main-fields

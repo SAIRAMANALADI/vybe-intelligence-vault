@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Alert Volume & Scope**: GitHub processed **20,000+ secret scanning alerts** across **15,000 repositories**, necessitating scalable triage and remediation workflows.
-
-- **Signal-to-Noise Optimization**: Implemented **automated filtering and prioritization** to distinguish critical secrets from noise, reducing manual review overhead.
-
-- **Inbox Zero Achievement**: Achieved **full alert resolution** in **9 months** via structured remediation pipelines, integrating detection, triage, and remedia
+- **Volume & Scope**: GitHub processed **20,000+ secret scanning alerts** across **15,000 repositories**, necessitating structured triage and remediation workflows.
+- **Signal-to-Noise Optimization**: Implemented **automated filtering and prioritization** to distinguish critical secrets from false positives, reducing alert fatigue.
+- **Operational Efficiency**: Achieved **inbox zero** in **9 months** via **scalable workflows**, integrating secret scanning into CI/CD pipelines for proactive remed
 
 ## Use Cases
 

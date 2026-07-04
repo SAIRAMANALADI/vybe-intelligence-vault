@@ -1,35 +1,33 @@
 ---
-title: deepset-ai/haystack
+title: deepset-ai/haystack · Discussions · GitHub
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack
+source_url: https://github.com/deepset-ai/haystack/discussions
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
 - agents
-- github-repo
+- anthropic
 - hackernews
-- mdx
-- models
-- openai
 - rag
+- web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# deepset-ai/haystack
+# deepset-ai/haystack · Discussions · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -37,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack enables building production-grade LLM applications via configurable pipelines with explicit control over retrieval, routing, memory, and generation components.
+- **Haystack GitHub Repository**: Open-source framework by deepset-ai with 25.8k stars, 2.9k forks, and active development (71 issues, 33 PRs). Supports RAG pipelines, agentic workflows, and diagnostics.
 
-- **Multi-Use Framework**: Supports scalable agents, RAG, multimodal systems, semantic search, and conversational AI with integrations for models like GPT-4 and Gemini.
+- **Community Discussions**: Active technical forums covering debugging (RAG quality, retrieval failures), runtime security (AgentShield, Agent Memory Guard), and pipeline diagnostics (Haystack Diagnostics Engine).
 
-- **Technical Stack**: Python-based, leveraging PyTorch and Transformers, optimized for information retrieval, NLP tasks, and de
+- **Technical Focus Areas**: Event loop handling for pipeline tools, async exec
 
 ## Use Cases
 
@@ -51,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack
+Original source URL: https://github.com/deepset-ai/haystack/discussions
 
 ## Local Vault File
 

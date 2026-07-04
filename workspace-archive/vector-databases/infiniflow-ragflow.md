@@ -26,9 +26,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid RAG-Engine**: Combines advanced Retrieval-Augmented Generation (RAG) with Agentic AI capabilities to enhance LLM context processing via a unified pipeline.
-- **Go-Based Architecture**: Implemented in Go for high-performance parallel processing, optimized for scalable context management in production-grade LLM applications.
-- **Agentic Context Layer**: Integrates dynamic retrieval, agent-based reasoning, and context fusion to improve LLM accuracy and adaptability in real-time applicati
+- **RAG Engine**: Open-source Retrieval-Augmented Generation (RAG) system integrating advanced RAG techniques with Agent capabilities to enhance LLM context processing.
+
+- **Technical Stack**: Implemented in Go, with features for context management, retrieval, and agentic workflows (agentic-ai, agentic-retrieval, agentic-search).
+
+- **Scalability & Use Cases**: Supports LLM applications (llm-apps) with context-engine and context-management, optimized for high-performance retrieval and generation
 
 ## Use Cases
 

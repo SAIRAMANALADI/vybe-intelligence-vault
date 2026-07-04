@@ -1,32 +1,30 @@
 ---
-title: cross-encoder/ms-marco-MiniLM-L6-v2 · Hugging Face
+title: cross-encoder/ms-marco-MiniLM-L6-v2
 category: ai/rag
-source_type: web
-source_name: Web Discovery
-source_url: https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2
-published_at: '2026-07-04T09:38:15.884520+05:30'
-collected_at: '2026-07-04T09:38:15.884535+05:30'
+source_type: huggingface_model
+source_name: Hugging Face Trending Models
+source_url: https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2
+published_at: '2026-07-04T16:31:58.901139+05:30'
+collected_at: '2026-07-04T16:31:58.901146+05:30'
 tags:
-- benchmark
 - dataset
+- hf-model
+- huggingface
 - rag
 - reddit
-- web-crawled
 status: active
 resource_id: huggingface:cross-encoder/ms-marco-minilm-l6-v2
 first_seen: '2026-07-04T09:38:15.884535+05:30'
-last_seen: '2026-07-04T09:38:15.884535+05:30'
-last_checked: '2026-07-04T09:38:15.884535+05:30'
+last_seen: '2026-07-04T16:31:58.901146+05:30'
+last_checked: '2026-07-04T16:31:58.901146+05:30'
 health_score: 100
 ---
 
-# cross-encoder/ms-marco-MiniLM-L6-v2 · Hugging Face
+# cross-encoder/ms-marco-MiniLM-L6-v2
 
 ## Summary
 
-- **Dataset**: `sentence-transformers/msmarco` is a large-scale benchmark dataset for **MS MARCO (Microsoft Machine Reading Comprehension)** tasks, containing ~8.8M passages and ~1M queries.
-- **Use Case**: Designed for **semantic search** and **retrieval-augmented generation (RAG)**, supporting tasks like passage retrieval and question answering.
-- **Format**: Structured as a **Hugging Face dataset** with preprocessed splits for training, validation, and testing, optimized for transformer-based models.
+Trending Hugging Face model: cross-encoder/ms-marco-MiniLM-L6-v2 (Likes: 272, Downloads: 80140032)
 
 ## Why It Matters
 
@@ -34,18 +32,18 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Details
 
-- Source: Web Discovery
+- Source: Hugging Face Trending Models
 - Category: ai/rag
-- Published: 2026-07-04T09:38:15.884520+05:30
+- Published: 2026-07-04T16:31:58.901139+05:30
 
 ## Related Tags
 
-- benchmark
 - dataset
+- hf-model
+- huggingface
 - rag
 - reddit
-- web-crawled
 
 ## Source
 
-Original source: https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2
+Original source: https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2

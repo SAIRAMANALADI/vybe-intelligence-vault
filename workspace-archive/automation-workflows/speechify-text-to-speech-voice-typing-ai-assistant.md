@@ -1,5 +1,5 @@
 ---
-title: 'Speechify: Text to Speech & Voice Typing AI Assistant | 55M+ Users'
+title: 'Speechify: Text to Speech & Voice Typing AI Assistant | 60M+ Users'
 archive_category: automation-workflows
 source_category: ai/resources
 source_url: https://speechify.com/
@@ -24,7 +24,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Speechify: Text to Speech & Voice Typing AI Assistant | 55M+ Users
+# Speechify: Text to Speech & Voice Typing AI Assistant | 60M+ Users
 
 ## Why This Is In The Archive
 
@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Platform TTS Engine**: Speechify provides a cross-platform text-to-speech (TTS) system with lifelike AI voices (1,000+ options), real-time text highlighting, and adjustable playback speeds (up to 4.5x) across web, Chrome/Edge extensions, iOS, Android, Windows, and macOS.
+- **Cross-Platform TTS & Voice AI Integration**: Speechify provides a unified voice AI assistant across web, Chrome/Edge extensions, iOS, Android, Windows, and macOS, enabling text-to-speech (TTS), voice dictation, and contextual Q&A with lifelike AI voices (1,000+ options) and real-time text highlighting.
 
-- **Voice AI Assistant Capabilities**: Integrates dictation (160 WPM vs. 40 WPM typing), contextual Q&A, document summarization, AI podcast generation from text, and meeting note-taking with automated key point extrac
+- **Core Functionalities**: Supports PDF/Document TTS with speed control (up to 4.5x), OCR-based "scan & listen," AI-powered summarization/quizzing, podcast generation from text, and hands-fr
 
 ## Use Cases
 

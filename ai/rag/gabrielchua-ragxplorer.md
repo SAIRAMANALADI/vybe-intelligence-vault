@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-04T09:33:51.689353+05:30'
+collected_at: '2026-07-04T16:33:20.187670+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
-- benchmark
 - dataset
 - github-repo
 - jupyter notebook
 - models
 - rag
+- workflows
 stars: 1221
 language: Jupyter Notebook
 status: active
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-04T09:33:51.689353+05:30'
-last_seen: '2026-07-04T09:33:51.689353+05:30'
-last_checked: '2026-07-04T09:33:51.689353+05:30'
+first_seen: '2026-07-04T16:33:20.187670+05:30'
+last_seen: '2026-07-04T16:33:20.187670+05:30'
+last_checked: '2026-07-04T16:33:20.187670+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) designed for real-time visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation dynamics.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for dynamic visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time debugging and optimization.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for a web-based, user-friendly interface to dynamically inspect RAG components (e.g., embeddings, retrieval scores, generated outputs) with minimal setup overhead.
+- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based exploration of RAG components (retrievers, embeddings, LLM outputs) with Python-based workflows for modular experimentation.
 
-- **Python-Centric Architecture**: Leverages Python libraries (e.g., `langchain`, `faiss`, `sentence-transformers`) for modular RAG pipeline construction, with built-in support for custom dataset ingestion and evaluation metrics.
+- **Metrics & Debugging Focus**: Tracks performance metrics (e.g., retrieval precision, response relevance) and supports custom dataset integration for comparative analysis of RAG configurations.
 
 ## Why It Matters
 

@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-07-04T09:34:56.761773+05:30'
+collected_at: '2026-07-04T16:34:25.297727+05:30'
 published_at: '2026-07-03T21:58:58Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 244
@@ -17,9 +19,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-03-23T06:52:23Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-07-04T09:34:56.761773+05:30'
-last_seen: '2026-07-04T09:34:56.761773+05:30'
-last_checked: '2026-07-04T09:34:56.761773+05:30'
+first_seen: '2026-07-04T16:34:25.297727+05:30'
+last_seen: '2026-07-04T16:34:25.297727+05:30'
+last_checked: '2026-07-04T16:34:25.297727+05:30'
 health_score: 100
 ---
 
@@ -27,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework (LeanRAG) with multi-layered retrieval (entity → subgraph → full graph) and semantic aggregation for improved contextual relevance in AAAI 2026.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with two-stage retrieval (semantic aggregation followed by hierarchical traversal) to enhance context relevance in generation tasks.
 
-- **Efficiency Optimizations**: Python-based implementation with lightweight design (244 stars, 29 forks) focusing on low-latency graph traversal and dynamic pruning to balance retrieval granularity and computational cost.
+- **Efficiency Optimizations**: Utilizes lightweight graph traversal and dynamic pruning techniques to reduce computational overhead while maintaining retrieval accuracy.
 
-- **Knowledge Graph Integration**: Leverages structured knowledge graphs for precise entity linking and hierarchical context propagation, enabling scalable generation with reduced hallucination risks in LLM outputs.
+- **Python Implementation**: Provides a modular, open-source Python library with APIs for integrating knowledge graphs into LLMs, optimized for AAAI 2026 benchmarks.
 
 ## Why It Matters
 

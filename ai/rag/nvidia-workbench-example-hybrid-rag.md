@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-04T09:33:56.725618+05:30'
+collected_at: '2026-07-04T16:33:25.289051+05:30'
 published_at: '2026-06-30T16:45:55Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-04T09:33:56.725618+05:30'
-last_seen: '2026-07-04T09:33:56.725618+05:30'
-last_checked: '2026-07-04T09:33:56.725618+05:30'
+first_seen: '2026-07-04T16:33:25.289051+05:30'
+last_seen: '2026-07-04T16:33:25.289051+05:30'
+last_checked: '2026-07-04T16:33:25.289051+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining vector and keyword-based retrieval for enhanced document search and generation in Python.
+- **Hybrid Retrieval Augmented Generation (RAG)**: Implements a hybrid RAG pipeline combining dense (vector) and sparse (keyword) retrieval methods to enhance document retrieval accuracy and context relevance for LLM generation.
 
-- **NVIDIA AI Workbench Integration**: Showcases integration with NVIDIA's AI Workbench for streamlined development, deployment, and experimentation of hybrid RAG models.
+- **NVIDIA AI Workbench Integration**: Demonstrates deployment and optimization of the RAG system using NVIDIA AI Workbench, leveraging GPU acceleration for efficient model inference and retrieval.
 
-- **Example Project Structure**: Provides a reference architecture with modular components for indexing, retrieval, and generation, optimized for GPU acceleration and scalability.
+- **Python-Based Implementation**: Provides a Python-based reference implementation with modular components for document preprocessing, retrieval, and LLM integration, optimized for NVIDIA hardware.
 
 ## Why It Matters
 

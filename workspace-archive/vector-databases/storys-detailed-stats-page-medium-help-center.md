@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Lifetime Metrics**: Tracks presentations (Medium-suggested views), views (story landings), and reads (≥30s engagement) with hourly updates (except earnings, updated daily). Includes paywall-specific data like earnings, follower/subscription changes, and read ratio.
+- **Lifetime Metrics**: Tracks total presentations (suggested views), views (story landings), and reads (30+ second engagements) with hourly updates; includes earnings (daily), follower/subscription changes, and Feed clickthrough rate (if data sufficient).
 
-- **Monthly Analytics**: Provides paywall earnings, views, reads, and engagement (claps, highlights, responses, new followers) per selected month, updated daily. Highlights yellow-marked metrics contributing to earnings and inclu
+- **Monthly Engagement**: Displays paywall earnings, views, reads, and interaction metrics (claps, highlights, responses, new followers) with yellow highlights indicating earnings contributions; Member read ratio (member reads ÷ member views)
 
 ## Use Cases
 

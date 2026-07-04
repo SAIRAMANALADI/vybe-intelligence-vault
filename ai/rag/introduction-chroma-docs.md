@@ -4,19 +4,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.trychroma.com/docs/overview/introduction
-published_at: '2026-07-04T03:51:54.967817+05:30'
-collected_at: '2026-07-04T03:51:54.967831+05:30'
+published_at: '2026-07-04T16:36:06.953608+05:30'
+collected_at: '2026-07-04T16:36:06.953621+05:30'
 tags:
 - agents
 - openai
 - rag
 - web-crawled
-- workflows
 status: active
 resource_id: blog:introduction-chroma-docs
-first_seen: '2026-07-04T03:51:54.967831+05:30'
-last_seen: '2026-07-04T03:51:54.967831+05:30'
-last_checked: '2026-07-04T03:51:54.967831+05:30'
+first_seen: '2026-07-04T16:36:06.953621+05:30'
+last_seen: '2026-07-04T16:36:06.953621+05:30'
+last_checked: '2026-07-04T16:36:06.953621+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal vector database**: Chroma supports storage and retrieval of embeddings for text, images, audio, and other modalities with metadata, enabling cross-modal search and filtering.
+- **Multi-modal vector database**: Chroma stores embeddings with metadata for text, images, audio, and other modalities, enabling dense, sparse, and hybrid similarity search across modalities.
 
-- **Hybrid search capabilities**: Implements dense, sparse, and hybrid vector search, combining similarity-based retrieval with full-text and regex search, all filterable by metadata at query time.
+- **Flexible retrieval & filtering**: Supports full-text/regex search, metadata filtering at query time, and integration with embedding models (OpenAI, Cohere, Hugging Face, etc.).
 
-- **Open-source & scalable**: Licensed under Apache 2.0, Chroma offers self-hosted, cloud, or managed (Chroma Cloud) deployment options with SDK support for document storage, custom embedding models, and agentic workflows.
+- **Open-source & scalable**: Apache 2.0-licensed, deployable locally/self-hosted, or via Chroma Cloud for serverless, zero-ops scaling. Includes SDK for document storage and example projects (e.g., agentic search, code search).
 
 ## Why It Matters
 
@@ -38,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T03:51:54.967817+05:30
+- Published: 2026-07-04T16:36:06.953608+05:30
 
 ## Related Tags
 
@@ -46,7 +45,6 @@ General public resource representing technology updates, guides, or tutorials.
 - openai
 - rag
 - web-crawled
-- workflows
 
 ## Source
 

@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-07-04T09:34:16.724799+05:30'
+collected_at: '2026-07-04T16:33:45.290414+05:30'
 published_at: '2026-06-30T16:43:51Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
+- reddit
+- workflows
 stars: 1172
 language: Python
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2023-06-06T01:40:48Z'
 pushed_at: '2026-07-04T00:56:12Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-07-04T09:34:16.724799+05:30'
-last_seen: '2026-07-04T09:34:16.724799+05:30'
-last_checked: '2026-07-04T09:34:16.724799+05:30'
+first_seen: '2026-07-04T16:33:45.290414+05:30'
+last_seen: '2026-07-04T16:33:45.290414+05:30'
+last_checked: '2026-07-04T16:33:45.290414+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for vector-based retrieval and **Azure OpenAI** LLMs for generating ChatGPT-style and Q&A responses.
-- **Key Components**: Includes pre-configured best practices for data ingestion, indexing, and retrieval, with Python-based implementation and **Azure Developer CLI (azd)** templates for deployment.
-- **Use Case**: Enables scalable, production-ready RAG solutions with support for custom data integration, hybrid search (semantic + keyword), and cost-efficient Azure resource provisioning.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A, following best practices for production-grade RAG systems.
+
+- **Key Components**: Includes **Python-based** solution with **AZD templates** for deployment, integrating Azure AI Search for vector/keyword retrieval and Azure OpenAI for LLM-powered responses.
+
+- **Features**: Supports **ChatGPT-style interactions** and **Q&A workflows**, with pre-configured requirements like indexing, retrieval, and prompt engineering for scalable, enterprise-grade deployments.
 
 ## Why It Matters
 

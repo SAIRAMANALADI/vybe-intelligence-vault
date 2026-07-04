@@ -7,14 +7,13 @@ source_url: https://www.youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_
 resource_id: blog:complete-rag-tutorial-2025-build-ai-apps-with-retr
 local_vault_path: ai/rag/complete-rag-tutorial-2025-build-ai-apps-with-retr.md
 quality_score: 70
-archive_score: 74
+archive_score: 84
 archive_tier: useful
 resource_kind: benchmark
-importance: medium
+importance: high
 tags:
 - hackernews
 - rag
-- reddit
 - web-crawled
 - youtube
 selection_reason:
@@ -27,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 84 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view content, with additional services for creators, advertisers, and developers.
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, creator tools, advertising, and developer APIs (YouTube Data API v3, YouTube IFrame Player API).
 
-- **Technical Infrastructure**: Utilizes Google’s infrastructure for scalability, including CDN (Content Delivery Network) for global content distribution and AI-driven recommendation algorithms for personalized content suggestions.
+- **Technical Infrastructure**: Utilizes a distributed system for video transcoding, storage (leveraging Google Cloud), and streaming (adaptive bitrate via DASH/HLS), with AI-driven recommendation algorithms for content discovery.
 
-- **Monetization & Policies**: Supports revenue generation via a
+- **Developer & Policy Resources**: Provide
 
 ## Use Cases
 

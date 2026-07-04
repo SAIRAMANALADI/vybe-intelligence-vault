@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Framework for evaluating LLMs, implementing guardrails, and ensuring LLM security within MLOps workflows.
-- **Key Features**: Supports structured evaluation, real-time monitoring, and enforcement of safety policies for LLMs.
-- **Technical Stack**: Python-based, integrates with LLMops tools for deployment and operationalization.
+- **Purpose**: Framework for evaluating LLMs, implementing guardrails, and ensuring LLM security in production environments.
+- **Key Features**: Supports structured evaluation metrics, real-time safety checks, and compliance enforcement for LLMs.
+- **Technical Stack**: Python-based, integrates with LLMOps workflows for deployment and monitoring.
 
 ## Use Cases
 

@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-07-04T09:33:36.761053+05:30'
+collected_at: '2026-07-04T16:33:05.275159+05:30'
 published_at: '2026-06-24T06:49:45Z'
 tags:
 - agents
+- anthropic
 - github-repo
+- openai
 - python
 - rag
-- workflows
 stars: 313
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-07-04T09:33:36.761053+05:30'
-last_seen: '2026-07-04T09:33:36.761053+05:30'
-last_checked: '2026-07-04T09:33:36.761053+05:30'
+first_seen: '2026-07-04T16:33:05.275159+05:30'
+last_seen: '2026-07-04T16:33:05.275159+05:30'
+last_checked: '2026-07-04T16:33:05.275159+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Template repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, designed for structured agentic workflows in Python.
+- **Template Structure**: Provides a modular Python-based framework for building Retrieval-Augmented Generation (RAG) research agents, leveraging LangChain components for document retrieval, processing, and agent orchestration.
 
-- **Key Components**: Likely includes modular components for document retrieval, prompt engineering, and agent orchestration, leveraging LangChain's framework for LLM integration.
+- **Key Dependencies**: Utilizes core LangChain libraries (e.g., `langchain-core`, `langchain-community`) and integrates with vector stores (e.g., Chroma, FAISS) and LLM providers (e.g., OpenAI, Anthropic) for end-to-end RAG pipelines.
 
-- **Updates**: Last commit on June 24, 2026, indicating active maintenance or recent development focus.
+- **Deployment-Ready**: Includes configuration files (e.g., `pyproject.toml`, `Dockerfile`) and example scripts to streamline agent deployment, with support for async/parallel processing and customizable retrieval strategies.
 
 ## Why It Matters
 

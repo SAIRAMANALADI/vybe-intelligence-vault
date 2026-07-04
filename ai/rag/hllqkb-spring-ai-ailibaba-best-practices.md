@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-07-04T09:34:11.684668+05:30'
+collected_at: '2026-07-04T16:33:40.319802+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - java
 - rag
 - workflows
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-07-04T09:34:11.684668+05:30'
-last_seen: '2026-07-04T09:34:11.684668+05:30'
-last_checked: '2026-07-04T09:34:11.684668+05:30'
+first_seen: '2026-07-04T16:33:40.319802+05:30'
+last_seen: '2026-07-04T16:33:40.319802+05:30'
+last_checked: '2026-07-04T16:33:40.319802+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of AI Q&A System**: Demonstrates a Spring AI-based Q&A system leveraging **Server-Sent Events (SSE)** for real-time streaming responses, **Agent-based workflows** for dynamic task execution, and **RAG (Retrieval-Augmented Generation)** with **knowledge graphs** for enhanced contextual retrieval.
+- **Implements SSE streaming, Agent-based workflows, and Knowledge Graph RAG** for AI Q&A systems using Spring AI and Alibaba Cloud components.
 
-- **Multi-Modal AI Capabilities**: Integrates **Function Calling** for tool-based interactions, supports **historical message context** for conversational continuity, and includes **image generation (e.g., Stable Diffusion)** and **image understanding (e.g., vision models)** via **Embedding** and **Vector Database** (e.g., Milvus/Weaviate) for RAG.
+- **Supports multimodal processing** with image generation (e.g., via Stable Diffusion), image understanding (OCR, vision models), and embedding-based vector search in databases (e.g., Milvus, Weaviate).
 
-- **Technical Stack**: Built in **Java** with **Spring AI** and **Alibaba Cloud AI** services, utilizing **embedding models** (e.g., BERT, Sentence-BERT) for vectorization and **RAG pipelines** for hybrid retrieval from structured/unstructured data.
+- **Integrates FunctionCall, historical message management, and RAG pipelines** with Java-based Spring AI, leveraging embedding models (e.g., BERT, Sentence-BERT) and vector databases for retrieval-augmented generation.
 
 ## Why It Matters
 

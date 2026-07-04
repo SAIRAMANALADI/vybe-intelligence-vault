@@ -40,7 +40,9 @@ selection_reason:
 
 ## Summary
 
-*   A RAG pipeline is implemented using `RecursiveCharacterTextSplitter` (
+- **Hybrid Retrieval Pipeline**: Combines BM25 keyword search (rank-bm25) with vector similarity search (OpenAI `text-embedding-3-small` in ChromaDB) to improve recall for both semantic and exact-match queries, mitigating limitations of pure vector search.
+
+- **Cross-Encoder Reranking**: Uses a lightweight cross-encoder model (e.g., `cross-encoder/ms-marco-MiniLM-L-6-v2`) to rerank top-k candidates (20 BM25 + 20 vector results) by cross-attention, boosting precision without requiring paid APIs.
 
 ## Use Cases
 

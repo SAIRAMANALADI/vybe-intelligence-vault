@@ -8,7 +8,7 @@ local_vault_path: ai/rag/metrics-ragas.md
 quality_score: 70
 archive_score: 76
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
@@ -17,7 +17,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Metrics - Ragas
@@ -26,19 +26,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 76 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Metric Design Principles**: Ragas metrics are structured around **faithfulness**, **answer relevance**, and **context relevance**, ensuring evaluation of RAG pipelines aligns with factual accuracy and contextual appropriateness.
+- **Ragas Metrics Framework**: Provides a structured approach to evaluating RAG (Retrieval-Augmented Generation) systems, emphasizing modularity and extensibility in metric design for performance assessment.
 
-- **Core Metrics**:
-  - **Faithfulness**: Measures hallucination and factual consistency using entailment-based scoring.
-  - **Answer Relevance**: Evaluates precision of generated answers via semantic similarity and logical alignment with the query.
-  - **Context Re
+- **Core Metric Categories**: Includes key metrics such as **Faithfulness**, **Answer Relevance**, **Context Precision**, **Context Recall**, and **Aspect Critique**, each targeting specific dimensions of RAG system evaluation (e.g., factual consistency, relevance, and retrieval quality).
 
 ## Use Cases
 

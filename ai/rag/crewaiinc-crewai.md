@@ -5,7 +5,7 @@ source_type: github_releases
 source_name: GitHub Releases AI
 source_url: https://github.com/crewaiinc/crewai
 published_at: '2026-07-01T22:15:05Z'
-collected_at: '2026-07-04T09:32:41.462932+05:30'
+collected_at: '2026-07-04T16:32:02.308013+05:30'
 tags:
 - agents
 - crewaiinc-crewai
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: github:crewaiinc/crewai
 first_seen: '2026-07-03T15:11:37.278245+05:30'
-last_seen: '2026-07-04T09:32:41.462932+05:30'
-last_checked: '2026-07-04T09:32:41.462932+05:30'
+last_seen: '2026-07-04T16:32:02.308013+05:30'
+last_checked: '2026-07-04T16:32:02.308013+05:30'
 health_score: 100
 ---
 

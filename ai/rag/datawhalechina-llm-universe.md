@@ -4,23 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/llm-universe
-collected_at: '2026-07-04T09:33:06.700198+05:30'
-published_at: '2026-07-04T03:40:17Z'
+collected_at: '2026-07-04T16:32:40.387286+05:30'
+published_at: '2026-07-04T08:16:36Z'
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
-stars: 13396
+stars: 13394
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2023-10-29T16:01:22Z'
 pushed_at: '2026-02-24T14:33:21Z'
 resource_id: github:datawhalechina/llm-universe
-first_seen: '2026-07-04T09:33:06.700198+05:30'
-last_seen: '2026-07-04T09:33:06.700198+05:30'
-last_checked: '2026-07-04T09:33:06.700198+05:30'
+first_seen: '2026-07-04T16:32:40.387286+05:30'
+last_seen: '2026-07-04T16:32:40.387286+05:30'
+last_checked: '2026-07-04T16:32:40.387286+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Framework**: A beginner-friendly tutorial series for developing LLM applications, structured as Jupyter Notebooks, with an online version hosted at [datawhalechina.github.io/llm-universe](https://datawhalechina.github.io/llm-universe/).
+- **Educational Resource**: Provides a beginner-friendly tutorial for developing LLM applications, structured as Jupyter Notebooks, with an online version available at [datawhalechina.github.io/llm-universe](https://datawhalechina.github.io/llm-universe/).
 
-- **Technical Focus**: Integrates **LangChain** and **RAG (Retrieval-Augmented Generation)** methodologies for practical LLM application development.
+- **Technical Focus**: Covers key topics in LLM application development, specifically **LangChain** and **RAG (Retrieval-Augmented Generation)** pipelines.
 
-- **Repository Metrics**: 13,396 stars, 1,371 forks, last updated on **2026-07-04**, with primary language being Python (Jupyter Notebook).
+- **Repository Metrics**: Highly active with **13,394 stars** and **1,371 forks**, last updated on **2026-07-04**, indicating strong community engagement and maintenance.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 13396
+- Stars: 13394
 - Forks: 1371
 - Language: Jupyter Notebook
 - Topics: langchain, rag
-- Last Updated: 2026-07-04T03:40:17Z
+- Last Updated: 2026-07-04T08:16:36Z
 - Archived: No
 - Created At: 2023-10-29T16:01:22Z
 - Pushed At: 2026-02-24T14:33:21Z

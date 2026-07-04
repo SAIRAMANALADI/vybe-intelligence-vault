@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-07-04T09:37:22.146301+05:30'
-collected_at: '2026-07-04T09:37:22.146315+05:30'
+published_at: '2026-07-04T16:36:29.345324+05:30'
+collected_at: '2026-07-04T16:36:29.345337+05:30'
 tags:
 - agents
 - creative_dev
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-07-04T09:37:22.146315+05:30'
-last_seen: '2026-07-04T09:37:22.146315+05:30'
-last_checked: '2026-07-04T09:37:22.146315+05:30'
+first_seen: '2026-07-04T16:36:29.345337+05:30'
+last_seen: '2026-07-04T16:36:29.345337+05:30'
+last_checked: '2026-07-04T16:36:29.345337+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting via Gradio, Docker, or static HTML/JS, with optional GPU acceleration for performance-critical applications.
+- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo applications directly on user/organization profiles with built-in support for Gradio, Docker, and static HTML/JavaScript, including GPU acceleration for performance-critical workloads.
 
-- **Integration & Customization**: Supports Python-based SDKs (e.g., Gradio), Dockerfile customization, and GitHub Actions for CI/CD workflows, with embedded deployment options and storage management.
+- **Storage & Configuration**: Supports custom dependencies, GitHub Actions integration, and disk/storage management, with options for GPU upgrades, ZeroGPU, and custom domains for scalable deployments.
 
-- **Advanced Features**: Includes ZeroGPU mode, disk/storage monitoring, custom domains, and MCP server/agent tool integrations for scalable, production-grade ML applications.
+- **Advanced Features**: Enables embedding Spaces, MCP server integration, API endpoint exposure, and session-based agent workflows with traceable execution for collaborative ML development.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T09:37:22.146301+05:30
+- Published: 2026-07-04T16:36:29.345324+05:30
 
 ## Related Tags
 

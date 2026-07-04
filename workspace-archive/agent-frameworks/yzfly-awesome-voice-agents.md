@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated collection** of voice AI agent frameworks, tools, and best practices for STT, TTS, VAD, voice cloning, conversion, recognition, and synthesis.
-- **Topics covered**: Real-time chat, voice assistants, agent architectures, and voice processing pipelines.
-- **Last updated**: July 3, 2026; repository includes 34 stars and 15 forks.
+- **Curated resource** for voice AI agent frameworks, tools, and best practices, covering STT, TTS, VAD, voice cloning, conversion, recognition, and synthesis.
+- **Topics include** realtime-chat, voice-assistant, and voice-agent architectures, with last update on 2026-07-03.
+- **Repository stats**: 34 stars, 15 forks, language unspecified, maintained at `https://github.com/yzfly/awesome-voice-agents`.
 
 ## Use Cases
 

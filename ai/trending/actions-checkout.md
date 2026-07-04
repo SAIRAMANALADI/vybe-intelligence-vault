@@ -9,13 +9,14 @@ collected_at: '2026-07-04T09:32:39.766745+05:30'
 tags:
 - github-trending
 - typescript
-status: active
+status: inactive
 resource_id: github:actions/checkout
 first_seen: '2026-07-02T20:00:14.034556+05:30'
 last_seen: '2026-07-04T09:32:39.766745+05:30'
 last_checked: '2026-07-04T09:32:39.766745+05:30'
 health_score: 100
 ---
+
 
 # actions/checkout
 

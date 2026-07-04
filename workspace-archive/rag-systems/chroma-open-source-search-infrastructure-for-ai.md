@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal search infrastructure**: Supports vector, full-text, regex, and metadata search with up to 10x cost reduction via object storage tiering and automatic caching (p50 latency: 20ms warm, 650ms cold for 100k vectors).
+- **Multi-modal search infrastructure**: Supports vector (semantic), full-text (BM25/SPLADE), regex, and metadata filtering with sub-100ms latency (p99) for warm queries and up to 10x cost reduction via object storage tiering (S3/GCS) with automatic caching.
 
-- **Enterprise-grade scalability**: Handles 1M collections/database, 5M records/collection, 30MB/s write throughput, and 2000+ QPS with SOC 2 Type II compliance; offers BYOC, multi-region replication, and point-in-time recovery.
+- **Enterprise-grade scalability**: Handles 1M+ collections, 5M records/collection, 30MB/s write throughput (2K+ QPS), and SOC 2 Type II compliance with BYOC in VPC, multi-region replication, and point-in-time recovery.
 
-- **Open-source Apache 2.0 core**: 27k+
+- **Open-source Apa
 
 ## Use Cases
 

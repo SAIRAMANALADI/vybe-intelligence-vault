@@ -8,7 +8,7 @@ local_vault_path: ai/rag/sylphai-inc-githubchat.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
@@ -17,7 +17,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # SylphAI-Inc/GithubChat
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
 - **RAG Implementation**: Practical Retrieval-Augmented Generation (RAG) system enabling interaction with GitHub repositories via natural language queries.
-- **Technical Stack**: Python-based, leveraging RAG pipelines for document retrieval and generation, with no explicit framework dependencies listed.
-- **Metadata**: 97 stars, 20 forks, last updated 2026-06-30; repository is unthemed (no topics).
+- **Technical Stack**: Python-based, leveraging vector embeddings and similarity search for repository content retrieval and response generation.
+- **Deployment**: Localizable solution with last update timestamp (`2026-06-30T16:48:21Z`), supporting offline GitHub repo analysis and chat functionality.
 
 ## Use Cases
 

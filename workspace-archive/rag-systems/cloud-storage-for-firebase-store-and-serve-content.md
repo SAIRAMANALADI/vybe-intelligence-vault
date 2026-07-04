@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Scalable Object Storage**: Cloud Storage for Firebase provides a cost-effective, Google-scale object storage service with client SDKs (iOS, Android, Web, C++, Unity) for storing and serving user-generated content (e.g., images, videos) with automatic scaling via Cloud Functions.
+- **Scalable Object Storage**: Firebase Cloud Storage provides a cost-effective, globally scalable object storage service with SDKs for storing and serving user-generated content (e.g., images, videos) across iOS, Android, web, C++, and Unity platforms.
 
-- **Security & Access Control**: Integrates with Firebase Authentication to enforce declarative, user-based security policies for file access, leveraging metadata (e.g., name, size, content type) for fine-grained pe
+- **Automatic Scaling & Security**: Cloud Functions integrate with Firebase Authentication to enable declarative access control based on user identity or file metadata (e.g., name, size, content type), while automatically scaling compute resourc
 
 ## Use Cases
 

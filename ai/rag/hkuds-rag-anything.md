@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/RAG-Anything
-collected_at: '2026-07-03T22:17:22.830507+05:30'
-published_at: '2026-07-03T16:44:14Z'
+collected_at: '2026-07-04T16:32:50.179827+05:30'
+published_at: '2026-07-04T09:40:53Z'
 tags:
 - dataset
 - github-repo
 - python
 - rag
-- workflows
 - youtube
-stars: 21916
+stars: 21940
 language: Python
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-06-06T06:47:29Z'
 pushed_at: '2026-06-15T04:43:54Z'
 resource_id: github:hkuds/rag-anything
-first_seen: '2026-07-03T22:17:22.830507+05:30'
-last_seen: '2026-07-03T22:17:22.830507+05:30'
-last_checked: '2026-07-03T22:17:22.830507+05:30'
+first_seen: '2026-07-04T16:32:50.179827+05:30'
+last_seen: '2026-07-04T16:32:50.179827+05:30'
+last_checked: '2026-07-04T16:32:50.179827+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Modal RAG Integration**: Framework supports retrieval-augmented generation (RAG) across text, images, audio, and video modalities, enabling unified cross-modal retrieval and generation pipelines.
+- **Unified Multi-Modal RAG Framework**: Implements a single, extensible Python-based framework supporting retrieval-augmented generation (RAG) across text, image, audio, and video modalities, integrating modality-specific encoders and cross-modal retrieval mechanisms.
 
-- **Modular Architecture**: Implements a plug-and-play design with interchangeable retrievers (e.g., dense, sparse, hybrid) and generators (e.g., LLMs, diffusion models), facilitating customizable RAG workflows.
+- **Modular Architecture**: Features plug-and-play components (e.g., retrievers, rerankers, generators) with standardized APIs for custom pipelines, enabling hybrid retrieval strategies (dense/sparse/dense+sparse) and dynamic modality fusion.
 
-- **Optimized Pipeline Efficiency**: Incorporates dynamic chunking, adaptive retrieval strategies, and in-memory caching to reduce latency and improve scalability for large-scale multi-modal datasets.
+- **Optimized for Scalability**: Supports distributed retrieval (FAISS, Milvus, Weaviate) and GPU-accelerated processing, with built-in caching and batching for low-latency inference in large-scale multi-modal datasets.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 21916
-- Forks: 2550
+- Stars: 21940
+- Forks: 2549
 - Language: Python
 - Topics: multi-modal-rag, retrieval-augmented-generation
-- Last Updated: 2026-07-03T16:44:14Z
+- Last Updated: 2026-07-04T09:40:53Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-06T06:47:29Z

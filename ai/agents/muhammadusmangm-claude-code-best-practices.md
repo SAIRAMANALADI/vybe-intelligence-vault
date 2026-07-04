@@ -4,13 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-07-04T09:35:56.791246+05:30'
+collected_at: '2026-07-04T16:35:25.349643+05:30'
 published_at: '2026-07-01T14:48:32Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
+- scripts
 - shell
 - workflows
 stars: 60
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-07-04T09:35:56.791246+05:30'
-last_seen: '2026-07-04T09:35:56.791246+05:30'
-last_checked: '2026-07-04T09:35:56.791246+05:30'
+first_seen: '2026-07-04T16:35:25.349643+05:30'
+last_seen: '2026-07-04T16:35:25.349643+05:30'
+last_checked: '2026-07-04T16:35:25.349643+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Structure**: Provides a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-
-- **Technical Focus**: Primarily shell-based, covering CLI tools, MCP (Model Context Protocol) integration, and LLM (Large Language Model) workflows for agentic AI development.
-
-- **Maintenance & Updates**: Actively maintained with last update on 2026-07-01, featuring 60 stars and 11 forks, indicating community engagement in AI tooling best practices.
+- **Repository Structure & Templates**: Provides `CLAUDE.md` templates and structured workflows for optimizing Claude Code usage, including multi-agent patterns and CLI configurations.
+- **Cost & Performance Optimization**: Focuses on cost-efficient practices for LLM interactions, MCP integrations, and resource management in AI-driven development workflows.
+- **Agentic AI Workflows**: Implements advanced agentic AI patterns for developer tooling, emphasizing automation, scalability, and Anthropic model compatibility.
 
 ## Why It Matters
 

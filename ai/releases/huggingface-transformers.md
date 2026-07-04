@@ -5,7 +5,7 @@ source_type: github_releases
 source_name: GitHub Releases AI
 source_url: https://github.com/huggingface/transformers
 published_at: '2026-07-03T16:06:27Z'
-collected_at: '2026-07-04T09:32:39.776150+05:30'
+collected_at: '2026-07-04T16:32:00.362667+05:30'
 tags:
 - agents
 - benchmark
@@ -22,8 +22,8 @@ tags:
 status: active
 resource_id: github:huggingface/transformers
 first_seen: '2026-06-16T13:57:13.872438+05:30'
-last_seen: '2026-07-04T09:32:39.776150+05:30'
-last_checked: '2026-07-04T09:32:39.776150+05:30'
+last_seen: '2026-07-04T16:32:00.362667+05:30'
+last_checked: '2026-07-04T16:32:00.362667+05:30'
 health_score: 100
 ---
 

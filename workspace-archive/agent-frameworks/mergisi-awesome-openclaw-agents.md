@@ -17,6 +17,7 @@ tags:
 - hackernews
 - html
 - scripts
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 distinct categories.
-- **Technical Scope**: Supports multi-agent systems, MCP (Model Context Protocol), LLM integration, and no-code automation via Docker deployment.
-- **Community & Contributions**: Open-source project with 3,770 stars and 613 forks; accepts community submissions for additional agent templates.
+- **Repository Content**: Hosts **162 production-ready AI agent templates** for OpenClaw, featuring **SOUL.md configurations** spanning **19 categories**, with a submission process for community contributions.
+- **Technical Stack**: Primarily **HTML-based**, supporting **multi-agent systems**, **LLM integration**, **Docker deployment**, and **MCP/Telegram-bot automation** via **Claude/crewclaw** workflows.
+- **Community & Metadata**: **3,772 stars**, **612 forks**, last updated **2026-07-04**, a
 
 ## Use Cases
 

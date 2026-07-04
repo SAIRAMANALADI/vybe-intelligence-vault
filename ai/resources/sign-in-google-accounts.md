@@ -3,17 +3,16 @@ title: Sign in - Google Accounts
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://accounts.google.com/ServiceLogin?passive=true&continue=https%3A%2F%2Fcolab.research.google.com%2Fgithub%2Fgoogle%2Fgenerative-ai-docs%2Fblob%2Fmain%2Fsite%2Fen%2Fgemma%2Fdocs%2Flora_tuning.ipynb&ec=GAZAqQM
-published_at: '2026-07-04T03:55:44.302931+05:30'
-collected_at: '2026-07-04T03:55:44.302940+05:30'
+source_url: https://takeout.google.com/settings/takeout
+published_at: '2026-07-04T16:38:18.833748+05:30'
+collected_at: '2026-07-04T16:38:18.833759+05:30'
 tags:
-- models
 - web-crawled
 status: active
 resource_id: blog:sign-in-google-accounts
-first_seen: '2026-07-04T03:55:44.302940+05:30'
-last_seen: '2026-07-04T03:55:44.302940+05:30'
-last_checked: '2026-07-04T03:55:44.302940+05:30'
+first_seen: '2026-07-04T16:38:18.833759+05:30'
+last_seen: '2026-07-04T16:38:18.833759+05:30'
+last_checked: '2026-07-04T16:38:18.833759+05:30'
 health_score: 100
 ---
 
@@ -21,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Required**: Access to the linked resource (LoRA tuning for Gemma) requires a Google Account login via [colab.research.google.com](https://colab.research.google.com).
+- **Authentication Flow**: Google's sign-in page for Google Takeout uses a **WebLiteSignIn** flow, a lightweight OAuth 2.0-based authentication process optimized for low-latency environments.
 
-- **Session Management**: Users can sign in with an email/phone or recover credentials; private browsing is recommended for shared devices.
+- **Recovery & Privacy**: Supports **username recovery** via `usernamerecovery` endpoint and enforces **Guest mode** (private browsing) to mitigate session hijacking risks.
 
-- **Account Creation**: New users can register via the provided [signup link](https://accounts.google.com/lifecycle/flows/signup).
+- **Multi-Entry Points**: Provides **SignUp** (`GlifWebSignIn`) and **SignIn** flows with **dsh** (device session handler) tokens for session continuity across redirects.
 
 ## Why It Matters
 
@@ -35,13 +34,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-04T03:55:44.302931+05:30
+- Published: 2026-07-04T16:38:18.833748+05:30
 
 ## Related Tags
 
-- models
 - web-crawled
 
 ## Source
 
-Original source: https://accounts.google.com/ServiceLogin?passive=true&continue=https%3A%2F%2Fcolab.research.google.com%2Fgithub%2Fgoogle%2Fgenerative-ai-docs%2Fblob%2Fmain%2Fsite%2Fen%2Fgemma%2Fdocs%2Flora_tuning.ipynb&ec=GAZAqQM
+Original source: https://takeout.google.com/settings/takeout

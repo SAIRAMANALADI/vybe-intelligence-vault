@@ -16,7 +16,6 @@ tags:
 - hackernews
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: A comprehensive Chinese tutorial repository (`datawhalechina/hello-agents`) focused on building intelligent agents from scratch, covering theory and practical implementation.
-- **Key Technical Components**: Integrates Python-based agent development with LLM (Large Language Models), RAG (Retrieval-Augmented Generation), and agent orchestration workflows.
-- **Project Status**: Actively maintained with 63,819 stars and 7,905 forks; last updated July 4, 2026.
+- **Educational Repository**: Provides a comprehensive tutorial on building intelligent agents from scratch, covering both theoretical principles and practical implementations.
+
+- **Technical Stack**: Utilizes Python with focus on LLM (Large Language Models), RAG (Retrieval-Augmented Generation), and agent-based architectures.
+
+- **Updated Content**: Last modified on July 4, 2026, with high community engagement (63,876 stars, 7,912 forks).
 
 ## Use Cases
 

@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent orchestration framework**: Supports agentic workflows with MCP, RAG, and LLM integrations (OpenAI, GPT-4, Gemini) via low-code/no-code Next.js/Python interfaces.
-- **Production-ready stack**: TypeScript-based backend with Next.js frontend, optimized for scalable AI automation and workflow orchestration.
-- **Extensible ecosystem**: 147K+ stars with 23K+ forks, featuring modular components for AI agents, GenAI, and automation pipelines.
+- **Agentic Workflow Platform**: Open-source, production-ready framework (TypeScript/Python) for building, deploying, and orchestrating agentic workflows with LLM integrations (OpenAI, GPT-4, Gemini) and RAG capabilities.
+
+- **Multi-Protocol Support**: Integrates MCP (Model Context Protocol), low-code/no-code tools, and Next.js-based UI for workflow development, automation, and AI agent deployment.
+
+- **Scalable Architecture**: Designed for enterprise-grade orchestration with modular components
 
 ## Use Cases
 

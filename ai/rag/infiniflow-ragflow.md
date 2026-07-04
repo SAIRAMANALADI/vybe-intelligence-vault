@@ -6,24 +6,26 @@ source_name: GitHub Discovery
 source_url: https://github.com/infiniflow/ragflow?source=post_page
 resource_id: github:infiniflow/ragflow
 -----dba899ae0355---------------------------------------
-collected_at: '2026-07-04T09:36:26.811602+05:30'
-published_at: '2026-07-04T03:51:55Z'
+collected_at: '2026-07-04T16:35:55.431907+05:30'
+published_at: '2026-07-04T11:05:51Z'
 tags:
 - agents
 - github-repo
 - go
+- hackernews
 - rag
-stars: 84231
+- workflows
+stars: 84248
 language: Go
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-12-12T06:13:13Z'
-pushed_at: '2026-07-03T13:35:53Z'
+pushed_at: '2026-07-04T09:47:43Z'
 resource_id: github:infiniflow/ragflow
-first_seen: '2026-07-04T09:36:26.811602+05:30'
-last_seen: '2026-07-04T09:36:26.811602+05:30'
-last_checked: '2026-07-04T09:36:26.811602+05:30'
+first_seen: '2026-07-04T16:35:55.431907+05:30'
+last_seen: '2026-07-04T16:35:55.431907+05:30'
+last_checked: '2026-07-04T16:35:55.431907+05:30'
 health_score: 100
 ---
 
@@ -31,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG-Engine**: Combines advanced Retrieval-Augmented Generation (RAG) with Agentic AI capabilities to enhance LLM context processing via a unified pipeline.
-- **Go-Based Architecture**: Implemented in Go for high-performance parallel processing, optimized for scalable context management in production-grade LLM applications.
-- **Agentic Context Layer**: Integrates dynamic retrieval, agent-based reasoning, and context fusion to improve LLM accuracy and adaptability in real-time applications.
+- **RAG Engine**: Open-source Retrieval-Augmented Generation (RAG) system integrating advanced RAG techniques with Agent capabilities to enhance LLM context processing.
+
+- **Technical Stack**: Implemented in Go, with features for context management, retrieval, and agentic workflows (agentic-ai, agentic-retrieval, agentic-search).
+
+- **Scalability & Use Cases**: Supports LLM applications (llm-apps) with context-engine and context-management, optimized for high-performance retrieval and generation tasks.
 
 ## Why It Matters
 
@@ -42,15 +46,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: infiniflow
-- Stars: 84231
+- Stars: 84248
 - Forks: 9796
 - Language: Go
 - Topics: agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-management, llm-apps, rag, retrieval-augmented-generation
-- Last Updated: 2026-07-04T03:51:55Z
+- Last Updated: 2026-07-04T11:05:51Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-12T06:13:13Z
-- Pushed At: 2026-07-03T13:35:53Z
+- Pushed At: 2026-07-04T09:47:43Z
 
 ## Possible Use Cases
 

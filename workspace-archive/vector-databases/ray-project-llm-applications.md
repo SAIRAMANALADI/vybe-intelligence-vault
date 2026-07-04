@@ -11,8 +11,8 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized fine-tuning techniques.
-- **Scalable Serving Architecture**: Leverages Ray’s distributed computing framework to deploy and scale LLM applications, ensuring low-latency inference and efficient resource utilization.
-- **End-to-End Tooling**: Provides Jupyter Notebook-based guides for Anyscale integrati
+- **RAG Pipeline Implementation**: Provides production-grade guidance for building Retrieval-Augmented Generation (RAG) applications using frameworks like Llama2, OpenAI, and Anyscale, with integration of Ray for distributed serving and fine-tuning.
+
+- **Modular Architecture**: Demonstrates a scalable architecture leveraging Ray’s distributed computing for LLM serving, retrieval systems, and fine-tuning workflows, optimized for performance and cost-efficiency.
+
+- **Jupyter Notebook-Based Tutoria
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-07-04T09:33:26.661029+05:30'
+collected_at: '2026-07-04T16:32:55.276976+05:30'
 published_at: '2026-07-02T00:00:20Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-07-04T09:33:26.661029+05:30'
-last_seen: '2026-07-04T09:33:26.661029+05:30'
-last_checked: '2026-07-04T09:33:26.661029+05:30'
+first_seen: '2026-07-04T16:32:55.276976+05:30'
+last_seen: '2026-07-04T16:32:55.276976+05:30'
+last_checked: '2026-07-04T16:32:55.276976+05:30'
 health_score: 100
 ---
 
@@ -28,8 +28,10 @@ health_score: 100
 ## Summary
 
 - **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
-- **Python-Based**: Entirely implemented in Python, leveraging LangChain’s modular framework for LLM orchestration and vector storage (e.g., FAISS or Chroma).
-- **Tutorial Structure**: Provides step-by-step guidance on setting up a RAG system, including document ingestion, embedding generation (e.g., with `sentence-transformers`), and query handling via a retriever-LLM loop.
+
+- **Python-Based Architecture**: Utilizes Python with LangChain’s modular components (e.g., `Retriever`, `LLMChain`) to process and generate answers from external knowledge sources.
+
+- **GitHub Repository**: Hosted at [pixegami/langchain-rag-tutorial](https://github.com/pixegami/langchain-rag-tutorial), last updated July 2, 2026, with 970 stars and 518 forks.
 
 ## Why It Matters
 
@@ -39,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: pixegami
 - Stars: 970
-- Forks: 519
+- Forks: 518
 - Language: Python
 - Topics: None
 - Last Updated: 2026-07-02T00:00:20Z

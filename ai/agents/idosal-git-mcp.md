@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-07-04T09:35:11.743646+05:30'
+collected_at: '2026-07-04T16:34:40.277204+05:30'
 published_at: '2026-07-02T18:49:01Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - typescript
+- workflows
 stars: 8229
 language: TypeScript
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-07-04T09:35:11.743646+05:30'
-last_seen: '2026-07-04T09:35:11.743646+05:30'
-last_checked: '2026-07-04T09:35:11.743646+05:30'
+first_seen: '2026-07-04T16:34:40.277204+05:30'
+last_seen: '2026-07-04T16:34:40.277204+05:30'
+last_checked: '2026-07-04T16:34:40.277204+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: GitMCP is an open-source, remote MCP server designed to mitigate code hallucinations by enabling AI agents to interact directly with GitHub repositories via a standardized protocol.
-
-- **Technical Stack**: Implemented in TypeScript, it facilitates seamless integration with AI agents (e.g., Claude, Copilot, Cursor) by exposing GitHub project resources through the MCP (Model Context Protocol) interface.
-
-- **Functionality**: Acts as a bridge between AI agents and GitHub, allowing real-time repository access, code retrieval, and version control operations to enhance accuracy and reduce hallucinations in AI-generated code.
+- **GitMCP** is a TypeScript-based, open-source **remote MCP (Model Context Protocol) server** enabling AI agents to interact with **any GitHub repository** programmatically.
+- Provides **real-time, structured access** to GitHub projects, mitigating **code hallucinations** by ensuring accurate, up-to-date context for AI tools (e.g., LLMs, Copilot, Cursor).
+- Supports **agentic workflows** via MCP, allowing seamless integration with AI-driven development tools for **repository analysis, code retrieval, and version control operations**.
 
 ## Why It Matters
 

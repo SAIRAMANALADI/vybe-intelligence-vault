@@ -11,13 +11,14 @@ tags:
 - github-trending
 - python
 - scripts
-status: active
+status: inactive
 resource_id: github:ansible/ansible
 first_seen: '2026-07-03T20:03:18.991170+05:30'
 last_seen: '2026-07-04T09:32:39.767343+05:30'
 last_checked: '2026-07-04T09:32:39.767343+05:30'
 health_score: 100
 ---
+
 
 # ansible/ansible
 

@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Hugo v0.163.3** introduces fixes for code block rendering (escaping language tags), preserves non-ASCII whitespace post-summary dividers, and adds support for `babel/postcss` config variants in resource processing.
+- **Hugo v0.163.3** includes fixes for code block rendering (escaping language tags), preservation of non-ASCII whitespace in parsers, and support for Babel/PostCSS config variants in resource processing.
 
-- **Hugo v0.163.2** resolves `ERR_ACCESS_DENIED` in Node's resolver and standardizes behavior for missing external converters in markup processing.
+- **Hugo v0.163.2** resolves `ERR_ACCESS_DENIED` issues in Node's resolver and standardizes behavior for missing external converters in markup processing.
 
-- **Hugo v0.163.1** patches security vulnerabilities (including `golang.org/x/image` updates), fixes multi `--renderSegments` mergi
+- **Hugo v0.163.1** addresses security vulnerabilities (e.g., integer IPv4 host encoding normalization, symlink handling) and fixes multi
 
 ## Use Cases
 

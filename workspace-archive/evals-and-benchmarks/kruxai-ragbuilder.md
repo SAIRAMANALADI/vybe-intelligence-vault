@@ -12,11 +12,11 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
+- dataset
 - github-repo
-- openai
+- hackernews
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose-built RAG Optimization Toolkit**: Provides a Python-based framework to construct production-grade Retrieval Augmented Generation (RAG) pipelines, optimizing data ingestion, retrieval, and generation workflows.
+- **Purpose-built RAG Optimization**: Provides a Python-based toolkit for constructing production-grade Retrieval Augmented Generation (RAG) pipelines tailored to specific datasets, optimizing retrieval and generation performance.
 
-- **Modular Architecture**: Implements configurable components (e.g., embedders, retrievers, LLMs) with extensible APIs for customization, supporting integration with vector databases (e.g., FAISS, Pinecone) and LLMs (e.g., Hugging Face, OpenAI).
+- **Modular Architecture**: Implements a flexible framework with configurable components (e.g., embedders, retrievers, LLMs) to streamline end-to-end RAG deployment with minimal overhead.
 
-- **Performance & Scalability
+- **Key Features**: Supports advanced techniques like dynamic chunking, hybrid
 
 ## Use Cases
 

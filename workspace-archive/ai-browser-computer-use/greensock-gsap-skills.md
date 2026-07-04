@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **GSAP AI Skills Repository**: Provides structured AI training for GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration to optimize AI agent coding efficiency.
-
-- **Technical Scope**: Focuses on teaching AI agents to generate GSAP-compliant animations, including advanced techniques like timeline management, performance optimization, and cross-browser compatibility.
-
-- **Repository Metrics**: 10,810 stars, 635 forks; last updated July 4, 2026,
+- **GSAP AI Skills Repository**: Provides structured AI training for GSAP, covering animation best practices, common patterns, and plugin integration.
+- **Technical Focus**: Designed to enable AI coding agents to autonomously generate GSAP-compliant animations with optimized performance.
+- **Last Updated**: July 4, 2026 (v11.04.37), ensuring alignment with GSAP’s latest features and methodologies.
 
 ## Use Cases
 

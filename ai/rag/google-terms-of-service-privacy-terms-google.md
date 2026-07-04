@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://policies.google.com/terms
-published_at: '2026-07-03T20:09:06.210143+05:30'
-collected_at: '2026-07-03T20:09:06.210158+05:30'
+published_at: '2026-07-04T16:37:11.926600+05:30'
+collected_at: '2026-07-04T16:37:11.926616+05:30'
 tags:
 - hackernews
 - paper
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-terms-of-service-privacy-terms-google
-first_seen: '2026-07-03T20:09:06.210158+05:30'
-last_seen: '2026-07-03T20:09:06.210158+05:30'
-last_checked: '2026-07-03T20:09:06.210158+05:30'
+first_seen: '2026-07-04T16:37:11.926616+05:30'
+last_seen: '2026-07-04T16:37:11.926616+05:30'
+last_checked: '2026-07-04T16:37:11.926616+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Service Provider & Legal Framework**: Google LLC (Delaware-registered) operates under U.S. laws, providing services under a contractual agreement where users agree to Terms of Service (effective May 22, 2024) and must comply with age requirements (parental consent for minors).
+- **Service Provider & Jurisdiction**: Google LLC (Delaware-registered, US-based) provides services under US laws, with contractual obligations defined in the Terms of Service (effective May 22, 2024).
 
-- **Service Usage & Compliance**: Users must adhere to Google’s Terms, Privacy Policy, and service-specific policies (e.g., Generative AI Prohibited Use Policy), while respecting intellectual property, privacy rights, and prohibitions against abuse (e.g., malware, phishing, reverse engineering).
+- **Content & AI Usage Restrictions**: Users must comply with prohibitions on reverse engineering, automated scraping, or using Google-generated content to train AI models; violations include prompt injection, jailbreaking, or adversarial attacks.
 
-- **Content & Licensing**: Users retain intellectual property rights over their content but grant Google a license to host, process, and distribute it under defined terms; automated extraction (e.g., scraping) or AI model training using Google’s content is restricted.
+- **User Responsibilities & Enforcement**: Users agree to respect privacy/IP rights, avoid abuse (e.g., malware, phishing), and report violations; Google reserves rights to terminate access for non-compliance while providing export tools (e.g., Google Takeout) for user content.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T20:09:06.210143+05:30
+- Published: 2026-07-04T16:37:11.926600+05:30
 
 ## Related Tags
 

@@ -9,13 +9,14 @@ collected_at: '2026-07-04T09:32:39.770968+05:30'
 tags:
 - github-trending
 - java
-status: active
+status: inactive
 resource_id: github:apache/maven
 first_seen: '2026-07-03T20:03:18.991963+05:30'
 last_seen: '2026-07-04T09:32:39.770968+05:30'
 last_checked: '2026-07-04T09:32:39.770968+05:30'
 health_score: 100
 ---
+
 
 # apache/maven
 

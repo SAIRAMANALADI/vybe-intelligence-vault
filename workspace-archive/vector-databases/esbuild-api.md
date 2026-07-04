@@ -2,7 +2,7 @@
 title: esbuild - API
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://esbuild.github.io/api/#external
+source_url: https://esbuild.github.io/api/#main-fields
 resource_id: blog:esbuild-api
 local_vault_path: ai/rag/esbuild-api.md
 quality_score: 70
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- Esbuild provides three language interfaces (CLI, JavaScript, Go) with identical core concepts but language-specific syntax; CLI flags support `--foo`, `--foo=bar`, or `--foo:bar` formats for boolean, single-value, and multi-value parameters respectively.
+- **API Access & Syntax**: Esbuild provides identical APIs across CLI, JavaScript, and Go, with CLI flags supporting `--foo`, `--foo=bar`, or `--foo:bar` formats for boolean, single-value, and multi-value parameters respectively; shell-specific argument interpretation risks can be avoided by using JS/Go APIs.
 
-- The primary APIs are `build` (file-based bundling/transformation) and `transform` (in-memory code transformation), with incremental build modes (`watch`, `serve`, `rebuild`) enabled via a shared `context` object for optimized development wo
+- **Core APIs**: Primary interfaces are `build` (file-based bundling/transformation with incremental modes: watch, serve, rebuild) and `transform` (in-memory code transformation for isolat
 
 ## Use Cases
 
@@ -44,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://esbuild.github.io/api/#external
+Original source URL: https://esbuild.github.io/api/#main-fields
 
 ## Local Vault File
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-04T09:33:56.755342+05:30'
+collected_at: '2026-07-04T16:33:25.252177+05:30'
 published_at: '2026-06-30T01:41:05Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-04T09:33:56.755342+05:30'
-last_seen: '2026-07-04T09:33:56.755342+05:30'
-last_checked: '2026-07-04T09:33:56.755342+05:30'
+first_seen: '2026-07-04T16:33:25.252177+05:30'
+last_seen: '2026-07-04T16:33:25.252177+05:30'
+last_checked: '2026-07-04T16:33:25.252177+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- Implements a **Streamlit-based RAG pipeline** using **LangChain** for document retrieval and generation, integrating a **vector store** for semantic search and a **hybrid search** mechanism (combining vector and keyword-based retrieval).
-
-- Demonstrates **end-to-end workflow** from document ingestion (via `UnstructuredFileLoader` or similar) to **retrieval-augmented generation (RAG)** using a **LLM** (e.g., OpenAI, HuggingFace) with **retriever** and **chain** abstractions.
-
-- Features **interactive UI** for querying, displaying retrieved context, and streaming generated responses, with **hybrid search tuning** (e.g., adjusting `k` for top-k retrieval or weighting between dense/sparse retrievers).
+- Implements a **Streamlit-based RAG pipeline** using **LangChain** for document retrieval and generation, integrating a **vector store** (e.g., FAISS, Chroma) for semantic search.
+- Supports **hybrid search** (combining keyword and vector similarity) to enhance retrieval accuracy, with configurable parameters for chunking, embeddings (e.g., OpenAI, HuggingFace), and LLM backends.
+- Demonstrates **end-to-end workflow**: document ingestion → embedding → vector store → retrieval → LLM generation, with a Streamlit UI for interactive querying and result visualization.
 
 ## Why It Matters
 

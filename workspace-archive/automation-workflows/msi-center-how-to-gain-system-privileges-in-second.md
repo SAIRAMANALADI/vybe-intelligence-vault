@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by MrBruh. Score: 40, Comments: 9.
+Hacker News story by MrBruh. Score: 95, Comments: 28.
 Original Link: https://mrbruh.com/msicenter/
 
 ## Use Cases

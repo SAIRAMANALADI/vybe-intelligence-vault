@@ -5,9 +5,9 @@ source_type: web
 source_name: Web Discovery
 source_url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page
 resource_id: blog:medium-privacy-policy-by-medium-medium-policy
----top_nav_layout_nav-----------------------------------------
-published_at: '2026-07-04T09:36:37.836680+05:30'
-collected_at: '2026-07-04T09:36:37.836692+05:30'
+-----d10bb5769280---------------------------------------
+published_at: '2026-07-04T16:36:02.505491+05:30'
+collected_at: '2026-07-04T16:36:02.505505+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:medium-privacy-policy-by-medium-medium-policy
-first_seen: '2026-07-04T09:36:37.836692+05:30'
-last_seen: '2026-07-04T09:36:37.836692+05:30'
-last_checked: '2026-07-04T09:36:37.836692+05:30'
+first_seen: '2026-07-04T16:36:02.505505+05:30'
+last_seen: '2026-07-04T16:36:02.505505+05:30'
+last_checked: '2026-07-04T16:36:02.505505+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection & Sources**: Medium collects user-provided data (e.g., name, email, content) and automatically gathers activity, transactional, device, and usage data via cookies, web beacons, and third-party analytics tools. It also derives inferences (e.g., location, preferences) and integrates data from social platforms (e.g., Apple, Facebook) upon user authorization.
+- **Data Collection & Sources**: Medium collects personal data directly (e.g., account details, user-generated content) and automatically (e.g., IP addresses, device identifiers, cookies) from interactions, third-party platforms (via OAuth), and analytics providers. Payment data is processed by third-party processors, governed by their policies.
 
-- **Data Sharing & Third-Party Embeds**: Personal data is shared with vendors (e.g., analytics, fraud prevention), affiliates, or under legal obligation. Third-party embeds (e.g., YouTube videos) transmit user interaction data to external hosts, governed by their policies. Aggregated/de-identified data may also be shared.
+- **Data Processing & Sharing**: Information is used for service provision, personalization, and legal compliance. Shared with third parties (vendors, affiliates, legal entities) for infrastructure, analytics, fraud prevention, and mergers/acquisitions. Aggregated/de-identified data may be disclosed without user identification.
 
-- **Data Transfers & User Controls**: Medium transfers data globally (e.g., to AWS data centers) with safeguards. Users can access, correct, or delete account data, opt out of communications, or disable cookies, though some functionality may be impacted. California residents have additional rights under CCPA.
+- **User Controls & Transfers**: Users can access, correct, or delete account data. Cookie preferences and communication opt-outs are configurable. Data may be transferred/stored in jurisdictions with varying privacy protections (e.g., U.S. AWS data centers), with safeguards for adequacy.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T09:36:37.836680+05:30
+- Published: 2026-07-04T16:36:02.505491+05:30
 
 ## Related Tags
 
@@ -52,4 +52,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page---top_nav_layout_nav-----------------------------------------
+Original source: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----d10bb5769280---------------------------------------

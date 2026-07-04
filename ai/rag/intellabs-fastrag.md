@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IntelLabs/fastRAG
-collected_at: '2026-07-04T09:34:31.771566+05:30'
+collected_at: '2026-07-04T16:34:00.296577+05:30'
 published_at: '2026-07-02T18:17:56Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
 stars: 1784
 language: Python
 status: active
@@ -21,9 +19,9 @@ archived: true
 created_at: '2023-01-23T16:25:35Z'
 pushed_at: '2026-01-12T19:58:22Z'
 resource_id: github:intellabs/fastrag
-first_seen: '2026-07-04T09:34:31.771566+05:30'
-last_seen: '2026-07-04T09:34:31.771566+05:30'
-last_checked: '2026-07-04T09:34:31.771566+05:30'
+first_seen: '2026-07-04T16:34:00.296577+05:30'
+last_seen: '2026-07-04T16:34:00.296577+05:30'
+last_checked: '2026-07-04T16:34:00.296577+05:30'
 health_score: 100
 ---
 
@@ -31,17 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: `fastRAG` is a Python-based, efficient **Retrieval-Augmented Generation (RAG)** framework optimized for large-scale **NLP/LLM** tasks, integrating **semantic search**, **multi-modal retrieval**, and **generative AI** with support for **ColBERT**, **sentence-transformers**, and **knowledge graphs**.
+- **Framework Overview**: `fastRAG` is an efficient Python-based framework for **Retrieval Augmented Generation (RAG)**, optimized for large-scale **multi-modal** and **NLP** tasks, including **question-answering**, **summarization**, and **semantic search**, leveraging **transformers** and **sentence embeddings**.
 
-- **Key Features**:
-  - **High-performance retrieval** via optimized indexing and **multi-stage retrieval pipelines** (e.g., dense/sparse retrieval hybrids).
-  - **Modular architecture** supporting **question-answering**, **summarization**, and **diffusion-based generative tasks** with pluggable components.
-  - **Benchmarking tools** for evaluating **LLM** and **retrieval** performance across domains (e.g., **information retrieval**, **knowledge-intensive tasks**).
+- **Key Features**: Integrates **ColBERT** for **retrieval**, supports **knowledge graphs**, and includes **diffusion-based** generative models; designed for **low-latency** and **scalable** inference with **multi-modal** capabilities.
 
-- **Technical Stack**:
-  - Built on **PyTorch** with **HuggingFace Transformers** integration.
-  - Supports **distributed inference** and **GPU/TPU acceleration** for scalable RAG workflows.
-  - Includes **pre-trained models** and **customizable pipelines** for domain adaptation.
+- **Benchmarking & Extensibility**: Provides **benchmarking tools** for RAG pipelines, supports **semantic search** and **information retrieval**, and is modular for integration with **LLMs** and custom **retriever-generator** architectures.
 
 ## Why It Matters
 
