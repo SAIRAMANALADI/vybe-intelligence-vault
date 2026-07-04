@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
 - meta-ai
 - mistral
@@ -35,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates Langchain-based RAG pipeline leveraging locally hosted LLMs (e.g., Llama, Mistral) via Ollama or vLLM for offline inference.
-- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma, FAISS) refresh pipelines to incorporate new documents without full rebuilds.
-- **Testing Framework**: Includes unit/integration tests (e.g., pytest) for retrieval accuracy, prompt engineering, and end-to-end RAG performance validation.
+- **Local LLM Integration**: Demonstrates a RAG pipeline leveraging local language models (e.g., Llama, Mistral) via Ollama or LM Studio for offline inference, reducing dependency on cloud APIs.
+
+- **Dynamic Database Updates**: Implements a retriever system with ChromaDB or FAISS for vector storage, enabling real-time document ingestion and embedding updates without full re-indexing.
+
+- **Testing & Evaluation Framework**: Includes unit tests (e.g., `pytest`) and RAGAS metrics for assessing retri
 
 ## Use Cases
 

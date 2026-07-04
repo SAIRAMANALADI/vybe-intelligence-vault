@@ -28,9 +28,11 @@ selection_reason:
 
 ## Summary
 
-- **All-in-one AI framework** integrating semantic search, LLM orchestration, and language model workflows with Python-based modular architecture.
-- **Key features** include embeddings, vector search, RAG, sentence-transformers, and transformer-based NLP pipelines with support for agents and AI workflows.
-- **Optimized for scalability** with vector database integration, enabling efficient retrieval-augmented generation (RAG) and large-scale semantic search.
+- **Framework Overview**: `txtai` is a Python-based AI framework integrating semantic search, LLM orchestration, and end-to-end language model workflows with modular components for embeddings, retrieval, and generation.
+
+- **Core Capabilities**: Supports RAG pipelines, vector search via embeddings (e.g., Sentence Transformers), and transformer-based NLP tasks, with built-in vector database integration for scalable retrieval.
+
+- **Extensibility**: Enables AI agent development, hybrid search (sema
 
 ## Use Cases
 

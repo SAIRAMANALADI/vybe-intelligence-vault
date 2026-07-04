@@ -13,7 +13,6 @@ importance: medium
 tags:
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -32,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Runtime helpers & .astro dialect**: Meno-Astro provides runtime utilities and a round-trippable `.astro` dialect for parsing/emitting Astro files, enabling Meno to treat `.astro` files as a source-of-truth format.
+- **Runtime Helpers & Astro Dialect**: Meno-Astro provides runtime utilities and a round-trippable `.astro` dialect for parsing/emitting Astro files, enabling Meno to treat `.astro` files as a source-of-truth format.
 
-- **Integration capability**: Facilitates seamless integration of Astro files into Meno's workflow by leveraging Astro's syntax and structure for consistency and reusability.
+- **Integration Mechanism**: Facilitates seamless integration between Meno and Astro by leveraging Astro's syntax for configuration and content management.
 
-- **Adoption metrics**: Garnering significant traction with **4.8K weekly downloads**, indicating growing
+- **Adoption Metrics**: Garnering ~5.4K weekly downloads, indicating growing adoption in the Astro ecosystem.
 
 ## Use Cases
 

@@ -13,8 +13,8 @@ LangGraph, CrewAI, AutoGen, Microsoft Semantic Kernel.
 *   [Installation | Haystack Documentation](https://docs.haystack.deepset.ai/docs/installation)
 *   [haystack-tutorials/Contributing.md at main · deepset-ai/haystack-tutorials · GitHub](https://github.com/deepset-ai/haystack-tutorials/blob/main/Contributing.md#contributing-to-haystack-tutorials)
 *   [Haystack](https://discord.com/invite/Dr63fr9NDS)
+*   [deepset, makers of Haystack - YouTube](https://www.youtube.com/channel/UC5dfn9m310oyt-cbeegfvZw)
 *   [deepset-ai/haystack-experimental](https://github.com/deepset-ai/haystack-experimental)
-*   [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers)
 
 ## Project Ideas
 *   A researcher agent that scrapes hacker news and compiles summaries into markdown.

@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform agent infrastructure**: Provides sandboxed environments, SDKs, and benchmarks for training/evaluating AI agents capable of full desktop control on macOS, Linux, and Windows via containerization and virtualization (e.g., Windows Sandbox, Apple Virtualization Framework).
+- **Cross-platform agent infrastructure**: Provides sandboxes, SDKs, and benchmarks for training/evaluating AI agents capable of controlling full desktop environments (macOS, Linux, Windows) via containerization and virtualization (Apple Virtualization Framework, Windows Sandbox).
 
-- **Modular tooling**: Includes `lume` (agent framework) and `manus` (agent runtime) with Swift-based macOS support, enabling agent development, testing, and deployment across heterogeneous desktop OS environme
+- **Multi-language toolchain**: Integrates Swift (macOS), Windows-specific automation tools, and HTML-based interfaces, enabling agent development across heterogeneous OS environments.
+
+- **Benchmarking & automation f
 
 ## Use Cases
 

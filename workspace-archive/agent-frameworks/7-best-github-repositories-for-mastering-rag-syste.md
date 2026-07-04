@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Open-source LLM toolkit (MIT license) with 70K+ GitHub stars, offering modular components (prompt templates, LLM wrappers, vector stores) for building RAG pipelines, supporting Python/JS/TS and integrations with OpenAI, Hugging Face, Azure.
+- **LangChain**: Open-source LLM toolkit (MIT license) with 70K+ GitHub stars, enabling end-to-end RAG pipelines via modular components (e.g., prompt templates, LLM wrappers, vector stores) and multi-language support (Python, JS/TS).
 
-- **RAG Framework Functionality**: Enhances LLMs by integrating external knowledge sources (documents/APIs) to generate contextually accurate, up-to-date responses, mitigating hallucinations and knowledge cut-off issues via retrieval-augment
+- **RAG Architecture**: Integrates external knowledge retrieval with LLMs to mitigate hallucinations and knowledge cutoff, dynamically sourcing contextually relevant data for accurate, domain-specific responses.
+
+- **Top RAG Repositories**: Highlights GitHub framew
 
 ## Use Cases
 

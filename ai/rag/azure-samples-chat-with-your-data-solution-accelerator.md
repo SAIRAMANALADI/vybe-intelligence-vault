@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-07-04T16:33:45.290414+05:30'
+collected_at: '2026-07-04T19:30:50.151538+05:30'
 published_at: '2026-06-30T16:43:51Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
-- reddit
 - workflows
 stars: 1172
 language: Python
@@ -19,11 +18,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-07-04T00:56:12Z'
+pushed_at: '2026-07-04T13:54:51Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-07-04T16:33:45.290414+05:30'
-last_seen: '2026-07-04T16:33:45.290414+05:30'
-last_checked: '2026-07-04T16:33:45.290414+05:30'
+first_seen: '2026-07-04T19:30:50.151538+05:30'
+last_seen: '2026-07-04T19:30:50.151538+05:30'
+last_checked: '2026-07-04T19:30:50.151538+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,9 @@ health_score: 100
 
 - **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A, following best practices for production-grade RAG systems.
 
-- **Key Components**: Includes **Python-based** solution with **AZD templates** for deployment, integrating Azure AI Search for vector/keyword retrieval and Azure OpenAI for LLM-powered responses.
+- **Key Components**: Includes **Python-based** solution with **AZD templates** for deployment, integrating Azure services (AI Search, OpenAI) for scalable, end-to-end RAG workflows.
 
-- **Features**: Supports **ChatGPT-style interactions** and **Q&A workflows**, with pre-configured requirements like indexing, retrieval, and prompt engineering for scalable, enterprise-grade deployments.
+- **Features**: Supports **ChatGPT-style interactions** and **Q&A experiences**, with pre-configured retrieval pipelines, vector search, and LLM prompting optimized for Azure OpenAI models.
 
 ## Why It Matters
 
@@ -52,7 +51,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-07-04T00:56:12Z
+- Pushed At: 2026-07-04T13:54:51Z
 
 ## Possible Use Cases
 

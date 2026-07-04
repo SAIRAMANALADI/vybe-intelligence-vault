@@ -14,6 +14,7 @@ tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Evaluates multi-turn Retrieval-Augmented Generation (RAG) systems, focusing on conversational context retention and iterative retrieval quality.
-- **Implementation**: Python-based benchmark with standardized metrics for assessing multi-turn RAG pipelines, including retrieval relevance and response coherence.
-- **Dataset/Tasks**: Includes synthetic and real-world multi-turn conversational datasets with ground-truth annotations for end-to-end RAG evaluation.
+- **Benchmark Purpose**: Evaluates multi-turn Retrieval-Augmented Generation (RAG) systems, focusing on conversational context retention and iterative retrieval quality.
+- **Technical Scope**: Implements Python-based pipelines for multi-turn interactions, including dynamic query reformulation and context-aware retrieval evaluation.
+- **Dataset & Metrics**: Provides standardized datasets and metrics (e.g., answer correctness, retrieval precision) to assess RAG performance across multi-turn dialog
 
 ## Use Cases
 

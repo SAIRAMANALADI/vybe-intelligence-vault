@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated list of AI-powered web search tools** leveraging LLMs, RAG, and metasearch techniques for enhanced information retrieval and question-answering.
-- **Includes generative AI projects** for web search, covering topics like artificial intelligence, retrieval-augmented generation, and LLM inference.
-- **Open-source repository** (HTML-based) with 1,365 stars, last updated July 4, 2026, providing a structured directory of tools for AI-driven web search.
+- **Curated list** of AI-powered web search tools leveraging LLMs, RAG, and metasearch techniques for enhanced information retrieval and question-answering.
+- **Covers generative AI tools** for web search, including inference-based models and retrieval-augmented generation (RAG) pipelines.
+- **GitHub repository** (HTML-based) with 1,365 stars, last updated July 4, 2026, focusing on AI search engines and generative AI projects.
 
 ## Use Cases
 

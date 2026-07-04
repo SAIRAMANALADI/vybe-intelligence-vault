@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/llm-universe
-collected_at: '2026-07-04T16:32:40.387286+05:30'
+collected_at: '2026-07-04T19:29:45.157476+05:30'
 published_at: '2026-07-04T08:16:36Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2023-10-29T16:01:22Z'
 pushed_at: '2026-02-24T14:33:21Z'
 resource_id: github:datawhalechina/llm-universe
-first_seen: '2026-07-04T16:32:40.387286+05:30'
-last_seen: '2026-07-04T16:32:40.387286+05:30'
-last_checked: '2026-07-04T16:32:40.387286+05:30'
+first_seen: '2026-07-04T19:29:45.157476+05:30'
+last_seen: '2026-07-04T19:29:45.157476+05:30'
+last_checked: '2026-07-04T19:29:45.157476+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ health_score: 100
 
 - **Technical Focus**: Covers key topics in LLM application development, specifically **LangChain** and **RAG (Retrieval-Augmented Generation)** pipelines.
 
-- **Repository Metrics**: Highly active with **13,394 stars** and **1,371 forks**, last updated on **2026-07-04**, indicating strong community engagement and maintenance.
+- **Repository Metrics**: Highly active community with **13,394 stars**, **1,371 forks**, and last updated on **2026-07-04**.
 
 ## Why It Matters
 

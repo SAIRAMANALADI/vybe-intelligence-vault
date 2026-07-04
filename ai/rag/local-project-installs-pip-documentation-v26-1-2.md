@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pip.pypa.io/en/stable/topics/local-project-installs/#editable-installs
-published_at: '2026-07-02T20:08:11.498625+05:30'
-collected_at: '2026-07-02T20:08:11.498639+05:30'
+published_at: '2026-07-04T19:34:04.488254+05:30'
+collected_at: '2026-07-04T19:34:04.488268+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:local-project-installs-pip-documentation-v26-1-2
-first_seen: '2026-07-02T20:08:11.498639+05:30'
-last_seen: '2026-07-02T20:08:11.498639+05:30'
-last_checked: '2026-07-02T20:08:11.498639+05:30'
+first_seen: '2026-07-04T19:34:04.488268+05:30'
+last_seen: '2026-07-04T19:34:04.488268+05:30'
+last_checked: '2026-07-04T19:34:04.488268+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Regular Install**: Installs a local project into the Python environment by copying files, mimicking a standard package installation (`pip install path/to/project`). Used in CI/CD and deployments for accurate environment replication.
+- **Regular Install**: Installs a local project into Python's environment by copying files, mimicking a standard package installation (`pip install path/to/project`). Ideal for CI/CD and deployments due to consistent behavior.
 
-- **Editable Install**: Installs a local project in "development mode" (`pip install -e path/to/project`), adding the project directory to Python’s import path without copying files, ideal for active development.
+- **Editable Install**: Installs a local project in "development mode" (`pip install -e path/to/project`), linking files directly from the source directory to Python's import path without copying, enabling live code changes during development.
 
-- **Build Artifacts & Backend Behavior**: Post-pip v21.3, local builds invoke the build system in-place, improving speed but potentially littering directories with artifacts (e.g., `.egg-info`) and disrupting parallel builds in backends like `setuptools`.
+- **Build Artifacts**: Modern pip (v21.3+) builds projects in-place, improving speed but potentially cluttering directories with backend-specific artifacts (e.g., `.egg-info`) and disrupting parallel builds for certain backends like `setuptools`.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T20:08:11.498625+05:30
+- Published: 2026-07-04T19:34:04.488254+05:30
 
 ## Related Tags
 

@@ -4,22 +4,22 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pypa/pip
-collected_at: '2026-07-02T04:17:19.436508+05:30'
-published_at: '2026-07-01T19:03:49Z'
+collected_at: '2026-07-04T19:34:27.251669+05:30'
+published_at: '2026-07-04T04:33:35Z'
 tags:
 - github-repo
 - python
-stars: 10220
+stars: 10226
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2011-03-06T14:30:46Z'
-pushed_at: '2026-07-01T19:03:17Z'
+pushed_at: '2026-07-04T02:53:49Z'
 resource_id: github:pypa/pip
-first_seen: '2026-07-02T04:17:19.436508+05:30'
-last_seen: '2026-07-02T04:17:19.436508+05:30'
-last_checked: '2026-07-02T04:17:19.436508+05:30'
+first_seen: '2026-07-04T19:34:27.251669+05:30'
+last_seen: '2026-07-04T19:34:27.251669+05:30'
+last_checked: '2026-07-04T19:34:27.251669+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Functionality**: `pip` is the default package manager for Python, facilitating the installation, upgrade, and removal of Python packages from PyPI (Python Package Index) and other repositories.
-- **Dependency Resolution**: Implements a dependency resolver to handle complex package interdependencies, ensuring compatible versions are installed while avoiding conflicts.
-- **CLI & API**: Provides a command-line interface (`pip install <package>`) and a Python API (`pip._internal`), with modular design for extensibility and integration into other tools.
+- **Primary Function**: `pip` is the default package installer for Python, enabling installation, management, and removal of Python packages from PyPI and other repositories via CLI commands (e.g., `pip install`, `pip uninstall`).
+
+- **Core Architecture**: Written in Python, `pip` relies on `setuptools` and `wheel` for package resolution, dependency management, and installation, while using `PEP 517/518` for modern build system integration.
+
+- **Key Features**: Supports virtual environments, editable installs (`pip install -e`), dependency resolution via `pipdeptree`, and integrates with `pip cache` for optimized package retrieval.
 
 ## Why It Matters
 
@@ -38,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pypa
-- Stars: 10220
-- Forks: 3302
+- Stars: 10226
+- Forks: 3313
 - Language: Python
 - Topics: packaging, pip, python
-- Last Updated: 2026-07-01T19:03:49Z
+- Last Updated: 2026-07-04T04:33:35Z
 - License: MIT
 - Archived: No
 - Created At: 2011-03-06T14:30:46Z
-- Pushed At: 2026-07-01T19:03:17Z
+- Pushed At: 2026-07-04T02:53:49Z
 
 ## Possible Use Cases
 

@@ -13,10 +13,9 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
+- models
 - openai
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Repository provides introductory examples for constructing LLM-based AI agents, serving as a beginner's guide to LLM development with foundational concepts.
-- **Technical Scope**: Examples are implemented in Jupyter Notebooks, covering basic agent architectures and workflows for NLP/LLM applications.
-- **Resources**: Directs users to OpenAI Cookbook and LangChain Examples for advanced implementations due to rapid LLM development advancements.
+- **Purpose**: Repository provides introductory examples for building LLM-based AI agents, designed as a beginner-friendly guide for LLM application development (e.g., *大模型应用开发 动手做AI Agent*).
+- **Content**: Contains simple starter code in Jupyter Notebooks, focusing on foundational concepts rather than exhaustive implementations.
+- **Resources**: Directs users to more advanced examples (e.g., OpenAI Cookbook, LangChain) for deeper exploration due to rapid LLM development trends.
 
 ## Use Cases
 

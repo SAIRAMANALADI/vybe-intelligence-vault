@@ -4,15 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-07-04T16:34:40.277204+05:30'
-published_at: '2026-07-02T18:49:01Z'
+collected_at: '2026-07-04T19:31:45.123553+05:30'
+published_at: '2026-07-04T13:50:22Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - typescript
-- workflows
-stars: 8229
+stars: 8228
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-07-04T16:34:40.277204+05:30'
-last_seen: '2026-07-04T16:34:40.277204+05:30'
-last_checked: '2026-07-04T16:34:40.277204+05:30'
+first_seen: '2026-07-04T19:31:45.123553+05:30'
+last_seen: '2026-07-04T19:31:45.123553+05:30'
+last_checked: '2026-07-04T19:31:45.123553+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **GitMCP** is a TypeScript-based, open-source **remote MCP (Model Context Protocol) server** enabling AI agents to interact with **any GitHub repository** programmatically.
-- Provides **real-time, structured access** to GitHub projects, mitigating **code hallucinations** by ensuring accurate, up-to-date context for AI tools (e.g., LLMs, Copilot, Cursor).
-- Supports **agentic workflows** via MCP, allowing seamless integration with AI-driven development tools for **repository analysis, code retrieval, and version control operations**.
+- **GitMCP**: Open-source TypeScript-based MCP server enabling remote access to any GitHub repository, designed to mitigate "code hallucinations" in AI agents by providing accurate, real-time code context.
+- **Integration**: Facilitates seamless interaction with AI tools (e.g., Claude, Copilot, Cursor) via MCP protocol, allowing agents to fetch, analyze, and modify GitHub-hosted codebases dynamically.
+- **Features**: Supports repository-level operations (e.g., file retrieval, diff analysis, commit history) while ensuring low-latency, authenticated access to private/public GitHub projects.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: idosal
-- Stars: 8229
+- Stars: 8228
 - Forks: 728
 - Language: TypeScript
 - Topics: agentic-ai, agents, ai, claude, copilot, cursor, git, llm, mcp
-- Last Updated: 2026-07-02T18:49:01Z
+- Last Updated: 2026-07-04T13:50:22Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-03-29T00:44:19Z

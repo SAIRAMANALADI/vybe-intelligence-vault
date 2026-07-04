@@ -6,7 +6,7 @@ source_url: https://ai.google.dev/
 resource_id: blog:gemini-developer-api-gemma-open-models-google-ai-f
 local_vault_path: ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -17,6 +17,7 @@ tags:
 - models
 - rag
 - reddit
+- scripts
 - web-crawled
 - workflows
 - youtube
@@ -30,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -38,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Gemini API Integration**: Enables developers to integrate cutting-edge AI models (Gemini, Imagen, Veo) into applications via API keys for generative AI capabilities, with support for multimodal inputs and outputs.
-
-- **On-Device AI with Google AI Edge**: Supports deployment of lightweight AI models (e.g., **Gemini Nano**) across mobile, web, and embedded systems using Chrome APIs and Android frameworks, ensuring low-latency, privacy-preserving inference.
-
-- **Responsible AI Development**: Pr
+- **Gemini API Integration**: Provides access to advanced AI models (Gemini, Imagen, Veo) via API for app integration, enabling rapid prototyping, prompt development, and code generation through Google AI Studio.
+- **On-Device & Edge AI Deployment**: Supports running AI models locally (Gemini Nano on Android, Chrome APIs) and across frameworks via Google AI Edge for low-latency, privacy-preserving applications.
+- **Responsible AI & Productivity Tools**: Offers frameworks (SAIF, Responsible GenAI
 
 ## Use Cases
 

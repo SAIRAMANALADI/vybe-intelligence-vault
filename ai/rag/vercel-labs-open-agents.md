@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/open-agents
-collected_at: '2026-07-04T03:50:42.418324+05:30'
+collected_at: '2026-07-04T19:32:00.190866+05:30'
 published_at: '2026-07-03T17:18:50Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-12-26T17:01:07Z'
 pushed_at: '2026-06-17T21:25:51Z'
 resource_id: github:vercel-labs/open-agents
-first_seen: '2026-07-04T03:50:42.418324+05:30'
-last_seen: '2026-07-04T03:50:42.418324+05:30'
-last_checked: '2026-07-04T03:50:42.418324+05:30'
+first_seen: '2026-07-04T19:32:00.190866+05:30'
+last_seen: '2026-07-04T19:32:00.190866+05:30'
+last_checked: '2026-07-04T19:32:00.190866+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a TypeScript-based open-source template for constructing cloud-native AI agents with background processing capabilities.
-- **Key Features**: Supports agent orchestration, AI model integration, and scalable background task execution via Vercel’s serverless infrastructure.
-- **Architecture**: Leverages Vercel’s platform for deployment, enabling real-time agent interactions with persistent background processes.
+- **Purpose**: Open-source TypeScript template for constructing cloud-based AI agents with background processing capabilities.
+- **Architecture**: Leverages Vercel's serverless infrastructure for scalable, event-driven agent execution.
+- **Features**: Supports persistent agent states, background tasks, and integrates with AI models via standardized interfaces.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: vercel-labs
 - Stars: 5699
-- Forks: 737
+- Forks: 738
 - Language: TypeScript
 - Topics: agent, agents, ai, background-agents
 - Last Updated: 2026-07-03T17:18:50Z

@@ -8,10 +8,11 @@ local_vault_path: ai/rag/aws-samples-amazon-bedrock-samples.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: prompt
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - models
 - rag
@@ -26,17 +27,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: prompt
+- Resource kind: benchmark
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples for all available foundational models in Amazon Bedrock, enabling quick customer onboarding and experimentation.
-
-- **Multi-Model & Use Case Support**: Includes implementations for Amazon Titan, embeddings, generative AI, knowledge bases, and retrieval-augmented generation (RAG) with LangChain integration.
-
-- **AWS Best Practices**: Demonstrates AWS-recommended patterns for leveraging Bedrock’s capab
+- **Repository Content**: Provides starter examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) with implementations in Jupyter Notebooks.
+- **Key Features**: Includes examples for embeddings, generative AI, knowledge bases, and Retrieval-Augmented Generation (RAG) using LangChain integration.
+- **Technical Scope**: Focuses on AWS Bedrock service integration, model fine-tuning, and deployment patterns for generative AI workflows.
 
 ## Use Cases
 

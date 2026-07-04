@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by gslin. Score: 293, Comments: 178.
+Hacker News story by gslin. Score: 488, Comments: 303.
 Original Link: https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/
 
 ## Use Cases

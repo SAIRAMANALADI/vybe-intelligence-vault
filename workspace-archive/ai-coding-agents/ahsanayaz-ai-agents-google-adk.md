@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 selection_reason:
 - Active open-source repository
@@ -31,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Demonstrates Google ADK (Agent Development Kit) implementation for a marketing campaign assistant agent.
-- **Technical Stack**: Python-based repository with no additional topics or dependencies specified.
-- **Metadata**: 62 stars, 34 forks, last updated on 2026-06-30.
+- **Purpose**: Demonstrates Google ADK (Agent Development Kit) implementation with a marketing campaign assistant agent using Python.
+- **Repository Stats**: 62 stars, 34 forks, last updated on 2026-06-30.
+- **Tech Stack**: Python-based, no additional topics specified.
 
 ## Use Cases
 

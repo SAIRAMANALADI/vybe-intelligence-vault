@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SciPhi-AI/R2R
-collected_at: '2026-07-04T16:34:20.286493+05:30'
+collected_at: '2026-07-04T19:31:25.148078+05:30'
 published_at: '2026-07-03T16:18:05Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
+- workflows
 stars: 7913
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-02-12T03:24:27Z'
 pushed_at: '2025-11-07T01:02:44Z'
 resource_id: github:sciphi-ai/r2r
-first_seen: '2026-07-04T16:34:20.286493+05:30'
-last_seen: '2026-07-04T16:34:20.286493+05:30'
-last_checked: '2026-07-04T16:34:20.286493+05:30'
+first_seen: '2026-07-04T19:31:25.148078+05:30'
+last_seen: '2026-07-04T19:31:25.148078+05:30'
+last_checked: '2026-07-04T19:31:25.148078+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG System**: Implements an agentic Retrieval-Augmented Generation (RAG) framework with a RESTful API for production-grade AI retrieval, enabling dynamic interaction between retrieval and generation components.
+- **Agentic RAG System**: Implements an advanced, production-ready Retrieval-Augmented Generation (RAG) pipeline with agentic workflows for enhanced AI retrieval and generation tasks.
 
-- **Modular Python Architecture**: Built in Python with a scalable, modular design supporting integration of large language models (LLMs), retrieval systems, and question-answering pipelines.
+- **RESTful API Integration**: Provides a scalable, RESTful API interface for seamless integration with downstream applications and services.
 
-- **Advanced Retrieval & Search**: Features state-of-the-art (SoTA) retrieval mechanisms optimized for high-performance search, indexing, and agent-driven query processing.
+- **Python-Based Architecture**: Built entirely in Python, leveraging modern AI/ML libraries for efficient retrieval, indexing, and question-answering capabilities.
 
 ## Why It Matters
 

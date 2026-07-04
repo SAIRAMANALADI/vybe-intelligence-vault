@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- The OpenAI API supports text generation via the `Responses` and `Chat Completions` endpoints, with structured outputs for JSON responses and non-deterministic content generation.
-- Model selection (`gpt-5.5`, reasoning models, or smaller variants) impacts speed, cost, and reasoning capability, with snapshots recommended for production stability.
-- Prompt engineering leverages `instructions` and message roles (`developer`, `user`, `assistant`) to enforce task-specific behavior, while structured
+- OpenAI's Responses API and Chat Completions API support generating text, structured JSON, and code from prompts, with responses structured in `output` or `choices` arrays containing message objects and metadata (e.g., `role`, `content`, `finish_reason`).
+
+- Structured Outputs enable forcing JSON-formatted responses via schema validation, while reasoning models (e.g., `gpt-5.5`) generate internal chain-of-thought before final output, trading speed for interpretability.
+
+- Message roles (`develo
 
 ## Use Cases
 

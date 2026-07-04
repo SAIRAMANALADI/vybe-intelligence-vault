@@ -3,9 +3,9 @@ title: LlamaParse Platform Quickstart | Developer Documentation
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://developers.llamaindex.ai/python/cloud/?utm_source=github&utm_medium=org_card
-published_at: '2026-07-04T09:37:32.495661+05:30'
-collected_at: '2026-07-04T09:37:32.495676+05:30'
+source_url: https://developers.llamaindex.ai/
+published_at: '2026-07-04T19:37:52.032272+05:30'
+collected_at: '2026-07-04T19:37:52.032285+05:30'
 tags:
 - agents
 - meta-ai
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaparse-platform-quickstart-developer-documenta
-first_seen: '2026-07-04T09:37:32.495676+05:30'
-last_seen: '2026-07-04T09:37:32.495676+05:30'
-last_checked: '2026-07-04T09:37:32.495676+05:30'
+first_seen: '2026-07-04T19:37:52.032285+05:30'
+last_seen: '2026-07-04T19:37:52.032285+05:30'
+last_checked: '2026-07-04T19:37:52.032285+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Layout-aware OCR**: Parse performs advanced optical character recognition (OCR) while preserving document layout, structure, and formatting for downstream LLM processing.
-
-- **Multi-format support**: Converts PDFs, scanned documents, tables, and charts into clean markdown, plain text, or structured JSON output.
-
-- **LLM pipeline integration**: Optimized as an agentic parser for seamless integration into large language model (LLM) workflows, ensuring high-fidelity document-to-data conversion.
+- **Agentic Document Parser**: Parse is designed for LLM pipelines, offering layout-aware OCR to convert PDFs, scans, tables, and charts into structured formats like markdown, plain text, or JSON.
+- **Layout-Aware Processing**: It preserves document structure, enabling accurate extraction of hierarchical content, tables, and visual elements for downstream AI tasks.
+- **Multi-Format Output**: Supports conversion to markdown, text, or JSON, facilitating seamless integration with various LLM-based workflows.
 
 ## Why It Matters
 
@@ -38,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-04T09:37:32.495661+05:30
+- Published: 2026-07-04T19:37:52.032272+05:30
 
 ## Related Tags
 
@@ -50,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://developers.llamaindex.ai/python/cloud/?utm_source=github&utm_medium=org_card
+Original source: https://developers.llamaindex.ai/

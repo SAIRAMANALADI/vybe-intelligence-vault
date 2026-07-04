@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - anthropic
-- hackernews
 - rag
 - web-crawled
 - workflows
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Haystack GitHub Repository**: Open-source framework by deepset-ai with 25.8k stars, 2.9k forks, and active development (71 issues, 33 PRs). Supports RAG pipelines, agentic workflows, and diagnostics.
-
-- **Community Discussions**: Active technical forums covering debugging (RAG quality, retrieval failures), runtime security (AgentShield, Agent Memory Guard), and pipeline diagnostics (Haystack Diagnostics Engine).
-
-- **Technical Focus Areas**: Event loop handling for pipeline tools, async exec
+- **Haystack** is an open-source framework by **deepset-ai** for building **RAG (Retrieval-Augmented Generation)** pipelines, with **25.8k stars** and **2.9k forks** on GitHub.
+- **Active development** includes discussions on **debugging retrieval failures**, **runtime security** (e.g., `AgentShield` for pipeline tool calls), and **diagnostics engines** for RAG validation.
+- **Community-driven extensions** include **async execution bridges**, **LLM usage tracking**, and **OWASP-compliant memory
 
 ## Use Cases
 

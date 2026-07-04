@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - rag
 - reddit
 - web-crawled
@@ -33,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Ragas Metrics Framework**: Provides a structured approach to evaluating RAG (Retrieval-Augmented Generation) systems, emphasizing modularity and extensibility in metric design for performance assessment.
+- **Ragas Metrics Framework**: Provides a structured approach to evaluating RAG (Retrieval-Augmented Generation) systems with design principles focused on relevance, correctness, and context-aware metrics.
 
-- **Core Metric Categories**: Includes key metrics such as **Faithfulness**, **Answer Relevance**, **Context Precision**, **Context Recall**, and **Aspect Critique**, each targeting specific dimensions of RAG system evaluation (e.g., factual consistency, relevance, and retrieval quality).
+- **Core Metrics**: Includes key metrics like `Faithfulness`, `Answer Relevancy`, `Context Precision`, `Context Recall`, and `Answer Correctness`, each quantifying specific aspects of RAG system performance.
+
+- **Open-Source Implementation**: Available on GitHub (`vibrantlabsai/ragas`), with
 
 ## Use Cases
 

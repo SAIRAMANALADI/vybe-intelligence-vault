@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-04T16:34:25.288842+05:30'
+collected_at: '2026-07-04T19:31:30.199739+05:30'
 published_at: '2026-07-03T05:52:08Z'
 tags:
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
 stars: 523
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-04T16:34:25.288842+05:30'
-last_seen: '2026-07-04T16:34:25.288842+05:30'
-last_checked: '2026-07-04T16:34:25.288842+05:30'
+first_seen: '2026-07-04T19:31:30.199739+05:30'
+last_seen: '2026-07-04T19:31:30.199739+05:30'
+last_checked: '2026-07-04T19:31:30.199739+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing both memory and computational overhead compared to traditional graph-based RAG methods.
+- **Linear Graph RAG Architecture**: Introduces a linear graph-based retrieval mechanism for Large Language Models (LLMs), optimizing retrieval efficiency on large-scale corpora by leveraging linear graph traversal instead of traditional hierarchical or dense retrieval methods.
 
-- **Scalability & Efficiency**: Implements linear-time graph traversal and retrieval mechanisms, enabling scalable knowledge extraction from massive datasets while maintaining low latency, critical for real-time LLM augmentation.
+- **Scalability & Performance**: Demonstrates linear-time complexity for retrieval operations, enabling scalable RAG systems that maintain high accuracy and reduced latency compared to conventional graph-based RAG approaches, particularly for dynamic or evolving datasets.
 
-- **ICLR 2026 Contribution**: Proposes a graph-linearization technique to transform hierarchical or complex graph data into linear structures, preserving semantic relationships for improved retrieval relevance in downstream LLM tasks.
+- **Integration with LLMs**: Provides a Python-based framework for seamless integration with LLMs, supporting end-to-end retrieval-augmented generation with minimal overhead, and includes modular components for graph construction, retrieval, and generation.
 
 ## Why It Matters
 

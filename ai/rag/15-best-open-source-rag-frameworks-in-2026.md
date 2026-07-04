@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-07-04T16:32:47.152677+05:30'
-collected_at: '2026-07-04T16:32:47.152690+05:30'
+published_at: '2026-07-04T19:29:51.783400+05:30'
+collected_at: '2026-07-04T19:29:51.783411+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-07-04T16:32:47.152690+05:30'
-last_seen: '2026-07-04T16:32:47.152690+05:30'
-last_checked: '2026-07-04T16:32:47.152690+05:30'
+first_seen: '2026-07-04T19:29:51.783411+05:30'
+last_seen: '2026-07-04T19:29:51.783411+05:30'
+last_checked: '2026-07-04T19:29:51.783411+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Firecrawl**: AI-powered web scraping engine for LLM-friendly data extraction at scale, featuring structured markdown conversion, LLM.txt generation, and deep research endpoints for dynamic site access and data enrichment in RAG pipelines.
-
-- **LangChain**: Modular framework with 105k+ stars, offering model flexibility, retrieval components, and evaluation tools for structured RAG implementations, integrating with LangSmith and LangGraph for debugging and workflow management.
-
-- **Milvus**: High-performance, cloud-native vector database (33.9k+ stars) optimized for scalable ANN search, supporting hybrid queries, multi-modal embeddings, and seamless integration with RAG frameworks for production-grade retrieval systems.
+- **Firecrawl**: AI-powered web scraping engine with LLM-friendly data extraction (Markdown/HTML), `llms.txt` generation, and deep research capabilities for RAG pipelines.
+- **RAGFlow**: Open-source RAG engine with deep document parsing (PDFs/tables), GraphRAG support, and visual web interface for structured retrieval.
+- **Milvus**: Cloud-native vector database optimized for scalable ANN search, hybrid querying, and multi-modal embeddings in production RAG systems.
 
 ## Why It Matters
 
@@ -47,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T16:32:47.152677+05:30
+- Published: 2026-07-04T19:29:51.783400+05:30
 
 ## Related Tags
 

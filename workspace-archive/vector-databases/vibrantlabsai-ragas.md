@@ -8,7 +8,7 @@ local_vault_path: ai/rag/vibrantlabsai-ragas.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: prompt
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
@@ -24,15 +24,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: prompt
+- Resource kind: benchmark
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Design Principles**: Metrics in Ragas are structured around core design principles ensuring modularity, extensibility, and evaluation of RAG (Retrieval-Augmented Generation) systems via decomposed evaluation of components like retrieval, generation, and faithfulness.
+- **Design Principles**: Metrics in Ragas are structured around modularity, interpretability, and relevance to RAG (Retrieval-Augmented Generation) evaluation, emphasizing standardized interfaces for consistency.
 
-- **Available Metrics**: Ragas provides a suite of predefined metrics (e.g., `faithfulness`, `answer_relevancy`, `context_recall`, `context_precision`) implemented as customizable evaluators leveraging LLM-based scoring or trad
+- **Available Metrics**: Includes **Faithfulness**, **Answer Relevancy**, **Context Precision**, **Context Recall**, and **Answer Correctness**, each quantifying specific aspects of RAG system performance (e.g., hallucination detection, retrieval quality).
+
+- **Implementation**: Metric
 
 ## Use Cases
 

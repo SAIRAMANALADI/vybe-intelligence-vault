@@ -8,7 +8,7 @@ local_vault_path: ai/rag/xmudeeplit-memgraphrag.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -16,7 +16,7 @@ tags:
 - python
 - rag
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # XMUDeepLIT/MemGraphRAG
@@ -25,14 +25,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-*   Implements a memory-based multi-agent system architecture.
-*   Focus
+- **Memory-Enhanced Multi-Agent Framework**: Introduces a memory-based multi-agent system (`MemGraphRAG`) for graph retrieval-augmented generation (GraphRAG), leveraging agent-memory interactions to improve structured knowledge extraction and reasoning.
+
+- **Ontology-Guided Graph Construction**: Implements ontology-driven graph construction to dynamically build and refine knowledge graphs, enabling efficient retrieval and augmentation of contextual information for downstream generation tasks.
+
+-
 
 ## Use Cases
 

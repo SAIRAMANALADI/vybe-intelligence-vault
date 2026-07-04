@@ -1,31 +1,29 @@
 ---
-title: Speechify Text to Speech API — Voices, Streaming, and SSML | Speechify API
+title: 'SpeechifyAI Build: TTS, Voices, Streaming, and SSML | Speechify API'
 category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.speechify.ai/tts/guides/welcome
-published_at: '2026-06-24T20:51:07.570152+05:30'
-collected_at: '2026-06-24T20:51:07.570165+05:30'
+published_at: '2026-07-04T19:34:18.977887+05:30'
+collected_at: '2026-07-04T19:34:18.977901+05:30'
 tags:
 - rag
 - web-crawled
 status: active
-resource_id: blog:speechify-text-to-speech-api-voices-streaming-and
-first_seen: '2026-06-24T20:51:07.570165+05:30'
-last_seen: '2026-06-24T20:51:07.570165+05:30'
-last_checked: '2026-06-24T20:51:07.570165+05:30'
+resource_id: blog:speechifyai-build-tts-voices-streaming-and-ssml-sp
+first_seen: '2026-07-04T19:34:18.977901+05:30'
+last_seen: '2026-07-04T19:34:18.977901+05:30'
+last_checked: '2026-07-04T19:34:18.977901+05:30'
 health_score: 100
 ---
 
-# Speechify Text to Speech API — Voices, Streaming, and SSML | Speechify API
+# SpeechifyAI Build: TTS, Voices, Streaming, and SSML | Speechify API
 
 ## Summary
 
-- **API Endpoint & Authentication**: Single POST endpoint `/v1/audio/speech` with Bearer token authentication (`Authorization: Bearer <API_KEY>`), supporting JSON input with fields like `input`, `voice_id`, `audio_format`, and `model`.
-
-- **Voice Cloning & Multilingual Support**: Clone voices from 10-30s samples; cloned voices work across 30+ languages. Models include `simba-english` (flagship), `simba-multilingual` (30+ languages), and `simba-3.0` (low-latency streaming).
-
-- **Advanced Features**: SSML for fine-grained control (pitch, rate, pauses, emotion presets), streaming up to 20k chars/request, and speech marks for word-level timestamps. SDKs available in Python (`speechify-api`) and TypeScript (`@speechify/api`).
+- **API Integration**: Single REST API endpoint (`POST /v1/audio/speech`) for TTS, supporting JSON payloads with `input`, `voice_id`, `audio_format`, and `model` parameters (e.g., `simba-english` for high-quality English output).
+- **Advanced Features**: Supports real-time streaming (20k chars/request), voice cloning (10-30s sample), SSML-driven prosody control (13 emotion presets), and speech marks for word-level timestamps.
+- **Models/Languages**: Three core models (`simba-english`, `simba-multilingual`, `simba-3.0`) with varying latency, language coverage (30+ languages), and expressivity; authentication via `Authorization: Bearer` key.
 
 ## Why It Matters
 
@@ -35,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T20:51:07.570152+05:30
+- Published: 2026-07-04T19:34:18.977887+05:30
 
 ## Related Tags
 

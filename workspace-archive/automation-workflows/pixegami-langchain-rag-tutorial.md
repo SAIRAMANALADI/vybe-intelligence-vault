@@ -12,8 +12,6 @@ resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
-- meta-ai
-- models
 - python
 - rag
 - workflows
@@ -35,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **LangChain-based RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with generative models for contextual Q&A.
+- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
 
-- **Python-Focused Architecture**: Utilizes Python with LangChain’s modular components (e.g., `RetrievalQA`, `VectorStore`) for document indexing, embedding (e.g., `HuggingFaceEmbeddings`), and querying.
+- **Python-Based Architecture**: Utilizes Python for the RAG workflow, leveraging LangChain’s modular components (e.g., document loaders, vector stores, and LLMs) for end-to-end processing.
 
-- **Modular Design**: Includes example scripts for document loading (e.g., `PyPDFLoader`), vector st
+- **Modular Design**: Follows a structured approach with clear separation of concerns (e.g., data ingestion, em
 
 ## Use Cases
 

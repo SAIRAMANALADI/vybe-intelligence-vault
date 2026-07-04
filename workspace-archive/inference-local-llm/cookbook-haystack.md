@@ -39,8 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Haystack Cookbook** provides 71 technical recipes covering model providers, vector databases, retrieval techniques, and integrations (e.g., OpenStreetMap, MCP, vLLM, Azure AI Search) with demos for agents, RAG, multimodal processing, and advanced retrieval methods.
-- **Key technical areas** include agentic workflows (e.g., itinerary planning, GitHub issue resolution), hybrid RAG pipelines (e.g., query decomposition, HyDE), and model serving (e.g., vLLM, NVIDIA NIMs, FastEmbed) with integrati
+- **Haystack Cookbook** provides 71 technical recipes demonstrating integrations with model providers, vector databases, retrieval techniques, and advanced AI workflows (e.g., RAG, agents, multimodal processing).
+- **Key focus areas** include agentic systems (e.g., itinerary planning, GitHub issue resolvers), multimodal RAG, hybrid retrieval methods (BM42, HyDE), and model serving (vLLM, NVIDIA NIMs).
+- **Experimental tools** like Mem0 memory store, DSPy prompt optimization, and DeepEval/RAGAS e
 
 ## Use Cases
 

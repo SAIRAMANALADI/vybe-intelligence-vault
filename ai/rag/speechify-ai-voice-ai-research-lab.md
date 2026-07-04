@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.ai/
-published_at: '2026-07-04T16:39:15.736976+05:30'
-collected_at: '2026-07-04T16:39:15.736990+05:30'
+published_at: '2026-07-04T19:34:13.640686+05:30'
+collected_at: '2026-07-04T19:34:13.640700+05:30'
 tags:
 - agents
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:speechify-ai-voice-ai-research-lab
-first_seen: '2026-07-04T16:39:15.736990+05:30'
-last_seen: '2026-07-04T16:39:15.736990+05:30'
-last_checked: '2026-07-04T16:39:15.736990+05:30'
+first_seen: '2026-07-04T19:34:13.640700+05:30'
+last_seen: '2026-07-04T19:34:13.640700+05:30'
+last_checked: '2026-07-04T19:34:13.640700+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Zero-shot voice cloning**: Enables cloning of any voice from a 10-30 second reference clip, capturing timbre, cadence, and micro-expressions using Simba model.
-- **Emotion & multilingual synthesis**: Simba 3.0 supports fine-grained emotional control (neutral, happy, sad, excited, calm) and native-quality speech across 30+ locales with mixed-language input handling.
-- **API-driven TTS & agents**: Single API endpoint (`/v1/audio/speech`) for text-to-speech, voice selection, and agent embedding with SSML prosody control and streaming-native architecture.
+- **Zero-shot voice cloning**: Enables cloning of any voice from a 10-30 second reference clip, capturing timbre, cadence, and micro-expressions via Simba model.
+- **Emotion and prosody control**: Simba 3.0 supports fine-grained emotional expression (neutral, happy, sad, excited, calm) and SSML-based prosody control for nuanced speech synthesis.
+- **Multilingual & streaming-native architecture**: Supports 30+ locales with native-quality speech, and features a streaming-native model (Simba 3.0) with lower time-to-first-byte and real-time agent interactions.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T16:39:15.736976+05:30
+- Published: 2026-07-04T19:34:13.640686+05:30
 
 ## Related Tags
 

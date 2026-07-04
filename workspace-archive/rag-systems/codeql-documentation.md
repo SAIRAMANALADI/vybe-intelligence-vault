@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- frontend_ui
 - rag
 - web-crawled
 selection_reason:
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **CodeQL** treats source code as structured data, enabling vulnerability detection via declarative queries (QL) over abstract syntax trees (ASTs) and control-flow graphs (CFGs).
-- **Supported languages/frameworks** (latest release) include C/C++, C#, Go, Java, JavaScript/TypeScript, Python, and Ruby, with libraries for common frameworks (e.g., Spring, .NET, React).
-- **Query execution** requires a CodeQL database (extracted from source) and can be run via CLI, VS Code extension, or integrated
+- **CodeQL Overview**: CodeQL treats code as data, enabling vulnerability detection via custom queries and sharing to mitigate threats across projects.
+- **Supported Languages & Frameworks**: Latest CodeQL release supports multiple languages/libraries (e.g., C/C++, Java, Python, JavaScript) with detailed [coverage](https://codeql.github.com/codeql-overview/supported-languages-and-frameworks/).
+- **Key Resources**: Includes QL language reference, standard libraries, CLI releases, VS Code extensio
 
 ## Use Cases
 

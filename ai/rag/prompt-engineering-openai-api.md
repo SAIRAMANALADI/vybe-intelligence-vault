@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://platform.openai.com/docs/guides/prompt-engineering
-published_at: '2026-07-04T03:51:54.102057+05:30'
-collected_at: '2026-07-04T03:51:54.102069+05:30'
+published_at: '2026-07-04T19:33:10.898354+05:30'
+collected_at: '2026-07-04T19:33:10.898369+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:prompt-engineering-openai-api
-first_seen: '2026-07-04T03:51:54.102069+05:30'
-last_seen: '2026-07-04T03:51:54.102069+05:30'
-last_checked: '2026-07-04T03:51:54.102069+05:30'
+first_seen: '2026-07-04T19:33:10.898369+05:30'
+last_seen: '2026-07-04T19:33:10.898369+05:30'
+last_checked: '2026-07-04T19:33:10.898369+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- The OpenAI API supports text generation via the `Responses` and `Chat Completions` endpoints, with structured outputs for JSON responses and non-deterministic content generation.
-- Model selection (`gpt-5.5`, reasoning models, or smaller variants) impacts speed, cost, and reasoning capability, with snapshots recommended for production stability.
-- Prompt engineering leverages `instructions` and message roles (`developer`, `user`, `assistant`) to enforce task-specific behavior, while structured outputs enforce schema compliance.
+- OpenAI's Responses API and Chat Completions API support generating text, structured JSON, and code from prompts, with responses structured in `output` or `choices` arrays containing message objects and metadata (e.g., `role`, `content`, `finish_reason`).
+
+- Structured Outputs enable forcing JSON-formatted responses via schema validation, while reasoning models (e.g., `gpt-5.5`) generate internal chain-of-thought before final output, trading speed for interpretability.
+
+- Message roles (`developer`, `user`, `assistant`) enforce priority in instruction hierarchy, with `developer` messages taking precedence; `instructions` parameter provides high-level guidance overriding `input` content.
 
 ## Why It Matters
 
@@ -43,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T03:51:54.102057+05:30
+- Published: 2026-07-04T19:33:10.898354+05:30
 
 ## Related Tags
 

@@ -14,7 +14,6 @@ tags:
 - agents
 - frontend_ui
 - github-repo
-- scripts
 - typescript
 - workflows
 selection_reason:
@@ -34,8 +33,8 @@ selection_reason:
 ## Summary
 
 - **Next.js Template**: Production-ready starter kit with TypeScript, optimized for AI-driven development workflows.
-- **6 Specialized Agents**: Integrates dedicated AI agents for code generation, testing, debugging, documentation, optimization, and deployment automation.
-- **Updated 2026-07-03**: Latest commit includes enhancements for scalability, modular architecture, and AI agent coordination.
+- **AI-Powered Agents**: Integrates 6 specialized agents for automated coding, debugging, and optimization tasks.
+- **Recent Update**: Last modified on **2026-07-03**, with 328 stars and 794 forks on GitHub.
 
 ## Use Cases
 

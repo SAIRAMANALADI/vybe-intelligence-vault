@@ -12,9 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
 - github-repo
-- openai
 - python
 - rag
 selection_reason:
@@ -35,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Framework**: Tutorial repository for building intelligent agents from scratch, covering core principles and practical implementation in Python, with focus on LLM integration, RAG pipelines, and agent orchestration.
+- **Comprehensive Agent Development Tutorial**: Provides a structured, zero-to-hero guide on building intelligent agents from fundamental principles to practical implementation, covering core concepts like LLM integration, RAG pipelines, and agent architectures.
 
-- **Educational Resource**: Provides structured, zero-to-hero learning path for agent development, including theoretical foundations (e.g., agent architectures, decision-making) and hands-on coding exercises (e.g., tool usage, memory systems).
+- **Python-Based Implementation**: Focuses on hands-on Python code examples and frameworks to demonstrate agent construction, including tool integration, memory systems, and multi-agent coordination.
 
-- **Community-Driven**:
+- **Open-Source Educational Resourc
 
 ## Use Cases
 

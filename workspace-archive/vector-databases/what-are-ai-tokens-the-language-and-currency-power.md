@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Tokenization Process**: AI models convert input data (text, images, audio) into discrete tokens via tokenization, where words/phrases are split into numerical representations (e.g., "dark"=217, "ness"=655), enabling structured processing and contextual understanding.
+- **Tokenization Process**: AI models convert input data (text, images, audio, etc.) into discrete tokens via tokenization, enabling structured processing; tokenizers map subword units (e.g., "dark" + "ness") to numerical IDs, preserving semantic relationships while optimizing computational efficiency.
 
-- **Token Economics in AI Workloads**: Token processing drives cost/revenue in AI systems; pretraining scales with token volume (scaling laws), while inference costs are optimized via context windows (e.g., 1M+ tokens for long-
+- **Token-Centric Training & Inference**: During pretraining, models predict next tokens in massive datasets (trillions of tokens) to converge; inference involves processing input tokens to gener
 
 ## Use Cases
 

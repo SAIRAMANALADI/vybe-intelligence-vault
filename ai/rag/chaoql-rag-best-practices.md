@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-07-04T16:33:40.262460+05:30'
+collected_at: '2026-07-04T19:30:45.072757+05:30'
 published_at: '2026-07-03T13:07:34Z'
 tags:
 - benchmark
-- dataset
 - github-repo
+- hackernews
 - python
 - rag
 stars: 93
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-07-04T16:33:40.262460+05:30'
-last_seen: '2026-07-04T16:33:40.262460+05:30'
-last_checked: '2026-07-04T16:33:40.262460+05:30'
+first_seen: '2026-07-04T19:30:45.072757+05:30'
+last_seen: '2026-07-04T19:30:45.072757+05:30'
+last_checked: '2026-07-04T19:30:45.072757+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular components for indexing, retrieval, and generation, leveraging vector databases (e.g., FAISS, Chroma) and embedding models (e.g., Sentence-BERT, BAAI/bge).
-- **Hybrid Retrieval Strategies**: Supports multi-stage retrieval (dense + sparse) with reranking (e.g., cross-encoder models) to balance precision/recall and mitigate hallucinations in LLM outputs.
-- **Evaluation & Benchmarking**: Includes automated evaluation pipelines for RAG systems, measuring metrics like context relevance, answer faithfulness, and latency, with adaptable configs for custom datasets.
+- **RAG Optimization Framework**: Repository implements advanced RAG techniques for large language models (LLMs), focusing on retrieval augmentation to enhance generation quality and factual accuracy.
+
+- **Python-Based Implementation**: Entire codebase is written in Python, leveraging modern libraries (e.g., LangChain, FAISS, or HuggingFace) for modular RAG pipeline construction.
+
+- **Best Practices Documentation**: Provides structured guidelines for RAG system design, including chunking strategies, embedding selection, retrieval tuning, and evaluation metrics.
 
 ## Why It Matters
 

@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- GitHub provides **version control via Git**, **SSH for secure remote access**, and **repository management** for collaborative development workflows.
-- **Pull requests** enable code review and merging, while **GitHub Actions** supports CI/CD pipelines and **Codespaces** offers cloud-based development environments.
-- **GitHub Copilot** integrates AI-driven code suggestions in IDEs, and **security tools** like CodeQL and secret scanning enforce supply chain and vulnerability management.
+- **Core GitHub Infrastructure**: GitHub relies on Git (open-source VCS) for local version control, supports SSH for secure remote connections, and provides repository management (creation, naming, and location handling).
+
+- **Collaboration & Workflows**: Pull requests enable code proposal, review, and merging; GitHub Actions automates CI/CD pipelines; GitHub Discussions facilitates team communication.
+
+- **Security & Developer Tools**: GitHub supports authentication via passwords, tokens, and S
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel/ai
-collected_at: '2026-07-04T16:35:00.395301+05:30'
-published_at: '2026-07-04T10:08:04Z'
+collected_at: '2026-07-04T19:32:05.201479+05:30'
+published_at: '2026-07-04T13:43:25Z'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-23T15:04:08Z'
 pushed_at: '2026-07-04T06:11:19Z'
 resource_id: github:vercel/ai
-first_seen: '2026-07-04T16:35:00.395301+05:30'
-last_seen: '2026-07-04T16:35:00.395301+05:30'
-last_checked: '2026-07-04T16:35:00.395301+05:30'
+first_seen: '2026-07-04T19:32:05.201479+05:30'
+last_seen: '2026-07-04T19:32:05.201479+05:30'
+last_checked: '2026-07-04T19:32:05.201479+05:30'
 health_score: 100
 ---
 
@@ -33,8 +33,10 @@ health_score: 100
 ## Summary
 
 - **AI SDK**: Open-source TypeScript library for building AI-powered applications and agents, developed by Vercel (creators of Next.js).
-- **Multi-Model & Framework Support**: Integrates with Anthropic, Gemini, OpenAI LLMs and supports React, Svelte, Vue, and Next.js for generative UI.
-- **Generative UI & Agents**: Enables real-time AI-driven UI generation and agent-based workflows with TypeScript-first tooling.
+
+- **Multi-Model & Framework Support**: Integrates with Anthropic, Gemini, OpenAI, and other LLMs, compatible with React, Next.js, Svelte, Vue, and JavaScript.
+
+- **Generative UI & Agents**: Enables real-time generative UI and agent-based workflows with structured output handling and streaming support.
 
 ## Why It Matters
 
@@ -47,7 +49,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 4714
 - Language: TypeScript
 - Topics: anthropic, artificial-intelligence, gemini, generative-ai, generative-ui, javascript, language-model, llm, nextjs, openai, react, svelte, typescript, vercel, vue
-- Last Updated: 2026-07-04T10:08:04Z
+- Last Updated: 2026-07-04T13:43:25Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-05-23T15:04:08Z

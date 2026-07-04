@@ -15,7 +15,7 @@ Public developer APIs supply external context and utilities for LLM tools.
 - [Cerbos · GitHub](https://github.com/cerbos) (benchmark - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) (workflow - USEFUL Tier)
-- [Improve Transparency with Statuspage | Atlassian](https://www.atlassian.com/software/statuspage?utm_campaign=status.npmjs.org&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp) (tutorial - USEFUL Tier)
+- [Canvas LMS | Instructure Developer Documentation Portal](https://api.instructure.com) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -40,4 +40,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-07-04 16:49 IST*
+*Last updated: 2026-07-04 19:46 IST*

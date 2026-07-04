@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 - workflows
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Repository of Jupyter Notebooks demonstrating practical implementations of [Haystack](https://github.com/deepset-ai/haystack) for agentic AI, retrieval-augmented generation (RAG), and GenAI use cases.
-- **Content**: Examples cover agentic workflows, AI tools integration, and Python-based GenAI applications using Haystack’s framework.
-- **Metadata**: 546 ⭐, 127 🍴, last updated 2026-07-01, primarily Python/Jupyter Notebook-based.
+- **Purpose**: Repository containing Jupyter Notebook examples demonstrating practical applications of Haystack, an open-source framework for building search and question-answering systems.
+- **Technical Scope**: Covers agentic AI, generative AI use cases, and Retrieval-Augmented Generation (RAG) workflows using Python.
+- **Last Updated**: July 3, 2026, with 545 stars and 126 forks, indicating active community engagement.
 
 ## Use Cases
 

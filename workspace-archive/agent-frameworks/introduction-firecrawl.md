@@ -2,7 +2,7 @@
 title: Introduction | Firecrawl
 archive_category: agent-frameworks
 source_category: ai/agents
-source_url: https://docs.firecrawl.dev/introduction
+source_url: https://docs.firecrawl.dev
 resource_id: blog:introduction-firecrawl
 local_vault_path: ai/agents/introduction-firecrawl.md
 quality_score: 70
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **API Capabilities**: Firecrawl provides a unified API for web search, scraping, and interaction, supporting LLM-ready outputs (markdown, JSON, screenshots) and handling JavaScript rendering, anti-bot measures, and dynamic content.
-- **Integration Methods**: Supports AI agents via `llms.txt` indexing, MCP Server for direct AI tool integration (Claude, Cursor, VS Code), and CLI/SDKs (Python, Node, cURL) for programmatic access.
-- **Performance & Features**: Optimized for high throughput with su
+- **Unified Web API**: Provides a single API endpoint for web search, scraping, and interaction, returning structured data (markdown, HTML, JSON) with built-in anti-bot and JavaScript rendering support.
+- **AI Agent Integration**: Supports direct integration via MCP Server (Model Context Protocol) and CLI skills (`firecrawl-cli`), enabling seamless use in AI tools (Claude, Cursor, VS Code) without manual API calls.
+- **Production-Grade Features**: Optimized for high throughput with LLM-ready out
 
 ## Use Cases
 
@@ -44,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.firecrawl.dev/introduction
+Original source URL: https://docs.firecrawl.dev
 
 ## Local Vault File
 

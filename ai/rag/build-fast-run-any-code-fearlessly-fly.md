@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: http://fly.io/
-published_at: '2026-07-04T01:29:37.817967+05:30'
-collected_at: '2026-07-04T01:29:37.817975+05:30'
+published_at: '2026-07-04T19:42:13.599743+05:30'
+collected_at: '2026-07-04T19:42:13.599756+05:30'
 tags:
 - agents
 - producthunt
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:build-fast-run-any-code-fearlessly-fly
-first_seen: '2026-07-04T01:29:37.817975+05:30'
-last_seen: '2026-07-04T01:29:37.817975+05:30'
-last_checked: '2026-07-04T01:29:37.817975+05:30'
+first_seen: '2026-07-04T19:42:13.599756+05:30'
+last_seen: '2026-07-04T19:42:13.599756+05:30'
+last_checked: '2026-07-04T19:42:13.599756+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Hardware-virtualized Fly Machines**: Launch instantly as isolated, KVM-backed containers with dedicated CPU/memory, supporting untrusted code execution, HTTP requests, and scaling to tens of thousands of instances with sub-second startup times.
+- **Hardware-virtualized Fly Machines**: Launch instant, isolated VMs with dedicated CPU/memory/networking, billed per-second, supporting frameworks like Rails, Phoenix, Django, and Node without Dockerfiles via CLI auto-containerization.
 
-- **Global, low-latency infrastructure**: Deploy in 18 regions with private networking, end-to-end encryption, and NVMe storage; supports clustered databases (e.g., CockroachDB, Postgres) and distributed systems without requiring Terraform.
+- **Global, secure distributed compute**: Deploy in 18 regions with sub-100ms latency, featuring built-in private networking, end-to-end encryption, and support for clustered databases (e.g., Cockroach, Postgres) and RPC systems (e.g., Elixir FLAME).
 
-- **Enterprise-grade security & frameworks**: Memory-safe Rust/Go stack, SOC2 Type 2 compliance, SSO, and CI/CD integration; auto-generates containers for frameworks (Rails, Phoenix, Django, Node, etc.) without Dockerfiles.
+- **Enterprise-grade isolation & compliance**: KVM-hardened VMs on memory-safe Rust/Go stack, SOC2 Type 2 attested, with SSO, guaranteed support SLAs, and CI/CD integration for secure, scalable deployments.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T01:29:37.817967+05:30
+- Published: 2026-07-04T19:42:13.599743+05:30
 
 ## Related Tags
 

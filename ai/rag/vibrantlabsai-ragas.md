@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/vibrantlabsai/ragas/blob/master/docs/concepts/metrics/index.md
-published_at: '2026-07-04T16:37:18.858402+05:30'
-collected_at: '2026-07-04T16:37:18.858415+05:30'
+published_at: '2026-07-04T19:34:22.537535+05:30'
+collected_at: '2026-07-04T19:34:22.537547+05:30'
 tags:
 - benchmark
 - rag
 - web-crawled
 status: active
 resource_id: github:vibrantlabsai/ragas
-first_seen: '2026-07-04T16:37:18.858415+05:30'
-last_seen: '2026-07-04T16:37:18.858415+05:30'
-last_checked: '2026-07-04T16:37:18.858415+05:30'
+first_seen: '2026-07-04T19:34:22.537547+05:30'
+last_seen: '2026-07-04T19:34:22.537547+05:30'
+last_checked: '2026-07-04T19:34:22.537547+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Design Principles**: Metrics in Ragas are structured around core design principles ensuring modularity, extensibility, and evaluation of RAG (Retrieval-Augmented Generation) systems via decomposed evaluation of components like retrieval, generation, and faithfulness.
+- **Design Principles**: Metrics in Ragas are structured around modularity, interpretability, and relevance to RAG (Retrieval-Augmented Generation) evaluation, emphasizing standardized interfaces for consistency.
 
-- **Available Metrics**: Ragas provides a suite of predefined metrics (e.g., `faithfulness`, `answer_relevancy`, `context_recall`, `context_precision`) implemented as customizable evaluators leveraging LLM-based scoring or traditional statistical methods.
+- **Available Metrics**: Includes **Faithfulness**, **Answer Relevancy**, **Context Precision**, **Context Recall**, and **Answer Correctness**, each quantifying specific aspects of RAG system performance (e.g., hallucination detection, retrieval quality).
 
-- **Inner Workings**: Metrics utilize LLM prompts or statistical computations (e.g., cosine similarity, entailment checks) to quantify performance, with scoring functions normalized or threshold-based, enabling comparative analysis across RAG pipelines.
+- **Implementation**: Metrics leverage LLM-based evaluations (e.g., entailment for Faithfulness) and deterministic computations (e.g., token overlap for Answer Correctness), with open-source code for extensibility.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T16:37:18.858402+05:30
+- Published: 2026-07-04T19:34:22.537535+05:30
 
 ## Related Tags
 

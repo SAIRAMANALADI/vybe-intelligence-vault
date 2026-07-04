@@ -35,7 +35,7 @@ selection_reason:
 
 - **Technical Focus**: Covers key topics in LLM application development, specifically **LangChain** and **RAG (Retrieval-Augmented Generation)** pipelines.
 
-- **Repository Metrics**: Highly active with **13,394 stars** and **1,371 forks**, la
+- **Repository Metrics**: Highly active community with **13,394 stars**, **1,371 fork
 
 ## Use Cases
 

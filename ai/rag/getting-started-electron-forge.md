@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://electronforge.io
-published_at: '2026-07-04T03:57:21.428071+05:30'
-collected_at: '2026-07-04T03:57:21.428083+05:30'
+published_at: '2026-07-04T19:42:12.756013+05:30'
+collected_at: '2026-07-04T19:42:12.756025+05:30'
 tags:
 - rag
 - web-crawled
 - workflows
 status: active
 resource_id: blog:getting-started-electron-forge
-first_seen: '2026-07-04T03:57:21.428083+05:30'
-last_seen: '2026-07-04T03:57:21.428083+05:30'
-last_checked: '2026-07-04T03:57:21.428083+05:30'
+first_seen: '2026-07-04T19:42:12.756025+05:30'
+last_seen: '2026-07-04T19:42:12.756025+05:30'
+last_checked: '2026-07-04T19:42:12.756025+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Electron Forge** integrates a modular build pipeline for Electron apps, supporting code signing, installers, and artifact publishing via its **Plugin API**, **Makers**, and **Publishers** for extensibility.
-- **Packaging limitations** require `node_modules` to be physically present; Yarn ≥2 must use `node-linker: node-modules`, and pnpm requires `node-linker=hoisted` in `.npmrc`.
-- **Initialization** is done via `create-electron-app`, with templates (`webpack`, `vite`, etc.) providing pre-configured build pipelines and dev servers for modern JS tooling.
+- **Electron Forge** is a unified build pipeline for Electron apps, supporting code signing, installers, and artifact publishing; it allows customization via **Plugin API**, **Makers**, and **Publishers** for advanced workflows.
+- **Packaging limitations**: Requires `node_modules` on disk; does not support Yarn PnP or symlinked dependencies; Yarn ≥2 must use `nodeLinker: node-modules`, and pnpm requires `node-linker=hoisted` in `.npmrc`.
+- **Initialization & distribution**: Projects are scaffolded via `create-electron-app` with templates (e.g., `webpack`, `vite`); distributables are generated via `make`, and publishing is handled via `publish` with support for platforms like GitHub (requires configuration).
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T03:57:21.428071+05:30
+- Published: 2026-07-04T19:42:12.756013+05:30
 
 ## Related Tags
 

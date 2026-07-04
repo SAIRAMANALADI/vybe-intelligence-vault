@@ -12,7 +12,6 @@ resource_kind: workflow
 importance: medium
 tags:
 - github-repo
-- hackernews
 - sass
 - workflows
 selection_reason:
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Theme Overview**: Furo is a minimal, three-column Sphinx documentation theme designed for cleanliness and high customizability, supporting modern web standards.
-- **Technical Stack**: Built with Sass for styling, optimized for Sphinx documentation generation with seamless integration into Python-based documentation workflows.
-- **Features**: Supports responsive design, dark/light mode toggles, and modular customization via Sass variables, enhancing readability and maintainability.
+- **Furo** is a minimal, three-column Sphinx documentation theme optimized for cleanliness and customizability, supporting Sass for styling.
+- **Key features** include responsive design, dark/light mode toggle, and modular components for extensibility.
+- **Dependencies**: Built for Sphinx (v4.0+), with compatibility for modern Python documentation workflows.
 
 ## Use Cases
 

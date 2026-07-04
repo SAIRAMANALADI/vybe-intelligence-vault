@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: Comprehensive repository aggregating Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI.
-- **Multi-Topic Coverage**: Encompasses large language models (LLMs), RAG methodologies, and AI-driven retrieval techniques for enhanced generative performance.
-- **Active Maintenance**: Last updated in 2026, ensuring relevance with ongoing contributions and updates to the RAG ecosystem.
+- **Curated RAG Resources**: GitHub repository (`Danielskry/Awesome-RAG`) aggregating applications, tools, and frameworks for Retrieval-Augmented Generation (RAG) in Generative AI.
+- **Metadata**: 1,291 stars, 161 forks, last updated July 4, 2026; topics include AI, LLMs, and RAG-specific implementations.
+- **Technical Scope**: Focuses on retrieval-augmented techniques for enhancing large language models (LLMs) with external knowledge retrieval.
 
 ## Use Cases
 

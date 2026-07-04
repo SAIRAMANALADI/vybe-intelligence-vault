@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-07-04T09:33:21.708350+05:30'
+collected_at: '2026-07-04T19:29:55.128837+05:30'
 published_at: '2026-06-28T15:57:16Z'
 tags:
 - github-repo
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-07-04T09:33:21.708350+05:30'
-last_seen: '2026-07-04T09:33:21.708350+05:30'
-last_checked: '2026-07-04T09:33:21.708350+05:30'
+first_seen: '2026-07-04T19:29:55.128837+05:30'
+last_seen: '2026-07-04T19:29:55.128837+05:30'
+last_checked: '2026-07-04T19:29:55.128837+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Mastery Program**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and HNSW indexing for efficient vector search.
-
-- **Multimodal & Responsible AI Integration**: Includes modules on multimodal RAG, Matryoshka representation learning, and responsible AI practices for deploying LLM-powered applications using Azure OpenAI and Visual Studio Code.
-
-- **Practical Implementation Focus**: Hands-on Jupyter Notebooks demonstrating real-world RAG pipelines, Azure deployment, and optimization techniques for production-grade generative AI systems.
+- **Learning Path**: 5-week structured journey covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and Matryoshka representation learning for efficient LLM integration.
+- **Technologies & Tools**: Utilizes Azure, OpenAI/GPT models, HNSW for approximate nearest neighbor search, and VS Code with Jupyter Notebooks for hands-on implementation.
+- **Focus Areas**: Multimodal RAG, responsible AI practices, indexing optimization, and deployment strategies for production-grade retrieval-augmented generation systems.
 
 ## Why It Matters
 

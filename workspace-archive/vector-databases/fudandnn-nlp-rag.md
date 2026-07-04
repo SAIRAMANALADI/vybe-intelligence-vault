@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - github-repo
 - hackernews
 - paper
@@ -34,9 +35,9 @@ selection_reason:
 
 - **Implementation of EMNLP2024 Paper**: Repository provides a Python-based implementation of the paper *"Searching for Best Practices in Retrieval-Augmented Generation"* with focus on RAG optimization techniques.
 
-- **Repository Metadata**: 347 stars, 21 forks, last updated on 2026-07-02, with no specified topics.
+- **Repository Metrics**: 347 stars, 21 forks, last updated on 2026-07-02; primarily written in Python with no additional topic tags.
 
-- **Technical Stack**: Pure Python implementation, likely leveraging NLP libraries (e.g., HuggingFace Transformers) for retrieval and generation components.
+- **Purpose**: Aims to standardize and benchmark best practices in RAG systems, likely including retrieval strategies, generation tuning, and evaluati
 
 ## Use Cases
 

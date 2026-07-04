@@ -11,11 +11,11 @@ Understanding the pricing, capabilities, and APIs of different model providers i
 - [Stainless · GitHub](https://github.com/stainless-api) (framework - ESSENTIAL Tier)
 - [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
 - [Mem0 · GitHub](https://github.com/mem0ai) (mcp-server - ESSENTIAL Tier)
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app) (benchmark - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - ESSENTIAL Tier)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (api - ESSENTIAL Tier)
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) (benchmark - ESSENTIAL Tier)
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
-- [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag) (prompt - ESSENTIAL Tier)
-- [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,9 +24,9 @@ https://github.com/google/generative-ai-python (Gemini SDK)
 - [Stainless · GitHub](https://github.com/stainless-api)
 - [langgenius/dify](https://github.com/langgenius/dify)
 - [Mem0 · GitHub](https://github.com/mem0ai)
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
-- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
-- [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag)
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/google/generative-ai-python (Gemini SDK)
 
 ---
 
-*Last updated: 2026-07-04 16:49 IST*
+*Last updated: 2026-07-04 19:46 IST*

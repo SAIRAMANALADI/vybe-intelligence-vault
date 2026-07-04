@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-07-04T16:34:00.278206+05:30'
+collected_at: '2026-07-04T19:31:05.112127+05:30'
 published_at: '2026-07-04T08:44:37Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - rag
 - unknown
 stars: 436
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-07-04T16:34:00.278206+05:30'
-last_seen: '2026-07-04T16:34:00.278206+05:30'
-last_checked: '2026-07-04T16:34:00.278206+05:30'
+first_seen: '2026-07-04T19:31:05.112127+05:30'
+last_seen: '2026-07-04T19:31:05.112127+05:30'
+last_checked: '2026-07-04T19:31:05.112127+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,15 @@ health_score: 100
 
 ## Summary
 
-- **Dataset & Benchmark**: Provides a structured evaluation framework for Retrieval-Augmented Generation (RAG) systems using synthetic and real enterprise internal documents, enabling standardized performance assessment.
-- **Evaluation Metrics**: Includes metrics for retrieval accuracy, answer correctness, and contextual relevance, tailored for enterprise-scale knowledge bases and semantic search.
-- **Tools & Integration**: Supports Python-based pipelines for synthetic data generation, LLM evaluation, and seamless integration with enterprise search and knowledge management systems.
+- **Purpose**: Provides a benchmarking framework and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of performance in real-world internal knowledge retrieval tasks.
+
+- **Key Features**:
+  - Synthetic data generation for enterprise-specific QA pairs and retrieval contexts.
+  - Evaluation metrics for semantic search, retrieval accuracy, and LLM response quality in enterprise environments.
+
+- **Technical Scope**:
+  - Supports Python-based RAG pipelines with integration for LLMs, vector databases, and enterprise search tools.
+  - Focuses on metrics like precision, recall, and contextual relevance for internal document retrieval.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-07-04T03:51:07.393573+05:30'
+collected_at: '2026-07-04T19:32:25.131539+05:30'
 published_at: '2026-06-29T02:03:10Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - rag
 - reddit
 - unknown
-- workflows
 stars: 191
 language: Unknown
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-07-04T03:51:07.393573+05:30'
-last_seen: '2026-07-04T03:51:07.393573+05:30'
-last_checked: '2026-07-04T03:51:07.393573+05:30'
+first_seen: '2026-07-04T19:32:25.131539+05:30'
+last_seen: '2026-07-04T19:32:25.131539+05:30'
+last_checked: '2026-07-04T19:32:25.131539+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (v5+), including stale-while-revalidate (SWR) strategies and automatic background refetching.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query, reducing redundant network requests and improving performance.
 
-- **Router State Management**: Implements dynamic route handling with TanStack Router, showcasing URL-driven state persistence, lazy-loaded route modules, and optimized client-side navigation for AI agent workflows.
+- **AI-Agent Router Best Practices**: Provides structured routing strategies for TanStack Router tailored to AI coding agents, ensuring dynamic, type-safe navigation with minimal overhead.
 
-- **Start Framework Integration**: Provides boilerplate for TanStack Start (meta-framework) to streamline SSR/SSG configurations, leveraging edge runtime optimizations and AI agent-specific hydration strategies for reduced TTI (Time to Interactive).
+- **TanStack Start Optimization**: Focuses on leveraging TanStack Start for AI agents, emphasizing modular architecture, lazy loading, and SSR/SSG compatibility for scalable AI-driven frontend applications.
 
 ## Why It Matters
 

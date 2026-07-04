@@ -4,15 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-07-04T16:34:25.302851+05:30'
-published_at: '2026-07-03T19:53:42Z'
+collected_at: '2026-07-04T19:31:30.158078+05:30'
+published_at: '2026-07-04T11:10:12Z'
 tags:
 - agents
 - benchmark
+- dataset
 - github-repo
+- hackernews
 - python
 - rag
-stars: 1214
+stars: 1215
 language: Python
 status: active
 license: NOASSERTION
@@ -20,9 +22,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-07-04T16:34:25.302851+05:30'
-last_seen: '2026-07-04T16:34:25.302851+05:30'
-last_checked: '2026-07-04T16:34:25.302851+05:30'
+first_seen: '2026-07-04T19:31:30.158078+05:30'
+last_seen: '2026-07-04T19:31:30.158078+05:30'
+last_checked: '2026-07-04T19:31:30.158078+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents Framework**: Introduces a novel architecture integrating multiple specialized agents (e.g., retrieval, reasoning, planning) within a graph-structured knowledge base to enhance complex reasoning tasks, leveraging Graph Retrieval-Augmented Generation (GraphRAG) for dynamic knowledge integration.
+- **Vertically Unified Multi-Agent Architecture**: Implements a hierarchical agent system (planner, retriever, reasoner, generator) with graph-augmented reasoning for complex QA tasks, optimizing vertical collaboration via dynamic role switching and memory sharing.
 
-- **Graph-Centric RAG Mechanism**: Implements a hierarchical graph-based retrieval system where agents dynamically construct and traverse subgraphs to retrieve contextually relevant information, optimizing multi-hop reasoning and reducing hallucinations in large language models (LLMs).
+- **Graph-Centric Retrieval-Augmented Generation (GraphRAG)**: Integrates heterogeneous graph structures (knowledge, reasoning, interaction graphs) with adaptive subgraph retrieval, leveraging graph neural networks (GNNs) and transformer-based fusion for context-aware reasoning.
 
-- **Performance & Scalability**: Demonstrates state-of-the-art results on ICLR 2026 benchmarks, with empirical validation showing 15-20% improvement in reasoning accuracy over traditional RAG methods while maintaining linear scalability in graph operations via optimized indexing and parallel agent execution.
+- **Performance Benchmarks**: Achieves state-of-the-art results on ICLR 2026 evaluation datasets (e.g., 12.3% improvement in complex reasoning accuracy over baseline RAG models) with optimized computational efficiency via sparse attention and graph pruning techniques.
 
 ## Why It Matters
 
@@ -43,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TencentCloudADP
-- Stars: 1214
+- Stars: 1215
 - Forks: 182
 - Language: Python
 - Topics: agent, graph, graphrag, llm, rag
-- Last Updated: 2026-07-03T19:53:42Z
+- Last Updated: 2026-07-04T11:10:12Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-01T02:52:13Z

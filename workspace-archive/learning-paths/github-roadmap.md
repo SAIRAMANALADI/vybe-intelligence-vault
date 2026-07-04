@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Public GitHub roadmap repository tracking upcoming features and improvements for GitHub and GitHub Enterprise.
-- **Metadata**: 8,792 stars, 1,689 forks; last updated July 4, 2026.
-- **Scope**: Focuses on feature roadmaps for GitHub core platform and enterprise solutions.
+- **Public Roadmap for GitHub Products**: Provides a transparent view of upcoming features and improvements across GitHub's ecosystem, including GitHub.com and GitHub Enterprise.
+- **Community-Driven Feedback Integration**: Enables users to submit and vote on feature requests, directly influencing development priorities and roadmap updates.
+- **Regularly Updated Repository**: Maintained with the latest progress and timelines, last synced on **2026-07-04**, ensuring alignment with evolving produc
 
 ## Use Cases
 

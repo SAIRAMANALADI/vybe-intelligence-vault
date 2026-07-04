@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/alibaba/page-agent
-published_at: '2026-07-04T16:31:59.988205+05:30'
-collected_at: '2026-07-04T16:31:59.988211+05:30'
+published_at: '2026-07-04T19:29:09.455906+05:30'
+collected_at: '2026-07-04T19:29:09.455914+05:30'
 tags:
 - agents
 - github-trending
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: github:alibaba/page-agent
 first_seen: '2026-06-25T16:35:46.163525+05:30'
-last_seen: '2026-07-04T16:31:59.988211+05:30'
-last_checked: '2026-07-04T16:31:59.988211+05:30'
+last_seen: '2026-07-04T19:29:09.455914+05:30'
+last_checked: '2026-07-04T19:29:09.455914+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/agents
-- Published: 2026-07-04T16:31:59.988205+05:30
+- Published: 2026-07-04T19:29:09.455906+05:30
 
 ## Related Tags
 

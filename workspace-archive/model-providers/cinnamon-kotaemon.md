@@ -8,7 +8,7 @@ local_vault_path: ai/rag/cinnamon-kotaemon.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
@@ -17,7 +17,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # Cinnamon/kotaemon
@@ -26,18 +26,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **RAG-based Document Interaction**: Kotaemon is an open-source tool leveraging Retrieval-Augmented Generation (RAG) to enable conversational querying over user-provided documents, enhancing context-aware responses.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded chat interactions, leveraging LLMs for contextual responses while retrieving relevant document snippets.
 
-- **Python Implementation**: The project is fully implemented in Python, utilizing modern NLP and ML libraries (e.g., LangChain, transformers) for document processing, retrieval, and LLM integration.
+- **Modular Python Framework**: Built with extensible components for document ingestion, vector storage (e.g., FAISS, Chroma), and LLM integration (e.g., Hugging Face, OpenAI APIs), supporting custom pipelines.
 
-- **Modular Architecture**: Designed with extensibility in mind, featuring plugga
+- **Open-Source Deployment**: Provides a self-hostable solution with Docker
 
 ## Use Cases
 

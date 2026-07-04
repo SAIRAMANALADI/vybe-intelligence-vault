@@ -4,13 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-04T16:34:30.282092+05:30'
+collected_at: '2026-07-04T19:31:35.121732+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
-- dataset
 - github-repo
-- meta-ai
-- models
 - python
 - rag
 stars: 173
@@ -21,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-04T16:34:30.282092+05:30'
-last_seen: '2026-07-04T16:34:30.282092+05:30'
-last_checked: '2026-07-04T16:34:30.282092+05:30'
+first_seen: '2026-07-04T19:31:35.121732+05:30'
+last_seen: '2026-07-04T19:31:35.121732+05:30'
+last_checked: '2026-07-04T19:31:35.121732+05:30'
 health_score: 100
 ---
 
@@ -31,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation over diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or entity-level), leveraging unified indexing and retrieval mechanisms.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or entity-level), leveraging unified indexing and retrieval mechanisms.
 
-- **Modality-Agnostic Retrieval & Generation**: Implements a cross-modal retrieval system using modality-specific encoders (e.g., CLIP for images, BERT for text) with a shared embedding space, followed by a unified generation pipeline (e.g., T5 or LLaMA) fine-tuned for multi-modal fusion.
+- **Unified Indexing & Retrieval**: Implements a modality-agnostic indexing pipeline with contrastive learning to align embeddings across modalities, and a hierarchical retrieval strategy to dynamically select optimal granularity for queries.
 
-- **Dynamic Adaptation & Scalability**: Supports dynamic corpus updates, adaptive retrieval strategies (e.g., hierarchical or hybrid search), and efficient indexing (e.g., FAISS or ScaNN) to handle large-scale, heterogeneous datasets while maintaining low-latency inference.
+- **ACL 2026 Oral Contribution**: Presents an extensible architecture with modular components for modality-specific encoders, fusion strategies, and adaptive retrieval, validated on heterogeneous corpora with state-of-the-art performance in multimodal QA and generation tasks.
 
 ## Why It Matters
 

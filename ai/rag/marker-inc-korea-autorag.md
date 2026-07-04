@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-07-04T16:33:20.218307+05:30'
+collected_at: '2026-07-04T19:30:25.077658+05:30'
 published_at: '2026-07-04T07:50:34Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - hackernews
 - python
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-07-02T03:46:39Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-07-04T16:33:20.218307+05:30'
-last_seen: '2026-07-04T16:33:20.218307+05:30'
-last_checked: '2026-07-04T16:33:20.218307+05:30'
+first_seen: '2026-07-04T19:30:25.077658+05:30'
+last_seen: '2026-07-04T19:30:25.077658+05:30'
+last_checked: '2026-07-04T19:30:25.077658+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of RAG pipelines using AutoML techniques, dynamically selecting and tuning components (e.g., embeddings, retrievers, generators) for performance without manual intervention.
+- **AutoML-driven RAG optimization**: Automates end-to-end RAG pipeline tuning (retrieval, generation, and post-processing) using AutoML techniques to optimize performance metrics without manual intervention.
 
-- **Comprehensive RAG Benchmarking**: The framework includes built-in benchmarking tools for assessing RAG systems across metrics like retrieval accuracy, answer correctness, and latency, supporting both standard and custom datasets.
+- **Comprehensive evaluation framework**: Provides built-in benchmarking tools for assessing RAG systems across multiple dimensions (retrieval quality, generation coherence, and end-to-end QA performance) with standardized metrics.
 
-- **Modular Python Pipeline**: Implements a Python-based, modular pipeline for document parsing, embedding generation, retrieval, and generation, with support for integration with LLMs (e.g., Hugging Face models) and document formats (PDF, Markdown, etc.).
+- **Modular pipeline with auto-configuration**: Supports dynamic configuration of document parsers, embeddings, retrievers, and LLMs, with automated hyperparameter optimization for retrieval-augmented generation tasks.
 
 ## Why It Matters
 

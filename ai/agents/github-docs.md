@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.github.com
-published_at: '2026-07-04T09:40:38.039129+05:30'
-collected_at: '2026-07-04T09:40:38.039145+05:30'
+published_at: '2026-07-04T19:38:09.502359+05:30'
+collected_at: '2026-07-04T19:38:09.502373+05:30'
 tags:
 - agents
 - scripts
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-docs
-first_seen: '2026-07-04T09:40:38.039145+05:30'
-last_seen: '2026-07-04T09:40:38.039145+05:30'
-last_checked: '2026-07-04T09:40:38.039145+05:30'
+first_seen: '2026-07-04T19:38:09.502373+05:30'
+last_seen: '2026-07-04T19:38:09.502373+05:30'
+last_checked: '2026-07-04T19:38:09.502373+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,11 @@ health_score: 100
 
 ## Summary
 
-- GitHub provides **version control via Git**, **SSH for secure remote access**, and **repository management** for collaborative development workflows.
-- **Pull requests** enable code review and merging, while **GitHub Actions** supports CI/CD pipelines and **Codespaces** offers cloud-based development environments.
-- **GitHub Copilot** integrates AI-driven code suggestions in IDEs, and **security tools** like CodeQL and secret scanning enforce supply chain and vulnerability management.
+- **Core GitHub Infrastructure**: GitHub relies on Git (open-source VCS) for local version control, supports SSH for secure remote connections, and provides repository management (creation, naming, and location handling).
+
+- **Collaboration & Workflows**: Pull requests enable code proposal, review, and merging; GitHub Actions automates CI/CD pipelines; GitHub Discussions facilitates team communication.
+
+- **Security & Developer Tools**: GitHub supports authentication via passwords, tokens, and SSH keys; CodeQL enables vulnerability scanning; REST/GraphQL APIs and webhooks allow programmatic access and integration.
 
 ## Why It Matters
 
@@ -36,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-04T09:40:38.039129+05:30
+- Published: 2026-07-04T19:38:09.502359+05:30
 
 ## Related Tags
 

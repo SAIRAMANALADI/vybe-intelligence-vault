@@ -8068,10 +8068,14 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [2026 Unslop AI-Written Fiction Contest Results](../ai/community/2026-unslop-ai-written-fiction-contest-results.md)
   - [Jamesob's guide to running SOTA LLMs locally](../ai/community/jamesob-local-llm.md)
   - [MSI Center – How to gain SYSTEM privileges in seconds](../ai/community/msi-center-how-to-gain-system-privileges-in-second.md)
   - [Postgres data stored in Parquet on S3: LTAP architecture explained](../ai/community/postgres-data-stored-in-parquet-on-s3-ltap-archite.md)
+  - [Ship traces journey Spanish Armada sailors made in 1588](../ai/community/ship-traces-journey-spanish-armada-sailors-made-in.md)
   - [Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining](../ai/community/adam-s-car-diagnosis.md)
+  - [Show HN: Foundation, a different approach to software and AI](../ai/community/nmxmxh-foundation.md)
+  - [The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels](../ai/community/the-vespa-at-80-why-the-italian-scooter-remains-th.md)
   - [The bottleneck might be the air in the room](../ai/community/the-bottleneck-might-be-the-air-in-the-room.md)
 
 ## Unknown Source (type: huggingface)
@@ -9055,11 +9059,11 @@ Resources organized by publisher feed and query sources.
   - [- YouTube](../ai/resources/youtube-i-v4vm2kbuc.md)
   - [- YouTube](../ai/resources/youtube-py9d6ztl4dc.md)
   - [- YouTube](../ai/resources/youtube-luemjgg2k4c.md)
+  - [- YouTube](../ai/resources/youtube-k3r9axddrru.md)
   - [- YouTube](../ai/resources/youtube-wwxyuhutjqe.md)
   - [- YouTube](../ai/resources/youtube-gnjgt-ib-e.md)
   - [- YouTube](../ai/resources/youtube-ikb1z6ium-c.md)
   - [- YouTube](../ai/rag/youtube-2swdr3z0wo.md)
-  - [- YouTube](../ai/resources/youtube-k3r9axddrru.md)
   - [.NET and .NET Core official support policy | .NET](../ai/resources/net-and-net-core-official-support-policy-net.md)
   - [1-Click RCE To Steal Your OpenClaw Data and Keys (CVE-2026-25253) | depthfirst](../ai/rag/1-click-rce-to-steal-your-openclaw-data-and-keys-c.md)
   - [1. GEPA Overview - DSPy](../ai/rag/1-gepa-overview-dspy.md)
@@ -11472,10 +11476,10 @@ Resources organized by publisher feed and query sources.
   - [Speculation Rules API - Web APIs | MDN](../web-development/speculation-rules-api-web-apis-mdn.md)
   - [Speechify AI - Voice AI Research Lab](../ai/rag/speechify-ai-voice-ai-research-lab.md)
   - [Speechify Inc status](../ai/resources/speechify-inc-status.md)
-  - [Speechify Text to Speech API — Voices, Streaming, and SSML | Speechify API](../ai/rag/speechify-text-to-speech-api-voices-streaming-and.md)
   - [Speechify Voice Agents — Real-Time Voice AI Overview | Speechify API](../ai/rag/speechify-voice-agents-real-time-voice-ai-overview.md)
   - [Speechify · GitHub](../ai/agents/speechify-github.md)
   - [Speechify: Text to Speech & Voice Typing AI Assistant | 60M+ Users](../ai/resources/speechify-text-to-speech-voice-typing-ai-assistant.md)
+  - [SpeechifyAI Build: TTS, Voices, Streaming, and SSML | Speechify API](../ai/rag/speechify-text-to-speech-api-voices-streaming-and.md)
   - [Speedometer 3.1](../ai/resources/speedometer-3-1.md)
   - [Sphinx extensions for embedded plots, math and more — sampledoc 1.0 documentation](../ai/resources/sphinx-extensions-for-embedded-plots-math-and-more.md)
   - [Sphinx — Sphinx documentation](../ai/resources/sphinx-sphinx-documentation.md)
@@ -12117,6 +12121,7 @@ Resources organized by publisher feed and query sources.
   - [deepset (deepset)](../ai/rag/deepset-deepset.md)
   - [deepset Trust Center](../ai/resources/deepset-trust-center.md)
   - [deepset · GitHub](../ai/resources/deepset-github.md)
+  - [deepset, makers of Haystack - YouTube](../ai/resources/deepset-makers-of-haystack-youtube.md)
   - [deepset-ai/haystack · Discussions · GitHub](../ai/rag/deepset-ai-haystack.md)
   - [design-proposals-archive/storage/persistent-storage.md at main · kubernetes/design-proposals-archive · GitHub](../ai/rag/design-proposals-archive-storage-persistent-storag.md)
   - [dev](../ai/rag/dev.md)
@@ -12352,4 +12357,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-07-04T16:47:59.928120+05:30*
+*Index generated on 2026-07-04T19:45:02.026937+05:30*

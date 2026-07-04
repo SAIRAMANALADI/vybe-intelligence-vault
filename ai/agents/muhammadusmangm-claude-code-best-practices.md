@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-07-04T16:35:25.349643+05:30'
+collected_at: '2026-07-04T19:32:30.144625+05:30'
 published_at: '2026-07-01T14:48:32Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-07-04T16:35:25.349643+05:30'
-last_seen: '2026-07-04T16:35:25.349643+05:30'
-last_checked: '2026-07-04T16:35:25.349643+05:30'
+first_seen: '2026-07-04T19:32:30.144625+05:30'
+last_seen: '2026-07-04T19:32:30.144625+05:30'
+last_checked: '2026-07-04T19:32:30.144625+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Structure & Templates**: Provides `CLAUDE.md` templates and structured workflows for optimizing Claude Code usage, including multi-agent patterns and CLI configurations.
-- **Cost & Performance Optimization**: Focuses on cost-efficient practices for LLM interactions, MCP integrations, and resource management in AI-driven development workflows.
-- **Agentic AI Workflows**: Implements advanced agentic AI patterns for developer tooling, emphasizing automation, scalability, and Anthropic model compatibility.
+- **Repository Structure & Setup**: Provides a structured guide for configuring Claude Code, including `CLAUDE.md` templates, CLI workflows, and multi-agent patterns optimized for AI-driven development.
+
+- **Cost & Performance Optimization**: Focuses on cost-efficient practices for LLM interactions, MCP integrations, and resource management to minimize computational overhead while maintaining high performance.
+
+- **Developer Tooling & Templates**: Offers reusable templates and best-practice workflows for agentic AI, Anthropic API integration, and CLI-based automation in Shell scripting environments.
 
 ## Why It Matters
 

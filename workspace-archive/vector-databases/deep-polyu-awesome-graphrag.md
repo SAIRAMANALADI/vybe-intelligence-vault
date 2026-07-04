@@ -8,7 +8,7 @@ local_vault_path: ai/rag/deep-polyu-awesome-graphrag.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
@@ -18,7 +18,7 @@ tags:
 - rag
 - unknown
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # DEEP-PolyU/Awesome-GraphRAG
@@ -27,17 +27,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Curated Resource Hub**: Comprehensive collection of surveys, papers, benchmarks, and open-source projects focused on **graph-based retrieval-augmented generation (GraphRAG)**, covering knowledge graphs, large language models (LLMs), and RAG frameworks.
-
-- **Technical Scope**: Encompasses **GraphRAG-specific topics**, including graph-augmented retrieval, knowledge graph integration with LLMs, and evaluation benchmarks for graph-enhanced RAG systems.
-
-- **Repository Metrics**: 2,506 stars, 217
+- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, emphasizing knowledge graphs and large language models (LLMs).
+- **Technical Scope**: Covers **GraphRAG architectures**, retrieval mechanisms, and integration with LLMs for enhanced contextual reasoning and knowledge synthesis.
+- **Community & Updates**: Maintained repository with **2,506 stars** and **217 forks**, last updated **July
 
 ## Use Cases
 

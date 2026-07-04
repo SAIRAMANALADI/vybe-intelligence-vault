@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raga-ai-hub/raga-llm-hub
-collected_at: '2026-07-04T16:34:10.351445+05:30'
+collected_at: '2026-07-04T19:31:15.133326+05:30'
 published_at: '2026-06-11T18:44:18Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-03-02T18:32:13Z'
 pushed_at: '2024-09-09T10:53:31Z'
 resource_id: github:raga-ai-hub/raga-llm-hub
-first_seen: '2026-07-04T16:34:10.351445+05:30'
-last_seen: '2026-07-04T16:34:10.351445+05:30'
-last_checked: '2026-07-04T16:34:10.351445+05:30'
+first_seen: '2026-07-04T19:31:15.133326+05:30'
+last_seen: '2026-07-04T19:31:15.133326+05:30'
+last_checked: '2026-07-04T19:31:15.133326+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Framework for evaluating LLMs, implementing guardrails, and ensuring LLM security in production environments.
-- **Key Features**: Supports structured evaluation metrics, real-time safety checks, and compliance enforcement for LLMs.
-- **Technical Stack**: Python-based, integrates with LLMOps workflows for deployment and monitoring.
+- **Purpose-built framework** for evaluating LLMs, implementing guardrails, and enforcing security protocols in Python-based workflows.
+- **Key features** include modular evaluation pipelines, real-time content moderation, and adversarial attack mitigation for LLM deployments.
+- **LLMOps integration** supports CI/CD pipelines, automated benchmarking, and compliance tracking for enterprise-grade LLM applications.
 
 ## Why It Matters
 

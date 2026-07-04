@@ -4,16 +4,16 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.github.com/en/github-cli/github-cli/github-cli-telemetry
-published_at: '2026-07-04T09:42:15.368128+05:30'
-collected_at: '2026-07-04T09:42:15.368140+05:30'
+published_at: '2026-07-04T19:38:22.102186+05:30'
+collected_at: '2026-07-04T19:38:22.102200+05:30'
 tags:
 - agents
 - web-crawled
 status: active
 resource_id: blog:github-cli-telemetry-github-docs
-first_seen: '2026-07-04T09:42:15.368140+05:30'
-last_seen: '2026-07-04T09:42:15.368140+05:30'
-last_checked: '2026-07-04T09:42:15.368140+05:30'
+first_seen: '2026-07-04T19:38:22.102200+05:30'
+last_seen: '2026-07-04T19:38:22.102200+05:30'
+last_checked: '2026-07-04T19:38:22.102200+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Telemetry Purpose**: GitHub CLI collects pseudonymous telemetry to improve product development by tracking feature adoption, usage patterns, and user needs, prioritizing development efforts based on real-world data.
-- **Telemetry Implementation**: Telemetry can be reviewed via logging mode (`GH_TELEMETRY=log` or `gh config set telemetry log`), which outputs JSON payloads to stderr for inspection, including event types, dimensions, and contextual metadata.
-- **Opt-Out Mechanism**: Users can disable telemetry via environment variables (`GH_TELEMETRY=false` or `DO_NOT_TRACK=true`) or CLI configuration (`gh config set telemetry disabled`), with environment variables taking precedence.
+- GitHub CLI collects pseudonymous telemetry to improve product features, prioritizing development based on real-world usage patterns (e.g., subcommand adoption, flag usage).
+- Telemetry can be reviewed in logging mode (`GH_TELEMETRY=log` or `gh config set telemetry log`) to inspect JSON payloads before actual transmission.
+- Users can opt out via `GH_TELEMETRY=false` (or falsy values) or `gh config set telemetry disabled`, with environment variables taking precedence.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-04T09:42:15.368128+05:30
+- Published: 2026-07-04T19:38:22.102186+05:30
 
 ## Related Tags
 

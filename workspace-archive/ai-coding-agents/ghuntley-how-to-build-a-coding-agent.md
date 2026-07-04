@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a structured workshop for building a **coding agent** (similar to Cursor, Cline, or Amp) using **Go**, covering AI-driven code generation/automation workflows.
-- **Key Components**: Focuses on **agent architecture**, **AI integration**, and **development tooling** for autonomous coding tasks.
-- **Technical Stack**: Primarily implemented in **Go**, with dependencies on AI models and CLI tools for agent orchestration.
+- **Purpose**: Provides a structured workshop for building a **coding agent** (similar to Cursor, Cline, or Roo Code) using **Go**, covering AI-driven code assistance and automation.
+- **Technical Scope**: Focuses on **agent architecture**, **AI integration**, and **workflow automation** for code generation, debugging, and project management.
+- **Repository Details**: Active development with **5,717 stars** and **640 forks**, last updated **July 4, 2026**; includes tutorials for implementing AI-
 
 ## Use Cases
 

@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - benchmark
-- scripts
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified Agent Lifecycle Management**: LangSmith provides a framework-agnostic platform for observing, evaluating, and deploying agents via Python, TypeScript, Go, or Java SDKs, supporting A2A & MCP protocols and enabling autonomous issue diagnosis through LangSmith Engine.
+- **Multi-framework observability**: LangSmith provides native tracing for popular agent frameworks (e.g., LangChain, LangGraph) and OpenTelemetry, with SDKs in Python/TypeScript/Go/Java for cross-stack integration, enabling structured debugging via step-by-step execution timelines and AI-driven pattern analysis.
 
-- **Observability & Evaluation**: Offers structured tracing for multi-turn agent interactions, AI-driven insights for pattern analysis, and reusable LLM-as-judge evals with human feedback calibration to iteratively improv
+- **Automated evaluation & deployment**: Supports reusable LLM-as-judge evals, human feedback calibration, and production deployment with fault-tolerant infrastructure, including async
 
 ## Use Cases
 

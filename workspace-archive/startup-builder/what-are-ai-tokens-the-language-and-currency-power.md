@@ -8,14 +8,13 @@ local_vault_path: ai/rag/what-are-ai-tokens-the-language-and-currency-power.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: dataset
 importance: medium
 tags:
 - agents
 - anthropic
 - benchmark
 - dataset
-- models
 - rag
 - reddit
 - web-crawled
@@ -32,16 +31,16 @@ selection_reason:
 
 - Matched archive category: `Startup Builder`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Tokenization Process**: AI models convert input data (text, images, audio, etc.) into discrete tokens via tokenization, where words/phrases are split into subword units (e.g., "darkness" → ["dark", "ness"]), enabling efficient processing while preserving semantic relationships through shared numerical representations.
+- **Tokenization Process**: AI models convert input data (text, images, audio, etc.) into discrete tokens via tokenization, enabling structured processing; tokenizers map subword units (e.g., "dark" + "ness") to numerical IDs, preserving semantic relationships while optimizing computational efficiency.
 
-- **Token-Centric AI Training/Inference**: Training scales with token volume (billions/trillions), leveraging pretraining (next-token prediction) and post-training (domain/tas
+- **Token-Centric Training & Inference**: During pretraining, models predict next tokens in massive datasets (trillions of tokens) to converge; inference involves processing input tokens to gener
 
 ## Use Cases
 

@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://databricks.com/blog/lakebase-ltap-rethinking-database-storage
 hn_url: https://news.ycombinator.com/item?id=48745855
-score: 34
+score: 74
 author: andrenotgiant
-comments_count: 12
+comments_count: 21
 published_at: '2026-07-01T18:18:56+05:30'
-collected_at: '2026-07-04T16:31:59.444275+05:30'
+collected_at: '2026-07-04T19:29:08.784538+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:postgres-data-stored-in-parquet-on-s3-ltap-archite
 first_seen: '2026-07-04T16:31:59.444275+05:30'
-last_seen: '2026-07-04T16:31:59.444275+05:30'
-last_checked: '2026-07-04T16:31:59.444275+05:30'
+last_seen: '2026-07-04T19:29:08.784538+05:30'
+last_checked: '2026-07-04T19:29:08.784538+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by andrenotgiant. Score: 34, Comments: 12.
+Hacker News story by andrenotgiant. Score: 74, Comments: 21.
 Original Link: https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: andrenotgiant
-- Score: 34 Upvotes
-- Comments: 12 Discussions
+- Score: 74 Upvotes
+- Comments: 21 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48745855
 - Original Article: https://databricks.com/blog/lakebase-ltap-rethinking-database-storage
 

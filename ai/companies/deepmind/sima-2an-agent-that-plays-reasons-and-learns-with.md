@@ -4,8 +4,8 @@ category: ai/companies/deepmind
 source_type: company_blog
 source_name: Google DeepMind Blog
 source_url: https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds
-published_at: '2026-07-04T16:32:07.512725+05:30'
-collected_at: '2026-07-04T16:32:07.512740+05:30'
+published_at: '2026-07-04T19:29:13.600697+05:30'
+collected_at: '2026-07-04T19:29:13.600711+05:30'
 tags:
 - agents
 - blog-post
@@ -15,8 +15,8 @@ tags:
 status: active
 resource_id: blog:sima-2an-agent-that-plays-reasons-and-learns-with
 first_seen: '2026-06-16T04:26:32.685562+00:00'
-last_seen: '2026-07-04T16:32:07.512740+05:30'
-last_checked: '2026-07-04T16:32:07.512740+05:30'
+last_seen: '2026-07-04T19:29:13.600711+05:30'
+last_checked: '2026-07-04T19:29:13.600711+05:30'
 health_score: 100
 ---
 
@@ -34,7 +34,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Google DeepMind Blog
 - Article URL: https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds
-- Collected At: 2026-07-04T16:32:07.512740+05:30
+- Collected At: 2026-07-04T19:29:13.600711+05:30
 
 ## Related Tags
 

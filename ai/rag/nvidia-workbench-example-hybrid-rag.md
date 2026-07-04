@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-04T16:33:25.289051+05:30'
+collected_at: '2026-07-04T19:30:30.105828+05:30'
 published_at: '2026-06-30T16:45:55Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 368
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-04T16:33:25.289051+05:30'
-last_seen: '2026-07-04T16:33:25.289051+05:30'
-last_checked: '2026-07-04T16:33:25.289051+05:30'
+first_seen: '2026-07-04T19:30:30.105828+05:30'
+last_seen: '2026-07-04T19:30:30.105828+05:30'
+last_checked: '2026-07-04T19:30:30.105828+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Retrieval Augmented Generation (RAG)**: Implements a hybrid RAG pipeline combining dense (vector) and sparse (keyword) retrieval methods to enhance document retrieval accuracy and context relevance for LLM generation.
-
-- **NVIDIA AI Workbench Integration**: Demonstrates deployment and optimization of the RAG system using NVIDIA AI Workbench, leveraging GPU acceleration for efficient model inference and retrieval.
-
-- **Python-Based Implementation**: Provides a Python-based reference implementation with modular components for document preprocessing, retrieval, and LLM integration, optimized for NVIDIA hardware.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining vector and keyword-based retrieval for enhanced document grounding in LLMs.
+- **NVIDIA AI Workbench Integration**: Showcases deployment and optimization of RAG workflows using NVIDIA’s AI Workbench for GPU-accelerated inference and retrieval.
+- **Python-Based Example**: Provides a Python-based reference implementation with modular components for document preprocessing, retrieval, and LLM generation.
 
 ## Why It Matters
 

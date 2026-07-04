@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a TypeScript-based open-source template for constructing cloud-native AI agents with background processing capabilities.
-- **Key Features**: Supports agent orchestration, AI model integration, and scalable background task execution via Vercel’s serverless infrastructure.
-- **Architecture**: Leverages Vercel’s platform for deployment, enabling real-time agent interactions with persistent background processes.
+- **Purpose**: Open-source TypeScript template for constructing cloud-based AI agents with background processing capabilities.
+- **Architecture**: Leverages Vercel's serverless infrastructure for scalable, event-driven agent execution.
+- **Features**: Supports persistent agent states, background tasks, and integrates with AI models via standardized interfaces.
 
 ## Use Cases
 

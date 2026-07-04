@@ -8,7 +8,7 @@ local_vault_path: ai/rag/deckardger-tanstack-agent-skills.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: framework
+resource_kind: tool
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - unknown
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # DeckardGer/tanstack-agent-skills
@@ -27,16 +27,18 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: framework
+- Resource kind: tool
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-*   Establishes best practices for integrating TanStack Query, Router, and Start.
-*   Optimizes TanStack library utilization within AI coding agent architectures.
-*   Provides prescriptive guidance for AI agent development leveraging the TanStack ecosystem.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query, reducing redundant network requests and improving performance.
+
+- **AI-Agent Router Best Practices**: Provides structured routing strategies for TanStack Router tailored to AI coding agents, ensuring dynamic, type-safe navigation with minimal overhead.
+
+- **TanStack Start Optimization**: Focuses on leveraging TanStack
 
 ## Use Cases
 

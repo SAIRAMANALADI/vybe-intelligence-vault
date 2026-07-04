@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Contains examples and guides for utilizing the OpenAI API, covering models like ChatGPT and GPT-4.
-- **Technical Stack**: Primarily implemented in Jupyter Notebooks, facilitating interactive and reproducible API usage demonstrations.
-- **Metadata**: 74,531 stars, 12,612 forks, last updated on July 3, 2026, with topics including OpenAI, API integration, and model-specific guides.
+- **Repository Overview**: Contains examples and guides for OpenAI API usage, including ChatGPT and GPT-4 implementations.
+- **Technical Details**: Primarily implemented in Jupyter Notebooks, covering practical applications and best practices.
+- **Metadata**: 74,537 stars, 12,612 forks, last updated July 4, 2026.
 
 ## Use Cases
 

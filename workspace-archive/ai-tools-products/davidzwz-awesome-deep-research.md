@@ -13,10 +13,9 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
+- scripts
 - unknown
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on autonomous reasoning agents, advanced RAG systems, and LLM-driven search methodologies for ACL 2026.
-- **Technical Scope**: Covers reasoning agents, deep research frameworks, and search optimization techniques, emphasizing multi-agent collaboration and adaptive retrieval strategies.
-- **Repository Metrics**: Maintained with 780 stars and 63 forks, last updated June 2026, targeting LLMs, reasoning ar
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, focusing on LLM-driven reasoning agents, search agents, and RAG (Retrieval-Augmented Generation) architectures for autonomous knowledge synthesis.
+
+- **ACL 2026 KnowFM Alignment**: Aligns with ACL 2026’s KnowFM track, emphasizing multi-agent systems, deep reasoning pipelines, and scalable knowledge acquisition frameworks.
+
+- **Open-Source Contributions**: Hosts 787+ stars and 63 forks, fostering community-driv
 
 ## Use Cases
 

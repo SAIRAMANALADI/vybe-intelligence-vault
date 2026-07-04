@@ -12,6 +12,8 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
+- hackernews
+- models
 - rag
 - web-crawled
 selection_reason:
@@ -30,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive API Coverage**: Encompasses Python and TypeScript packages for LangChain, LangGraph, Deep Agents, LangSmith, and integrations, detailing classes, functions, and types.
-- **Unified Documentation**: Provides a single reference point for the entire LangChain ecosystem, excluding guides and conceptual docs.
-- **Cross-Language Support**: Includes both Python and TypeScript implementations for all documented APIs and integrations.
+- **Comprehensive API Coverage**: Encompasses Python and TypeScript packages for LangChain, LangGraph, Deep Agents, LangSmith, and their integrations, providing detailed references for classes, functions, and types.
+- **Structured Documentation**: Organized to facilitate browsing and exploration of the entire LangChain ecosystem’s technical architecture.
+- **Separate Conceptual Resources**: Directs users to the main documentation site ([docs.langchain.com](https://docs.langchain.com)) for guides
 
 ## Use Cases
 

@@ -4,16 +4,16 @@ category: web-development/tailwind
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.astro.build/en/guides/styling/#tailwind
-published_at: '2026-07-04T01:29:38.358838+05:30'
-collected_at: '2026-07-04T01:29:38.358850+05:30'
+published_at: '2026-07-04T19:42:13.629247+05:30'
+collected_at: '2026-07-04T19:42:13.629260+05:30'
 tags:
 - frontend_ui
 - web-crawled
 status: active
 resource_id: blog:styles-and-css-docs
-first_seen: '2026-07-04T01:29:38.358850+05:30'
-last_seen: '2026-07-04T01:29:38.358850+05:30'
-last_checked: '2026-07-04T01:29:38.358850+05:30'
+first_seen: '2026-07-04T19:42:13.629260+05:30'
+last_seen: '2026-07-04T19:42:13.629260+05:30'
+last_checked: '2026-07-04T19:42:13.629260+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,11 @@ health_score: 100
 
 ## Summary
 
-- Astro supports **scoped styles** (default) via `<style>` tags, preventing CSS leakage by compiling selectors with component-specific attributes (`data-astro-cid-*`), while preserving specificity for local overrides.
-- **Global styles** require explicit opt-out via `is:global` in `<style>` tags or `scopedStyleStrategy: 'none'` in config, but should be used sparingly to avoid unintended cascading effects.
-- **CSS import order** dictates precedence: `<link>` tags (lowest) → imported stylesheets → scoped styles (highest), with same-specificity conflicts resolved by last-imported rule.
+- Astro supports **scoped styles** via `<style>` tags, which compile to unique selectors (e.g., `h1[data-astro-cid-xxx]`) to prevent style leakage, while preserving specificity and allowing low-specificity selectors like `h1 {}` to work safely within components.
+
+- **CSS import order** determines precedence: `<link>` tags (lowest), imported stylesheets, and scoped styles (highest). Conflicts with equal specificity resolve to the last imported/defined rule.
+
+- **Tailwind CSS** integration in Astro ≥5.2.0 uses the `astro add tailwind` CLI to install `@tailwindcss/vite`, requiring `tailwindcss` import in a global CSS file (e.g., `src/styles/global.css`) to apply utility classes across layouts.
 
 ## Why It Matters
 
@@ -33,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: web-development/tailwind
-- Published: 2026-07-04T01:29:38.358838+05:30
+- Published: 2026-07-04T19:42:13.629247+05:30
 
 ## Related Tags
 

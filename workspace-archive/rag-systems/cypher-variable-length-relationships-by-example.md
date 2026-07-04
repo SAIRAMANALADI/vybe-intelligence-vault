@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Variable-length relationship syntax in Cypher** allows specifying path lengths using `*minHops..maxHops` (e.g., `-[:KNOWS*2..3]->` for 2-3 hops), enabling flexible traversal depth control in graph queries.
+- **Variable-length relationship syntax** in Cypher allows specifying path lengths using `*minHops..maxHops` (e.g., `-[:KNOWS*2..3]->` for 2-3 hops), enabling flexible traversal depth control in graph queries.
 
-- **Zero-length paths** (`*0`) bind the same node to multiple variables in a pattern, simplifying queries for nodes with optional relationships (e.g., retrieving all blog posts regardless of count).
+- **Zero-length paths** (`*0`) bind the same node to multiple variables in a pattern, simplifying queries by avoiding `OPTIONAL MATCH` clauses (e.g., `-[:PREVIOUS_POST*0..1]->` captures posts with/without prior posts).
 
-- **Performance considerations** dictate avoiding infinite-length paths (`*`) in producti
+- **Performance considerations** dictate avoiding infinite-length pat
 
 ## Use Cases
 

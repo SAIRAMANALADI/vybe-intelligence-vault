@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by dataviz1000. Score: 16, Comments: 1.
+Hacker News story by dataviz1000. Score: 27, Comments: 1.
 Original Link: https://github.com/adam-s/car-diagnosis
 
 ## Use Cases

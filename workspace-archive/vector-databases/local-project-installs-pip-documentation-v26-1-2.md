@@ -30,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Regular Install**: Installs a local project into the Python environment by copying files, mimicking a standard package installation (`pip install path/to/project`). Used in CI/CD and deployments for accurate environment replication.
+- **Regular Install**: Installs a local project into Python's environment by copying files, mimicking a standard package installation (`pip install path/to/project`). Ideal for CI/CD and deployments due to consistent behavior.
 
-- **Editable Install**: Installs a local project in "development mode" (`pip install -e path/to/project`), adding the project directory to Python’s import path without copying files, ideal for active development.
+- **Editable Install**: Installs a local project in "development mode" (`pip install -e path/to/project`), linking files directly from the source directory to Python's import path without copying, enabling live code changes during development.
 
-- **Build Artifacts & Backend Behavior**: Post-p
+- **Build Artifacts**: Mode
 
 ## Use Cases
 

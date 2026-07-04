@@ -15,7 +15,7 @@ Well-crafted system and user prompts are the primary mechanism for directing LLM
 - [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl) (template - USEFUL Tier)
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) (framework - USEFUL Tier)
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) (prompt - USEFUL Tier)
-- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (framework - USEFUL Tier)
+- [jxzhangjhu/Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) (prompt - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -25,8 +25,8 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 - [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl)
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook)
-- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
-- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
+- [jxzhangjhu/Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
+- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-07-04 16:49 IST*
+*Last updated: 2026-07-04 19:46 IST*

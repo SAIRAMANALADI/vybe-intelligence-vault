@@ -6,9 +6,9 @@ source_url: https://github.com/langchain-ai/open-swe
 resource_id: github:langchain-ai/open-swe
 local_vault_path: ai/agents/langchain-ai-open-swe.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # langchain-ai/open-swe
@@ -27,19 +27,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Asynchronous Multi-Agent Framework**: Implements an event-driven, non-blocking architecture for concurrent task execution using Python's asyncio, enabling parallelized LLM interactions and tool usage across distributed agents.
+- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for autonomous code generation and execution using LLMs (OpenAI, Anthropic ClaudeCode) with non-blocking I/O for parallel task handling.
 
-- **Tool-Agnostic Integration**: Supports dynamic switching between LLM providers (OpenAI, Anthropic) and external tools (ClaudeCode) via standardized interfaces, with built-in rate limiting and retry mechanisms for fault tolerance.
+- **Multi-Provider LLM Integration**: Supports pluggable LLM backends (OpenAI, Anthropic) with standardized interfaces for dynamic model switching and context-aware prompt engineering.
 
-- **State Management & Observabili
+- **Open-Source CLI Toolkit**: Provides a Python-based CLI (`open-swe`) for real-time tas
 
 ## Use Cases
 

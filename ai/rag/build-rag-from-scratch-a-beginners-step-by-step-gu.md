@@ -5,17 +5,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd
-published_at: '2026-07-04T09:33:19.565240+05:30'
-collected_at: '2026-07-04T09:33:19.565257+05:30'
+published_at: '2026-07-04T19:29:53.849596+05:30'
+collected_at: '2026-07-04T19:29:53.849606+05:30'
 tags:
+- hackernews
 - openai
 - rag
 - web-crawled
 status: active
 resource_id: blog:build-rag-from-scratch-a-beginners-step-by-step-gu
-first_seen: '2026-07-04T09:33:19.565257+05:30'
-last_seen: '2026-07-04T09:33:19.565257+05:30'
-last_checked: '2026-07-04T09:33:19.565257+05:30'
+first_seen: '2026-07-04T19:29:53.849606+05:30'
+last_seen: '2026-07-04T19:29:53.849606+05:30'
+last_checked: '2026-07-04T19:29:53.849606+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline**: Implements a retrieval-augmented generation system using LangChain, FAISS for vector storage, and OpenAI embeddings to ground responses in retrieved document chunks, preventing hallucinations by restricting answers to provided context.
+- **RAG Pipeline**: Implements a retrieval-augmented generation system using a two-step process: (1) **semantic retrieval** via FAISS vector search on document embeddings, followed by (2) **context-constrained generation** using OpenAI’s LLM with a system prompt enforcing factual grounding and refusal to hallucinate.
 
-- **Modular Architecture**: Structured into four core components—`document_loader.py` (text splitting), `vector_store.py` (FAISS-based semantic search), `rag_chain.py` (LLM integration with context-aware prompting), and `main.py` (interactive query interface)—ensuring separation of concerns and scalability.
+- **Modular Architecture**: Decomposes the system into four core components—`document_loader.py` (text splitting via `RecursiveCharacterTextSplitter`), `vector_store.py` (FAISS-based embedding storage with `OpenAIEmbeddings`), `rag_chain.py` (prompt templating and LLM integration), and `main.py` (interactive CLI)—ensuring separation of concerns and scalability.
 
-- **Contextual Constraints**: Enforces hallucination-free responses via a system prompt that mandates answers be derived *only* from retrieved context, returning "I don't know" when no relevant information exists, validated through similarity search (k=3) in the vector database.
+- **Technical Stack**: Uses Python with `langchain` (modular packages), `FAISS-CPU` for local vector indexing, and `OpenAIEmbeddings`/`ChatOpenAI` for embeddings and LLM inference, with environment management via `python-dotenv` and deterministic responses enforced through a zero-temperature LLM and strict context filtering.
 
 ## Why It Matters
 
@@ -37,10 +38,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T09:33:19.565240+05:30
+- Published: 2026-07-04T19:29:53.849596+05:30
 
 ## Related Tags
 
+- hackernews
 - openai
 - rag
 - web-crawled

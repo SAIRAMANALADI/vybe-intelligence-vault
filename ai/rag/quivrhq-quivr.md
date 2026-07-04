@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-07-04T16:34:05.314071+05:30'
+collected_at: '2026-07-04T19:31:10.134876+05:30'
 published_at: '2026-07-04T07:53:53Z'
 tags:
 - frontend_ui
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-07-04T16:34:05.314071+05:30'
-last_seen: '2026-07-04T16:34:05.314071+05:30'
-last_checked: '2026-07-04T16:34:05.314071+05:30'
+first_seen: '2026-07-04T19:31:10.134876+05:30'
+last_seen: '2026-07-04T19:31:10.134876+05:30'
+last_checked: '2026-07-04T19:31:10.134876+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: Quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while offering customization for LLM (e.g., GPT4, Groq, Llama) and vector store (e.g., PGVector, Faiss) compatibility.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated **Retrieval-Augmented Generation (RAG)** framework designed for seamless GenAI integration into applications, abstracting RAG complexities while enabling customization for LLM (e.g., GPT4, Groq, Llama) and vector store (e.g., PGVector, Faiss) compatibility.
 
-- **Multi-Format & Multi-Store Support**: Supports any file type and integrates with diverse vector databases (PGVector, Faiss) and LLMs, enabling flexible deployment across environments (Docker, PostgreSQL) with privacy and security considerations.
+- **Multi-Format & Multi-Store Support**: Supports **any file type** (PDFs, text, etc.) and integrates with **any vector database** (PGVector, Faiss) or LLM backend, ensuring flexibility for diverse use cases while maintaining privacy and security.
 
-- **Full-Stack Customization**: Provides a Python-based backend with TypeScript/React frontend, offering API-driven integration, HTML/JavaScript extensibility, and modular architecture for rapid deployment of chatbots or AI-driven applications.
+- **Full-Stack Deployment**: Provides a **Python-based backend** with **React/TypeScript frontend**, Docker support, and API-driven architecture, enabling easy integration into existing products with minimal overhead.
 
 ## Why It Matters
 

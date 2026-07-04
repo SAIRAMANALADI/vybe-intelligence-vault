@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-04T16:33:00.221181+05:30'
+collected_at: '2026-07-04T19:30:05.055553+05:30'
 published_at: '2026-06-30T08:00:12Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-04T16:33:00.221181+05:30'
-last_seen: '2026-07-04T16:33:00.221181+05:30'
-last_checked: '2026-07-04T16:33:00.221181+05:30'
+first_seen: '2026-07-04T19:30:05.055553+05:30'
+last_seen: '2026-07-04T19:30:05.055553+05:30'
+last_checked: '2026-07-04T19:30:05.055553+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based examples for integrating vector search with LLMs (e.g., GPT-4-Vision, LlamaIndex, LangChain) to build Retrieval-Augmented Generation (RAG) systems and multimodal AI pipelines.
+- **Multimodal AI & RAG Examples**: Repository provides Jupyter Notebook-based tutorials for multimodal AI, Retrieval-Augmented Generation (RAG), and agent-based systems using vector search and LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
 
-- **Vector Database-Centric Workflows**: Demonstrates fine-tuning and embedding generation techniques using LanceDB as the underlying vector database, with focus on optimizing multimodal embeddings and agent-based AI architectures.
+- **Vector Database Integration**: Focuses on LanceDB as a vector database, demonstrating embeddings, fine-tuning, and hybrid search techniques for efficient multimodal and text-based retrieval.
 
-- **Tooling & Integration Examples**: Includes practical tutorials for OpenAI APIs, deep-learning embeddings, and agent frameworks, showcasing end-to-end implementations for multimodal and RAG-based AI systems.
+- **Tooling & Frameworks**: Includes examples leveraging OpenAI APIs, LangChain, and LlamaIndex for building AI agents, with support for fine-tuning and deep learning workflows.
 
 ## Why It Matters
 

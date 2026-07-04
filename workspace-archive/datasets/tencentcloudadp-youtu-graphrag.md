@@ -6,20 +6,21 @@ source_url: https://github.com/TencentCloudADP/youtu-graphrag
 resource_id: github:tencentcloudadp/youtu-graphrag
 local_vault_path: ai/rag/tencentcloudadp-youtu-graphrag.md
 quality_score: 70
-archive_score: 81
+archive_score: 83
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - agents
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # TencentCloudADP/youtu-graphrag
@@ -27,17 +28,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 81 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 83 (useful)
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Unified Graph-Based RAG Framework**: Introduces *Youtu-GraphRAG*, a vertically integrated system combining graph structures with retrieval-augmented generation (RAG) to enhance complex reasoning in LLMs, leveraging hierarchical agent interactions for improved contextual retrieval.
+- **Vertically Unified Multi-Agent Architecture**: Implements a hierarchical agent system (planner, retriever, reasoner, generator) with graph-augmented reasoning for complex QA tasks, optimizing vertical collaboration via dynamic role switching and memory sharing.
 
-- **Multi-Agent Hierarchical Architecture**: Implements a *vertically unified agent* paradigm where specialized agents (e.g., retrieval, reasoning, and planning) collaborate via graph-based coordination, enabling
+- **Graph-Centric Retrieval-Augmented Generation (GraphRAG)**: Integrates heterogeneous graph structures (knowledge, reasoning, interaction graphs) with adaptive subgraph retrieval, leveraging graph neural networks (GNNs) and transfo
 
 ## Use Cases
 

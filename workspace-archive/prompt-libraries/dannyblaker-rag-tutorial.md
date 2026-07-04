@@ -35,8 +35,8 @@ selection_reason:
 ## Summary
 
 - **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from fundamentals to production deployment, with executable code examples and reusable utilities.
-- **Technical Stack**: Demonstrates embeddings, vector databases (e.g., FAISS/Chroma), LLMs, and advanced RAG techniques (e.g., retrieval optimization, prompt engineering).
-- **Python-Based Implementation**: Provides hands-on demos and modular utilities for building scalable RAG systems, last updated June 2026.
+- **Technical Stack**: Focuses on embeddings, vector databases (e.g., FAISS, Chroma), LLMs (e.g., Hugging Face Transformers), and advanced RAG techniques like retrieval optimization and prompt engineering.
+- **Hands-on Demos**: Includes practical implementations and modular utilities for building scalable RAG s
 
 ## Use Cases
 

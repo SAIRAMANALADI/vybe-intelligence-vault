@@ -15,7 +15,6 @@ tags:
 - github-repo
 - openai
 - python
-- scripts
 - workflows
 selection_reason:
 - Useful for project building
@@ -33,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository provides structured methodologies to transition from vibe coding to agentic engineering using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
+- **Agentic Workflow Integration**: Repository demonstrates transition from "vibe coding" to structured agentic engineering using Codex CLI, emphasizing modular hooks, context engineering, and command orchestration for AI-driven development workflows.
 
-- **CLI-Centric Best Practices**: Documents optimized Codex CLI commands, agentic workflows, and skill definitions to enhance productivity, including context management, multi-agent coordination, and dynamic skill invocation for comple
+- **CLI-Centric Best Practices**: Provides a curated set of Codex CLI commands, skills, and architectural patterns to optimize AI agent interactions, including skill chaining, state management, and error recovery in automated coding pipelines.
+
+-
 
 ## Use Cases
 

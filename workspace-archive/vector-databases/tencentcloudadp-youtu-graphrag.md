@@ -8,16 +8,18 @@ local_vault_path: ai/rag/tencentcloudadp-youtu-graphrag.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - agents
 - benchmark
+- dataset
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # TencentCloudADP/youtu-graphrag
@@ -26,15 +28,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Vertically Unified Agents Framework**: Introduces a novel architecture integrating multiple specialized agents (e.g., retrieval, reasoning, planning) within a graph-structured knowledge base to enhance complex reasoning tasks, leveraging Graph Retrieval-Augmented Generation (GraphRAG) for dynamic knowledge integration.
+- **Vertically Unified Multi-Agent Architecture**: Implements a hierarchical agent system (planner, retriever, reasoner, generator) with graph-augmented reasoning for complex QA tasks, optimizing vertical collaboration via dynamic role switching and memory sharing.
 
-- **Graph-Centric RAG Mechanism**: Implements a hierarchical graph-based retrieval system where agents dynamically construct and traverse subgraphs to retrieve contextually r
+- **Graph-Centric Retrieval-Augmented Generation (GraphRAG)**: Integrates heterogeneous graph structures (knowledge, reasoning, interaction graphs) with adaptive subgraph retrieval, leveraging graph neural networks (GNNs) and transfo
 
 ## Use Cases
 

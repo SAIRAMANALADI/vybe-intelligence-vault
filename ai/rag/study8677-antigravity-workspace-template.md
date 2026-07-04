@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/study8677/antigravity-workspace-template
-collected_at: '2026-07-04T16:33:10.210277+05:30'
+collected_at: '2026-07-04T19:30:15.036667+05:30'
 published_at: '2026-07-04T06:07:52Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-11-19T08:51:14Z'
 pushed_at: '2026-07-03T15:37:58Z'
 resource_id: github:study8677/antigravity-workspace-template
-first_seen: '2026-07-04T16:33:10.210277+05:30'
-last_seen: '2026-07-04T16:33:10.210277+05:30'
-last_checked: '2026-07-04T16:33:10.210277+05:30'
+first_seen: '2026-07-04T19:30:15.036667+05:30'
+last_seen: '2026-07-04T19:30:15.036667+05:30'
+last_checked: '2026-07-04T19:30:15.036667+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for AI IDEs (Claude Code, Cursor, Codex CLI)
-- **MCP server-based architecture** integrating RAG, knowledge graph, and OpenAI-compatible tooling for codebase intelligence
-- **Cross-platform plugin** supporting Python-based workflows with IDE integration (Claude, Cursor, Codex CLI) and OpenAI/Codex toolchains
+- **Multi-agent knowledge engine**: Enables grounded Q&A with file paths and line numbers across any AI IDE (Claude Code, Cursor, Codex CLI) via a ChatGPT-like interface for codebase interactions.
+
+- **MCP server integration**: Leverages Model Context Protocol (MCP) to dynamically index and query codebase semantics, supporting RAG and knowledge graph construction for precise retrieval.
+
+- **Python-based toolkit**: Provides a modular SDK for building agentic workflows, with plugins for OpenAI models, file search, and IDE-agnostic developer tooling.
 
 ## Why It Matters
 

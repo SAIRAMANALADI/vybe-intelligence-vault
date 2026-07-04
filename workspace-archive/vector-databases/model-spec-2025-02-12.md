@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Hierarchical Compliance Framework**: The Model Spec enforces a strict *chain of command* where platform-level rules (e.g., refusing illegal/dangerous requests) override user/developer instructions, with escalation tiers (e.g., `Platform+2` for high-risk scenarios) defining refusal boundaries for disallowed content (e.g., CSAM, hate speech, privacy violations).
+- **Hierarchical Instruction Compliance**: Models must adhere to a strict chain of command, prioritizing platform-level rules (e.g., legal compliance, disallowed content) over user/developer requests, with explicit refusal protocols for harmful or illegal instructions (e.g., self-harm, illicit activities).
 
-- **Risk Mitigation Taxonomy**: Three core risk categories are addressed: (1) *Misaligned goals* (via clarifying questions and inten
+- **Risk Mitigation Framework**: Three core risk categories are addressed: (1) Misaligned goals (via clarifying questions and intent reasoning), (2) Execution errors (uncertainty expression,
 
 ## Use Cases
 

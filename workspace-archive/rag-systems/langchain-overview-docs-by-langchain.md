@@ -6,9 +6,9 @@ source_url: https://python.langchain.com/docs/concepts/text_splitters/
 resource_id: blog:langchain-overview-docs-by-langchain
 local_vault_path: ai/rag/langchain-overview-docs-by-langchain.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # LangChain overview - Docs by LangChain
@@ -29,17 +29,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Agent Composition**: LangChain's `create_agent` provides a minimal, modular harness where agents are composed of a model, tools, prompt, and middleware, enabling highly configurable and customizable agentic workflows across providers (OpenAI, Anthropic, Google, etc.).
+- **Agent Composition**: LangChain's `create_agent` provides a minimal, configurable harness combining a model (e.g., OpenAI, Anthropic) with tools, prompts, and middleware, enabling custom agent construction via modular primitives.
 
-- **Harness Architecture**: The `create_agent` harness encapsulates the model loop (prompt, tools, middleware) and is built atop LangGraph, inheriting features like durable execution, persistence, and human-in-the-loop support
+- **Framework Integration**: Agents are built atop LangGraph, inheriting durable execution, persistence, and human-in-the-loop capabilities, while LangSmith offers observability for tracing, debugging, and evaluating agent workflows.
+
+- **Multi-Provider Abstraction*
 
 ## Use Cases
 

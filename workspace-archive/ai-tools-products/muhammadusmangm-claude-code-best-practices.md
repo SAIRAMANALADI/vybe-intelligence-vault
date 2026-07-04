@@ -6,7 +6,7 @@ source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
 resource_id: github:muhammadusmangm/claude-code-best-practices
 local_vault_path: ai/agents/muhammadusmangm-claude-code-best-practices.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: template
 importance: medium
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Structure & Templates**: Provides `CLAUDE.md` templates and structured workflows for optimizing Claude Code usage, including multi-agent patterns and CLI configurations.
-- **Cost & Performance Optimization**: Focuses on cost-efficient practices for LLM interactions, MCP integrations, and resource management in AI-driven development workflows.
-- **Agentic AI Workflows**: Implements advanced agentic AI patterns for developer tooling, emphasizing automation, scalability, and Anthropi
+- **Repository Structure & Setup**: Provides a structured guide for configuring Claude Code, including `CLAUDE.md` templates, CLI workflows, and multi-agent patterns optimized for AI-driven development.
+
+- **Cost & Performance Optimization**: Focuses on cost-efficient practices for LLM interactions, MCP integrations, and resource management to minimize computational overhead while maintaining high performance.
+
+- **Developer Tooling & Templates**: Offers reusable templates and best-practice work
 
 ## Use Cases
 

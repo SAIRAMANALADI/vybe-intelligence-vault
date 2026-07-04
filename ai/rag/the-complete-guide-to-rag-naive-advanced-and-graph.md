@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-07-04T16:32:48.593076+05:30'
-collected_at: '2026-07-04T16:32:48.593089+05:30'
+published_at: '2026-07-04T19:29:55.282165+05:30'
+collected_at: '2026-07-04T19:29:55.282178+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-07-04T16:32:48.593089+05:30'
-last_seen: '2026-07-04T16:32:48.593089+05:30'
-last_checked: '2026-07-04T16:32:48.593089+05:30'
+first_seen: '2026-07-04T19:29:55.282178+05:30'
+last_seen: '2026-07-04T19:29:55.282178+05:30'
+last_checked: '2026-07-04T19:29:55.282178+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG (Retrieval-Augmented Generation)** integrates retrieval, augmentation, and generation, formalized by Lewis et al. (2020), addressing LLM limitations in freshness, private knowledge, and hallucinations by dynamically pulling external data during inference.
+- **RAG (Retrieval-Augmented Generation)** integrates retrieval and generation, enabling LLMs to pull external knowledge dynamically, addressing limitations like stale data, private knowledge, and hallucinations while offering cost and auditability benefits.
 
-- **Evolution of RAG**: Naive RAG (basic vector search), Advanced RAG (hybrid retrieval, reranking, query transformation), Modular RAG (agentic routing, tool integration), and Graph RAG (entity-relation graph traversal for multi-hop reasoning), each improving retrieval accuracy and reasoning capabilities.
+- **Evolution of RAG** spans four generations: *Naive RAG* (basic retrieval), *Advanced RAG* (hybrid search, reranking, query transformation), *Modular RAG* (routing, looping, tool integration), and *Graph RAG* (entity-relation graph traversal for multi-hop reasoning).
 
-- **Key components**: Embeddings (e.g., `BAAI/bge-m3`), vector DBs (e.g., Chroma, Pinecone), retrieval techniques (BM25, ANN, HyDE), and frameworks (LangChain, LlamaIndex) enable scalable, modular RAG pipelines with trade-offs in latency, cost, and complexity.
+- **Key Techniques** include BM25 for keyword matching, dense/sparse retrieval, ANN for scalable vector search, RRF for multi-retriever fusion, and MMR for diversity in top-k results, with frameworks like LangChain and vector DBs (e.g., Chroma, Qdrant) enabling implementation.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T16:32:48.593076+05:30
+- Published: 2026-07-04T19:29:55.282165+05:30
 
 ## Related Tags
 

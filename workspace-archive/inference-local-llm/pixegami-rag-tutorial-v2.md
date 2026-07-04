@@ -14,10 +14,10 @@ tags:
 - benchmark
 - github-repo
 - meta-ai
+- mistral
 - models
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates advanced RAG workflows using local language models (e.g., Ollama, LM Studio) for offline inference, reducing dependency on cloud APIs.
-- **Dynamic Database Updates**: Implements automated or manual pipeline updates for vector databases (e.g., Chroma, FAISS) to ensure real-time retrieval accuracy.
-- **Testing Framework**: Includes structured evaluation metrics (e.g., retrieval precision, response relevance) and unit tests for modular components (e.g., emb
+- **Local LLM Integration**: Demonstrates a RAG pipeline leveraging local language models (e.g., Llama, Mistral) via Ollama or LM Studio for offline inference, reducing dependency on cloud APIs.
+
+- **Dynamic Database Updates**: Implements a retriever system with ChromaDB or FAISS for vector storage, enabling real-time document ingestion and embedding updates without full re-indexing.
+
+- **Testing & Evaluation Framework**: Includes unit tests (e.g., `pytest`) and RAGAS metrics for assessing retri
 
 ## Use Cases
 

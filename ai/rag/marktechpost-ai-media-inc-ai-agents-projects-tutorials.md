@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-07-04T16:34:45.324484+05:30'
-published_at: '2026-07-03T20:05:36Z'
+collected_at: '2026-07-04T19:31:50.160533+05:30'
+published_at: '2026-07-04T11:26:45Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - workflows
@@ -18,11 +17,11 @@ language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2025-05-15T09:00:54Z'
-pushed_at: '2026-07-03T20:05:33Z'
+pushed_at: '2026-07-04T11:26:41Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-07-04T16:34:45.324484+05:30'
-last_seen: '2026-07-04T16:34:45.324484+05:30'
-last_checked: '2026-07-04T16:34:45.324484+05:30'
+first_seen: '2026-07-04T19:31:50.160533+05:30'
+last_seen: '2026-07-04T19:31:50.160533+05:30'
+last_checked: '2026-07-04T19:31:50.160533+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Systems**: Repository focuses on collaborative AI agents with distributed skills, planning, and reasoning loops for complex workflows.
-- **Agentic AI Development**: Provides Jupyter Notebook-based tutorials covering agentic frameworks, RAG integration, and coding/engineering applications.
-- **Technical Topics**: Covers agentic AI, memory management, reasoning loops, and multi-agent coordination with 2,758 stars and 603 forks.
+- **Multi-agent systems**: Repository focuses on frameworks and implementations for agentic AI, emphasizing autonomous agent interactions, coordination, and task delegation.
+- **Memory & reasoning loops**: Includes tutorials on integrating memory architectures (short/long-term) and iterative reasoning processes for adaptive agent behavior.
+- **Agentic workflows**: Provides Jupyter Notebook-based projects for agentic RAG, coding, and engineering workflows, showcasing practical applications of agentic AI development.
 
 ## Why It Matters
 
@@ -45,10 +44,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 603
 - Language: Jupyter Notebook
 - Topics: agent-skills, agentic-ai, agentic-ai-development, agentic-coding, agentic-engineering, agentic-framework, agentic-rag, agentic-workflow, ai, aiagent, aiagents
-- Last Updated: 2026-07-03T20:05:36Z
+- Last Updated: 2026-07-04T11:26:45Z
 - Archived: No
 - Created At: 2025-05-15T09:00:54Z
-- Pushed At: 2026-07-03T20:05:33Z
+- Pushed At: 2026-07-04T11:26:41Z
 
 ## Possible Use Cases
 

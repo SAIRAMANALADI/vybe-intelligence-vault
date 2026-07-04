@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository focused on production-ready Agentic RAG (Retrieval-Augmented Generation) systems, with 7,306 stars and 1,624 forks.
-- **Technical Stack**: Implemented in Python, targeting scalable, production-grade AI workflows.
-- **Last Updated**: Repository last modified on **July 2, 2026**, indicating active development.
+- **Repository Overview**: GitHub repository focused on production-ready Agentic RAG (Retrieval-Augmented Generation) systems, with 7,319 stars and 1,635 forks.
+- **Technical Stack**: Primarily implemented in Python, emphasizing scalable, production-grade AI workflows.
+- **Last Updated**: Repository last modified on **July 4, 2026**, indicating active maintenance.
 
 ## Use Cases
 

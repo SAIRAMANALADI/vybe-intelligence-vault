@@ -16,6 +16,7 @@ tags:
 - github-repo
 - openai
 - python
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for autonomous code generation and modification using LLMs (e.g., OpenAI, Anthropic) with streaming support.
-- **Multi-Provider LLM Integration**: Supports multiple LLM backends (OpenAI, Anthropic, ClaudeCode) with dynamic provider switching and context-aware prompt engineering for code tasks.
-- **Open-Source CLI Tool**: Provides a Python-based CLI (`open-swe`) for real-time code editing, issue resolution, and
+- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for autonomous code generation and execution using LLMs (OpenAI, Anthropic ClaudeCode) with non-blocking I/O for parallel task handling.
+
+- **Multi-Provider LLM Integration**: Supports pluggable LLM backends (OpenAI, Anthropic) with standardized interfaces for dynamic model switching and context-aware prompt engineering.
+
+- **Open-Source CLI Toolkit**: Provides a Python-based CLI (`open-swe`) for real-time tas
 
 ## Use Cases
 

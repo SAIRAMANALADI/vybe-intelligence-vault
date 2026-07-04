@@ -25,8 +25,8 @@ https://github.com/vllm-project/vllm (vLLM)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)
 - [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2)
+- [vndee/local-assistant-examples](https://github.com/vndee/local-assistant-examples)
 - [google-research/scann at master · google-research/google-research · GitHub](https://github.com/google-research/google-research/tree/master/scann)
-- [openai/simple-evals](https://github.com/openai/simple-evals)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-07-04 16:49 IST*
+*Last updated: 2026-07-04 19:46 IST*

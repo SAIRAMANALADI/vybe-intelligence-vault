@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Hardware-virtualized Fly Machines**: Launch instantly as isolated, KVM-backed containers with dedicated CPU/memory, supporting untrusted code execution, HTTP requests, and scaling to tens of thousands of instances with sub-second startup times.
+- **Hardware-virtualized Fly Machines**: Launch instant, isolated VMs with dedicated CPU/memory/networking, billed per-second, supporting frameworks like Rails, Phoenix, Django, and Node without Dockerfiles via CLI auto-containerization.
 
-- **Global, low-latency infrastructure**: Deploy in 18 regions with private networking, end-to-end encryption, and NVMe storage; supports clustered databases (e.g., CockroachDB, Postgres) and distributed systems without requiring Terraform.
+- **Global, secure distributed compute**: Deploy in 18 regions with sub-100ms latency, featuring built-in private networking, end-to-end encryption, and support for clustered databases (e.g., Cockroach, Postgres) and RPC systems (e.g., Elixir FLAME).
 
-- **Ente
+- **Enter
 
 ## Use Cases
 

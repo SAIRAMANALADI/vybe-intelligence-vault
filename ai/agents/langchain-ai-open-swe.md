@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-07-04T03:50:52.445097+05:30'
-published_at: '2026-07-03T19:34:42Z'
+collected_at: '2026-07-04T19:32:10.240634+05:30'
+published_at: '2026-07-04T14:01:02Z'
 tags:
 - agents
 - anthropic
@@ -13,17 +13,17 @@ tags:
 - openai
 - python
 - workflows
-stars: 10095
+stars: 10099
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-05-21T21:44:24Z'
-pushed_at: '2026-07-03T14:35:50Z'
+pushed_at: '2026-07-04T02:49:42Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-07-04T03:50:52.445097+05:30'
-last_seen: '2026-07-04T03:50:52.445097+05:30'
-last_checked: '2026-07-04T03:50:52.445097+05:30'
+first_seen: '2026-07-04T19:32:10.240634+05:30'
+last_seen: '2026-07-04T19:32:10.240634+05:30'
+last_checked: '2026-07-04T19:32:10.240634+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Multi-Agent Framework**: Implements an event-driven, non-blocking architecture for concurrent task execution using Python's asyncio, enabling parallelized LLM interactions and tool usage across distributed agents.
+- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for autonomous code generation and execution using LLMs (OpenAI, Anthropic ClaudeCode) with non-blocking I/O for parallel task handling.
 
-- **Tool-Agnostic Integration**: Supports dynamic switching between LLM providers (OpenAI, Anthropic) and external tools (ClaudeCode) via standardized interfaces, with built-in rate limiting and retry mechanisms for fault tolerance.
+- **Multi-Provider LLM Integration**: Supports pluggable LLM backends (OpenAI, Anthropic) with standardized interfaces for dynamic model switching and context-aware prompt engineering.
 
-- **State Management & Observability**: Features a distributed task queue with Redis-backed persistence, real-time progress tracking via WebSocket streams, and structured logging for debugging asynchronous workflows.
+- **Open-Source CLI Toolkit**: Provides a Python-based CLI (`open-swe`) for real-time task scheduling, state management, and Git-aware workflows with async file operations and subprocess control.
 
 ## Why It Matters
 
@@ -44,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 10095
-- Forks: 1157
+- Stars: 10099
+- Forks: 1158
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-07-03T19:34:42Z
+- Last Updated: 2026-07-04T14:01:02Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z
-- Pushed At: 2026-07-03T14:35:50Z
+- Pushed At: 2026-07-04T02:49:42Z
 
 ## Possible Use Cases
 
