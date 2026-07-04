@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-04 09:50 IST</p>
+        <p><b>Last Update:</b> 2026-07-04 12:20 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,28 +55,21 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Espionage Against the European Parliament](ai/community/espionage-against-the-european-parliament.md)** • <kbd>+157 pts</kbd>
-- 🔼 **[Jamesob's guide to running SOTA LLMs locally](ai/community/jamesob-local-llm.md)** • <kbd>+70 pts</kbd>
-- 🔼 **[Installing Marketplace apps | Atlassian Support | Atlassian Documentation](ai/resources/installing-marketplace-apps-atlassian-support-atla.md)** • Rank: <kbd>+6671</kbd>
-- 🔼 **[Atlassian Community | Learn, connect, and grow](ai/rag/atlassian-community-learn-connect-and-grow.md)** • Rank: <kbd>+7299</kbd>
-- 🔼 **[Platform Marketplace](ai/rag/platform-marketplace.md)** • Rank: <kbd>+6661</kbd>
+- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+12</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+12</kbd>
+- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+11</kbd>
+- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+5</kbd>
+- 🔼 **[RUC-NLPIR/FlashRAG](ai/rag/ruc-nlpir-flashrag.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[The circuit that lets your brain think and see](ai/community/the-circuit-that-lets-your-brain-think-and-see.md)** • Score: `58`
-- 🆕 **[MSI Center – How to gain SYSTEM privileges in seconds](ai/community/msi-center-how-to-gain-system-privileges-in-second.md)** • Score: `40`
-- 🆕 **[Accessibility | Atlassian](ai/agents/accessibility-atlassian.md)** • Score: `0`
-- 🆕 **[Integrate Jira with GitHub | Atlassian Support](ai/resources/integrate-jira-with-github-atlassian-support.md)** • Score: `0`
-- 🆕 **[Jira and Jira Service Management | Atlassian Support](ai/resources/jira-and-jira-service-management-atlassian-support.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Ask HN: Is anyone experimenting with different ways of using LLMs for coding?](ai/community/ask-hn-is-anyone-experimenting-with-different-ways.md)**
-- 💤 **[My dad helped build North America's oat supply chain: Can it be remade?](ai/community/my-dad-helped-build-north-america-s-oat-supply-cha.md)**
-- 💤 **[Kagi Changelog (July 2): Heads, tails, and an AI toggle](ai/community/kagi-changelog-july-2-heads-tails-and-an-ai-toggle.md)**
-- 💤 **[safishamsi/graphify](ai/trending/safishamsi-graphify.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
