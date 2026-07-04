@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://supabase.com/docs/guides/ai
-published_at: '2026-06-30T20:18:28.611508+05:30'
-collected_at: '2026-06-30T20:18:28.611521+05:30'
+published_at: '2026-07-05T01:12:13.696063+05:30'
+collected_at: '2026-07-05T01:12:13.696071+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -15,11 +15,12 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 status: active
 resource_id: blog:ai-vectors-supabase-docs
-first_seen: '2026-06-30T20:18:28.611521+05:30'
-last_seen: '2026-06-30T20:18:28.611521+05:30'
-last_checked: '2026-06-30T20:18:28.611521+05:30'
+first_seen: '2026-07-05T01:12:13.696071+05:30'
+last_seen: '2026-07-05T01:12:13.696071+05:30'
+last_checked: '2026-07-05T01:12:13.696071+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Postgres + pgvector Integration**: Supabase leverages Postgres with the `pgvector` extension to provide a native vector database solution, enabling storage, indexing, and querying of vector embeddings at scale within a relational database framework.
+- **Vector Database Integration**: Supabase leverages **Postgres with pgvector** for native vector storage, indexing, and querying, enabling scalable AI applications without external vector databases.
 
-- **Multi-Modal AI Toolkit**: Supports hybrid search (semantic, keyword, and hybrid), open-source embedding generation (via Edge Functions), and integrations with AI providers (OpenAI, Hugging Face, LangChain) for unstructured data processing and AI-driven applications.
+- **Embedding & AI Model Support**: Supports **unstructured embeddings** via Python client, **open-source model inference** in Edge Functions, and integrations with **OpenAI, Hugging Face, LangChain, and LlamaIndex** for hybrid search and LLM workflows.
 
-- **Production-Ready AI Examples**: Provides GitHub templates for headless vector search, image search (OpenAI CLIP), Hugging Face inference, and ChatGPT plugin development, with case studies demonstrating migrations from AWS RDS and Pinecone to Supabase for improved efficiency and GDPR compliance.
+- **Search & Deployment Flexibility**: Enables **semantic, keyword, and hybrid search** with **migration tools** (e.g., from AWS RDS) and **GDPR-compliant** deployments, as demonstrated in case studies like **Berri AI and Firecrawl**.
 
 ## Why It Matters
 
@@ -41,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T20:18:28.611508+05:30
+- Published: 2026-07-05T01:12:13.696063+05:30
 
 ## Related Tags
 
@@ -53,6 +54,7 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
+- workflows
 
 ## Source
 

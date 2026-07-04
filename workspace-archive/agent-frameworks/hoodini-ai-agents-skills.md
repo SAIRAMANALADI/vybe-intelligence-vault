@@ -15,7 +15,6 @@ tags:
 - anthropic
 - github-repo
 - python
-- scripts
 - workflows
 selection_reason:
 - Active open-source repository
@@ -33,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Specialized Skill Repository**: Curated collection of domain-specific skills for AI coding agents (e.g., Claude Code, GitHub Copilot, Cursor, Windsurf) to enhance code generation and automation capabilities.
-
-- **GitHub Copilot-Driven Development**: Entirely created using GitHub Copilot via VS Code Insiders, demonstrating AI-assisted workflows for skill development.
-
-- **Python-Based Implementation**: Skills are implemented in Python, with the repository last updated on **2026-07-02** and cu
+- **Repository Overview**: Curated collection of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf), authored by Yuval Avidani using GitHub Copilot in VS Code Insiders.
+- **Metadata**: 243 stars, 58 forks, Python-based, last updated 2026-07-04.
+- **Purpose**: Provides domain-specific skills to enhance AI agent capabilities in software development workflows.
 
 ## Use Cases
 

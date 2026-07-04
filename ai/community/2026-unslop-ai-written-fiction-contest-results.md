@@ -13,13 +13,14 @@ collected_at: '2026-07-04T21:47:08.658043+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:2026-unslop-ai-written-fiction-contest-results
 first_seen: '2026-07-04T19:29:10.103054+05:30'
 last_seen: '2026-07-04T21:47:08.658043+05:30'
 last_checked: '2026-07-04T21:47:08.658043+05:30'
 health_score: 100
 ---
+
 
 # 2026 Unslop AI-Written Fiction Contest Results
 

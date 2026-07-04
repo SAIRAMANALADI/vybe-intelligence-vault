@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: Multi-agent AI coding platform leveraging Vercel Sandbox for isolated execution and Vercel AI Gateway for API orchestration, built in TypeScript.
-
-- **Core Components**: Enables distributed AI-driven coding workflows with agent collaboration, sandboxed code execution, and AI model routing via Vercel’s infrastructure.
-
-- **Deployment**: Template repository for rapid setup, last updated July 2026, with 1.74k stars and 287 forks.
+- **Multi-agent AI architecture**: Implements a distributed system leveraging Vercel Sandbox for isolated agent execution and AI Gateway for unified AI model access.
+- **TypeScript-based framework**: Provides a structured TypeScript template for building scalable, agent-driven coding workflows with modular agent interactions.
+- **Integration-ready**: Designed for seamless deployment on Vercel, supporting real-time agent collaboration with built-in sandbox isolation and model-agnostic AI routing.
 
 ## Use Cases
 

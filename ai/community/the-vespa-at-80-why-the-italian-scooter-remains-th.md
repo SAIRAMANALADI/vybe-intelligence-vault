@@ -13,13 +13,14 @@ collected_at: '2026-07-04T21:47:03.952267+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-vespa-at-80-why-the-italian-scooter-remains-th
 first_seen: '2026-07-04T19:29:08.118354+05:30'
 last_seen: '2026-07-04T21:47:03.952267+05:30'
 last_checked: '2026-07-04T21:47:03.952267+05:30'
 health_score: 100
 ---
+
 
 # The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels
 

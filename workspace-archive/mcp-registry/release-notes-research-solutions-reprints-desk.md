@@ -15,7 +15,6 @@ tags:
 - openai
 - producthunt
 - rag
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -36,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Spring 2026 Updates**: Introduction of Article Galaxy MCP, expanded AI-ready content rights, and enhanced citation intelligence with deeper metadata integration.
+- **Spring 2026 Updates**: Introduction of Article Galaxy MCP for AI-driven content management, expanded AI-ready content rights for machine-readable licensing, and enhanced citation intelligence with deeper semantic analysis and cross-referencing capabilities.
 
-- **Winter 2025 Updates**: Implementation of a unified shopping cart system, AI-driven search optimization, and workflow automation improvements for cross-platform compatibility.
-
-- **Fall 2025 Updates**: Article-level AI rights management, redesigned UI/UX for scalability, and integration of real-time citation tracking with third-
+- **Summer 2025 Updates**: Implementation of full-text citation search with sub-sentence precision, inline re-use rights validation for real-time compliance, and integration of scite.ai’s Smart Citations for contextual citation analytics
 
 ## Use Cases
 

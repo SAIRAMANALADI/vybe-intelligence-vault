@@ -6,20 +6,18 @@ source_url: https://github.com/gabrielchua/RAGxplorer
 resource_id: github:gabrielchua/ragxplorer
 local_vault_path: ai/rag/gabrielchua-ragxplorer.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - github-repo
 - jupyter notebook
-- meta-ai
 - models
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # gabrielchua/RAGxplorer
@@ -27,19 +25,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing and debugging Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of retrieval and generation processes.
+- **Interactive RAG Visualization**: Open-source tool built with Streamlit and Python for dynamic exploration and debugging of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time interaction with LLM outputs and retrieval mechanisms.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly interface, allowing real-time interaction with RAG components (e.g., retrieval mechanisms, LLM outputs) via dynamic visualizations.
+- **Jupyter Notebook Integration**: Leverages Jupyter Notebook for modular, reproducible analysis of RAG components (e.g., embeddings, retrievers, prompts) with visualization capabilities for data flow, latency, and performance metrics.
 
-- **Python-Based & Modular**: Built in Pyth
+- **Multi-Fe
 
 ## Use Cases
 

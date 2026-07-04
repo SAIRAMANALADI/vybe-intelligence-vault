@@ -8,7 +8,7 @@ local_vault_path: ai/rag/pgvector-pgvector.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: product
+resource_kind: framework
 importance: medium
 tags:
 - c
@@ -18,7 +18,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # pgvector/pgvector
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: product
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Purpose**: Extends PostgreSQL with vector similarity search capabilities via an open-source extension, enabling efficient nearest neighbor and approximate nearest neighbor searches.
-- **Implementation**: Written in C, integrates with PostgreSQL’s indexing and query execution systems to support vector operations (e.g., L2 distance, cosine distance, inner product).
-- **Features**: Supports HNSW (Hierarchical Navigable Small World) and IVFFlat (Inverted File with Flat Compression) indexing meth
+- **Purpose**: Extends PostgreSQL with vector similarity search capabilities via approximate nearest neighbor (ANN) algorithms.
+- **Implementation**: Written in C, integrates with PostgreSQL's extensibility framework (e.g., custom functions, index types like HNSW and IVFFlat).
+- **Features**: Supports L2 distance, inner product, and cosine distance; optimizes for high-dimensional vector search with indexing strategies.
 
 ## Use Cases
 

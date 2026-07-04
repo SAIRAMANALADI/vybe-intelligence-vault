@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-04T21:49:06.521522+05:30'
+collected_at: '2026-07-05T01:10:12.940637+05:30'
 published_at: '2026-07-04T13:13:13Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-04T21:49:06.521522+05:30'
-last_seen: '2026-07-04T21:49:06.521522+05:30'
-last_checked: '2026-07-04T21:49:06.521522+05:30'
+first_seen: '2026-07-05T01:10:12.940637+05:30'
+last_seen: '2026-07-05T01:10:12.940637+05:30'
+last_checked: '2026-07-05T01:10:12.940637+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), covering diverse retrieval and generation scenarios.
+- **Benchmark Suite**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) models, focusing on Large Language Models (LLMs) with metrics for retrieval and generation quality.
 
-- **Evaluation Framework**: Implements structured metrics for assessing RAG performance, including retrieval accuracy, generation quality, and end-to-end system efficiency in Chinese language contexts.
+- **CRUD Operations**: Supports Create, Read, Update, and Delete operations in RAG pipelines, enabling dynamic and iterative knowledge base interactions for LLMs.
 
-- **Open-Source Toolkit**: Released as a Python-based repository with modular components for benchmarking, enabling reproducibility and extensibility for researchers in RAG and LLM evaluation.
+- **Open-Source Framework**: Implemented in Python, the repository offers modular tools for benchmarking RAG systems, including datasets, evaluation scripts, and baseline implementations.
 
 ## Why It Matters
 

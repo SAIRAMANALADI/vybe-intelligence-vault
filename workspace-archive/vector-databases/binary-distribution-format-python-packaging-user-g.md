@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Wheel format**: ZIP archive with `.whl` extension, structured per PEP 376, containing `{distribution}-{version}.dist-info/` (metadata), optional `{distribution}-{version}.data/` (non-site-packages files), and payload files; installation involves unpacking followed by path resolution.
+- **Wheel Format**: A wheel is a ZIP archive with a `.whl` extension, structured per PEP 376, containing files for installation into `purelib` (pure Python) or `platlib` (platform-specific) paths, with metadata in `{distribution}-{version}.dist-info/`.
 
-- **Filename convention**: `{distribution}-{version}(-{build_tag})?-{python_tag}-{abi_tag}-{platform_tag}.whl`, where compatibility tags (python/abi/platform) define interpreter/ABI/platform constraints; build
+- **Filename Convention**: Wheel filenames follow `{distribution}-{version}-{build_tag}-{python_tag}-{abi_tag}-{platform_tag}.whl`, where tags define compatibility (e.g., `py3-none-any` for Python 3, no ABI, any platform); build tags are optional
 
 ## Use Cases
 

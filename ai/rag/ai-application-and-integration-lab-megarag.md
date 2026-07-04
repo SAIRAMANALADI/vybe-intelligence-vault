@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AI-Application-and-Integration-Lab/MegaRAG
-collected_at: '2026-07-04T21:49:36.553051+05:30'
+collected_at: '2026-07-05T01:10:42.965624+05:30'
 published_at: '2026-07-03T01:39:26Z'
 tags:
+- dataset
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-14T13:38:20Z'
 pushed_at: '2026-04-17T09:26:14Z'
 resource_id: github:ai-application-and-integration-lab/megarag
-first_seen: '2026-07-04T21:49:36.553051+05:30'
-last_seen: '2026-07-04T21:49:36.553051+05:30'
-last_checked: '2026-07-04T21:49:36.553051+05:30'
+first_seen: '2026-07-05T01:10:42.965624+05:30'
+last_seen: '2026-07-05T01:10:42.965624+05:30'
+last_checked: '2026-07-05T01:10:42.965624+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal Graph-based RAG Framework**: Introduces MegaRAG, a novel Retrieval-Augmented Generation (RAG) system leveraging multimodal graphs (text, images, etc.) for enhanced knowledge retrieval and integration in [ACL 2026].
-- **Python Implementation**: Provides an open-source Python-based repository (`AI-Application-and-Integration-Lab/MegaRAG`) with 62 stars and 8 forks, last updated July 3, 2026.
-- **Graph-Centric Retrieval**: Utilizes graph structures to dynamically fuse and retrieve multimodal data, improving contextual relevance and accuracy in generative tasks.
+- **Multimodal Graph-based RAG Framework**: MegaRAG integrates multimodal data (text, images, etc.) into a graph-based retrieval-augmented generation (RAG) system, leveraging graph structures for enhanced contextual retrieval and generation.
+
+- **ACL 2026 Contribution**: Proposes a novel architecture for large-scale multimodal RAG, optimizing cross-modal knowledge fusion and retrieval efficiency in dynamic graph-based representations.
+
+- **Python Implementation**: Open-source codebase with modular design for graph construction, retrieval, and generation, supporting extensibility for custom multimodal datasets and retrieval strategies.
 
 ## Why It Matters
 

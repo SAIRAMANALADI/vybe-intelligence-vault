@@ -13,19 +13,19 @@ Building a startup requires integrating landing pages, auth, Stripe, and AI tool
 - [Developer Hub | Twilio](https://www.twilio.com/en-us/developers) (tutorial - USEFUL Tier)
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
 - [windowsserverdocs/WindowsServerDocs/administration/OpenSSH/OpenSSH_Install_FirstUse.md at main · MicrosoftDocs/windowsse](https://github.com/MicrosoftDocs/windowsserverdocs/blob/main/WindowsServerDocs/administration/OpenSSH/OpenSSH_Install_FirstUse.md) (prompt - USEFUL Tier)
+- [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) (template - USEFUL Tier)
 - [Pricing · Plans for every developer · GitHub](https://github.com/pricing) (tutorial - USEFUL Tier)
 - [GitHub Partner Program · GitHub](https://partner.github.com) (tutorial - USEFUL Tier)
-- [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](https://github.com) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/shadcn-ui/taxonomy (Taxonomy App)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
 - [windowsserverdocs/WindowsServerDocs/administration/OpenSSH/OpenSSH_Install_FirstUse.md at main · MicrosoftDocs/windowsse](https://github.com/MicrosoftDocs/windowsserverdocs/blob/main/WindowsServerDocs/administration/OpenSSH/OpenSSH_Install_FirstUse.md)
+- [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)
 - [Pricing · Plans for every developer · GitHub](https://github.com/pricing)
 - [GitHub Partner Program · GitHub](https://partner.github.com)
 - [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](https://github.com)
-- [EasyFrontendHQ/html-tailwindcss-components](https://github.com/easyfrontendhq/html-tailwindcss-components)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/shadcn-ui/taxonomy (Taxonomy App)
 
 ---
 
-*Last updated: 2026-07-04 22:04 IST*
+*Last updated: 2026-07-05 01:25 IST*

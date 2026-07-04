@@ -6,10 +6,10 @@ source_url: https://support.apple.com/guide/tv/adjust-video-and-audio-settings-a
 resource_id: blog:change-audio-settings-on-apple-tv-4k-apple-support
 local_vault_path: ai/rag/change-audio-settings-on-apple-tv-4k-apple-support.md
 quality_score: 70
-archive_score: 70
+archive_score: 80
 archive_tier: useful
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
 - frontend_ui
 - rag
@@ -25,18 +25,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 80 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Apple TV 4K User Guide** provides structured documentation for tvOS 26, covering setup, device interaction, and advanced features like Siri integration, Bluetooth pairing, and multi-device control (e.g., iPhone/iPad as remote or camera input).
+- **Apple TV 4K Hardware & Software Ecosystem**: Official support documentation covers the Apple TV 4K device, including setup, remote pairing, Bluetooth device connectivity, and integration with other Apple devices (iPhone, iPad, Apple Watch, HomePod, AirPods) via AirPlay, Family Sharing, and cross-device Siri control.
 
-- **App-Specific Workflows**: Detailed guides for core apps (TV, Music, Fitness+, Photos, Arcade) include subscription management, playback control, SharePlay functionality, and hardware-specific optimizations (e.g., Apple Watch sync for Fitness+).
-
--
+- **tvOS 26 Feature Set**: The latest tvOS 26 update introduces new functionalities such as enhanced screen saver customization, advanced parental controls, voice recognition se
 
 ## Use Cases
 

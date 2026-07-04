@@ -6,13 +6,15 @@ source_url: https://github.com/stanford-oval/storm
 resource_id: github:stanford-oval/storm
 local_vault_path: ai/rag/stanford-oval-storm.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
@@ -25,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **LLM-Powered Research System**: STORM autonomously researches topics by querying search engines, retrieving and synthesizing multi-source information, and generating comprehensive reports with inline citations using large language models (LLMs).
+- **System Overview**: STORM is an LLM-driven framework for autonomous knowledge curation, designed to research a given topic and synthesize a comprehensive, citation-backed report using iterative retrieval and synthesis.
 
-- **Agentic RAG Framework**: Implements an agentic retrieval-augmented generation (RAG) pipeline with iterative retrieval, hierarchical summarization, and structured report generation, optimizing for depth and factual accuracy in long-form content.
+- **Core Architecture**: Implements an agentic RAG pipeline with multi-agent collaboration (researcher, writer, and reviewer) to iteratively refine queries, retrieve relevant sources, and generate structured reports with inline citations.
+
+- **Technical Features**: Supports de
 
 ## Use Cases
 

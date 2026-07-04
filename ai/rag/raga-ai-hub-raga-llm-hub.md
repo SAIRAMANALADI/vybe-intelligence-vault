@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raga-ai-hub/raga-llm-hub
-collected_at: '2026-07-04T21:49:16.548994+05:30'
+collected_at: '2026-07-05T01:10:22.948620+05:30'
 published_at: '2026-06-11T18:44:18Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-02T18:32:13Z'
 pushed_at: '2024-09-09T10:53:31Z'
 resource_id: github:raga-ai-hub/raga-llm-hub
-first_seen: '2026-07-04T21:49:16.548994+05:30'
-last_seen: '2026-07-04T21:49:16.548994+05:30'
-last_checked: '2026-07-04T21:49:16.548994+05:30'
+first_seen: '2026-07-05T01:10:22.948620+05:30'
+last_seen: '2026-07-05T01:10:22.948620+05:30'
+last_checked: '2026-07-05T01:10:22.948620+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose-built framework** for evaluating LLMs, implementing guardrails, and enforcing security protocols in Python-based workflows.
-- **Supports LLMops** with structured evaluation pipelines, security checks, and runtime guardrails for production-grade deployments.
-- **Open-source repository** (114 stars, 14 forks) last updated June 2026, focusing on guardrails, LLM evaluation, and security hardening.
+- **Purpose-built framework** for evaluating LLMs, implementing guardrails, and enforcing security policies in Python-based workflows.
+- **Modular architecture** supporting LLMops integration with evaluation metrics, safety checks, and compliance monitoring.
+- **Open-source repository** (114 stars, 14 forks) with last update on 2026-06-11, focused on mitigating risks in generative AI deployments.
 
 ## Why It Matters
 

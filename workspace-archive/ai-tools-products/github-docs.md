@@ -2,7 +2,7 @@
 title: GitHub Docs
 archive_category: ai-tools-products
 source_category: ai/agents
-source_url: https://docs.github.com
+source_url: https://docs.github.com/
 resource_id: blog:github-docs
 local_vault_path: ai/agents/github-docs.md
 quality_score: 70
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Core GitHub Infrastructure**: GitHub relies on Git (open-source VCS) for local version control, supports SSH for secure remote connections, and provides repository management (creation, naming, and location handling).
+- **Git Integration & Authentication**: GitHub relies on Git for version control, supporting local operations, while SSH provides secure remote authentication for repository access and management.
 
-- **Collaboration & Workflows**: Pull requests enable code proposal, review, and merging; GitHub Actions automates CI/CD pipelines; GitHub Discussions facilitates team communication.
+- **Collaborative Workflows**: Pull requests enable code review, discussion, and merging, while GitHub Actions automates CI/CD pipelines for testing, packaging, and deployment.
 
-- **Security & Developer Tools**: GitHub supports authentication via passwords, tokens, and S
+- **Security & Developer Tools**: CodeQL and GitHub Advanced Security detect vulnerabilities, while REST/GraphQL APIs and Gi
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.github.com
+Original source URL: https://docs.github.com/
 
 ## Local Vault File
 

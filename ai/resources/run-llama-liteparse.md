@@ -4,14 +4,15 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/liteparse
-collected_at: '2026-07-04T19:37:53.949592+05:30'
-published_at: '2026-07-04T11:35:10Z'
+collected_at: '2026-07-05T01:13:26.796239+05:30'
+published_at: '2026-07-04T17:42:16Z'
 tags:
 - github-repo
 - meta-ai
 - models
 - rust
-stars: 11351
+- workflows
+stars: 11354
 language: Rust
 status: active
 license: Apache-2.0
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-02-09T22:16:30Z'
 pushed_at: '2026-07-04T03:52:49Z'
 resource_id: github:run-llama/liteparse
-first_seen: '2026-07-04T19:37:53.949592+05:30'
-last_seen: '2026-07-04T19:37:53.949592+05:30'
-last_checked: '2026-07-04T19:37:53.949592+05:30'
+first_seen: '2026-07-05T01:13:26.796239+05:30'
+last_seen: '2026-07-05T01:13:26.796239+05:30'
+last_checked: '2026-07-05T01:13:26.796239+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Rust-based OCR & PDF Parser**: Implements high-performance document parsing with OCR support for PDFs and other formats, optimized for speed and efficiency.
-- **Modular Architecture**: Designed for extensibility, enabling custom processing pipelines for text extraction, layout analysis, and structured data conversion.
-- **Open-Source & Actively Maintained**: Hosted on GitHub with 11K+ stars, frequent updates (last commit: July 2026), and community-driven development.
+- **Rust-based document parser** optimized for speed and efficiency, supporting OCR, PDF parsing, and text extraction with minimal overhead.
+- **Open-source** tool designed for high-performance document processing, integrating OCR recognition and structured data extraction.
+- **Actively maintained** (last updated July 2026) with a growing community (11K+ stars, 760 forks), targeting lightweight yet robust document parsing workflows.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: run-llama
-- Stars: 11351
+- Stars: 11354
 - Forks: 760
 - Language: Rust
 - Topics: document-ocr, document-processing, ocr, ocr-recognition, pdf, pdf-parser, text-extraction
-- Last Updated: 2026-07-04T11:35:10Z
+- Last Updated: 2026-07-04T17:42:16Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-02-09T22:16:30Z

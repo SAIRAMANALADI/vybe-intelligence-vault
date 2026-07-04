@@ -2,7 +2,7 @@
 title: GitHub Docs
 archive_category: ai-coding-agents
 source_category: ai/agents
-source_url: https://docs.github.com
+source_url: https://docs.github.com/
 resource_id: blog:github-docs
 local_vault_path: ai/agents/github-docs.md
 quality_score: 70
@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Core GitHub Functionality**: GitHub integrates Git for local version control and supports secure remote access via SSH, enabling collaborative repository management with features like pull requests, issues, and discussions.
+- **Git Integration & Authentication**: GitHub relies on Git for version control, supporting local operations, while SSH provides secure remote authentication for repository access and management.
 
-- **CI/CD & Security**: GitHub Actions automates workflows, while CodeQL and dependency management tools (e.g., Dependabot) enforce security policies, vulnerability scanning, and supply chain integrity.
+- **Collaborative Workflows**: Pull requests enable code review, discussion, and merging, while GitHub Actions automates CI/CD pipelines for testing, packaging, and deployment.
 
-- **Developer & Enterprise Tools**: REST/GraphQL APIs, GitHub CLI,
+- **Security & Developer Tools**: CodeQL and GitHub Advanced Security detect vulnerabilities, while REST/GraphQL APIs and Gi
 
 ## Use Cases
 
@@ -46,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.github.com
+Original source URL: https://docs.github.com/
 
 ## Local Vault File
 

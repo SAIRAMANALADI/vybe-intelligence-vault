@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-07-04T19:29:55.282165+05:30'
-collected_at: '2026-07-04T19:29:55.282178+05:30'
+published_at: '2026-07-05T01:09:04.455304+05:30'
+collected_at: '2026-07-05T01:09:04.455313+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-07-04T19:29:55.282178+05:30'
-last_seen: '2026-07-04T19:29:55.282178+05:30'
-last_checked: '2026-07-04T19:29:55.282178+05:30'
+first_seen: '2026-07-05T01:09:04.455313+05:30'
+last_seen: '2026-07-05T01:09:04.455313+05:30'
+last_checked: '2026-07-05T01:09:04.455313+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG (Retrieval-Augmented Generation)** integrates retrieval and generation, enabling LLMs to pull external knowledge dynamically, addressing limitations like stale data, private knowledge, and hallucinations while offering cost and auditability benefits.
+- **RAG Architecture**: Combines retrieval (vector/sparse search), augmentation (injecting retrieved context), and generation (LLM producing grounded answers) to address LLM limitations (stale knowledge, private data, hallucinations) while enabling dynamic, verifiable responses.
 
-- **Evolution of RAG** spans four generations: *Naive RAG* (basic retrieval), *Advanced RAG* (hybrid search, reranking, query transformation), *Modular RAG* (routing, looping, tool integration), and *Graph RAG* (entity-relation graph traversal for multi-hop reasoning).
+- **Evolutionary Generations**: Naive RAG (basic retrieval) → Advanced RAG (hybrid search, reranking, query rewriting) → Modular RAG (agentic routing, tool integration) → Graph RAG (entity-relation graphs for multi-hop reasoning), each addressing scalability and reasoning depth.
 
-- **Key Techniques** include BM25 for keyword matching, dense/sparse retrieval, ANN for scalable vector search, RRF for multi-retriever fusion, and MMR for diversity in top-k results, with frameworks like LangChain and vector DBs (e.g., Chroma, Qdrant) enabling implementation.
+- **Implementation Stack**: Standardized via frameworks like LangChain/LCEL, vector DBs (Chroma, Qdrant), and embeddings (BGE-M3, E5), with operational trade-offs between retrieval accuracy, latency, and graph construction overhead.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T19:29:55.282165+05:30
+- Published: 2026-07-05T01:09:04.455304+05:30
 
 ## Related Tags
 

@@ -6,7 +6,7 @@ source_url: https://github.com/llmware-ai/llmware
 resource_id: github:llmware-ai/llmware
 local_vault_path: ai/rag/llmware-ai-llmware.md
 quality_score: 70
-archive_score: 79
+archive_score: 75
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -17,8 +17,8 @@ tags:
 - models
 - python
 - rag
+- workflows
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
@@ -27,17 +27,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Unified RAG Framework**: Provides a Python-based, end-to-end pipeline for enterprise Retrieval-Augmented Generation (RAG) using small, specialized models optimized for efficiency (e.g., llama.cpp, ONNX, OpenVINO).
-- **Multi-Backend Support**: Integrates multiple inference backends (e.g., Llama, GGML, PyTorch, TensorRT) and model formats (GGUF, ONNX, GGML) for flexible deployment across hardware.
-- **Enterprise Features**: Includes document parsing, vector storage (FAISS/Chroma), agent orches
+- **Unified RAG Framework**: Provides a Python-based, end-to-end framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines optimized for small, specialized models (e.g., LlamaCPP, ONNX, OpenVINO).
+
+- **Multi-Model & Tool Integration**: Supports heterogeneous model architectures (generative LLMs, small specialized models) and integrates parsing, retrieval, and agent-based workflows for modular pipeline design.
+
+- **Performance & Deployment**: Focuses on lightweigh
 
 ## Use Cases
 

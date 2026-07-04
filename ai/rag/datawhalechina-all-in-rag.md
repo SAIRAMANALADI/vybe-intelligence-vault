@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-07-04T21:47:46.538768+05:30'
-published_at: '2026-07-04T14:47:02Z'
+collected_at: '2026-07-05T01:08:52.923878+05:30'
+published_at: '2026-07-04T17:58:48Z'
 tags:
 - github-repo
 - hackernews
@@ -13,16 +13,17 @@ tags:
 - models
 - python
 - rag
-stars: 9193
+- workflows
+stars: 9196
 language: Python
 status: active
 archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-06-05T08:29:26Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-07-04T21:47:46.538768+05:30'
-last_seen: '2026-07-04T21:47:46.538768+05:30'
-last_checked: '2026-07-04T21:47:46.538768+05:30'
+first_seen: '2026-07-05T01:08:52.923878+05:30'
+last_seen: '2026-07-05T01:08:52.923878+05:30'
+last_checked: '2026-07-05T01:08:52.923878+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Guide**: Repository provides a full-stack technical guide for Retrieval-Augmented Generation (RAG) development, covering end-to-end implementation from embedding models to deployment, with a focus on large language models (LLMs).
+- **Comprehensive RAG Development Guide**: A full-stack technical resource covering Retrieval-Augmented Generation (RAG) implementation, integrating tools like LangChain, LlamaIndex, and Milvus for scalable AI applications.
 
-- **Multi-Tool Integration**: Supports diverse frameworks and tools including LangChain, LlamaIndex, Milvus (vector DB), Neo4j (graph DB), and multimodal embeddings, with examples leveraging models like DeepSeek and Kimi-K2.
+- **Multi-Technology Integration**: Demonstrates hybrid RAG pipelines using vector databases (Milvus), graph databases (Neo4j), and multimodal embeddings (Kimi-K2, DeepSeek) with Python-based workflows.
 
-- **Python-Centric Implementation**: Entire stack is implemented in Python, with last update in July 2026, ensuring alignment with current AI/ML ecosystem standards and practices.
+- **Updated Tooling & Best Practices**: Focuses on modern LLM frameworks (e.g., LangChain, LlamaIndex) and includes deployment strategies for production-grade RAG systems, last revised July 2026.
 
 ## Why It Matters
 
@@ -43,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 9193
-- Forks: 4570
+- Stars: 9196
+- Forks: 4569
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
-- Last Updated: 2026-07-04T14:47:02Z
+- Last Updated: 2026-07-04T17:58:48Z
 - Archived: No
 - Created At: 2025-06-05T08:12:35Z
 - Pushed At: 2026-06-05T08:29:26Z

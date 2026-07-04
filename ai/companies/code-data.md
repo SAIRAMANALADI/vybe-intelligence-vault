@@ -4,16 +4,16 @@ category: ai/companies
 source_type: company_blog
 source_name: Microsoft Research Blog
 source_url: https://microsoft.com/en-us/research/tools
-published_at: '2026-07-04T21:47:06.721026+05:30'
-collected_at: '2026-07-04T21:47:06.721028+05:30'
+published_at: '2026-07-05T01:08:16.844997+05:30'
+collected_at: '2026-07-05T01:08:16.845000+05:30'
 tags:
 - blog-post
 - microsoft-research-blog
 status: active
 resource_id: blog:code-data
 first_seen: '2026-06-16T13:57:14.808954+05:30'
-last_seen: '2026-07-04T21:47:06.721028+05:30'
-last_checked: '2026-07-04T21:47:06.721028+05:30'
+last_seen: '2026-07-05T01:08:16.845000+05:30'
+last_checked: '2026-07-05T01:08:16.845000+05:30'
 health_score: 100
 ---
 
@@ -31,7 +31,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Microsoft Research Blog
 - Article URL: https://microsoft.com/en-us/research/tools
-- Collected At: 2026-07-04T21:47:06.721028+05:30
+- Collected At: 2026-07-05T01:08:16.845000+05:30
 
 ## Related Tags
 

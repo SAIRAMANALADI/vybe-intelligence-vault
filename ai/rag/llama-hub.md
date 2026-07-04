@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://llamahub.ai
-published_at: '2026-07-04T03:54:17.288176+05:30'
-collected_at: '2026-07-04T03:54:17.288186+05:30'
+published_at: '2026-07-05T01:15:22.776211+05:30'
+collected_at: '2026-07-05T01:15:22.776220+05:30'
 tags:
 - agents
 - dataset
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:llama-hub
-first_seen: '2026-07-04T03:54:17.288186+05:30'
-last_seen: '2026-07-04T03:54:17.288186+05:30'
-last_checked: '2026-07-04T03:54:17.288186+05:30'
+first_seen: '2026-07-05T01:15:22.776220+05:30'
+last_seen: '2026-07-05T01:15:22.776220+05:30'
+last_checked: '2026-07-05T01:15:22.776220+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: LlamaHub provides a repository of modular components including Data Loaders, Agent Tools, and Llama Packs to facilitate rapid development of Retrieval-Augmented Generation (RAG) applications.
+- **Modular RAG Framework**: LlamaHub provides a repository of plug-and-play **Data Loaders**, **Agent Tools**, and **LlamaPacks** to accelerate custom RAG application development, compatible with frameworks like LlamaIndex and LangChain.
 
-- **Cross-Framework Compatibility**: Integrations support multiple frameworks (e.g., LlamaIndex, LangChain) and enable seamless connection between large language models (LLMs) and diverse data sources.
+- **Extensible Integrations**: Supports **600+ integrations** (loaders, tools, datasets) for seamless LLM connectivity to diverse knowledge sources, enabling rapid prototyping and deployment of retrieval-based systems.
 
-- **Open-Source Contributions**: Actively maintained via GitHub with pathways for feature requests, integrations, and community contributions (e.g., adding new loaders/tools/datasets).
+- **Open-Source Contribution**: Actively encourages community contributions via GitHub, allowing developers to add new **loaders**, **tools**, or **datasets** to expand the ecosystem.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T03:54:17.288176+05:30
+- Published: 2026-07-05T01:15:22.776211+05:30
 
 ## Related Tags
 

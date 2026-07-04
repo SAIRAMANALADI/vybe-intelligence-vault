@@ -6,10 +6,10 @@ source_url: https://supabase.com/docs/guides/ai
 resource_id: blog:ai-vectors-supabase-docs
 local_vault_path: ai/rag/ai-vectors-supabase-docs.md
 quality_score: 70
-archive_score: 86
-archive_tier: essential
-resource_kind: template
-importance: high
+archive_score: 76
+archive_tier: useful
+resource_kind: tutorial
+importance: medium
 tags:
 - frontend_ui
 - hackernews
@@ -19,9 +19,10 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # AI & Vectors | Supabase Docs
@@ -29,17 +30,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 86 (essential)
-- Resource kind: template
+- Quality score: 70 | Archive score: 76 (useful)
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Postgres + pgvector Integration**: Supabase leverages Postgres with the `pgvector` extension to provide a native vector database solution, enabling storage, indexing, and querying of vector embeddings at scale within a relational database framework.
+- **Vector Database Integration**: Supabase leverages **Postgres with pgvector** for native vector storage, indexing, and querying, enabling scalable AI applications without external vector databases.
 
-- **Multi-Modal AI Toolkit**: Supports hybrid search (semantic, keyword, and hybrid), open-source embedding generation (via Edge Functions), and integrations with AI providers (OpenAI, Hugging Face, LangChain) for unstructured data processing an
+- **Embedding & AI Model Support**: Supports **unstructured embeddings** via Python client, **open-source model inference** in Edge Functions, and integrations with **OpenAI, Hugging Face, LangChain, and LlamaIndex** for hybrid search and LLM workflows.
+
+- **Search & Deployment Flexibility**: Enab
 
 ## Use Cases
 

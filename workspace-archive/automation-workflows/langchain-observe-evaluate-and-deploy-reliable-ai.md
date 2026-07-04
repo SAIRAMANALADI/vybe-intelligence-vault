@@ -2,13 +2,13 @@
 title: 'LangChain: Observe, Evaluate, and Deploy Reliable AI Agents'
 archive_category: automation-workflows
 source_category: ai/agents
-source_url: https://langchain.com/
+source_url: https://www.langchain.com/
 resource_id: blog:langchain-observe-evaluate-and-deploy-reliable-ai
 local_vault_path: ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -26,16 +26,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: mcp-server
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Framework-agnostic observability & debugging**: LangSmith provides native tracing for popular agent frameworks (e.g., LangChain, LangGraph) and OpenTelemetry, with SDKs in Python/TypeScript/Go/Java, enabling structured trace analysis for multi-turn interactions, async workflows, and root-cause debugging via AI-driven insights.
+- **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and fix proposals to accelerate agent improvement by diagnosing undetected issues in production traces and code.
 
-- **Automated evaluation & iterative improvement**: Captures production traces as reusable test cases, supports LLM-as-judge/multi-turn evals, human feedback calibrat
+- **Multi-Layer Agent Platform**: Framework-agnostic observability, evaluation, and deployment with native tracing (OpenTelemetry), LLM-as-judge evals, and scalable runtime supporting A2A/MCP protocols and human-in-the-loop workflows.
+
+- **Enterprise Fleet Management**: Low-code agent orchestration with BYOM
 
 ## Use Cases
 
@@ -45,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://langchain.com/
+Original source URL: https://www.langchain.com/
 
 ## Local Vault File
 

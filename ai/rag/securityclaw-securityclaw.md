@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-07-04T21:49:11.527345+05:30'
+collected_at: '2026-07-05T01:10:17.902863+05:30'
 published_at: '2026-06-30T16:56:54Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-06-18T03:28:29Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-07-04T21:49:11.527345+05:30'
-last_seen: '2026-07-04T21:49:11.527345+05:30'
-last_checked: '2026-07-04T21:49:11.527345+05:30'
+first_seen: '2026-07-05T01:10:17.902863+05:30'
+last_seen: '2026-07-05T01:10:17.902863+05:30'
+last_checked: '2026-07-05T01:10:17.902863+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch monitoring, skill-based automation, and RAG-enhanced behavioral memory for adaptive threat detection and response.
-- **LLM-Powered Anomaly Validation**: Real-time anomaly triage and validation using large language models (LLMs) to contextualize and prioritize security events with minimal human intervention.
-- **Threat Hunting & Automation**: Combines SOC automation, threat detection, and proactive hunting via retrieval-augmented generation (RAG) for dynamic, skill-driven cybersecurity operations.
+- **Modular SOC Agent**: Python-based autonomous agent with skill-based architecture for Security Operations Center (SOC) automation, integrating OpenSearch/Elasticsearch monitoring and real-time anomaly validation via LLMs.
+
+- **RAG-Powered Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to build contextual behavioral memory from monitored data, enabling adaptive threat detection and historical anomaly correlation.
+
+- **Threat Validation Pipeline**: Uses LLM-driven validation to assess real-time anomalies, combining modular skills for threat hunting, detection, and SOC automation with continuous updates (last commit: 2026-06-30).
 
 ## Why It Matters
 

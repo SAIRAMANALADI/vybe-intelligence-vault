@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/duanyytop/agents-radar
-collected_at: '2026-07-04T19:31:40.139724+05:30'
+collected_at: '2026-07-05T01:10:47.955263+05:30'
 published_at: '2026-07-04T05:17:03Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2026-02-23T03:22:26Z'
 pushed_at: '2026-07-04T01:57:05Z'
 resource_id: github:duanyytop/agents-radar
-first_seen: '2026-07-04T19:31:40.139724+05:30'
-last_seen: '2026-07-04T19:31:40.139724+05:30'
-last_checked: '2026-07-04T19:31:40.139724+05:30'
+first_seen: '2026-07-05T01:10:47.955263+05:30'
+last_seen: '2026-07-05T01:10:47.955263+05:30'
+last_checked: '2026-07-05T01:10:47.955263+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Automated AI Ecosystem Aggregator**: Daily curation of AI-related content from 10 sources (GitHub, ArXiv, HN, HuggingFace, etc.) via GitHub Actions, generating bilingual ZH/EN reports.
-- **Technical Stack**: Built in TypeScript, with automated updates and synchronization via GitHub Actions (last updated 2026-07-04).
-- **Repository Metrics**: 875 stars, 141 forks, no explicit topics, and a fully automated workflow for content aggregation and reporting.
+- **Automated AI Ecosystem Aggregator**: Daily curation of AI-related content from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
+- **Bilingual Reporting**: Generates reports in both Chinese and English using automated workflows.
+- **Technical Stack**: Built in TypeScript, last updated on 2026-07-04, with 875 stars and 141 forks.
 
 ## Why It Matters
 

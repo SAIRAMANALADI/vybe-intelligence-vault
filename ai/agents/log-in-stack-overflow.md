@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: http://stackoverflow.com/questions/ask?tags=youtube-api
-published_at: '2026-07-03T20:08:52.700328+05:30'
-collected_at: '2026-07-03T20:08:52.700341+05:30'
+published_at: '2026-07-05T01:13:54.289129+05:30'
+collected_at: '2026-07-05T01:13:54.289139+05:30'
 tags:
 - agents
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:log-in-stack-overflow
-first_seen: '2026-07-03T20:08:52.700341+05:30'
-last_seen: '2026-07-03T20:08:52.700341+05:30'
-last_checked: '2026-07-03T20:08:52.700341+05:30'
+first_seen: '2026-07-05T01:13:54.289139+05:30'
+last_seen: '2026-07-05T01:13:54.289139+05:30'
+last_checked: '2026-07-05T01:13:54.289139+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Stack Internal** is a knowledge platform integrating human expertise with AI automation for enterprise use, replacing Stack Overflow for Teams.
+- **Stack Internal** enables enterprise knowledge platforms by integrating human expertise with AI automation for internal team use cases.
 
-- **Stack Data Licensing** provides access to curated technical content with proper attribution for AI/ML applications.
+- **Stack Data Licensing** provides access to curated technical content from Stack Overflow for AI/ML model training and attribution.
 
-- **Stack Ads** enables brand engagement with Stack Overflow’s technical audience via targeted advertising solutions.
+- **Stack Overflow for Agents** offers an API-driven platform for deploying autonomous AI agents with technical problem-solving capabilities.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-03T20:08:52.700328+05:30
+- Published: 2026-07-05T01:13:54.289129+05:30
 
 ## Related Tags
 

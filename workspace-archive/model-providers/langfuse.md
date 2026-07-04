@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Scalability & Adoption**: Supports **10+ billion observations/month**, used by **19 of the Fortune 50**, with **100,000+ engineers** building on the platform.
+- **Adoption Metrics**: Langfuse is used by **19 of the Fortune 50 companies**, processes **10+ billion observations/month**, and supports **100,000+ engineers** building AI applications.
 
-- **Core Features**: Provides **end-to-end LLM observability** (traces, metrics, cost/latency monitoring), **prompt management**, **evaluation tools** (LLM-as-a-judge, human review), and **collaborative experimentation** for AI agents/products.
+- **Core Capabilities**: Provides **end-to-end LLM observability** (traces, metrics, latency/cost monitoring), **prompt management**, **evaluation frameworks** (LLM-as-a-judge, human review), and **collaborative experimentation** with integrated workflows.
 
-- **Multi-Framework & Multi-Model Support**: Compatible with **100+ integrations** (e.g.,
+- **Multi-Stack Compatibility**: Supports **100+ inte
 
 ## Use Cases
 

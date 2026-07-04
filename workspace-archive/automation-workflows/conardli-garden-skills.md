@@ -15,9 +15,7 @@ tags:
 - anthropic
 - css
 - github-repo
-- hackernews
 - rag
-- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -37,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Open-source collection (`ConardLi/garden-skills`) with 9,124 stars and 1,227 forks, focusing on web design, knowledge retrieval, image generation, and AI-driven workflows.
-- **Technical Stack**: Primarily CSS-based, integrating tools like `gpt-image-2` for image generation, RAG (Retrieval-Augmented Generation) for knowledge retrieval, and agent-based automation.
-- **Use Cases**: Supports Claude and GPT-powered workflows, enabling structured knowledge management, AI-ass
+- **Multi-domain Skills Repository**: Open-source collection covering web design, knowledge retrieval (RAG), and image generation (GPT-Image-2), with modular implementations for extensibility.
+- **AI-Agent Integration**: Designed for AI agents (e.g., Claude) with structured workflows for automated skill execution and retrieval-augmented generation (RAG) pipelines.
+- **Tech Stack**: Primarily CSS-based UI components with additional tooling for agent orchestration and image generation, last update
 
 ## Use Cases
 

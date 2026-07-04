@@ -14,10 +14,10 @@ tags:
 - benchmark
 - github-repo
 - meta-ai
+- mistral
 - models
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates advanced RAG workflows using locally hosted large language models (LLMs) via frameworks like Ollama or LM Studio, eliminating cloud dependency.
+- **Enhanced RAG Pipeline**: Implements a LangChain-based Retrieval-Augmented Generation (RAG) system leveraging local LLMs (e.g., Llama, Mistral) for offline inference, with modular components for document ingestion, vector storage (e.g., FAISS/Chroma), and retrieval-augmented generation.
 
-- **Dynamic Database Updates**: Implements automated ingestion pipelines for updating vector databases (e.g., Chroma, Weaviate) with new documents, ensuring real-time knowledge base synchronization.
-
-- **Testing & Evaluation**: Includes structured testing methodologies (e.g., RAGAS, TruLens) to benchmark retriev
+- **Dynamic Database Updates**: Integrates automated document ingestion pipelines (e.g., via `LangChain`'s `DocumentLoaders`) with vector database synchronization (e.g., incremental updates to Chroma/FAISS),
 
 ## Use Cases
 

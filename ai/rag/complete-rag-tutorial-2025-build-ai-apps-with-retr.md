@@ -5,18 +5,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY
-published_at: '2026-07-04T21:47:56.046365+05:30'
-collected_at: '2026-07-04T21:47:56.046377+05:30'
+published_at: '2026-07-05T01:09:01.341959+05:30'
+collected_at: '2026-07-05T01:09:01.341967+05:30'
 tags:
-- hackernews
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:complete-rag-tutorial-2025-build-ai-apps-with-retr
-first_seen: '2026-07-04T21:47:56.046377+05:30'
-last_seen: '2026-07-04T21:47:56.046377+05:30'
-last_checked: '2026-07-04T21:47:56.046377+05:30'
+first_seen: '2026-07-05T01:09:01.341967+05:30'
+last_seen: '2026-07-05T01:09:01.341967+05:30'
+last_checked: '2026-07-05T01:09:01.341967+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos, with additional features for creators, advertisers, and developers.
-
-- **Technical Infrastructure**: Utilizes Google’s infrastructure for scalable video delivery, with tools like YouTube API for developers, and supports monetization via ads and creator programs.
-
-- **Policy & Compliance**: Governed by Google’s privacy policies, terms of service, and content safety guidelines, with dedicated resources for copyright, press, and legal inquiries.
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, live streaming, monetization (via YouTube Partner Program), and advertising solutions (Google Ads).
+- **Developer & API Access**: Provides a [YouTube Data API](https://developers.google.com/youtube) for programmatic interactions (e.g., uploading, searching, or managing videos) and supports third-party integrations.
+- **Policy & Compliance**: Enforces [Terms of Service](https://www.youtube.com/t/terms), [Privacy Policy](https://www.youtube.com/t/privacy), and [Community Guidelines](https://www.youtube.com/about/policies/) to regulate content, copyright, and user conduct.
 
 ## Why It Matters
 
@@ -38,11 +35,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T21:47:56.046365+05:30
+- Published: 2026-07-05T01:09:01.341959+05:30
 
 ## Related Tags
 
-- hackernews
 - rag
 - web-crawled
 - youtube

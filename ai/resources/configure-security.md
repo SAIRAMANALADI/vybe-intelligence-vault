@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/security/
-published_at: '2026-07-04T16:37:16.928993+05:30'
-collected_at: '2026-07-04T16:37:16.929007+05:30'
+published_at: '2026-07-05T01:15:24.257422+05:30'
+collected_at: '2026-07-05T01:15:24.257433+05:30'
 tags:
 - frontend_ui
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-security
-first_seen: '2026-07-04T16:37:16.929007+05:30'
-last_seen: '2026-07-04T16:37:16.929007+05:30'
-last_checked: '2026-07-04T16:37:16.929007+05:30'
+first_seen: '2026-07-05T01:15:24.257433+05:30'
+last_seen: '2026-07-05T01:15:24.257433+05:30'
+last_checked: '2026-07-05T01:15:24.257433+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Security Policy**: Hugo enforces a default-deny security policy via allowlists for `os/exec`, remote communication, and environment access, blocking operations not explicitly permitted (e.g., `os/exec` restricts executables like `git`, `node`, and `tailwindcss`).
+- **Default Security Policy**: Hugo enforces a restrictive security policy by default, blocking access to `os/exec`, remote communication, and similar operations unless explicitly allowed via allowlists; builds fail with detailed errors if unauthorized operations are attempted.
 
-- **Content & HTTP Restrictions**: `allowContent` denies non-HTML formats by default (e.g., `text/html` is blocked unless explicitly allowed), while `http.urls` and `http.methods` restrict remote resource access to specific patterns (e.g., disallowing `localhost` or `evil.example.com`).
+- **Configurable Allowlists**: Security settings are controlled via regex-based allowlists for content types (`allowContent`), executables (`exec.allow`), OS environment variables (`exec.osEnv`, `funcs.getenv`), HTTP methods/URLs (`http.methods`, `http.urls`), and Node.js permissions (`node.permissions.*`), with negation rules (`!`) to explicitly deny specific patterns.
 
-- **Node.js Permissions**: Node.js tools (e.g., `tailwindcss`) run with granular filesystem and process restrictions via `--permission` flags, controlled by `node.permissions` (e.g., `allowRead`, `allowWrite`, `allowChildProcess`).
+- **Environment Overrides**: Security configurations can be dynamically overridden via environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none` to block all remote URL access), and Node.js tools are restricted by default unless explicitly permitted for addons, child processes, or file system operations.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-04T16:37:16.928993+05:30
+- Published: 2026-07-05T01:15:24.257422+05:30
 
 ## Related Tags
 

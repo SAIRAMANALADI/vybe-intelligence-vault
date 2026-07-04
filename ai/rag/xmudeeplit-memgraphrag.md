@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-07-04T21:49:36.569395+05:30'
+collected_at: '2026-07-05T01:10:42.954785+05:30'
 published_at: '2026-07-03T14:19:28Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-07-04T21:49:36.569395+05:30'
-last_seen: '2026-07-04T21:49:36.569395+05:30'
-last_checked: '2026-07-04T21:49:36.569395+05:30'
+first_seen: '2026-07-05T01:10:42.954785+05:30'
+last_seen: '2026-07-05T01:10:42.954785+05:30'
+last_checked: '2026-07-05T01:10:42.954785+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-Based Multi-Agent Framework**: Introduces a novel **memory-driven multi-agent system** for **Graph Retrieval-Augmented Generation (GraphRAG)**, leveraging agent-memory interactions to enhance graph-based knowledge retrieval and generation.
+- **Memory-Based Multi-Agent System**: Introduces a novel framework leveraging memory-augmented agents for graph-based Retrieval-Augmented Generation (RAG), enhancing contextual reasoning via persistent knowledge graphs.
 
-- **Graph & Ontology Construction**: Implements **dynamic graph construction** and **ontology learning** to structure unstructured data, enabling efficient **knowledge graph augmentation** for downstream RAG tasks.
+- **Graph Construction & Ontology Integration**: Automates dynamic graph construction and ontology alignment to improve semantic retrieval, enabling structured multi-hop reasoning across documents.
 
-- **KDD 2026 Contribution**: Proposes a **unified memory-graph integration** mechanism, optimizing **contextual retrieval** and **multi-agent collaboration** for improved factual accuracy and reasoning in large-scale knowledge graphs.
+- **Python Implementation**: Provides an open-source Python library for scalable deployment, supporting ontology-driven graph RAG with multi-agent collaboration for KDD 2026 research validation.
 
 ## Why It Matters
 

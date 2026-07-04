@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://help.researchsolutions.com/hc/en-us/categories/31947397460116-Scite
-published_at: '2026-07-02T15:09:14.312727+05:30'
-collected_at: '2026-07-02T15:09:14.312740+05:30'
+published_at: '2026-07-05T01:14:23.532208+05:30'
+collected_at: '2026-07-05T01:14:23.532214+05:30'
 tags:
 - rag
 - web-crawled
 - workflows
 status: active
 resource_id: blog:scite-research-solutions-help-support-center
-first_seen: '2026-07-02T15:09:14.312740+05:30'
-last_seen: '2026-07-02T15:09:14.312740+05:30'
-last_checked: '2026-07-02T15:09:14.312740+05:30'
+first_seen: '2026-07-05T01:14:23.532214+05:30'
+last_seen: '2026-07-05T01:14:23.532214+05:30'
+last_checked: '2026-07-05T01:14:23.532214+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Scite's citation analysis** distinguishes between *citations* (raw references) and *citation statements* (contextual mentions in text), enabling classification of citations as supporting, contrasting, or mentioning based on semantic analysis of surrounding text.
+- **Scite's citation analysis** distinguishes between *citations* (mentions) and *citation statements* (contextual references), classifying them as supporting, mentioning, or contrasting to assess research impact and context.
 
-- **Coverage and data integrity** are managed via Scite's proprietary database, which includes over 1.2B citation statements across 50M+ documents; missing citations can be reported for inclusion via a dedicated feedback mechanism.
+- **Coverage and classification** rely on a proprietary database of 1.2B+ citation statements across 50M+ documents, with AI-driven contextual tagging to identify citation intent and potential misclassifications.
 
-- **User workflows** include automated tools like *Reference Check* (for citation integrity verification) and *Table Mode* (for structured data extraction), alongside expert identification and alert systems for systematic literature reviews.
+- **Functional workflows** include *Reference Check* for pre-submission manuscript validation, *Table Mode* for structured data extraction, and *expert identification* via citation network analysis for systematic literature reviews.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-02T15:09:14.312727+05:30
+- Published: 2026-07-05T01:14:23.532208+05:30
 
 ## Related Tags
 

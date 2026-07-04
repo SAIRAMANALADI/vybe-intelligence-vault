@@ -16,7 +16,6 @@ tags:
 - producthunt
 - rag
 - reddit
-- scripts
 - web-crawled
 selection_reason:
 - Useful for project building
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-Platform SDKs**: Firebase provides unified SDKs for iOS, Android, Web, Flutter, Unity, and C++, enabling seamless app development across multiple platforms with shared backend infrastructure.
+- **Cross-platform SDKs**: Firebase provides unified SDKs for iOS, Android, Web, Flutter, Unity, and C++, enabling seamless app development across multiple platforms with shared backend infrastructure.
 
-- **AI-Powered Services**: Integrates managed AI logic (e.g., Firebase AI Logic) and generative AI tools (e.g., Gemini) for app personalization, automation, and intelligent features while leveraging Google Cloud’s scalable infrastructure.
+- **AI-powered services**: Integrates generative AI (e.g., Gemini) and managed AI logic (e.g., Firebase AI Logic) with Google Cloud infrastructure for scalable, intelligent app features like real-time data processing and predictive analytics.
 
-- **Modular Product Ecosystem**: Offers 30+ modular servi
+- **Modular ecosystem**: Offers 30+ products (e.g., F
 
 ## Use Cases
 

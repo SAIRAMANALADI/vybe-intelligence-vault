@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Supabase Integration**: Uses Supabase for Postgres database (with Row Level Security), authentication (magic links/email-passwordless), and storage (profile photo uploads) in a Next.js app.
-- **Authentication Flow**: Implements server-side auth via `@supabase/ssr`, using cookies for session management and proxy endpoints to refresh expired tokens (`getClaims`/`getUser` for identity verification).
-- **Project Setup**: Requires `.env.local` with `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPA
+- **Authentication & Database Integration**: Uses Supabase Auth for user sign-up/login (via Magic Links), Postgres database with Row Level Security (RLS) for storing user profiles, and Supabase Storage for profile photo uploads, ensuring secure, isolated user data access.
+
+- **Next.js Architecture**: Implements dual Supabase clients (`client.ts` for browser, `server.ts` for server-side) with `@supabase/ssr` for cookie-based session management, and a proxy (`proxy.ts`) to handle token refresh and
 
 ## Use Cases
 

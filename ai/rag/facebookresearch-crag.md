@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-07-04T21:49:01.549964+05:30'
+collected_at: '2026-07-05T01:10:07.922886+05:30'
 published_at: '2026-07-02T18:18:03Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 stars: 294
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-07-04T21:49:01.549964+05:30'
-last_seen: '2026-07-04T21:49:01.549964+05:30'
-last_checked: '2026-07-04T21:49:01.549964+05:30'
+first_seen: '2026-07-05T01:10:07.922886+05:30'
+last_seen: '2026-07-05T01:10:07.922886+05:30'
+last_checked: '2026-07-05T01:10:07.922886+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: CRAG provides a comprehensive benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, including diverse datasets and metrics for assessing performance across multiple dimensions (e.g., factuality, robustness, efficiency).
-- **Modular Design**: Implemented in Jupyter Notebooks, the repository offers modular components for dataset preprocessing, retrieval evaluation, and generation assessment, enabling reproducible and extensible experimentation.
-- **Evaluation Metrics**: Includes standardized metrics for measuring RAG performance, such as answer correctness, citation accuracy, and latency, facilitating comparative analysis against state-of-the-art methods.
+- **CRAG Benchmark**: A comprehensive evaluation framework for Retrieval-Augmented Generation (RAG) systems, designed to assess performance across diverse tasks and datasets.
+- **Technical Stack**: Implemented in Jupyter Notebooks, leveraging Python for modular benchmarking of RAG pipelines, including retrieval, generation, and evaluation components.
+- **Metrics & Evaluation**: Focuses on quantifying RAG system efficacy via standardized metrics (e.g., accuracy, latency, robustness) across curated real-world and synthetic datasets.
 
 ## Why It Matters
 

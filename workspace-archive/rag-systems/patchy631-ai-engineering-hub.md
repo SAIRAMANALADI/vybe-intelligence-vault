@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`patchy631/ai-engineering-hub`) with 36,332 stars and 6,016 forks, focused on AI engineering tutorials using Jupyter Notebooks.
-- **Core Topics**: Covers large language models (LLMs), retrieval-augmented generation (RAG), AI agents, machine learning, and model context protocol (MCP).
-- **Last Updated**: July 4, 2026, with content structured for real-world AI agent applications and technical depth.
+- **Repository Overview**: Hosts advanced tutorials on LLMs, RAG systems, and real-world AI agent implementations, structured as Jupyter Notebooks.
+- **Technical Scope**: Covers agents, AI/ML methodologies, MCP (Model Context Protocol), and retrieval-augmented generation (RAG) architectures.
+- **Metrics**: 36,331 stars, 6,016 forks, last updated July 4, 2026.
 
 ## Use Cases
 

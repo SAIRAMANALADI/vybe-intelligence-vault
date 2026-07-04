@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
-published_at: '2026-07-04T01:25:25.501951+05:30'
-collected_at: '2026-07-04T01:25:25.501961+05:30'
+published_at: '2026-07-05T01:14:13.906833+05:30'
+collected_at: '2026-07-05T01:14:13.906840+05:30'
 tags:
 - benchmark
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
-first_seen: '2026-07-04T01:25:25.501961+05:30'
-last_seen: '2026-07-04T01:25:25.501961+05:30'
-last_checked: '2026-07-04T01:25:25.501961+05:30'
+first_seen: '2026-07-05T01:14:13.906840+05:30'
+last_seen: '2026-07-05T01:14:13.906840+05:30'
+last_checked: '2026-07-05T01:14:13.906840+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-format document parsing** with 90+ supported formats, including complex layouts, tables, charts, handwriting, checkboxes, and images, converting them into clean Markdown for AI applications.
+- **Layout-aware parsing**: Utilizes advanced OCR and layout analysis to accurately interpret complex document structures, including headers, footers, multi-column layouts, and split sections.
 
-- **Advanced parsing capabilities** featuring layout-aware processing (headers, footers, split sections), multimodal parsing (charts, tables, images), granular control modes for cost-accuracy optimization, and multilingual support for 100+ languages.
+- **Multimodal & multilingual support**: Processes text, charts, tables, images, handwriting, and checkboxes while supporting 100+ languages, enabling high-fidelity extraction from diverse document types.
 
-- **Enterprise-grade scalability** with support for millions of pages, local/cloud deployment, high concurrency, and dedicated customer success, validated by leading AI teams and enterprises.
+- **Scalable & configurable parsing modes**: Offers granular control via different parsing modes (e.g., speed vs. accuracy) and supports enterprise-grade deployment (local/cloud) for high-volume, concurrent processing of millions of pages.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T01:25:25.501951+05:30
+- Published: 2026-07-05T01:14:13.906833+05:30
 
 ## Related Tags
 

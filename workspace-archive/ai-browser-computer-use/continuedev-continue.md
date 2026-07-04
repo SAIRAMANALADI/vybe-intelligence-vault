@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Open-source AI coding agent** implemented in TypeScript, enabling autonomous or semi-autonomous code generation, editing, and debugging via CLI and IDE integrations.
-
-- **Modular architecture** supports extensibility via plugins, allowing integration with various LLMs, tools, and workflows for customizable AI-driven development.
-
-- **Active development** with recent updates (as of 2026-07-04) and a growing community (34.7k+ stars, 4.9k+ forks), indicating robust adoption and continuous impro
+- **Open-source AI coding agent**: Continue is a TypeScript-based autonomous coding assistant designed to automate software development tasks via AI-driven agents.
+- **CLI and developer tool integration**: Supports command-line execution and integrates with existing developer workflows for real-time code generation, debugging, and optimization.
+- **Extensible architecture**: Modular design allows customization via plugins, enabling integration with various AI models, IDEs, and development enviro
 
 ## Use Cases
 

@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-07-04T21:49:26.480450+05:30'
+collected_at: '2026-07-05T01:10:32.897582+05:30'
 published_at: '2026-07-04T10:22:01Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 650
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-07-04T21:49:26.480450+05:30'
-last_seen: '2026-07-04T21:49:26.480450+05:30'
-last_checked: '2026-07-04T21:49:26.480450+05:30'
+first_seen: '2026-07-05T01:10:32.897582+05:30'
+last_seen: '2026-07-05T01:10:32.897582+05:30'
+last_checked: '2026-07-05T01:10:32.897582+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, emphasizing modularity and scalability.
+- **Modular RAG Pipeline**: Implements a production-ready Retrieval-Augmented Generation (RAG) system with FastAPI, structured into modular components (retriever, generator, and API layers) for scalability and maintainability.
 
-- **Tech Stack Integration**: Demonstrates integration of GenAI models with FastAPI for backend services, Docker for containerization, and Python for core logic, including vector database interactions and API endpoints.
+- **Dockerized Deployment**: Provides a containerized setup using Docker for consistent environment replication, including dependencies for FastAPI, Python, and GenAI models, ensuring reproducible deployments.
 
-- **Deployment-Ready Architecture**: Focuses on best practices for deploying RAG systems, covering CI/CD pipelines, environment configuration, and modular design for maintainability in production environments.
+- **Educational Focus**: Step-by-step tutorial covering end-to-end RAG application development, from architecture design to deployment, with emphasis on GenAI integration, Python-based workflows, and best practices for production environments.
 
 ## Why It Matters
 

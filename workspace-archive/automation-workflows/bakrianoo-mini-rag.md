@@ -8,7 +8,7 @@ local_vault_path: ai/rag/bakrianoo-mini-rag.md
 quality_score: 70
 archive_score: 87
 archive_tier: essential
-resource_kind: dataset
+resource_kind: benchmark
 importance: high
 tags:
 - github-repo
@@ -26,16 +26,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: dataset
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Educational RAG Pipeline**: Demonstrates a step-by-step implementation of a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modular deployment.
-- **GenAI Integration**: Incorporates generative AI components (e.g., LLM inference) with a focus on scalable architecture and real-world deployment best practices.
-- **Modular Tooling**: Uses Docker for containerization, FastAPI for RESTful API design, and includes educational resources for und
+- **Modular RAG Pipeline**: Implements a production-ready Retrieval-Augmented Generation (RAG) system with FastAPI, structured into modular components (retriever, generator, and API layers) for scalability and maintainability.
+
+- **Dockerized Deployment**: Provides a containerized setup using Docker for consistent environment replication, including dependencies for FastAPI, Python, and GenAI models, ensuring reproducible deployments.
+
+- **Educational Focus**: Step-by-step tutorial covering end-t
 
 ## Use Cases
 

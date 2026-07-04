@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-04T21:48:41.489979+05:30'
+collected_at: '2026-07-05T01:09:47.852739+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
 - benchmark
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-04T21:48:41.489979+05:30'
-last_seen: '2026-07-04T21:48:41.489979+05:30'
-last_checked: '2026-07-04T21:48:41.489979+05:30'
+first_seen: '2026-07-05T01:09:47.852739+05:30'
+last_seen: '2026-07-05T01:09:47.852739+05:30'
+last_checked: '2026-07-05T01:09:47.852739+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- Implements Retrieval-Augmented Generation (RAG) pipeline optimized for Vietnamese text processing using Python.
-- Integrates Vietnamese-specific embedding models (e.g., `vinai/phobert-base`) and retrieval mechanisms for contextual accuracy.
-- Includes benchmarking scripts and modular components for Vietnamese document retrieval and generation tasks.
+- Implements **Vietnamese-specific RAG pipeline** with optimized retrieval and generation for low-resource language processing.
+- Utilizes **hybrid retrieval (dense + sparse)** with Vietnamese embedding models (e.g., vietnamese-sbert) and BM25 for contextual accuracy.
+- Includes **end-to-end benchmarking scripts** for evaluating Vietnamese RAG performance across metrics like MRR, recall@k, and generation fluency.
 
 ## Why It Matters
 

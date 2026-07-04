@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jamwithai/production-agentic-rag-course
-collected_at: '2026-07-04T21:49:21.507168+05:30'
-published_at: '2026-07-04T15:57:57Z'
+collected_at: '2026-07-05T01:10:27.921210+05:30'
+published_at: '2026-07-04T19:33:43Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
-stars: 7322
+stars: 7334
 language: Python
 status: active
 license: MIT
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-08-06T19:52:50Z'
 pushed_at: '2026-06-05T07:23:49Z'
 resource_id: github:jamwithai/production-agentic-rag-course
-first_seen: '2026-07-04T21:49:21.507168+05:30'
-last_seen: '2026-07-04T21:49:21.507168+05:30'
-last_checked: '2026-07-04T21:49:21.507168+05:30'
+first_seen: '2026-07-05T01:10:27.921210+05:30'
+last_seen: '2026-07-05T01:10:27.921210+05:30'
+last_checked: '2026-07-05T01:10:27.921210+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository focused on production-level Agentic RAG (Retrieval-Augmented Generation) systems, implemented in Python.
-- **Activity Metrics**: 7,322 stars, 1,636 forks, last updated on July 4, 2026.
-- **Purpose**: No explicit description provided, but inferred to cover advanced RAG pipelines with agentic workflows for production environments.
+- **Course Focus**: A structured educational repository on building production-grade agentic RAG (Retrieval-Augmented Generation) systems in Python.
+- **Scale & Activity**: Highly active (updated July 2026) with 7,334 stars and 1,641 forks, indicating strong community engagement.
+- **Technical Scope**: Covers advanced RAG architectures integrating agentic workflows for scalable, real-world AI applications.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: jamwithai
-- Stars: 7322
-- Forks: 1636
+- Stars: 7334
+- Forks: 1641
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-04T15:57:57Z
+- Last Updated: 2026-07-04T19:33:43Z
 - License: MIT
 - Archived: No
 - Created At: 2025-08-06T19:52:50Z

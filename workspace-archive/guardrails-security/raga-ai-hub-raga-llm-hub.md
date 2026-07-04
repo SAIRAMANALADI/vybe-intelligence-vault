@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose-built framework** for evaluating LLMs, implementing guardrails, and enforcing security protocols in Python-based workflows.
-- **Supports LLMops** with structured evaluation pipelines, security checks, and runtime guardrails for production-grade deployments.
-- **Open-source repository** (114 stars, 14 forks) last updated June 2026, focusing on guardrails, LLM evaluation, and security hardening.
+- **Purpose-built framework** for evaluating LLMs, implementing guardrails, and enforcing security policies in Python-based workflows.
+- **Modular architecture** supporting LLMops integration with evaluation metrics, safety checks, and compliance monitoring.
+- **Open-source repository** (114 stars, 14 forks) with last update on 2026-06-11, focused on mitigating risks in generative AI deployments.
 
 ## Use Cases
 

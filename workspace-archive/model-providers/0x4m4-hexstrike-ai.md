@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous Pentesting Framework**: HexStrike AI MCP Agents integrates **150+ cybersecurity tools** (e.g., Kali Linux utilities, CTF tools) into an **MCP server**, enabling AI agents (Claude, GPT, Copilot) to autonomously execute offensive security operations like vulnerability discovery, bug bounty automation, and penetration testing.
+- **MCP Server for AI Agents**: HexStrike AI MCP Agents enables AI models (e.g., Claude, GPT, Copilot) to autonomously execute **150+ cybersecurity tools** for automated penetration testing, vulnerability discovery, bug bounty automation, and security research via **Model Context Protocol (MCP)** integration.
 
-- **LLM-MCP Bridge**: Implements **MCP (Model Context Protocol)** to seamlessly connect large language models (LLMs) with real-world security tools, translati
+- **Offensive Security Automation**: Bridges **LLMs with real-world offensive security** by providing a Python-based framework that standardizes tool execution, enabling AI-driven **Kali L
 
 ## Use Cases
 

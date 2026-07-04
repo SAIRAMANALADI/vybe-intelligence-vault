@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **FastAPI + LangGraph Integration**: Pre-configured FastAPI template with LangGraph for building scalable AI agent applications, supporting agentic workflows and LLM integration.
+- **FastAPI + LangGraph Integration**: Production-ready template combining FastAPI for backend services with LangGraph for building scalable AI agent workflows, including memory management and agentic AI capabilities.
 
-- **Production-Ready Features**: Includes Docker support, security best practices, and modular architecture for maintainability, with built-in memory management for agent persistence.
+- **Dockerized Deployment**: Pre-configured Docker setup for containerized deployment, ensuring consistency across environments with built-in security and maintainability features.
 
-- **Tooling & Extensibility**: Supports LangChain/LangGraph Python libraries, optimized for AI agent development with structured proj
+- **Key Dependencies**: Includes LangChain/LangGraph for LLM orchestration, FastAPI for REST endpoi
 
 ## Use Cases
 

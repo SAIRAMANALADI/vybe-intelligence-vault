@@ -8,7 +8,7 @@ local_vault_path: ai/rag/cookbook-haystack.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -23,7 +23,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # 🧑‍🍳 Cookbook | Haystack
@@ -32,16 +32,16 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Haystack Cookbook** provides 71 technical recipes demonstrating integrations with model providers, vector databases, retrieval techniques, and advanced AI workflows (e.g., RAG, agents, multimodal processing).
-- **Key focus areas** include agentic systems (e.g., itinerary planning, GitHub issue resolvers), multimodal RAG, hybrid retrieval methods (BM42, HyDE), and model serving (vLLM, NVIDIA NIMs).
-- **Experimental tools** like Mem0 memory store, DSPy prompt optimization, and DeepEval/RAGAS e
+- **Agentic RAG Integration**: Demonstrates agent-based retrieval with structured metadata enrichment, query decomposition, and hybrid search techniques (e.g., BM42, HyDE) for improved document retrieval accuracy.
+- **Multimodal & Tool Integration**: Showcases multimodal QA (e.g., Gemma 4, fastRAG) and agentic workflows with tools like MCP, OpenAPITool, and function calling for dynamic API interactions.
+- **Advanced Evaluation & Deployment**: Covers RAG evaluation frameworks (RAGAS, DeepEval, Pr
 
 ## Use Cases
 

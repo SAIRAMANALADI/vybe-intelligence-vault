@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-07-04T21:48:46.467928+05:30'
+collected_at: '2026-07-05T01:09:52.902639+05:30'
 published_at: '2026-07-02T00:47:51Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-07-04T21:48:46.467928+05:30'
-last_seen: '2026-07-04T21:48:46.467928+05:30'
-last_checked: '2026-07-04T21:48:46.467928+05:30'
+first_seen: '2026-07-05T01:09:52.902639+05:30'
+last_seen: '2026-07-05T01:09:52.902639+05:30'
+last_checked: '2026-07-05T01:09:52.902639+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **End-to-End LLM & RAG System**: Course provides hands-on guidance for building production-ready LLM and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including source code and 12 structured lessons.
+- **End-to-End LLM & RAG System Pipeline**: Course provides a production-ready implementation of a Large Language Model (LLM) and Retrieval-Augmented Generation (RAG) system, covering full lifecycle from training to deployment using LLMOps best practices.
 
-- **Technical Stack & Tools**: Implements infrastructure-as-code (Pulumi), containerization (Docker), vector databases (Qdrant), MLOps (Bytewax, Qwak), and experiment tracking (Comet-ML), with AWS integration for scalable deployment.
+- **Hands-On Technical Stack**: Includes 12 hands-on lessons with source code in Python, integrating tools like AWS, Bytewax, Comet-ML, Docker, Pulumi (IaC), Qdrant (vector DB), Qwak (MLOps platform), and Superlinked (embedding optimization).
 
-- **ML System Design Focus**: Covers ML system design principles, including infrastructure management, monitoring, and deployment strategies for generative AI applications.
+- **Infrastructure & MLOps Focus**: Demonstrates scalable infrastructure-as-code (IaC) deployment using Pulumi, containerization with Docker, and ML system design principles for robust, production-grade LLM/RAG applications.
 
 ## Why It Matters
 

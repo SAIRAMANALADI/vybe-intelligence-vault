@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://langfuse.com
-published_at: '2026-07-04T01:27:22.055928+05:30'
-collected_at: '2026-07-04T01:27:22.055944+05:30'
+published_at: '2026-07-05T01:16:06.769435+05:30'
+collected_at: '2026-07-05T01:16:06.769445+05:30'
 tags:
 - agents
 - anthropic
@@ -24,9 +24,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langfuse
-first_seen: '2026-07-04T01:27:22.055944+05:30'
-last_seen: '2026-07-04T01:27:22.055944+05:30'
-last_checked: '2026-07-04T01:27:22.055944+05:30'
+first_seen: '2026-07-05T01:16:06.769445+05:30'
+last_seen: '2026-07-05T01:16:06.769445+05:30'
+last_checked: '2026-07-05T01:16:06.769445+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Scalability & Adoption**: Supports **10+ billion observations/month**, used by **19 of the Fortune 50**, with **100,000+ engineers** building on the platform.
+- **Adoption Metrics**: Langfuse is used by **19 of the Fortune 50 companies**, processes **10+ billion observations/month**, and supports **100,000+ engineers** building AI applications.
 
-- **Core Features**: Provides **end-to-end LLM observability** (traces, metrics, cost/latency monitoring), **prompt management**, **evaluation tools** (LLM-as-a-judge, human review), and **collaborative experimentation** for AI agents/products.
+- **Core Capabilities**: Provides **end-to-end LLM observability** (traces, metrics, latency/cost monitoring), **prompt management**, **evaluation frameworks** (LLM-as-a-judge, human review), and **collaborative experimentation** with integrated workflows.
 
-- **Multi-Framework & Multi-Model Support**: Compatible with **100+ integrations** (e.g., LangChain, Vercel AI SDK, OpenAI, Anthropic) and **OTel instrumentation** across languages (Python, TypeScript, Go, Java, etc.).
+- **Multi-Stack Compatibility**: Supports **100+ integrations** (e.g., LangChain, OpenAI, Anthropic, Vercel AI SDK) and **OTel-based instrumentation** across **Python, TypeScript, Go, Java, .NET, Ruby, PHP, and Swift** with no framework lock-in.
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T01:27:22.055928+05:30
+- Published: 2026-07-05T01:16:06.769435+05:30
 
 ## Related Tags
 

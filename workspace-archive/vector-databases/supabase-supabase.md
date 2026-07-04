@@ -1,41 +1,40 @@
 ---
-title: supabase/supabase
+title: supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/supabase/supabase
+source_url: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
 resource_id: github:supabase/supabase
 local_vault_path: ai/rag/supabase-supabase.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: api
+resource_kind: prompt
 importance: medium
 tags:
 - frontend_ui
-- github-repo
+- openai
 - rag
-- typescript
+- reddit
+- web-crawled
+- youtube
 selection_reason:
 - Active open-source repository
 ---
 
-# supabase/supabase
+# supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: api
+- Resource kind: prompt
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Postgres-based Development Platform**: Supabase provides a dedicated PostgreSQL database with built-in tools (PostgREST, Realtime, Auth, Storage) for building scalable web, mobile, and AI applications.
-
-- **Key Features**: Supports PostgreSQL extensions (pgvector, PostGIS), OAuth2/OIDC auth, realtime updates via WebSockets, and vector embeddings for AI/ML workloads.
-
-- **Tech Stack**: Primarily TypeScript/Deno, with integrations for Next.js, Firebase alternatives, and example projects for ra
+- **Documentation Types**: Supabase docs include four types—Explainers (conceptual), Tutorials (goal-oriented with mixed prose/procedures), Guides (concise, step-by-step tasks), and References (factual, parameter/return-focused)—each with distinct structures and use cases.
+- **Repo & Spec Integration**: Most docs reside in `apps/docs/content`, with federated/reference docs sourced from external repos or spec files (e.g., OpenAPI/TSDoc). Reference docs are auto-generated from spec files (e.g., `s
 
 ## Use Cases
 
@@ -45,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/supabase/supabase
+Original source URL: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
 
 ## Local Vault File
 

@@ -3,20 +3,19 @@ title: The Firebase Blog
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://firebase.blog
-published_at: '2026-07-04T21:55:34.671284+05:30'
-collected_at: '2026-07-04T21:55:34.671296+05:30'
+source_url: https://firebase.blog/
+published_at: '2026-07-05T01:15:11.340849+05:30'
+collected_at: '2026-07-05T01:15:11.340858+05:30'
 tags:
 - frontend_ui
-- hackernews
 - producthunt
 - rag
 - web-crawled
 status: active
 resource_id: blog:the-firebase-blog
-first_seen: '2026-07-04T21:55:34.671296+05:30'
-last_seen: '2026-07-04T21:55:34.671296+05:30'
-last_checked: '2026-07-04T21:55:34.671296+05:30'
+first_seen: '2026-07-05T01:15:11.340858+05:30'
+last_seen: '2026-07-05T01:15:11.340858+05:30'
+last_checked: '2026-07-05T01:15:11.340858+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Firestore Pipelines GA**: Introduces full-text search and JOIN-like query capabilities in Firestore via server-side pipelines, enabling complex NoSQL operations previously unsupported.
-
-- **Zero-Flicker SSR with React**: Demonstrates Firestore serialization techniques for React Server Components (RSC) to eliminate UI flickering during data hydration by preloading server-side state.
-
-- **Dart Support in Cloud Functions**: Adds Dart as a first-class language for Firebase Cloud Functions, enabling type-safe, cross-platform backend logic execution.
+- **Zero-flicker SSR in React**: Implements Firestore serialization to eliminate UI flickering during server-side rendering by preloading data and synchronizing with client-side state.
+- **Firestore Pipelines GA**: Introduces full-text search and SQL-like JOINs in Firestore via pipelines, enhancing NoSQL query capabilities for complex data operations.
+- **Dart Support in Cloud Functions**: Expands Firebase backend flexibility with Dart runtime support in Cloud Functions, enabling type-safe, cross-platform serverless logic.
 
 ## Why It Matters
 
@@ -38,16 +35,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T21:55:34.671284+05:30
+- Published: 2026-07-05T01:15:11.340849+05:30
 
 ## Related Tags
 
 - frontend_ui
-- hackernews
 - producthunt
 - rag
 - web-crawled
 
 ## Source
 
-Original source: https://firebase.blog
+Original source: https://firebase.blog/

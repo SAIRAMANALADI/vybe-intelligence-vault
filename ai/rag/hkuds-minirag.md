@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-07-04T21:48:26.495282+05:30'
-published_at: '2026-07-04T00:34:58Z'
+collected_at: '2026-07-05T01:09:32.862869+05:30'
+published_at: '2026-07-04T19:11:43Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
-stars: 1966
+stars: 1967
 language: Python
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-07-04T21:48:26.495282+05:30'
-last_seen: '2026-07-04T21:48:26.495282+05:30'
-last_checked: '2026-07-04T21:48:26.495282+05:30'
+first_seen: '2026-07-05T01:09:32.862869+05:30'
+last_seen: '2026-07-05T01:09:32.862869+05:30'
+last_checked: '2026-07-05T01:09:32.862869+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified Retrieval-Augmented Generation (RAG) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as presented in ACL2026.
-
-- **Architectural Efficiency**: Optimizes RAG by integrating lightweight retrieval mechanisms and model distillation techniques, enabling deployment on resource-constrained hardware without sacrificing accuracy.
-
-- **Open-Source Implementation**: Provides a Python-based, modular repository (`HKUDS/MiniRAG`) with pre-trained models, retrieval tools, and benchmarking scripts for reproducibility and community-driven improvements.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining performance.
+- **Efficiency Optimizations**: Implements lightweight retrieval and generation mechanisms (e.g., distilled embeddings, pruned attention layers) to enable deployment on resource-constrained hardware.
+- **Benchmark Performance**: Achieves competitive results on standard RAG benchmarks (e.g., MMLU, TriviaQA) with models <1B parameters, outperforming larger proprietary baselines in inference speed and memory efficiency.
 
 ## Why It Matters
 
@@ -43,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 1966
+- Stars: 1967
 - Forks: 253
 - Language: Python
 - Topics: large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-07-04T00:34:58Z
+- Last Updated: 2026-07-04T19:11:43Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-11T13:24:14Z

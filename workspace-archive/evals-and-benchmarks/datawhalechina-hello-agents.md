@@ -15,6 +15,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Agent Framework Tutorial**: Provides a step-by-step guide to building intelligent agents from scratch, covering core principles, architectures, and practical implementations in Python.
+- **Comprehensive Agent Framework Tutorial**: Provides a step-by-step guide on building intelligent agents from scratch, covering core principles, architectures, and practical implementations using Python.
 
-- **Key Components Integration**: Focuses on combining large language models (LLMs), retrieval-augmented generation (RAG), and agent orchestration for real-world applications.
+- **Key Components Integration**: Focuses on integrating large language models (LLMs), retrieval-augmented generation (RAG), and agent workflows to enable autonomous decision-making and task execution.
 
-- **Open-Source Educational Resource**: Hosted on GitHub with 63.9k+ stars and 7.9k+ forks, offering a collaborative le
+- **Open-Source Educational Resource**: Hosted on GitHub with 63,926+ stars and 7,923+ for
 
 ## Use Cases
 

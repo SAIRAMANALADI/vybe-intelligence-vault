@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **New Embedding Models**: `text-embedding-3-small` and `text-embedding-3-large` offer lower costs, improved multilingual performance, and configurable embedding dimensions (default: 1536/3072) via the `dimensions` parameter, enabling trade-offs between performance and resource usage.
+- **Model Specifications**: `text-embedding-3-small` (1536D vectors, 62.5k pages/$) and `text-embedding-3-large` (3072D vectors, 9.6k pages/$) offer reduced costs, improved multilingual performance, and configurable dimensionality via the `dimensions` parameter, outperforming `text-embedding-ada-002` (61.0% vs 62.3-64.6% on MTEB benchmark).
 
-- **Embedding Mechanics**: Text embeddings are high-dimensional vectors (floating-point lists) where semantic relatedness is measured via vector distance (e.g., cosine similarity); tokens are billed per API reque
+- **Embedding Mechanics**: Text strings are converted to dense vector embeddings (floating-point lists) where cosine similarity/distance metrics quantify se
 
 ## Use Cases
 

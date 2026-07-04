@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-07-04T21:48:21.469124+05:30'
+collected_at: '2026-07-05T01:09:27.864989+05:30'
 published_at: '2026-07-04T13:30:56Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 25516
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-06-09T09:55:55Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-07-04T21:48:21.469124+05:30'
-last_seen: '2026-07-04T21:48:21.469124+05:30'
-last_checked: '2026-07-04T21:48:21.469124+05:30'
+first_seen: '2026-07-05T01:09:27.864989+05:30'
+last_seen: '2026-07-05T01:09:27.864989+05:30'
+last_checked: '2026-07-05T01:09:27.864989+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational AI, combining document retrieval with large language model (LLM) generation for contextual responses.
-
-- **Modular Python Framework**: Built in Python with extensible components for document ingestion, embedding, retrieval, and LLM interaction, supporting customization for diverse use cases.
-
-- **Open-Source & Scalable**: Licensed under an open-source model (likely MIT/Apache), optimized for local or cloud deployment with support for large-scale document processing and retrieval.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational responses by dynamically fetching and synthesizing relevant document snippets.
+- **Modular Python Framework**: Built with extensible components for document ingestion, embedding, retrieval, and LLM interaction, supporting custom pipelines and integrations.
+- **Open-Source & Production-Ready**: Released under an open-source license with active community contributions, optimized for scalability and deployment in document-heavy workflows.
 
 ## Why It Matters
 

@@ -8,7 +8,7 @@ local_vault_path: ai/agents/features-copilot.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -31,18 +31,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: mcp-server
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Multi-Agent Workflows**: GitHub Copilot CLI supports `/fleet` for parallelized subagent execution, enabling concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching and `/plan` to `/pr` automation.
+- **Multi-model & Parallel Execution**: Supports `/model` switching and `/fleet` parallelization across multiple AI models (e.g., Anthropic, Google, OpenAI) for concurrent task execution with subagents.
 
-- **Native GitHub Integration**: Built on GitHub’s `/mcp` protocol, CLI interacts directly with issues, PRs, and branches, inheriting org policies (branch protections, governance) and enabling `/remote` cross-device monitoring/steering.
+- **GitHub-Native Workflow Integration**: Operates via GitHub’s native `/mcp` (Model Context Protocol) for direct issue/PR interaction, branch management, and pull request automation with explicit user approval gates.
 
-- **Agen
+- **Cross-Platform Agentic Runtime**: Enables `/plan`-to-code workflows, sess
 
 ## Use Cases
 

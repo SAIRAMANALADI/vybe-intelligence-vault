@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.apple.com/guide/tv/adjust-video-and-audio-settings-atvba773c3c9
-published_at: '2026-07-01T15:52:12.879948+05:30'
-collected_at: '2026-07-01T15:52:12.879964+05:30'
+published_at: '2026-07-05T01:15:34.726351+05:30'
+collected_at: '2026-07-05T01:15:34.726361+05:30'
 tags:
 - frontend_ui
 - rag
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:change-audio-settings-on-apple-tv-4k-apple-support
-first_seen: '2026-07-01T15:52:12.879964+05:30'
-last_seen: '2026-07-01T15:52:12.879964+05:30'
-last_checked: '2026-07-01T15:52:12.879964+05:30'
+first_seen: '2026-07-05T01:15:34.726361+05:30'
+last_seen: '2026-07-05T01:15:34.726361+05:30'
+last_checked: '2026-07-05T01:15:34.726361+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Apple TV 4K User Guide** provides structured documentation for tvOS 26, covering setup, device interaction, and advanced features like Siri integration, Bluetooth pairing, and multi-device control (e.g., iPhone/iPad as remote or camera input).
+- **Apple TV 4K Hardware & Software Ecosystem**: Official support documentation covers the Apple TV 4K device, including setup, remote pairing, Bluetooth device connectivity, and integration with other Apple devices (iPhone, iPad, Apple Watch, HomePod, AirPods) via AirPlay, Family Sharing, and cross-device Siri control.
 
-- **App-Specific Workflows**: Detailed guides for core apps (TV, Music, Fitness+, Photos, Arcade) include subscription management, playback control, SharePlay functionality, and hardware-specific optimizations (e.g., Apple Watch sync for Fitness+).
+- **tvOS 26 Feature Set**: The latest tvOS 26 update introduces new functionalities such as enhanced screen saver customization, advanced parental controls, voice recognition setup, and expanded SharePlay integration for collaborative experiences in FaceTime, Music, and Fitness apps.
 
-- **System-Level Management**: Includes profiles (parental controls, voice recognition), screen saver customization, app lifecycle operations (force quit, rearrangement), and cross-device ecosystem features (Family Sharing, HomePod/AirPlay audio routing).
+- **App-Specific Workflows**: Support guides detail deep integration with Apple’s native apps (TV, Music, Fitness+, Photos, Arcade, Podcasts) including subscription management (Apple TV+, Apple Music, Apple Fitness+), cross-device media streaming, and multi-user profile management with parental controls.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T15:52:12.879948+05:30
+- Published: 2026-07-05T01:15:34.726351+05:30
 
 ## Related Tags
 

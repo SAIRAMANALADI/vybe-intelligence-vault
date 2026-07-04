@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular RAG Framework**: LlamaHub provides a repository of modular components including Data Loaders, Agent Tools, and Llama Packs to facilitate rapid development of Retrieval-Augmented Generation (RAG) applications.
+- **Modular RAG Framework**: LlamaHub provides a repository of plug-and-play **Data Loaders**, **Agent Tools**, and **LlamaPacks** to accelerate custom RAG application development, compatible with frameworks like LlamaIndex and LangChain.
 
-- **Cross-Framework Compatibility**: Integrations support multiple frameworks (e.g., LlamaIndex, LangChain) and enable seamless connection between large language models (LLMs) and diverse data sources.
+- **Extensible Integrations**: Supports **600+ integrations** (loaders, tools, datasets) for seamless LLM connectivity to diverse knowledge sources, enabling rapid prototyping and deployment of retrieval-based systems.
 
-- **Open-Source Contributions**: Actively maintained via GitHub with pathwa
+- **Open-Source Contribution**: Actively
 
 ## Use Cases
 

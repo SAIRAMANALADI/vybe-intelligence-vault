@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates a RAG pipeline leveraging local language models (e.g., Llama, Mistral) via Ollama or LM Studio for offline inference, reducing dependency on cloud APIs.
+- **Enhanced RAG Pipeline**: Implements a LangChain-based Retrieval-Augmented Generation (RAG) system leveraging local LLMs (e.g., Llama, Mistral) for offline inference, with modular components for document ingestion, vector storage (e.g., FAISS/Chroma), and retrieval-augmented generation.
 
-- **Dynamic Database Updates**: Implements a retriever system with ChromaDB or FAISS for vector storage, enabling real-time document ingestion and embedding updates without full re-indexing.
-
-- **Testing & Evaluation Framework**: Includes unit tests (e.g., `pytest`) and RAGAS metrics for assessing retri
+- **Dynamic Database Updates**: Integrates automated document ingestion pipelines (e.g., via `LangChain`'s `DocumentLoaders`) with vector database synchronization (e.g., incremental updates to Chroma/FAISS),
 
 ## Use Cases
 

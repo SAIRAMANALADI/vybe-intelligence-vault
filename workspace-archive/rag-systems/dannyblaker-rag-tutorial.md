@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6-step guide covering end-to-end RAG development, from fundamentals to production deployment, with reusable Python utilities and hands-on demos.
-- **Technical Scope**: Covers embeddings, vector databases (e.g., FAISS, Chroma), LLMs (e.g., Hugging Face transformers), and advanced RAG techniques like query rewriting and retrieval optimization.
-- **Resources**: Includes working code examples, modular utilities, and updated as of 2026-06-29 with no prior forks/stars.
+- **Progressive RAG Tutorial**: 6-step guide covering Retrieval-Augmented Generation (RAG) from fundamentals to production, including embeddings, vector databases, and LLM integration.
+- **Code & Utilities**: Provides reusable Python utilities, working code examples, and hands-on demos for practical implementation.
+- **Advanced Techniques**: Focuses on advanced RAG methods and system optimization, last updated June 2026.
 
 ## Use Cases
 

@@ -1,40 +1,40 @@
 ---
-title: Privacy policy
+title: Privacy Policy
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://www.langchain.com/privacy-policy
+source_url: https://scite.ai/policy
 resource_id: blog:privacy-policy
 local_vault_path: ai/rag/privacy-policy.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: dataset
 importance: medium
 tags:
 - agents
 - hackernews
 - rag
-- reddit
 - web-crawled
+- youtube
 selection_reason:
 - Valuable developer reference
 ---
 
-# Privacy policy
+# Privacy Policy
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: dataset
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Data Collection Scope**: Collects personal and business contact information (e.g., email, payment details, role-based data) via account creation, third-party integrations, and automated tracking (device data, IP addresses, cookies, web beacons) for service operation, marketing, and compliance.
+- **Data Collection Scope**: Scite collects diverse personal data categories (identifiers, financial/commercial info, professional background, user-generated content, authorship metadata, device/IP/geolocation data, and behavioral inferences) via direct input, third-party authentication (e.g., ORCiD, Google), cookies, and public sources to enable service functionality, analytics, and marketing.
 
-- **Processing & Legal Bases**: Uses personal data for service provision, marketing (with opt-out), R&D (via anonymized data), and legal compliance (e.g., subpoenas). Processing in the UK/EEA relies o
+- **Cookie & Tracking Mechanisms**: Uses strict-necessary, analytics (Google Analytics), functional,
 
 ## Use Cases
 
@@ -44,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.langchain.com/privacy-policy
+Original source URL: https://scite.ai/policy
 
 ## Local Vault File
 

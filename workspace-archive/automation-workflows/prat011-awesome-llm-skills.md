@@ -19,6 +19,7 @@ tags:
 - models
 - openai
 - python
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -38,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource**: Aggregates tools, libraries, and frameworks for customizing AI agent workflows, compatible with Claude Code, Codex, Gemini CLI, and custom agents.
-- **Multi-Model Support**: Includes resources for Anthropic, OpenAI, Google (Gemini), Meta (Llama), Qwen, and other LLM ecosystems.
-- **Technical Stack**: Primarily Python-based, with CLI tools (e.g., Codex CLI, Gemini CLI) and SDKs for agent skill development and integration.
+- **Curated Resource**: A GitHub repository (`Prat011/awesome-llm-skills`) aggregating tools, libraries, and frameworks for customizing LLM and AI Agent workflows, compatible with **Claude Code, Codex, Gemini CLI**, and custom agents.
+- **Multi-Platform Support**: Includes integrations for **Anthropic, OpenAI, Google (Gemini), Meta (Llama), Qwen**, and others, with CLI tools like **Codex CLI** and **Gemini CLI**.
+- **Technical Stack**: Primarily Python-based, with focus on **LLM skills, agent cu
 
 ## Use Cases
 

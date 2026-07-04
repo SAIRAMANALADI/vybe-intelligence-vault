@@ -6,19 +6,21 @@ source_url: https://docs.cloud.deepset.ai/docs/getting-started?__hstc=17958374.3
 resource_id: blog:what-s-haystack-enterprise-platform-haystack-enter
 local_vault_path: ai/rag/what-s-haystack-enterprise-platform-haystack-enter.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
+- benchmark
 - models
 - rag
+- scripts
 - web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation
@@ -26,19 +28,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Data Processing Pipeline**: Supports automated ingestion, OCR, and preprocessing of multi-format documents (PDFs, Office, images) via built-in converters and document stores for vectorized retrieval.
+- **Unified AI Application Lifecycle Management**: Haystack Enterprise Platform supports end-to-end development, from prototyping to production deployment, with built-in tools for data ingestion, model integration, evaluation, and monitoring.
 
-- **Modular AI Agent Framework**: Enables construction of reasoning-capable agents and RAG pipelines using interchangeable components (retrievers, rankers, generators) with visual Pipeline Builder and model-agnostic integrations.
-
-- **Observability & Deployment**: Provides REST API for lifecycl
+- **Modular RAG & Agent Pipelines**: Enables construction of advanced retrieval-augmented generation (RAG) systems and multi-step AI agents via configurable pipelines (retrievers, rankers, generators) with support for OCR, document parsing, and dynamic mod
 
 ## Use Cases
 

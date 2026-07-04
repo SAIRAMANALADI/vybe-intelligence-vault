@@ -4,22 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-07-04T21:49:31.523821+05:30'
-published_at: '2026-07-04T13:41:47Z'
+collected_at: '2026-07-05T01:10:37.956618+05:30'
+published_at: '2026-07-04T18:52:10Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
-stars: 245
+stars: 246
 language: Python
 status: active
 archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-03-23T06:52:23Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-07-04T21:49:31.523821+05:30'
-last_seen: '2026-07-04T21:49:31.523821+05:30'
-last_checked: '2026-07-04T21:49:31.523821+05:30'
+first_seen: '2026-07-05T01:10:37.956618+05:30'
+last_seen: '2026-07-05T01:10:37.956618+05:30'
+last_checked: '2026-07-05T01:10:37.956618+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation Mechanism**: Implements a knowledge-graph-based retrieval pipeline with semantic aggregation to enhance contextual relevance in RAG systems, optimizing node-level and edge-level fusion for improved generation quality.
-
-- **Hierarchical Retrieval Strategy**: Utilizes a multi-tiered retrieval approach (e.g., coarse-to-fine or graph traversal) to dynamically select and prioritize subgraphs or entities, reducing noise and improving retrieval efficiency.
-
-- **AAAI 2026 Framework**: Designed for low-latency, high-precision knowledge-grounded generation, leveraging Python-based optimizations (e.g., sparse attention, graph pruning) to balance performance and scalability.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework (LeanRAG) with two-stage retrieval: coarse-grained (entity-level) and fine-grained (relation-level), optimizing context relevance via semantic aggregation.
+- **Efficiency Optimizations**: Reduces computational overhead by pruning irrelevant subgraphs and leveraging hierarchical indexing, achieving faster inference while maintaining accuracy in AAAI 2026 benchmarks.
+- **Python Implementation**: Open-source library with modular components for KG construction, retrieval, and generation, supporting extensibility for custom knowledge graphs and downstream tasks.
 
 ## Why It Matters
 
@@ -40,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: KnowledgeXLab
-- Stars: 245
+- Stars: 246
 - Forks: 29
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-04T13:41:47Z
+- Last Updated: 2026-07-04T18:52:10Z
 - Archived: No
 - Created At: 2025-05-19T09:31:30Z
 - Pushed At: 2026-03-23T06:52:23Z

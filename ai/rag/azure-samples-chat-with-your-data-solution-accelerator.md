@@ -4,24 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-07-04T21:48:51.540364+05:30'
+collected_at: '2026-07-05T01:09:57.900340+05:30'
 published_at: '2026-06-30T16:43:51Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
+- reddit
+- workflows
 stars: 1172
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-07-04T15:53:25Z'
+pushed_at: '2026-07-04T19:30:15Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-07-04T21:48:51.540364+05:30'
-last_seen: '2026-07-04T21:48:51.540364+05:30'
-last_checked: '2026-07-04T21:48:51.540364+05:30'
+first_seen: '2026-07-05T01:09:57.900340+05:30'
+last_seen: '2026-07-05T01:09:57.900340+05:30'
+last_checked: '2026-07-05T01:09:57.900340+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for generative responses, enabling ChatGPT-style and Q&A interactions.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A experiences, following Azure best practices.
 
-- **Azure Deployment**: Utilizes **Azure Developer CLI (azd) templates** for infrastructure-as-code deployment, incorporating best practices for scalability, security, and cost optimization in Azure.
+- **Key Components**: Includes **Python-based** solution with **AZD templates**, integrating Azure AI Search for vector/keyword retrieval and Azure OpenAI for LLM-powered responses.
 
-- **Python-Based Solution**: Provides a **Python-based accelerator** with preconfigured components for vector search, document ingestion, and LLM orchestration, optimized for enterprise-grade AI workloads.
+- **Features**: Provides a production-ready accelerator with common RAG requirements (e.g., indexing, retrieval, prompt engineering) and supports **ChatGPT-style** and Q&A workflows in Azure.
 
 ## Why It Matters
 
@@ -50,7 +52,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-07-04T15:53:25Z
+- Pushed At: 2026-07-04T19:30:15Z
 
 ## Possible Use Cases
 

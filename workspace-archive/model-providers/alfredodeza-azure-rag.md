@@ -8,7 +8,7 @@ local_vault_path: ai/rag/alfredodeza-azure-rag.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: prompt
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: prompt
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) implementation using Azure services, integrating document retrieval with generative AI models.
-- **Tech Stack**: Python-based repository leveraging Azure's AI/ML and storage services (e.g., Azure Cognitive Search, Azure OpenAI).
-- **Key Features**: Example includes vector search, document indexing, and LLM prompt augmentation for enhanced AI responses.
+- **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) implementation using Azure services (e.g., Azure Cognitive Search, OpenAI) in Python.
+- **Key Components**: Likely integrates Azure's vector search capabilities with a generative model to enhance response generation with retrieved context.
+- **Repository Structure**: Contains example code for indexing documents, querying embeddings, and generating augmented responses via Azure services.
 
 ## Use Cases
 

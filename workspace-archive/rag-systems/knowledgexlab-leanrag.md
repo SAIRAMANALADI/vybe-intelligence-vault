@@ -6,11 +6,12 @@ source_url: https://github.com/KnowledgeXLab/LeanRAG
 resource_id: github:knowledgexlab/leanrag
 local_vault_path: ai/rag/knowledgexlab-leanrag.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -24,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -32,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Semantic Aggregation Mechanism**: Implements a knowledge-graph-based retrieval pipeline with semantic aggregation to enhance contextual relevance in RAG systems, optimizing node-level and edge-level fusion for improved generation quality.
-
-- **Hierarchical Retrieval Strategy**: Utilizes a multi-tiered retrieval approach (e.g., coarse-to-fine or graph traversal) to dynamically select and prioritize subgraphs or entities, reducing noise and improving retrieval efficiency.
-
-- **AAAI 2026 Framew
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework (LeanRAG) with two-stage retrieval: coarse-grained (entity-level) and fine-grained (relation-level), optimizing context relevance via semantic aggregation.
+- **Efficiency Optimizations**: Reduces computational overhead by pruning irrelevant subgraphs and leveraging hierarchical indexing, achieving faster inference while maintaining accuracy in AAAI 2026 benchmarks.
+- **Python Implementation**: O
 
 ## Use Cases
 

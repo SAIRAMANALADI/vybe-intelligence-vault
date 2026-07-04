@@ -1,45 +1,42 @@
 ---
-title: neuml/txtai
+title: txtai/examples/52_Build_RAG_pipelines_with_txtai.ipynb at master · neuml/txtai
+  · GitHub
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/neuml/txtai
+source_url: https://github.com/neuml/txtai/blob/master/examples/52_Build_RAG_pipelines_with_txtai.ipynb
 resource_id: github:neuml/txtai
 local_vault_path: ai/rag/neuml-txtai.md
 quality_score: 70
-archive_score: 81
+archive_score: 75
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- agents
-- github-repo
-- python
 - rag
+- reddit
 - scripts
-- workflows
+- web-crawled
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
-# neuml/txtai
+# txtai/examples/52_Build_RAG_pipelines_with_txtai.ipynb at master · neuml/txtai · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, supporting agents, RAG, and vector search.
+- **txtai** is an open-source Python library by [neuml](https://github.com/neuml) for building semantic search and natural language processing pipelines, with 12.7k GitHub stars and 840 forks.
 
-- **Modular Architecture**: Leverages embeddings, transformers, and vector databases (e.g., FAISS, Annoy) for efficient retrieval-augmented generation (RAG) and information retrieval.
+- The repository includes a Jupyter notebook (`52_Build_RAG_pipelines_with_txtai.ipynb`) demonstrating how to construct Retrieval-Augmented Generation (RAG) pipelines using txtai, spanning 592 lines and 21.8 KB.
 
-- **Extensible Toolkit**: Provides APIs for sentence embeddings, hybrid search, and LLM task automation, optimized for NLP pipelines
+- The project provides GitHub Actions for CI/CD, issue tracking (8 open issues), and security
 
 ## Use Cases
 
@@ -49,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/neuml/txtai
+Original source URL: https://github.com/neuml/txtai/blob/master/examples/52_Build_RAG_pipelines_with_txtai.ipynb
 
 ## Local Vault File
 

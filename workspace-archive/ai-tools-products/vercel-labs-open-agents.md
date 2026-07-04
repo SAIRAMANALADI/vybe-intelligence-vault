@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Cloud Agent Template**: Open-source TypeScript framework for building scalable, cloud-native AI agents with Vercel integration.
-- **Modular Architecture**: Supports background agents, state management, and tool orchestration via Vercel’s serverless functions.
-- **Extensible Components**: Pre-configured for AI workflows, with hooks for custom logic, LLM APIs, and persistent storage.
+- **Purpose**: Open-source template for constructing cloud-based AI agents with TypeScript, enabling scalable background agent development.
+- **Key Features**: Supports modular agent architectures, integrates with Vercel’s serverless infrastructure, and includes pre-configured tooling for AI workflows.
+- **Ecosystem**: Part of Vercel Labs, leveraging modern AI/agent frameworks while maintaining compatibility with cloud-native deployment patterns.
 
 ## Use Cases
 

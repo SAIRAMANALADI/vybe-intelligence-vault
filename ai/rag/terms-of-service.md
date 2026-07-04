@@ -3,22 +3,21 @@ title: Terms of Service
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: http://youtube.com/t/terms
-published_at: '2026-07-03T15:15:21.014143+05:30'
-collected_at: '2026-07-03T15:15:21.014157+05:30'
+source_url: https://scite.ai/terms
+published_at: '2026-07-05T01:16:14.803429+05:30'
+collected_at: '2026-07-05T01:16:14.803441+05:30'
 tags:
 - agents
-- producthunt
+- hackernews
+- models
 - rag
-- reddit
-- scripts
 - web-crawled
 - youtube
 status: active
 resource_id: blog:terms-of-service
-first_seen: '2026-07-03T15:15:21.014157+05:30'
-last_seen: '2026-07-03T15:15:21.014157+05:30'
-last_checked: '2026-07-03T15:15:21.014157+05:30'
+first_seen: '2026-07-05T01:16:14.803441+05:30'
+last_seen: '2026-07-05T01:16:14.803441+05:30'
+last_checked: '2026-07-05T01:16:14.803441+05:30'
 health_score: 100
 ---
 
@@ -26,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Service Definition & Provider**: YouTube (Google LLC) provides a global platform for video sharing, discovery, and monetization under Delaware jurisdiction, governed by the Alphabet Inc. corporate group, with updates subject to the [Terms of Service](https://www.youtube.com/t/terms), [Community Guidelines](https://www.youtube.com/t/community_guidelines), and [Policy, Safety and Copyright Policies](https://www.youtube.com/t/policies).
+- **Classifier Technology**: Scite’s proprietary classifier analyzes scientific articles to determine if claims are supported or contradicted by subsequent research, providing aggregated results ("Classifier Results") without using user data to train AI models.
 
-- **User Eligibility & Restrictions**: Users must be ≥13 years old (or ≥18 with parental consent); businesses require authorized representation. Prohibited actions include automated scraping (per `robots.txt`), unauthorized content redistribution, metric manipulation (e.g., fake views/likes), and commercial use without compliance with [Advertising Policies](https://support.google.com/youtube/topic/9257894).
+- **Content Ownership & Restrictions**: All proprietary components (e.g., classifier, usage data) are owned by Scite; users retain rights to their uploaded content but grant Scite a perpetual, irrevocable license to reproduce, modify, and distribute it under strict terms (e.g., no derivative works, no removal of attribution).
 
-- **Content Ownership & Liability**: Users retain rights to uploaded content but grant YouTube a worldwide, royalty-free, sublicensable license for distribution. YouTube reserves the right to terminate accounts for violations, modify/terminate services, and enforce security updates without prior notice in urgent cases (e.g., legal compliance, abuse prevention).
+- **Billing & Termination**: Subscription fees are auto-charged monthly unless canceled ≥30 days prior to renewal; users must resolve payment failures to avoid account suspension, and termination is permitted at any time via the platform.
 
 ## Why It Matters
 
@@ -40,18 +39,17 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T15:15:21.014143+05:30
+- Published: 2026-07-05T01:16:14.803429+05:30
 
 ## Related Tags
 
 - agents
-- producthunt
+- hackernews
+- models
 - rag
-- reddit
-- scripts
 - web-crawled
 - youtube
 
 ## Source
 
-Original source: http://youtube.com/t/terms
+Original source: https://scite.ai/terms

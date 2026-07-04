@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 12,687</p>
-        <p><b>Active:</b> 12,331 | <b>Inactive:</b> 356</p>
+        <p><b>Resources tracked:</b> 12,698</p>
+        <p><b>Active:</b> 12,336 | <b>Inactive:</b> 362</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 48,286</p>
+        <p><b>Archive Files:</b> 48,311</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-04 23:39 IST</p>
+        <p><b>Last Update:</b> 2026-07-05 01:26 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,17 +55,29 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- No trending items found.
+- 🔼 **[The bottleneck might be the air in the room](ai/community/the-bottleneck-might-be-the-air-in-the-room.md)** • <kbd>+84 pts</kbd>
+- 🔼 **[Postgres data stored in Parquet on S3: LTAP architecture explained](ai/community/postgres-data-stored-in-parquet-on-s3-ltap-archite.md)** • <kbd>+26 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[cpython/Lib/sysconfig at 3.14 · python/cpython · GitHub](ai/resources/python-cpython.md)** • Rank: <kbd>+4143</kbd>
+- 🔼 **[Binary distribution format - Python Packaging User Guide](ai/rag/binary-distribution-format-python-packaging-user-g.md)** • Rank: <kbd>+4122</kbd>
+- 🔼 **[Story’s detailed stats page – Medium Help Center](ai/rag/storys-detailed-stats-page-medium-help-center.md)** • Rank: <kbd>+361</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[No more than 100 000 faint satellites should orbit Earth](ai/community/no-more-than-100-000-faint-satellites-should-orbit.md)** • Score: `81`
+- 🆕 **[Plein Air](ai/community/plein-air.md)** • Score: `31`
+- 🆕 **[sysconfig â Provide access to Pythonâs configuration information — Python 3.14.6 documentation](ai/resources/sysconfig-a-provide-access-to-pythonas-configurati.md)** • Score: `0`
+- 🆕 **[vercel/nextjs-subscription-payments](ai/rag/vercel-nextjs-subscription-payments.md)** • Score: `0`
+- 🆕 **[Build a Twitter Clone with the Next.js App Router and Supabase | egghead.io](ai/resources/build-a-twitter-clone-with-the-next-js-app-router.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Jamesob's guide to running SOTA LLMs locally](ai/community/jamesob-local-llm.md)**
+- 💤 **[MSI Center – How to gain SYSTEM privileges in seconds](ai/community/msi-center-how-to-gain-system-privileges-in-second.md)**
+- 💤 **[The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels](ai/community/the-vespa-at-80-why-the-italian-scooter-remains-th.md)**
+- 💤 **[2026 Unslop AI-Written Fiction Contest Results](ai/community/2026-unslop-ai-written-fiction-contest-results.md)**
+- 💤 **[Ship traces journey Spanish Armada sailors made in 1588](ai/community/ship-traces-journey-spanish-armada-sailors-made-in.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

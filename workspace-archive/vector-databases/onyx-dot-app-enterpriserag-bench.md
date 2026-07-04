@@ -14,7 +14,8 @@ tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
+- meta-ai
+- models
 - rag
 - unknown
 - workflows
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Dataset & Benchmark**: Provides a structured dataset and evaluation framework for Retrieval-Augmented Generation (RAG) systems tailored to company internal documents, enabling standardized assessment of performance across key metrics.
-- **Synthetic Data Generation**: Implements synthetic data generation techniques to simulate enterprise-specific queries and document structures, facilitating scalable and reproducible RAG evaluations.
-- **Multi-Topic Evaluation Suite**: Covers a broad range of
+- **Benchmark & Dataset**: EnterpriseRAG-Bench provides a synthetic dataset and benchmark for evaluating Retrieval-Augmented Generation (RAG) systems on company internal documents, enabling standardized testing of retrieval and generation performance in enterprise contexts.
+
+- **Evaluation Focus**: Supports evaluation of key RAG components including semantic search, information retrieval, and LLM-based question answering, with metrics for assessing accuracy, relevance, and hallucination rates in
 
 ## Use Cases
 

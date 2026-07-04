@@ -4,15 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-07-04T21:50:26.585142+05:30'
+collected_at: '2026-07-05T01:11:32.963085+05:30'
 published_at: '2026-07-04T01:05:45Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - openai
 - python
-- scripts
 - workflows
 stars: 913
 language: Python
@@ -22,9 +20,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-07-04T21:50:26.585142+05:30'
-last_seen: '2026-07-04T21:50:26.585142+05:30'
-last_checked: '2026-07-04T21:50:26.585142+05:30'
+first_seen: '2026-07-05T01:11:32.963085+05:30'
+last_seen: '2026-07-05T01:11:32.963085+05:30'
+last_checked: '2026-07-05T01:11:32.963085+05:30'
 health_score: 100
 ---
 
@@ -32,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and CLI-driven automation for AI agents.
-- **CLI-Centric Best Practices**: Provides a curated set of `codex-cli` commands, skills, and hooks for OpenAI Codex, optimizing agentic workflows with reusable patterns for Pakistani developers and global AI practitioners.
-- **Technical Tooling & Extensibility**: Focuses on Python-based tooling for agentic AI development, including CLI commands, hooks, and skills to streamline AI agent orchestration, context management, and skill chaining.
+- **Agentic Workflow Integration**: Repository demonstrates transition from "vibe coding" to structured agentic engineering using Codex CLI, emphasizing modular hooks, context engineering, and skill-based command execution for AI-driven development workflows.
+
+- **CLI-Centric Best Practices**: Provides a Python-based framework for Codex CLI optimization, including standardized command structures, agentic workflow templates, and reusable hooks for OpenAI Codex integration.
+
+- **Context & Skill Management**: Implements dynamic context handling and skill-based command execution, enabling adaptive AI agent behavior with version-controlled best practices for scalable AI-driven development.
 
 ## Why It Matters
 

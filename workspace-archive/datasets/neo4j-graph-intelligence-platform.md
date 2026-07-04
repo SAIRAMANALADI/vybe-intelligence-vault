@@ -8,15 +8,18 @@ local_vault_path: ai/rag/neo4j-graph-intelligence-platform.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - dataset
+- mistral
+- models
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Neo4j Graph Intelligence Platform
@@ -25,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Explainable AI (XAI) Integration**: Leveraging knowledge graphs (e.g., Neo4j) to embed causal reasoning and traceability into AI decision-making, enabling transparent "why" explanations for high-stakes applications.
+- **Integration of Neo4j and Mistral AI**: Leverages graph-based knowledge representation in Neo4j with Mistral AI's language models to enhance explainability in enterprise AI systems via structured, queryable relationships.
 
-- **Enterprise Value Proposition**: Addressing regulatory compliance (e.g., EU AI Act) and operational trust by converting opaque AI models into auditable, interpretable systems with measurable ROI in sectors like healthcare and finance.
+- **Explainable AI (XAI) Framework**: Utilizes graph traversals and natural language generation to provide transparent, interpretable AI decisions by mapping model reasoning paths and dependencies in enterprise datasets.
 
-- **Scalable Knowledge Graphs**: Utilizi
+- **Enterprise Deployment Focus**: Designed for scal
 
 ## Use Cases
 

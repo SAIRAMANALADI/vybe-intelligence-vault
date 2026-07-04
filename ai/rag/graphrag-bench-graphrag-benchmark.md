@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-07-04T21:49:01.476770+05:30'
+collected_at: '2026-07-05T01:10:07.906397+05:30'
 published_at: '2026-07-04T05:16:35Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
 stars: 456
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-07-04T21:49:01.476770+05:30'
-last_seen: '2026-07-04T21:49:01.476770+05:30'
-last_checked: '2026-07-04T21:49:01.476770+05:30'
+first_seen: '2026-07-05T01:10:07.906397+05:30'
+last_seen: '2026-07-05T01:10:07.906397+05:30'
+last_checked: '2026-07-05T01:10:07.906397+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: Provides a standardized evaluation framework for GraphRAG (Graph Retrieval-Augmented Generation) models, including datasets and metrics for assessing performance across tasks.
-- **Technical Scope**: Focuses on analyzing when graph structures enhance RAG performance, with implementations in Python for reproducibility and extensibility.
-- **ICLR'26 Contribution**: Represents a peer-reviewed analysis of GraphRAG methodologies, offering insights into optimal use cases for graph-based retrieval in generative AI.
+- **Benchmark Framework**: Provides a standardized evaluation suite (`GraphRAG-Bench`) for GraphRAG models, focusing on graph-based retrieval-augmented generation (RAG) systems, with ICLR'26 integration.
+- **Dataset & Analysis**: Includes curated datasets and comprehensive analysis tools to assess when graph structures enhance RAG performance, covering retrieval, generation, and reasoning tasks.
+- **Python Implementation**: Implements modular Python codebase for benchmarking, supporting custom graph integrations, metrics, and comparative evaluations against baseline RAG models.
 
 ## Why It Matters
 

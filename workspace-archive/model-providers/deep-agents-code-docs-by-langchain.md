@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports dynamic switching between any tool-calling LLM (e.g., OpenAI, Anthropic, Google) mid-session via `/auth` and `/model` commands, with persistent memory and customizable skills for context retention and behavior shaping.
+- **Multi-Provider LLM Integration**: Supports dynamic switching between LLM providers (OpenAI, Anthropic, Google, etc.) mid-session via `/model` command or CLI flags (`--model`), with persistent memory and customizable skills for contextual continuity.
 
-- **Built-in Toolset & Sandboxing**: Equipped with 15+ native tools (file ops, shell execution, web search, subagents) and optional remote sandboxes (LangSmith, E2B, Daytona) for secure code execution, with human-in-the-loop approval
+- **Human-in-the-Loop & Sandboxing**: Enforces approval gates for destructive operations (file edits, shell execution) and supports remote sandboxes (LangSmith, Daytona, Modal) for secure code execution with configurable allowlists (`--shell-all
 
 ## Use Cases
 

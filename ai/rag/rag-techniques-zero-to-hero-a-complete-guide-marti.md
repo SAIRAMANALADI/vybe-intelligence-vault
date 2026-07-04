@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-07-04T21:47:57.380586+05:30'
-collected_at: '2026-07-04T21:47:57.380599+05:30'
+published_at: '2026-07-05T01:09:03.499162+05:30'
+collected_at: '2026-07-05T01:09:03.499170+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-07-04T21:47:57.380599+05:30'
-last_seen: '2026-07-04T21:47:57.380599+05:30'
-last_checked: '2026-07-04T21:47:57.380599+05:30'
+first_seen: '2026-07-05T01:09:03.499170+05:30'
+last_seen: '2026-07-05T01:09:03.499170+05:30'
+last_checked: '2026-07-05T01:09:03.499170+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriter; orchestration layers manage caching and latency optimization.
+- **RAG Architecture**: Combines a retriever (vector/lexical search) and a generator (LLM) to fetch and condition responses on external knowledge, improving factuality and reducing hallucinations compared to parametric-only models.
 
-- **Chunking & Embeddings**: Chunking strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; embeddings require domain-specific fine-tuning, dimensionality normalization, and modality-aware training for multilingual/multimodal data.
+- **Key Components**: Includes chunking strategies (fixed, semantic, structure-aware), embeddings (domain-tuned, normalized), hybrid retrieval (BM25 + vector fusion), and reranking (cross-encoders for precision) to optimize retrieval quality and efficiency.
 
-- **Multi-Stage Retrieval & Context Management**: Hybrid search (BM25 + vector) improves recall; two-stage retrieval uses lightweight first-stage retrievers followed by cross-encoder rerankers; context distillation and iterative multi-hop retrieval enhance reasoning while reducing hallucinations.
+- **Advanced Techniques**: Multi-hop retrieval, iterative reasoning, context distillation (LLM-based summarization), and retrieval-aware fine-tuning enhance complex query handling and reduce noise in generated outputs.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T21:47:57.380586+05:30
+- Published: 2026-07-05T01:09:03.499162+05:30
 
 ## Related Tags
 

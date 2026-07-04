@@ -2,7 +2,7 @@
 title: Google Colab
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
+source_url: https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb
 resource_id: blog:google-colab
 local_vault_path: ai/rag/google-colab.md
 quality_score: 70
@@ -11,9 +11,7 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
-- dataset
-- models
+- hackernews
 - rag
 - web-crawled
 selection_reason:
@@ -34,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **LoRA (Low-Rank Adaptation)**: Introduces trainable rank decomposition matrices into transformer layers, reducing trainable parameters by freezing pre-trained weights while enabling efficient fine-tuning for downstream tasks.
-
-- **Implementation in Gemma**: Demonstrates LoRA integration with Google’s Gemma models via Hugging Face Transformers, leveraging `peft` library for parameter-efficient fine-tuning with minimal compute overhead.
-
-- **Performance Metrics**: Achieves competitive results w
+- **Resource**: Google Colab notebook from Milvus Bootcamp tutorial on building RAG (Retrieval-Augmented Generation) systems with Milvus.
+- **Key Focus**: Demonstrates integration of Milvus vector database for efficient similarity search in RAG pipelines.
+- **Technical Stack**: Utilizes Python, Milvus (vector DB), and likely LLM frameworks (e.g., LangChain) for end-to-end RAG implementation.
 
 ## Use Cases
 
@@ -48,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
+Original source URL: https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb
 
 ## Local Vault File
 

@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- Electron is a cross-platform desktop application framework that embeds Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based apps to run natively on Windows, macOS, and Linux without requiring native development expertise.
+- **Electron** is a cross-platform desktop application framework that combines **Chromium** for rendering and **Node.js** for backend operations into a single binary, enabling JavaScript/HTML/CSS-based app development without native code requirements.
 
-- Electron Fiddle is an official sandbox tool for prototyping and testing Electron APIs, integrating directly with documentation via "Open in Fiddle" buttons to streamline development workflows.
+- **Electron Fiddle** is an official sandbox tool for prototyping and testing Electron APIs, integrating directly with documentation via "Open in Fiddle" buttons to streamline development workflows.
 
-- Electron’s documentation is structured into categori
+- **Official Electron docs** are structured int
 
 ## Use Cases
 

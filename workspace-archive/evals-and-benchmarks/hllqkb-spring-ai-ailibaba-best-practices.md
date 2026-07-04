@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - java
 - rag
 - workflows
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **AI Q&A System**: Implements **Server-Sent Events (SSE)** for real-time streaming responses, **Agent-based workflows** for dynamic task handling, and **RAG (Retrieval-Augmented Generation)** with **knowledge graphs** for enhanced contextual retrieval.
+- **Implementation**: Demonstrates a Java-based AI Q&A system leveraging Spring AI with Alibaba Cloud integrations, covering SSE streaming, agent-based workflows, knowledge graph RAG, function calling, and historical message handling.
 
-- **Multimodal & Functionality**: Supports **image generation/understanding**, **embedding/vector database** integration (e.g., Milvus/Weaviate), **FunctionCall** for tool execution, and **historical message management** for conversational cont
+- **Capabilities**: Supports multimodal processing with image generation/understanding, embedding extraction, vector database operations, and RAG pipelines for enhanced contextual retrieval.
+
+- **Technical Stack**: Utilizes Java with Spring AI, embedding models, v
 
 ## Use Cases
 

@@ -15,8 +15,8 @@ tags:
 - anthropic
 - css
 - github-repo
-- hackernews
 - rag
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Open-source collection curated by ConardLi, covering web design, knowledge retrieval, image generation, and other technical skills, with 9,128 stars and 1,227 forks.
-- **Technical Stack**: Primarily implemented in CSS, with integrations for AI agents, RAG (Retrieval-Augmented Generation), and tools like GPT-Image-2 for image generation.
-- **Last Updated**: Repository last synchronized on **2026-07-04T16:13:50Z**, indicating active maintenance.
+- **Multi-domain Skills Repository**: Open-source collection covering web design, knowledge retrieval (RAG), and image generation (GPT-Image-2), with modular implementations for extensibility.
+- **AI-Agent Integration**: Designed for AI agents (e.g., Claude) with structured workflows for automated skill execution and retrieval-augmented generation (RAG) pipelines.
+- **Tech Stack**: Primarily CSS-based UI components with additional tooling for agent orchestration and image generation, last update
 
 ## Use Cases
 

@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Orchestration Framework**: Haystack is an open-source framework for building production-ready AI agents, RAG applications, and multimodal search systems using reusable, customizable components and pipelines.
+- **Modular AI Orchestration Framework**: Haystack is an open-source framework for building production-ready AI agents, RAG applications, and multimodal search systems using reusable, task-specific components with modular pipelines.
 
-- **Core Architecture**: Comprises components (e.g., Document Stores, Agents, Tools) and integrates technologies from providers like OpenAI, Google, and Hugging Face, enabling scalable LLM-based applications.
+- **Core Architecture**: Composed of components (e.g., Document Stores, Agents, Tools) and pipelines, integrating technologies from OpenAI, Google, Anthropic, and Hugging Face Transformers for scalable LLM-based applications.
 
-- **Enterprise Support & Scaling**: Offers enterprise-grade soluti
+- **Enterprise Support & Scalability**:
 
 ## Use Cases
 

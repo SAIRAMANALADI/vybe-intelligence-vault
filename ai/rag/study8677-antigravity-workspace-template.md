@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/study8677/antigravity-workspace-template
-collected_at: '2026-07-04T21:48:16.467329+05:30'
+collected_at: '2026-07-05T01:09:22.817938+05:30'
 published_at: '2026-07-04T06:07:52Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 stars: 1295
 language: Python
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-11-19T08:51:14Z'
 pushed_at: '2026-07-03T15:37:58Z'
 resource_id: github:study8677/antigravity-workspace-template
-first_seen: '2026-07-04T21:48:16.467329+05:30'
-last_seen: '2026-07-04T21:48:16.467329+05:30'
-last_checked: '2026-07-04T21:48:16.467329+05:30'
+first_seen: '2026-07-05T01:09:22.817938+05:30'
+last_seen: '2026-07-05T01:09:22.817938+05:30'
+last_checked: '2026-07-05T01:09:22.817938+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for codebase interactions across AI IDEs (Claude Code, Cursor, Codex CLI).
-- **MCP server integration** facilitating real-time, context-aware code search and retrieval augmented generation (RAG) for developer tools.
-- **Python-based template** supporting OpenAI, MCP, and agent SDKs to enhance Copilot-like functionality with multi-agent orchestration.
+- **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for codebase interaction across AI IDEs (Claude Code, Cursor, Codex CLI).
+- **Modular MCP server** integrating RAG, knowledge graphs, and OpenAI-compatible APIs for scalable, IDE-agnostic developer tooling.
+- **Python-based template** with preconfigured agents, search, and Copilot integration, optimized for 2026-era AI-driven workflows.
 
 ## Why It Matters
 

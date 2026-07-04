@@ -1,34 +1,34 @@
 ---
-title: Privacy policy
+title: Privacy Policy
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.langchain.com/privacy-policy
-published_at: '2026-07-03T04:01:18.192493+05:30'
-collected_at: '2026-07-03T04:01:18.192506+05:30'
+source_url: https://scite.ai/policy
+published_at: '2026-07-05T01:16:09.820760+05:30'
+collected_at: '2026-07-05T01:16:09.820769+05:30'
 tags:
 - agents
 - hackernews
 - rag
-- reddit
 - web-crawled
+- youtube
 status: active
 resource_id: blog:privacy-policy
-first_seen: '2026-07-03T04:01:18.192506+05:30'
-last_seen: '2026-07-03T04:01:18.192506+05:30'
-last_checked: '2026-07-03T04:01:18.192506+05:30'
+first_seen: '2026-07-05T01:16:09.820769+05:30'
+last_seen: '2026-07-05T01:16:09.820769+05:30'
+last_checked: '2026-07-05T01:16:09.820769+05:30'
 health_score: 100
 ---
 
-# Privacy policy
+# Privacy Policy
 
 ## Summary
 
-- **Data Collection Scope**: Collects personal and business contact information (e.g., email, payment details, role-based data) via account creation, third-party integrations, and automated tracking (device data, IP addresses, cookies, web beacons) for service operation, marketing, and compliance.
+- **Data Collection Scope**: Scite collects diverse personal data categories (identifiers, financial/commercial info, professional background, user-generated content, authorship metadata, device/IP/geolocation data, and behavioral inferences) via direct input, third-party authentication (e.g., ORCiD, Google), cookies, and public sources to enable service functionality, analytics, and marketing.
 
-- **Processing & Legal Bases**: Uses personal data for service provision, marketing (with opt-out), R&D (via anonymized data), and legal compliance (e.g., subpoenas). Processing in the UK/EEA relies on necessity, legitimate interests, consent, or legal obligations.
+- **Cookie & Tracking Mechanisms**: Uses strict-necessary, analytics (Google Analytics), functional, and targeting cookies; tracks user interactions (page visits, search queries) for service optimization and personalized advertising. Supports opt-out via Global Privacy Control but does not recognize "Do Not Track" signals.
 
-- **Data Sharing & Rights**: Shares data with service providers, affiliates, and authorities under contractual safeguards. Users retain rights (access, rectification, erasure, portability) with exceptions for legal retention; complaints may be filed with supervisory authorities.
+- **Data Sharing & Legal Compliance**: Shares data with service providers, public users (for authorship/content), advertising networks, advisors, and authorities under legal obligations (e.g., subpoenas). May disclose data during corporate transactions (mergers, acquisitions). Explicitly excludes using customer data for AI/ML model training.
 
 ## Why It Matters
 
@@ -38,16 +38,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-03T04:01:18.192493+05:30
+- Published: 2026-07-05T01:16:09.820760+05:30
 
 ## Related Tags
 
 - agents
 - hackernews
 - rag
-- reddit
 - web-crawled
+- youtube
 
 ## Source
 
-Original source: https://www.langchain.com/privacy-policy
+Original source: https://scite.ai/policy

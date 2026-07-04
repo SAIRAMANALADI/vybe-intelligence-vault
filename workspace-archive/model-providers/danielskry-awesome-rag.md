@@ -6,17 +6,16 @@ source_url: https://github.com/Danielskry/Awesome-RAG
 resource_id: github:danielskry/awesome-rag
 local_vault_path: ai/rag/danielskry-awesome-rag.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
+- hackernews
 - meta-ai
 - mistral
 - models
-- openai
 - rag
 - unknown
 selection_reason:
@@ -29,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -37,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Applications**: Repository aggregates open-source and commercial Retrieval-Augmented Generation (RAG) implementations across domains like NLP, question answering, and document-grounded generation.
-- **Multi-LLM Integration**: Supports diverse large language models (LLMs) including proprietary (e.g., GPT-4) and open-source (e.g., Llama2, Mistral) for RAG pipelines.
-- **Dynamic Updates**: Actively maintained with last commit (2026-06-29) reflecting recent advancements in RAG archit
+- **Curated RAG Applications**: Repository aggregates cutting-edge Retrieval-Augmented Generation (RAG) implementations, frameworks, and tools in Generative AI, spanning LLMs, NLP, and multimodal systems.
+- **High-Activity Open Source Project**: Maintained with 1,294 stars and 161 forks, indicating strong community engagement and rapid updates (last commit: 2026-07-04).
+- **Multi-Topic Coverage**: Encompasses core RAG methodologies, domain-specific applications (e.g., legal, medical), and integr
 
 ## Use Cases
 

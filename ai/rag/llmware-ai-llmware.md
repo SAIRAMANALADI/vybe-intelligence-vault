@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/llmware-ai/llmware
-collected_at: '2026-07-04T21:51:06.643913+05:30'
+collected_at: '2026-07-05T01:12:08.047497+05:30'
 published_at: '2026-07-04T14:27:15Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - models
 - python
 - rag
+- workflows
 stars: 14813
 language: Python
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2023-09-29T15:19:06Z'
 pushed_at: '2026-05-17T13:53:37Z'
 resource_id: github:llmware-ai/llmware
-first_seen: '2026-07-04T21:51:06.643913+05:30'
-last_seen: '2026-07-04T21:51:06.643913+05:30'
-last_checked: '2026-07-04T21:51:06.643913+05:30'
+first_seen: '2026-07-05T01:12:08.047497+05:30'
+last_seen: '2026-07-05T01:12:08.047497+05:30'
+last_checked: '2026-07-05T01:12:08.047497+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified RAG Framework**: Provides a Python-based, end-to-end pipeline for enterprise Retrieval-Augmented Generation (RAG) using small, specialized models optimized for efficiency (e.g., llama.cpp, ONNX, OpenVINO).
-- **Multi-Backend Support**: Integrates multiple inference backends (e.g., Llama, GGML, PyTorch, TensorRT) and model formats (GGUF, ONNX, GGML) for flexible deployment across hardware.
-- **Enterprise Features**: Includes document parsing, vector storage (FAISS/Chroma), agent orchestration, and support for structured/unstructured data pipelines for production-grade LLM applications.
+- **Unified RAG Framework**: Provides a Python-based, end-to-end framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines optimized for small, specialized models (e.g., LlamaCPP, ONNX, OpenVINO).
+
+- **Multi-Model & Tool Integration**: Supports heterogeneous model architectures (generative LLMs, small specialized models) and integrates parsing, retrieval, and agent-based workflows for modular pipeline design.
+
+- **Performance & Deployment**: Focuses on lightweight, efficient inference with hardware acceleration (e.g., ONNX Runtime, OpenVINO) and includes tools for parsing diverse document formats (PDFs, spreadsheets, etc.).
 
 ## Why It Matters
 

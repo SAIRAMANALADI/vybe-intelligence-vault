@@ -3,18 +3,19 @@ title: css.Build
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://gohugo.io/functions/css/build/
-published_at: '2026-07-04T16:37:22.107660+05:30'
-collected_at: '2026-07-04T16:37:22.107672+05:30'
+source_url: https://gohugo.io/functions/css/build/#vars
+published_at: '2026-07-05T01:15:19.487729+05:30'
+collected_at: '2026-07-05T01:15:19.487736+05:30'
 tags:
 - frontend_ui
+- models
 - reddit
 - web-crawled
 status: active
 resource_id: blog:css-build
-first_seen: '2026-07-04T16:37:22.107672+05:30'
-last_seen: '2026-07-04T16:37:22.107672+05:30'
-last_checked: '2026-07-04T16:37:22.107672+05:30'
+first_seen: '2026-07-05T01:15:19.487736+05:30'
+last_seen: '2026-07-05T01:15:19.487736+05:30'
+last_checked: '2026-07-05T01:15:19.487736+05:30'
 health_score: 100
 ---
 
@@ -22,9 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Functionality**: `css.Build` bundles, transforms, and minifies CSS resources using `evanw/esbuild`, replacing `@import` statements recursively, applying vendor prefixes, and generating source maps (e.g., `@media`, `@supports`, `@layer` wrappers for conditional imports).
-- **Options**: Supports configurable loaders (e.g., `css`, `dataurl`, `file`), minification (`minify`), browser targets (`target`), source maps (`sourceMap`), and CSS variables injection (`vars`) via `hugo:vars` imports or project params.
-- **Usage**: Requires assets in the `assets` directory; Node package imports resolve via `package.json`. Output path controlled by `targetPath`, with fingerprinting/SRI support in production.
+- **Core Functionality**: `css.Build` bundles, transforms, and minifies CSS resources using `evanw/esbuild`, replacing `@import` statements, applying vendor prefixes, generating source maps, and supporting syntax transformations for browser compatibility.
+
+- **Configuration Options**: Supports fine-tuning via options like `externals`, `loaders`, `minify`, `sourceMap`, `target`, `vars`, and `targetPath`, enabling exclusion of files, custom loaders, minification, source map generation, browser targeting, CSS variable injection, and output path control.
+
+- **Usage Patterns**: References assets via bare, relative, or root-relative paths; integrates Node packages by resolving `package.json` entry points; embeds images/fonts as data URLs; and applies conditional processing (e.g., minification in production only).
 
 ## Why It Matters
 
@@ -34,14 +37,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-04T16:37:22.107660+05:30
+- Published: 2026-07-05T01:15:19.487729+05:30
 
 ## Related Tags
 
 - frontend_ui
+- models
 - reddit
 - web-crawled
 
 ## Source
 
-Original source: https://gohugo.io/functions/css/build/
+Original source: https://gohugo.io/functions/css/build/#vars

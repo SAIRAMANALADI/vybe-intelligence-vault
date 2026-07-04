@@ -8,7 +8,7 @@ local_vault_path: ai/agents/langchain-ai-open-swe.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: workflow
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # langchain-ai/open-swe
@@ -28,18 +28,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: workflow
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for autonomous code generation and editing using LLMs (OpenAI, Anthropic Claude) with non-blocking I/O for scalable multi-agent workflows.
-
-- **Multi-Provider LLM Integration**: Supports dynamic switching between OpenAI and Anthropic Claude models via standardized interfaces, enabling adaptive task execution based on model capabilities and cost constraints.
-
-- **State Management & Tooling**: Utilizes persisten
+- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for autonomous code generation and editing using LLMs (OpenAI, Anthropic Claude).
+- **Multi-Tool Integration**: Supports parallel execution of tools (e.g., file I/O, shell commands) via asyncio, enabling concurrent task handling in coding workflows.
+- **Extensible Framework**: Designed for modularity, allowing customization of agent behavior, toolchains, and LLM backends for scalable AI-driven software enginee
 
 ## Use Cases
 

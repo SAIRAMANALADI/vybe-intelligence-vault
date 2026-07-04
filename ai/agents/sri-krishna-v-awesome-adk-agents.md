@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-07-04T19:32:25.176562+05:30'
+collected_at: '2026-07-05T01:11:32.971058+05:30'
 published_at: '2026-07-04T08:19:20Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-06-28T14:36:38Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-07-04T19:32:25.176562+05:30'
-last_seen: '2026-07-04T19:32:25.176562+05:30'
-last_checked: '2026-07-04T19:32:25.176562+05:30'
+first_seen: '2026-07-05T01:11:32.971058+05:30'
+last_seen: '2026-07-05T01:11:32.971058+05:30'
+last_checked: '2026-07-05T01:11:32.971058+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Content**: Curated collection of AI agents built with Google’s Agent Development Kit (ADK), including templates, best practices, and production-ready examples for research, business, automation, education, and more.
-- **Technical Details**: Primarily Python-based (ADK-Python), with support for ADK-Web; includes multi-agent systems, agentic AI, and integration with Gemini AI and Google ADK.
-- **Metadata**: 330 stars, 47 forks; last updated July 4, 2026; categorized under `awesome-list`, `templates`, and AI agent development.
+- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google's Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
+- **Multi-Faceted ADK Support**: Focuses on ADK-Python and ADK-Web, with topics covering agentic AI, multi-agent systems, and integration with Google's Gemini AI, facilitating diverse agent development scenarios.
+- **Active Maintenance & Community**: Last updated in July 2026, the repository (330 stars, 47 forks) serves as an "awesome-list" for ADK-based agent development, emphasizing up-to-date practices and community contributions.
 
 ## Why It Matters
 

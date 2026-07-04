@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-07-04T21:48:46.472497+05:30'
+collected_at: '2026-07-05T01:09:52.875759+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - java
 - rag
 - workflows
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-07-04T21:48:46.472497+05:30'
-last_seen: '2026-07-04T21:48:46.472497+05:30'
-last_checked: '2026-07-04T21:48:46.472497+05:30'
+first_seen: '2026-07-05T01:09:52.875759+05:30'
+last_seen: '2026-07-05T01:09:52.875759+05:30'
+last_checked: '2026-07-05T01:09:52.875759+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **AI Q&A System**: Implements **Server-Sent Events (SSE)** for real-time streaming responses, **Agent-based workflows** for dynamic task handling, and **RAG (Retrieval-Augmented Generation)** with **knowledge graphs** for enhanced contextual retrieval.
+- **Implementation**: Demonstrates a Java-based AI Q&A system leveraging Spring AI with Alibaba Cloud integrations, covering SSE streaming, agent-based workflows, knowledge graph RAG, function calling, and historical message handling.
 
-- **Multimodal & Functionality**: Supports **image generation/understanding**, **embedding/vector database** integration (e.g., Milvus/Weaviate), **FunctionCall** for tool execution, and **historical message management** for conversational context.
+- **Capabilities**: Supports multimodal processing with image generation/understanding, embedding extraction, vector database operations, and RAG pipelines for enhanced contextual retrieval.
 
-- **Spring AI & Alibaba Stack**: Built on **Spring AI** with **Alibaba Cloud** integrations (e.g., DashScope, Tongyi Qianwen), leveraging **Java** for backend logic and **RAG pipelines** for hybrid retrieval.
+- **Technical Stack**: Utilizes Java with Spring AI, embedding models, vector databases, and Alibaba Cloud services (e.g., dashscope) for core AI functionalities.
 
 ## Why It Matters
 

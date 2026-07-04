@@ -1,8 +1,8 @@
 ---
-title: deepset-ai/haystack
+title: deepset-ai/haystack · Discussions · GitHub
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack
+source_url: https://github.com/deepset-ai/haystack/discussions
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
@@ -12,19 +12,17 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- github-repo
-- mdx
-- models
-- openai
+- anthropic
+- hackernews
 - rag
-- scripts
+- web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# deepset-ai/haystack
+# deepset-ai/haystack · Discussions · GitHub
 
 ## Why This Is In The Archive
 
@@ -37,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack enables building production-grade LLM applications via configurable pipelines with explicit control over retrieval, routing, memory, and generation components, supporting scalable agents, RAG, and multimodal systems.
+- **Haystack GitHub Repository**: Open-source framework by deepset.ai for building RAG pipelines, with 25.8k stars, 2.9k forks, 71 open issues, and 33 PRs.
 
-- **Context-Engineered Design**: Optimized for semantic search, conversational AI, and information retrieval, leveraging transformers (PyTorch) and integration with models like GPT-4/Gemini for enhanced context-aware generation.
+- **Discussion Topics**: Active community discussions on debugging retrieval failures, runtime security (AgentShield), diagnostics engines for RAG validation, and async pipeline execution bridges.
 
-- **Extensi
+- **Technical Focus**: Recent threads include event loop handling for pipeline tools, LLM usage tracking, and security measures against memory po
 
 ## Use Cases
 
@@ -51,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack
+Original source URL: https://github.com/deepset-ai/haystack/discussions
 
 ## Local Vault File
 

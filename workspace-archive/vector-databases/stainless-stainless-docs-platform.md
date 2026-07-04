@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Dynamic API Documentation Sync**: REST API, SDK, and narrative docs automatically stay synchronized with the actual API, eliminating manual updates and ensuring consistency across all documentation layers.
+- **Dynamic API Documentation Sync**: REST API, SDK, and narrative docs automatically stay in sync with the actual API, ensuring real-time accuracy and reducing manual maintenance overhead.
 
-- **AI-Agent Optimized & Hybrid Search**: Implements AI-powered hybrid search and Markdown integration, enabling AI agents to efficiently parse and utilize documentation while supporting light/dark modes and minimal client-side JavaScript for performance.
+- **AI-Agent Compatibility & Customization**: Docs are optimized for AI agents (e.g., via `llms.txt`) while offering deep customization via Astro framework, enabling TypeScript-first integrations, middleware, and UI framework agnostic components (React, Svelte, Vue, etc.).
 
-- **Customizable & Extensible Fr
+- **Performance & Deployment Flexi
 
 ## Use Cases
 

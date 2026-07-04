@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Earnings Calculation**: Medium Partner Program compensates writers based on member engagement metrics including read time (≥30s), claps, highlights, replies, new follows, and Boosted story interactions, with payouts scaling with deeper engagement and follower retention.
+- **Earnings Calculation**: Medium Partner Program compensates writers based on engagement metrics including total views, read time (≥30s), claps, highlights, replies, new follows, and follower interactions, with additional bonuses for Boosted stories.
 
-- **Quality Incentives**: The program prioritizes long-form, high-quality content over clickbait, rewarding thoughtful reads and community-building through follower bonuses and algorithmic Boosts for select stories.
+- **Quality Incentives**: Program prioritizes long-form, high-quality content, rewarding member read time, positive interactions (claps, highlights, replies), and follower retention to counter clickbait-driven monetization.
 
-- **App
+- **Application & Sup
 
 ## Use Cases
 

@@ -2,7 +2,7 @@
 title: The Firebase Blog
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://firebase.blog
+source_url: https://firebase.blog/
 resource_id: blog:the-firebase-blog
 local_vault_path: ai/rag/the-firebase-blog.md
 quality_score: 70
@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - frontend_ui
-- hackernews
 - producthunt
 - rag
 - web-crawled
@@ -34,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Firestore Pipelines GA**: Introduces full-text search and JOIN-like query capabilities in Firestore via server-side pipelines, enabling complex NoSQL operations previously unsupported.
-
-- **Zero-Flicker SSR with React**: Demonstrates Firestore serialization techniques for React Server Components (RSC) to eliminate UI flickering during data hydration by preloading server-side state.
-
-- **Dart Support in Cloud Functions**: Adds Dart as a first-class language for Firebase Cloud Functions, enabl
+- **Zero-flicker SSR in React**: Implements Firestore serialization to eliminate UI flickering during server-side rendering by preloading data and synchronizing with client-side state.
+- **Firestore Pipelines GA**: Introduces full-text search and SQL-like JOINs in Firestore via pipelines, enhancing NoSQL query capabilities for complex data operations.
+- **Dart Support in Cloud Functions**: Expands Firebase backend flexibility with Dart runtime support in Cloud Functions, enabling type-safe, cros
 
 ## Use Cases
 
@@ -48,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://firebase.blog
+Original source URL: https://firebase.blog/
 
 ## Local Vault File
 

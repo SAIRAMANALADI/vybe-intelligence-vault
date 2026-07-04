@@ -6,7 +6,7 @@ source_url: https://interrupt.langchain.com/recordings
 resource_id: blog:interrupt-2026-recordings-the-agent-conference-by
 local_vault_path: ai/agents/interrupt-2026-recordings-the-agent-conference-by.md
 quality_score: 70
-archive_score: 76
+archive_score: 74
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Conference Overview**: Interrupt 2026 by LangChain provides on-demand access to 23 technical sessions featuring production-grade AI agent deployments from companies like Cisco, LinkedIn, Toyota, and Lyft, covering frameworks, evaluations, and enterprise-scale implementations.
+- **Event Overview**: Interrupt 2026 by LangChain features 23 technical sessions from industry leaders (e.g., Cisco, LinkedIn, Toyota) on deploying AI agents in production, with all talks available on-demand via YouTube.
 
-- **Key Technical Topics**: Sessions include deep dives into agent architectures (e.g., Cisco’s CX agents, Toyota’s production systems), evaluation frameworks (e.g., Lyft’s production evals, Chime’s legal compliance),
+- **Key Technical Topics**: Sessions cover agent scalability (Clay), evaluation frameworks (Lyft, Chime), enterprise integration (Box, MongoDB), and security (LangSmith Sandboxes for untrusted agent code).
+
+- **Sponsorship & Tools**: Event sponsored by Cisco, Elastic, Redis, an
 
 ## Use Cases
 

@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- Implements a **Streamlit-based RAG pipeline** using **LangChain** for document retrieval and generation, integrating a **vector store** (e.g., FAISS, Chroma) for semantic search.
-- Supports **hybrid search** (combining keyword and vector similarity) to enhance retrieval accuracy, with configurable parameters for chunking, embeddings (e.g., OpenAI, HuggingFace), and LLM backends.
-- Demonstrates **end-to-end workflow**: document ingestion → embedding → vector store → retrieval → LLM generation,
+- **Hybrid RAG Pipeline**: Implements a Streamlit app integrating LangChain with a vector store (e.g., FAISS) for retrieval-augmented generation (RAG), combining dense embeddings and sparse retrieval (BM25) for hybrid search.
+
+- **Modular LangChain Components**: Utilizes LangChain’s `RetrievalQA` chain with a custom retriever (e.g., `BM25Retriever` + `VectorStoreRetriever`) and a language model (e.g., OpenAI, HuggingFace) for end-to-end QA workflow.
+
+- **Streamlit UI for RAG**: Provides a minima
 
 ## Use Cases
 

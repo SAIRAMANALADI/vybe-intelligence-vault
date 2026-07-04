@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb
-published_at: '2026-06-30T22:52:33.785249+05:30'
-collected_at: '2026-06-30T22:52:33.785262+05:30'
+published_at: '2026-07-05T01:13:28.848385+05:30'
+collected_at: '2026-07-05T01:13:28.848393+05:30'
 tags:
 - hackernews
 - rag
 - web-crawled
 status: active
 resource_id: blog:google-colab
-first_seen: '2026-06-30T22:52:33.785262+05:30'
-last_seen: '2026-06-30T22:52:33.785262+05:30'
-last_checked: '2026-06-30T22:52:33.785262+05:30'
+first_seen: '2026-07-05T01:13:28.848393+05:30'
+last_seen: '2026-07-05T01:13:28.848393+05:30'
+last_checked: '2026-07-05T01:13:28.848393+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Resource Unavailable**: The provided link is a Google Sign-In page, not the actual technical article/resource to summarize.
-
-- **Action Required**: Users must authenticate via Google to access the content hosted on Google Colab.
-
-- **Content Context**: The target resource appears to be a Jupyter Notebook tutorial titled *"Build RAG with Milvus"* from the Milvus Bootcamp repository.
+- **Resource**: Google Colab notebook from Milvus Bootcamp tutorial on building RAG (Retrieval-Augmented Generation) systems with Milvus.
+- **Key Focus**: Demonstrates integration of Milvus vector database for efficient similarity search in RAG pipelines.
+- **Technical Stack**: Utilizes Python, Milvus (vector DB), and likely LLM frameworks (e.g., LangChain) for end-to-end RAG implementation.
 
 ## Why It Matters
 
@@ -36,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T22:52:33.785249+05:30
+- Published: 2026-07-05T01:13:28.848385+05:30
 
 ## Related Tags
 

@@ -6,7 +6,7 @@ source_url: https://github.com/gomate-community/awesome-papers-for-rag
 resource_id: github:gomate-community/awesome-papers-for-rag
 local_vault_path: ai/rag/gomate-community-awesome-papers-for-rag.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: Repository contains a structured collection of research papers, frameworks, and tools focused on Retrieval-Augmented Generation (RAG) methodologies, architectures, and applications.
-- **Technical Scope**: Primarily Python-based, emphasizing implementation details, benchmarks, and comparative analyses of RAG systems (e.g., dense retrieval, hybrid retrieval, and generative models).
-- **Maintenance**: Last updated July 2026, indicating active curation with potential inc
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG) methodologies, architectures, and applications.
+- **Python-Centric Tooling**: Includes Python-based implementations, libraries (e.g., LangChain, Haystack), and frameworks for prototyping/evaluating RAG systems.
+- **Maintained Index**: Last updated July 2026, with structured categorization (e.g., benchmarks, domain-specific RAG, efficiency optimizations)
 
 ## Use Cases
 

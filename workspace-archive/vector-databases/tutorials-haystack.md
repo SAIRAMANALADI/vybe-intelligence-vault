@@ -8,11 +8,12 @@ local_vault_path: ai/rag/tutorials-haystack.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag
@@ -20,7 +21,7 @@ tags:
 - web-crawled
 - workflows
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Tutorials | Haystack
@@ -29,17 +30,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Evaluation Guide**: Provides a structured walkthrough for assessing Haystack pipelines, covering statistical and model-based metrics for RAG evaluation.
+- **Evaluation Framework**: Haystack provides a guided walkthrough for evaluating RAG pipelines using statistical and model-based metrics, covering both retrieval and generation quality assessment.
 
-- **Agentic RAG with Fallback**: Demonstrates a pipeline that routes queries to web-based RAG when primary retrieval fails, enhancing robustness via conditional logic.
+- **Agentic Architectures**: Tutorials demonstrate advanced agent systems, including multi-agent workflows, tool-calling agents with web search integration, and conversational RAG with `InMemoryChatMessageStore` for multi-turn interactions.
 
-- **Multimodal RAG Pipeline**: Details a vision+text RAG implementation, enabling question-answering grounded in both image and textual data.
+- **Multimodal & Optimization Techniques**: Haystack suppor
 
 ## Use Cases
 

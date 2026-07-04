@@ -30,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Platform Overview**: EverPass provides a centralized dashboard (EverPass Manager) for managing screens, devices, and data analytics, enabling real-time content delivery and engagement tracking.
+- **EverPass Platform Overview**: Centralized hub for managing screens, devices, and data analytics with modular architecture for live sports streaming and engagement tools.
 
-- **Live Streaming & Engagement**: Supports live event streaming with interactive features (EverPass Engage), including tutorials for setup and management via the EverPass Academy.
+- **EverPass Manager**: Core administrative interface enabling device provisioning, configuration, and real-time performance monitoring via a unified dashboard.
 
-- **Device & Billing Management**: Offers device installation/troubleshooting guides, Spectrum Xumo integration, and bi
+- **Live Event Streaming**: Supports low-latency, high-definition live sports streaming with adaptive bitrate delivery and DRM integration for secure content distr
 
 ## Use Cases
 

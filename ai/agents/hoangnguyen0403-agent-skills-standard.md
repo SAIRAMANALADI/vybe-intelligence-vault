@@ -4,13 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-07-04T21:50:26.548721+05:30'
-published_at: '2026-07-04T11:51:12Z'
+collected_at: '2026-07-05T01:11:32.972675+05:30'
+published_at: '2026-07-04T17:20:53Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - typescript
+- workflows
 stars: 520
 language: TypeScript
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-04T11:51:08Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-07-04T21:50:26.548721+05:30'
-last_seen: '2026-07-04T21:50:26.548721+05:30'
-last_checked: '2026-07-04T21:50:26.548721+05:30'
+first_seen: '2026-07-05T01:11:32.972675+05:30'
+last_seen: '2026-07-05T01:11:32.972675+05:30'
+last_checked: '2026-07-05T01:11:32.972675+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering multiple frameworks and languages (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot).
+- **Repository Overview**: A TypeScript-based collection of standardized **Agent Skills** and **best practices** for programming languages (e.g., Go, Kotlin, Swift) and frameworks (e.g., React, Angular, Spring Boot, Laravel) to guide AI agents in adhering to coding standards.
 
-- **Purpose**: Provides structured guidelines (`agent-skills-standard`) to ensure AI agents adhere to optimal coding and framework-specific practices, including `cursor-rules` for IDE integration.
+- **Scope & Topics**: Covers **20+ technologies** including mobile (Android, iOS, Flutter), web (React, Next.js, Angular), backend (Go, NestJS, Spring Boot), and tooling (Cursor Rules) with structured guidelines for maintainable and scalable implementations.
 
-- **Metadata**: 520 stars, 150 forks, last updated 2026-07-04, with topics spanning agentic AI, mobile (iOS/Android), web (React/Next.js), and backend (Spring Boot/NestJS) ecosystems.
+- **Metadata**: **520 stars**, **150 forks**, last updated **July 4, 2026**; designed to enforce consistency in AI-driven development workflows across multi-language environments.
 
 ## Why It Matters
 
@@ -46,7 +48,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 150
 - Language: TypeScript
 - Topics: agent-, agentic-ai, android, angular, best-practices, coding-standards, cursor-rules, flutter, golang, ios, kotlin, laravel, nestjs, nextjs, react, react-native, reactjs, spring-boot, typescript
-- Last Updated: 2026-07-04T11:51:12Z
+- Last Updated: 2026-07-04T17:20:53Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-01-15T15:33:38Z

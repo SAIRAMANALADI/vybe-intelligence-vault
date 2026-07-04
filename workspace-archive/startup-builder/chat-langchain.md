@@ -30,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Dynamic Loading Mechanism**: Describes a system where modules or components are loaded into memory at runtime rather than during the initial program load, optimizing resource usage and enabling modular architectures.
+- **Dynamic Loading Mechanism**: Describes a system where modules or libraries are loaded into memory only when required during runtime, optimizing resource usage and reducing initial startup time.
 
-- **Lazy Initialization**: Implements on-demand loading of resources (e.g., libraries, data) only when required, reducing startup time and memory footprint by deferring resource-intensive operations until necessary.
+- **Lazy Initialization**: Implements deferred initialization of objects or components until their first use, enhancing performance by avoiding unnecessary computations or memory allocations upfront.
 
-- **Dependency Resolution**: Utilizes metadata (e.g., manifes
+- **Dependency Resolution**: Utilizes a resolver to dynamically identify and load dependencies at ru
 
 ## Use Cases
 

@@ -4,16 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://about.medium.com/
-published_at: '2026-07-04T21:56:32.143146+05:30'
-collected_at: '2026-07-04T21:56:32.143159+05:30'
+published_at: '2026-07-05T01:14:53.978631+05:30'
+collected_at: '2026-07-05T01:14:53.978637+05:30'
 tags:
+- hackernews
 - rag
 - web-crawled
 status: active
 resource_id: blog:about-medium
-first_seen: '2026-07-04T21:56:32.143159+05:30'
-last_seen: '2026-07-04T21:56:32.143159+05:30'
-last_checked: '2026-07-04T21:56:32.143159+05:30'
+first_seen: '2026-07-05T01:14:53.978637+05:30'
+last_seen: '2026-07-05T01:14:53.978637+05:30'
+last_checked: '2026-07-05T01:14:53.978637+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Purpose**: Medium is a content publishing platform designed to prioritize depth, nuance, and thoughtful discourse over sensationalism, enabling writers to share knowledge without requiring pre-existing audiences or mailing lists.
+- **Platform Purpose**: Medium is a content publishing platform designed to prioritize depth, nuance, and thoughtful discourse over sensationalism, enabling writers to share insights without requiring pre-existing audiences or mailing lists.
 
-- **User Base & Revenue Model**: Over 100M monthly users contribute diverse content (e.g., software development, personal essays), while the platform is monetized via a subscription-based membership model (1M+ members) rather than advertising or data sales.
+- **User Base & Monetization**: Hosts over 100M monthly users (developers, designers, executives, etc.) sharing expertise, monetized via a community of 1M+ paying members rather than ads or data sales.
 
-- **Mission & Values**: Aims to foster collective understanding through writing, emphasizing substance over packaging, and provides tools for both reading and publishing curated, insightful content.
+- **Technical Infrastructure**: Utilizes a sitemap (`sitemap.xml`) for SEO/crawling, with user authentication (sign-in/sign-up) and collaborative writing tools (e.g., `new-story` endpoint) to facilitate content creation and discovery.
 
 ## Why It Matters
 
@@ -35,10 +36,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T21:56:32.143146+05:30
+- Published: 2026-07-05T01:14:53.978631+05:30
 
 ## Related Tags
 
+- hackernews
 - rag
 - web-crawled
 

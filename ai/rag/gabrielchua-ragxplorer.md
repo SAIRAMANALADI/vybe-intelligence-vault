@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-04T21:48:26.453476+05:30'
+collected_at: '2026-07-05T01:09:32.836334+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
 - github-repo
 - jupyter notebook
-- meta-ai
 - models
 - rag
-- workflows
 stars: 1221
 language: Jupyter Notebook
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-04T21:48:26.453476+05:30'
-last_seen: '2026-07-04T21:48:26.453476+05:30'
-last_checked: '2026-07-04T21:48:26.453476+05:30'
+first_seen: '2026-07-05T01:09:32.836334+05:30'
+last_seen: '2026-07-05T01:09:32.836334+05:30'
+last_checked: '2026-07-05T01:09:32.836334+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing and debugging Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of retrieval and generation processes.
+- **Interactive RAG Visualization**: Open-source tool built with Streamlit and Python for dynamic exploration and debugging of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time interaction with LLM outputs and retrieval mechanisms.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly interface, allowing real-time interaction with RAG components (e.g., retrieval mechanisms, LLM outputs) via dynamic visualizations.
+- **Jupyter Notebook Integration**: Leverages Jupyter Notebook for modular, reproducible analysis of RAG components (e.g., embeddings, retrievers, prompts) with visualization capabilities for data flow, latency, and performance metrics.
 
-- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom RAG workflows and integration with LLM frameworks (e.g., LangChain, LlamaIndex) for enhanced debugging and analysis.
+- **Multi-Feature Toolkit**: Supports visualization of retrieval quality, token usage, and hallucination patterns, with extensible architecture for custom RAG pipeline integration and comparative analysis.
 
 ## Why It Matters
 

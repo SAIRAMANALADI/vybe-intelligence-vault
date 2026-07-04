@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-format document parsing** with 90+ supported formats, including complex layouts, tables, charts, handwriting, checkboxes, and images, converting them into clean Markdown for AI applications.
+- **Layout-aware parsing**: Utilizes advanced OCR and layout analysis to accurately interpret complex document structures, including headers, footers, multi-column layouts, and split sections.
 
-- **Advanced parsing capabilities** featuring layout-aware processing (headers, footers, split sections), multimodal parsing (charts, tables, images), granular control modes for cost-accuracy optimization, and multilingual support for 100+ languages.
+- **Multimodal & multilingual support**: Processes text, charts, tables, images, handwriting, and checkboxes while supporting 100+ languages, enabling high-fidelity extraction from diverse document types.
 
-- **Enterprise-grade scalability** with suppor
+- **Scalable & configurable parsing modes**: Offers granular control via different parsing modes (e.
 
 ## Use Cases
 

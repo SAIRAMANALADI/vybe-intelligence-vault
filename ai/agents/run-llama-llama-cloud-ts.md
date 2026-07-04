@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama-cloud-ts
-collected_at: '2026-07-04T19:37:59.062602+05:30'
+collected_at: '2026-07-05T01:14:17.615946+05:30'
 published_at: '2026-06-30T19:20:45Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-11-06T21:59:46Z'
 pushed_at: '2026-07-02T01:20:09Z'
 resource_id: github:run-llama/llama-cloud-ts
-first_seen: '2026-07-04T19:37:59.062602+05:30'
-last_seen: '2026-07-04T19:37:59.062602+05:30'
-last_checked: '2026-07-04T19:37:59.062602+05:30'
+first_seen: '2026-07-05T01:14:17.615946+05:30'
+last_seen: '2026-07-05T01:14:17.615946+05:30'
+last_checked: '2026-07-05T01:14:17.615946+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript SDK for LlamaParse**: Provides a cloud-based OCR and document parsing interface optimized for TypeScript, enabling structured extraction of information from documents via the `llamaparse` API.
-- **Document Processing Features**: Supports advanced parsing capabilities, including layout-aware OCR, structured data extraction, and integration with document agents for automated workflows.
-- **Lightweight & Cloud-Native**: Designed for minimal overhead with TypeScript, facilitating seamless deployment in cloud environments for scalable document processing tasks.
+- **TypeScript SDK for LlamaParse**: Provides a cloud-based OCR and document parsing interface optimized for TypeScript, enabling structured extraction from unstructured documents via `llamaparse`.
+- **Document Processing & Information Extraction**: Supports advanced parsing workflows for agents, including document-agent integration, with capabilities for structured information extraction from scanned or digital documents.
+- **Cloud Integration & Tooling**: Facilitates seamless cloud deployment with TypeScript tooling, targeting document processing workflows in AI-driven applications (e.g., agents, parsers).
 
 ## Why It Matters
 

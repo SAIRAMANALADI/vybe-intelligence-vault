@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Learning Path**: 5-week structured journey covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and Matryoshka representation learning for efficient LLM integration.
-- **Technologies & Tools**: Utilizes Azure, OpenAI/GPT models, HNSW for approximate nearest neighbor search, and VS Code with Jupyter Notebooks for hands-on implementation.
-- **Focus Areas**: Multimodal RAG, responsible AI practices, indexing optimization, and deplo
+- **RAG Mastery Curriculum**: A structured 5-week learning program covering RAG fundamentals, hybrid search (vector + keyword), quantization (binary/scalar), and multimodal retrieval using Azure and OpenAI tools.
+
+- **Advanced Techniques**: Implements HNSW for vector search, Matryoshka representation learning for efficient embeddings, and responsible AI practices with Azure integrations.
+
+- **Tooling & Deployment**: Uses Jupyter Notebooks in VS Code, supports GPT/LLM integration, and includes in
 
 ## Use Cases
 

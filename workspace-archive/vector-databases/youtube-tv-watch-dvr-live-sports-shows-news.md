@@ -32,13 +32,14 @@ selection_reason:
 
 ## Summary
 
-- **Pricing & Promotions**:
-  - Main YouTube TV plan: **$67.99/month for 3 months** (save $45), then **$82.99/month**; offer valid until **August 26, 2026** (new users only).
-  - Sports Plan: **$54.99/month for 12 months** (save $120), then **$64.99/month**; same end date and restrictions.
+- **Pricing & Promotions**: New users pay **$67.99/month for 3 months** (main plan), then **$82.99/month**; Sports Plan is **$54.99/month for 12 months**, then **$64.99/month**. Offers end **8/26/2026**; no refunds, cancel anytime.
 
-- **Core Features**:
-  - **Unlimited DVR storage**, **6 household accounts**, **3 simultaneous streams**, and **multiview** (up to 4 streams on supported devices).
-  - **No contracts, hidden fees, or installa
+- **Plan Features**:
+  - **Main Plan**: 100+ channels, unlimited DVR, multiview, 6 household accounts, 3 streams.
+  - **Sports Plan**: 30+ channels (ESPN, NFL Network, etc.), same DVR/multiview features.
+
+- **Add-Ons & Extras**:
+  - **4K Plus ($9.99/mo)**: Unlimited
 
 ## Use Cases
 

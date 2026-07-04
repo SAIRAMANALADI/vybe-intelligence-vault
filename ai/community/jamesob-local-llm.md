@@ -13,13 +13,14 @@ collected_at: '2026-07-04T21:47:05.504310+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: github:jamesob/local-llm
 first_seen: '2026-07-03T22:16:36.589287+05:30'
 last_seen: '2026-07-04T21:47:05.504310+05:30'
 last_checked: '2026-07-04T21:47:05.504310+05:30'
 health_score: 100
 ---
+
 
 # Jamesob's guide to running SOTA LLMs locally
 

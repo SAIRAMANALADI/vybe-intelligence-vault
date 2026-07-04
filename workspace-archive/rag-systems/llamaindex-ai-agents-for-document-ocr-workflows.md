@@ -38,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic OCR & VLM Integration**: LlamaParse leverages Vision-Language Models (VLM) and agentic OCR to automate document processing, reducing manual effort from hours to seconds with layout-aware parsing and structured schema extraction.
+- **Agentic OCR & Structured Extraction**: LlamaParse leverages Vision-Language Models (VLM) for layout-aware document parsing, enabling structured extraction of schemas (e.g., tables, charts, handwritten text) with 10,000 free credits/month (~1000 pages) via cloud-based automation.
 
-- **Multi-Modal Document Understanding**: Supports parsing of complex layouts, handwritten text, tables, charts, and embedded images with specialized agents and auto-correction loops for high accuracy across unstructured formats.
-
-- **Enterprise-Grade Featur
+- **Multi-Modal Document Agents**: Implements task-specific agents for semantic understanding, auto-correction loops (recursive error detection/fixing), and specialized experts (e.g., text, tables, charts) with benc
 
 ## Use Cases
 

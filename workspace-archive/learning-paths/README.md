@@ -23,9 +23,9 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [github/roadmap](https://github.com/github/roadmap)
 - [Redirecting to GitHub Learn](https://skills.github.com)
 - [Postman Inc. · GitHub](https://github.com/postmanlabs)
-- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
-- [microsoft/rag-time](https://github.com/microsoft/rag-time)
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
+- [BrandPeng/Langchain1.0-Langgraph1.0-Learning](https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning)
+- [iamshaunjp/framer-motion](https://github.com/iamshaunjp/framer-motion)
 
 ## Best Learning Resources
 
@@ -41,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-07-04 22:04 IST*
+*Last updated: 2026-07-05 01:25 IST*

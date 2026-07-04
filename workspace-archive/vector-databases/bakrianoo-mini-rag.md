@@ -6,7 +6,7 @@ source_url: https://github.com/bakrianoo/mini-rag
 resource_id: github:bakrianoo/mini-rag
 local_vault_path: ai/rag/bakrianoo-mini-rag.md
 quality_score: 70
-archive_score: 87
+archive_score: 85
 archive_tier: essential
 resource_kind: benchmark
 importance: high
@@ -14,8 +14,8 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
-- Strong keyword match
 - Active open-source repository
 ---
 
@@ -24,19 +24,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 85 (essential)
 - Resource kind: benchmark
 - Selection reasons:
-  - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Educational RAG Pipeline**: Step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, emphasizing modularity and scalability.
+- **Modular RAG Pipeline**: Implements a production-ready Retrieval-Augmented Generation (RAG) system with FastAPI, structured into modular components (retriever, generator, and API layers) for scalability and maintainability.
 
-- **Tech Stack Integration**: Demonstrates integration of GenAI models with FastAPI for backend services, Docker for containerization, and Python for core logic, including vector database interactions and API endpoints.
+- **Dockerized Deployment**: Provides a containerized setup using Docker for consistent environment replication, including dependencies for FastAPI, Python, and GenAI models, ensuring reproducible deployments.
 
-- **Deployment-Ready Architecture**: Focuses on best practices for d
+- **Educational Focus**: Step-by-step tutorial covering end-t
 
 ## Use Cases
 

@@ -13,13 +13,14 @@ collected_at: '2026-07-04T21:47:09.373057+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-reports-of-jim-carrey-s-death-are-a-failure-mo
 first_seen: '2026-07-04T21:47:09.373057+05:30'
 last_seen: '2026-07-04T21:47:09.373057+05:30'
 last_checked: '2026-07-04T21:47:09.373057+05:30'
 health_score: 100
 ---
+
 
 # The Reports of Jim Carrey's Death Are a Failure Mode
 

@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Stack Internal** is a knowledge platform integrating human expertise with AI automation for enterprise use, replacing Stack Overflow for Teams.
+- **Stack Internal** enables enterprise knowledge platforms by integrating human expertise with AI automation for internal team use cases.
 
-- **Stack Data Licensing** provides access to curated technical content with proper attribution for AI/ML applications.
+- **Stack Data Licensing** provides access to curated technical content from Stack Overflow for AI/ML model training and attribution.
 
-- **Stack Ads** enables brand engagement with Stack Overflow’s technical audience via targeted advertising solutions.
+- **Stack Overflow for Agents** offers an API-driven platform for deploying autonomous AI agents with technical problem-solving capabilities.
 
 ## Use Cases
 

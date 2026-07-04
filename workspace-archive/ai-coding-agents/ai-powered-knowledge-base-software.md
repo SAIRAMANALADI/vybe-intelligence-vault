@@ -2,7 +2,7 @@
 title: AI-powered knowledge base software
 archive_category: ai-coding-agents
 source_category: ai/agents
-source_url: https://www.zendesk.com/service/help-center/?utm_source=helpcenter&utm_medium=poweredbyzendesk&utm_campaign=text&utm_content=Turnitin
+source_url: https://www.zendesk.com/help-center/?utm_source=helpcenter&utm_medium=poweredbyzendesk&utm_campaign=text&utm_content=Reprints%20Desk%20Help%20%26%20Support%20Center
 resource_id: blog:ai-powered-knowledge-base-software
 local_vault_path: ai/agents/ai-powered-knowledge-base-software.md
 quality_score: 70
@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified Knowledge Graph**: Integrates disparate knowledge sources (help centers, forums, Confluence, Google Drive) into a single, queryable knowledge graph for real-time agent/AI access to consistent, reliable information.
-
-- **AI-Powered Knowledge Base Automation**: Uses generative AI to auto-convert historical tickets into articles, enable one-click translation/editing, and surface instant answers across channels (AI agents, help centers, agent workspace).
-
-- **Performance Analytics & Opti
+- **Unified Knowledge Graph**: Integrates disparate knowledge sources (help centers, forums, Confluence, Google Drive) into a single, queryable knowledge graph for real-time access by AI/human agents.
+- **AI-Powered Knowledge Base Management**: Uses generative AI to auto-convert historical tickets into structured articles, enable one-click translations/edits, and provide AI-driven insights for content optimization.
+- **Multi-Channel Instant Resolution**: Deploys AI agents to surface contextual a
 
 ## Use Cases
 
@@ -48,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.zendesk.com/service/help-center/?utm_source=helpcenter&utm_medium=poweredbyzendesk&utm_campaign=text&utm_content=Turnitin
+Original source URL: https://www.zendesk.com/help-center/?utm_source=helpcenter&utm_medium=poweredbyzendesk&utm_campaign=text&utm_content=Reprints%20Desk%20Help%20%26%20Support%20Center
 
 ## Local Vault File
 

@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Database & Coverage**: Aggregates 280M+ full-text scholarly articles, patents, books, and datasets across 40+ publishers (e.g., Wiley, SAGE) with direct licensing agreements, enabling full-text search beyond abstracts.
+- **Database & Coverage**: Licensed access to 280M+ full-text scholarly articles (journals, preprints, books, patents, datasets) via direct publisher agreements (Wiley, SAGE, 30+ others), enabling full-text search beyond abstracts.
 
-- **Smart Citation Analysis**: Classifies citations as *supporting*, *contrasting*, or *mentioning* with contextual sentence-level evidence, enabling evidence-weighted research synthesis and verification.
+- **Smart Citation Intelligence**: AI-driven citation classification (supporting/contrasting/mentioning) with contextual sentence-level evidence, enabling evidence-weighted analysis of papers, authors, or institutions.
 
-- **Multi-Domain Integration**: Supports cross-referencing across pate
+- **Cross-Domain Integration**: Unified databas
 
 ## Use Cases
 

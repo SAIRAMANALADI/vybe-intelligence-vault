@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Milvus RAG Pipeline**: Combines retrieval (via Milvus vector search) with generative models (e.g., OpenAI's GPT) to answer queries using retrieved documents, demonstrated with Milvus documentation FAQs.
-- **Vector Database Integration**: Uses `pymilvus` to create a collection with 1536-dim embeddings (OpenAI `text-embedding-3-small`), storing text chunks and enabling similarity search with `IP` (inner product) metric.
-- **Dynamic Schema Handling**: Automatically manages undefined fields (e.g
+- **Milvus RAG Pipeline**: Combines retrieval (via Milvus vector search) with generative models (e.g., OpenAI's GPT-3.5) to answer queries using retrieved documents, leveraging Milvus's vector similarity search for contextual retrieval.
+
+- **Dynamic Schema & Embedding Workflow**: Uses Milvus's dynamic schema to store raw text (`text` field) alongside embeddings (e.g., OpenAI's `text-embedding-3-small`, 1536-dim vectors), with automatic JSON field handling for unstructured data.
+
+- **Managed Depl
 
 ## Use Cases
 

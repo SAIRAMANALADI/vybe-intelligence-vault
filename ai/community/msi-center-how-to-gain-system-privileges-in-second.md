@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:msi-center-how-to-gain-system-privileges-in-second
 first_seen: '2026-07-04T09:32:38.581250+05:30'
 last_seen: '2026-07-04T21:47:07.751408+05:30'
 last_checked: '2026-07-04T21:47:07.751408+05:30'
 health_score: 100
 ---
+
 
 # MSI Center – How to gain SYSTEM privileges in seconds
 

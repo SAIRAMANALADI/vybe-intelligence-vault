@@ -6,7 +6,7 @@ source_url: https://github.com/Tencent/WeKnora
 resource_id: github:tencent/weknora
 local_vault_path: ai/rag/tencent-weknora.md
 quality_score: 70
-archive_score: 75
+archive_score: 77
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -20,6 +20,7 @@ tags:
 - openai
 - rag
 selection_reason:
+- Strong keyword match
 - Active open-source repository
 ---
 
@@ -28,14 +29,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: benchmark
 - Selection reasons:
+  - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-*   Transforms raw documents into a queryable RAG system, an autonomous reasoning agent, and
+- **Modular LLM Knowledge Platform**: Transforms raw documents into a queryable RAG system, autonomous reasoning agent, and self-maintaining Wiki using Go, supporting multimodal and multi-tenant architectures.
+
+- **Advanced Retrieval & Generation**: Integrates embeddings, vector search, reranking, and semantic search with OpenAI/Ollama models for enhanced question-answering and generative AI capabilities.
+
+- **Scalable & Self-Sustaining**: Features automated evaluation, knowledge base maintenanc
 
 ## Use Cases
 

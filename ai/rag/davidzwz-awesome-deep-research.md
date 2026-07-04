@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-07-04T21:49:36.491554+05:30'
+collected_at: '2026-07-05T01:10:42.866083+05:30'
 published_at: '2026-07-04T14:02:32Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - unknown
 stars: 788
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-05-02T04:18:19Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-07-04T21:49:36.491554+05:30'
-last_seen: '2026-07-04T21:49:36.491554+05:30'
-last_checked: '2026-07-04T21:49:36.491554+05:30'
+first_seen: '2026-07-05T01:10:42.866083+05:30'
+last_seen: '2026-07-05T01:10:42.866083+05:30'
+last_checked: '2026-07-05T01:10:42.866083+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, including agentic RAG, reasoning agents, and search agents, with a focus on large language models (LLMs) and their applications in deep research tasks.
-
-- **ACL 2026 KnowFM Alignment**: Aligns with the ACL 2026 KnowFM initiative, emphasizing knowledge-focused multi-agent systems for advanced reasoning and information synthesis.
-
-- **High-Impact Contributions**: Features 788+ stars and 64 forks, indicating strong community engagement and relevance in the AI research landscape, with last updates as of July 2026.
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research systems, including agentic RAG, reasoning agents, and search agents, with a focus on LLM-driven methodologies.
+- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026 KnowFM’s framework for knowledge-first, agentic AI systems, emphasizing structured deep research pipelines.
+- **Technical Breadth**: Covers multi-agent collaboration, reasoning architectures, and retrieval-augmented generation (RAG) optimization for scalable deep research tasks.
 
 ## Why It Matters
 

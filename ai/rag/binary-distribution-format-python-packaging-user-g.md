@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://packaging.python.org/en/latest/specifications/binary-distribution-format/
-published_at: '2026-06-29T01:27:08.945586+05:30'
-collected_at: '2026-06-29T01:27:08.945600+05:30'
+published_at: '2026-07-05T01:18:06.392619+05:30'
+collected_at: '2026-07-05T01:18:06.392627+05:30'
 tags:
 - hackernews
 - rag
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:binary-distribution-format-python-packaging-user-g
-first_seen: '2026-06-29T01:27:08.945600+05:30'
-last_seen: '2026-06-29T01:27:08.945600+05:30'
-last_checked: '2026-06-29T01:27:08.945600+05:30'
+first_seen: '2026-07-05T01:18:06.392627+05:30'
+last_seen: '2026-07-05T01:18:06.392627+05:30'
+last_checked: '2026-07-05T01:18:06.392627+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Wheel format**: ZIP archive with `.whl` extension, structured per PEP 376, containing `{distribution}-{version}.dist-info/` (metadata), optional `{distribution}-{version}.data/` (non-site-packages files), and payload files; installation involves unpacking followed by path resolution.
+- **Wheel Format**: A wheel is a ZIP archive with a `.whl` extension, structured per PEP 376, containing files for installation into `purelib` (pure Python) or `platlib` (platform-specific) paths, with metadata in `{distribution}-{version}.dist-info/`.
 
-- **Filename convention**: `{distribution}-{version}(-{build_tag})?-{python_tag}-{abi_tag}-{platform_tag}.whl`, where compatibility tags (python/abi/platform) define interpreter/ABI/platform constraints; build tags are optional tie-breakers (not for external versioning).
+- **Filename Convention**: Wheel filenames follow `{distribution}-{version}-{build_tag}-{python_tag}-{abi_tag}-{platform_tag}.whl`, where tags define compatibility (e.g., `py3-none-any` for Python 3, no ABI, any platform); build tags are optional tie-breakers.
 
-- **Metadata & validation**: `.dist-info/` contains `METADATA` (PEP 314/643), `WHEEL` (format version/generator), and `RECORD` (SHA-256 hashes of all files except itself); installers verify hashes and reject mismatches.
+- **Metadata & Validation**: Wheels include `METADATA` (package info), `WHEEL` (archive metadata), and `RECORD` (file hashes with SHA-256+); installers verify hashes and reject mismatches or unsupported `Wheel-Version` major numbers.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T01:27:08.945586+05:30
+- Published: 2026-07-05T01:18:06.392619+05:30
 
 ## Related Tags
 

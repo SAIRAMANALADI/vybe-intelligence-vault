@@ -8,11 +8,10 @@ local_vault_path: ai/rag/supabase-supabase.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - frontend_ui
-- hackernews
 - openai
 - rag
 - reddit
@@ -20,7 +19,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
@@ -29,16 +28,15 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- Supabase docs are structured into **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented with mixed prose/procedures), **Guides** (concise, step-by-step procedures), and **References** (factual, parameter/return-type-focused, auto-generated from specs).
-
-- Docs follow **MDX** format with YAML frontmatter (e.g., `title`, `hideToc`), and reference specs are split into **common** (shared function definitions) and **library-specific** (language SDK details) files, transformed via `
+- **Documentation Types**: Supabase docs include four types—Explainers (conceptual), Tutorials (goal-oriented with mixed prose/procedures), Guides (concise, step-by-step tasks), and References (factual, parameter/return-focused)—each with distinct structures and use cases.
+- **Repo & Spec Integration**: Most docs reside in `apps/docs/content`, with federated/reference docs sourced from external repos or spec files (e.g., OpenAPI/TSDoc). Reference docs are auto-generated from spec files (e.g., `s
 
 ## Use Cases
 

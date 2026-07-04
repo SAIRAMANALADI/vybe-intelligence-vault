@@ -11,10 +11,12 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- dataset
 - mistral
 - models
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Integration of Neo4j and Mistral AI**: Leverages graph-based knowledge representation in Neo4j with Mistral AI's large language models (LLMs) to enable explainable, enterprise-grade AI systems by linking structured knowledge graphs with generative AI outputs.
+- **Integration of Neo4j and Mistral AI**: Leverages graph-based knowledge representation in Neo4j with Mistral AI's language models to enhance explainability in enterprise AI systems via structured, queryable relationships.
 
-- **Explainable AI (XAI) Framework**: Utilizes Neo4j’s graph database to provide transparent reasoning paths for AI decisions, allowing enterprises to audit, trace, and validate model outputs through interconnected data relationships.
+- **Explainable AI (XAI) Framework**: Utilizes graph traversals and natural language generation to provide transparent, interpretable AI decisions by mapping model reasoning paths and dependencies in enterprise datasets.
+
+- **Enterprise Deployment Focus**: Designed for scal
 
 ## Use Cases
 

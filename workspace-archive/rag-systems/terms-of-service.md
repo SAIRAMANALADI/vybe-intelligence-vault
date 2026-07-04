@@ -2,20 +2,19 @@
 title: Terms of Service
 archive_category: rag-systems
 source_category: ai/rag
-source_url: http://youtube.com/t/terms
+source_url: https://scite.ai/terms
 resource_id: blog:terms-of-service
 local_vault_path: ai/rag/terms-of-service.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
-- producthunt
+- hackernews
+- models
 - rag
-- reddit
-- scripts
 - web-crawled
 - youtube
 selection_reason:
@@ -29,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Service Definition & Provider**: YouTube (Google LLC) provides a global platform for video sharing, discovery, and monetization under Delaware jurisdiction, governed by the Alphabet Inc. corporate group, with updates subject to the [Terms of Service](https://www.youtube.com/t/terms), [Community Guidelines](https://www.youtube.com/t/community_guidelines), and [Policy, Safety and Copyright Policies](https://www.youtube.com/t/policies).
+- **Classifier Technology**: Scite’s proprietary classifier analyzes scientific articles to determine if claims are supported or contradicted by subsequent research, providing aggregated results ("Classifier Results") without using user data to train AI models.
 
-- **User Eligibility & Restrictions**: Users must be ≥13
+- **Content Ownership & Restrictions**: All proprietary components (e.g., classifier, usage data) are owned by Scite; users retain rights to their uploaded content but grant Scite a perpetual, irrevocable license to reproduce, modify, an
 
 ## Use Cases
 
@@ -48,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: http://youtube.com/t/terms
+Original source URL: https://scite.ai/terms
 
 ## Local Vault File
 

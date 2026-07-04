@@ -14,7 +14,9 @@ tags:
 - agents
 - anthropic
 - github-repo
+- scripts
 - typescript
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **GitMCP Server**: Open-source TypeScript-based MCP server enabling remote access to any GitHub repository for AI agents, facilitating real-time code interaction without hallucinations.
+- **Remote MCP Server for GitHub**: GitMCP provides a free, open-source remote MCP (Model Context Protocol) server enabling AI agents to interact with any GitHub repository, mitigating code hallucinations by ensuring real-time, accurate data access.
 
-- **Agentic AI Integration**: Designed for seamless integration with AI tools (e.g., Claude, Copilot, Cursor) to provide accurate, context-aware code analysis and modifications via GitHub repositories.
-
-- **Dynamic Repository Sync**: Supports real-time updates and synchronization with GitHub projects, ensuring
+- **TypeScript-Based Implementation**: Built in TypeScript, the server facilitates seamless integration with AI tools (e.g., Claude, Copilot, Cursor) via the MCP standard, supporting agentic workflows for code analysis, automation, and collaboration
 
 ## Use Cases
 

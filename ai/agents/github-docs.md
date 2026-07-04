@@ -3,9 +3,9 @@ title: GitHub Docs
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.github.com
-published_at: '2026-07-04T21:53:10.027402+05:30'
-collected_at: '2026-07-04T21:53:10.027415+05:30'
+source_url: https://docs.github.com/
+published_at: '2026-07-05T01:14:21.458845+05:30'
+collected_at: '2026-07-05T01:14:21.458855+05:30'
 tags:
 - agents
 - scripts
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-docs
-first_seen: '2026-07-04T21:53:10.027415+05:30'
-last_seen: '2026-07-04T21:53:10.027415+05:30'
-last_checked: '2026-07-04T21:53:10.027415+05:30'
+first_seen: '2026-07-05T01:14:21.458855+05:30'
+last_seen: '2026-07-05T01:14:21.458855+05:30'
+last_checked: '2026-07-05T01:14:21.458855+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Core GitHub Functionality**: GitHub integrates Git for local version control and supports secure remote access via SSH, enabling collaborative repository management with features like pull requests, issues, and discussions.
+- **Git Integration & Authentication**: GitHub relies on Git for version control, supporting local operations, while SSH provides secure remote authentication for repository access and management.
 
-- **CI/CD & Security**: GitHub Actions automates workflows, while CodeQL and dependency management tools (e.g., Dependabot) enforce security policies, vulnerability scanning, and supply chain integrity.
+- **Collaborative Workflows**: Pull requests enable code review, discussion, and merging, while GitHub Actions automates CI/CD pipelines for testing, packaging, and deployment.
 
-- **Developer & Enterprise Tools**: REST/GraphQL APIs, GitHub CLI, and Copilot enable automation and AI-assisted coding; enterprise features include SSO, audit logs, and scalable security policies.
+- **Security & Developer Tools**: CodeQL and GitHub Advanced Security detect vulnerabilities, while REST/GraphQL APIs and GitHub CLI facilitate programmatic repository interactions and automation.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-04T21:53:10.027402+05:30
+- Published: 2026-07-05T01:14:21.458845+05:30
 
 ## Related Tags
 
@@ -50,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://docs.github.com
+Original source: https://docs.github.com/

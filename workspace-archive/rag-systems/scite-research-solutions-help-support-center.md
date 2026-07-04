@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Scite's citation analysis** distinguishes between *citations* (raw references) and *citation statements* (contextual mentions in text), enabling classification of citations as supporting, contrasting, or mentioning based on semantic analysis of surrounding text.
+- **Scite's citation analysis** distinguishes between *citations* (mentions) and *citation statements* (contextual references), classifying them as supporting, mentioning, or contrasting to assess research impact and context.
 
-- **Coverage and data integrity** are managed via Scite's proprietary database, which includes over 1.2B citation statements across 50M+ documents; missing citations can be reported for inclusion via a dedicated feedback mechanism.
+- **Coverage and classification** rely on a proprietary database of 1.2B+ citation statements across 50M+ documents, with AI-driven contextual tagging to identify citation intent and potential misclassifications.
+
+- **Functional workflows** include *Reference Check* for pr
 
 ## Use Cases
 

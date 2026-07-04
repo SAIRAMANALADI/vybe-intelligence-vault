@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-07-04T21:49:06.515602+05:30'
+collected_at: '2026-07-05T01:10:12.923300+05:30'
 published_at: '2026-07-04T08:44:37Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
+- meta-ai
+- models
 - rag
 - unknown
 - workflows
@@ -22,9 +23,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-07-04T21:49:06.515602+05:30'
-last_seen: '2026-07-04T21:49:06.515602+05:30'
-last_checked: '2026-07-04T21:49:06.515602+05:30'
+first_seen: '2026-07-05T01:10:12.923300+05:30'
+last_seen: '2026-07-05T01:10:12.923300+05:30'
+last_checked: '2026-07-05T01:10:12.923300+05:30'
 health_score: 100
 ---
 
@@ -32,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset & Benchmark**: Provides a structured dataset and evaluation framework for Retrieval-Augmented Generation (RAG) systems tailored to company internal documents, enabling standardized assessment of performance across key metrics.
-- **Synthetic Data Generation**: Implements synthetic data generation techniques to simulate enterprise-specific queries and document structures, facilitating scalable and reproducible RAG evaluations.
-- **Multi-Topic Evaluation Suite**: Covers a broad range of RAG-related challenges including semantic search, information retrieval, LLM evaluation, and enterprise search, with support for Python-based implementations and integration with generative AI workflows.
+- **Benchmark & Dataset**: EnterpriseRAG-Bench provides a synthetic dataset and benchmark for evaluating Retrieval-Augmented Generation (RAG) systems on company internal documents, enabling standardized testing of retrieval and generation performance in enterprise contexts.
+
+- **Evaluation Focus**: Supports evaluation of key RAG components including semantic search, information retrieval, and LLM-based question answering, with metrics for assessing accuracy, relevance, and hallucination rates in enterprise knowledge bases.
+
+- **Tools & Integration**: Includes Python-based synthetic data generation, retrieval evaluation frameworks, and compatibility with popular RAG pipelines (e.g., LangChain, LlamaIndex) for seamless integration into existing enterprise LLM workflows.
 
 ## Why It Matters
 

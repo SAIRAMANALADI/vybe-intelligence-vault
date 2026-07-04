@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: A curated collection of Jupyter Notebooks demonstrating practical implementations and best practices for interacting with the OpenAI API, including GPT-4 and ChatGPT models.
-
-- **Technical Scope**: Covers advanced API usage patterns, fine-tuning guides, prompt engineering techniques, and integration examples for real-world applications (e.g., chatbots, content generation, and data analysis).
-
-- **Community & Maintenance**: Actively maintained with 74.5k+ stars and 12.6
+- **Repository Content**: Contains Jupyter Notebook examples and guides demonstrating practical implementations of the OpenAI API, covering models like GPT-4 and ChatGPT.
+- **Technical Scope**: Focuses on real-world use cases, including API integration, prompt engineering, and advanced model interactions for developers.
+- **Metadata**: Maintained by OpenAI, last updated July 2026, with 74,542 stars and 12,612 forks, primarily written in Jupyter Notebook format.
 
 ## Use Cases
 

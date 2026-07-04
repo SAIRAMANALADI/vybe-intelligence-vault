@@ -37,7 +37,11 @@ selection_reason:
 
 ## Summary
 
-*   Transforms raw documents into a queryable RAG system, an autonomous reasoning agent, and
+- **Modular LLM Knowledge Platform**: Transforms raw documents into a queryable RAG system, autonomous reasoning agent, and self-maintaining Wiki using Go, supporting multimodal and multi-tenant architectures.
+
+- **Advanced Retrieval & Generation**: Integrates embeddings, vector search, reranking, and semantic search with OpenAI/Ollama models for enhanced question-answering and generative AI capabilities.
+
+- **Scalable & Self-Sustaining**: Features automated evaluation, knowledge base maintenanc
 
 ## Use Cases
 

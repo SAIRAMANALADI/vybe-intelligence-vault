@@ -8,13 +8,14 @@ local_vault_path: ai/agents/avdlee-swiftui-agent-skill.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
 - github-repo
 - hackernews
 - python
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -25,15 +26,17 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: tutorial
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Purpose**: Provides expert SwiftUI best practices as an AI coding tool skill in the open Agent Skills format.
-- **Technical Stack**: Implemented in Python for integration with AI agents requiring SwiftUI guidance.
-- **Metadata**: 3.1k+ stars, 148 forks, last updated July 2026.
+- **Repository Purpose**: Provides expert SwiftUI best practices as an AI coding tool skill in the Agent Skills open format, enabling AI agents to generate optimized SwiftUI code.
+
+- **Technical Details**: Implemented in Python, last updated on **2026-07-04**, with **3,175 stars** and **148 forks**, serving as a curated reference for SwiftUI development guidelines.
+
+- **Integration**: Designed for AI agents to enhance SwiftUI code generation quality by embedding best practices directly into work
 
 ## Use Cases
 

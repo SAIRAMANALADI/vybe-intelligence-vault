@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-07-04T21:49:51.495486+05:30'
+collected_at: '2026-07-05T01:10:57.941225+05:30'
 published_at: '2026-07-04T15:08:30Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - models
 - python
 - rag
+- workflows
 stars: 2458
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-01-29T02:49:11Z'
 pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
-first_seen: '2026-07-04T21:49:51.495486+05:30'
-last_seen: '2026-07-04T21:49:51.495486+05:30'
-last_checked: '2026-07-04T21:49:51.495486+05:30'
+first_seen: '2026-07-05T01:10:57.941225+05:30'
+last_seen: '2026-07-05T01:10:57.941225+05:30'
+last_checked: '2026-07-05T01:10:57.941225+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering; includes enterprise deployment, fine-tuning, and end-to-end project deployment from scratch to production.
+- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering; includes enterprise deployment, fine-tuning, and end-to-end project deployment workflows.
 
-- **Practical Learning Path**: Integrates hands-on projects, interview preparation, and a skill-specific repository targeting AI application development roles (e.g., AI Agent Engineer).
+- **Practical & Interview-Ready**: Provides hands-on projects, interview question banks, and aligns with AI application development engineer roles; structured for zero-to-enterprise proficiency.
 
-- **Toolchain & Ecosystem**: Focuses on Python-based agent frameworks (e.g., DeepAgents, LangChain), AIGC tools (e.g., Cursor), and modular components (skills, MCP) for scalable AI agent development.
+- **Multi-Framework & Tool Integration**: Integrates skills, LLM APIs, and agent frameworks (e.g., DeepAgents) with tools like Cursor; updated July 2026, Python-based, 2.4k+ stars.
 
 ## Why It Matters
 

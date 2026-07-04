@@ -5,8 +5,8 @@ category: ai/companies/anthropic
 source_type: company_blog
 source_name: Anthropic News
 source_url: https://anthropic.com/news/claude-sonnet-5
-published_at: '2026-07-04T21:47:03.959453+05:30'
-collected_at: '2026-07-04T21:47:03.959460+05:30'
+published_at: '2026-07-05T01:08:14.496907+05:30'
+collected_at: '2026-07-05T01:08:14.496918+05:30'
 tags:
 - agents
 - anthropic
@@ -15,8 +15,8 @@ tags:
 status: active
 resource_id: blog:productjun-30-2026introducing-claude-sonnet-5sonne
 first_seen: '2026-07-01T01:50:04.779161+05:30'
-last_seen: '2026-07-04T21:47:03.959460+05:30'
-last_checked: '2026-07-04T21:47:03.959460+05:30'
+last_seen: '2026-07-05T01:08:14.496918+05:30'
+last_checked: '2026-07-05T01:08:14.496918+05:30'
 health_score: 100
 ---
 
@@ -34,7 +34,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Anthropic News
 - Article URL: https://anthropic.com/news/claude-sonnet-5
-- Collected At: 2026-07-04T21:47:03.959460+05:30
+- Collected At: 2026-07-05T01:08:14.496918+05:30
 
 ## Related Tags
 

@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Scalable Alert Management**: GitHub processed **20,000+ secret scanning alerts** across **15,000 repositories**, implementing automated triage and prioritization to reduce noise.
+- **Alert Volume & Scope**: GitHub processed **20,000+ secret scanning alerts** across **15,000 repositories**, necessitating automated triage and remediation workflows.
 
-- **Automated Remediation Workflows**: Deployed **custom GitHub Actions workflows** to auto-remediate or escalate secrets, integrating with **GitHub Advanced Security** for policy enforcement.
+- **Signal-to-Noise Optimization**: Implemented **machine learning-based filtering** and **contextual analysis** to distinguish high-risk secrets from false positives, reducing alert fatigue.
 
-- **Inbox Zero Achievement**: Reduced alert backlog to **zero in 9 months** via **machine learning-based classification**,
+- **Inbox Zero Achievement**: Achieved **9-month turnaround** via **automated remediation pipelines**, **GitHub Actions workflows**, and
 
 ## Use Cases
 

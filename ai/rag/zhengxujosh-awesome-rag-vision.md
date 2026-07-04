@@ -4,14 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-07-04T21:48:56.461740+05:30'
+collected_at: '2026-07-05T01:10:02.889554+05:30'
 published_at: '2026-07-03T02:13:34Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - hackernews
-- paper
 - rag
 - unknown
 stars: 338
@@ -21,9 +18,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-07-04T21:48:56.461740+05:30'
-last_seen: '2026-07-04T21:48:56.461740+05:30'
-last_checked: '2026-07-04T21:48:56.461740+05:30'
+first_seen: '2026-07-05T01:10:02.889554+05:30'
+last_seen: '2026-07-05T01:10:02.889554+05:30'
+last_checked: '2026-07-05T01:10:02.889554+05:30'
 health_score: 100
 ---
 
@@ -31,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG-Vision Resources**: Repository aggregates advanced retrieval-augmented generation (RAG) techniques specifically tailored for computer vision applications, including multimodal models, cross-modal retrieval, and vision-language integration.
-- **Multimodal RAG Frameworks**: Includes implementations and papers on combining visual features (e.g., CNNs, ViTs) with textual retrieval for tasks like image captioning, visual question answering (VQA), and zero-shot recognition.
-- **Evaluation & Benchmarks**: Provides datasets and metrics for assessing RAG-Vision systems, such as retrieval accuracy, generation quality, and cross-modal alignment performance.
+- **Curated RAG-Vision Resources**: Repository aggregates advanced retrieval-augmented generation (RAG) techniques specifically tailored for computer vision applications, including multimodal retrieval, vision-language models, and hybrid architectures.
+
+- **Technical Scope**: Encompasses cutting-edge methods such as cross-modal retrieval, zero-shot learning, and domain-adaptive RAG pipelines optimized for visual data interpretation and generation.
+
+- **Community & Updates**: Maintained with periodic updates (last: 2026-07-03), featuring contributions from 338 stars and 9 forks, though language and topic metadata are unspecified.
 
 ## Why It Matters
 

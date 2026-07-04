@@ -4,13 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Danielskry/Awesome-RAG
-collected_at: '2026-07-04T21:48:51.488101+05:30'
-published_at: '2026-07-04T12:52:43Z'
+collected_at: '2026-07-05T01:09:57.865586+05:30'
+published_at: '2026-07-04T18:17:22Z'
 tags:
 - github-repo
+- hackernews
+- meta-ai
+- mistral
+- models
 - rag
 - unknown
-stars: 1291
+stars: 1294
 language: Unknown
 status: active
 license: CC0-1.0
@@ -18,9 +22,9 @@ archived: false
 created_at: '2024-04-12T14:45:44Z'
 pushed_at: '2026-06-30T10:58:04Z'
 resource_id: github:danielskry/awesome-rag
-first_seen: '2026-07-04T21:48:51.488101+05:30'
-last_seen: '2026-07-04T21:48:51.488101+05:30'
-last_checked: '2026-07-04T21:48:51.488101+05:30'
+first_seen: '2026-07-05T01:09:57.865586+05:30'
+last_seen: '2026-07-05T01:09:57.865586+05:30'
+last_checked: '2026-07-05T01:09:57.865586+05:30'
 health_score: 100
 ---
 
@@ -28,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Aggregates applications, frameworks, and tools leveraging Retrieval-Augmented Generation (RAG) in generative AI, covering LLMs, vector databases, and retrieval mechanisms.
-- **High Engagement Metrics**: Maintains 1,291 stars and 161 forks, indicating strong community interest and adoption in RAG research/application development.
-- **Multi-Topic Repository**: Encompasses topics like AI, generative models, LLMs, and RAG-specific implementations, last updated July 4, 2026.
+- **Curated RAG Applications**: Repository aggregates cutting-edge Retrieval-Augmented Generation (RAG) implementations, frameworks, and tools in Generative AI, spanning LLMs, NLP, and multimodal systems.
+- **High-Activity Open Source Project**: Maintained with 1,294 stars and 161 forks, indicating strong community engagement and rapid updates (last commit: 2026-07-04).
+- **Multi-Topic Coverage**: Encompasses core RAG methodologies, domain-specific applications (e.g., legal, medical), and integration techniques with vector databases (e.g., Pinecone, Weaviate) and LLMs (e.g., Llama, Mistral).
 
 ## Why It Matters
 
@@ -39,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Danielskry
-- Stars: 1291
+- Stars: 1294
 - Forks: 161
 - Language: Unknown
 - Topics: artificial-intelligence, generative-ai, large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-07-04T12:52:43Z
+- Last Updated: 2026-07-04T18:17:22Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2024-04-12T14:45:44Z

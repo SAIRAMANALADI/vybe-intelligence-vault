@@ -6,12 +6,13 @@ source_url: https://github.com/TencentCloudADP/youtu-graphrag
 resource_id: github:tencentcloudadp/youtu-graphrag
 local_vault_path: ai/rag/tencentcloudadp-youtu-graphrag.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
 - python
 - rag
@@ -25,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., graph constructor, retriever, reasoner) collaborate hierarchically for complex reasoning tasks, leveraging GraphRAG for structured knowledge integration.
+- **Unified Multi-Agent Framework**: Introduces a vertically integrated agent system for Graph Retrieval-Augmented Generation (GraphRAG), enabling complex reasoning by dynamically coordinating specialized agents (e.g., retrieval, reasoning, and synthesis) over graph-structured data.
 
-- **Graph Retrieval-Augmented Reasoning**: Combines graph-based retrieval with LLM-driven reasoning, enabling dynamic knowledge graph traversal and context-aware responses for multi-hop queries and complex problem-solving.
-
-- **Optimized Archite
+- **Graph-Centric RAG Pipeline**: Implements a hierarchical graph retrieval mechanism that decomposes queries into sub-queries, traverses graph structures (e.g., knowledge graphs, social networks) to extract relevan
 
 ## Use Cases
 

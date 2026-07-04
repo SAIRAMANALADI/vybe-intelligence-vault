@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-07-04T21:47:58.007743+05:30'
-collected_at: '2026-07-04T21:47:58.007753+05:30'
+published_at: '2026-07-05T01:09:02.545022+05:30'
+collected_at: '2026-07-05T01:09:02.545033+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-07-04T21:47:58.007753+05:30'
-last_seen: '2026-07-04T21:47:58.007753+05:30'
-last_checked: '2026-07-04T21:47:58.007753+05:30'
+first_seen: '2026-07-05T01:09:02.545033+05:30'
+last_seen: '2026-07-05T01:09:02.545033+05:30'
+last_checked: '2026-07-05T01:09:02.545033+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings, vector DBs like Supabase) and generation (LLMs) with chunking strategies (e.g., semantic splitting) to mitigate hallucinations and improve contextual relevance.
+- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like late-interaction or distillation), vector storage (e.g., Supabase), and retrieval-augmented generation with LLM integration (LangChain/PyTorch).
 
-- **Production Optimizations**: Implements hybrid search (dense + sparse retrieval), query rewriting, caching (e.g., Redis), and load balancing across models to reduce latency (~50-80% reported) and token costs while ensuring scalability via Cloudflare Workers.
+- **Production Optimization**: Implements hybrid search (dense + sparse retrieval), query expansion/rewriting, caching strategies, and load balancing across multiple models; benchmarks show latency reductions via Supabase vector indexing and Cloudflare Workers deployment.
 
-- **Monitoring & Debugging**: Integrates Sentry for observability, tracks pipeline latency breakdowns (retrieval vs. generation phases), and enforces security/privacy via data sanitization and access controls in multi-modal RAG systems.
+- **Monitoring & Scalability**: Integrates Sentry for observability, tracks token usage vs. performance trade-offs, and enforces security/privacy via multi-modal data handling (PDFs/images) and hallucination mitigation techniques.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T21:47:58.007743+05:30
+- Published: 2026-07-05T01:09:02.545022+05:30
 
 ## Related Tags
 

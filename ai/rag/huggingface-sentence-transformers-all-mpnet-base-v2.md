@@ -4,8 +4,8 @@ category: ai/rag
 source_type: huggingface_model
 source_name: Hugging Face Trending Models
 source_url: https://huggingface.co/sentence-transformers/all-mpnet-base-v2
-published_at: '2026-07-04T21:47:03.606202+05:30'
-collected_at: '2026-07-04T21:47:03.606213+05:30'
+published_at: '2026-07-05T01:08:13.187439+05:30'
+collected_at: '2026-07-05T01:08:13.187449+05:30'
 tags:
 - dataset
 - hf-model
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: huggingface:sentence-transformers/all-mpnet-base-v2
 first_seen: '2026-06-18T23:35:18.374822+05:30'
-last_seen: '2026-07-04T21:47:03.606213+05:30'
-last_checked: '2026-07-04T21:47:03.606213+05:30'
+last_seen: '2026-07-05T01:08:13.187449+05:30'
+last_checked: '2026-07-05T01:08:13.187449+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Trending Models
 - Category: ai/rag
-- Published: 2026-07-04T21:47:03.606202+05:30
+- Published: 2026-07-05T01:08:13.187439+05:30
 
 ## Related Tags
 

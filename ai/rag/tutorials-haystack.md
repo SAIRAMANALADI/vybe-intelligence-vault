@@ -4,11 +4,12 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-07-04T19:41:43.192066+05:30'
-collected_at: '2026-07-04T19:41:43.192079+05:30'
+published_at: '2026-07-05T01:14:19.860526+05:30'
+collected_at: '2026-07-05T01:14:19.860534+05:30'
 tags:
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag
@@ -17,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-07-04T19:41:43.192079+05:30'
-last_seen: '2026-07-04T19:41:43.192079+05:30'
-last_checked: '2026-07-04T19:41:43.192079+05:30'
+first_seen: '2026-07-05T01:14:19.860534+05:30'
+last_seen: '2026-07-05T01:14:19.860534+05:30'
+last_checked: '2026-07-05T01:14:19.860534+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Evaluation Guide**: Provides a structured walkthrough for assessing Haystack pipelines, covering statistical and model-based metrics for RAG evaluation.
+- **Evaluation Framework**: Haystack provides a guided walkthrough for evaluating RAG pipelines using statistical and model-based metrics, covering both retrieval and generation quality assessment.
 
-- **Agentic RAG with Fallback**: Demonstrates a pipeline that routes queries to web-based RAG when primary retrieval fails, enhancing robustness via conditional logic.
+- **Agentic Architectures**: Tutorials demonstrate advanced agent systems, including multi-agent workflows, tool-calling agents with web search integration, and conversational RAG with `InMemoryChatMessageStore` for multi-turn interactions.
 
-- **Multimodal RAG Pipeline**: Details a vision+text RAG implementation, enabling question-answering grounded in both image and textual data.
+- **Multimodal & Optimization Techniques**: Haystack supports multimodal RAG (vision+text), KV cache compression via TurboQuant for consumer GPUs, and hybrid retrieval combining keyword and dense retrieval methods.
 
 ## Why It Matters
 
@@ -41,12 +42,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T19:41:43.192066+05:30
+- Published: 2026-07-05T01:14:19.860526+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag

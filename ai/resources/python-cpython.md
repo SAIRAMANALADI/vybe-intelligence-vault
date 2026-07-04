@@ -1,30 +1,28 @@
 ---
-title: Issues · python/cpython · GitHub
+title: cpython/Lib/sysconfig at 3.14 · python/cpython · GitHub
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/python/cpython/issues
-published_at: '2026-06-29T01:24:46.839845+05:30'
-collected_at: '2026-06-29T01:24:46.839859+05:30'
+source_url: https://github.com/python/cpython/tree/3.14/Lib/sysconfig
+published_at: '2026-07-05T01:20:38.627000+05:30'
+collected_at: '2026-07-05T01:20:38.627010+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: github:python/cpython
-first_seen: '2026-06-29T01:24:46.839859+05:30'
-last_seen: '2026-06-29T01:24:46.839859+05:30'
-last_checked: '2026-06-29T01:24:46.839859+05:30'
+first_seen: '2026-07-05T01:20:38.627010+05:30'
+last_seen: '2026-07-05T01:20:38.627010+05:30'
+last_checked: '2026-07-05T01:20:38.627010+05:30'
 health_score: 100
 ---
 
-# Issues · python/cpython · GitHub
+# cpython/Lib/sysconfig at 3.14 · python/cpython · GitHub
 
 ## Summary
 
-- **CPython GitHub Repository**: Official implementation of Python (34.8k forks, 73.6k stars) with active development tracked via 5k+ open issues and 2.2k pull requests.
-
-- **Critical Bug Reports**: Recent issues include email address parsing corruption with RFC 2047 encoded-words (#152519), `curses` library inconsistencies (#152503, #152502), and `ZipFile` ZIP64 field inconsistencies (#152486).
-
-- **Platform-Specific Enhancements**: Feature requests target UWP/Xbox compatibility (#152433) and asyncio TLS transport synchronization (#152431), alongside REPL/IDLE error handling (#152490).
+- **Repository**: CPython is the reference implementation of Python, hosted on GitHub under `python/cpython`, with 34.8k forks and 73.5k stars.
+- **Codebase**: The `Lib/sysconfig` directory in the 3.14 branch contains Python's `sysconfig` module, which provides system-specific configuration details for the interpreter.
+- **Files**: The `sysconfig` module includes `__init__.py` (core module initialization) and `__main__.py` (executable script for module execution).
 
 ## Why It Matters
 
@@ -34,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-29T01:24:46.839845+05:30
+- Published: 2026-07-05T01:20:38.627000+05:30
 
 ## Related Tags
 
@@ -42,4 +40,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/python/cpython/issues
+Original source: https://github.com/python/cpython/tree/3.14/Lib/sysconfig
