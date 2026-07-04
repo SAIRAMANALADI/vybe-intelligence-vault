@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.docker.com/get-docker/
-published_at: '2026-07-04T01:24:51.992390+05:30'
-collected_at: '2026-07-04T01:24:51.992399+05:30'
+published_at: '2026-07-04T21:51:13.730305+05:30'
+collected_at: '2026-07-04T21:51:13.730317+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:get-docker-docker-docs
-first_seen: '2026-07-04T01:24:51.992399+05:30'
-last_seen: '2026-07-04T01:24:51.992399+05:30'
-last_checked: '2026-07-04T01:24:51.992399+05:30'
+first_seen: '2026-07-04T21:51:13.730317+05:30'
+last_seen: '2026-07-04T21:51:13.730317+05:30'
+last_checked: '2026-07-04T21:51:13.730317+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- Docker provides an open platform for developing, shipping, and running applications in isolated, portable containers, decoupling software from infrastructure for faster delivery.
+- **Platform Overview**: Docker is an open platform for developing, shipping, and running applications in isolated containers, enabling rapid software delivery by decoupling applications from infrastructure.
 
-- Docker Desktop offers native applications for macOS, Windows, and Linux, providing a consistent environment for containerized development with sandboxed security on macOS and Windows.
+- **Installation Options**: Docker provides native applications (Docker Desktop) for macOS, Windows, and Linux, with enterprise use requiring a paid subscription for larger organizations.
 
-- Commercial use of Docker Desktop in enterprises (>250 employees or >$10M revenue) requires a paid subscription; Docker Engine installation differs and is documented separately.
+- **Alternate Installation**: For Docker Engine (without Desktop), refer to the [Docker Engine installation overview](https://docs.docker.com/engine/install/) for platform-specific setup.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-04T01:24:51.992390+05:30
+- Published: 2026-07-04T21:51:13.730305+05:30
 
 ## Related Tags
 

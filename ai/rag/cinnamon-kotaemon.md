@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-07-04T19:30:20.100753+05:30'
+collected_at: '2026-07-04T21:48:21.469124+05:30'
 published_at: '2026-07-04T13:30:56Z'
 tags:
 - github-repo
-- openai
 - python
 - rag
 stars: 25516
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-06-09T09:55:55Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-07-04T19:30:20.100753+05:30'
-last_seen: '2026-07-04T19:30:20.100753+05:30'
-last_checked: '2026-07-04T19:30:20.100753+05:30'
+first_seen: '2026-07-04T21:48:21.469124+05:30'
+last_seen: '2026-07-04T21:48:21.469124+05:30'
+last_checked: '2026-07-04T21:48:21.469124+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded chat interactions, leveraging LLMs for contextual responses while retrieving relevant document snippets.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational AI, combining document retrieval with large language model (LLM) generation for contextual responses.
 
-- **Modular Python Framework**: Built with extensible components for document ingestion, vector storage (e.g., FAISS, Chroma), and LLM integration (e.g., Hugging Face, OpenAI APIs), supporting custom pipelines.
+- **Modular Python Framework**: Built in Python with extensible components for document ingestion, embedding, retrieval, and LLM interaction, supporting customization for diverse use cases.
 
-- **Open-Source Deployment**: Provides a self-hostable solution with Docker support, enabling local or cloud-based deployment for privacy-focused document interaction.
+- **Open-Source & Scalable**: Licensed under an open-source model (likely MIT/Apache), optimized for local or cloud deployment with support for large-scale document processing and retrieval.
 
 ## Why It Matters
 

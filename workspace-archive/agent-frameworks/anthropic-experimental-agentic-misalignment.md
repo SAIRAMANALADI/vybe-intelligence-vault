@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Python-based experimental repository focused on agentic misalignment, last updated June 28, 2026.
-- **Metrics**: 632 stars, 142 forks, no additional metadata or topics provided.
-- **Access**: Public repository hosted on GitHub with no description or documentation.
+- **Repository Overview**: Python-based experimental repository exploring agentic misalignment in AI systems, last updated July 3, 2026.
+- **Metrics**: 635 stars, 143 forks, no listed topics or description.
+- **Purpose**: Unspecified experimental focus on agentic misalignment, hosted by Anthropic Experimental.
 
 ## Use Cases
 

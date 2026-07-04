@@ -8,7 +8,7 @@ local_vault_path: ai/agents/greensock-gsap-skills.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -16,6 +16,7 @@ tags:
 - github-repo
 - hackernews
 - unknown
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -26,15 +27,15 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: workflow
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
 - **GSAP AI Skills Repository**: Provides structured training for AI agents on GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration.
-- **Technical Scope**: Focuses on core GSAP functionality, including timeline management, easing functions, and advanced animation techniques.
-- **Repository Metrics**: 10,839 stars, 639 forks, last updated July 4, 2026. Language unspecified; no additional topics listed.
+- **Technical Focus**: Includes optimized workflows for GSAP’s core engine, advanced sequencing, and performance optimizations for complex animations.
+- **Last Updated**: Repository was last synced on **2026-07-04**, ensuring alignment with GSAP’s latest features and methodologies.
 
 ## Use Cases
 

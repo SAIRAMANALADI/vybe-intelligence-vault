@@ -29,7 +29,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face space: Kwai-Kolors/Kolors-Virtual-Try-On (Likes: 10124, Downloads: 0)
+Trending Hugging Face space: Kwai-Kolors/Kolors-Virtual-Try-On (Likes: 10125, Downloads: 0)
 
 ## Use Cases
 

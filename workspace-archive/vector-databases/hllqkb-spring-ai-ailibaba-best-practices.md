@@ -6,16 +6,16 @@ source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
 local_vault_path: ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md
 quality_score: 70
-archive_score: 77
+archive_score: 81
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - java
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Implements Server-Sent Events (SSE) for real-time AI question-answering streams** with Spring AI and Alibaba Cloud services.
+- **AI Q&A System**: Implements **Server-Sent Events (SSE)** for real-time streaming responses, **Agent-based workflows** for dynamic task handling, and **RAG (Retrieval-Augmented Generation)** with **knowledge graphs** for enhanced contextual retrieval.
 
-- **Integrates advanced RAG techniques** including vector databases (Embedding), knowledge graphs, and FunctionCall for enhanced retrieval and agent-based interactions.
-
-- **Supports multimodal processing** with image generation (via AI models), image understanding, and historical message management for context-aware responses.
+- **Multimodal & Functionality**: Supports **image generation/understanding**, **embedding/vector database** integration (e.g., Milvus/Weaviate), **FunctionCall** for tool execution, and **historical message management** for conversational cont
 
 ## Use Cases
 

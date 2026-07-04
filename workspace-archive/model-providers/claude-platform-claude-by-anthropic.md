@@ -8,15 +8,14 @@ local_vault_path: ai/resources/claude-platform-claude-by-anthropic.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - anthropic
-- models
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Claude Platform | Claude by Anthropic
@@ -25,18 +24,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Model Capabilities**: Claude supports advanced natural language processing tasks including code generation, complex reasoning, and contextual understanding across diverse domains.
+- **Model Capabilities**: Claude supports advanced natural language processing tasks including code generation, analysis, and reasoning across multiple programming languages and frameworks.
 
-- **API Integration**: Provides RESTful endpoints for programmatic access, enabling developers to embed Claude’s functionality into applications via structured requests and responses.
+- **API Integration**: Provides RESTful API endpoints for programmatic access, enabling developers to integrate Claude’s capabilities into applications via structured requests and responses.
 
-- **Customization & Fine-Tuning**: Supports model fine-tuning and system prompt customization to optimize performance for specific
+- **Customization & Safety**: Offers configurable parameters (e.g., temperature, max tokens) and built-in safety mech
 
 ## Use Cases
 

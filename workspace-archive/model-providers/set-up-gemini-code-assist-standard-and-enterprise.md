@@ -35,8 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified Platform Transition**: Google Cloud deprecated Gemini Code Assist IDE Extensions and CLI for individual tiers (June 18, 2026), migrating users to **Antigravity** (a multi-agent platform) and **Antigravity CLI** for continuity.
-- **Subscription & License Setup**: Requires purchasing a **Gemini Code Assist Standard/Enterprise** subscription, assigning licenses (auto/manual), enabling the **Gemini for Google Cloud API** (`cloudaicompanion.googleapis.com`), and granting IAM roles (`Gemin
+- **Gemini Code Assist Standard/Enterprise Setup**: Requires admin steps: purchasing a subscription, assigning licenses, enabling the `cloudaicompanion.googleapis.com` API in a Google Cloud project, and granting IAM roles (`roles/cloudaicompanion.user` and `roles/serviceusage.serviceUsageConsumer`).
+
+- **License Management**: Automatic license assignment occurs if users meet conditions (project association, `cloudaicompanion.licences.selfAssign` permission). Manual assignment is configurable via
 
 ## Use Cases
 

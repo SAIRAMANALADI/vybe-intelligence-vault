@@ -4,8 +4,8 @@ category: ai/companies/mistral
 source_type: company_blog
 source_name: Mistral AI News
 source_url: https://mistral.ai/news/more-control-over-connectors
-published_at: '2026-07-04T19:29:13.903863+05:30'
-collected_at: '2026-07-04T19:29:13.903866+05:30'
+published_at: '2026-07-04T21:47:05.108782+05:30'
+collected_at: '2026-07-04T21:47:05.108784+05:30'
 tags:
 - blog-post
 - mistral
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: blog:bringing-more-control-over-your-connectors
 first_seen: '2026-06-24T20:38:11.250574+05:30'
-last_seen: '2026-07-04T19:29:13.903866+05:30'
-last_checked: '2026-07-04T19:29:13.903866+05:30'
+last_seen: '2026-07-04T21:47:05.108784+05:30'
+last_checked: '2026-07-04T21:47:05.108784+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Mistral AI News
 - Article URL: https://mistral.ai/news/more-control-over-connectors
-- Collected At: 2026-07-04T19:29:13.903866+05:30
+- Collected At: 2026-07-04T21:47:05.108784+05:30
 
 ## Related Tags
 

@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-07-04T19:31:25.124376+05:30'
+collected_at: '2026-07-04T21:49:26.537371+05:30'
 published_at: '2026-06-30T16:44:21Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -23,9 +24,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-07-04T19:31:25.124376+05:30'
-last_seen: '2026-07-04T19:31:25.124376+05:30'
-last_checked: '2026-07-04T19:31:25.124376+05:30'
+first_seen: '2026-07-04T21:49:26.537371+05:30'
+last_seen: '2026-07-04T21:49:26.537371+05:30'
+last_checked: '2026-07-04T21:49:26.537371+05:30'
 health_score: 100
 ---
 
@@ -33,9 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples leveraging Llama2, OpenAI, and Anyscale endpoints.
-- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) and optimizing inference via Ray Serve for low-latency, scalable deployment.
-- **End-to-End Tooling**: Provides reference implementations for embedding generation, vector databases, and evaluation frameworks, bridging research and production ML systems.
+- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized fine-tuning techniques.
+- **Modular Architecture**: Leverages Ray’s ecosystem for scalable LLM serving, batch inference, and dynamic resource allocation, with Jupyter Notebooks for reproducible experimentation and deployment.
+- **End-to-End Tooling**: Includes Anyscale integration for cloud-based training, pre/post-processing utilities, and benchmarking tools to evaluate RAG performance in real-world scenarios.
 
 ## Why It Matters
 

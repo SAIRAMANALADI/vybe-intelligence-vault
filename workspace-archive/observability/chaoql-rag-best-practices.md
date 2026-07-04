@@ -12,8 +12,10 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
-- dataset
 - github-repo
+- hackernews
+- meta-ai
+- models
 - python
 - rag
 selection_reason:
@@ -34,9 +36,8 @@ selection_reason:
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular components for indexing, retrieval, and generation, leveraging vector databases (e.g., FAISS, Chroma) and embedding models (e.g., Sentence-BERT, BAAI/bge).
-- **Hybrid Retrieval Strategies**: Supports multi-stage retrieval (dense + sparse) with reranking (e.g., cross-encoder models) to balance precision/recall and mitigate hallucinations in LLM outputs.
-- **Evaluation & Benchmarking**: In
+- **RAG Optimization Framework**: Implements advanced retrieval-augmented generation (RAG) techniques with modular components for indexing, retrieval, and generation, leveraging vector databases (e.g., FAISS, Chroma) and LLMs (e.g., Llama, Qwen) for hybrid search strategies.
+- **Dynamic Retrieval Strategies**: Supports adaptive retrieval mechanisms (e.g., query rewriting, multi-hop retrieval) and hybrid fusion of dense/sparse embeddings to mitigate hallucinations and improve contextual relevance
 
 ## Use Cases
 

@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Model Specifications**: New `text-embedding-3-small` (1536-dim) and `text-embedding-3-large` (3072-dim) models offer lower costs, improved multilingual performance, and configurable dimensionality via the `dimensions` parameter, enabling trade-offs between vector size and accuracy.
+- **New Embedding Models**: `text-embedding-3-small` and `text-embedding-3-large` offer lower costs, improved multilingual performance, and configurable embedding dimensions (default: 1536/3072) via the `dimensions` parameter, enabling trade-offs between performance and resource usage.
 
-- **Embedding Generation**: Embeddings are generated via API calls to `/v1/embeddings` with input text, returning a vector of floating-point numbers; token-based pricing applies (e.g., ~62.5k pages per dollar for
+- **Embedding Mechanics**: Text embeddings are high-dimensional vectors (floating-point lists) where semantic relatedness is measured via vector distance (e.g., cosine similarity); tokens are billed per API reque
 
 ## Use Cases
 

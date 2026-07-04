@@ -1,8 +1,8 @@
 ---
-title: deepset-ai/haystack · Discussions · GitHub
+title: deepset-ai/haystack
 archive_category: agent-frameworks
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack/discussions
+source_url: https://github.com/deepset-ai/haystack
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
@@ -12,16 +12,19 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- anthropic
+- github-repo
+- mdx
+- models
+- openai
 - rag
-- web-crawled
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# deepset-ai/haystack · Discussions · GitHub
+# deepset-ai/haystack
 
 ## Why This Is In The Archive
 
@@ -34,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Haystack** is an open-source framework by **deepset-ai** for building **RAG (Retrieval-Augmented Generation)** pipelines, with **25.8k stars** and **2.9k forks** on GitHub.
-- **Active development** includes discussions on **debugging retrieval failures**, **runtime security** (e.g., `AgentShield` for pipeline tool calls), and **diagnostics engines** for RAG validation.
-- **Community-driven extensions** include **async execution bridges**, **LLM usage tracking**, and **OWASP-compliant memory
+- **Modular AI Orchestration**: Haystack enables building production-grade LLM applications via configurable pipelines with explicit control over retrieval, routing, memory, and generation components, supporting scalable agents, RAG, and multimodal systems.
+
+- **Context-Engineered Design**: Optimized for semantic search, conversational AI, and information retrieval, leveraging transformers (PyTorch) and integration with models like GPT-4/Gemini for enhanced context-aware generation.
+
+- **Extensi
 
 ## Use Cases
 
@@ -46,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack/discussions
+Original source URL: https://github.com/deepset-ai/haystack
 
 ## Local Vault File
 

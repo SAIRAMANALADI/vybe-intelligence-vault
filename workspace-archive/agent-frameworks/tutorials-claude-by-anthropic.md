@@ -8,7 +8,7 @@ local_vault_path: ai/agents/tutorials-claude-by-anthropic.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - workflows
 - youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Tutorials | Claude by Anthropic
@@ -26,17 +26,17 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Model Suite**: Anthropic offers five LLM variants—Mythos, Fable, Opus, Sonnet, and Haiku—each optimized for different performance/cost trade-offs, with Opus being the most capable and Haiku the fastest.
+- **Model Architecture**: Claude offers multiple model variants (Haiku, Sonnet, Opus, Fable, Mythos) optimized for different latency, cost, and capability trade-offs, with Fable and Opus targeting high-complexity reasoning tasks.
 
-- **API & Integration**: The platform provides a RESTful API with tiered pricing, developer documentation, and a console for managing deployments, alongside connectors/plugins for ecosystem integration.
+- **Integration Framework**: Supports extensibility via Skills, Connectors, Plugins, and API-driven workflows, enabling custom AI agent orchestration and third-party system integration.
 
-- **Vertical Solutions**: Pre-built workflows target legal, security, healthcare, and fi
+- **Domain-Specific Applications**: Provides specialized applications (Claude Scie
 
 ## Use Cases
 

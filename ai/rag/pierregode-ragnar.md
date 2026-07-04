@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PierreGode/Ragnar
-collected_at: '2026-07-04T19:31:10.105436+05:30'
+collected_at: '2026-07-04T21:49:11.499225+05:30'
 published_at: '2026-07-04T09:43:53Z'
 tags:
-- agents
 - github-repo
 - paper
 - python
@@ -18,11 +17,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2025-11-01T03:12:25Z'
-pushed_at: '2026-07-04T12:24:37Z'
+pushed_at: '2026-07-04T16:01:38Z'
 resource_id: github:pierregode/ragnar
-first_seen: '2026-07-04T19:31:10.105436+05:30'
-last_seen: '2026-07-04T19:31:10.105436+05:30'
-last_checked: '2026-07-04T19:31:10.105436+05:30'
+first_seen: '2026-07-04T21:49:11.499225+05:30'
+last_seen: '2026-07-04T21:49:11.499225+05:30'
+last_checked: '2026-07-04T21:49:11.499225+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Network Scanning & Offensive Security Tool**: Ragnar is a Python-based utility designed for Raspberry Pi, integrating a 2.13-inch e-Paper HAT to perform network discovery, port scanning, service enumeration, and vulnerability assessment.
+- **Network Scanning Tool**: Ragnar is a Python-based offensive security tool designed for Raspberry Pi, integrating a 2.13-inch e-Paper HAT for network discovery, including targets, open ports, exposed services, and vulnerabilities.
 
-- **Autonomous Target Identification**: The tool autonomously identifies network targets, enumerates open ports, and detects exposed services, enabling offensive security operations directly from the Raspberry Pi platform.
+- **Automated Reconnaissance**: Leverages Python to perform automated network scanning, identifying potential attack vectors and security weaknesses in discovered services.
 
-- **Project Metadata**: Hosted on GitHub with 656 stars and 58 forks; last updated on **2026-07-04**, indicating active development.
+- **Hardware Integration**: Utilizes a Raspberry Pi with a 2.13-inch e-Paper HAT for display and portability, enabling on-the-go offensive security operations.
 
 ## Why It Matters
 
@@ -51,7 +50,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2025-11-01T03:12:25Z
-- Pushed At: 2026-07-04T12:24:37Z
+- Pushed At: 2026-07-04T16:01:38Z
 
 ## Possible Use Cases
 

@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Scaled Data Access**: Researchers receive extensive quota-limited access to YouTube’s public data corpus for in-depth analysis.
-- **Global Insights & Support**: Participants can derive insights from worldwide YouTube datasets while receiving technical guidance from YouTube’s team.
-- **Eligibility & Policies**: Researchers must confirm eligibility and comply with program policies outlined in the provided documentation before applying.
+- **Scaled Data Access**: Provides researchers with extensive quota to YouTube’s public data corpus for in-depth analysis.
+- **Global Insights & Support**: Enables derivation of insights from global YouTube datasets with technical guidance and support from YouTube.
+- **Eligibility & Policies**: Researchers must confirm eligibility and comply with program policies before applying via [research.youtube](https://research.youtube/policies).
 
 ## Use Cases
 

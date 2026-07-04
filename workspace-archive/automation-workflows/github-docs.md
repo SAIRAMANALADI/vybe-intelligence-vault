@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Core GitHub Infrastructure**: GitHub relies on Git (open-source VCS) for local version control, supports SSH for secure remote connections, and provides repository management (creation, naming, and location handling).
+- **Core GitHub Functionality**: GitHub integrates Git for local version control and supports secure remote access via SSH, enabling collaborative repository management with features like pull requests, issues, and discussions.
 
-- **Collaboration & Workflows**: Pull requests enable code proposal, review, and merging; GitHub Actions automates CI/CD pipelines; GitHub Discussions facilitates team communication.
+- **CI/CD & Security**: GitHub Actions automates workflows, while CodeQL and dependency management tools (e.g., Dependabot) enforce security policies, vulnerability scanning, and supply chain integrity.
 
-- **Security & Developer Tools**: GitHub supports authentication via passwords, tokens, and S
+- **Developer & Enterprise Tools**: REST/GraphQL APIs, GitHub CLI,
 
 ## Use Cases
 

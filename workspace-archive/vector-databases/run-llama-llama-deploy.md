@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework for Agentic Workflow Deployment**: Python-based framework enabling production deployment of agentic workflows, supporting multi-agent systems and integration with LlamaIndex and LLMs.
-
-- **Modular Architecture**: Designed for scalability and flexibility, allowing decomposition of complex workflows into reusable, deployable components.
-
-- **Active Development**: Last updated in June 2026, indicating ongoing maintenance and feature enhancements for enterprise-grade agent deployment.
+- **Framework for Agentic Workflow Deployment**: Python-based framework enabling production deployment of agentic workflows, leveraging LLM integration for multi-agent orchestration.
+- **Multi-Agent Orchestration**: Supports complex workflows with multiple agents, utilizing LlamaIndex for data indexing and retrieval.
+- **Scalable Production Deployment**: Designed for scalable, real-world deployment with modular architecture, facilitating integration into existing infrastructure.
 
 ## Use Cases
 

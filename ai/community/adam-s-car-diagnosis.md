@@ -13,13 +13,14 @@ collected_at: '2026-07-04T19:29:11.205862+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:adam-s/car-diagnosis
 first_seen: '2026-07-04T16:32:00.652991+05:30'
 last_seen: '2026-07-04T19:29:11.205862+05:30'
 last_checked: '2026-07-04T19:29:11.205862+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining
 

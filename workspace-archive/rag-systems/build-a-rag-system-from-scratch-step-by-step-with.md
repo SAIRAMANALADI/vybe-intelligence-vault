@@ -7,7 +7,7 @@ source_url: https://nerdleveltech.com/guides/rag-hands-on-tutorial
 resource_id: blog:build-a-rag-system-from-scratch-step-by-step-with
 local_vault_path: ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md
 quality_score: 70
-archive_score: 78
+archive_score: 80
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -32,7 +32,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 78 (useful)
+- Quality score: 70 | Archive score: 80 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid Retrieval Pipeline**: Combines BM25 keyword search (exact term matching) with vector search (semantic similarity) using `BM25Retriever` and `Chroma` vector store, then reranks top 20 candidates with a free cross-encoder (`cross-encoder/ms-marco-MiniLM-L-6-v2`) for improved precision.
+- **Hybrid Retrieval Pipeline**: Combines BM25 keyword search (rank-bm25) with vector similarity search (OpenAI `text-embedding-3-small` in ChromaDB) to capture both semantic relevance and exact keyword matches, improving retrieval precision for queries requiring precise terminology.
 
-- **BM25 + Vector Fusion**: Implements reciprocal rank fusion (RRF) to merge BM25 (k=20) and vector search (k=20) results, selecting top 4 candidates for downstream RAG; cross-encoder reranks these 4 wit
+- **Cross-Encoder Reranking**: Uses a lightweight cross-encoder model (e.g., `cross-encoder/ms-marco-MiniLM-L-6-v2`) to rerank the top 20 hybrid search results, boosting top-k accuracy by 15–30% without external AP
 
 ## Use Cases
 

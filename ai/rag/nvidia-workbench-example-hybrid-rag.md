@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-04T19:30:30.105828+05:30'
+collected_at: '2026-07-04T21:48:31.503533+05:30'
 published_at: '2026-06-30T16:45:55Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 368
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-04T19:30:30.105828+05:30'
-last_seen: '2026-07-04T19:30:30.105828+05:30'
-last_checked: '2026-07-04T19:30:30.105828+05:30'
+first_seen: '2026-07-04T21:48:31.503533+05:30'
+last_seen: '2026-07-04T21:48:31.503533+05:30'
+last_checked: '2026-07-04T21:48:31.503533+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining vector and keyword-based retrieval for enhanced document grounding in LLMs.
-- **NVIDIA AI Workbench Integration**: Showcases deployment and optimization of RAG workflows using NVIDIA’s AI Workbench for GPU-accelerated inference and retrieval.
-- **Python-Based Example**: Provides a Python-based reference implementation with modular components for document preprocessing, retrieval, and LLM generation.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector) and sparse (keyword/BM25) retrieval methods for enhanced document grounding in LLMs.
+
+- **NVIDIA AI Workbench Integration**: Provides a structured example project optimized for NVIDIA AI Workbench, showcasing GPU-accelerated vector search (e.g., FAISS, NVIDIA NeMo Retriever) and LLM inference (e.g., NVIDIA TensorRT-LLM).
+
+- **End-to-End Pipeline**: Includes preprocessing, retrieval, prompt augmentation, and generation stages with modular Python components, enabling reproducible experimentation with hybrid RAG architectures.
 
 ## Why It Matters
 

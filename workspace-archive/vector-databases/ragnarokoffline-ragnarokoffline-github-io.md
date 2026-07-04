@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Purpose**: Hosts the **Ragnarok Offline Pre-Renewal Pack**, a static website for offline Ragnarok Online gameplay using OpenKore and rAthena.
-- **Technical Stack**: Built with **HTML**, leveraging OpenKore, rAthena, and Ragnarok Online assets for Pre-Renewal compatibility.
-- **Last Update**: Modified on **2026-07-01**, with 17 stars and 7 forks as of the last snapshot.
+- **Repository Purpose**: Hosts the static website for *Ragnarok Offline Pre-Renewal Pack*, a pre-configured offline version of *Ragnarok Online* using *OpenKore* and *rAthena* for server emulation.
+- **Technical Stack**: Entirely HTML-based, serving as a frontend for offline gameplay with *Ragnarok Online* client integration.
+- **Maintenance Status**: Last updated on **2026-07-01**, indicating active but infrequent updates (17 stars, 7 forks).
 
 ## Use Cases
 

@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Open publishing platform**: Medium enables any user to publish content without requiring pre-existing audience or infrastructure, focusing on insightful writing over viral sensationalism.
+- **Platform Purpose**: Medium is a content publishing platform designed to prioritize depth, nuance, and thoughtful discourse over sensationalism, enabling writers to share knowledge without requiring pre-existing audiences or mailing lists.
 
-- **Community-driven monetization**: Supported by over 1M paying members (not ads/data sales), Medium incentivizes depth and nuance in writing via a subscription-based model.
-
-- **Diverse contributor base**: Hosts 100M+ monthly users including developers, designers, and executives, facilitating knowledge-s
+- **User Base & Revenue Model**: Over 100M monthly users contribute diverse content (e.g., software development, personal essays), while the platform is monetized via a subscription-based membership model (1M+ members) rather than advertising or data sales
 
 ## Use Cases
 

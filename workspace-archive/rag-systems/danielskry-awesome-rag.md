@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- hackernews
 - rag
 - unknown
 selection_reason:
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: GitHub repository (`Danielskry/Awesome-RAG`) aggregating applications, tools, and frameworks for Retrieval-Augmented Generation (RAG) in Generative AI.
-- **Metadata**: 1,291 stars, 161 forks, last updated July 4, 2026; topics include AI, LLMs, and RAG-specific implementations.
-- **Technical Scope**: Focuses on retrieval-augmented techniques for enhancing large language models (LLMs) with external knowledge retrieval.
+- **Curated RAG Resources**: Aggregates applications, frameworks, and tools leveraging Retrieval-Augmented Generation (RAG) in generative AI, covering LLMs, vector databases, and retrieval mechanisms.
+- **High Engagement Metrics**: Maintains 1,291 stars and 161 forks, indicating strong community interest and adoption in RAG research/application development.
+- **Multi-Topic Repository**: Encompasses topics like AI, generative models, LLMs, and RAG-specific implementations, last updated July 4, 20
 
 ## Use Cases
 

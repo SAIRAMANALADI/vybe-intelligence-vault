@@ -2,7 +2,7 @@
 title: Watch YouTube TV on supported devices - Computer - YouTube TV Help
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://support.google.com/youtubetv/answer/7129767?hl=en&amp;ref_topic=7071745
+source_url: https://support.google.com/youtubetv/answer/7129767?hl=en&ref_topic=7071745
 resource_id: blog:watch-youtube-tv-on-supported-devices-computer-you
 local_vault_path: ai/rag/watch-youtube-tv-on-supported-devices-computer-you.md
 quality_score: 70
@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Supported Platforms**: YouTube TV is compatible with computers (Chrome, Firefox, Safari), smart TVs (LG, Samsung, Roku, Vizio, etc.), streaming devices (Apple TV, Chromecast, Fire TV, Roku), game consoles (PlayStation, Xbox), and XR devices (Meta Quest, Pico, Apple Vision Pro).
-
-- **System Requirements**: Requires latest browser versions (Chrome/Firefox/Safari) for computers; specific hardware/software constraints apply (e.g., HDCP support for Roku, SDR video format for Apple TV).
-
-- **Troub
+- **Supported Platforms**: YouTube TV is accessible on computers (Chrome, Firefox, Safari), smart TVs (LG, Samsung, Roku, Vizio, etc.), streaming devices (Apple TV, Fire TV, Chromecast, Google TV), game consoles (PlayStation, Xbox), and XR devices (Meta Quest, Apple Vision Pro).
+- **System Requirements**: Requires latest browser versions (Chrome, Firefox, Safari) or specific hardware (e.g., Roku devices with 512MB+ RAM for full feature support).
+- **Troubleshooting**: Common fixes include disabl
 
 ## Use Cases
 
@@ -47,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://support.google.com/youtubetv/answer/7129767?hl=en&amp;ref_topic=7071745
+Original source URL: https://support.google.com/youtubetv/answer/7129767?hl=en&ref_topic=7071745
 
 ## Local Vault File
 

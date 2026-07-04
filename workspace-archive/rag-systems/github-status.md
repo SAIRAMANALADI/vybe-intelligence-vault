@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page** provides real-time operational metrics for GitHub services (e.g., Git Operations, API Requests, Actions) with historical uptime data (90-day windows) and incident tracking across regions (US, EU, Australia, Japan).
+- **GitHub Status Page**: Provides real-time operational status of GitHub services (e.g., Git Operations, API Requests, Actions) with 90-day uptime metrics and incident tracking via [githubstatus.com](https://www.githubstatus.com/).
 
-- **Notification Systems** support multi-channel incident alerts via email, SMS (global carrier support), Slack, and webhooks, enabling automated incident response workflows with OTP-based authentication and privacy policy compliance.
+- **Notification Subscriptions**: Supports multi-channel incident notifications (email, SMS, Slack, webhooks) for service disruptions, maintenance, or major outages, with regional status pages (AU/EU/JP/US).
 
-- **Recent Incidents**
+- **Historical Incident Analysis**: Documents past incide
 
 ## Use Cases
 

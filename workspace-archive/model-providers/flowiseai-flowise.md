@@ -14,7 +14,6 @@ tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - openai
 - rag
 - scripts
@@ -38,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **FlowiseAI/Flowise**: Open-source, low/no-code TypeScript framework for building AI agents and workflows with visual drag-and-drop interface, leveraging LangChain for LLM orchestration and multi-agent systems.
+- **Low-Code/No-Code AI Agent Builder**: Open-source TypeScript/React framework for visually constructing AI agents and workflows, leveraging LangChain, LLMs (e.g., OpenAI), and RAG pipelines without deep coding expertise.
 
-- **Key Features**: Supports RAG, ChatGPT/OpenAI integrations, and agentic workflows; enables multi-agent collaboration, chatbot deployment, and workflow automation via React-based UI.
+- **Multi-Agent & Workflow Automation**: Supports agentic AI systems with configurable workflows, enabling multi-agent collaboration, tool integration, and dynamic decision-making for complex tasks.
 
-- **Technical Stack**: Built in TypeScript/JavaScript, integrates with LLMs (e.g., OpenAI), and supp
+- **Extensible & Scalable**: Modular architecture with built-in support for
 
 ## Use Cases
 

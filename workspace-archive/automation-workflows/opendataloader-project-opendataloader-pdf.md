@@ -14,6 +14,7 @@ tags:
 - github-repo
 - java
 - rag
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Java-based PDF Parser**: Open-source tool designed for AI-ready data extraction from PDFs, supporting accessibility compliance (PDF/UA, WCAG) and automated tagging for structured content.
+- **Java-based PDF Parser**: Open-source tool (`opendataloader-pdf`) designed to extract and structure PDF content into AI-ready formats (HTML, JSON, Markdown) with OCR support for accessibility compliance (PDF/UA, WCAG).
 
-- **Multi-format Output**: Converts PDFs to HTML, JSON, Markdown, or bounding-box annotations, with OCR support for scanned documents and table extraction via layout analysis.
+- **Advanced Document Processing**: Supports tagged PDFs, bounding-box extraction, table detection, and layout analysis for structured data conversion, enabling RAG (Retrieval-Augmented Generation) pipelines.
 
-- **AI & RAG Integration**: Enables retrieval-augmented generation (RAG) workflows by preserving document structure, metadata, and
+- **Accessibility & Automation Focus**: Implements EAA/WCAG standar
 
 ## Use Cases
 

@@ -12,7 +12,7 @@ LangGraph, CrewAI, AutoGen, Microsoft Semantic Kernel.
 ## Recommended Resources from the Vault
 *   [Installation | Haystack Documentation](https://docs.haystack.deepset.ai/docs/installation)
 *   [haystack-tutorials/Contributing.md at main · deepset-ai/haystack-tutorials · GitHub](https://github.com/deepset-ai/haystack-tutorials/blob/main/Contributing.md#contributing-to-haystack-tutorials)
-*   [Haystack](https://discord.com/invite/Dr63fr9NDS)
+*   [Haystack](https://discord.com/invite/xYvH6drSmA)
 *   [deepset, makers of Haystack - YouTube](https://www.youtube.com/channel/UC5dfn9m310oyt-cbeegfvZw)
 *   [deepset-ai/haystack-experimental](https://github.com/deepset-ai/haystack-experimental)
 

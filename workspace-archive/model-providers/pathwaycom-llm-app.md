@@ -2,14 +2,20 @@
 title: pathwaycom/llm-app
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://github.com/pathwaycom/llm-app?source=post_page
+source_url: https://github.com/pathwaycom/llm-app
 resource_id: github:pathwaycom/llm-app
 local_vault_path: ai/rag/pathwaycom-llm-app.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: template
-importance: medium
+importance: high
+tags:
+- github-repo
+- jupyter notebook
+- openai
+- rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -20,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -28,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Cloud-native templates** for **RAG, AI pipelines, and enterprise search** with **real-time data synchronization** (SharePoint, Google Drive, S3, Kafka, PostgreSQL, APIs).
-- **Docker-optimized** deployment with **live sync** across **vector databases, vector indexes**, and **LLM frameworks** (Hugging Face, OpenAI).
-- **LLMOps-focused** with **prompting, security, and local LLM** support, leveraging **Jupyter Notebooks** for modular, scalable AI workflows.
+- **Cloud-native RAG & AI pipelines**: Pre-configured templates for Retrieval-Augmented Generation (RAG), AI workflows, and enterprise search with live data synchronization via Docker containers.
+- **Multi-source data integration**: Supports real-time connectivity with SharePoint, Google Drive, S3, Kafka, PostgreSQL, and REST APIs for dynamic data ingestion.
+- **Enterprise-grade LLM toolkit**: Includes Hugging Face, OpenAI compatibility, vector databases, and LLM security/ops features (LLMOps) f
 
 ## Use Cases
 
@@ -40,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/pathwaycom/llm-app?source=post_page
+Original source URL: https://github.com/pathwaycom/llm-app
 
 ## Local Vault File
 

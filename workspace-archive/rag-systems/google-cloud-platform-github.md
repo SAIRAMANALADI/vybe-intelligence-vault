@@ -8,11 +8,14 @@ local_vault_path: ai/rag/google-cloud-platform-github.md
 quality_score: 70
 archive_score: 87
 archive_tier: essential
-resource_kind: template
+resource_kind: framework
 importance: high
 tags:
 - agents
+- hackernews
 - rag
+- reddit
+- scripts
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -25,19 +28,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: template
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Official Google Cloud Platform (GCP) GitHub organization** hosting 1,491+ repositories with language-specific SDKs (Python, Go, Node.js, Java, PHP, .NET) and infrastructure-as-code (Terraform) samples.
+- **Official Google Cloud Platform (GCP) GitHub organization** hosting 1,491+ public repositories for cloud-native development, infrastructure automation, and AI/ML integration.
 
-- **Key repositories**:
-  - `cloud-foundation-fabric`: Modular Terraform toolkit for GCP landing zones and infrastructure.
-  - `gcsfuse`: User-space FUSE implementation enabling direct interaction with Google Cloud Storage (GCS) as a filesystem.
-  - `race-condition`: Reference architecture fo
+- **Multi-language SDK and sample repositories** including `python-docs-samples`, `golang-samples`, `nodejs-docs-samples`, `java-docs-samples`, `php-docs-samples`, and `.NET` samples for GCP service integration.
+
+- **Key technical projects** such as `k8s-config-connector` (Kubernetes-native GCP resource management), `gc
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-07-04T19:31:05.112127+05:30'
+collected_at: '2026-07-04T21:49:06.515602+05:30'
 published_at: '2026-07-04T08:44:37Z'
 tags:
 - benchmark
@@ -13,6 +13,7 @@ tags:
 - hackernews
 - rag
 - unknown
+- workflows
 stars: 436
 language: Unknown
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-07-04T19:31:05.112127+05:30'
-last_seen: '2026-07-04T19:31:05.112127+05:30'
-last_checked: '2026-07-04T19:31:05.112127+05:30'
+first_seen: '2026-07-04T21:49:06.515602+05:30'
+last_seen: '2026-07-04T21:49:06.515602+05:30'
+last_checked: '2026-07-04T21:49:06.515602+05:30'
 health_score: 100
 ---
 
@@ -31,15 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmarking framework and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of performance in real-world internal knowledge retrieval tasks.
-
-- **Key Features**:
-  - Synthetic data generation for enterprise-specific QA pairs and retrieval contexts.
-  - Evaluation metrics for semantic search, retrieval accuracy, and LLM response quality in enterprise environments.
-
-- **Technical Scope**:
-  - Supports Python-based RAG pipelines with integration for LLMs, vector databases, and enterprise search tools.
-  - Focuses on metrics like precision, recall, and contextual relevance for internal document retrieval.
+- **Dataset & Benchmark**: Provides a structured dataset and evaluation framework for Retrieval-Augmented Generation (RAG) systems tailored to company internal documents, enabling standardized assessment of performance across key metrics.
+- **Synthetic Data Generation**: Implements synthetic data generation techniques to simulate enterprise-specific queries and document structures, facilitating scalable and reproducible RAG evaluations.
+- **Multi-Topic Evaluation Suite**: Covers a broad range of RAG-related challenges including semantic search, information retrieval, LLM evaluation, and enterprise search, with support for Python-based implementations and integration with generative AI workflows.
 
 ## Why It Matters
 

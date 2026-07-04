@@ -8,7 +8,7 @@ local_vault_path: ai/agents/github-cli-take-github-to-the-command-line.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: mcp-server
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # GitHub CLI | Take GitHub to the command line
@@ -28,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **GitHub CLI (`gh`)** is a free, open-source tool that integrates GitHub workflows directly into the terminal, supporting commands like `gh issue list`, `gh pr status`, `gh pr checkout`, `gh pr create`, `gh release create`, and `gh repo view`.
-- **Installation** is supported across platforms via package managers (e.g., `brew install gh` for macOS, `winget` for Windows) or direct downloads (`.deb`, `.rpm`, `.tar.gz`, binaries/msi).
-- **Features** include GitHub Copilot CLI integration, custom a
+- **GitHub CLI (`gh`)** integrates GitHub workflows directly into the terminal, enabling native command-line operations for issues (`gh issue list`), pull requests (`gh pr status/checkout/create/checks`), releases (`gh release create`), and repository management (`gh repo view`), with support for custom aliases (`gh alias set`).
+
+- **Multi-platform installation** via package managers (Homebrew, WinGet, `apt`, `dnf`, `zypper`) or direct downloads (`.deb`, `.rpm`, `.zip`, `.msi`, `.tar.gz`), with
 
 ## Use Cases
 

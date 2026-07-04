@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Serialization Mechanism**: Protocol Buffers (protobuf) are Google's language- and platform-neutral mechanism for serializing structured data, offering a more efficient alternative to XML with smaller, faster, and simpler serialization.
-
-- **Language Support & Implementation**: Supports generated code in multiple languages (C++, Java, Python, etc.) with proto3 adding PHP support; data structure is defined in `.proto` files (e.g., `message Person { string name = 1; }`), enabling cross-language
+- **Serialization Mechanism**: Protocol Buffers (protobuf) are Google's language-neutral, platform-neutral serialization format for structured data, offering smaller, faster, and simpler alternatives to XML.
+- **Language Support & Implementation**: Supports generated code in C++, C#, Dart, Go, Java, Kotlin, Objective-C, Python, Rust, Ruby, and PHP (proto3); uses `.proto` schema definitions (e.g., `message Person`) to generate typed classes for serialization/deserialization.
+- **Usage Workflow**:
 
 ## Use Cases
 

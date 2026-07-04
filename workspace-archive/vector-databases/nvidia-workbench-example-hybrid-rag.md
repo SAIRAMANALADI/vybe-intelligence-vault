@@ -6,16 +6,16 @@ source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
 resource_id: github:nvidia/workbench-example-hybrid-rag
 local_vault_path: ai/rag/nvidia-workbench-example-hybrid-rag.md
 quality_score: 70
-archive_score: 75
+archive_score: 79
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
+- Strong keyword match
 - Active open-source repository
 ---
 
@@ -24,16 +24,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: prompt
 - Selection reasons:
+  - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining vector and keyword-based retrieval for enhanced document grounding in LLMs.
-- **NVIDIA AI Workbench Integration**: Showcases deployment and optimization of RAG workflows using NVIDIA’s AI Workbench for GPU-accelerated inference and retrieval.
-- **Python-Based Example**: Provides a Python-based reference implementation with modular components for document preprocessing, retrieval, and LL
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector) and sparse (keyword/BM25) retrieval methods for enhanced document grounding in LLMs.
+
+- **NVIDIA AI Workbench Integration**: Provides a structured example project optimized for NVIDIA AI Workbench, showcasing GPU-accelerated vector search (e.g., FAISS, NVIDIA NeMo Retriever) and LLM inference (e.g., NVIDIA TensorRT-LLM).
+
+- **End-to-End Pipeline**: Includes preprocessing,
 
 ## Use Cases
 

@@ -4,22 +4,23 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/googleapis/googleapis
-collected_at: '2026-07-02T04:21:05.346766+05:30'
-published_at: '2026-07-01T20:19:01Z'
+collected_at: '2026-07-04T21:55:33.653897+05:30'
+published_at: '2026-07-04T16:02:46Z'
 tags:
 - github-repo
+- hackernews
 - starlark
-stars: 8633
+stars: 8635
 language: Starlark
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2015-03-25T19:47:34Z'
-pushed_at: '2026-07-01T20:18:56Z'
+pushed_at: '2026-07-03T17:15:50Z'
 resource_id: github:googleapis/googleapis
-first_seen: '2026-07-02T04:21:05.346766+05:30'
-last_seen: '2026-07-02T04:21:05.346766+05:30'
-last_checked: '2026-07-02T04:21:05.346766+05:30'
+first_seen: '2026-07-04T21:55:33.653897+05:30'
+last_seen: '2026-07-04T21:55:33.653897+05:30'
+last_checked: '2026-07-04T21:55:33.653897+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts public interface definitions for Google APIs, implemented in Protocol Buffers (protobufs) and managed via Starlark (a Python-like DSL for Bazel).
-- **Metadata**: 8,633 stars, 2,596 forks; last updated on 2026-07-01T20:19:01Z.
-- **Purpose**: Serves as the canonical source for Google API contracts, enabling cross-language client/server implementations via protobuf code generation.
+- **Repository Purpose**: Hosts public interface definitions for Google APIs, primarily using Protocol Buffers (protobuf) for schema definition.
+- **Technical Stack**: Implemented in Starlark (a Python-like language) for Bazel build system integration.
+- **Metadata**: 8,635 stars, 2,597 forks; last updated on 2026-07-04.
 
 ## Why It Matters
 
@@ -38,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: googleapis
-- Stars: 8633
-- Forks: 2596
+- Stars: 8635
+- Forks: 2597
 - Language: Starlark
 - Topics: protocol-buffers
-- Last Updated: 2026-07-01T20:19:01Z
+- Last Updated: 2026-07-04T16:02:46Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2015-03-25T19:47:34Z
-- Pushed At: 2026-07-01T20:18:56Z
+- Pushed At: 2026-07-03T17:15:50Z
 
 ## Possible Use Cases
 

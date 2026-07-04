@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-07-04T19:32:10.240634+05:30'
-published_at: '2026-07-04T14:01:02Z'
+collected_at: '2026-07-04T21:50:11.582728+05:30'
+published_at: '2026-07-04T14:05:05Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,7 @@ tags:
 - openai
 - python
 - workflows
-stars: 10099
+stars: 10100
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-05-21T21:44:24Z'
 pushed_at: '2026-07-04T02:49:42Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-07-04T19:32:10.240634+05:30'
-last_seen: '2026-07-04T19:32:10.240634+05:30'
-last_checked: '2026-07-04T19:32:10.240634+05:30'
+first_seen: '2026-07-04T21:50:11.582728+05:30'
+last_seen: '2026-07-04T21:50:11.582728+05:30'
+last_checked: '2026-07-04T21:50:11.582728+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for autonomous code generation and execution using LLMs (OpenAI, Anthropic ClaudeCode) with non-blocking I/O for parallel task handling.
+- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for autonomous code generation and editing using LLMs (OpenAI, Anthropic Claude) with non-blocking I/O for scalable multi-agent workflows.
 
-- **Multi-Provider LLM Integration**: Supports pluggable LLM backends (OpenAI, Anthropic) with standardized interfaces for dynamic model switching and context-aware prompt engineering.
+- **Multi-Provider LLM Integration**: Supports dynamic switching between OpenAI and Anthropic Claude models via standardized interfaces, enabling adaptive task execution based on model capabilities and cost constraints.
 
-- **Open-Source CLI Toolkit**: Provides a Python-based CLI (`open-swe`) for real-time task scheduling, state management, and Git-aware workflows with async file operations and subprocess control.
+- **State Management & Tooling**: Utilizes persistent session state with checkpointing for fault tolerance, alongside a plugin-based tooling system for file I/O, shell commands, and IDE integrations (e.g., VS Code).
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 10099
+- Stars: 10100
 - Forks: 1158
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-07-04T14:01:02Z
+- Last Updated: 2026-07-04T14:05:05Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-07-04T19:31:00.157377+05:30'
+collected_at: '2026-07-04T21:49:01.549964+05:30'
 published_at: '2026-07-02T18:18:03Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-07-04T19:31:00.157377+05:30'
-last_seen: '2026-07-04T19:31:00.157377+05:30'
-last_checked: '2026-07-04T19:31:00.157377+05:30'
+first_seen: '2026-07-04T21:49:01.549964+05:30'
+last_seen: '2026-07-04T21:49:01.549964+05:30'
+last_checked: '2026-07-04T21:49:01.549964+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRAG is a **Comprehensive Retrieval-Augmented Generation (RAG) benchmark** designed to evaluate RAG systems across diverse tasks, including knowledge-intensive QA, multi-hop reasoning, and open-domain retrieval.
-
-- **Evaluation Framework**: The repository provides a **standardized evaluation suite** with metrics for retrieval quality, answer correctness, and computational efficiency, enabling systematic comparison of RAG models.
-
-- **Implementation**: The benchmark is implemented in **Jupyter Notebooks**, facilitating reproducibility and modular experimentation with various RAG pipelines and datasets.
+- **Benchmark Suite**: CRAG provides a comprehensive benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, including diverse datasets and metrics for assessing performance across multiple dimensions (e.g., factuality, robustness, efficiency).
+- **Modular Design**: Implemented in Jupyter Notebooks, the repository offers modular components for dataset preprocessing, retrieval evaluation, and generation assessment, enabling reproducible and extensible experimentation.
+- **Evaluation Metrics**: Includes standardized metrics for measuring RAG performance, such as answer correctness, citation accuracy, and latency, facilitating comparative analysis against state-of-the-art methods.
 
 ## Why It Matters
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/build-fast-run-any-code-fearlessly-fly.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Build fast. Run any code fearlessly. · Fly
@@ -26,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Hardware-virtualized Fly Machines**: Launch instant, isolated VMs with dedicated CPU/memory/networking, billed per-second, supporting frameworks like Rails, Phoenix, Django, and Node without Dockerfiles via CLI auto-containerization.
-
-- **Global, secure distributed compute**: Deploy in 18 regions with sub-100ms latency, featuring built-in private networking, end-to-end encryption, and support for clustered databases (e.g., Cockroach, Postgres) and RPC systems (e.g., Elixir FLAME).
-
-- **Enter
+- **Hardware-virtualized Fly Machines**: Launch instant, isolated VMs (KVM-based) that scale to tens of thousands of instances, support untrusted code execution, and run only when needed with per-second billing.
+- **Global, low-latency infrastructure**: Deploy in 18 regions with sub-100ms response times, featuring built-in private networking, end-to-end encryption, and NVMe storage for high-performance workloads.
+- **Enterprise-grade security & isolation**: Memory-safe Rust/Go stack, SOC2 Type 2
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-07-04T19:31:30.186469+05:30'
+collected_at: '2026-07-04T21:49:31.523821+05:30'
 published_at: '2026-07-04T13:41:47Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-03-23T06:52:23Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-07-04T19:31:30.186469+05:30'
-last_seen: '2026-07-04T19:31:30.186469+05:30'
-last_checked: '2026-07-04T19:31:30.186469+05:30'
+first_seen: '2026-07-04T21:49:31.523821+05:30'
+last_seen: '2026-07-04T21:49:31.523821+05:30'
+last_checked: '2026-07-04T21:49:31.523821+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework (LeanRAG) that optimizes retrieval via multi-level semantic aggregation and hierarchical traversal for improved contextual relevance.
+- **Semantic Aggregation Mechanism**: Implements a knowledge-graph-based retrieval pipeline with semantic aggregation to enhance contextual relevance in RAG systems, optimizing node-level and edge-level fusion for improved generation quality.
 
-- **Efficiency & Scalability**: Designed for AAAI 2026, the system reduces computational overhead through lightweight graph pruning and dynamic query routing, balancing performance with accuracy.
+- **Hierarchical Retrieval Strategy**: Utilizes a multi-tiered retrieval approach (e.g., coarse-to-fine or graph traversal) to dynamically select and prioritize subgraphs or entities, reducing noise and improving retrieval efficiency.
 
-- **Python Implementation**: Open-source repository (245 stars, 29 forks) providing modular components for knowledge graph integration, retrieval augmentation, and semantic alignment in generative tasks.
+- **AAAI 2026 Framework**: Designed for low-latency, high-precision knowledge-grounded generation, leveraging Python-based optimizations (e.g., sparse attention, graph pruning) to balance performance and scalability.
 
 ## Why It Matters
 

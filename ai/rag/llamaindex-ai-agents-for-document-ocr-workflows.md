@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/
-published_at: '2026-07-04T19:33:00.817122+05:30'
-collected_at: '2026-07-04T19:33:00.817136+05:30'
+published_at: '2026-07-04T21:51:02.036335+05:30'
+collected_at: '2026-07-04T21:51:02.036348+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-07-04T19:33:00.817136+05:30'
-last_seen: '2026-07-04T19:33:00.817136+05:30'
-last_checked: '2026-07-04T19:33:00.817136+05:30'
+first_seen: '2026-07-04T21:51:02.036348+05:30'
+last_seen: '2026-07-04T21:51:02.036348+05:30'
+last_checked: '2026-07-04T21:51:02.036348+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR with VLM Integration**: LlamaParse leverages Vision-Language Models (VLMs) to automate document parsing, reducing manual processing time from hours to seconds while enabling layout-aware understanding and structured schema extraction.
+- **Agentic OCR & VLM Integration**: LlamaParse leverages Vision-Language Models (VLM) and agentic OCR to automate document processing, reducing manual effort from hours to seconds with layout-aware parsing and structured schema extraction.
 
-- **Multi-Modal Document Agents**: Specialized agents handle diverse content types (text, charts, tables, handwritten notes) with auto-correction loops for recursive error detection and correction, ensuring high accuracy even in complex, multi-modal documents.
+- **Multi-Modal Document Understanding**: Supports parsing of complex layouts, handwritten text, tables, charts, and embedded images with specialized agents and auto-correction loops for high accuracy across unstructured formats.
 
-- **Enterprise-Grade Features**: Supports 50+ file types, schema-based extraction without training, enterprise-grade chunking/embedding, and flexible deployment (cloud or VPC) with HIPAA/GDPR/SOC2 compliance, 99.9% uptime, and dedicated SLAs.
+- **Enterprise-Grade Features**: Offers 10,000 free credits/month (~1000 pages), HIPAA/GDPR/SOC2 compliance, 99.9% uptime, flexible cloud/VPC deployment, and benchmark-leading performance in document parsing and retrieval.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T19:33:00.817122+05:30
+- Published: 2026-07-04T21:51:02.036335+05:30
 
 ## Related Tags
 

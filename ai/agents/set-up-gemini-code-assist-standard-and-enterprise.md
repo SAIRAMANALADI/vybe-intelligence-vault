@@ -5,8 +5,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/gemini-code-assist/docs/set-up-gemini-standard-enterprise
-published_at: '2026-07-04T03:55:25.580390+05:30'
-collected_at: '2026-07-04T03:55:25.580403+05:30'
+published_at: '2026-07-04T21:58:36.595446+05:30'
+collected_at: '2026-07-04T21:58:36.595462+05:30'
 tags:
 - agents
 - producthunt
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:set-up-gemini-code-assist-standard-and-enterprise
-first_seen: '2026-07-04T03:55:25.580403+05:30'
-last_seen: '2026-07-04T03:55:25.580403+05:30'
-last_checked: '2026-07-04T03:55:25.580403+05:30'
+first_seen: '2026-07-04T21:58:36.595462+05:30'
+last_seen: '2026-07-04T21:58:36.595462+05:30'
+last_checked: '2026-07-04T21:58:36.595462+05:30'
 health_score: 100
 ---
 
@@ -25,9 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified Platform Transition**: Google Cloud deprecated Gemini Code Assist IDE Extensions and CLI for individual tiers (June 18, 2026), migrating users to **Antigravity** (a multi-agent platform) and **Antigravity CLI** for continuity.
-- **Subscription & License Setup**: Requires purchasing a **Gemini Code Assist Standard/Enterprise** subscription, assigning licenses (auto/manual), enabling the **Gemini for Google Cloud API** (`cloudaicompanion.googleapis.com`), and granting IAM roles (`Gemini for Google Cloud User`, `Service Usage Consumer`).
-- **Network & API Prerequisites**: Firewall must allow outbound TCP to Google Cloud APIs (e.g., `oauth2.googleapis.com`, `cloudaicompanion.googleapis.com`) and optionally configure **VPC Service Controls** or private access (e.g., `private.googleapis.com`) for secure connectivity.
+- **Gemini Code Assist Standard/Enterprise Setup**: Requires admin steps: purchasing a subscription, assigning licenses, enabling the `cloudaicompanion.googleapis.com` API in a Google Cloud project, and granting IAM roles (`roles/cloudaicompanion.user` and `roles/serviceusage.serviceUsageConsumer`).
+
+- **License Management**: Automatic license assignment occurs if users meet conditions (project association, `cloudaicompanion.licences.selfAssign` permission). Manual assignment is configurable via the **Admin for Gemini** page; inactive licenses are reclaimed after 30 days.
+
+- **Network/Firewall Configuration**: Firewall rules must allow outbound TCP traffic to Google Cloud APIs (e.g., `cloudaicompanion.googleapis.com`, `oauth2.googleapis.com`) and optionally configure VPC Service Controls or private IP ranges for restricted environments.
 
 ## Why It Matters
 
@@ -37,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-04T03:55:25.580390+05:30
+- Published: 2026-07-04T21:58:36.595446+05:30
 
 ## Related Tags
 

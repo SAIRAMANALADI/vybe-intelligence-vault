@@ -6,10 +6,10 @@ source_url: https://github.com/NirDiamant/agents-towards-production
 resource_id: github:nirdiamant/agents-towards-production
 local_vault_path: ai/rag/nirdiamant-agents-towards-production.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
 - github-repo
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Tutorials**: End-to-end, code-first guides for developing production-grade GenAI agents, covering prototyping to enterprise deployment with focus on scalability and reliability.
+- **Comprehensive GenAI Agent Tutorials**: End-to-end, code-first guides covering prototype development to enterprise deployment of production-grade GenAI agents, leveraging frameworks like LangGraph and MCP.
 
-- **Technical Stack**: Utilizes Python-based Jupyter Notebooks with frameworks like LangGraph, MCP, and RAG, emphasizing multi-agent systems, MLOps, and observability for AI agent deployment.
+- **Multi-Topic Technical Stack**: Integrates Python, RAG, LLMs, multi-agent systems, MLOps, and observability tools for scalable agentic AI solutions.
 
-- **Enterprise Readiness**: Addresses deployment, observability, and scalability challenges, providing structu
+- **Production-Ready Resources**: Focuses on deployment, scalability, and observability, with last update (2026-07-04) ensuring alignment
 
 ## Use Cases
 

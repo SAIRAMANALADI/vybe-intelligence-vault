@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by austinallegro. Score: 15, Comments: 8.
+Hacker News story by austinallegro. Score: 21, Comments: 11.
 Original Link: https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/
 
 ## Use Cases

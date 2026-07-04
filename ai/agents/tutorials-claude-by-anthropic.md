@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://claude.com/resources/tutorials
-published_at: '2026-06-30T20:21:36.823264+05:30'
-collected_at: '2026-06-30T20:21:36.823282+05:30'
+published_at: '2026-07-04T21:56:01.162326+05:30'
+collected_at: '2026-07-04T21:56:01.162338+05:30'
 tags:
 - agents
 - anthropic
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:tutorials-claude-by-anthropic
-first_seen: '2026-06-30T20:21:36.823282+05:30'
-last_seen: '2026-06-30T20:21:36.823282+05:30'
-last_checked: '2026-06-30T20:21:36.823282+05:30'
+first_seen: '2026-07-04T21:56:01.162338+05:30'
+last_seen: '2026-07-04T21:56:01.162338+05:30'
+last_checked: '2026-07-04T21:56:01.162338+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Model Suite**: Anthropic offers five LLM variants—Mythos, Fable, Opus, Sonnet, and Haiku—each optimized for different performance/cost trade-offs, with Opus being the most capable and Haiku the fastest.
+- **Model Architecture**: Claude offers multiple model variants (Haiku, Sonnet, Opus, Fable, Mythos) optimized for different latency, cost, and capability trade-offs, with Fable and Opus targeting high-complexity reasoning tasks.
 
-- **API & Integration**: The platform provides a RESTful API with tiered pricing, developer documentation, and a console for managing deployments, alongside connectors/plugins for ecosystem integration.
+- **Integration Framework**: Supports extensibility via Skills, Connectors, Plugins, and API-driven workflows, enabling custom AI agent orchestration and third-party system integration.
 
-- **Vertical Solutions**: Pre-built workflows target legal, security, healthcare, and financial services, with specialized tools like Claude Cowork for task delegation and artifact generation.
+- **Domain-Specific Applications**: Provides specialized applications (Claude Science, Security, Design) and vertical solutions (Legal, Healthcare, Financial Services) with tailored workflows and compliance-ready features.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-30T20:21:36.823264+05:30
+- Published: 2026-07-04T21:56:01.162326+05:30
 
 ## Related Tags
 

@@ -7,7 +7,7 @@ source_url: https://developers.google.com/gemini-code-assist/docs/set-up-gemini-
 resource_id: blog:set-up-gemini-code-assist-standard-and-enterprise
 local_vault_path: ai/agents/set-up-gemini-code-assist-standard-and-enterprise.md
 quality_score: 70
-archive_score: 72
+archive_score: 70
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -18,7 +18,6 @@ tags:
 - web-crawled
 - youtube
 selection_reason:
-- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -27,16 +26,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: tutorial
 - Selection reasons:
-  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Unified Platform Transition**: Google Cloud deprecated Gemini Code Assist IDE Extensions and CLI for individual tiers (June 18, 2026), migrating users to **Antigravity** (a multi-agent platform) and **Antigravity CLI** for continuity.
-- **Subscription & License Setup**: Requires purchasing a **Gemini Code Assist Standard/Enterprise** subscription, assigning licenses (auto/manual), enabling the **Gemini for Google Cloud API** (`cloudaicompanion.googleapis.com`), and granting IAM roles (`Gemin
+- **Gemini Code Assist Standard/Enterprise Setup**: Requires admin steps: purchasing a subscription, assigning licenses, enabling the `cloudaicompanion.googleapis.com` API in a Google Cloud project, and granting IAM roles (`roles/cloudaicompanion.user` and `roles/serviceusage.serviceUsageConsumer`).
+
+- **License Management**: Automatic license assignment occurs if users meet conditions (project association, `cloudaicompanion.licences.selfAssign` permission). Manual assignment is configurable via
 
 ## Use Cases
 

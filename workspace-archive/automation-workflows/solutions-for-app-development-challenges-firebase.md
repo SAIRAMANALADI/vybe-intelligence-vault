@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Backend Development**: Firebase enables serverless backend development with integrated services like **Cloud Firestore**, **Realtime Database**, **Authentication**, and **Cloud Storage**, supporting local emulation and scaling to millions of users while enforcing security via **App Check** to prevent unauthorized access.
+- **Backend Development**: Firebase enables serverless backend development with integrated services like Cloud Firestore, Realtime Database, Authentication, and Cloud Storage, supporting local emulation and scalable deployment via App Check for API protection.
 
-- **App Monitoring & Stability**: **Crashlytics** and **Performance Monitoring** provide real-time crash reporting, stability metrics, and latency insights, enabling proact
+- **Web App Hosting**: Offers secure, realtime, offline-capable web apps with Firestore, Authentication, and Hosting, leveraging a global CDN for cached static/dynamic content delivery and reduced latency.
+
+- **User Engagement & Monetizat
 
 ## Use Cases
 

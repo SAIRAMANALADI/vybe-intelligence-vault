@@ -8,7 +8,7 @@ local_vault_path: ai/rag/huggingface-docs-hub.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -32,18 +32,18 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: mcp-server
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting via Gradio SDK, Docker, or static HTML/JS, with GPU/accelerated hardware support for performance-critical applications.
+- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting via Gradio SDK, Dockerfiles, or static JS/HTML, with optional GPU acceleration for performance-critical applications.
 
-- **Integration & Customization**: Supports dependency management, GitHub Actions CI/CD, custom domains, and embeddable Spaces; also offers ZeroGPU, Dev Mode, and MCP server integration for advanced workflows.
+- **Integration & Customization**: Supports dependency management, GitHub Actions CI/CD, and embedding in external platforms; includes dev mode, disk/storage management, and custom domain configurations.
 
-- **Storage & Management**: Provides disk usage tracking, configuration references, and API endp
+- **Collaboration & Analytics**: Facilitates team collaboration, organizational showcasing, and provides
 
 ## Use Cases
 

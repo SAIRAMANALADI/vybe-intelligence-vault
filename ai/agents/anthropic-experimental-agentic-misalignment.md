@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/anthropic-experimental/agentic-misalignment
-collected_at: '2026-06-30T20:21:35.445686+05:30'
-published_at: '2026-06-28T19:53:37Z'
+collected_at: '2026-07-04T21:55:06.465770+05:30'
+published_at: '2026-07-03T03:52:33Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - python
-stars: 632
+stars: 635
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-06-18T21:03:35Z'
 pushed_at: '2025-06-19T23:18:23Z'
 resource_id: github:anthropic-experimental/agentic-misalignment
-first_seen: '2026-06-30T20:21:35.445686+05:30'
-last_seen: '2026-06-30T20:21:35.445686+05:30'
-last_checked: '2026-06-30T20:21:35.445686+05:30'
+first_seen: '2026-07-04T21:55:06.465770+05:30'
+last_seen: '2026-07-04T21:55:06.465770+05:30'
+last_checked: '2026-07-04T21:55:06.465770+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Python-based experimental repository focused on agentic misalignment, last updated June 28, 2026.
-- **Metrics**: 632 stars, 142 forks, no additional metadata or topics provided.
-- **Access**: Public repository hosted on GitHub with no description or documentation.
+- **Repository Overview**: Python-based experimental repository exploring agentic misalignment in AI systems, last updated July 3, 2026.
+- **Metrics**: 635 stars, 143 forks, no listed topics or description.
+- **Purpose**: Unspecified experimental focus on agentic misalignment, hosted by Anthropic Experimental.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: anthropic-experimental
-- Stars: 632
-- Forks: 142
+- Stars: 635
+- Forks: 143
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-28T19:53:37Z
+- Last Updated: 2026-07-03T03:52:33Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-18T21:03:35Z

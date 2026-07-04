@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-07-04T19:30:45.072757+05:30'
+collected_at: '2026-07-04T21:48:46.462653+05:30'
 published_at: '2026-07-03T13:07:34Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
+- meta-ai
+- models
 - python
 - rag
 stars: 93
@@ -20,9 +22,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-07-04T19:30:45.072757+05:30'
-last_seen: '2026-07-04T19:30:45.072757+05:30'
-last_checked: '2026-07-04T19:30:45.072757+05:30'
+first_seen: '2026-07-04T21:48:46.462653+05:30'
+last_seen: '2026-07-04T21:48:46.462653+05:30'
+last_checked: '2026-07-04T21:48:46.462653+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Framework**: Repository implements advanced RAG techniques for large language models (LLMs), focusing on retrieval augmentation to enhance generation quality and factual accuracy.
-
-- **Python-Based Implementation**: Entire codebase is written in Python, leveraging modern libraries (e.g., LangChain, FAISS, or HuggingFace) for modular RAG pipeline construction.
-
-- **Best Practices Documentation**: Provides structured guidelines for RAG system design, including chunking strategies, embedding selection, retrieval tuning, and evaluation metrics.
+- **RAG Optimization Framework**: Implements advanced retrieval-augmented generation (RAG) techniques with modular components for indexing, retrieval, and generation, leveraging vector databases (e.g., FAISS, Chroma) and LLMs (e.g., Llama, Qwen) for hybrid search strategies.
+- **Dynamic Retrieval Strategies**: Supports adaptive retrieval mechanisms (e.g., query rewriting, multi-hop retrieval) and hybrid fusion of dense/sparse embeddings to mitigate hallucinations and improve contextual relevance.
+- **Evaluation & Benchmarking**: Includes standardized evaluation pipelines (e.g., RAGAS, TruLens) for assessing retrieval quality, answer faithfulness, and latency, with configurable metrics for domain-specific tuning.
 
 ## Why It Matters
 

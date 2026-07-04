@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by networked. Score: 32, Comments: 82.
+Hacker News story by networked. Score: 47, Comments: 115.
 Original Link: https://www.hyperstitionai.com/unslop-results
 
 ## Use Cases

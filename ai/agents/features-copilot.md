@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-07-04T19:34:27.403032+05:30'
-collected_at: '2026-07-04T19:34:27.403048+05:30'
+published_at: '2026-07-04T21:53:05.453227+05:30'
+collected_at: '2026-07-04T21:53:05.453239+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-07-04T19:34:27.403048+05:30'
-last_seen: '2026-07-04T19:34:27.403048+05:30'
-last_checked: '2026-07-04T19:34:27.403048+05:30'
+first_seen: '2026-07-04T21:53:05.453239+05:30'
+last_seen: '2026-07-04T21:53:05.453239+05:30'
+last_checked: '2026-07-04T21:53:05.453239+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent orchestration**: Copilot CLI enables parallelized subagent execution via `/fleet`, allowing concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching and `/plan`-to-PR workflow automation.
+- **Multi-Agent Workflows**: GitHub Copilot CLI supports `/fleet` for parallelized subagent execution, enabling concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching and `/plan` to `/pr` automation.
 
-- **GitHub-native MCP integration**: Built on GitHub’s Model Context Protocol (MCP), it directly interfaces with issues, PRs, and branches, inheriting org policies (branch protections, governance) while maintaining explicit approval for file/command execution.
+- **Native GitHub Integration**: Built on GitHub’s `/mcp` protocol, CLI interacts directly with issues, PRs, and branches, inheriting org policies (branch protections, governance) and enabling `/remote` cross-device monitoring/steering.
 
-- **Session persistence & extensibility**: Supports `/resume` for context retention, AGENTS.md for custom agent definitions, and SDK (`@github/copilot`) for integrating agentic logic into applications, with experimental `/experimental` features available.
+- **Agentic Runtime & Extensibility**: Includes `/agent` and `/skills` for custom behavior via `AGENTS.md`, supports MCP server plugins for tool integration, and provides an SDK (`@github/copilot`) for embedding agentic logic in applications.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-04T19:34:27.403032+05:30
+- Published: 2026-07-04T21:53:05.453227+05:30
 
 ## Related Tags
 

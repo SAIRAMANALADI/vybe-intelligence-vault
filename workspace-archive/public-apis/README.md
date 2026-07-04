@@ -8,21 +8,21 @@ Public developer APIs supply external context and utilities for LLM tools.
 
 ## Top Matched Resources
 
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [The official repository for Dart and Flutter packages.](https://pub.dev) (benchmark - USEFUL Tier)
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [FastAPI - FastAPI](https://fastapi.tiangolo.com/) (template - USEFUL Tier)
 - [Cerbos · GitHub](https://github.com/cerbos) (benchmark - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) (workflow - USEFUL Tier)
 - [Canvas LMS | Instructure Developer Documentation Portal](https://api.instructure.com) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 - [Cerbos · GitHub](https://github.com/cerbos)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat)
 
 ## Best Learning Resources
 
@@ -40,4 +40,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-07-04 19:46 IST*
+*Last updated: 2026-07-04 22:04 IST*

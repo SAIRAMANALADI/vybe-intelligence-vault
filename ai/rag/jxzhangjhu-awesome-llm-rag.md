@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-07-04T19:30:50.054939+05:30'
+collected_at: '2026-07-04T21:48:51.496251+05:30'
 published_at: '2026-07-04T10:12:59Z'
 tags:
 - github-repo
 - hackernews
+- models
 - rag
 - unknown
 stars: 1339
@@ -18,9 +19,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-07-04T19:30:50.054939+05:30'
-last_seen: '2026-07-04T19:30:50.054939+05:30'
-last_checked: '2026-07-04T19:30:50.054939+05:30'
+first_seen: '2026-07-04T21:48:51.496251+05:30'
+last_seen: '2026-07-04T21:48:51.496251+05:30'
+last_checked: '2026-07-04T21:48:51.496251+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
-
-- **Technical Scope**: Focuses on **RAG-embeddings**, **retrieval-information**, and **LLM optimization**, with topics including prompt engineering, vector databases, and hybrid retrieval methods for enhancing LLM performance.
-
-- **Metadata**: Last updated **July 4, 2026**; contains **1,339 stars** and **84 forks**; categorized under **embeddings**, **LLMs**, and **retrieval-augmented generation**.
+- **Curated RAG Resources**: Compilation of advanced retrieval-augmented generation (RAG) techniques, frameworks, and tools for Large Language Models (LLMs), covering embeddings, retrieval methods, and integration strategies.
+- **Multi-Topic Coverage**: Includes topics such as LLM fine-tuning, embedding optimization, retrieval mechanisms, and hybrid RAG architectures for enhanced contextual generation.
+- **Active Maintenance**: Last updated in 2026, ensuring relevance with ongoing contributions and updates to cutting-edge RAG methodologies.
 
 ## Why It Matters
 

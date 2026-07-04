@@ -2,7 +2,7 @@
 title: LangChain overview - Docs by LangChain
 archive_category: observability
 source_category: ai/rag
-source_url: https://python.langchain.com/docs/concepts/text_splitters/
+source_url: https://js.langchain.com
 resource_id: blog:langchain-overview-docs-by-langchain
 local_vault_path: ai/rag/langchain-overview-docs-by-langchain.md
 quality_score: 70
@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - anthropic
+- benchmark
 - meta-ai
 - models
 - openai
@@ -37,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Agent Composition**: LangChain's `create_agent` provides a minimal, configurable harness combining a model (e.g., OpenAI, Anthropic) with tools, prompts, and middleware, enabling custom agent construction via modular primitives.
-
-- **Framework Integration**: Agents are built atop LangGraph, inheriting durable execution, persistence, and human-in-the-loop capabilities, while LangSmith offers observability for tracing, debugging, and evaluating agent workflows.
-
-- **Multi-Provider Abstraction*
+- `create_agent` provides a minimal, configurable harness for composing agents from model, tools, prompt, and middleware in LangChain, supporting multiple LLM providers (OpenAI, Anthropic, Google, etc.).
+- LangChain agents leverage LangGraph for durable execution, human-in-the-loop support, and persistence, while LangSmith enables tracing, debugging, and evaluation of agent behavior.
+- The framework offers a standard model interface for seamless switching between providers and a highly configura
 
 ## Use Cases
 
@@ -51,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://python.langchain.com/docs/concepts/text_splitters/
+Original source URL: https://js.langchain.com
 
 ## Local Vault File
 

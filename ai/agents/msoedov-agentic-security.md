@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/msoedov/agentic_security
-collected_at: '2026-07-04T19:32:55.214334+05:30'
+collected_at: '2026-07-04T21:50:56.605167+05:30'
 published_at: '2026-07-04T13:42:34Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - hackernews
 - python
-- workflows
 stars: 1916
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-04-11T17:18:54Z'
 pushed_at: '2026-06-23T07:20:13Z'
 resource_id: github:msoedov/agentic_security
-first_seen: '2026-07-04T19:32:55.214334+05:30'
-last_seen: '2026-07-04T19:32:55.214334+05:30'
-last_checked: '2026-07-04T19:32:55.214334+05:30'
+first_seen: '2026-07-04T21:50:56.605167+05:30'
+last_seen: '2026-07-04T21:50:56.605167+05:30'
+last_checked: '2026-07-04T21:50:56.605167+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Agentic LLM Vulnerability Scanner designed for AI red teaming, enabling automated evaluation of LLM security risks, jailbreaks, and prompt-based vulnerabilities.
-- **Features**: Supports LLM fuzzing, prompt testing, vulnerability scanning, and guardrail evaluation within an agentic framework, aggregating results for comprehensive security assessment.
-- **Technical Stack**: Python-based framework with modular architecture for extensibility, supporting LLM security research and automated testing workflows.
+- **Purpose**: Agentic LLM Vulnerability Scanner is a Python-based AI red teaming toolkit designed for evaluating LLM security, jailbreaks, and prompt-based vulnerabilities using agentic frameworks.
+
+- **Key Features**: Supports LLM fuzzing, evaluation, and guardrails; aggregates multiple LLM fuzzing techniques; tests for vulnerabilities like prompt injection, data leakage, and adversarial attacks.
+
+- **Technical Scope**: Encompasses agent-framework integration, LLM security testing, and automated vulnerability scanning with extensible modules for custom security assessments.
 
 ## Why It Matters
 

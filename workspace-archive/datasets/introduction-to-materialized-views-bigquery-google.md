@@ -6,7 +6,7 @@ source_url: https://cloud.google.com/bigquery/docs/materialized-views-intro
 resource_id: blog:introduction-to-materialized-views-bigquery-google
 local_vault_path: ai/rag/introduction-to-materialized-views-bigquery-google.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Precomputed Query Optimization**: Materialized views in BigQuery store precomputed results of SQL queries, reducing processing time and costs by minimizing data scans. They automatically refresh incrementally when base tables change, with BigQuery handling background updates without user intervention.
+- **Precomputed Query Optimization**: Materialized views in BigQuery store precomputed SQL query results, reducing scan costs and processing time by avoiding repeated expensive operations (e.g., joins, aggregations) on large datasets. Smart tuning automatically reroutes queries to use materialized views when beneficial, improving performance and efficiency.
 
-- **Incremental vs. Non-Incremental Types**: Incremental materialized views support limited SQL syntax but enable smart tuning (query redirection to views) and cost-efficient incremental updat
+- **Incremental vs. Non-Incremental Types**: Incremental materialized views support limited SQL syntax but enable automatic, cost-efficient
 
 ## Use Cases
 

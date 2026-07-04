@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **AutoML-driven RAG optimization**: Automates end-to-end RAG pipeline tuning (retrieval, generation, and post-processing) using AutoML techniques to optimize performance metrics without manual intervention.
+- **AutoML-driven RAG optimization**: Framework automates hyperparameter tuning, prompt optimization, and retrieval strategies for RAG pipelines using black-box optimization techniques (e.g., Bayesian optimization, genetic algorithms).
 
-- **Comprehensive evaluation framework**: Provides built-in benchmarking tools for assessing RAG systems across multiple dimensions (retrieval quality, generation coherence, and end-to-end QA performance) with standardized metrics.
+- **Comprehensive evaluation suite**: Supports 20+ metrics (e.g., faithfulness, answer correctness, context precision) and 10+ benchmarks (e.g., MS MARCO, TriviaQA) for end-to-end RAG system assessment.
 
-- **Modular pipeline with auto-configuration**: Supports
+- **Modular pipeline architecture**: Implements plug-and-pl
 
 ## Use Cases
 

@@ -3,7 +3,7 @@ title: Medium Members Can Listen To Any Medium Story With The Speechify Play But
   | Speechify
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://speechify.com/medium?source=post_page
+source_url: https://speechify.com/medium?source=
 resource_id: blog:medium-members-can-listen-to-any-medium-story-with
 local_vault_path: ai/rag/medium-members-can-listen-to-any-medium-story-with.md
 quality_score: 70
@@ -27,9 +27,9 @@ selection_reason:
 
 ## Summary
 
-- **Integration & Accessibility**: Medium’s "Listen" feature, powered by Speechify, enables Medium members to convert any article into audio (default + multiple narrator options) with synchronized text highlighting, enhancing accessibility for users with dyslexia, visual impairments, or time constraints (e.g., commuting, exercising).
+- **Integration & Accessibility**: Medium’s "Listen" feature, powered by Speechify, enables Medium members to convert any article into audio with synchronized text highlighting, enhancing accessibility for users with dyslexia, visual impairments, or time constraints (e.g., multitasking or commuting).
 
-- **Performance & Utility**: Users report consuming **3x more content** via audio, with **speed control (0.5x–4.5x)** and multitasking capabilities (e.g., exercisi
+- **Performance & Customization**: Users can adjust playback speed up to **4.5x** for productivity, with anecdotal reports of consuming **3x more content** via audio. Writers leverage the tool for
 
 ## Use Cases
 
@@ -39,7 +39,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://speechify.com/medium?source=post_page
+Original source URL: https://speechify.com/medium?source=
 
 ## Local Vault File
 

@@ -12,7 +12,6 @@ resource_kind: framework
 importance: high
 tags:
 - frontend_ui
-- hackernews
 - rag
 - reddit
 - web-crawled
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Ownership Transfer**: The Stripe Firestore extension has been officially transferred to Invertase for maintenance, with migration recommended from `stripe/firestore-stripe-payments` to `invertase/firestore-stripe-payments` ([GitHub issue #524](https://github.com/invertase/stripe-firebase-extensions/issues/524)).
+- **Extension Transfer**: The Stripe Firestore extension has been officially transferred to Invertase for maintenance, as documented in [GitHub issue #524](https://github.com/invertase/stripe-firebase-extensions/issues/524); users are advised to uninstall the old extension (`stripe/firestore-stripe-payments@0.3.4`) and install the new maintained version (`invertase/firestore-stripe-payments`).
 
-- **Core Functionality**: The extension synchronizes Stripe payments (one-time/subscriptions) with Firebase Authentication and Cloud Firestore, enabling access control via custom cl
+- **Key Functionality**: The extension synchronizes Stripe payments (one-time and recurring) with Fire
 
 ## Use Cases
 

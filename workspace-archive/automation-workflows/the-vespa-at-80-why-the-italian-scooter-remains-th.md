@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by cf100clunk. Score: 46, Comments: 38.
+Hacker News story by cf100clunk. Score: 89, Comments: 79.
 Original Link: https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641
 
 ## Use Cases

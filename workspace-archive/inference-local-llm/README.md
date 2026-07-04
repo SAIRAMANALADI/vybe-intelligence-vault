@@ -26,7 +26,7 @@ https://github.com/vllm-project/vllm (vLLM)
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)
 - [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2)
 - [vndee/local-assistant-examples](https://github.com/vndee/local-assistant-examples)
-- [google-research/scann at master · google-research/google-research · GitHub](https://github.com/google-research/google-research/tree/master/scann)
+- [llmware-ai/llmware](https://github.com/llmware-ai/llmware)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-07-04 19:46 IST*
+*Last updated: 2026-07-04 22:04 IST*

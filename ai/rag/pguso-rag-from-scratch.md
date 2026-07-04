@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-07-04T19:30:05.025699+05:30'
+collected_at: '2026-07-04T21:48:06.377875+05:30'
 published_at: '2026-07-04T09:40:57Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - meta-ai
 - models
 - rag
-- workflows
 stars: 1471
 language: JavaScript
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-07-04T19:30:05.025699+05:30'
-last_seen: '2026-07-04T19:30:05.025699+05:30'
-last_checked: '2026-07-04T19:30:05.025699+05:30'
+first_seen: '2026-07-04T21:48:06.377875+05:30'
+last_seen: '2026-07-04T21:48:06.377875+05:30'
+last_checked: '2026-07-04T21:48:06.377875+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline construction from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box abstractions, emphasizing embeddings, vector search, retrieval, and context-augmented generation.
-
-- **JavaScript-Based Pipeline**: Implements a full RAG workflow in JavaScript/Node.js, covering document ingestion, embedding generation, vector database storage, retrieval mechanisms, and LLM integration for augmented generation.
-
-- **Open-Source Tutorial**: Provides a hands-on, step-by-step guide for building RAG systems, targeting developers interested in understanding the underlying mechanics of agents, chatbots, and AI pipelines without proprietary dependencies.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline using local LLMs (via `node-llama-cpp`) in JavaScript, avoiding proprietary APIs for full transparency.
+- **Core Components**: Covers embeddings generation, vector search (retrieval), and context-augmented generation, with a focus on educational clarity and hands-on implementation.
+- **Tooling**: Leverages Node.js ecosystem (`node-llama-cpp`, `nodejs`) for a modular, open-source RAG pipeline with agent-based and chatbot applications.
 
 ## Why It Matters
 

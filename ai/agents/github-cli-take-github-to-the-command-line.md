@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://cli.github.com
-published_at: '2026-07-04T19:38:09.721925+05:30'
-collected_at: '2026-07-04T19:38:09.721939+05:30'
+published_at: '2026-07-04T21:53:10.754607+05:30'
+collected_at: '2026-07-04T21:53:10.754619+05:30'
 tags:
 - agents
 - producthunt
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:github-cli-take-github-to-the-command-line
-first_seen: '2026-07-04T19:38:09.721939+05:30'
-last_seen: '2026-07-04T19:38:09.721939+05:30'
-last_checked: '2026-07-04T19:38:09.721939+05:30'
+first_seen: '2026-07-04T21:53:10.754619+05:30'
+last_seen: '2026-07-04T21:53:10.754619+05:30'
+last_checked: '2026-07-04T21:53:10.754619+05:30'
 health_score: 100
 ---
 
@@ -25,9 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub CLI (`gh`)** is a free, open-source tool that integrates GitHub workflows directly into the terminal, supporting commands like `gh issue list`, `gh pr status`, `gh pr checkout`, `gh pr create`, `gh release create`, and `gh repo view`.
-- **Installation** is supported across platforms via package managers (e.g., `brew install gh` for macOS, `winget` for Windows) or direct downloads (`.deb`, `.rpm`, `.tar.gz`, binaries/msi).
-- **Features** include GitHub Copilot CLI integration, custom aliases (e.g., `gh alias set bugs 'issue list --label="bugs"'`), GitHub Enterprise Server support, and API scripting capabilities for automation.
+- **GitHub CLI (`gh`)** integrates GitHub workflows directly into the terminal, enabling native command-line operations for issues (`gh issue list`), pull requests (`gh pr status/checkout/create/checks`), releases (`gh release create`), and repository management (`gh repo view`), with support for custom aliases (`gh alias set`).
+
+- **Multi-platform installation** via package managers (Homebrew, WinGet, `apt`, `dnf`, `zypper`) or direct downloads (`.deb`, `.rpm`, `.zip`, `.msi`, `.tar.gz`), with `brew install gh` as the macOS default.
+
+- **Enterprise compatibility** and extensibility via GitHub Copilot CLI integration, API scripting, and MCP server/plugins for advanced automation.
 
 ## Why It Matters
 
@@ -37,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-04T19:38:09.721925+05:30
+- Published: 2026-07-04T21:53:10.754607+05:30
 
 ## Related Tags
 

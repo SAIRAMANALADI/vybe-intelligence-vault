@@ -1,53 +1,70 @@
 ---
-title: extensions/firestore-bigquery-export at master · firebase/extensions · GitHub
+title: firebase/extensions
 category: ai/rag
-source_type: web
-source_name: Web Discovery
-source_url: https://github.com/firebase/extensions/tree/master/firestore-bigquery-export#export-collections-to-bigquery
-published_at: '2026-06-27T14:30:52.097001+05:30'
-collected_at: '2026-06-27T14:30:52.097014+05:30'
+source_type: github
+source_name: GitHub Discovery
+source_url: https://github.com/firebase/extensions
+collected_at: '2026-07-04T22:00:16.626306+05:30'
+published_at: '2026-07-02T08:08:20Z'
 tags:
-- dataset
+- github-repo
 - rag
-- reddit
-- scripts
-- web-crawled
+- typescript
+stars: 974
+language: TypeScript
 status: active
+license: Apache-2.0
+archived: false
+created_at: '2019-08-20T01:00:45Z'
+pushed_at: '2026-07-02T08:15:51Z'
 resource_id: github:firebase/extensions
-first_seen: '2026-06-27T14:30:52.097014+05:30'
-last_seen: '2026-06-27T14:30:52.097014+05:30'
-last_checked: '2026-06-27T14:30:52.097014+05:30'
+first_seen: '2026-07-04T22:00:16.626306+05:30'
+last_seen: '2026-07-04T22:00:16.626306+05:30'
+last_checked: '2026-07-04T22:00:16.626306+05:30'
 health_score: 100
 ---
 
-# extensions/firestore-bigquery-export at master · firebase/extensions · GitHub
+# firebase/extensions
 
 ## Summary
 
-- **Real-time Incremental Sync**: The extension mirrors Firestore document changes (CREATE/UPDATE/DELETE) to BigQuery in real-time, storing full change history in a raw table with metadata fields (`timestamp`, `document_name`, `operation`) and providing a view for current state.
+- **Repository Overview**: Official Firebase extensions source code, written in TypeScript, with 974 stars and 430 forks as of the last update on July 2, 2026.
 
-- **Materialized View Support**: Supports both regular and materialized views in BigQuery, with options for incremental (efficient updates, query restrictions) or non-incremental (complex queries, full recomputation) configurations, configurable via extension parameters.
+- **Purpose**: Provides modular, pre-built Firebase functions to extend Firebase services (e.g., Auth, Firestore, Storage) without custom backend development.
 
-- **Cross-Project & Encryption Options**: Enables streaming to a different GCP project via `BIGQUERY_PROJECT_ID` parameter and supports customer-managed encryption keys (CMEK) for BigQuery tables, requiring KMS keyring/key setup with matching regional constraints.
+- **Structure**: Organized as a monorepo with extension-specific directories, shared utilities, and TypeScript-based Cloud Functions for Firebase integration.
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: Web Discovery
-- Category: ai/rag
-- Published: 2026-06-27T14:30:52.097001+05:30
+- Owner: firebase
+- Stars: 974
+- Forks: 430
+- Language: TypeScript
+- Topics: None
+- Last Updated: 2026-07-02T08:08:20Z
+- License: Apache-2.0
+- Archived: No
+- Created At: 2019-08-20T01:00:45Z
+- Pushed At: 2026-07-02T08:15:51Z
 
-## Related Tags
+## Possible Use Cases
 
-- dataset
-- rag
-- reddit
-- scripts
-- web-crawled
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 
-Original source: https://github.com/firebase/extensions/tree/master/firestore-bigquery-export#export-collections-to-bigquery
+Original source: https://github.com/firebase/extensions

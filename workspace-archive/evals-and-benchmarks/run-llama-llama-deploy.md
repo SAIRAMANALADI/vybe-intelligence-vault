@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: Python-based framework for deploying agentic workflows to production, leveraging LLM integration (via LlamaIndex) and multi-agent architectures.
-- **Key Features**: Supports scalable deployment of autonomous agents, workflow orchestration, and production-grade infrastructure for LLM-driven applications.
-- **Ecosystem Integration**: Compatible with LlamaIndex for data indexing and retrieval, enabling advanced RAG and agentic capabilities in deployed workflows.
+- **Framework for Agentic Workflow Deployment**: Python-based framework enabling production deployment of agentic workflows, leveraging LLM integration for multi-agent orchestration.
+- **Multi-Agent Orchestration**: Supports complex workflows with multiple agents, utilizing LlamaIndex for data indexing and retrieval.
+- **Scalable Production Deployment**: Designed for scalable, real-world deployment with modular architecture, facilitating integration into existing infrastructure.
 
 ## Use Cases
 

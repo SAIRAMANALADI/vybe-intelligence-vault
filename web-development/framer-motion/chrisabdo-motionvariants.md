@@ -4,18 +4,18 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/chrisabdo/motionvariants
-collected_at: '2026-06-27T09:46:59.871644+05:30'
-published_at: '2026-06-27T02:15:22Z'
+collected_at: '2026-07-04T21:47:03.280718+05:30'
+published_at: '2026-07-04T14:39:51Z'
 tags:
 - animation
 - frontend_ui
-stars: 994
+stars: 995
 language: TypeScript
 status: active
 resource_id: github:chrisabdo/motionvariants
 first_seen: '2026-06-12T10:40:18.782947+00:00'
-last_seen: '2026-06-27T09:46:59.871644+05:30'
-last_checked: '2026-06-27T09:46:59.871644+05:30'
+last_seen: '2026-07-04T21:47:03.280718+05:30'
+last_checked: '2026-07-04T21:47:03.280718+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 ## Repository Details
 
 - Owner: ChrisAbdo
-- Stars: 994
+- Stars: 995
 - Forks: 42
 - Language: TypeScript
 - Topics: animation, framer, framer-motion, nextjs, nextjs13, tailwindcss
-- Last Updated: 2026-06-27T02:15:22Z
+- Last Updated: 2026-07-04T14:39:51Z
 
 ## Possible Use Cases
 

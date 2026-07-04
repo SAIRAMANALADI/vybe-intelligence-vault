@@ -31,11 +31,8 @@ selection_reason:
 
 ## Summary
 
-- **Billing & Renewal**: Member Services operate on recurring (monthly/annual) subscriptions, auto-renewing unless canceled before the next billing cycle; fees are charged on the same day of renewal, with prorated refunds unavailable.
-
-- **Access & Termination**: Users receive a non-exclusive license for personal, non-commercial use; violations or payment failures may result in immediate revocation of access without refunds.
-
-- **Gift Memberships**: Pre-paid codes expire after one year, are non-
+- **Payment & Renewal**: Recurring subscription fees (monthly/annual) are charged automatically on the same day of the month/year as initial payment; invalid payment methods may result in immediate access revocation until updated, with potential subscription cancellation for prolonged failure.
+- **Cancellations & Refunds**: Subscriptions can be canceled before the end of the current billing period, retaining access until the next cycle without refunds; violations of terms may lead to immediate t
 
 ## Use Cases
 

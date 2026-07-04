@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AgentOps-AI/agentops
-collected_at: '2026-07-04T19:32:45.221962+05:30'
+collected_at: '2026-07-04T21:50:46.579771+05:30'
 published_at: '2026-07-03T19:02:14Z'
 tags:
 - agents
@@ -16,6 +16,7 @@ tags:
 - models
 - openai
 - python
+- workflows
 stars: 5678
 language: Python
 status: active
@@ -24,9 +25,9 @@ archived: false
 created_at: '2023-08-15T23:26:23Z'
 pushed_at: '2026-06-25T08:25:03Z'
 resource_id: github:agentops-ai/agentops
-first_seen: '2026-07-04T19:32:45.221962+05:30'
-last_seen: '2026-07-04T19:32:45.221962+05:30'
-last_checked: '2026-07-04T19:32:45.221962+05:30'
+first_seen: '2026-07-04T21:50:46.579771+05:30'
+last_seen: '2026-07-04T21:50:46.579771+05:30'
+last_checked: '2026-07-04T21:50:46.579771+05:30'
 health_score: 100
 ---
 
@@ -34,11 +35,11 @@ health_score: 100
 
 ## Summary
 
-- **Python SDK** for monitoring AI agents, tracking LLM costs, and benchmarking, supporting frameworks like CrewAI, LangChain, AutoGen, and OpenAI Agents SDK.
+- **Multi-framework integration**: Python SDK supporting monitoring, cost tracking, and benchmarking for AI agents across CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI, with compatibility for major LLMs (OpenAI, Anthropic, Mistral, Groq, Ollama).
 
-- **Integration** with major LLMs (OpenAI, Anthropic, Mistral, Groq, Ollama) and agent frameworks, enabling unified observability and evaluation metrics.
+- **Real-time observability**: Provides LLM cost estimation, performance metrics, and evaluation tools (evals) for agent behavior analysis, enabling debugging and optimization in production environments.
 
-- **Features** include cost estimation, evals, performance tracking, and compatibility with AG2 and CamelAI, updated as of July 3, 2026.
+- **Extensible architecture**: Lightweight SDK with modular design for seamless integration into existing agent workflows, supporting both local and cloud-based agent deployments.
 
 ## Why It Matters
 

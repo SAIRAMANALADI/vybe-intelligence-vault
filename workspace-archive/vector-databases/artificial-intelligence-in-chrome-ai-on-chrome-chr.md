@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Built-in AI in Chrome**: Chrome integrates **Gemini Nano** for on-device AI tasks, offering browser-managed foundation/expert models via APIs (e.g., summarization, translation) with managed compute resources.
-- **Web AI Acceleration**: Chrome leverages **WebAssembly (Wasm), WebGPU, and WebNN** APIs to optimize AI inference performance, enabling GPU acceleration and efficient client-side ML operations.
-- **AI Development Tools**: Chrome provides **DevTools AI assistance** (e.g., Gemini integr
+- **Built-in AI APIs**: Chrome provides browser-managed AI models (e.g., Gemini Nano) via APIs for tasks like translation, summarization, and content generation, enabling client-side AI workloads with reduced latency and improved privacy.
+- **Performance Optimization**: Chrome leverages WebAssembly (Wasm), WebGPU, and WebNN APIs to accelerate AI inference, enabling GPU-accelerated ML operations and optimized compute performance for web-based AI.
+- **AI Development Tools**: Chrome’s DevTools inte
 
 ## Use Cases
 

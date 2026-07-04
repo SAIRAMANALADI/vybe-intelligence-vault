@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Precomputed Query Optimization**: Materialized views in BigQuery store precomputed results of SQL queries, reducing processing time and costs by minimizing data scans. They automatically refresh incrementally when base tables change, with BigQuery handling background updates without user intervention.
+- **Precomputed Query Optimization**: Materialized views in BigQuery store precomputed SQL query results, reducing scan costs and processing time by avoiding repeated expensive operations (e.g., joins, aggregations) on large datasets. Smart tuning automatically reroutes queries to use materialized views when beneficial, improving performance and efficiency.
 
-- **Incremental vs. Non-Incremental Types**: Incremental materialized views support limited SQL syntax but enable smart tuning (query redirection to views) and cost-efficient incremental updat
+- **Incremental vs. Non-Incremental Types**: Incremental materialized views support limited SQL syntax but enable automatic, cost-efficient
 
 ## Use Cases
 

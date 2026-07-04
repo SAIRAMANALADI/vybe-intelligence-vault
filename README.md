@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 12,669</p>
-        <p><b>Active:</b> 12,315 | <b>Inactive:</b> 354</p>
+        <p><b>Resources tracked:</b> 12,687</p>
+        <p><b>Active:</b> 12,331 | <b>Inactive:</b> 356</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 48,226</p>
+        <p><b>Archive Files:</b> 48,286</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-04 20:40 IST</p>
+        <p><b>Last Update:</b> 2026-07-04 22:04 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,18 +55,26 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+13</kbd>
-- 🔼 **[pathwaycom/llm-app](ai/rag/pathwaycom-llm-app.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[The bottleneck might be the air in the room](ai/community/the-bottleneck-might-be-the-air-in-the-room.md)** • <kbd>+110 pts</kbd>
+- 🔼 **[The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels](ai/community/the-vespa-at-80-why-the-italian-scooter-remains-th.md)** • <kbd>+43 pts</kbd>
+- 🔼 **[Postgres data stored in Parquet on S3: LTAP architecture explained](ai/community/postgres-data-stored-in-parquet-on-s3-ltap-archite.md)** • <kbd>+38 pts</kbd>
+- 🔼 **[2026 Unslop AI-Written Fiction Contest Results](ai/community/2026-unslop-ai-written-fiction-contest-results.md)** • <kbd>+15 pts</kbd>
+- 🔼 **[Jamesob's guide to running SOTA LLMs locally](ai/community/jamesob-local-llm.md)** • <kbd>+12 pts</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[The Reports of Jim Carrey's Death Are a Failure Mode](ai/community/the-reports-of-jim-carrey-s-death-are-a-failure-mo.md)** • Score: `12`
+- 🆕 **[Engineering \ Anthropic](ai/rag/engineering-anthropic.md)** • Score: `0`
+- 🆕 **[Get started with Remote Config personalization | Firebase Remote Config](ai/resources/get-started-with-remote-config-personalization-fir.md)** • Score: `0`
+- 🆕 **[What can you do with Remote Config personalization? | Firebase Remote Config](ai/resources/what-can-you-do-with-remote-config-personalization.md)** • Score: `0`
+- 🆕 **[Firebase Remote Config](ai/rag/firebase-remote-config.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining](ai/community/adam-s-car-diagnosis.md)**
+- 💤 **[Show HN: Foundation, a different approach to software and AI](ai/community/nmxmxh-foundation.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

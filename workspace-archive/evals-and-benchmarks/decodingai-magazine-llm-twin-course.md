@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **End-to-end LLM & RAG system**: Course provides source code and 12 hands-on lessons for building production-ready LLM and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices.
+- **End-to-End LLM & RAG System**: Course provides hands-on guidance for building production-ready LLM and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including source code and 12 structured lessons.
 
-- **Technical stack**: Implements AWS, Bytewax, Comet-ML, Docker, Pulumi, Qdrant, Qwak, and Superlinked for infrastructure-as-code, MLOps, and ML system design.
+- **Technical Stack & Tools**: Implements infrastructure-as-code (Pulumi), containerization (Docker), vector databases (Qdrant), MLOps (Bytewax, Qwak), and experiment tracking (Comet-ML), with AWS integration for scalable deployment.
 
-- **MLOps & LLMOps focus**: Covers ML system design, generative AI, and LLMOps with infrastructure-as-code (IaC) and deployment strategies
+- **ML System Design Focus**: Cove
 
 ## Use Cases
 

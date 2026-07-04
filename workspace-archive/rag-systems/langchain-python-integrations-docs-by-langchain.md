@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Extensive Ecosystem**: LangChain provides **1000+ integrations** across chat/embedding models, tools, document loaders, and vector stores via dedicated `langchain-<provider>` packages, enabling consistent API usage across providers (e.g., OpenAI, Anthropic, Google).
+- LangChain provides **1000+ integrations** across chat/embedding models, tools, document loaders, and vector stores via dedicated `langchain-<provider>` packages, enabling consistent API usage across providers (e.g., OpenAI, Anthropic, Google) without code changes.
 
-- **Provider Abstraction**: Each provider package (e.g., `langchain-openai`, `langchain-google-vertexai`) implements standardized interfaces (chat/embedding models, vector stores), allowing **seamless model swapping** without co
+- Providers expose AI models via APIs, and LangChain's modular design allows **seamless provider/model swapping** by installing the relevant package (e.g., `langchain-openai`, `langchain-google-vertexai`) and specifying model names.
 
 ## Use Cases
 

@@ -6,7 +6,7 @@ source_url: https://developer.chrome.com/docs/ai
 resource_id: blog:artificial-intelligence-in-chrome-ai-on-chrome-chr
 local_vault_path: ai/rag/artificial-intelligence-in-chrome-ai-on-chrome-chr.md
 quality_score: 70
-archive_score: 76
+archive_score: 72
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Built-in AI in Chrome**: Chrome integrates **Gemini Nano** for on-device AI tasks, offering browser-managed foundation/expert models via APIs (e.g., summarization, translation) with managed compute resources.
-- **Web AI Acceleration**: Chrome leverages **WebAssembly (Wasm), WebGPU, and WebNN** APIs to optimize AI inference performance, enabling GPU acceleration and efficient client-side ML operations.
-- **AI Development Tools**: Chrome provides **DevTools AI assistance** (e.g., Gemini integr
+- **Built-in AI APIs**: Chrome provides browser-managed AI models (e.g., Gemini Nano) via APIs for tasks like translation, summarization, and content generation, enabling client-side AI workloads with reduced latency and improved privacy.
+- **Performance Optimization**: Chrome leverages WebAssembly (Wasm), WebGPU, and WebNN APIs to accelerate AI inference, enabling GPU-accelerated ML operations and optimized compute performance for web-based AI.
+- **AI Development Tools**: Chrome’s DevTools inte
 
 ## Use Cases
 

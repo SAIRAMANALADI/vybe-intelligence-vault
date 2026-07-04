@@ -15,6 +15,7 @@ tags:
 - benchmark
 - github-repo
 - python
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Framework**: A Python-based AI benchmark simulating tasks within a virtual software company to evaluate agent capabilities.
-- **Task Scope**: Encompasses multi-faceted challenges (e.g., coding, debugging, project management) to assess LLM performance in software engineering contexts.
-- **Research Tool**: Designed for AI research, enabling systematic evaluation of agentic LLMs with 737 GitHub stars and 119 forks.
+- **Benchmark Framework**: A Python-based AI benchmark simulating a software company environment to evaluate agent performance on complex, multi-step tasks.
+
+- **Task Complexity**: Designed to test agent capabilities in software development workflows, including coding, debugging, and project management.
+
+- **Research Utility**: Enables AI researchers to assess LLM-based agents' adaptability, problem-solving, and collaboration in a controlled, reproducible setting.
 
 ## Use Cases
 

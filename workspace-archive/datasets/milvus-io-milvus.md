@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Scalable Vector ANN Search Engine**: Milvus is a cloud-native, distributed vector database optimized for high-performance approximate nearest neighbor (ANN) search, supporting billion-scale vector datasets with sub-millisecond latency.
-- **Multi-Algorithm & Hybrid Indexing**: Implements multiple indexing algorithms (HNSW, IVF, DiskANN, FAISS) and supports hybrid search (scalar + vector) with configurable storage tiers (memory/disk).
-- **Production-Grade Features**: Provides ACID transactions
+- **High-performance, cloud-native vector database**: Milvus is optimized for scalable approximate nearest neighbor (ANN) search, leveraging distributed architectures and efficient indexing (e.g., HNSW, DiskANN, FAISS) for low-latency, high-throughput vector similarity search.
+
+- **Go-based implementation**: The core system is written in Go, ensuring concurrency, performance, and compatibility with cloud-native environments (e.g., Kubernetes, microservices).
+
+- **Multi-modal embedding support**:
 
 ## Use Cases
 

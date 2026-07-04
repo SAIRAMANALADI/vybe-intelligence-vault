@@ -4,11 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-07-04T19:30:55.081503+05:30'
+collected_at: '2026-07-04T21:48:56.461740+05:30'
 published_at: '2026-07-03T02:13:34Z'
 tags:
+- benchmark
+- dataset
 - github-repo
 - hackernews
+- paper
 - rag
 - unknown
 stars: 338
@@ -18,9 +21,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-07-04T19:30:55.081503+05:30'
-last_seen: '2026-07-04T19:30:55.081503+05:30'
-last_checked: '2026-07-04T19:30:55.081503+05:30'
+first_seen: '2026-07-04T21:48:56.461740+05:30'
+last_seen: '2026-07-04T21:48:56.461740+05:30'
+last_checked: '2026-07-04T21:48:56.461740+05:30'
 health_score: 100
 ---
 
@@ -28,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG-Vision Resources**: Repository aggregates advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including methods integrating vision-language models (VLMs), multimodal retrieval, and cross-modal attention mechanisms.
-
-- **Multimodal Retrieval Focus**: Emphasizes **vision-centric RAG** frameworks leveraging **image-text retrieval**, **semantic search**, and **context-aware augmentation** to enhance visual question answering (VQA), image captioning, and scene understanding tasks.
-
-- **Cutting-Edge Techniques**: Highlights state-of-the-art approaches such as **cross-modal contrastive learning**, **fusion-based retrieval**, and **adaptive RAG pipelines** optimized for high-dimensional visual embeddings and dynamic knowledge integration.
+- **Curated RAG-Vision Resources**: Repository aggregates advanced retrieval-augmented generation (RAG) techniques specifically tailored for computer vision applications, including multimodal models, cross-modal retrieval, and vision-language integration.
+- **Multimodal RAG Frameworks**: Includes implementations and papers on combining visual features (e.g., CNNs, ViTs) with textual retrieval for tasks like image captioning, visual question answering (VQA), and zero-shot recognition.
+- **Evaluation & Benchmarks**: Provides datasets and metrics for assessing RAG-Vision systems, such as retrieval accuracy, generation quality, and cross-modal alignment performance.
 
 ## Why It Matters
 

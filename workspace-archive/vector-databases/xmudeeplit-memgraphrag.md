@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Memory-Enhanced Multi-Agent Framework**: Introduces a memory-based multi-agent system (`MemGraphRAG`) for graph retrieval-augmented generation (GraphRAG), leveraging agent-memory interactions to improve structured knowledge extraction and reasoning.
+- **Memory-Based Multi-Agent Framework**: Introduces a novel **memory-driven multi-agent system** for **Graph Retrieval-Augmented Generation (GraphRAG)**, leveraging agent-memory interactions to enhance graph-based knowledge retrieval and generation.
 
-- **Ontology-Guided Graph Construction**: Implements ontology-driven graph construction to dynamically build and refine knowledge graphs, enabling efficient retrieval and augmentation of contextual information for downstream generation tasks.
+- **Graph & Ontology Construction**: Implements **dynamic graph construction** and **ontology learning** to structure unstructured data, enabling efficient **knowledge graph augmentation** for downstream RAG tasks.
 
--
+- **KDD 2026 Contribution**: Pro
 
 ## Use Cases
 

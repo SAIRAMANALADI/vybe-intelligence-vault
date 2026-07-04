@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-07-04T19:30:45.084409+05:30'
+collected_at: '2026-07-04T21:48:46.479236+05:30'
 published_at: '2026-07-04T07:17:45Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 stars: 138
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-06-30T05:24:48Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-07-04T19:30:45.084409+05:30'
-last_seen: '2026-07-04T19:30:45.084409+05:30'
-last_checked: '2026-07-04T19:30:45.084409+05:30'
+first_seen: '2026-07-04T21:48:46.479236+05:30'
+last_seen: '2026-07-04T21:48:46.479236+05:30'
+last_checked: '2026-07-04T21:48:46.479236+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated list of production-grade RAG tools**: Repository aggregates battle-tested frameworks, libraries, and best practices for building scalable Retrieval-Augmented Generation (RAG) systems in Python, covering LLMOps, embeddings, and vector databases.
-
-- **Comprehensive topic coverage**: Includes resources on AI engineering, generative AI, LangChain, LLMs, MLOps, and vector database integration, with a focus on production deployment and optimization.
-
-- **Actively maintained resource**: Last updated July 2026, with 138 stars and 34 forks, indicating ongoing community engagement and updates for cutting-edge RAG system development.
+- **Curated resources**: Repository provides a structured list of production-grade RAG tools, frameworks, and best practices for scalable AI systems.
+- **Technical scope**: Covers embeddings, vector databases, LLMops, and MLOps with Python-centric implementations.
+- **Updated ecosystem**: Last modified in 2026, reflecting recent advancements in RAG, LangChain, and generative AI tooling.
 
 ## Why It Matters
 

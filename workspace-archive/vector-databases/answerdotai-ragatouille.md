@@ -8,15 +8,14 @@ local_vault_path: ai/rag/answerdotai-ragatouille.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # AnswerDotAI/RAGatouille
@@ -25,17 +24,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Modular ColBERT Integration**: Provides a Python library for seamless integration and training of ColBERT (a late-interaction retrieval model) within any RAG pipeline, emphasizing modularity and ease of use.
-
-- **Research-Backed Optimization**: Leverages state-of-the-art retrieval techniques (ColBERTv2) to enhance retrieval quality in RAG systems, with optimizations for performance and scalability.
-
-- **Python Framework**: Built in Python with a focus on developer experience, enabling quick
+- **ColBERT Integration**: Provides modular, easy-to-use implementation of ColBERT (Contextualized Late Interaction over BERT) for high-precision late-interaction retrieval in RAG pipelines.
+- **Research-Backed**: Built on state-of-the-art retrieval methods with a focus on modularity and usability for seamless integration into existing systems.
+- **Python-Based**: Fully implemented in Python, supporting efficient training and deployment of late-interaction retrieval models.
 
 ## Use Cases
 

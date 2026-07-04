@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by livestyle. Score: 371, Comments: 168.
+Hacker News story by livestyle. Score: 383, Comments: 172.
 Original Link: https://github.com/jamesob/local-llm
 
 ## Use Cases

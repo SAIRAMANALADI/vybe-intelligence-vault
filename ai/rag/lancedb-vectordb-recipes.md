@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-04T19:30:05.055553+05:30'
+collected_at: '2026-07-04T21:48:06.458277+05:30'
 published_at: '2026-06-30T08:00:12Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -24,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-04T19:30:05.055553+05:30'
-last_seen: '2026-07-04T19:30:05.055553+05:30'
-last_checked: '2026-07-04T19:30:05.055553+05:30'
+first_seen: '2026-07-04T21:48:06.458277+05:30'
+last_seen: '2026-07-04T21:48:06.458277+05:30'
+last_checked: '2026-07-04T21:48:06.458277+05:30'
 health_score: 100
 ---
 
@@ -34,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Examples**: Repository provides Jupyter Notebook-based tutorials for multimodal AI, Retrieval-Augmented Generation (RAG), and agent-based systems using vector search and LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI workflows, integrating vector search with LLMs (e.g., GPT-4 Vision) for advanced AI applications.
 
-- **Vector Database Integration**: Focuses on LanceDB as a vector database, demonstrating embeddings, fine-tuning, and hybrid search techniques for efficient multimodal and text-based retrieval.
+- **Vector Database Integration**: Demonstrates practical use cases leveraging LanceDB (a vector database) for efficient embedding storage, retrieval, and similarity search in AI pipelines, with compatibility for LangChain and LlamaIndex frameworks.
 
-- **Tooling & Frameworks**: Includes examples leveraging OpenAI APIs, LangChain, and LlamaIndex for building AI agents, with support for fine-tuning and deep learning workflows.
+- **Fine-Tuning & Agents**: Includes tutorials on fine-tuning models, building AI agents, and deploying multimodal systems using OpenAI embeddings, with a focus on optimizing performance for production-grade AI workloads.
 
 ## Why It Matters
 

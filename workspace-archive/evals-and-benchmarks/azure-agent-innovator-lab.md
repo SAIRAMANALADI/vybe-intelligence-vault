@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Focus**: Provides a structured guide for building AI agents on Azure, emphasizing search optimization, agent architecture, evaluation methodologies, and Retrieval-Augmented Generation (RAG) best practices.
-- **Technical Stack**: Implemented primarily in Jupyter Notebooks, facilitating interactive development and experimentation with AI agent frameworks.
-- **Update Status**: Last updated on **2026-06-30**, indicating ongoing maintenance and relevance for cutting-edge AI agent resea
+- **Repository Overview**: Provides a structured lab environment for building and optimizing AI agents on Microsoft Azure, focusing on search optimization, agent architecture, evaluation frameworks, and Retrieval-Augmented Generation (RAG) best practices.
+
+- **Technical Implementation**: Delivered as Jupyter Notebooks, enabling interactive experimentation with agent design patterns, evaluation metrics, and RAG pipelines, leveraging Azure's AI/ML services.
+
+- **Version & Metadata**: Last updated
 
 ## Use Cases
 

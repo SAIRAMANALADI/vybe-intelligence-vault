@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Agent Development Tutorial**: Provides a structured, zero-to-hero guide on building intelligent agents from fundamental principles to practical implementation, covering core concepts like LLM integration, RAG pipelines, and agent architectures.
+- **Comprehensive Agent Framework Tutorial**: Provides a step-by-step guide to building intelligent agents from scratch, covering core principles, architectures, and practical implementations in Python.
 
-- **Python-Based Implementation**: Focuses on hands-on Python code examples and frameworks to demonstrate agent construction, including tool integration, memory systems, and multi-agent coordination.
+- **Key Components Integration**: Focuses on combining large language models (LLMs), retrieval-augmented generation (RAG), and agent orchestration for real-world applications.
 
-- **Open-Source Educational Resourc
+- **Open-Source Educational Resource**: Hosted on GitHub with 63.9k+ stars and 7.9k+ forks, offering a collaborative le
 
 ## Use Cases
 

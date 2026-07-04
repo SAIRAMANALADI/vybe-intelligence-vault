@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-07-04T03:51:37.453393+05:30'
-published_at: '2026-07-02T18:58:39Z'
+collected_at: '2026-07-04T21:50:56.666990+05:30'
+published_at: '2026-07-04T11:20:04Z'
 tags:
 - agents
 - frontend_ui
@@ -14,17 +14,17 @@ tags:
 - rag
 - scripts
 - workflows
-stars: 3707
+stars: 3708
 language: Python
 status: active
 license: AGPL-3.0
 archived: false
 created_at: '2024-02-27T06:48:32Z'
-pushed_at: '2026-07-03T22:20:31Z'
+pushed_at: '2026-07-04T04:07:00Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-07-04T03:51:37.453393+05:30'
-last_seen: '2026-07-04T03:51:37.453393+05:30'
-last_checked: '2026-07-04T03:51:37.453393+05:30'
+first_seen: '2026-07-04T21:50:56.666990+05:30'
+last_seen: '2026-07-04T21:50:56.666990+05:30'
+last_checked: '2026-07-04T21:50:56.666990+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: Open-source security automation platform enabling event-driven workflows for teams and AI agents, built with Python (FastAPI backend) and Next.js (frontend), leveraging OpenAPI and Pydantic for schema validation.
+- **Platform Architecture**: Python-based open-source security automation platform leveraging FastAPI for backend services, Next.js for frontend, and Temporal.io for workflow orchestration with event-driven architecture.
 
-- **Core Architecture**: Integrates Temporal.io for orchestration and workflow execution, supports low-code automation via a declarative YAML/JSON DSL, and exposes REST APIs for extensibility.
+- **Core Components**: Integrates Pydantic for data validation, OpenAPI for API specifications, and supports low-code workflow creation with LLM (Large Language Model) integration for AI agent interactions.
 
-- **Key Features**: Supports LLM integration for AI-driven security tasks, includes monitoring capabilities, and is designed for scalability with a modular plugin system for custom integrations.
+- **Security & Monitoring**: Designed for security operations with monitoring capabilities, enabling automated incident response and orchestration of security workflows.
 
 ## Why It Matters
 
@@ -45,15 +45,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TracecatHQ
-- Stars: 3707
-- Forks: 383
+- Stars: 3708
+- Forks: 384
 - Language: Python
 - Topics: agents, automation, event-driven, fastapi, llm, low-code, monitoring, nextjs, openapi, orchestration, pydantic, security, temporalio, workflow-engine
-- Last Updated: 2026-07-02T18:58:39Z
+- Last Updated: 2026-07-04T11:20:04Z
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2024-02-27T06:48:32Z
-- Pushed At: 2026-07-03T22:20:31Z
+- Pushed At: 2026-07-04T04:07:00Z
 
 ## Possible Use Cases
 

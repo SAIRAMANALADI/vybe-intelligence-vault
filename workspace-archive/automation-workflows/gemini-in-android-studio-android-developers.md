@@ -8,20 +8,19 @@ local_vault_path: ai/rag/gemini-in-android-studio-android-developers.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: template
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
 - producthunt
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Gemini in Android Studio - Android Developers
@@ -30,16 +29,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: template
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Agentic AI Integration**: Android Studio Quail 1 integrates **Gemini AI** as an agentic assistant for end-to-end Android development, enabling multi-stage task automation (e.g., unit test generation, UI refactoring, crash analytics) via **Agent Mode**, reducing manual effort and context switching.
+- **Agentic AI Integration**: Gemini in Android Studio provides an AI agent for end-to-end Android development, enabling multi-stage tasks (e.g., unit test generation, UI alterations, error fixes) via Agent Mode, with iterative feedback loops and execution plans across project files.
 
-- **Multimodal & Context-Aware Features**: Supports **image-based UI prototyping** (wireframe-to-code) and **file attachment** for contextual code generation, while **Prompt Library** allows reusa
+- **Multimodal & Context-Aware Features**: Supports multimodal inputs (e.g., UI wireframes/images → code conversion, crash analytics via screenshots) and retains context via `.aiexclude` file for controlled data ac
 
 ## Use Cases
 

@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by andrenotgiant. Score: 74, Comments: 21.
+Hacker News story by andrenotgiant. Score: 112, Comments: 34.
 Original Link: https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage
 
 ## Use Cases

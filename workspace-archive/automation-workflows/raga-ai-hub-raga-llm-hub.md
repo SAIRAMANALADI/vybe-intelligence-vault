@@ -35,8 +35,8 @@ selection_reason:
 ## Summary
 
 - **Purpose-built framework** for evaluating LLMs, implementing guardrails, and enforcing security protocols in Python-based workflows.
-- **Key features** include modular evaluation pipelines, real-time content moderation, and adversarial attack mitigation for LLM deployments.
-- **LLMOps integration** supports CI/CD pipelines, automated benchmarking, and compliance tracking for enterprise-grade LLM applications.
+- **Supports LLMops** with structured evaluation pipelines, security checks, and runtime guardrails for production-grade deployments.
+- **Open-source repository** (114 stars, 14 forks) last updated June 2026, focusing on guardrails, LLM evaluation, and security hardening.
 
 ## Use Cases
 

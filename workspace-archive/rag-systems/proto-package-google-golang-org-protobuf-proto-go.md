@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- Core binary serialization functions: `Size` computes wire-format message size, `Marshal` converts messages to wire format (with `MarshalOptions` for control), and `Unmarshal` parses wire-format data into messages (with `UnmarshalOptions` for control).
+- Provides core functions for binary serialization (`Marshal`, `Unmarshal`, `Size`) and deep message operations (`Clone`, `Merge`, `Equal`, `Reset`, `CheckInitialized`) for protocol buffer messages in Go.
 
-- Message manipulation utilities: `Clone` creates deep copies, `Merge` combines message contents, `Equal` performs deep comparison (including NaN handling), `Reset` clears message fields, and `CheckInitialized` validates required fields in proto
+- Implements optional scalar constructors (`Bool`, `Int32`, `Float32`, etc.) to handle proto2 optional fields as pointer types for efficient construction.
+
+- Supports extension field accessors (`HasExtension`, `GetExtension`, `SetExtension`, `ClearExtension`) exclusively for proto2, enabling r
 
 ## Use Cases
 

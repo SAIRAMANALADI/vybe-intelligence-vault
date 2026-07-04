@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-04T19:31:30.143521+05:30'
+collected_at: '2026-07-04T21:49:31.516447+05:30'
 published_at: '2026-07-03T09:52:43Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-04T19:31:30.143521+05:30'
-last_seen: '2026-07-04T19:31:30.143521+05:30'
-last_checked: '2026-07-04T19:31:30.143521+05:30'
+first_seen: '2026-07-04T21:49:31.516447+05:30'
+last_seen: '2026-07-04T21:49:31.516447+05:30'
+last_checked: '2026-07-04T21:49:31.516447+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory hierarchies.
+- **Cognitive Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
 
-- **Stateful Reasoning**: Implements dynamic memory retrieval and integration mechanisms to maintain contextual coherence over extended narratives, leveraging episodic and semantic memory modules for enhanced reasoning.
+- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain context coherence over extended dialogues or narratives, enhancing multi-turn reasoning capabilities.
 
-- **AAAI 2026 Poster**: Presented as a novel approach in the AAAI 2026 conference, emphasizing empirical validation on long-form reasoning tasks with significant performance gains over traditional RAG systems.
+- **AAAI 2026 Poster**: Presented as a cutting-edge solution for long-form reasoning tasks, leveraging Python-based implementation for modularity and extensibility in RAG systems.
 
 ## Why It Matters
 

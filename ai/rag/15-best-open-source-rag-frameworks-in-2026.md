@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-07-04T19:29:51.783400+05:30'
-collected_at: '2026-07-04T19:29:51.783411+05:30'
+published_at: '2026-07-04T21:47:53.302737+05:30'
+collected_at: '2026-07-04T21:47:53.302751+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-07-04T19:29:51.783411+05:30'
-last_seen: '2026-07-04T19:29:51.783411+05:30'
-last_checked: '2026-07-04T19:29:51.783411+05:30'
+first_seen: '2026-07-04T21:47:53.302751+05:30'
+last_seen: '2026-07-04T21:47:53.302751+05:30'
+last_checked: '2026-07-04T21:47:53.302751+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Firecrawl**: AI-powered web scraping engine with LLM-friendly data extraction (Markdown/HTML), `llms.txt` generation, and deep research capabilities for RAG pipelines.
-- **RAGFlow**: Open-source RAG engine with deep document parsing (PDFs/tables), GraphRAG support, and visual web interface for structured retrieval.
-- **Milvus**: Cloud-native vector database optimized for scalable ANN search, hybrid querying, and multi-modal embeddings in production RAG systems.
+- **Firecrawl**: AI-powered web scraping/crawling API converting websites to LLM-friendly Markdown/HTML; includes `llms.txt` generation, agent-based extraction, and deep research endpoints for RAG data pipelines.
+
+- **LangChain**: 105k⭐ open-source framework for chaining LLM components with modular integrations for models, embeddings, vector stores, retrieval strategies, and evaluation tools (e.g., LangSmith).
+
+- **Milvus**: 33.9k⭐ cloud-native vector database optimized for ANN similarity search; supports hybrid queries, multi-modal embeddings, and distributed scaling for production RAG systems.
 
 ## Why It Matters
 
@@ -45,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T19:29:51.783400+05:30
+- Published: 2026-07-04T21:47:53.302737+05:30
 
 ## Related Tags
 

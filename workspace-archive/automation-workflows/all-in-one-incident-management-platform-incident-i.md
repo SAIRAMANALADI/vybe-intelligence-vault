@@ -34,9 +34,9 @@ selection_reason:
 
 - **AI-driven alert noise reduction**: Automatically filters and prioritizes critical alerts to minimize unnecessary pages, leveraging machine learning to distinguish between high-impact incidents and routine notifications.
 
-- **Dynamic on-call scheduling**: Implements intelligent rotation logic with support for escalation policies, time zone awareness, and skill-based assignment to ensure optimal responder coverage.
+- **Dynamic on-call scheduling**: Implements intelligent rotation logic (e.g., timezone-aware, skill-based) with automated shift management, reducing manual overhead and ensuring optimal coverage.
 
-- **Real-time incident trends & analytics**: Provides historical and live dash
+- **Real-time incident trends & analytics**: Provides actionable insights via
 
 ## Use Cases
 

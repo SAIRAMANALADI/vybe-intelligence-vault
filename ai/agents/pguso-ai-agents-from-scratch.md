@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/ai-agents-from-scratch
-collected_at: '2026-07-04T19:31:50.120866+05:30'
+collected_at: '2026-07-04T21:49:51.522975+05:30'
 published_at: '2026-07-04T08:08:46Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-10-23T19:39:04Z'
 pushed_at: '2026-05-31T08:52:06Z'
 resource_id: github:pguso/ai-agents-from-scratch
-first_seen: '2026-07-04T19:31:50.120866+05:30'
-last_seen: '2026-07-04T19:31:50.120866+05:30'
-last_checked: '2026-07-04T19:31:50.120866+05:30'
+first_seen: '2026-07-04T21:49:51.522975+05:30'
+last_seen: '2026-07-04T21:49:51.522975+05:30'
+last_checked: '2026-07-04T21:49:51.522975+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Repository**: Provides a hands-on tutorial to build AI agents from scratch using local LLMs, emphasizing transparency and understanding of core concepts like function calling, memory, and ReAct (Reasoning and Acting) patterns.
+- **Educational Repository**: Demonstrates building AI agents from scratch using local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies, focusing on core concepts like function calling, memory management, and ReAct (Reasoning and Acting) patterns.
 
-- **Technical Stack**: Implements agents in JavaScript with `node-llama-cpp` for local LLM integration, avoiding proprietary black boxes while supporting React-based agent architectures.
+- **Technical Implementation**: Utilizes JavaScript/Node.js to construct AI agents with explicit control over agent behavior, emphasizing hands-on learning through practical examples and tutorials.
 
-- **Repository Metrics**: Maintained with 4,375 stars and 637 forks, last updated on July 4, 2026, focusing on AI agent development, function calling, and LLM-agent interactions.
+- **Repository Metadata**: 4,375 stars, 637 forks, last updated July 4, 2026; covers topics including `ai-agents`, `function-calling`, `llm-agent`, and `react-agent` for educational and tutorial purposes.
 
 ## Why It Matters
 

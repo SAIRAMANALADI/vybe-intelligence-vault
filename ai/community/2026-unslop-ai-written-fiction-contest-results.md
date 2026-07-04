@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://hyperstitionai.com/unslop-results
 hn_url: https://news.ycombinator.com/item?id=48782890
-score: 32
+score: 47
 author: networked
-comments_count: 82
+comments_count: 115
 published_at: '2026-07-04T11:07:25+05:30'
-collected_at: '2026-07-04T19:29:10.103054+05:30'
+collected_at: '2026-07-04T21:47:08.658043+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:2026-unslop-ai-written-fiction-contest-results
 first_seen: '2026-07-04T19:29:10.103054+05:30'
-last_seen: '2026-07-04T19:29:10.103054+05:30'
-last_checked: '2026-07-04T19:29:10.103054+05:30'
+last_seen: '2026-07-04T21:47:08.658043+05:30'
+last_checked: '2026-07-04T21:47:08.658043+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by networked. Score: 32, Comments: 82.
+Hacker News story by networked. Score: 47, Comments: 115.
 Original Link: https://www.hyperstitionai.com/unslop-results
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: networked
-- Score: 32 Upvotes
-- Comments: 82 Discussions
+- Score: 47 Upvotes
+- Comments: 115 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48782890
 - Original Article: https://hyperstitionai.com/unslop-results
 

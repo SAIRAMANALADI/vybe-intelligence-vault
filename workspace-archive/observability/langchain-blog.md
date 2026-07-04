@@ -8,13 +8,12 @@ local_vault_path: ai/rag/langchain-blog.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: template
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - rag
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -27,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: template
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Dynamic Subagents in Deep Agents**: Introduces a framework for dynamically spawning specialized subagents within Deep Agents, enabling hierarchical task decomposition and adaptive agent architectures for complex workflows.
+- **Model Neutrality vs. Cloud Neutrality**: Emphasizes model neutrality as critical for agent architecture, arguing that reliance on specific cloud providers' models introduces vendor lock-in and operational inefficiencies, whereas model-agnostic designs enable flexibility and cost optimization.
 
-- **LangSmith Engine**: A new execution engine in LangSmith that standardizes agentic workflows, enabling deterministic, reproducible, and observable agent behavior with built-in sandboxing and resource constraints.
-
-- **Prompt Caching in Deep Agents**: Implements a promp
+- **Dynamic Subagents in Deep Agents**: Introduces a framework for dynamic subagent invocation within deep agent systems, enabling runtime selection and chaining of specialized agents to optimize task
 
 ## Use Cases
 

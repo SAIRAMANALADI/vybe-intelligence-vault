@@ -13,11 +13,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `91` | **Path**: [`shadcnstore-shadcn-dashboard-landing-template.md`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`onyx-dot-app-onyx.md`](../../ai/rag/onyx-dot-app-onyx.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
 ### [vonzosten/awesome-LangGraph](https://github.com/vonzosten/awesome-LangGraph)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`vonzosten-awesome-langgraph.md`](../../ai/agents/vonzosten-awesome-langgraph.md)
@@ -63,9 +58,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`genkit-open-source-ai-framework-by-google-in-javas.md`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`generative-ai-build-ai-powered-apps-with-speed-sec.md`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md)
+### [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2606-24937.md`](../../ai/rag/arxiv-2606-24937.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [XSkill: Continual Learning from Experience and Skills in Multimodal Agents](https://arxiv.org/abs/2603.12056)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2603-12056.md`](../../ai/agents/arxiv-2603-12056.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-04 19:46 IST*
+*Last updated: 2026-07-04 22:04 IST*

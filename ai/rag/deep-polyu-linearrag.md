@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-04T19:31:30.199739+05:30'
+collected_at: '2026-07-04T21:49:31.562533+05:30'
 published_at: '2026-07-03T05:52:08Z'
 tags:
 - dataset
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-04T19:31:30.199739+05:30'
-last_seen: '2026-07-04T19:31:30.199739+05:30'
-last_checked: '2026-07-04T19:31:30.199739+05:30'
+first_seen: '2026-07-04T21:49:31.562533+05:30'
+last_seen: '2026-07-04T21:49:31.562533+05:30'
+last_checked: '2026-07-04T21:49:31.562533+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph RAG Architecture**: Introduces a linear graph-based retrieval mechanism for Large Language Models (LLMs), optimizing retrieval efficiency on large-scale corpora by leveraging linear graph traversal instead of traditional hierarchical or dense retrieval methods.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a novel RAG framework that constructs a linear graph over large-scale corpora, enabling efficient retrieval and generation by leveraging linear-time graph traversal algorithms (e.g., BFS/DFS) for contextual augmentation of LLMs.
 
-- **Scalability & Performance**: Demonstrates linear-time complexity for retrieval operations, enabling scalable RAG systems that maintain high accuracy and reduced latency compared to conventional graph-based RAG approaches, particularly for dynamic or evolving datasets.
+- **Scalability & Efficiency**: Achieves linear-time complexity (O(V+E)) for graph construction and retrieval, outperforming traditional graph-based RAG methods (e.g., GraphRAG) in handling large-scale datasets while maintaining low memory overhead via sparse graph representations.
 
-- **Integration with LLMs**: Provides a Python-based framework for seamless integration with LLMs, supporting end-to-end retrieval-augmented generation with minimal overhead, and includes modular components for graph construction, retrieval, and generation.
+- **Hybrid Retrieval Mechanism**: Integrates linear graph traversal with dense retrieval (e.g., embeddings) to dynamically select top-*k* relevant nodes, optimizing trade-offs between computational cost and retrieval accuracy for downstream LLM generation tasks.
 
 ## Why It Matters
 

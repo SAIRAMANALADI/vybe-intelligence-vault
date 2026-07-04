@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://extensions.dev/extensions/firebase/firestore-bigquery-export
-published_at: '2026-07-04T16:38:15.133640+05:30'
-collected_at: '2026-07-04T16:38:15.133653+05:30'
+published_at: '2026-07-04T21:56:16.644695+05:30'
+collected_at: '2026-07-04T21:56:16.644708+05:30'
 tags:
 - dataset
 - rag
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:stream-firestore-to-bigquery-firebase-extensions-h
-first_seen: '2026-07-04T16:38:15.133653+05:30'
-last_seen: '2026-07-04T16:38:15.133653+05:30'
-last_checked: '2026-07-04T16:38:15.133653+05:30'
+first_seen: '2026-07-04T21:56:16.644708+05:30'
+last_seen: '2026-07-04T21:56:16.644708+05:30'
+last_checked: '2026-07-04T21:56:16.644708+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Real-time Incremental Sync**: Streams real-time, incremental updates from a specified Cloud Firestore collection to BigQuery, creating a mirrored dataset with metadata fields (`timestamp`, `document_name`, `operation`) for tracking document changes (`CREATE`, `UPDATE`, `IMPORT`).
-- **Dual BigQuery Resources**: Generates a raw changelog table (full history) and a view (current state) per collection; supports materialized views (incremental/non-incremental) with configurable refresh intervals and max staleness, but excludes partitioning/clustering.
-- **Cross-Project & Security Configs**: Enables cross-project BigQuery streaming via `BIGQUERY_PROJECT_ID` parameter and supports Customer-Managed Encryption Keys (CMEK) via KMS integration; requires manual import script for existing documents post-installation.
+- **Real-time Firestore-to-BigQuery Sync**: Extension streams incremental document changes (CREATE/UPDATE/DELETE) from a specified Firestore collection to BigQuery, maintaining a raw changelog table and a materialized view for current state. Supports wildcard paths for subcollections (e.g., `chats/{chatid}/posts`).
+
+- **Materialized View Support**: Generates both regular and materialized views (incremental/non-incremental) with configurable refresh intervals (`refresh_interval_minutes`, `max_staleness`). Incremental views restrict partitioned/aggregated field filtering; non-incremental views require full recomputation.
+
+- **Cross-Project & Security Configurations**: Enables streaming to a separate BigQuery project via `BIGQUERY_PROJECT_ID` parameter and grants cross-project permissions via provided scripts. Supports Customer-Managed Encryption Keys (CMEK) via KMS integration, requiring explicit key resource naming during setup.
 
 ## Why It Matters
 
@@ -36,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T16:38:15.133640+05:30
+- Published: 2026-07-04T21:56:16.644695+05:30
 
 ## Related Tags
 

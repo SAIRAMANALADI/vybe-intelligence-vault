@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/steel-dev/awesome-web-agents
-collected_at: '2026-07-04T19:32:35.253954+05:30'
+collected_at: '2026-07-04T21:50:36.639405+05:30'
 published_at: '2026-07-03T16:27:44Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
 - scripts
 stars: 1495
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-03-06T05:23:47Z'
 pushed_at: '2026-06-30T09:53:51Z'
 resource_id: github:steel-dev/awesome-web-agents
-first_seen: '2026-07-04T19:32:35.253954+05:30'
-last_seen: '2026-07-04T19:32:35.253954+05:30'
-last_checked: '2026-07-04T19:32:35.253954+05:30'
+first_seen: '2026-07-04T21:50:36.639405+05:30'
+last_seen: '2026-07-04T21:50:36.639405+05:30'
+last_checked: '2026-07-04T21:50:36.639405+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resources**: Repository aggregating tools, frameworks, and benchmarks for developing AI-powered web agents, focusing on browser automation and LLM integration.
-- **Technical Scope**: Primarily Python-based, covering AI agents, LLM benchmarking, and automation frameworks for web interaction.
-- **Community Metrics**: 1,495 stars, 191 forks, last updated July 3, 2026.
+- **Curated Tools & Frameworks**: Repository aggregates Python-based tools, frameworks, and libraries for developing AI web agents, including browser automation and LLM integration.
+- **Benchmarking & Evaluation**: Includes resources for benchmarking LLM performance in web agent tasks, ensuring reproducibility and comparative analysis.
+- **Community-Driven Resource**: Actively maintained list (last updated July 2026) with 1,495 stars and 192 forks, covering topics like AI agents, automation, and LLM evaluation.
 
 ## Why It Matters
 
@@ -43,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: steel-dev
 - Stars: 1495
-- Forks: 191
+- Forks: 192
 - Language: Python
 - Topics: ai, ai-agents, awesome, awesome-list, browser-automation, llms, llms-benchmarking
 - Last Updated: 2026-07-03T16:27:44Z

@@ -18,11 +18,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`vin67-crewai-docker.md`](../../ai/agents/vin67-crewai-docker.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`onyx-dot-app-onyx.md`](../../ai/rag/onyx-dot-app-onyx.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
 ### [Vue · GitHub](https://github.com/vuejs/)
 - **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`vue-github.md`](../../ai/resources/vue-github.md)
@@ -58,14 +53,19 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`python-devguide.md`](../../ai/resources/python-devguide.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`onyx-dot-app-onyx.md`](../../ai/rag/onyx-dot-app-onyx.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
 ### [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`denis2054-context-engineering-for-multi-agent-systems.md`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [ansible-collections/google.cloud](https://github.com/ansible-collections/google.cloud)
+- **Category**: `ai/rag` | **Kind**: `WORKFLOW` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`ansible-collections-google-cloud.md`](../../ai/rag/ansible-collections-google-cloud.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [langgenius/dify](https://github.com/langgenius/dify)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-04 19:46 IST*
+*Last updated: 2026-07-04 22:04 IST*

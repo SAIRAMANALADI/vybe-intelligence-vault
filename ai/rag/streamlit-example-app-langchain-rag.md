@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-04T19:30:30.104573+05:30'
+collected_at: '2026-07-04T21:48:31.497089+05:30'
 published_at: '2026-06-30T01:41:05Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 157
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-04T19:30:30.104573+05:30'
-last_seen: '2026-07-04T19:30:30.104573+05:30'
-last_checked: '2026-07-04T19:30:30.104573+05:30'
+first_seen: '2026-07-04T21:48:31.497089+05:30'
+last_seen: '2026-07-04T21:48:31.497089+05:30'
+last_checked: '2026-07-04T21:48:31.497089+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval using LangChain's `HybridSearchRetriever` for enhanced document retrieval.
-- **LangChain RAG Pipeline**: Implements a Retrieval-Augmented Generation (RAG) workflow with a vector store (e.g., FAISS or Chroma) for semantic search and a language model (e.g., LLM) for generating responses.
-- **Streamlit UI**: Provides a web interface via Streamlit to interact with the RAG system, enabling users to input queries and receive context-aware responses with cited sources.
+- **Hybrid RAG Pipeline**: Implements a Streamlit app integrating LangChain with retrieval-augmented generation (RAG), combining vectorstore retrieval and hybrid search (likely BM25 + dense embeddings) for enhanced document retrieval.
+
+- **LangChain Integration**: Utilizes LangChain's modular framework to orchestrate document loading, text splitting, embedding generation (via `LangChain`'s `HuggingFaceEmbeddings` or similar), and LLM interaction for contextual response generation.
+
+- **Streamlit Deployment**: Deploys the RAG pipeline as an interactive web app using Streamlit, enabling real-time user queries, dynamic document retrieval, and generated responses with a user-friendly interface.
 
 ## Why It Matters
 

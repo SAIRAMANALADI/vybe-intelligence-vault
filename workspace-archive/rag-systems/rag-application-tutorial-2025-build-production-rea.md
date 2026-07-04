@@ -7,7 +7,7 @@ source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
 local_vault_path: ai/rag/rag-application-tutorial-2025-build-production-rea.md
 quality_score: 70
-archive_score: 86
+archive_score: 90
 archive_tier: essential
 resource_kind: dataset
 importance: high
@@ -32,7 +32,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 86 (essential)
+- Quality score: 70 | Archive score: 90 (essential)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -40,11 +40,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking (optimized for context retention), embedding generation (via models like `text-embedding-3-large`), and vector storage/retrieval (e.g., Supabase with pgvector) for efficient similarity search.
+- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings, vector DBs like Supabase) and generation (LLMs) with chunking strategies (e.g., semantic splitting) to mitigate hallucinations and improve contextual relevance.
 
-- **Production Optimizations**: Advanced retrieval strategies (hybrid dense/sparse search), caching layers (e.g., Redis for frequent queries), and load balancing across multiple LLM instances to reduce latency and cost.
+- **Production Optimizations**: Implements hybrid search (dense + sparse retrieval), query rewriting, caching (e.g., Redis), and load balancing across models to reduce latency (~50-80% reported) and token costs while ensuring scalability via Cloudflare Workers.
 
-- **Monito
+-
 
 ## Use Cases
 

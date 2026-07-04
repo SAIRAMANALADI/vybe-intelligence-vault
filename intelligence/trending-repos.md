@@ -15,6 +15,8 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [firecrawl repositories · GitHub](https://github.com/orgs/firecrawl/repositories?q=sort%3Astars) | `ai-coding-agents/` | 70 |
 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | `ai-coding-agents/` | 70 |
 | [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) | `ai-coding-agents/` | 70 |
+| [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) | `ai-coding-agents/` | 70 |
+| [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `ai-coding-agents/` | 70 |
 | [cline/cline](https://github.com/cline/cline) | `ai-coding-agents/` | 70 |
 | [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) | `ai-coding-agents/` | 70 |
 | [JuliusBrussee/caveman](https://github.com/juliusbrussee/caveman) | `ai-coding-agents/` | 70 |
@@ -27,7 +29,5 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [Speechify · GitHub](https://github.com/SpeechifyInc) | `ai-coding-agents/` | 70 |
 | [vin67/crewai_docker](https://github.com/vin67/crewai_docker) | `ai-coding-agents/` | 70 |
 | [Marketplace · GitHub](https://github.com/marketplace?type=actions) | `ai-coding-agents/` | 70 |
-| [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) | `ai-coding-agents/` | 70 |
-| [ilexistools/agents-sdk-templates](https://github.com/ilexistools/agents-sdk-templates) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

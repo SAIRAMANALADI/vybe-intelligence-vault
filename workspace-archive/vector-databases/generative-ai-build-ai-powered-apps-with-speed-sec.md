@@ -16,7 +16,6 @@ tags:
 - anthropic
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Agent Skills Integration**: Firebase provides specialized instructions (agent skills) to enhance AI agents (e.g., Antigravity, Gemini CLI, Claude Code) with Firebase-specific context for improved task execution, enabling seamless third-party agent compatibility.
+- **Agent Skills Integration**: Firebase provides specialized instructions (agent skills) to enhance AI agents (e.g., Antigravity, Gemini CLI, Claude Code) with Firebase-specific context for improved task execution, enabling seamless integration with third-party tools.
 
-- **Client-Side AI Logic**: Firebase AI Logic integrates Gemini models (including Nano Banana) directly into mobile/web apps without server-side setup, offering server prompt templates, AI monitoring, and App Check integration for s
+- **Client-Side AI Logic**: Firebase AI Logic allows direct embedding of Gemini models (including Nano Banana) into mobile/web apps without server-side setup, featuring App Check integration, server prompt templates, and AI monit
 
 ## Use Cases
 

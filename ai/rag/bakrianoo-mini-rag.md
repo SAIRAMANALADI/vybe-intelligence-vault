@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-07-04T19:31:25.114684+05:30'
+collected_at: '2026-07-04T21:49:26.480450+05:30'
 published_at: '2026-07-04T10:22:01Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 650
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-07-04T19:31:25.114684+05:30'
-last_seen: '2026-07-04T19:31:25.114684+05:30'
-last_checked: '2026-07-04T19:31:25.114684+05:30'
+first_seen: '2026-07-04T21:49:26.480450+05:30'
+last_seen: '2026-07-04T21:49:26.480450+05:30'
+last_checked: '2026-07-04T21:49:26.480450+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Demonstrates a step-by-step implementation of a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modular deployment.
-- **GenAI Integration**: Incorporates generative AI components (e.g., LLM inference) with a focus on scalable architecture and real-world deployment best practices.
-- **Modular Tooling**: Uses Docker for containerization, FastAPI for RESTful API design, and includes educational resources for understanding RAG workflows (retrieval + generation).
+- **Educational RAG Pipeline**: Step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, emphasizing modularity and scalability.
+
+- **Tech Stack Integration**: Demonstrates integration of GenAI models with FastAPI for backend services, Docker for containerization, and Python for core logic, including vector database interactions and API endpoints.
+
+- **Deployment-Ready Architecture**: Focuses on best practices for deploying RAG systems, covering CI/CD pipelines, environment configuration, and modular design for maintainability in production environments.
 
 ## Why It Matters
 

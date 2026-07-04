@@ -6,9 +6,9 @@ source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-n
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
 local_vault_path: ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md
 quality_score: 70
-archive_score: 76
+archive_score: 78
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -31,17 +31,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 76 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 78 (useful)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Architecture Fundamentals**: RAG combines LLMs with external retrieval systems to enhance responses by fetching relevant information from documents/databases without overloading the LLM's context window. The system is divided into two pipelines: **Injection Pipeline** (data ingestion via chunking and embedding) and **Retrieval Pipeline** (query processing via vector similarity matching).
+- **RAG Architecture**: RAG combines LLMs with retrieval systems to fetch external information (documents, databases) dynamically, addressing LLM context window limitations (e.g., GPT-4.1: 1M tokens, GPT-5: 400K tokens) while avoiding prompt overload. The system splits into two pipelines: **Injection** (data ingestion/chunking → embedding → vector DB storage) and **Retrieval** (user query → embedding → similarity search → top-*k* chunks → LLM generation).
 
-- **Vector Embeddings & Semantic Search**: Embeddings convert text chunks into high-dimensional vect
+- **Embedding Mechanics**: Embedding mo
 
 ## Use Cases
 
