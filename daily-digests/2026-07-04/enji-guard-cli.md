@@ -1,31 +1,31 @@
 ---
 title: "j2h4u/enji-guard-cli"
 category: "Tooling"
-tech_stack: ["Python", "Typer", "FastMCP", "Docker", "GitHub API", "OpenAPI", "JSONL", "just", "uv"]
+tech_stack: ["Python 3.14", "Typer", "FastMCP", "Docker", "GitHub API", "OpenAPI"]
 quality_score: 8
 rag_relevance: 7
-tags: ["security monitoring", "GitHub integration", "MCP bridge", "CLI tool", "audit automation"]
+tags: ["security auditing", "GitHub monitoring", "MCP server", "CLI tool", "repository management"]
 source: "https://github.com/j2h4u/enji-guard-cli"
-discovered_at: "2026-07-04T17:05:53Z"
+discovered_at: "2026-07-04T18:07:17Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A Python CLI and MCP bridge for Enji Guard, enabling GitHub repository security monitoring, project management, and audit workflows. It provides a Dockerized service for agents to interact with Enji Guard's backend via a structured CLI and MCP interface.
+enji-guard-cli is a Python-based CLI and MCP bridge for Enji Guard, enabling GitHub repository monitoring, project management, and security auditing. It provides a Dockerized runtime with a Typer CLI and FastMCP server for agent integration.
 
 ## Key Features
-- Dockerized CLI and MCP server for Enji Guard access
-- Project and repository management for GitHub repos
-- Audit scheduling, status checks, and report generation
-- Telemetry logging for operational insights
-- Structured JSON output for automation and agent integration
+- Dockerized CLI and MCP bridge for Enji Guard with minimal host dependencies
+- Project and repository management (add, remove, move, list) with explicit scoping
+- Security auditing workflows (recon, report generation, status tracking) with retry-safe mutating commands
+- FastMCP server for agent-friendly access to project metadata, scores, and reports
+- Telemetry logging for operational visibility and future OpenTelemetry integration
 
 ## Why It Matters for RAG Builders
-It provides a standardized CLI and MCP interface to interact with Enji Guard, enabling AI agents to automate security audits, repository management, and report generation for GitHub repositories.
+It provides a standardized CLI and MCP interface for Enji Guard, enabling AI agents to automate security audits, repository management, and compliance workflows across GitHub repositories.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python 3.14
+Automated review identified **Python 3.14** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Typer
 Automated review identified **Typer** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -41,15 +41,6 @@ Automated review identified **GitHub API** as a key module contributing to infra
 
 ### OpenAPI
 Automated review identified **OpenAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### JSONL
-Automated review identified **JSONL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### just
-Automated review identified **just** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### uv
-Automated review identified **uv** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
