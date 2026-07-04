@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-04 19:47 IST</p>
+        <p><b>Last Update:</b> 2026-07-04 20:40 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,20 +55,13 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[The bottleneck might be the air in the room](ai/community/the-bottleneck-might-be-the-air-in-the-room.md)** • <kbd>+195 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Postgres data stored in Parquet on S3: LTAP architecture explained](ai/community/postgres-data-stored-in-parquet-on-s3-ltap-archite.md)** • <kbd>+40 pts</kbd>
-- 🔼 **[MSI Center – How to gain SYSTEM privileges in seconds](ai/community/msi-center-how-to-gain-system-privileges-in-second.md)** • <kbd>+19 pts</kbd>
-- 🔼 **[Jamesob's guide to running SOTA LLMs locally](ai/community/jamesob-local-llm.md)** • <kbd>+18 pts</kbd>
-- 🔼 **[Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining](ai/community/adam-s-car-diagnosis.md)** • <kbd>+11 pts</kbd>
+- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+13</kbd>
+- 🔼 **[pathwaycom/llm-app](ai/rag/pathwaycom-llm-app.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels](ai/community/the-vespa-at-80-why-the-italian-scooter-remains-th.md)** • Score: `46`
-- 🆕 **[2026 Unslop AI-Written Fiction Contest Results](ai/community/2026-unslop-ai-written-fiction-contest-results.md)** • Score: `32`
-- 🆕 **[Ship traces journey Spanish Armada sailors made in 1588](ai/community/ship-traces-journey-spanish-armada-sailors-made-in.md)** • Score: `15`
-- 🆕 **[Show HN: Foundation, a different approach to software and AI](ai/community/nmxmxh-foundation.md)** • Score: `7`
-- 🆕 **[deepset, makers of Haystack - YouTube](ai/resources/deepset-makers-of-haystack-youtube.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
