@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-07-04T03:50:12.359214+05:30'
+collected_at: '2026-07-04T09:34:56.795177+05:30'
 published_at: '2026-07-03T05:52:30Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-07-04T03:50:12.359214+05:30'
-last_seen: '2026-07-04T03:50:12.359214+05:30'
-last_checked: '2026-07-04T03:50:12.359214+05:30'
+first_seen: '2026-07-04T09:34:56.795177+05:30'
+last_seen: '2026-07-04T09:34:56.795177+05:30'
+last_checked: '2026-07-04T09:34:56.795177+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system enabling multi-modal LLMs to process and interact with long-form video content via structured retrieval and generation.
-
-- **Technical Implementation**: Python-based, leveraging large language models (LLMs) and multi-modal embeddings to segment, index, and retrieve video data for contextual Q&A and analysis.
-
-- **KDD'2026 Contribution**: Proposes a novel approach for scalable long-video understanding, optimizing retrieval efficiency and accuracy for real-time video-based interactions.
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to "chat" with video content via multi-modal retrieval and generation.
+- **Technical Stack**: Implements Python-based multi-modal LLMs with video retrieval mechanisms optimized for long-duration video analysis.
+- **KDD'2026 Contribution**: Proposes a novel approach to enhance video comprehension in LLMs by integrating retrieval-augmented techniques for scalable and accurate multi-modal interactions.
 
 ## Why It Matters
 
@@ -44,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: HKUDS
 - Stars: 3094
-- Forks: 435
+- Forks: 436
 - Language: Python
 - Topics: large-language-models, llms, long-video-understanding, multi-modal-llms, rag, retrieval-augmented-generation
 - Last Updated: 2026-07-03T05:52:30Z

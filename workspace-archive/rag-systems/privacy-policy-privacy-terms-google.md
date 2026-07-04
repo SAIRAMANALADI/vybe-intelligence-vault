@@ -8,7 +8,7 @@ local_vault_path: ai/rag/privacy-policy-privacy-terms-google.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -22,7 +22,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Privacy Policy – Privacy & Terms – Google
@@ -31,16 +31,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Android) including account-linked (personal info, activity) and non-account data (unique identifiers, device/browser metadata, IP addresses) to enable personalization, security, and service optimization.
-
-- **Location & Activity Tracking**: Location data (GPS, IP, Wi-Fi/Bluetooth signals) and user activity (searches, interactions, media) are collected and stored based on account/device settings, with rete
+- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Android) including account-linked (personal info, activity) and non-account-linked (unique identifiers, IP, device telemetry) data to enhance functionality and personalization.
+- **Location & Activity Tracking**: Collects precise location (GPS, Wi-Fi, IP) and activity logs (searches, interactions, calls/messages) with retention tied to account settings (e.g., Timeline, Web & App Activity).
+- **Third-Party
 
 ## Use Cases
 

@@ -14,7 +14,6 @@ tags:
 - agents
 - frontend_ui
 - hackernews
-- openai
 - rag
 - reddit
 - web-crawled
@@ -36,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Structured Content Schema**: Developed lightweight, machine-readable schemas (TypeScript-based) for components, icons, tokens, and guidelines, capturing usage, props, accessibility, and code examples to ensure consistency across documentation, Figma, and code repositories.
+- **Structured Content Schema**: Developed machine-readable schemas in TypeScript for components, icons, tokens, and guidelines, enabling consistent, reusable metadata across documentation, code, and Figma, reducing duplication and drift.
 
-- **Performance Gains**: Structured content improved AI task accuracy by **52%**, reduced errors by **11%**, increased speed by **34%**, and cut token usage (**16%**) and tool calls (**26%**), enabling faster, more reliab
+- **Performance Gains**: Structured content improved AI accuracy by **52%** on specific queries, reduced errors by **11%**, accelerated task completion by **34%**, and decreased token usage (**16%**) and tool calls (**26%**).
+
+- **Self-Healing Documentation**:
 
 ## Use Cases
 

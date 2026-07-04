@@ -4,6 +4,7 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 
 | Creative Resource | Category | Score |
 | :--- | :--- | :--- |
+| [The world's fastest framework for building websites](https://gohugo.io/) | `frontend-ai-ui/` | 70 |
 | [- YouTube](https://youtu.be/XVFevYxRKAE) | `frontend-ai-ui/` | 70 |
 | [Getting started | CHI@Edge](https://chameleoncloud.gitbook.io/chi-edge/getting-started) | `frontend-ai-ui/` | 70 |
 | [Cloudflare Dashboard | Manage Your Account](https://support.cloudflare.com) | `frontend-ai-ui/` | 70 |
@@ -23,6 +24,5 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 | [Heroicons](https://heroicons.com) | `frontend-ai-ui/` | 70 |
 | [Support : Preprints Help Center](https://support.researchsquare.com) | `frontend-ai-ui/` | 70 |
 | [Bruins Safe App | Bruins Safe Online](https://bso.ucla.edu/bruins-safe-app) | `frontend-ai-ui/` | 70 |
-| [R Markdown](https://rmarkdown.rstudio.com) | `frontend-ai-ui/` | 70 |
 
 More resources will appear as the harvester collects them.

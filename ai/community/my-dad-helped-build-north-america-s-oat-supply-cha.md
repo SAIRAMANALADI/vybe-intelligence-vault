@@ -13,13 +13,14 @@ collected_at: '2026-07-04T03:47:46.116139+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:my-dad-helped-build-north-america-s-oat-supply-cha
 first_seen: '2026-07-03T22:16:38.098014+05:30'
 last_seen: '2026-07-04T03:47:46.116139+05:30'
 last_checked: '2026-07-04T03:47:46.116139+05:30'
 health_score: 100
 ---
+
 
 # My dad helped build North America's oat supply chain: Can it be remade?
 

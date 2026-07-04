@@ -1,7 +1,7 @@
 ---
-title: 'pydantic/pydantic-ai Release: v2.4.0 (2026-07-02)'
+title: 'pydantic/pydantic-ai Release: v2.5.0 (2026-07-03)'
 archive_category: model-providers
-source_category: ai/agents
+source_category: ai/rag
 source_url: https://github.com/pydantic/pydantic-ai
 resource_id: github:pydantic/pydantic-ai
 local_vault_path: ai/rag/pydantic-pydantic-ai.md
@@ -17,13 +17,13 @@ tags:
 - mistral
 - models
 - pydantic-pydantic-ai
-- workflows
+- rag
 selection_reason:
 - Strong keyword match
 - Active open-source repository
 ---
 
-# pydantic/pydantic-ai Release: v2.4.0 (2026-07-02)
+# pydantic/pydantic-ai Release: v2.5.0 (2026-07-03)
 
 ## Why This Is In The Archive
 
@@ -36,7 +36,7 @@ selection_reason:
 
 ## Summary
 
-* Split `preserve_file_data` into `allow_uploaded_files` (inbound security) and an AG-UI representation opt-in by @DouweM in https://github.com/pydantic/pydantic-ai/pull/6232
+* Add `sanitize_messages` for inbound message-history hardening by @dsfaccini in https://github.com/pydantic/pydantic-ai/pull/6169
 
 ## Use Cases
 

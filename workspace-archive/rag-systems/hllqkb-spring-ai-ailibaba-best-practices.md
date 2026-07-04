@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - java
 - rag
 - workflows
@@ -34,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Implementation of RAG with Knowledge Graph**: Demonstrates integration of Retrieval-Augmented Generation (RAG) using knowledge graphs for enhanced contextual retrieval and response generation in a Java-based Spring AI system.
+- **Implementation of AI Q&A System**: Demonstrates a Spring AI-based Q&A system leveraging **Server-Sent Events (SSE)** for real-time streaming responses, **Agent-based workflows** for dynamic task execution, and **RAG (Retrieval-Augmented Generation)** with **knowledge graphs** for enhanced contextual retrieval.
 
-- **Multi-Modal AI Capabilities**: Supports both image generation (via Function Call) and image understanding (via embedding-based retrieval) alongside traditional text-based AI workflows.
-
-- **Advanced AI Agent Features**: Implements SSE (Server-Sent Events) streaming
+- **Multi-Modal AI Capabilities**: Integrates **Function Calling** for tool-based interactions, supports **historical message context** for conversational continuity, and includes **i
 
 ## Use Cases
 

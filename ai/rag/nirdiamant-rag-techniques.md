@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/RAG_Techniques
-collected_at: '2026-07-04T03:48:42.201709+05:30'
-published_at: '2026-07-03T19:17:00Z'
+collected_at: '2026-07-04T09:33:26.668582+05:30'
+published_at: '2026-07-04T02:58:29Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
@@ -15,8 +16,7 @@ tags:
 - models
 - openai
 - rag
-- workflows
-stars: 28318
+stars: 28322
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
@@ -24,9 +24,9 @@ archived: false
 created_at: '2024-07-13T16:08:36Z'
 pushed_at: '2026-06-17T20:54:18Z'
 resource_id: github:nirdiamant/rag_techniques
-first_seen: '2026-07-04T03:48:42.201709+05:30'
-last_seen: '2026-07-04T03:48:42.201709+05:30'
-last_checked: '2026-07-04T03:48:42.201709+05:30'
+first_seen: '2026-07-04T09:33:26.668582+05:30'
+last_seen: '2026-07-04T09:33:26.668582+05:30'
+last_checked: '2026-07-04T09:33:26.668582+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts advanced RAG techniques with Jupyter Notebook tutorials, covering 18 topics including agentic RAG, embeddings, semantic search, and vector databases, with 28.3K stars and 3.4K forks.
+- **Advanced RAG Techniques**: Repository provides Jupyter Notebook tutorials on cutting-edge RAG methodologies, including agentic RAG, hybrid search, and multi-modal retrieval strategies.
 
-- **Technical Scope**: Demonstrates integration with LangChain, LlamaIndex, OpenAI, and LLMs, emphasizing Python-based implementations for retrieval-augmented generation and generative AI workflows.
+- **Tooling Integration**: Demonstrates implementations with LangChain, LlamaIndex, and vector databases (e.g., FAISS, Pinecone) for optimized retrieval and LLM augmentation.
 
-- **Last Updated**: July 3, 2026, reflecting recent advancements in RAG methodologies and tooling.
+- **Performance & Evaluation**: Includes benchmarks for embeddings (OpenAI, Sentence-Transformers), semantic search quality, and RAG pipeline efficiency.
 
 ## Why It Matters
 
@@ -47,11 +47,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NirDiamant
-- Stars: 28318
+- Stars: 28322
 - Forks: 3433
 - Language: Jupyter Notebook
 - Topics: agentic-rag, ai, embeddings, generative-ai, gpt, langchain, llama-index, llm, llms, machine-learning, nlp, openai, python, rag, retrieval-augmented-generation, semantic-search, tutorials, vector-database
-- Last Updated: 2026-07-03T19:17:00Z
+- Last Updated: 2026-07-04T02:58:29Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-07-13T16:08:36Z

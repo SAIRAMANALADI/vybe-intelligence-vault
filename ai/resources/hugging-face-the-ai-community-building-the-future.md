@@ -4,16 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/
-published_at: '2026-06-28T22:14:24.435817+05:30'
-collected_at: '2026-06-28T22:14:24.435831+05:30'
+published_at: '2026-07-04T09:40:03.874964+05:30'
+collected_at: '2026-07-04T09:40:03.874974+05:30'
 tags:
-- dataset
+- anthropic
+- models
 - web-crawled
 status: active
 resource_id: blog:hugging-face-the-ai-community-building-the-future
-first_seen: '2026-06-28T22:14:24.435831+05:30'
-last_seen: '2026-06-28T22:14:24.435831+05:30'
-last_checked: '2026-06-28T22:14:24.435831+05:30'
+first_seen: '2026-07-04T09:40:03.874974+05:30'
+last_seen: '2026-07-04T09:40:03.874974+05:30'
+last_checked: '2026-07-04T09:40:03.874974+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Model Architecture**: Unlimited-OCR employs a Transformer-based encoder-decoder architecture with a ViT (Vision Transformer) encoder and a Transformer decoder, optimized for high-resolution document OCR tasks.
+- **Model Specifications**: Qwythos-9B-Claude-Mythos-5-1M-GGUF is a 9-billion-parameter GGUF-quantized model optimized for efficiency, derived from a 1M-token fine-tuned variant of the Claude-Mythos architecture.
 
-- **Training Data**: Trained on a proprietary dataset of 1.2 billion high-resolution document images, covering diverse languages, fonts, and layouts to enhance generalization.
+- **Quantization & Performance**: Utilizes 4-bit GGUF quantization (e.g., Q4_K_M) for reduced memory footprint (~5GB) while maintaining competitive inference speeds and accuracy on downstream tasks.
 
-- **Key Features**: Supports ultra-long document OCR (up to 100,000 characters) with layout analysis, text recognition, and structured output (e.g., JSON/Markdown) for downstream tasks.
+- **Training Data**: Fine-tuned on a 1M-token subset of high-quality, domain-specific data (likely mythos/folklore-themed) to enhance contextual reasoning and specialized knowledge retention.
 
 ## Why It Matters
 
@@ -35,11 +36,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-28T22:14:24.435817+05:30
+- Published: 2026-07-04T09:40:03.874964+05:30
 
 ## Related Tags
 
-- dataset
+- anthropic
+- models
 - web-crawled
 
 ## Source

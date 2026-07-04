@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-07-04T03:51:12.394991+05:30'
+collected_at: '2026-07-04T09:35:56.791246+05:30'
 published_at: '2026-07-01T14:48:32Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
-- scripts
 - shell
 - workflows
 stars: 60
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-07-04T03:51:12.394991+05:30'
-last_seen: '2026-07-04T03:51:12.394991+05:30'
-last_checked: '2026-07-04T03:51:12.394991+05:30'
+first_seen: '2026-07-04T09:35:56.791246+05:30'
+last_seen: '2026-07-04T09:35:56.791246+05:30'
+last_checked: '2026-07-04T09:35:56.791246+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A curated GitHub repository (`MuhammadUsmanGM/claude-code-best-practices`) providing structured best practices for **Claude Code**, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+- **Repository Structure**: Provides a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
 
-- **Technical Scope**: Focuses on **AI agentic workflows**, **CLI tooling**, **LLM integration**, and **MCP (Model Context Protocol)** patterns, with Shell scripts for automation and template generation.
+- **Technical Focus**: Primarily shell-based, covering CLI tools, MCP (Model Context Protocol) integration, and LLM (Large Language Model) workflows for agentic AI development.
 
-- **Key Features**: Includes **cost-efficient LLM usage patterns**, **multi-agent collaboration templates**, and **developer tooling optimizations**, last updated on **2026-07-01**.
+- **Maintenance & Updates**: Actively maintained with last update on 2026-07-01, featuring 60 stars and 11 forks, indicating community engagement in AI tooling best practices.
 
 ## Why It Matters
 

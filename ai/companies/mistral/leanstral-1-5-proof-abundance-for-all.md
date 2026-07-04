@@ -4,8 +4,8 @@ category: ai/companies/mistral
 source_type: company_blog
 source_name: Mistral AI News
 source_url: https://mistral.ai/news/leanstral-1-5
-published_at: '2026-07-04T03:47:46.609286+05:30'
-collected_at: '2026-07-04T03:47:46.609288+05:30'
+published_at: '2026-07-04T09:32:41.810240+05:30'
+collected_at: '2026-07-04T09:32:41.810242+05:30'
 tags:
 - blog-post
 - mistral
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: blog:leanstral-1-5-proof-abundance-for-all
 first_seen: '2026-07-03T20:03:19.885306+05:30'
-last_seen: '2026-07-04T03:47:46.609288+05:30'
-last_checked: '2026-07-04T03:47:46.609288+05:30'
+last_seen: '2026-07-04T09:32:41.810242+05:30'
+last_checked: '2026-07-04T09:32:41.810242+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Mistral AI News
 - Article URL: https://mistral.ai/news/leanstral-1-5
-- Collected At: 2026-07-04T03:47:46.609288+05:30
+- Collected At: 2026-07-04T09:32:41.810242+05:30
 
 ## Related Tags
 

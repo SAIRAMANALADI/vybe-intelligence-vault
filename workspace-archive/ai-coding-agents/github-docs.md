@@ -2,7 +2,7 @@
 title: GitHub Docs
 archive_category: ai-coding-agents
 source_category: ai/agents
-source_url: https://docs.github.com/
+source_url: https://docs.github.com
 resource_id: blog:github-docs
 local_vault_path: ai/agents/github-docs.md
 quality_score: 70
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Git Integration & Authentication**: GitHub relies on Git for version control, supporting secure remote connections via SSH for authenticated interactions with repositories.
-- **Collaborative Workflows**: Pull requests enable proposing, reviewing, and merging code changes, while GitHub Copilot integrates AI-driven code suggestions directly into IDEs.
-- **CI/CD & Security**: GitHub Actions automates workflows, GitHub Packages manages dependencies, and CodeQL enforces code security by identifyi
+- GitHub provides **version control via Git**, **SSH for secure remote access**, and **repository management** for collaborative development workflows.
+- **Pull requests** enable code review and merging, while **GitHub Actions** supports CI/CD pipelines and **Codespaces** offers cloud-based development environments.
+- **GitHub Copilot** integrates AI-driven code suggestions in IDEs, and **security tools** like CodeQL and secret scanning enforce supply chain and vulnerability management.
 
 ## Use Cases
 
@@ -44,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.github.com/
+Original source URL: https://docs.github.com
 
 ## Local Vault File
 

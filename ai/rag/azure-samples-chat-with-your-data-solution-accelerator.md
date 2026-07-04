@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-07-04T03:49:32.398879+05:30'
+collected_at: '2026-07-04T09:34:16.724799+05:30'
 published_at: '2026-06-30T16:43:51Z'
 tags:
-- benchmark
 - github-repo
 - openai
 - python
@@ -18,11 +17,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-07-03T22:14:22Z'
+pushed_at: '2026-07-04T00:56:12Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-07-04T03:49:32.398879+05:30'
-last_seen: '2026-07-04T03:49:32.398879+05:30'
-last_checked: '2026-07-04T03:49:32.398879+05:30'
+first_seen: '2026-07-04T09:34:16.724799+05:30'
+last_seen: '2026-07-04T09:34:16.724799+05:30'
+last_checked: '2026-07-04T09:34:16.724799+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Deploys Retrieval-Augmented Generation (RAG) pattern using Azure AI Search for retrieval and Azure OpenAI LLMs for generation, enabling ChatGPT-style and Q&A interactions.
-- **Azure Integration**: Leverages Azure AI Search for vector search and Azure OpenAI for LLM inference, with best practices for scalability, security, and cost optimization.
-- **Accelerator Features**: Provides pre-configured Azure Resource Manager (ARM) templates via Azure Developer CLI (azd) for rapid deployment, including sample data pipelines and evaluation frameworks.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for vector-based retrieval and **Azure OpenAI** LLMs for generating ChatGPT-style and Q&A responses.
+- **Key Components**: Includes pre-configured best practices for data ingestion, indexing, and retrieval, with Python-based implementation and **Azure Developer CLI (azd)** templates for deployment.
+- **Use Case**: Enables scalable, production-ready RAG solutions with support for custom data integration, hybrid search (semantic + keyword), and cost-efficient Azure resource provisioning.
 
 ## Why It Matters
 
@@ -49,7 +48,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-07-03T22:14:22Z
+- Pushed At: 2026-07-04T00:56:12Z
 
 ## Possible Use Cases
 

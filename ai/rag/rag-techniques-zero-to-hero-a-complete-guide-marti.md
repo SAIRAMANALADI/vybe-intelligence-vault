@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-07-04T03:48:38.180975+05:30'
-collected_at: '2026-07-04T03:48:38.180988+05:30'
+published_at: '2026-07-04T09:33:22.136884+05:30'
+collected_at: '2026-07-04T09:33:22.136900+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-07-04T03:48:38.180988+05:30'
-last_seen: '2026-07-04T03:48:38.180988+05:30'
-last_checked: '2026-07-04T03:48:38.180988+05:30'
+first_seen: '2026-07-04T09:33:22.136900+05:30'
+last_seen: '2026-07-04T09:33:22.136900+05:30'
+last_checked: '2026-07-04T09:33:22.136900+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator conditioned on retrieved context, and optional rerankers/query rewriters; orchestration layers manage caching, latency, and cost.
+- **RAG Architecture**: Combines retrieval (vector/lexical search over external knowledge) with generation (LLM conditioned on retrieved context) to improve factuality and reduce hallucinations without retraining the base model.
 
-- **Chunking & Embedding Optimization**: Chunking strategies (fixed-size, semantic, structure-aware) and embedding models (off-the-shelf vs. fine-tuned) directly impact retrieval precision; hybrid search (BM25 + vector) and ANN indexes (HNSW/IVF) balance accuracy and scalability.
+- **Key Optimization Techniques**: Two-stage retrieval (fast retriever + cross-encoder reranker), hybrid search (BM25 + vector fusion), query rewriting (expansion/paraphrasing), and context distillation (LLM-based evidence condensation) to enhance precision and efficiency.
 
-- **Multi-Stage Retrieval & Context Control**: Two-stage retrieval (first-stage ANN/BM25 + second-stage cross-encoder reranker) improves precision; context distillation (LLM-based summarization) and autocut strategies mitigate hallucinations while managing token budgets.
+- **Operational Challenges**: Latency/cost from embedding lookups and ANN search, token budget constraints, and evaluation complexity requiring separate metrics for retrieval (nDCG/MRR) and generation (factuality/hallucination rate).
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T03:48:38.180975+05:30
+- Published: 2026-07-04T09:33:22.136884+05:30
 
 ## Related Tags
 

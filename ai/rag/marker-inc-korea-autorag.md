@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-07-04T03:49:07.341562+05:30'
+collected_at: '2026-07-04T09:33:51.729032+05:30'
 published_at: '2026-07-03T18:15:32Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
-- workflows
 stars: 4852
 language: Python
 status: active
@@ -22,9 +20,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-07-02T03:46:39Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-07-04T03:49:07.341562+05:30'
-last_seen: '2026-07-04T03:49:07.341562+05:30'
-last_checked: '2026-07-04T03:49:07.341562+05:30'
+first_seen: '2026-07-04T09:33:51.729032+05:30'
+last_seen: '2026-07-04T09:33:51.729032+05:30'
+last_checked: '2026-07-04T09:33:51.729032+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning while improving performance metrics.
+- **AutoML-Style RAG Optimization**: Implements automated hyperparameter tuning, component selection, and pipeline optimization for Retrieval-Augmented Generation (RAG) systems using a black-box optimization approach.
 
-- **Comprehensive RAG Toolkit**: Supports document parsing, embedding generation, retrieval evaluation, and LLM-based QA benchmarking with built-in AutoML for hyperparameter optimization and pipeline configuration.
+- **Comprehensive RAG Evaluation**: Provides built-in benchmarks for retrieval quality, generation performance, and end-to-end RAG efficacy across multiple metrics (e.g., faithfulness, answer relevance, context relevance).
 
-- **Open-Source Python Framework**: Provides modular components for RAG workflows, including benchmarking tools, document parsers, and LLM evaluation metrics, with active community contributions and updates.
+- **Modular Python Framework**: Supports custom document parsers, embedding models, and LLMs while enabling seamless integration with existing RAG pipelines via a unified configuration-driven interface.
 
 ## Why It Matters
 

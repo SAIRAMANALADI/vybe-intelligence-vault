@@ -29,9 +29,9 @@ selection_reason:
 
 ## Summary
 
-- GitHub CLI collects pseudonymous telemetry to improve product features, prioritizing development based on real-world usage patterns (e.g., subcommand adoption, flag usage), excluding GitHub Enterprise Server deployments.
-- Telemetry payloads can be inspected in logging mode (`GH_TELEMETRY=log` or `gh config set telemetry log`) without transmission, revealing structured JSON data with dimensions like `device_id`, `os`, `command`, and contextual fields (e.g., `skill_*` for public repos).
-- Opt-o
+- **Telemetry Purpose**: GitHub CLI collects pseudonymous telemetry to improve product development by tracking feature adoption, usage patterns, and user needs, prioritizing development efforts based on real-world data.
+- **Telemetry Implementation**: Telemetry can be reviewed via logging mode (`GH_TELEMETRY=log` or `gh config set telemetry log`), which outputs JSON payloads to stderr for inspection, including event types, dimensions, and contextual metadata.
+- **Opt-Out Mechanism**: Users can d
 
 ## Use Cases
 

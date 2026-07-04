@@ -16,7 +16,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Open-source AI chat platform (`Onyx`) designed to work with any Large Language Model (LLM), supporting seamless integration across diverse AI backends for flexible deployment.
-
-- **Advanced RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based similarity search, enabling enterprise-grade information retrieval and context-aware AI responses.
-
-- **Full-Stack Architecture**: Combines a **Next.js** frontend with a **Python** backend,
+- **Open-source AI chat platform** supporting integration with any LLM, featuring advanced RAG (Retrieval-Augmented Generation), vector search, and enterprise-grade information retrieval capabilities.
+- **Tech stack**: Python backend with Next.js frontend, enabling self-hosted deployment for scalable, modular AI interactions.
+- **Key features**: ChatUI, multi-model compatibility, and enterprise search with last update as of July 2026.
 
 ## Use Cases
 

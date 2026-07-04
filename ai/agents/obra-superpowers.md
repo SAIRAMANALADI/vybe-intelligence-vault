@@ -4,20 +4,19 @@ category: ai/agents
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/obra/superpowers
-published_at: '2026-07-03T15:06:00.630383+05:30'
-collected_at: '2026-07-03T15:06:00.630386+05:30'
+published_at: '2026-07-04T09:32:39.771836+05:30'
+collected_at: '2026-07-04T09:32:39.771839+05:30'
 tags:
 - agents
 - github-trending
 - shell
-status: inactive
+status: active
 resource_id: github:obra/superpowers
 first_seen: '2026-06-17T16:47:27.409567+05:30'
-last_seen: '2026-07-03T15:06:00.630386+05:30'
-last_checked: '2026-07-03T15:06:00.630386+05:30'
+last_seen: '2026-07-04T09:32:39.771839+05:30'
+last_checked: '2026-07-04T09:32:39.771839+05:30'
 health_score: 100
 ---
-
 
 # obra/superpowers
 
@@ -33,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/agents
-- Published: 2026-07-03T15:06:00.630383+05:30
+- Published: 2026-07-04T09:32:39.771836+05:30
 
 ## Related Tags
 

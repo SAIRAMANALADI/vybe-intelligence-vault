@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ALucek/GraphRAG-Breakdown
-collected_at: '2026-07-04T03:49:22.261569+05:30'
+collected_at: '2026-07-04T09:34:06.698906+05:30'
 published_at: '2026-06-24T01:50:50Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
-- workflows
 stars: 174
 language: Jupyter Notebook
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-12-20T10:35:56Z'
 pushed_at: '2024-12-20T10:38:46Z'
 resource_id: github:alucek/graphrag-breakdown
-first_seen: '2026-07-04T03:49:22.261569+05:30'
-last_seen: '2026-07-04T03:49:22.261569+05:30'
-last_checked: '2026-07-04T03:49:22.261569+05:30'
+first_seen: '2026-07-04T09:34:06.698906+05:30'
+last_seen: '2026-07-04T09:34:06.698906+05:30'
+last_checked: '2026-07-04T09:34:06.698906+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Knowledge Graph RAG Architecture**: Repository provides a structured breakdown of integrating knowledge graphs (KGs) with Retrieval-Augmented Generation (RAG), including modular components for entity extraction, graph construction, and query-aware retrieval.
-
-- **Visual & Example-Based Learning**: Includes Jupyter Notebooks with diagrams and executable examples demonstrating end-to-end workflows, such as converting unstructured text into KGs and using them for context-aware LLM prompting.
-
-- **Technical Focus**: Covers advanced topics like graph-based retrieval strategies, hybrid search (vector + graph), and optimization techniques for scaling RAG with KGs, targeting intermediate-to-expert practitioners.
+- **Knowledge Graph RAG Architecture**: Repository provides a detailed breakdown of integrating knowledge graphs with Retrieval-Augmented Generation (RAG), including modular diagrams and executable Jupyter Notebook examples.
+- **Technical Implementation**: Demonstrates graph-based retrieval pipelines, entity-relationship mappings, and contextual enrichment for LLM responses using structured knowledge graphs.
+- **Evaluation & Optimization**: Includes comparative analysis of traditional RAG vs. GraphRAG, with metrics for retrieval accuracy, latency, and contextual relevance in generative tasks.
 
 ## Why It Matters
 

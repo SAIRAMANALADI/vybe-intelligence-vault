@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/VivekMalhan666/npm-package-combobox
-collected_at: '2026-07-01T20:49:22.412950+05:30'
+collected_at: '2026-07-04T09:38:11.141031+05:30'
 published_at: '2023-07-14T13:49:57Z'
 tags:
 - frontend_ui
@@ -17,9 +17,9 @@ archived: false
 created_at: '2023-07-14T12:54:59Z'
 pushed_at: '2023-07-14T12:57:22Z'
 resource_id: github:vivekmalhan666/npm-package-combobox
-first_seen: '2026-07-01T20:49:22.412950+05:30'
-last_seen: '2026-07-01T20:49:22.412950+05:30'
-last_checked: '2026-07-01T20:49:22.412950+05:30'
+first_seen: '2026-07-04T09:38:11.141031+05:30'
+last_seen: '2026-07-04T09:38:11.141031+05:30'
+last_checked: '2026-07-04T09:38:11.141031+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **React-based Combobox Component**: A reusable, accessible, and keyboard-navigable dropdown UI element implemented in TypeScript, supporting both option selection and custom input entry.
-- **Searchable & Selectable**: Enables users to filter and select options from a dynamic list or input a custom value, enhancing usability and flexibility.
-- **Metadata**: 0 stars, 0 forks, last updated on 2023-07-14; categorized under `combobox` and `react` topics.
+- **React Combobox Component**: A reusable, accessible, and keyboard-navigable dropdown input control implemented in TypeScript, allowing users to select from a searchable list or input custom values.
+- **Features**: Supports dynamic filtering of options, ARIA-compliant accessibility, and seamless keyboard interactions (e.g., arrow keys, Enter, Escape).
+- **Integration**: Published as an npm package (`npm-package-combobox`) with no dependencies on external libraries, optimized for React applications.
 
 ## Why It Matters
 

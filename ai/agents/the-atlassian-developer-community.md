@@ -3,19 +3,19 @@ title: The Atlassian Developer Community
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://community.developer.atlassian.com
-published_at: '2026-06-22T11:23:04.712118+05:30'
-collected_at: '2026-06-22T11:23:04.712131+05:30'
+source_url: https://community.developer.atlassian.com/
+published_at: '2026-07-04T09:44:13.708947+05:30'
+collected_at: '2026-07-04T09:44:13.708964+05:30'
 tags:
 - agents
 - frontend_ui
+- reddit
 - web-crawled
-- workflows
 status: active
 resource_id: blog:the-atlassian-developer-community
-first_seen: '2026-06-22T11:23:04.712131+05:30'
-last_seen: '2026-06-22T11:23:04.712131+05:30'
-last_checked: '2026-06-22T11:23:04.712131+05:30'
+first_seen: '2026-07-04T09:44:13.708964+05:30'
+last_seen: '2026-07-04T09:44:13.708964+05:30'
+last_checked: '2026-07-04T09:44:13.708964+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Forge Development Hub**: Dedicated category (`/c/forge/45`) with 2,856 topics for Atlassian’s serverless platform, focusing on app development, integrations, and extensibility.
-- **Rovo AI Integration**: Specialized categories (`/c/rovo/138`, `/c/rovo-dev/158`) for Rovo, Atlassian’s context-aware AI agent for dev workflows, with 91 and 4 topics respectively.
-- **Product-Specific Dev Forums**: Structured subcategories for Jira (`/c/jira/5`, 950 topics), Confluence (`/c/confluence/6`, 434 topics), and Bitbucket (`/c/bitbucket-development/12`, 130 topics) development.
+- **Forge & AI Integration**: The [Forge](https://www.atlassian.com/forge) category (2,873 topics) dominates discussions on Atlassian's serverless development platform, while [Rovo Dev](https://community.developer.atlassian.com/c/rovo-dev/158) (5 topics) focuses on a context-aware AI agent for software development, integrating with Jira, Confluence, Bitbucket, and GitHub.
+
+- **Product-Specific Development**: Dedicated categories exist for Jira (951), Jira Service Management (61), Confluence (435), Bitbucket (130), Trello (670), Crowd (55), and Bamboo (189), enabling targeted discussions on API, SDK, and customization queries for each Atlassian product.
+
+- **Ecosystem & Migration Support**: The [Atlassian Ecosystem Design](https://community.developer.atlassian.com/c/atlassian-ecosystem-design/21) (329) and [Developer Tools](https://community.developer.atlassian.com/c/atlassian-developer-tools/27) (480) categories address Atlassian Design System, Atlaskit, and third-party tooling, while [Cloud Migrations](https://community.developer.atlassian.com/c/cloud-migrations/47) (141) supports developers transitioning apps from Server/Data Center to Cloud.
 
 ## Why It Matters
 
@@ -35,15 +37,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-22T11:23:04.712118+05:30
+- Published: 2026-07-04T09:44:13.708947+05:30
 
 ## Related Tags
 
 - agents
 - frontend_ui
+- reddit
 - web-crawled
-- workflows
 
 ## Source
 
-Original source: https://community.developer.atlassian.com
+Original source: https://community.developer.atlassian.com/

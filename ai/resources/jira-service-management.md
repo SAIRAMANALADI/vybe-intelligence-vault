@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://ecosystem.atlassian.net/servicedesk/customer/portal/14
-published_at: '2026-06-22T11:23:42.866909+05:30'
-collected_at: '2026-06-22T11:23:42.866922+05:30'
+published_at: '2026-07-04T09:44:13.629845+05:30'
+collected_at: '2026-07-04T09:44:13.629856+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:jira-service-management
-first_seen: '2026-06-22T11:23:42.866922+05:30'
-last_seen: '2026-06-22T11:23:42.866922+05:30'
-last_checked: '2026-06-22T11:23:42.866922+05:30'
+first_seen: '2026-07-04T09:44:13.629856+05:30'
+last_seen: '2026-07-04T09:44:13.629856+05:30'
+last_checked: '2026-07-04T09:44:13.629856+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Access Denied**: The API request to the Atlassian Ecosystem Help Center portal failed with a `403 Forbidden` error, indicating insufficient permissions (`com.atlassian.pocketknife.api.commons.error.AnError`).
+- **Access Denied**: The request to view the portal was denied due to insufficient permissions (`status: 403`, error key: `com.atlassian.pocketknife.api.commons.error.AnError`).
 
-- **Service Desk Configuration**: The Jira Service Desk instance is configured as `headless: false` with version `3.3.0-OD`, running in an `onDemand` environment at `https://ecosystem.atlassian.net`.
+- **Service Desk Configuration**: The service desk operates on version `3.3.0-OD` with an on-demand deployment (`onDemand: true`) and uses an XSRF token (`xsrfToken: eb1226b0d0b3d151a3234fd64e23e32cc5288554_lout`) for security.
 
-- **Security & Session Details**: Includes an `XSRF token` (`51f40c2ee2080945e95029f36cac540ba621cac9_lout`) and enforces authentication (`anonymousEnabled: false`), requiring login via `/servicedesk/customer/user/login?destination=portals`.
+- **Portal Metadata**: The portal enforces authentication (`anonymousEnabled: false`) and is configured for premium edition with customization enabled (`helpCenterCustomizationEnabled: true`).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:23:42.866909+05:30
+- Published: 2026-07-04T09:44:13.629845+05:30
 
 ## Related Tags
 

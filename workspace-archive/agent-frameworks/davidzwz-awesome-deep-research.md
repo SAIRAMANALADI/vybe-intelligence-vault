@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, focusing on autonomous reasoning agents, advanced RAG systems, and LLM-driven reasoning frameworks.
-- **Technical Scope**: Covers agentic AI, multi-agent collaboration, deep research methodologies, and search optimization for large-scale knowledge synthesis.
-- **Updated Repository**: Last synchronized in July 2026, featuring contributions from ACL 2026 KnowFM and other high-impact sources in reasoning and retr
+- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on ACL 2026 KnowFM contributions, including agentic RAG, reasoning agents, and search-agent frameworks.
+- **Technical Scope**: Covers large language models (LLMs), deep research agents, and reasoning architectures, emphasizing multi-agent collaboration and retrieval-augmented generation (RAG) advancements.
+- **Repository Metrics**: Hosts 786 stars and 63 forks, last updated July 3, 2026, with a languag
 
 ## Use Cases
 

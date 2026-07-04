@@ -2,21 +2,21 @@
 title: The Atlassian Developer Community
 archive_category: ai-coding-agents
 source_category: ai/agents
-source_url: https://community.developer.atlassian.com
+source_url: https://community.developer.atlassian.com/
 resource_id: blog:the-atlassian-developer-community
 local_vault_path: ai/agents/the-atlassian-developer-community.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - frontend_ui
+- reddit
 - web-crawled
-- workflows
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # The Atlassian Developer Community
@@ -25,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Forge Development Hub**: Dedicated category (`/c/forge/45`) with 2,856 topics for Atlassian’s serverless platform, focusing on app development, integrations, and extensibility.
-- **Rovo AI Integration**: Specialized categories (`/c/rovo/138`, `/c/rovo-dev/158`) for Rovo, Atlassian’s context-aware AI agent for dev workflows, with 91 and 4 topics respectively.
-- **Product-Specific Dev Forums**: Structured subcategories for Jira (`/c/jira/5`, 950 topics), Confluence (`/c/confluence/6`, 434 topi
+- **Forge & AI Integration**: The [Forge](https://www.atlassian.com/forge) category (2,873 topics) dominates discussions on Atlassian's serverless development platform, while [Rovo Dev](https://community.developer.atlassian.com/c/rovo-dev/158) (5 topics) focuses on a context-aware AI agent for software development, integrating with Jira, Confluence, Bitbucket, and GitHub.
+
+- **Product-Specific Development**: Dedicated categories exist for Jira (951), Jira Service Management (61), Confluence (435
 
 ## Use Cases
 
@@ -43,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://community.developer.atlassian.com
+Original source URL: https://community.developer.atlassian.com/
 
 ## Local Vault File
 

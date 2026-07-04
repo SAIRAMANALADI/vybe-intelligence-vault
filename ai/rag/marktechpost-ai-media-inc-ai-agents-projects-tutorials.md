@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-07-04T03:50:32.420275+05:30'
+collected_at: '2026-07-04T09:35:16.830817+05:30'
 published_at: '2026-07-03T20:05:36Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - scripts
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-05-15T09:00:54Z'
 pushed_at: '2026-07-03T20:05:33Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-07-04T03:50:32.420275+05:30'
-last_seen: '2026-07-04T03:50:32.420275+05:30'
-last_checked: '2026-07-04T03:50:32.420275+05:30'
+first_seen: '2026-07-04T09:35:16.830817+05:30'
+last_seen: '2026-07-04T09:35:16.830817+05:30'
+last_checked: '2026-07-04T09:35:16.830817+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Systems & Frameworks**: Repository focuses on agentic AI development, covering multi-agent systems, memory management, planning, and reasoning loops with practical implementations in Jupyter Notebooks.
-
-- **Agentic AI Skills**: Includes tutorials on agentic RAG, workflow automation, and agentic coding/engineering, emphasizing modular agent skills and framework integration.
-
-- **Technical Stack**: Primarily uses Python-based Jupyter Notebooks for agentic AI projects, with active updates (last commit: 2026-07-03) and a growing community (2,758 stars, 603 forks).
+- **Multi-agent systems**: Repository focuses on frameworks and implementations for distributed AI agents with inter-agent communication, collaboration, and coordination mechanisms.
+- **Memory & reasoning loops**: Includes tutorials on integrating short/long-term memory, reflection loops, and iterative reasoning for agentic workflows.
+- **Agentic RAG & workflows**: Demonstrates retrieval-augmented generation (RAG) pipelines and end-to-end agentic workflows for complex task automation.
 
 ## Why It Matters
 

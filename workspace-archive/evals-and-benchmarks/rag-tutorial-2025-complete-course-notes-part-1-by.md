@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Divided into two pipelines—**Injection** (data ingestion: chunking + embedding) and **Retrieval** (query embedding + vector DB similarity search)—to mitigate LLM context window limits (e.g., 1M tokens for GPT-4.1 vs. enterprise-scale data like 1PB requiring 1.3 quintillion tokens).
+- **RAG Architecture**: RAG combines LLMs with retrieval systems to enhance responses using external data (documents, databases) while avoiding context window overload; splits into **injection pipeline** (data ingestion: chunking, embedding) and **retrieval pipeline** (query embedding, similarity search, LLM augmentation).
 
-- **Embedding Mechanics**: Text converted to high-dimensional vectors (e.g., OpenAI’s `text-embedding-3-large` outputs 3,072 dimensions) where semantic similarity is quantified via Euclidean/c
+- **Embeddings & Vector Databases**: Text is converted into high-dimensional vectors (e.g., OpenAI’s 3,072-dim embeddings) via embedding models; semantic similarity enables r
 
 ## Use Cases
 

@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Open-source context retrieval layer**: Provides a modular, Python-based framework for AI agents to dynamically fetch and integrate contextual data from enterprise sources via APIs, semantic search, and RAG pipelines.
-
-- **Enterprise data connectors**: Supports integration with structured/unstructured data sources (SQL, NoSQL, documents) and real-time APIs, enabling unified retrieval for LLMs and agent workflows.
-
-- **Developer-focused SDK & API**: Offers a lightweight SDK for custom retrieva
+- **Purpose**: Open-source context retrieval layer designed to enhance AI agents by providing structured, real-time data access from enterprise sources (e.g., databases, APIs) for RAG workflows.
+- **Key Features**: Supports semantic search, data connectors (SQL, NoSQL, APIs), and low-latency retrieval via a Python-based SDK/API, optimized for LLM integration.
+- **Enterprise Focus**: Enables secure, scalable retrieval of structured/unstructured data with connectors for enterprise systems (e.g., S
 
 ## Use Cases
 

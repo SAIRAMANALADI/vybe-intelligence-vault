@@ -40,11 +40,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline Optimization**: Implements hybrid search (dense + sparse retrieval), query expansion, and chunking strategies to enhance retrieval quality and reduce latency in production systems.
+- **RAG Pipeline Architecture**: Core components include document chunking (optimized for context retention), embedding generation (via models like `text-embedding-3-large`), and vector storage/retrieval (e.g., Supabase with pgvector) for efficient similarity search.
 
-- **Vector Database Integration**: Utilizes Supabase for scalable vector storage and retrieval, with advanced retrieval strategies (e.g., multi-modal RAG) for handling diverse data formats (PDFs, images).
+- **Production Optimizations**: Advanced retrieval strategies (hybrid dense/sparse search), caching layers (e.g., Redis for frequent queries), and load balancing across multiple LLM instances to reduce latency and cost.
 
-- **Production-Ready Deployment**: Includes caching, load balancing, and Cloudflare Workers for
+- **Monito
 
 ## Use Cases
 

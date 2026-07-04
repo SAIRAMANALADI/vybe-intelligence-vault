@@ -4,15 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/llmware-ai/llmware
-collected_at: '2026-07-04T03:51:47.476068+05:30'
+collected_at: '2026-07-04T09:36:36.865804+05:30'
 published_at: '2026-07-03T14:49:37Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - meta-ai
 - models
 - python
 - rag
+- workflows
 stars: 14815
 language: Python
 status: active
@@ -21,9 +23,9 @@ archived: false
 created_at: '2023-09-29T15:19:06Z'
 pushed_at: '2026-05-17T13:53:37Z'
 resource_id: github:llmware-ai/llmware
-first_seen: '2026-07-04T03:51:47.476068+05:30'
-last_seen: '2026-07-04T03:51:47.476068+05:30'
-last_checked: '2026-07-04T03:51:47.476068+05:30'
+first_seen: '2026-07-04T09:36:36.865804+05:30'
+last_seen: '2026-07-04T09:36:36.865804+05:30'
+last_checked: '2026-07-04T09:36:36.865804+05:30'
 health_score: 100
 ---
 
@@ -31,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified RAG Framework**: Provides an integrated Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models optimized for efficiency and performance.
+- **Framework Purpose**: Unified Python-based framework for constructing enterprise-grade RAG pipelines using small, specialized models optimized for efficiency and performance.
 
-- **Multi-Model Support**: Supports multiple inference backends (e.g., llama.cpp, ONNX, OpenVINO) and integrates parsing, retrieval, and generation components for modular pipeline customization.
+- **Key Technical Features**: Supports multiple inference backends (LlamaCpp, ONNX, OpenVINO) and includes tools for parsing, retrieval augmentation, and agent-based workflows.
 
-- **Enterprise Tooling**: Includes agents, generative AI utilities, and last-updated (2026-07-03) capabilities for scalable, production-ready deployments in enterprise environments.
+- **Repository Metrics**: 14.8K+ stars, 2.9K+ forks, last updated July 2026; focuses on lightweight, deployable generative AI solutions for enterprise applications.
 
 ## Why It Matters
 

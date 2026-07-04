@@ -13,13 +13,14 @@ collected_at: '2026-07-04T03:47:46.888971+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:ask-hn-is-anyone-experimenting-with-different-ways
 first_seen: '2026-07-04T01:20:44.617958+05:30'
 last_seen: '2026-07-04T03:47:46.888971+05:30'
 last_checked: '2026-07-04T03:47:46.888971+05:30'
 health_score: 100
 ---
+
 
 # Ask HN: Is anyone experimenting with different ways of using LLMs for coding?
 

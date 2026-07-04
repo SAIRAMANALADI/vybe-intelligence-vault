@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-07-04T03:50:52.424922+05:30'
+collected_at: '2026-07-04T09:35:36.847664+05:30'
 published_at: '2026-07-03T17:23:55Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
+- workflows
 stars: 6465
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-07-04T03:50:52.424922+05:30'
-last_seen: '2026-07-04T03:50:52.424922+05:30'
-last_checked: '2026-07-04T03:50:52.424922+05:30'
+first_seen: '2026-07-04T09:35:36.847664+05:30'
+last_seen: '2026-07-04T09:35:36.847664+05:30'
+last_checked: '2026-07-04T09:35:36.847664+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Open-source context retrieval layer**: Provides a modular, API-driven infrastructure for AI agents to dynamically fetch and integrate contextual data from enterprise sources (e.g., databases, APIs, documents) to augment LLM responses.
-
-- **Semantic search & retrieval**: Implements advanced retrieval-augmented generation (RAG) with semantic search capabilities, enabling context-aware responses by indexing and querying unstructured/semi-structured data via vector embeddings.
-
-- **Enterprise data connectors**: Offers pre-built connectors for SQL/NoSQL databases, cloud storage (e.g., S3, GCS), and third-party APIs, facilitating real-time data integration for AI agents without requiring custom backend development.
+- **Purpose**: Open-source context retrieval layer designed to enhance AI agents by providing structured, real-time data access from enterprise sources (e.g., databases, APIs) for RAG workflows.
+- **Key Features**: Supports semantic search, data connectors (SQL, NoSQL, APIs), and low-latency retrieval via a Python-based SDK/API, optimized for LLM integration.
+- **Enterprise Focus**: Enables secure, scalable retrieval of structured/unstructured data with connectors for enterprise systems (e.g., Snowflake, PostgreSQL, REST APIs).
 
 ## Why It Matters
 
@@ -43,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: airweave-ai
 - Stars: 6465
-- Forks: 812
+- Forks: 813
 - Language: Python
 - Topics: agent-infrastructure, ai, ai-agents, ai-infrastructure, api, context-retrieval, data-connectors, developer-tools, enterprise-data, information-retrieval, integration, llm, open-source, rag, retrieval, retrieval-augmented-generation, sdk, search, search-api, semantic-search
 - Last Updated: 2026-07-03T17:23:55Z

@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-07-04T03:49:27.278656+05:30'
+collected_at: '2026-07-04T09:34:11.711456+05:30'
 published_at: '2026-07-03T18:30:05Z'
 tags:
 - github-repo
 - hackernews
-- models
 - python
 - rag
 - workflows
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-06-30T05:24:48Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-07-04T03:49:27.278656+05:30'
-last_seen: '2026-07-04T03:49:27.278656+05:30'
-last_checked: '2026-07-04T03:49:27.278656+05:30'
+first_seen: '2026-07-04T09:34:11.711456+05:30'
+last_seen: '2026-07-04T09:34:11.711456+05:30'
+last_checked: '2026-07-04T09:34:11.711456+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Production Resources**: Repository providing a vetted list of tools, frameworks, and best practices for deploying scalable, production-grade Retrieval-Augmented Generation (RAG) systems, covering components like embeddings, vector databases, and LLM integration.
-
-- **Technical Scope**: Focuses on Python-based AI/ML engineering tools (e.g., LangChain) and MLOps practices for optimizing RAG pipelines, including retrieval mechanisms, LLM fine-tuning, and vector database management.
-
-- **Community & Maintenance**: Active repository (137 stars, 34 forks) last updated in July 2026, emphasizing production readiness, LLMops, and generative AI workflows.
+- **Curated Resource**: Repository providing a vetted collection of tools, frameworks, and best practices for deploying scalable, production-grade RAG systems, emphasizing reliability and efficiency.
+- **Technical Scope**: Covers core components such as embeddings, vector databases, LLM integration (e.g., LangChain), and MLOps/LLMops workflows for end-to-end RAG pipelines.
+- **Python-Centric**: Focuses on Python-based implementations, with last update timestamp (2026-07-03) indicating active maintenance for emerging AI engineering trends.
 
 ## Why It Matters
 

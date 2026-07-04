@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://vivekmalhan-cb919.web.app/
-published_at: '2026-07-01T20:47:15.616113+05:30'
-collected_at: '2026-07-01T20:47:15.616124+05:30'
+published_at: '2026-07-04T09:36:42.395090+05:30'
+collected_at: '2026-07-04T09:36:42.395102+05:30'
 tags:
 - frontend_ui
 - web-crawled
 status: active
 resource_id: blog:vivek-malhan-full-cycle-developer
-first_seen: '2026-07-01T20:47:15.616124+05:30'
-last_seen: '2026-07-01T20:47:15.616124+05:30'
-last_checked: '2026-07-01T20:47:15.616124+05:30'
+first_seen: '2026-07-04T09:36:42.395102+05:30'
+last_seen: '2026-07-04T09:36:42.395102+05:30'
+last_checked: '2026-07-04T09:36:42.395102+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Lightweight React Toast Library**: Zero-dependency, customizable toast notifications for React applications with minimal overhead.
-- **Accessibility & Developer-Friendly**: Built with full accessibility compliance (ARIA) and intuitive API for seamless integration.
-- **Open Source & NPM Package**: Available under open-source license via GitHub and distributed via NPM (`react-toasties`).
+- **Lightweight React Toast Library**: Zero-dependency, customizable toast notifications for React with TypeScript support.
+- **Accessibility & UX**: Implements ARIA roles (`alert`, `status`) and keyboard navigation for full accessibility compliance.
+- **Developer Experience**: Simple API with hooks (`useToast`) and components (`ToastContainer`) for easy integration.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-01T20:47:15.616113+05:30
+- Published: 2026-07-04T09:36:42.395090+05:30
 
 ## Related Tags
 

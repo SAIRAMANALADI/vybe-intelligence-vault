@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-07-04T03:48:57.312354+05:30'
+collected_at: '2026-07-04T09:33:41.719550+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
 - rag
-- scripts
+- workflows
 stars: 44
 language: Bicep
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-07-04T03:48:57.312354+05:30'
-last_seen: '2026-07-04T03:48:57.312354+05:30'
-last_checked: '2026-07-04T03:48:57.312354+05:30'
+first_seen: '2026-07-04T09:33:41.719550+05:30'
+last_seen: '2026-07-04T09:33:41.719550+05:30'
+last_checked: '2026-07-04T09:33:41.719550+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for setting up a Generative AI Ops (GenAIOps) environment with Retrieval-Augmented Generation (RAG) capabilities on Azure.
-
-- **Modular Design**: Includes reusable Bicep modules for deploying core components such as compute, networking, and storage, enabling scalable and maintainable GenAIOps pipelines.
-
-- **CI/CD Integration**: Supports Azure DevOps/GitHub Actions pipelines for automated deployment, testing, and monitoring of RAG-based GenAI applications.
+- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for setting up a Generative AI Operations (GenAIOps) environment with Retrieval-Augmented Generation (RAG) capabilities on Azure.
+- **Modular Design**: Structured to enable scalable and maintainable GenAIOps workflows, leveraging Azure services for orchestration, monitoring, and data pipelines.
+- **Pre-configured RAG Pipeline**: Includes templates for vector databases, embedding models, and LLM integration, optimized for production-grade AI operations.
 
 ## Why It Matters
 

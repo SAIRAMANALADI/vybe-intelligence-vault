@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://status.npmjs.com/
-published_at: '2026-07-04T03:57:26.536044+05:30'
-collected_at: '2026-07-04T03:57:26.536063+05:30'
+published_at: '2026-07-04T09:42:23.109467+05:30'
+collected_at: '2026-07-04T09:42:23.109484+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:npm-status
-first_seen: '2026-07-04T03:57:26.536063+05:30'
-last_seen: '2026-07-04T03:57:26.536063+05:30'
-last_checked: '2026-07-04T03:57:26.536063+05:30'
+first_seen: '2026-07-04T09:42:23.109484+05:30'
+last_seen: '2026-07-04T09:42:23.109484+05:30'
+last_checked: '2026-07-04T09:42:23.109484+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **npm Statuspage** provides real-time operational metrics for npm services (e.g., package installation, publishing, search) with a 99.93% uptime over the past 90 days.
-- **Incident notifications** are available via email or SMS for critical updates (creation, resolution) using reCAPTCHA-protected forms.
-- **Historical data** (e.g., uptime trends, incident logs) is accessible via Atom/RSS feeds or the [status.npmjs.com](https://status.npmjs.com) dashboard.
+- **npm Statuspage** provides real-time operational metrics for npm services, including 99.93% uptime for `www.npmjs.com` and 100% uptime for package installation, publishing, search, security audit, and replication feed over the past 90 days.
+- **Notification System** supports email and SMS alerts for incident creation, updates, and resolutions, with OTP-based verification and compliance with Atlassian and Google privacy policies.
+- **Historical Data** includes incident tracking (none reported in the last 14 days) and uptime statistics, accessible via Atom/RSS feeds or Twitter (@npmstatus).
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T03:57:26.536044+05:30
+- Published: 2026-07-04T09:42:23.109467+05:30
 
 ## Related Tags
 

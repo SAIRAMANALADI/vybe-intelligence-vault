@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Topics AI Search
 source_url: https://github.com/flux159/mcp-chat
-collected_at: '2026-06-21T20:19:14.233730+05:30'
-published_at: '2026-06-21T05:03:46Z'
+collected_at: '2026-07-04T09:32:39.176479+05:30'
+published_at: '2026-07-04T02:35:03Z'
 tags:
 - agents
 stars: 135
@@ -13,8 +13,8 @@ language: TypeScript
 status: active
 resource_id: github:flux159/mcp-chat
 first_seen: '2026-06-18T23:35:18.966645+05:30'
-last_seen: '2026-06-21T20:19:14.233730+05:30'
-last_checked: '2026-06-21T20:19:14.233730+05:30'
+last_seen: '2026-07-04T09:32:39.176479+05:30'
+last_checked: '2026-07-04T09:32:39.176479+05:30'
 health_score: 100
 ---
 
@@ -35,7 +35,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 20
 - Language: TypeScript
 - Topics: ai, llm, mcp
-- Last Updated: 2026-06-21T05:03:46Z
+- Last Updated: 2026-07-04T02:35:03Z
 
 ## Possible Use Cases
 

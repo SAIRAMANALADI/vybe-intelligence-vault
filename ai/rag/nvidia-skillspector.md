@@ -4,14 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/SkillSpector
-collected_at: '2026-07-04T03:51:32.486341+05:30'
-published_at: '2026-07-03T22:13:43Z'
+collected_at: '2026-07-04T09:36:16.864751+05:30'
+published_at: '2026-07-04T03:27:27Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-stars: 11907
+- workflows
+stars: 11914
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +21,9 @@ archived: false
 created_at: '2026-03-21T00:28:43Z'
 pushed_at: '2026-07-01T05:30:13Z'
 resource_id: github:nvidia/skillspector
-first_seen: '2026-07-04T03:51:32.486341+05:30'
-last_seen: '2026-07-04T03:51:32.486341+05:30'
-last_checked: '2026-07-04T03:51:32.486341+05:30'
+first_seen: '2026-07-04T09:36:16.864751+05:30'
+last_seen: '2026-07-04T09:36:16.864751+05:30'
+last_checked: '2026-07-04T09:36:16.864751+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills (e.g., LLM prompts, tools, functions) to detect security vulnerabilities, malicious patterns, and risks such as prompt injection, data exfiltration, or unsafe function calls.
-- **Python-Based Implementation**: Built in Python, leveraging AST (Abstract Syntax Tree) parsing and rule-based checks to analyze skill definitions, dependencies, and execution flows for potential threats.
-- **Extensible Rule Engine**: Supports custom security rules and signatures to identify emerging threats, with integration capabilities for CI/CD pipelines to enforce security policies in AI agent deployments.
+- **Purpose**: Static security scanner for AI agent skills, designed to detect vulnerabilities, malicious patterns, and security risks in Python-based AI workflows.
+- **Core Functionality**: Analyzes AI agent skills for exploitable flaws, unsafe code execution, and adversarial attack vectors using static code analysis techniques.
+- **Technical Stack**: Implemented in Python, leveraging AST parsing, pattern matching, and rule-based detection for security auditing of AI agent components.
 
 ## Why It Matters
 
@@ -40,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVIDIA
-- Stars: 11907
-- Forks: 973
+- Stars: 11914
+- Forks: 974
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-03T22:13:43Z
+- Last Updated: 2026-07-04T03:27:27Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-03-21T00:28:43Z

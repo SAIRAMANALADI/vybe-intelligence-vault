@@ -16,6 +16,7 @@ tags:
 - reddit
 - scripts
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Milvus Bootcamp is a GitHub repository (`milvus-io/bootcamp`) providing tutorials and resources for vector database applications, with 2.4k stars and 688 forks.
+- **Repository Overview**: Milvus Bootcamp is a GitHub repository (`milvus-io/bootcamp`) with 688 forks and 2.4k stars, containing tutorials and resources for Milvus vector database implementation.
 
-- **Quickstart Tutorial**: Contains `quickstart.ipynb` (779 lines, 23.3 KB) in `/tutorials/quickstart`, offering a hands-on introduction to Milvus vector database operations.
+- **Quickstart Tutorial**: The repository includes a Jupyter Notebook (`quickstart.ipynb`) in the `tutorials/quickstart` directory, with 779 lines of code and a file size of 23.3 KB.
 
-- **Metadata**: Single open issue and pull request; repository includes CI/CD via GitHub Actions and project insights for tracking acti
+- **Metadata**: The notebook is tracked under the `master` branch with no open issues or security alerts, and include
 
 ## Use Cases
 

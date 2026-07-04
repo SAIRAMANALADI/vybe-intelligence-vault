@@ -2,18 +2,17 @@
 title: LangChain overview - Docs by LangChain
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://js.langchain.com
+source_url: https://python.langchain.com/docs/concepts/text_splitters/
 resource_id: blog:langchain-overview-docs-by-langchain
 local_vault_path: ai/rag/langchain-overview-docs-by-langchain.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - agents
 - anthropic
-- benchmark
 - meta-ai
 - models
 - openai
@@ -22,7 +21,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # LangChain overview - Docs by LangChain
@@ -31,18 +30,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Agent Harness Architecture**: `create_agent` provides a minimal, modular harness for composing agents from model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
+- **Agent Composition**: LangChain's `create_agent` provides a minimal, modular harness where agents are composed of a model, tools, prompt, and middleware, enabling highly configurable and customizable agentic workflows across providers (OpenAI, Anthropic, Google, etc.).
 
-- **Multi-Framework Integration**: LangChain agents are built on LangGraph, enabling durable execution, human-in-the-loop support, and persistence, while LangSmith offers observability for debugging and evaluation.
-
-- **Standardized Model Interface**: Unified interface for chat models and emb
+- **Harness Architecture**: The `create_agent` harness encapsulates the model loop (prompt, tools, middleware) and is built atop LangGraph, inheriting features like durable execution, persistence, and human-in-the-loop support
 
 ## Use Cases
 
@@ -52,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://js.langchain.com
+Original source URL: https://python.langchain.com/docs/concepts/text_splitters/
 
 ## Local Vault File
 

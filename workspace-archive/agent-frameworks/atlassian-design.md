@@ -2,13 +2,13 @@
 title: Atlassian Design
 archive_category: agent-frameworks
 source_category: ai/agents
-source_url: https://atlassian.design
+source_url: https://atlassian.design/
 resource_id: blog:atlassian-design
 local_vault_path: ai/agents/atlassian-design.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: prompt
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -28,17 +28,17 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: prompt
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Unified Design System**: Atlassian employs a cohesive design language across all products, ensuring consistency and familiarity for teams, with foundational components like color, typography, iconography, and grid systems.
+- **Unified Design System**: Atlassian employs a cohesive design language across all products, ensuring consistency and familiarity to enhance team collaboration and user experience.
 
-- **AI Integration Patterns**: The design system includes AI-specific patterns (e.g., Rovo) to create clear, useful AI experiences, emphasizing human-AI collaboration and workflow optimization.
+- **AI Integration**: The design system includes AI-driven patterns (e.g., Rovo UI) to streamline workflows, emphasizing human-AI collaboration while maintaining clarity and usability in AI-enhanced interfaces.
 
-- **Accessibility & Tokens**: The system enforces accessibility standards (e.
+- **Foundational Components**: Core system elements (color, typography, accessibility, tokens) are modul
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://atlassian.design
+Original source URL: https://atlassian.design/
 
 ## Local Vault File
 

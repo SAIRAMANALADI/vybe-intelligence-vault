@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://confluence.atlassian.com/upm/installing-add-ons-273875715.html
-published_at: '2026-06-23T10:12:10.793545+05:30'
-collected_at: '2026-06-23T10:12:10.793557+05:30'
+published_at: '2026-07-04T09:45:25.693357+05:30'
+collected_at: '2026-07-04T09:45:25.693372+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:installing-marketplace-apps-atlassian-support-atla
-first_seen: '2026-06-23T10:12:10.793557+05:30'
-last_seen: '2026-06-23T10:12:10.793557+05:30'
-last_checked: '2026-06-23T10:12:10.793557+05:30'
+first_seen: '2026-07-04T09:45:25.693372+05:30'
+last_seen: '2026-07-04T09:45:25.693372+05:30'
+last_checked: '2026-07-04T09:45:25.693372+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **App Installation Methods**: Cloud apps are installed via direct subscription from the Atlassian Marketplace, while Data Center apps require file upload (JAR/OBR) or direct Marketplace access, with UPM handling compatibility checks and signature verification if enabled.
+- **App Installation Methods**: Cloud apps are installed via Marketplace subscription, while Data Center apps use the Universal Plugin Manager (UPM) with options for direct Marketplace download or file upload (JAR/OBR). Legacy Plugins 1 apps require manual installation in `/WEB-INF/lib`, unlike Plugins 2 apps which use `/plugins/installed-plugins/`.
 
-- **Plugin Framework Compatibility**: Apps are categorized by their underlying framework (Plugins 1, Plugins 2/OSGi, or Connect/Forge), with Plugins 1 requiring manual installation in `/atlassian-jira/WEB-INF/lib/` for Jira/Bamboo, while Plugins 2 apps use `/plugins/installed-plugins/`.
+- **App Signing & Security**: UPM supports signed app verification; enabled mode requires signature entry during upload, while disabled mode skips this step. Atlassian provides OpenSSL-based certificate generation and troubleshooting for app signing issues.
 
-- **License & Troubleshooting**: Paid apps require license key entry via the Manage Apps page; errors during file upload (e.g., non-JAR/OBR files) trigger UPM-specific warnings, necessitating manual intervention or adherence to app-specific installation instructions.
+- **License & Compatibility**: Paid apps require license key entry post-installation; free apps bypass this. Compatibility checks are enforced via UPM, with bundled apps (e.g., Team Calendars 7.0.7) auto-recognized under Data Center licenses. Legacy Plugins 1 apps lack dynamic install/uninstall in JIRA/Bamboo, requiring manual file system management.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-23T10:12:10.793545+05:30
+- Published: 2026-07-04T09:45:25.693357+05:30
 
 ## Related Tags
 

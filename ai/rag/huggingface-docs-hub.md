@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-07-04T03:52:25.469164+05:30'
-collected_at: '2026-07-04T03:52:25.469175+05:30'
+published_at: '2026-07-04T09:37:22.146301+05:30'
+collected_at: '2026-07-04T09:37:22.146315+05:30'
 tags:
 - agents
 - creative_dev
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-07-04T03:52:25.469175+05:30'
-last_seen: '2026-07-04T03:52:25.469175+05:30'
-last_checked: '2026-07-04T03:52:25.469175+05:30'
+first_seen: '2026-07-04T09:37:22.146315+05:30'
+last_seen: '2026-07-04T09:37:22.146315+05:30'
+last_checked: '2026-07-04T09:37:22.146315+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with built-in support for Gradio SDK, Dockerfile customization, and static HTML/JavaScript deployments, including GPU acceleration options.
+- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting via Gradio, Docker, or static HTML/JS, with optional GPU acceleration for performance-critical applications.
 
-- **Storage & Performance**: Supports disk usage/storage management, GPU upgrades, and ZeroGPU options for optimized resource allocation and cost-efficient inference.
+- **Integration & Customization**: Supports Python-based SDKs (e.g., Gradio), Dockerfile customization, and GitHub Actions for CI/CD workflows, with embedded deployment options and storage management.
 
-- **Integration & Automation**: Provides GitHub Actions integration for CI/CD, OAuth/Sign-In with Hugging Face, and MCP server/agent tool compatibility for advanced workflow automation.
+- **Advanced Features**: Includes ZeroGPU mode, disk/storage monitoring, custom domains, and MCP server/agent tool integrations for scalable, production-grade ML applications.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T03:52:25.469164+05:30
+- Published: 2026-07-04T09:37:22.146301+05:30
 
 ## Related Tags
 

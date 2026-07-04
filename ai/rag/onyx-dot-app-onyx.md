@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/onyx
-collected_at: '2026-07-04T03:49:07.334950+05:30'
+collected_at: '2026-07-04T09:33:51.667766+05:30'
 published_at: '2026-07-03T20:22:58Z'
 tags:
 - frontend_ui
@@ -12,7 +12,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 stars: 30703
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2023-04-27T06:04:01Z'
 pushed_at: '2026-07-03T10:57:34Z'
 resource_id: github:onyx-dot-app/onyx
-first_seen: '2026-07-04T03:49:07.334950+05:30'
-last_seen: '2026-07-04T03:49:07.334950+05:30'
-last_checked: '2026-07-04T03:49:07.334950+05:30'
+first_seen: '2026-07-04T09:33:51.667766+05:30'
+last_seen: '2026-07-04T09:33:51.667766+05:30'
+last_checked: '2026-07-04T09:33:51.667766+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Open-source AI chat platform (`Onyx`) designed to work with any Large Language Model (LLM), supporting seamless integration across diverse AI backends for flexible deployment.
-
-- **Advanced RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based similarity search, enabling enterprise-grade information retrieval and context-aware AI responses.
-
-- **Full-Stack Architecture**: Combines a **Next.js** frontend with a **Python** backend, supporting self-hosting, modular enterprise search, and real-time chat UI optimized for generative AI workflows.
+- **Open-source AI chat platform** supporting integration with any LLM, featuring advanced RAG (Retrieval-Augmented Generation), vector search, and enterprise-grade information retrieval capabilities.
+- **Tech stack**: Python backend with Next.js frontend, enabling self-hosted deployment for scalable, modular AI interactions.
+- **Key features**: ChatUI, multi-model compatibility, and enterprise search with last update as of July 2026.
 
 ## Why It Matters
 

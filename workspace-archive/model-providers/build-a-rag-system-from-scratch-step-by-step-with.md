@@ -40,9 +40,7 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid Retrieval Pipeline**: Implements **BM25 + vector search** for retrieval, combining keyword-based (BM25) and semantic (vector) matching to improve recall and precision, followed by **cross-encoder reranking** (free, no API key required) to reorder top-k candidates based on contextual relevance.
-
-- **ChromaDB Hybrid Search Implementation**: Uses `Chroma` with `BM25` retriever (`BM25Retriever`) and `vector retriever` (`VectorStoreRetriever`), merging results via `EnsembleRetriever` (weig
+*   A RAG pipeline is implemented using `RecursiveCharacterTextSplitter` (
 
 ## Use Cases
 

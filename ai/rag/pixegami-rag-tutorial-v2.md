@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-07-04T03:48:42.260221+05:30'
+collected_at: '2026-07-04T09:33:26.637649+05:30'
 published_at: '2026-07-02T14:21:51Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-07-04T03:48:42.260221+05:30'
-last_seen: '2026-07-04T03:48:42.260221+05:30'
-last_checked: '2026-07-04T03:48:42.260221+05:30'
+first_seen: '2026-07-04T09:33:26.637649+05:30'
+last_seen: '2026-07-04T09:33:26.637649+05:30'
+last_checked: '2026-07-04T09:33:26.637649+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates advanced RAG workflows using locally deployed large language models (LLMs) via frameworks like LangChain, eliminating cloud dependency.
-- **Dynamic Database Updates**: Implements automated or semi-automated vector database refresh mechanisms to ensure retrieval quality with evolving document corpora.
-- **Testing & Evaluation Suite**: Includes structured testing methodologies (e.g., retrieval accuracy, response relevance) to benchmark RAG performance under varying conditions.
+- **Local LLM Integration**: Demonstrates advanced RAG pipelines using local large language models (LLMs) for privacy and cost efficiency, leveraging frameworks like LangChain for modular workflows.
+
+- **Dynamic Database Updates**: Implements automated or semi-automated database refresh mechanisms to ensure retrieval-augmented generation (RAG) systems operate on up-to-date knowledge without manual intervention.
+
+- **Testing & Validation Framework**: Includes structured testing methodologies (e.g., retrieval accuracy, response quality) to evaluate RAG performance, with tools for benchmarking and iterative improvement.
 
 ## Why It Matters
 

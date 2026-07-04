@@ -8,7 +8,7 @@ local_vault_path: ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: workflow
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
@@ -26,7 +26,7 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: workflow
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
@@ -34,8 +34,8 @@ selection_reason:
 ## Summary
 
 - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow` (Python-based)
-- **Metadata**: 66 forks, last updated 2025-02-14T09:55:08Z, no topics or stars
-- **Purpose**: GitHub Classroom assignment repository for RAG3 homework workflow
+- **Metadata**: 0 stars, 66 forks, last updated `2025-02-14T09:55:08Z`
+- **Purpose**: GitHub Classroom-assigned workflow for RAG (Retrieval-Augmented Generation) homework (HW03)
 
 ## Use Cases
 

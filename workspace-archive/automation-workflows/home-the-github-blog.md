@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - reddit
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Scale & Challenge**: GitHub processed **20,000+ secret scanning alerts** across **15,000 repositories**, requiring automated triage to distinguish critical vulnerabilities from noise.
+- **Alert Volume & Scope**: GitHub processed **20,000+ secret scanning alerts** across **15,000 repositories**, necessitating scalable triage and remediation workflows.
 
-- **Workflow Automation**: Implemented **remediation workflows** to systematically address alerts, reducing manual review overhead and accelerating resolution.
+- **Signal-to-Noise Optimization**: Implemented **automated filtering and prioritization** to distinguish critical secrets from noise, reducing manual review overhead.
 
-- **Inbox Zero Achievement**: Achieved **inbox zero** in **9 months** by refining detection logic, prioritizing high-risk secrets, and integrating aut
+- **Inbox Zero Achievement**: Achieved **full alert resolution** in **9 months** via structured remediation pipelines, integrating detection, triage, and remedia
 
 ## Use Cases
 

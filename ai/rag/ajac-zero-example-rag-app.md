@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ajac-zero/example-rag-app
-collected_at: '2026-07-04T03:49:17.321821+05:30'
+collected_at: '2026-07-04T09:34:01.686333+05:30'
 published_at: '2026-03-17T09:29:28Z'
 tags:
 - github-repo
 - rag
 - typescript
+- workflows
 stars: 159
 language: TypeScript
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-02-18T16:15:24Z'
 pushed_at: '2026-01-15T20:18:12Z'
 resource_id: github:ajac-zero/example-rag-app
-first_seen: '2026-07-04T03:49:17.321821+05:30'
-last_seen: '2026-07-04T03:49:17.321821+05:30'
-last_checked: '2026-07-04T03:49:17.321821+05:30'
+first_seen: '2026-07-04T09:34:01.686333+05:30'
+last_seen: '2026-07-04T09:34:01.686333+05:30'
+last_checked: '2026-07-04T09:34:01.686333+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack & Features**: Dockerized RAG application with full TypeScript support, 100% test coverage, and LiteLLM integration for 100+ LLM providers; includes Langfuse for LLM observability and structured logging.
-
-- **Observability & Tooling**: Implements Langfuse for real-time LLM monitoring, debugging, and performance tracking; enforces strict type-checking (TypeScript) and CI/CD best practices.
-
-- **Scalability & Extensibility**: Modular architecture with provider-agnostic LLM integration; designed for horizontal scaling and easy extension with additional RAG components or models.
+- **Observability & LLM Integration**: Implements Langfuse for LLM observability with support for 100+ providers via LiteLLM, enabling comprehensive monitoring and multi-model compatibility.
+- **Full-Stack Type Safety**: Dockerized TypeScript application with full type-checking (e.g., TypeScript strict mode) and 100% test coverage for robust, maintainable RAG workflows.
+- **Production-Ready Features**: Includes pre-configured RAG pipeline, modular architecture, and CI/CD-ready setup for scalable deployment.
 
 ## Why It Matters
 

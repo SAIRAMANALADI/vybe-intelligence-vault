@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Core Libraries**: Hugging Face maintains flagship libraries like `transformers` (SOTA ML frameworks for text/vision/audio/multimodal models), `diffusers` (diffusion models for generative AI), `datasets` (largest hub of ready-to-use datasets with efficient data tools), and `peft` (parameter-efficient fine-tuning methods).
+- **Hugging Face** is an AI research organization providing state-of-the-art open-source frameworks like `transformers` (NLP/vision/audio/multimodal models), `diffusers` (diffusion-based generative models), and `datasets` (large-scale AI dataset hub).
 
-- **Optimization & Deployment**: `accelerate` enables cross-device PyTorch model training/inference with mixed precision (including FP8) and FSDP/DeepSpeed support; `optimu
+- Core libraries include `peft` (parameter-efficient fine-tuning), `accelerate` (PyTorch training/inference acceleration), and `optimum` (hardware-optimized inference/training for Transformers/Diffusers).
+
+- Hosts verified domain `huggingface.co`
 
 ## Use Cases
 

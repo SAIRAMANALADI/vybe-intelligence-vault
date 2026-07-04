@@ -1,43 +1,43 @@
 ---
-title: RAGatouille/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
-  at main · AnswerDotAI/RAGat
+title: AnswerDotAI/RAGatouille
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://github.com/AnswerDotAI/RAGatouille/blob/main/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
+source_url: https://github.com/AnswerDotAI/RAGatouille
 resource_id: github:answerdotai/ragatouille
 local_vault_path: ai/rag/answerdotai-ragatouille.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
-- models
+- github-repo
+- hackernews
+- python
 - rag
-- web-crawled
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
-# RAGatouille/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb at main · AnswerDotAI/RAGat
+# AnswerDotAI/RAGatouille
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **RAGatouille**: A GitHub repository by AnswerDotAI implementing a Retrieval-Augmented Generation (RAG) toolkit with 271 forks and 3.9k stars, designed for efficient document retrieval and integration with LLMs.
+- **Modular ColBERT Integration**: Provides a Python library for seamless integration and training of ColBERT (a late-interaction retrieval model) within any RAG pipeline, emphasizing modularity and ease of use.
 
-- **Fine-tuning Notebook**: Includes `03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb`, a 468-line Jupyter notebook demonstrating fine-tuning of LLMs using RAGatouille and Instructor without annotated data.
+- **Research-Backed Optimization**: Leverages state-of-the-art retrieval techniques (ColBERTv2) to enhance retrieval quality in RAG systems, with optimizations for performance and scalability.
 
-- **Key Features**: Supports end-to-end RAG pipelines
+- **Python Framework**: Built in Python with a focus on developer experience, enabling quick
 
 ## Use Cases
 
@@ -47,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/AnswerDotAI/RAGatouille/blob/main/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
+Original source URL: https://github.com/AnswerDotAI/RAGatouille
 
 ## Local Vault File
 

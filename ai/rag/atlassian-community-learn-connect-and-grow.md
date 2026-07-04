@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://community.atlassian.com
-published_at: '2026-06-22T11:23:09.633487+05:30'
-collected_at: '2026-06-22T11:23:09.633502+05:30'
+published_at: '2026-07-04T09:45:21.759589+05:30'
+collected_at: '2026-07-04T09:45:21.759604+05:30'
 tags:
 - agents
 - animation
@@ -13,15 +13,14 @@ tags:
 - hackernews
 - models
 - rag
-- scripts
 - threejs
 - web-crawled
 - workflows
 status: active
 resource_id: blog:atlassian-community-learn-connect-and-grow
-first_seen: '2026-06-22T11:23:09.633502+05:30'
-last_seen: '2026-06-22T11:23:09.633502+05:30'
-last_checked: '2026-06-22T11:23:09.633502+05:30'
+first_seen: '2026-07-04T09:45:21.759604+05:30'
+last_seen: '2026-07-04T09:45:21.759604+05:30'
+last_checked: '2026-07-04T09:45:21.759604+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **API Design**: The article/resource provides a structured approach to finding answers via an API, emphasizing RESTful principles with clear endpoint definitions, HTTP methods (GET, POST), and standardized response formats (JSON/XML) for efficient data retrieval and integration.
+- **API Design**: The article introduces a structured approach to finding answers via an API, emphasizing modular design with distinct endpoints for different query types (e.g., `/api/answers`, `/api/questions`), likely supporting RESTful principles with JSON payloads for request/response.
 
-- **Authentication & Security**: Implements OAuth 2.0 for secure access, requiring API keys or tokens for authorization, ensuring data integrity and preventing unauthorized usage through encrypted communications (HTTPS) and rate limiting.
+- **Data Flow**: The interactive diagram (SVG-based) illustrates a client-server interaction where user queries are processed through a backend system, returning structured responses (e.g., answers, questions, or resources) with visual feedback loops for usability.
 
-- **Error Handling & Rate Limiting**: Defines structured error responses (HTTP status codes, error messages) and enforces rate limits (e.g., 100 requests/minute) to optimize API performance, prevent abuse, and maintain system stability.
+- **Technical Stack**: Implied use of modern web technologies: SVG for scalable diagrams, JavaScript for interactivity, and a backend framework (e.g., Node.js, Django) handling API logic, with a focus on clean separation of concerns for maintainability.
 
 ## Why It Matters
 
@@ -43,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:23:09.633487+05:30
+- Published: 2026-07-04T09:45:21.759589+05:30
 
 ## Related Tags
 
@@ -53,7 +52,6 @@ General public resource representing technology updates, guides, or tutorials.
 - hackernews
 - models
 - rag
-- scripts
 - threejs
 - web-crawled
 - workflows

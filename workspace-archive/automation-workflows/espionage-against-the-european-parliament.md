@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by ledoge. Score: 139, Comments: 23.
+Hacker News story by ledoge. Score: 296, Comments: 71.
 Original Link: https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/
 
 ## Use Cases

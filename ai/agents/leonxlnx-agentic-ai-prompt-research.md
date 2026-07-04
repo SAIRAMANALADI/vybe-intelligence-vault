@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-07-04T03:51:32.445856+05:30'
+collected_at: '2026-07-04T09:36:16.818438+05:30'
 published_at: '2026-07-02T22:12:40Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - hackernews
 - unknown
-- workflows
 stars: 2471
 language: Unknown
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-07-04T03:51:32.445856+05:30'
-last_seen: '2026-07-04T03:51:32.445856+05:30'
-last_checked: '2026-07-04T03:51:32.445856+05:30'
+first_seen: '2026-07-04T09:36:16.818438+05:30'
+last_seen: '2026-07-04T09:36:16.818438+05:30'
+last_checked: '2026-07-04T09:36:16.818438+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and coordination mechanisms for autonomous AI agents in coding tasks, emphasizing system prompts and agentic workflows.
-- **Security Classification**: Investigates security implications and classifications of agentic AI systems, likely addressing vulnerabilities in multi-agent architectures and prompt injection risks.
-- **Claude & Prompt Engineering**: Examines advanced prompt engineering techniques tailored for agentic AI models like Claude, optimizing agent autonomy and task decomposition.
+- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and coordination mechanisms for autonomous AI coding assistants, emphasizing multi-agent collaboration and task decomposition.
+- **Security Classification**: Implements security frameworks to classify and mitigate risks in agentic AI systems, ensuring safe and controlled execution of generated code.
+- **Prompt Engineering & System Prompts**: Explores advanced prompt engineering techniques and system-level prompts to optimize agentic AI performance in coding tasks.
 
 ## Why It Matters
 

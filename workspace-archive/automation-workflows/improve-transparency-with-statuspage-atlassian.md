@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Real-time incident communication**: Statuspage enables proactive user notifications during incidents via email, SMS, in-app messages, and integrations with tools like Slack, Microsoft Teams, and PagerDuty, reducing duplicate support tickets.
+- **Real-time incident communication**: Statuspage enables automated, multi-channel (email, SMS, Slack, in-app) public/private incident updates, reducing support tickets and maintaining transparency during outages.
 
-- **Component monitoring & uptime tracking**: Supports 150+ third-party integrations (e.g., Stripe, Mailgun) to display status of critical dependencies, with historical uptime metrics for transparency and trust-building.
+- **Component monitoring & integrations**: Supports 150+ third-party integrations (e.g., Stripe, PagerDuty) to display granular service status, with REST API access for custom automation and metrics tracking.
 
-- **Scalable pricing tiers**: O
+- **Scalable pricing tiers**: Free plan (100 subscribers, 25 components) t
 
 ## Use Cases
 

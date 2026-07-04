@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
@@ -30,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Practical RAG Implementation**: A Retrieval-Augmented Generation (RAG) system designed for interacting with GitHub repositories, enabling users to download and query repositories via natural language.
-- **Python-Based Architecture**: Built primarily in Python, leveraging libraries/frameworks for document retrieval, embedding generation, and LLM integration.
-- **Metadata**: 97 stars, 20 forks; last updated on 2026-06-30; no explicit topics tagged.
+- **RAG Implementation**: Practical Retrieval-Augmented Generation (RAG) system enabling interaction with GitHub repositories via natural language queries.
+- **Technical Stack**: Python-based, leveraging RAG pipelines for document retrieval and generation, with no explicit framework dependencies listed.
+- **Metadata**: 97 stars, 20 forks, last updated 2026-06-30; repository is unthemed (no topics).
 
 ## Use Cases
 

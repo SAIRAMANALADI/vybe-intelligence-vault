@@ -17,6 +17,7 @@ tags:
 - models
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Bootcamp**: Covers end-to-end AI agent development from fundamentals to enterprise deployment, including LangChain/LangGraph, Coze, Dify, MCP, and skills integration, with RAG, LLM fine-tuning, and prompt engineering.
+- **Comprehensive 2026 AI Agent Learning Path**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering; includes enterprise deployment, fine-tuning, and real-world projects aligned with AI application development roles.
 
-- **Full-Stack Project Pipeline**: Provides structured learning paths, hands-on projects, and interview preparation aligned with AI application engineering roles, emphasizing deployment, optimization, and real-world implementation.
+- **Full-Stack Technical Stack**: Integrates skills, LLM APIs, RAG pipelines, and agent frameworks (LangChain/LangGraph) with enterprise-grade deployment strategies and model fine-tuning methodologies.
 
-- **Toolchain &
+- **Interview & Project Readiness**: Provides hands
 
 ## Use Cases
 

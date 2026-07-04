@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Kernel Development & Contribution**: Core documentation covers Linux kernel development processes, patch submission workflows, maintainer guidelines, and community interaction standards (e.g., [Development Process](https://docs.kernel.org/process/development-process.html), [Submitting Patches](https://docs.kernel.org/process/submitting-patches.html)).
+- **Kernel Development & Contribution**: Core documentation covers Linux kernel development processes, patch submission workflows, maintainer guidelines, and community interaction protocols (e.g., [Development Process](https://docs.kernel.org/process/development-process.html), [Submitting Patches](https://docs.kernel.org/process/submitting-patches.html)).
 
-- **API & Subsystem Documentation**: Provides detailed references for internal APIs, driver interfaces, subsystem-specific implementations, a
+- **Cross-Architecture Support**: Comprehensive architecture-specific documentation spanning 16+ CPU architectures (x86, ARM64, RISC-V, Power
 
 ## Use Cases
 

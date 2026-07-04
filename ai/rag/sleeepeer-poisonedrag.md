@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-04T03:49:52.313278+05:30'
+collected_at: '2026-07-04T09:34:36.697349+05:30'
 published_at: '2026-06-30T11:39:04Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
-- models
 - python
 - rag
 - reddit
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-04T03:49:52.313278+05:30'
-last_seen: '2026-07-04T03:49:52.313278+05:30'
-last_checked: '2026-07-04T03:49:52.313278+05:30'
+first_seen: '2026-07-04T09:34:36.697349+05:30'
+last_seen: '2026-07-04T09:34:36.697349+05:30'
+last_checked: '2026-07-04T09:34:36.697349+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by manipulating retrieved documents to bias LLM outputs toward attacker-desired responses.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by manipulating the retrieval corpus to inject adversarial content, degrading LLM output integrity.
 
-- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines by embedding adversarial triggers in external knowledge sources, enabling stealthy manipulation of retrieved context without direct access to the LLM or its fine-tuning process.
+- **Technical Mechanism**: Exploits vulnerabilities in the retrieval stage by embedding poisoned documents with misleading or incorrect information, causing the RAG pipeline to prioritize adversarial context during generation, leading to biased or erroneous responses.
 
-- **Evaluation & Impact**: Validates attack efficacy on multiple RAG architectures (e.g., dense retrieval + LLMs), showing significant degradation in response accuracy and trustworthiness, with potential implications for real-world deployments.
+- **Evaluation & Impact**: Validated on multiple LLMs and RAG architectures (e.g., Dense Passage Retrieval, BM25), showing significant degradation in factual accuracy and trustworthiness, with attack success rates up to **92%** under specific conditions.
 
 ## Why It Matters
 

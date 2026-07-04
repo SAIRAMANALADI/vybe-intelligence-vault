@@ -13,7 +13,6 @@ importance: medium
 tags:
 - creative_dev
 - hackernews
-- models
 - rag
 - scripts
 - web-crawled
@@ -36,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **ScriptRunner for Jira** (Adaptavist): Provides advanced automation and customization for Jira via Groovy scripting, enabling unlimited workflow modifications, REST API integrations, and custom field manipulations without direct codebase access.
+- **ScriptRunner for Jira** enables advanced automation and customization via Groovy scripting, supporting unlimited workflow modifications and integrations for Jira Cloud admins.
 
-- **Xray - Test Management for Jira** (Xblend): Native test management solution tightly integrated with Jira, supporting BDD, Gherkin syntax, manual/exploratory testing, and comprehensive traceability for Agile/DevOps pipelines.
+- **Structure by Tempo** provides native Jira PPM with Excel-like hierarchical tables for project/portfolio management, capacity planning, and advanced dependency tracking.
 
-- **eazyBI for Jira
+- **Xray - Test Management for Jira** offers end-to-end test planning, execution, and traceability with native Jira integration, supporting BDD,
 
 ## Use Cases
 

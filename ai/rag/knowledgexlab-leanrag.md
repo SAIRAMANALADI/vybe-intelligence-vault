@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-07-04T03:50:12.385782+05:30'
+collected_at: '2026-07-04T09:34:56.761773+05:30'
 published_at: '2026-07-03T21:58:58Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-03-23T06:52:23Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-07-04T03:50:12.385782+05:30'
-last_seen: '2026-07-04T03:50:12.385782+05:30'
-last_checked: '2026-07-04T03:50:12.385782+05:30'
+first_seen: '2026-07-04T09:34:56.761773+05:30'
+last_seen: '2026-07-04T09:34:56.761773+05:30'
+last_checked: '2026-07-04T09:34:56.761773+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework (LeanRAG) with two-stage retrieval: coarse-grained semantic aggregation followed by fine-grained hierarchical retrieval for improved context relevance.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework (LeanRAG) with multi-layered retrieval (entity → subgraph → full graph) and semantic aggregation for improved contextual relevance in AAAI 2026.
 
-- **AAAI 2026 Framework**: Proposes a novel architecture leveraging knowledge graphs to enhance LLM generation with structured, multi-level retrieval mechanisms, optimizing both efficiency and accuracy in downstream tasks.
+- **Efficiency Optimizations**: Python-based implementation with lightweight design (244 stars, 29 forks) focusing on low-latency graph traversal and dynamic pruning to balance retrieval granularity and computational cost.
 
-- **Python Implementation**: Open-source repository with modular design, supporting dynamic knowledge graph integration and hierarchical retrieval strategies for scalable RAG applications.
+- **Knowledge Graph Integration**: Leverages structured knowledge graphs for precise entity linking and hierarchical context propagation, enabling scalable generation with reduced hallucination risks in LLM outputs.
 
 ## Why It Matters
 

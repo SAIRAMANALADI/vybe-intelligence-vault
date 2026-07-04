@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-07-04T03:49:27.346710+05:30'
+collected_at: '2026-07-04T09:34:11.688432+05:30'
 published_at: '2026-07-03T13:07:34Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
-- workflows
 stars: 93
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-07-04T03:49:27.346710+05:30'
-last_seen: '2026-07-04T03:49:27.346710+05:30'
-last_checked: '2026-07-04T03:49:27.346710+05:30'
+first_seen: '2026-07-04T09:34:11.688432+05:30'
+last_seen: '2026-07-04T09:34:11.688432+05:30'
+last_checked: '2026-07-04T09:34:11.688432+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation Focus**: Repository provides Python-based best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), emphasizing optimized retrieval and generation workflows.
-
-- **Key Components**: Includes methodologies for efficient document retrieval, context integration, and prompt engineering tailored for LLMs to enhance response accuracy and relevance.
-
-- **Update Status**: Last updated on **2026-07-03**, indicating ongoing maintenance and relevance for current RAG advancements.
+- **RAG Optimization Framework**: Provides structured best practices for enhancing large language models (LLMs) with retrieval-augmented generation (RAG), focusing on indexing, retrieval, and generation optimization.
+- **Python-Based Implementation**: Repository contains Python-based tools and scripts for evaluating and refining RAG pipelines, including chunking strategies, embedding models, and retrieval mechanisms.
+- **Evaluation & Benchmarking**: Includes methodologies for assessing RAG performance, such as retrieval accuracy, generation quality, and latency benchmarks, with updates planned for future LLM advancements.
 
 ## Why It Matters
 

@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-07-04T03:50:17.326005+05:30'
+collected_at: '2026-07-04T09:35:01.760498+05:30'
 published_at: '2026-07-03T10:55:12Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - unknown
-- workflows
 stars: 786
 language: Unknown
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-05-02T04:18:19Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-07-04T03:50:17.326005+05:30'
-last_seen: '2026-07-04T03:50:17.326005+05:30'
-last_checked: '2026-07-04T03:50:17.326005+05:30'
+first_seen: '2026-07-04T09:35:01.760498+05:30'
+last_seen: '2026-07-04T09:35:01.760498+05:30'
+last_checked: '2026-07-04T09:35:01.760498+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research systems, including agentic RAG, reasoning agents, and search agents, with a focus on large language models (LLMs) and their integration into research workflows.
-
-- **ACL 2026 KnowFM Alignment**: Aligns with the **Knowledge Foundation Models (KnowFM)** track at ACL 2026, emphasizing structured knowledge acquisition, reasoning, and autonomous research capabilities in AI systems.
-
-- **Active Development**: Last updated in **July 2026**, indicating ongoing maintenance and expansion with 786 stars and 63 forks, reflecting community engagement in deep research agent advancements.
+- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on ACL 2026 KnowFM contributions, including agentic RAG, reasoning agents, and search-agent frameworks.
+- **Technical Scope**: Covers large language models (LLMs), deep research agents, and reasoning architectures, emphasizing multi-agent collaboration and retrieval-augmented generation (RAG) advancements.
+- **Repository Metrics**: Hosts 786 stars and 63 forks, last updated July 3, 2026, with a language-agnostic structure supporting modular integration of research tools and methodologies.
 
 ## Why It Matters
 

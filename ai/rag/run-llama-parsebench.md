@@ -4,17 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/ParseBench
-collected_at: '2026-07-04T03:51:27.462905+05:30'
+collected_at: '2026-07-04T09:36:11.894771+05:30'
 published_at: '2026-07-03T11:22:26Z'
 tags:
 - agents
 - benchmark
-- dataset
 - github-repo
 - meta-ai
 - models
 - python
 - rag
+- workflows
 stars: 511
 language: Python
 status: active
@@ -23,9 +23,9 @@ archived: false
 created_at: '2026-04-10T20:46:33Z'
 pushed_at: '2026-07-02T23:18:07Z'
 resource_id: github:run-llama/parsebench
-first_seen: '2026-07-04T03:51:27.462905+05:30'
-last_seen: '2026-07-04T03:51:27.462905+05:30'
-last_checked: '2026-07-04T03:51:27.462905+05:30'
+first_seen: '2026-07-04T09:36:11.894771+05:30'
+last_seen: '2026-07-04T09:36:11.894771+05:30'
+last_checked: '2026-07-04T09:36:11.894771+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: ParseBench provides a standardized evaluation framework for document parsing AI agents, covering tasks like PDF parsing, OCR, and table extraction across diverse document types.
-- **Multi-Modal Evaluation**: Supports assessment of vision-language models (VLMs) and LLMs in parsing unstructured documents, integrating metrics for accuracy, robustness, and efficiency.
-- **Integration & Extensibility**: Built with Python, it leverages libraries like LlamaIndex for modular evaluation pipelines and is designed for extensibility with custom datasets and parsing models.
+- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents across tasks like PDF parsing, OCR, and table extraction, designed for structured comparison of performance metrics.
+
+- **Multi-Modal Evaluation**: Supports evaluation of vision-language models (VLMs) and traditional OCR-based pipelines, enabling cross-modal analysis of document understanding.
+
+- **Integration Ready**: Compatible with LlamaIndex and other frameworks, providing extensible APIs for custom parsing pipelines and standardized benchmarking workflows.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-07-04T03:49:42.391263+05:30'
+collected_at: '2026-07-04T09:34:26.767213+05:30'
 published_at: '2026-07-02T18:18:03Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-07-04T03:49:42.391263+05:30'
-last_seen: '2026-07-04T03:49:42.391263+05:30'
-last_checked: '2026-07-04T03:49:42.391263+05:30'
+first_seen: '2026-07-04T09:34:26.767213+05:30'
+last_seen: '2026-07-04T09:34:26.767213+05:30'
+last_checked: '2026-07-04T09:34:26.767213+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: CRAG provides a comprehensive benchmark suite for evaluating Retrieval-Augmented Generation (RAG) systems, enabling standardized assessment of performance across diverse tasks and datasets.
+- **Benchmark Framework**: CRAG (Comprehensive RAG Benchmark) provides a structured evaluation framework for Retrieval-Augmented Generation (RAG) systems, enabling systematic assessment of performance across diverse tasks and datasets.
 
-- **Modular Design**: Implemented in Jupyter Notebooks, the repository offers modular components for data processing, retrieval evaluation, and generation metrics, facilitating extensibility and customization.
+- **Modular Design**: Implements a modular architecture with configurable components (e.g., retrievers, generators, evaluators) to facilitate reproducible experiments and fair comparisons between RAG methodologies.
 
-- **Evaluation Metrics**: Includes multi-dimensional metrics (e.g., retrieval accuracy, answer correctness, latency) to holistically assess RAG pipelines, with support for both open-domain and closed-book QA scenarios.
+- **Evaluation Metrics**: Incorporates multi-dimensional metrics (e.g., accuracy, latency, robustness) to quantify RAG system efficacy, including novel metrics tailored for hallucination detection and factual consistency.
 
 ## Why It Matters
 

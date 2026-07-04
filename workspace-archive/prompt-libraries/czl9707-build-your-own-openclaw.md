@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular Python Framework**: Provides a structured, step-by-step implementation of an AI agent using Python, emphasizing modularity for customization and scalability.
+- **OpenCLaw Framework**: Provides a modular, step-by-step Python-based architecture for constructing AI agents, emphasizing extensibility and customization.
 
-- **LLM Integration**: Demonstrates integration with large language models (LLMs) for core agent functionality, including prompt engineering and response handling.
+- **LLM Integration**: Demonstrates seamless integration with large language models (LLMs) for core agent functionality, including prompt engineering and response generation.
 
-- **Open-Source Tutorial**: Offers a comprehensive, open-source guide for building AI agents, covering architecture, tooling, and deployment with community-driven u
+- **Tutorial Structure**: Includes hands-on tutorials covering agent design, tool integration, and deployment, with a focus on reproducibility and scalability.
 
 ## Use Cases
 

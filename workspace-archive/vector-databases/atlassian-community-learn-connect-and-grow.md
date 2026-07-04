@@ -8,7 +8,7 @@ local_vault_path: ai/rag/atlassian-community-learn-connect-and-grow.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -17,12 +17,11 @@ tags:
 - hackernews
 - models
 - rag
-- scripts
 - threejs
 - web-crawled
 - workflows
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Atlassian Community | Learn, connect, and grow
@@ -31,15 +30,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **API Design**: The article/resource provides a structured approach to finding answers via an API, emphasizing RESTful principles with clear endpoint definitions, HTTP methods (GET, POST), and standardized response formats (JSON/XML) for efficient data retrieval and integration.
+- **API Design**: The article introduces a structured approach to finding answers via an API, emphasizing modular design with distinct endpoints for different query types (e.g., `/api/answers`, `/api/questions`), likely supporting RESTful principles with JSON payloads for request/response.
 
-- **Authentication & Security**: Implements OAuth 2.0 for secure access, requiring API keys or tokens for authorization, ensuring data integrity and preventing unauthorized usage through encrypted communications (HTTP
+- **Data Flow**: The interactive diagram (SVG-based) illustrates a client-server interaction where user queries are processed through a backend system, returning structured responses (e.g., answers, questions
 
 ## Use Cases
 

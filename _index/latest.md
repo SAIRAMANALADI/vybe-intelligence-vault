@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [ChatGPT Supported Countries | OpenAI Help Center](../ai/rag/chatgpt-supported-countries-openai-help-center.md) ([Source URL](https://help.openai.com/articles/7947663-chatgpt-supported-countries))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T04:02:07.125823+05:30
-- **Local Path**: `ai/rag/chatgpt-supported-countries-openai-help-center.md`
+### 1. [Accessibility | Atlassian](../ai/agents/accessibility-atlassian.md) ([Source URL](https://atlassian.com/accessibility))
+- **Category**: ai/agents
+- **Collected At**: 2026-07-04T09:48:03.423010+05:30
+- **Local Path**: `ai/agents/accessibility-atlassian.md`
 
-### 2. [macOS - Apple Developer](../ai/rag/macos-apple-developer.md) ([Source URL](https://developer.apple.com/macos))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:57:37.332870+05:30
-- **Local Path**: `ai/rag/macos-apple-developer.md`
-
-### 3. [How to get Apple Intelligence - Apple Support](../ai/rag/how-to-get-apple-intelligence-apple-support.md) ([Source URL](https://support.apple.com/121115))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:57:32.554950+05:30
-- **Local Path**: `ai/rag/how-to-get-apple-intelligence-apple-support.md`
-
-### 4. [run-llama/llama-hub](../ai/rag/run-llama-llama-hub.md) ([Source URL](https://github.com/run-llama/llama-hub))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:57:30.817708+05:30
-- **Local Path**: `ai/rag/run-llama-llama-hub.md`
-
-### 5. [npm Status](../ai/rag/npm-status.md) ([Source URL](https://status.npmjs.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:57:26.536063+05:30
-- **Local Path**: `ai/rag/npm-status.md`
-
-### 6. [Researching with GitHub Copilot CLI - GitHub Docs](../ai/rag/researching-with-github-copilot-cli-github-docs.md) ([Source URL](https://docs.github.com/en/copilot/concepts/agents/copilot-cli/research))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:57:26.258550+05:30
-- **Local Path**: `ai/rag/researching-with-github-copilot-cli-github-docs.md`
-
-### 7. [github/codeql](../ai/resources/github-codeql.md) ([Source URL](https://github.com/github/codeql))
+### 2. [Integrate Jira with GitHub | Atlassian Support](../ai/resources/integrate-jira-with-github-atlassian-support.md) ([Source URL](https://support.atlassian.com/jira-cloud-administration/docs/integrate-jira-software-with-github))
 - **Category**: ai/resources
-- **Collected At**: 2026-07-04T03:57:25.857179+05:30
+- **Collected At**: 2026-07-04T09:47:29.859939+05:30
+- **Local Path**: `ai/resources/integrate-jira-with-github-atlassian-support.md`
+
+### 3. [Jira and Jira Service Management | Atlassian Support](../ai/resources/jira-and-jira-service-management-atlassian-support.md) ([Source URL](https://confluence.atlassian.com/jirakb))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-04T09:45:26.483001+05:30
+- **Local Path**: `ai/resources/jira-and-jira-service-management-atlassian-support.md`
+
+### 4. [Installing Marketplace apps | Atlassian Support | Atlassian Documentation](../ai/resources/installing-marketplace-apps-atlassian-support-atla.md) ([Source URL](https://confluence.atlassian.com/upm/installing-add-ons-273875715.html))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-04T09:45:25.693372+05:30
+- **Local Path**: `ai/resources/installing-marketplace-apps-atlassian-support-atla.md`
+
+### 5. [Atlassian Community | Learn, connect, and grow](../ai/rag/atlassian-community-learn-connect-and-grow.md) ([Source URL](https://community.atlassian.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-04T09:45:21.759604+05:30
+- **Local Path**: `ai/rag/atlassian-community-learn-connect-and-grow.md`
+
+### 6. [Atlassian Statuspage Status](../ai/rag/atlassian-statuspage-status.md) ([Source URL](https://metastatuspage.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-04T09:45:21.167332+05:30
+- **Local Path**: `ai/rag/atlassian-statuspage-status.md`
+
+### 7. [Atlassian Developer Status](../ai/rag/atlassian-developer-status.md) ([Source URL](https://status.developer.atlassian.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-04T09:45:18.384974+05:30
+- **Local Path**: `ai/rag/atlassian-developer-status.md`
+
+### 8. [Atlassian Bitbucket Status](../ai/rag/atlassian-bitbucket-status.md) ([Source URL](https://status.bitbucket.org))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-04T09:45:18.334691+05:30
+- **Local Path**: `ai/rag/atlassian-bitbucket-status.md`
+
+### 9. [Introducing Figma Motion: Your Canvas Now Has a Timeline | Figma Blog](../ai/rag/introducing-figma-motion-your-canvas-now-has-a-tim.md) ([Source URL](https://figma.com/blog/introducing-figma-motion))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-04T09:45:17.132324+05:30
+- **Local Path**: `ai/rag/introducing-figma-motion-your-canvas-now-has-a-tim.md`
+
+### 10. [Platform Marketplace](../ai/rag/platform-marketplace.md) ([Source URL](https://developer.atlassian.com/platform/marketplace))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-04T09:45:16.537862+05:30
+- **Local Path**: `ai/rag/platform-marketplace.md`
+
+### 11. [Teaching AI to speak our design language - Inside Atlassian](../ai/rag/teaching-ai-to-speak-our-design-language-inside-at.md) ([Source URL](https://atlassian.com/blog/ai-at-work/teaching-ai-to-speak-our-design-language))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-04T09:45:15.881035+05:30
+- **Local Path**: `ai/rag/teaching-ai-to-speak-our-design-language-inside-at.md`
+
+### 12. [Atlassian's DESIGN.md is here: what we learned testing portable design context in practice - Inside Atlassian](../ai/rag/atlassian-s-design-md-is-here-what-we-learned-test.md) ([Source URL](https://atlassian.com/blog/ai-at-work/atlassians-design-md-is-here-what-we-learned-testing-portable-design-context-in-practice))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-04T09:45:15.767599+05:30
+- **Local Path**: `ai/rag/atlassian-s-design-md-is-here-what-we-learned-test.md`
+
+### 13. [Atlassian Support](../ai/resources/atlassian-support.md) ([Source URL](https://support.atlassian.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-04T09:45:13.573961+05:30
+- **Local Path**: `ai/resources/atlassian-support.md`
+
+### 14. [Search Results | Atlassian Marketplace](../ai/rag/search-results-atlassian-marketplace.md) ([Source URL](https://marketplace.atlassian.com/search?hosting=cloud&product=jira))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-04T09:45:11.799576+05:30
+- **Local Path**: `ai/rag/search-results-atlassian-marketplace.md`
+
+### 15. [Atlassian Status](../ai/rag/atlassian-status.md) ([Source URL](https://status.atlassian.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-04T09:45:11.237391+05:30
+- **Local Path**: `ai/rag/atlassian-status.md`
+
+### 16. [Jira Cloud support | Jira Cloud | Atlassian Support](../ai/resources/jira-cloud-support-jira-cloud-atlassian-support.md) ([Source URL](https://support.atlassian.com/jira-software-cloud))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-04T09:45:08.515338+05:30
+- **Local Path**: `ai/resources/jira-cloud-support-jira-cloud-atlassian-support.md`
+
+### 17. [Atlassian Design](../ai/agents/atlassian-design.md) ([Source URL](https://atlassian.design))
+- **Category**: ai/agents
+- **Collected At**: 2026-07-04T09:45:06.784628+05:30
+- **Local Path**: `ai/agents/atlassian-design.md`
+
+### 18. [Confluence | Atlassian Support](../ai/resources/confluence-atlassian-support.md) ([Source URL](https://confluence.atlassian.com/confkb))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-04T09:45:06.284688+05:30
+- **Local Path**: `ai/resources/confluence-atlassian-support.md`
+
+### 19. [Confluence Status](../ai/rag/confluence-status.md) ([Source URL](https://confluence.status.atlassian.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-04T09:45:06.186450+05:30
+- **Local Path**: `ai/rag/confluence-status.md`
+
+### 20. [Confluence Cloud support | Confluence Cloud | Atlassian Support](../ai/resources/confluence-cloud-support-confluence-cloud-atlassia.md) ([Source URL](https://support.atlassian.com/confluence-cloud))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-04T09:45:03.528657+05:30
+- **Local Path**: `ai/resources/confluence-cloud-support-confluence-cloud-atlassia.md`
+
+### 21. [Atlassian Documentation | Atlassian Support | Atlassian Documentation](../ai/resources/atlassian-documentation-atlassian-support-atlassia.md) ([Source URL](https://confluence.atlassian.com/display/alldoc/atlassian+documentation))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-04T09:44:30.487377+05:30
+- **Local Path**: `ai/resources/atlassian-documentation-atlassian-support-atlassia.md`
+
+### 22. [Trademark | Atlassian](../ai/rag/trademark-atlassian.md) ([Source URL](https://atlassian.com/legal/trademark))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-04T09:44:23.296993+05:30
+- **Local Path**: `ai/rag/trademark-atlassian.md`
+
+### 23. [Collaboration software for software, IT and business teams | Atlassian](../ai/rag/collaboration-software-for-software-it-and-busines.md) ([Source URL](https://atlassian.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-04T09:44:18.725241+05:30
+- **Local Path**: `ai/rag/collaboration-software-for-software-it-and-busines.md`
+
+### 24. [Discovered Web Resource](../ai/resources/developer-atlassian-com.md) ([Source URL](https://developer.atlassian.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-04T09:44:15.956316+05:30
+- **Local Path**: `ai/resources/developer-atlassian-com.md`
+
+### 25. [The Atlassian Developer Community](../ai/agents/the-atlassian-developer-community.md) ([Source URL](https://community.developer.atlassian.com))
+- **Category**: ai/agents
+- **Collected At**: 2026-07-04T09:44:13.708964+05:30
+- **Local Path**: `ai/agents/the-atlassian-developer-community.md`
+
+### 26. [Jira Service Management](../ai/resources/jira-service-management.md) ([Source URL](https://ecosystem.atlassian.net/servicedesk/customer/portal/14))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-04T09:44:13.629856+05:30
+- **Local Path**: `ai/resources/jira-service-management.md`
+
+### 27. [Comprehensive Data Protection | Atlassian](../ai/resources/comprehensive-data-protection-atlassian.md) ([Source URL](https://atlassian.com/security))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-04T09:44:12.945798+05:30
+- **Local Path**: `ai/resources/comprehensive-data-protection-atlassian.md`
+
+### 28. [Atlassian knowledge base | Atlassian Support](../ai/resources/atlassian-knowledge-base-atlassian-support.md) ([Source URL](https://confluence.atlassian.com/kb))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-04T09:44:10.270028+05:30
+- **Local Path**: `ai/resources/atlassian-knowledge-base-atlassian-support.md`
+
+### 29. [cli/cli](../ai/rag/cli-cli.md) ([Source URL](https://github.com/cli/cli))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-04T09:42:40.513398+05:30
+- **Local Path**: `ai/rag/cli-cli.md`
+
+### 30. [Improve Transparency with Statuspage | Atlassian](../ai/resources/improve-transparency-with-statuspage-atlassian.md) ([Source URL](https://atlassian.com/software/statuspage))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-04T09:42:36.007544+05:30
+- **Local Path**: `ai/resources/improve-transparency-with-statuspage-atlassian.md`
+
+### 31. [node/CONTRIBUTING.md at main · nodejs/node · GitHub](../ai/resources/nodejs-node.md) ([Source URL](https://github.com/nodejs/node))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-04T09:42:35.695895+05:30
+- **Local Path**: `ai/resources/nodejs-node.md`
+
+### 32. [github/codeql](../ai/resources/github-codeql.md) ([Source URL](https://github.com/github/codeql))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-04T09:42:25.542140+05:30
 - **Local Path**: `ai/resources/github-codeql.md`
 
-### 8. [electron/electron](../ai/rag/electron-electron.md) ([Source URL](https://github.com/electron/electron))
+### 33. [electron/electron](../ai/rag/electron-electron.md) ([Source URL](https://github.com/electron/electron))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:57:25.844548+05:30
+- **Collected At**: 2026-07-04T09:42:25.525033+05:30
 - **Local Path**: `ai/rag/electron-electron.md`
 
-### 9. [Getting Started | Electron Forge](../ai/rag/getting-started-electron-forge.md) ([Source URL](https://electronforge.io))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:57:21.428083+05:30
-- **Local Path**: `ai/rag/getting-started-electron-forge.md`
+### 34. [CodeQL - Visual Studio Marketplace](../ai/resources/codeql-visual-studio-marketplace.md) ([Source URL](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-codeql))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-04T09:42:25.196595+05:30
+- **Local Path**: `ai/resources/codeql-visual-studio-marketplace.md`
 
-### 10. [Hugging Face · GitHub](../ai/agents/hugging-face-github.md) ([Source URL](https://github.com/huggingface))
+### 35. [GitHub CLI | Take GitHub to the command line](../ai/agents/github-cli-take-github-to-the-command-line.md) ([Source URL](https://cli.github.com))
 - **Category**: ai/agents
-- **Collected At**: 2026-07-04T03:57:21.329835+05:30
+- **Collected At**: 2026-07-04T09:42:24.194666+05:30
+- **Local Path**: `ai/agents/github-cli-take-github-to-the-command-line.md`
+
+### 36. [npm Status](../ai/rag/npm-status.md) ([Source URL](https://status.npmjs.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-04T09:42:23.109484+05:30
+- **Local Path**: `ai/rag/npm-status.md`
+
+### 37. [Node.js — Run JavaScript Everywhere](../ai/resources/node-js-run-javascript-everywhere.md) ([Source URL](https://nodejs.org))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-04T09:42:20.960319+05:30
+- **Local Path**: `ai/resources/node-js-run-javascript-everywhere.md`
+
+### 38. [GitHub CLI telemetry - GitHub Docs](../ai/agents/github-cli-telemetry-github-docs.md) ([Source URL](https://docs.github.com/en/github-cli/github-cli/github-cli-telemetry))
+- **Category**: ai/agents
+- **Collected At**: 2026-07-04T09:42:15.368140+05:30
+- **Local Path**: `ai/agents/github-cli-telemetry-github-docs.md`
+
+### 39. [CodeQL documentation](../ai/rag/codeql-documentation.md) ([Source URL](https://codeql.github.com/docs))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-04T09:42:13.442841+05:30
+- **Local Path**: `ai/rag/codeql-documentation.md`
+
+### 40. [npm Docs](../ai/resources/npm-docs.md) ([Source URL](https://docs.npmjs.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-04T09:42:13.428816+05:30
+- **Local Path**: `ai/resources/npm-docs.md`
+
+### 41. [Introduction | Electron](../ai/resources/introduction-electron.md) ([Source URL](https://electronjs.org/docs/latest))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-04T09:42:13.386491+05:30
+- **Local Path**: `ai/resources/introduction-electron.md`
+
+### 42. [github/roadmap](../ai/resources/github-roadmap.md) ([Source URL](https://github.com/github/roadmap))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-04T09:40:38.278844+05:30
+- **Local Path**: `ai/resources/github-roadmap.md`
+
+### 43. [GitHub Docs](../ai/agents/github-docs.md) ([Source URL](https://docs.github.com))
+- **Category**: ai/agents
+- **Collected At**: 2026-07-04T09:40:38.039145+05:30
+- **Local Path**: `ai/agents/github-docs.md`
+
+### 44. [GitHub Status](../ai/rag/github-status.md) ([Source URL](https://githubstatus.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-04T09:40:04.346331+05:30
+- **Local Path**: `ai/rag/github-status.md`
+
+### 45. [Hugging Face – The AI community building the future.](../ai/resources/hugging-face-the-ai-community-building-the-future.md) ([Source URL](https://huggingface.co))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-04T09:40:03.874974+05:30
+- **Local Path**: `ai/resources/hugging-face-the-ai-community-building-the-future.md`
+
+### 46. [Hugging Face · GitHub](../ai/agents/hugging-face-github.md) ([Source URL](https://github.com/huggingface))
+- **Category**: ai/agents
+- **Collected At**: 2026-07-04T09:38:21.842936+05:30
 - **Local Path**: `ai/agents/hugging-face-github.md`
 
-### 11. [deepset-ai/haystack-experimental](../ai/resources/deepset-ai-haystack-experimental.md) ([Source URL](https://github.com/deepset-ai/haystack-experimental))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-04T03:57:20.844139+05:30
-- **Local Path**: `ai/resources/deepset-ai-haystack-experimental.md`
-
-### 12. [The Sovereign AI Platform for Agents](../ai/rag/the-sovereign-ai-platform-for-agents.md) ([Source URL](https://deepset.ai))
+### 47. [ragas/docs/concepts/metrics/index.md at main · vibrantlabsai/ragas · GitHub](../ai/rag/vibrantlabsai-ragas.md) ([Source URL](https://github.com/vibrantlabsai/ragas))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:57:17.883471+05:30
-- **Local Path**: `ai/rag/the-sovereign-ai-platform-for-agents.md`
+- **Collected At**: 2026-07-04T09:38:21.715540+05:30
+- **Local Path**: `ai/rag/vibrantlabsai-ragas.md`
 
-### 13. [deepset-ai/haystack · Discussions · GitHub](../ai/rag/deepset-ai-haystack.md) ([Source URL](https://github.com/deepset-ai/haystack))
+### 48. [sentence-transformers/docs/cross_encoder/pretrained_models.md at main · huggingface/sentence-transformers · GitHub](../ai/rag/huggingface-sentence-transformers.md) ([Source URL](https://github.com/huggingface/sentence-transformers))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:57:16.399113+05:30
-- **Local Path**: `ai/rag/deepset-ai-haystack.md`
+- **Collected At**: 2026-07-04T09:38:21.680474+05:30
+- **Local Path**: `ai/rag/huggingface-sentence-transformers.md`
 
-### 14. [Add NFL RedZone with Sports Plus to your YouTube TV membership - YouTube TV Help](../ai/rag/add-nfl-redzone-with-sports-plus-to-your-youtube-t.md) ([Source URL](https://support.google.com/youtubetv/answer/10057534))
+### 49. [hub-docs/docs/hub/spaces.md at main · huggingface/hub-docs · GitHub](../ai/rag/huggingface-hub-docs.md) ([Source URL](https://github.com/huggingface/hub-docs))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:57:15.009831+05:30
-- **Local Path**: `ai/rag/add-nfl-redzone-with-sports-plus-to-your-youtube-t.md`
+- **Collected At**: 2026-07-04T09:38:21.389730+05:30
+- **Local Path**: `ai/rag/huggingface-hub-docs.md`
 
-### 15. [Contact the LangChain Sales Team](../ai/agents/contact-the-langchain-sales-team.md) ([Source URL](https://langchain.com/contact-sales))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-04T03:56:30.424136+05:30
-- **Local Path**: `ai/agents/contact-the-langchain-sales-team.md`
-
-### 16. [Model Spec (2025/04/11)](../ai/rag/model-spec-2025-04-11.md) ([Source URL](https://model-spec.openai.com/2025-04-11.html))
+### 50. [mixedbread-ai/mxbai-rerank-xsmall-v1 · Hugging Face](../ai/rag/huggingface-mixedbread-ai-mxbai-rerank-xsmall-v1.md) ([Source URL](https://huggingface.co/mixedbread-ai/mxbai-rerank-xsmall-v1))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:56:18.169200+05:30
-- **Local Path**: `ai/rag/model-spec-2025-04-11.md`
-
-### 17. [OpenAI · GitHub](../ai/agents/openai-github.md) ([Source URL](https://github.com/openai))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-04T03:56:15.943667+05:30
-- **Local Path**: `ai/agents/openai-github.md`
-
-### 18. [Legal Notices Trademarks, Licenses, and More | NVIDIA](../ai/rag/legal-notices-trademarks-licenses-and-more-nvidia.md) ([Source URL](https://nvidia.com/en-us/about-nvidia/terms-of-service))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:56:13.298189+05:30
-- **Local Path**: `ai/rag/legal-notices-trademarks-licenses-and-more-nvidia.md`
-
-### 19. [Model Spec (2025/12/18)](../ai/rag/model-spec-2025-12-18.md) ([Source URL](https://model-spec.openai.com/2025-12-18.html))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:56:12.730151+05:30
-- **Local Path**: `ai/rag/model-spec-2025-12-18.md`
-
-### 20. [NVIDIA Technical Blog](../ai/rag/nvidia-technical-blog.md) ([Source URL](https://developer.nvidia.com/blog))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:56:11.850212+05:30
-- **Local Path**: `ai/rag/nvidia-technical-blog.md`
-
-### 21. [NVIDIA-Verified Agent Skills Provide Capability Governance for AI Agents | NVIDIA Technical Blog](../ai/rag/nvidia-verified-agent-skills-provide-capability-go.md) ([Source URL](https://developer.nvidia.com/blog/nvidia-verified-agent-skills-provide-capability-governance-for-ai-agents))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:56:11.158371+05:30
-- **Local Path**: `ai/rag/nvidia-verified-agent-skills-provide-capability-go.md`
-
-### 22. [Semantic Versioning 2.0.0 | Semantic Versioning](../ai/rag/semantic-versioning-2-0-0-semantic-versioning.md) ([Source URL](https://semver.org))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:56:10.396151+05:30
-- **Local Path**: `ai/rag/semantic-versioning-2-0-0-semantic-versioning.md`
-
-### 23. [Bearer Authentication | Swagger Docs](../ai/resources/bearer-authentication-swagger-docs.md) ([Source URL](https://swagger.io/docs/specification/v3_0/authentication/bearer-authentication))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-04T03:56:09.857858+05:30
-- **Local Path**: `ai/resources/bearer-authentication-swagger-docs.md`
-
-### 24. [Watch NFL Sunday Ticket on YouTube TV - YouTube TV Help](../ai/resources/watch-nfl-sunday-ticket-on-youtube-tv-youtube-tv-h.md) ([Source URL](https://support.google.com/youtubetv/answer/13316318))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-04T03:56:08.741329+05:30
-- **Local Path**: `ai/resources/watch-nfl-sunday-ticket-on-youtube-tv-youtube-tv-h.md`
-
-### 25. [NVIDIA Product Security | NVIDIA](../ai/rag/nvidia-product-security-nvidia.md) ([Source URL](https://nvidia.com/en-us/product-security))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:56:08.018054+05:30
-- **Local Path**: `ai/rag/nvidia-product-security-nvidia.md`
-
-### 26. [Transformers KV Caching Explained | by João Lages | Medium](../ai/rag/transformers-kv-caching-explained-by-joao-lages-me.md) ([Source URL](https://medium.com/@joaolages/kv-caching-explained-276520203249))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:56:07.774288+05:30
-- **Local Path**: `ai/rag/transformers-kv-caching-explained-by-joao-lages-me.md`
-
-### 27. [NVIDIA Documentation Hub - NVIDIA Docs](../ai/rag/nvidia-documentation-hub-nvidia-docs.md) ([Source URL](https://docs.nvidia.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:56:06.935401+05:30
-- **Local Path**: `ai/rag/nvidia-documentation-hub-nvidia-docs.md`
-
-### 28. [Generative AI | NVIDIA Developer](../ai/rag/generative-ai-nvidia-developer.md) ([Source URL](https://developer.nvidia.com/generative-ai))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:56:06.585658+05:30
-- **Local Path**: `ai/rag/generative-ai-nvidia-developer.md`
-
-### 29. [NVIDIA Blog](../ai/resources/nvidia-blog.md) ([Source URL](https://blogs.nvidia.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-04T03:56:06.141372+05:30
-- **Local Path**: `ai/resources/nvidia-blog.md`
-
-### 30. [Get select networks without YouTube TV - Computer - YouTube TV Help](../ai/rag/get-select-networks-without-youtube-tv-computer-yo.md) ([Source URL](https://support.google.com/youtubetv/answer/10970168))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:56:03.564953+05:30
-- **Local Path**: `ai/rag/get-select-networks-without-youtube-tv-computer-yo.md`
-
-### 31. [YouTube TV: Live TV & more - Apps on Google Play](../ai/rag/youtube-tv-live-tv-more-apps-on-google-play.md) ([Source URL](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.unplugged&referrer=utm_source%3Dytv%26utm_medium%3Dfooter%26utm_campaign%3Dplay))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:56:03.119846+05:30
-- **Local Path**: `ai/rag/youtube-tv-live-tv-more-apps-on-google-play.md`
-
-### 32. [Android Enterprise management arrives for Android XR | Community](../ai/resources/android-enterprise-management-arrives-for-android.md) ([Source URL](https://androidenterprise.community/product-updates/android-enterprise-management-arrives-for-android-xr-2392))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-04T03:55:45.179848+05:30
-- **Local Path**: `ai/resources/android-enterprise-management-arrives-for-android.md`
-
-### 33. [Android Enterprise Help](../ai/resources/android-enterprise-help.md) ([Source URL](https://support.google.com/work/android?hl=en))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-04T03:55:44.705464+05:30
-- **Local Path**: `ai/resources/android-enterprise-help.md`
-
-### 34. [Android Business Device Solutions Directory - Android Enterprise](../ai/resources/android-business-device-solutions-directory-androi.md) ([Source URL](https://androidenterprisepartners.withgoogle.com?_gl=1%2Ao5jyk4%2A_gcl_au%2ANTU4NjQyNjQ2LjE3NTkxMzc0MDc))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-04T03:55:44.423390+05:30
-- **Local Path**: `ai/resources/android-business-device-solutions-directory-androi.md`
-
-### 35. [Sign in - Google Accounts](../ai/resources/sign-in-google-accounts.md) ([Source URL](https://accounts.google.com/servicelogin?passive=true&continue=https%3A%2F%2Fcolab.research.google.com%2Fgithub%2Fgoogle%2Fgenerative-ai-docs%2Fblob%2Fmain%2Fsite%2Fen%2Fgemma%2Fdocs%2Flora_tuning.ipynb&ec=GAZAqQM))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-04T03:55:44.302940+05:30
-- **Local Path**: `ai/resources/sign-in-google-accounts.md`
-
-### 36. [What is artificial intelligence? | web.dev](../ai/rag/what-is-artificial-intelligence-web-dev.md) ([Source URL](https://web.dev/articles/ai-overview))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:55:28.563867+05:30
-- **Local Path**: `ai/rag/what-is-artificial-intelligence-web-dev.md`
-
-### 37. [Set up Gemini Code Assist Standard and Enterprise | Gemini for Google Cloud | Google Cloud Documentation](../ai/agents/set-up-gemini-code-assist-standard-and-enterprise.md) ([Source URL](https://developers.google.com/gemini-code-assist/docs/set-up-gemini-standard-enterprise))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-04T03:55:25.580403+05:30
-- **Local Path**: `ai/agents/set-up-gemini-code-assist-standard-and-enterprise.md`
-
-### 38. [Google for Developers | Build with Gemini](../ai/agents/google-for-developers-build-with-gemini.md) ([Source URL](https://developers.google.com))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-04T03:55:25.006765+05:30
-- **Local Path**: `ai/agents/google-for-developers-build-with-gemini.md`
-
-### 39. [Configure VPC Service Controls for Gemini | Gemini for Google Cloud | Google Cloud Documentation](../ai/resources/configure-vpc-service-controls-for-gemini-gemini-f.md) ([Source URL](https://developers.google.com/gemini-code-assist/docs/configure-vpc-service-controls))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-04T03:55:24.894822+05:30
-- **Local Path**: `ai/resources/configure-vpc-service-controls-for-gemini-gemini-f.md`
-
-### 40. [Privacy Sandbox](../ai/resources/privacy-sandbox.md) ([Source URL](https://developers.google.com/privacy-sandbox))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-04T03:55:24.714171+05:30
-- **Local Path**: `ai/resources/privacy-sandbox.md`
-
-### 41. [Improve performance and UX for client-side AI | web.dev](../ai/rag/improve-performance-and-ux-for-client-side-ai-web.md) ([Source URL](https://web.dev/articles/client-side-ai-performance))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:55:23.481682+05:30
-- **Local Path**: `ai/rag/improve-performance-and-ux-for-client-side-ai-web.md`
-
-### 42. [Gemini Code Assist Offer | Google Cloud](../ai/rag/gemini-code-assist-offer-google-cloud.md) ([Source URL](https://cloud.google.com/resources/gemini-code-assist-offer))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:55:23.377648+05:30
-- **Local Path**: `ai/rag/gemini-code-assist-offer-google-cloud.md`
-
-### 43. [Firebase Extensions](../ai/resources/firebase-extensions.md) ([Source URL](https://firebase.google.com/docs/extensions))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-04T03:55:22.491137+05:30
-- **Local Path**: `ai/resources/firebase-extensions.md`
-
-### 44. [Build a payments page | Stripe Documentation](../ai/resources/build-a-payments-page-stripe-documentation.md) ([Source URL](https://stripe.com/docs/payments/checkout))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-04T03:55:20.631913+05:30
-- **Local Path**: `ai/resources/build-a-payments-page-stripe-documentation.md`
-
-### 45. [stripe-firebase-extensions/firestore-stripe-payments at master · invertase/stripe-firebase-extensions · GitHub](../ai/resources/stripe-stripe-firebase-extensions.md) ([Source URL](https://github.com/stripe/stripe-firebase-extensions))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-04T03:55:20.469956+05:30
-- **Local Path**: `ai/resources/stripe-stripe-firebase-extensions.md`
-
-### 46. [Android Open Source Project](../ai/resources/android-open-source-project.md) ([Source URL](https://source.android.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-04T03:55:19.821625+05:30
-- **Local Path**: `ai/resources/android-open-source-project.md`
-
-### 47. [Medium’s Copyright and DMCA Policy | by Medium | Medium Policy](../ai/agents/mediums-copyright-and-dmca-policy-by-medium-medium.md) ([Source URL](https://medium.com/policy/mediums-copyright-and-dmca-policy-d126f73695))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-04T03:55:19.544386+05:30
-- **Local Path**: `ai/agents/mediums-copyright-and-dmca-policy-by-medium-medium.md`
-
-### 48. [Medium’s Trademark Policy. This policy explains how Medium… | by Medium | Medium Policy](../ai/resources/mediums-trademark-policy-this-policy-explains-how.md) ([Source URL](https://medium.com/policy/mediums-trademark-policy-e3bb53df59a7))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-04T03:55:19.512601+05:30
-- **Local Path**: `ai/resources/mediums-trademark-policy-this-policy-explains-how.md`
-
-### 49. [Workplace Conflict Resolution & Organizational Development | JAMS Pathways](../ai/rag/workplace-conflict-resolution-organizational-devel.md) ([Source URL](https://jamspathways.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:55:17.026681+05:30
-- **Local Path**: `ai/rag/workplace-conflict-resolution-organizational-devel.md`
-
-### 50. [Digital Millennium Copyright Act - Wikipedia](../ai/rag/digital-millennium-copyright-act-wikipedia.md) ([Source URL](https://en.wikipedia.org/wiki/digital_millennium_copyright_act))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-04T03:55:15.736196+05:30
-- **Local Path**: `ai/rag/digital-millennium-copyright-act-wikipedia.md`
+- **Collected At**: 2026-07-04T09:38:20.889367+05:30
+- **Local Path**: `ai/rag/huggingface-mixedbread-ai-mxbai-rerank-xsmall-v1.md`
 
 ---
-*Index generated on 2026-07-04T04:03:34.819139+05:30*
+*Index generated on 2026-07-04T09:48:20.320681+05:30*

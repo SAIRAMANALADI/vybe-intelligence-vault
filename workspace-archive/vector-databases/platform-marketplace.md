@@ -8,7 +8,7 @@ local_vault_path: ai/rag/platform-marketplace.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -22,7 +22,7 @@ tags:
 - workflows
 - youtube
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Platform Marketplace
@@ -31,15 +31,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Marketplace APIs & Licensing**: Provides REST API v2, Java client tutorials, in-product license API, and Connect framework for app integration, licensing, and marketplace operations.
-- **App Development & Launch Pipeline**: Offers structured onboarding guides for defining products, Forge app development/testing, pricing/licensing models, branding, security compliance, and submission/review processes.
-- **Programs & Compliance**: Includes security bug bounty, penetration testing, Cloud Fortif
+- Atlassian Marketplace provides REST APIs (v2), tutorials, and licensing APIs for app development, including Forge successor-to-Connect app migration paths.
+- Vendor onboarding includes planning, building (Forge tooling/setup), launching (pricing, branding, security), and growing (tracking, iteration) with structured guides and checklists.
+- Marketplace programs include security bug bounties, penetration testing, "Runs on Atlassian," and "Cloud Fortified Apps" with strict reliability/security/s
 
 ## Use Cases
 

@@ -6,9 +6,9 @@ source_url: https://milvus.io/docs/quickstart.md
 resource_id: blog:quickstart-milvus-documentation
 local_vault_path: ai/rag/quickstart-milvus-documentation.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Quickstart | Milvus Documentation
@@ -29,17 +29,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Milvus Lite**: Lightweight, embeddable Python library (`pymilvus`) for local vector database operations, supporting quick prototyping with minimal setup (Python 3.8+ required).
-- **Vector Search & Metadata Filtering**: Enables semantic search via vector embeddings (e.g., COSINE similarity) with optional scalar field filtering (e.g., `subject == 'biology'`) for enhanced query precision.
-- **Deployment Flexibility**: Supports Milvus Lite (local file storage), Docker/Kubernetes (production), an
+- **Milvus Lite**: Lightweight, embeddable vector database (`pymilvus`) for local Python applications, storing data in a single file (e.g., `milvus_demo.db`), supporting vector search, metadata filtering, and CRUD operations.
+- **Vector Search & Metadata Filtering**: Supports semantic search via vector similarity (e.g., COSINE metric) and scalar field filtering (e.g., `subject == 'biology'`), with optional indexing for performance optimization in large datasets.
+- **Deployment Flexibility**: Loc
 
 ## Use Cases
 

@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Integration & Features**: The extension integrates CodeQL into VS Code, enabling query execution on source code databases, data flow visualization for security triage, and IntelliSense support for writing custom queries using open-source security query repositories.
+- **Integration & Features**: The CodeQL VS Code extension enables static analysis by querying CodeQL databases, visualizing data flow for security triage, and providing IntelliSense for query development. It supports running open-source security queries and integrates with GitHub repositories for database imports.
 
-- **Setup & Workflow**: Requires VS Code ≥1.39; auto-manages CodeQL CLI or allows manual CLI configuration. Supports importing GitHub databases, running queries via CLI, and updating standard libraries via `git pull` in the star
+- **Setup & Workflow**: Requires VS Code ≥1.39; automates CLI access by default but allows manual CLI configuration. Users can clone the [starter workspace](https://github.com/github
 
 ## Use Cases
 

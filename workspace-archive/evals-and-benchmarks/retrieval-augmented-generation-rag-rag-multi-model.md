@@ -8,14 +8,17 @@ local_vault_path: ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
+- meta-ai
+- models
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Retrieval-Augmented Generation (RAG) — RAG multi model documentation
@@ -24,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval systems (e.g., document embeddings, vector databases) with generative models (e.g., LLMs) to enhance contextual relevance and factual accuracy in outputs.
+- **RAG Architecture**: Combines retrieval systems (e.g., vector embeddings, FAISS) with generative models (e.g., LLMs) to enhance contextual relevance by dynamically fetching and integrating external knowledge during generation.
 
-- **Implementation Components**:
-  - **Document Processing**: PDF splitting (`load_and_split_pdfs`), embedding generation, and storage (`Save_processing_results`).
-  - **Chain Functions**: Modular pipelines (`get_question_answer_chain`, `get_summary_chain`) for QA, summarization, and translation task
+- **Streamlit Implementation**: Modular Python framework with components for PDF processing (`process_pdf.py`), QA chains (`question_handler.py`), summarization (`summarizer.py`), and translation (`translator.py`), leveraging LangChain for pipeline orchestration.
+
+- **
 
 ## Use Cases
 

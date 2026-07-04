@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/VivekMalhan666/rag-beginner-guide
-collected_at: '2026-07-04T03:51:57.454852+05:30'
+collected_at: '2026-07-04T09:36:42.027139+05:30'
 published_at: '2026-02-13T16:22:48Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-12-25T17:14:02Z'
 pushed_at: '2025-12-26T14:09:43Z'
 resource_id: github:vivekmalhan666/rag-beginner-guide
-first_seen: '2026-07-04T03:51:57.454852+05:30'
-last_seen: '2026-07-04T03:51:57.454852+05:30'
-last_checked: '2026-07-04T03:51:57.454852+05:30'
+first_seen: '2026-07-04T09:36:42.027139+05:30'
+last_seen: '2026-07-04T09:36:42.027139+05:30'
+last_checked: '2026-07-04T09:36:42.027139+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Step-by-step RAG implementation**: Provides a beginner-friendly Python guide to building a Retrieval-Augmented Generation (RAG) system from scratch without relying on abstracted libraries or frameworks.
+- **Step-by-step RAG implementation**: Provides a beginner-friendly guide to building a Retrieval-Augmented Generation (RAG) system from scratch using Python, avoiding abstracted solutions.
 
-- **Core components**: Covers essential RAG pipeline elements, including document ingestion, text chunking, vector embeddings (e.g., using `sentence-transformers`), and retrieval mechanisms (e.g., FAISS or cosine similarity).
+- **Core components**: Covers essential RAG pipeline elements (e.g., document retrieval, embedding generation, and LLM integration) with practical, hands-on code examples.
 
-- **Minimal dependencies**: Focuses on core Python libraries (e.g., `langchain`, `pypdf`, `numpy`) and avoids proprietary or black-box abstractions to ensure transparency and educational clarity.
+- **Minimal dependencies**: Focuses on core libraries (e.g., `langchain`, `sentence-transformers`, `FAISS`) without relying on proprietary or overly complex abstractions.
 
 ## Why It Matters
 

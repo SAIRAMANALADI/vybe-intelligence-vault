@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-07-04T03:49:27.360638+05:30'
+collected_at: '2026-07-04T09:34:11.684668+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - java
 - rag
 - workflows
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-07-04T03:49:27.360638+05:30'
-last_seen: '2026-07-04T03:49:27.360638+05:30'
-last_checked: '2026-07-04T03:49:27.360638+05:30'
+first_seen: '2026-07-04T09:34:11.684668+05:30'
+last_seen: '2026-07-04T09:34:11.684668+05:30'
+last_checked: '2026-07-04T09:34:11.684668+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of RAG with Knowledge Graph**: Demonstrates integration of Retrieval-Augmented Generation (RAG) using knowledge graphs for enhanced contextual retrieval and response generation in a Java-based Spring AI system.
+- **Implementation of AI Q&A System**: Demonstrates a Spring AI-based Q&A system leveraging **Server-Sent Events (SSE)** for real-time streaming responses, **Agent-based workflows** for dynamic task execution, and **RAG (Retrieval-Augmented Generation)** with **knowledge graphs** for enhanced contextual retrieval.
 
-- **Multi-Modal AI Capabilities**: Supports both image generation (via Function Call) and image understanding (via embedding-based retrieval) alongside traditional text-based AI workflows.
+- **Multi-Modal AI Capabilities**: Integrates **Function Calling** for tool-based interactions, supports **historical message context** for conversational continuity, and includes **image generation (e.g., Stable Diffusion)** and **image understanding (e.g., vision models)** via **Embedding** and **Vector Database** (e.g., Milvus/Weaviate) for RAG.
 
-- **Advanced AI Agent Features**: Implements SSE (Server-Sent Events) streaming, historical message management, and vector database integration for efficient embedding storage and retrieval.
+- **Technical Stack**: Built in **Java** with **Spring AI** and **Alibaba Cloud AI** services, utilizing **embedding models** (e.g., BERT, Sentence-BERT) for vectorization and **RAG pipelines** for hybrid retrieval from structured/unstructured data.
 
 ## Why It Matters
 

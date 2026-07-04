@@ -2,7 +2,7 @@
 title: Collaboration software for software, IT and business teams | Atlassian
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://www.atlassian.com
+source_url: https://www.atlassian.com/
 resource_id: blog:collaboration-software-for-software-it-and-busines
 local_vault_path: ai/rag/collaboration-software-for-software-it-and-busines.md
 quality_score: 70
@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Jira AI Agents Open Beta**: Jira now supports AI agents in open beta, enabling automation of tasks, while Rovo integrates with MCP-enabled third-party apps (e.g., Amplitude, Box, Canva, Figma, Intercom) for expanded functionality.
+- **Jira AI Agents & MCP Integration**: Jira now supports AI agents in open beta, with Rovo enabling MCP-compatible connections to third-party apps (e.g., Amplitude, Box, Canva, Figma, Intercom) for enhanced workflow automation.
 
-- **Teamwork Platform Integration**: Atlassian’s Teamwork platform bundles Jira, Confluence, Loom, and Rovo, providing AI-powered insights across project management, documentation, and async video collaboration.
+- **Teamwork Platform Expansion**: Atlassian’s "Teamwork Collection" integrates Jira, Confluence, Loom, and Rovo into a unified AI-powered ecosystem for project management, documentation, and async collaboration.
 
-- **Enterprise Adoption Metrics**: Atlassian serves
+- **Enterprise Adoption Metrics**: Atlassian serves 300K
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.atlassian.com
+Original source URL: https://www.atlassian.com/
 
 ## Local Vault File
 

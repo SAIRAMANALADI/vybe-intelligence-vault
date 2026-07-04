@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-07-04T03:49:47.363907+05:30'
-published_at: '2026-07-03T17:57:35Z'
+collected_at: '2026-07-04T09:34:31.816789+05:30'
+published_at: '2026-07-04T03:56:59Z'
 tags:
 - benchmark
 - dataset
@@ -13,7 +13,7 @@ tags:
 - hackernews
 - rag
 - unknown
-stars: 434
+stars: 435
 language: Unknown
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-07-04T03:49:47.363907+05:30'
-last_seen: '2026-07-04T03:49:47.363907+05:30'
-last_checked: '2026-07-04T03:49:47.363907+05:30'
+first_seen: '2026-07-04T09:34:31.816789+05:30'
+last_seen: '2026-07-04T09:34:31.816789+05:30'
+last_checked: '2026-07-04T09:34:31.816789+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a dataset and benchmark framework for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents.
-- **Key Features**: Includes synthetic data generation, enterprise-specific evaluation metrics, and support for semantic search and information retrieval tasks.
-- **Technical Scope**: Supports Python-based RAG evaluation, LLM performance assessment, and knowledge base integration for enterprise use cases.
+- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, enabling standardized assessment of performance in real-world scenarios.
+- **Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based question-answering metrics tailored for enterprise knowledge bases and internal search applications.
+- **Technical Scope**: Supports Python-based RAG evaluation pipelines, covering retrieval quality, generative AI accuracy, and large language model (LLM) performance in enterprise contexts.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: onyx-dot-app
-- Stars: 434
+- Stars: 435
 - Forks: 45
 - Language: Unknown
 - Topics: benchmark, dataset, enterprise, enterprise-search, evaluation, generative-ai, information-retrieval, knowledge-base, large-language-models, llm, llm-evaluation, python, question-answering, rag, rag-evaluation, retrieval-augmented-generation, semantic-search, synthetic-data, synthetic-data-generation
-- Last Updated: 2026-07-03T17:57:35Z
+- Last Updated: 2026-07-04T03:56:59Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-19T02:48:25Z

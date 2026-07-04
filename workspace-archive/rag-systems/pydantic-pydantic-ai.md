@@ -1,5 +1,5 @@
 ---
-title: 'pydantic/pydantic-ai Release: v2.0.0 (2026-06-23)'
+title: 'pydantic/pydantic-ai Release: v2.5.0 (2026-07-03)'
 archive_category: rag-systems
 source_category: ai/rag
 source_url: https://github.com/pydantic/pydantic-ai
@@ -8,16 +8,14 @@ local_vault_path: ai/rag/pydantic-pydantic-ai.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: prompt
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
-- anthropic
 - github-release
 - hackernews
 - mistral
 - models
-- openai
 - pydantic-pydantic-ai
 - rag
 selection_reason:
@@ -25,22 +23,20 @@ selection_reason:
 - Active open-source repository
 ---
 
-# pydantic/pydantic-ai Release: v2.0.0 (2026-06-23)
+# pydantic/pydantic-ai Release: v2.5.0 (2026-07-03)
 
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: prompt
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-# 🎉 Pydantic AI V2.0 is here!
-
-After seven betas, **Pydantic AI V2 is now stable.** V2 leans into a harness-first design with [capabilities](https://ai.pydantic.dev/capabilities/) as a core primitive — a single composable unit that bundles an agent's tools, hooks, instructions, and model settings, r...
+* Add `sanitize_messages` for inbound message-history hardening by @dsfaccini in https://github.com/pydantic/pydantic-ai/pull/6169
 
 ## Use Cases
 

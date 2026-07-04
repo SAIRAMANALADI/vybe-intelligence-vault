@@ -4,16 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://codeql.github.com/docs
-published_at: '2026-07-04T03:54:26.994069+05:30'
-collected_at: '2026-07-04T03:54:26.994078+05:30'
+published_at: '2026-07-04T09:42:13.442832+05:30'
+collected_at: '2026-07-04T09:42:13.442841+05:30'
 tags:
+- frontend_ui
 - rag
 - web-crawled
 status: active
 resource_id: blog:codeql-documentation
-first_seen: '2026-07-04T03:54:26.994078+05:30'
-last_seen: '2026-07-04T03:54:26.994078+05:30'
-last_checked: '2026-07-04T03:54:26.994078+05:30'
+first_seen: '2026-07-04T09:42:13.442841+05:30'
+last_seen: '2026-07-04T09:42:13.442841+05:30'
+last_checked: '2026-07-04T09:42:13.442841+05:30'
 health_score: 100
 ---
 
@@ -21,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **CodeQL Overview**: CodeQL treats code as data, enabling vulnerability detection via structured queries; supported languages/frameworks include C/C++, C#, Go, Java, JavaScript/TypeScript, Python, and Ruby.
-- **Query Development & Execution**: Queries can be written using QL (a Datalog-derived language), tested via VS Code extension or CLI, and shared to standardize vulnerability eradication across codebases.
-- **Resources & Documentation**: Includes QL language reference, standard libraries, query help, and system requirements; CLI releases, VS Code extension, and GitHub repository facilitate integration and contribution.
+- **CodeQL** treats source code as structured data, enabling vulnerability detection via declarative queries (QL) over abstract syntax trees (ASTs) and control-flow graphs (CFGs).
+- **Supported languages/frameworks** (latest release) include C/C++, C#, Go, Java, JavaScript/TypeScript, Python, and Ruby, with libraries for common frameworks (e.g., Spring, .NET, React).
+- **Query execution** requires a CodeQL database (extracted from source) and can be run via CLI, VS Code extension, or integrated into CI/CD pipelines for automated security analysis.
 
 ## Why It Matters
 
@@ -33,10 +34,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-04T03:54:26.994069+05:30
+- Published: 2026-07-04T09:42:13.442832+05:30
 
 ## Related Tags
 
+- frontend_ui
 - rag
 - web-crawled
 

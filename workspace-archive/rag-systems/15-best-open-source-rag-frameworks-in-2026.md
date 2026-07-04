@@ -6,7 +6,7 @@ source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
 local_vault_path: ai/rag/15-best-open-source-rag-frameworks-in-2026.md
 quality_score: 70
-archive_score: 76
+archive_score: 78
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 78 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Modular framework with 105k+ GitHub stars, offering data connectors, model flexibility, retrieval components, and evaluation tools for RAG pipelines; integrates with LangSmith and LangGraph for debugging and workflow management.
+- **LangChain**: Open-source framework with 105k stars, providing structured LLM application development, flexible model integration, retrieval components, and evaluation tools for RAG pipelines. Supports chunking optimization and ecosystem tools like LangSmith and LangGraph.
 
-- **RAGFlow**: Open-source RAG engine (48.5k stars) with deep document understanding (PDFs, tables, layouts), GraphRAG support, and a visual web interface for structured data extraction and retrieval.
-
-- **Milvus**: High-performance, cloud-native vector
+- **RAGFlow**: Open-source RAG engine (48.5k stars) specializing in deep document understanding, extracting structured data from complex PDFs/tables, and offering GraphRAG support, agentic reasoning, and dual storage backe
 
 ## Use Cases
 

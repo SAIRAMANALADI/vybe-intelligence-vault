@@ -6,18 +6,19 @@ source_url: https://github.com/streamlit/example-app-langchain-rag
 resource_id: github:streamlit/example-app-langchain-rag
 local_vault_path: ai/rag/streamlit-example-app-langchain-rag.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
-resource_kind: framework
-importance: high
+archive_score: 77
+archive_tier: useful
+resource_kind: benchmark
+importance: medium
 tags:
 - github-repo
+- openai
 - python
 - rag
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # streamlit/example-app-langchain-rag
@@ -25,19 +26,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector store retrieval (likely FAISS or similar) with hybrid search (dense + sparse embeddings) for enhanced document retrieval accuracy.
+- Implements a **Streamlit-based RAG pipeline** using **LangChain** for document retrieval and generation, integrating a **vector store** for semantic search and a **hybrid search** mechanism (combining vector and keyword-based retrieval).
 
-- **LangChain Integration**: Utilizes LangChain’s modular framework for chaining LLM calls, document loaders, and retrievers, demonstrating end-to-end RAG workflow in a Streamlit UI.
+- Demonstrates **end-to-end workflow** from document ingestion (via `UnstructuredFileLoader` or similar) to **retrieval-augmented generation (RAG)** using a **LLM** (e.g., OpenAI, HuggingFace) with **retriever** and **chain** abstractions.
 
-- **Streamlit Deployment**: Showcases a production-ready Streamlit app for interact
+- Features **inter
 
 ## Use Cases
 

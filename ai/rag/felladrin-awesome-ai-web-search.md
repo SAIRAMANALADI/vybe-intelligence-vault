@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/felladrin/awesome-ai-web-search
-collected_at: '2026-07-04T03:49:37.313210+05:30'
-published_at: '2026-07-03T17:51:14Z'
+collected_at: '2026-07-04T09:34:21.704462+05:30'
+published_at: '2026-07-04T03:08:16Z'
 tags:
 - github-repo
+- hackernews
 - html
 - rag
-stars: 1364
+stars: 1365
 language: HTML
 status: active
 license: CC0-1.0
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-11-09T19:13:37Z'
 pushed_at: '2026-07-01T20:55:28Z'
 resource_id: github:felladrin/awesome-ai-web-search
-first_seen: '2026-07-04T03:49:37.313210+05:30'
-last_seen: '2026-07-04T03:49:37.313210+05:30'
-last_checked: '2026-07-04T03:49:37.313210+05:30'
+first_seen: '2026-07-04T09:34:21.704462+05:30'
+last_seen: '2026-07-04T09:34:21.704462+05:30'
+last_checked: '2026-07-04T09:34:21.704462+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated list** of AI-powered web search tools leveraging **LLMs, RAG, and generative AI** for enhanced information retrieval and question-answering.
-- **Covers metasearch engines, AI assistants, and retrieval-augmented systems**, including projects for **local LLM inference** and **web-based AI search interfaces**.
-- **GitHub repository** (HTML-based) with **1,364 stars** and **112 forks**, last updated **July 3, 2026**, hosted at `https://github.com/felladrin/awesome-ai-web-search`.
+- **Curated list of AI-powered web search tools** leveraging LLMs, RAG, and metasearch techniques for enhanced information retrieval and question-answering.
+- **Includes generative AI projects** for web search, covering topics like artificial intelligence, retrieval-augmented generation, and LLM inference.
+- **Open-source repository** (HTML-based) with 1,365 stars, last updated July 4, 2026, providing a structured directory of tools for AI-driven web search.
 
 ## Why It Matters
 
@@ -39,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: felladrin
-- Stars: 1364
+- Stars: 1365
 - Forks: 112
 - Language: HTML
 - Topics: ai, ai-search-engine, artificial-intelligence, artificial-intelligence-projects, awesome, awesome-list, generative-ai, generative-ai-projects, generative-ai-tools, information-retrieval, llm-inference, metasearch, question-answering, rag, retrieval-augmented-generation, web-search
-- Last Updated: 2026-07-03T17:51:14Z
+- Last Updated: 2026-07-04T03:08:16Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2024-11-09T19:13:37Z

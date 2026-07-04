@@ -17,8 +17,6 @@ tags:
 - models
 - openai
 - rag
-- reddit
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -37,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **5-week structured learning path** covering advanced **Retrieval-Augmented Generation (RAG)** techniques, including **binary/scalar quantization**, **Matryoshka representation learning**, and **hybrid search** (vector + keyword) for efficient indexing and retrieval.
-- **Hands-on implementation** using **Azure OpenAI**, **HNSW** for approximate nearest neighbor search, and **multimodal RAG** workflows, with notebooks optimized for **Visual Studio Code**.
-- **Responsible AI focus** integrating
+- **Comprehensive RAG Mastery Program**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and HNSW indexing for efficient vector search.
+
+- **Multimodal & Responsible AI Integration**: Includes modules on multimodal RAG, Matryoshka representation learning, and responsible AI practices for deploying LLM-powered applications using Azure OpenAI and Visual Studio Code.
 
 ## Use Cases
 

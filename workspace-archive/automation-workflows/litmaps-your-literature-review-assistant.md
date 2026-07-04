@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - hackernews
+- models
 - paper
 - web-crawled
 - workflows
@@ -34,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Visual Literature Mapping**: Litmaps transforms academic paper discovery into an interactive, graph-based visualization, enabling researchers to explore citation networks and identify relevant literature through a "Seed Map" interface.
+- **Visual Literature Mapping**: Litmaps converts academic literature into interactive citation networks ("Seed Maps") for intuitive exploration of research connections, enabling users to identify gaps and relevant works beyond traditional keyword searches.
 
-- **Automated Monitoring & Collaboration**: The platform provides real-time updates on new publications matching user-defined topics and supports collaborative research workflows via shared maps and team features.
-
-- **Cross-Disciplinary Adoption**: Used by 3
+- **Automated Discovery & Monitoring**: Features include AI-driven paper recommendations based on citation networks, real-time updates for new publications in a topic area, and integration with reference managers for streamlined workflows.
 
 ## Use Cases
 

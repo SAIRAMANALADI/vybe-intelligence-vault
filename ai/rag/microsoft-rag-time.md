@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-07-04T03:48:37.310302+05:30'
+collected_at: '2026-07-04T09:33:21.708350+05:30'
 published_at: '2026-06-28T15:57:16Z'
 tags:
 - github-repo
@@ -13,7 +13,6 @@ tags:
 - models
 - openai
 - rag
-- workflows
 stars: 888
 language: Jupyter Notebook
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-07-04T03:48:37.310302+05:30'
-last_seen: '2026-07-04T03:48:37.310302+05:30'
-last_checked: '2026-07-04T03:48:37.310302+05:30'
+first_seen: '2026-07-04T09:33:21.708350+05:30'
+last_seen: '2026-07-04T09:33:21.708350+05:30'
+last_checked: '2026-07-04T09:33:21.708350+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Time**: A structured 5-week curriculum designed to master Retrieval-Augmented Generation (RAG) using Jupyter Notebooks, covering topics like hybrid search, vector indexing, and quantization techniques (binary/scalar).
-- **Key Technologies**: Integrates Azure, OpenAI, HNSW, and Matryoshka representation learning for efficient retrieval and multimodal RAG workflows in VS Code.
-- **Focus Areas**: Emphasizes responsible AI, hybrid search (keyword + vector), and advanced indexing methods for scalable, low-latency LLM applications.
+- **Comprehensive RAG Mastery Program**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and HNSW indexing for efficient vector search.
+
+- **Multimodal & Responsible AI Integration**: Includes modules on multimodal RAG, Matryoshka representation learning, and responsible AI practices for deploying LLM-powered applications using Azure OpenAI and Visual Studio Code.
+
+- **Practical Implementation Focus**: Hands-on Jupyter Notebooks demonstrating real-world RAG pipelines, Azure deployment, and optimization techniques for production-grade generative AI systems.
 
 ## Why It Matters
 

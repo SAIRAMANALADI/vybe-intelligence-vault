@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-07-04T03:51:07.431062+05:30'
+collected_at: '2026-07-04T09:35:51.792965+05:30'
 published_at: '2026-07-03T11:18:33Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-29T13:00:12Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-07-04T03:51:07.431062+05:30'
-last_seen: '2026-07-04T03:51:07.431062+05:30'
-last_checked: '2026-07-04T03:51:07.431062+05:30'
+first_seen: '2026-07-04T09:35:51.792965+05:30'
+last_seen: '2026-07-04T09:35:51.792965+05:30'
+last_checked: '2026-07-04T09:35:51.792965+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Language Best Practices Repository**: Curated collection of coding standards and best practices for AI agents across TypeScript, Kotlin, Go, Java (Spring Boot), Dart (Flutter), PHP (Laravel), and JavaScript frameworks (React, Next.js, Angular, NestJS), ensuring consistency in agentic AI development.
+- **Repository Overview**: A TypeScript-based collection of standardized agent skills and best practices for programming languages (e.g., Kotlin, Go, Swift) and frameworks (e.g., React, Angular, Spring Boot, Laravel), designed to guide AI agents in adhering to coding standards.
 
-- **Framework-Specific Agent Guidelines**: Provides specialized `.cursorrules` and standardized conventions for Android, iOS, React Native, and other platforms to optimize AI agent adherence to language/framework-specific idioms and architectural patterns.
+- **Scope & Topics**: Covers 20+ languages/frameworks (Android, Flutter, Next.js, NestJS, etc.) and includes resources like Cursor rules and coding standards for cross-platform development (iOS, Android, web).
 
-- **Active Maintenance & Community-Driven**: Last updated July 2026 with 520 stars and 151 forks, indicating ongoing contributions and adoption for evolving agent skills standardization in modern software ecosystems.
+- **Metadata**: 520 stars, 151 forks, last updated July 3, 2026; serves as a reference for AI agents to implement consistent, high-quality code across ecosystems.
 
 ## Why It Matters
 

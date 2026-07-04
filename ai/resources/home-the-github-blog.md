@@ -4,18 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.blog
-published_at: '2026-07-04T03:52:26.745771+05:30'
-collected_at: '2026-07-04T03:52:26.745783+05:30'
+published_at: '2026-07-04T09:38:08.671721+05:30'
+collected_at: '2026-07-04T09:38:08.671732+05:30'
 tags:
 - reddit
-- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:home-the-github-blog
-first_seen: '2026-07-04T03:52:26.745783+05:30'
-last_seen: '2026-07-04T03:52:26.745783+05:30'
-last_checked: '2026-07-04T03:52:26.745783+05:30'
+first_seen: '2026-07-04T09:38:08.671732+05:30'
+last_seen: '2026-07-04T09:38:08.671732+05:30'
+last_checked: '2026-07-04T09:38:08.671732+05:30'
 health_score: 100
 ---
 
@@ -23,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Scale & Challenge**: GitHub processed **20,000+ secret scanning alerts** across **15,000 repositories**, requiring automated triage to distinguish critical vulnerabilities from noise.
+- **Alert Volume & Scope**: GitHub processed **20,000+ secret scanning alerts** across **15,000 repositories**, necessitating scalable triage and remediation workflows.
 
-- **Workflow Automation**: Implemented **remediation workflows** to systematically address alerts, reducing manual review overhead and accelerating resolution.
+- **Signal-to-Noise Optimization**: Implemented **automated filtering and prioritization** to distinguish critical secrets from noise, reducing manual review overhead.
 
-- **Inbox Zero Achievement**: Achieved **inbox zero** in **9 months** by refining detection logic, prioritizing high-risk secrets, and integrating automated remediation pipelines.
+- **Inbox Zero Achievement**: Achieved **full alert resolution** in **9 months** via structured remediation pipelines, integrating detection, triage, and remediation into CI/CD workflows.
 
 ## Why It Matters
 
@@ -37,12 +36,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-04T03:52:26.745771+05:30
+- Published: 2026-07-04T09:38:08.671721+05:30
 
 ## Related Tags
 
 - reddit
-- scripts
 - web-crawled
 - workflows
 

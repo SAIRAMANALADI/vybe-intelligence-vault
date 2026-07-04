@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVISOsecurity/cyber-security-llm-agents
-collected_at: '2026-07-04T03:51:37.489134+05:30'
+collected_at: '2026-07-04T09:36:21.856854+05:30'
 published_at: '2026-06-29T07:47:34Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-02-29T09:54:26Z'
 pushed_at: '2024-05-07T15:31:28Z'
 resource_id: github:nvisosecurity/cyber-security-llm-agents
-first_seen: '2026-07-04T03:51:37.489134+05:30'
-last_seen: '2026-07-04T03:51:37.489134+05:30'
-last_checked: '2026-07-04T03:51:37.489134+05:30'
+first_seen: '2026-07-04T09:36:21.856854+05:30'
+last_seen: '2026-07-04T09:36:21.856854+05:30'
+last_checked: '2026-07-04T09:36:21.856854+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Repository containing LLM-based agents designed to automate routine cybersecurity tasks (e.g., adversary emulation) using frameworks like **Caldera**.
-- **Technical Stack**: Implemented in **Jupyter Notebooks**, leveraging LLMs for infosec workflows (e.g., threat detection, red teaming).
-- **Integration**: Supports **adversary-emulation** and **AI-driven cybersecurity** workflows, last updated in **2026-06-29** with **373 stars** and **70 forks**.
+- **Purpose**: Repository containing LLM-based agents designed to automate and assist with routine cybersecurity tasks, including adversary emulation.
+- **Technical Stack**: Implemented primarily in Jupyter Notebooks, leveraging LLMs for infosec workflows.
+- **Integration**: Compatible with **CALDERA**, an adversary emulation platform, to enhance automated cybersecurity operations.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: NVISOsecurity
 - Stars: 373
-- Forks: 70
+- Forks: 71
 - Language: Jupyter Notebook
 - Topics: adversary-emulation, ai, caldera, cybersecurity, infosec, llm
 - Last Updated: 2026-06-29T07:47:34Z

@@ -3,9 +3,9 @@ title: GitHub Docs
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.github.com/
-published_at: '2026-07-04T01:26:19.121458+05:30'
-collected_at: '2026-07-04T01:26:19.121469+05:30'
+source_url: https://docs.github.com
+published_at: '2026-07-04T09:40:38.039129+05:30'
+collected_at: '2026-07-04T09:40:38.039145+05:30'
 tags:
 - agents
 - scripts
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-docs
-first_seen: '2026-07-04T01:26:19.121469+05:30'
-last_seen: '2026-07-04T01:26:19.121469+05:30'
-last_checked: '2026-07-04T01:26:19.121469+05:30'
+first_seen: '2026-07-04T09:40:38.039145+05:30'
+last_seen: '2026-07-04T09:40:38.039145+05:30'
+last_checked: '2026-07-04T09:40:38.039145+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Git Integration & Authentication**: GitHub relies on Git for version control, supporting secure remote connections via SSH for authenticated interactions with repositories.
-- **Collaborative Workflows**: Pull requests enable proposing, reviewing, and merging code changes, while GitHub Copilot integrates AI-driven code suggestions directly into IDEs.
-- **CI/CD & Security**: GitHub Actions automates workflows, GitHub Packages manages dependencies, and CodeQL enforces code security by identifying vulnerabilities in repositories.
+- GitHub provides **version control via Git**, **SSH for secure remote access**, and **repository management** for collaborative development workflows.
+- **Pull requests** enable code review and merging, while **GitHub Actions** supports CI/CD pipelines and **Codespaces** offers cloud-based development environments.
+- **GitHub Copilot** integrates AI-driven code suggestions in IDEs, and **security tools** like CodeQL and secret scanning enforce supply chain and vulnerability management.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-04T01:26:19.121458+05:30
+- Published: 2026-07-04T09:40:38.039129+05:30
 
 ## Related Tags
 
@@ -48,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://docs.github.com/
+Original source: https://docs.github.com

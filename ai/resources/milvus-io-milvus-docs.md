@@ -3,16 +3,16 @@ title: Sign in to GitHub · GitHub
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/milvus-io/milvus-docs/edit/v3.0.x/site/en/getstarted/run-milvus-docker/install_standalone-docker.md
-published_at: '2026-06-28T03:51:34.422248+05:30'
-collected_at: '2026-06-28T03:51:34.422261+05:30'
+source_url: https://github.com/milvus-io/milvus-docs/edit/v3.0.x/site/en/getstarted/quickstart.md
+published_at: '2026-07-04T09:37:32.039233+05:30'
+collected_at: '2026-07-04T09:37:32.039245+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: github:milvus-io/milvus-docs
-first_seen: '2026-06-28T03:51:34.422261+05:30'
-last_seen: '2026-06-28T03:51:34.422261+05:30'
-last_checked: '2026-06-28T03:51:34.422261+05:30'
+first_seen: '2026-07-04T09:37:32.039245+05:30'
+last_seen: '2026-07-04T09:37:32.039245+05:30'
+last_checked: '2026-07-04T09:37:32.039245+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Failure**: GitHub login page encountered an error during page load, requiring a manual reload.
-- **Account Creation Option**: New users are redirected to GitHub’s signup page with a pre-filled return path to the Milvus documentation.
-- **Passkey Support**: GitHub offers passkey-based authentication as an alternative to traditional username/password login.
+- **Authentication Failure**: The GitHub login page encountered an error during page load, preventing access to authentication services.
+
+- **Account Creation Option**: Users can bypass login issues by creating a new GitHub account via the provided signup link.
+
+- **Passkey Alternative**: GitHub supports passkey-based authentication as an alternative to traditional username/password credentials.
 
 ## Why It Matters
 
@@ -32,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-28T03:51:34.422248+05:30
+- Published: 2026-07-04T09:37:32.039233+05:30
 
 ## Related Tags
 
@@ -40,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/milvus-io/milvus-docs/edit/v3.0.x/site/en/getstarted/run-milvus-docker/install_standalone-docker.md
+Original source: https://github.com/milvus-io/milvus-docs/edit/v3.0.x/site/en/getstarted/quickstart.md

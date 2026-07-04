@@ -14,6 +14,8 @@ tags:
 - benchmark
 - github-repo
 - hackernews
+- meta-ai
+- models
 - paper
 - python
 - rag
@@ -35,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG) methodologies, architectures, and applications.
-- **Python-Centric Tooling**: Includes Python-based implementations, libraries (e.g., LangChain, Haystack), and frameworks for benchmarking/evaluating RAG systems.
-- **Maintenance & Updates**: Last updated July 2026, with active curation of cutting-edge RAG research (e.g., hybrid retrieval, long-context RAG
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG), focusing on advancements in hybrid retrieval-generation architectures.
+- **Python-Centric Tooling**: Includes Python-based implementations, libraries, and frameworks for RAG evaluation, fine-tuning, and deployment (e.g., LangChain, Haystack, LlamaIndex integrations).
+- **Last Updated 2026-07-01**: Repository reflects cutting-edge research with recent up
 
 ## Use Cases
 

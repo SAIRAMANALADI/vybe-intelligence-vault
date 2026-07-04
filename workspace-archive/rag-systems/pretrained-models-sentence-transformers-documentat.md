@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Installation & Setup**: Supports multiple installation methods (`uv`, `pip`, `conda`, source, editable) with optional CUDA-enabled PyTorch for GPU acceleration.
+- **Installation & Setup**: Supports multiple installation methods (`uv`, `pip`, `conda`, source, editable) with optional PyTorch CUDA support; includes migration guides for version updates (e.g., v5.x to v5.4+ with renamed parameters like `max_length` → `max_seq_length` and `tokenizer` → `processing_class`).
 
-- **Core Functionality**: Provides pre-trained models for sentence embeddings, semantic search, clustering, and multimodal tasks (image/text, audio/video) with modular architecture for custom model creation.
-
-- **Training & Optimization**: Includes training pipelines for fine-tuning models, with support for loss functions, evaluator
+- **Sentence Transformer Capabilities**: Enables computing embeddings, semantic textual similarity, semantic search (symmetric/asymmetric), clustering (k-Means, agglomerative), paraphrase
 
 ## Use Cases
 

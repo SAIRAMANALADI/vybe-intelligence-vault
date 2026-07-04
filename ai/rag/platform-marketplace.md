@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.atlassian.com/platform/marketplace
-published_at: '2026-06-23T10:12:46.228947+05:30'
-collected_at: '2026-06-23T10:12:46.228960+05:30'
+published_at: '2026-07-04T09:45:16.537847+05:30'
+collected_at: '2026-07-04T09:45:16.537862+05:30'
 tags:
 - agents
 - benchmark
@@ -19,9 +19,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:platform-marketplace
-first_seen: '2026-06-23T10:12:46.228960+05:30'
-last_seen: '2026-06-23T10:12:46.228960+05:30'
-last_checked: '2026-06-23T10:12:46.228960+05:30'
+first_seen: '2026-07-04T09:45:16.537862+05:30'
+last_seen: '2026-07-04T09:45:16.537862+05:30'
+last_checked: '2026-07-04T09:45:16.537862+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Marketplace APIs & Licensing**: Provides REST API v2, Java client tutorials, in-product license API, and Connect framework for app integration, licensing, and marketplace operations.
-- **App Development & Launch Pipeline**: Offers structured onboarding guides for defining products, Forge app development/testing, pricing/licensing models, branding, security compliance, and submission/review processes.
-- **Programs & Compliance**: Includes security bug bounty, penetration testing, Cloud Fortified Apps certification, and early access programs, with detailed requirements for reliability, security, and support standards.
+- Atlassian Marketplace provides REST APIs (v2), tutorials, and licensing APIs for app development, including Forge successor-to-Connect app migration paths.
+- Vendor onboarding includes planning, building (Forge tooling/setup), launching (pricing, branding, security), and growing (tracking, iteration) with structured guides and checklists.
+- Marketplace programs include security bug bounties, penetration testing, "Runs on Atlassian," and "Cloud Fortified Apps" with strict reliability/security/support requirements.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T10:12:46.228947+05:30
+- Published: 2026-07-04T09:45:16.537847+05:30
 
 ## Related Tags
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-04T03:48:47.278480+05:30'
+collected_at: '2026-07-04T09:33:31.733798+05:30'
 published_at: '2026-06-30T08:00:12Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-04T03:48:47.278480+05:30'
-last_seen: '2026-07-04T03:48:47.278480+05:30'
-last_checked: '2026-07-04T03:48:47.278480+05:30'
+first_seen: '2026-07-04T09:33:31.733798+05:30'
+last_seen: '2026-07-04T09:33:31.733798+05:30'
+last_checked: '2026-07-04T09:33:31.733798+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples and tutorials for integrating vector search with LLMs (e.g., GPT-4-Vision, LangChain, LlamaIndex) to build Retrieval-Augmented Generation (RAG) systems and multimodal AI pipelines.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based tutorials for Retrieval-Augmented Generation (RAG) and multimodal AI systems, leveraging vector search and LLMs (e.g., GPT-4 Vision) with frameworks like LangChain and LlamaIndex.
 
-- **Vector Database Integration**: Demonstrates practical use of LanceDB (a vector database) for efficient storage, retrieval, and fine-tuning of embeddings in deep-learning workflows, including OpenAI embeddings and custom model fine-tuning.
+- **Vector Database Integration**: Demonstrates practical use cases of LanceDB (a vector database) for efficient similarity search, embeddings, and fine-tuning workflows in deep-learning pipelines.
 
-- **Agentic AI Systems**: Includes recipes for deploying AI agents leveraging vector search for dynamic context retrieval, combining tools like LangChain/LlamaIndex with LLMs to enable autonomous or semi-autonomous task execution.
+- **Agentic Workflows**: Includes examples of autonomous agent systems (e.g., OpenAI Agents) utilizing vector search for dynamic decision-making, combining LLMs with structured data retrieval.
 
 ## Why It Matters
 

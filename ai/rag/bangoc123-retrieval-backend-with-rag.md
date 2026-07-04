@@ -4,9 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-04T03:49:22.320554+05:30'
+collected_at: '2026-07-04T09:34:06.691596+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
+- benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -17,9 +19,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-04T03:49:22.320554+05:30'
-last_seen: '2026-07-04T03:49:22.320554+05:30'
-last_checked: '2026-07-04T03:49:22.320554+05:30'
+first_seen: '2026-07-04T09:34:06.691596+05:30'
+last_seen: '2026-07-04T09:34:06.691596+05:30'
+last_checked: '2026-07-04T09:34:06.691596+05:30'
 health_score: 100
 ---
 
@@ -27,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Repository provides a Vietnamese-focused Retrieval-Augmented Generation (RAG) backend, optimized for Vietnamese language processing tasks.
+- **Vietnamese RAG Implementation**: Demonstrates best practices for Vietnamese Retrieval-Augmented Generation (RAG) pipelines, including text preprocessing, embedding, and retrieval optimization tailored for Vietnamese language characteristics.
 
-- **Python-Based Architecture**: Utilizes Python for implementation, leveraging libraries/frameworks like LangChain, FAISS, and Hugging Face Transformers for efficient retrieval and generation.
+- **Modular Python Architecture**: Provides a structured backend with components for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval, and LLM integration, optimized for Vietnamese text processing.
 
-- **Modular Design**: Includes components for document retrieval (vector DB with FAISS), embedding models (e.g., `vinai/phobert-base`), and LLM integration (e.g., `vllm` or `transformers`) for end-to-end RAG pipelines.
+- **Evaluation & Benchmarking**: Includes scripts for evaluating RAG performance on Vietnamese datasets, with metrics like retrieval accuracy, response relevance, and latency benchmarks.
 
 ## Why It Matters
 

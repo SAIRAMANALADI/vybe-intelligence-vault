@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates advanced RAG workflows using locally deployed large language models (LLMs) via frameworks like LangChain, eliminating cloud dependency.
-- **Dynamic Database Updates**: Implements automated or semi-automated vector database refresh mechanisms to ensure retrieval quality with evolving document corpora.
-- **Testing & Evaluation Suite**: Includes structured testing methodologies (e.g., retrieval accuracy, response relevance) to benchmark RAG performance unde
+- **Local LLM Integration**: Demonstrates advanced RAG pipelines using local large language models (LLMs) for privacy and cost efficiency, leveraging frameworks like LangChain for modular workflows.
+
+- **Dynamic Database Updates**: Implements automated or semi-automated database refresh mechanisms to ensure retrieval-augmented generation (RAG) systems operate on up-to-date knowledge without manual intervention.
+
+- **Testing & Validation Framework**: Includes structured testing methodologies (e.g
 
 ## Use Cases
 

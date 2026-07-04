@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-04T03:50:12.413155+05:30'
+collected_at: '2026-07-04T09:34:56.798432+05:30'
 published_at: '2026-07-03T05:52:08Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
-- workflows
 stars: 523
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-04T03:50:12.413155+05:30'
-last_seen: '2026-07-04T03:50:12.413155+05:30'
-last_checked: '2026-07-04T03:50:12.413155+05:30'
+first_seen: '2026-07-04T09:34:56.798432+05:30'
+last_seen: '2026-07-04T09:34:56.798432+05:30'
+last_checked: '2026-07-04T09:34:56.798432+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a novel RAG framework leveraging linear graph structures for efficient retrieval and generation on large-scale corpora, targeting ICLR 2026.
-- **Graph-Based Retrieval**: Implements linear graph traversal for scalable and low-latency retrieval, optimizing LLM augmentation in high-dimensional data spaces.
-- **Python Implementation**: Provides an open-source Python library with 523 stars and 61 forks, supporting graphRAG, LLMs, and RAG workflows (last updated July 2026).
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel graph-based RAG framework that linearizes graph retrieval for large-scale corpora, optimizing efficiency for LLMs by transforming graph traversal into linear operations.
+
+- **ICLR 2026 Contribution**: Proposes a scalable retrieval mechanism that reduces computational overhead in traditional GraphRAG systems by leveraging linear graph traversal, enabling faster and more efficient augmentation of LLM outputs.
+
+- **Implementation**: Provides an open-source Python implementation with optimized graph-linearization techniques, supporting large-scale knowledge integration for RAG applications.
 
 ## Why It Matters
 

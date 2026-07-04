@@ -1,11 +1,11 @@
 ---
-title: 'pydantic/pydantic-ai Release: v2.4.0 (2026-07-02)'
+title: 'pydantic/pydantic-ai Release: v2.5.0 (2026-07-03)'
 category: ai/rag
 source_type: github_releases
 source_name: GitHub Releases AI
 source_url: https://github.com/pydantic/pydantic-ai
-published_at: '2026-07-03T01:24:57Z'
-collected_at: '2026-07-04T03:47:46.686243+05:30'
+published_at: '2026-07-04T00:35:33Z'
+collected_at: '2026-07-04T09:32:40.851006+05:30'
 tags:
 - agents
 - github-release
@@ -13,24 +13,23 @@ tags:
 - mistral
 - models
 - pydantic-pydantic-ai
-- workflows
+- rag
 status: active
 resource_id: github:pydantic/pydantic-ai
 first_seen: '2026-06-16T13:57:15.241580+05:30'
-last_seen: '2026-07-04T03:47:46.686243+05:30'
-last_checked: '2026-07-04T03:47:46.686243+05:30'
+last_seen: '2026-07-04T09:32:40.851006+05:30'
+last_checked: '2026-07-04T09:32:40.851006+05:30'
 health_score: 100
 ---
 
-
-# pydantic/pydantic-ai Release: v2.4.0 (2026-07-02)
+# pydantic/pydantic-ai Release: v2.5.0 (2026-07-03)
 
 ## Summary
 
 ## What's Changed
 ### 🚀 Features
-* Split `preserve_file_data` into `allow_uploaded_files` (inbound security) and an AG-UI representation opt-in by @DouweM in https://github.com/pydantic/pydantic-ai/pull/6232
-* Add `...
+* Add `sanitize_messages` for inbound message-history hardening by @dsfaccini in https://github.com/pydantic/pydantic-ai/pull/6169
+* Round-trip multimodal tool returns through the AG...
 
 ## Why It Matters
 
@@ -39,8 +38,8 @@ General public resource representing technology updates, guides, or tutorials.
 ## Details
 
 - Source: GitHub Releases AI
-- Category: ai/agents
-- Published: 2026-07-03T01:24:57Z
+- Category: ai/rag
+- Published: 2026-07-04T00:35:33Z
 
 ## Related Tags
 
@@ -50,7 +49,7 @@ General public resource representing technology updates, guides, or tutorials.
 - mistral
 - models
 - pydantic-pydantic-ai
-- workflows
+- rag
 
 ## Source
 

@@ -7,7 +7,7 @@ source_url: https://nerdleveltech.com/guides/rag-hands-on-tutorial
 resource_id: blog:build-a-rag-system-from-scratch-step-by-step-with
 local_vault_path: ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md
 quality_score: 70
-archive_score: 78
+archive_score: 72
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -32,7 +32,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 78 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -40,9 +40,7 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid Retrieval Pipeline**: Implements **BM25 + vector search** for retrieval, combining keyword-based (BM25) and semantic (vector) matching to improve recall and precision, followed by **cross-encoder reranking** (free, no API key required) to reorder top-k candidates based on contextual relevance.
-
-- **ChromaDB Hybrid Search Implementation**: Uses `Chroma` with `BM25` retriever (`BM25Retriever`) and `vector retriever` (`VectorStoreRetriever`), merging results via `EnsembleRetriever` (weig
+*   A RAG pipeline is implemented using `RecursiveCharacterTextSplitter` (
 
 ## Use Cases
 
