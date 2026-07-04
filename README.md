@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-04 04:05 IST</p>
+        <p><b>Last Update:</b> 2026-07-04 05:37 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,26 +55,18 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Jamesob's guide to running SOTA LLMs locally](ai/community/jamesob-local-llm.md)** • <kbd>+68 pts</kbd>
-- 🔼 **[Ask HN: Is anyone experimenting with different ways of using LLMs for coding?](ai/community/ask-hn-is-anyone-experimenting-with-different-ways.md)** • <kbd>+41 pts</kbd>
-- 🔼 **[My dad helped build North America's oat supply chain: Can it be remade?](ai/community/my-dad-helped-build-north-america-s-oat-supply-cha.md)** • <kbd>+18 pts</kbd>
-- 🔼 **[macOS - Apple Developer](ai/rag/macos-apple-developer.md)** • Rank: <kbd>+4095</kbd>
-- 🔼 **[How to get Apple Intelligence - Apple Support](ai/rag/how-to-get-apple-intelligence-apple-support.md)** • Rank: <kbd>+4140</kbd>
+- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+4</kbd>
+- 🔼 **[RUC-NLPIR/FlashRAG](ai/rag/ruc-nlpir-flashrag.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Espionage Against the European Parliament](ai/community/espionage-against-the-european-parliament.md)** • Score: `139`
-- 🆕 **[Kagi Changelog (July 2): Heads, tails, and an AI toggle](ai/community/kagi-changelog-july-2-heads-tails-and-an-ai-toggle.md)** • Score: `32`
-- 🆕 **[ChatGPT Supported Countries | OpenAI Help Center](ai/rag/chatgpt-supported-countries-openai-help-center.md)** • Score: `0`
-- 🆕 **[Model Spec (2025/04/11)](ai/rag/model-spec-2025-04-11.md)** • Score: `0`
-- 🆕 **[OpenAI · GitHub](ai/agents/openai-github.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Instead of banning AI, I made a classroom contract with my students](ai/community/instead-of-banning-ai-i-made-a-classroom-contract.md)**
-- 💤 **[The MJ Rathbun case: How an autonomous AI bot cyberbullied a human programmer](ai/community/the-mj-rathbun-case-how-an-autonomous-ai-bot-cyber.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
