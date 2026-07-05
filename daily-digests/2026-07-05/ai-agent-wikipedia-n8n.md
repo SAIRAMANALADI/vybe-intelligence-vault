@@ -6,22 +6,22 @@ quality_score: 7
 rag_relevance: 8
 tags: ["automation", "wikipedia", "ai-agent", "workflow-orchestration", "no-code"]
 source: "https://github.com/avarose57/ai-agent-wikipedia-n8n"
-discovered_at: "2026-07-05T00:01:10Z"
+discovered_at: "2026-07-05T02:49:09Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A no-code AI agent that automates Wikipedia-related tasks by integrating n8n for workflow automation, LangChain for language model orchestration, and Ollama (Mistral) for AI processing. Users can search, summarize, and extract data from Wikipedia without programming knowledge.
+A no-code AI agent that automates Wikipedia-related tasks by integrating n8n workflows, LangChain for language processing, and Ollama (Mistral) for AI inference. It enables users to search, summarize, and extract data from Wikipedia without programming knowledge.
 
 ## Key Features
-- No-code automation for Wikipedia tasks using drag-and-drop workflows in n8n
-- Integration with LangChain for managing language model interactions
-- Uses Ollama (Mistral) for AI-powered summarization and data extraction
-- Custom Wikipedia tool for fast and reliable article retrieval
-- Supports multi-step workflows combining Wikipedia data with other apps or services
+- Drag-and-drop workflow builder for automating Wikipedia tasks
+- Integration with LangChain for language model management
+- Uses Ollama (Mistral) for AI-powered summarization and analysis
+- Custom Wikipedia tool for fast and reliable data retrieval
+- No coding required with a user-friendly interface
 
 ## Why It Matters for RAG Builders
-It simplifies the integration of Wikipedia data into AI workflows, enabling RAG systems to automate research and content generation with minimal setup.
+It simplifies the integration of Wikipedia data into AI workflows, enabling RAG builders to automate research and content extraction without deep technical expertise.
 
 ## Tech Stack Deep Dive
 ### n8n
