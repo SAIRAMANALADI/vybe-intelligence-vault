@@ -4,24 +4,24 @@ category: "Agent Framework"
 tech_stack: ["Python 3.11", "Google Gemini 1.5 Flash", "Gmail API", "SMTP (OAuth 2.0)", "Yahoo Finance API", "GitHub Actions", "HTML/CSS/JavaScript", "GitHub Pages"]
 quality_score: 7
 rag_relevance: 6
-tags: ["autonomous agents", "AI automation", "job scraping", "market monitoring", "production AI"]
+tags: ["autonomous agents", "AI automation", "cloud scheduling", "financial data", "job scraping"]
 source: "https://github.com/anilgopi-17608/mustang-mode-agent"
-discovered_at: "2026-07-05T06:39:12Z"
+discovered_at: "2026-07-05T09:42:56Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A production-ready AI system featuring three autonomous agents that automate job scanning, news aggregation, and market updates. Built in 9 days using AI pair-programming, it demonstrates real-world AI-augmented engineering with zero operational costs.
+A production-grade AI system featuring three autonomous agents that operate 24/7 in the cloud, automating job discovery, news aggregation, and financial market updates using AI-powered processing and cloud-based scheduling.
 
 ## Key Features
-- Three autonomous agents (Job, News, Market) running 24/7 in the cloud
-- AI-powered job scoring and summarization using Google Gemini 1.5 Flash
-- Real-time market updates for stocks, crypto, forex, and gold
-- Automated email digests and cover letter generation
+- Three autonomous AI agents (Job, News, Market) running 24/7 in the cloud
+- AI-powered job scoring and cover letter generation using Google Gemini 1.5
+- Real-time financial market updates (Indian, US, crypto, forex, gold)
+- Daily news aggregation from 10+ RSS sources with AI summarization
 - Zero-cost deployment using GitHub Actions and GitHub Pages
 
 ## Why It Matters for RAG Builders
-Demonstrates how AI-augmented engineering can rapidly build production-grade autonomous systems with minimal cost and complexity.
+Demonstrates a practical, production-ready AI agent framework that automates critical workflows, showcasing how AI can augment engineering tasks with minimal infrastructure cost.
 
 ## Tech Stack Deep Dive
 ### Python 3.11
