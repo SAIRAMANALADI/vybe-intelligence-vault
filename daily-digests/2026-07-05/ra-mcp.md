@@ -1,27 +1,27 @@
 ---
 title: "AI-Riksarkivet/ra-mcp"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Docker", "LanceDB", "FastAPI", "Ruff", "uv", "Sigstore", "SLSA"]
+category: "Orchestrator"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "Docker", "LanceDB", "Ruff", "uv", "Sigstore", "SLSA"]
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "historical documents", "RAG", "Swedish archives", "document search"]
+tags: ["MCP", "historical archives", "document search", "RAG integration", "Swedish National Archives"]
 source: "https://github.com/AI-Riksarkivet/ra-mcp"
-discovered_at: "2026-07-05T11:30:43Z"
+discovered_at: "2026-07-05T20:58:25Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-ra-mcp is a Model Context Protocol (MCP) server and CLI tool that provides access to transcribed historical documents from the Swedish National Archives (Riksarkivet). It enables full-text search, document browsing, and handwritten text recognition via MCP-compatible clients or a standalone CLI.
+ra-mcp is a Model Context Protocol (MCP) server and CLI tool for accessing and searching transcribed historical documents from the Swedish National Archives (Riksarkivet). It enables full-text search, document browsing, handwritten text recognition, and interactive viewing of millions of archival pages via MCP-compatible LLM clients or standalone CLI tools.
 
 ## Key Features
-- Full-text search across millions of AI-transcribed historical pages
-- Handwritten text recognition (HTR) for archival documents
-- Interactive document viewing and browsing via CLI or MCP tools
-- Integration with MCP-compatible LLM clients (ChatGPT, Claude, etc.)
-- Support for multiple archival datasets (court records, companies, films, etc.)
+- Full-text search across millions of AI-transcribed archival pages
+- Handwritten text recognition (HTR) for historical documents
+- Interactive document viewing with MCP UI resources (Claude-compatible)
+- CLI and MCP server for programmatic access to archival data
+- Supports multiple archival datasets including court records, biographical lexicons, and geographical records
 
 ## Why It Matters for RAG Builders
-It provides structured access to vast historical archives, enabling LLMs to retrieve and reason over domain-specific knowledge critical for RAG applications in research and education.
+It provides structured, searchable access to vast historical archives, enabling RAG systems to ground responses in authentic, context-rich primary sources for research and analysis.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -30,14 +30,14 @@ Automated review identified **Python** as a key module contributing to infrastru
 ### Model Context Protocol (MCP)
 Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
+### FastAPI
+Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### Docker
 Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### LanceDB
 Automated review identified **LanceDB** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### FastAPI
-Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Ruff
 Automated review identified **Ruff** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
