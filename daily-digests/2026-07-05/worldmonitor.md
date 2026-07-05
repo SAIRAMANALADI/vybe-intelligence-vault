@@ -1,27 +1,27 @@
 ---
 title: "koala73/worldmonitor"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Vite", "Tauri 2 (Rust)", "globe.gl", "deck.gl", "Three.js", "MapLibre GL", "Ollama", "Groq", "OpenRouter", "Transformers.js", "Protocol Buffers", "Redis (Upstash)", "Vercel Edge Functions", "React", "Node.js", "Python SDK", "Ruby SDK", "Go SDK"]
+category: "UI Component"
+tech_stack: ["TypeScript", "Vite", "Tauri 2 (Rust)", "globe.gl", "deck.gl", "MapLibre GL", "Ollama", "Transformers.js", "Protocol Buffers", "Redis (Upstash)", "Vercel Edge Functions", "React", "Node.js", "Python SDK", "Ruby SDK", "Go SDK"]
 quality_score: 9
-rag_relevance: 8
-tags: ["geopolitical monitoring", "real-time intelligence", "AI-powered aggregation", "situational awareness", "multi-variant dashboard"]
+rag_relevance: 7
+tags: ["geopolitical monitoring", "real-time intelligence", "AI-powered dashboard", "multi-variant deployment", "situational awareness"]
 source: "https://github.com/koala73/worldmonitor"
-discovered_at: "2026-07-05T15:14:08Z"
+discovered_at: "2026-07-05T17:06:34Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-World Monitor is a real-time global intelligence dashboard that aggregates, synthesizes, and visualizes geopolitical, financial, and infrastructure data from 500+ curated feeds into actionable situational awareness. It offers AI-powered briefs, dual map engines, and a Country Instability Index for 31 Tier-1 countries.
+World Monitor is a real-time global intelligence dashboard that aggregates, synthesizes, and visualizes geopolitical, financial, and infrastructure data into actionable insights. It combines AI-powered news aggregation, dual 3D/2D map engines, and a Country Instability Index for unified situational awareness.
 
 ## Key Features
-- 500+ curated news feeds across 15 categories with AI synthesis
-- Dual map engine (3D globe + WebGL flat map) with 56 layer types
-- Country Instability Index (CII) for 31 Tier-1 countries
-- Multi-language support (25 languages) with RTL support
-- Native desktop apps (Tauri 2) for macOS, Windows, and Linux
+- 500+ curated news feeds across 15 categories with AI synthesis into briefs
+- Dual map engine with 3D globe and WebGL flat map supporting 56 layer types
+- Country Instability Index (CII) for 31 Tier-1 countries with server-authoritative scoring
+- Cross-stream correlation for military, economic, disaster, and escalation signals
+- Native desktop app (Tauri 2) for macOS, Windows, and Linux with 6 site variants
 
 ## Why It Matters for RAG Builders
-World Monitor provides a unified, real-time intelligence layer that can enrich RAG pipelines with geopolitical, financial, and infrastructure context for more accurate and timely AI responses.
+World Monitor provides a unified interface for real-time geopolitical and financial data, enabling RAG systems to ingest and synthesize high-quality, structured intelligence for decision-making.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -39,20 +39,11 @@ Automated review identified **globe.gl** as a key module contributing to infrast
 ### deck.gl
 Automated review identified **deck.gl** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Three.js
-Automated review identified **Three.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### MapLibre GL
 Automated review identified **MapLibre GL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Ollama
 Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Groq
-Automated review identified **Groq** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### OpenRouter
-Automated review identified **OpenRouter** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Transformers.js
 Automated review identified **Transformers.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.

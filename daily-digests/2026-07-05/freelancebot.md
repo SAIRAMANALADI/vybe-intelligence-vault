@@ -1,27 +1,27 @@
 ---
 title: "orangterkucil/freelancebot"
 category: "Orchestrator"
-tech_stack: ["Next.js", "Solidity", "Groq Llama 3.3 70B", "Supabase", "Arc Blockchain", "USDC", "TypeScript", "Tailwind CSS", "Vercel Serverless Functions"]
+tech_stack: ["Next.js", "Solidity", "Groq (Llama 3.3 70B)", "Supabase", "Arc Blockchain", "USDC", "TypeScript", "Tailwind CSS", "Circle Wallets (planned)", "Vercel Serverless Functions"]
 quality_score: 9
 rag_relevance: 10
-tags: ["AI payment agent", "USDC escrow", "autonomous verification", "global freelancing", "Arc blockchain"]
+tags: ["autonomous payments", "USDC escrow", "AI verification", "freelancer marketplace", "blockchain settlements"]
 source: "https://github.com/orangterkucil/freelancebot"
-discovered_at: "2026-07-05T15:09:42Z"
+discovered_at: "2026-07-05T17:05:14Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-FreelanceBot is an autonomous AI payment agent built on Arc that enables instant USDC escrow payments for global freelancers, eliminating traditional payment delays and fees. It automates deliverable verification and payment release using a Groq-powered AI agent.
+FreelanceBot is an autonomous AI payment agent that automates escrow, verification, and payouts for global freelancers using USDC on the Arc blockchain. It eliminates traditional payment bottlenecks by enabling sub-second USDC settlements, reducing platform fees, and accelerating cash flow for freelancers.
 
 ## Key Features
-- Sub-second USDC escrow payments on Arc blockchain with 1% platform fee
-- AI agent (Groq Llama 3.3 70B) verifies deliverables and recommends payment release
-- Multi-language support for global freelancers (Indonesian, English, Tagalog, Vietnamese)
-- Structured deliverable verification with confidence scoring and reasoning
-- End-to-end workflow from job posting to payment release with refund path
+- Sub-second USDC escrow settlements on Arc blockchain with 1% platform fee
+- AI agent (Groq Llama 3.3 70B) verifies deliverables and recommends payment releases
+- Multi-language support (6+ languages) with auto-detection for seamless global use
+- On-chain smart contract (Solidity) verified and audited for security and transparency
+- End-to-end workflow: draft → fund → deliver → release with refund path for missed deadlines
 
 ## Why It Matters for RAG Builders
-FreelanceBot solves critical payment inefficiencies in global freelancing by enabling instant, low-cost USDC escrow payments with AI-driven verification, directly addressing the 400x faster cashflow and 22% higher net income for freelancers compared to traditional platforms.
+It streamlines global freelancer payments by combining AI verification with sub-second USDC settlements, reducing costs and delays while ensuring trustless escrow and automated payouts.
 
 ## Tech Stack Deep Dive
 ### Next.js
@@ -30,8 +30,8 @@ Automated review identified **Next.js** as a key module contributing to infrastr
 ### Solidity
 Automated review identified **Solidity** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Groq Llama 3.3 70B
-Automated review identified **Groq Llama 3.3 70B** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Groq (Llama 3.3 70B)
+Automated review identified **Groq (Llama 3.3 70B)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Supabase
 Automated review identified **Supabase** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -47,6 +47,9 @@ Automated review identified **TypeScript** as a key module contributing to infra
 
 ### Tailwind CSS
 Automated review identified **Tailwind CSS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Circle Wallets (planned)
+Automated review identified **Circle Wallets (planned)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Vercel Serverless Functions
 Automated review identified **Vercel Serverless Functions** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.

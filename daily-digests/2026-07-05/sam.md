@@ -1,27 +1,27 @@
 ---
 title: "richhabits/sam"
 category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "React", "Vite", "Express", "Ollama", "Embeddings", "SSE (Server-Sent Events)", "macOS Native UI"]
+tech_stack: ["TypeScript", "Node.js", "React", "Vite", "Express", "Ollama", "Groq", "Cerebras", "Mistral", "GitHub Models", "Gemini", "NVIDIA", "SSE (Server-Sent Events)", "Markdown Vault"]
 quality_score: 9
-rag_relevance: 8
-tags: ["local AI", "agent orchestration", "privacy-first", "automation", "multi-agent systems"]
+rag_relevance: 7
+tags: ["local-first", "multi-agent", "automation", "privacy-focused", "macOS"]
 source: "https://github.com/richhabits/sam"
-discovered_at: "2026-07-05T13:19:55Z"
+discovered_at: "2026-07-05T17:03:35Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-S.A.M. (Smart Artificial Mind) is a local-first AI agent framework that operates entirely on your machine, enabling teams of AI agents to perform real tasks like research, coding, and automation without requiring cloud services or API keys. It includes a native macOS app, semantic memory, and a suite of 65+ tools for system integration.
+S.A.M. (Smart Artificial Mind) is a local-first AI agent framework that operates entirely on a user's Mac, assembling teams of specialist agents to perform real-world tasks like research, coding, and automation without requiring cloud APIs or costs. It emphasizes privacy, parallel processing, and autonomous workflows.
 
 ## Key Features
-- Runs entirely offline or with free API keys (no paid tiers required)
-- Assembles specialized teams of AI agents for parallel task execution
-- 65+ integrated tools for system interaction (files, terminal, email, GitHub, etc.)
-- Semantic memory and long-running background agents with user approval gates
-- Native macOS app with global hotkey and iOS companion support
+- Assembles teams of specialist AI agents for parallel task execution
+- 65+ built-in tools for file, web, terminal, email, GitHub, and more
+- Semantic memory and semantic search for contextual recall
+- Supports 6 free AI providers with auto-rotating keys
+- Native macOS app with global hotkey and iOS companion integration
 
 ## Why It Matters for RAG Builders
-S.A.M. demonstrates how to build a fully local, multi-agent AI system with real-world tool integration, offering a privacy-preserving alternative to cloud-based solutions for automation and task execution.
+SAM enables AI engineers to build and deploy autonomous, multi-agent systems locally, reducing reliance on cloud APIs while maintaining high productivity and privacy.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -42,14 +42,29 @@ Automated review identified **Express** as a key module contributing to infrastr
 ### Ollama
 Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Embeddings
-Automated review identified **Embeddings** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Groq
+Automated review identified **Groq** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Cerebras
+Automated review identified **Cerebras** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Mistral
+Automated review identified **Mistral** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### GitHub Models
+Automated review identified **GitHub Models** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Gemini
+Automated review identified **Gemini** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### NVIDIA
+Automated review identified **NVIDIA** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### SSE (Server-Sent Events)
 Automated review identified **SSE (Server-Sent Events)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### macOS Native UI
-Automated review identified **macOS Native UI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Markdown Vault
+Automated review identified **Markdown Vault** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
