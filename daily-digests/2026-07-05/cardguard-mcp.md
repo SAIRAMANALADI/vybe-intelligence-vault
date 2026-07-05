@@ -1,43 +1,43 @@
 ---
 title: "coaxon/cardguard-mcp"
 category: "Tooling"
-tech_stack: ["MCP Protocol", "REST API", "Web3 (Base Chain)", "USDC Payments", "IP Threat Intelligence"]
+tech_stack: ["Model Context Protocol (MCP)", "Base Chain (USDC)", "x402 Micropayment Protocol", "REST API", "AI Agent Integration"]
 quality_score: 7
 rag_relevance: 8
-tags: ["fraud prevention", "IP threat intelligence", "MCP server", "real-time security", "AI agent protection"]
+tags: ["MCP Server", "Fraud Prevention", "AI Security", "Micropayments", "On-Chain Verification"]
 source: "https://github.com/coaxon/cardguard-mcp"
-discovered_at: "2026-07-05T19:12:31Z"
+discovered_at: "2026-07-05T22:00:35Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-CardGuard MCP Gateway is a security-focused MCP server that provides real-time transaction risk evaluation and IP threat intelligence to defend AI agents and e-commerce systems against Tor, VPN, and proxy attacks with sub-millisecond response times.
+CardGuard MCP Gateway is a hosted Model Context Protocol (MCP) server that provides transaction risk evaluation and IP threat filtering for AI agents. It integrates on-chain verification via Base chain USDC and offers monetization options for agent architectures.
 
 ## Key Features
-- Sub-millisecond response times for risk evaluation
-- Dual monetization paths (Web3 pay-per-call and Web2 subscription)
-- Integration with AI agent frameworks via MCP protocol
-- Defends against Tor, VPN, and proxy attacks
-- Supports sovereign on-chain verification for Web3 payments
+- Hosted MCP server for AI agents with zero local deployment complexity
+- Transaction risk evaluation combined with IP threat filtering
+- On-chain verification via Base chain USDC for secure payments
+- Two monetization tiers: pay-per-call (x402) and enterprise subscription
+- Agent Card (A2A v1.0) compatibility for standardized agent integration
 
 ## Why It Matters for RAG Builders
-CardGuard MCP Gateway provides critical security layering for AI agents and e-commerce systems by blocking fraudulent traffic in real-time, ensuring safer interactions and transactions.
+It provides a critical security and monetization layer for AI agents interacting with financial transactions, ensuring fraud prevention and seamless payment integration.
 
 ## Tech Stack Deep Dive
-### MCP Protocol
-Automated review identified **MCP Protocol** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Base Chain (USDC)
+Automated review identified **Base Chain (USDC)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### x402 Micropayment Protocol
+Automated review identified **x402 Micropayment Protocol** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### REST API
 Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Web3 (Base Chain)
-Automated review identified **Web3 (Base Chain)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### USDC Payments
-Automated review identified **USDC Payments** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### IP Threat Intelligence
-Automated review identified **IP Threat Intelligence** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### AI Agent Integration
+Automated review identified **AI Agent Integration** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

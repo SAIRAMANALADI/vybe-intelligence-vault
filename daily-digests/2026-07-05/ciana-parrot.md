@@ -1,27 +1,27 @@
 ---
 title: "yourkenike/ciana-parrot"
 category: "Agent Framework"
-tech_stack: ["Python", "Docker", "Telegram API", "Email APIs", "REST APIs"]
+tech_stack: ["Python", "Docker", "Telegram API", "Email APIs", "Web Browsers"]
 quality_score: 6
 rag_relevance: 5
-tags: ["self-hosted", "AI assistant", "task automation", "skill-based", "multi-channel"]
+tags: ["self-hosted", "AI assistant", "task automation", "multi-channel", "extensible skills"]
 source: "https://github.com/yourkenike/ciana-parrot"
-discovered_at: "2026-07-04T23:59:23Z"
+discovered_at: "2026-07-05T21:58:33Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Ciana-parrot is a self-hosted AI assistant designed to support multiple communication channels, automate tasks, and offer customizable skills for personalized automation. It enables users to extend functionality through a skill-based system and scheduled task management.
+Ciana-parrot is a self-hosted AI assistant designed to support multiple communication channels, automate tasks, and enable customizable skills for personalized automation. It offers scheduled reminders and extensible functionality through a user-friendly interface.
 
 ## Key Features
-- Supports multiple communication channels (e.g., Telegram, email)
-- Customizable skills for extending functionality
-- Scheduled task automation with reminders
-- Docker support for containerized deployment
-- Open-source with community contributions
+- Multi-channel support (Telegram, email, etc.)
+- Customizable skills and automation
+- Scheduled task management
+- Docker containerized deployment
+- Open-source contributions and community support
 
 ## Why It Matters for RAG Builders
-Ciana-parrot provides a flexible framework for building and deploying AI-driven assistants with automation capabilities, making it valuable for developers integrating AI into workflows.
+Ciana-parrot provides a flexible framework for building and deploying AI-driven assistants tailored to specific workflows, reducing reliance on proprietary solutions.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -36,8 +36,8 @@ Automated review identified **Telegram API** as a key module contributing to inf
 ### Email APIs
 Automated review identified **Email APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### REST APIs
-Automated review identified **REST APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Web Browsers
+Automated review identified **Web Browsers** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
