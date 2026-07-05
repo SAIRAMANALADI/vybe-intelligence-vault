@@ -1,46 +1,49 @@
 ---
 title: "jmo808/drawio_plugin"
 category: "Tooling"
-tech_stack: ["Node.js", "TypeScript", "MCP (Model Context Protocol)", "draw.io (mxGraph XML)", "Bash/PowerShell (installation scripts)", "JSON/YAML (configuration files)"]
-quality_score: 9
-rag_relevance: 8
-tags: ["diagram generation", "AI assistant integration", "draw.io plugin", "MCP server", "natural language to diagram"]
+tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "draw.io", "mxGraph", "Bash", "PowerShell"]
+quality_score: 8
+rag_relevance: 7
+tags: ["diagram generation", "AI integration", "draw.io", "MCP plugin", "architecture visualization"]
 source: "https://github.com/jmo808/drawio_plugin"
-discovered_at: "2026-07-05T06:43:35Z"
+discovered_at: "2026-07-05T15:13:38Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A plugin that enables AI coding assistants to generate native, fully-editable draw.io diagrams from natural language prompts, supporting multi-client integrations like Kiro, Claude, Cursor, and Copilot CLI.
+A Draw.io MCP plugin that enables AI coding assistants to generate native, fully-editable draw.io diagrams from natural language prompts. Supports multiple AI clients and ensures diagrams are built with native mxGraph XML for full editability.
 
 ## Key Features
-- Generates native draw.io XML diagrams (not Mermaid imports) for full editability
-- Multi-client support across Kiro, Claude, Cursor, Copilot CLI, and Antigravity
+- Generates native draw.io XML diagrams (not Mermaid imports) with fully editable shapes and connectors
+- Multi-client support for Kiro, Claude, Cursor, Copilot CLI, and Antigravity
 - Auto-validation of diagrams for layout collisions and formatting errors
 - Round-trip editing of existing .drawio files
-- Domain-specific diagram generation (AWS architecture, process flow, org charts)
+- Rich skill knowledge with reference docs and examples for consistent diagram quality
 
 ## Why It Matters for RAG Builders
-It bridges the gap between natural language AI and precise diagramming tools, enabling AI assistants to produce high-fidelity, editable diagrams directly in draw.io for engineering and documentation workflows.
+It bridges the gap between natural language AI prompts and high-fidelity, editable architectural diagrams, streamlining documentation and design workflows for AI-driven development.
 
 ## Tech Stack Deep Dive
+### JavaScript
+Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### Node.js
 Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### draw.io (mxGraph XML)
-Automated review identified **draw.io (mxGraph XML)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### draw.io
+Automated review identified **draw.io** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Bash/PowerShell (installation scripts)
-Automated review identified **Bash/PowerShell (installation scripts)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### mxGraph
+Automated review identified **mxGraph** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JSON/YAML (configuration files)
-Automated review identified **JSON/YAML (configuration files)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Bash
+Automated review identified **Bash** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### PowerShell
+Automated review identified **PowerShell** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
