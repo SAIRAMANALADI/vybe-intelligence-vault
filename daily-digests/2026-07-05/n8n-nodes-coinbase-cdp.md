@@ -2,26 +2,26 @@
 title: "matsadxxx/n8n-nodes-coinbase-cdp"
 category: "Tooling"
 tech_stack: ["Python", "n8n", "Coinbase CDP API", "Workflow Automation"]
-quality_score: 5
+quality_score: 4
 rag_relevance: 6
-tags: ["n8n", "Coinbase CDP", "automation", "workflow", "API integration"]
+tags: ["n8n", "Coinbase CDP", "automation", "workflow", "cryptocurrency"]
 source: "https://github.com/matsadxxx/n8n-nodes-coinbase-cdp"
-discovered_at: "2026-07-05T00:00:40Z"
+discovered_at: "2026-07-05T21:59:11Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-This repository provides n8n nodes for integrating and automating Coinbase CDP (Coinbase Developer Platform) wallet, token, and asset operations. It enables secure, open-source workflow automation for Coinbase CDP within the n8n ecosystem.
+This repository provides n8n nodes for integrating and automating Coinbase CDP wallet, token, and asset operations. It enables secure, open-source workflow automation for Coinbase's custody and digital asset management platform within n8n.
 
 ## Key Features
-- Provides n8n nodes for Coinbase CDP operations
-- Enables secure automation of wallet, token, and asset management
-- Open-source integration for workflow automation
-- Leverages Coinbase CDP API for real-time operations
-- Designed for seamless integration with n8n workflows
+- Pre-built n8n nodes for Coinbase CDP integration
+- Secure API-based interactions with Coinbase CDP
+- Enables automation of wallet, token, and asset operations
+- Open-source and extensible for custom workflows
+- Simplifies complex blockchain operations via n8n's visual interface
 
 ## Why It Matters for RAG Builders
-It simplifies the integration of Coinbase CDP into automated workflows, reducing manual effort for developers building AI or RAG systems that interact with Coinbase assets.
+It provides essential tooling for automating Coinbase CDP operations within n8n workflows, reducing manual effort for AI and RAG stack builders.
 
 ## Tech Stack Deep Dive
 ### Python
