@@ -9,9 +9,9 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-5%2C928-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-40%2C366-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
-[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--06--23-374151?style=flat-square)](#)
+[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--07-374151?style=flat-square)](#)
 
 [Overview](#-overview) · [How It Works](#-how-it-works) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [Vault Stats](#-vault-stats) · [Contributing](#-contributing)
 
@@ -197,7 +197,8 @@ score_threshold: 0.65
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-06 23:48 IST</p>
+        <p><b>Total Vault Size:</b> 40,366 files</p>
+        <p><b>Last Update:</b> 2026-07-07 00:05 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -209,12 +210,16 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- No trending items found.
+- 🔼 **[Ramanujan Graph Rewiring with Non Negative Resistance Curvature](ai/rag/arxiv-2606-21333.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[NeuroShield: A Device-Agnostic Foundation Model for EEG Authentication](ai/rag/arxiv-2606-20673.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Bellman-sufficient Information Complexity](ai/research/arxiv-2606-11171.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Onsager-Machlup Posterior Transport for Deep Gaussian Processes](ai/research/arxiv-2605-23434.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[FBOS-RL: Feedback-Driven Bi-Objective Synergistic Reinforcement Learning](ai/research/arxiv-2605-20256.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[QUALITY] - ](.github/ISSUE_TEMPLATE/quality-feedback.md)** • Score: `0`
+- No new discoveries in this run.
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
