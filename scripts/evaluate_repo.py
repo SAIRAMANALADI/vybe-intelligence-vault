@@ -324,20 +324,18 @@ def discover_mode(args):
     print(json.dumps(final_repos))
     append_event("harvester.discovered", {"repos": final_repos}, args.correlation_id)
 
-def evaluate_mode(args):
-    token = os.environ.get("GITHUB_TOKEN") or os.environ.get("VAULT_GITHUB_TOKEN")
-    repo = args.repo
+def evaluate_single_repo(repo, token, force_cloud_llm, force, correlation_id):
     if "/" not in repo:
         log(f"Invalid repository format: {repo}")
-        sys.exit(1)
+        return False
         
     owner, repo_name = repo.split("/", 1)
     safe_name = f"{owner}-{repo_name}"
     cache_file = Path(f"evaluation-{safe_name}.json")
     
-    if cache_file.exists() and not args.force:
+    if cache_file.exists() and not force:
         log(f"Cached evaluation found for {repo}. Skipping.")
-        sys.exit(0)
+        return True
         
     log(f"Evaluating repository: {repo}...")
     
@@ -345,7 +343,7 @@ def evaluate_mode(args):
     meta = github_api_request(meta_url, token=token)
     if not meta:
         log(f"Could not retrieve metadata for {repo}")
-        sys.exit(1)
+        return False
         
     stars = meta.get("stargazers_count", 0)
     language = meta.get("language", "Unknown")
@@ -419,17 +417,17 @@ def evaluate_mode(args):
     
     for attempt in range(retry_count + 1):
         try:
-            raw_text, model_used, tokens, cost = query_eval_llm(user_prompt, system_prompt, force_cloud=args.force_cloud_llm)
+            raw_text, model_used, tokens, cost = query_eval_llm(user_prompt, system_prompt, force_cloud=force_cloud_llm)
             eval_data = extract_and_validate_json(raw_text, schema)
             break
         except Exception as e:
-            log(f"Validation failed on attempt {attempt + 1}: {e}")
+            log(f"Validation failed on attempt {attempt + 1} for {repo}: {e}")
             if attempt == retry_count:
                 # Write error tracker
                 error_file = Path(f"error-{safe_name}.json")
                 error_file.write_text(json.dumps({"repo": repo, "error": str(e)}))
-                append_event("pipeline.failed", {"repo": repo, "error": str(e)}, args.correlation_id)
-                sys.exit(1)
+                append_event("pipeline.failed", {"repo": repo, "error": str(e)}, correlation_id)
+                return False
             time.sleep(15 if "429" in str(e) else 3)
             
     result = {
@@ -455,7 +453,69 @@ def evaluate_mode(args):
         "tokens": tokens,
         "cost": cost,
         "quality_score": eval_data["quality_score"]
-    }, args.correlation_id)
+    }, correlation_id)
+    return True
+
+def evaluate_mode(args):
+    token = os.environ.get("GITHUB_TOKEN") or os.environ.get("VAULT_GITHUB_TOKEN")
+    
+    if args.repo:
+        success = evaluate_single_repo(
+            repo=args.repo,
+            token=token,
+            force_cloud_llm=args.force_cloud_llm,
+            force=args.force,
+            correlation_id=args.correlation_id
+        )
+        if not success:
+            sys.exit(1)
+    else:
+        # Load from discovery-batch.json
+        batch_file = Path("discovery-batch.json")
+        if not batch_file.exists():
+            log("No repository specified and discovery-batch.json not found.")
+            sys.exit(1)
+            
+        with open(batch_file, "r", encoding="utf-8") as f:
+            repos = json.load(f)
+            
+        if not repos:
+            log("discovery-batch.json is empty. Nothing to evaluate.")
+            sys.exit(0)
+            
+        log(f"Starting batch evaluation of {len(repos)} repositories...")
+        
+        from concurrent.futures import ThreadPoolExecutor, as_completed
+        max_workers = 3  # Safe limit for GHA and Cloud APIs
+        
+        failed_repos = []
+        
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            future_to_repo = {
+                executor.submit(
+                    evaluate_single_repo,
+                    repo=repo,
+                    token=token,
+                    force_cloud_llm=args.force_cloud_llm,
+                    force=args.force,
+                    correlation_id=args.correlation_id
+                ): repo for repo in repos
+            }
+            
+            for future in as_completed(future_to_repo):
+                repo = future_to_repo[future]
+                try:
+                    success = future.result()
+                    if not success:
+                        failed_repos.append(repo)
+                except Exception as e:
+                    log(f"Exception raised while evaluating {repo}: {e}")
+                    failed_repos.append(repo)
+                    
+        if failed_repos:
+            log(f"Batch evaluation finished with {len(failed_repos)} failures: {failed_repos}")
+        else:
+            log("Batch evaluation completed successfully for all repositories.")
 
 def generate_mode(args):
     """Aggregate evaluations, generate markdown files, write report."""
@@ -655,8 +715,6 @@ def main():
     if args.mode == "discover":
         discover_mode(args)
     elif args.mode == "evaluate":
-        if not args.repo:
-            parser.error("--repo is required in evaluate mode")
         evaluate_mode(args)
     elif args.mode == "generate":
         generate_mode(args)

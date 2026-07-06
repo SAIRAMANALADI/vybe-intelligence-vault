@@ -27,105 +27,8 @@ permissions:
   actions: read
 
 jobs:
-  discover:
-    name: Stage 1 - Discover
-    runs-on: ubuntu-latest
-    outputs:
-      repos: ${{ steps.run-discover.outputs.repos }}
-      has_repos: ${{ steps.run-discover.outputs.has_repos }}
-      correlation_id: ${{ steps.gen-id.outputs.corr_id }}
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-          cache: "pip"
-
-      - name: Generate Correlation ID
-        id: gen-id
-        run: |
-          echo "corr_id=corr_$(date +%s)" >> $GITHUB_OUTPUT
-
-      - name: Run Discovery
-        id: run-discover
-        env:
-          GITHUB_TOKEN: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-        run: |
-          # Use topics from config or input filter
-          TOPICS="${{ github.event.inputs.topic_filter || 'ai-agent,mcp-server,rag-stack' }}"
-          MAX_REPOS="${{ github.event.inputs.max_repos || 50 }}"
-          python scripts/evaluate_repo.py --mode discover \
-            --topics "$TOPICS" \
-            --max-repos $MAX_REPOS \
-            --correlation-id "${{ steps.gen-id.outputs.corr_id }}"
-
-      - name: Upload Discovery Artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: discovery-batch
-          path: discovery-batch.json
-
-  evaluate:
-    name: Stage 2 - Evaluate
-    needs: discover
-    if: needs.discover.outputs.has_repos == 'true'
-    runs-on: ubuntu-latest
-    strategy:
-      max-parallel: 2
-      matrix:
-        repo: ${{ fromJSON(needs.discover.outputs.repos) }}
-      fail-fast: false
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-          cache: "pip"
-
-      - name: Install dependencies
-        run: |
-          pip install jsonschema
-
-      - name: Run LLM Evaluation
-        env:
-          GITHUB_TOKEN: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
-          LLM_PROVIDER: "mistral"
-        run: |
-          FORCE_CLOUD="${{ github.event.inputs.force_cloud_llm != 'false' }}"
-          CLOUD_ARG=""
-          if [ "$FORCE_CLOUD" = "true" ]; then
-            CLOUD_ARG="--force-cloud-llm"
-          fi
-          
-          python scripts/evaluate_repo.py --mode evaluate \
-            --repo "${{ matrix.repo }}" \
-            $CLOUD_ARG \
-            --correlation-id "${{ needs.discover.outputs.correlation_id }}"
-
-      - name: Generate Safe Artifact Name
-        id: safe-name
-        run: |
-          SAFE_NAME=$(echo "${{ matrix.repo }}" | tr '/' '-')
-          echo "artifact_name=eval-$SAFE_NAME" >> $GITHUB_OUTPUT
-
-      - name: Upload Evaluation JSON
-        uses: actions/upload-artifact@v4
-        with:
-          name: ${{ steps.safe-name.outputs.artifact_name }}
-          path: evaluation-*.json
-          if-no-files-found: ignore
-
-  commit:
-    name: Stage 3 - Commit
-    needs: [discover, evaluate]
-    if: always() && needs.discover.outputs.has_repos == 'true'
+  harvest:
+    name: Harvest, Evaluate & Commit
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -145,31 +48,76 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: "pip"
 
-      - name: Install Engine Dependencies
-        run: pip install -r engine/requirements.txt
+      - name: Install dependencies
+        run: |
+          pip install jsonschema
+          if [ -f engine/requirements.txt ]; then pip install -r engine/requirements.txt; fi
 
-      - name: Download all Evaluation Artifacts
-        uses: actions/download-artifact@v4
-        with:
-          pattern: eval-*
-          merge-multiple: true
+      - name: Generate Correlation ID
+        id: gen-id
+        run: |
+          echo "corr_id=corr_$(date +%s)" >> $GITHUB_OUTPUT
+
+      - name: Run Discovery
+        id: run-discover
+        env:
+          GITHUB_TOKEN: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          TOPICS="${{ github.event.inputs.topic_filter || 'ai-agent,mcp-server,rag-stack' }}"
+          MAX_REPOS="${{ github.event.inputs.max_repos || 50 }}"
+          python scripts/evaluate_repo.py --mode discover \
+            --topics "$TOPICS" \
+            --max-repos $MAX_REPOS \
+            --correlation-id "${{ steps.gen-id.outputs.corr_id }}"
+
+      - name: Check if repos were discovered
+        id: check-discovery
+        run: |
+          if [ -f discovery-batch.json ] && [ "$(jq 'length' discovery-batch.json 2>/dev/null)" -gt 0 ]; then
+            echo "has_repos=true" >> $GITHUB_OUTPUT
+            echo "Discovered repositories for evaluation."
+          else
+            echo "has_repos=false" >> $GITHUB_OUTPUT
+            echo "No new repositories discovered."
+          fi
+
+      - name: Run Batch LLM Evaluation
+        if: steps.check-discovery.outputs.has_repos == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+          LLM_PROVIDER: "mistral"
+        run: |
+          FORCE_CLOUD="${{ github.event.inputs.force_cloud_llm != 'false' }}"
+          CLOUD_ARG=""
+          if [ "$FORCE_CLOUD" = "true" ]; then
+            CLOUD_ARG="--force-cloud-llm"
+          fi
+          
+          python scripts/evaluate_repo.py --mode evaluate \
+            $CLOUD_ARG \
+            --correlation-id "${{ steps.gen-id.outputs.corr_id }}"
 
       - name: Configure Git Identity
+        if: steps.check-discovery.outputs.has_repos == 'true'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Generate Digest Markdown
+        if: steps.check-discovery.outputs.has_repos == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: |
           python scripts/evaluate_repo.py --mode generate \
-            --correlation-id "${{ needs.discover.outputs.correlation_id }}"
+            --correlation-id "${{ steps.gen-id.outputs.corr_id }}"
 
       - name: Update Vault Stats & README
+        if: steps.check-discovery.outputs.has_repos == 'true'
         run: |
           export PYTHONPATH=$(pwd)/engine/src
           python -c "
@@ -181,6 +129,7 @@ jobs:
           "
 
       - name: Commit & Push to Main
+        if: steps.check-discovery.outputs.has_repos == 'true'
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             git add daily-digests/ vault-core/ README.md stats/ status/ trends/ reports/ change-log/
@@ -191,26 +140,14 @@ jobs:
             echo "No changes harvested."
           fi
 
-  rebuild:
-    name: Stage 4 - Rebuild
-    needs: [discover, commit]
-    if: always() && needs.discover.outputs.has_repos == 'true'
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          fetch-depth: 0
-
       - name: Wait for Rebuild Index Workflow Completion
+        if: steps.check-discovery.outputs.has_repos == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
         run: |
           echo "Waiting 25 seconds for push workflow to register..."
           sleep 25
           
-          # Poll the GitHub API to wait for the latest Rebuild Vault Index run
           for i in {1..30}; do
             RUNS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
               "https://api.github.com/repos/${{ github.repository }}/actions/workflows/rebuild-index.yml/runs?branch=main")
@@ -225,13 +162,13 @@ jobs:
           done
 
       - name: Pull Rebuilt Assets
+        if: steps.check-discovery.outputs.has_repos == 'true'
         run: |
           git pull origin main
 
       - name: Verify Index Upgrade and Generate Pipeline Report
+        if: steps.check-discovery.outputs.has_repos == 'true'
         run: |
-          # Verify nodes and update system_health metrics
-          # Compile pipeline report JSON
           echo "Compiling pipeline-report.json..."
           cat <<EOF > pipeline-report.json
           {
@@ -243,15 +180,15 @@ jobs:
           }
           EOF
           
-          # Append event
           node -e "
             const fs = require('fs');
             const state = require('./scripts/state-manager');
             const report = JSON.parse(fs.readFileSync('pipeline-report.json', 'utf8'));
-            state.appendEvent('pipeline.completed', report, '${{ needs.discover.outputs.correlation_id }}');
+            state.appendEvent('pipeline.completed', report, '${{ steps.gen-id.outputs.corr_id }}');
           "
 
       - name: Commit Observability Updates
+        if: steps.check-discovery.outputs.has_repos == 'true'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -261,6 +198,7 @@ jobs:
           git push origin main || echo "No push required"
 
       - name: Upload Pipeline Report Artifact
+        if: steps.check-discovery.outputs.has_repos == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: pipeline-report
