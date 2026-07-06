@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 40,728 files</p>
-        <p><b>Last Update:</b> 2026-07-07 01:21 IST</p>
+        <p><b>Last Update:</b> 2026-07-07 02:58 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,29 +210,22 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Contact us | ICO](ai/resources/contact-us-ico.md)** • Rank: <kbd>+1701</kbd>
-- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+1546</kbd>
-- 🔼 **[GitHub Status](ai/rag/github-status.md)** • Rank: <kbd>+30</kbd>
-- 🔼 **[Hugging Face · GitHub](ai/agents/hugging-face-github.md)** • Rank: <kbd>+35</kbd>
-- 🔼 **[Gradio](ai/rag/gradio.md)** • Rank: <kbd>+3036</kbd>
+- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+5</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+5</kbd>
+- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+5</kbd>
+- 🔼 **[Medium](ai/rag/medium.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Real-time map of Great Britain's rail network](ai/community/real-time-map-of-great-britain-s-rail-network.md)** • Score: `340`
-- 🆕 **[AMD Ryzen AI Halo – $4k AI Dev Kit](ai/community/amd-ryzen-ai-halo-4k-ai-dev-kit.md)** • Score: `182`
-- 🆕 **[Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario](ai/community/big-tech-has-suddenly-flipped-on-the-ai-jobs-wipeo.md)** • Score: `71`
-- 🆕 **[OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files](ai/community/iofficeai-officecli.md)** • Score: `40`
-- 🆕 **[Age appropriate design | ICO](ai/resources/age-appropriate-design-ico.md)** • Score: `0`
+- 🆕 **[Company AI Now Summit 2026 Innovations for global enterprises solving the world’s hardest problems. May 28, 2026 Mistral](ai/companies/mistral/ai-now-summit-2026.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[OpenAI unveils its first custom chip, built by Broadcom](ai/community/openai-unveils-its-first-custom-chip-built-by-broa.md)**
-- 💤 **[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](ai/community/anthropic-says-alibaba-illicitly-extracted-claude.md)**
-- 💤 **[Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors](ai/community/ford-ai-hiccups-push-carmaker-to-rehire-gray-beard.md)**
-- 💤 **[GLM-5.2 is a step change for open agents](ai/community/glm-5-2-is-a-step-change-for-open-agents.md)**
-- 💤 **[Apple raises prices of MacBooks, iPads](ai/community/apple-raises-prices-of-macbooks-ipads.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

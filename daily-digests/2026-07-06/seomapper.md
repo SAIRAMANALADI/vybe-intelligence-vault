@@ -1,27 +1,27 @@
 ---
 title: "KevinMKiarie/seomapper"
 category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Headless Chromium", "Claude API", "Gemini API", "OpenAI API", "MCP (Model Context Protocol)"]
+tech_stack: ["TypeScript", "Node.js", "Headless Chromium", "MCP (Model Context Protocol)", "Claude/Gemini/OpenAI APIs"]
 quality_score: 8
-rag_relevance: 7
-tags: ["SEO audit", "AI-enhanced", "CLI tool", "MCP server", "CI integration"]
+rag_relevance: 6
+tags: ["SEO audit", "AI-enhanced", "CLI tool", "AEO (AI Engine Optimization)", "MCP server"]
 source: "https://github.com/KevinMKiarie/seomapper"
-discovered_at: "2026-07-06T19:49:39Z"
+discovered_at: "2026-07-06T21:26:16Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-seomapper is a CLI tool that performs SEO and AEO audits on any website, providing detailed rule-based checks, scoring, and AI-powered fix suggestions. It supports static sites, SPAs, and major frameworks while offering CI integration and MCP server capabilities for AI editors.
+seomapper is a CLI tool that performs SEO and AEO audits on any website, providing detailed rule-based checks, scoring, and AI-powered fix suggestions. It supports static sites, SPAs, and frameworks like Next.js or Nuxt, with outputs in CLI, JSON, or HTML formats.
 
 ## Key Features
-- Crawls live websites and checks 51 SEO/AEO rules across every page
-- Scores pages 0–100 with weighted deductions for SEO impact
-- Provides AI-powered explanations and copy-pasteable code fixes via Claude, Gemini, or OpenAI
-- Supports interactive setup, real-time monitoring, and MCP server mode for AI editors
-- Offers multiple output formats (CLI, JSON, HTML) and CI/CD integration with threshold-based failure
+- Crawls live websites and checks 51 SEO/AEO rules per page with a 0-100 scoring system
+- Provides AI-generated explanations and copy-pasteable code fixes for issues
+- Supports interactive setup, scheduled scans, and MCP server mode for AI editors
+- Outputs results in CLI, JSON, or HTML formats with CI/CD integration support
+- Optimized for large sites with streaming budget and hard limits to manage memory usage
 
 ## Why It Matters for RAG Builders
-It automates SEO audits with AI-driven insights, enabling RAG builders to ensure content is optimized for search and AI-driven discovery.
+It streamlines SEO and AEO audits with actionable insights, reducing manual effort for RAG/AI stack builders who need to ensure content is optimized for search and AI engines.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -33,17 +33,11 @@ Automated review identified **Node.js** as a key module contributing to infrastr
 ### Headless Chromium
 Automated review identified **Headless Chromium** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Claude API
-Automated review identified **Claude API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Gemini API
-Automated review identified **Gemini API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### OpenAI API
-Automated review identified **OpenAI API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Claude/Gemini/OpenAI APIs
+Automated review identified **Claude/Gemini/OpenAI APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -2,6 +2,20 @@
 
 This file tracks all chronological shifts, score changes, tier promotions, and deactivations.
 
+### Run: 2026-07-07T02:58:21.437581+05:30
+- **[New Discovery]** `Company AI Now Summit 2026 Innovations for global enterprises solving the world’s hardest problems. May 28, 2026 Mistral` registered with score `0` in `ai/companies/mistral`
+- **[New Discovery]** `[BROKEN LINK] - ` registered with score `0` in ``
+- **[Rank Rise]** `neuml/txtai`: Rank rose by +5
+- **[Rank Rise]** `infiniflow/ragflow`: Rank rose by +5
+- **[Rank Rise]** `The Medium Blog`: Rank rose by +5
+- **[Rank Rise]** `Medium`: Rank rose by +3
+- **[Rank Rise]** `Medium Terms of Service | by Medium | Medium Policy`: Rank rose by +2
+- **[Rank Drop]** `Medium Status`: Rank dropped by -3
+- **[Rank Drop]** `Medium Rules | by Medium | Medium Policy`: Rank dropped by -3
+- **[Rank Drop]** `Medium Help Center`: Rank dropped by -4
+- **[Rank Drop]** `Medium - Apps on Google Play`: Rank dropped by -5
+- **[Rank Drop]** `Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify`: Rank dropped by -5
+
 ### Run: 2026-07-07T01:21:10.521970+05:30
 - **[New Discovery]** `Real-time map of Great Britain's rail network` registered with score `340` in `ai/community`
 - **[New Discovery]** `AMD Ryzen AI Halo – $4k AI Dev Kit` registered with score `182` in `ai/community`
