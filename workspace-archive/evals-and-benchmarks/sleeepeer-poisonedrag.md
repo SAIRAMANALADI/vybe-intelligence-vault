@@ -6,20 +6,21 @@ source_url: https://github.com/sleeepeer/PoisonedRAG
 resource_id: github:sleeepeer/poisonedrag
 local_vault_path: ai/rag/sleeepeer-poisonedrag.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - benchmark
 - github-repo
 - hackernews
+- models
 - python
 - rag
 - reddit
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # sleeepeer/PoisonedRAG
@@ -27,17 +28,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 81 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting adversarial documents into the retrieval corpus, manipulating LLM outputs without direct model access.
+- **Attack Methodology**: Introduces *PoisonedRAG*, a novel attack vector corrupting Retrieval-Augmented Generation (RAG) systems by injecting adversarial knowledge into the retrieval corpus, causing LLMs to generate manipulated outputs without altering model weights.
 
-- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines by embedding poisoned documents with carefully crafted content to trigger specific, misleading retrievals, causing the LLM to generate targeted false or biase
+- **Technical Impact**: Demonstrates that poisoned documents (e.g., adversarial passages) can mislead RAG pipelines into retrieving and prioritizing malicious content, leading to incorrect or harmful responses while maintaining hi
 
 ## Use Cases
 

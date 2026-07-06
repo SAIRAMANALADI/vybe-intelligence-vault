@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/awesome-opencode/awesome-opencode
-collected_at: '2026-06-25T16:39:35.071140+05:30'
-published_at: '2026-06-25T10:00:22Z'
+collected_at: '2026-07-07T04:12:52.050701+05:30'
+published_at: '2026-07-06T21:34:58Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - javascript
 - rag
-stars: 8325
+stars: 8669
 language: JavaScript
 status: active
 license: CC0-1.0
 archived: false
 created_at: '2025-09-22T00:01:14Z'
-pushed_at: '2026-06-25T02:41:07Z'
+pushed_at: '2026-07-03T14:10:38Z'
 resource_id: github:awesome-opencode/awesome-opencode
-first_seen: '2026-06-25T16:39:35.071140+05:30'
-last_seen: '2026-06-25T16:39:35.071140+05:30'
-last_checked: '2026-06-25T16:39:35.071140+05:30'
+first_seen: '2026-07-07T04:12:52.050701+05:30'
+last_seen: '2026-07-07T04:12:52.050701+05:30'
+last_checked: '2026-07-07T04:12:52.050701+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Centralized collection of plugins, themes, agents, projects, and tools specifically for [opencode.ai](https://opencode.ai), maintained as an open-source repository.
+- **Curated Resource Hub**: Aggregates plugins, themes, agents, projects, and tools specifically for [opencode.ai](https://opencode.ai), structured as a community-driven repository.
 - **Technical Stack**: Primarily implemented in JavaScript, leveraging modern web technologies for extensibility and integration.
-- **Active Maintenance**: Last updated on **2026-06-25**, indicating ongoing updates and community-driven development with **8,325 stars** and **591 forks**.
+- **Active Maintenance**: Last updated July 6, 2026, with 8,669 stars and 619 forks, indicating sustained community engagement and contributions.
 
 ## Why It Matters
 
@@ -41,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: awesome-opencode
-- Stars: 8325
-- Forks: 591
+- Stars: 8669
+- Forks: 619
 - Language: JavaScript
 - Topics: None
-- Last Updated: 2026-06-25T10:00:22Z
+- Last Updated: 2026-07-06T21:34:58Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2025-09-22T00:01:14Z
-- Pushed At: 2026-06-25T02:41:07Z
+- Pushed At: 2026-07-03T14:10:38Z
 
 ## Possible Use Cases
 

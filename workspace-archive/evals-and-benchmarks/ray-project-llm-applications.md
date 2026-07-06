@@ -6,20 +6,22 @@ source_url: https://github.com/ray-project/llm-applications
 resource_id: github:ray-project/llm-applications
 local_vault_path: ai/rag/ray-project-llm-applications.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
-resource_kind: benchmark
-importance: high
+archive_score: 77
+archive_tier: useful
+resource_kind: framework
+importance: medium
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
 - openai
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # ray-project/llm-applications
@@ -27,17 +29,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **RAG Implementation**: Provides production-ready guidance for building Retrieval-Augmented Generation (RAG) applications using LLMs, with integration examples for OpenAI and Anyscale APIs.
-- **Ray Integration**: Leverages Ray for distributed serving, fine-tuning, and scalable LLM deployment, with notebooks demonstrating efficient resource utilization.
-- **Model Support**: Includes examples for fine-tuning Llama2 and deploying models via Ray Serve, with modular components for customization.
+- **RAG Pipeline Implementation**: Provides production-grade examples for Retrieval-Augmented Generation (RAG) workflows, integrating vector databases, LLM inference, and serving layers using Ray for distributed computing.
+
+- **Multi-LLM Framework Support**: Demonstrates integration with Llama2, OpenAI, and Anyscale endpoints, including fine-tuning and inference optimization techniques for heterogeneous model architectures.
+
+- **Deployment & Scalability**: Includes Jupyter Notebooks for end-to-e
 
 ## Use Cases
 

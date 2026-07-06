@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/aisearch-openai-rag-audio
-collected_at: '2026-07-07T00:47:39.875667+05:30'
+collected_at: '2026-07-07T04:10:51.946973+05:30'
 published_at: '2026-07-04T20:00:39Z'
 tags:
 - github-repo
+- hackernews
 - models
 - openai
 - python
 - rag
-- workflows
 stars: 558
 language: Python
 status: active
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-09-19T22:36:40Z'
 pushed_at: '2025-11-19T20:13:53Z'
 resource_id: github:azure-samples/aisearch-openai-rag-audio
-first_seen: '2026-07-07T00:47:39.875667+05:30'
-last_seen: '2026-07-07T00:47:39.875667+05:30'
-last_checked: '2026-07-07T00:47:39.875667+05:30'
+first_seen: '2026-07-07T04:10:51.946973+05:30'
+last_seen: '2026-07-07T04:10:51.946973+05:30'
+last_checked: '2026-07-07T04:10:51.946973+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates the VoiceRAG pattern using Azure AI Search for vector retrieval and Azure OpenAI's `gpt-4o-realtime-preview` model for real-time voice-based generative AI interactions.
-
-- **Architecture**: Combines RAG (Retrieval-Augmented Generation) with audio processing to enable interactive voice experiences, leveraging Python for integration.
-
-- **Azure Services**: Utilizes Azure AI Search (vector database) and Azure OpenAI for scalable, end-to-end generative AI workflows with audio input/output.
+- **Implementation**: Demonstrates the VoiceRAG pattern using Azure AI Search for retrieval and Azure OpenAI's `gpt-4o-realtime-preview` model for interactive voice generative AI experiences.
+- **Architecture**: Combines RAG (Retrieval-Augmented Generation) with Azure services to enable real-time, voice-based AI interactions.
+- **Technical Stack**: Python-based, leveraging Azure AI Search (vector database), OpenAI models, and AZD templates for deployment.
 
 ## Why It Matters
 

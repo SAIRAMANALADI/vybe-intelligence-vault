@@ -21,11 +21,11 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 
 https://github.com/huggingface/datasets (Hugging Face Datasets)
 - [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
-- [FudanDNN-NLP/RAG](https://github.com/FudanDNN-NLP/RAG)
-- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
+- [modelscope/evalscope](https://github.com/modelscope/evalscope)
 - [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench)
 - [facebookresearch/CRAG](https://github.com/facebookresearch/CRAG)
-- [IBM/mt-rag-benchmark](https://github.com/IBM/mt-rag-benchmark)
+- [IAAR-Shanghai/CRUD_RAG](https://github.com/IAAR-Shanghai/CRUD_RAG)
+- [DEEP-PolyU/LinearRAG](https://github.com/DEEP-PolyU/LinearRAG)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-07-07 01:02 IST*
+*Last updated: 2026-07-07 04:26 IST*

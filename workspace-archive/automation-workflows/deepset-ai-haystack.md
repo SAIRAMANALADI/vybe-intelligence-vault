@@ -1,8 +1,8 @@
 ---
-title: deepset-ai/haystack
+title: deepset-ai/haystack · Discussions · GitHub
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack
+source_url: https://github.com/deepset-ai/haystack/discussions
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
@@ -12,19 +12,16 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- github-repo
-- hackernews
-- mdx
-- models
-- openai
+- anthropic
 - rag
+- web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# deepset-ai/haystack
+# deepset-ai/haystack · Discussions · GitHub
 
 ## Why This Is In The Archive
 
@@ -37,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Orchestration**: Enables building production-grade LLM applications via configurable pipelines with explicit control over retrieval, routing, memory, and generation components.
-
-- **Multi-Use Case Support**: Designed for scalable agents, RAG, multimodal systems, semantic search, and conversational AI with native integration for transformers and PyTorch.
-
-- **Technical Stack**: Python-based framework leveraging modern NLP/LLM tools (e.g., GPT-4, Gemini) and optimized for orchestrat
+- **Haystack** is an open-source framework by **deepset-ai** for building **RAG (Retrieval-Augmented Generation)** pipelines, with **25.8k+ stars** and **2.9k+ forks** on GitHub.
+- **Key features** include modular pipeline design, support for **DoclingConverter** for document processing, and **runtime debugging tools** like the **Haystack Diagnostics Engine** for RAG pipeline validation.
+- **Active development** includes discussions on **agent security** (e.g., **AgentShield**, **Agent Memory Gu
 
 ## Use Cases
 
@@ -51,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack
+Original source URL: https://github.com/deepset-ai/haystack/discussions
 
 ## Local Vault File
 

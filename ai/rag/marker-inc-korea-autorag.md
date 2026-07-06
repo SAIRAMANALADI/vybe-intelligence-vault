@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-07-07T00:47:24.894506+05:30'
-published_at: '2026-07-06T18:08:21Z'
+collected_at: '2026-07-07T04:10:41.907587+05:30'
+published_at: '2026-07-06T21:12:36Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - scripts
-- workflows
-stars: 4860
+stars: 4861
 language: Python
 status: active
 license: Apache-2.0
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-07-02T03:46:39Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-07-07T00:47:24.894506+05:30'
-last_seen: '2026-07-07T00:47:24.894506+05:30'
-last_checked: '2026-07-07T00:47:24.894506+05:30'
+first_seen: '2026-07-07T04:10:41.907587+05:30'
+last_seen: '2026-07-07T04:10:41.907587+05:30'
+last_checked: '2026-07-07T04:10:41.907587+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-*   Automated RAG system evaluation and optimization framework, employing an AutoML-style approach for pipeline tuning.
-*   Integrates components for document parsing, embedding generation, and LLM orchestration within the RAG workflow.
-*   Provides LLM-Ops capabilities for benchmarking, performance analysis, and iterative improvement of RAG architectures.
+- **AutoML-Style RAG Optimization**: AutoRAG automates Retrieval-Augmented Generation (RAG) pipelines using AutoML techniques, optimizing retrieval, generation, and evaluation components without manual tuning.
+
+- **Comprehensive RAG Evaluation**: Provides built-in benchmarks and metrics for assessing RAG systems, including document parsing, embedding quality, retrieval performance, and LLM response accuracy.
+
+- **Modular Python Framework**: Open-source toolkit with modular components for document parsing, embedding generation, retrieval strategies, and LLM integration, supporting end-to-end RAG pipeline automation.
 
 ## Why It Matters
 
@@ -42,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Marker-Inc-Korea
-- Stars: 4860
+- Stars: 4861
 - Forks: 406
 - Language: Python
 - Topics: analysis, automl, benchmarking, document-parser, embeddings, evaluation, llm, llm-evaluation, llm-ops, open-source, ops, optimization, pipeline, python, qa, rag, rag-evaluation, retrieval-augmented-generation
-- Last Updated: 2026-07-06T18:08:21Z
+- Last Updated: 2026-07-06T21:12:36Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-01-10T12:25:00Z

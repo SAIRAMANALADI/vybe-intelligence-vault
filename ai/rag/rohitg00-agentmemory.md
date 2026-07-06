@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/rohitg00/agentmemory
-collected_at: '2026-07-07T00:49:44.939948+05:30'
-published_at: '2026-07-06T19:04:59Z'
+collected_at: '2026-07-07T04:12:57.045463+05:30'
+published_at: '2026-07-06T22:30:04Z'
 tags:
 - agents
 - anthropic
@@ -13,8 +13,7 @@ tags:
 - github-repo
 - rag
 - typescript
-- workflows
-stars: 24684
+stars: 24694
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-02-25T07:32:52Z'
 pushed_at: '2026-07-06T06:13:34Z'
 resource_id: github:rohitg00/agentmemory
-first_seen: '2026-07-07T00:49:44.939948+05:30'
-last_seen: '2026-07-07T00:49:44.939948+05:30'
-last_checked: '2026-07-07T00:49:44.939948+05:30'
+first_seen: '2026-07-07T04:12:57.045463+05:30'
+last_seen: '2026-07-07T04:12:57.045463+05:30'
+last_checked: '2026-07-07T04:12:57.045463+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Persistent Memory System**: Provides long-term storage and retrieval for AI coding agents, optimized for real-world benchmark performance and seamless integration with development workflows.
+- **Persistent Memory System**: Provides long-term contextual storage for AI coding agents, optimized for real-world benchmarks to enhance performance and continuity.
 
-- **TypeScript Implementation**: Built entirely in TypeScript, offering type safety and scalability for agent-based memory management in AI-driven coding environments.
+- **TypeScript Implementation**: Built in TypeScript, ensuring type safety and scalability for integration with AI-driven development tools.
 
-- **Benchmark-Driven Optimization**: Designed to enhance agent efficiency and accuracy based on rigorous real-world benchmarks, supporting tools like Claude, Cursor, and Copilot.
+- **Multi-Tool Compatibility**: Supports frameworks like ClaudeCode, Codex, Copilot, and Cursor, enabling seamless memory integration across diverse AI coding environments.
 
 ## Why It Matters
 
@@ -45,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: rohitg00
-- Stars: 24684
-- Forks: 2033
+- Stars: 24694
+- Forks: 2034
 - Language: TypeScript
 - Topics: agentmemory, agents, ai, claude, claudecode, codex, copilot, cursor, genai, harness, hermes, memory, openclaw
-- Last Updated: 2026-07-06T19:04:59Z
+- Last Updated: 2026-07-06T22:30:04Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-02-25T07:32:52Z

@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-07-07T00:48:35.060840+05:30'
+collected_at: '2026-07-07T04:11:46.988266+05:30'
 published_at: '2026-07-06T10:13:21Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-07-07T00:48:35.060840+05:30'
-last_seen: '2026-07-07T00:48:35.060840+05:30'
-last_checked: '2026-07-07T00:48:35.060840+05:30'
+first_seen: '2026-07-07T04:11:46.988266+05:30'
+last_seen: '2026-07-07T04:11:46.988266+05:30'
+last_checked: '2026-07-07T04:11:46.988266+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) operate hierarchically within a graph-structured knowledge base to enhance complex reasoning tasks.
 
-- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Integrates graph-based retrieval with large language models (LLMs) to dynamically extract and synthesize structured knowledge, improving factual accuracy and interpretability in multi-hop reasoning scenarios.
+- **Graph Retrieval-Augmented Architecture**: Integrates graph neural networks (GNNs) with retrieval-augmented generation (RAG) to dynamically extract and synthesize subgraphs for context-aware LLM reasoning, improving factual grounding and interpretability.
 
-- **Optimized Python Implementation**: Provides a scalable, modular codebase with efficient graph operations (e.g., dynamic subgraph extraction, agent coordination) and supports integration with existing RAG pipelines for real-world deployment.
+- **ICLR 2026 Contribution**: Proposes a novel vertical unification strategy for agents, optimizing cross-agent collaboration via graph-based memory and adaptive retrieval, achieving state-of-the-art performance on complex reasoning benchmarks.
 
 ## Why It Matters
 

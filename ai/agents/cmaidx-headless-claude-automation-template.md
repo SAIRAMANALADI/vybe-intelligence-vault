@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cmAIdx/headless-claude-automation-template
-collected_at: '2026-07-07T00:50:19.944193+05:30'
+collected_at: '2026-07-07T04:13:32.029509+05:30'
 published_at: '2026-04-02T22:38:06Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - scripts
 - shell
 - workflows
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-02-28T19:33:02Z'
 pushed_at: '2026-03-02T03:11:44Z'
 resource_id: github:cmaidx/headless-claude-automation-template
-first_seen: '2026-07-07T00:50:19.944193+05:30'
-last_seen: '2026-07-07T00:50:19.944193+05:30'
-last_checked: '2026-07-07T00:50:19.944193+05:30'
+first_seen: '2026-07-07T04:13:32.029509+05:30'
+last_seen: '2026-07-07T04:13:32.029509+05:30'
+last_checked: '2026-07-07T04:13:32.029509+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Enables autonomous software delivery via headless Claude agents, converting requirements documents into pull requests for CI/CD pipelines.
-
-- **Key Components**: Integrates GitHub Actions, multi-agent orchestration, and Linear for issue tracking; supports headless execution of Claude Code.
-
-- **Tech Stack**: Shell-based automation with AI-agent orchestration, designed for autonomous coding workflows.
+- **Template Purpose**: Enables autonomous software delivery via headless Claude agents, converting requirements documents into reviewed pull requests.
+- **Key Components**: Integrates CI/CD pipelines, multi-agent orchestration, and GitHub Actions for automated PR generation and review.
+- **Technical Stack**: Shell-based implementation with support for Claude Code, Linear integration, and multi-agent workflows.
 
 ## Why It Matters
 

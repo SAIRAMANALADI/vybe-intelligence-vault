@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-07-07T00:48:14.868329+05:30'
+collected_at: '2026-07-07T04:11:26.949002+05:30'
 published_at: '2026-07-05T03:35:59Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - python
 - rag
 - scripts
-- workflows
 stars: 251
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-06-18T03:28:29Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-07-07T00:48:14.868329+05:30'
-last_seen: '2026-07-07T00:48:14.868329+05:30'
-last_checked: '2026-07-07T00:48:14.868329+05:30'
+first_seen: '2026-07-07T04:11:26.949002+05:30'
+last_seen: '2026-07-07T04:11:26.949002+05:30'
+last_checked: '2026-07-07T04:11:26.949002+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Implements a skill-based autonomous Security Operations Center (SOC) agent in Python, designed for real-time monitoring of OpenSearch/Elasticsearch data streams.
-- **RAG-Based Memory & Anomaly Validation**: Utilizes Retrieval-Augmented Generation (RAG) to build behavioral memory and employs LLMs to validate and detect anomalies in real-time.
-- **Threat Detection & Automation**: Integrates threat detection and hunting capabilities, automating SOC operations with modular components for scalable cybersecurity workflows.
+- **Modular SOC Agent**: Python-based autonomous SOC agent with skill-based architecture for monitoring OpenSearch/Elasticsearch data, integrating RAG for behavioral memory, and LLM-driven anomaly validation in real-time.
+
+- **Threat Detection Pipeline**: Combines retrieval-augmented generation (RAG) for contextual memory with LLM-based validation to identify and triage anomalies, enabling proactive threat hunting and SOC automation.
+
+- **Deployment & Integration**: Supports OpenSearch/Elasticsearch data sources, modular skill expansion, and autonomous operation for SOC environments, with active development tracked via GitHub (251 stars, last updated July 2026).
 
 ## Why It Matters
 

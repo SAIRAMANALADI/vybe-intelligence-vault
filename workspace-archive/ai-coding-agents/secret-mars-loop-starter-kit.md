@@ -13,8 +13,8 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - unknown
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Structure**: Autonomous agent loop template with a 10-phase perpetual cycle, designed for self-updating prompts and based on 166+ production cycles.
-
-- **Repository Status**: Fork-ready template with 0 stars and 20 forks, last updated on 2026-04-15.
-
-- **Technical Details**: Language unspecified; no topics listed.
+- **Template Structure**: Autonomous agent loop template with a 10-phase perpetual cycle, featuring self-updating prompts and based on 166+ production cycles for AIBTC.
+- **Fork-Ready Design**: Repository is fork-ready, optimized for immediate deployment and customization in autonomous agent workflows.
+- **Metadata**: Last updated on 2026-04-15, with 20 forks and no stars or listed topics. Language unspecified.
 
 ## Use Cases
 

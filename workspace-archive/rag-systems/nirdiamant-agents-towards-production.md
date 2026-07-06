@@ -13,9 +13,9 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Tutorials**: End-to-end, code-first guides for building production-grade GenAI agents, covering prototyping to enterprise deployment with a focus on practical implementation.
+- **End-to-end GenAI agent development**: Provides code-first tutorials covering prototype-to-production workflows for building production-grade GenAI agents, leveraging frameworks like LangGraph and MCP.
 
-- **Key Technologies**: Utilizes frameworks/tools like LangGraph, MCP, and Python, with support for multi-agent systems, RAG, MLOps, and observability for scalable AI agent development.
+- **Multi-agent systems & MLOps integration**: Focuses on multi-agent architectures, RAG pipelines, and enterprise deployment strategies with observability and scalability in mind.
 
-- **Educational Resource**: Open-source repository with Jupyter Notebooks, covering topics such as agent frameworks, LL
+- **Python/Jupyter Notebook-based**: Repository contains executable Jupyter Notebooks demonstrating agentic AI s
 
 ## Use Cases
 

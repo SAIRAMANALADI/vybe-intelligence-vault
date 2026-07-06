@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/coree/awesome-rag
-collected_at: '2026-07-07T00:47:54.838051+05:30'
+collected_at: '2026-07-07T04:11:11.878472+05:30'
 published_at: '2026-07-03T01:44:41Z'
 tags:
-- dataset
+- benchmark
 - github-repo
 - hackernews
-- models
 - paper
 - rag
 - unknown
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-02-10T12:01:04Z'
 pushed_at: '2025-12-01T08:45:44Z'
 resource_id: github:coree/awesome-rag
-first_seen: '2026-07-07T00:47:54.838051+05:30'
-last_seen: '2026-07-07T00:47:54.838051+05:30'
-last_checked: '2026-07-07T00:47:54.838051+05:30'
+first_seen: '2026-07-07T04:11:11.878472+05:30'
+last_seen: '2026-07-07T04:11:11.878472+05:30'
+last_checked: '2026-07-07T04:11:11.878472+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: A comprehensive collection of tools, frameworks, datasets, and research papers focused on retrieval-augmented generation (RAG) in large language models (LLMs), including embeddings, retrieval systems, and model architectures.
-
-- **Technical Scope**: Covers core RAG components such as retrieval mechanisms, vector databases, fine-tuning techniques, and integration strategies for enhancing LLMs with external knowledge sources.
-
-- **Community-Driven Maintenance**: Actively updated repository (last commit: 2026-07-03) with 428 stars and 50 forks, reflecting ongoing contributions from the AI/ML community.
+- **Curated RAG Resources**: A comprehensive collection of tools, frameworks, libraries, and research papers focused on retrieval-augmented generation (RAG) for large language models (LLMs).
+- **Technical Scope**: Covers embeddings, retrieval systems, and RAG model architectures, including implementations and benchmarks for optimizing LLM performance via external knowledge retrieval.
+- **Community-Driven**: Actively maintained with 428 stars and 50 forks, last updated July 2026, ensuring up-to-date references for cutting-edge RAG advancements.
 
 ## Why It Matters
 

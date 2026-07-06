@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-07-07T00:46:59.313360+05:30'
-collected_at: '2026-07-07T00:46:59.313377+05:30'
+published_at: '2026-07-07T04:10:10.921316+05:30'
+collected_at: '2026-07-07T04:10:10.921326+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-07-07T00:46:59.313377+05:30'
-last_seen: '2026-07-07T00:46:59.313377+05:30'
-last_checked: '2026-07-07T00:46:59.313377+05:30'
+first_seen: '2026-07-07T04:10:10.921326+05:30'
+last_seen: '2026-07-07T04:10:10.921326+05:30'
+last_checked: '2026-07-07T04:10:10.921326+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Overview & Evolution**: RAG (Retrieval-Augmented Generation) integrates retrieval, augmentation, and generation to address LLM limitations (freshness, private knowledge, hallucinations). It evolved from Naive RAG (basic vector search) to Advanced RAG (hybrid retrieval, reranking, query transformation) to Modular RAG (routing, looping, tool integration) and Graph RAG (entity-relation graph-based retrieval for multi-hop reasoning).
+- **RAG Evolution & Generations**: RAG evolved from *Naive RAG* (basic vector search + LLM generation) to *Advanced RAG* (hybrid retrieval, reranking, query transformation) and *Graph RAG* (entity-relation graph traversal for multi-hop reasoning), addressing limitations in freshness, private knowledge, and hallucinations.
 
-- **Core RAG Components & Techniques**: Naive RAG uses chunking, embeddings, and similarity search; Advanced RAG adds hybrid retrieval (dense + sparse), query rewriting, reranking, and contextual compression; Graph RAG leverages entity/relation extraction and graph traversal for relational reasoning, while Modular RAG enables dynamic routing and tool integration.
+- **Core RAG Pipeline**: Standard RAG follows a 5-step process: chunking → embedding → similarity search (top-k retrieval) → augmentation (injecting retrieved docs into LLM context) → generation (LLM produces grounded answer with citations).
 
-- **Implementation & Operational Considerations**: RAG systems require careful evaluation (metrics, production checklists), environment setup (vector DBs like Chroma/Pinecone, HuggingFace embeddings), and trade-offs between modularity, scalability, and operational complexity (e.g., Graph RAG’s graph construction overhead vs. Naive RAG’s simplicity).
+- **Graph RAG Mechanics**: Graph RAG extracts *(entity, relation, entity)* triples from documents, stores them in a graph DB, and traverses relationships at query time for complex reasoning, outperforming chunk-based methods in relational domains but requiring higher setup complexity.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T00:46:59.313360+05:30
+- Published: 2026-07-07T04:10:10.921316+05:30
 
 ## Related Tags
 

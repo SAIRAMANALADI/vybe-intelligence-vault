@@ -20,7 +20,6 @@ tags:
 - models
 - openai
 - python
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -37,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Monitoring & Analytics SDK**: Python SDK providing real-time monitoring, LLM cost tracking (per-token/per-call), and performance benchmarking for AI agents across frameworks (CrewAI, LangChain, AutoGen, etc.).
+- **Python SDK** for monitoring AI agents, tracking LLM costs, and benchmarking, compatible with frameworks like CrewAI, LangChain, Autogen, and OpenAI Agents SDK.
 
-- **Multi-LLM & Framework Integration**: Supports 10+ LLM providers (OpenAI, Anthropic, Mistral, Groq, Ollama) and agent frameworks (OpenAI Agents SDK, AG2, CamelAI), enabling unified observability.
+- **Integrates** with major LLMs (OpenAI, Anthropic, Mistral, Groq, Ollama) and agent frameworks, enabling unified observability and evaluation metrics.
 
-- **Evaluation & Optimization Tools**: Includes built-in evaluation metrics (evals),
+- **Features** cost estimation, evaluation metrics, and real-time monitoring, last updated July 2026 with 5,682 stars and 604 forks.
 
 ## Use Cases
 

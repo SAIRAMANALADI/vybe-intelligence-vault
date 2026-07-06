@@ -7,7 +7,7 @@ source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
 local_vault_path: ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md
 quality_score: 70
-archive_score: 76
+archive_score: 72
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -32,7 +32,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Overview & Evolution**: RAG (Retrieval-Augmented Generation) integrates retrieval, augmentation, and generation to address LLM limitations (freshness, private knowledge, hallucinations). It evolved from Naive RAG (basic vector search) to Advanced RAG (hybrid retrieval, reranking, query transformation) to Modular RAG (routing, looping, tool integration) and Graph RAG (entity-relation graph-based retrieval for multi-hop reasoning).
+- **RAG Evolution & Generations**: RAG evolved from *Naive RAG* (basic vector search + LLM generation) to *Advanced RAG* (hybrid retrieval, reranking, query transformation) and *Graph RAG* (entity-relation graph traversal for multi-hop reasoning), addressing limitations in freshness, private knowledge, and hallucinations.
 
-- **Core RAG Components & Techniques**: Naive RAG uses ch
+- **Core RAG Pipeline**: Standard RAG follows a 5-step process: chunking → embedding → similarity search (top-k retrieval) → augmentation (injecting retrieved docs into LLM co
 
 ## Use Cases
 

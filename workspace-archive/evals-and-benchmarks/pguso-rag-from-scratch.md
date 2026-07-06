@@ -18,6 +18,7 @@ tags:
 - meta-ai
 - models
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -36,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational RAG Implementation**: Provides a step-by-step, from-scratch JavaScript-based RAG pipeline using local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies, covering embeddings, vector search, retrieval, and context-augmented generation.
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box dependencies, focusing on embeddings, vector search, retrieval, and context-augmented generation.
 
-- **Technical Stack**: Leverages Node.js with `node-llama-cpp` for local LLM inference, emphasizing transparency in RAG components (embedding models, vector databases, and retrieval mechanisms).
+- **Technical Stack**: Built in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference and vector operations for efficient retrieval and generation.
 
-- **Purpose**: Aims to demystify RAG ar
+- **Purpose**: Serves as a hands-on tutorial to demystify RAG pipelines, c
 
 ## Use Cases
 

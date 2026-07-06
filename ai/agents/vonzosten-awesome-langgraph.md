@@ -4,14 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vonzosten/awesome-LangGraph
-collected_at: '2026-07-07T00:50:39.952077+05:30'
+collected_at: '2026-07-07T04:13:52.052687+05:30'
 published_at: '2026-07-06T11:55:13Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
-- workflows
 stars: 1891
 language: JavaScript
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-11-02T15:54:00Z'
 pushed_at: '2026-05-20T14:55:08Z'
 resource_id: github:vonzosten/awesome-langgraph
-first_seen: '2026-07-07T00:50:39.952077+05:30'
-last_seen: '2026-07-07T00:50:39.952077+05:30'
-last_checked: '2026-07-07T00:50:39.952077+05:30'
+first_seen: '2026-07-07T04:13:52.052687+05:30'
+last_seen: '2026-07-07T04:13:52.052687+05:30'
+last_checked: '2026-07-07T04:13:52.052687+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Ecosystem Index**: Comprehensive repository aggregating LangChain and LangGraph resources, including concepts, projects, tools, templates, and guides for building LLM and multi-agent applications.
-
-- **Technical Scope**: Focuses on JavaScript-based implementations, covering AI workflows, agent orchestration, and LLM integrations with structured categorization for rapid discovery.
-
-- **Active Maintenance**: Last updated July 2026, ensuring relevance with ongoing contributions (1,891 stars, 230 forks) to the LangGraph ecosystem.
+- **Ecosystem Index**: Curated collection of resources for LangChain and LangGraph, covering concepts, projects, tools, templates, and guides for building LLM and multi-agent applications.
+- **Metadata**: 1,891 stars, 230 forks, JavaScript-based repository, last updated July 6, 2026.
+- **Topics**: Focuses on AI, LangChain, LangGraph, LLM agents, and related tooling.
 
 ## Why It Matters
 

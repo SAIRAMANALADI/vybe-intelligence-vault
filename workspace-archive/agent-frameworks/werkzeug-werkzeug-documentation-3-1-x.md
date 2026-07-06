@@ -8,7 +8,7 @@ local_vault_path: ai/agents/werkzeug-werkzeug-documentation-3-1-x.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: template
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -24,17 +24,15 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: template
+- Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **WSGI-compliant utility library**: Werkzeug is a modular WSGI web application library providing low-level utilities for request/response handling, routing, and middleware without enforcing dependencies on template engines or databases.
+- **WSGI Utility Library**: Werkzeug is a zero-dependency WSGI-compliant web application library providing low-level utilities for request/response handling, routing, and WSGI environment manipulation without enforcing architectural constraints.
 
-- **Core components**: Includes request/response wrappers, URL routing (with rule-based dispatching), HTTP utilities (header parsing, cookies, form data), and WSGI helpers (environment manipulation, streaming responses).
-
-- **Deployment & debugging**: Supports
+- **Modular Architecture**: Implements core components like `Request`/`Response` wrappers, URL routing with rule-based dispatching, HTTP utilities (headers, cookies, form parsing), and middleware (e.g., proxy fixes, profiling) while supporting extensibi
 
 ## Use Cases
 

@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-40%2C728-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-40%2C918-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--07-374151?style=flat-square)](#)
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 8,357</p>
-        <p><b>Active:</b> 8,145 | <b>Inactive:</b> 212</p>
+        <p><b>Resources tracked:</b> 8,395</p>
+        <p><b>Active:</b> 8,183 | <b>Inactive:</b> 212</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 32,371</p>
+        <p><b>Archive Files:</b> 32,523</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 40,728 files</p>
-        <p><b>Last Update:</b> 2026-07-07 02:58 IST</p>
+        <p><b>Total Vault Size:</b> 40,918 files</p>
+        <p><b>Last Update:</b> 2026-07-07 04:26 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,22 +210,25 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+5</kbd>
-- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+5</kbd>
-- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+5</kbd>
-- 🔼 **[Medium](ai/rag/medium.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[AMD Ryzen AI Halo – $4k AI Dev Kit](ai/community/amd-ryzen-ai-halo-4k-ai-dev-kit.md)** • <kbd>+68 pts</kbd>
+- 🔼 **[OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files](ai/community/iofficeai-officecli.md)** • <kbd>+56 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Real-time map of Great Britain's rail network](ai/community/real-time-map-of-great-britain-s-rail-network.md)** • <kbd>+30 pts</kbd>
+- 🔼 **[The Exclusive Home of NFL Sunday Ticket - YouTube & YouTube TV](ai/rag/the-exclusive-home-of-nfl-sunday-ticket-youtube-yo.md)** • Rank: <kbd>+763</kbd>
+- 🔼 **[pallets/werkzeug](ai/resources/pallets-werkzeug.md)** • Rank: <kbd>+440</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Company AI Now Summit 2026 Innovations for global enterprises solving the world’s hardest problems. May 28, 2026 Mistral](ai/companies/mistral/ai-now-summit-2026.md)** • Score: `0`
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Pruning RAG context down to what the answer actually needs](ai/community/pruning-rag-context-down-to-what-the-answer-actual.md)** • Score: `23`
+- 🆕 **[GLM 5.2 and the coming AI margin collapse](ai/community/glm-5-2-and-the-coming-ai-margin-collapse.md)** • Score: `19`
+- 🆕 **[AI: The ROI Runway Could Be Long Outside the Tech Sector](ai/community/ai-the-roi-runway-could-be-long-outside-the-tech-s.md)** • Score: `15`
+- 🆕 **[Companies hire more after AI adoption](ai/community/companies-hire-more-after-ai-adoption.md)** • Score: `12`
+- 🆕 **[Taiganet.com, Home of the WS4000 Simulator](ai/community/taiganet-com-home-of-the-ws4000-simulator.md)** • Score: `7`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario](ai/community/big-tech-has-suddenly-flipped-on-the-ai-jobs-wipeo.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

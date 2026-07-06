@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **MemGraphRAG Framework**: Introduces a memory-based multi-agent system designed for Graph Retrieval-Augmented Generation (GraphRAG), leveraging agent-memory, ontology, and graph construction for enhanced knowledge retrieval and generation.
+- **Memory-based Multi-Agent System**: Introduces a novel framework (MemGraphRAG) leveraging memory mechanisms in multi-agent architectures to enhance Graph Retrieval-Augmented Generation (GraphRAG) for KDD 2026.
 
-- **Multi-Agent Architecture**: Implements a collaborative multi-agent system where agents dynamically construct and query a knowledge graph, enabling efficient retrieval and synthesis of structured information for downstream tasks.
+- **Graph & Ontology Construction**: Implements dynamic graph construction and ontology integration to improve contextual retrieval and reasoning in RAG systems, optimizing knowledge graph utilization.
 
-- **Ontology-Driven Gr
+- **Python Implementation**: Provides an open-source Python-based repository with m
 
 ## Use Cases
 

@@ -2,7 +2,7 @@
 title: Home - The GitHub Blog
 archive_category: automation-workflows
 source_category: ai/resources
-source_url: https://github.blog
+source_url: https://github.blog/
 resource_id: blog:home-the-github-blog
 local_vault_path: ai/resources/home-the-github-blog.md
 quality_score: 70
@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - reddit
+- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -32,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Alert Volume & Scope**: GitHub processed over **20,000 secret scanning alerts** across **15,000 repositories**, necessitating a structured triage and remediation strategy.
-
-- **Signal-to-Noise Optimization**: Implemented **automated workflows** to filter false positives and prioritize high-risk secrets, reducing manual review overhead.
-
-- **9-Month Resolution**: Achieved **inbox zero** by deploying **scalable remediation pipelines**, integrating secret scanning into CI/CD, and enforcing poli
+- **High-volume alert management**: GitHub processed **20,000+ secret scanning alerts** across **15,000 repositories**, requiring automated triage to distinguish critical signals from noise.
+- **Automated remediation workflows**: Implemented structured **signal-to-noise separation** and **remediation pipelines**, reducing manual review overhead and accelerating resolution.
+- **Operational efficiency**: Achieved **inbox zero** in **9 months** by optimizing alert prioritization, workflow automatio
 
 ## Use Cases
 
@@ -46,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.blog
+Original source URL: https://github.blog/
 
 ## Local Vault File
 

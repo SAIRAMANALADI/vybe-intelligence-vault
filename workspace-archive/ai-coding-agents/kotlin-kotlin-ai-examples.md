@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - openai
 selection_reason:
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Kotlin-based examples integrating AI frameworks (Spring AI, LangChain4j) with Jupyter Notebooks for interactive learning.
-- **Technical Scope**: Demonstrates AI inference, agent-based systems, and OpenAI integration in Kotlin.
-- **Metadata**: 265 stars, 32 forks, last updated July 2, 2026.
+- **Multi-framework AI examples**: Repository showcases Kotlin implementations using Spring AI, LangChain4j, and other AI frameworks for inference and agent-based applications.
+- **Interactive Kotlin notebooks**: Includes Jupyter Notebooks for hands-on learning and experimentation with AI models (e.g., OpenAI integrations).
+- **Active development**: Last updated in 2026, with 265 stars and 32 forks, emphasizing modern AI/Kotlin integration.
 
 ## Use Cases
 

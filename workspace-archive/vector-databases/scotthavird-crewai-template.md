@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Dockerized Scaffolding**: Provides a minimal, production-ready Docker Compose setup for CrewAI projects, pre-configured with essential dependencies and best practices for rapid deployment.
-- **Python-Based Framework**: Built in Python, leveraging CrewAI’s agent orchestration capabilities with a structured template for streamlined project initialization.
-- **Last Updated**: Repository was last modified on **April 29, 2026**, ensuring recent compatibility with CrewAI’s latest features.
+- **Dockerized Scaffolding**: Provides a minimal, pre-configured Docker Compose setup for rapid CrewAI project deployment, including essential services and dependencies.
+- **Python-Based**: Entirely implemented in Python, leveraging CrewAI’s framework for agent orchestration and task execution.
+- **Pre-Built Best Practices**: Includes standardized configuration files and project structure to ensure scalability and maintainability from initialization.
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-07-07T00:48:39.905971+05:30'
+collected_at: '2026-07-07T04:11:51.981096+05:30'
 published_at: '2026-07-06T14:45:41Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-07-07T00:48:39.905971+05:30'
-last_seen: '2026-07-07T00:48:39.905971+05:30'
-last_checked: '2026-07-07T00:48:39.905971+05:30'
+first_seen: '2026-07-07T04:11:51.981096+05:30'
+last_seen: '2026-07-07T04:11:51.981096+05:30'
+last_checked: '2026-07-07T04:11:51.981096+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **MemGraphRAG Framework**: Introduces a memory-based multi-agent system designed for Graph Retrieval-Augmented Generation (GraphRAG), leveraging agent-memory, ontology, and graph construction for enhanced knowledge retrieval and generation.
+- **Memory-based Multi-Agent System**: Introduces a novel framework (MemGraphRAG) leveraging memory mechanisms in multi-agent architectures to enhance Graph Retrieval-Augmented Generation (GraphRAG) for KDD 2026.
 
-- **Multi-Agent Architecture**: Implements a collaborative multi-agent system where agents dynamically construct and query a knowledge graph, enabling efficient retrieval and synthesis of structured information for downstream tasks.
+- **Graph & Ontology Construction**: Implements dynamic graph construction and ontology integration to improve contextual retrieval and reasoning in RAG systems, optimizing knowledge graph utilization.
 
-- **Ontology-Driven Graph Construction**: Utilizes ontology-based graph construction to ensure semantic consistency and scalability, facilitating accurate and context-aware retrieval in RAG pipelines.
+- **Python Implementation**: Provides an open-source Python-based repository with modular components for agent-memory, graphrag, and ontology-driven multi-agent collaboration.
 
 ## Why It Matters
 

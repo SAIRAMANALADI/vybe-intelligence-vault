@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- Curated list of production-grade RAG tools, frameworks, and best practices for scalable deployment
-- Covers Python-based solutions including LangChain, embeddings, vector databases, and LLMops workflows
-- Integrates AI engineering, MLOps, and generative AI topics with last update in July 2026
+- **Curated Resources**: Repository provides a structured, community-vetted collection of production-grade tools, frameworks, and best practices for building scalable RAG systems, including embeddings, vector databases, and LLM orchestration libraries (e.g., LangChain).
+
+- **MLOps & AI Engineering Focus**: Emphasizes production-hardened solutions for RAG pipelines, covering MLOps, LLMOps, and deployment strategies for large language models (LLMs) in enterprise environments.
+
+- **Python-Centric &
 
 ## Use Cases
 

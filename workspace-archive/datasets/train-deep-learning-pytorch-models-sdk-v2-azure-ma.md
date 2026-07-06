@@ -18,6 +18,7 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **PyTorch Model Training & Deployment**: Azure Machine Learning (AML) enables scalable training, hyperparameter tuning, and deployment of PyTorch models using the Python SDK v2, leveraging elastic cloud compute resources for distributed training and production-grade model management.
+- **PyTorch Model Training & Deployment**: Utilizes Azure Machine Learning Python SDK v2 to train, hyperparameter tune, and deploy PyTorch models at scale using elastic cloud compute resources, supporting both custom and transfer learning workflows.
 
-- **Compute & Environment Setup**: AML supports GPU-accelerated compute clusters (e.g., `Standard_NC4as_T4_v3`) and curated PyTorch environments (e.g., `AzureML-acpt-pytorch-2.8-cuda12.6@latest`) for efficient tr
+- **Compute & Environment Setup**: Requires Azure subscription, Python 3.10+, and leverages `DefaultAzureCredential` for workspace authentication; provisions GPU compute clusters (e.g., `STANDARD_NC4AS_T4_V3`) and curated environments (e.g., `AzureM
 
 ## Use Cases
 

@@ -15,9 +15,7 @@ tags:
 - github-repo
 - paper
 - rag
-- scripts
 - unknown
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated AI Agents Repository**: A comprehensive, community-driven collection of AI agents, frameworks, libraries, and tools for autonomous task execution, multi-agent systems, and agentic AI research.
+- **Curated Collection**: A highly organized, community-driven repository of AI agent frameworks, tools, libraries, and research papers, designed to centralize resources for AI agent development and deployment.
 
-- **Multi-Topic Coverage**: Encompasses agents for web browsing, code generation, research automation, gaming, robotics, and enterprise workflows, with links to research papers, tutorials, and open-source implementations.
+- **Multi-Domain Coverage**: Encompasses agents for reinforcement learning, autonomous systems, multi-agent systems, and LLM-based agents, with links to GitHub repositories, research papers, and documentation.
 
-- **High Activity & Maintenance**: Actively updated (last commit: 2026-
+- **Continuous Updates**: Actively maintained with the latest contributions a
 
 ## Use Cases
 

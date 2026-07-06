@@ -5,17 +5,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY
-published_at: '2026-07-07T00:46:58.151037+05:30'
-collected_at: '2026-07-07T00:46:58.151049+05:30'
+published_at: '2026-07-07T04:10:11.488099+05:30'
+collected_at: '2026-07-07T04:10:11.488108+05:30'
 tags:
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:complete-rag-tutorial-2025-build-ai-apps-with-retr
-first_seen: '2026-07-07T00:46:58.151049+05:30'
-last_seen: '2026-07-07T00:46:58.151049+05:30'
-last_checked: '2026-07-07T00:46:58.151049+05:30'
+first_seen: '2026-07-07T04:10:11.488108+05:30'
+last_seen: '2026-07-07T04:10:11.488108+05:30'
+last_checked: '2026-07-07T04:10:11.488108+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- YouTube operates under Google LLC, adhering to corporate policies, privacy standards, and safety guidelines outlined in their respective documentation.
-- The platform provides APIs and developer tools via [Google Developers](https://developers.google.com/youtube) for integration, analytics, and customization.
-- YouTube monetization, content policies, and platform mechanics are detailed in the [Creators](https://www.youtube.com/creators/) and [How YouTube Works](https://www.youtube.com/howyoutubeworks) resources.
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization, and creator tools.
+- **Developer & API Access**: Provides APIs and documentation via [developers.google.com/youtube](https://developers.google.com/youtube) for third-party integration and platform functionality.
+- **Policy & Compliance**: Enforces terms of service, privacy policies, and safety guidelines via [YouTube's Policy Center](https://www.youtube.com/about/policies/).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T00:46:58.151037+05:30
+- Published: 2026-07-07T04:10:11.488099+05:30
 
 ## Related Tags
 

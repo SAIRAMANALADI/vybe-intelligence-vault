@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-07-07T00:47:09.795152+05:30'
+collected_at: '2026-07-07T04:10:21.875157+05:30'
 published_at: '2026-07-04T22:50:26Z'
 tags:
 - agents
@@ -14,6 +14,7 @@ tags:
 - meta-ai
 - models
 - rag
+- workflows
 stars: 1472
 language: JavaScript
 status: active
@@ -22,9 +23,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-07-07T00:47:09.795152+05:30'
-last_seen: '2026-07-07T00:47:09.795152+05:30'
-last_checked: '2026-07-07T00:47:09.795152+05:30'
+first_seen: '2026-07-07T04:10:21.875157+05:30'
+last_seen: '2026-07-07T04:10:21.875157+05:30'
+last_checked: '2026-07-07T04:10:21.875157+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Provides a step-by-step, from-scratch JavaScript-based RAG pipeline using local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies, covering embeddings, vector search, retrieval, and context-augmented generation.
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box dependencies, focusing on embeddings, vector search, retrieval, and context-augmented generation.
 
-- **Technical Stack**: Leverages Node.js with `node-llama-cpp` for local LLM inference, emphasizing transparency in RAG components (embedding models, vector databases, and retrieval mechanisms).
+- **Technical Stack**: Built in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference and vector operations for efficient retrieval and generation.
 
-- **Purpose**: Aims to demystify RAG architecture for developers, offering a hands-on tutorial for building custom RAG chatbots or agents without proprietary abstractions.
+- **Purpose**: Serves as a hands-on tutorial to demystify RAG pipelines, covering agents, AI workflows, and chatbot implementation without proprietary abstractions.
 
 ## Why It Matters
 

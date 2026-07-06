@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-07T00:48:34.929927+05:30'
+collected_at: '2026-07-07T04:11:46.995273+05:30'
 published_at: '2026-07-06T02:04:16Z'
 tags:
-- benchmark
 - dataset
 - github-repo
 - python
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-07T00:48:34.929927+05:30'
-last_seen: '2026-07-07T00:48:34.929927+05:30'
-last_checked: '2026-07-07T00:48:34.929927+05:30'
+first_seen: '2026-07-07T04:11:46.995273+05:30'
+last_seen: '2026-07-07T04:11:46.995273+05:30'
+last_checked: '2026-07-07T04:11:46.995273+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing LLM performance by reducing computational overhead while maintaining high retrieval accuracy.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing LLM performance via graph-based indexing and retrieval mechanisms.
 
-- **Graph-Based Retrieval Mechanism**: Introduces a linear graph traversal algorithm to dynamically construct retrieval paths, enabling scalable and low-latency access to relevant context for LLMs without traditional hierarchical graph complexities.
+- **Scalability & Efficiency**: Implements linear-time graph algorithms to handle massive datasets, reducing retrieval latency while maintaining high accuracy in knowledge-augmented generation tasks.
 
-- **Performance Benchmarks**: Demonstrates state-of-the-art results on ICLR 2026 benchmarks, achieving up to 3.2x faster retrieval speeds and 15% higher accuracy compared to conventional RAG methods on large-scale datasets.
+- **Python Implementation**: Provides an open-source Python library with modular components for graph construction, retrieval, and integration with LLMs, supporting extensibility for custom corpora and retrieval strategies.
 
 ## Why It Matters
 

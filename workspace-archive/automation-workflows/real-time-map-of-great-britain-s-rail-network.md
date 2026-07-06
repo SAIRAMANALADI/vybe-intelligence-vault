@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by scrlk. Score: 340, Comments: 127.
+Hacker News story by scrlk. Score: 370, Comments: 137.
 Original Link: https://www.map.signalbox.io
 
 ## Use Cases

@@ -4,11 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-07T00:47:34.885865+05:30'
+collected_at: '2026-07-07T04:10:46.959595+05:30'
 published_at: '2026-06-30T01:41:05Z'
 tags:
-- benchmark
+- frontend_ui
 - github-repo
+- meta-ai
+- models
 - openai
 - python
 - rag
@@ -21,9 +23,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-07T00:47:34.885865+05:30'
-last_seen: '2026-07-07T00:47:34.885865+05:30'
-last_checked: '2026-07-07T00:47:34.885865+05:30'
+first_seen: '2026-07-07T04:10:46.959595+05:30'
+last_seen: '2026-07-07T04:10:46.959595+05:30'
+last_checked: '2026-07-07T04:10:46.959595+05:30'
 health_score: 100
 ---
 
@@ -31,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a Streamlit app integrating LangChain with a vector store (e.g., FAISS or Chroma) for retrieval-augmented generation (RAG), combining dense and sparse retrieval methods (e.g., BM25 + embeddings) for enhanced document search.
+- **Hybrid RAG Pipeline**: Implements LangChain with a vector store (e.g., FAISS/Chroma) and hybrid search (combining dense + sparse retrieval) for enhanced document retrieval and generation.
 
-- **Modular LangChain Components**: Utilizes LangChain’s `RetrievalQA` or `ConversationalRetrievalChain` with a custom retriever (e.g., `HybridRetriever`) to fetch context from the vector store and feed it to an LLM (e.g., OpenAI, HuggingFace) for answer generation.
+- **Streamlit Frontend**: Provides a reactive UI for querying and visualizing RAG results, leveraging Streamlit’s components for interactive data display.
 
-- **Streamlit UI for RAG Workflow**: Provides a frontend with Streamlit to input queries, display retrieved documents, and stream LLM responses, with optional features like chat history, source citation, and interactive feedback for evaluation.
+- **Modular Architecture**: Uses LangChain’s `RetrievalQA` chain with customizable retrievers, embeddings (e.g., OpenAI/ HuggingFace), and LLM integration (e.g., Llama2) for scalable RAG workflows.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PacktPublishing/LLM-Engineers-Handbook
-collected_at: '2026-07-07T00:47:44.826863+05:30'
+collected_at: '2026-07-07T04:10:56.925350+05:30'
 published_at: '2026-07-06T17:42:04Z'
 tags:
 - benchmark
@@ -13,7 +13,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 stars: 5151
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-04-09T10:56:03Z'
 pushed_at: '2026-04-22T08:25:03Z'
 resource_id: github:packtpublishing/llm-engineers-handbook
-first_seen: '2026-07-07T00:47:44.826863+05:30'
-last_seen: '2026-07-07T00:47:44.826863+05:30'
-last_checked: '2026-07-07T00:47:44.826863+05:30'
+first_seen: '2026-07-07T04:10:56.925350+05:30'
+last_seen: '2026-07-07T04:10:56.925350+05:30'
+last_checked: '2026-07-07T04:10:56.925350+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive LLM Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-grade systems.
-- **Technical Focus Areas**: Includes fine-tuning LLMs, evaluation frameworks, MLOps/ML system design, and GenAI-specific optimizations for AWS environments.
-- **Hands-on Implementation**: Provides Python-based codebase for deploying and managing LLM/RAG workflows with AWS-native tooling and LLMOps methodologies.
+- **Comprehensive LLM Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable ML system design.
+
+- **Technical Focus**: Includes fine-tuning LLMs, evaluation frameworks, and MLOps pipelines, with Python-based implementations for GenAI applications.
+
+- **AWS-Centric**: Demonstrates deployment strategies and infrastructure optimization for LLM/RAG systems using AWS services.
 
 ## Why It Matters
 
@@ -44,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: PacktPublishing
 - Stars: 5151
-- Forks: 1240
+- Forks: 1239
 - Language: Python
 - Topics: aws, fine-tuning-llm, genai, llm, llm-evaluation, llmops, ml-system-design, mlops, rag
 - Last Updated: 2026-07-06T17:42:04Z

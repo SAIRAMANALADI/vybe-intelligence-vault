@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-07-07T00:47:04.779083+05:30'
+collected_at: '2026-07-07T04:10:16.843797+05:30'
 published_at: '2026-07-05T07:09:22Z'
 tags:
 - github-repo
-- openai
 - python
 - rag
 stars: 971
@@ -18,9 +17,9 @@ archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-07-07T00:47:04.779083+05:30'
-last_seen: '2026-07-07T00:47:04.779083+05:30'
-last_checked: '2026-07-07T00:47:04.779083+05:30'
+first_seen: '2026-07-07T04:10:16.843797+05:30'
+last_seen: '2026-07-07T04:10:16.843797+05:30'
+last_checked: '2026-07-07T04:10:16.843797+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with LLM generation.
-- **Python-Based**: Entirely written in Python, leveraging LangChain’s modular framework for LLM orchestration and vector stores (e.g., FAISS or Chroma) for document indexing.
-- **Modular Structure**: Includes components for document loading (e.g., PyPDFLoader), embedding (e.g., HuggingFace embeddings), and retrieval-augmented generation with a chosen LLM (e.g., OpenAI or local models).
+- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
+- **Python-Based**: Entirely written in Python, leveraging LangChain’s modular framework for LLM orchestration and vector storage (e.g., FAISS or Chroma).
+- **Tutorial Focus**: Provides a step-by-step guide for building a RAG system, including document loading, embedding, retrieval, and prompt augmentation.
 
 ## Why It Matters
 

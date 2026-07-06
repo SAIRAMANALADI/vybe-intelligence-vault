@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-07T00:48:34.862472+05:30'
+collected_at: '2026-07-07T04:11:46.947086+05:30'
 published_at: '2026-07-05T11:30:42Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-07T00:48:34.862472+05:30'
-last_seen: '2026-07-07T00:48:34.862472+05:30'
-last_checked: '2026-07-07T00:48:34.862472+05:30'
+first_seen: '2026-07-07T04:11:46.947086+05:30'
+last_seen: '2026-07-07T04:11:46.947086+05:30'
+last_checked: '2026-07-07T04:11:46.947086+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive memory structures, enabling stateful long narrative reasoning.
+- **Cognitive Architecture**: Introduces a memory-organized RAG framework mimicking human cognitive processes for stateful long narrative reasoning, leveraging structured memory hierarchies for context retention.
 
-- **Stateful Long Narrative Reasoning**: Implements dynamic memory organization to maintain context coherence over extended interactions, enhancing reasoning capabilities in long-form narratives.
+- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain coherent reasoning across extended dialogues or narratives, addressing context fragmentation in traditional RAG systems.
 
-- **AAAI 2026 Poster Submission**: Presented as a cutting-edge approach in AI reasoning, with an open-source Python implementation available for research and development.
+- **AAAI 2026 Poster**: Presented as a novel approach in long-form reasoning, with open-source Python implementation (`ComoRAG`) demonstrating scalability and adaptability for complex reasoning tasks.
 
 ## Why It Matters
 

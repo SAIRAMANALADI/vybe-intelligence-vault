@@ -2,22 +2,19 @@
 title: Google Colab
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
+source_url: https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/27_First_RAG_Pipeline.ipynb
 resource_id: blog:google-colab
 local_vault_path: ai/rag/google-colab.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
-- benchmark
-- models
 - rag
 - web-crawled
-- workflows
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Google Colab
@@ -26,17 +23,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **LoRA Tuning**: The document outlines the process of fine-tuning Gemma models using Low-Rank Adaptation (LoRA), a parameter-efficient transfer learning method that freezes pre-trained weights and injects trainable low-rank matrices into transformer layers.
+- **Google Colab Access**: Requires authentication via Google accounts to access the hosted Jupyter notebook environment for running tutorials.
 
-- **Implementation Details**: Includes code snippets for applying LoRA to Gemma's attention layers (e.g., `LoRALinear` class), with configurable rank (`r`), alpha (`lora_alpha`), and dropout (`lora_dropout`) hyperparameters.
+- **Haystack Tutorials Repository**: Hosted on GitHub under `deepset-ai/haystack-tutorials`, containing interactive notebooks like `27_First_RAG_Pipeline.ipynb`.
 
-- **Training
+- **RAG Pipeline Tutorial**: Focuses on implementing a Retrieval-Augmented Generation (RAG) pipeline using Haystack, a framework for NLP question answering and document search.
 
 ## Use Cases
 
@@ -46,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
+Original source URL: https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/27_First_RAG_Pipeline.ipynb
 
 ## Local Vault File
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow
-collected_at: '2026-07-07T00:46:54.863419+05:30'
+collected_at: '2026-07-07T04:10:07.042132+05:30'
 published_at: '2025-01-08T02:26:14Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-12-13T09:04:53Z'
 pushed_at: '2025-01-08T02:26:12Z'
 resource_id: github:icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow
-first_seen: '2026-07-07T00:46:54.863419+05:30'
-last_seen: '2026-07-07T00:46:54.863419+05:30'
-last_checked: '2026-07-07T00:46:54.863419+05:30'
+first_seen: '2026-07-07T04:10:07.042132+05:30'
+last_seen: '2026-07-07T04:10:07.042132+05:30'
+last_checked: '2026-07-07T04:10:07.042132+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow` (Python-based, last updated 2025-01-08).
-- **Metrics**: 101 forks, 0 stars, no topics tagged.
-- **Purpose**: GitHub Classroom assignment template for RAG (Retrieval-Augmented Generation) workflow implementation.
+- **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow` (Python-based)
+- **Metadata**: 101 forks, 0 stars, last updated 2025-01-08T02:26:14Z
+- **Purpose**: GitHub Classroom assignment template for RAG (Retrieval-Augmented Generation) workflow implementation
 
 ## Why It Matters
 

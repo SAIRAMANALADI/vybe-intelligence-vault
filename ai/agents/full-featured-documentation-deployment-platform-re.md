@@ -3,17 +3,18 @@ title: Full featured documentation deployment platform - Read the Docs
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://about.readthedocs.com/
-published_at: '2026-06-25T20:50:15.498290+05:30'
-collected_at: '2026-06-25T20:50:15.498305+05:30'
+source_url: https://readthedocs.org
+published_at: '2026-07-07T04:14:23.184212+05:30'
+collected_at: '2026-07-07T04:14:23.184226+05:30'
 tags:
 - agents
 - web-crawled
+- workflows
 status: active
 resource_id: blog:full-featured-documentation-deployment-platform-re
-first_seen: '2026-06-25T20:50:15.498305+05:30'
-last_seen: '2026-06-25T20:50:15.498305+05:30'
-last_checked: '2026-06-25T20:50:15.498305+05:30'
+first_seen: '2026-07-07T04:14:23.184226+05:30'
+last_seen: '2026-07-07T04:14:23.184226+05:30'
+last_checked: '2026-07-07T04:14:23.184226+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code for Documentation**: Automates builds, previews, and deployments for docs via Git repositories using `.readthedocs.yaml` config, supporting tools like Sphinx, MkDocs, and Docusaurus without manual pipeline management.
+- **Infrastructure-as-a-Service for Documentation**: Automates builds, previews, authentication, and versioning for docs-as-code workflows, integrating with Git providers (GitHub/GitLab/Bitbucket) and supporting tools like Sphinx, MkDocs, and Docusaurus.
 
-- **PR-Based Review & Versioning**: Generates live preview builds for pull requests with visual diffs against production, and supports versioned documentation synchronized with product releases via branches/tags.
+- **PR Preview & Regression Detection**: Generates live preview builds for pull requests with visual diffs against production, enabling pre-merge review of rendered documentation (not raw markup).
 
-- **Access Control & AI Readiness**: Offers SSO integration (GitHub/GitLab) for permission management and supports AI tools via `llms.txt`, Markdown negotiation, and agent skills for LLM compatibility.
+- **Enterprise Features**: Offers SSO (GitHub/GitLab), private repo support (paid plans), and AI agent integration (llms.txt, Markdown negotiation) for scalable, secure, and AI-ready documentation hosting.
 
 ## Why It Matters
 
@@ -35,13 +36,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-25T20:50:15.498290+05:30
+- Published: 2026-07-07T04:14:23.184212+05:30
 
 ## Related Tags
 
 - agents
 - web-crawled
+- workflows
 
 ## Source
 
-Original source: https://about.readthedocs.com/
+Original source: https://readthedocs.org

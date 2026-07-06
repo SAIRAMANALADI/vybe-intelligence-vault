@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-07T00:48:14.830431+05:30'
+collected_at: '2026-07-07T04:11:26.952107+05:30'
 published_at: '2026-07-05T07:03:45Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
+- models
 - python
 - rag
 - reddit
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-07T00:48:14.830431+05:30'
-last_seen: '2026-07-07T00:48:14.830431+05:30'
-last_checked: '2026-07-07T00:48:14.830431+05:30'
+first_seen: '2026-07-07T04:11:26.952107+05:30'
+last_seen: '2026-07-07T04:11:26.952107+05:30'
+last_checked: '2026-07-07T04:11:26.952107+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting adversarial documents into the retrieval corpus, manipulating LLM outputs without direct model access.
+- **Attack Methodology**: Introduces *PoisonedRAG*, a novel attack vector corrupting Retrieval-Augmented Generation (RAG) systems by injecting adversarial knowledge into the retrieval corpus, causing LLMs to generate manipulated outputs without altering model weights.
 
-- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines by embedding poisoned documents with carefully crafted content to trigger specific, misleading retrievals, causing the LLM to generate targeted false or biased responses during inference.
+- **Technical Impact**: Demonstrates that poisoned documents (e.g., adversarial passages) can mislead RAG pipelines into retrieving and prioritizing malicious content, leading to incorrect or harmful responses while maintaining high retrieval relevance scores.
 
-- **Evaluation & Impact**: Validated on multiple RAG benchmarks (e.g., MS MARCO, NaturalQuestions), showing significant degradation in response accuracy and trustworthiness, highlighting critical security risks in real-world RAG deployments.
+- **Evaluation & Mitigation**: Validates the attack on multiple RAG benchmarks (e.g., MS MARCO, NQ), achieving >90% success rate in corrupting outputs; proposes preliminary defenses (e.g., embedding sanitization, retrieval filtering) with limited effectiveness.
 
 ## Why It Matters
 

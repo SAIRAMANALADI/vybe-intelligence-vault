@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-07-07T00:48:09.877123+05:30'
+collected_at: '2026-07-07T04:11:26.966222+05:30'
 published_at: '2026-07-06T16:46:35Z'
 tags:
 - frontend_ui
@@ -14,7 +14,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 stars: 39187
 language: Python
 status: active
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-07-07T00:48:09.877123+05:30'
-last_seen: '2026-07-07T00:48:09.877123+05:30'
-last_checked: '2026-07-07T00:48:09.877123+05:30'
+first_seen: '2026-07-07T04:11:26.966222+05:30'
+last_seen: '2026-07-07T04:11:26.966222+05:30'
+last_checked: '2026-07-07T04:11:26.966222+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while enabling customization for diverse use cases.
+- **Opiniated RAG Framework**: QuivrHQ/quivr is a modular Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while enabling customization for diverse use cases.
 
-- **Multi-LLM & Vectorstore Support**: Compatible with any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), supporting flexible file ingestion and storage solutions for scalable AI-driven workflows.
+- **Multi-Backend Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), with extensible file ingestion and API-driven architecture for flexible deployment.
 
-- **Tech Stack & Deployment**: Built in Python with a React/TypeScript frontend, Dockerized for deployment, and supports PostgreSQL for data storage, emphasizing privacy, security, and ease of integration into existing products.
+- **Tech Stack & Deployment**: Built in Python with React/TypeScript frontend, Dockerized for scalability, and supports PostgreSQL for metadata storage, emphasizing privacy, security, and modularity.
 
 ## Why It Matters
 

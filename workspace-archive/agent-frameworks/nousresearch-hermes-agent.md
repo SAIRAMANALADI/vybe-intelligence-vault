@@ -16,6 +16,7 @@ tags:
 - github-repo
 - openai
 - python
+- scripts
 - workflows
 selection_reason:
 - Useful for project building
@@ -33,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports Anthropic, OpenAI, and other LLM APIs for dynamic agent behavior across providers.
-- **Extensible Agent Framework**: Designed for modularity, enabling custom tool integration and workflow adaptation via Python.
-- **Real-Time Adaptation**: Implements continuous learning mechanisms to refine agent responses based on interaction history and feedback.
+- **Multi-Provider LLM Integration**: Supports Anthropic (Claude), OpenAI (ChatGPT, Codex), and other LLM backends via modular API clients, enabling cross-platform agentic workflows.
+
+- **Dynamic Agentic Architecture**: Implements a self-extending agent framework with memory, tool-use (e.g., `claude-code`, `clawdbot`), and adaptive learning for iterative task decomposition and execution.
+
+- **Python-Based Framework**: Built on Python with extensible plugins for custom tools, prompt engineering,
 
 ## Use Cases
 

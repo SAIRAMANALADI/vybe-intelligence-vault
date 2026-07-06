@@ -15,7 +15,6 @@ tags:
 - github-repo
 - python
 - rag
-- scripts
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,9 +35,9 @@ selection_reason:
 
 - **Autonomous Trading Framework**: Python-based repository enabling AI agents to execute trades autonomously on Polymarket, leveraging market-making and arbitrage strategies.
 
-- **Modular Architecture**: Implements pluggable components for order execution, risk management, and strategy customization, with support for real-time market data ingestion.
+- **Modular Architecture**: Implements pluggable components for order execution, risk management, and strategy optimization, with extensible interfaces for custom agent logic.
 
-- **Open-Source Toolkit**: Provides SDKs, example agents, and integration with Polymarket’s API for scalable, event-driven trading automation.
+- **Real-Time Data Integration**: Utilizes Polymarket’s API for live market data, order submission, and position tracking, with built-in backtesti
 
 ## Use Cases
 

@@ -4,11 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-07-07T00:49:29.918138+05:30'
+collected_at: '2026-07-07T04:12:42.022053+05:30'
 published_at: '2026-07-06T10:39:17Z'
 tags:
 - agents
+- frontend_ui
 - github-repo
+- hackernews
 - rag
 - reddit
 - unknown
@@ -19,9 +21,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-07-07T00:49:29.918138+05:30'
-last_seen: '2026-07-07T00:49:29.918138+05:30'
-last_checked: '2026-07-07T00:49:29.918138+05:30'
+first_seen: '2026-07-07T04:12:42.022053+05:30'
+last_seen: '2026-07-07T04:12:42.022053+05:30'
+last_checked: '2026-07-07T04:12:42.022053+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (v5+), focusing on stale-while-revalidate (SWR) and background refetching strategies.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications, leveraging TanStack Query's reactivity and performance optimizations.
 
-- **Router-Level State Management**: Implements dynamic route-based data loading and prefetching with TanStack Router, leveraging lazy-loaded query dependencies to minimize bundle size and improve cold-start performance in AI agents.
+- **TanStack Router Best Practices**: Implements declarative routing strategies with type-safe navigation, dynamic route matching, and optimized prefetching to enhance AI agent navigation efficiency.
 
-- **Start Framework Best Practices**: Provides structured guidelines for initializing TanStack Start applications, including hydration strategies, edge-compatible SSR optimizations, and AI-agent-specific middleware for request deduplication and error handling.
+- **TanStack Start Optimization**: Focuses on server-side rendering (SSR) and static site generation (SSG) techniques to minimize hydration overhead, improving AI agent response times and scalability.
 
 ## Why It Matters
 

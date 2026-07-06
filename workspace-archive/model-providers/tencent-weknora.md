@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-functional LLM Platform**: Converts raw documents into a queryable RAG system, autonomous reasoning agent, and self-maintaining Wiki, supporting multi-tenancy and multi-model integration (e.g., Ollama, OpenAI).
+- **Multi-modal LLM Knowledge Platform**: Converts raw documents into a **queryable RAG (Retrieval-Augmented Generation)**, **autonomous reasoning agent**, and **self-maintaining Wiki** with support for **multi-tenancy** and **multi-model** LLM integration (e.g., OpenAI, Ollama).
 
-- **Technical Stack**: Implemented in Go, featuring vector search, embeddings, reranking, semantic search, and evaluation tools for generative AI applications.
-
-- **Features**: Supports chatbots, question-answering, and knowledge-base management with semantic and vector-based r
+- **Technical Stack & Features**:
+  - **Backend**: Go-based architecture with **vector search**, **semantic search**, **reranking**, and **embeddings** for efficient document retrieval.
+  - **Functionality**: Enables *
 
 ## Use Cases
 

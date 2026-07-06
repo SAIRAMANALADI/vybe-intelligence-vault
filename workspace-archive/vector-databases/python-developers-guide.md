@@ -8,7 +8,7 @@ local_vault_path: ai/rag/python-developers-guide.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - benchmark
@@ -28,15 +28,14 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Development Setup**: Requires Git, CPython source forked from [python/cpython](https://github.com/python/cpython), and platform-specific build steps (e.g., `./configure --with-pydebug && make -j $(nproc)` for Unix, `PCbuild\build.bat -e -d` for Windows).
-
-- **Contribution Workflow**: New contributions require a GitHub issue (or trivial fixes), a feature branch (`git checkout -b fix-issue-12345 main`), and a pull request with `gh-NNNNNN` prefix; CLA signing mandatory for first-time contributo
+- **Contribution Pathways**: Python’s contribution guide provides structured pathways for documentation, code, and issue triage, including setup/build instructions, PR lifecycle management, and Git workflows tailored for CPython development.
+- **Core Development Workflow**: Key resources include PEP 7 (C style guide), PEP 8 (Python style guide), the CPython GitHub repo, and tools like Buildbot for CI/CD, with specialized sections for grammar changes, debugging (GDB/Clang), and interpreter intern
 
 ## Use Cases
 

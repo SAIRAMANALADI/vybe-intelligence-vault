@@ -6,10 +6,10 @@ source_url: https://haystack.deepset.ai/cookbook
 resource_id: blog:cookbook-haystack
 local_vault_path: ai/rag/cookbook-haystack.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
-resource_kind: prompt
-importance: medium
+resource_kind: benchmark
+importance: high
 tags:
 - agents
 - anthropic
@@ -31,17 +31,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Haystack Cookbook** provides 71 technical recipes covering model providers, vector databases, retrieval techniques, and integrations (e.g., Azure AI Search, OpenStreetMap, MCP) with demos for advanced RAG, agents, multimodal processing, and model serving.
-- **Key Features** include agentic workflows (e.g., itinerary planning, UI/UX review), hybrid retrieval (BM42, HyDE), metadata enrichment, and experimental setups (e.g., Mem0 memory store, DSPy prompt optimization).
-- **Integrations** span
+- **Haystack Cookbook** provides 71 technical recipes demonstrating integration of model providers, vector databases, retrieval techniques, and custom components (e.g., agents, RAG, multimodal pipelines) with Haystack.
+- **Key recipe categories** include advanced retrieval, agents (MCP, function calling), multimodal processing, model serving (vLLM, NVIDIA NIMs), and observability/evaluation (Arize Phoenix, RAGAS).
+- **Experimental and production-ready examples** cover domain-specific use cases l
 
 ## Use Cases
 

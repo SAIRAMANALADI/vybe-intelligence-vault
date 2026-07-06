@@ -9,7 +9,7 @@ local_vault_path: ai/rag/complete-rag-tutorial-2025-build-ai-apps-with-retr.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: dataset
+resource_kind: benchmark
 importance: medium
 tags:
 - rag
@@ -25,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: dataset
+- Resource kind: benchmark
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- YouTube operates under Google LLC, adhering to corporate policies, privacy standards, and safety guidelines outlined in their respective documentation.
-- The platform provides APIs and developer tools via [Google Developers](https://developers.google.com/youtube) for integration, analytics, and customization.
-- YouTube monetization, content policies, and platform mechanics are detailed in the [Creators](https://www.youtube.com/creators/) and [How YouTube Works](https://www.youtube.com/howyoutu
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization, and creator tools.
+- **Developer & API Access**: Provides APIs and documentation via [developers.google.com/youtube](https://developers.google.com/youtube) for third-party integration and platform functionality.
+- **Policy & Compliance**: Enforces terms of service, privacy policies, and safety guidelines via [YouTube's Policy Center](https://www.
 
 ## Use Cases
 

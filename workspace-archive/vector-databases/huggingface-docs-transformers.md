@@ -2,7 +2,7 @@
 title: Transformers · Hugging Face
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://huggingface.co/docs/transformers
+source_url: https://huggingface.co/docs/transformers/
 resource_id: huggingface:docs/transformers
 local_vault_path: ai/rag/huggingface-docs-transformers.md
 quality_score: 70
@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified Model Framework**: `transformers` serves as a standardized model-definition framework across ML domains (text, vision, audio, multimodal), ensuring compatibility with training frameworks (e.g., DeepSpeed, FSDP), inference engines (e.g., vLLM, TGI), and libraries (e.g., llama.cpp, mlx).
+- **Unified Model Framework**: Transformers provides a standardized model-definition framework supporting state-of-the-art architectures across text, vision, audio, video, and multimodal domains, ensuring compatibility with training frameworks (e.g., DeepSpeed, FSDP), inference engines (e.g., vLLM, TGI), and libraries (e.g., llama.cpp, mlx).
 
-- **Core Components**: Implemented via three primary classes (configuration, model, preprocessor), enabling rapid inference/training via `Pipeline` or `Trainer`, with support for mixed precision, Flas
+- **Core Components**: Implements models via three primary classes (configuration, model, preprocessor) and offers optimized tools like `Pipeline` for infe
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://huggingface.co/docs/transformers
+Original source URL: https://huggingface.co/docs/transformers/
 
 ## Local Vault File
 

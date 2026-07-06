@@ -8,17 +8,18 @@ local_vault_path: ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - java
 - rag
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # hllqkb/Spring-AI-Ailibaba-Best-Practices
@@ -27,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Tech Stack**: Implements AI question-answering system using Spring AI with Alibaba Cloud integrations, covering SSE streaming, Agent-based workflows, RAG with knowledge graphs, Function Calling, message history, image generation/understanding, Embedding, Vector DB, and RAG pipelines.
+- **Architecture**: Implements a Java-based AI Q&A system leveraging **Spring AI** with **Alibaba Cloud** integrations, featuring **SSE streaming**, **Agent-based workflows**, **RAG with knowledge graphs**, and **Function Calling** for dynamic interactions.
 
-- **Architecture**: Demonstrates modular Java-based architecture for multi-modal AI interactions, including vector database integration (e.g., Chroma, Milvus) for retrieval-augmented generation (RAG) and embedd
+- **Core Components**: Integrates **Embedding models**, **Vector databases**, and **RAG pipelines** for semantic search; supports **image generation/understanding** via multimodal models; maintains **historical message context** for coherent
 
 ## Use Cases
 

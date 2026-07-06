@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **TypeScript-based MCP Framework**: Open-source library for converting APIs into Model Context Protocol (MCP) servers, enabling paid AI agent interactions via standardized interfaces.
+- **TypeScript-based MCP Server**: Converts REST APIs into paid MCP servers with minimal configuration, enabling monetization of AI agent interactions via OpenAPI specs.
 
-- **Agent Orchestration**: Facilitates LLM-driven agent workflows with built-in tooling for dynamic API integration, state management, and real-time execution.
+- **Agentic Workflow Engine**: Supports stateful, multi-step AI agent workflows with tool orchestration, context management, and automatic API-to-tool binding.
 
-- **OpenAI & LLM Integration**: Optimized for OpenAI-compatible models, supporting structured agent prompts, tool use, and seamless MCP server deploymen
+- **OpenAI & LLM Integration**: Built-in support for OpenAI-compatible models, structured outputs, and streaming responses, optimized for agentic AI applications.
 
 ## Use Cases
 

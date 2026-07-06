@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **WSGI (Web Server Gateway Interface)** is a standardized interface between web servers and Python web applications/frameworks, enabling interoperability and portability across different server implementations.
+- **WSGI (Web Server Gateway Interface)** is a standardized interface between web servers and Python web applications/frameworks, enabling interoperability across different server and application implementations.
 
-- **Key components** include servers (e.g., Gunicorn, uWSGI), frameworks (e.g., Django, Flask), middleware, and applications, all adhering to the WSGI specification for request/response handling.
+- **WSGI 1.0** supports Python 2.x, with amendments and Python 3 compatibility addressed in separate documentation; WSGI 2.0 proposals are also documented for future evolution.
 
-- **Documentation** provides specifications, amendments (WSGI 1.0/2.0), Python 3 compatib
+- **Open-source contributions** to WSGI.org (hosted on GitHub) are encouraged for fixes, additions (e.g., tu
 
 ## Use Cases
 

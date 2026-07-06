@@ -8,7 +8,7 @@ local_vault_path: ai/rag/huggingface-docs-hub.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -22,7 +22,7 @@ tags:
 - scripts
 - web-crawled
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Spaces · Hugging Face
@@ -31,17 +31,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting via Gradio SDK, Dockerfiles, or static JS/HTML, with optional GPU/accelerated hardware upgrades for performance-critical applications.
+- **Hosting & Deployment**: Hugging Face Spaces enables ML demo app hosting with built-in support for Gradio, Docker, and static HTML/JavaScript; supports GPU/accelerated hardware upgrades for performance-critical applications.
 
-- **Integration & Customization**: Supports dependency management, GitHub Actions for CI/CD, OpenCV integration, and custom domain configurations; also allows embedding Spaces and running via Docker for advanced use cases.
+- **Integration & Customization**: Supports dependency management, GitHub Actions for CI/CD, and embedding Spaces in external platforms; allows custom Python environments and Dockerfile configurations.
 
-- **Collaboration & Analytics**: Provides organization card integrat
+- **Storage & Management**: Provides disk usage monitoring, custom d
 
 ## Use Cases
 

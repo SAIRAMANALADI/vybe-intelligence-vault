@@ -4,15 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/trycua/cua
-collected_at: '2026-07-07T00:49:44.985692+05:30'
-published_at: '2026-07-06T19:16:46Z'
+collected_at: '2026-07-07T04:12:57.071818+05:30'
+published_at: '2026-07-06T22:24:18Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - html
 - scripts
-stars: 19410
+stars: 19412
 language: HTML
 status: active
 license: MIT
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-01-31T15:02:49Z'
 pushed_at: '2026-07-06T19:16:42Z'
 resource_id: github:trycua/cua
-first_seen: '2026-07-07T00:49:44.985692+05:30'
-last_seen: '2026-07-07T00:49:44.985692+05:30'
-last_checked: '2026-07-07T00:49:44.985692+05:30'
+first_seen: '2026-07-07T04:12:57.071818+05:30'
+last_seen: '2026-07-07T04:12:57.071818+05:30'
+last_checked: '2026-07-07T04:12:57.071818+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-OS Agent Sandboxing**: Provides containerized sandboxes for macOS, Linux, and Windows to train/evaluate AI agents capable of full desktop control via virtualization frameworks (e.g., Apple Virtualization Framework, Windows Sandbox).
+- **Multi-Platform Agent Infrastructure**: Provides sandboxes, SDKs, and benchmarks for training/evaluating AI agents capable of full desktop control across macOS, Linux, and Windows.
 
-- **Cross-Platform SDK & Benchmarks**: Offers SDKs (e.g., Swift for macOS, Lume/Manus for cross-platform) and standardized benchmarks to assess agent performance in desktop automation tasks (e.g., UI interaction, file management).
+- **Technical Components**: Includes containerization (via Lume), virtualization frameworks (Apple Virtualization Framework, Windows Sandbox), and Swift-based tooling for agent development.
 
-- **Open-Source Infrastructure**: Modular architecture with virtualization-based isolation, supporting hacktoberfest contributions, and enabling reproducible evaluation of Computer-Use Agents (CUAs) across heterogeneous desktop environments.
+- **Benchmarking & Automation**: Supports standardized evaluation of computer-use agents (CUAs) with focus on desktop automation, cross-platform compatibility, and integration with hacktoberfest contributions.
 
 ## Why It Matters
 
@@ -43,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: trycua
-- Stars: 19410
+- Stars: 19412
 - Forks: 1274
 - Language: HTML
 - Topics: agent, ai-agent, apple, computer-use, computer-use-agent, containerization, cua, desktop-automation, hacktoberfest, lume, macos, manus, operator, swift, virtualization, virtualization-framework, windows, windows-sandbox
-- Last Updated: 2026-07-06T19:16:46Z
+- Last Updated: 2026-07-06T22:24:18Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-31T15:02:49Z

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -23,7 +23,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog
@@ -32,18 +32,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **RAG Architecture**: Combines a retriever (vector/lexical search) with a generator (LLM) to fetch and condition responses on external knowledge, improving factuality and reducing hallucinations compared to parametric-only generation.
+- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator conditioned on retrieved context, and optional rerankers/query rewriters; orchestration layers manage caching, latency, and cost.
 
-- **Key Optimization Techniques**: Includes hybrid retrieval (BM25 + vector), cross-encoder reranking, query rewriting, and context distillation to enhance precision, recall, and token efficiency in production pipelines.
-
-- **Advanced Patterns**: Supports multi-
+- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector fusion), multi-stage reranking (light retriever → cross-encoder), and query rewriting (expansion, paraphrasing, multi-query) improve precision/recall; GraphRAG and iterative multi-ho
 
 ## Use Cases
 

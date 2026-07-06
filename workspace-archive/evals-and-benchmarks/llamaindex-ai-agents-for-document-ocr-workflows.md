@@ -2,11 +2,11 @@
 title: LlamaIndex | AI Agents for Document OCR + Workflows
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://www.llamaindex.ai/
+source_url: https://llamaindex.ai
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
 local_vault_path: ai/rag/llamaindex-ai-agents-for-document-ocr-workflows.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -16,7 +16,6 @@ tags:
 - meta-ai
 - models
 - rag
-- reddit
 - scripts
 - web-crawled
 - workflows
@@ -30,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -38,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, featuring task-specific experts (text, charts, tables, handwriting), auto-correction loops for error mitigation, and structured schema extraction—achieving high pass-through rates on complex, multi-modal documents.
+- **Agentic OCR & VLM Integration**: LlamaParse leverages Vision-Language Models (VLM) for layout-aware document parsing, converting unstructured documents (PDFs, images, handwritten notes) into structured, LLM-ready outputs with semantic understanding.
 
-- **Performance & Benchmarks**: Outperforms proprietary VLM, commercial IDP, and open-source OCR solutions in parsing accuracy for charts, tables, and overall
+- **Multi-Modal Extraction & Auto-Correction**: Specialized agents handle text, tables, charts, and handwriting, while recursive auto-correction loops ensure high accuracy even on noisy or multi-modal inputs.
+
+- **Enterprise-Grade Features**: Su
 
 ## Use Cases
 
@@ -50,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.llamaindex.ai/
+Original source URL: https://llamaindex.ai
 
 ## Local Vault File
 

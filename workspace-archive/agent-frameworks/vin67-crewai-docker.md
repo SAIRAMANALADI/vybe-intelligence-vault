@@ -14,6 +14,7 @@ tags:
 - agents
 - github-repo
 - python
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -32,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Dockerfile Template**: Provides a pre-configured Docker setup for CrewAI, a Python framework for AI agent orchestration.
-- **Minimal Configuration**: Optimized for quick deployment with essential dependencies and environment variables for CrewAI.
-- **Last Updated**: March 15, 2026, ensuring compatibility with recent CrewAI versions and Python environments.
+- **Dockerfile Template**: Provides a pre-configured Dockerfile for deploying CrewAI applications, optimizing containerization for Python-based AI workflows.
+
+- **Minimal Setup**: Includes essential dependencies and configurations to streamline CrewAI deployment with Docker, reducing manual setup overhead.
+
+- **GitHub Repository**: Hosted at `vin67/crewai_docker`, last updated March 15, 2026, with 9 stars and 10 forks, focusing on CrewAI-specific Docker integration.
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-07T00:47:29.788492+05:30'
+collected_at: '2026-07-07T04:10:41.879011+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-07T00:47:29.788492+05:30'
-last_seen: '2026-07-07T00:47:29.788492+05:30'
-last_checked: '2026-07-07T00:47:29.788492+05:30'
+first_seen: '2026-07-07T04:10:41.879011+05:30'
+last_seen: '2026-07-07T04:10:41.879011+05:30'
+last_checked: '2026-07-07T04:10:41.879011+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for dynamic visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time debugging and optimization.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for dynamic exploration and visualization of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time analysis of retrieval and generation components.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based exploration of RAG components (e.g., retrieval, generation) with Python-based data processing and visualization.
+- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based visualization, allowing users to inspect RAG workflows (e.g., query processing, document retrieval, and LLM outputs) through a browser interface.
 
-- **LLM & Python-Centric**: Designed for LLM workflows, supporting Python-based RAG pipelines with modular visualization of embeddings, retrieval metrics, and response quality.
+- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom RAG configurations (e.g., embedding models, vector stores) and compatibility with LLM frameworks like LangChain.
 
 ## Why It Matters
 

@@ -1,0 +1,54 @@
+---
+title: The Sovereign AI Platform for Agents
+archive_category: automation-workflows
+source_category: ai/rag
+source_url: https://www.deepset.ai/
+resource_id: blog:the-sovereign-ai-platform-for-agents
+local_vault_path: ai/rag/the-sovereign-ai-platform-for-agents.md
+quality_score: 70
+archive_score: 72
+archive_tier: useful
+resource_kind: tutorial
+importance: medium
+tags:
+- agents
+- rag
+- web-crawled
+- workflows
+selection_reason:
+- Strong keyword match
+- Valuable developer reference
+---
+
+# The Sovereign AI Platform for Agents
+
+## Why This Is In The Archive
+
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
+
+## Summary
+
+- **Open, modular architecture**: Haystack provides a transparent, auditable open-source foundation with no proprietary abstractions, enabling full ownership and extensibility of agent primitives (tools, memory, retrievers, pipelines) without vendor lock-in.
+
+- **Sovereign deployment & governance**: Supports infrastructure-agnostic deployment (cloud/self-hosted) with built-in audit logs, RBAC, and data lineage, ensuring compliance and full control over data, models, and deployment footprints.
+
+-
+
+## Use Cases
+
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
+
+## Source
+
+Original source URL: https://www.deepset.ai/
+
+## Local Vault File
+
+Path: [the-sovereign-ai-platform-for-agents.md](../../ai/rag/the-sovereign-ai-platform-for-agents.md)

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-07-07T00:47:00.108271+05:30'
-collected_at: '2026-07-07T00:47:00.108287+05:30'
+published_at: '2026-07-07T04:10:12.375220+05:30'
+collected_at: '2026-07-07T04:10:12.375233+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-07-07T00:47:00.108287+05:30'
-last_seen: '2026-07-07T00:47:00.108287+05:30'
-last_checked: '2026-07-07T00:47:00.108287+05:30'
+first_seen: '2026-07-07T04:10:12.375233+05:30'
+last_seen: '2026-07-07T04:10:12.375233+05:30'
+last_checked: '2026-07-07T04:10:12.375233+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines a retriever (vector/lexical search) with a generator (LLM) to fetch and condition responses on external knowledge, improving factuality and reducing hallucinations compared to parametric-only generation.
+- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator conditioned on retrieved context, and optional rerankers/query rewriters; orchestration layers manage caching, latency, and cost.
 
-- **Key Optimization Techniques**: Includes hybrid retrieval (BM25 + vector), cross-encoder reranking, query rewriting, and context distillation to enhance precision, recall, and token efficiency in production pipelines.
+- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector fusion), multi-stage reranking (light retriever → cross-encoder), and query rewriting (expansion, paraphrasing, multi-query) improve precision/recall; GraphRAG and iterative multi-hop retrieval enable complex reasoning.
 
-- **Advanced Patterns**: Supports multi-hop retrieval, iterative reasoning, and retrieval-aware fine-tuning, while addressing operational challenges like latency, cost, and evaluation via structured metrics and monitoring frameworks.
+- **Operational & Evaluation Considerations**: Latency/throughput optimization via ANN indexes, token budgeting, and context distillation; evaluation requires retrieval metrics (MRR/nDCG) and generation metrics (factuality/hallucination rate) with gold-standard evidence sets.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T00:47:00.108271+05:30
+- Published: 2026-07-07T04:10:12.375220+05:30
 
 ## Related Tags
 

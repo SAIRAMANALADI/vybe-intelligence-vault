@@ -6,7 +6,7 @@ source_url: https://github.com/HKUDS/VideoRAG
 resource_id: github:hkuds/videorag
 local_vault_path: ai/rag/hkuds-videorag.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system tailored for long-video understanding, enabling LLMs to process and interact with video content via multi-modal inputs (e.g., frames, audio, metadata).
-
-- **Multi-Stage Retrieval**: Implements hierarchical retrieval (frame-level, segment-level, and semantic-level) to efficiently extract relevant video segments for LLM context augmentation, addressing scalability challenges in long-video Q&A.
-
-- **Open-Source Toolk
+- Introduces **VideoRAG**, a framework enabling **multi-modal long-video understanding** via **Retrieval-Augmented Generation (RAG)** for LLMs, supporting **Python**-based implementations.
+- Leverages **large language models (LLMs)** and **multi-modal LLMs** to enable **interactive querying** of video content, enhancing temporal and contextual retrieval.
+- Achieves **scalable video comprehension** with optimized retrieval mechanisms, addressing challenges in processing extended video sequences (
 
 ## Use Cases
 

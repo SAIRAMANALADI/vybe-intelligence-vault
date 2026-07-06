@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzhao062/pyod
-collected_at: '2026-07-07T00:49:49.933766+05:30'
+collected_at: '2026-07-07T04:13:02.017478+05:30'
 published_at: '2026-07-06T10:38:37Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2017-10-03T20:29:04Z'
 pushed_at: '2026-06-17T02:43:09Z'
 resource_id: github:yzhao062/pyod
-first_seen: '2026-07-07T00:49:49.933766+05:30'
-last_seen: '2026-07-07T00:49:49.933766+05:30'
-last_checked: '2026-07-07T00:49:49.933766+05:30'
+first_seen: '2026-07-07T04:13:02.017478+05:30'
+last_seen: '2026-07-07T04:13:02.017478+05:30'
+last_checked: '2026-07-07T04:13:02.017478+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal Anomaly Detection**: Supports 60+ detectors for tabular, time series, graph, text, image, and audio data, leveraging unsupervised, deep learning, and foundation models.
+- **Multimodal Anomaly Detection**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, enabling cross-domain anomaly detection with unified APIs.
 
-- **ADEngine Orchestration**: Provides benchmark-backed orchestration for anomaly detection workflows, including outlier ensembles and novelty detection.
+- **Agentic & Benchmark-Driven Workflow**: Features ADEngine for orchestrated anomaly detection and an agentic workflow, leveraging foundation models and benchmark-backed evaluations for adaptive performance.
 
-- **Agentic Workflow Integration**: Enables AI agents to interact with the library, facilitating fraud detection, graph anomaly detection, and multimodal anomaly analysis.
+- **Scalable & Specialized Tools**: Includes outlier ensembles, novelty detection, and OOD detection modules, optimized for fraud, graph anomaly, and time-series applications with deep learning and unsupervised learning methods.
 
 ## Why It Matters
 

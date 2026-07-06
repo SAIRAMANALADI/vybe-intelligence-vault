@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Purpose**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating rapid prototyping of AI-powered research workflows.
-
-- **Key Components**: Includes pre-configured pipelines for document ingestion, embedding generation (e.g., using `sentence-transformers`), vector storage (e.g., Chroma/FAISS), and LLM interaction (e.g., LangChain's `LLMChain` or `RetrievalQA`).
-
-- **Technical Stack**: Primarily Python
+- **Purpose**: Provides a template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating integration of LLMs with external knowledge sources.
+- **Technical Stack**: Implemented in Python, leveraging LangChain’s modular framework for document retrieval, prompt engineering, and agent orchestration.
+- **Key Features**: Includes pre-configured pipelines for indexing, retrieval, and response generation, optimized for research workflows and customizable for do
 
 ## Use Cases
 

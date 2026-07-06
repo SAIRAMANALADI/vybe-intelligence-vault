@@ -12,9 +12,9 @@ Langfuse, Ollama, llama.cpp, vLLM, Phoenix.
 ## Recommended Resources from the Vault
 *   [UCLA COVID protocols - COVID-19 and vaccine resources](https://covid-19.ucla.edu/ucla-covid-protocols)
 *   [DagsHub - YouTube](https://youtube.com/c/dagshub)
+*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse?utm_source=clickhouse&utm_medium=website&utm_campaign=website-nav)
 *   [Sanjeev Arora](https://www.cs.princeton.edu/~arora)
 *   [The Linux Kernel documentation — The Linux Kernel documentation](https://docs.kernel.org/)
-*   [Chat LangChain](https://chat.langchain.com/)
 
 ## Project Ideas
 *   Self-hosted Ollama server with custom evaluators verifying response quality.

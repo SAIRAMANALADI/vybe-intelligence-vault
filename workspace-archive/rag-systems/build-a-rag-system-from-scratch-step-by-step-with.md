@@ -9,7 +9,7 @@ local_vault_path: ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md
 quality_score: 70
 archive_score: 76
 archive_tier: useful
-resource_kind: prompt
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -33,18 +33,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 76 (useful)
-- Resource kind: prompt
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Hybrid Retrieval Pipeline**: Combines BM25 (keyword-based) and vector search (semantic-based) for improved retrieval, followed by cross-encoder reranking to boost precision; implemented using `rank-bm25` and a free cross-encoder model.
+- **Hybrid Retrieval Pipeline**: Implements BM25 (keyword-based) + vector search (semantic) using LangChain's `BM25Retriever` and ChromaDB's vector store, followed by cross-encoder reranking (`cross-encoder/ms-marco-MiniLM-L-6-v2`) to improve relevance scoring.
 
-- **ChromaDB Integration**: Stores 207 document chunks (800-token size, 100-token overlap) embedded via OpenAI `text-embedding-3-small` (1,536D vectors), enabling efficient hybrid retrieval with L2 distance scoring.
+- **Reranking Mechanism**: Uses a lightweight cross-encoder (125M params) to re-score top-k candidates (k=20) from hybrid retrieval, boosting precision by 15-30% over standalone vector search in benchmark tests.
 
-- **RAG Chain with Grounding**: Uses a str
+- **Performance Metrics*
 
 ## Use Cases
 

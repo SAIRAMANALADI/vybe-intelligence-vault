@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- hackernews
 - rag
 - web-crawled
 - youtube
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Discounted NFL Sunday Ticket**: Up to **15% off** commercial NFL Sunday Ticket subscriptions for businesses, valid until **June 30, 2026**, with a max discount of **$1,500 per location**; requires an active EverPass Core subscription for access.
+- **Exclusive Commercial Licensing**: NFL Sunday Ticket for businesses is exclusively distributed via EverPass, offering licensed out-of-market Sunday afternoon NFL games for commercial venues (bars, restaurants, hotels, etc.) in the U.S., Puerto Rico, and U.S. Virgin Islands, excluding in-market/local broadcasts and national games.
 
-- **Hardware & Software Bundle**: Includes **up to 6 free commercial-grade streaming devices** (preconfigured, plug-and-play) and **3 months free of EverPass Core** (scheduling, device management, and premium sports integrations like Apple TV, Prime
+- **Limited-Time Offer**: Businesses can claim a **$1,000 discount** on NFL Sunday Ticket by signing up before **July 31**, with flexible payment options and up to
 
 ## Use Cases
 

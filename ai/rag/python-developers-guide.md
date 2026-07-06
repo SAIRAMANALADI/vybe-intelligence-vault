@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://devguide.python.org/
-published_at: '2026-06-25T16:45:19.935486+05:30'
-collected_at: '2026-06-25T16:45:19.935496+05:30'
+published_at: '2026-07-07T04:17:06.827952+05:30'
+collected_at: '2026-07-07T04:17:06.827961+05:30'
 tags:
 - benchmark
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:python-developers-guide
-first_seen: '2026-06-25T16:45:19.935496+05:30'
-last_seen: '2026-06-25T16:45:19.935496+05:30'
-last_checked: '2026-06-25T16:45:19.935496+05:30'
+first_seen: '2026-07-07T04:17:06.827961+05:30'
+last_seen: '2026-07-07T04:17:06.827961+05:30'
+last_checked: '2026-07-07T04:17:06.827961+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,9 @@ health_score: 100
 
 ## Summary
 
-- **Development Setup**: Requires Git, CPython source forked from [python/cpython](https://github.com/python/cpython), and platform-specific build steps (e.g., `./configure --with-pydebug && make -j $(nproc)` for Unix, `PCbuild\build.bat -e -d` for Windows).
-
-- **Contribution Workflow**: New contributions require a GitHub issue (or trivial fixes), a feature branch (`git checkout -b fix-issue-12345 main`), and a pull request with `gh-NNNNNN` prefix; CLA signing mandatory for first-time contributors.
-
-- **Testing & Validation**: Post-build, run tests via `./python -m test -j3` (Unix) or `.\python.bat -m test -j3` (Windows); changes must include a `Misc/NEWS.d/` entry via `blurb` tool.
+- **Contribution Pathways**: Python’s contribution guide provides structured pathways for documentation, code, and issue triage, including setup/build instructions, PR lifecycle management, and Git workflows tailored for CPython development.
+- **Core Development Workflow**: Key resources include PEP 7 (C style guide), PEP 8 (Python style guide), the CPython GitHub repo, and tools like Buildbot for CI/CD, with specialized sections for grammar changes, debugging (GDB/Clang), and interpreter internals.
+- **Multi-Implementation Ecosystem**: While CPython is the reference interpreter (C core + Python stdlib), alternatives like PyPy (JIT), GraalPy (JVM), and MicroPython (embedded) target distinct environments, each with unique optimization goals.
 
 ## Why It Matters
 
@@ -40,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:45:19.935486+05:30
+- Published: 2026-07-07T04:17:06.827952+05:30
 
 ## Related Tags
 

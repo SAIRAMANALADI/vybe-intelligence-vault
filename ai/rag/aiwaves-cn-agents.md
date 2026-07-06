@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aiwaves-cn/agents
-collected_at: '2026-07-07T00:50:30.021026+05:30'
+collected_at: '2026-07-07T04:13:42.060692+05:30'
 published_at: '2026-07-06T17:29:48Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - hackernews
 - python
 - rag
+- workflows
 stars: 5939
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2023-07-18T02:01:03Z'
 pushed_at: '2024-09-26T03:12:53Z'
 resource_id: github:aiwaves-cn/agents
-first_seen: '2026-07-07T00:50:30.021026+05:30'
-last_seen: '2026-07-07T00:50:30.021026+05:30'
-last_checked: '2026-07-07T00:50:30.021026+05:30'
+first_seen: '2026-07-07T04:13:42.060692+05:30'
+last_seen: '2026-07-07T04:13:42.060692+05:30'
+last_checked: '2026-07-07T04:13:42.060692+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: Open-source Python framework (`aiwaves-cn/agents`) for building **data-centric, self-evolving autonomous language agents** leveraging LLMs.
-- **Core Features**: Enables **autonomous agent development** with self-improvement capabilities through iterative data-driven feedback loops.
-- **Technical Stack**: Primarily Python-based, optimized for **LLM integration** and scalable agent autonomy.
+- **Framework Overview**: Open-source Python-based framework (`aiwaves-cn/agents`) designed for **data-centric, self-evolving autonomous language agents**, leveraging LLMs for dynamic adaptation and task execution.
+- **Core Features**: Enables **autonomous agent development** with capabilities for **self-improvement** through iterative data-driven feedback loops and LLM integration.
+- **Technical Stack**: Built in Python, optimized for **LLM-driven workflows**, with modular architecture supporting extensibility for autonomous agent ecosystems.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/apecloud/ApeRAG
-collected_at: '2026-07-07T00:48:29.916259+05:30'
+collected_at: '2026-07-07T04:11:41.973888+05:30'
 published_at: '2026-07-06T15:46:46Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-06-20T12:18:12Z'
 pushed_at: '2026-05-02T05:01:36Z'
 resource_id: github:apecloud/aperag
-first_seen: '2026-07-07T00:48:29.916259+05:30'
-last_seen: '2026-07-07T00:48:29.916259+05:30'
-last_checked: '2026-07-07T00:48:29.916259+05:30'
+first_seen: '2026-07-07T04:11:41.973888+05:30'
+last_seen: '2026-07-07T04:11:41.973888+05:30'
+last_checked: '2026-07-07T04:11:41.973888+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal indexing**: Supports both text and graph-based data structures for enhanced retrieval and contextualization in GraphRAG systems.
+- **Multi-modal indexing & GraphRAG**: Implements a production-ready GraphRAG (Graph Retrieval-Augmented Generation) system with support for structured/unstructured data (text, images, etc.) via vector + knowledge graph hybrid indexing.
 
-- **AI agents & MCP integration**: Incorporates autonomous AI agents and Model Context Protocol (MCP) for dynamic interaction and scalable knowledge processing.
+- **AI agents & MCP integration**: Features autonomous AI agents for dynamic retrieval/query planning and native support for Model Context Protocol (MCP) for standardized agent-tool interactions.
 
-- **Kubernetes-native deployment**: Optimized for scalable, production-grade deployment using Kubernetes, ensuring high availability and fault tolerance.
+- **Scalable K8s deployment**: Designed for Kubernetes with Helm charts for horizontal scaling, distributed graph processing, and fault-tolerant RAG pipelines.
 
 ## Why It Matters
 

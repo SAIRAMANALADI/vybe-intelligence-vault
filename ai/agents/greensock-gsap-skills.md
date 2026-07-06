@@ -4,15 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/greensock/gsap-skills
-collected_at: '2026-07-07T00:49:24.945737+05:30'
-published_at: '2026-07-06T18:30:03Z'
+collected_at: '2026-07-07T04:12:37.005054+05:30'
+published_at: '2026-07-06T22:36:48Z'
 tags:
 - agents
 - animation
 - github-repo
 - hackernews
 - unknown
-stars: 10979
+- workflows
+stars: 10985
 language: Unknown
 status: active
 license: MIT
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-04T17:22:35Z'
 pushed_at: '2026-04-21T23:47:09Z'
 resource_id: github:greensock/gsap-skills
-first_seen: '2026-07-07T00:49:24.945737+05:30'
-last_seen: '2026-07-07T00:49:24.945737+05:30'
-last_checked: '2026-07-07T00:49:24.945737+05:30'
+first_seen: '2026-07-07T04:12:37.005054+05:30'
+last_seen: '2026-07-07T04:12:37.005054+05:30'
+last_checked: '2026-07-07T04:12:37.005054+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **GSAP AI Skill Repository**: Provides structured AI training for GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration for AI coding agents.
-
-- **Technical Focus**: Enables AI agents to generate optimized GSAP animations by teaching core concepts like timeline management, easing functions, and performance optimization.
-
-- **Repository Metadata**: 10,979 stars, 652 forks, last updated July 6, 2026, with language unspecified (likely JavaScript/TypeScript-based).
+- **GSAP AI Skills Repository**: Provides structured training for AI agents to master GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration.
+- **Technical Focus**: Includes optimized workflows for complex animations, performance tuning, and adherence to GSAP’s core principles (e.g., `gsap.to()`, `gsap.from()`).
+- **Repository Metrics**: 10,985 stars, 653 forks; last updated July 6, 2026, with no explicit language tag but likely JavaScript/TypeScript-centric.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: greensock
-- Stars: 10979
-- Forks: 652
+- Stars: 10985
+- Forks: 653
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-06T18:30:03Z
+- Last Updated: 2026-07-06T22:36:48Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-04T17:22:35Z

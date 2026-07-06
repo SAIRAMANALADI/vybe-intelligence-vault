@@ -6,7 +6,7 @@ source_url: https://github.com/infiniflow/ragflow?source=post_page
 resource_id: github:infiniflow/ragflow
 local_vault_path: ai/rag/infiniflow-ragflow.md
 quality_score: 70
-archive_score: 79
+archive_score: 83
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -20,7 +20,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 83 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -28,11 +28,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid RAG-Plus-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with autonomous agent capabilities to dynamically enhance LLM context processing, enabling adaptive retrieval and reasoning workflows.
+- **Hybrid RAG-Engine**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with agentic workflows to enhance LLM context processing, combining retrieval, reasoning, and agent-based orchestration.
 
-- **Multi-Modal Context Engine**: Supports structured/unstructured data ingestion (PDFs, docs, web content) with built-in preprocessing, chunking, and vectorization pipelines optimized for high-precision retrieval.
+- **Multi-Layered Context Management**: Implements a structured context engine for dynamic document parsing, chunking, and semantic indexing, optimizing LLM input fidelity via adaptive retrieval strategies.
 
-- **Scalable Go-Based Implementation**: L
+- **Scalable Go Architecture**: Built in Go for high-performance parallel proces
 
 ## Use Cases
 

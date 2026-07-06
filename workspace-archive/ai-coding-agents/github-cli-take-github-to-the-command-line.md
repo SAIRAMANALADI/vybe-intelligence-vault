@@ -8,7 +8,7 @@ local_vault_path: ai/agents/github-cli-take-github-to-the-command-line.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -26,17 +26,15 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tutorial
+- Resource kind: prompt
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **GitHub CLI (`gh`)** is a free, open-source tool that integrates GitHub functionality directly into the terminal, enabling operations like issue/PR management, releases, and repository viewing without leaving the command line.
+- **GitHub CLI (`gh`)** is an open-source tool that integrates GitHub workflows directly into the terminal, enabling operations like issue/PR management (`gh issue list`, `gh pr status`), repository interaction (`gh repo view`), and release creation (`gh release create`) without leaving the command line.
 
-- **Key commands** include `gh issue list`, `gh pr status/checkout/create`, `gh release create`, `gh repo view`, and `gh alias set`, with Copilot CLI integration for AI-assisted workflows.
-
-- **Cross-platform support** via package managers (Homebrew, WinGet, apt/dnf/zy
+- **Key features** include GitHub Copilot CLI integration for AI-assisted task execution, custom aliasing (`gh alias set`) for command shortcuts, and support for GitHub Enterprise Server alongs
 
 ## Use Cases
 

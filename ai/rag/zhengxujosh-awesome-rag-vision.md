@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-07-07T00:47:59.829486+05:30'
+collected_at: '2026-07-07T04:11:11.904515+05:30'
 published_at: '2026-07-03T02:13:34Z'
 tags:
+- benchmark
+- dataset
 - github-repo
 - hackernews
-- models
+- paper
 - rag
 - unknown
 stars: 338
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-07-07T00:47:59.829486+05:30'
-last_seen: '2026-07-07T00:47:59.829486+05:30'
-last_checked: '2026-07-07T00:47:59.829486+05:30'
+first_seen: '2026-07-07T04:11:11.904515+05:30'
+last_seen: '2026-07-07T04:11:11.904515+05:30'
+last_checked: '2026-07-07T04:11:11.904515+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG-Vision Resources**: Repository aggregates advanced retrieval-augmented generation (RAG) techniques specifically tailored for computer vision applications, including multimodal RAG, vision-language models (VLMs), and cross-modal retrieval frameworks.
+- **Curated Resource**: A structured compilation of advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, including methods integrating vision-language models (VLMs), multimodal retrieval, and domain-specific adaptations.
 
-- **Dynamic and Updated**: Last updated on **2026-07-03**, ensuring inclusion of cutting-edge research and tools in RAG-enhanced vision tasks (e.g., image captioning, visual question answering, and retrieval-augmented visual grounding).
+- **Repository Metrics**: Hosted on GitHub with **338 stars** and **9 forks**, last updated on **July 3, 2026**; language unspecified but likely includes Python-based implementations given RAG/CV context.
 
-- **Minimalist Structure**: Despite 338 stars and 9 forks, the repository lacks explicit language tags or topics, suggesting a focus on breadth over metadata standardization, potentially requiring manual exploration for specific subdomains.
+- **Focus Areas**: Encompasses cutting-edge RAG frameworks for tasks like **image captioning, visual question answering (VQA), and multimodal retrieval**, with potential links to papers, codebases, and benchmark datasets.
 
 ## Why It Matters
 

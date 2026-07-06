@@ -4,15 +4,18 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/study8677/antigravity-workspace-template
-collected_at: '2026-07-07T00:47:19.750610+05:30'
+collected_at: '2026-07-07T04:10:31.871823+05:30'
 published_at: '2026-07-06T12:20:43Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - openai
 - python
 - rag
+- reddit
+- workflows
 stars: 1295
 language: Python
 status: active
@@ -21,9 +24,9 @@ archived: false
 created_at: '2025-11-19T08:51:14Z'
 pushed_at: '2026-07-06T12:20:38Z'
 resource_id: github:study8677/antigravity-workspace-template
-first_seen: '2026-07-07T00:47:19.750610+05:30'
-last_seen: '2026-07-07T00:47:19.750610+05:30'
-last_checked: '2026-07-07T00:47:19.750610+05:30'
+first_seen: '2026-07-07T04:10:31.871823+05:30'
+last_seen: '2026-07-07T04:10:31.871823+05:30'
+last_checked: '2026-07-07T04:10:31.871823+05:30'
 health_score: 100
 ---
 
@@ -31,9 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for AI IDEs (Claude Code, Cursor, Codex CLI)
-- **MCP server implementation** in Python for codebase-aware RAG, supporting OpenAI, MCP, and vector search across repositories
-- **Plug-and-play template** with preconfigured agents for code intelligence, search, and developer tool integration (Copilot, Windsurf)
+- **Multi-agent codebase Q&A system**: Enables grounded, file-path and line-number-referenced interactions with codebases using AI agents (Claude Code, Cursor, Codex CLI), leveraging RAG and knowledge graphs for precise responses.
+
+- **Cross-IDE compatibility**: Functions as an MCP server/plugin, integrating with major AI-powered IDEs (Claude, Cursor, VS Code) and CLI tools (Codex CLI) for unified developer workflows.
+
+- **Technical stack**: Python-based implementation with OpenAI LLM integration, supporting multi-agent orchestration, code search, and real-time context-aware assistance for large codebases.
 
 ## Why It Matters
 

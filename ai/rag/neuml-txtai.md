@@ -3,10 +3,8 @@ title: neuml/txtai
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/neuml/txtai?source=post_page
-resource_id: github:neuml/txtai
------dba899ae0355---------------------------------------
-collected_at: '2026-07-07T00:51:05.010034+05:30'
+source_url: https://github.com/neuml/txtai
+collected_at: '2026-07-07T04:14:22.096381+05:30'
 published_at: '2026-07-06T14:05:50Z'
 tags:
 - agents
@@ -22,9 +20,9 @@ archived: false
 created_at: '2020-08-09T19:14:59Z'
 pushed_at: '2026-07-02T14:44:53Z'
 resource_id: github:neuml/txtai
-first_seen: '2026-07-07T00:51:05.010034+05:30'
-last_seen: '2026-07-07T00:51:05.010034+05:30'
-last_checked: '2026-07-07T00:51:05.010034+05:30'
+first_seen: '2026-07-07T04:14:22.096381+05:30'
+last_seen: '2026-07-07T04:14:22.096381+05:30'
+last_checked: '2026-07-07T04:14:22.096381+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, leveraging embeddings and vector search for efficient information retrieval.
-
-- **Modular Architecture**: Supports agents, RAG (Retrieval-Augmented Generation), and transformer-based models, enabling scalable NLP pipelines with built-in vector database integration.
-
-- **Optimized Workflows**: Facilitates end-to-end AI tasks (e.g., search, summarization, Q&A) with pre-built components for sentence embeddings, transformers, and hybrid retrieval systems.
+- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system.
+- **Core Capabilities**: Supports embeddings, vector search, RAG, and transformer-based NLP with built-in vector database integration.
+- **Extensible Architecture**: Enables agent-based AI workflows, sentence embeddings, and hybrid retrieval systems for advanced information retrieval tasks.
 
 ## Why It Matters
 
@@ -71,4 +67,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/neuml/txtai?source=post_page-----dba899ae0355---------------------------------------
+Original source: https://github.com/neuml/txtai

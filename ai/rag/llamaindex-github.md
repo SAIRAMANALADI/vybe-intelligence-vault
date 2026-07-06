@@ -4,10 +4,11 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/run-llama
-published_at: '2026-07-07T00:51:10.377749+05:30'
-collected_at: '2026-07-07T00:51:10.377766+05:30'
+published_at: '2026-07-07T04:14:22.390185+05:30'
+collected_at: '2026-07-07T04:14:22.390191+05:30'
 tags:
 - agents
+- hackernews
 - meta-ai
 - models
 - rag
@@ -16,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:llamaindex-github
-first_seen: '2026-07-07T00:51:10.377766+05:30'
-last_seen: '2026-07-07T00:51:10.377766+05:30'
-last_checked: '2026-07-07T00:51:10.377766+05:30'
+first_seen: '2026-07-07T04:14:22.390191+05:30'
+last_seen: '2026-07-07T04:14:22.390191+05:30'
+last_checked: '2026-07-07T04:14:22.390191+05:30'
 health_score: 100
 ---
 
@@ -26,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **LlamaParse Cloud Services**: Provides SOTA (State-of-the-Art) agentic OCR via `Parse` and `Extract` for document workflows, enabling high-accuracy text extraction and structured data retrieval from unstructured documents.
+- **LlamaParse Cloud Services**: Provides state-of-the-art agentic OCR via cloud-based `Parse` and `Extract` APIs for document processing workflows, with platform documentation available for integration.
 
-- **Open-Source Tooling**: Includes `LiteParse` for lightweight OCR, `LlamaAgents` for modular agent-based workflows, and the core `LlamaIndex` Python library for building LLM-powered data pipelines and RAG applications.
+- **Open-Source Tooling**: Offers `LiteParse` for lightweight OCR, `LlamaAgents` for agentic workflows, and the core `LlamaIndex` Python library for document indexing and retrieval, all with public documentation.
 
-- **Multi-Channel Support**: Offers official documentation, GitHub repositories, and social media (X/Twitter, LinkedIn, YouTube) for community engagement, updates, and integration guidance.
+- **Community & Support**: Maintains active presence on X (Twitter), LinkedIn, and YouTube for updates, networking, and technical content dissemination.
 
 ## Why It Matters
 
@@ -40,11 +41,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T00:51:10.377749+05:30
+- Published: 2026-07-07T04:14:22.390185+05:30
 
 ## Related Tags
 
 - agents
+- hackernews
 - meta-ai
 - models
 - rag

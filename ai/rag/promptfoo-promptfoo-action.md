@@ -4,19 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/promptfoo/promptfoo-action
-collected_at: '2026-07-07T00:48:20.080704+05:30'
+collected_at: '2026-07-07T04:11:32.072694+05:30'
 published_at: '2026-06-30T16:43:58Z'
 tags:
 - agents
 - anthropic
-- benchmark
 - github-repo
 - meta-ai
 - models
 - rag
-- scripts
 - typescript
-- workflows
 stars: 69
 language: TypeScript
 status: active
@@ -25,9 +22,9 @@ archived: false
 created_at: '2023-06-21T03:10:38Z'
 pushed_at: '2026-07-03T08:44:21Z'
 resource_id: github:promptfoo/promptfoo-action
-first_seen: '2026-07-07T00:48:20.080704+05:30'
-last_seen: '2026-07-07T00:48:20.080704+05:30'
-last_checked: '2026-07-07T00:48:20.080704+05:30'
+first_seen: '2026-07-07T04:11:32.072694+05:30'
+last_seen: '2026-07-07T04:11:32.072694+05:30'
+last_checked: '2026-07-07T04:11:32.072694+05:30'
 health_score: 100
 ---
 
@@ -35,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Action for Promptfoo**: Enables automated testing of prompts, agents, and RAG (Retrieval-Augmented Generation) systems within CI/CD pipelines, supporting AI red teaming, pentesting, and LLM vulnerability scanning.
-
-- **Multi-Model Performance Comparison**: Facilitates benchmarking across major LLMs (e.g., GPT, Claude, Gemini, Llama) via declarative configurations, with command-line and CI/CD integration for seamless execution.
-
-- **TypeScript-Based Implementation**: Built in TypeScript, leveraging GitHub Actions' ecosystem for declarative YAML-based workflows, with last update timestamped **2026-06-30T16:43:58Z**.
+- **GitHub Action for Promptfoo**: Enables automated testing of prompts, agents, and RAG systems with AI red teaming, pentesting, and LLM vulnerability scanning.
+- **Multi-LLM Support**: Compares performance across models like GPT, Claude, Gemini, and Llama via declarative configurations.
+- **CI/CD Integration**: Provides TypeScript-based CLI and GitHub Action for seamless integration with command-line and CI/CD pipelines.
 
 ## Why It Matters
 

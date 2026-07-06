@@ -12,7 +12,6 @@ resource_kind: template
 importance: medium
 tags:
 - github-repo
-- hackernews
 - openai
 - rag
 - typescript
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Template for building a Retrieval-Augmented Generation (RAG) chat application using Azure OpenAI services, designed for workshop-based learning.
-- **Technical Stack**: Implemented in TypeScript, leveraging Azure OpenAI APIs for embedding generation and LLM inference.
-- **Key Components**: Includes pre-configured pipelines for document ingestion, vector storage (likely Azure Cognitive Search), and chat interface integration with RAG workflows.
+- **Purpose**: Provides a TypeScript-based template for building a Retrieval-Augmented Generation (RAG) chat application leveraging Azure OpenAI services.
+- **Structure**: Includes pre-configured components for document ingestion, vector storage, and LLM-based query processing with RAG workflows.
+- **Deployment**: Designed for Azure cloud integration, enabling scalable RAG implementations with minimal setup overhead.
 
 ## Use Cases
 

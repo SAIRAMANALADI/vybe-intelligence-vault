@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by maxloh. Score: 40, Comments: 4.
+Hacker News story by maxloh. Score: 96, Comments: 28.
 Original Link: https://github.com/iOfficeAI/OfficeCLI
 
 ## Use Cases

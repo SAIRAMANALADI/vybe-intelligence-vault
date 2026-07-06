@@ -8,7 +8,7 @@ local_vault_path: ai/agents/addyosmani-agent-skills.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: product
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - hackernews
 - shell
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # addyosmani/agent-skills
@@ -26,15 +26,15 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: product
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Repository Purpose**: Provides production-grade engineering skills for AI coding agents, optimized for tools like `claude-code` and `cursor`.
-- **Technical Stack**: Primarily implemented in Shell, with integration support for `antigravity-ide` and related agent frameworks.
-- **Metadata**: 70,603 stars, 7,652 forks, last updated on 2026-07-06.
+- **Repository Overview**: GitHub repository (`addyosmani/agent-skills`) providing production-grade engineering skills for AI coding agents, with 70,734 stars and 7,666 forks.
+- **Technical Focus**: Shell-based repository (`agent-skills`) designed for integration with AI coding agents (e.g., `claude-code`, `codex`, `cursor`).
+- **Last Update**: Latest commit on **2026-07-06T22:41:54Z**, emphasizing continuous maintenance for agent skill development.
 
 ## Use Cases
 

@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 selection_reason:
 - Strong keyword match
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Hosts open-source AI agents on the oTTomator Live Agent Studio platform, implemented in Python.
-- **Metrics**: 5,652 stars, 1,937 forks, last updated 2026-06-25.
-- **Access**: Available at [GitHub](https://github.com/coleam00/ottomator-agents).
+- **Repository Overview**: Hosts open-source AI agents on the oTTomator Live Agent Studio platform, with 5,664 stars and 1,941 forks.
+- **Technical Stack**: Entirely implemented in Python, with the last update as of July 6, 2026.
+- **Accessibility**: Publicly available on GitHub under the `coleam00/ottomator-agents` repository.
 
 ## Use Cases
 

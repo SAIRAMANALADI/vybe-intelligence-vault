@@ -3,20 +3,17 @@ title: Google Colab
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
-published_at: '2026-06-25T20:51:09.721462+05:30'
-collected_at: '2026-06-25T20:51:09.721477+05:30'
+source_url: https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/27_First_RAG_Pipeline.ipynb
+published_at: '2026-07-07T04:17:39.312510+05:30'
+collected_at: '2026-07-07T04:17:39.312516+05:30'
 tags:
-- benchmark
-- models
 - rag
 - web-crawled
-- workflows
 status: active
 resource_id: blog:google-colab
-first_seen: '2026-06-25T20:51:09.721477+05:30'
-last_seen: '2026-06-25T20:51:09.721477+05:30'
-last_checked: '2026-06-25T20:51:09.721477+05:30'
+first_seen: '2026-07-07T04:17:39.312516+05:30'
+last_seen: '2026-07-07T04:17:39.312516+05:30'
+last_checked: '2026-07-07T04:17:39.312516+05:30'
 health_score: 100
 ---
 
@@ -24,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **LoRA Tuning**: The document outlines the process of fine-tuning Gemma models using Low-Rank Adaptation (LoRA), a parameter-efficient transfer learning method that freezes pre-trained weights and injects trainable low-rank matrices into transformer layers.
+- **Google Colab Access**: Requires authentication via Google accounts to access the hosted Jupyter notebook environment for running tutorials.
 
-- **Implementation Details**: Includes code snippets for applying LoRA to Gemma's attention layers (e.g., `LoRALinear` class), with configurable rank (`r`), alpha (`lora_alpha`), and dropout (`lora_dropout`) hyperparameters.
+- **Haystack Tutorials Repository**: Hosted on GitHub under `deepset-ai/haystack-tutorials`, containing interactive notebooks like `27_First_RAG_Pipeline.ipynb`.
 
-- **Training Workflow**: Demonstrates integration with Hugging Face's `Trainer` API, leveraging PEFT (Parameter-Efficient Fine-Tuning) libraries for memory-efficient training, and highlights metrics like perplexity for evaluation.
+- **RAG Pipeline Tutorial**: Focuses on implementing a Retrieval-Augmented Generation (RAG) pipeline using Haystack, a framework for NLP question answering and document search.
 
 ## Why It Matters
 
@@ -38,16 +35,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T20:51:09.721462+05:30
+- Published: 2026-07-07T04:17:39.312510+05:30
 
 ## Related Tags
 
-- benchmark
-- models
 - rag
 - web-crawled
-- workflows
 
 ## Source
 
-Original source: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
+Original source: https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/27_First_RAG_Pipeline.ipynb

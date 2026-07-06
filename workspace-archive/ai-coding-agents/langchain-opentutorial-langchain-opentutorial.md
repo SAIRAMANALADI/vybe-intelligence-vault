@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository providing open-source tutorials on LangChain and LangGraph, covering agent-based workflows and integrations.
-- **Technical Stack**: Primarily implemented in Jupyter Notebooks, focusing on practical implementations of LangChain/LangGraph concepts.
-- **Metadata**: 1,087 stars, 341 forks, last updated July 5, 2026, with topics including agent frameworks, LangChain, and LangGraph.
+- **Repository Overview**: Open-source tutorial repository for LangChain and LangGraph, featuring Jupyter Notebooks with 1,087 stars and 341 forks.
+- **Technical Focus**: Covers agent-based workflows, LangChain framework integration, and LangGraph graph-based execution.
+- **Update Status**: Last updated on July 5, 2026, with active development in agentic AI systems.
 
 ## Use Cases
 

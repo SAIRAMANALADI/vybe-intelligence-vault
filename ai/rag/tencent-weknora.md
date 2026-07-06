@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Tencent/WeKnora
-collected_at: '2026-07-07T00:47:29.884013+05:30'
-published_at: '2026-07-06T19:07:35Z'
+collected_at: '2026-07-07T04:10:46.921702+05:30'
+published_at: '2026-07-06T20:49:43Z'
 tags:
 - agents
 - benchmark
@@ -16,7 +16,7 @@ tags:
 - models
 - openai
 - rag
-stars: 17859
+stars: 17860
 language: Go
 status: active
 license: NOASSERTION
@@ -24,9 +24,9 @@ archived: false
 created_at: '2025-07-22T08:01:23Z'
 pushed_at: '2026-07-06T15:30:33Z'
 resource_id: github:tencent/weknora
-first_seen: '2026-07-07T00:47:29.884013+05:30'
-last_seen: '2026-07-07T00:47:29.884013+05:30'
-last_checked: '2026-07-07T00:47:29.884013+05:30'
+first_seen: '2026-07-07T04:10:46.921702+05:30'
+last_seen: '2026-07-07T04:10:46.921702+05:30'
+last_checked: '2026-07-07T04:10:46.921702+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,15 @@ health_score: 100
 
 ## Summary
 
-- **Multi-functional LLM Platform**: Converts raw documents into a queryable RAG system, autonomous reasoning agent, and self-maintaining Wiki, supporting multi-tenancy and multi-model integration (e.g., Ollama, OpenAI).
+- **Multi-modal LLM Knowledge Platform**: Converts raw documents into a **queryable RAG (Retrieval-Augmented Generation)**, **autonomous reasoning agent**, and **self-maintaining Wiki** with support for **multi-tenancy** and **multi-model** LLM integration (e.g., OpenAI, Ollama).
 
-- **Technical Stack**: Implemented in Go, featuring vector search, embeddings, reranking, semantic search, and evaluation tools for generative AI applications.
+- **Technical Stack & Features**:
+  - **Backend**: Go-based architecture with **vector search**, **semantic search**, **reranking**, and **embeddings** for efficient document retrieval.
+  - **Functionality**: Enables **question-answering**, **chatbot interactions**, and **evaluation pipelines** for generative AI applications.
 
-- **Features**: Supports chatbots, question-answering, and knowledge-base management with semantic and vector-based retrieval, optimized for scalability and modularity.
+- **Deployment & Scalability**:
+  - Supports **OpenAI-compatible APIs** and **local LLM deployments** (e.g., Ollama).
+  - Designed for **scalable, multi-tenant** environments with **knowledge base management** and **automated Wiki maintenance**.
 
 ## Why It Matters
 
@@ -47,11 +51,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Tencent
-- Stars: 17859
+- Stars: 17860
 - Forks: 2414
 - Language: Go
 - Topics: agent, agentic, ai, chatbot, embeddings, evaluation, generative-ai, golang, knowledge-base, llm, multi-tenant, multimodel, ollama, openai, question-answering, rag, reranking, semantic-search, vector-search, wiki
-- Last Updated: 2026-07-06T19:07:35Z
+- Last Updated: 2026-07-06T20:49:43Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-07-22T08:01:23Z

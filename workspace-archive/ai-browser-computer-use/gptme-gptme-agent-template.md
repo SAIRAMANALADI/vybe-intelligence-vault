@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a structured workspace template for deploying persistent, autonomous agents using `gptme`, enabling capabilities like building, learning, social interaction, and task assistance.
-
-- **Technical Stack**: Primarily implemented in **Shell**, facilitating agent initialization, configuration, and runtime management within a standardized environment.
-
-- **Metadata**: Repository has **49 stars**, **27 forks**, and was last updated on **July 2, 2026** (indicating active maintenan
+- **Purpose**: Provides a structured workspace template for deploying persistent autonomous agents using `gptme`, enabling capabilities like building, learning, social interaction, and task assistance.
+- **Technical Stack**: Primarily implemented in Shell, facilitating agent orchestration and environment configuration.
+- **Metadata**: Maintained under MIT License, last updated July 2, 2026, with 49 stars and 27 forks on GitHub.
 
 ## Use Cases
 

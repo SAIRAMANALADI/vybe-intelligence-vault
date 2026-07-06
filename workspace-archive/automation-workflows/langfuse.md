@@ -41,9 +41,9 @@ selection_reason:
 
 - **Adoption Metrics**: Deployed by **19** of the Fortune 50 companies, processing **10+ billion** observations/month, with **100,000+** engineers building on the platform.
 
-- **Core Capabilities**: Provides end-to-end LLM engineering observability via hierarchical traces, prompt management, LLM-as-a-judge evaluations, human annotation workflows, and cost/latency monitoring in a single integrated platform.
+- **Core Functionality**: End-to-end LLM engineering platform providing **observability, prompt management, evaluation, experiments, and human annotation** in a unified workflow for AI agents/products from prototype to production.
 
-- **Multi-Framework Support**: Compatible with **100+ integrations** (e.g., LangChain, Ve
+- **Integration Ecosystem**: Supports **100+ integrations** (e.g., LangChain, Vercel AI SDK, O
 
 ## Use Cases
 

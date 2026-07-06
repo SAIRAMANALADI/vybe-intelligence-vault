@@ -4,11 +4,12 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-06-25T16:40:05.408003+05:30'
-collected_at: '2026-06-25T16:40:05.408012+05:30'
+published_at: '2026-07-07T04:16:04.364616+05:30'
+collected_at: '2026-07-07T04:16:04.364623+05:30'
 tags:
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag
@@ -17,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-06-25T16:40:05.408012+05:30'
-last_seen: '2026-06-25T16:40:05.408012+05:30'
-last_checked: '2026-06-25T16:40:05.408012+05:30'
+first_seen: '2026-07-07T04:16:04.364623+05:30'
+last_seen: '2026-07-07T04:16:04.364623+05:30'
+last_checked: '2026-07-07T04:16:04.364623+05:30'
 health_score: 100
 ---
 
@@ -27,8 +28,11 @@ health_score: 100
 
 ## Summary
 
-*   Haystack enables the construction of advanced RAG pipelines, including generative, multimodal, conversational, and agentic configurations with websearch fallback and hybrid retrieval, alongside multi-agent systems leveraging tool-calling and human-in-the-loop strategies.
-*   The framework supports robust pipeline engineering through serialization (YAML/Python), custom `SuperComponents`, diverse file type preprocessing, and metadata embedding for enhanced retrieval, complemented by
+- **Evaluation Framework**: Haystack provides a guided tutorial for implementing evaluation metrics to assess RAG pipeline performance, covering statistical and model-based evaluation techniques for assessing retrieval and generation quality.
+
+- **Agentic Architectures**: Tutorials demonstrate advanced agentic workflows, including multi-agent systems, tool-calling agents with web search integration, and human-in-the-loop confirmation strategies for controlled AI execution.
+
+- **Multimodal & Structured Pipelines**: Haystack supports multimodal RAG (vision+text), structured output generation via OpenAI/Pydantic, and hybrid retrieval (dense + keyword-based) for enhanced document processing and query routing.
 
 ## Why It Matters
 
@@ -38,12 +42,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:40:05.408003+05:30
+- Published: 2026-07-07T04:16:04.364616+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag

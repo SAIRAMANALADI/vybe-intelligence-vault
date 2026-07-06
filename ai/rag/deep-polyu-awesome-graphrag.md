@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/Awesome-GraphRAG
-collected_at: '2026-07-07T00:47:54.878998+05:30'
+collected_at: '2026-07-07T04:11:06.940471+05:30'
 published_at: '2026-07-06T16:22:41Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-21T08:29:58Z'
 pushed_at: '2026-06-02T12:52:38Z'
 resource_id: github:deep-polyu/awesome-graphrag
-first_seen: '2026-07-07T00:47:54.878998+05:30'
-last_seen: '2026-07-07T00:47:54.878998+05:30'
-last_checked: '2026-07-07T00:47:54.878998+05:30'
+first_seen: '2026-07-07T04:11:06.940471+05:30'
+last_seen: '2026-07-07T04:11:06.940471+05:30'
+last_checked: '2026-07-07T04:11:06.940471+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Comprehensive collection of surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, covering knowledge graphs, large language models (LLMs), and RAG frameworks.
-- **Technical Scope**: Encompasses **GraphRAG-specific topics** (e.g., graph-augmented retrieval, graph neural networks for RAG) and broader **LLM-RAG integration** methodologies.
-- **Active Maintenance**: Last updated **July 2026**, indicating ongoing updates with 2,510 stars and 219 forks, reflecting community engagement in cutting-edge RAG research.
+- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, covering knowledge graphs, large language models (LLMs), and RAG frameworks.
+- **Technical Scope**: Encompasses **GraphRAG-specific topics** (e.g., graph-augmented retrieval, structured knowledge integration) and adjacent domains (e.g., knowledge graph-enhanced LLMs, retrieval mechanisms).
+- **Repository Metrics**: 2,510 stars, 219 forks, last updated **July 6, 2026**; language unspecified but likely includes Python/Markdown for documentation and code.
 
 ## Why It Matters
 

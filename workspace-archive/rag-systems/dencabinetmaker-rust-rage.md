@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: DenCabinetmaker/Rust-Rage, a Rust-based cheat repository featuring aimbot, wallhack, and ESP functionalities.
-- **Metadata**: 44 stars, 18 forks, last updated on 2026-07-06, language unspecified.
-- **Purpose**: Designed as a cheating toolkit for the game Rust, integrating advanced visual and targeting enhancements.
+- **Repository**: Rust-Rage is a Rust-based cheating toolkit (aimbot, wallhack, ESP) for *Counter-Strike 2* (CS2), last updated in **July 2026**.
+- **Codebase**: Language unspecified (likely Rust), with **44 stars** and **18 forks** on GitHub.
+- **Purpose**: Designed for **game hacking** (visual/audio cheats) in *Counter-Strike 2*, flagged by anti-cheat systems (e.g., VAC, EAC).
 
 ## Use Cases
 

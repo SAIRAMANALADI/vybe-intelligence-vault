@@ -3,18 +3,18 @@ title: clickhouse/clickhouse-server - Docker Image
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://hub.docker.com/r/clickhouse/clickhouse-server
-published_at: '2026-06-24T20:52:23.795458+05:30'
-collected_at: '2026-06-24T20:52:23.795473+05:30'
+source_url: https://hub.docker.com/r/clickhouse/clickhouse-server/
+published_at: '2026-07-07T04:22:12.318680+05:30'
+collected_at: '2026-07-07T04:22:12.318689+05:30'
 tags:
 - hackernews
 - reddit
 - web-crawled
 status: active
 resource_id: blog:clickhouse-clickhouse-server-docker-image
-first_seen: '2026-06-24T20:52:23.795473+05:30'
-last_seen: '2026-06-24T20:52:23.795473+05:30'
-last_checked: '2026-06-24T20:52:23.795473+05:30'
+first_seen: '2026-07-07T04:22:12.318689+05:30'
+last_seen: '2026-07-07T04:22:12.318689+05:30'
+last_checked: '2026-07-07T04:22:12.318689+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **ClickHouse Server Docker Image**: Official image for ClickHouse, an open-source column-oriented OLAP DBMS optimized for real-time SQL query processing, with performance 100-1000x faster than traditional RDBMS, handling billions of rows/sec.
+- **ClickHouse Server Docker Image**: Official Docker image for ClickHouse, an open-source column-oriented OLAP DBMS optimized for real-time SQL analytical queries, with performance 100-1000x faster than traditional RDBMS, supporting hundreds of millions to billions of rows per second.
 
-- **Versioning & Compatibility**: Supports `latest`, branch (`22.2`), and full version tags (`22.2.3`), with optional `-alpine` variants; requires SSE3 (x86) or ARMv8.2-A+ (Graviton ≥2) CPU support; Ubuntu-based images need Docker ≥20.10.10.
+- **Compatibility & Versions**: Supports `amd64` (requires SSE3) and `arm64` (requires ARMv8.2-A+); version tags include `latest`, branch-specific (e.g., `22.2`), full versions (e.g., `22.2.3`), and `-alpine` variants; Ubuntu-based images require Docker ≥20.10.10.
 
-- **Deployment & Configuration**: Exposes ports `8123` (HTTP) and `9000` (native); supports persistent volumes (`/var/lib/clickhouse`, `/var/log/clickhouse-server`), custom configs via mounted XML files, and initialization scripts (`/docker-entrypoint-initdb.d`); requires `--cap-add` for advanced features (e.g., `SYS_NICE`, `IPC_LOCK`).
+- **Deployment & Configuration**: Default ports `8123` (HTTP) and `9000` (native client); persistent volumes recommended for `/var/lib/clickhouse/` (data) and `/var/log/clickhouse-server/` (logs); supports custom configs via mounted XML files and initialization scripts in `/docker-entrypoint-initdb.d/`.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T20:52:23.795458+05:30
+- Published: 2026-07-07T04:22:12.318680+05:30
 
 ## Related Tags
 
@@ -46,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://hub.docker.com/r/clickhouse/clickhouse-server
+Original source: https://hub.docker.com/r/clickhouse/clickhouse-server/
