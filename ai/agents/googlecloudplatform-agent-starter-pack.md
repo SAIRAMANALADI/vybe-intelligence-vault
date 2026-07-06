@@ -2,20 +2,26 @@
 title: GoogleCloudPlatform/agent-starter-pack
 category: ai/agents
 source_type: github
-source_name: GitHub Topics AI Search
-source_url: https://github.com/googlecloudplatform/agent-starter-pack
-collected_at: '2026-06-25T22:54:20.166888+05:30'
-published_at: '2026-06-25T15:38:33Z'
+source_name: GitHub Discovery
+source_url: https://github.com/GoogleCloudPlatform/agent-starter-pack
+collected_at: '2026-07-07T00:50:00.002819+05:30'
+published_at: '2026-07-06T07:34:54Z'
 tags:
 - agents
 - benchmark
-stars: 6494
+- github-repo
+- python
+stars: 6505
 language: Python
 status: active
+license: Apache-2.0
+archived: false
+created_at: '2025-01-31T16:03:06Z'
+pushed_at: '2026-06-30T02:50:06Z'
 resource_id: github:googlecloudplatform/agent-starter-pack
-first_seen: '2026-06-18T23:35:18.966667+05:30'
-last_seen: '2026-06-25T22:54:20.166888+05:30'
-last_checked: '2026-06-25T22:54:20.166888+05:30'
+first_seen: '2026-07-07T00:50:00.002819+05:30'
+last_seen: '2026-07-07T00:50:00.002819+05:30'
+last_checked: '2026-07-07T00:50:00.002819+05:30'
 health_score: 100
 ---
 
@@ -23,7 +29,11 @@ health_score: 100
 
 ## Summary
 
-Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.
+- **Production-ready AI agent templates** for Google Cloud, pre-configured with CI/CD pipelines, evaluation frameworks, and observability tools to accelerate deployment.
+
+- **Gemini and GenAI integration** with built-in support for LLMops and MLOps best practices, enabling scalable, enterprise-grade agent development.
+
+- **Python-based framework** optimized for Google Cloud Platform (GCP), featuring modular architecture for rapid agent prototyping and deployment.
 
 ## Why It Matters
 
@@ -32,11 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: GoogleCloudPlatform
-- Stars: 6494
-- Forks: 1492
+- Stars: 6505
+- Forks: 1493
 - Language: Python
 - Topics: agents, gcp, gemini, genai-agents, generative-ai, llmops, mlops, observability
-- Last Updated: 2026-06-25T15:38:33Z
+- Last Updated: 2026-07-06T07:34:54Z
+- License: Apache-2.0
+- Archived: No
+- Created At: 2025-01-31T16:03:06Z
+- Pushed At: 2026-06-30T02:50:06Z
 
 ## Possible Use Cases
 
@@ -54,4 +68,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/googlecloudplatform/agent-starter-pack
+Original source: https://github.com/GoogleCloudPlatform/agent-starter-pack

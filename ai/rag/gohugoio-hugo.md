@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/gohugoio/hugo/releases
-published_at: '2026-06-25T22:59:29.449799+05:30'
-collected_at: '2026-06-25T22:59:29.449806+05:30'
+published_at: '2026-07-07T00:53:08.577240+05:30'
+collected_at: '2026-07-07T00:53:08.577259+05:30'
 tags:
 - agents
 - frontend_ui
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugo
-first_seen: '2026-06-25T22:59:29.449806+05:30'
-last_seen: '2026-06-25T22:59:29.449806+05:30'
-last_checked: '2026-06-25T22:59:29.449806+05:30'
+first_seen: '2026-07-07T00:53:08.577259+05:30'
+last_seen: '2026-07-07T00:53:08.577259+05:30'
+last_checked: '2026-07-07T00:53:08.577259+05:30'
 health_score: 100
 ---
 
@@ -26,9 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Hugo v0.163.3** introduced fixes for code block rendering (escaping language names), preserved non-ASCII whitespace in parsers, and added support for Babel/PostCSS config variants in resource processing.
-- **Hugo v0.163.2** resolved `ERR_ACCESS_DENIED` in Node's resolver and standardized external converter behavior for missing dependencies.
-- **Hugo v0.163.0** improved AVIF image handling (default quality reduced to 60, added `hint` for chroma subsampling) and deprecated legacy imaging settings.
+- **Hugo v0.164.0** introduces Chroma dark/light mode syntax highlighting pairs, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), Pandoc citation support, and fixes a performance regression from v0.128.0 affecting larger sites.
+
+- **Deprecations & Changes**: Resources.PostProcess is deprecated in favor of `templates.Defer`; added `markup.rst.syntaxHighlight` option and sub-path support in `Page.Render` layouts; improved `hugio` performance via `hasBytesWriter` optimization.
+
+- **Dependency Updates**: Upgraded `esbuild` to v0.28.1, added Chroma dark/light mode support, and updated Go modules (`x/tools`, `x/image`, `x/net`, `x/mod`) and other libraries (e.g., `go-toml/v2`, `kin-openapi`).
 
 ## Why It Matters
 
@@ -38,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T22:59:29.449799+05:30
+- Published: 2026-07-07T00:53:08.577240+05:30
 
 ## Related Tags
 

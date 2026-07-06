@@ -40,9 +40,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking strategies, embedding models (optimized for semantic search), and vector databases (e.g., Supabase) for efficient retrieval; LangChain provides modular implementation for retrieval and generation phases.
+- **RAG Pipeline Architecture**: Core components include document chunking (optimized for context retention), vector embeddings (using models like `all-MiniLM-L6-v2`), and retrieval via Supabase vector DB with hybrid search (dense + sparse) for precision.
 
-- **Production Optimization Techniques**: Hybrid search (dense + sparse retrieval), query expansion/rewriting, and caching strategies reduce latency; load balancing across multiple models and deployment via Cloudflare Wo
+- **Production Optimization**: Implements caching (e.g., Redis for repeated queries), load balancing across multiple LLM instances, and Cloudflare Workers for edge deployment to reduce latency and cost.
+
+- **Monitoring & Scalability**: Integra
 
 ## Use Cases
 

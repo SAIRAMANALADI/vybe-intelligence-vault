@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Technical Focus**: Repository provides a detailed breakdown of Knowledge Graph Retrieval-Augmented Generation (GraphRAG), including visual diagrams and practical examples to illustrate the integration of knowledge graphs with RAG pipelines.
+- **Knowledge Graph RAG Architecture**: Provides a detailed breakdown of integrating knowledge graphs with Retrieval-Augmented Generation (RAG), including node/edge extraction, graph construction, and query optimization techniques.
 
-- **Implementation**: Developed as a Jupyter Notebook, the resource demonstrates the construction and querying of knowledge graphs for enhancing RAG systems, emphasizing structured data retrieval and semantic enrichment.
+- **Visual & Example-Driven Explanation**: Includes Jupyter Notebook-based diagrams and practical examples to illustrate graph-based retrieval, entity linking, and contextual augmentation in RAG pipelines.
 
-- **Key Metrics**: Maintains 174
+- **Implementation Focus**: Covers technical steps for build
 
 ## Use Cases
 

@@ -15,6 +15,7 @@ tags:
 - meta-ai
 - models
 - web-crawled
+- workflows
 selection_reason:
 - Valuable developer reference
 ---
@@ -31,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Layout-Aware OCR**: Parse performs advanced optical character recognition (OCR) while preserving document structure, enabling accurate extraction of text, tables, and charts from PDFs and scans.
-
-- **Multi-Format Output**: Converts parsed documents into clean markdown, plain text, or structured JSON, facilitating seamless integration with LLM pipelines.
-
-- **Agentic Processing**: Designed as an autonomous parsing agent, optimizing document understanding for downstream AI tasks with minimal m
+- **Layout-aware OCR**: Parse performs advanced optical character recognition (OCR) while preserving document layout structure, enabling accurate extraction of text, tables, and charts from PDFs and scans.
+- **Multi-format output**: Converts processed documents into clean markdown, plain text, or structured JSON, optimizing compatibility with downstream LLM pipelines.
+- **Agentic processing**: Designed as an autonomous agent for document parsing, integrating layout analysis, OCR, and structured
 
 ## Use Cases
 

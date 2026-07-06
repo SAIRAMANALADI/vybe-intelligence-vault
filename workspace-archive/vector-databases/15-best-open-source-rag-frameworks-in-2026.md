@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Modular framework for LLM application development with 105k+ GitHub stars, offering data connection interfaces, model flexibility, retrieval components, and evaluation tools for RAG pipelines.
+- **LangChain**: Modular framework for LLM/RAG pipelines with 105k+ GitHub stars; supports model flexibility, vector stores, retrieval strategies, and evaluation tools via `pip install -U langchain`.
 
-- **RAGFlow**: Open-source RAG engine (48.5k stars) specializing in deep document understanding, supporting structured extraction from PDFs, GraphRAG, agentic reasoning, and multiple embedding/storage backends.
+- **Milvus**: High-performance, distributed vector database (33.9k stars) optimized for ANN search; enables hybrid retrieval, multi-modal embeddings, and seamless integration with RAG frameworks like LangChain/LlamaIndex.
 
-- **Milvus**: High-performance vector database (33.9k stars) optimized for sc
+- **LlamaIndex**: Data framework (40.8k stars) bridging LLMs to private data
 
 ## Use Cases
 

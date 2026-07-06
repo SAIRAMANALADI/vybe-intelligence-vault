@@ -4,25 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVISOsecurity/cyber-security-llm-agents
-collected_at: '2026-06-25T22:58:12.685459+05:30'
-published_at: '2026-06-25T09:22:22Z'
+collected_at: '2026-07-07T00:50:00.018500+05:30'
+published_at: '2026-06-29T07:47:34Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
+- scripts
 - workflows
-stars: 372
+stars: 373
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2024-02-29T09:54:26Z'
 pushed_at: '2024-05-07T15:31:28Z'
 resource_id: github:nvisosecurity/cyber-security-llm-agents
-first_seen: '2026-06-25T22:58:12.685459+05:30'
-last_seen: '2026-06-25T22:58:12.685459+05:30'
-last_checked: '2026-06-25T22:58:12.685459+05:30'
+first_seen: '2026-07-07T00:50:00.018500+05:30'
+last_seen: '2026-07-07T00:50:00.018500+05:30'
+last_checked: '2026-07-07T00:50:00.018500+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Repository of LLM-based agents designed to automate cybersecurity tasks, including adversary emulation, leveraging frameworks like CALDERA.
-- **Technical Stack**: Implemented in Jupyter Notebooks, integrating AI/ML models for infosec workflows.
-- **Updates**: Last modified on 2026-06-25, with 372 stars and 70 forks, indicating active community engagement.
+- **Purpose**: Repository containing LLM-based agents designed to automate common cybersecurity tasks (e.g., adversary emulation) using frameworks like **CALDERA**.
+- **Technical Stack**: Implemented primarily in **Jupyter Notebooks**, leveraging LLMs for infosec workflows.
+- **Scope**: Focuses on **AI-driven cybersecurity automation**, with topics including adversary emulation, AI integration, and CALDERA plugin development.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVISOsecurity
-- Stars: 372
-- Forks: 70
+- Stars: 373
+- Forks: 73
 - Language: Jupyter Notebook
 - Topics: adversary-emulation, ai, caldera, cybersecurity, infosec, llm
-- Last Updated: 2026-06-25T09:22:22Z
+- Last Updated: 2026-06-29T07:47:34Z
 - Archived: No
 - Created At: 2024-02-29T09:54:26Z
 - Pushed At: 2024-05-07T15:31:28Z

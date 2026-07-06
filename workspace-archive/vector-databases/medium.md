@@ -2,7 +2,7 @@
 title: Medium
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://medium.com/search?source=post_page
+source_url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=
 resource_id: blog:medium
 local_vault_path: ai/rag/medium.md
 quality_score: 70
@@ -26,9 +26,9 @@ selection_reason:
 
 ## Summary
 
-- **Search Query Logging**: Modern search engines log user queries to improve relevance, personalization, and ad targeting, raising privacy concerns due to potential data exposure.
-- **Query Expansion Techniques**: Advanced systems use synonyms, semantic analysis, or user context to refine search results, enhancing recall while balancing precision.
-- **Real-Time Processing**: High-performance search architectures employ distributed systems (e.g., Apache Kafka, Elasticsearch) to handle real-time
+- **Data Collection Scope**: Collects user-provided data (e.g., name, email, posts, bio) and automatically gathered data (e.g., IP address, device identifiers, reading history, cookies/web beacons tracking).
+- **Third-Party Sharing**: Shares personal data with vendors, service providers, and affiliates for analytics, fraud prevention, and infrastructure; may disclose data for legal compliance or mergers.
+- **Cross-Border Transfers**: Transfers user data globally (e.g., to AWS data centers) with
 
 ## Use Cases
 
@@ -38,7 +38,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://medium.com/search?source=post_page
+Original source URL: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=
 
 ## Local Vault File
 

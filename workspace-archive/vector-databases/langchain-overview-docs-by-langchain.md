@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - anthropic
-- benchmark
 - meta-ai
 - models
 - openai
@@ -36,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- `create_agent` provides a minimal, modular harness for composing agents from model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
-- LangChain agents leverage LangGraph for durable execution, persistence, and human-in-the-loop workflows, while LangSmith enables tracing, debugging, and evaluation of agent behavior.
-- Standardized model interfaces and incremental middleware-based customization allow portable, scalable agent development with minimal code c
+- `create_agent` in LangChain provides a minimal, configurable harness for composing agents from model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
+- LangChain agents leverage LangGraph for durable execution, human-in-the-loop support, and persistence, enabling advanced orchestration workflows.
+- LangSmith integrates for tracing, debugging, and evaluating agent behavior, with features like state transition inspection and latency analysis.
 
 ## Use Cases
 

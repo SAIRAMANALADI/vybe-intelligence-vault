@@ -15,13 +15,14 @@ tags:
 - openai
 - paper
 - rag
-status: active
+status: inactive
 resource_id: blog:import-ai-462-superpersuasion-self-sustaining-ai-p
 first_seen: '2026-06-25T12:31:11.537642+05:30'
 last_seen: '2026-06-25T12:31:11.537642+05:30'
 last_checked: '2026-06-25T12:31:11.537642+05:30'
 health_score: 100
 ---
+
 
 # Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI
 

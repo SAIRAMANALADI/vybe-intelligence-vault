@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-06-25T22:55:42.506450+05:30'
-published_at: '2026-06-23T13:29:42Z'
+collected_at: '2026-07-07T00:47:29.788492+05:30'
+published_at: '2026-06-25T20:12:14Z'
 tags:
-- benchmark
 - github-repo
 - jupyter notebook
 - models
 - rag
 - workflows
-stars: 1220
+stars: 1221
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-06-25T22:55:42.506450+05:30'
-last_seen: '2026-06-25T22:55:42.506450+05:30'
-last_checked: '2026-06-25T22:55:42.506450+05:30'
+first_seen: '2026-07-07T00:47:29.788492+05:30'
+last_seen: '2026-07-07T00:47:29.788492+05:30'
+last_checked: '2026-07-07T00:47:29.788492+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source Python-based tool (Jupyter Notebook) for interactive visualization and debugging of Retrieval-Augmented Generation (RAG) pipelines, leveraging Streamlit for UI.
-- **Key Features**: Enables dynamic exploration of RAG components (retrieval, generation, and evaluation) with real-time interactive visualizations.
-- **Tech Stack**: Built in Python, integrates with LLMs, and supports modular analysis of RAG workflows (e.g., retrieval quality, prompt engineering).
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for dynamic visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time debugging and optimization.
+
+- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based exploration of RAG components (e.g., retrieval, generation) with Python-based data processing and visualization.
+
+- **LLM & Python-Centric**: Designed for LLM workflows, supporting Python-based RAG pipelines with modular visualization of embeddings, retrieval metrics, and response quality.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: gabrielchua
-- Stars: 1220
+- Stars: 1221
 - Forks: 115
 - Language: Jupyter Notebook
 - Topics: interactive, llm, python, rag, streamlit, visualization
-- Last Updated: 2026-06-23T13:29:42Z
+- Last Updated: 2026-06-25T20:12:14Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-11T15:31:36Z

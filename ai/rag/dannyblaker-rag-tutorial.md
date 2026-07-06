@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/dannyblaker/rag-tutorial
-collected_at: '2026-06-25T22:55:12.428215+05:30'
-published_at: '2026-06-16T06:56:43Z'
+collected_at: '2026-07-07T00:46:59.742461+05:30'
+published_at: '2026-07-06T17:51:07Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
 - reddit
-stars: 6
+stars: 8
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-03T09:47:50Z'
 pushed_at: '2026-01-03T09:50:45Z'
 resource_id: github:dannyblaker/rag-tutorial
-first_seen: '2026-06-25T22:55:12.428215+05:30'
-last_seen: '2026-06-25T22:55:12.428215+05:30'
-last_checked: '2026-06-25T22:55:12.428215+05:30'
+first_seen: '2026-07-07T00:46:59.742461+05:30'
+last_seen: '2026-07-07T00:46:59.742461+05:30'
+last_checked: '2026-07-07T00:46:59.742461+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from foundational concepts to production deployment, with executable code examples and reusable utilities.
-- **Technical Scope**: Covers embeddings, vector databases, LLMs, and advanced RAG techniques, emphasizing practical implementation and hands-on demos.
-- **Python-Based Repository**: Includes modular utilities and demos in Python, last updated June 2026, with no prior topics tagged but focused on RAG system construction.
+- **Progressive RAG Tutorial**: 6-step guide covering end-to-end RAG development, from fundamentals to production deployment, with executable code and reusable utilities.
+- **Technical Scope**: Covers embeddings, vector databases, LLMs, and advanced RAG techniques with hands-on demos and practical implementations.
+- **Python-Based**: Repository contains Python-based tutorials, utilities, and examples for building scalable RAG systems.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: dannyblaker
-- Stars: 6
+- Stars: 8
 - Forks: 0
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-16T06:56:43Z
+- Last Updated: 2026-07-06T17:51:07Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-01-03T09:47:50Z

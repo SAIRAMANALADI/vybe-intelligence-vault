@@ -3,13 +3,13 @@ title: 'UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Mod
   and Granularities'
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://universalrag.github.io
+source_url: https://universalrag.github.io/
 resource_id: blog:universalrag-retrieval-augmented-generation-over-c
 local_vault_path: ai/rag/universalrag-retrieval-augmented-generation-over-c.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
@@ -18,7 +18,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities
@@ -27,14 +27,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-Retrieval-Augmented Generation (RAG) has shown substantial promise in improving factual accuracy by grounding model responses with external knowledge relevant to queries. However, most existing approaches are limited to a text-only corpus, and while ...
+- **UniversalRAG Framework**: Introduces an any-to-any RAG system that retrieves and integrates knowledge from heterogeneous sources with diverse modalities (e.g., text, images, videos) and granularities, addressing real-world queries requiring varied knowledge types.
+
+- **Modality-Aware Routing**: Mitigates the *modality gap* (where retrieval favors same-modality items) by dynamically selecting the most relevant modality-specific corpus for targeted retrieval, supported by theoretical analysis.
 
 ## Use Cases
 
@@ -44,7 +46,7 @@ Retrieval-Augmented Generation (RAG) has shown substantial promise in improving 
 
 ## Source
 
-Original source URL: https://universalrag.github.io
+Original source URL: https://universalrag.github.io/
 
 ## Local Vault File
 

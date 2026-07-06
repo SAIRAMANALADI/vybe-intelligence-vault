@@ -6,7 +6,7 @@ source_url: https://github.com/eosphoros-ai/DB-GPT
 resource_id: github:eosphoros-ai/db-gpt
 local_vault_path: ai/rag/eosphoros-ai-db-gpt.md
 quality_score: 70
-archive_score: 77
+archive_score: 75
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -19,7 +19,6 @@ tags:
 - rag
 - workflows
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
@@ -28,17 +27,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) for querying, analysis, and RAG-based augmentation.
-- **Privacy & Security Focus**: Supports local/private deployments with encrypted data handling, targeting secure AI + data product integration (BGI-compliant).
-- **Modular Architecture**: Python-based, extensible via agents, with Hacktoberfest support and integration for vector databases, ensuring sca
+- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interactions with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) for next-gen AI+Data applications.
+- **Multi-Model & RAG Integration**: Supports private LLMs, Retrieval-Augmented Generation (RAG), and security-focused data processing for agentic workflows.
+- **Python-Based Architecture**: Modular Python repository with 19K+ stars, optimized for hacktoberfest contributions, BGI compatibility, and database agent orch
 
 ## Use Cases
 

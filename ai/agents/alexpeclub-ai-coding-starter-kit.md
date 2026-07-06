@@ -4,24 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AlexPEClub/ai-coding-starter-kit
-collected_at: '2026-06-25T20:46:58.118786+05:30'
-published_at: '2026-06-21T17:26:43Z'
+collected_at: '2026-07-07T00:49:04.883292+05:30'
+published_at: '2026-07-03T12:53:10Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- scripts
 - typescript
 - workflows
-stars: 321
+stars: 328
 language: TypeScript
 status: active
 archived: false
 created_at: '2026-01-12T07:41:28Z'
 pushed_at: '2026-06-03T14:27:39Z'
 resource_id: github:alexpeclub/ai-coding-starter-kit
-first_seen: '2026-06-25T20:46:58.118786+05:30'
-last_seen: '2026-06-25T20:46:58.118786+05:30'
-last_checked: '2026-06-25T20:46:58.118786+05:30'
+first_seen: '2026-07-07T00:49:04.883292+05:30'
+last_seen: '2026-07-07T00:49:04.883292+05:30'
+last_checked: '2026-07-07T00:49:04.883292+05:30'
 health_score: 100
 ---
 
@@ -30,8 +31,10 @@ health_score: 100
 ## Summary
 
 - **Next.js Template**: Production-ready starter kit with TypeScript, optimized for AI-driven development workflows.
-- **AI Agents**: Integrates 6 specialized AI agents for automated coding, debugging, and optimization tasks.
-- **Repository Stats**: 321 stars, 788 forks, last updated June 21, 2026.
+
+- **6 Specialized Agents**: Integrates dedicated AI agents for code generation, debugging, testing, documentation, optimization, and deployment automation.
+
+- **Latest Update**: Repository last updated on **2026-07-03** with 328 stars and 794 forks.
 
 ## Why It Matters
 
@@ -40,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: AlexPEClub
-- Stars: 321
-- Forks: 788
+- Stars: 328
+- Forks: 794
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-06-21T17:26:43Z
+- Last Updated: 2026-07-03T12:53:10Z
 - Archived: No
 - Created At: 2026-01-12T07:41:28Z
 - Pushed At: 2026-06-03T14:27:39Z

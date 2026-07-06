@@ -2,7 +2,7 @@
 title: What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://docs.cloud.deepset.ai/docs/getting-started
+source_url: https://docs.cloud.deepset.ai/docs/getting-started?__hstc=17958374.34708e2a09562f4972500c174140941c.1781253286645.1782744530064.1782887335051.6&__hssc=17958374.15.1782887335051&__hsfp=f0d584f5cf03caae536faced7333acfe
 resource_id: blog:what-s-haystack-enterprise-platform-haystack-enter
 local_vault_path: ai/rag/what-s-haystack-enterprise-platform-haystack-enter.md
 quality_score: 70
@@ -12,6 +12,7 @@ resource_kind: benchmark
 importance: medium
 tags:
 - agents
+- benchmark
 - models
 - rag
 - web-crawled
@@ -32,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Processing & Indexing**: Supports automated conversion of raw data (PDFs, Office docs, images) into searchable content via OCR and document conversion, with configurable indexing for fast retrieval in document stores.
+- **Unified AI App Lifecycle Management**: Haystack Enterprise Platform supports end-to-end development, from prototyping to large-scale production deployment, with tools for data ingestion, model selection, evaluation, and monitoring.
 
-- **Modular AI Pipeline Construction**: Enables building enterprise-grade AI agents and RAG pipelines using interchangeable components (retrievers, rankers, generators) via a visual Pipeline Builder, with model-agnostic support for switching LLMs/embeddings.
-
-- **Observab
+- **Modular RAG & Agent Pipelines**: Enables construction of advanced retrieval-augmented generation (RAG) systems and AI agents via configurable pipelines (retrievers, rankers, generators) with support for OCR, document conversion, and multi-model integration.
 
 ## Use Cases
 
@@ -46,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.cloud.deepset.ai/docs/getting-started
+Original source URL: https://docs.cloud.deepset.ai/docs/getting-started?__hstc=17958374.34708e2a09562f4972500c174140941c.1781253286645.1782744530064.1782887335051.6&__hssc=17958374.15.1782887335051&__hsfp=f0d584f5cf03caae536faced7333acfe
 
 ## Local Vault File
 

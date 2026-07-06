@@ -13,13 +13,14 @@ collected_at: '2026-06-25T22:54:19.562857+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:apple-raises-prices-of-macbooks-ipads
 first_seen: '2026-06-25T22:54:19.562857+05:30'
 last_seen: '2026-06-25T22:54:19.562857+05:30'
 last_checked: '2026-06-25T22:54:19.562857+05:30'
 health_score: 100
 ---
+
 
 # Apple raises prices of MacBooks, iPads
 

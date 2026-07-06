@@ -11,13 +11,14 @@ tags:
 - anthropic
 - anthropic-news
 - blog-post
-status: active
+status: inactive
 resource_id: blog:jun-3-2026announcementsintroducing-the-services-tr
 first_seen: '2026-06-16T04:26:32.176140+00:00'
 last_seen: '2026-06-25T22:54:21.038110+05:30'
 last_checked: '2026-06-25T22:54:21.038110+05:30'
 health_score: 100
 ---
+
 
 # Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network
 

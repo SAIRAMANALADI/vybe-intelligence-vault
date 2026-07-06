@@ -14,7 +14,6 @@ tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
 - scripts
 selection_reason:
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Repository aggregates tools, frameworks, and resources for developing AI web agents, emphasizing browser automation and LLM integration.
-- **Technical Scope**: Focuses on Python-based solutions, LLM benchmarking, and AI agent architectures for web interaction.
-- **Community Metrics**: 1,483 stars, 190 forks, last updated June 25, 2026.
+- **Curated collection** of tools, frameworks, and resources for developing AI-powered web agents, including browser automation, LLM integration, and benchmarking utilities.
+- **Python-centric** with focus on AI agents, LLMs, and web interaction automation, featuring 1,497 stars and 192 forks.
+- **Last updated July 2026**, covering topics like AI agents, LLM benchmarking, and browser automation tools.
 
 ## Use Cases
 

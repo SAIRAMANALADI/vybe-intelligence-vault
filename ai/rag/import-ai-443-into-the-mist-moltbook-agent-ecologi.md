@@ -21,13 +21,14 @@ tags:
 - scripts
 - workflows
 - youtube
-status: active
+status: inactive
 resource_id: blog:import-ai-443-into-the-mist-moltbook-agent-ecologi
 first_seen: '2026-06-16T17:27:26.738332+05:30'
 last_seen: '2026-06-25T12:31:11.538130+05:30'
 last_checked: '2026-06-25T12:31:11.538130+05:30'
 health_score: 100
 ---
+
 
 # Import AI 443: Into the mist: Moltbook, agent ecologies, and the internet in transition
 

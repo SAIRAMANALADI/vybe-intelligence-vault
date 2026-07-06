@@ -9,13 +9,11 @@ local_vault_path: ai/rag/complete-rag-tutorial-2025-build-ai-apps-with-retr.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: dataset
 importance: medium
 tags:
-- hackernews
 - rag
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -28,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: benchmark
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **YouTube's RAG Integration**: YouTube's infrastructure supports Retrieval Augmented Generation (RAG) via its [Developers](https://developers.google.com/youtube) portal, enabling AI apps to leverage YouTube's vast video metadata, transcripts, and contextual data for enhanced retrieval and generation tasks.
-
-- **Technical Workflow**: RAG systems on YouTube utilize a two-stage process: retrieval (querying YouTube's search/indexing APIs for relevant video content) and generation (using LLMs to sy
+- YouTube operates under Google LLC, adhering to corporate policies, privacy standards, and safety guidelines outlined in their respective documentation.
+- The platform provides APIs and developer tools via [Google Developers](https://developers.google.com/youtube) for integration, analytics, and customization.
+- YouTube monetization, content policies, and platform mechanics are detailed in the [Creators](https://www.youtube.com/creators/) and [How YouTube Works](https://www.youtube.com/howyoutu
 
 ## Use Cases
 

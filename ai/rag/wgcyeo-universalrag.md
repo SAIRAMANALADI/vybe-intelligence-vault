@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-06-25T22:56:52.549645+05:30'
-published_at: '2026-06-24T07:15:52Z'
+collected_at: '2026-07-07T00:48:39.902729+05:30'
+published_at: '2026-07-02T21:11:00Z'
 tags:
 - github-repo
-- paper
+- models
 - python
 - rag
-stars: 171
+stars: 173
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-06-25T22:56:52.549645+05:30'
-last_seen: '2026-06-25T22:56:52.549645+05:30'
-last_checked: '2026-06-25T22:56:52.549645+05:30'
+first_seen: '2026-07-07T00:48:39.902729+05:30'
+last_seen: '2026-07-07T00:48:39.902729+05:30'
+last_checked: '2026-07-07T00:48:39.902729+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation over diverse modalities (e.g., text, images, tables) and granularities (e.g., document, paragraph, sentence-level), leveraging a unified retrieval mechanism.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence), leveraging unified embeddings for cross-modal retrieval.
 
-- **ACL 2026 Oral Paper**: The repository accompanies a high-impact paper accepted as an oral presentation at ACL 2026, highlighting novel contributions in scalable multimodal retrieval and generation.
+- **Modality-Agnostic Retrieval**: Implements a modality-agnostic retriever using contrastive learning to align embeddings from different modalities into a shared latent space, improving retrieval relevance for mixed-modal queries.
 
-- **Python Implementation**: Provides an open-source Python-based toolkit with modular components for integrating multimodal corpora, retrieval strategies, and generation pipelines, optimized for flexibility and extensibility.
+- **Adaptive Fusion Mechanism**: Features an adaptive fusion module that dynamically weights retrieved information based on query context and modality, optimizing generation quality for complex, multi-source inputs.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: wgcyeo
-- Stars: 171
-- Forks: 12
+- Stars: 173
+- Forks: 13
 - Language: Python
 - Topics: ai, llm, multimodal, rag
-- Last Updated: 2026-06-24T07:15:52Z
+- Last Updated: 2026-07-02T21:11:00Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-04-30T02:55:32Z

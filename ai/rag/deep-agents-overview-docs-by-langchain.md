@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/oss/python/deepagents
-published_at: '2026-06-25T20:49:17.946459+05:30'
-collected_at: '2026-06-25T20:49:17.946473+05:30'
+published_at: '2026-07-07T00:52:33.799405+05:30'
+collected_at: '2026-07-07T00:52:33.799421+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:deep-agents-overview-docs-by-langchain
-first_seen: '2026-06-25T20:49:17.946473+05:30'
-last_seen: '2026-06-25T20:49:17.946473+05:30'
-last_checked: '2026-06-25T20:49:17.946473+05:30'
+first_seen: '2026-07-07T00:52:33.799421+05:30'
+last_seen: '2026-07-07T00:52:33.799421+05:30'
+last_checked: '2026-07-07T00:52:33.799421+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Execution Environment**: Supports tools (custom functions, APIs, MCP), virtual filesystem (pluggable backends: in-memory, local disk, LangGraph store), filesystem permissions (declarative access control), code execution (sandboxed shell + JS interpreter), and streaming (typed event streams for messages, tools, values, and tasks).
+- **Execution Environment**: Supports tools (custom functions, APIs, MCP servers), virtual filesystem with pluggable backends (in-memory, disk, LangGraph store), declarative filesystem permissions, sandboxed code execution (shell/REPL), and streaming of typed events (messages, tools, values).
 
-- **Context Management**: Implements skills, memory, summarization, context offloading, and prompt caching for managing growing context during long runs.
+- **Context Management**: Implements progressive skill loading, persistent memory via `AGENTS.md` files, automatic summarization/offloading of long contexts, and prompt caching to optimize token usage.
 
-- **Delegation & Steering**: Enables parallel task execution via subagents (isolated context windows), task planning, and human-in-the-loop approval/interrupts for critical decisions.
+- **Delegation & Steering**: Enables task planning, subagent spawning in isolated contexts, and human-in-the-loop approvals for critical decisions, with LangGraph runtime providing durable execution and streaming support.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T20:49:17.946459+05:30
+- Published: 2026-07-07T00:52:33.799405+05:30
 
 ## Related Tags
 

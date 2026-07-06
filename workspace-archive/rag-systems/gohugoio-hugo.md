@@ -8,7 +8,7 @@ local_vault_path: ai/rag/gohugoio-hugo.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: template
 importance: medium
 tags:
 - agents
@@ -20,7 +20,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # Releases · gohugoio/hugo · GitHub
@@ -29,16 +29,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Hugo v0.163.3** introduced fixes for code block rendering (escaping language names), preserved non-ASCII whitespace in parsers, and added support for Babel/PostCSS config variants in resource processing.
-- **Hugo v0.163.2** resolved `ERR_ACCESS_DENIED` in Node's resolver and standardized external converter behavior for missing dependencies.
-- **Hugo v0.163.0** improved AVIF image handling (default quality reduced to 60, added `hint` for chroma subsampling) and deprecated legacy imaging setti
+- **Hugo v0.164.0** introduces Chroma dark/light mode syntax highlighting pairs, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), Pandoc citation support, and fixes a performance regression from v0.128.0 affecting larger sites.
+
+- **Deprecations & Changes**: Resources.PostProcess is deprecated in favor of `templates.Defer`; added `markup.rst.syntaxHighlight` option and sub-path support in `Page.Render` layouts; improved `hugio` performance via `hasBytesWriter`
 
 ## Use Cases
 

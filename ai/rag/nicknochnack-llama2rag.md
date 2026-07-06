@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/nicknochnack/Llama2RAG
-collected_at: '2026-06-25T22:55:47.513234+05:30'
+collected_at: '2026-07-07T00:47:34.837138+05:30'
 published_at: '2026-05-24T09:34:54Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-08-18T00:18:33Z'
 pushed_at: '2023-08-18T00:23:09Z'
 resource_id: github:nicknochnack/llama2rag
-first_seen: '2026-06-25T22:55:47.513234+05:30'
-last_seen: '2026-06-25T22:55:47.513234+05:30'
-last_checked: '2026-06-25T22:55:47.513234+05:30'
+first_seen: '2026-07-07T00:47:34.837138+05:30'
+last_seen: '2026-07-07T00:47:34.837138+05:30'
+last_checked: '2026-07-07T00:47:34.837138+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model and LlamaIndex for efficient document retrieval and generation.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model with LlamaIndex for efficient data indexing and retrieval.
 - **Environment**: Developed in a Jupyter Notebook, leveraging Python-based libraries for modular RAG pipeline construction.
-- **Scalability**: Optimized for handling large-scale language model inference with retrieval integration, as indicated by the 70B parameter size.
+- **Scalability**: Optimized for handling large-scale retrieval and generation tasks, with last update indicating ongoing maintenance for compatibility.
 
 ## Why It Matters
 

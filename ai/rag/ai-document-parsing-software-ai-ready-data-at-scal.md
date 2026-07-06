@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
-published_at: '2026-06-25T20:49:22.417399+05:30'
-collected_at: '2026-06-25T20:49:22.417413+05:30'
+published_at: '2026-07-07T00:52:18.799178+05:30'
+collected_at: '2026-07-07T00:52:18.799192+05:30'
 tags:
 - benchmark
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
-first_seen: '2026-06-25T20:49:22.417413+05:30'
-last_seen: '2026-06-25T20:49:22.417413+05:30'
-last_checked: '2026-06-25T20:49:22.417413+05:30'
+first_seen: '2026-07-07T00:52:18.799192+05:30'
+last_seen: '2026-07-07T00:52:18.799192+05:30'
+last_checked: '2026-07-07T00:52:18.799192+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-format parsing engine** supporting 90+ document formats (PDFs, scans, invoices, healthcare forms, etc.) with layout-aware extraction of headers, footers, tables, charts, handwriting, and checkboxes into clean Markdown.
+- **Layout-aware parsing**: Leverages advanced OCR and layout analysis to accurately interpret complex document structures, including headers, footers, multi-column layouts, and split sections.
 
-- **Scalable multimodal architecture** with granular parsing modes, multilingual OCR (100+ languages), and enterprise-grade features including local/cloud deployment, high concurrency, and dedicated support.
+- **Multimodal & multilingual support**: Processes 90+ formats (PDFs, scans, handwriting, tables, charts, images) with native support for 100+ languages, extracting structured markdown while preserving contextual relationships.
 
-- **Proven production deployment** with 1B+ documents processed, 25M+ monthly package downloads, and testimonials from leading AI teams citing superior accuracy and reliability in complex document workflows.
+- **Scalable & configurable**: Offers granular parsing modes (e.g., high-accuracy vs. cost-efficient) with enterprise-grade features like local/cloud deployment, high concurrency, and workflow automation for large-scale document processing.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T20:49:22.417399+05:30
+- Published: 2026-07-07T00:52:18.799178+05:30
 
 ## Related Tags
 

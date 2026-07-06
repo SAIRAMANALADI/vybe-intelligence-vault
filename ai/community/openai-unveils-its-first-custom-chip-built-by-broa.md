@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-unveils-its-first-custom-chip-built-by-broa
 first_seen: '2026-06-25T16:35:45.450824+05:30'
 last_seen: '2026-06-25T22:54:20.482399+05:30'
 last_checked: '2026-06-25T22:54:20.482399+05:30'
 health_score: 100
 ---
+
 
 # OpenAI unveils its first custom chip, built by Broadcom
 

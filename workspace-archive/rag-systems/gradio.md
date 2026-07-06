@@ -2,7 +2,7 @@
 title: Gradio
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://gradio.app
+source_url: https://gradio.app/
 resource_id: blog:gradio
 local_vault_path: ai/rag/gradio.md
 quality_score: 70
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Gradio 6.0** introduces enhanced UI components, improved performance, and new features for rapid ML app development, including streamlined deployment and sharing capabilities.
+- **Gradio 6.0** introduces rapid ML web app development with **40+ pre-built components** (e.g., `ImageSlider`, `AnnotatedImage`, `Chatbot`) for handling diverse data types (images, audio, video, 3D, dataframes) without frontend expertise.
 
-- **40+ pre-built components** support diverse data types (images, audio, video, 3D, dataframes) with minimal Python code, eliminating frontend (JS/CSS) requirements.
+- **Zero-config deployment** via `demo.launch(share=True)` for instant public links or Hugging Face Spaces integration, enabling auto-scaling and permanent hosting with minimal Python code.
 
-- **Permanent hosting** via Hugging Face Spaces with auto-scaling, free deployment, and instant sharing via public links (`demo.launch(share=True)`).
+- **Lightning-fast setup** (`pip install gradio`) abstracts fronten
 
 ## Use Cases
 
@@ -49,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://gradio.app
+Original source URL: https://gradio.app/
 
 ## Local Vault File
 

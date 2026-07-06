@@ -13,7 +13,9 @@ importance: medium
 tags:
 - bicep
 - github-repo
+- openai
 - rag
+- scripts
 - workflows
 selection_reason:
 - Useful for project building
@@ -31,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Azure/GenAIOps-project-template provides an Infrastructure-as-Code (IaC) foundation for deploying Generative AI Operations (GenAIOps) with Retrieval-Augmented Generation (RAG) pipelines using Bicep.
+- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for a Generative AI Operations (GenAIOps) project, enabling automated provisioning of Azure resources for RAG (Retrieval-Augmented Generation) workflows.
 
-- **Components**: The template includes modular Bicep definitions for Azure resources such as compute, networking, and AI services to support scalable RAG workflows.
+- **RAG Pipeline Foundation**: Includes pre-configured Azure services (e.g., Azure AI Search, Azure OpenAI, Azure Functions) to support end-to-end RAG workflows with minimal setup.
 
-- **Deployment**: Designed for Azure environments, enabling automated provisioning of GenAIOps infrastructure with min
+- **CI/CD & Scalability**: Designed for integration with Azure DevOps/GitHub Actions
 
 ## Use Cases
 

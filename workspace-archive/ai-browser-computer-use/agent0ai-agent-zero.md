@@ -1,0 +1,50 @@
+---
+title: agent0ai/agent-zero
+archive_category: ai-browser-computer-use
+source_category: ai/agents
+source_url: https://github.com/agent0ai/agent-zero
+resource_id: github:agent0ai/agent-zero
+local_vault_path: ai/agents/agent0ai-agent-zero.md
+quality_score: 70
+archive_score: 75
+archive_tier: useful
+resource_kind: framework
+importance: medium
+tags:
+- agents
+- github-repo
+- python
+- workflows
+selection_reason:
+- Useful for project building
+---
+
+# agent0ai/agent-zero
+
+## Why This Is In The Archive
+
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 75 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
+
+## Summary
+
+- **Autonomous AI Agent Framework**: Agent Zero is a Python-based framework designed for building autonomous AI agents capable of performing tasks independently on Linux systems.
+- **Modular Architecture**: Implements a modular design with extensible components for memory, tools, and decision-making, enabling customization for diverse autonomous workflows.
+- **Zero-Setup Emphasis**: Focuses on minimal configuration overhead while supporting integration with external APIs, LLMs, and local tools f
+
+## Use Cases
+
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
+
+## Source
+
+Original source URL: https://github.com/agent0ai/agent-zero
+
+## Local Vault File
+
+Path: [agent0ai-agent-zero.md](../../ai/agents/agent0ai-agent-zero.md)

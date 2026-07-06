@@ -4,20 +4,20 @@ Curated highlights from the current week's collection, representing high-quality
 
 ## Top Highlights
 
-*   [pmndrs/triplex](https://github.com/pmndrs/triplex) (Score: 70) - Category: `ai-coding-agents/`
-*   [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) (Score: 70) - Category: `ai-coding-agents/`
-*   [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) (Score: 70) - Category: `ai-coding-agents/`
-*   [#1 Real-Time AI Voice SDK | Krisp](https://krisp.ai/developers) (Score: 70) - Category: `ai-coding-agents/`
-*   [10 Best CrewAI Tutorials to Master Multi‑Agent Workflows (2025 Guide)](https://sider.ai/blog/ai-tools/best-crewai-tutorials-to-master-multi-agent-workflows-2025-guide) (Score: 70) - Category: `ai-coding-agents/`
-*   [24*I:cset_awesome*](https://university.atlassian.com/student/activity/2227811-all-learning-paths?utm_source=community&utm_medium=comarketing&utm_campaign=P:atlassian*O:community*C:community*W:newpaths*H:11/20/24*I:cset_awesome*) (Score: 70) - Category: `ai-coding-agents/`
-*   [6 ways to grow your network](https://www.affinity.co/blog/grow-your-network) (Score: 70) - Category: `ai-coding-agents/`
-*   [8500GIRISH/CrewAI-2026](https://github.com/8500GIRISH/CrewAI-2026) (Score: 70) - Category: `ai-coding-agents/`
-*   [A New Framework for Evaluating Voice Agents (EVA)](https://huggingface.co/blog/servicenow-ai/eva) (Score: 70) - Category: `ai-coding-agents/`
-*   [A new way to look at developing lifeforms, using energy to predict action - Princeton Engineering](https://engineering.princeton.edu/news/2026/06/16/new-way-look-developing-lifeforms-using-energy-predict-action) (Score: 70) - Category: `ai-coding-agents/`
-*   [AarohiSingla/CrewAI_tutorials](https://github.com/AarohiSingla/CrewAI_tutorials) (Score: 70) - Category: `ai-coding-agents/`
-*   [abuzarmahmood/blech_github_bot](https://github.com/abuzarmahmood/blech_github_bot) (Score: 70) - Category: `ai-coding-agents/`
-*   [Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models](https://huggingface.co/blog/intel-qwen3-agent) (Score: 70) - Category: `ai-coding-agents/`
-*   [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) (Score: 70) - Category: `ai-coding-agents/`
-*   [aden-hive/hive](https://github.com/aden-hive/hive) (Score: 70) - Category: `ai-coding-agents/`
+*   [Photojournal - NASA Science](https://photojournal.jpl.nasa.gov/index.html) (Score: 70) - Category: `ai-coding-agents/`
+*   [Stylised pathways to “well below 2°C”](https://cicero.oslo.no/en/articles/stylised-pathways-to-well-below-2c) (Score: 70) - Category: `ai-coding-agents/`
+*   [bbPress Codex](https://codex.bbpress.org) (Score: 70) - Category: `ai-coding-agents/`
+*   [Mojo Manual | Mojo](https://docs.modular.com/mojo/manual) (Score: 70) - Category: `ai-coding-agents/`
+*   [BuddyPress Codex](https://codex.buddypress.org) (Score: 70) - Category: `ai-coding-agents/`
+*   [Blog | Bluesky](https://docs.bsky.app/blog) (Score: 70) - Category: `ai-coding-agents/`
+*   [Main Page « WordPress Codex](https://codex.wordpress.org) (Score: 70) - Category: `ai-coding-agents/`
+*   [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (Score: 70) - Category: `ai-coding-agents/`
+*   [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) (Score: 70) - Category: `ai-coding-agents/`
+*   [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (Score: 70) - Category: `ai-coding-agents/`
+*   [Jira | Atlassian Community](https://community.atlassian.com/t5/JIRA-Software/ct-p/jira-software) (Score: 70) - Category: `ai-coding-agents/`
+*   [When Generic Prompt Improvements Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025) (Score: 70) - Category: `ai-coding-agents/`
+*   [ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues](https://arxiv.org/abs/2606.18237) (Score: 70) - Category: `ai-coding-agents/`
+*   [atticus98/codex-turbo](https://github.com/atticus98/codex-turbo) (Score: 70) - Category: `ai-coding-agents/`
+*   [Fair Cognitive Impairment Detection Through Unlearning](https://arxiv.org/abs/2606.18571) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

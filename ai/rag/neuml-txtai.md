@@ -3,27 +3,28 @@ title: neuml/txtai
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/neuml/txtai
-collected_at: '2026-06-25T22:58:22.642986+05:30'
-published_at: '2026-06-25T06:25:25Z'
+source_url: https://github.com/neuml/txtai?source=post_page
+resource_id: github:neuml/txtai
+-----dba899ae0355---------------------------------------
+collected_at: '2026-07-07T00:51:05.010034+05:30'
+published_at: '2026-07-06T14:05:50Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
-stars: 12680
+stars: 12706
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2020-08-09T19:14:59Z'
-pushed_at: '2026-06-22T17:06:32Z'
+pushed_at: '2026-07-02T14:44:53Z'
 resource_id: github:neuml/txtai
-first_seen: '2026-06-25T22:58:22.642986+05:30'
-last_seen: '2026-06-25T22:58:22.642986+05:30'
-last_checked: '2026-06-25T22:58:22.642986+05:30'
+first_seen: '2026-07-07T00:51:05.010034+05:30'
+last_seen: '2026-07-07T00:51:05.010034+05:30'
+last_checked: '2026-07-07T00:51:05.010034+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, leveraging embeddings, transformers, and vector databases for end-to-end AI pipelines.
+- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, leveraging embeddings and vector search for efficient information retrieval.
 
-- **Key Features**: Supports agents, RAG (Retrieval-Augmented Generation), sentence embeddings, and vector search, optimized for NLP tasks with seamless integration of large language models (LLMs).
+- **Modular Architecture**: Supports agents, RAG (Retrieval-Augmented Generation), and transformer-based models, enabling scalable NLP pipelines with built-in vector database integration.
 
-- **Technical Stack**: Built on Python with support for Hugging Face transformers, SQLite/PostgreSQL for vector storage, and modular APIs for extensibility in AI-driven search and generative workflows.
+- **Optimized Workflows**: Facilitates end-to-end AI tasks (e.g., search, summarization, Q&A) with pre-built components for sentence embeddings, transformers, and hybrid retrieval systems.
 
 ## Why It Matters
 
@@ -44,15 +45,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: neuml
-- Stars: 12680
-- Forks: 835
+- Stars: 12706
+- Forks: 841
 - Language: Python
 - Topics: agents, ai, ai-agents, embeddings, information-retrieval, language-model, large-language-models, llm, nlp, python, rag, retrieval-augmented-generation, search, search-engine, semantic-search, sentence-embeddings, transformers, txtai, vector-database, vector-search
-- Last Updated: 2026-06-25T06:25:25Z
+- Last Updated: 2026-07-06T14:05:50Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2020-08-09T19:14:59Z
-- Pushed At: 2026-06-22T17:06:32Z
+- Pushed At: 2026-07-02T14:44:53Z
 
 ## Possible Use Cases
 
@@ -70,4 +71,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/neuml/txtai
+Original source: https://github.com/neuml/txtai?source=post_page-----dba899ae0355---------------------------------------

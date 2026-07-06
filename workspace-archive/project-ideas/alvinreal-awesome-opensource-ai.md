@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-*   Curated `awesome-list` aggregating truly open-source AI projects, models, tools, and infrastructure.
-*   Technical scope covers `agents`, `LLM`, `generative-ai`, `RAG`, `MLOps`, and general `machine-learning` domains.
-*   Maintained with
+- **Curated open-source AI resources**: Aggregates high-quality, truly open-source AI projects, models, tools, and infrastructure, with daily updates.
+- **Technical scope**: Covers agents, generative AI, LLMs, MLOps, RAG, and related topics, primarily implemented in Python.
+- **Community metrics**: Maintains 4,027 stars and 480 forks, last updated on 2026-07-06.
 
 ## Use Cases
 

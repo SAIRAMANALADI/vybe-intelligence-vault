@@ -4,17 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-06-25T22:56:37.593264+05:30'
-published_at: '2026-06-09T02:56:02Z'
+collected_at: '2026-07-07T00:48:24.911913+05:30'
+published_at: '2026-07-02T17:19:50Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
-- models
 - python
 - rag
-- workflows
-stars: 1535
+stars: 1537
 language: Python
 status: active
 license: Apache-2.0
@@ -22,9 +18,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-06-25T22:56:37.593264+05:30'
-last_seen: '2026-06-25T22:56:37.593264+05:30'
-last_checked: '2026-06-25T22:56:37.593264+05:30'
+first_seen: '2026-07-07T00:48:24.911913+05:30'
+last_seen: '2026-07-07T00:48:24.911913+05:30'
+last_checked: '2026-07-07T00:48:24.911913+05:30'
 health_score: 100
 ---
 
@@ -32,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with configurable components (e.g., embedders, retrievers, LLMs) and optimized workflows for data ingestion, indexing, and retrieval.
+- **RAG Optimization Toolkit**: Python-based framework (`KruxAI/ragbuilder`) for constructing production-grade Retrieval Augmented Generation (RAG) pipelines, emphasizing scalability and deployment readiness.
 
-- **Automated Optimization**: Implements techniques like dynamic chunking, embedding fine-tuning, and retrieval strategy selection (e.g., vector vs. hybrid search) to maximize accuracy and latency efficiency for domain-specific data.
+- **Key Features**: Supports modular components for data ingestion, embedding, retrieval, and generation, with built-in optimizations for latency, accuracy, and cost-efficiency in GenAI applications.
 
-- **Deployment-Ready**: Supports integration with cloud services (e.g., AWS, GCP) and frameworks (e.g., FastAPI, Docker) for scalable, end-to-end RAG deployment with monitoring and evaluation metrics.
+- **Integration & Extensibility**: Designed for seamless integration with existing ML pipelines; includes pre-configured templates for rapid prototyping and customizable modules for domain-specific adaptations.
 
 ## Why It Matters
 
@@ -45,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: KruxAI
-- Stars: 1535
+- Stars: 1537
 - Forks: 127
 - Language: Python
 - Topics: developer-tools, genai, rag
-- Last Updated: 2026-06-09T02:56:02Z
+- Last Updated: 2026-07-02T17:19:50Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-06-24T07:25:00Z

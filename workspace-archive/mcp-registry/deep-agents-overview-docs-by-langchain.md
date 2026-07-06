@@ -6,9 +6,9 @@ source_url: https://docs.langchain.com/oss/python/deepagents
 resource_id: blog:deep-agents-overview-docs-by-langchain
 local_vault_path: ai/rag/deep-agents-overview-docs-by-langchain.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
-resource_kind: prompt
+resource_kind: mcp-server
 importance: medium
 tags:
 - agents
@@ -22,7 +22,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Deep Agents overview - Docs by LangChain
@@ -30,19 +30,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Execution Environment**: Supports tools (custom functions, APIs, MCP), virtual filesystem (pluggable backends: in-memory, local disk, LangGraph store), filesystem permissions (declarative access control), code execution (sandboxed shell + JS interpreter), and streaming (typed event streams for messages, tools, values, and tasks).
+- **Execution Environment**: Supports tools (custom functions, APIs, MCP servers), virtual filesystem with pluggable backends (in-memory, disk, LangGraph store), declarative filesystem permissions, sandboxed code execution (shell/REPL), and streaming of typed events (messages, tools, values).
 
-- **Context Management**: Implements skills, memory, summarization, context offloading, and prompt caching for managing growing context during long runs.
+- **Context Management**: Implements progressive skill loading, persistent memory via `AGENTS.md` files, automatic summarization/offloading of long contexts, and prompt caching to optimize token usage.
 
-- **Dele
+-
 
 ## Use Cases
 

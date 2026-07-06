@@ -14,7 +14,6 @@ tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -36,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, with benchmark-backed orchestration via `ADEngine` and agentic workflows for AI agents.
+- **Multimodal Anomaly Detection**: Supports 60+ detectors for tabular, time series, graph, text, image, and audio data, leveraging unsupervised, deep learning, and foundation models.
 
-- **Multimodal & Foundation Model Integration**: Enables anomaly detection across modalities (e.g., NLP, vision, audio) with support for foundation models, out-of-distribution (OOD) detection, and novelty detection.
+- **ADEngine Orchestration**: Provides benchmark-backed orchestration for anomaly detection workflows, including outlier ensembles and novelty detection.
 
-- **Fraud & Graph Anomaly Specialization**: Includes dedi
+- **Agentic Workflow Integration**: Enables AI agents to interact with the library, facilitating fraud detection, graph anomaly detection, and multimodal anomal
 
 ## Use Cases
 

@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/apecloud/ApeRAG
-collected_at: '2026-06-25T22:56:42.561396+05:30'
-published_at: '2026-06-25T08:15:48Z'
+collected_at: '2026-07-07T00:48:29.916259+05:30'
+published_at: '2026-07-06T15:46:46Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
-stars: 1198
+stars: 1259
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-06-20T12:18:12Z'
 pushed_at: '2026-05-02T05:01:36Z'
 resource_id: github:apecloud/aperag
-first_seen: '2026-06-25T22:56:42.561396+05:30'
-last_seen: '2026-06-25T22:56:42.561396+05:30'
-last_checked: '2026-06-25T22:56:42.561396+05:30'
+first_seen: '2026-07-07T00:48:29.916259+05:30'
+last_seen: '2026-07-07T00:48:29.916259+05:30'
+last_checked: '2026-07-07T00:48:29.916259+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal indexing**: Supports text, structured/unstructured data, and embeddings with graph-based retrieval for contextual AI responses.
-- **AI agents & MCP integration**: Enables autonomous agents with Model Context Protocol (MCP) for dynamic tool usage and workflow orchestration.
-- **Scalable K8s deployment**: Containerized architecture with Kubernetes support for horizontal scaling, fault tolerance, and production-grade orchestration.
+- **Multi-modal indexing**: Supports both text and graph-based data structures for enhanced retrieval and contextualization in GraphRAG systems.
+
+- **AI agents & MCP integration**: Incorporates autonomous AI agents and Model Context Protocol (MCP) for dynamic interaction and scalable knowledge processing.
+
+- **Kubernetes-native deployment**: Optimized for scalable, production-grade deployment using Kubernetes, ensuring high availability and fault tolerance.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: apecloud
-- Stars: 1198
-- Forks: 133
+- Stars: 1259
+- Forks: 142
 - Language: Python
 - Topics: agents, context-engineering, graphrag, knowledge-graph, mcp
-- Last Updated: 2026-06-25T08:15:48Z
+- Last Updated: 2026-07-06T15:46:46Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-06-20T12:18:12Z

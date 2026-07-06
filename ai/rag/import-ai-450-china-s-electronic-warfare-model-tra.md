@@ -19,13 +19,14 @@ tags:
 - openai
 - paper
 - rag
-status: active
+status: inactive
 resource_id: blog:import-ai-450-china-s-electronic-warfare-model-tra
 first_seen: '2026-06-16T17:27:26.738182+05:30'
 last_seen: '2026-06-25T12:31:11.537917+05:30'
 last_checked: '2026-06-25T12:31:11.537917+05:30'
 health_score: 100
 ---
+
 
 # Import AI 450: China's electronic warfare model; traumatized LLMs; and a scaling law for cyberattacks
 

@@ -18,6 +18,7 @@ tags:
 - meta-ai
 - models
 - rag
+- scripts
 - typescript
 - workflows
 selection_reason:
@@ -38,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Action Integration**: Provides a CI/CD-ready GitHub Action for `promptfoo`, enabling automated testing of prompts, agents, and RAG systems with declarative configurations.
-- **Multi-Model Evaluation**: Supports comparative performance analysis across major LLMs (GPT, Claude, Gemini, Llama, etc.) with built-in AI red teaming and vulnerability scanning capabilities.
-- **Security & Pentesting**: Facilitates LLM security testing via automated red teaming and pentesting workflows, integrat
+- **GitHub Action for Promptfoo**: Enables automated testing of prompts, agents, and RAG (Retrieval-Augmented Generation) systems within CI/CD pipelines, supporting AI red teaming, pentesting, and LLM vulnerability scanning.
+
+- **Multi-Model Performance Comparison**: Facilitates benchmarking across major LLMs (e.g., GPT, Claude, Gemini, Llama) via declarative configurations, with command-line and CI/CD integration for seamless execution.
+
+- **TypeScript-Based Implementation**: Built in TypeScrip
 
 ## Use Cases
 

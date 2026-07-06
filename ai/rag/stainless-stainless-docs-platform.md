@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.stainless.com/products/docs
-published_at: '2026-06-25T20:51:17.650023+05:30'
-collected_at: '2026-06-25T20:51:17.650049+05:30'
+published_at: '2026-07-07T00:53:13.187477+05:30'
+collected_at: '2026-07-07T00:53:13.187494+05:30'
 tags:
 - agents
 - frontend_ui
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:stainless-stainless-docs-platform
-first_seen: '2026-06-25T20:51:17.650049+05:30'
-last_seen: '2026-06-25T20:51:17.650049+05:30'
-last_checked: '2026-06-25T20:51:17.650049+05:30'
+first_seen: '2026-07-07T00:53:13.187494+05:30'
+last_seen: '2026-07-07T00:53:13.187494+05:30'
+last_checked: '2026-07-07T00:53:13.187494+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Dynamic API Documentation Sync**: REST API, SDK, and narrative docs automatically stay synchronized with the actual API, eliminating manual updates and ensuring consistency across all documentation layers.
+- **Dynamic API Documentation Sync**: REST API, SDK, and narrative docs automatically stay in sync with the actual API, ensuring real-time accuracy without manual updates.
 
-- **AI-Optimized Hybrid Search & Integration**: Features AI-powered hybrid search for enhanced discoverability and seamless integration with AI tools, enabling agents to efficiently parse and utilize documentation.
+- **AI-Optimized Hybrid Search**: Implements AI-powered hybrid search for both developer and AI agent accessibility, enhancing discoverability and integration with AI tools.
 
-- **Astro-Based Extensibility & Customization**: Built on Astro for high-performance, content-driven sites with full customization via TypeScript-first integrations, CSS variables, and support for frameworks like React, Svelte, and Vue.
+- **Astro-Based Extensibility**: Built on Astro for high-performance, content-driven websites with full customization via TypeScript-first integrations, CSS variable theming, and support for frameworks like React, Svelte, and Vue.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T20:51:17.650023+05:30
+- Published: 2026-07-07T00:53:13.187477+05:30
 
 ## Related Tags
 

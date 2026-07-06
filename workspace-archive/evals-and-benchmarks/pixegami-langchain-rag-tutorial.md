@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
+- openai
 - python
 - rag
 selection_reason:
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with LLM-based generation.
-- **Python-Based**: Entirely implemented in Python, leveraging LangChain's modular framework for LLM orchestration and vector storage (e.g., FAISS or Chroma).
-- **Modular Design**: Includes components for document loading, embedding (e.g., `sentence-transformers`), vector search, and prompt templating for LLM interaction
+- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with LLM generation.
+- **Python-Based**: Entirely written in Python, leveraging LangChain’s modular framework for LLM orchestration and vector stores (e.g., FAISS or Chroma) for document indexing.
+- **Modular Structure**: Includes components for document loading (e.g., PyPDFLoader), embedding (e.g., HuggingFace embeddings), and retrieval-augmented
 
 ## Use Cases
 

@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system enabling LLMs to process and interact with long videos by segmenting, indexing, and retrieving relevant video segments for contextual Q&A.
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system tailored for long-video understanding, enabling LLMs to process and interact with video content via multi-modal inputs (e.g., frames, audio, metadata).
 
-- **Multi-Modal Integration**: Combines visual, audio, and textual modalities using a unified encoder (e.g., CLIP or Whisper) to extract dense features and enable cross-modal retrieval for accurate video understanding.
+- **Multi-Stage Retrieval**: Implements hierarchical retrieval (frame-level, segment-level, and semantic-level) to efficiently extract relevant video segments for LLM context augmentation, addressing scalability challenges in long-video Q&A.
 
-- **Scalable Long-Video Processing**: Implements hierarch
+- **Open-Source Toolk
 
 ## Use Cases
 

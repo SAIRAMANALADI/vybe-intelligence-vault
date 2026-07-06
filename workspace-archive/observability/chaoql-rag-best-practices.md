@@ -12,7 +12,9 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
+- dataset
 - github-repo
+- openai
 - python
 - rag
 selection_reason:
@@ -33,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Optimization Framework**: Repository provides Python-based best practices for optimizing Retrieval-Augmented Generation (RAG) systems, focusing on large model integration with retrieval mechanisms.
-- **Performance Benchmarking**: Includes methodologies for evaluating RAG pipelines, emphasizing retrieval accuracy, generation quality, and latency trade-offs.
-- **Modular Architecture**: Implements a structured approach with configurable components (e.g., embedders, retrievers, LLMs) for sca
+- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular Python components for query expansion, chunking strategies, and vector database integration (e.g., FAISS, Chroma).
+
+- **Evaluation Metrics**: Includes automated benchmarking for retrieval precision, generation coherence, and end-to-end latency, with support for custom datasets and metrics (e.g., MRR, BLEU, ROUGE).
+
+- **Deployment Tools**: Provides Dockerized pipelines for local/remote in
 
 ## Use Cases
 

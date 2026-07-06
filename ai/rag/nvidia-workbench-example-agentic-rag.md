@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-agentic-rag
-collected_at: '2026-06-25T22:55:42.552525+05:30'
-published_at: '2026-06-18T07:25:57Z'
+collected_at: '2026-07-07T00:47:34.946960+05:30'
+published_at: '2026-07-04T02:29:38Z'
 tags:
 - agents
 - github-repo
 - jupyter notebook
 - rag
 - workflows
-stars: 166
+stars: 165
 language: Jupyter Notebook
 status: active
 license: Apache-2.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-14T17:08:04Z'
 pushed_at: '2026-06-11T22:51:59Z'
 resource_id: github:nvidia/workbench-example-agentic-rag
-first_seen: '2026-06-25T22:55:42.552525+05:30'
-last_seen: '2026-06-25T22:55:42.552525+05:30'
-last_checked: '2026-06-25T22:55:42.552525+05:30'
+first_seen: '2026-07-07T00:47:34.946960+05:30'
+last_seen: '2026-07-07T00:47:34.946960+05:30'
+last_checked: '2026-07-07T00:47:34.946960+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Implementation**: Demonstrates an agentic RAG system using NVIDIA AI Workbench, integrating retrieval and generative AI components for dynamic, multi-step reasoning.
-- **Jupyter Notebook-Based**: Entire workflow encapsulated in a Jupyter Notebook, enabling interactive experimentation with agentic RAG pipelines.
-- **NVIDIA-Optimized**: Leverages NVIDIA’s AI/ML stack (e.g., GPUs, frameworks) for accelerated inference and retrieval in agentic workflows.
+- **Agentic RAG Implementation**: Demonstrates an autonomous RAG pipeline leveraging NVIDIA AI Workbench, integrating multi-agent orchestration for dynamic retrieval and generation workflows.
+
+- **Jupyter Notebook-Based**: Entire project structured as executable notebooks, enabling interactive experimentation with agentic RAG components (e.g., retrieval, LLM interaction, and decision-making).
+
+- **NVIDIA Stack Integration**: Utilizes NVIDIA’s optimized libraries (e.g., TensorRT-LLM, NeMo) for accelerated inference and retrieval, with modular design for GPU-accelerated agentic workflows.
 
 ## Why It Matters
 
@@ -41,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVIDIA
-- Stars: 166
-- Forks: 233
+- Stars: 165
+- Forks: 235
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-06-18T07:25:57Z
+- Last Updated: 2026-07-04T02:29:38Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-08-14T17:08:04Z

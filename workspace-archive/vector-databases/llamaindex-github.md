@@ -2,14 +2,14 @@
 title: LlamaIndex · GitHub
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/run-llama/
+source_url: https://github.com/run-llama
 resource_id: blog:llamaindex-github
 local_vault_path: ai/rag/llamaindex-github.md
 quality_score: 70
-archive_score: 75
-archive_tier: useful
+archive_score: 85
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
 - meta-ai
@@ -27,18 +27,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 85 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **LlamaParse OCR Integration**: Utilizes state-of-the-art (SOTA) agentic OCR via LlamaParse to enhance document workflows and agent-based processing pipelines.
+- **LlamaParse Cloud Services**: Provides SOTA (State-of-the-Art) agentic OCR via `Parse` and `Extract` for document workflows, enabling high-accuracy text extraction and structured data retrieval from unstructured documents.
 
-- **Open-Source Toolchain**: Provides open-source components including **LiteParse** (lightweight parsing), **LlamaAgents** (agent framework), and **LlamaIndex** (Python-based data framework) with comprehensive documentation.
+- **Open-Source Tooling**: Includes `LiteParse` for lightweight OCR, `LlamaAgents` for modular agent-based workflows, and the core `LlamaIndex` Python library for building LLM-powered data pipelines and RAG applications.
 
-- **Cloud & Extract Services**: Offers cloud-based **Parse** and **Extract** services for document processing,
+- **Multi-Channel Support**: Offers official docume
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/run-llama/
+Original source URL: https://github.com/run-llama
 
 ## Local Vault File
 

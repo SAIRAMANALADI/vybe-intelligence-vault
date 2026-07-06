@@ -10,10 +10,10 @@ Quantization, inference optimization, model evaluations, security guardrails.
 Langfuse, Ollama, llama.cpp, vLLM, Phoenix.
 
 ## Recommended Resources from the Vault
-*   [gnikoloff/webgpu-raytracer](https://github.com/gnikoloff/webgpu-raytracer)
-*   [Assisted Generation: a new direction toward low-latency text generation](https://huggingface.co/blog/assisted-generation)
-*   [Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs](https://huggingface.co/blog/infinity-cpu-performance)
-*   [Fetch Cuts ML Processing Latency by 50% Using Amazon SageMaker & Hugging Face](https://huggingface.co/blog/fetch-case-study)
+*   [UCLA COVID protocols - COVID-19 and vaccine resources](https://covid-19.ucla.edu/ucla-covid-protocols)
+*   [DagsHub - YouTube](https://youtube.com/c/dagshub)
+*   [Sanjeev Arora](https://www.cs.princeton.edu/~arora)
+*   [The Linux Kernel documentation — The Linux Kernel documentation](https://docs.kernel.org/)
 *   [Chat LangChain](https://chat.langchain.com/)
 
 ## Project Ideas

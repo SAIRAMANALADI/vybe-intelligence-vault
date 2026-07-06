@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-06-25T22:55:27.546744+05:30'
+collected_at: '2026-07-07T00:47:14.842861+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
+- openai
 - rag
+- scripts
 - workflows
 stars: 44
 language: Bicep
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-06-25T22:55:27.546744+05:30'
-last_seen: '2026-06-25T22:55:27.546744+05:30'
-last_checked: '2026-06-25T22:55:27.546744+05:30'
+first_seen: '2026-07-07T00:47:14.842861+05:30'
+last_seen: '2026-07-07T00:47:14.842861+05:30'
+last_checked: '2026-07-07T00:47:14.842861+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Azure/GenAIOps-project-template provides an Infrastructure-as-Code (IaC) foundation for deploying Generative AI Operations (GenAIOps) with Retrieval-Augmented Generation (RAG) pipelines using Bicep.
+- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for a Generative AI Operations (GenAIOps) project, enabling automated provisioning of Azure resources for RAG (Retrieval-Augmented Generation) workflows.
 
-- **Components**: The template includes modular Bicep definitions for Azure resources such as compute, networking, and AI services to support scalable RAG workflows.
+- **RAG Pipeline Foundation**: Includes pre-configured Azure services (e.g., Azure AI Search, Azure OpenAI, Azure Functions) to support end-to-end RAG workflows with minimal setup.
 
-- **Deployment**: Designed for Azure environments, enabling automated provisioning of GenAIOps infrastructure with minimal configuration overhead.
+- **CI/CD & Scalability**: Designed for integration with Azure DevOps/GitHub Actions, supporting scalable, repeatable deployments with modular Bicep components for extensibility.
 
 ## Why It Matters
 
@@ -43,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: Azure
 - Stars: 44
-- Forks: 55
+- Forks: 56
 - Language: Bicep
 - Topics: None
 - Last Updated: 2026-05-21T00:52:07Z

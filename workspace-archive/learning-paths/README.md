@@ -9,22 +9,23 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 ## Top Matched Resources
 
 - [github/roadmap](https://github.com/github/roadmap) (tutorial - ESSENTIAL Tier)
-- [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
+- [Get Started - The Go Programming Language](https://go.dev/learn) (tutorial - USEFUL Tier)
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [Unity Essentials Pathway - Learn Game Development for Beginners | Unity Learn](https://learn.unity.com/pathway/unity-essentials) (tutorial - USEFUL Tier)
+- [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
 - [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (framework - USEFUL Tier)
-- [Get Started - The Go Programming Language](https://go.dev/learn) (tutorial - USEFUL Tier)
-- [iamshaunjp/framer-motion](https://github.com/iamshaunjp/framer-motion) (tutorial - USEFUL Tier)
-- [microsoft/rag-time](https://github.com/microsoft/rag-time) (benchmark - USEFUL Tier)
+- [Postman Inc. · GitHub](https://github.com/postmanlabs) (framework - USEFUL Tier)
+- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [github/roadmap](https://github.com/github/roadmap)
-- [iamshaunjp/framer-motion](https://github.com/iamshaunjp/framer-motion)
+- [Postman Inc. · GitHub](https://github.com/postmanlabs)
+- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 - [microsoft/rag-time](https://github.com/microsoft/rag-time)
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
-- [Postman Inc. · GitHub](https://github.com/postmanlabs)
+- [iamshaunjp/framer-motion](https://github.com/iamshaunjp/framer-motion)
 
 ## Best Learning Resources
 
@@ -40,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-07-06 23:48 IST*
+*Last updated: 2026-07-07 01:02 IST*

@@ -2,7 +2,7 @@
 title: LangChain Blog
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://blog.langchain.com
+source_url: https://blog.langchain.com/
 resource_id: blog:langchain-blog
 local_vault_path: ai/rag/langchain-blog.md
 quality_score: 70
@@ -14,7 +14,6 @@ tags:
 - agents
 - rag
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -34,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **SmithDB Inverted Index**: Implemented a scalable inverted index in SmithDB for full-text search, optimized for object storage with efficient tokenization, postings list compression, and probabilistic data structures (e.g., Bloom filters) for metadata filtering.
+- **Cost Optimization for Coding Agents**: Implement prompt caching, subagent dynamic allocation, and RL-based loop engineering to reduce LLM API calls by up to 40% while maintaining performance.
 
-- **Model Neutrality Framework**: Proposed a model-neutral architecture prioritizing API abstraction over cloud provider lock-in, enabling seamless switching between LLMs via standardized interfaces while maintaining performance pari
+- **Model Neutrality Framework**: Prioritize abstraction layers over cloud provider lock-in, enabling seamless model switching via standardized interfaces and verifier-based fallback mechanisms.
+
+- **Secure Agent Execution**: Deploy sandboxed environments with state-aware harnesses and untrusted code i
 
 ## Use Cases
 
@@ -46,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://blog.langchain.com
+Original source URL: https://blog.langchain.com/
 
 ## Local Vault File
 

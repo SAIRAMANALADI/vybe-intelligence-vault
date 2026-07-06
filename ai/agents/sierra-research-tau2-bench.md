@@ -4,26 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sierra-research/tau2-bench
-collected_at: '2026-06-25T22:57:57.655991+05:30'
-published_at: '2026-06-25T17:10:32Z'
+collected_at: '2026-07-07T00:49:44.954037+05:30'
+published_at: '2026-07-06T13:19:56Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
-- workflows
-stars: 1438
+stars: 1517
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-06-09T23:46:17Z'
-pushed_at: '2026-06-25T17:13:21Z'
+pushed_at: '2026-07-02T00:09:34Z'
 resource_id: github:sierra-research/tau2-bench
-first_seen: '2026-06-25T22:57:57.655991+05:30'
-last_seen: '2026-06-25T22:57:57.655991+05:30'
-last_checked: '2026-06-25T22:57:57.655991+05:30'
+first_seen: '2026-07-07T00:49:44.954037+05:30'
+last_seen: '2026-07-07T00:49:44.954037+05:30'
+last_checked: '2026-07-07T00:49:44.954037+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions in real-world domains, focusing on conversational agents and LLM-based systems with a structured, multi-domain approach.
-
-- **Technical Scope**: Implemented in Python, the benchmark includes dynamic tool integration, user simulation, and performance metrics for assessing agent adaptability and efficiency in complex workflows.
-
-- **Evaluation Metrics**: Measures success via task completion rates, interaction latency, and error recovery, providing quantitative insights into agent robustness and user-agent collaboration effectiveness.
+- **Benchmark Framework**: τ-Bench introduces a structured benchmark for evaluating tool-agent-user interactions in real-world domains, focusing on conversational agents and LLM-based systems.
+- **Multi-Domain Evaluation**: The benchmark spans diverse domains, assessing agent capabilities in tool integration, user interaction dynamics, and task completion under realistic constraints.
+- **Open-Source & Python-Based**: Implemented in Python, τ-Bench is open-source (MIT License) with modular design for extensibility, supporting 30+ tools and 100+ tasks across 10+ domains.
 
 ## Why It Matters
 
@@ -44,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: sierra-research
-- Stars: 1438
-- Forks: 367
+- Stars: 1517
+- Forks: 382
 - Language: Python
 - Topics: ai, benchmark, conversational-agents, language-model-agent, llm
-- Last Updated: 2026-06-25T17:10:32Z
+- Last Updated: 2026-07-06T13:19:56Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-09T23:46:17Z
-- Pushed At: 2026-06-25T17:13:21Z
+- Pushed At: 2026-07-02T00:09:34Z
 
 ## Possible Use Cases
 

@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Phala-Network/ai-agent-template-openai
-collected_at: '2026-06-25T22:57:17.594601+05:30'
-published_at: '2026-06-23T20:27:24Z'
+collected_at: '2026-07-07T00:49:09.941576+05:30'
+published_at: '2026-06-30T16:46:05Z'
 tags:
 - agents
 - github-repo
-- models
+- hackernews
 - openai
 - rag
 - typescript
-stars: 219
+stars: 218
 language: TypeScript
 status: active
 archived: false
 created_at: '2024-03-28T19:00:47Z'
 pushed_at: '2024-09-05T18:01:35Z'
 resource_id: github:phala-network/ai-agent-template-openai
-first_seen: '2026-06-25T22:57:17.594601+05:30'
-last_seen: '2026-06-25T22:57:17.594601+05:30'
-last_checked: '2026-06-25T22:57:17.594601+05:30'
+first_seen: '2026-07-07T00:49:09.941576+05:30'
+last_seen: '2026-07-07T00:49:09.941576+05:30'
+last_checked: '2026-07-07T00:49:09.941576+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based AI-Agent Contract Template**: Provides a starter framework for integrating OpenAI's API with Phala Network's confidential computing for AI agent contracts.
+- **Template Purpose**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, enabling decentralized AI agent execution.
 
-- **Confidential Computing Integration**: Leverages Phala Network's Trusted Execution Environment (TEE) to ensure secure, privacy-preserving execution of AI agent logic.
+- **Key Components**: Includes pre-configured OpenAPI client, contract scaffolding, and interaction utilities for seamless deployment and testing of AI agents on Phala's confidential computing infrastructure.
 
-- **OpenAI API Compatibility**: Designed for seamless interaction with OpenAI's models (e.g., GPT-4) while maintaining on-chain privacy and verifiability.
+- **Technical Stack**: Leverages TypeScript for contract logic, OpenAI's API for AI agent functionality, and Phala Network's TEE (Trusted Execution Environment) for secure off-chain computation.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Phala-Network
-- Stars: 219
+- Stars: 218
 - Forks: 232
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-06-23T20:27:24Z
+- Last Updated: 2026-06-30T16:46:05Z
 - Archived: No
 - Created At: 2024-03-28T19:00:47Z
 - Pushed At: 2024-09-05T18:01:35Z

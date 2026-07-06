@@ -33,8 +33,8 @@ selection_reason:
 ## Summary
 
 - **Repository**: `imadmaalouf02/RAG` (Python-based)
-- **Last Updated**: 2024-12-05T01:18:06Z
-- **Metrics**: 0 stars, 0 forks, no topics or description provided
+- **Metadata**: 0 stars, 0 forks, no topics, last updated `2024-12-05T01:18:06Z`
+- **Status**: No description or additional documentation provided
 
 ## Use Cases
 

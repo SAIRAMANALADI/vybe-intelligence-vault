@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Ecosystem**: Centralized open-source repository aggregating frameworks, projects, and resources for Retrieval-Augmented Generation (RAG) in AI/ML/NLP applications.
-- **Community-Driven Development**: Hosts 1,923+ stars and 181 forks, enabling collaborative contributions to the evolving RAG landscape (last updated June 2026).
-- **Multi-Topic Integration**: Covers core topics including LLMs, NLP, machine learning, and open-source tools under the `rag` umbrella.
+- **Community-Curated RAG Repository**: Open-source hub aggregating RAG frameworks, projects, and resources with 1,949 stars and 181 forks, last updated July 2026.
+- **Multi-Topic Ecosystem**: Covers AI, LLM, NLP, and machine learning, emphasizing retrieval-augmented generation (RAG) methodologies and implementations.
+- **Contribution-Driven**: Encourages community contributions to expand and refine the RAG ecosystem via GitHub collaboration.
 
 ## Use Cases
 

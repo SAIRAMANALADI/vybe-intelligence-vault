@@ -4,24 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-06-25T22:56:02.583790+05:30'
-published_at: '2026-06-25T10:19:25Z'
+collected_at: '2026-07-07T00:47:49.885955+05:30'
+published_at: '2026-06-30T16:43:51Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
+- reddit
+- workflows
 stars: 1172
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-06-25T10:19:21Z'
+pushed_at: '2026-07-06T16:45:56Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-06-25T22:56:02.583790+05:30'
-last_seen: '2026-06-25T22:56:02.583790+05:30'
-last_checked: '2026-06-25T22:56:02.583790+05:30'
+first_seen: '2026-07-07T00:47:49.885955+05:30'
+last_seen: '2026-07-07T00:47:49.885955+05:30'
+last_checked: '2026-07-07T00:47:49.885955+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for generative AI, enabling ChatGPT-style and Q&A interactions.
-- **Azure Integration**: Leverages **Azure Developer CLI (azd) templates** for deployment, ensuring alignment with Azure best practices for scalability, security, and cost-efficiency.
-- **Python-Based**: Provides a **Python-based solution accelerator** with pre-configured components for vector search, prompt engineering, and orchestration, optimized for enterprise-grade AI workloads.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A, following best practices for production-grade deployments.
+
+- **Key Components**: Includes **Python-based** solution with **AZD templates** for deployment, integrating Azure AI Search for vector/keyword retrieval and Azure OpenAI for LLM-powered responses.
+
+- **Features**: Provides end-to-end RAG workflow with common requirements (e.g., data ingestion, embedding generation, prompt engineering) and supports **ChatGPT-style** and **Q&A** interfaces.
 
 ## Why It Matters
 
@@ -41,14 +45,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: Azure-Samples
 - Stars: 1172
-- Forks: 636
+- Forks: 643
 - Language: Python
 - Topics: ai-search, azd-templates, azure, azure-openai, openai
-- Last Updated: 2026-06-25T10:19:25Z
+- Last Updated: 2026-06-30T16:43:51Z
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-06-25T10:19:21Z
+- Pushed At: 2026-07-06T16:45:56Z
 
 ## Possible Use Cases
 

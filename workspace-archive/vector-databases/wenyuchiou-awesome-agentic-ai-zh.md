@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive trilingual learning roadmap** covering agentic AI from LLM fundamentals to multi-agent systems, with **240+ curated resources** and hands-on Python examples.
+- **Trilingual Learning Roadmap**: Covers agentic AI from LLM fundamentals to multi-agent systems, featuring 240+ curated resources in Traditional Chinese, English, and Simplified Chinese, with hands-on Python examples.
 
-- **Covers key topics** including agentic workflows, prompt engineering, RAG, MCP, CLI tools, and multi-agent architectures, with integration examples for **Claude Code/Skills**.
+- **Key Topics & Tools**: Includes agentic workflows, AI agents, Claude Code/Skills, CLI, MCP, RAG, prompt engineering, and multi-agent systems with structured tutorials and practical implementations.
 
-- **Actively maintained** (last updated 2026-06-25) repository with **3.3K+ stars** and **457 forks**, structured as an **awesome-list** for AI
+- **Repository Metrics**: 4,190 stars, 536 forks, last updated 2026-07-06, fo
 
 ## Use Cases
 

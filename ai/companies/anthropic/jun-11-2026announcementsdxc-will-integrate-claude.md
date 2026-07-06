@@ -11,13 +11,14 @@ tags:
 - anthropic
 - anthropic-news
 - blog-post
-status: active
+status: inactive
 resource_id: blog:jun-11-2026announcementsdxc-will-integrate-claude
 first_seen: '2026-06-16T04:26:32.176070+00:00'
 last_seen: '2026-06-25T22:54:21.037999+05:30'
 last_checked: '2026-06-25T22:54:21.037999+05:30'
 health_score: 100
 ---
+
 
 # Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on
 

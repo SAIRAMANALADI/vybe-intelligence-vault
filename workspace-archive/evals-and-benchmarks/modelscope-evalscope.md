@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Purpose**: Streamlined, customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with support for RAG and performance metrics.
-- **Key Features**: Modular design for extensibility, standardized evaluation protocols, and efficient handling of diverse model types and tasks.
-- **Technical Scope**: Supports Python 3.x, integrates with ModelScope ecosystem, and enables reproducible performance comparisons across tasks.
+- **Framework Purpose**: Designed for efficient evaluation and benchmarking of large models (LLMs, VLMs, AIGC) with customizable configurations.
+- **Key Features**: Supports streamlined performance assessment across tasks like RAG, with modular and extensible architecture.
+- **Technical Stack**: Implemented in Python, optimized for scalability and integration with existing ML pipelines.
 
 ## Use Cases
 

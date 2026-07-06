@@ -22,13 +22,14 @@ tags:
 - rag
 - scripts
 - workflows
-status: active
+status: inactive
 resource_id: blog:import-ai-444-llm-societies-huawei-makes-kernels-w
 first_seen: '2026-06-16T17:27:26.738311+05:30'
 last_seen: '2026-06-25T12:31:11.538116+05:30'
 last_checked: '2026-06-25T12:31:11.538116+05:30'
 health_score: 100
 ---
+
 
 # Import AI 444: LLM societies; Huawei makes kernels with AI; ChipBench
 

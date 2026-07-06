@@ -15,8 +15,6 @@ tags:
 - github-repo
 - go
 - hackernews
-- scripts
-- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -33,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Workshop providing a step-by-step guide to building a **coding agent** (similar to Roo Code, Cline, Amp, Cursor, Windsurf, or OpenCode) using **Go**.
-- **Technical Stack**: Primarily implemented in **Go**, with focus on AI-driven agent architectures for code generation, editing, and automation.
-- **Scope**: Covers **tutorial-style** implementation, agent workflows, and integration with AI models for real-time coding assistance. Last updated **June 25, 2026**.
+- **Workshop Overview**: Provides a structured guide to building a coding agent (e.g., Roo Code, Cline, Amp, Cursor) using Go, covering AI integration and agent architecture.
+- **Technical Scope**: Focuses on practical implementation of agent-based coding tools, including LLM interactions, tool orchestration, and IDE integration.
+- **Repository Stats**: 5,720 stars, 640 forks, last updated July 6, 2026, with topics spanning AI, tutorials, and agent development.
 
 ## Use Cases
 

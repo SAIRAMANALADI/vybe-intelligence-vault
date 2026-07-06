@@ -3,16 +3,17 @@ title: Contact us | ICO
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://ico.org.uk/global/contact-us
-published_at: '2026-06-24T21:09:49.293466+05:30'
-collected_at: '2026-06-24T21:09:49.293478+05:30'
+source_url: https://ico.org.uk/global/contact-us/
+published_at: '2026-07-07T01:00:08.307691+05:30'
+collected_at: '2026-07-07T01:00:08.307707+05:30'
 tags:
+- hackernews
 - web-crawled
 status: active
 resource_id: blog:contact-us-ico
-first_seen: '2026-06-24T21:09:49.293478+05:30'
-last_seen: '2026-06-24T21:09:49.293478+05:30'
-last_checked: '2026-06-24T21:09:49.293478+05:30'
+first_seen: '2026-07-07T01:00:08.307707+05:30'
+last_seen: '2026-07-07T01:00:08.307707+05:30'
+last_checked: '2026-07-07T01:00:08.307707+05:30'
 health_score: 100
 ---
 
@@ -20,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Service Unavailability**: The ICO's helpline and live chat services will be inaccessible from 10:00 AM to 11:00 AM on **Monday, June 22**, due to scheduled maintenance.
-- **Impact**: Users may experience delays in support during the specified timeframe.
-- **Resolution**: Services will resume normal operation immediately after 11:00 AM on the same day.
+- No substantive technical content provided in the linked resource; it is a navigational page for the UK Information Commissioner's Office (ICO) global site.
+- The "Contact us" page lacks technical details, serving only as a user interface for inquiries.
+- No extractable technical bullet points from the given links.
 
 ## Why It Matters
 
@@ -32,12 +33,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T21:09:49.293466+05:30
+- Published: 2026-07-07T01:00:08.307691+05:30
 
 ## Related Tags
 
+- hackernews
 - web-crawled
 
 ## Source
 
-Original source: https://ico.org.uk/global/contact-us
+Original source: https://ico.org.uk/global/contact-us/

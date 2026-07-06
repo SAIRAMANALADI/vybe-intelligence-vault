@@ -4,24 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AhsanAyaz/ai-agents-google-adk
-collected_at: '2026-06-25T22:57:37.549951+05:30'
-published_at: '2026-06-22T22:33:31Z'
+collected_at: '2026-07-07T00:49:24.928652+05:30'
+published_at: '2026-07-05T02:14:14Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - scripts
-stars: 60
+- workflows
+stars: 63
 language: Python
 status: active
 archived: false
 created_at: '2025-05-05T18:14:18Z'
 pushed_at: '2026-06-03T07:13:11Z'
 resource_id: github:ahsanayaz/ai-agents-google-adk
-first_seen: '2026-06-25T22:57:37.549951+05:30'
-last_seen: '2026-06-25T22:57:37.549951+05:30'
-last_checked: '2026-06-25T22:57:37.549951+05:30'
+first_seen: '2026-07-07T00:49:24.928652+05:30'
+last_seen: '2026-07-07T00:49:24.928652+05:30'
+last_checked: '2026-07-07T00:49:24.928652+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Google ADK Integration**: Demonstrates the use of Google's Agent Development Kit (ADK) to create a marketing campaign assistant agent in Python.
-- **Repository Metrics**: Contains 60 stars and 33 forks, last updated on 2026-06-22.
-- **Purpose**: Provides a technical example of building AI agents for marketing automation using Google ADK.
+- **Repository Overview**: Example implementation of Google's ADK (Agent Development Kit) demonstrating a marketing campaign assistant agent in Python.
+
+- **Metadata**: 63 stars, 34 forks, last updated July 5, 2026.
+
+- **Purpose**: Showcases agent-based workflows for marketing automation using Google ADK.
 
 ## Why It Matters
 
@@ -40,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: AhsanAyaz
-- Stars: 60
-- Forks: 33
+- Stars: 63
+- Forks: 34
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-22T22:33:31Z
+- Last Updated: 2026-07-05T02:14:14Z
 - Archived: No
 - Created At: 2025-05-05T18:14:18Z
 - Pushed At: 2026-06-03T07:13:11Z

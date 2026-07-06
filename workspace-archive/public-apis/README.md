@@ -8,19 +8,18 @@ Public developer APIs supply external context and utilities for LLM tools.
 
 ## Top Matched Resources
 
-- [FastAPI - FastAPI](https://fastapi.tiangolo.com/) (template - USEFUL Tier)
-- [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
-- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) (framework - USEFUL Tier)
+- [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
+- [FastAPI - FastAPI](https://fastapi.tiangolo.com/) (template - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
-- [Memberstack Developers Documentation](https://developers.memberstack.com/docs) (mcp-server - USEFUL Tier)
-- [Newest 'tensorflow' Questions - Stack Overflow](https://stackoverflow.com/questions/tagged/tensorflow) (dataset - USEFUL Tier)
-- [Azure documentation | Microsoft Learn](https://learn.microsoft.com/azure) (framework - USEFUL Tier)
+- [Canvas LMS | Instructure Developer Documentation Portal](https://api.instructure.com) (tutorial - USEFUL Tier)
+- [fdsnws-event Web Service Interface Documentation | IPGP Data Center Web Services](http://ws.ipgp.fr/fdsnws/event/1) (tutorial - USEFUL Tier)
+- [DagsHub - YouTube](https://youtube.com/c/dagshub) (framework - USEFUL Tier)
+- [Microsoft Graph | Support](https://developer.microsoft.com/en-us/graph/support) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
-- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
 
 ## Best Learning Resources
@@ -39,4 +38,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-07-06 23:47 IST*
+*Last updated: 2026-07-07 01:02 IST*

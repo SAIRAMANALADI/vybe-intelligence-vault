@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-06-25T22:54:57.650630+05:30'
-published_at: '2026-06-24T17:13:25Z'
+collected_at: '2026-07-07T00:46:49.864286+05:30'
+published_at: '2026-06-29T06:24:27Z'
 tags:
 - benchmark
 - dataset
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-06-25T22:54:57.650630+05:30'
-last_seen: '2026-06-25T22:54:57.650630+05:30'
-last_checked: '2026-06-25T22:54:57.650630+05:30'
+first_seen: '2026-07-07T00:46:49.864286+05:30'
+last_seen: '2026-07-07T00:46:49.864286+05:30'
+last_checked: '2026-07-07T00:46:49.864286+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 - **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs.
 
-- **Technical Composition**: Contains structured hallucination annotations (e.g., factual inaccuracies, unsupported claims) paired with retrieval contexts, enabling fine-grained analysis of RAG model failures in real-world scenarios.
+- **Technical Scope**: Provides a structured dataset with annotated hallucinations, enabling benchmarking of RAG systems' factual accuracy and reliability in real-world retrieval scenarios.
 
-- **Implementation**: Provides a Python-based framework for dataset access, evaluation metrics, and baseline model training/testing to benchmark hallucination mitigation strategies in RAG systems.
+- **Implementation**: Open-source Python repository (`ParticleMedia/RAGTruth`) with tools for dataset generation, evaluation metrics, and baseline model comparisons, last updated June 2026.
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 32
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-24T17:13:25Z
+- Last Updated: 2026-06-29T06:24:27Z
 - License: MIT
 - Archived: No
 - Created At: 2023-12-26T05:41:01Z

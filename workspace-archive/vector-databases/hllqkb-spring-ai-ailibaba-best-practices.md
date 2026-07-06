@@ -6,7 +6,7 @@ source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
 local_vault_path: ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md
 quality_score: 70
-archive_score: 77
+archive_score: 81
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Implements AI Q&A system** using Spring AI with Alibaba Cloud integrations, featuring **Server-Sent Events (SSE) streaming**, **Agent-based workflows**, and **Retrieval-Augmented Generation (RAG)** with knowledge graphs.
+- **Tech Stack**: Implements AI question-answering system using Spring AI with Alibaba Cloud integrations, covering SSE streaming, Agent-based workflows, RAG with knowledge graphs, Function Calling, message history, image generation/understanding, Embedding, Vector DB, and RAG pipelines.
 
-- **Supports multimodal processing** including **image generation/understanding**, **Embedding models**, **Vector Database storage**, and **Function Call** for tool integration.
-
-- **Manages historical context** via message history and **RAG pipelines** for dynamic knowledg
+- **Architecture**: Demonstrates modular Java-based architecture for multi-modal AI interactions, including vector database integration (e.g., Chroma, Milvus) for retrieval-augmented generation (RAG) and embedd
 
 ## Use Cases
 

@@ -11,9 +11,9 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - reddit
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Kernel Development Workflow**: The Linux Kernel documentation provides structured guides on the development process, patch submission, maintainer handbooks, and community interaction via the `linux-doc` mailing list (`vger.kernel.org`).
+- **Kernel Development & Contribution**: Provides structured documentation on Linux kernel development processes, patch submission, maintainer guidelines, and community interaction via the [Development Process](https://docs.kernel.org/process/development-process.html), [Submitting Patches](https://docs.kernel.org/process/submitting-patches.html), and [Maintainer Handbook](https://docs.kernel.org/maintainer/index.html).
 
-- **API & Subsystem Documentation**: Includes core API references, driver APIs, subsystem-specific documentation, and locking mechanisms for kernel developers interfacing with internal kernel components.
-
-- **Architecture & Tooling Support**: Covers CPU arch
+- **Core & Driver APIs**: Includes technical manuals for kernel developers,
 
 ## Use Cases
 

@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Implementation of VoiceRAG Pattern**: Demonstrates interactive voice generative AI using Retrieval-Augmented Generation (RAG) with Azure AI Search and Azure OpenAI's `gpt-4o-realtime-preview` model for real-time audio processing.
+- **Implementation**: Demonstrates the VoiceRAG pattern using Azure AI Search for vector retrieval and Azure OpenAI's `gpt-4o-realtime-preview` model for real-time voice-based generative AI interactions.
 
-- **Azure AI Services Integration**: Leverages Azure AI Search for vector-based retrieval and Azure OpenAI for dynamic response generation, enabling context-aware voice interactions.
+- **Architecture**: Combines RAG (Retrieval-Augmented Generation) with audio processing to enable interactive voice experiences, leveraging Python for integration.
 
-- **Python-Based Deployment**: Provides a structured Azure Developer CLI (azd) te
+- **Azure Services**: Utilizes Azure AI Search (vector database) and Azure OpenAI for scalable, end-to-end generative AI workflows
 
 ## Use Cases
 

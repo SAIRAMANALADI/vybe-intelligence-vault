@@ -16,13 +16,14 @@ tags:
 - paper
 - producthunt
 - rag
-status: active
+status: inactive
 resource_id: blog:import-ai-446-nuclear-llms-china-s-big-ai-benchmar
 first_seen: '2026-06-16T17:27:26.738266+05:30'
 last_seen: '2026-06-25T12:31:11.537974+05:30'
 last_checked: '2026-06-25T12:31:11.537974+05:30'
 health_score: 100
 ---
+
 
 # Import AI 446: Nuclear LLMs; China's big AI benchmark; measurement and AI policy
 

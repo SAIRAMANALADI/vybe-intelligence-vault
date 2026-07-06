@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-06-25T22:56:07.499183+05:30'
-published_at: '2026-06-23T11:20:18Z'
+collected_at: '2026-07-07T00:47:54.847518+05:30'
+published_at: '2026-07-04T10:12:59Z'
 tags:
 - benchmark
 - github-repo
@@ -13,16 +13,16 @@ tags:
 - paper
 - rag
 - unknown
-stars: 1340
+stars: 1339
 language: Unknown
 status: active
 archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-06-25T22:56:07.499183+05:30'
-last_seen: '2026-06-25T22:56:07.499183+05:30'
-last_checked: '2026-06-25T22:56:07.499183+05:30'
+first_seen: '2026-07-07T00:47:54.847518+05:30'
+last_seen: '2026-07-07T00:47:54.847518+05:30'
+last_checked: '2026-07-07T00:47:54.847518+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: A comprehensive collection of advanced retrieval-augmented generation (RAG) techniques, frameworks, and tools for Large Language Models (LLMs), covering embeddings, retrieval strategies, and integration methods.
-- **Technical Scope**: Focuses on cutting-edge RAG methodologies, including retrieval-information optimization, LLM-embedding interactions, and hybrid retrieval architectures for enhanced generation quality.
-- **Community-Driven**: Actively maintained repository (last updated 2026-06-23) with 1,340+ stars and 84 forks, aggregating research papers, benchmarks, and practical implementations in RAG-embeddings and LLM integration.
+- **Curated RAG Resources**: Comprehensive collection of advanced retrieval-augmented generation (RAG) techniques, frameworks, and research papers for Large Language Models (LLMs), covering embeddings, retrieval strategies, and integration methods.
+- **Key Topics**: Focuses on LLM-RAG synergy, retrieval-information optimization, and RAG-embeddings, with emphasis on improving factual accuracy, context relevance, and generation quality in LLMs.
+- **Updated Repository**: Maintained with recent advancements (last updated July 2026), featuring tools, benchmarks, and methodologies for scalable and efficient RAG implementations in LLMs.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: jxzhangjhu
-- Stars: 1340
-- Forks: 84
+- Stars: 1339
+- Forks: 85
 - Language: Unknown
 - Topics: embeddings, large-language-models, llm, rag, rag-embeddings, retrieval-augmented-generation, retrieval-information
-- Last Updated: 2026-06-23T11:20:18Z
+- Last Updated: 2026-07-04T10:12:59Z
 - Archived: No
 - Created At: 2023-10-26T17:47:05Z
 - Pushed At: 2026-06-15T18:27:39Z

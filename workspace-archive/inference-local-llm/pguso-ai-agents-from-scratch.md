@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Educational Repository**: Provides a hands-on tutorial to build AI agents from scratch using local LLMs, emphasizing transparency and avoiding black-box models.
-- **Technical Focus**: Covers core AI agent concepts including function calling, memory management, and ReAct (Reasoning and Acting) patterns in JavaScript.
-- **Tooling & Integration**: Utilizes `node-llama-cpp` for local LLM execution and demonstrates agent implementation in a React-based environment.
+- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using JavaScript, emphasizing local LLMs (via `node-llama-cpp`) to avoid black-box dependencies.
+- **Core Technical Focus**: Covers function calling, memory management, and ReAct (Reasoning and Acting) patterns to demystify agent architectures.
+- **Repository Metadata**: 4,384 stars, 637 forks, last updated July 6, 2026, with topics including `ai-agents`, `function-calling`, and `react-agent`.
 
 ## Use Cases
 

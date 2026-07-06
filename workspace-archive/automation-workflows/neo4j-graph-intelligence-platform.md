@@ -2,23 +2,23 @@
 title: Neo4j Graph Intelligence Platform
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: http://neo4j.org/resources/cypher
+source_url: http://neo4j.com/
 resource_id: blog:neo4j-graph-intelligence-platform
 local_vault_path: ai/rag/neo4j-graph-intelligence-platform.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
-- agents
-- hackernews
+- mistral
+- models
 - rag
 - web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Neo4j Graph Intelligence Platform
@@ -27,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **GraphRAG Integration**: Combines Neo4j's graph database with Databricks for enhanced Retrieval-Augmented Generation (RAG) by leveraging structured knowledge graphs to improve AI agent contextual reasoning.
+- **Integration of Neo4j and Mistral AI**: Leverages graph databases (Neo4j) for structured knowledge representation and Mistral AI's LLMs for explainable AI inference, enabling transparent decision-making in enterprise workflows.
 
-- **Technical Workflow**: Implements graph-based retrieval to dynamically fetch and synthesize relevant data, optimizing query performance and reducing latency in AI-driven applications.
+- **Explainable AI (XAI) Framework**: Utilizes graph-based reasoning to provide interpretable AI outputs, with Neo4j storing relationships and Mistral AI generating contextual explanations for model predictions.
 
-- **Use Case Focus**: Demonstrates real-world deployment of GraphRAG for smarter AI agents, emphasizi
+- **Enterprise Use Case**: Designed for industries requ
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: http://neo4j.org/resources/cypher
+Original source URL: http://neo4j.com/
 
 ## Local Vault File
 

@@ -15,6 +15,7 @@ tags:
 - github-repo
 - jupyter notebook
 - rag
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -34,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Systems**: Repository focuses on advanced AI agent architectures, including cooperative and competitive multi-agent systems with emphasis on inter-agent communication, task delegation, and conflict resolution mechanisms.
-
-- **Memory & Reasoning Loops**: Implements persistent memory systems (short/long-term) and iterative reasoning loops (e.g., Chain-of-Thought, Reflection) to enable agents to retain context, adapt strategies, and improve decision-making over time.
-
-- **Agentic Fr
+- **Multi-Agent Systems**: Repository focuses on frameworks and implementations for multi-agent AI systems, emphasizing coordination, communication, and task delegation among autonomous agents.
+- **Memory & Reasoning Loops**: Includes projects/tutorials on integrating memory architectures (e.g., short/long-term memory) and iterative reasoning loops for enhanced agent decision-making and adaptability.
+- **Agentic Workflows**: Covers agentic RAG (Retrieval-Augmented Generation), agentic coding, an
 
 ## Use Cases
 

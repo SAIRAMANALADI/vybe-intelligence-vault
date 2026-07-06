@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/promptfoo/promptfoo-action
-collected_at: '2026-06-25T22:56:32.690229+05:30'
-published_at: '2026-06-15T04:02:00Z'
+collected_at: '2026-07-07T00:48:20.080704+05:30'
+published_at: '2026-06-30T16:43:58Z'
 tags:
 - agents
 - anthropic
@@ -14,19 +14,20 @@ tags:
 - meta-ai
 - models
 - rag
+- scripts
 - typescript
 - workflows
-stars: 70
+stars: 69
 language: TypeScript
 status: active
 license: MIT
 archived: false
 created_at: '2023-06-21T03:10:38Z'
-pushed_at: '2026-06-25T08:31:16Z'
+pushed_at: '2026-07-03T08:44:21Z'
 resource_id: github:promptfoo/promptfoo-action
-first_seen: '2026-06-25T22:56:32.690229+05:30'
-last_seen: '2026-06-25T22:56:32.690229+05:30'
-last_checked: '2026-06-25T22:56:32.690229+05:30'
+first_seen: '2026-07-07T00:48:20.080704+05:30'
+last_seen: '2026-07-07T00:48:20.080704+05:30'
+last_checked: '2026-07-07T00:48:20.080704+05:30'
 health_score: 100
 ---
 
@@ -34,9 +35,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Action Integration**: Provides a CI/CD-ready GitHub Action for `promptfoo`, enabling automated testing of prompts, agents, and RAG systems with declarative configurations.
-- **Multi-Model Evaluation**: Supports comparative performance analysis across major LLMs (GPT, Claude, Gemini, Llama, etc.) with built-in AI red teaming and vulnerability scanning capabilities.
-- **Security & Pentesting**: Facilitates LLM security testing via automated red teaming and pentesting workflows, integrated with command-line and CI/CD pipelines.
+- **GitHub Action for Promptfoo**: Enables automated testing of prompts, agents, and RAG (Retrieval-Augmented Generation) systems within CI/CD pipelines, supporting AI red teaming, pentesting, and LLM vulnerability scanning.
+
+- **Multi-Model Performance Comparison**: Facilitates benchmarking across major LLMs (e.g., GPT, Claude, Gemini, Llama) via declarative configurations, with command-line and CI/CD integration for seamless execution.
+
+- **TypeScript-Based Implementation**: Built in TypeScript, leveraging GitHub Actions' ecosystem for declarative YAML-based workflows, with last update timestamped **2026-06-30T16:43:58Z**.
 
 ## Why It Matters
 
@@ -45,15 +48,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: promptfoo
-- Stars: 70
+- Stars: 69
 - Forks: 32
 - Language: TypeScript
 - Topics: actions, llm, prompt-engineering, rag, security
-- Last Updated: 2026-06-15T04:02:00Z
+- Last Updated: 2026-06-30T16:43:58Z
 - License: MIT
 - Archived: No
 - Created At: 2023-06-21T03:10:38Z
-- Pushed At: 2026-06-25T08:31:16Z
+- Pushed At: 2026-07-03T08:44:21Z
 
 ## Possible Use Cases
 

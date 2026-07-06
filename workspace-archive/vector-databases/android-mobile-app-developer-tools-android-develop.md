@@ -2,13 +2,13 @@
 title: Android Mobile App Developer Tools - Android Developers
 archive_category: vector-databases
 source_category: ai/rag
-source_url: http://developer.android.com/index.html
+source_url: https://developer.android.com
 resource_id: blog:android-mobile-app-developer-tools-android-develop
 local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - web-crawled
 - youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Android Mobile App Developer Tools - Android Developers
@@ -27,17 +27,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Android 17 Update**: Source code live on AOSP; rolling out to supported Pixel devices; introduces API 37 with top 5 updates for app compatibility and new features.
+- **Google Play Billing Updates**: Google Play introduced expanded billing flexibility, reduced fees, and new programs to enhance developer monetization, with details available in the [Q3 updates blog](http://goo.gle/playdev-q3-updates) and a [dedicated video](https://www.youtube.com/watch?v=hcvvo6Sag0Q).
 
-- **Android XR Expansion**: Enhanced engine support and resources for building, testing, and scaling XR experiences across Android's ecosystem.
+- **Android 17 & XR Platform**: Android 17 (API 37) source code is live on AOSP, with Pixel rollouts underway; Android XR expands engine support and resources for immersive app development.
 
-- **Google Play Billing Changes**: Expanded billing flexibility, reduced fees, and new programs introduced to support developer monetization strategies.
+-
 
 ## Use Cases
 
@@ -47,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: http://developer.android.com/index.html
+Original source URL: https://developer.android.com
 
 ## Local Vault File
 

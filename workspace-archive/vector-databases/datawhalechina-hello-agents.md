@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Tutorial**: Provides a step-by-step guide on building intelligent agents from scratch, covering both theoretical principles and practical implementations in Python.
-
-- **Key Components**: Focuses on integrating large language models (LLMs), retrieval-augmented generation (RAG), and agent architectures for real-world applications.
-
-- **Open-Source Resource**: Hosted on GitHub with 61,759 stars and 7,616 forks, offering a collaborative platform for learning and experimentation in
+- **Tutorial Focus**: Comprehensive guide on building AI agents from scratch, covering both theoretical principles and practical implementations.
+- **Key Components**: Integrates large language models (LLMs), retrieval-augmented generation (RAG), and Python-based agent architectures.
+- **Educational Resource**: Structured as a step-by-step tutorial with updated content (last modified July 2026) for hands-on learning.
 
 ## Use Cases
 

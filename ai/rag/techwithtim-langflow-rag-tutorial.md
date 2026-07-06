@@ -4,23 +4,22 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/techwithtim/Langflow-RAG-Tutorial
-collected_at: '2026-06-25T22:55:22.462273+05:30'
-published_at: '2026-06-09T12:30:18Z'
+collected_at: '2026-07-07T00:47:09.780597+05:30'
+published_at: '2026-07-03T20:52:55Z'
 tags:
 - github-repo
 - rag
 - unknown
-- workflows
-stars: 94
+stars: 97
 language: Unknown
 status: active
 archived: false
 created_at: '2024-04-17T10:56:19Z'
 pushed_at: '2024-07-18T10:50:24Z'
 resource_id: github:techwithtim/langflow-rag-tutorial
-first_seen: '2026-06-25T22:55:22.462273+05:30'
-last_seen: '2026-06-25T22:55:22.462273+05:30'
-last_checked: '2026-06-25T22:55:22.462273+05:30'
+first_seen: '2026-07-07T00:47:09.780597+05:30'
+last_seen: '2026-07-07T00:47:09.780597+05:30'
+last_checked: '2026-07-07T00:47:09.780597+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (94 ⭐, 25 🍴), last updated 2026-06-09T12:30:18Z.
-- **Language/Topics**: No explicit language or topics specified in metadata.
-- **Purpose**: Unclear (no description provided); likely a tutorial for Langflow-based RAG (Retrieval-Augmented Generation) workflows.
+- **Repository Overview**: GitHub repository `techwithtim/Langflow-RAG-Tutorial` focuses on a Retrieval-Augmented Generation (RAG) implementation using Langflow, last updated on 2026-07-03.
+- **Metadata**: Contains 97 stars and 25 forks, with no specified primary language or topics.
+- **Purpose**: Likely serves as a tutorial or demonstration for integrating Langflow with RAG pipelines, though no explicit description is provided.
 
 ## Why It Matters
 
@@ -39,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: techwithtim
-- Stars: 94
+- Stars: 97
 - Forks: 25
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-06-09T12:30:18Z
+- Last Updated: 2026-07-03T20:52:55Z
 - Archived: No
 - Created At: 2024-04-17T10:56:19Z
 - Pushed At: 2024-07-18T10:50:24Z

@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/hello-agents
-collected_at: '2026-06-25T22:55:12.531910+05:30'
-published_at: '2026-06-25T17:15:48Z'
+collected_at: '2026-07-07T00:46:59.857295+05:30'
+published_at: '2026-07-06T18:27:43Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 61759
+stars: 64369
 language: Python
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2025-09-07T09:50:24Z'
-pushed_at: '2026-06-24T17:33:54Z'
+pushed_at: '2026-07-06T05:06:10Z'
 resource_id: github:datawhalechina/hello-agents
-first_seen: '2026-06-25T22:55:12.531910+05:30'
-last_seen: '2026-06-25T22:55:12.531910+05:30'
-last_checked: '2026-06-25T22:55:12.531910+05:30'
+first_seen: '2026-07-07T00:46:59.857295+05:30'
+last_seen: '2026-07-07T00:46:59.857295+05:30'
+last_checked: '2026-07-07T00:46:59.857295+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Tutorial**: Provides a step-by-step guide on building intelligent agents from scratch, covering both theoretical principles and practical implementations in Python.
-
-- **Key Components**: Focuses on integrating large language models (LLMs), retrieval-augmented generation (RAG), and agent architectures for real-world applications.
-
-- **Open-Source Resource**: Hosted on GitHub with 61,759 stars and 7,616 forks, offering a collaborative platform for learning and experimentation in agent development.
+- **Tutorial Focus**: Comprehensive guide on building AI agents from scratch, covering both theoretical principles and practical implementations.
+- **Key Components**: Integrates large language models (LLMs), retrieval-augmented generation (RAG), and Python-based agent architectures.
+- **Educational Resource**: Structured as a step-by-step tutorial with updated content (last modified July 2026) for hands-on learning.
 
 ## Why It Matters
 
@@ -42,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 61759
-- Forks: 7616
+- Stars: 64369
+- Forks: 7981
 - Language: Python
 - Topics: agent, llm, rag, tutorial
-- Last Updated: 2026-06-25T17:15:48Z
+- Last Updated: 2026-07-06T18:27:43Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-07T09:50:24Z
-- Pushed At: 2026-06-24T17:33:54Z
+- Pushed At: 2026-07-06T05:06:10Z
 
 ## Possible Use Cases
 

@@ -8,17 +8,15 @@ local_vault_path: ai/resources/home-the-github-blog.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
-- hackernews
 - reddit
-- scripts
 - web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Home - The GitHub Blog
@@ -27,18 +25,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Automation Integration**: Implemented 40+ automations to streamline workflows, significantly reducing manual tasks and increasing operational efficiency in a senior leadership role.
+- **Alert Volume & Scope**: GitHub processed over **20,000 secret scanning alerts** across **15,000 repositories**, necessitating a structured triage and remediation strategy.
 
-- **Leadership Impact**: Demonstrated that automation not only optimizes productivity but also enhances leadership capabilities by freeing up time for strategic decision-making and team development.
+- **Signal-to-Noise Optimization**: Implemented **automated workflows** to filter false positives and prioritize high-risk secrets, reducing manual review overhead.
 
-- **Technical Framework**: Utilized GitHub Copilot and other automation tools to create custom scripts and workfl
+- **9-Month Resolution**: Achieved **inbox zero** by deploying **scalable remediation pipelines**, integrating secret scanning into CI/CD, and enforcing poli
 
 ## Use Cases
 

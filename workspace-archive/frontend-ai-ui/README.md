@@ -11,11 +11,11 @@ Aesthetic, responsive AI chat interfaces and bento grids enhance user engagement
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (template - ESSENTIAL Tier)
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine) (template - USEFUL Tier)
-- [ChangoMan/nextjs-mdx-blog](https://github.com/changoman/nextjs-mdx-blog) (template - USEFUL Tier)
-- [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql) (template - USEFUL Tier)
-- [enesien/venefish](https://github.com/enesien/venefish) (template - USEFUL Tier)
-- [gonzalochale/saas-landing-template](https://github.com/gonzalochale/saas-landing-template) (template - USEFUL Tier)
+- [jolbol1/nextjs-velite-blog-template](https://github.com/jolbol1/nextjs-velite-blog-template) (template - USEFUL Tier)
 - [ixartz/SaaS-Boilerplate](https://github.com/ixartz/saas-boilerplate) (template - USEFUL Tier)
+- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) (template - USEFUL Tier)
+- [gonzalochale/saas-landing-template](https://github.com/gonzalochale/saas-landing-template) (template - USEFUL Tier)
+- [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,9 +23,9 @@ https://github.com/shadcn-ui/ui (shadcn/ui)
 https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
 - [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine)
-- [ChangoMan/nextjs-mdx-blog](https://github.com/changoman/nextjs-mdx-blog)
-- [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql)
-- [enesien/venefish](https://github.com/enesien/venefish)
+- [jolbol1/nextjs-velite-blog-template](https://github.com/jolbol1/nextjs-velite-blog-template)
+- [ixartz/SaaS-Boilerplate](https://github.com/ixartz/saas-boilerplate)
+- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page)
 - [gonzalochale/saas-landing-template](https://github.com/gonzalochale/saas-landing-template)
 
 ## Best Learning Resources
@@ -44,4 +44,4 @@ https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
 
 ---
 
-*Last updated: 2026-07-06 23:48 IST*
+*Last updated: 2026-07-07 01:02 IST*

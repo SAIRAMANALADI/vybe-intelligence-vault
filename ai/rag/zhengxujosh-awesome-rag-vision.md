@@ -4,23 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-06-25T22:56:12.497301+05:30'
-published_at: '2026-06-25T08:51:35Z'
+collected_at: '2026-07-07T00:47:59.829486+05:30'
+published_at: '2026-07-03T02:13:34Z'
 tags:
 - github-repo
 - hackernews
+- models
 - rag
 - unknown
-stars: 336
+stars: 338
 language: Unknown
 status: active
 archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-06-25T22:56:12.497301+05:30'
-last_seen: '2026-06-25T22:56:12.497301+05:30'
-last_checked: '2026-06-25T22:56:12.497301+05:30'
+first_seen: '2026-07-07T00:47:59.829486+05:30'
+last_seen: '2026-07-07T00:47:59.829486+05:30'
+last_checked: '2026-07-07T00:47:59.829486+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG-Vision Resources**: A specialized GitHub repository aggregating advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including methods integrating vision-language models (VLMs), multimodal retrieval, and domain-specific adaptations.
+- **Curated RAG-Vision Resources**: Repository aggregates advanced retrieval-augmented generation (RAG) techniques specifically tailored for computer vision applications, including multimodal RAG, vision-language models (VLMs), and cross-modal retrieval frameworks.
 
-- **Multimodal Retrieval Focus**: Highlights cutting-edge approaches where **visual retrieval** (e.g., image-to-text, cross-modal similarity) enhances generative tasks, with emphasis on **zero-shot learning**, **few-shot adaptation**, and **semantic alignment** between modalities.
+- **Dynamic and Updated**: Last updated on **2026-07-03**, ensuring inclusion of cutting-edge research and tools in RAG-enhanced vision tasks (e.g., image captioning, visual question answering, and retrieval-augmented visual grounding).
 
-- **Dynamic & Evolving**: Last updated **June 2026**, suggesting active maintenance and inclusion of emerging techniques like **diffusion-based RAG**, **vision foundation models**, and **efficient retrieval architectures** (e.g., vector databases, graph-based indexing).
+- **Minimalist Structure**: Despite 338 stars and 9 forks, the repository lacks explicit language tags or topics, suggesting a focus on breadth over metadata standardization, potentially requiring manual exploration for specific subdomains.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: zhengxuJosh
-- Stars: 336
+- Stars: 338
 - Forks: 9
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-06-25T08:51:35Z
+- Last Updated: 2026-07-03T02:13:34Z
 - Archived: No
 - Created At: 2024-11-21T07:35:07Z
 - Pushed At: 2026-01-25T12:29:49Z

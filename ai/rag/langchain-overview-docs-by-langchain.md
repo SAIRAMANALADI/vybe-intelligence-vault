@@ -4,12 +4,11 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://js.langchain.com
-published_at: '2026-06-25T16:40:11.316429+05:30'
-collected_at: '2026-06-25T16:40:11.316438+05:30'
+published_at: '2026-07-07T00:51:15.999231+05:30'
+collected_at: '2026-07-07T00:51:15.999247+05:30'
 tags:
 - agents
 - anthropic
-- benchmark
 - meta-ai
 - models
 - openai
@@ -18,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langchain-overview-docs-by-langchain
-first_seen: '2026-06-25T16:40:11.316438+05:30'
-last_seen: '2026-06-25T16:40:11.316438+05:30'
-last_checked: '2026-06-25T16:40:11.316438+05:30'
+first_seen: '2026-07-07T00:51:15.999247+05:30'
+last_seen: '2026-07-07T00:51:15.999247+05:30'
+last_checked: '2026-07-07T00:51:15.999247+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- `create_agent` provides a minimal, modular harness for composing agents from model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
-- LangChain agents leverage LangGraph for durable execution, persistence, and human-in-the-loop workflows, while LangSmith enables tracing, debugging, and evaluation of agent behavior.
-- Standardized model interfaces and incremental middleware-based customization allow portable, scalable agent development with minimal code changes.
+- `create_agent` in LangChain provides a minimal, configurable harness for composing agents from model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
+- LangChain agents leverage LangGraph for durable execution, human-in-the-loop support, and persistence, enabling advanced orchestration workflows.
+- LangSmith integrates for tracing, debugging, and evaluating agent behavior, with features like state transition inspection and latency analysis.
 
 ## Why It Matters
 
@@ -40,13 +39,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:40:11.316429+05:30
+- Published: 2026-07-07T00:51:15.999231+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
-- benchmark
 - meta-ai
 - models
 - openai

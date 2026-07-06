@@ -2,20 +2,20 @@
 title: Overview Â· Cloudflare Workers AI docs
 archive_category: project-ideas
 source_category: ai/resources
-source_url: https://developers.cloudflare.com/workers-ai
+source_url: https://developers.cloudflare.com/workers-ai/
 resource_id: blog:overview-a-cloudflare-workers-ai-docs
 local_vault_path: ai/resources/overview-a-cloudflare-workers-ai-docs.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: template
+resource_kind: tutorial
 importance: medium
 tags:
 - reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Overview Â· Cloudflare Workers AI docs
@@ -24,16 +24,16 @@ selection_reason:
 
 - Matched archive category: `Project Ideas`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: template
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Workers Wrangler CLI**: A command-line tool for initializing, building, and deploying Workers AI projects, integrating with Cloudflare Workers for serverless execution.
-- **Project Initialization**: Run `npm create cloudflare@latest` to scaffold a Workers AI project with predefined templates and dependencies.
-- **Deployment**: Use `wrangler deploy` to push the Workers AI application to Cloudflare’s global network, enabling low-latency inference at the edge.
+- **Workers AI CLI Setup**: Install `wrangler` via npm (`npm install -g wrangler`) and authenticate with `wrangler login` to deploy Workers AI applications.
+- **Project Initialization**: Create a new Workers AI project using `wrangler init <project-name>` and configure `wrangler.toml` for AI bindings (e.g., `@cloudflare/ai`).
+- **Deployment & Inference**: Deploy with `wrangler deploy` and invoke AI models via the Workers runtime using the `@cloudflare/ai` binding for inference tasks.
 
 ## Use Cases
 
@@ -43,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developers.cloudflare.com/workers-ai
+Original source URL: https://developers.cloudflare.com/workers-ai/
 
 ## Local Vault File
 

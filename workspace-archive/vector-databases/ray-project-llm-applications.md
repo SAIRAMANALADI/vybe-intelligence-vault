@@ -6,10 +6,10 @@ source_url: https://github.com/ray-project/llm-applications
 resource_id: github:ray-project/llm-applications
 local_vault_path: ai/rag/ray-project-llm-applications.md
 quality_score: 70
-archive_score: 75
-archive_tier: useful
+archive_score: 85
+archive_tier: essential
 resource_kind: benchmark
-importance: medium
+importance: high
 tags:
 - github-repo
 - jupyter notebook
@@ -17,7 +17,6 @@ tags:
 - models
 - openai
 - rag
-- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -27,16 +26,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 85 (essential)
 - Resource kind: benchmark
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed computation, integrating retrieval (e.g., vector DBs) with LLMs (e.g., Llama2, OpenAI) for real-time inference.
-- **Fine-Tuning & Serving**: Provides notebooks for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve for scalable, low-latency serving in production environments.
-- **Multi-Cloud & Tooling**: Includes examples leveraging Anyscale for man
+- **RAG Implementation**: Provides production-ready guidance for building Retrieval-Augmented Generation (RAG) applications using LLMs, with integration examples for OpenAI and Anyscale APIs.
+- **Ray Integration**: Leverages Ray for distributed serving, fine-tuning, and scalable LLM deployment, with notebooks demonstrating efficient resource utilization.
+- **Model Support**: Includes examples for fine-tuning Llama2 and deploying models via Ray Serve, with modular components for customization.
 
 ## Use Cases
 

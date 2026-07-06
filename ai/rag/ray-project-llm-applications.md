@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-06-25T22:56:42.532970+05:30'
-published_at: '2026-06-23T06:21:46Z'
+collected_at: '2026-07-07T00:48:29.909662+05:30'
+published_at: '2026-07-04T18:18:49Z'
 tags:
 - github-repo
 - jupyter notebook
@@ -13,8 +13,7 @@ tags:
 - models
 - openai
 - rag
-- workflows
-stars: 1858
+stars: 1856
 language: Jupyter Notebook
 status: active
 license: CC-BY-4.0
@@ -22,9 +21,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-06-25T22:56:42.532970+05:30'
-last_seen: '2026-06-25T22:56:42.532970+05:30'
-last_checked: '2026-06-25T22:56:42.532970+05:30'
+first_seen: '2026-07-07T00:48:29.909662+05:30'
+last_seen: '2026-07-07T00:48:29.909662+05:30'
+last_checked: '2026-07-07T00:48:29.909662+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed computation, integrating retrieval (e.g., vector DBs) with LLMs (e.g., Llama2, OpenAI) for real-time inference.
-- **Fine-Tuning & Serving**: Provides notebooks for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve for scalable, low-latency serving in production environments.
-- **Multi-Cloud & Tooling**: Includes examples leveraging Anyscale for managed LLM services and Ray’s ecosystem (e.g., Ray AIR) for end-to-end ML pipelines, with focus on reproducibility and performance optimization.
+- **RAG Implementation**: Provides production-ready guidance for building Retrieval-Augmented Generation (RAG) applications using LLMs, with integration examples for OpenAI and Anyscale APIs.
+- **Ray Integration**: Leverages Ray for distributed serving, fine-tuning, and scalable LLM deployment, with notebooks demonstrating efficient resource utilization.
+- **Model Support**: Includes examples for fine-tuning Llama2 and deploying models via Ray Serve, with modular components for customization.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ray-project
-- Stars: 1858
+- Stars: 1856
 - Forks: 255
 - Language: Jupyter Notebook
 - Topics: anyscale, fine-tuning, llama2, llms, machine-learning, openai, ray, serving
-- Last Updated: 2026-06-23T06:21:46Z
+- Last Updated: 2026-07-04T18:18:49Z
 - License: CC-BY-4.0
 - Archived: No
 - Created At: 2023-08-16T04:41:26Z

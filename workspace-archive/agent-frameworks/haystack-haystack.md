@@ -1,31 +1,35 @@
 ---
-title: 'Haystack: Open-Source AI Framework for Production Ready Agents, RAG'
+title: Haystack | Haystack
 archive_category: agent-frameworks
-source_category: ai/community
-source_url: https://haystack.deepset.ai
+source_category: ai/rag
+source_url: https://haystack.deepset.ai/
 resource_id: blog:haystack-haystack
 local_vault_path: ai/rag/haystack-haystack.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
-- ai
-- hackernews
+- anthropic
+- mistral
+- models
+- openai
 - rag
+- web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# Haystack: Open-Source AI Framework for Production Ready Agents, RAG
+# Haystack | Haystack
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,8 +37,11 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by doener. Score: 60, Comments: 19.
-Original Link: https://haystack.deepset.ai/
+- **Modular AI Orchestration**: Haystack provides a transparent, modular framework for building production-ready AI agents, RAG systems, and context-engineered workflows with full inspection, debugging, and optimization capabilities.
+
+- **Vendor-Neutral Integration**: Supports seamless integration with major AI/LLM providers (OpenAI, Anthropic, Mistral, etc.) and vector databases (Weaviate, Pinecone, Elasticsearch) without vendor lock-in, enabling flexible, composable architectures.
+
+- **Enterpr
 
 ## Use Cases
 
@@ -44,7 +51,7 @@ Original Link: https://haystack.deepset.ai/
 
 ## Source
 
-Original source URL: https://haystack.deepset.ai
+Original source URL: https://haystack.deepset.ai/
 
 ## Local Vault File
 

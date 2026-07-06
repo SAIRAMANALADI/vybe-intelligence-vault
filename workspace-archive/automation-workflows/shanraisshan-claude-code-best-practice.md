@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic Workflow Transition**: Repository documents the evolution from traditional "vibe coding" to structured agentic engineering practices for Claude Code, emphasizing systematic workflows over ad-hoc development.
+- **Vibe-to-Agentic Transition**: Repository documents the evolution from traditional *vibe coding* to structured *agentic engineering* workflows using Claude Code, emphasizing systematic practices over ad-hoc development.
 
-- **Technical Best Practices**: Provides curated guidelines, commands, and skills for optimizing Claude Code agents, including context engineering techniques and command optimization for AI-driven development.
+- **Technical Best Practices**: Provides curated guidelines for optimizing Claude Code agents, including context engineering, command structuring, and skill integration for scalable AI-driven development.
 
-- **Community-Driven Resource**: Open-source repository with 60K+ st
+- **Community-Driven Resource**: Hosts 62K+ stars with contributions f
 
 ## Use Cases
 

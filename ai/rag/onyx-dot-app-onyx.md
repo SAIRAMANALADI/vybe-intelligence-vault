@@ -4,25 +4,30 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/onyx
-collected_at: '2026-06-25T22:55:42.488795+05:30'
-published_at: '2026-06-25T17:15:48Z'
+collected_at: '2026-07-07T00:47:29.846652+05:30'
+published_at: '2026-07-06T19:06:18Z'
 tags:
+- benchmark
+- dataset
 - frontend_ui
 - github-repo
+- meta-ai
+- models
 - openai
 - python
 - rag
-stars: 30543
+- workflows
+stars: 30747
 language: Python
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2023-04-27T06:04:01Z'
-pushed_at: '2026-06-25T17:17:20Z'
+pushed_at: '2026-07-06T19:17:04Z'
 resource_id: github:onyx-dot-app/onyx
-first_seen: '2026-06-25T22:55:42.488795+05:30'
-last_seen: '2026-06-25T22:55:42.488795+05:30'
-last_checked: '2026-06-25T22:55:42.488795+05:30'
+first_seen: '2026-07-07T00:47:29.846652+05:30'
+last_seen: '2026-07-07T00:47:29.846652+05:30'
+last_checked: '2026-07-07T00:47:29.846652+05:30'
 health_score: 100
 ---
 
@@ -30,11 +35,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-LLM Integration**: Open-source AI chat platform supporting **any LLM** (e.g., ChatGPT, open-source models) via modular backend architecture, enabling seamless switching between providers while maintaining consistent frontend UI.
+- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any LLM (e.g., ChatGPT, Llama), enabling flexible model switching and benchmarking via a unified API.
 
-- **Enterprise-Grade RAG & Vector Search**: Implements **Retrieval-Augmented Generation (RAG)** with vector-based semantic search (likely using FAISS/Weaviate/Pinecone) for low-latency, context-aware responses in large-scale deployments.
+- **Enterprise-Grade RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based similarity search for contextual, low-latency information retrieval across large datasets.
 
-- **Full-Stack Architecture**: Combines **Next.js (React)** frontend with **Python (FastAPI/Flask)** backend, supporting self-hosting, enterprise search integration, and advanced features like conversation history, multi-modal input, and plugin extensibility.
+- **Self-Hosted Next.js Frontend + Python Backend**: Modular architecture with a Next.js-based UI for real-time chat and a Python backend (FastAPI/Django) for LLM orchestration, RAG pipelines, and enterprise search workflows.
 
 ## Why It Matters
 
@@ -43,15 +48,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: onyx-dot-app
-- Stars: 30543
-- Forks: 4190
+- Stars: 30747
+- Forks: 4216
 - Language: Python
 - Topics: ai, ai-chat, chatgpt, chatui, enterprise-search, gen-ai, information-retrieval, llm, llm-ui, nextjs, python, rag, self-hosted, vector-search
-- Last Updated: 2026-06-25T17:15:48Z
+- Last Updated: 2026-07-06T19:06:18Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-04-27T06:04:01Z
-- Pushed At: 2026-06-25T17:17:20Z
+- Pushed At: 2026-07-06T19:17:04Z
 
 ## Possible Use Cases
 
