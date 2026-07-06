@@ -40,10 +40,25 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `github-repo`, `hackernews`, `python`, `scripts`, `workflows`
   * Source URL: <https://github.com/0x4m4/hexstrike-ai>
 
+* **[0xSteph/pentest-ai-agents](ai/agents/0xsteph-pentest-ai-agents.md)** (`workflow` | `useful` tier)
+  * Summary: - **Purpose**: Converts Claude Code into an offensive security research assistant with specialized AI subagents for penetration testing tasks, including engagement planning, recon analysis, exploit research, detection building, STIG auditing, and rep
+  * Tags: `agents`, `anthropic`, `github-repo`, `hackernews`, `scripts`, `shell`, `workflows`
+  * Source URL: <https://github.com/0xSteph/pentest-ai-agents>
+
+* **[1-Click RCE To Steal Your OpenClaw Data and Keys (CVE-2026-25253) | depthfirst](ai/rag/1-click-rce-to-steal-your-openclaw-data-and-keys-c.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Unvalidated Gateway URL Injection**: OpenClaw's `app-settings.ts` blindly accepted and persisted a `gatewayUrl` query parameter from URLs (e.g., `https://localhost?gatewayUrl=attacker.com`), enabling arbitrary WebSocket endpoint redirection and t
+  * Tags: `agents`, `rag`, `web-crawled`
+  * Source URL: <https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys>
+
 * **[2.5-D Decomposition for LLM-Based Spatial Construction](ai/agents/arxiv-2605-07066.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.07066v3 Announce Type: replace Abstract: Autonomous systems that build structures from natural-language instructions need reliable spatial reasoning, yet large language models (LLMs) make systematic coordinate errors when generating three-
   * Tags: `agents`, `benchmark`, `models`, `openai`
   * Source URL: <https://arxiv.org/abs/2605.07066>
+
+* **[6 ways to grow your network](ai/agents/6-ways-to-grow-your-network.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Affinity CRM** is a relationship intelligence (RI) platform offering CRM, AI-driven activity capture, data enrichment, analytics, and integrations (including Salesforce) with enterprise-grade security and API access. - **Industry-specific solutio
+  * Tags: `agents`, `anthropic`, `creative_dev`, `reddit`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://www.affinity.co/blog/grow-your-network>
 
 * **[8500GIRISH/CrewAI-2026](ai/agents/8500girish-crewai-2026.md)** (`tool` | `useful` tier)
   * Summary: Learning Agentic AI.
@@ -163,6 +178,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **ATP spatial mapping predicts tissue folding**: Researchers at Princeton University demonstrated that localized ATP concentration gradients in developing tissues (e.g., mouse eyes, chicken lungs, fruit fly embryos) correlate with mechanical foldin
   * Tags: `agents`, `hackernews`, `paper`, `web-crawled`
   * Source URL: <https://engineering.princeton.edu/news/2026/06/16/new-way-look-developing-lifeforms-using-energy-predict-action>
+
+* **[A Physics-Informed Fourier-Wavelet Transformer for Multiscale Computational Fluid Dynamics Surrogate Modeling](ai/research/arxiv-2606-24696.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.24696v1 Announce Type: cross Abstract: Physics-informed surrogate models can accelerate computational fluid dynamics simulations. However, many existing methods reproduce global flow patterns more reliably than localized multiscale structu
+  * Tags: `benchmark`, `youtube`
+  * Source URL: <https://arxiv.org/abs/2606.24696>
 
 * **[A Probabilistic Framework for LLM-Based Model Discovery](ai/agents/arxiv-2602-18266.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.18266v2 Announce Type: replace Abstract: Automated methods for discovering mechanistic simulator models from observational data offer a promising path toward accelerating scientific progress. Such methods often take the form of agentic-sty
@@ -313,6 +333,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `meta-ai`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.24589>
 
+* **[Adversarial dynamical systems characterize when data-driven learning succeeds or fails](ai/research/arxiv-2407-06312.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2407.06312v2 Announce Type: replace-cross Abstract: Many systems resist analytical modeling, making data-driven inference of dynamics important. Yet data-driven methods can fail to converge or generalize, leaving open a central question: When c
+  * Source URL: <https://arxiv.org/abs/2407.06312>
+
 * **[affaan-m/agentshield](ai/agents/affaan-m-agentshield.md)** (`mcp-server` | `useful` tier)
   * Summary: - **Multi-format security scanner** for AI agents, supporting CLI, GitHub Action, ECC plugin, and GitHub App integration to detect vulnerabilities in configurations, MCP servers, and tool permissions. - **TypeScript-based** implementation targeting A
   * Tags: `agents`, `anthropic`, `github-repo`, `typescript`
@@ -432,6 +456,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.24177v1 Announce Type: cross Abstract: Large language models are making research production scalable, shifting the bottleneck from producing artifacts to judging claims. We present \textsc{Agon}, a research orchestrator that validates what
   * Tags: `agents`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.24177>
+
+* **[AhsanAyaz/ai-agents-google-adk](ai/agents/ahsanayaz-ai-agents-google-adk.md)** (`tool` | `useful` tier)
+  * Summary: - **Google ADK Integration**: Demonstrates the use of Google's Agent Development Kit (ADK) to create a marketing campaign assistant agent in Python. - **Repository Metrics**: Contains 60 stars and 33 forks, last updated on 2026-06-22. - **Purpose**:
+  * Tags: `agents`, `github-repo`, `hackernews`, `python`, `scripts`
+  * Source URL: <https://github.com/AhsanAyaz/ai-agents-google-adk>
 
 * **[ahsen-adil/Learn_OpenAI_Agents_SDK](ai/agents/ahsen-adil-learn-openai-agents-sdk.md)** (`framework` | `useful` tier)
   * Summary: Learn how to build powerful AI agents using OpenAI Agents SDK 🧠 full tutorial link : https://youtu.be/3KnUHAuqu44?si=MgochPM0vpuobY37
@@ -772,6 +801,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `dataset`
   * Source URL: <https://arxiv.org/abs/2606.16434>
 
+* **[Autonomous Video Generation with Counterfactual Controllability for Self-Evolving World Models](ai/agents/arxiv-2606-24152.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.24152v1 Announce Type: cross Abstract: Existing literature claims that video generation essentially is world modelling. On the one hand, the claim is productive because it pushes generative AI beyond static images and toward temporally ext
+  * Tags: `agents`, `paper`, `youtube`
+  * Source URL: <https://arxiv.org/abs/2606.24152>
+
 * **[AutoSpec: Safety Rule Evolution for LLM Agents via Inductive Logic Programming](ai/agents/arxiv-2606-24245.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24245v2 Announce Type: cross Abstract: Large language model (LLM) agents increasingly automate complex tasks by integrating language models with external tools and environments. However, their autonomy poses significant safety risks: agent
   * Tags: `agents`
@@ -956,6 +990,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Build real agentic apps using CUGA: two dozen working examples on a lightweight harness
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/ibm-research/cuga-apps>
+
+* **[Building MCPs with Netlify | Netlify Developers](ai/agents/building-mcps-with-netlify-netlify-developers.md)** (`mcp-server` | `useful` tier)
+  * Summary: - **MCP Architecture**: MCP servers expose tools/resources via JSON-RPC over HTTP/SSE/STDIO; Netlify serverless functions host MCP servers using `@modelcontextprotocol/sdk` with `StreamableHTTPServerTransport` for stateless HTTP interactions. - **Imp
+  * Tags: `agents`, `anthropic`, `hackernews`, `reddit`, `web-crawled`, `workflows`
+  * Source URL: <https://developers.netlify.com/guides/write-mcps-on-netlify>
 
 * **[Building Next.js for an agentic future](ai/agents/building-next-js-for-an-agentic-future.md)** (`tutorial` | `useful` tier)
   * Summary: How we built and sunset an in-browser agent, shipped MCP integration, and learned that better AI agent support means thinking from the agent's perspective.
@@ -1222,6 +1261,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `paper`
   * Source URL: <https://arxiv.org/abs/2606.15930>
 
+* **[Copilot CLI sessions in Visual Studio Code](ai/agents/copilot-cli-sessions-in-visual-studio-code.md)** (`framework` | `useful` tier)
+  * Summary: - **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via GitHub Copilot CLI, managed through the Chat view; supports parallel execution, worktree/folder isolation modes, and slash commands (`/research`, `/yolo`, etc.) for
+  * Tags: `agents`, `openai`, `scripts`, `web-crawled`
+  * Source URL: <https://code.visualstudio.com/docs/copilot/agents/background-agents>
+
 * **[CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark](ai/agents/arxiv-2409-11363.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2409.11363v2 Announce Type: replace-cross Abstract: AI agents have the potential to aid users on a variety of consequential tasks, including conducting scientific research. To spur the development of useful agents, we need benchmarks that are c
   * Tags: `agents`, `benchmark`, `models`, `openai`, `paper`
@@ -1251,11 +1295,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Jun 7, 2026CrewAI: A Practical Guide to Role-Based Agent OrchestrationIn the era of AI, complex tasks often require collaboration rather than isolated work. CrewAI emerges as a powerful framework for orchestrating multiple AI agentsâeach with speci
   * Tags: `agents`, `hackernews`, `models`, `openai`, `paper`, `web-crawled`, `workflows`
   * Source URL: <https://www.w3reference.com/blog/crewai-a-practical-guide-to-role-based-agent-orchestration>
-
-* **[crewAIInc/crewAI Release: 1.14.8a5](ai/rag/crewaiinc-crewai.md)** (`tutorial` | `useful` tier)
-  * Summary: ## What's Changed
-  * Tags: `agents`, `crewaiinc-crewai`, `github-release`
-  * Source URL: <https://github.com/crewaiinc/crewai>
 
 * **[Critical Zero-Day Vulnerabilities in AI Agent Frameworks (2025): Patching AutoGen 2.8 Security Flaws | Markaicode](ai/agents/critical-zero-day-vulnerabilities-in-ai-agent-fram.md)** (`framework` | `useful` tier)
   * Summary: Critical Zero-Day Vulnerabilities in AI Agent Frameworks (2025): Patching AutoGen 2.8 Security FlawsLearn how to patch critical zero-day vulnerabilities in AutoGen 2.8 AI agent frameworks. Essential security fixes for AI developers using Microsoft's
@@ -1341,6 +1380,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.16497v2 Announce Type: replace Abstract: GPU kernel optimization represents a paradigm where functional correctness is assumed and execution efficiency is the objective. We present daVinci-kernel, a reinforcement learning framework that co
   * Tags: `agents`, `hackernews`
   * Source URL: <https://arxiv.org/abs/2606.16497>
+
+* **[Debate2Create: Robot Co-design via Multi-Agent LLM Debate](ai/agents/arxiv-2510-25850.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2510.25850v3 Announce Type: replace-cross Abstract: We introduce Debate2Create (D2C), a multi-agent LLM framework that formulates robot co-design as structured, iterative debate grounded in physics-based evaluation. A design agent and control a
+  * Tags: `agents`, `benchmark`, `models`
+  * Source URL: <https://arxiv.org/abs/2510.25850>
 
 * **[Decentralized Coordination of Autonomous Traffic Through Advanced Air Mobility Corridors](ai/agents/arxiv-2606-23832.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.23832v1 Announce Type: cross Abstract: The use of dedicated corridors for Advanced Air Mobility (AAM) traffic is one of the most commonly proposed pathways to integrating them into existing airspace operations. Most prior research has focu
@@ -1670,6 +1714,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `paper`
   * Source URL: <https://arxiv.org/abs/2512.15067>
 
+* **[Encryption & Compliance Problem Solver | Help Guides](ai/agents/encryption-compliance-problem-solver-help-guides.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Device Compliance Persistence**: Repeated compliance checks failing despite following steps may indicate misconfigured policies, outdated software, or undetected system modifications preventing compliance status updates. - **Duplicate Device Entr
+  * Tags: `agents`, `web-crawled`
+  * Source URL: <https://techsource-helpguides.stanford.edu/kb/guide/en/encryption-compliance-problem-solver-6e1EWWfNKy/Steps/2588944>
+
+* **[End User License Agreement (EULA) | Posit Software, PBC](ai/agents/end-user-license-agreement-eula-posit-software-pbc.md)** (`benchmark` | `useful` tier)
+  * Summary: - **License Scope & Restrictions**: Grants a limited, worldwide, non-exclusive, royalty-free license for Software use during the Subscription Term, with restrictions on copying (backup/archival only), virtualization, and third-party hosting unless ex
+  * Tags: `agents`, `benchmark`, `hackernews`, `web-crawled`
+  * Source URL: <https://posit.co/about/eula>
+
 * **[Energy-Conserved Neural Pipelines: Attenuating Error Propagation in Modular Neural Networks via Physical Conservation Constraints](ai/rag/arxiv-2606-11341.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11341v1 Announce Type: new Abstract: Modular neural network pipelines suffer from error compounding: noise at any module boundary propagates and potentially amplifies through subsequent modules. We introduce energy conservation as a hard p
   * Tags: `hackernews`, `rag`
@@ -1912,6 +1966,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.25115v1 Announce Type: new Abstract: On-device language-model agents improve by accumulating experience in retrieved memory rather than by updating weights. This memory is hard-bounded and exposed: it consumes RAM and energy, reaches peers
   * Tags: `agents`, `benchmark`, `models`
   * Source URL: <https://arxiv.org/abs/2606.25115>
+
+* **[Forget Without Compromise: Nexus Sampling for Streaming KV-Cache Eviction Under Fixed Budgets](ai/agents/arxiv-2606-23961.md)** (`template` | `useful` tier)
+  * Summary: arXiv:2606.23961v1 Announce Type: new Abstract: Long-context and agentic LLM workloads push the KV cache past any fixed memory budget, forcing the inference stack to permanently evict tokens at every step of a continuous-inference stream. Existing me
+  * Tags: `agents`
+  * Source URL: <https://arxiv.org/abs/2606.23961>
 
 * **[Formalizing Numerical Analysis: An Agent Pipeline and Quality Audit Beyond Kernel Acceptance](ai/agents/arxiv-2606-14000.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14000v1 Announce Type: new Abstract: Recent work has demonstrated that coding agents can formalize entire advanced mathematics textbooks in Lean 4, yet existing efforts concentrate on branches of mathematics already well-represented in mat
@@ -3027,11 +3086,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`
   * Source URL: <https://arxiv.org/abs/2606.25039>
 
-* **[LLM-ACES: Closed-Loop Discovery of Dynamical Systems with LLM-Guided Adaptive Search](ai/research/arxiv-2606-25039.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2606.25039v1 Announce Type: new Abstract: Recovering governing Ordinary Differential Equations (ODEs) from data is a central challenge in modeling dynamical systems across scientific domains. Existing approaches cast discovery as a static infer
-  * Tags: `dataset`
-  * Source URL: <https://arxiv.org/abs/2606.25039>
-
 * **[LLM-Aided Joint Secrecy Precoding and Trajectory for RSMA-Based Heterogeneous UAV Networks](ai/agents/arxiv-2507-17188.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2507.17188v3 Announce Type: replace-cross Abstract: This paper investigates secure communications in rate-splitting multiple access (RSMA) enabled heterogeneous UAV networks, where multiple UAVs collaboratively serve ground terminals in the pre
   * Tags: `agents`, `paper`
@@ -3206,6 +3260,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2506.20686>
 
+* **[Memberstack Developers Documentation](ai/agents/memberstack-developers-documentation.md)** (`mcp-server` | `useful` tier)
+  * Summary: - **DOM Package**: Pre-built client-side components for authentication, member management, and gated content integration via JavaScript/TypeScript. - **Admin Node Package & REST API**: Server-side tools for secure member/plan/data management using se
+  * Tags: `agents`, `anthropic`, `reddit`, `web-crawled`
+  * Source URL: <https://developers.memberstack.com/docs>
+
+* **[MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism](ai/agents/arxiv-2606-07512.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.07512v2 Announce Type: replace-cross Abstract: Current Vision-Language Models struggle with hours-long videos because processing full-length visual sequences induces prohibitive token explosion and attention dilution. To overcome this, we
+  * Tags: `agents`, `benchmark`, `models`, `youtube`
+  * Source URL: <https://arxiv.org/abs/2606.07512>
+
 * **[Memory Contagion: Cross-Temporal Propagation of Evaluator Bias via Agent Memory](ai/agents/arxiv-2606-23195.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.23195v2 Announce Type: replace Abstract: Large Language Model (LLM) agents increasingly rely on memory systems to maintain long-term coherence. Recent work shows that agent memories degrade during continuous consolidation. However, existin
   * Tags: `agents`, `anthropic`
@@ -3236,9 +3300,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `frontend_ui`
   * Source URL: <https://arxiv.org/abs/2606.24151>
 
-* **[microsoft/agentsleague](ai/agents/microsoft-agentsleague.md)** (`tool` | `useful` tier)
-  * Summary: A high-energy developer challenge that brings an e-sports twist to agentic AI with live AI Battles, asynchronous community challenges, GitHub-based submissions and more!
-  * Tags: `agents`, `github-repo`, `unknown`
+* **[microsoft/agentsleague](ai/agents/microsoft-agentsleague.md)** (`benchmark` | `useful` tier)
+  * Summary: - **E-sports-inspired AI challenge platform** facilitating live AI Battles with competitive, asynchronous community challenges. - **GitHub-based submission system** enabling version-controlled agent development and evaluation. - **Real-time leaderboa
+  * Tags: `agents`, `benchmark`, `github-repo`, `leaderboard`, `unknown`
   * Source URL: <https://github.com/microsoft/agentsleague>
 
 * **[microsoft/autogen Release: python-v0.7.5](ai/agents/microsoft-autogen.md)** (`tutorial` | `useful` tier)
@@ -3335,6 +3399,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12018v1 Announce Type: new Abstract: We propose a multi-agent collaborative framework built upon a lightweight Multimodal Large Language Model (MLLM), specifically designed for social intelligence reasoning. A key feature of our approach i
   * Tags: `agents`, `models`
   * Source URL: <https://arxiv.org/abs/2606.12018>
+
+* **[Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable Frameworks](ai/rag/modular-rag-transforming-rag-systems-into-lego-lik.md)** (`framework` | `useful` tier)
+  * Summary: - **Modular RAG Framework**: Proposes a three-tier architecture (modules, sub-modules, operators) to decompose RAG systems into reconfigurable components, enabling flexible orchestration beyond linear "retrieve-then-generate" paradigms. - **RAG Flow
+  * Tags: `agents`, `benchmark`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://arxiv.org/html/2407.21059v1>
 
 * **[More Skills, Worse Agents? Skill Shadowing Degrades Performance When Expanding Skill Libraries](ai/agents/arxiv-2605-24050.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.24050v2 Announce Type: replace-cross Abstract: Skill libraries allow LLM agents to load task-specific instructions on demand, letting non-expert users solve domain-specific tasks through natural language without knowing which skills exist
@@ -3894,6 +3963,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2606.17065>
 
+* **[Plausible but Wrong: A case study on Agentic Failures in Astrophysical Workflows](ai/agents/arxiv-2604-25345.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2604.25345v2 Announce Type: replace Abstract: Agentic AI systems are increasingly being integrated into scientific workflows, yet their behavior under realistic conditions remains insufficiently understood. We evaluate CMBAgent across two workf
+  * Tags: `agents`, `benchmark`, `workflows`
+  * Source URL: <https://arxiv.org/abs/2604.25345>
+
 * **[Polaris: A G\"odel Agent Framework for Small Language Models through Experience-Abstracted Policy Repair](ai/agents/arxiv-2603-23129.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2603.23129v4 Announce Type: replace Abstract: G\"odel agent realize recursive self-improvement: an agent inspects its own policy and traces and then modifies that policy in a tested loop. We introduce Polaris, G\"odel agent for compact models t
   * Tags: `agents`, `benchmark`
@@ -4149,6 +4223,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2510.02149>
 
+* **[Release Notes | Cohere](ai/agents/release-notes-cohere.md)** (`tutorial` | `useful` tier)
+  * Summary: - **north-mini-code-1-0**: Released June 9, 2026; supports 256K input / 64K output context length, Apache 2.0 license; available via Chat V2 API, Hugging Face open weights, and Model Vault for production. - **command-a-plus-05-2026**: Released May 20
+  * Tags: `agents`, `hackernews`, `models`, `web-crawled`
+  * Source URL: <https://docs.cohere.com/changelog>
+
+* **[Reliability-Asymmetric Spacecraft Autonomy: Co-Designing a Capable Learned GNC Stack with a Verified, Adaptation-Aware Runtime Shield](ai/agents/arxiv-2606-25366.md)** (`api` | `useful` tier)
+  * Summary: arXiv:2606.25366v1 Announce Type: cross Abstract: Deep-space missions need onboard autonomy that is both capable and certifiable. Rule-based autonomy is certifiable but brittle, while learned autonomy is capable but hard to verify. We present AMPLE-G
+  * Tags: `agents`, `models`
+  * Source URL: <https://arxiv.org/abs/2606.25366>
+
 * **[ReM-MoA: Reasoning Memory Sustains Mixture-of-Agents Scaling](ai/agents/arxiv-2606-24437.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24437v1 Announce Type: new Abstract: Mixture-of-Agents (MoA) architectures improve inference-time scaling by organizing multiple LLM agents into layered reasoning pipelines. However, existing MoA variants fail to sustain gains as depth inc
   * Tags: `agents`, `benchmark`, `models`
@@ -4158,6 +4242,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.14945v1 Announce Type: new Abstract: The autoresearch pattern enables autonomous experimentation by having a large language model (LLM) iteratively modify code to optimize a target metric. Its stateless design, however, reconstructs experi
   * Tags: `agents`, `benchmark`, `frontend_ui`, `paper`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.14945>
+
+* **[Remix - A Web Framework for Building Anything](ai/agents/remix-a-web-framework-for-building-anything.md)** (`framework` | `useful` tier)
+  * Summary: - **Full-stack JavaScript framework**: Remix integrates server, router, data layer, UI components, and testing into a single dependency, enabling end-to-end JavaScript development from idea to deployment. - **AI-friendly and web-native components**:
+  * Tags: `agents`, `frontend_ui`, `hackernews`, `producthunt`, `web-crawled`
+  * Source URL: <https://remix.run>
 
 * **[ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection](ai/agents/arxiv-2606-24112.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24112v1 Announce Type: new Abstract: Multimodal misinformation detection is increasingly important because viral posts now combine long multilingual narratives, several images, mixed provenance, and subtle text--image framing errors. Exist
@@ -4671,6 +4760,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `paper`
   * Source URL: <https://arxiv.org/abs/2606.17099>
 
+* **[SoK: AI Secure Code Generation: Progress, Pitfalls, and Paths Forward](ai/agents/arxiv-2606-25195.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.25195v1 Announce Type: cross Abstract: The increasing use of AI systems for code generation raises a central security question: what can today's models and coding agents actually do to produce secure code, where do they still fail, and wha
+  * Tags: `agents`, `benchmark`, `hackernews`, `models`, `workflows`
+  * Source URL: <https://arxiv.org/abs/2606.25195>
+
 * **[Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation](ai/agents/arxiv-2606-23743.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.23743v2 Announce Type: replace-cross Abstract: Modern video diffusion models achieve higher generation quality through scaling, but this also increases inference cost. Although many acceleration methods have been proposed, a central challe
   * Tags: `agents`, `hackernews`, `models`, `workflows`, `youtube`
@@ -4730,6 +4824,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2605.01708v3 Announce Type: replace-cross Abstract: Contemporary systems serving large language models (LLMs) have adopted prefill-decode disaggregation to load-balance between the compute-bound prefill phase and the memory-bound decode phase.
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2605.01708>
+
+* **[Sri-Krishna-V/awesome-adk-agents](ai/agents/sri-krishna-v-awesome-adk-agents.md)** (`template` | `essential` tier)
+  * Summary: - **Curated ADK-Agents Repository**: A GitHub repository (`Sri-Krishna-V/awesome-adk-agents`) hosting a structured collection of AI agents built using Google's Agent Development Kit (ADK), including templates, best practices, and production-ready exa
+  * Tags: `agents`, `github-repo`, `hackernews`, `python`, `scripts`
+  * Source URL: <https://github.com/Sri-Krishna-V/awesome-adk-agents>
 
 * **[SSIL: Self-Supervised Imitation Learning for End-to-End Driving](ai/agents/arxiv-2308-14329.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2308.14329v4 Announce Type: replace-cross Abstract: In autonomous driving, the end-to-end (E2E) driving approach that predicts vehicle control signals directly from sensor data is rapidly gaining attention. To learn a safe E2E driving system, o
@@ -4848,6 +4947,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `python`
   * Source URL: <https://github.com/sumanth-dhanya/llm-toolkit>
 
+* **[supermldev/agenticai](ai/agents/supermldev-agenticai.md)** (`tool` | `useful` tier)
+  * Summary: - **Purpose**: Educational repository for learning Agentic AI, maintained by superml.dev. - **Metadata**: 2 stars, 1 fork, language unspecified, no topics, last updated 2026-04-24. - **Access**: Available at `https://github.com/supermldev/agenticai`.
+  * Tags: `agents`, `github-repo`, `unknown`
+  * Source URL: <https://github.com/supermldev/agenticai>
+
 * **[Swarm-Inspired Generation of Collective Behaviors in Graph Dynamical Systems](ai/agents/arxiv-2606-24958.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24958v1 Announce Type: new Abstract: Collective behavior arises when locally interacting units produce coordinated global organization, from synchronization in dynamical systems to task-relevant information flow on graphs. The central chal
   * Tags: `agents`, `benchmark`
@@ -4913,6 +5017,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.23821>
 
+* **[TEN-framework/ten-framework](ai/agents/ten-framework-ten-framework.md)** (`framework` | `useful` tier)
+  * Summary: - **Purpose**: Open-source framework enabling development of conversational voice AI agents with multi-modal capabilities (voice, video, real-time interactions). - **Technical Stack**: Primarily implemented in Python, supporting real-time processing
+  * Tags: `agents`, `github-repo`, `hackernews`, `python`, `youtube`
+  * Source URL: <https://github.com/TEN-framework/ten-framework>
+
 * **[Tencent/AICGSecEval](ai/agents/tencent-aicgseceval.md)** (`benchmark` | `useful` tier)
   * Summary: A.S.E (AICGSecEval) is a repository-level AI-generated code security evaluation benchmark developed by Tencent Wukong Code Security Team.
   * Tags: `agents`, `benchmark`
@@ -4947,6 +5056,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2601.18747v2 Announce Type: replace-cross Abstract: Modern AI agents increasingly rely on search infrastructure to execute complex, neuro-symbolic reasoning workflows. These workflows often compile into deeply nested, non-monotonic Boolean quer
   * Tags: `agents`, `benchmark`, `paper`, `workflows`
   * Source URL: <https://arxiv.org/abs/2601.18747>
+
+* **[The Agent Skills Directory](ai/agents/the-agent-skills-directory.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Top 3 most installed skills**: `find-skills` (2.2M), `frontend-design` (582.8K), `vercel-react-best-practices` (498.2K), indicating high demand for AI-assisted frontend development and skill discovery tools. - **Dominant contributors**: Microsoft
+  * Tags: `agents`, `animation`, `anthropic`, `frontend_ui`, `leaderboard`, `meta-ai`, `models`, `paper`, `reddit`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://skills.sh>
 
 * **[The algebra of Krom logic programs](ai/research/arxiv-2606-15719.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.15719v1 Announce Type: cross Abstract: This paper investigates the algebraic structure of Krom logic programs, consisting only of facts and rules with at most one body atom. We show that sequential composition endows the class of Krom prog
@@ -5043,6 +5157,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `paper`
   * Source URL: <https://arxiv.org/abs/2511.08639>
 
+* **[The knowledge layer for AI | GitBook](ai/agents/the-knowledge-layer-for-ai-gitbook.md)** (`tutorial` | `useful` tier)
+  * Summary: - **AI-Ready Documentation Layer**: GitBook provides a structured knowledge layer for AI agents via built-in MCP (Model Context Protocol), enabling agents to query docs with structured access and providing analytics on tool usage and queries. - **Pro
+  * Tags: `agents`, `hackernews`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=-MZqboFGZzD87nn7oPsm&utm_content=site_qsKgM>
+
 * **[The Latent Bridge: A Continuous Slow-Fast Channel for Real-Time Game Agents](ai/agents/arxiv-2606-24470.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24470v1 Announce Type: new Abstract: A real-time agent for general computer use - with games as the most demanding case - must act within tens of milliseconds while still planning over seconds. These two regimes sit at opposite ends of the
   * Tags: `agents`, `frontend_ui`, `youtube`
@@ -5097,10 +5216,25 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.12721>
 
+* **[The Token Not Taken: Sampling, State, and the Stochasticity of AI Agents](ai/agents/arxiv-2606-08998.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.08998v2 Announce Type: replace Abstract: Agentic AI systems can behave differently across runs: the same request may produce a different plan, a different tool call, a different code edit, or a different final answer. Such variability aris
+  * Tags: `agents`
+  * Source URL: <https://arxiv.org/abs/2606.08998>
+
 * **[The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems](ai/agents/arxiv-2606-26057.md)** (`prompt` | `useful` tier)
   * Summary: arXiv:2606.26057v1 Announce Type: cross Abstract: AI agents are granted access to tools, APIs, and other infrastructure, making them active principals in those systems. The dominant approach places controls inside the agent's own runtime: system prom
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.26057>
+
+* **[The xAI Platform for OCI Generative AI](ai/agents/the-xai-platform-for-oci-generative-ai.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Model Offerings**: xAI platform provides access to Grok 3 and Grok 3 Mini for enterprise tasks (e.g., data extraction, coding, summarization), with Grok 3 Mini optimized for lightweight, logic-based tasks and Grok 4.3 featuring a 1M-token context
+  * Tags: `agents`, `web-crawled`, `workflows`
+  * Source URL: <https://docs.oracle.com/en-us/iaas/Content/generative-ai/xai-models.htm>
+
+* **[TheAgentCompany/TheAgentCompany](ai/agents/theagentcompany-theagentcompany.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Purpose**: Simulated software company environment for benchmarking AI agents on complex, multi-step tasks. - **Technical Stack**: Python-based implementation with focus on agent interaction, task decomposition, and performance evaluation. - **Met
+  * Tags: `agents`, `benchmark`, `github-repo`, `hackernews`, `python`, `workflows`
+  * Source URL: <https://github.com/TheAgentCompany/TheAgentCompany>
 
 * **[Theorem-Grounded Execution Ontologies for Interpretable Machine Reasoning](ai/research/arxiv-2606-16010.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.16010v1 Announce Type: cross Abstract: Large language models have achieved impressive performance on reasoning tasks spanning mathematics, science, programming, and commonsense inference. Despite these advances, their reasoning processes r
@@ -5155,11 +5289,6 @@ All resources are linked to their local vault paths and preserve original source
 * **[Topological Neural Dynamics: A Neuron-wise Framework for Sequence Modeling](ai/research/arxiv-2606-21295.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.21295v2 Announce Type: replace-cross Abstract: Existing sequence models, including RNNs, LSTMs, continuous-time networks, and Transformers, share a common structural principle: layer-wise dynamics, where all neurons in the same layer co-ev
   * Source URL: <https://arxiv.org/abs/2606.21295>
-
-* **[topoteretes/cognee](ai/agents/topoteretes-cognee.md)** (`tutorial` | `useful` tier)
-  * Summary: Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
-  * Tags: `agents`, `github-trending`, `python`
-  * Source URL: <https://github.com/topoteretes/cognee>
 
 * **[TouchThinker: Scaling Tactile Commonsense Reasoning to the Open World with Large-scale Data and Action-aware Representation](ai/agents/arxiv-2606-11637.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11637v2 Announce Type: replace Abstract: Touch is a key modality for embodied agents to understand the physical world. Although recent work has incorporated tactile signals into language systems for tactile commonsense reasoning, scaling s
@@ -5758,15 +5887,15 @@ All resources are linked to their local vault paths and preserve original source
 
 ## Ai Tools Products
 
-* **[- YouTube](ai/resources/youtube-luemjgg2k4c.md)** (`framework` | `useful` tier)
-  * Summary: - YouTube operates under Google LLC, with infrastructure and policies managed by Google's technical frameworks (e.g., privacy, terms, and safety policies align with Google's broader ecosystem). - The platform provides APIs and developer tools (e.g.,
-  * Tags: `hackernews`, `web-crawled`, `youtube`
-  * Source URL: <https://youtube.com/watch?v=LUemJGG2k4c>
-
 * **[- YouTube](ai/resources/youtube-ikb1z6ium-c.md)** (`framework` | `useful` tier)
   * Summary: - YouTube operates under Google LLC, with core infrastructure built on Google Cloud for scalable video transcoding, delivery, and recommendation systems. - Monetization frameworks include YouTube Partner Program (ad revenue sharing), YouTube Premium
   * Tags: `web-crawled`, `youtube`
   * Source URL: <https://youtu.be/IkB1z6iuM-c>
+
+* **[- YouTube](ai/resources/youtube-luemjgg2k4c.md)** (`framework` | `useful` tier)
+  * Summary: - YouTube operates under Google LLC, with infrastructure and policies managed by Google's technical frameworks (e.g., privacy, terms, and safety policies align with Google's broader ecosystem). - The platform provides APIs and developer tools (e.g.,
+  * Tags: `hackernews`, `web-crawled`, `youtube`
+  * Source URL: <https://youtube.com/watch?v=LUemJGG2k4c>
 
 * **[10 AI agent benchmarks](ai/rag/10-ai-agent-benchmarks.md)** (`dataset` | `useful` tier)
   * Summary: 📚 LLM-as-a-Judge: a Complete Guide on Using LLMs for Evaluations. Get your copyProductLLM and AI AgentsEvaluate LLM quality and safetyPredictive ML Systems Track data drift and predictive qualityGitHubDocsResourcesBlogInsights on building AI products
@@ -5802,6 +5931,21 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Trusted Python Package Management**: Anaconda Core provides validated open-source packages with automated security scanning and intelligent dependency conflict resolution, ensuring reliable Python environment management for AI/ML workflows. - **A
   * Tags: `paper`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.anaconda.com>
+
+* **[Agentic AI, NL2SQL & Enterprise AI Architecture â SuperML.dev | SuperML.dev â AI/ML Architecture for Enterprise](ai/rag/agentic-ai-nl2sql-enterprise-ai-architecture-a-sup.md)** (`framework` | `useful` tier)
+  * Summary: - **Regulatory Precedent**: A Pennsylvania bank disclosed unauthorized employee use of an external AI tool on customer data via SEC Form 8-K, establishing "shadow AI" as a material cybersecurity risk requiring mandatory reporting. - **Compliance Impl
+  * Tags: `agents`, `rag`, `web-crawled`
+  * Source URL: <https://superml.dev>
+
+* **[AI & Vectors | Supabase Docs](ai/rag/ai-vectors-supabase-docs.md)** (`template` | `useful` tier)
+  * Summary: - **Postgres + pgvector Integration**: Supabase leverages Postgres with the `pgvector` extension to provide a native vector database solution, enabling storage, indexing, and querying of vector embeddings directly within the database. - **Multi-Model
+  * Tags: `frontend_ui`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`
+  * Source URL: <https://supabase.com/docs/guides/ai>
+
+* **[AI Assist - Stack Overflow](ai/rag/ai-assist-stack-overflow.md)** (`mcp-server` | `useful` tier)
+  * Summary: - **Stack Overflow MCP Server**: Enables MCP-compatible clients to connect to Stack Overflow's curated knowledge base for debugging and problem-solving via a standardized protocol. - **ProLLM.ai Benchmarks**: Evaluates LLMs using real-world interacti
+  * Tags: `benchmark`, `hackernews`, `leaderboard`, `openai`, `rag`, `web-crawled`
+  * Source URL: <https://stackoverflow.ai>
 
 * **[AI Fiction in the Wild](ai/research/arxiv-2606-22748.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.22748v2 Announce Type: replace-cross Abstract: Some professional authors are beginning to use AI tools to help produce their fiction writing. Are readers using AI to generate fiction, too? Drawing on over 500,000 anonymized, English-langua
@@ -5896,6 +6040,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.24047v1 Announce Type: new Abstract: One of the significant mental health issues affecting female sex workers (FSWs) is mental disorders, especially depression. Exposure to violence, stigma, and economic hardship further increases their ps
   * Tags: `paper`
   * Source URL: <https://arxiv.org/abs/2606.24047>
+
+* **[eosphoros-ai/DB-GPT](ai/rag/eosphoros-ai-db-gpt.md)** (`framework` | `useful` tier)
+  * Summary: - **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) for querying, analysis, and RAG-based augmentation. - **Privacy & Security Focus**: Supports local/privat
+  * Tags: `agents`, `github-repo`, `models`, `openai`, `python`, `rag`, `workflows`
+  * Source URL: <https://github.com/eosphoros-ai/DB-GPT>
 
 * **[FactoryLLM: A Safe and Open-Source AI Playground for Evaluating LLMs in Smart Factories](ai/rag/arxiv-2606-14119.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14119v1 Announce Type: new Abstract: Fault diagnostics and recovery in smart factories is challenging because critical information is dispersed across manuals of multiple machines which are interconnected through the manufacturing process.
@@ -10209,10 +10358,45 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `workflows`
   * Source URL: <https://arxiv.org/abs/2601.22548>
 
+* **[Article Formats for R Markdown • rticles](ai/resources/article-formats-for-r-markdown-rticles.md)** (`template` | `useful` tier)
+  * Summary: - **Package Overview**: `rticles` is an R Markdown LaTeX template package providing community-maintained journal/conference-specific formats for academic publishing, with CRAN (`install.packages("rticles")`) and GitHub (`pak::pak("rstudio/rticles")`)
+  * Tags: `hackernews`, `paper`, `reddit`, `web-crawled`, `workflows`
+  * Source URL: <https://pkgs.rstudio.com/rticles>
+
+* **[Aseprite - Animated sprite editor & pixel art tool](ai/rag/aseprite-animated-sprite-editor-pixel-art-tool.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Layer & Animation Management**: Supports layer operations (create/copy/move/drag-and-drop), frame tagging for multi-animation files, and playback modes (forward/reverse/ping-pong) with onion skinning for animation reference. - **Advanced Pixel Ar
+  * Tags: `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://www.aseprite.org>
+
+* **[Aseprite - Docs](ai/resources/aseprite-docs.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Aseprite** is a specialized 2D pixel-art animation tool supporting retro-style graphics (8-bit/16-bit) with features like onion skinning, layers, and frame manipulation for game development. - **Core workflows** include sprite creation/editing, a
+  * Tags: `reddit`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://www.aseprite.org/docs>
+
+* **[Aseprite - Docs - Basics](ai/rag/aseprite-docs-basics.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Sprite Composition**: Aseprite sprites are structured as a grid of *cels* (frame-layer intersections), where each cel contains pixel data editable independently; frames (horizontal timeline axis) define animation sequences, and layers (vertical s
+  * Tags: `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://www.aseprite.org/docs/basics>
+
+* **[Ashby](ai/resources/ashby.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Ashby API**: Requires OAuth 2.0 authentication via `Authorization: Bearer <token>`; supports RESTful CRUD operations for job postings, candidates, and hiring pipelines with JSON payloads. - **Webhooks**: Configured via `POST /webhooks` with HMAC-
+  * Tags: `web-crawled`, `workflows`
+  * Source URL: <https://developers.ashbyhq.com>
+
+* **[Asset Store – Unity Support Help Center](ai/resources/asset-store-unity-support-help-center.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Asset Store Licensing & Management**: Covers licensing models (Single/Multi-Entity, Extension Assets), asset download procedures, Unity 6 compatibility issues, and client project licensing requirements. - **Publishing & Vetting**: Details publish
+  * Tags: `web-crawled`, `workflows`
+  * Source URL: <https://support.unity.com/hc/en-us/categories/201253946-Asset-Store>
+
 * **[ATHENA: Agentic Team for Hierarchical Evolutionary Numerical Algorithms](ai/rag/arxiv-2512-03476.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2512.03476v3 Announce Type: replace-cross Abstract: Progress in computational science depends on complex numerical workflows that must faithfully encode physical laws, yet translating conceptual insight into reliable code remains a major bottle
   * Tags: `agents`, `benchmark`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2512.03476>
+
+* **[Atlassian Community Events Community-Led Classes](ai/rag/atlassian-community-events-community-led-classes.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Free instructor-led Atlassian training** leveraging community expertise for Jira, Confluence, and Atlassian ecosystem tools, targeting all skill levels via live sessions and self-paced modules. - **Structured certification pathways** including AC
+  * Tags: `hackernews`, `producthunt`, `rag`, `reddit`, `web-crawled`, `workflows`
+  * Source URL: <https://ace.atlassian.com/community-led-classes>
 
 * **[Atlassian Community | Learn, connect, and grow](ai/rag/atlassian-community-learn-connect-and-grow.md)** (`benchmark` | `useful` tier)
   * Summary: - **API Design**: The article/resource provides a structured approach to finding answers via an API, emphasizing RESTful principles with clear endpoint definitions, HTTP methods (GET, POST), and standardized response formats (JSON/XML) for efficient
@@ -10284,9 +10468,14 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.20146>
 
-* **[Bitbucket | Git solution for teams using Jira](ai/rag/bitbucket-git-solution-for-teams-using-jira.md)** (`tutorial` | `useful` tier)
-  * Summary: - **AI-augmented SDLC**: Atlassian integrates AI across the software development lifecycle (SDLC) with capabilities including AI-powered code search, chat, automated code review, pipeline triage, and Jira updates to reduce cycle times and enhance dev
-  * Tags: `agents`, `anthropic`, `hackernews`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
+* **[Bitbucket Cloud resources | Bitbucket Cloud | Atlassian Support](ai/resources/bitbucket-cloud-resources-bitbucket-cloud-atlassia.md)** (`tutorial` | `useful` tier)
+  * Summary: - Bitbucket Cloud is a Git-based version control and collaboration platform for teams, integrating with Jira and Trello for workflow management. - Supports Git and Mercurial repositories with features like pull requests, branch permissions, and CI/CD
+  * Tags: `web-crawled`, `workflows`
+  * Source URL: <https://confluence.atlassian.com/display/BITBUCKET>
+
+* **[Bitbucket Home Page](ai/rag/bitbucket-home-page.md)** (`mcp-server` | `useful` tier)
+  * Summary: - **AI-augmented SDLC**: Atlassian integrates AI across the software development lifecycle (SDLC) for code search, review, pipeline triage, and automated Jira updates, reducing cycle times and manual overhead. - **Unified CI/CD & Security**: Bitbucke
+  * Tags: `agents`, `hackernews`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://bitbucket.org/product>
 
 * **[Bitbucket | Git solution for teams using Jira](ai/rag/bitbucket-git-solution-for-teams-using-jira.md)** (`framework` | `useful` tier)
@@ -10609,6 +10798,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.16981>
 
+* **[Deep Agents overview - Docs by LangChain](ai/rag/deep-agents-overview-docs-by-langchain.md)** (`prompt` | `useful` tier)
+  * Summary: - **Execution Environment**: Supports tools (custom functions, APIs, MCP), virtual filesystem (pluggable backends: in-memory, local disk, LangGraph store), filesystem permissions (declarative access control), code execution (sandboxed shell + JS inte
+  * Tags: `agents`, `anthropic`, `meta-ai`, `models`, `openai`, `rag`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://docs.langchain.com/oss/python/deepagents>
+
+* **[deepset (deepset)](ai/rag/deepset-deepset.md)** (`benchmark` | `useful` tier)
+  * Summary: - **AutoQuizzer** is a Hugging Face Space tool that automates quiz generation using LLMs, enabling interactive Q&A sessions via user or LLM participation. - The system leverages a visual interface (as shown in the provided image) to facilitate quiz c
+  * Tags: `agents`, `benchmark`, `rag`, `web-crawled`, `workflows`
+  * Source URL: <https://huggingface.co/deepset>
+
 * **[Denis2054/Context-Engineering-for-Multi-Agent-Systems](ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)** (`framework` | `essential` tier)
   * Summary: - **Universal MAS Blueprint**: Provides a production-ready, domain-agnostic framework for Multi-Agent Systems (MAS) using a high-level semantic orchestration engine, replacing rigid workflows with dynamic, transparent context management. - **Dynamic
   * Tags: `agents`, `github-repo`, `hackernews`, `jupyter notebook`, `rag`, `workflows`
@@ -10804,11 +11003,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `hackernews`, `paper`, `producthunt`, `rag`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.transformingdigital.ai>
 
-* **[Female-RHINO: A Real-Time Scanner-Integrated Framework for Automated Quantitative Uterine MRI Analysis and Structured Reporting](ai/research/arxiv-2606-24390.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2606.24390v1 Announce Type: cross Abstract: Standardized assessment of uterine MRI remains challenging due to anatomical variability, observer dependence, and the lack of workflow-integrated automated analysis tools. This work presents Female-R
-  * Tags: `benchmark`, `dataset`, `workflows`
-  * Source URL: <https://arxiv.org/abs/2606.24390>
-
 * **[Fin-RATE: A Real-world Financial Analytics and Tracking Evaluation Benchmark for LLMs on SEC Filings](ai/rag/arxiv-2602-07294.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.07294v4 Announce Type: replace-cross Abstract: With the increasing deployment of Large Language Models (LLMs) in the finance domain, LLMs are increasingly expected to parse complex regulatory disclosures. However, existing benchmarks often
   * Tags: `benchmark`, `rag`, `workflows`
@@ -10833,6 +11027,26 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11290v1 Announce Type: new Abstract: Large Language Model (LLM)-based multi-agent systems are increasingly powerful, but current agentic workflow optimization paradigms make an unsatisfying trade-off. Task-level methods spend substantial o
   * Tags: `agents`, `benchmark`, `creative_dev`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.11290>
+
+* **[FlowiseAI/Flowise](ai/rag/flowiseai-flowise.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Visual AI Agent Builder**: Open-source, low/no-code platform in TypeScript/React for constructing AI agents and workflows, leveraging LangChain and large language models (LLMs) like OpenAI. - **Multi-Agent & RAG Support**: Enables deployment of m
+  * Tags: `agents`, `frontend_ui`, `github-repo`, `openai`, `rag`, `scripts`, `typescript`, `workflows`
+  * Source URL: <https://github.com/FlowiseAI/Flowise>
+
+* **[Flutter - Build apps for any screen](ai/rag/flutter-build-apps-for-any-screen.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Cross-platform compilation**: Flutter compiles to ARM/Intel machine code and JavaScript, enabling native performance across mobile, web, desktop, and embedded devices from a single codebase. - **Hot Reload & pixel control**: Supports instant stat
+  * Tags: `rag`, `web-crawled`, `workflows`
+  * Source URL: <https://flutter.dev>
+
+* **[Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors](ai/community/ford-ai-hiccups-push-carmaker-to-rehire-gray-beard.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by alanwreath. Score: 508, Comments: 244. Original Link: https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short>
+
+* **[Foundations of Practical Quantum Advantage in Quantum-Informed Machine Learning for Predicting Chaos](ai/research/arxiv-2606-13422.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.13422v2 Announce Type: replace-cross Abstract: We develop theoretical foundations for a practical quantum-advantage mechanism in quantum-informed machine learning for chaotic dynamical systems. A family of $k$-indexed higher-order quantum
+  * Tags: `workflows`, `youtube`
+  * Source URL: <https://arxiv.org/abs/2606.13422>
 
 * **[Fox in the Henhouse: Supply-Chain Backdoor Attacks Against Reinforcement Learning](ai/rag/arxiv-2505-19532.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2505.19532v2 Announce Type: replace Abstract: The current state-of-the-art backdoor attacks against Reinforcement Learning (RL) rely upon unrealistically permissive access models, that assume the attacker can read (or even write) the victim's p
@@ -11224,6 +11438,21 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `creative_dev`, `dataset`, `frontend_ui`, `hackernews`, `models`, `paper`, `producthunt`, `rag`, `scripts`, `workflows`
   * Source URL: <https://importai.substack.com/p/import-ai-461-alignment-is-not-on>
 
+* **[Index - FHIR v4.0.1](ai/rag/index-fhir-v4-0-1.md)** (`tutorial` | `useful` tier)
+  * Summary: - **FHIR R4 (v4.0.1)** is a mixed normative/STU standard for healthcare data exchange, published by HL7, with technical corrections released on Oct 30, 2019, superseded by FHIR R5 (v5.0.0). - **Modular architecture** defines five levels: (1) Foundati
+  * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`
+  * Source URL: <http://hl7.org/fhir/R4>
+
+* **[Index - FHIR v5.0.0](ai/rag/index-fhir-v5-0-0.md)** (`framework` | `useful` tier)
+  * Summary: - **FHIR R5 Specification**: FHIR (Fast Healthcare Interoperability Resources) Release 5 (R5) is the latest published version (v5.0.0) by HL7, providing a standard for healthcare data exchange with structured modular components (resources, data types
+  * Tags: `rag`, `reddit`, `web-crawled`, `workflows`
+  * Source URL: <https://hl7.org/fhir>
+
+* **[Index - Roboflow Inference](ai/rag/index-roboflow-inference.md)** (`template` | `useful` tier)
+  * Summary: - **Model Types**: Supports object detection (bounding boxes), instance segmentation (shape/size/location), single/multi-label classification, semantic segmentation (pixel-level class labels), keypoint detection (skeletons), depth estimation, OCR (te
+  * Tags: `anthropic`, `dataset`, `meta-ai`, `models`, `openai`, `rag`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://inference.roboflow.com/workflows/blocks>
+
 * **[Index - Uvicorn](ai/resources/index-uvicorn.md)** (`framework` | `useful` tier)
   * Summary: - **ASGI Implementation**: Uvicorn is a lightweight ASGI (Asynchronous Server Gateway Interface) web server for Python, supporting HTTP/1.1 and WebSockets, designed to bridge the gap between async frameworks and low-level server interfaces. - **Deplo
   * Tags: `reddit`, `web-crawled`, `workflows`
@@ -11322,6 +11551,21 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **JupyterLab** is a modular, extensible IDE for interactive computing, supporting computational notebooks with code, visualizations, and rich text, built as part of **Project Jupyter**. - **Core features** include multi-language support, a debugger
   * Tags: `frontend_ui`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://jupyterlab.readthedocs.io/en/latest>
+
+* **[jupyterlab/jupyter-ai](ai/rag/jupyterlab-jupyter-ai.md)** (`framework` | `useful` tier)
+  * Summary: - **AI Agent Integration**: Enables direct interaction between AI agents and JupyterLab notebooks for computational tasks, enhancing automation and workflow efficiency. - **JupyterLab Extension**: Built as a Python-based extension for JupyterLab, lev
+  * Tags: `agents`, `github-repo`, `python`, `rag`, `scripts`, `workflows`
+  * Source URL: <https://github.com/jupyterlab/jupyter-ai>
+
+* **[jupyterlab/jupyterlab](ai/resources/jupyterlab-jupyterlab.md)** (`workflow` | `useful` tier)
+  * Summary: - **TypeScript-based JupyterLab**: A modular, extensible computational environment built with TypeScript, enabling interactive data science and scientific computing workflows. - **GitHub Metrics**: Highly active repository with **15,215 stars**, **4,
+  * Tags: `github-repo`, `typescript`, `workflows`
+  * Source URL: <https://github.com/jupyterlab/jupyterlab>
+
+* **[JupyterLite — JupyterLite 0.8.0 documentation](ai/rag/jupyterlite-jupyterlite-0-8-0-documentation.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Browser-native JupyterLab distribution** leveraging Pyodide (CPython compiled to WebAssembly) and Xeus-Python kernels for in-browser Python execution without a backend server. - **Static-first deployment model** with zero server dependencies, ser
+  * Tags: `rag`, `reddit`, `web-crawled`, `workflows`
+  * Source URL: <https://jupyterlite.readthedocs.io>
 
 * **[KANLib -- A Modular, Extensible and Fast Kolmogorov-Arnold Network Implementation](ai/research/arxiv-2606-17927.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.17927v2 Announce Type: replace-cross Abstract: Kolmogorov-Arnold Networks (KANs) have recently emerged as a promising alternative to traditional multilayer perceptrons by replacing linear weights with learnable univariate functions. Despit
@@ -11643,11 +11887,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `workflows`
   * Source URL: <https://arxiv.org/abs/2602.15245>
 
-* **[MyST Markdown - Tools for the future of technical communication - MyST Markdown](ai/resources/myst-markdown-tools-for-the-future-of-technical-co.md)** (`template` | `useful` tier)
-  * Summary: - **Multi-format publishing**: Supports conversion of MyST documents to PDF (via 400+ LaTeX templates), Microsoft Word, and interactive web formats for scientific publications. - **Dynamic & reproducible content**: Enables integration of computationa
-  * Tags: `creative_dev`, `hackernews`, `paper`, `web-crawled`, `workflows`
-  * Source URL: <https://mystmd.org>
-
 * **[National Vulnerability Database | NIST](ai/rag/national-vulnerability-database-nist.md)** (`dataset` | `useful` tier)
   * Summary: - **NVD Schema Expansion (June 2026)**: NVD now includes **SSVC v2.0.3** (Stakeholder-Specific Vulnerability Categorization) and **CVE Affected v1.0** data in APIs/feeds, supplementing CVSS scores; ~95% of records updated with new `lastModified` time
   * Tags: `dataset`, `hackernews`, `models`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
@@ -11688,10 +11927,40 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://ds.iris.edu/ds/nodes/dmc/software/downloads>
 
+* **[NumFOCUS: A Nonprofit Supporting Open Code for Better Science](ai/rag/numfocus-a-nonprofit-supporting-open-code-for-bett.md)** (`dataset` | `useful` tier)
+  * Summary: - **NumFOCUS** sponsors 50+ open-source scientific computing projects, including **pandas**, **Jupyter**, **Matplotlib**, **Dask**, and **scikit-learn**, enabling large-scale data analysis, visualization, and machine learning workflows. - **Key indus
+  * Tags: `rag`, `web-crawled`, `workflows`
+  * Source URL: <https://numfocus.org>
+
+* **[NVIDIA Documentation Hub - NVIDIA Docs](ai/rag/nvidia-documentation-hub-nvidia-docs.md)** (`framework` | `useful` tier)
+  * Summary: - **NVIDIA AIStore**: A distributed object store optimized for AI workloads, offering seamless fast-tiering for cloud storage and linear scalability across deployments. - **NVIDIA TensorRT**: A high-performance deep learning inference SDK designed fo
+  * Tags: `agents`, `creative_dev`, `hackernews`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://docs.nvidia.com/dgx-cloud/index.html>
+
+* **[NVIDIA/workbench-example-agentic-rag](ai/rag/nvidia-workbench-example-agentic-rag.md)** (`framework` | `useful` tier)
+  * Summary: - **Agentic RAG Implementation**: Demonstrates an agentic RAG system using NVIDIA AI Workbench, integrating retrieval and generative AI components for dynamic, multi-step reasoning. - **Jupyter Notebook-Based**: Entire workflow encapsulated in a Jupy
+  * Tags: `agents`, `github-repo`, `jupyter notebook`, `rag`, `workflows`
+  * Source URL: <https://github.com/NVIDIA/workbench-example-agentic-rag>
+
+* **[NVIDIA/workbench-example-hybrid-rag](ai/rag/nvidia-workbench-example-hybrid-rag.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Hybrid RAG Pipeline**: Demonstrates a hybrid retrieval-augmented generation (RAG) system combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document grounding in LLMs. - **NVIDIA AI Workbench Integration**: S
+  * Tags: `github-repo`, `python`, `rag`, `workflows`
+  * Source URL: <https://github.com/NVIDIA/workbench-example-hybrid-rag>
+
+* **[NVISOsecurity/cyber-security-llm-agents](ai/rag/nvisosecurity-cyber-security-llm-agents.md)** (`framework` | `useful` tier)
+  * Summary: - **Purpose**: Repository of LLM-based agents designed to automate cybersecurity tasks, including adversary emulation, leveraging frameworks like CALDERA. - **Technical Stack**: Implemented in Jupyter Notebooks, integrating AI/ML models for infosec w
+  * Tags: `agents`, `github-repo`, `hackernews`, `jupyter notebook`, `rag`, `workflows`
+  * Source URL: <https://github.com/NVISOsecurity/cyber-security-llm-agents>
+
 * **[On the Stability of Prompt Ranking in Large Language Model Evaluation](ai/research/arxiv-2606-24381.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24381v1 Announce Type: cross Abstract: Prompt-based interaction has become a dominant paradigm for using large language models (LLMs), where multiple candidate prompts are evaluated and the top-ranked one is selected for downstream use. Th
   * Tags: `benchmark`, `paper`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.24381>
+
+* **[Open Source Security Foundation – Linux Foundation Projects](ai/resources/open-source-security-foundation-linux-foundation-p.md)** (`tutorial` | `useful` tier)
+  * Summary: - **OpenSSF Technical Initiatives**: Projects like **GUAC** (Graphical Understanding of Artifact Composition) provide directed insights into software supply chain security, while **SLSA** (Supply-chain Levels for Software Artifacts) enforces artifact
+  * Tags: `hackernews`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://openssf.org/?hsLang=en>
 
 * **[Open Source Software by Vercel](ai/rag/open-source-software-by-vercel.md)** (`framework` | `useful` tier)
   * Summary: - **Next.js**: React framework enabling server-side rendering, static site generation, and hybrid rendering with 140K+ GitHub stars; core dependency for Vercel’s platform. - **TurboRepo**: High-performance build system for JavaScript/TypeScript monor
@@ -11767,11 +12036,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **PEP Indexing System**: PEPs are assigned immutable numbers by editors, with version-controlled historical records maintained in a GitHub repository; PEPs are categorized by status (e.g., Accepted, Finished, Rejected) and topic (e.g., Governance,
   * Tags: `benchmark`, `hackernews`, `producthunt`, `rag`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://peps.python.org/>
-
-* **[PixJail: Self-Evolving Paper-to-Pipeline Reproduction for Text-to-Image Jailbreak Evaluation](ai/rag/arxiv-2606-24081.md)** (`template` | `useful` tier)
-  * Summary: arXiv:2606.24081v1 Announce Type: cross Abstract: As Text-to-Image (T2I) jailbreak techniques evolve rapidly, existing benchmarks and reproduction workflows often struggle to keep pace. More importantly, T2I jailbreak evaluation is not a single promp
-  * Tags: `agents`, `benchmark`, `hackernews`, `paper`, `rag`, `workflows`
-  * Source URL: <https://arxiv.org/abs/2606.24081>
 
 * **[PixJail: Self-Evolving Paper-to-Pipeline Reproduction for Text-to-Image Jailbreak Evaluation](ai/rag/arxiv-2606-24081.md)** (`template` | `useful` tier)
   * Summary: arXiv:2606.24081v1 Announce Type: cross Abstract: As Text-to-Image (T2I) jailbreak techniques evolve rapidly, existing benchmarks and reproduction workflows often struggle to keep pace. More importantly, T2I jailbreak evaluation is not a single promp
@@ -11908,6 +12172,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.23695>
 
+* **[Quickstart | GitBook Documentation](ai/rag/quickstart-gitbook-documentation.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Dual-Editing Workflows**: GitBook supports both a WYSIWYG visual editor (ideal for non-technical users) and a docs-as-code workflow via GitHub/GitLab sync (for developers), with changes managed through branch-based editing and pull requests. - **
+  * Tags: `agents`, `hackernews`, `rag`, `web-crawled`, `workflows`
+  * Source URL: <https://gitbook.com/docs/getting-started/quickstart>
+
+* **[R for Data Science (2e)](ai/resources/r-for-data-science-2e.md)** (`tutorial` | `useful` tier)
+  * Summary: - Covers data science workflows in R, including data ingestion, structuring, transformation, and visualization using best practices. - Introduces the grammar of graphics, literate programming, and reproducible research for efficient data analysis. -
+  * Tags: `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://r4ds.hadley.nz>
+
 * **[RAG Examples: 15 Real Use Cases from Companies in 2026](ai/rag/rag-examples-15-real-use-cases-from-companies-in-2.md)** (`dataset` | `useful` tier)
   * Summary: Large language models are powerful, but they have one big problem: they do not automatically know your latest documents, internal policies, product updates, customer history, or private company knowledge. That is where Retrieval-Augmented Generation,
   * Tags: `agents`, `benchmark`, `dataset`, `hackernews`, `models`, `openai`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
@@ -11957,11 +12231,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Core Platform**: Read the Docs is an open-source documentation hosting platform primarily built in Python (Django), with core repositories like `readthedocs.org` (8.4k stars) providing the infrastructure for hosting and building documentation fro
   * Tags: `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://github.com/readthedocs/>
-
-* **[Render-FM: Feedforward Model for Real-time Photorealistic Volumetric Rendering](ai/research/arxiv-2505-17338.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2505.17338v3 Announce Type: replace-cross Abstract: Photorealistic volumetric rendering of CT scans greatly benefits clinical workflows, yet neural approaches such as Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS) require prohib
-  * Tags: `models`, `workflows`
-  * Source URL: <https://arxiv.org/abs/2505.17338>
 
 * **[Render-FM: Feedforward Model for Real-time Photorealistic Volumetric Rendering](ai/research/arxiv-2505-17338.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2505.17338v3 Announce Type: replace-cross Abstract: Photorealistic volumetric rendering of CT scans greatly benefits clinical workflows, yet neural approaches such as Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS) require prohib
@@ -12268,6 +12537,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `workflows`
   * Source URL: <https://arxiv.org/abs/2606.24734>
 
+* **[Tazama - Detect fraud before it happens](ai/rag/tazama-detect-fraud-before-it-happens.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Real-time transaction monitoring engine** leveraging rules-based typology detection with configurable thresholds, combining current event data and historical participant behavior for fraud and AML typology identification. - **Low-code integration
+  * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://www.tazama.org>
+
+* **[techwithtim/Langflow-RAG-Tutorial](ai/rag/techwithtim-langflow-rag-tutorial.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Repository**: `techwithtim/Langflow-RAG-Tutorial` (94 ⭐, 25 🍴), last updated 2026-06-09T12:30:18Z. - **Language/Topics**: No explicit language or topics specified in metadata. - **Purpose**: Unclear (no description provided); likely a tutorial fo
+  * Tags: `github-repo`, `rag`, `unknown`, `workflows`
+  * Source URL: <https://github.com/techwithtim/Langflow-RAG-Tutorial>
+
 * **[Tekton](ai/resources/tekton.md)** (`framework` | `useful` tier)
   * Summary: - **Standardization**: Tekton provides a vendor-agnostic, cloud-native framework for CI/CD, enabling consistent tooling and processes across diverse environments, languages, and deployment targets, with compatibility for tools like Jenkins, Jenkins X
   * Tags: `web-crawled`, `workflows`
@@ -12367,6 +12646,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - Repository containing Jupyter Notebooks for *"Building LLMs for Production"* book, covering topics like agents, LangChain, LlamaIndex, LLMs, and RAG in Python. - Last updated on **2026-06-10**, with **553 stars** and **197 forks**. - Focuses on pra
   * Tags: `agents`, `github-repo`, `jupyter notebook`, `meta-ai`, `models`, `rag`, `workflows`
   * Source URL: <https://github.com/towardsai/ragbook-notebooks>
+
+* **[TracecatHQ/tracecat](ai/rag/tracecathq-tracecat.md)** (`workflow` | `useful` tier)
+  * Summary: - **Platform Architecture**: Python-based open-source security automation platform leveraging FastAPI for backend services, Next.js for frontend, and Temporal.io for workflow orchestration and event-driven execution. - **Core Components**: Integrates
+  * Tags: `agents`, `frontend_ui`, `github-repo`, `python`, `rag`, `scripts`, `workflows`
+  * Source URL: <https://github.com/TracecatHQ/tracecat>
+
+* **[Tracer-Cloud/opensre](ai/rag/tracer-cloud-opensre.md)** (`framework` | `useful` tier)
+  * Summary: - **AI-Powered SRE Toolkit**: Open-source framework (`opensre`) enabling autonomous Site Reliability Engineering (SRE) agents with AI-driven incident detection, root-cause analysis, and remediation workflows. - **Integration Hub**: Supports observabi
+  * Tags: `agents`, `github-repo`, `python`, `rag`, `workflows`
+  * Source URL: <https://github.com/Tracer-Cloud/opensre>
 
 * **[TRACER: Training-Free Closed-Loop Structured Inference for Traffic Accident Reconstruction](ai/research/arxiv-2606-25002.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.25002v1 Announce Type: new Abstract: Traffic accident reconstruction is a forensic inverse problem that requires recovering physically consistent motion from sparse and heterogeneous evidence. Existing learning-based approaches predominant
@@ -12702,15 +12991,15 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: 4M Models Scanned: Protect AI + Hugging Face 6 Months In
   * Source URL: <https://huggingface.co/blog/pai-6-month>
 
-* **[[2402.14207] Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models](ai/rag/arxiv-2402-14207.md)** (`framework` | `useful` tier)
-  * Summary: - **STORM system**: Introduces a writing assistant leveraging large language models (LLMs) to generate Wikipedia-like articles from scratch, addressing pre-writing challenges via multi-perspective research and outline synthesis. - **Three-stage pre-w
-  * Tags: `benchmark`, `dataset`, `paper`, `paperswithcode`, `rag`, `reddit`, `semantic-scholar`, `web-crawled`
-  * Source URL: <https://arxiv.org/abs/2402.14207>
-
 * **[[2402.14207] Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models](ai/rag/2402-14207-assisting-in-writing-wikipedia-like-art.md)** (`framework` | `useful` tier)
   * Summary: - **STORM framework**: Proposes a three-stage pipeline for generating Wikipedia-like articles: (1) *perspective discovery* via topic decomposition, (2) *multi-agent debate* where agents with distinct viewpoints query a retrieval-augmented expert, and
   * Tags: `agents`, `benchmark`, `dataset`, `paper`, `paperswithcode`, `rag`, `reddit`, `semantic-scholar`, `web-crawled`
   * Source URL: <https://doi.org/10.48550/arXiv.2402.14207>
+
+* **[[2402.14207] Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models](ai/rag/arxiv-2402-14207.md)** (`framework` | `useful` tier)
+  * Summary: - **STORM system**: Introduces a writing assistant leveraging large language models (LLMs) to generate Wikipedia-like articles from scratch, addressing pre-writing challenges via multi-perspective research and outline synthesis. - **Three-stage pre-w
+  * Tags: `benchmark`, `dataset`, `paper`, `paperswithcode`, `rag`, `reddit`, `semantic-scholar`, `web-crawled`
+  * Source URL: <https://arxiv.org/abs/2402.14207>
 
 * **[\texttt{Range-Arithmetic}: Verifiable Deep Learning Inference on an Untrusted Party](ai/research/arxiv-2505-17623.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2505.17623v2 Announce Type: replace-cross Abstract: Verifiable computing (VC) has gained prominence in decentralized machine learning systems, where resource-intensive tasks like deep neural network (DNN) inference are offloaded to external par
@@ -12739,6 +13028,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.24115v1 Announce Type: cross Abstract: Vision-language models (VLMs) are prone to hallucination, which remains a major barrier to their safe deployment in clinical practice. To date, most hallucination detection methods have been evaluated
   * Tags: `benchmark`, `dataset`, `models`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.24115>
+
+* **[A Benchmark of State-Space Models vs. Transformers and BiLSTM-based Models for Historical Newspaper OCR](ai/rag/arxiv-2604-00725.md)** (`dataset` | `useful` tier)
+  * Summary: arXiv:2604.00725v2 Announce Type: replace-cross Abstract: End-to-end OCR for historical newspapers remains challenging, as models must handle long text sequences, degraded print quality, and complex layouts. While Transformer-based recognizers domina
+  * Tags: `benchmark`, `dataset`, `paper`, `rag`
+  * Source URL: <https://arxiv.org/abs/2604.00725>
 
 * **[A Biased Nonnegative Block Term Tensor Decomposition Model for Dynamic QoS Prediction](ai/research/arxiv-2605-04813.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.04813v2 Announce Type: replace Abstract: With the rapid development of cloud computing and Web services, Quality of Service (QoS) has become a key criterion for service selection and recommendation. Tensor latent feature analysis provides
@@ -12882,6 +13176,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`, `paper`
   * Source URL: <https://arxiv.org/abs/2606.17756>
 
+* **[A Fast and Effective Method for Euclidean Anticlustering: The Assignment-Based-Anticlustering Algorithm](ai/research/arxiv-2601-06351.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2601.06351v2 Announce Type: replace Abstract: Anticlustering is an NP-hard combinatorial optimization problem that consists of partitioning a set of objects into equal-sized groups called anticlusters such that the objects in the same anticlust
+  * Tags: `dataset`
+  * Source URL: <https://arxiv.org/abs/2601.06351>
+
 * **[A Flow-rate-conserving CNN-based Domain Decomposition Method for Blood Flow Simulations](ai/research/arxiv-2509-15900.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2509.15900v2 Announce Type: replace-cross Abstract: This work aims to predict blood flow with non-Newtonian viscosity in stenosed arteries using convolutional neural network (CNN) surrogate models. An alternating Schwarz domain decomposition me
   * Source URL: <https://arxiv.org/abs/2509.15900>
@@ -12919,10 +13218,20 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.19026v1 Announce Type: cross Abstract: Forecast errors in high-resolution numerical weather prediction (NWP) systems are often linked to unresolved planetary boundary layer (PBL) processes, convection, terrain-induced circulations, and oth
   * Source URL: <https://arxiv.org/abs/2606.19026>
 
+* **[A Hybrid Quantum-Classical Approach for Melt Pool Prediction in Laser Powder Bed Fusion](ai/rag/arxiv-2606-23719.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.23719v1 Announce Type: cross Abstract: Laser powder bed fusion (LPBF) is a promising additive manufacturing technique that suffers from quality assurance concerns. Predicting melt pools from process parameters is crucial for assessing qual
+  * Tags: `dataset`, `hackernews`, `paper`, `rag`
+  * Source URL: <https://arxiv.org/abs/2606.23719>
+
 * **[A Hybrid TGN-SEAL Model for Dynamic Graph Link Prediction](ai/rag/arxiv-2602-14239.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.14239v3 Announce Type: replace-cross Abstract: Predicting links in sparse, continuously evolving networks is a central challenge in network science. Conventional heuristic methods and deep learning models, including Graph Neural Networks (
   * Tags: `dataset`, `hackernews`, `rag`
   * Source URL: <https://arxiv.org/abs/2602.14239>
+
+* **[A Hybrid, Multi-Layered Pipeline for Phishing and Threat Classification: Independently Validated URL and NLP Engines with a Calibrated Multi-Channel Fusion Stage](ai/research/arxiv-2606-21690.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.21690v2 Announce Type: replace-cross Abstract: Phishing is a multi-modal threat. We present a hybrid pipeline that scores each modality with its own engine and fuses the results. Three engines are built, deployed, and independently benchma
+  * Tags: `benchmark`, `youtube`
+  * Source URL: <https://arxiv.org/abs/2606.21690>
 
 * **[A Judge-Aware Ranking Framework for Evaluating Large Language Models without Ground Truth](ai/research/arxiv-2601-21817.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.21817v3 Announce Type: replace-cross Abstract: Evaluating large language models (LLMs) on open-ended tasks without ground-truth labels is increasingly done via the LLM-as-a-judge paradigm. A critical but under-modeled issue is that judge L
@@ -13201,6 +13510,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.13051v1 Announce Type: new Abstract: Despite advances in information extraction driven by deep learning and large language models, performance gaps remain in highly specialized biomedical fields, where domainspecific complexity poses chall
   * Source URL: <https://arxiv.org/abs/2606.13051>
 
+* **[About Mozilla Data Collective](ai/rag/about-mozilla-data-collective.md)** (`dataset` | `useful` tier)
+  * Summary: - **Mission & Control**: Mozilla Data Collective enables decentralized, equitable data sharing with customizable licenses, governance models (e.g., cooperatives, trusts), and value exchange options (compensation, recognition, or open access) while en
+  * Tags: `anthropic`, `dataset`, `hackernews`, `producthunt`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://community.mozilladatacollective.com/about>
+
 * **[Abstractions of Queries in Ontology-Based Data Access](ai/research/arxiv-2606-24618.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24618v1 Announce Type: new Abstract: In ontology-based data access (OBDA), multiple data sources are integrated via mappings to an ontology. We consider an OBDA setting based on existential rules and the certain answer semantics. We addres
   * Source URL: <https://arxiv.org/abs/2606.24618>
@@ -13244,6 +13558,10 @@ All resources are linked to their local vault paths and preserve original source
 * **[Accelerated Inference with Optimum and Transformers Pipelines](ai/models/accelerated-inference-with-optimum-and-transformer.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Accelerated Inference with Optimum and Transformers Pipelines
   * Source URL: <https://huggingface.co/blog/optimum-inference>
+
+* **[Accelerated Stochastic Min-Max Optimization Based on Bias-corrected Momentum](ai/research/arxiv-2406-13041.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2406.13041v3 Announce Type: replace Abstract: Lower-bound analyses for nonconvex strongly-concave minimax optimization problems have shown that stochastic first-order algorithms require at least $\mathcal{O}(\varepsilon^{-4})$ sample complexity
+  * Source URL: <https://arxiv.org/abs/2406.13041>
 
 * **[Accelerating Disaggregated RL for Visual Generative LLMs with Diffusion-Based Parallelism and Trainer-Assisted Generation](ai/research/arxiv-2606-24369.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24369v2 Announce Type: new Abstract: Reinforcement learning (RL) has become a dominant post-training paradigm, driving the emergence of high-performance RL systems such as veRL for autoregressive large language models (LLMs). In parallel,
@@ -13320,6 +13638,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.15751v1 Announce Type: cross Abstract: Audio-Language Models (ALMs) have shown remarkable success in zero-shot audio classification by aligning audio waveforms with text. Recent efforts to improve downstream performance focus on learning o
   * Tags: `dataset`, `paper`
   * Source URL: <https://arxiv.org/abs/2606.15751>
+
+* **[ACP - 2019â2024 trends in African livestock and wetland emissions as contributors to the global methane rise](ai/rag/acp-2019a2024-trends-in-african-livestock-and-wetl.md)** (`dataset` | `useful` tier)
+  * Summary: - **African methane emissions (2019–2024)**: Total surface fluxes estimated at **71–72 Tg a⁻¹**, with **28–32 Tg a⁻¹ from wetlands** and **23–25 Tg a⁻¹ from livestock**, based on blended TROPOMI+GOSAT satellite observations and monthly analytical inv
+  * Tags: `benchmark`, `dataset`, `hackernews`, `paper`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://acp.copernicus.org/articles/26/4601/2026>
 
 * **[ACT-JEPA: Novel Joint-Embedding Predictive Architecture for Efficient Policy Representation Learning](ai/research/arxiv-2501-14622.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2501.14622v5 Announce Type: replace Abstract: Learning efficient representations for decision-making policies is a challenge in imitation learning (IL). Current IL methods require expert demonstrations, which are expensive to collect. Additiona
@@ -13562,6 +13885,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`
   * Source URL: <https://huggingface.co/blog/watermarking>
 
+* **[AI-Application-and-Integration-Lab/MegaRAG](ai/rag/ai-application-and-integration-lab-megarag.md)** (`framework` | `useful` tier)
+  * Summary: - **Multimodal Graph-based RAG Framework**: Introduces MegaRAG, a novel Retrieval-Augmented Generation (RAG) system leveraging multimodal data (text, images, graphs) structured as a unified graph for enhanced contextual retrieval and generation. - **
+  * Tags: `dataset`, `github-repo`, `models`, `python`, `rag`
+  * Source URL: <https://github.com/AI-Application-and-Integration-Lab/MegaRAG>
+
 * **[AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design](ai/research/arxiv-2606-09831.md)** (`reference` | `useful` tier)
   * Summary: arXiv:2606.09831v2 Announce Type: replace-cross Abstract: As classroom cohorts expand, team teaching is increasingly used to integrate the expertise and pedagogical perspectives of multiple teachers. Yet, there is limited empirical understanding of h
   * Tags: `paper`, `scripts`
@@ -13615,6 +13943,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.18852v1 Announce Type: cross Abstract: Classifying implicit hate speech remains a challenge, as intent is often masked through insinuation and context rather than explicit slurs. Prior supervised contrastive approaches improve in-domain de
   * Tags: `benchmark`, `dataset`
   * Source URL: <https://arxiv.org/abs/2606.18852>
+
+* **[allenai/scifact · Datasets at Hugging Face](ai/rag/huggingface-datasets-allenai.md)** (`dataset` | `useful` tier)
+  * Summary: - **Model**: `SCIFACT_xlm_roberta_large` is a fine-tuned XLM-RoBERTa-large model for scientific claim verification. - **Performance**: Achieves high accuracy on the SCIFACT dataset, designed to validate scientific claims against evidence. - **Use Cas
+  * Tags: `dataset`, `rag`, `web-crawled`
+  * Source URL: <https://huggingface.co/datasets/allenai/scifact>
 
 * **[Alternate loss functions and regression models that achieve robustness to outliers by modulating the learning rate](ai/research/arxiv-2606-22068.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.22068v2 Announce Type: replace-cross Abstract: Most real-world datasets used for training supervised learning models are contaminated with noisy data and outliers leading to large prediction errors. This paper proposes a new approach for a
@@ -13758,6 +14091,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[An iterative energy-based multimodal transformer for joint retrieval of wheat soil moisture, leaf area index, and plant height from Sentinel-1 and Sentinel-2 time series](ai/research/arxiv-2606-25174.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.25174v1 Announce Type: new Abstract: Field-scale retrieval of surface soil moisture (SM), leaf area index (LAI), and plant height (PH) is essential for precision agriculture, yet it remains an ill-posed inverse problem. Concurrent variatio
   * Source URL: <https://arxiv.org/abs/2606.25174>
+
+* **[An LLM-based Two-Stage Transformer Framework for Cross-Domain Bearing Fault Diagnosis with Limited Data](ai/rag/arxiv-2606-24459.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.24459v1 Announce Type: new Abstract: Bearing fault diagnosis faces critical challenges when dataset heterogeneity, operating condition variations, and limited labeled data occur simultaneously in industrial environments. Existing approache
+  * Tags: `dataset`, `models`, `paper`, `rag`
+  * Source URL: <https://arxiv.org/abs/2606.24459>
 
 * **[An overview of inference solutions on Hugging Face](ai/models/an-overview-of-inference-solutions-on-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: An overview of inference solutions on Hugging Face
@@ -13960,6 +14298,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Arc Virtual Cell Challenge: A Primer
   * Source URL: <https://huggingface.co/blog/virtual-cell-challenge>
 
+* **[ArcGIS Pro license levels | ArcGIS Pro documentation](ai/resources/arcgis-pro-license-levels-arcgis-pro-documentation.md)** (`dataset` | `useful` tier)
+  * Summary: - **License Tiers**: ArcGIS Pro offers three license levels—Basic (Creator user type), Standard (Professional user type), and Advanced (Professional Plus user type)—with Standard/Advanced unlocking specialized functionality. - **Core Functional Diffe
+  * Tags: `dataset`, `models`, `reddit`, `web-crawled`
+  * Source URL: <https://pro.arcgis.com/en/pro-app/latest/get-started/license-levels.htm>
+
 * **[Are Safety Guarantees in Neural Networks Safe? How to Compute Trustworthy Robustness Certifications](ai/research/arxiv-2606-23858.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.23858v1 Announce Type: cross Abstract: A primary challenge in AI safety is the existence of adversarial examples -- slightly distorted inputs that cause a neural network (NN) to misclassify. To mitigate this problem, recent research focuse
   * Tags: `benchmark`, `dataset`
@@ -14068,6 +14411,10 @@ All resources are linked to their local vault paths and preserve original source
 * **[Asymptotic Learning Curves for Diffusion Models with Random Features Score and Manifold Data](ai/research/arxiv-2603-22962.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2603.22962v3 Announce Type: replace Abstract: We study the theoretical behavior of denoising score matching--the learning task associated to diffusion models--when the data distribution is supported on a low-dimensional manifold and the score i
   * Source URL: <https://arxiv.org/abs/2603.22962>
+
+* **[Asymptotic Signal Subspace Recovery in Softmax Attention Models](ai/research/arxiv-2606-22406.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.22406v2 Announce Type: replace Abstract: Attention mechanisms have demonstrated remarkable empirical success in identifying relevant information from large collections of tokens, yet the theoretical principles underlying this behavior rema
+  * Source URL: <https://arxiv.org/abs/2606.22406>
 
 * **[Asymptotically Optimal Sequential Testing with Markovian Data](ai/research/arxiv-2602-17587.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.17587v3 Announce Type: replace-cross Abstract: We study one-sided and $\alpha$-correct sequential hypothesis testing for data generated by an ergodic, finite-state Markov chain. The null hypothesis is that the unknown transition matrix bel
@@ -14194,6 +14541,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2410.15051v3 Announce Type: replace-cross Abstract: Identifying patient diagnoses from hospital discharge letters is essential for large-scale cohort selection and epidemiological research, but traditional supervised approaches require extensiv
   * Tags: `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2410.15051>
+
+* **[AutoRelAnnotator: Calibrated Model Cascades for Cost-Efficient Relevance Evaluation in Sponsored Search](ai/research/arxiv-2606-25871.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.25871v1 Announce Type: cross Abstract: How can we generate high-quality relevance annotations at scale without the cost and delays of human labeling? Relevance annotations are the backbone of search ranking systems which is needed for trai
+  * Tags: `benchmark`, `models`
+  * Source URL: <https://arxiv.org/abs/2606.25871>
 
 * **[Average Rankings Mask Per-Subject Optimality: A Friedman-Nemenyi Benchmark of EEG Motor-Imagery BCI Decoders](ai/rag/arxiv-2606-24394.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24394v1 Announce Type: cross Abstract: Electroencephalography (EEG) is the dominant non-invasive modality for brain-computer interfaces (BCIs), yet reliable decoding of motor imagery is hampered by inter- and intra-individual variability.
@@ -14522,6 +14874,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `rag`, `scripts`
   * Source URL: <https://arxiv.org/abs/2601.04524>
 
+* **[BioVid: Autoregressive Video Generation with Biological Behavior Semantic Comprehension](ai/research/arxiv-2606-08674.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.08674v3 Announce Type: replace-cross Abstract: Video generation for biological behavior requires more than visually plausible motion: the duration of an action is itself a semantic property. Existing models usually rely on fixed temporal w
+  * Tags: `dataset`, `youtube`
+  * Source URL: <https://arxiv.org/abs/2606.08674>
+
 * **[Bitwise Systolic Array Architecture for Runtime-Reconfigurable Multi-precision Quantized Multiplication on Hardware Accelerators](ai/research/arxiv-2602-23334.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.23334v2 Announce Type: replace-cross Abstract: Neural network accelerators have been widely applied to edge devices for complex tasks like object tracking, image recognition, etc. Previous works have explored the quantization technologies
   * Tags: `hackernews`, `models`, `youtube`
@@ -14802,6 +15159,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `hackernews`, `paper`, `rag`, `web-crawled`, `youtube`
   * Source URL: <https://trec.nist.gov/cfp.html>
 
+* **[Call For Proposals (CFP) | LF Events](ai/rag/call-for-proposals-cfp-lf-events.md)** (`framework` | `useful` tier)
+  * Summary: - **OpenSSF Community Day Europe** invites proposals for sessions on open-source security tools, standards, and best practices, with submission types ranging from 5 to 20 minutes; submissions must avoid vendor pitches and align with suggested topics
+  * Tags: `benchmark`, `dataset`, `hackernews`, `paper`, `rag`, `web-crawled`
+  * Source URL: <https://events.linuxfoundation.org/openssf-community-day-europe/program/cfp>
+
 * **[Can Aggregate Invariants Accelerate Continuous Subgraph Matching? Limits, Laws, and a Dynamic Spectral Index](ai/research/arxiv-2606-24421.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24421v1 Announce Type: new Abstract: Spectral filtering recently delivered substantial pruning for \emph{static} subgraph matching: Laplacian interlacing rejects candidates whose neighborhoods cannot host the query. We study whether such a
   * Tags: `benchmark`, `models`
@@ -15003,6 +15365,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.13978v1 Announce Type: cross Abstract: This paper evaluates a signal-processing and supervised-learning pipeline for classifying SDSS DR17 astronomical spectra into stars, galaxies, and quasars. Each spectrum is represented by its measured
   * Tags: `paper`
   * Source URL: <https://arxiv.org/abs/2606.13978>
+
+* **[CLEF HIPE-2026: Evaluating Accurate and Efficient Person-Place Relation Extraction from Multilingual Historical Texts](ai/research/arxiv-2602-17663.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2602.17663v2 Announce Type: replace Abstract: HIPE-2026 is a CLEF evaluation lab dedicated to person-place relation extraction from noisy, multilingual historical texts. Building on the HIPE-2020 and HIPE-2022 campaigns, it extends the series t
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2602.17663>
+
+* **[Cliff Tokens: Identifying Single-Token Failure Triggers in LLM Mathematical Reasoning](ai/research/arxiv-2606-25524.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.25524v1 Announce Type: new Abstract: Large language models (LLMs) reach high accuracy in mathematical reasoning, but individual traces on the same problem diverge; some arrive at the correct answer while others fail. Prior work analyzes fa
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2606.25524>
 
 * **[Clifford Kolmogorov-Arnold Networks](ai/research/arxiv-2602-05977.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.05977v2 Announce Type: replace Abstract: We introduce Clifford Kolmogorov-Arnold Network (ClKAN), a flexible and efficient architecture for function approximation in arbitrary Clifford Algebra spaces. We propose the use of Randomized Quasi
@@ -15599,6 +15971,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `paper`
   * Source URL: <https://arxiv.org/abs/2606.16763>
 
+* **[CrossAccent-TTS: Cross-Lingual Accent-Intensity Controllable Text-to-Speech via Disentangled Speaker and Accent Representations](ai/rag/arxiv-2606-25403.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.25403v1 Announce Type: cross Abstract: Accent conversion and controllability remain fundamental challenges in cross-lingual text-to-speech (TTS), particularly for low-resource and phonetically diverse Indic languages. While recent large la
+  * Tags: `dataset`, `paper`, `rag`
+  * Source URL: <https://arxiv.org/abs/2606.25403>
+
 * **[CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation](ai/research/arxiv-2606-24506.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24506v1 Announce Type: cross Abstract: Emerging LLM services increasingly host many sparse MoE models, yet most models receive sparse requests and remain cold. This creates a GPU memory problem: model weights are stable and model-determine
   * Tags: `models`
@@ -15647,6 +16024,10 @@ All resources are linked to their local vault paths and preserve original source
 * **[Cycle-Consistent Neural Explanation of Formal Verification Certificates](ai/research/arxiv-2606-24414.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24414v1 Announce Type: new Abstract: Formal verification produces machine-checkable certificates that attest to the satisfaction or violation of temporal properties, yet these certificates remain opaque to non-specialist stakeholders. We p
   * Source URL: <https://arxiv.org/abs/2606.24414>
+
+* **[Cyclic Denoising Reveals Ultrastable Memories in Diffusion Models](ai/research/arxiv-2606-24000.md)** (`prompt` | `useful` tier)
+  * Summary: arXiv:2606.24000v1 Announce Type: new Abstract: We introduce cyclic denoising -- repeated forward and reverse diffusion at controlled noise amplitudes -- as an extraction attack for image diffusion models. Inspired by random organization in disordere
+  * Source URL: <https://arxiv.org/abs/2606.24000>
 
 * **[CycliST: A Video Language Model Benchmark for Reasoning on Cyclical State Transitions](ai/research/arxiv-2512-01095.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2512.01095v2 Announce Type: replace-cross Abstract: We present CycliST, a novel benchmark dataset designed to evaluate Video Language Models (VLM) on their ability for textual reasoning over cyclical state transitions. CycliST captures fundamen
@@ -15742,6 +16123,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.15868v1 Announce Type: new Abstract: Next activity prediction (NAP) is a cornerstone of predictive process monitoring (PPM), enabling organizations to move from retrospective analysis to proactive process steering. The PPM field has progre
   * Tags: `benchmark`, `dataset`, `paper`
   * Source URL: <https://arxiv.org/abs/2606.15868>
+
+* **[Decentralized SGD with Controlled Disagreement Finds Flatter Minima](ai/research/arxiv-2602-02899.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2602.02899v2 Announce Type: replace Abstract: Decentralized training is often regarded as inferior to centralized training because the consensus errors between workers are thought to undermine convergence and generalization. This work challenge
+  * Source URL: <https://arxiv.org/abs/2602.02899>
 
 * **[Deciphering Fingerprints of 3D Molecular Surfaces for Accurate Epitope Prediction](ai/research/arxiv-2606-23830.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.23830v1 Announce Type: cross Abstract: Molecular surfaces encode the geometric and physicochemical patterns that determine antibody-antigen recognition, central to epitope prediction. However, existing methods rely on sequences or backbone
@@ -16264,6 +16649,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`
   * Source URL: <https://arxiv.org/abs/2606.25488>
 
+* **[Distilling Answer-Set Programming Rules from LLMs for Neurosymbolic Visual Question Answering](ai/rag/arxiv-2606-03269.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.03269v2 Announce Type: replace Abstract: Visual Question Answering (VQA) is the task of answering questions about images, requiring the integration of multimodal input and reasoning. Modular approaches that incorporate logic-based represen
+  * Tags: `dataset`, `rag`
+  * Source URL: <https://arxiv.org/abs/2606.03269>
+
 * **[Distilling Drifting Transformers with Representation Autoencoders](ai/research/arxiv-2606-15553.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.15553v1 Announce Type: new Abstract: Representation Autoencoders (RAEs) have improved diffusion and flow models by semantically richer latent space owing to the strongly label-wise clustered DINO features in the pretrained encoders. Yet in
   * Tags: `dataset`
@@ -16343,6 +16733,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.25013>
 
+* **[Do vision-language models search like humans? Reasoning tokens as a reaction-time analog in classic visual-search paradigms](ai/research/arxiv-2606-25066.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.25066v1 Announce Type: new Abstract: Visual search has been one of the most productive paradigms in the study of visual attention: the way reaction time scales with the number of items distinguishes parallel, "pop-out" search from serial,
+  * Tags: `benchmark`, `frontend_ui`
+  * Source URL: <https://arxiv.org/abs/2606.25066>
+
 * **[Do We Still Need Humans in the Loop? Comparing Human and LLM Annotation in Active Learning for Hostility Detection](ai/research/arxiv-2604-13899.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2604.13899v4 Announce Type: replace-cross Abstract: Instruction-tuned LLMs can annotate thousands of instances at low cost. This raises two questions for active learning (AL): can LLM labels replace human labels within the AL loop, and does AL
   * Tags: `benchmark`, `dataset`
@@ -16362,6 +16757,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.21428v2 Announce Type: replace-cross Abstract: Mixture-of-Experts (MoE) language models are often described as ideal for resource-constrained inference. Each token activates only a small subset of experts, so the per-token compute cost, in
   * Tags: `benchmark`, `meta-ai`, `models`
   * Source URL: <https://arxiv.org/abs/2606.21428>
+
+* **[Does My Embedding Reflect That $A = B$? Evaluating Mathematical Equivalence in Embedding Models](ai/rag/arxiv-2606-23959.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.23959v1 Announce Type: cross Abstract: Because mathematics is highly abstract, a single statement can take very different forms depending on what subfield it is framed in. There are many examples where breakthroughs occurred after research
+  * Tags: `dataset`, `paper`, `rag`
+  * Source URL: <https://arxiv.org/abs/2606.23959>
 
 * **[Does the Data Processing Inequality Reflect Practice? On the Utility of Low-Level Tasks](ai/research/arxiv-2512-21315.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2512.21315v2 Announce Type: replace Abstract: The data processing inequality is an information-theoretic principle stating that the information content of a signal cannot be increased by processing the observations. In particular, it suggests t
@@ -16411,6 +16811,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2512.13853v2 Announce Type: replace Abstract: In this work, we investigate the existence and effect of percolation in training deep Neural Networks (NNs) with dropout. Dropout methods are regularisation techniques for training NNs, first introd
   * Tags: `hackernews`
   * Source URL: <https://arxiv.org/abs/2512.13853>
+
+* **[DSPy on Databricks | Databricks Blog](ai/rag/dspy-on-databricks-databricks-blog.md)** (`framework` | `useful` tier)
+  * Summary: - **Databricks AI Research & DSPy Integration**: Introduces DSPy, a framework for optimizing LLM prompts and weights programmatically, enabling structured, reproducible AI pipelines with automatic prompt optimization (APO) and teleprompters for fine-
+  * Tags: `agents`, `benchmark`, `dataset`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://www.databricks.com/blog/dspy-databricks>
 
 * **[DTT-BSR+: A Generative-Regression Cascade for Music Source Restoration](ai/research/arxiv-2606-24127.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24127v1 Announce Type: cross Abstract: Music source restoration (MSR) requires jointly addressing source unmixing and the inversion of non-linear production effects. Current methods struggle to achieve accurate target signal reconstruction
@@ -16475,6 +16880,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2605.26290v2 Announce Type: replace Abstract: Temporal signed networks (TSNs) model the time evolution of cooperative and adversarial relationships that arise in applications such as social media analysis, trust and reputation systems, and fina
   * Tags: `reddit`
   * Source URL: <https://arxiv.org/abs/2605.26290>
+
+* **[Dynamic Symmetric Point Tracking: Tackling Non-ideal Reference in Analog In-memory Training](ai/research/arxiv-2602-21321.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2602.21321v2 Announce Type: replace Abstract: Analog in-memory computing (AIMC) performs computation directly within resistive crossbar arrays, offering an energy-efficient platform to scale large vision and language models. However, non-ideal
+  * Tags: `hackernews`
+  * Source URL: <https://arxiv.org/abs/2602.21321>
 
 * **[DynamicPO: Dynamic Preference Optimization for Recommendation](ai/rag/arxiv-2605-00327.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.00327v4 Announce Type: replace-cross Abstract: In large language model (LLM)-based recommendation systems, direct preference optimization (DPO) effectively aligns recommendations with user preferences, requiring multi-negative objective fu
@@ -16768,6 +17178,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`
   * Source URL: <https://arxiv.org/abs/2606.18317>
 
+* **[Enhancing Brain MRI Anomaly Detection and Reasoning with ROI Rethink and Synthetic Data](ai/research/arxiv-2606-25894.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.25894v1 Announce Type: cross Abstract: Medical vision-language models typically generate diagnoses through single-pass inference without indicating which image regions support their conclusions. This lack of spatial grounding limits clinic
+  * Tags: `benchmark`, `models`
+  * Source URL: <https://arxiv.org/abs/2606.25894>
+
 * **[Enhancing Clinician Decision-Making via Uncertainty-Aware Multi-Expert Fusion for Stroke Rehabilitation](ai/research/arxiv-2606-24960.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24960v1 Announce Type: new Abstract: Tailoring stroke rehabilitation requires assessing how movements are organized, not merely if they succeed. Currently, this assessment is a rate-limiting bottleneck. Instruments like the Action Research
   * Tags: `hackernews`, `youtube`
@@ -16875,6 +17290,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`
   * Source URL: <https://arxiv.org/abs/2606.25001>
 
+* **[Error-Aware TF-IDF Retrieval-Augmented Generation for ASR Error Correction](ai/rag/arxiv-2606-24915.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.24915v1 Announce Type: cross Abstract: End-to-end automatic speech recognition systems frequently hallucinate rare entities and domain-specific terms, especially in low-resource languages. While retrieval-augmented generation frameworks ca
+  * Tags: `benchmark`, `dataset`, `rag`
+  * Source URL: <https://arxiv.org/abs/2606.24915>
+
 * **[eScholarship – California Digital Library](ai/resources/escholarship-california-digital-library.md)** (`framework` | `useful` tier)
   * Summary: - **Open Access Repository**: UC's institutional repository hosting >300K publications with >100M item views, supporting global open access dissemination of UC scholars' research. - **Dual Services**: Provides both a publishing platform for UC-affili
   * Tags: `dataset`, `hackernews`, `paper`, `web-crawled`
@@ -16974,6 +17394,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `models`, `openai`, `paper`
   * Source URL: <https://arxiv.org/abs/2606.23701>
 
+* **[Evaluating LLMs on Real-World Software Performance Optimization](ai/research/arxiv-2606-25530.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.25530v1 Announce Type: cross Abstract: Software performance optimization is a notoriously complex and manual task. Despite the growing use of Large Language Models (LLMs) for code refinement, we still lack benchmarks that capture how optim
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2606.25530>
+
 * **[Evaluating Local Explainability Metrics for Machine Learning Models on Tabular Data](ai/research/arxiv-2605-27618.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.27618v2 Announce Type: replace Abstract: Despite the wide use of explainability techniques to attempt to understand the behavior of Artificial Intelligence (AI), the generated explanations may not always be reliable. An explanation can app
   * Tags: `benchmark`, `dataset`, `hackernews`, `paper`
@@ -16983,6 +17408,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.18166v1 Announce Type: cross Abstract: Classifying Cyber Threat Intelligence (CTI) using MITRE Adversarial Tactics, Techniques, and Common Knowledge (ATT&amp;CK) is essential for proactive defense, but historically required extensive human
   * Tags: `benchmark`, `dataset`, `hackernews`, `rag`, `scripts`
   * Source URL: <https://arxiv.org/abs/2606.18166>
+
+* **[Evaluating Scene-based In-Situ Item Labeling for Immersive Conversational Recommendation](ai/rag/arxiv-2604-09698.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2604.09698v2 Announce Type: replace-cross Abstract: The growing ubiquity of Extended Reality (XR) is driving Conversational Recommendation Systems (CRS) toward visually immersive experiences. We formalize this paradigm as Immersive CRS (ICRS),
+  * Tags: `benchmark`, `dataset`, `rag`
+  * Source URL: <https://arxiv.org/abs/2604.09698>
 
 * **[Evaluating the Interpretability of Sparse Autoencoders with Concept Annotations](ai/rag/arxiv-2606-24716.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24716v1 Announce Type: cross Abstract: Sparse autoencoders (SAEs) are increasingly used to extract interpretable concepts from vision and vision language models, yet existing evaluation methods largely rely on proxy metrics or qualitative
@@ -17172,6 +17602,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.25606v1 Announce Type: cross Abstract: Given the widespread prevalence of depression and its consequential impact on individuals and society, it is crucial to obtain objective measures for early diagnosis and intervention. As a multidiscip
   * Tags: `benchmark`, `dataset`, `models`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.25606>
+
+* **[Extended pseudo-spectral physics-informed neural networks for phase-field models](ai/research/arxiv-2606-24660.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.24660v1 Announce Type: cross Abstract: Phase-field models play a central role in the continuum description of phase separation, in which the bulk free-energy density and the interfacial thickness parameter determine pattern formation and m
+  * Tags: `hackernews`
+  * Source URL: <https://arxiv.org/abs/2606.24660>
 
 * **[Extreme Meta-Classification for Large-Scale Zero-Shot Retrieval](ai/research/arxiv-2606-25237.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.25237v1 Announce Type: cross Abstract: We develop accurate and efficient solutions for large-scale retrieval tasks where novel (zero-shot) items can arrive continuously at a rapid pace. Conventional Siamese-style approaches embed both quer
@@ -17391,6 +17826,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.16868v1 Announce Type: cross Abstract: While federated learning (FL) enables collaborative medical image segmentation without centralizing sensitive data, real-world deployment is frequently complicated by cross-site label imperfections su
   * Tags: `benchmark`, `dataset`
   * Source URL: <https://arxiv.org/abs/2606.16868>
+
+* **[Federated Survival Analysis in Healthcare: A Multi-Model Evaluation on Cross-Institutional Heterogeneous Breast Cancer Data](ai/research/arxiv-2606-23871.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.23871v1 Announce Type: new Abstract: Survival analysis is central to clinical decision-making, yet reliable time-to-event models require large, diverse cohorts that are rarely available at a single institution, while privacy regulations re
+  * Tags: `benchmark`, `paper`
+  * Source URL: <https://arxiv.org/abs/2606.23871>
 
 * **[FedReLa: Imbalanced Federated Learning via Re-Labeling](ai/research/arxiv-2606-26037.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.26037v1 Announce Type: cross Abstract: Federated learning has emerged as the foremost approach for decentralized model training with privacy preservation. The global class imbalance and cross-client data heterogeneity naturally coexist, an
@@ -17975,6 +18415,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.25247v1 Announce Type: cross Abstract: Neural swipe decoders are typically tied to the keyboard they were trained on, requiring a new corpus and training run for each layout. In this report, we document our approach toward training models
   * Source URL: <https://arxiv.org/abs/2606.25247>
 
+* **[Fuzzy Quantification over OWL Ontologies and Knowledge Graphs](ai/research/arxiv-2606-25778.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.25778v1 Announce Type: new Abstract: This paper presents a versatile framework for evaluating fuzzy quantification queries over both standard and fuzzy ontologies as well as knowledge graphs. The primary objective is the retrieval of indiv
+  * Tags: `benchmark`, `paper`
+  * Source URL: <https://arxiv.org/abs/2606.25778>
+
 * **[G-IdiomAlign: A Gloss-Pivoted Benchmark for Cross-Lingual Idiom Alignment](ai/research/arxiv-2606-18989.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18989v1 Announce Type: cross Abstract: Idioms are difficult to transfer across languages due to their non-compositionality and weak surface-form grounding, making literal mappings unreliable. We present G-IdiomAlign, a gloss-pivoted benchm
   * Tags: `benchmark`
@@ -18306,6 +18751,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.16035v1 Announce Type: cross Abstract: Modern particles physics experiments have demonstrated an increasing need for fast, high-fidelity detector simulation as detector components have improved and subsequent computational requirements app
   * Source URL: <https://arxiv.org/abs/2606.16035>
 
+* **[GRACE: Gated Refinement for Accurate Causal Edge Discovery in High-Dimensional Time Series](ai/research/arxiv-2606-23880.md)** (`dataset` | `useful` tier)
+  * Summary: arXiv:2606.23880v1 Announce Type: new Abstract: From climate teleconnections to gene regulation, modern time-series datasets encompass tens or hundreds of interacting variables, making causal discovery increasingly challenging. Constraint-based metho
+  * Tags: `benchmark`, `dataset`
+  * Source URL: <https://arxiv.org/abs/2606.23880>
+
 * **[Grad Detect: Gradient-Based Hallucination Detection in LLMs](ai/research/arxiv-2606-24790.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24790v1 Announce Type: cross Abstract: Large Language Models (LLMs) have demonstrated remarkable capabilities across diverse tasks, yet they remain prone to generating hallucinations. Detecting these hallucinations is critical for deployin
   * Tags: `benchmark`
@@ -18453,6 +18903,10 @@ All resources are linked to their local vault paths and preserve original source
 * **[Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization](ai/research/arxiv-2605-01482.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.01482v3 Announce Type: replace Abstract: Multi-Hop Fact Verification requires complex reasoning across disparate evidence, posing significant challenges for Large Language Models , which may suffer from hallucinations and fractured logical
   * Source URL: <https://arxiv.org/abs/2605.01482>
+
+* **[Grouped Query Experts: Mixture-of-Experts on GQA Self-Attention](ai/research/arxiv-2606-20945.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.20945v2 Announce Type: replace Abstract: Self-attention is central to Transformer performance and is often the most expensive part of the Transformer at long context lengths because its pairwise token interactions scale quadratically with
+  * Source URL: <https://arxiv.org/abs/2606.20945>
 
 * **[Guiding Text Generation with Constrained Beam Search in 🤗 Transformers](ai/models/guiding-text-generation-with-constrained-beam-sear.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Guiding Text Generation with Constrained Beam Search in 🤗 Transformers
@@ -18624,6 +19078,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `reddit`
   * Source URL: <https://arxiv.org/abs/2507.00028>
 
+* **[Hitting a Moving Target: Test-Time Adaptation for AI Text Detection under Continual Distribution Shift](ai/rag/arxiv-2606-25152.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.25152v1 Announce Type: cross Abstract: Deployed approaches for AI text detection often rely on training-time access to labeled datasets of both human-written and AI-generated text. This approach is vulnerable to three types of distribution
+  * Tags: `benchmark`, `dataset`, `rag`
+  * Source URL: <https://arxiv.org/abs/2606.25152>
+
+* **[HKUDS/RAG-Anything](ai/rag/hkuds-rag-anything.md)** (`framework` | `useful` tier)
+  * Summary: - **Multi-Modal RAG Framework**: Unified Python-based framework supporting text, image, audio, and video retrieval-augmented generation (RAG) with modular components for ingestion, retrieval, and generation. - **Modular Architecture**: Implements plu
+  * Tags: `dataset`, `github-repo`, `python`, `rag`, `youtube`
+  * Source URL: <https://github.com/HKUDS/RAG-Anything>
+
 * **[HOLMES: Evaluating Higher-Order Logical Reasoning in LLMs](ai/rag/arxiv-2606-23238.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.23238v2 Announce Type: replace Abstract: Logical reasoning is essential for reliable AI, yet existing benchmarks are largely first-order-logic-centric, focusing on object-level deduction over fixed predicates. This misses many realistic sc
   * Tags: `benchmark`, `dataset`, `rag`
@@ -18638,6 +19102,21 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **LangChain Documentation Index**: Centralized `/llms.txt` file listing all available documentation pages for LangChain, accessible at [/llms.txt](https://docs.langchain.com/llms.txt). - **Agent Development Platform**: Unified platform supporting a
   * Tags: `agents`, `benchmark`, `dataset`, `rag`, `web-crawled`
   * Source URL: <https://docs.langchain.com>
+
+* **[Home - Green Web Foundation](ai/resources/home-green-web-foundation.md)** (`framework` | `useful` tier)
+  * Summary: - **Mission & Tools**: The Green Web Foundation (GWF) tracks and promotes green energy usage in internet infrastructure, aiming for a fossil-free internet by 2030. Key tools include the **Green Web Dataset** (API-accessible public dataset to verify g
+  * Tags: `dataset`, `hackernews`, `web-crawled`
+  * Source URL: <https://thegreenwebfoundation.org>
+
+* **[Home - Overture Maps Foundation](ai/resources/home-overture-maps-foundation.md)** (`dataset` | `useful` tier)
+  * Summary: - **Collaborative Data Integration**: Aggregates map data from member organizations, authoritative sources, and open data communities to produce comprehensive, interoperable datasets. - **Global Entity Reference System (GERS)**: Implements stable, un
+  * Tags: `dataset`, `paper`, `reddit`, `web-crawled`
+  * Source URL: <https://overturemaps.org>
+
+* **[Home | OpenLineage](ai/resources/home-openlineage.md)** (`framework` | `useful` tier)
+  * Summary: - **OpenLineage** is an open framework providing a standardized API for collecting and analyzing data lineage metadata, enabling tracking of datasets, jobs, and runs to diagnose issues and assess change impacts. - **Core components** include an open
+  * Tags: `dataset`, `hackernews`, `web-crawled`
+  * Source URL: <https://openlineage.io>
 
 * **[Homogeneity Bias in Open-Weight LLMs Is Robust to Decoding Hyperparameters](ai/research/arxiv-2501-02211.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2501.02211v2 Announce Type: replace-cross Abstract: Large language models (LLMs) reproduce homogeneity bias -- the tendency to portray marginalized groups as more internally similar than dominant groups -- but whether this bias is stable or an
@@ -19754,6 +20233,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://huggingface.co/blog/arena-atla>
 
+* **[Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines](ai/research/arxiv-2604-23178.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2604.23178v2 Announce Type: replace Abstract: LLM-as-a-Judge has become the dominant paradigm for evaluating language model outputs, yet LLM judges exhibit systematic biases that compromise evaluation reliability. We present a comprehensive emp
+  * Tags: `anthropic`, `benchmark`, `dataset`, `meta-ai`, `models`, `openai`
+  * Source URL: <https://arxiv.org/abs/2604.23178>
+
 * **[JupOtter: Cell-Level Bug Detection in Jupyter Notebooks](ai/research/arxiv-2606-23877.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.23877v1 Announce Type: cross Abstract: Jupyter Notebooks are an increasingly popular coding environment used across many domains, especially in Python-based data science and scientific computing. Originally used for prototyping and interac
   * Tags: `benchmark`, `dataset`, `hackernews`, `models`
@@ -19973,6 +20457,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?
   * Tags: `benchmark`, `models`
   * Source URL: <https://huggingface.co/blog/zero-shot-vqa-docmatix>
+
+* **[Layer-wise Geometric Approximation Rates for Deep Networks](ai/research/arxiv-2604-20219.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2604.20219v2 Announce Type: replace Abstract: Depth is widely viewed as a central contributor to the success of deep neural networks, whereas standard neural network approximation theory typically provides guarantees only for the final output a
+  * Source URL: <https://arxiv.org/abs/2604.20219>
 
 * **[Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](ai/research/arxiv-2606-25589.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.25589v1 Announce Type: new Abstract: As graph neural networks (GNNs) become standard tools for critical tasks in circuit design and analysis, their security and privacy risks require careful attention. Here, we present the first comprehens
@@ -20290,6 +20778,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `rag`, `youtube`
   * Source URL: <https://arxiv.org/abs/2604.27128>
 
+* **[Lightweight PCGAE-Net: Parallel CrossGate Attention and Bottleneck AutoEncoder for Efficient 5G Channel Prediction](ai/research/arxiv-2606-25401.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.25401v1 Announce Type: cross Abstract: Accurate channel state information (CSI) prediction is essential for proactive beamforming and resource management in 5G massive MIMO systems, yet the deployment of high-accuracy transformer-based pre
+  * Tags: `dataset`, `paper`, `youtube`
+  * Source URL: <https://arxiv.org/abs/2606.25401>
+
+* **[Lightweight Test-Time Adaptation for EMG-Based Gesture Recognition](ai/research/arxiv-2601-04181.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2601.04181v2 Announce Type: replace Abstract: Reliable long-term decoding of gestures from surface electromyography (EMG) is hindered by signal drift caused by electrode displacement, muscle fatigue, and/or posture changes. Although modern mode
+  * Tags: `dataset`
+  * Source URL: <https://arxiv.org/abs/2601.04181>
+
 * **[Lightweight Transformer Models for On-Device Fault Detection: A Benchmark Study on Resource-Constrained Deployment](ai/rag/arxiv-2606-24173.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24173v1 Announce Type: cross Abstract: On-device fault detection enables real-time diagnostics without cloud dependency, but deploying machine learning models on resource-constrained hardware demands careful tradeoffs between accuracy, lat
   * Tags: `benchmark`, `dataset`, `models`, `rag`
@@ -20302,6 +20800,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[Limited Marginal Benefit of Reasoning-Heavy LLM Deployment in ESG Narrative Scoring: A 4-Model Consensus Study on Japanese Listed Firms](ai/research/arxiv-2606-13693.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.13693v1 Announce Type: cross Abstract: Automated scoring of ESG narrative disclosures with large language models (LLMs) is gaining traction, yet whether reasoning-heavy frontier models add value commensurate with their cost remains empiric
   * Source URL: <https://arxiv.org/abs/2606.13693>
+
+* **[Linac Coherent Light Source](ai/resources/linac-coherent-light-source.md)** (`dataset` | `useful` tier)
+  * Summary: - **LCLS-II** is a hard X-ray free-electron laser (XFEL) at SLAC, enabling atomic-scale snapshots of dynamic processes in materials, technology, and biology via femtosecond X-ray pulses. - **User facility** operates as an Office of Science DOE user f
+  * Tags: `dataset`, `hackernews`, `web-crawled`
+  * Source URL: <https://lcls.slac.stanford.edu>
 
 * **[Listening makes Vision Clear for VLMs](ai/rag/arxiv-2606-23763.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.23763v1 Announce Type: cross Abstract: Recent work typically assesses vision--language consistency using attention distributions of answer-side tokens. However, we observe that highest attention regions are not always consistent with the i
@@ -20507,6 +21010,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `models`
   * Source URL: <https://arxiv.org/abs/2606.23742>
 
+* **[Low-rank Updates in Slowly Time-varying Graphs for Spatial-Temporal Signal Interpolation](ai/research/arxiv-2606-24011.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.24011v1 Announce Type: cross Abstract: A crucial assumption in graph signal processing (GSP) is the existence of an underlying graph that captures the pairwise similarities between nodes, allowing filters to be designed based on this graph
+  * Tags: `hackernews`, `paper`
+  * Source URL: <https://arxiv.org/abs/2606.24011>
+
 * **[Lower Complexity Bounds for Nonconvex-Strongly-Convex Bilevel Optimization with First-Order Oracles](ai/research/arxiv-2511-19656.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2511.19656v3 Announce Type: replace Abstract: Although upper bound guarantees for bilevel optimization have been widely studied, progress on lower bounds has been limited due to the complexity of the bilevel structure. In this work, we focus on
   * Source URL: <https://arxiv.org/abs/2511.19656>
@@ -20697,6 +21205,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[Margin in Abstract Spaces](ai/research/arxiv-2603-07221.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2603.07221v2 Announce Type: replace Abstract: Margin-based learning, exemplified by linear and kernel methods, is one of the few classical settings where generalization guarantees are independent of the number of parameters. This makes it a cen
   * Source URL: <https://arxiv.org/abs/2603.07221>
+
+* **[Marker-Inc-Korea/AutoRAG](ai/rag/marker-inc-korea-autorag.md)** (`dataset` | `useful` tier)
+  * Summary: - **AutoML-Style Automation**: AutoRAG provides an automated pipeline for optimizing and evaluating Retrieval-Augmented Generation (RAG) systems, including hyperparameter tuning, component selection, and performance benchmarking without manual interv
+  * Tags: `benchmark`, `dataset`, `github-repo`, `python`, `rag`, `scripts`
+  * Source URL: <https://github.com/Marker-Inc-Korea/AutoRAG>
 
 * **[Market Design for AI: Beyond the Copyright Binary](ai/research/arxiv-2606-12260.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12260v1 Announce Type: cross Abstract: How can we design a market of human-generated content for use in training AI models that both enables technological progress and preserves individual incentives for high-quality content creation? Exis
@@ -20972,6 +21485,10 @@ All resources are linked to their local vault paths and preserve original source
 * **[Mixture of Experts Explained](ai/models/mixture-of-experts-explained.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Mixture of Experts Explained
   * Source URL: <https://huggingface.co/blog/moe>
+
+* **[Mixtures Closest to a Given Measure: A Semidefinite Programming Approach](ai/research/arxiv-2509-22879.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2509.22879v2 Announce Type: replace-cross Abstract: Mixture models, such as Gaussian mixture models, are widely used in machine learning to represent complex data distributions. A key challenge, especially in high-dimensional settings, is to de
+  * Source URL: <https://arxiv.org/abs/2509.22879>
 
 * **[MJEPA: A Simple and Scalable Joint-Embedding Predictive Architecture for Audio-Visual Learning](ai/research/arxiv-2606-25225.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.25225v1 Announce Type: cross Abstract: Self-supervised learning from large-scale video data has emerged as a dominant paradigm for visual representation learning. Since audio and visual streams naturally co-occur in video data, extending t
@@ -21335,9 +21852,19 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.13873>
 
+* **[Natural Identifiers for Privacy and Data Audits in Large Language Models](ai/research/arxiv-2606-24408.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.24408v1 Announce Type: new Abstract: Assessing the privacy of large language models (LLMs) presents significant challenges. In particular, most existing methods for auditing differential privacy require the insertion of specially crafted c
+  * Tags: `benchmark`, `dataset`
+  * Source URL: <https://arxiv.org/abs/2606.24408>
+
 * **[Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining](ai/research/arxiv-2606-26050.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.26050v1 Announce Type: new Abstract: Midway through an ordinary pretraining run, a small language model learns the pronoun-gender rule: cued with a girl's name ("Sue cried because"), it resolves the next pronoun to she, generalizing to hel
   * Source URL: <https://arxiv.org/abs/2606.26050>
+
+* **[naver/bergen](ai/rag/naver-bergen.md)** (`framework` | `useful` tier)
+  * Summary: - **Purpose**: Bergen is a benchmarking library specifically designed for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on retrieval and generation performance. - **Implementation**: Written in Jupyter Notebook, it provides struct
+  * Tags: `benchmark`, `dataset`, `github-repo`, `jupyter notebook`, `rag`, `reddit`
+  * Source URL: <https://github.com/naver/bergen>
 
 * **[Navigating Distribution Shifts in Medical Image Analysis: A Survey](ai/research/arxiv-2411-05824.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2411.05824v4 Announce Type: replace-cross Abstract: Medical Image Analysis (MedIA) has become indispensable in modern healthcare, enhancing clinical diagnostics and personalized treatment. Despite the remarkable advancements supported by deep l
@@ -21443,6 +21970,15 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.20673v2 Announce Type: replace Abstract: A central challenge in EEG authentication is that models are typically tied to the acquisition settings in which they are trained. In particular, variations in headset hardware, channel layout, and
   * Tags: `benchmark`, `dataset`, `models`, `rag`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.20673>
+
+* **[NeuroSonic: Conditional Flow Matching for EEG-to-Speech Reconstruction](ai/research/arxiv-2606-24087.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.24087v1 Announce Type: new Abstract: Reconstructing continuous speech from scalp electroencephalography (EEG) remains fundamentally challenging. EEG provides a weak, spatially diffuse, and highly variable measurement of distributed cortica
+  * Tags: `benchmark`, `dataset`
+  * Source URL: <https://arxiv.org/abs/2606.24087>
+
+* **[New Bounds for the Last Iterate of the Stochastic subGradient Method](ai/research/arxiv-2606-24879.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.24879v1 Announce Type: cross Abstract: We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $\eta =\Theta(1/\sqrt
+  * Source URL: <https://arxiv.org/abs/2606.24879>
 
 * **[New in llama.cpp: Model Management](ai/models/new-in-llama-cpp-model-management.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: New in llama.cpp: Model Management
@@ -21661,6 +22197,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2504.17247>
 
+* **[Omni-Perception Policy Optimization for Multimodal Emotion Reasoning](ai/research/arxiv-2606-25325.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.25325v1 Announce Type: new Abstract: We find that current emotion-oriented Omni-MLLMs still lack reliable omni-modal perception: they (i) underutilize multimodal cues in their reasoning trajectories and (ii) exhibit unfaithful behavior, of
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2606.25325>
+
 * **[OmniLoc: A Geometry-Aware Foundation Model for Anchor-Free UE Localization Across Diverse Indoor Environments](ai/rag/arxiv-2606-11490.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11490v1 Announce Type: new Abstract: Indoor localization from wireless measurements remains challenging in large-scale deployments due to substantial variation in building geometry, the set of detectable access points (APs), and the hetero
   * Tags: `benchmark`, `dataset`, `paper`, `rag`
@@ -21789,6 +22330,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `models`
   * Source URL: <https://arxiv.org/abs/2606.13610>
 
+* **[One Ruler: A Same-Hands Re-Evaluation of Bivariate Causal Direction on Tuebingen, with a Parameter-Free Compression Baseline](ai/research/arxiv-2606-23767.md)** (`benchmark` | `useful` tier)
+  * Summary: arXiv:2606.23767v1 Announce Type: new Abstract: Headline accuracies on the Tuebingen cause-effect pairs are routinely compared across papers even though each is measured under its authors' own protocol -- different pair subsets, weightings, model-sel
+  * Tags: `benchmark`, `paper`
+  * Source URL: <https://arxiv.org/abs/2606.23767>
+
 * **[One Year Later...The Harms Persist, But So Do We!](ai/research/arxiv-2606-23884.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.23884v1 Announce Type: cross Abstract: General-purpose large language models (LLMs) are increasingly used for mental health-related conversations, yet safety safeguards remain inadequate and inconsistent across clinical conditions. This st
   * Tags: `benchmark`
@@ -21825,6 +22371,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Challenge Objective**: Develop multimodal, multilingual, and zero-shot AI models to classify harmful memes (combining images/text) targeting attributes like ethnicity, race, religion, or gender identity, with a focus on Singapore’s diverse lingui
   * Tags: `benchmark`, `dataset`, `hackernews`, `leaderboard`, `producthunt`, `web-crawled`
   * Source URL: <https://aisingapore.org/online-safety-prize-challenge>
+
+* **[Only planets with rings but shorter | R](ai/resources/only-planets-with-rings-but-shorter-r.md)** (`dataset` | `useful` tier)
+  * Summary: - `subset()` function filters data frames based on specified conditions, reducing the need for intermediate variables (e.g., `rings_vector`). - The `subset()` syntax is `subset(data_frame, subset = condition)`, where `condition` is a logical expressi
+  * Tags: `dataset`, `web-crawled`
+  * Source URL: <https://campus.datacamp.com/courses/free-introduction-to-r/chapter-5-data-frames?ex=10>
 
 * **[Onsager-Machlup Posterior Transport for Deep Gaussian Processes](ai/research/arxiv-2605-23434.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2605.23434v2 Announce Type: replace Abstract: Approximate inference over inducing variables is the central computational bottleneck of Deep Gaussian Processes (DGPs). Existing methods either fit an explicit density $q_\phi(\bU)$ by an ELBO (DSV
@@ -22532,6 +23083,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `hackernews`
   * Source URL: <https://arxiv.org/abs/2606.25256>
 
+* **[Precision Physical Activity Prescription via Reinforcement Learning for Functional Actions](ai/research/arxiv-2605-19208.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2605.19208v2 Announce Type: replace-cross Abstract: Physical activity (PA) plays an important role in maintaining and improving health. Daily steps have been a key PA measure that is easily accessible with common wearable devices. However, meth
+  * Tags: `paper`
+  * Source URL: <https://arxiv.org/abs/2605.19208>
+
 * **[Predicting Poets' Origins from Verse: A Computational Analysis of Regional Linguistic Fingerprints in the Complete Tang Poems](ai/research/arxiv-2606-24093.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2606.24093v1 Announce Type: cross Abstract: We ask whether the geographic origin of Tang-dynasty poets leaves a detectable linguistic trace in their work. Aggregating every poem attributed to each author in the Complete Tang Poems (Quan Tang Sh
   * Source URL: <https://arxiv.org/abs/2606.24093>
@@ -22609,6 +23165,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11556v1 Announce Type: cross Abstract: Continuous electrocardiography (ECG) monitoring could surface rhythm abnormalities before they escalate into cardiovascular events. However, a deployable system must satisfy three requirements simulta
   * Tags: `benchmark`, `dataset`, `hackernews`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.11556>
+
+* **[Privacy-preserving federated tensor decomposition of single-cell immune data: recovering multicellular programs across institutions](ai/research/arxiv-2606-24938.md)** (`reference` | `useful` tier)
+  * Summary: arXiv:2606.24938v1 Announce Type: cross Abstract: Tensor decomposition of donor $\times$ cell-type $\times$ gene single-cell data recovers \emph{multicellular programs}: coordinated axes of inter-individual transcriptional variation that span cell ty
+  * Source URL: <https://arxiv.org/abs/2606.24938>
 
 * **[Privacy-Preserving RAG via Multi-Agent Semantic Rewriting: Achieving Confidentiality Without Compromising Contextual Fidelity](ai/rag/arxiv-2606-24623.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24623v1 Announce Type: cross Abstract: Retrieval-Augmented Generation enhances large language models by incorporating external knowledge, but deploying it in sensitive scenarios risks privacy leakage via malicious prompts. To address this,
@@ -22689,6 +23249,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2410.24145v3 Announce Type: replace-cross Abstract: We apply conformal prediction techniques to regression problems with circular responses, producing prediction sets with adaptive arc length and finite-sample coverage guarantees for any circul
   * Tags: `dataset`, `hackernews`, `rag`
   * Source URL: <https://arxiv.org/abs/2410.24145>
+
+* **[ProLLM Benchmarks](ai/rag/prollm-benchmarks.md)** (`dataset` | `useful` tier)
+  * Summary: - **Real-world benchmarking**: ProLLM develops language model benchmarks derived from industry-specific use cases (e.g., JavaScript debugging) and proprietary datasets (e.g., StackOverflow), ensuring practical applicability and granular performance i
+  * Tags: `benchmark`, `dataset`, `leaderboard`, `models`, `paper`, `rag`, `web-crawled`
+  * Source URL: <https://prollm.ai>
 
 * **[Promise and challenges of heart chamber segmentation from non-contrast CT scans using contrastive unpaired image translation: a feasibility study](ai/research/arxiv-2606-23879.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.23879v1 Announce Type: cross Abstract: Purpose: To evaluate the feasibility and challenges of heart chamber segmentation from non-contrast CT scans using contrastive unpaired image translation and deep learning-based segmentation. Approach
@@ -23017,10 +23582,19 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.13311v1 Announce Type: cross Abstract: Contextual anomaly detection aims to identify abnormal behavior conditional on context variables, but practical deployments often face highly imbalanced context distributions where rare regimes can be
   * Source URL: <https://arxiv.org/abs/2606.13311>
 
+* **[RARM: Confidence-Gated Progress Reward Modeling for RL in Manipulation](ai/research/arxiv-2606-22027.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.22027v2 Announce Type: replace-cross Abstract: Reinforcement learning for robot manipulation is often bottlenecked by reward design, especially in long-horizon tasks: sparse success rewards provide weak supervision, while hand-crafted dens
+  * Tags: `youtube`
+  * Source URL: <https://arxiv.org/abs/2606.22027>
+
 * **[RAS: Measuring LLM Safety Through Refusal Alignment](ai/research/arxiv-2606-25750.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.25750v1 Announce Type: cross Abstract: Safety evaluation of large language models (LLMs) is commonly performed by querying models with unsafe or jailbreak prompts and judging whether their outputs violate a safety policy. Although useful,
   * Tags: `benchmark`, `meta-ai`, `models`
   * Source URL: <https://arxiv.org/abs/2606.25750>
+
+* **[Rate-Aware Quantum-Inspired Trajectory Learning for Interference-Limited Multi-UAV Networks](ai/research/arxiv-2606-25480.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.25480v1 Announce Type: cross Abstract: Unmanned aerial vehicle (UAV) can provide on-demand, high-capacity connectivity in disaster and normal situation. However, it faces a challenge of curse of dimensionality in trajectory optimization, w
+  * Source URL: <https://arxiv.org/abs/2606.25480>
 
 * **[Rational Neural Networks have Expressivity Advantages](ai/research/arxiv-2602-12390.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.12390v2 Announce Type: replace Abstract: We study neural networks with trainable low-degree rational activation functions and show that they are more expressive and parameter-efficient than modern piecewise-linear and smooth activations su
@@ -23045,6 +23619,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.25770v1 Announce Type: new Abstract: Data scarcity is a major bottleneck in medical Multiple Instance Learning (MIL), especially for rare diseases or expensive modalities. We introduce a statistically grounded patient augmentation approach
   * Tags: `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.25770>
+
+* **[RE4: Transformation-aware Imitation of Object Interactions Using Manipulation Modes](ai/research/arxiv-2606-24403.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.24403v1 Announce Type: cross Abstract: Object interaction tasks have been a focus of advances in imitation learning. End-to-end methods, dominated by diffusion and flow-based variants have shown leaps in performance while sacrificing inter
+  * Tags: `benchmark`, `paper`
+  * Source URL: <https://arxiv.org/abs/2606.24403>
 
 * **[REACH: Interpretability-Driven Feature Identification and Architecture Compression for Multi-Channel Vehicular Channel Estimation](ai/research/arxiv-2606-11857.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11857v1 Announce Type: cross Abstract: Multi-channel mixed-SNR training improves out-of-distribution (OOD) generalisation of deep learning channel estimators for IEEE 802.11p vehicular communications, yet the internal mechanism responsible
@@ -23247,6 +23826,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`
   * Source URL: <https://arxiv.org/abs/2606.18812>
 
+* **[Reinforcement Learning Improves Traversal of Parametric Knowledge in LLMs](ai/research/arxiv-2511-05933.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2511.05933v2 Announce Type: replace-cross Abstract: Reinforcement learning (RL) is often credited with improving language model reasoning at the expense of knowledge. We challenge this narrative by showing that reasoning models consistently out
+  * Tags: `models`
+  * Source URL: <https://arxiv.org/abs/2511.05933>
+
 * **[Reinforcement Learning Towards Broadly and Persistently Beneficial Models](ai/research/arxiv-2606-24014.md)** (`prompt` | `useful` tier)
   * Summary: arXiv:2606.24014v1 Announce Type: new Abstract: As AI systems are deployed across increasingly diverse and high-stakes settings, model alignment must generalize beyond the tasks and domains seen during training. This is especially important for reinf
   * Tags: `benchmark`, `dataset`
@@ -23433,6 +24017,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Retrieval Augmented Generation with Huggingface Transformers and Ray
   * Source URL: <https://huggingface.co/blog/ray-rag>
 
+* **[Retrieval-Augmented Generation (RAG) - DSPy](ai/rag/retrieval-augmented-generation-rag-dspy.md)** (`framework` | `useful` tier)
+  * Summary: - **DSPy Modules**: DSPy provides structured `Modules` (e.g., `dspy.Predict`, `dspy.ChainOfThought`) that encapsulate LM interactions via defined signatures (input/output schemas), enabling modular and interpretable LM program construction with built
+  * Tags: `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `youtube`
+  * Source URL: <https://dspy.ai/tutorials/rag>
+
 * **[Retrieval-Augmented Personalization with Foundation Models for Wearable Stress Detection](ai/rag/arxiv-2606-24985.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24985v1 Announce Type: new Abstract: Personalization in wearable-based stress detection remains challenging due to substantial inter-individual variability in physiological and behavioral responses. While traditional approaches rely on use
   * Tags: `dataset`, `models`, `rag`
@@ -23605,6 +24194,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2504.14798v2 Announce Type: replace Abstract: Machine Unlearning (MUL) has emerged as a key mechanism for privacy protection and content regulation, yet current techniques often fail to guarantee the complete removal of sensitive information. W
   * Tags: `benchmark`, `hackernews`
   * Source URL: <https://arxiv.org/abs/2504.14798>
+
+* **[RUC-NLPIR/FlashRAG](ai/rag/ruc-nlpir-flashrag.md)** (`framework` | `useful` tier)
+  * Summary: - **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit designed for high-performance Retrieval-Augmented Generation (RAG) research, optimized for speed and scalability in large language model (LLM) applications. - **Benchmark & Dataset Suppo
+  * Tags: `benchmark`, `dataset`, `github-repo`, `python`, `rag`, `reddit`
+  * Source URL: <https://github.com/RUC-NLPIR/FlashRAG>
 
 * **[Rule2Text: A Framework for Generating and Evaluating Natural Language Explanations of Knowledge Graph Rules](ai/rag/arxiv-2508-10971.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2508.10971v2 Announce Type: replace-cross Abstract: Knowledge graphs (KGs) can be enhanced through rule mining; however, the resulting logical rules are often difficult for humans to interpret due to their inherent complexity and the idiosyncra
@@ -23894,6 +24488,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/lcm_lora>
 
+* **[SEAGAN: domain-Specific and Edge-Aware Graph Attention Network for Dynamic Plant Processes](ai/research/arxiv-2606-19623.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.19623v2 Announce Type: replace Abstract: Graph neural networks (GNNs) offer a flexible framework for learning from scientific data with physical, biological, or functional associations. One promising domain is plant physiology, where obser
+  * Tags: `benchmark`, `dataset`
+  * Source URL: <https://arxiv.org/abs/2606.19623>
+
 * **[SEAL: Searching Expandable Architectures for Incremental Learning](ai/research/arxiv-2505-10457.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2505.10457v3 Announce Type: replace-cross Abstract: Incremental learning is a machine learning paradigm where a model learns from a sequential stream of tasks. This setting poses a key challenge: balancing plasticity (learning new tasks) and st
   * Tags: `benchmark`
@@ -24110,6 +24709,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`
   * Source URL: <https://arxiv.org/abs/2606.21366>
 
+* **[SFL-MTSC: Leveraging Semantic Frame-Level Multi-Task Self-Consistency for Robust Multi-Intent Spoken Language Understanding](ai/rag/arxiv-2606-25552.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.25552v1 Announce Type: cross Abstract: Prompt-based spoken language understanding (SLU) with large language models (LLMs) often suffers from inconsistent intent--slot structures due to decoding stochasticity, particularly in multi-intent s
+  * Tags: `benchmark`, `dataset`, `rag`
+  * Source URL: <https://arxiv.org/abs/2606.25552>
+
 * **[SFT Overtraining Predicts Rank Inversion via Entropy Collapse Under RLVR](ai/research/arxiv-2606-18487.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18487v1 Announce Type: cross Abstract: The standard heuristic of selecting the SFT checkpoint with the highest pass@1 for GRPO can fail when SFT compresses the rollout distribution. For binary rewards, the expected within group advantage v
   * Source URL: <https://arxiv.org/abs/2606.18487>
@@ -24188,6 +24792,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.25151v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) embed governing equations in their loss function, enabling mesh-free solutions to partial differential equations. Low training loss is treated as evidence that t
   * Tags: `paper`
   * Source URL: <https://arxiv.org/abs/2606.25151>
+
+* **[Similarity of Neural Network Representations in Superposition](ai/research/arxiv-2604-00208.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2604.00208v2 Announce Type: replace Abstract: Comparing internal representations is a central goal in neuroscience and machine learning, but standard linear alignment metrics (Representational Similarity Analysis, Centered Kernel Alignment, and
+  * Source URL: <https://arxiv.org/abs/2604.00208>
 
 * **[Simple considerations for simple people building fancy neural networks](ai/models/simple-considerations-for-simple-people-building-f.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Simple considerations for simple people building fancy neural networks
@@ -24529,6 +25137,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.25269v1 Announce Type: cross Abstract: As black-box models become foundational to modern research, ensuring their stability is paramount for the realization of trustworthy artificial intelligence. The inherent diversity of inputs - ranging
   * Tags: `dataset`, `models`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.25269>
+
+* **[Stabilizing Physics-Informed Consistency Models via Structure-Preserving Training](ai/research/arxiv-2602-09303.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2602.09303v2 Announce Type: replace Abstract: We propose a physics-informed consistency modeling framework for solving partial differential equations (PDEs) via fast, few-step generative inference. We identify a key stability challenge in physi
+  * Tags: `models`
+  * Source URL: <https://arxiv.org/abs/2602.09303>
 
 * **[Stable and Steerable Sparse Autoencoders with Weight Regularization](ai/research/arxiv-2603-04198.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2603.04198v2 Announce Type: replace-cross Abstract: Sparse autoencoders (SAEs) are widely used to extract human-interpretable features from neural network activations, but their learned features can vary substantially across random seeds and tr
@@ -24901,6 +25514,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2606.12392>
 
+* **[Systematic Exploration of 4-Expert Heterogeneous Mixture-of-Experts via Automated Pipeline Search](ai/rag/arxiv-2606-23739.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.23739v1 Announce Type: new Abstract: We present an automated large-scale search pipeline for heterogeneous 4-Expert Mixture-of-Experts (MoE4) architectures within the LEMUR neural network dataset ecosystem. Building on a hand-crafted heter
+  * Tags: `dataset`, `models`, `rag`
+  * Source URL: <https://arxiv.org/abs/2606.23739>
+
 * **[T2D-Bench: Evidence-Gated Evaluation of LLM Outputs for Type 2 Diabetes Using a Multi-Layer Clinical-Lifestyle Knowledge Graph](ai/research/arxiv-2606-24145.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24145v1 Announce Type: new Abstract: Large language models (LLMs) can produce clinically fluent recommendations for type 2 diabetes while failing to satisfy guideline constraints or explicitly justify lifestyle-related glycemic claims. We
   * Tags: `benchmark`, `models`, `openai`
@@ -24959,6 +25577,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11844v1 Announce Type: new Abstract: Continual anomaly detection in tabular data is challenging and remains largely underexplored, particularly in settings with heterogeneous feature schemas, distribution shifts, and severe class imbalance
   * Tags: `dataset`, `models`
   * Source URL: <https://arxiv.org/abs/2606.11844>
+
+* **[Taxonomy of Risks on Automated Fact-Checking Systems Considering its Propagation](ai/research/arxiv-2606-25645.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.25645v1 Announce Type: cross Abstract: In recent years, the posting of fake news including disinformation and misinformation on social networking services (SNS) has become a social problem. To combat this fake news, fact-checking that is t
+  * Tags: `paper`
+  * Source URL: <https://arxiv.org/abs/2606.25645>
 
 * **[Taxonomy-aware deep learning for hierarchical marine species classification in underwater imagery](ai/research/arxiv-2606-25989.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.25989v1 Announce Type: cross Abstract: Automated classification of marine species from underwater imagery is essential for scalable ocean biodiversity monitoring and conservation policy. Existing approaches struggle with severe domain shif
@@ -25381,6 +26004,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.24622v1 Announce Type: new Abstract: Training safe Reinforcement Learning (RL) systems is inherently challenging, with no guarantee of avoiding unwanted behaviors. The most effective defenses against this are (i) transparency through expla
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.24622>
+
+* **[TheoremGraph: Bridging Formal and Informal Mathematics](ai/rag/arxiv-2606-25363.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.25363v1 Announce Type: cross Abstract: Mathematical knowledge is organized around statements and their dependencies, but this structure is exposed unevenly: informal papers cite mostly at the document level, while formal libraries record f
+  * Tags: `dataset`, `paper`, `rag`
+  * Source URL: <https://arxiv.org/abs/2606.25363>
 
 * **[Theoretical Grounding of Out-Of-Distribution Detection With Reinforcement Learning Optimizer](ai/research/arxiv-2606-17477.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.17477v1 Announce Type: cross Abstract: Out-of-distribution (OOD) detection in dynamic open-world environments requires a model to continually adapt to evolving data distributions while generalizing to covariate-shifted inputs and rejecting
@@ -26424,6 +27052,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/wan-ai>
 
+* **[Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models](ai/research/arxiv-2606-25041.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.25041v1 Announce Type: cross Abstract: We present Wan-Streamer, a native-streaming, end-to-end interactive foundation model designed from the ground up for real-time, low-latency, full-duplex audio-visual interaction. Wan-Streamer seamless
+  * Tags: `youtube`
+  * Source URL: <https://arxiv.org/abs/2606.25041>
+
 * **[WAND: Windowed Attention and Knowledge Distillation for Efficient Autoregressive Text-to-Speech Models](ai/research/arxiv-2604-08558.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2604.08558v2 Announce Type: replace-cross Abstract: Recent decoder-only autoregressive text-to-speech (AR-TTS) models produce high-fidelity speech, but their memory and compute costs scale quadratically with sequence length due to full self-att
   * Tags: `models`, `paper`
@@ -27001,10 +27634,20 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Zero-shot image-to-text generation with BLIP-2
   * Source URL: <https://huggingface.co/blog/blip-2>
 
+* **[Zero-Shot Neural Priors for Generalizable Cross-Subject and Cross-Task EEG Decoding](ai/research/arxiv-2606-23706.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.23706v1 Announce Type: cross Abstract: The development of generalizable electroencephalography (EEG) decoding models is essential for robust brain-computer interfaces (BCI) and objective neural biomarkers in mental health. Conventional app
+  * Tags: `benchmark`, `dataset`
+  * Source URL: <https://arxiv.org/abs/2606.23706>
+
 * **[Zero-Shot Test-Time Canonicalization using Out-of-Distribution Scoring](ai/research/arxiv-2606-24178.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24178v1 Announce Type: cross Abstract: Pretrained vision models often misclassify inputs that are rotated, scaled, or sheared, even though these affine transformations leave the object class unchanged. Robustness is usually restored either
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.24178>
+
+* **[ZeroWBC: Learning Natural Whole-Body Humanoid Interaction from Human Egocentric Data](ai/research/arxiv-2603-09170.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2603.09170v3 Announce Type: replace-cross Abstract: Achieving versatile and natural whole-body humanoid interaction control remains challenging due to the high cost of whole-body teleoperation data. We present ZeroWBC, a teleoperation-free fram
+  * Tags: `youtube`
+  * Source URL: <https://arxiv.org/abs/2603.09170>
 
 * **[Zeta: Dual Whitening for Matrix Optimization via Coordinate-Adaptive Preconditioning](ai/research/arxiv-2606-14187.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14187v2 Announce Type: replace Abstract: Large-scale neural network training increasingly relies on matrix-aware optimizers that exploit the structure of weight parameters beyond element-wise adaptation. However, existing matrix-aware meth
@@ -29670,6 +30313,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `models`
   * Source URL: <https://arxiv.org/abs/2606.24841>
 
+* **[nvidia / nvidia-nemotron-nano-9b-v2](ai/rag/nvidia-nvidia-nemotron-nano-9b-v2.md)** (`prompt` | `useful` tier)
+  * Summary: - **Hybrid Architecture**: Combines Mamba-2 and MLP layers with only 4 Attention layers, leveraging a Nemotron-Hybrid design for efficient reasoning and non-reasoning tasks. - **Reasoning Control**: Supports runtime reasoning budget control via syste
+  * Tags: `agents`, `benchmark`, `dataset`, `deepmind`, `hackernews`, `mistral`, `models`, `openai`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`
+  * Source URL: <https://docs.api.nvidia.com/nim/reference/nvidia-nvidia-nemotron-nano-9b-v2>
+
 * **[Priors Persist Through Suppression: A Stroop Paradigm for Lexical Override](ai/research/arxiv-2606-07555.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.07555v3 Announce Type: replace-cross Abstract: Glossaries, technical specifications, and system prompts routinely ask language models to use familiar words in unfamiliar ways. When this works, the local rule does not overwrite the old mean
   * Tags: `hackernews`, `youtube`
@@ -29699,6 +30347,15 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.23700v1 Announce Type: cross Abstract: Emergent misalignment (EM) has been linked to the activation of misaligned persona vectors and evil character traits, suggesting that EM operates through disruption of the model's aligned character ra
   * Tags: `dataset`, `models`, `openai`
   * Source URL: <https://arxiv.org/abs/2606.23700>
+
+* **[Stabilizing Black-Box Prompt Optimization with Textual Regularization and Signal Aggregation](ai/research/arxiv-2507-09839.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2507.09839v2 Announce Type: replace Abstract: An increasing number of NLP applications interact with large language models (LLMs) through black-box APIs, making prompt engineering critical for controlling model behavior. Recent Automatic Prompt
+  * Source URL: <https://arxiv.org/abs/2507.09839>
+
+* **[stanfordnlp/dspy](ai/resources/stanfordnlp-dspy.md)** (`framework` | `useful` tier)
+  * Summary: - **Programmatic LM Optimization**: DSPy introduces a framework that shifts from manual prompt engineering to programmatic optimization of language models, enabling automatic generation and tuning of prompts, instructions, and demonstrations for down
+  * Tags: `frontend_ui`, `github-repo`, `python`
+  * Source URL: <https://github.com/stanfordnlp/dspy>
 
 * **[STaR-DRO: Stateful Tsallis Reweighting for Group-Robust Structured Prediction](ai/rag/arxiv-2604-09737.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2604.09737v2 Announce Type: replace-cross Abstract: Structured prediction with large language models requires outputs that are label-accurate, ontology-constrained, structurally valid, and evidence-grounded under label imbalance and heterogeneo
@@ -30078,6 +30735,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `creative_dev`, `hackernews`, `producthunt`, `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://ctl.cornell.edu>
 
+* **[Home - O'Reilly Japan](ai/rag/home-o-reilly-japan.md)** (`tutorial` | `useful` tier)
+  * Summary: - **O'Reilly Learning Platform** provides access to technical content from over 60 trusted publishers (e.g., O'Reilly Media), enabling skill development in AI, cloud security, and engineering strategies via books, live training, and interactive learn
+  * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://www.oreilly.co.jp/index.shtml>
+
 * **[Import AI 459: AI oversight is difficult; scaling laws for protein folding models; and pricing the extinction risk of AI systems](ai/rag/import-ai-459-ai-oversight-is-difficult-scaling-la.md)** (`dataset` | `useful` tier)
   * Summary: Do you feel as though you are living in a revolution?
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `deepmind`, `hackernews`, `paper`, `rag`
@@ -30182,10 +30844,25 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `models`
   * Source URL: <https://arxiv.org/abs/2606.18598>
 
+* **[Own Your Impact At Dropbox | Dropbox Careers](ai/rag/own-your-impact-at-dropbox-dropbox-careers.md)** (`framework` | `useful` tier)
+  * Summary: - **AI-Enhanced Workplace**: Dropbox is transitioning from cloud storage to an AI-enhanced work platform, integrating AI-driven tools to redefine productivity and collaboration workflows. - **Virtual First Model**: Implements a "Virtual First" hybrid
+  * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://jobs.dropbox.com/>
+
 * **[Paying to Know: Micro-Transaction Markets for Verified Product Information in Agentic E-Commerce](ai/agents/arxiv-2606-24783.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24783v1 Announce Type: cross Abstract: Commercial NLP treats the shopping chatbot as a recommender or a conversion tool: its job is to match a user to a catalogue entry and close a sale. We argue that the arrival of agent-native micro-paym
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.24783>
+
+* **[Platform Marketplace](ai/rag/platform-marketplace.md)** (`framework` | `useful` tier)
+  * Summary: - **Marketplace APIs & Licensing**: Provides REST API v2, Java client tutorials, in-product license API, and Connect framework for app integration, licensing, and marketplace operations. - **App Development & Launch Pipeline**: Offers structured onbo
+  * Tags: `agents`, `benchmark`, `hackernews`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://developer.atlassian.com/platform/marketplace>
+
+* **[Program on Energy and Sustainable Development – Medium](ai/resources/program-on-energy-and-sustainable-development-medi.md)** (`framework` | `useful` tier)
+  * Summary: - **Carbon pricing mechanisms** (e.g., cap-and-trade or carbon taxes) are proposed as cost-effective tools to reduce U.S. greenhouse gas emissions by internalizing externalities, incentivizing low-carbon innovation, and ensuring market-driven complia
+  * Tags: `web-crawled`
+  * Source URL: <https://medium.com/@PESDStanford>
 
 * **[Public transit gains and spatially uneven travel demand changes after NYC congestion pricing](ai/research/arxiv-2606-17530.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.17530v1 Announce Type: cross Abstract: New York City implemented the nation's first cordon-based congestion pricing program in January 2025, providing an opportunity to evaluate how system-wide urban mobility responds to large-scale pricin
@@ -30982,10 +31659,40 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.24601>
 
+* **[AsciiDoc](ai/rag/asciidoc.md)** (`tutorial` | `useful` tier)
+  * Summary: - **AsciiDoc** is a plain-text markup language designed for technical content, offering semantic elements, modularization, and multi-format publishing (e.g., HTML, PDF, slides) while supporting version control integration. - **Syntax comparison**: As
+  * Tags: `hackernews`, `producthunt`, `rag`, `web-crawled`
+  * Source URL: <https://asciidoc.org>
+
+* **[Asciidoctor | A fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocB](ai/rag/asciidoctor-a-fast-open-source-text-processor-and.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Processor & Language**: Asciidoctor is a fast, open-source Ruby-based text processor that converts AsciiDoc markup into structured document models and outputs formats like HTML5, DocBook 5, PDF, EPUB 3, and man pages. - **Multi-Platform Support**
+  * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://asciidoctor.org>
+
+* **[ASCR Physicists Uncover the Secr... | U.S. DOE Office of Science(SC)](ai/rag/ascr-physicists-uncover-the-secr-u-s-doe-office-of.md)** (`framework` | `useful` tier)
+  * Summary: - **Strong electron-phonon coupling** in copper-based superconductors leads to abrupt changes in material behavior, as revealed by Summit supercomputer simulations of millions of particle states. - **Self-energy framework** developed to model electro
+  * Tags: `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://science.osti.gov/ascr/Highlights/2022/ASCR-2022-02-a>
+
+* **[Astro on Netlify | Netlify Docs](ai/rag/astro-on-netlify-netlify-docs.md)** (`template` | `useful` tier)
+  * Summary: - **Demo Repo & Site**: GitHub repository ([astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter)) and live demo ([astro-platform-starter.netlify.app](https://astro-platform-starter.netlify.app/)) showcase Astro site im
+  * Tags: `rag`, `web-crawled`
+  * Source URL: <https://docs.netlify.com/frameworks/astro>
+
 * **[ASymPO: Asymmetric-Scale Policy Optimization for Asynchronous LLM Post-Training Without Behavior Information](ai/rag/arxiv-2606-03070.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.03070v3 Announce Type: replace-cross Abstract: Asynchronous reinforcement learning can improve language-model post-training throughput by decoupling response generation from policy optimization, but stale responses introduce distribution d
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2606.03070>
+
+* **[AT Protocol](ai/rag/at-protocol.md)** (`tutorial` | `useful` tier)
+  * Summary: - **JSON-based Data Network**: AT Protocol represents all entities (posts, likes, follows, profiles) as strongly typed JSON records, enabling schema-based composition and extension via shared Lexicons. - **Decentralized Identity & Hyperlinking**: Use
+  * Tags: `agents`, `rag`, `web-crawled`, `youtube`
+  * Source URL: <https://atproto.com>
+
+* **[Atlassian Customer Agreement | Atlassian](ai/rag/atlassian-customer-agreement-atlassian.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Scope & Compliance**: Atlassian Customer Agreement governs all Cloud/Software Products, aligning with enterprise-level controls (e.g., ISO, SOC2) and requiring customer compliance with documented usage policies, including restrictions on redistri
+  * Tags: `agents`, `benchmark`, `hackernews`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://www.atlassian.com/legal/cloud-terms-of-service>
 
 * **[Attention Expansion: Enhancing Keyphrase Extraction from Long Documents with Attention-Augmented Contextualized Embeddings](ai/rag/arxiv-2606-10716.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.10716v2 Announce Type: replace-cross Abstract: Pre-trained language models (PLMs) have achieved strong performance in keyphrase extraction (KPE), largely due to their ability to generate rich contextualized representations. However, long-d
@@ -31207,9 +31914,14 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.24084>
 
-* **[Blog | RAGFlow](ai/rag/blog-ragflow.md)** (`template` | `useful` tier)
-  * Summary: - **API & Model Provider Refactoring**: Unified interface for LLM providers (e.g., OpenAI, Anthropic, local models) with standardized input/output handling; introduced provider-specific adapters for seamless integration and reduced boilerplate. - **I
-  * Tags: `anthropic`, `hackernews`, `openai`, `rag`, `web-crawled`
+* **[Blog](ai/rag/blog.md)** (`framework` | `useful` tier)
+  * Summary: - **Haystack Enterprise Platform**: Unifies deepset's enterprise AI offerings under a single framework, enabling managed MCP tool integration for production-grade AI agent pipelines with composable toolkits. - **Harness Engineering**: Focuses on syst
+  * Tags: `agents`, `hackernews`, `paper`, `producthunt`, `rag`, `web-crawled`
+  * Source URL: <https://www.deepset.ai/blog>
+
+* **[Blog | RAGFlow](ai/rag/blog-ragflow.md)** (`tutorial` | `useful` tier)
+  * Summary: - **API & Model Provider Refactoring**: Unified interface for LLM providers (e.g., OpenAI, Anthropic) with modular architecture for extensibility; supports dynamic model switching and fallback mechanisms. - **Incremental Data Sources**: Implemented d
+  * Tags: `anthropic`, `openai`, `rag`, `web-crawled`
   * Source URL: <https://ragflow.io/blog>
 
 * **[BluTrain: A C++/CUDA Framework for AI Systems](ai/rag/arxiv-2606-24780.md)** (`framework` | `useful` tier)
@@ -31252,6 +31964,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `rag`
   * Source URL: <https://arxiv.org/abs/2604.00316>
 
+* **[Brev.dev Console](ai/rag/brev-dev-console.md)** (`framework` | `useful` tier)
+  * Summary: - **Client-Side Requirement**: The application mandates JavaScript execution in the user's browser to render content and enable interactivity. - **Dependency Indication**: The message suggests a dependency on JavaScript-based frameworks or libraries
+  * Tags: `frontend_ui`, `rag`, `web-crawled`
+  * Source URL: <https://brev.nvidia.com/environment/new/public>
+
 * **[BRICKS-WM: Building Reusability via Interface Composition Kinetics for Structured World Models](ai/rag/arxiv-2606-16489.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.16489v1 Announce Type: new Abstract: Model-based Reinforcement Learning (MBRL) has achieved remarkable success in continuous control by leveraging latent world models. However, prevailing approaches typically rely on monolithic latent dyna
   * Tags: `agents`, `rag`
@@ -31267,8 +31984,18 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.25761>
 
-* **[Build a RAG agent with LangChain - Docs by LangChain](ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md)** (`prompt` | `useful` tier)
-  * Summary: On this pageOverviewConceptsPreviewSetupInstallationLangSmithComponents1. IndexingLoading documentsSplitting documentsStoring documents2. Retrieval and generationRAG agentsRAG chainsSecurity: indirect prompt injectionNext stepsTutorialsLangChainBuild
+* **[Browse Chrome as a guest - Computer - Google Chrome Help](ai/rag/browse-chrome-as-a-guest-computer-google-chrome-he.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Guest mode** in Chrome prevents local storage of browsing history, cookies, and site data, ensuring no traces remain on the host machine after session termination. - **Session isolation** restricts access to other Chrome profiles and prevents mod
+  * Tags: `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://support.google.com/chrome/answer/6130773?hl=en-US>
+
+* **[Bugs : Snapcraft](ai/rag/bugs-snapcraft.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Critical Bug #1921397**: Snapcraft fails to build snaps when the Snap Store is unavailable, causing complete build failure due to dependency on external store services. - **High Bug #1615242**: The `etcd` tree plugin causes excessive resource usa
+  * Tags: `producthunt`, `rag`, `reddit`, `web-crawled`, `youtube`
+  * Source URL: <https://bugs.launchpad.net/snapcraft>
+
+* **[Build a RAG agent with LangChain - Docs by LangChain](ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md)** (`benchmark` | `useful` tier)
+  * Summary: * RAG indexing pipelines ingest unstructured data by loading it into `Document` objects, chunking with `RecursiveCharacterTextSplitter`, embedding via an `Embeddings` model, and persisting in a `VectorStore` for efficient semantic retrieval. * Retrie
   * Tags: `agents`, `anthropic`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `reddit`, `web-crawled`
   * Source URL: <https://docs.langchain.com/oss/python/langchain/rag>
 
@@ -31472,6 +32199,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `models`, `rag`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.24636>
 
+* **[Cinemachine package | Cinemachine | 3.1.7](ai/rag/cinemachine-package-cinemachine-3-1-7.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Modular Camera Control Suite**: Cinemachine provides procedural modules for real-time camera tracking, composition, blending, and shot transitions, eliminating manual scripting and dynamic adjustments for changes in scene elements (e.g., animatio
+  * Tags: `rag`, `web-crawled`
+  * Source URL: <https://docs.unity3d.com/Packages/com.unity.cinemachine@3.1/manual/index.html>
+
 * **[CineOrchestra: Unified Entity-Centric Conditioning for Cinematic Video Generation](ai/rag/arxiv-2606-13768.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.13768v2 Announce Type: replace-cross Abstract: Cinematic video depicts multiple subjects acting or interacting at specific moments, captured with deliberate camera movement, and stitched together by shot transitions. Together, these elemen
   * Tags: `benchmark`, `rag`, `youtube`
@@ -31536,6 +32268,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.24192v1 Announce Type: cross Abstract: Unlearning has emerged as a key technique to mitigate harmful content generation in diffusion models. However, existing methods often remove not only the target concept, but also benign co-occurring c
   * Tags: `hackernews`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.24192>
+
+* **[co.combinatorics - Minimum number of sets - MathOverflow](ai/rag/co-combinatorics-minimum-number-of-sets-mathoverfl.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Counterexample exists for m=7**: The family $\mathcal{F}$ with $|\mathcal{F}_{\{1,2\}}| + |\mathcal{F}_{\{1,3\}}| + |\mathcal{F}_{\{2,3\}}| + |\mathcal{F}_{\{1,2,3\}}| = 9 < 10 = m+3$ disproves the claim. - **Structure of $\mathcal{F}$**: $\mathc
+  * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://mathoverflow.net/questions/512566/minimum-number-of-sets>
 
 * **[Code a simple RAG from scratch](ai/rag/code-a-simple-rag-from-scratch.md)** (`tutorial` | `useful` tier)
   * Summary: - **Model Specifications**: `bge-base-en-v1.5-gguf` is a quantized (GGUF format) English text embedding model with ~0.1B parameters, derived from the BAAI General Embedding (BGE) architecture. - **Optimization**: Uses GGUF quantization for efficient
@@ -31616,6 +32353,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.24467v1 Announce Type: new Abstract: Long-context large language model (LLM) inference is increasingly constrained by the memory footprint and decoding cost of key-value (KV) caches, limiting sustainable deployment on resource-constrained
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2606.24467>
+
+* **[computability - Does there exist a predictor that eventually predicts every computable binary sequence? - Theoretical Co](ai/rag/computability-does-there-exist-a-predictor-that-ev.md)** (`tutorial` | `useful` tier)
+  * Summary: - **No universal partial predictor exists**: A diagonalization argument constructs a computable binary sequence that a given predictor $P$ fails to predict infinitely often, even if $P$ is partial, by iteratively forcing $P$ to make an incorrect pred
+  * Tags: `hackernews`, `rag`, `reddit`, `scripts`, `web-crawled`
+  * Source URL: <https://cstheory.stackexchange.com/questions/57162/does-there-exist-a-predictor-that-eventually-predicts-every-computable-binary-se>
+
+* **[ConardLi/garden-skills](ai/rag/conardli-garden-skills.md)** (`framework` | `useful` tier)
+  * Summary: - **Repository Overview**: Open-source collection by ConardLi covering web design, knowledge retrieval, image generation, and other technical skills. - **Technical Stack**: Primarily implemented in CSS, with additional tools/utilities for RAG (Retrie
+  * Tags: `agents`, `anthropic`, `css`, `github-repo`, `hackernews`, `rag`
+  * Source URL: <https://github.com/ConardLi/garden-skills>
 
 * **[Concatenated Matrix SVD: Compression Bounds, Incremental Approximation, and Error-Constrained Clustering](ai/rag/arxiv-2601-11626.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.11626v2 Announce Type: replace-cross Abstract: Large collections of matrices arise throughout modern machine learning, signal processing, and scientific computing, where they are commonly compressed by concatenation followed by truncated s
@@ -31807,6 +32554,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2603.12120>
 
+* **[crazyaiml/nl-2-sql-agent](ai/rag/crazyaiml-nl-2-sql-agent.md)** (`tool` | `useful` tier)
+  * Summary: - **Schema & Context Learning**: Implements an iterative NL-to-SQL agent that dynamically learns database schema and domain context to generate analytical SQL queries. - **Guarded Reasoning**: Uses evidence-backed SQL generation with iterative refine
+  * Tags: `agents`, `frontend_ui`, `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/crazyaiml/nl-2-sql-agent>
+
 * **[CreativeBench: Benchmarking and Enhancing Machine Creativity via Self-Evolving Challenges](ai/rag/arxiv-2603-11863.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2603.11863v2 Announce Type: replace Abstract: The saturation of high-quality pre-training data has shifted research focus toward evolutionary systems capable of continuously generating novel artifacts, leading to the success of AlphaEvolve. How
   * Tags: `benchmark`, `models`, `rag`
@@ -31816,6 +32568,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: 1. Too Many Agents Beginners build 7-agent crews because the demo videos do. Don't. Each agent adds an LLM call, a coordination point, and a failure mode. Rule: Start with 2 agents. Add a 3rd only when you can name a clear failure mode the new agent
   * Tags: `agents`, `models`, `openai`, `rag`, `scripts`, `web-crawled`, `youtube`
   * Source URL: <https://www.devshelfhub.com/tutorials/crewai/best-practices>
+
+* **[crewAIInc/crewAI Release: 1.14.8a5](ai/rag/crewaiinc-crewai.md)** (`tutorial` | `useful` tier)
+  * Summary: ## What's Changed
+  * Tags: `agents`, `crewaiinc-crewai`, `github-release`
+  * Source URL: <https://github.com/crewaiinc/crewai>
 
 * **[Critically Engaged Pragmatism: Scientific Norm and Social, Pragmatist Epistemology for AI Science Evaluation Tools](ai/rag/arxiv-2601-09753.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.09753v2 Announce Type: replace-cross Abstract: AI science evaluation tools aim to assess research credibility. As with traditional metrics such as impact factors, their edicts can be decontextualised and repurposed in problematic ways. To
@@ -31922,6 +32679,26 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `github-repo`, `hackernews`, `python`, `rag`, `reddit`
   * Source URL: <https://github.com/dannyblaker/rag-tutorial>
 
+* **[Daring Fireball: Markdown Syntax Documentation](ai/rag/daring-fireball-markdown-syntax-documentation.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Markdown Syntax Design**: Prioritizes human-readable plain text formatting using punctuation (e.g., `*emphasis*`, `# Headers`) while allowing seamless inline HTML for unsupported elements, ensuring compatibility with web publishing without comple
+  * Tags: `agents`, `hackernews`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://daringfireball.net/projects/markdown/syntax>
+
+* **[DartPad](ai/rag/dartpad.md)** (`framework` | `useful` tier)
+  * Summary: - **Cookie Consent Mechanisms**: Websites implement mechanisms (e.g., banners, pop-ups) to obtain user consent for cookie usage, often requiring explicit opt-in/opt-out controls per cookie category (strictly necessary, performance, functional, target
+  * Tags: `rag`, `web-crawled`
+  * Source URL: <https://dartpad.dev/?id=1ab1b78a18039bbbd5cfbb4b835b5b8d>
+
+* **[Data Augmentation: A Fourier Analysis Perspective](ai/rag/arxiv-2606-24418.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.24418v1 Announce Type: new Abstract: Data augmentation is a simple and model-agnostic approach for exploiting known invariances in learning problems. Given a group acting on the input space, one augments the training set with transformed c
+  * Tags: `rag`
+  * Source URL: <https://arxiv.org/abs/2606.24418>
+
+* **[Data Intelligence Lab@HKU](ai/rag/data-intelligence-lab-hku.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Research Focus**: Data Intelligence Lab@HKU, led by Chao Huang, specializes in **Large Language Models (LLMs)**, **Autonomous Agents**, **Graph Learning**, **Recommender Systems**, and **AI for Smart Cities**, with open-source contributions via [
+  * Tags: `agents`, `hackernews`, `paper`, `rag`, `reddit`, `web-crawled`, `youtube`
+  * Source URL: <https://sites.google.com/view/chaoh>
+
 * **[Data Scale, Not Latency, Shapes Cross-Lingual Encoder Transfer in Streaming ASR](ai/rag/arxiv-2606-24169.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24169v1 Announce Type: new Abstract: Adapting a streaming speech recognition model to a new language requires choosing between two plausible warm starts: a multilingual (ML) encoder or an English-only (EN) encoder. The common intuition is
   * Tags: `models`, `rag`
@@ -31976,6 +32753,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2502.08266v4 Announce Type: replace-cross Abstract: Hate speech detection is a crucial task, especially on social media where harmful content can spread quickly. Collecting social media content (tweets etc.) to train machine learning models is
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2502.08266>
+
+* **[Dear PyGui’s Documentation — Dear PyGui documentation](ai/rag/dear-pyguis-documentation-dear-pygui-documentation.md)** (`framework` | `useful` tier)
+  * Summary: - **GPU-Accelerated GUI Framework**: Dear PyGui (DPG) is a dynamic, cross-platform GUI toolkit leveraging GPU acceleration via Dear ImGui, supporting traditional elements (buttons, menus) and advanced features like dynamic plots, tables, and drawings
+  * Tags: `rag`, `web-crawled`, `youtube`
+  * Source URL: <https://dearpygui.readthedocs.io/en/latest>
 
 * **[Decentralised AI Training and Inference with BlockTrain](ai/rag/arxiv-2606-24722.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24722v1 Announce Type: new Abstract: Frontier AI training is increasingly shaped by access to dense, centrally controlled accelerator clusters. This creates a structural advantage for hyperscalers and large centralized laboratories, and ma
@@ -32117,15 +32899,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `web-crawled`
   * Source URL: <https://labs.cloudflare.dev>
 
+* **[Developing your AI BS detector (v2) - Adam Drake](ai/rag/developing-your-ai-bs-detector-v2-adam-drake.md)** (`framework` | `useful` tier)
+  * Summary: - **AI as task automation**: AI should be framed as automation of specific tasks (toil reduction), not a mystical solution; its value lies in replacing repetitive human work with scalable, cost-efficient processes. - **Red flags in AI claims**: - **A
+  * Tags: `creative_dev`, `hackernews`, `paper`, `rag`, `scripts`, `web-crawled`
+  * Source URL: <https://adamdrake.com/developing-your-ai-bs-detector-v2.html>
+
 * **[Diagnosing and Mitigating Compounding Failures in Agentic Persuasion via Taxonomic Strategy Retrieval](ai/rag/arxiv-2606-24976.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24976v1 Announce Type: cross Abstract: Foundation-model agents in multi-step, open-ended environments frequently suffer from compounding errors, where early mistakes contaminate long-horizon trajectories. While Multi-Agent Debate (MAD) suc
   * Tags: `agents`, `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.24976>
-
-* **[didilili/ai-agents-from-zero](ai/rag/didilili-ai-agents-from-zero.md)** (`framework` | `useful` tier)
-  * Summary: 🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径 + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化
-  * Tags: `agents`, `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/didilili/ai-agents-from-zero>
 
 * **[DiffCold: A Diffusion-based Generative Model for Cold-Start Item Recommendation](ai/rag/arxiv-2606-12245.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.12245v1 Announce Type: cross Abstract: Cold-start item recommendation remains a persistent challenge in real-world systems due to the absence of interaction histories. While prior models attempt to bridge this gap using item content featur
@@ -32387,10 +33169,35 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2602.20958>
 
+* **[Electricity Maps: The world's most comprehensive electricity data platform](ai/rag/electricity-maps-the-world-s-most-comprehensive-el.md)** (`dataset` | `useful` tier)
+  * Summary: - **Comprehensive Grid Data Platform**: Aggregates historical, real-time, and forecasted electricity grid data, including emissions and flexibility metrics, via a unified API for sustainability and power market analysis. - **Specialized Forecasting &
+  * Tags: `hackernews`, `rag`, `web-crawled`
+  * Source URL: <https://electricitymaps.com>
+
+* **[electron/electron](ai/rag/electron-electron.md)** (`framework` | `useful` tier)
+  * Summary: - **Cross-platform desktop app framework** leveraging Chromium, Node.js, and V8 to enable JavaScript/HTML/CSS-based applications with native OS integration. - **Core architecture** combines a minimal Chromium distribution with Node.js bindings, expos
+  * Tags: `c++`, `github-repo`, `rag`
+  * Source URL: <https://github.com/electron/electron>
+
+* **[elizaOS/eliza](ai/rag/elizaos-eliza.md)** (`framework` | `useful` tier)
+  * Summary: - **Agentic OS Framework**: Open-source TypeScript-based system enabling autonomous AI agents with plugin support for extensibility. - **Multi-Platform Integration**: Supports Discord, Slack, Telegram, and crypto/native agent interactions via modular
+  * Tags: `agents`, `github-repo`, `rag`, `typescript`
+  * Source URL: <https://github.com/elizaOS/eliza>
+
+* **[Elo-Disentangled Player-Style Embeddings for Human Chess via Rating-Conditioned Residual Move Model](ai/rag/arxiv-2606-25176.md)** (`benchmark` | `useful` tier)
+  * Summary: arXiv:2606.25176v1 Announce Type: new Abstract: We study representation learning for individual human chess style: a per-player embedding learned from a player's move history such that inner products measure stylistic similarity, while being approxim
+  * Tags: `benchmark`, `models`, `rag`
+  * Source URL: <https://arxiv.org/abs/2606.25176>
+
 * **[EMAgnet: Parameter-Space EMA Regularization for Policy Gradient Self-Play in Large Games](ai/rag/arxiv-2606-23995.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.23995v1 Announce Type: cross Abstract: Recent work has established that regularized policy gradient methods such as PPO, when used in self-play, can match or exceed specialized game-theoretic algorithms for solving two-player zero-sum impe
   * Tags: `agents`, `benchmark`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.23995>
+
+* **[EmotionAI: A Privacy-Preserving Computational Intelligence Pipeline for Speech-Emotion-Grounded Conversational Analysis](ai/rag/arxiv-2606-24941.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.24941v1 Announce Type: cross Abstract: Reviewing recorded interviews for affective cues such as composure, hesitation and agitation is slow and subjective, and cloud services that could automate it require sensitive audio to leave the devi
+  * Tags: `benchmark`, `rag`
+  * Source URL: <https://arxiv.org/abs/2606.24941>
 
 * **[EMS: Multi-Agent Voting via Efficient Majority-then-Stopping](ai/rag/arxiv-2604-02863.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2604.02863v2 Announce Type: replace Abstract: Majority voting is the standard for aggregating multi-agent responses into a final decision. However, traditional methods typically require all agents to complete their reasoning before aggregation
@@ -32576,6 +33383,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.17073v1 Announce Type: cross Abstract: While commonsense knowledge may suffice for virtual agents, embodied robots interacting with humans require grounded and semantically rich representations of both their environment and their own physi
   * Tags: `agents`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.17073>
+
+* **[Failure Modes of Large Language Models on Research-Level Mathematics: A Taxonomy and an Empirical Characterisation](ai/rag/arxiv-2606-24902.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.24902v1 Announce Type: cross Abstract: The "First Proof" benchmark [1] posed ten research-level mathematics questions to the strongest publicly available LLMs and found them consistently wrong-not silent, but confidently, fluently wrong. T
+  * Tags: `benchmark`, `paper`, `rag`
+  * Source URL: <https://arxiv.org/abs/2606.24902>
 
 * **[Faithful by Construction: Claim-Anchored Attribution for Multi-Document Summarization](ai/rag/arxiv-2606-23989.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.23989v1 Announce Type: cross Abstract: End-to-end large language models (LLMs) produce fluent multi-document summaries but remain prone to hallucination, and the attributions they offer are typically coarse (whole documents or passages) an
@@ -33152,6 +33964,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `hackernews`, `meta-ai`, `models`, `rag`, `web-crawled`, `youtube`
   * Source URL: <https://watch.getcontrast.io/register/building-retrieval-harness-for-enterprise-agents>
 
+* **[Grokipedia](ai/rag/grokipedia.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Transformer Architecture**: Introduced in "Attention Is All You Need" (2017), the Transformer model revolutionized NLP by replacing recurrent layers with self-attention mechanisms, enabling parallelization and scalability for tasks like machine t
+  * Tags: `agents`, `rag`, `web-crawled`
+  * Source URL: <https://grokipedia.com>
+
 * **[Grounded Chess Reasoning in Language Models via Master Distillation](ai/rag/arxiv-2603-20510.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2603.20510v2 Announce Type: replace Abstract: Language models often lack grounded reasoning capabilities in specialized domains where training data is scarce but bespoke systems excel. We introduce a general framework for distilling expert syst
   * Tags: `models`, `rag`
@@ -33207,6 +34024,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2601.06572>
 
+* **[Helping kids and teens learn and grow online on Safer Internet Day](ai/rag/helping-kids-and-teens-learn-and-grow-online-on-sa.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Enhanced Parental Controls**: Google Family Link now consolidates device management into a single interface with usage summaries, time limits, and adjustable controls; YouTube introduces streamlined supervised account creation, Shorts time limits
+  * Tags: `hackernews`, `models`, `producthunt`, `rag`, `reddit`, `web-crawled`, `youtube`
+  * Source URL: <https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens>
+
 * **[Heterogeneous 2D/1D Signal Representation Fusion for Underwater Acoustic Modulation Recognition Under Distribution Shift](ai/rag/arxiv-2606-23702.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2606.23702v1 Announce Type: cross Abstract: Modulation recognition systems rely on heterogeneous signal representations. 2D signal-image modalities such as time-frequency and cyclostationary maps capture structural patterns, while 1D statistica
   * Tags: `benchmark`, `paper`, `rag`
@@ -33226,6 +34048,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.26002v1 Announce Type: new Abstract: We present HiReLC, a hierarchical ensemble-reinforcement learning framework for automated joint quantization and structured pruning of deep neural networks. The framework decomposes the compression sear
   * Tags: `agents`, `benchmark`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.26002>
+
+* **[High Priority Free Software Projects — Free Software Foundation — Working together for free software](ai/rag/high-priority-free-software-projects-free-software.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Free Phone OS Development**: Critical need for fully free, open-source mobile operating systems to replace proprietary platforms, ensuring software freedom across widely used personal computers. - **Decentralized & Self-Hosted Infrastructure**: F
+  * Tags: `benchmark`, `hackernews`, `producthunt`, `rag`, `reddit`, `web-crawled`, `youtube`
+  * Source URL: <http://www.fsf.org/campaigns/priority-projects>
 
 * **[HiGR: Industrial-Scale Hierarchical Generative Slate Recommendation Framework in Tencent](ai/rag/arxiv-2512-24787.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2512.24787v5 Announce Type: replace-cross Abstract: Slate recommendation, which presents users with a ranked item list in a single display, is ubiquitous across mainstream online platforms. While recent generative recommendation methods have sh
@@ -33272,10 +34099,20 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `models`, `rag`, `reddit`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.12280>
 
+* **[Holistic Data Scheduler for LLM Pre-training via Multi-Objective Reinforcement Learning](ai/rag/arxiv-2606-24133.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.24133v1 Announce Type: new Abstract: The composition of training data, governed by the diversity of sources and their mixing strategy, is a cornerstone of Large Language Model (LLM) pre-training. Online Data Mixing (ODM), the technique of
+  * Tags: `benchmark`, `hackernews`, `rag`
+  * Source URL: <https://arxiv.org/abs/2606.24133>
+
 * **[Holographic Memory for Zero-Shot Compositional Reasoning in Knowledge Graphs: A Mechanistic Study of Where and Why It Fails](ai/rag/arxiv-2606-24948.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.24948v1 Announce Type: new Abstract: Knowledge graph embedding (KGE) models predict single-hop links well but have no mechanism for zero-shot compositional queries: multi-hop questions whose relation chains never appeared during training.
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2606.24948>
+
+* **[Home - Coalition for Secure AI](ai/rag/home-coalition-for-secure-ai.md)** (`framework` | `useful` tier)
+  * Summary: - **CoSAI** is an OASIS Open initiative uniting industry/academia to standardize secure AI development via collaborative research, open-source tooling, and best practices across four workstreams: AI software supply chain security, defender readiness,
+  * Tags: `agents`, `anthropic`, `hackernews`, `openai`, `paper`, `producthunt`, `rag`, `web-crawled`
+  * Source URL: <https://www.coalitionforsecureai.org/>
 
 * **[home - h-node.org](ai/rag/home-h-node-org.md)** (`tutorial` | `useful` tier)
   * Summary: - **Objective**: h-node is a collaborative, wiki-style hardware database identifying devices compatible with fully free operating systems (e.g., FSF-endorsed GNU/Linux distros) by testing with free drivers/firmware only (e.g., Debian `main` archive,
@@ -33366,6 +34203,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.25487v1 Announce Type: cross Abstract: Almost every paper on LLM jailbreaks and prompt injection reports an attack-success rate (ASR), and that number is assigned not by people but by an automated judge: either a safety classifier trained
   * Tags: `models`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.25487>
+
+* **[How Small Can 6G Reason? Scaling Tiny-to-Small Language Models for AI-Native Networks](ai/rag/arxiv-2603-02156.md)** (`benchmark` | `useful` tier)
+  * Summary: arXiv:2603.02156v2 Announce Type: replace-cross Abstract: Emerging 6G visions, reflected in ongoing standardization efforts within 3GPP, IETF, ETSI, ITU-T, and the O-RAN Alliance, increasingly characterize networks as AI-native systems in which high-
+  * Tags: `benchmark`, `meta-ai`, `models`, `paper`, `rag`
+  * Source URL: <https://arxiv.org/abs/2603.02156>
+
+* **[How to Create and Manage API Keys - Affinity Help Center](ai/rag/how-to-create-and-manage-api-keys-affinity-help-ce.md)** (`tutorial` | `useful` tier)
+  * Summary: - **API Key Lifecycle Management**: Process includes creation (with mandatory name/description), secure secret storage (single-display), and immediate revocation with audit trail visibility in Manage Apps interface. - **Permission & Security Constrai
+  * Tags: `frontend_ui`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://support.affinity.co/s/article/How-to-Create-and-Manage-API-Keys>
 
 * **[How to Improve RAG Performance: 5 Key Techniques with Examples | DataCamp](ai/rag/how-to-improve-rag-performance-5-key-techniques-wi.md)** (`tutorial` | `useful` tier)
   * Summary: CourseLarge Language Models (LLMs) Concepts2 hr98.8KDiscover the full potential of LLMs with our conceptual course covering LLM applications, training methodologies, ethical considerations, and latest research.See DetailsRight ArrowStart Course
@@ -33511,6 +34358,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2602.06470v3 Announce Type: replace-cross Abstract: Scaling training data and model parameters has long driven progress in large language models (LLMs), but this paradigm is increasingly constrained by the scarcity of high-quality data and dimi
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2602.06470>
+
+* **[Improving AI labels for viewers and creators - YouTube Blog](ai/rag/improving-ai-labels-for-viewers-and-creators-youtu.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Label Placement Enhancement**: AI disclosure labels for photorealistic/meaningfully altered content now appear prominently below the video player (long-form) or as an overlay (Shorts), replacing prior less visible placements. - **Automated AI Det
+  * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `youtube`
+  * Source URL: <https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators>
 
 * **[Improving Factuality of 3D Brain MRI Report Generation with Paired Image-domain Retrieval and Text-domain Augmentation](ai/rag/arxiv-2411-15490.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2411.15490v2 Announce Type: replace-cross Abstract: Acute ischemic stroke (AIS) requires time-critical decision-making, where inaccurate interpretation of neuroimaging findings can lead to irreversible disability. Diffusion-weighted imaging (DW
@@ -33812,11 +34664,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.24669>
 
-* **[lancedb/vectordb-recipes](ai/rag/lancedb-vectordb-recipes.md)** (`tutorial` | `useful` tier)
-  * Summary: Resource, examples & tutorials for multimodal AI, RAG and agents using vector search and LLMs
-  * Tags: `agents`, `github-repo`, `jupyter notebook`, `meta-ai`, `models`, `openai`, `rag`
-  * Source URL: <https://github.com/lancedb/vectordb-recipes>
-
 * **[LangChain Reference Docs](ai/rag/langchain-reference-docs.md)** (`tutorial` | `useful` tier)
   * Summary: - **Comprehensive API Coverage**: Unified reference documentation spanning LangChain, LangGraph, Deep Agents, LangSmith, and their integrations, with support for both Python and TypeScript ecosystems. - **Structured Technical Details**: Organized by
   * Tags: `agents`, `hackernews`, `rag`, `web-crawled`
@@ -33971,6 +34818,26 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.16428v2 Announce Type: replace-cross Abstract: Effective personalized AI-assisted learning demands systems that can not only generate accurate learner-specific educational materials, but also dynamically adapt their instruction to diverse
   * Tags: `agents`, `rag`, `scripts`
   * Source URL: <https://arxiv.org/abs/2606.16428>
+
+* **[Legal - App Store & Privacy- Apple](ai/rag/legal-app-store-privacy-apple.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Data Collection & Personalization**: Apple collects account, purchase, and device usage data (e.g., searches, downloads, device trust score) to personalize App Store experiences, recommend content, and serve targeted ads, with opt-out options ava
+  * Tags: `hackernews`, `producthunt`, `rag`, `web-crawled`
+  * Source URL: <https://www.apple.com/legal/privacy/data/en/app-store>
+
+* **[Legal - Hardware Warranties - Apple](ai/rag/legal-hardware-warranties-apple.md)** (`tutorial` | `useful` tier)
+  * Summary: - Apple's Limited Warranty supplements consumer protection laws but does not supersede them; additional rights may apply based on local regulations. - Warranty coverage is exclusive to Apple/Beats-branded products; third-party accessories lack Apple
+  * Tags: `rag`, `web-crawled`
+  * Source URL: <https://www.apple.com/legal/warranty>
+
+* **[Legal - Privacy Policy - Apple](ai/rag/legal-privacy-policy-apple.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Privacy Commitment**: Apple outlines its dedication to user privacy, detailing data collection, usage, disclosure, transfer, and storage practices in its Customer Privacy Policy. - **Data Management**: Users can access and manage their Apple data
+  * Tags: `hackernews`, `rag`, `web-crawled`
+  * Source URL: <https://www.apple.com/legal/privacy>
+
+* **[Legal - Trademark guidelines — Claris](ai/rag/legal-trademark-guidelines-claris.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Usage Rights**: Unauthorized commercial use of Claris trademarks (e.g., logos) without written consent may constitute trademark infringement; referential use (without logos) is permitted under strict guidelines, including proper attribution, non-
+  * Tags: `hackernews`, `rag`, `web-crawled`
+  * Source URL: <http://www.filemaker.com/company/legal/trademark_guidelines.html>
 
 * **[LemonHarness Technical Report](ai/rag/arxiv-2606-24311.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24311v1 Announce Type: new Abstract: As large language model (LLM) agents are applied to longer tasks, they increasingly modify workspace state across multiple rounds of iteration. However, agents typically observe only tool outputs and lo
@@ -34290,11 +35157,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2601.03785v3 Announce Type: replace-cross Abstract: Long-term human-agent dialogues are organized by topic continuity: adjacent turns often develop the same goal, plan, problem, or event, while related activities may recur across distant sessio
   * Tags: `agents`, `models`, `openai`, `rag`
   * Source URL: <https://arxiv.org/abs/2601.03785>
-
-* **[Memory-Efficient Policy Libraries with Low-Rank Adaptation in Reinforcement Learning](ai/rag/arxiv-2606-25700.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2606.25700v1 Announce Type: new Abstract: When fine-tuning Large Language Models (LLMs), there has been success in minimizing both memory usage and computation with Parameter-Efficient Fine-Tuning (PEFT), like Low Rank Adaptation (LoRA). In thi
-  * Tags: `models`, `rag`
-  * Source URL: <https://arxiv.org/abs/2606.25700>
 
 * **[Memory-Efficient Policy Libraries with Low-Rank Adaptation in Reinforcement Learning](ai/rag/arxiv-2606-25700.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.25700v1 Announce Type: new Abstract: When fine-tuning Large Language Models (LLMs), there has been success in minimizing both memory usage and computation with Parameter-Efficient Fine-Tuning (PEFT), like Low Rank Adaptation (LoRA). In thi
@@ -34721,6 +35583,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.24450>
 
+* **[Noise-Aware Boundary-Enhanced Generative Learning for Ultrasound Speckle Reduction](ai/rag/arxiv-2606-25009.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.25009v1 Announce Type: cross Abstract: Ultrasound is a non-invasive, real-time, and cost-effective imaging technique widely used in clinical diagnosis. However, its diagnostic efficacy is often compromised by inherent speckle noise that de
+  * Tags: `benchmark`, `hackernews`, `rag`
+  * Source URL: <https://arxiv.org/abs/2606.25009>
+
 * **[Non-negative Elastic Net Decoding for Information Retrieval](ai/rag/arxiv-2606-17910.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2606.17910v1 Announce Type: cross Abstract: Dense retrieval has become the dominant paradigm in information retrieval, in which each document is scored against a query by the inner product of their vector embeddings, and the top-$k$ documents b
   * Tags: `benchmark`, `rag`
@@ -34780,6 +35647,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12838v1 Announce Type: cross Abstract: Predicting single-cell transcriptional responses to genetic, chemical and cytokine perturbations is a fundamental challenge in computational biology and AI Virtual Cell (AIVC) modeling, with direct im
   * Tags: `benchmark`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.12838>
+
+* **[OECC2026](ai/rag/oecc2026.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Neuromorphic Photonics for AI**: Workshop explores silicon photonic platforms (MEMS, BTO, MoS₂/graphene) enabling high-speed, energy-efficient optical neural networks for AI acceleration, LIDAR, and signal processing via heterogeneous integration
+  * Tags: `agents`, `hackernews`, `paper`, `rag`, `reddit`, `web-crawled`, `youtube`
+  * Source URL: <https://oecc2026.org/workshops.php>
+
+* **[Official Apple Support Community](ai/rag/official-apple-support-community.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Automatic Activation**: Focus modes (e.g., Do Not Disturb) can trigger automatically based on contextual factors like location, time, or app usage patterns. - **Smart Activation**: Uses on-device intelligence (e.g., ML) to detect user behavior (e
+  * Tags: `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://discussions.apple.com>
 
 * **[Offline Reinforcement Learning for Warehouse SLAM Throughput Control](ai/rag/arxiv-2606-23978.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.23978v1 Announce Type: cross Abstract: We present an offline reinforcement learning (RL) framework for optimizing SLAM throughput control in a warehouse fulfillment environment. SLAM (Scan/Label/Apply/Manifest) throughput directly influenc
@@ -35466,6 +36343,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.23992>
 
+* **[RAVEN: Long-Horizon Reasoning & Navigation with a Visuo-Spatio-Temporal Memory](ai/rag/arxiv-2606-25206.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.25206v1 Announce Type: cross Abstract: Long-term robot deployment requires a compact and scalable memory that preserves fine-grained visual semantics, grounds observations in space and time, and enables efficient storage and retrieval. In
+  * Tags: `agents`, `benchmark`, `paper`, `rag`, `youtube`
+  * Source URL: <https://arxiv.org/abs/2606.25206>
+
 * **[Re-evaluating Confidence Remasking in Masked Diffusion Language Models](ai/rag/arxiv-2606-12232.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12232v1 Announce Type: new Abstract: Masked diffusion language models (dLLMs) have recently emerged as a competitive alternative to autoregressive language models, with the promise of faster inference via parallel token generation. A notab
   * Tags: `benchmark`, `rag`
@@ -35475,6 +36357,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.15621v1 Announce Type: new Abstract: Per-token counterfactual credit estimation asks which token in a language-model rollout caused the final answer to be right or wrong: cut the transcript at a pivot, substitute an alternative token, repl
   * Tags: `rag`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.15621>
+
+* **[React Canaries: Enabling Incremental Feature Rollout Outside Meta](ai/rag/react-canaries-enabling-incremental-feature-rollou.md)** (`framework` | `useful` tier)
+  * Summary: We'd like to offer the React community an option to adopt individual new features as soon as their design is close to final, before they're released in a stable version--similar to how Meta has long used bleeding-edge versions of React internally. We
+  * Tags: `frontend_ui`, `youtube`
+  * Source URL: <https://react.dev/blog/2023/05/03/react-canaries>
 
 * **[ReAge3D: Re-Aging 3D Faces with View Consistency](ai/rag/arxiv-2606-18156.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18156v1 Announce Type: cross Abstract: We present a novel framework for realistic and controllable 3D face re-aging which produces highly detailed, identity-preserving results. Existing 3D editing methods, while effective for coarse semant
@@ -35545,6 +36432,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2605.09420v2 Announce Type: replace-cross Abstract: In this study, we tackle Generalized Category Discovery (GCD) via a Relational Retrieval perspective, explicitly coupling labeled and unlabeled data through bidirectional knowledge transfer. W
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2605.09420>
+
+* **[Releases · gohugoio/hugo · GitHub](ai/rag/gohugoio-hugo.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Hugo v0.163.3** introduced fixes for code block rendering (escaping language names), preserved non-ASCII whitespace in parsers, and added support for Babel/PostCSS config variants in resource processing. - **Hugo v0.163.2** resolved `ERR_ACCESS_D
+  * Tags: `agents`, `frontend_ui`, `hackernews`, `rag`, `reddit`, `scripts`, `web-crawled`
+  * Source URL: <https://github.com/gohugoio/hugo/releases>
 
 * **[Representation Interventions Enable Lifelong Knowledge Memory Control in LLMs](ai/rag/arxiv-2511-20892.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2511.20892v4 Announce Type: replace Abstract: Large language models (LLMs) often produce incorrect or outdated content after being employed. Efficient and accurate knowledge updates without costly retraining are a major challenge. This problem
@@ -36311,10 +37203,20 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.16073>
 
+* **[Story’s detailed stats page – Medium Help Center](ai/rag/storys-detailed-stats-page-medium-help-center.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Lifetime Metrics**: Tracks hourly-updated performance including total presentations (since 2025), views, reads (30+ sec), feed clickthrough rate, earnings (daily), follower/subscriber changes, and read ratio; paywalled stories only. - **Monthly A
+  * Tags: `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://help.medium.com/hc/en-us/articles/34831991136151>
+
 * **[Streaming-dLLM: Accelerating Diffusion LLMs via Suffix Pruning and Dynamic Decoding](ai/rag/arxiv-2601-17917.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.17917v3 Announce Type: replace Abstract: Diffusion Large Language Models (dLLMs) offer a compelling paradigm for natural language generation, leveraging parallel decoding and bidirectional attention to achieve superior global coherence com
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2601.17917>
+
+* **[Streamlined Arbitration Rules & Procedures | JAMS Mediation, Arbitration, ADR Services](ai/rag/streamlined-arbitration-rules-procedures-jams-medi.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Scope & Applicability**: Rules govern JAMS-administered arbitrations where parties agree to use them or claims ≤$250K (excl. interest/fees); JAMS NAC or General Counsel oversees administration, with authority to assign cases to Resolution Centers
+  * Tags: `agents`, `hackernews`, `paper`, `rag`, `reddit`, `web-crawled`, `youtube`
+  * Source URL: <https://www.jamsadr.com/rules-streamlined-arbitration>
 
 * **[Structural Preservation and the Logical Expressiveness of Graph Neural Networks](ai/rag/arxiv-2606-17882.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.17882v1 Announce Type: new Abstract: Bridges between graph neural networks (GNNs) and logical formalisms have been established by fixing architectural choices, such as the types of aggregation, combination, and activation functions. These
@@ -36660,6 +37562,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `hackernews`, `producthunt`, `rag`, `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://synack.com/red-team>
 
+* **[The WebAssembly Application Platform | wasmCloud](ai/rag/the-webassembly-application-platform-wasmcloud.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Microservices Complexity**: wasmCloud simplifies microservices architecture by leveraging WebAssembly (WASM) for lightweight, portable, and secure runtime environments, reducing overhead and improving scalability. - **Cross-Platform Compatibility
+  * Tags: `rag`, `web-crawled`
+  * Source URL: <https://wasmcloud.com>
+
 * **[THEIA: Learning Complete Kleene Three-Valued Logic in a Pure-Neural Modular Architecture](ai/rag/arxiv-2604-11284.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2604.11284v5 Announce Type: replace-cross Abstract: We present THEIA, a 2.75M-parameter modular neural architecture that learns the complete Kleene three-valued logic (K3) truth table from task data without external symbolic inference or hand-e
   * Tags: `benchmark`, `rag`, `reddit`
@@ -36795,10 +37702,25 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2605.07412>
 
+* **[Trademark | Atlassian](ai/rag/trademark-atlassian.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Trademark Usage Compliance**: Third-party use of Atlassian trademarks must adhere to strict guidelines, including unmodified display, no deceptive intent, and no likelihood of confusion; logos must be sourced from official Atlassian assets and us
+  * Tags: `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://www.atlassian.com/legal/trademark>
+
 * **[Training for the Model You Return: Improving Optimization for Iterate-Averaged Language Models](ai/rag/arxiv-2606-25086.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.25086v1 Announce Type: new Abstract: Many modern Language Model (LM) pipelines return an averaged model, such as an exponential moving average of the training iterates, rather than the final iterate itself. This raises a fundamental questi
   * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.25086>
+
+* **[Transferability for General Reasoning: An Automated Curriculum for Multi-Domain RLVR](ai/rag/arxiv-2606-25178.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.25178v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) has been extended from single-domain training to multi-domain reasoning suites spanning mathematics, programming, and science. However, the training
+  * Tags: `meta-ai`, `models`, `paper`, `rag`
+  * Source URL: <https://arxiv.org/abs/2606.25178>
+
+* **[Transparency Center - Google Product Policies and Policy Areas](ai/rag/transparency-center-google-product-policies-and-po.md)** (`framework` | `useful` tier)
+  * Summary: - **Policy Enforcement Metrics**: In 2024, Google blocked 5.1B malicious ads, removed 18.5M YouTube videos violating Community Guidelines (H2 2024), and de-indexed 882K CSAM-related URLs from Search results (H2 2024). - **Structured Policy Framework*
+  * Tags: `hackernews`, `rag`, `web-crawled`, `youtube`
+  * Source URL: <https://transparency.google>
 
 * **[trec-usersim - Google Groups](ai/rag/trec-usersim-google-groups.md)** (`tutorial` | `useful` tier)
   * Summary: - **Access Restriction**: The group `trec-usersim` enforces restricted access, requiring explicit permission from owners/managers for visibility or participation. - **Google Groups Platform**: Hosted on Google Groups, leveraging Google’s infrastructu
@@ -36874,6 +37796,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.24604v1 Announce Type: new Abstract: Longitudinal modelling of Alzheimer's disease progression is clinically useful only if it can describe not just the most likely next diagnosis, but how a patient may evolve over time and how reliable th
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.24604>
+
+* **[Understand app privacy & security practices with Google Play's Data safety section - Computer - Google Play Help](ai/rag/understand-app-privacy-security-practices-with-goo.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Data Collection & Sharing Disclosure**: Developers must declare how their app collects, shares, and handles user data via Google Play’s *Data safety* section, covering types of data (e.g., location, personal info, financial data) and purposes (e.
+  * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `youtube`
+  * Source URL: <https://support.google.com/googleplay?p=data-safety&hl=en>
 
 * **[Understanding ActivityPub - Part 1: Protocol Fundamentals - Sebastian Jambor's blog](ai/rag/understanding-activitypub-part-1-protocol-fundamen.md)** (`tutorial` | `useful` tier)
   * Summary: - **Actor Identification**: ActivityPub uses **actor IDs** (URIs like `https://mastodon.social/users/crepels`) instead of full mentions (e.g., `@crepels@mastodon.social`). WebFinger (`RFC 7033`) resolves full mentions to actor IDs via a `GET` request
@@ -37020,6 +37947,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2601.00821>
 
+* **[vercel-labs/ai-sdk-preview-rag](ai/rag/vercel-labs-ai-sdk-preview-rag.md)** (`template` | `useful` tier)
+  * Summary: - **RAG Implementation**: Template demonstrates retrieval-augmented generation (RAG) using Vercel's AI SDK, integrating document retrieval with LLM generation for enhanced contextual responses. - **Next.js Integration**: Built as a Next.js applicatio
+  * Tags: `frontend_ui`, `github-repo`, `rag`, `typescript`
+  * Source URL: <https://github.com/vercel-labs/ai-sdk-preview-rag>
+
+* **[vercel-labs/coding-agent-template](ai/rag/vercel-labs-coding-agent-template.md)** (`template` | `useful` tier)
+  * Summary: - **Architecture**: Multi-agent AI coding system leveraging Vercel Sandbox for isolated execution and AI Gateway for optimized AI model routing/interaction. - **Tech Stack**: TypeScript-based implementation with Vercel's serverless infrastructure for
+  * Tags: `agents`, `github-repo`, `rag`, `typescript`
+  * Source URL: <https://github.com/vercel-labs/coding-agent-template>
+
 * **[VeriPilot: An LLM-Powered Verilog Debugging Framework](ai/rag/arxiv-2606-23759.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.23759v1 Announce Type: cross Abstract: Verilog debugging remains one of the most time-consuming stages in digital circuit design. Recent advances in Large Language Models (LLMs) have enabled automated debugging; however, most existing appr
   * Tags: `benchmark`, `models`, `openai`, `rag`
@@ -37115,10 +38052,20 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2605.18313>
 
+* **[Watch YouTube TV on supported devices - Computer - YouTube TV Help](ai/rag/watch-youtube-tv-on-supported-devices-computer-you.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Supported Platforms**: YouTube TV is compatible with computers (Chrome, Firefox, Safari), smart TVs (LG 2017+, Samsung 2017+, Roku TV, Vizio SmartCast, Hisense select models, Fire TV Edition), streaming devices (Apple TV 4th Gen+, Chromecast, Rok
+  * Tags: `rag`, `reddit`, `web-crawled`, `youtube`
+  * Source URL: <https://support.google.com/youtubetv/answer/7129767?hl=en&ref_topic=7071745>
+
 * **[Weave of Formal Thought](ai/rag/arxiv-2606-25987.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.25987v1 Announce Type: cross Abstract: Large language models (LLMs) attain remarkable surface fluency on code, yet they neither formally guarantee the syntactic validity of their output nor leverage the hierarchical structure defining the
   * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.25987>
+
+* **[Web IDL Standard](ai/rag/web-idl-standard.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Web IDL Syntax**: Defines a standardized Interface Definition Language (IDL) for specifying web platform APIs, including interfaces, namespaces, dictionaries, typedefs, and callback functions, with grammar rules for definitions and extended attri
+  * Tags: `agents`, `benchmark`, `frontend_ui`, `hackernews`, `rag`, `reddit`, `threejs`, `web-crawled`
+  * Source URL: <https://webidl.spec.whatwg.org/#dfn-interface>
 
 * **[Web Privacy Policy | Enterprise Technology](ai/rag/web-privacy-policy-enterprise-technology.md)** (`benchmark` | `useful` tier)
   * Summary: - **Scope & Compliance**: Policy applies to all university domains and data processing activities, aiming for GDPR compliance while allowing local policies (pre-approved by Data Protection Officer & CIO) for specific units. Third-party links are excl
@@ -37189,6 +38136,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.24967v1 Announce Type: new Abstract: In ill-posed inverse problems, the recovered solution depends as much on the prior as on the data, yet much of the engineering knowledge that could serve as that prior is recorded qualitatively rather t
   * Tags: `benchmark`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.24967>
+
+* **[What Does a Pathological Speech Assessment Model Know about Acoustic Features? A Case Study on Oral and Oropharyngeal Cancer Patients](ai/rag/arxiv-2606-24949.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.24949v1 Announce Type: cross Abstract: This work investigates the interpretability of a Wav2Vec 2.0based speech intelligibility assessment model for oral and oropharyngeal cancer patients through canonical correlation analysis. By measurin
+  * Tags: `rag`
+  * Source URL: <https://arxiv.org/abs/2606.24949>
+
+* **[What does AUTHORIZED_FETCH actually do? | Sunny Garden Hub](ai/rag/what-does-authorized-fetch-actually-do-sunny-garde.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Enforcement of Server Suspensions**: `AUTHORIZED_FETCH` requires remote servers to authenticate requests, enabling a server to deny access to suspended servers attempting to fetch public posts/profiles anonymously via ActivityPub. - **Disruption
+  * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://hub.sunny.garden/2023/06/28/what-does-authorized_fetch-actually-do>
 
 * **[What Does ODRL Mean? A Cross-Level Ontological Grounding of Permissions, Prohibitions, and Duties in UFO-L](ai/rag/arxiv-2606-24344.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24344v1 Announce Type: cross Abstract: ODRL policy evaluators produce verdicts, but say nothing about the normative positions a policy brings into existence, the authority structures those positions presuppose, or who holds the power to de
@@ -37556,11 +38513,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: React 19.2 adds new features like Activity, React Performance Tracks, useEffectEvent, and more.
   * Tags: `frontend_ui`
   * Source URL: <https://react.dev/blog/2025/10/01/react-19-2>
-
-* **[React Canaries: Enabling Incremental Feature Rollout Outside Meta](ai/rag/react-canaries-enabling-incremental-feature-rollou.md)** (`reference` | `reference` tier)
-  * Summary: We'd like to offer the React community an option to adopt individual new features as soon as their design is close to final, before they're released in a stable version--similar to how Meta has long used bleeding-edge versions of React internally. We
-  * Tags: `frontend_ui`, `youtube`
-  * Source URL: <https://react.dev/blog/2023/05/03/react-canaries>
 
 * **[React Compiler Beta Release](web-development/react-compiler-beta-release.md)** (`reference` | `reference` tier)
   * Summary: At React Conf 2024, we announced the experimental release of React Compiler, a build-time tool that optimizes your React app through automatic memoization. In this post, we want to share what's next for open source, and our progress on the compiler.

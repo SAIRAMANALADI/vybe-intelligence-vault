@@ -1,35 +1,7 @@
 {
-  "generated_at": "2026-07-06T23:04:25.508860+05:30",
-  "trending_resources": [
-    {
-      "id": "arxiv:2606.21585",
-      "title": "The Cost Geometry of Belief: finite-resource inference under noisy observation",
-      "category": "ai/agents",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2606.21585",
-      "file_path": "ai/agents/arxiv-2606-21585.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1213,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "fastest_rising_tools": [
-    {
-      "id": "arxiv:2606.21585",
-      "title": "The Cost Geometry of Belief: finite-resource inference under noisy observation",
-      "category": "ai/agents",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2606.21585",
-      "file_path": "ai/agents/arxiv-2606-21585.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1213,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
+  "generated_at": "2026-07-06T23:48:28.870355+05:30",
+  "trending_resources": [],
+  "fastest_rising_tools": [],
   "new_discoveries": [
     {
       "id": "blog:quality",

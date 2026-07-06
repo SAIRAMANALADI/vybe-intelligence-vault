@@ -13,6 +13,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `90` | **Path**: [`arxiv-2606-24429.md`](../../ai/agents/arxiv-2606-24429.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)
+- **Category**: `ai/agents` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`aws-agent-toolkit-for-aws.md`](../../ai/agents/aws-agent-toolkit-for-aws.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [golf-mcp/golf](https://github.com/golf-mcp/golf)
 - **Category**: `ai/agents` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`golf-mcp-golf.md`](../../ai/agents/golf-mcp-golf.md)
@@ -63,11 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`maunappl8-openai-agents-ts-kit.md`](../../ai/agents/maunappl8-openai-agents-ts-kit.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [AI Coding Agents in Social Science: Methodologically Diverse, Empirically Consistent, Interpretively Vulnerable](https://arxiv.org/abs/2606.11456)
-- **Category**: `ai/agents` | **Kind**: `PROMPT` | **Tier**: `ESSENTIAL`
-- **Score**: `88` | **Path**: [`arxiv-2606-11456.md`](../../ai/agents/arxiv-2606-11456.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
 
 ## Recommended Learning Path
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-25 12:36 IST*
+*Last updated: 2026-07-06 23:48 IST*

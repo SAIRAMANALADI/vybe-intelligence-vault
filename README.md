@@ -197,7 +197,7 @@ score_threshold: 0.65
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-06 23:04 IST</p>
+        <p><b>Last Update:</b> 2026-07-06 23:48 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -209,7 +209,7 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[The Cost Geometry of Belief: finite-resource inference under noisy observation](ai/agents/arxiv-2606-21585.md)** • Rank: <kbd>+1213</kbd>
+- No trending items found.
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.

@@ -18,13 +18,13 @@ It provides rapid API development speed, automatic OpenAPI documentation, asynch
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 93 resources matched in the intelligence vault.
+Active signals: 168 resources matched in the intelligence vault.
 Recently detected signals:
-- [Does Mixture-of-Experts Actually Help Inference on Consumer and Edge Hardware? An Empirical Study](../ai/research/arxiv-2606-21428.md) (Source: Unknown Source) - Collected 2026-06-25
-- [Quanto: a PyTorch quantization backend for Optimum](../ai/models/quanto-a-pytorch-quantization-backend-for-optimum.md) (Source: Unknown Source) - Collected 2026-06-25
-- [Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference](../ai/models/introducing-multi-backends-trt-llm-vllm-support-fo.md) (Source: Unknown Source) - Collected 2026-06-25
-- [Accelerating LLM Inference with TGI on Intel Gaudi](../ai/models/accelerating-llm-inference-with-tgi-on-intel-gaudi.md) (Source: Unknown Source) - Collected 2026-06-25
-- [Exploring Quantization Backends in Diffusers](../ai/models/exploring-quantization-backends-in-diffusers.md) (Source: Unknown Source) - Collected 2026-06-25
+- [Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron](../ai/rag/build-cross-platform-desktop-apps-with-javascript.md) (Source: Unknown Source) - Collected 2026-06-25
+- [Firebase · GitHub](../ai/resources/firebase-github.md) (Source: Unknown Source) - Collected 2026-06-25
+- [The Firebase Blog](../ai/rag/the-firebase-blog.md) (Source: Unknown Source) - Collected 2026-06-25
+- [hwchase17/langchain](../ai/rag/hwchase17-langchain.md) (Source: Unknown Source) - Collected 2026-06-25
+- [qdrant/docs/roadmap/README.md at dev · qdrant/qdrant · GitHub](../ai/rag/qdrant-docs-roadmap-readme-md-at-dev-qdrant-qdrant.md) (Source: Unknown Source) - Collected 2026-06-25
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -33,7 +33,7 @@ Recently detected signals:
 ### 1. [pydantic/pydantic-ai Release: v2.0.0 (2026-06-23)](../ai/rag/pydantic-pydantic-ai.md) ([GitHub](https://github.com/pydantic/pydantic-ai))
 - Stars: 0
 - Language: Unknown
-- Description: #  Pydantic AI V2 Beta 7 is here!
+- Description: #  Pydantic AI V2.0 is here!
 
 ### 2. [vstorm-co/full-stack-ai-agent-template](../ai/rag/vstorm-co-full-stack-ai-agent-template.md) ([GitHub](https://github.com/vstorm-co/full-stack-ai-agent-template))
 - Stars: 0
@@ -145,30 +145,45 @@ Recently detected signals:
 - Language: Unknown
 - Description: Template for agentic Chat & Memory Agents with Dapr runtime, UV simplicity, and OpenAI Agents SDK.
 
-### 10. [AgentTeam-TaichuAI/ScienceClaw](../ai/agents/agentteam-taichuai-scienceclaw.md) ([GitHub](https://github.com/agentteam-taichuai/scienceclaw))
+### 24. [AgentTeam-TaichuAI/ScienceClaw](../ai/agents/agentteam-taichuai-scienceclaw.md) ([GitHub](https://github.com/agentteam-taichuai/scienceclaw))
 - Stars: 0
 - Language: Unknown
 - Description: ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a completely new architecture beyond OpenClaw. It offers stronger security, bet...
 
-### 11. [Kludex/uvicorn](../ai/rag/kludex-uvicorn.md) ([GitHub](https://github.com/kludex/uvicorn))
+### 25. [Kludex/uvicorn](../ai/rag/kludex-uvicorn.md) ([GitHub](https://github.com/kludex/uvicorn))
 - Stars: 0
 - Language: Unknown
 - Description: - **ASGI Server Implementation**: Uvicorn is a lightning-fast ASGI (Asynchronous Server Gateway Interface) server implementation for Python, leveraging `asyncio` for high-performance I/O-bound oper...
 
-### 12. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md) ([GitHub](https://github.com/omrylcn/python-vs-js-langgraph))
+### 26. [HoangNguyen0403/agent-skills-standard](../ai/agents/hoangnguyen0403-agent-skills-standard.md) ([GitHub](https://github.com/hoangnguyen0403/agent-skills-standard))
+- Stars: 0
+- Language: Unknown
+- Description: - **Repository Purpose**: A curated TypeScript-based collection of standardized best practices and coding guidelines for AI agents, covering frameworks and languages such as Android, Angular, Flutt...
+
+### 27. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md) ([GitHub](https://github.com/omrylcn/python-vs-js-langgraph))
 - Stars: 0
 - Language: Unknown
 - Description: Simple benchmark: FastAPI vs Bun/Elysia with LangGraph and llama.cpp
 
-### 27. [agruai/ai-book-writer](../ai/agents/agruai-ai-book-writer.md) ([GitHub](https://github.com/agruai/ai-book-writer))
+### 28. [agruai/ai-book-writer](../ai/agents/agruai-ai-book-writer.md) ([GitHub](https://github.com/agruai/ai-book-writer))
 - Stars: 0
 - Language: Unknown
 - Description: AI-powered book-writing system that converts ideas into full manuscripts in hours with multi-agent collaboration, real-time streaming, and built-in cost control. Tech Stack: FastAPI · PostgreSQL · ...
 
-### 14. [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md) ([GitHub](https://github.com/raganwald/raganwald.github.com))
+### 29. [Firebase · GitHub](../ai/resources/firebase-github.md) ([GitHub](https://github.com/firebase))
 - Stars: 0
 - Language: Unknown
-- Description: - **Jekyll Static Site Generator**: Repository contains the source for a Jekyll-based static website hosted on GitHub Pages (`raganwald.github.com`).
+- Description: - Firebase provides official SDKs for Android (Java/Kotlin), iOS (Swift/Objective-C), Web (TypeScript/JavaScript), Unity (C#), and C++ via GitHub repositories like `firebase-android-sdk`, `firebase...
+
+### 30. [jupyter-server/jupyter_server](../ai/resources/jupyter-server-jupyter-server.md) ([GitHub](https://github.com/jupyter-server/jupyter_server))
+- Stars: 0
+- Language: Unknown
+- Description: - Core backend service for Jupyter web applications, providing essential services, APIs, and REST endpoints.
+
+### 31. [ollama/ollama-python](../ai/resources/ollama-ollama-python.md) ([GitHub](https://github.com/ollama/ollama-python))
+- Stars: 0
+- Language: Unknown
+- Description: - Python client library for interacting with Ollama's local LLM service via REST API
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -190,4 +205,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-25T12:33:59.974568+05:30.638178+05:30.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-06T23:45:44.161651+05:30.974568+05:30.638178+05:30.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.

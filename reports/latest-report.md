@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-06T23:04:25.508860+05:30`
+Generated at: `2026-07-06T23:48:28.870355+05:30`
 
 ## Executive Summary
 
@@ -12,11 +12,13 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## Top Trending Resources
 
-- **The Cost Geometry of Belief: finite-resource inference under noisy observation** - Score: `0` (0), Rank Change: `+1213` ([File](../ai/agents/arxiv-2606-21585.md))
+No trending resources with score/rank increases detected.
+
 
 ## 🚀 Fastest Rising Tools
 
-- **The Cost Geometry of Belief: finite-resource inference under noisy observation** - (Rank Change: `+1213`) ([File](../ai/agents/arxiv-2606-21585.md))
+No rising tools detected in this run.
+
 
 ## 🔄 Essential Tier Transitions
 

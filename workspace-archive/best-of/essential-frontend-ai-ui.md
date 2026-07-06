@@ -23,6 +23,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `85` | **Path**: [`shadcnstore-shadcn-dashboard-landing-template.md`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md)
 - **Selection Reason**: Useful for project building
 
+### [Staircase AI](https://education.gainsight.com/page/staircase-ai)
+- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`staircase-ai.md`](../../ai/rag/staircase-ai.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
 ### [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344)
 - **Category**: `ai/agents` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`arxiv-2606-12344.md`](../../ai/agents/arxiv-2606-12344.md)
@@ -63,11 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `81` | **Path**: [`enesien-venefish.md`](../../web-development/nextjs/enesien-venefish.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [gonzalochale/saas-landing-template](https://github.com/gonzalochale/saas-landing-template)
-- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`gonzalochale-saas-landing-template.md`](../../web-development/nextjs/gonzalochale-saas-landing-template.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 
 ## Recommended Learning Path
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-25 12:36 IST*
+*Last updated: 2026-07-06 23:48 IST*

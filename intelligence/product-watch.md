@@ -15,14 +15,14 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [MCP for Research: How to Connect AI to Research Tools](https://huggingface.co/blog/mcp-for-research) | `mcp-registry/` | 70 |
 | [Upskill your LLMs With Gradio MCP Servers](https://huggingface.co/blog/gradio-mcp-servers) | `mcp-registry/` | 70 |
 | [AI Agent Benchmarks 2026: Who Leads SWE-bench & GAIA](https://codersera.com/blog/ai-agent-benchmarks-state-of-leaderboard-may-2026) | `mcp-registry/` | 70 |
+| [AI Assist - Stack Overflow](https://stackoverflow.ai) | `mcp-registry/` | 70 |
+| [AI Workflow Automation Platform - n8n](https://n8n.io) | `mcp-registry/` | 70 |
+| [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) | `mcp-registry/` | 70 |
+| [Artificial Intelligence in Chrome | AI on Chrome | Chrome for Developers](https://developer.chrome.com/docs/ai) | `mcp-registry/` | 70 |
 | [Towards CONUS-Wide ML-Augmented Conceptually-Interpretable Modeling of Catchment-Scale Precipitation-Storage-Runoff Dynamics](https://arxiv.org/abs/2510.02605) | `mcp-registry/` | 70 |
+| [Verifiable Manifest Signing and Transparency Enforcement for Secure MCP-Based LLM Pipelines](https://arxiv.org/abs/2601.23132) | `mcp-registry/` | 70 |
 | [EffGen: Enabling Small Language Models as Capable Autonomous Agents](https://arxiv.org/abs/2602.00887) | `mcp-registry/` | 70 |
 | [From Privacy to Workflow Integrity: Communication-Graph Metadata in Autonomous Agent Interoperability](https://arxiv.org/abs/2606.07150) | `mcp-registry/` | 70 |
 | [ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents](https://arxiv.org/abs/2606.18037) | `mcp-registry/` | 70 |
-| [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) | `mcp-registry/` | 70 |
-| [Cloud developer documentation - Atlassian Developer](https://developer.atlassian.com/docs) | `mcp-registry/` | 70 |
-| [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) | `mcp-registry/` | 70 |
-| [DeusData/codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) | `mcp-registry/` | 70 |
-| [Gemini Code Assist for teams and businesses](https://codeassist.google) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

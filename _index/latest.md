@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [Polycepta: Object-Centric Appearance Estimation for Multi-Object Tracking](../ai/rag/arxiv-2606-23604.md) ([Source URL](https://arxiv.org/abs/2606.23604))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-25T12:31:11.984439+05:30
-- **Local Path**: `ai/rag/arxiv-2606-23604.md`
+### 1. [Postman Inc. · GitHub](../ai/resources/postman-inc-github.md) ([Source URL](https://github.com/postmanlabs))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T23:09:27.884141+05:30
+- **Local Path**: `ai/resources/postman-inc-github.md`
 
-### 2. [AI Fiction in the Wild](../ai/research/arxiv-2606-22748.md) ([Source URL](https://arxiv.org/abs/2606.22748))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.984424+05:30
-- **Local Path**: `ai/research/arxiv-2606-22748.md`
-
-### 3. [On the Position Bias of On-Policy Distillation](../ai/rag/arxiv-2606-22600.md) ([Source URL](https://arxiv.org/abs/2606.22600))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-25T12:31:11.984409+05:30
-- **Local Path**: `ai/rag/arxiv-2606-22600.md`
-
-### 4. [Diffusion Integrated Gradients: Controllable Path Generation for Flexible Feature Attribution](../ai/research/arxiv-2606-22314.md) ([Source URL](https://arxiv.org/abs/2606.22314))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.984393+05:30
-- **Local Path**: `ai/research/arxiv-2606-22314.md`
-
-### 5. [MultiMem: Measuring and Mitigating Memorization in Multi-Modal Contrastive Learning](../ai/research/arxiv-2606-22220.md) ([Source URL](https://arxiv.org/abs/2606.22220))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.984377+05:30
-- **Local Path**: `ai/research/arxiv-2606-22220.md`
-
-### 6. [Alternate loss functions and regression models that achieve robustness to outliers by modulating the learning rate](../ai/research/arxiv-2606-22068.md) ([Source URL](https://arxiv.org/abs/2606.22068))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.984353+05:30
-- **Local Path**: `ai/research/arxiv-2606-22068.md`
-
-### 7. [Skills for the future software profession: beyond agentic AI!](../ai/agents/arxiv-2606-21894.md) ([Source URL](https://arxiv.org/abs/2606.21894))
+### 2. [Astro AI | Where agents become teammates](../ai/agents/astro-ai-where-agents-become-teammates.md) ([Source URL](https://astropods.com))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-25T12:31:11.984196+05:30
-- **Local Path**: `ai/agents/arxiv-2606-21894.md`
+- **Collected At**: 2026-06-25T23:09:27.662331+05:30
+- **Local Path**: `ai/agents/astro-ai-where-agents-become-teammates.md`
 
-### 8. [Does Mixture-of-Experts Actually Help Inference on Consumer and Edge Hardware? An Empirical Study](../ai/research/arxiv-2606-21428.md) ([Source URL](https://arxiv.org/abs/2606.21428))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.984171+05:30
-- **Local Path**: `ai/research/arxiv-2606-21428.md`
-
-### 9. [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md) ([Source URL](https://arxiv.org/abs/2606.21366))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.984149+05:30
-- **Local Path**: `ai/research/arxiv-2606-21366.md`
-
-### 10. [Topological Neural Dynamics: A Neuron-wise Framework for Sequence Modeling](../ai/research/arxiv-2606-21295.md) ([Source URL](https://arxiv.org/abs/2606.21295))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.984126+05:30
-- **Local Path**: `ai/research/arxiv-2606-21295.md`
-
-### 11. [HilDA: Hierarchical Distillation with Diffusion for Advancing Self-Supervised LiDAR Pre-training](../ai/rag/arxiv-2606-20189.md) ([Source URL](https://arxiv.org/abs/2606.20189))
+### 3. [microsoft/vscode](../ai/rag/microsoft-vscode.md) ([Source URL](https://github.com/microsoft/vscode))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-25T12:31:11.984103+05:30
-- **Local Path**: `ai/rag/arxiv-2606-20189.md`
+- **Collected At**: 2026-06-25T23:09:27.536460+05:30
+- **Local Path**: `ai/rag/microsoft-vscode.md`
 
-### 12. [Cross-Dataset, Age, and Gender Generalization: A Comprehensive Analysis of Fine-Tuning Strategies for Low-Resource Children's ASR](../ai/research/arxiv-2606-19791.md) ([Source URL](https://arxiv.org/abs/2606.19791))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.984081+05:30
-- **Local Path**: `ai/research/arxiv-2606-19791.md`
-
-### 13. [Essential Subspace Merging for Multi-Task Learning](../ai/research/arxiv-2606-19164.md) ([Source URL](https://arxiv.org/abs/2606.19164))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.984059+05:30
-- **Local Path**: `ai/research/arxiv-2606-19164.md`
-
-### 14. [KANLib -- A Modular, Extensible and Fast Kolmogorov-Arnold Network Implementation](../ai/research/arxiv-2606-17927.md) ([Source URL](https://arxiv.org/abs/2606.17927))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.984037+05:30
-- **Local Path**: `ai/research/arxiv-2606-17927.md`
-
-### 15. [Statistical Foundations of LLM-based A/B Testing: A Surrogacy Framework for Human Causal Inference](../ai/rag/arxiv-2606-17165.md) ([Source URL](https://arxiv.org/abs/2606.17165))
+### 4. [Fern: Docs, SDKs, and CLIs for your API](../ai/rag/fern-docs-sdks-and-clis-for-your-api.md) ([Source URL](https://buildwithfern.com))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-25T12:31:11.984015+05:30
-- **Local Path**: `ai/rag/arxiv-2606-17165.md`
+- **Collected At**: 2026-06-25T23:09:26.835400+05:30
+- **Local Path**: `ai/rag/fern-docs-sdks-and-clis-for-your-api.md`
 
-### 16. [Quantum Cinema: An Interactive Cinematic Exploration of Quantum Computing Hardware via Generative World Models](../ai/research/arxiv-2606-17102.md) ([Source URL](https://arxiv.org/abs/2606.17102))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.983992+05:30
-- **Local Path**: `ai/research/arxiv-2606-17102.md`
+### 5. [Extensions for Visual Studio family of products | Visual Studio Marketplace](../ai/resources/extensions-for-visual-studio-family-of-products-vi.md) ([Source URL](https://marketplace.visualstudio.com/vscode))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T23:09:26.166123+05:30
+- **Local Path**: `ai/resources/extensions-for-visual-studio-family-of-products-vi.md`
 
-### 17. [Robust Dual-Signal Fusion: Hybrid Neuro-Symbolic Gating with Compressed Chain-of-Thought Refinement for Irony Detection in Social Media Texts](../ai/research/arxiv-2606-16845.md) ([Source URL](https://arxiv.org/abs/2606.16845))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.983969+05:30
-- **Local Path**: `ai/research/arxiv-2606-16845.md`
-
-### 18. [Lect\=uraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching](../ai/rag/arxiv-2606-16428.md) ([Source URL](https://arxiv.org/abs/2606.16428))
+### 6. [Postman: The World's Leading API Platform | Sign Up for Free](../ai/rag/postman-the-world-s-leading-api-platform-sign-up-f.md) ([Source URL](https://postman.com))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-25T12:31:11.983947+05:30
-- **Local Path**: `ai/rag/arxiv-2606-16428.md`
+- **Collected At**: 2026-06-25T23:09:23.236980+05:30
+- **Local Path**: `ai/rag/postman-the-world-s-leading-api-platform-sign-up-f.md`
 
-### 19. [Surprise-Guided MergeSort: Budget-Efficient Human-in-the-Loop Ranking via Adaptive Comparison Scheduling](../ai/rag/arxiv-2606-15623.md) ([Source URL](https://arxiv.org/abs/2606.15623))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-25T12:31:11.983927+05:30
-- **Local Path**: `ai/rag/arxiv-2606-15623.md`
-
-### 20. [AgentRivet: an automated system for producing Rivet routines from journal publications](../ai/rag/arxiv-2606-13535.md) ([Source URL](https://arxiv.org/abs/2606.13535))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-25T12:31:11.983906+05:30
-- **Local Path**: `ai/rag/arxiv-2606-13535.md`
-
-### 21. [Acquisition state behaves as a structured, measurable variable governing lung-nodule AI: kernel-driven measurement instability and noise-driven detection fragility, invisible to DICOM metadata](../ai/rag/arxiv-2606-12824.md) ([Source URL](https://arxiv.org/abs/2606.12824))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-25T12:31:11.983885+05:30
-- **Local Path**: `ai/rag/arxiv-2606-12824.md`
-
-### 22. [FedSteer: Taming Extreme Gradient Staleness in Federated Learning with Corrective Projections and Caching](../ai/research/arxiv-2606-10124.md) ([Source URL](https://arxiv.org/abs/2606.10124))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.983865+05:30
-- **Local Path**: `ai/research/arxiv-2606-10124.md`
-
-### 23. [AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design](../ai/research/arxiv-2606-09831.md) ([Source URL](https://arxiv.org/abs/2606.09831))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.983845+05:30
-- **Local Path**: `ai/research/arxiv-2606-09831.md`
-
-### 24. [Page image classifier fine-tuned on century-spanning archives of scanned documents for further content-specific processing](../ai/research/arxiv-2606-07558.md) ([Source URL](https://arxiv.org/abs/2606.07558))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.983825+05:30
-- **Local Path**: `ai/research/arxiv-2606-07558.md`
-
-### 25. [A Training-Free Mixture-of-Agents Framework for Multi-Document Summarization using LLMs and Knowledge Graphs](../ai/rag/arxiv-2606-03867.md) ([Source URL](https://arxiv.org/abs/2606.03867))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-25T12:31:11.983805+05:30
-- **Local Path**: `ai/rag/arxiv-2606-03867.md`
-
-### 26. [ASymPO: Asymmetric-Scale Policy Optimization for Asynchronous LLM Post-Training Without Behavior Information](../ai/rag/arxiv-2606-03070.md) ([Source URL](https://arxiv.org/abs/2606.03070))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-25T12:31:11.983784+05:30
-- **Local Path**: `ai/rag/arxiv-2606-03070.md`
-
-### 27. [Cosmos 3: Omnimodal World Models for Physical AI](../ai/agents/arxiv-2606-02800.md) ([Source URL](https://arxiv.org/abs/2606.02800))
+### 7. [Visual Studio Code - The open source AI code editor | Your home for multi-agent development](../ai/agents/visual-studio-code-the-open-source-ai-code-editor.md) ([Source URL](https://code.visualstudio.com))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-25T12:31:11.983764+05:30
-- **Local Path**: `ai/agents/arxiv-2606-02800.md`
+- **Collected At**: 2026-06-25T23:09:22.873834+05:30
+- **Local Path**: `ai/agents/visual-studio-code-the-open-source-ai-code-editor.md`
 
-### 28. [QSignAI: Quantum-Randomness-Seeded Identity Signatures at the Intersection of AI for Science and Science for AI](../ai/research/arxiv-2605-27729.md) ([Source URL](https://arxiv.org/abs/2605.27729))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.983742+05:30
-- **Local Path**: `ai/research/arxiv-2605-27729.md`
+### 8. [electron/electron](../ai/rag/electron-electron.md) ([Source URL](https://github.com/electron/electron))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:09:22.570974+05:30
+- **Local Path**: `ai/rag/electron-electron.md`
 
-### 29. [VISTA: An End-to-End Benchmark for Visual Spec-to-Web-App Coding Agents](../ai/agents/arxiv-2605-26144.md) ([Source URL](https://arxiv.org/abs/2605.26144))
+### 9. [Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron](../ai/rag/build-cross-platform-desktop-apps-with-javascript.md) ([Source URL](https://electronjs.org))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:09:19.264018+05:30
+- **Local Path**: `ai/rag/build-cross-platform-desktop-apps-with-javascript.md`
+
+### 10. [Cloudflare · GitHub](../ai/agents/cloudflare-github.md) ([Source URL](https://github.com/cloudflare))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-25T12:31:11.983721+05:30
-- **Local Path**: `ai/agents/arxiv-2605-26144.md`
+- **Collected At**: 2026-06-25T23:09:12.763076+05:30
+- **Local Path**: `ai/agents/cloudflare-github.md`
 
-### 30. [More Skills, Worse Agents? Skill Shadowing Degrades Performance When Expanding Skill Libraries](../ai/agents/arxiv-2605-24050.md) ([Source URL](https://arxiv.org/abs/2605.24050))
+### 11. [Careers at Cloudflare â Open Positions | Cloudflare](../ai/resources/careers-at-cloudflare-a-open-positions-cloudflare.md) ([Source URL](https://cloudflare.com/careers/jobs?department=Technology+Research))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T23:08:37.059056+05:30
+- **Local Path**: `ai/resources/careers-at-cloudflare-a-open-positions-cloudflare.md`
+
+### 12. [cosai-oasis/ws2-defenders](../ai/resources/cosai-oasis-ws2-defenders.md) ([Source URL](https://github.com/cosai-oasis/ws2-defenders))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T23:06:08.493758+05:30
+- **Local Path**: `ai/resources/cosai-oasis-ws2-defenders.md`
+
+### 13. [Home - Coalition for Secure AI](../ai/rag/home-coalition-for-secure-ai.md) ([Source URL](https://coalitionforsecureai.org))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:04:34.066515+05:30
+- **Local Path**: `ai/rag/home-coalition-for-secure-ai.md`
+
+### 14. [Advancing AI safely and responsibly â Google AI](../ai/rag/advancing-ai-safely-and-responsibly-a-google-ai.md) ([Source URL](https://ai.google/responsibility/safety))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:04:31.360355+05:30
+- **Local Path**: `ai/rag/advancing-ai-safely-and-responsibly-a-google-ai.md`
+
+### 15. [Cloudflare Developer Docs | Cloudflare Docs](../ai/rag/cloudflare-developer-docs-cloudflare-docs.md) ([Source URL](https://developers.cloudflare.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:04:30.060911+05:30
+- **Local Path**: `ai/rag/cloudflare-developer-docs-cloudflare-docs.md`
+
+### 16. [GATE Exam Tutorial - GeeksforGeeks](../ai/rag/gate-exam-tutorial-geeksforgeeks.md) ([Source URL](https://geeksforgeeks.org/gate/gate-exam-tutorial))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:04:22.978248+05:30
+- **Local Path**: `ai/rag/gate-exam-tutorial-geeksforgeeks.md`
+
+### 17. [Protect Privacy Online with Google - Google Safety Center](../ai/rag/protect-privacy-online-with-google-google-safety-c.md) ([Source URL](https://safety.google/security-privacy))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:03:27.525496+05:30
+- **Local Path**: `ai/rag/protect-privacy-online-with-google-google-safety-c.md`
+
+### 18. [Hugging Face – The AI community building the future.](../ai/resources/hugging-face-the-ai-community-building-the-future.md) ([Source URL](https://huggingface.co))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T23:02:11.288809+05:30
+- **Local Path**: `ai/resources/hugging-face-the-ai-community-building-the-future.md`
+
+### 19. [Cloudflare's Privacy Policy | Cloudflare](../ai/rag/cloudflare-s-privacy-policy-cloudflare.md) ([Source URL](https://cloudflare.com/privacy))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:02:08.552789+05:30
+- **Local Path**: `ai/rag/cloudflare-s-privacy-policy-cloudflare.md`
+
+### 20. [GDPR FAQs | Cloudflare](../ai/rag/cloudflare-and-gdpr-compliance-cloudflare.md) ([Source URL](https://cloudflare.com/gdpr))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:02:08.507854+05:30
+- **Local Path**: `ai/rag/cloudflare-and-gdpr-compliance-cloudflare.md`
+
+### 21. [Self-Serve Subscription Agreement | Cloudflare](../ai/rag/self-serve-subscription-agreement-cloudflare.md) ([Source URL](https://cloudflare.com/terms))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:02:03.580111+05:30
+- **Local Path**: `ai/rag/self-serve-subscription-agreement-cloudflare.md`
+
+### 22. [Release Notes | Cohere](../ai/agents/release-notes-cohere.md) ([Source URL](https://docs.cohere.com/changelog))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-25T12:31:11.983701+05:30
-- **Local Path**: `ai/agents/arxiv-2605-24050.md`
+- **Collected At**: 2026-06-25T23:01:31.755449+05:30
+- **Local Path**: `ai/agents/release-notes-cohere.md`
 
-### 31. [Sensing Intelligence as a Trainable Metamaterial Property](../ai/research/arxiv-2605-23967.md) ([Source URL](https://arxiv.org/abs/2605.23967))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.983680+05:30
-- **Local Path**: `ai/research/arxiv-2605-23967.md`
+### 23. [Cohere Documentation | Cohere](../ai/resources/cohere-documentation-cohere.md) ([Source URL](https://docs.cohere.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T23:01:31.721802+05:30
+- **Local Path**: `ai/resources/cohere-documentation-cohere.md`
 
-### 32. [Open-source LLMs administer maximum electric shocks in a Milgram-like obedience experiment](../ai/agents/arxiv-2605-21401.md) ([Source URL](https://arxiv.org/abs/2605.21401))
+### 24. [GeeksforGeeks - YouTube](../ai/resources/geeksforgeeks-youtube.md) ([Source URL](https://youtube.com/geeksforgeeksvideos))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T23:01:29.791614+05:30
+- **Local Path**: `ai/resources/geeksforgeeks-youtube.md`
+
+### 25. [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](../ai/resources/lm-sys-fastchat.md) ([Source URL](https://github.com/lm-sys/fastchat))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T23:01:27.720160+05:30
+- **Local Path**: `ai/resources/lm-sys-fastchat.md`
+
+### 26. [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md) ([Source URL](https://github.com/databrickslabs/doc-qa))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T23:01:27.360606+05:30
+- **Local Path**: `ai/resources/databrickslabs-doc-qa.md`
+
+### 27. [Cookbooks | Cohere](../ai/rag/cookbooks-cohere.md) ([Source URL](https://docs.cohere.com/page/cookbooks))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:01:26.842137+05:30
+- **Local Path**: `ai/rag/cookbooks-cohere.md`
+
+### 28. [- YouTube](../ai/resources/youtube-xvfevyxrkae.md) ([Source URL](https://youtube.com/watch?v=XVFevYxRKAE))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T23:01:24.427487+05:30
+- **Local Path**: `ai/resources/youtube-xvfevyxrkae.md`
+
+### 29. [Google Terms of Service – Privacy & Terms – Google](../ai/rag/google-terms-of-service-privacy-terms-google.md) ([Source URL](https://accounts.google.com/tos?loc=US&hl=en-US))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:01:20.571994+05:30
+- **Local Path**: `ai/rag/google-terms-of-service-privacy-terms-google.md`
+
+### 30. [Firebase · GitHub](../ai/resources/firebase-github.md) ([Source URL](https://github.com/firebase))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T23:01:17.761077+05:30
+- **Local Path**: `ai/resources/firebase-github.md`
+
+### 31. [Google Account Help](../ai/rag/google-account-help.md) ([Source URL](https://support.google.com/accounts?hl=en-US&p=account_iph))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:01:15.729908+05:30
+- **Local Path**: `ai/rag/google-account-help.md`
+
+### 32. [Privacy Policy – Privacy & Terms – Google](../ai/rag/privacy-policy-privacy-terms-google.md) ([Source URL](https://accounts.google.com/tos?loc=US&hl=en-US&privacy=true))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:01:15.665326+05:30
+- **Local Path**: `ai/rag/privacy-policy-privacy-terms-google.md`
+
+### 33. [All Sites - Stack Exchange](../ai/rag/all-sites-stack-exchange.md) ([Source URL](https://stackexchange.com/sites))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:01:14.198331+05:30
+- **Local Path**: `ai/rag/all-sites-stack-exchange.md`
+
+### 34. [The Firebase Blog](../ai/rag/the-firebase-blog.md) ([Source URL](https://firebase.blog))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:01:13.878853+05:30
+- **Local Path**: `ai/rag/the-firebase-blog.md`
+
+### 35. [Latest product releases - Stack Overflow](../ai/resources/latest-product-releases-stack-overflow.md) ([Source URL](https://stackoverflow.blog/releases))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T23:01:12.944278+05:30
+- **Local Path**: `ai/resources/latest-product-releases-stack-overflow.md`
+
+### 36. [github/roadmap](../ai/resources/github-roadmap.md) ([Source URL](https://github.com/github/roadmap))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T23:01:12.445903+05:30
+- **Local Path**: `ai/resources/github-roadmap.md`
+
+### 37. [GitHub Copilot CLI · GitHub](../ai/agents/features-copilot.md) ([Source URL](https://github.com/features/copilot))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-25T12:31:11.983659+05:30
-- **Local Path**: `ai/agents/arxiv-2605-21401.md`
+- **Collected At**: 2026-06-25T23:01:07.421862+05:30
+- **Local Path**: `ai/agents/features-copilot.md`
 
-### 33. [A Simplex Witness Certificate and Escape Force for Constant Collapse in Variational Autoencoders](../ai/research/arxiv-2605-18224.md) ([Source URL](https://arxiv.org/abs/2605.18224))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.983638+05:30
-- **Local Path**: `ai/research/arxiv-2605-18224.md`
-
-### 34. [When Language Overwrites Vision: Over-Alignment and Geometric Debiasing in Vision-Language Models](../ai/rag/arxiv-2605-08245.md) ([Source URL](https://arxiv.org/abs/2605.08245))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-25T12:31:11.983618+05:30
-- **Local Path**: `ai/rag/arxiv-2605-08245.md`
-
-### 35. [Ensemble Distributionally Robust Bayesian Optimisation with Continuous Context](../ai/rag/arxiv-2605-07565.md) ([Source URL](https://arxiv.org/abs/2605.07565))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-25T12:31:11.983598+05:30
-- **Local Path**: `ai/rag/arxiv-2605-07565.md`
-
-### 36. [DynamicPO: Dynamic Preference Optimization for Recommendation](../ai/rag/arxiv-2605-00327.md) ([Source URL](https://arxiv.org/abs/2605.00327))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-25T12:31:11.983577+05:30
-- **Local Path**: `ai/rag/arxiv-2605-00327.md`
-
-### 37. [Fix Initial Programs and Iteratively Refine Repair Instructions Toward Non-Elimination Multi-Turn Program Correction](../ai/research/arxiv-2604-23989.md) ([Source URL](https://arxiv.org/abs/2604.23989))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.983557+05:30
-- **Local Path**: `ai/research/arxiv-2604-23989.md`
-
-### 38. [Dual-Anchoring: Addressing State Drift in Vision-Language Navigation](../ai/rag/arxiv-2604-17473.md) ([Source URL](https://arxiv.org/abs/2604.17473))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-25T12:31:11.983536+05:30
-- **Local Path**: `ai/rag/arxiv-2604-17473.md`
-
-### 39. [THEIA: Learning Complete Kleene Three-Valued Logic in a Pure-Neural Modular Architecture](../ai/rag/arxiv-2604-11284.md) ([Source URL](https://arxiv.org/abs/2604.11284))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-25T12:31:11.983515+05:30
-- **Local Path**: `ai/rag/arxiv-2604-11284.md`
-
-### 40. [WAND: Windowed Attention and Knowledge Distillation for Efficient Autoregressive Text-to-Speech Models](../ai/research/arxiv-2604-08558.md) ([Source URL](https://arxiv.org/abs/2604.08558))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.983495+05:30
-- **Local Path**: `ai/research/arxiv-2604-08558.md`
-
-### 41. [Policies Permitting LLM Use for Polishing Peer Reviews Are Currently Not Enforceable](../ai/rag/arxiv-2603-20450.md) ([Source URL](https://arxiv.org/abs/2603.20450))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-25T12:31:11.983474+05:30
-- **Local Path**: `ai/rag/arxiv-2603-20450.md`
-
-### 42. [HiPath: Hierarchical Vision-Language Alignment for Structured Pathology Report Prediction](../ai/research/arxiv-2603-19957.md) ([Source URL](https://arxiv.org/abs/2603.19957))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.983451+05:30
-- **Local Path**: `ai/research/arxiv-2603-19957.md`
-
-### 43. [AI-Driven Predictive Maintenance with Environmental Context Integration for Connected Vehicles: Simulation, Benchmarking, and Field Validation](../ai/research/arxiv-2603-13343.md) ([Source URL](https://arxiv.org/abs/2603.13343))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.983420+05:30
-- **Local Path**: `ai/research/arxiv-2603-13343.md`
-
-### 44. [CRAFT: A Tendon-Driven Hand with Hybrid Hard-Soft Compliance](../ai/rag/arxiv-2603-12120.md) ([Source URL](https://arxiv.org/abs/2603.12120))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-25T12:31:11.983399+05:30
-- **Local Path**: `ai/rag/arxiv-2603-12120.md`
-
-### 45. [An Approach to Simultaneous Acquisition of Real-Time MRI Video, EEG, and Surface EMG for Articulatory, Brain, and Muscle Activity During Speech Production](../ai/research/arxiv-2603-04840.md) ([Source URL](https://arxiv.org/abs/2603.04840))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.983379+05:30
-- **Local Path**: `ai/research/arxiv-2603-04840.md`
-
-### 46. [No Certificate, No Categorical Speech Act: A Brouwerian Assertibility Constraint for Public Reason](../ai/research/arxiv-2603-03971.md) ([Source URL](https://arxiv.org/abs/2603.03971))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.983358+05:30
-- **Local Path**: `ai/research/arxiv-2603-03971.md`
-
-### 47. [Bitwise Systolic Array Architecture for Runtime-Reconfigurable Multi-precision Quantized Multiplication on Hardware Accelerators](../ai/research/arxiv-2602-23334.md) ([Source URL](https://arxiv.org/abs/2602.23334))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.983338+05:30
-- **Local Path**: `ai/research/arxiv-2602-23334.md`
-
-### 48. [MyoInteract: A Framework for Fast Prototyping of Biomechanical HCI Tasks using Reinforcement Learning](../ai/research/arxiv-2602-15245.md) ([Source URL](https://arxiv.org/abs/2602.15245))
-- **Category**: ai/research
-- **Collected At**: 2026-06-25T12:31:11.983317+05:30
-- **Local Path**: `ai/research/arxiv-2602-15245.md`
-
-### 49. [Event-Grounded Question Answering over Long Audio via Structured Retrieval](../ai/rag/arxiv-2602-14612.md) ([Source URL](https://arxiv.org/abs/2602.14612))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-25T12:31:11.983295+05:30
-- **Local Path**: `ai/rag/arxiv-2602-14612.md`
-
-### 50. [Toward Autonomous O-RAN: A Multi-Scale Agentic AI Framework for Real-Time Network Control and Management](../ai/agents/arxiv-2602-14117.md) ([Source URL](https://arxiv.org/abs/2602.14117))
+### 38. [GitHub Docs](../ai/agents/github-docs.md) ([Source URL](https://docs.github.com))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-25T12:31:11.983274+05:30
-- **Local Path**: `ai/agents/arxiv-2602-14117.md`
+- **Collected At**: 2026-06-25T23:01:07.173338+05:30
+- **Local Path**: `ai/agents/github-docs.md`
+
+### 39. [Update your account to meet age requirements - Google Account Help](../ai/rag/update-your-account-to-meet-age-requirements-googl.md) ([Source URL](https://support.google.com/accounts?p=privpol_agereq&hl=en_US))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:00:49.426596+05:30
+- **Local Path**: `ai/rag/update-your-account-to-meet-age-requirements-googl.md`
+
+### 40. [Safe Browsing â Google Safe Browsing](../ai/rag/safe-browsing-a-google-safe-browsing.md) ([Source URL](https://safebrowsing.google.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:00:49.069982+05:30
+- **Local Path**: `ai/rag/safe-browsing-a-google-safe-browsing.md`
+
+### 41. [Transparency Center - Google Product Policies and Policy Areas](../ai/rag/transparency-center-google-product-policies-and-po.md) ([Source URL](https://transparency.google))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:00:48.982740+05:30
+- **Local Path**: `ai/rag/transparency-center-google-product-policies-and-po.md`
+
+### 42. [How We Handle Ads, Funding, and Data Security - Google - About Google](../ai/resources/how-we-handle-ads-funding-and-data-security-google.md) ([Source URL](https://about.google/intl/en_us/how-our-business-works))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T23:00:48.579929+05:30
+- **Local Path**: `ai/resources/how-we-handle-ads-funding-and-data-security-google.md`
+
+### 43. [Configure security](../ai/resources/configure-security.md) ([Source URL](https://gohugo.io/configuration/security))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T23:00:30.937330+05:30
+- **Local Path**: `ai/resources/configure-security.md`
+
+### 44. [Security model](../ai/rag/security-model.md) ([Source URL](https://gohugo.io/about/security))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:00:30.793515+05:30
+- **Local Path**: `ai/rag/security-model.md`
+
+### 45. [GitHub Status](../ai/rag/github-status.md) ([Source URL](https://githubstatus.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:00:26.531254+05:30
+- **Local Path**: `ai/rag/github-status.md`
+
+### 46. [Configure imaging](../ai/rag/configure-imaging.md) ([Source URL](https://gohugo.io/configuration/imaging))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:00:25.893638+05:30
+- **Local Path**: `ai/rag/configure-imaging.md`
+
+### 47. [Story’s detailed stats page – Medium Help Center](../ai/rag/storys-detailed-stats-page-medium-help-center.md) ([Source URL](https://help.medium.com/hc/en-us/articles/34831991136151))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:00:22.536657+05:30
+- **Local Path**: `ai/rag/storys-detailed-stats-page-medium-help-center.md`
+
+### 48. [About Medium](../ai/rag/about-medium.md) ([Source URL](https://about.medium.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:00:21.039213+05:30
+- **Local Path**: `ai/rag/about-medium.md`
+
+### 49. [System Design Tutorial - GeeksforGeeks](../ai/rag/system-design-tutorial-geeksforgeeks.md) ([Source URL](https://geeksforgeeks.org/system-design/system-design-tutorial))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T23:00:21.022135+05:30
+- **Local Path**: `ai/rag/system-design-tutorial-geeksforgeeks.md`
+
+### 50. [incident-io - YouTube](../ai/resources/incident-io-youtube.md) ([Source URL](https://youtube.com/@incident-io))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T23:00:19.696297+05:30
+- **Local Path**: `ai/resources/incident-io-youtube.md`
 
 ---
-*Index generated on 2026-06-25T12:34:10.177742+05:30*
+*Index generated on 2026-07-06T23:45:56.820552+05:30*

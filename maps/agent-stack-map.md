@@ -11,10 +11,10 @@ LangGraph, CrewAI, AutoGen, Microsoft Semantic Kernel.
 
 ## Recommended Resources from the Vault
 *   [10 Best CrewAI Projects You Must Build in 2026](https://www.projectpro.io/article/crew-ai-projects-ideas-and-examples/1117)
-*   [15 Best Open-Source RAG Frameworks in 2026](https://www.firecrawl.dev/blog/best-open-source-rag-frameworks)
 *   [2026 AI Agent Framework Showdown: LangGraph vs CrewAI vs AG2 vs Claude SDK vs Strands vs OpenAI | QubitTool](https://qubittool.com/blog/ai-agent-framework-comparison-2026)
-*   [7 Best GitHub Repositories For Mastering RAG Systems](https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems)
+*   [[2402.14207] Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models](https://doi.org/10.48550/arXiv.2402.14207)
 *   [adisystems/fmbench-assistant](https://github.com/adisystems/fmbench-assistant)
+*   [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide)
 
 ## Project Ideas
 *   A researcher agent that scrapes hacker news and compiles summaries into markdown.

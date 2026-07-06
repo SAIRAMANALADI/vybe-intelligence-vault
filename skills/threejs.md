@@ -19,13 +19,13 @@ It enables immersive, interactive 3D visualizations, interactive landing pages, 
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 113 resources matched in the intelligence vault.
+Active signals: 168 resources matched in the intelligence vault.
 Recently detected signals:
-- [Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation](../ai/research/arxiv-2606-25927.md) (Source: Unknown Source) - Collected 2026-06-25
-- [Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](../ai/models/transformers-js-v3-webgpu-support-new-models-tasks.md) (Source: Unknown Source) - Collected 2026-06-25
-- [Built-in AI | AI on Chrome | Chrome for Developers](../ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md) (Source: Unknown Source) - Collected 2026-06-22
-- [Design Tech - Cornell University](../ai/resources/design-tech-cornell-university.md) (Source: Unknown Source) - Collected 2026-06-22
-- [android Git repositories - Git at Google](../ai/rag/android-git-repositories-git-at-google.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron](../ai/rag/build-cross-platform-desktop-apps-with-javascript.md) (Source: Unknown Source) - Collected 2026-06-25
+- [All Sites - Stack Exchange](../ai/rag/all-sites-stack-exchange.md) (Source: Unknown Source) - Collected 2026-06-25
+- [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) (Source: Unknown Source) - Collected 2026-06-25
+- [dhruvmisra/Pathfinding-Visualizer-ThreeJS](../web-development/threejs/dhruvmisra-pathfinding-visualizer-threejs.md) (Source: Unknown Source) - Collected 2026-06-25
+- [mrdoob/three.js](../web-development/threejs/mrdoob-three-js.md) (Source: Unknown Source) - Collected 2026-06-25
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -34,22 +34,22 @@ Recently detected signals:
 ### 1. [ektogamat/r3f-webgpu-starter](../web-development/react-three-fiber/ektogamat-r3f-webgpu-starter.md) ([GitHub](https://github.com/ektogamat/r3f-webgpu-starter))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: ektogamat/r3f-webgpu-starter
+- Description: React Three Fiber WebGPU Post Processing by Anderson Mancini. A very simple scene to demonstrate how to integrate Threejs WebGPU with React Three Fiber using Post Processing effects.
 
 ### 2. [whoisryosuke/r3f-next-starter](../web-development/react-three-fiber/whoisryosuke-r3f-next-starter.md) ([GitHub](https://github.com/whoisryosuke/r3f-next-starter))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: Epiczzor/r3f-template
+- Description: Batteries included template for using React Three Fiber (R3F) with NextJS
 
 ### 3. [Mario343214420/Webgl-Data-Demo](../web-development/threejs/mario343214420-webgl-data-demo.md) ([GitHub](https://github.com/mario343214420/webgl-data-demo))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: Mario343214420/Webgl-Data-Demo
+- Description: Vuethree.jsecharts
 
 ### 4. [fireship-io/threejs-scroll-animation-demo](../web-development/threejs/fireship-io-threejs-scroll-animation-demo.md) ([GitHub](https://github.com/fireship-io/threejs-scroll-animation-demo))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: coldi/r3f-game-demo
+- Description: 3D Scrolling Portfolio Website with Three.js
 
 ### 5. [luosijie/threejs-examples](../web-development/threejs/luosijie-threejs-examples.md) ([GitHub](https://github.com/luosijie/threejs-examples))
 - Stars: 0
@@ -64,7 +64,7 @@ Recently detected signals:
 ### 7. [wass08/r3f-ultimate-character-configurator](../web-development/react-three-fiber/wass08-r3f-ultimate-character-configurator.md) ([GitHub](https://github.com/wass08/r3f-ultimate-character-configurator))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: wass08/r3f-ultimate-character-configurator
+- Description: React Three Fiber 3D Avatar Builder Tutorial
 
 ### 8. [gkjohnson/threejs-sandbox](../web-development/threejs/gkjohnson-threejs-sandbox.md) ([GitHub](https://github.com/gkjohnson/threejs-sandbox))
 - Stars: 0
@@ -84,62 +84,62 @@ Recently detected signals:
 ### 11. [puxiao/threejs-tutorial](../web-development/threejs/puxiao-threejs-tutorial.md) ([GitHub](https://github.com/puxiao/threejs-tutorial))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: ykob/sketch-threejs
+- Description: Three.js  Three.js
 
 ### 12. [sanderblue/solar-system-threejs](../web-development/threejs/sanderblue-solar-system-threejs.md) ([GitHub](https://github.com/sanderblue/solar-system-threejs))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: puxiao/threejs-tutorial
+- Description: The Solar System modeled to scale with Three.js
 
-### 13. [juniorxsound/R3F.Multiplayer](../web-development/react-three-fiber/juniorxsound-r3f-multiplayer.md) ([GitHub](https://github.com/juniorxsound/r3f.multiplayer))
+### 13. [ykob/sketch-threejs](../web-development/threejs/ykob-sketch-threejs.md) ([GitHub](https://github.com/ykob/sketch-threejs))
+- Stars: 0
+- Language: Unknown
+- Description: Interactive sketches made with three.js.
+
+### 14. [juniorxsound/R3F.Multiplayer](../web-development/react-three-fiber/juniorxsound-r3f-multiplayer.md) ([GitHub](https://github.com/juniorxsound/r3f.multiplayer))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: juniorxsound/R3F.Multiplayer
 
-### 14. [14islands/r3f-scroll-rig](../web-development/react-three-fiber/14islands-r3f-scroll-rig.md) ([GitHub](https://github.com/14islands/r3f-scroll-rig))
+### 15. [14islands/r3f-scroll-rig](../web-development/react-three-fiber/14islands-r3f-scroll-rig.md) ([GitHub](https://github.com/14islands/r3f-scroll-rig))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: dhruvmisra/Pathfinding-Visualizer-ThreeJS
+- Description: A react-three-fiber scroll-rig for syncing 3D meshes and DOM elements.
 
-### 15. [pmndrs/react-three-fiber](../web-development/react-three-fiber/pmndrs-react-three-fiber.md) ([GitHub](https://github.com/pmndrs/react-three-fiber))
+### 16. [pmndrs/react-three-fiber](../web-development/react-three-fiber/pmndrs-react-three-fiber.md) ([GitHub](https://github.com/pmndrs/react-three-fiber))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: fritx/vue-threejs
+- Description: A React renderer for Three.js
 
-### 16. [dhruvmisra/Pathfinding-Visualizer-ThreeJS](../web-development/threejs/dhruvmisra-pathfinding-visualizer-threejs.md) ([GitHub](https://github.com/dhruvmisra/pathfinding-visualizer-threejs))
+### 17. [dhruvmisra/Pathfinding-Visualizer-ThreeJS](../web-development/threejs/dhruvmisra-pathfinding-visualizer-threejs.md) ([GitHub](https://github.com/dhruvmisra/pathfinding-visualizer-threejs))
 - Stars: 0
 - Language: Unknown
 - Description: A visualizer for pathfinding algorithms in 3D with maze generation, first-person view and device camera input.
 
-### 17. [mrdoob/three.js](../web-development/threejs/mrdoob-three-js.md) ([GitHub](https://github.com/mrdoob/three.js))
+### 18. [mrdoob/three.js](../web-development/threejs/mrdoob-three-js.md) ([GitHub](https://github.com/mrdoob/three.js))
 - Stars: 0
 - Language: Unknown
 - Description: JavaScript 3D Library.
 
-### 18. [emmelleppi/codrops-r3f-mirrors](../web-development/react-three-fiber/emmelleppi-codrops-r3f-mirrors.md) ([GitHub](https://github.com/emmelleppi/codrops-r3f-mirrors))
+### 19. [emmelleppi/codrops-r3f-mirrors](../web-development/react-three-fiber/emmelleppi-codrops-r3f-mirrors.md) ([GitHub](https://github.com/emmelleppi/codrops-r3f-mirrors))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: emmelleppi/codrops-r3f-mirrors
 
-### 19. [josdirksen/learning-threejs-third](../web-development/threejs/josdirksen-learning-threejs-third.md) ([GitHub](https://github.com/josdirksen/learning-threejs-third))
+### 20. [josdirksen/learning-threejs-third](../web-development/threejs/josdirksen-learning-threejs-third.md) ([GitHub](https://github.com/josdirksen/learning-threejs-third))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: xiao149/ThreeJsDemo
+- Description: Ongoing project for learning Three.js third edition
 
-### 20. [wechat-miniprogram/threejs-miniprogram](../web-development/threejs/wechat-miniprogram-threejs-miniprogram.md) ([GitHub](https://github.com/wechat-miniprogram/threejs-miniprogram))
+### 21. [wechat-miniprogram/threejs-miniprogram](../web-development/threejs/wechat-miniprogram-threejs-miniprogram.md) ([GitHub](https://github.com/wechat-miniprogram/threejs-miniprogram))
 - Stars: 0
 - Language: Unknown
 - Description: WeChat MiniProgram adapted version of Three.js
 
-### 21. [z2586300277/three-cesium-examples](../web-development/threejs/z2586300277-three-cesium-examples.md) ([GitHub](https://github.com/z2586300277/three-cesium-examples))
+### 22. [z2586300277/three-cesium-examples](../web-development/threejs/z2586300277-three-cesium-examples.md) ([GitHub](https://github.com/z2586300277/three-cesium-examples))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: z2586300277/three-cesium-examples
-
-### 22. [ykob/sketch-threejs](../web-development/threejs/ykob-sketch-threejs.md) ([GitHub](https://github.com/ykob/sketch-threejs))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: ykob/sketch-threejs
+- Description: WebGL Three.js Cesium.js Examples And Demo - WebGL  Three.js  Cesium.js  --- Star ---
 
 ### 23. [gsimone/r3f-bubbles](../web-development/react-three-fiber/gsimone-r3f-bubbles.md) ([GitHub](https://github.com/gsimone/r3f-bubbles))
 - Stars: 0
@@ -186,7 +186,7 @@ Recently detected signals:
 - Language: Unknown
 - Description: Create awesome landing page for Apple iPhone 14 using Three JS and React JS. This website uses threeJS to render 3D model of iPhone and GSAP for scrolling animations. If you want to learn how to cr...
 
-### 32. [nklsrh/BuildNewGames_ThreeJSGame](../web-development/threejs/nklsrh-buildnewgames-threejsgame.md) ([GitHub](https://github.com/nklsrh/buildnewgames_threejsgame))
+### 32. [codebucks27/Apple-iphone-3d-landing-page-starter-Code](../web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code.md) ([GitHub](https://github.com/codebucks27/apple-iphone-3d-landing-page-starter-code))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: codebucks27/Apple-iphone-3d-landing-page-starter-Code
@@ -229,7 +229,7 @@ Recently detected signals:
 ### 40. [pmndrs/drei](../web-development/react-three-fiber/pmndrs-drei.md) ([GitHub](https://github.com/pmndrs/drei))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: playcanvas/engine
+- Description: 🥉 useful helpers for react-three-fiber
 
 ### 41. [pmndrs/react-three-flex](../web-development/react-three-fiber/pmndrs-react-three-flex.md) ([GitHub](https://github.com/pmndrs/react-three-flex))
 - Stars: 0
@@ -244,7 +244,7 @@ Recently detected signals:
 ### 43. [pmndrs/uikit](../web-development/react-three-fiber/pmndrs-uikit.md) ([GitHub](https://github.com/pmndrs/uikit))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: mkkellogg/GaussianSplats3D
+- Description: user interfaces for react-three-fiber
 
 ### 44. [mkkellogg/GaussianSplats3D](../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([GitHub](https://github.com/mkkellogg/gaussiansplats3d))
 - Stars: 0
@@ -274,12 +274,12 @@ Recently detected signals:
 ### 49. [mohitvirli/mohitvirli.github.io](../web-development/react-three-fiber/mohitvirli-mohitvirli-github-io.md) ([GitHub](https://github.com/mohitvirli/mohitvirli.github.io))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: pixiv/three-vrm
+- Description: Portfolio website in React-three-fiber, Drei & GSAP
 
-### 50. [wolfwind521/indoor3D](../web-development/threejs/wolfwind521-indoor3d.md) ([GitHub](https://github.com/wolfwind521/indoor3d))
+### 50. [pmndrs/xr](../web-development/react-three-fiber/pmndrs-xr.md) ([GitHub](https://github.com/pmndrs/xr))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: wolfwind521/indoor3D
+- Description: 🤳 VR/AR for react-three-fiber
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -301,4 +301,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-25T12:33:59.765440+05:30.484934+05:30.618762+05:30.287167+05:30.414877+05:30.777948+05:30.122469+05:30.119037+05:30.468914+05:30.415146+05:30.934005+05:30.861220+05:30.001644+05:30.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-06T23:45:43.801186+05:30.765440+05:30.484934+05:30.618762+05:30.287167+05:30.414877+05:30.777948+05:30.122469+05:30.119037+05:30.468914+05:30.415146+05:30.934005+05:30.861220+05:30.001644+05:30.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.

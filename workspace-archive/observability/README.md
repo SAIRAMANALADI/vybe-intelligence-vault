@@ -14,8 +14,8 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 - [Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227) (framework - USEFUL Tier)
 - [RL-Index: Reinforcement Learning for Retrieval Index Reasoning](https://arxiv.org/abs/2606.16316) (framework - USEFUL Tier)
 - [ASAP: Agent-System Co-Design for Wall-Clock-Centered Auto HPO Research for ML Experiments](https://arxiv.org/abs/2606.25207) (prompt - USEFUL Tier)
+- [deepagents · PyPI](https://pypi.org/project/deepagents/) (framework - USEFUL Tier)
 - [OpenTelemetry](https://opentelemetry.io) (framework - USEFUL Tier)
-- [LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization](https://arxiv.org/abs/2606.15349) (dataset - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,10 +23,10 @@ https://github.com/langfuse/langfuse (Langfuse)
 https://github.com/Arize-AI/phoenix (Arize Phoenix)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 - [gnikoloff/webgpu-raytracer](https://github.com/gnikoloff/webgpu-raytracer)
 - [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
 - [danielt69/awesome-agent-observability](https://github.com/danielt69/awesome-agent-observability)
-- [iris-eval/mcp-server](https://github.com/iris-eval/mcp-server)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-06-25 12:35 IST*
+*Last updated: 2026-07-06 23:47 IST*

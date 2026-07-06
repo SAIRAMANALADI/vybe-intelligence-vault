@@ -14,7 +14,7 @@ Langfuse, Ollama, llama.cpp, vLLM, Phoenix.
 *   [Assisted Generation: a new direction toward low-latency text generation](https://huggingface.co/blog/assisted-generation)
 *   [Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs](https://huggingface.co/blog/infinity-cpu-performance)
 *   [Fetch Cuts ML Processing Latency by 50% Using Amazon SageMaker & Hugging Face](https://huggingface.co/blog/fetch-case-study)
-*   [Apple Vision Pro - Apple](https://www.apple.com/apple-vision-pro)
+*   [Chat LangChain](https://chat.langchain.com/)
 
 ## Project Ideas
 *   Self-hosted Ollama server with custom evaluators verifying response quality.

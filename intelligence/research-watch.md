@@ -8,6 +8,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Improving Generalization and Data Efficiency with Diffusion in Offline Multi-agent RL](https://arxiv.org/abs/2307.01472) | `ai-coding-agents/` | 70 |
 | [SSIL: Self-Supervised Imitation Learning for End-to-End Driving](https://arxiv.org/abs/2308.14329) | `ai-coding-agents/` | 70 |
 | [It's About Time: Temporal References in Emergent Communication](https://arxiv.org/abs/2310.06555) | `ai-coding-agents/` | 70 |
+| [Reinforcement Learning to Disentangle Multiqubit Quantum States from Partial Observations](https://arxiv.org/abs/2406.07884) | `ai-coding-agents/` | 70 |
 | [CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark](https://arxiv.org/abs/2409.11363) | `ai-coding-agents/` | 70 |
 | [Explainable deep learning improves human mental models of self-driving cars](https://arxiv.org/abs/2411.18714) | `ai-coding-agents/` | 70 |
 | [MedicalAgentsBench for Complex Medical Reasoning: Comparing Internalized Reasoning Models versus Externalized Agent-based Frameworks](https://arxiv.org/abs/2503.07459) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Blueprint First, Model Second: A Framework for Deterministic LLM Workflow](https://arxiv.org/abs/2508.02721) | `ai-coding-agents/` | 70 |
 | [FALCON: Transforming Cyber Threat Intelligence into Deployable IDS Rules with Self-Reflection](https://arxiv.org/abs/2508.18684) | `ai-coding-agents/` | 70 |
 | [The Algorithm Is Not the Behavior: Learned Priors Override Look-Ahead in a Chess-Playing Neural Network](https://arxiv.org/abs/2508.21380) | `ai-coding-agents/` | 70 |
-| [PosterForest: Hierarchical Multi-Agent Collaboration for Scientific Poster Generation](https://arxiv.org/abs/2508.21720) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.
