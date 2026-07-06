@@ -177,19 +177,55 @@ score_threshold: 0.65
 
 ---
 
-## 📊 Vault Stats
+<!-- VAULT_STATS:START -->
 
-| Metric | Value |
-|---|---|
-| Total Resources | 5,928 |
-| Active | 5,785 |
-| Inactive / Archived | 143 |
-| Archive Files | 24,573 |
-| Builder Maps | 8 |
-| Last Pipeline Run | 2026-06-23 00:27 IST |
-| Health | 🟢 Optimal |
+<div align="center">
+  <h2>📊 Intelligence Analytics Dashboard</h2>
+  <p><em>Real-time metrics generated from active vault contents.</em></p>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <h3>🗄️ Core Storage</h3>
+        <p><b>Resources tracked:</b> 8,371</p>
+        <p><b>Active:</b> 8,071 | <b>Inactive:</b> 300</p>
+      </td>
+      <td align="center">
+        <h3>📂 Archives & Maps</h3>
+        <p><b>Archive Files:</b> 31,995</p>
+        <p><b>Builder Maps:</b> 8</p>
+      </td>
+      <td align="center">
+        <h3>⚡ Status</h3>
+        <p><b>Last Update:</b> 2026-07-06 23:04 IST</p>
+        <p><b>Health:</b> 🟢 Optimal</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-*Regenerated automatically on every pipeline push.*
+<br/>
+
+### 📈 Trending Signals
+> Top rising resources based on momentum and community velocity.
+
+- 🔼 **[The Cost Geometry of Belief: finite-resource inference under noisy observation](ai/agents/arxiv-2606-21585.md)** • Rank: <kbd>+1213</kbd>
+
+### 🌟 New Discoveries
+> Fresh intelligence recently indexed into the vault.
+
+- 🆕 **[[QUALITY] - ](.github/ISSUE_TEMPLATE/quality-feedback.md)** • Score: `0`
+
+### 💤 Recently Inactive
+> Resources showing declined activity or relevance.
+
+- None.
+
+The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
+
+<!-- Automated Stats Injection Block -->
+
+<!-- VAULT_STATS:END -->
 
 ---
 
