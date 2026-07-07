@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-07-07T15:34:59.652450+05:30'
+collected_at: '2026-07-07T23:00:56.857805+05:30'
 published_at: '2026-07-04T18:18:49Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -22,9 +24,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-07-07T15:34:59.652450+05:30'
-last_seen: '2026-07-07T15:34:59.652450+05:30'
-last_checked: '2026-07-07T15:34:59.652450+05:30'
+first_seen: '2026-07-07T23:00:56.857805+05:30'
+last_seen: '2026-07-07T23:00:56.857805+05:30'
+last_checked: '2026-07-07T23:00:56.857805+05:30'
 health_score: 100
 ---
 
@@ -32,9 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples integrating Llama2, OpenAI, and Anyscale models.
-- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) and optimizing inference via Ray’s scalable serving infrastructure.
-- **End-to-End Deployment**: Provides templates for deploying RAG-based LLM applications in production, covering retrieval, generation, and serving components.
+- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized fine-tuning techniques.
+- **Scalable Serving Architecture**: Leverages Ray’s distributed computing to handle high-throughput LLM inference, with notebooks showcasing deployment strategies for low-latency production environments.
+- **Tooling & Integration**: Provides end-to-end examples for integrating Anyscale endpoints, vector databases, and custom fine-tuning pipelines, with emphasis on reproducibility and performance benchmarks.
 
 ## Why It Matters
 

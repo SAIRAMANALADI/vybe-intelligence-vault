@@ -16,6 +16,7 @@ tags:
 - hackernews
 - jupyter notebook
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Curriculum Structure**: 12-lesson Jupyter Notebook-based course teaching foundational to advanced concepts in building AI agents, covering agentic AI, frameworks (Autogen, Semantic Kernel), and RAG (Retrieval-Augmented Generation) integration.
+- **Curriculum Structure**: 12-lesson Jupyter Notebook-based course covering foundational to advanced concepts in AI agents, including agentic RAG, Autogen, and Semantic Kernel frameworks.
 
-- **Technical Topics**: Focuses on agentic AI principles, multi-agent orchestration, tool-use in agents, and integration with generative AI models, with hands-on implementations in Python.
+- **Technical Focus**: Emphasizes hands-on implementation of agentic AI systems, with topics spanning multi-agent orchestration, tool integration, and generative AI workflows.
 
-- **Ecosystem Tools**: Utilizes Microsoft’s AI agent framewor
+- **Ecosystem Integration**: Demonstrates Microsoft’s AI agent frameworks (Autogen, Semantic Kernel) and their application in real-wo
 
 ## Use Cases
 

@@ -2,7 +2,7 @@
 title: Medium Terms of Service | by Medium | Medium Policy
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=
+source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page
 resource_id: blog:medium-terms-of-service-by-medium-medium-policy
 local_vault_path: ai/rag/medium-terms-of-service-by-medium-medium-policy.md
 quality_score: 70
@@ -28,9 +28,9 @@ selection_reason:
 
 ## Summary
 
-- **License Grant**: Users retain content ownership but grant Medium a **non-exclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display user content across all Services (e.g., web, mobile) for operational purposes, including derivative works with attribution.
+- **License Grant**: Users retain ownership of submitted content but grant Medium a **non-exclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Services (e.g., web, mobile) with attribution, including derivative works like previews or curated lists.
 
-- **Liability Limitations**: Medium disclaims warranties (e.g., accuracy, reliability) and limits liability to **$50 USD or fees paid** (whichever is greater), except in cases of gross neglige
+- **Arbitration Clause**: Disputes (excluding small claims or IP injunctions) must be resolved via **confidential, binding arbitration under JAMS Rules**, waiving class actions a
 
 ## Use Cases
 
@@ -40,7 +40,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=
+Original source URL: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page
 
 ## Local Vault File
 

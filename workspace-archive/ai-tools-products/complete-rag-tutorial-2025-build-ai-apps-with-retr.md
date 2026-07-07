@@ -7,17 +7,17 @@ source_url: https://www.youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_
 resource_id: blog:complete-rag-tutorial-2025-build-ai-apps-with-retr
 local_vault_path: ai/rag/complete-rag-tutorial-2025-build-ai-apps-with-retr.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
-resource_kind: dataset
-importance: medium
+resource_kind: framework
+importance: high
 tags:
 - rag
 - web-crawled
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Complete RAG Tutorial 2025: Build AI Apps with Retrieval Augmented Generation - YouTube
@@ -25,17 +25,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- YouTube operates under Google LLC, adhering to corporate policies, privacy standards, and safety guidelines outlined in their respective documentation.
-- The platform provides APIs and developer tools via [Google Developers](https://developers.google.com/youtube) for integration, analytics, and customization.
-- YouTube monetization, content policies, and platform mechanics are detailed in the [Creators](https://www.youtube.com/creators/) and [How YouTube Works](https://www.youtube.com/howyoutu
+- YouTube operates under Google LLC, adhering to corporate policies, privacy laws, and content safety frameworks outlined in official documentation.
+- The platform provides APIs, developer tools, and monetization options (e.g., advertising) for creators and businesses via YouTube’s Developer and Ads platforms.
+- YouTube’s infrastructure and monetization mechanics are detailed in the "How YouTube Works" resource, explaining core functionality and business models.
 
 ## Use Cases
 

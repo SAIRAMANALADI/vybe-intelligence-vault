@@ -16,7 +16,6 @@ tags:
 - github-repo
 - scripts
 - unknown
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous DevOps Framework**: GitHub Actions orchestrates AI agents (via Claude) to autonomously manage sprints, tasks, and deliverables directly from GitHub Issues under a Scrum workflow.
+- **Autonomous DevOps Framework**: GitHub Actions orchestrates AI agents under Scrum methodology to autonomously manage, assign, and execute tasks directly from GitHub Issues.
 
-- **AI-Agent Orchestration**: Uses a predefined set of AI agents (e.g., task breakdown, code generation, PR review) to automate development lifecycle processes without human intervention.
+- **AI-Powered Agent Orchestration**: Integrates Claude-based AI agents to handle sprint planning, task decomposition, and progress tracking without human intervention.
 
-- **Self-Contained Template**: Provides a preconfigured repository structure with CI/CD pipelines, agent manifests,
+- **Self-Contained Scrum Implementation**: Converts a repository into an autonomous development team, automating backlog grooming, sprint execution, and
 
 ## Use Cases
 

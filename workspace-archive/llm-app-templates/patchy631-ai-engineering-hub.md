@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`patchy631/ai-engineering-hub`) providing advanced tutorials on **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **real-world AI agent applications**, with 36,379 stars and 6,024 forks.
-- **Technical Focus**: Primarily implemented in **Jupyter Notebooks**, covering topics such as **AI agents, LLMs, machine learning, MCP (Model Context Protocol), and RAG** with the last update on **July 7, 2026**.
-- **Purpose & Scope**:
+- **Repository Overview**: GitHub repository (`patchy631/ai-engineering-hub`) with 36,382 stars and 6,026 forks, containing Jupyter Notebook-based tutorials on LLMs, RAGs, and AI agent applications.
+- **Technical Focus**: Covers advanced topics including **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **AI agents**, **MCP (Model Context Protocol)**, and **machine learning** implementations.
+- **Latest Update**: Repository last updated on **July 7, 2026**, ensuring rec
 
 ## Use Cases
 

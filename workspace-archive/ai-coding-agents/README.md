@@ -12,7 +12,7 @@ AI coding agents represent the next leap in software engineering, moving from co
 - [AI Coding Agents in Social Science: Methodologically Diverse, Empirically Consistent, Interpretively Vulnerable](https://arxiv.org/abs/2606.11456) (prompt - ESSENTIAL Tier)
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (product - ESSENTIAL Tier)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
-- [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (tool - ESSENTIAL Tier)
+- [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (template - ESSENTIAL Tier)
 - [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
 - [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) (tool - USEFUL Tier)
@@ -44,4 +44,4 @@ https://github.com/All-Hands-AI/OpenHands (OpenHands)
 
 ---
 
-*Last updated: 2026-07-07 15:48 IST*
+*Last updated: 2026-07-07 23:14 IST*

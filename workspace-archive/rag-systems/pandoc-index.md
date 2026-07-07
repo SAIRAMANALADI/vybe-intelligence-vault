@@ -2,7 +2,7 @@
 title: Pandoc - index
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://pandoc.org
+source_url: https://pandoc.org/
 resource_id: blog:pandoc-index
 local_vault_path: ai/rag/pandoc-index.md
 quality_score: 70
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Universal document converter**: Pandoc supports bidirectional conversion between **40+ formats**, including Markdown, LaTeX, HTML, EPUB, Word (docx), PowerPoint, and PDF (via LaTeX/other engines), with custom reader/writer support via Lua.
+- **Universal document converter**: Pandoc supports bidirectional conversion between 40+ markup, documentation, ebook, word processor, slide, wiki, and data formats (e.g., Markdown ↔︎ LaTeX, EPUB ↔︎ DocBook, docx ↔︎ ODT, CSV/TSV ↔︎ Markdown tables).
 
-- **Advanced markup & templating**: Supports **extended Markdown** (metadata, footnotes, tables, math via LaTeX), **automatic citations** (BibTeX/BibLaTeX/CSL), and **template-driven output** with filters for custom processing.
+- **Advanced markup & rendering**: Supports LaTeX math (with macro translation), syntax-highlighted code blocks, metadata (title/author/date), footnotes, tables, and CSL-based citations/bibliographies across all output formats.
 
-- **Haskell-based modular
+- **Extensible archi
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://pandoc.org
+Original source URL: https://pandoc.org/
 
 ## Local Vault File
 

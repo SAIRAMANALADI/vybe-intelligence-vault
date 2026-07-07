@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- Licensed under Apache 2.0; open-source and free to use.
-- Go-based, optimized for speed with advanced templating and asset pipelines; renders large sites in seconds.
-- Supports multilingual content, powerful taxonomies, and fast asset processing (images, JS, Sass, TailwindCSS); includes embedded dev server for live reloading.
+- **License & Adoption**: Distributed under Apache 2.0 License; 88,871 GitHub stars as of July 7, 2026.
+- **Performance & Features**: Go-based, optimized for speed; supports multilingual content, advanced templating, and fast asset pipelines (image processing, JS bundling, Sass, TailwindCSS).
+- **Development & Community**: Embedded web server for instant preview; active community with frequent releases and support forums.
 
 ## Use Cases
 

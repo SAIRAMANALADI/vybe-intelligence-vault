@@ -14,7 +14,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Modal RAG Integration**: Framework supports retrieval-augmented generation (RAG) across text, images, audio, and video modalities, enabling unified cross-modal retrieval and generation workflows.
+- **Multi-modal RAG Integration**: Framework unifies text, image, audio, and video retrieval with a single pipeline, leveraging modality-specific encoders (e.g., CLIP, Whisper) and cross-modal fusion mechanisms for heterogeneous data retrieval.
 
-- **Modular Architecture**: Implements a plug-and-play system with interchangeable components (e.g., encoders, retrievers, generators) for customizable RAG pipelines tailored to specific multi-modal tasks.
+- **Dynamic Retrieval Augmentation**: Implements adaptive retrieval strategies (e.g., query rewriting, multi-hop retrieval) with a lightweight LLM-based router to optimize context relevance and mitigate noise in retrieved data.
 
-- **Optimized Retrieval Mechanisms**: Leverages advanced indexing (e.g., FAISS, Milvus
+- **Modular Architecture*
 
 ## Use Cases
 

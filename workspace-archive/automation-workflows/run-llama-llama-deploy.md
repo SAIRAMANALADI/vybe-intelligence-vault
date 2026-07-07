@@ -6,19 +6,17 @@ source_url: https://github.com/run-llama/llama_deploy
 resource_id: github:run-llama/llama_deploy
 local_vault_path: ai/rag/run-llama-llama-deploy.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
 - rag
-- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -30,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -38,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Purpose**: Enables deployment of agentic workflows to production, supporting multi-agent systems with LLM integration via LlamaIndex.
-- **Technical Stack**: Python-based framework optimized for scalable agent orchestration and workflow automation.
-- **Key Features**: Supports deployment, multi-agent collaboration, and LLM-driven workflows with recent updates (as of 2026-06-09).
+- **Multi-agent orchestration framework** enabling deployment of agentic workflows with LLM integration via LlamaIndex, supporting modular agent composition and task delegation.
+
+- **Production-ready deployment** with built-in scaling, state management, and async task execution for distributed agent systems.
+
+- **Python-based SDK** with CLI tools for defining, deploying, and monitoring agent workflows, optimized for LLM-driven decision-making.
 
 ## Use Cases
 

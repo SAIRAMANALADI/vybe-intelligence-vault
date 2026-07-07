@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/study8677/antigravity-workspace-template
-collected_at: '2026-07-07T15:33:49.636184+05:30'
+collected_at: '2026-07-07T22:59:46.742563+05:30'
 published_at: '2026-07-07T08:43:06Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-11-19T08:51:14Z'
 pushed_at: '2026-07-07T08:43:02Z'
 resource_id: github:study8677/antigravity-workspace-template
-first_seen: '2026-07-07T15:33:49.636184+05:30'
-last_seen: '2026-07-07T15:33:49.636184+05:30'
-last_checked: '2026-07-07T15:33:49.636184+05:30'
+first_seen: '2026-07-07T22:59:46.742563+05:30'
+last_seen: '2026-07-07T22:59:46.742563+05:30'
+last_checked: '2026-07-07T22:59:46.742563+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent codebase Q&A system**: Enables grounded interactions with codebases via file paths and line numbers, supporting tools like Claude Code, Cursor, and Codex CLI.
-- **Knowledge engine integration**: Combines RAG, MCP servers, and knowledge graphs to provide context-aware responses for code search and developer tooling.
-- **IDE-agnostic plugin**: Designed as a Python-based MCP server, compatible with AI IDEs (e.g., Cursor, VS Code) and CLI tools (e.g., Codex CLI) for cross-platform code intelligence.
+- **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for codebase interaction.
+- **IDE-agnostic integration** supporting Claude Code, Cursor, Codex CLI, and other AI tools via MCP server.
+- **RAG-based architecture** combining code search, knowledge graph, and LLM prompting for precise, context-aware responses.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: study8677
 - Stars: 1294
-- Forks: 259
+- Forks: 258
 - Language: Python
 - Topics: agents-sdk, ai-agent, claude-code, code-intelligence, code-search, codebase-qa, codex-cli, copilot, cursor, developer-tools, ide-plugin, knowledge-graph, llm, mcp, mcp-server, multi-agent, openai, python, rag, windsurf
 - Last Updated: 2026-07-07T08:43:06Z

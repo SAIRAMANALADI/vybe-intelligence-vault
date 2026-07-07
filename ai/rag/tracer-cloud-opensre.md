@@ -4,25 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Tracer-Cloud/opensre
-collected_at: '2026-07-07T09:52:23.234450+05:30'
-published_at: '2026-07-07T03:41:25Z'
+collected_at: '2026-07-07T23:01:36.917489+05:30'
+published_at: '2026-07-07T17:09:16Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
+- scripts
 - workflows
-stars: 7959
+stars: 7994
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-01-13T00:04:47Z'
-pushed_at: '2026-07-07T01:42:31Z'
+pushed_at: '2026-07-07T17:13:32Z'
 resource_id: github:tracer-cloud/opensre
-first_seen: '2026-07-07T09:52:23.234450+05:30'
-last_seen: '2026-07-07T09:52:23.234450+05:30'
-last_checked: '2026-07-07T09:52:23.234450+05:30'
+first_seen: '2026-07-07T23:01:36.917489+05:30'
+last_seen: '2026-07-07T23:01:36.917489+05:30'
+last_checked: '2026-07-07T23:01:36.917489+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **AI-Powered SRE Toolkit**: Open-source Python framework (`opensre`) enabling autonomous Site Reliability Engineering (SRE) agents with AI-driven observability, root-cause analysis (RCA), and remediation for incident management.
-
-- **Integration-Centric Design**: Supports multi-platform observability (Datadog, Grafana) and collaboration tools (Slack), automating alerting, incident response, and remediation workflows via AI agents.
-
-- **Modular Architecture**: Extensible toolkit for building custom AI SRE agents, leveraging Python with focus on scalability, real-time RCA, and proactive incident mitigation.
+- **AI-Powered SRE Toolkit**: Open-source framework (`opensre`) enabling autonomous Site Reliability Engineering (SRE) agents with AI-driven root-cause analysis, incident remediation, and observability integration (Datadog, Grafana).
+- **Multi-Platform Observability**: Supports alerting, incident management, and remediation workflows via Slack, with connectors for Datadog, Grafana, and other observability tools.
+- **Python-Based Automation**: Leverages Python for extensible agent development, enabling custom SRE workflows, alert correlation, and automated incident response.
 
 ## Why It Matters
 
@@ -43,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Tracer-Cloud
-- Stars: 7959
-- Forks: 1079
+- Stars: 7994
+- Forks: 1092
 - Language: Python
 - Topics: ai-sre, alerting, datadog, grafana, incident-management, observability, remediation, root-cause-analysis, site-reliability-engineering, slack, sre
-- Last Updated: 2026-07-07T03:41:25Z
+- Last Updated: 2026-07-07T17:09:16Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-01-13T00:04:47Z
-- Pushed At: 2026-07-07T01:42:31Z
+- Pushed At: 2026-07-07T17:13:32Z
 
 ## Possible Use Cases
 

@@ -2,14 +2,20 @@
 title: infiniflow/ragflow
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/infiniflow/ragflow?source=post_page
+source_url: https://github.com/infiniflow/ragflow
 resource_id: github:infiniflow/ragflow
 local_vault_path: ai/rag/infiniflow-ragflow.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
+tags:
+- agents
+- github-repo
+- go
+- rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -20,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -28,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid RAG-Engine**: Combines advanced Retrieval-Augmented Generation (RAG) with Agent capabilities to enhance LLM context processing, enabling superior contextual understanding and response generation.
+- **Hybrid RAG-Plus-Agent Architecture**: Combines retrieval-augmented generation (RAG) with agentic workflows to dynamically enhance LLM context via adaptive retrieval, reasoning, and tool-use capabilities.
 
-- **Multi-Layered Architecture**: Implements a context engine and management system for dynamic context handling, supporting agentic retrieval and search workflows for optimized LLM interactions.
+- **Go-Based Context Engine**: Implements a high-performance, concurrent Go backend for scalable document parsing, vector indexing, and real-time context fusion across structured/unstructured data.
 
-- **Go-Based Implementation**: Built in Go for high-performance processing, with modular design
+- **Modular Pipeline with Agentic Search**: Supports pluggable retrieval strategies (e.g., s
 
 ## Use Cases
 
@@ -42,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/infiniflow/ragflow?source=post_page
+Original source URL: https://github.com/infiniflow/ragflow
 
 ## Local Vault File
 

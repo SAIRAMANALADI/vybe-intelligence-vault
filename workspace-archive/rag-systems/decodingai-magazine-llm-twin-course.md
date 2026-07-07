@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Course Overview**: Provides a free, hands-on guide to building production-ready LLM and RAG systems using LLMOps best practices, including source code and 12 structured lessons.
-- **Technical Stack**: Implements AWS, Pulumi (IaC), Qdrant (vector DB), Bytewax (streaming), Comet.ml (ML tracking), and Qwak (MLOps) in a Dockerized Python environment.
-- **Key Topics**: Covers LLM system design, MLOps, generative AI, and infrastructure deployment with a focus on scalability and reproducibility.
+- **Course Structure**: Provides a free, hands-on guide to building production-ready LLM and RAG systems using LLMOps best practices, including 12 hands-on lessons and source code.
+
+- **Technical Stack**: Implements infrastructure-as-code (Pulumi), containerization (Docker), vector databases (Qdrant), and MLOps tools (Bytewax, Comet-ML, Qwak) with AWS integration.
+
+- **Focus Areas**: Covers end-to-end system design for generative AI, emphasizing scalability, deployment, and monitoring in a produ
 
 ## Use Cases
 

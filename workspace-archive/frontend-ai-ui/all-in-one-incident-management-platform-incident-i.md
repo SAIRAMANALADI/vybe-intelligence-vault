@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **AI-powered alert filtering**: Reduces noise and minimizes unnecessary pages by leveraging machine learning to prioritize critical incidents.
-- **Automated scheduling & escalation**: Dynamically assigns on-call duties based on team availability, skills, and incident trends, with built-in escalation policies.
-- **Real-time analytics & trends**: Provides historical and predictive insights into incident frequency, response times, and team performance via a centralized dashboard.
+- **AI-driven alert filtering**: Reduces noise by prioritizing critical incidents and minimizing unnecessary pages via machine learning.
+- **Automated scheduling**: Optimizes on-call rotations using human-centric algorithms to ensure fair and efficient coverage.
+- **Real-time analytics**: Provides trends and insights via mobile/app dashboards to improve incident response and team performance.
 
 ## Use Cases
 

@@ -8,6 +8,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
+### [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG)
+- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`apecloud-aperag.md`](../../ai/rag/apecloud-aperag.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [Detecting AI Coding Agents in Open Source: A Validated Multi-Method Census of 180 Million Repositories](https://arxiv.org/abs/2606.24429)
 - **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `90` | **Path**: [`arxiv-2606-24429.md`](../../ai/agents/arxiv-2606-24429.md)
@@ -26,11 +31,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`denis2054-context-engineering-for-multi-agent-systems.md`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [langgenius/dify](https://github.com/langgenius/dify)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops)
@@ -63,9 +63,9 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`golf-mcp-golf.md`](../../ai/agents/golf-mcp-golf.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
+### [vin67/crewai_docker](https://github.com/vin67/crewai_docker)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`maunappl8-openai-agents-ts-kit.md`](../../ai/agents/maunappl8-openai-agents-ts-kit.md)
+- **Score**: `89` | **Path**: [`vin67-crewai-docker.md`](../../ai/agents/vin67-crewai-docker.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-07 15:49 IST*
+*Last updated: 2026-07-07 23:15 IST*

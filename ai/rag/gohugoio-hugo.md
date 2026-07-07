@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/gohugoio/hugo/releases
-published_at: '2026-07-07T15:39:20.589681+05:30'
-collected_at: '2026-07-07T15:39:20.589692+05:30'
+published_at: '2026-07-07T23:05:10.135835+05:30'
+collected_at: '2026-07-07T23:05:10.135852+05:30'
 tags:
 - agents
 - frontend_ui
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugo
-first_seen: '2026-07-07T15:39:20.589692+05:30'
-last_seen: '2026-07-07T15:39:20.589692+05:30'
-last_checked: '2026-07-07T15:39:20.589692+05:30'
+first_seen: '2026-07-07T23:05:10.135852+05:30'
+last_seen: '2026-07-07T23:05:10.135852+05:30'
+last_checked: '2026-07-07T23:05:10.135852+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 - **Hugo v0.164.0** introduces Chroma highlighter dark/light mode pairs, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and Pandoc citation support, alongside a performance regression fix from v0.128.0.
 
-- **Deprecations & Fixes**: Resources.PostProcess is deprecated in favor of `templates.Defer`; template name lookup is now case-insensitive; `.Render` now returns errors for missing templates.
+- **Deprecations & Enhancements**: Resources.PostProcess is deprecated in favor of `templates.Defer`, and sub-path support is added for layouts in `Page.Render`.
 
-- **Dependency Updates**: Includes upgrades to `esbuild v0.28.1`, `Chroma` (dark/light mode support), and Go toolchain components (`x/tools`, `x/net`, `x/mod`, `x/image`).
+- **Dependency Updates**: Upgrades include Go tools (`x/tools` v0.47.0), Chroma (dark/light mode), and esbuild v0.28.1, with performance optimizations in `hugio.hasBytesWriter`.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T15:39:20.589681+05:30
+- Published: 2026-07-07T23:05:10.135835+05:30
 
 ## Related Tags
 

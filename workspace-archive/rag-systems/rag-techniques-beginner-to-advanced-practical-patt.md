@@ -40,11 +40,7 @@ selection_reason:
 
 ## Summary
 
-- **Core RAG Architecture**: Combines dense/sparse retrievers (FAISS, BM25) with LLMs for grounded generation, reducing hallucinations via external knowledge retrieval and enabling dynamic knowledge updates.
-
-- **Intermediate Optimization Techniques**: Implements hybrid retrieval (dense + sparse), reranking (cross-encoders like monoT5), query expansion (HyDE, multi-query), and metadata filtering to enhance precision/recall and reduce latency/cost.
-
-- **Advanced RAG Patterns**: Features multi-hop
+*   RAG pipelines leverage a spectrum of retrieval techniques, from foundational dense (embeddings + vector search
 
 ## Use Cases
 

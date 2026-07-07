@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-07-07T04:10:10.921316+05:30'
-collected_at: '2026-07-07T04:10:10.921326+05:30'
+published_at: '2026-07-07T22:59:23.846600+05:30'
+collected_at: '2026-07-07T22:59:23.846616+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-07-07T04:10:10.921326+05:30'
-last_seen: '2026-07-07T04:10:10.921326+05:30'
-last_checked: '2026-07-07T04:10:10.921326+05:30'
+first_seen: '2026-07-07T22:59:23.846616+05:30'
+last_seen: '2026-07-07T22:59:23.846616+05:30'
+last_checked: '2026-07-07T22:59:23.846616+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Evolution & Generations**: RAG evolved from *Naive RAG* (basic vector search + LLM generation) to *Advanced RAG* (hybrid retrieval, reranking, query transformation) and *Graph RAG* (entity-relation graph traversal for multi-hop reasoning), addressing limitations in freshness, private knowledge, and hallucinations.
+- **RAG Evolution**: Naive RAG (basic retrieval + generation) evolved into Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph-based multi-hop reasoning), addressing limitations in accuracy, freshness, and complex reasoning.
 
-- **Core RAG Pipeline**: Standard RAG follows a 5-step process: chunking → embedding → similarity search (top-k retrieval) → augmentation (injecting retrieved docs into LLM context) → generation (LLM produces grounded answer with citations).
+- **Core RAG Components**: Retrieval (vector/keyword search), Augmentation (context injection), and Generation (LLM reasoning) form the foundational pipeline, with modular/agentic variants enabling dynamic routing, tool integration, and iterative refinement.
 
-- **Graph RAG Mechanics**: Graph RAG extracts *(entity, relation, entity)* triples from documents, stores them in a graph DB, and traverses relationships at query time for complex reasoning, outperforming chunk-based methods in relational domains but requiring higher setup complexity.
+- **Technical Trade-offs**: Graph RAG excels in relational reasoning but incurs higher graph construction costs, while Advanced RAG improves retrieval precision via hybrid search and reranking but increases pipeline complexity.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T04:10:10.921316+05:30
+- Published: 2026-07-07T22:59:23.846600+05:30
 
 ## Related Tags
 

@@ -8,19 +8,20 @@ local_vault_path: ai/rag/tracecathq-tracecat.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: workflow
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - python
 - rag
 - scripts
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # TracecatHQ/tracecat
@@ -29,16 +30,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: workflow
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Architecture**: Python-based, event-driven security automation platform leveraging FastAPI, Pydantic, and Temporal.io for workflow orchestration and state management.
-- **Integration**: Supports LLM-driven agents, low-code workflows, and OpenAPI/Swagger for extensibility; built with Next.js for frontend and designed for AI agent collaboration.
-- **Use Cases**: Enables security monitoring, automation, and orchestration with a scalable, API-first approach for team and agent-driven threat respo
+- **Platform Overview**: Tracecat is an open-source, event-driven security automation platform designed for teams and AI agents, leveraging Python, FastAPI, and Next.js for backend/frontend development.
+- **Core Components**: Integrates workflow orchestration via Temporal.io, schema validation with Pydantic, and OpenAPI for API documentation; supports low-code automation and LLM-driven security operations.
+- **Technical Stack**: Built with security-focused tools (e.g., monitoring, event-driven a
 
 ## Use Cases
 

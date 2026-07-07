@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a hierarchical agent framework integrating **multi-layered reasoning** (planning, retrieval, execution) with **graph-augmented memory** for complex QA tasks.
-- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Combines **knowledge graph retrieval** with **LLM-based reasoning** to enhance factual accuracy and contextual understanding in multi-hop reasoning scenarios.
-- **Optimized for Scalability**: Implements **distributed graph processing** and **ad
+- **Unified Multi-Agent Framework**: Introduces a vertically integrated agent system for Graph Retrieval-Augmented Generation (GraphRAG), enabling complex reasoning by dynamically orchestrating specialized agents (e.g., retrieval, reasoning, planning) over knowledge graphs.
+
+- **Graph-Centric RAG Pipeline**: Implements a hierarchical graph-based retrieval mechanism with adaptive subgraph extraction and fusion, optimizing context relevance for large language models (LLMs) during complex reasoning
 
 ## Use Cases
 

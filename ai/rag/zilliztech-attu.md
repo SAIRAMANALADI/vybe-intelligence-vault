@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zilliztech/attu
-collected_at: '2026-07-07T15:41:27.908357+05:30'
-published_at: '2026-07-06T14:55:09Z'
+collected_at: '2026-07-07T23:05:09.138346+05:30'
+published_at: '2026-07-07T14:03:23Z'
 tags:
 - github-repo
 - hackernews
 - rag
 - shell
-- workflows
-stars: 3023
+stars: 3025
 language: Shell
 status: active
 license: NOASSERTION
@@ -20,9 +19,9 @@ archived: false
 created_at: '2021-12-09T09:15:33Z'
 pushed_at: '2026-06-11T06:23:28Z'
 resource_id: github:zilliztech/attu
-first_seen: '2026-07-07T15:41:27.908357+05:30'
-last_seen: '2026-07-07T15:41:27.908357+05:30'
-last_checked: '2026-07-07T15:41:27.908357+05:30'
+first_seen: '2026-07-07T23:05:09.138346+05:30'
+last_seen: '2026-07-07T23:05:09.138346+05:30'
+last_checked: '2026-07-07T23:05:09.138346+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Attu**: A web-based GUI designed for Milvus, a vector database, providing an intuitive interface for database management, collection operations, and data visualization.
-- **Technical Stack**: Primarily implemented in Shell, with dependencies on Milvus APIs and web technologies for frontend-backend communication.
-- **Features**: Supports real-time monitoring, schema management, and CRUD operations for vector collections, optimized for Milvus-specific workflows.
+- **Purpose**: Attu is a graphical user interface (GUI) designed to simplify interactions with Milvus, an open-source vector database, by providing a user-friendly alternative to command-line operations.
+- **Technical Stack**: Primarily implemented in Shell, with dependencies on Milvus and its ecosystem for vector database operations.
+- **Features**: Enables visualization and management of Milvus collections, indexes, and queries, while supporting real-time monitoring and configuration adjustments.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: zilliztech
-- Stars: 3023
+- Stars: 3025
 - Forks: 218
 - Language: Shell
 - Topics: attu, milvus, vector-database
-- Last Updated: 2026-07-06T14:55:09Z
+- Last Updated: 2026-07-07T14:03:23Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2021-12-09T09:15:33Z

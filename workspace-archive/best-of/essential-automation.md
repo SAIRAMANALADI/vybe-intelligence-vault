@@ -13,11 +13,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`ritik-prog-n8n-automation-templates-5000.md`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`scotthavird-crewai-template.md`](../../ai/rag/scotthavird-crewai-template.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`denis2054-context-engineering-for-multi-agent-systems.md`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)
@@ -28,19 +23,19 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`pinecone-github.md`](../../ai/rag/pinecone-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production)
+### [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`yigtwxx-awesome-rag-production.md`](../../ai/rag/yigtwxx-awesome-rag-production.md)
+- **Score**: `87` | **Path**: [`deepset-ai-haystack.md`](../../ai/rag/deepset-ai-haystack.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [langgenius/dify](https://github.com/langgenius/dify)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
+### [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG)
+- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`apecloud-aperag.md`](../../ai/rag/apecloud-aperag.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
+### [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
+- **Score**: `87` | **Path**: [`run-llama-llama-deploy.md`](../../ai/rag/run-llama-llama-deploy.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [cli/cli](https://github.com/cli/cli#installation)
@@ -48,14 +43,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`cli-cli.md`](../../ai/rag/cli-cli.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
+### [vin67/crewai_docker](https://github.com/vin67/crewai_docker)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`vin67-crewai-docker.md`](../../ai/agents/vin67-crewai-docker.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`wassim249-fastapi-langgraph-agent-production-ready-template.md`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [langchain-ai/new-langgraphjs-project](https://github.com/langchain-ai/new-langgraphjs-project)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`langchain-ai-new-langgraphjs-project.md`](../../ai/agents/langchain-ai-new-langgraphjs-project.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
@@ -66,6 +61,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`sri-krishna-v-awesome-adk-agents.md`](../../ai/agents/sri-krishna-v-awesome-adk-agents.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`deepset-ai-haystack.md`](../../ai/rag/deepset-ai-haystack.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-07 15:49 IST*
+*Last updated: 2026-07-07 23:15 IST*

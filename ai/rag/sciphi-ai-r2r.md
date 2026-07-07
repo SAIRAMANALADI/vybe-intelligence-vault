@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SciPhi-AI/R2R
-collected_at: '2026-07-07T15:34:59.699728+05:30'
+collected_at: '2026-07-07T23:00:56.884696+05:30'
 published_at: '2026-07-07T09:42:15Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-02-12T03:24:27Z'
 pushed_at: '2025-11-07T01:02:44Z'
 resource_id: github:sciphi-ai/r2r
-first_seen: '2026-07-07T15:34:59.699728+05:30'
-last_seen: '2026-07-07T15:34:59.699728+05:30'
-last_checked: '2026-07-07T15:34:59.699728+05:30'
+first_seen: '2026-07-07T23:00:56.884696+05:30'
+last_seen: '2026-07-07T23:00:56.884696+05:30'
+last_checked: '2026-07-07T23:00:56.884696+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG System**: Implements an advanced retrieval-augmented generation (RAG) pipeline with autonomous agent capabilities, enabling dynamic interaction with retrieved data for enhanced question-answering and reasoning.
+- **Agentic RAG System**: Implements an agentic Retrieval-Augmented Generation (RAG) pipeline with a RESTful API for production-grade AI retrieval, enabling dynamic interaction between retrieval and generation components.
 
-- **RESTful API Integration**: Provides a production-ready, scalable API for seamless integration with downstream applications, supporting efficient data retrieval and generation workflows.
+- **Modular Python Framework**: Built in Python with a scalable architecture supporting integration of large language models (LLMs), retrieval systems, and customizable agentic workflows for question-answering and search tasks.
 
-- **Python-Based Framework**: Built in Python with modular components for document processing, vector search, and LLM integration, optimized for large-scale AI retrieval tasks.
+- **Advanced Retrieval & Metadata Handling**: Supports structured metadata filtering, hybrid search (semantic + keyword), and real-time updates, optimized for high-performance retrieval in AI-driven applications.
 
 ## Why It Matters
 

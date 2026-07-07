@@ -12,7 +12,6 @@ resource_kind: template
 importance: medium
 tags:
 - agents
-- benchmark
 - github-repo
 - meta-ai
 - mistral
@@ -39,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Model Agent Framework**: Template repository for CrewAI enabling dynamic selection of agents powered by diverse LLMs (e.g., GPT-3, GPT-4, Mixtral, Llama 3, Gemma) via Python-based CrewAI integration.
-
-- **Modular Agent Configuration**: Supports runtime switching between models with standardized interfaces, facilitating comparative evaluation and hybrid agent workflows within a single CrewAI project.
-
-- **Python-Centric Implementation**: Leverages Python for agent orchestration, with la
+- **Multi-Model Agent Framework**: Implements CrewAI template enabling dynamic selection of diverse LLMs (GPT-3, GPT-4, Mixtral, Llama 3, Gemma) within a single workflow.
+- **Python-Based Implementation**: Leverages Python for agent orchestration, model integration, and task distribution across heterogeneous AI models.
+- **Last Updated**: Repository was last modified on **2025-03-13**, indicating recent maintenance or updates.
 
 ## Use Cases
 

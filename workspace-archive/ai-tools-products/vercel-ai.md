@@ -37,8 +37,8 @@ selection_reason:
 ## Summary
 
 - **AI SDK**: Open-source TypeScript library by Vercel for building AI-powered applications and agents, supporting models like OpenAI, Anthropic, and Gemini.
-- **Framework Integration**: Designed for Next.js, React, Svelte, Vue, and JavaScript/TypeScript environments with generative UI capabilities.
-- **Features**: Supports LLMs, generative AI workflows, and real-time agent interactions; last updated June 2026.
+- **Multi-Framework Support**: Compatible with React, Next.js, Svelte, Vue, and JavaScript, enabling generative UI and LLM integration.
+- **Key Features**: Provides tools for language model interactions, generative AI workflows, and agent-based architectures with last update on July 7, 2026.
 
 ## Use Cases
 

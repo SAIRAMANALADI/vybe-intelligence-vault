@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-07-07T15:33:26.092198+05:30'
-collected_at: '2026-07-07T15:33:26.092211+05:30'
+published_at: '2026-07-07T22:59:24.425216+05:30'
+collected_at: '2026-07-07T22:59:24.425235+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-07-07T15:33:26.092211+05:30'
-last_seen: '2026-07-07T15:33:26.092211+05:30'
-last_checked: '2026-07-07T15:33:26.092211+05:30'
+first_seen: '2026-07-07T22:59:24.425235+05:30'
+last_seen: '2026-07-07T22:59:24.425235+05:30'
+last_checked: '2026-07-07T22:59:24.425235+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Modular framework (105k ⭐) for chaining LLM components, offering data connectors, model flexibility, retrieval pipelines, and evaluation tools for RAG systems.
-- **RAGFlow**: Open-source RAG engine (48.5k ⭐) with deep document parsing (tables, layouts), GraphRAG support, and visual web interface for structured retrieval from complex documents.
-- **Milvus**: High-performance vector database (33.9k ⭐) optimized for ANN search, hybrid querying, and scalable multi-modal embeddings, integrating seamlessly with RAG frameworks like LangChain.
+- **Firecrawl**: AI-powered web scraping engine for LLM-friendly data extraction, offering structured markdown conversion, LLM.txt generation, and deep research capabilities via API endpoints.
+- **RAGFlow**: Open-source RAG engine with deep document understanding, supporting structured extraction from PDFs/tables, GraphRAG for knowledge graphs, and dual storage backends (Elasticsearch/Infinity).
+- **Milvus**: Cloud-native vector database optimized for billion-scale ANN search, enabling hybrid vector/scalar queries, multi-modal embeddings, and seamless integration with LangChain/LlamaIndex for production RAG systems.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T15:33:26.092198+05:30
+- Published: 2026-07-07T22:59:24.425216+05:30
 
 ## Related Tags
 

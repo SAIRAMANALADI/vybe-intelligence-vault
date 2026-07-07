@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-07-07T15:33:39.578807+05:30'
+collected_at: '2026-07-07T22:59:36.775009+05:30'
 published_at: '2026-07-07T08:45:42Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-07-07T15:33:39.578807+05:30'
-last_seen: '2026-07-07T15:33:39.578807+05:30'
-last_checked: '2026-07-07T15:33:39.578807+05:30'
+first_seen: '2026-07-07T22:59:36.775009+05:30'
+last_seen: '2026-07-07T22:59:36.775009+05:30'
+last_checked: '2026-07-07T22:59:36.775009+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box dependencies, focusing on embeddings, vector search, retrieval, and context-augmented generation.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using JavaScript, leveraging `node-llama-cpp` for local LLM inference without external black-box APIs.
 
-- **JavaScript-Based Pipeline**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, with a modular approach for educational clarity in RAG components (embedding, retrieval, and generation).
+- **Core Components**: Covers embeddings generation, vector search (likely via similarity metrics like cosine), retrieval augmentation, and context-integrated generation for enhanced LLM responses.
 
-- **Open-Source Tutorial**: Provides a hands-on, step-by-step guide for implementing RAG pipelines, including agents, chatbots, and vector search, with active maintenance (last updated July 2026) and community contributions (1474 stars, 173 forks).
+- **Educational Focus**: Provides a hands-on tutorial for understanding RAG architecture, emphasizing transparency in embeddings, retrieval mechanisms, and prompt augmentation for developers.
 
 ## Why It Matters
 

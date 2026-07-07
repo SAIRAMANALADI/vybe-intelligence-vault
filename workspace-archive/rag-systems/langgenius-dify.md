@@ -6,10 +6,10 @@ source_url: https://github.com/langgenius/dify
 resource_id: github:langgenius/dify
 local_vault_path: ai/rag/langgenius-dify.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
-resource_kind: framework
-importance: high
+archive_score: 77
+archive_tier: useful
+resource_kind: template
+importance: medium
 tags:
 - agents
 - frontend_ui
@@ -30,19 +30,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Agentic Workflow Development Platform**: Open-source framework for building, deploying, and managing AI agents with low-code/no-code tools, supporting orchestration, RAG, and multi-LLM integrations (OpenAI, GPT-4, Gemini).
+- **Multi-agent orchestration**: Supports agentic workflows with MCP (Model Context Protocol), enabling dynamic agent collaboration, tool integration, and stateful execution via Python/TypeScript SDKs.
 
-- **Tech Stack**: Primarily TypeScript (Next.js frontend) with Python backend, enabling MCP (Model Context Protocol) and agentic workflow automation.
+- **Unified AI integration**: Supports OpenAI, GPT-4, Gemini, and other LLMs with built-in RAG, vector DBs, and low/no-code interfaces for prompt engineering and workflow automation.
 
-- **Production-Ready Features**: Supports GenAI, LLM orchestration, and agentic frameworks with version control, deployme
+- **Production-grade stack**: Built on Next.js (frontend) and Python (backend), with deployment-ready templates f
 
 ## Use Cases
 

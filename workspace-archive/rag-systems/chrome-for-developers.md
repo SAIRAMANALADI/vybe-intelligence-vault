@@ -14,7 +14,9 @@ tags:
 - agents
 - hackernews
 - rag
+- scripts
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -34,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Chrome 150 Beta** introduces new features including CSS gap decorations, WebSocket disconnection handling for bfcache, and Intl.Locale variants, as detailed in the [release notes](https://developer.chrome.com/release-notes/149).
-- **Chrome DevTools** enables real-time debugging, performance profiling, and source editing directly in the browser, with full documentation available [here](https://developer.chrome.com/docs/devtools).
-- **Chrome for Testing** provides a dedicated browser build for
+- **AI Integration**: Chrome's `auto_awesome` AI tools enable developers to leverage AI capabilities directly within the browser for enhanced web development workflows.
+- **Performance & Quality Tools**: Chrome provides Core Web Vitals monitoring, CSS/UI optimizations, identity management, and payment APIs to ensure high-quality user experiences.
+- **Automation & Testing**: Chrome DevTools, Puppeteer, ChromeDriver, and Chrome for Testing facilitate debugging, performance analysis, and automated
 
 ## Use Cases
 

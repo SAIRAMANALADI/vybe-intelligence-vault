@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6 structured lessons covering foundational to advanced RAG concepts, from embeddings and vector databases to LLM integration and production deployment.
-- **Code-Centric Learning**: Provides reusable Python utilities, working examples, and hands-on demos for practical implementation of RAG systems.
-- **Technical Depth**: Covers core RAG components (vector search, retrieval pipelines, LLM fine-tuning) with updated resources (last commit: 2026-07-06).
+- **Progressive RAG Learning Path**: 6 structured lessons covering foundational to advanced RAG concepts, from embeddings and vector databases to LLM integration and production deployment.
+- **Practical Implementation**: Includes working Python code examples, reusable utilities, and hands-on demos for building end-to-end RAG systems.
+- **Technical Depth**: Covers embeddings (e.g., Sentence-BERT), vector DBs (e.g., FAISS/Chroma), LLM fine-tuning, and advanced techniques like query rewriting and r
 
 ## Use Cases
 

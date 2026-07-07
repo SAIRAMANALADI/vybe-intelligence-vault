@@ -16,6 +16,7 @@ tags:
 - github-repo
 - openai
 - python
+- scripts
 - workflows
 selection_reason:
 - Active open-source repository
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an event-driven, non-blocking architecture in Python for parallelized LLM-driven code generation and execution workflows.
-- **Multi-Provider Integration**: Supports OpenAI, Anthropic (ClaudeCode), and other LLM backends with unified API abstraction for dynamic model switching.
-- **Stateful Workflow Engine**: Manages complex, multi-step coding tasks with persistent session state, error recovery, and tool orchestration (e.g., file I/O, shell commands).
+- **Asynchronous Coding Agent**: Open-SWE is an open-source, asynchronous coding agent designed to automate software engineering tasks with support for concurrent operations.
+- **Multi-Provider LLM Integration**: Supports multiple LLM providers (e.g., OpenAI, Anthropic) for dynamic task execution, enabling flexibility in model selection and API usage.
+- **Python-Based & Extensible**: Built in Python with modular architecture, allowing integration with tools like ClaudeCode for enhanced agent cap
 
 ## Use Cases
 

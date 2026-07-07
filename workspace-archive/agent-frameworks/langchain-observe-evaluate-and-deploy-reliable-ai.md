@@ -2,7 +2,7 @@
 title: 'LangChain: Observe, Evaluate, and Deploy Reliable AI Agents'
 archive_category: agent-frameworks
 source_category: ai/agents
-source_url: https://www.langchain.com
+source_url: https://www.langchain.com/
 resource_id: blog:langchain-observe-evaluate-and-deploy-reliable-ai
 local_vault_path: ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md
 quality_score: 70
@@ -30,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and proposed fixes for agent debugging, reducing manual review overhead.
+- **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and fix proposals for agent improvement using production traces and code integration.
 
-- **Multi-Layered Observability**: Structured tracing (via OpenTelemetry/SDKs) with message threading, analytics, and AI-driven insights for multi-turn agent interactions.
+- **Multi-Framework Observability**: Native tracing for agent frameworks (OpenTelemetry-compatible) with SDKs (Python/TypeScript/Go/Java), message threading, and AI-driven analytics for debugging complex agent behaviors.
 
-- **Production-Grade Deployment**: Fault-tolerant agent server with durable checkpointing, A2A/MCP protocol support, and scalable runtime for agent swarms.
+- **Production-Grade Deployment**: Fault-tolerant agent server with durable checkpointing, A2A/MCP protocol support
 
 ## Use Cases
 
@@ -44,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.langchain.com
+Original source URL: https://www.langchain.com/
 
 ## Local Vault File
 

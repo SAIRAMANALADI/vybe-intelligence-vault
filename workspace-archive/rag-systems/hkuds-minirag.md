@@ -11,7 +11,9 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
+- models
 - python
 - rag
 selection_reason:
@@ -32,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified Retrieval-Augmented Generation (RAG) pipeline leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
+- **MiniRAG Framework**: Introduces a simplified RAG pipeline leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining competitive performance in knowledge-intensive tasks.
 
-- **Key Innovation**: Proposes a lightweight architecture with optimized retrieval and generation components, enabling efficient deployment on resource-constrained hardware without sacrificing accuracy.
+- **Modular Design**: Implements a lightweight, plug-and-play architecture with decoupled retrieval and generation components, enabling efficient integration with existing SLMs (e.g., <1B parameter models) without heavy fine-tuning.
 
-- **Open-Source Implementation**: Provides a Python-based
+- **Benchmark Performance**: Achieves state-o
 
 ## Use Cases
 

@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **FastAPI-based RAG pipeline** leveraging vector search for document retrieval and LLM integration, with Docker/Kubernetes support for deployment.
-- **Ollama-compatible** local LLM inference, enabling offline-capable RAG workflows with Python backend.
-- **STACKIT-optimized** template featuring vector database integration and modular architecture for scalable AI chatbot/document management systems.
+- **Purpose**: Provides a template for deploying AI chatbots and document management systems using Retrieval-Augmented Generation (RAG) with vector search capabilities, implemented via FastAPI.
+- **Key Components**: Includes FastAPI for backend, Ollama for LLM integration, and supports Docker/Kubernetes for container orchestration; integrates with vector databases for RAG workflows.
+- **Deployment**: Designed for Python-based environments, optimized for Stackit Cloud, and last updated in July 20
 
 ## Use Cases
 

@@ -15,7 +15,6 @@ tags:
 - benchmark
 - github-repo
 - python
-- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Framework**: Python-based AI benchmark simulating a software company environment to evaluate agent capabilities.
-- **Task Scope**: Focuses on multi-agent interactions, software development workflows, and task automation within a controlled simulation.
-- **Research Utility**: Designed for assessing LLM-based agents' performance in structured, real-world-like software engineering scenarios.
+- **Benchmark Framework**: Python-based AI agent benchmark simulating tasks within a virtual software company environment to evaluate agent capabilities.
+- **Scope & Metrics**: Measures performance across AI agents in software development workflows, including task completion, decision-making, and adaptability.
+- **Research Utility**: Designed for AI research, enabling comparative analysis of LLMs and agentic systems in structured, domain-specific scenarios.
 
 ## Use Cases
 

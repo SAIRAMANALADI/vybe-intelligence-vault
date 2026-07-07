@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Implementation Focus**: Demonstrates a structured breakdown of Knowledge Graph Retrieval-Augmented Generation (KG-RAG) with executable Jupyter Notebook examples.
-- **Technical Scope**: Covers graph-based retrieval mechanisms, entity-relationship mapping, and integration with LLM pipelines for enhanced context-aware generation.
-- **Visual & Practical Tools**: Provides diagrams and code snippets to illustrate graph construction, query optimization, and RAG workflows for real-world applications
+- **GraphRAG Architecture Breakdown**: Provides a detailed technical breakdown of Retrieval-Augmented Generation (RAG) systems enhanced with knowledge graphs, including modular diagrams and workflow examples for integrating graph-based retrieval with LLM generation.
+
+- **Implementation in Jupyter Notebooks**: Contains executable Python notebooks demonstrating end-to-end GraphRAG pipelines, covering graph construction, query processing, and retrieval-augmented generation with real-world data exam
 
 ## Use Cases
 

@@ -7,7 +7,7 @@ source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
 local_vault_path: ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md
 quality_score: 70
-archive_score: 72
+archive_score: 70
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -23,7 +23,6 @@ tags:
 - mistral
 - models
 selection_reason:
-- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -32,17 +31,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: dataset
 - Selection reasons:
-  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Evolution & Generations**: RAG evolved from *Naive RAG* (basic vector search + LLM generation) to *Advanced RAG* (hybrid retrieval, reranking, query transformation) and *Graph RAG* (entity-relation graph traversal for multi-hop reasoning), addressing limitations in freshness, private knowledge, and hallucinations.
+- **RAG Evolution**: Naive RAG (basic retrieval + generation) evolved into Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph-based multi-hop reasoning), addressing limitations in accuracy, freshness, and complex reasoning.
 
-- **Core RAG Pipeline**: Standard RAG follows a 5-step process: chunking → embedding → similarity search (top-k retrieval) → augmentation (injecting retrieved docs into LLM co
+- **Core RAG Components**: Retrieval (vector/keyword search), Augmentation (context injection), and Generation (LLM reasoning) form the foundational pipeline, with modular/agentic variants enabling dynamic routing, tool inte
 
 ## Use Cases
 

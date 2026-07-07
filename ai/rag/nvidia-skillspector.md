@@ -4,24 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/SkillSpector
-collected_at: '2026-07-07T00:49:54.985718+05:30'
-published_at: '2026-07-06T18:55:53Z'
+collected_at: '2026-07-07T23:02:21.923582+05:30'
+published_at: '2026-07-07T17:31:03Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 12120
+- workflows
+stars: 12266
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-03-21T00:28:43Z'
-pushed_at: '2026-07-04T08:37:12Z'
+pushed_at: '2026-07-07T00:55:27Z'
 resource_id: github:nvidia/skillspector
-first_seen: '2026-07-07T00:49:54.985718+05:30'
-last_seen: '2026-07-07T00:49:54.985718+05:30'
-last_checked: '2026-07-07T00:49:54.985718+05:30'
+first_seen: '2026-07-07T23:02:21.923582+05:30'
+last_seen: '2026-07-07T23:02:21.923582+05:30'
+last_checked: '2026-07-07T23:02:21.923582+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to detect vulnerabilities, malicious patterns, and security risks without executing the code.
-
-- **Python-Based**: Implemented in Python, leveraging libraries for abstract syntax tree (AST) parsing and pattern matching to identify security flaws in AI agent skill definitions.
-
-- **Rule-Driven Detection**: Utilizes predefined security rules and heuristics to flag issues such as unsafe function calls, privilege escalation risks, and data leakage vulnerabilities in AI agent skills.
+- **Static Analysis Tool**: SkillSpector performs static code analysis on AI agent skills to identify vulnerabilities, malicious patterns, and security risks without executing the code.
+- **Python-Based**: Implemented in Python, leveraging libraries for abstract syntax tree (AST) parsing, pattern matching, and rule-based detection of insecure practices.
+- **Rule-Driven Detection**: Uses predefined and customizable rules to flag issues such as unsafe function calls, privilege escalation risks, and data leakage vulnerabilities in AI agent workflows.
 
 ## Why It Matters
 
@@ -42,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVIDIA
-- Stars: 12120
-- Forks: 999
+- Stars: 12266
+- Forks: 1011
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-06T18:55:53Z
+- Last Updated: 2026-07-07T17:31:03Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-03-21T00:28:43Z
-- Pushed At: 2026-07-04T08:37:12Z
+- Pushed At: 2026-07-07T00:55:27Z
 
 ## Possible Use Cases
 

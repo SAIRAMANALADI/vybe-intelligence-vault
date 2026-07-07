@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack enables building production-ready LLM applications via configurable pipelines with explicit control over retrieval, routing, memory, and generation components.
+- **Modular AI Orchestration**: Haystack enables building production-ready LLM applications via modular pipelines with explicit control over retrieval, routing, memory, and generation components.
 
-- **Multi-Use Case Support**: Supports scalable agents, RAG, multimodal apps, semantic search, and conversational systems through a unified framework.
+- **Multi-Use Case Framework**: Supports scalable agents, RAG, multimodal systems, semantic search, and conversational AI with integrations for LLMs like GPT-4 and Gemini.
 
-- **Technical Stack**: Implemented in Python with PyTorch/Transformers, optimized for integration with models like GPT-4 and Gemini, and designed
+- **Technical Stack**: Python-based, leveraging PyTorch/Transformers for NLP tasks, optimized for information retrieval, QA, summa
 
 ## Use Cases
 

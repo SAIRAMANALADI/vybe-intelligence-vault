@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-47%2C415-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-47%2C554-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--07-374151?style=flat-square)](#)
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 9,640</p>
-        <p><b>Active:</b> 9,423 | <b>Inactive:</b> 217</p>
+        <p><b>Resources tracked:</b> 9,682</p>
+        <p><b>Active:</b> 9,458 | <b>Inactive:</b> 224</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 37,775</p>
+        <p><b>Archive Files:</b> 37,872</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 47,415 files</p>
-        <p><b>Last Update:</b> 2026-07-07 21:57 IST</p>
+        <p><b>Total Vault Size:</b> 47,554 files</p>
+        <p><b>Last Update:</b> 2026-07-07 23:15 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,19 +210,29 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+6</kbd>
-- 🔼 **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[Medium Help Center](ai/rag/medium-help-center.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Kyle Kimball | University Relations | Cornell University](ai/resources/kyle-kimball-university-relations-cornell-universi.md)** • Rank: <kbd>+4232</kbd>
+- 🔼 **[Publications & Data - Cornell Research & Innovation](ai/resources/publications-data-cornell-research-innovation.md)** • Rank: <kbd>+4284</kbd>
+- 🔼 **[Medium Privacy Policy - Effective date December 31, 2019 through August 31, 2020 – Medium Help Center](ai/rag/medium-privacy-policy-effective-date-december-31-2.md)** • Rank: <kbd>+4206</kbd>
+- 🔼 **[Contact us | ICO](ai/resources/contact-us-ico.md)** • Rank: <kbd>+1611</kbd>
+- 🔼 **[Pandoc - index](ai/rag/pandoc-index.md)** • Rank: <kbd>+3107</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[C++ Details of Asymmetric Fences](ai/community/c-details-of-asymmetric-fences.md)** • Score: `44`
+- 🆕 **[Chat Control 1.0 and 2.0 Explained](ai/community/chat-control-1-0-and-2-0-explained.md)** • Score: `12`
+- 🆕 **[Weighing smoke: why AI visibility dashboards are mostly useless](ai/community/weighing-smoke-why-ai-visibility-dashboards-are-mo.md)** • Score: `10`
+- 🆕 **[Automating AI Away](ai/community/automating-ai-away.md)** • Score: `8`
+- 🆕 **[Sites that block AI training crawlers mostly ignore the answer time bots](ai/community/sites-that-block-ai-training-crawlers-mostly-ignor.md)** • Score: `7`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[GLM 5.2 and the coming AI margin collapse](ai/community/glm-5-2-and-the-coming-ai-margin-collapse.md)**
+- 💤 **[AMD Ryzen AI Halo – $4k AI Dev Kit](ai/community/amd-ryzen-ai-halo-4k-ai-dev-kit.md)**
+- 💤 **[OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files](ai/community/iofficeai-officecli.md)**
+- 💤 **[Small AI Models Gain Traction In places with unreliable networks](ai/community/small-ai-models-gain-traction-in-places-with-unrel.md)**
+- 💤 **[NSA and IETF: Fairness](ai/community/nsa-and-ietf-fairness.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

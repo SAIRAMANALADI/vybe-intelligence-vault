@@ -3,9 +3,9 @@ title: Pandoc - index
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://pandoc.org
-published_at: '2026-06-24T21:08:06.366923+05:30'
-collected_at: '2026-06-24T21:08:06.366935+05:30'
+source_url: https://pandoc.org/
+published_at: '2026-07-07T23:08:45.260163+05:30'
+collected_at: '2026-07-07T23:08:45.260176+05:30'
 tags:
 - hackernews
 - paper
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:pandoc-index
-first_seen: '2026-06-24T21:08:06.366935+05:30'
-last_seen: '2026-06-24T21:08:06.366935+05:30'
-last_checked: '2026-06-24T21:08:06.366935+05:30'
+first_seen: '2026-07-07T23:08:45.260176+05:30'
+last_seen: '2026-07-07T23:08:45.260176+05:30'
+last_checked: '2026-07-07T23:08:45.260176+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Universal document converter**: Pandoc supports bidirectional conversion between **40+ formats**, including Markdown, LaTeX, HTML, EPUB, Word (docx), PowerPoint, and PDF (via LaTeX/other engines), with custom reader/writer support via Lua.
+- **Universal document converter**: Pandoc supports bidirectional conversion between 40+ markup, documentation, ebook, word processor, slide, wiki, and data formats (e.g., Markdown ↔︎ LaTeX, EPUB ↔︎ DocBook, docx ↔︎ ODT, CSV/TSV ↔︎ Markdown tables).
 
-- **Advanced markup & templating**: Supports **extended Markdown** (metadata, footnotes, tables, math via LaTeX), **automatic citations** (BibTeX/BibLaTeX/CSL), and **template-driven output** with filters for custom processing.
+- **Advanced markup & rendering**: Supports LaTeX math (with macro translation), syntax-highlighted code blocks, metadata (title/author/date), footnotes, tables, and CSL-based citations/bibliographies across all output formats.
 
-- **Haskell-based modular architecture**: Implemented as a **Haskell library** with separate modules per format, enabling extensibility; released under **GPL** with CLI and API support for programmatic integration.
+- **Extensible architecture**: Haskell-based modular library with CLI interface, custom Lua readers/writers, template system, and filter support; PDF output via multiple backends (pdflatex, weasyprint, etc.).
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T21:08:06.366923+05:30
+- Published: 2026-07-07T23:08:45.260163+05:30
 
 ## Related Tags
 
@@ -50,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://pandoc.org
+Original source: https://pandoc.org/

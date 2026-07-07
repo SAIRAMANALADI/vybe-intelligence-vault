@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-07-07T15:34:24.612191+05:30'
+collected_at: '2026-07-07T23:00:21.756140+05:30'
 published_at: '2026-07-04T10:12:59Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
 - models
+- paper
 - rag
 - unknown
 stars: 1339
@@ -19,9 +21,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-07-07T15:34:24.612191+05:30'
-last_seen: '2026-07-07T15:34:24.612191+05:30'
-last_checked: '2026-07-07T15:34:24.612191+05:30'
+first_seen: '2026-07-07T23:00:21.756140+05:30'
+last_seen: '2026-07-07T23:00:21.756140+05:30'
+last_checked: '2026-07-07T23:00:21.756140+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Comprehensive list of advanced retrieval-augmented generation (RAG) techniques, frameworks, and tools for Large Language Models (LLMs), covering embeddings, retrieval methods, and integration strategies.
+- **Curated RAG Resources**: A comprehensive, community-maintained repository aggregating advanced techniques, tools, and research papers on Retrieval-Augmented Generation (RAG) in Large Language Models (LLMs), including methods for embeddings, retrieval strategies, and hybrid architectures.
 
-- **Technical Focus**: Includes cutting-edge methods in RAG-embeddings, retrieval-information optimization, and LLM fine-tuning for enhanced contextual generation and factual accuracy.
+- **Technical Focus Areas**: Covers critical RAG components such as embedding models (e.g., dense/sparse retrieval), retrieval mechanisms (e.g., multi-hop, iterative), and integration frameworks (e.g., modular pipelines, fine-tuning approaches) for enhancing LLM performance in knowledge-intensive tasks.
 
-- **Active Maintenance**: Repository is regularly updated (last commit: 2026-07-04) with contributions from the community, ensuring relevance in evolving LLM and RAG research.
+- **Dynamic Updates & Community Engagement**: Actively maintained with recent contributions (last update: July 2026), featuring 1,339+ stars and 85+ forks, reflecting ongoing collaboration and expansion of RAG methodologies, benchmarks, and practical implementations.
 
 ## Why It Matters
 

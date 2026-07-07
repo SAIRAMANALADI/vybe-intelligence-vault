@@ -38,9 +38,9 @@ selection_reason:
 
 - **Hugo v0.164.0** introduces Chroma highlighter dark/light mode pairs, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and Pandoc citation support, alongside a performance regression fix from v0.128.0.
 
-- **Deprecations & Fixes**: Resources.PostProcess is deprecated in favor of `templates.Defer`; template name lookup is now case-insensitive; `.Render` now returns errors for missing templates.
+- **Deprecations & Enhancements**: Resources.PostProcess is deprecated in favor of `templates.Defer`, and sub-path support is added for layouts in `Page.Render`.
 
-- **Dependency Updates**: Includes upgrades to `esbuild v0.28.1`,
+- **Dependency Updates**: Upgrades include Go tools (`x/tools` v0.47.0), Chroma (dark/light mode
 
 ## Use Cases
 

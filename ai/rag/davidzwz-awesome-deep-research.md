@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-07-07T15:35:09.636246+05:30'
-published_at: '2026-07-05T17:03:45Z'
+collected_at: '2026-07-07T23:01:06.832501+05:30'
+published_at: '2026-07-07T10:09:36Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - unknown
-- workflows
-stars: 789
+stars: 790
 language: Unknown
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-05-02T04:18:19Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-07-07T15:35:09.636246+05:30'
-last_seen: '2026-07-07T15:35:09.636246+05:30'
-last_checked: '2026-07-07T15:35:09.636246+05:30'
+first_seen: '2026-07-07T23:01:06.832501+05:30'
+last_seen: '2026-07-07T23:01:06.832501+05:30'
+last_checked: '2026-07-07T23:01:06.832501+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: A GitHub repository compiling cutting-edge research on agentic deep research, focusing on autonomous agents leveraging large language models (LLMs) for complex reasoning and information retrieval tasks.
-
-- **Key Topics Covered**: Includes agentic RAG (Retrieval-Augmented Generation), reasoning agents, search agents, and deep research methodologies, emphasizing scalability and adaptability in AI-driven research workflows.
-
-- **ACL 2026 KnowFM Integration**: Aligns with the ACL 2026 Knowledge Foundation Models (KnowFM) initiative, providing structured access to peer-reviewed resources, frameworks, and tools for advancing autonomous deep research agents.
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research systems, including agentic RAG, reasoning agents, and LLM-based search frameworks, with a focus on ACL 2026 contributions.
+- **Technical Breadth**: Covers 10+ subdomains (e.g., deep-research agents, multi-agent reasoning, retrieval-augmented reasoning) and tools for autonomous knowledge synthesis.
+- **Active Development**: Last updated July 2026, with 790 stars/64 forks, indicating rapid community adoption and iterative refinement of agentic AI methodologies.
 
 ## Why It Matters
 
@@ -43,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: DavidZWZ
-- Stars: 789
+- Stars: 790
 - Forks: 64
 - Language: Unknown
 - Topics: agentic-ai, agentic-rag, deep-research, deep-research-agent, large-language-models, llms, rag, reasoning, reasoning-agent, search-agent
-- Last Updated: 2026-07-05T17:03:45Z
+- Last Updated: 2026-07-07T10:09:36Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-06T01:54:55Z

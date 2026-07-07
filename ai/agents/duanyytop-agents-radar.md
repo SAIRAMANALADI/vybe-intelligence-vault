@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/duanyytop/agents-radar
-collected_at: '2026-07-07T15:35:14.671616+05:30'
-published_at: '2026-07-07T03:33:28Z'
+collected_at: '2026-07-07T23:01:11.824596+05:30'
+published_at: '2026-07-07T17:27:10Z'
 tags:
 - agents
 - github-repo
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-23T03:22:26Z'
 pushed_at: '2026-07-07T03:33:25Z'
 resource_id: github:duanyytop/agents-radar
-first_seen: '2026-07-07T15:35:14.671616+05:30'
-last_seen: '2026-07-07T15:35:14.671616+05:30'
-last_checked: '2026-07-07T15:35:14.671616+05:30'
+first_seen: '2026-07-07T23:01:11.824596+05:30'
+last_seen: '2026-07-07T23:01:11.824596+05:30'
+last_checked: '2026-07-07T23:01:11.824596+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Automated AI Ecosystem Aggregator**: Daily curation of AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
-- **Bilingual Reporting**: Generates reports in both Chinese (ZH) and English (EN) for broader accessibility.
-- **Technical Stack**: Built in TypeScript with 879 stars and 148 forks as of last update (2026-07-07).
+- **Automated AI Ecosystem Aggregator**: Daily curation of AI-related content from 10 sources (e.g., GitHub, ArXiv, HN) via GitHub Actions, generating bilingual ZH/EN reports.
+- **Technical Stack**: Built in TypeScript, with scheduled updates (last push: 2026-07-07T17:27:10Z) and open-source distribution (879 stars, 148 forks).
+- **Multi-Source Data Pipeline**: Cross-references GitHub, ArXiv, Hacker News, HuggingFace, Product Hunt, Dev.to, and Lobste.rs for comprehensive AI ecosystem monitoring.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 148
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-07-07T03:33:28Z
+- Last Updated: 2026-07-07T17:27:10Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-23T03:22:26Z

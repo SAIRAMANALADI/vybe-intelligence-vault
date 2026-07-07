@@ -19,13 +19,13 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 477 resources matched in the intelligence vault.
+Active signals: 481 resources matched in the intelligence vault.
 Recently detected signals:
-- [run-llama/llama_index](../ai/rag/run-llama-llama-index.md) (Source: Unknown Source) - Collected 2026-07-07
+- [explodinggradients/ragas](../ai/rag/explodinggradients-ragas.md) (Source: Unknown Source) - Collected 2026-07-07
+- [GoogleCloudPlatform/agent-starter-pack](../ai/agents/googlecloudplatform-agent-starter-pack.md) (Source: Unknown Source) - Collected 2026-07-07
+- [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md) (Source: Unknown Source) - Collected 2026-07-07
 - [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) (Source: Unknown Source) - Collected 2026-07-07
-- [wgcyeo/UniversalRAG](../ai/rag/wgcyeo-universalrag.md) (Source: Unknown Source) - Collected 2026-07-07
 - [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md) (Source: Unknown Source) - Collected 2026-07-07
-- [KruxAI/ragbuilder](../ai/rag/kruxai-ragbuilder.md) (Source: Unknown Source) - Collected 2026-07-07
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -54,87 +54,87 @@ Recently detected signals:
 ### 5. [GoogleCloudPlatform/agent-starter-pack](../ai/agents/googlecloudplatform-agent-starter-pack.md) ([GitHub](https://github.com/googlecloudplatform/agent-starter-pack))
 - Stars: 0
 - Language: Unknown
-- Description: - **Production-Ready AI Agent Templates**: Pre-configured Python-based templates for deploying AI agents on Google Cloud Platform (GCP) with integrated CI/CD pipelines, evaluation frameworks, and o...
+- Description: - **Production-ready AI agent templates** for Google Cloud, pre-integrated with CI/CD pipelines, evaluation frameworks, and observability tools to accelerate deployment.
 
-### 6. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
-- Stars: 0
-- Language: Unknown
-- Description: - **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI using vector search, LLMs, and embeddings (e.g., GPT-4...
-
-### 7. [run-llama/llama_index](../ai/rag/run-llama-llama-index.md) ([GitHub](https://github.com/run-llama/llama_index))
+### 6. [run-llama/llama_index](../ai/rag/run-llama-llama-index.md) ([GitHub](https://github.com/run-llama/llama_index))
 - Stars: 0
 - Language: Unknown
 - Description: - **Framework**: LlamaIndex is a Python-based framework designed for building document agents and OCR systems, supporting RAG (Retrieval-Augmented Generation) and vector database integrations.
+
+### 7. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
+- Stars: 0
+- Language: Unknown
+- Description: - **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI applications using vector search and LLMs (...
 
 ### 8. [raga-ai-hub/RagaAI-Catalyst](../ai/rag/raga-ai-hub-ragaai-catalyst.md) ([GitHub](https://github.com/raga-ai-hub/ragaai-catalyst))
 - Stars: 0
 - Language: Unknown
 - Description: Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced a...
 
-### 9. [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([GitHub](https://github.com/oxbshw/llm-agents-ecosystem-handbook))
+### 9. [ajac-zero/example-rag-app](../ai/rag/ajac-zero-example-rag-app.md) ([GitHub](https://github.com/ajac-zero/example-rag-app))
+- Stars: 0
+- Language: Unknown
+- Description: - **Observability & Multi-Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for seamless switching across 100+ LLM providers.
+
+### 10. [NVIDIA/workbench-example-hybrid-rag](../ai/rag/nvidia-workbench-example-hybrid-rag.md) ([GitHub](https://github.com/nvidia/workbench-example-hybrid-rag))
+- Stars: 0
+- Language: Unknown
+- Description: - **Hybrid RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword/BM25) retrieval methods for enhanced document search...
+
+### 11. [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([GitHub](https://github.com/oxbshw/llm-agents-ecosystem-handbook))
 - Stars: 0
 - Language: Unknown
 - Description: One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.
 
-### 10. [brandonhimpfen/awesome-llmops](../ai/resources/brandonhimpfen-awesome-llmops.md) ([GitHub](https://github.com/brandonhimpfen/awesome-llmops))
+### 12. [brandonhimpfen/awesome-llmops](../ai/resources/brandonhimpfen-awesome-llmops.md) ([GitHub](https://github.com/brandonhimpfen/awesome-llmops))
 - Stars: 0
 - Language: Unknown
 - Description: A curated list of tools, frameworks, platforms, and resources for Large Language Model Operations (LLMOps).
 
-### 11. [PacktPublishing/LLM-Engineers-Handbook](../ai/rag/packtpublishing-llm-engineers-handbook.md) ([GitHub](https://github.com/packtpublishing/llm-engineers-handbook))
-- Stars: 0
-- Language: Unknown
-- Description: - **Comprehensive LLM Guide**: Covers fundamentals to deployment of advanced LLM and RAG applications on AWS using LLMOps best practices, structured as a practical handbook.
-
-### 12. [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md) ([GitHub](https://github.com/ray-project/llm-applications))
-- Stars: 0
-- Language: Unknown
-- Description: - **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples integrating Llama2, OpenAI, and Anyscal...
-
 ### 13. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
 - Stars: 0
 - Language: Unknown
-- Description: - **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, with enterprise deployment, fine-tuning, and project deployment workflows.
+- Description: - **Comprehensive AI Agent Development Guide (2026)**: Covers a structured learning path from zero to enterprise-level AI agent deployment, including frameworks (LangChain, LangGraph, Coze, Dify), ...
 
-### 14. [tensorchord/awesome-llmops](../ai/resources/tensorchord-awesome-llmops.md) ([GitHub](https://github.com/tensorchord/awesome-llmops))
+### 14. [PacktPublishing/LLM-Engineers-Handbook](../ai/rag/packtpublishing-llm-engineers-handbook.md) ([GitHub](https://github.com/packtpublishing/llm-engineers-handbook))
+- Stars: 0
+- Language: Unknown
+- Description: - **Comprehensive LLM Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable GenAI systems.
+
+### 15. [tensorchord/awesome-llmops](../ai/resources/tensorchord-awesome-llmops.md) ([GitHub](https://github.com/tensorchord/awesome-llmops))
 - Stars: 0
 - Language: Unknown
 - Description: An awesome & curated list of best LLMOps tools for developers
 
-### 15. [ajac-zero/example-rag-app](../ai/rag/ajac-zero-example-rag-app.md) ([GitHub](https://github.com/ajac-zero/example-rag-app))
+### 16. [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md) ([GitHub](https://github.com/ray-project/llm-applications))
 - Stars: 0
 - Language: Unknown
-- Description: - **Observability & Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for 100+ LLM provider compatibility.
+- Description: - **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with optimize...
 
-### 16. [phoenix0706/langgraph-agent-gaia-benchmark](../ai/agents/phoenix0706-langgraph-agent-gaia-benchmark.md) ([GitHub](https://github.com/phoenix0706/langgraph-agent-gaia-benchmark))
+### 17. [phoenix0706/langgraph-agent-gaia-benchmark](../ai/agents/phoenix0706-langgraph-agent-gaia-benchmark.md) ([GitHub](https://github.com/phoenix0706/langgraph-agent-gaia-benchmark))
 - Stars: 0
 - Language: Unknown
 - Description: No description provided.
 
-### 17. [Yigtwxx/awesome-rag-production](../ai/rag/yigtwxx-awesome-rag-production.md) ([GitHub](https://github.com/yigtwxx/awesome-rag-production))
+### 18. [raga-ai-hub/raga-llm-hub](../ai/rag/raga-ai-hub-raga-llm-hub.md) ([GitHub](https://github.com/raga-ai-hub/raga-llm-hub))
 - Stars: 0
 - Language: Unknown
-- Description: - **Curated Resources**: Repository provides a vetted list of tools, frameworks, and best practices specifically for building **scalable, production-grade RAG systems**, covering AI engineering, ML...
+- Description: - **Purpose**: Open-source Python framework for evaluating, securing, and implementing guardrails for large language models (LLMs) in production environments.
 
-### 18. [AI-Application-and-Integration-Lab/MegaRAG](../ai/rag/ai-application-and-integration-lab-megarag.md) ([GitHub](https://github.com/ai-application-and-integration-lab/megarag))
+### 19. [AI-Application-and-Integration-Lab/MegaRAG](../ai/rag/ai-application-and-integration-lab-megarag.md) ([GitHub](https://github.com/ai-application-and-integration-lab/megarag))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multimodal Graph-based RAG Framework**: Introduces MegaRAG, a novel Retrieval-Augmented Generation (RAG) system leveraging multimodal data (text, images, graphs) structured as a unified graph f...
 
-### 19. [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md) ([GitHub](https://github.com/curiousily/ai-bootcamp))
+### 20. [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md) ([GitHub](https://github.com/curiousily/ai-bootcamp))
 - Stars: 0
 - Language: Unknown
 - Description: Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tuning, DSPy & AI Agents (CrewAI), (Using ChatGPT, gpt-oss, Claude, Qwen, Gemma, L...
 
-### 20. [wgcyeo/UniversalRAG](../ai/rag/wgcyeo-universalrag.md) ([GitHub](https://github.com/wgcyeo/universalrag))
+### 21. [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md) ([GitHub](https://github.com/dannyblaker/rag-tutorial))
 - Stars: 0
 - Language: Unknown
-- Description: - **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (documents, pa...
-
-### 21. [aws-samples/amazon-bedrock-samples](../ai/rag/aws-samples-amazon-bedrock-samples.md) ([GitHub](https://github.com/aws-samples/amazon-bedrock-samples))
-- Stars: 0
-- Language: Unknown
-- Description: - **Repository Contents**: Provides Jupyter Notebook examples demonstrating Amazon Bedrock's foundational models, including Amazon Titan, for generative AI, embeddings, and RAG (Retrieval-Augmented...
+- Description: - **Progressive RAG Learning Path**: 6 structured lessons covering foundational to advanced RAG concepts, from embeddings and vector databases to LLM integration and production deployment.
 
 ### 22. [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape.md) ([GitHub](https://github.com/dyronrh/awesome-agentops-landscape))
 - Stars: 0
@@ -146,50 +146,70 @@ Recently detected signals:
 - Language: Unknown
 - Description: The platform for LLM evaluations and AI agent testing
 
-### 24. [raga-ai-hub/raga-llm-hub](../ai/rag/raga-ai-hub-raga-llm-hub.md) ([GitHub](https://github.com/raga-ai-hub/raga-llm-hub))
+### 24. [Yigtwxx/awesome-rag-production](../ai/rag/yigtwxx-awesome-rag-production.md) ([GitHub](https://github.com/yigtwxx/awesome-rag-production))
 - Stars: 0
 - Language: Unknown
-- Description: - **Purpose**: Framework for evaluating, enforcing guardrails, and ensuring security in Large Language Model (LLM) applications.
+- Description: - **Curated resources**: Repository aggregates production-grade tools, frameworks, and best practices for scalable Retrieval-Augmented Generation (RAG) systems, covering LLMs, embeddings, vector da...
 
-### 25. [jxzhangjhu/Awesome-LLM-RAG](../ai/rag/jxzhangjhu-awesome-llm-rag.md) ([GitHub](https://github.com/jxzhangjhu/awesome-llm-rag))
+### 25. [explodinggradients/ragas](../ai/rag/explodinggradients-ragas.md) ([GitHub](https://github.com/explodinggradients/ragas))
 - Stars: 0
 - Language: Unknown
-- Description: - **Curated RAG Resources**: Comprehensive list of advanced retrieval-augmented generation (RAG) techniques, frameworks, and tools for Large Language Models (LLMs), covering embeddings, retrieval m...
+- Description: - **Framework Purpose**: Ragas is a Python-based evaluation framework designed to supercharge the assessment of LLM applications, focusing on LLMops and evaluation metrics.
 
-### 26. [KruxAI/ragbuilder](../ai/rag/kruxai-ragbuilder.md) ([GitHub](https://github.com/kruxai/ragbuilder))
+### 26. [jxzhangjhu/Awesome-LLM-RAG](../ai/rag/jxzhangjhu-awesome-llm-rag.md) ([GitHub](https://github.com/jxzhangjhu/awesome-llm-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with configurable components (e.g., embedders, retrievers, LLMs) and automated optimization...
+- Description: - **Curated RAG Resources**: A comprehensive, community-maintained repository aggregating advanced techniques, tools, and research papers on Retrieval-Augmented Generation (RAG) in Large Language M...
 
-### 27. [pathwaycom/llm-app](../ai/rag/pathwaycom-llm-app.md) ([GitHub](https://github.com/pathwaycom/llm-app))
+### 27. [HKUDS/MiniRAG](../ai/rag/hkuds-minirag.md) ([GitHub](https://github.com/hkuds/minirag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Cloud-native RAG & AI pipeline templates**: Pre-configured Docker-ready templates for Retrieval-Augmented Generation (RAG), AI pipelines, and enterprise search with live data synchronization.
+- Description: - **MiniRAG Framework**: Introduces a simplified RAG pipeline leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining competitive performance in know...
 
 ### 28. [Haohao-end/openagent](../ai/agents/haohao-end-openagent.md) ([GitHub](https://github.com/haohao-end/openagent))
 - Stars: 0
 - Language: Unknown
 - Description: AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + La...
 
-### 29. [decodingai-magazine/llm-twin-course](../ai/rag/decodingai-magazine-llm-twin-course.md) ([GitHub](https://github.com/decodingai-magazine/llm-twin-course))
+### 29. [onyx-dot-app/EnterpriseRAG-Bench](../ai/rag/onyx-dot-app-enterpriserag-bench.md) ([GitHub](https://github.com/onyx-dot-app/enterpriserag-bench))
 - Stars: 0
 - Language: Unknown
-- Description: - **Course Overview**: Provides a free, hands-on guide to building production-ready LLM and RAG systems using LLMOps best practices, including source code and 12 structured lessons.
+- Description: - **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on company internal documents, enabling standardized assessment of enterprise RAG perform...
 
-### 30. [Hugging Face · GitHub](../ai/agents/hugging-face-github.md) ([GitHub](https://github.com/huggingface))
+### 30. [chaoql/rag-best-practices](../ai/rag/chaoql-rag-best-practices.md) ([GitHub](https://github.com/chaoql/rag-best-practices))
+- Stars: 0
+- Language: Unknown
+- Description: - **RAG Implementation Guide**: Repository provides technical best practices for integrating large language models (LLMs) with retrieval-augmented generation (RAG) systems in Python.
+
+### 31. [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md) ([GitHub](https://github.com/daveebbelaar/ai-cookbook))
+- Stars: 0
+- Language: Unknown
+- Description: - **Repository Overview**: A Python-based collection of examples and tutorials for building AI systems, covering agents, LLMs, and integrations with Anthropic and OpenAI APIs.
+
+### 32. [decodingai-magazine/llm-twin-course](../ai/rag/decodingai-magazine-llm-twin-course.md) ([GitHub](https://github.com/decodingai-magazine/llm-twin-course))
+- Stars: 0
+- Language: Unknown
+- Description: - **Course Structure**: Provides a free, hands-on guide to building production-ready LLM and RAG systems using LLMOps best practices, including 12 hands-on lessons and source code.
+
+### 33. [Hugging Face · GitHub](../ai/agents/hugging-face-github.md) ([GitHub](https://github.com/huggingface))
 - Stars: 0
 - Language: Unknown
 - Description: - **Core Libraries**: Hugging Face maintains foundational AI libraries including `transformers` (SOTA ML models for text/vision/audio/multimodal tasks), `diffusers` (diffusion models for generative...
 
-### 31. [truefoundry/cognita](../ai/rag/truefoundry-cognita.md) ([GitHub](https://github.com/truefoundry/cognita))
-- Stars: 0
-- Language: Unknown
-- Description: - **Modular RAG Framework**: Open-source Python framework for building production-grade Retrieval Augmented Generation (RAG) applications with modular components for seamless integration and scalab...
-
-### 32. [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets.md) ([GitHub](https://github.com/glgh/awesome-llm-human-preference-datasets))
+### 34. [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets.md) ([GitHub](https://github.com/glgh/awesome-llm-human-preference-datasets))
 - Stars: 0
 - Language: Unknown
 - Description: A curated list of Human Preference Datasets for LLM fine-tuning, RLHF, and eval.
+
+### 35. [truefoundry/cognita](../ai/rag/truefoundry-cognita.md) ([GitHub](https://github.com/truefoundry/cognita))
+- Stars: 0
+- Language: Unknown
+- Description: - **Modular RAG Framework**: Open-source Python framework for building production-grade Retrieval-Augmented Generation (RAG) applications with modular components for scalable deployment.
+
+### 36. [pathwaycom/llm-app](../ai/rag/pathwaycom-llm-app.md) ([GitHub](https://github.com/pathwaycom/llm-app))
+- Stars: 0
+- Language: Unknown
+- Description: - **Cloud-native RAG & AI Pipelines**: Pre-configured templates for Retrieval-Augmented Generation (RAG), AI pipelines, and enterprise search with live data synchronization, supporting Docker deplo...
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -211,4 +231,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-07T15:48:19.416368+05:30.558129+05:30.641788+05:30.475206+05:30.316516+05:30.443954+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-07T23:14:18.008202+05:30.416368+05:30.558129+05:30.641788+05:30.475206+05:30.316516+05:30.443954+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.

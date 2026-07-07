@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aiwaves-cn/agents
-collected_at: '2026-07-07T09:53:38.327705+05:30'
-published_at: '2026-07-06T17:29:48Z'
+collected_at: '2026-07-07T23:02:57.013057+05:30'
+published_at: '2026-07-07T09:41:25Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-stars: 5939
+stars: 5938
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-07-18T02:01:03Z'
 pushed_at: '2024-09-26T03:12:53Z'
 resource_id: github:aiwaves-cn/agents
-first_seen: '2026-07-07T09:53:38.327705+05:30'
-last_seen: '2026-07-07T09:53:38.327705+05:30'
-last_checked: '2026-07-07T09:53:38.327705+05:30'
+first_seen: '2026-07-07T23:02:57.013057+05:30'
+last_seen: '2026-07-07T23:02:57.013057+05:30'
+last_checked: '2026-07-07T23:02:57.013057+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: Open-source Python-based framework (`aiwaves-cn/agents`) designed for building **data-centric, self-evolving autonomous language agents** leveraging LLMs.
-- **Core Features**: Enables **autonomous agent development** with capabilities for **self-improvement** through iterative data-driven feedback loops.
-- **Technical Stack**: Built in Python, optimized for **LLM integration**, and supports **scalable agent architectures** with modular components.
+- **Framework Overview**: Open-source Python framework (`aiwaves-cn/agents`) enabling autonomous language agents with self-evolving capabilities, emphasizing data-centric optimization for LLM-based systems.
+
+- **Core Features**: Supports autonomous agent development with built-in mechanisms for self-improvement, dynamic adaptation, and iterative refinement of agent behavior through data-driven feedback loops.
+
+- **Technical Stack**: Leverages Python and integrates with large language models (LLMs) to provide a modular, extensible architecture for deploying and scaling autonomous agents in real-world applications.
 
 ## Why It Matters
 
@@ -41,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: aiwaves-cn
-- Stars: 5939
+- Stars: 5938
 - Forks: 482
 - Language: Python
 - Topics: autonomous-agents, language-model, llm
-- Last Updated: 2026-07-06T17:29:48Z
+- Last Updated: 2026-07-07T09:41:25Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-07-18T02:01:03Z

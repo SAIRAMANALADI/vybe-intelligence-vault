@@ -5,6 +5,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | Repository | Focus Category | Quality Score |
 | :--- | :--- | :--- |
 | [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) | `ai-coding-agents/` | 70 |
+| [LangChain · GitHub](https://github.com/langchain-ai) | `ai-coding-agents/` | 70 |
 | [atticus98/codex-turbo](https://github.com/atticus98/codex-turbo) | `ai-coding-agents/` | 70 |
 | [study8677/antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) | `ai-coding-agents/` | 70 |
 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [jmahoro2022/GitHub-Start-up-project](https://github.com/jmahoro2022/GitHub-Start-up-project) | `ai-coding-agents/` | 70 |
 | [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) | `ai-coding-agents/` | 70 |
 | [kno2gether/crewai-examples](https://github.com/kno2gether/crewai-examples) | `ai-coding-agents/` | 70 |
-| [Ammumammu/https-github.com-majacinka-crewai-experiments](https://github.com/Ammumammu/https-github.com-majacinka-crewai-experiments) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

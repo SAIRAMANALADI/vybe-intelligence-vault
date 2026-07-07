@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raganwald/raganwald.github.com
-collected_at: '2026-07-07T15:33:19.604859+05:30'
+collected_at: '2026-07-07T22:59:16.766193+05:30'
 published_at: '2026-06-28T19:26:47Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2012-02-19T03:15:00Z'
 pushed_at: '2026-06-28T19:26:42Z'
 resource_id: github:raganwald/raganwald.github.com
-first_seen: '2026-07-07T15:33:19.604859+05:30'
-last_seen: '2026-07-07T15:33:19.604859+05:30'
-last_checked: '2026-07-07T15:33:19.604859+05:30'
+first_seen: '2026-07-07T22:59:16.766193+05:30'
+last_seen: '2026-07-07T22:59:16.766193+05:30'
+last_checked: '2026-07-07T22:59:16.766193+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Jekyll Static Site Generator**: Repository contains the source code for `raganwald.com`, built using Jekyll, a Ruby-based static site generator.
-- **GitHub Pages Hosting**: Deployed via GitHub Pages, leveraging GitHub's infrastructure for web hosting.
-- **HTML-Based Output**: Despite Jekyll's templating, the final output is pure HTML, optimized for static delivery.
+- **Jekyll-based static site generator**: Repository contains the source code for `raganwald.com`, built using Jekyll, a Ruby-based static site generator.
+- **Minimalist structure**: Hosted as a GitHub Pages repository with HTML as the primary language; no additional frameworks or dependencies specified.
+- **Last updated**: Repository was last modified on **June 28, 2026**, indicating recent maintenance or updates.
 
 ## Why It Matters
 

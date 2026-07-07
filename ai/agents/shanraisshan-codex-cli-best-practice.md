@@ -4,15 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-07-07T15:35:59.674100+05:30'
+collected_at: '2026-07-07T23:01:56.877781+05:30'
 published_at: '2026-07-07T04:29:04Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - openai
 - python
-- scripts
 - workflows
 stars: 915
 language: Python
@@ -22,9 +20,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-07-07T15:35:59.674100+05:30'
-last_seen: '2026-07-07T15:35:59.674100+05:30'
-last_checked: '2026-07-07T15:35:59.674100+05:30'
+first_seen: '2026-07-07T23:01:56.877781+05:30'
+last_seen: '2026-07-07T23:01:56.877781+05:30'
+last_checked: '2026-07-07T23:01:56.877781+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository provides structured methodologies to transition from *vibe coding* to *agentic engineering* using OpenAI Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for scalable AI-driven development workflows.
+- **Agentic Workflow Integration**: Demonstrates transition from vibe coding to structured agentic engineering using Codex CLI, emphasizing modular hooks, context engineering, and CLI-based agentic workflows for scalable AI-driven development.
 
-- **Codex CLI Best Practices**: Documents optimized commands, agent configurations, and CLI-based automation patterns (e.g., `codex-cli-agents`, `codex-hooks`) to enhance productivity, reproducibility, and maintainability in AI-assisted coding environments.
+- **CLI-Centric Best Practices**: Provides curated `codex-cli-commands`, `codex-hooks`, and `codex-cli-skills` patterns to optimize OpenAI Codex agent interactions, including skill chaining, context management, and command orchestration.
 
-- **Context & Skill Optimization**: Focuses on *context engineering* techniques (e.g., dynamic prompt chaining, state management) and predefined CLI skills to minimize hallucinations, improve task decomposition, and enable autonomous agentic workflows in Python-based AI systems.
+- **Open-Source Repository**: A Python-based GitHub repository (915⭐, 56🍴) serving as a reference implementation for agentic AI workflows, with updates as of July 2026, focusing on Pakistani developer contributions to Codex CLI ecosystems.
 
 ## Why It Matters
 

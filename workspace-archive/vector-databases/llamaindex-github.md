@@ -2,25 +2,25 @@
 title: LlamaIndex · GitHub
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/run-llama
+source_url: https://github.com/run-llama/
 resource_id: blog:llamaindex-github
 local_vault_path: ai/rag/llamaindex-github.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
-- hackernews
 - meta-ai
 - models
 - rag
+- reddit
 - web-crawled
 - workflows
 - youtube
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # LlamaIndex · GitHub
@@ -29,17 +29,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **LlamaParse** provides state-of-the-art (SOTA) agentic OCR for document processing, enabling advanced document workflows and agent integration via cloud-based services (`Parse`, `Extract`) and open-source tools (`LiteParse`).
+- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via cloud-based APIs (`Parse`, `Extract`) for document processing workflows, with platform documentation available for integration.
 
-- **Open-source ecosystem** includes `LlamaAgents` for agentic workflows and `LlamaIndex (Python)` for document indexing/retrieval, with comprehensive documentation for Python-based implementations.
+- **Open-Source Tooling**: Offers lightweight (`LiteParse`) and agentic (`LlamaAgents`) OCR/document processing libraries, alongside the core `LlamaIndex` Python framework for document indexing and retrieval.
 
-- **Community & support** are accessible via Twitter, LinkedIn, and Yo
+- **Community & Documentation**: Maintains active social channels (X/Twitter, LinkedIn, YouTube) a
 
 ## Use Cases
 
@@ -49,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/run-llama
+Original source URL: https://github.com/run-llama/
 
 ## Local Vault File
 

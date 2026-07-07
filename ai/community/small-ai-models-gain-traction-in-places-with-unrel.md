@@ -13,13 +13,14 @@ collected_at: '2026-07-07T15:32:26.259191+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:small-ai-models-gain-traction-in-places-with-unrel
 first_seen: '2026-07-07T09:48:10.946046+05:30'
 last_seen: '2026-07-07T15:32:26.259191+05:30'
 last_checked: '2026-07-07T15:32:26.259191+05:30'
 health_score: 100
 ---
+
 
 # Small AI Models Gain Traction In places with unreliable networks
 

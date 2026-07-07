@@ -2,7 +2,7 @@
 title: pathwaycom/llm-app
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/pathwaycom/llm-app
+source_url: https://github.com/pathwaycom/llm-app?source=post_page
 resource_id: github:pathwaycom/llm-app
 local_vault_path: ai/rag/pathwaycom-llm-app.md
 quality_score: 70
@@ -10,11 +10,6 @@ archive_score: 77
 archive_tier: useful
 resource_kind: template
 importance: medium
-tags:
-- github-repo
-- jupyter notebook
-- openai
-- rag
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,9 +28,9 @@ selection_reason:
 
 ## Summary
 
-- **Cloud-native RAG & AI pipeline templates**: Pre-configured Docker-ready templates for Retrieval-Augmented Generation (RAG), AI pipelines, and enterprise search with live data synchronization.
-- **Multi-source data integration**: Supports real-time sync with SharePoint, Google Drive, S3, Kafka, PostgreSQL, and REST APIs via Jupyter Notebook-based implementation.
-- **Enterprise-grade features**: Includes LLM security, prompt optimization, vector database indexing, and Hugging Face/OpenAI compa
+- **Cloud-native RAG & AI Pipelines**: Pre-configured templates for Retrieval-Augmented Generation (RAG), AI pipelines, and enterprise search with live data synchronization, supporting Docker deployment and real-time data sources (SharePoint, Google Drive, S3, Kafka, PostgreSQL, APIs).
+
+- **Multi-Model & Security-Focused**: Integrates Hugging Face, OpenAI, and local LLM models with built-in security (LLM security, prompting safeguards) and supports LLMOps workflows for scalable, production-grade
 
 ## Use Cases
 
@@ -45,7 +40,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/pathwaycom/llm-app
+Original source URL: https://github.com/pathwaycom/llm-app?source=post_page
 
 ## Local Vault File
 

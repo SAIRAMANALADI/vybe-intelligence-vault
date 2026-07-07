@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/RAG-Anything
-collected_at: '2026-07-07T04:10:11.925811+05:30'
-published_at: '2026-07-06T21:47:30Z'
+collected_at: '2026-07-07T22:59:26.745689+05:30'
+published_at: '2026-07-07T16:41:20Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 - youtube
-stars: 22015
+stars: 22035
 language: Python
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-06-06T06:47:29Z'
 pushed_at: '2026-06-15T04:43:54Z'
 resource_id: github:hkuds/rag-anything
-first_seen: '2026-07-07T04:10:11.925811+05:30'
-last_seen: '2026-07-07T04:10:11.925811+05:30'
-last_checked: '2026-07-07T04:10:11.925811+05:30'
+first_seen: '2026-07-07T22:59:26.745689+05:30'
+last_seen: '2026-07-07T22:59:26.745689+05:30'
+last_checked: '2026-07-07T22:59:26.745689+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Modal RAG Integration**: Framework supports retrieval-augmented generation (RAG) across text, images, audio, and video modalities, enabling unified cross-modal retrieval and generation workflows.
+- **Multi-modal RAG Integration**: Framework unifies text, image, audio, and video retrieval with a single pipeline, leveraging modality-specific encoders (e.g., CLIP, Whisper) and cross-modal fusion mechanisms for heterogeneous data retrieval.
 
-- **Modular Architecture**: Implements a plug-and-play system with interchangeable components (e.g., encoders, retrievers, generators) for customizable RAG pipelines tailored to specific multi-modal tasks.
+- **Dynamic Retrieval Augmentation**: Implements adaptive retrieval strategies (e.g., query rewriting, multi-hop retrieval) with a lightweight LLM-based router to optimize context relevance and mitigate noise in retrieved data.
 
-- **Optimized Retrieval Mechanisms**: Leverages advanced indexing (e.g., FAISS, Milvus) and hybrid retrieval strategies (dense + sparse) to enhance multi-modal data retrieval efficiency and accuracy.
+- **Modular Architecture**: Python-based system with pluggable components (e.g., vector stores, rerankers, LLMs) supporting customization via YAML/JSON configs, and built-in support for FAISS, Milvus, and PgVector for scalable vector search.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 22015
-- Forks: 2557
+- Stars: 22035
+- Forks: 2563
 - Language: Python
 - Topics: multi-modal-rag, retrieval-augmented-generation
-- Last Updated: 2026-07-06T21:47:30Z
+- Last Updated: 2026-07-07T16:41:20Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-06T06:47:29Z

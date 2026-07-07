@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational Repository**: Provides 12 structured lessons for beginners to learn AI agent development using frameworks like **AutoGen** and **Semantic Kernel**.
-- **Technical Focus**: Covers **agentic AI**, **RAG (Retrieval-Augmented Generation)**, and **multi-agent systems** with hands-on Jupyter Notebook examples.
-- **Microsoft Ecosystem**: Integrates with **Microsoft’s AI agent frameworks** and tools for generative AI workflows.
+- **Curriculum Structure**: 12-lesson Jupyter Notebook-based course covering foundational to advanced concepts in AI agents, including agentic RAG, Autogen, and Semantic Kernel frameworks.
+
+- **Technical Focus**: Emphasizes hands-on implementation of agentic AI systems, with topics spanning multi-agent orchestration, tool integration, and generative AI workflows.
+
+- **Ecosystem Integration**: Demonstrates Microsoft’s AI agent frameworks (Autogen, Semantic Kernel) and their application in real-wo
 
 ## Use Cases
 

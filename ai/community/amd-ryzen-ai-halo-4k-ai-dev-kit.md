@@ -13,13 +13,14 @@ collected_at: '2026-07-07T15:32:27.174607+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:amd-ryzen-ai-halo-4k-ai-dev-kit
 first_seen: '2026-07-07T00:46:14.841785+05:30'
 last_seen: '2026-07-07T15:32:27.174607+05:30'
 last_checked: '2026-07-07T15:32:27.174607+05:30'
 health_score: 100
 ---
+
 
 # AMD Ryzen AI Halo – $4k AI Dev Kit
 

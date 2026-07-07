@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent codebase Q&A system**: Enables grounded interactions with codebases via file paths and line numbers, supporting tools like Claude Code, Cursor, and Codex CLI.
-- **Knowledge engine integration**: Combines RAG, MCP servers, and knowledge graphs to provide context-aware responses for code search and developer tooling.
-- **IDE-agnostic plugin**: Designed as a Python-based MCP server, compatible with AI IDEs (e.g., Cursor, VS Code) and CLI tools (e.g., Codex CLI) for cross-platform co
+- **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for codebase interaction.
+- **IDE-agnostic integration** supporting Claude Code, Cursor, Codex CLI, and other AI tools via MCP server.
+- **RAG-based architecture** combining code search, knowledge graph, and LLM prompting for precise, context-aware responses.
 
 ## Use Cases
 

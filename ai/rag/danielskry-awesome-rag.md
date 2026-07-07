@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Danielskry/Awesome-RAG
-collected_at: '2026-07-07T15:34:24.577890+05:30'
-published_at: '2026-07-07T02:39:37Z'
+collected_at: '2026-07-07T23:00:21.827866+05:30'
+published_at: '2026-07-07T14:03:41Z'
 tags:
 - github-repo
+- hackernews
 - rag
 - unknown
-stars: 1301
+stars: 1303
 language: Unknown
 status: active
 license: CC0-1.0
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-04-12T14:45:44Z'
 pushed_at: '2026-06-30T10:58:04Z'
 resource_id: github:danielskry/awesome-rag
-first_seen: '2026-07-07T15:34:24.577890+05:30'
-last_seen: '2026-07-07T15:34:24.577890+05:30'
-last_checked: '2026-07-07T15:34:24.577890+05:30'
+first_seen: '2026-07-07T23:00:21.827866+05:30'
+last_seen: '2026-07-07T23:00:21.827866+05:30'
+last_checked: '2026-07-07T23:00:21.827866+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Aggregates Retrieval-Augmented Generation (RAG) applications within Generative AI.
-*   Catalogs practical RAG implementations leveraging Large Language Models (LLMs).
-*   Functions as a community-curated resource for exploring diverse RAG use cases.
+- **Curated RAG Resources**: Comprehensive collection of Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI, covering large language models (LLMs) and retrieval techniques.
+- **Active Maintenance**: Repository last updated on **2026-07-07**, indicating ongoing curation with 1,303 stars and 165 forks, reflecting community engagement.
+- **Multi-Topic Focus**: Encompasses core AI domains including **LLMs, generative AI, and RAG-specific implementations**, serving as a technical reference for practitioners.
 
 ## Why It Matters
 
@@ -39,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Danielskry
-- Stars: 1301
+- Stars: 1303
 - Forks: 165
 - Language: Unknown
 - Topics: artificial-intelligence, generative-ai, large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-07-07T02:39:37Z
+- Last Updated: 2026-07-07T14:03:41Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2024-04-12T14:45:44Z

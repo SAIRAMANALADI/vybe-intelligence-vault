@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stackitcloud/rag-template
-collected_at: '2026-07-07T15:33:49.595242+05:30'
+collected_at: '2026-07-07T22:59:46.813430+05:30'
 published_at: '2026-07-05T00:44:33Z'
 tags:
 - github-repo
@@ -12,6 +12,8 @@ tags:
 - models
 - python
 - rag
+- reddit
+- workflows
 stars: 84
 language: Python
 status: active
@@ -20,9 +22,9 @@ archived: false
 created_at: '2025-01-16T12:14:53Z'
 pushed_at: '2026-07-05T01:39:14Z'
 resource_id: github:stackitcloud/rag-template
-first_seen: '2026-07-07T15:33:49.595242+05:30'
-last_seen: '2026-07-07T15:33:49.595242+05:30'
-last_checked: '2026-07-07T15:33:49.595242+05:30'
+first_seen: '2026-07-07T22:59:46.813430+05:30'
+last_seen: '2026-07-07T22:59:46.813430+05:30'
+last_checked: '2026-07-07T22:59:46.813430+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Provides a FastAPI-based template for Retrieval-Augmented Generation (RAG) chatbots with vector search capabilities, leveraging Python and Ollama for LLM integration.
-
-- **Deployment Options**: Supports Docker for containerization and Kubernetes for orchestration, enabling scalable deployment of RAG-based document management systems.
-
-- **Vector Database Integration**: Includes configuration for vector search databases (e.g., Chroma, Weaviate) to enable efficient retrieval of relevant document chunks for LLM augmentation.
+- **Purpose**: Provides a template for deploying AI chatbots and document management systems using Retrieval-Augmented Generation (RAG) with vector search capabilities, implemented via FastAPI.
+- **Key Components**: Includes FastAPI for backend, Ollama for LLM integration, and supports Docker/Kubernetes for container orchestration; integrates with vector databases for RAG workflows.
+- **Deployment**: Designed for Python-based environments, optimized for Stackit Cloud, and last updated in July 2026 with modular architecture for scalability.
 
 ## Why It Matters
 

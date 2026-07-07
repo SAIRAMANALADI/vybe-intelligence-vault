@@ -15,7 +15,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Context Retrieval Layer**: Open-source Python SDK (`airweave-ai/airweave`) designed as a middleware for AI agents to dynamically fetch, index, and retrieve relevant context from enterprise data sources (e.g., databases, APIs, unstructured documents) via semantic search and retrieval-augmented generation (RAG).
+- **Context Retrieval Layer**: Open-source Python-based framework (`airweave-ai/airweave`) designed as a middleware for AI agents to dynamically fetch and integrate contextual data from enterprise sources (e.g., databases, APIs) for enhanced LLM inference.
 
-- **Enterprise Data Integration**: Supports 100+ data connectors (SQL/NoSQL, cloud storage, SaaS APIs) with pluggable architecture, enabling real-time or batch ingestion of structured
+- **Modular Architecture**: Supports pluggable **data connectors** (SQL, NoSQL, REST, etc.) and **semantic search** (vector DBs, hybrid retrieval) via a unified API, enabling low-latency context augmentation for RAG pipelines.
+
+- **Enterprise
 
 ## Use Cases
 

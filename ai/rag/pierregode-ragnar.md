@@ -4,24 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PierreGode/Ragnar
-collected_at: '2026-07-07T15:34:44.586615+05:30'
-published_at: '2026-07-07T09:15:12Z'
+collected_at: '2026-07-07T23:00:41.821208+05:30'
+published_at: '2026-07-07T17:13:56Z'
 tags:
 - github-repo
+- hackernews
 - paper
 - python
 - rag
-stars: 664
+stars: 669
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-11-01T03:12:25Z'
-pushed_at: '2026-07-07T05:23:44Z'
+pushed_at: '2026-07-07T17:23:32Z'
 resource_id: github:pierregode/ragnar
-first_seen: '2026-07-07T15:34:44.586615+05:30'
-last_seen: '2026-07-07T15:34:44.586615+05:30'
-last_checked: '2026-07-07T15:34:44.586615+05:30'
+first_seen: '2026-07-07T23:00:41.821208+05:30'
+last_seen: '2026-07-07T23:00:41.821208+05:30'
+last_checked: '2026-07-07T23:00:41.821208+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Ragnar is an offensive security tool designed for Raspberry Pi with a 2.13-inch e-Paper HAT, enabling network scanning, target discovery, port enumeration, service identification, and vulnerability assessment.
-- **Features**: Automates reconnaissance by detecting open ports, exposed services, and potential vulnerabilities across network targets.
-- **Implementation**: Developed in Python, last updated on July 7, 2026, with 664 stars and 59 forks on GitHub.
+- **Purpose & Functionality**: Ragnar is an offensive security tool designed for Raspberry Pi with a 2.13-inch e-Paper HAT, enabling network scanning, target discovery, open port identification, exposed service detection, and vulnerability assessment.
+- **Technical Stack**: Implemented in Python, leveraging modular design for extensibility in network reconnaissance and security auditing.
+- **Metadata**: 669 stars, 60 forks, last updated on 2026-07-07.
 
 ## Why It Matters
 
@@ -40,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: PierreGode
-- Stars: 664
-- Forks: 59
+- Stars: 669
+- Forks: 60
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-07T09:15:12Z
+- Last Updated: 2026-07-07T17:13:56Z
 - License: MIT
 - Archived: No
 - Created At: 2025-11-01T03:12:25Z
-- Pushed At: 2026-07-07T05:23:44Z
+- Pushed At: 2026-07-07T17:23:32Z
 
 ## Possible Use Cases
 

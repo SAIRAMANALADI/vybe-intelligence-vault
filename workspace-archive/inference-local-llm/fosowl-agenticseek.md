@@ -8,17 +8,16 @@ local_vault_path: ai/rag/fosowl-agenticseek.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: api
 importance: medium
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # Fosowl/agenticSeek
@@ -27,18 +26,18 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: api
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Fully Local AI Agent Framework**: Open-source Python-based system (`agenticSeek`) enabling autonomous agent operations (thinking, web browsing, coding) entirely offline with no API dependencies or cloud costs, leveraging local compute resources.
+- **Local LLM Integration**: Fully autonomous agent leveraging **DeepSeek-R1** (or similar) for reasoning, browsing, and coding **without cloud APIs**, operating solely on local compute resources.
 
-- **DeepSeek-R1 Integration**: Utilizes DeepSeek's open-weight R1 model for reasoning, supporting LLM-agent orchestration with local inference for tasks like voice assistance and autonomous workflows.
+- **Zero-Cost Operation**: Eliminates subscription fees ($200+/month) by running entirely offline, with costs limited to electricity consumption.
 
-- **Cost-Effective Deployment**: Eliminates sub
+- **Multi-Modal Capabilities**: Supports **voice-assistant functionality** and **LLM-agent orchestration** (e.g., web interaction, code execution) via Pyth
 
 ## Use Cases
 

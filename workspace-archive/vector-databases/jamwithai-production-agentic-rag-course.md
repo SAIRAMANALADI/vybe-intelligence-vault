@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Course Overview**: A production-focused RAG (Retrieval-Augmented Generation) implementation course in Python, emphasizing scalable, agentic RAG systems for real-world deployment.
-- **Repository Metrics**: 7,471 stars, 1,672 forks, last updated July 7, 2026, indicating active community engagement and recent maintenance.
-- **Technical Stack**: Python-based, targeting advanced RAG architectures with agentic workflows for production-grade AI applications.
+- **Course Focus**: Production-grade implementation of agentic Retrieval-Augmented Generation (RAG) systems in Python, emphasizing scalable, real-world deployment.
+- **Repository Metrics**: 7,484 stars, 1,678 forks, last updated July 7, 2026—indicating active community engagement and maintenance.
+- **Technical Stack**: Leverages Python for end-to-end RAG pipeline development, including agentic workflows, retrieval mechanisms, and integration with production-grade tools.
 
 ## Use Cases
 

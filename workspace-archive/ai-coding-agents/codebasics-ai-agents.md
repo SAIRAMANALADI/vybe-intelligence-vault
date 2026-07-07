@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `codebasics/ai-agents` provides tutorials on AI agents, written in Python, with no specified topics.
-- **Activity Metrics**: Last updated on **2026-05-19**, with **57 stars** and **82 forks**.
-- **Access**: Available at [https://github.com/codebasics/ai-agents](https://github.com/codebasics/ai-agents).
+- **Repository Overview**: GitHub repository `codebasics/ai-agents` provides tutorials focused on AI agents, implemented in Python.
+- **Activity & Maintenance**: Last updated on **May 19, 2026**, indicating active or recent development.
+- **Community Metrics**: 57 stars, 82 forks, reflecting moderate engagement and adoption in the AI/ML community.
 
 ## Use Cases
 

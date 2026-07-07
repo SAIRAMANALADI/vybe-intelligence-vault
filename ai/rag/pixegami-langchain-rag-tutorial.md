@@ -4,23 +4,22 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-07-07T15:33:34.511807+05:30'
-published_at: '2026-07-05T07:09:22Z'
+collected_at: '2026-07-07T22:59:31.693395+05:30'
+published_at: '2026-07-07T13:22:54Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
-stars: 971
+stars: 973
 language: Python
 status: active
 archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-07-07T15:33:34.511807+05:30'
-last_seen: '2026-07-07T15:33:34.511807+05:30'
-last_checked: '2026-07-07T15:33:34.511807+05:30'
+first_seen: '2026-07-07T22:59:31.693395+05:30'
+last_seen: '2026-07-07T22:59:31.693395+05:30'
+last_checked: '2026-07-07T22:59:31.693395+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **LangChain RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with language model generation for contextual responses.
-- **Python-Based Architecture**: Utilizes Python with LangChain's modular components (e.g., `Retriever`, `LLMChain`) to process and query documents via vector embeddings (e.g., FAISS or Chroma).
-- **Modular Design**: Includes data ingestion, embedding storage, retrieval logic, and prompt engineering for scalable RAG workflows, with optional integration of APIs or local LLMs.
+- **LangChain RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with language model generation.
+- **Python-Based**: Entirely written in Python, leveraging LangChain's modular framework for LLM orchestration and vector storage (e.g., FAISS or Chroma).
+- **Modular Structure**: Includes components for document loading (e.g., `PyPDFLoader`), embedding (e.g., `HuggingFaceEmbeddings`), and retrieval-augmented QA chains.
 
 ## Why It Matters
 
@@ -39,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pixegami
-- Stars: 971
+- Stars: 973
 - Forks: 518
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-05T07:09:22Z
+- Last Updated: 2026-07-07T13:22:54Z
 - Archived: No
 - Created At: 2023-11-13T09:14:54Z
 - Pushed At: 2024-07-31T23:46:44Z

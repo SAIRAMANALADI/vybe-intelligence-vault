@@ -8,16 +8,15 @@ local_vault_path: ai/rag/pixegami-langchain-rag-tutorial.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # pixegami/langchain-rag-tutorial
@@ -26,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **LangChain RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with language model generation for contextual responses.
-- **Python-Based Architecture**: Utilizes Python with LangChain's modular components (e.g., `Retriever`, `LLMChain`) to process and query documents via vector embeddings (e.g., FAISS or Chroma).
-- **Modular Design**: Includes data ingestion, embedding storage, retrieval logic, and prompt engineeri
+- **LangChain RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with language model generation.
+- **Python-Based**: Entirely written in Python, leveraging LangChain's modular framework for LLM orchestration and vector storage (e.g., FAISS or Chroma).
+- **Modular Structure**: Includes components for document loading (e.g., `PyPDFLoader`), embedding (e.g., `HuggingFaceEmbeddings`), and retrieval-augmented QA chains.
 
 ## Use Cases
 

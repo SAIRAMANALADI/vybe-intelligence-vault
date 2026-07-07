@@ -16,8 +16,6 @@ tags:
 - producthunt
 - python
 - rag
-- scripts
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -34,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Dockerized Scaffolding**: Provides a minimal, production-ready Docker Compose setup for CrewAI projects, preconfigured with essential services and dependencies.
-- **Python-Based Framework**: Leverages CrewAI (Python) for agentic workflows, ensuring compatibility with AI-driven task automation and orchestration.
-- **Predefined Best Practices**: Includes structured configuration files (e.g., `docker-compose.yml`, `requirements.txt`) and modular templates to streamline project initialization an
+- **Dockerized Scaffolding**: Provides a minimal, production-ready Docker Compose setup for CrewAI projects, enabling quick deployment with pre-configured services.
+- **Python-Based**: Entirely written in Python, leveraging CrewAI’s framework for agent orchestration and task execution.
+- **Pre-Configured Best Practices**: Includes essential configurations (e.g., environment variables, dependency management) and adheres to CrewAI’s recommended project structure for immediate usability.
 
 ## Use Cases
 

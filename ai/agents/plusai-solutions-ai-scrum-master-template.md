@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/plusai-solutions/ai-scrum-master-template
-collected_at: '2026-07-07T00:50:20.012519+05:30'
+collected_at: '2026-07-07T23:02:46.984754+05:30'
 published_at: '2026-07-02T02:01:47Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - scripts
 - unknown
-- workflows
 stars: 23
 language: Unknown
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-03-18T13:11:16Z'
 pushed_at: '2026-03-19T12:36:58Z'
 resource_id: github:plusai-solutions/ai-scrum-master-template
-first_seen: '2026-07-07T00:50:20.012519+05:30'
-last_seen: '2026-07-07T00:50:20.012519+05:30'
-last_checked: '2026-07-07T00:50:20.012519+05:30'
+first_seen: '2026-07-07T23:02:46.984754+05:30'
+last_seen: '2026-07-07T23:02:46.984754+05:30'
+last_checked: '2026-07-07T23:02:46.984754+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous DevOps Framework**: GitHub Actions orchestrates AI agents (via Claude) to autonomously manage sprints, tasks, and deliverables directly from GitHub Issues under a Scrum workflow.
+- **Autonomous DevOps Framework**: GitHub Actions orchestrates AI agents under Scrum methodology to autonomously manage, assign, and execute tasks directly from GitHub Issues.
 
-- **AI-Agent Orchestration**: Uses a predefined set of AI agents (e.g., task breakdown, code generation, PR review) to automate development lifecycle processes without human intervention.
+- **AI-Powered Agent Orchestration**: Integrates Claude-based AI agents to handle sprint planning, task decomposition, and progress tracking without human intervention.
 
-- **Self-Contained Template**: Provides a preconfigured repository structure with CI/CD pipelines, agent manifests, and Scrum artifacts (e.g., backlogs, sprints) for immediate deployment.
+- **Self-Contained Scrum Implementation**: Converts a repository into an autonomous development team, automating backlog grooming, sprint execution, and issue resolution.
 
 ## Why It Matters
 

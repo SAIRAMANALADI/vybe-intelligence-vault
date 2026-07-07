@@ -8,14 +8,13 @@ local_vault_path: ai/rag/zilliztech-attu.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: workflow
+resource_kind: tool
 importance: medium
 tags:
 - github-repo
 - hackernews
 - rag
 - shell
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -27,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: workflow
+- Resource kind: tool
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Attu**: A web-based GUI designed for Milvus, a vector database, providing an intuitive interface for database management, collection operations, and data visualization.
-- **Technical Stack**: Primarily implemented in Shell, with dependencies on Milvus APIs and web technologies for frontend-backend communication.
-- **Features**: Supports real-time monitoring, schema management, and CRUD operations for vector collections, optimized for Milvus-specific workflows.
+- **Purpose**: Attu is a graphical user interface (GUI) designed to simplify interactions with Milvus, an open-source vector database, by providing a user-friendly alternative to command-line operations.
+- **Technical Stack**: Primarily implemented in Shell, with dependencies on Milvus and its ecosystem for vector database operations.
+- **Features**: Enables visualization and management of Milvus collections, indexes, and queries, while supporting real-time monitoring and configuration adjustmen
 
 ## Use Cases
 

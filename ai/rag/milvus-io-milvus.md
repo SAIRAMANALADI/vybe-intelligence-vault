@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/milvus-io/milvus
-collected_at: '2026-07-07T15:41:27.877552+05:30'
-published_at: '2026-07-07T09:54:08Z'
+collected_at: '2026-07-07T23:05:09.160138+05:30'
+published_at: '2026-07-07T17:16:42Z'
 tags:
 - dataset
 - github-repo
 - go
 - hackernews
 - rag
-stars: 45116
+stars: 45121
 language: Go
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2019-09-16T06:43:43Z'
-pushed_at: '2026-07-07T09:06:29Z'
+pushed_at: '2026-07-07T16:24:35Z'
 resource_id: github:milvus-io/milvus
-first_seen: '2026-07-07T15:41:27.877552+05:30'
-last_seen: '2026-07-07T15:41:27.877552+05:30'
-last_checked: '2026-07-07T15:41:27.877552+05:30'
+first_seen: '2026-07-07T23:05:09.160138+05:30'
+last_seen: '2026-07-07T23:05:09.160138+05:30'
+last_checked: '2026-07-07T23:05:09.160138+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Scalable Vector ANN Search Engine**: Milvus is a cloud-native, distributed vector database optimized for high-performance approximate nearest neighbor (ANN) search, supporting billion-scale datasets with low latency.
-- **Multi-Algorithm & Hybrid Storage Support**: Integrates multiple indexing algorithms (e.g., HNSW, DiskANN, FAISS) and supports both in-memory and disk-based storage for efficient vector similarity search.
-- **LLM & RAG Integration**: Designed for AI/ML workloads, enabling embedding storage, retrieval, and similarity search for applications like RAG (Retrieval-Augmented Generation) and image search.
+- **High-performance vector database**: Milvus is a cloud-native, distributed vector database optimized for scalable approximate nearest neighbor (ANN) search, supporting billion-scale vector datasets with low latency.
+- **Multiple indexing algorithms**: Implements advanced ANN algorithms (e.g., HNSW, DiskANN, FAISS) for efficient similarity search across diverse use cases like image retrieval, LLM embeddings, and RAG systems.
+- **Go-based architecture**: Built in Go for high concurrency and performance, with modular design for cloud-native deployment, disk-based storage, and compatibility with embedding models and vector similarity frameworks.
 
 ## Why It Matters
 
@@ -41,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: milvus-io
-- Stars: 45116
-- Forks: 4107
+- Stars: 45121
+- Forks: 4108
 - Language: Go
 - Topics: anns, cloud-native, diskann, distributed, embedding-database, embedding-similarity, embedding-store, faiss, golang, hnsw, image-search, llm, nearest-neighbor-search, rag, vector-database, vector-search, vector-similarity, vector-store
-- Last Updated: 2026-07-07T09:54:08Z
+- Last Updated: 2026-07-07T17:16:42Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2019-09-16T06:43:43Z
-- Pushed At: 2026-07-07T09:06:29Z
+- Pushed At: 2026-07-07T16:24:35Z
 
 ## Possible Use Cases
 

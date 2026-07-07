@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-*   Implements a Retrieval Augmented Generation (RAG) pattern solution accelerator on Azure.
-*   Utilizes Azure AI Search for document retrieval and Azure OpenAI for large language model (LLM) inference.
-*   Powers ChatGPT-style and Q&A conversational AI experiences, developed in Python.
+*   Implements a RAG pattern accelerator leveraging Azure AI Search for document retrieval and Azure OpenAI LLMs for conversational AI.
+*   Python-based solution providing ChatGPT-style and Q&A experiences over proprietary data.
+*   Adheres to Azure best practices, serving as a solution accelerator for scalable "chat with your data" deployments.
 
 ## Use Cases
 

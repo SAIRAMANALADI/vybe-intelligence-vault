@@ -6,15 +6,16 @@ source_url: https://github.com/VivekMalhan666/rag-beginner-guide
 resource_id: github:vivekmalhan666/rag-beginner-guide
 local_vault_path: ai/rag/vivekmalhan666-rag-beginner-guide.md
 quality_score: 70
-archive_score: 75
+archive_score: 77
 archive_tier: useful
-resource_kind: template
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
 - python
 - rag
 selection_reason:
+- Strong keyword match
 - Useful for project building
 ---
 
@@ -23,18 +24,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: template
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Step-by-step RAG implementation**: Python-based guide demonstrating end-to-end construction of a Retrieval-Augmented Generation (RAG) system from scratch, avoiding pre-built abstractions for clarity.
-
-- **Beginner-focused methodology**: Focuses on foundational concepts (e.g., document chunking, vector embeddings, retrieval mechanisms) with incremental complexity, ensuring accessibility for newcomers.
-
-- **Open-source repository**: Single-starred project (as of last update: 2026-02-13) with n
+- **Step-by-step RAG implementation**: Python-based guide for building a Retrieval-Augmented Generation (RAG) system from scratch, avoiding abstracted libraries or frameworks.
+- **Beginner-focused structure**: Focuses on fundamental concepts (e.g., document retrieval, embedding generation, LLM integration) without assuming prior RAG expertise.
+- **Minimal dependencies**: Uses core Python libraries (e.g., `sentence-transformers`, `faiss`, `transformers`) for modular, transparent implementation.
 
 ## Use Cases
 

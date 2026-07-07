@@ -8,7 +8,7 @@ local_vault_path: ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
@@ -21,7 +21,7 @@ tags:
 - web-crawled
 - workflows
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex
@@ -30,17 +30,13 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **High-accuracy parsing engine** supporting 90+ formats with layout-aware OCR, multimodal context extraction (tables, charts, images), and configurable parsing modes for cost-accuracy tradeoffs.
-
-- **Enterprise-grade scalability** processing 1B+ documents with multilingual support (100+ languages), multi-page PDF handling, and local/cloud deployment options for high concurrency.
-
-- **Granular document structuring** converting complex layouts (headers/footers, checkboxes, handwriting) into clea
+*   LlamaParse performs advanced multimodal document parsing, converting complex layouts, tables, charts,
 
 ## Use Cases
 

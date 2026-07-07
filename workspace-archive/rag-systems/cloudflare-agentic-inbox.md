@@ -15,6 +15,7 @@ tags:
 - github-repo
 - rag
 - typescript
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -33,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-*   Self-hosted email client incorporating an AI agent for autonomous inbox processing.
-*   Serverless architecture deployed exclusively on Cloudflare Workers, enabling edge-based execution.
-*   Implemented in TypeScript, leveraging Cloudflare's distributed compute platform.
+- **Architecture**: Implements a self-hosted email client using Cloudflare Workers, leveraging serverless compute for scalability and low latency.
+
+- **AI Integration**: Incorporates an AI agent (likely RAG/LLM-based) for email processing, summarization, and automated responses within the Cloudflare ecosystem.
+
+- **Tech Stack**: Built in TypeScript, utilizing Cloudflare’s edge network for real-time email handling and agentic workflows.
 
 ## Use Cases
 

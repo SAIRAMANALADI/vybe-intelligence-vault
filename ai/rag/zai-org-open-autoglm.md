@@ -4,14 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zai-org/Open-AutoGLM
-collected_at: '2026-07-07T00:50:04.987505+05:30'
-published_at: '2026-07-06T18:53:13Z'
+collected_at: '2026-07-07T23:02:36.960626+05:30'
+published_at: '2026-07-07T17:27:26Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-stars: 25709
+- scripts
+stars: 25717
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +21,9 @@ archived: false
 created_at: '2025-12-08T09:23:44Z'
 pushed_at: '2026-03-06T08:38:39Z'
 resource_id: github:zai-org/open-autoglm
-first_seen: '2026-07-07T00:50:04.987505+05:30'
-last_seen: '2026-07-07T00:50:04.987505+05:30'
-last_checked: '2026-07-07T00:50:04.987505+05:30'
+first_seen: '2026-07-07T23:02:36.960626+05:30'
+last_seen: '2026-07-07T23:02:36.960626+05:30'
+last_checked: '2026-07-07T23:02:36.960626+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Open Phone Agent Model & Framework**: Open-AutoGLM provides an open-source framework for deploying AI agents capable of autonomous phone interactions, enabling tasks like call handling, scheduling, and information retrieval without manual intervention.
+- **Open Phone Agent Model**: Provides an open-source framework (`Open-AutoGLM`) for deploying AI-driven phone agents, enabling autonomous interaction with mobile devices via natural language or structured commands.
 
-- **Python-Based Implementation**: The repository is implemented in Python, leveraging modern agentic frameworks to support modular design, extensibility, and integration with phone systems via APIs or SDKs.
+- **Technical Stack**: Implemented in Python, leveraging agent-based architectures to simulate human-like phone interactions (e.g., calls, SMS, app navigation) with modular components for extensibility.
 
-- **Modular & Scalable Architecture**: Designed for scalability, the framework supports custom agent logic, multi-modal inputs (voice/text), and integration with LLMs (e.g., GLM models) for natural language understanding and task execution.
+- **Scalability & Integration**: Supports custom model integration (e.g., GLM variants) and is designed for high-throughput, real-time phone automation with minimal latency overhead.
 
 ## Why It Matters
 
@@ -42,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: zai-org
-- Stars: 25709
+- Stars: 25717
 - Forks: 4003
 - Language: Python
 - Topics: agent, phone-use-agent
-- Last Updated: 2026-07-06T18:53:13Z
+- Last Updated: 2026-07-07T17:27:26Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-12-08T09:23:44Z

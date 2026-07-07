@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/deepset-ai/haystack
-collected_at: '2026-07-07T15:37:34.804697+05:30'
-published_at: '2026-07-07T10:06:04Z'
+collected_at: '2026-07-07T23:03:37.011246+05:30'
+published_at: '2026-07-07T16:48:07Z'
 tags:
 - agents
 - github-repo
@@ -15,17 +15,17 @@ tags:
 - openai
 - rag
 - workflows
-stars: 25840
+stars: 25842
 language: MDX
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2019-11-14T09:05:28Z'
-pushed_at: '2026-07-07T09:37:28Z'
+pushed_at: '2026-07-07T16:47:59Z'
 resource_id: github:deepset-ai/haystack
-first_seen: '2026-07-07T15:37:34.804697+05:30'
-last_seen: '2026-07-07T15:37:34.804697+05:30'
-last_checked: '2026-07-07T15:37:34.804697+05:30'
+first_seen: '2026-07-07T23:03:37.011246+05:30'
+last_seen: '2026-07-07T23:03:37.011246+05:30'
+last_checked: '2026-07-07T23:03:37.011246+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack enables building production-ready LLM applications via configurable pipelines with explicit control over retrieval, routing, memory, and generation components.
+- **Modular AI Orchestration**: Haystack enables building production-ready LLM applications via modular pipelines with explicit control over retrieval, routing, memory, and generation components.
 
-- **Multi-Use Case Support**: Supports scalable agents, RAG, multimodal apps, semantic search, and conversational systems through a unified framework.
+- **Multi-Use Case Framework**: Supports scalable agents, RAG, multimodal systems, semantic search, and conversational AI with integrations for LLMs like GPT-4 and Gemini.
 
-- **Technical Stack**: Implemented in Python with PyTorch/Transformers, optimized for integration with models like GPT-4 and Gemini, and designed for scalable deployment.
+- **Technical Stack**: Python-based, leveraging PyTorch/Transformers for NLP tasks, optimized for information retrieval, QA, summarization, and orchestration in generative AI workflows.
 
 ## Why It Matters
 
@@ -46,15 +46,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: deepset-ai
-- Stars: 25840
-- Forks: 2902
+- Stars: 25842
+- Forks: 2901
 - Language: MDX
 - Topics: agent, agents, ai, gemini, generative-ai, gpt-4, information-retrieval, large-language-models, llm, machine-learning, nlp, orchestration, python, pytorch, question-answering, rag, retrieval-augmented-generation, semantic-search, summarization, transformers
-- Last Updated: 2026-07-07T10:06:04Z
+- Last Updated: 2026-07-07T16:48:07Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2019-11-14T09:05:28Z
-- Pushed At: 2026-07-07T09:37:28Z
+- Pushed At: 2026-07-07T16:47:59Z
 
 ## Possible Use Cases
 

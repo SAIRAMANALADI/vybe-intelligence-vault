@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a Python-based command-line interface (CLI) for interacting with Milvus, a vector database.
-- **Features**: Enables users to execute Milvus operations (e.g., collection management, data insertion/querying) via terminal commands.
-- **Status**: Last updated June 2026; minimal community adoption (129 stars, 21 forks).
+- **CLI Tool for Milvus**: Python-based command-line interface (CLI) designed for interacting with and managing Milvus vector databases, providing streamlined access to core functionalities.
+- **Repository Metadata**: 129 GitHub stars, 21 forks, last updated on 2026-06-16, with no additional topics or dependencies specified.
+- **Purpose**: Facilitates administrative and operational tasks (e.g., collection management, data insertion, querying) via terminal commands, enhancing usability for Milvus
 
 ## Use Cases
 

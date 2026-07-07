@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: MLGym is a Python-based framework designed to advance AI research agents by providing a modular and scalable environment for training and evaluating reinforcement learning (RL) and multi-agent systems.
+- **Framework Purpose**: MLGym is a Python-based framework designed to standardize and advance AI research agents through modular, reproducible experimentation and benchmarking.
 
-- **Benchmarking Suite**: Includes a comprehensive benchmarking suite to standardize evaluation metrics and facilitate reproducible research in AI agent performance across diverse tasks.
+- **Key Features**: Provides a structured environment for AI agent training/evaluation with built-in support for distributed computing, hyperparameter optimization, and extensible task definitions.
 
-- **Key Features**: Supports distributed training, customizable agent architectures
+- **Benchmarking Utility**: Introduces a benchmark suite to objectively compare AI research agents across diverse tasks, e
 
 ## Use Cases
 

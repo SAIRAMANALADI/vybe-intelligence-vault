@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: A starter template for CrewAI, a Python-based framework for multi-agent AI systems, with minimal documentation.
-- **Metadata**: 7 stars, 4 forks, last updated on 2025-09-09, written in Python.
-- **Purpose**: Likely intended as a foundational project for building AI agent teams using CrewAI’s architecture.
+- **Repository**: A starter template for **CrewAI**, a Python framework for multi-agent AI systems.
+- **Metadata**: 7 stars, 4 forks, last updated **2025-09-09**; no additional topics or description provided.
+- **Language**: Primarily implemented in **Python**.
 
 ## Use Cases
 

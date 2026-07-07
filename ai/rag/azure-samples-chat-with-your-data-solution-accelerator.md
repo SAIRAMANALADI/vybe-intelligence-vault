@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-07-07T15:34:24.646585+05:30'
-published_at: '2026-07-06T22:36:40Z'
+collected_at: '2026-07-07T23:00:21.938093+05:30'
+published_at: '2026-07-07T13:09:46Z'
 tags:
 - github-repo
 - openai
@@ -17,11 +17,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-07-06T16:45:56Z'
+pushed_at: '2026-07-07T13:08:34Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-07-07T15:34:24.646585+05:30'
-last_seen: '2026-07-07T15:34:24.646585+05:30'
-last_checked: '2026-07-07T15:34:24.646585+05:30'
+first_seen: '2026-07-07T23:00:21.938093+05:30'
+last_seen: '2026-07-07T23:00:21.938093+05:30'
+last_checked: '2026-07-07T23:00:21.938093+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Implements a Retrieval Augmented Generation (RAG) pattern solution accelerator on Azure.
-*   Utilizes Azure AI Search for document retrieval and Azure OpenAI for large language model (LLM) inference.
-*   Powers ChatGPT-style and Q&A conversational AI experiences, developed in Python.
+*   Implements a RAG pattern accelerator leveraging Azure AI Search for document retrieval and Azure OpenAI LLMs for conversational AI.
+*   Python-based solution providing ChatGPT-style and Q&A experiences over proprietary data.
+*   Adheres to Azure best practices, serving as a solution accelerator for scalable "chat with your data" deployments.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 643
 - Language: Python
 - Topics: ai-search, azd-templates, azure, azure-openai, openai
-- Last Updated: 2026-07-06T22:36:40Z
+- Last Updated: 2026-07-07T13:09:46Z
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-07-06T16:45:56Z
+- Pushed At: 2026-07-07T13:08:34Z
 
 ## Possible Use Cases
 

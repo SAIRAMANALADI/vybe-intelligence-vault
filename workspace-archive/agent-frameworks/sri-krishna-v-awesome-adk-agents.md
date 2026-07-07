@@ -6,7 +6,7 @@ source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
 resource_id: github:sri-krishna-v/awesome-adk-agents
 local_vault_path: ai/agents/sri-krishna-v-awesome-adk-agents.md
 quality_score: 70
-archive_score: 89
+archive_score: 87
 archive_tier: essential
 resource_kind: template
 importance: high
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 89 (essential)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google’s Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
-
-- **Multi-Faceted ADK Support**: Focuses on `ADK-Python`, `ADK-Web`, and `Gemini-AI` integrations, with emphasis on multi-agent systems, agentic AI, and Google ADK-based workflows.
-
-- **Technical Metadata**: Python-based repositor
+- **Curated ADK Resources**: Collection of AI agents built with Google's Agent Development Kit (ADK), featuring templates, best practices, and production-ready examples across research, business, automation, and education domains.
+- **Technical Scope**: Focuses on ADK-Python and ADK-Web implementations, including multi-agent systems, agentic AI, and integration with Gemini AI for scalable agentic workflows.
+- **Repository Metrics**: 331 stars, 47 forks, last updated July 6, 2026, with active dev
 
 ## Use Cases
 

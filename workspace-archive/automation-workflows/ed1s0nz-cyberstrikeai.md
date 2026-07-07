@@ -14,7 +14,6 @@ tags:
 - agents
 - github-repo
 - go
-- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic Execution Layer**: Implements AI-driven cybersecurity agents that convert security intent into governed, auditable actions using MCP-native tools, contextual knowledge, and approval workflows.
+- **Agentic Execution Layer**: Implements AI-driven cybersecurity agents that convert security intent into governed, auditable actions using MCP-native tools, knowledge bases, and approval workflows.
 
-- **Attack-Chain Context Integration**: Enables precise, attack-chain-aware execution of penetration testing and CTF tools, enhancing real-time threat simulation and response.
+- **Attack-Chain Context Integration**: Provides real-time attack-chain awareness to enable precise, context-aware security operations (e.g., penetration testing, CTF challenges) with automated decision-making.
 
-- **Go-Based Architecture**: Built in Go for high-performance, scalable automation of AI agents, security tool orches
+- **Go-Based Architecture**: Built in Go for high-performance execution, modular toolin
 
 ## Use Cases
 

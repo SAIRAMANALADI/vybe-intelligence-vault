@@ -4,18 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-07-07T15:33:59.555017+05:30'
+collected_at: '2026-07-07T22:59:56.809518+05:30'
 published_at: '2026-07-06T21:12:36Z'
 tags:
 - benchmark
-- dataset
 - github-repo
-- hackernews
-- meta-ai
-- models
 - python
 - rag
 - scripts
+- workflows
 stars: 4861
 language: Python
 status: active
@@ -24,9 +21,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-07-02T03:46:39Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-07-07T15:33:59.555017+05:30'
-last_seen: '2026-07-07T15:33:59.555017+05:30'
-last_checked: '2026-07-07T15:33:59.555017+05:30'
+first_seen: '2026-07-07T22:59:56.809518+05:30'
+last_seen: '2026-07-07T22:59:56.809518+05:30'
+last_checked: '2026-07-07T22:59:56.809518+05:30'
 health_score: 100
 ---
 
@@ -34,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style Automation**: AutoRAG provides automated optimization of Retrieval-Augmented Generation (RAG) pipelines, including hyperparameter tuning, component selection, and pipeline configuration, using machine learning techniques to enhance performance without manual intervention.
+- **AutoML-Style Automation**: AutoRAG provides an automated pipeline for optimizing and evaluating Retrieval-Augmented Generation (RAG) systems, reducing manual tuning through hyperparameter optimization and automated benchmarking.
 
-- **Comprehensive Evaluation & Benchmarking**: The framework includes built-in tools for evaluating RAG systems across multiple dimensions (e.g., retrieval quality, generation metrics) and supports benchmarking against standardized datasets to measure improvements.
+- **Comprehensive RAG Toolkit**: Supports end-to-end RAG workflows, including document parsing, embedding generation, retrieval evaluation, and LLM-based QA, with built-in metrics for performance analysis.
 
-- **Modular Pipeline & Document Processing**: AutoRAG offers a flexible, modular pipeline for document parsing, embedding generation, retrieval, and generation, with support for custom components and integration with popular libraries (e.g., LangChain, LlamaIndex).
+- **Open-Source & Extensible**: Python-based framework with modular components for customization, supporting integration with various LLMs, embeddings, and retrieval methods for research and production use.
 
 ## Why It Matters
 

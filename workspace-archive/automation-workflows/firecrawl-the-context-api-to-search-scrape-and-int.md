@@ -3,14 +3,14 @@ title: Firecrawl - The context API to search, scrape, and interact with the web 
   scale. 🔥
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://firecrawl.dev/
+source_url: https://firecrawl.dev
 resource_id: blog:firecrawl-the-context-api-to-search-scrape-and-int
 local_vault_path: ai/rag/firecrawl-the-context-api-to-search-scrape-and-int.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
-importance: high
+resource_kind: framework
+importance: medium
 tags:
 - agents
 - anthropic
@@ -24,7 +24,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Firecrawl - The context API to search, scrape, and interact with the web at scale. 🔥
@@ -32,19 +32,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Multi-format Web Extraction**: Supports structured outputs (Markdown, JSON) and screenshots, with 93% fewer input tokens by excluding non-essential content (navs, footers, ads).
+- **Real-time Web Monitoring**: Firecrawl's `/monitor` feature provides always-on search that instantly notifies agents when target URLs come online, enabling immediate data ingestion and interaction.
 
-- **Real-time Web Interaction**: Enables AI agents to perform dynamic actions (click, scroll, type) and interact with JavaScript-heavy pages via a unified API.
+- **Multi-Format Extraction**: Supports structured outputs (JSON, Markdown) with screenshots, media parsing (PDF/DOCX), and token-efficient content extraction (93% fewer tokens vs raw HTML) for LLM compatibility.
 
-- **Open-Source Infrastructure**: Provides a high-performance, 96% coverage web scraping/crawling toolkit with P95 latency of 3.4s, optimized for AI agent i
+- **Agent Integration Toolkit**: Open-source SDK (Python/Node.js) with MCP/CLI suppo
 
 ## Use Cases
 
@@ -54,7 +54,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://firecrawl.dev/
+Original source URL: https://firecrawl.dev
 
 ## Local Vault File
 

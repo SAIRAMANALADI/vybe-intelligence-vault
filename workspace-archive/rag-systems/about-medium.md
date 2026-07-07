@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Platform Model**: Medium operates as an ad-free, subscription-supported (via Medium Membership) platform prioritizing depth, nuance, and thoughtful discourse over sensationalism, with over 100M monthly active users across diverse professional and creative domains.
-
-- **Core Mission**: Aims to "deepen collective understanding" by enabling unfiltered storytelling and knowledge-sharing without requiring pre-existing audiences, emphasizing substance over engagement bait.
-
-- **Monetization & Gove
+- **Platform Model**: Medium operates as a subscription-supported, ad-free content platform where writers share insights across diverse domains (e.g., tech, literature, business) without requiring pre-existing audiences.
+- **Mission Alignment**: Prioritizes depth, nuance, and thoughtful discourse over sensationalism, monetizing via a community of paying members (~1M) rather than ads or data sales.
+- **Scale & Accessibility**: Hosts 100M+ monthly users, enabling cross-disciplinary storytelling an
 
 ## Use Cases
 

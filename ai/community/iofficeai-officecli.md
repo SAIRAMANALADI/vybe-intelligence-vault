@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:iofficeai/officecli
 first_seen: '2026-07-07T00:46:15.571233+05:30'
 last_seen: '2026-07-07T15:32:27.590685+05:30'
 last_checked: '2026-07-07T15:32:27.590685+05:30'
 health_score: 100
 ---
+
 
 # OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files
 

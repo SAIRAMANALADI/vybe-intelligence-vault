@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-07-07T15:33:44.601968+05:30'
+collected_at: '2026-07-07T22:59:41.874648+05:30'
 published_at: '2026-07-06T11:16:05Z'
 tags:
 - agents
 - github-repo
-- openai
+- hackernews
+- paper
 - python
 - rag
 - workflows
@@ -21,9 +22,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-07-07T15:33:44.601968+05:30'
-last_seen: '2026-07-07T15:33:44.601968+05:30'
-last_checked: '2026-07-07T15:33:44.601968+05:30'
+first_seen: '2026-07-07T22:59:41.874648+05:30'
+last_seen: '2026-07-07T22:59:41.874648+05:30'
+last_checked: '2026-07-07T22:59:41.874648+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating structured experimentation with LLMs and document retrieval pipelines.
-- **Key Components**: Includes modular Python-based workflows for document ingestion, vector storage (e.g., FAISS/Chroma), and agentic query resolution with tools like LangChain’s `ResearchAgent` and `ToolNode`.
-- **Dependencies**: Leverages LangChain core libraries (e.g., `langchain-core`, `langchain-community`) and integrates with vector databases and LLM providers (e.g., OpenAI, Hugging Face) for end-to-end RAG pipelines.
+- **Template Structure**: Provides a GitHub repository template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, optimized for Python-based AI workflows.
+
+- **Key Components**: Likely includes modular components for document retrieval, vector storage (e.g., FAISS, Chroma), and LLM integration (e.g., LangChain’s `RetrievalQA` or custom agents).
+
+- **Deployment-Ready**: Designed for rapid prototyping with pre-configured pipelines, supporting customization for research-focused AI applications (e.g., academic paper analysis, technical documentation Q&A).
 
 ## Why It Matters
 

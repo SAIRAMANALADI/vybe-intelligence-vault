@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Educational Repository**: Provides open-source tutorials on LangChain and LangGraph, structured in Jupyter Notebooks for hands-on learning.
-- **Agent-Centric Focus**: Covers agent-based workflows, integrating LangChain's framework with LangGraph for stateful, multi-actor systems.
-- **Active Maintenance**: Last updated July 2026, indicating ongoing development and community engagement (1,088 stars, 341 forks).
+- **Purpose**: Educational repository providing open tutorials on LangChain and LangGraph frameworks via Jupyter Notebooks.
+- **Scope**: Covers agent-based workflows, LangChain integration, and LangGraph implementations for practical AI applications.
+- **Status**: Last updated July 7, 2026, with 1,088 stars and 341 forks, indicating active community engagement.
 
 ## Use Cases
 

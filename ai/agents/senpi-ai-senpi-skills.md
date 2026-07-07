@@ -4,23 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Senpi-ai/senpi-skills
-collected_at: '2026-07-07T15:36:49.739630+05:30'
-published_at: '2026-07-07T01:04:21Z'
+collected_at: '2026-07-07T23:02:46.907074+05:30'
+published_at: '2026-07-07T16:13:56Z'
 tags:
 - agents
 - github-repo
 - python
-stars: 100
+stars: 101
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2026-02-23T19:28:09Z'
-pushed_at: '2026-07-07T01:11:38Z'
+pushed_at: '2026-07-07T16:13:26Z'
 resource_id: github:senpi-ai/senpi-skills
-first_seen: '2026-07-07T15:36:49.739630+05:30'
-last_seen: '2026-07-07T15:36:49.739630+05:30'
-last_checked: '2026-07-07T15:36:49.739630+05:30'
+first_seen: '2026-07-07T23:02:46.907074+05:30'
+last_seen: '2026-07-07T23:02:46.907074+05:30'
+last_checked: '2026-07-07T23:02:46.907074+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source framework providing AI agent skills and 80+ strategy templates for autonomous trading on Hyperliquid, supporting crypto, equities, commodities, and indices.
-- **Features**: Implements two-phase trailing-stop (DSL) exits for strategy deployment and protection, with Python-based implementation.
-- **Metadata**: 100 stars, 31 forks, last updated 2026-07-07.
+- **Open-source AI agent framework** for autonomous trading on Hyperliquid, supporting crypto, equities, commodities, and indices with 80+ strategy templates.
+- **Two-phase trailing-stop (DSL) exits** for dynamic position management and risk mitigation.
+- **Python-based** repository with active development (last updated July 2026) and 101 stars, 31 forks.
 
 ## Why It Matters
 
@@ -39,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Senpi-ai
-- Stars: 100
+- Stars: 101
 - Forks: 31
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-07T01:04:21Z
+- Last Updated: 2026-07-07T16:13:56Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-23T19:28:09Z
-- Pushed At: 2026-07-07T01:11:38Z
+- Pushed At: 2026-07-07T16:13:26Z
 
 ## Possible Use Cases
 

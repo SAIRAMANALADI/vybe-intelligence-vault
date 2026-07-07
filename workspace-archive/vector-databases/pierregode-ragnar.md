@@ -12,6 +12,7 @@ resource_kind: product
 importance: medium
 tags:
 - github-repo
+- hackernews
 - paper
 - python
 - rag
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Ragnar is an offensive security tool designed for Raspberry Pi with a 2.13-inch e-Paper HAT, enabling network scanning, target discovery, port enumeration, service identification, and vulnerability assessment.
-- **Features**: Automates reconnaissance by detecting open ports, exposed services, and potential vulnerabilities across network targets.
-- **Implementation**: Developed in Python, last updated on July 7, 2026, with 664 stars and 59 forks on GitHub.
+- **Purpose & Functionality**: Ragnar is an offensive security tool designed for Raspberry Pi with a 2.13-inch e-Paper HAT, enabling network scanning, target discovery, open port identification, exposed service detection, and vulnerability assessment.
+- **Technical Stack**: Implemented in Python, leveraging modular design for extensibility in network reconnaissance and security auditing.
+- **Metadata**: 669 stars, 60 forks, last updated on 2026-07-07.
 
 ## Use Cases
 

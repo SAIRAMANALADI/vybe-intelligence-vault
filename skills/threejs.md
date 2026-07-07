@@ -21,11 +21,11 @@ It enables immersive, interactive 3D visualizations, interactive landing pages, 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 171 resources matched in the intelligence vault.
 Recently detected signals:
-- [Jupyter Widgets · GitHub](../ai/resources/jupyter-widgets-github.md) (Source: Unknown Source) - Collected 2026-07-07
-- [llama-index · PyPI](../ai/rag/llama-index-pypi.md) (Source: Unknown Source) - Collected 2026-07-07
 - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) (Source: Unknown Source) - Collected 2026-07-07
 - [GAP-GDRNet: Geometry-Aware Monocular Visual Pose Sensing on a Single-Target Synthetic Spacecraft Dataset](../ai/research/arxiv-2607-02360.md) (Source: Unknown Source) - Collected 2026-07-07
 - [SutureFormer: Learning Surgical Trajectories via Goal-conditioned Offline RL in Pixel Space](../ai/rag/arxiv-2603-26720.md) (Source: Unknown Source) - Collected 2026-07-07
+- [Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](../ai/models/transformers-js-v3-webgpu-support-new-models-tasks.md) (Source: Unknown Source) - Collected 2026-07-07
+- [Jupyter Widgets · GitHub](../ai/resources/jupyter-widgets-github.md) (Source: Unknown Source) - Collected 2026-07-07
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -301,4 +301,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-07T15:48:19.771759+05:30.936820+05:30.947602+05:30.821685+05:30.801186+05:30.765440+05:30.484934+05:30.618762+05:30.287167+05:30.414877+05:30.777948+05:30.122469+05:30.119037+05:30.468914+05:30.415146+05:30.934005+05:30.861220+05:30.001644+05:30.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-07T23:14:18.365787+05:30.771759+05:30.936820+05:30.947602+05:30.821685+05:30.801186+05:30.765440+05:30.484934+05:30.618762+05:30.287167+05:30.414877+05:30.777948+05:30.122469+05:30.119037+05:30.468914+05:30.415146+05:30.934005+05:30.861220+05:30.001644+05:30.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.

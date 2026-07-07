@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (entity, subgraph, global) and semantic aggregation for improved context relevance.
-- **Efficiency Optimizations**: Uses lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval accuracy.
-- **Python Implementation**: Provides modular, extensible codebase with PyTorch/TensorFlow compatibility for integration into ex
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (local-to-global) and semantic aggregation for improved context relevance in generation tasks.
+
+- **Efficiency Optimizations**: Utilizes lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval accuracy.
+
+- **AAAI 2026 Framework**: Designed for structured knowledge integration, enabling dynamic context fusion for d
 
 ## Use Cases
 

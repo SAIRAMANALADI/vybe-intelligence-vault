@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - workflows
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Demonstrates building fullstack AI agents using **Gemini 2.5** and **LangGraph** for agentic workflows.
-- **Technical Stack**: Implemented in **Jupyter Notebooks**, leveraging the **Gemini API** for LLM interactions and **LangGraph** for stateful agent orchestration.
-- **Key Features**: Provides a starter template for integrating **Gemini 2.5** with **LangGraph** to create scalable, multi-agent systems with persistent state and tool-calling capabilities.
+- **Purpose**: Demonstrates building fullstack agents using **Gemini 2.5** and **LangGraph**, integrating frontend/backend workflows.
+- **Tech Stack**: Primarily implemented in **Jupyter Notebook**, leveraging the **Gemini API** for agent orchestration.
+- **Key Features**: Provides a quickstart template for deploying **multi-agent systems** with LangGraph, optimized for Gemini’s capabilities.
 
 ## Use Cases
 

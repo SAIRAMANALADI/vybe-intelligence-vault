@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Evolution & Generations**: RAG evolved from *Naive RAG* (basic vector search + LLM generation) to *Advanced RAG* (hybrid retrieval, reranking, query transformation) and *Graph RAG* (entity-relation graph traversal for multi-hop reasoning), addressing limitations in freshness, private knowledge, and hallucinations.
+- **RAG Evolution**: Naive RAG (basic retrieval + generation) evolved into Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph-based multi-hop reasoning), addressing limitations in accuracy, freshness, and complex reasoning.
 
-- **Core RAG Pipeline**: Standard RAG follows a 5-step process: chunking → embedding → similarity search (top-k retrieval) → augmentation (injecting retrieved docs into LLM co
+- **Core RAG Components**: Retrieval (vector/keyword search), Augmentation (context injection), and Generation (LLM reasoning) form the foundational pipeline, with modular/agentic variants enabling dynamic routing, tool inte
 
 ## Use Cases
 

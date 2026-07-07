@@ -11,12 +11,9 @@ archive_tier: useful
 resource_kind: dataset
 importance: medium
 tags:
-- benchmark
 - dataset
 - frontend_ui
 - github-repo
-- meta-ai
-- models
 - openai
 - python
 - rag
@@ -39,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any LLM (e.g., ChatGPT, Llama), enabling flexible model switching and benchmarking via a unified API.
+- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any LLM via modular APIs, enabling flexible model switching and hybrid inference workflows.
 
-- **Enterprise-Grade RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based similarity search for contextual, low-latency information retrieval across large datasets.
+- **Enterprise-Grade RAG & Vector Search**: Implements retrieval-augmented generation (RAG) with optimized vector search (e.g., FAISS, Pinecone) for low-latency, high-precision information retrieval across large-scale datasets.
 
-- **Self-Hosted Next.js Frontend + Python Backend**: Modular architecture with a Next.js-based UI for real-
+- **Full-Stack Architecture**: Combines Next.js frontend with Python backend, offering sel
 
 ## Use Cases
 

@@ -13,9 +13,9 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - unknown
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource Hub**: A GitHub repository compiling cutting-edge research on agentic deep research, focusing on autonomous agents leveraging large language models (LLMs) for complex reasoning and information retrieval tasks.
-
-- **Key Topics Covered**: Includes agentic RAG (Retrieval-Augmented Generation), reasoning agents, search agents, and deep research methodologies, emphasizing scalability and adaptability in AI-driven research workflows.
-
-- **ACL 2026 KnowFM Integration**: Aligns with
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research systems, including agentic RAG, reasoning agents, and LLM-based search frameworks, with a focus on ACL 2026 contributions.
+- **Technical Breadth**: Covers 10+ subdomains (e.g., deep-research agents, multi-agent reasoning, retrieval-augmented reasoning) and tools for autonomous knowledge synthesis.
+- **Active Development**: Last updated July 2026, with 790 stars/64 forks, indicating rapid community adoption and
 
 ## Use Cases
 

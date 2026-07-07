@@ -28,9 +28,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection Scope**: Collects user-provided data (e.g., name, email, posts, bio) and automatically gathered data (e.g., IP address, device identifiers, reading history, cookies/web beacons tracking).
-- **Third-Party Sharing**: Shares personal data with vendors, service providers, and affiliates for analytics, fraud prevention, and infrastructure; may disclose data for legal compliance or mergers.
-- **Cross-Border Transfers**: Transfers user data globally (e.g., to AWS data centers) with
+- **Data Collection & Sources**: Medium collects personal data directly (e.g., account creation, content submission) and automatically (e.g., IP addresses, device identifiers, cookies, reading history). Third-party sources (e.g., social networks, analytics providers) also contribute data, including derived inferences (e.g., location, reading preferences).
+
+- **Data Sharing & Third Parties**: Personal information is shared with vendors (e.g., hosting, analytics, fraud prevention), other users (e.
 
 ## Use Cases
 

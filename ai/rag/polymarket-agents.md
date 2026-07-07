@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Polymarket/agents
-collected_at: '2026-07-07T15:36:54.819146+05:30'
-published_at: '2026-07-06T23:15:33Z'
+collected_at: '2026-07-07T23:02:56.971216+05:30'
+published_at: '2026-07-07T16:26:34Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 3720
+stars: 3721
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: true
 created_at: '2024-07-03T22:44:18Z'
 pushed_at: '2024-11-05T15:40:29Z'
 resource_id: github:polymarket/agents
-first_seen: '2026-07-07T15:36:54.819146+05:30'
-last_seen: '2026-07-07T15:36:54.819146+05:30'
-last_checked: '2026-07-07T15:36:54.819146+05:30'
+first_seen: '2026-07-07T23:02:56.971216+05:30'
+last_seen: '2026-07-07T23:02:56.971216+05:30'
+last_checked: '2026-07-07T23:02:56.971216+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Trading Framework**: Python-based repository enabling AI agents to execute trades on Polymarket autonomously, leveraging market-making and predictive modeling strategies.
-
-- **Modular Architecture**: Designed with extensible components for strategy customization, risk management, and real-time data processing via Polymarket’s API.
-
-- **Open-Source Toolkit**: Provides foundational libraries for agent-based trading, including order execution, liquidity provision, and event-driven decision-making.
+- **Autonomous Trading Framework**: Python-based repository enabling AI agents to execute trades autonomously on Polymarket, leveraging market-making and prediction strategies.
+- **Modular Architecture**: Supports extensible agent designs with configurable components for order execution, risk management, and strategy adaptation.
+- **Real-Time Market Interaction**: Integrates with Polymarket’s API for live order placement, liquidity provision, and dynamic response to market conditions.
 
 ## Why It Matters
 
@@ -42,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Polymarket
-- Stars: 3720
-- Forks: 825
+- Stars: 3721
+- Forks: 826
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-06T23:15:33Z
+- Last Updated: 2026-07-07T16:26:34Z
 - License: MIT
 - Archived: Yes
 - Created At: 2024-07-03T22:44:18Z

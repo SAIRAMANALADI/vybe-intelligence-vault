@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-07T15:35:04.604249+05:30'
+collected_at: '2026-07-07T23:01:01.888690+05:30'
 published_at: '2026-07-05T11:30:42Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-07T15:35:04.604249+05:30'
-last_seen: '2026-07-07T15:35:04.604249+05:30'
-last_checked: '2026-07-07T15:35:04.604249+05:30'
+first_seen: '2026-07-07T23:01:01.888690+05:30'
+last_seen: '2026-07-07T23:01:01.888690+05:30'
+last_checked: '2026-07-07T23:01:01.888690+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces a memory-organized RAG (Retrieval-Augmented Generation) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory hierarchies.
+- **Cognitive-Inspired Architecture**: Introduces a memory-organized RAG (Retrieval-Augmented Generation) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory hierarchies for improved contextual retention.
 
-- **Stateful Long-Context Processing**: Implements dynamic memory updates and retrieval mechanisms to maintain coherent reasoning over extended narratives, leveraging episodic and semantic memory modules for contextual continuity.
+- **Stateful Long Narrative Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain coherence across extended dialogues or documents, addressing limitations in traditional RAG systems for sequential or multi-turn reasoning tasks.
 
-- **AAAI 2026 Poster Submission**: Presented as a cutting-edge approach in RAG systems, emphasizing scalability and efficiency in handling complex, multi-turn reasoning tasks with minimal computational overhead.
+- **AAAI 2026 Poster Submission**: Presented as a novel approach to long-form reasoning in RAG, with empirical validation demonstrating superior performance in narrative consistency and contextual accuracy compared to baseline methods.
 
 ## Why It Matters
 

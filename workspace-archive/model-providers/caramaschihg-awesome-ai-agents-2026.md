@@ -35,8 +35,8 @@ selection_reason:
 ## Summary
 
 - **Comprehensive AI Agent Resource Hub**: Curated list of 300+ AI agents, frameworks, and tools across 20+ categories, updated monthly for 2026.
-- **High-Engagement Open-Source Project**: 1,404 stars and 457 forks, indicating strong community adoption and interest.
-- **Technical Breadth**: Covers LLMs, LangChain, ChatGPT, machine learning, and AI agent ecosystems, with last update on 2026-07-07.
+- **Multi-Faceted Technical Scope**: Covers ChatGPT, LangChain, LLMs, and machine learning tools, reflecting cutting-edge AI agent ecosystems.
+- **Active Maintenance & Community Engagement**: Repository last updated July 7, 2026, with 1,406 stars and 462 forks, indicating strong community adoption and iterative refinement.
 
 ## Use Cases
 

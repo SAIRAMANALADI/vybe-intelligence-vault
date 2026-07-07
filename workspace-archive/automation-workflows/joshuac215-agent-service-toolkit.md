@@ -6,10 +6,10 @@ source_url: https://github.com/JoshuaC215/agent-service-toolkit
 resource_id: github:joshuac215/agent-service-toolkit
 local_vault_path: ai/agents/joshuac215-agent-service-toolkit.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
-resource_kind: framework
-importance: high
+archive_score: 77
+archive_tier: useful
+resource_kind: workflow
+importance: medium
 tags:
 - agents
 - github-repo
@@ -17,7 +17,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # JoshuaC215/agent-service-toolkit
@@ -25,17 +25,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **LangGraph-based Agent Framework**: Implements a modular AI agent service architecture using LangGraph for stateful, multi-actor workflows with graph-based execution.
-- **FastAPI + Streamlit Integration**: Combines FastAPI for RESTful backend services and Streamlit for interactive frontend components, enabling real-time agent interaction and monitoring.
-- **Production-Ready Toolkit**: Provides pre-configured deployment pipelines, logging, and error handling for scalable AI agent services with
+- **Architecture**: Full-stack AI agent service built with **LangGraph** for agent orchestration, **FastAPI** for backend REST endpoints, and **Streamlit** for frontend UI.
+
+- **Toolkit Components**: Includes pre-configured agent workflows, API endpoints for agent management, and a Streamlit-based dashboard for real-time agent interaction and monitoring.
+
+- **Deployment**: Supports scalable agent services with modular tooling for custom agent logic, state management via LangGraph, and RESTful AP
 
 ## Use Cases
 

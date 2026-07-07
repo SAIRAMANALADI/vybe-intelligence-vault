@@ -4,17 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama_deploy
-collected_at: '2026-07-07T15:39:28.850951+05:30'
+collected_at: '2026-07-07T23:08:33.441838+05:30'
 published_at: '2026-06-09T17:23:27Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
 - rag
-- scripts
 - workflows
 stars: 2068
 language: Python
@@ -24,9 +22,9 @@ archived: false
 created_at: '2024-05-29T16:52:16Z'
 pushed_at: '2026-04-06T20:36:41Z'
 resource_id: github:run-llama/llama_deploy
-first_seen: '2026-07-07T15:39:28.850951+05:30'
-last_seen: '2026-07-07T15:39:28.850951+05:30'
-last_checked: '2026-07-07T15:39:28.850951+05:30'
+first_seen: '2026-07-07T23:08:33.441838+05:30'
+last_seen: '2026-07-07T23:08:33.441838+05:30'
+last_checked: '2026-07-07T23:08:33.441838+05:30'
 health_score: 100
 ---
 
@@ -34,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: Enables deployment of agentic workflows to production, supporting multi-agent systems with LLM integration via LlamaIndex.
-- **Technical Stack**: Python-based framework optimized for scalable agent orchestration and workflow automation.
-- **Key Features**: Supports deployment, multi-agent collaboration, and LLM-driven workflows with recent updates (as of 2026-06-09).
+- **Multi-agent orchestration framework** enabling deployment of agentic workflows with LLM integration via LlamaIndex, supporting modular agent composition and task delegation.
+
+- **Production-ready deployment** with built-in scaling, state management, and async task execution for distributed agent systems.
+
+- **Python-based SDK** with CLI tools for defining, deploying, and monitoring agent workflows, optimized for LLM-driven decision-making.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.cloud.llamaindex.ai/llamacloud/getting_started
-published_at: '2026-07-07T01:00:12.077609+05:30'
-collected_at: '2026-07-07T01:00:12.077625+05:30'
+published_at: '2026-07-07T23:08:33.630287+05:30'
+collected_at: '2026-07-07T23:08:33.630301+05:30'
 tags:
 - agents
 - meta-ai
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:getting-started-developer-documentation
-first_seen: '2026-07-07T01:00:12.077625+05:30'
-last_seen: '2026-07-07T01:00:12.077625+05:30'
-last_checked: '2026-07-07T01:00:12.077625+05:30'
+first_seen: '2026-07-07T23:08:33.630301+05:30'
+last_seen: '2026-07-07T23:08:33.630301+05:30'
+last_checked: '2026-07-07T23:08:33.630301+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Custom Agent Integration**: LlamaSheets enables programmatic interaction with spreadsheet data via custom agents, allowing for automated extraction, transformation, and analysis using domain-specific logic.
+- **LlamaSheets Integration**: Enables extraction and preprocessing of spreadsheet data via custom agents, facilitating structured input for downstream analysis workflows.
 
-- **Workflow Automation**: Supports chained workflows where extracted data triggers sequential processing steps (e.g., validation, aggregation, or visualization) through configurable pipelines.
+- **Custom Agent Design**: Agents are configured to parse, validate, and transform spreadsheet data into a standardized format (e.g., JSON/CSV) for agentic workflows.
 
-- **API-Driven Execution**: Facilitates RESTful or SDK-based invocation of agents/workflows, enabling integration with external systems (e.g., databases, BI tools) for end-to-end data orchestration.
+- **Workflow Automation**: Orchestrates multi-step processes (e.g., ETL, validation, reporting) using agent interactions, with triggers based on spreadsheet updates or predefined conditions.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-07T01:00:12.077609+05:30
+- Published: 2026-07-07T23:08:33.630287+05:30
 
 ## Related Tags
 
