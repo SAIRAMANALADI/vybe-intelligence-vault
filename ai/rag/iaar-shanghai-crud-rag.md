@@ -4,24 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-07T04:11:21.923694+05:30'
-published_at: '2026-07-06T09:20:54Z'
+collected_at: '2026-07-07T09:51:18.158115+05:30'
+published_at: '2026-07-07T03:54:41Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
-stars: 396
+stars: 397
 language: Python
 status: active
 archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-07T04:11:21.923694+05:30'
-last_seen: '2026-07-07T04:11:21.923694+05:30'
-last_checked: '2026-07-07T04:11:21.923694+05:30'
+first_seen: '2026-07-07T09:51:18.158115+05:30'
+last_seen: '2026-07-07T09:51:18.158115+05:30'
+last_checked: '2026-07-07T09:51:18.158115+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Introduces CRUD-RAG, a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), focusing on comprehensive performance metrics across retrieval and generation tasks.
+- **Benchmark Design**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on four core operations: **C**reate, **R**etrieve, **U**pdate, and **D**elete, to assess end-to-end RAG performance.
 
-- **Evaluation Framework**: Implements structured evaluation protocols for CRUD (Create, Read, Update, Delete) operations in RAG pipelines, enabling systematic assessment of LLMs' ability to integrate retrieved knowledge with generation tasks.
+- **Evaluation Framework**: The benchmark includes **10,000+ manually annotated queries** across diverse domains, with metrics for retrieval accuracy, generation quality, and robustness to noise/distractions.
 
-- **Open-Source Toolkit**: Provides a Python-based repository with benchmark datasets, evaluation scripts, and baseline models to facilitate reproducible research and standardized comparison of RAG systems in Chinese language contexts.
+- **Open-Source Toolkit**: Provides a **Python-based framework** with pre-built pipelines for RAG evaluation, supporting modular integration with LLMs and vector databases for extensibility.
 
 ## Why It Matters
 
@@ -42,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: IAAR-Shanghai
-- Stars: 396
+- Stars: 397
 - Forks: 31
 - Language: Python
 - Topics: benchmark, large-language-models, retrieval-augmented-generation
-- Last Updated: 2026-07-06T09:20:54Z
+- Last Updated: 2026-07-07T03:54:41Z
 - Archived: No
 - Created At: 2024-01-26T08:37:25Z
 - Pushed At: 2025-05-20T08:38:28Z

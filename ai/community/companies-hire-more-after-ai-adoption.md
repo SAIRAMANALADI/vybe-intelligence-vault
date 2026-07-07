@@ -13,13 +13,14 @@ collected_at: '2026-07-07T04:09:27.475671+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:companies-hire-more-after-ai-adoption
 first_seen: '2026-07-07T04:09:27.475671+05:30'
 last_seen: '2026-07-07T04:09:27.475671+05:30'
 last_checked: '2026-07-07T04:09:27.475671+05:30'
 health_score: 100
 ---
+
 
 # Companies hire more after AI adoption
 

@@ -10,7 +10,7 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-05-18 | [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) | `ai-coding-agents/` |
 | 2026-05-15 | [wxmb01/codex-app-autonomous-runs](https://github.com/wxmb01/codex-app-autonomous-runs) | `ai-coding-agents/` |
 | 2026-05-09 | [akihirookuda95/openai-agents-sdk-tutorial](https://github.com/akihirookuda95/openai-agents-sdk-tutorial) | `ai-coding-agents/` |
-| 2026-05-04 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `mcp-registry/` |
+| 2026-05-04 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `ai-coding-agents/` |
 | 2026-05-01 | [NotPBShaw/awesome-ai-governance](https://github.com/NotPBShaw/awesome-ai-governance) | `ai-coding-agents/` |
 | 2026-04-29 | [sirius-zuo/devops-skills](https://github.com/sirius-zuo/devops-skills) | `ai-coding-agents/` |
 | 2026-04-26 | [DenCabinetmaker/Rust-Rage](https://github.com/DenCabinetmaker/Rust-Rage) | `rag-systems/` |
@@ -23,6 +23,7 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-04-13 | [grafana/o11y-bench](https://github.com/grafana/o11y-bench) | `ai-coding-agents/` |
 | 2026-04-11 | [Ais1on/CTI-RAG](https://github.com/Ais1on/CTI-RAG) | `rag-systems/` |
 | 2026-04-10 | [run-llama/ParseBench](https://github.com/run-llama/ParseBench) | `rag-systems/` |
+| 2026-04-10 | [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) | `rag-systems/` |
 | 2026-04-06 | [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape) | `ai-coding-agents/` |
 | 2026-04-04 | [ChrisChen667788/Your-First-LLM-Studio](https://github.com/ChrisChen667788/Your-First-LLM-Studio) | `ai-coding-agents/` |
 | 2026-03-31 | [purduehackers/coding-agent-workshop-template](https://github.com/purduehackers/coding-agent-workshop-template) | `ai-coding-agents/` |
@@ -33,4 +34,3 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-03-23 | [cisco-ai-defense/defenseclaw](https://github.com/cisco-ai-defense/defenseclaw) | `ai-coding-agents/` |
 | 2026-03-22 | [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices) | `ai-coding-agents/` |
 | 2026-03-21 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | `rag-systems/` |
-| 2026-03-18 | [G1o22/awesome-ai-agents-2026](https://github.com/G1o22/awesome-ai-agents-2026) | `ai-coding-agents/` |

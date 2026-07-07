@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ritik-prog/n8n-automation-templates-5000
-collected_at: '2026-07-07T04:10:31.899852+05:30'
-published_at: '2026-07-06T04:36:10Z'
+collected_at: '2026-07-07T09:50:28.064268+05:30'
+published_at: '2026-07-07T04:03:00Z'
 tags:
 - github-repo
 - rag
 - scripts
 - unknown
 - workflows
-stars: 420
+stars: 421
 language: Unknown
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-08-05T16:00:00Z'
 pushed_at: '2026-04-29T05:59:09Z'
 resource_id: github:ritik-prog/n8n-automation-templates-5000
-first_seen: '2026-07-07T04:10:31.899852+05:30'
-last_seen: '2026-07-07T04:10:31.899852+05:30'
-last_checked: '2026-07-07T04:10:31.899852+05:30'
+first_seen: '2026-07-07T09:50:28.064268+05:30'
+last_seen: '2026-07-07T09:50:28.064268+05:30'
+last_checked: '2026-07-07T09:50:28.064268+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `ritik-prog/n8n-automation-templates-5000` contains **5000+ production-ready n8n workflow templates** for AI, CRM, finance, e-commerce, marketing, and RAG automation.
-- **Metadata**: **420 stars**, **168 forks**, last updated **2026-07-06T04:36:10Z**, open-source and free.
-- **Language/Topics**: Language unspecified; no topics listed in repository metadata.
+- **Repository**: `ritik-prog/n8n-automation-templates-5000` contains **5000+ production-ready n8n workflow templates** spanning AI, CRM, finance, e-commerce, marketing, and RAG automation.
+- **Metadata**: 421 stars, 168 forks, last updated **2026-07-07T04:03:00Z**, open-source and free.
+- **Purpose**: Designed for **real-world automation** with no explicit language or topic tags specified.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ritik-prog
-- Stars: 420
+- Stars: 421
 - Forks: 168
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-06T04:36:10Z
+- Last Updated: 2026-07-07T04:03:00Z
 - License: MIT
 - Archived: No
 - Created At: 2025-08-05T16:00:00Z

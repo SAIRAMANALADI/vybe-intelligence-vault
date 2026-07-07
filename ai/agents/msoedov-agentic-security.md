@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/msoedov/agentic_security
-collected_at: '2026-07-07T04:13:07.103533+05:30'
+collected_at: '2026-07-07T09:53:08.211149+05:30'
 published_at: '2026-07-06T19:38:40Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - github-repo
 - hackernews
 - python
+- workflows
 stars: 1918
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-04-11T17:18:54Z'
 pushed_at: '2026-06-23T07:20:13Z'
 resource_id: github:msoedov/agentic_security
-first_seen: '2026-07-07T04:13:07.103533+05:30'
-last_seen: '2026-07-07T04:13:07.103533+05:30'
-last_checked: '2026-07-07T04:13:07.103533+05:30'
+first_seen: '2026-07-07T09:53:08.211149+05:30'
+last_seen: '2026-07-07T09:53:08.211149+05:30'
+last_checked: '2026-07-07T09:53:08.211149+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic LLM Vulnerability Scanner**: Python-based framework for automated red teaming and security evaluation of LLM systems, supporting jailbreak detection, prompt testing, and vulnerability scanning.
-- **Fuzzing & Aggregation**: Implements LLM fuzzing techniques with an aggregator for systematic testing of adversarial inputs and security flaws.
-- **Guardrails & Evaluation**: Provides guardrail mechanisms and evaluation frameworks for LLM security, including jailbreak mitigation and vulnerability assessment.
+- **Agentic LLM Vulnerability Scanner**: Python-based framework for automated red teaming and security evaluation of LLM systems, supporting jailbreak detection, prompt testing, and vulnerability scanning via agentic workflows.
+
+- **LLM Fuzzing & Evaluation Toolkit**: Aggregates LLM fuzzing techniques, vulnerability assessment, and guardrail testing to identify exploits, adversarial prompts, and security weaknesses in AI models.
+
+- **Modular Security Framework**: Integrates agent-based security testing, evaluation frameworks, and fuzzing pipelines for continuous LLM security assessment and mitigation.
 
 ## Why It Matters
 

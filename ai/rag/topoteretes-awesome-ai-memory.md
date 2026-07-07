@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/topoteretes/awesome-ai-memory
-collected_at: '2026-07-07T04:11:11.982415+05:30'
+collected_at: '2026-07-07T09:51:08.200682+05:30'
 published_at: '2026-07-05T14:22:20Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 stars: 806
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-11-23T12:40:05Z'
 pushed_at: '2026-06-18T15:07:20Z'
 resource_id: github:topoteretes/awesome-ai-memory
-first_seen: '2026-07-07T04:11:11.982415+05:30'
-last_seen: '2026-07-07T04:11:11.982415+05:30'
-last_checked: '2026-07-07T04:11:11.982415+05:30'
+first_seen: '2026-07-07T09:51:08.200682+05:30'
+last_seen: '2026-07-07T09:51:08.200682+05:30'
+last_checked: '2026-07-07T09:51:08.200682+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated list of AI memory projects**: Repository aggregates open-source tools, frameworks, and research focused on AI memory systems, including short-term (working memory) and long-term (persistent memory) implementations.
-
-- **Covers diverse memory paradigms**: Includes projects leveraging RAG (Retrieval-Augmented Generation), vector databases, graph-based memory, and agentic memory architectures for enhanced contextual reasoning.
-
-- **Python-centric ecosystem**: Primarily Python-based tools with integrations for ML frameworks (e.g., PyTorch, LangChain) and memory management libraries (e.g., FAISS, ChromaDB) for scalable AI memory solutions.
+- **Curated Collection**: Repository aggregates open-source projects focused on AI memory systems, including agents, memory management, and retrieval-augmented generation (RAG) implementations.
+- **Technical Scope**: Primarily Python-based, covering topics like long-term memory, context retention, and stateful AI architectures for enhanced reasoning.
+- **Active Maintenance**: Last updated in July 2026, indicating ongoing updates and community engagement with 806 stars and 89 forks.
 
 ## Why It Matters
 

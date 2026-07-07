@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-07-07T04:10:26.924592+05:30'
+collected_at: '2026-07-07T09:50:28.135576+05:30'
 published_at: '2026-07-06T11:16:05Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -21,9 +20,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-07-07T04:10:26.924592+05:30'
-last_seen: '2026-07-07T04:10:26.924592+05:30'
-last_checked: '2026-07-07T04:10:26.924592+05:30'
+first_seen: '2026-07-07T09:50:28.135576+05:30'
+last_seen: '2026-07-07T09:50:28.135576+05:30'
+last_checked: '2026-07-07T09:50:28.135576+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating integration of LLMs with external knowledge sources.
-- **Technical Stack**: Implemented in Python, leveraging LangChain’s modular framework for document retrieval, prompt engineering, and agent orchestration.
-- **Key Features**: Includes pre-configured pipelines for indexing, retrieval, and response generation, optimized for research workflows and customizable for domain-specific applications.
+- **Template Structure**: Provides a modular Python-based framework for building Retrieval-Augmented Generation (RAG) research agents, leveraging LangChain's ecosystem for LLM integration and workflow orchestration.
+
+- **Key Components**: Includes pre-configured pipelines for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval, and agentic query execution with tools like web search or code execution.
+
+- **Customization Focus**: Designed for extensibility, allowing users to swap components (e.g., LLMs, embeddings, or vector stores) while maintaining standardized interfaces for rapid prototyping of RAG systems.
 
 ## Why It Matters
 

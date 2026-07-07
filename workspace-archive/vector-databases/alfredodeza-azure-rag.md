@@ -12,6 +12,7 @@ resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
+- hackernews
 - openai
 - python
 - rag
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) using Azure services, integrating document retrieval with generative AI models.
-- **Tech Stack**: Implemented in Python, leveraging Azure's AI/ML and storage services (e.g., Azure Cognitive Search, Azure OpenAI).
-- **Structure**: Example repository with 227 forks, last updated April 2026, showcasing end-to-end RAG pipeline deployment on Azure.
+- **Purpose**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline using Azure services, integrating document retrieval with generative AI models.
+- **Technical Stack**: Implemented in Python, leveraging Azure's AI/ML and storage services (e.g., Azure Cognitive Search, Azure OpenAI).
+- **Key Features**: Includes document ingestion, vector embeddings, retrieval mechanisms, and LLM-based response generation with Azure-native components.
 
 ## Use Cases
 

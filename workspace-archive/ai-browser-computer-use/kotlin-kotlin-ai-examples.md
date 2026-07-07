@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-framework AI examples**: Repository showcases Kotlin implementations using Spring AI, LangChain4j, and other AI frameworks for inference and agent-based applications.
-- **Interactive Kotlin notebooks**: Includes Jupyter Notebooks for hands-on learning and experimentation with AI models (e.g., OpenAI integrations).
-- **Active development**: Last updated in 2026, with 265 stars and 32 forks, emphasizing modern AI/Kotlin integration.
+- **Multi-framework AI examples** in Kotlin showcasing integrations with Spring AI, LangChain4j, and OpenAI for AI-driven applications.
+- **Interactive Kotlin notebooks** provided for hands-on learning and experimentation with AI agents, inference, and model interactions.
+- **Repository structure** includes Jupyter Notebooks, with recent updates (as of 2026-07-02) and active community engagement (265 stars, 32 forks).
 
 ## Use Cases
 

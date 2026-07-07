@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-07-07T04:12:42.009397+05:30'
+collected_at: '2026-07-07T09:52:38.174502+05:30'
 published_at: '2026-07-04T17:20:53Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - typescript
+- workflows
 stars: 520
 language: TypeScript
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-04T11:51:08Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-07-07T04:12:42.009397+05:30'
-last_seen: '2026-07-07T04:12:42.009397+05:30'
-last_checked: '2026-07-07T04:12:42.009397+05:30'
+first_seen: '2026-07-07T09:52:38.174502+05:30'
+last_seen: '2026-07-07T09:52:38.174502+05:30'
+last_checked: '2026-07-07T09:52:38.174502+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized `Agent Skills` and best practices for programming languages (e.g., Kotlin, Go, Dart) and frameworks (e.g., React, Spring Boot, Laravel, NestJS), designed to guide AI agents in adhering to coding standards.
+- **Comprehensive Coding Standards Repository**: Hosts standardized best practices and guidelines for multiple programming languages (TypeScript, Kotlin, Go, etc.) and frameworks (React, Angular, Spring Boot, Laravel, etc.), enabling AI agents to adhere to structured coding conventions.
 
-- **Scope & Topics**: Covers 18+ languages/frameworks (Android, Angular, Flutter, iOS, Next.js, React Native) and includes `cursor-rules` for AI-assisted development, with structured guidelines for maintainable and scalable code.
+- **Multi-Platform & Framework Support**: Covers mobile (Android, iOS, Flutter, React Native), web (React, Angular, Next.js, NestJS), and backend (Spring Boot, Laravel, Go) ecosystems, ensuring cross-platform consistency for AI-driven development workflows.
 
-- **Metadata**: 520 stars, 150 forks, last updated **2026-07-04**; serves as a reference for AI agents to implement consistent, high-quality practices across diverse tech stacks.
+- **Active Maintenance & Community Engagement**: Last updated in July 2026 with 520 stars and 150 forks, indicating ongoing community contributions and relevance for AI agent skill standardization in modern software development.
 
 ## Why It Matters
 

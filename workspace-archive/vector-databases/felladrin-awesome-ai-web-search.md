@@ -15,7 +15,6 @@ tags:
 - hackernews
 - html
 - rag
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated AI Web Search Tools**: Aggregates software leveraging AI for enhanced web search, including metasearch engines, question-answering systems, and retrieval-augmented generation (RAG) frameworks.
-- **Key Technologies**: Encompasses generative AI models, LLM inference engines, and information retrieval systems optimized for AI-driven search workflows.
-- **Open-Source & Community-Driven**: Hosted on GitHub with active contributions (1.3k+ stars, 112 forks), maintained as an "awesome-list"
+- **Curated AI Web Search Tools**: Repository listing software enabling AI-assisted web searches, including metasearch engines, question-answering systems, and retrieval-augmented generation (RAG) frameworks.
+- **Technical Scope**: Covers generative AI projects, LLM inference, and information retrieval tools optimized for web-scale queries.
+- **Metadata**: 1,368 stars, 112 forks, last updated July 2026; hosted on GitHub with HTML-based documentation.
 
 ## Use Cases
 

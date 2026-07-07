@@ -6,7 +6,7 @@ source_url: https://github.com/pixegami/rag-tutorial-v2
 resource_id: github:pixegami/rag-tutorial-v2
 local_vault_path: ai/rag/pixegami-rag-tutorial-v2.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Inference and Local LLM`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates end-to-end RAG pipeline using local language models (e.g., Ollama) with LangChain, avoiding cloud API dependencies.
-- **Dynamic Database Updates**: Implements mechanisms for incremental vector database updates (e.g., Chroma) to reflect new or modified documents without full reindexing.
-- **Testing Framework**: Includes automated evaluation tools (e.g., RAGAS) for assessing retrieval quality, answer correctness, and latency in a reproducible manner.
+- **Local LLM Integration**: Demonstrates RAG implementation using locally hosted large language models (LLMs) via frameworks like Ollama or LM Studio, avoiding cloud dependencies.
+- **Dynamic Database Updates**: Implements automated vector database refresh mechanisms (e.g., ChromaDB) to incorporate new documents without manual intervention.
+- **Testing & Evaluation**: Includes unit tests and performance benchmarks (e.g., retrieval accuracy, latency) using tools like `pytest` and custom evaluati
 
 ## Use Cases
 

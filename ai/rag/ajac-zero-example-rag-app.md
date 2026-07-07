@@ -4,11 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ajac-zero/example-rag-app
-collected_at: '2026-07-07T04:10:51.889979+05:30'
+collected_at: '2026-07-07T09:50:53.123094+05:30'
 published_at: '2026-03-17T09:29:28Z'
 tags:
+- anthropic
 - github-repo
+- mistral
+- models
+- openai
 - rag
+- scripts
 - typescript
 stars: 159
 language: TypeScript
@@ -18,9 +23,9 @@ archived: false
 created_at: '2025-02-18T16:15:24Z'
 pushed_at: '2026-01-15T20:18:12Z'
 resource_id: github:ajac-zero/example-rag-app
-first_seen: '2026-07-07T04:10:51.889979+05:30'
-last_seen: '2026-07-07T04:10:51.889979+05:30'
-last_checked: '2026-07-07T04:10:51.889979+05:30'
+first_seen: '2026-07-07T09:50:53.123094+05:30'
+last_seen: '2026-07-07T09:50:53.123094+05:30'
+last_checked: '2026-07-07T09:50:53.123094+05:30'
 health_score: 100
 ---
 
@@ -28,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Observability & Integration**: Implements LLM observability via Langfuse for monitoring and debugging, with support for 100+ LLM providers through LiteLLM abstraction layer.
+- **Observability & Multi-Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for 100+ provider compatibility (e.g., OpenAI, Anthropic, Mistral) with structured logging and tracing.
 
-- **Development Rigor**: Full TypeScript type-checking, 100% test coverage, and Dockerized deployment for consistency and scalability.
+- **Strict TypeScript Enforcement**: Full type-checking via `tsc` and `type-coverage` tools, ensuring compile-time safety and runtime reliability in a Dockerized environment.
 
-- **Architecture**: Demonstrates a production-grade RAG pipeline with modular design, enabling rapid experimentation across diverse LLM backends while maintaining observability.
+- **Testing & CI/CD**: Achieves 100% test coverage with Jest/Playwright, automated via GitHub Actions for continuous validation and deployment.
 
 ## Why It Matters
 

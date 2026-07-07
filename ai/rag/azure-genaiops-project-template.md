@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-07-07T04:10:31.933297+05:30'
+collected_at: '2026-07-07T09:50:28.145393+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-07-07T04:10:31.933297+05:30'
-last_seen: '2026-07-07T04:10:31.933297+05:30'
-last_checked: '2026-07-07T04:10:31.933297+05:30'
+first_seen: '2026-07-07T09:50:28.145393+05:30'
+last_seen: '2026-07-07T09:50:28.145393+05:30'
+last_checked: '2026-07-07T09:50:28.145393+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Bicep-based IaC Template**: Provides Infrastructure-as-Code (IaC) for deploying a Generative AI Operations (GenAIOps) Retrieval-Augmented Generation (RAG) pipeline on Azure using Bicep.
+- **Infrastructure-as-Code (IaC) Template**: Deploys a Generative AI Ops RAG (Retrieval-Augmented Generation) solution using Bicep, enabling automated provisioning of Azure resources (e.g., AI services, storage, networking) for scalable RAG pipelines.
 
-- **RAG Pipeline Deployment**: Includes pre-configured Azure resources (e.g., Azure AI Search, Azure OpenAI, Azure Functions) to enable end-to-end RAG workflows with minimal setup.
+- **Modular Bicep Design**: Organized into reusable modules for core components (e.g., compute, data pipelines, monitoring), facilitating customization and CI/CD integration for GenAI workflows.
 
-- **GitHub Repository**: Last updated in May 2026, with 44 stars and 56 forks, serving as a starter template for GenAIOps projects in Azure environments.
+- **Pre-configured RAG Workflow**: Includes templates for vector databases, embedding models, and retrieval logic, optimized for Azure AI services (e.g., Azure OpenAI, Cognitive Search) with built-in observability.
 
 ## Why It Matters
 

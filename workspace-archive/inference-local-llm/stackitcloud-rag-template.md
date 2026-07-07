@@ -6,7 +6,7 @@ source_url: https://github.com/stackitcloud/rag-template
 resource_id: github:stackitcloud/rag-template
 local_vault_path: ai/rag/stackitcloud-rag-template.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: template
 importance: medium
@@ -16,6 +16,7 @@ tags:
 - models
 - python
 - rag
+- reddit
 - workflows
 selection_reason:
 - Strong keyword match
@@ -27,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Inference and Local LLM`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **FastAPI-based RAG pipeline**: Implements Retrieval-Augmented Generation (RAG) with FastAPI for AI chatbots and document management, leveraging vector search for efficient retrieval.
-- **Containerized deployment**: Supports Docker for local development and Kubernetes for scalable production deployment, with Ollama integration for LLM inference.
-- **Vector database integration**: Uses a vector database (unspecified) for semantic search, optimized for Python-based RAG workflows with STACKIT clo
+- **FastAPI-based RAG pipeline** leveraging vector search for document retrieval and LLM integration, with Docker/Kubernetes support for deployment.
+- **Ollama-compatible** local LLM inference, enabling offline-capable RAG workflows with Python backend.
+- **STACKIT-optimized** template featuring vector database integration and modular architecture for scalable AI chatbot/document management systems.
 
 ## Use Cases
 

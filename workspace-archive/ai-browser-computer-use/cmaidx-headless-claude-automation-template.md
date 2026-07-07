@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Purpose**: Enables autonomous software delivery via headless Claude agents, converting requirements documents into reviewed pull requests.
-- **Key Components**: Integrates CI/CD pipelines, multi-agent orchestration, and GitHub Actions for automated PR generation and review.
-- **Technical Stack**: Shell-based implementation with support for Claude Code, Linear integration, and multi-agent workflows.
+- **Template Purpose**: Enables autonomous software delivery via headless Claude agents, transforming requirements documents into reviewed pull requests.
+- **Key Components**: Integrates GitHub Actions for CI/CD, supports multi-agent workflows, and interfaces with Linear for project management.
+- **Technical Stack**: Primarily Shell-based, designed for headless execution of Claude Code with AI-agent orchestration.
 
 ## Use Cases
 

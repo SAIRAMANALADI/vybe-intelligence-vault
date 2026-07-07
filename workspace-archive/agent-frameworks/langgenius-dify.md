@@ -8,7 +8,7 @@ local_vault_path: ai/rag/langgenius-dify.md
 quality_score: 70
 archive_score: 87
 archive_tier: essential
-resource_kind: template
+resource_kind: framework
 importance: high
 tags:
 - agents
@@ -31,18 +31,18 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: template
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Agentic Workflow Platform**: Open-source, production-ready framework for building, deploying, and managing agentic AI workflows with low-code/no-code capabilities, supporting orchestration, RAG, and multi-agent systems.
+- **Multi-agent orchestration framework**: Enables development of agentic workflows with support for LLM integration (OpenAI, GPT-4, Gemini), RAG, and MCP, facilitating low-code/no-code automation and multi-agent collaboration.
 
-- **Multi-LLM & Tool Integration**: Supports OpenAI, GPT-4, Gemini, MCP, and other LLM providers, enabling seamless integration with external tools, APIs, and automation pipelines via a modular TypeScript/Python architecture.
+- **Full-stack TypeScript/Python implementation**: Built with Next.js (frontend) and Python (backend), offering a production-ready platform for deploying agentic systems with built-in orchestration, API endpoints, and workflow management.
 
-- **Next.js-Based UI & Deployment**: Built on Ne
+- **Enterprise-grade tooling**:
 
 ## Use Cases
 

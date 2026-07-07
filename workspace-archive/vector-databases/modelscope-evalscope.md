@@ -12,12 +12,9 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
-- dataset
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -34,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: Evalsocope is a Python-based, modular framework designed for efficient evaluation and benchmarking of large models (LLMs, VLMs, AIGC) with customizable pipelines and streamlined workflows.
-
-- **Key Features**: Supports evaluation of Retrieval-Augmented Generation (RAG), performance metrics, and multi-modal model assessments with extensible task configurations and standardized benchmarking protocols.
-
-- **Technical Stack**: Built on Python with dependencies optimized for
+- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with modular design for efficiency.
+- **Key Features**: Supports evaluation of RAG (Retrieval-Augmented Generation) systems and performance metrics across diverse model architectures.
+- **Repository Stats**: 3,037 stars, 414 forks, last updated July 6, 2026.
 
 ## Use Cases
 

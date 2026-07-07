@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent LLM Framework**: Implements a financial trading system using multiple LLM-based agents for market analysis, strategy formulation, and execution.
-- **Python-Based Architecture**: Leverages Python for modular agent design, enabling extensibility for custom trading strategies and data sources.
-- **Open-Source & Scalable**: Hosted on GitHub with 91,343+ stars, supporting collaborative development and integration with financial APIs/data feeds.
+- **Multi-Agent LLM Framework**: Implements a financial trading system leveraging multiple LLM-based agents for decision-making, market analysis, and execution strategies.
+- **Python-Based Architecture**: Built in Python, integrating financial data APIs, reinforcement learning, and agent-based modeling for autonomous trading.
+- **Open-Source & Scalable**: Hosted on GitHub with 91,427 stars and 17,672 forks, supporting modular extensions for quantitative finance and multi-agent collaboration.
 
 ## Use Cases
 

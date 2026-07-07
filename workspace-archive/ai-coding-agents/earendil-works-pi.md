@@ -14,7 +14,6 @@ tags:
 - agents
 - github-repo
 - typescript
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified LLM API Integration**: Provides a standardized interface to interact with multiple large language models (LLMs) via a single API, abstracting provider-specific complexities for seamless integration.
+- **Unified LLM API Integration**: Provides a standardized interface for interacting with multiple large language models (LLMs) via a single API, abstracting provider-specific complexities.
 
-- **Agent Loop & TUI Framework**: Implements a modular agent loop architecture for autonomous task execution, paired with a terminal user interface (TUI) for real-time interaction and debugging.
+- **Agent Loop & TUI Framework**: Implements a modular agent loop architecture for autonomous task execution and includes a terminal user interface (TUI) for real-time interaction and monitoring.
 
-- **Coding Agent CLI**: Includes a command-line interface (CLI) toolkit for deploying AI-dri
+- **Coding Agent CLI**: Offers a command-line interface (CLI) for deploying AI-powered coding agents, enabling a
 
 ## Use Cases
 

@@ -6,20 +6,21 @@ source_url: https://github.com/FudanDNN-NLP/RAG
 resource_id: github:fudandnn-nlp/rag
 local_vault_path: ai/rag/fudandnn-nlp-rag.md
 quality_score: 70
-archive_score: 83
+archive_score: 81
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - paper
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # FudanDNN-NLP/RAG
@@ -27,19 +28,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 83 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Implementation**: Provides a Python-based implementation of retrieval-augmented generation (RAG) best practices as outlined in the EMNLP 2024 paper, focusing on optimizing retrieval and generation pipelines.
+- **Implementation of RAG Best Practices**: Repository provides a Python-based implementation of retrieval-augmented generation (RAG) techniques, focusing on best practices identified in the EMNLP 2024 paper "Searching for Best Practices in Retrieval-Augmented Generation."
 
-- **Key Features**: Includes modular components for document retrieval, query reformulation, and generation, with configurable hyperparameters for experimentation.
+- **Modular Design**: The codebase is structured to facilitate experimentation with various RAG components, including retrievers, generators, and rerankers, enabling systematic evaluation of configurations.
 
-- **Evaluation Framework**: Supports benchmarking against standard RAG datasets, enabling comparative analysis of retrieva
+- **EMNLP 2024 Be
 
 ## Use Cases
 

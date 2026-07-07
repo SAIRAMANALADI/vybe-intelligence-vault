@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DenCabinetmaker/Rust-Rage
-collected_at: '2026-07-07T04:11:51.929846+05:30'
+collected_at: '2026-07-07T09:51:48.161523+05:30'
 published_at: '2026-07-06T02:46:34Z'
 tags:
 - github-repo
+- hackernews
 - rag
 - reddit
 - unknown
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-04-26T21:33:43Z'
 pushed_at: '2026-07-05T16:22:48Z'
 resource_id: github:dencabinetmaker/rust-rage
-first_seen: '2026-07-07T04:11:51.929846+05:30'
-last_seen: '2026-07-07T04:11:51.929846+05:30'
-last_checked: '2026-07-07T04:11:51.929846+05:30'
+first_seen: '2026-07-07T09:51:48.161523+05:30'
+last_seen: '2026-07-07T09:51:48.161523+05:30'
+last_checked: '2026-07-07T09:51:48.161523+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: Rust-Rage is a Rust-based cheating toolkit (aimbot, wallhack, ESP) for *Counter-Strike 2* (CS2), last updated in **July 2026**.
-- **Codebase**: Language unspecified (likely Rust), with **44 stars** and **18 forks** on GitHub.
-- **Purpose**: Designed for **game hacking** (visual/audio cheats) in *Counter-Strike 2*, flagged by anti-cheat systems (e.g., VAC, EAC).
+- **Repository**: DenCabinetmaker/Rust-Rage, a Rust-based cheating toolkit (aimbot, wallhack, ESP) with 44 stars and 18 forks, last updated on **2026-07-06**.
+- **Technical Stack**: Language unspecified, but likely leverages Rust’s low-level performance for game manipulation (e.g., memory editing, DirectX/OpenGL hooking).
+- **Purpose**: Designed for cheating in **Rust** (2026 version), integrating visual/audio hacks to gain unfair advantages in-game.
 
 ## Why It Matters
 

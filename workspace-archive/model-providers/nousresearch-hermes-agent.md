@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports Anthropic (Claude), OpenAI (ChatGPT, Codex), and other LLM backends via modular API clients, enabling cross-platform agentic workflows.
-
-- **Dynamic Agentic Architecture**: Implements a self-extending agent framework with memory, tool-use (e.g., `claude-code`, `clawdbot`), and adaptive learning for iterative task decomposition and execution.
-
-- **Python-Based Framework**: Built on Python with extensible plugins for custom tools, prompt engineering,
+- **Multi-Model Agent Framework**: Hermes-Agent is a Python-based AI agent system supporting integration with Anthropic, OpenAI, and other LLM providers (e.g., Claude, ChatGPT) for dynamic task execution and tool use.
+- **Extensible Tooling & Automation**: Features built-in support for code execution (Claude Code), file system operations, and web browsing via tools like `clawdbot` and `moltbot`, enabling autonomous workflows.
+- **Scalable & Community-Driven**: Actively maintained (last update: 2
 
 ## Use Cases
 

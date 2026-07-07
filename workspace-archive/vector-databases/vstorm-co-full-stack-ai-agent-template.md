@@ -16,7 +16,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Full-stack AI app generator** with FastAPI backend and Next.js frontend, pre-configured with **AI Agents, RAG, streaming, authentication**, and **20+ integrations** (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI).
+- **Full-stack AI Agent Template**: Pre-configured stack with FastAPI (backend) and Next.js (frontend), integrating AI Agents, RAG, real-time streaming, authentication, and 20+ third-party integrations (e.g., CrewAI, LangChain, LangGraph).
 
-- **Tech stack**: Python (FastAPI, PostgreSQL, Pydantic), TypeScript (Next.js, React), Docker, WebSockets; supports **LLM integration** and **Pydantic-Deep** for structured outputs.
+- **Tech Stack & Features**: Python-based backend with Pydantic (AI/Deep), PostgreSQL for persistence, Dockerized deployment, WebSocket support, and built-in auth; frontend in TypeScript/React with Next.js.
 
-- **Out-of-the-box features**: Pre-built **AI agent workflows**, **RAG pipelines**, **authentica
+- **AI Capabilities**: Supports multiple LLM framew
 
 ## Use Cases
 

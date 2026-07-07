@@ -8,11 +8,16 @@ local_vault_path: ai/rag/ajac-zero-example-rag-app.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: workflow
+resource_kind: tool
 importance: medium
 tags:
+- anthropic
 - github-repo
+- mistral
+- models
+- openai
 - rag
+- scripts
 - typescript
 selection_reason:
 - Active open-source repository
@@ -24,17 +29,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: workflow
+- Resource kind: tool
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Observability & Integration**: Implements LLM observability via Langfuse for monitoring and debugging, with support for 100+ LLM providers through LiteLLM abstraction layer.
+- **Observability & Multi-Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for 100+ provider compatibility (e.g., OpenAI, Anthropic, Mistral) with structured logging and tracing.
 
-- **Development Rigor**: Full TypeScript type-checking, 100% test coverage, and Dockerized deployment for consistency and scalability.
+- **Strict TypeScript Enforcement**: Full type-checking via `tsc` and `type-coverage` tools, ensuring compile-time safety and runtime reliability in a Dockerized environment.
 
-- **Architecture**: Demonstrates a production-grade RAG pipeline with modular design, enabling rapid experimentation across diverse LLM backends while maintaining observability.
+- **Testing & CI/CD**: Achieves 100% test coverage with Jest/Playwright, automated via GitHub Actions for continuous va
 
 ## Use Cases
 

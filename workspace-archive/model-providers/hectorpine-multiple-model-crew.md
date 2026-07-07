@@ -6,12 +6,13 @@ source_url: https://github.com/hectorpine/multiple-model-crew
 resource_id: github:hectorpine/multiple-model-crew
 local_vault_path: ai/rag/hectorpine-multiple-model-crew.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: template
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
 - meta-ai
 - mistral
@@ -30,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -38,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Model Agent Framework**: Implements a CrewAI template enabling dynamic selection and orchestration of multiple LLM agents (e.g., GPT-3, GPT-4, Mixtral, Llama 3, Gemma) within a single workflow.
+- **Multi-Model Agent Framework**: Template repository for CrewAI enabling dynamic selection of agents powered by diverse LLMs (e.g., GPT-3, GPT-4, Mixtral, Llama 3, Gemma) via Python-based CrewAI integration.
 
-- **Python-Based Implementation**: Leverages Python for agent integration, with modular design to support diverse model APIs and configurations.
+- **Modular Agent Configuration**: Supports runtime switching between models with standardized interfaces, facilitating comparative evaluation and hybrid agent workflows within a single CrewAI project.
 
-- **Last Updated**: Repository was last modified on **2025-03-13**, indicating active maintenance with potential updates for newer model versions.
+- **Python-Centric Implementation**: Leverages Python for agent orchestration, with la
 
 ## Use Cases
 

@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-07T04:11:26.952107+05:30'
+collected_at: '2026-07-07T09:51:23.109317+05:30'
 published_at: '2026-07-05T07:03:45Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
-- models
 - python
 - rag
 - reddit
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-07T04:11:26.952107+05:30'
-last_seen: '2026-07-07T04:11:26.952107+05:30'
-last_checked: '2026-07-07T04:11:26.952107+05:30'
+first_seen: '2026-07-07T09:51:23.109317+05:30'
+last_seen: '2026-07-07T09:51:23.109317+05:30'
+last_checked: '2026-07-07T09:51:23.109317+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Attack Methodology**: Introduces *PoisonedRAG*, a novel attack vector corrupting Retrieval-Augmented Generation (RAG) systems by injecting adversarial knowledge into the retrieval corpus, causing LLMs to generate manipulated outputs without altering model weights.
+- **Attack Mechanism**: Introduces *PoisonedRAG*, a novel knowledge corruption attack targeting Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate incorrect or harmful outputs while maintaining high retrieval relevance.
 
-- **Technical Impact**: Demonstrates that poisoned documents (e.g., adversarial passages) can mislead RAG pipelines into retrieving and prioritizing malicious content, leading to incorrect or harmful responses while maintaining high retrieval relevance scores.
+- **Technical Implementation**: Leverages adversarial document poisoning techniques to manipulate the embedding space, ensuring poisoned documents are ranked highly during retrieval while subtly altering the semantic content to mislead the LLM’s generation phase.
 
-- **Evaluation & Mitigation**: Validates the attack on multiple RAG benchmarks (e.g., MS MARCO, NQ), achieving >90% success rate in corrupting outputs; proposes preliminary defenses (e.g., embedding sanitization, retrieval filtering) with limited effectiveness.
+- **Evaluation & Impact**: Demonstrates effectiveness across multiple RAG pipelines (e.g., dense retrieval + LLM) with minimal perturbation, achieving high attack success rates (e.g., >90% in targeted misclassification) while evading detection via standard filtering mechanisms.
 
 ## Why It Matters
 

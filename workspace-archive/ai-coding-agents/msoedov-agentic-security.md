@@ -16,6 +16,7 @@ tags:
 - github-repo
 - hackernews
 - python
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic LLM Vulnerability Scanner**: Python-based framework for automated red teaming and security evaluation of LLM systems, supporting jailbreak detection, prompt testing, and vulnerability scanning.
-- **Fuzzing & Aggregation**: Implements LLM fuzzing techniques with an aggregator for systematic testing of adversarial inputs and security flaws.
-- **Guardrails & Evaluation**: Provides guardrail mechanisms and evaluation frameworks for LLM security, including jailbreak mitigation and vulnera
+- **Agentic LLM Vulnerability Scanner**: Python-based framework for automated red teaming and security evaluation of LLM systems, supporting jailbreak detection, prompt testing, and vulnerability scanning via agentic workflows.
+
+- **LLM Fuzzing & Evaluation Toolkit**: Aggregates LLM fuzzing techniques, vulnerability assessment, and guardrail testing to identify exploits, adversarial prompts, and security weaknesses in AI models.
+
+- **Modular Security Framework**: Integrates agent-based security
 
 ## Use Cases
 

@@ -4,9 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/FudanDNN-NLP/RAG
-collected_at: '2026-07-07T04:11:01.940872+05:30'
+collected_at: '2026-07-07T09:50:58.128831+05:30'
 published_at: '2026-07-02T18:18:04Z'
 tags:
+- benchmark
+- dataset
 - github-repo
 - hackernews
 - paper
@@ -20,9 +22,9 @@ archived: false
 created_at: '2024-06-29T13:07:50Z'
 pushed_at: '2024-12-21T07:32:41Z'
 resource_id: github:fudandnn-nlp/rag
-first_seen: '2026-07-07T04:11:01.940872+05:30'
-last_seen: '2026-07-07T04:11:01.940872+05:30'
-last_checked: '2026-07-07T04:11:01.940872+05:30'
+first_seen: '2026-07-07T09:50:58.128831+05:30'
+last_seen: '2026-07-07T09:50:58.128831+05:30'
+last_checked: '2026-07-07T09:50:58.128831+05:30'
 health_score: 100
 ---
 
@@ -30,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Provides a Python-based implementation of retrieval-augmented generation (RAG) techniques as described in the EMNLP 2024 paper "Searching for Best Practices in Retrieval-Augmented Generation."
-- **Optimization Focus**: Evaluates and optimizes RAG pipelines, including retrieval strategies, generation models, and integration methodologies to enhance performance.
-- **Repository Details**: Active development with 347 stars, 21 forks, and last updated on July 2, 2026.
+- **Implementation of RAG Best Practices**: Repository provides a Python-based implementation of retrieval-augmented generation (RAG) techniques, focusing on best practices identified in the EMNLP 2024 paper "Searching for Best Practices in Retrieval-Augmented Generation."
+
+- **Modular Design**: The codebase is structured to facilitate experimentation with various RAG components, including retrievers, generators, and rerankers, enabling systematic evaluation of configurations.
+
+- **EMNLP 2024 Benchmarking**: Includes scripts and configurations for benchmarking RAG systems against established datasets, supporting reproducibility and comparative analysis of retrieval and generation strategies.
 
 ## Why It Matters
 

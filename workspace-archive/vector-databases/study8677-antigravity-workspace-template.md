@@ -14,12 +14,9 @@ tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - openai
 - python
 - rag
-- reddit
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -36,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent codebase Q&A system**: Enables grounded, file-path and line-number-referenced interactions with codebases using AI agents (Claude Code, Cursor, Codex CLI), leveraging RAG and knowledge graphs for precise responses.
-
-- **Cross-IDE compatibility**: Functions as an MCP server/plugin, integrating with major AI-powered IDEs (Claude, Cursor, VS Code) and CLI tools (Codex CLI) for unified developer workflows.
-
-- **Technical stack**: Python-based implementation with OpenAI LLM integratio
+- **Multi-agent codebase Q&A engine**: Enables grounded interactions with codebases via file paths and line numbers, supporting tools like Claude Code, Cursor, and Codex CLI.
+- **MCP-compatible knowledge graph**: Integrates with OpenAI’s MCP server for structured, retrievable code intelligence and RAG-based responses.
+- **Cross-IDE plugin framework**: Provides a Python-based template for building IDE-agnostic developer tools (e.g., copilots, search, and agent SDKs).
 
 ## Use Cases
 

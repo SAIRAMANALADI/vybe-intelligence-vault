@@ -4,24 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/kyrolabs/awesome-agents
-collected_at: '2026-07-07T04:12:47.071045+05:30'
-published_at: '2026-07-06T08:53:34Z'
+collected_at: '2026-07-07T09:52:43.176237+05:30'
+published_at: '2026-07-07T04:17:20Z'
 tags:
 - agents
 - github-repo
-- paper
+- hackernews
 - rag
+- scripts
 - unknown
-stars: 2569
+stars: 2572
 language: Unknown
 status: active
 archived: false
 created_at: '2023-07-02T11:12:36Z'
-pushed_at: '2026-06-30T03:45:04Z'
+pushed_at: '2026-07-07T03:46:14Z'
 resource_id: github:kyrolabs/awesome-agents
-first_seen: '2026-07-07T04:12:47.071045+05:30'
-last_seen: '2026-07-07T04:12:47.071045+05:30'
-last_checked: '2026-07-07T04:12:47.071045+05:30'
+first_seen: '2026-07-07T09:52:43.176237+05:30'
+last_seen: '2026-07-07T09:52:43.176237+05:30'
+last_checked: '2026-07-07T09:52:43.176237+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: A highly organized, community-driven repository of AI agent frameworks, tools, libraries, and research papers, designed to centralize resources for AI agent development and deployment.
-
-- **Multi-Domain Coverage**: Encompasses agents for reinforcement learning, autonomous systems, multi-agent systems, and LLM-based agents, with links to GitHub repositories, research papers, and documentation.
-
-- **Continuous Updates**: Actively maintained with the latest contributions and updates, ensuring relevance in the rapidly evolving field of AI agents (last updated July 6, 2026).
+- **Curated Collection**: A structured, community-driven repository listing AI agents, frameworks, libraries, and tools for autonomous system development.
+- **Multi-Domain Coverage**: Encompasses agents for research, coding, automation, gaming, and multi-agent systems with categorized resources.
+- **Active Maintenance**: Last updated in 2026, indicating ongoing updates and contributions to reflect evolving AI agent technologies.
 
 ## Why It Matters
 
@@ -42,14 +41,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: kyrolabs
-- Stars: 2569
+- Stars: 2572
 - Forks: 668
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-06T08:53:34Z
+- Last Updated: 2026-07-07T04:17:20Z
 - Archived: No
 - Created At: 2023-07-02T11:12:36Z
-- Pushed At: 2026-06-30T03:45:04Z
+- Pushed At: 2026-07-07T03:46:14Z
 
 ## Possible Use Cases
 

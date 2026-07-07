@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-07-07T04:11:51.952860+05:30'
+collected_at: '2026-07-07T09:51:48.103304+05:30'
 published_at: '2026-07-05T17:03:45Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - rag
+- scripts
 - unknown
 stars: 789
 language: Unknown
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-05-02T04:18:19Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-07-07T04:11:51.952860+05:30'
-last_seen: '2026-07-07T04:11:51.952860+05:30'
-last_checked: '2026-07-07T04:11:51.952860+05:30'
+first_seen: '2026-07-07T09:51:48.103304+05:30'
+last_seen: '2026-07-07T09:51:48.103304+05:30'
+last_checked: '2026-07-07T09:51:48.103304+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, focusing on autonomous agents, reasoning models, and advanced RAG (Retrieval-Augmented Generation) systems for complex knowledge synthesis.
-- **ACL 2026 Integration**: Aligns with ACL 2026's *KnowFM* initiative, emphasizing multi-agent collaboration, long-form reasoning, and factual grounding in LLMs for deep research tasks.
-- **Technical Scope**: Covers agentic AI frameworks, search-agent architectures, and reasoning-agent methodologies, with 789 stars and 64 forks indicating active community engagement.
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research systems, focusing on reasoning agents, search agents, and agentic RAG architectures for large language models (LLMs).
+- **Technical Scope**: Covers advanced topics including multi-agent collaboration, adaptive retrieval strategies, and reasoning-enhanced LLM frameworks for complex information synthesis.
+- **ACL 2026 Integration**: Aligns with ACL 2026 KnowFM initiative, emphasizing knowledge-first methodologies and scalable deep research automation in NLP.
 
 ## Why It Matters
 

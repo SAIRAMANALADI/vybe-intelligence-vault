@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-07T04:10:41.879011+05:30'
-published_at: '2026-06-25T20:12:14Z'
+collected_at: '2026-07-07T09:50:43.096325+05:30'
+published_at: '2026-07-07T03:51:39Z'
 tags:
+- dataset
 - github-repo
 - jupyter notebook
-- models
 - rag
-- workflows
-stars: 1221
+stars: 1222
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-07T04:10:41.879011+05:30'
-last_seen: '2026-07-07T04:10:41.879011+05:30'
-last_checked: '2026-07-07T04:10:41.879011+05:30'
+first_seen: '2026-07-07T09:50:43.096325+05:30'
+last_seen: '2026-07-07T09:50:43.096325+05:30'
+last_checked: '2026-07-07T09:50:43.096325+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for dynamic exploration and visualization of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time analysis of retrieval and generation components.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) designed for real-time visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and optimization of LLM interactions.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based visualization, allowing users to inspect RAG workflows (e.g., query processing, document retrieval, and LLM outputs) through a browser interface.
+- **Streamlit-Powered UI**: Integrates Streamlit for an interactive web interface, allowing users to dynamically explore RAG components (e.g., retrieval mechanisms, prompt engineering, and response generation) with minimal setup overhead.
 
-- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom RAG configurations (e.g., embedding models, vector stores) and compatibility with LLM frameworks like LangChain.
+- **Modular Python Framework**: Leverages Python libraries (e.g., `langchain`, `faiss`, or `sentence-transformers`) for modular RAG pipeline construction, with built-in support for custom dataset ingestion, embedding visualization, and performance metrics tracking.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: gabrielchua
-- Stars: 1221
+- Stars: 1222
 - Forks: 115
 - Language: Jupyter Notebook
 - Topics: interactive, llm, python, rag, streamlit, visualization
-- Last Updated: 2026-06-25T20:12:14Z
+- Last Updated: 2026-07-07T03:51:39Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-11T15:31:36Z

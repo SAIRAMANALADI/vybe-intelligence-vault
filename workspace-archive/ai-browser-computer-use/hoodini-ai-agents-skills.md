@@ -14,8 +14,8 @@ tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - python
-- scripts
 selection_reason:
 - Active open-source repository
 ---
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Curated repository of specialized skills for AI coding agents (e.g., Claude Code, GitHub Copilot, Cursor, Windsurf) to enhance functionality via Python-based implementations.
-- **Metadata**: 243 stars, 58 forks, last updated on 2026-07-04; created using GitHub Copilot via VS Code Insiders.
-- **Structure**: Repository contains modular Python scripts designed to extend AI agent capabilities for coding tasks.
+- **Repository Purpose**: Curated collection of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf) in Python, created by Yuval Avidani using GitHub Copilot via VS Code Insiders.
+- **Metadata**: 243 stars, 58 forks, last updated on 2026-07-04T14:38:30Z.
+- **Technical Stack**: Python-based repository with no additional topics specified.
 
 ## Use Cases
 

@@ -6,12 +6,14 @@ source_url: https://github.com/bangoc123/retrieval-backend-with-rag
 resource_id: github:bangoc123/retrieval-backend-with-rag
 local_vault_path: ai/rag/bangoc123-retrieval-backend-with-rag.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - github-repo
+- models
 - python
 - rag
 selection_reason:
@@ -24,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -32,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Implementation**: Python-based RAG (Retrieval-Augmented Generation) backend optimized for Vietnamese language processing, integrating vector search with large language models (LLMs) for contextual retrieval.
+- **Vietnamese RAG Implementation**: Repository demonstrates Retrieval-Augmented Generation (RAG) best practices tailored for Vietnamese language processing using Python.
 
-- **Key Components**: Utilizes FAISS (Facebook AI Similarity Search) for efficient vector indexing and retrieval, with a modular architecture supporting customizable embedding models (e.g., `vinai/phobert-base`) and retrieval pipelines.
+- **Modular Architecture**: Includes components for document retrieval, embedding generation (e.g., using `sentence-transformers`), and LLM integration (e.g., `vllm` or `transformers`).
 
-- **Deployment-Ready**: Includes Dockerized setup
+- **Evaluation & Optimization**: Provides scripts for benchmarking retrieval performance (e.g., FAISS, BM25) and fine-tuning embeddings for V
 
 ## Use Cases
 

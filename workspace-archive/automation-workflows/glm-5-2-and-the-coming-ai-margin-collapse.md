@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by martinald. Score: 19, Comments: 4.
+Hacker News story by martinald. Score: 232, Comments: 153.
 Original Link: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/
 
 ## Use Cases

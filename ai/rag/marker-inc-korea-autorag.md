@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-07-07T04:10:41.907587+05:30'
+collected_at: '2026-07-07T09:50:38.096318+05:30'
 published_at: '2026-07-06T21:12:36Z'
 tags:
 - benchmark
+- dataset
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-07-02T03:46:39Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-07-07T04:10:41.907587+05:30'
-last_seen: '2026-07-07T04:10:41.907587+05:30'
-last_checked: '2026-07-07T04:10:41.907587+05:30'
+first_seen: '2026-07-07T09:50:38.096318+05:30'
+last_seen: '2026-07-07T09:50:38.096318+05:30'
+last_checked: '2026-07-07T09:50:38.096318+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: AutoRAG automates Retrieval-Augmented Generation (RAG) pipelines using AutoML techniques, optimizing retrieval, generation, and evaluation components without manual tuning.
+- **AutoML-Style RAG Optimization**: Implements automated hyperparameter tuning and pipeline optimization for RAG systems using a black-box optimization approach, reducing manual configuration overhead.
 
-- **Comprehensive RAG Evaluation**: Provides built-in benchmarks and metrics for assessing RAG systems, including document parsing, embedding quality, retrieval performance, and LLM response accuracy.
+- **Comprehensive RAG Evaluation Suite**: Provides built-in benchmarks and metrics (e.g., retrieval quality, generation coherence) for end-to-end RAG pipeline assessment across diverse datasets.
 
-- **Modular Python Framework**: Open-source toolkit with modular components for document parsing, embedding generation, retrieval strategies, and LLM integration, supporting end-to-end RAG pipeline automation.
+- **Modular Python Framework**: Supports custom document parsers, embedding models, and LLM backends with a unified API, enabling seamless integration into existing ML pipelines.
 
 ## Why It Matters
 

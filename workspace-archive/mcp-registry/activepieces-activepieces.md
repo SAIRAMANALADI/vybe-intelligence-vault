@@ -6,7 +6,7 @@ source_url: https://github.com/activepieces/activepieces
 resource_id: github:activepieces/activepieces
 local_vault_path: ai/rag/activepieces-activepieces.md
 quality_score: 70
-archive_score: 83
+archive_score: 79
 archive_tier: useful
 resource_kind: mcp-server
 importance: medium
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 83 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Open-source AI Workflow Automation Platform**: TypeScript-based framework (~400 MCP servers) enabling AI agents, workflow automation, and MCP (Model Context Protocol) integrations for AI-driven tasks.
+- **TypeScript-based AI workflow automation platform** supporting ~400 MCP servers for AI agents, enabling AI-driven workflows and agent interactions via standardized MCP protocols.
 
-- **No-Code AI Agent & Workflow Builder**: Alternative to n8n, offering drag-and-drop automation for AI agents with MCP tools, multi-agent orchestration, and prebuilt workflows.
+- **No-code automation alternative to n8n**, offering modular workflow composition with drag-and-drop functionality for AI agent orchestration and tool integration.
 
-- **Active Development & Ecosystem**: 23K+ stars, 3.8K+ forks, last updated July 2026, with rapid expansion of MCP
+- **Multi-protocol MCP ecosystem** (servers, tools, and frameworks) for AI agents, facilitating extensible automation across diverse AI/ML and enterpri
 
 ## Use Cases
 

@@ -6,7 +6,7 @@ source_url: https://github.com/Tencent/WeKnora
 resource_id: github:tencent/weknora
 local_vault_path: ai/rag/tencent-weknora.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -15,7 +15,6 @@ tags:
 - benchmark
 - github-repo
 - go
-- hackernews
 - meta-ai
 - models
 - openai
@@ -30,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Inference and Local LLM`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -38,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal LLM Knowledge Platform**: Converts raw documents into a **queryable RAG (Retrieval-Augmented Generation)**, **autonomous reasoning agent**, and **self-maintaining Wiki** with support for **multi-tenancy** and **multi-model** LLM integration (e.g., OpenAI, Ollama).
+- **Multi-modal Knowledge Platform**: Converts raw documents into a queryable RAG system, autonomous reasoning agent, and self-maintaining Wiki using Go, supporting embeddings, vector search, and semantic search.
 
-- **Technical Stack & Features**:
-  - **Backend**: Go-based architecture with **vector search**, **semantic search**, **reranking**, and **embeddings** for efficient document retrieval.
-  - **Functionality**: Enables *
+- **Agentic & Multi-tenant Architecture**: Integrates LLM agents, multi-model support (Ollama/OpenAI), reranking, and evaluation tools for scalable, tenant-aware knowledge management.
+
+- **Self-maintaining Wiki & RAG**: Automatically updates and maintains a Wiki while enabling retrieva
 
 ## Use Cases
 

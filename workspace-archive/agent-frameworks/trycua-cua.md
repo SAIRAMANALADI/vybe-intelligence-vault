@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Platform Agent Infrastructure**: Provides sandboxes, SDKs, and benchmarks for training/evaluating AI agents capable of full desktop control across macOS, Linux, and Windows.
+- **Cross-platform agent infrastructure**: Provides sandboxes, SDKs, and benchmarks for training/evaluating AI agents capable of full desktop control across macOS, Linux, and Windows.
 
-- **Technical Components**: Includes containerization (via Lume), virtualization frameworks (Apple Virtualization Framework, Windows Sandbox), and Swift-based tooling for agent development.
+- **Technical stack**: Utilizes containerization (via Lume) and virtualization frameworks (e.g., Apple's Virtualization Framework, Windows Sandbox) for isolated agent environments.
 
-- **Benchmarking & Automation**: Supports standardized evaluation of computer-use agents (CUAs) with focus on desktop automa
+- **Open-source tooling**: Includes Manus (Swift-based agent framework) and Operator (Python SDK) for agent development, with active
 
 ## Use Cases
 

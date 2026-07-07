@@ -4,9 +4,9 @@ Distribution of original signal ingestion sources across processed URLs:
 
 | Source Domain | Resource Count |
 | :--- | ---: |
-| arxiv | 4126 |
+| arxiv | 5331 |
 | huggingface | 885 |
-| github | 700 |
+| github | 702 |
 | nextjs.org | 67 |
 | react.dev | 23 |
 | support.google.com | 20 |
@@ -293,13 +293,11 @@ Distribution of original signal ingestion sources across processed URLs:
 | aimultiple.com | 2 |
 | confident-ai.com | 2 |
 | benchmarkingagents.com | 2 |
-| map.signalbox.io | 1 |
 | lttlabs.com | 1 |
-| kapa.ai | 1 |
 | martinalderson.com | 1 |
-| apollo.com | 1 |
-| ramp.com | 1 |
-| taiganet.com | 1 |
+| kapa.ai | 1 |
+| spectrum.ieee.org | 1 |
+| sparsethought.com | 1 |
 | verizon.com | 1 |
 | docs.microsoft.com | 1 |
 | pytorch.org | 1 |

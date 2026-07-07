@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-07T04:10:21.930076+05:30'
+collected_at: '2026-07-07T09:50:23.088204+05:30'
 published_at: '2026-06-30T08:00:12Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-07T04:10:21.930076+05:30'
-last_seen: '2026-07-07T04:10:21.930076+05:30'
-last_checked: '2026-07-07T04:10:21.930076+05:30'
+first_seen: '2026-07-07T09:50:23.088204+05:30'
+last_seen: '2026-07-07T09:50:23.088204+05:30'
+last_checked: '2026-07-07T09:50:23.088204+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI workflows, integrating vector search with LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based tutorials for Retrieval-Augmented Generation (RAG) and multimodal AI applications, integrating vector search with LLMs (e.g., GPT-4-Vision) for advanced use cases.
 
-- **Vector Database Recipes**: Demonstrates practical use cases of LanceDB (a vector database) for efficient similarity search, embeddings management, and fine-tuning in deep-learning pipelines.
+- **Vector Database Integration**: Demonstrates practical workflows using LanceDB (vector database) with frameworks like LangChain and LlamaIndex for efficient embedding storage, retrieval, and fine-tuning.
 
-- **Agent & LLM Integration**: Includes tutorials on deploying AI agents, leveraging OpenAI APIs, and optimizing multimodal embeddings for production-grade applications.
+- **Agent & LLM Optimization**: Includes examples for deploying AI agents, fine-tuning embeddings, and leveraging OpenAI models (e.g., GPT-4) in multimodal pipelines for real-world applications.
 
 ## Why It Matters
 

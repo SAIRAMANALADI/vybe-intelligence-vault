@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-07-07T00:48:49.870092+05:30'
-published_at: '2026-07-06T13:25:04Z'
+collected_at: '2026-07-07T09:51:58.135623+05:30'
+published_at: '2026-07-07T01:19:27Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
 - typescript
-stars: 8235
+stars: 8234
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-07-07T00:48:49.870092+05:30'
-last_seen: '2026-07-07T00:48:49.870092+05:30'
-last_checked: '2026-07-07T00:48:49.870092+05:30'
+first_seen: '2026-07-07T09:51:58.135623+05:30'
+last_seen: '2026-07-07T09:51:58.135623+05:30'
+last_checked: '2026-07-07T09:51:58.135623+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: GitMCP is an open-source, remote MCP server designed to mitigate "code hallucinations" by providing structured, real-time access to GitHub repositories for AI agents and LLMs.
+- **Purpose**: GitMCP is an open-source, remote MCP (Model Context Protocol) server designed to provide structured, real-time access to any GitHub repository, mitigating AI code hallucinations by ensuring accurate, context-aware interactions.
 
-- **Technical Stack**: Implemented in TypeScript, it enables seamless integration with agentic AI tools (e.g., Claude, Copilot, Cursor) via the MCP protocol for repository interaction.
+- **Technical Stack**: Implemented in TypeScript, GitMCP enables seamless integration with AI agents (e.g., Claude, Copilot, Cursor) by exposing GitHub project data via a standardized MCP interface for programmatic consumption.
 
-- **Functionality**: Acts as a bridge between AI systems and GitHub projects, allowing agents to fetch, analyze, and manipulate code/data without direct hallucinations from static snapshots.
+- **Features**: Supports repository-level operations (e.g., file retrieval, commit history, branch inspection) while maintaining low-latency performance, with last updates as of July 2026 and a growing community (8.2K+ stars, 731 forks).
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: idosal
-- Stars: 8235
+- Stars: 8234
 - Forks: 731
 - Language: TypeScript
 - Topics: agentic-ai, agents, ai, claude, copilot, cursor, git, llm, mcp
-- Last Updated: 2026-07-06T13:25:04Z
+- Last Updated: 2026-07-07T01:19:27Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-03-29T00:44:19Z

@@ -6,18 +6,19 @@ source_url: https://github.com/chaoql/rag-best-practices
 resource_id: github:chaoql/rag-best-practices
 local_vault_path: ai/rag/chaoql-rag-best-practices.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
 - hackernews
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # chaoql/rag-best-practices
@@ -25,17 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **RAG Implementation Guide**: Repository provides Python-based best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), covering retrieval, indexing, and generation optimization.
-- **Technical Focus**: Includes methodologies for efficient document retrieval, chunking strategies, embedding models, and prompt engineering tailored for RAG pipelines.
-- **Updated Tooling**: Last commit (2026-07-05) reflects cutting-edge techniques for integrating LLMs with external
+- **RAG Implementation Guide**: Repository provides technical best practices for integrating large language models (LLMs) with retrieval-augmented generation (RAG) architectures in Python.
+- **Optimization Techniques**: Focuses on retrieval strategies, embedding models, and prompt engineering to enhance LLM performance in knowledge-intensive tasks.
+- **Evaluation Framework**: Includes methodologies for assessing RAG system accuracy, latency, and robustness in production environments.
 
 ## Use Cases
 

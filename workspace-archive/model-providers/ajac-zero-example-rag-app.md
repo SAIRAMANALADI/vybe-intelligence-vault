@@ -6,13 +6,18 @@ source_url: https://github.com/ajac-zero/example-rag-app
 resource_id: github:ajac-zero/example-rag-app
 local_vault_path: ai/rag/ajac-zero-example-rag-app.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
-resource_kind: benchmark
-importance: high
+archive_score: 81
+archive_tier: useful
+resource_kind: tool
+importance: medium
 tags:
+- anthropic
 - github-repo
+- mistral
+- models
+- openai
 - rag
+- scripts
 - typescript
 selection_reason:
 - Strong keyword match
@@ -24,17 +29,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: tool
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **RAG Application**: Open-source Retrieval-Augmented Generation (RAG) app with full-stack observability via Langfuse, enabling monitoring and debugging of LLM interactions.
-- **Multi-Provider Support**: Integrates 100+ LLM providers through LiteLLM, ensuring compatibility with diverse model APIs while maintaining a unified interface.
-- **Production-Ready Features**: Dockerized deployment, TypeScript-based full type-checking, and 100% test coverage for reliability and scalability.
+- **Observability & Multi-Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for 100+ provider compatibility (e.g., OpenAI, Anthropic, Mistral) with structured logging and tracing.
+
+- **Strict TypeScript Enforcement**: Full type-checking via `tsc` and `type-coverage` tools, ensuring compile-time safety and runtime reliability in a Dockerized environment.
+
+- **Testing & CI/CD**: Achieves 100% test coverage with Jest/Playwright, automated via GitHub Actions for continuous va
 
 ## Use Cases
 

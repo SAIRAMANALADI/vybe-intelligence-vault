@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-07-07T04:12:27.028083+05:30'
+collected_at: '2026-07-07T09:52:23.222123+05:30'
 published_at: '2026-07-06T20:54:51Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - hackernews
 - python
 - rag
-- workflows
 stars: 6465
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-07-07T04:12:27.028083+05:30'
-last_seen: '2026-07-07T04:12:27.028083+05:30'
-last_checked: '2026-07-07T04:12:27.028083+05:30'
+first_seen: '2026-07-07T09:52:23.222123+05:30'
+last_seen: '2026-07-07T09:52:23.222123+05:30'
+last_checked: '2026-07-07T09:52:23.222123+05:30'
 health_score: 100
 ---
 
@@ -31,16 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source context retrieval layer designed to enhance AI agents by providing structured, real-time access to enterprise data via semantic search and retrieval-augmented generation (RAG).
+- **Purpose**: Open-source context retrieval layer designed to enhance AI agents by integrating enterprise data via semantic search and retrieval-augmented generation (RAG).
 
-- **Key Features**:
-  - Supports **semantic search**, **API integration**, and **data connectors** for enterprise databases, APIs, and unstructured data.
-  - Provides a **Python SDK** for seamless integration with LLM-based agents and retrieval workflows.
-  - Enables **low-latency context retrieval** with optimized indexing and query processing.
+- **Key Features**: Supports data connectors for enterprise systems, API-based semantic search, and retrieval pipelines optimized for LLM integration.
 
-- **Technical Stack**:
-  - Built in **Python** with modular architecture for extensibility.
-  - Supports **vector databases**, **hybrid search**, and **real-time indexing** for dynamic data sources.
+- **Technical Stack**: Python-based SDK with modular architecture for extensible data integration, search, and context augmentation.
 
 ## Why It Matters
 
@@ -50,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: airweave-ai
 - Stars: 6465
-- Forks: 814
+- Forks: 815
 - Language: Python
 - Topics: agent-infrastructure, ai, ai-agents, ai-infrastructure, api, context-retrieval, data-connectors, developer-tools, enterprise-data, information-retrieval, integration, llm, open-source, rag, retrieval, retrieval-augmented-generation, sdk, search, search-api, semantic-search
 - Last Updated: 2026-07-06T20:54:51Z

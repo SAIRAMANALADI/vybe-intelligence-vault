@@ -15,6 +15,7 @@ tags:
 - frontend_ui
 - github-repo
 - typescript
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized `Agent Skills` and best practices for programming languages (e.g., Kotlin, Go, Dart) and frameworks (e.g., React, Spring Boot, Laravel, NestJS), designed to guide AI agents in adhering to coding standards.
+- **Comprehensive Coding Standards Repository**: Hosts standardized best practices and guidelines for multiple programming languages (TypeScript, Kotlin, Go, etc.) and frameworks (React, Angular, Spring Boot, Laravel, etc.), enabling AI agents to adhere to structured coding conventions.
 
-- **Scope & Topics**: Covers 18+ languages/frameworks (Android, Angular, Flutter, iOS, Next.js, React Native) and includes `cursor-rules` for AI-assisted development, with structured guidelines for maintainable and scala
+- **Multi-Platform & Framework Support**: Covers mobile (Android, iOS, Flutter, React Native), web (React, Angular, Next.js, NestJS), and backend (Spring Boot, Laravel, Go) ecosystems, ensuring cross-platform co
 
 ## Use Cases
 

@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-07-07T04:11:41.942807+05:30'
+collected_at: '2026-07-07T09:51:43.189653+05:30'
 published_at: '2026-07-04T18:18:49Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-07-07T04:11:41.942807+05:30'
-last_seen: '2026-07-07T04:11:41.942807+05:30'
-last_checked: '2026-07-07T04:11:41.942807+05:30'
+first_seen: '2026-07-07T09:51:43.189653+05:30'
+last_seen: '2026-07-07T09:51:43.189653+05:30'
+last_checked: '2026-07-07T09:51:43.189653+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Implementation**: Provides production-grade examples for Retrieval-Augmented Generation (RAG) workflows, integrating vector databases, LLM inference, and serving layers using Ray for distributed computing.
-
-- **Multi-LLM Framework Support**: Demonstrates integration with Llama2, OpenAI, and Anyscale endpoints, including fine-tuning and inference optimization techniques for heterogeneous model architectures.
-
-- **Deployment & Scalability**: Includes Jupyter Notebooks for end-to-end deployment strategies, covering Ray Serve for scalable model serving, latency optimization, and CI/CD integration for LLM applications.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples leveraging Llama2, OpenAI, and Anyscale models.
+- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) and optimizing inference performance via Ray’s scalable serving infrastructure.
+- **End-to-End Deployment**: Provides templates for deploying LLM applications in production, covering retrieval, generation, and serving with Ray Serve and GPU acceleration.
 
 ## Why It Matters
 

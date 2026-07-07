@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by LabsLucas. Score: 250, Comments: 181.
+Hacker News story by LabsLucas. Score: 292, Comments: 214.
 Original Link: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo
 
 ## Use Cases

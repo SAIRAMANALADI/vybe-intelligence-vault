@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-07-07T04:11:26.949002+05:30'
+collected_at: '2026-07-07T09:51:28.161743+05:30'
 published_at: '2026-07-05T03:35:59Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-06-18T03:28:29Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-07-07T04:11:26.949002+05:30'
-last_seen: '2026-07-07T04:11:26.949002+05:30'
-last_checked: '2026-07-07T04:11:26.949002+05:30'
+first_seen: '2026-07-07T09:51:28.161743+05:30'
+last_seen: '2026-07-07T09:51:28.161743+05:30'
+last_checked: '2026-07-07T09:51:28.161743+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous SOC agent with skill-based architecture for monitoring OpenSearch/Elasticsearch data, integrating RAG for behavioral memory, and LLM-driven anomaly validation in real-time.
+- **Modular SOC Agent**: Python-based autonomous agent for Security Operations Centers (SOCs) with modular design, integrating OpenSearch/Elasticsearch for log monitoring and anomaly detection.
 
-- **Threat Detection Pipeline**: Combines retrieval-augmented generation (RAG) for contextual memory with LLM-based validation to identify and triage anomalies, enabling proactive threat hunting and SOC automation.
+- **RAG-Powered Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to build dynamic behavioral profiles, enabling contextual threat detection and real-time anomaly validation via LLMs.
 
-- **Deployment & Integration**: Supports OpenSearch/Elasticsearch data sources, modular skill expansion, and autonomous operation for SOC environments, with active development tracked via GitHub (251 stars, last updated July 2026).
+- **LLM-Validated Threat Detection**: Uses large language models (LLMs) to validate anomalies, combining skill-based automation with adaptive threat-hunting capabilities for SOC environments.
 
 ## Why It Matters
 

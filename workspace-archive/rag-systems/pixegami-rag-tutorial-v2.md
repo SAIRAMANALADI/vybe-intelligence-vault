@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates end-to-end RAG pipeline using local language models (e.g., Ollama) with LangChain, avoiding cloud API dependencies.
-- **Dynamic Database Updates**: Implements mechanisms for incremental vector database updates (e.g., Chroma) to reflect new or modified documents without full reindexing.
-- **Testing Framework**: Includes automated evaluation tools (e.g., RAGAS) for assessing retrieval quality, answer correctness, and latency in a reproducible manner.
+- **Local LLM Integration**: Demonstrates RAG implementation using locally hosted large language models (LLMs) via frameworks like Ollama or LM Studio, avoiding cloud dependencies.
+- **Dynamic Database Updates**: Implements automated vector database refresh mechanisms (e.g., ChromaDB) to incorporate new documents without manual intervention.
+- **Testing & Evaluation**: Includes unit tests and performance benchmarks (e.g., retrieval accuracy, latency) using tools like `pytest` and custom evaluati
 
 ## Use Cases
 

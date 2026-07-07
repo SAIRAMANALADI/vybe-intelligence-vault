@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-07T04:11:51.970927+05:30'
+collected_at: '2026-07-07T09:51:53.145219+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-07T04:11:51.970927+05:30'
-last_seen: '2026-07-07T04:11:51.970927+05:30'
-last_checked: '2026-07-07T04:11:51.970927+05:30'
+first_seen: '2026-07-07T09:51:53.145219+05:30'
+last_seen: '2026-07-07T09:51:53.145219+05:30'
+last_checked: '2026-07-07T09:51:53.145219+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: UniversalRAG introduces a unified retrieval-augmented generation (RAG) framework designed to handle diverse modalities (text, images, audio) and granularities (document, paragraph, sentence) within a single pipeline, leveraging modality-agnostic embeddings and retrieval mechanisms.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG to support diverse modalities (text, images, tables, etc.) and granularities (document-level to fine-grained spans), enabling unified retrieval-augmented generation across heterogeneous corpora.
 
-- **Key Innovation**: Implements a hierarchical retrieval strategy with modality-specific encoders (e.g., CLIP for vision, Whisper for audio) fused via a learned cross-modal attention module, enabling dynamic selection of retrieval granularity based on query complexity.
+- **Modality-Agnostic Retrieval & Fusion**: Implements a modality-agnostic encoder (e.g., unified embeddings) and fusion mechanism (cross-attention/late fusion) to dynamically integrate retrieved information from different sources into LLM generation.
 
-- **Evaluation & Performance**: Demonstrates state-of-the-art results on multimodal benchmarks (e.g., MM-RAG, MMLU-Pro) with a reported 12.4% improvement in answer accuracy over prior RAG systems while maintaining sub-500ms latency for end-to-end inference.
+- **Benchmark & Evaluation Suite**: Introduces a standardized benchmark (UniversalRAG-Bench) with diverse tasks (e.g., cross-modal QA, structured retrieval) and metrics to evaluate performance across modalities, granularities, and retrieval strategies.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-07-07T04:09:56.859595+05:30'
-published_at: '2026-07-06T22:18:20Z'
+collected_at: '2026-07-07T09:50:08.137021+05:30'
+published_at: '2026-07-07T04:04:24Z'
 tags:
 - github-repo
 - hackernews
@@ -13,17 +13,16 @@ tags:
 - models
 - python
 - rag
-- workflows
-stars: 9260
+stars: 9269
 language: Python
 status: active
 archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-06-05T08:29:26Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-07-07T04:09:56.859595+05:30'
-last_seen: '2026-07-07T04:09:56.859595+05:30'
-last_checked: '2026-07-07T04:09:56.859595+05:30'
+first_seen: '2026-07-07T09:50:08.137021+05:30'
+last_seen: '2026-07-07T09:50:08.137021+05:30'
+last_checked: '2026-07-07T09:50:08.137021+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Development Guide**: A full-stack technical resource covering Retrieval-Augmented Generation (RAG) implementation, integrating multiple frameworks (LangChain, LlamaIndex) and tools (Milvus, Neo4j) for AI application development.
+- **Comprehensive RAG Guide**: Provides a full-stack technical guide for developing RAG (Retrieval-Augmented Generation) applications with large models, covering theory to implementation.
 
-- **Multi-Model & Multimodal Support**: Includes implementations for advanced models (DeepSeek, Kimi-K2) and multimodal RAG pipelines, demonstrating end-to-end workflows from embedding to retrieval and generation.
+- **Toolchain Integration**: Supports multiple frameworks/languages (LangChain, LlamaIndex, Milvus, Neo4j, etc.) and models (DeepSeek, Kimi-K2) for embedding, retrieval, and multimodal processing in Python.
 
-- **Practical Python Implementations**: Provides open-source Python code examples, covering embedding techniques, vector databases (Milvus), and graph-based retrieval (Neo4j) for scalable RAG systems.
+- **Updated Resources**: Last modified in July 2026, ensuring alignment with current AI/ML advancements and practical deployment strategies.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 9260
-- Forks: 4605
+- Stars: 9269
+- Forks: 4614
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
-- Last Updated: 2026-07-06T22:18:20Z
+- Last Updated: 2026-07-07T04:04:24Z
 - Archived: No
 - Created At: 2025-06-05T08:12:35Z
 - Pushed At: 2026-06-05T08:29:26Z

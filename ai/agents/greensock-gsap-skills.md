@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/greensock/gsap-skills
-collected_at: '2026-07-07T04:12:37.005054+05:30'
-published_at: '2026-07-06T22:36:48Z'
+collected_at: '2026-07-07T09:52:38.232392+05:30'
+published_at: '2026-07-07T04:04:31Z'
 tags:
 - agents
 - animation
@@ -13,7 +13,7 @@ tags:
 - hackernews
 - unknown
 - workflows
-stars: 10985
+stars: 11005
 language: Unknown
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-04T17:22:35Z'
 pushed_at: '2026-04-21T23:47:09Z'
 resource_id: github:greensock/gsap-skills
-first_seen: '2026-07-07T04:12:37.005054+05:30'
-last_seen: '2026-07-07T04:12:37.005054+05:30'
-last_checked: '2026-07-07T04:12:37.005054+05:30'
+first_seen: '2026-07-07T09:52:38.232392+05:30'
+last_seen: '2026-07-07T09:52:38.232392+05:30'
+last_checked: '2026-07-07T09:52:38.232392+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **GSAP AI Skills Repository**: Provides structured training for AI agents to master GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration.
-- **Technical Focus**: Includes optimized workflows for complex animations, performance tuning, and adherence to GSAP’s core principles (e.g., `gsap.to()`, `gsap.from()`).
-- **Repository Metrics**: 10,985 stars, 653 forks; last updated July 6, 2026, with no explicit language tag but likely JavaScript/TypeScript-centric.
+- **GSAP AI Skills Repository**: Provides structured AI training for GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration to optimize AI-driven animation workflows.
+- **Technical Specifications**: Includes curated examples and patterns for efficient GSAP usage, enabling AI agents to generate high-performance animations with minimal overhead.
+- **Repository Metrics**: 11,005 stars, 653 forks, last updated July 7, 2026; language unspecified, focusing on AI skill development for GSAP.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: greensock
-- Stars: 10985
+- Stars: 11005
 - Forks: 653
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-06T22:36:48Z
+- Last Updated: 2026-07-07T04:04:31Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-04T17:22:35Z

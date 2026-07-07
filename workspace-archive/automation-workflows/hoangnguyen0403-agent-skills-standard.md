@@ -14,8 +14,6 @@ tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
-- reddit
 - typescript
 - workflows
 selection_reason:
@@ -36,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Purpose**: A curated TypeScript-based collection of standardized best practices and coding guidelines for AI agents, covering frameworks and languages such as Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot, and more.
+- **Comprehensive Coding Standards Repository**: Hosts standardized best practices and guidelines for multiple programming languages (TypeScript, Kotlin, Go, etc.) and frameworks (React, Angular, Spring Boot, Laravel, etc.), enabling AI agents to adhere to structured coding conventions.
 
-- **Technical Scope**: Encompasses agentic AI development, mobile (iOS/Android), frontend (React/Next.js), backend (NestJS/Spring Boot), and cross-platform (Flutter/React Native) with structured rules for consistency.
-
-- **Metadat
+- **Multi-Platform & Framework Support**: Covers mobile (Android, iOS, Flutter, React Native), web (React, Angular, Next.js, NestJS), and backend (Spring Boot, Laravel, Go) ecosystems, ensuring cross-platform co
 
 ## Use Cases
 

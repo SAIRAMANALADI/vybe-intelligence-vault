@@ -33,8 +33,8 @@ selection_reason:
 ## Summary
 
 - **WhatsApp Agent Framework**: Template for deploying AI agents on WhatsApp using LangGraph and Twilio, enabling message/image processing and graph-based agent invocation.
-- **Integration & Deployment**: Supports MCP integration and runs on the LangGraph Platform with Python-based implementation.
-- **Metadata**: 233 stars, 96 forks, last updated July 1, 2026.
+- **Integration & Deployment**: Supports MCP integration and runs on the LangGraph Platform, facilitating scalable agent interactions.
+- **Tech Stack**: Python-based, last updated July 2026, with 233 stars and 96 forks.
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-07-07T04:11:46.952797+05:30'
+collected_at: '2026-07-07T09:51:48.163559+05:30'
 published_at: '2026-07-06T14:07:18Z'
 tags:
 - benchmark
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-03-23T06:52:23Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-07-07T04:11:46.952797+05:30'
-last_seen: '2026-07-07T04:11:46.952797+05:30'
-last_checked: '2026-07-07T04:11:46.952797+05:30'
+first_seen: '2026-07-07T09:51:48.163559+05:30'
+last_seen: '2026-07-07T09:51:48.163559+05:30'
+last_checked: '2026-07-07T09:51:48.163559+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity → subgraph → full graph) and semantic aggregation to optimize context relevance for generation tasks.
-
-- **Efficiency Optimizations**: Uses lightweight graph traversal (e.g., pruning, caching) and modular retrieval pipelines to reduce latency while maintaining high accuracy in downstream generation.
-
-- **AAAI 2026 Benchmarking**: Evaluated on standard RAG benchmarks with improvements in factuality, coherence, and computational efficiency compared to baseline models (e.g., vanilla RAG, GraphRAG).
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (hierarchical) and semantic aggregation to enhance contextual relevance in generation tasks.
+- **Efficiency Optimizations**: Designed for low-latency inference with modular components, leveraging graph pruning and dynamic indexing for scalable performance.
+- **AAAI 2026 Benchmarking**: Evaluated on standard knowledge-intensive generation benchmarks, demonstrating superior factual accuracy and reduced hallucination rates compared to baseline RAG models.
 
 ## Why It Matters
 

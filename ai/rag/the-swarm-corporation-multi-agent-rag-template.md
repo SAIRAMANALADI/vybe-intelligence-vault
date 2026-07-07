@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-07-07T04:14:12.238472+05:30'
+collected_at: '2026-07-07T09:54:08.354291+05:30'
 published_at: '2026-06-07T13:03:16Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 stars: 58
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-07-07T04:14:12.238472+05:30'
-last_seen: '2026-07-07T04:14:12.238472+05:30'
-last_checked: '2026-07-07T04:14:12.238472+05:30'
+first_seen: '2026-07-07T09:54:08.354291+05:30'
+last_seen: '2026-07-07T09:54:08.354291+05:30'
+last_checked: '2026-07-07T09:54:08.354291+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent RAG Framework**: Implements a collaborative AI agent system using frameworks like CrewAI, AutoGen, and LangChain for document processing, analysis, and insight generation via Retrieval-Augmented Generation (RAG).
+- **Multi-Agent RAG Framework**: Implements a collaborative system of AI agents using frameworks like CrewAI, AutoGen, and LangChain to process, analyze, and generate insights from documents via Retrieval-Augmented Generation (RAG).
 
-- **Integration Stack**: Supports vector databases (ChromaDB, Pinecone, Weaviate) and LLM APIs (OpenAI GPT-3.5/4/5, Anthropic) for hybrid retrieval and generation workflows.
+- **Vector Database Integration**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate) for document embedding storage and retrieval, enabling efficient semantic search and context-aware responses.
 
-- **Deployment & Extensibility**: Includes Discord bot integration and modular agent roles, enabling scalable, customizable multi-agent RAG pipelines for enterprise or research use.
+- **Multi-Model & Multi-Tool Compatibility**: Designed to work with various LLM providers (OpenAI, Anthropic, GPT-3.5/4/5) and tools (Discord, Swarms) for dynamic agent collaboration and task delegation.
 
 ## Why It Matters
 

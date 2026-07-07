@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by emil_sorensen. Score: 23, Comments: 1.
+Hacker News story by emil_sorensen. Score: 67, Comments: 8.
 Original Link: https://www.kapa.ai/blog/how-we-prune-rag-context
 
 ## Use Cases

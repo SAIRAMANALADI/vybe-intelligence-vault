@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-07-07T04:11:16.978953+05:30'
-published_at: '2026-07-02T18:18:03Z'
+collected_at: '2026-07-07T09:51:18.245377+05:30'
+published_at: '2026-07-07T00:17:48Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
-- workflows
-stars: 294
+stars: 295
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-07-07T04:11:16.978953+05:30'
-last_seen: '2026-07-07T04:11:16.978953+05:30'
-last_checked: '2026-07-07T04:11:16.978953+05:30'
+first_seen: '2026-07-07T09:51:18.245377+05:30'
+last_seen: '2026-07-07T09:51:18.245377+05:30'
+last_checked: '2026-07-07T09:51:18.245377+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **CRAG**: A comprehensive benchmark suite designed to evaluate Retrieval-Augmented Generation (RAG) systems across diverse tasks, metrics, and datasets.
-- **Implementation**: Provided as Jupyter Notebooks, enabling reproducible experimentation and analysis of RAG performance in Python-based workflows.
-- **Scope**: Covers multiple dimensions of RAG evaluation, including factuality, robustness, and efficiency, with standardized evaluation protocols.
+- **Benchmark Framework**: CRAG is a comprehensive benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems, providing standardized metrics and datasets for performance assessment.
+- **Technical Stack**: Implemented primarily in Jupyter Notebooks, leveraging Python-based evaluation pipelines for modular and reproducible testing.
+- **Evaluation Scope**: Focuses on assessing RAG pipelines across diverse tasks, including factuality, hallucination detection, and contextual relevance under varying retrieval conditions.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: facebookresearch
-- Stars: 294
+- Stars: 295
 - Forks: 35
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-07-02T18:18:03Z
+- Last Updated: 2026-07-07T00:17:48Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-03-08T00:05:15Z

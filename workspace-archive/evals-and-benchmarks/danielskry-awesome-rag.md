@@ -6,17 +6,18 @@ source_url: https://github.com/Danielskry/Awesome-RAG
 resource_id: github:danielskry/awesome-rag
 local_vault_path: ai/rag/danielskry-awesome-rag.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
 - rag
 - unknown
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # Danielskry/Awesome-RAG
@@ -24,17 +25,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Curated RAG Applications**: Repository aggregates a comprehensive list of Retrieval-Augmented Generation (RAG) applications in Generative AI, spanning diverse use cases and implementations.
-- **Active Maintenance**: Last updated in July 2026, ensuring relevance with ongoing updates to the rapidly evolving RAG landscape.
-- **Community-Driven Resource**: Hosted on GitHub with 1.3K stars and 164 forks, indicating strong community engagement and collaborative contributions.
+- **Curated RAG Applications**: Comprehensive repository listing production-grade Retrieval-Augmented Generation (RAG) implementations across domains (e.g., chatbots, QA systems, code assistants) with focus on scalability and deployment efficiency.
+- **Multi-Tenant Architecture Support**: Includes RAG frameworks optimized for enterprise use cases (e.g., vector databases like Pinecone/Weaviate, hybrid search, and dynamic prompt engineering).
+- **Benchmarking & Evaluation Tools**: Provides standar
 
 ## Use Cases
 

@@ -4,16 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/reworkd/AgentGPT
-collected_at: '2026-07-07T04:13:17.063971+05:30'
-published_at: '2026-07-06T18:14:11Z'
+collected_at: '2026-07-07T09:53:13.287919+05:30'
+published_at: '2026-07-07T02:32:18Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - openai
 - rag
 - typescript
-stars: 36254
+stars: 36256
 language: TypeScript
 status: active
 license: GPL-3.0
@@ -21,9 +22,9 @@ archived: true
 created_at: '2023-04-07T02:29:19Z'
 pushed_at: '2025-04-29T01:19:32Z'
 resource_id: github:reworkd/agentgpt
-first_seen: '2026-07-07T04:13:17.063971+05:30'
-last_seen: '2026-07-07T04:13:17.063971+05:30'
-last_checked: '2026-07-07T04:13:17.063971+05:30'
+first_seen: '2026-07-07T09:53:13.287919+05:30'
+last_seen: '2026-07-07T09:53:13.287919+05:30'
+last_checked: '2026-07-07T09:53:13.287919+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous AI Agent Deployment**: Browser-based platform enabling users to assemble, configure, and deploy autonomous AI agents without local setup.
-- **Tech Stack**: Built with TypeScript, leveraging Next.js (T3 Stack), LangChain, and OpenAI's LLM for agent orchestration and natural language processing.
-- **Integration & Extensibility**: Supports modular agent configurations, integrates with BabyAGI and AutoGPT patterns, and is optimized for rapid iteration via GitHub updates.
+- **Browser-based Autonomous AI Agents**: Enables users to assemble, configure, and deploy autonomous AI agents directly in the browser, leveraging modern web technologies.
+
+- **Tech Stack**: Built with **TypeScript**, **Next.js** (T3 Stack), and integrates **LangChain** for LLM orchestration, with compatibility for **OpenAI** models and frameworks like **BabyAGI**.
+
+- **Key Features**: Supports agent customization, real-time deployment, and modular AI agent development, with a focus on scalability and ease of integration.
 
 ## Why It Matters
 
@@ -42,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: reworkd
-- Stars: 36254
+- Stars: 36256
 - Forks: 9305
 - Language: TypeScript
 - Topics: agent, agentgpt, agents, agi, ai, ai-agents, autogpt, baby-agi, gpt, langchain, llm, next, openai, t3, t3-stack
-- Last Updated: 2026-07-06T18:14:11Z
+- Last Updated: 2026-07-07T02:32:18Z
 - License: GPL-3.0
 - Archived: Yes
 - Created At: 2023-04-07T02:29:19Z
