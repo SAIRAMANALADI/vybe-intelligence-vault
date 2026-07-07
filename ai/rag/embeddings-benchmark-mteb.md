@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/embeddings-benchmark/mteb
-collected_at: '2026-06-25T23:00:08.551080+05:30'
-published_at: '2026-06-25T16:38:24Z'
+collected_at: '2026-07-07T15:39:23.811298+05:30'
+published_at: '2026-07-07T05:32:16Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - python
 - rag
-stars: 3319
+stars: 3343
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2022-04-05T08:25:47Z'
-pushed_at: '2026-06-25T16:37:33Z'
+pushed_at: '2026-07-06T10:53:34Z'
 resource_id: github:embeddings-benchmark/mteb
-first_seen: '2026-06-25T23:00:08.551080+05:30'
-last_seen: '2026-06-25T23:00:08.551080+05:30'
-last_checked: '2026-06-25T23:00:08.551080+05:30'
+first_seen: '2026-07-07T15:39:23.811298+05:30'
+last_seen: '2026-07-07T15:39:23.811298+05:30'
+last_checked: '2026-07-07T15:39:23.811298+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: MTEB (Massive Text Embedding Benchmark) provides a standardized framework for evaluating text embeddings across diverse tasks including retrieval, clustering, classification, and reranking, supporting multilingual and multimodal scenarios.
-
-- **Task Coverage**: Includes 58 datasets spanning 112 languages, with tasks like bitext mining, semantic textual similarity (STS), and low-resource NLP, enabling comprehensive performance assessment of embedding models.
-
-- **Integration & Tools**: Supports Sentence-BERT (SBERT) and Sentence-Transformers, offering tools for easy evaluation and comparison of state-of-the-art embedding models across modalities and languages.
+- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across 58 datasets spanning 11 tasks (e.g., retrieval, clustering, STS) in 12+ languages, supporting both monolingual and multilingual settings.
+- **Modality Support**: Extends evaluation to multimodal embeddings (text + image) via specialized tasks like image-text retrieval and cross-modal similarity.
+- **Standardized Framework**: Provides a unified Python API for consistent benchmarking of models (e.g., Sentence-BERT, SBERT) with metrics like nDCG, MAP, and cluster purity.
 
 ## Why It Matters
 
@@ -43,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: embeddings-benchmark
-- Stars: 3319
-- Forks: 628
+- Stars: 3343
+- Forks: 632
 - Language: Python
 - Topics: benchmark, bitext-mining, clustering, embeddings, evaluation, information-retrieval, low-resource-nlp, mteb, multilingual-nlp, multimodal, neural-search, reranking, retrieval, sbert, semantic-search, sentence-transformers, sts, text-classification, text-embedding
-- Last Updated: 2026-06-25T16:38:24Z
+- Last Updated: 2026-07-07T05:32:16Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2022-04-05T08:25:47Z
-- Pushed At: 2026-06-25T16:37:33Z
+- Pushed At: 2026-07-06T10:53:34Z
 
 ## Possible Use Cases
 

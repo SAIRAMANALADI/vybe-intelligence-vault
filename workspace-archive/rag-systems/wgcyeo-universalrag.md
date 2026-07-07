@@ -13,6 +13,7 @@ importance: medium
 tags:
 - benchmark
 - github-repo
+- models
 - python
 - rag
 selection_reason:
@@ -33,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG to support diverse modalities (text, images, tables, etc.) and granularities (document-level to fine-grained spans), enabling unified retrieval-augmented generation across heterogeneous corpora.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (documents, paragraphs, entities) without modality-specific fine-tuning.
 
-- **Modality-Agnostic Retrieval & Fusion**: Implements a modality-agnostic encoder (e.g., unified embeddings) and fusion mechanism (cross-attention/late fusion) to dynamically integrate retrieved information from di
+- **Unified Retrieval Mechanism**: Proposes a modality-agnostic retrieval system leveraging cross-modal embeddings and hierarchical indexing to dynamically select and fuse relevant information from heterogeneous corpora.
+
+- **ACL 2026 Oral Con
 
 ## Use Cases
 

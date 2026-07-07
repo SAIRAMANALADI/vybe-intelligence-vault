@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datarobot-community/datarobot-agent-templates
-collected_at: '2026-07-07T09:54:03.391100+05:30'
+collected_at: '2026-07-07T15:37:24.854933+05:30'
 published_at: '2026-07-04T08:01:20Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
 - rag
+- scripts
 - workflows
 stars: 20
 language: Python
@@ -23,9 +23,9 @@ archived: false
 created_at: '2025-05-14T14:40:53Z'
 pushed_at: '2026-07-01T08:08:35Z'
 resource_id: github:datarobot-community/datarobot-agent-templates
-first_seen: '2026-07-07T09:54:03.391100+05:30'
-last_seen: '2026-07-07T09:54:03.391100+05:30'
-last_checked: '2026-07-07T09:54:03.391100+05:30'
+first_seen: '2026-07-07T15:37:24.854933+05:30'
+last_seen: '2026-07-07T15:37:24.854933+05:30'
+last_checked: '2026-07-07T15:37:24.854933+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides pre-built agentic workflow templates for DataRobot, integrating frameworks like CrewAI, LangGraph, and LlamaIndex to automate AI-driven tasks.
-- **Technical Stack**: Implemented in Python, leveraging LLM orchestration tools (e.g., LangGraph) and vector databases (e.g., LlamaIndex) for agentic workflows.
-- **Integration**: Designed to extend DataRobot’s capabilities by enabling multi-agent collaboration via templates for agentic AI workflows.
+- **Agentic Workflow Templates**: Repository provides pre-built templates for agentic workflows integrating DataRobot with frameworks like CrewAI, LangGraph, and LlamaIndex for LLM-driven automation.
+
+- **Multi-Framework Support**: Python-based templates leverage LangGraph for stateful workflows, CrewAI for collaborative agent systems, and LlamaIndex for RAG pipelines, optimized for DataRobot's ML deployment.
+
+- **Community-Driven**: Lightweight repository (20⭐, 12🍴) with last update in July 2026, focusing on modular agentic workflows for enterprise AI orchestration.
 
 ## Why It Matters
 

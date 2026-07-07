@@ -15,17 +15,17 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
 - [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (framework - USEFUL Tier)
 - [Postman Inc. · GitHub](https://github.com/postmanlabs) (framework - USEFUL Tier)
-- [microsoft/rag-time](https://github.com/microsoft/rag-time) (benchmark - USEFUL Tier)
+- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [github/roadmap](https://github.com/github/roadmap)
 - [Postman Inc. · GitHub](https://github.com/postmanlabs)
+- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 - [microsoft/rag-time](https://github.com/microsoft/rag-time)
+- [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe)
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
-- [The-Pocket/PocketFlow-Template-Python](https://github.com/The-Pocket/PocketFlow-Template-Python)
-- [iamshaunjp/framer-motion](https://github.com/iamshaunjp/framer-motion)
 
 ## Best Learning Resources
 
@@ -41,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-07-07 09:55 IST*
+*Last updated: 2026-07-07 15:49 IST*

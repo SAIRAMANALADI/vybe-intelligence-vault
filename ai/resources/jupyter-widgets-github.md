@@ -4,17 +4,18 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/jupyter-widgets
-published_at: '2026-06-25T16:42:10.528918+05:30'
-collected_at: '2026-06-25T16:42:10.528927+05:30'
+published_at: '2026-07-07T15:40:04.814825+05:30'
+collected_at: '2026-07-07T15:40:04.814837+05:30'
 tags:
+- dataset
 - reddit
 - threejs
 - web-crawled
 status: active
 resource_id: blog:jupyter-widgets-github
-first_seen: '2026-06-25T16:42:10.528927+05:30'
-last_seen: '2026-06-25T16:42:10.528927+05:30'
-last_checked: '2026-06-25T16:42:10.528927+05:30'
+first_seen: '2026-07-07T15:40:04.814837+05:30'
+last_seen: '2026-07-07T15:40:04.814837+05:30'
+last_checked: '2026-07-07T15:40:04.814837+05:30'
 health_score: 100
 ---
 
@@ -22,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **ipywidgets**: Primary TypeScript-based framework for creating interactive widgets in Jupyter Notebooks, with 3.3k+ stars, BSD-3-Clause license, and 721 open issues (including labeled help requests).
+- **ipywidgets**: Primary framework for interactive widgets in Jupyter Notebooks, implemented in TypeScript with BSD-3-Clause licensing, supporting 3.3k+ stars and 973+ forks.
 
-- **ipyleaflet**: Jupyter-Leaflet.js bridge enabling geospatial visualization in notebooks, written in TypeScript, MIT-licensed, with 1.5k+ stars and 269 open issues.
+- **ipyleaflet**: Jupyter-Leaflet.js bridge enabling geospatial visualization, written in TypeScript with MIT license, featuring 1.5k+ stars and 362+ forks.
 
-- **jupyterlab-sidecar**: TypeScript-based JupyterLab extension providing sidecar output widgets for enhanced UI integration, BSD-3-Clause licensed, with 264 stars and active development (last updated Apr 2026).
+- **ipydatagrid**: High-performance datagrid widget for Jupyter environments, TypeScript-based with BSD-3-Clause licensing, 641+ stars and optimized for large datasets.
 
 ## Why It Matters
 
@@ -36,10 +37,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-25T16:42:10.528918+05:30
+- Published: 2026-07-07T15:40:04.814825+05:30
 
 ## Related Tags
 
+- dataset
 - reddit
 - threejs
 - web-crawled

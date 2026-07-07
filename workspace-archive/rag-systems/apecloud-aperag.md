@@ -6,15 +6,16 @@ source_url: https://github.com/apecloud/ApeRAG
 resource_id: github:apecloud/aperag
 local_vault_path: ai/rag/apecloud-aperag.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
-resource_kind: dataset
-importance: high
+archive_score: 77
+archive_tier: useful
+resource_kind: workflow
+importance: medium
 tags:
 - agents
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -25,19 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Multi-modal indexing & GraphRAG**: Implements a production-ready GraphRAG system with support for multi-modal data (text, images, etc.) and knowledge graph integration for enhanced contextual retrieval.
-
-- **AI agents & MCP integration**: Incorporates AI agents for autonomous task execution and supports Model Context Protocol (MCP) for standardized multi-model interactions and tool orchestration.
-
-- **Scalable K8s deployment**: Designed for Kubernetes-based scaling with containerized deploym
+- **Multi-modal indexing**: Supports structured (knowledge graphs) and unstructured (text, images) data integration for GraphRAG pipelines.
+- **AI agents & MCP integration**: Enables autonomous agent workflows with Model Context Protocol (MCP) for dynamic tool orchestration.
+- **Scalable K8s deployment**: Optimized for Kubernetes with Helm charts for horizontal scaling and production-grade reliability.
 
 ## Use Cases
 

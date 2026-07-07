@@ -23,6 +23,6 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [Haystack Enterprise Platform Trial | Sign Up](https://www.deepset.ai/deepset-studio) | `mcp-registry/` | 70 |
 | [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) | `mcp-registry/` | 70 |
 | [Cloud developer documentation - Atlassian Developer](https://developer.atlassian.com/docs) | `mcp-registry/` | 70 |
-| [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | `mcp-registry/` | 70 |
+| [Pinecone · GitHub](https://github.com/pinecone-io) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

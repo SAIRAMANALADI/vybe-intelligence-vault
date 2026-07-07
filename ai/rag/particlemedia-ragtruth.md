@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-07-07T09:50:08.105136+05:30'
-published_at: '2026-06-29T06:24:27Z'
+collected_at: '2026-07-07T15:33:19.609231+05:30'
+published_at: '2026-07-07T08:27:57Z'
 tags:
 - benchmark
 - dataset
@@ -13,7 +13,7 @@ tags:
 - hackernews
 - python
 - rag
-stars: 256
+stars: 257
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-07-07T09:50:08.105136+05:30'
-last_seen: '2026-07-07T09:50:08.105136+05:30'
-last_checked: '2026-07-07T09:50:08.105136+05:30'
+first_seen: '2026-07-07T15:33:19.609231+05:30'
+last_seen: '2026-07-07T15:33:19.609231+05:30'
+last_checked: '2026-07-07T15:33:19.609231+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and categorizing hallucinations in generated outputs.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs.
 
-- **Technical Scope**: Contains Python-based tools for generating, annotating, and benchmarking hallucinations in RAG systems, leveraging structured datasets to simulate real-world retrieval inaccuracies and model confabulations.
+- **Technical Scope**: Provides a structured dataset with annotated hallucinations, enabling fine-grained analysis of RAG model failures across retrieval and generation stages, implemented in Python for accessibility and extensibility.
 
-- **Evaluation Framework**: Provides metrics and methodologies for quantifying hallucination rates, enabling systematic assessment of RAG model reliability and mitigation strategies against false or unsupported claims.
+- **Benchmark Utility**: Serves as a standardized benchmark for assessing hallucination mitigation techniques, with version control (last updated July 2026) ensuring relevance for ongoing research in trustworthy AI systems.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ParticleMedia
-- Stars: 256
+- Stars: 257
 - Forks: 32
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-29T06:24:27Z
+- Last Updated: 2026-07-07T08:27:57Z
 - License: MIT
 - Archived: No
 - Created At: 2023-12-26T05:41:01Z

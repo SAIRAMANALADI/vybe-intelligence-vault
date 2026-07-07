@@ -6,9 +6,9 @@ source_url: https://platform.openai.com/docs/guides/embeddings
 resource_id: blog:vector-embeddings-openai-api
 local_vault_path: ai/rag/vector-embeddings-openai-api.md
 quality_score: 70
-archive_score: 72
+archive_score: 70
 archive_tier: useful
-resource_kind: prompt
+resource_kind: dataset
 importance: medium
 tags:
 - benchmark
@@ -19,7 +19,6 @@ tags:
 - rag
 - web-crawled
 selection_reason:
-- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -28,17 +27,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
 - Selection reasons:
-  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Model Specifications**: `text-embedding-3-small` (1536-dim, 62.5k pages/$) and `text-embedding-3-large` (3072-dim, 9.6k pages/$) offer reduced costs, improved multilingual performance, and adjustable dimensionality via the `dimensions` parameter, outperforming `text-embedding-ada-002` (61.0% vs. 62.3%/64.6% on MTEB benchmark).
+- **New Models & Performance**: `text-embedding-3-small` (1536D, 62.5k pages/$) and `text-embedding-3-large` (3072D, 9.6k pages/$) offer lower costs, higher multilingual performance, and dimensionality control via the `dimensions` parameter, outperforming `text-embedding-ada-002` (61.0% vs 64.6% on MTEB benchmark).
 
-- **Embedding Mechanics**: Embeddings are floating-point vectors where cosine similarity/distance quantifies text relatedness; default dimensions (1536/3072) can be t
+- **Embedding Mechanics**: Text strings are converted to floating-point vectors (default 1536D/3072D) where cosine distance measures semantic relatedness; dimensions can be reduced (
 
 ## Use Cases
 

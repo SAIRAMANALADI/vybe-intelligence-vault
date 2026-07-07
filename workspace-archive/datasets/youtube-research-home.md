@@ -6,10 +6,10 @@ source_url: https://research.youtube/
 resource_id: blog:youtube-research-home
 local_vault_path: ai/resources/youtube-research-home.md
 quality_score: 70
-archive_score: 74
+archive_score: 84
 archive_tier: useful
 resource_kind: dataset
-importance: medium
+importance: high
 tags:
 - dataset
 - hackernews
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 84 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -34,8 +34,8 @@ selection_reason:
 ## Summary
 
 - **Scaled Data Access**: Researchers receive extensive quota-limited access to YouTube’s public data corpus for in-depth analysis.
-- **Global Insights & Support**: Participants can derive insights from worldwide YouTube datasets while receiving technical guidance from YouTube’s team.
-- **Eligibility & Policies**: Researchers must confirm eligibility and comply with program policies outlined in the provided documentation before applying.
+- **Global Insights & Support**: Participants can derive insights from worldwide YouTube datasets with technical guidance and support from YouTube’s team.
+- **Eligibility & Policies**: Researchers must confirm eligibility and adhere to program policies outlined on the official YouTube Researcher Program portal.
 
 ## Use Cases
 

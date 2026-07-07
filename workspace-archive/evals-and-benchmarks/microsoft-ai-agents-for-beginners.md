@@ -16,7 +16,6 @@ tags:
 - hackernews
 - jupyter notebook
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational Repository**: Provides 12 structured lessons for beginners to learn AI agent development using frameworks like **AutoGen** and **Semantic Kernel**.
-- **Technical Focus**: Covers **agentic AI**, **RAG (Retrieval-Augmented Generation)**, and **multi-agent systems** with hands-on Jupyter Notebook examples.
-- **Microsoft Ecosystem**: Integrates with **Microsoft’s AI agent frameworks** and tools for generative AI workflows.
+- **Curriculum Structure**: 12-lesson Jupyter Notebook-based course teaching foundational to advanced concepts in building AI agents, covering agentic AI, frameworks (Autogen, Semantic Kernel), and RAG (Retrieval-Augmented Generation) integration.
+
+- **Technical Topics**: Focuses on agentic AI principles, multi-agent orchestration, tool-use in agents, and integration with generative AI models, with hands-on implementations in Python.
+
+- **Ecosystem Tools**: Utilizes Microsoft’s AI agent framewor
 
 ## Use Cases
 

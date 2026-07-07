@@ -8,7 +8,7 @@ local_vault_path: ai/rag/apecloud-aperag.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Multi-modal indexing**: Supports text, structured/unstructured data, and embeddings with graph-based retrieval for contextual AI responses.
-- **AI agents & MCP integration**: Enables autonomous agents with Model Context Protocol (MCP) for dynamic tool usage and workflow orchestration.
-- **Scalable K8s deployment**: Containerized architecture with Kubernetes support for horizontal scaling, fault tolerance, and production-grade orchestration.
+- **Multi-modal indexing**: Supports structured (knowledge graphs) and unstructured (text, images) data integration for GraphRAG pipelines.
+- **AI agents & MCP integration**: Enables autonomous agent workflows with Model Context Protocol (MCP) for dynamic tool orchestration.
+- **Scalable K8s deployment**: Optimized for Kubernetes with Helm charts for horizontal scaling and production-grade reliability.
 
 ## Use Cases
 

@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Modular framework (105k ⭐) for chaining LLM components, supporting flexible model integration, retrieval pipelines, and evaluation tools via Python (`pip install -U langchain`).
-- **Milvus**: High-performance vector database (33.9k ⭐) optimized for ANN search, hybrid queries, and multi-modal embeddings, scalable to billions of vectors with distributed cluster support.
-- **LlamaIndex**: Data framework (40.8k ⭐) bridging LLMs to private data via 300+ integrations, enabling custom
+- **LangChain**: Modular framework (105k ⭐) for chaining LLM components, offering data connectors, model flexibility, retrieval pipelines, and evaluation tools for RAG systems.
+- **RAGFlow**: Open-source RAG engine (48.5k ⭐) with deep document parsing (tables, layouts), GraphRAG support, and visual web interface for structured retrieval from complex documents.
+- **Milvus**: High-performance vector database (33.9k ⭐) optimized for ANN search, hybrid querying, and scalable multi-modal embeddings,
 
 ## Use Cases
 

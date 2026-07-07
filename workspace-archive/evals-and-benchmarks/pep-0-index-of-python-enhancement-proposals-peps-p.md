@@ -2,7 +2,7 @@
 title: PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://peps.python.org/
+source_url: https://peps.python.org
 resource_id: blog:pep-0-index-of-python-enhancement-proposals-peps-p
 local_vault_path: ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md
 quality_score: 70
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **PEP Indexing System**: PEPs are assigned immutable numbers by editors, with version-controlled historical records maintained in a GitHub repository; PEPs are categorized by status (e.g., Accepted, Finished, Rejected) and topic (e.g., Governance, Packaging, Typing).
+- **PEP Indexing System**: PEPs are assigned unique, immutable numbers by PEP editors, with version-controlled historical records maintained in GitHub; PEPs are categorized by status (e.g., Accepted, Finished, Rejected) and topic (e.g., Governance, Packaging, Typing).
 
-- **PEP Metadata API**: A JSON-based [PEPS API](https://peps.python.org/api/peps.json) provides structured metadata for all published PEPs, enabling programmatic access to PEP details, statuses, and categorizations.
+- **PEP Metadata API**: A JSON-based [PEPS API](https://peps.python.org/api/peps.json) provides structured metadata for all published PEPs, enabling programmatic access to PEP details, statuses, and authors.
 
-- **PEP Cate
+- **PEP Categories &
 
 ## Use Cases
 
@@ -50,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://peps.python.org/
+Original source URL: https://peps.python.org
 
 ## Local Vault File
 

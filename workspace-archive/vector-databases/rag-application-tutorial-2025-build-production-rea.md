@@ -38,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking (optimized for context retention), vector embeddings (using models like `all-MiniLM-L6-v2`), and retrieval via Supabase vector DB with hybrid search (dense + sparse) for precision.
+- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like hybrid search combining dense/sparse retrieval), and vector storage (e.g., Supabase) for efficient retrieval during generation.
 
-- **Production Optimization**: Implements caching (e.g., Redis for repeated queries), load balancing across multiple LLM instances, and Cloudflare Workers for edge deployment to reduce latency and cost.
-
-- **Monitoring & Scalability**: Integra
+- **Production Optimization**: Critical factors include latency reduction (via caching strategies and load balancing), token usage optimization (balancing cost/performance trade-offs), and observability integration (e.g., Sentry for monitoring
 
 ## Use Cases
 

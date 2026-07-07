@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.jupyter.org
-published_at: '2026-06-25T20:52:04.098640+05:30'
-collected_at: '2026-06-25T20:52:04.098655+05:30'
+published_at: '2026-07-07T15:38:29.782997+05:30'
+collected_at: '2026-07-07T15:38:29.783011+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:project-jupyter-documentation-jupyter-documentatio
-first_seen: '2026-06-25T20:52:04.098655+05:30'
-last_seen: '2026-06-25T20:52:04.098655+05:30'
-last_checked: '2026-06-25T20:52:04.098655+05:30'
+first_seen: '2026-07-07T15:38:29.783011+05:30'
+last_seen: '2026-07-07T15:38:29.783011+05:30'
+last_checked: '2026-07-07T15:38:29.783011+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Jupyter ecosystem**: A modular, extensible framework centered around interactive computing with computational notebooks, supporting code execution, rich visualizations, and narrative text in a single document format.
+- **Jupyter ecosystem**: A modular framework centered around interactive computing, primarily using computational notebooks (e.g., Jupyter Notebook, JupyterLab) that integrate code, visualizations, and narrative text in a single document.
 
-- **Core components**: Includes Jupyter Notebook (lightweight), JupyterLab (feature-rich IDE-like interface), kernels (e.g., IPython, IRkernel, IJulia), and tools for notebook lifecycle management (nbconvert, nbclient, nbformat).
+- **Sub-projects & Kernels**: Includes specialized tools like `nbconvert` (conversion), `nbclient` (execution), `JupyterHub` (multi-user deployment), and language-specific kernels (e.g., IPython, IRkernel, IJulia) for polyglot computing.
 
-- **Sub-projects & deployment**: Encompasses JupyterHub (multi-user server), nbgrader (grading), Voilà (dashboarding), widgets (ipywidgets), and deployment options like Docker/Kubernetes via Jupyter Enterprise Gateway.
+- **Architecture & Standards**: Defined by the `nbformat` specification for notebook structure, `jupyter-client` for messaging protocols, and modular components like `jupyter-server` and `jupyterlab-server` for extensibility and deployment.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-25T20:52:04.098640+05:30
+- Published: 2026-07-07T15:38:29.782997+05:30
 
 ## Related Tags
 

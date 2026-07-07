@@ -15,7 +15,6 @@ tags:
 - github-repo
 - models
 - openai
-- scripts
 - unknown
 - workflows
 selection_reason:
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated directory of autonomous AI agents**: Repository listing 28K+ curated tools, frameworks, and libraries for building AI agents, including AutoGPT, BabyAGI, GPT-Engineer, and Copilot variants.
+- **Curated Collection**: Repository hosting a structured, community-driven list of autonomous AI agents, frameworks, and tools (e.g., AutoGPT, BabyAGI, GPT-Engineer) for research and development in AI agent systems.
 
-- **Multi-language support**: Primarily Python-based, with integrations for OpenAI's GPT-3.5/4 and other LLM APIs, enabling agentic workflows like task automation, code generation, and autonomous decision-making.
+- **Multi-Topic Scope**: Covers Python-based implementations, OpenAI/GPT-4 integrations, and tools like Copilot, emphasizing autonomous agent architectures, artificial intelligence, and agentic workflows.
 
-- **Actively maintained resource**: Last updated July 2026, featuring 3.1K+ forks a
+- **High Activity Metrics**: Maintains 28.6K+ stars and 3.1K+ forks (as of J
 
 ## Use Cases
 

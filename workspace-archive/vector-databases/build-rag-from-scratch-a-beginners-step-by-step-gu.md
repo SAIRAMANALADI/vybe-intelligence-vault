@@ -7,15 +7,16 @@ source_url: https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-ste
 resource_id: blog:build-rag-from-scratch-a-beginners-step-by-step-gu
 local_vault_path: ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 tags:
 - openai
 - rag
 - web-crawled
 selection_reason:
+- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -24,14 +25,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: prompt
 - Selection reasons:
+  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-Build RAG From Scratch: A Beginner’s Step-by-Step GuideVivek Malhan4 min read·Dec 27, 2025--ListenSharePress enter or click to view image in full sizeMost AI demos look impressive — until you try to use them in production.They hallucinate. They guess...
+- **RAG Pipeline**: Implements a retrieval-augmented generation system using LangChain, FAISS for vector storage, and OpenAI embeddings to ground responses in retrieved document chunks, avoiding hallucinations by restricting answers to provided context.
+
+- **Modular Architecture**: Organizes the system into four core components—`document_loader.py` (text splitting), `vector_store.py` (FAISS embeddings), `rag_chain.py` (prompt engineering + LLM integration), and `main.py` (user interaction)—ensur
 
 ## Use Cases
 

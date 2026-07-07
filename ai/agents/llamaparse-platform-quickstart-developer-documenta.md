@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.llamaindex.ai/
-published_at: '2026-07-07T00:52:17.623781+05:30'
-collected_at: '2026-07-07T00:52:17.623797+05:30'
+published_at: '2026-07-07T15:38:20.842861+05:30'
+collected_at: '2026-07-07T15:38:20.842873+05:30'
 tags:
 - agents
 - meta-ai
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaparse-platform-quickstart-developer-documenta
-first_seen: '2026-07-07T00:52:17.623797+05:30'
-last_seen: '2026-07-07T00:52:17.623797+05:30'
-last_checked: '2026-07-07T00:52:17.623797+05:30'
+first_seen: '2026-07-07T15:38:20.842873+05:30'
+last_seen: '2026-07-07T15:38:20.842873+05:30'
+last_checked: '2026-07-07T15:38:20.842873+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Layout-aware OCR**: Parse performs advanced optical character recognition (OCR) while preserving document layout structure, enabling accurate extraction of text, tables, and charts from PDFs and scans.
-- **Multi-format output**: Converts processed documents into clean markdown, plain text, or structured JSON, optimizing compatibility with downstream LLM pipelines.
-- **Agentic processing**: Designed as an autonomous agent for document parsing, integrating layout analysis, OCR, and structured extraction in a unified workflow.
+- **Layout-aware OCR**: Parse processes PDFs, scans, tables, and charts to extract structured content with spatial awareness, preserving document layout and hierarchy.
+
+- **Multi-format output**: Converts extracted content into clean markdown, plain text, or JSON for seamless integration with LLM pipelines.
+
+- **Agentic parsing**: Designed for autonomous operation within LLM workflows, optimizing document understanding without manual intervention.
 
 ## Why It Matters
 
@@ -36,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-07T00:52:17.623781+05:30
+- Published: 2026-07-07T15:38:20.842861+05:30
 
 ## Related Tags
 

@@ -6,12 +6,13 @@ source_url: https://github.com/NirDiamant/RAG_Techniques
 resource_id: github:nirdiamant/rag_techniques
 local_vault_path: ai/rag/nirdiamant-rag-techniques.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
@@ -22,7 +23,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # NirDiamant/RAG_Techniques
@@ -30,17 +31,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Repository Overview**: Hosts advanced RAG techniques with Jupyter Notebook tutorials, covering agentic RAG, embeddings, vector databases, and integration with LangChain, LlamaIndex, and OpenAI APIs.
-- **Technical Scope**: Implements semantic search, LLM fine-tuning, and retrieval-augmented generation workflows using Python, focusing on NLP and generative AI applications.
-- **Last Update**: Repository last updated on **2026-07-07**, with 28.3K stars and 3.4K forks, indicating active community
+- **Advanced RAG Techniques**: Repository provides Jupyter Notebook tutorials for cutting-edge Retrieval-Augmented Generation (RAG) methods, covering agentic RAG, hybrid search, and multi-modal retrieval.
+
+- **Multi-Framework Support**: Implements RAG pipelines using LangChain, LlamaIndex, and custom Python solutions, with integrations for OpenAI, GPT, and vector databases (e.g., FAISS, Pinecone).
+
+- **Optimized Workflows**: Includes semantic search, embeddings (e.g., Sentence-BERT, E5), and eva
 
 ## Use Cases
 

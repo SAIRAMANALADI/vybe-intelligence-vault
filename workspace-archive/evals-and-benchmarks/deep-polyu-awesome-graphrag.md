@@ -13,6 +13,7 @@ importance: medium
 tags:
 - benchmark
 - github-repo
+- hackernews
 - paper
 - rag
 - unknown
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based retrieval-augmented generation (GraphRAG)**, facilitating research and development in this domain.
-- **Key Topics Covered**: Includes **GraphRAG-specific papers/surveys**, **knowledge graphs**, **large language models (LLMs)**, and **retrieval-augmented generation (RAG)** methodologies.
-- **Repository Metrics**: Maintained by **DEEP-PolyU**, with **2,510 stars**, **219 forks**, a
+*   Curates comprehensive resources (surveys, papers, benchmarks, open-source projects) on Graph-based Retrieval-Augmented Generation (GraphRAG).
+*   Focuses on the technical intersection of knowledge graphs, large language models (LLMs), and RAG paradigms.
+*   Provides a structured overview of advancements and implementations in graph-enhanced RAG methodologies.
 
 ## Use Cases
 

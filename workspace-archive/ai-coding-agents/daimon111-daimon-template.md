@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Template Purpose**: Provides a foundational structure for creating autonomous agents (`daimon`) via repository forking.
-- **Technical Stack**: Implemented in JavaScript, enabling event-driven, non-blocking I/O for agent operations.
-- **Metadata**: Last updated on 2026-04-24; 2 stars, 18 forks, no associated topics.
+- **Repository Overview**: `daimon-template` is a JavaScript-based autonomous agent template forked from `daimon111/daimon-template`, enabling users to spawn custom autonomous agents.
+
+- **Usage Metrics**: The repository has 2 stars and 18 forks, with the last update committed on **2026-04-24T07:15:56Z**.
+
+- **Technical Stack**: Designed for JavaScript runtime environments, providing a foundational structure for deploying autonomous agents.
 
 ## Use Cases
 

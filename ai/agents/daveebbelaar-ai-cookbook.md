@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/daveebbelaar/ai-cookbook
-collected_at: '2026-07-07T09:52:08.246642+05:30'
-published_at: '2026-07-07T01:23:36Z'
+collected_at: '2026-07-07T15:35:24.759597+05:30'
+published_at: '2026-07-07T09:11:06Z'
 tags:
 - agents
 - anthropic
@@ -14,7 +14,7 @@ tags:
 - openai
 - python
 - reddit
-stars: 4287
+stars: 4285
 language: Python
 status: active
 license: MIT
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-01-30T15:14:29Z'
 pushed_at: '2026-05-14T11:46:10Z'
 resource_id: github:daveebbelaar/ai-cookbook
-first_seen: '2026-07-07T09:52:08.246642+05:30'
-last_seen: '2026-07-07T09:52:08.246642+05:30'
-last_checked: '2026-07-07T09:52:08.246642+05:30'
+first_seen: '2026-07-07T15:35:24.759597+05:30'
+last_seen: '2026-07-07T15:35:24.759597+05:30'
+last_checked: '2026-07-07T15:35:24.759597+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`daveebbelaar/ai-cookbook`) containing Python-based examples and tutorials for building AI systems, with 4,287 stars and 1,507 forks.
-- **Technical Scope**: Focuses on AI agents, large language models (LLMs), and integration with APIs from OpenAI and Anthropic.
-- **Last Update**: Repository last updated on July 7, 2026, with active development in AI system architectures and Python implementations.
+- **Repository Overview**: GitHub repository `daveebbelaar/ai-cookbook` provides practical examples and tutorials for building AI systems, with a focus on **agents, LLMs (Large Language Models), and AI integration** using Python.
+
+- **Technical Stack & Tools**: Primarily utilizes **Python** and covers key AI frameworks/libraries such as **OpenAI, Anthropic**, and other LLM-related tools for agent-based AI development.
+
+- **Metadata**: Last updated on **July 7, 2026**; has **4,285 stars** and **1,506 forks**, indicating active community engagement in AI/ML development resources.
 
 ## Why It Matters
 
@@ -43,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: daveebbelaar
-- Stars: 4287
-- Forks: 1507
+- Stars: 4285
+- Forks: 1506
 - Language: Python
 - Topics: agents, ai, anthropic, llm, openai, python
-- Last Updated: 2026-07-07T01:23:36Z
+- Last Updated: 2026-07-07T09:11:06Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-30T15:14:29Z

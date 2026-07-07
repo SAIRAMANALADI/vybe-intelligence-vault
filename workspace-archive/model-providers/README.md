@@ -9,24 +9,24 @@ Understanding the pricing, capabilities, and APIs of different model providers i
 ## Top Matched Resources
 
 - [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) (framework - ESSENTIAL Tier)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (framework - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - ESSENTIAL Tier)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (api - ESSENTIAL Tier)
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) (framework - ESSENTIAL Tier)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/openai/openai-python (OpenAI SDK)
 https://github.com/google/generative-ai-python (Gemini SDK)
 - [langgenius/dify](https://github.com/langgenius/dify)
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/google/generative-ai-python (Gemini SDK)
 
 ---
 
-*Last updated: 2026-07-07 09:55 IST*
+*Last updated: 2026-07-07 15:49 IST*

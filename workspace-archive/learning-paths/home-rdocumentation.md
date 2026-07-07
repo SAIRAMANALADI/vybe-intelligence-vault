@@ -2,15 +2,16 @@
 title: Home - RDocumentation
 archive_category: learning-paths
 source_category: ai/resources
-source_url: https://www.rdocumentation.org
+source_url: https://www.rdocumentation.org/
 resource_id: blog:home-rdocumentation
 local_vault_path: ai/resources/home-rdocumentation.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
+- hackernews
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -23,16 +24,18 @@ selection_reason:
 
 - Matched archive category: `Learning Paths`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Package Search Engine**: Provides a searchable interface for 32,476 R packages from CRAN and Bioconductor, enabling function-level queries (e.g., `lm(stats)`) for efficient lookup of R functions and their respective packages.
+- **Package Search & Documentation**: RDocumentation indexes **32,527 R packages** from CRAN and Bioconductor, enabling function-specific searches (e.g., `lm(stats)`) for precise documentation retrieval.
 
-- **Learning Resources**: Offers structured learning paths (e.g., *R Fundamentals*, *Big Data with R*) and tutorials (e.g., *Introduction to R*, *Data Manipulation with R*) via DataCamp, including cheat sheets (e.g., *R Basics Cheat Sheet*) and topic-specific guides (e
+- **Learning Resources**: DataCamp provides structured learning paths, including courses (e.g., *R Fundamentals*, *Big Data with R*) and tutorials (e.g., *Linear Regression in R*, *PCA in R*) for skill development.
+
+- **Cheat Sheets & Tutorials**: Offers specialized cheat sheets (e.g., *R Basic
 
 ## Use Cases
 
@@ -42,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.rdocumentation.org
+Original source URL: https://www.rdocumentation.org/
 
 ## Local Vault File
 

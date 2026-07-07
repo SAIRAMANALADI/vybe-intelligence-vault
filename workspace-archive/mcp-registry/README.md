@@ -8,10 +8,10 @@ Model Context Protocol (MCP) acts as the bridge connecting LLMs and local develo
 
 ## Top Matched Resources
 
-- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) (dataset - ESSENTIAL Tier)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) (mcp-server - ESSENTIAL Tier)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
+- [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
 - [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (mcp-server - ESSENTIAL Tier)
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
 - [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
@@ -21,10 +21,10 @@ Model Context Protocol (MCP) acts as the bridge connecting LLMs and local develo
 
 https://github.com/modelcontextprotocol (Official MCP Repos)
 https://github.com/modelcontextprotocol/servers (MCP Reference Servers)
-- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server)
 - [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
+- [langgenius/dify](https://github.com/langgenius/dify)
 - [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops)
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
 
@@ -44,4 +44,4 @@ https://github.com/modelcontextprotocol/servers (MCP Reference Servers)
 
 ---
 
-*Last updated: 2026-07-07 09:54 IST*
+*Last updated: 2026-07-07 15:48 IST*

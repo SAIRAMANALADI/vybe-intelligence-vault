@@ -9,23 +9,23 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 ## Top Matched Resources
 
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
+- [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (template - ESSENTIAL Tier)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
+- [Pinecone · GitHub](https://github.com/pinecone-io) (framework - ESSENTIAL Tier)
+- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production) (framework - ESSENTIAL Tier)
 - [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) (framework - ESSENTIAL Tier)
 - [cli/cli](https://github.com/cli/cli#installation) (workflow - ESSENTIAL Tier)
-- [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (template - ESSENTIAL Tier)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/n8n-io/n8n (n8n)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
+- [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
+- [Pinecone · GitHub](https://github.com/pinecone-io)
+- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production)
 - [langgenius/dify](https://github.com/langgenius/dify)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
-- [cli/cli](https://github.com/cli/cli#installation)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-07-07 09:55 IST*
+*Last updated: 2026-07-07 15:49 IST*

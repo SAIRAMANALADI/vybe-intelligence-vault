@@ -6,7 +6,7 @@ source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
 local_vault_path: ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md
 quality_score: 70
-archive_score: 76
+archive_score: 78
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 78 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator conditioned on retrieved context, and optional rerankers/query rewriters; orchestration layers manage caching, latency, and cost.
+- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator; optionally includes rerankers, query rewriting, caching, and orchestration for improved precision and efficiency.
 
-- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector fusion), multi-stage reranking (light retriever → cross-encoder), and query rewriting (expansion, paraphrasing, multi-query) improve precision/recall; GraphRAG and iterative multi-ho
+- **Chunking & Embeddings Optimization**: Chunking strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; embeddings require domain-specific fine-tuning, dimensionality balancing, and normalization for optimal performance.
+
+- **Multi-Stage Retrieval &
 
 ## Use Cases
 

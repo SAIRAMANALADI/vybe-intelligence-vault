@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-07-07T09:51:18.160400+05:30'
+collected_at: '2026-07-07T15:34:39.628665+05:30'
 published_at: '2026-07-07T03:33:39Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - rag
 - unknown
 stars: 445
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-07-07T09:51:18.160400+05:30'
-last_seen: '2026-07-07T09:51:18.160400+05:30'
-last_checked: '2026-07-07T09:51:18.160400+05:30'
+first_seen: '2026-07-07T15:34:39.628665+05:30'
+last_seen: '2026-07-07T15:34:39.628665+05:30'
+last_checked: '2026-07-07T15:34:39.628665+05:30'
 health_score: 100
 ---
 
@@ -30,14 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmarking dataset and evaluation framework for Retrieval-Augmented Generation (RAG) systems tailored to company internal documents, enabling standardized assessment of enterprise RAG performance.
+- **Purpose**: Provides a benchmarking framework and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, enabling standardized assessment of retrieval and generation performance.
 
-- **Key Features**:
-  - Synthetic data generation for diverse enterprise document types (e.g., contracts, reports, emails).
-  - Evaluation metrics for retrieval quality, answer correctness, and contextual relevance in enterprise contexts.
-  - Supports Python-based RAG pipelines with tools for semantic search, LLM integration, and knowledge base testing.
+- **Dataset Features**: Includes synthetic data generation for knowledge bases, with evaluation metrics focused on semantic search, information retrieval, and LLM-based question-answering in enterprise contexts.
 
-- **Scope**: Covers enterprise-specific challenges like semantic search, LLM evaluation, and information retrieval across proprietary datasets, with tools for both synthetic and real-world data testing.
+- **Technical Scope**: Supports Python-based implementations, covering RAG evaluation, large language model (LLM) testing, and enterprise search methodologies, with last update in July 2026.
 
 ## Why It Matters
 

@@ -4,11 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-07-07T09:51:13.118200+05:30'
+collected_at: '2026-07-07T15:34:29.578557+05:30'
 published_at: '2026-07-03T02:13:34Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - hackernews
 - rag
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-07-07T09:51:13.118200+05:30'
-last_seen: '2026-07-07T09:51:13.118200+05:30'
-last_checked: '2026-07-07T09:51:13.118200+05:30'
+first_seen: '2026-07-07T15:34:29.578557+05:30'
+last_seen: '2026-07-07T15:34:29.578557+05:30'
+last_checked: '2026-07-07T15:34:29.578557+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG-Vision Resources**: Compilation of advanced retrieval-augmented generation (RAG) techniques specifically tailored for computer vision applications, including multimodal models, vision-language models (VLMs), and cross-modal retrieval systems.
-
-- **Cutting-Edge Methodologies**: Features state-of-the-art approaches such as dense retrieval, graph-based RAG, and hybrid architectures integrating vision encoders (e.g., ViT, CLIP) with generative models (e.g., LLMs) for enhanced visual question answering (VQA) and image captioning.
-
-- **Benchmarking & Tools**: Includes datasets, evaluation metrics, and open-source implementations for assessing RAG performance in vision tasks, with emphasis on scalability, interpretability, and real-world deployment challenges.
+- **Curated RAG-Vision Resources**: A specialized repository aggregating advanced retrieval-augmented generation (RAG) techniques tailored for computer vision (CV) applications, including multimodal and vision-language model (VLM) integrations.
+- **Technical Scope**: Encompasses cutting-edge RAG methodologies for CV tasks such as image-text retrieval, zero-shot classification, and context-aware visual question answering (VQA).
+- **Dynamic Updates**: Last synchronized on **2026-07-03**, ensuring inclusion of recent advancements in RAG-driven vision architectures (e.g., CLIP-based retrieval, diffusion model augmentations).
 
 ## Why It Matters
 

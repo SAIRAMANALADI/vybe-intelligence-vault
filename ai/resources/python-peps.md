@@ -4,8 +4,8 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/python/peps
-collected_at: '2026-06-25T20:51:49.870109+05:30'
-published_at: '2026-06-24T17:58:07Z'
+collected_at: '2026-07-07T15:41:27.865000+05:30'
+published_at: '2026-07-07T09:39:13Z'
 tags:
 - github-repo
 - hackernews
@@ -15,11 +15,11 @@ language: reStructuredText
 status: active
 archived: false
 created_at: '2013-10-08T13:27:12Z'
-pushed_at: '2026-06-23T23:52:33Z'
+pushed_at: '2026-07-06T21:58:04Z'
 resource_id: github:python/peps
-first_seen: '2026-06-25T20:51:49.870109+05:30'
-last_seen: '2026-06-25T20:51:49.870109+05:30'
-last_checked: '2026-06-25T20:51:49.870109+05:30'
+first_seen: '2026-07-07T15:41:27.865000+05:30'
+last_seen: '2026-07-07T15:41:27.865000+05:30'
+last_checked: '2026-07-07T15:41:27.865000+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- PEPs repository contains Python Enhancement Proposals, the official documentation for proposing major Python changes.
-- Written in reStructuredText, the PEPs define technical specifications, processes, and informational guidelines for Python development.
-- Last updated in 2026, the repository serves as the canonical source for Python's evolution and governance.
+- **Repository Purpose**: Hosts Python Enhancement Proposals (PEPs), formal documents proposing major changes to Python's ecosystem.
+- **Technical Format**: PEPs are authored in reStructuredText (RST), a lightweight markup language for structured documentation.
+- **Maintenance**: Last updated in July 2026, indicating active but infrequent updates to the PEPs repository.
 
 ## Why It Matters
 
@@ -39,13 +39,13 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: python
 - Stars: 4961
-- Forks: 1776
+- Forks: 1775
 - Language: reStructuredText
 - Topics: None
-- Last Updated: 2026-06-24T17:58:07Z
+- Last Updated: 2026-07-07T09:39:13Z
 - Archived: No
 - Created At: 2013-10-08T13:27:12Z
-- Pushed At: 2026-06-23T23:52:33Z
+- Pushed At: 2026-07-06T21:58:04Z
 
 ## Possible Use Cases
 

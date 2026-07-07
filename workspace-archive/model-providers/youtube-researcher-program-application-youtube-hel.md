@@ -38,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Application Requirements**: Form requires details on research, institution affiliation, API Client, and current/proposed YouTube API usage, with data processed under [Privacy Policy](https://policies.google.com/privacy) and [Researcher Program Policies](https://research.youtube/policies/).
+- **Application Requirements**: The YouTube Researcher Program application mandates details on research focus, institutional affiliation, API client specifics, and current/proposed API usage, with adherence to [Privacy Policy](https://policies.google.com/privacy?hl=en) and [Researcher Program Policies](https://research.youtube/policies/).
 
-- **Institution Validation**: Applicants must select a pre-approved organization from a dropdown list (e.g., universities, research institutes) with country-specific validation.
-
-- **Quota & Updates**: Ex
+- **Institutional Data Collection**: Applicants must provide legal name, monitored email, country, and select an accredited organization from a predefined lis
 
 ## Use Cases
 

@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by sscaryterry. Score: 52, Comments: 11.
+Hacker News story by sscaryterry. Score: 143, Comments: 50.
 Original Link: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals
 
 ## Use Cases

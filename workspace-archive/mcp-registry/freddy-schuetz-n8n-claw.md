@@ -6,15 +6,15 @@ source_url: https://github.com/freddy-schuetz/n8n-claw
 resource_id: github:freddy-schuetz/n8n-claw
 local_vault_path: ai/rag/freddy-schuetz-n8n-claw.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
+- scripts
 - shell
 - workflows
 selection_reason:
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous AI Agent Framework**: OpenClaw-inspired system built entirely in n8n, featuring adaptive RAG-powered memory, MCP-based Skills integration, and Expert Agents with delegated sub-agents for hierarchical task execution.
-
-- **Proactive Task & Media Management**: Supports proactive task scheduling, media understanding capabilities, and self-hosted deployment via a single setup script, leveraging tools like Crawl4AI, SearXNG, and Supabase.
-
-- **Technical Stack**: Shell-based implementati
+- **OpenClaw-inspired autonomous AI agent** implemented entirely in **n8n**, leveraging **adaptive RAG-powered memory** for dynamic context retention and retrieval.
+- **Modular architecture** with **MCP-based Skills**, **Expert Agents** (delegating sub-agents), **proactive task management**, and **media understanding** capabilities, self-hosted via a single setup script.
+- **Integrates multiple tools/frameworks**: **Crawl4AI** (scraping), **SearXNG** (search engine), **Supabase** (database), and
 
 ## Use Cases
 

@@ -13,9 +13,9 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent framework**: Tutorial repository for building agentic systems from scratch, covering core principles and practical implementations in Python.
-- **Key components**: Integrates LLM orchestration, RAG pipelines, and modular agent architectures for scalable workflows.
-- **Educational focus**: Provides step-by-step guides, code examples, and architectural insights for deploying intelligent agents in real-world scenarios.
+- **Comprehensive Tutorial**: Provides a step-by-step guide on building intelligent agents from scratch, covering both theoretical principles and practical implementations.
+
+- **Key Technologies**: Focuses on integrating large language models (LLMs), retrieval-augmented generation (RAG), and Python-based agent frameworks.
+
+- **Open-Source Repository**: Hosted on GitHub with 64,575 stars and 8,011 forks, indicating strong community engagement and collaborative development.
 
 ## Use Cases
 

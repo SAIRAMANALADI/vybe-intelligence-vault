@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91
-published_at: '2026-07-07T04:10:07.540581+05:30'
-collected_at: '2026-07-07T04:10:07.540589+05:30'
+published_at: '2026-07-07T15:33:24.971601+05:30'
+collected_at: '2026-07-07T15:33:24.971613+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:top-10-rag-frameworks-on-github-by-stars-january-2
-first_seen: '2026-07-07T04:10:07.540589+05:30'
-last_seen: '2026-07-07T04:10:07.540589+05:30'
-last_checked: '2026-07-07T04:10:07.540589+05:30'
+first_seen: '2026-07-07T15:33:24.971613+05:30'
+last_seen: '2026-07-07T15:33:24.971613+05:30'
+last_checked: '2026-07-07T15:33:24.971613+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Python/TypeScript framework with 125K+ stars, offering 700+ integrations, modular chains, and LangGraph for agentic workflows; ideal for complex RAG pipelines.
-- **RAGFlow**: Python-based (70K+ stars) specializing in enterprise-grade document parsing (tables, images, PDFs) with template-based chunking and grounded citations to minimize hallucinations.
-- **Pathway**: Python (Rust runtime) with 50K+ stars, enabling real-time RAG via incremental updates, 350+ data connectors, and unified ETL-RAG pipelines for dynamic knowledge bases.
+- **LangChain** (⭐125K): Python/TypeScript framework with 700+ integrations, modular chains, and LangGraph for agentic workflows; ideal for complex RAG pipelines but has a steep learning curve.
+- **Pathway** (⭐50K+): Python (Rust runtime) framework optimized for real-time data processing with 350+ connectors, incremental updates, and unified ETL+RAG architecture for live knowledge bases.
+- **LightRAG** (⭐27.4K): Graph-based RAG from HKU (EMNLP 2025) using knowledge graphs for relationship-aware retrieval, lightweight design, and strong academic validation for entity-centric applications.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T04:10:07.540581+05:30
+- Published: 2026-07-07T15:33:24.971601+05:30
 
 ## Related Tags
 

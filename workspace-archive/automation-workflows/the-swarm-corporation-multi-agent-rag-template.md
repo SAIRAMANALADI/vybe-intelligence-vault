@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent RAG Framework**: Implements a collaborative AI agent system using frameworks like CrewAI, AutoGen, and LangChain for document processing, analysis, and insight generation via Retrieval-Augmented Generation (RAG).
+- **Multi-Agent RAG Framework**: Template implements a collaborative AI agent system for document processing, analysis, and insight generation using frameworks like CrewAI, AutoGen, and LangChain.
 
-- **Integration Stack**: Supports vector databases (ChromaDB, Pinecone, Weaviate) and LLM APIs (OpenAI GPT-3.5/4/5, Anthropic) for hybrid retrieval and generation workflows.
+- **Vector Database Integration**: Supports ChromaDB, Pinecone, and Weaviate for document retrieval and embeddings, enabling efficient RAG (Retrieval-Augmented Generation) workflows.
 
-- **Deployment & Extensibility**: Includes Discord bot integration and modular agent roles, ena
+- **LLM Compatibility**: Compatible with OpenAI (GPT-3.5/4/5), Anthropic, and other models, with Discord integration f
 
 ## Use Cases
 

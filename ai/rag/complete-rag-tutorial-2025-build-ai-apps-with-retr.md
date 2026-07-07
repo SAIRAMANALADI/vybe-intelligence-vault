@@ -5,17 +5,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY
-published_at: '2026-07-07T04:10:11.488099+05:30'
-collected_at: '2026-07-07T04:10:11.488108+05:30'
+published_at: '2026-07-07T15:33:30.332403+05:30'
+collected_at: '2026-07-07T15:33:30.332415+05:30'
 tags:
+- hackernews
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:complete-rag-tutorial-2025-build-ai-apps-with-retr
-first_seen: '2026-07-07T04:10:11.488108+05:30'
-last_seen: '2026-07-07T04:10:11.488108+05:30'
-last_checked: '2026-07-07T04:10:11.488108+05:30'
+first_seen: '2026-07-07T15:33:30.332415+05:30'
+last_seen: '2026-07-07T15:33:30.332415+05:30'
+last_checked: '2026-07-07T15:33:30.332415+05:30'
 health_score: 100
 ---
 
@@ -23,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization, and creator tools.
-- **Developer & API Access**: Provides APIs and documentation via [developers.google.com/youtube](https://developers.google.com/youtube) for third-party integration and platform functionality.
-- **Policy & Compliance**: Enforces terms of service, privacy policies, and safety guidelines via [YouTube's Policy Center](https://www.youtube.com/about/policies/).
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization (via YouTube Partners/Advertisers), and creator tools (YouTube Studio, YouTube Premium).
+- **Technical Infrastructure**: Utilizes Google’s CDN and infrastructure for scalable video delivery, with backend services (e.g., recommendation algorithms, transcoding pipelines) optimized for low-latency global access.
+- **Developer & Policy Framework**: Provides APIs (YouTube Data/API v3), SDKs, and policy frameworks (Content ID, copyright, privacy compliance) for third-party integration and platform governance.
 
 ## Why It Matters
 
@@ -35,10 +36,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T04:10:11.488099+05:30
+- Published: 2026-07-07T15:33:30.332403+05:30
 
 ## Related Tags
 
+- hackernews
 - rag
 - web-crawled
 - youtube

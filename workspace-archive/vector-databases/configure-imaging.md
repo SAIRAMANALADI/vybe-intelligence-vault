@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Image Processing Defaults**: Default settings include `anchor: smart`, `bgColor: #ffffff`, `resampleFilter: box`, and format-specific defaults (e.g., AVIF `quality: 60`, JPEG `quality: 75`, WebP `quality: 75` and `method: 2`).
+- **Image Processing Configuration**: Hugo's imaging settings support AVIF, JPEG, and WebP formats with configurable `quality`, `compression`, and `hint` (e.g., `photo`, `drawing`) for optimal encoding; deprecated global `compression`, `hint`, and `quality` settings now require format-specific overrides.
 
-- **Format-Specific Configurations**:
-  - **AVIF**: Supports `lossy`/`lossless` compression, `encoderSpeed: 1-10`, `hint: photo/drawing/icon/text`, and `quality: 1-100`.
-  - **WebP**: Supports `lossy`/`lossless` compression, `method: 0-6`, `hint: photo/drawing/icon/te
+- **Resampling & Focal Point Control**: Default `resampleFilter` is `box`, with alternatives like `lanczos` or `catmullRom` for quality/speed trade-offs; `anchor` supports `smart` (via `muesli/
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280
-published_at: '2026-07-07T04:10:09.119712+05:30'
-collected_at: '2026-07-07T04:10:09.119722+05:30'
+published_at: '2026-07-07T15:33:27.099071+05:30'
+collected_at: '2026-07-07T15:33:27.099083+05:30'
 tags:
 - agents
 - anthropic
@@ -18,12 +18,13 @@ tags:
 - producthunt
 - rag
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
-first_seen: '2026-07-07T04:10:09.119722+05:30'
-last_seen: '2026-07-07T04:10:09.119722+05:30'
-last_checked: '2026-07-07T04:10:09.119722+05:30'
+first_seen: '2026-07-07T15:33:27.099083+05:30'
+last_seen: '2026-07-07T15:33:27.099083+05:30'
+last_checked: '2026-07-07T15:33:27.099083+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines LLMs with retrieval systems to fetch relevant external data (e.g., documents, databases) for context, avoiding prompt overload by limiting input to the LLM's context window (e.g., 1M tokens for GPT-4.1 vs. enterprise-scale data in petabytes).
+- **RAG Architecture**: Combines LLMs with retrieval systems to fetch external context (e.g., documents) for improved answers, avoiding context window overload; splits into **Injection Pipeline** (data ingestion/chunking/embedding) and **Retrieval Pipeline** (query embedding + similarity search).
 
-- **Embedding Pipeline**: Documents are chunked (e.g., 1,000 tokens per chunk), converted into high-dimensional vector embeddings (e.g., OpenAI's 3,072-dim "text-embedding-3-large"), and stored in vector databases (e.g., Pinecone, FAISS) for semantic similarity matching.
+- **Embedding Fundamentals**: Converts text chunks into high-dimensional vectors (e.g., OpenAI’s `text-embedding-3-large` uses 3,072 dimensions) where semantic similarity is measured via vector proximity; vector databases (e.g., Pinecone, FAISS) store and retrieve these embeddings for query matching.
 
-- **Retrieval & Generation**: User queries are embedded and matched against stored vectors to retrieve top-*k* relevant chunks (e.g., via cosine similarity), which are then fed to the LLM for answer synthesis, decoupling retrieval (vector operations) from generation (LLM inference).
+- **Chunking & Retrieval Workflow**: Documents are split into fixed-token chunks (e.g., 1,000 tokens), embedded, and stored; user queries are embedded and matched against stored vectors to retrieve top-*k* relevant chunks, which are then passed to the LLM for answer generation.
 
 ## Why It Matters
 
@@ -45,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T04:10:09.119712+05:30
+- Published: 2026-07-07T15:33:27.099071+05:30
 
 ## Related Tags
 
@@ -60,6 +61,7 @@ General public resource representing technology updates, guides, or tutorials.
 - producthunt
 - rag
 - web-crawled
+- workflows
 - youtube
 
 ## Source

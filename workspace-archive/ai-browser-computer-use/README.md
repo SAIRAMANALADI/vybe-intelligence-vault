@@ -8,14 +8,14 @@ Computer-use and browser agents transition AI from text engines to active workfl
 
 ## Top Matched Resources
 
-- [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (template - ESSENTIAL Tier)
+- [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (tool - ESSENTIAL Tier)
 - [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) (framework - ESSENTIAL Tier)
 - [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) (mcp-server - ESSENTIAL Tier)
-- [secret-mars/loop-starter-kit](https://github.com/secret-mars/loop-starter-kit) (template - ESSENTIAL Tier)
 - [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
+- [langchain-ai/new-langgraphjs-project](https://github.com/langchain-ai/new-langgraphjs-project) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -26,7 +26,7 @@ https://github.com/showlab/ComputerUse (Computer Use Examples)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework)
 - [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)
-- [secret-mars/loop-starter-kit](https://github.com/secret-mars/loop-starter-kit)
+- [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/showlab/ComputerUse (Computer Use Examples)
 
 ---
 
-*Last updated: 2026-07-07 09:55 IST*
+*Last updated: 2026-07-07 15:49 IST*

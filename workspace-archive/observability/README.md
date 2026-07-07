@@ -8,6 +8,7 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 
 ## Top Matched Resources
 
+- [Pinecone · GitHub](https://github.com/pinecone-io) (framework - ESSENTIAL Tier)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (framework - USEFUL Tier)
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (dataset - USEFUL Tier)
@@ -15,17 +16,16 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 - [CineMobile: On-Device Image-to-Video Diffusion for Cinematic Camera Motion Generation](https://arxiv.org/abs/2607.03803) (framework - USEFUL Tier)
 - [LineageMark: Multi-user White-box Watermarking for Contribution Tracing in Model Derivation Chains](https://arxiv.org/abs/2606.17123) (framework - USEFUL Tier)
 - [JetBrains AI - The JetBrains Blog](https://blog.jetbrains.com/ai) (framework - USEFUL Tier)
-- [🧑‍🍳 Cookbook | Haystack](https://haystack.deepset.ai/cookbook) (benchmark - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/langfuse/langfuse (Langfuse)
 https://github.com/Arize-AI/phoenix (Arize Phoenix)
+- [Pinecone · GitHub](https://github.com/pinecone-io)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [NicholasGoh/fastapi-mcp-langgraph-template](https://github.com/NicholasGoh/fastapi-mcp-langgraph-template)
-- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse?utm_source=clickhouse&utm_medium=website&utm_campaign=website-nav)
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-07-07 09:55 IST*
+*Last updated: 2026-07-07 15:49 IST*

@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-07-07T09:51:13.102821+05:30'
+collected_at: '2026-07-07T15:34:34.564783+05:30'
 published_at: '2026-07-04T05:16:35Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - hackernews
+- paper
 - python
 - rag
 stars: 456
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-07-07T09:51:13.102821+05:30'
-last_seen: '2026-07-07T09:51:13.102821+05:30'
-last_checked: '2026-07-07T09:51:13.102821+05:30'
+first_seen: '2026-07-07T15:34:34.564783+05:30'
+last_seen: '2026-07-07T15:34:34.564783+05:30'
+last_checked: '2026-07-07T15:34:34.564783+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Official repository for GraphRAG-Bench, designed to evaluate Graph Retrieval-Augmented Generation (GraphRAG) models, with a focus on determining optimal use cases for graph-based RAG systems.
-- **Technical Scope**: Provides a comprehensive analysis of graph retrieval strategies within RAG pipelines, targeting ICLR'26 contributions with Python-based implementations.
-- **Dataset & Metrics**: Includes curated datasets and benchmarking tools to assess performance, supporting reproducibility and comparative analysis of GraphRAG methodologies.
+- **Benchmark Framework**: Official repository for GraphRAG-Bench, designed to evaluate Graph Retrieval-Augmented Generation (GraphRAG) models, as proposed in the ICLR'26 paper *"When to use Graphs in RAG: A Comprehensive Analysis for GraphRAG"*.
+
+- **Technical Scope**: Focuses on graph-based RAG methodologies, providing datasets and analysis tools to assess performance across different GraphRAG implementations.
+
+- **Implementation**: Python-based repository with 456 stars and 53 forks, last updated on 2026-07-04, supporting benchmarking, dataset curation, and comparative analysis.
 
 ## Why It Matters
 

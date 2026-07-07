@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://research.cloudflare.com/
-published_at: '2026-07-07T00:52:35.298479+05:30'
-collected_at: '2026-07-07T00:52:35.298494+05:30'
+published_at: '2026-07-07T15:39:19.019381+05:30'
+collected_at: '2026-07-07T15:39:19.019394+05:30'
 tags:
 - hackernews
 - models
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:cloudflare-research
-first_seen: '2026-07-07T00:52:35.298494+05:30'
-last_seen: '2026-07-07T00:52:35.298494+05:30'
-last_checked: '2026-07-07T00:52:35.298494+05:30'
+first_seen: '2026-07-07T15:39:19.019394+05:30'
+last_seen: '2026-07-07T15:39:19.019394+05:30'
+last_checked: '2026-07-07T15:39:19.019394+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Unweight**: Lossless MLP weight compression system achieving **1.44x compression** on BF16 MLP weights, with **GPU-native decompression** optimized for NVIDIA Hopper GPUs (H100, H200) during LLM inference.
+- **Unweight Compression**: Lossless MLP weight tensor compression system achieving 1.44x compression on BF16 weights with GPU-native decompression for NVIDIA Hopper GPUs (H100/H200) during LLM inference.
 
-- **RFC 9935**: Standardizes **Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM)** algorithm identifiers in **X.509 PKI**, enhancing post-quantum cryptographic interoperability.
+- **Research Focus Areas**: Cloudflare Research targets five core domains: privacy-enhancing technologies, cryptographic/security advancements, next-gen network protocols, distributed system resilience, and open internet measurement/verification.
 
-- **Research Focus Areas**: Cloudflare’s initiatives span **privacy-enhancing technologies**, **cryptographic/security advancements**, **next-gen network protocols (e.g., HTTP/3)**, **distributed system resilience**, and **open internet measurement frameworks**.
+- **RFC 9935 Standardization**: Contributed to IETF RFC 9935, defining algorithm identifiers for Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM) in X.509 Public Key Infrastructure.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T00:52:35.298479+05:30
+- Published: 2026-07-07T15:39:19.019381+05:30
 
 ## Related Tags
 

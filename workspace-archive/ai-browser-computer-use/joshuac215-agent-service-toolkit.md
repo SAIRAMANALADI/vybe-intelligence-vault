@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Integration**: Combines LangGraph for agent orchestration, FastAPI for backend REST services, and Streamlit for frontend UI in a Python-based AI agent service toolkit.
-- **Modular Architecture**: Provides a structured toolkit for deploying AI agents with pre-configured components for scalability and extensibility.
-- **Active Development**: Last updated in July 2026, indicating ongoing maintenance and feature enhancements.
+- **Framework Integration**: Combines LangGraph for agent orchestration, FastAPI for backend API services, and Streamlit for frontend UI, enabling full-stack AI agent deployment.
+- **Modular Architecture**: Provides a structured toolkit for building, managing, and deploying AI agents with reusable components and standardized interfaces.
+- **Tooling & Extensibility**: Includes pre-configured tooling for agent services, supporting customization and scalability via Python-based extensions and integ
 
 ## Use Cases
 

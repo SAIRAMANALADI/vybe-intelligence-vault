@@ -3,12 +3,13 @@ title: LangChain overview - Docs by LangChain
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://js.langchain.com
-published_at: '2026-07-07T00:51:15.999231+05:30'
-collected_at: '2026-07-07T00:51:15.999247+05:30'
+source_url: https://python.langchain.com/api
+published_at: '2026-07-07T15:37:50.813031+05:30'
+collected_at: '2026-07-07T15:37:50.813044+05:30'
 tags:
 - agents
 - anthropic
+- benchmark
 - meta-ai
 - models
 - openai
@@ -17,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langchain-overview-docs-by-langchain
-first_seen: '2026-07-07T00:51:15.999247+05:30'
-last_seen: '2026-07-07T00:51:15.999247+05:30'
-last_checked: '2026-07-07T00:51:15.999247+05:30'
+first_seen: '2026-07-07T15:37:50.813044+05:30'
+last_seen: '2026-07-07T15:37:50.813044+05:30'
+last_checked: '2026-07-07T15:37:50.813044+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- `create_agent` in LangChain provides a minimal, configurable harness for composing agents from model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
-- LangChain agents leverage LangGraph for durable execution, human-in-the-loop support, and persistence, enabling advanced orchestration workflows.
-- LangSmith integrates for tracing, debugging, and evaluating agent behavior, with features like state transition inspection and latency analysis.
+- **Agent Composition**: LangChain's `create_agent` provides a minimal, configurable harness for composing agents from model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
+
+- **Modular Architecture**: Agents are built on LangGraph, enabling durable execution, human-in-the-loop support, persistence, and observability via LangSmith for tracing, debugging, and evaluation.
+
+- **Standardized Interface**: Offers a unified model interface (chat, embeddings) across providers with a highly configurable harness (`create_agent`) that supports incremental middleware addition for custom capabilities.
 
 ## Why It Matters
 
@@ -39,12 +42,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T00:51:15.999231+05:30
+- Published: 2026-07-07T15:37:50.813031+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
+- benchmark
 - meta-ai
 - models
 - openai
@@ -54,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://js.langchain.com
+Original source: https://python.langchain.com/api

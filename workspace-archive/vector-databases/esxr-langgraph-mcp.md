@@ -8,7 +8,7 @@ local_vault_path: ai/rag/esxr-langgraph-mcp.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: template
 importance: medium
 tags:
 - agents
@@ -27,17 +27,13 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: mcp-server
+- Resource kind: template
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **LangGraph-MCP Template**: Python-based repository providing a structured template for implementing Model Context Protocol (MCP) using LangGraph, a framework for building stateful, multi-actor applications with LLMs.
-
-- **Key Features**: Facilitates modular MCP server development with built-in support for tool registration, context management, and stateful workflows, leveraging LangGraph’s graph-based orchestration.
-
-- **Update Status**: Actively maintained with the latest commit on **2026-07
+*   Provides a LangGraph solution template for MCP, leveraging the framework for stateful agentic workflows
 
 ## Use Cases
 

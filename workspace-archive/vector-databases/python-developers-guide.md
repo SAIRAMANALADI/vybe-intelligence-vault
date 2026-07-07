@@ -8,7 +8,7 @@ local_vault_path: ai/rag/python-developers-guide.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
@@ -19,7 +19,7 @@ tags:
 - workflows
 - youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Python Developer’s Guide
@@ -28,14 +28,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Contribution Pathways**: Python’s contribution guide provides structured pathways for documentation, code, and issue triage, including setup/build instructions, PR lifecycle management, and Git workflows tailored for CPython development.
-- **Core Development Workflow**: Key resources include PEP 7 (C style guide), PEP 8 (Python style guide), the CPython GitHub repo, and tools like Buildbot for CI/CD, with specialized sections for grammar changes, debugging (GDB/Clang), and interpreter intern
+- **Contribution Pathways**: Python’s Developer’s Guide provides structured pathways for contributing to CPython via documentation, code, or triage, with dedicated sections for setup, testing, and pull request lifecycle management.
+- **Technical Workflows**: Key workflows include building CPython from source (C/Python hybrid), running regression tests, and modifying the standard library or language grammar, with style enforced via PEP 7 (C) and PEP 8 (Python).
+- **Tooling & Governance**: Uses Gi
 
 ## Use Cases
 

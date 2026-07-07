@@ -10,10 +10,10 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 
 - [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) (framework - ESSENTIAL Tier)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
-- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) (dataset - ESSENTIAL Tier)
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) (framework - ESSENTIAL Tier)
+- [Pinecone · GitHub](https://github.com/pinecone-io) (framework - ESSENTIAL Tier)
+- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production) (framework - ESSENTIAL Tier)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (framework - ESSENTIAL Tier)
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) (framework - ESSENTIAL Tier)
 - [Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization](https://arxiv.org/abs/2606.25656) (framework - ESSENTIAL Tier)
 - [🧑‍🍳 Cookbook | Haystack](https://haystack.deepset.ai/cookbook) (benchmark - ESSENTIAL Tier)
 
@@ -24,9 +24,9 @@ https://github.com/confident-ai/deepeval (DeepEval)
 https://github.com/explodinggradients/ragas (Ragas)
 - [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
-- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG)
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
+- [Pinecone · GitHub](https://github.com/pinecone-io)
+- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/explodinggradients/ragas (Ragas)
 
 ---
 
-*Last updated: 2026-07-07 09:55 IST*
+*Last updated: 2026-07-07 15:49 IST*

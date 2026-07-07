@@ -9,7 +9,7 @@ local_vault_path: ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: template
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -33,16 +33,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: template
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **LangChain**: Python/TypeScript framework with 125K+ stars, offering 700+ integrations, modular chains, and LangGraph for agentic workflows; ideal for complex RAG pipelines.
-- **RAGFlow**: Python-based (70K+ stars) specializing in enterprise-grade document parsing (tables, images, PDFs) with template-based chunking and grounded citations to minimize hallucinations.
-- **Pathway**: Python (Rust runtime) with 50K+ stars, enabling real-time RAG via incremental updates, 350+ data connectors, and u
+- **LangChain** (⭐125K): Python/TypeScript framework with 700+ integrations, modular chains, and LangGraph for agentic workflows; ideal for complex RAG pipelines but has a steep learning curve.
+- **Pathway** (⭐50K+): Python (Rust runtime) framework optimized for real-time data processing with 350+ connectors, incremental updates, and unified ETL+RAG architecture for live knowledge bases.
+- **LightRAG** (⭐27.4K): Graph-based RAG from HKU (EMNLP 2025) using knowledge graphs for relationship-aware
 
 ## Use Cases
 

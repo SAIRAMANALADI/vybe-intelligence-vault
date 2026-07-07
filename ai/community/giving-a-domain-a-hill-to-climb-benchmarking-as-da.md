@@ -14,13 +14,14 @@ tags:
 - ai
 - benchmark
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:giving-a-domain-a-hill-to-climb-benchmarking-as-da
 first_seen: '2026-07-07T09:48:14.788695+05:30'
 last_seen: '2026-07-07T09:48:14.788695+05:30'
 last_checked: '2026-07-07T09:48:14.788695+05:30'
 health_score: 100
 ---
+
 
 # Giving a domain a hill to climb: benchmarking as data activation
 

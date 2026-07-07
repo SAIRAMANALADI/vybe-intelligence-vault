@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Go-based Workshop**: Provides a structured tutorial for building a coding agent (similar to Roo Code, Cline, etc.) using Go, covering core agent architecture and AI integration.
+- **Go-based workshop** for constructing a **coding agent** (similar to Cursor, Cline, or Roo Code) with AI integration, covering architecture, tooling, and implementation patterns.
 
-- **Key Features**: Focuses on agentic workflows, tooling, and real-time code interaction, with examples aligned to modern IDE plugins (Cursor, Windsurf, OpenCode).
+- **Open-source repository** (5.7k+ stars, 640+ forks) providing a **step-by-step tutorial** on agent design, including LLM interaction, context management, and IDE integration.
 
-- **Last Updated**: July 7, 2026; actively maintained with 5,723 stars and 640 forks, indicating strong community engagement.
+- **Last updated July 2026**, focusing on **practical AI-driven coding workflows** with modular components for extensibility and real-worl
 
 ## Use Cases
 

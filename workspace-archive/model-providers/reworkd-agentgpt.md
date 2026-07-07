@@ -8,7 +8,7 @@ local_vault_path: ai/rag/reworkd-agentgpt.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: api
 importance: medium
 tags:
 - agents
@@ -20,7 +20,7 @@ tags:
 - typescript
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # reworkd/AgentGPT
@@ -29,18 +29,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: api
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Browser-based Autonomous AI Agents**: Enables users to assemble, configure, and deploy autonomous AI agents directly in the browser, leveraging modern web technologies.
+- **Browser-based autonomous AI agent deployment**: Enables users to assemble, configure, and deploy AI agents directly in the browser without local setup, leveraging modern web technologies.
 
-- **Tech Stack**: Built with **TypeScript**, **Next.js** (T3 Stack), and integrates **LangChain** for LLM orchestration, with compatibility for **OpenAI** models and frameworks like **BabyAGI**.
+- **Tech stack**: Built with **TypeScript**, **Next.js (T3 Stack)**, and integrates **LangChain** for agent orchestration, **OpenAI APIs** for LLM interactions, and supports models like **GPT** and **BabyAGI**.
 
-- **Key Features**: Supports agent customization, real-time deployment, and modular AI agent development, with a focus on scalabil
+- **Key features**: Supports multi-agent systems, autonomous task execution, and modular agent
 
 ## Use Cases
 

@@ -31,11 +31,8 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions in real-world domains, focusing on conversational agents and LLM-based tool usage with a Python-based framework.
-
-- **Metrics & Evaluation**: Measures performance across multi-turn interactions, tool integration efficiency, and user-agent collaboration in complex, domain-specific tasks.
-
-- **Open-Source & Extensible**: Repository provides a modular benchmarking system with 1.5k+ stars, supporting custom tool-agent-user intera
+*   Benchmarks LLM agents on multi-turn, real-world tasks requiring tool utilization and user interaction.
+*   Provides a Python-based evaluation framework for assessing conversational AI agents
 
 ## Use Cases
 

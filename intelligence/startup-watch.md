@@ -4,6 +4,7 @@ Micro-SaaS templates, business validations, boilerplate code, and builder launch
 
 | Resource | Vault Folder | Score |
 | :--- | :--- | :--- |
+| [Home · nltk/nltk Wiki · GitHub](https://github.com/nltk/nltk/wiki) | `project-ideas/` | 70 |
 | [Overview Â· Cloudflare Workers AI docs](https://developers.cloudflare.com/workers-ai/) | `project-ideas/` | 70 |
 | [Twilio Hub](https://developers.twilio.com/series/twilio-developers-hub/landing_page) | `startup-builder/` | 70 |
 | [Ulusal Destek Programları | TÜBİTAK | Türkiye Bilimsel ve Teknolojik Araştırma Kurumu](https://www.tubitak.gov.tr/tr/destekler/sanayi/ulusal-destek-programlari) | `startup-builder/` | 70 |

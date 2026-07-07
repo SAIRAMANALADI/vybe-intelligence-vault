@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-07-07T09:51:48.103304+05:30'
+collected_at: '2026-07-07T15:35:09.636246+05:30'
 published_at: '2026-07-05T17:03:45Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
-- scripts
 - unknown
+- workflows
 stars: 789
 language: Unknown
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-05-02T04:18:19Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-07-07T09:51:48.103304+05:30'
-last_seen: '2026-07-07T09:51:48.103304+05:30'
-last_checked: '2026-07-07T09:51:48.103304+05:30'
+first_seen: '2026-07-07T15:35:09.636246+05:30'
+last_seen: '2026-07-07T15:35:09.636246+05:30'
+last_checked: '2026-07-07T15:35:09.636246+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research systems, focusing on reasoning agents, search agents, and agentic RAG architectures for large language models (LLMs).
-- **Technical Scope**: Covers advanced topics including multi-agent collaboration, adaptive retrieval strategies, and reasoning-enhanced LLM frameworks for complex information synthesis.
-- **ACL 2026 Integration**: Aligns with ACL 2026 KnowFM initiative, emphasizing knowledge-first methodologies and scalable deep research automation in NLP.
+- **Curated Resource Hub**: A GitHub repository compiling cutting-edge research on agentic deep research, focusing on autonomous agents leveraging large language models (LLMs) for complex reasoning and information retrieval tasks.
+
+- **Key Topics Covered**: Includes agentic RAG (Retrieval-Augmented Generation), reasoning agents, search agents, and deep research methodologies, emphasizing scalability and adaptability in AI-driven research workflows.
+
+- **ACL 2026 KnowFM Integration**: Aligns with the ACL 2026 Knowledge Foundation Models (KnowFM) initiative, providing structured access to peer-reviewed resources, frameworks, and tools for advancing autonomous deep research agents.
 
 ## Why It Matters
 

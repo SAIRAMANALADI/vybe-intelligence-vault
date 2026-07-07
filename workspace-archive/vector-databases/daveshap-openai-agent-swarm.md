@@ -16,6 +16,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **HAAS Framework**: Implements a Hierarchical Autonomous Agent Swarm in Python, enabling multi-agent collaboration with autonomous decision-making capabilities.
-- **Resistance is Futile**: Emphasizes scalability and efficiency in agent coordination, leveraging swarm intelligence for complex task decomposition.
-- **Active Development**: Last updated June 2026, with 3,095 stars and 393 forks, indicating strong community engagement and ongoing enhancements.
+- **HAAS Framework**: Implements a **Hierarchical Autonomous Agent Swarm** architecture in Python, enabling multi-agent collaboration with a resistance-is-futile paradigm.
+- **Autonomous Agent Swarm**: Features **self-organizing agents** with distributed decision-making, leveraging OpenAI's API for dynamic task execution and coordination.
+- **Scalability & Extensibility**: Designed for **horizontal scaling** with modular agent interactions, supporting customizable hierarchies and autonomous work
 
 ## Use Cases
 

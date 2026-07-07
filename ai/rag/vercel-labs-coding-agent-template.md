@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/coding-agent-template
-collected_at: '2026-07-07T09:52:18.254310+05:30'
-published_at: '2026-07-07T03:47:09Z'
+collected_at: '2026-07-07T15:35:34.702300+05:30'
+published_at: '2026-07-07T09:45:36Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
 - workflows
-stars: 1741
+stars: 1740
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-23T14:00:46Z'
 pushed_at: '2026-04-13T21:44:42Z'
 resource_id: github:vercel-labs/coding-agent-template
-first_seen: '2026-07-07T09:52:18.254310+05:30'
-last_seen: '2026-07-07T09:52:18.254310+05:30'
-last_checked: '2026-07-07T09:52:18.254310+05:30'
+first_seen: '2026-07-07T15:35:34.702300+05:30'
+last_seen: '2026-07-07T15:35:34.702300+05:30'
+last_checked: '2026-07-07T15:35:34.702300+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent AI coding platform** leveraging Vercel Sandbox for isolated execution environments and AI Gateway for managing AI model interactions.
-- **TypeScript-based architecture** enabling modular agent-based workflows with real-time collaboration and code generation capabilities.
-- **Last updated July 2026**, with 1,741 stars and 285 forks, indicating active community engagement and potential scalability for AI-driven development workflows.
+- **Architecture**: Multi-agent AI coding platform leveraging Vercel Sandbox for isolated execution environments and Vercel AI Gateway for unified AI model access and routing.
+
+- **Tech Stack**: Built in TypeScript, integrating with Vercel’s infrastructure for scalable, serverless agent orchestration and real-time code execution.
+
+- **Key Features**: Enables parallelized AI agent workflows with sandboxed code generation/editing, dynamic model selection via AI Gateway, and modular agent collaboration patterns.
 
 ## Why It Matters
 
@@ -41,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 1741
+- Stars: 1740
 - Forks: 285
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-07-07T03:47:09Z
+- Last Updated: 2026-07-07T09:45:36Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-23T14:00:46Z

@@ -6,7 +6,7 @@ source_name: GitHub Discovery
 source_url: https://github.com/truefoundry/cognita?source=post_page
 resource_id: github:truefoundry/cognita
 -----dba899ae0355---------------------------------------
-collected_at: '2026-07-07T04:14:17.146603+05:30'
+collected_at: '2026-07-07T15:37:34.832576+05:30'
 published_at: '2026-07-06T10:20:18Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: true
 created_at: '2023-07-26T13:08:54Z'
 pushed_at: '2026-03-13T15:04:36Z'
 resource_id: github:truefoundry/cognita
-first_seen: '2026-07-07T04:14:17.146603+05:30'
-last_seen: '2026-07-07T04:14:17.146603+05:30'
-last_checked: '2026-07-07T04:14:17.146603+05:30'
+first_seen: '2026-07-07T15:37:34.832576+05:30'
+last_seen: '2026-07-07T15:37:34.832576+05:30'
+last_checked: '2026-07-07T15:37:34.832576+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: Open-source Python framework for building production-grade Retrieval-Augmented Generation (RAG) applications with modular components, enabling customization and scalability.
+- **Modular RAG Framework**: Open-source Python framework for building production-grade Retrieval Augmented Generation (RAG) applications with modular components for seamless integration and scalability.
 
-- **TrueFoundry Integration**: Designed for seamless deployment and MLOps integration, supporting LLM-ops, model deployment, and fine-tuning workflows in production environments.
+- **Multi-Language Support**: Supports Python and TypeScript, enabling cross-language compatibility for frontend and backend components in AI applications.
 
-- **Multi-Language Support**: Primarily Python-based, with TypeScript compatibility for frontend components, and includes tools for data processing, deep learning, and agent-based architectures.
+- **MLOps & LLMops Integration**: Designed for production deployment with built-in support for fine-tuning, model deployment, and operational workflows (LLMops/MLops).
 
 ## Why It Matters
 

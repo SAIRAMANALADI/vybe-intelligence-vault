@@ -6,7 +6,7 @@ source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
 resource_id: github:iaar-shanghai/crud_rag
 local_vault_path: ai/rag/iaar-shanghai-crud-rag.md
 quality_score: 70
-archive_score: 77
+archive_score: 75
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -16,7 +16,6 @@ tags:
 - python
 - rag
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
@@ -25,19 +24,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Benchmark Design**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on four core operations: **C**reate, **R**etrieve, **U**pdate, and **D**elete, to assess end-to-end RAG performance.
-
-- **Evaluation Framework**: The benchmark includes **10,000+ manually annotated queries** across diverse domains, with metrics for retrieval accuracy, generation quality, and robustness to noise/distractions.
-
-- **Open-Source Toolkit**: Pr
+- **Benchmark Design**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive task coverage including retrieval, generation, and interaction dynamics.
+- **Evaluation Framework**: Implements structured metrics for assessing Large Language Models (LLMs) in RAG contexts, emphasizing multi-dimensional performance analysis (e.g., accuracy, latency, robustness).
+- **Open-Source Toolkit**: Provides a Python-based reposito
 
 ## Use Cases
 

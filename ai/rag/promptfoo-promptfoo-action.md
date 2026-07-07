@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/promptfoo/promptfoo-action
-collected_at: '2026-07-07T09:51:33.240293+05:30'
+collected_at: '2026-07-07T15:34:49.725730+05:30'
 published_at: '2026-06-30T16:43:58Z'
 tags:
 - agents
@@ -13,9 +13,10 @@ tags:
 - github-repo
 - meta-ai
 - models
-- openai
 - rag
+- scripts
 - typescript
+- workflows
 stars: 69
 language: TypeScript
 status: active
@@ -24,9 +25,9 @@ archived: false
 created_at: '2023-06-21T03:10:38Z'
 pushed_at: '2026-07-03T08:44:21Z'
 resource_id: github:promptfoo/promptfoo-action
-first_seen: '2026-07-07T09:51:33.240293+05:30'
-last_seen: '2026-07-07T09:51:33.240293+05:30'
-last_checked: '2026-07-07T09:51:33.240293+05:30'
+first_seen: '2026-07-07T15:34:49.725730+05:30'
+last_seen: '2026-07-07T15:34:49.725730+05:30'
+last_checked: '2026-07-07T15:34:49.725730+05:30'
 health_score: 100
 ---
 
@@ -34,11 +35,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Action Integration**: Enables automated testing of prompts, agents, and RAG systems via CI/CD pipelines with declarative YAML configurations for LLM evaluation (e.g., GPT, Claude, Gemini, Llama).
+- **GitHub Action for Promptfoo**: Enables automated testing of prompts, agents, and RAG systems with AI red teaming, pentesting, and LLM vulnerability scanning capabilities.
 
-- **AI Security & Red Teaming**: Provides LLM vulnerability scanning, pentesting, and adversarial testing to assess robustness against prompt injection, jailbreaks, and other attack vectors.
+- **Multi-LLM Support**: Facilitates performance comparison across major LLMs (GPT, Claude, Gemini, Llama) via declarative configurations, CLI, and CI/CD integration.
 
-- **Multi-Model Benchmarking**: Facilitates comparative performance analysis across major LLMs (e.g., OpenAI, Anthropic, Google, Meta) with command-line and CI/CD compatibility.
+- **TypeScript-Based**: Implemented in TypeScript, integrates seamlessly with GitHub Actions for declarative prompt evaluation and security testing workflows.
 
 ## Why It Matters
 

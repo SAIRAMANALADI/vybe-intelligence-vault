@@ -2,7 +2,7 @@
 title: Table of contents — voila 0.5.8 documentation
 archive_category: frontend-ai-ui
 source_category: ai/resources
-source_url: https://voila.readthedocs.io
+source_url: https://voila.readthedocs.io/
 resource_id: blog:table-of-contents-voila-0-5-8-documentation
 local_vault_path: ai/resources/table-of-contents-voila-0-5-8-documentation.md
 quality_score: 70
@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Voilà** converts Jupyter Notebooks into secure, interactive dashboards by stripping non-executable code and rendering outputs via `nbconvert` with customizable templates.
-- **Voici** extends Voilà by compiling dashboards into static web applications using **JupyterLite**, enabling offline deployment without server dependencies.
-- **Customization** includes theme switching, template control, cell tag-based output hiding, kernel management (e.g., culling idle kernels), and deployment via cloud
+- **Voilà** converts Jupyter Notebooks into secure, interactive dashboards by stripping out code cells and executing notebooks server-side, rendering only outputs via a web interface.
+- **Voici** extends Voilà by enabling static export of dashboards as standalone HTML pages using JupyterLite, eliminating server dependencies for lightweight distribution.
+- **Customization** includes theme switching, template control (via `nbconvert`), cell-tag-based hiding, kernel management (preheating/idle cull
 
 ## Use Cases
 
@@ -43,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://voila.readthedocs.io
+Original source URL: https://voila.readthedocs.io/
 
 ## Local Vault File
 

@@ -4,25 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/continuedev/continue
-collected_at: '2026-07-07T09:52:18.255589+05:30'
-published_at: '2026-07-07T03:59:48Z'
+collected_at: '2026-07-07T15:35:39.703799+05:30'
+published_at: '2026-07-07T09:42:48Z'
 tags:
 - agents
 - github-repo
 - scripts
 - typescript
-- workflows
-stars: 34727
+stars: 34726
 language: TypeScript
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-05-24T03:39:39Z'
-pushed_at: '2026-07-06T13:22:31Z'
+pushed_at: '2026-07-07T08:40:39Z'
 resource_id: github:continuedev/continue
-first_seen: '2026-07-07T09:52:18.255589+05:30'
-last_seen: '2026-07-07T09:52:18.255589+05:30'
-last_checked: '2026-07-07T09:52:18.255589+05:30'
+first_seen: '2026-07-07T15:35:39.703799+05:30'
+last_seen: '2026-07-07T15:35:39.703799+05:30'
+last_checked: '2026-07-07T15:35:39.703799+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Open-source AI coding agent** implemented in TypeScript, enabling autonomous or assisted code generation, refactoring, and debugging via CLI or IDE integration.
-- **Extensible architecture** with support for custom models, tools, and workflows, facilitating integration with local/remote LLMs and developer toolchains.
-- **Active development** (last updated July 2026) with 34,727+ stars, 4,979 forks, and a growing ecosystem for AI-driven software development automation.
+- **Open-source AI coding agent** implemented in TypeScript, enabling autonomous code generation, editing, and debugging via natural language interactions.
+- **CLI and IDE integration** support (VS Code, JetBrains) with plugin-based architecture for extensibility across development environments.
+- **GitHub repository** with 34,726 stars and 4,980 forks, last updated July 7, 2026, focusing on developer tooling and AI-driven automation.
 
 ## Why It Matters
 
@@ -41,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: continuedev
-- Stars: 34727
-- Forks: 4979
+- Stars: 34726
+- Forks: 4980
 - Language: TypeScript
 - Topics: agent, ai, cli, developer-tools, open-source
-- Last Updated: 2026-07-07T03:59:48Z
+- Last Updated: 2026-07-07T09:42:48Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-05-24T03:39:39Z
-- Pushed At: 2026-07-06T13:22:31Z
+- Pushed At: 2026-07-07T08:40:39Z
 
 ## Possible Use Cases
 

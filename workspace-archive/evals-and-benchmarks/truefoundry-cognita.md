@@ -28,11 +28,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular RAG Framework**: Open-source Python framework for building production-grade Retrieval-Augmented Generation (RAG) applications with modular components, enabling customization and scalability.
+- **Modular RAG Framework**: Open-source Python framework for building production-grade Retrieval Augmented Generation (RAG) applications with modular components for seamless integration and scalability.
 
-- **TrueFoundry Integration**: Designed for seamless deployment and MLOps integration, supporting LLM-ops, model deployment, and fine-tuning workflows in production environments.
+- **Multi-Language Support**: Supports Python and TypeScript, enabling cross-language compatibility for frontend and backend components in AI applications.
 
-- **Multi-Language Support**: Primarily Python-based, with TypeScript compatibility for frontend components, and inc
+- **MLOps & LLMops Integration**: Designed for production deployment with built-in support for fine-tuning, model deployment, and operatio
 
 ## Use Cases
 

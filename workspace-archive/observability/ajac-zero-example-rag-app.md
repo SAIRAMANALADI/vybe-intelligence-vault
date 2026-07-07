@@ -6,18 +6,13 @@ source_url: https://github.com/ajac-zero/example-rag-app
 resource_id: github:ajac-zero/example-rag-app
 local_vault_path: ai/rag/ajac-zero-example-rag-app.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: tool
 importance: medium
 tags:
-- anthropic
 - github-repo
-- mistral
-- models
-- openai
 - rag
-- scripts
 - typescript
 selection_reason:
 - Strong keyword match
@@ -29,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: tool
 - Selection reasons:
   - Strong keyword match
@@ -37,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Observability & Multi-Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for 100+ provider compatibility (e.g., OpenAI, Anthropic, Mistral) with structured logging and tracing.
-
-- **Strict TypeScript Enforcement**: Full type-checking via `tsc` and `type-coverage` tools, ensuring compile-time safety and runtime reliability in a Dockerized environment.
-
-- **Testing & CI/CD**: Achieves 100% test coverage with Jest/Playwright, automated via GitHub Actions for continuous va
+- **Observability & Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for 100+ LLM provider compatibility.
+- **DevOps & Type Safety**: Fully Dockerized with full TypeScript type-checking and 100% test coverage.
+- **Modern AI Stack**: Open-source RAG application with TypeScript, AI/ML-focused tooling, and last updated March 2026.
 
 ## Use Cases
 

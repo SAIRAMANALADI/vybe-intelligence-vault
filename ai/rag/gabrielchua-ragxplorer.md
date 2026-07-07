@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-07T09:50:43.096325+05:30'
+collected_at: '2026-07-07T15:33:59.625467+05:30'
 published_at: '2026-07-07T03:51:39Z'
 tags:
-- dataset
 - github-repo
 - jupyter notebook
+- models
 - rag
+- workflows
 stars: 1222
 language: Jupyter Notebook
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-07T09:50:43.096325+05:30'
-last_seen: '2026-07-07T09:50:43.096325+05:30'
-last_checked: '2026-07-07T09:50:43.096325+05:30'
+first_seen: '2026-07-07T15:33:59.625467+05:30'
+last_seen: '2026-07-07T15:33:59.625467+05:30'
+last_checked: '2026-07-07T15:33:59.625467+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) designed for real-time visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and optimization of LLM interactions.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for an interactive web interface, allowing users to dynamically explore RAG components (e.g., retrieval mechanisms, prompt engineering, and response generation) with minimal setup overhead.
+- **Streamlit-Powered UI**: Implements a Python-based web interface using Streamlit for real-time, user-friendly visualization of RAG components (e.g., retrieval steps, context relevance, and model outputs).
 
-- **Modular Python Framework**: Leverages Python libraries (e.g., `langchain`, `faiss`, or `sentence-transformers`) for modular RAG pipeline construction, with built-in support for custom dataset ingestion, embedding visualization, and performance metrics tracking.
+- **Modular Design**: Supports customization via Python, integrates with LLMs, and tracks metrics (e.g., retrieval accuracy, latency) for debugging and optimizing RAG workflows. Last updated July 2026.
 
 ## Why It Matters
 

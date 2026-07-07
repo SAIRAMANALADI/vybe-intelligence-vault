@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://source.android.com
-published_at: '2026-06-25T20:51:11.371325+05:30'
-collected_at: '2026-06-25T20:51:11.371338+05:30'
+published_at: '2026-07-07T15:40:28.202885+05:30'
+collected_at: '2026-07-07T15:40:28.202897+05:30'
 tags:
 - producthunt
 - web-crawled
 status: active
 resource_id: blog:android-open-source-project
-first_seen: '2026-06-25T20:51:11.371338+05:30'
-last_seen: '2026-06-25T20:51:11.371338+05:30'
-last_checked: '2026-06-25T20:51:11.371338+05:30'
+first_seen: '2026-07-07T15:40:28.202897+05:30'
+last_seen: '2026-07-07T15:40:28.202897+05:30'
+last_checked: '2026-07-07T15:40:28.202897+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **AOSP Source Code Publication Schedule**: Starting 2026, AOSP source code will be published bi-annually (Q2 & Q4) to align with the trunk stable development model, using the `android-latest-release` manifest branch for the most recent release.
+- **AOSP Release Schedule**: Starting 2026, AOSP source code will be published bi-annually (Q2 and Q4) to align with the trunk-stable development model, using the `android-latest-release` manifest branch for the most recent release.
 
-- **Feature Launch Flags**: Android implements feature launch flags in AOSP to ensure stability by allowing only tested code execution, mitigating risks in the development branch.
+- **Feature Launch Flags**: Android employs feature launch flags to ensure AOSP stability by allowing only tested code execution, mitigating risks in the development branch.
 
-- **AOSP Development & Security Resources**: Official AOSP documentation provides structured guidance on setup, security, architecture, connectivity, and compatibility for custom Android development and ecosystem integration.
+- **AOSP Development Resources**: Key documentation includes setup guides, security bulletins, architecture overviews, and connectivity standards (Bluetooth, NFC, Wi-Fi, telephony) for customizing and testing Android devices.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-25T20:51:11.371325+05:30
+- Published: 2026-07-07T15:40:28.202885+05:30
 
 ## Related Tags
 

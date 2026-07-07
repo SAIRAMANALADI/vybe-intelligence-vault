@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Repository aggregates open-source projects focused on AI memory systems, including agents, memory management, and retrieval-augmented generation (RAG) implementations.
-- **Technical Scope**: Primarily Python-based, covering topics like long-term memory, context retention, and stateful AI architectures for enhanced reasoning.
-- **Active Maintenance**: Last updated in July 2026, indicating ongoing updates and community engagement with 806 stars and 89 forks.
+- **Curated Collection**: Repository aggregating 800+ AI memory projects, focusing on memory management, RAG, and AI agent systems, primarily implemented in Python.
+- **Technical Scope**: Encompasses topics like AI memory architectures, retrieval-augmented generation (RAG), and memory optimization for AI agents.
+- **Maintenance**: Last updated July 2026, with 89 forks and 807 stars, indicating active community engagement and ongoing development.
 
 ## Use Cases
 

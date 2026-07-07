@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Security Policy**: Hugo enforces a default-deny security policy via allowlists for `os/exec`, remote operations, and environment access, with granular regex-based controls for executables (`exec.allow`), OS env vars (`exec.osEnv`), and Node.js permissions (`node.permissions`).
+- **Default Deny Policy**: Hugo enforces a restrictive default security policy via allowlists, blocking `os/exec`, remote operations, and other high-risk features unless explicitly permitted; violations trigger detailed failure messages.
 
-- **Content & HTTP Restrictions**: `allowContent` denies non-HTML content by default; `http` restricts `resources.GetRemote` to allowed methods/URLs (e.g., blocking localhost/private IPs) and media types, with negatio
+- **Granular Allowlists**: Security configuration includes regex-based allowlists for executable names (`exec.allow`), environment variables (`exec.osEnv`, `funcs.getenv`), HTTP methods/URLs (`http.methods`, `http.urls`), and Node.js permissions (`node.permissi
 
 ## Use Cases
 

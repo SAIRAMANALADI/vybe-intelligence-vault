@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Danielskry/Awesome-RAG
-collected_at: '2026-07-07T09:51:03.120890+05:30'
+collected_at: '2026-07-07T15:34:24.577890+05:30'
 published_at: '2026-07-07T02:39:37Z'
 tags:
-- benchmark
 - github-repo
 - rag
 - unknown
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-04-12T14:45:44Z'
 pushed_at: '2026-06-30T10:58:04Z'
 resource_id: github:danielskry/awesome-rag
-first_seen: '2026-07-07T09:51:03.120890+05:30'
-last_seen: '2026-07-07T09:51:03.120890+05:30'
-last_checked: '2026-07-07T09:51:03.120890+05:30'
+first_seen: '2026-07-07T15:34:24.577890+05:30'
+last_seen: '2026-07-07T15:34:24.577890+05:30'
+last_checked: '2026-07-07T15:34:24.577890+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Applications**: Comprehensive repository listing production-grade Retrieval-Augmented Generation (RAG) implementations across domains (e.g., chatbots, QA systems, code assistants) with focus on scalability and deployment efficiency.
-- **Multi-Tenant Architecture Support**: Includes RAG frameworks optimized for enterprise use cases (e.g., vector databases like Pinecone/Weaviate, hybrid search, and dynamic prompt engineering).
-- **Benchmarking & Evaluation Tools**: Provides standardized metrics (e.g., retrieval precision, generation coherence) and comparison frameworks for assessing RAG pipelines against baselines (e.g., vanilla LLMs, fine-tuned models).
+*   Aggregates Retrieval-Augmented Generation (RAG) applications within Generative AI.
+*   Catalogs practical RAG implementations leveraging Large Language Models (LLMs).
+*   Functions as a community-curated resource for exploring diverse RAG use cases.
 
 ## Why It Matters
 
@@ -41,7 +40,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: Danielskry
 - Stars: 1301
-- Forks: 164
+- Forks: 165
 - Language: Unknown
 - Topics: artificial-intelligence, generative-ai, large-language-models, rag, retrieval-augmented-generation
 - Last Updated: 2026-07-07T02:39:37Z

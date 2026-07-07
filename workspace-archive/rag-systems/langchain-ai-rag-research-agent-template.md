@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- openai
 - python
 - rag
 - workflows
@@ -34,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Structure**: Provides a modular Python-based framework for building Retrieval-Augmented Generation (RAG) research agents, leveraging LangChain's ecosystem for LLM integration and workflow orchestration.
-
-- **Key Components**: Includes pre-configured pipelines for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval, and agentic query execution with tools like web search or code execution.
-
-- **Customization Focus**: Designed for extensibility, allowing users to swap co
+- **Purpose**: Provides a template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating structured experimentation with LLMs and document retrieval pipelines.
+- **Key Components**: Includes modular Python-based workflows for document ingestion, vector storage (e.g., FAISS/Chroma), and agentic query resolution with tools like LangChain’s `ResearchAgent` and `ToolNode`.
+- **Dependencies**: Leverages LangChain core libraries (e.g., `langchain-core`, `langc
 
 ## Use Cases
 

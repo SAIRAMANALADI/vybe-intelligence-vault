@@ -28,11 +28,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`staircase-ai.md`](../../ai/rag/staircase-ai.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
-### [Haystack | Haystack](https://haystack.deepset.ai/)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`haystack-haystack.md`](../../ai/rag/haystack-haystack.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`genkit-open-source-ai-framework-by-google-in-javas.md`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md)
@@ -68,6 +63,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `81` | **Path**: [`ixartz-saas-boilerplate.md`](../../web-development/nextjs/ixartz-saas-boilerplate.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page)
+- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
+- **Score**: `81` | **Path**: [`nobruf-shadcn-landing-page.md`](../../web-development/nextjs/nobruf-shadcn-landing-page.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 
 ## Recommended Learning Path
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-07 09:55 IST*
+*Last updated: 2026-07-07 15:49 IST*

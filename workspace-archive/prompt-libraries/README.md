@@ -26,7 +26,7 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 - [langfuse/langfuse](https://github.com/langfuse/langfuse)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
-- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
+- [pixegami/langchain-rag-tutorial](https://github.com/pixegami/langchain-rag-tutorial)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-07-07 09:55 IST*
+*Last updated: 2026-07-07 15:49 IST*

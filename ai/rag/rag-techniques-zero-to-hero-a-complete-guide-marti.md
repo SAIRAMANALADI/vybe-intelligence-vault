@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-07-07T04:10:12.375220+05:30'
-collected_at: '2026-07-07T04:10:12.375233+05:30'
+published_at: '2026-07-07T15:33:30.017780+05:30'
+collected_at: '2026-07-07T15:33:30.017794+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-07-07T04:10:12.375233+05:30'
-last_seen: '2026-07-07T04:10:12.375233+05:30'
-last_checked: '2026-07-07T04:10:12.375233+05:30'
+first_seen: '2026-07-07T15:33:30.017794+05:30'
+last_seen: '2026-07-07T15:33:30.017794+05:30'
+last_checked: '2026-07-07T15:33:30.017794+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator conditioned on retrieved context, and optional rerankers/query rewriters; orchestration layers manage caching, latency, and cost.
+- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator; optionally includes rerankers, query rewriting, caching, and orchestration for improved precision and efficiency.
 
-- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector fusion), multi-stage reranking (light retriever → cross-encoder), and query rewriting (expansion, paraphrasing, multi-query) improve precision/recall; GraphRAG and iterative multi-hop retrieval enable complex reasoning.
+- **Chunking & Embeddings Optimization**: Chunking strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; embeddings require domain-specific fine-tuning, dimensionality balancing, and normalization for optimal performance.
 
-- **Operational & Evaluation Considerations**: Latency/throughput optimization via ANN indexes, token budgeting, and context distillation; evaluation requires retrieval metrics (MRR/nDCG) and generation metrics (factuality/hallucination rate) with gold-standard evidence sets.
+- **Multi-Stage Retrieval & Context Management**: Two-stage retrieval (efficient first-stage + cross-encoder reranking) enhances precision; context distillation and autocut techniques reduce hallucinations and manage token budgets in generation.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T04:10:12.375220+05:30
+- Published: 2026-07-07T15:33:30.017780+05:30
 
 ## Related Tags
 

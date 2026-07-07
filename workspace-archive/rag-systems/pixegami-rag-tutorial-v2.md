@@ -17,6 +17,7 @@ tags:
 - models
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates RAG implementation using locally hosted large language models (LLMs) via frameworks like Ollama or LM Studio, avoiding cloud dependencies.
-- **Dynamic Database Updates**: Implements automated vector database refresh mechanisms (e.g., ChromaDB) to incorporate new documents without manual intervention.
-- **Testing & Evaluation**: Includes unit tests and performance benchmarks (e.g., retrieval accuracy, latency) using tools like `pytest` and custom evaluati
+- **Local LLM Integration**: Demonstrates RAG workflows using locally hosted language models (e.g., Ollama) for privacy and offline capability.
+- **Dynamic Database Updates**: Implements mechanisms to refresh vector databases (e.g., Chroma) with new documents without full reindexing.
+- **Testing Framework**: Includes automated evaluation pipelines for RAG performance metrics (e.g., retrieval accuracy, answer correctness) using synthetic queries.
 
 ## Use Cases
 

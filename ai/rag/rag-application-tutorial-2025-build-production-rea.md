@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-07-07T00:46:57.817346+05:30'
-collected_at: '2026-07-07T00:46:57.817361+05:30'
+published_at: '2026-07-07T15:33:31.627540+05:30'
+collected_at: '2026-07-07T15:33:31.627554+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-07-07T00:46:57.817361+05:30'
-last_seen: '2026-07-07T00:46:57.817361+05:30'
-last_checked: '2026-07-07T00:46:57.817361+05:30'
+first_seen: '2026-07-07T15:33:31.627554+05:30'
+last_seen: '2026-07-07T15:33:31.627554+05:30'
+last_checked: '2026-07-07T15:33:31.627554+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking (optimized for context retention), vector embeddings (using models like `all-MiniLM-L6-v2`), and retrieval via Supabase vector DB with hybrid search (dense + sparse) for precision.
+- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like hybrid search combining dense/sparse retrieval), and vector storage (e.g., Supabase) for efficient retrieval during generation.
 
-- **Production Optimization**: Implements caching (e.g., Redis for repeated queries), load balancing across multiple LLM instances, and Cloudflare Workers for edge deployment to reduce latency and cost.
+- **Production Optimization**: Critical factors include latency reduction (via caching strategies and load balancing), token usage optimization (balancing cost/performance trade-offs), and observability integration (e.g., Sentry for monitoring).
 
-- **Monitoring & Scalability**: Integrates Sentry for error tracking, tracks token usage vs. performance trade-offs, and employs query expansion/rewriting to mitigate hallucinations while maintaining sub-100ms retrieval latency.
+- **Advanced Patterns & Scaling**: Supports multi-modal RAG (handling images/PDFs), conversational RAG with memory, and deployment strategies (e.g., Cloudflare Workers) for scalable, low-latency inference.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T00:46:57.817346+05:30
+- Published: 2026-07-07T15:33:31.627540+05:30
 
 ## Related Tags
 

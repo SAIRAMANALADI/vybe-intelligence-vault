@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Template for building a Retrieval-Augmented Generation (RAG) chatbot using Azure OpenAI, designed for workshop-style implementation.
+- **Purpose**: Template for building a Retrieval-Augmented Generation (RAG) chatbot using Azure OpenAI, designed for workshop-based learning.
 - **Tech Stack**: Implemented in TypeScript, leveraging Azure OpenAI services for embedding generation and LLM inference.
-- **Key Features**: Includes pre-configured RAG pipeline with document retrieval, embedding storage, and chat interface integration.
+- **Key Features**: Includes pre-configured RAG pipeline with document retrieval, vector search, and chat interface integration.
 
 ## Use Cases
 

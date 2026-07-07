@@ -4,11 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-07-07T09:50:53.216815+05:30'
+collected_at: '2026-07-07T15:34:09.662245+05:30'
 published_at: '2026-07-06T16:08:55Z'
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
+- models
 - rag
 - workflows
 stars: 1466
@@ -19,9 +21,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-06-30T09:33:23Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-07-07T09:50:53.216815+05:30'
-last_seen: '2026-07-07T09:50:53.216815+05:30'
-last_checked: '2026-07-07T09:50:53.216815+05:30'
+first_seen: '2026-07-07T15:34:09.662245+05:30'
+last_seen: '2026-07-07T15:34:09.662245+05:30'
+last_checked: '2026-07-07T15:34:09.662245+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples for all available foundational models in Amazon Bedrock, including Amazon Titan, to facilitate customer onboarding and usage.
+- **Repository Contents**: Provides Jupyter Notebook examples demonstrating Amazon Bedrock's foundational models, including Amazon Titan, for generative AI, embeddings, and RAG (Retrieval-Augmented Generation) workflows.
 
-- **Multi-Faceted AI Integration**: Demonstrates key AI/ML workflows such as embeddings generation, Retrieval-Augmented Generation (RAG), and integration with LangChain for building generative AI applications.
+- **Integration Focus**: Includes examples leveraging LangChain for building knowledge bases and implementing retrieval-augmented generation pipelines with Bedrock models.
 
-- **Knowledge Base & AWS Ecosystem**: Includes examples for creating and managing knowledge bases, showcasing seamless integration with AWS services for scalable generative AI solutions.
+- **Technical Scope**: Covers end-to-end workflows for fine-tuning, evaluating, and deploying generative AI models using Amazon Bedrock's APIs and services.
 
 ## Why It Matters
 

@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline using Azure services, integrating document retrieval with generative AI models.
-- **Technical Stack**: Implemented in Python, leveraging Azure's AI/ML and storage services (e.g., Azure Cognitive Search, Azure OpenAI).
-- **Key Features**: Includes document ingestion, vector embeddings, retrieval mechanisms, and LLM-based response generation with Azure-native components.
+- **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) implementation using Azure services, enabling enhanced LLM responses via external knowledge retrieval.
+
+- **Technical Stack**: Python-based, leveraging Azure Cognitive Search for retrieval and Azure OpenAI for generation (likely using embeddings and vector databases).
+
+- **Deployment**: Example repository includes infrastructure-as-code (e.g., Bicep/Terraform) for Azure resource provisioning (search, storage, compute).
 
 ## Use Cases
 

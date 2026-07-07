@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Purpose**: Enables deployment of agentic workflows to production, leveraging LLM-based multi-agent systems with native support for LlamaIndex integration.
-
-- **Key Features**: Supports modular agent composition, scalable workflow execution, and production-grade deployment pipelines for LLM-driven applications.
-
-- **Technical Stack**: Python-based framework optimized for multi-agent orchestration, LLM integration, and deployment automation with real-time updates (last commit: 2026-0
+- **Framework Purpose**: Enables deployment of agentic workflows to production, supporting multi-agent systems with LLM integration via LlamaIndex.
+- **Technical Stack**: Python-based framework optimized for scalable agent orchestration and workflow automation.
+- **Key Features**: Supports deployment, multi-agent collaboration, and LLM-driven workflows with recent updates (as of 2026-06-09).
 
 ## Use Cases
 

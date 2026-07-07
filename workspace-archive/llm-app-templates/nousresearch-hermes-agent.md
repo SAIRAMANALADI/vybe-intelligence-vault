@@ -17,7 +17,6 @@ tags:
 - openai
 - python
 - scripts
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -37,8 +36,8 @@ selection_reason:
 ## Summary
 
 - **Multi-Model Agent Framework**: Hermes-Agent is a Python-based AI agent system supporting integration with Anthropic, OpenAI, and other LLM providers (e.g., Claude, ChatGPT) for dynamic task execution and tool use.
-- **Extensible Tooling & Automation**: Features built-in support for code execution (Claude Code), file system operations, and web browsing via tools like `clawdbot` and `moltbot`, enabling autonomous workflows.
-- **Scalable & Community-Driven**: Actively maintained (last update: 2
+- **Extensible Tooling & Automation**: Features built-in support for code execution (Claude-Code), file system operations (ClawDBot), and modular plugin architecture for custom tool integration.
+- **Scalable & Maintainable Design**: Emphasizes iterative growth with versioned update
 
 ## Use Cases
 

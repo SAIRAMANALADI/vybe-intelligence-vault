@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-07-07T09:51:43.157537+05:30'
-published_at: '2026-07-07T02:18:11Z'
+collected_at: '2026-07-07T15:35:04.689869+05:30'
+published_at: '2026-07-07T09:43:41Z'
 tags:
 - github-repo
 - hackernews
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-07-07T09:51:43.157537+05:30'
-last_seen: '2026-07-07T09:51:43.157537+05:30'
-last_checked: '2026-07-07T09:51:43.157537+05:30'
+first_seen: '2026-07-07T15:35:04.689869+05:30'
+last_seen: '2026-07-07T15:35:04.689869+05:30'
+last_checked: '2026-07-07T15:35:04.689869+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system tailored for long-video understanding, enabling LLMs to process and interact with video content via multi-modal inputs.
-- **Technical Implementation**: Leverages Python with support for large language models (LLMs), multi-modal LLMs, and retrieval mechanisms optimized for video data.
-- **KDD'2026 Contribution**: Proposes a novel approach for querying and extracting insights from videos, enhancing long-form video comprehension through structured retrieval and generation.
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling multi-modal LLMs to interactively query video content via natural language.
+- **Technical Stack**: Implemented in Python, leveraging large language models (LLMs) and multi-modal techniques for scalable video indexing, retrieval, and contextual response generation.
+- **KDD'2026 Contribution**: Proposes a novel approach for dynamic video chat, optimizing retrieval and generation for long-form video content with structured multi-modal embeddings.
 
 ## Why It Matters
 
@@ -42,10 +42,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: HKUDS
 - Stars: 3131
-- Forks: 442
+- Forks: 443
 - Language: Python
 - Topics: large-language-models, llms, long-video-understanding, multi-modal-llms, rag, retrieval-augmented-generation
-- Last Updated: 2026-07-07T02:18:11Z
+- Last Updated: 2026-07-07T09:43:41Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-02-03T03:59:11Z

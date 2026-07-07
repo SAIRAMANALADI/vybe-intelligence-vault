@@ -8,7 +8,7 @@ local_vault_path: ai/rag/neo4j-graph-intelligence-platform.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - mistral
@@ -17,7 +17,7 @@ tags:
 - web-crawled
 - workflows
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Neo4j Graph Intelligence Platform
@@ -26,17 +26,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Integration of Neo4j and Mistral AI**: Leverages graph databases (Neo4j) for structured knowledge representation and Mistral AI's LLMs for explainable AI inference, enabling transparent decision-making in enterprise workflows.
+- **Integration of Neo4j and Mistral AI**: Leverages graph-based knowledge representation with Mistral AI's large language models (LLMs) to enhance explainability in enterprise AI systems.
 
-- **Explainable AI (XAI) Framework**: Utilizes graph-based reasoning to provide interpretable AI outputs, with Neo4j storing relationships and Mistral AI generating contextual explanations for model predictions.
+- **Knowledge Graph-Driven Explainability**: Uses Neo4j’s graph database to model relationships and dependencies, enabling transparent reasoning paths for AI decision-making.
 
-- **Enterprise Use Case**: Designed for industries requ
+- **Enterprise-Scale Deployment**: Designed for large-scale, production-grade AI systems requiring interpretable outputs, compliance,
 
 ## Use Cases
 

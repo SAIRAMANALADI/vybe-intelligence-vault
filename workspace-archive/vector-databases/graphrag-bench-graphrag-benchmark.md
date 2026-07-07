@@ -15,6 +15,7 @@ tags:
 - dataset
 - github-repo
 - hackernews
+- paper
 - python
 - rag
 selection_reason:
@@ -33,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Framework**: Official repository for GraphRAG-Bench, designed to evaluate Graph Retrieval-Augmented Generation (GraphRAG) models, with a focus on determining optimal use cases for graph-based RAG systems.
-- **Technical Scope**: Provides a comprehensive analysis of graph retrieval strategies within RAG pipelines, targeting ICLR'26 contributions with Python-based implementations.
-- **Dataset & Metrics**: Includes curated datasets and benchmarking tools to assess performance, supporti
+- **Benchmark Framework**: Official repository for GraphRAG-Bench, designed to evaluate Graph Retrieval-Augmented Generation (GraphRAG) models, as proposed in the ICLR'26 paper *"When to use Graphs in RAG: A Comprehensive Analysis for GraphRAG"*.
+
+- **Technical Scope**: Focuses on graph-based RAG methodologies, providing datasets and analysis tools to assess performance across different GraphRAG implementations.
+
+- **Implementation**: Python-based repository with 456 stars and 53 forks, last upd
 
 ## Use Cases
 

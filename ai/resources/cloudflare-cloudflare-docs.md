@@ -4,23 +4,23 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cloudflare/cloudflare-docs
-collected_at: '2026-07-07T00:52:38.854668+05:30'
-published_at: '2026-07-06T16:16:21Z'
+collected_at: '2026-07-07T15:39:18.847777+05:30'
+published_at: '2026-07-07T09:52:39Z'
 tags:
 - github-repo
 - hackernews
 - mdx
-stars: 4908
+stars: 4910
 language: MDX
 status: active
 license: CC-BY-4.0
 archived: false
 created_at: '2020-09-03T20:29:26Z'
-pushed_at: '2026-07-06T19:17:12Z'
+pushed_at: '2026-07-07T09:18:11Z'
 resource_id: github:cloudflare/cloudflare-docs
-first_seen: '2026-07-07T00:52:38.854668+05:30'
-last_seen: '2026-07-07T00:52:38.854668+05:30'
-last_checked: '2026-07-07T00:52:38.854668+05:30'
+first_seen: '2026-07-07T15:39:18.847777+05:30'
+last_seen: '2026-07-07T15:39:18.847777+05:30'
+last_checked: '2026-07-07T15:39:18.847777+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `cloudflare/cloudflare-docs` hosts Cloudflare’s official documentation, written in **MDX** (Markdown + JSX) for dynamic content rendering.
-- **Metadata**: 4,908 ⭐, 15,608 🍴, last updated **2026-07-06**; topics include `cloudflare`, `docs`, `hacktoberfest`, `markdown`, and `mdx`.
-- **Purpose**: Serves as a structured, community-driven knowledge base for Cloudflare’s products/services, optimized for technical accuracy and extensibility.
+- **Repository Overview**: Hosts Cloudflare’s official documentation, written in MDX (Markdown + JSX), covering Cloudflare services, APIs, and configurations.
+- **Metadata**: 4,910 stars, 15,627 forks; actively maintained (last update: 2026-07-07); includes topics like `hacktoberfest`, `markdown`, and `mdx`.
+- **Purpose**: Serves as a collaborative, open-source resource for developers and users to access Cloudflare’s technical documentation and contribute via GitHub.
 
 ## Why It Matters
 
@@ -39,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: cloudflare
-- Stars: 4908
-- Forks: 15608
+- Stars: 4910
+- Forks: 15627
 - Language: MDX
 - Topics: cloudflare, docs, hacktoberfest, markdown, mdx
-- Last Updated: 2026-07-06T16:16:21Z
+- Last Updated: 2026-07-07T09:52:39Z
 - License: CC-BY-4.0
 - Archived: No
 - Created At: 2020-09-03T20:29:26Z
-- Pushed At: 2026-07-06T19:17:12Z
+- Pushed At: 2026-07-07T09:18:11Z
 
 ## Possible Use Cases
 

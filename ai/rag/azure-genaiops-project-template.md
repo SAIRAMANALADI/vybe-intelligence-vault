@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-07-07T09:50:28.145393+05:30'
+collected_at: '2026-07-07T15:33:49.597033+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
-- openai
 - rag
 - workflows
 stars: 44
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-07-07T09:50:28.145393+05:30'
-last_seen: '2026-07-07T09:50:28.145393+05:30'
-last_checked: '2026-07-07T09:50:28.145393+05:30'
+first_seen: '2026-07-07T15:33:49.597033+05:30'
+last_seen: '2026-07-07T15:33:49.597033+05:30'
+last_checked: '2026-07-07T15:33:49.597033+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Deploys a Generative AI Ops RAG (Retrieval-Augmented Generation) solution using Bicep, enabling automated provisioning of Azure resources (e.g., AI services, storage, networking) for scalable RAG pipelines.
-
-- **Modular Bicep Design**: Organized into reusable modules for core components (e.g., compute, data pipelines, monitoring), facilitating customization and CI/CD integration for GenAI workflows.
-
-- **Pre-configured RAG Workflow**: Includes templates for vector databases, embedding models, and retrieval logic, optimized for Azure AI services (e.g., Azure OpenAI, Cognitive Search) with built-in observability.
+- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for Generative AI Operations (GenAIOps) with Retrieval-Augmented Generation (RAG) capabilities, enabling automated Azure resource provisioning.
+- **Modular Design**: Structured for extensibility, allowing customization of AI pipelines, data ingestion, and model serving components within Azure’s ecosystem.
+- **Pre-configured RAG Workflow**: Includes templates for vector databases, embedding models, and orchestration logic to streamline GenAI application deployment and lifecycle management.
 
 ## Why It Matters
 

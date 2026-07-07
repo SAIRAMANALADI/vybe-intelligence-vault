@@ -2,7 +2,7 @@
 title: Get Started | DataCamp
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://app.datacamp.com/learn/courses/building-ai-agents-with-haystack
+source_url: https://app.datacamp.com/?support=true
 resource_id: blog:get-started-datacamp
 local_vault_path: ai/rag/get-started-datacamp.md
 quality_score: 70
@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- agents
 - rag
 - web-crawled
 selection_reason:
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Authentication Methods**: Supports email/password login, SSO (Single Sign-On), and OAuth via Google, LinkedIn, Facebook, and Apple.
-- **Session Persistence**: "Remember me" option enables persistent sessions via cookies.
-- **Data Compliance**: Login requires acceptance of Terms of Use, Privacy Policy, and data storage in the USA.
+- **Authentication Methods**: Supports email/password login, Single Sign-On (SSO), and OAuth via Google, Microsoft, LinkedIn, Facebook, and Apple.
+- **Security & Compliance**: Enforces Terms of Use, Privacy Policy, and data storage in the USA per user agreement.
+- **Session Management**: Includes "Remember me" option for persistent sessions and a password recovery mechanism via email.
 
 ## Use Cases
 
@@ -44,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://app.datacamp.com/learn/courses/building-ai-agents-with-haystack
+Original source URL: https://app.datacamp.com/?support=true
 
 ## Local Vault File
 

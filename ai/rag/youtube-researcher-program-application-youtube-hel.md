@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/youtube/contact/yt_researcher_certification
-published_at: '2026-06-25T16:47:09.339515+05:30'
-collected_at: '2026-06-25T16:47:09.339527+05:30'
+published_at: '2026-07-07T15:40:25.396396+05:30'
+collected_at: '2026-07-07T15:40:25.396409+05:30'
 tags:
 - anthropic
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:youtube-researcher-program-application-youtube-hel
-first_seen: '2026-06-25T16:47:09.339527+05:30'
-last_seen: '2026-06-25T16:47:09.339527+05:30'
-last_checked: '2026-06-25T16:47:09.339527+05:30'
+first_seen: '2026-07-07T15:40:25.396409+05:30'
+last_seen: '2026-07-07T15:40:25.396409+05:30'
+last_checked: '2026-07-07T15:40:25.396409+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Application Requirements**: Form requires details on research, institution affiliation, API Client, and current/proposed YouTube API usage, with data processed under [Privacy Policy](https://policies.google.com/privacy) and [Researcher Program Policies](https://research.youtube/policies/).
+- **Application Requirements**: The YouTube Researcher Program application mandates details on research focus, institutional affiliation, API client specifics, and current/proposed API usage, with adherence to [Privacy Policy](https://policies.google.com/privacy?hl=en) and [Researcher Program Policies](https://research.youtube/policies/).
 
-- **Institution Validation**: Applicants must select a pre-approved organization from a dropdown list (e.g., universities, research institutes) with country-specific validation.
+- **Institutional Data Collection**: Applicants must provide legal name, monitored email, country, and select an accredited organization from a predefined list (e.g., universities, research institutes) with unique institutional IDs (e.g., `U-0697` for A P GOYAL SHIMLA UNIVERSITY).
 
-- **Quota & Updates**: Existing participants must declare changes to research details (e.g., proposals, publications) and specify if additional API quota is needed.
+- **Program Participation Options**: Applicants can choose between a **new application** or **additional quota request** for existing participants, with mandatory disclosure of research-related changes (e.g., proposal updates, publication timelines).
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:47:09.339515+05:30
+- Published: 2026-07-07T15:40:25.396396+05:30
 
 ## Related Tags
 

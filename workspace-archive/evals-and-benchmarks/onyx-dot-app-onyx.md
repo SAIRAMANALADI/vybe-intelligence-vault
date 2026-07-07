@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Onyx**: Open-source AI platform enabling AI chat with advanced features, supporting integration with any LLM (e.g., ChatGPT) via a modular architecture.
-- **Core Features**: Includes enterprise-grade search, RAG (Retrieval-Augmented Generation), vector search, and a Next.js-based chat UI with Python backend for self-hosting.
-- **Tech Stack**: Python (backend), Next.js (frontend), with support for vector databases, self-hosting, and multi-model LLM compatibility.
+- **Multi-LLM Integration**: Open-source AI platform enabling seamless interaction with diverse large language models (LLMs) via a unified chat interface, supporting both proprietary and open-source models.
+
+- **Advanced RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based similarity search for enterprise-grade information retrieval and context-aware responses.
+
+- **Self-Hosted & Modular**: Built with Python (backend) and Next.js (frontend), offering self-host
 
 ## Use Cases
 

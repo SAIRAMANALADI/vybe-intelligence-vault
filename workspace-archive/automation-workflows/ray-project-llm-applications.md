@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples leveraging Llama2, OpenAI, and Anyscale models.
-- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) and optimizing inference performance via Ray’s scalable serving infrastructure.
-- **End-to-End Deployment**: Provides templates for deploying LLM applications in production, covering retrieval, generation,
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples integrating Llama2, OpenAI, and Anyscale models.
+- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) and optimizing inference via Ray’s scalable serving infrastructure.
+- **End-to-End Deployment**: Provides templates for deploying RAG-based LLM applications in production, covering retrieval, generation,
 
 ## Use Cases
 

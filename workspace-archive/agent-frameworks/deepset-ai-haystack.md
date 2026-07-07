@@ -1,32 +1,35 @@
 ---
-title: deepset-ai/haystack · Discussions · GitHub
+title: deepset-ai/haystack
 archive_category: agent-frameworks
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack/discussions
+source_url: https://github.com/deepset-ai/haystack
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
-- anthropic
+- github-repo
+- hackernews
+- mdx
+- models
+- openai
 - rag
-- web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# deepset-ai/haystack · Discussions · GitHub
+# deepset-ai/haystack
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Haystack** is an open-source framework by **deepset-ai** for building **RAG (Retrieval-Augmented Generation)** pipelines, with **25.8k+ stars** and **2.9k+ forks** on GitHub.
-- **Key features** include modular pipeline design, support for **DoclingConverter** for document processing, and **runtime debugging tools** like the **Haystack Diagnostics Engine** for RAG pipeline validation.
-- **Active development** includes discussions on **agent security** (e.g., **AgentShield**, **Agent Memory Gu
+- **Modular AI Orchestration**: Haystack enables building production-ready LLM applications via configurable pipelines with explicit control over retrieval, routing, memory, and generation components.
+
+- **Multi-Use Case Support**: Supports scalable agents, RAG, multimodal apps, semantic search, and conversational systems through a unified framework.
+
+- **Technical Stack**: Implemented in Python with PyTorch/Transformers, optimized for integration with models like GPT-4 and Gemini, and designed
 
 ## Use Cases
 
@@ -46,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack/discussions
+Original source URL: https://github.com/deepset-ai/haystack
 
 ## Local Vault File
 

@@ -20,11 +20,11 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 ## Best GitHub Repositories
 
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
+- [Home · nltk/nltk Wiki · GitHub](https://github.com/nltk/nltk/wiki)
 - [hectorpine/multiple-model-crew](https://github.com/hectorpine/multiple-model-crew)
-- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
-- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search)
-- [vercel-labs/ai-sdk-preview-rag](https://github.com/vercel-labs/ai-sdk-preview-rag)
+- [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
+- [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit)
 
 ## Best Learning Resources
 
@@ -40,4 +40,4 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ---
 
-*Last updated: 2026-07-07 09:55 IST*
+*Last updated: 2026-07-07 15:49 IST*

@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IBM/mt-rag-benchmark
-collected_at: '2026-07-07T09:51:18.144113+05:30'
+collected_at: '2026-07-07T15:34:39.652125+05:30'
 published_at: '2026-06-26T15:53:38Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
 stars: 145
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-12-17T19:26:10Z'
 pushed_at: '2026-05-01T18:23:01Z'
 resource_id: github:ibm/mt-rag-benchmark
-first_seen: '2026-07-07T09:51:18.144113+05:30'
-last_seen: '2026-07-07T09:51:18.144113+05:30'
-last_checked: '2026-07-07T09:51:18.144113+05:30'
+first_seen: '2026-07-07T15:34:39.652125+05:30'
+last_seen: '2026-07-07T15:34:39.652125+05:30'
+last_checked: '2026-07-07T15:34:39.652125+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Multi-Turn Retrieval-Augmented Generation (RAG) benchmark evaluating conversational RAG systems across multi-turn interactions, focusing on context retention and iterative retrieval quality.
-- **Technical Scope**: Python-based framework supporting customizable datasets, evaluation metrics (e.g., answer correctness, context relevance), and modular RAG pipeline components (retriever, generator).
-- **Evaluation Metrics**: Includes automated metrics for multi-turn coherence, factual consistency, and retrieval precision, with extensible APIs for integrating new models or datasets.
+- **Multi-Turn RAG Evaluation Framework**: Provides a benchmarking suite for assessing multi-turn Retrieval-Augmented Generation (RAG) systems, focusing on conversational context retention and iterative retrieval quality.
+
+- **Python-Based Implementation**: Includes modular Python libraries for simulating multi-turn interactions, evaluating retrieval precision/recall, and measuring end-to-end response quality in RAG pipelines.
+
+- **Dataset & Metrics**: Offers standardized datasets and evaluation metrics (e.g., turn-level accuracy, context relevance) to compare RAG models under dynamic, multi-turn conversational scenarios.
 
 ## Why It Matters
 

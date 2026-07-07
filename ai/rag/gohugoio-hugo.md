@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/gohugoio/hugo/releases
-published_at: '2026-07-07T00:53:08.577240+05:30'
-collected_at: '2026-07-07T00:53:08.577259+05:30'
+published_at: '2026-07-07T15:39:20.589681+05:30'
+collected_at: '2026-07-07T15:39:20.589692+05:30'
 tags:
 - agents
 - frontend_ui
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugo
-first_seen: '2026-07-07T00:53:08.577259+05:30'
-last_seen: '2026-07-07T00:53:08.577259+05:30'
-last_checked: '2026-07-07T00:53:08.577259+05:30'
+first_seen: '2026-07-07T15:39:20.589692+05:30'
+last_seen: '2026-07-07T15:39:20.589692+05:30'
+last_checked: '2026-07-07T15:39:20.589692+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Hugo v0.164.0** introduces Chroma dark/light mode syntax highlighting pairs, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), Pandoc citation support, and fixes a performance regression from v0.128.0 affecting larger sites.
+- **Hugo v0.164.0** introduces Chroma highlighter dark/light mode pairs, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and Pandoc citation support, alongside a performance regression fix from v0.128.0.
 
-- **Deprecations & Changes**: Resources.PostProcess is deprecated in favor of `templates.Defer`; added `markup.rst.syntaxHighlight` option and sub-path support in `Page.Render` layouts; improved `hugio` performance via `hasBytesWriter` optimization.
+- **Deprecations & Fixes**: Resources.PostProcess is deprecated in favor of `templates.Defer`; template name lookup is now case-insensitive; `.Render` now returns errors for missing templates.
 
-- **Dependency Updates**: Upgraded `esbuild` to v0.28.1, added Chroma dark/light mode support, and updated Go modules (`x/tools`, `x/image`, `x/net`, `x/mod`) and other libraries (e.g., `go-toml/v2`, `kin-openapi`).
+- **Dependency Updates**: Includes upgrades to `esbuild v0.28.1`, `Chroma` (dark/light mode support), and Go toolchain components (`x/tools`, `x/net`, `x/mod`, `x/image`).
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T00:53:08.577240+05:30
+- Published: 2026-07-07T15:39:20.589681+05:30
 
 ## Related Tags
 

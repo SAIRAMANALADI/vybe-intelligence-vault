@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/braincrew-lab/langgraph-mcp-agents
-collected_at: '2026-07-07T04:14:02.107269+05:30'
+collected_at: '2026-07-07T15:37:19.894289+05:30'
 published_at: '2026-07-04T06:34:12Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - python
 - workflows
 stars: 709
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-03-30T14:25:58Z'
 pushed_at: '2025-04-14T11:00:22Z'
 resource_id: github:braincrew-lab/langgraph-mcp-agents
-first_seen: '2026-07-07T04:14:02.107269+05:30'
-last_seen: '2026-07-07T04:14:02.107269+05:30'
-last_checked: '2026-07-07T04:14:02.107269+05:30'
+first_seen: '2026-07-07T15:37:19.894289+05:30'
+last_seen: '2026-07-07T15:37:19.894289+05:30'
+last_checked: '2026-07-07T15:37:19.894289+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **LangGraph + ReAct Agent**: Implements a LangGraph-based ReAct (Reasoning and Acting) agent architecture, enabling dynamic decision-making and tool usage via a graph-based workflow.
-
-- **MCP Integration**: Supports Model Context Protocol (MCP) for seamless interaction with external data sources and APIs, extending agent capabilities beyond static training data.
-
-- **Streamlit Web Interface**: Provides a dynamic, user-configurable Streamlit UI for deploying, managing, and interacting with agents, facilitating real-time agent configuration and tool integration.
+- **Architecture**: Implements a **LangGraph**-based **ReAct (Reasoning and Acting)** agent framework with **Model Context Protocol (MCP)** integration for dynamic tool orchestration and API/data source interactions.
+- **Interface**: Provides a **Streamlit**-based web UI for real-time configuration, deployment, and interaction with AI agents, enabling dynamic tool selection and agent customization.
+- **Technical Stack**: Python-based implementation with **LangGraph** for agent workflows, **MCP** for tool integration, and **ReAct** for iterative reasoning-action cycles.
 
 ## Why It Matters
 

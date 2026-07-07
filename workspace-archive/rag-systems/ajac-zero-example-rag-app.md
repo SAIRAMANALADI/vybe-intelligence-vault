@@ -11,13 +11,8 @@ archive_tier: useful
 resource_kind: tool
 importance: medium
 tags:
-- anthropic
 - github-repo
-- mistral
-- models
-- openai
 - rag
-- scripts
 - typescript
 selection_reason:
 - Strong keyword match
@@ -37,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Observability & Multi-Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for 100+ provider compatibility (e.g., OpenAI, Anthropic, Mistral) with structured logging and tracing.
-
-- **Strict TypeScript Enforcement**: Full type-checking via `tsc` and `type-coverage` tools, ensuring compile-time safety and runtime reliability in a Dockerized environment.
-
-- **Testing & CI/CD**: Achieves 100% test coverage with Jest/Playwright, automated via GitHub Actions for continuous va
+- **Observability & Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for 100+ LLM provider compatibility.
+- **DevOps & Type Safety**: Fully Dockerized with full TypeScript type-checking and 100% test coverage.
+- **Modern AI Stack**: Open-source RAG application with TypeScript, AI/ML-focused tooling, and last updated March 2026.
 
 ## Use Cases
 

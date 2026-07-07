@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-07T09:51:43.135747+05:30'
+collected_at: '2026-07-07T15:35:04.663966+05:30'
 published_at: '2026-07-06T02:04:16Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-07T09:51:43.135747+05:30'
-last_seen: '2026-07-07T09:51:43.135747+05:30'
-last_checked: '2026-07-07T09:51:43.135747+05:30'
+first_seen: '2026-07-07T15:35:04.663966+05:30'
+last_seen: '2026-07-07T15:35:04.663966+05:30'
+last_checked: '2026-07-07T15:35:04.663966+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a linear graph-based RAG framework for large-scale corpora, optimizing retrieval efficiency and scalability for LLMs by leveraging linear graph structures to enhance contextual retrieval.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel linear graph-based retrieval mechanism for Large Language Models (LLMs) to enhance generation quality on large-scale corpora, optimizing both efficiency and scalability.
 
-- **ICLR 2026 Submission**: Proposes a novel approach to RAG by integrating linear graph traversal for dynamic, low-latency retrieval, addressing challenges in traditional graph-based RAG methods (e.g., high computational overhead).
+- **Efficient Graph Construction**: Implements a linear-time graph construction algorithm that dynamically builds and updates a retrieval graph, enabling real-time augmentation of LLM prompts with structured context from vast document collections.
 
-- **Python Implementation**: Repository provides an open-source Python implementation of LinearRAG, supporting modular integration with LLMs and graph-based corpora, with benchmarks demonstrating improved retrieval speed and accuracy.
+- **Performance Benchmarks**: Demonstrates superior performance over traditional RAG methods in retrieval accuracy, generation coherence, and computational efficiency, validated on large-scale datasets with minimal latency overhead.
 
 ## Why It Matters
 

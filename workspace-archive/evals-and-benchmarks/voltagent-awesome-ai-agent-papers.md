@@ -14,7 +14,6 @@ tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - paper
 - rag
 - unknown
@@ -37,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated 2026 AI Agent Research Repository**: Compiles cutting-edge papers on AI agent engineering, memory systems, evaluation frameworks, workflows, and autonomous architectures.
-- **Technical Scope**: Encompasses LLM-driven agents, Retrieval-Augmented Generation (RAG), memory optimization, and multi-agent workflows.
-- **Metadata**: 1,535 stars, 163 forks, last updated July 7, 2026; categorized under `ai-agents`, `llm`, and `research-paper` topics.
+- Curated repository of **2026 AI agent research papers**, focusing on **agent engineering, memory systems, evaluation frameworks, workflows, and autonomous systems**.
+- Includes **1,535 stars** and **163 forks**, covering topics like **LLM-based agents, RAG, and memory architectures**.
+- Last updated **July 7, 2026**, with a structured list of **cutting-edge papers** in AI agent research.
 
 ## Use Cases
 
