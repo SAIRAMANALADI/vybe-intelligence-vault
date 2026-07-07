@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 47,415 files</p>
-        <p><b>Last Update:</b> 2026-07-07 15:49 IST</p>
+        <p><b>Last Update:</b> 2026-07-07 18:49 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,25 +210,19 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[GLM 5.2 and the coming AI margin collapse](ai/community/glm-5-2-and-the-coming-ai-margin-collapse.md)** • <kbd>+190 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Small AI Models Gain Traction In places with unreliable networks](ai/community/small-ai-models-gain-traction-in-places-with-unrel.md)** • <kbd>+91 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[AMD Ryzen AI Halo – $4k AI Dev Kit](ai/community/amd-ryzen-ai-halo-4k-ai-dev-kit.md)** • <kbd>+41 pts</kbd>
-- 🔼 **[OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files](ai/community/iofficeai-officecli.md)** • <kbd>+40 pts</kbd>
-- 🔼 **[Pruning RAG context down to what the answer actually needs](ai/community/pruning-rag-context-down-to-what-the-answer-actual.md)** • <kbd>+36 pts</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+6</kbd>
+- 🔼 **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[Medium Help Center](ai/rag/medium-help-center.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[NSA and IETF: Fairness](ai/community/nsa-and-ietf-fairness.md)** • Score: `110`
-- 🆕 **[In Praise of Observational Evidence](ai/community/in-praise-of-observational-evidence.md)** • Score: `16`
-- 🆕 **[Installation — MPI for Python 4.1.2 documentation](ai/rag/installation-mpi-for-python-4-1-2-documentation.md)** • Score: `0`
-- 🆕 **[voila-dashboards/voila](ai/rag/voila-dashboards-voila.md)** • Score: `0`
-- 🆕 **[gradio-app/gradio](ai/resources/gradio-app-gradio.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Giving a domain a hill to climb: benchmarking as data activation](ai/community/giving-a-domain-a-hill-to-climb-benchmarking-as-da.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
