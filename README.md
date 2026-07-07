@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 47,733 files</p>
-        <p><b>Last Update:</b> 2026-07-08 02:23 IST</p>
+        <p><b>Last Update:</b> 2026-07-08 03:41 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,27 +210,20 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Chat Control 1.0 and 2.0 Explained](ai/community/chat-control-1-0-and-2-0-explained.md)** • <kbd>+213 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Automating AI Away](ai/community/automating-ai-away.md)** • <kbd>+51 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[GitHub Freno: cooperative, highly available throttler service](ai/community/github-freno.md)** • <kbd>+22 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Gemini API | Google AI for Developers](ai/agents/gemini-api-google-ai-for-developers.md)** • Rank: <kbd>+2067</kbd>
-- 🔼 **[OpenTelemetry](ai/agents/opentelemetry.md)** • Rank: <kbd>+4690</kbd>
+- 🔼 **[Medium Rules | by Medium | Medium Policy](ai/rag/medium-rules-by-medium-medium-policy.md)** • Rank: <kbd>+5</kbd>
+- 🔼 **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** • Rank: <kbd>+5</kbd>
+- 🔼 **[stanford-oval/storm](ai/rag/stanford-oval-storm.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Why skilled workers come to Germany and then leave again](ai/community/why-skilled-workers-come-to-germany-and-then-leave.md)** • Score: `90`
-- 🆕 **[AI Meets Cryptography 1: What AI Found in Cloudflare's Circl](ai/community/ai-meets-cryptography-1-what-ai-found-in-cloudflar.md)** • Score: `32`
-- 🆕 **[Show HN: Davit, a Apple Containers UI](ai/community/show-hn-davit-a-apple-containers-ui.md)** • Score: `25`
-- 🆕 **[Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens](ai/community/kklimuk-docx-cli.md)** • Score: `19`
-- 🆕 **[Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents](ai/community/bkuan001-halo-record.md)** • Score: `7`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[C++ Details of Asymmetric Fences](ai/community/c-details-of-asymmetric-fences.md)**
-- 💤 **[Weighing smoke: why AI visibility dashboards are mostly useless](ai/community/weighing-smoke-why-ai-visibility-dashboards-are-mo.md)**
-- 💤 **[Sites that block AI training crawlers mostly ignore the answer time bots](ai/community/sites-that-block-ai-training-crawlers-mostly-ignor.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
