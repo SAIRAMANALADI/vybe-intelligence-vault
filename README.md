@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 47,244 files</p>
-        <p><b>Last Update:</b> 2026-07-07 09:55 IST</p>
+        <p><b>Last Update:</b> 2026-07-07 12:13 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,28 +210,17 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[GLM 5.2 and the coming AI margin collapse](ai/community/glm-5-2-and-the-coming-ai-margin-collapse.md)** • <kbd>+213 pts</kbd> • Rank: <kbd>+3</kbd>
-- 🔼 **[OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files](ai/community/iofficeai-officecli.md)** • <kbd>+46 pts</kbd>
-- 🔼 **[Pruning RAG context down to what the answer actually needs](ai/community/pruning-rag-context-down-to-what-the-answer-actual.md)** • <kbd>+44 pts</kbd>
-- 🔼 **[AMD Ryzen AI Halo – $4k AI Dev Kit](ai/community/amd-ryzen-ai-halo-4k-ai-dev-kit.md)** • <kbd>+42 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[scotthavird/crewai-template](ai/rag/scotthavird-crewai-template.md)** • Rank: <kbd>+86</kbd>
+- No trending items found.
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Small AI Models Gain Traction In places with unreliable networks](ai/community/small-ai-models-gain-traction-in-places-with-unrel.md)** • Score: `52`
-- 🆕 **[Giving a domain a hill to climb: benchmarking as data activation](ai/community/giving-a-domain-a-hill-to-climb-benchmarking-as-da.md)** • Score: `6`
-- 🆕 **[cloudflare/agentic-inbox](ai/rag/cloudflare-agentic-inbox.md)** • Score: `0`
-- 🆕 **[Senpi-ai/senpi-skills](ai/agents/senpi-ai-senpi-skills.md)** • Score: `0`
-- 🆕 **[Understanding Agent-Based Patching of Compiler Missed Optimizations](ai/rag/arxiv-2607-02370.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Real-time map of Great Britain's rail network](ai/community/real-time-map-of-great-britain-s-rail-network.md)**
-- 💤 **[AI: The ROI Runway Could Be Long Outside the Tech Sector](ai/community/ai-the-roi-runway-could-be-long-outside-the-tech-s.md)**
-- 💤 **[Companies hire more after AI adoption](ai/community/companies-hire-more-after-ai-adoption.md)**
-- 💤 **[Taiganet.com, Home of the WS4000 Simulator](ai/community/taiganet-com-home-of-the-ws4000-simulator.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
