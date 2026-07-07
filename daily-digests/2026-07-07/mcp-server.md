@@ -1,43 +1,46 @@
 ---
-title: "evehypoglycaemic255/mcp-server"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Semantic Search", "Windows Desktop App", "Plugin System"]
-quality_score: 6
-rag_relevance: 7
-tags: ["MCP server", "memory management", "semantic search", "plugin sandbox", "Windows app"]
-source: "https://github.com/evehypoglycaemic255/mcp-server"
-discovered_at: "2026-07-07T06:43:19Z"
+title: "m8louist12-boop/mcp-server"
+category: "Orchestrator"
+tech_stack: ["Go", "Model Context Protocol (MCP)", "JSON-RPC 2.0", "LLM APIs (OpenAI, Anthropic, DeepSeek, etc.)", "VS Code Extension (TypeScript)", "Python (SDK)"]
+quality_score: 9
+rag_relevance: 8
+tags: ["MCP server", "AI reliability", "LLM validation", "failover mechanism", "real-time verification"]
+source: "https://github.com/m8louist12-boop/mcp-server"
+discovered_at: "2026-07-07T19:00:39Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-mcp-server provides a local Model Context Protocol (MCP) server for Windows, enabling AI tools to store and retrieve long-term memory, perform semantic searches, and manage plugins in a sandboxed environment. It includes a dashboard for monitoring and control.
+Correctover is an MCP server that acts as a reliability layer for AI outputs, verifying LLM responses in real-time before delivery. It ensures correctness, completeness, and reliability by validating responses across six dimensions and automatically failing over to alternative providers if validation fails.
 
 ## Key Features
-- Local long-term memory storage for AI agents
-- Semantic search for retrieving related context
-- Plugin sandbox for safe experimentation
-- Token-efficient design to reduce prompt bloat
-- Dashboard for monitoring and managing memory
+- Six-dimensional validation (structure, schema, latency, cost, identity, integrity)
+- Automatic failover to alternative providers if validation fails
+- Multi-provider support (OpenAI, Anthropic, DeepSeek, etc.)
+- VS Code extension for native editor integration
+- Zero-config installation via one-line JSON config
 
 ## Why It Matters for RAG Builders
-It provides a lightweight, local solution for persistent memory and context management in AI workflows, reducing reliance on external services.
+Correctover ensures AI outputs are verified for correctness and reliability before execution, preventing silent failures and hallucinations in RAG pipelines.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Go
+Automated review identified **Go** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Model Context Protocol (MCP)
 Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Semantic Search
-Automated review identified **Semantic Search** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JSON-RPC 2.0
+Automated review identified **JSON-RPC 2.0** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Windows Desktop App
-Automated review identified **Windows Desktop App** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### LLM APIs (OpenAI, Anthropic, DeepSeek, etc.)
+Automated review identified **LLM APIs (OpenAI, Anthropic, DeepSeek, etc.)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Plugin System
-Automated review identified **Plugin System** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### VS Code Extension (TypeScript)
+Automated review identified **VS Code Extension (TypeScript)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Python (SDK)
+Automated review identified **Python (SDK)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
