@@ -1,43 +1,40 @@
 ---
-title: "protealesmicroelectronics246/claude-watch"
+title: "mr-mrs-xx1/claude-watch"
 category: "Tooling"
-tech_stack: ["Swift", "Apple Watch SDK", "Windows Executable", "Networking Protocols", "Bluetooth"]
+tech_stack: ["TypeScript", "Electron", "Windows Desktop", "Local File System"]
 quality_score: 6
-rag_relevance: 3
-tags: ["watch interface", "remote control", "Claude Code", "mobile integration", "automation"]
-source: "https://github.com/protealesmicroelectronics246/claude-watch"
-discovered_at: "2026-07-07T20:50:50Z"
+rag_relevance: 5
+tags: ["Claude Code", "Code Monitoring", "Real-Time Tracking", "Project Visualization", "Developer Tool"]
+source: "https://github.com/mr-mrs-xx1/claude-watch"
+discovered_at: "2026-07-07T23:55:22Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-claude-watch is a utility that enables users to control Claude Code from an Apple Watch, allowing quick command execution, status checks, and task management without needing to access a computer directly.
+claude-watch is a Windows desktop application designed to provide real-time visualization and monitoring of Claude Code sessions, enabling users to track file changes, project logic, and code search results in a live dashboard without manual file inspection.
 
 ## Key Features
-- Send quick commands to Claude Code via Apple Watch
-- Real-time status updates and task monitoring
-- Seamless integration with iPhone and Apple Watch
-- Local network-based communication for low latency
-- Minimal setup required for basic functionality
+- Live tracking of file changes and project logic during Claude Code sessions
+- Interactive dashboard for visualizing project structure and changes
+- Real-time code search across the entire project
+- No coding knowledge required for basic usage
+- Supports local project folders with nested subdirectories
 
 ## Why It Matters for RAG Builders
-It enables hands-free control of AI coding assistants, enhancing productivity for developers on the go.
+claude-watch provides essential real-time visibility into AI-driven code changes, helping RAG builders debug, track, and understand project evolution during automated coding sessions.
 
 ## Tech Stack Deep Dive
-### Swift
-Automated review identified **Swift** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Apple Watch SDK
-Automated review identified **Apple Watch SDK** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Electron
+Automated review identified **Electron** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Windows Executable
-Automated review identified **Windows Executable** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Windows Desktop
+Automated review identified **Windows Desktop** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Networking Protocols
-Automated review identified **Networking Protocols** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Bluetooth
-Automated review identified **Bluetooth** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Local File System
+Automated review identified **Local File System** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
