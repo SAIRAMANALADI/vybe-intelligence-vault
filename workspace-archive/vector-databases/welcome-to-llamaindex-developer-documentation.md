@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Abstraction**: Simplifies complex systems by modeling classes/objects to represent real-world entities, reducing complexity via encapsulation and inheritance.
-
-- **Modularity**: Divides systems into independent, interchangeable modules (e.g., microservices) to enhance maintainability, scalability, and reusability.
-
-- **Polymorphism**: Enables dynamic method resolution at runtime (e.g., method overriding in OOP) to support flexible, extensible code architectures.
+- **Abstraction**: Simplifies complex systems by hiding lower-level details, enabling focus on high-level functionality.
+- **Modularity**: Divides systems into independent, interchangeable components for easier maintenance and scalability.
+- **Encapsulation**: Bundles data and methods within a single unit (e.g., class) while restricting direct access to internal state.
 
 ## Use Cases
 

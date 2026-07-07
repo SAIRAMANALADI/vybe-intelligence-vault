@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-07-07T23:00:16.790877+05:30'
+collected_at: '2026-07-08T01:47:23.734108+05:30'
 published_at: '2026-07-07T14:30:34Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
 stars: 145
 language: Python
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-06-30T05:24:48Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-07-07T23:00:16.790877+05:30'
-last_seen: '2026-07-07T23:00:16.790877+05:30'
-last_checked: '2026-07-07T23:00:16.790877+05:30'
+first_seen: '2026-07-08T01:47:23.734108+05:30'
+last_seen: '2026-07-08T01:47:23.734108+05:30'
+last_checked: '2026-07-08T01:47:23.734108+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated resources**: Repository aggregates production-grade tools, frameworks, and best practices for scalable Retrieval-Augmented Generation (RAG) systems, covering LLMs, embeddings, vector databases, and MLOps workflows.
-- **Technical scope**: Focuses on battle-tested solutions in Python, including LangChain, vector DBs, and LLMops pipelines for deployment and optimization of RAG applications.
-- **Maintenance**: Last updated July 2026, with 145 stars and 35 forks, indicating active community engagement in AI/ML production-grade RAG implementations.
+- **Curated Resources**: Repository provides a vetted collection of production-grade tools, frameworks, and best practices specifically for building scalable Retrieval-Augmented Generation (RAG) systems.
+- **Tech Stack**: Focuses on Python-based solutions, including LangChain, vector databases, and MLOps/LLMops tools, with emphasis on embeddings and large language models (LLMs).
+- **Maintenance & Scope**: Actively maintained (last updated July 2026) with 145 stars and 35 forks, covering topics like AI engineering, generative AI, and retrieval-augmented generation (RAG).
 
 ## Why It Matters
 

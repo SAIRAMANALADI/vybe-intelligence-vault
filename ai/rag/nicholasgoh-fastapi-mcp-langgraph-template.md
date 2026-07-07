@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NicholasGoh/fastapi-mcp-langgraph-template
-collected_at: '2026-07-07T00:50:39.988618+05:30'
+collected_at: '2026-07-08T01:50:13.897298+05:30'
 published_at: '2026-07-06T12:03:00Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
+- reddit
 - workflows
 stars: 550
 language: Python
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-04-16T13:47:46Z'
 pushed_at: '2026-03-03T23:35:58Z'
 resource_id: github:nicholasgoh/fastapi-mcp-langgraph-template
-first_seen: '2026-07-07T00:50:39.988618+05:30'
-last_seen: '2026-07-07T00:50:39.988618+05:30'
-last_checked: '2026-07-07T00:50:39.988618+05:30'
+first_seen: '2026-07-08T01:50:13.897298+05:30'
+last_seen: '2026-07-08T01:50:13.897298+05:30'
+last_checked: '2026-07-08T01:50:13.897298+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Template integrates FastAPI for REST endpoints, LangGraph for agentic workflows, and MCP for model control protocol, enabling modular agent orchestration with Python-based tooling.
-
-- **Observability & Storage**: Includes Prometheus/Grafana for metrics, Langfuse for tracing/LLM observability, and Supabase/SQLModel for PostgreSQL-based data persistence.
-
-- **Deployment**: Pre-configured with Nginx for reverse proxy, Docker-ready for containerization, and supports scalable deployments with community-maintained MCP/LangGraph integrations.
+- **Architecture**: Template integrates FastAPI with **MCP (Model Context Protocol)** and **LangGraph** for agentic orchestration, enabling modular, scalable workflows with Python-based tooling.
+- **Observability & Storage**: Pre-configured with **Prometheus** (metrics), **Grafana** (dashboards), **Langfuse** (LLM tracing), and **Supabase** (PostgreSQL-compatible storage) for production-grade monitoring and data persistence.
+- **Deployment**: Includes **Nginx** (reverse proxy), **SQLModel** (ORM), and **Docker/Compose** support for rapid iteration and scalable, containerized deployments.
 
 ## Why It Matters
 

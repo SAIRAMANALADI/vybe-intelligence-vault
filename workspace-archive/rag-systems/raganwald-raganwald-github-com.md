@@ -8,7 +8,7 @@ local_vault_path: ai/rag/raganwald-raganwald-github-com.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: tool
 importance: medium
 tags:
 - github-repo
@@ -16,7 +16,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # raganwald/raganwald.github.com
@@ -25,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: tool
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Jekyll-based static site generator**: Repository contains the source code for `raganwald.com`, built using Jekyll, a Ruby-based static site generator.
-- **Minimalist structure**: Hosted as a GitHub Pages repository with HTML as the primary language; no additional frameworks or dependencies specified.
-- **Last updated**: Repository was last modified on **June 28, 2026**, indicating recent maintenance or updates.
+- **Static Site Generator**: Jekyll-based repository serving as the source for `raganwald.com`, a static website.
+- **Minimal Metadata**: No topics or language specification beyond HTML, indicating a simple, unstructured static site.
+- **Stale Repository**: Last updated in 2026, suggesting potential abandonment or minimal maintenance.
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Tencent/WeKnora
-collected_at: '2026-07-07T22:59:56.807819+05:30'
-published_at: '2026-07-07T17:20:55Z'
+collected_at: '2026-07-08T01:47:03.828824+05:30'
+published_at: '2026-07-07T19:42:18Z'
 tags:
 - agents
 - benchmark
@@ -16,7 +16,7 @@ tags:
 - openai
 - rag
 - workflows
-stars: 17913
+stars: 17914
 language: Go
 status: active
 license: NOASSERTION
@@ -24,9 +24,9 @@ archived: false
 created_at: '2025-07-22T08:01:23Z'
 pushed_at: '2026-07-07T16:39:36Z'
 resource_id: github:tencent/weknora
-first_seen: '2026-07-07T22:59:56.807819+05:30'
-last_seen: '2026-07-07T22:59:56.807819+05:30'
-last_checked: '2026-07-07T22:59:56.807819+05:30'
+first_seen: '2026-07-08T01:47:03.828824+05:30'
+last_seen: '2026-07-08T01:47:03.828824+05:30'
+last_checked: '2026-07-08T01:47:03.828824+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG & Agentic Workflow**: Implements Retrieval-Augmented Generation (RAG) with autonomous reasoning agents, enabling dynamic document processing, query resolution, and self-maintaining wiki functionality via LLM integration.
+- **Modular LLM Knowledge Platform**: Implements Retrieval-Augmented Generation (RAG), autonomous reasoning agents, and self-maintaining Wiki functionality from raw documents using Go, supporting multi-tenancy and multi-model integration (e.g., Ollama, OpenAI).
 
-- **Multi-Model & Vector Search**: Supports multimodal embeddings (e.g., OpenAI, Ollama) with vector search, semantic indexing, and reranking for high-precision knowledge retrieval across raw documents.
+- **Advanced Retrieval & Reasoning**: Features semantic search, vector embeddings, reranking, and evaluation pipelines for high-accuracy question-answering, with support for hybrid retrieval and agentic workflows.
 
-- **Scalable, Multi-Tenant Architecture**: Built in Go for performance, featuring tenant isolation, evaluation frameworks, and generative AI capabilities for enterprise-grade knowledge management.
+- **Scalable Architecture**: Designed for production-grade deployment with modular components for embeddings, evaluation, and multi-tenant Wiki maintenance, optimized for generative AI and chatbot applications.
 
 ## Why It Matters
 
@@ -47,11 +47,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Tencent
-- Stars: 17913
-- Forks: 2430
+- Stars: 17914
+- Forks: 2431
 - Language: Go
 - Topics: agent, agentic, ai, chatbot, embeddings, evaluation, generative-ai, golang, knowledge-base, llm, multi-tenant, multimodel, ollama, openai, question-answering, rag, reranking, semantic-search, vector-search, wiki
-- Last Updated: 2026-07-07T17:20:55Z
+- Last Updated: 2026-07-07T19:42:18Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-07-22T08:01:23Z

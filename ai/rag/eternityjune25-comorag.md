@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-07T23:01:01.888690+05:30'
+collected_at: '2026-07-08T01:48:08.769699+05:30'
 published_at: '2026-07-05T11:30:42Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-07T23:01:01.888690+05:30'
-last_seen: '2026-07-07T23:01:01.888690+05:30'
-last_checked: '2026-07-07T23:01:01.888690+05:30'
+first_seen: '2026-07-08T01:48:08.769699+05:30'
+last_seen: '2026-07-08T01:48:08.769699+05:30'
+last_checked: '2026-07-08T01:48:08.769699+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces a memory-organized RAG (Retrieval-Augmented Generation) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory hierarchies for improved contextual retention.
+- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
 
-- **Stateful Long Narrative Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain coherence across extended dialogues or documents, addressing limitations in traditional RAG systems for sequential or multi-turn reasoning tasks.
+- **Stateful Reasoning**: Implements dynamic memory retrieval and integration mechanisms to maintain contextual coherence across extended dialogues or narratives, leveraging episodic and semantic memory layers.
 
-- **AAAI 2026 Poster Submission**: Presented as a novel approach to long-form reasoning in RAG, with empirical validation demonstrating superior performance in narrative consistency and contextual accuracy compared to baseline methods.
+- **AAAI 2026 Poster**: Presented as a novel approach for enhancing LLM reasoning in long-form tasks, with empirical validation on benchmarks requiring multi-turn contextual understanding.
 
 ## Why It Matters
 

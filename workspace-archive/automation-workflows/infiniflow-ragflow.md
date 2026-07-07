@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid RAG-Plus-Agent Architecture**: Combines retrieval-augmented generation (RAG) with agentic workflows to dynamically enhance LLM context via adaptive retrieval, reasoning, and tool-use capabilities.
+- **Hybrid RAG-Plus-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with autonomous agent capabilities, enabling dynamic context augmentation and multi-step reasoning for LLMs via a unified pipeline.
 
-- **Go-Based Context Engine**: Implements a high-performance, concurrent Go backend for scalable document parsing, vector indexing, and real-time context fusion across structured/unstructured data.
+- **Go-Based Context Engine**: Implemented in Go for high-performance parallel processing, the system optimizes document ingestion, retrieval, and agent orchestration with low-latency context management for real-time LLM interactions.
 
-- **Modular Pipeline with Agentic Search**: Supports pluggable retrieval strategies (e.g., s
+- **Modular RAG Componen
 
 ## Use Cases
 

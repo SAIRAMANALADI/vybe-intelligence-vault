@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AgentOps-AI/agentops
-collected_at: '2026-07-07T23:02:16.976996+05:30'
+collected_at: '2026-07-08T01:49:23.908411+05:30'
 published_at: '2026-07-07T13:58:36Z'
 tags:
 - agents
@@ -16,7 +16,6 @@ tags:
 - models
 - openai
 - python
-- workflows
 stars: 5685
 language: Python
 status: active
@@ -25,9 +24,9 @@ archived: false
 created_at: '2023-08-15T23:26:23Z'
 pushed_at: '2026-06-25T08:25:03Z'
 resource_id: github:agentops-ai/agentops
-first_seen: '2026-07-07T23:02:16.976996+05:30'
-last_seen: '2026-07-07T23:02:16.976996+05:30'
-last_checked: '2026-07-07T23:02:16.976996+05:30'
+first_seen: '2026-07-08T01:49:23.908411+05:30'
+last_seen: '2026-07-08T01:49:23.908411+05:30'
+last_checked: '2026-07-08T01:49:23.908411+05:30'
 health_score: 100
 ---
 
@@ -35,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Python SDK** for AI agent monitoring, LLM cost tracking, benchmarking, and evaluation metrics, supporting integration with major LLM providers (OpenAI, Anthropic, Mistral, Groq) and agent frameworks (CrewAI, LangChain, Autogen, OpenAI Agents SDK, AG2, CamelAI, Agno, Ollama).
+- **Python SDK** for AI agent monitoring, LLM cost tracking, benchmarking, and evaluation metrics integration across frameworks like CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI.
 
-- **Cost estimation and performance tracking** via real-time monitoring of token usage, API calls, and agent execution metrics, enabling optimization and cost-efficiency analysis for AI workflows.
+- **Multi-LLM Support**: Compatible with major LLM providers (OpenAI, Anthropic, Mistral, Groq, Ollama) and agent frameworks, enabling unified observability and cost estimation.
 
-- **Extensible architecture** with plug-and-play compatibility for custom agent frameworks and LLM providers, facilitating seamless integration into existing AI pipelines and benchmarking workflows.
+- **Key Features**: Real-time monitoring, automated evaluation metrics, and cost tracking for AI agents, with last update as of **2026-07-07**.
 
 ## Why It Matters
 

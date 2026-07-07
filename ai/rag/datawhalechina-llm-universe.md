@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/llm-universe
-collected_at: '2026-07-07T22:59:11.780595+05:30'
+collected_at: '2026-07-08T01:46:23.799412+05:30'
 published_at: '2026-07-07T14:25:20Z'
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
-- workflows
 stars: 13423
 language: Jupyter Notebook
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2023-10-29T16:01:22Z'
 pushed_at: '2026-02-24T14:33:21Z'
 resource_id: github:datawhalechina/llm-universe
-first_seen: '2026-07-07T22:59:11.780595+05:30'
-last_seen: '2026-07-07T22:59:11.780595+05:30'
-last_checked: '2026-07-07T22:59:11.780595+05:30'
+first_seen: '2026-07-08T01:46:23.799412+05:30'
+last_seen: '2026-07-08T01:46:23.799412+05:30'
+last_checked: '2026-07-08T01:46:23.799412+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Resource**: Provides a beginner-friendly tutorial for developing large language model (LLM) applications, structured as Jupyter Notebooks with a focus on practical implementation.
+- **Educational Framework**: Provides a structured, beginner-friendly tutorial for developing large language model (LLM) applications, leveraging Jupyter Notebooks for hands-on learning.
 
-- **Technical Focus**: Covers key topics such as LangChain (a framework for LLM applications) and Retrieval-Augmented Generation (RAG), emphasizing modular and extensible workflows.
+- **Core Technologies**: Focuses on **LangChain** for LLM orchestration and **Retrieval-Augmented Generation (RAG)** for enhancing model responses with external knowledge.
 
-- **Community & Maintenance**: Actively maintained (last updated July 2026) with 13,423 stars and 1,370 forks, indicating strong community engagement and adoption.
+- **Documentation & Updates**: Hosted online at [datawhalechina.github.io/llm-universe](https://datawhalechina.github.io/llm-universe/), with the last update on **2026-07-07**.
 
 ## Why It Matters
 

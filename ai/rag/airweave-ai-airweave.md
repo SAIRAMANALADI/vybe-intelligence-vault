@@ -4,14 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-07-07T23:01:41.891120+05:30'
-published_at: '2026-07-07T09:43:30Z'
+collected_at: '2026-07-08T01:48:48.844060+05:30'
+published_at: '2026-07-07T19:08:38Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-stars: 6466
+- workflows
+stars: 6467
 language: Python
 status: active
 license: MIT
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-07-07T23:01:41.891120+05:30'
-last_seen: '2026-07-07T23:01:41.891120+05:30'
-last_checked: '2026-07-07T23:01:41.891120+05:30'
+first_seen: '2026-07-08T01:48:48.844060+05:30'
+last_seen: '2026-07-08T01:48:48.844060+05:30'
+last_checked: '2026-07-08T01:48:48.844060+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Context Retrieval Layer**: Open-source Python-based framework (`airweave-ai/airweave`) designed as a middleware for AI agents to dynamically fetch and integrate contextual data from enterprise sources (e.g., databases, APIs) for enhanced LLM inference.
-
-- **Modular Architecture**: Supports pluggable **data connectors** (SQL, NoSQL, REST, etc.) and **semantic search** (vector DBs, hybrid retrieval) via a unified API, enabling low-latency context augmentation for RAG pipelines.
-
-- **Enterprise Features**: Includes built-in **authentication**, **caching**, **rate limiting**, and **scalable indexing** (e.g., Elasticsearch, PostgreSQL) to handle high-volume, low-latency retrieval in production environments.
+- **Purpose**: Open-source context retrieval layer designed to enhance AI agents with dynamic, real-time data access via semantic search and retrieval-augmented generation (RAG).
+- **Key Features**: Supports enterprise data integration, semantic search, and API-based context retrieval; includes SDK for custom data connectors and retrieval pipelines.
+- **Technical Stack**: Python-based, optimized for LLM workflows, with modular architecture for scalable information retrieval across structured/unstructured data sources.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: airweave-ai
-- Stars: 6466
+- Stars: 6467
 - Forks: 813
 - Language: Python
 - Topics: agent-infrastructure, ai, ai-agents, ai-infrastructure, api, context-retrieval, data-connectors, developer-tools, enterprise-data, information-retrieval, integration, llm, open-source, rag, retrieval, retrieval-augmented-generation, sdk, search, search-api, semantic-search
-- Last Updated: 2026-07-07T09:43:30Z
+- Last Updated: 2026-07-07T19:08:38Z
 - License: MIT
 - Archived: No
 - Created At: 2024-12-24T10:00:06Z

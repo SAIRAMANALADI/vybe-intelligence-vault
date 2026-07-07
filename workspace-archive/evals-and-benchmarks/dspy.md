@@ -8,7 +8,7 @@ local_vault_path: ai/rag/dspy.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -18,6 +18,7 @@ tags:
 - openai
 - rag
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -30,16 +31,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **ReActV2 Module**: Introduces an enhanced reasoning-and-acting loop with improved tool integration and structured output handling for dynamic task execution.
-- **Improved LM/BaseLM**: Optimized base language model handling with enhanced modularity and performance for structured signature-based task execution.
-- **GEPA Optimizer**: Reflective prompt evolution optimizer (`dspy.GEPA`) that compiles programs against a metric, improving task-specific performance (e.g., 62% → 89% F1 in metadata ext
+- **ReActV2 Module**: Introduces an enhanced reasoning-and-acting loop for tool-integrated LLM execution, improving modularity and adaptability in agentic workflows.
+- **Improved LM/BaseLM**: Enhances the base language model interface with better abstraction, enabling more efficient model switching and optimization.
+- **Structured Signature Optimization**: GEPA optimizer compiles declarative task signatures against user-defined metrics, achieving significant performance gains (e.g., 62% → 89% F1
 
 ## Use Cases
 

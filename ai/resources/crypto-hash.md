@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/functions/crypto/hash/
-published_at: '2026-07-07T23:05:28.317880+05:30'
-collected_at: '2026-07-07T23:05:28.317893+05:30'
+published_at: '2026-07-08T01:52:24.723128+05:30'
+collected_at: '2026-07-08T01:52:24.723141+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:crypto-hash
-first_seen: '2026-07-07T23:05:28.317893+05:30'
-last_seen: '2026-07-07T23:05:28.317893+05:30'
-last_checked: '2026-07-07T23:05:28.317893+05:30'
+first_seen: '2026-07-08T01:52:24.723141+05:30'
+last_seen: '2026-07-08T01:52:24.723141+05:30'
+last_checked: '2026-07-08T01:52:24.723141+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Hashing Function**: `crypto.Hash` computes checksums using algorithms like `md5`, `sha1`, `sha256` (default), `sha384`, or `sha512` on input strings, returning hex-encoded results.
-- **Default Algorithm**: If no algorithm is specified, `sha256` is used as the default.
-- **SRI Integration**: Supports Subresource Integrity (SRI) by combining with `encoding.HexDecode` and `encoding.Base64Encode` to generate SRI hashes from strings.
+- **Hashing Function**: `crypto.Hash` computes checksums of input strings using specified algorithms (`md5`, `sha1`, `sha256`, `sha384`, `sha512`), defaulting to `sha256` if unspecified, and returns the result as a hexadecimal string.
+- **Algorithm Flexibility**: Supports multiple cryptographic hash algorithms, enabling compatibility with Subresource Integrity (SRI) standards for resource fingerprinting.
+- **Encoding Integration**: Can be combined with `encoding.HexDecode` and `encoding.Base64Encode` to generate SRI-compliant integrity hashes in the format `ALGORITHM-BASE64HASH`.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-07T23:05:28.317880+05:30
+- Published: 2026-07-08T01:52:24.723128+05:30
 
 ## Related Tags
 

@@ -8,16 +8,16 @@ local_vault_path: ai/rag/weaviate-vector-database-youtube.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
+- hackernews
 - rag
-- reddit
 - web-crawled
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Weaviate vector database - YouTube
@@ -26,16 +26,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- YouTube operates under Google LLC, providing a platform for video sharing, advertising, and content creation with structured policies for copyright, privacy, and terms of service.
-- Developers can integrate with YouTube via the [YouTube Data API](https://developers.google.com/youtube/v3) and [YouTube IFrame Player API](https://developers.google.com/youtube/iframe_api_reference) for embedded playback and metadata access.
-- YouTube monetization and content policies are governed by [YouTube Partn
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, monetization, and live streaming, with a global reach of over 2 billion logged-in users monthly.
+
+- **Technical Infrastructure**: Utilizes Google's distributed systems for video transcoding, storage, and delivery, leveraging AI for recommendations, content moderation, and ad targeting via the Weaviate vector database for semantic search and contextual understanding.
+
+- *
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/VoltAgent/awesome-ai-agent-papers
-collected_at: '2026-07-07T23:01:06.882208+05:30'
+collected_at: '2026-07-08T01:48:13.829598+05:30'
 published_at: '2026-07-07T16:28:24Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2026-02-10T10:58:31Z'
 pushed_at: '2026-07-03T04:40:33Z'
 resource_id: github:voltagent/awesome-ai-agent-papers
-first_seen: '2026-07-07T23:01:06.882208+05:30'
-last_seen: '2026-07-07T23:01:06.882208+05:30'
-last_checked: '2026-07-07T23:01:06.882208+05:30'
+first_seen: '2026-07-08T01:48:13.829598+05:30'
+last_seen: '2026-07-08T01:48:13.829598+05:30'
+last_checked: '2026-07-08T01:48:13.829598+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated 2026 AI Agent Research**: Repository aggregates cutting-edge papers on AI agents, focusing on agent engineering, memory systems, evaluation frameworks, workflows, and autonomous architectures.
-- **Technical Scope**: Encompasses LLM-driven agents, Retrieval-Augmented Generation (RAG), and memory-augmented systems, with emphasis on scalability and autonomy.
-- **Metadata**: 1,539 stars, 163 forks; last updated July 7, 2026; supports multi-topic categorization (ai-agents, llm, memory, rag, research-paper).
+- **Curated 2026 AI Agent Research**: Repository aggregates cutting-edge papers on AI agents, focusing on agent engineering, memory mechanisms, evaluation frameworks, workflow optimization, and autonomous systems.
+- **Technical Scope**: Covers LLM-based agents, retrieval-augmented generation (RAG), and memory-augmented architectures with emphasis on scalability and autonomy.
+- **Metadata**: 1,539 stars, 163 forks; last updated July 7, 2026; topics include `ai-agents`, `llm`, `memory`, and `rag`.
 
 ## Why It Matters
 

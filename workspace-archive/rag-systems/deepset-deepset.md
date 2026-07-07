@@ -8,14 +8,13 @@ local_vault_path: ai/rag/deepset-deepset.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
-- benchmark
+- hackernews
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -27,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **AutoQuizzer** is a Hugging Face Space tool that automates quiz generation using LLMs, enabling interactive Q&A sessions via user or LLM participation.
-- The system leverages a visual interface (as shown in the provided image) to facilitate quiz creation, playback, or automated LLM-driven quiz interaction.
-- Developed by **deepset**, it is designed for seamless integration into workflows requiring dynamic quiz generation or evaluation.
+- **AutoQuizzer**: A Hugging Face Space by deepset that automates quiz generation using LLMs, enabling interactive Q&A sessions or AI-driven gameplay.
+- **Functionality**: Supports three modes—(1) generating quizzes from input, (2) human participation, or (3) LLM-driven gameplay.
+- **Technical Stack**: Leverages Hugging Face Spaces for deployment and integrates LLMs (e.g., 🦙) for dynamic content creation and interaction.
 
 ## Use Cases
 

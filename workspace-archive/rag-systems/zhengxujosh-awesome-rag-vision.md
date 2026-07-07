@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG-Vision Resources**: A specialized repository aggregating advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including cutting-edge methods, frameworks, and research papers.
-- **Multi-Modal Integration**: Focuses on **vision-language models (VLMs)** and **cross-modal retrieval**, enabling RAG systems to leverage visual and textual data for enhanced generative performance.
-- **Active Development**: Last updated in **July 2026**, indi
+- **Curated RAG-Vision Resources**: Compilation of advanced retrieval-augmented generation (RAG) techniques specifically tailored for computer vision applications, including multimodal and vision-language models.
+- **GitHub Repository Metrics**: 338 stars, 9 forks, last updated July 3, 2026; language unspecified, indicating a rapidly evolving or niche-focused collection.
+- **Multimodal Integration Focus**: Emphasizes bridging RAG with vision tasks (e.g., image-text retrieval, visual question ans
 
 ## Use Cases
 

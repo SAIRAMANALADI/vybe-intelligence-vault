@@ -2,13 +2,13 @@
 title: Overview - Knative
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://knative.dev/docs
+source_url: https://knative.dev/docs/
 resource_id: blog:overview-knative
 local_vault_path: ai/rag/overview-knative.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
@@ -18,7 +18,7 @@ tags:
 - workflows
 - youtube
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Overview - Knative
@@ -27,15 +27,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Knative Architecture**: Comprises three core components—**Serving** (HTTP-triggered autoscaling container runtime with lifecycle management), **Eventing** (CloudEvents-based asynchronous event routing), and **Functions** (developer-focused framework for stateless function deployment)—all operating as Kubernetes-native CRDs for scalable, portable serverless workloads.
+- **Knative Serving**: Kubernetes-native CRDs (`Service`, `Route`, `Configuration`, `Revision`) for HTTP-triggered autoscaling of stateless workloads, enabling scale-to-zero, traffic splitting, and revision snapshots with immutable deployments.
 
-- **Serving Scaling & Networking**: Implements **scale-to-zero** via the **Activator** component, with requests routed throug
+- **Knative Eventing**: CloudEvents-compliant event routing via `Broker`, `Trigger`, and `Source` CRDs, decoupling producers/consumers while supporting async event ingestion, filtering, and delivery to `Sink` endpoints (Knative/K8s services or external H
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://knative.dev/docs
+Original source URL: https://knative.dev/docs/
 
 ## Local Vault File
 

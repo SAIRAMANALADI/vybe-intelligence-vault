@@ -33,10 +33,8 @@ selection_reason:
 ## Summary
 
 - **Unified LLM API**: Provides a standardized interface for interacting with multiple large language models (LLMs) via a single API, abstracting provider-specific differences.
-
-- **Agent Loop & TUI**: Implements an autonomous agent loop for task execution with an integrated terminal user interface (TUI) for real-time interaction and monitoring.
-
-- **Coding Agent CLI**: Includes a command-line interface (CLI) for deploying AI-powered coding agents, enabling automated code generation, debugging,
+- **Agent Loop & TUI**: Implements an autonomous agent loop with a terminal user interface (TUI) for real-time interaction, debugging, and control of AI agents.
+- **Coding Agent CLI**: Includes a command-line interface (CLI) for deploying and managing AI-powered coding agents, enabling automated code generation, analysis,
 
 ## Use Cases
 

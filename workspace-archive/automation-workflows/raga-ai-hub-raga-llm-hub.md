@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Framework for evaluating, enforcing guardrails, and ensuring security in Large Language Model (LLM) applications.
-- **Key Features**: Supports LLM evaluation metrics, real-time guardrail enforcement, and security protocols for LLM deployments.
-- **Technical Stack**: Python-based, integrates with LLM Ops workflows for scalable and secure LLM operations.
+- **Purpose**: Framework for evaluating, securing, and implementing guardrails for large language models (LLMs) within LLMops workflows.
+- **Key Features**: Includes tools for LLM evaluation metrics, security enforcement, and runtime guardrails to mitigate risks like hallucinations, bias, and prompt injection.
+- **Technical Stack**: Python-based, designed for integration with LLM pipelines and supports extensibility via modular components.
 
 ## Use Cases
 

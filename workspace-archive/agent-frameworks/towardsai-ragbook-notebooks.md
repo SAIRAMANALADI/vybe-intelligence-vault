@@ -17,6 +17,7 @@ tags:
 - meta-ai
 - models
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- Repository contains Jupyter Notebooks for the book *"Building LLMs for Production"* by Towards AI, focusing on practical implementations of LLMs in production environments.
-- Notebooks cover topics including **RAG (Retrieval-Augmented Generation)**, **LangChain**, **LlamaIndex**, and **multi-agent systems**, with examples in Python.
-- Last updated on **June 30, 2026**, with **552 stars** and **197 forks**, hosted under the `towardsai` organization.
+- Repository containing Jupyter Notebooks for the book *"Building LLMs for Production"* by Towards AI, focusing on practical implementations of LLMs, LangChain, and LlamaIndex.
+- Covers topics including **RAG (Retrieval-Augmented Generation)**, **multi-agent systems**, and **LLM deployment** in Python.
+- Last updated June 30, 2026; 552 stars, 197 forks, with notebooks demonstrating production-grade LLM workflows.
 
 ## Use Cases
 

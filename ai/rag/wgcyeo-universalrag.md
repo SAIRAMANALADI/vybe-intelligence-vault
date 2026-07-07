@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-07T23:01:06.846128+05:30'
+collected_at: '2026-07-08T01:48:13.792392+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
-- dataset
 - github-repo
 - paper
 - python
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-07T23:01:06.846128+05:30'
-last_seen: '2026-07-07T23:01:06.846128+05:30'
-last_checked: '2026-07-07T23:01:06.846128+05:30'
+first_seen: '2026-07-08T01:48:13.792392+05:30'
+last_seen: '2026-07-08T01:48:13.792392+05:30'
+last_checked: '2026-07-08T01:48:13.792392+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, entity-level), leveraging unified indexing and retrieval mechanisms.
+- **Multimodal & Multi-Granularity RAG Framework**: Introduces a retrieval-augmented generation (RAG) system capable of handling diverse data modalities (text, images, tables, etc.) and granularities (document-level to fine-grained spans) within a unified architecture.
 
-- **ACL 2026 Oral Paper**: Presents an advanced RAG system designed for heterogeneous corpora, optimizing cross-modal retrieval and generation with a novel architecture that integrates modality-specific encoders and a unified decoder.
+- **ACL 2026 Oral Presentation**: Presented as an oral paper at ACL 2026, highlighting its novelty in extending RAG beyond traditional text-only retrieval to heterogeneous corpora.
 
-- **Open-Source Implementation**: Provides a Python-based implementation with modular components for scalability, supporting integration with existing LLM pipelines and multimodal datasets.
+- **Python Implementation**: Open-source Python library with modular design for extensibility, supporting integration with existing LLM pipelines and retrieval mechanisms.
 
 ## Why It Matters
 

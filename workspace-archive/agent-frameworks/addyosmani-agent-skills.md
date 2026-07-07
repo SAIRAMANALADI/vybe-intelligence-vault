@@ -14,7 +14,6 @@ tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - javascript
 - workflows
 selection_reason:
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Purpose**: Provides production-grade engineering skills for AI coding agents, optimized for tools like `claude-code`, `codex`, and `cursor`.
-- **Technical Scope**: Focuses on JavaScript-based skills, including advanced concepts like `antigravity` for agent-driven development workflows.
-- **Project Metrics**: Highly active with 71,854 stars, 7,782 forks, and last updated on 2026-07-07.
+- **Repository Overview**: Production-grade engineering skills for AI coding agents, optimized for JavaScript-based workflows.
+- **Key Features**: Includes specialized tools (`claude-code`, `codex`, `cursor`) and concepts (`antigravity`, `agent-skills`) for advanced AI agent development.
+- **Metrics**: 71,973 stars, 7,789 forks, last updated July 7, 2026.
 
 ## Use Cases
 

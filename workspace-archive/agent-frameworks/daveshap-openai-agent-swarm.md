@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **HAAS Framework**: Implements a **Hierarchical Autonomous Agent Swarm** architecture in Python, enabling multi-agent collaboration with a resistance-is-futile paradigm.
-- **Autonomous Agent Swarm**: Features **self-organizing agents** with distributed decision-making, leveraging OpenAI's API for dynamic task execution and coordination.
-- **Scalability & Extensibility**: Designed for **horizontal scaling** with modular agent interactions, supporting customizable hierarchies and autonomous work
+- **HAAS Framework**: Implements a hierarchical autonomous agent swarm architecture in Python, enabling multi-agent coordination and task delegation for complex workflows.
+
+- **Autonomous Agent Swarm**: Agents operate with minimal human intervention, leveraging swarm intelligence for distributed problem-solving and resilience against failures.
+
+- **Scalability & Integration**: Designed for horizontal scalability, supporting dynamic agent addition/removal and integration with OpenAI's API for enh
 
 ## Use Cases
 

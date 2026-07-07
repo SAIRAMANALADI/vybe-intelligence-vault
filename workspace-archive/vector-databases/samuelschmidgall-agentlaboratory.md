@@ -15,6 +15,7 @@ tags:
 - github-repo
 - python
 - rag
+- scripts
 - workflows
 selection_reason:
 - Useful for project building
@@ -32,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **End-to-End Autonomous Research Workflow**: Agent Laboratory provides a fully autonomous system designed to assist researchers in implementing research ideas from start to finish, leveraging AI-driven processes.
+- **End-to-end autonomous research workflow**: Agent Laboratory automates the entire research process, from idea generation to implementation, using AI agents to assist human researchers.
 
-- **Python-Based Framework**: The project is implemented in Python, enabling modularity, extensibility, and integration with scientific computing and AI libraries.
+- **Python-based framework**: The project is implemented in Python, leveraging its extensive ecosystem for AI, data processing, and automation.
 
-- **Active Development & Community Engagement**: With 5,728 stars and 796 forks, the repository shows significant commu
+- **Active development**: Last updated in July 2026, indicating ongoing maintenance and potential future enhancements.
 
 ## Use Cases
 

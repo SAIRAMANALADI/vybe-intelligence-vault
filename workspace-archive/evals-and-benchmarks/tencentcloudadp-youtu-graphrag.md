@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified Multi-Agent Framework**: Introduces a vertically integrated agent system for Graph Retrieval-Augmented Generation (GraphRAG), enabling complex reasoning by dynamically orchestrating specialized agents (e.g., retrieval, reasoning, planning) over knowledge graphs.
+- **Vertically Unified Agent Architecture**: Introduces a multi-layered agent framework integrating graph-based retrieval with LLM reasoning, enabling hierarchical decomposition of complex queries into sub-tasks for enhanced accuracy.
 
-- **Graph-Centric RAG Pipeline**: Implements a hierarchical graph-based retrieval mechanism with adaptive subgraph extraction and fusion, optimizing context relevance for large language models (LLMs) during complex reasoning
+- **Graph-Centric RAG Pipeline**: Leverages dynamic knowledge graphs to store, retrieve, and contextualize information, optimizing retrieval-augmented generation (RAG) for multi-hop reasoning and cross-domain knowledge synthesis.
+
+- **Performance Benchmarks**: Ach
 
 ## Use Cases
 

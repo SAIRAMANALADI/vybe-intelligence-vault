@@ -5,7 +5,7 @@ source_type: huggingface_dataset
 source_name: Hugging Face Trending Datasets
 source_url: https://huggingface.co/datasets/ryanmarten
 published_at: '2025-08-31T00:33:15.000Z'
-collected_at: '2026-07-07T22:58:21.456884+05:30'
+collected_at: '2026-07-08T01:45:28.493398+05:30'
 tags:
 - dataset
 - hf-dataset
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:datasets/ryanmarten
 first_seen: '2026-06-18T23:35:18.472297+05:30'
-last_seen: '2026-07-07T22:58:21.456884+05:30'
-last_checked: '2026-07-07T22:58:21.456884+05:30'
+last_seen: '2026-07-08T01:45:28.493398+05:30'
+last_checked: '2026-07-08T01:45:28.493398+05:30'
 health_score: 100
 ---
 
@@ -22,7 +22,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face dataset: ryanmarten/OpenThoughts-1k-sample (Likes: 34, Downloads: 1412403)
+Trending Hugging Face dataset: ryanmarten/OpenThoughts-1k-sample (Likes: 36, Downloads: 1412403)
 
 ## Why It Matters
 

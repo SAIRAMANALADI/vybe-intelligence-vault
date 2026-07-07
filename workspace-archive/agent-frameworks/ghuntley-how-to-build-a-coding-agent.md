@@ -6,9 +6,9 @@ source_url: https://github.com/ghuntley/how-to-build-a-coding-agent
 resource_id: github:ghuntley/how-to-build-a-coding-agent
 local_vault_path: ai/agents/ghuntley-how-to-build-a-coding-agent.md
 quality_score: 70
-archive_score: 75
+archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -16,6 +16,7 @@ tags:
 - go
 - workflows
 selection_reason:
+- Strong keyword match
 - Active open-source repository
 ---
 
@@ -24,18 +25,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tutorial
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: prompt
 - Selection reasons:
+  - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Go-based workshop** for constructing a **coding agent** (similar to Cursor, Cline, or Roo Code) with AI integration, covering architecture, tooling, and implementation patterns.
+- **Go-based workshop** providing a step-by-step guide to constructing a **local coding agent** (e.g., Roo Code, Cline) with AI integration for autonomous code generation and editing.
 
-- **Open-source repository** (5.7k+ stars, 640+ forks) providing a **step-by-step tutorial** on agent design, including LLM interaction, context management, and IDE integration.
+- **Open-source repository** (5.7K+ stars) with modular architecture, emphasizing **real-time codebase interaction**, tooling for LLM APIs, and extensible agent capabilities.
 
-- **Last updated July 2026**, focusing on **practical AI-driven coding workflows** with modular components for extensibility and real-worl
+- **Updated July 2026** with latest practices in **AI-driven development workflows**, including multi-agent collaboration and context-aware
 
 ## Use Cases
 

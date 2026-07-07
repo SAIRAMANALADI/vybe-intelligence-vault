@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/agents-towards-production
-collected_at: '2026-07-07T23:00:51.858627+05:30'
+collected_at: '2026-07-08T01:47:58.711553+05:30'
 published_at: '2026-07-07T17:25:21Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-06-16T17:33:44Z'
 pushed_at: '2026-07-04T12:53:24Z'
 resource_id: github:nirdiamant/agents-towards-production
-first_seen: '2026-07-07T23:00:51.858627+05:30'
-last_seen: '2026-07-07T23:00:51.858627+05:30'
-last_checked: '2026-07-07T23:00:51.858627+05:30'
+first_seen: '2026-07-08T01:47:58.711553+05:30'
+last_seen: '2026-07-08T01:47:58.711553+05:30'
+last_checked: '2026-07-08T01:47:58.711553+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **End-to-end GenAI agent development**: Provides code-first tutorials covering prototype to enterprise deployment, leveraging frameworks like LangGraph and MCP for multi-agent systems, RAG, and LLM integration in Python.
+- **Comprehensive Tutorials**: Provides end-to-end, code-first guides for developing production-grade GenAI agents, covering prototyping to enterprise deployment with a focus on practical implementation.
 
-- **Production-grade MLOps focus**: Emphasizes observability, scalability, and deployment best practices for GenAI agents, with Jupyter Notebook-based tutorials targeting enterprise-grade solutions.
+- **Technical Scope**: Covers key components such as agent frameworks, LangGraph, LLMs, multi-agent systems, RAG, MCP, and MLOps, with tutorials on deployment, observability, and scalability.
 
-- **Comprehensive technical stack**: Covers agent frameworks, multi-agent orchestration, and integration with modern AI tools (e.g., LLMs, MCP) while addressing deployment challenges in production environments.
+- **Repository Details**: Hosted in Jupyter Notebooks, updated as of July 2026, with 20,930 stars and 2,784 forks, emphasizing Python-based GenAI agent development.
 
 ## Why It Matters
 

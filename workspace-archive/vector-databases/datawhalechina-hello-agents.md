@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Agent Development Guide**: Provides a step-by-step tutorial on building intelligent agents from scratch, covering core principles and practical implementations in Python.
+- **Educational Repository**: Provides a comprehensive tutorial on building intelligent agents from scratch, covering theoretical foundations and practical implementations in Python.
 
-- **Key Technologies Integrated**: Focuses on combining large language models (LLMs), retrieval-augmented generation (RAG), and agent architectures for real-world applications.
+- **Core Components**: Focuses on key technologies such as Large Language Models (LLM), Retrieval-Augmented Generation (RAG), and agent architectures for autonomous decision-making.
 
-- **High Community Engagement**: Maintains strong open-source traction with 64,659 stars, 8,023 forks, and active updates (last modi
+- **Community-Driven**: Maintained by DataWhale China, with 64,667 stars and 8,023 forks, reflecting active community engagement and
 
 ## Use Cases
 

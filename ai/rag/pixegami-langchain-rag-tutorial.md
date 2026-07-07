@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-07-07T22:59:31.693395+05:30'
+collected_at: '2026-07-08T01:46:38.665597+05:30'
 published_at: '2026-07-07T13:22:54Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 973
 language: Python
 status: active
@@ -17,9 +18,9 @@ archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-07-07T22:59:31.693395+05:30'
-last_seen: '2026-07-07T22:59:31.693395+05:30'
-last_checked: '2026-07-07T22:59:31.693395+05:30'
+first_seen: '2026-07-08T01:46:38.665597+05:30'
+last_seen: '2026-07-08T01:46:38.665597+05:30'
+last_checked: '2026-07-08T01:46:38.665597+05:30'
 health_score: 100
 ---
 
@@ -28,8 +29,8 @@ health_score: 100
 ## Summary
 
 - **LangChain RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with language model generation.
-- **Python-Based**: Entirely written in Python, leveraging LangChain's modular framework for LLM orchestration and vector storage (e.g., FAISS or Chroma).
-- **Modular Structure**: Includes components for document loading (e.g., `PyPDFLoader`), embedding (e.g., `HuggingFaceEmbeddings`), and retrieval-augmented QA chains.
+- **Python-Based Architecture**: Utilizes Python with LangChain's modular components for document loading, embedding, vector storage (e.g., FAISS), and LLM interaction.
+- **Modular Design**: Includes clear separation of concerns (e.g., document preprocessing, vector DB setup, query handling) with example scripts for end-to-end RAG workflows.
 
 ## Why It Matters
 
@@ -39,7 +40,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: pixegami
 - Stars: 973
-- Forks: 518
+- Forks: 517
 - Language: Python
 - Topics: None
 - Last Updated: 2026-07-07T13:22:54Z

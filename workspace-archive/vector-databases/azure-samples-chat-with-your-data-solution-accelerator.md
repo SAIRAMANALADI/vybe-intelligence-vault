@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: template
 importance: medium
 tags:
+- benchmark
 - github-repo
 - openai
 - python
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-*   Implements a RAG pattern accelerator leveraging Azure AI Search for document retrieval and Azure OpenAI LLMs for conversational AI.
-*   Python-based solution providing ChatGPT-style and Q&A experiences over proprietary data.
-*   Adheres to Azure best practices, serving as a solution accelerator for scalable "chat with your data" deployments.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern on Azure using **Azure AI Search** for vector-based retrieval and **Azure OpenAI** LLMs for generative responses, enabling ChatGPT-style and Q&A interactions.
+- **Key Components**: Includes **Python-based** implementation with **AZD templates** for deployment, adhering to Azure best practices for scalability, security, and cost optimization.
+- **Features**: Supports **semantic search**, **document processing**, and **hyb
 
 ## Use Cases
 

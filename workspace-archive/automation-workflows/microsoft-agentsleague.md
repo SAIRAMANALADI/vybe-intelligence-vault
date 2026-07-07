@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- leaderboard
 - unknown
 - workflows
 selection_reason:
@@ -33,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **AI E-Sports Platform**: Hosts live AI Battles and asynchronous challenges with competitive, e-sports-inspired agentic AI interactions.
-- **GitHub Integration**: Enables submissions, version control, and collaborative development via GitHub-based workflows.
-- **Dynamic Updates**: Last modified on 2026-06-30, indicating active maintenance and evolving features.
+- **AI Battles & E-Sports Integration**: Hosts live, competitive AI agent challenges with an e-sports-inspired format, enabling real-time agentic AI competitions.
+
+- **Asynchronous Community Challenges**: Facilitates GitHub-based submissions and asynchronous participation, allowing developers to engage at their own pace while contributing to the league.
+
+- **GitHub-Centric Workflow**: Operates entirely via GitHub repositories, with submissions, updates, and leaderboards managed through GitHub in
 
 ## Use Cases
 

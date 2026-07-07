@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-07T22:59:56.763182+05:30'
+collected_at: '2026-07-08T01:47:03.694921+05:30'
 published_at: '2026-07-07T03:51:39Z'
 tags:
+- dataset
 - github-repo
 - jupyter notebook
-- meta-ai
 - models
 - rag
 stars: 1222
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-07T22:59:56.763182+05:30'
-last_seen: '2026-07-07T22:59:56.763182+05:30'
-last_checked: '2026-07-07T22:59:56.763182+05:30'
+first_seen: '2026-07-08T01:47:03.694921+05:30'
+last_seen: '2026-07-08T01:47:03.694921+05:30'
+last_checked: '2026-07-08T01:47:03.694921+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for dynamic visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time debugging and performance assessment.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM interactions with retrieved context.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for an interactive web interface, allowing users to explore RAG components (retrievers, LLMs, embeddings) via dynamic charts, tables, and query-response comparisons.
+- **Streamlit-Powered UI**: Implements a Streamlit-based frontend for real-time, interactive visualization of RAG components (e.g., retrieval quality, prompt engineering, and response generation) with Python backend integration.
 
-- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom RAG pipelines, embeddings (e.g., FAISS, Chroma), and LLM integrations (e.g., LangChain, LlamaIndex).
+- **Modular Python Architecture**: Designed for extensibility with support for custom datasets, retrieval models, and LLM backends; last updated July 2026 with active community contributions (1.2k+ stars, 115 forks).
 
 ## Why It Matters
 

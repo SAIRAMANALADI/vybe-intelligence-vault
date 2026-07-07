@@ -6,7 +6,7 @@ source_url: https://github.com/NicholasGoh/fastapi-mcp-langgraph-template
 resource_id: github:nicholasgoh/fastapi-mcp-langgraph-template
 local_vault_path: ai/rag/nicholasgoh-fastapi-mcp-langgraph-template.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: template
 importance: medium
@@ -15,6 +15,7 @@ tags:
 - github-repo
 - python
 - rag
+- reddit
 - workflows
 selection_reason:
 - Strong keyword match
@@ -26,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: Template integrates FastAPI for REST endpoints, LangGraph for agentic workflows, and MCP for model control protocol, enabling modular agent orchestration with Python-based tooling.
-
-- **Observability & Storage**: Includes Prometheus/Grafana for metrics, Langfuse for tracing/LLM observability, and Supabase/SQLModel for PostgreSQL-based data persistence.
-
-- **Deployment**: Pre-configured with Nginx for reverse proxy, Docker-ready for containerization, and supports scalable depl
+- **Architecture**: Template integrates FastAPI with **MCP (Model Context Protocol)** and **LangGraph** for agentic orchestration, enabling modular, scalable workflows with Python-based tooling.
+- **Observability & Storage**: Pre-configured with **Prometheus** (metrics), **Grafana** (dashboards), **Langfuse** (LLM tracing), and **Supabase** (PostgreSQL-compatible storage) for production-grade monitoring and data persistence.
+- **Deployment**: Includes **Nginx** (reverse proxy), **SQLModel** (ORM
 
 ## Use Cases
 

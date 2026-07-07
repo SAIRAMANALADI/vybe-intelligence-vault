@@ -12,10 +12,8 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated resources**: Repository aggregates production-grade tools, frameworks, and best practices for scalable Retrieval-Augmented Generation (RAG) systems, covering LLMs, embeddings, vector databases, and MLOps workflows.
-- **Technical scope**: Focuses on battle-tested solutions in Python, including LangChain, vector DBs, and LLMops pipelines for deployment and optimization of RAG applications.
-- **Maintenance**: Last updated July 2026, with 145 stars and 35 forks, indicating active communi
+- **Curated Resources**: Repository provides a vetted collection of production-grade tools, frameworks, and best practices specifically for building scalable Retrieval-Augmented Generation (RAG) systems.
+- **Tech Stack**: Focuses on Python-based solutions, including LangChain, vector databases, and MLOps/LLMops tools, with emphasis on embeddings and large language models (LLMs).
+- **Maintenance & Scope**: Actively maintained (last updated July 2026) with 145 stars and 35 forks, covering topics l
 
 ## Use Cases
 

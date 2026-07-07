@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-07-07T23:02:41.931015+05:30'
+collected_at: '2026-07-08T01:49:48.848200+05:30'
 published_at: '2026-07-07T05:51:04Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - shell
 - workflows
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-06T19:00:57Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-07-07T23:02:41.931015+05:30'
-last_seen: '2026-07-07T23:02:41.931015+05:30'
-last_checked: '2026-07-07T23:02:41.931015+05:30'
+first_seen: '2026-07-08T01:49:48.848200+05:30'
+last_seen: '2026-07-08T01:49:48.848200+05:30'
+last_checked: '2026-07-08T01:49:48.848200+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging adaptive RAG-powered memory, MCP templates for Skills, and Expert Agents with delegated sub-agents for hierarchical task delegation.
+- **OpenClaw-inspired autonomous AI agent** implemented entirely in **n8n**, leveraging **adaptive RAG-powered memory** for dynamic context retention and retrieval.
 
-- **Capabilities**: Supports proactive task management, media understanding, and self-hosted deployment via a single setup script; integrates with Supabase for storage and SearXNG for search.
+- **Modular architecture** with **Skills via MCP templates**, **Expert Agents** (delegated sub-agents), and **proactive task management**, supporting **media understanding** and **self-hosted deployment** via a single setup script.
 
-- **Technical Stack**: Shell-based repository with dependencies on n8n, Crawl4AI, MCP, and OpenClaw; designed for extensibility with AI agent frameworks and modular skills integration.
+- **Integrated tooling stack**: **Crawl4AI** (scraper), **SearXNG** (search engine), **Supabase** (database), and **Model Context Protocol (MCP)** for extensibility, with all components orchestrated in **Shell** scripts.
 
 ## Why It Matters
 

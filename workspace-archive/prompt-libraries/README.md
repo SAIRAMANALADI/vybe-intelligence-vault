@@ -26,7 +26,7 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 - [langfuse/langfuse](https://github.com/langfuse/langfuse)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
-- [langgenius/dify](https://github.com/langgenius/dify)
+- [gabrielchua/RAGxplorer](https://github.com/gabrielchua/RAGxplorer)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-07-07 23:15 IST*
+*Last updated: 2026-07-08 02:02 IST*

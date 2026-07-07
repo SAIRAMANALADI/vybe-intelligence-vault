@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-07-07T23:01:01.856568+05:30'
+collected_at: '2026-07-08T01:48:08.761045+05:30'
 published_at: '2026-07-06T10:13:21Z'
 tags:
 - agents
 - benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-07-07T23:01:01.856568+05:30'
-last_seen: '2026-07-07T23:01:01.856568+05:30'
-last_checked: '2026-07-07T23:01:01.856568+05:30'
+first_seen: '2026-07-08T01:48:08.761045+05:30'
+last_seen: '2026-07-08T01:48:08.761045+05:30'
+last_checked: '2026-07-08T01:48:08.761045+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified Multi-Agent Framework**: Introduces a vertically integrated agent system for Graph Retrieval-Augmented Generation (GraphRAG), enabling complex reasoning by dynamically orchestrating specialized agents (e.g., retrieval, reasoning, planning) over knowledge graphs.
+- **Vertically Unified Agent Architecture**: Introduces a multi-layered agent framework integrating graph-based retrieval with LLM reasoning, enabling hierarchical decomposition of complex queries into sub-tasks for enhanced accuracy.
 
-- **Graph-Centric RAG Pipeline**: Implements a hierarchical graph-based retrieval mechanism with adaptive subgraph extraction and fusion, optimizing context relevance for large language models (LLMs) during complex reasoning tasks.
+- **Graph-Centric RAG Pipeline**: Leverages dynamic knowledge graphs to store, retrieve, and contextualize information, optimizing retrieval-augmented generation (RAG) for multi-hop reasoning and cross-domain knowledge synthesis.
 
-- **Performance Optimization**: Achieves state-of-the-art results on ICLR 2026 benchmarks via dynamic agent collaboration, memory-augmented reasoning, and efficient graph traversal algorithms, reducing hallucinations in LLM outputs.
+- **Performance Benchmarks**: Achieves state-of-the-art results on complex reasoning tasks (e.g., multi-hop QA, logical inference) by combining graph traversal with agentic decision-making, validated on proprietary and public datasets.
 
 ## Why It Matters
 

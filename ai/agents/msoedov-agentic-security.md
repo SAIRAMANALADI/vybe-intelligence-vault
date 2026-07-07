@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/msoedov/agentic_security
-collected_at: '2026-07-07T23:02:26.899179+05:30'
+collected_at: '2026-07-08T01:49:33.857144+05:30'
 published_at: '2026-07-07T08:59:03Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-04-11T17:18:54Z'
 pushed_at: '2026-06-23T07:20:13Z'
 resource_id: github:msoedov/agentic_security
-first_seen: '2026-07-07T23:02:26.899179+05:30'
-last_seen: '2026-07-07T23:02:26.899179+05:30'
-last_checked: '2026-07-07T23:02:26.899179+05:30'
+first_seen: '2026-07-08T01:49:33.857144+05:30'
+last_seen: '2026-07-08T01:49:33.857144+05:30'
+last_checked: '2026-07-08T01:49:33.857144+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic LLM Security Toolkit**: Python-based framework for evaluating LLM vulnerabilities, including jailbreak detection, prompt testing, and red teaming capabilities.
-- **Multi-Faceted Fuzzing & Scanning**: Integrates LLM fuzzing, vulnerability scanning, and evaluation frameworks to assess agent security and guardrail robustness.
-- **Open-Source & Extensible**: Supports 14+ security-focused topics (e.g., `llm-jailbreaks`, `llm-guardrails`) with active development (last updated July 2026).
+- **Agentic LLM Vulnerability Scanner**: Python-based framework for red teaming and evaluating LLM security, supporting jailbreak detection, prompt testing, and vulnerability scanning.
+- **Multi-Faceted Testing**: Integrates LLM fuzzing, guardrails evaluation, and vulnerability aggregation for comprehensive security assessment.
+- **Open-Source Toolkit**: Designed for agent frameworks with modular components for extensibility and automated LLM security testing.
 
 ## Why It Matters
 

@@ -13,8 +13,6 @@ importance: medium
 tags:
 - benchmark
 - github-repo
-- meta-ai
-- models
 - python
 - rag
 - workflows
@@ -36,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates RAG workflows using locally hosted language models (e.g., Ollama) for privacy and offline capability.
-- **Dynamic Database Updates**: Implements mechanisms to refresh vector databases (e.g., Chroma) with new documents without full reindexing.
-- **Testing Framework**: Includes automated evaluation pipelines for RAG performance metrics (e.g., retrieval accuracy, answer correctness) using synthetic queries.
+- **Local LLM Integration**: Demonstrates advanced RAG workflows using locally hosted large language models (LLMs) for privacy and reduced dependency on cloud APIs.
+
+- **Dynamic Database Updates**: Implements automated or semi-automated vector database refresh mechanisms to ensure retrieval relevance with evolving document corpora.
+
+- **Testing & Evaluation Framework**: Includes structured testing methodologies (e.g., retrieval accuracy, response quality) to benchmark RAG system performance unde
 
 ## Use Cases
 

@@ -2,13 +2,13 @@
 title: DSPy
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://dspy-docs.vercel.app
+source_url: https://dspy.ai/
 resource_id: blog:dspy
 local_vault_path: ai/rag/dspy.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -31,16 +31,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **ReActV2 Module**: Introduces an enhanced reasoning-and-acting loop with improved tool integration and adaptive execution strategies for complex LLM workflows.
-- **Signatures & Modules**: Enforces typed input/output task definitions via `dspy.Signature`, with composable modules (`dspy.Predict`, `dspy.ChainOfThought`, `dspy.ReAct`) for modular program design.
-- **GEPA Optimizer**: Compiles programs against custom metrics (e.g., semantic F1) to iteratively optimize performance, reducing relianc
+- **ReActV2 Module**: Introduces an enhanced reasoning-and-acting loop for tool-integrated LLM execution, improving modularity and adaptability in agentic workflows.
+- **Improved LM/BaseLM**: Enhances the base language model interface with better abstraction, enabling more efficient model switching and optimization.
+- **Structured Signature Optimization**: GEPA optimizer compiles declarative task signatures against user-defined metrics, achieving significant performance gains (e.g., 62% → 89% F1
 
 ## Use Cases
 
@@ -50,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://dspy-docs.vercel.app
+Original source URL: https://dspy.ai/
 
 ## Local Vault File
 

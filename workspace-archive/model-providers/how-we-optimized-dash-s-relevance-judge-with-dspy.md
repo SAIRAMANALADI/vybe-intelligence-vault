@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **DSPy Optimization Framework**: Used DSPy’s GEPA optimizer to systematically adapt a relevance judge from OpenAI’s o3 to OpenAI’s gpt-oss-120b, reducing NMSE (Normalized Mean Squared Error) by 45% (from 8.83 to 4.86) while enabling 10–100x more data labeling at the same cost by optimizing prompts against a fixed human-alignment metric.
+- **DSPy Optimization Framework**: Implemented DSPy's GEPA optimizer to systematically adapt Dropbox Dash's relevance judge from a high-cost proprietary model (OpenAI o3) to a lower-cost open-weight model (gpt-oss-120b), reducing NMSE by **45%** (from 8.83 to 4.86) and cutting model adaptation time from weeks to days while maintaining human alignment.
 
-- **Operational Reliability**: Improved JSON output reliability of a smaller model (gemma-3-12b) by >97% (malformed outputs dropped from 41% to <1%) while red
+- **Operational Reliability Enhancement**: Optimized the judge for **structural reliability** using a smaller model (gemma-3-12b), reducing malfo
 
 ## Use Cases
 

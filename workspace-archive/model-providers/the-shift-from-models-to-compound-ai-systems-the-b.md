@@ -3,7 +3,7 @@ title: The Shift from Models to Compound AI Systems – The Berkeley Artificial 
   Research Blog
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems
+source_url: https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/
 resource_id: blog:the-shift-from-models-to-compound-ai-systems-the-b
 local_vault_path: ai/rag/the-shift-from-models-to-compound-ai-systems-the-b.md
 quality_score: 70
@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **Compound AI systems outperform monolithic models** by integrating multiple components (e.g., retrieval, symbolic solvers, multi-step chains) to achieve state-of-the-art results, as demonstrated by systems like AlphaCode 2 (1M solution sampling + filtering) and AlphaGeometry (LLM + symbolic solver hybrid).
+- **Compound AI systems outperform monolithic models** by integrating multiple components (e.g., LLMs, retrievers, symbolic solvers) to achieve state-of-the-art results, as demonstrated by systems like AlphaCode 2 (1M solution sampling/filtering) and AlphaGeometry (LLM + symbolic solver hybrid).
 
-- **Key advantages of compound systems** include dynamic knowledge integration (e.g., RAG), improved control/trust via output filtering and verification, and adaptability to varying perfor
+- **Key advantages of compound systems** include dynamic adaptability (retrieval-augmented generation), improved control/trust (output filtering, fact verification), and resource optimization (balancing
 
 ## Use Cases
 
@@ -52,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems
+Original source URL: https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/
 
 ## Local Vault File
 

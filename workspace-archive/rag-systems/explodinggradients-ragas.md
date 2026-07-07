@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Purpose**: Ragas is a Python-based evaluation framework designed to supercharge the assessment of LLM applications, focusing on LLMops and evaluation metrics.
+- **RAGAS Framework**: Open-source Python library (14.7k+ stars) for evaluating Retrieval-Augmented Generation (RAG) and LLM applications with standardized metrics (e.g., faithfulness, answer correctness, context precision).
 
-- **Key Features**: Provides specialized metrics and tools for evaluating RAG (Retrieval-Augmented Generation) pipelines, including faithfulness, answer relevance, and context precision.
+- **Key Features**: Supports automated evaluation pipelines with customizable metrics, integrates with datasets (e.g., `datasets` library), and provides tooling for benchmarking against ground truth or human judgments.
 
-- **Integration & Scalability**: Supports seamless integration with existing LLM workflows and enables scalable evaluation of LLM outputs
+- **LLMOps Integration**: Designed for production-grad
 
 ## Use Cases
 

@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-07-07T22:59:41.874648+05:30'
+collected_at: '2026-07-08T01:46:48.793182+05:30'
 published_at: '2026-07-06T11:16:05Z'
 tags:
 - agents
 - github-repo
-- hackernews
-- paper
+- openai
 - python
 - rag
-- workflows
 stars: 313
 language: Python
 status: active
@@ -22,9 +20,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-07-07T22:59:41.874648+05:30'
-last_seen: '2026-07-07T22:59:41.874648+05:30'
-last_checked: '2026-07-07T22:59:41.874648+05:30'
+first_seen: '2026-07-08T01:46:48.793182+05:30'
+last_seen: '2026-07-08T01:46:48.793182+05:30'
+last_checked: '2026-07-08T01:46:48.793182+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Structure**: Provides a GitHub repository template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, optimized for Python-based AI workflows.
+- **Template Structure**: Provides a modular Python-based framework for building Retrieval-Augmented Generation (RAG) research agents, leveraging LangChain components for document retrieval and synthesis.
 
-- **Key Components**: Likely includes modular components for document retrieval, vector storage (e.g., FAISS, Chroma), and LLM integration (e.g., LangChain’s `RetrievalQA` or custom agents).
+- **Key Components**: Includes pre-configured pipelines for indexing, retrieval, and generation, with support for vector databases (e.g., Chroma, FAISS) and LLM integration (e.g., OpenAI, Hugging Face).
 
-- **Deployment-Ready**: Designed for rapid prototyping with pre-configured pipelines, supporting customization for research-focused AI applications (e.g., academic paper analysis, technical documentation Q&A).
+- **Customization Hooks**: Designed for extensibility, enabling users to override default behaviors (e.g., chunking strategies, retrieval algorithms) via Python class inheritance or configuration files.
 
 ## Why It Matters
 

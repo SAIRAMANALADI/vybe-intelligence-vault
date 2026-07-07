@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **`deepagents` v0.6.0**: Introduces experimental `CodeInterpreterMiddleware` for scoped QuickJS runtime-based code execution and tool calling; adds `DeltaChannel` (beta) for incremental delta storage in message history/checkpoints; introduces `HarnessProfile` for provider/model-specific configurations and `ContextHubBackend` for versioned agent file storage via LangSmith Hub.
+- **`deepagents` v0.6.0**: Introduces experimental `CodeInterpreterMiddleware` for scoped QuickJS runtime-based code execution and tool calling; adds `DeltaChannel` (beta) for incremental checkpoint storage to reduce overhead in long-running threads; introduces `HarnessProfile` for per-provider/model configuration bundles and `ContextHubBackend` for versioned agent file storage via LangSmith Hub.
 
-- **`langgraph` v1.2.0**: Adds `DeltaChannel` (beta) to reduce checkpoint overhead by storing only incremental deltas;
+- **`langgraph` v1.2.0**: Adds per-node timeouts, error handlers, and graceful shutdown for node ex
 
 ## Use Cases
 

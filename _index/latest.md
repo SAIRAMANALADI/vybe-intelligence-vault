@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [Differential protection against SARS-CoV-2 reinfection pre- and post-Omicron | Nature](../ai/rag/differential-protection-against-sars-cov-2-reinfec.md) ([Source URL](https://nature.com/articles/s41586-024-08511-9))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-07T23:12:01.517246+05:30
-- **Local Path**: `ai/rag/differential-protection-against-sars-cov-2-reinfec.md`
-
-### 2. [Exoplanets - NASA Science](../ai/resources/exoplanets-nasa-science.md) ([Source URL](https://science.nasa.gov/exoplanets))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:11:41.987242+05:30
-- **Local Path**: `ai/resources/exoplanets-nasa-science.md`
-
-### 3. [NASA’s Webb Studies How Planet Survived Death of its Star - NASA Science](../ai/resources/nasas-webb-studies-how-planet-survived-death-of-it.md) ([Source URL](https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:11:41.918050+05:30
-- **Local Path**: `ai/resources/nasas-webb-studies-how-planet-survived-death-of-it.md`
-
-### 4. [NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision - NASA Science](../ai/resources/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic.md) ([Source URL](https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:11:36.811796+05:30
-- **Local Path**: `ai/resources/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic.md`
-
-### 5. [Commercial UAV News](../ai/rag/commercial-uav-news.md) ([Source URL](https://commercialuavnews.com/supplier-directory))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-07T23:11:35.467991+05:30
-- **Local Path**: `ai/rag/commercial-uav-news.md`
-
-### 6. [Webinars | Commercial UAV News](../ai/agents/webinars-commercial-uav-news.md) ([Source URL](https://commercialuavnews.com/webinars))
+### 1. [Gemini API | Google AI for Developers](../ai/agents/gemini-api-google-ai-for-developers.md) ([Source URL](https://ai.google.dev/gemini-api))
 - **Category**: ai/agents
-- **Collected At**: 2026-07-07T23:11:34.009313+05:30
-- **Local Path**: `ai/agents/webinars-commercial-uav-news.md`
+- **Collected At**: 2026-07-08T02:00:18.942929+05:30
+- **Local Path**: `ai/agents/gemini-api-google-ai-for-developers.md`
 
-### 7. [Cornell Students Aid NASA with Drone Safety in Sky - NASA](../ai/agents/cornell-students-aid-nasa-with-drone-safety-in-sky.md) ([Source URL](https://nasa.gov/aeronautics/usrc-cornell-drone-safety))
+### 2. [OpenTelemetry](../ai/agents/opentelemetry.md) ([Source URL](https://opentelemetry.io))
 - **Category**: ai/agents
-- **Collected At**: 2026-07-07T23:11:33.555593+05:30
-- **Local Path**: `ai/agents/cornell-students-aid-nasa-with-drone-safety-in-sky.md`
+- **Collected At**: 2026-07-08T02:00:18.028900+05:30
+- **Local Path**: `ai/agents/opentelemetry.md`
 
-### 8. [Geo Week – A Year of Geospatial Business in Just One Week](../ai/resources/geo-week-a-year-of-geospatial-business-in-just-one.md) ([Source URL](https://geo-week.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:11:33.352272+05:30
-- **Local Path**: `ai/resources/geo-week-a-year-of-geospatial-business-in-just-one.md`
-
-### 9. [GEO Week News | Lidar, AEC, 3D Technology & Geospatial Insights](../ai/rag/geo-week-news-lidar-aec-3d-technology-geospatial-i.md) ([Source URL](https://geoweeknews.com))
+### 3. [rpm-software-management/dnf](../ai/rag/rpm-software-management-dnf.md) ([Source URL](https://github.com/rpm-software-management/dnf))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-07T23:11:32.975423+05:30
-- **Local Path**: `ai/rag/geo-week-news-lidar-aec-3d-technology-geospatial-i.md`
+- **Collected At**: 2026-07-08T02:00:17.080720+05:30
+- **Local Path**: `ai/rag/rpm-software-management-dnf.md`
 
-### 10. [Commercial UAV Expo | Drone Conference & Trade Show](../ai/resources/commercial-uav-expo-drone-conference-trade-show.md) ([Source URL](https://expouav.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:11:32.677070+05:30
-- **Local Path**: `ai/resources/commercial-uav-expo-drone-conference-trade-show.md`
+### 4. [Overview - Knative](../ai/rag/overview-knative.md) ([Source URL](https://knative.dev/docs))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-08T02:00:14.770094+05:30
+- **Local Path**: `ai/rag/overview-knative.md`
 
-### 11. [UAV Reports | Commercial UAV News](../ai/agents/uav-reports-commercial-uav-news.md) ([Source URL](https://commercialuavnews.com/reports/americas))
+### 5. [Google for Developers | Build with Gemini](../ai/agents/google-for-developers-build-with-gemini.md) ([Source URL](https://developers.google.com))
 - **Category**: ai/agents
-- **Collected At**: 2026-07-07T23:11:29.160430+05:30
-- **Local Path**: `ai/agents/uav-reports-commercial-uav-news.md`
+- **Collected At**: 2026-07-08T02:00:14.540691+05:30
+- **Local Path**: `ai/agents/google-for-developers-build-with-gemini.md`
 
-### 12. [Orion-Real-Time Validation Infrastructure | Commercial UAV Expo](../ai/resources/orion-real-time-validation-infrastructure-commerci.md) ([Source URL](https://expouav.com/orion-real-time-validation-infrastructure))
+### 6. [Cloud Storage for Firebase | Store and serve content with ease](../ai/rag/cloud-storage-for-firebase-store-and-serve-content.md) ([Source URL](https://firebase.google.com/products/storage))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-08T02:00:14.447256+05:30
+- **Local Path**: `ai/rag/cloud-storage-for-firebase-store-and-serve-content.md`
+
+### 7. [readthedocs/sphinx_rtd_theme](../ai/resources/readthedocs-sphinx-rtd-theme.md) ([Source URL](https://github.com/readthedocs/sphinx_rtd_theme))
 - **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:11:24.972996+05:30
-- **Local Path**: `ai/resources/orion-real-time-validation-infrastructure-commerci.md`
+- **Collected At**: 2026-07-08T02:00:12.090150+05:30
+- **Local Path**: `ai/resources/readthedocs-sphinx-rtd-theme.md`
 
-### 13. [Project Orion | Real-Time Infrastructure for Autonomous Cooperative Airspace](../ai/agents/project-orion-real-time-infrastructure-for-autonom.md) ([Source URL](https://projectorion.info))
+### 8. [DNF Command Reference — DNF @DNF_VERSION@-1 documentation](../ai/rag/dnf-command-reference-dnf-dnf-version-1-documentat.md) ([Source URL](https://dnf.readthedocs.io/en/latest/command_ref.html))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-08T02:00:09.127286+05:30
+- **Local Path**: `ai/rag/dnf-command-reference-dnf-dnf-version-1-documentat.md`
+
+### 9. [RFC 3339 - Date and Time on the Internet: Timestamps](../ai/rag/rfc-3339-date-and-time-on-the-internet-timestamps.md) ([Source URL](https://tools.ietf.org/html/rfc3339))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-08T02:00:03.640685+05:30
+- **Local Path**: `ai/rag/rfc-3339-date-and-time-on-the-internet-timestamps.md`
+
+### 10. [Cloud SDK - Libraries and Command Line Tools | Google Cloud](../ai/rag/cloud-sdk-libraries-and-command-line-tools-google.md) ([Source URL](https://cloud.google.com/sdk))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-08T01:59:39.811803+05:30
+- **Local Path**: `ai/rag/cloud-sdk-libraries-and-command-line-tools-google.md`
+
+### 11. [Quickstart: Install the Google Cloud CLI | Google Cloud SDK | Google Cloud Documentation](../ai/resources/quickstart-install-the-google-cloud-cli-google-clo.md) ([Source URL](https://cloud.google.com/sdk/docs/install))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-08T01:59:34.728765+05:30
+- **Local Path**: `ai/resources/quickstart-install-the-google-cloud-cli-google-clo.md`
+
+### 12. [Create a Google Cloud project | Google Workspace | Google for Developers](../ai/resources/create-a-google-cloud-project-google-workspace-goo.md) ([Source URL](https://developers.google.com/workspace/guides/create-project))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-08T01:59:29.151413+05:30
+- **Local Path**: `ai/resources/create-a-google-cloud-project-google-workspace-goo.md`
+
+### 13. [JSON functions | BigQuery | Google Cloud Documentation](../ai/resources/json-functions-bigquery-google-cloud-documentation.md) ([Source URL](https://cloud.google.com/bigquery/docs/reference/standard-sql/json_functions))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-08T01:58:49.188873+05:30
+- **Local Path**: `ai/resources/json-functions-bigquery-google-cloud-documentation.md`
+
+### 14. [firebase/extensions](../ai/resources/firebase-extensions.md) ([Source URL](https://github.com/firebase/extensions))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-08T01:58:43.141343+05:30
+- **Local Path**: `ai/resources/firebase-extensions.md`
+
+### 15. [Introduction to materialized views | BigQuery | Google Cloud Documentation](../ai/rag/introduction-to-materialized-views-bigquery-google.md) ([Source URL](https://cloud.google.com/bigquery/docs/materialized-views-intro))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-08T01:58:42.691247+05:30
+- **Local Path**: `ai/rag/introduction-to-materialized-views-bigquery-google.md`
+
+### 16. [Site Policies | Google for Developers](../ai/rag/site-policies-google-for-developers.md) ([Source URL](https://developers.google.com/site-policies))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-08T01:58:07.189465+05:30
+- **Local Path**: `ai/rag/site-policies-google-for-developers.md`
+
+### 17. [Create and manage databases | Firestore in Native mode | Google Cloud Documentation](../ai/resources/create-and-manage-databases-firestore-in-native-mo.md) ([Source URL](https://cloud.google.com/firestore/docs/manage-databases))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-08T01:58:03.116579+05:30
+- **Local Path**: `ai/resources/create-and-manage-databases-firestore-in-native-mo.md`
+
+### 18. [generative-ai/setup-env at main · GoogleCloudPlatform/generative-ai · GitHub](../ai/rag/googlecloudplatform-generative-ai.md) ([Source URL](https://github.com/googlecloudplatform/generative-ai))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-08T01:58:02.830783+05:30
+- **Local Path**: `ai/rag/googlecloudplatform-generative-ai.md`
+
+### 19. [Firestore Vector Store | Developer Documentation](../ai/rag/firestore-vector-store-developer-documentation.md) ([Source URL](https://developers.llamaindex.ai/python/framework/integrations/vector_stores/firestorevectorstore))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-08T01:57:59.190027+05:30
+- **Local Path**: `ai/rag/firestore-vector-store-developer-documentation.md`
+
+### 20. [Algolia documentation | Search API guides, SDK and developer docs - Algolia](../ai/rag/algolia-documentation-search-api-guides-sdk-and-de.md) ([Source URL](https://algolia.com/doc))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-08T01:57:48.749331+05:30
+- **Local Path**: `ai/rag/algolia-documentation-search-api-guides-sdk-and-de.md`
+
+### 21. [Algolia Academy](../ai/resources/algolia-academy.md) ([Source URL](https://academy.algolia.com/trainings))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-08T01:57:48.401252+05:30
+- **Local Path**: `ai/resources/algolia-academy.md`
+
+### 22. [Algolia](../ai/agents/algolia.md) ([Source URL](https://support.algolia.com/hc/en-us))
 - **Category**: ai/agents
-- **Collected At**: 2026-07-07T23:11:23.539820+05:30
-- **Local Path**: `ai/agents/project-orion-real-time-infrastructure-for-autonom.md`
+- **Collected At**: 2026-07-08T01:57:45.480252+05:30
+- **Local Path**: `ai/agents/algolia.md`
 
-### 14. [How SARS-CoV-2 evolved through the pandemic | Cornell Chronicle](../ai/resources/how-sars-cov-2-evolved-through-the-pandemic-cornel.md) ([Source URL](https://news.cornell.edu/stories/2025/02/how-sars-cov-2-evolved-through-pandemic))
+### 23. [API keys - Algolia](../ai/resources/api-keys-algolia.md) ([Source URL](https://algolia.com/doc/guides/security/api-keys))
 - **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:10:25.901071+05:30
-- **Local Path**: `ai/resources/how-sars-cov-2-evolved-through-the-pandemic-cornel.md`
+- **Collected At**: 2026-07-08T01:57:41.780733+05:30
+- **Local Path**: `ai/resources/api-keys-algolia.md`
 
-### 15. [Kyle Kimball | University Relations | Cornell University](../ai/resources/kyle-kimball-university-relations-cornell-universi.md) ([Source URL](https://universityrelations.cornell.edu))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:10:17.693002+05:30
-- **Local Path**: `ai/resources/kyle-kimball-university-relations-cornell-universi.md`
-
-### 16. [Cornell University](../ai/rag/cornell-university.md) ([Source URL](http://cornell.edu))
+### 24. [Firestore | Google Cloud](../ai/rag/firestore-google-cloud.md) ([Source URL](https://cloud.google.com/firestore))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-07T23:10:17.231764+05:30
-- **Local Path**: `ai/rag/cornell-university.md`
+- **Collected At**: 2026-07-08T01:57:21.196717+05:30
+- **Local Path**: `ai/rag/firestore-google-cloud.md`
 
-### 17. [Smart drones, safe skies: Student’s system tests, coordinates drone fleets | Cornell Chronicle](../ai/rag/smart-drones-safe-skies-students-system-tests-coor.md) ([Source URL](https://news.cornell.edu/stories/2026/06/smart-drones-safe-skies-students-system-tests-coordinates-drone-fleets))
+### 25. [Firestore | Firebase](../ai/resources/firestore-firebase.md) ([Source URL](https://firebase.google.com/docs/firestore))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-08T01:57:20.165116+05:30
+- **Local Path**: `ai/resources/firestore-firebase.md`
+
+### 26. [googleapis/nodejs-firestore](../ai/resources/googleapis-nodejs-firestore.md) ([Source URL](https://github.com/googleapis/nodejs-firestore))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-08T01:57:20.043178+05:30
+- **Local Path**: `ai/resources/googleapis-nodejs-firestore.md`
+
+### 27. [Home - Documentation](../ai/resources/home-documentation.md) ([Source URL](https://googleapis.dev/nodejs/firestore/latest))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-08T01:57:15.726665+05:30
+- **Local Path**: `ai/resources/home-documentation.md`
+
+### 28. [firestore package - cloud.google.com/go/firestore - Go Packages](../ai/rag/firestore-package-cloud-google-com-go-firestore-go.md) ([Source URL](https://godoc.org/cloud.google.com/go/firestore))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-07T23:09:49.584154+05:30
-- **Local Path**: `ai/rag/smart-drones-safe-skies-students-system-tests-coor.md`
+- **Collected At**: 2026-07-08T01:57:13.511495+05:30
+- **Local Path**: `ai/rag/firestore-package-cloud-google-com-go-firestore-go.md`
 
-### 18. [Research Impact | Cornell Chronicle](../ai/resources/research-impact-cornell-chronicle.md) ([Source URL](https://news.cornell.edu/categories/research-impact))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:09:44.597893+05:30
-- **Local Path**: `ai/resources/research-impact-cornell-chronicle.md`
-
-### 19. [Publications & Data - Cornell Research & Innovation](../ai/resources/publications-data-cornell-research-innovation.md) ([Source URL](https://research-and-innovation.cornell.edu/publications-data))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:09:44.405386+05:30
-- **Local Path**: `ai/resources/publications-data-cornell-research-innovation.md`
-
-### 20. [SpeechifyInc/ai-api-examples](../ai/resources/speechifyinc-ai-api-examples.md) ([Source URL](https://github.com/speechifyinc/ai-api-examples))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:09:12.932375+05:30
-- **Local Path**: `ai/resources/speechifyinc-ai-api-examples.md`
-
-### 21. [Medium Privacy Policy - Effective date December 31, 2019 through August 31, 2020 – Medium Help Center](../ai/rag/medium-privacy-policy-effective-date-december-31-2.md) ([Source URL](https://medium.zendesk.com/hc/en-us/articles/360052305234))
+### 29. [Get started with Firestore Standard edition | Firebase](../ai/rag/get-started-with-firestore-standard-edition-fireba.md) ([Source URL](https://firebase.google.com/docs/firestore/quickstart))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-07T23:08:55.473471+05:30
-- **Local Path**: `ai/rag/medium-privacy-policy-effective-date-december-31-2.md`
+- **Collected At**: 2026-07-08T01:57:11.963890+05:30
+- **Local Path**: `ai/rag/get-started-with-firestore-standard-edition-fireba.md`
 
-### 22. [Contact us | ICO](../ai/resources/contact-us-ico.md) ([Source URL](https://ico.org.uk/global/contact-us))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:08:55.148067+05:30
-- **Local Path**: `ai/resources/contact-us-ico.md`
-
-### 23. [Permissions | Node.js v26.4.0 Documentation](../ai/resources/permissions-node-js-v26-4-0-documentation.md) ([Source URL](https://nodejs.org/api/permissions.html))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:08:49.476255+05:30
-- **Local Path**: `ai/resources/permissions-node-js-v26-4-0-documentation.md`
-
-### 24. [Sign in to GitHub · GitHub](../ai/resources/gohugoio-hugodocs.md) ([Source URL](https://github.com/gohugoio/hugodocs))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:08:48.524401+05:30
-- **Local Path**: `ai/resources/gohugoio-hugodocs.md`
-
-### 25. [GitHub Flavored Markdown Spec](../ai/rag/github-flavored-markdown-spec.md) ([Source URL](https://github.github.com/gfm))
+### 30. [Stream Firestore to BigQuery | Firebase Extensions Hub](../ai/rag/stream-firestore-to-bigquery-firebase-extensions-h.md) ([Source URL](https://extensions.dev/extensions/firebase/firestore-bigquery-export))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-07T23:08:46.416774+05:30
-- **Local Path**: `ai/rag/github-flavored-markdown-spec.md`
+- **Collected At**: 2026-07-08T01:57:08.536687+05:30
+- **Local Path**: `ai/rag/stream-firestore-to-bigquery-firebase-extensions-h.md`
 
-### 26. [Pandoc - index](../ai/rag/pandoc-index.md) ([Source URL](https://pandoc.org))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-07T23:08:45.260176+05:30
-- **Local Path**: `ai/rag/pandoc-index.md`
-
-### 27. [Subresource Integrity - Security | MDN](../ai/resources/subresource-integrity-security-mdn.md) ([Source URL](https://developer.mozilla.org/en-us/docs/web/security/subresource_integrity))
+### 31. [GitHub - algolia/firestore-algolia-search at 6af4b6de9301f25718743af54105d37ebd0606f1 · GitHub](../ai/resources/algolia-firestore-algolia-search.md) ([Source URL](https://github.com/algolia/firestore-algolia-search))
 - **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:08:43.132790+05:30
-- **Local Path**: `ai/resources/subresource-integrity-security-mdn.md`
+- **Collected At**: 2026-07-08T01:57:07.653490+05:30
+- **Local Path**: `ai/resources/algolia-firestore-algolia-search.md`
 
-### 28. [GitHub Status](../ai/rag/github-status.md) ([Source URL](https://githubstatus.com))
+### 32. [Cloud Firestore Data model | Firebase](../ai/rag/cloud-firestore-data-model-firebase.md) ([Source URL](https://firebase.google.com/docs/firestore/data-model))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-07T23:08:41.370972+05:30
-- **Local Path**: `ai/rag/github-status.md`
+- **Collected At**: 2026-07-08T01:57:06.968964+05:30
+- **Local Path**: `ai/rag/cloud-firestore-data-model-firebase.md`
 
-### 29. [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md) ([Source URL](https://github.com/langchain-ai/docs))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:08:38.472710+05:30
-- **Local Path**: `ai/resources/langchain-ai-docs.md`
-
-### 30. [Overview of Parse | Developer Documentation](../ai/rag/overview-of-parse-developer-documentation.md) ([Source URL](https://developers.llamaindex.ai/python/cloud/llamaparse))
+### 33. [Search Firestore with Algolia | Firebase Extensions Hub](../ai/rag/search-firestore-with-algolia-firebase-extensions.md) ([Source URL](https://extensions.dev/extensions/algolia/firestore-algolia-search))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-07T23:08:36.686759+05:30
-- **Local Path**: `ai/rag/overview-of-parse-developer-documentation.md`
+- **Collected At**: 2026-07-08T01:57:03.555252+05:30
+- **Local Path**: `ai/rag/search-firestore-with-algolia-firebase-extensions.md`
 
-### 31. [Getting Started | Developer Documentation](../ai/agents/getting-started-developer-documentation.md) ([Source URL](https://docs.cloud.llamaindex.ai/llamacloud/getting_started))
+### 34. [EFF's Copyright Policy | Electronic Frontier Foundation](../ai/agents/eff-s-copyright-policy-electronic-frontier-foundat.md) ([Source URL](https://eff.org/copyright))
 - **Category**: ai/agents
-- **Collected At**: 2026-07-07T23:08:33.630301+05:30
-- **Local Path**: `ai/agents/getting-started-developer-documentation.md`
+- **Collected At**: 2026-07-08T01:53:35.176010+05:30
+- **Local Path**: `ai/agents/eff-s-copyright-policy-electronic-frontier-foundat.md`
 
-### 32. [run-llama/llama_deploy](../ai/rag/run-llama-llama-deploy.md) ([Source URL](https://github.com/run-llama/llama_deploy))
+### 35. [Firebase | Google's Mobile and Web App Development Platform](../ai/rag/firebase-google-s-mobile-and-web-app-development-p.md) ([Source URL](https://firebase.google.com))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-07T23:08:33.441838+05:30
+- **Collected At**: 2026-07-08T01:53:31.895983+05:30
+- **Local Path**: `ai/rag/firebase-google-s-mobile-and-web-app-development-p.md`
+
+### 36. [run-llama/llama_deploy](../ai/rag/run-llama-llama-deploy.md) ([Source URL](https://github.com/run-llama/llama_deploy))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-08T01:53:30.770934+05:30
 - **Local Path**: `ai/rag/run-llama-llama-deploy.md`
 
-### 33. [JAMS Pathways - YouTube](../ai/resources/jams-pathways-youtube.md) ([Source URL](https://youtube.com/@jamspathways))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:08:17.203848+05:30
-- **Local Path**: `ai/resources/jams-pathways-youtube.md`
+### 37. [run-llama/llama-cloud-py](../ai/agents/run-llama-llama-cloud-py.md) ([Source URL](https://github.com/run-llama/llama-cloud-py))
+- **Category**: ai/agents
+- **Collected At**: 2026-07-08T01:53:25.962985+05:30
+- **Local Path**: `ai/agents/run-llama-llama-cloud-py.md`
 
-### 34. [JAMS: Mediation, Arbitration and ADR Services](../ai/resources/jams-mediation-arbitration-and-adr-services.md) ([Source URL](https://jamsadr.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:07:33.556600+05:30
-- **Local Path**: `ai/resources/jams-mediation-arbitration-and-adr-services.md`
-
-### 35. [PageSpeed Insights](../ai/resources/pagespeed-insights.md) ([Source URL](https://pagespeed.web.dev))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:06:19.906492+05:30
-- **Local Path**: `ai/resources/pagespeed-insights.md`
-
-### 36. [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md) ([Source URL](https://law.cornell.edu/uscode/text/17/512))
+### 38. [LangSmith Observability - Docs by LangChain](../ai/rag/langsmith-observability-docs-by-langchain.md) ([Source URL](https://docs.langchain.com/langsmith/home))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-07T23:06:12.567313+05:30
-- **Local Path**: `ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md`
-
-### 37. [Workplace Conflict Resolution & Organizational Development | JAMS Pathways](../ai/rag/workplace-conflict-resolution-organizational-devel.md) ([Source URL](https://jamspathways.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-07T23:06:11.871389+05:30
-- **Local Path**: `ai/rag/workplace-conflict-resolution-organizational-devel.md`
-
-### 38. [All-in-one incident management platform | incident.io](../ai/rag/all-in-one-incident-management-platform-incident-i.md) ([Source URL](https://incident.io))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-07T23:06:05.859316+05:30
-- **Local Path**: `ai/rag/all-in-one-incident-management-platform-incident-i.md`
-
-### 39. [Configure security](../ai/resources/configure-security.md) ([Source URL](https://gohugo.io/configuration/security))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:05:43.390114+05:30
-- **Local Path**: `ai/resources/configure-security.md`
-
-### 40. [Configure markup](../ai/rag/configure-markup.md) ([Source URL](https://gohugo.io/configuration/markup))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-07T23:05:33.672053+05:30
-- **Local Path**: `ai/rag/configure-markup.md`
-
-### 41. [encoding.HexEncode](../ai/resources/encoding-hexencode.md) ([Source URL](https://gohugo.io/functions/encoding/hexencode))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:05:33.313599+05:30
-- **Local Path**: `ai/resources/encoding-hexencode.md`
-
-### 42. [CORE · GitHub](../ai/resources/core-github.md) ([Source URL](https://github.com/oacore))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:05:30.389192+05:30
-- **Local Path**: `ai/resources/core-github.md`
-
-### 43. [LangSmith Observability - Docs by LangChain](../ai/rag/langsmith-observability-docs-by-langchain.md) ([Source URL](https://docs.langchain.com/langsmith/home))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-07T23:05:28.857438+05:30
+- **Collected At**: 2026-07-08T01:53:24.143325+05:30
 - **Local Path**: `ai/rag/langsmith-observability-docs-by-langchain.md`
 
-### 44. [crypto.Hash](../ai/resources/crypto-hash.md) ([Source URL](https://gohugo.io/functions/crypto/hash))
+### 39. [run-llama/llama-cloud-ts](../ai/agents/run-llama-llama-cloud-ts.md) ([Source URL](https://github.com/run-llama/llama-cloud-ts))
+- **Category**: ai/agents
+- **Collected At**: 2026-07-08T01:53:20.926337+05:30
+- **Local Path**: `ai/agents/run-llama-llama-cloud-ts.md`
+
+### 40. [Deep Agents Code - Docs by LangChain](../ai/rag/deep-agents-code-docs-by-langchain.md) ([Source URL](https://docs.langchain.com/oss/python/deepagents/code/overview))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-08T01:53:18.309236+05:30
+- **Local Path**: `ai/rag/deep-agents-code-docs-by-langchain.md`
+
+### 41. [Who Has Your Back? Censorship Edition 2019 | Electronic Frontier Foundation](../ai/rag/who-has-your-back-censorship-edition-2019-electron.md) ([Source URL](https://eff.org/wp/who-has-your-back-2019))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-08T01:53:16.292339+05:30
+- **Local Path**: `ai/rag/who-has-your-back-censorship-edition-2019-electron.md`
+
+### 42. [The Shift from Models to Compound AI Systems – The Berkeley Artificial Intelligence Research Blog](../ai/rag/the-shift-from-models-to-compound-ai-systems-the-b.md) ([Source URL](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-08T01:53:07.407074+05:30
+- **Local Path**: `ai/rag/the-shift-from-models-to-compound-ai-systems-the-b.md`
+
+### 43. [Medium Partner Program](../ai/rag/medium-partner-program.md) ([Source URL](https://medium.com/creators))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-08T01:53:07.238575+05:30
+- **Local Path**: `ai/rag/medium-partner-program.md`
+
+### 44. [Introducing TXYZ: The AI Platform Revolutionizing PDF Reading and Writing for Academic - The Globe and Mail](../ai/rag/introducing-txyz-the-ai-platform-revolutionizing-p.md) ([Source URL](https://theglobeandmail.com/investing/markets/markets-news/globe-pr-wire/29295226/introducing-txyz-the-ai-platform-revolutionizing-pdf-reading-and-writing-for-academic))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-08T01:52:55.412951+05:30
+- **Local Path**: `ai/rag/introducing-txyz-the-ai-platform-revolutionizing-p.md`
+
+### 45. [encoding.HexEncode](../ai/resources/encoding-hexencode.md) ([Source URL](https://gohugo.io/functions/encoding/hexencode))
 - **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:05:28.317893+05:30
-- **Local Path**: `ai/resources/crypto-hash.md`
+- **Collected At**: 2026-07-08T01:52:40.004666+05:30
+- **Local Path**: `ai/resources/encoding-hexencode.md`
 
-### 45. [Gradio](../ai/rag/gradio.md) ([Source URL](https://gradio.app))
+### 46. [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md) ([Source URL](https://haystack.deepset.ai/cookbook))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-07T23:05:25.323439+05:30
-- **Local Path**: `ai/rag/gradio.md`
+- **Collected At**: 2026-07-08T01:52:33.759560+05:30
+- **Local Path**: `ai/rag/cookbook-haystack.md`
 
-### 46. [Home - The GitHub Blog](../ai/resources/home-the-github-blog.md) ([Source URL](https://github.blog))
+### 47. [Software for Complex Networks — NetworkX 3.7rc0.dev0 documentation](../ai/resources/software-for-complex-networks-networkx-3-7rc0-dev0.md) ([Source URL](https://networkx.org/documentation/latest))
 - **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:05:23.951606+05:30
-- **Local Path**: `ai/resources/home-the-github-blog.md`
+- **Collected At**: 2026-07-08T01:52:32.022597+05:30
+- **Local Path**: `ai/resources/software-for-complex-networks-networkx-3-7rc0-dev0.md`
 
-### 47. [Scite Status](../ai/resources/scite-status.md) ([Source URL](https://status.scite.ai))
+### 48. [Syntax highlighting styles](../ai/rag/syntax-highlighting-styles.md) ([Source URL](https://gohugo.io/quick-reference/syntax-highlighting-styles))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-08T01:52:30.700872+05:30
+- **Local Path**: `ai/rag/syntax-highlighting-styles.md`
+
+### 49. [Configure imaging](../ai/rag/configure-imaging.md) ([Source URL](https://gohugo.io/configuration/imaging))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-08T01:52:30.257462+05:30
+- **Local Path**: `ai/rag/configure-imaging.md`
+
+### 50. [Configure security](../ai/resources/configure-security.md) ([Source URL](https://gohugo.io/configuration/security))
 - **Category**: ai/resources
-- **Collected At**: 2026-07-07T23:05:23.013057+05:30
-- **Local Path**: `ai/resources/scite-status.md`
-
-### 48. [Welcome to LlamaIndex 🦙 ! | Developer Documentation](../ai/rag/welcome-to-llamaindex-developer-documentation.md) ([Source URL](https://docs.llamaindex.ai/en/stable))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-07T23:05:22.934527+05:30
-- **Local Path**: `ai/rag/welcome-to-llamaindex-developer-documentation.md`
-
-### 49. [Scite – Research Solutions Help & Support Center](../ai/rag/scite-research-solutions-help-support-center.md) ([Source URL](https://help.researchsolutions.com/hc/en-us/categories/31947397460116-scite))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-07T23:05:22.395710+05:30
-- **Local Path**: `ai/rag/scite-research-solutions-help-support-center.md`
-
-### 50. [AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](../ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md) ([Source URL](https://llamaindex.ai/llamaparse))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-07T23:05:22.281152+05:30
-- **Local Path**: `ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md`
+- **Collected At**: 2026-07-08T01:52:29.911416+05:30
+- **Local Path**: `ai/resources/configure-security.md`
 
 ---
-*Index generated on 2026-07-07T23:14:23.224099+05:30*
+*Index generated on 2026-07-08T02:01:29.321122+05:30*

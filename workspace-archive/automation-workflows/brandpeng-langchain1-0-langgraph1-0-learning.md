@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Purpose**: Dedicated to learning **LangChain 1.0** and **LangGraph 1.0**, focusing on **agent development** with a structured path from fundamentals to practical implementations.
-
-- **Technical Scope**: Covers **Python-based** agent frameworks, integrating **LangChain** for LLM orchestration and **LangGraph** for workflow management in AI systems.
-
-- **Project Status**: Last updated **July 7, 2026**, with **569 stars** and **104 forks**, indicating active community engagement.
+- **Repository Overview**: Dedicated to learning **LangChain 1.0** and **LangGraph 1.0** for **agent development**, covering foundational concepts to practical implementation with a structured learning path.
+- **Technical Scope**: Focuses on **Python-based agent frameworks**, integrating **LangChain** (for LLM orchestration) and **LangGraph** (for stateful workflows) with hands-on projects.
+- **Metadata**: **569 stars**, **104 forks**, last updated **2026-07-07**; categorized under **agent**, **
 
 ## Use Cases
 

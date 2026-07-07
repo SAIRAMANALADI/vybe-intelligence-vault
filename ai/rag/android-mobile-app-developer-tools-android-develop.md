@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.android.com
-published_at: '2026-07-07T23:05:18.421092+05:30'
-collected_at: '2026-07-07T23:05:18.421108+05:30'
+published_at: '2026-07-08T01:52:21.931554+05:30'
+collected_at: '2026-07-08T01:52:21.931570+05:30'
 tags:
 - agents
 - producthunt
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-mobile-app-developer-tools-android-develop
-first_seen: '2026-07-07T23:05:18.421108+05:30'
-last_seen: '2026-07-07T23:05:18.421108+05:30'
-last_checked: '2026-07-07T23:05:18.421108+05:30'
+first_seen: '2026-07-08T01:52:21.931570+05:30'
+last_seen: '2026-07-08T01:52:21.931570+05:30'
+last_checked: '2026-07-08T01:52:21.931570+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Google Play Billing Updates**: Google Play introduced expanded billing flexibility, reduced fees, and new programs to enhance developer monetization, with details available in the [Q3 updates blog](http://goo.gle/playdev-q3-updates).
+- **Google Play Billing Updates**: Google Play introduced expanded billing flexibility, reduced fees, and new programs to enhance developer monetization, with details available in the [Q3 updates blog](http://goo.gle/playdev-q3-updates) and a [dedicated video](https://www.youtube.com/watch?v=hcvvo6Sag0Q).
 
-- **Android 17 & API 37**: Android 17 is officially released with source code on AOSP and rolling out to Pixel devices; developers must prepare for API 37 with top updates outlined in the [Android 17 blog](https://android-developers.googleblog.com/2026/06/Android-17.html).
+- **Android 17 & XR Platform**: Android 17 (API 37) is now live on AOSP with Pixel rollouts, while Android XR expands engine support and resources for immersive app development, as outlined in the [Android 17 blog](https://android-developers.googleblog.com/2026/06/Android-17.html) and [XR updates](http://android-developers.googleblog.com/2026/06/what-is-new-android-xr.html).
 
-- **Android XR & Developer Tools**: Android XR platform expands engine support and resources for immersive experiences, while Android Studio Quail 1 | 2026.1.1 Patch 2 is available under the [SDK License Agreement](https://developer.android.com/studio).
+- **Android Studio Quail 1 | 2026.1.1 Patch 2**: The latest SDK release includes licensing terms requiring compliance for development, with restrictions on redistribution, reverse engineering, and derivative works under [Google’s SDK License Agreement](https://developer.android.com/studio).
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T23:05:18.421092+05:30
+- Published: 2026-07-08T01:52:21.931554+05:30
 
 ## Related Tags
 

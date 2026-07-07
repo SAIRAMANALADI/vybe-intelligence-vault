@@ -4,12 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-07-07T22:59:16.908656+05:30'
+collected_at: '2026-07-08T01:46:18.750467+05:30'
 published_at: '2026-07-07T16:30:07Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
@@ -21,9 +19,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-06-05T08:29:26Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-07-07T22:59:16.908656+05:30'
-last_seen: '2026-07-07T22:59:16.908656+05:30'
-last_checked: '2026-07-07T22:59:16.908656+05:30'
+first_seen: '2026-07-08T01:46:18.750467+05:30'
+last_seen: '2026-07-08T01:46:18.750467+05:30'
+last_checked: '2026-07-08T01:46:18.750467+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Development Guide**: Covers end-to-end RAG (Retrieval-Augmented Generation) implementation with Python, integrating frameworks like LangChain and LlamaIndex for LLM applications.
+- **Comprehensive RAG Framework**: Repository provides a full-stack guide for Retrieval-Augmented Generation (RAG) development, covering end-to-end implementation with Python, including embedding models, vector databases (Milvus), and LLM integration (LangChain, LlamaIndex).
 
-- **Multi-Technology Stack**: Incorporates embedding models (e.g., DeepSeek), vector databases (Milvus), graph databases (Neo4j), and multimodal processing for advanced RAG pipelines.
+- **Multi-Model & Multimodal Support**: Supports deep learning models (DeepSeek, Kimi-K2), multimodal data processing, and graph-based retrieval (Neo4j) for advanced RAG pipelines.
 
-- **Latest Updates & Community-Driven**: Actively maintained (last update: 2026-07-07) with 9.2K+ stars and 4.6K+ forks, providing real-world examples and benchmarks for RAG optimization.
+- **Production-Ready Tools**: Includes deployment-ready components for scalable RAG systems, with last update (2026-07-07) ensuring compatibility with modern AI/ML stacks.
 
 ## Why It Matters
 

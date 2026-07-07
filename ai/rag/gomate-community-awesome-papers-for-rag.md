@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gomate-community/awesome-papers-for-rag
-collected_at: '2026-07-07T23:00:31.887574+05:30'
+collected_at: '2026-07-08T01:47:38.759539+05:30'
 published_at: '2026-07-01T02:40:05Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
-- meta-ai
 - models
 - paper
 - python
@@ -23,9 +21,9 @@ archived: false
 created_at: '2024-02-23T08:38:47Z'
 pushed_at: '2025-10-31T14:16:08Z'
 resource_id: github:gomate-community/awesome-papers-for-rag
-first_seen: '2026-07-07T23:00:31.887574+05:30'
-last_seen: '2026-07-07T23:00:31.887574+05:30'
-last_checked: '2026-07-07T23:00:31.887574+05:30'
+first_seen: '2026-07-08T01:47:38.759539+05:30'
+last_seen: '2026-07-08T01:47:38.759539+05:30'
+last_checked: '2026-07-08T01:47:38.759539+05:30'
 health_score: 100
 ---
 
@@ -33,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, preprints, and technical reports focused on retrieval-augmented generation (RAG) architectures, evaluation methodologies, and optimization techniques.
-- **Python-Centric Tooling**: Includes Python-based implementations, libraries, and frameworks (e.g., LangChain, LlamaIndex) for RAG pipeline development, benchmarking, and deployment.
-- **Multi-Source Knowledge Integration**: Highlights methods for integrating diverse retrieval sources (e.g., vector DBs, knowledge graphs, web APIs) with generative models to enhance factual grounding and contextual relevance.
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, frameworks, and tools focused on retrieval-augmented generation (RAG), enabling efficient exploration of advancements in the field.
+
+- **Python-Centric**: Entirely Python-based, facilitating seamless integration with existing ML/NLP pipelines and leveraging libraries like `transformers`, `faiss`, and `pyserini` for retrieval and generation tasks.
+
+- **Actively Maintained**: Last updated July 2026, ensuring inclusion of recent research (e.g., 2024–2026 papers) on RAG architectures, evaluation metrics, and hybrid retrieval-generation paradigms.
 
 ## Why It Matters
 

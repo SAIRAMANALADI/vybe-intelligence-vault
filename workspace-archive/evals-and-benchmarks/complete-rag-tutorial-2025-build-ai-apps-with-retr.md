@@ -7,17 +7,17 @@ source_url: https://www.youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_
 resource_id: blog:complete-rag-tutorial-2025-build-ai-apps-with-retr
 local_vault_path: ai/rag/complete-rag-tutorial-2025-build-ai-apps-with-retr.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
-resource_kind: framework
-importance: high
+resource_kind: benchmark
+importance: medium
 tags:
 - rag
 - web-crawled
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Complete RAG Tutorial 2025: Build AI Apps with Retrieval Augmented Generation - YouTube
@@ -25,17 +25,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- YouTube operates under Google LLC, adhering to corporate policies, privacy laws, and content safety frameworks outlined in official documentation.
-- The platform provides APIs, developer tools, and monetization options (e.g., advertising) for creators and businesses via YouTube’s Developer and Ads platforms.
-- YouTube’s infrastructure and monetization mechanics are detailed in the "How YouTube Works" resource, explaining core functionality and business models.
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, live streaming, and monetization via ads and subscriptions.
+- **Developer & API Access**: Provides APIs and tools for developers (via [developers.google.com/youtube](https://developers.google.com/youtube)) to integrate YouTube functionality into applications.
+- **Policy & Compliance**: Enforces copyright, privacy, and safety policies (e.g., [YouTube Terms](https://www.yo
 
 ## Use Cases
 

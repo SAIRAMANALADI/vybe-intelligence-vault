@@ -8,6 +8,7 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 
 ## Top Matched Resources
 
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) (framework - ESSENTIAL Tier)
 - [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245) (framework - ESSENTIAL Tier)
 - [OSF: On Pre-training and Scaling of Sleep Foundation Models](https://arxiv.org/abs/2603.00190) (framework - ESSENTIAL Tier)
 - [AnomalyMatch: Discovering Rare Objects of Interest with Semi-supervised and Active Learning](https://arxiv.org/abs/2505.03509) (framework - ESSENTIAL Tier)
@@ -15,17 +16,16 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 - [Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets](https://arxiv.org/abs/2606.25760) (prompt - ESSENTIAL Tier)
 - [Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation](https://arxiv.org/abs/2606.11990) (framework - ESSENTIAL Tier)
 - [NeuroShield: A Device-Agnostic Foundation Model for EEG Authentication](https://arxiv.org/abs/2606.20673) (framework - ESSENTIAL Tier)
-- [PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework](https://arxiv.org/abs/2505.08784) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/huggingface/datasets (Hugging Face Datasets)
-- [wgcyeo/UniversalRAG](https://github.com/wgcyeo/UniversalRAG)
-- [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench)
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
+- [TencentCloudADP/youtu-graphrag](https://github.com/TencentCloudADP/youtu-graphrag)
 - [facebookresearch/CRAG](https://github.com/facebookresearch/CRAG)
+- [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
 - [IAAR-Shanghai/CRUD_RAG](https://github.com/IAAR-Shanghai/CRUD_RAG)
 - [onejune2018/Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)
-- [AI-Application-and-Integration-Lab/MegaRAG](https://github.com/AI-Application-and-Integration-Lab/MegaRAG)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-07-07 23:15 IST*
+*Last updated: 2026-07-08 02:02 IST*

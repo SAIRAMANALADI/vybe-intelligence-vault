@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - unknown
 selection_reason:
 - Useful for project building
@@ -30,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Structure**: Provides a 10-phase perpetual autonomous agent loop template designed for AIBTC, enabling continuous self-improvement via a 166+ production cycle framework.
-- **Self-Updating Prompt**: Implements an autonomous prompt refinement mechanism, ensuring the agent’s instructions evolve dynamically without manual intervention.
-- **Fork-Ready Repository**: Optimized for immediate forking and deployment, with 20 forks and last updated on 2026-04-15, indicating active community ad
+- **Template Structure**: Provides a 10-phase perpetual autonomous agent loop template designed for AIBTC, enabling continuous self-updating prompts based on 166+ production cycles.
+- **Repository Status**: Fork-ready with 20 forks and no stars; last updated on 2026-04-15.
+- **Technical Details**: Language unspecified; no associated topics or metadata available.
 
 ## Use Cases
 

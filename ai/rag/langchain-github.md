@@ -4,20 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-07-07T23:03:37.575562+05:30'
-collected_at: '2026-07-07T23:03:37.575576+05:30'
+published_at: '2026-07-08T01:52:19.186835+05:30'
+collected_at: '2026-07-08T01:52:19.186849+05:30'
 tags:
 - agents
 - anthropic
 - rag
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-07-07T23:03:37.575576+05:30'
-last_seen: '2026-07-07T23:03:37.575576+05:30'
-last_checked: '2026-07-07T23:03:37.575576+05:30'
+first_seen: '2026-07-08T01:52:19.186849+05:30'
+last_seen: '2026-07-08T01:52:19.186849+05:30'
+last_checked: '2026-07-08T01:52:19.186849+05:30'
 health_score: 100
 ---
 
@@ -25,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: `LangChain`/`LangChain.js` provide reusable LLM application components and integrations; `LangGraph`/`LangGraph.js` enable agent construction via graph-based workflows; `Deep Agents`/`Deep Agents.js` support hierarchical agent planning and file system interactions.
+- **Core Libraries**: LangChain/LangChain.js provide reusable LLM application components and integrations; LangGraph/LangGraph.js enable graph-based LLM agent construction; Deep Agents/Deep Agents.js support hierarchical agent planning with filesystem access.
 
-- **Commercial Platform**: `LangSmith` offers production-grade monitoring and development for LLM applications.
+- **Commercial & OSS Extensions**: LangSmith offers production-grade LLM app development/monitoring; Deep Agents Code and Open SWE are terminal-based/open-source coding agents; MCP Adapters bridge MCP tools with LangChain/LangGraph; Agent Protocol defines framework-agnostic APIs for serving LLM agents.
 
-- **OSS Extensions/Apps**: `Deep Agents Code` (terminal-based coding agent), `Open SWE` (asynchronous coding agent), `MCP Adapters` (MCP tool compatibility), and `Agent Protocol` (standardized agent APIs).
+- **Learning Resources**: Unified documentation at docs.langchain.com; community forum for discussions; LangChain Academy provides free courses on LangChain libraries and products.
 
 ## Why It Matters
 
@@ -39,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T23:03:37.575562+05:30
+- Published: 2026-07-08T01:52:19.186835+05:30
 
 ## Related Tags
 
@@ -47,7 +46,6 @@ General public resource representing technology updates, guides, or tutorials.
 - anthropic
 - rag
 - web-crawled
-- workflows
 - youtube
 
 ## Source

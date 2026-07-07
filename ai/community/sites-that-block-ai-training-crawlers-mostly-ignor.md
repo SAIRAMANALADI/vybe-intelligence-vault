@@ -13,13 +13,14 @@ collected_at: '2026-07-07T22:58:25.405055+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:sites-that-block-ai-training-crawlers-mostly-ignor
 first_seen: '2026-07-07T22:58:25.405055+05:30'
 last_seen: '2026-07-07T22:58:25.405055+05:30'
 last_checked: '2026-07-07T22:58:25.405055+05:30'
 health_score: 100
 ---
+
 
 # Sites that block AI training crawlers mostly ignore the answer time bots
 

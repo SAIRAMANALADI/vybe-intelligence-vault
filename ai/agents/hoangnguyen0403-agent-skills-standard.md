@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-07-07T23:01:56.879414+05:30'
+collected_at: '2026-07-08T01:49:03.801265+05:30'
 published_at: '2026-07-07T14:45:26Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-04T11:51:08Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-07-07T23:01:56.879414+05:30'
-last_seen: '2026-07-07T23:01:56.879414+05:30'
-last_checked: '2026-07-07T23:01:56.879414+05:30'
+first_seen: '2026-07-08T01:49:03.801265+05:30'
+last_seen: '2026-07-08T01:49:03.801265+05:30'
+last_checked: '2026-07-08T01:49:03.801265+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Language Best Practices Repository**: Curated collection of coding standards and best practices for **TypeScript, Kotlin, Go, Java (Spring Boot), Dart (Flutter), JavaScript (React/Next.js), PHP (Laravel), and more**, structured for AI agent compliance.
-- **Framework-Specific Agent Rules**: Provides **cursor-rules** and standardized guidelines for **Android, iOS, Angular, NestJS, React Native**, and other frameworks to ensure AI agents follow language/framework-specific conventions.
-- **Active Maintenance & Community**: Last updated **July 2026**, with **521 stars and 150 forks**, indicating ongoing development and community adoption for AI-driven development workflows.
+- **Comprehensive Best Practices Repository**: Hosts standardized coding guidelines and best practices for multiple programming languages (TypeScript, Kotlin, Go, Java, etc.) and frameworks (React, Angular, Spring Boot, Laravel, etc.) to ensure AI agents adhere to industry standards.
+
+- **Multi-Platform Support**: Includes curated standards for mobile (Android, iOS, Flutter, React Native), web (Next.js, NestJS), and backend (Spring Boot, Laravel) development, facilitating cross-platform consistency.
+
+- **Agent-Oriented Tooling**: Provides `cursor-rules` integration for AI agents, enabling automated enforcement of coding standards during development workflows.
 
 ## Why It Matters
 

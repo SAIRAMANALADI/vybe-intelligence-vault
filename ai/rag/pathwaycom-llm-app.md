@@ -3,18 +3,16 @@ title: pathwaycom/llm-app
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/pathwaycom/llm-app?source=post_page
-resource_id: github:pathwaycom/llm-app
------dba899ae0355---------------------------------------
-collected_at: '2026-07-07T23:03:32.018718+05:30'
-published_at: '2026-07-07T14:54:15Z'
+source_url: https://github.com/pathwaycom/llm-app
+collected_at: '2026-07-08T01:46:58.742618+05:30'
+published_at: '2026-07-07T18:48:28Z'
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - openai
 - rag
-- workflows
-stars: 59097
+stars: 59096
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -22,9 +20,9 @@ archived: false
 created_at: '2023-07-19T08:43:37Z'
 pushed_at: '2026-07-05T17:59:07Z'
 resource_id: github:pathwaycom/llm-app
-first_seen: '2026-07-07T23:03:32.018718+05:30'
-last_seen: '2026-07-07T23:03:32.018718+05:30'
-last_checked: '2026-07-07T23:03:32.018718+05:30'
+first_seen: '2026-07-08T01:46:58.742618+05:30'
+last_seen: '2026-07-08T01:46:58.742618+05:30'
+last_checked: '2026-07-08T01:46:58.742618+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Cloud-native RAG & AI Pipelines**: Pre-configured templates for Retrieval-Augmented Generation (RAG), AI pipelines, and enterprise search with live data synchronization, supporting Docker deployment and real-time data sources (SharePoint, Google Drive, S3, Kafka, PostgreSQL, APIs).
-
-- **Multi-Model & Security-Focused**: Integrates Hugging Face, OpenAI, and local LLM models with built-in security (LLM security, prompting safeguards) and supports LLMOps workflows for scalable, production-grade deployments.
-
-- **Vector Database & Real-Time Indexing**: Features vector database integration (e.g., for embeddings) and real-time vector indexing, enabling efficient retrieval-augmented generation and live data updates.
+- **Cloud-native templates** for **Retrieval-Augmented Generation (RAG)**, AI pipelines, and enterprise search with **real-time data synchronization** via Docker containers.
+- **Multi-source integration**: Supports live data feeds from **SharePoint, Google Drive, S3, Kafka, PostgreSQL, APIs**, and other real-time sources.
+- **Technical stack**: Built with **Jupyter Notebooks**, leverages **Hugging Face, OpenAI, vector databases**, and **LLMOps** for secure, scalable LLM applications.
 
 ## Why It Matters
 
@@ -45,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pathwaycom
-- Stars: 59097
+- Stars: 59096
 - Forks: 1431
 - Language: Jupyter Notebook
 - Topics: chatbot, hugging-face, llm, llm-local, llm-prompting, llm-security, llmops, machine-learning, open-ai, pathway, rag, real-time, retrieval-augmented-generation, vector-database, vector-index
-- Last Updated: 2026-07-07T14:54:15Z
+- Last Updated: 2026-07-07T18:48:28Z
 - License: MIT
 - Archived: No
 - Created At: 2023-07-19T08:43:37Z
@@ -71,4 +67,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/pathwaycom/llm-app?source=post_page-----dba899ae0355---------------------------------------
+Original source: https://github.com/pathwaycom/llm-app

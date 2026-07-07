@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-07-07T23:00:36.923184+05:30'
+collected_at: '2026-07-08T01:47:43.749110+05:30'
 published_at: '2026-07-07T16:48:01Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - rag
 - unknown
 stars: 446
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-07-07T23:00:36.923184+05:30'
-last_seen: '2026-07-07T23:00:36.923184+05:30'
-last_checked: '2026-07-07T23:00:36.923184+05:30'
+first_seen: '2026-07-08T01:47:43.749110+05:30'
+last_seen: '2026-07-08T01:47:43.749110+05:30'
+last_checked: '2026-07-08T01:47:43.749110+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on company internal documents, enabling standardized assessment of enterprise RAG performance.
-- **Features**: Includes synthetic data generation, semantic search, and evaluation tools for LLM-based QA, with support for Python and enterprise-specific use cases.
-- **Scope**: Covers 18 topics (e.g., information retrieval, knowledge base, LLM evaluation) and tracks metrics for retrieval quality, generative accuracy, and end-to-end RAG pipeline efficiency.
+- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, enabling standardized assessment of LLM performance in real-world enterprise contexts.
+
+- **Key Features**: Includes synthetic and real-world enterprise data, with tools for semantic search, question-answering, and RAG evaluation, supporting Python-based implementations for large language models (LLMs).
+
+- **Scope**: Covers enterprise search, knowledge base integration, and LLM evaluation metrics, facilitating comparison of retrieval and generative AI techniques in proprietary document environments.
 
 ## Why It Matters
 

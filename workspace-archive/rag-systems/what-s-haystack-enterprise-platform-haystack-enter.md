@@ -8,7 +8,7 @@ local_vault_path: ai/rag/what-s-haystack-enterprise-platform-haystack-enter.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation
@@ -27,18 +27,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Data Ingestion & Indexing**: Supports multi-format document processing (PDFs, Office, images) via built-in converters/OCR, with automated chunking and storage in optimized document stores for retrieval.
+- **Data Processing Pipeline**: Supports automated ingestion, OCR, and preprocessing of diverse file formats (PDFs, Office docs, images) via built-in converters/preprocessors, with chunking and storage in a document index for retrieval-optimized pipelines.
 
-- **Modular AI Pipeline Construction**: Enables drag-and-drop assembly of RAG/agent pipelines (retrievers, rankers, generators) with model-agnostic LLM/embedding provider integration and real-time component swapping.
-
-- **Production-Grade Tooling**: Offers REST API-driven lifecycle managemen
+- **Modular AI Agent & RAG Framework**: Enables construction of multi-component pipelines (retrievers, rankers, generators) for enterprise-grade agents and RAG systems, with visual Pipeline Builder for component/model swapping and iterative o
 
 ## Use Cases
 

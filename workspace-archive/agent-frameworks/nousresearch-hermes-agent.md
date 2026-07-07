@@ -8,17 +8,19 @@ local_vault_path: ai/agents/nousresearch-hermes-agent.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: api
 importance: medium
 tags:
 - agents
 - anthropic
 - github-repo
+- meta-ai
+- mistral
+- models
 - openai
 - python
-- workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # NousResearch/hermes-agent
@@ -27,15 +29,17 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: api
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Supports integration with OpenAI, Anthropic, and other major LLM providers (e.g., ChatGPT, Claude, Codex) via modular API connectors.
-- **Dynamic Agent Framework**: Implements a self-extending architecture for autonomous task decomposition, tool usage (e.g., `claude-code`, `moltbot`), and adaptive learning loops.
-- **Scalable Toolchain**: Includes `hermes-agent` core with extensible plugins for code execution, file I/O, and API interactions, optimized for high-thro
+- **Multi-Provider LLM Integration**: Hermes-Agent supports multiple LLM providers (Anthropic, OpenAI, Mistral, etc.) with configurable API keys, enabling seamless switching between models like Claude, GPT-4, and Llama for dynamic agent behavior.
+
+- **Modular Tooling & Extensibility**: Built with a plugin-based architecture (e.g., `clawdbot`, `moltbot`) for code execution, file operations, and web browsing, allowing custom tool integration via Python functions or external APIs.
+
+- **Stateful Mem
 
 ## Use Cases
 

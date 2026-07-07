@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic LLM Security Toolkit**: Python-based framework for evaluating LLM vulnerabilities, including jailbreak detection, prompt testing, and red teaming capabilities.
-- **Multi-Faceted Fuzzing & Scanning**: Integrates LLM fuzzing, vulnerability scanning, and evaluation frameworks to assess agent security and guardrail robustness.
-- **Open-Source & Extensible**: Supports 14+ security-focused topics (e.g., `llm-jailbreaks`, `llm-guardrails`) with active development (last updated July 2026).
+- **Agentic LLM Vulnerability Scanner**: Python-based framework for red teaming and evaluating LLM security, supporting jailbreak detection, prompt testing, and vulnerability scanning.
+- **Multi-Faceted Testing**: Integrates LLM fuzzing, guardrails evaluation, and vulnerability aggregation for comprehensive security assessment.
+- **Open-Source Toolkit**: Designed for agent frameworks with modular components for extensibility and automated LLM security testing.
 
 ## Use Cases
 

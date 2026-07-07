@@ -7,7 +7,7 @@ source_url: https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginne
 resource_id: blog:rag-techniques-beginner-to-advanced-practical-patt
 local_vault_path: ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -32,7 +32,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -40,7 +40,11 @@ selection_reason:
 
 ## Summary
 
-*   RAG pipelines leverage a spectrum of retrieval techniques, from foundational dense (embeddings + vector search
+- **Minimal RAG Pipeline**: Uses `sentence-transformers` for embeddings, FAISS for vector search, and `transformers` (e.g., Flan-T5) for generation; supports dense retrieval with optional sparse (BM25) via `rank-bm25`.
+
+- **Core RAG Components**: Retriever (dense/sparse), generator (LLM), embeddings (e.g., `all-MiniLM-L6-v2`), chunking (400–1000 tokens with overlap), reranking (e.g., `monoT5`), and hybrid retrieval (sparse + dense).
+
+- **Advanced Techniques**: Multi-hop retrieval, GraphRAG (know
 
 ## Use Cases
 

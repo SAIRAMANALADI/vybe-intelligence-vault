@@ -2,16 +2,16 @@
 title: Medium Rules | by Medium | Medium Policy
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://policy.medium.com/medium-rules-30e5502c4eb4?source=
+source_url: https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page
 resource_id: blog:medium-rules-by-medium-medium-policy
 local_vault_path: ai/rag/medium-rules-by-medium-medium-policy.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Medium Rules | by Medium | Medium Policy
@@ -20,15 +20,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Prohibited Content**: Medium enforces strict rules against threats of violence, hate speech, harassment, doxxing, non-consensual intimate content, self-harm promotion, spam, and copyright/trademark infringement, with account restrictions or suspensions for violations.
-
-- **Platform Misuse**: Spam, duplicate content, artificial engagement (e.g., bulk follows/claps via bots), deceptive conduct (e.g., phishing, impersonation), and unauthorized third-party promotions are banned to maintain platf
+- **Content Moderation Framework**: Medium enforces rules against threats, hate speech, harassment, doxxing, and exploitation (minors/self-harm) based on context, severity, and legal considerations, with account suspensions for violations.
+- **Prohibited Activities**: Bans spam, duplicate content, artificial engagement (e.g., paid follows/claps), copyright infringement, deceptive conduct, and restricted categories (e.g., gambling, pseudoscience, illegal hacking).
+- **Data Privacy & Monetization*
 
 ## Use Cases
 
@@ -38,7 +38,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://policy.medium.com/medium-rules-30e5502c4eb4?source=
+Original source URL: https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page
 
 ## Local Vault File
 

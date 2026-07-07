@@ -15,6 +15,7 @@ tags:
 - go
 - hackernews
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid Vector & Object Storage**: Weaviate combines structured data storage with vector embeddings, enabling both exact and approximate nearest-neighbor (ANN) search (HNSW-based) alongside traditional filtering.
+- **Hybrid Architecture**: Combines object storage with vector embeddings, enabling vector search alongside structured filtering, leveraging HNSW for approximate nearest neighbor (ANN) search and gRPC for efficient communication.
 
-- **Cloud-Native & Scalable Architecture**: Built in Go with gRPC support, it offers fault tolerance, horizontal scalability, and integrates with MLOps pipelines for generative, semantic, and hybrid search applications.
+- **Cloud-Native Scalability**: Designed for fault tolerance and horizontal scalability, supporting MLOps workflows, hybrid search (vector + keyword), and semantic/neural search applications.
 
-- **Multi-Modal & Use Case Support**: Supports image, text, an
+- **Multi-Modal & Generative Integration**: Supports image search, recommend
 
 ## Use Cases
 

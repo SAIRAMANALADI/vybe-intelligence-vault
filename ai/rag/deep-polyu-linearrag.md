@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-07T23:01:01.906631+05:30'
+collected_at: '2026-07-08T01:48:08.792890+05:30'
 published_at: '2026-07-07T14:03:19Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-07T23:01:01.906631+05:30'
-last_seen: '2026-07-07T23:01:01.906631+05:30'
-last_checked: '2026-07-07T23:01:01.906631+05:30'
+first_seen: '2026-07-08T01:48:08.792890+05:30'
+last_seen: '2026-07-08T01:48:08.792890+05:30'
+last_checked: '2026-07-08T01:48:08.792890+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel linear graph-based RAG framework for large-scale corpora, optimizing retrieval efficiency via linear graph traversal while maintaining contextual relevance for LLMs.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a novel RAG framework leveraging linear graph structures to enhance retrieval efficiency and scalability for large-scale corpora, optimizing LLM performance via structured graph traversal.
 
-- **Key Innovation**: Replaces traditional hierarchical or dense retrieval with a linear graph structure, enabling O(1) retrieval complexity per node and scalable augmentation for LLMs without exponential graph traversal overhead.
+- **ICLR 2026 Contribution**: Introduces a linear-time graph-based retrieval mechanism, reducing computational overhead while maintaining high retrieval accuracy, outperforming traditional dense retrieval methods in large-scale settings.
 
-- **Performance**: Achieves state-of-the-art results on ICLR 2026 benchmarks, demonstrating superior scalability (tested on 100M+ corpus scale) and retrieval accuracy compared to hierarchical or vector-based RAG methods.
+- **Implementation**: Python-based repository with modular design for graph construction, retrieval, and integration with LLMs, supporting dynamic updates and parallel processing for scalability.
 
 ## Why It Matters
 

@@ -2,7 +2,7 @@
 title: Configure imaging
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://gohugo.io/configuration/imaging/#avif
+source_url: https://gohugo.io/configuration/imaging/#avif-images
 resource_id: blog:configure-imaging
 local_vault_path: ai/rag/configure-imaging.md
 quality_score: 70
@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Image Processing Configuration**: Hugo's imaging settings support AVIF, JPEG, and WebP formats with configurable `quality`, `compression`, and `hint` (e.g., `photo`, `drawing`) for optimal encoding; deprecated global `compression`, `hint`, and `quality` settings now require format-specific overrides.
+- **Image Processing Defaults**: Default settings include `anchor: smart`, `resampleFilter: box`, `bgColor: #ffffff`, with format-specific defaults (e.g., AVIF `quality: 60`, JPEG `quality: 75`, WebP `quality: 75`, `method: 2`).
 
-- **Resampling & Focal Point Control**: Default `resampleFilter` is `box`, with alternatives like `lanczos` or `catmullRom` for quality/speed trade-offs; `anchor` supports `smart` (via `muesli/
+- **Format-Specific Configurations**:
+  - **AVIF**: Supports `lossy`/`lossless` compression, `encoderSpeed: 1-10`, `hint: photo/drawing/icon/text`, and `quality: 1-100`.
+  - **WebP**: Configurable via `compression`, `hint`, `method: 0-6`, `quality: 1-100`, and `useSharp
 
 ## Use Cases
 
@@ -45,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://gohugo.io/configuration/imaging/#avif
+Original source URL: https://gohugo.io/configuration/imaging/#avif-images
 
 ## Local Vault File
 

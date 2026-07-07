@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Ed1s0nZ/CyberStrikeAI
-collected_at: '2026-07-07T23:02:21.981445+05:30'
+collected_at: '2026-07-08T01:49:28.836065+05:30'
 published_at: '2026-07-07T16:27:35Z'
 tags:
 - agents
 - github-repo
 - go
+- hackernews
 - workflows
 stars: 5011
 language: Go
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-11-08T10:41:23Z'
 pushed_at: '2026-07-07T10:24:31Z'
 resource_id: github:ed1s0nz/cyberstrikeai
-first_seen: '2026-07-07T23:02:21.981445+05:30'
-last_seen: '2026-07-07T23:02:21.981445+05:30'
-last_checked: '2026-07-07T23:02:21.981445+05:30'
+first_seen: '2026-07-08T01:49:28.836065+05:30'
+last_seen: '2026-07-08T01:49:28.836065+05:30'
+last_checked: '2026-07-08T01:49:28.836065+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Execution Layer**: Implements AI-driven cybersecurity agents that convert security intent into governed, auditable actions using MCP-native tools, knowledge bases, and approval workflows.
+- **Agentic Execution Layer**: Implements AI-driven cybersecurity agents that convert security intent into governed, auditable actions via MCP-native tools, contextual attack-chain awareness, and multi-layered approvals.
 
-- **Attack-Chain Context Integration**: Provides real-time attack-chain awareness to enable precise, context-aware security operations (e.g., penetration testing, CTF challenges) with automated decision-making.
+- **Technical Stack**: Built in Go, integrates AI agents, penetration testing tools, and CTF utilities, with modular design for extensibility and real-time security operations.
 
-- **Go-Based Architecture**: Built in Go for high-performance execution, modular tooling, and seamless integration with AI security workflows, supporting AI cybersecurity, hacking, and penetration testing use cases.
+- **Governance & Compliance**: Enforces audit trails, approval workflows, and policy-driven execution to ensure precise, traceable, and secure AI-mediated cybersecurity actions.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-07T23:00:41.829477+05:30'
+collected_at: '2026-07-08T01:47:48.709136+05:30'
 published_at: '2026-07-05T07:03:45Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-07T23:00:41.829477+05:30'
-last_seen: '2026-07-07T23:00:41.829477+05:30'
-last_checked: '2026-07-07T23:00:41.829477+05:30'
+first_seen: '2026-07-08T01:47:48.709136+05:30'
+last_seen: '2026-07-08T01:47:48.709136+05:30'
+last_checked: '2026-07-08T01:47:48.709136+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate incorrect or harmful outputs while maintaining high retrieval relevance scores.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting adversarial documents into the retrieval corpus, causing LLMs to generate manipulated outputs while maintaining high retrieval relevance.
 
-- **Technical Mechanism**: Details a two-phase attack—*document poisoning* (embedding adversarial content in retrieved passages) and *response manipulation* (exploiting RAG’s reliance on retrieved context to bias LLM outputs toward attacker-desired answers).
+- **Technical Mechanism**: Leverages *trigger-based poisoning* where adversarial documents are crafted to contain subtle, context-aware perturbations (e.g., synonym substitutions, syntactic variations) that evade detection while altering the model’s factual recall during inference.
 
-- **Evaluation & Impact**: Demonstrates effectiveness across multiple RAG pipelines (e.g., dense retrieval + LLMs) with minimal perturbation (≤1% poisoned documents), achieving >90% attack success rate while evading detection via semantic similarity obfuscation.
+- **Evaluation & Impact**: Demonstrates effectiveness across multiple RAG architectures (e.g., dense retrieval + LLMs) with attack success rates up to **92%** in controlled settings, highlighting vulnerabilities in current trustworthiness mechanisms and proposing preliminary defense strategies (e.g., adversarial training, retrieval sanitization).
 
 ## Why It Matters
 

@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-07-07T23:01:16.944585+05:30'
+collected_at: '2026-07-08T01:48:23.811380+05:30'
 published_at: '2026-07-07T08:10:44Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - typescript
-- workflows
 stars: 545
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-07-07T23:01:16.944585+05:30'
-last_seen: '2026-07-07T23:01:16.944585+05:30'
-last_checked: '2026-07-07T23:01:16.944585+05:30'
+first_seen: '2026-07-08T01:48:23.811380+05:30'
+last_seen: '2026-07-08T01:48:23.811380+05:30'
+last_checked: '2026-07-08T01:48:23.811380+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: Repository providing a structured collection of GitHub Copilot custom instructions, prompts, skills, MCPs (Model Context Protocol), and agent markdown files to optimize AI-assisted development workflows.
-- **Technical Scope**: Focuses on `TypeScript`-based agent skills, prompt engineering, and custom Copilot configurations for VS Code integration, including `copilot-instructions`, `copilot-prompting`, and `custom-agents`.
-- **Metadata**: 545 stars, 89 forks, last updated `2026-07-07T08:10:44Z`, covering topics like `agent-skills`, `ai-agents`, and `mcp` for enhanced Copilot Chat functionality.
+- **Curated Resource**: Repository containing GitHub Copilot enhancement files (instructions, prompts, skills, MCPs, and agent markdown) for AI agent development.
+- **Technical Scope**: Focuses on `TypeScript`-based agent skills, prompt engineering, and custom agent integration with GitHub Copilot and VSCode Copilot Chat.
+- **Metadata**: 545 stars, 89 forks, last updated `2026-07-07T08:10:44Z`, covering topics like `agent-skills`, `mcp`, and `prompt-engineering`.
 
 ## Why It Matters
 

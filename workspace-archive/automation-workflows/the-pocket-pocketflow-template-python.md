@@ -12,7 +12,6 @@ resource_kind: template
 importance: medium
 tags:
 - agents
-- benchmark
 - github-repo
 - python
 - workflows
@@ -34,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic Coding Framework**: Python-based template for autonomous AI-driven code generation, debugging, and optimization using agentic workflows.
-- **Modular Architecture**: Pre-configured project structure with extensible components for integrating custom agents, tools, and evaluation pipelines.
-- **2026.07.04 Update**: Latest commit includes optimized agent orchestration, enhanced Python 3.11+ compatibility, and improved dependency management.
+- **Agentic Coding Framework**: Provides a structured template for Python-based agentic coding workflows, enabling autonomous or semi-autonomous code generation, testing, and optimization.
+
+- **Modular Python Architecture**: Implements a scalable project structure with predefined modules for agents, tools, configurations, and workflow orchestration.
+
+- **GitHub Integration**: Supports CI/CD pipelines with automated updates, versioning, and dependency management for Python projects.
 
 ## Use Cases
 

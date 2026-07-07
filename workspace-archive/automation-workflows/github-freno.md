@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by nateb2022. Score: 4, Comments: 0.
+Hacker News story by nateb2022. Score: 26, Comments: 0.
 Original Link: https://github.com/github/freno
 
 ## Use Cases

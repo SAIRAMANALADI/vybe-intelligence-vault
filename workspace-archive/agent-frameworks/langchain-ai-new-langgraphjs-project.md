@@ -14,6 +14,7 @@ tags:
 - agents
 - github-repo
 - typescript
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Project Type**: Empty starter template for LangGraph projects in TypeScript, designed to facilitate rapid development with LangGraph.js.
-- **Metadata**: 73 stars, 88 forks, last updated on 2026-07-03.
-- **Purpose**: Provides a foundational structure for building LangGraph applications using JavaScript/TypeScript.
+- **Project Template**: Empty starter template for LangGraph.js, a JavaScript/TypeScript framework for building stateful, multi-actor workflows with LangChain.
+- **Metadata**: 73 stars, 88 forks, TypeScript-based, last updated July 3, 2026.
+- **Purpose**: Designed as a minimal foundation for LangGraph workflow development with built-in template scaffolding.
 
 ## Use Cases
 

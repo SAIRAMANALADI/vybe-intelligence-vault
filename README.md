@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-47%2C554-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-47%2C733-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--08-374151?style=flat-square)](#)
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 9,682</p>
-        <p><b>Active:</b> 9,458 | <b>Inactive:</b> 224</p>
+        <p><b>Resources tracked:</b> 9,731</p>
+        <p><b>Active:</b> 9,504 | <b>Inactive:</b> 227</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 37,872</p>
+        <p><b>Archive Files:</b> 38,002</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 47,554 files</p>
-        <p><b>Last Update:</b> 2026-07-08 00:31 IST</p>
+        <p><b>Total Vault Size:</b> 47,733 files</p>
+        <p><b>Last Update:</b> 2026-07-08 02:02 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,27 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[Medium](ai/rag/medium.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[RUC-NLPIR/FlashRAG](ai/rag/ruc-nlpir-flashrag.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[pathwaycom/llm-app](ai/rag/pathwaycom-llm-app.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Chat Control 1.0 and 2.0 Explained](ai/community/chat-control-1-0-and-2-0-explained.md)** • <kbd>+213 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Automating AI Away](ai/community/automating-ai-away.md)** • <kbd>+51 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[GitHub Freno: cooperative, highly available throttler service](ai/community/github-freno.md)** • <kbd>+22 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Gemini API | Google AI for Developers](ai/agents/gemini-api-google-ai-for-developers.md)** • Rank: <kbd>+2067</kbd>
+- 🔼 **[OpenTelemetry](ai/agents/opentelemetry.md)** • Rank: <kbd>+4690</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Why skilled workers come to Germany and then leave again](ai/community/why-skilled-workers-come-to-germany-and-then-leave.md)** • Score: `90`
+- 🆕 **[AI Meets Cryptography 1: What AI Found in Cloudflare's Circl](ai/community/ai-meets-cryptography-1-what-ai-found-in-cloudflar.md)** • Score: `32`
+- 🆕 **[Show HN: Davit, a Apple Containers UI](ai/community/show-hn-davit-a-apple-containers-ui.md)** • Score: `25`
+- 🆕 **[Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens](ai/community/kklimuk-docx-cli.md)** • Score: `19`
+- 🆕 **[Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents](ai/community/bkuan001-halo-record.md)** • Score: `7`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[C++ Details of Asymmetric Fences](ai/community/c-details-of-asymmetric-fences.md)**
+- 💤 **[Weighing smoke: why AI visibility dashboards are mostly useless](ai/community/weighing-smoke-why-ai-visibility-dashboards-are-mo.md)**
+- 💤 **[Sites that block AI training crawlers mostly ignore the answer time bots](ai/community/sites-that-block-ai-training-crawlers-mostly-ignor.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

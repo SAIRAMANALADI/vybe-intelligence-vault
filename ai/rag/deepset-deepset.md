@@ -4,19 +4,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/deepset
-published_at: '2026-06-25T16:45:24.302056+05:30'
-collected_at: '2026-06-25T16:45:24.302064+05:30'
+published_at: '2026-07-08T01:51:54.758665+05:30'
+collected_at: '2026-07-08T01:51:54.758677+05:30'
 tags:
 - agents
-- benchmark
+- hackernews
 - rag
 - web-crawled
-- workflows
 status: active
 resource_id: blog:deepset-deepset
-first_seen: '2026-06-25T16:45:24.302064+05:30'
-last_seen: '2026-06-25T16:45:24.302064+05:30'
-last_checked: '2026-06-25T16:45:24.302064+05:30'
+first_seen: '2026-07-08T01:51:54.758677+05:30'
+last_seen: '2026-07-08T01:51:54.758677+05:30'
+last_checked: '2026-07-08T01:51:54.758677+05:30'
 health_score: 100
 ---
 
@@ -24,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **AutoQuizzer** is a Hugging Face Space tool that automates quiz generation using LLMs, enabling interactive Q&A sessions via user or LLM participation.
-- The system leverages a visual interface (as shown in the provided image) to facilitate quiz creation, playback, or automated LLM-driven quiz interaction.
-- Developed by **deepset**, it is designed for seamless integration into workflows requiring dynamic quiz generation or evaluation.
+- **AutoQuizzer**: A Hugging Face Space by deepset that automates quiz generation using LLMs, enabling interactive Q&A sessions or AI-driven gameplay.
+- **Functionality**: Supports three modes—(1) generating quizzes from input, (2) human participation, or (3) LLM-driven gameplay.
+- **Technical Stack**: Leverages Hugging Face Spaces for deployment and integrates LLMs (e.g., 🦙) for dynamic content creation and interaction.
 
 ## Why It Matters
 
@@ -36,15 +35,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:45:24.302056+05:30
+- Published: 2026-07-08T01:51:54.758665+05:30
 
 ## Related Tags
 
 - agents
-- benchmark
+- hackernews
 - rag
 - web-crawled
-- workflows
 
 ## Source
 

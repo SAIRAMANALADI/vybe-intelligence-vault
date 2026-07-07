@@ -40,7 +40,11 @@ selection_reason:
 
 ## Summary
 
-*   RAG pipelines leverage a spectrum of retrieval techniques, from foundational dense (embeddings + vector search
+- **Minimal RAG Pipeline**: Uses `sentence-transformers` for embeddings, FAISS for vector search, and `transformers` (e.g., Flan-T5) for generation; supports dense retrieval with optional sparse (BM25) via `rank-bm25`.
+
+- **Core RAG Components**: Retriever (dense/sparse), generator (LLM), embeddings (e.g., `all-MiniLM-L6-v2`), chunking (400–1000 tokens with overlap), reranking (e.g., `monoT5`), and hybrid retrieval (sparse + dense).
+
+- **Advanced Techniques**: Multi-hop retrieval, GraphRAG (know
 
 ## Use Cases
 

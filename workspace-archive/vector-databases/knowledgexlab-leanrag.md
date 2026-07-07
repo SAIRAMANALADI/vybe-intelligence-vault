@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (local-to-global) and semantic aggregation for improved context relevance in generation tasks.
-
-- **Efficiency Optimizations**: Utilizes lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval accuracy.
-
-- **AAAI 2026 Framework**: Designed for structured knowledge integration, enabling dynamic context fusion for d
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity → subgraph → global context) to enhance semantic relevance in generation tasks.
+- **Efficiency Optimizations**: Leverages lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval quality.
+- **AAAI 2026 Framework**: Designed for structured knowledge integration, enabling dynamic aggregation of heteroge
 
 ## Use Cases
 

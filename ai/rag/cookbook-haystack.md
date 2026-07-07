@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/cookbook
-published_at: '2026-07-07T04:16:09.725343+05:30'
-collected_at: '2026-07-07T04:16:09.725350+05:30'
+published_at: '2026-07-08T01:52:33.759543+05:30'
+collected_at: '2026-07-08T01:52:33.759560+05:30'
 tags:
 - agents
 - anthropic
@@ -19,11 +19,12 @@ tags:
 - reddit
 - scripts
 - web-crawled
+- workflows
 status: active
 resource_id: blog:cookbook-haystack
-first_seen: '2026-07-07T04:16:09.725350+05:30'
-last_seen: '2026-07-07T04:16:09.725350+05:30'
-last_checked: '2026-07-07T04:16:09.725350+05:30'
+first_seen: '2026-07-08T01:52:33.759560+05:30'
+last_seen: '2026-07-08T01:52:33.759560+05:30'
+last_checked: '2026-07-08T01:52:33.759560+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Cookbook** provides 71 technical recipes demonstrating integration of model providers, vector databases, retrieval techniques, and custom components (e.g., agents, RAG, multimodal pipelines) with Haystack.
-- **Key recipe categories** include advanced retrieval, agents (MCP, function calling), multimodal processing, model serving (vLLM, NVIDIA NIMs), and observability/evaluation (Arize Phoenix, RAGAS).
-- **Experimental and production-ready examples** cover domain-specific use cases like legal document analysis, multilingual RAG, SQL database interaction, and web QA with tools like Apify and Bright Data.
+- **Haystack Cookbook**: Repository of 71 technical recipes demonstrating Haystack's integration with model providers, vector databases, retrieval techniques, and advanced features like agents, multimodal RAG, and async pipelines.
+
+- **Key Recipes**: Includes agentic itinerary planning with OpenStreetMap, hybrid RAG with breakpoints, vLLM inference engine integration, and multimodal agent workflows with fastRAG.
+
+- **Advanced Topics**: Covers experimental features (e.g., Mem0 memory store), guardrails for safety moderation, metadata enrichment, and evaluations using tools like Arize Phoenix and DeepEval.
 
 ## Why It Matters
 
@@ -43,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T04:16:09.725343+05:30
+- Published: 2026-07-08T01:52:33.759543+05:30
 
 ## Related Tags
 
@@ -59,6 +62,7 @@ General public resource representing technology updates, guides, or tutorials.
 - reddit
 - scripts
 - web-crawled
+- workflows
 
 ## Source
 

@@ -16,7 +16,6 @@ tags:
 - hackernews
 - rag
 - typescript
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -33,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Offensive Security Framework**: TypeScript-based autonomous red teaming platform enabling coordinated multi-agent offensive operations with AI-driven attack orchestration.
-
-- **Dynamic Attack Meta-Harness**: Integrates modular offensive-security tools and techniques, allowing adaptive red team simulations with real-time agent collaboration and decision-making.
-
-- **Autonomous Red Teaming Engine**: Executes autonomous penetration testing workflows, leveraging AI agents to simulate
+- **Multi-Agent Offensive Security Framework**: Autonomous red teaming platform leveraging TypeScript-based multi-agent architecture for coordinated offensive security operations.
+- **AI-Driven Attack Simulation**: Integrates AI agents to dynamically emulate adversarial tactics, techniques, and procedures (TTPs) for continuous security validation.
+- **Extensible Meta-Harness**: Modular design enables integration with custom tools, APIs, and security frameworks for scalable, automated penetration
 
 ## Use Cases
 

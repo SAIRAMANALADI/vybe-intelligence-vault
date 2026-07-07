@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91
-published_at: '2026-07-07T22:59:22.679290+05:30'
-collected_at: '2026-07-07T22:59:22.679304+05:30'
+published_at: '2026-07-08T01:46:29.447539+05:30'
+collected_at: '2026-07-08T01:46:29.447560+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:top-10-rag-frameworks-on-github-by-stars-january-2
-first_seen: '2026-07-07T22:59:22.679304+05:30'
-last_seen: '2026-07-07T22:59:22.679304+05:30'
-last_checked: '2026-07-07T22:59:22.679304+05:30'
+first_seen: '2026-07-08T01:46:29.447560+05:30'
+last_seen: '2026-07-08T01:46:29.447560+05:30'
+last_checked: '2026-07-08T01:46:29.447560+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain** (⭐125K): Python/TypeScript framework with 700+ integrations, modular chains, and LangGraph for agentic workflows; ideal for complex RAG pipelines.
-- **Dify** (⭐114K+): Visual drag-and-drop RAG platform with multi-model support and one-click deployment; targets rapid prototyping for non-developers.
-- **RAGFlow** (⭐70K): Python-based framework specializing in deep document parsing (tables, images, PDFs) with grounded citations for enterprise-grade accuracy.
+- **LangChain**: 125K GitHub stars; Python/TypeScript-based, modular chain architecture with 700+ integrations (LLMs, vector stores, tools), LangGraph for agentic workflows, and LangSmith for observability; best for complex, multi-step RAG pipelines requiring flexibility.
+
+- **RAGFlow**: 70K stars; Python framework focused on deep document understanding with advanced parsing (tables, images, scanned PDFs), template-based chunking, grounded citations, and memory management; optimized for enterprise-grade RAG with complex document processing.
+
+- **Pathway**: 50K+ stars; Python (Rust runtime) framework emphasizing real-time data processing with 350+ data source connectors, incremental updates, and unified ETL+RAG; ideal for applications requiring live data synchronization and low-latency processing.
 
 ## Why It Matters
 
@@ -44,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T22:59:22.679290+05:30
+- Published: 2026-07-08T01:46:29.447539+05:30
 
 ## Related Tags
 

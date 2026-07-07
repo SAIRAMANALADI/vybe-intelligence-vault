@@ -2,18 +2,17 @@
 title: LangChain overview - Docs by LangChain
 archive_category: observability
 source_category: ai/rag
-source_url: https://python.langchain.com/api
+source_url: https://python.langchain.com
 resource_id: blog:langchain-overview-docs-by-langchain
 local_vault_path: ai/rag/langchain-overview-docs-by-langchain.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: prompt
 importance: medium
 tags:
 - agents
 - anthropic
-- benchmark
 - meta-ai
 - models
 - openai
@@ -30,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -38,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Agent Composition**: LangChain's `create_agent` provides a minimal, configurable harness for composing agents from model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
+- **Agent Composition**: `create_agent` provides a minimal, configurable harness combining model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
 
-- **Modular Architecture**: Agents are built on LangGraph, enabling durable execution, human-in-the-loop support, persistence, and observability via LangSmith for tracing, debugging, and evaluation.
+- **Modular Architecture**: LangChain agents are built on LangGraph, enabling durable execution, human-in-the-loop support, and persistence, while `create_agent` allows incremental capability addition via middleware.
 
-- **Standardized Interface**: Offers a unified model interface (chat, embeddings) acr
+- **Observability & Debugging**: LangSmith integrates for tracing, debugging, and evaluating ag
 
 ## Use Cases
 
@@ -52,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://python.langchain.com/api
+Original source URL: https://python.langchain.com
 
 ## Local Vault File
 

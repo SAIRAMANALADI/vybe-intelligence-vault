@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/kyrolabs/awesome-agents
-collected_at: '2026-07-07T23:02:01.941752+05:30'
-published_at: '2026-07-07T14:55:03Z'
+collected_at: '2026-07-08T01:49:08.821508+05:30'
+published_at: '2026-07-07T18:59:30Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - paper
 - rag
+- scripts
 - unknown
 stars: 2573
 language: Unknown
@@ -19,9 +21,9 @@ archived: false
 created_at: '2023-07-02T11:12:36Z'
 pushed_at: '2026-07-07T03:46:14Z'
 resource_id: github:kyrolabs/awesome-agents
-first_seen: '2026-07-07T23:02:01.941752+05:30'
-last_seen: '2026-07-07T23:02:01.941752+05:30'
-last_checked: '2026-07-07T23:02:01.941752+05:30'
+first_seen: '2026-07-08T01:49:08.821508+05:30'
+last_seen: '2026-07-08T01:49:08.821508+05:30'
+last_checked: '2026-07-08T01:49:08.821508+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated AI Agent Resources**: A comprehensive, community-driven repository aggregating tools, frameworks, libraries, and research papers focused on AI agents, including autonomous systems, multi-agent systems, and agent-based modeling.
-
-- **Multi-Topic Coverage**: Encompasses diverse subdomains such as reinforcement learning agents, LLM-powered agents, swarm intelligence, and agent communication protocols, with links to papers, tutorials, and open-source implementations.
-
-- **Active Maintenance & Growth**: Regularly updated (last commit: July 2026) with 2,573 stars and 672 forks, indicating strong community engagement and continuous contributions from researchers and developers.
+- **Curated Collection**: A structured, community-driven repository of AI agent frameworks, tools, and resources, including libraries, APIs, and research papers.
+- **Multi-Domain Coverage**: Encompasses agents for automation, conversational AI, autonomous systems, and multi-agent collaboration, with links to open-source projects and commercial solutions.
+- **Regularly Updated**: Maintained with recent developments, ensuring inclusion of cutting-edge techniques like LLM-based agents, reinforcement learning, and tool-use optimization.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 672
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-07T14:55:03Z
+- Last Updated: 2026-07-07T18:59:30Z
 - Archived: No
 - Created At: 2023-07-02T11:12:36Z
 - Pushed At: 2026-07-07T03:46:14Z

@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Open, modular architecture**: Haystack provides a transparent, auditable open-source foundation with no proprietary abstractions, enabling full ownership and extensibility of agent primitives (tools, memory, retrievers, pipelines) without vendor lock-in.
+- **Open-source modularity**: Haystack provides transparent, auditable agent primitives (tools, memory, retrievers) with no proprietary lock-in, enabling full customization and extensibility via open standards.
 
-- **Sovereign deployment & governance**: Supports infrastructure-agnostic deployment (cloud/self-hosted) with built-in audit logs, RBAC, and data lineage, ensuring compliance and full control over data, models, and deployment footprints.
+- **Sovereign deployment**: Supports self-hosted or cloud deployments with built-in audit logs, RBAC, and data lineage, ensuring full control over infrastructure, data, and compliance posture.
 
--
+- **Context-engineered agents**: Explicit, inspectable agent behavior with customizable reason
 
 ## Use Cases
 

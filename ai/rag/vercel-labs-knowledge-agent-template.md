@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/knowledge-agent-template
-collected_at: '2026-07-07T23:02:31.935897+05:30'
-published_at: '2026-07-07T16:52:13Z'
+collected_at: '2026-07-08T01:49:38.914877+05:30'
+published_at: '2026-07-07T19:11:39Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-stars: 926
+stars: 927
 language: TypeScript
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-20T15:02:20Z'
 pushed_at: '2026-06-11T09:36:03Z'
 resource_id: github:vercel-labs/knowledge-agent-template
-first_seen: '2026-07-07T23:02:31.935897+05:30'
-last_seen: '2026-07-07T23:02:31.935897+05:30'
-last_checked: '2026-07-07T23:02:31.935897+05:30'
+first_seen: '2026-07-08T01:49:38.914877+05:30'
+last_seen: '2026-07-08T01:49:38.914877+05:30'
+last_checked: '2026-07-08T01:49:38.914877+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source template for building AI agents that dynamically sync with a file-system-based knowledge base, enabling real-time updates and contextual retrieval.
+- **File-System & Knowledge-Based Agent Template**: Open-source TypeScript framework for building AI agents that dynamically sync with a user-defined knowledge base, enabling real-time updates and contextual responses.
 
-- **Tech Stack**: Built with **TypeScript**, **Nuxt**, and **Vue**, leveraging a sandboxed environment for secure agent execution.
+- **Nuxt/Vue Integration**: Leverages Nuxt.js and Vue.js for frontend scaffolding, with a sandboxed environment for secure agent execution and file-system interactions.
 
-- **Features**: Supports **file-system integration**, **knowledge base indexing**, and **agent-based chatbot** interactions, optimized for Vercel deployments.
+- **Vercel-Optimized**: Designed for Vercel deployments, featuring built-in agent orchestration, modular knowledge ingestion, and support for structured/unstructured data processing.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 926
+- Stars: 927
 - Forks: 123
 - Language: TypeScript
 - Topics: agents, ai-agent, chatbot, file-system, knowledge-base, nuxt, sandbox, typescript, vue
-- Last Updated: 2026-07-07T16:52:13Z
+- Last Updated: 2026-07-07T19:11:39Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-20T15:02:20Z

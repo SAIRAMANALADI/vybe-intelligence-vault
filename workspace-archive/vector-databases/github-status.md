@@ -34,12 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page** provides real-time operational status for GitHub services, including uptime metrics (e.g., 99.99% for Git Operations over 90 days) and incident tracking across regions (US, EU, Australia, Japan).
-
-- **Incident Notifications** support multiple channels: email (for incident updates/resolutions), SMS (country-specific), Slack (via subscription), and webhooks (for programmatic alerts on incident changes).
-
-- **Recent Incidents**:
-  - **Actions/Codespaces APIs** (July 7, 2026
+- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with historical uptime metrics (e.g., 99.99% for Git Operations over 90 days) and incident tracking.
+- **Notification Systems**: Supports multi-channel incident notifications via email, SMS (global phone number list), Slack, and webhooks for automated incident updates.
+- **Past Incidents**: Recent disruptions include Actions/Codespaces API failures (July 7, 2026, 500
 
 ## Use Cases
 

@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a structured workspace template for deploying persistent, autonomous AI agents capable of building, learning, socializing, and task assistance via `gptme`.
-- **Technical Stack**: Primarily shell-based, facilitating agent orchestration and environment configuration for autonomous operation.
-- **Metadata**: 49 stars, 27 forks, last updated July 2, 2026.
+- **Purpose**: Provides a structured workspace template for deploying persistent, autonomous agents capable of tasks like building, learning, socializing, and user assistance using the `gptme` framework.
+- **Technical Stack**: Primarily implemented in **Shell**, facilitating agent orchestration and environment configuration.
+- **Metadata**: Maintained under the `gptme` organization, last updated on **2026-07-02**, with **49 stars** and **27 forks**.
 
 ## Use Cases
 

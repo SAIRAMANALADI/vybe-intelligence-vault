@@ -3,9 +3,9 @@ title: Gemini API | Google AI for Developers
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://ai.google.dev/gemini-api/docs
-published_at: '2026-06-25T16:44:28.842455+05:30'
-collected_at: '2026-06-25T16:44:28.842465+05:30'
+source_url: https://ai.google.dev/gemini-api
+published_at: '2026-07-08T02:00:18.942915+05:30'
+collected_at: '2026-07-08T02:00:18.942929+05:30'
 tags:
 - agents
 - web-crawled
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:gemini-api-google-ai-for-developers
-first_seen: '2026-06-25T16:44:28.842465+05:30'
-last_seen: '2026-06-25T16:44:28.842465+05:30'
-last_checked: '2026-06-25T16:44:28.842465+05:30'
+first_seen: '2026-07-08T02:00:18.942929+05:30'
+last_seen: '2026-07-08T02:00:18.942929+05:30'
+last_checked: '2026-07-08T02:00:18.942929+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactions API** is Google's recommended API for agentic workflows, state management, and latest models (e.g., `gemini-3.5-flash`), replacing legacy endpoints for new projects.
+- **Interactions API** is now the recommended interface for agentic workflows, state management, and latest models (e.g., `gemini-3.5-flash`), replacing legacy endpoints with optimized performance and multimodal support.
 
-- Supports **multi-modal generation** (text, images via Nano Banana, video via Veo 3.1) and **structured outputs** (JSON), with Python/JS/REST SDKs for seamless integration.
+- **Model Suite** includes `Gemini 3.1 Pro` (multimodal reasoning), `Gemini 3.5 Flash` (cost-efficient frontier-class), `Nano Banana 2/Pro` (image generation/editing), `Veo 3.1` (native audio video generation), and `Gemini Robotics` (VLM for physical-world agentic tasks).
 
-- Offers **advanced capabilities** like long-context processing (millions of tokens), function calling for tool integration, and real-time voice agents via Live API.
+- **Key Capabilities**: Structured JSON outputs, long-context (millions of tokens), function calling for tool integration, document processing (1000+ pages), real-time voice agents, and built-in tools (e.g., Google Search, Code Execution).
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-25T16:44:28.842455+05:30
+- Published: 2026-07-08T02:00:18.942915+05:30
 
 ## Related Tags
 
@@ -48,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://ai.google.dev/gemini-api/docs
+Original source: https://ai.google.dev/gemini-api

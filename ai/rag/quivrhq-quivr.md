@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-07-07T23:00:41.861534+05:30'
+collected_at: '2026-07-08T01:47:48.756319+05:30'
 published_at: '2026-07-07T17:18:58Z'
 tags:
 - frontend_ui
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-07-07T23:00:41.861534+05:30'
-last_seen: '2026-07-07T23:00:41.861534+05:30'
-last_checked: '2026-07-07T23:00:41.861534+05:30'
+first_seen: '2026-07-08T01:47:48.756319+05:30'
+last_seen: '2026-07-08T01:47:48.756319+05:30'
+last_checked: '2026-07-08T01:47:48.756319+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while offering customization for diverse use cases.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for any LLM (e.g., GPT4, Groq, Llama) and vector store (e.g., PGVector, Faiss).
 
-- **Multi-LLM & Vector Store Support**: Compatible with any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across different AI models and storage backends.
+- **Multi-Format & Multi-Store Support**: Enables integration with any file type and storage backend while providing flexibility in deployment (Docker, PostgreSQL) and security (privacy-focused).
 
-- **Full-Stack Integration**: Provides a Python-based backend with Docker support, React frontend, and TypeScript/JavaScript compatibility, facilitating easy integration into existing products with robust API, security, and privacy features.
+- **Tech Stack**: Built in Python with a React/TypeScript frontend, offering RESTful API support, and compatibility with OpenAI/Groq LLMs, HTML/JavaScript clients, and vector databases like PGVector.
 
 ## Why It Matters
 

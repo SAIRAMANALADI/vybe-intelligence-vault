@@ -36,7 +36,7 @@ selection_reason:
 
 - **Repository**: `ritik-prog/n8n-automation-templates-5000` contains **5,000+ production-ready n8n workflow templates** spanning AI, CRM, finance, e-commerce, marketing, and RAG automation.
 - **Metadata**: 422 stars, 168 forks, last updated **2026-07-07T13:09:51Z**, language unspecified, no topics listed.
-- **Access**: Free and open-source repository for real-world automation workflows.
+- **License**: Open-source, free-to-use templates for workflow automation.
 
 ## Use Cases
 

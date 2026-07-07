@@ -18,42 +18,32 @@ Generative UI (like Vercel AI SDK) enables applications to dynamically render Re
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 7 resources matched in the intelligence vault.
+Active signals: 5 resources matched in the intelligence vault.
 Recently detected signals:
-- [vercel/ai](../ai/agents/vercel-ai.md) (Source: Unknown Source) - Collected 2026-07-07
-- [Azure-Samples/azure-openai-rag-workshop-template](../ai/rag/azure-samples-azure-openai-rag-workshop-template.md) (Source: Unknown Source) - Collected 2026-07-07
-- [vercel-labs/ai-sdk-preview-rag](../ai/rag/vercel-labs-ai-sdk-preview-rag.md) (Source: Unknown Source) - Collected 2026-07-07
-- [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) (Source: Unknown Source) - Collected 2026-07-07
+- [vercel/ai](../ai/agents/vercel-ai.md) (Source: Unknown Source) - Collected 2026-07-08
+- [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) (Source: Unknown Source) - Collected 2026-07-08
 - [Langfuse](../ai/rag/langfuse.md) (Source: Unknown Source) - Collected 2026-07-07
+- [AI SDK Integration | OpenAI Agents SDK](../ai/agents/ai-sdk-integration-openai-agents-sdk.md) (Source: Unknown Source) - Collected 2026-06-22
+- [mkrl/e0](../ai/agents/mkrl-e0.md) (Source: Unknown Source) - Collected 2026-06-15
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
 
 <!-- GENERATED:BEST_REPOS_START -->
-### 1. [Azure-Samples/azure-openai-rag-workshop-template](../ai/rag/azure-samples-azure-openai-rag-workshop-template.md) ([GitHub](https://github.com/azure-samples/azure-openai-rag-workshop-template))
+### 1. [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) ([GitHub](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial))
 - Stars: 0
 - Language: Unknown
-- Description: - **Purpose**: Provides a TypeScript-based template for building a Retrieval-Augmented Generation (RAG) chat application using Azure OpenAI services.
+- Description: - **Intermediate LlamaIndex Events Streaming**: Demonstrates real-time streaming of intermediate events from LlamaIndex during RAG (Retrieval-Augmented Generation) to the Vercel AI SDK using Server...
 
-### 2. [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) ([GitHub](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial))
-- Stars: 0
-- Language: Unknown
-- Description: - **Intermediate Event Streaming**: Demonstrates how to stream intermediate LlamaIndex RAG events (e.g., node parsing, embedding generation) via Server-Sent Events (SSE) to the Vercel AI SDK.
-
-### 3. [vercel-labs/ai-sdk-preview-rag](../ai/rag/vercel-labs-ai-sdk-preview-rag.md) ([GitHub](https://github.com/vercel-labs/ai-sdk-preview-rag))
-- Stars: 0
-- Language: Unknown
-- Description: - **Framework**: Next.js-based RAG template leveraging the Vercel AI SDK for structured LLM interactions.
-
-### 4. [mkrl/e0](../ai/agents/mkrl-e0.md) ([GitHub](https://github.com/mkrl/e0))
+### 2. [mkrl/e0](../ai/agents/mkrl-e0.md) ([GitHub](https://github.com/mkrl/e0))
 - Stars: 0
 - Language: Unknown
 - Description: A simple Next.js app template for agentic generation of more apps. Powered by Vercel AI SDK and E2B.
 
-### 5. [vercel/ai](../ai/agents/vercel-ai.md) ([GitHub](https://github.com/vercel/ai))
+### 3. [vercel/ai](../ai/agents/vercel-ai.md) ([GitHub](https://github.com/vercel/ai))
 - Stars: 0
 - Language: Unknown
-- Description: - **AI SDK**: Open-source TypeScript library by Vercel for building AI-powered applications and agents, supporting models like OpenAI, Anthropic, and Gemini.
+- Description: - **AI SDK**: Open-source TypeScript library by Vercel for building AI-powered apps and agents, supporting LLMs (OpenAI, Anthropic, Gemini), React, Next.js, Svelte, and Vue.
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -75,4 +65,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-07T23:14:18.259812+05:30.664660+05:30.823287+05:30.855501+05:30.718697+05:30.650990+05:30.662181+05:30.412687+05:30.559839+05:30.229074+05:30.357938+05:30.727915+05:30.069958+05:30.066077+05:30.414434+05:30.363515+05:30.877755+05:30.810615+05:30.949333+05:30.426358+05:30.439688+05:30.506295+05:30.846557+05:30.365788+05:30.674019+05:30.493055+05:30.842993+05:30.484872+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-08T02:01:24.401296+05:30.259812+05:30.664660+05:30.823287+05:30.855501+05:30.718697+05:30.650990+05:30.662181+05:30.412687+05:30.559839+05:30.229074+05:30.357938+05:30.727915+05:30.069958+05:30.066077+05:30.414434+05:30.363515+05:30.877755+05:30.810615+05:30.949333+05:30.426358+05:30.439688+05:30.506295+05:30.846557+05:30.365788+05:30.674019+05:30.493055+05:30.842993+05:30.484872+05:30.

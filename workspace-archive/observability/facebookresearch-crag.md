@@ -15,7 +15,6 @@ tags:
 - dataset
 - github-repo
 - jupyter notebook
-- leaderboard
 - rag
 selection_reason:
 - Strong keyword match
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **CRAG**: A comprehensive benchmark suite designed to evaluate Retrieval-Augmented Generation (RAG) systems, providing standardized metrics and datasets for assessing performance across diverse tasks.
-
-- **Implementation**: Developed in Jupyter Notebooks, enabling modular and reproducible experimentation with RAG pipelines, including retrieval, generation, and evaluation components.
-
-- **Scope**: Covers multiple dimensions of RAG performance (e.g., accuracy, latency, robustness) with curated d
+- **Benchmark Suite**: CRAG provides a comprehensive benchmark for Retrieval-Augmented Generation (RAG) systems, evaluating performance across diverse tasks and datasets.
+- **Evaluation Metrics**: Implements standardized metrics to assess RAG models on accuracy, latency, and robustness under varying conditions (e.g., noisy inputs, domain shifts).
+- **Open-Source Toolkit**: Distributed as Jupyter Notebooks, enabling reproducibility and extensibility for researchers to integrate custom datasets or
 
 ## Use Cases
 

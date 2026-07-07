@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent orchestration framework** enabling deployment of agentic workflows with LLM integration via LlamaIndex, supporting modular agent composition and task delegation.
+- **Multi-agent orchestration framework** enabling deployment of agentic workflows with Python, integrating LlamaIndex for LLM-driven tasks and multi-agent coordination.
 
-- **Production-ready deployment** with built-in scaling, state management, and async task execution for distributed agent systems.
+- **Production-ready deployment** via modular architecture supporting scalable, fault-tolerant workflow execution with configurable components (e.g., message queues, state management).
 
-- **Python-based SDK** with CLI tools for defining, deploying, and monitoring agent workflows, optimized for LLM-driven decision-making.
+- **Extensible tooling** for custom agent definitions, workflow DAGs, and integration with external services, optimized for LLM-based applicati
 
 ## Use Cases
 

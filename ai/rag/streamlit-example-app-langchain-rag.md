@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-07T23:00:01.784433+05:30'
+collected_at: '2026-07-08T01:47:08.762883+05:30'
 published_at: '2026-06-30T01:41:05Z'
 tags:
 - github-repo
+- openai
 - python
 - rag
+- workflows
 stars: 157
 language: Python
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-07T23:00:01.784433+05:30'
-last_seen: '2026-07-07T23:00:01.784433+05:30'
-last_checked: '2026-07-07T23:00:01.784433+05:30'
+first_seen: '2026-07-08T01:47:08.762883+05:30'
+last_seen: '2026-07-08T01:47:08.762883+05:30'
+last_checked: '2026-07-08T01:47:08.762883+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- Implements a **Retrieval-Augmented Generation (RAG)** pipeline using **LangChain** with hybrid search (vector + keyword) for document retrieval
-- Utilizes a **vectorstore** (e.g., FAISS, Chroma, or Pinecone) for semantic search combined with traditional keyword-based retrieval
-- Deploys as a **Streamlit** web app, enabling interactive querying and response generation with a user-friendly interface
+- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector store retrieval with hybrid search (likely BM25 + dense retrieval) for enhanced document retrieval accuracy.
+
+- **LangChain Integration**: Utilizes LangChain for orchestrating the RAG workflow, including document loading, text splitting, embedding generation (e.g., with Hugging Face models), and LLM interaction (e.g., via OpenAI or local models).
+
+- **Streamlit UI**: Deploys a Streamlit-based web interface for real-time interaction with the RAG system, enabling users to input queries and receive generated responses with retrieved context.
 
 ## Why It Matters
 

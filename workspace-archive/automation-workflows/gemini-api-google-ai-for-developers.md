@@ -2,13 +2,13 @@
 title: Gemini API | Google AI for Developers
 archive_category: automation-workflows
 source_category: ai/agents
-source_url: https://ai.google.dev/gemini-api/docs
+source_url: https://ai.google.dev/gemini-api
 resource_id: blog:gemini-api-google-ai-for-developers
 local_vault_path: ai/agents/gemini-api-google-ai-for-developers.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Gemini API | Google AI for Developers
@@ -26,18 +26,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Interactions API** is Google's recommended API for agentic workflows, state management, and latest models (e.g., `gemini-3.5-flash`), replacing legacy endpoints for new projects.
+- **Interactions API** is now the recommended interface for agentic workflows, state management, and latest models (e.g., `gemini-3.5-flash`), replacing legacy endpoints with optimized performance and multimodal support.
 
-- Supports **multi-modal generation** (text, images via Nano Banana, video via Veo 3.1) and **structured outputs** (JSON), with Python/JS/REST SDKs for seamless integration.
+- **Model Suite** includes `Gemini 3.1 Pro` (multimodal reasoning), `Gemini 3.5 Flash` (cost-efficient frontier-class), `Nano Banana 2/Pro` (image generation/editing), `Veo 3.1` (native audio video generation), and `Gemini Robotics` (VLM for physical-world agentic tasks).
 
-- Offers **advanced capabilities** like long-context processing (millions of tokens), function calling for tool integration, and real-time vo
+- **
 
 ## Use Cases
 
@@ -47,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://ai.google.dev/gemini-api/docs
+Original source URL: https://ai.google.dev/gemini-api
 
 ## Local Vault File
 
