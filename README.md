@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 40,918 files</p>
-        <p><b>Last Update:</b> 2026-07-07 04:35 IST</p>
+        <p><b>Last Update:</b> 2026-07-07 08:04 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,25 +210,18 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[AMD Ryzen AI Halo – $4k AI Dev Kit](ai/community/amd-ryzen-ai-halo-4k-ai-dev-kit.md)** • <kbd>+68 pts</kbd>
-- 🔼 **[OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files](ai/community/iofficeai-officecli.md)** • <kbd>+56 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Real-time map of Great Britain's rail network](ai/community/real-time-map-of-great-britain-s-rail-network.md)** • <kbd>+30 pts</kbd>
-- 🔼 **[The Exclusive Home of NFL Sunday Ticket - YouTube & YouTube TV](ai/rag/the-exclusive-home-of-nfl-sunday-ticket-youtube-yo.md)** • Rank: <kbd>+763</kbd>
-- 🔼 **[pallets/werkzeug](ai/resources/pallets-werkzeug.md)** • Rank: <kbd>+440</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+8</kbd>
+- 🔼 **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** • Rank: <kbd>+5</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Pruning RAG context down to what the answer actually needs](ai/community/pruning-rag-context-down-to-what-the-answer-actual.md)** • Score: `23`
-- 🆕 **[GLM 5.2 and the coming AI margin collapse](ai/community/glm-5-2-and-the-coming-ai-margin-collapse.md)** • Score: `19`
-- 🆕 **[AI: The ROI Runway Could Be Long Outside the Tech Sector](ai/community/ai-the-roi-runway-could-be-long-outside-the-tech-s.md)** • Score: `15`
-- 🆕 **[Companies hire more after AI adoption](ai/community/companies-hire-more-after-ai-adoption.md)** • Score: `12`
-- 🆕 **[Taiganet.com, Home of the WS4000 Simulator](ai/community/taiganet-com-home-of-the-ws4000-simulator.md)** • Score: `7`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario](ai/community/big-tech-has-suddenly-flipped-on-the-ai-jobs-wipeo.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
