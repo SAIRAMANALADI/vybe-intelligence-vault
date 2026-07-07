@@ -1,27 +1,27 @@
 ---
 title: "gregoryschlepper/AbraxasOS_free"
 category: "Agent Framework"
-tech_stack: ["Python", "Telegram Bot API", "DeepSeek API", "Linux/WSL", "Git", "Bash"]
-quality_score: 9
+tech_stack: ["Python", "Telegram Bot API", "DeepSeek API", "WSL (Windows Subsystem for Linux)", "Bash", "Git"]
+quality_score: 8
 rag_relevance: 7
-tags: ["personal AI agents", "local-first", "privacy-focused", "cost-aware", "Telegram integration"]
+tags: ["local-first", "personal AI agents", "Telegram integration", "cost-aware", "privacy-focused"]
 source: "https://github.com/gregoryschlepper/AbraxasOS_free"
-discovered_at: "2026-07-07T13:16:10Z"
+discovered_at: "2026-07-07T16:25:46Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-AbraxasOS is a local-first, open-source operating layer for personal AI agents that prioritizes user control, privacy, and cost awareness. It enables non-technical users to deploy and manage their own AI assistant via Telegram, with features like memory, tool integration, and automated task scheduling.
+AbraxasOS is a local-first, open-source operating layer for personal AI agents that runs on your own hardware, integrates with Telegram for interaction, and prioritizes data privacy and cost control. It enables non-technical users to deploy and manage AI assistants without relying on cloud platforms or subscriptions.
 
 ## Key Features
-- Local deployment of AI agents with no cloud dependency
-- Built-in memory for long-term conversation context
-- Cost control with daily spending limits
-- Hardened security with locked-down tool access
+- Local deployment on user-owned hardware for full data control
+- Telegram-first interaction with memory retention over time
+- Built-in cost limits and transparent spending tracking
+- Hardened security with restricted actions and safety checks
 - Simple installation and removal process for non-technical users
 
 ## Why It Matters for RAG Builders
-It empowers users to deploy and manage their own AI agents locally, ensuring privacy and cost control while reducing reliance on third-party cloud services.
+AbraxasOS empowers users to deploy and manage personal AI agents locally, ensuring data privacy and cost transparency while democratizing access to AI automation.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -33,14 +33,14 @@ Automated review identified **Telegram Bot API** as a key module contributing to
 ### DeepSeek API
 Automated review identified **DeepSeek API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Linux/WSL
-Automated review identified **Linux/WSL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Git
-Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### WSL (Windows Subsystem for Linux)
+Automated review identified **WSL (Windows Subsystem for Linux)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Bash
 Automated review identified **Bash** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Git
+Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

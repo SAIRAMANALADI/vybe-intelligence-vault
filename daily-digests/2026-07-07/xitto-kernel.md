@@ -1,27 +1,27 @@
 ---
 title: "ishoplus/xitto-kernel"
 category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "TypeScript", "CLI", "TUI", "Sandboxing", "LLM API Integration", "Autonomous Agent Loops"]
+tech_stack: ["JavaScript", "Node.js", "TypeScript", "CLI", "TUI (Ink)", "Sandboxing (Seatbelt)", "NPM"]
 quality_score: 9
 rag_relevance: 9
-tags: ["agent framework", "domain-agnostic", "pluggable architecture", "autonomous agents", "multi-model support"]
+tags: ["agent kernel", "domain-agnostic", "multi-model support", "sandboxing", "progressive trust"]
 source: "https://github.com/ishoplus/xitto-kernel"
-discovered_at: "2026-07-07T13:16:18Z"
+discovered_at: "2026-07-07T16:24:46Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-xitto-kernel is a domain-agnostic agent foundation library that provides a reusable kernel for building AI agents across any domain (e.g., coding, data query, document generation). It abstracts core agent functionality into a pluggable system where DomainPacks define domain-specific capabilities and guardrails, enabling flexible deployment with various models and frontends.
+xitto-kernel is a domain-agnostic agent foundation library that provides a multi-step tool loop, guard chain, permissions/sandbox, and provider abstraction. It enables building agents for any domain (coding, data query, knowledge bases, etc.) by swapping pluggable DomainPacks while reusing the same kernel.
 
 ## Key Features
-- Domain-agnostic kernel with pluggable DomainPacks for custom domains (e.g., coding, patent disclosure, document generation)
-- Multi-step autonomous agent loop with LLM-driven tool execution and verification
-- Progressive trust system for safe tool execution with per-session and cross-session memory
-- Automatic experience sedimentation layers: reflex, fact, procedure, episodic, and crystallization (skills)
-- Built-in sandboxing (Seatbelt) and outcome-oriented execution for deliverable-focused results
+- Pluggable DomainPacks for any domain (coding, data query, patent, UI/UX, document generation, etc.)
+- Multi-step tool loop with LLM-driven execution and verification
+- Progressive trust system with per-pattern approvals and persistent trust storage
+- Automatic experience sedimentation (playbooks, skills, episodes, memory extraction)
+- Built-in sandboxing (Seatbelt) for safe command execution and rollback on failure
 
 ## Why It Matters for RAG Builders
-It enables AI engineers to build reusable, domain-specific agent systems with built-in safety, memory, and progressive learning capabilities, reducing development time and improving agent reliability across diverse use cases.
+It provides a reusable, verifiable, and extensible foundation for building domain-specific agents across models, domains, and deployment environments, critical for scalable RAG and AI agent systems.
 
 ## Tech Stack Deep Dive
 ### JavaScript
@@ -36,17 +36,14 @@ Automated review identified **TypeScript** as a key module contributing to infra
 ### CLI
 Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### TUI
-Automated review identified **TUI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TUI (Ink)
+Automated review identified **TUI (Ink)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Sandboxing
-Automated review identified **Sandboxing** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Sandboxing (Seatbelt)
+Automated review identified **Sandboxing (Seatbelt)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### LLM API Integration
-Automated review identified **LLM API Integration** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Autonomous Agent Loops
-Automated review identified **Autonomous Agent Loops** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### NPM
+Automated review identified **NPM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
