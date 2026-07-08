@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-07-08T14:20:56.130501+05:30'
-published_at: '2026-06-07T13:03:16Z'
+collected_at: '2026-07-08T16:54:11.638099+05:30'
+published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
 - anthropic
@@ -13,8 +13,7 @@ tags:
 - openai
 - python
 - rag
-- workflows
-stars: 58
+stars: 59
 language: Python
 status: active
 license: MIT
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-07-08T14:20:56.130501+05:30'
-last_seen: '2026-07-08T14:20:56.130501+05:30'
-last_checked: '2026-07-08T14:20:56.130501+05:30'
+first_seen: '2026-07-08T16:54:11.638099+05:30'
+last_seen: '2026-07-08T16:54:11.638099+05:30'
+last_checked: '2026-07-08T16:54:11.638099+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: Template implements a collaborative AI agent system using frameworks like CrewAI, AutoGen, and Swarms to distribute document processing, analysis, and insight generation tasks across specialized agents.
+- **Multi-Agent RAG Framework**: Implements a collaborative system of AI agents (e.g., CrewAI, AutoGen) using Python to process, analyze, and extract insights from documents via Retrieval-Augmented Generation (RAG).
 
-- **RAG Integration**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate) and LLM providers (OpenAI, Anthropic, GPT-3.5/4/5) for retrieval-augmented generation (RAG) workflows with Discord bot integration.
+- **Integration Stack**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate), LLMs (GPT-3.5/4, GPT-5, Anthropic), and frameworks (LangChain) for document ingestion, retrieval, and agent orchestration.
 
-- **Modular Python Implementation**: Provides a Python-based template for orchestrating multi-agent RAG pipelines with extensible agent roles, tooling, and inter-agent communication protocols.
+- **Deployment & Extensibility**: Includes Discord bot integration for real-time interaction, modular agent roles, and last updated (2026-07-08) with 59 stars and 10 forks.
 
 ## Why It Matters
 
@@ -45,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: The-Swarm-Corporation
-- Stars: 58
+- Stars: 59
 - Forks: 10
 - Language: Python
 - Topics: agents, ai, anthropic, autogen, chromadb, crewai, discord, gpt-5, gpt35, gpt4, langchain, multi-agent, openai, pinecone, rag, swarms, weaviate
-- Last Updated: 2026-06-07T13:03:16Z
+- Last Updated: 2026-07-08T10:21:23Z
 - License: MIT
 - Archived: No
 - Created At: 2024-11-11T19:34:21Z

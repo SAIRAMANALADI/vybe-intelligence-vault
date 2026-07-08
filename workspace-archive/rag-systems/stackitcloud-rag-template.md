@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline Implementation**: Provides a FastAPI-based template for Retrieval-Augmented Generation (RAG) systems, integrating vector search with document management for AI chatbots.
-- **Deployment Flexibility**: Supports Docker and Kubernetes for containerized deployment, with Ollama integration for local LLM inference.
-- **Stack Components**: Utilizes Python with FastAPI for the API layer, vector databases for retrieval, and STACKIT cloud services for scalable infrastructure.
+- **Architecture**: FastAPI-based template for RAG systems integrating vector search (e.g., ChromaDB) with LLM backends (e.g., Ollama) for document retrieval and chatbot functionality.
+- **Deployment**: Supports Docker for containerization and Kubernetes for orchestration, enabling scalable RAG deployments.
+- **Key Features**: Includes retrieval-augmented generation (RAG) pipelines, vector database integration, and modular design for AI chatbots/document management.
 
 ## Use Cases
 

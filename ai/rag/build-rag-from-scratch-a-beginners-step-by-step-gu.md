@@ -5,17 +5,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd
-published_at: '2026-07-08T14:16:53.842158+05:30'
-collected_at: '2026-07-08T14:16:53.842172+05:30'
+published_at: '2026-07-08T16:50:10.407989+05:30'
+collected_at: '2026-07-08T16:50:10.408001+05:30'
 tags:
+- hackernews
 - openai
 - rag
 - web-crawled
 status: active
 resource_id: blog:build-rag-from-scratch-a-beginners-step-by-step-gu
-first_seen: '2026-07-08T14:16:53.842172+05:30'
-last_seen: '2026-07-08T14:16:53.842172+05:30'
-last_checked: '2026-07-08T14:16:53.842172+05:30'
+first_seen: '2026-07-08T16:50:10.408001+05:30'
+last_seen: '2026-07-08T16:50:10.408001+05:30'
+last_checked: '2026-07-08T16:50:10.408001+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline**: Implements a retrieval-augmented generation system using LangChain, FAISS for vector storage, and OpenAI embeddings to ground responses in retrieved document chunks, preventing hallucinations by restricting answers to provided context.
+- **RAG Pipeline**: Implements a two-stage process—retrieval of relevant document chunks via semantic search (FAISS) followed by generation using a constrained LLM prompt to ensure answers are grounded in retrieved context and avoid hallucinations.
 
-- **Modular Architecture**: Organizes the system into four core components—`document_loader.py` (splits text into chunks), `vector_store.py` (creates FAISS index), `rag_chain.py` (defines prompt and LLM integration), and `main.py` (orchestrates retrieval and generation)—ensuring separation of concerns and scalability.
+- **Modular Architecture**: Uses a structured Python project with separate modules (`document_loader.py`, `vector_store.py`, `rag_chain.py`) for loading/splitting documents, embedding storage, and prompt-based generation, enabling maintainability and scalability.
 
-- **Contextual Constraint**: Uses a system prompt to enforce strict adherence to retrieved context, returning "I don't know" for out-of-scope queries, thereby eliminating hallucinations while maintaining factual accuracy in responses.
+- **Technical Stack**: Leverages LangChain for orchestration, FAISS for local vector storage, OpenAI embeddings/LLM, and enforces a strict system prompt to reject out-of-context queries, demonstrating a production-ready, hallucination-resistant GenAI system.
 
 ## Why It Matters
 
@@ -37,10 +38,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T14:16:53.842158+05:30
+- Published: 2026-07-08T16:50:10.407989+05:30
 
 ## Related Tags
 
+- hackernews
 - openai
 - rag
 - web-crawled

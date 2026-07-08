@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-*   Provides Python-based examples for building local Retrieval-Augmented Generation (RAG) systems, specifically for document querying (e.g., "ChatPDF").
-*   Utilizes LangChain for LLM orchestration and Ollama for local large language model inference.
-*   Focuses on enabling fully local LLM application development without cloud dependencies.
+- **Implementation**: Demonstrates building a local ChatPDF system using Python, leveraging LangChain for LLM integration and RAG (Retrieval-Augmented Generation) for document processing.
+- **Local Execution**: Utilizes Ollama for running LLMs locally, ensuring data privacy and offline functionality without cloud dependency.
+- **Modularity**: Provides example implementations for customization, including document ingestion, vector storage (e.g., Chroma), and LLM interaction pipelines.
 
 ## Use Cases
 

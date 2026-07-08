@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vonzosten/awesome-LangGraph
-collected_at: '2026-07-08T14:20:35.982765+05:30'
+collected_at: '2026-07-08T16:53:51.434664+05:30'
 published_at: '2026-07-08T07:36:53Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - javascript
-- scripts
 - workflows
 stars: 1891
 language: JavaScript
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-11-02T15:54:00Z'
 pushed_at: '2026-05-20T14:55:08Z'
 resource_id: github:vonzosten/awesome-langgraph
-first_seen: '2026-07-08T14:20:35.982765+05:30'
-last_seen: '2026-07-08T14:20:35.982765+05:30'
-last_checked: '2026-07-08T14:20:35.982765+05:30'
+first_seen: '2026-07-08T16:53:51.434664+05:30'
+last_seen: '2026-07-08T16:53:51.434664+05:30'
+last_checked: '2026-07-08T16:53:51.434664+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Ecosystem Index**: A structured repository aggregating LangChain and LangGraph resources, including concepts, tools, templates, and guides for building LLM and multi-agent applications.
-- **Technical Scope**: Focuses on JavaScript-based implementations, covering LLM orchestration, agent frameworks, and workflow automation within the LangGraph ecosystem.
-- **Community-Driven Maintenance**: Actively updated (last commit: 2026-07-08) with 1,891 stars and 231 forks, reflecting ongoing contributions to the LangChain/LangGraph tooling landscape.
+- **Curated Ecosystem Index**: A structured repository cataloging LangChain and LangGraph resources, including concepts, projects, tools, templates, and guides for building LLM and multi-agent applications.
+
+- **Technical Breadth**: Focuses on JavaScript-based implementations, covering AI workflows, agent orchestration, and LLM integrations with emphasis on modularity and extensibility.
+
+- **Community-Driven Maintenance**: Actively updated (last commit: 2026-07-08) with 1,891 stars and 231 forks, reflecting ongoing contributions to the LangGraph/LangChain ecosystem.
 
 ## Why It Matters
 

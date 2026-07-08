@@ -14,6 +14,7 @@ tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - python
 - workflows
 selection_reason:
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Framework**: Python-based AI agent benchmark simulating tasks within a virtual software company environment to evaluate agent capabilities.
-- **Scope & Metrics**: Measures performance across AI agents in software development workflows, including task completion, decision-making, and adaptability.
-- **Research Utility**: Designed for AI research, enabling comparative analysis of LLMs and agentic systems in structured, domain-specific scenarios.
+- **Purpose**: Simulated software company environment for benchmarking AI agents on complex, multi-step tasks.
+- **Technical Stack**: Python-based framework with LLM integration for agent evaluation.
+- **Metrics**: Performance tracking across software development workflows (e.g., coding, debugging, collaboration).
 
 ## Use Cases
 

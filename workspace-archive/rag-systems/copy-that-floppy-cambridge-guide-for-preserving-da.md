@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by whiteblossom. Score: 61, Comments: 14.
+Hacker News story by whiteblossom. Score: 84, Comments: 25.
 Original Link: https://www.digipres.org/the-floppy-guide/
 
 ## Use Cases

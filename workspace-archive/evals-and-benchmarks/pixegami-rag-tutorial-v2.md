@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates how to deploy and utilize local large language models (LLMs) within a Retrieval-Augmented Generation (RAG) pipeline for improved privacy and cost efficiency.
-- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma or FAISS) to ensure retrieved context remains current and relevant.
-- **Testing Framework**: Includes a structured testing suite to validate RAG performance, covering retrieva
+- **Local LLM Integration**: Demonstrates deployment of Retrieval-Augmented Generation (RAG) pipelines using local language models (LLMs) via LangChain, eliminating dependency on cloud-based APIs.
+
+- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval relevance with evolving knowledge bases.
+
+- **Testing Framework**: Includes structured testing protocols for evaluating RAG performance metrics (e.g.
 
 ## Use Cases
 

@@ -30,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Jekyll static site generator**: Source repository for `raganwald.com` built using Jekyll, a Ruby-based static site generator.
-- **GitHub Pages deployment**: Hosted on GitHub Pages, leveraging GitHub's infrastructure for version control and web hosting.
-- **Minimalist structure**: HTML-based, with no additional topics or dependencies specified, indicating a lightweight, content-focused site.
+- **Jekyll Static Site Generator**: Repository contains the source for a Jekyll-based static website hosted on GitHub Pages (`raganwald.github.com`), leveraging Liquid templating and Markdown for content management.
+
+- **Minimalist Structure**: The HTML-based project follows Jekyll’s conventional directory layout (`_posts`, `_layouts`, `_includes`, etc.) for blogging and static content rendering without external dependencies.
+
+- **Deprecated/Unmaintained**: Last updated in **2026** (future date)
 
 ## Use Cases
 

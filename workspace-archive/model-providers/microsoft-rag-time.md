@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Mastery Curriculum**: 5-week structured learning path covering RAG fundamentals, hybrid search (vector + keyword), quantization (binary/scalar), and Matryoshka representation learning for efficient LLM integration.
-
-- **Technical Stack**: Azure-hosted Jupyter Notebooks with OpenAI/GPT models, HNSW for approximate nearest neighbor search, and VS Code tooling for multimodal RAG pipelines.
-
-- **Responsible AI Focus**: Includes indexing optimization, retrieval strategies, and responsible AI
+- **5-week structured curriculum** covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and HNSW indexing.
+- **Hands-on implementation** using Jupyter Notebooks, integrating Azure services, OpenAI LLMs, and multimodal data with Matryoshka representation learning.
+- **Focus on production-grade RAG** including responsible AI practices, performance optimization (e.g., quantization), and deployment via Visual Studio Code.
 
 ## Use Cases
 

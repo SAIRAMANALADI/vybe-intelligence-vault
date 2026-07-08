@@ -11,12 +11,9 @@ archive_tier: useful
 resource_kind: dataset
 importance: medium
 tags:
-- benchmark
 - github-repo
-- models
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -35,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Implementation of Vietnamese RAG Pipeline**: Demonstrates best practices for building a Retrieval-Augmented Generation (RAG) system optimized for Vietnamese language processing, including text preprocessing, embedding models, and retrieval strategies tailored for Vietnamese corpora.
+- **Implementation**: Demonstrates a **Retrieval-Augmented Generation (RAG)** pipeline optimized for **Vietnamese language processing**, integrating vector search (e.g., FAISS or Weaviate) with LLMs for contextual retrieval.
 
-- **Modular Architecture**: Features a structured backend with components for document ingestion, vector storage (e.g., FAISS or Weaviate), retrieval mechanisms, and LLM integration, enabling scalable and mainta
+- **Key Components**: Includes **Vietnamese text preprocessing** (tokenization, normalization), **embedding models** (e.g., `vinai/phobert-base`), and **retrieval-augmented generation** with a focus on low-latency, high-accuracy Vietnamese QA.
+
+- **Deployment**: Provides a
 
 ## Use Cases
 

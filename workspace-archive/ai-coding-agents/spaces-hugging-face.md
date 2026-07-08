@@ -8,13 +8,13 @@ local_vault_path: ai/agents/spaces-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - web-crawled
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Spaces - Hugging Face
@@ -23,15 +23,17 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- Enables real-time voice chat via WebSocket using Hugging Face's (HF) speech-to-speech model
-- Facilitates low-latency, bidirectional audio streaming for interactive voice applications
-- Deployed as a Hugging Face Space using `smolagents` for scalable inference
+- **WebSocket-based Voice Chat**: Enables real-time voice interaction with a Hugging Face (HF) speech-to-speech model via WebSocket protocol.
+
+- **HF Speech-to-Speech Integration**: Utilizes HF's backend for converting input speech to output speech dynamically during the conversation.
+
+- **smolagents Deployment**: Hosted as a Hugging Face Space using the `smolagents` framework for lightweight, agent-based execution.
 
 ## Use Cases
 

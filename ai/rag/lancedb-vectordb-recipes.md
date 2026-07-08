@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-08T14:17:05.793087+05:30'
+collected_at: '2026-07-08T16:50:21.351375+05:30'
 published_at: '2026-06-30T08:00:12Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-08T14:17:05.793087+05:30'
-last_seen: '2026-07-08T14:17:05.793087+05:30'
-last_checked: '2026-07-08T14:17:05.793087+05:30'
+first_seen: '2026-07-08T16:50:21.351375+05:30'
+last_seen: '2026-07-08T16:50:21.351375+05:30'
+last_checked: '2026-07-08T16:50:21.351375+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples and tutorials for Retrieval-Augmented Generation (RAG) and multimodal AI systems using vector search and large language models (LLMs) like GPT-4 Vision.
-
-- **Integration with Vector Databases & Frameworks**: Demonstrates workflows integrating LanceDB (vector database) with LangChain, LlamaIndex, and OpenAI APIs for embedding generation, fine-tuning, and agent-based applications.
-
-- **Technical Focus Areas**: Covers deep learning, embeddings, fine-tuning, and agent architectures, emphasizing practical implementations for multimodal AI, RAG, and LLM-driven systems.
+- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based examples for multimodal AI, Retrieval-Augmented Generation (RAG), and agent-based workflows using vector search and LLMs.
+- **Tooling Integration**: Demonstrates integration with frameworks like LangChain, LlamaIndex, and OpenAI APIs (including GPT-4 Vision) for fine-tuning, embeddings, and vector database operations via LanceDB.
+- **Technical Focus**: Covers deep learning, machine learning, and vector database optimizations for scalable AI pipelines, last updated June 2026.
 
 ## Why It Matters
 

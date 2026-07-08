@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Prat011/awesome-llm-skills
-collected_at: '2026-07-08T14:19:40.945653+05:30'
+collected_at: '2026-07-08T16:52:56.453138+05:30'
 published_at: '2026-07-08T08:01:54Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - meta-ai
 - models
 - openai
@@ -22,9 +23,9 @@ archived: false
 created_at: '2025-10-22T06:15:37Z'
 pushed_at: '2026-06-23T07:39:26Z'
 resource_id: github:prat011/awesome-llm-skills
-first_seen: '2026-07-08T14:19:40.945653+05:30'
-last_seen: '2026-07-08T14:19:40.945653+05:30'
-last_checked: '2026-07-08T14:19:40.945653+05:30'
+first_seen: '2026-07-08T16:52:56.453138+05:30'
+last_seen: '2026-07-08T16:52:56.453138+05:30'
+last_checked: '2026-07-08T16:52:56.453138+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated LLM/AI Agent Skills**: Repository aggregates tools, resources, and skills for customizing AI agent workflows, compatible with **Claude Code**, **Codex**, **Gemini CLI**, and custom agents.
+- **Curated LLM/Agent Skills Repository**: Hosts a structured collection of tools, frameworks, and resources for customizing AI agent workflows, compatible with platforms like Claude Code, Codex, and Gemini CLI.
 
-- **Multi-Platform Support**: Includes integrations for **Anthropic**, **OpenAI**, **Google (Gemini)**, **Llama**, **Qwen**, and **Codex CLI**, with focus on **Claude Skills** and **Agent customization**.
+- **Multi-Platform Support**: Includes integrations for Anthropic, OpenAI, Google (Gemini), Llama, Qwen, and related CLI tools (e.g., Codex CLI, Qwen-Coder) for cross-ecosystem agent development.
 
-- **Python-Based & Actively Maintained**: Primarily Python-based, last updated **July 2026**, with **1.3K+ stars** and **222 forks**, emphasizing extensibility for AI agent development.
+- **Python-Based & Actively Maintained**: Primarily Python-focused, with the last update on 2026-07-08, ensuring up-to-date support for emerging LLM and agent customization techniques.
 
 ## Why It Matters
 

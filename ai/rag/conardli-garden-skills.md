@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ConardLi/garden-skills
-collected_at: '2026-07-08T14:17:25.860391+05:30'
-published_at: '2026-07-08T08:42:22Z'
+collected_at: '2026-07-08T16:50:41.299931+05:30'
+published_at: '2026-07-08T10:04:28Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,7 @@ tags:
 - github-repo
 - hackernews
 - rag
-stars: 9270
+stars: 9274
 language: CSS
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-04-21T11:56:17Z'
 pushed_at: '2026-06-10T13:43:52Z'
 resource_id: github:conardli/garden-skills
-first_seen: '2026-07-08T14:17:25.860391+05:30'
-last_seen: '2026-07-08T14:17:25.860391+05:30'
-last_checked: '2026-07-08T14:17:25.860391+05:30'
+first_seen: '2026-07-08T16:50:41.299931+05:30'
+last_seen: '2026-07-08T16:50:41.299931+05:30'
+last_checked: '2026-07-08T16:50:41.299931+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Open-source collection (`ConardLi/garden-skills`) covering web design, knowledge retrieval, image generation, and other technical skills, with 9,270 stars and 1,240 forks.
-- **Technical Stack**: Primarily implemented in CSS, with integrations for AI agents, RAG (Retrieval-Augmented Generation), and tools like Claude and GPT-Image-2.
-- **Last Update**: Repository last modified on **2026-07-08**, indicating active maintenance and recent development.
+- **Repository Overview**: Open-source collection by ConardLi covering web design, knowledge retrieval, image generation, and other technical skills.
+- **Technical Stack**: Primarily implemented in CSS, with integrations for AI agents, RAG (Retrieval-Augmented Generation), and GPT-Image-2 for image generation.
+- **Metadata**: 9,274 stars, 1,241 forks, last updated July 8, 2026. Topics include agent-based systems, RAG, and web design.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ConardLi
-- Stars: 9270
-- Forks: 1240
+- Stars: 9274
+- Forks: 1241
 - Language: CSS
 - Topics: agent, claude, gpt-image-2, rag, skills, web-design
-- Last Updated: 2026-07-08T08:42:22Z
+- Last Updated: 2026-07-08T10:04:28Z
 - License: MIT
 - Archived: No
 - Created At: 2026-04-21T11:56:17Z

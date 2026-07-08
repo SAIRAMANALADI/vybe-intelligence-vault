@@ -12,7 +12,6 @@ resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
-- hackernews
 - rag
 - unknown
 - workflows
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `techwithtim/Langflow-RAG-Tutorial` with 97 stars and 25 forks, last updated on **2026-07-03**.
-- **Technical Focus**: Tutorial repository centered on **Langflow** and **Retrieval-Augmented Generation (RAG)** workflows (language unspecified).
-- **Status**: No description, topics, or language metadata provided in the repository metadata.
+- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (97 ⭐, 25 🍴)
+- **Language**: Unspecified (last updated: 2026-07-03)
+- **Content**: Likely a tutorial on integrating Langflow with Retrieval-Augmented Generation (RAG) workflows (exact details unverified due to missing description).
 
 ## Use Cases
 

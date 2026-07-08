@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-08T14:18:10.839094+05:30'
+collected_at: '2026-07-08T16:51:26.343762+05:30'
 published_at: '2026-07-05T07:03:45Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
 - python
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-08T14:18:10.839094+05:30'
-last_seen: '2026-07-08T14:18:10.839094+05:30'
-last_checked: '2026-07-08T14:18:10.839094+05:30'
+first_seen: '2026-07-08T16:51:26.343762+05:30'
+last_seen: '2026-07-08T16:51:26.343762+05:30'
+last_checked: '2026-07-08T16:51:26.343762+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by manipulating retrieved documents to mislead LLM outputs, validated in USENIX Security 2025.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by poisoning the retrieval corpus, leading to manipulated outputs in downstream LLM tasks.
 
-- **Technical Mechanism**: Exploits adversarial embedding poisoning and document retrieval manipulation to inject malicious context into RAG pipelines, causing LLMs to generate incorrect or biased responses while maintaining high retrieval relevance scores.
+- **Technical Mechanism**: Leverages adversarial document insertion into the retrieval database to subtly alter retrieved context, causing LLMs to generate incorrect or biased responses while maintaining syntactic plausibility.
 
-- **Mitigation Challenges**: Highlights the difficulty of defending against such attacks due to the black-box nature of LLMs and the reliance on dynamic, untrusted document retrieval sources, emphasizing the need for robust trustworthy AI frameworks.
+- **Evaluation & Impact**: Validated on multiple RAG pipelines (e.g., dense retrieval + LLMs), showing significant degradation in factual accuracy and robustness, with proposed mitigation strategies discussed for trustworthy AI deployment.
 
 ## Why It Matters
 

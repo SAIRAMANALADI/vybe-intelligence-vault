@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-*   Streamlit application demonstrating Retrieval Augmented Generation (RAG).
-*   Leverages LangChain for orchestrating LLM workflows and data retrieval.
-*   Implements document indexing and query via a vectorstore with hybrid search capabilities.
+- **Hybrid RAG Pipeline**: Implements a Streamlit app integrating LangChain with retrieval-augmented generation (RAG), combining vector store retrieval and hybrid search (dense + sparse) for enhanced document retrieval.
+
+- **Vector Store Integration**: Uses a vector database (e.g., FAISS or Chroma) for semantic search, paired with keyword-based retrieval to optimize hybrid query performance.
+
+- **Streamlit UI**: Provides a frontend for querying and visualizing RAG responses, demonstrating real-t
 
 ## Use Cases
 

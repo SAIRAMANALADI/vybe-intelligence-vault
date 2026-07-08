@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Danielskry/Awesome-RAG
-collected_at: '2026-07-08T14:17:50.839196+05:30'
+collected_at: '2026-07-08T16:51:06.319489+05:30'
 published_at: '2026-07-07T14:03:41Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-04-12T14:45:44Z'
 pushed_at: '2026-06-30T10:58:04Z'
 resource_id: github:danielskry/awesome-rag
-first_seen: '2026-07-08T14:17:50.839196+05:30'
-last_seen: '2026-07-08T14:17:50.839196+05:30'
-last_checked: '2026-07-08T14:17:50.839196+05:30'
+first_seen: '2026-07-08T16:51:06.319489+05:30'
+last_seen: '2026-07-08T16:51:06.319489+05:30'
+last_checked: '2026-07-08T16:51:06.319489+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregating applications, tools, and frameworks for Retrieval-Augmented Generation (RAG) in generative AI, covering LLMs, vector databases, and retrieval mechanisms.
-- **Metadata**: 1,303 stars, 167 forks, last updated July 7, 2026; topics include AI, generative models, and RAG-specific implementations.
-- **Technical Scope**: Encompasses RAG pipelines, evaluation benchmarks, and deployment strategies for enhancing LLM performance via external knowledge retrieval.
+- **Curated RAG Applications**: Repository aggregates open-source and commercial Retrieval-Augmented Generation (RAG) implementations, frameworks, and tools across domains like NLP, chatbots, and QA systems.
+- **Multi-Topic Coverage**: Encompasses RAG techniques including vector databases (e.g., FAISS, Pinecone), hybrid retrieval (dense+sparse), and evaluation benchmarks (e.g., RAGTruth, FreshQA).
+- **Active Maintenance**: Last updated July 2026, ensuring inclusion of recent advancements like dynamic RAG, self-correcting pipelines, and multimodal RAG (text+image).
 
 ## Why It Matters
 

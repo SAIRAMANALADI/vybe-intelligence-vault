@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/supermlorg
-published_at: '2026-06-25T22:58:27.673967+05:30'
-collected_at: '2026-06-25T22:58:27.673973+05:30'
+published_at: '2026-07-08T16:54:31.755553+05:30'
+collected_at: '2026-07-08T16:54:31.755559+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:supermlorg-superml-org-github
-first_seen: '2026-06-25T22:58:27.673973+05:30'
-last_seen: '2026-06-25T22:58:27.673973+05:30'
-last_checked: '2026-06-25T22:58:27.673973+05:30'
+first_seen: '2026-07-08T16:54:31.755559+05:30'
+last_seen: '2026-07-08T16:54:31.755559+05:30'
+last_checked: '2026-07-08T16:54:31.755559+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Organization**: `supermlorg` is a GitHub organization with 1 repository, 4 stars, and 2 achievements (Pull Shark and YOLO).
-- **Primary Repository**: `superml-java` is a public Java-based modular machine learning framework for ML model training.
-- **User Metrics**: Organization has 1 follower and 2 following accounts; no projects or packages listed.
+- **GitHub Organization**: `supermlorg` is a GitHub organization with 1 repository, 0 projects, 0 packages, and 4 stars.
+- **Achievements**: Holds two GitHub achievements: "Pull Shark" and "YOLO".
+- **Pinned Repository**: `superml-java` is a modular machine learning framework for Java, supporting ML model training.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-25T22:58:27.673967+05:30
+- Published: 2026-07-08T16:54:31.755553+05:30
 
 ## Related Tags
 

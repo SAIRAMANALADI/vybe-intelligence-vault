@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by xinit. Score: 299, Comments: 68.
+Hacker News story by xinit. Score: 316, Comments: 75.
 Original Link: https://davit.app
 
 ## Use Cases

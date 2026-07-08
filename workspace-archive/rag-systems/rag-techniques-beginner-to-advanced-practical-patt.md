@@ -7,9 +7,9 @@ source_url: https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginne
 resource_id: blog:rag-techniques-beginner-to-advanced-practical-patt
 local_vault_path: ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md
 quality_score: 70
-archive_score: 78
+archive_score: 76
 archive_tier: useful
-resource_kind: prompt
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -32,8 +32,8 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 78 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 76 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
@@ -42,9 +42,9 @@ selection_reason:
 
 - **Core RAG Architecture**: Combines a retriever (dense/sparse embeddings + vector search or BM25) with an LLM generator to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates.
 
-- **Minimal Pipeline Components**: Uses `sentence-transformers` for embeddings, FAISS for vector search, and `transformers` (e.g., Flan-T5) for generation; requires document chunking, embedding indexing, and retrieval-augmented prompting.
+- **Minimal Pipeline Components**: Uses `sentence-transformers` for embeddings, FAISS for vector storage/search, and a lightweight LLM (e.g., Flan-T5) for generation; documents are chunked and embedded for retrieval.
 
-- **Intermediate/Advanced Techn
+- **Intermediate/Advanced Enhancements**: Techniques
 
 ## Use Cases
 

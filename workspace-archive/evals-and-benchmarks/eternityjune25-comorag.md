@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retrieval.
-
-- **Stateful Reasoning**: Implements dynamic memory updates and hierarchical retrieval mechanisms to maintain contextual coherence across extended dialogues or narratives.
-
-- **AAAI 2026 Poster**: Presented as a cutting-edge approach in retrieval-augmented generation (RAG), emphasizing scalability and effici
+- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retention.
+- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended interactions, enhancing multi-turn reasoning capabilities.
+- **AAAI 2026 Submission**: Presented as a poster at AAAI 2026, demonstrating empiri
 
 ## Use Cases
 

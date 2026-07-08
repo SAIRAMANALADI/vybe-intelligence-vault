@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **TypeScript-based MCP Server**: Converts REST APIs into paid MCP servers with minimal configuration, enabling monetization of AI agent interactions via OpenAPI specs.
-
-- **Agentic Workflow Engine**: Supports stateful, multi-step AI agent workflows with tool orchestration, context management, and automatic API-to-tool binding.
-
-- **OpenAI & LLM Integration**: Built-in support for OpenAI-compatible models, structured outputs, and streaming responses, optimized for agentic AI applications.
+- **TypeScript-based MCP Framework**: Open-source library (`agentic`) for converting APIs into paid MCP servers, enabling monetization of AI agent interactions via OpenAI-compatible interfaces.
+- **Agent Orchestration**: Supports dynamic agent workflows with LLM-driven task decomposition, state management, and tool integration for complex AI agent systems.
+- **Real-time API Monetization**: Implements rate-limiting, subscription tiers, and usage tracking to enable per-call or tiered billing for A
 
 ## Use Cases
 

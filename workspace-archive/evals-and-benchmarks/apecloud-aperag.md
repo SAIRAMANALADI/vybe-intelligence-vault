@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal indexing**: Supports structured (knowledge graphs) and unstructured (text, images) data integration with vector embeddings for hybrid retrieval.
-- **Agentic workflows & MCP integration**: Implements AI agents for dynamic query planning and leverages Model Context Protocol (MCP) for tool orchestration.
-- **Scalable K8s deployment**: Containerized architecture with Helm charts for orchestration, enabling horizontal scaling and production-grade resilience.
+- **Multi-modal indexing**: Supports diverse data types (text, images, structured data) for unified graph-based retrieval and processing.
+- **AI agents & MCP integration**: Enables autonomous agent workflows with Model Context Protocol (MCP) for dynamic tool orchestration.
+- **Scalable K8s deployment**: Designed for Kubernetes with horizontal scaling, ensuring high availability and distributed graph processing.
 
 ## Use Cases
 

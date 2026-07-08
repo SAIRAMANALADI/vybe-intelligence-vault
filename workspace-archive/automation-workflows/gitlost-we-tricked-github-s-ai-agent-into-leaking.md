@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by ColinEberhardt. Score: 128, Comments: 38.
+Hacker News story by ColinEberhardt. Score: 224, Comments: 95.
 Original Link: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/
 
 ## Use Cases

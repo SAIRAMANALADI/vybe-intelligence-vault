@@ -11,11 +11,11 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - dataset
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose-built RAG Toolkit**: Provides a Python-based framework for constructing production-grade Retrieval Augmented Generation (RAG) pipelines optimized for custom datasets.
+- **Purpose-built RAG toolkit**: Provides a Python-based framework for constructing production-grade Retrieval-Augmented Generation (RAG) pipelines optimized for custom datasets.
 
-- **Modular Architecture**: Implements configurable components (e.g., embedders, retrievers, LLMs) to enable end-to-end RAG workflows with tunable parameters for performance and scalability.
+- **Modular architecture**: Implements reusable components for data ingestion, chunking, embedding, vector storage, retrieval, and LLM integration with configurable pipelines.
 
-- **Open-Source & Extensible**: Released under an open-source license (MIT) with active community contributions, supporting inte
+- **Performance-focused features**: Includes benchmarking, evaluation metrics, and optimization tools to enhance retrieval quality, latency, an
 
 ## Use Cases
 

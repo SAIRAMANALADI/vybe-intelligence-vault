@@ -6,19 +6,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://digipres.org/the-floppy-guide
 hn_url: https://news.ycombinator.com/item?id=48827092
-score: 61
+score: 84
 author: whiteblossom
-comments_count: 14
+comments_count: 25
 published_at: '2026-07-08T08:52:31+05:30'
-collected_at: '2026-07-08T14:15:37.173868+05:30'
+collected_at: '2026-07-08T16:49:12.635691+05:30'
 tags:
 - hackernews
 - rag
 status: active
 resource_id: hackernews:copy-that-floppy-cambridge-guide-for-preserving-da
 first_seen: '2026-07-08T14:15:37.173868+05:30'
-last_seen: '2026-07-08T14:15:37.173868+05:30'
-last_checked: '2026-07-08T14:15:37.173868+05:30'
+last_seen: '2026-07-08T16:49:12.635691+05:30'
+last_checked: '2026-07-08T16:49:12.635691+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by whiteblossom. Score: 61, Comments: 14.
+Hacker News story by whiteblossom. Score: 84, Comments: 25.
 Original Link: https://www.digipres.org/the-floppy-guide/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: whiteblossom
-- Score: 61 Upvotes
-- Comments: 14 Discussions
+- Score: 84 Upvotes
+- Comments: 25 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48827092
 - Original Article: https://digipres.org/the-floppy-guide
 

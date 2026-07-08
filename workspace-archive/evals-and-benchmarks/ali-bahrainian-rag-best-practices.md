@@ -6,17 +6,19 @@ source_url: https://github.com/ali-bahrainian/RAG_best_practices
 resource_id: github:ali-bahrainian/rag_best_practices
 local_vault_path: ai/rag/ali-bahrainian-rag-best-practices.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # ali-bahrainian/RAG_best_practices
@@ -24,17 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
 - **Repository Overview**: GitHub repository focused on best practices for Retrieval-Augmented Generation (RAG) systems, containing Python-based implementations and guidelines.
-- **Metadata**: 107 stars, 20 forks, last updated on **2026-06-19T11:36:42Z**.
-- **Scope**: No additional topics or description provided; likely a niche or emerging resource in the RAG domain.
+- **Activity Metrics**: 107 stars, 20 forks, last updated on 2026-06-19, indicating active maintenance and community engagement.
+- **Technical Scope**: Lacks explicit documentation but targets RAG optimization, likely covering retrieval strategies, model integration, and evaluation frameworks.
 
 ## Use Cases
 

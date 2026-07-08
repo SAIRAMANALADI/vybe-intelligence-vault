@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-07-08T14:18:00.866416+05:30'
+collected_at: '2026-07-08T16:51:16.375668+05:30'
 published_at: '2026-07-07T00:17:48Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 stars: 295
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-07-08T14:18:00.866416+05:30'
-last_seen: '2026-07-08T14:18:00.866416+05:30'
-last_checked: '2026-07-08T14:18:00.866416+05:30'
+first_seen: '2026-07-08T16:51:16.375668+05:30'
+last_seen: '2026-07-08T16:51:16.375668+05:30'
+last_checked: '2026-07-08T16:51:16.375668+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **CRAG**: A comprehensive benchmark framework for evaluating Retrieval-Augmented Generation (RAG) systems, designed to assess performance across diverse tasks and datasets.
-- **Implementation**: Provided as Jupyter Notebooks, enabling reproducible experimentation and modular evaluation of RAG components (retriever, generator, and knowledge sources).
-- **Benchmark Scope**: Covers multiple dimensions (e.g., factuality, robustness, latency) to systematically analyze RAG models under varying conditions and failure modes.
+- **Benchmark Framework**: CRAG provides a comprehensive benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, enabling standardized assessment of performance across diverse tasks and datasets.
+
+- **Technical Implementation**: Implemented in Jupyter Notebooks, the repository includes modular components for retrieval, generation, and evaluation, facilitating reproducibility and extensibility.
+
+- **Evaluation Metrics**: Supports multi-dimensional metrics (e.g., accuracy, latency, robustness) to analyze RAG pipelines under varying conditions, including noisy or adversarial inputs.
 
 ## Why It Matters
 

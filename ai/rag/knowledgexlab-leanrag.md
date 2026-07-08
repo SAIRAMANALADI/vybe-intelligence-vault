@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-07-08T14:18:30.871496+05:30'
+collected_at: '2026-07-08T16:51:46.386533+05:30'
 published_at: '2026-07-07T06:11:04Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 251
@@ -17,9 +19,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-07-08T14:18:30.871496+05:30'
-last_seen: '2026-07-08T14:18:30.871496+05:30'
-last_checked: '2026-07-08T14:18:30.871496+05:30'
+first_seen: '2026-07-08T16:51:46.386533+05:30'
+last_seen: '2026-07-08T16:51:46.386533+05:30'
+last_checked: '2026-07-08T16:51:46.386533+05:30'
 health_score: 100
 ---
 
@@ -27,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation**: Implements a knowledge-graph-based approach to aggregate and integrate semantic information for improved retrieval and generation in RAG systems.
+- **Semantic Aggregation & Hierarchical Retrieval**: Introduces a knowledge-graph-based RAG framework with multi-layered retrieval (semantic aggregation + hierarchical paths) to enhance contextual relevance and reduce noise in generated outputs.
 
-- **Hierarchical Retrieval**: Utilizes a multi-level retrieval mechanism to efficiently extract relevant data from knowledge graphs, optimizing both precision and recall.
+- **Efficiency Optimizations**: Implements lightweight graph traversal and pruning techniques to minimize computational overhead while maintaining high retrieval precision, as validated on AAAI 2026 benchmarks.
 
-- **LeanRAG Framework**: A lightweight Python-based RAG system designed for AAAI 2026, focusing on modularity and efficiency in knowledge-graph-driven generation tasks.
+- **Modular Python Implementation**: Provides a scalable, open-source toolkit with plug-and-play components for integrating knowledge graphs into LLMs, supporting dynamic updates and domain adaptation.
 
 ## Why It Matters
 

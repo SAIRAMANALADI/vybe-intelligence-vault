@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/google/flan-t5-base
-published_at: '2026-07-08T09:21:00.842529+05:30'
-collected_at: '2026-07-08T09:21:00.842538+05:30'
+published_at: '2026-07-08T16:54:27.093902+05:30'
+collected_at: '2026-07-08T16:54:27.093912+05:30'
 tags:
 - benchmark
 - dataset
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: huggingface:google/flan-t5-base
-first_seen: '2026-07-08T09:21:00.842538+05:30'
-last_seen: '2026-07-08T09:21:00.842538+05:30'
-last_checked: '2026-07-08T09:21:00.842538+05:30'
+first_seen: '2026-07-08T16:54:27.093912+05:30'
+last_seen: '2026-07-08T16:54:27.093912+05:30'
+last_checked: '2026-07-08T16:54:27.093912+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Overview**: GSM8K is a benchmark dataset consisting of 17.6k high-quality linguistically diverse grade school math word problems, designed to evaluate multi-step mathematical reasoning in language models.
+- **Dataset Overview**: GSM8K is a benchmark dataset comprising 8.5K high-quality linguistically diverse grade school math word problems, designed to evaluate multi-step mathematical reasoning in language models.
 
-- **Scale & Metrics**: The dataset includes 966k tokens and has been evaluated by 1.43k participants, providing a substantial basis for assessing model performance in mathematical reasoning tasks.
+- **Evaluation Metric**: Performance is measured by exact match accuracy, requiring correct final answers derived through valid multi-step reasoning paths.
 
-- **Purpose & Use Case**: Primarily used to test the ability of AI models to solve complex, multi-step arithmetic problems through natural language understanding and logical reasoning.
+- **Usage Context**: Primarily used to assess and compare the mathematical reasoning capabilities of large language models, with standardized splits for training (7.5K) and testing (1K).
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-08T09:21:00.842529+05:30
+- Published: 2026-07-08T16:54:27.093902+05:30
 
 ## Related Tags
 

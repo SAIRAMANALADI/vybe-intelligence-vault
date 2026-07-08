@@ -8,16 +8,15 @@ local_vault_path: ai/rag/virattt-dexter.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: workflow
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-- workflows
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # virattt/dexter
@@ -26,15 +25,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: workflow
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Autonomous Financial Research Agent**: Open-source TypeScript-based system designed for autonomous deep financial research, leveraging AI-driven data analysis and decision-making.
-- **High Scalability & Modularity**: Implements a plugin-based architecture for extensibility, enabling integration with financial APIs, databases, and custom research modules.
-- **Real-Time Data Processing**: Utilizes asynchronous event-driven workflows for live market data ingestion, sentiment analysis, and autom
+- **Autonomous Financial Research Agent**: Implements deep learning models (e.g., LLMs, transformers) to autonomously analyze financial markets, generate insights, and execute research tasks without manual intervention.
+
+- **TypeScript-Based Architecture**: Leverages TypeScript for modular, scalable backend/frontend integration, enabling real-time data processing and interactive financial dashboarding.
+
+- **Open-Source Autonomous Framework**: Designed for extensibility, supporting plugins for da
 
 ## Use Cases
 

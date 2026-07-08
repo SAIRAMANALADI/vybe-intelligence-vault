@@ -4,24 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ghuntley/how-to-build-a-coding-agent
-collected_at: '2026-07-08T14:18:55.862825+05:30'
-published_at: '2026-07-08T05:23:19Z'
+collected_at: '2026-07-08T16:52:11.394516+05:30'
+published_at: '2026-07-08T10:39:24Z'
 tags:
 - agents
 - github-repo
 - go
-- hackernews
-- reddit
-stars: 5727
+- workflows
+stars: 5728
 language: Go
 status: active
 archived: false
 created_at: '2025-07-24T03:56:29Z'
 pushed_at: '2026-07-03T03:52:40Z'
 resource_id: github:ghuntley/how-to-build-a-coding-agent
-first_seen: '2026-07-08T14:18:55.862825+05:30'
-last_seen: '2026-07-08T14:18:55.862825+05:30'
-last_checked: '2026-07-08T14:18:55.862825+05:30'
+first_seen: '2026-07-08T16:52:11.394516+05:30'
+last_seen: '2026-07-08T16:52:11.394516+05:30'
+last_checked: '2026-07-08T16:52:11.394516+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Workshop Objective**: Provides step-by-step guidance to construct a **coding agent** (e.g., Roo Code, Cline, Amp) using **Go**, covering architecture, tooling, and integration with AI models.
-- **Technical Stack**: Implements core components like **LLM interaction**, **file system management**, **code execution**, and **multi-agent coordination** in Go.
-- **Key Features**: Includes **tutorials on agent orchestration**, **real-time debugging**, and **IDE plugin development** (Cursor/Windsurf compatibility).
+- **Go-based workshop**: Provides a structured tutorial for building a coding agent (e.g., similar to Cursor, Cline, or Amp) using Go, covering core agent architecture and workflows.
+
+- **Multi-tool integration**: Focuses on enabling the agent to interact with external tools (e.g., file systems, APIs) for autonomous coding tasks, debugging, and project navigation.
+
+- **Open-source template**: Offers a starter repository with modular components (e.g., LLM interfaces, tooling abstractions) to accelerate development of AI-powered coding assistants.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ghuntley
-- Stars: 5727
+- Stars: 5728
 - Forks: 640
 - Language: Go
 - Topics: agent, ai, cursor, tutorial, workshop
-- Last Updated: 2026-07-08T05:23:19Z
+- Last Updated: 2026-07-08T10:39:24Z
 - Archived: No
 - Created At: 2025-07-24T03:56:29Z
 - Pushed At: 2026-07-03T03:52:40Z

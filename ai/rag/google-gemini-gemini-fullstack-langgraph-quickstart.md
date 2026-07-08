@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart
-collected_at: '2026-07-08T14:20:46.040256+05:30'
+collected_at: '2026-07-08T16:54:01.575628+05:30'
 published_at: '2026-07-08T07:30:20Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-05-22T11:59:02Z'
 pushed_at: '2026-06-14T05:25:52Z'
 resource_id: github:google-gemini/gemini-fullstack-langgraph-quickstart
-first_seen: '2026-07-08T14:20:46.040256+05:30'
-last_seen: '2026-07-08T14:20:46.040256+05:30'
-last_checked: '2026-07-08T14:20:46.040256+05:30'
+first_seen: '2026-07-08T16:54:01.575628+05:30'
+last_seen: '2026-07-08T16:54:01.575628+05:30'
+last_checked: '2026-07-08T16:54:01.575628+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates building fullstack agents using **Gemini 2.5** and **LangGraph** for agentic workflows.
-- **Technical Stack**: Implemented in **Jupyter Notebooks**, leveraging the **Gemini API** for LLM interactions and **LangGraph** for stateful graph-based agent orchestration.
-- **Key Features**: Provides a starter template for integrating **Gemini 2.5** with **LangGraph** to create scalable, multi-agent systems with structured workflows.
+- **Purpose**: Demonstrates building fullstack agents using **Gemini 2.5** and **LangGraph**, leveraging Jupyter Notebooks for agentic workflows.
+- **Key Components**: Integrates **Gemini API** for LLM capabilities and **LangGraph** for stateful, multi-actor agent orchestration.
+- **Technical Stack**: Python-based, with dependencies on LangGraph for graph-based agent execution and Gemini 2.5 for model inference.
 
 ## Why It Matters
 

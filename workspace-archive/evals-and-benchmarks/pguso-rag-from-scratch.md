@@ -8,7 +8,7 @@ local_vault_path: ai/rag/pguso-rag-from-scratch.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: prompt
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -29,16 +29,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: prompt
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline in JavaScript using `node-llama-cpp` for local LLM integration, avoiding proprietary APIs or black-box systems.
-- **Core Components**: Covers end-to-end RAG workflow—embeddings generation, vector search (likely via cosine similarity), retrieval augmentation, and context-aware prompt engineering for generation.
-- **Educational Focus**: Provides a hands-on tutorial to dissect RAG mechanics (e.g., chunking, indexing, r
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using **JavaScript**, emphasizing transparency with local LLMs (via `node-llama-cpp`) to avoid black-box abstractions.
+- **Core Components**: Implements embeddings, vector search, retrieval mechanisms, and context-augmented generation, providing hands-on understanding of each stage in the RAG workflow.
+- **Tooling & Extensibility**: Built with **Node.js**, leveraging `node-llama-cpp` for
 
 ## Use Cases
 

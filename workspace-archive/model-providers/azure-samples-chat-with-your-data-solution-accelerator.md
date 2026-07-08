@@ -12,10 +12,10 @@ resource_kind: template
 importance: medium
 tags:
 - github-repo
+- models
 - openai
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** models for generating ChatGPT-style and Q&A responses, adhering to best practices.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for vector-based retrieval and **Azure OpenAI** LLMs (e.g., `gpt-4`) for generative responses, with a Python-based microservice backend.
 
-- **Azure Deployment**: Utilizes **Azure Developer CLI (azd) templates** for infrastructure-as-code deployment, ensuring scalable and reproducible setups in Azure.
-
-- **Python-Based**: Provides a **Python-based** solution accelerator with pre-configured components for vecto
+- **Key Components**:
+  - **Retrieval**: Azure AI Search with vector embeddings (e.g., `text-embedding-ada-002`) and hybrid search (keyword + semantic).
+  - **Generation**: Azure OpenAI chat/completion endpoints with prompt engineering for grounded Q&
 
 ## Use Cases
 

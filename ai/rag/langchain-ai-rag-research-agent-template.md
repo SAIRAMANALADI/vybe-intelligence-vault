@@ -4,16 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-07-08T14:17:10.870313+05:30'
+collected_at: '2026-07-08T16:50:26.397050+05:30'
 published_at: '2026-07-06T11:16:05Z'
 tags:
 - agents
 - github-repo
-- hackernews
-- openai
 - python
 - rag
-- workflows
 stars: 313
 language: Python
 status: active
@@ -22,9 +19,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-07-08T14:17:10.870313+05:30'
-last_seen: '2026-07-08T14:17:10.870313+05:30'
-last_checked: '2026-07-08T14:17:10.870313+05:30'
+first_seen: '2026-07-08T16:50:26.397050+05:30'
+last_seen: '2026-07-08T16:50:26.397050+05:30'
+last_checked: '2026-07-08T16:50:26.397050+05:30'
 health_score: 100
 ---
 
@@ -32,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a structured starter implementation for a Retrieval-Augmented Generation (RAG) research agent using LangChain, facilitating document retrieval and synthesis workflows.
+- **Template Structure**: Provides a modular Python framework for building Retrieval-Augmented Generation (RAG) research agents, leveraging LangChain components for document processing, vector storage, and agent orchestration.
 
-- **Key Components**: Includes modular components for document loaders, vector stores (e.g., Chroma, FAISS), retrievers, and LLM integration (e.g., LangChain’s `ChatOpenAI` or similar).
+- **Key Components**: Includes pre-configured pipelines for document ingestion (e.g., PDF/Markdown loaders), embedding generation (e.g., HuggingFace/Sentence-Transformers), vector search (e.g., FAISS/Chroma), and agent toolkits (e.g., web search, code execution).
 
-- **Technical Stack**: Built in Python with dependencies on LangChain, likely leveraging frameworks like `pydantic` for data validation, `langchain-community` for integrations, and `langserve` for deployment.
+- **Deployment-Ready**: Supports Dockerized setups for local/remote execution, with hooks for integrating custom LLMs (e.g., via LangChain’s LLM abstraction) and APIs (e.g., Tavily, SerpAPI) for enhanced research capabilities.
 
 ## Why It Matters
 

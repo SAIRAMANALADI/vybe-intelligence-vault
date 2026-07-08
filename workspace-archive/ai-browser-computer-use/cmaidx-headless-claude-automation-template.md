@@ -14,8 +14,10 @@ tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - scripts
 - shell
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-*   Automates end-to-end software delivery via headless Claude agents, translating requirements documents into reviewable pull requests.
-*   Implements a multi-agent CI/CD pipeline utilizing GitHub Actions for autonomous code generation and integration.
-*   Provides a reusable template for AI-driven autonomous coding, emphasizing headless agent orchestration for SDLC automation.
+- **Template Purpose**: Enables autonomous software delivery via headless Claude agents, transforming requirements documents into reviewed pull requests.
+- **Key Components**: Integrates CI/CD pipelines, multi-agent orchestration, and GitHub Actions for automated workflow execution.
+- **Technical Stack**: Shell-based automation with support for Linear, Claude Code, and multi-agent collaboration.
 
 ## Use Cases
 

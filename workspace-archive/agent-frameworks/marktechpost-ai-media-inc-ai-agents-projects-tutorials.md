@@ -6,14 +6,13 @@ source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tuto
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
 local_vault_path: ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - workflows
@@ -27,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Architectures**: Repository focuses on designing and implementing multi-agent systems with emphasis on modular agent skills, inter-agent communication, and distributed workflows for complex AI tasks.
-
-- **Memory & Reasoning Loops**: Includes tutorials on integrating memory systems (short/long-term) and iterative reasoning loops to enable agents to plan, reflect, and adapt dynamically during task execution.
-
-- **Agentic RAG & Workflows**: Demonstrates advanced Retrieval-Augmented
+- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed roles, emphasizing inter-agent communication and task delegation.
+- **Memory & reasoning loops**: Implements persistent memory architectures and iterative reasoning pipelines for adaptive decision-making in agentic workflows.
+- **Agentic frameworks**: Provides Jupyter Notebook-based tutorials for agentic AI development, covering RAG, planning, and skill integration in modular architectures.
 
 ## Use Cases
 

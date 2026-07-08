@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-07-08T14:16:45.925169+05:30'
-published_at: '2026-07-08T08:33:47Z'
+collected_at: '2026-07-08T16:49:56.338727+05:30'
+published_at: '2026-07-08T11:19:13Z'
 tags:
 - github-repo
 - hackernews
@@ -13,17 +13,16 @@ tags:
 - models
 - python
 - rag
-- workflows
-stars: 9316
+stars: 9324
 language: Python
 status: active
 archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-06-05T08:29:26Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-07-08T14:16:45.925169+05:30'
-last_seen: '2026-07-08T14:16:45.925169+05:30'
-last_checked: '2026-07-08T14:16:45.925169+05:30'
+first_seen: '2026-07-08T16:49:56.338727+05:30'
+last_seen: '2026-07-08T16:49:56.338727+05:30'
+last_checked: '2026-07-08T16:49:56.338727+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Development Guide**: A full-stack technical manual for Retrieval-Augmented Generation (RAG) applications, covering end-to-end implementation with modern AI frameworks (LangChain, LlamaIndex) and multimodal integration.
+- **Comprehensive RAG Development Guide**: Provides a full-stack technical guide for building Retrieval-Augmented Generation (RAG) applications with large language models (LLMs), covering architectures, tools, and best practices.
 
-- **Multi-Tool Integration**: Demonstrates RAG pipelines using vector databases (Milvus), graph databases (Neo4j), and LLM APIs (DeepSeek, Kimi-K2) with Python-based workflows.
+- **Multi-Tool Integration**: Demonstrates integration with frameworks like LangChain, LlamaIndex, and vector databases (Milvus), alongside graph databases (Neo4j) and multimodal capabilities.
 
-- **Updated Technical Resource**: Repository last modified on **2026-07-08**, featuring 9.3K+ stars and 4.6K+ forks, serving as a living reference for cutting-edge RAG architectures.
+- **LLM & Embedding Optimization**: Focuses on optimizing LLMs (e.g., DeepSeek, Kimi-K2) with advanced embedding techniques and multimodal processing for enhanced retrieval and generation performance.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 9316
-- Forks: 4641
+- Stars: 9324
+- Forks: 4644
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
-- Last Updated: 2026-07-08T08:33:47Z
+- Last Updated: 2026-07-08T11:19:13Z
 - Archived: No
 - Created At: 2025-06-05T08:12:35Z
 - Pushed At: 2026-06-05T08:29:26Z

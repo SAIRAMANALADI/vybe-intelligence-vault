@@ -4,12 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-08T14:18:35.831477+05:30'
+collected_at: '2026-07-08T16:51:51.369842+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
-- benchmark
 - github-repo
-- paper
 - python
 - rag
 stars: 173
@@ -20,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-08T14:18:35.831477+05:30'
-last_seen: '2026-07-08T14:18:35.831477+05:30'
-last_checked: '2026-07-08T14:18:35.831477+05:30'
+first_seen: '2026-07-08T16:51:51.369842+05:30'
+last_seen: '2026-07-08T16:51:51.369842+05:30'
+last_checked: '2026-07-08T16:51:51.369842+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling Retrieval-Augmented Generation (RAG) across diverse data modalities (text, images, tables, etc.) and granularities (documents, paragraphs, entities), leveraging unified retrieval and generation mechanisms.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling Retrieval-Augmented Generation (RAG) over diverse data modalities (text, images, tables) and granularities (documents, paragraphs, entities) with unified retrieval and generation mechanisms.
 
-- **ACL 2026 Oral Paper**: Presents a novel architecture with experimental validation on heterogeneous corpora, demonstrating superior performance in cross-modal retrieval and generation tasks compared to modality-specific baselines.
+- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval system leveraging modality-specific encoders (e.g., CLIP for images, BERT for text) and a shared embedding space for heterogeneous data fusion.
 
-- **Open-Source Implementation**: Provides a Python-based, modular toolkit with pre-trained models, retrieval pipelines, and evaluation benchmarks, facilitating reproducibility and extension for multimodal RAG research.
+- **Adaptive Generation Pipeline**: Features a dynamic generation module that selects and synthesizes retrieved content based on query context, optimizing for coherence and factual accuracy across modalities.
 
 ## Why It Matters
 

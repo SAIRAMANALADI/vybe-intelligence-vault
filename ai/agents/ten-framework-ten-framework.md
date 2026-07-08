@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TEN-framework/ten-framework
-collected_at: '2026-07-08T14:19:10.935576+05:30'
+collected_at: '2026-07-08T16:52:26.413968+05:30'
 published_at: '2026-07-08T08:40:09Z'
 tags:
 - agents
 - github-repo
 - python
+- workflows
 - youtube
 stars: 10860
 language: Python
@@ -17,11 +18,11 @@ status: active
 license: NOASSERTION
 archived: false
 created_at: '2024-06-19T14:26:15Z'
-pushed_at: '2026-07-08T08:45:00Z'
+pushed_at: '2026-07-08T10:40:53Z'
 resource_id: github:ten-framework/ten-framework
-first_seen: '2026-07-08T14:19:10.935576+05:30'
-last_seen: '2026-07-08T14:19:10.935576+05:30'
-last_checked: '2026-07-08T14:19:10.935576+05:30'
+first_seen: '2026-07-08T16:52:26.413968+05:30'
+last_seen: '2026-07-08T16:52:26.413968+05:30'
+last_checked: '2026-07-08T16:52:26.413968+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal real-time framework**: Open-source Python-based system enabling conversational voice AI agents with real-time audio/video processing capabilities.
-- **Modular architecture**: Designed for extensibility with support for multi-modal inputs/outputs (voice, video) and dynamic agent interactions.
-- **Active development**: Last updated July 2026, with 10.8K+ stars and 1.3K+ forks, indicating strong community adoption and ongoing enhancements.
+- **Framework Purpose**: Open-source Python-based framework designed for building real-time, multi-modal conversational voice AI agents with video and voice capabilities.
+- **Key Features**: Enables real-time interactions, supports multi-modal inputs/outputs (voice, video), and facilitates agent-based conversational AI workflows.
+- **Project Status**: Actively maintained with the latest update on 2026-07-08, featuring 10,860 stars and 1,319 forks on GitHub.
 
 ## Why It Matters
 
@@ -48,7 +49,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-06-19T14:26:15Z
-- Pushed At: 2026-07-08T08:45:00Z
+- Pushed At: 2026-07-08T10:40:53Z
 
 ## Possible Use Cases
 

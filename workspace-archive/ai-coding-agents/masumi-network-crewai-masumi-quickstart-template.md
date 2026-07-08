@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Purpose**: Provides a quickstart framework for integrating CrewAI with Masumi Network, though specific functionality remains undocumented.
-- **Repository Stats**: 13 stars, 20 forks, Python-based, last updated April 12, 2026.
-- **Structure**: Minimalist template with no predefined topics or extended documentation.
+- **Repository**: `masumi-network/crewai-masumi-quickstart-template` (Python-based template)
+- **Metadata**: 13 ⭐, 20 🍴, last updated 2026-04-12
+- **Purpose**: Presumed starter template for integrating CrewAI with Masumi Network (no explicit description provided)
 
 ## Use Cases
 

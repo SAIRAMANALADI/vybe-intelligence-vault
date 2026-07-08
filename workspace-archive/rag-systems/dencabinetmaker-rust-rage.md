@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
+- hackernews
 - rag
 - reddit
 - unknown
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `DenCabinetmaker/Rust-Rage` is a Rust-based repository containing a collection of game cheats (aimbot, wallhack, ESP) for an unspecified target, last updated on **2026-07-07**.
-- **Metadata**: The repository has **45 stars**, **18 forks**, and an unknown primary language, with no listed topics.
-- **Purpose**: The project is explicitly labeled as a **cheat framework** for potential exploitation in a game environment, though the specific game is not identified.
+- **Repository**: `DenCabinetmaker/Rust-Rage` is a Rust-based repository containing a collection of game cheats (aimbot, wallhack, ESP) for the game Rust, last updated on **2026-07-07**.
+- **Metadata**: The repository has **45 stars**, **18 forks**, and an unspecified primary language, with no listed topics.
+- **Purpose**: The project is explicitly designed as a **cheat framework** targeting Rust (2026), though no further technical details are provided in the metadata.
 
 ## Use Cases
 

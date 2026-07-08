@@ -14,8 +14,8 @@ Building a startup requires integrating landing pages, auth, Stripe, and AI tool
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
 - [GitHub - algolia/firestore-algolia-search at 6af4b6de9301f25718743af54105d37ebd0606f1 · GitHub](https://github.com/algolia/firestore-algolia-search/tree/6af4b6de9301f25718743af54105d37ebd0606f1) (tutorial - USEFUL Tier)
 - [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](https://github.com/) (tutorial - USEFUL Tier)
+- [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (workflow - USEFUL Tier)
 - [EasyFrontendHQ/html-tailwindcss-components](https://github.com/easyfrontendhq/html-tailwindcss-components) (template - USEFUL Tier)
-- [ixartz/SaaS-Boilerplate](https://github.com/ixartz/saas-boilerplate) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,9 +23,9 @@ https://github.com/shadcn-ui/taxonomy (Taxonomy App)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
 - [GitHub - algolia/firestore-algolia-search at 6af4b6de9301f25718743af54105d37ebd0606f1 · GitHub](https://github.com/algolia/firestore-algolia-search/tree/6af4b6de9301f25718743af54105d37ebd0606f1)
 - [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](https://github.com/)
+- [vin67/crewai_docker](https://github.com/vin67/crewai_docker)
 - [EasyFrontendHQ/html-tailwindcss-components](https://github.com/easyfrontendhq/html-tailwindcss-components)
 - [ixartz/SaaS-Boilerplate](https://github.com/ixartz/saas-boilerplate)
-- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/shadcn-ui/taxonomy (Taxonomy App)
 
 ---
 
-*Last updated: 2026-07-08 14:33 IST*
+*Last updated: 2026-07-08 17:06 IST*

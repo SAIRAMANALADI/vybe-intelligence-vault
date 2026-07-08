@@ -9,11 +9,10 @@ local_vault_path: ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: template
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
-- hackernews
 - models
 - openai
 - paper
@@ -22,7 +21,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org
@@ -31,16 +30,16 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: template
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **RAG Architecture**: A 5-stage pipeline—**Load** (ingest documents), **Chunk** (split into retrieval-sized pieces), **Embed** (convert to vectors via `text-embedding-3-small`), **Retrieve** (semantic search with ChromaDB), and **Generate** (LLM synthesizes answer from retrieved context using `gpt-4o-mini`).
+- **RAG Pipeline**: A 5-step process comprising **Load** (ingest documents), **Chunk** (split into retrieval-sized segments), **Embed** (convert to vector embeddings via `text-embedding-3-small`), **Retrieve** (semantic search using ChromaDB with `k=4` top chunks), and **Generate** (LLM inference with `gpt-4o-mini` using retrieved context).
 
-- **Key Technical Components**: Uses **LangChain** for orchestration, **ChromaDB** for vector storage, and **OpenAI’s embedding/Chat models**; retriever configured with `k=4` for top chun
+- **Chunking Strategy**: Uses `RecursiveCharacterTextSplitter` with 512-token chunks and 50-token overlap to balance semantic coherence and retrieval granul
 
 ## Use Cases
 

@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for graph retrieval-augmented generation (GraphRAG), leveraging distributed agent interactions for enhanced knowledge retrieval and generation.
+- **Multi-Agent System with Memory Integration**: Introduces a memory-based multi-agent framework (`MemGraphRAG`) where agents collaboratively construct and query graph-based knowledge structures, leveraging agent-specific memory for dynamic context retention and retrieval.
 
-- **Graph & Ontology Construction**: Dynamically constructs and integrates graph structures and ontologies to improve contextual understanding and retrieval efficiency in RAG pipelines.
-
-- **Python Implementation**: Provides an open-source Python framework optimized for large-s
+- **Graph Retrieval-Augmented Generation (GraphRAG)**: Enhances LLM outputs by integrating graph-based retrieval with generation, using ontology-driven graph construction to improve factual accuracy and contextual relevance
 
 ## Use Cases
 

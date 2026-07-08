@@ -14,8 +14,10 @@ tags:
 - benchmark
 - github-repo
 - hackernews
+- models
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Optimization Framework**: Repository provides Python-based best practices for optimizing Retrieval-Augmented Generation (RAG) pipelines, focusing on large model integration with retrieval mechanisms.
-- **Technical Components**: Includes implementations for document preprocessing, vector embedding storage (e.g., FAISS/Chroma), and hybrid retrieval strategies (dense + sparse).
-- **Evaluation & Scalability**: Demonstrates benchmarking methodologies for RAG systems and scalable architectures
+- **RAG Optimization Framework**: Implements advanced retrieval-augmented generation (RAG) techniques for large language models (LLMs), focusing on retrieval quality, prompt engineering, and generation fine-tuning.
+
+- **Modular Python Implementation**: Provides a structured, extensible codebase in Python for integrating RAG pipelines, including document preprocessing, vector storage, and query-response workflows.
+
+- **Best Practices Documentation**: Includes benchmarking methodologies and perfor
 
 ## Use Cases
 

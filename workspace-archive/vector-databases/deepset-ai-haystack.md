@@ -1,43 +1,36 @@
 ---
-title: deepset-ai/haystack · Discussions · GitHub
+title: deepset-ai/haystack
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack/discussions
+source_url: https://github.com/deepset-ai/haystack?source=post_page
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
-archive_score: 75
-archive_tier: useful
-resource_kind: framework
-importance: medium
-tags:
-- agents
-- anthropic
-- hackernews
-- rag
-- web-crawled
-- workflows
+archive_score: 85
+archive_tier: essential
+resource_kind: benchmark
+importance: high
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
-# deepset-ai/haystack · Discussions · GitHub
+# deepset-ai/haystack
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 85 (essential)
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Haystack GitHub Repository**: Open-source framework by deepset-ai with 25.8k stars, 2.9k forks, and active development (71 issues, 40 PRs) for modular NLP pipelines, particularly RAG systems.
+- **Modular AI Orchestration**: Haystack enables building production-ready LLM applications via configurable pipelines for retrieval, routing, memory, and generation, supporting scalable agents, RAG, and multimodal systems.
 
-- **Community Discussions**: Active technical forum covering runtime debugging (e.g., DoclingConverter page ranges, event loop handling), security (AgentShield, memory guards), and diagnostics (Haystack Diagnostics Engine) for RAG pipeline optimization.
+- **Technical Stack**: Implemented in Python with PyTorch, it integrates transformers, semantic search, and retrieval-augmented generation (RAG) for advanced NLP tasks like QA and summarization.
 
-- **Documentation & Tooling**: New open-source d
+- **Agent & Workflow Control**: Provides explicit control over agent workflows,
 
 ## Use Cases
 
@@ -47,7 +40,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack/discussions
+Original source URL: https://github.com/deepset-ai/haystack?source=post_page
 
 ## Local Vault File
 

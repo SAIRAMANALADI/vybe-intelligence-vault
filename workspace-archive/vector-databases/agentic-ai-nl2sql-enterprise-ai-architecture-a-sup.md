@@ -9,14 +9,14 @@ local_vault_path: ai/rag/agentic-ai-nl2sql-enterprise-ai-architecture-a-sup.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
 - rag
 - web-crawled
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Agentic AI, NL2SQL & Enterprise AI Architecture â SuperML.dev | SuperML.dev â AI/ML Architecture for Enterprise
@@ -25,17 +25,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Regulatory Precedent**: A Pennsylvania bank disclosed unauthorized employee use of an external AI tool on customer data via SEC Form 8-K, establishing "shadow AI" as a material cybersecurity risk requiring mandatory reporting.
+- **AK-RAG Architecture**: Replaces standard RAG's unconstrained field generation with an indexed governed attribute catalog, restricting LLM outputs to pre-defined `attribute_ids` to prevent schema drift.
 
-- **Compliance Implications**: Regulators now explicitly classify ungoverned AI tool usage as a cybersecurity threat, mandating formal disclosure even without traditional breach indicators (e.g., hacking, operational disruption).
+- **Controlled Attribute Emission**: Enforces strict adherence to regulated industry schemas by allowing only validated attributes to be generated, eliminating hallucinated or non-existent fields.
 
-- **Governance Urgency**: The inciden
+- **Regulatory Compliance**: Mitigates risks in high-stakes domains (e.g., healthcare, finance)
 
 ## Use Cases
 

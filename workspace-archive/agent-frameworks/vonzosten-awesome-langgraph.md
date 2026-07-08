@@ -15,7 +15,6 @@ tags:
 - github-repo
 - hackernews
 - javascript
-- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Ecosystem Index**: A structured repository aggregating LangChain and LangGraph resources, including concepts, tools, templates, and guides for building LLM and multi-agent applications.
-- **Technical Scope**: Focuses on JavaScript-based implementations, covering LLM orchestration, agent frameworks, and workflow automation within the LangGraph ecosystem.
-- **Community-Driven Maintenance**: Actively updated (last commit: 2026-07-08) with 1,891 stars and 231 forks, reflecting ongoing co
+- **Curated Ecosystem Index**: A structured repository cataloging LangChain and LangGraph resources, including concepts, projects, tools, templates, and guides for building LLM and multi-agent applications.
+
+- **Technical Breadth**: Focuses on JavaScript-based implementations, covering AI workflows, agent orchestration, and LLM integrations with emphasis on modularity and extensibility.
+
+- **Community-Driven Maintenance**: Actively updated (last commit: 2026-07-08) with 1,891 stars and 231 forks
 
 ## Use Cases
 

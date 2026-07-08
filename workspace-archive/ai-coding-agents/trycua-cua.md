@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Infrastructure for Computer-Use Agents (CUAs)**: Provides open-source sandboxes, SDKs, and benchmarks to train and evaluate AI agents capable of controlling full desktop environments across macOS, Linux, and Windows.
+- **Cross-Platform Agent Infrastructure**: Provides sandboxes, SDKs, and benchmarks for training/evaluating AI agents capable of full desktop control (macOS, Linux, Windows) via containerization and virtualization frameworks.
 
-- **Multi-Platform Virtualization Support**: Utilizes containerization and virtualization frameworks (e.g., Apple's Virtualization Framework, Windows Sandbox) to enable cross-platform agent testing and deployment.
+- **Technical Stack**: Primarily uses Swift (macOS), Windows Sandbox (Windows), and Lume/Manus for agent orchestration, with HTML for documentation/interfaces.
 
-- **Technical Stack**: Primarily HTML-based with integrations f
+- **Open-Source Focus**: Supports hacktoberfest contributions, enabling community-driven development of computer
 
 ## Use Cases
 

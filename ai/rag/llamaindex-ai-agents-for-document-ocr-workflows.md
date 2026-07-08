@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/
-published_at: '2026-07-08T14:21:01.545077+05:30'
-collected_at: '2026-07-08T14:21:01.545092+05:30'
+published_at: '2026-07-08T16:54:17.253779+05:30'
+collected_at: '2026-07-08T16:54:17.253788+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-07-08T14:21:01.545092+05:30'
-last_seen: '2026-07-08T14:21:01.545092+05:30'
-last_checked: '2026-07-08T14:21:01.545092+05:30'
+first_seen: '2026-07-08T16:54:17.253788+05:30'
+last_seen: '2026-07-08T16:54:17.253788+05:30'
+last_checked: '2026-07-08T16:54:17.253788+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, featuring task-specific experts (e.g., text, charts, tables), auto-correction loops for error detection/fixing, and semantic understanding to convert complex layouts into LLM-ready structured outputs.
+- **Agentic OCR & Structured Extraction**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, enabling structured schema extraction with 10,000 free credits/month (~1,000 pages) and support for 50+ unstructured file types, including embedded images, multi-page tables, and handwritten notes.
 
-- **Enterprise-Grade Features**: Supports 50+ unstructured file types (including handwritten text, multi-page tables, and embedded images), schema-based LLM extraction, enterprise-grade chunking/embedding, and deployment options (cloud or VPC) with HIPAA/GDPR/SOC2 compliance and 99.9% uptime SLAs.
+- **Multi-Stage Validation & Specialization**: Features recursive auto-correction loops for error detection/fixing, task-specific agents for semantic decomposition (text/charts/tables), and specialized experts for modality-specific processing, achieving high pass-through rates on complex, multi-modal documents.
 
-- **Performance Benchmarks**: Outperforms proprietary VLM, commercial IDP, and open-source OCR in overall accuracy, particularly excelling in charts and tables; processes 1B+ documents, serves 25M+ monthly downloads, and supports 300k+ users with a free tier of 10,000 credits/month (~1,000 pages).
+- **Enterprise-Grade Performance & Compliance**: Benchmarks show superior accuracy in parsing charts/tables vs. proprietary VLM, commercial IDP, and open-source OCR; offers 99.9% uptime, SOC2/GDPR/HIPAA compliance, granular access controls, and flexible deployment (cloud or VPC) with dedicated SLAs for mission-critical workloads.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T14:21:01.545077+05:30
+- Published: 2026-07-08T16:54:17.253779+05:30
 
 ## Related Tags
 

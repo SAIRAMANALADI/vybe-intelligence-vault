@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified AI Data & Model Management**: Platform supports curation/annotation of multimodal datasets (vision, audio, LLM), experiment tracking (MLflow-compatible), and model versioning/deployment with lineage tracking across public/private repositories.
+- **Unified AI Data & Model Management**: Platform supports curation/annotation of multimodal datasets (vision, audio, LLM), experiment tracking (MLflow-compatible), and model versioning/deployment with lineage, scaling from petabytes to private storage integration.
 
-- **Scalable Infrastructure & Integrations**: Offers tiered plans (Individual/Team/Enterprise) with storage limits (20GB–Petabyte-scale), RBAC, SSO/LDAP, and integrations for cloud/on-prem deployments (VPC, Air-gapped, OpenShift) and MLOps too
+- **Tiered Subscription Model**: Free "Individual" tier offers public repos, limited private storage (20GB), and 100 private experiments; "Team" ($99/user/month) adds private repos, auto-labeling, RBAC, and 1TB storage; "Enterprise"
 
 ## Use Cases
 

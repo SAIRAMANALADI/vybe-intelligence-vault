@@ -8,7 +8,7 @@ local_vault_path: ai/agents/ed1s0nz-cyberstrikeai.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # Ed1s0nZ/CyberStrikeAI
@@ -26,18 +26,18 @@ selection_reason:
 
 - Matched archive category: `MCP Registry`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Agentic Execution Layer**: Implements AI-driven cybersecurity agents that translate security intent into governed, auditable actions using MCP-native tools and attack-chain context for precise execution.
+- **Agentic Execution Layer**: Implements AI-driven cybersecurity agents that convert security intent into governed, auditable actions using MCP-native tools, knowledge bases, and approval workflows.
 
-- **Multi-Faceted Security Toolkit**: Integrates AI agents, penetration testing tools, CTF utilities, and AI-driven security capabilities (e.g., AI hacking/pentesting) in a Go-based framework for modern cybersecurity workflows.
+- **Attack-Chain Context Integration**: Provides real-time contextual awareness of attack chains, enabling precise, security-focused AI agent execution for penetration testing and red teaming.
 
-- **Approval & Audit Framework**: Enforces governance through
+- **Go-Based Implementation**: Built in Go for high-performance, scalable agentic operations with support
 
 ## Use Cases
 

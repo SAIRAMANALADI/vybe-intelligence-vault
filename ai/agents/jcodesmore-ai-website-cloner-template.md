@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/JCodesMore/ai-website-cloner-template
-collected_at: '2026-07-07T09:52:13.148820+05:30'
-published_at: '2026-07-07T04:20:20Z'
+collected_at: '2026-07-08T16:52:11.380139+05:30'
+published_at: '2026-07-08T11:13:29Z'
 tags:
 - agents
 - anthropic
@@ -13,8 +13,7 @@ tags:
 - github-repo
 - scripts
 - typescript
-- workflows
-stars: 26304
+stars: 26574
 language: TypeScript
 status: active
 license: MIT
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-03-13T11:14:39Z'
 pushed_at: '2026-07-04T06:49:18Z'
 resource_id: github:jcodesmore/ai-website-cloner-template
-first_seen: '2026-07-07T09:52:13.148820+05:30'
-last_seen: '2026-07-07T09:52:13.148820+05:30'
-last_checked: '2026-07-07T09:52:13.148820+05:30'
+first_seen: '2026-07-08T16:52:11.380139+05:30'
+last_seen: '2026-07-08T16:52:11.380139+05:30'
+last_checked: '2026-07-08T16:52:11.380139+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **AI-Powered Website Cloning**: Automates full website replication (HTML, CSS, JS, assets) via AI coding agents (e.g., Claude Code) using a single command, eliminating manual reverse-engineering.
+- **Automated Website Cloning**: Uses AI coding agents (e.g., Claude Code) to clone any website with a single command, automating reverse-engineering and reconstruction of frontend assets (React/Next.js).
 
-- **Tech Stack**: Built with **Next.js**, **React**, **TypeScript**, **TailwindCSS**, and **shadcn/ui** for modern UI; integrates **web-scraping** and **automation** tools for dynamic content capture.
+- **Tech Stack**: Built with TypeScript, Next.js, React, TailwindCSS, and shadcn-ui; integrates web-scraping and AI agent orchestration for dynamic content replication.
 
-- **Template Features**: Pre-configured boilerplate for AI agent integration, supports **skills-based workflows**, and includes reverse-engineering optimizations for complex SPAs.
+- **Template Features**: Provides a boilerplate for AI-driven automation, supports developer tools integration, and includes preconfigured AI agent skills for scalable website cloning.
 
 ## Why It Matters
 
@@ -45,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: JCodesMore
-- Stars: 26304
-- Forks: 3705
+- Stars: 26574
+- Forks: 3756
 - Language: TypeScript
 - Topics: ai, ai-agents, ai-tools, automation, boilerplate, claude, claude-code, clone, developer-tools, nextjs, react, reverse-engineering, shadcn-ui, skills, tailwindcss, template, typescript, web-scraping, website-clone
-- Last Updated: 2026-07-07T04:20:20Z
+- Last Updated: 2026-07-08T11:13:29Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-13T11:14:39Z

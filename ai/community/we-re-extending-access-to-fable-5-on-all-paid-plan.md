@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:we-re-extending-access-to-fable-5-on-all-paid-plan
 first_seen: '2026-07-08T09:15:39.033397+05:30'
 last_seen: '2026-07-08T14:15:39.597976+05:30'
 last_checked: '2026-07-08T14:15:39.597976+05:30'
 health_score: 100
 ---
+
 
 # We're extending access to Fable 5 on all paid plans through July 12
 

@@ -4,14 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Pocket/PocketFlow-Template-Python
-collected_at: '2026-07-08T14:20:31.061321+05:30'
+collected_at: '2026-07-08T16:53:46.562823+05:30'
 published_at: '2026-07-04T13:06:22Z'
 tags:
 - agents
-- anthropic
-- benchmark
 - github-repo
-- openai
 - python
 - workflows
 stars: 394
@@ -21,9 +18,9 @@ archived: false
 created_at: '2025-02-18T04:15:32Z'
 pushed_at: '2025-08-04T00:27:57Z'
 resource_id: github:the-pocket/pocketflow-template-python
-first_seen: '2026-07-08T14:20:31.061321+05:30'
-last_seen: '2026-07-08T14:20:31.061321+05:30'
-last_checked: '2026-07-08T14:20:31.061321+05:30'
+first_seen: '2026-07-08T16:53:46.562823+05:30'
+last_seen: '2026-07-08T16:53:46.562823+05:30'
+last_checked: '2026-07-08T16:53:46.562823+05:30'
 health_score: 100
 ---
 
@@ -31,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Coding Framework**: Python-based template for autonomous AI-driven software development, enabling dynamic code generation, testing, and optimization via agentic workflows.
-
-- **Modular Architecture**: Pre-configured project structure with extensible components for agents, tools, and evaluation pipelines, facilitating rapid prototyping of AI-assisted coding systems.
-
-- **Integration-Ready**: Supports seamless integration with LLM APIs (e.g., OpenAI, Anthropic) and CI/CD pipelines, optimized for Python 3.10+ with dependency management via `pyproject.toml`.
+- **Agentic Coding Framework**: Provides a Python-based template for autonomous AI-driven software development, enabling automated code generation, testing, and optimization workflows.
+- **Modular Architecture**: Implements a structured project template with predefined directories for agents, tools, and configurations, facilitating scalable agentic workflows.
+- **Pre-configured Tooling**: Includes integrated support for common Python development tools (e.g., pytest, black, flake8) and agent orchestration libraries (e.g., CrewAI, LangChain).
 
 ## Why It Matters
 

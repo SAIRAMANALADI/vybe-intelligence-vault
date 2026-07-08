@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-*   Documents best practices for evolving from "vibe coding" to "agentic engineering" methodologies in AI-assisted code generation.
-*   Focuses on optimizing workflows, commands, and skills for Anthropic's Claude AI within an agentic coding paradigm.
-*   Covers technical domains including agentic AI, agentic coding, agentic engineering, and context engineering for enhanced code development.
+- **Agentic Workflow Transition**: Repository documents the shift from traditional "vibe coding" to structured agentic engineering practices for optimizing Claude Code performance, emphasizing systematic workflows over ad-hoc development.
+
+- **Technical Best Practices**: Curates command patterns, context engineering techniques, and skill configurations for Claude Code agents, with focus on Anthropic’s tooling and Pakistani developer contributions.
+
+- **Repository Metrics**: High-engagement open-
 
 ## Use Cases
 

@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91
-published_at: '2026-07-08T14:16:51.416684+05:30'
-collected_at: '2026-07-08T14:16:51.416697+05:30'
+published_at: '2026-07-08T16:50:07.199084+05:30'
+collected_at: '2026-07-08T16:50:07.199092+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:top-10-rag-frameworks-on-github-by-stars-january-2
-first_seen: '2026-07-08T14:16:51.416697+05:30'
-last_seen: '2026-07-08T14:16:51.416697+05:30'
-last_checked: '2026-07-08T14:16:51.416697+05:30'
+first_seen: '2026-07-08T16:50:07.199092+05:30'
+last_seen: '2026-07-08T16:50:07.199092+05:30'
+last_checked: '2026-07-08T16:50:07.199092+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Python/TypeScript framework with 125K GitHub stars, offering 700+ integrations, modular chains, and LangGraph for stateful agentic workflows; ideal for complex, multi-step RAG pipelines.
-- **RAGFlow**: Python-based framework with 70K stars, specializing in enterprise-grade document parsing (tables, images, PDFs) and template-based chunking to enhance retrieval accuracy and reduce hallucinations.
-- **Pathway**: Python (Rust runtime) framework with 50K+ stars, enabling real-time data processing and incremental updates via 350+ data source connectors, optimized for live knowledge base synchronization.
+- **LangChain** leads with 125K stars, offering a modular Python/TypeScript framework for complex RAG pipelines, agents, and 700+ integrations, ideal for flexible, large-scale deployments.
+- **Dify** (114K+ stars) provides a no-code visual workflow builder for rapid RAG prototyping and deployment, supporting multi-model LLMs and agent capabilities.
+- **RAGFlow** (70K stars) specializes in enterprise-grade document parsing (tables, images, PDFs) with template-based chunking and grounded citations to minimize hallucinations.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T14:16:51.416684+05:30
+- Published: 2026-07-08T16:50:07.199084+05:30
 
 ## Related Tags
 

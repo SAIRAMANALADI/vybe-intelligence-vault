@@ -14,7 +14,6 @@ tags:
 - agents
 - github-repo
 - python
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Integration**: Combines LangGraph for agent orchestration, FastAPI for backend REST services, and Streamlit for frontend UI to create a full-stack AI agent system.
-
-- **Modular Architecture**: Provides a structured toolkit for deploying scalable AI agents with configurable components, enabling customization for specific workflows or use cases.
-
-- **Deployment-Ready**: Includes pre-configured Docker support and API endpoints for rapid deployment of agent services in production envir
+- **Framework Stack**: Combines LangGraph for agent orchestration, FastAPI for backend REST services, and Streamlit for frontend UI.
+- **Core Features**: Provides a modular toolkit for deploying AI agents with built-in state management, tool integration, and API endpoints.
+- **Deployment**: Supports scalable agent services with real-time interaction via Streamlit and programmatic access via FastAPI.
 
 ## Use Cases
 

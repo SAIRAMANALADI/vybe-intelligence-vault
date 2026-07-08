@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregating applications, tools, and frameworks for Retrieval-Augmented Generation (RAG) in generative AI, covering LLMs, vector databases, and retrieval mechanisms.
-- **Metadata**: 1,303 stars, 167 forks, last updated July 7, 2026; topics include AI, generative models, and RAG-specific implementations.
-- **Technical Scope**: Encompasses RAG pipelines, evaluation benchmarks, and deployment strategies for enhancing LLM performance via external knowledge ret
+- **Curated RAG Applications**: Repository aggregates open-source and commercial Retrieval-Augmented Generation (RAG) implementations, frameworks, and tools across domains like NLP, chatbots, and QA systems.
+- **Multi-Topic Coverage**: Encompasses RAG techniques including vector databases (e.g., FAISS, Pinecone), hybrid retrieval (dense+sparse), and evaluation benchmarks (e.g., RAGTruth, FreshQA).
+- **Active Maintenance**: Last updated July 2026, ensuring inclusion of recent advancements like dy
 
 ## Use Cases
 

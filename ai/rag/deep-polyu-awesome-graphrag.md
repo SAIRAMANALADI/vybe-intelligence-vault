@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/Awesome-GraphRAG
-collected_at: '2026-07-08T14:17:50.876409+05:30'
+collected_at: '2026-07-08T16:51:06.368842+05:30'
 published_at: '2026-07-08T08:26:41Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-21T08:29:58Z'
 pushed_at: '2026-06-02T12:52:38Z'
 resource_id: github:deep-polyu/awesome-graphrag
-first_seen: '2026-07-08T14:17:50.876409+05:30'
-last_seen: '2026-07-08T14:17:50.876409+05:30'
-last_checked: '2026-07-08T14:17:50.876409+05:30'
+first_seen: '2026-07-08T16:51:06.368842+05:30'
+last_seen: '2026-07-08T16:51:06.368842+05:30'
+last_checked: '2026-07-08T16:51:06.368842+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Repository**: A comprehensive collection of resources (surveys, papers, benchmarks, and open-source projects) focused on **Graph-based Retrieval-Augmented Generation (GraphRAG)**, facilitating research and development in integrating knowledge graphs with large language models (LLMs).
-
-- **Technical Scope**: Covers **GraphRAG-specific topics**, including **knowledge graph construction**, **retrieval mechanisms**, **benchmarking frameworks**, and **integration with LLMs** for enhanced context-aware generation.
-
-- **Community & Updates**: Actively maintained with **2,514 stars and 219 forks**, last updated on **July 8, 2026**, ensuring relevance in rapidly evolving domains like **LLM augmentation** and **retrieval-augmented generation (RAG)**.
+- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, covering knowledge graphs, LLMs, and RAG methodologies.
+- **Technical Scope**: Encompasses **GraphRAG-specific topics** (e.g., graph-augmented retrieval, structured knowledge integration) and adjacent fields like **knowledge graphs** and **large language models (LLMs)**.
+- **Repository Metrics**: Maintained with **2,514 stars** and **219 forks**, last updated **July 8, 2026**; serves as a dynamic reference for cutting-edge research in graph-enhanced RAG systems.
 
 ## Why It Matters
 

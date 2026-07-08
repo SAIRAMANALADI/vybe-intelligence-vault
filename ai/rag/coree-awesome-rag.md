@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/coree/awesome-rag
-collected_at: '2026-07-08T14:17:55.828166+05:30'
+collected_at: '2026-07-08T16:51:11.326901+05:30'
 published_at: '2026-07-03T01:44:41Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
 - paper
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-02-10T12:01:04Z'
 pushed_at: '2025-12-01T08:45:44Z'
 resource_id: github:coree/awesome-rag
-first_seen: '2026-07-08T14:17:55.828166+05:30'
-last_seen: '2026-07-08T14:17:55.828166+05:30'
-last_checked: '2026-07-08T14:17:55.828166+05:30'
+first_seen: '2026-07-08T16:51:11.326901+05:30'
+last_seen: '2026-07-08T16:51:11.326901+05:30'
+last_checked: '2026-07-08T16:51:11.326901+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: A comprehensive collection of tools, frameworks, libraries, and research papers focused on retrieval-augmented generation (RAG) for large language models (LLMs), including embeddings, retrieval systems, and model architectures.
-
-- **Multi-Topic Coverage**: Encompasses key areas such as RAG models, retrieval systems, embeddings, and LLM integration, with links to papers, tutorials, and practical implementations.
-
-- **Active Maintenance**: Last updated in July 2026, ensuring relevance with ongoing updates to reflect advancements in RAG techniques and applications.
+- **Curated RAG Resources**: A comprehensive collection of tools, libraries, frameworks, and research papers focused on retrieval-augmented generation (RAG) for large language models (LLMs).
+- **Technical Scope**: Covers embeddings, retrieval systems, and RAG model architectures, including implementations and benchmarks for enhancing LLM performance via external knowledge retrieval.
+- **Community-Driven**: Actively maintained with frequent updates (last commit: 2026-07-03), featuring contributions from 428 stars and 50 forks, emphasizing collaborative development in RAG advancements.
 
 ## Why It Matters
 

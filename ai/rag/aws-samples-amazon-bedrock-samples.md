@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-07-08T14:17:35.953069+05:30'
+collected_at: '2026-07-08T16:50:51.431196+05:30'
 published_at: '2026-07-07T22:05:07Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
-- models
 - rag
 - workflows
 stars: 1467
@@ -21,9 +19,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-06-30T09:33:23Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-07-08T14:17:35.953069+05:30'
-last_seen: '2026-07-08T14:17:35.953069+05:30'
-last_checked: '2026-07-08T14:17:35.953069+05:30'
+first_seen: '2026-07-08T16:50:51.431196+05:30'
+last_seen: '2026-07-08T16:50:51.431196+05:30'
+last_checked: '2026-07-08T16:50:51.431196+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Content**: Provides Jupyter Notebook examples demonstrating Amazon Bedrock's foundational models, including Amazon Titan, for generative AI, embeddings, and Retrieval-Augmented Generation (RAG) workflows.
-- **Integration Focus**: Includes examples for LangChain and knowledge base implementations, showcasing practical use cases for building AI-driven applications.
-- **Technical Scope**: Covers core Bedrock capabilities (e.g., model fine-tuning, inference, and knowledge base management) with up-to-date examples as of July 2026.
+- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook examples covering all available foundational models in Amazon Bedrock for customer onboarding and experimentation.
+
+- **Multi-Model & Use Case Support**: Includes implementations for Amazon Titan, embeddings, generative AI, knowledge bases, and RAG (Retrieval-Augmented Generation) with LangChain integration.
+
+- **AWS Integration Focus**: Demonstrates practical applications of Amazon Bedrock services within AWS ecosystems, optimized for real-world generative AI workflows.
 
 ## Why It Matters
 

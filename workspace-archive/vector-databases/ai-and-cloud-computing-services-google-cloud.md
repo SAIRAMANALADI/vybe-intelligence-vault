@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **AI Threat Defense**: Google introduces *Google AI Threat Defense*, an agentic security framework leveraging AI-driven threat detection and response to proactively outpace adversarial attacks, integrating with existing security operations for real-time threat mitigation.
+- **AI Threat Defense**: Google Cloud introduces *AI Threat Defense* to proactively counter adversarial threats using AI-driven security analytics, integrating with *Mandiant* and *Chronicle* for real-time threat detection and response.
 
-- **Gemini Enterprise Agent Platform**: A fully-managed AI development platform enabling enterprise-grade agent orchestration, governance, and deployment with built-in support for 200+ foundation models, MCP server integrati
+- **Gemini Enterprise Agent Platform**: A unified platform for developing, orchestrating, and governing AI agents, featuring *Agent Studio*, *remote MCP server*, and access to *200+ foundation models* (e.g., *Gemini 3.5*, *Omni Flash*, *Nano Banana 2 Lite*).
+
+-
 
 ## Use Cases
 

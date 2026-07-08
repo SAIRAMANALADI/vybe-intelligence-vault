@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Suite**: Official repository for GraphRAG-Bench, designed to evaluate Graph Retrieval-Augmented Generation (GraphRAG) models, with a focus on graph-based retrieval strategies for RAG systems.
-- **Technical Scope**: Implements a comprehensive analysis framework for determining optimal use cases of graph structures in RAG pipelines, targeting ICLR'26 contributions.
-- **Implementation**: Python-based benchmark with curated datasets, evaluation metrics, and analysis tools for assessing
+- **Benchmark Framework**: Provides an official evaluation suite for GraphRAG models, focusing on graph-based retrieval-augmented generation (RAG) systems, with standardized metrics and datasets for comparative analysis.
+- **Technical Scope**: Supports Python-based implementations for graph retrieval, generation, and evaluation, targeting ICLR'26 submissions with structured graph datasets and retrieval pipelines.
+- **Repository Metrics**: 458 stars, 53 forks; last updated July 2026, emphasizing
 
 ## Use Cases
 

@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-07-08T14:18:35.857946+05:30'
+collected_at: '2026-07-08T16:51:51.371759+05:30'
 published_at: '2026-07-08T04:45:25Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - hackernews
 - rag
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-05-02T04:18:19Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-07-08T14:18:35.857946+05:30'
-last_seen: '2026-07-08T14:18:35.857946+05:30'
-last_checked: '2026-07-08T14:18:35.857946+05:30'
+first_seen: '2026-07-08T16:51:51.371759+05:30'
+last_seen: '2026-07-08T16:51:51.371759+05:30'
+last_checked: '2026-07-08T16:51:51.371759+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on autonomous agents leveraging LLMs for complex reasoning and retrieval-augmented generation (RAG) tasks.
-- **ACL 2026 KnowFM Alignment**: Aligns with ACL 2026's *Knowledge Foundation Models (KnowFM)* initiative, emphasizing structured knowledge acquisition and multi-step reasoning in AI agents.
-- **Technical Scope**: Encompasses agentic RAG, search agents, and deep-research frameworks, targeting advancements in reasoning, memory, and tool-use integration for large language models.
+- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on autonomous reasoning agents, advanced RAG (Retrieval-Augmented Generation), and multi-agent collaboration frameworks for complex knowledge synthesis.
+- **ACL 2026 Integration**: Aligns with ACL 2026's *KnowFM* initiative, emphasizing scalable, knowledge-grounded deep research methodologies leveraging LLMs for iterative hypothesis testing and evidence refinement.
+- **Technical Scope**: Covers reasoning agents, search optimization, and hybrid retrieval-generation architectures, with emphasis on open-source tools, benchmarks, and evaluation protocols for deep research tasks.
 
 ## Why It Matters
 

@@ -4,26 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NousResearch/hermes-agent
-collected_at: '2026-07-08T14:20:05.983305+05:30'
-published_at: '2026-07-08T08:48:37Z'
+collected_at: '2026-07-08T16:53:21.527005+05:30'
+published_at: '2026-07-08T11:21:44Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - openai
 - python
-- workflows
-stars: 211226
+stars: 211303
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-07-22T22:22:28Z'
-pushed_at: '2026-07-08T07:57:20Z'
+pushed_at: '2026-07-08T11:19:56Z'
 resource_id: github:nousresearch/hermes-agent
-first_seen: '2026-07-08T14:20:05.983305+05:30'
-last_seen: '2026-07-08T14:20:05.983305+05:30'
-last_checked: '2026-07-08T14:20:05.983305+05:30'
+first_seen: '2026-07-08T16:53:21.527005+05:30'
+last_seen: '2026-07-08T16:53:21.527005+05:30'
+last_checked: '2026-07-08T16:53:21.527005+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Hermes-Agent supports multiple large language models (LLMs) including Anthropic's Claude, OpenAI's ChatGPT, and Nous Research's Hermes, enabling cross-platform agentic workflows.
-
-- **Dynamic Agentic Framework**: Implements a modular, extensible architecture for autonomous task execution with built-in memory, tool-use (e.g., code execution via `claude-code`), and adaptive learning capabilities.
-
-- **Open-Source Ecosystem**: Hosted under Apache-2.0 license, integrates with tools like `clawdbot` and `moltbot`, and includes pre-configured templates for rapid deployment in AI agent development workflows.
+- **Multi-Provider LLM Integration**: Supports Anthropic (Claude, Claude Code), OpenAI (ChatGPT, Codex), and other LLM APIs for dynamic agent behavior.
+- **Self-Improving Architecture**: Implements recursive self-improvement via feedback loops, enabling continuous adaptation without manual retraining.
+- **Tool-Agnostic Execution**: Executes code, CLI commands, and API calls via modular tool interfaces (e.g., `clawdbot`, `moltbot`) with sandboxed safety.
 
 ## Why It Matters
 
@@ -44,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NousResearch
-- Stars: 211226
-- Forks: 38792
+- Stars: 211303
+- Forks: 38800
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw
-- Last Updated: 2026-07-08T08:48:37Z
+- Last Updated: 2026-07-08T11:21:44Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-22T22:22:28Z
-- Pushed At: 2026-07-08T07:57:20Z
+- Pushed At: 2026-07-08T11:19:56Z
 
 ## Possible Use Cases
 

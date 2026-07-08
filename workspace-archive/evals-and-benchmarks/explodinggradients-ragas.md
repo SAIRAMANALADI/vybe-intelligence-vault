@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAGAS Framework**: Open-source Python library (14.7k+ stars) for evaluating Retrieval-Augmented Generation (RAG) and LLM applications with standardized metrics (e.g., faithfulness, answer correctness, context precision).
-
-- **Key Features**: Supports automated evaluation pipelines with customizable metrics, integrates with datasets (e.g., `datasets` library), and provides tooling for benchmarking against ground truth or human judgments.
-
-- **LLMOps Integration**: Designed for production-grad
+- **RAGAS**: A Python library for evaluating LLM applications, particularly those leveraging Retrieval-Augmented Generation (RAG), with 14,721 GitHub stars and 1,539 forks.
+- **Key Features**: Supports automated evaluation of LLM outputs using metrics like faithfulness, answer relevance, and context precision, integrating seamlessly with LLMops workflows.
+- **Updates & Ecosystem**: Last updated on July 8, 2026; part of the explodinggradients ecosystem, focusing on scalable, production-grade LLM
 
 ## Use Cases
 

@@ -8,7 +8,7 @@ local_vault_path: ai/agents/hugging-face-github.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -16,10 +16,9 @@ tags:
 - models
 - producthunt
 - web-crawled
-- workflows
 - youtube
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # Hugging Face · GitHub
@@ -28,15 +27,17 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Core Libraries**: Hugging Face maintains foundational AI libraries including `transformers` (SOTA ML models for text/vision/audio/multimodal tasks), `diffusers` (diffusion models for generative tasks), and `datasets` (largest hub of ready-to-use datasets with efficient manipulation tools).
+- **Hugging Face** is an AI organization providing a hub (`huggingface.co`) for open-source ML models, datasets, and tools, with verified control over the domain.
 
-- **Optimization & Efficiency**: Key repositories like `peft` (Parameter-Efficient Fine-Tuning), `accelerate` (PyTorch training/inference acceleration with FSDP/DeepSpeed/fp8 support), and `optimum` (hard
+- **Core libraries**: `transformers` (SOTA ML frameworks for text/vision/audio), `diffusers` (diffusion models for generative tasks), `datasets` (large-scale dataset hub), and `peft` (parameter-efficient fine-tuning).
+
+- **Additional tools**: `accelerate` (PyTorch training/inference acceleration), `optimum` (hardware optimization), an
 
 ## Use Cases
 

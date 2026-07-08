@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic RAG Implementation**: Demonstrates an agentic Retrieval-Augmented Generation (RAG) pipeline using NVIDIA AI Workbench, integrating retrieval and generative components for dynamic, context-aware responses.
-- **Jupyter Notebook-Based**: Entire project structured as a Jupyter Notebook, providing an interactive, reproducible environment for experimentation and deployment of agentic RAG workflows.
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA’s AI Workbench for streamlined devel
+- **Agentic RAG Implementation**: Demonstrates an agentic RAG system leveraging NVIDIA AI Workbench for dynamic retrieval and generation workflows.
+- **Jupyter Notebook Format**: Provides a structured, executable example in Jupyter Notebook for interactive experimentation and deployment.
+- **Updated July 2026**: Last commit reflects recent optimizations or feature additions, ensuring alignment with current NVIDIA AI Workbench capabilities.
 
 ## Use Cases
 

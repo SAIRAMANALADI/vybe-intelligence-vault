@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-07-08T14:17:50.824565+05:30'
+collected_at: '2026-07-08T16:51:06.352022+05:30'
 published_at: '2026-07-08T06:39:41Z'
 tags:
 - github-repo
 - hackernews
-- paper
+- models
 - rag
 - unknown
 stars: 1338
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-07-08T14:17:50.824565+05:30'
-last_seen: '2026-07-08T14:17:50.824565+05:30'
-last_checked: '2026-07-08T14:17:50.824565+05:30'
+first_seen: '2026-07-08T16:51:06.352022+05:30'
+last_seen: '2026-07-08T16:51:06.352022+05:30'
+last_checked: '2026-07-08T16:51:06.352022+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Compilation of advanced techniques, frameworks, and research papers on Retrieval-Augmented Generation (RAG) for Large Language Models (LLMs), covering embeddings, retrieval strategies, and integration methods.
-- **Key Topics**: Focuses on retrieval-augmented generation, LLM-embedding interactions, and optimization of information retrieval pipelines for enhanced generative performance.
-- **Updated Repository**: Last modified in July 2026, with 1,338 stars and 85 forks, serving as a dynamic hub for cutting-edge RAG advancements.
+- **Curated resource**: A comprehensive, community-maintained list of advanced **Retrieval-Augmented Generation (RAG)** techniques, frameworks, and tools for **Large Language Models (LLMs)**, covering retrieval, embeddings, and integration strategies.
+
+- **Technical scope**: Focuses on **RAG-specific topics** including **embedding models**, **retrieval mechanisms**, **LLM fine-tuning for RAG**, and **hybrid retrieval-augmentation pipelines**.
+
+- **Repository metadata**: 1,338 stars, 85 forks, last updated **July 8, 2026**; includes tags for **RAG-embeddings**, **information retrieval**, and **LLM optimization**.
 
 ## Why It Matters
 

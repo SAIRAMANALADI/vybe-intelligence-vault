@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-07-08T14:19:56.006017+05:30'
+collected_at: '2026-07-08T16:53:11.519965+05:30'
 published_at: '2026-07-08T08:04:22Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
@@ -23,9 +22,9 @@ archived: false
 created_at: '2024-02-27T06:48:32Z'
 pushed_at: '2026-07-08T03:55:46Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-07-08T14:19:56.006017+05:30'
-last_seen: '2026-07-08T14:19:56.006017+05:30'
-last_checked: '2026-07-08T14:19:56.006017+05:30'
+first_seen: '2026-07-08T16:53:11.519965+05:30'
+last_seen: '2026-07-08T16:53:11.519965+05:30'
+last_checked: '2026-07-08T16:53:11.519965+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Architecture**: Python-based open-source platform leveraging FastAPI, Pydantic, and Temporal.io for event-driven, low-code security automation and workflow orchestration with OpenAPI compliance.
+- **Core Architecture**: Python-based open-source platform integrating FastAPI for REST APIs, Pydantic for data validation, and Next.js for frontend; leverages Temporal.io for durable workflow orchestration and event-driven automation.
 
-- **Technical Stack**: Integrates Next.js for frontend, FastAPI for backend APIs, and Pydantic for data validation, with LLM support for AI agent interactions and temporal workflow execution.
+- **Security & AI Integration**: Supports LLM-driven workflows with low-code automation; designed for security operations (SecOps) with monitoring and OpenAPI/Swagger for API governance.
 
-- **Security Focus**: Designed for teams and AI agents, enabling automated monitoring, security event handling, and orchestration with a scalable, low-code workflow engine.
+- **Scalability & Deployment**: Uses Next.js for UI, FastAPI for backend, and Temporal.io for scalable, fault-tolerant workflow execution; optimized for team collaboration and AI agent interactions.
 
 ## Why It Matters
 

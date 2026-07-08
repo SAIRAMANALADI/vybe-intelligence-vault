@@ -4,16 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/greensock/gsap-skills
-collected_at: '2026-07-08T14:19:20.958761+05:30'
-published_at: '2026-07-08T08:45:42Z'
+collected_at: '2026-07-08T16:52:36.438352+05:30'
+published_at: '2026-07-08T10:54:38Z'
 tags:
 - agents
 - animation
-- dataset
 - github-repo
-- models
+- hackernews
 - unknown
-stars: 11095
+stars: 11107
 language: Unknown
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-03-04T17:22:35Z'
 pushed_at: '2026-04-21T23:47:09Z'
 resource_id: github:greensock/gsap-skills
-first_seen: '2026-07-08T14:19:20.958761+05:30'
-last_seen: '2026-07-08T14:19:20.958761+05:30'
-last_checked: '2026-07-08T14:19:20.958761+05:30'
+first_seen: '2026-07-08T16:52:36.438352+05:30'
+last_seen: '2026-07-08T16:52:36.438352+05:30'
+last_checked: '2026-07-08T16:52:36.438352+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides a structured dataset/skillset for AI agents to programmatically generate GSAP (GreenSock Animation Platform) code.
-*   Encapsulates GSAP best practices, common animation patterns, and plugin-specific API usage for AI model consumption.
-*   Optimized for training or fine-tuning AI coding agents to accurately implement complex web animations using the GSAP library.
+- **GSAP AI Skills Repository**: Provides structured AI training for GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration for AI coding agents.
+- **Repository Metrics**: 11,107 stars, 657 forks, last updated on 2026-07-08.
+- **Technical Focus**: Designed to teach AI agents efficient GSAP usage, including advanced animation techniques and optimization strategies.
 
 ## Why It Matters
 
@@ -42,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: greensock
-- Stars: 11095
-- Forks: 656
+- Stars: 11107
+- Forks: 657
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-08T08:45:42Z
+- Last Updated: 2026-07-08T10:54:38Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-04T17:22:35Z

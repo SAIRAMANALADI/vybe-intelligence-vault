@@ -12,9 +12,8 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
-- hackernews
-- openai
 - python
 - rag
 - workflows
@@ -36,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: Open-source Python-based multi-agent LLM framework (`TauricResearch/TradingAgents`) designed for financial trading, integrating large language models (LLMs) with agent-based architectures to simulate and execute trading strategies.
+- **Framework Overview**: Open-source Python-based framework (`TauricResearch/TradingAgents`) implementing a **multi-agent LLM-driven financial trading system** with modular agent architectures for market analysis, strategy execution, and risk management.
 
-- **Key Components**: Implements modular multi-agent systems where specialized agents (e.g., market analysts, risk managers, execution traders) collaborate via LLM-driven decision-making, enabling adaptive and autonomous trading workflows.
+- **Core Components**: Integrates **large language models (LLMs)** with specialized trading agents (e.g., data collectors, analysts, executors) to automate end-to-end workflows, leveraging Python libraries like `langchain`, `pandas`, and `ccxt
 
 ## Use Cases
 

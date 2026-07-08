@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/topoteretes/awesome-ai-memory
-collected_at: '2026-07-08T14:17:55.869722+05:30'
-published_at: '2026-07-08T00:08:52Z'
+collected_at: '2026-07-08T16:51:11.416790+05:30'
+published_at: '2026-07-08T10:14:09Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-stars: 808
+- workflows
+stars: 809
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-11-23T12:40:05Z'
 pushed_at: '2026-06-18T15:07:20Z'
 resource_id: github:topoteretes/awesome-ai-memory
-first_seen: '2026-07-08T14:17:55.869722+05:30'
-last_seen: '2026-07-08T14:17:55.869722+05:30'
-last_checked: '2026-07-08T14:17:55.869722+05:30'
+first_seen: '2026-07-08T16:51:11.416790+05:30'
+last_seen: '2026-07-08T16:51:11.416790+05:30'
+last_checked: '2026-07-08T16:51:11.416790+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository aggregates open-source and research projects focused on AI memory systems, including agent-based memory, retrieval-augmented generation (RAG), and long-term memory architectures.
-- **Technical Scope**: Projects span memory management techniques (e.g., vector databases, episodic memory, forgetting mechanisms) and frameworks for persistent AI agent state across sessions.
-- **Python-Centric**: Primarily Python-based implementations, with topics intersecting AI engineering, ML, and scalable memory architectures for LLMs and autonomous agents.
+- **Curated list** of AI memory projects focusing on memory management, RAG, and agent-based systems, primarily implemented in Python.
+- **Highly active** repository with **809 stars** and **90 forks**, last updated in **July 2026**.
+- **Topics covered**: AI agents, memory management, retrieval-augmented generation (RAG), and AI engineering workflows.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: topoteretes
-- Stars: 808
-- Forks: 89
+- Stars: 809
+- Forks: 90
 - Language: Python
 - Topics: ai, ai-agents, ai-engineering, ai-memory, ai-ml, memory-management, rag
-- Last Updated: 2026-07-08T00:08:52Z
+- Last Updated: 2026-07-08T10:14:09Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-11-23T12:40:05Z

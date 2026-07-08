@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a foundational template for spawning autonomous agents ("daimons") in JavaScript, enabling rapid development of self-operating systems.
-- **Structure**: Minimalistic starter repository with core scaffolding for agent initialization, behavior loops, and modular configuration.
-- **Dependencies**: Lightweight, relying solely on JavaScript (no external libraries/frameworks specified).
+- **Template Purpose**: Repository fork designed to generate autonomous agents ("daimons") with a JavaScript-based architecture.
+- **Metadata**: 2 stars, 18 forks, last updated April 24, 2026.
+- **Tech Stack**: JavaScript-only implementation with no additional topics or dependencies specified.
 
 ## Use Cases
 

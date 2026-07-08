@@ -4,16 +4,16 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/spaces
-published_at: '2026-07-08T14:23:51.132792+05:30'
-collected_at: '2026-07-08T14:23:51.132807+05:30'
+published_at: '2026-07-08T17:04:03.628508+05:30'
+collected_at: '2026-07-08T17:04:03.628518+05:30'
 tags:
 - agents
 - web-crawled
 status: active
 resource_id: blog:spaces-hugging-face
-first_seen: '2026-07-08T14:23:51.132807+05:30'
-last_seen: '2026-07-08T14:23:51.132807+05:30'
-last_checked: '2026-07-08T14:23:51.132807+05:30'
+first_seen: '2026-07-08T17:04:03.628518+05:30'
+last_seen: '2026-07-08T17:04:03.628518+05:30'
+last_checked: '2026-07-08T17:04:03.628518+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,11 @@ health_score: 100
 
 ## Summary
 
-- Enables real-time voice chat via WebSocket using Hugging Face's (HF) speech-to-speech model
-- Facilitates low-latency, bidirectional audio streaming for interactive voice applications
-- Deployed as a Hugging Face Space using `smolagents` for scalable inference
+- **WebSocket-based Voice Chat**: Enables real-time voice interaction with a Hugging Face (HF) speech-to-speech model via WebSocket protocol.
+
+- **HF Speech-to-Speech Integration**: Utilizes HF's backend for converting input speech to output speech dynamically during the conversation.
+
+- **smolagents Deployment**: Hosted as a Hugging Face Space using the `smolagents` framework for lightweight, agent-based execution.
 
 ## Why It Matters
 
@@ -33,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-08T14:23:51.132792+05:30
+- Published: 2026-07-08T17:04:03.628508+05:30
 
 ## Related Tags
 

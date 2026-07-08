@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Focus**: Provides production-grade engineering skills tailored for AI coding agents, enhancing their capability to perform complex coding tasks efficiently.
-- **Technical Scope**: Primarily written in JavaScript, optimized for integration with tools like `claude-code`, `codex`, `cursor`, and `antigravity` for advanced agent workflows.
-- **Community & Maintenance**: Highly active with 72,600 stars and 7,861 forks, last updated in July 2026, indicating ongoing development and broad
+- **Repository Overview**: `agent-skills` by addyosmani provides production-grade engineering skills for AI coding agents, optimized for tools like `claude-code`, `codex`, and `cursor`.
+- **Technical Scope**: Focuses on advanced JavaScript-based workflows, including `antigravity` and agent-specific skill integrations for high-performance coding tasks.
+- **Metrics**: Highly active with **72,745 stars**, **7,872 forks**, and last updated on **2026-07-08**.
 
 ## Use Cases
 

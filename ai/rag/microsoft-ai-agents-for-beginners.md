@@ -4,26 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/ai-agents-for-beginners
-collected_at: '2026-07-08T14:20:01.021173+05:30'
-published_at: '2026-07-08T08:40:11Z'
+collected_at: '2026-07-08T16:53:16.450782+05:30'
+published_at: '2026-07-08T09:45:23Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
-- workflows
-stars: 68844
+stars: 68852
 language: Jupyter Notebook
 status: active
 license: MIT
 archived: false
 created_at: '2024-11-28T10:42:52Z'
-pushed_at: '2026-07-06T23:27:19Z'
+pushed_at: '2026-07-08T10:46:34Z'
 resource_id: github:microsoft/ai-agents-for-beginners
-first_seen: '2026-07-08T14:20:01.021173+05:30'
-last_seen: '2026-07-08T14:20:01.021173+05:30'
-last_checked: '2026-07-08T14:20:01.021173+05:30'
+first_seen: '2026-07-08T16:53:16.450782+05:30'
+last_seen: '2026-07-08T16:53:16.450782+05:30'
+last_checked: '2026-07-08T16:53:16.450782+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curriculum Structure**: 12-lesson Jupyter Notebook-based course covering foundational to advanced AI agent development using frameworks like AutoGen and Semantic Kernel.
+- **12-Step Curriculum**: Structured Jupyter Notebook-based lessons covering foundational to advanced concepts in building AI agents, including agentic RAG, AutoGen, and Semantic Kernel frameworks.
 
-- **Technical Focus**: Covers agentic AI, RAG (Retrieval-Augmented Generation), and multi-agent orchestration with hands-on implementations in generative AI workflows.
+- **Multi-Framework Integration**: Demonstrates agent development across Microsoft’s AI agent ecosystem (AutoGen, Semantic Kernel) with practical implementations in Jupyter Notebooks.
 
-- **Repository Stats**: 68,844 stars, 22,820 forks; last updated July 8, 2026, with active community engagement in agentic AI development.
+- **Key Topics**: Focuses on agentic AI, agentic frameworks, generative AI, and retrieval-augmented generation (RAG) with hands-on coding exercises and updated as of July 2026.
 
 ## Why It Matters
 
@@ -44,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: microsoft
-- Stars: 68844
-- Forks: 22820
+- Stars: 68852
+- Forks: 22822
 - Language: Jupyter Notebook
 - Topics: agentic-ai, agentic-framework, agentic-rag, ai-agents, ai-agents-framework, autogen, generative-ai, semantic-kernel
-- Last Updated: 2026-07-08T08:40:11Z
+- Last Updated: 2026-07-08T09:45:23Z
 - License: MIT
 - Archived: No
 - Created At: 2024-11-28T10:42:52Z
-- Pushed At: 2026-07-06T23:27:19Z
+- Pushed At: 2026-07-08T10:46:34Z
 
 ## Possible Use Cases
 
