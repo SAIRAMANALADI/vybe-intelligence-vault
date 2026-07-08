@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 50,128 files</p>
-        <p><b>Last Update:</b> 2026-07-08 14:33 IST</p>
+        <p><b>Last Update:</b> 2026-07-08 16:30 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,27 +210,20 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Chat Control 1.0 and 2.0 Explained](ai/community/chat-control-1-0-and-2-0-explained.md)** • <kbd>+148 pts</kbd>
-- 🔼 **[Tenda firmware (multiple versions) contains hidden authentication backdoor](ai/community/tenda-firmware-multiple-versions-contains-hidden-a.md)** • <kbd>+118 pts</kbd> • Rank: <kbd>+3</kbd>
-- 🔼 **[We're extending access to Fable 5 on all paid plans through July 12](ai/community/we-re-extending-access-to-fable-5-on-all-paid-plan.md)** • <kbd>+86 pts</kbd>
-- 🔼 **[Show HN: Davit, a Apple Containers UI](ai/community/show-hn-davit-a-apple-containers-ui.md)** • <kbd>+65 pts</kbd>
-- 🔼 **[IEEE Rolls Out Large Language Models Training Course](ai/community/ieee-rolls-out-large-language-models-training-cour.md)** • <kbd>+27 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+7</kbd>
+- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+7</kbd>
+- 🔼 **[RUC-NLPIR/FlashRAG](ai/rag/ruc-nlpir-flashrag.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](ai/community/gitlost-we-tricked-github-s-ai-agent-into-leaking.md)** • Score: `128`
-- 🆕 **[Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks](ai/community/copy-that-floppy-cambridge-guide-for-preserving-da.md)** • Score: `61`
-- 🆕 **[Out of the Armchair](ai/community/out-of-the-armchair.md)** • Score: `6`
-- 🆕 **[Firebase Documentation](ai/agents/firebase-documentation.md)** • Score: `0`
-- 🆕 **[googleapis/googleapis](ai/resources/googleapis-googleapis.md)** • Score: `0`
+- 🆕 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Why skilled workers come to Germany and then leave again](ai/community/why-skilled-workers-come-to-germany-and-then-leave.md)**
-- 💤 **[AI Meets Cryptography 1: What AI Found in Cloudflare's Circl](ai/community/ai-meets-cryptography-1-what-ai-found-in-cloudflar.md)**
-- 💤 **[Show HN: Free Mermaid Diagram Editor](ai/community/show-hn-free-mermaid-diagram-editor.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
