@@ -4,24 +4,24 @@ category: "Tooling"
 tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "HTTP/JSON-RPC", "KOMOJU API"]
 quality_score: 7
 rag_relevance: 8
-tags: ["payment processing", "MCP server", "Japan payments", "konbini", "KOMOJU"]
+tags: ["payment processing", "MCP server", "Japan payments", "konbini", "AI agent integration"]
 source: "https://github.com/junter1989k-ai/japan-payments-mcp"
-discovered_at: "2026-07-08T15:17:17Z"
+discovered_at: "2026-07-08T19:17:14Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A remote Model Context Protocol (MCP) server enabling AI agents to generate payment links for Japanese payment methods (konbini, credit cards, PayPay, etc.) via KOMOJU's hosted checkout. It acts as a stateless translation layer between AI agents and Japanese payment rails.
+A remote MCP server enabling AI agents to generate and manage payment links for Japan, supporting konbini (convenience store) payments, credit cards, PayPay, and other local payment methods via KOMOJU's hosted checkout. It acts as a stateless translation layer between AI agents and Japanese payment rails.
 
 ## Key Features
-- Supports multiple Japanese payment methods (konbini, credit cards, PayPay, bank transfer, etc.) via a single API
-- Stateless design with no database or credential storage; funds flow directly between buyer and KOMOJU
-- Provides tools for creating payment links and querying payment status without webhooks
-- Zero runtime dependencies and MIT-licensed for easy integration
-- Part of a family of regional payment MCP servers (Japan, Taiwan, Korea)
+- Supports multiple Japanese payment methods (konbini, credit cards, PayPay, etc.) via KOMOJU
+- Stateless design with no storage of funds or credentials
+- Provides tools for creating payment links and querying payment status
+- Zero runtime dependencies and MIT-licensed
+- Part of a family of regional payment MCP servers
 
 ## Why It Matters for RAG Builders
-It bridges the gap between AI agents and Japan's complex payment infrastructure, enabling seamless payment integration for AI-driven applications.
+It bridges AI agents with Japan's complex payment infrastructure, enabling seamless integration of local payment methods like konbini without requiring webhook handling or manual processes.
 
 ## Tech Stack Deep Dive
 ### JavaScript
