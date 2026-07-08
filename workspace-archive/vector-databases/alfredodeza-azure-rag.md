@@ -12,6 +12,7 @@ resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
+- hackernews
 - openai
 - python
 - rag
@@ -33,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) implementation using Azure services (e.g., Azure Cognitive Search, OpenAI) in Python.
-- **Key Components**: Likely integrates Azure's vector search capabilities with a generative AI model to enhance response generation via retrieved context.
-- **Repository Stats**: 53 stars, 227 forks; last updated April 23, 2026.
+- **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) using Azure services, integrating vector search with large language models (LLMs) for enhanced contextual responses.
+
+- **Technical Stack**: Implemented in Python, leveraging Azure Cognitive Search for vector embeddings and retrieval, with Azure OpenAI for LLM inference and generation.
+
+- **Architecture**: Follows a modular design with components for document ingestion, embedding generation, vector storage, and query processing, op
 
 ## Use Cases
 

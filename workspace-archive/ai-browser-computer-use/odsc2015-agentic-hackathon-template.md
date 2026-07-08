@@ -14,6 +14,7 @@ tags:
 - agents
 - github-repo
 - unknown
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -30,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Standardized Structure**: Provides a pre-defined folder layout optimized for Agentic AI App submissions, ensuring consistency across hackathon entries.
+- **Standardized Starter Repository**: Provides a preconfigured folder structure, environment specifications (e.g., `environment.yml` or `requirements.txt`), and documentation templates to ensure consistency across hackathon submissions.
 
-- **Reproducible Environment**: Includes a spec file (`environment.yml` or equivalent) to replicate dependencies, guaranteeing identical runtime conditions for judging.
+- **Reproducibility Focus**: Includes pinned dependencies and environment specs to guarantee identical execution environments for judging and reproducibility.
 
-- **Documentation Scaffolding**: Offers placeholder files (e.g., `README.md`, `docs/`) to guide teams in structuring project documentation for clarity and completeness.
+- **ODSC 2015 Hackathon Integration**: Designed specifically for the Agentic AI App Hackathon, optimi
 
 ## Use Cases
 

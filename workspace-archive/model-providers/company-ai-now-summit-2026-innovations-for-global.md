@@ -1,6 +1,6 @@
 ---
 title: Company AI Now Summit 2026 Innovations for global enterprises solving the world’s
-  hardest problems. May 28, 2026 Mistral
+  hardest problems. May 28, 2026 By Mistral
 archive_category: model-providers
 source_category: ai/companies/mistral
 source_url: https://mistral.ai/news/ai-now-summit-2026
@@ -21,7 +21,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Company AI Now Summit 2026 Innovations for global enterprises solving the world’s hardest problems. May 28, 2026 Mistral
+# Company AI Now Summit 2026 Innovations for global enterprises solving the world’s hardest problems. May 28, 2026 By Mistral
 
 ## Why This Is In The Archive
 
@@ -34,7 +34,7 @@ selection_reason:
 
 ## Summary
 
-Recent update from Mistral AI News Blog: Company AI Now Summit 2026 Innovations for global enterprises solving the world’s hardest problems. May 28, 2026 Mistral
+Recent update from Mistral AI News Blog: Company AI Now Summit 2026 Innovations for global enterprises solving the world’s hardest problems. May 28, 2026 By Mistral
 
 ## Use Cases
 

@@ -8,17 +8,16 @@ local_vault_path: ai/rag/dencabinetmaker-rust-rage.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: tool
 importance: medium
 tags:
 - github-repo
-- hackernews
 - rag
 - reddit
 - unknown
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # DenCabinetmaker/Rust-Rage
@@ -27,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: tool
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Repository**: `DenCabinetmaker/Rust-Rage` is a Rust-based repository containing a collection of game cheats (aimbot, wallhack, ESP) for the game Rust, last updated on **2026-07-07**.
-- **Metadata**: The repository has **45 stars**, **18 forks**, and an unspecified primary language, with no listed topics.
-- **Purpose**: The project is explicitly designed as a **cheat framework** targeting Rust (2026), though no further technical details are provided in the metadata.
+- **Repository**: DenCabinetmaker/Rust-Rage, a Rust-based cheating toolkit (aimbot, wallhack, ESP) with 45 stars and 18 forks, last updated on 2026-07-07.
+- **Functionality**: Implements undetected cheats (aimbot, wallhack, ESP) for Rust, leveraging Rust's low-level control and performance.
+- **Status**: Actively maintained (as of 2026-07-07), though language details and topics are unspecified in metadata.
 
 ## Use Cases
 

@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **S3 Replication Failures**: Verify S3 bucket replication configuration includes proper IAM roles, destination bucket permissions, and replication rules; check CloudTrail logs for `PutBucketReplication` API calls to diagnose misconfigurations.
+- **S3 Replication Failure**: S3 object replication may fail due to misconfigured IAM roles, missing bucket policy permissions, or incorrect replication configuration settings, even when buckets are in the same or different regions.
 
-- **EC2 Connection Issues**: Troubleshoot SSH/RDP access by validating security group rules, NACLs, and instance-level firewalls; ensure key pairs are correctly associated and SSM Agent is installed/configured for Session Manager access.
+- **EC2 Connection Issues**: SSH/RDP connection failures to EC2 instances often stem from misconfigured security groups, incorrect key pairs, or disabled SSM Agent, requiring verification of network ACLs and instance status.
 
-- **Lambda Mod
+- **Lambda Modification Tracking**: AWS
 
 ## Use Cases
 

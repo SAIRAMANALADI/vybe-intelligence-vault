@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports Anthropic (Claude, Claude Code), OpenAI (ChatGPT, Codex), and other LLM APIs for dynamic agent behavior.
-- **Self-Improving Architecture**: Implements recursive self-improvement via feedback loops, enabling continuous adaptation without manual retraining.
-- **Tool-Agnostic Execution**: Executes code, CLI commands, and API calls via modular tool interfaces (e.g., `clawdbot`, `moltbot`) with sandboxed safety.
+- **Multi-LLM Compatibility**: Supports integration with various LLMs (e.g., Anthropic, OpenAI, Codex) via modular API wrappers, enabling dynamic agent behavior across providers.
+- **Self-Improving Architecture**: Implements a feedback-driven growth mechanism where the agent refines its performance through iterative task execution and user corrections.
+- **Tool-Agnostic Execution**: Executes tasks via standardized interfaces (e.g., `claude-code`, `moltbot`) with extensible tooling for code gener
 
 ## Use Cases
 

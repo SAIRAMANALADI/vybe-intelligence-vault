@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-08T16:50:46.346664+05:30'
+collected_at: '2026-07-09T01:28:36.708190+05:30'
 published_at: '2026-06-30T16:45:55Z'
 tags:
 - github-repo
-- hackernews
+- meta-ai
+- models
 - python
 - rag
+- workflows
 stars: 368
 language: Python
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-08T16:50:46.346664+05:30'
-last_seen: '2026-07-08T16:50:46.346664+05:30'
-last_checked: '2026-07-08T16:50:46.346664+05:30'
+first_seen: '2026-07-09T01:28:36.708190+05:30'
+last_seen: '2026-07-09T01:28:36.708190+05:30'
+last_checked: '2026-07-09T01:28:36.708190+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining vector and keyword-based retrieval for enhanced document search and generation.
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench for streamlined deployment and experimentation with hybrid RAG models.
-- **Python-Based Example**: Provides a Python-based reference implementation for hybrid RAG, showcasing practical integration of retrieval and generative AI techniques.
+- **Hybrid RAG Pipeline**: Demonstrates a hybrid retrieval-augmented generation (RAG) system combining dense (vector) and sparse (keyword/BM25) retrieval methods to enhance document search and response generation.
+
+- **NVIDIA AI Workbench Integration**: Provides a reference implementation for deploying RAG workflows within NVIDIA's AI Workbench, leveraging GPU-accelerated libraries (e.g., FAISS, RAPIDS) for efficient retrieval and LLM inference.
+
+- **Python-Based Example**: Includes a modular Python codebase with pre-processing, retrieval, and generation components, optimized for NVIDIA GPUs and compatible with frameworks like LangChain or LlamaIndex.
 
 ## Why It Matters
 

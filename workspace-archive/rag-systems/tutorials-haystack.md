@@ -6,9 +6,9 @@ source_url: https://haystack.deepset.ai/tutorials
 resource_id: blog:tutorials-haystack
 local_vault_path: ai/rag/tutorials-haystack.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Tutorials | Haystack
@@ -29,19 +29,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Haystack Evaluation Guide**: Comprehensive tutorial covering evaluation methodologies for assessing RAG and generative QA pipelines using statistical and model-based metrics.
+- **Evaluation Framework**: Haystack provides a guided walkthrough for evaluating RAG pipelines using statistical and model-based metrics, enabling systematic performance assessment of generative QA systems.
 
-- **Agentic RAG with Fallback Mechanisms**: Tutorials on building multi-agent systems, tool-calling agents, and fallback routing (e.g., web search) for robust RAG pipelines with conditional logic.
+- **Multimodal RAG Pipeline**: Tutorial demonstrates constructing a multimodal retrieval-augmented generation (RAG) system that integrates both image and text modalities for grounded question answering.
 
-- **Multimodal & Structured Output Pipelines**: Walkthroughs for creating vision+text RAG pipelines, generating structured
+- **KV Cache Compression**: Haystack’s TurboQuant enables significant memory reduction
 
 ## Use Cases
 

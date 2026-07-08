@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Deprecation Notice**: RaGOO is no longer maintained; users are directed to migrate to **RagTag** ([malonge/RagTag](https://github.com/malonge/RagTag)) for continued development.
-- **Technical Scope**: Python-based toolkit specialized for **genome assembly refinement** and **scaffolding** in bioinformatics workflows.
-- **Metadata**: 173 GitHub stars, 28 forks; last updated **2026-06-18**.
+- **Deprecation Notice**: RaGOO is no longer supported; users are directed to use its successor, **RagTag** (https://github.com/malonge/RagTag).
+- **Technical Scope**: Python-based tool for **genome assembly scaffolding** and **scaffolding optimization** in bioinformatics workflows.
+- **Metadata**: 173 stars, 28 forks; last updated **2026-06-18**.
 
 ## Use Cases
 

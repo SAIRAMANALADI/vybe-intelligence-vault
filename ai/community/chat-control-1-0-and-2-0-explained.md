@@ -13,13 +13,14 @@ collected_at: '2026-07-08T16:49:12.854202+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:chat-control-1-0-and-2-0-explained
 first_seen: '2026-07-07T22:58:26.222389+05:30'
 last_seen: '2026-07-08T16:49:12.854202+05:30'
 last_checked: '2026-07-08T16:49:12.854202+05:30'
 health_score: 100
 ---
+
 
 # Chat Control 1.0 and 2.0 Explained
 

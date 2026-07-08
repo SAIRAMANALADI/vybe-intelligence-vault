@@ -6,7 +6,7 @@ source_url: https://github.com/promptfoo/promptfoo-action
 resource_id: github:promptfoo/promptfoo-action
 local_vault_path: ai/rag/promptfoo-promptfoo-action.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
 resource_kind: prompt
 importance: medium
@@ -15,9 +15,11 @@ tags:
 - anthropic
 - benchmark
 - github-repo
+- hackernews
 - meta-ai
 - models
 - rag
+- scripts
 - typescript
 selection_reason:
 - Strong keyword match
@@ -29,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -37,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Action Integration**: Enables automated testing of LLM prompts, agents, and RAG systems via CI/CD pipelines with declarative YAML configurations.
-- **Multi-Model Benchmarking**: Compares performance across major LLMs (GPT, Claude, Gemini, Llama) and supports AI red teaming, pentesting, and vulnerability scanning.
-- **TypeScript-Based**: Built in TypeScript for extensibility, with command-line and CI/CD compatibility for seamless integration.
+- **GitHub Action for Promptfoo**: Enables automated testing of LLM prompts, agents, and RAG systems with AI red teaming, pentesting, and vulnerability scanning capabilities.
+- **Multi-Model Performance Comparison**: Supports benchmarking across LLMs like GPT, Claude, Gemini, and Llama via declarative configs with CLI and CI/CD integration.
+- **Technical Stack**: Implemented in TypeScript, integrates with GitHub Actions for declarative workflows, and includes security-focused LLM evaluation feat
 
 ## Use Cases
 

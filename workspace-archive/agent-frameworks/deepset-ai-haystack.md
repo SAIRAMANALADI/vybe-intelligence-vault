@@ -2,17 +2,26 @@
 title: deepset-ai/haystack
 archive_category: agent-frameworks
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack?source=post_page
+source_url: https://github.com/deepset-ai/haystack
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
-resource_kind: benchmark
-importance: high
+archive_score: 77
+archive_tier: useful
+resource_kind: framework
+importance: medium
+tags:
+- agents
+- github-repo
+- hackernews
+- mdx
+- models
+- openai
+- rag
+- workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # deepset-ai/haystack
@@ -20,19 +29,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack enables building production-ready LLM applications via configurable pipelines for retrieval, routing, memory, and generation, supporting scalable agents, RAG, and multimodal systems.
+- **Modular AI Orchestration Framework**: Enables construction of production-grade LLM applications via configurable pipelines and agent workflows, with explicit control over retrieval, routing, memory, and generation components.
 
-- **Technical Stack**: Implemented in Python with PyTorch, it integrates transformers, semantic search, and retrieval-augmented generation (RAG) for advanced NLP tasks like QA and summarization.
+- **Multi-Use Case Support**: Facilitates scalable agents, RAG, multimodal systems, semantic search, and conversational AI through a unified, extensible architecture.
 
-- **Agent & Workflow Control**: Provides explicit control over agent workflows,
+- **Technical Stack**: Python-based, leveraging PyTorch and Transformers, with native integration for
 
 ## Use Cases
 
@@ -42,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack?source=post_page
+Original source URL: https://github.com/deepset-ai/haystack
 
 ## Local Vault File
 

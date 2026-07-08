@@ -6,14 +6,16 @@ source_url: https://github.com/Yigtwxx/awesome-rag-production
 resource_id: github:yigtwxx/awesome-rag-production
 local_vault_path: ai/rag/yigtwxx-awesome-rag-production.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - github-repo
+- hackernews
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -24,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -32,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Tools & Frameworks**: Repository aggregates production-grade tools (e.g., LangChain) and frameworks for scalable RAG systems, emphasizing battle-tested solutions for deployment.
-- **Key Components**: Focuses on embeddings, vector databases, LLMOps, and MLOps practices for optimizing retrieval-augmented generation pipelines in Python.
-- **Best Practices**: Provides curated best practices for integrating LLMs, generative AI, and retrieval mechanisms to ensure high-performance, producti
+- **Curated resources**: Repository aggregates production-grade tools, frameworks, and best practices for scalable RAG systems, covering LLMs, embeddings, vector databases, and MLOps workflows.
+- **Technical scope**: Focuses on battle-tested solutions for AI engineering, including LangChain, vector DBs, and LLM deployment pipelines, with Python-centric implementations.
+- **Community-driven**: Maintained as an "awesome-list" with 147 stars and 36 forks, last updated July 2026, emphasizing curated
 
 ## Use Cases
 

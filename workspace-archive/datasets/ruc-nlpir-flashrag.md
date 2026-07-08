@@ -2,17 +2,24 @@
 title: RUC-NLPIR/FlashRAG
 archive_category: datasets
 source_category: ai/rag
-source_url: https://github.com/RUC-NLPIR/FlashRAG?source=post_page
+source_url: https://github.com/RUC-NLPIR/FlashRAG
 resource_id: github:ruc-nlpir/flashrag
 local_vault_path: ai/rag/ruc-nlpir-flashrag.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
+tags:
+- benchmark
+- dataset
+- github-repo
+- python
+- rag
+- reddit
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # RUC-NLPIR/FlashRAG
@@ -20,19 +27,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Efficient RAG Framework**: FlashRAG is a Python toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient retrieval and generation techniques to accelerate experimentation.
+- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experiments.
 
-- **Benchmark & Dataset Support**: The toolkit includes built-in benchmarks and datasets tailored for RAG evaluation, enabling standardized testing and comparison of retrieval and generation models.
+- **Benchmark & Dataset Integration**: Includes built-in support for standardized RAG benchmarks and datasets, enabling reproducible evaluation of retrieval and generation components.
 
-- **Modular & Extensible**: Designed with modularity in mind, FlashRAG s
+- **Modular Architecture**: Designed with modularity for seamless integration with large lan
 
 ## Use Cases
 
@@ -42,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/RUC-NLPIR/FlashRAG?source=post_page
+Original source URL: https://github.com/RUC-NLPIR/FlashRAG
 
 ## Local Vault File
 

@@ -14,10 +14,11 @@ tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - openai
 - rag
+- scripts
 - typescript
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Browser-based autonomous AI agent deployment**: Enables users to assemble, configure, and deploy autonomous AI agents directly in the browser without local setup.
+- **Browser-based autonomous AI agent deployment**: Enables users to assemble, configure, and deploy AI agents directly in the browser without local setup.
 
-- **Tech stack**: Built with TypeScript, Next.js (T3 stack), and integrates LangChain, OpenAI's LLM, and other AI agent frameworks (e.g., AutoGPT, BabyAGI).
+- **Tech stack**: Built with **TypeScript**, leveraging **Next.js (T3 Stack)**, **LangChain**, and **OpenAI's LLM** for agent orchestration and natural language processing.
 
-- **Scalability & extensibility**: Supports modular agent configuration, leverages modern web technologies, and is actively maintained (last updated July 2026).
+- **Integration with AGI frameworks**: Supports **AutoGPT** and **BabyAGI** methodologies, allowing multi-agent task automation and goal-driven workflows.
 
 ## Use Cases
 

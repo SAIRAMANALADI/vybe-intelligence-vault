@@ -6,7 +6,7 @@ source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-n
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
 local_vault_path: ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md
 quality_score: 70
-archive_score: 76
+archive_score: 78
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 78 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture Fundamentals**: RAG combines LLMs with external retrieval systems to enhance responses by fetching relevant information from documents/databases without overloading the LLM’s context window, addressing token limits (e.g., GPT-4.1: 1M tokens, GPT-5: 400K tokens).
+- **RAG Architecture**: Combines LLMs with retrieval systems to fetch relevant external information (documents, databases) dynamically, avoiding context window overload; divided into **injection pipeline** (data ingestion/chunking/embedding) and **retrieval pipeline** (query embedding + similarity search).
 
-- **Vector Embeddings & Pipeline**: Text chunks are converted into high-dimensional vector embeddings (e.g., OpenAI’s 3,072-dimension embeddings) via embedding models, stored in vector databases (e.g., Pinecone, FAI
+- **Embeddings & Vector DBs**: Text chunks are converted into high-dimensional vector embeddings (e.g., OpenAI’s 3,072-dim vectors) using specialized models; these vectors are stored in vecto
 
 ## Use Cases
 

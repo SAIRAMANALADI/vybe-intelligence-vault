@@ -13,8 +13,8 @@ Langfuse, Ollama, llama.cpp, vLLM, Phoenix.
 *   [UCLA COVID protocols - COVID-19 and vaccine resources](https://covid-19.ucla.edu/ucla-covid-protocols)
 *   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse?utm_source=clickhouse&utm_medium=website&utm_campaign=website-nav)
 *   [Sanjeev Arora](https://www.cs.princeton.edu/~arora)
+*   [GitHub Changelog](https://github.blog/changelog)
 *   [The Linux Kernel documentation — The Linux Kernel documentation](https://docs.kernel.org/)
-*   [Hugging Face – The AI community building the future.](https://huggingface.co/)
 
 ## Project Ideas
 *   Self-hosted Ollama server with custom evaluators verifying response quality.

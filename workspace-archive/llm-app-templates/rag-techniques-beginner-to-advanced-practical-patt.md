@@ -40,11 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **Core RAG Architecture**: Combines dense/sparse retrievers (FAISS, BM25) with LLMs for grounded generation, reducing hallucinations via external knowledge retrieval and enabling dynamic knowledge updates.
+- **Core RAG Architecture**: Combines a retriever (dense/sparse embeddings + vector search) with a generator (LLM) to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates via document indexing.
 
-- **Intermediate Optimization Techniques**: Implements hybrid retrieval (dense + sparse), reranking (cross-encoders like monoT5), query expansion (HyDE, multi-query), and metadata filtering to enhance precision/recall and reduce latency/cost.
-
-- **Advanced RAG Patterns**: Features multi-hop
+- **Key Intermediate Techniques**: Implements chunking with overlap, hybrid retrieval (sparse BM25 + dense embeddings), reranking (cross-encoder models), query expansion (HyDE/multi-query), and metadata filtering to optimize precision/recall and latency.
 
 ## Use Cases
 

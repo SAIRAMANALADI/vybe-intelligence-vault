@@ -9,12 +9,11 @@ local_vault_path: ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: dataset
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
 - benchmark
-- dataset
 - hackernews
 - meta-ai
 - models
@@ -32,17 +31,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: dataset
+- Resource kind: benchmark
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **LangChain v0.24.0** enables modular RAG pipelines with multi-agent workflows and improved LLM compatibility (e.g., Llama 3.1 70b instruct), reducing deployment overhead via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
+- **LangChain v0.24.0** enables modular RAG pipelines with multi-agent workflows and LLM compatibility (e.g., Llama 3.1 70b), reducing deployment overhead via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
 
-- **LlamaIndex v0.12.0** introduces semantic chunking and database connectors, achieving **30% higher retrieval accuracy** in large-scale unstructured datasets while supporting formats like PDFs, CSVs, and Word via `DBConnectors` and `Unstructured.io`.
+- **LlamaIndex v0.12.0** introduces semantic chunking and +30% retrieval accuracy improvements via advanced filtering and `DBConnectors` for structured databases, optimized for large-scale unstructured data.
 
-- **R
+- **RAGFlow v0.24.0** supports multi-modal parsing, agent-based work
 
 ## Use Cases
 

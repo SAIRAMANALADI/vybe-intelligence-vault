@@ -3,8 +3,10 @@ title: truefoundry/cognita
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/truefoundry/cognita
-collected_at: '2026-07-08T14:21:01.100266+05:30'
+source_url: https://github.com/truefoundry/cognita?source=post_page
+resource_id: github:truefoundry/cognita
+-----dba899ae0355---------------------------------------
+collected_at: '2026-07-09T01:32:11.896081+05:30'
 published_at: '2026-07-06T10:20:18Z'
 tags:
 - agents
@@ -12,7 +14,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 stars: 4411
 language: Python
 status: active
@@ -21,9 +22,9 @@ archived: true
 created_at: '2023-07-26T13:08:54Z'
 pushed_at: '2026-03-13T15:04:36Z'
 resource_id: github:truefoundry/cognita
-first_seen: '2026-07-08T14:21:01.100266+05:30'
-last_seen: '2026-07-08T14:21:01.100266+05:30'
-last_checked: '2026-07-08T14:21:01.100266+05:30'
+first_seen: '2026-07-09T01:32:11.896081+05:30'
+last_seen: '2026-07-09T01:32:11.896081+05:30'
+last_checked: '2026-07-09T01:32:11.896081+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: Open-source Python-based framework designed for building production-grade Retrieval Augmented Generation (RAG) applications with modular components for scalability and customization.
+- **Modular RAG Framework**: Open-source Python framework for building production-grade Retrieval Augmented Generation (RAG) applications with modular components for scalability and customization.
 
-- **TrueFoundry Integration**: Supports seamless deployment and MLOps workflows via TrueFoundry’s platform, enabling LLMOps, fine-tuning, and model deployment with built-in observability and monitoring.
+- **TrueFoundry Integration**: Designed for seamless deployment and MLOps integration, supporting LLM fine-tuning, model deployment, and retrieval pipelines.
 
-- **Multi-Language Support**: Combines Python for backend RAG pipelines with TypeScript for frontend integration, offering flexibility for full-stack AI application development.
+- **Multi-Language Support**: Primarily Python-based with TypeScript components, enabling hybrid application development for generative AI and agent-based systems.
 
 ## Why It Matters
 
@@ -70,4 +71,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/truefoundry/cognita
+Original source: https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------

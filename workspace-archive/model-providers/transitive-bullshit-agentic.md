@@ -8,7 +8,7 @@ local_vault_path: ai/agents/transitive-bullshit-agentic.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: mcp-server
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **TypeScript-based MCP Framework**: Open-source library (`agentic`) for converting APIs into paid MCP servers, enabling monetization of AI agent interactions via OpenAI-compatible interfaces.
-- **Agent Orchestration**: Supports dynamic agent workflows with LLM-driven task decomposition, state management, and tool integration for complex AI agent systems.
-- **Real-time API Monetization**: Implements rate-limiting, subscription tiers, and usage tracking to enable per-call or tiered billing for A
+- **Agentic**: A TypeScript framework enabling rapid conversion of APIs into paid MCP (Model Context Protocol) servers, facilitating monetization of AI/LLM agent interactions.
+- **Key Features**: Supports OpenAI-compatible agent workflows, integrates with LLMs, and provides tooling for API-to-MCP transformation with minimal setup.
+- **Ecosystem**: Targets AI agent developers, emphasizes OpenAPI/SDK-based MCP generation, and includes examples for OpenAI Function Calling and MCP client/server impl
 
 ## Use Cases
 

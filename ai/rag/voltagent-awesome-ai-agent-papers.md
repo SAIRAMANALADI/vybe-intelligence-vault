@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/VoltAgent/awesome-ai-agent-papers
-collected_at: '2026-07-08T16:51:51.384819+05:30'
-published_at: '2026-07-08T10:00:33Z'
+collected_at: '2026-07-09T01:29:41.724704+05:30'
+published_at: '2026-07-08T15:01:52Z'
 tags:
 - agents
 - benchmark
@@ -15,7 +15,7 @@ tags:
 - rag
 - unknown
 - workflows
-stars: 1542
+stars: 1543
 language: Unknown
 status: active
 license: MIT
@@ -23,9 +23,9 @@ archived: false
 created_at: '2026-02-10T10:58:31Z'
 pushed_at: '2026-07-03T04:40:33Z'
 resource_id: github:voltagent/awesome-ai-agent-papers
-first_seen: '2026-07-08T16:51:51.384819+05:30'
-last_seen: '2026-07-08T16:51:51.384819+05:30'
-last_checked: '2026-07-08T16:51:51.384819+05:30'
+first_seen: '2026-07-09T01:29:41.724704+05:30'
+last_seen: '2026-07-09T01:29:41.724704+05:30'
+last_checked: '2026-07-09T01:29:41.724704+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated 2026 AI Agent Research**: Repository aggregates cutting-edge papers on AI agents, focusing on agent engineering, memory systems, evaluation frameworks, workflows, and autonomous architectures.
-- **Technical Scope**: Covers LLM-based agents, Retrieval-Augmented Generation (RAG), memory optimization, and agentic workflows with 1542 stars and 164 forks.
-- **Metadata**: Last updated July 8, 2026; topics include `ai-agents`, `llm-agents`, and `memory`, hosted on GitHub.
+- **Curated 2026 AI Agent Research**: Repository aggregates 2026 papers on AI agent engineering, memory systems, evaluation frameworks, workflows, and autonomous architectures.
+- **Technical Scope**: Covers LLM-based agents, retrieval-augmented generation (RAG), memory mechanisms, and agentic workflows with emphasis on scalability and autonomy.
+- **Metadata**: 1,543 stars, 164 forks; last updated July 8, 2026; topics include `ai-agents`, `llm-agents`, and `memory`.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: VoltAgent
-- Stars: 1542
+- Stars: 1543
 - Forks: 164
 - Language: Unknown
 - Topics: ai-agents, awesome, awesome-list, llm, llm-agents, memory, rag, research-paper
-- Last Updated: 2026-07-08T10:00:33Z
+- Last Updated: 2026-07-08T15:01:52Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-10T10:58:31Z

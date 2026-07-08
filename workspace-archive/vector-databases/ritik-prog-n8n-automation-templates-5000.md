@@ -33,8 +33,8 @@ selection_reason:
 ## Summary
 
 - **Repository Overview**: Open-source collection of 5000+ production-ready n8n workflow templates covering AI, CRM, finance, e-commerce, marketing, and RAG automation.
-- **Metadata**: 423 stars, 168 forks, last updated July 8, 2026.
-- **Accessibility**: Free templates with no specified primary language, hosted on GitHub.
+- **Metadata**: 423 stars, 168 forks, last updated 2026-07-08T09:56:23Z.
+- **Accessibility**: Free to use, no explicit primary language specified.
 
 ## Use Cases
 

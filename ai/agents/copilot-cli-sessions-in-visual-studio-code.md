@@ -4,17 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
-published_at: '2026-07-08T14:26:04.438761+05:30'
-collected_at: '2026-07-08T14:26:04.438774+05:30'
+published_at: '2026-07-09T01:36:13.074028+05:30'
+collected_at: '2026-07-09T01:36:13.074041+05:30'
 tags:
 - agents
 - openai
 - web-crawled
 status: active
 resource_id: blog:copilot-cli-sessions-in-visual-studio-code
-first_seen: '2026-07-08T14:26:04.438774+05:30'
-last_seen: '2026-07-08T14:26:04.438774+05:30'
-last_checked: '2026-07-08T14:26:04.438774+05:30'
+first_seen: '2026-07-09T01:36:13.074041+05:30'
+last_seen: '2026-07-09T01:36:13.074041+05:30'
+last_checked: '2026-07-09T01:36:13.074041+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Copilot CLI Sessions**: Background agent sessions run autonomously via GitHub Copilot CLI, managed from VS Code's Chat view; support parallel execution, slash commands (`/research`, `/yolo`), and two isolation modes (Worktree/Folder) for codebase changes.
+- **Copilot CLI Sessions**: VS Code supports background agent sessions via GitHub Copilot CLI, enabling autonomous task execution (e.g., feature implementation, POC variants) with local execution outside the editor, monitored via the Chat view.
 
-- **Isolation & Permissions**: Worktree isolation auto-bypasses approvals (Git worktree-based), while Folder isolation offers Default/Bypass/Autopilot modes; permissions depend on isolation type and require Git repository for Worktree.
+- **Isolation Modes**: Two isolation modes are supported—**Worktree** (isolated Git worktree for changes) and **Folder** (direct workspace modifications)—with Worktree auto-approving tool calls and Folder offering configurable permission levels (Default/Bypass/Autopilot).
 
-- **Session Management**: Created via Chat view or `Chat: New Copilot CLI` command; supports multi-repository workspaces, custom agents, and deep research tasks; integrates with Copilot SDK for lifecycle control (start/stop/monitor).
+- **Session Management**: Sessions can be initiated via Chat view or commands, support slash commands (e.g., `/research`, `/yolo`), and integrate with VS Code’s Copilot SDK for lifecycle control (start/stop/monitor).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-08T14:26:04.438761+05:30
+- Published: 2026-07-09T01:36:13.074028+05:30
 
 ## Related Tags
 

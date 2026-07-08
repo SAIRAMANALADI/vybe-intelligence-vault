@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - workflows
 selection_reason:
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Security scanner designed to audit AI agents, MCP servers, and agent skills for vulnerabilities and misconfigurations.
-- **Key Features**: Supports static and dynamic analysis of Python-based AI systems, integrating with the Model Context Protocol (MCP) for contextual security insights.
-- **Integration**: Compatible with Snyk’s vulnerability database, enabling automated dependency and code vulnerability detection in AI-driven workflows.
+- **Purpose**: Security scanner designed to audit AI agents, MCP servers, and agent skills for vulnerabilities.
+- **Key Features**: Supports static and dynamic analysis of agent workflows, MCP protocol interactions, and skill integrations.
+- **Technical Stack**: Python-based, integrates with Snyk’s vulnerability database for real-time threat detection.
 
 ## Use Cases
 

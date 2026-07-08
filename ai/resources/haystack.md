@@ -3,16 +3,16 @@ title: Haystack
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://discord.com/invite/xYvH6drSmA
-published_at: '2026-07-08T01:51:54.285934+05:30'
-collected_at: '2026-07-08T01:51:54.285947+05:30'
+source_url: https://discord.com/invite/Dr63fr9NDS
+published_at: '2026-07-09T01:35:46.845383+05:30'
+collected_at: '2026-07-09T01:35:46.845396+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:haystack
-first_seen: '2026-07-08T01:51:54.285947+05:30'
-last_seen: '2026-07-08T01:51:54.285947+05:30'
-last_checked: '2026-07-08T01:51:54.285947+05:30'
+first_seen: '2026-07-09T01:35:46.845396+05:30'
+last_seen: '2026-07-09T01:35:46.845396+05:30'
+last_checked: '2026-07-09T01:35:46.845396+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Client-Side Requirement**: JavaScript execution is mandatory for the web application to function, as it relies on client-side scripting for dynamic content rendering and interactivity.
+- **Error Indication**: The message "You need to enable JavaScript to run this app" indicates that the web application requires JavaScript execution to function, but the browser has JavaScript disabled.
 
-- **Browser Dependency**: The application's core features depend on JavaScript being enabled in the user's web browser to process and display real-time updates or execute critical logic.
+- **Client-Side Requirement**: JavaScript is essential for rendering dynamic content and executing client-side logic in modern web applications, as enforced by the application's design.
 
-- **Fallback Limitation**: Without JavaScript, the application cannot initialize, leading to a static or non-functional state, as no server-side rendering or alternative mechanisms are provided.
+- **Resolution**: To resolve this, users must enable JavaScript in their browser settings or ensure no extensions/ad-blockers are preventing its execution.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-08T01:51:54.285934+05:30
+- Published: 2026-07-09T01:35:46.845383+05:30
 
 ## Related Tags
 
@@ -42,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://discord.com/invite/xYvH6drSmA
+Original source: https://discord.com/invite/Dr63fr9NDS

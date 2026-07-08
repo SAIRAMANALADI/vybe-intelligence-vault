@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Orchestration Framework**: Haystack 2.30 is an open-source framework for building production-ready AI agents, RAG applications, and multimodal search systems using reusable, task-specific components with modular architecture.
+- **Open-source AI orchestration framework** for building production-ready applications with LLMs, supporting use cases like autonomous agents, multimodal systems, and RAG pipelines.
 
-- **Core Components**: Includes Document Stores, Agents, Tools, and integrations (e.g., OpenAI, Google, Hugging Face Transformers), enabling scalable pipelines for LLM-based applications.
+- **Modular architecture** composed of reusable components (e.g., Document Stores, Agents, Tools) and pipelines, integrating technologies from providers like OpenAI, Google, and Hugging Face.
 
-- **Enterprise & Scalability**: Offers enterprise-grade support (Hays
+- **Enterprise-grade extensions** (Haystack Enterprise Starter/Platform) provide scalability, governance, and deployment su
 
 ## Use Cases
 

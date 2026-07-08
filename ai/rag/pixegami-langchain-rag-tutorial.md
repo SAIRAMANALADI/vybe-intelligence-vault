@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-07-08T16:50:16.288571+05:30'
+collected_at: '2026-07-09T01:28:06.611746+05:30'
 published_at: '2026-07-07T13:22:54Z'
 tags:
 - github-repo
-- meta-ai
-- models
+- openai
 - python
 - rag
 - workflows
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-07-08T16:50:16.288571+05:30'
-last_seen: '2026-07-08T16:50:16.288571+05:30'
-last_checked: '2026-07-08T16:50:16.288571+05:30'
+first_seen: '2026-07-09T01:28:06.611746+05:30'
+last_seen: '2026-07-09T01:28:06.611746+05:30'
+last_checked: '2026-07-09T01:28:06.611746+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
+- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with generative models for enhanced responses.
 
-- **Python-Based Architecture**: Utilizes Python with LangChain’s modular components (e.g., `RetrievalQA`, `VectorStore`) to process queries, embed documents, and generate context-aware outputs.
+- **Python-Based Architecture**: Utilizes Python for modular components, including document loaders, text splitters, vector stores (e.g., FAISS), and LLM integration (e.g., OpenAI, HuggingFace).
 
-- **Example Workflow**: Includes a step-by-step tutorial covering document loading (e.g., PDFs), text splitting, embedding (e.g., FAISS), and querying via a local LLM (e.g., Llama 2).
+- **Tutorial Focus**: Provides step-by-step guidance on constructing a RAG system, covering indexing, retrieval, and generation workflows with minimal dependencies.
 
 ## Why It Matters
 

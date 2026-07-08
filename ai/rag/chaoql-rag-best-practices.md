@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-07-08T16:51:01.342035+05:30'
+collected_at: '2026-07-09T01:28:51.653216+05:30'
 published_at: '2026-07-05T01:00:39Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
-- models
 - python
 - rag
 - workflows
@@ -22,9 +20,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-07-08T16:51:01.342035+05:30'
-last_seen: '2026-07-08T16:51:01.342035+05:30'
-last_checked: '2026-07-08T16:51:01.342035+05:30'
+first_seen: '2026-07-09T01:28:51.653216+05:30'
+last_seen: '2026-07-09T01:28:51.653216+05:30'
+last_checked: '2026-07-09T01:28:51.653216+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements advanced retrieval-augmented generation (RAG) techniques for large language models (LLMs), focusing on retrieval quality, prompt engineering, and generation fine-tuning.
+- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular components for indexing, retrieval, and generation, supporting dynamic chunking and embedding strategies.
 
-- **Modular Python Implementation**: Provides a structured, extensible codebase in Python for integrating RAG pipelines, including document preprocessing, vector storage, and query-response workflows.
+- **Python-Based Pipeline**: Utilizes Python libraries (e.g., LangChain, FAISS, or Sentence-Transformers) for efficient document processing, vector storage, and similarity search in RAG workflows.
 
-- **Best Practices Documentation**: Includes benchmarking methodologies and performance optimization strategies for deploying RAG systems in production environments.
+- **Scalability & Evaluation**: Includes benchmarks and metrics for evaluating retrieval quality and generation performance, with support for multi-modal or hybrid retrieval methods.
 
 ## Why It Matters
 

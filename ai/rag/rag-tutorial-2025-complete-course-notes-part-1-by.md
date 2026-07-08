@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280
-published_at: '2026-07-08T16:50:09.874241+05:30'
-collected_at: '2026-07-08T16:50:09.874253+05:30'
+published_at: '2026-07-09T01:27:59.532423+05:30'
+collected_at: '2026-07-09T01:27:59.532435+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
-first_seen: '2026-07-08T16:50:09.874253+05:30'
-last_seen: '2026-07-08T16:50:09.874253+05:30'
-last_checked: '2026-07-08T16:50:09.874253+05:30'
+first_seen: '2026-07-09T01:27:59.532435+05:30'
+last_seen: '2026-07-09T01:27:59.532435+05:30'
+last_checked: '2026-07-09T01:27:59.532435+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture Fundamentals**: RAG combines LLMs with external retrieval systems to enhance responses by fetching relevant information from documents/databases without overloading the LLM’s context window, addressing token limits (e.g., GPT-4.1: 1M tokens, GPT-5: 400K tokens).
+- **RAG Architecture**: Combines LLMs with retrieval systems to fetch relevant external information (documents, databases) dynamically, avoiding context window overload; divided into **injection pipeline** (data ingestion/chunking/embedding) and **retrieval pipeline** (query embedding + similarity search).
 
-- **Vector Embeddings & Pipeline**: Text chunks are converted into high-dimensional vector embeddings (e.g., OpenAI’s 3,072-dimension embeddings) via embedding models, stored in vector databases (e.g., Pinecone, FAISS). User queries are similarly embedded, and semantic similarity retrieves top-*k* relevant chunks for LLM input.
+- **Embeddings & Vector DBs**: Text chunks are converted into high-dimensional vector embeddings (e.g., OpenAI’s 3,072-dim vectors) using specialized models; these vectors are stored in vector databases (Pinecone, Weaviate, FAISS) for semantic similarity search via cosine distance or other metrics.
 
-- **Chunking & Retrieval Workflow**: Documents are split into fixed-token chunks (e.g., 1,000 tokens) during the injection pipeline. Retrieval uses vector similarity (e.g., cosine distance) to fetch top-*k* chunks, which are then passed to the LLM for answer generation, optimizing precision while minimizing irrelevant context.
+- **Retrieval Workflow**: User queries are embedded and matched against stored vectors to retrieve top-*k* relevant chunks, which are then passed to the LLM for answer generation; chunking strategies (e.g., 1,000-token segments) and embedding dimensionality critically impact retrieval precision.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T16:50:09.874241+05:30
+- Published: 2026-07-09T01:27:59.532423+05:30
 
 ## Related Tags
 

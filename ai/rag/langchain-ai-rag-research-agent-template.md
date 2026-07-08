@@ -4,11 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-07-08T16:50:26.397050+05:30'
+collected_at: '2026-07-09T01:28:16.721932+05:30'
 published_at: '2026-07-06T11:16:05Z'
 tags:
 - agents
+- anthropic
 - github-repo
+- openai
 - python
 - rag
 stars: 313
@@ -19,9 +21,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-07-08T16:50:26.397050+05:30'
-last_seen: '2026-07-08T16:50:26.397050+05:30'
-last_checked: '2026-07-08T16:50:26.397050+05:30'
+first_seen: '2026-07-09T01:28:16.721932+05:30'
+last_seen: '2026-07-09T01:28:16.721932+05:30'
+last_checked: '2026-07-09T01:28:16.721932+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Structure**: Provides a modular Python framework for building Retrieval-Augmented Generation (RAG) research agents, leveraging LangChain components for document processing, vector storage, and agent orchestration.
-
-- **Key Components**: Includes pre-configured pipelines for document ingestion (e.g., PDF/Markdown loaders), embedding generation (e.g., HuggingFace/Sentence-Transformers), vector search (e.g., FAISS/Chroma), and agent toolkits (e.g., web search, code execution).
-
-- **Deployment-Ready**: Supports Dockerized setups for local/remote execution, with hooks for integrating custom LLMs (e.g., via LangChain’s LLM abstraction) and APIs (e.g., Tavily, SerpAPI) for enhanced research capabilities.
+- **Template Purpose**: Provides a structured framework for building Retrieval-Augmented Generation (RAG) research agents using LangChain, emphasizing modularity and scalability.
+- **Key Components**: Includes pre-configured pipelines for document ingestion, retrieval, and agent-based query processing with support for vector databases (e.g., Chroma, FAISS).
+- **Dependencies**: Leverages LangChain core libraries (e.g., `langchain-core`, `langchain-community`) and integrates with LLM providers (e.g., OpenAI, Anthropic) via standardized interfaces.
 
 ## Why It Matters
 

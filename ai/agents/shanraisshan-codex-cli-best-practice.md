@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-07-08T14:19:25.894245+05:30'
+collected_at: '2026-07-09T01:30:31.756254+05:30'
 published_at: '2026-07-07T20:51:47Z'
 tags:
 - agents
 - github-repo
 - openai
 - python
+- scripts
 - workflows
 stars: 916
 language: Python
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-07-08T14:19:25.894245+05:30'
-last_seen: '2026-07-08T14:19:25.894245+05:30'
-last_checked: '2026-07-08T14:19:25.894245+05:30'
+first_seen: '2026-07-09T01:30:31.756254+05:30'
+last_seen: '2026-07-09T01:30:31.756254+05:30'
+last_checked: '2026-07-09T01:30:31.756254+05:30'
 health_score: 100
 ---
 
@@ -30,7 +31,11 @@ health_score: 100
 
 ## Summary
 
-*   Provides `codex-cli` best practices for transitioning from ad-hoc development to structured
+- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using **Codex CLI**, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
+
+- **Codex CLI Best Practices**: Provides curated commands, hooks, and CLI skills for **OpenAI Codex**, optimizing agentic workflows via reusable patterns, context management, and skill orchestration for scalable AI agent interactions.
+
+- **Pakistani Developer Contributions**: Open-source project led by a Pakistani developer, showcasing **AI agentic engineering** practices with Python-based CLI tools, contributing to global best practices in AI-driven coding automation.
 
 ## Why It Matters
 

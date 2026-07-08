@@ -11,7 +11,7 @@ LangGraph, CrewAI, AutoGen, Microsoft Semantic Kernel.
 
 ## Recommended Resources from the Vault
 *   [haystack-tutorials/Contributing.md at main · deepset-ai/haystack-tutorials · GitHub](https://github.com/deepset-ai/haystack-tutorials/blob/main/Contributing.md#contributing-to-haystack-tutorials)
-*   [Haystack](https://discord.com/invite/xYvH6drSmA)
+*   [Haystack](https://discord.com/invite/Dr63fr9NDS)
 *   [deepset-ai/haystack-experimental](https://github.com/deepset-ai/haystack-experimental)
 *   [CHARLIE: An On-Premise Multi-Agent Retrieval-Augmented Generation System for Evidential Reasoning in Forensic Science](https://arxiv.org/abs/2607.05428)
 *   [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers)

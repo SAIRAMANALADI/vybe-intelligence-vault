@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Demonstrates best practices for Retrieval-Augmented Generation (RAG) in Vietnamese, including text preprocessing, embedding generation, and retrieval pipeline optimization.
+- **Implementation of RAG for Vietnamese**: Demonstrates best practices for Vietnamese text retrieval and generation using Retrieval-Augmented Generation (RAG) with Python.
 
-- **Modular Python Architecture**: Features a structured backend with components for document ingestion, vector storage (e.g., FAISS/Weaviate), and LLM integration (e.g., ViT5, PhoBERT) for context-aware generation.
+- **Modular Architecture**: Likely includes components for document retrieval, embedding generation (e.g., using `sentence-transformers`), and LLM integration (e.g., `vllm` or `transformers`).
 
-- **Evaluation & Scalability**: Includes Vietnamese-specific benchmarks
+- **Evaluation & Optimization**: Focuses on Vietnamese-specific challenges (e.g., tokenization, embedding quality) and may include b
 
 ## Use Cases
 

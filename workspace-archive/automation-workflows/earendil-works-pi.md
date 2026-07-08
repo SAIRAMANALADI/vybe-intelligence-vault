@@ -8,17 +8,16 @@ local_vault_path: ai/agents/earendil-works-pi.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: workflow
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
-- scripts
 - typescript
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # earendil-works/pi
@@ -27,18 +26,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: workflow
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Unified LLM API**: Provides a standardized interface for interacting with multiple large language models (LLMs) via a single API, abstracting provider-specific differences.
+- **Unified LLM API Integration**: Provides a standardized interface to interact with multiple large language models (LLMs) via a single API, abstracting provider-specific complexities.
 
-- **Agent Loop & TUI**: Implements an autonomous agent loop with a terminal user interface (TUI) for real-time interaction, enabling iterative task execution and debugging.
+- **Agent Loop & TUI Framework**: Implements a modular agent loop architecture for autonomous task execution, paired with a terminal user interface (TUI) for real-time interaction and debugging.
 
-- **Coding Agent CLI**: Includes a command-line interface (CLI) for deploying AI-driven coding agents, supporting automation of code generation, tes
+- **Coding Agent CLI**: Includes a command-line interface (CLI) tool for deploying and managing AI-powered coding age
 
 ## Use Cases
 

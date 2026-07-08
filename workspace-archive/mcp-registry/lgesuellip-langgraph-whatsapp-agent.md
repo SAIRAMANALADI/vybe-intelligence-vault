@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **LangGraph-WhatsApp Integration**: Template for deploying AI agents on WhatsApp using LangGraph and Twilio, enabling message/image processing and graph-based agent invocation.
-- **MCP & LangGraph Platform Compatibility**: Integrates with Model Context Protocol (MCP) and runs on the LangGraph Platform for scalable agent deployment.
-- **Python-Based Template**: Repository provides a Python-based starter kit with 233 stars and 96 forks, last updated July 2026.
+- **Framework Integration**: Template for WhatsApp agents using **LangGraph** (graph-based agent orchestration) and **Twilio** (WhatsApp API integration), enabling AI-driven interactions with message/image processing.
+
+- **Custom Agent Support**: Enables deployment of **graph-based AI agents** with **MCP (Model Context Protocol)** integration, allowing modular and extensible agent logic for WhatsApp interactions.
+
+- **Platform Deployment**: Designed to run on the **LangGraph Platform**, facilita
 
 ## Use Cases
 

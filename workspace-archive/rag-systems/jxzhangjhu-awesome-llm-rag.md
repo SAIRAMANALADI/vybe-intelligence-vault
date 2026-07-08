@@ -11,9 +11,9 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
 - hackernews
-- models
 - rag
 - unknown
 selection_reason:
@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated resource**: A comprehensive, community-maintained list of advanced **Retrieval-Augmented Generation (RAG)** techniques, frameworks, and tools for **Large Language Models (LLMs)**, covering retrieval, embeddings, and integration strategies.
-
-- **Technical scope**: Focuses on **RAG-specific topics** including **embedding models**, **retrieval mechanisms**, **LLM fine-tuning for RAG**, and **hybrid retrieval-augmentation pipelines**.
-
-- **Repository metadata**: 1,338 stars, 85 forks, la
+- **Curated resource** focusing on advanced **Retrieval-Augmented Generation (RAG)** techniques for **Large Language Models (LLMs)**, including embeddings, retrieval methods, and hybrid architectures.
+- **Comprehensive collection** of state-of-the-art RAG methodologies, frameworks, and benchmarks for enhancing LLM performance via dynamic knowledge retrieval.
+- **Actively maintained** repository (last updated July 2026) with **1,338 stars** and **85 forks**, covering topics like **RAG-embeddings*
 
 ## Use Cases
 

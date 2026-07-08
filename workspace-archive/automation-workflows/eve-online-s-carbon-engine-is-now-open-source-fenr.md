@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by Stevvo. Score: 59, Comments: 4.
+Hacker News story by Stevvo. Score: 343, Comments: 118.
 Original Link: https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why
 
 ## Use Cases

@@ -17,6 +17,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent RAG Framework**: Implements a collaborative system of AI agents (e.g., CrewAI, AutoGen) using Python to process, analyze, and extract insights from documents via Retrieval-Augmented Generation (RAG).
+- **Multi-Agent Architecture**: Implements a collaborative framework using agents (e.g., CrewAI, AutoGen) to parallelize document processing, analysis, and insight generation via RAG (Retrieval-Augmented Generation).
 
-- **Integration Stack**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate), LLMs (GPT-3.5/4, GPT-5, Anthropic), and frameworks (LangChain) for document ingestion, retrieval, and agent orchestration.
+- **Integration Stack**: Supports vector databases (ChromaDB, Pinecone, Weaviate) and LLM APIs (OpenAI GPT-3.5/4/5, Anthropic) with LangChain for orchestration, enabling hybrid retrieval and generation workflows.
 
-- **Deployment & Extensibility**: Includes Discord bot integration
+- **Scalability & Extensibility**: Designed for modular expansion (e
 
 ## Use Cases
 

@@ -8,30 +8,35 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
-### [langgenius/dify](https://github.com/langgenius/dify)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`deepset-ai-haystack.md`](../../ai/rag/deepset-ai-haystack.md)
+### [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
+- **Category**: `ai/rag` | **Kind**: `WORKFLOW` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`ajac-zero-example-rag-app.md`](../../ai/rag/ajac-zero-example-rag-app.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`sickn33-agentic-awesome-skills.md`](../../ai/agents/sickn33-agentic-awesome-skills.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`graphrag-bench-graphrag-benchmark.md`](../../ai/rag/graphrag-bench-graphrag-benchmark.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
+### [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`google-cloud-platform-github.md`](../../ai/agents/google-cloud-platform-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`googlecloudplatform-agent-starter-pack.md`](../../ai/agents/googlecloudplatform-agent-starter-pack.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
+
+### [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
+- **Category**: `ai/rag` | **Kind**: `WORKFLOW` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`ajac-zero-example-rag-app.md`](../../ai/rag/ajac-zero-example-rag-app.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
@@ -63,11 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`googlecloudplatform-agent-starter-pack.md`](../../ai/agents/googlecloudplatform-agent-starter-pack.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`maunappl8-openai-agents-ts-kit.md`](../../ai/agents/maunappl8-openai-agents-ts-kit.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 
 ## Recommended Learning Path
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-08 17:06 IST*
+*Last updated: 2026-07-09 01:44 IST*

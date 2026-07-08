@@ -6,7 +6,7 @@ source_url: https://github.com/Cinnamon/kotaemon
 resource_id: github:cinnamon/kotaemon
 local_vault_path: ai/rag/cinnamon-kotaemon.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -24,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-based chat interactions, leveraging LLMs for contextual responses.
-- **Modular Python Framework**: Built in Python with extensible components for document ingestion, retrieval, and LLM integration.
-- **Open-Source & Scalable**: Released under an open-source license, designed for scalability with support for large document collections and customizable pipelines.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded chat interactions, leveraging LLMs for contextual responses.
+- **Open-Source Python Framework**: Built in Python with modular components for document ingestion, retrieval, and LLM integration, optimized for extensibility.
+- **Scalable Document Processing**: Supports large-scale document indexing and retrieval with efficient vector storage (e.g., FAISS, Chroma) and retrieval pipelines.
 
 ## Use Cases
 

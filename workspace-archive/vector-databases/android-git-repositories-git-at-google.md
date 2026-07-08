@@ -6,10 +6,10 @@ source_url: https://android.googlesource.com
 resource_id: blog:android-git-repositories-git-at-google
 local_vault_path: ai/rag/android-git-repositories-git-at-google.md
 quality_score: 70
-archive_score: 80
+archive_score: 70
 archive_tier: useful
 resource_kind: benchmark
-importance: high
+importance: medium
 tags:
 - benchmark
 - frontend_ui
@@ -30,16 +30,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 80 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- Official Android Git repository hosting **Gerrit-based code review** with OAuth2 authentication (`https://android.googlesource.com/`).
-- Contains **device-specific kernels and hardware support** (e.g., `device/google/bluejay-kernel`, `device/google/lynx-sepolicy`) with kernel version branches (e.g., `5.10`, `6.1`).
-- Includes **emulator targets** (e.g., `device/generic/mini-emulator-arm64`) and **security modules** (e.g., `device/google/tegu-sepolicy`).
+- **Hosted Git Repositories**: Android maintains a large-scale, publicly accessible Git repository infrastructure at `android.googlesource.com`, hosting thousands of repositories for Android OS components, device-specific code (e.g., `device/google/bluejay`), kernel branches (e.g., `device/google/bluejay-kernels/6.1`), and accessory/emulator targets.
+
+- **Gerrit Code Review Integration**: The platform integrates with Gerrit for code review (`android-review.googlesource.com`), requiring OAuth2 au
 
 ## Use Cases
 

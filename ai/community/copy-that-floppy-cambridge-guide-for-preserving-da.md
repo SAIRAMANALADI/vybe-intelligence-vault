@@ -14,13 +14,14 @@ collected_at: '2026-07-08T16:49:12.635691+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:copy-that-floppy-cambridge-guide-for-preserving-da
 first_seen: '2026-07-08T14:15:37.173868+05:30'
 last_seen: '2026-07-08T16:49:12.635691+05:30'
 last_checked: '2026-07-08T16:49:12.635691+05:30'
 health_score: 100
 ---
+
 
 # Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks
 

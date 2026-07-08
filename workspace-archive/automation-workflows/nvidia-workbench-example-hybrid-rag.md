@@ -12,6 +12,8 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
+- meta-ai
+- models
 - python
 - rag
 - workflows
@@ -33,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector-based) and sparse (keyword/BM25) retrieval methods for enhanced document grounding in LLMs.
+- **Hybrid RAG Pipeline**: Demonstrates a hybrid retrieval-augmented generation (RAG) system combining dense (vector) and sparse (keyword/BM25) retrieval methods to enhance document search and response generation.
 
-- **NVIDIA AI Workbench Integration**: Provides a structured example project leveraging NVIDIA's AI Workbench framework for deploying and testing hybrid RAG workflows with GPU acceleration.
+- **NVIDIA AI Workbench Integration**: Provides a reference implementation for deploying RAG workflows within NVIDIA's AI Workbench, leveraging GPU-accelerated libraries (e.g., FAISS, RAPIDS) for efficient retrieval and LLM inference.
 
-- **Python-Based Toolkit**: Includes modular Python code (e.g., retrieval, reranking, and g
+- **Python-Based Example**: Includes a modular Py
 
 ## Use Cases
 

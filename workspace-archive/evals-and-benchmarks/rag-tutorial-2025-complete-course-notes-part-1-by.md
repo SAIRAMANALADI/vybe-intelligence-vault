@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture Fundamentals**: RAG combines LLMs with external retrieval systems to enhance responses by fetching relevant information from documents/databases without overloading the LLM’s context window, addressing token limits (e.g., GPT-4.1: 1M tokens, GPT-5: 400K tokens).
+- **RAG Architecture**: Combines LLMs with retrieval systems to fetch relevant external information (documents, databases) dynamically, avoiding context window overload; divided into **injection pipeline** (data ingestion/chunking/embedding) and **retrieval pipeline** (query embedding + similarity search).
 
-- **Vector Embeddings & Pipeline**: Text chunks are converted into high-dimensional vector embeddings (e.g., OpenAI’s 3,072-dimension embeddings) via embedding models, stored in vector databases (e.g., Pinecone, FAI
+- **Embeddings & Vector DBs**: Text chunks are converted into high-dimensional vector embeddings (e.g., OpenAI’s 3,072-dim vectors) using specialized models; these vectors are stored in vecto
 
 ## Use Cases
 

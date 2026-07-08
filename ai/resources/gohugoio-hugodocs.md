@@ -3,16 +3,16 @@ title: Sign in to GitHub · GitHub
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/gohugoio/hugoDocs/edit/master/content/en/methods/page/Render.md
-published_at: '2026-07-08T14:24:21.687720+05:30'
-collected_at: '2026-07-08T14:24:21.687732+05:30'
+source_url: https://github.com/gohugoio/hugoDocs/edit/master/content/en/functions/encoding/HexEncode.md
+published_at: '2026-07-09T01:36:19.038919+05:30'
+collected_at: '2026-07-09T01:36:19.038933+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugodocs
-first_seen: '2026-07-08T14:24:21.687732+05:30'
-last_seen: '2026-07-08T14:24:21.687732+05:30'
-last_checked: '2026-07-08T14:24:21.687732+05:30'
+first_seen: '2026-07-09T01:36:19.038933+05:30'
+last_seen: '2026-07-09T01:36:19.038933+05:30'
+last_checked: '2026-07-09T01:36:19.038933+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Error**: The page failed to load due to an unspecified error during the GitHub sign-in process.
-- **Recovery Options**: Users can attempt to reset their password via the provided [password reset link](https://github.com/password_reset) or create a new account via the [signup page](https://github.com/signup).
-- **Passkey Support**: GitHub offers passkey-based authentication as an alternative to traditional credentials.
+- **Authentication Error**: The page failed to load due to an unspecified error during the sign-in process.
+- **Recovery Option**: Users can reset their password via the "Forgot password?" link if access is lost.
+- **Passkey Support**: GitHub now offers passkey-based authentication as an alternative to traditional credentials.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-08T14:24:21.687720+05:30
+- Published: 2026-07-09T01:36:19.038919+05:30
 
 ## Related Tags
 
@@ -40,4 +40,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/gohugoio/hugoDocs/edit/master/content/en/methods/page/Render.md
+Original source: https://github.com/gohugoio/hugoDocs/edit/master/content/en/functions/encoding/HexEncode.md

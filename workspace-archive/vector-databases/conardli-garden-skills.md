@@ -17,6 +17,8 @@ tags:
 - github-repo
 - hackernews
 - rag
+- scripts
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -33,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Open-source collection by ConardLi covering web design, knowledge retrieval, image generation, and other technical skills.
-- **Technical Stack**: Primarily implemented in CSS, with integrations for AI agents, RAG (Retrieval-Augmented Generation), and GPT-Image-2 for image generation.
-- **Metadata**: 9,274 stars, 1,241 forks, last updated July 8, 2026. Topics include agent-based systems, RAG, and web design.
+- **Multi-domain technical repository** containing open-source implementations for web design, knowledge retrieval (RAG), and image generation (GPT-Image-2), leveraging AI agents and Claude for automation.
+
+- **Tech stack**: Primarily CSS-based, with integrations for AI-driven workflows (e.g., RAG pipelines, image generation APIs).
+
+- **Metadata**: 9,282 stars, 1,242 forks, last updated July 8, 2026; categorized under AI agents, web design, and retrieval systems.
 
 ## Use Cases
 

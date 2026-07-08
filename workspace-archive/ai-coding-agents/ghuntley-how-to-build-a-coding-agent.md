@@ -6,18 +6,18 @@ source_url: https://github.com/ghuntley/how-to-build-a-coding-agent
 resource_id: github:ghuntley/how-to-build-a-coding-agent
 local_vault_path: ai/agents/ghuntley-how-to-build-a-coding-agent.md
 quality_score: 70
-archive_score: 81
+archive_score: 83
 archive_tier: useful
-resource_kind: template
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
 - github-repo
 - go
-- workflows
+- hackernews
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # ghuntley/how-to-build-a-coding-agent
@@ -25,19 +25,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
-- Quality score: 70 | Archive score: 81 (useful)
-- Resource kind: template
+- Quality score: 70 | Archive score: 83 (useful)
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Go-based workshop**: Provides a structured tutorial for building a coding agent (e.g., similar to Cursor, Cline, or Amp) using Go, covering core agent architecture and workflows.
-
-- **Multi-tool integration**: Focuses on enabling the agent to interact with external tools (e.g., file systems, APIs) for autonomous coding tasks, debugging, and project navigation.
-
-- **Open-source template**: Offers a starter repository with modular components (e.g., LLM interfaces, tooling abstractions) to acce
+- **Workshop Overview**: Provides a structured guide to building a coding agent (e.g., Roo Code, Cline, Amp) using Go, covering architecture, tooling, and integration with AI models.
+- **Technical Scope**: Focuses on agent-based systems, AI-driven code generation/editing, and real-time collaboration features akin to Cursor or Windsurf.
+- **Repository Details**: Active development (last updated July 2026), 5.7K+ stars, and 640+ forks, indicating strong community engagement in AI agent tooling.
 
 ## Use Cases
 

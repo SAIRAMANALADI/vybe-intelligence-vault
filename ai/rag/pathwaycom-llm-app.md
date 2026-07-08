@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pathwaycom/llm-app
-collected_at: '2026-07-08T16:50:36.325627+05:30'
-published_at: '2026-07-08T09:28:06Z'
+collected_at: '2026-07-09T01:28:26.658352+05:30'
+published_at: '2026-07-08T19:58:14Z'
 tags:
 - github-repo
 - jupyter notebook
 - openai
 - rag
 - workflows
-stars: 59096
+stars: 59089
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-07-19T08:43:37Z'
 pushed_at: '2026-07-05T17:59:07Z'
 resource_id: github:pathwaycom/llm-app
-first_seen: '2026-07-08T16:50:36.325627+05:30'
-last_seen: '2026-07-08T16:50:36.325627+05:30'
-last_checked: '2026-07-08T16:50:36.325627+05:30'
+first_seen: '2026-07-09T01:28:26.658352+05:30'
+last_seen: '2026-07-09T01:28:26.658352+05:30'
+last_checked: '2026-07-09T01:28:26.658352+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Cloud-native RAG & AI pipeline templates**: Pre-configured, Docker-friendly deployments for Retrieval-Augmented Generation (RAG), AI pipelines, and enterprise search with live data synchronization.
-- **Multi-source real-time data integration**: Supports live sync with SharePoint, Google Drive, S3, Kafka, PostgreSQL, and real-time APIs via vector databases and indexes.
-- **Enterprise-grade LLM toolkit**: Includes Hugging Face, OpenAI, LLM prompting/security, and LLMops for local and cloud-based machine learning workflows.
+- **Cloud-native RAG & AI pipeline templates** with Docker support, enabling real-time enterprise search and AI workflows via pre-configured cloud deployments.
+- **Live data synchronization** across SharePoint, Google Drive, S3, Kafka, PostgreSQL, and real-time APIs, ensuring up-to-date retrieval-augmented generation (RAG) and vector database indexing.
+- **Multi-LLM compatibility** (Hugging Face, OpenAI) with security-focused LLMops, local inference, and vector indexing for scalable, production-grade AI applications.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pathwaycom
-- Stars: 59096
+- Stars: 59089
 - Forks: 1431
 - Language: Jupyter Notebook
 - Topics: chatbot, hugging-face, llm, llm-local, llm-prompting, llm-security, llmops, machine-learning, open-ai, pathway, rag, real-time, retrieval-augmented-generation, vector-database, vector-index
-- Last Updated: 2026-07-08T09:28:06Z
+- Last Updated: 2026-07-08T19:58:14Z
 - License: MIT
 - Archived: No
 - Created At: 2023-07-19T08:43:37Z

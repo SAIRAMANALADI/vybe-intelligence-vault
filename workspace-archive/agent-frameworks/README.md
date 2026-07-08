@@ -9,13 +9,13 @@ Agent frameworks simplify state management, tool usage, and memory in multi-agen
 ## Top Matched Resources
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
-- [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (template - ESSENTIAL Tier)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page) (benchmark - ESSENTIAL Tier)
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (product - ESSENTIAL Tier)
 - [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) (framework - ESSENTIAL Tier)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
+- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
+- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,9 +24,9 @@ https://github.com/crewAIInc/crewAI (CrewAI)
 https://github.com/microsoft/autogen (AutoGen)
 https://github.com/pydantic/pydantic-ai (Pydantic AI)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
-- [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page)
+- [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex)
+- [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/pydantic/pydantic-ai (Pydantic AI)
 
 ---
 
-*Last updated: 2026-07-08 17:05 IST*
+*Last updated: 2026-07-09 01:43 IST*

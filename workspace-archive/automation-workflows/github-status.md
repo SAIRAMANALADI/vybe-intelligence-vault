@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page** provides real-time operational status for GitHub services (e.g., GitHub.com, Actions, Copilot) with 90-day uptime metrics and incident tracking.
-- **Notification Systems** support email, SMS (global), Slack, and webhook-based incident updates for GitHub service disruptions.
-- **Recent Incidents**: Resolved partial outages in Actions/Codespaces APIs (July 7, 2026) and GitHub Pages (July 2, 2026), with root causes including capacity limits and configuration errors.
+- **GitHub Status Page** provides real-time operational status, uptime metrics (e.g., 99.99% for Git Operations over 90 days), and incident reports for GitHub services (Actions, Codespaces, Pages, Copilot, etc.).
+
+- **Notification Systems** support email, SMS (global coverage), Slack, and webhook-based incident updates for GitHub service disruptions, with OTP verification for security.
+
+- **Past Incidents** include resolved issues like **Actions/Codespaces API failures** (500 errors, 8-13% impac
 
 ## Use Cases
 

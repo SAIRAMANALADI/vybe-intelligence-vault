@@ -6,7 +6,7 @@ source_url: https://huggingface.co/
 resource_id: blog:hugging-face-the-ai-community-building-the-future
 local_vault_path: ai/resources/hugging-face-the-ai-community-building-the-future.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -24,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Inference and Local LLM`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +34,9 @@ selection_reason:
 
 - **Model Specifications**: Qwythos-9B-Claude-Mythos-5-1M-GGUF is a 9-billion-parameter language model optimized for GGUF format, designed for efficient inference on consumer hardware.
 
-- **Dataset & Training**: Trained on a 1M-token dataset (Claude-Mythos-5) with a focus on high-quality, curated content for improved reasoning and contextual understanding.
+- **Training Data**: Utilizes a curated 1.5M-token dataset (Claude-Mythos-5) focused on high-quality, structured knowledge synthesis, likely incorporating synthetic or filtered web-scale corpora.
 
-- **Performance & Use Case**: Optimized for low-latency, high-throughput inference, suitable for deployment in resource-constrained environm
+- **Performance & Use Case**: Optimized for low-latency, high-throughput inference with quantized precision (e.g., Q4
 
 ## Use Cases
 

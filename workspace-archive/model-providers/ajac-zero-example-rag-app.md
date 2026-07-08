@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Observability & Multi-Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for 100+ provider compatibility (e.g., OpenAI, Anthropic, Mistral) via a unified API.
-
-- **Strict Type Safety & Testing**: Full TypeScript type-checking with 100% test coverage, ensuring robustness and maintainability.
-
-- **Containerized & Production-Ready**: Dockerized deployment with pre-configured RAG pipeline, enabling scalable, reproducible AI applications.
+- **Observability & Integration**: Implements LLM observability via Langfuse for real-time monitoring, debugging, and analytics of RAG pipeline interactions.
+- **Multi-Provider Support**: Utilizes LiteLLM to abstract and support 100+ LLM providers (e.g., OpenAI, Anthropic, Mistral) with unified API calls.
+- **Production-Ready Features**: Dockerized deployment, full TypeScript type-checking, and 100% test coverage for reliability and scalability.
 
 ## Use Cases
 

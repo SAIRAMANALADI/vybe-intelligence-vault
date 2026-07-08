@@ -1,6 +1,6 @@
 ---
 title: Research Physics AI research that’s shaping the industry. Published breakthroughs
-  pushing the state of the art. May 27, 2026 Mistral
+  pushing the state of the art. May 27, 2026 By Mistral
 archive_category: model-providers
 source_category: ai/companies/mistral
 source_url: https://mistral.ai/news/physics-ai-research
@@ -21,7 +21,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral
+# Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 By Mistral
 
 ## Why This Is In The Archive
 
@@ -34,7 +34,7 @@ selection_reason:
 
 ## Summary
 
-Recent update from Mistral AI News Blog: Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral
+Recent update from Mistral AI News Blog: Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 By Mistral
 
 ## Use Cases
 

@@ -8,7 +8,7 @@ local_vault_path: ai/agents/vin67-crewai-docker.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: workflow
+resource_kind: template
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # vin67/crewai_docker
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `AI Tools and Products`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: workflow
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Base Image**: Uses `python:3.11-slim` as the base Docker image for minimal footprint and compatibility with CrewAI.
-- **Dependencies**: Installs CrewAI (`crewai>=0.1.0`) and other Python packages (`pip install -r requirements.txt`) in a virtual environment for isolation.
-- **Entrypoint**: Configures `CMD ["python", "main.py"]` to execute a CrewAI workflow script (`main.py`) upon container startup.
+- **Purpose**: Dockerfile template for deploying CrewAI applications in containerized environments.
+- **Configuration**: Optimized for Python-based CrewAI workflows with standardized dependencies and runtime setup.
+- **Updates**: Last modified on **2026-03-15**, indicating ongoing maintenance for compatibility with CrewAI.
 
 ## Use Cases
 

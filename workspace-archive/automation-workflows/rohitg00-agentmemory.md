@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Persistent Memory Framework**: AgentMemory provides a TypeScript-based persistent memory system for AI coding agents, enabling long-term context retention and state management across sessions.
-
-- **Benchmark-Driven Design**: Built on real-world benchmarks, it optimizes memory retrieval and storage for AI coding workflows, improving agent performance in code generation and debugging tasks.
-
-- **Multi-Agent Compatibility**: Supports integration with popular AI coding tools (Claude, Codex, Copi
+- **Persistent Memory System**: Provides long-term storage and retrieval for AI coding agents, optimized for real-world benchmarks and continuous operation.
+- **TypeScript Implementation**: Built in TypeScript, enabling integration with modern AI agent frameworks (e.g., Claude, Codex, Copilot) and development tools.
+- **Benchmark-Driven Design**: Evaluated against real-world performance metrics, ensuring reliability and efficiency for agent-based workflows.
 
 ## Use Cases
 

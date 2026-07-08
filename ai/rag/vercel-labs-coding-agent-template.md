@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/coding-agent-template
-collected_at: '2026-07-08T16:52:16.462050+05:30'
-published_at: '2026-07-07T18:05:54Z'
+collected_at: '2026-07-09T01:30:06.769341+05:30'
+published_at: '2026-07-08T14:53:14Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - typescript
 - workflows
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-09-23T14:00:46Z'
 pushed_at: '2026-04-13T21:44:42Z'
 resource_id: github:vercel-labs/coding-agent-template
-first_seen: '2026-07-08T16:52:16.462050+05:30'
-last_seen: '2026-07-08T16:52:16.462050+05:30'
-last_checked: '2026-07-08T16:52:16.462050+05:30'
+first_seen: '2026-07-09T01:30:06.769341+05:30'
+last_seen: '2026-07-09T01:30:06.769341+05:30'
+last_checked: '2026-07-09T01:30:06.769341+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Multi-agent AI coding platform leveraging Vercel Sandbox for isolated execution and AI Gateway for unified AI model access, enabling parallelized agent workflows.
-
-- **Technology Stack**: Built in TypeScript, integrating Vercel’s serverless infrastructure with agent-based orchestration for scalable, distributed code generation and debugging.
-
-- **Deployment**: Pre-configured template for rapid setup, optimized for Vercel deployments with built-in AI model routing and sandboxed agent environments.
+- **Multi-agent AI Coding Platform**: Leverages Vercel Sandbox and AI Gateway for distributed AI-driven code generation, testing, and debugging workflows.
+- **TypeScript-Based Architecture**: Implements a modular TypeScript framework for agent orchestration, inter-agent communication, and sandboxed execution.
+- **Vercel Integration**: Utilizes Vercel’s serverless infrastructure for scalable, low-latency agent interactions and AI model routing via AI Gateway.
 
 ## Why It Matters
 
@@ -48,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 284
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-07-07T18:05:54Z
+- Last Updated: 2026-07-08T14:53:14Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-23T14:00:46Z

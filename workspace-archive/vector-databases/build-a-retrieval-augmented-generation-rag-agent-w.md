@@ -7,9 +7,9 @@ source_url: https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemo
 resource_id: blog:build-a-retrieval-augmented-generation-rag-agent-w
 local_vault_path: ai/rag/build-a-retrieval-augmented-generation-rag-agent-w.md
 quality_score: 70
-archive_score: 72
+archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -23,8 +23,7 @@ tags:
 - rag
 - reddit
 selection_reason:
-- Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Build a Retrieval-Augmented Generation (RAG) Agent with NVIDIA Nemotron | NVIDIA Technical Blog
@@ -32,17 +31,14 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
 - Selection reasons:
-  - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Agentic RAG Architecture**: Implements a ReAct agent framework where the LLM dynamically decides between retrieval or direct response, activating the retrieval pipeline only when additional context is required, using NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization).
-
-- **NVIDIA NIM Integration**: Utilizes NVIDIA NIM endpoints for high-performance inference with to
+*   An agentic RAG system is constructed using a ReAct agent architecture,
 
 ## Use Cases
 

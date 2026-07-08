@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - typescript
 - workflows
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: Multi-agent system leveraging Vercel Sandbox for isolated execution environments and AI Gateway for unified AI model access, enabling parallelized coding tasks.
-
-- **Technology Stack**: Built in TypeScript, integrates with Vercel’s serverless infrastructure for scalable, low-latency agent interactions and sandboxed code execution.
-
-- **Workflow**: Dynamically assigns specialized agents (e.g., planner, coder, reviewer) to tasks, with state management via Vercel’s edge network
+- **Multi-agent AI Coding Platform**: Leverages Vercel Sandbox and AI Gateway for distributed AI-driven code generation, testing, and debugging workflows.
+- **TypeScript-Based Architecture**: Implements a modular TypeScript framework for agent orchestration, inter-agent communication, and sandboxed execution.
+- **Vercel Integration**: Utilizes Vercel’s serverless infrastructure for scalable, low-latency agent interactions and AI model routing via AI Gateway.
 
 ## Use Cases
 

@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SylphAI-Inc/GithubChat
-collected_at: '2026-07-08T16:50:01.306367+05:30'
+collected_at: '2026-07-09T01:27:51.689228+05:30'
 published_at: '2026-06-30T16:48:21Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 stars: 97
@@ -18,9 +17,9 @@ archived: false
 created_at: '2024-12-05T01:54:18Z'
 pushed_at: '2025-02-10T20:07:53Z'
 resource_id: github:sylphai-inc/githubchat
-first_seen: '2026-07-08T16:50:01.306367+05:30'
-last_seen: '2026-07-08T16:50:01.306367+05:30'
-last_checked: '2026-07-08T16:50:01.306367+05:30'
+first_seen: '2026-07-09T01:27:51.689228+05:30'
+last_seen: '2026-07-09T01:27:51.689228+05:30'
+last_checked: '2026-07-09T01:27:51.689228+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Practical RAG Implementation**: A Retrieval-Augmented Generation (RAG) system enabling users to download and interact with GitHub repositories via natural language queries.
-- **Technical Stack**: Built in Python, leveraging RAG architecture for contextual document retrieval and response generation from GitHub repo content.
-- **Metadata**: 97 stars, 20 forks, last updated 2026-06-30T16:48:21Z, no specified topics.
+- **RAG Implementation**: A Retrieval-Augmented Generation (RAG) system enabling users to download and interact with GitHub repositories via natural language queries.
+- **Tech Stack**: Python-based, leveraging vector embeddings and LLM integration for contextual code/document retrieval and response generation.
+- **Metadata**: 97 stars, 20 forks, last updated June 30, 2026. No formal topics listed.
 
 ## Why It Matters
 

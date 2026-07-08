@@ -4,17 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/functions/encoding/hexdecode/
-published_at: '2026-07-08T09:30:33.931542+05:30'
-collected_at: '2026-07-08T09:30:33.931554+05:30'
+published_at: '2026-07-09T01:35:12.173294+05:30'
+collected_at: '2026-07-09T01:35:12.173304+05:30'
 tags:
 - reddit
 - web-crawled
-- workflows
 status: active
 resource_id: blog:encoding-hexdecode
-first_seen: '2026-07-08T09:30:33.931554+05:30'
-last_seen: '2026-07-08T09:30:33.931554+05:30'
-last_checked: '2026-07-08T09:30:33.931554+05:30'
+first_seen: '2026-07-09T01:35:12.173304+05:30'
+last_seen: '2026-07-09T01:35:12.173304+05:30'
+last_checked: '2026-07-09T01:35:12.173304+05:30'
 health_score: 100
 ---
 
@@ -22,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- Decodes a hexadecimal string into its raw byte representation using `encoding.HexDecode`.
-- Input must be a valid hexadecimal string; output is a decoded `string` (e.g., `"48656c6c6f"` → `"Hello"`).
-- Part of Hugo's `encoding` namespace, primarily used for cryptographic or data transformation workflows.
+- **Functionality**: `encoding.HexDecode` converts a hexadecimal-encoded string into its decoded plaintext equivalent.
+- **Syntax & Usage**: Accepts a single `INPUT` parameter (hex string) and returns the decoded string; example: `{{ "48656c6c6f20776f726c64" | encoding.HexDecode }}` outputs `Hello world`.
+- **Output**: Returns a `string` type, representing the decoded content.
 
 ## Why It Matters
 
@@ -34,13 +33,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-08T09:30:33.931542+05:30
+- Published: 2026-07-09T01:35:12.173294+05:30
 
 ## Related Tags
 
 - reddit
 - web-crawled
-- workflows
 
 ## Source
 

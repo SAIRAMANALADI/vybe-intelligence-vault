@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Modular framework (105k⭐) for chaining LLM components with retrieval integrations, model flexibility, and evaluation tools; supports LangSmith/LangGraph for debugging/workflow management.
-- **RAGFlow**: Open-source RAG engine (48.5k⭐) with deep document parsing (PDFs/tables), GraphRAG support, and visual web interface for structured data extraction and agentic reasoning.
-- **Milvus**: High-performance vector database (33.9k⭐) optimized for ANN search, hybrid queries, and multi-m
+- **Firecrawl**: AI-powered web scraping engine for LLM-friendly data extraction (Markdown/HTML), including `llms.txt` generation, crawling, agent-based extraction, and deep research endpoints for RAG pipeline data enrichment.
+
+- **LangChain**: Modular framework for LLM/RAG pipelines with data connectors, model flexibility, retrieval components, evaluation tools, and ecosystem integrations (LangSmith, LangGraph) for structured AI application development.
+
+- **Milvus**: High-performance, distribu
 
 ## Use Cases
 

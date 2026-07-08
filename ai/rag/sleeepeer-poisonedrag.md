@@ -4,12 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-08T16:51:26.343762+05:30'
+collected_at: '2026-07-09T01:29:16.679664+05:30'
 published_at: '2026-07-05T07:03:45Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
+- meta-ai
+- mistral
+- models
 - python
 - rag
 - reddit
@@ -21,9 +24,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-08T16:51:26.343762+05:30'
-last_seen: '2026-07-08T16:51:26.343762+05:30'
-last_checked: '2026-07-08T16:51:26.343762+05:30'
+first_seen: '2026-07-09T01:29:16.679664+05:30'
+last_seen: '2026-07-09T01:29:16.679664+05:30'
+last_checked: '2026-07-09T01:29:16.679664+05:30'
 health_score: 100
 ---
 
@@ -31,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by poisoning the retrieval corpus, leading to manipulated outputs in downstream LLM tasks.
+- **Novel Attack Framework**: Introduces *PoisonedRAG*, a first-of-its-kind attack targeting Retrieval-Augmented Generation (RAG) systems by corrupting external knowledge bases, forcing LLMs to generate malicious or incorrect outputs while evading detection.
 
-- **Technical Mechanism**: Leverages adversarial document insertion into the retrieval database to subtly alter retrieved context, causing LLMs to generate incorrect or biased responses while maintaining syntactic plausibility.
+- **Technical Mechanism**: Leverages *knowledge poisoning* via adversarial document insertion into retrieval corpora, exploiting RAG’s reliance on external data to manipulate model behavior without direct access to model weights.
 
-- **Evaluation & Impact**: Validated on multiple RAG pipelines (e.g., dense retrieval + LLMs), showing significant degradation in factual accuracy and robustness, with proposed mitigation strategies discussed for trustworthy AI deployment.
+- **Evaluation & Impact**: Demonstrates effectiveness across multiple RAG architectures (e.g., dense retrieval, BM25) and LLMs (e.g., Llama, Mistral), achieving high attack success rates (up to 90%) while maintaining stealth via subtle perturbations.
 
 ## Why It Matters
 

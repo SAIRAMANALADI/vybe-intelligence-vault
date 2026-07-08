@@ -8,14 +8,14 @@ Well-crafted system and user prompts are the primary mechanism for directing LLM
 
 ## Top Matched Resources
 
-- [Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium](https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd) (prompt - USEFUL Tier)
 - [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (template - USEFUL Tier)
 - [Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms](https://arxiv.org/abs/2605.30169) (framework - USEFUL Tier)
 - [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](https://arxiv.org/abs/2603.15952) (framework - USEFUL Tier)
 - [LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline](https://arxiv.org/abs/2606.17507) (framework - USEFUL Tier)
-- [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) (framework - USEFUL Tier)
+- [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) (prompt - USEFUL Tier)
 - [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl) (template - USEFUL Tier)
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) (framework - USEFUL Tier)
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-07-08 17:06 IST*
+*Last updated: 2026-07-09 01:44 IST*

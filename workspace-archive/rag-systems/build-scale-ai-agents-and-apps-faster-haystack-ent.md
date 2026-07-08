@@ -2,25 +2,28 @@
 title: Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://www.deepset.ai/products-and-services/deepset-ai-platform
+source_url: https://www.deepset.ai/products-and-services/haystack-enterprise-platform
 resource_id: blog:build-scale-ai-agents-and-apps-faster-haystack-ent
 local_vault_path: ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: template
+resource_kind: prompt
 importance: medium
 tags:
 - agents
-- dataset
+- anthropic
+- benchmark
 - hackernews
-- producthunt
+- meta-ai
+- mistral
+- models
+- openai
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform
@@ -29,18 +32,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: template
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Haystack Enterprise Platform** is built on the open-source Haystack framework, enabling end-to-end orchestration of AI agents and applications with enterprise-grade security, scalability, and governance for production deployment.
+- **Precision Context Engineering**: Enables granular control over AI context, tools, and memory by surfacing specific documents, APIs, and prompt construction while maintaining full visibility into decision-making inputs.
 
-- **Key features** include multimodal indexing (text, tables, images, documents), composable AI orchestration for LLM integration without vendor lock-in, and built-in data/metadata management for sensitive/classified data handling.
+- **Sovereign Deployment & Portability**: Supports multi-cloud/self-hosted deployment with serverless scaling and vendor-agnostic architecture, allowing seamless model/provider swapping without code rewrites or vendor lock-in.
 
-- **Workflow acceleration** is a
+- **Production Observability & Governance**: Pro
 
 ## Use Cases
 
@@ -50,7 +53,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.deepset.ai/products-and-services/deepset-ai-platform
+Original source URL: https://www.deepset.ai/products-and-services/haystack-enterprise-platform
 
 ## Local Vault File
 

@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources/
-published_at: '2026-07-08T16:50:12.205644+05:30'
-collected_at: '2026-07-08T16:50:12.205656+05:30'
+published_at: '2026-07-09T01:28:02.291839+05:30'
+collected_at: '2026-07-09T01:28:02.291847+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-techniques-beginner-to-advanced-practical-patt
-first_seen: '2026-07-08T16:50:12.205656+05:30'
-last_seen: '2026-07-08T16:50:12.205656+05:30'
-last_checked: '2026-07-08T16:50:12.205656+05:30'
+first_seen: '2026-07-09T01:28:02.291847+05:30'
+last_seen: '2026-07-09T01:28:02.291847+05:30'
+last_checked: '2026-07-09T01:28:02.291847+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Architecture**: Combines a retriever (dense/sparse embeddings + vector search or BM25) with an LLM generator to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates.
+- **Core RAG Architecture**: Combines a retriever (dense/sparse embeddings + vector search) with a generator (LLM) to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates via document indexing.
 
-- **Minimal Pipeline Components**: Uses `sentence-transformers` for embeddings, FAISS for vector storage/search, and a lightweight LLM (e.g., Flan-T5) for generation; documents are chunked and embedded for retrieval.
+- **Key Intermediate Techniques**: Implements chunking with overlap, hybrid retrieval (sparse BM25 + dense embeddings), reranking (cross-encoder models), query expansion (HyDE/multi-query), and metadata filtering to optimize precision/recall and latency.
 
-- **Intermediate/Advanced Enhancements**: Techniques like hybrid retrieval (sparse+dense), reranking (cross-encoders), query expansion (HyDE/multi-query), multi-hop reasoning, GraphRAG (knowledge graphs), and agentic RAG (tool integration) improve precision, recall, and contextual grounding.
+- **Advanced Patterns**: Enables multi-hop retrieval, GraphRAG (knowledge graph integration), agentic RAG (tool use), and context compression, with production considerations for observability, safety, and cost/latency trade-offs.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T16:50:12.205644+05:30
+- Published: 2026-07-09T01:28:02.291839+05:30
 
 ## Related Tags
 

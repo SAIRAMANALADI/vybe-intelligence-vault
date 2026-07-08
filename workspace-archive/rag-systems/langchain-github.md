@@ -8,7 +8,7 @@ local_vault_path: ai/rag/langchain-github.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # LangChain · GitHub
@@ -27,15 +27,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-*   Provides core OSS libraries (`LangChain`, `LangChain.js`) for integrating and composing LLM application components and `LangGraph` for defining LLM agents as stateful computational graphs.
-*   Offers advanced agent capabilities through `Deep Agents` for complex task execution, enabling planning, subagent utilization
+- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications; LangGraph/LangGraph.js enable building LLM agents as graphs; Deep Agents/Deep Agents.js support agent planning, subagents, and filesystem interactions.
+
+- **Commercial Platform**: LangSmith offers a production-grade platform for building and monitoring LLM applications.
+
+- **OSS Extensions/Apps**: Includes `dcode` (terminal-based coding agent), Open SWE (asynchronous coding agent), MCP
 
 ## Use Cases
 

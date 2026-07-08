@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-08T16:51:51.369842+05:30'
+collected_at: '2026-07-09T01:29:41.705664+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
 - github-repo
+- paper
 - python
 - rag
 stars: 173
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-08T16:51:51.369842+05:30'
-last_seen: '2026-07-08T16:51:51.369842+05:30'
-last_checked: '2026-07-08T16:51:51.369842+05:30'
+first_seen: '2026-07-09T01:29:41.705664+05:30'
+last_seen: '2026-07-09T01:29:41.705664+05:30'
+last_checked: '2026-07-09T01:29:41.705664+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling Retrieval-Augmented Generation (RAG) over diverse data modalities (text, images, tables) and granularities (documents, paragraphs, entities) with unified retrieval and generation mechanisms.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling Retrieval-Augmented Generation (RAG) over diverse data modalities (text, images, tables) and granularities (documents, paragraphs, cells), leveraging unified embedding and retrieval mechanisms.
 
-- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval system leveraging modality-specific encoders (e.g., CLIP for images, BERT for text) and a shared embedding space for heterogeneous data fusion.
+- **ACL 2026 Oral Paper**: Presents a novel approach for scalable, cross-modal retrieval and generation, addressing challenges in heterogeneous corpus integration with a single model architecture.
 
-- **Adaptive Generation Pipeline**: Features a dynamic generation module that selects and synthesizes retrieved content based on query context, optimizing for coherence and factual accuracy across modalities.
+- **Open-Source Implementation**: Provides a Python-based repository with modular components for embedding, retrieval, and generation, optimized for multimodal corpora with extensible interfaces.
 
 ## Why It Matters
 

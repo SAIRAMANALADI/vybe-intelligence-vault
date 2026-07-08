@@ -2,14 +2,14 @@
 title: Haystack
 archive_category: agent-frameworks
 source_category: ai/resources
-source_url: https://discord.com/invite/xYvH6drSmA
+source_url: https://discord.com/invite/Dr63fr9NDS
 resource_id: blog:haystack
 local_vault_path: ai/resources/haystack.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
 - web-crawled
 selection_reason:
@@ -22,7 +22,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -30,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Client-Side Requirement**: JavaScript execution is mandatory for the web application to function, as it relies on client-side scripting for dynamic content rendering and interactivity.
+- **Error Indication**: The message "You need to enable JavaScript to run this app" indicates that the web application requires JavaScript execution to function, but the browser has JavaScript disabled.
 
-- **Browser Dependency**: The application's core features depend on JavaScript being enabled in the user's web browser to process and display real-time updates or execute critical logic.
+- **Client-Side Requirement**: JavaScript is essential for rendering dynamic content and executing client-side logic in modern web applications, as enforced by the application's design.
 
-- **Fallback Limitation**: Without JavaScript, the application cannot initialize, leading to a static or non-functional st
+- **Resolution**: To resolve this, users must enable JavaScript in their browser settings or ensure no extens
 
 ## Use Cases
 
@@ -44,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://discord.com/invite/xYvH6drSmA
+Original source URL: https://discord.com/invite/Dr63fr9NDS
 
 ## Local Vault File
 

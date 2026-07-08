@@ -8,13 +8,13 @@ local_vault_path: ai/agents/ed1s0nz-cyberstrikeai.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: workflow
+resource_kind: tool
 importance: medium
 tags:
 - agents
 - github-repo
 - go
-- workflows
+- hackernews
 selection_reason:
 - Active open-source repository
 ---
@@ -25,17 +25,17 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: workflow
+- Resource kind: tool
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Agentic Execution Layer**: Implements AI-driven cybersecurity agents that convert security intent into governed, auditable actions using MCP-native tools, knowledge bases, and approval workflows.
+- **Agentic Execution Layer**: Implements AI-driven agents for translating security intent into governed, auditable actions via MCP-native tools, contextual attack-chain awareness, and integrated approvals.
 
-- **Attack-Chain Context Integration**: Provides real-time contextual awareness of attack chains, enabling precise, security-focused AI agent execution for penetration testing and red teaming.
+- **Technical Stack**: Built in Go, integrates AI agents, penetration testing tools, CTF utilities, and MCP (Model Context Protocol) for structured security operations.
 
-- **Go-Based Implementation**: Built in Go for high-performance, scalable agentic operations with support
+- **Repository Metrics**: 5,027 stars, 815 forks, last updated July 8, 2026; focuses on AI-driven cybersecurity, penetrati
 
 ## Use Cases
 

@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-08T16:51:46.364140+05:30'
+collected_at: '2026-07-09T01:29:36.725537+05:30'
 published_at: '2026-07-05T11:30:42Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-08T16:51:46.364140+05:30'
-last_seen: '2026-07-08T16:51:46.364140+05:30'
-last_checked: '2026-07-08T16:51:46.364140+05:30'
+first_seen: '2026-07-09T01:29:36.725537+05:30'
+last_seen: '2026-07-09T01:29:36.725537+05:30'
+last_checked: '2026-07-09T01:29:36.725537+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retention.
-- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended interactions, enhancing multi-turn reasoning capabilities.
-- **AAAI 2026 Submission**: Presented as a poster at AAAI 2026, demonstrating empirical improvements in long-form narrative understanding and reasoning tasks over traditional RAG systems.
+- **Cognitive Memory Organization**: Introduces a memory-optimized RAG framework (`ComoRAG`) that structures retrieved knowledge using biologically inspired memory architectures (e.g., hierarchical or associative memory) to enhance long-form narrative reasoning.
+
+- **Stateful Reasoning Enhancement**: Implements state tracking mechanisms to maintain context coherence across extended dialogues or narratives, leveraging memory updates and retrieval strategies tailored for sequential reasoning tasks.
+
+- **AAAI 2026 Poster Submission**: Proposes a novel evaluation paradigm for stateful RAG systems, emphasizing performance metrics on long narrative reasoning benchmarks with Python-based implementation and open-source release.
 
 ## Why It Matters
 

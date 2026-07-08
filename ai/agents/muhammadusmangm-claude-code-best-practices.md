@@ -4,16 +4,17 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-07-08T14:19:30.996033+05:30'
-published_at: '2026-07-01T14:48:32Z'
+collected_at: '2026-07-09T01:30:36.764207+05:30'
+published_at: '2026-07-08T11:36:13Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - scripts
 - shell
 - workflows
-stars: 60
+stars: 61
 language: Shell
 status: active
 license: MIT
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-07-08T14:19:30.996033+05:30'
-last_seen: '2026-07-08T14:19:30.996033+05:30'
-last_checked: '2026-07-08T14:19:30.996033+05:30'
+first_seen: '2026-07-09T01:30:36.764207+05:30'
+last_seen: '2026-07-09T01:30:36.764207+05:30'
+last_checked: '2026-07-09T01:30:36.764207+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Structure & Templates**: Provides `CLAUDE.md` templates and structured workflows for optimizing Claude Code usage, including multi-agent patterns and CLI configurations.
+- **Comprehensive Best Practices Guide**: Repository provides structured best practices for **Claude Code**, including setup, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
 
-- **Cost & Performance Optimization**: Focuses on cost-efficient practices for LLM interactions via MCP (Model Context Protocol) and agentic AI workflows.
+- **Technical Resources**: Includes **CLI tools, MCP (Model Context Protocol) integrations, and Shell scripts** for optimizing AI agent interactions and workflow automation.
 
-- **Developer Tooling & Best Practices**: Covers setup guidelines, Shell-based automation, and Anthropic-specific optimizations for AI-driven development workflows.
+- **Active Maintenance & Community**: Last updated in **July 2026**, with **61 stars and 11 forks**, indicating ongoing development and community engagement in AI/agentic tooling.
 
 ## Why It Matters
 
@@ -44,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: MuhammadUsmanGM
-- Stars: 60
+- Stars: 61
 - Forks: 11
 - Language: Shell
 - Topics: agentic-ai, ai, anthropic, best-practices, claude, claude-code, cli, developer-tools, llm, mcp, templates
-- Last Updated: 2026-07-01T14:48:32Z
+- Last Updated: 2026-07-08T11:36:13Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-22T10:51:35Z

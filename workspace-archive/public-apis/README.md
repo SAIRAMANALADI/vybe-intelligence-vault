@@ -14,16 +14,14 @@ Public developer APIs supply external context and utilities for LLM tools.
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) (framework - USEFUL Tier)
 - [azure-ai-docs/articles/search/index.yml at main · MicrosoftDocs/azure-ai-docs · GitHub](https://github.com/MicrosoftDocs/azure-ai-docs/blob/main/articles/search/index.yml) (framework - USEFUL Tier)
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) (workflow - USEFUL Tier)
-- [airweave-ai/airweave](https://github.com/airweave-ai/airweave) (framework - USEFUL Tier)
+- [Canvas LMS | Instructure Developer Documentation Portal](https://api.instructure.com) (tutorial - USEFUL Tier)
+- [fdsnws-event Web Service Interface Documentation | IPGP Data Center Web Services](http://ws.ipgp.fr/fdsnws/event/1) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
 - [gradio-app/gradio](https://github.com/gradio-app/gradio)
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat)
-- [airweave-ai/airweave](https://github.com/airweave-ai/airweave)
 
 ## Best Learning Resources
 
@@ -41,4 +39,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-07-08 17:06 IST*
+*Last updated: 2026-07-09 01:44 IST*

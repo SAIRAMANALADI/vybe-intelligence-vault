@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mvanhorn/clawdbot-skill-manus
-collected_at: '2026-07-08T01:49:53.853194+05:30'
+collected_at: '2026-07-09T01:31:21.832702+05:30'
 published_at: '2026-07-07T17:58:08Z'
 tags:
 - agents
 - github-repo
 - scripts
 - shell
-- workflows
 stars: 25
 language: Shell
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2026-01-22T01:48:25Z'
 pushed_at: '2026-03-16T05:09:31Z'
 resource_id: github:mvanhorn/clawdbot-skill-manus
-first_seen: '2026-07-08T01:49:53.853194+05:30'
-last_seen: '2026-07-08T01:49:53.853194+05:30'
-last_checked: '2026-07-08T01:49:53.853194+05:30'
+first_seen: '2026-07-09T01:31:21.832702+05:30'
+last_seen: '2026-07-09T01:31:21.832702+05:30'
+last_checked: '2026-07-09T01:31:21.832702+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Task Delegation Framework**: Shell-based OpenClaw skill enabling AI-agent `Manus` to execute complex tasks (web research, report generation, code building, data scraping) via modular templates with built-in monitoring and cost tracking.
-- **Autonomous Execution**: Integrates with `Clawhub` for seamless task delegation, supporting web browsing and autonomous operation through structured skill definitions.
-- **Open-Source Toolkit**: Repository (`mvanhorn/clawdbot-skill-manus`) provides extensible automation for AI-driven workflows, last updated July 2026 (25 stars, 12 forks).
+- **Task Delegation Framework**: OpenClaw skill enabling autonomous task execution via Manus AI, supporting web research, report generation, code building, and data scraping through modular templates.
+- **Monitoring & Cost Tracking**: Built-in instrumentation for real-time task progress monitoring, resource utilization, and expenditure tracking within the Manus ecosystem.
+- **Shell-Based Implementation**: Lightweight automation layer written in Shell, optimized for integration with ClawHub and OpenClaw for AI-agent orchestration.
 
 ## Why It Matters
 

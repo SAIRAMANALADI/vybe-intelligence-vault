@@ -6,17 +6,15 @@ source_url: https://github.com/addyosmani/agent-skills
 resource_id: github:addyosmani/agent-skills
 local_vault_path: ai/agents/addyosmani-agent-skills.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
-resource_kind: workflow
-importance: medium
+archive_score: 87
+archive_tier: essential
+resource_kind: product
+importance: high
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - javascript
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -27,17 +25,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: workflow
+- Quality score: 70 | Archive score: 87 (essential)
+- Resource kind: product
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Repository Overview**: `agent-skills` by addyosmani provides production-grade engineering skills for AI coding agents, optimized for tools like `claude-code`, `codex`, and `cursor`.
-- **Technical Scope**: Focuses on advanced JavaScript-based workflows, including `antigravity` and agent-specific skill integrations for high-performance coding tasks.
-- **Metrics**: Highly active with **72,745 stars**, **7,872 forks**, and last updated on **2026-07-08**.
+- **Repository Overview**: Production-grade engineering skills repository (`addyosmani/agent-skills`) for AI coding agents, with 73,712 stars and 7,955 forks, primarily in JavaScript.
+
+- **Purpose & Scope**: Provides advanced, production-ready engineering skills tailored for AI coding agents (e.g., `claude-code`, `codex`, `cursor`), focusing on high-quality, reusable implementations.
+
+- **Last Updated**: Repository last updated on **July 8, 2026**, with active maintenance and updates.
 
 ## Use Cases
 

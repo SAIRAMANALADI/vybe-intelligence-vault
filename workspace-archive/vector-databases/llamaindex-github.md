@@ -15,6 +15,7 @@ tags:
 - meta-ai
 - models
 - rag
+- reddit
 - web-crawled
 - workflows
 - youtube
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **LlamaParse Cloud Services**: Offers three cloud-based products—**Parse** (OCR for document processing), **Extract** (structured data extraction), and **Platform Documentation**—leveraging state-of-the-art (SOTA) agentic OCR for document workflows and AI agents.
+- **LlamaParse Cloud Services**: Offers SOTA agentic OCR via cloud-based document parsing (`Parse`), structured extraction (`Extract`), and platform documentation for integration into workflows and agents.
 
-- **Open-Source Tooling**: Provides **LiteParse** (lightweight OCR), **LlamaAgents** (modular agent framework), and **LlamaIndex (Python)** (comprehensive data framework) with full documentation for local deployment and customization
+- **Open-Source Tooling**: Provides `LiteParse` (lightweight parsing), `LlamaAgents` (modular agent framework), and core `LlamaIndex` (Python library) with respective documentation for extensible document processing pipelines.
+
+- **Community & Support**: Maintains active engagement via Twitte
 
 ## Use Cases
 

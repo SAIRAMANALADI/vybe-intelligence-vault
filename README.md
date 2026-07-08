@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-50%2C174-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-50%2C289-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--09-374151?style=flat-square)](#)
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 10,210</p>
-        <p><b>Active:</b> 9,974 | <b>Inactive:</b> 236</p>
+        <p><b>Resources tracked:</b> 10,233</p>
+        <p><b>Active:</b> 9,992 | <b>Inactive:</b> 241</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 39,964</p>
+        <p><b>Archive Files:</b> 40,056</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 50,174 files</p>
-        <p><b>Last Update:</b> 2026-07-09 00:47 IST</p>
+        <p><b>Total Vault Size:</b> 50,289 files</p>
+        <p><b>Last Update:</b> 2026-07-09 01:44 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,20 +210,29 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+8</kbd>
-- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+5</kbd>
-- 🔼 **[RUC-NLPIR/FlashRAG](ai/rag/ruc-nlpir-flashrag.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[EVE Online's Carbon engine is now open source: Fenris Creations explains why](ai/community/eve-online-s-carbon-engine-is-now-open-source-fenr.md)** • <kbd>+284 pts</kbd> • Rank: <kbd>+5</kbd>
+- 🔼 **[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](ai/community/gitlost-we-tricked-github-s-ai-agent-into-leaking.md)** • <kbd>+248 pts</kbd> • Rank: <kbd>+3</kbd>
+- 🔼 **[Tenda firmware (multiple versions) contains hidden authentication backdoor](ai/community/tenda-firmware-multiple-versions-contains-hidden-a.md)** • <kbd>+98 pts</kbd>
+- 🔼 **[Tutorials | Haystack](ai/rag/tutorials-haystack.md)** • Rank: <kbd>+340</kbd>
+- 🔼 **[Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform](ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md)** • Rank: <kbd>+2618</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Score: `0`
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Show HN: Follow London Trains in 3D](ai/community/show-hn-follow-london-trains-in-3d.md)** • Score: `105`
+- 🆕 **[Show HN: Microsoft releases Flint, a visualization language for AI agents](ai/community/show-hn-microsoft-releases-flint-a-visualization-l.md)** • Score: `89`
+- 🆕 **[Google Cloud Blog | News, Features and Announcements](ai/rag/google-cloud-blog-news-features-and-announcements.md)** • Score: `0`
+- 🆕 **[AI and ML | Google Cloud Documentation](ai/rag/ai-and-ml-google-cloud-documentation.md)** • Score: `0`
+- 🆕 **[Google Cloud Platform · GitHub](ai/agents/google-cloud-platform-github.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Chat Control 1.0 and 2.0 Explained](ai/community/chat-control-1-0-and-2-0-explained.md)**
+- 💤 **[Show HN: Davit, a Apple Containers UI](ai/community/show-hn-davit-a-apple-containers-ui.md)**
+- 💤 **[Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks](ai/community/copy-that-floppy-cambridge-guide-for-preserving-da.md)**
+- 💤 **[IEEE Rolls Out Large Language Models Training Course](ai/community/ieee-rolls-out-large-language-models-training-cour.md)**
+- 💤 **[Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI](ai/companies/mistral/company-emmi-joins-mistral-to-accelerate-the-ai-na.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

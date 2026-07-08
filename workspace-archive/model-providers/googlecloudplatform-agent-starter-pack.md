@@ -15,6 +15,7 @@ tags:
 - benchmark
 - github-repo
 - python
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Production-ready AI agent templates** for Google Cloud, pre-configured with CI/CD pipelines, evaluation frameworks, and observability tools to accelerate deployment from months to minutes.
+- **Production-ready AI agent templates** for Google Cloud, pre-integrated with CI/CD pipelines, evaluation frameworks, and observability tools to accelerate deployment from months to minutes.
 
-- **Gemini and GenAI agent integration** with built-in support for LLMops and MLOps best practices, enabling scalable, enterprise-grade generative AI applications.
+- **Gemini and GenAI agent support** with built-in LLMops/MLops best practices, enabling scalable, secure, and observable generative AI workflows in Python.
 
-- **Python-based repository** with modular architecture, optimized for Google Cloud Platform (GCP) services, and last updated in July 2026 fo
+- **GitHub-hosted starter pack** with 6.5K+ stars, offering modular templates for rapid agent development, including observability dashboards and au
 
 ## Use Cases
 

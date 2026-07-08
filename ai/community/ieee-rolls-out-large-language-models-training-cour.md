@@ -13,13 +13,14 @@ collected_at: '2026-07-08T16:49:14.729072+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ieee-rolls-out-large-language-models-training-cour
 first_seen: '2026-07-08T09:15:41.665703+05:30'
 last_seen: '2026-07-08T16:49:14.729072+05:30'
 last_checked: '2026-07-08T16:49:14.729072+05:30'
 health_score: 100
 ---
+
 
 # IEEE Rolls Out Large Language Models Training Course
 

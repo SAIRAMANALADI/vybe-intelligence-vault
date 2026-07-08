@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-07-08T16:51:46.386533+05:30'
+collected_at: '2026-07-09T01:29:36.759223+05:30'
 published_at: '2026-07-07T06:11:04Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 stars: 251
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-07-08T16:51:46.386533+05:30'
-last_seen: '2026-07-08T16:51:46.386533+05:30'
-last_checked: '2026-07-08T16:51:46.386533+05:30'
+first_seen: '2026-07-09T01:29:36.759223+05:30'
+last_seen: '2026-07-09T01:29:36.759223+05:30'
+last_checked: '2026-07-09T01:29:36.759223+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Introduces a knowledge-graph-based RAG framework with multi-layered retrieval (semantic aggregation + hierarchical paths) to enhance contextual relevance and reduce noise in generated outputs.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with two-stage retrieval—semantic aggregation for node-level relevance and hierarchical retrieval for subgraph-level context—optimizing long-form generation.
 
-- **Efficiency Optimizations**: Implements lightweight graph traversal and pruning techniques to minimize computational overhead while maintaining high retrieval precision, as validated on AAAI 2026 benchmarks.
+- **Efficiency & Scalability**: Uses lightweight graph pruning and dynamic subgraph selection to reduce computational overhead while maintaining retrieval accuracy, as demonstrated in AAAI 2026 benchmarks.
 
-- **Modular Python Implementation**: Provides a scalable, open-source toolkit with plug-and-play components for integrating knowledge graphs into LLMs, supporting dynamic updates and domain adaptation.
+- **Python Implementation**: Provides modular components for knowledge graph integration, retrieval augmentation, and generation, with dependencies optimized for PyTorch and HuggingFace ecosystems.
 
 ## Why It Matters
 
@@ -43,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: KnowledgeXLab
 - Stars: 251
-- Forks: 29
+- Forks: 28
 - Language: Python
 - Topics: None
 - Last Updated: 2026-07-07T06:11:04Z

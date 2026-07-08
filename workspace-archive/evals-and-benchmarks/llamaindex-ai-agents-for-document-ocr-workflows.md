@@ -2,7 +2,7 @@
 title: LlamaIndex | AI Agents for Document OCR + Workflows
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://www.llamaindex.ai/
+source_url: https://www.llamaindex.ai
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
 local_vault_path: ai/rag/llamaindex-ai-agents-for-document-ocr-workflows.md
 quality_score: 70
@@ -16,7 +16,6 @@ tags:
 - meta-ai
 - models
 - rag
-- reddit
 - scripts
 - web-crawled
 - workflows
@@ -38,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic OCR & Structured Extraction**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, enabling structured schema extraction with 10,000 free credits/month (~1,000 pages) and support for 50+ unstructured file types, including embedded images, multi-page tables, and handwritten notes.
+- **Agentic OCR & VLM Integration**: LlamaParse leverages Vision-Language Models (VLM) for layout-aware document parsing, enabling automated extraction of structured data from complex documents (tables, charts, handwriting) with semantic understanding and recursive error correction loops.
 
-- **Multi-Stage Validation & Specialization**: Features recursive auto-correction loops for error detection/fixing, task-specific agents for semantic decompositi
+- **Enterprise-Grade Features**: Supports 50+ unstructured file types, schema-based extraction, document classification, and enterprise-grade chunking/embedding pipelines optimized for high-precision RAG deplo
 
 ## Use Cases
 
@@ -50,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.llamaindex.ai/
+Original source URL: https://www.llamaindex.ai
 
 ## Local Vault File
 

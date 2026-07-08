@@ -1,6 +1,6 @@
 ---
 title: Product Introducing Search Toolkit Production search pipelines, anywhere. May
-  28, 2026 Mistral
+  28, 2026 By Mistral
 archive_category: model-providers
 source_category: ai/companies/mistral
 source_url: https://mistral.ai/news/search-toolkit
@@ -21,7 +21,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Product Introducing Search Toolkit Production search pipelines, anywhere. May 28, 2026 Mistral
+# Product Introducing Search Toolkit Production search pipelines, anywhere. May 28, 2026 By Mistral
 
 ## Why This Is In The Archive
 
@@ -34,7 +34,7 @@ selection_reason:
 
 ## Summary
 
-Recent update from Mistral AI News Blog: Product Introducing Search Toolkit Production search pipelines, anywhere. May 28, 2026 Mistral
+Recent update from Mistral AI News Blog: Product Introducing Search Toolkit Production search pipelines, anywhere. May 28, 2026 By Mistral
 
 ## Use Cases
 

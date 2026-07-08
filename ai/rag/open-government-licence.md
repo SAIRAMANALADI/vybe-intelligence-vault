@@ -3,9 +3,9 @@ title: Open Government Licence
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-published_at: '2026-07-08T14:26:20.728373+05:30'
-collected_at: '2026-07-08T14:26:20.728385+05:30'
+source_url: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+published_at: '2026-07-09T01:35:14.030440+05:30'
+collected_at: '2026-07-09T01:35:14.030453+05:30'
 tags:
 - dataset
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:open-government-licence
-first_seen: '2026-07-08T14:26:20.728385+05:30'
-last_seen: '2026-07-08T14:26:20.728385+05:30'
-last_checked: '2026-07-08T14:26:20.728385+05:30'
+first_seen: '2026-07-09T01:35:14.030453+05:30'
+last_seen: '2026-07-09T01:35:14.030453+05:30'
+last_checked: '2026-07-09T01:35:14.030453+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Global, royalty-free, perpetual license** granted for use, adaptation, and commercial/non-commercial exploitation of public sector information under OGL v3.0, subject to attribution and compliance with license conditions.
+- **Licence Terms**: Grants a worldwide, royalty-free, perpetual, non-exclusive licence to use public sector information under specified conditions, including mandatory source attribution (e.g., "Contains public sector information licensed under the Open Government Licence v3.0") and compliance with attribution requirements for combined datasets.
 
-- **Exclusions apply** to personal data, unpublished/unauthorized information, logos/crests (unless integral), third-party rights, patents, trademarks, and identity documents (e.g., British Passport).
+- **Exclusions & Restrictions**: Excludes personal data, unpublished/unreleased information, logos, military insignia, third-party rights, and identity documents; prohibits use implying official endorsement or violating governing law (jurisdiction specified by the Information Provider).
 
-- **Liability waiver** and non-endorsement clause: Information provided "as is" with no warranties; use does not imply official endorsement by the Information Provider or Licensor.
+- **Liability & Compliance**: Information is provided "as is" with no warranties; licensors are not liable for errors, omissions, or damages; failure to comply with attribution or other conditions automatically terminates granted rights.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T14:26:20.728373+05:30
+- Published: 2026-07-09T01:35:14.030440+05:30
 
 ## Related Tags
 
@@ -48,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+Original source: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

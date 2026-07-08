@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Next.js Template**: Production-ready starter kit with Next.js, TypeScript, and a modular architecture for scalable AI integration.
-
-- **AI-Powered Workflow**: Deploys 6 specialized agents (e.g., code reviewer, tester, optimizer) for automated development tasks like debugging, refactoring, and performance tuning.
-
-- **CI/CD Ready**: Pre-configured GitHub Actions pipelines for automated testing, deployment, and agent orchestration, with last update on 2026-07-07.
+- **Next.js Template**: Production-ready starter kit with Next.js 14+, TypeScript, and Tailwind CSS for rapid AI-powered development.
+- **Multi-Agent AI Workflow**: Integrates 6 specialized agents (e.g., code reviewer, test generator, documentation writer) for automated development tasks.
+- **Preconfigured Tooling**: Includes ESLint, Prettier, Husky, and CI/CD pipelines (GitHub Actions) for standardized, scalable AI-driven workflows.
 
 ## Use Cases
 

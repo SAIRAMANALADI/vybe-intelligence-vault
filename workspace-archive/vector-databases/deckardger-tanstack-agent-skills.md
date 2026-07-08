@@ -8,17 +8,18 @@ local_vault_path: ai/rag/deckardger-tanstack-agent-skills.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: template
+resource_kind: tool
 importance: medium
 tags:
 - agents
+- frontend_ui
 - github-repo
+- hackernews
 - rag
 - reddit
 - unknown
-- workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # DeckardGer/tanstack-agent-skills
@@ -27,17 +28,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: template
+- Resource kind: tool
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (v5+), including stale-while-revalidate (SWR) and parallel query batching.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications, leveraging TanStack Query's reactivity and performance optimizations.
 
-- **Router-Level State Management**: Implements dynamic route-based data loading and prefetching strategies in TanStack Router to minimize latency and improve UX in AI agent workflows, leveraging type-safe route loaders.
+- **TanStack Router Best Practices**: Provides structured guidance on dynamic routing, lazy loading, and state management for AI agents, ensuring scalable and maintainable client-side navigation.
 
-- **Start Framework In
+- **TanStack Start Optimization**: Focuses on server-side rendering (SSR
 
 ## Use Cases
 

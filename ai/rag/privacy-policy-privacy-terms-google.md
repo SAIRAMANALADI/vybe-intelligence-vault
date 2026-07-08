@@ -3,9 +3,9 @@ title: Privacy Policy – Privacy & Terms – Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true
-published_at: '2026-06-25T23:01:15.665313+05:30'
-collected_at: '2026-06-25T23:01:15.665326+05:30'
+source_url: https://policies.google.com/privacy
+published_at: '2026-07-09T01:34:17.468996+05:30'
+collected_at: '2026-07-09T01:34:17.469013+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:privacy-policy-privacy-terms-google
-first_seen: '2026-06-25T23:01:15.665326+05:30'
-last_seen: '2026-06-25T23:01:15.665326+05:30'
-last_checked: '2026-06-25T23:01:15.665326+05:30'
+first_seen: '2026-07-09T01:34:17.469013+05:30'
+last_seen: '2026-07-09T01:34:17.469013+05:30'
+last_checked: '2026-07-09T01:34:17.469013+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Google aggregates data across apps, browsers, and devices, including unique identifiers, IP addresses, device settings, activity logs (searches, videos, interactions), and location data (GPS, Wi-Fi access points, IP-based geolocation) to personalize services and ads.
+- **Data Collection Scope**: Google aggregates diverse data types including account-specific (e.g., emails, photos, payment info) and device/browser metadata (e.g., IP addresses, unique identifiers, crash reports) across services like Search, YouTube, and Android, with collection tied to both signed-in and signed-out states.
 
-- **Account vs. Non-Account Data**: When signed in, data is linked to the Google Account (treated as personal info); when unsigned, data is tied to browser/device identifiers for session continuity (e.g., language preferences, ad relevance).
+- **Activity & Location Tracking**: Persistent tracking of user activity (searches, interactions, communications) and location data (GPS, Wi-Fi access points, IP geolocation) is performed, with storage duration and granularity governed by account/device settings (e.g., Timeline, Web & App Activity).
 
-- **Retention & Compliance**: Google retains data based on account settings and regulatory requirements, offering controls for export/deletion. Compliance includes adherence to frameworks like GDPR and CCPA, with archived policy versions available for transparency.
+- **Third-Party & Public Data Integration**: Google supplements user data with information from publicly accessible sources (e.g., news articles) and trusted partners (e.g., marketing directories), enabling cross-referencing for services like ads, analytics, and embedded Maps.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T23:01:15.665313+05:30
+- Published: 2026-07-09T01:34:17.468996+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true
+Original source: https://policies.google.com/privacy

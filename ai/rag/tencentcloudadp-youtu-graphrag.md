@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-07-08T16:51:46.400343+05:30'
+collected_at: '2026-07-09T01:29:36.735853+05:30'
 published_at: '2026-07-06T10:13:21Z'
 tags:
 - agents
+- benchmark
+- dataset
 - github-repo
 - python
 - rag
-- workflows
 stars: 1216
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-07-08T16:51:46.400343+05:30'
-last_seen: '2026-07-08T16:51:46.400343+05:30'
-last_checked: '2026-07-08T16:51:46.400343+05:30'
+first_seen: '2026-07-09T01:29:36.735853+05:30'
+last_seen: '2026-07-09T01:29:36.735853+05:30'
+last_checked: '2026-07-09T01:29:36.735853+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) operate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced context-aware decision-making.
 
-- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Integrates graph-based retrieval with large language models (LLMs) to dynamically construct and traverse knowledge graphs, improving factual accuracy and logical coherence in multi-hop reasoning scenarios.
+- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Extends traditional RAG by integrating graph-based knowledge representations, enabling dynamic subgraph retrieval and iterative reasoning over structured data for improved factual grounding and interpretability.
 
-- **Python Implementation**: Provides an open-source Python library optimized for scalability, featuring modular agent architectures, graph-aware retrieval mechanisms, and integration with modern LLM APIs for end-to-end complex reasoning workflows.
+- **ICLR 2026 Submission**: Proposes a novel architecture combining graph neural networks (GNNs) with large language models (LLMs) to optimize multi-hop reasoning, with empirical validation on benchmark datasets demonstrating superior performance in complex QA and reasoning tasks.
 
 ## Why It Matters
 

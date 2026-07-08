@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-07-08T16:53:26.529191+05:30'
+collected_at: '2026-07-09T01:31:16.820593+05:30'
 published_at: '2026-07-07T05:51:04Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
-- scripts
 - shell
 - workflows
 stars: 537
@@ -21,9 +19,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-06T19:00:57Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-07-08T16:53:26.529191+05:30'
-last_seen: '2026-07-08T16:53:26.529191+05:30'
-last_checked: '2026-07-08T16:53:26.529191+05:30'
+first_seen: '2026-07-09T01:31:16.820593+05:30'
+last_seen: '2026-07-09T01:31:16.820593+05:30'
+last_checked: '2026-07-09T01:31:16.820593+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging adaptive RAG-powered memory, MCP (Model Context Protocol) for Skills, and Expert Agents with delegated sub-agents for hierarchical task execution.
-
-- **Capabilities**: Proactive task management, media understanding (via Crawl4AI), and self-hosted deployment with a single setup script; integrates Supabase for persistent storage and SearXNG for search functionality.
-
-- **Technical Stack**: Shell-based setup, n8n workflow automation, MCP templates for Skills, and modular design for extensibility (e.g., Crawl4AI scraper, SearXNG engine integration).
+- **OpenClaw-inspired autonomous AI agent** implemented entirely in **n8n**, leveraging **adaptive RAG-powered memory** for dynamic context retention and retrieval.
+- **Modular architecture** with **MCP-based Skills**, **Expert Agents** (delegating subtasks), **proactive task management**, and **media understanding** via **Crawl4AI** and **SearXNG** integration.
+- **Self-hosted deployment** via a single setup script, with backend support for **Supabase**, enabling scalable, open-source AI agent orchestration.
 
 ## Why It Matters
 

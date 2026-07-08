@@ -7,7 +7,7 @@ source_url: https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginne
 resource_id: blog:rag-techniques-beginner-to-advanced-practical-patt
 local_vault_path: ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -32,7 +32,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -40,11 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **Core RAG Architecture**: Combines a retriever (dense/sparse embeddings + vector search or BM25) with an LLM generator to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates.
+- **Core RAG Architecture**: Combines a retriever (dense/sparse embeddings + vector search) with a generator (LLM) to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates via document indexing.
 
-- **Minimal Pipeline Components**: Uses `sentence-transformers` for embeddings, FAISS for vector storage/search, and a lightweight LLM (e.g., Flan-T5) for generation; documents are chunked and embedded for retrieval.
-
-- **Intermediate/Advanced Enhancements**: Techniques
+- **Key Intermediate Techniques**: Implements chunking with overlap, hybrid retrieval (sparse BM25 + dense embeddings), reranking (cross-encoder models), query expansion (HyDE/multi-query), and metadata filtering to optimize precision/recall and latency.
 
 ## Use Cases
 

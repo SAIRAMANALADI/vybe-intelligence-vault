@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - workflows
 selection_reason:
@@ -33,8 +32,8 @@ selection_reason:
 ## Summary
 
 - **Purpose**: Comprehensive tutorial repository for LangChain and LangGraph, designed to educate users on building AI agents and workflows using Jupyter Notebooks.
-- **Structure**: Contains 1,088 stars and 341 forks, with the latest updates as of July 7, 2026, focusing on practical implementations of agent-based systems.
-- **Technical Focus**: Covers core topics in LangChain (e.g., chains, tools, memory) and LangGraph (e.g., stateful workflows, parallel execution) with hands-on notebook example
+- **Structure**: Contains hands-on examples, likely covering agent orchestration, graph-based workflows, and integration patterns in LangChain/LangGraph.
+- **Status**: Actively maintained (last updated July 2026) with 1,088 stars and 341 forks, indicating strong community engagement.
 
 ## Use Cases
 

@@ -5,6 +5,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | Repository | Focus Category | Quality Score |
 | :--- | :--- | :--- |
 | [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) | `ai-coding-agents/` | 70 |
+| [LangChain · GitHub](https://github.com/langchain-ai) | `ai-coding-agents/` | 70 |
 | [atticus98/codex-turbo](https://github.com/atticus98/codex-turbo) | `ai-coding-agents/` | 70 |
 | [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](https://github.com/resources/whitepapers/gartner-magic-quadrant-and-critical-capabilities-for-ai-code-assistants) | `ai-coding-agents/` | 70 |
 | [study8677/antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) | `ai-coding-agents/` | 70 |
@@ -25,9 +26,8 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [vin67/crewai_docker](https://github.com/vin67/crewai_docker) | `ai-coding-agents/` | 70 |
 | [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) | `ai-coding-agents/` | 70 |
 | [ilexistools/agents-sdk-templates](https://github.com/ilexistools/agents-sdk-templates) | `ai-coding-agents/` | 70 |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | `ai-coding-agents/` | 70 |
 | [Zijian-Ni/awesome-ai-agents-2026](https://github.com/Zijian-Ni/awesome-ai-agents-2026) | `ai-coding-agents/` | 70 |
 | [aden-hive/hive](https://github.com/aden-hive/hive) | `ai-coding-agents/` | 70 |
-| [jmahoro2022/GitHub-Start-up-project](https://github.com/jmahoro2022/GitHub-Start-up-project) | `ai-coding-agents/` | 70 |
-| [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

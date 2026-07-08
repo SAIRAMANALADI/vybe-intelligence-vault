@@ -6,16 +6,15 @@ source_name: GitHub Discovery
 source_url: https://github.com/stanford-oval/storm?source=post_page
 resource_id: github:stanford-oval/storm
 -----dba899ae0355---------------------------------------
-collected_at: '2026-07-08T01:50:43.993865+05:30'
-published_at: '2026-07-07T19:43:11Z'
+collected_at: '2026-07-09T01:32:11.935698+05:30'
+published_at: '2026-07-08T19:54:36Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
-stars: 29894
+stars: 29950
 language: Python
 status: active
 license: MIT
@@ -23,9 +22,9 @@ archived: false
 created_at: '2024-03-24T16:23:39Z'
 pushed_at: '2025-09-30T18:07:21Z'
 resource_id: github:stanford-oval/storm
-first_seen: '2026-07-08T01:50:43.993865+05:30'
-last_seen: '2026-07-08T01:50:43.993865+05:30'
-last_checked: '2026-07-08T01:50:43.993865+05:30'
+first_seen: '2026-07-09T01:32:11.935698+05:30'
+last_seen: '2026-07-09T01:32:11.935698+05:30'
+last_checked: '2026-07-09T01:32:11.935698+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **LLM-Powered Knowledge Curation**: STORM is an autonomous system that leverages large language models (LLMs) to research topics, synthesize information, and generate comprehensive reports with inline citations, enabling deep, agentic retrieval-augmented generation (RAG).
+- **LLM-Powered Knowledge Curation**: `storm` autonomously researches topics using large language models (LLMs) to generate comprehensive, citation-backed reports via an agentic retrieval-augmented generation (RAG) pipeline.
 
-- **Multi-Source Integration**: The system dynamically retrieves and cross-references information from diverse sources (e.g., web search, academic databases) to construct structured, evidence-backed reports, optimizing for factual accuracy and coherence.
+- **Multi-Stage Research Pipeline**: Implements a structured workflow (e.g., question decomposition, iterative retrieval, and synthesis) optimized for deep research, as highlighted in EMNLP 2024/NAACL contributions.
 
-- **Research & Report Generation Pipeline**: Implemented in Python, STORM automates the entire research-to-report workflow, including topic decomposition, iterative retrieval, and multi-draft refinement, with outputs tailored for academic or technical documentation (e.g., EMNLP/NAACL standards).
+- **Python-Based Framework**: Open-source toolkit (Python) integrating retrieval, citation grounding, and report generation, with 29.9K+ GitHub stars and active updates (last commit: 2026-07-08).
 
 ## Why It Matters
 
@@ -46,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: stanford-oval
-- Stars: 29894
-- Forks: 2798
+- Stars: 29950
+- Forks: 2802
 - Language: Python
 - Topics: agentic-rag, deep-research, emnlp2024, knowledge-curation, large-language-models, naacl, nlp, report-generation, retrieval-augmented-generation
-- Last Updated: 2026-07-07T19:43:11Z
+- Last Updated: 2026-07-08T19:54:36Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-24T16:23:39Z

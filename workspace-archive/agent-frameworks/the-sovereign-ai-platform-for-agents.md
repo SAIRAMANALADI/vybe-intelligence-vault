@@ -8,7 +8,7 @@ local_vault_path: ai/rag/the-sovereign-ai-platform-for-agents.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -26,18 +26,18 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Open-source modularity**: Haystack provides transparent, auditable agent primitives (tools, memory, retrievers) with no proprietary lock-in, enabling full customization and extensibility via open standards.
+- **Open, modular architecture**: Haystack provides transparent, auditable open-source components (tools, memory, retrievers, pipelines) with no proprietary lock-in, enabling full customization and ownership of agent primitives.
 
-- **Sovereign deployment**: Supports self-hosted or cloud deployments with built-in audit logs, RBAC, and data lineage, ensuring full control over infrastructure, data, and compliance posture.
+- **Sovereign deployment & compliance**: Supports self-hosted or cloud deployments with built-in audit logs, RBAC, and data lineage, ensuring full control over infrastructure, data, and regulatory compliance.
 
-- **Context-engineered agents**: Explicit, inspectable agent behavior with customizable reason
+- **Production-grade flexibility**: Enables explicit, inspec
 
 ## Use Cases
 

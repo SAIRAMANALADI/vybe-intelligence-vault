@@ -3,9 +3,9 @@ title: GitHub Docs
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.github.com
-published_at: '2026-07-07T04:21:17.269324+05:30'
-collected_at: '2026-07-07T04:21:17.269330+05:30'
+source_url: https://docs.github.com/
+published_at: '2026-07-09T01:35:23.236202+05:30'
+collected_at: '2026-07-09T01:35:23.236215+05:30'
 tags:
 - agents
 - scripts
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-docs
-first_seen: '2026-07-07T04:21:17.269330+05:30'
-last_seen: '2026-07-07T04:21:17.269330+05:30'
-last_checked: '2026-07-07T04:21:17.269330+05:30'
+first_seen: '2026-07-09T01:35:23.236215+05:30'
+last_seen: '2026-07-09T01:35:23.236215+05:30'
+last_checked: '2026-07-09T01:35:23.236215+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Core GitHub Workflow**: GitHub relies on Git for local version control, supports SSH for secure remote connections, and enables repository management via web UI/API for collaborative development.
-- **Pull Requests & Security**: Pull requests facilitate code review and merging, while GitHub provides authentication methods (SSH, tokens) and security tools (CodeQL, secret scanning) for secure development.
-- **CI/CD & Extensibility**: GitHub Actions enables automated workflows, integrates with third-party tools via APIs/webhooks, and supports Copilot for AI-driven coding assistance.
+- **GitHub Core Workflows**: Git is the foundational VCS for GitHub, enabling local version control; SSH provides secure remote access; repositories store and manage project files; pull requests facilitate collaborative code review and merging.
+
+- **Authentication & Security**: GitHub supports multiple authentication methods (passwords, tokens, SSH keys); secrets management and vulnerability scanning are enforced via CodeQL; supply chain security is maintained through dependency monitoring.
+
+- **Developer & CI/CD Tools**: GitHub Actions automates workflows; REST/GraphQL APIs enable programmatic access; GitHub CLI and Copilot integrate AI-driven coding assistance; GitHub Pages hosts static sites; Packages and Actions support artifact management and deployment.
 
 ## Why It Matters
 
@@ -36,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-07T04:21:17.269324+05:30
+- Published: 2026-07-09T01:35:23.236202+05:30
 
 ## Related Tags
 
@@ -48,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://docs.github.com
+Original source: https://docs.github.com/

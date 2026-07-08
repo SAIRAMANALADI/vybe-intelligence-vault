@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Curriculum Structure**: 12-lesson Jupyter Notebook-based course covering foundational to advanced AI agent development using frameworks like AutoGen and Semantic Kernel.
+- **Curriculum Structure**: 12 structured lessons covering foundational to advanced concepts in AI agent development, including agentic AI, RAG, and multi-agent frameworks (e.g., AutoGen, Semantic Kernel).
 
-- **Technical Focus**: Covers agentic AI, RAG (Retrieval-Augmented Generation), and multi-agent orchestration with hands-on implementations in generative AI workflows.
+- **Technical Stack**: Primarily implemented in Jupyter Notebooks, integrating Python-based tools for agentic workflows, generative AI, and semantic search.
 
-- **Repository Stats**: 68,844 stars, 22,820 forks; last updated July 8, 2026, with active community engagement in agentic AI development.
+- **Ecosystem Focus**: Targets Microsoft’s agentic AI ecosystem (AutoGen, Semantic Kernel) with practical examples for building autonom
 
 ## Use Cases
 

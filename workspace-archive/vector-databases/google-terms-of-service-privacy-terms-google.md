@@ -2,13 +2,13 @@
 title: Google Terms of Service – Privacy & Terms – Google
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://accounts.google.com/TOS?loc=US&hl=en-US
+source_url: https://policies.google.com/terms
 resource_id: blog:google-terms-of-service-privacy-terms-google
 local_vault_path: ai/rag/google-terms-of-service-privacy-terms-google.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - hackernews
@@ -20,7 +20,7 @@ tags:
 - web-crawled
 - youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Google Terms of Service – Privacy & Terms – Google
@@ -29,15 +29,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Governance & Compliance**: Google LLC (Delaware-registered) provides services under U.S. law, with terms updated May 22, 2024 (next revision July 30, 2026). Users must comply with service-specific policies (e.g., age requirements, Generative AI Prohibited Use Policy) and Google’s Privacy Policy, which governs data handling, export/management of user content, and legal requests.
+- **Service Provider & Legal Framework**: Google LLC (Delaware-registered, US laws) provides services under updated Terms of Service (effective May 22, 2024), with future revisions planned for July 30, 2026; users must comply with service-specific policies and age requirements (parental consent for minors).
 
-- **Service Usage & Restrictions**: Users agree to access services under defined permissions, including prohibitio
+- **Content & Conduct Policies**: Users retain IP rights over their content but grant Google a license for service operation; prohibited actions include reverse engineering, AI-generated con
 
 ## Use Cases
 
@@ -47,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://accounts.google.com/TOS?loc=US&hl=en-US
+Original source URL: https://policies.google.com/terms
 
 ## Local Vault File
 

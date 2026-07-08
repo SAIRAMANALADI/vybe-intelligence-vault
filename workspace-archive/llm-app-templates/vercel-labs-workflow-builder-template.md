@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Visual AI Workflow Automation**: A TypeScript-based platform enabling drag-and-drop creation of AI-driven workflows with reusable components and agent orchestration.
+- **Visual AI Workflow Automation**: A TypeScript-based platform enabling drag-and-drop creation of AI-driven workflows with reusable components (agents) for automation tasks.
 
-- **Vercel Integration**: Built on Vercel’s infrastructure, leveraging serverless functions and edge computing for scalable, low-latency workflow execution.
+- **Vercel Integration**: Built on Vercel’s ecosystem, leveraging serverless functions and edge runtime for scalable, low-latency workflow execution.
 
-- **Open-Source Template**: Provides a starter kit (1162 ⭐, 222 🍴) with modular templates for rapid deployment of AI workflows, supporting custom agent logic and integrati
+- **Open-Source Template**: Provides a starter kit (1162 stars, 222 forks) for deploying modular AI workflows with pre-configured templates and extensible agent logic.
 
 ## Use Cases
 

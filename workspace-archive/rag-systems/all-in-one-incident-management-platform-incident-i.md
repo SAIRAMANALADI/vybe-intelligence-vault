@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-*   Leverages AI for intelligent alert noise reduction and page suppression, optimizing on-call engineer engagement.
-*   Provides an integrated platform for streamlined on-call scheduling, alerting, and performance trend analysis.
-*   Facilitates efficient incident response by ensuring rapid engagement of appropriate personnel through optimized on-call rotations.
+- **AI-powered alert filtering**: Automatically reduces noise by prioritizing critical incidents and minimizing unnecessary pages through machine learning-based noise reduction.
+
+- **Human-centric scheduling**: Implements effortless, automated on-call scheduling with intelligent rotation to ensure optimal coverage while balancing workload and reducing burnout.
+
+- **Real-time incident trends & mobile integration**: Provides actionable insights via trend analysis of incident patterns and offers a
 
 ## Use Cases
 

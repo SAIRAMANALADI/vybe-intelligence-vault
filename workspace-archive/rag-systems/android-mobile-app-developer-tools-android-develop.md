@@ -2,7 +2,7 @@
 title: Android Mobile App Developer Tools - Android Developers
 archive_category: rag-systems
 source_category: ai/rag
-source_url: http://developer.android.com/index.html
+source_url: https://developer.android.com
 resource_id: blog:android-mobile-app-developer-tools-android-develop
 local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
@@ -12,6 +12,8 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
+- benchmark
+- leaderboard
 - producthunt
 - rag
 - reddit
@@ -35,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Google Play Billing Updates**: Google Play introduced expanded billing flexibility, reduced fees, and new programs to enhance developer monetization, as detailed in the Q3 2026 updates ([blog](http://goo.gle/playdev-q3-updates), [video](https://www.youtube.com/watch?v=hcvvo6Sag0Q)).
+- **Android Bench 2026 Update**: Introduces updated LLM benchmarking methodology for Android development, including new models and community contributions; leaderboard available at [developer.android.com/bench](https://developer.android.com/bench).
 
-- **Android 17 & XR Platform**: Android 17 (API 37) is now available via AOSP with Pixel rollout; Android XR platform expands engine support and tools for immersive app development ([blog](http://android-develop
+- **Android 17 & XR Platform**: Android 17 source code released on AOSP with Pixel rollout; Android XR expands engine support and resources for immersive app development.
+
+- **Android Studio Quail 1 | 2026.1.1 Patch 2**: Latest SDK release under Goog
 
 ## Use Cases
 
@@ -47,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: http://developer.android.com/index.html
+Original source URL: https://developer.android.com
 
 ## Local Vault File
 

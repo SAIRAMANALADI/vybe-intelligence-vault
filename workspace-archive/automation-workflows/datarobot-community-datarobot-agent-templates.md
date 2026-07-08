@@ -13,11 +13,11 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
 - rag
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides pre-built agentic workflow templates for DataRobot, integrating frameworks like CrewAI, LangGraph, and LlamaIndex to automate AI-driven tasks.
-- **Technical Stack**: Implemented in Python, leveraging LLM orchestration tools (e.g., LangGraph) and vector databases (e.g., LlamaIndex) for agentic workflows.
-- **Integration**: Designed to extend DataRobot’s capabilities with agentic AI, enabling multi-agent collaboration and automated decision-making pipelines.
+- **Templates for Agentic Workflows**: Repository provides pre-built templates for constructing agentic AI workflows using frameworks like CrewAI, LangGraph, and LlamaIndex, optimized for DataRobot integration.
+
+- **Python-Based Implementation**: All templates are implemented in Python, leveraging DataRobot's ecosystem for LLM-driven automation and AI agent orchestration.
+
+- **Community-Driven & Updated**: Actively maintained by the DataRobot community with the latest update in July 2026, ensuri
 
 ## Use Cases
 

@@ -16,6 +16,7 @@ tags:
 - models
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: FastAPI-based template for RAG systems integrating vector search (e.g., ChromaDB) with LLM backends (e.g., Ollama) for document retrieval and chatbot functionality.
-- **Deployment**: Supports Docker for containerization and Kubernetes for orchestration, enabling scalable RAG deployments.
-- **Key Features**: Includes retrieval-augmented generation (RAG) pipelines, vector database integration, and modular design for AI chatbots/document management.
+- **Purpose**: Template for deploying AI chatbots and document management systems using **Retrieval-Augmented Generation (RAG)** with **vector search** and **FastAPI** backend.
+- **Key Components**: Integrates **Python**, **FastAPI**, **Ollama LLM**, and a **vector database** (e.g., Chroma/Weaviate) for RAG workflows; supports **Docker** and **Kubernetes** deployment.
+- **Stackit Integration**: Designed for **STACKIT Cloud** infrastructure, enabling scalable RAG applications with vector search o
 
 ## Use Cases
 

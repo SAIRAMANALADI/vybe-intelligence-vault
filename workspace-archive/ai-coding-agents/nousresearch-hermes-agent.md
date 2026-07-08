@@ -6,7 +6,7 @@ source_url: https://github.com/NousResearch/hermes-agent
 resource_id: github:nousresearch/hermes-agent
 local_vault_path: ai/agents/nousresearch-hermes-agent.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: api
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: api
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports Anthropic (Claude, Claude Code), OpenAI (ChatGPT, Codex), and other LLM APIs for dynamic agent behavior.
-- **Self-Improving Architecture**: Implements recursive self-improvement via feedback loops, enabling continuous adaptation without manual retraining.
-- **Tool-Agnostic Execution**: Executes code, CLI commands, and API calls via modular tool interfaces (e.g., `clawdbot`, `moltbot`) with sandboxed safety.
+- **Multi-LLM Compatibility**: Supports integration with various LLMs (e.g., Anthropic, OpenAI, Codex) via modular API wrappers, enabling dynamic agent behavior across providers.
+- **Self-Improving Architecture**: Implements a feedback-driven growth mechanism where the agent refines its performance through iterative task execution and user corrections.
+- **Tool-Agnostic Execution**: Executes tasks via standardized interfaces (e.g., `claude-code`, `moltbot`) with extensible tooling for code gener
 
 ## Use Cases
 

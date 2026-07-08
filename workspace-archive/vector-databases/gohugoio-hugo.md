@@ -8,7 +8,7 @@ local_vault_path: ai/rag/gohugoio-hugo.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: template
 importance: medium
 tags:
 - agents
@@ -20,7 +20,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # Releases · gohugoio/hugo · GitHub
@@ -29,14 +29,18 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-*   Introduced `v0.164.0` with Chroma highlighter dark
+- **Hugo v0.164.0** introduces dark/light mode pairs for Chroma highlighter styles, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and Pandoc citation support, alongside performance regression fixes for large sites.
+
+- **Deprecation**: `resources.PostProcess` is deprecated in favor of `templates.Defer` (commit `29ed932`), with case-insensitive template name lookup and improved `.Render` sub-path support.
+
+- **Dependency updates**: Includes upgrades to `esbuil
 
 ## Use Cases
 

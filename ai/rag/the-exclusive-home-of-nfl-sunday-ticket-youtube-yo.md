@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tv.youtube.com/learn/nflsundayticket/
-published_at: '2026-07-07T04:23:09.339289+05:30'
-collected_at: '2026-07-07T04:23:09.339296+05:30'
+published_at: '2026-07-09T01:36:05.716824+05:30'
+collected_at: '2026-07-09T01:36:05.716839+05:30'
 tags:
 - agents
 - models
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-exclusive-home-of-nfl-sunday-ticket-youtube-yo
-first_seen: '2026-07-07T04:23:09.339296+05:30'
-last_seen: '2026-07-07T04:23:09.339296+05:30'
-last_checked: '2026-07-07T04:23:09.339296+05:30'
+first_seen: '2026-07-09T01:36:05.716839+05:30'
+last_seen: '2026-07-09T01:36:05.716839+05:30'
+last_checked: '2026-07-09T01:36:05.716839+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Pricing & Plans**: NFL Sunday Ticket offers new users **$240/yr ($20/mo for 12 months)** or **$378/yr ($31.50/mo)** for returning users; standalone or bundled with YouTube TV ($67.99/mo for 3 months, then $82.99/mo).
+- **Pricing & Bundling**: NFL Sunday Ticket offers new users a 12-month subscription at **$240 ($20/month)** for out-of-market Sunday games, while returning users pay **$378 ($31.50/month)**. Bundling with YouTube TV’s **Sports Plan ($54.99/month for first 12 months, then $64.99/month)** provides local/national games (e.g., Sunday Night Football, Monday Night Football), requiring an active Sports Plan to retain access.
 
-- **Coverage & Features**: Includes **all out-of-market Sunday NFL games**, multiview (up to 4 games), fantasy tracking, and NFL RedZone (optional add-on); requires **3+ Mbps (7+ Mbps recommended)** internet and supported devices.
+- **Coverage & Features**: Provides **all out-of-market Sunday NFL games** (32 teams, AFC/NFC) and **local/national broadcasts** when bundled. Supports **multiview (4 games simultaneously)**, **fantasy tracking**, and **key-play highlights**. Requires **≥3 Mbps (recommended 7+ Mbps)** internet and compatible devices (YouTube/YouTube TV apps).
 
-- **Accessibility & Exclusions**: **No cable/satellite required**; digital-only games excluded; commercial use prohibited; availability varies by region; non-refundable, non-cancelable payments.
+- **Access & Restrictions**: **No cable/satellite required**—available standalone via YouTube TV or YouTube Primetime Channels. **Non-refundable**, **commercial use excluded**, and **cancellation of YouTube TV Sports Plan revokes NFL Sunday Ticket access**. Digital-only games excluded.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T04:23:09.339289+05:30
+- Published: 2026-07-09T01:36:05.716824+05:30
 
 ## Related Tags
 

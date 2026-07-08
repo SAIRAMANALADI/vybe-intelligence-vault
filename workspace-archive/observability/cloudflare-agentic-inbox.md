@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Cloudflare Workers-based Email Client**: Self-hosted email client implemented as a Cloudflare Worker, leveraging serverless architecture for scalability and low-latency performance.
+- **Serverless Architecture**: Implements a fully serverless email client using Cloudflare Workers, leveraging edge computing for low-latency operations and minimal infrastructure overhead.
 
-- **AI Agent Integration**: Incorporates an AI agent (likely using Cloudflare's AI models) for automated email processing, summarization, or triage within the same Workers runtime.
+- **AI Agent Integration**: Incorporates an AI agent (likely RAG-based) for automated email processing, classification, and response generation, executed entirely within Cloudflare’s runtime environment.
 
-- **TypeScript Implementation**: Entirely written in TypeScript, utilizing Cloudflare's Workers ecosystem (e.g., Durable Objects, K
+- **TypeScript Implementation**: Built entirely in TypeScript, utilizing Cloudflare’s Workers ecosystem
 
 ## Use Cases
 

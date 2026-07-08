@@ -4,24 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/snyk/agent-scan
-collected_at: '2026-07-08T16:53:11.532300+05:30'
-published_at: '2026-07-08T10:37:11Z'
+collected_at: '2026-07-09T01:31:01.808470+05:30'
+published_at: '2026-07-08T16:54:29Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - workflows
-stars: 2759
+stars: 2760
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2025-04-07T14:31:26Z'
-pushed_at: '2026-07-07T16:19:34Z'
+pushed_at: '2026-07-08T16:21:04Z'
 resource_id: github:snyk/agent-scan
-first_seen: '2026-07-08T16:53:11.532300+05:30'
-last_seen: '2026-07-08T16:53:11.532300+05:30'
-last_checked: '2026-07-08T16:53:11.532300+05:30'
+first_seen: '2026-07-09T01:31:01.808470+05:30'
+last_seen: '2026-07-09T01:31:01.808470+05:30'
+last_checked: '2026-07-09T01:31:01.808470+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Security scanner designed to audit AI agents, MCP servers, and agent skills for vulnerabilities and misconfigurations.
-- **Key Features**: Supports static and dynamic analysis of Python-based AI systems, integrating with the Model Context Protocol (MCP) for contextual security insights.
-- **Integration**: Compatible with Snyk’s vulnerability database, enabling automated dependency and code vulnerability detection in AI-driven workflows.
+- **Purpose**: Security scanner designed to audit AI agents, MCP servers, and agent skills for vulnerabilities.
+- **Key Features**: Supports static and dynamic analysis of agent workflows, MCP protocol interactions, and skill integrations.
+- **Technical Stack**: Python-based, integrates with Snyk’s vulnerability database for real-time threat detection.
 
 ## Why It Matters
 
@@ -40,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: snyk
-- Stars: 2759
+- Stars: 2760
 - Forks: 244
 - Language: Python
 - Topics: agent, ai, mcp, modelcontextprotocol, security
-- Last Updated: 2026-07-08T10:37:11Z
+- Last Updated: 2026-07-08T16:54:29Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-04-07T14:31:26Z
-- Pushed At: 2026-07-07T16:19:34Z
+- Pushed At: 2026-07-08T16:21:04Z
 
 ## Possible Use Cases
 

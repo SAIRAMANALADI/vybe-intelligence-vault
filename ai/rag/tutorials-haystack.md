@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-07-08T14:23:14.911223+05:30'
-collected_at: '2026-07-08T14:23:14.911237+05:30'
+published_at: '2026-07-09T01:42:08.688542+05:30'
+collected_at: '2026-07-09T01:42:08.688557+05:30'
 tags:
 - agents
 - benchmark
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-07-08T14:23:14.911237+05:30'
-last_seen: '2026-07-08T14:23:14.911237+05:30'
-last_checked: '2026-07-08T14:23:14.911237+05:30'
+first_seen: '2026-07-09T01:42:08.688557+05:30'
+last_seen: '2026-07-09T01:42:08.688557+05:30'
+last_checked: '2026-07-09T01:42:08.688557+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Evaluation Guide**: Comprehensive tutorial covering evaluation methodologies for assessing RAG and generative QA pipelines using statistical and model-based metrics.
+- **Evaluation Framework**: Haystack provides a guided walkthrough for evaluating RAG pipelines using statistical and model-based metrics, enabling systematic performance assessment of generative QA systems.
 
-- **Agentic RAG with Fallback Mechanisms**: Tutorials on building multi-agent systems, tool-calling agents, and fallback routing (e.g., web search) for robust RAG pipelines with conditional logic.
+- **Multimodal RAG Pipeline**: Tutorial demonstrates constructing a multimodal retrieval-augmented generation (RAG) system that integrates both image and text modalities for grounded question answering.
 
-- **Multimodal & Structured Output Pipelines**: Walkthroughs for creating vision+text RAG pipelines, generating structured outputs with OpenAI/Pydantic, and serializing/deserializing LLM pipelines in YAML/Python.
+- **KV Cache Compression**: Haystack’s TurboQuant enables significant memory reduction for large LLMs via KV cache compression, facilitating deployment on consumer-grade GPUs.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T14:23:14.911223+05:30
+- Published: 2026-07-09T01:42:08.688542+05:30
 
 ## Related Tags
 

@@ -17,6 +17,7 @@ tags:
 - meta-ai
 - models
 - rag
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -33,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using **Llama 2 70B** and **LlamaIndex** in a Jupyter Notebook environment.
-- **Scalability**: Leverages **70B-parameter Llama 2** model for enhanced contextual retrieval and generation.
-- **Update Status**: Last modified on **May 24, 2026**, indicating ongoing maintenance or updates.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model with LlamaIndex for document retrieval and generation workflows in a Jupyter Notebook environment.
+
+- **Architecture**: Integrates Llama 2 70B (70 billion parameter LLM) with LlamaIndex for efficient indexing, retrieval, and contextual augmentation of external knowledge sources.
+
+- **Technical Stack**: Uses Python-based Jupyter Notebook with LlamaIndex (v0.10+) and Hugging Face Transformers for model
 
 ## Use Cases
 

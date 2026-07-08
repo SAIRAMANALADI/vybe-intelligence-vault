@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
 - hackernews
 - paper
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG), focusing on advancements, architectures, and empirical evaluations.
-- **Python-Centric Tooling**: Includes Python-based implementations, libraries, and frameworks (e.g., LangChain, Haystack) for RAG pipeline development, evaluation, and deployment.
-- **Community-Driven Maintenance**: Actively updated (last commit: 2026-07-01) with contributions from the
+- **Curated RAG Research**: Repository aggregates peer-reviewed papers, preprints, and technical reports on retrieval-augmented generation (RAG), focusing on advancements in hybrid retrieval-generation architectures.
+- **Python-Centric Resources**: All listed tools, frameworks, and implementations are Python-based, ensuring compatibility with popular ML/NLP libraries (e.g., Hugging Face, PyTorch).
+- **Last Updated**: Repository synchronized with cutting-edge RAG developments as of **July 1, 2026
 
 ## Use Cases
 

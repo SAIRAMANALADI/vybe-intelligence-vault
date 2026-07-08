@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.deepset.ai/
-published_at: '2026-07-08T01:51:54.270528+05:30'
-collected_at: '2026-07-08T01:51:54.270542+05:30'
+published_at: '2026-07-09T01:33:56.359675+05:30'
+collected_at: '2026-07-09T01:33:56.359689+05:30'
 tags:
 - agents
 - rag
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:the-sovereign-ai-platform-for-agents
-first_seen: '2026-07-08T01:51:54.270542+05:30'
-last_seen: '2026-07-08T01:51:54.270542+05:30'
-last_checked: '2026-07-08T01:51:54.270542+05:30'
+first_seen: '2026-07-09T01:33:56.359689+05:30'
+last_seen: '2026-07-09T01:33:56.359689+05:30'
+last_checked: '2026-07-09T01:33:56.359689+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-source modularity**: Haystack provides transparent, auditable agent primitives (tools, memory, retrievers) with no proprietary lock-in, enabling full customization and extensibility via open standards.
+- **Open, modular architecture**: Haystack provides transparent, auditable open-source components (tools, memory, retrievers, pipelines) with no proprietary lock-in, enabling full customization and ownership of agent primitives.
 
-- **Sovereign deployment**: Supports self-hosted or cloud deployments with built-in audit logs, RBAC, and data lineage, ensuring full control over infrastructure, data, and compliance posture.
+- **Sovereign deployment & compliance**: Supports self-hosted or cloud deployments with built-in audit logs, RBAC, and data lineage, ensuring full control over infrastructure, data, and regulatory compliance.
 
-- **Context-engineered agents**: Explicit, inspectable agent behavior with customizable reasoning, routing, and handoffs, eliminating black-box loops and enabling precise workload optimization.
+- **Production-grade flexibility**: Enables explicit, inspectable agent behavior (retrieval, routing, reasoning) with support for multi-model pipelines, allowing optimization for performance, cost, and innovation without platform dependency.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T01:51:54.270528+05:30
+- Published: 2026-07-09T01:33:56.359675+05:30
 
 ## Related Tags
 
