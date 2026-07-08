@@ -12,8 +12,8 @@ resource_kind: tool
 importance: medium
 tags:
 - github-repo
-- hackernews
 - rag
+- scripts
 - shell
 selection_reason:
 - Strong keyword match
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Attu is a graphical user interface (GUI) designed to simplify interactions with Milvus, an open-source vector database, by providing a user-friendly alternative to command-line operations.
-- **Technical Stack**: Primarily implemented in Shell, with dependencies on Milvus and its ecosystem for vector database operations.
-- **Features**: Enables visualization and management of Milvus collections, indexes, and queries, while supporting real-time monitoring and configuration adjustmen
+- **Attu**: A web-based GUI designed specifically for Milvus, a scalable vector database, enabling intuitive management, monitoring, and interaction with vector data and collections.
+- **Shell-based Architecture**: Primarily implemented in Shell scripts, facilitating lightweight deployment and integration with Milvus environments.
+- **Milvus Integration**: Provides a user-friendly interface for Milvus operations, including data import/export, collection management, and real-time monitoring of ve
 
 ## Use Cases
 

@@ -6,7 +6,7 @@ source_url: https://docs.langchain.com/oss/python/releases/changelog
 resource_id: blog:changelog-docs-by-langchain
 local_vault_path: ai/rag/changelog-docs-by-langchain.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -16,7 +16,6 @@ tags:
 - openai
 - producthunt
 - rag
-- reddit
 - web-crawled
 - workflows
 - youtube
@@ -30,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -38,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **`deepagents` v0.6.0**: Introduces experimental `CodeInterpreterMiddleware` for scoped QuickJS runtime-based code execution and tool calling; adds `DeltaChannel` (beta) for incremental checkpoint storage to reduce overhead in long-running threads; introduces `HarnessProfile` for per-provider/model configuration bundles and `ContextHubBackend` for versioned agent file storage via LangSmith Hub.
+- **`deepagents` v0.7.0**: Introduced a new `delete` filesystem tool for recursive directory deletion, modified `write_file` to overwrite existing files (use `edit_file` for targeted changes), enabled middleware instance overriding via name matching, and added filesystem tool allowlisting in `FilesystemMiddleware`.
 
-- **`langgraph` v1.2.0**: Adds per-node timeouts, error handlers, and graceful shutdown for node ex
+- **`DeltaChannel` (beta)**: Implemented in `deepagents` and `langgraph` v1.2.0 to store only incremental deltas for large-growing channels (e.g., message lists), reducing checkpoint
 
 ## Use Cases
 

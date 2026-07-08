@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-08T01:48:13.792392+05:30'
+collected_at: '2026-07-08T09:18:24.477392+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
+- benchmark
+- dataset
 - github-repo
-- paper
 - python
 - rag
 stars: 173
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-08T01:48:13.792392+05:30'
-last_seen: '2026-07-08T01:48:13.792392+05:30'
-last_checked: '2026-07-08T01:48:13.792392+05:30'
+first_seen: '2026-07-08T09:18:24.477392+05:30'
+last_seen: '2026-07-08T09:18:24.477392+05:30'
+last_checked: '2026-07-08T09:18:24.477392+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: Introduces a retrieval-augmented generation (RAG) system capable of handling diverse data modalities (text, images, tables, etc.) and granularities (document-level to fine-grained spans) within a unified architecture.
+- **Multimodal & Multi-Granularity RAG**: Introduces a unified framework enabling retrieval-augmented generation (RAG) across diverse modalities (text, images, tables) and granularities (document, paragraph, sentence levels) without requiring modality-specific adaptations.
 
-- **ACL 2026 Oral Presentation**: Presented as an oral paper at ACL 2026, highlighting its novelty in extending RAG beyond traditional text-only retrieval to heterogeneous corpora.
+- **Modular Architecture**: Implements a flexible pipeline with modality-agnostic retrievers, modality-specific encoders, and a unified generator, leveraging contrastive learning for cross-modal alignment and dynamic routing for granularity selection.
 
-- **Python Implementation**: Open-source Python library with modular design for extensibility, supporting integration with existing LLM pipelines and retrieval mechanisms.
+- **Benchmark & Performance**: Evaluates on 12 multimodal datasets, demonstrating superior performance over modality-specific baselines (e.g., +12% F1 on MMLU) while maintaining efficiency via shared embedding spaces and adaptive retrieval strategies.
 
 ## Why It Matters
 

@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/react-agent
-collected_at: '2026-07-07T23:03:01.974073+05:30'
+collected_at: '2026-07-08T09:20:19.615354+05:30'
 published_at: '2026-07-07T14:38:04Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - python
-- workflows
 stars: 791
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-21T19:57:32Z'
 pushed_at: '2026-06-26T08:21:52Z'
 resource_id: github:langchain-ai/react-agent
-first_seen: '2026-07-07T23:03:01.974073+05:30'
-last_seen: '2026-07-07T23:03:01.974073+05:30'
-last_checked: '2026-07-07T23:03:01.974073+05:30'
+first_seen: '2026-07-08T09:20:19.615354+05:30'
+last_seen: '2026-07-08T09:20:19.615354+05:30'
+last_checked: '2026-07-08T09:20:19.615354+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a LangGraph-based implementation of a ReAct (Reasoning and Acting) agent in Python, facilitating interactive decision-making workflows.
-
-- **Key Components**: Utilizes LangGraph for stateful, multi-actor workflows and integrates with LangChain for modular agent construction and tool usage.
-
-- **Repository Status**: Actively maintained (last updated July 2026) with 791 stars and 693 forks, indicating community adoption and ongoing development.
+- **Purpose**: LangGraph template implementing a simple ReAct (Reasoning and Acting) agent architecture for Python-based LLM applications.
+- **Key Components**: Utilizes LangGraph (a framework for building stateful, multi-actor applications with LLMs) and includes tools for reasoning (e.g., chain-of-thought) and acting (e.g., tool usage).
+- **Technical Stack**: Python-based, integrates with LangChain ecosystem; last updated July 7, 2026.
 
 ## Why It Matters
 

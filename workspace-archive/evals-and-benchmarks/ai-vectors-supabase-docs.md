@@ -6,10 +6,10 @@ source_url: https://supabase.com/docs/guides/ai
 resource_id: blog:ai-vectors-supabase-docs
 local_vault_path: ai/rag/ai-vectors-supabase-docs.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
-resource_kind: benchmark
-importance: medium
+resource_kind: template
+importance: high
 tags:
 - frontend_ui
 - hackernews
@@ -22,7 +22,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # AI & Vectors | Supabase Docs
@@ -30,19 +30,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Supabase integrates vector search capabilities directly into PostgreSQL via `pgvector`**, enabling storage, indexing, and querying of vector embeddings at scale without external vector databases.
+- **Vector Database Integration**: Supabase leverages **Postgres with pgvector** for native vector storage, indexing, and querying, enabling scalable AI applications without external dependencies.
 
-- **Supports hybrid search workflows** combining semantic, keyword, and hybrid search methods for enhanced retrieval performance in AI applications.
+- **Multi-Modal AI Workflows**: Supports **semantic, keyword, and hybrid search** with integrations for **OpenAI, Hugging Face, LangChain, and LlamaIndex**, facilitating unstructured data processing (text, images) via Edge Functions and client libraries.
 
-- **Provides client libraries and Edge Function integrations** for open-source (e.g., Hugging Face) and proprietary (e.g., OpenAI) embedding models,
+- **Production-Ready Examples**: Provides **Gi
 
 ## Use Cases
 

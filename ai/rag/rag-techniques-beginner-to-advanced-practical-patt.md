@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources/
-published_at: '2026-07-08T01:46:34.846824+05:30'
-collected_at: '2026-07-08T01:46:34.846842+05:30'
+published_at: '2026-07-08T09:16:45.202333+05:30'
+collected_at: '2026-07-08T09:16:45.202344+05:30'
 tags:
 - agents
 - anthropic
@@ -20,11 +20,12 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 status: active
 resource_id: blog:rag-techniques-beginner-to-advanced-practical-patt
-first_seen: '2026-07-08T01:46:34.846842+05:30'
-last_seen: '2026-07-08T01:46:34.846842+05:30'
-last_checked: '2026-07-08T01:46:34.846842+05:30'
+first_seen: '2026-07-08T09:16:45.202344+05:30'
+last_seen: '2026-07-08T09:16:45.202344+05:30'
+last_checked: '2026-07-08T09:16:45.202344+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Minimal RAG Pipeline**: Uses `sentence-transformers` for embeddings, FAISS for vector search, and `transformers` (e.g., Flan-T5) for generation; supports dense retrieval with optional sparse (BM25) via `rank-bm25`.
+- **Core RAG Architecture**: Combines a retriever (dense/sparse) with an LLM generator to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates via document indexing.
 
-- **Core RAG Components**: Retriever (dense/sparse), generator (LLM), embeddings (e.g., `all-MiniLM-L6-v2`), chunking (400–1000 tokens with overlap), reranking (e.g., `monoT5`), and hybrid retrieval (sparse + dense).
+- **Minimal Pipeline Components**: Uses sentence-transformers for embeddings, FAISS for vector search, and Flan-T5 for generation; demonstrates end-to-end indexing (chunking → embedding → vector store) and retrieval-augmented prompting.
 
-- **Advanced Techniques**: Multi-hop retrieval, GraphRAG (knowledge graphs), multi-vector retrievers, context compression, agentic RAG (tool integration), and safety/grounding mechanisms for production-grade systems.
+- **Intermediate/Advanced Techniques**: Highlights hybrid retrieval (BM25 + dense), reranking (cross-encoders), query expansion (HyDE/multi-query), GraphRAG (knowledge graphs), multi-hop reasoning, and agentic RAG with tool integration for complex workflows.
 
 ## Why It Matters
 
@@ -46,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T01:46:34.846824+05:30
+- Published: 2026-07-08T09:16:45.202333+05:30
 
 ## Related Tags
 
@@ -62,6 +63,7 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
+- workflows
 
 ## Source
 

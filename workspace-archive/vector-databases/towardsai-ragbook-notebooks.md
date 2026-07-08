@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- Repository containing Jupyter Notebooks for the book *"Building LLMs for Production"* by Towards AI, focusing on practical implementations of LLMs, LangChain, and LlamaIndex.
-- Covers topics including **RAG (Retrieval-Augmented Generation)**, **multi-agent systems**, and **LLM deployment** in Python.
-- Last updated June 30, 2026; 552 stars, 197 forks, with notebooks demonstrating production-grade LLM workflows.
+- **Repository**: `towardsai/ragbook-notebooks` – Jupyter Notebook collection for *"Building LLMs for Production"* by Towards AI, covering agentic workflows, LangChain, LlamaIndex, and RAG pipelines.
+- **Technical Stack**: Python-based notebooks leveraging `langchain`, `llamaindex`, and LLMs for production-grade RAG implementations and agent architectures.
+- **Metadata**: 552 ⭐, 197 🍴; last updated 2026-06-30; focuses on AI/ML engineering, retrieval-augmented generation (RAG), and scalable LLM d
 
 ## Use Cases
 

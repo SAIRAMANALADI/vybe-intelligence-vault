@@ -6,18 +6,18 @@ source_url: https://github.com/datarobot-community/datarobot-agent-templates
 resource_id: github:datarobot-community/datarobot-agent-templates
 local_vault_path: ai/rag/datarobot-community-datarobot-agent-templates.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
 resource_kind: template
 importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - meta-ai
 - models
 - python
 - rag
-- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -29,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides pre-built agentic workflow templates for DataRobot, leveraging frameworks like CrewAI, LangGraph, and LlamaIndex to enable LLM-driven automation.
-- **Key Components**: Python-based templates integrating DataRobot APIs with agentic AI tools for orchestration, retrieval, and task execution.
-- **Use Case**: Facilitates rapid deployment of agentic workflows for enterprise automation, model deployment, and data processing tasks.
+- **Purpose**: Provides pre-built agentic workflow templates for DataRobot, integrating frameworks like CrewAI, LangGraph, and LlamaIndex to automate AI-driven tasks.
+- **Technical Stack**: Implemented in Python, leveraging LLM-based agents for orchestration, with connectors to DataRobot’s MLOps and AI deployment capabilities.
+- **Use Cases**: Enables scalable, modular agentic workflows for tasks such as automated model retraining, data processing, and multi-agent collaboration in enterprise AI
 
 ## Use Cases
 

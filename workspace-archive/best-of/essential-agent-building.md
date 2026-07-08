@@ -8,6 +8,16 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
+### [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`wassim249-fastapi-langgraph-agent-production-ready-template.md`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`agentops-ai-agentops.md`](../../ai/agents/agentops-ai-agentops.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [Detecting AI Coding Agents in Open Source: A Validated Multi-Method Census of 180 Million Repositories](https://arxiv.org/abs/2606.24429)
 - **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `90` | **Path**: [`arxiv-2606-24429.md`](../../ai/agents/arxiv-2606-24429.md)
@@ -58,16 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`redhat-data-and-ai-template-mcp-server.md`](../../ai/agents/redhat-data-and-ai-template-mcp-server.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [golf-mcp/golf](https://github.com/golf-mcp/golf)
-- **Category**: `ai/agents` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`golf-mcp-golf.md`](../../ai/agents/golf-mcp-golf.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [vin67/crewai_docker](https://github.com/vin67/crewai_docker)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`vin67-crewai-docker.md`](../../ai/agents/vin67-crewai-docker.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 
 ## Recommended Learning Path
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-08 02:02 IST*
+*Last updated: 2026-07-08 09:33 IST*

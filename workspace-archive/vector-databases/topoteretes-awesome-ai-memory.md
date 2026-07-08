@@ -12,10 +12,13 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
-- hackernews
+- meta-ai
+- models
 - python
 - rag
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated list** of AI memory projects, frameworks, and tools focused on memory management, retrieval-augmented generation (RAG), and agent-based systems.
-- **Python-centric** repository with 807 stars and 89 forks, last updated July 2026, covering topics like AI agents, ML integration, and memory optimization.
-- **Resource hub** for advanced AI memory techniques, including long-term context retention, adaptive recall, and hybrid retrieval systems.
+- **Curated list of AI memory projects**: Repository aggregates open-source and research initiatives focused on AI memory systems, including long-term memory, context retention, and memory-augmented architectures.
+- **Python-centric ecosystem**: Majority of projects leverage Python, with integrations for frameworks like LangChain, LlamaIndex, and custom memory stores (e.g., vector DBs, graph-based memory).
+- **Covers RAG & agentic memory**: Includes tools for Retrieval-Augmented Generation (RAG)
 
 ## Use Cases
 

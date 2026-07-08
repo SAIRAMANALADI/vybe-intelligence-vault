@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/plusai-solutions/ai-scrum-master-template
-collected_at: '2026-07-07T23:02:46.984754+05:30'
+collected_at: '2026-07-08T09:20:04.596295+05:30'
 published_at: '2026-07-02T02:01:47Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - github-repo
 - scripts
 - unknown
+- workflows
 stars: 23
 language: Unknown
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-18T13:11:16Z'
 pushed_at: '2026-03-19T12:36:58Z'
 resource_id: github:plusai-solutions/ai-scrum-master-template
-first_seen: '2026-07-07T23:02:46.984754+05:30'
-last_seen: '2026-07-07T23:02:46.984754+05:30'
-last_checked: '2026-07-07T23:02:46.984754+05:30'
+first_seen: '2026-07-08T09:20:04.596295+05:30'
+last_seen: '2026-07-08T09:20:04.596295+05:30'
+last_checked: '2026-07-08T09:20:04.596295+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous DevOps Framework**: GitHub Actions orchestrates AI agents under Scrum methodology to autonomously manage, assign, and execute tasks directly from GitHub Issues.
+- **Autonomous Development Orchestration**: Uses GitHub Actions and Claude to deploy AI agents under a Scrum framework, enabling autonomous issue-driven project management and execution directly from GitHub repositories.
 
-- **AI-Powered Agent Orchestration**: Integrates Claude-based AI agents to handle sprint planning, task decomposition, and progress tracking without human intervention.
+- **Scrum Framework Integration**: Implements Scrum methodology (sprints, backlogs, standups) via AI agents, automating task assignment, progress tracking, and sprint reviews within the repository.
 
-- **Self-Contained Scrum Implementation**: Converts a repository into an autonomous development team, automating backlog grooming, sprint execution, and issue resolution.
+- **Dynamic Agent Deployment**: AI agents autonomously manage development workflows (e.g., coding, testing, PR reviews) by interpreting GitHub Issues, with updates and actions logged in real-time via GitHub Actions.
 
 ## Why It Matters
 

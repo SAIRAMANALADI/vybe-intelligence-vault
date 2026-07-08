@@ -1,33 +1,31 @@
 ---
-title: Free, Self-Paced, Hands-on Online Training | Free Neo4j Courses from GraphAcademy
+title: GraphAcademy — Free, Hands-On Neo4j Training & Certification
 category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://graphacademy.neo4j.com/
-published_at: '2026-06-25T16:44:16.837030+05:30'
-collected_at: '2026-06-25T16:44:16.837044+05:30'
+published_at: '2026-07-08T09:28:54.913217+05:30'
+collected_at: '2026-07-08T09:28:54.913229+05:30'
 tags:
-- agents
-- frontend_ui
-- hackernews
 - rag
-- reddit
 - web-crawled
 status: active
-resource_id: blog:free-self-paced-hands-on-online-training-free-neo4
-first_seen: '2026-06-25T16:44:16.837044+05:30'
-last_seen: '2026-06-25T16:44:16.837044+05:30'
-last_checked: '2026-06-25T16:44:16.837044+05:30'
+resource_id: blog:graphacademy-free-hands-on-neo4j-training-certific
+first_seen: '2026-07-08T09:28:54.913229+05:30'
+last_seen: '2026-07-08T09:28:54.913229+05:30'
+last_checked: '2026-07-08T09:28:54.913229+05:30'
 health_score: 100
 ---
 
-# Free, Self-Paced, Hands-on Online Training | Free Neo4j Courses from GraphAcademy
+# GraphAcademy — Free, Hands-On Neo4j Training & Certification
 
 ## Summary
 
-*   GraphAcademy provides specialized training for integrating Neo4j knowledge graphs with Generative AI, covering vector indexes, LLM-driven knowledge graph construction (GraphRAG), and application development with frameworks like LangChain for chatbots and agentic systems.
-*   Core curriculum encompasses Neo4j fundamentals, Cypher query language proficiency (from basics to advanced aggregations, indexes, and constraints), graph data modeling best practices, and data import methodologies.
-*   Application development pathways support multiple programming languages (Python, TypeScript, .NET, Node.js, Java, Go) using official Neo4j drivers and frameworks (e.g., Spring Data, GraphQL), alongside modules on applying the Neo4j Graph Data Science (GDS) library for graph algorithms and machine learning.
+- **Graph Database Fundamentals**: Introduces core concepts of graph databases, emphasizing nodes, relationships, properties, and labels as fundamental building blocks for modeling connected data.
+
+- **Neo4j Architecture Overview**: Covers Neo4j’s native graph storage engine, ACID-compliant transactional processing, and the Cypher query language for efficient graph traversal and pattern matching.
+
+- **Hands-On Querying**: Provides practical exercises using Cypher to create, read, update, and delete nodes and relationships, demonstrating real-world graph data manipulation.
 
 ## Why It Matters
 
@@ -37,15 +35,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:44:16.837030+05:30
+- Published: 2026-07-08T09:28:54.913217+05:30
 
 ## Related Tags
 
-- agents
-- frontend_ui
-- hackernews
 - rag
-- reddit
 - web-crawled
 
 ## Source

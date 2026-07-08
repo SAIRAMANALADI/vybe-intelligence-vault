@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-07-08T01:48:48.847626+05:30'
-published_at: '2026-07-07T20:15:14Z'
+collected_at: '2026-07-08T09:18:59.546044+05:30'
+published_at: '2026-07-08T03:23:53Z'
 tags:
 - agents
 - anthropic
@@ -13,17 +13,17 @@ tags:
 - openai
 - python
 - workflows
-stars: 10122
+stars: 10124
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-05-21T21:44:24Z'
-pushed_at: '2026-07-07T20:14:58Z'
+pushed_at: '2026-07-08T02:01:56Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-07-08T01:48:48.847626+05:30'
-last_seen: '2026-07-08T01:48:48.847626+05:30'
-last_checked: '2026-07-08T01:48:48.847626+05:30'
+first_seen: '2026-07-08T09:18:59.546044+05:30'
+last_seen: '2026-07-08T09:18:59.546044+05:30'
+last_checked: '2026-07-08T09:18:59.546044+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for multi-agent collaboration in Python, enabling parallel task execution and non-blocking I/O operations for efficient code generation and debugging.
+- **Asynchronous Coding Agent**: Open-SWE is an open-source framework designed for building asynchronous coding agents, enabling parallel task execution and efficient LLM integration for code generation and debugging.
 
-- **Multi-LLM Integration**: Supports dynamic switching between OpenAI and Anthropic (ClaudeCode) LLMs via standardized interfaces, with fallback mechanisms and context-aware prompt templating for adaptive agent behavior.
+- **Multi-LLM & Provider Support**: Supports multiple LLM providers (e.g., OpenAI, Anthropic) and tools (e.g., ClaudeCode) via modular architecture, allowing dynamic agent configuration for diverse coding workflows.
 
-- **Stateful Workflow Management**: Utilizes persistent task queues and checkpointing to maintain execution state across agent interactions, ensuring fault tolerance and resumable workflows in long-running coding sessions.
+- **Scalable & Extensible**: Implements async-first Python design with pluggable components, facilitating horizontal scaling and customization for enterprise-grade autonomous coding pipelines.
 
 ## Why It Matters
 
@@ -44,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 10122
-- Forks: 1163
+- Stars: 10124
+- Forks: 1164
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-07-07T20:15:14Z
+- Last Updated: 2026-07-08T03:23:53Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z
-- Pushed At: 2026-07-07T20:14:58Z
+- Pushed At: 2026-07-08T02:01:56Z
 
 ## Possible Use Cases
 

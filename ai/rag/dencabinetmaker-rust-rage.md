@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DenCabinetmaker/Rust-Rage
-collected_at: '2026-07-08T01:48:13.763472+05:30'
+collected_at: '2026-07-08T09:18:24.459055+05:30'
 published_at: '2026-07-07T16:15:13Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-04-26T21:33:43Z'
 pushed_at: '2026-07-05T16:22:48Z'
 resource_id: github:dencabinetmaker/rust-rage
-first_seen: '2026-07-08T01:48:13.763472+05:30'
-last_seen: '2026-07-08T01:48:13.763472+05:30'
-last_checked: '2026-07-08T01:48:13.763472+05:30'
+first_seen: '2026-07-08T09:18:24.459055+05:30'
+last_seen: '2026-07-08T09:18:24.459055+05:30'
+last_checked: '2026-07-08T09:18:24.459055+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `DenCabinetmaker/Rust-Rage` – A Rust-based cheating framework (aimbot, wallhack, ESP) with minimal metadata (language unspecified, no topics).
-- **Metadata**: 45 ⭐, 18 🍴, last updated **2026-07-07** (future-dated commit).
-- **Purpose**: Undisclosed cheat implementation; likely designed for Rust game manipulation (2026 timeline suggests experimental or placeholder repo).
+- **Repository**: DenCabinetmaker/Rust-Rage is a Rust-based cheating toolkit including aimbot, wallhack, and ESP functionalities, last updated on **2026-07-07**.
+- **Metadata**: Contains **45 stars** and **18 forks**, with no specified primary language or topics.
+- **Purpose**: Designed as a **2026-targeted** cheat suite for unspecified game integration (likely Rust, the game).
 
 ## Why It Matters
 

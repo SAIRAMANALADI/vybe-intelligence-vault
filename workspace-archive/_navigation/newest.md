@@ -31,6 +31,6 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-03-31 | [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) | `ai-coding-agents/` |
 | 2026-03-28 | [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) | `ai-coding-agents/` |
 | 2026-03-24 | [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) | `rag-systems/` |
+| 2026-03-24 | [zilliztech/milvus-skill](https://github.com/zilliztech/milvus-skill) | `rag-systems/` |
 | 2026-03-23 | [cisco-ai-defense/defenseclaw](https://github.com/cisco-ai-defense/defenseclaw) | `ai-coding-agents/` |
 | 2026-03-22 | [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices) | `ai-coding-agents/` |
-| 2026-03-21 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | `rag-systems/` |

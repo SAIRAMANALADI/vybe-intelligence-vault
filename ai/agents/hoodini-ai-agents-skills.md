@@ -4,25 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hoodini/ai-agents-skills
-collected_at: '2026-07-08T01:48:18.727682+05:30'
-published_at: '2026-07-04T14:38:30Z'
+collected_at: '2026-07-08T09:18:29.486828+05:30'
+published_at: '2026-07-08T02:31:14Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - python
-- workflows
-stars: 243
+stars: 244
 language: Python
 status: active
 archived: false
 created_at: '2026-01-07T15:25:35Z'
 pushed_at: '2026-06-18T13:29:17Z'
 resource_id: github:hoodini/ai-agents-skills
-first_seen: '2026-07-08T01:48:18.727682+05:30'
-last_seen: '2026-07-08T01:48:18.727682+05:30'
-last_checked: '2026-07-08T01:48:18.727682+05:30'
+first_seen: '2026-07-08T09:18:29.486828+05:30'
+last_seen: '2026-07-08T09:18:29.486828+05:30'
+last_checked: '2026-07-08T09:18:29.486828+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Curated repository of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf) to enhance agentic capabilities in Python-based workflows.
-- **Metadata**: 243 stars, 58 forks, last updated 2026-07-04; created by Yuval Avidani using GitHub Copilot via VS Code Insiders.
-- **Technical Stack**: Python-based skills repository with no explicit topic tags, designed for agentic AI tool integration.
+- **Repository Overview**: Curated collection of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf), implemented in Python and maintained by Yuval Avidani.
+- **Metadata**: 244 stars, 58 forks, last updated on 2026-07-08, hosted on GitHub.
+- **Tooling**: Developed using GitHub Copilot via VS Code Insiders.
 
 ## Why It Matters
 
@@ -41,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: hoodini
-- Stars: 243
+- Stars: 244
 - Forks: 58
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-04T14:38:30Z
+- Last Updated: 2026-07-08T02:31:14Z
 - Archived: No
 - Created At: 2026-01-07T15:25:35Z
 - Pushed At: 2026-06-18T13:29:17Z

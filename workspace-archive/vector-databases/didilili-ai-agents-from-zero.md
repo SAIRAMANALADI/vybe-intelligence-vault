@@ -6,16 +6,16 @@ source_url: https://github.com/didilili/ai-agents-from-zero
 resource_id: github:didilili/ai-agents-from-zero
 local_vault_path: ai/rag/didilili-ai-agents-from-zero.md
 quality_score: 70
-archive_score: 75
-archive_tier: useful
+archive_score: 85
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
 - github-repo
-- models
 - python
 - rag
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -25,16 +25,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 85 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Guide**: Covers full learning path from fundamentals to enterprise deployment, including LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, prompt engineering, and skills optimization.
-- **Hands-On & Interview-Ready**: Includes practical projects, enterprise-level fine-tuning, deployment strategies, and a curated interview question bank aligned with AI Agent Application Engineer roles.
-- **Tech Stack & Tools**: Integrates Python-based frameworks (LangChain, LangGrap
+- **Comprehensive AI Agent Development Guide (2026)**: Covers end-to-end AI agent engineering, from foundational concepts (LLMs, RAG, prompt engineering) to advanced frameworks (LangChain, LangGraph, Coze, Dify, MCP) and enterprise deployment/finetuning.
+
+- **Structured Learning Path**: Includes hands-on projects, interview preparation kits, and a curated roadmap aligned with AI application development engineer roles, with topics spanning skills, agent architectures, and AIGC workflows.
+
+- **Ent
 
 ## Use Cases
 

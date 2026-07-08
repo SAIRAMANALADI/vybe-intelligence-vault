@@ -9,23 +9,23 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 ## Top Matched Resources
 
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
+- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
+- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (framework - ESSENTIAL Tier)
 - [Pinecone · GitHub](https://github.com/pinecone-io) (framework - ESSENTIAL Tier)
 - [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (benchmark - ESSENTIAL Tier)
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (framework - ESSENTIAL Tier)
-- [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) (framework - ESSENTIAL Tier)
-- [LlamaIndex · GitHub](https://github.com/run-llama) (framework - ESSENTIAL Tier)
-- [cli/cli](https://github.com/cli/cli#installation) (workflow - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/n8n-io/n8n (n8n)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
+- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
+- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 - [Pinecone · GitHub](https://github.com/pinecone-io)
 - [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
-- [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-07-08 02:02 IST*
+*Last updated: 2026-07-08 09:32 IST*

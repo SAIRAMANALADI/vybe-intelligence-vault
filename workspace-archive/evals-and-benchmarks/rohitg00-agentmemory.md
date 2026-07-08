@@ -6,9 +6,9 @@ source_url: https://github.com/rohitg00/agentmemory
 resource_id: github:rohitg00/agentmemory
 local_vault_path: ai/rag/rohitg00-agentmemory.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - typescript
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # rohitg00/agentmemory
@@ -27,19 +27,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Persistent Memory System**: Provides long-term storage for AI coding agents, enabling retention of context and learned information across sessions based on real-world benchmarks.
+- **Persistent Memory System**: Implements a TypeScript-based framework for AI coding agents, enabling long-term memory storage and retrieval optimized for real-world benchmarks (e.g., CLI, web, and code tasks).
 
-- **TypeScript Implementation**: Built in TypeScript, offering type safety and scalability for integration with AI coding tools like Claude, Cursor, and Copilot.
+- **Benchmark-Driven Design**: Evaluates memory performance using standardized agent harnesses (e.g., Hermes, OpenClaw) to ensure compatibility with tools like ClaudeCode, Cursor, and Copilot.
 
-- **Benchmark-Driven Design**: Optimized for performance and reliability, leveraging real-world benchmarks to ensure efficient memory management for AI a
+- **Scalable Architecture**: Supports modular integration with GenAI models and agent framewo
 
 ## Use Cases
 

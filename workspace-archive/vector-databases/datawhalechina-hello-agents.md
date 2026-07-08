@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational Repository**: Provides a comprehensive tutorial on building intelligent agents from scratch, covering theoretical foundations and practical implementations in Python.
+- **Educational Repository**: Provides a comprehensive tutorial (《从零开始构建智能体》) on building intelligent agents from scratch, covering both theoretical principles and practical implementation.
 
-- **Core Components**: Focuses on key technologies such as Large Language Models (LLM), Retrieval-Augmented Generation (RAG), and agent architectures for autonomous decision-making.
+- **Technical Focus**: Covers key AI agent components including **LLM integration**, **Retrieval-Augmented Generation (RAG)**, and agent architecture in Python.
 
-- **Community-Driven**: Maintained by DataWhale China, with 64,667 stars and 8,023 forks, reflecting active community engagement and
+- **High Activity**: Maintained repository with **64,716 stars** and **8,026 forks**, last updated in **July 2026**, indicating active community en
 
 ## Use Cases
 

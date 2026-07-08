@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://nodejs.org/api/permissions.html#permission-model
-published_at: '2026-07-07T23:08:49.476240+05:30'
-collected_at: '2026-07-07T23:08:49.476255+05:30'
+published_at: '2026-07-08T09:26:31.085831+05:30'
+collected_at: '2026-07-08T09:26:31.085845+05:30'
 tags:
 - reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:permissions-node-js-v26-4-0-documentation
-first_seen: '2026-07-07T23:08:49.476255+05:30'
-last_seen: '2026-07-07T23:08:49.476255+05:30'
-last_checked: '2026-07-07T23:08:49.476255+05:30'
+first_seen: '2026-07-08T09:26:31.085845+05:30'
+last_seen: '2026-07-08T09:26:31.085845+05:30'
+last_checked: '2026-07-08T09:26:31.085845+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Permission Model**: Introduced in v20.0.0, this model restricts access to system resources (e.g., file system, network, child processes) via CLI flags (`--permission`). Enabled with `--permission`, it denies access by default, requiring explicit allow flags (e.g., `--allow-net`, `--allow-fs-read`) for specific operations.
+- **Permission Model**: Introduced in Node.js v20.0.0, the model restricts resource access (e.g., filesystem, network, worker threads) via CLI flags (`--permission`). Enabled via `--permission`, it denies access by default unless explicitly allowed (e.g., `--allow-net`, `--allow-worker`).
 
-- **Runtime API**: Exposes `process.permission.has(scope[, reference])` and `process.permission.drop(scope[, reference])` to dynamically check or revoke permissions during execution, enabling fine-grained control over resource access.
+- **Runtime API Methods**: Exposes `process.permission.has(scope[, reference])` to check permissions and `process.permission.drop(scope[, reference])` to revoke them dynamically during execution.
 
-- **Constraints & Limitations**: Designed as a "seat belt" to prevent unintended resource access by trusted code, not a security mechanism against malicious code. Known issues include cross-process Inspector activation restrictions and limitations with `process._debugProcess()`.
+- **Security Scope**: Acts as a "seat belt" for trusted code (preventing unintended resource access) but does not mitigate malicious code; bypasses are possible. Requires explicit flags for granular control (e.g., `--allow-addons`, `--allow-ffi`).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-07T23:08:49.476240+05:30
+- Published: 2026-07-08T09:26:31.085831+05:30
 
 ## Related Tags
 

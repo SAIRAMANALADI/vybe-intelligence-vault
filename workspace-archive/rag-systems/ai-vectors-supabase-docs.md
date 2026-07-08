@@ -6,8 +6,8 @@ source_url: https://supabase.com/docs/guides/ai
 resource_id: blog:ai-vectors-supabase-docs
 local_vault_path: ai/rag/ai-vectors-supabase-docs.md
 quality_score: 70
-archive_score: 86
-archive_tier: essential
+archive_score: 84
+archive_tier: useful
 resource_kind: template
 importance: high
 tags:
@@ -30,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 86 (essential)
+- Quality score: 70 | Archive score: 84 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Postgres + pgvector Integration**: Supabase leverages Postgres with the `pgvector` extension to provide a native vector database solution, enabling storage, indexing, and querying of vector embeddings directly within the database.
+- **Vector Database Integration**: Supabase leverages **Postgres with pgvector** for native vector storage, indexing, and querying, enabling scalable AI applications without external dependencies.
 
-- **Multi-Model AI Workflows**: Supports hybrid search (semantic + keyword), integrates with OpenAI, Hugging Face, LangChain, and others, and includes Edge Function-based embedding generation using open-source models.
+- **Multi-Modal AI Workflows**: Supports **semantic, keyword, and hybrid search** with integrations for **OpenAI, Hugging Face, LangChain, and LlamaIndex**, facilitating unstructured data processing (text, images) via Edge Functions and client libraries.
 
-- **Production-Ready Examples**: Provides Git
+- **Production-Ready Examples**: Provides **Gi
 
 ## Use Cases
 

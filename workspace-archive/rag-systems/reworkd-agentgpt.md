@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Browser-based autonomous AI agent deployment**: Enables users to assemble, configure, and deploy autonomous AI agents directly in the browser using TypeScript.
-
-- **Tech stack integration**: Built with Next.js (T3 stack), leveraging LangChain, OpenAI's LLM, and vector databases for agent orchestration and memory.
-
-- **AGI-oriented architecture**: Supports agent frameworks like AutoGPT and BabyAGI, enabling complex task automation and multi-agent collaboration.
+- **Purpose**: Browser-based platform for assembling, configuring, and deploying autonomous AI agents using TypeScript and modern web frameworks (Next.js, T3 Stack).
+- **Key Features**: Integrates with OpenAI, LangChain, and other LLM frameworks; supports agent frameworks like AutoGPT and BabyAGI for AGI-like task automation.
+- **Tech Stack**: Built with TypeScript, leveraging Next.js and the T3 Stack; last updated July 2026 with 36,257 stars and 9,304 forks.
 
 ## Use Cases
 

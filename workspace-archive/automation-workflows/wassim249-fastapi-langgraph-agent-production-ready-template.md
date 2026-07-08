@@ -13,7 +13,6 @@ importance: high
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - workflows
 selection_reason:
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Template Structure**: Provides a production-ready FastAPI framework with integrated LangGraph for building scalable AI agent applications, including Docker support for containerization.
+- **FastAPI + LangGraph Integration**: Production-ready template combining FastAPI for RESTful API development with LangGraph for building scalable, stateful AI agent workflows with persistent memory and multi-agent orchestration.
 
-- **Key Features**: Incorporates LangChain for LLM orchestration, implements memory management, and ensures security and maintainability for enterprise-grade AI services.
+- **Pre-configured Infrastructure**: Includes Docker support, security best practices (JWT auth, CORS), async database (PostgreSQL/TiDB) with SQLModel, and monitoring (Prometheus/Grafana) for enterprise-grade deployments.
 
-- **Technical Stack**: Python-based, optimized for agentic AI workflows, with dependencies on FastAPI, LangGraph, and LangChain for robus
+- **Agentic AI Features**: Pre-integrated wit
 
 ## Use Cases
 

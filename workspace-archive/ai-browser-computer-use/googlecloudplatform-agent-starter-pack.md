@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Production-ready AI agent templates** for Google Cloud, pre-integrated with CI/CD pipelines, evaluation frameworks, and observability tools to accelerate deployment.
+- **Production-ready AI agent templates** for Google Cloud, pre-configured with CI/CD pipelines, evaluation frameworks, and observability tools to accelerate deployment from months to minutes.
 
-- **Gemini and Generative AI support** with built-in LLMops and MLOps best practices for scalable, enterprise-grade agent development.
+- **Gemini and GenAI agent integration** with built-in support for LLMops and MLOps best practices, enabling scalable, enterprise-grade generative AI applications.
 
-- **Python-based repository** with modular components for rapid agent prototyping and deployment on Google Cloud Platform (GCP).
+- **Python-based repository** with modular architecture, optimized for Google Cloud Platform (GCP) services, and last updated in July 2026 fo
 
 ## Use Cases
 

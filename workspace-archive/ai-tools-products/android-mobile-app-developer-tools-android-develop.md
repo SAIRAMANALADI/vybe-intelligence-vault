@@ -6,10 +6,10 @@ source_url: https://developer.android.com
 resource_id: blog:android-mobile-app-developer-tools-android-develop
 local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
 - producthunt
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -37,7 +37,7 @@ selection_reason:
 
 - **Google Play Billing Updates**: Google Play introduced expanded billing flexibility, reduced fees, and new programs to enhance developer monetization, with details available in the [Q3 updates blog](http://goo.gle/playdev-q3-updates) and a [dedicated video](https://www.youtube.com/watch?v=hcvvo6Sag0Q).
 
-- **Android 17 & XR Platform**: Android 17 (API 37) is now live on AOSP with Pixel rollouts, while Android XR expands engine support and resources for immersive app development, as outlined in
+- **Android 17 & XR Platform**: Android 17 (API 37) is officially released with AOSP source code live and Pixel rollout underway; Android XR platform updates include expanded engine support an
 
 ## Use Cases
 

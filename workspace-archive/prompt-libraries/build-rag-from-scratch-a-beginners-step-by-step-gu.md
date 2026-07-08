@@ -15,6 +15,7 @@ tags:
 - openai
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline**: Implements a retrieval-augmented generation system using Python, LangChain, FAISS, and OpenAI embeddings to ground responses in retrieved document chunks, preventing hallucinations by restricting answers to provided context.
+- **RAG Pipeline Architecture**: Implements a modular RAG system with document loading (`document_loader.py`), vector storage (`vector_store.py`), and retrieval-augmented generation (`rag_chain.py`), using FAISS for local vector indexing and OpenAI embeddings for semantic search.
 
-- **Modular Architecture**: Organizes the system into four core components—`document_loader.py` (splits text into 300-token chunks with 50-token overlap), `vector_store.py` (stores embeddings in FAISS for semantic search), `rag_chain.py` (combines retrie
+- **Retrieval-Augmented Generation Workflow**: Splits documents into 300-token chunks with 50-token overlap, converts them into embeddings, stores them in FAISS, and retrieves top-3 relevant chunks via semantic similar
 
 ## Use Cases
 

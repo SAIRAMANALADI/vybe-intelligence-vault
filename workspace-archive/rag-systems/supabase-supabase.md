@@ -1,43 +1,43 @@
 ---
-title: supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
+title: supabase/examples/ai at master · supabase/supabase · GitHub
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
+source_url: https://github.com/supabase/supabase/tree/master/examples/ai
 resource_id: github:supabase/supabase
 local_vault_path: ai/rag/supabase-supabase.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
-- frontend_ui
-- openai
+- meta-ai
+- models
 - rag
 - reddit
 - web-crawled
-- youtube
+- workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
-# supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
+# supabase/examples/ai at master · supabase/supabase · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- Supabase docs support four structured content types: **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented, multi-step), **Guides** (concise, procedural), and **Reference** (factual, parameter/return-type-focused), each with distinct use cases and formatting constraints.
-
-- Docs are written in MDX with YAML frontmatter (e.g., `title`, `hideToc`) and stored in `apps/docs/content`, while reference docs are auto-generated from spec files (common/client-specific) via `spec/Makefil
+- Supabase GitHub repository hosts an `examples/ai` directory with 10 subdirectories/files, including AWS Bedrock integrations, edge functions, and Jupyter notebooks for AI/ML workflows.
+- Key AI examples include `face_similarity.ipynb`, `semantic_text_deduplication.ipynb`, and `vector_hello_world.ipynb` for vector embeddings and similarity search.
+- Repository has 106k stars, 13k forks, 234 open issues, and 849 pull requests, indicating active community engagement.
 
 ## Use Cases
 
@@ -47,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
+Original source URL: https://github.com/supabase/supabase/tree/master/examples/ai
 
 ## Local Vault File
 

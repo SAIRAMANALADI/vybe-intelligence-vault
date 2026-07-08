@@ -4,17 +4,17 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Prat011/awesome-llm-skills
-collected_at: '2026-07-08T01:49:18.905214+05:30'
+collected_at: '2026-07-08T09:19:29.531549+05:30'
 published_at: '2026-07-07T17:55:24Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - meta-ai
 - models
 - openai
 - python
+- scripts
 - workflows
 stars: 1376
 language: Python
@@ -23,9 +23,9 @@ archived: false
 created_at: '2025-10-22T06:15:37Z'
 pushed_at: '2026-06-23T07:39:26Z'
 resource_id: github:prat011/awesome-llm-skills
-first_seen: '2026-07-08T01:49:18.905214+05:30'
-last_seen: '2026-07-08T01:49:18.905214+05:30'
-last_checked: '2026-07-08T01:49:18.905214+05:30'
+first_seen: '2026-07-08T09:19:29.531549+05:30'
+last_seen: '2026-07-08T09:19:29.531549+05:30'
+last_checked: '2026-07-08T09:19:29.531549+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`Prat011/awesome-llm-skills`) compiling tools, libraries, and frameworks for customizing LLM and AI Agent workflows, compatible with platforms like **Claude Code**, **Codex CLI**, **Gemini CLI**, and custom agents.
+- **Curated LLM/Agent Skills**: Repository aggregates tools, resources, and workflows for customizing AI agents (Claude Code, Codex, Gemini CLI) and LLMs (Llama, Qwen, OpenAI, etc.) with 1,376+ stars and 222 forks.
 
-- **Technical Scope**: Focuses on **Python-based** resources for **LLM skills development**, covering **Anthropic**, **OpenAI**, **Codex**, **Gemini**, **Llama**, **Qwen**, and related CLI tools (e.g., `claude-skills`, `gemini-cli`).
+- **Multi-Platform Support**: Designed for integration with Anthropic’s Claude Code/skills, OpenAI Codex/Codex CLI, Google’s Gemini/Gemini CLI, and custom AI agents via Python-based workflows.
 
-- **Metadata**: 1,376 stars, 222 forks, last updated **July 7, 2026**; categorized under `awesome-list`, `llms`, `ai-agents`, and language-specific tools.
+- **Skill Development Focus**: Enables creation of modular AI agent capabilities (e.g., `claude-skills-creator`, `qwen-coder`) with last update on 2026-07-07, emphasizing extensibility for LLM-driven automation.
 
 ## Why It Matters
 

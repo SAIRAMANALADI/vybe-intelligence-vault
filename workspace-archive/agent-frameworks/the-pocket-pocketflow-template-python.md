@@ -14,6 +14,7 @@ tags:
 - agents
 - github-repo
 - python
+- scripts
 - workflows
 selection_reason:
 - Useful for project building
@@ -31,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic Coding Framework**: Provides a structured template for Python-based agentic coding workflows, enabling autonomous or semi-autonomous code generation, testing, and optimization.
-
-- **Modular Python Architecture**: Implements a scalable project structure with predefined modules for agents, tools, configurations, and workflow orchestration.
-
-- **GitHub Integration**: Supports CI/CD pipelines with automated updates, versioning, and dependency management for Python projects.
+- **Agentic Coding Framework**: Template for autonomous Python development using AI-driven agents to automate coding tasks, debugging, and optimization.
+- **Project Scaffolding**: Pre-configured Python project structure with modular components for rapid agentic workflow integration.
+- **GitHub Integration**: Template optimized for GitHub Actions, supporting CI/CD pipelines for agentic code generation and testing.
 
 ## Use Cases
 

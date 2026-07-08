@@ -11,8 +11,8 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
+- hackernews
 - rag
 - unknown
 selection_reason:
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Applications**: Comprehensive repository listing production-grade Retrieval-Augmented Generation (RAG) implementations across domains (e.g., chatbots, QA systems, code assistants) with focus on scalability and deployment efficiency.
-- **Multi-Tenant Architecture Support**: Includes RAG frameworks optimized for enterprise use cases (e.g., vector databases like Pinecone/Weaviate, hybrid search, and dynamic prompt engineering).
-- **Benchmarking & Evaluation Tools**: Provides standar
+- **Curated RAG Resources**: Comprehensive repository aggregating applications, tools, and frameworks for Retrieval-Augmented Generation (RAG) in Generative AI, covering LLMs, retrieval mechanisms, and hybrid architectures.
+- **Community-Driven**: Open-source project with 1.3K+ stars and 166 forks, actively maintained with the latest updates as of July 2026.
+- **Technical Focus**: Encompasses topics like large language models, vector databases, prompt engineering, and domain-specific RAG impleme
 
 ## Use Cases
 

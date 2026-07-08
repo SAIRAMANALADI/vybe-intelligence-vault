@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resources**: Repository provides a vetted collection of production-grade tools, frameworks, and best practices specifically for building scalable Retrieval-Augmented Generation (RAG) systems.
-- **Tech Stack**: Focuses on Python-based solutions, including LangChain, vector databases, and MLOps/LLMops tools, with emphasis on embeddings and large language models (LLMs).
-- **Maintenance & Scope**: Actively maintained (last updated July 2026) with 145 stars and 35 forks, covering topics l
+*   Curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems.
+*   Focuses on key RAG components: embeddings, vector databases, Large Language Models (LLMs), and operationalization via MLOps/LLMOps.
+*   Highlights resources for robust RAG deployment, including LangChain integration and Python-based solutions.
 
 ## Use Cases
 

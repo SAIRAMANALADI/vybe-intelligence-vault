@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://graphaware.com/graphaware/2015/05/19/neo4j-cypher-variable-length-relationships-by-example.html
-published_at: '2026-07-07T00:51:17.169177+05:30'
-collected_at: '2026-07-07T00:51:17.169193+05:30'
+published_at: '2026-07-08T09:21:03.408190+05:30'
+collected_at: '2026-07-08T09:21:03.408203+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:cypher-variable-length-relationships-by-example
-first_seen: '2026-07-07T00:51:17.169193+05:30'
-last_seen: '2026-07-07T00:51:17.169193+05:30'
-last_checked: '2026-07-07T00:51:17.169193+05:30'
+first_seen: '2026-07-08T09:21:03.408203+05:30'
+last_seen: '2026-07-08T09:21:03.408203+05:30'
+last_checked: '2026-07-08T09:21:03.408203+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Variable-length relationships in Cypher** are defined using the `*n..m` syntax, where `n` is the minimum hop count and `m` is the maximum (e.g., `-[:KNOWS*2..3]->` matches paths with 2-3 hops).
-- **Zero-length paths** (`*0`) bind the same node to variables, enabling optional relationship traversal without `OPTIONAL MATCH` (e.g., `-[:PREVIOUS_POST*0..1]->` includes nodes with no outgoing relationships).
-- **Performance considerations** dictate avoiding infinite-length paths (`*`) and using explicit bounds (e.g., `-[:KNOWS*..5]->`) to prevent unbounded traversals in large graphs.
+- **Variable-length relationship syntax** in Cypher allows path traversal with dynamic depth using `*min..max` notation, where `min` and `max` define the range of hops (e.g., `-[:KNOWS*2..3]->` matches 2-3 hops).
+
+- **Zero-length paths** (`*0`) enable self-referential matching, binding a node to itself to simplify queries (e.g., `-[:PREVIOUS_POST*0..1]->` includes the starting node if no relationship exists).
+
+- **Performance considerations** require explicit length limits (e.g., `-[:KNOWS*..5]->`) to avoid unbounded traversals, which can degrade query performance in large or dense graphs.
 
 ## Why It Matters
 
@@ -40,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T00:51:17.169177+05:30
+- Published: 2026-07-08T09:21:03.408190+05:30
 
 ## Related Tags
 

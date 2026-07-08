@@ -6,12 +6,13 @@ source_url: https://www.scite.ai/
 resource_id: blog:scite-ai-for-research
 local_vault_path: ai/rag/scite-ai-for-research.md
 quality_score: 70
-archive_score: 74
+archive_score: 76
 archive_tier: useful
 resource_kind: dataset
 importance: medium
 tags:
 - anthropic
+- benchmark
 - dataset
 - hackernews
 - openai
@@ -30,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -38,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Database & Coverage**: Aggregates 280M+ full-text scholarly articles (papers, preprints, books, patents, datasets) with direct publisher agreements (Wiley, SAGE, 40+ others), enabling full-text search beyond abstracts and paywall circumvention.
+- **Smart Citation Analysis**: Classifies 1.6B+ citations as supporting, contrasting, or mentioning, with contextual sentence-level evidence, enabling evidence-based literature evaluation beyond traditional citation counts.
 
-- **Smart Citation Intelligence**: Classifies citations as *supporting*, *contrasting*, or *mentioning* with contextual sentence-level evidence, enabling evidence-weighted analysis of papers, authors, or institutions; AI answers are grounded in verif
+- **Comprehensive Data Coverage**: Aggregates 280M+ full-text scholarly articles (journals, preprints, patents, clinical trials, datasets) from 40+ publishers and open-access sources, ensuring cross-disciplinary research accessibility.
+
+- **AI-Powered Verifiable Answers**: I
 
 ## Use Cases
 

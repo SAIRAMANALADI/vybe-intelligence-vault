@@ -12,10 +12,13 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
+- frontend_ui
 - github-repo
+- hackernews
 - rag
 - reddit
 - unknown
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (v5+), focusing on stale-while-revalidate (SWR) and background refetching strategies.
+- **Optimized TanStack Query Integration**: Implements advanced caching strategies (stale-while-revalidate, background refetching) and fine-grained reactivity for AI agent workflows to minimize redundant API calls while ensuring data freshness.
 
-- **Router-Level State Management**: Implements dynamic route-based data loading and prefetching with TanStack Router, leveraging lazy-loaded query dependencies to minimize bundle size and improve cold-start performance in AI agents.
+- **Router-Enhanced State Management**: Leverages TanStack Router’s type-safe routing and nested route loaders to synchronize UI state with backend queries, enabling seamless prefetching and error-boundary handling in agent-driven applications.
+
+- **Star
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/nicknochnack/Llama2RAG
-collected_at: '2026-07-08T01:47:13.762928+05:30'
+collected_at: '2026-07-08T09:17:24.469671+05:30'
 published_at: '2026-05-24T09:34:54Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-08-18T00:18:33Z'
 pushed_at: '2023-08-18T00:23:09Z'
 resource_id: github:nicknochnack/llama2rag
-first_seen: '2026-07-08T01:47:13.762928+05:30'
-last_seen: '2026-07-08T01:47:13.762928+05:30'
-last_checked: '2026-07-08T01:47:13.762928+05:30'
+first_seen: '2026-07-08T09:17:24.469671+05:30'
+last_seen: '2026-07-08T09:17:24.469671+05:30'
+last_checked: '2026-07-08T09:17:24.469671+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model with LlamaIndex for efficient document retrieval and generation.
-- **Technical Stack**: Jupyter Notebook-based implementation leveraging Llama 2 70B (likely via Hugging Face Transformers) and LlamaIndex for indexing/querying.
-- **Scalability**: Example includes setup for handling large-scale retrieval and generation, optimized for performance with the 70B parameter model.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using **Llama 2 70B** and **LlamaIndex** in a Jupyter Notebook environment.
+- **Scalability**: Leverages a large language model (70B parameters) for enhanced context-aware generation with retrieval augmentation.
+- **Updates**: Last modified on **2026-05-24**, indicating ongoing maintenance and potential future enhancements.
 
 ## Why It Matters
 

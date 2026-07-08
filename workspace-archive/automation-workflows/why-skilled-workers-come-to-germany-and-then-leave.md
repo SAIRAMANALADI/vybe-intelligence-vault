@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by theanonymousone. Score: 90, Comments: 203.
+Hacker News story by theanonymousone. Score: 202, Comments: 507.
 Original Link: https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162
 
 ## Use Cases

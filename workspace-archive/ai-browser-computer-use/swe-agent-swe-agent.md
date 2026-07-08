@@ -8,14 +8,15 @@ local_vault_path: ai/agents/swe-agent-swe-agent.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
 - python
+- workflows
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # SWE-agent/SWE-agent
@@ -24,13 +25,17 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
+- **Automated Issue Resolution**: SWE-agent autonomously processes GitHub issues and generates fixes using a specified language model (LM), streamlining software development workflows.
+
+- **Multi-Domain Applicability**: Supports offensive cybersecurity tasks and competitive coding challenges, extending beyond standard issue resolution.
+
+- **Architecture & Integration**: Python-based agent framework with modular design for LM integration, categorized under AI-driven developer tools and agent-base
 
 ## Use Cases
 

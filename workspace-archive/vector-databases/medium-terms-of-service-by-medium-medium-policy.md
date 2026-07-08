@@ -26,9 +26,9 @@ selection_reason:
 
 ## Summary
 
-- **License Grant**: Users retain ownership of submitted content but grant Medium a **non-exclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Services (e.g., web, mobile) with attribution, including derivative works like previews or curated lists.
+- **License Grant & Content Ownership**: Users retain rights to submitted content but grant Medium a **nonexclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Services (e.g., web, mobile) with attribution. This license is required for cross-platform distribution and derivative works (e.g., previews, curated lists).
 
-- **Arbitration Clause**: Disputes (excluding small claims or IP injunctions) must be resolved via **confidential, binding arbitration under JAMS Rules**, waiving class actions a
+- **Dispute Resolution & Liability Waivers**: All disputes must undergo **confidential, binding arbitration**
 
 ## Use Cases
 

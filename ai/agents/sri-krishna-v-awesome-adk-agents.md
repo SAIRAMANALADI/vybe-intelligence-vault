@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-07-08T01:49:03.822125+05:30'
+collected_at: '2026-07-08T09:19:14.532065+05:30'
 published_at: '2026-07-06T12:52:15Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-06-28T14:36:38Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-07-08T01:49:03.822125+05:30'
-last_seen: '2026-07-08T01:49:03.822125+05:30'
-last_checked: '2026-07-08T01:49:03.822125+05:30'
+first_seen: '2026-07-08T09:19:14.532065+05:30'
+last_seen: '2026-07-08T09:19:14.532065+05:30'
+last_checked: '2026-07-08T09:19:14.532065+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google's Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
+- **Curated ADK Resources**: Repository provides a structured collection of AI agents built with Google's Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
 
-- **Multi-Language & Multi-Agent Support**: Focuses on Python-based implementations (`adk-python`) with additional references to `adk-web`, emphasizing agentic AI, multi-agent systems, and integration with Google's Gemini AI.
+- **Multi-Faceted ADK Support**: Includes ADK for Python (`adk-python`), web (`adk-web`), and multi-agent systems, with integration examples for Google's Gemini AI and other agentic AI frameworks.
 
-- **High-Activity Open Source Project**: Active development with 331 stars, 47 forks, and recent updates (as of July 2026), serving as a comprehensive `awesome-list` for ADK-based agent development.
+- **Active Maintenance & Community**: Last updated in July 2026, with 331 stars and 47 forks, indicating ongoing development and community engagement in the ADK ecosystem.
 
 ## Why It Matters
 

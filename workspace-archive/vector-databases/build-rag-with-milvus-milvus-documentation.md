@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Milvus RAG Pipeline**: Combines Milvus vector search with OpenAI's LLM to generate responses from retrieved documents, using semantic search to find relevant context before LLM processing.
-
-- **Milvus Collection Setup**: Creates a vector collection with `text-embedding-3-small` embeddings (1536-dim), using inner product (`IP`) metric and `Bounded` consistency for efficient retrieval of top-3 matches.
-
-- **Dynamic Schema Handling**: Automatically stores non-schema fields (e.g., `text`) in Mil
+- **Milvus RAG Pipeline**: Combines retrieval (via Milvus vector search) with generative models (e.g., OpenAI) to answer queries using retrieved documents, demonstrated with Milvus FAQ data.
+- **Dynamic Schema Handling**: Uses Milvus' reserved JSON field to store non-schema-defined fields (e.g., `text`) alongside vector embeddings, enabling flexible data insertion.
+- **Vector Search Configuration**: Implements inner product (IP) metric for similarity search, with `Bounded` consistency level and
 
 ## Use Cases
 

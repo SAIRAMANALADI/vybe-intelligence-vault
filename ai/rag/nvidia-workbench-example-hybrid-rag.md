@@ -4,16 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-08T01:47:08.689415+05:30'
+collected_at: '2026-07-08T09:17:19.492673+05:30'
 published_at: '2026-06-30T16:45:55Z'
 tags:
-- dataset
 - github-repo
-- meta-ai
-- models
 - python
 - rag
-- workflows
 stars: 368
 language: Python
 status: active
@@ -22,9 +18,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-08T01:47:08.689415+05:30'
-last_seen: '2026-07-08T01:47:08.689415+05:30'
-last_checked: '2026-07-08T01:47:08.689415+05:30'
+first_seen: '2026-07-08T09:17:19.492673+05:30'
+last_seen: '2026-07-08T09:17:19.492673+05:30'
+last_checked: '2026-07-08T09:17:19.492673+05:30'
 health_score: 100
 ---
 
@@ -32,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a hybrid retrieval-augmented generation (RAG) system combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document grounding in NVIDIA AI Workbench.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector) and sparse (keyword/BM25) retrieval methods for enhanced document search and context augmentation in LLMs.
 
-- **Modular Python Implementation**: Provides a structured Python codebase with configurable components for document ingestion, retrieval, and generation, leveraging NVIDIA’s AI/ML libraries (e.g., NeMo, Triton).
+- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined deployment, containerization, and GPU-accelerated inference of the RAG system.
 
-- **Example Workflow**: Demonstrates end-to-end deployment with sample datasets, including preprocessing, retrieval indexing (FAISS/BM25), and LLM inference (e.g., Llama2) optimized for NVIDIA GPUs.
+- **Python-Based Pipeline**: Includes modular Python components for document preprocessing, retrieval (FAISS/BM25), and LLM inference (e.g., NVIDIA NeMo or other supported models) with GPU optimization.
 
 ## Why It Matters
 

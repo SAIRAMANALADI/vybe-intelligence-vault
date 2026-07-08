@@ -8,7 +8,7 @@ local_vault_path: ai/rag/ruc-nlpir-flashrag.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - benchmark
@@ -19,7 +19,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # RUC-NLPIR/FlashRAG
@@ -28,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Toolkit Overview**: FlashRAG is a Python-based framework designed for efficient Retrieval-Augmented Generation (RAG) research, optimized for speed and scalability in large language model (LLM) applications.
+- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experiments.
 
-- **Key Features**: Includes benchmarking tools, curated datasets, and modular components to streamline RAG pipeline development, evaluation, and deployment.
+- **Benchmark & Datasets**: Includes standardized benchmarks and diverse datasets to evaluate RAG models, enabling reproducible and comparative analysis across different retrieval and generation strategies.
 
-- **Performance Focus**: Prioritizes low-latency retrieval and generation, leveraging optimized indexing and query processing for
+- **Integration & Extensibility**: Designed for modularity, supportin
 
 ## Use Cases
 

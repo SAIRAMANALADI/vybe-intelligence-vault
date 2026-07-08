@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Demonstrates building fullstack agents using **Gemini 2.5** and **LangGraph**, leveraging the Gemini API for agentic workflows.
-- **Technical Stack**: Implemented in **Jupyter Notebook**, integrating LangGraph for stateful, multi-agent orchestration with Gemini’s reasoning capabilities.
-- **Key Features**: Provides a starter template for deploying scalable agent systems, with modular components for state management, tool integration, and API-driven interactions.
+- **Purpose**: Demonstrates building fullstack agents using Google's **Gemini 2.5** model and **LangGraph** framework for agent orchestration.
+- **Technical Stack**: Implemented in **Jupyter Notebooks**, leveraging the **Gemini API** for LLM interactions and **LangGraph** for graph-based agent workflows.
+- **Key Features**: Provides a starter template for integrating **multi-agent systems**, state management, and tool-calling capabilities in a fullstack agent architecture.
 
 ## Use Cases
 

@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://fightchatcontrol.eu/chat-control-overview
 hn_url: https://news.ycombinator.com/item?id=48818311
-score: 225
+score: 482
 author: gasull
-comments_count: 62
+comments_count: 156
 published_at: '2026-07-07T19:53:15+05:30'
-collected_at: '2026-07-08T01:45:29.663389+05:30'
+collected_at: '2026-07-08T09:15:38.880309+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:chat-control-1-0-and-2-0-explained
 first_seen: '2026-07-07T22:58:26.222389+05:30'
-last_seen: '2026-07-08T01:45:29.663389+05:30'
-last_checked: '2026-07-08T01:45:29.663389+05:30'
+last_seen: '2026-07-08T09:15:38.880309+05:30'
+last_checked: '2026-07-08T09:15:38.880309+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by gasull. Score: 225, Comments: 62.
+Hacker News story by gasull. Score: 482, Comments: 156.
 Original Link: https://fightchatcontrol.eu/chat-control-overview
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: gasull
-- Score: 225 Upvotes
-- Comments: 62 Discussions
+- Score: 482 Upvotes
+- Comments: 156 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48818311
 - Original Article: https://fightchatcontrol.eu/chat-control-overview
 

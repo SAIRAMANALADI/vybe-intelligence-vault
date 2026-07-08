@@ -11,7 +11,9 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- anthropic
 - github-repo
+- openai
 - rag
 - typescript
 selection_reason:
@@ -32,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Observability & Multi-Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for seamless switching across 100+ LLM providers.
-- **Production-Grade Features**: Dockerized deployment, full TypeScript type-checking, and 100% test coverage for robustness.
-- **Open-Source RAG Pipeline**: Demonstrates Retrieval-Augmented Generation (RAG) with modular architecture, optimized for extensibility and scalability.
+- **Observability & Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for 100+ provider compatibility (e.g., OpenAI, Anthropic, Hugging Face).
+- **Strict Development Standards**: Full TypeScript type-checking, 100% test coverage, and Dockerized deployment for reproducibility.
+- **Modern RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with modular architecture for extensibility and scalability.
 
 ## Use Cases
 

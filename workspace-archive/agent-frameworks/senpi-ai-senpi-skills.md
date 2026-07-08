@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 selection_reason:
 - Useful for project building
@@ -31,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Open-source framework for autonomous trading agents, providing 80+ strategy templates optimized for Hyperliquid across crypto, equities, commodities, and indices.
-- **Key Features**: Implements two-phase trailing-stop (DSL) exits for dynamic trade management and strategy protection.
-- **Technical Stack**: Python-based repository with active development (last updated July 2026).
+- **Open-source AI agent framework** for autonomous trading on Hyperliquid, supporting crypto, equities, commodities, and indices with **80+ strategy templates**.
+- **Two-phase trailing-stop (DSL) exits** for dynamic profit protection and risk management in automated trading strategies.
+- **Python-based** repository with **101 stars** and **31 forks**, last updated on **2026-07-07**.
 
 ## Use Cases
 

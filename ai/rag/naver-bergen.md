@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/naver/bergen
-collected_at: '2026-07-08T01:47:38.735045+05:30'
+collected_at: '2026-07-08T09:17:49.461161+05:30'
 published_at: '2026-06-16T10:22:47Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-05-09T14:13:44Z'
 pushed_at: '2026-03-11T09:37:23Z'
 resource_id: github:naver/bergen
-first_seen: '2026-07-08T01:47:38.735045+05:30'
-last_seen: '2026-07-08T01:47:38.735045+05:30'
-last_checked: '2026-07-08T01:47:38.735045+05:30'
+first_seen: '2026-07-08T09:17:49.461161+05:30'
+last_seen: '2026-07-08T09:17:49.461161+05:30'
+last_checked: '2026-07-08T09:17:49.461161+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Bergen is a benchmarking library specifically designed for evaluating **Retrieval-Augmented Generation (RAG)** systems, enabling systematic assessment of retrieval and generation components.
-- **Implementation**: Written in **Jupyter Notebook**, it provides structured notebooks for defining and running RAG benchmarks, supporting modular evaluation of augmentation, retrieval, and LLM-based generation.
-- **Scope**: Covers key RAG dimensions including **retrieval quality**, **context augmentation**, and **LLM response generation**, with extensible metrics and datasets for standardized comparisons.
+- **Purpose**: Bergen is a benchmarking library designed to evaluate Retrieval-Augmented Generation (RAG) systems, focusing on retrieval and generation performance.
+- **Implementation**: Written in Jupyter Notebook, it provides modular tools to assess augmentation, generation, and end-to-end RAG pipelines.
+- **Scope**: Supports standardized evaluation across datasets, metrics, and LLMs, enabling reproducible RAG system comparisons.
 
 ## Why It Matters
 

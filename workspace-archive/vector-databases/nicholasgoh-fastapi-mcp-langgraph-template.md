@@ -16,7 +16,6 @@ tags:
 - python
 - rag
 - reddit
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: Template integrates FastAPI with **MCP (Model Context Protocol)** and **LangGraph** for agentic orchestration, enabling modular, scalable workflows with Python-based tooling.
-- **Observability & Storage**: Pre-configured with **Prometheus** (metrics), **Grafana** (dashboards), **Langfuse** (LLM tracing), and **Supabase** (PostgreSQL-compatible storage) for production-grade monitoring and data persistence.
-- **Deployment**: Includes **Nginx** (reverse proxy), **SQLModel** (ORM
+- **Architecture**: Template integrates FastAPI, LangGraph, and MCP for agentic orchestration with modular components (e.g., SQLModel for DB, Supabase for auth/storage).
+- **Observability**: Pre-configured with Prometheus (metrics), Grafana (dashboards), and Langfuse (tracing/LLM evals) for production-grade monitoring.
+- **Deployment**: Nginx reverse proxy included; optimized for Docker/K8s with CI/CD-ready structure and Supabase integration for scalable backend services.
 
 ## Use Cases
 

@@ -2,7 +2,7 @@
 title: AsciiDoc
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://asciidoc.org
+source_url: https://asciidoc.org/
 resource_id: blog:asciidoc
 local_vault_path: ai/rag/asciidoc.md
 quality_score: 70
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **AsciiDoc** is a plain-text markup language designed for technical content, offering semantic elements, modularization, and multi-format publishing (e.g., HTML, PDF, slides) while supporting version control integration.
-- **Syntax comparison**: AsciiDoc balances readability and structure with shorthand notations (e.g., `*bold*`, `_italic_`) and block delimiters (e.g., `----` for code), avoiding XML/indentation overhead while enabling DocBook compatibility.
-- **Governance**: The AsciiDoc Langu
+- **AsciiDoc** is a plain-text markup language designed for technical content, offering semantic elements, modularization, and multi-format publishing (e.g., books, READMEs, slides) while supporting version control integration.
+- **Syntax comparison**: AsciiDoc provides structured, readable markup with inferred formatting (e.g., `*bold*`, `_italic_`), admonition blocks (`NOTE:`), and cross-references (`xref:`), avoiding XML/indentation overhead while enabling DocBook output.
+- **Governance**: Th
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://asciidoc.org
+Original source URL: https://asciidoc.org/
 
 ## Local Vault File
 

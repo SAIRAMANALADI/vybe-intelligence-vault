@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Legal Framework**: Enacted in 1998, the DMCA amends Title 17 of the U.S. Code to implement WIPO treaties, criminalizing circumvention of DRM and access controls, regardless of infringement status.
+- **Legal Framework**: The DMCA (1998) implements WIPO treaties, criminalizing circumvention of DRM and access controls, even without copyright infringement, and increases penalties for online copyright violations under **17 U.S.C. §§ 1201–1205**.
 
-- **Liability Shield**: Introduces safe harbor provisions (17 U.S.C. § 512) limiting liability for online service providers (OSPs) for user-generated infringing content, conditioned on compliance with takedown notices.
+- **Liability Shield**: Introduces **17 U.S.C. § 512**, providing safe harbor provisions to ISPs and online service providers (OSPs) by limiting liability for user-generated infringing content if they comply with takedown notices (**§ 512(c)**).
 
-- **Enforcement & Penalties**: Heightens penalties for copyright infringement
+- **
 
 ## Use Cases
 

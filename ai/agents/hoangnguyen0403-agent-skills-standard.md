@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-07-08T01:49:03.801265+05:30'
+collected_at: '2026-07-08T09:19:14.517625+05:30'
 published_at: '2026-07-07T14:45:26Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-04T11:51:08Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-07-08T01:49:03.801265+05:30'
-last_seen: '2026-07-08T01:49:03.801265+05:30'
-last_checked: '2026-07-08T01:49:03.801265+05:30'
+first_seen: '2026-07-08T09:19:14.517625+05:30'
+last_seen: '2026-07-08T09:19:14.517625+05:30'
+last_checked: '2026-07-08T09:19:14.517625+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Best Practices Repository**: Hosts standardized coding guidelines and best practices for multiple programming languages (TypeScript, Kotlin, Go, Java, etc.) and frameworks (React, Angular, Spring Boot, Laravel, etc.) to ensure AI agents adhere to industry standards.
+- **Repository Overview**: A TypeScript-based collection of standardized **Agent Skills** and **best practices** for programming languages (e.g., Kotlin, Go, Swift) and frameworks (e.g., Angular, NestJS, Spring Boot), designed to guide AI agents in adhering to coding standards.
 
-- **Multi-Platform Support**: Includes curated standards for mobile (Android, iOS, Flutter, React Native), web (Next.js, NestJS), and backend (Spring Boot, Laravel) development, facilitating cross-platform consistency.
+- **Scope & Topics**: Covers **20+ languages/frameworks** (Android, Flutter, React, Laravel, Next.js, etc.) with structured guidelines for **cursor rules**, **coding standards**, and **agentic AI** workflows.
 
-- **Agent-Oriented Tooling**: Provides `cursor-rules` integration for AI agents, enabling automated enforcement of coding standards during development workflows.
+- **Metadata**: **521 stars**, **150 forks**, last updated **2026-07-07**; serves as a reference for AI agents to implement consistent, high-quality code across ecosystems.
 
 ## Why It Matters
 

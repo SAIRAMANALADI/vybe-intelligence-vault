@@ -8,7 +8,7 @@ local_vault_path: ai/rag/pandoc-conversion-between-markup-formats.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: template
 importance: medium
 tags:
 - hackernews
@@ -27,16 +27,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Multi-format conversion engine**: Pandoc is a Haskell library enabling bidirectional conversion between 30+ markup formats, including Markdown variants, LaTeX, HTML, EPUB, Docx, and Typst, with support for mathematical content translation between TeX, MathML, and Word equations.
+- **Multi-format conversion**: Pandoc is a Haskell library supporting bidirectional conversion between 30+ markup formats (Markdown variants, LaTeX, HTML, EPUB, Docx, Jupyter notebooks, etc.) with extensible readers/writers via Lua scripting.
 
-- **Modular architecture**: Implements a plugin-based system with Lua scripting for extensibility, featuring dedicated modules for reading/writing specific formats (e.g., `Text.Pandoc.Readers.LaTeX`, `Text.Pandoc.Wr
+- **Mathematical & bibliographic processing**: Converts TeX/MathML/Word equations to/from plain text, with built-in citation/bibliography systems (BibTeX, CSL JSON/YAML) and template-based customization.
+
+- **Modular architecture**: Organized into 100+ mod
 
 ## Use Cases
 

@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Fully Local AI Agent Framework**: Open-source Python-based system (`agenticSeek`) enabling autonomous agent operations (thinking, web browsing, coding) entirely offline with no API dependencies or cloud costs, leveraging local compute resources.
+- **Fully Local AI Agent Framework**: `agenticSeek` enables autonomous agent operations (thinking, web browsing, coding) entirely locally using Python, eliminating dependency on cloud APIs or external services, with costs limited to local compute/electricity.
 
-- **DeepSeek-R1 Integration**: Utilizes DeepSeek's open-weight R1 model for reasoning, supporting LLM-agent orchestration with local inference for tasks like voice assistance and autonomous workflows.
+- **DeepSeek-R1 Integration**: Leverages the `deepseek-r1` LLM for reasoning and task execution, supporting agentic workflows without proprietary API constraints or subscription fees.
 
-- **Cost-Effective Deployment**: Eliminates sub
+- **Voice & Web Capabilities**: Supports voice assista
 
 ## Use Cases
 

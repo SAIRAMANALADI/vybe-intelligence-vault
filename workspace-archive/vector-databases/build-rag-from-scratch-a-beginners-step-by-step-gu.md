@@ -7,14 +7,15 @@ source_url: https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-ste
 resource_id: blog:build-rag-from-scratch-a-beginners-step-by-step-gu
 local_vault_path: ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - openai
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -25,17 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline**: Implements a retrieval-augmented generation system using LangChain and FAISS, where documents are split into chunks, embedded via OpenAI embeddings, and stored in a local FAISS vector database for semantic search.
-- **Modular Architecture**: Follows a structured project layout (`document_loader.py`, `vector_store.py`, `rag_chain.py`, `main.py`) with single-responsibility components for loading, embedding, storing, and querying documents.
-- **Hallucination Mitigation**: Enforc
+- **RAG Pipeline Architecture**: Implements a modular RAG system with document loading (`document_loader.py`), vector storage (`vector_store.py`), and retrieval-augmented generation (`rag_chain.py`), using FAISS for local vector indexing and OpenAI embeddings for semantic search.
+
+- **Retrieval-Augmented Generation Workflow**: Splits documents into 300-token chunks with 50-token overlap, converts them into embeddings, stores them in FAISS, and retrieves top-3 relevant chunks via semantic similar
 
 ## Use Cases
 

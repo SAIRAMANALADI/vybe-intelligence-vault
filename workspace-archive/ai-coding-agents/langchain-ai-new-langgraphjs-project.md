@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Project Template**: Empty starter template for LangGraph.js, a JavaScript/TypeScript framework for building stateful, multi-actor workflows with LangChain.
-- **Metadata**: 73 stars, 88 forks, TypeScript-based, last updated July 3, 2026.
-- **Purpose**: Designed as a minimal foundation for LangGraph workflow development with built-in template scaffolding.
+- **Project Type**: Empty starter template for LangGraph projects in TypeScript, designed for rapid initialization of LangGraph-based applications.
+
+- **Metadata**: 73 stars, 88 forks, last updated July 3, 2026; categorized under `langgraph`, `langgraph-js`, and `langgraph-template`.
+
+- **Purpose**: Provides a minimal, pre-configured foundation for building LangGraph workflows in JavaScript/TypeScript environments.
 
 ## Use Cases
 

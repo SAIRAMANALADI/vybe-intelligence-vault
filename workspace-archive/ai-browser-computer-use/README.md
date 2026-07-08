@@ -8,11 +8,11 @@ Computer-use and browser agents transition AI from text engines to active workfl
 
 ## Top Matched Resources
 
-- [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (template - ESSENTIAL Tier)
 - [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) (framework - ESSENTIAL Tier)
 - [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) (mcp-server - ESSENTIAL Tier)
+- [secret-mars/loop-starter-kit](https://github.com/secret-mars/loop-starter-kit) (template - ESSENTIAL Tier)
 - [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
@@ -21,11 +21,11 @@ Computer-use and browser agents transition AI from text engines to active workfl
 
 https://github.com/microsoft/playwright (Playwright)
 https://github.com/showlab/ComputerUse (Computer Use Examples)
-- [vin67/crewai_docker](https://github.com/vin67/crewai_docker)
 - [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework)
 - [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)
+- [secret-mars/loop-starter-kit](https://github.com/secret-mars/loop-starter-kit)
 - [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server)
 
 ## Best Learning Resources
@@ -44,4 +44,4 @@ https://github.com/showlab/ComputerUse (Computer Use Examples)
 
 ---
 
-*Last updated: 2026-07-08 02:02 IST*
+*Last updated: 2026-07-08 09:33 IST*

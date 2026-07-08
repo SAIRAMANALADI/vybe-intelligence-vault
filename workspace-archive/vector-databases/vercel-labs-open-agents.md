@@ -12,13 +12,10 @@ resource_kind: template
 importance: medium
 tags:
 - agents
-- frontend_ui
 - github-repo
-- hackernews
 - rag
 - scripts
 - typescript
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -35,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Template Overview**: Provides an open-source framework for building cloud-based AI agents using TypeScript, emphasizing modularity and scalability for agentic workflows.
+- **Template Structure**: Open-source TypeScript framework for deploying cloud-based AI agents with modular, extensible architecture optimized for Vercel deployments.
 
-- **Key Features**: Supports background agents, integrates with Vercel’s serverless infrastructure, and includes pre-configured tooling for rapid deployment of AI-driven automation.
+- **Core Features**: Supports background/long-running agents with event-driven execution, state management, and integration with Vercel’s serverless infrastructure.
 
-- **Technical Stack**: Leverages TypeScript, Vercel Serverless Functions, and AI SDKs (e.g., `@ai-sdk/react`) for stateful agent orchestration
+- **Tooling & Extensibility**: Includes CLI for agent scaffolding, pre-configured for AI model APIs, and designed for seamless integration with Vercel’s ecosystem (e.
 
 ## Use Cases
 

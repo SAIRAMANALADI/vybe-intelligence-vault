@@ -4,16 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://about.medium.com/
-published_at: '2026-07-07T23:05:11.166165+05:30'
-collected_at: '2026-07-07T23:05:11.166178+05:30'
+published_at: '2026-07-08T09:22:09.112228+05:30'
+collected_at: '2026-07-08T09:22:09.112238+05:30'
 tags:
+- hackernews
 - rag
 - web-crawled
 status: active
 resource_id: blog:about-medium
-first_seen: '2026-07-07T23:05:11.166178+05:30'
-last_seen: '2026-07-07T23:05:11.166178+05:30'
-last_checked: '2026-07-07T23:05:11.166178+05:30'
+first_seen: '2026-07-08T09:22:09.112238+05:30'
+last_seen: '2026-07-08T09:22:09.112238+05:30'
+last_checked: '2026-07-08T09:22:09.112238+05:30'
 health_score: 100
 ---
 
@@ -21,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Platform Model**: Medium operates as a subscription-supported, ad-free content platform where writers share insights across diverse domains (e.g., tech, literature, business) without requiring pre-existing audiences.
-- **Mission Alignment**: Prioritizes depth, nuance, and thoughtful discourse over sensationalism, monetizing via a community of paying members (~1M) rather than ads or data sales.
-- **Scale & Accessibility**: Hosts 100M+ monthly users, enabling cross-disciplinary storytelling and knowledge-sharing via a collaborative, minimalist interface.
+- **Mission & Model**: Medium is a platform for long-form, insightful writing, prioritizing depth over sensationalism, with a business model funded by a community of over 1M paying members rather than ads or data sales.
+- **User Base & Content**: Hosts 100M+ monthly users (developers, designers, CEOs, etc.) who publish personal narratives, technical insights, and expertise-driven content, fostering thoughtful discourse.
+- **Core Values**: Emphasizes substance, nuance, and collaborative knowledge-sharing, positioning itself as a quiet, high-quality alternative to noisy social media platforms.
 
 ## Why It Matters
 
@@ -33,10 +34,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T23:05:11.166165+05:30
+- Published: 2026-07-08T09:22:09.112228+05:30
 
 ## Related Tags
 
+- hackernews
 - rag
 - web-crawled
 

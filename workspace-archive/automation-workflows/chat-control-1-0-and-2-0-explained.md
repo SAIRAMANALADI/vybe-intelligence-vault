@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by gasull. Score: 225, Comments: 62.
+Hacker News story by gasull. Score: 482, Comments: 156.
 Original Link: https://fightchatcontrol.eu/chat-control-overview
 
 ## Use Cases

@@ -4,24 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TEN-framework/ten-framework
-collected_at: '2026-07-07T23:01:41.939350+05:30'
-published_at: '2026-07-07T16:36:40Z'
+collected_at: '2026-07-08T09:18:59.544169+05:30'
+published_at: '2026-07-08T02:16:18Z'
 tags:
 - agents
 - github-repo
 - python
 - youtube
-stars: 10850
+stars: 10856
 language: Python
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2024-06-19T14:26:15Z'
-pushed_at: '2026-07-04T09:39:19Z'
+pushed_at: '2026-07-08T03:18:44Z'
 resource_id: github:ten-framework/ten-framework
-first_seen: '2026-07-07T23:01:41.939350+05:30'
-last_seen: '2026-07-07T23:01:41.939350+05:30'
-last_checked: '2026-07-07T23:01:41.939350+05:30'
+first_seen: '2026-07-08T09:18:59.544169+05:30'
+last_seen: '2026-07-08T09:18:59.544169+05:30'
+last_checked: '2026-07-08T09:18:59.544169+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal conversational AI framework** in Python enabling real-time voice and video interactions via a modular architecture for agent-based systems.
-- **Real-time processing** optimized for low-latency conversational AI, supporting multi-modal inputs (voice/video) with pluggable components for extensibility.
-- **Open-source under active development** (last updated July 2026), with 10.8K+ stars and 1.3K+ forks, emphasizing scalability and real-time multimodal agent interactions.
+- **Multi-modal real-time framework**: Python-based open-source system enabling conversational voice AI agents with support for real-time audio/video processing and multi-modal interactions.
+- **Modular architecture**: Designed for extensibility, integrating voice, video, and AI components with a plug-and-play structure for rapid agent development.
+- **Scalable deployment**: Optimized for production-grade conversational AI, supporting distributed execution and high-performance inference for large-scale applications.
 
 ## Why It Matters
 
@@ -40,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TEN-framework
-- Stars: 10850
-- Forks: 1316
+- Stars: 10856
+- Forks: 1318
 - Language: Python
 - Topics: ai, multi-modal, real-time, video, voice
-- Last Updated: 2026-07-07T16:36:40Z
+- Last Updated: 2026-07-08T02:16:18Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-06-19T14:26:15Z
-- Pushed At: 2026-07-04T09:39:19Z
+- Pushed At: 2026-07-08T03:18:44Z
 
 ## Possible Use Cases
 

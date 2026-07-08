@@ -36,9 +36,9 @@ selection_reason:
 
 - **GraphRAG Integration**: Combines structured (knowledge graphs) and unstructured (text) data to enhance LLM responses, reducing hallucinations and improving contextual depth via interconnected data retrieval.
 
-- **Key Techniques Covered**: Includes vector similarity, query rewriting, parent document retrieval, knowledge graph construction with LLMs, and agentic AI integration for advanced RAG systems.
+- **Technical Components**: Covers vector similarity, query rewriting, parent document retrieval, knowledge graph construction with LLMs, and agentic AI integration for advanced RAG systems.
 
-- **Evaluation & Implementation**: Provides methodologies for assessing RAG performance/acc
+- **Evaluation & Implementation**: Provides methodologies for assessing RAG performance/accurac
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dagshub.com/
-published_at: '2026-07-07T15:38:26.266701+05:30'
-collected_at: '2026-07-07T15:38:26.266714+05:30'
+published_at: '2026-07-08T09:21:33.755274+05:30'
+collected_at: '2026-07-08T09:21:33.755285+05:30'
 tags:
 - dataset
 - rag
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:dagshub-everything-you-need-to-manage-multimodal-a
-first_seen: '2026-07-07T15:38:26.266714+05:30'
-last_seen: '2026-07-07T15:38:26.266714+05:30'
-last_checked: '2026-07-07T15:38:26.266714+05:30'
+first_seen: '2026-07-08T09:21:33.755285+05:30'
+last_seen: '2026-07-08T09:21:33.755285+05:30'
+last_checked: '2026-07-08T09:21:33.755285+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Data & Model Management**: Platform supports multimodal dataset curation/annotation (vision, audio, LLM), experiment tracking (MLflow-compatible), and model versioning/deployment with lineage, scaling from petabytes to private storage integration.
+- **Unified AI Data & Model Management**: Platform supports curation/annotation of multimodal datasets (vision, audio, LLM), experiment tracking (MLflow-compatible), and model versioning/deployment with lineage tracking across public/private repositories.
 
-- **Tiered Pricing & Enterprise Features**: Free tier offers public repos + limited private storage; Team ($99/user/month) adds multimodal auto-labeling, RBAC, and 1TB storage; Enterprise provides petabyte-scale management, VPC/air-gapped deployments, SSO/LDAP, and organizational resource control.
+- **Scalable Infrastructure & Integrations**: Offers tiered plans (Individual/Team/Enterprise) with storage limits (20GB–Petabyte-scale), RBAC, SSO/LDAP, and integrations for cloud/on-prem deployments (VPC, Air-gapped, OpenShift) and MLOps tools.
 
-- **ML Stack Integration & Security**: Compatible with open-source formats and cloud/MLOps tools; supports on-prem/cloud deployment with SSO, RBAC, and enterprise-grade security controls (e.g., OpenShift, LDAP/OIDC).
+- **Enterprise-Grade Features**: Includes auto-labeling, petabyte-scale data management, model deployment to clusters, organizational resource control, and priority SLA support for high-scale AI workloads.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T15:38:26.266701+05:30
+- Published: 2026-07-08T09:21:33.755274+05:30
 
 ## Related Tags
 

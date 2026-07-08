@@ -4,28 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NousResearch/hermes-agent
-collected_at: '2026-07-08T01:49:43.900032+05:30'
-published_at: '2026-07-07T20:15:15Z'
+collected_at: '2026-07-08T09:19:54.587295+05:30'
+published_at: '2026-07-08T03:49:08Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- meta-ai
-- mistral
-- models
 - openai
 - python
-stars: 210919
+stars: 211099
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-07-22T22:22:28Z'
-pushed_at: '2026-07-07T20:18:12Z'
+pushed_at: '2026-07-08T03:43:15Z'
 resource_id: github:nousresearch/hermes-agent
-first_seen: '2026-07-08T01:49:43.900032+05:30'
-last_seen: '2026-07-08T01:49:43.900032+05:30'
-last_checked: '2026-07-08T01:49:43.900032+05:30'
+first_seen: '2026-07-08T09:19:54.587295+05:30'
+last_seen: '2026-07-08T09:19:54.587295+05:30'
+last_checked: '2026-07-08T09:19:54.587295+05:30'
 health_score: 100
 ---
 
@@ -33,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Hermes-Agent supports multiple LLM providers (Anthropic, OpenAI, Mistral, etc.) with configurable API keys, enabling seamless switching between models like Claude, GPT-4, and Llama for dynamic agent behavior.
+- **Modular AI Agent Framework**: Open-source Python-based system (`hermes-agent`) designed for extensible AI agent development, supporting integration with multiple LLMs (OpenAI, Anthropic, etc.) and tools (Claude Code, Codex, etc.) via a plugin architecture.
 
-- **Modular Tooling & Extensibility**: Built with a plugin-based architecture (e.g., `clawdbot`, `moltbot`) for code execution, file operations, and web browsing, allowing custom tool integration via Python functions or external APIs.
+- **Dynamic Skill Acquisition**: Implements lifelong learning capabilities where agents autonomously expand their toolset and knowledge base through interaction, enabling continuous performance improvement without manual retraining.
 
-- **Stateful Memory & Context Retention**: Implements persistent memory (SQLite/JSON) to track conversation history, tool usage, and agent state, enabling long-term task execution and adaptive decision-making across sessions.
+- **Multi-Model & Multi-Tool Compatibility**: Supports concurrent operation across diverse AI models (ChatGPT, Claude, etc.) and execution environments (code interpreters, APIs, etc.), with built-in safety mechanisms for tool invocation and error handling.
 
 ## Why It Matters
 
@@ -46,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NousResearch
-- Stars: 210919
-- Forks: 38720
+- Stars: 211099
+- Forks: 38753
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw
-- Last Updated: 2026-07-07T20:15:15Z
+- Last Updated: 2026-07-08T03:49:08Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-22T22:22:28Z
-- Pushed At: 2026-07-07T20:18:12Z
+- Pushed At: 2026-07-08T03:43:15Z
 
 ## Possible Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-07-08T01:50:34.030719+05:30'
+collected_at: '2026-07-08T09:20:44.668441+05:30'
 published_at: '2026-06-07T13:03:16Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-07-08T01:50:34.030719+05:30'
-last_seen: '2026-07-08T01:50:34.030719+05:30'
-last_checked: '2026-07-08T01:50:34.030719+05:30'
+first_seen: '2026-07-08T09:20:44.668441+05:30'
+last_seen: '2026-07-08T09:20:44.668441+05:30'
+last_checked: '2026-07-08T09:20:44.668441+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent RAG Framework**: Implements a collaborative system of AI agents using frameworks like CrewAI, AutoGen, and LangChain to process, analyze, and generate insights from documents via Retrieval-Augmented Generation (RAG).
+- **Framework Integration**: Demonstrates a multi-agent RAG system leveraging **AutoGen, CrewAI, LangChain**, with support for **OpenAI (GPT-3.5/4/5), Anthropic**, and vector DBs (**ChromaDB, Pinecone, Weaviate**).
 
-- **Integration Stack**: Supports document storage/embedding with ChromaDB, Pinecone, or Weaviate, and LLM APIs (OpenAI GPT-3.5/4/5, Anthropic) for agent-based reasoning and response generation.
+- **Collaborative Pipeline**: Implements a **swarm-based agent architecture** for parallel document processing, analysis, and insight generation, with optional **Discord integration** for real-time coordination.
 
-- **Deployment & Extensibility**: Includes Discord bot integration and modular design for scaling multi-agent workflows, with last update (2026-06-07) reflecting ongoing support for modern AI agent ecosystems.
+- **Deployment-Ready**: Template includes pre-configured agent roles, retrieval workflows, and modular design for scaling across document types and agent specializations.
 
 ## Why It Matters
 

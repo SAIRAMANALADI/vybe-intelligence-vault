@@ -4,13 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-07-08T01:49:08.779070+05:30'
+collected_at: '2026-07-08T09:19:19.511577+05:30'
 published_at: '2026-07-01T14:48:32Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
+- scripts
 - shell
 - workflows
 stars: 60
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-07-08T01:49:08.779070+05:30'
-last_seen: '2026-07-08T01:49:08.779070+05:30'
-last_checked: '2026-07-08T01:49:08.779070+05:30'
+first_seen: '2026-07-08T09:19:19.511577+05:30'
+last_seen: '2026-07-08T09:19:19.511577+05:30'
+last_checked: '2026-07-08T09:19:19.511577+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Structure**: Provides a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Focus**: Primarily shell-based CLI tools and templates for optimizing AI agent interactions, Anthropic's LLM integration, and MCP (Model Context Protocol) workflows.
-- **Maintenance & Updates**: Actively maintained with the latest update on 2026-07-01, ensuring relevance for modern AI-driven development practices.
+- **Repository Structure & Templates**: Provides `CLAUDE.md` templates and structured workflows for optimizing Claude Code usage, including multi-agent patterns and CLI configurations.
+
+- **Cost & Performance Optimization**: Focuses on cost-efficient practices for LLM interactions via MCP (Model Context Protocol), with Shell-based scripts for automation and resource management.
+
+- **Agentic AI & Developer Tools**: Curates best practices for agentic AI workflows, Anthropic integration, and developer tooling, emphasizing scalability and reproducibility.
 
 ## Why It Matters
 

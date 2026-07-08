@@ -6,10 +6,10 @@ source_url: https://github.com/llmware-ai/llmware
 resource_id: github:llmware-ai/llmware
 local_vault_path: ai/rag/llmware-ai-llmware.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
 - github-repo
@@ -17,6 +17,7 @@ tags:
 - models
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -27,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified RAG Framework**: Provides a Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models optimized for efficiency (e.g., llama.cpp, ONNX, OpenVINO).
+- **Unified RAG Framework**: Provides an integrated Python-based framework for constructing enterprise-grade retrieval-augmented generation (RAG) pipelines using small, specialized models optimized for efficiency and performance.
 
-- **Multi-Model & Tool Integration**: Supports diverse model architectures and tools, including agents, generative AI utilities, and document parsing, enabling flexible deployment across edge and cloud environments.
+- **Multi-Backend Support**: Supports multiple inference backends (e.g., llama.cpp, ONNX, OpenVINO) and integrates parsing, retrieval, and generative components for modular pipeline assembly.
 
-- **Active Development & Ecosystem**: Maintain
+- **Enterprise Features**: Includes tools for agent-based workflows, documen
 
 ## Use Cases
 

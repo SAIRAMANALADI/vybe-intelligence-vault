@@ -9,7 +9,7 @@ local_vault_path: ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md
 quality_score: 70
 archive_score: 78
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -33,18 +33,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 78 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Minimal RAG Pipeline**: Uses `sentence-transformers` for embeddings, FAISS for vector search, and `transformers` (e.g., Flan-T5) for generation; supports dense retrieval with optional sparse (BM25) via `rank-bm25`.
+- **Core RAG Architecture**: Combines a retriever (dense/sparse) with an LLM generator to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates via document indexing.
 
-- **Core RAG Components**: Retriever (dense/sparse), generator (LLM), embeddings (e.g., `all-MiniLM-L6-v2`), chunking (400–1000 tokens with overlap), reranking (e.g., `monoT5`), and hybrid retrieval (sparse + dense).
+- **Minimal Pipeline Components**: Uses sentence-transformers for embeddings, FAISS for vector search, and Flan-T5 for generation; demonstrates end-to-end indexing (chunking → embedding → vector store) and retrieval-augmented prompting.
 
-- **Advanced Techniques**: Multi-hop retrieval, GraphRAG (know
+- **Intermediate/Advanced Techniques**: Highli
 
 ## Use Cases
 

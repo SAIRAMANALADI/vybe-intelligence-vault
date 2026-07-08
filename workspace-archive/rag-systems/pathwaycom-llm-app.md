@@ -6,16 +6,16 @@ source_url: https://github.com/pathwaycom/llm-app
 resource_id: github:pathwaycom/llm-app
 local_vault_path: ai/rag/pathwaycom-llm-app.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: template
-importance: medium
+importance: high
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
 - openai
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Cloud-native templates** for **Retrieval-Augmented Generation (RAG)**, AI pipelines, and enterprise search with **real-time data synchronization** via Docker containers.
-- **Multi-source integration**: Supports live data feeds from **SharePoint, Google Drive, S3, Kafka, PostgreSQL, APIs**, and other real-time sources.
-- **Technical stack**: Built with **Jupyter Notebooks**, leverages **Hugging Face, OpenAI, vector databases**, and **LLMOps** for secure, scalable LLM applications.
+- **Cloud-native RAG & AI pipelines**: Dockerized templates for Retrieval-Augmented Generation (RAG), AI workflows, and enterprise search with live data synchronization via SharePoint, Google Drive, S3, Kafka, PostgreSQL, and real-time APIs.
+
+- **Multi-source integration**: Supports dynamic data ingestion from structured (PostgreSQL) and unstructured (Google Drive, S3) sources, Kafka streams, and vector databases for real-time indexing and retrieval.
+
+- **Enterprise-grade LLMops**: Built with Hu
 
 ## Use Cases
 

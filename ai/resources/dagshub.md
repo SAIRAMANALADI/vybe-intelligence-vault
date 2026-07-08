@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://discord.com/invite/9gU36Y6
-published_at: '2026-06-22T11:19:39.463230+05:30'
-collected_at: '2026-06-22T11:19:39.463241+05:30'
+published_at: '2026-07-08T09:22:25.423636+05:30'
+collected_at: '2026-07-08T09:22:25.423647+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:dagshub
-first_seen: '2026-06-22T11:19:39.463241+05:30'
-last_seen: '2026-06-22T11:19:39.463241+05:30'
-last_checked: '2026-06-22T11:19:39.463241+05:30'
+first_seen: '2026-07-08T09:22:25.423647+05:30'
+last_seen: '2026-07-08T09:22:25.423647+05:30'
+last_checked: '2026-07-08T09:22:25.423647+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **JavaScript Dependency**: The application requires JavaScript to be enabled in the browser for full functionality.
+- **JavaScript Dependency**: The application requires JavaScript to be enabled in the browser to function properly.
 - **Client-Side Execution**: Core application logic and rendering depend on JavaScript execution in the user's browser.
-- **Error State**: Without JavaScript enabled, users encounter a blocking error preventing access to the application's features.
+- **Error State**: Without JavaScript, users encounter a blocking error preventing access to the application's features.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:19:39.463230+05:30
+- Published: 2026-07-08T09:22:25.423636+05:30
 
 ## Related Tags
 

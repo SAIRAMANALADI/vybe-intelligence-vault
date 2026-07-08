@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wxmb01/codex-app-autonomous-runs
-collected_at: '2026-07-07T00:50:19.960507+05:30'
+collected_at: '2026-07-08T09:20:09.573198+05:30'
 published_at: '2026-07-05T04:27:06Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - javascript
 - rag
 - scripts
+- workflows
 stars: 9
 language: JavaScript
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-05-15T11:57:03Z'
 pushed_at: '2026-05-15T22:12:41Z'
 resource_id: github:wxmb01/codex-app-autonomous-runs
-first_seen: '2026-07-07T00:50:19.960507+05:30'
-last_seen: '2026-07-07T00:50:19.960507+05:30'
-last_checked: '2026-07-07T00:50:19.960507+05:30'
+first_seen: '2026-07-08T09:20:09.573198+05:30'
+last_seen: '2026-07-08T09:20:09.573198+05:30'
+last_checked: '2026-07-08T09:20:09.573198+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous AI Agent Framework**: Provides templates for long-running autonomous project execution using AI agents with integrated reviewer agents and learning loops for continuous improvement.
-
-- **Safety & Narrow Hooks**: Implements narrow safety hooks to constrain agent behavior during autonomous runs, ensuring controlled execution within predefined boundaries.
-
-- **JavaScript-Based Templates**: Built in JavaScript, leveraging Codex App for agent orchestration, automation, and modular project execution.
+- **Template Suite**: Provides JavaScript-based Codex App templates for enabling long-duration autonomous project execution with integrated reviewer agents and learning loops.
+- **Safety Mechanisms**: Incorporates narrow safety hooks to constrain agent behavior during autonomous runs, mitigating risk in unsupervised execution.
+- **Automation Focus**: Designed for AI-driven automation, leveraging Codex's agentic framework to streamline workflows while maintaining modularity and extensibility.
 
 ## Why It Matters
 

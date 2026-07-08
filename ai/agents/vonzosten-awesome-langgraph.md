@@ -4,14 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vonzosten/awesome-LangGraph
-collected_at: '2026-07-08T01:50:13.883415+05:30'
+collected_at: '2026-07-08T09:20:24.578597+05:30'
 published_at: '2026-07-07T17:30:00Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
-- workflows
 stars: 1891
 language: JavaScript
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-11-02T15:54:00Z'
 pushed_at: '2026-05-20T14:55:08Z'
 resource_id: github:vonzosten/awesome-langgraph
-first_seen: '2026-07-08T01:50:13.883415+05:30'
-last_seen: '2026-07-08T01:50:13.883415+05:30'
-last_checked: '2026-07-08T01:50:13.883415+05:30'
+first_seen: '2026-07-08T09:20:24.578597+05:30'
+last_seen: '2026-07-08T09:20:24.578597+05:30'
+last_checked: '2026-07-08T09:20:24.578597+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Ecosystem Index**: Curated collection of LangChain and LangGraph resources, including concepts, projects, tools, templates, and guides for building LLM and multi-agent applications.
-- **Technical Breadth**: Covers JavaScript-based implementations with focus on AI, LLM agents, and workflow orchestration (LangGraph).
-- **Active Maintenance**: Last updated July 2026, with 1,891 stars and 230 forks, indicating sustained community engagement.
+- **LangGraph Ecosystem Index**: Curated collection of resources for LangChain + LangGraph, covering concepts, projects, tools, templates, and guides for LLM and multi-agent applications.
+- **Metadata**: 1,891 stars, 231 forks, JavaScript-based, last updated July 7, 2026.
+- **Topics**: AI, curated lists, LangChain, LangGraph, LLMs, and LLM agents.
 
 ## Why It Matters
 
@@ -42,7 +40,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: vonzosten
 - Stars: 1891
-- Forks: 230
+- Forks: 231
 - Language: JavaScript
 - Topics: ai, awesome, awesome-list, langchain, langgraph, llm, llm-agents
 - Last Updated: 2026-07-07T17:30:00Z

@@ -6,9 +6,9 @@ source_url: https://python.langchain.com
 resource_id: blog:langchain-overview-docs-by-langchain
 local_vault_path: ai/rag/langchain-overview-docs-by-langchain.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # LangChain overview - Docs by LangChain
@@ -29,19 +29,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Agent Composition**: `create_agent` provides a minimal, configurable harness combining model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
+- **Minimal Agent Harness**: `create_agent` provides a configurable harness combining model, tools, prompt, and middleware, enabling custom agent composition for specific use cases while supporting multiple providers (OpenAI, Anthropic, Google, etc.).
 
-- **Modular Architecture**: LangChain agents are built on LangGraph, enabling durable execution, human-in-the-loop support, and persistence, while `create_agent` allows incremental capability addition via middleware.
+- **Multi-Framework Architecture**: LangChain agents are built on LangGraph, inheriting durable execution, human-in-the-loop support, and persistence, while LangSmith offers observability for tracing, debugging, and evaluating agent workflows.
 
-- **Observability & Debugging**: LangSmith integrates for tracing, debugging, and evaluating ag
+-
 
 ## Use Cases
 

@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by duha. Score: 32, Comments: 3.
+Hacker News story by duha. Score: 95, Comments: 10.
 Original Link: https://blog.zksecurity.xyz/posts/circl-bugs/
 
 ## Use Cases

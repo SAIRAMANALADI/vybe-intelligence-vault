@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-07-08T01:47:03.790503+05:30'
+collected_at: '2026-07-08T09:17:14.464201+05:30'
 published_at: '2026-07-06T21:12:36Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - python
 - rag
 - scripts
-- workflows
 stars: 4861
 language: Python
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-07-02T03:46:39Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-07-08T01:47:03.790503+05:30'
-last_seen: '2026-07-08T01:47:03.790503+05:30'
-last_checked: '2026-07-08T01:47:03.790503+05:30'
+first_seen: '2026-07-08T09:17:14.464201+05:30'
+last_seen: '2026-07-08T09:17:14.464201+05:30'
+last_checked: '2026-07-08T09:17:14.464201+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style Optimization**: AutoRAG automates hyperparameter tuning, prompt optimization, and retrieval strategies for RAG pipelines using a fully automated, ML-style workflow to maximize performance without manual intervention.
+- **AutoML-Style Automation**: AutoRAG provides an automated pipeline for optimizing and evaluating Retrieval-Augmented Generation (RAG) systems, leveraging AutoML techniques to streamline hyperparameter tuning, component selection, and performance benchmarking without manual intervention.
 
-- **Comprehensive Evaluation Framework**: Integrates built-in benchmarking across multiple dimensions (retrieval, generation, end-to-end QA) with customizable metrics and datasets, enabling systematic assessment of RAG systems.
+- **Comprehensive RAG Optimization**: Supports end-to-end optimization of RAG pipelines, including document parsing, embedding generation, retrieval strategies, and LLM integration, with built-in support for multi-modal and structured data processing.
 
-- **Modular Pipeline & Tooling**: Provides a Python-based, open-source framework with components for document parsing, embedding generation, retrieval, and LLM integration, supporting end-to-end RAG optimization and deployment.
+- **Benchmarking & Evaluation Suite**: Includes a standardized framework for benchmarking RAG systems across diverse datasets, metrics (e.g., retrieval accuracy, answer relevance), and LLM backends, enabling reproducible and comparative performance analysis.
 
 ## Why It Matters
 

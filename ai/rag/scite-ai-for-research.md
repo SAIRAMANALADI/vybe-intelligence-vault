@@ -4,10 +4,11 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.scite.ai/
-published_at: '2026-07-07T23:04:51.635238+05:30'
-collected_at: '2026-07-07T23:04:51.635252+05:30'
+published_at: '2026-07-08T09:26:42.231617+05:30'
+collected_at: '2026-07-08T09:26:42.231627+05:30'
 tags:
 - anthropic
+- benchmark
 - dataset
 - hackernews
 - openai
@@ -18,9 +19,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:scite-ai-for-research
-first_seen: '2026-07-07T23:04:51.635252+05:30'
-last_seen: '2026-07-07T23:04:51.635252+05:30'
-last_checked: '2026-07-07T23:04:51.635252+05:30'
+first_seen: '2026-07-08T09:26:42.231627+05:30'
+last_seen: '2026-07-08T09:26:42.231627+05:30'
+last_checked: '2026-07-08T09:26:42.231627+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Database & Coverage**: Aggregates 280M+ full-text scholarly articles (papers, preprints, books, patents, datasets) with direct publisher agreements (Wiley, SAGE, 40+ others), enabling full-text search beyond abstracts and paywall circumvention.
+- **Smart Citation Analysis**: Classifies 1.6B+ citations as supporting, contrasting, or mentioning, with contextual sentence-level evidence, enabling evidence-based literature evaluation beyond traditional citation counts.
 
-- **Smart Citation Intelligence**: Classifies citations as *supporting*, *contrasting*, or *mentioning* with contextual sentence-level evidence, enabling evidence-weighted analysis of papers, authors, or institutions; AI answers are grounded in verifiable citations.
+- **Comprehensive Data Coverage**: Aggregates 280M+ full-text scholarly articles (journals, preprints, patents, clinical trials, datasets) from 40+ publishers and open-access sources, ensuring cross-disciplinary research accessibility.
 
-- **Cross-Domain Integration**: Extends beyond journals to include patents, clinical trials, grants, and datasets; integrates with tools (Claude, ChatGPT, Zotero) and offers API access for workflow embedding, ensuring traceability from research proposal to commercial application.
+- **AI-Powered Verifiable Answers**: Integrates with tools like Claude/ChatGPT via MCP, Zotero, and API, delivering answers grounded in specific paper excerpts with direct citation links for real-time verification.
 
 ## Why It Matters
 
@@ -42,11 +43,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T23:04:51.635238+05:30
+- Published: 2026-07-08T09:26:42.231617+05:30
 
 ## Related Tags
 
 - anthropic
+- benchmark
 - dataset
 - hackernews
 - openai

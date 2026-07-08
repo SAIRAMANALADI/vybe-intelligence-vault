@@ -8,19 +8,29 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
+### [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `93` | **Path**: [`agentops-ai-agentops.md`](../../ai/agents/agentops-ai-agentops.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`agentops-ai-agentops.md`](../../ai/agents/agentops-ai-agentops.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`deepset-ai-haystack.md`](../../ai/rag/deepset-ai-haystack.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`graphrag-bench-graphrag-benchmark.md`](../../ai/rag/graphrag-bench-graphrag-benchmark.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`googlecloudplatform-agent-starter-pack.md`](../../ai/agents/googlecloudplatform-agent-starter-pack.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`agentops-ai-agentops.md`](../../ai/agents/agentops-ai-agentops.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev)
@@ -38,6 +48,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`sylphxai-pdf-reader-mcp.md`](../../ai/rag/sylphxai-pdf-reader-mcp.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`pathwaycom-llm-app.md`](../../ai/rag/pathwaycom-llm-app.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
 - **Category**: `ai/rag` | **Kind**: `API` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`yonatangross-orchestkit.md`](../../ai/rag/yonatangross-orchestkit.md)
@@ -52,21 +67,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`googlecloudplatform-agent-starter-pack.md`](../../ai/agents/googlecloudplatform-agent-starter-pack.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
-
-### [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`maunappl8-openai-agents-ts-kit.md`](../../ai/agents/maunappl8-openai-agents-ts-kit.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`sri-krishna-v-awesome-adk-agents.md`](../../ai/agents/sri-krishna-v-awesome-adk-agents.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
-- **Category**: `ai/resources` | **Kind**: `API` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`llamasearchai-openagi-customization.md`](../../ai/resources/llamasearchai-openagi-customization.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-08 02:02 IST*
+*Last updated: 2026-07-08 09:33 IST*

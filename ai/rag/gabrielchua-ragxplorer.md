@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-08T01:47:03.694921+05:30'
+collected_at: '2026-07-08T09:17:14.429563+05:30'
 published_at: '2026-07-07T03:51:39Z'
 tags:
-- dataset
 - github-repo
 - jupyter notebook
+- meta-ai
 - models
 - rag
+- workflows
 stars: 1222
 language: Jupyter Notebook
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-08T01:47:03.694921+05:30'
-last_seen: '2026-07-08T01:47:03.694921+05:30'
-last_checked: '2026-07-08T01:47:03.694921+05:30'
+first_seen: '2026-07-08T09:17:14.429563+05:30'
+last_seen: '2026-07-08T09:17:14.429563+05:30'
+last_checked: '2026-07-08T09:17:14.429563+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM interactions with retrieved context.
-
-- **Streamlit-Powered UI**: Implements a Streamlit-based frontend for real-time, interactive visualization of RAG components (e.g., retrieval quality, prompt engineering, and response generation) with Python backend integration.
-
-- **Modular Python Architecture**: Designed for extensibility with support for custom datasets, retrieval models, and LLM backends; last updated July 2026 with active community contributions (1.2k+ stars, 115 forks).
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based tool (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM interactions with retrieved data.
+- **Streamlit Integration**: Leverages Streamlit for interactive web-based visualization, allowing users to inspect RAG components (e.g., retrieval mechanisms, LLM outputs) in real-time.
+- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom RAG workflows and integration with LLM frameworks (e.g., LangChain, LlamaIndex).
 
 ## Why It Matters
 

@@ -12,8 +12,11 @@ resource_kind: workflow
 importance: medium
 tags:
 - agents
+- anthropic
 - github-repo
-- scripts
+- meta-ai
+- models
+- openai
 - typescript
 - workflows
 selection_reason:
@@ -34,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Open-source AI coding agent** implemented in TypeScript, enabling autonomous or assisted code generation, refactoring, and debugging via CLI or IDE integration.
-- **Extensible architecture** with support for custom models, tools, and workflows, facilitating integration with local/remote LLMs and developer toolchains.
-- **Active development** (last updated July 2026) with 34,727+ stars, 4,979 forks, and a growing ecosystem for AI-driven software development automation.
+- **Open-source AI coding agent**: Continue is a TypeScript-based autonomous coding assistant that integrates with IDEs (e.g., VS Code) to automate development tasks via natural language commands.
+- **Multi-modal architecture**: Supports LLM APIs (e.g., Anthropic, OpenAI) with local fallback models (e.g., Ollama) and provides CLI tools for terminal-based workflows.
+- **Extensible plugin system**: Enables customization via community-built extensions for workflows, context providers, and IDE integ
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/daveshap/OpenAI_Agent_Swarm
-collected_at: '2026-07-08T01:49:58.838416+05:30'
+collected_at: '2026-07-08T09:20:09.557226+05:30'
 published_at: '2026-07-07T09:41:52Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 stars: 3095
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: true
 created_at: '2023-11-07T23:12:05Z'
 pushed_at: '2024-02-16T17:12:05Z'
 resource_id: github:daveshap/openai_agent_swarm
-first_seen: '2026-07-08T01:49:58.838416+05:30'
-last_seen: '2026-07-08T01:49:58.838416+05:30'
-last_checked: '2026-07-08T01:49:58.838416+05:30'
+first_seen: '2026-07-08T09:20:09.557226+05:30'
+last_seen: '2026-07-08T09:20:09.557226+05:30'
+last_checked: '2026-07-08T09:20:09.557226+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **HAAS Framework**: Implements a hierarchical autonomous agent swarm architecture in Python, enabling multi-agent coordination and task delegation for complex workflows.
-
-- **Autonomous Agent Swarm**: Agents operate with minimal human intervention, leveraging swarm intelligence for distributed problem-solving and resilience against failures.
-
-- **Scalability & Integration**: Designed for horizontal scalability, supporting dynamic agent addition/removal and integration with OpenAI's API for enhanced LLM-driven decision-making.
+*   Implements a Hierarchical Autonomous Agent Swarm (HAAS) architecture.
+*   Leverages OpenAI models for intelligent agent functionality within the swarm.
+*   Developed in Python, focusing on autonomous multi-agent system design.
 
 ## Why It Matters
 

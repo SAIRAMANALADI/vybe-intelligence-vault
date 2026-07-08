@@ -19,7 +19,6 @@ tags:
 - models
 - openai
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -38,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular LLM Knowledge Platform**: Implements Retrieval-Augmented Generation (RAG), autonomous reasoning agents, and self-maintaining Wiki functionality from raw documents using Go, supporting multi-tenancy and multi-model integration (e.g., Ollama, OpenAI).
+- **Multi-modal LLM Knowledge Platform**: Converts raw documents into a queryable RAG system, autonomous reasoning agent, and self-maintaining Wiki using Go, supporting multi-tenancy and multiple models (e.g., Ollama, OpenAI).
 
-- **Advanced Retrieval & Reasoning**: Features semantic search, vector embeddings, reranking, and evaluation pipelines for high-accuracy question-answering, with support for hybrid retrieval and agentic workflows.
+- **Advanced Retrieval & Reasoning**: Implements embeddings, vector search, reranking, and semantic search for efficient document retrieval, with evaluation and question-answering capabilities.
 
-- **Scalable Architect
+- **Scalable Architecture**: Designed for high performance with support for m
 
 ## Use Cases
 

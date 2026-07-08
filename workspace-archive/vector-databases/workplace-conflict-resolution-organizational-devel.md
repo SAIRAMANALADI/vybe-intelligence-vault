@@ -2,7 +2,7 @@
 title: Workplace Conflict Resolution & Organizational Development | JAMS Pathways
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://www.jamspathways.com
+source_url: https://www.jamspathways.com/
 resource_id: blog:workplace-conflict-resolution-organizational-devel
 local_vault_path: ai/rag/workplace-conflict-resolution-organizational-devel.md
 quality_score: 70
@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Customized ADR & Training Programs**: Delivers tailored alternative dispute resolution (ADR) services and professional development programs (e.g., psychological safety, neurodiversity, leadership training) to address specific organizational challenges and close skill gaps.
+- **Custom ADR & Training Programs**: Delivers tailored alternative dispute resolution (ADR) services and training (e.g., psychological safety, neurodiversity, leadership) to address specific organizational conflicts and skill gaps, enabling independent conflict resolution.
 
-- **Multi-Phased Facilitation & Ombudsman Services**: Implements structured facilitation programs (in-person, remote, or hybrid) and independent ombudsman services to restore trust, resolve conflicts, and optimize reporti
+- **Multi-Phased Facilitation & Ombudsman Services**: Implements structured facilitation programs (e.g., trust rebuilding in higher education, anonymous HR reporting in healthcare) and provides impartial ombudsman services t
 
 ## Use Cases
 
@@ -42,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.jamspathways.com
+Original source URL: https://www.jamspathways.com/
 
 ## Local Vault File
 

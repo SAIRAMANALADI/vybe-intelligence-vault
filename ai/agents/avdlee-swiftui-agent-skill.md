@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AvdLee/SwiftUI-Agent-Skill
-collected_at: '2026-07-08T01:49:03.748051+05:30'
+collected_at: '2026-07-08T09:19:14.489974+05:30'
 published_at: '2026-07-07T20:02:46Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-21T14:42:30Z'
 pushed_at: '2026-06-16T08:47:28Z'
 resource_id: github:avdlee/swiftui-agent-skill
-first_seen: '2026-07-08T01:49:03.748051+05:30'
-last_seen: '2026-07-08T01:49:03.748051+05:30'
-last_checked: '2026-07-08T01:49:03.748051+05:30'
+first_seen: '2026-07-08T09:19:14.489974+05:30'
+last_seen: '2026-07-08T09:19:14.489974+05:30'
+last_checked: '2026-07-08T09:19:14.489974+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Repository provides expert SwiftUI best practices in the Agent Skills open format for AI coding tools.
-- **Technical Details**: Implemented in Python, last updated on 2026-07-07 with 3,189 stars and 148 forks.
-- **Integration**: Designed to enhance AI coding agents with structured SwiftUI guidance.
+- **Purpose**: Provides expert SwiftUI best practices as an AI coding tool skill in the open Agent Skills format.
+- **Technical Stack**: Implemented in Python, enabling integration with AI agents for SwiftUI development guidance.
+- **Metadata**: 3,189 stars, 148 forks, last updated July 7, 2026.
 
 ## Why It Matters
 

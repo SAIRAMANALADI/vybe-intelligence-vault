@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-07-08T01:48:08.761045+05:30'
+collected_at: '2026-07-08T09:18:19.494870+05:30'
 published_at: '2026-07-06T10:13:21Z'
 tags:
 - agents
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-07-08T01:48:08.761045+05:30'
-last_seen: '2026-07-08T01:48:08.761045+05:30'
-last_checked: '2026-07-08T01:48:08.761045+05:30'
+first_seen: '2026-07-08T09:18:19.494870+05:30'
+last_seen: '2026-07-08T09:18:19.494870+05:30'
+last_checked: '2026-07-08T09:18:19.494870+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agent Architecture**: Introduces a multi-layered agent framework integrating graph-based retrieval with LLM reasoning, enabling hierarchical decomposition of complex queries into sub-tasks for enhanced accuracy.
+- **Vertically Unified Agents for GraphRAG**: Introduces a novel framework integrating multiple specialized agents (e.g., retrieval, reasoning, planning) within a graph-based RAG system to enhance complex reasoning tasks, leveraging hierarchical agent collaboration.
 
-- **Graph-Centric RAG Pipeline**: Leverages dynamic knowledge graphs to store, retrieve, and contextualize information, optimizing retrieval-augmented generation (RAG) for multi-hop reasoning and cross-domain knowledge synthesis.
+- **Graph-Centric Retrieval-Augmented Architecture**: Utilizes a graph-structured knowledge base to dynamically retrieve and synthesize multi-hop relational data, enabling efficient context-aware reasoning for large-scale, interconnected information.
 
-- **Performance Benchmarks**: Achieves state-of-the-art results on complex reasoning tasks (e.g., multi-hop QA, logical inference) by combining graph traversal with agentic decision-making, validated on proprietary and public datasets.
+- **Performance & Scalability**: Demonstrates state-of-the-art results on ICLR 2026 benchmarks, with optimizations for parallel agent execution and dynamic graph pruning to handle large-scale knowledge graphs efficiently.
 
 ## Why It Matters
 

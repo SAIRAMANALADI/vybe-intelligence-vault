@@ -5,8 +5,8 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | Repository | Focus Category | Quality Score |
 | :--- | :--- | :--- |
 | [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) | `ai-coding-agents/` | 70 |
-| [LangChain · GitHub](https://github.com/langchain-ai) | `ai-coding-agents/` | 70 |
 | [atticus98/codex-turbo](https://github.com/atticus98/codex-turbo) | `ai-coding-agents/` | 70 |
+| [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](https://github.com/resources/whitepapers/gartner-magic-quadrant-and-critical-capabilities-for-ai-code-assistants) | `ai-coding-agents/` | 70 |
 | [study8677/antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) | `ai-coding-agents/` | 70 |
 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | `ai-coding-agents/` | 70 |
 | [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) | `ai-coding-agents/` | 70 |

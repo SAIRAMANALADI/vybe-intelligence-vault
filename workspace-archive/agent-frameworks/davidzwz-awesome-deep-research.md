@@ -12,9 +12,8 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
+- dataset
 - github-repo
-- paper
 - rag
 - unknown
 selection_reason:
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Resource Hub**: Curated collection of state-of-the-art papers, tools, and frameworks focused on **agentic deep research**, including **LLM-driven reasoning agents**, **search agents**, and **RAG-based systems** for advanced knowledge synthesis.
-
-- **Key Topics Covered**: Includes **deep research agents**, **multi-agent collaboration**, **planning-based reasoning**, **adaptive retrieval**, and **evaluation benchmarks** for assessing agentic AI performance in complex research tas
+- **Curated Resource Hub**: Aggregates state-of-the-art tools, datasets, and methodologies for agentic deep research, focusing on reasoning agents, RAG, and LLM-driven search frameworks.
+- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026's KnowFM initiative, emphasizing knowledge-focused multi-agent systems for advanced research tasks.
+- **High-Activity Repository**: Maintains 792 stars and 64 forks, reflecting active community engagement with frequent updates (last modified: 2026-07-07).
 
 ## Use Cases
 

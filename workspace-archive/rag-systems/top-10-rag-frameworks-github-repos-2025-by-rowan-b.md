@@ -6,7 +6,7 @@ source_url: https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos
 resource_id: blog:top-10-rag-frameworks-github-repos-2025-by-rowan-b
 local_vault_path: ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md
 quality_score: 70
-archive_score: 84
+archive_score: 82
 archive_tier: useful
 resource_kind: framework
 importance: high
@@ -30,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 84 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Haystack (deepset-ai)**: Modular AI orchestration framework for production-ready RAG pipelines with support for multiple document stores (Elasticsearch, FAISS, SQL), language models (BERT, RoBERTa, DPR), and scalable document processing.
+- **Haystack (deepset-ai)**: Modular AI orchestration framework for production-ready RAG pipelines, supporting multi-document stores (Elasticsearch, FAISS, SQL) and integration with LLMs (BERT, RoBERTa, DPR) for scalable QA, summarization, and retrieval workflows.
 
-- **RAGFlow (infiniflow)**: Open-source RAG engine emphasizing deep document understanding with pre-built RAG pipelines, intuitive workflow design, and integration with vector databases and custom embedding models.
+- **RAGFlow (infiniflow)**: Open-source RAG engine optimized for deep document understanding, featuring pre-built RAG pipelines, intuitive workflow design, and support for custom embedding models with 11.6k GitHub stars.
 
-- **txtai (neuml)**: All-in-one AI framew
+- **FlashRAG
 
 ## Use Cases
 

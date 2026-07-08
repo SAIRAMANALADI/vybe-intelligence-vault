@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Tech Stack**: TypeScript-based agentic chat application template using Next.js for SSR/SSG, TailwindCSS for styling, and Shadcn UI components.
-- **Architecture**: Work-in-progress (WIP) template designed for modular agent interactions with TypeScript-first development workflow.
-- **Metadata**: 56 stars, 57 forks, last updated 2026-06-01; repository emphasizes extensibility for AI/agent-driven conversational interfaces.
+- **Tech Stack**: TypeScript-based agentic chat app template using Next.js (App Router), TailwindCSS for styling, and Shadcn UI components.
+
+- **Architecture**: Work-in-progress (WIP) template designed for modular agentic workflows with TypeScript-first tooling and Next.js server/client components.
+
+- **Metadata**: 56 stars, 57 forks, last updated 2026-06-01; minimalist repository with no additional topics.
 
 ## Use Cases
 

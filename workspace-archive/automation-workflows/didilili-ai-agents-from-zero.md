@@ -6,15 +6,13 @@ source_url: https://github.com/didilili/ai-agents-from-zero
 resource_id: github:didilili/ai-agents-from-zero
 local_vault_path: ai/rag/didilili-ai-agents-from-zero.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
 - github-repo
-- hackernews
-- models
 - python
 - rag
 - workflows
@@ -28,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -36,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive AI Agent Development Guide (2026)**: Covers a structured learning path from zero to enterprise-level AI agent deployment, including frameworks (LangChain, LangGraph, Coze, Dify), MCP, skills, LLM, RAG, and prompt engineering, aligned with AI application engineer roles.
+- **Comprehensive AI Agent Development Guide (2026)**: Covers end-to-end AI agent engineering, from foundational concepts (LLMs, RAG, prompt engineering) to advanced frameworks (LangChain, LangGraph, Coze, Dify, MCP) and enterprise deployment/finetuning.
 
-- **Hands-on Projects & Interview Prep**: Provides practical implementations, enterprise-grade deployment strategies, fine-tuning techniques, and a curated interview question database for AI agent development po
+- **Structured Learning Path**: Includes hands-on projects, interview preparation kits, and a curated roadmap aligned with AI application development engineer roles, with topics spanning skills, agent architectures, and AIGC workflows.
+
+- **Ent
 
 ## Use Cases
 

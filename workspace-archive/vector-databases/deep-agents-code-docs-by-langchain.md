@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports dynamic switching between LLM providers (OpenAI, Anthropic, Google, etc.) and models mid-session via `/model` command or CLI flags (`--model`), with persistent memory and customizable skills for context retention.
+- **Multi-Provider LLM Integration**: Supports dynamic switching between LLM providers (OpenAI, Anthropic, Google, etc.) mid-session via `/model` command or CLI flags (`--model`), with persistent memory and approval-gated execution controls.
 
-- **Sandboxed Execution & Tools**: Executes shell commands in local/remote sandboxes, supports MCP tools, and enforces human-in-the-loop approval for destructive operations (`write_file`, `edit_file`, `execute`, etc.), with built-in web s
+- **Built-in Toolset**: Provides 15+ approval-gated tools including file I/O (`read_file`, `edit_file`), shell execution (`execute`), web search (`web_search`), and subagent delegation (`task`), with configurable human-in-the-loop safeguards.
+
+- **Non-Inter
 
 ## Use Cases
 

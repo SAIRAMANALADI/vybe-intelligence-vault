@@ -6,16 +6,16 @@ source_url: https://github.com/pixegami/rag-tutorial-v2
 resource_id: github:pixegami/rag-tutorial-v2
 local_vault_path: ai/rag/pixegami-rag-tutorial-v2.md
 quality_score: 70
-archive_score: 77
+archive_score: 81
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
+- meta-ai
+- models
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates advanced RAG workflows using locally hosted large language models (LLMs) for privacy and reduced dependency on cloud APIs.
-
-- **Dynamic Database Updates**: Implements automated or semi-automated vector database refresh mechanisms to ensure retrieval relevance with evolving document corpora.
-
-- **Testing & Evaluation Framework**: Includes structured testing methodologies (e.g., retrieval accuracy, response quality) to benchmark RAG system performance unde
+- **Local LLM Integration**: Demonstrates end-to-end RAG pipeline using local language models (e.g., Ollama, LM Studio) for privacy-preserving inference without API dependencies.
+- **Dynamic Database Updates**: Implements automated document ingestion and vector database (e.g., Chroma, FAISS) refreshes with incremental updates for real-time knowledge retrieval.
+- **Testing Framework**: Includes unit/integration tests (e.g., pytest) for evaluating retrieval quality, LLM response accuracy, and pipe
 
 ## Use Cases
 

@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-47%2C733-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-47%2C876-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--08-374151?style=flat-square)](#)
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 9,731</p>
-        <p><b>Active:</b> 9,504 | <b>Inactive:</b> 227</p>
+        <p><b>Resources tracked:</b> 9,768</p>
+        <p><b>Active:</b> 9,537 | <b>Inactive:</b> 231</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 38,002</p>
+        <p><b>Archive Files:</b> 38,108</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 47,733 files</p>
-        <p><b>Last Update:</b> 2026-07-08 07:39 IST</p>
+        <p><b>Total Vault Size:</b> 47,876 files</p>
+        <p><b>Last Update:</b> 2026-07-08 09:33 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,20 +210,28 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Medium Rules | by Medium | Medium Policy](ai/rag/medium-rules-by-medium-medium-policy.md)** • Rank: <kbd>+5</kbd>
-- 🔼 **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** • Rank: <kbd>+5</kbd>
-- 🔼 **[stanford-oval/storm](ai/rag/stanford-oval-storm.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Chat Control 1.0 and 2.0 Explained](ai/community/chat-control-1-0-and-2-0-explained.md)** • <kbd>+257 pts</kbd>
+- 🔼 **[Show HN: Davit, a Apple Containers UI](ai/community/show-hn-davit-a-apple-containers-ui.md)** • <kbd>+209 pts</kbd> • Rank: <kbd>+4</kbd>
+- 🔼 **[Why skilled workers come to Germany and then leave again](ai/community/why-skilled-workers-come-to-germany-and-then-leave.md)** • <kbd>+112 pts</kbd>
+- 🔼 **[AI Meets Cryptography 1: What AI Found in Cloudflare's Circl](ai/community/ai-meets-cryptography-1-what-ai-found-in-cloudflar.md)** • <kbd>+63 pts</kbd>
+- 🔼 **[pandoc: Conversion between markup formats](ai/rag/pandoc-conversion-between-markup-formats.md)** • Rank: <kbd>+3149</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[We're extending access to Fable 5 on all paid plans through July 12](ai/community/we-re-extending-access-to-fable-5-on-all-paid-plan.md)** • Score: `95`
+- 🆕 **[Tenda firmware (multiple versions) contains hidden authentication backdoor](ai/community/tenda-firmware-multiple-versions-contains-hidden-a.md)** • Score: `68`
+- 🆕 **[IEEE Rolls Out Large Language Models Training Course](ai/community/ieee-rolls-out-large-language-models-training-cour.md)** • Score: `43`
+- 🆕 **[Show HN: Free Mermaid Diagram Editor](ai/community/show-hn-free-mermaid-diagram-editor.md)** • Score: `19`
+- 🆕 **[node/SECURITY.md at main · nodejs/node · GitHub](ai/rag/nodejs-node.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Automating AI Away](ai/community/automating-ai-away.md)**
+- 💤 **[GitHub Freno: cooperative, highly available throttler service](ai/community/github-freno.md)**
+- 💤 **[Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens](ai/community/kklimuk-docx-cli.md)**
+- 💤 **[Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents](ai/community/bkuan001-halo-record.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

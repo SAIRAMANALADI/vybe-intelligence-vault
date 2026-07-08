@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-07-08T01:48:13.751858+05:30'
+collected_at: '2026-07-08T09:18:24.439479+05:30'
 published_at: '2026-07-07T20:05:47Z'
 tags:
 - agents
-- benchmark
+- dataset
 - github-repo
-- paper
 - rag
 - unknown
 stars: 792
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-05-02T04:18:19Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-07-08T01:48:13.751858+05:30'
-last_seen: '2026-07-08T01:48:13.751858+05:30'
-last_checked: '2026-07-08T01:48:13.751858+05:30'
+first_seen: '2026-07-08T09:18:24.439479+05:30'
+last_seen: '2026-07-08T09:18:24.439479+05:30'
+last_checked: '2026-07-08T09:18:24.439479+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Resource Hub**: Curated collection of state-of-the-art papers, tools, and frameworks focused on **agentic deep research**, including **LLM-driven reasoning agents**, **search agents**, and **RAG-based systems** for advanced knowledge synthesis.
-
-- **Key Topics Covered**: Includes **deep research agents**, **multi-agent collaboration**, **planning-based reasoning**, **adaptive retrieval**, and **evaluation benchmarks** for assessing agentic AI performance in complex research tasks.
-
-- **Updated & Community-Driven**: Actively maintained with contributions from the research community, last updated in **July 2026**, and includes **792 stars** and **64 forks**, indicating strong adoption and engagement.
+- **Curated Resource Hub**: Aggregates state-of-the-art tools, datasets, and methodologies for agentic deep research, focusing on reasoning agents, RAG, and LLM-driven search frameworks.
+- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026's KnowFM initiative, emphasizing knowledge-focused multi-agent systems for advanced research tasks.
+- **High-Activity Repository**: Maintains 792 stars and 64 forks, reflecting active community engagement with frequent updates (last modified: 2026-07-07).
 
 ## Why It Matters
 

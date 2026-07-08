@@ -8,6 +8,7 @@ Well-crafted system and user prompts are the primary mechanism for directing LLM
 
 ## Top Matched Resources
 
+- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (framework - ESSENTIAL Tier)
 - [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (template - USEFUL Tier)
 - [Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms](https://arxiv.org/abs/2605.30169) (framework - USEFUL Tier)
 - [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](https://arxiv.org/abs/2603.15952) (framework - USEFUL Tier)
@@ -15,18 +16,17 @@ Well-crafted system and user prompts are the primary mechanism for directing LLM
 - [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) (framework - USEFUL Tier)
 - [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl) (template - USEFUL Tier)
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) (framework - USEFUL Tier)
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/danielmiessler/fabric (Fabric)
 https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
+- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 - [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research)
 - [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl)
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 - [langfuse/langfuse](https://github.com/langfuse/langfuse)
-- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
-- [gabrielchua/RAGxplorer](https://github.com/gabrielchua/RAGxplorer)
+- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-07-08 02:02 IST*
+*Last updated: 2026-07-08 09:32 IST*

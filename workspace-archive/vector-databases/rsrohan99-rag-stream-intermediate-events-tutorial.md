@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Intermediate LlamaIndex Events Streaming**: Demonstrates real-time streaming of intermediate events from LlamaIndex during RAG (Retrieval-Augmented Generation) to the Vercel AI SDK using Server-Sent Events (SSE).
-- **Vercel AI SDK Integration**: Focuses on proper configuration and handling of SSE to transmit structured intermediate events (e.g., retrieval steps, token generation) for dynamic client-side updates.
-- **TypeScript Implementation**: Provides a TypeScript-based tutorial with pract
+- Demonstrates streaming intermediate LlamaIndex RAG events via Server-Sent Events (SSE) to the Vercel AI SDK for real-time client updates.
+- Implements TypeScript-based event handling to bridge LlamaIndex's event system with Vercel AI SDK's streaming interface.
+- Provides a structured tutorial for integrating intermediate RAG events into a Vercel-compatible streaming pipeline.
 
 ## Use Cases
 

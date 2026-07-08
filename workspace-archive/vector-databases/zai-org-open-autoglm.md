@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Open Phone Agent Model**: Provides an open-source framework (`Open-AutoGLM`) for deploying AI-driven phone agents, enabling autonomous interaction with mobile devices via natural language or structured commands.
+- **Open-AutoGLM Framework**: A Python-based open-source framework designed to enable AI-driven phone agents, facilitating autonomous interaction with mobile devices via agent-based automation.
 
-- **Technical Stack**: Implemented in Python, leveraging agent-based architectures to simulate human-like phone interactions (e.g., calls, SMS, app navigation) with modular components for extensibility.
+- **Agent Architecture**: Implements a modular agent system for phone operations, leveraging large language models (LLMs) to interpret and execute tasks such as calls, messages, and app interactions.
 
-- **Scalability & Integration**: Supports custom model integration (e.g., GLM v
+- **Scalability & Extensibility**: Supports customization via plugin-based extensions, enabling integrat
 
 ## Use Cases
 

@@ -13,7 +13,9 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
+- scripts
 - shell
 - workflows
 selection_reason:
@@ -32,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **OpenClaw-inspired autonomous AI agent** implemented entirely in **n8n**, leveraging **adaptive RAG-powered memory** for dynamic context retention and retrieval.
+- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging adaptive RAG-powered memory, MCP (Model Context Protocol) templates for Skills, and Expert Agents with delegated sub-agents for hierarchical task execution.
 
-- **Modular architecture** with **Skills via MCP templates**, **Expert Agents** (delegated sub-agents), and **proactive task management**, supporting **media understanding** and **self-hosted deployment** via a single setup script.
+- **Capabilities**: Features proactive task management, media understanding, and self-hosted deployment via a single setup script; integrates tools like Crawl4AI for scraping, SearXNG for search, and Supabase for data storage.
 
-- **Integrated tooling stack**: **Crawl4AI** (scraper), **SearXNG** (search engine), **Supabase** (da
+- **Te
 
 ## Use Cases
 

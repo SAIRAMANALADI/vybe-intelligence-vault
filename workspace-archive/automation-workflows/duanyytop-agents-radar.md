@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Automated AI Ecosystem Aggregator**: Daily digest compiling AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
+- **Automated AI Ecosystem Aggregator**: Daily digest compiles AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
 - **Bilingual Reporting**: Generates reports in both Chinese and English, automated through scheduled workflows.
-- **Technical Stack**: Built in TypeScript; last updated on 2026-07-07 with 879 stars and 148 forks.
+- **TypeScript-Based Tool**: Open-source repository (879 stars, 148 forks) last updated on 2026-07-08, with no predefined topics.
 
 ## Use Cases
 

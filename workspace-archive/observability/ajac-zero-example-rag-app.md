@@ -8,10 +8,12 @@ local_vault_path: ai/rag/ajac-zero-example-rag-app.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: tool
+resource_kind: benchmark
 importance: medium
 tags:
+- anthropic
 - github-repo
+- openai
 - rag
 - typescript
 selection_reason:
@@ -25,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: tool
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Tech Stack**: TypeScript-based RAG application with full type-checking, 100% test coverage, and Dockerized deployment.
-- **Observability & Providers**: Integrates Langfuse for LLM observability and supports 100+ LLM providers via LiteLLM.
-- **Metadata**: 159 stars, 24 forks, last updated March 17, 2026, with topics including AI, LLM, and RAG.
+- **Observability & Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for 100+ provider compatibility (e.g., OpenAI, Anthropic, Hugging Face).
+- **Strict Development Standards**: Full TypeScript type-checking, 100% test coverage, and Dockerized deployment for reproducibility.
+- **Modern RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with modular architecture for extensibility and scalability.
 
 ## Use Cases
 
