@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-08T17:06:49.720993+05:30`
+Generated at: `2026-07-08T17:57:03.768196+05:30`
 
 ## Executive Summary
 
@@ -15,6 +15,8 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **2026 Company Logos (External) - Google Drive** - Score: `0` in category `ai/resources` ([Link](https://drive.google.com/drive/folders/1cc_wdd8k7j5wuonbmvtfizh_bayvonym)) ([File](../ai/resources/2026-company-logos-external-google-drive.md))
 - **How Podium optimized agent behavior and reduced engineering intervention by 90% with LangSmith** - Score: `0` in category `ai/agents` ([Link](https://blog.langchain.com/customers-podium)) ([File](../ai/agents/how-podium-optimized-agent-behavior-and-reduced-en.md))
 - **deepset-ai/haystack-experimental** - Score: `0` in category `ai/resources` ([Link](https://github.com/deepset-ai/haystack-experimental)) ([File](../ai/resources/deepset-ai-haystack-experimental.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - Score: `0` in category `ai/rag` ([Link](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f)) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **[BROKEN LINK] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/broken-link.md))
 
 ## Top Trending Resources
 

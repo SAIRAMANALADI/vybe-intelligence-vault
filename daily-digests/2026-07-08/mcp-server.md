@@ -1,43 +1,49 @@
 ---
-title: "evehypoglycaemic255/mcp-server"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Windows OS", "Semantic Search", "Local Storage"]
-quality_score: 6
-rag_relevance: 8
-tags: ["MCP server", "long-term memory", "semantic search", "plugin sandbox", "Windows"]
-source: "https://github.com/evehypoglycaemic255/mcp-server"
-discovered_at: "2026-07-08T11:00:01Z"
+title: "TencentCloudCommunity/mcp-server"
+category: "Tooling"
+tech_stack: ["Go", "MCP (Model Context Protocol)", "Node.js", "Python", "TencentCloud APIs", "STDIO", "RESTful APIs"]
+quality_score: 8
+rag_relevance: 9
+tags: ["MCP", "TencentCloud", "Cloud Integration", "AI Development", "Infrastructure Management"]
+source: "https://github.com/TencentCloudCommunity/mcp-server"
+discovered_at: "2026-07-08T12:25:36Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-mcp-server provides a local Model Context Protocol (MCP) server for Windows, enabling AI workflows to store and retrieve long-term memory, perform semantic searches, and manage plugins in a sandboxed environment. It acts as a lightweight memory layer for AI agents to reduce repeated prompts and maintain context.
+A suite of Model Context Protocol (MCP) servers designed to integrate TencentCloud services with AI workflows, enabling cloud-native development, infrastructure management, and AI-assisted cloud computing through standardized MCP clients.
 
 ## Key Features
-- Persistent memory storage for AI agents via MCP
-- Semantic search for retrieving related context beyond exact matches
-- Plugin sandbox for testing and isolating AI tools
-- Token-efficient design to minimize redundant context
-- Local-first architecture for data privacy and control
+- Provides MCP servers for TencentCloud services (e.g., TAPD, CNB, CloudBase, TCA) to enhance AI workflows
+- Supports both local and remote deployment for flexibility in development environments
+- Enables natural language interactions with TencentCloud services (e.g., project management, code analysis)
+- Integrates with popular MCP clients like Cursor, VS Code, and Windsurf for seamless AI-assisted development
+- Offers pre-configured templates and one-click installation for rapid setup
 
 ## Why It Matters for RAG Builders
-It provides a critical memory layer for RAG pipelines, enabling AI agents to retain and efficiently retrieve long-term context without bloating prompts.
+It bridges TencentCloud services with AI workflows via the MCP protocol, enabling developers to leverage cloud-native tools directly within AI-assisted development environments.
 
 ## Tech Stack Deep Dive
+### Go
+Automated review identified **Go** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TencentCloud APIs
+Automated review identified **TencentCloud APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Windows OS
-Automated review identified **Windows OS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### STDIO
+Automated review identified **STDIO** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Semantic Search
-Automated review identified **Semantic Search** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Local Storage
-Automated review identified **Local Storage** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### RESTful APIs
+Automated review identified **RESTful APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

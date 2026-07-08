@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T17:06:49.720993+05:30",
+  "generated_at": "2026-07-08T17:57:03.768196+05:30",
   "trending_resources": [
     {
       "id": "hackernews:gitlost-we-tricked-github-s-ai-agent-into-leaking",
@@ -350,6 +350,32 @@
       "source_type": "github",
       "url": "https://github.com/deepset-ai/haystack-experimental",
       "file_path": "ai/resources/deepset-ai-haystack-experimental.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:medium-terms-of-service-by-medium-medium-policy",
+      "title": "Medium Terms of Service | by Medium | Medium Policy",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f",
+      "file_path": "ai/rag/medium-terms-of-service-by-medium-medium-policy.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:broken-link",
+      "title": "[BROKEN LINK] - ",
+      "category": "",
+      "source_type": "",
+      "url": "",
+      "file_path": ".github/ISSUE_TEMPLATE/broken-link.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
