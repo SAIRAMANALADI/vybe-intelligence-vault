@@ -2,14 +2,14 @@
 title: Android Mobile App Developer Tools - Android Developers
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://developer.android.com
+source_url: http://developer.android.com/index.html
 resource_id: blog:android-mobile-app-developer-tools-android-develop
 local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - producthunt
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Google Play Billing Updates**: Google Play introduced expanded billing flexibility, reduced fees, and new programs to enhance developer monetization, with details available in the [Q3 updates blog](http://goo.gle/playdev-q3-updates) and a [dedicated video](https://www.youtube.com/watch?v=hcvvo6Sag0Q).
+- **Google Play Billing Updates**: Google Play introduced expanded billing flexibility, reduced fees, and new programs to enhance developer monetization, as detailed in the Q3 2026 updates ([blog](http://goo.gle/playdev-q3-updates), [video](https://www.youtube.com/watch?v=hcvvo6Sag0Q)).
 
-- **Android 17 & XR Platform**: Android 17 (API 37) is officially released with AOSP source code live and Pixel rollout underway; Android XR platform updates include expanded engine support an
+- **Android 17 & XR Platform**: Android 17 (API 37) is now available via AOSP with Pixel rollout; Android XR platform expands engine support and tools for immersive app development ([blog](http://android-develop
 
 ## Use Cases
 
@@ -47,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developer.android.com
+Original source URL: http://developer.android.com/index.html
 
 ## Local Vault File
 

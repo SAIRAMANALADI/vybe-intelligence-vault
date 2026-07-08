@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by JeanKage. Score: 43, Comments: 7.
+Hacker News story by JeanKage. Score: 70, Comments: 10.
 Original Link: https://spectrum.ieee.org/large-language-models-ieee-course
 
 ## Use Cases

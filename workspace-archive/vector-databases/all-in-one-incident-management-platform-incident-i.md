@@ -29,9 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **AI-driven alert filtering**: Reduces noise by prioritizing critical incidents and minimizing unnecessary pages via machine learning.
-- **Automated scheduling**: Optimizes on-call rotations using human-centric algorithms to ensure fair and efficient coverage.
-- **Real-time analytics**: Provides trends and insights via mobile/app dashboards to improve incident response and team performance.
+*   Leverages AI for intelligent alert noise reduction and page suppression, optimizing on-call engineer engagement.
+*   Provides an integrated platform for streamlined on-call scheduling, alerting, and performance trend analysis.
+*   Facilitates efficient incident response by ensuring rapid engagement of appropriate personnel through optimized on-call rotations.
 
 ## Use Cases
 

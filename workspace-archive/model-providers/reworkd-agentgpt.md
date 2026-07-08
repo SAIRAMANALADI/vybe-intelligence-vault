@@ -16,7 +16,6 @@ tags:
 - github-repo
 - openai
 - rag
-- scripts
 - typescript
 selection_reason:
 - Strong keyword match
@@ -36,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Browser-based platform for assembling, configuring, and deploying autonomous AI agents using TypeScript and modern web frameworks (Next.js, T3 Stack).
-- **Key Features**: Integrates with OpenAI, LangChain, and other LLM frameworks; supports agent frameworks like AutoGPT and BabyAGI for AGI-like task automation.
-- **Tech Stack**: Built with TypeScript, leveraging Next.js and the T3 Stack; last updated July 2026 with 36,257 stars and 9,304 forks.
+- **Browser-based autonomous AI agent deployment**: Enables users to assemble, configure, and deploy AI agents directly in the browser without local setup, leveraging TypeScript and modern web frameworks (Next.js/T3 stack).
+
+- **Integration with LLM and agent frameworks**: Supports OpenAI's LLM, LangChain for agent orchestration, and compatibility with AutoGPT/BabyAGI paradigms for autonomous task execution.
+
+- **Open-source ecosystem**: Repository with 36,258+ stars, 9,303+ forks, and active up
 
 ## Use Cases
 

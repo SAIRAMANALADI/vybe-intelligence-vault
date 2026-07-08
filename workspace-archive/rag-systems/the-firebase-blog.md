@@ -2,7 +2,7 @@
 title: The Firebase Blog
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://firebase.blog/
+source_url: https://firebase.blog
 resource_id: blog:the-firebase-blog
 local_vault_path: ai/rag/the-firebase-blog.md
 quality_score: 70
@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Firestore Pipelines GA**: Introduces full-text search and SQL-like JOIN operations in Firestore via pipelines, enhancing NoSQL query capabilities while maintaining real-time sync.
+- **Firestore Pipelines GA**: Introduces full-text search and JOIN-like operations in Firestore via server-side pipelines, enabling complex queries on NoSQL data while maintaining real-time capabilities.
 
-- **Dart Support in Cloud Functions**: Adds Dart as a supported runtime for Firebase Cloud Functions, enabling serverless Dart-based backend development with native Firebase integration.
+- **Dart Support in Cloud Functions**: Adds Dart as a first-class language for Firebase Cloud Functions, expanding backend development options for cross-platform Dart/Flutter applications.
 
-- **Firebase Phone Number Verification (GA)**: Provides general availability for phone number authentication, offering OTP-base
+- **Firebase Phone Number Verification GA**: Rolls out general availability for phone number verification
 
 ## Use Cases
 
@@ -47,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://firebase.blog/
+Original source URL: https://firebase.blog
 
 ## Local Vault File
 

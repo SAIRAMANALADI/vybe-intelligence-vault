@@ -8,7 +8,7 @@ local_vault_path: ai/rag/datawhalechina-hello-agents.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - python
 - rag
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # datawhalechina/hello-agents
@@ -26,17 +26,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Educational Repository**: Provides a comprehensive tutorial (《从零开始构建智能体》) on building intelligent agents from scratch, covering both theoretical principles and practical implementation.
+- **Educational Repository**: Provides a comprehensive tutorial (`《从零开始构建智能体》`) on building intelligent agents from scratch, covering both theoretical principles and practical implementations.
 
-- **Technical Focus**: Covers key AI agent components including **LLM integration**, **Retrieval-Augmented Generation (RAG)**, and agent architecture in Python.
+- **Technical Stack**: Focuses on Python-based agent development, integrating Large Language Models (LLM), Retrieval-Augmented Generation (RAG), and agent frameworks.
 
-- **High Activity**: Maintained repository with **64,716 stars** and **8,026 forks**, last updated in **July 2026**, indicating active community en
+- **Repository Metrics**: Highly active with **64,803 stars** and **8,032 forks**, last updated **July 8, 2026**, indicating strong commun
 
 ## Use Cases
 

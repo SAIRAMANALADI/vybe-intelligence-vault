@@ -6,7 +6,7 @@ source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
 local_vault_path: ai/rag/the-swarm-corporation-multi-agent-rag-template.md
 quality_score: 70
-archive_score: 81
+archive_score: 83
 archive_tier: useful
 resource_kind: template
 importance: medium
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 83 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Integration**: Demonstrates a multi-agent RAG system leveraging **AutoGen, CrewAI, LangChain**, with support for **OpenAI (GPT-3.5/4/5), Anthropic**, and vector DBs (**ChromaDB, Pinecone, Weaviate**).
+- **Multi-Agent Architecture**: Template implements a collaborative AI agent system using frameworks like CrewAI, AutoGen, and Swarms to distribute document processing, analysis, and insight generation tasks across specialized agents.
 
-- **Collaborative Pipeline**: Implements a **swarm-based agent architecture** for parallel document processing, analysis, and insight generation, with optional **Discord integration** for real-time coordination.
+- **RAG Integration**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate) and LLM providers (OpenAI, Anthropic, GPT-3.5/4/5) for retrieval-augmented generation (RAG) workflows with Discord bot integration.
 
-- **Deployment-Ready**: Template includes pre-configured agent roles, r
+- **Modular Python Implementation**: Provi
 
 ## Use Cases
 

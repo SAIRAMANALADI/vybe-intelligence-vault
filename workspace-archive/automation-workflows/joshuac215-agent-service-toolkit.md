@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Integration**: Combines LangGraph for agent orchestration, FastAPI for backend REST services, and Streamlit for frontend UI, enabling full-stack AI agent deployment.
+- **Framework Integration**: Combines LangGraph for agent orchestration, FastAPI for backend REST services, and Streamlit for frontend UI to create a full-stack AI agent system.
 
-- **Modular Architecture**: Provides a structured toolkit for building, managing, and deploying AI agents with reusable components and standardized interfaces.
+- **Modular Architecture**: Provides a structured toolkit for deploying scalable AI agents with configurable components, enabling customization for specific workflows or use cases.
 
-- **Scalability & Extensibility**: Designed for horizontal scaling with FastAPI endpoints and supports custom agent logic via LangGraph’s graph-based workflow
+- **Deployment-Ready**: Includes pre-configured Docker support and API endpoints for rapid deployment of agent services in production envir
 
 ## Use Cases
 

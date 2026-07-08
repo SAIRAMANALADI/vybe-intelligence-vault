@@ -8,7 +8,7 @@ local_vault_path: ai/agents/daveebbelaar-ai-cookbook.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -18,9 +18,8 @@ tags:
 - openai
 - python
 - reddit
-- workflows
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # daveebbelaar/ai-cookbook
@@ -29,15 +28,17 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`daveebbelaar/ai-cookbook`) providing Python-based examples and tutorials for building AI systems, with 4,285 stars and 1,508 forks.
-- **Technical Focus**: Covers agents, AI/ML workflows, LLM integration (Anthropic, OpenAI), and Python implementations for AI system development.
-- **Last Updated**: Repository last updated on **July 7, 2026**, with active maintenance and updates.
+- **Repository Overview**: GitHub repository `daveebbelaar/ai-cookbook` provides practical examples and tutorials for building AI systems, primarily in Python, with a focus on agents, LLMs, and integration with services like Anthropic and OpenAI.
+
+- **Metrics & Activity**: As of the last update (July 7, 2026), the repository has 4,285 stars, 1,508 forks, and is actively maintained with recent commits.
+
+- **Technical Scope**: Covers AI system development with topics including agent frameworks, LL
 
 ## Use Cases
 

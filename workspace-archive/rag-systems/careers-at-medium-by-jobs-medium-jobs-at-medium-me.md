@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Mission & Values**: Medium prioritizes a high-quality, ad-free platform for storytelling, emphasizing diversity, inclusion, and combating harmful content, with hiring strictly via [greenhouse.io](https://job-boards.greenhouse.io/medium) to avoid scams.
+- **Mission & Values**: Medium prioritizes a high-quality, ad-free platform for storytelling, emphasizing diversity, inclusion, and combating harmful content, with a remote-first culture and bi-annual all-company retreats.
 
-- **Remote-First Infrastructure**: Fully remote workforce with stipends for home office setup, Wi-Fi reimbursement, co-working space access, and bi-annual all-company retreats for in-person collaboration.
+- **Scam Alert**: All legitimate job offers are posted exclusively on [Medium’s Greenhouse job board](https://job-boards.greenhouse.io/medium); unsolicited offers via LinkedIn or other platforms are fraudulent.
 
-- **Benefits & Culture**: Offers com
+- **Benefits & Hiring Policy**: Employees receive comprehensive
 
 ## Use Cases
 

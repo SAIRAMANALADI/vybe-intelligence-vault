@@ -15,6 +15,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with a focus on efficiency and performance metrics.
-
-- **Key Features**: Supports evaluation of language models (LLMs), vision-language models (VLMs), and AI-generated content (AIGC), with modular design for customization and integration of new benchmarks.
-
-- **Repository Stats**: 3,039 stars, 417 forks, last updated July 8, 2026; includes topics like evalu
+- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with support for RAG workflows.
+- **Key Features**: Efficient performance benchmarking and evaluation tailored for large-scale model assessment.
+- **Repository Stats**: 3040 stars, 417 forks, last updated 2026-07-08.
 
 ## Use Cases
 

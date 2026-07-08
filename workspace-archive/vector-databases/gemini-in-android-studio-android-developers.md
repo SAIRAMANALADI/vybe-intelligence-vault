@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI Integration**: Android Studio Quail 1 integrates Gemini AI agent for multi-stage Android development tasks (e.g., UI generation, unit test creation, Gradle error resolution) with iterative feedback and execution planning across project files.
+- **Agent Mode** in Android Studio enables multi-stage, goal-driven development tasks (e.g., unit test generation, UI alterations, error fixes) via iterative execution plans across project files, with change review/acceptance workflows.
 
-- **Multimodal & Context-Aware Features**: Supports multimodal inputs (e.g., UI wireframes/images) for code generation, crash analytics via App Quality Insights, and customizable `.aiexclude` files for granular data access control.
+- **Multimodal UI Prototyping** allows direct conversion of wireframe/mockup images into functional Compose UI code, and supports screenshot-based debugging for rapid iteration.
 
-- **Ente
+- **Enterprise-grade features** (via Gemini Code Assist) include IP indemnification
 
 ## Use Cases
 

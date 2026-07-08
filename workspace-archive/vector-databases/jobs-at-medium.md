@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - rag
 - web-crawled
 selection_reason:
@@ -29,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **No active job openings** at Medium as of the latest update.
-- **Job alert system** available for users to receive notifications for future opportunities.
-- **Medium’s mission** remains focused on building the optimal platform for reading and writing online.
+- **Senior Data Platform Engineer Role**: Remote position in the US, focusing on building and optimizing Medium's data infrastructure to support reading/writing operations at scale.
+- **Core Responsibilities**: Design, develop, and maintain scalable data pipelines, storage systems, and analytics platforms to enhance user experience and backend performance.
+- **Technical Stack**: Likely involves expertise in distributed systems, cloud platforms (e.g., AWS/GCP), big data tools (e.g., Spark, Kafka)
 
 ## Use Cases
 

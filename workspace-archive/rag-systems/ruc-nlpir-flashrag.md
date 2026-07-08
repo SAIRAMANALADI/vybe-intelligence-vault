@@ -2,24 +2,17 @@
 title: RUC-NLPIR/FlashRAG
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/RUC-NLPIR/FlashRAG
+source_url: https://github.com/RUC-NLPIR/FlashRAG?source=post_page
 resource_id: github:ruc-nlpir/flashrag
 local_vault_path: ai/rag/ruc-nlpir-flashrag.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
-tags:
-- benchmark
-- dataset
-- github-repo
-- python
-- rag
-- reddit
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # RUC-NLPIR/FlashRAG
@@ -27,19 +20,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experiments.
+- **Efficient RAG Toolkit**: FlashRAG is a Python-based framework optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient retrieval and generation techniques.
 
-- **Benchmark & Datasets**: Includes standardized benchmarks and diverse datasets to evaluate RAG models, enabling reproducible and comparative analysis across different retrieval and generation strategies.
+- **Benchmark & Datasets**: Provides standardized benchmarks and datasets to evaluate RAG models, enabling reproducible and comparable performance assessments.
 
-- **Integration & Extensibility**: Designed for modularity, supportin
+- **Modular & Extensible**: Designed with modularity in mind, supporting custom retrieval strategies, model integrations, and evaluatio
 
 ## Use Cases
 
@@ -49,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/RUC-NLPIR/FlashRAG
+Original source URL: https://github.com/RUC-NLPIR/FlashRAG?source=post_page
 
 ## Local Vault File
 

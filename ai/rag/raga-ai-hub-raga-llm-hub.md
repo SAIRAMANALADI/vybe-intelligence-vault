@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raga-ai-hub/raga-llm-hub
-collected_at: '2026-07-08T09:18:04.474678+05:30'
+collected_at: '2026-07-08T14:18:15.953987+05:30'
 published_at: '2026-06-11T18:44:18Z'
 tags:
 - benchmark
 - github-repo
 - python
 - rag
+- workflows
 stars: 114
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-02T18:32:13Z'
 pushed_at: '2024-09-09T10:53:31Z'
 resource_id: github:raga-ai-hub/raga-llm-hub
-first_seen: '2026-07-08T09:18:04.474678+05:30'
-last_seen: '2026-07-08T09:18:04.474678+05:30'
-last_checked: '2026-07-08T09:18:04.474678+05:30'
+first_seen: '2026-07-08T14:18:15.953987+05:30'
+last_seen: '2026-07-08T14:18:15.953987+05:30'
+last_checked: '2026-07-08T14:18:15.953987+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **LLM Evaluation & Guardrails Framework**: Python-based toolkit for assessing large language models (LLMs) with built-in guardrails to enforce safety, compliance, and performance constraints during inference and evaluation.
-
-- **Security & LLMops Integration**: Supports secure deployment pipelines with security-focused evaluation metrics, adversarial testing, and operational best practices for LLM lifecycle management.
-
-- **Modular Architecture**: Extensible design with pluggable evaluation modules, customizable guardrails, and compatibility with popular LLM frameworks (e.g., Hugging Face, LangChain) for rapid integration.
+- **Purpose-built framework** for evaluating, securing, and implementing guardrails in Large Language Models (LLMs) with a focus on LLMops workflows.
+- **Python-based repository** providing modular tools for LLM evaluation metrics, security checks, and runtime guardrails to mitigate risks like prompt injection or harmful outputs.
+- **Active development** (last updated June 2026) with 114 stars and 14 forks, indicating a growing community for LLM reliability and safety tooling.
 
 ## Why It Matters
 

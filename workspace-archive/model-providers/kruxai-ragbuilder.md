@@ -13,9 +13,9 @@ importance: medium
 tags:
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a Python-based toolkit for constructing production-grade Retrieval Augmented Generation (RAG) pipelines optimized for custom datasets.
-- **Key Features**: Includes modular components for data ingestion, embedding, retrieval, and generation, with support for scalability and deployment-ready configurations.
-- **Technical Stack**: Leverages Python and integrates with GenAI frameworks, focusing on developer tools for efficient RAG system development.
+- **Purpose-built RAG Toolkit**: Provides a Python-based framework for constructing production-grade Retrieval Augmented Generation (RAG) pipelines optimized for custom datasets.
+
+- **Modular Architecture**: Implements configurable components (e.g., embedders, retrievers, LLMs) to enable end-to-end RAG workflows with tunable parameters for performance and scalability.
+
+- **Open-Source & Extensible**: Released under an open-source license (MIT) with active community contributions, supporting inte
 
 ## Use Cases
 

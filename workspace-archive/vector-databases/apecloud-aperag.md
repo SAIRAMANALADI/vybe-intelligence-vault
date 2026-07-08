@@ -6,18 +6,17 @@ source_url: https://github.com/apecloud/ApeRAG
 resource_id: github:apecloud/aperag
 local_vault_path: ai/rag/apecloud-aperag.md
 quality_score: 70
-archive_score: 75
-archive_tier: useful
-resource_kind: benchmark
-importance: medium
+archive_score: 85
+archive_tier: essential
+resource_kind: framework
+importance: high
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # apecloud/ApeRAG
@@ -25,16 +24,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 85 (essential)
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Multi-modal indexing**: Supports structured (knowledge graphs) and unstructured (text, images) data integration with vector embeddings for hybrid retrieval.
-- **Agentic workflows & MCP integration**: Implements AI agents for dynamic query planning and leverages Model Context Protocol (MCP) for tool orchestration.
-- **Scalable K8s deployment**: Containerized architecture with Helm charts for orchestration, enabling horizontal scaling and production-grade resilience.
+*   Implements a production-ready GraphRAG framework featuring multi-modal indexing and AI agent integration.
+*   Provides native support for MCP (Multi-Cloud Platform) environments, enhancing operational versatility.
+*   Architected for scalable deployment and management via Kubernetes, ensuring robust production-grade operations.
 
 ## Use Cases
 

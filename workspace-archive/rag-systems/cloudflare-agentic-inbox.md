@@ -8,7 +8,7 @@ local_vault_path: ai/rag/cloudflare-agentic-inbox.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: dataset
+resource_kind: tool
 importance: medium
 tags:
 - agents
@@ -26,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: dataset
+- Resource kind: tool
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Cloudflare Workers-based Email Client**: Self-hosted email client implemented entirely on Cloudflare Workers, leveraging serverless architecture for scalability and low latency.
-
-- **AI Agent Integration**: Incorporates an AI agent for email processing, enabling features like automated filtering, summarization, and response generation within the client.
-
-- **TypeScript Implementation**: Built using TypeScript, ensuring type safety and modern JavaScript practices while optimizing for Cloudfla
+- **Architecture**: Self-hosted email client leveraging Cloudflare Workers for serverless execution, eliminating traditional backend infrastructure.
+- **AI Integration**: Embedded AI agent processes and manages emails via TypeScript-based Workers, enabling real-time interactions without external dependencies.
+- **Deployment**: Fully containerized via Cloudflare’s platform, ensuring scalability and low-latency performance across global edge networks.
 
 ## Use Cases
 

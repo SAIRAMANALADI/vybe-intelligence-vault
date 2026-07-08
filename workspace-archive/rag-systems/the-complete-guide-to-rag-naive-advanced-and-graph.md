@@ -7,7 +7,7 @@ source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
 local_vault_path: ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md
 quality_score: 70
-archive_score: 78
+archive_score: 80
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -32,7 +32,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 78 (useful)
+- Quality score: 70 | Archive score: 80 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Evolution**: Naive RAG (basic retrieval + generation) evolved into Advanced RAG (hybrid search, reranking, query transformation) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), addressing limitations in accuracy, freshness, and hallucination mitigation.
+- **RAG Evolution & Architecture**: RAG (Retrieval-Augmented Generation) combines retrieval, augmentation, and generation to address LLM limitations (freshness, private knowledge, hallucinations). It evolved from **Naive RAG** (basic vector search + generation) to **Advanced RAG** (hybrid retrieval, reranking, query transformation) to **Graph RAG** (entity-relation graph traversal for multi-hop reasoning), with **Modular RAG** enabling dynamic routing and tool integration.
 
-- **Core RAG Components**: Retrieval (vector/keyword search), Augmentation (context injection), and Generation (LLM reasoning) form the pipeline, with modular and agentic variants enabling dynamic routing, tool i
+- **Core Components &
 
 ## Use Cases
 

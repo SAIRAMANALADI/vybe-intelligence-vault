@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - meta-ai
 - models
 - openai
@@ -37,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Enables building and orchestrating AI agents via Docker Compose, integrating open-source LLMs, tools, and agent runtimes in pre-configured examples.
-- **Key Components**: Supports self-hosted setups with tools like `llama-cpp`, OpenAI Gym, and integrates with agent frameworks; written in TypeScript.
-- **Use Case**: Facilitates deployment of agentic workflows (e.g., LLM-driven agents) in containerized environments for scalable, reproducible AI agent experiments.
+- **Purpose**: Provides Docker Compose configurations to deploy and orchestrate AI agents, integrating open-source LLMs (e.g., llama.cpp), tools, and agent runtimes for self-hosted agentic workflows.
+- **Technical Stack**: TypeScript-based examples with Docker Compose, supporting tools like OpenAI Gym and agent frameworks for scalable agent deployment.
+- **Use Case**: Enables reproducible, containerized AI agent setups with pre-configured examples for rapid prototyping and production deployment.
 
 ## Use Cases
 

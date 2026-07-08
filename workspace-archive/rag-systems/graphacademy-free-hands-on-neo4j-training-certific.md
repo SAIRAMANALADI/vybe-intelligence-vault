@@ -8,9 +8,10 @@ local_vault_path: ai/rag/free-self-paced-hands-on-online-training-free-neo4.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: dataset
 importance: medium
 tags:
+- dataset
 - rag
 - web-crawled
 selection_reason:
@@ -24,18 +25,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Graph Database Fundamentals**: Introduces core concepts of graph databases, emphasizing nodes, relationships, properties, and labels as fundamental building blocks for modeling connected data.
+- **Graph Databases**: Neo4j is a graph database management system designed for efficient storage, management, and querying of highly connected data, leveraging nodes, relationships, and properties for data representation.
 
-- **Neo4j Architecture Overview**: Covers Neo4j’s native graph storage engine, ACID-compliant transactional processing, and the Cypher query language for efficient graph traversal and pattern matching.
+- **Cypher Query Language**: Neo4j uses Cypher, a declarative query language optimized for graph traversal and pattern matching, enabling efficient data retrieval and manipulation in connected datasets.
 
-- **Hands-On Querying**: Provides practical exercises using Cypher to create, read, update, and del
+- **ACID Compliance**: Neo4j ensures data integrity and reliability thro
 
 ## Use Cases
 

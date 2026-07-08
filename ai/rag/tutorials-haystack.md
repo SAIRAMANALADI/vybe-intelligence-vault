@@ -4,12 +4,11 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-07-07T04:16:04.364616+05:30'
-collected_at: '2026-07-07T04:16:04.364623+05:30'
+published_at: '2026-07-08T14:23:14.911223+05:30'
+collected_at: '2026-07-08T14:23:14.911237+05:30'
 tags:
 - agents
 - benchmark
-- hackernews
 - models
 - openai
 - rag
@@ -18,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-07-07T04:16:04.364623+05:30'
-last_seen: '2026-07-07T04:16:04.364623+05:30'
-last_checked: '2026-07-07T04:16:04.364623+05:30'
+first_seen: '2026-07-08T14:23:14.911237+05:30'
+last_seen: '2026-07-08T14:23:14.911237+05:30'
+last_checked: '2026-07-08T14:23:14.911237+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Evaluation Framework**: Haystack provides a guided tutorial for implementing evaluation metrics to assess RAG pipeline performance, covering statistical and model-based evaluation techniques for assessing retrieval and generation quality.
+- **Haystack Evaluation Guide**: Comprehensive tutorial covering evaluation methodologies for assessing RAG and generative QA pipelines using statistical and model-based metrics.
 
-- **Agentic Architectures**: Tutorials demonstrate advanced agentic workflows, including multi-agent systems, tool-calling agents with web search integration, and human-in-the-loop confirmation strategies for controlled AI execution.
+- **Agentic RAG with Fallback Mechanisms**: Tutorials on building multi-agent systems, tool-calling agents, and fallback routing (e.g., web search) for robust RAG pipelines with conditional logic.
 
-- **Multimodal & Structured Pipelines**: Haystack supports multimodal RAG (vision+text), structured output generation via OpenAI/Pydantic, and hybrid retrieval (dense + keyword-based) for enhanced document processing and query routing.
+- **Multimodal & Structured Output Pipelines**: Walkthroughs for creating vision+text RAG pipelines, generating structured outputs with OpenAI/Pydantic, and serializing/deserializing LLM pipelines in YAML/Python.
 
 ## Why It Matters
 
@@ -42,13 +41,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T04:16:04.364616+05:30
+- Published: 2026-07-08T14:23:14.911223+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
-- hackernews
 - models
 - openai
 - rag

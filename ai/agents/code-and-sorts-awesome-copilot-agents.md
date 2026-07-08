@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-07-08T09:18:34.514919+05:30'
+collected_at: '2026-07-08T14:18:45.891681+05:30'
 published_at: '2026-07-07T08:10:44Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-07-08T09:18:34.514919+05:30'
-last_seen: '2026-07-08T09:18:34.514919+05:30'
-last_checked: '2026-07-08T09:18:34.514919+05:30'
+first_seen: '2026-07-08T14:18:45.891681+05:30'
+last_seen: '2026-07-08T14:18:45.891681+05:30'
+last_checked: '2026-07-08T14:18:45.891681+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Repository**: Hosts a structured collection of GitHub Copilot enhancement resources, including instructions, prompts, skills, MCPs, and agent markdown files for AI-driven development workflows.
-- **Technical Scope**: Focuses on TypeScript-based agent skills, prompt engineering, and custom AI agent integrations for GitHub Copilot, VS Code Copilot Chat, and MCP frameworks.
-- **Metadata**: 545 stars, 90 forks, last updated 2026-07-07, covering topics like `agent-skills`, `ai-agents`, and `prompt-engineering`.
+- **Curated Resource**: A GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) providing a structured collection of GitHub Copilot AI enhancement materials, including instructions, prompts, skills, MCPs (Model Context Protocols), and agent markdown files optimized for AI agent interactions.
+- **Technical Scope**: Focuses on advanced GitHub Copilot customization via TypeScript-based agent skills, prompt engineering, and MCP integration, targeting VS Code Copilot Chat for AI-driven development workflows.
+- **Metadata**: 545 stars, 90 forks, last updated July 7, 2026, covering topics like `agent-skills`, `ai-agents`, `prompt-engineering`, and `custom-agents`.
 
 ## Why It Matters
 

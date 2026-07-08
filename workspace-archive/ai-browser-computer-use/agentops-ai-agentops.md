@@ -6,10 +6,10 @@ source_url: https://github.com/AgentOps-AI/agentops
 resource_id: github:agentops-ai/agentops
 local_vault_path: ai/agents/agentops-ai-agentops.md
 quality_score: 70
-archive_score: 85
-archive_tier: essential
+archive_score: 75
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - anthropic
@@ -29,16 +29,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Browser and Computer Use`
-- Quality score: 70 | Archive score: 85 (essential)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Comprehensive AI Agent Monitoring SDK**: Python-based SDK for real-time monitoring, cost tracking, and benchmarking of AI agents, supporting integration with major LMs (OpenAI, Anthropic, Mistral, Groq) and agent frameworks (CrewAI, LangChain, AutoGen, OpenAI Agents SDK, AG2, CamelAI, Agno, Ollama).
+- **Multi-framework Python SDK** for AI agent monitoring, LLM cost tracking, and benchmarking, with compatibility across CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI.
 
-- **Multi-Faceted Agent Evaluation**: Enables performance evaluation via standardized metrics (`evals`), cost estimation (token/usage-based), and logging of agent interactions, facilitating debu
+- **Real-time analytics** for LLM usage, cost estimation (including Anthropic, Groq, Mistral, Ollama, OpenAI), and evaluation metrics (evals) with integration to popular model providers.
+
+- **Open-source toolkit** for agent performance evaluation, debugging, and optimization, last updated July 2026, with 5
 
 ## Use Cases
 

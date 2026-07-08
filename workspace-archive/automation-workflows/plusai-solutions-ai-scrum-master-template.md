@@ -6,7 +6,7 @@ source_url: https://github.com/plusai-solutions/ai-scrum-master-template
 resource_id: github:plusai-solutions/ai-scrum-master-template
 local_vault_path: ai/agents/plusai-solutions-ai-scrum-master-template.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: template
 importance: medium
@@ -16,7 +16,6 @@ tags:
 - github-repo
 - scripts
 - unknown
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -27,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous Development Orchestration**: Uses GitHub Actions and Claude to deploy AI agents under a Scrum framework, enabling autonomous issue-driven project management and execution directly from GitHub repositories.
-
-- **Scrum Framework Integration**: Implements Scrum methodology (sprints, backlogs, standups) via AI agents, automating task assignment, progress tracking, and sprint reviews within the repository.
-
-- **Dynamic Agent Deployment**: AI agents autonomously manage development workf
+*   Orchestrates AI agents via GitHub Actions and Claude to form an autonomous, Scrum-based development team.
+*   Automates project management and build processes by directly interpreting and acting upon GitHub Issues.
+*   Transforms standard repositories into self-governing development pipelines, adhering to the Scrum framework.
 
 ## Use Cases
 

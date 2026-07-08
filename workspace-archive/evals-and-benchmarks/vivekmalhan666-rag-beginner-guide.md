@@ -6,10 +6,10 @@ source_url: https://github.com/VivekMalhan666/rag-beginner-guide
 resource_id: github:vivekmalhan666/rag-beginner-guide
 local_vault_path: ai/rag/vivekmalhan666-rag-beginner-guide.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - github-repo
 - python
@@ -24,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Step-by-step RAG implementation**: Python-based guide for building a Retrieval-Augmented Generation (RAG) system from scratch, emphasizing beginner accessibility and avoiding abstracted frameworks.
+- **Step-by-step RAG implementation**: Python-based guide for building a Retrieval-Augmented Generation (RAG) system from scratch, emphasizing beginner accessibility without relying on abstracted libraries or frameworks.
 
-- **Core components**: Covers document retrieval (vector embeddings, similarity search) and generation (LLM integration) with explicit, non-magical Python code.
+- **Core components**: Covers essential RAG pipeline stages—document ingestion, chunking, vector embedding (e.g., using `sentence-transformers`), retrieval (e.g., FAISS or Chroma), and LLM integration (e.g., Hugging Face Transformers).
 
-- **No external dependencies**: Focuses on minimal, transparent implementations (e.g., `sentence-transformers`, `FAISS`) without propri
+- **No hidden abstractions**: Focuses on
 
 ## Use Cases
 

@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-08T09:17:19.492673+05:30'
+collected_at: '2026-07-08T14:17:30.895759+05:30'
 published_at: '2026-06-30T16:45:55Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 368
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-08T09:17:19.492673+05:30'
-last_seen: '2026-07-08T09:17:19.492673+05:30'
-last_checked: '2026-07-08T09:17:19.492673+05:30'
+first_seen: '2026-07-08T14:17:30.895759+05:30'
+last_seen: '2026-07-08T14:17:30.895759+05:30'
+last_checked: '2026-07-08T14:17:30.895759+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector) and sparse (keyword/BM25) retrieval methods for enhanced document search and context augmentation in LLMs.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector-based) and sparse (keyword/BM25) retrieval methods for enhanced document grounding in LLMs.
 
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined deployment, containerization, and GPU-accelerated inference of the RAG system.
+- **NVIDIA AI Workbench Integration**: Provides a structured example project leveraging NVIDIA's AI Workbench framework for deploying and testing hybrid RAG workflows with GPU acceleration.
 
-- **Python-Based Pipeline**: Includes modular Python components for document preprocessing, retrieval (FAISS/BM25), and LLM inference (e.g., NVIDIA NeMo or other supported models) with GPU optimization.
+- **Python-Based Toolkit**: Includes modular Python code (e.g., retrieval, reranking, and generation components) with dependencies optimized for NVIDIA GPUs (e.g., CUDA, TensorRT).
 
 ## Why It Matters
 

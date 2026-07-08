@@ -21,7 +21,7 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
 - [Home · nltk/nltk Wiki · GitHub](https://github.com/nltk/nltk/wiki)
-- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
+- [truefoundry/cognita](https://github.com/truefoundry/cognita)
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
 - [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
 - [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit)
@@ -40,4 +40,4 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ---
 
-*Last updated: 2026-07-08 09:33 IST*
+*Last updated: 2026-07-08 14:33 IST*

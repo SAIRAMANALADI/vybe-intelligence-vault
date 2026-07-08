@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://kb.cert.org/vuls/id/213560
 hn_url: https://news.ycombinator.com/item?id=48825749
-score: 68
+score: 186
 author: miniBill
-comments_count: 12
+comments_count: 56
 published_at: '2026-07-08T05:38:51+05:30'
-collected_at: '2026-07-08T09:15:37.868634+05:30'
+collected_at: '2026-07-08T14:15:37.053379+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:tenda-firmware-multiple-versions-contains-hidden-a
 first_seen: '2026-07-08T09:15:37.868634+05:30'
-last_seen: '2026-07-08T09:15:37.868634+05:30'
-last_checked: '2026-07-08T09:15:37.868634+05:30'
+last_seen: '2026-07-08T14:15:37.053379+05:30'
+last_checked: '2026-07-08T14:15:37.053379+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by miniBill. Score: 68, Comments: 12.
+Hacker News story by miniBill. Score: 186, Comments: 56.
 Original Link: https://kb.cert.org/vuls/id/213560
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: miniBill
-- Score: 68 Upvotes
-- Comments: 12 Discussions
+- Score: 186 Upvotes
+- Comments: 56 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48825749
 - Original Article: https://kb.cert.org/vuls/id/213560
 

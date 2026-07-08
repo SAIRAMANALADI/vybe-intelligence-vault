@@ -2,7 +2,7 @@
 title: Gemini API | Google AI for Developers
 archive_category: public-apis
 source_category: ai/agents
-source_url: https://ai.google.dev/gemini-api/docs
+source_url: https://ai.google.dev/gemini-api
 resource_id: blog:gemini-api-google-ai-for-developers
 local_vault_path: ai/agents/gemini-api-google-ai-for-developers.md
 quality_score: 70
@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Gemini Deep Research API** introduces collaborative planning, visualization, and MCP (Model Context Protocol) support for enhanced multi-step reasoning and tool integration in preview mode.
-
-- **Multi-language SDKs** (Python, JavaScript, Go, Java, C#) and **REST API** enable programmatic access to Gemini models (e.g., `gemini-3.5-flash`) via standardized `generate_content` calls with structured input/output handling.
-
-- **Model Suite** includes multimodal (Gemini 3.1 Pro), cost-efficient (Ge
+- **Interactions API** is Google's recommended API for agentic workflows, state management, and latest models (e.g., `gemini-3.5-flash`), replacing legacy methods for prompt-to-production pipelines.
+- Supports **multi-modal generation** (text, images via Nano Banana, video via Veo 3.1) and **advanced capabilities** like long-context processing (millions of tokens), structured JSON outputs, and real-time voice agents.
+- Provides **SDKs** (Python, JavaScript) and **REST API** for integration, with
 
 ## Use Cases
 
@@ -47,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://ai.google.dev/gemini-api/docs
+Original source URL: https://ai.google.dev/gemini-api
 
 ## Local Vault File
 

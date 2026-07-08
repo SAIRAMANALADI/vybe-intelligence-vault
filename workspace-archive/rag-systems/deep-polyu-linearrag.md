@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a linear graph-based RAG framework for large-scale corpora, optimizing retrieval efficiency and scalability for LLMs by leveraging linear graph structures to reduce computational overhead while maintaining retrieval accuracy.
-
-- **Graph-Based Retrieval Mechanism**: Introduces a novel linear graph construction method that enables efficient subgraph retrieval and dynamic graph updates, improving over traditional dense retrieva
+*   Introduces LinearRAG, a novel graph-based Retrieval Augmented Generation (RAG) framework.
+*   Optimized for efficient RAG on large-scale corpora via a "linear graph" structure.
+*   Aims to enhance LLM performance by structured retrieval from extensive knowledge graphs.
 
 ## Use Cases
 

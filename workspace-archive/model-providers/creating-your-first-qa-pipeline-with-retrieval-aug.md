@@ -8,7 +8,7 @@ local_vault_path: ai/rag/creating-your-first-qa-pipeline-with-retrieval-aug.md
 quality_score: 70
 archive_score: 76
 archive_tier: useful
-resource_kind: framework
+resource_kind: template
 importance: medium
 tags:
 - anthropic
@@ -30,16 +30,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 76 (useful)
-- Resource kind: framework
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- Uses **Haystack** framework to implement a **Retrieval-Augmented Generation (RAG)** pipeline with components: `InMemoryDocumentStore`, `SentenceTransformersDocumentEmbedder`, `SentenceTransformersTextEmbedder`, `InMemoryEmbeddingRetriever`, `ChatPromptBuilder`, and a `ChatGenerator` (e.g., `OpenAIChatGenerator`, `MistralChatGenerator`, or `TransformersChatGenerator`).
+- **Document Embedding & Storage**: Uses `SentenceTransformersDocumentEmbedder` (e.g., `all-MiniLM-L6-v2`) to generate embeddings for documents, stored in an `InMemoryDocumentStore` via `write_documents()`.
 
-- **Document processing pipeline**: Loads Wikipedia data (e.g., *Seven Wonders of the Ancient World*), embeds documents using
+- **RAG Pipeline Components**: Constructs a pipeline with `SentenceTransformersTextEmbedder` (query embedding), `InMemoryEmbeddingRetriever` (document retrieval), `ChatPromptBuilder` (template-based prompt generation), and a `ChatGenerator` (e.g., `OpenAIChatGenerator`, `MistralChatGenerator
 
 ## Use Cases
 

@@ -3,17 +3,17 @@ title: 'Medium: Read and write stories.'
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://medium.com/
-published_at: '2026-06-25T16:42:13.383125+05:30'
-collected_at: '2026-06-25T16:42:13.383132+05:30'
+source_url: https://medium.com
+published_at: '2026-07-08T14:22:29.323404+05:30'
+collected_at: '2026-07-08T14:22:29.323413+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium-read-and-write-stories
-first_seen: '2026-06-25T16:42:13.383132+05:30'
-last_seen: '2026-06-25T16:42:13.383132+05:30'
-last_checked: '2026-06-25T16:42:13.383132+05:30'
+first_seen: '2026-07-08T14:22:29.323413+05:30'
+last_seen: '2026-07-08T14:22:29.323413+05:30'
+last_checked: '2026-07-08T14:22:29.323413+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- Medium is a content publishing platform leveraging a RESTful API architecture for user authentication (`/signin`, `/membership`) and content delivery (`/sitemap.xml`), with OAuth2-based session management for secure access.
+- Medium is a content publishing platform leveraging XML sitemaps (`/sitemap.xml`) for SEO and discoverability, with core endpoints including `/about`, `/membership`, and `/new-story` for user onboarding and engagement.
 
-- The platform supports dynamic content rendering via CDN-optimized media endpoints (e.g., `miro.medium.com/v2/format:webp`) and client-side JavaScript for progressive loading of stories and user-generated content.
+- Authentication flow uses OAuth2-based sign-in (`/m/signin?operation=login`) and registration (`/m/signin?operation=register`) with JWT-secured redirects, while monetization is facilitated through `/membership` for subscriber management.
 
-- Medium enforces content moderation and monetization policies through a combination of client-side validation (e.g., `medium-rules-30e5502c4eb4`) and server-side policy checks (e.g., `medium-terms-of-service-9db0094a1e0f`), with additional integrations for accessibility (e.g., `speechify.com/medium`).
+- Static assets (e.g., `https://miro.medium.com/v2/format:webp/4*SdjkdS98aKH76I8eD0_qjw.png`) are served via CDN with caching headers, and auxiliary services include `/status` for uptime monitoring, `/jobs-at-medium` for career pages, and third-party integrations like Text-to-Speech (`speechify.com/medium`).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:42:13.383125+05:30
+- Published: 2026-07-08T14:22:29.323404+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://medium.com/
+Original source: https://medium.com

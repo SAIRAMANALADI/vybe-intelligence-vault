@@ -8,7 +8,7 @@ local_vault_path: ai/agents/nousresearch-hermes-agent.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: framework
+resource_kind: template
 importance: medium
 tags:
 - agents
@@ -16,6 +16,7 @@ tags:
 - github-repo
 - openai
 - python
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -27,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: framework
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Modular AI Agent Framework**: Open-source Python-based system (`hermes-agent`) designed for extensible AI agent development, supporting integration with multiple LLMs (OpenAI, Anthropic, etc.) and tools (Claude Code, Codex, etc.) via a plugin architecture.
+- **Multi-Provider LLM Integration**: Hermes-Agent supports multiple large language models (LLMs) including Anthropic's Claude, OpenAI's ChatGPT, and Nous Research's Hermes, enabling cross-platform agentic workflows.
 
-- **Dynamic Skill Acquisition**: Implements lifelong learning capabilities where agents autonomously expand their toolset and knowledge base through interaction, enabling continuous performance improvement without manual retraining.
+- **Dynamic Agentic Framework**: Implements a modular, extensible architecture for autonomous task execution with built-in memory, tool-use (e.g., code execution via `claude-code`), and adaptive learning capabilities.
 
-- **
+- **Open-Source Ecosystem**: Hosted under Apache-2.0 license, i
 
 ## Use Cases
 

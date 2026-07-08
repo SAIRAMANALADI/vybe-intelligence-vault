@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Knative Serving**: Kubernetes-native CRDs (`Service`, `Route`, `Configuration`, `Revision`) for HTTP-triggered autoscaling of stateless workloads, enabling scale-to-zero, traffic splitting, and revision snapshots with immutable deployments.
+- **Knative Serving**: Kubernetes-native CRDs (Services, Routes, Configurations, Revisions) for HTTP-triggered autoscaling of stateless workloads, enabling zero-to-N scaling, traffic splitting (blue-green/canary), and GPU/ML inference via standard Kubernetes resource requests.
 
-- **Knative Eventing**: CloudEvents-compliant event routing via `Broker`, `Trigger`, and `Source` CRDs, decoupling producers/consumers while supporting async event ingestion, filtering, and delivery to `Sink` endpoints (Knative/K8s services or external H
+- **Knative Eventing**: CloudEvents-compliant event mesh using loosely coupled components (Sources, Brokers, Triggers, Sinks) for asynchronous event routing, enabling decoupled producer-consumer architectures with filteri
 
 ## Use Cases
 

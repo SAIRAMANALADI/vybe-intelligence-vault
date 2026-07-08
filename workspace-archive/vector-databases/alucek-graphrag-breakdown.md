@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **GraphRAG Implementation**: Repository provides a technical breakdown of integrating knowledge graphs with Retrieval-Augmented Generation (RAG) using Jupyter Notebooks, including diagrams and executable examples.
-- **Knowledge Graph Integration**: Demonstrates how structured knowledge graphs enhance RAG by improving entity retrieval and contextual reasoning in generative models.
-- **Repository Metadata**: 176 stars, 47 forks, last updated July 6, 2026, focusing on `graphrag`, `knowledge-graph
+- **GraphRAG Architecture**: Demonstrates a knowledge graph-based Retrieval-Augmented Generation (RAG) pipeline, integrating graph structures for enhanced contextual retrieval and generation.
+
+- **Technical Breakdown**: Provides Jupyter Notebook-based examples with diagrams illustrating graph construction, query processing, and retrieval mechanisms in GraphRAG systems.
+
+- **Implementation Focus**: Covers practical aspects of integrating knowledge graphs with LLMs, including indexing, traversal s
 
 ## Use Cases
 

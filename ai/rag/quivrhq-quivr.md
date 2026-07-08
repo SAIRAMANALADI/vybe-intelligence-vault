@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-07-08T09:17:59.454995+05:30'
-published_at: '2026-07-08T03:19:37Z'
+collected_at: '2026-07-08T14:18:10.906631+05:30'
+published_at: '2026-07-08T08:28:16Z'
 tags:
 - frontend_ui
 - github-repo
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-07-08T09:17:59.454995+05:30'
-last_seen: '2026-07-08T09:17:59.454995+05:30'
-last_checked: '2026-07-08T09:17:59.454995+05:30'
+first_seen: '2026-07-08T14:18:10.906631+05:30'
+last_seen: '2026-07-08T14:18:10.906631+05:30'
+last_checked: '2026-07-08T14:18:10.906631+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr provides an opinionated Retrieval-Augmented Generation (RAG) system designed for seamless GenAI integration into applications, abstracting RAG complexities while offering extensive customization (LLMs: GPT4, Groq, Llama; Vector Stores: PGVector, Faiss).
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for LLMs (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss) with flexible file ingestion.
 
-- **Multi-Backend Compatibility**: Supports any file type, integrates with diverse vector databases (PGVector, Faiss), and accommodates multiple LLMs (OpenAI, Groq, Llama), enabling flexible deployment across Python-based backends.
+- **Multi-Platform Compatibility**: Built in Python with TypeScript/React frontend, Docker support, and API-driven architecture, enabling deployment across diverse environments while ensuring privacy and security.
 
-- **Full-Stack Toolkit**: Includes Dockerized deployment, React-based frontend, TypeScript/JavaScript support, PostgreSQL integration, and security/privacy features, facilitating end-to-end GenAI application development.
+- **Extensible & Production-Ready**: Offers integration with OpenAI, PostgreSQL, and other tools, with 39K+ stars and 3.7K+ forks, indicating strong community adoption and continuous updates (last commit: 2026-07-08).
 
 ## Why It Matters
 
@@ -46,10 +46,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: QuivrHQ
 - Stars: 39190
-- Forks: 3718
+- Forks: 3719
 - Language: Python
 - Topics: ai, api, chatbot, chatgpt, database, docker, framework, frontend, groq, html, javascript, llm, openai, postgresql, privacy, rag, react, security, typescript, vector
-- Last Updated: 2026-07-08T03:19:37Z
+- Last Updated: 2026-07-08T08:28:16Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-05-12T23:53:30Z

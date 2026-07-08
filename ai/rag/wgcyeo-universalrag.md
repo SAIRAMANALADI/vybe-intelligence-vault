@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-08T09:18:24.477392+05:30'
+collected_at: '2026-07-08T14:18:35.831477+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
 - benchmark
-- dataset
 - github-repo
+- paper
 - python
 - rag
 stars: 173
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-08T09:18:24.477392+05:30'
-last_seen: '2026-07-08T09:18:24.477392+05:30'
-last_checked: '2026-07-08T09:18:24.477392+05:30'
+first_seen: '2026-07-08T14:18:35.831477+05:30'
+last_seen: '2026-07-08T14:18:35.831477+05:30'
+last_checked: '2026-07-08T14:18:35.831477+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a unified framework enabling retrieval-augmented generation (RAG) across diverse modalities (text, images, tables) and granularities (document, paragraph, sentence levels) without requiring modality-specific adaptations.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling Retrieval-Augmented Generation (RAG) across diverse data modalities (text, images, tables, etc.) and granularities (documents, paragraphs, entities), leveraging unified retrieval and generation mechanisms.
 
-- **Modular Architecture**: Implements a flexible pipeline with modality-agnostic retrievers, modality-specific encoders, and a unified generator, leveraging contrastive learning for cross-modal alignment and dynamic routing for granularity selection.
+- **ACL 2026 Oral Paper**: Presents a novel architecture with experimental validation on heterogeneous corpora, demonstrating superior performance in cross-modal retrieval and generation tasks compared to modality-specific baselines.
 
-- **Benchmark & Performance**: Evaluates on 12 multimodal datasets, demonstrating superior performance over modality-specific baselines (e.g., +12% F1 on MMLU) while maintaining efficiency via shared embedding spaces and adaptive retrieval strategies.
+- **Open-Source Implementation**: Provides a Python-based, modular toolkit with pre-trained models, retrieval pipelines, and evaluation benchmarks, facilitating reproducibility and extension for multimodal RAG research.
 
 ## Why It Matters
 

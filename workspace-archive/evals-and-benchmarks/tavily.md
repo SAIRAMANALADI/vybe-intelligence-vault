@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Live Web Data Retrieval**: `tavily.search()` dynamically fetches real-time web data to provide up-to-date context for AI models.
-- **Structured Content Extraction**: Automatically processes and chunks retrieved data into organized segments, optimizing model input for reasoning.
-- **Hallucination Mitigation**: Enables agents to ground responses in verified, fresh web sources, reducing inaccuracies from outdated or fabricated information.
+- **Real-time Web Data Retrieval**: `tavily.search()` dynamically fetches live web data to provide up-to-date information.
+- **Structured Content Extraction**: Automatically extracts and chunks relevant content from retrieved sources for efficient processing.
+- **Hallucination Mitigation**: Enables agents to reason over factual, structured data to prevent hallucinations in responses.
 
 ## Use Cases
 

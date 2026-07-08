@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by miniBill. Score: 68, Comments: 12.
+Hacker News story by miniBill. Score: 186, Comments: 56.
 Original Link: https://kb.cert.org/vuls/id/213560
 
 ## Use Cases

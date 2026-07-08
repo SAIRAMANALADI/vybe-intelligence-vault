@@ -14,7 +14,7 @@ Langfuse, Ollama, llama.cpp, vLLM, Phoenix.
 *   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse?utm_source=clickhouse&utm_medium=website&utm_campaign=website-nav)
 *   [Sanjeev Arora](https://www.cs.princeton.edu/~arora)
 *   [The Linux Kernel documentation — The Linux Kernel documentation](https://docs.kernel.org/)
-*   [Chat LangChain](https://chat.langchain.com/)
+*   [Hugging Face – The AI community building the future.](https://huggingface.co/)
 
 ## Project Ideas
 *   Self-hosted Ollama server with custom evaluators verifying response quality.

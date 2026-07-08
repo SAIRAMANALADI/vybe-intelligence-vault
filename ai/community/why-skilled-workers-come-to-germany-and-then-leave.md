@@ -13,13 +13,14 @@ collected_at: '2026-07-08T09:15:42.108587+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:why-skilled-workers-come-to-germany-and-then-leave
 first_seen: '2026-07-08T01:45:32.663257+05:30'
 last_seen: '2026-07-08T09:15:42.108587+05:30'
 last_checked: '2026-07-08T09:15:42.108587+05:30'
 health_score: 100
 ---
+
 
 # Why skilled workers come to Germany and then leave again
 

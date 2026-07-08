@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-47%2C876-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-50%2C128-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--08-374151?style=flat-square)](#)
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 9,768</p>
-        <p><b>Active:</b> 9,537 | <b>Inactive:</b> 231</p>
+        <p><b>Resources tracked:</b> 10,203</p>
+        <p><b>Active:</b> 9,969 | <b>Inactive:</b> 234</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 38,108</p>
+        <p><b>Archive Files:</b> 39,925</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 47,876 files</p>
-        <p><b>Last Update:</b> 2026-07-08 13:48 IST</p>
+        <p><b>Total Vault Size:</b> 50,128 files</p>
+        <p><b>Last Update:</b> 2026-07-08 14:33 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,19 +210,27 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+10</kbd>
-- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+10</kbd>
-- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+4</kbd>
+- 🔼 **[Chat Control 1.0 and 2.0 Explained](ai/community/chat-control-1-0-and-2-0-explained.md)** • <kbd>+148 pts</kbd>
+- 🔼 **[Tenda firmware (multiple versions) contains hidden authentication backdoor](ai/community/tenda-firmware-multiple-versions-contains-hidden-a.md)** • <kbd>+118 pts</kbd> • Rank: <kbd>+3</kbd>
+- 🔼 **[We're extending access to Fable 5 on all paid plans through July 12](ai/community/we-re-extending-access-to-fable-5-on-all-paid-plan.md)** • <kbd>+86 pts</kbd>
+- 🔼 **[Show HN: Davit, a Apple Containers UI](ai/community/show-hn-davit-a-apple-containers-ui.md)** • <kbd>+65 pts</kbd>
+- 🔼 **[IEEE Rolls Out Large Language Models Training Course](ai/community/ieee-rolls-out-large-language-models-training-cour.md)** • <kbd>+27 pts</kbd> • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](ai/community/gitlost-we-tricked-github-s-ai-agent-into-leaking.md)** • Score: `128`
+- 🆕 **[Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks](ai/community/copy-that-floppy-cambridge-guide-for-preserving-da.md)** • Score: `61`
+- 🆕 **[Out of the Armchair](ai/community/out-of-the-armchair.md)** • Score: `6`
+- 🆕 **[Firebase Documentation](ai/agents/firebase-documentation.md)** • Score: `0`
+- 🆕 **[googleapis/googleapis](ai/resources/googleapis-googleapis.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Why skilled workers come to Germany and then leave again](ai/community/why-skilled-workers-come-to-germany-and-then-leave.md)**
+- 💤 **[AI Meets Cryptography 1: What AI Found in Cloudflare's Circl](ai/community/ai-meets-cryptography-1-what-ai-found-in-cloudflar.md)**
+- 💤 **[Show HN: Free Mermaid Diagram Editor](ai/community/show-hn-free-mermaid-diagram-editor.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

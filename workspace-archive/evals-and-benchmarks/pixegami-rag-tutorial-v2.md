@@ -12,8 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- meta-ai
-- models
 - python
 - rag
 selection_reason:
@@ -34,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates end-to-end RAG pipeline using local language models (e.g., Ollama, LM Studio) for privacy-preserving inference without API dependencies.
-- **Dynamic Database Updates**: Implements automated document ingestion and vector database (e.g., Chroma, FAISS) refreshes with incremental updates for real-time knowledge retrieval.
-- **Testing Framework**: Includes unit/integration tests (e.g., pytest) for evaluating retrieval quality, LLM response accuracy, and pipe
+- **Local LLM Integration**: Demonstrates how to deploy and utilize local large language models (LLMs) within a Retrieval-Augmented Generation (RAG) pipeline for improved privacy and cost efficiency.
+- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma or FAISS) to ensure retrieved context remains current and relevant.
+- **Testing Framework**: Includes a structured testing suite to validate RAG performance, covering retrieva
 
 ## Use Cases
 

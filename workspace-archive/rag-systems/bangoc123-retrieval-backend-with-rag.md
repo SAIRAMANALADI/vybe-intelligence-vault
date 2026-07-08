@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -33,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline for Vietnamese**: Implements a Retrieval-Augmented Generation (RAG) system optimized for Vietnamese text processing, including document retrieval and response generation components.
-
-- **Modular Python Architecture**: Built with Python, leveraging libraries like `sentence-transformers`, `FAISS` (for vector search), and `FastAPI` for scalable backend deployment.
-
-- **Vietnamese-Specific Optimizations**: Includes language-specific preprocessing (tokenization, stopword removal) and
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) best practices tailored for Vietnamese language processing using Python.
+- **Key Components**: Likely includes vector databases (e.g., FAISS, Chroma), embedding models (e.g., vietnamese-sbert), and LLM integration for contextual retrieval.
+- **Updates**: Last modified on **2026-07-07**, indicating active maintenance or recent enhancements.
 
 ## Use Cases
 

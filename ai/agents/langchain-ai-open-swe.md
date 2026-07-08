@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-07-08T09:18:59.546044+05:30'
-published_at: '2026-07-08T03:23:53Z'
+collected_at: '2026-07-08T14:19:11.003035+05:30'
+published_at: '2026-07-08T07:11:47Z'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-05-21T21:44:24Z'
 pushed_at: '2026-07-08T02:01:56Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-07-08T09:18:59.546044+05:30'
-last_seen: '2026-07-08T09:18:59.546044+05:30'
-last_checked: '2026-07-08T09:18:59.546044+05:30'
+first_seen: '2026-07-08T14:19:11.003035+05:30'
+last_seen: '2026-07-08T14:19:11.003035+05:30'
+last_checked: '2026-07-08T14:19:11.003035+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Open-SWE is an open-source framework designed for building asynchronous coding agents, enabling parallel task execution and efficient LLM integration for code generation and debugging.
+- **Asynchronous Coding Agent**: Implements an open-source, asynchronous coding agent framework in Python, enabling parallel task execution and non-blocking I/O operations for efficient LLM-driven code generation and modification.
 
-- **Multi-LLM & Provider Support**: Supports multiple LLM providers (e.g., OpenAI, Anthropic) and tools (e.g., ClaudeCode) via modular architecture, allowing dynamic agent configuration for diverse coding workflows.
+- **Multi-LLM Integration**: Supports asynchronous interactions with OpenAI and Anthropic (ClaudeCode) LLMs, facilitating real-time code analysis, debugging, and iterative improvements via structured tool calls.
 
-- **Scalable & Extensible**: Implements async-first Python design with pluggable components, facilitating horizontal scaling and customization for enterprise-grade autonomous coding pipelines.
+- **Modular Tooling**: Provides extensible tooling for repository interaction, including file operations, shell commands, and API integrations, optimized for high-throughput agent workflows in collaborative coding environments.
 
 ## Why It Matters
 
@@ -45,10 +45,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: langchain-ai
 - Stars: 10124
-- Forks: 1164
+- Forks: 1163
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-07-08T03:23:53Z
+- Last Updated: 2026-07-08T07:11:47Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z

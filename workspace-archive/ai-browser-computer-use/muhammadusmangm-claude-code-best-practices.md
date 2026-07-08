@@ -35,9 +35,9 @@ selection_reason:
 
 - **Repository Structure & Templates**: Provides `CLAUDE.md` templates and structured workflows for optimizing Claude Code usage, including multi-agent patterns and CLI configurations.
 
-- **Cost & Performance Optimization**: Focuses on cost-efficient practices for LLM interactions via MCP (Model Context Protocol), with Shell-based scripts for automation and resource management.
+- **Cost & Performance Optimization**: Focuses on cost-efficient practices for LLM interactions via MCP (Model Context Protocol) and agentic AI workflows.
 
-- **Agentic AI & Developer Tools**: Curates best practices for agentic AI workflows, Anthropic integration, and develo
+- **Developer Tooling & Best Practices**: Covers setup guidelines, Shell-based automation, and Anthropic-specific optimizations for AI-driven development work
 
 ## Use Cases
 

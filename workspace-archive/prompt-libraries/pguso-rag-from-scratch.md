@@ -17,6 +17,7 @@ tags:
 - meta-ai
 - models
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- Demonstrates Retrieval-Augmented Generation (RAG) implementation using local LLMs with `node-llama-cpp`, eliminating external dependencies for full transparency.
-- Covers end-to-end pipeline: embeddings generation, vector search (likely via cosine similarity or FAISS), retrieval, and context-augmented generation in JavaScript/Node.js.
-- Educational repository targeting developers to understand core RAG mechanics (e.g., chunking strategies, retrieval tuning, prompt engineering) without propriet
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline in JavaScript using `node-llama-cpp` for local LLM integration, avoiding proprietary APIs or black-box systems.
+- **Core Components**: Covers end-to-end RAG workflow—embeddings generation, vector search (likely via cosine similarity), retrieval augmentation, and context-aware prompt engineering for generation.
+- **Educational Focus**: Provides a hands-on tutorial to dissect RAG mechanics (e.g., chunking, indexing, r
 
 ## Use Cases
 

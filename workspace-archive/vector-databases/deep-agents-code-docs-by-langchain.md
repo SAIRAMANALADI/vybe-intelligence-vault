@@ -19,6 +19,7 @@ tags:
 - rag
 - scripts
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Valuable developer reference
@@ -36,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports dynamic switching between LLM providers (OpenAI, Anthropic, Google, etc.) mid-session via `/model` command or CLI flags (`--model`), with persistent memory and approval-gated execution controls.
+- **Multi-Provider LLM Integration**: Supports dynamic switching between any tool-calling LLM (e.g., OpenAI, Anthropic, Google) mid-session via `/model` command, with credentials managed via `/auth` and optional model-specific parameters.
 
-- **Built-in Toolset**: Provides 15+ approval-gated tools including file I/O (`read_file`, `edit_file`), shell execution (`execute`), web search (`web_search`), and subagent delegation (`task`), with configurable human-in-the-loop safeguards.
-
-- **Non-Inter
+- **Human-in-the-Loop & Approval Controls**: Enforces mandatory user approval for destructive operations (e.g., `write_file`, `edit_file`, `execute`) unless bypassed via `--auto-approve` (`-y`), with granular shell command allowlisting (`--shell-allow-list`).
 
 ## Use Cases
 

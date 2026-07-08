@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for AI IDEs (Claude Code, Cursor, Codex CLI)
-- **MCP server-based architecture** integrating RAG, knowledge graphs, and OpenAI-compatible interfaces for codebase-specific intelligence
-- **Python-based template** supporting IDE plugins, MCP ecosystem, and cross-platform developer tool integration
+- **Multi-agent knowledge engine**: Enables grounded Q&A across a codebase with precise file paths and line numbers for AI IDEs (Claude Code, Cursor, Codex CLI).
+
+- **MCP server integration**: Functions as a knowledge graph-backed RAG system, supporting OpenAI, MCP, and other LLM interfaces for contextual code intelligence.
+
+- **Developer tooling**: Provides IDE plugins (Claude, Cursor, Codex CLI) and SDKs for agents, enabling multi-agent collaboration and codebase-specific AI assistance.
 
 ## Use Cases
 

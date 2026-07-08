@@ -8,17 +8,15 @@ local_vault_path: ai/rag/zhengxujosh-awesome-rag-vision.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
-- dataset
 - github-repo
 - hackernews
 - rag
 - unknown
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # zhengxuJosh/Awesome-RAG-Vision
@@ -27,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Curated RAG-Vision Resources**: Repository aggregates advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, including multimodal RAG frameworks, vision-language models, and retrieval-augmented visual question answering (VQA) systems.
-
-- **Multimodal Integration**: Focuses on **cross-modal retrieval** (e.g., text-to-image, image-to-text) and **fusion mechanisms** to enhance vision-language models (VLMs) with external knowledge bases f
+- **Curated Resource**: A structured compilation of advanced RAG techniques specifically tailored for Computer Vision applications, including multimodal retrieval and generation methods.
+- **Repository Metrics**: Hosted on GitHub with 338 stars and 9 forks, last updated on July 3, 2026.
+- **Scope**: Focuses on integrating RAG architectures with vision-based tasks such as image captioning, visual question answering, and cross-modal retrieval.
 
 ## Use Cases
 

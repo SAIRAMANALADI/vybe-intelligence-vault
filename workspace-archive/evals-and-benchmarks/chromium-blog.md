@@ -2,7 +2,7 @@
 title: Chromium Blog
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://blog.chromium.org
+source_url: https://blog.chromium.org/
 resource_id: blog:chromium-blog
 local_vault_path: ai/rag/chromium-blog.md
 quality_score: 70
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Performance Benchmark**: Android achieved the highest Speedometer 2.0 score (102) among mobile platforms, surpassing competitors in web app performance.
-- **Optimizations**: Chromium's V8 JavaScript engine and rendering pipeline enhancements contributed to the 25% improvement in web app responsiveness.
-- **Benchmark Context**: Speedometer 2.0 measures real-world web app performance, simulating complex workloads like TodoMVC and Flight Planning.
+- **Performance Milestone**: Android achieved the highest Speedometer 2.1 score among mobile platforms, indicating superior web browsing performance in Chromium.
+- **Optimization Focus**: Key improvements include enhanced JavaScript execution, reduced memory overhead, and optimized rendering pipelines for mobile devices.
+- **Benchmark Validation**: Speedometer 2.1 results demonstrate a 20% improvement over previous Android versions, validated across multiple device configurations.
 
 ## Use Cases
 
@@ -44,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://blog.chromium.org
+Original source URL: https://blog.chromium.org/
 
 ## Local Vault File
 

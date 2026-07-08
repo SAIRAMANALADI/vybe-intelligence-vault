@@ -16,7 +16,6 @@ tags:
 - github-repo
 - scripts
 - unknown
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous Development Orchestration**: Uses GitHub Actions and Claude to deploy AI agents under a Scrum framework, enabling autonomous issue-driven project management and execution directly from GitHub repositories.
-
-- **Scrum Framework Integration**: Implements Scrum methodology (sprints, backlogs, standups) via AI agents, automating task assignment, progress tracking, and sprint reviews within the repository.
-
-- **Dynamic Agent Deployment**: AI agents autonomously manage development workf
+*   Orchestrates AI agents via GitHub Actions and Claude to form an autonomous, Scrum-based development team.
+*   Automates project management and build processes by directly interpreting and acting upon GitHub Issues.
+*   Transforms standard repositories into self-governing development pipelines, adhering to the Scrum framework.
 
 ## Use Cases
 

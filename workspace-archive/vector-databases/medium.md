@@ -2,7 +2,7 @@
 title: Medium
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=
+source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=
 resource_id: blog:medium
 local_vault_path: ai/rag/medium.md
 quality_score: 70
@@ -26,9 +26,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection & Sources**: Medium collects personal data directly (e.g., account creation, content submission) and automatically (e.g., IP addresses, device identifiers, cookies, reading history). Third-party sources (e.g., social networks, analytics providers) also contribute data, including derived inferences (e.g., location, reading preferences).
+- **License Grant & Content Ownership**: Users retain rights to submitted content but grant Medium a **non-exclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Services (e.g., web, mobile) with attribution, including derivative works (e.g., previews, curated lists).
 
-- **Data Sharing & Third Parties**: Personal information is shared with vendors (e.g., hosting, analytics, fraud prevention), other users (e.
+- **Arbitration & Dispute Resolution**: All disputes (except small claims/IP injunctions) are resolved via **confidential, binding arbitration** under JAMS Rule
 
 ## Use Cases
 
@@ -38,7 +38,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=
+Original source URL: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=
 
 ## Local Vault File
 

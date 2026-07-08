@@ -5,18 +5,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd
-published_at: '2026-07-08T09:16:42.434462+05:30'
-collected_at: '2026-07-08T09:16:42.434475+05:30'
+published_at: '2026-07-08T14:16:53.842158+05:30'
+collected_at: '2026-07-08T14:16:53.842172+05:30'
 tags:
 - openai
 - rag
 - web-crawled
-- workflows
 status: active
 resource_id: blog:build-rag-from-scratch-a-beginners-step-by-step-gu
-first_seen: '2026-07-08T09:16:42.434475+05:30'
-last_seen: '2026-07-08T09:16:42.434475+05:30'
-last_checked: '2026-07-08T09:16:42.434475+05:30'
+first_seen: '2026-07-08T14:16:53.842172+05:30'
+last_seen: '2026-07-08T14:16:53.842172+05:30'
+last_checked: '2026-07-08T14:16:53.842172+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Implements a modular RAG system with document loading (`document_loader.py`), vector storage (`vector_store.py`), and retrieval-augmented generation (`rag_chain.py`), using FAISS for local vector indexing and OpenAI embeddings for semantic search.
+- **RAG Pipeline**: Implements a retrieval-augmented generation system using LangChain, FAISS for vector storage, and OpenAI embeddings to ground responses in retrieved document chunks, preventing hallucinations by restricting answers to provided context.
 
-- **Retrieval-Augmented Generation Workflow**: Splits documents into 300-token chunks with 50-token overlap, converts them into embeddings, stores them in FAISS, and retrieves top-3 relevant chunks via semantic similarity search before passing context to an LLM constrained by a system prompt to prevent hallucinations.
+- **Modular Architecture**: Organizes the system into four core components—`document_loader.py` (splits text into chunks), `vector_store.py` (creates FAISS index), `rag_chain.py` (defines prompt and LLM integration), and `main.py` (orchestrates retrieval and generation)—ensuring separation of concerns and scalability.
 
-- **Zero-Hallucination Mechanism**: Enforces answer grounding by restricting the LLM to the retrieved context and returning "I don't know" for out-of-context queries, demonstrated through a CLI interface (`main.py`) that processes user input against a predefined knowledge base (`company_policy.txt`).
+- **Contextual Constraint**: Uses a system prompt to enforce strict adherence to retrieved context, returning "I don't know" for out-of-scope queries, thereby eliminating hallucinations while maintaining factual accuracy in responses.
 
 ## Why It Matters
 
@@ -38,14 +37,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T09:16:42.434462+05:30
+- Published: 2026-07-08T14:16:53.842158+05:30
 
 ## Related Tags
 
 - openai
 - rag
 - web-crawled
-- workflows
 
 ## Source
 

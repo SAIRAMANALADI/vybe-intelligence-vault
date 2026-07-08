@@ -4,25 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PierreGode/Ragnar
-collected_at: '2026-07-08T09:17:59.420125+05:30'
-published_at: '2026-07-07T22:56:32Z'
+collected_at: '2026-07-08T14:18:10.863827+05:30'
+published_at: '2026-07-08T05:42:25Z'
 tags:
 - github-repo
 - hackernews
 - paper
 - python
 - rag
+- workflows
 stars: 676
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-11-01T03:12:25Z'
-pushed_at: '2026-07-08T02:27:31Z'
+pushed_at: '2026-07-08T08:07:39Z'
 resource_id: github:pierregode/ragnar
-first_seen: '2026-07-08T09:17:59.420125+05:30'
-last_seen: '2026-07-08T09:17:59.420125+05:30'
-last_checked: '2026-07-08T09:17:59.420125+05:30'
+first_seen: '2026-07-08T14:18:10.863827+05:30'
+last_seen: '2026-07-08T14:18:10.863827+05:30'
+last_checked: '2026-07-08T14:18:10.863827+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Ragnar is an offensive security tool designed for Raspberry Pi with a 2.13-inch e-Paper HAT, enabling network scanning, target discovery, open port identification, exposed service detection, and vulnerability assessment.
-- **Technical Stack**: Implemented in Python, it leverages hardware-specific features (e-Paper HAT) for display and portability while focusing on network reconnaissance and security auditing.
-- **Metadata**: 676 stars, 60 forks, last updated on 2026-07-07; categorized under network security and offensive tools with no additional topics listed.
+- **Purpose & Capabilities**: Ragnar is an offensive security tool designed for Raspberry Pi, integrating a 2.13-inch e-Paper HAT for network scanning, target discovery, open port identification, exposed service detection, and vulnerability assessment.
+
+- **Technical Stack**: Implemented in Python, leveraging modular design for extensibility and integration with offensive security workflows.
+
+- **Hardware Integration**: Utilizes a 2.13-inch e-Paper HAT for low-power, high-contrast display of scan results, optimized for portable deployment.
 
 ## Why It Matters
 
@@ -45,11 +48,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 60
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-07T22:56:32Z
+- Last Updated: 2026-07-08T05:42:25Z
 - License: MIT
 - Archived: No
 - Created At: 2025-11-01T03:12:25Z
-- Pushed At: 2026-07-08T02:27:31Z
+- Pushed At: 2026-07-08T08:07:39Z
 
 ## Possible Use Cases
 

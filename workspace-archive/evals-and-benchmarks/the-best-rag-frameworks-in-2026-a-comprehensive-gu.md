@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Dominates 2026 RAG frameworks with 700+ integrations, LangGraph for agentic workflows, and modular chains for retrieval/reranking/generation; ideal for complex, stateful pipelines but has a steep learning curve and is code-heavy.
+- **LangChain (2026)**: Dominates RAG with 700+ integrations, LangGraph for agentic workflows, and modular chains for retrieval/reranking/generation; optimized for complex, stateful pipelines with production-grade observability via LangSmith. Supports dense/sparse retrieval across vector stores (Pinecone, Weaviate) and excels in multi-tool integration.
 
-- **LlamaIndex**: Optimized for production-grade indexing and retrieval with multimodal support (text/images/PDFs), advanced query engines, and 100+ data source integrations; excels in knowledge-intensive applications but lacks native agentic features
+- **LlamaIndex (2026)**: Specializes in advanced indexing and retrieval for knowledge-intensive applications, supporting multimodal data (text,
 
 ## Use Cases
 

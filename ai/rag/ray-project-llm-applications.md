@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-07-08T09:18:14.486120+05:30'
+collected_at: '2026-07-08T14:18:25.890853+05:30'
 published_at: '2026-07-07T17:41:17Z'
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
 - openai
 - rag
-- workflows
 stars: 1857
 language: Jupyter Notebook
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-07-08T09:18:14.486120+05:30'
-last_seen: '2026-07-08T09:18:14.486120+05:30'
-last_checked: '2026-07-08T09:18:14.486120+05:30'
+first_seen: '2026-07-08T14:18:25.890853+05:30'
+last_seen: '2026-07-08T14:18:25.890853+05:30'
+last_checked: '2026-07-08T14:18:25.890853+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving and Llama2/OpenAI models for inference.
-- **Fine-Tuning & Serving**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve for scalable inference.
-- **Multi-Model & Tooling Support**: Covers integration with Anyscale, OpenAI APIs, and other tools for end-to-end LLM application development.
+*   Provides a comprehensive guide for building production-ready RAG-based LLM applications.
+*   Demonstrates scalable serving and deployment strategies utilizing Ray and Anyscale.
+*   Covers integration with Llama2 and OpenAI models, including fine-tuning techniques.
 
 ## Why It Matters
 

@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Integration**: Demonstrates a multi-agent RAG system leveraging **AutoGen, CrewAI, LangChain**, with support for **OpenAI (GPT-3.5/4/5), Anthropic**, and vector DBs (**ChromaDB, Pinecone, Weaviate**).
+- **Multi-Agent Architecture**: Template implements a collaborative AI agent system using frameworks like CrewAI, AutoGen, and Swarms to distribute document processing, analysis, and insight generation tasks across specialized agents.
 
-- **Collaborative Pipeline**: Implements a **swarm-based agent architecture** for parallel document processing, analysis, and insight generation, with optional **Discord integration** for real-time coordination.
+- **RAG Integration**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate) and LLM providers (OpenAI, Anthropic, GPT-3.5/4/5) for retrieval-augmented generation (RAG) workflows with Discord bot integration.
 
-- **Deployment-Ready**: Template includes pre-configured agent roles, r
+- **Modular Python Implementation**: Provi
 
 ## Use Cases
 

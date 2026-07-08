@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e
-published_at: '2026-06-24T20:50:55.361215+05:30'
-collected_at: '2026-06-24T20:50:55.361229+05:30'
+published_at: '2026-07-08T14:24:22.050600+05:30'
+collected_at: '2026-07-08T14:24:22.050615+05:30'
 tags:
 - rag
 - reddit
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:careers-at-medium-by-jobs-medium-jobs-at-medium-me
-first_seen: '2026-06-24T20:50:55.361229+05:30'
-last_seen: '2026-06-24T20:50:55.361229+05:30'
-last_checked: '2026-06-24T20:50:55.361229+05:30'
+first_seen: '2026-07-08T14:24:22.050615+05:30'
+last_seen: '2026-07-08T14:24:22.050615+05:30'
+last_checked: '2026-07-08T14:24:22.050615+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Mission & Values**: Medium prioritizes a high-quality, ad-free platform for storytelling, emphasizing diversity, inclusion, and combating harmful content, with hiring strictly via [greenhouse.io](https://job-boards.greenhouse.io/medium) to avoid scams.
+- **Mission & Values**: Medium prioritizes a high-quality, ad-free platform for storytelling, emphasizing diversity, inclusion, and combating harmful content, with a remote-first culture and bi-annual all-company retreats.
 
-- **Remote-First Infrastructure**: Fully remote workforce with stipends for home office setup, Wi-Fi reimbursement, co-working space access, and bi-annual all-company retreats for in-person collaboration.
+- **Scam Alert**: All legitimate job offers are posted exclusively on [Medium’s Greenhouse job board](https://job-boards.greenhouse.io/medium); unsolicited offers via LinkedIn or other platforms are fraudulent.
 
-- **Benefits & Culture**: Offers comprehensive health/retirement benefits, unlimited PTO, mental health support, and a creative environment fostering experimentation, collaboration, and professional development.
+- **Benefits & Hiring Policy**: Employees receive comprehensive health insurance, 401(k), unlimited PTO, and stipends for home office/Wi-Fi; Medium discourages AI-generated applications, favoring human-driven creativity in hiring.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T20:50:55.361215+05:30
+- Published: 2026-07-08T14:24:22.050600+05:30
 
 ## Related Tags
 

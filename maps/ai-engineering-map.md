@@ -12,9 +12,9 @@ LiteLLM, LangChain, OpenAI API, Anthropic SDK.
 ## Recommended Resources from the Vault
 *   [haystack-tutorials/Contributing.md at main · deepset-ai/haystack-tutorials · GitHub](https://github.com/deepset-ai/haystack-tutorials/blob/main/Contributing.md#contributing-to-haystack-tutorials)
 *   [Haystack](https://discord.com/invite/xYvH6drSmA)
+*   [CHARLIE: An On-Premise Multi-Agent Retrieval-Augmented Generation System for Evidential Reasoning in Forensic Science](https://arxiv.org/abs/2607.05428)
 *   [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers)
 *   [crewAIInc/crewAI Release: 1.14.8a5](https://github.com/crewaiinc/crewai)
-*   [langfuse/langfuse](https://github.com/langfuse/langfuse)
 
 ## Project Ideas
 *   Build an API router that fallbacks to a smaller LLM when rate limits are hit.

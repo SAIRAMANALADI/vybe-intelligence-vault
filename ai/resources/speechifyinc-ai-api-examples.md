@@ -4,10 +4,11 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SpeechifyInc/ai-api-examples
-collected_at: '2026-07-07T23:09:12.932375+05:30'
+collected_at: '2026-07-08T14:23:11.219045+05:30'
 published_at: '2026-06-02T20:42:47Z'
 tags:
 - github-repo
+- hackernews
 - html
 stars: 9
 language: HTML
@@ -17,9 +18,9 @@ archived: false
 created_at: '2024-06-06T14:45:06Z'
 pushed_at: '2026-02-24T10:31:44Z'
 resource_id: github:speechifyinc/ai-api-examples
-first_seen: '2026-07-07T23:09:12.932375+05:30'
-last_seen: '2026-07-07T23:09:12.932375+05:30'
-last_checked: '2026-07-07T23:09:12.932375+05:30'
+first_seen: '2026-07-08T14:23:11.219045+05:30'
+last_seen: '2026-07-08T14:23:11.219045+05:30'
+last_checked: '2026-07-08T14:23:11.219045+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Official examples for integrating and using the Speechify AI API, hosted on GitHub.
-- **Metadata**: 9 stars, 2 forks, primarily HTML-based, last updated on 2026-06-02.
-- **Access**: Available at `https://github.com/SpeechifyInc/ai-api-examples`.
+- **Repository Overview**: Official collection of example implementations for the Speechify AI API, hosted on GitHub with minimal community engagement (9 stars, 2 forks).
+- **Technical Stack**: Entirely written in HTML, indicating static or lightweight frontend examples for API integration.
+- **Last Activity**: Last updated on **2026-06-02**, suggesting recent but infrequent maintenance.
 
 ## Why It Matters
 

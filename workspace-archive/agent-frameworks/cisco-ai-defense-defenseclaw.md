@@ -6,7 +6,7 @@ source_url: https://github.com/cisco-ai-defense/defenseclaw
 resource_id: github:cisco-ai-defense/defenseclaw
 local_vault_path: ai/agents/cisco-ai-defense-defenseclaw.md
 quality_score: 70
-archive_score: 75
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -16,6 +16,7 @@ tags:
 - hackernews
 - python
 selection_reason:
+- Strong keyword match
 - Useful for project building
 ---
 
@@ -24,18 +25,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Purpose**: DefenseClaw is a Python-based framework designed for **security governance in agentic AI systems**, enabling policy enforcement, threat detection, and compliance monitoring in AI-driven environments.
+- **Purpose**: DefenseClaw provides a security governance framework specifically designed for agentic AI systems, ensuring compliance, risk management, and operational integrity in AI-driven environments.
 
-- **Core Features**: Implements **runtime policy enforcement** for AI agents, integrates **real-time threat detection** mechanisms, and supports **audit logging** for compliance and forensic analysis.
+- **Technical Stack**: Implemented in Python, it likely integrates with AI agent frameworks (e.g., LangChain, AutoGen) to enforce security policies, monitor agent behavior, and mitigate threats in real-time.
 
-- **Technical Stack**: Built in Python with modular architecture for extensibility
+- **Key Features**: Includes policy enforcement, audit logging, threat detection, and
 
 ## Use Cases
 

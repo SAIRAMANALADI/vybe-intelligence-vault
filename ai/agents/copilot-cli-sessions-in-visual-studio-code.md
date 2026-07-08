@@ -4,18 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
-published_at: '2026-06-25T20:51:13.267762+05:30'
-collected_at: '2026-06-25T20:51:13.267776+05:30'
+published_at: '2026-07-08T14:26:04.438761+05:30'
+collected_at: '2026-07-08T14:26:04.438774+05:30'
 tags:
 - agents
 - openai
-- scripts
 - web-crawled
 status: active
 resource_id: blog:copilot-cli-sessions-in-visual-studio-code
-first_seen: '2026-06-25T20:51:13.267776+05:30'
-last_seen: '2026-06-25T20:51:13.267776+05:30'
-last_checked: '2026-06-25T20:51:13.267776+05:30'
+first_seen: '2026-07-08T14:26:04.438774+05:30'
+last_seen: '2026-07-08T14:26:04.438774+05:30'
+last_checked: '2026-07-08T14:26:04.438774+05:30'
 health_score: 100
 ---
 
@@ -23,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via GitHub Copilot CLI, managed through the Chat view; supports parallel execution, worktree/folder isolation modes, and slash commands (`/research`, `/yolo`, etc.) for task automation.
+- **Copilot CLI Sessions**: Background agent sessions run autonomously via GitHub Copilot CLI, managed from VS Code's Chat view; support parallel execution, slash commands (`/research`, `/yolo`), and two isolation modes (Worktree/Folder) for codebase changes.
 
-- **Isolation & Permissions**: Worktree isolation (Git worktree) auto-approves tools (Bypass Approvals), while folder isolation allows Default Approvals, Bypass Approvals, or Autopilot modes; worktree requires Git repository workspace.
+- **Isolation & Permissions**: Worktree isolation auto-bypasses approvals (Git worktree-based), while Folder isolation offers Default/Bypass/Autopilot modes; permissions depend on isolation type and require Git repository for Worktree.
 
-- **Session Management**: Sessions initiated via Chat view, Command Palette, or CLI; supports multi-repository workspaces, handoff from local agents, and deep research via dedicated `/research` agent; SDK enables start/stop/monitoring outside VS Code.
+- **Session Management**: Created via Chat view or `Chat: New Copilot CLI` command; supports multi-repository workspaces, custom agents, and deep research tasks; integrates with Copilot SDK for lifecycle control (start/stop/monitor).
 
 ## Why It Matters
 
@@ -37,13 +36,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-25T20:51:13.267762+05:30
+- Published: 2026-07-08T14:26:04.438761+05:30
 
 ## Related Tags
 
 - agents
 - openai
-- scripts
 - web-crawled
 
 ## Source

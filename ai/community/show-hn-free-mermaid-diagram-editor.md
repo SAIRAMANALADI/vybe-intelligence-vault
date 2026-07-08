@@ -13,13 +13,14 @@ collected_at: '2026-07-08T09:15:41.464064+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-free-mermaid-diagram-editor
 first_seen: '2026-07-08T09:15:41.464064+05:30'
 last_seen: '2026-07-08T09:15:41.464064+05:30'
 last_checked: '2026-07-08T09:15:41.464064+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Free Mermaid Diagram Editor
 

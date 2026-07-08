@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform desktop app framework** leveraging Chromium, Node.js, and V8 to enable JavaScript/HTML/CSS-based applications with native OS integration.
-- **Core architecture** combines a minimal Chromium distribution with Node.js bindings, exposing APIs for low-level system access (e.g., native modules, IPC).
-- **Performance-critical runtime** optimized via V8 engine, supporting ES6+ features and enabling native addon development through C++ bindings.
+- **Cross-platform desktop app framework** leveraging Chromium (Blink), Node.js, and V8 JavaScript engine to build native applications using HTML, CSS, and JavaScript.
+
+- **Core architecture** integrates a modified Chromium browser engine with Node.js runtime, enabling direct access to low-level system APIs via JavaScript.
+
+- **Build system** relies on GN (Generate Ninja) and Ninja for compilation, supporting Windows (MSVC), macOS (Clang), and Linux (GCC/Clang) with Electron-specific optimizatio
 
 ## Use Cases
 

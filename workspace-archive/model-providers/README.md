@@ -8,25 +8,25 @@ Understanding the pricing, capabilities, and APIs of different model providers i
 
 ## Top Matched Resources
 
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) (framework - ESSENTIAL Tier)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (framework - ESSENTIAL Tier)
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app) (workflow - ESSENTIAL Tier)
+- [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) (framework - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - ESSENTIAL Tier)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (api - ESSENTIAL Tier)
+- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) (template - ESSENTIAL Tier)
+- [ray-project/llm-applications](https://github.com/ray-project/llm-applications) (tutorial - ESSENTIAL Tier)
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
-- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/openai/openai-python (OpenAI SDK)
 https://github.com/google/generative-ai-python (Gemini SDK)
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
+- [langgenius/dify](https://github.com/langgenius/dify)
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
-- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
-- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
+- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
+- [ray-project/llm-applications](https://github.com/ray-project/llm-applications)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/google/generative-ai-python (Gemini SDK)
 
 ---
 
-*Last updated: 2026-07-08 09:32 IST*
+*Last updated: 2026-07-08 14:32 IST*

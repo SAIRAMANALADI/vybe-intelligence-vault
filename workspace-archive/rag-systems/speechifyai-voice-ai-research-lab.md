@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Performance & Cost**: SpeechifyAI's Simba 3.2 model achieves **2nd place on Voice Arena's US English TTS leaderboard** (real-time streaming), with **$6 per million characters** pricing—significantly lower than competitors like the flagship model at **$50 per million**.
+- **Simba 3.2 TTS Model**: Streaming-native architecture with sub-100ms latency, outperforming competitors on the [Artificial Analysis TTS leaderboard](https://artificialanalysis.ai/text-to-speech/leaderboard/selected-voice?top-models=true) while remaining cost-effective; features finer-grained emotional control via SSML prosody and curated voice set.
 
-- **Technical Capabilities**:
-  - **Zero-shot voice cloning** from **10-second reference clips**, capturing timbre, cadence, and micro-expressions.
-  - **Emotion control** via prosody modeling (speed, pitch, rhythmic/tonal pa
+- **Zero-Shot Voice Cloning & Multilingual Synthesis**: Clones speaker identity (timbre, cadence, micro-expressions) from ≥10s reference audio; s
 
 ## Use Cases
 

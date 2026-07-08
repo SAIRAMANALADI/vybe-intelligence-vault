@@ -26,9 +26,11 @@ selection_reason:
 
 ## Summary
 
-- **Medium’s sitemap (`/sitemap.xml`)** provides structured XML indexing of all published content, enabling efficient crawler discovery and SEO optimization.
-- **User authentication endpoints** (`/m/signin`, `/m/register`) use OAuth2-based redirects with `utm_source` tracking parameters for session management and analytics.
-- **Content categorization** via `/blog/all?topic=product` and `/blog/all?source=...` employs dynamic URL query parameters to filter posts by topic and source, leveraging Med
+- **Medium’s sitemap.xml** provides structured indexing of all published content, enabling efficient crawler-based discovery and SEO optimization for the platform.
+
+- **Medium’s navigation and authentication flows** leverage parameterized redirects (e.g., `?operation=login&redirect=`) to manage user sessions and post-authentication routing.
+
+- **Medium’s editorial and product updates** are organized into categorized feeds (e.g., `/all?topic=product`) with a 5+ editor team curating content, along
 
 ## Use Cases
 

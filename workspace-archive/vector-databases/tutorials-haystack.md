@@ -8,12 +8,11 @@ local_vault_path: ai/rag/tutorials-haystack.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
 - benchmark
-- hackernews
 - models
 - openai
 - rag
@@ -21,7 +20,7 @@ tags:
 - web-crawled
 - workflows
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Tutorials | Haystack
@@ -30,17 +29,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Evaluation Framework**: Haystack provides a guided tutorial for implementing evaluation metrics to assess RAG pipeline performance, covering statistical and model-based evaluation techniques for assessing retrieval and generation quality.
+- **Haystack Evaluation Guide**: Comprehensive tutorial covering evaluation methodologies for assessing RAG and generative QA pipelines using statistical and model-based metrics.
 
-- **Agentic Architectures**: Tutorials demonstrate advanced agentic workflows, including multi-agent systems, tool-calling agents with web search integration, and human-in-the-loop confirmation strategies for controlled AI execution.
+- **Agentic RAG with Fallback Mechanisms**: Tutorials on building multi-agent systems, tool-calling agents, and fallback routing (e.g., web search) for robust RAG pipelines with conditional logic.
 
-- **Multimodal & Stru
+- **Multimodal & Structured Output Pipelines**: Walkthroughs for creating vision+text RAG pipelines, generating structured
 
 ## Use Cases
 

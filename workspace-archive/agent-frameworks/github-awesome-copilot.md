@@ -13,7 +13,10 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
+- scripts
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -30,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-*   Aggregates community-contributed instructions, configurations, and agent definitions for GitHub Copilot optimization.
-*   Focuses on prompt engineering and custom agent development to extend Copilot's AI-driven code generation capabilities.
-*   Primarily utilizes Python for implementing agent skills and configurations within the Copilot ecosystem.
+- **Curated Resource Hub**: Aggregates community-driven guides, agents, skills, and configurations to optimize GitHub Copilot usage, covering prompt engineering, custom agents, and AI-driven workflows.
+
+- **Technical Scope**: Primarily Python-based, with focus on agent-skills, hacktoberfest contributions, and advanced Copilot integrations for automation and AI-assisted development.
+
+- **Active Maintenance**: Last updated July 2026, ensuring relevance with ongoing updates, forks (4,522), and star
 
 ## Use Cases
 

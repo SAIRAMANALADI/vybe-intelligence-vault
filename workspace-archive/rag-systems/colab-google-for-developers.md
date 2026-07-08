@@ -2,13 +2,13 @@
 title: Colab | Google for Developers
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://colab.google
+source_url: https://developers.google.com/colab
 resource_id: blog:colab-google-for-developers
 local_vault_path: ai/rag/colab-google-for-developers.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -27,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Cloud-hosted Jupyter Notebooks** with pre-configured runtimes, offering zero-setup environments and free access to GPUs/TPUs for accelerated ML workflows.
+- **Zero-setup cloud notebooks**: Hosted Jupyter Notebook service with pre-configured runtimes, free GPU/TPU access, and seamless Google Drive integration for instant collaboration.
 
-- **AI-driven features** including natural language code generation, debugging, autonomous analysis via Gemini, and effortless code transformation/optimization.
+- **AI-driven coding assistance**: Natural language prompts generate, explain, debug, and optimize code via Gemini; supports autonomous data analysis and model building without infrastructure overhead.
 
-- **Enterprise-grade security & scalability** via Vertex AI/Google Cloud, with IAM-managed workspaces, regional storage (Dataform), and Pro/Pro+ tiers for extended compute (24h b
+- **Enterprise-grade scalability**: IAM-secured workspaces with regional storage (Dataform), Vertex AI integration
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://colab.google
+Original source URL: https://developers.google.com/colab
 
 ## Local Vault File
 

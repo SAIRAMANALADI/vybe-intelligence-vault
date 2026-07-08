@@ -6,10 +6,10 @@ source_url: https://codeql.github.com/docs
 resource_id: blog:codeql-documentation
 local_vault_path: ai/rag/codeql-documentation.md
 quality_score: 70
-archive_score: 75
-archive_tier: useful
+archive_score: 85
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - rag
 - web-crawled
@@ -22,16 +22,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 85 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **CodeQL** treats code as data, enabling vulnerability detection via declarative queries to identify and eliminate recurring security flaws across codebases.
-- Supports **multiple languages/frameworks** (e.g., C/C++, Java, Python, JavaScript) with **CWE coverage** documented for vulnerability mapping in the latest release.
-- Provides **CLI, VS Code extension, and open-source repository** for query execution, development, and community-driven contributions to standard libraries and queries.
+- **CodeQL Overview**: CodeQL treats code as data, enabling vulnerability detection via structured queries; supported languages/frameworks, CWEs, and system requirements are documented in release resources.
+
+- **Query Development**: CodeQL queries are written in QL (a Datalog-derived language); language-specific guides, puzzles, and CLI tools facilitate query creation, execution, and analysis across codebases.
+
+- **Resources & Extensibility**: Official CLI, VS Code extension, and GitHub reposito
 
 ## Use Cases
 

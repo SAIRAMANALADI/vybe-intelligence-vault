@@ -8,16 +8,15 @@ local_vault_path: ai/agents/langchain-opentutorial-langchain-opentutorial.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # LangChain-OpenTutorial/LangChain-OpenTutorial
@@ -26,15 +25,17 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Purpose**: Comprehensive tutorial repository for LangChain and LangGraph, designed to educate users on agent-based systems using Jupyter Notebooks.
-- **Technical Stack**: Focuses on LangChain (a framework for building LLM-powered applications) and LangGraph (a graph-based orchestration tool for complex workflows).
-- **Repository Metrics**: 1,088 stars, 341 forks, last updated July 7, 2026, with topics including agent architectures and LLM integration.
+- **Purpose**: Comprehensive tutorial repository for LangChain and LangGraph, designed to educate users on building AI agents and workflows using Jupyter Notebooks.
+
+- **Structure**: Contains hands-on examples and guides covering agent-based systems, LangChain integration, and LangGraph workflows.
+
+- **Metadata**: 1,088 stars, 341 forks, last updated July 7, 2026, with a focus on agentic AI development.
 
 ## Use Cases
 

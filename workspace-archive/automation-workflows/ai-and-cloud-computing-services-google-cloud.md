@@ -2,13 +2,13 @@
 title: AI and Cloud Computing Services | Google Cloud
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: http://cloud.google.com
+source_url: https://cloud.google.com
 resource_id: blog:ai-and-cloud-computing-services-google-cloud
 local_vault_path: ai/rag/ai-and-cloud-computing-services-google-cloud.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: mcp-server
 importance: medium
 tags:
 - agents
@@ -32,16 +32,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Google AI Threat Defense**: Introduces an AI-driven security framework leveraging adversarial ML techniques to proactively detect and neutralize emerging cyber threats, integrating with Google Cloud’s identity and access management (IAM) for real-time threat mitigation.
+- **AI Threat Defense**: Google introduces *Google AI Threat Defense*, an agentic security framework leveraging AI-driven threat detection and response to proactively outpace adversarial attacks, integrating with existing security operations for real-time threat mitigation.
 
-- **Gemini Enterprise Agent Platform**: A unified, fully-managed platform for developing, orchestrating, and governing AI agents, featuring Agent Studio, 200+ foundation models, and native integration with Google Cloud’s AI
+- **Gemini Enterprise Agent Platform**: A fully-managed AI development platform enabling enterprise-grade agent orchestration, governance, and deployment with built-in support for 200+ foundation models, MCP server integrati
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: http://cloud.google.com
+Original source URL: https://cloud.google.com
 
 ## Local Vault File
 

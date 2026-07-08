@@ -8,11 +8,10 @@ local_vault_path: ai/rag/discover-aws-official-knowledge-center-articles-aw.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
-resource_kind: dataset
+resource_kind: tutorial
 importance: high
 tags:
 - agents
-- dataset
 - frontend_ui
 - hackernews
 - rag
@@ -32,18 +31,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: dataset
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **S3 Replication Failure**: Verify S3 bucket replication configuration, including IAM roles, replication rules, and destination bucket permissions; ensure source and destination regions are correctly specified.
+- **S3 Replication Failures**: Verify S3 bucket replication configuration includes proper IAM roles, destination bucket permissions, and replication rules; check CloudTrail logs for `PutBucketReplication` API calls to diagnose misconfigurations.
 
-- **EC2 Connection Issues**: Troubleshoot SSH/RDP access by validating security group rules, network ACLs, and instance-level firewalls; check key pair associations and SSM Agent status for Session Manager.
+- **EC2 Connection Issues**: Troubleshoot SSH/RDP access by validating security group rules, NACLs, and instance-level firewalls; ensure key pairs are correctly associated and SSM Agent is installed/configured for Session Manager access.
 
-- **Lambda Modification Tracking**: Use AWS CloudTrail to audit Lambda functio
+- **Lambda Mod
 
 ## Use Cases
 

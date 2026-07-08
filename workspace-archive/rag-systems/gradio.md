@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Gradio 6** introduces new features and improvements, including enhanced UI components, better performance, and expanded deployment options for machine learning applications.
+- **Gradio 6** introduces new features and improvements, including enhanced component support and performance optimizations for building and deploying ML apps.
 
-- **Permanent hosting** is available via Hugging Face Spaces, enabling auto-scaling, always-online deployment, and shareable URLs for ML demos.
+- **40+ pre-built components** (e.g., `Chatbot`, `Plot`, `Audio`, `AnnotatedImage`) enable rapid UI development without requiring frontend expertise (JavaScript/CSS).
 
-- **40+ components** support diverse data types (e.g., images, audio, video, 3D, dataframes) with minimal Python code, eliminating frontend development (JS/CSS) requirements.
+- **Deployment flexibility**: Local prototyping (`demo.launch(share=True)`) or permanent hosting on **Hugging Face Spaces** with auto-scaling and shareable URLs.
 
 ## Use Cases
 

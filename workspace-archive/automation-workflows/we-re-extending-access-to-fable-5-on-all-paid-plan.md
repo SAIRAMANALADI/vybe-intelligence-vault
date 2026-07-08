@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by minimaxir. Score: 95, Comments: 75.
+Hacker News story by minimaxir. Score: 181, Comments: 185.
 Original Link: https://twitter.com/claudeai/status/2074548242386178258
 
 ## Use Cases

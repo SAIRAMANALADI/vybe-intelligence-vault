@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-07-08T09:17:14.464201+05:30'
+collected_at: '2026-07-08T14:17:25.825063+05:30'
 published_at: '2026-07-06T21:12:36Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-07-02T03:46:39Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-07-08T09:17:14.464201+05:30'
-last_seen: '2026-07-08T09:17:14.464201+05:30'
-last_checked: '2026-07-08T09:17:14.464201+05:30'
+first_seen: '2026-07-08T14:17:25.825063+05:30'
+last_seen: '2026-07-08T14:17:25.825063+05:30'
+last_checked: '2026-07-08T14:17:25.825063+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style Automation**: AutoRAG provides an automated pipeline for optimizing and evaluating Retrieval-Augmented Generation (RAG) systems, leveraging AutoML techniques to streamline hyperparameter tuning, component selection, and performance benchmarking without manual intervention.
+- **AutoML-Style Automation**: AutoRAG automates Retrieval-Augmented Generation (RAG) optimization via a pipeline that includes data parsing, embedding generation, retrieval tuning, and evaluation, reducing manual intervention.
 
-- **Comprehensive RAG Optimization**: Supports end-to-end optimization of RAG pipelines, including document parsing, embedding generation, retrieval strategies, and LLM integration, with built-in support for multi-modal and structured data processing.
+- **Comprehensive Evaluation & Benchmarking**: Provides built-in metrics for assessing RAG performance across retrieval, generation, and end-to-end quality, enabling reproducible benchmarking against standard datasets.
 
-- **Benchmarking & Evaluation Suite**: Includes a standardized framework for benchmarking RAG systems across diverse datasets, metrics (e.g., retrieval accuracy, answer relevance), and LLM backends, enabling reproducible and comparative performance analysis.
+- **Modular Python Framework**: Supports customizable pipelines for document parsing, embedding models, retrieval strategies, and LLM integration, with extensibility via YAML/JSON configurations.
 
 ## Why It Matters
 

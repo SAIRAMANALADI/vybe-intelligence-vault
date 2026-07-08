@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-07-08T09:17:54.508701+05:30'
+collected_at: '2026-07-08T14:18:05.837733+05:30'
 published_at: '2026-07-07T20:31:23Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-07-08T09:17:54.508701+05:30'
-last_seen: '2026-07-08T09:17:54.508701+05:30'
-last_checked: '2026-07-08T09:17:54.508701+05:30'
+first_seen: '2026-07-08T14:18:05.837733+05:30'
+last_seen: '2026-07-08T14:18:05.837733+05:30'
+last_checked: '2026-07-08T14:18:05.837733+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmarking framework and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized LLM performance assessment in real-world internal knowledge retrieval scenarios.
-
-- **Components**: Includes synthetic data generation tools for enterprise documents, retrieval evaluation metrics, and LLM-based QA pairs designed to test semantic search, context relevance, and hallucination mitigation in enterprise settings.
-
-- **Technical Scope**: Supports Python-based evaluation pipelines for RAG systems, covering metrics like precision/recall in retrieval, answer correctness, and latency, with extensibility for custom enterprise document formats and retrieval models.
+- **Purpose**: Provides a benchmarking framework and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, focusing on real-world applicability.
+- **Components**: Includes evaluation metrics for RAG pipelines (retrieval, generation, and end-to-end performance) and synthetic data generation for privacy-preserving enterprise knowledge bases.
+- **Technical Scope**: Covers semantic search, LLM evaluation, and Python-based tools for assessing RAG systems in enterprise search and information retrieval scenarios.
 
 ## Why It Matters
 

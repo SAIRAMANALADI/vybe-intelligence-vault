@@ -2,7 +2,7 @@
 title: What is the Model Context Protocol (MCP)? - Model Context Protocol
 archive_category: ai-browser-computer-use
 source_category: ai/agents
-source_url: https://modelcontextprotocol.io/
+source_url: https://modelcontextprotocol.io/docs/getting-started/intro
 resource_id: blog:what-is-the-model-context-protocol-mcp-model-conte
 local_vault_path: ai/agents/what-is-the-model-context-protocol-mcp-model-conte.md
 quality_score: 70
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Standardized AI Integration**: MCP is an open-source protocol enabling AI applications (e.g., Claude, ChatGPT) to connect to external systems (files, databases, tools) via a unified interface, analogous to USB-C for AI.
-- **Cross-Ecosystem Compatibility**: Supports broad integration across clients (Claude, ChatGPT, VS Code) and servers, reducing development overhead and fostering interoperability.
-- **Enhanced Capabilities**: Enables agents to perform tasks (e.g., 3D design, database queries
+- **Standardized Integration**: MCP is an open-source protocol enabling standardized, bidirectional communication between AI applications (e.g., Claude, ChatGPT) and external systems (data sources, tools, workflows) via a unified interface, analogous to USB-C for AI connectivity.
+
+- **Cross-Ecosystem Compatibility**: Supports broad integration across clients (e.g., VS Code, Cursor) and servers, allowing AI agents to access diverse resources (e.g., Google Calendar, Notion, Blender) and execute ta
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://modelcontextprotocol.io/
+Original source URL: https://modelcontextprotocol.io/docs/getting-started/intro
 
 ## Local Vault File
 

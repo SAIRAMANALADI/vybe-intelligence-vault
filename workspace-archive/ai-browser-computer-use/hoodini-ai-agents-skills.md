@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Curated collection of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf), implemented in Python and maintained by Yuval Avidani.
-- **Metadata**: 244 stars, 58 forks, last updated on 2026-07-08, hosted on GitHub.
-- **Tooling**: Developed using GitHub Copilot via VS Code Insiders.
+- **Purpose**: Curated repository of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf), enabling enhanced functionality via GitHub Copilot in VS Code Insiders.
+- **Metadata**: 244 stars, 58 forks, Python-based, last updated July 8, 2026.
+- **Creator**: Developed by Yuval Avidani using GitHub Copilot.
 
 ## Use Cases
 

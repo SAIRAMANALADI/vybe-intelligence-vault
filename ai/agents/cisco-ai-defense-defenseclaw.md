@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cisco-ai-defense/defenseclaw
-collected_at: '2026-07-08T09:19:49.627784+05:30'
-published_at: '2026-07-07T16:18:46Z'
+collected_at: '2026-07-08T14:20:01.009587+05:30'
+published_at: '2026-07-08T05:38:05Z'
 tags:
 - agents
 - github-repo
@@ -17,11 +17,11 @@ status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-03-23T00:51:19Z'
-pushed_at: '2026-07-08T03:49:21Z'
+pushed_at: '2026-07-08T08:45:33Z'
 resource_id: github:cisco-ai-defense/defenseclaw
-first_seen: '2026-07-08T09:19:49.627784+05:30'
-last_seen: '2026-07-08T09:19:49.627784+05:30'
-last_checked: '2026-07-08T09:19:49.627784+05:30'
+first_seen: '2026-07-08T14:20:01.009587+05:30'
+last_seen: '2026-07-08T14:20:01.009587+05:30'
+last_checked: '2026-07-08T14:20:01.009587+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: DefenseClaw is a Python-based framework designed for **security governance in agentic AI systems**, enabling policy enforcement, threat detection, and compliance monitoring in AI-driven environments.
+- **Purpose**: DefenseClaw provides a security governance framework specifically designed for agentic AI systems, ensuring compliance, risk management, and operational integrity in AI-driven environments.
 
-- **Core Features**: Implements **runtime policy enforcement** for AI agents, integrates **real-time threat detection** mechanisms, and supports **audit logging** for compliance and forensic analysis.
+- **Technical Stack**: Implemented in Python, it likely integrates with AI agent frameworks (e.g., LangChain, AutoGen) to enforce security policies, monitor agent behavior, and mitigate threats in real-time.
 
-- **Technical Stack**: Built in Python with modular architecture for extensibility, supports integration with **AI agent frameworks**, and includes **REST APIs** for policy management and monitoring.
+- **Key Features**: Includes policy enforcement, audit logging, threat detection, and automated remediation for AI agents, with updates as recent as July 2026.
 
 ## Why It Matters
 
@@ -46,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 136
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-07T16:18:46Z
+- Last Updated: 2026-07-08T05:38:05Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-03-23T00:51:19Z
-- Pushed At: 2026-07-08T03:49:21Z
+- Pushed At: 2026-07-08T08:45:33Z
 
 ## Possible Use Cases
 

@@ -12,8 +12,6 @@ resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
-- hackernews
-- openai
 - python
 - rag
 selection_reason:
@@ -32,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Demonstrates **Retrieval Augmented Generation (RAG)** using **Azure services**, integrating document retrieval with generative AI models.
-- **Technical Stack**: Implemented in **Python**, leveraging **Azure Cognitive Search** for retrieval and **Azure OpenAI** for generative capabilities.
-- **Repository Details**: Last updated **April 23, 2026**; minimal documentation (no topics listed), with **53 stars** and **227 forks**.
+*   Implements a Retrieval Augmented Generation (RAG) architecture.
+*   Utilizes Azure cloud services for RAG solution deployment and integration.
+*   Developed in Python, serving as a code-based RAG example.
 
 ## Use Cases
 

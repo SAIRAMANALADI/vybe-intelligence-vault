@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.ai/
-published_at: '2026-07-08T01:52:23.096936+05:30'
-collected_at: '2026-07-08T01:52:23.096951+05:30'
+published_at: '2026-07-08T14:22:14.716363+05:30'
+collected_at: '2026-07-08T14:22:14.716378+05:30'
 tags:
 - hackernews
 - leaderboard
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:speechifyai-voice-ai-research-lab
-first_seen: '2026-07-08T01:52:23.096951+05:30'
-last_seen: '2026-07-08T01:52:23.096951+05:30'
-last_checked: '2026-07-08T01:52:23.096951+05:30'
+first_seen: '2026-07-08T14:22:14.716378+05:30'
+last_seen: '2026-07-08T14:22:14.716378+05:30'
+last_checked: '2026-07-08T14:22:14.716378+05:30'
 health_score: 100
 ---
 
@@ -23,13 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Performance & Cost**: SpeechifyAI's Simba 3.2 model achieves **2nd place on Voice Arena's US English TTS leaderboard** (real-time streaming), with **$6 per million characters** pricing—significantly lower than competitors like the flagship model at **$50 per million**.
+- **Simba 3.2 TTS Model**: Streaming-native architecture with sub-100ms latency, outperforming competitors on the [Artificial Analysis TTS leaderboard](https://artificialanalysis.ai/text-to-speech/leaderboard/selected-voice?top-models=true) while remaining cost-effective; features finer-grained emotional control via SSML prosody and curated voice set.
 
-- **Technical Capabilities**:
-  - **Zero-shot voice cloning** from **10-second reference clips**, capturing timbre, cadence, and micro-expressions.
-  - **Emotion control** via prosody modeling (speed, pitch, rhythmic/tonal patterns) and **multilingual synthesis** across **30+ locales** with native-quality pronunciation.
+- **Zero-Shot Voice Cloning & Multilingual Synthesis**: Clones speaker identity (timbre, cadence, micro-expressions) from ≥10s reference audio; supports native-quality speech across 30+ locales with locale-specific voices and automatic mixed-language input handling.
 
-- **API Integration**: Single API endpoint (`/v1/audio/speech`) supports **streaming, voice cloning, and emotion control** with minimal code (e.g., `curl` example), enabling scalable deployment.
+- **Unified API & Research Focus**: Single API endpoint (`/v1/audio/speech`) for streaming, voice cloning, and emotion control; SpeechifyAI’s research spans neural speech generation, zero-shot cloning, and emotional expression modeling for advanced audio intelligence.
 
 ## Why It Matters
 
@@ -39,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T01:52:23.096936+05:30
+- Published: 2026-07-08T14:22:14.716363+05:30
 
 ## Related Tags
 

@@ -6,9 +6,9 @@ source_url: https://haystack.deepset.ai/tutorials/01_basic_qa_pipeline
 resource_id: blog:creating-your-first-qa-pipeline-with-retrieval-aug
 local_vault_path: ai/rag/creating-your-first-qa-pipeline-with-retrieval-aug.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
-resource_kind: framework
+resource_kind: template
 importance: medium
 tags:
 - anthropic
@@ -29,17 +29,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- Uses **Haystack** framework to implement a **Retrieval-Augmented Generation (RAG)** pipeline with components: `InMemoryDocumentStore`, `SentenceTransformersDocumentEmbedder`, `SentenceTransformersTextEmbedder`, `InMemoryEmbeddingRetriever`, `ChatPromptBuilder`, and a `ChatGenerator` (e.g., `OpenAIChatGenerator`, `MistralChatGenerator`, or `TransformersChatGenerator`).
+- **Document Embedding & Storage**: Uses `SentenceTransformersDocumentEmbedder` (e.g., `all-MiniLM-L6-v2`) to generate embeddings for documents, stored in an `InMemoryDocumentStore` via `write_documents()`.
 
-- **Document processing pipeline**: Loads Wikipedia data (e.g., *Seven Wonders of the Ancient World*), embeds documents using
+- **RAG Pipeline Components**: Constructs a pipeline with `SentenceTransformersTextEmbedder` (query embedding), `InMemoryEmbeddingRetriever` (document retrieval), `ChatPromptBuilder` (template-based prompt generation), and a `ChatGenerator` (e.g., `OpenAIChatGenerator`, `MistralChatGenerator
 
 ## Use Cases
 

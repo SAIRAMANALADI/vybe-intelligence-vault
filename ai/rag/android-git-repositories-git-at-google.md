@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://android.googlesource.com
-published_at: '2026-06-24T22:52:23.023500+05:30'
-collected_at: '2026-06-24T22:52:23.023513+05:30'
+published_at: '2026-07-08T14:25:20.452532+05:30'
+collected_at: '2026-07-08T14:25:20.452544+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-06-24T22:52:23.023513+05:30'
-last_seen: '2026-06-24T22:52:23.023513+05:30'
-last_checked: '2026-06-24T22:52:23.023513+05:30'
+first_seen: '2026-07-08T14:25:20.452544+05:30'
+last_seen: '2026-07-08T14:25:20.452544+05:30'
+last_checked: '2026-07-08T14:25:20.452544+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Hosting**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version-controlled access to hardware-specific device configurations, kernels, and platform adaptations.
-
-- **Device-Specific Branches**: Includes per-device kernel (`*-kernel`), device tree (`device/google/<device>`), and SELinux policy (`*-sepolicy`) repositories for devices like Pixel, Cuttlefish, and generic ARM/x86 targets.
-
-- **Build & Emulation Support**: Contains emulator-specific device trees (`device/generic/*-emulator`), prebuilt binaries (`device/google/cuttlefish_prebuilts`), and kernel modules for virtualization (e.g., `device/google/cuttlefish_vmm`).
+- Official Android Git repository hosting **Gerrit-based code review** with OAuth2 authentication (`https://android.googlesource.com/`).
+- Contains **device-specific kernels and hardware support** (e.g., `device/google/bluejay-kernel`, `device/google/lynx-sepolicy`) with kernel version branches (e.g., `5.10`, `6.1`).
+- Includes **emulator targets** (e.g., `device/generic/mini-emulator-arm64`) and **security modules** (e.g., `device/google/tegu-sepolicy`).
 
 ## Why It Matters
 
@@ -46,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T22:52:23.023500+05:30
+- Published: 2026-07-08T14:25:20.452532+05:30
 
 ## Related Tags
 

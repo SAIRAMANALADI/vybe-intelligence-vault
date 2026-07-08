@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-07-08T09:20:44.668441+05:30'
+collected_at: '2026-07-08T14:20:56.130501+05:30'
 published_at: '2026-06-07T13:03:16Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-07-08T09:20:44.668441+05:30'
-last_seen: '2026-07-08T09:20:44.668441+05:30'
-last_checked: '2026-07-08T09:20:44.668441+05:30'
+first_seen: '2026-07-08T14:20:56.130501+05:30'
+last_seen: '2026-07-08T14:20:56.130501+05:30'
+last_checked: '2026-07-08T14:20:56.130501+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Integration**: Demonstrates a multi-agent RAG system leveraging **AutoGen, CrewAI, LangChain**, with support for **OpenAI (GPT-3.5/4/5), Anthropic**, and vector DBs (**ChromaDB, Pinecone, Weaviate**).
+- **Multi-Agent Architecture**: Template implements a collaborative AI agent system using frameworks like CrewAI, AutoGen, and Swarms to distribute document processing, analysis, and insight generation tasks across specialized agents.
 
-- **Collaborative Pipeline**: Implements a **swarm-based agent architecture** for parallel document processing, analysis, and insight generation, with optional **Discord integration** for real-time coordination.
+- **RAG Integration**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate) and LLM providers (OpenAI, Anthropic, GPT-3.5/4/5) for retrieval-augmented generation (RAG) workflows with Discord bot integration.
 
-- **Deployment-Ready**: Template includes pre-configured agent roles, retrieval workflows, and modular design for scaling across document types and agent specializations.
+- **Modular Python Implementation**: Provides a Python-based template for orchestrating multi-agent RAG pipelines with extensible agent roles, tooling, and inter-agent communication protocols.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act
-published_at: '2026-07-08T09:23:07.645709+05:30'
-collected_at: '2026-07-08T09:23:07.645731+05:30'
+published_at: '2026-07-08T14:27:12.508700+05:30'
+collected_at: '2026-07-08T14:27:12.508712+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:digital-millennium-copyright-act-wikipedia
-first_seen: '2026-07-08T09:23:07.645731+05:30'
-last_seen: '2026-07-08T09:23:07.645731+05:30'
-last_checked: '2026-07-08T09:23:07.645731+05:30'
+first_seen: '2026-07-08T14:27:12.508712+05:30'
+last_seen: '2026-07-08T14:27:12.508712+05:30'
+last_checked: '2026-07-08T14:27:12.508712+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Legal Framework**: The DMCA (1998) implements WIPO treaties, criminalizing circumvention of DRM and access controls, even without copyright infringement, and increases penalties for online copyright violations under **17 U.S.C. §§ 1201–1205**.
+- **Legal Framework**: U.S. copyright law (1998) implementing WIPO treaties, criminalizing circumvention of DRM and access controls, with penalties for copyright infringement on the internet.
 
-- **Liability Shield**: Introduces **17 U.S.C. § 512**, providing safe harbor provisions to ISPs and online service providers (OSPs) by limiting liability for user-generated infringing content if they comply with takedown notices (**§ 512(c)**).
+- **Liability Exemptions**: Introduces safe harbor provisions for ISPs and intermediaries (Title 17 U.S.C. § 512), shielding them from direct/indirect liability for user-generated infringing content.
 
-- **Amendments & Scope**: Amended **Title 17**, extending copyright reach while balancing intermediary protections; also added **§ 108** (library exemptions) and **§ 117** (software backup rights), with enforcement via **28 U.S.C. § 4001**.
+- **Amendments & Scope**: Modifies Title 17 U.S.C. to extend copyright reach, including §§ 1201–1205 (anti-circumvention) and § 1301–1332 (protection of vessel hull designs), while amending existing sections (e.g., 17 U.S.C. § 108 for library exemptions).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T09:23:07.645709+05:30
+- Published: 2026-07-08T14:27:12.508700+05:30
 
 ## Related Tags
 

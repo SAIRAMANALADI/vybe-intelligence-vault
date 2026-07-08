@@ -8,7 +8,7 @@ local_vault_path: ai/rag/run-llama-parsebench.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # run-llama/ParseBench
@@ -30,18 +30,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents across tasks like OCR, PDF parsing, and table extraction, providing a standardized testbed for document-AI systems.
+- **Benchmark Suite**: ParseBench provides a standardized evaluation framework for document parsing AI agents, covering tasks like OCR, PDF parsing, and table extraction across diverse document types.
 
-- **Multi-Modal Evaluation**: Supports vision-language models (VLMs) and traditional NLP/LLM pipelines, enabling cross-modal performance comparison for document understanding.
+- **Multi-Modal Integration**: Supports both text-based and vision-language models (VLMs) for parsing, enabling comparison of performance across modalities (e.g., text-only LLMs vs. OCR-enhanced VLMs).
 
-- **Integration-Ready**: Designed for compatibility with LlamaIndex, facilitating seamless benchmarking of document par
+- **LlamaIndex Compatibility**: Designed as a benchmark for LlamaIndex-based pipelines, offerin
 
 ## Use Cases
 

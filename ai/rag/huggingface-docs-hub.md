@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-07-08T09:21:37.155893+05:30'
-collected_at: '2026-07-08T09:21:37.155906+05:30'
+published_at: '2026-07-08T14:22:05.399050+05:30'
+collected_at: '2026-07-08T14:22:05.399062+05:30'
 tags:
 - agents
 - creative_dev
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-07-08T09:21:37.155906+05:30'
-last_seen: '2026-07-08T09:21:37.155906+05:30'
-last_checked: '2026-07-08T09:21:37.155906+05:30'
+first_seen: '2026-07-08T14:22:05.399062+05:30'
+last_seen: '2026-07-08T14:22:05.399062+05:30'
+last_checked: '2026-07-08T14:22:05.399062+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting via Gradio SDK, Dockerfiles, or static JS/HTML, with optional GPU acceleration for performance-critical applications.
+- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting with support for Gradio, Docker, and static HTML/JavaScript, with optional GPU acceleration for enhanced performance.
 
-- **Storage & Compute**: Supports disk usage management, GPU upgrades, and ZeroGPU configurations; integrates with GitHub Actions for CI/CD workflows.
+- **Integration & Customization**: Supports dependency management, GitHub Actions for CI/CD, and custom domains; allows embedding Spaces as API endpoints or MCP servers for advanced workflows.
 
-- **Customization & Integration**: Allows embedding Spaces, OAuth sign-in, MCP server configurations, and API endpoint deployment with SDK-driven agent interactions.
+- **Storage & Management**: Provides disk usage tracking, ZeroGPU mode for cost-efficient inference, and configuration via YAML for scalable deployment and resource allocation.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T09:21:37.155893+05:30
+- Published: 2026-07-08T14:22:05.399050+05:30
 
 ## Related Tags
 

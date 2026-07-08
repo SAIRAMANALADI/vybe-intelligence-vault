@@ -3,9 +3,9 @@ title: AI and Cloud Computing Services | Google Cloud
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: http://cloud.google.com
-published_at: '2026-06-24T20:43:16.084512+05:30'
-collected_at: '2026-06-24T20:43:16.084527+05:30'
+source_url: https://cloud.google.com
+published_at: '2026-07-08T14:22:20.146659+05:30'
+collected_at: '2026-07-08T14:22:20.146671+05:30'
 tags:
 - agents
 - creative_dev
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:ai-and-cloud-computing-services-google-cloud
-first_seen: '2026-06-24T20:43:16.084527+05:30'
-last_seen: '2026-06-24T20:43:16.084527+05:30'
-last_checked: '2026-06-24T20:43:16.084527+05:30'
+first_seen: '2026-07-08T14:22:20.146671+05:30'
+last_seen: '2026-07-08T14:22:20.146671+05:30'
+last_checked: '2026-07-08T14:22:20.146671+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Google AI Threat Defense**: Introduces an AI-driven security framework leveraging adversarial ML techniques to proactively detect and neutralize emerging cyber threats, integrating with Google Cloud’s identity and access management (IAM) for real-time threat mitigation.
+- **AI Threat Defense**: Google introduces *Google AI Threat Defense*, an agentic security framework leveraging AI-driven threat detection and response to proactively outpace adversarial attacks, integrating with existing security operations for real-time threat mitigation.
 
-- **Gemini Enterprise Agent Platform**: A unified, fully-managed platform for developing, orchestrating, and governing AI agents, featuring Agent Studio, 200+ foundation models, and native integration with Google Cloud’s AI infrastructure (e.g., TPUs, GPUs) for scalable agentic workflows.
+- **Gemini Enterprise Agent Platform**: A fully-managed AI development platform enabling enterprise-grade agent orchestration, governance, and deployment with built-in support for 200+ foundation models, MCP server integration, and remote agent management via Agent Studio.
 
-- **AI Hypercomputer for Agentic Era**: Google’s next-gen AI infrastructure (e.g., Cloud TPUs v5p, Axion Processors) optimized for agentic workloads, enabling low-latency inference and multi-agent collaboration at enterprise scale, with a 99.999% SLA for mission-critical deployments.
+- **AI Infrastructure Scaling**: Google’s *AI Hypercomputer* architecture scales for the "agentic era," featuring custom Cloud TPUs, Google Axion Processors (Arm-based CPUs), and optimized AI workloads to support high-performance, low-latency generative AI and multi-agent systems.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T20:43:16.084512+05:30
+- Published: 2026-07-08T14:22:20.146659+05:30
 
 ## Related Tags
 
@@ -64,4 +64,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: http://cloud.google.com
+Original source: https://cloud.google.com

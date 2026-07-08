@@ -15,6 +15,7 @@ tags:
 - html
 - openai
 - rag
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -31,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Implementation**: Demonstrates Retrieval Augmented Generation (RAG) using a Blazor Server app with Azure OpenAI and Azure AI Search for hybrid search (vector + keyword + semantic ranking) to enable document-based chat interactions.
+- **Architecture**: Blazor Server application integrating Azure OpenAI for RAG, combining vector, keyword, and semantic ranking via Azure AI Search for document retrieval and chat interactions.
 
-- **Security & Deployment**: Uses managed identity for secure authentication and supports one-command deployment via Azure Developer CLI for streamlined setup.
+- **Security & Deployment**: Implements managed identity for secure Azure resource access and supports one-command deployment using Azure Developer CLI (`azd`).
 
-- **Tech Stack**: Built with .NET (Blazor Server) and HTML, leveraging Azure services (OpenAI, AI
+- **Tech Stack**: .NET-based frontend (Blazor Server) with backend integration to Azure OpenAI and AI Search, optimized for hybrid search and d
 
 ## Use Cases
 

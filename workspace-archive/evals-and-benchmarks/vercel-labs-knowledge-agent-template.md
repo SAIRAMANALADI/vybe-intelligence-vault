@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Open-source template for building AI agents that dynamically sync with a file-system-based knowledge base, enabling real-time updates and contextual retrieval.
+- **Purpose**: Provides a TypeScript-based template for building AI agents that dynamically sync with a file-system knowledge base, enabling real-time updates and contextual responses.
 
-- **Tech Stack**: Built with **TypeScript**, **Nuxt**, and **Vue**, leveraging a sandboxed environment for secure agent execution.
+- **Architecture**: Combines Nuxt and Vue frameworks with a sandboxed environment, leveraging Vercel’s ecosystem for scalable agent deployment and file-system integration.
 
-- **Features**: Supports **file-system integration**, **knowledge base indexing**, and **agent-based chatbot** interactions, optimized for Vercel deployments.
+- **Features**: Supports agent-based chatbots, knowledge retrieval, and modular extensions; last updated July 2026 with 938 stars and 124 for
 
 ## Use Cases
 

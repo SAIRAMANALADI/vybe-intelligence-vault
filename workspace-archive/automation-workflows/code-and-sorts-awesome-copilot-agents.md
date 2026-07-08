@@ -8,7 +8,7 @@ local_vault_path: ai/agents/code-and-sorts-awesome-copilot-agents.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # Code-and-Sorts/awesome-copilot-agents
@@ -27,16 +27,15 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Curated Repository**: Hosts a structured collection of GitHub Copilot enhancement resources, including instructions, prompts, skills, MCPs, and agent markdown files for AI-driven development workflows.
-- **Technical Scope**: Focuses on TypeScript-based agent skills, prompt engineering, and custom AI agent integrations for GitHub Copilot, VS Code Copilot Chat, and MCP frameworks.
-- **Metadata**: 545 stars, 90 forks, last updated 2026-07-07, covering topics like `agent-skills`, `ai-agents`, an
+- **Curated Resource**: A GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) providing a structured collection of GitHub Copilot AI enhancement materials, including instructions, prompts, skills, MCPs (Model Context Protocols), and agent markdown files optimized for AI agent interactions.
+- **Technical Scope**: Focuses on advanced GitHub Copilot customization via TypeScript-based agent skills, prompt engineering, and MCP integration, targeting VS Code Copilot Chat for AI-driven developm
 
 ## Use Cases
 

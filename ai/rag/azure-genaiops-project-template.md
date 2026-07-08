@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-07-08T09:17:04.448617+05:30'
+collected_at: '2026-07-08T14:17:15.879874+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
+- openai
 - rag
-- scripts
 - workflows
 stars: 44
 language: Bicep
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-07-08T09:17:04.448617+05:30'
-last_seen: '2026-07-08T09:17:04.448617+05:30'
-last_checked: '2026-07-08T09:17:04.448617+05:30'
+first_seen: '2026-07-08T14:17:15.879874+05:30'
+last_seen: '2026-07-08T14:17:15.879874+05:30'
+last_checked: '2026-07-08T14:17:15.879874+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for a Generative AI Operations (GenAIOps) project, enabling automated provisioning of Azure resources (e.g., compute, networking, storage) for RAG (Retrieval-Augmented Generation) workflows.
+- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for a Generative AI Operations (GenAIOps) project, enabling automated provisioning of Azure resources for RAG (Retrieval-Augmented Generation) workflows.
 
-- **RAG Pipeline Integration**: Includes pre-configured components for RAG (e.g., vector databases, embedding models, LLM endpoints) with modular Bicep modules for customizable deployment.
+- **RAG Pipeline Foundation**: Includes pre-configured Azure services (e.g., Azure AI Search, Azure OpenAI) to support end-to-end RAG workflows with minimal setup.
 
-- **CI/CD-Ready**: Designed for Azure DevOps/GitHub Actions with Bicep templates structured for repeatable, scalable GenAIOps deployments, supporting IaC best practices.
+- **Ops-Ready Design**: Incorporates monitoring, logging, and CI/CD integration patterns to ensure scalable and maintainable GenAI operations.
 
 ## Why It Matters
 

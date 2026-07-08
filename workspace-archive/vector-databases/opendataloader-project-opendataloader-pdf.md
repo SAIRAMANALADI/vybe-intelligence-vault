@@ -30,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Java-based PDF Parser**: Open-source tool designed for AI-ready data extraction from PDFs, supporting accessibility (a11y, PDF/UA) and automated conversion to HTML, JSON, Markdown, or bounding-box formats.
-
-- **Advanced OCR & Table Handling**: Integrates OCR for scanned/untagged PDFs and extracts structured tables, enabling RAG (Retrieval-Augmented Generation) compatibility.
-
-- **Tagged PDF & Accessibility Focus**: Processes tagged PDFs for semantic structure, improving document accessibilit
+- **Java-based PDF Parser**: Open-source tool designed for AI-ready data extraction from PDFs, supporting accessibility compliance (e.g., PDF/UA) and automated tagging for structured output.
+- **Multi-format Output**: Converts PDFs to HTML, JSON, Markdown, or bounding-box annotations, with OCR support for scanned documents and table extraction via bounding-box coordinates.
+- **AI Integration & Features**: Enables RAG (Retrieval-Augmented Generation) pipelines by providing clean, structured text
 
 ## Use Cases
 

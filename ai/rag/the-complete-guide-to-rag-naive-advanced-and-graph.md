@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-07-08T09:16:46.035222+05:30'
-collected_at: '2026-07-08T09:16:46.035233+05:30'
+published_at: '2026-07-08T14:16:56.951613+05:30'
+collected_at: '2026-07-08T14:16:56.951624+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-07-08T09:16:46.035233+05:30'
-last_seen: '2026-07-08T09:16:46.035233+05:30'
-last_checked: '2026-07-08T09:16:46.035233+05:30'
+first_seen: '2026-07-08T14:16:56.951624+05:30'
+last_seen: '2026-07-08T14:16:56.951624+05:30'
+last_checked: '2026-07-08T14:16:56.951624+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Evolution**: Naive RAG (basic retrieval + generation) evolved into Advanced RAG (hybrid search, reranking, query transformation) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), addressing limitations in accuracy, freshness, and hallucination mitigation.
+- **RAG Evolution & Architecture**: RAG (Retrieval-Augmented Generation) combines retrieval, augmentation, and generation to address LLM limitations (freshness, private knowledge, hallucinations). It evolved from **Naive RAG** (basic vector search + generation) to **Advanced RAG** (hybrid retrieval, reranking, query transformation) to **Graph RAG** (entity-relation graph traversal for multi-hop reasoning), with **Modular RAG** enabling dynamic routing and tool integration.
 
-- **Core RAG Components**: Retrieval (vector/keyword search), Augmentation (context injection), and Generation (LLM reasoning) form the pipeline, with modular and agentic variants enabling dynamic routing, tool integration, and iterative refinement for complex queries.
+- **Core Components & Techniques**: Retrieval relies on **dense embeddings** (e.g., `BAAI/bge-m3`, `E5`) and **sparse methods** (BM25), with **ANN algorithms** (HNSW, IVF-PQ) for scalability. Advanced pipelines incorporate **hybrid search**, **cross-encoders** (e.g., `BAAI/bge-reranker-v2-m3`), **query expansion** (HyDE), and **MMR** for diversity. Graph RAG extracts *(entity, relation)* triples into graph DBs (e.g., Neo4j) for relational reasoning.
 
-- **Operational Trade-offs**: Graph RAG excels in relational reasoning but incurs high graph construction costs, while Advanced RAG balances performance with pipeline complexity; evaluation metrics (e.g., RRF, MMR) and production checklists (e.g., permissions, citations) are critical for deployment.
+- **Operational Considerations**: Evaluation metrics (e.g., retrieval precision, answer faithfulness) and **RRF** for multi-retriever fusion are critical. Production checklists include **chunking strategies** (semantic splitting, overlap), **citation enforcement**, and **self-evaluation loops**. Alternatives like **LLM Wiki** (self-maintaining knowledge systems) and **Agentic RAG** (dynamic tool use) extend beyond traditional RAG paradigms.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T09:16:46.035222+05:30
+- Published: 2026-07-08T14:16:56.951613+05:30
 
 ## Related Tags
 

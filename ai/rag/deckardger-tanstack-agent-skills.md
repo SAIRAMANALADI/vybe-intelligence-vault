@@ -4,17 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-07-08T09:19:14.521895+05:30'
+collected_at: '2026-07-08T14:19:25.912291+05:30'
 published_at: '2026-07-07T14:40:31Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - rag
 - reddit
 - unknown
-- workflows
 stars: 193
 language: Unknown
 status: active
@@ -22,9 +20,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-07-08T09:19:14.521895+05:30'
-last_seen: '2026-07-08T09:19:14.521895+05:30'
-last_checked: '2026-07-08T09:19:14.521895+05:30'
+first_seen: '2026-07-08T14:19:25.912291+05:30'
+last_seen: '2026-07-08T14:19:25.912291+05:30'
+last_checked: '2026-07-08T14:19:25.912291+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Implements advanced caching strategies (stale-while-revalidate, background refetching) and fine-grained reactivity for AI agent workflows to minimize redundant API calls while ensuring data freshness.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications, leveraging TanStack Query's reactivity and stale-while-revalidate (SWR) strategies.
 
-- **Router-Enhanced State Management**: Leverages TanStack Router’s type-safe routing and nested route loaders to synchronize UI state with backend queries, enabling seamless prefetching and error-boundary handling in agent-driven applications.
+- **Router Best Practices for AI Agents**: Implements dynamic route handling and state management in TanStack Router to ensure seamless navigation and context preservation in AI-generated UIs.
 
-- **Start Framework Acceleration**: Integrates TanStack Start’s server-side rendering (SSR) and streaming capabilities to reduce Time-to-First-Byte (TTFB) for AI agents, with hydration optimizations for dynamic content delivery.
+- **Start Framework Optimization**: Provides guidelines for initializing and scaling TanStack Start applications, focusing on performance tuning and minimal bundle size for AI agent deployments.
 
 ## Why It Matters
 

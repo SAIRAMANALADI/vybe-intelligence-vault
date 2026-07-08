@@ -8,7 +8,7 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 
 ## Top Matched Resources
 
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) (framework - ESSENTIAL Tier)
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app) (workflow - ESSENTIAL Tier)
 - [Pinecone · GitHub](https://github.com/pinecone-io) (framework - ESSENTIAL Tier)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (framework - USEFUL Tier)
@@ -21,7 +21,7 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 
 https://github.com/langfuse/langfuse (Langfuse)
 https://github.com/Arize-AI/phoenix (Arize Phoenix)
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 - [Pinecone · GitHub](https://github.com/pinecone-io)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
@@ -43,4 +43,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-07-08 09:32 IST*
+*Last updated: 2026-07-08 14:32 IST*

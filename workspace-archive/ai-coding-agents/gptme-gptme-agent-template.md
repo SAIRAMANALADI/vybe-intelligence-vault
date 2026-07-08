@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Purpose**: Provides a structured workspace for deploying persistent autonomous agents capable of building, learning, socializing, and task assistance via `gptme`.
-- **Technical Stack**: Primarily shell-based, designed for agent orchestration and integration with `gptme` framework.
-- **Repository Status**: Last updated July 2, 2026; 49 stars, 27 forks, no active topics.
+- **Template Purpose**: Provides a structured workspace for deploying persistent, autonomous agents using `gptme`, enabling capabilities like building, learning, social interaction, and task assistance.
+- **Technical Stack**: Primarily implemented in **Shell**, facilitating agent initialization, configuration, and lifecycle management.
+- **Repository Status**: Last updated **July 2, 2026**, with **49 stars** and **27 forks**, indicating active but niche adoption.
 
 ## Use Cases
 

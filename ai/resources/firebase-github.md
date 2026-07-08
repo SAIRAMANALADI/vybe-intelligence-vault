@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/firebase/
-published_at: '2026-06-25T23:01:17.761069+05:30'
-collected_at: '2026-06-25T23:01:17.761077+05:30'
+published_at: '2026-07-08T14:25:26.127773+05:30'
+collected_at: '2026-07-08T14:25:26.127786+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:firebase-github
-first_seen: '2026-06-25T23:01:17.761077+05:30'
-last_seen: '2026-06-25T23:01:17.761077+05:30'
-last_checked: '2026-06-25T23:01:17.761077+05:30'
+first_seen: '2026-07-08T14:25:26.127786+05:30'
+last_seen: '2026-07-08T14:25:26.127786+05:30'
+last_checked: '2026-07-08T14:25:26.127786+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- Firebase provides official SDKs for Android (Java/Kotlin), iOS (Swift/Objective-C), Web (TypeScript/JavaScript), Unity (C#), and C++ via GitHub repositories like `firebase-android-sdk`, `firebase-js-sdk`, and `firebase-ios-sdk`.
+- **Multi-platform SDKs**: Firebase provides official SDKs for Android (Kotlin/Java), iOS (Swift/Obj-C), Web (TypeScript/JavaScript), Unity (C#), and C++, with open-source quickstart repositories demonstrating integration across platforms.
 
-- Key repositories include `firebase-admin-node` (Node.js backend SDK), `firebase-tools` (CLI for Firebase management), and `FirebaseUI-Android` (optimized UI components for Firebase integrations).
+- **Cloud Functions Samples**: The [`functions-samples`](https://github.com/firebase/functions-samples) repository contains 12.2k+ stars and showcases 66+ Cloud Functions use cases (e.g., authentication, Firestore triggers) with JavaScript implementations.
 
-- Firebase maintains language-specific SDKs (e.g., `firebase-functions-python` for Python Cloud Functions) and sample projects (`quickstart-*`) across multiple platforms to demonstrate integration and usage patterns.
+- **UI & Testing Libraries**: Firebase maintains [`FirebaseUI-Android`](https://github.com/firebase/FirebaseUI-Android) (4.7k+ stars) for optimized UI components and [`quickstart-testing`](https://github.com/firebase/quickstart-testing) for testing methodologies across Firebase services.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-25T23:01:17.761069+05:30
+- Published: 2026-07-08T14:25:26.127773+05:30
 
 ## Related Tags
 

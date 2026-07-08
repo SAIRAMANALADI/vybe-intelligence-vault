@@ -8,17 +8,16 @@ local_vault_path: ai/rag/langchain-github.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
 - anthropic
 - rag
 - web-crawled
-- workflows
 - youtube
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # LangChain · GitHub
@@ -27,17 +26,14 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as computational graphs for complex workflows.
-
-- **Agent Frameworks**: Deep Agents/Deep Agents.js support hierarchical agent planning, subagent delegation, and filesystem interactions for advanced task execution.
-
-- **Commercial & Extensible Tools**: LangSmith offers production-grade monitoring for LLM applications, while MCP Ada
+*   Provides core OSS libraries (`LangChain`, `LangChain.js`) for integrating and composing LLM application components and `LangGraph` for defining LLM agents as stateful computational graphs.
+*   Offers advanced agent capabilities through `Deep Agents` for complex task execution, enabling planning, subagent utilization
 
 ## Use Cases
 

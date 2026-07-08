@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026
-collected_at: '2026-07-08T09:19:29.545126+05:30'
-published_at: '2026-07-07T21:51:33Z'
+collected_at: '2026-07-08T14:19:41.002804+05:30'
+published_at: '2026-07-08T07:04:25Z'
 tags:
 - agents
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-06-01T05:40:33Z'
 pushed_at: '2026-07-05T05:00:33Z'
 resource_id: github:arunagirinathan-k/awesome-ai-agents-2026
-first_seen: '2026-07-08T09:19:29.545126+05:30'
-last_seen: '2026-07-08T09:19:29.545126+05:30'
-last_checked: '2026-07-08T09:19:29.545126+05:30'
+first_seen: '2026-07-08T14:19:41.002804+05:30'
+last_seen: '2026-07-08T14:19:41.002804+05:30'
+last_checked: '2026-07-08T14:19:41.002804+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Repository**: Curates 300+ AI agents, frameworks, and tools spanning coding, creative, voice, research, and enterprise domains, with comparison guides and benchmarks.
-- **Key Focus Areas**: Highlights agent frameworks (e.g., CrewAI, LangChain), LLM-based agents, autonomous systems, and enterprise-grade AI tools.
-- **Updated & Structured**: Last updated July 2026, organized as an "awesome-list" with categorized topics for easy navigation.
+- **Comprehensive AI Agent Repository**: Curated list of 300+ AI agents, frameworks, and tools spanning coding, creative, voice, research, and enterprise domains, with comparisons, benchmarks, and deep-dive analyses.
+- **Key Frameworks & Tools**: Includes prominent agent frameworks like CrewAI, LangChain, and LLM-based agents, with focus on autonomous agent development and LLM integration.
+- **Updated & Structured**: Last updated July 8, 2026, with topics covering AI agent ecosystems, autonomous systems, and tooling for 2026 trends.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 96
 - Language: Unknown
 - Topics: 2026, agent-frameworks, ai-agents, ai-tools, autonomous-agents, awesome, awesome-list, crewai, langchain, llm, llm-agents
-- Last Updated: 2026-07-07T21:51:33Z
+- Last Updated: 2026-07-08T07:04:25Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-06-01T05:40:33Z

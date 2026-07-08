@@ -1,35 +1,33 @@
 ---
-title: deepset-ai/haystack
+title: deepset-ai/haystack · Discussions · GitHub
 archive_category: agent-frameworks
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack
+source_url: https://github.com/deepset-ai/haystack/discussions
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
-- github-repo
+- anthropic
 - hackernews
-- mdx
-- models
-- openai
 - rag
+- web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# deepset-ai/haystack
+# deepset-ai/haystack · Discussions · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -37,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular LLM Orchestration**: Enables explicit control over retrieval, routing, memory, and generation for building production-ready LLM applications with context-engineered pipelines.
+- **Haystack GitHub Repository**: Open-source framework by deepset-ai with 25.8k stars, 2.9k forks, and active development (71 issues, 40 PRs) for modular NLP pipelines, particularly RAG systems.
 
-- **Multi-Use Framework**: Supports scalable agents, RAG, multimodal systems, semantic search, and conversational AI with modular design and agent workflows.
+- **Community Discussions**: Active technical forum covering runtime debugging (e.g., DoclingConverter page ranges, event loop handling), security (AgentShield, memory guards), and diagnostics (Haystack Diagnostics Engine) for RAG pipeline optimization.
 
-- **Technical Stack**: Python-based, integrates with PyTorch/Transformers, optimized for information retrieval, QA, summarization, and generative AI wor
+- **Documentation & Tooling**: New open-source d
 
 ## Use Cases
 
@@ -51,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack
+Original source URL: https://github.com/deepset-ai/haystack/discussions
 
 ## Local Vault File
 
