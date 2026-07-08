@@ -1,27 +1,27 @@
 ---
 title: "wnkinc/claude-custom-connector-server"
-category: "Orchestrator"
+category: "Agent Framework"
 tech_stack: ["Python", "FastMCP", "Docker", "Cloudflare Tunnel", "Google OAuth", "Pulumi", "Squid Proxy", "Amazon Bedrock Guardrails", "LlamaFirewall"]
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP", "Claude integration", "secure connectors", "self-hosted", "AI tooling"]
+tags: ["MCP", "Claude integration", "self-hosted", "secure tooling", "cloud deployment"]
 source: "https://github.com/wnkinc/claude-custom-connector-server"
-discovered_at: "2026-07-08T21:02:29Z"
+discovered_at: "2026-07-08T22:15:03Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A self-hosted framework for deploying secure MCP (Model Context Protocol) servers to Claude apps via Cloudflare Tunnel, with Google OAuth authentication and optional guardrails. Supports local and cloud (AWS) deployments with a modular, containerized architecture.
+A self-hosted MCP server framework that enables secure, custom tool integration for Claude applications via Google OAuth authentication and Cloudflare Tunnel. It deploys locally or on cloud infrastructure (e.g., AWS EC2) using Pulumi for provisioning.
 
 ## Key Features
-- Modular MCP server deployment with per-tool isolation in containers
-- Google OAuth authentication with verified-email allowlisting
-- Cloudflare Tunnel for secure, internet-exposed access to tools
-- Optional guardrails (local or Amazon Bedrock) for output screening
-- Supports local and cloud (AWS) deployments with Pulumi automation
+- Secure MCP server framework with per-tool isolation via Docker containers
+- Google OAuth authentication with verified-email allowlist for access control
+- Cloudflare Tunnel for secure, internet-facing exposure of tools
+- Local or cloud deployment (AWS EC2 via Pulumi) with consistent stack
+- Guardrail and approval services for prompt injection prevention and human-in-the-loop gating
 
 ## Why It Matters for RAG Builders
-It provides a secure, scalable way to integrate custom tools with Claude AI while maintaining strict access control and output safety for RAG pipelines.
+It provides a secure, scalable foundation for building custom AI agent tools that integrate with Claude while enforcing strict access controls and deployment flexibility.
 
 ## Tech Stack Deep Dive
 ### Python
