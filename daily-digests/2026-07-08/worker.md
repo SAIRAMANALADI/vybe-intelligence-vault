@@ -4,24 +4,24 @@ category: "Agent Framework"
 tech_stack: ["TypeScript", "Node.js", "Anthropic Claude (Haiku)", "CROO Constellation A2A", "Vitest", "Docker"]
 quality_score: 9
 rag_relevance: 8
-tags: ["research agent", "on-chain AI", "multi-agent orchestration", "deterministic fallback", "sourced draft generation"]
+tags: ["on-chain research", "multi-agent orchestration", "deterministic fallback", "A2A protocol", "sourced draft generation"]
 source: "https://github.com/edycutjong/worker"
-discovered_at: "2026-07-08T05:46:04Z"
+discovered_at: "2026-07-08T08:16:32Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Worker is an on-chain research provider agent that transforms any topic into a structured, sourced research draft. It operates within the CROO Constellation A2A ecosystem, delivering drafts and sources to orchestrators like Maestro for grading and consolidation.
+Worker is an on-chain research provider agent that transforms any topic into a structured, sourced research draft. It operates within the CROO Constellation A2A ecosystem, delivering `{ draft, sources }` to orchestrators like Maestro for grading and consolidation.
 
 ## Key Features
-- Converts topics into structured, sourced research drafts with optional depth and context
-- Operates in deterministic offline mode when no LLM API key is provided
-- Integrates with CROO Constellation for on-chain agent-to-agent transactions
-- Supports self-correction loops via reflection-ready context for improved drafts
-- Containerized for easy deployment and scalability
+- Converts topics into structured research drafts with sources via LLM (when API key is available) or deterministic offline mode
+- Integrates seamlessly with CROO Constellation A2A graph for on-chain agent hiring and delivery
+- Supports self-correction loops by accepting reviewer context for improved drafts
+- Always delivers a gradeable output, even in mock mode or without an LLM API key
+- Containerized for easy deployment to any PaaS environment
 
 ## Why It Matters for RAG Builders
-Worker is essential for RAG builders as it provides a reliable, on-chain research provider that generates sourced drafts, enabling multi-agent orchestration pipelines to function seamlessly.
+Worker is essential for RAG/AI stack builders as it provides the foundational research component that turns raw topics into structured, sourced drafts, enabling downstream agents to grade, vet, and refine the output for high-quality AI pipelines.
 
 ## Tech Stack Deep Dive
 ### TypeScript

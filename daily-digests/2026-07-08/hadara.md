@@ -1,12 +1,12 @@
 ---
 title: "ictseoyoungmin/HADARA"
 category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "CLI", "Markdown", "JSON", "Evidence Logging", "Task Capsules", "Document Governance"]
+tech_stack: ["TypeScript", "Node.js", "CLI", "Markdown", "JSON", "Evidence Logging", "Document Governance"]
 quality_score: 8
-rag_relevance: 9
-tags: ["agentic development", "evidence logging", "task capsules", "LLM workflows", "resumable workflows"]
+rag_relevance: 7
+tags: ["agentic development", "evidence-backed workflows", "task capsules", "LLM integration", "document governance"]
 source: "https://github.com/ictseoyoungmin/HADARA"
-discovered_at: "2026-07-08T05:46:03Z"
+discovered_at: "2026-07-08T08:16:25Z"
 evaluated_by: "mistral-small-latest"
 ---
 
@@ -14,14 +14,14 @@ evaluated_by: "mistral-small-latest"
 HADARA is a portable agentic development workbench designed to make long-running AI-assisted software workflows inspectable, resumable, and evidence-backed. It binds non-deterministic LLM agent work into structured, production-oriented workflows using Task Capsules, evidence logs, and handoff documents.
 
 ## Key Features
-- Task Capsules for scoped, resumable AI-assisted work units
-- Evidence Logs for verifiable validation and audit trails
-- Handoff Protocol for seamless state transitions between operators or agents
-- Structured governance with document classification and registry
-- Dry-run and hash-guarded execution for safe, evidence-backed finalization
+- Task Capsules for scoped, resumable AI-assisted work units with structured lifecycle management
+- Evidence Logs for recording validation results and reducing private log exposure
+- Handoff Protocol to preserve project state for seamless operator or agent transitions
+- Document Governance with classification for canonical, active, historical, and archived docs
+- Structured CLI with machine-readable command discovery for agent or tool integration
 
 ## Why It Matters for RAG Builders
-HADARA provides a critical framework for ensuring AI-assisted development workflows are auditable, resumable, and production-ready, bridging the gap between experimental LLM outputs and reliable software engineering practices.
+HADARA provides a structured, evidence-backed framework for managing AI-assisted development workflows, ensuring reproducibility and auditability critical for RAG and agentic systems.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -41,9 +41,6 @@ Automated review identified **JSON** as a key module contributing to infrastruct
 
 ### Evidence Logging
 Automated review identified **Evidence Logging** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Task Capsules
-Automated review identified **Task Capsules** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Document Governance
 Automated review identified **Document Governance** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
