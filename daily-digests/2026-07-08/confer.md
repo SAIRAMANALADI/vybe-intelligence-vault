@@ -1,27 +1,27 @@
 ---
 title: "rohansx/confer"
 category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "React", "Vite", "Hono", "SQLite", "Model Context Protocol (MCP)", "Docker", "Caddy", "Zod", "TurboRepo"]
+tech_stack: ["TypeScript", "Node.js", "React", "Vite", "Hono", "SQLite", "Zod", "Model Context Protocol (MCP)", "Docker", "Caddy", "Litestream", "Slack Webhooks"]
 quality_score: 9
 rag_relevance: 8
-tags: ["documentation management", "MCP integration", "human-in-the-loop review", "provenance tracking", "self-hosted"]
+tags: ["documentation review", "MCP integration", "provenance tracking", "collaborative AI", "self-hosted"]
 source: "https://github.com/rohansx/confer"
-discovered_at: "2026-07-08T15:15:18Z"
+discovered_at: "2026-07-08T17:25:05Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Confer is a self-hostable, MCP-native platform that enables agents to write documentation, humans to review and approve it, and agents to read only approved content with provenance. It enforces an approved-only invariant for MCP read paths and provides a secure, cookie-free viewer sandbox.
+Confer is a self-hostable, MCP-native review platform for AI-generated documentation that enforces an approved-only invariant, ensuring agents read only human-approved content unless explicitly opting into unapproved material. It facilitates a collaborative loop where agents write docs, humans review and approve, and agents consume only the approved corpus with full provenance tracking.
 
 ## Key Features
-- Approved-only invariant for MCP read paths with optional unapproved scope
-- Human review and approval workflow for AI-generated documentation
-- Secure, cookie-free viewer sandbox with CSP enforcement
-- Provenance tracking for all content changes
-- Self-hostable with Docker support and Litestream backups
+- Approved-only invariant for MCP reads, ensuring only human-approved content is consumed by default
+- Two-origin architecture (app and view) with CSP-locked sandbox for secure document viewing
+- Provenance tracking for all documents, including git and review history
+- CLI and MCP server for seamless integration with AI workflows
+- Self-hostable with Docker, SQLite backups, and Slack notifications
 
 ## Why It Matters for RAG Builders
-Confer ensures AI agents only read human-approved documentation with provenance, reducing hallucinations and improving reliability in RAG pipelines.
+Confer ensures reliable, provenance-backed documentation for AI systems by enforcing human oversight and approval before content is consumed, critical for maintaining accuracy and trust in RAG pipelines.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -42,6 +42,9 @@ Automated review identified **Hono** as a key module contributing to infrastruct
 ### SQLite
 Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
+### Zod
+Automated review identified **Zod** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### Model Context Protocol (MCP)
 Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
@@ -51,11 +54,11 @@ Automated review identified **Docker** as a key module contributing to infrastru
 ### Caddy
 Automated review identified **Caddy** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Zod
-Automated review identified **Zod** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Litestream
+Automated review identified **Litestream** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### TurboRepo
-Automated review identified **TurboRepo** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Slack Webhooks
+Automated review identified **Slack Webhooks** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

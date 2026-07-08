@@ -1,27 +1,27 @@
 ---
 title: "dj-pearson/MCPFold"
 category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "React", "Zod", "ESLint", "Vitest", "pnpm", "Deno", "Supabase", "Cloudflare Pages"]
+tech_stack: ["TypeScript", "Node.js", "React", "Deno", "Supabase", "Zod", "Vitest", "ESLint", "pnpm", "JSON Schema"]
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "context-window optimization", "configuration management", "proxy", "secret management"]
+tags: ["MCP", "context-window optimization", "tool curation", "secret management", "multi-client config"]
 source: "https://github.com/dj-pearson/MCPFold"
-discovered_at: "2026-07-08T15:16:10Z"
+discovered_at: "2026-07-08T17:26:37Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-mcpfold is a tool that optimizes MCP (Model Context Protocol) server configurations by curating toolsets per client to reduce context-window usage and centralizing configuration management with secret references. It provides a local proxy for tool-level curation and a CLI for managing canonical configs across multiple clients.
+`mcpfold` is a local-first MCP (Model Context Protocol) proxy and configuration manager that optimizes tool schema loading for AI agents by curating toolsets per client and resolving secret references dynamically, reducing context-window overhead by up to 80%.
 
 ## Key Features
-- Curates MCP toolsets per client to reduce context-window tokens by ~80%
-- Centralizes configuration with a canonical `mcp.config.jsonc` format
-- Resolves secret references instead of hardcoding values
-- Provides a local MCP proxy for tool-level filtering
-- Supports cross-platform deployment with CI matrix testing
+- Reduces tool-schema tokens by ~80% via per-client toolset curation without additional configuration
+- Unified canonical config (`mcp.config.jsonc`) with secret reference resolution for multi-client compatibility
+- Pure core engine (`@mcpfold/core`) with strict I/O injection for cross-platform reliability
+- Local-first CLI with cloud sync layer (self-hostable) and visual editor (React/TS)
+- Autonomous build loop driven by `prd.json` for iterative development and progress tracking
 
 ## Why It Matters for RAG Builders
-mcpfold reduces context-window overhead for RAG systems by dynamically curating MCP toolsets, making it essential for optimizing AI agent performance and cost efficiency.
+It eliminates the context-window tax for MCP servers by dynamically curating toolsets per client, making AI agent interactions more efficient and scalable.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -33,26 +33,26 @@ Automated review identified **Node.js** as a key module contributing to infrastr
 ### React
 Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Zod
-Automated review identified **Zod** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### ESLint
-Automated review identified **ESLint** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Vitest
-Automated review identified **Vitest** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### pnpm
-Automated review identified **pnpm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### Deno
 Automated review identified **Deno** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Supabase
 Automated review identified **Supabase** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Cloudflare Pages
-Automated review identified **Cloudflare Pages** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Zod
+Automated review identified **Zod** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Vitest
+Automated review identified **Vitest** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### ESLint
+Automated review identified **ESLint** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### pnpm
+Automated review identified **pnpm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### JSON Schema
+Automated review identified **JSON Schema** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

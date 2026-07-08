@@ -4,24 +4,24 @@ category: "Tooling"
 tech_stack: ["Python", "SQLite", "MCP (Model Context Protocol)", "Git", "CLI", "Docker"]
 quality_score: 9
 rag_relevance: 8
-tags: ["code intelligence", "local RAG", "agent safety", "preflight analysis", "evidence-based changes"]
+tags: ["code intelligence", "AI agent safety", "local development", "change evidence", "dependency analysis"]
 source: "https://github.com/Cranot/roam-code"
-discovered_at: "2026-07-08T12:25:39Z"
+discovered_at: "2026-07-08T17:27:27Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-roam-code is a local codebase intelligence layer for AI coding agents that provides dependency-aware, tamper-evident evidence for code changes. It indexes repositories into a SQLite-backed graph, offers preflight risk assessments, and compiles agent prompts with local facts to reduce token usage and cost.
+roam-code is a local codebase intelligence layer that enables AI coding agents to safely and transparently modify code by providing dependency-aware context, tamper-evident change evidence, and risk-gated editing. It operates entirely offline by default, with opt-in metrics collection.
 
 ## Key Features
 - SQLite-backed code graph indexing 28 languages with symbols, calls, imports, and git history
-- Preflight risk assessment for symbols before editing (blast radius, affected tests, complexity, coupling)
 - Tamper-evident ChangeEvidence packets with HMAC-chained run ledgers and signed attestations
-- MCP server integration for AI coding agents (Claude Code, Cursor, Continue) with compile-before prompts
-- Dependency-aware queries replacing 5-10 tool calls with sub-0.5s responses and 80% token reduction
+- Dependency-aware preflight checks (blast radius, affected tests, complexity, coupling) before code edits
+- MCP runtime security with policy gating (read_only, safe_edit, migration, autonomous_pr) and secret scrubbing
+- Task compiler that pre-executes code-graph lookups to reduce agent turns, tokens, and costs by up to 83%
 
 ## Why It Matters for RAG Builders
-It provides local, dependency-aware code intelligence and tamper-evident evidence for AI agents, reducing token waste and enabling safer, more efficient code changes in RAG pipelines.
+It provides essential, dependency-aware context and safety gates for AI agents to modify code with verifiable evidence, reducing errors and costs while ensuring local, credential-free operation.
 
 ## Tech Stack Deep Dive
 ### Python
