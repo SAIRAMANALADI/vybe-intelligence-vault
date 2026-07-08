@@ -4,24 +4,24 @@ category: "UI Component"
 tech_stack: ["Rust", "Axum", "SQLite", "React 19", "Tailwind CSS 4", "xterm.js", "tmux", "WebSocket", "Docker"]
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent monitoring", "tmux integration", "web-based terminal", "multi-agent dashboard", "developer tooling"]
+tags: ["AI agent monitoring", "tmux integration", "terminal dashboard", "Git worktree awareness", "multi-agent management"]
 source: "https://github.com/GDWhisper/OmniTerm"
-discovered_at: "2026-07-08T12:24:20Z"
+discovered_at: "2026-07-08T15:15:22Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-OmniTerm provides a unified web-based dashboard for monitoring and interacting with AI coding agents like Claude Code and Codex. It eliminates the need for manual terminal multiplexing by offering live agent status, a file browser, and an integrated terminal in a single browser tab.
+OmniTerm provides a unified browser-based dashboard for monitoring and interacting with AI coding agents like Claude Code and Codex. It eliminates the need for manual terminal multiplexing by offering live status tracking, a built-in terminal, file browser, and Git worktree awareness in a single interface.
 
 ## Key Features
 - Real-time monitoring of AI coding agents with live status badges (running, waiting, finished)
-- Integrated file browser with syntax highlighting and Git worktree awareness
-- Built-in terminal powered by xterm.js with full keyboard support
+- Built-in terminal and file browser with syntax highlighting for 13 languages
+- Git worktree auto-discovery and branch-based session grouping
 - Single binary deployment with embedded frontend and SQLite backend
-- Cross-platform support (Linux, macOS, Windows via psmux)
+- Cross-platform support including Windows (via psmux) and Docker containers
 
 ## Why It Matters for RAG Builders
-OmniTerm simplifies the management of multiple AI coding agents by providing a centralized, real-time dashboard, reducing operational overhead for RAG and AI stack builders.
+OmniTerm simplifies the management of multiple AI agents by providing a centralized interface, reducing operational overhead for RAG and AI stack builders.
 
 ## Tech Stack Deep Dive
 ### Rust

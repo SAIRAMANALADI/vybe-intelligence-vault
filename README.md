@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 50,174 files</p>
-        <p><b>Last Update:</b> 2026-07-08 17:57 IST</p>
+        <p><b>Last Update:</b> 2026-07-08 20:48 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,26 +210,20 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](ai/community/gitlost-we-tricked-github-s-ai-agent-into-leaking.md)** • <kbd>+96 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Chat Control 1.0 and 2.0 Explained](ai/community/chat-control-1-0-and-2-0-explained.md)** • <kbd>+62 pts</kbd>
-- 🔼 **[Tenda firmware (multiple versions) contains hidden authentication backdoor](ai/community/tenda-firmware-multiple-versions-contains-hidden-a.md)** • <kbd>+48 pts</kbd>
-- 🔼 **[Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks](ai/community/copy-that-floppy-cambridge-guide-for-preserving-da.md)** • <kbd>+23 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[Show HN: Davit, a Apple Containers UI](ai/community/show-hn-davit-a-apple-containers-ui.md)** • <kbd>+17 pts</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+8</kbd>
+- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+5</kbd>
+- 🔼 **[RUC-NLPIR/FlashRAG](ai/rag/ruc-nlpir-flashrag.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[EVE Online's Carbon engine is now open source: Fenris Creations explains why](ai/community/eve-online-s-carbon-engine-is-now-open-source-fenr.md)** • Score: `59`
-- 🆕 **[Litmaps | Your Literature Review Assistant](ai/resources/litmaps-your-literature-review-assistant.md)** • Score: `0`
-- 🆕 **[- YouTube](ai/resources/youtube-k3r9axddrru.md)** • Score: `0`
-- 🆕 **[How Klarna's AI assistant redefined customer support at scale for 85 million active users](ai/rag/how-klarna-s-ai-assistant-redefined-customer-suppo.md)** • Score: `0`
-- 🆕 **[2026 Company Logos (External) - Google Drive](ai/resources/2026-company-logos-external-google-drive.md)** • Score: `0`
+- 🆕 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[We're extending access to Fable 5 on all paid plans through July 12](ai/community/we-re-extending-access-to-fable-5-on-all-paid-plan.md)**
-- 💤 **[Out of the Armchair](ai/community/out-of-the-armchair.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

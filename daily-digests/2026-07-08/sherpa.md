@@ -1,27 +1,27 @@
 ---
 title: "piotrlangowski/Sherpa"
 category: "Tooling"
-tech_stack: ["TypeScript", "SvelteKit", "Node.js", "SQLite", "MCP (Model Context Protocol)", "LLM Integration", "Claude Desktop"]
-quality_score: 9
+tech_stack: ["TypeScript", "SvelteKit", "Node.js", "SQLite", "MCP (Model Context Protocol)", "LLM (Large Language Model) integration", "DAG (Directed Acyclic Graph) for service dependencies"]
+quality_score: 8
 rag_relevance: 7
-tags: ["ROI calculator", "AI economics", "SaaS financial modeling", "LLM cost analysis", "local-first"]
+tags: ["ROI calculator", "AI feature evaluation", "SaaS metrics", "local-first", "MCP server"]
 source: "https://github.com/piotrlangowski/Sherpa"
-discovered_at: "2026-07-08T12:25:40Z"
+discovered_at: "2026-07-08T15:16:05Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Sherpa is an AI feature ROI calculator designed for SaaS companies, enabling CFO-grade financial modeling of AI implementations. It combines revenue projections, LLM token cost analysis, and CAPEX/OPEX tracking to compute NPV, payback period, and IRR locally without cloud dependency.
+Sherpa is an AI feature ROI calculator designed for SaaS companies, enabling product leaders to evaluate the financial viability of AI features using CFO-grade metrics like NPV, IRR, and payback period. It operates locally with no cloud dependency, offering both a CLI/MCP server for Claude Desktop integration and a standalone web dashboard for scenario modeling and visualization.
 
 ## Key Features
-- CFO-grade financial modeling for AI features with NPV, payback period, and IRR calculations
-- Local-first data storage and computation, ensuring privacy and offline capability
-- MCP server integration for conversational AI scenario modeling via Claude Desktop
+- CFO-grade financial modeling (NPV, IRR, payback period) for AI features with contribution-margin basis
+- Local-first architecture ensuring data privacy and offline computation
+- MCP server integration with Claude Desktop for conversational scenario modeling
 - Sensitivity analysis and tornado charts for risk assessment
-- Scenario comparison and export/import functionality for real-world data integration
+- Standalone web dashboard for visual scenario comparison and dashboard export
 
 ## Why It Matters for RAG Builders
-Sherpa provides critical financial clarity for AI feature decisions in SaaS, enabling data-driven ROI analysis without cloud dependency or LLM token waste.
+Sherpa provides a critical tool for AI stack builders to quantitatively assess the financial impact of AI features, bridging the gap between technical implementation and business viability with local-first privacy.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -39,11 +39,11 @@ Automated review identified **SQLite** as a key module contributing to infrastru
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### LLM Integration
-Automated review identified **LLM Integration** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### LLM (Large Language Model) integration
+Automated review identified **LLM (Large Language Model) integration** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Claude Desktop
-Automated review identified **Claude Desktop** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### DAG (Directed Acyclic Graph) for service dependencies
+Automated review identified **DAG (Directed Acyclic Graph) for service dependencies** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
