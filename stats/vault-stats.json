@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-09T22:49:15.516683+05:30",
-  "last_updated": "2026-07-09 22:49 IST",
+  "generated_at": "2026-07-10T01:01:57.375836+05:30",
+  "last_updated": "2026-07-10 01:01 IST",
   "total_resources": 10650,
   "active_resources": 10399,
   "inactive_resources": 251,
-  "total_markdown_files": 54587,
+  "total_markdown_files": 54617,
   "archive_files": 41724,
   "archive_categories": 35,
   "workspace_archive_categories": 35,
@@ -17,7 +17,7 @@
   "examples_count": 8,
   "search_index_entries": 10400,
   "latest_resource_date": "2026-07-09T21:20:45.951177+05:30",
-  "latest_update_time": "2026-07-09T22:49:15.516754+05:30",
+  "latest_update_time": "2026-07-10T01:01:57.375893+05:30",
   "top_categories": [
     {
       "name": "ai/research",
