@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/steel-dev/awesome-web-agents
-collected_at: '2026-07-09T01:30:41.943845+05:30'
-published_at: '2026-07-07T14:28:52Z'
+collected_at: '2026-07-09T09:49:07.714110+05:30'
+published_at: '2026-07-09T01:55:45Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
 - scripts
-stars: 1496
+stars: 1497
 language: Python
 status: active
 license: NOASSERTION
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-03-06T05:23:47Z'
 pushed_at: '2026-06-30T09:53:51Z'
 resource_id: github:steel-dev/awesome-web-agents
-first_seen: '2026-07-09T01:30:41.943845+05:30'
-last_seen: '2026-07-09T01:30:41.943845+05:30'
-last_checked: '2026-07-09T01:30:41.943845+05:30'
+first_seen: '2026-07-09T09:49:07.714110+05:30'
+last_seen: '2026-07-09T09:49:07.714110+05:30'
+last_checked: '2026-07-09T09:49:07.714110+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Tools & Frameworks**: Repository aggregates Python-based tools, frameworks, and libraries for developing AI web agents, including browser automation, LLM integration, and benchmarking utilities.
-- **High-Activity Metrics**: Maintains 1,496 stars and 195 forks, indicating strong community engagement and adoption in AI agent development.
-- **Specialized Focus**: Targets AI agents, LLM benchmarking, and browser automation, with last update on 2026-07-07, ensuring relevance in rapidly evolving AI tooling.
+- **Curated list** of tools, frameworks, and resources for developing AI web agents, covering browser automation, LLM benchmarking, and agent orchestration.
+- **Python-centric** repository with 1,497 stars and 195 forks, last updated July 2026.
+- **Topics** include AI agents, LLMs, browser automation, and benchmarking frameworks for autonomous web interaction.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: steel-dev
-- Stars: 1496
+- Stars: 1497
 - Forks: 195
 - Language: Python
 - Topics: ai, ai-agents, awesome, awesome-list, browser-automation, llms, llms-benchmarking
-- Last Updated: 2026-07-07T14:28:52Z
+- Last Updated: 2026-07-09T01:55:45Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-03-06T05:23:47Z

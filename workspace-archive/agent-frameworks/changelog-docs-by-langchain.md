@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **`deepagents` v0.7.0**: Introduced a new `delete` filesystem tool for recursive directory deletion, modified `write_file` to overwrite existing files (use `edit_file` for targeted changes), enabled middleware instance overriding via name matching, and added filesystem tool allowlisting in `FilesystemMiddleware`.
+- **`deepagents` v0.7.0a6**: Introduced a new `delete` filesystem tool for recursive directory/file deletion, modified `write_file` to overwrite existing files, enabled middleware instance overriding via `.name` matching, and added filesystem tool allowlisting in `FilesystemMiddleware`.
 
-- **`DeltaChannel` (beta)**: Implemented in `deepagents` and `langgraph` v1.2.0 to store only incremental deltas for large-growing channels (e.g., message lists), reducing checkpoint
+- **`DeltaChannel` (beta)**: Implemented in `deepagents` and `langgraph` v1.2.0, this channel type stores only incremental deltas per step (e.g., message history) to reduce checkpoint overhead, with optional ful
 
 ## Use Cases
 

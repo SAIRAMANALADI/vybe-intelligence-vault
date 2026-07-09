@@ -24,9 +24,9 @@ https://github.com/ggerganov/llama.cpp (llama.cpp)
 https://github.com/vllm-project/vllm (vLLM)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
 - [vndee/local-assistant-examples](https://github.com/vndee/local-assistant-examples)
-- [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2)
 - [microsoft/rag-time](https://github.com/microsoft/rag-time)
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+- [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-07-09 01:43 IST*
+*Last updated: 2026-07-09 10:02 IST*

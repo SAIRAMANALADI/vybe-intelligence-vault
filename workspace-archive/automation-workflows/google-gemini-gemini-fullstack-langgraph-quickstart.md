@@ -8,7 +8,7 @@ local_vault_path: ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: template
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # google-gemini/gemini-fullstack-langgraph-quickstart
@@ -28,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: template
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Purpose**: Demonstrates building full-stack agents using **Gemini 2.5** and **LangGraph**, integrating frontend/backend workflows.
-- **Technical Stack**: Primarily implemented in **Jupyter Notebooks**, leveraging the **Gemini API** for agent orchestration.
-- **Key Features**: Provides a starter template for multi-agent systems with LangGraph, showcasing real-time agent interactions and state management.
+- **Purpose**: Demonstrates building full-stack AI agents using **Gemini 2.5** and **LangGraph** for orchestration.
+- **Technical Stack**: Implemented in **Jupyter Notebooks**, leveraging the **Gemini API** for LLM capabilities and LangGraph for agent workflows.
+- **Updates**: Last modified on **2026-07-08**, with **18,247 stars** and **3,081 forks** indicating community adoption.
 
 ## Use Cases
 

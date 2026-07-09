@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-09T01:29:41.705664+05:30'
+collected_at: '2026-07-09T09:48:07.628772+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
+- benchmark
 - github-repo
 - paper
 - python
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-09T01:29:41.705664+05:30'
-last_seen: '2026-07-09T01:29:41.705664+05:30'
-last_checked: '2026-07-09T01:29:41.705664+05:30'
+first_seen: '2026-07-09T09:48:07.628772+05:30'
+last_seen: '2026-07-09T09:48:07.628772+05:30'
+last_checked: '2026-07-09T09:48:07.628772+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling Retrieval-Augmented Generation (RAG) over diverse data modalities (text, images, tables) and granularities (documents, paragraphs, cells), leveraging unified embedding and retrieval mechanisms.
+- **Multimodal & Multi-Granularity RAG Framework**: Introduces UniversalRAG, an ACL 2026 Oral paper proposing a retrieval-augmented generation (RAG) system capable of handling diverse data modalities (text, images, tables, etc.) and granularities (document-level to fine-grained spans) within a unified architecture.
 
-- **ACL 2026 Oral Paper**: Presents a novel approach for scalable, cross-modal retrieval and generation, addressing challenges in heterogeneous corpus integration with a single model architecture.
+- **Modality-Agnostic Retrieval & Fusion**: Implements a modality-agnostic retriever (leveraging cross-modal embeddings) and a fusion mechanism to dynamically integrate retrieved heterogeneous data into the generation pipeline, optimizing context relevance across modalities.
 
-- **Open-Source Implementation**: Provides a Python-based repository with modular components for embedding, retrieval, and generation, optimized for multimodal corpora with extensible interfaces.
+- **Open-Source Python Implementation**: Provides a modular, extensible Python codebase (173 stars, 13 forks) with pre-trained models, evaluation tools, and APIs for custom corpus integration, supporting rapid deployment of multimodal RAG systems.
 
 ## Why It Matters
 

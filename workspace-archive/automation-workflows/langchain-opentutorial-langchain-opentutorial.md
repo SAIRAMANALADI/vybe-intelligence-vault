@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Comprehensive tutorial repository for LangChain and LangGraph, designed to educate users on building AI agents and workflows using Jupyter Notebooks.
-- **Structure**: Contains hands-on examples, likely covering agent orchestration, graph-based workflows, and integration patterns in LangChain/LangGraph.
-- **Status**: Actively maintained (last updated July 2026) with 1,088 stars and 341 forks, indicating strong community engagement.
+- **Purpose**: Open-source tutorial repository for LangChain and LangGraph, designed to educate users on agent-based systems and workflows.
+- **Content**: Primarily Jupyter Notebooks, covering practical implementations and use cases of LangChain/LangGraph.
+- **Metadata**: 1,088 stars, 341 forks, last updated July 7, 2026.
 
 ## Use Cases
 

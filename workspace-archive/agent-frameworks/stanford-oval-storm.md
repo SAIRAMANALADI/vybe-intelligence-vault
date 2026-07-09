@@ -2,7 +2,7 @@
 title: stanford-oval/storm
 archive_category: agent-frameworks
 source_category: ai/rag
-source_url: https://github.com/stanford-oval/storm
+source_url: https://github.com/stanford-oval/storm?source=post_page
 resource_id: github:stanford-oval/storm
 local_vault_path: ai/rag/stanford-oval-storm.md
 quality_score: 70
@@ -10,11 +10,6 @@ archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
-tags:
-- agents
-- github-repo
-- python
-- rag
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +28,11 @@ selection_reason:
 
 ## Summary
 
-- **LLM-Powered Research System**: STORM autonomously researches topics using large language models (LLMs) to generate comprehensive reports with inline citations, leveraging agentic retrieval-augmented generation (RAG) for iterative knowledge curation.
+- **LLM-Powered Knowledge Curation**: Uses large language models (LLMs) to autonomously research topics, synthesize information, and generate comprehensive reports with inline citations from retrieved sources.
 
-- **Multi-Agent Framework**: Implements a hierarchical agent architecture (researcher, writer, and critic agents) to decompose complex topics, synthesize evidence, and refine outputs via iterative feedback loops, as detailed in EMNLP 2024.
+- **Multi-Agent Retrieval-Augmented Generation (RAG)**: Implements an agentic RAG framework (`storm`) where specialized agents iteratively retrieve, verify, and refine information to produce structured, citation-backed reports.
 
-- **
+- **EMNLP 2024 & NAACL Contributions**: Presented as a resea
 
 ## Use Cases
 
@@ -47,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/stanford-oval/storm
+Original source URL: https://github.com/stanford-oval/storm?source=post_page
 
 ## Local Vault File
 

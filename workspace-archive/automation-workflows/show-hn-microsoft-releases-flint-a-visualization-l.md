@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by chenglong-hn. Score: 89, Comments: 32.
+Hacker News story by chenglong-hn. Score: 230, Comments: 86.
 Original Link: https://microsoft.github.io/flint-chart/#/
 
 ## Use Cases

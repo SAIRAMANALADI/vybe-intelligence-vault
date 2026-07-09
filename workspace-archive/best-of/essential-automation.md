@@ -18,6 +18,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
 - **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`model-context-protocol-github.md`](../../ai/resources/model-context-protocol-github.md)
@@ -38,9 +43,9 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG)
-- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`apecloud-aperag.md`](../../ai/rag/apecloud-aperag.md)
+### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy)
@@ -61,11 +66,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
 - **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`sickn33-agentic-awesome-skills.md`](../../ai/agents/sickn33-agentic-awesome-skills.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`wassim249-fastapi-langgraph-agent-production-ready-template.md`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-09 01:44 IST*
+*Last updated: 2026-07-09 10:02 IST*

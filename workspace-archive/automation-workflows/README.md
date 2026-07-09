@@ -14,7 +14,7 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
 - [Pinecone · GitHub](https://github.com/pinecone-io) (framework - ESSENTIAL Tier)
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
-- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) (dataset - ESSENTIAL Tier)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (benchmark - ESSENTIAL Tier)
 - [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-07-09 01:44 IST*
+*Last updated: 2026-07-09 10:02 IST*

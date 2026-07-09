@@ -8,16 +8,18 @@ local_vault_path: ai/agents/nousresearch-hermes-agent.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: api
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - anthropic
 - github-repo
+- models
 - openai
 - python
+- workflows
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # NousResearch/hermes-agent
@@ -26,15 +28,17 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: api
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Supports integration with various LLMs (e.g., Anthropic, OpenAI, Codex) via modular API wrappers, enabling dynamic agent behavior across providers.
-- **Self-Improving Architecture**: Implements a feedback-driven growth mechanism where the agent refines its performance through iterative task execution and user corrections.
-- **Tool-Agnostic Execution**: Executes tasks via standardized interfaces (e.g., `claude-code`, `moltbot`) with extensible tooling for code gener
+- **Multi-Provider LLM Integration**: Supports Anthropic, OpenAI, and other LLM providers via modular API clients for dynamic agent behavior across models like Claude, GPT-4, and Codex.
+
+- **Self-Improving Architecture**: Implements recursive self-critique and tool-use (e.g., `claude-code`) to autonomously refine prompts, code, and workflows without manual intervention.
+
+- **Extensible Tooling System**: Provides a plugin-based framework (`clawdbot`, `moltbot`) for integrating custom tools, APIs,
 
 ## Use Cases
 

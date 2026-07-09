@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025
-published_at: '2026-06-22T11:13:13.478892+05:30'
-collected_at: '2026-06-22T11:13:13.478903+05:30'
+published_at: '2026-07-09T09:46:25.333837+05:30'
+collected_at: '2026-07-09T09:46:25.333853+05:30'
 tags:
 - anthropic
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-retrieval-augmented-generation-guide-2025-impl
-first_seen: '2026-06-22T11:13:13.478903+05:30'
-last_seen: '2026-06-22T11:13:13.478903+05:30'
-last_checked: '2026-06-22T11:13:13.478903+05:30'
+first_seen: '2026-07-09T09:46:25.333853+05:30'
+last_seen: '2026-07-09T09:46:25.333853+05:30'
+last_checked: '2026-07-09T09:46:25.333853+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI `text-embedding-ada-002`, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for dynamic knowledge retrieval and LLM response augmentation.
+- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI `text-embedding-ada-002`, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for dynamic knowledge retrieval, reducing hallucinations from 30% to <5% and improving accuracy to 90-95%.
 
-- **Advanced Techniques**: Implements hierarchical retrieval, query expansion, hybrid search (vector + BM25), re-ranking (cross-encoder models), and self-RAG for adaptive, multi-step retrieval to reduce hallucinations and improve precision.
+- **Advanced Retrieval Techniques**: Implements hierarchical retrieval, query expansion (20-30% recall boost), hybrid search (vector + BM25), re-ranking (15-25% precision gain), and adaptive retrieval (Self-RAG) to optimize context relevance and response quality.
 
-- **Production Metrics**: Achieves 90-95% accuracy with <2s latency, $0.02-0.10/query cost, and 10-50x cost savings vs. fine-tuning; validated in case studies (e.g., legal Q&A: 92% accuracy, 2.5s response time).
+- **Production Metrics & Trade-offs**: Achieves <2s end-to-end latency with caching, costs $0.02-0.10/query at scale, and outperforms fine-tuning (10-50x cheaper, real-time updates) while requiring 1-2 days setup vs weeks for fine-tuning.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:13:13.478892+05:30
+- Published: 2026-07-09T09:46:25.333837+05:30
 
 ## Related Tags
 

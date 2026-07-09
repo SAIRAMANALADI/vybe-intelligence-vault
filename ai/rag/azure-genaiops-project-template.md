@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-07-09T01:28:21.708558+05:30'
+collected_at: '2026-07-09T09:46:47.537738+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
-- openai
 - rag
-- scripts
 - workflows
 stars: 44
 language: Bicep
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-07-09T01:28:21.708558+05:30'
-last_seen: '2026-07-09T01:28:21.708558+05:30'
-last_checked: '2026-07-09T01:28:21.708558+05:30'
+first_seen: '2026-07-09T09:46:47.537738+05:30'
+last_seen: '2026-07-09T09:46:47.537738+05:30'
+last_checked: '2026-07-09T09:46:47.537738+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Deploys a Retrieval-Augmented Generation (RAG) pipeline using Bicep, enabling automated provisioning of Azure resources (e.g., Azure OpenAI, Cognitive Search, AI Search) for GenAI workloads.
+- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for a Generative AI Operations (GenAIOps) project, enabling automated provisioning of Azure resources for Retrieval-Augmented Generation (RAG) workflows.
 
-- **Modular Design**: Organized into reusable Bicep modules for core components (e.g., networking, compute, storage) and RAG-specific resources (e.g., embeddings, vector databases), facilitating scalability and customization.
+- **RAG Pipeline Integration**: Includes pre-configured components for vector databases, embedding models, and LLM orchestration, facilitating end-to-end RAG workflows with minimal setup.
 
-- **CI/CD-Ready**: Includes GitHub Actions workflows for automated deployment, validation, and testing, ensuring infrastructure consistency and rapid iteration for GenAI Ops workflows.
+- **CI/CD & Monitoring**: Embedded Azure DevOps pipelines and monitoring dashboards (e.g., Azure Monitor) for operationalizing GenAI models, ensuring scalability, logging, and performance tracking.
 
 ## Why It Matters
 

@@ -14,6 +14,7 @@ tags:
 - benchmark
 - github-repo
 - hackernews
+- paper
 - rag
 - unknown
 selection_reason:
@@ -32,8 +33,8 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource**: Repository `zhengxuJosh/Awesome-RAG-Vision` aggregates state-of-the-art **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including multimodal RAG, vision-language models, and domain-specific applications.
-- **Technical Scope**: Encompasses **advanced RAG frameworks** (e.g., cross-modal retrieval, dynamic prompt augmentation) and **evaluation benchmarks** for vision-language tasks, with emphasis on integrating external knowledge in
+- **Curated Collection**: Repository aggregates advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, including methods integrating vision-language models (VLMs), multimodal retrieval, and cross-modal attention mechanisms.
+- **Technical Scope**: Encompasses state-of-the-art RAG frameworks for tasks like **image captioning, visual question answering (VQA), and zero-shot object detection**, with emphasis on leveraging external knowledge ba
 
 ## Use Cases
 

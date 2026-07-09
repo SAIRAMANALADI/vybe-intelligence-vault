@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/workflow-builder-template
-collected_at: '2026-07-09T01:30:06.772119+05:30'
+collected_at: '2026-07-09T09:48:32.690273+05:30'
 published_at: '2026-07-07T18:48:37Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-11-03T17:14:16Z'
 pushed_at: '2026-01-13T08:27:13Z'
 resource_id: github:vercel-labs/workflow-builder-template
-first_seen: '2026-07-09T01:30:06.772119+05:30'
-last_seen: '2026-07-09T01:30:06.772119+05:30'
-last_checked: '2026-07-09T01:30:06.772119+05:30'
+first_seen: '2026-07-09T09:48:32.690273+05:30'
+last_seen: '2026-07-09T09:48:32.690273+05:30'
+last_checked: '2026-07-09T09:48:32.690273+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Visual AI Workflow Automation**: A TypeScript-based platform enabling drag-and-drop creation of AI-driven workflows with reusable components (agents) for automation tasks.
+- **Visual AI Workflow Automation**: Template for building AI-driven workflow automation platforms with a visual interface, leveraging Vercel's ecosystem.
 
-- **Vercel Integration**: Built on Vercel’s ecosystem, leveraging serverless functions and edge runtime for scalable, low-latency workflow execution.
+- **TypeScript-Based Architecture**: Entirely implemented in TypeScript, ensuring type safety and scalability for workflow components and AI agent integrations.
 
-- **Open-Source Template**: Provides a starter kit (1162 stars, 222 forks) for deploying modular AI workflows with pre-configured templates and extensible agent logic.
+- **Agent & Workflow Orchestration**: Supports modular AI agent definitions and dynamic workflow composition, enabling complex automation pipelines with reusable components.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: vercel-labs
 - Stars: 1162
-- Forks: 222
+- Forks: 223
 - Language: TypeScript
 - Topics: agents, ai, workflows
 - Last Updated: 2026-07-07T18:48:37Z

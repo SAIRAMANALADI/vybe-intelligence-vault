@@ -4,15 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-09T01:29:16.679664+05:30'
+collected_at: '2026-07-09T09:47:42.539469+05:30'
 published_at: '2026-07-05T07:03:45Z'
 tags:
 - benchmark
+- dataset
 - github-repo
-- hackernews
-- meta-ai
-- mistral
-- models
 - python
 - rag
 - reddit
@@ -24,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-09T01:29:16.679664+05:30'
-last_seen: '2026-07-09T01:29:16.679664+05:30'
-last_checked: '2026-07-09T01:29:16.679664+05:30'
+first_seen: '2026-07-09T09:47:42.539469+05:30'
+last_seen: '2026-07-09T09:47:42.539469+05:30'
+last_checked: '2026-07-09T09:47:42.539469+05:30'
 health_score: 100
 ---
 
@@ -34,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Framework**: Introduces *PoisonedRAG*, a first-of-its-kind attack targeting Retrieval-Augmented Generation (RAG) systems by corrupting external knowledge bases, forcing LLMs to generate malicious or incorrect outputs while evading detection.
+- **Novel Attack Mechanism**: Introduces *PoisonedRAG*, a framework demonstrating *knowledge corruption attacks* on Retrieval-Augmented Generation (RAG) systems by injecting adversarial documents into the retrieval corpus, causing LLMs to generate manipulated or incorrect outputs while maintaining high semantic similarity to the corrupted knowledge.
 
-- **Technical Mechanism**: Leverages *knowledge poisoning* via adversarial document insertion into retrieval corpora, exploiting RAG’s reliance on external data to manipulate model behavior without direct access to model weights.
+- **Evaluation Framework**: Proposes a systematic methodology to assess attack efficacy across multiple dimensions, including *attack stealthiness*, *transferability*, and *impact on downstream tasks*, leveraging datasets like *MS MARCO* and *NQ* to validate attack performance under black-box and white-box settings.
 
-- **Evaluation & Impact**: Demonstrates effectiveness across multiple RAG architectures (e.g., dense retrieval, BM25) and LLMs (e.g., Llama, Mistral), achieving high attack success rates (up to 90%) while maintaining stealth via subtle perturbations.
+- **Defense Implications**: Highlights vulnerabilities in current RAG pipelines, emphasizing the need for *robust retrieval filtering*, *adversarial training*, and *real-time anomaly detection* to mitigate such poisoning attacks, while providing empirical evidence of defense evasion in existing systems.
 
 ## Why It Matters
 

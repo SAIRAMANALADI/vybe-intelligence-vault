@@ -4,25 +4,27 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NousResearch/hermes-agent
-collected_at: '2026-07-09T01:31:11.853842+05:30'
-published_at: '2026-07-08T19:59:56Z'
+collected_at: '2026-07-09T09:49:37.720899+05:30'
+published_at: '2026-07-09T04:18:39Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- models
 - openai
 - python
-stars: 211515
+- workflows
+stars: 211694
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-07-22T22:22:28Z'
-pushed_at: '2026-07-08T19:47:25Z'
+pushed_at: '2026-07-09T04:15:25Z'
 resource_id: github:nousresearch/hermes-agent
-first_seen: '2026-07-09T01:31:11.853842+05:30'
-last_seen: '2026-07-09T01:31:11.853842+05:30'
-last_checked: '2026-07-09T01:31:11.853842+05:30'
+first_seen: '2026-07-09T09:49:37.720899+05:30'
+last_seen: '2026-07-09T09:49:37.720899+05:30'
+last_checked: '2026-07-09T09:49:37.720899+05:30'
 health_score: 100
 ---
 
@@ -30,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Supports integration with various LLMs (e.g., Anthropic, OpenAI, Codex) via modular API wrappers, enabling dynamic agent behavior across providers.
-- **Self-Improving Architecture**: Implements a feedback-driven growth mechanism where the agent refines its performance through iterative task execution and user corrections.
-- **Tool-Agnostic Execution**: Executes tasks via standardized interfaces (e.g., `claude-code`, `moltbot`) with extensible tooling for code generation, web interaction, and API orchestration.
+- **Multi-Provider LLM Integration**: Supports Anthropic, OpenAI, and other LLM providers via modular API clients for dynamic agent behavior across models like Claude, GPT-4, and Codex.
+
+- **Self-Improving Architecture**: Implements recursive self-critique and tool-use (e.g., `claude-code`) to autonomously refine prompts, code, and workflows without manual intervention.
+
+- **Extensible Tooling System**: Provides a plugin-based framework (`clawdbot`, `moltbot`) for integrating custom tools, APIs, and domain-specific agents with persistent memory and state management.
 
 ## Why It Matters
 
@@ -41,15 +45,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NousResearch
-- Stars: 211515
-- Forks: 38866
+- Stars: 211694
+- Forks: 38930
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw
-- Last Updated: 2026-07-08T19:59:56Z
+- Last Updated: 2026-07-09T04:18:39Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-22T22:22:28Z
-- Pushed At: 2026-07-08T19:47:25Z
+- Pushed At: 2026-07-09T04:15:25Z
 
 ## Possible Use Cases
 

@@ -25,8 +25,8 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 - [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl)
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 - [langfuse/langfuse](https://github.com/langfuse/langfuse)
+- [ali-bahrainian/RAG_best_practices](https://github.com/ali-bahrainian/RAG_best_practices)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
-- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-07-09 01:44 IST*
+*Last updated: 2026-07-09 10:02 IST*

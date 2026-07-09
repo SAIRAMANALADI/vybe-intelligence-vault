@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Turn RAG Evaluation Framework**: A Python-based benchmark for assessing multi-turn Retrieval-Augmented Generation (RAG) systems, focusing on conversational context retention and iterative retrieval quality.
+- **Multi-Turn RAG Evaluation Framework**: Provides a benchmarking suite for assessing multi-turn Retrieval-Augmented Generation (RAG) systems, focusing on iterative query refinement and context retention across turns.
 
-- **Dataset & Metrics**: Includes curated datasets and standardized metrics to evaluate performance across multi-turn interactions, emphasizing coherence, factual accuracy, and retrieval precision.
+- **Python-Based Implementation**: Offers a modular, open-source codebase in Python for reproducibility, including datasets, evaluation metrics, and baseline models for multi-turn RAG tasks.
 
-- **Open-Source & Extensible**: Repository provides modular components for custom b
+- **Last Updated (2026-06-26)**: Repository includes recent updates (as of June 2026) wi
 
 ## Use Cases
 

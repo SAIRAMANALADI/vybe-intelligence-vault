@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-09T01:29:36.734230+05:30'
+collected_at: '2026-07-09T09:48:02.620791+05:30'
 published_at: '2026-07-08T14:04:33Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-09T01:29:36.734230+05:30'
-last_seen: '2026-07-09T01:29:36.734230+05:30'
-last_checked: '2026-07-09T01:29:36.734230+05:30'
+first_seen: '2026-07-09T09:48:02.620791+05:30'
+last_seen: '2026-07-09T09:48:02.620791+05:30'
+last_checked: '2026-07-09T09:48:02.620791+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- Introduces **LinearRAG**, a novel graph-based Retrieval-Augmented Generation (RAG) framework optimized for large-scale corpora, leveraging linear graph structures to enhance retrieval efficiency and scalability.
-- Proposes a **linear graph retrieval mechanism** that reduces computational overhead compared to traditional dense retrieval methods while maintaining high retrieval accuracy.
-- Demonstrates state-of-the-art performance on benchmark datasets, achieving **~15% higher retrieval precision** and **~2x faster inference** than existing RAG baselines.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel linear graph-based retrieval mechanism for RAG systems, optimizing large-scale corpus augmentation for LLMs by leveraging linear-time graph traversal for efficient context retrieval.
+
+- **Scalability & Efficiency**: Achieves O(L) time complexity (L = corpus size) for retrieval, significantly outperforming traditional graph-based RAG methods (e.g., hierarchical or subgraph-based) in both latency and memory usage for large-scale datasets.
+
+- **ICLR 2026 Contribution**: Proposes a unified linear graph framework that integrates retrieval and generation, demonstrating state-of-the-art performance in factuality, relevance, and computational efficiency on benchmark corpora.
 
 ## Why It Matters
 

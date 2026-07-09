@@ -14,7 +14,6 @@ tags:
 - agents
 - github-repo
 - hackernews
-- scripts
 - shell
 selection_reason:
 - Useful for project building
@@ -32,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a structured workspace template for deploying persistent autonomous agents using `gptme`, enabling capabilities such as building, learning, social interaction, and task automation.
-
-- **Technical Stack**: Primarily implemented in **Shell**, facilitating agent orchestration, environment setup, and CLI-based interactions.
-
-- **Metadata**: Repository has **49 stars**, **27 forks**, and was last updated on **2026-07-02**. No additional topics or language dependencies are spec
+- **Template Purpose**: Provides a structured workspace for deploying persistent autonomous agents capable of building, learning, socializing, and task assistance using the `gptme` framework.
+- **Technical Stack**: Primarily implemented in Shell, enabling cross-platform agent orchestration and scripting.
+- **Repository Status**: Last updated July 2, 2026, with 49 stars and 27 forks, indicating active community engagement.
 
 ## Use Cases
 

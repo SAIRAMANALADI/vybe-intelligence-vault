@@ -8,7 +8,7 @@ local_vault_path: ai/rag/langgenius-dify.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: template
 importance: medium
 tags:
 - agents
@@ -31,18 +31,18 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Multi-agent orchestration framework**: Enables development of agentic workflows with support for LLM integration (OpenAI, GPT-4, Gemini), MCP, and RAG pipelines in a low/no-code Next.js/Python environment.
+- **Multi-agent orchestration**: Supports agentic workflows with low-code/no-code tools, integrating LLM APIs (OpenAI, Gemini, GPT-4) and MCP for dynamic agent collaboration and task automation.
 
-- **Production-grade deployment**: Provides scalable backend orchestration with TypeScript-based frontend, optimized for automation and AI agent interactions.
+- **Hybrid architecture**: Combines Python backend (for core logic/RAG) with Next.js frontend, enabling scalable agent development with modular components and pre-built workflow templates.
 
-- **Extensible ecosystem**: Supports 20K+ community forks, modular workflow components, and cross-platform AI agent development w
+- **Production-grade deployment**: Optimized for enterprise use with built-in orchestration, API-driven automation
 
 ## Use Cases
 

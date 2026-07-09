@@ -4,24 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PierreGode/Ragnar
-collected_at: '2026-07-09T01:29:16.670622+05:30'
-published_at: '2026-07-08T19:15:22Z'
+collected_at: '2026-07-09T09:47:42.515079+05:30'
+published_at: '2026-07-09T04:16:58Z'
 tags:
 - github-repo
+- hackernews
 - paper
 - python
 - rag
-stars: 687
+stars: 697
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-11-01T03:12:25Z'
-pushed_at: '2026-07-08T13:02:11Z'
+pushed_at: '2026-07-09T04:06:50Z'
 resource_id: github:pierregode/ragnar
-first_seen: '2026-07-09T01:29:16.670622+05:30'
-last_seen: '2026-07-09T01:29:16.670622+05:30'
-last_checked: '2026-07-09T01:29:16.670622+05:30'
+first_seen: '2026-07-09T09:47:42.515079+05:30'
+last_seen: '2026-07-09T09:47:42.515079+05:30'
+last_checked: '2026-07-09T09:47:42.515079+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Ragnar is a Python-based offensive security tool designed for Raspberry Pi, integrating a 2.13-inch e-Paper HAT for network scanning and vulnerability assessment.
-- **Functionality**: Discovers network targets, enumerates open ports, identifies exposed services, and detects vulnerabilities.
-- **Metadata**: 687 stars, 60 forks, last updated July 8, 2026.
+- **Network Scanning & Offensive Security Tool**: Ragnar is a Python-based utility designed for Raspberry Pi, integrating a 2.13-inch e-Paper HAT for network discovery, including targets, open ports, exposed services, and vulnerabilities.
+
+- **Automated Vulnerability Detection**: The tool automates the identification of network vulnerabilities, leveraging offensive security techniques to assess exposed services and potential attack vectors.
+
+- **Hardware Integration**: Specifically optimized for Raspberry Pi with a 2.13-inch e-Paper HAT, enabling portable, low-power network reconnaissance and reporting.
 
 ## Why It Matters
 
@@ -40,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: PierreGode
-- Stars: 687
-- Forks: 60
+- Stars: 697
+- Forks: 61
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-08T19:15:22Z
+- Last Updated: 2026-07-09T04:16:58Z
 - License: MIT
 - Archived: No
 - Created At: 2025-11-01T03:12:25Z
-- Pushed At: 2026-07-08T13:02:11Z
+- Pushed At: 2026-07-09T04:06:50Z
 
 ## Possible Use Cases
 

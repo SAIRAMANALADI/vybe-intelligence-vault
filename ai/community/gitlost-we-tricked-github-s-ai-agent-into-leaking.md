@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:gitlost-we-tricked-github-s-ai-agent-into-leaking
 first_seen: '2026-07-08T14:15:36.526837+05:30'
 last_seen: '2026-07-09T01:27:10.837086+05:30'
 last_checked: '2026-07-09T01:27:10.837086+05:30'
 health_score: 100
 ---
+
 
 # GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos
 

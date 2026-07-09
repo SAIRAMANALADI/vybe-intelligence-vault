@@ -31,8 +31,8 @@ selection_reason:
 ## Summary
 
 - **Jekyll-based static site generator**: Repository contains the source code for `raganwald.com`, built using Jekyll, a Ruby-based static site generator.
-- **Minimalist structure**: Repository is lightweight (30 stars, 60 forks) with no additional topics, indicating a simple, focused implementation.
-- **Last updated**: The repository was last updated on **July 8, 2026**, suggesting recent but infrequent maintenance.
+- **Minimal metadata and structure**: No additional topics or complex dependencies; primarily HTML-based with basic Jekyll configuration.
+- **Last updated in 2026**: Repository was last modified on July 8, 2026, indicating recent maintenance or updates.
 
 ## Use Cases
 

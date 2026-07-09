@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: LangGraph solution template for Model Context Protocol (MCP), enabling structured workflows for MCP interactions in Python.
-- **Key Features**: Modular design for extensibility, integrates LangGraph for stateful graph-based execution of MCP operations.
-- **Technical Stack**: Python-based, leverages LangGraph for workflow orchestration, last updated on 2026-07-05.
+- **Purpose**: Provides a LangGraph-based template for implementing Model Context Protocol (MCP) in Python applications.
+- **Key Features**: Modular design for integrating MCP with LangGraph workflows, facilitating structured agentic interactions.
+- **Technical Stack**: Python-based, leveraging LangGraph for graph-based LLM orchestration and MCP for standardized model-server communication.
 
 ## Use Cases
 

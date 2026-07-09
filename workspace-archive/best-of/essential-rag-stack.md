@@ -8,11 +8,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
-### [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
-- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
-- **Score**: `93` | **Path**: [`dannyblaker-rag-tutorial.md`](../../ai/rag/dannyblaker-rag-tutorial.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
 ### [Pinecone · GitHub](https://github.com/pinecone-io)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `91` | **Path**: [`pinecone-github.md`](../../ai/rag/pinecone-github.md)
@@ -33,9 +28,9 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`dannyblaker-rag-tutorial.md`](../../ai/rag/dannyblaker-rag-tutorial.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
+### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/)
@@ -58,8 +53,13 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`pinecone-github.md`](../../ai/rag/pinecone-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)
+- **Category**: `ai/rag` | **Kind**: `API` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`fosowl-agenticseek.md`](../../ai/rag/fosowl-agenticseek.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-09 01:44 IST*
+*Last updated: 2026-07-09 10:02 IST*

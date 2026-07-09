@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- frontend_ui
 - github-repo
 - python
 - rag
@@ -33,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a Streamlit app integrating LangChain with retrieval-augmented generation (RAG), combining vector store retrieval and hybrid search (dense + sparse) for enhanced document retrieval.
-
-- **Vector Store Integration**: Uses a vector database (e.g., FAISS or Chroma) for semantic search, paired with keyword-based retrieval to optimize hybrid query performance.
-
-- **Streamlit UI**: Provides a frontend for querying and visualizing RAG responses, demonstrating real-t
+- **Hybrid RAG Pipeline**: Implements a Streamlit app integrating LangChain with a vector store (e.g., FAISS/Chroma) for retrieval-augmented generation (RAG), combining dense embeddings and sparse retrieval (BM25) for hybrid search.
+- **Modular LangChain Components**: Utilizes LangChain’s `RetrievalQA` with customizable chains (e.g., `stuff`, `map_reduce`) and embeddings (e.g., `HuggingFaceEmbeddings`) for end-to-end QA workflows.
+- **Streamlit UI**: Provides a reactive web interface for queryin
 
 ## Use Cases
 

@@ -6,7 +6,7 @@ source_url: https://github.com/sickn33/agentic-awesome-skills
 resource_id: github:sickn33/agentic-awesome-skills
 local_vault_path: ai/agents/sickn33-agentic-awesome-skills.md
 quality_score: 70
-archive_score: 91
+archive_score: 93
 archive_tier: essential
 resource_kind: framework
 importance: high
@@ -15,6 +15,7 @@ tags:
 - anthropic
 - github-repo
 - python
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -26,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
-- Quality score: 70 | Archive score: 91 (essential)
+- Quality score: 70 | Archive score: 93 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Extensive Skill Library**: Repository hosts 1,800+ installable agentic skills for AI tools (Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity) with specialized plugins, bundles, and workflows.
-- **Multi-Tool Integration**: Supports official/community skill collections and includes an installer CLI, MCP, and Kiro compatibility for cross-platform AI agent workflows.
-- **Python-Based & Actively Maintained**: Entirely Python-based with 42,629 stars, 6,777 forks, and last updated on 2026-07
+- **Comprehensive Skill Library**: A GitHub repository containing **1,935+ installable agentic skills** for AI coding tools (Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity) with specialized plugins, bundles, and workflows.
+
+- **Multi-Tool Integration**: Supports **official/community skill collections** and includes an **installer CLI** for seamless integration with AI agents (MCP, Kiro) and developer tools.
+
+- **Python-Based Repository**: Hosted on GitHub with **42,656 st
 
 ## Use Cases
 

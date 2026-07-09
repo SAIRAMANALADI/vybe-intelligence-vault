@@ -28,11 +28,11 @@ selection_reason:
 
 ## Summary
 
-- **LLM-Powered Knowledge Curation**: `storm` autonomously researches topics using large language models (LLMs) to generate comprehensive, citation-backed reports via an agentic retrieval-augmented generation (RAG) pipeline.
+- **LLM-Powered Knowledge Curation**: Uses large language models (LLMs) to autonomously research topics, synthesize information, and generate comprehensive reports with inline citations from retrieved sources.
 
-- **Multi-Stage Research Pipeline**: Implements a structured workflow (e.g., question decomposition, iterative retrieval, and synthesis) optimized for deep research, as highlighted in EMNLP 2024/NAACL contributions.
+- **Multi-Agent Retrieval-Augmented Generation (RAG)**: Implements an agentic RAG framework (`storm`) where specialized agents iteratively retrieve, verify, and refine information to produce structured, citation-backed reports.
 
-- **Python-Based Framework**: Open-source toolkit (Python
+- **EMNLP 2024 & NAACL Contributions**: Presented as a resea
 
 ## Use Cases
 

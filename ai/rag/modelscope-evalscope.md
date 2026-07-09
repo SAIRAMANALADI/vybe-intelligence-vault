@@ -4,25 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/modelscope/evalscope
-collected_at: '2026-07-09T01:29:11.826573+05:30'
-published_at: '2026-07-08T12:12:13Z'
+collected_at: '2026-07-09T09:47:37.557446+05:30'
+published_at: '2026-07-09T04:01:57Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
 - python
 - rag
-stars: 3043
+- workflows
+stars: 3045
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-12-07T06:10:49Z'
-pushed_at: '2026-07-08T09:34:22Z'
+pushed_at: '2026-07-09T02:38:16Z'
 resource_id: github:modelscope/evalscope
-first_seen: '2026-07-09T01:29:11.826573+05:30'
-last_seen: '2026-07-09T01:29:11.826573+05:30'
-last_checked: '2026-07-09T01:29:11.826573+05:30'
+first_seen: '2026-07-09T09:47:37.557446+05:30'
+last_seen: '2026-07-09T09:47:37.557446+05:30'
+last_checked: '2026-07-09T09:47:37.557446+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: EvalScope is a Python-based, modular framework designed for efficient evaluation and benchmarking of large models (LLMs, VLMs, AIGC) with customizable pipelines and metrics.
+- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with a focus on performance metrics and efficiency.
 
-- **Key Features**: Supports evaluation across tasks like RAG, performance benchmarking, and multi-modal model assessment with extensible task configurations and evaluation protocols.
+- **Key Features**: Supports evaluation of **Retrieval-Augmented Generation (RAG)**, multimodal models (VLMs), and generative AI tasks with modular, extensible architecture for custom benchmarks.
 
-- **Technical Stack**: Built on Python, integrates with ModelScope ecosystem, optimized for scalability and extensibility with 3,043+ GitHub stars and active community contributions.
+- **Technical Scope**: Enables standardized performance benchmarking across diverse model types while maintaining scalability and reproducibility in evaluation workflows.
 
 ## Why It Matters
 
@@ -43,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: modelscope
-- Stars: 3043
+- Stars: 3045
 - Forks: 417
 - Language: Python
 - Topics: evaluation, llm, performance, rag, vlm
-- Last Updated: 2026-07-08T12:12:13Z
+- Last Updated: 2026-07-09T04:01:57Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-07T06:10:49Z
-- Pushed At: 2026-07-08T09:34:22Z
+- Pushed At: 2026-07-09T02:38:16Z
 
 ## Possible Use Cases
 

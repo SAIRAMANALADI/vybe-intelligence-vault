@@ -8,16 +8,15 @@ local_vault_path: ai/rag/danielskry-awesome-rag.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
-- hackernews
 - rag
 - unknown
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # Danielskry/Awesome-RAG
@@ -26,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Curated RAG Resources**: Comprehensive collection of Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI, covering large language models (LLMs) and retrieval techniques.
-- **Community-Driven**: Open-source repository with 1,300+ stars and 167 forks, actively maintained with the latest updates as of July 8, 2026.
-- **Multi-Topic Focus**: Covers key AI subdomains including RAG, generative AI, LLMs, and retrieval mechanisms, serving as a centralized hub for
+- **Curated RAG Applications**: A comprehensive, community-driven repository listing cutting-edge Retrieval-Augmented Generation (RAG) applications in Generative AI, spanning diverse domains and use cases.
+- **High Engagement Metrics**: Demonstrates significant traction with **1,300 stars** and **168 forks**, indicating strong community interest and adoption.
+- **Multi-Topic Focus**: Covers core AI subfields including **LLMs, generative AI, and retrieval augmentation**, with the latest update as
 
 ## Use Cases
 

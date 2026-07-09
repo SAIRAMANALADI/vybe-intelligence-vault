@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **OpenClaw-inspired autonomous AI agent** implemented entirely in **n8n**, leveraging **adaptive RAG-powered memory** for dynamic knowledge retention and retrieval.
-- **Multi-agent architecture** with **MCP templates for Skills**, **delegated Expert Agents**, and **proactive task management**, enabling hierarchical task delegation and execution.
-- **Self-hosted deployment** via a single setup script, integrating **Crawl4AI** for web scraping, **SearXNG** for search, and **Supabase** for persis
+- **OpenClaw-inspired autonomous AI agent** implemented entirely in **n8n**, leveraging **adaptive RAG-powered memory** for dynamic context retention and retrieval.
+- **Multi-agent architecture** with **Expert Agents** delegating tasks to sub-agents via **MCP templates**, enabling **proactive task management** and **media understanding** (e.g., text, images).
+- **Self-hosted deployment** via a single setup script, integrating **Crawl4AI** for scraping, **SearXNG** for search, and **Supabase** fo
 
 ## Use Cases
 

@@ -14,7 +14,6 @@ tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - python
 - scripts
 - workflows
@@ -36,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **MCP Server Integration**: HexStrike AI MCP Agents bridges LLMs (e.g., Claude, GPT) with 150+ offensive security tools via MCP, enabling autonomous pentesting, vulnerability discovery, and bug bounty automation.
+- **Autonomous Cybersecurity MCP Server**: HexStrike AI MCP Agents enables AI-driven agents (e.g., Claude, GPT) to autonomously execute **150+ offensive security tools** for pentesting, vulnerability discovery, and bug bounty automation via Model Context Protocol (MCP) integration.
 
-- **Toolset & Capabilities**: Supports Kali Linux tools, CTF utilities, and generative AI-driven security research, facilitating real-world offensive operations (e.g., exploitation, reconnaissance).
-
-- **Technical Stack**: Python-based MCP server with LLM integration, last updated Ju
+- **LLM Integration & Real-World Security Execution**: Bridges large language models (LLMs) with **Kali Linux tools** and custom security utilities, allowing AI agents to perform real-world offensive operations (e.g.
 
 ## Use Cases
 

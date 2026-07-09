@@ -1,0 +1,52 @@
+---
+title: masumi-network/crewai-masumi-quickstart-template
+archive_category: ai-tools-products
+source_category: ai/agents
+source_url: https://github.com/masumi-network/crewai-masumi-quickstart-template
+resource_id: github:masumi-network/crewai-masumi-quickstart-template
+local_vault_path: ai/agents/masumi-network-crewai-masumi-quickstart-template.md
+quality_score: 70
+archive_score: 77
+archive_tier: useful
+resource_kind: template
+importance: medium
+tags:
+- agents
+- github-repo
+- python
+- workflows
+selection_reason:
+- Strong keyword match
+- Useful for project building
+---
+
+# masumi-network/crewai-masumi-quickstart-template
+
+## Why This Is In The Archive
+
+- Matched archive category: `AI Tools and Products`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: template
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+- **Repository**: `masumi-network/crewai-masumi-quickstart-template` – A Python-based template for quickstart implementations using CrewAI.
+- **Metadata**: 13 stars, 20 forks, last updated on **2026-04-12T20:15:37Z**.
+- **Purpose**: Minimal template (no description/topics) for initializing CrewAI workflows.
+
+## Use Cases
+
+- Workflow automation search
+- AI developer tooling
+- Developer utility updates
+
+## Source
+
+Original source URL: https://github.com/masumi-network/crewai-masumi-quickstart-template
+
+## Local Vault File
+
+Path: [masumi-network-crewai-masumi-quickstart-template.md](../../ai/agents/masumi-network-crewai-masumi-quickstart-template.md)

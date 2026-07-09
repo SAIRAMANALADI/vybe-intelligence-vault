@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/neo4j
-published_at: '2026-07-09T01:32:27.260815+05:30'
-collected_at: '2026-07-09T01:32:27.260829+05:30'
+published_at: '2026-07-09T09:50:48.220077+05:30'
+collected_at: '2026-07-09T09:50:48.220093+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:neo4j-github
-first_seen: '2026-07-09T01:32:27.260829+05:30'
-last_seen: '2026-07-09T01:32:27.260829+05:30'
-last_checked: '2026-07-09T01:32:27.260829+05:30'
+first_seen: '2026-07-09T09:50:48.220093+05:30'
+last_seen: '2026-07-09T09:50:48.220093+05:30'
+last_checked: '2026-07-09T09:50:48.220093+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Neo4j Core Engine**: Open-source graph database (Java-based) with 16.9k stars, supporting ACID transactions, Cypher query language, and native graph storage.
-- **Graph Data Science (GDS) Library**: Provides scalable graph algorithms (e.g., PageRank, community detection) via the `graph-data-science` repository (803 stars, Apache-2.0).
-- **Multi-Language Drivers**: Official Bolt protocol drivers for JavaScript (916 stars), Python (1k stars), and Java (343 stars) for Neo4j integration.
+- **Neo4j** is a graph database management system with core Java-based implementations, including the primary `neo4j` repository (16.9k stars) and libraries like the **Graph Data Science (GDS) library** (803 stars) for graph algorithms.
+
+- **Multi-language driver support** is provided via official Bolt protocol drivers for Java, JavaScript, Python, and Scala, enabling cross-platform graph database interactions.
+
+- **Additional tools** include the Neo4j Spark Connector (Scala, 321 stars) for Apache Spark integration, a **GraphRAG Python** library (1.2k stars) for retrieval-augmented generation, and TypeScript-based **Cypher language support** for query parsing.
 
 ## Why It Matters
 
@@ -34,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T01:32:27.260815+05:30
+- Published: 2026-07-09T09:50:48.220077+05:30
 
 ## Related Tags
 

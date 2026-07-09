@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Curated guide by `shanraisshan` transitioning from *vibe coding* to *agentic engineering* for optimizing Claude Code workflows, emphasizing structured practices over ad-hoc execution.
+- **Comprehensive Guide**: Repository provides structured best practices for transitioning from "vibe coding" to agentic engineering using Claude Code, covering workflows, commands, and skills optimization.
 
-- **Technical Scope**: Focuses on `claude-code` best practices, including context engineering, command optimization, and skill development for AI-driven agentic workflows (e.g., BorIS, Anthropic).
+- **Technical Depth**: Focuses on context engineering, agentic AI workflows, and advanced Claude Code agent utilization for Pakistani developers and global contributors.
 
-- **Community & Resources**: Open-source repository (62K+ stars) with HTML-based documenta
+- **High Engagement**: Maintains 62.3k+ stars and 6.2k+ forks, indicating strong community adoption and iterative improve
 
 ## Use Cases
 

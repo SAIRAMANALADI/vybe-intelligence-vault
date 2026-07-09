@@ -8,7 +8,7 @@ local_vault_path: ai/rag/gomate-community-awesome-papers-for-rag.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
@@ -18,7 +18,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # gomate-community/awesome-papers-for-rag
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Curated RAG Research**: Repository aggregates peer-reviewed papers, preprints, and technical reports on retrieval-augmented generation (RAG), focusing on advancements in hybrid retrieval-generation architectures.
-- **Python-Centric Resources**: All listed tools, frameworks, and implementations are Python-based, ensuring compatibility with popular ML/NLP libraries (e.g., Hugging Face, PyTorch).
-- **Last Updated**: Repository synchronized with cutting-edge RAG developments as of **July 1, 2026
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, blogs, and technical reports on retrieval-augmented generation (RAG), focusing on advancements, methodologies, and applications.
+- **Python-Centric**: Primarily Python-based, facilitating integration with popular libraries (e.g., Hugging Face, LangChain) for RAG pipeline implementation and experimentation.
+- **Community-Driven**: Open-source project with 136 stars and 12 forks, last updated July 2026, emphasizing collaborat
 
 ## Use Cases
 

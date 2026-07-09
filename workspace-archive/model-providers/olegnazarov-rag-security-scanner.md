@@ -8,7 +8,7 @@ local_vault_path: ai/rag/olegnazarov-rag-security-scanner.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - github-repo
@@ -18,7 +18,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # olegnazarov/rag-security-scanner
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Purpose**: Automated security scanner for RAG/LLM-based AI applications (e.g., chatbots, virtual assistants) to detect critical vulnerabilities like prompt injection, OWASP Top 10 risks, and red-team attack vectors.
-- **Features**: Supports security audits, penetration testing, and automated vulnerability scanning for AI systems using Python; integrates with OpenAI and other LLM frameworks.
-- **Technical Stack**: Python-based tool with focus on AI security, LLM security, and RAG-specific att
+- **Tool Overview**: Python-based RAG/LLM Security Scanner designed to detect critical vulnerabilities in AI applications (e.g., chatbots, virtual assistants) via automated security testing.
+- **Key Features**: Supports OWASP Top 10 for LLM security, prompt injection detection, red-team testing, and vulnerability scanning for RAG systems.
+- **Technical Scope**: Integrates with OpenAI/ChatGPT ecosystems, performs security audits, and addresses AI-specific threats like data leakage and adversarial
 
 ## Use Cases
 

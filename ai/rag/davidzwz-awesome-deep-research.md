@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-07-09T01:29:41.716384+05:30'
+collected_at: '2026-07-09T09:48:07.609700+05:30'
 published_at: '2026-07-08T11:52:15Z'
 tags:
 - agents
 - github-repo
 - hackernews
-- paper
 - rag
 - unknown
 stars: 794
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-05-02T04:18:19Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-07-09T01:29:41.716384+05:30'
-last_seen: '2026-07-09T01:29:41.716384+05:30'
-last_checked: '2026-07-09T01:29:41.716384+05:30'
+first_seen: '2026-07-09T09:48:07.609700+05:30'
+last_seen: '2026-07-09T09:48:07.609700+05:30'
+last_checked: '2026-07-09T09:48:07.609700+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: A GitHub repository (`DavidZWZ/Awesome-Deep-Research`) aggregating cutting-edge resources on agentic deep research, including papers, tools, and frameworks focused on autonomous reasoning and search agents.
+- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on LLM-driven reasoning, search agents, and advanced RAG (Retrieval-Augmented Generation) techniques, as highlighted in ACL 2026 KnowFM.
 
-- **ACL 2026 KnowFM Integration**: Specifically aligns with the "Knowledge Foundation Models" (KnowFM) track at ACL 2026, emphasizing large language models (LLMs), retrieval-augmented generation (RAG), and multi-agent systems for deep research tasks.
+- **Technical Scope**: Encompasses key topics such as reasoning agents, deep-research frameworks, and multi-agent collaboration for complex information synthesis and knowledge discovery.
 
-- **Technical Scope**: Covers advanced topics such as reasoning agents, hybrid search strategies, and scalable architectures for deep research, with a focus on leveraging LLMs for complex, multi-step information synthesis.
+- **Dynamic Repository**: Actively maintained (last updated July 2026) with 794 stars and 64 forks, serving as a hub for state-of-the-art methodologies in autonomous deep research systems.
 
 ## Why It Matters
 

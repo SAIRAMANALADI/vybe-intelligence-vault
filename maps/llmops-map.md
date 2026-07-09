@@ -11,9 +11,9 @@ Langfuse, Ollama, llama.cpp, vLLM, Phoenix.
 
 ## Recommended Resources from the Vault
 *   [UCLA COVID protocols - COVID-19 and vaccine resources](https://covid-19.ucla.edu/ucla-covid-protocols)
+*   [incident-io - YouTube](https://www.youtube.com/@incident-io)
 *   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse?utm_source=clickhouse&utm_medium=website&utm_campaign=website-nav)
 *   [Sanjeev Arora](https://www.cs.princeton.edu/~arora)
-*   [GitHub Changelog](https://github.blog/changelog)
 *   [The Linux Kernel documentation — The Linux Kernel documentation](https://docs.kernel.org/)
 
 ## Project Ideas

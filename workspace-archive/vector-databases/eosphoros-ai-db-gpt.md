@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - models
 - openai
 - python
@@ -34,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI Framework**: Open-source Python-based system integrating LLMs (e.g., DeepSeek, GPT-4, Vicuna) with database interaction capabilities, enabling autonomous data processing and analysis via agentic workflows.
-
-- **Privacy & Security Focus**: Implements Retrieval-Augmented Generation (RAG) and private LLM deployment strategies to ensure secure, on-premise data handling without external API dependencies.
-
-- **Modular Architecture**: Supports custom agents, database connectors (BGI), an
+- **Purpose**: Open-source agentic AI framework enabling autonomous interaction with databases via LLMs (e.g., GPT-4, DeepSeek, Vicuna) for next-gen AI + Data products.
+- **Key Features**: Supports RAG, private/local LLM deployment, and integrates with BGI for enhanced data processing; includes security-focused architecture.
+- **Technical Stack**: Python-based, optimized for hacktoberfest contributions, and designed for scalable agentic workflows in database environments.
 
 ## Use Cases
 

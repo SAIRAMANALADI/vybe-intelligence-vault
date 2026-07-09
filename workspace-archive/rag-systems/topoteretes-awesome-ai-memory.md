@@ -12,9 +12,10 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
 - github-repo
 - hackernews
+- meta-ai
+- models
 - python
 - rag
 selection_reason:
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Repository aggregates open-source and research projects focused on AI memory systems, including long-term memory, context retention, and memory-augmented architectures.
-- **Technical Scope**: Encompasses projects leveraging techniques like RAG (Retrieval-Augmented Generation), vector databases, and agent-based memory management for LLMs and AI systems.
-- **Python-Centric**: Primarily features Python-based tools, frameworks, and libraries for implementing, benchmarking,
+- **Curated list of AI memory projects**: Repository aggregates open-source and research initiatives focused on AI memory systems, including long-term memory, context retention, and memory-augmented architectures.
+- **Python-centric ecosystem**: Majority of listed projects are implemented in Python, leveraging frameworks like LangChain, LlamaIndex, or custom memory modules for AI agents.
+- **Covers RAG and memory management**: Includes tools for Retrieval-Augmented Generation (RAG), vector datab
 
 ## Use Cases
 

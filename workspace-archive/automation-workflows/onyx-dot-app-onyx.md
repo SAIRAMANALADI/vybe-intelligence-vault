@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - frontend_ui
 - github-repo
 - openai
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Open-source AI platform** built in Python with Next.js frontend, supporting **RAG (Retrieval-Augmented Generation)**, **vector search**, and **enterprise-grade information retrieval** across diverse LLMs.
-- **Self-hosted chat interface** with advanced features (e.g., ChatGPT-like UI) and **multi-model compatibility**, enabling scalable deployment for production use.
-- **Modular architecture** leveraging **Next.js (frontend)** and **Python (backend)**, optimized for **low-latency LLM interact
+- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any LLM, enabling flexible model switching and evaluation.
+- **Enterprise-Grade Features**: Implements RAG (Retrieval-Augmented Generation), vector search, and advanced information retrieval for production-grade AI applications.
+- **Full-Stack Architecture**: Combines Next.js (frontend) with Python (backend), supporting self-hosting, scalable deployments, and modular AI workflows.
 
 ## Use Cases
 

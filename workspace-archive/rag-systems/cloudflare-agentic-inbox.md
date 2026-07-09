@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Serverless Architecture**: Implements a fully serverless email client using Cloudflare Workers, leveraging edge computing for low-latency operations and minimal infrastructure overhead.
-
-- **AI Agent Integration**: Incorporates an AI agent (likely RAG-based) for automated email processing, classification, and response generation, executed entirely within Cloudflare’s runtime environment.
-
-- **TypeScript Implementation**: Built entirely in TypeScript, utilizing Cloudflare’s Workers ecosystem
+- **Architecture**: Self-hosted email client leveraging Cloudflare Workers for serverless execution, eliminating traditional backend infrastructure.
+- **AI Integration**: Incorporates an AI agent for automated email processing, classification, and response generation within the Cloudflare ecosystem.
+- **Tech Stack**: Built entirely in TypeScript, utilizing Cloudflare's edge computing capabilities for low-latency, globally distributed email handling.
 
 ## Use Cases
 

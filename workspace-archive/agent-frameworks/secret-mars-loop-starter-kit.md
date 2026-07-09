@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Structure**: Provides a 10-phase autonomous agent loop template designed for perpetual cycles, featuring self-updating prompts and based on 166+ production cycles.
-- **Repository Status**: Fork-ready with 20 forks and no stars, indicating early-stage adoption or niche utility.
-- **Metadata**: Language unspecified, last updated on 2026-04-15, and lacks defined topics, suggesting limited documentation or community engagement.
+- **Template Structure**: Autonomous agent loop template with a 10-phase perpetual cycle, designed for AIBTC, featuring a self-updating prompt mechanism.
+- **Production Basis**: Built on 166+ production cycles, ensuring a robust foundation for fork-ready agent development.
+- **Metadata**: Repository last updated on 2026-04-15, with 20 forks and no stars, language unspecified.
 
 ## Use Cases
 

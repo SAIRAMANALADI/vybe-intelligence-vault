@@ -14,7 +14,6 @@ tags:
 - agents
 - github-repo
 - hackernews
-- paper
 - rag
 - unknown
 selection_reason:
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource Hub**: A GitHub repository (`DavidZWZ/Awesome-Deep-Research`) aggregating cutting-edge resources on agentic deep research, including papers, tools, and frameworks focused on autonomous reasoning and search agents.
+- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on LLM-driven reasoning, search agents, and advanced RAG (Retrieval-Augmented Generation) techniques, as highlighted in ACL 2026 KnowFM.
 
-- **ACL 2026 KnowFM Integration**: Specifically aligns with the "Knowledge Foundation Models" (KnowFM) track at ACL 2026, emphasizing large language models (LLMs), retrieval-augmented generation (RAG), and multi-agent systems for deep research tasks.
+- **Technical Scope**: Encompasses key topics such as reasoning agents, deep-research frameworks, and multi-agent collaboration for complex information synthesis and knowledge discovery.
 
-- **Technica
+- **Dynamic Repository**: Actively maintained (last updated July 2026) with 794
 
 ## Use Cases
 

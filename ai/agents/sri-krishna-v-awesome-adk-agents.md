@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-07-08T16:52:41.412136+05:30'
+collected_at: '2026-07-09T09:48:57.626709+05:30'
 published_at: '2026-07-06T12:52:15Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - hackernews
 - python
 - scripts
+- workflows
 stars: 331
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-06-28T14:36:38Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-07-08T16:52:41.412136+05:30'
-last_seen: '2026-07-08T16:52:41.412136+05:30'
-last_checked: '2026-07-08T16:52:41.412136+05:30'
+first_seen: '2026-07-09T09:48:57.626709+05:30'
+last_seen: '2026-07-09T09:48:57.626709+05:30'
+last_checked: '2026-07-09T09:48:57.626709+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Curated list of AI agents built with Google's Agent Development Kit (ADK), featuring templates, best practices, and production-ready examples for research, business, automation, education, and other domains.
-- **Technical Stack**: Primarily Python-based, with support for ADK-Python, ADK-Web, and multi-agent systems; integrates with Google's Gemini AI and ADK framework.
-- **Metadata**: 331 stars, 47 forks, last updated July 6, 2026; categorized under agentic AI, templates, and multi-agent systems.
+- **Repository Overview**: Curated list of AI agents built with Google's Agent Development Kit (ADK), featuring templates, best practices, and production-ready examples across domains like research, business, automation, and education.
+
+- **Technical Scope**: Focuses on **ADK-Python** and **ADK-Web**, supporting **multi-agent systems**, **Gemini AI integration**, and **agentic AI workflows** with Python-based implementations.
+
+- **Metadata**: 331 stars, 47 forks, last updated **2026-07-06**; categorized under topics like `adk`, `awesome-list`, and `agent-samples`.
 
 ## Why It Matters
 

@@ -4,15 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/slavakurilyak/awesome-ai-agents
-collected_at: '2026-07-09T01:30:36.776104+05:30'
-published_at: '2026-07-08T13:05:48Z'
+collected_at: '2026-07-09T09:49:02.688527+05:30'
+published_at: '2026-07-08T23:09:57Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - paper
 - python
-stars: 1614
+- workflows
+stars: 1615
 language: Python
 status: active
 license: MIT
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-01-15T12:48:42Z'
 pushed_at: '2025-09-09T22:33:26Z'
 resource_id: github:slavakurilyak/awesome-ai-agents
-first_seen: '2026-07-09T01:30:36.776104+05:30'
-last_seen: '2026-07-09T01:30:36.776104+05:30'
-last_checked: '2026-07-09T01:30:36.776104+05:30'
+first_seen: '2026-07-09T09:49:02.688527+05:30'
+last_seen: '2026-07-09T09:49:02.688527+05:30'
+last_checked: '2026-07-09T09:49:02.688527+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository hosting 300+ high-quality resources on agentic AI, including frameworks, tools, research papers, and applications.
-- **Technical Scope**: Focuses on autonomous and semi-autonomous AI agents, covering architectures, orchestration, and multi-agent systems.
-- **Python-Centric**: Primarily Python-based resources, with emphasis on libraries like LangChain, AutoGen, and CrewAI for agent development.
+- **Curated Collection**: Repository hosting 300+ agentic AI resources, including frameworks, libraries, and research papers focused on autonomous AI agents.
+- **Technical Scope**: Primarily Python-based, covering agent architectures, multi-agent systems, and agentic workflows with emphasis on scalability and modularity.
+- **Community Metrics**: 1,615 stars and 431 forks (as of last update: 2026-07-08), indicating active community engagement and contribution.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: slavakurilyak
-- Stars: 1614
-- Forks: 430
+- Stars: 1615
+- Forks: 431
 - Language: Python
 - Topics: agent, agentic, agents
-- Last Updated: 2026-07-08T13:05:48Z
+- Last Updated: 2026-07-08T23:09:57Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-15T12:48:42Z

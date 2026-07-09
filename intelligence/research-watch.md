@@ -14,7 +14,9 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243) | `ai-coding-agents/` | 70 |
 | ["Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills in the Wild](https://arxiv.org/abs/2602.06547) | `ai-coding-agents/` | 70 |
 | [ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair](https://arxiv.org/abs/2607.01916) | `ai-coding-agents/` | 70 |
+| [Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning](https://arxiv.org/abs/2607.07708) | `ai-coding-agents/` | 70 |
 | [Harnessing Code Agents for Automatic Software Verification](https://arxiv.org/abs/2607.06341) | `ai-coding-agents/` | 70 |
+| [Specification Grounding Drives Test Effectiveness for LLM Code](https://arxiv.org/abs/2607.06636) | `ai-coding-agents/` | 70 |
 | [LemonHarness Technical Report](https://arxiv.org/abs/2606.24311) | `ai-coding-agents/` | 70 |
 | [Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/abs/2602.11988) | `ai-coding-agents/` | 70 |
 | [Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases](https://arxiv.org/abs/2607.01425) | `ai-coding-agents/` | 70 |
@@ -27,7 +29,5 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Understanding Agent-Based Patching of Compiler Missed Optimizations](https://arxiv.org/abs/2607.02370) | `ai-coding-agents/` | 70 |
 | [CoACT: Action-Preserving Observation Compression for Coding Agents](https://arxiv.org/abs/2607.02911) | `ai-coding-agents/` | 70 |
 | [Beyond Static Rules: Automated Discovery of Latent Vulnerabilities in Text-to-SQL](https://arxiv.org/abs/2607.03833) | `ai-coding-agents/` | 70 |
-| [PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329) | `ai-coding-agents/` | 70 |
-| [Fin-RATE: A Real-world Financial Analytics and Tracking Evaluation Benchmark for LLMs on SEC Filings](https://arxiv.org/abs/2602.07294) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

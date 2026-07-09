@@ -12,10 +12,10 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 - [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/) (framework - ESSENTIAL Tier)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
 - [Pinecone · GitHub](https://github.com/pinecone-io) (framework - ESSENTIAL Tier)
-- [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide) (benchmark - ESSENTIAL Tier)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (benchmark - ESSENTIAL Tier)
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
-- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) (dataset - ESSENTIAL Tier)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
+- [Neo4j · GitHub](https://github.com/neo4j) (framework - ESSENTIAL Tier)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (benchmark - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -26,7 +26,7 @@ https://github.com/explodinggradients/ragas (Ragas)
 - [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
 - [Pinecone · GitHub](https://github.com/pinecone-io)
-- [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/explodinggradients/ragas (Ragas)
 
 ---
 
-*Last updated: 2026-07-09 01:43 IST*
+*Last updated: 2026-07-09 10:02 IST*

@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - rag
-- reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -32,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Lifetime Metrics**: Tracks hourly-updated performance including total presentations (since 2025), views, reads (30+ sec), feed clickthrough rate, earnings (daily), follower/subscriber changes, and read ratio; paywalled stories only.
-
-- **Monthly Analytics**: Daily-updated engagement data (claps, highlights, responses, followers) and earnings (yellow-marked metrics contribute), with member read ratio (member reads ÷ member views) influencing earnings.
-
-- **Traffic & Audience Insights**: Hourl
+- **Lifetime Metrics**: Tracks *presentations* (suggested views), *views* (story loads), and *reads* (30+ second engagement) with hourly updates; includes *earnings* (paywalled stories only, daily updates), *followers*, and *subscribers* (follow/unfollow actions).
+- **Monthly Engagement**: Displays paywall-specific metrics (claps, highlights, responses, followers) and *Member read ratio* (member reads ÷ member views) to adjust earnings and deter clickbait; updated daily.
+- **Traffic & Audience A
 
 ## Use Cases
 

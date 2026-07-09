@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **GraphRAG Architecture**: Combines vector search (semantic similarity) with graph-based structured queries (Cypher/SPARQL) to enhance RAG systems, enabling both semantic understanding and symbolic reasoning for improved accuracy, explainability, and scalability.
+- **GraphRAG Architecture**: Combines vector search (semantic similarity) with graph-based structured queries (Cypher/SPARQL) to enhance RAG systems, enabling explainable, scalable, and relation-aware retrieval beyond traditional vector-only approaches.
 
-- **Core RAG Workflow**: Three-stage process—**Retrieval** (embedding-based vector search + structured filtering), **Augmentation** (combining retrieved context with user query into an augmented prompt), and **Generation** (LLM produ
+- **Core Components**: User query → embedding → vector search → document retrieval → augmented prompt → LLM generation, with GraphRAG adding structured graph traversal (e.g., Neo4j) for relational reasoning and traceability.
+
+- **Implementation
 
 ## Use Cases
 

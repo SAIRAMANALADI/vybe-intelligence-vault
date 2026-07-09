@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dagshub.com/
-published_at: '2026-07-08T17:03:52.056933+05:30'
-collected_at: '2026-07-08T17:03:52.056946+05:30'
+published_at: '2026-07-09T09:51:30.356820+05:30'
+collected_at: '2026-07-09T09:51:30.356843+05:30'
 tags:
 - dataset
 - rag
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:dagshub-everything-you-need-to-manage-multimodal-a
-first_seen: '2026-07-08T17:03:52.056946+05:30'
-last_seen: '2026-07-08T17:03:52.056946+05:30'
-last_checked: '2026-07-08T17:03:52.056946+05:30'
+first_seen: '2026-07-09T09:51:30.356843+05:30'
+last_seen: '2026-07-09T09:51:30.356843+05:30'
+last_checked: '2026-07-09T09:51:30.356843+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Data & Model Management**: Platform supports curation/annotation of multimodal datasets (vision, audio, LLM), experiment tracking (MLflow-compatible), and model versioning/deployment with lineage, scaling from petabytes to private storage integration.
+- **Unified AI Data & Model Management**: Platform supports curation, annotation, and versioning of multimodal datasets (vision, audio, LLM) with lineage tracking, experiment monitoring, and model registry, integrating with MLflow and open-source formats.
 
-- **Tiered Subscription Model**: Free "Individual" tier offers public repos, limited private storage (20GB), and 100 private experiments; "Team" ($99/user/month) adds private repos, auto-labeling, RBAC, and 1TB storage; "Enterprise" provides petabyte-scale management, VPC/air-gapped deployment, SSO/LDAP, and enterprise SLAs.
+- **Scalable Plans with Advanced Features**: Free tier offers public repos, limited private storage, and experiment tracking; Team plan ($99/user/month) adds multimodal annotation, auto-labeling, RBAC, and 1TB storage; Enterprise supports petabyte-scale data, VPC/air-gapped deployments, and SSO/LDAP integration.
 
-- **Enterprise-Grade Features**: Supports on-prem/air-gapped installations, OpenShift compatibility, organizational resource control, and integrates with existing ML stacks (cloud storage, MLOps tools) while offering priority support and custom security controls.
+- **Enterprise-Grade Deployment & Security**: On-prem or cloud hosting with full VPC isolation, organizational RBAC, OpenShift compatibility, and enterprise SLAs for high-scale AI workloads.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T17:03:52.056933+05:30
+- Published: 2026-07-09T09:51:30.356820+05:30
 
 ## Related Tags
 

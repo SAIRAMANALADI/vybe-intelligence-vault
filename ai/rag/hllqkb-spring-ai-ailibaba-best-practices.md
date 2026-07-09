@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-07-09T01:28:51.668997+05:30'
+collected_at: '2026-07-09T09:47:17.528015+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-07-09T01:28:51.668997+05:30'
-last_seen: '2026-07-09T01:28:51.668997+05:30'
-last_checked: '2026-07-09T01:28:51.668997+05:30'
+first_seen: '2026-07-09T09:47:17.528015+05:30'
+last_seen: '2026-07-09T09:47:17.528015+05:30'
+last_checked: '2026-07-09T09:47:17.528015+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Implements SSE streaming, Agent-based workflows, and RAG with knowledge graphs** for AI Q&A systems, leveraging Java-based Spring AI integration with Alibaba Cloud services.
+- **Implements RAG with Vector Databases**: Utilizes embedding models and vector databases (e.g., Chroma, Milvus) for efficient retrieval-augmented generation (RAG) in Java-based AI Q&A systems.
 
-- **Supports multimodal processing** including image generation (via FunctionCall), image understanding, and embedding/vector database operations for RAG pipelines.
+- **Supports SSE, Agents, and Function Calls**: Enables Server-Sent Events (SSE) for real-time streaming, AI agent workflows, and function calling for dynamic tool integration.
 
-- **Manages historical message context** and integrates embedding models with vector databases (e.g., Milvus/Weaviate) for enhanced retrieval-augmented generation.
+- **Multi-modal Capabilities**: Integrates image generation (e.g., via Stable Diffusion), image understanding (OCR, vision models), and historical message management for conversational context.
 
 ## Why It Matters
 

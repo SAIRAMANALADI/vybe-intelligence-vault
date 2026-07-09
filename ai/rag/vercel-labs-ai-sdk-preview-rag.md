@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/ai-sdk-preview-rag
-collected_at: '2026-07-09T01:28:16.667045+05:30'
+collected_at: '2026-07-09T09:46:42.529634+05:30'
 published_at: '2026-07-02T10:44:39Z'
 tags:
 - frontend_ui
@@ -20,9 +20,9 @@ archived: true
 created_at: '2024-07-10T16:28:52Z'
 pushed_at: '2026-04-19T20:34:23Z'
 resource_id: github:vercel-labs/ai-sdk-preview-rag
-first_seen: '2026-07-09T01:28:16.667045+05:30'
-last_seen: '2026-07-09T01:28:16.667045+05:30'
-last_checked: '2026-07-09T01:28:16.667045+05:30'
+first_seen: '2026-07-09T09:46:42.529634+05:30'
+last_seen: '2026-07-09T09:46:42.529634+05:30'
+last_checked: '2026-07-09T09:46:42.529634+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Template demonstrates retrieval-augmented generation (RAG) using the Vercel AI SDK, integrating document retrieval with LLM generation in a Next.js application.
-- **Tech Stack**: Built with TypeScript, leveraging Next.js for frontend/backend, and the AI SDK for structured LLM interactions and tooling.
-- **Repository Details**: Last updated July 2, 2026; 409 stars, 84 forks; focuses on AI-SDK, Next.js, and RAG workflows.
+- **RAG Implementation**: Template demonstrating retrieval-augmented generation (RAG) using Vercel's AI SDK in a Next.js application.
+- **Key Components**: Integrates vector search with LLM prompting for contextual document retrieval and generation.
+- **Tech Stack**: TypeScript-based, leveraging Vercel AI SDK, Next.js, and vector databases for scalable RAG workflows.
 
 ## Why It Matters
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/packtpublishing-llm-engineers-handbook.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
@@ -20,7 +20,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # PacktPublishing/LLM-Engineers-Handbook
@@ -29,18 +29,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Comprehensive LLM Guide**: Covers fundamentals to deployment of advanced LLM and RAG applications on AWS, integrating LLMOps best practices for scalable ML system design.
+- **Comprehensive LLM Engineering Guide**: Covers fundamentals to deployment of advanced LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-grade systems.
 
-- **Technical Focus**: Includes fine-tuning LLMs, evaluation methodologies, and MLOps/GenAI workflows with Python-based implementations.
+- **Technical Stack & Tools**: Focuses on Python-based implementations, including fine-tuning LLMs, RAG pipelines, and evaluation frameworks, with AWS integration for ML system design and MLOps workflows.
 
-- **AWS-Centric**: Demonstrates deployment strategies and infrastructure optimization for LLM applications using AWS services.
+- **Operational Best Practices**: Emphasizes LLMOps, including model deployment, monitoring, and
 
 ## Use Cases
 

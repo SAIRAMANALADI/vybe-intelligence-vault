@@ -4,10 +4,9 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://repost.aws/knowledge-center?nc1=f_dr
-published_at: '2026-07-09T01:35:12.611920+05:30'
-collected_at: '2026-07-09T01:35:12.611933+05:30'
+published_at: '2026-07-09T09:57:11.444286+05:30'
+collected_at: '2026-07-09T09:57:11.444305+05:30'
 tags:
-- agents
 - frontend_ui
 - hackernews
 - rag
@@ -18,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:discover-aws-official-knowledge-center-articles-aw
-first_seen: '2026-07-09T01:35:12.611933+05:30'
-last_seen: '2026-07-09T01:35:12.611933+05:30'
-last_checked: '2026-07-09T01:35:12.611933+05:30'
+first_seen: '2026-07-09T09:57:11.444305+05:30'
+last_seen: '2026-07-09T09:57:11.444305+05:30'
+last_checked: '2026-07-09T09:57:11.444305+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **S3 Replication Failure**: S3 object replication may fail due to misconfigured IAM roles, missing bucket policy permissions, or incorrect replication configuration settings, even when buckets are in the same or different regions.
+- **S3 Replication Failures**: Common causes include missing IAM permissions, incorrect bucket policy configurations, or replication rule misconfigurations in Amazon S3 general-purpose buckets, even when source and destination buckets are in the same region.
 
-- **EC2 Connection Issues**: SSH/RDP connection failures to EC2 instances often stem from misconfigured security groups, incorrect key pairs, or disabled SSM Agent, requiring verification of network ACLs and instance status.
+- **EC2 SSH Connection Errors**: "Connection refused" or "Permission denied (publickey)" errors typically stem from misconfigured security groups, incorrect key pair associations, or disabled SSH access on Linux EC2 instances.
 
-- **Lambda Modification Tracking**: AWS CloudTrail logs must be enabled to audit Lambda function modifications, as direct API calls or console changes require historical tracking for compliance and troubleshooting.
+- **S3 403 Access Denied Errors**: These errors often result from incorrect bucket policies, missing IAM permissions, or object-level ACL restrictions preventing access to Amazon S3 objects.
 
 ## Why It Matters
 
@@ -42,11 +41,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T01:35:12.611920+05:30
+- Published: 2026-07-09T09:57:11.444286+05:30
 
 ## Related Tags
 
-- agents
 - frontend_ui
 - hackernews
 - rag

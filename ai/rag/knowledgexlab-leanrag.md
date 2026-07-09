@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-07-09T01:29:36.759223+05:30'
+collected_at: '2026-07-09T09:48:02.636669+05:30'
 published_at: '2026-07-07T06:11:04Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +17,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-07-09T01:29:36.759223+05:30'
-last_seen: '2026-07-09T01:29:36.759223+05:30'
-last_checked: '2026-07-09T01:29:36.759223+05:30'
+first_seen: '2026-07-09T09:48:02.636669+05:30'
+last_seen: '2026-07-09T09:48:02.636669+05:30'
+last_checked: '2026-07-09T09:48:02.636669+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with two-stage retrieval—semantic aggregation for node-level relevance and hierarchical retrieval for subgraph-level context—optimizing long-form generation.
-
-- **Efficiency & Scalability**: Uses lightweight graph pruning and dynamic subgraph selection to reduce computational overhead while maintaining retrieval accuracy, as demonstrated in AAAI 2026 benchmarks.
-
-- **Python Implementation**: Provides modular components for knowledge graph integration, retrieval augmentation, and generation, with dependencies optimized for PyTorch and HuggingFace ecosystems.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-layered retrieval (semantic → structural) for efficient, context-aware generation (AAAI 2026).
+- **Optimized Architecture**: Python-based system leveraging graph neural networks (GNNs) for dynamic knowledge fusion and adaptive query routing in low-latency settings.
+- **Scalable KG Integration**: Supports dynamic updates to knowledge graphs with hierarchical pruning to maintain retrieval precision and computational efficiency.
 
 ## Why It Matters
 

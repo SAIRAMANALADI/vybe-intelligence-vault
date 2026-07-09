@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-07-09T01:28:31.673589+05:30'
+collected_at: '2026-07-09T09:46:57.504778+05:30'
 published_at: '2026-07-08T19:10:45Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 1970
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-07-09T01:28:31.673589+05:30'
-last_seen: '2026-07-09T01:28:31.673589+05:30'
-last_checked: '2026-07-09T01:28:31.673589+05:30'
+first_seen: '2026-07-09T09:46:57.504778+05:30'
+last_seen: '2026-07-09T09:46:57.504778+05:30'
+last_checked: '2026-07-09T09:46:57.504778+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- Introduces **MiniRAG**, a simplified RAG framework leveraging small, open-sourced language models (SLMs) for efficient retrieval-augmented generation (RAG) with reduced computational overhead.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) architecture leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as presented in ACL2026.
 
-- Proposes a **modular architecture** decoupling retrieval, reranking, and generation, enabling flexible integration of lightweight models (e.g., <1B parameters) while maintaining performance.
+- **Technical Implementation**: Utilizes lightweight retrieval mechanisms and optimized model architectures to achieve efficiency gains, demonstrated through Python-based implementations and benchmark evaluations.
 
-- Achieves **competitive results** on benchmarks (e.g., MS MARCO, NaturalQuestions) with minimal resource requirements, demonstrating viability for low-cost, high-efficiency RAG deployments.
+- **Open-Source Contribution**: Provides a publicly accessible repository (HKUDS/MiniRAG) with 1,970+ stars, enabling community-driven advancements in scalable and cost-effective RAG systems.
 
 ## Why It Matters
 

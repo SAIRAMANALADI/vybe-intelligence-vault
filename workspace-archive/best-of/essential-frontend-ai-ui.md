@@ -58,14 +58,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`arxiv-2606-12344.md`](../../ai/agents/arxiv-2606-12344.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
+### [Future Confidence Distillation in Large Language Models](https://arxiv.org/abs/2607.07626)
+- **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2607-07626.md`](../../ai/research/arxiv-2607-07626.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine)
 - **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
 - **Score**: `81` | **Path**: [`asbhogal-fyrre-magazine.md`](../../web-development/nextjs/asbhogal-fyrre-magazine.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [jolbol1/nextjs-velite-blog-template](https://github.com/jolbol1/nextjs-velite-blog-template)
-- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`jolbol1-nextjs-velite-blog-template.md`](../../web-development/nextjs/jolbol1-nextjs-velite-blog-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-09 01:44 IST*
+*Last updated: 2026-07-09 10:02 IST*

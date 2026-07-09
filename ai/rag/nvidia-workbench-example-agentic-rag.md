@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-agentic-rag
-collected_at: '2026-07-09T01:28:36.699359+05:30'
+collected_at: '2026-07-09T09:47:02.569487+05:30'
 published_at: '2026-07-04T02:29:38Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - jupyter notebook
 - rag
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-08-14T17:08:04Z'
 pushed_at: '2026-06-11T22:51:59Z'
 resource_id: github:nvidia/workbench-example-agentic-rag
-first_seen: '2026-07-09T01:28:36.699359+05:30'
-last_seen: '2026-07-09T01:28:36.699359+05:30'
-last_checked: '2026-07-09T01:28:36.699359+05:30'
+first_seen: '2026-07-09T09:47:02.569487+05:30'
+last_seen: '2026-07-09T09:47:02.569487+05:30'
+last_checked: '2026-07-09T09:47:02.569487+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Implementation**: Demonstrates an agentic RAG pipeline using NVIDIA AI Workbench, integrating retrieval and generative components for dynamic, multi-step reasoning.
-- **Jupyter Notebook-Based**: Entire project structured as a Jupyter Notebook for interactive development and experimentation.
-- **Updated Tooling**: Leverages NVIDIA's latest AI Workbench features (as of 2026-07-04) for scalable, modular RAG workflows.
+- **Purpose**: Demonstrates an Agentic Retrieval-Augmented Generation (RAG) pipeline using NVIDIA AI Workbench, integrating multi-agent orchestration with retrieval-augmented generation for dynamic workflows.
+
+- **Implementation**: Implemented in a Jupyter Notebook, leveraging modular agent interactions, vector databases (e.g., FAISS or Milvus), and LLM APIs (e.g., NVIDIA NeMo or custom models) for adaptive retrieval and generation.
+
+- **Key Features**: Supports dynamic agent collaboration (e.g., planner, retriever, generator), customizable retrieval strategies, and end-to-end evaluation metrics for agentic RAG performance.
 
 ## Why It Matters
 
@@ -42,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: NVIDIA
 - Stars: 165
-- Forks: 234
+- Forks: 233
 - Language: Jupyter Notebook
 - Topics: None
 - Last Updated: 2026-07-04T02:29:38Z

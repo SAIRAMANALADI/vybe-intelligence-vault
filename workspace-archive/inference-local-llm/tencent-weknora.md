@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-functional LLM Platform**: Converts raw documents into a queryable RAG system, autonomous reasoning agent, and self-maintaining Wiki using Go, supporting multi-tenancy and multi-model integration (e.g., Ollama, OpenAI).
-
-- **Advanced Search & Retrieval**: Implements vector search, semantic search, embeddings, and reranking for efficient knowledge retrieval and question-answering.
-
-- **Evaluation & Scalability**: Includes evaluation frameworks for generative AI and supports scalable, pr
+- **RAG & Autonomous Agent Framework**: Implements Retrieval-Augmented Generation (RAG) with vector search, reranking, and semantic search; supports autonomous reasoning agents and self-maintaining Wiki functionality.
+- **Multi-Model & Multi-Tenant Architecture**: Integrates OpenAI, Ollama, and other LLMs; designed for multi-tenant deployments with knowledge base management.
+- **Go-Based Implementation**: Built in Go with embeddings, evaluation tools, and support for multimodal models, enabling
 
 ## Use Cases
 

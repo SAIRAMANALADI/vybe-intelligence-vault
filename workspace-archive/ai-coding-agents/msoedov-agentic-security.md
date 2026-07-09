@@ -14,7 +14,6 @@ tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
 selection_reason:
 - Useful for project building
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Agentic LLM Vulnerability Scanner and AI red teaming toolkit for evaluating LLM security, jailbreaks, and prompt vulnerabilities.
-- **Features**: Supports LLM fuzzing, evaluation frameworks, guardrails testing, and vulnerability aggregation across agent-based systems.
-- **Technical Stack**: Python-based repository with 1,920 stars, 269 forks, and active development (last updated July 2026).
+- **Agentic LLM Security Toolkit**: Python-based framework for red teaming and vulnerability scanning of Large Language Models (LLMs), supporting agent frameworks, jailbreak detection, and prompt testing.
+- **LLM Fuzzing & Evaluation**: Includes tools for automated LLM fuzzing, vulnerability assessment, and evaluation of guardrails, with aggregation capabilities for comprehensive security testing.
+- **Active Development**: Last updated in 2026, the repository integrates 14+ security-focused topi
 
 ## Use Cases
 

@@ -16,6 +16,7 @@ tags:
 - hackernews
 - python
 - rag
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: EvalScope is a Python-based, modular framework designed for efficient evaluation and benchmarking of large models (LLMs, VLMs, AIGC) with customizable pipelines and metrics.
+- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with a focus on performance metrics and efficiency.
 
-- **Key Features**: Supports evaluation across tasks like RAG, performance benchmarking, and multi-modal model assessment with extensible task configurations and evaluation protocols.
+- **Key Features**: Supports evaluation of **Retrieval-Augmented Generation (RAG)**, multimodal models (VLMs), and generative AI tasks with modular, extensible architecture for custom benchmarks.
 
-- **Technical Stack**: Built on Python, integrates with ModelScope ecosystem, optimized for scalability and extens
+- **Technical Scope**: Enables standardized performance benchmarking across diverse model types while maintai
 
 ## Use Cases
 

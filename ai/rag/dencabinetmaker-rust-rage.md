@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DenCabinetmaker/Rust-Rage
-collected_at: '2026-07-09T01:29:41.742520+05:30'
-published_at: '2026-07-07T16:15:13Z'
+collected_at: '2026-07-09T09:48:07.641737+05:30'
+published_at: '2026-07-09T02:01:56Z'
 tags:
 - github-repo
 - rag
 - reddit
 - unknown
-stars: 45
+stars: 43
 language: Unknown
 status: active
 license: NOASSERTION
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-04-26T21:33:43Z'
 pushed_at: '2026-07-05T16:22:48Z'
 resource_id: github:dencabinetmaker/rust-rage
-first_seen: '2026-07-09T01:29:41.742520+05:30'
-last_seen: '2026-07-09T01:29:41.742520+05:30'
-last_checked: '2026-07-09T01:29:41.742520+05:30'
+first_seen: '2026-07-09T09:48:07.641737+05:30'
+last_seen: '2026-07-09T09:48:07.641737+05:30'
+last_checked: '2026-07-09T09:48:07.641737+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: DenCabinetmaker/Rust-Rage, a Rust-based cheating toolkit (aimbot, wallhack, ESP) with 45 stars and 18 forks, last updated on 2026-07-07.
-- **Functionality**: Implements undetected cheats (aimbot, wallhack, ESP) for Rust, leveraging Rust's low-level control and performance.
-- **Status**: Actively maintained (as of 2026-07-07), though language details and topics are unspecified in metadata.
+- **Repository**: DenCabinetmaker/Rust-Rage, a Rust-based cheating toolkit (aimbot, wallhack, ESP) last updated on **2026-07-09**.
+- **Metadata**: 43 stars, 18 forks, language unspecified, no topics or README provided.
+- **Purpose**: Alleged cheat suite for Rust (2026), potentially violating game terms of service.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: DenCabinetmaker
-- Stars: 45
+- Stars: 43
 - Forks: 18
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-07T16:15:13Z
+- Last Updated: 2026-07-09T02:01:56Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2026-04-26T21:33:43Z

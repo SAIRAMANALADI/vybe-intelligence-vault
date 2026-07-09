@@ -12,6 +12,7 @@ resource_kind: benchmark
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
 - jupyter notebook
 - rag
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic RAG Implementation**: Demonstrates an agentic RAG pipeline using NVIDIA AI Workbench, integrating retrieval and generative components for dynamic, multi-step reasoning.
-- **Jupyter Notebook-Based**: Entire project structured as a Jupyter Notebook for interactive development and experimentation.
-- **Updated Tooling**: Leverages NVIDIA's latest AI Workbench features (as of 2026-07-04) for scalable, modular RAG workflows.
+- **Purpose**: Demonstrates an Agentic Retrieval-Augmented Generation (RAG) pipeline using NVIDIA AI Workbench, integrating multi-agent orchestration with retrieval-augmented generation for dynamic workflows.
+
+- **Implementation**: Implemented in a Jupyter Notebook, leveraging modular agent interactions, vector databases (e.g., FAISS or Milvus), and LLM APIs (e.g., NVIDIA NeMo or custom models) for adaptive retrieval and generation.
+
+- **Key Features**: Supports dynamic agent collaboration (e.g.
 
 ## Use Cases
 

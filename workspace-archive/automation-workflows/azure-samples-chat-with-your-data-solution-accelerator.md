@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** models for generating ChatGPT-style and Q&A responses, adhering to best practices.
-
-- **Azure Deployment**: Utilizes **Azure Developer CLI (azd) templates** for infrastructure-as-code deployment, ensuring scalable and reproducible setups in Azure.
-
-- **Python-Based**: Provides a **Python-based** solution accelerator with pre-configured components for vecto
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern on Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for generating responses, enabling ChatGPT-style and Q&A interactions.
+- **Key Components**: Includes **Python-based** implementation with **AZD templates** for deployment, adhering to best practices for scalability, security, and performance in Azure.
+- **Integration**: Supports **multi-modal retrieval** (text, documents) and leverages **Azure Op
 
 ## Use Cases
 

@@ -8,12 +8,13 @@ local_vault_path: ai/rag/freddy-schuetz-n8n-claw.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: template
 importance: medium
 tags:
 - agents
 - github-repo
 - rag
+- scripts
 - shell
 - workflows
 selection_reason:
@@ -26,15 +27,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: template
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
 - **OpenClaw-inspired autonomous AI agent** implemented entirely in **n8n**, leveraging **adaptive RAG-powered memory** for dynamic context retention and retrieval.
-- **Modular architecture** with **MCP-based Skills**, **Expert Agents** (delegating subtasks), **proactive task management**, and **media understanding** via **Crawl4AI** and **SearXNG** integration.
-- **Self-hosted deployment** via a single setup script, with backend support for **Supabase**, enabling scalable, open-source AI agent
+- **Multi-agent architecture** with **Expert Agents** delegating tasks to sub-agents via **MCP templates**, enabling **proactive task management** and **media understanding** (e.g., text, images).
+- **Self-hosted deployment** via a single setup script, integrating **Crawl4AI** for scraping, **SearXNG** for search, and **Supabase** fo
 
 ## Use Cases
 

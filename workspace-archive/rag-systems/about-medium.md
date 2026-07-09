@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - rag
-- reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Mission & Model**: Medium is a content platform prioritizing depth, nuance, and thoughtful discourse over sensationalism, funded by a community of over 1M paying members rather than ads or data monetization.
-- **User Base & Content**: Hosts 100M+ monthly users (developers, designers, executives, etc.) sharing insights, experiences, and expertise across diverse topics, fostering collaborative knowledge exchange.
-- **Core Features**: Provides a streamlined publishing interface (no follower/lis
+- **Mission & Model**: Medium is a subscription-supported platform (1M+ members) prioritizing depth over sensationalism, avoiding ads/data sales, and aiming to deepen collective understanding via long-form writing.
+- **User Base & Content**: Hosts 100M+ monthly users (developers, CEOs, writers) sharing insights, experiences, and expertise, fostering thoughtful, nuanced discussions beyond superficial content.
+- **Core Features**: Provides a minimalist, collaborative publishing environment with bu
 
 ## Use Cases
 

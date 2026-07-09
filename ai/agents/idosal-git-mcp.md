@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-07-09T01:29:51.704767+05:30'
-published_at: '2026-07-08T14:41:14Z'
+collected_at: '2026-07-09T09:48:17.629018+05:30'
+published_at: '2026-07-09T03:38:04Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,7 @@ tags:
 - hackernews
 - typescript
 - workflows
-stars: 8241
+stars: 8242
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-07-09T01:29:51.704767+05:30'
-last_seen: '2026-07-09T01:29:51.704767+05:30'
-last_checked: '2026-07-09T01:29:51.704767+05:30'
+first_seen: '2026-07-09T09:48:17.629018+05:30'
+last_seen: '2026-07-09T09:48:17.629018+05:30'
+last_checked: '2026-07-09T09:48:17.629018+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: GitMCP is an open-source, remote MCP (Model Context Protocol) server designed to provide structured, real-time access to GitHub repositories, mitigating AI code hallucinations by ensuring accurate, context-aware interactions.
+- **Purpose**: GitMCP is an open-source, remote MCP (Model Context Protocol) server designed to provide structured, real-time access to any GitHub repository, mitigating AI code hallucinations by ensuring accurate, up-to-date context for AI agents.
 
-- **Technical Stack**: Implemented in TypeScript, GitMCP enables seamless integration with AI agents (e.g., Claude, Copilot, Cursor) by exposing GitHub project data via the MCP standard for secure, agent-driven workflows.
+- **Technical Stack**: Implemented in TypeScript, GitMCP acts as a bridge between AI agents (e.g., Claude, Copilot, Cursor) and GitHub repositories, enabling seamless integration with agentic AI workflows.
 
-- **Features**: Supports real-time repository synchronization, granular access control, and extensible APIs for custom agent interactions, with last updates as of July 8, 2026.
+- **Features**: Supports real-time repository synchronization, structured data retrieval (files, commits, issues), and is deployable as a standalone server for integration with MCP-compatible clients.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: idosal
-- Stars: 8241
-- Forks: 732
+- Stars: 8242
+- Forks: 731
 - Language: TypeScript
 - Topics: agentic-ai, agents, ai, claude, copilot, cursor, git, llm, mcp
-- Last Updated: 2026-07-08T14:41:14Z
+- Last Updated: 2026-07-09T03:38:04Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-03-29T00:44:19Z

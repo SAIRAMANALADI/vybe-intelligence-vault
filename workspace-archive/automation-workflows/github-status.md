@@ -2,7 +2,7 @@
 title: GitHub Status
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://www.githubstatus.com
+source_url: https://www.githubstatus.com/
 resource_id: blog:github-status
 local_vault_path: ai/rag/github-status.md
 quality_score: 70
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page** provides real-time operational status, uptime metrics (e.g., 99.99% for Git Operations over 90 days), and incident reports for GitHub services (Actions, Codespaces, Pages, Copilot, etc.).
+- **GitHub Status Page** provides real-time operational status for GitHub services, including incident reports, uptime metrics (e.g., 99.99% for Git Operations over 90 days), and historical data via Atom/RSS feeds.
 
-- **Notification Systems** support email, SMS (global coverage), Slack, and webhook-based incident updates for GitHub service disruptions, with OTP verification for security.
+- **Past Incidents** include resolved issues such as **Actions/Codespaces API failures** (500 errors, 8-13% impact, mitigated via rollback and monitoring) and **GitHub Pages delays** (scaled deployment workers to resolve backlog).
 
-- **Past Incidents** include resolved issues like **Actions/Codespaces API failures** (500 errors, 8-13% impac
+- **Notification Systems** support multi-channel ale
 
 ## Use Cases
 
@@ -50,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.githubstatus.com
+Original source URL: https://www.githubstatus.com/
 
 ## Local Vault File
 

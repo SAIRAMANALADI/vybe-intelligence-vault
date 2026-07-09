@@ -15,7 +15,6 @@ tags:
 - github-repo
 - hackernews
 - typescript
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -34,8 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) providing a structured collection of GitHub Copilot AI enhancement materials, including instructions, prompts, skills, MCPs (Model Context Protocols), and agent markdown files optimized for AI agent interactions.
-- **Technical Scope**: Focuses on advanced GitHub Copilot customization via TypeScript-based agent skills, prompt engineering, and MCP integration, targeting VS Code Copilot Chat for AI-driven developm
+- **Curated Resource**: Repository containing GitHub Copilot enhancement files (instructions, prompts, skills, MCPs, and agent markdown) for AI agent customization.
+- **Technical Scope**: Supports TypeScript-based agent skills, prompt engineering, and VS Code Copilot Chat integration.
+- **Metadata**: 545 stars, 90 forks, last updated 2026-07-07, covering topics like AI agents, custom agents, and prompt engineering.
 
 ## Use Cases
 

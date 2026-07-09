@@ -13,13 +13,14 @@ collected_at: '2026-07-09T01:27:11.084001+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-follow-london-trains-in-3d
 first_seen: '2026-07-09T01:27:11.084001+05:30'
 last_seen: '2026-07-09T01:27:11.084001+05:30'
 last_checked: '2026-07-09T01:27:11.084001+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Follow London Trains in 3D
 

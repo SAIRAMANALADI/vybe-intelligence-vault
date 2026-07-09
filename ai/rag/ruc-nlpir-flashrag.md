@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/RUC-NLPIR/FlashRAG
-collected_at: '2026-07-09T01:29:06.732180+05:30'
+collected_at: '2026-07-09T09:47:32.561164+05:30'
 published_at: '2026-07-08T01:07:46Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-03-14T01:40:33Z'
 pushed_at: '2026-04-10T03:37:48Z'
 resource_id: github:ruc-nlpir/flashrag
-first_seen: '2026-07-09T01:29:06.732180+05:30'
-last_seen: '2026-07-09T01:29:06.732180+05:30'
-last_checked: '2026-07-09T01:29:06.732180+05:30'
+first_seen: '2026-07-09T09:47:32.561164+05:30'
+last_seen: '2026-07-09T09:47:32.561164+05:30'
+last_checked: '2026-07-09T09:47:32.561164+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 - **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experiments.
 
-- **Benchmark & Dataset Integration**: Includes built-in support for standardized RAG benchmarks and datasets, enabling reproducible evaluation of retrieval and generation components.
+- **Benchmark & Dataset Integration**: Includes pre-built benchmarks and datasets for evaluating RAG models, enabling standardized performance comparisons across retrieval and generation tasks.
 
-- **Modular Architecture**: Designed with modularity for seamless integration with large language models (LLMs), supporting custom retrieval strategies and generation pipelines.
+- **Modular Architecture**: Designed with modular components for retrieval, reranking, and generation, facilitating customization and integration with large language models (LLMs) for rapid prototyping and experimentation.
 
 ## Why It Matters
 

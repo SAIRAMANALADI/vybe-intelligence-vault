@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-07-09T01:28:56.751677+05:30'
+collected_at: '2026-07-09T09:47:22.589417+05:30'
 published_at: '2026-07-07T13:09:46Z'
 tags:
 - github-repo
-- models
 - openai
 - python
 - rag
+- workflows
 stars: 1173
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-06-06T01:40:48Z'
 pushed_at: '2026-07-07T13:08:34Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-07-09T01:28:56.751677+05:30'
-last_seen: '2026-07-09T01:28:56.751677+05:30'
-last_checked: '2026-07-09T01:28:56.751677+05:30'
+first_seen: '2026-07-09T09:47:22.589417+05:30'
+last_seen: '2026-07-09T09:47:22.589417+05:30'
+last_checked: '2026-07-09T09:47:22.589417+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements **Retrieval-Augmented Generation (RAG)** pattern in Azure using **Azure AI Search** for vector-based retrieval and **Azure OpenAI** LLMs (e.g., `gpt-4`) for chat/Q&A generation, with Python-based orchestration.
-
-- **Key Components**: Includes **pre-built AZD templates** for deployment, supports **semantic search** with hybrid (keyword + vector) retrieval, and integrates **Azure Monitor** for observability/logging.
-
-- **Best Practices**: Enforces **secure data access** via **Azure Key Vault**, includes **prompt engineering** optimizations (e.g., grounding with retrieved context), and provides **scalable** patterns for production-grade RAG deployments.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern on Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for generating responses, enabling ChatGPT-style and Q&A interactions.
+- **Key Components**: Includes **Python-based** implementation with **AZD templates** for deployment, adhering to best practices for scalability, security, and performance in Azure.
+- **Integration**: Supports **multi-modal retrieval** (text, documents) and leverages **Azure OpenAI** for LLM-powered responses, optimized for enterprise-grade chat and Q&A workflows.
 
 ## Why It Matters
 

@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-07-09T01:28:31.667985+05:30'
+collected_at: '2026-07-09T09:46:57.514549+05:30'
 published_at: '2026-07-08T12:32:49Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - hackernews
+- meta-ai
+- models
 - python
 - rag
 - scripts
@@ -23,9 +25,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-07-02T03:46:39Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-07-09T01:28:31.667985+05:30'
-last_seen: '2026-07-09T01:28:31.667985+05:30'
-last_checked: '2026-07-09T01:28:31.667985+05:30'
+first_seen: '2026-07-09T09:46:57.514549+05:30'
+last_seen: '2026-07-09T09:46:57.514549+05:30'
+last_checked: '2026-07-09T09:46:57.514549+05:30'
 health_score: 100
 ---
 
@@ -33,11 +35,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-driven RAG optimization**: Automates evaluation and hyperparameter tuning for RAG pipelines using AutoML techniques, optimizing components like retrieval strategies, embeddings, and generation models without manual intervention.
+- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning and improving performance through automated hyperparameter and component selection.
 
-- **Comprehensive RAG benchmarking**: Provides built-in evaluation metrics and benchmarks for assessing RAG performance across tasks (e.g., QA, document parsing) with standardized datasets and metrics.
+- **Modular Pipeline & Benchmarking**: Provides a flexible, modular framework for RAG pipelines (e.g., document parsing, embeddings, retrieval, generation) with built-in benchmarking tools to assess components like embeddings, rerankers, and LLMs against standardized datasets.
 
-- **Modular Python framework**: Offers a flexible, open-source pipeline for RAG workflows, supporting custom document parsers, embeddings, and LLM integrations while enabling deployment in production environments.
+- **Open-Source Python Toolkit**: Implements Python-based AutoML workflows for RAG, supporting integration with popular libraries (e.g., LangChain, LlamaIndex) and offering pre-built modules for document processing, evaluation metrics, and optimization strategies.
 
 ## Why It Matters
 

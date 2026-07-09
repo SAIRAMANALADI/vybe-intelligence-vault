@@ -4,16 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.blog/changelog
-published_at: '2026-07-09T01:34:15.329819+05:30'
-collected_at: '2026-07-09T01:34:15.329832+05:30'
+published_at: '2026-07-09T09:52:14.125347+05:30'
+collected_at: '2026-07-09T09:52:14.125362+05:30'
 tags:
-- models
 - web-crawled
 status: active
 resource_id: blog:github-changelog
-first_seen: '2026-07-09T01:34:15.329832+05:30'
-last_seen: '2026-07-09T01:34:15.329832+05:30'
-last_checked: '2026-07-09T01:34:15.329832+05:30'
+first_seen: '2026-07-09T09:52:14.125362+05:30'
+last_seen: '2026-07-09T09:52:14.125362+05:30'
+last_checked: '2026-07-09T09:52:14.125362+05:30'
 health_score: 100
 ---
 
@@ -21,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Enhanced Code Completion**: Introduced AI-powered multi-line code completions with improved context awareness, reducing keystrokes by up to 40% in complex codebases.
+- **General Availability of Innersource Security Advisories**: GitHub announces the general availability of Innersource security advisories, enabling organizations to manage and disclose security vulnerabilities within their inner source projects more effectively.
 
-- **Custom Copilot Models**: Added support for fine-tuning Copilot models using proprietary codebases, enabling domain-specific suggestions while maintaining enterprise data privacy.
+- **Enhanced Supply Chain Security**: New features under the supply chain security label are introduced, focusing on improving the detection, prevention, and mitigation of supply chain attacks within GitHub repositories.
 
-- **Performance Optimizations**: Reduced latency in real-time code suggestions by 30% through optimized model inference and caching mechanisms in VS Code.
+- **Integration with GitHub Changelog**: Security advisories and supply chain security updates are now systematically integrated into the GitHub changelog, ensuring users are promptly informed of critical security enhancements and changes.
 
 ## Why It Matters
 
@@ -35,11 +34,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-09T01:34:15.329819+05:30
+- Published: 2026-07-09T09:52:14.125347+05:30
 
 ## Related Tags
 
-- models
 - web-crawled
 
 ## Source

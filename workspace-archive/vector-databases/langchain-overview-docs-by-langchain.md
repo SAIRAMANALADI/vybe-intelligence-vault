@@ -2,17 +2,18 @@
 title: LangChain overview - Docs by LangChain
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://python.langchain.com
+source_url: https://python.langchain.com/
 resource_id: blog:langchain-overview-docs-by-langchain
 local_vault_path: ai/rag/langchain-overview-docs-by-langchain.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - agents
 - anthropic
+- benchmark
 - meta-ai
 - models
 - openai
@@ -20,7 +21,7 @@ tags:
 - web-crawled
 - workflows
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # LangChain overview - Docs by LangChain
@@ -29,17 +30,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Agent Composition**: `create_agent` provides a minimal, configurable harness combining model, tools, prompt, and middleware, enabling custom agent construction for specific use cases with support for multiple providers (OpenAI, Anthropic, Google, etc.).
+- **Modular Agent Harness**: `create_agent` provides a minimal, highly configurable agent harness composed of model, tools, prompt, and middleware, enabling precise customization for specific use cases while supporting multiple LLM providers (OpenAI, Anthropic, Google, etc.).
 
-- **Framework Integration**: LangChain agents are built on LangGraph, inheriting durable execution, human-in-the-loop support, and persistence, while LangSmith offers observability for tracing, debugging, and evaluating agent behavior.
+- **Unified Model Interface**: Standardized interface across chat models, embeddings, and providers ensures portability with minimal code changes, facilitating seamless model switching and application evolution.
 
-- **
+- **LangG
 
 ## Use Cases
 
@@ -49,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://python.langchain.com
+Original source URL: https://python.langchain.com/
 
 ## Local Vault File
 

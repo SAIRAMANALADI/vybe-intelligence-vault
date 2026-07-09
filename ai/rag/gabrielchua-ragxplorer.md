@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-09T01:28:31.646534+05:30'
+collected_at: '2026-07-09T09:46:57.482021+05:30'
 published_at: '2026-07-07T03:51:39Z'
 tags:
-- benchmark
 - github-repo
 - jupyter notebook
-- models
 - rag
+- workflows
 stars: 1222
 language: Jupyter Notebook
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-09T01:28:31.646534+05:30'
-last_seen: '2026-07-09T01:28:31.646534+05:30'
-last_checked: '2026-07-09T01:28:31.646534+05:30'
+first_seen: '2026-07-09T09:46:57.482021+05:30'
+last_seen: '2026-07-09T09:46:57.482021+05:30'
+last_checked: '2026-07-09T09:46:57.482021+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) designed for interactive exploration and visualization of Retrieval-Augmented Generation (RAG) pipelines, enabling users to analyze retrieval quality, latency, and relevance metrics.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for dynamic visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time debugging and performance assessment.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for a web-based interface, allowing real-time interaction with RAG components (e.g., embeddings, retrievers, LLMs) via dynamic visualizations (e.g., retrieval heatmaps, latency graphs, token flow diagrams).
+- **Streamlit-Powered UI**: Integrates Streamlit for an interactive web interface, allowing users to explore RAG components (e.g., retrieval, generation) via visual graphs, metrics, and embeddings without requiring advanced coding.
 
-- **Python-Centric Architecture**: Built in Python with dependencies on libraries like `langchain`, `faiss`/`chromadb` (for vector stores), and `matplotlib`/`plotly` (for visualizations), supporting custom RAG pipeline debugging and performance benchmarking.
+- **Modular Python Framework**: Supports custom RAG workflows with Python-based extensibility, leveraging libraries like `langchain` or `transformers`; includes built-in visualization of document chunks, retrieval scores, and LLM outputs for iterative optimization.
 
 ## Why It Matters
 

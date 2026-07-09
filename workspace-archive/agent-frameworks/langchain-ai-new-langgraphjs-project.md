@@ -14,6 +14,7 @@ tags:
 - agents
 - github-repo
 - typescript
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -32,15 +33,14 @@ selection_reason:
 
 ## Summary
 
-- **Template Structure**: Empty starter repository for LangGraph.js, providing a minimal TypeScript-based project scaffold for building LangGraph applications.
+- **Template Structure**: Empty starter repository for LangGraph.js projects, providing a minimal TypeScript-based foundation for graph-based workflows.
 
 - **Metadata**:
   - **Stars**: 73
   - **Forks**: 88
   - **Last Updated**: 2026-07-03T03:35:45Z
-  - **Topics**: `langgraph`, `langgraph-js`, `langgraph-template`
 
-- **Purpose**: Designed as a foundational template for developers to initialize LangGraph.js projects with preconfigured dependencies and TypeScript support.
+- **Purpose**: Designed as a template for LangGraph.js applications, supporting graph-based LLM orchestration with topics tagged `langgraph`, `langgraph-js`, and `langgraph-template`.
 
 ## Use Cases
 

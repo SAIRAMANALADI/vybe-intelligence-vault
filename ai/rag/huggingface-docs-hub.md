@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-07-08T17:03:52.137769+05:30'
-collected_at: '2026-07-08T17:03:52.137783+05:30'
+published_at: '2026-07-09T09:51:30.123142+05:30'
+collected_at: '2026-07-09T09:51:30.123157+05:30'
 tags:
 - agents
 - creative_dev
@@ -15,14 +15,15 @@ tags:
 - models
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-07-08T17:03:52.137783+05:30'
-last_seen: '2026-07-08T17:03:52.137783+05:30'
-last_checked: '2026-07-08T17:03:52.137783+05:30'
+first_seen: '2026-07-09T09:51:30.123157+05:30'
+last_seen: '2026-07-09T09:51:30.123157+05:30'
+last_checked: '2026-07-09T09:51:30.123157+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting with built-in support for Gradio, Docker, and static HTML/JavaScript, with optional GPU acceleration for performance-critical applications.
+- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo applications directly on user/organization profiles with support for Gradio, Docker, and static HTML/JavaScript, including GPU acceleration for performance-critical workloads.
 
-- **Integration & Customization**: Supports dependency management, GitHub Actions integration, and custom domains; allows embedding Spaces, running with Docker, and advanced configurations via `spaces-config-reference`.
+- **SDK & Customization**: Built-in Python SDK (Gradio) allows rapid prototyping, while Docker support enables arbitrary containerized deployments; static Spaces support HTML/JS for lightweight frontends.
 
-- **Storage & Dev Tools**: Provides disk usage tracking, ZeroGPU mode, and Dev Mode for iterative development; includes SDKs for Gradio, Streamlit, Docker, and static web apps.
+- **Storage & Compute**: Supports GPU upgrades (e.g., ZeroGPU), disk/storage management, and Dev Mode for iterative development; integrates with GitHub Actions for CI/CD automation.
 
 ## Why It Matters
 
@@ -44,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T17:03:52.137769+05:30
+- Published: 2026-07-09T09:51:30.123142+05:30
 
 ## Related Tags
 
@@ -56,6 +57,7 @@ General public resource representing technology updates, guides, or tutorials.
 - models
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows

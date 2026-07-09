@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Dominates 2026 RAG landscape with modular chains, LangGraph for agentic workflows, and 700+ integrations; ideal for complex, stateful pipelines but has a steep learning curve.
-- **LlamaIndex**: Optimized for advanced indexing and retrieval across multimodal data (text, images, PDFs) with 100+ data source integrations, excelling in knowledge-intensive applications.
-- **Haystack**: Enterprise-grade framework with modular pipelines, dense/sparse retrieval, and built-in evaluation t
+- **LangChain**: Dominates RAG frameworks with 700+ integrations, LangGraph for agentic workflows, and modular chains for retrieval/augmentation/generation; ideal for complex, multi-tool pipelines but has a steep learning curve.
+- **LlamaIndex**: Optimized for production-grade indexing and retrieval, supporting multimodal data and advanced query engines with 100+ data source integrations; excels in knowledge-intensive applications.
+- **Haystack**: Enterprise-focused framework with modular pipeli
 
 ## Use Cases
 

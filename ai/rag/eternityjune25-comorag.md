@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-09T01:29:36.725537+05:30'
+collected_at: '2026-07-09T09:48:02.745363+05:30'
 published_at: '2026-07-05T11:30:42Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-09T01:29:36.725537+05:30'
-last_seen: '2026-07-09T01:29:36.725537+05:30'
-last_checked: '2026-07-09T01:29:36.725537+05:30'
+first_seen: '2026-07-09T09:48:02.745363+05:30'
+last_seen: '2026-07-09T09:48:02.745363+05:30'
+last_checked: '2026-07-09T09:48:02.745363+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Memory Organization**: Introduces a memory-optimized RAG framework (`ComoRAG`) that structures retrieved knowledge using biologically inspired memory architectures (e.g., hierarchical or associative memory) to enhance long-form narrative reasoning.
+- **Cognitive Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
 
-- **Stateful Reasoning Enhancement**: Implements state tracking mechanisms to maintain context coherence across extended dialogues or narratives, leveraging memory updates and retrieval strategies tailored for sequential reasoning tasks.
+- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain context coherence across extended dialogues or narratives, enhancing multi-turn reasoning capabilities.
 
-- **AAAI 2026 Poster Submission**: Proposes a novel evaluation paradigm for stateful RAG systems, emphasizing performance metrics on long narrative reasoning benchmarks with Python-based implementation and open-source release.
+- **AAAI 2026 Poster**: Presented as a cutting-edge contribution in retrieval-augmented generation (RAG), with open-source Python implementation for reproducibility and further research.
 
 ## Why It Matters
 

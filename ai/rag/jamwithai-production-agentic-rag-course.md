@@ -4,17 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jamwithai/production-agentic-rag-course
-collected_at: '2026-07-09T01:29:26.674599+05:30'
-published_at: '2026-07-08T16:45:58Z'
+collected_at: '2026-07-09T09:47:52.534670+05:30'
+published_at: '2026-07-09T03:05:14Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-- scripts
 - workflows
-stars: 7511
+stars: 7543
 language: Python
 status: active
 license: MIT
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-08-06T19:52:50Z'
 pushed_at: '2026-06-05T07:23:49Z'
 resource_id: github:jamwithai/production-agentic-rag-course
-first_seen: '2026-07-09T01:29:26.674599+05:30'
-last_seen: '2026-07-09T01:29:26.674599+05:30'
-last_checked: '2026-07-09T01:29:26.674599+05:30'
+first_seen: '2026-07-09T09:47:52.534670+05:30'
+last_seen: '2026-07-09T09:47:52.534670+05:30'
+last_checked: '2026-07-09T09:47:52.534670+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Course Focus**: GitHub repository for a production-grade **Agentic RAG (Retrieval-Augmented Generation)** system implemented in Python, likely covering advanced LLM integration, workflow automation, and scalable RAG pipelines.
-- **Repository Metrics**: 7,511 stars, 1,678 forks, last updated July 8, 2026, indicating active community engagement and recent maintenance.
-- **Technical Scope**: Designed for production deployment, emphasizing **agentic architectures** (autonomous agents + RAG) for real-world applications, though specific implementation details are unspecified.
+- **Course Focus**: Production-grade implementation of Agentic Retrieval-Augmented Generation (RAG) systems in Python, emphasizing scalable, real-world deployment.
+- **Repository Metrics**: 7,543 stars, 1,683 forks, last updated July 9, 2026.
+- **Technical Stack**: Python-based framework for agentic AI workflows integrating retrieval, reasoning, and action execution.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: jamwithai
-- Stars: 7511
-- Forks: 1678
+- Stars: 7543
+- Forks: 1683
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-08T16:45:58Z
+- Last Updated: 2026-07-09T03:05:14Z
 - License: MIT
 - Archived: No
 - Created At: 2025-08-06T19:52:50Z

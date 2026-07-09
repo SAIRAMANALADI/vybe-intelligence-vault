@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-07-09T01:29:36.735853+05:30'
+collected_at: '2026-07-09T09:48:02.654507+05:30'
 published_at: '2026-07-06T10:13:21Z'
 tags:
 - agents
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-07-09T01:29:36.735853+05:30'
-last_seen: '2026-07-09T01:29:36.735853+05:30'
-last_checked: '2026-07-09T01:29:36.735853+05:30'
+first_seen: '2026-07-09T09:48:02.654507+05:30'
+last_seen: '2026-07-09T09:48:02.654507+05:30'
+last_checked: '2026-07-09T09:48:02.654507+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced context-aware decision-making.
+- **Vertically Unified Multi-Agent Architecture**: Implements a hierarchical agent system (planner, retriever, reasoner, executor) for complex reasoning tasks, integrating GraphRAG with LLM-based agents to decompose and solve multi-hop queries over structured knowledge graphs.
 
-- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Extends traditional RAG by integrating graph-based knowledge representations, enabling dynamic subgraph retrieval and iterative reasoning over structured data for improved factual grounding and interpretability.
+- **Graph-Centric Retrieval Augmentation**: Utilizes a graph-augmented retrieval mechanism where agents dynamically construct subgraphs from large-scale knowledge graphs (e.g., Wikidata, custom KGs) to ground reasoning, improving factual accuracy and reducing hallucination in LLM outputs.
 
-- **ICLR 2026 Submission**: Proposes a novel architecture combining graph neural networks (GNNs) with large language models (LLMs) to optimize multi-hop reasoning, with empirical validation on benchmark datasets demonstrating superior performance in complex QA and reasoning tasks.
+- **Optimized for ICLR 2026 Benchmarks**: Designed for high-performance complex reasoning tasks (e.g., multi-hop QA, logical inference) with modular components for scalability, supporting both open-domain and domain-specific knowledge graphs with Python-based implementations.
 
 ## Why It Matters
 

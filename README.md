@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-50%2C289-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-52%2C307-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--09-374151?style=flat-square)](#)
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 10,233</p>
-        <p><b>Active:</b> 9,992 | <b>Inactive:</b> 241</p>
+        <p><b>Resources tracked:</b> 10,630</p>
+        <p><b>Active:</b> 10,385 | <b>Inactive:</b> 245</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 40,056</p>
+        <p><b>Archive Files:</b> 41,677</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 50,289 files</p>
-        <p><b>Last Update:</b> 2026-07-09 05:37 IST</p>
+        <p><b>Total Vault Size:</b> 52,307 files</p>
+        <p><b>Last Update:</b> 2026-07-09 10:02 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,20 +210,28 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+6</kbd>
-- 🔼 **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[stanford-oval/storm](ai/rag/stanford-oval-storm.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Show HN: Microsoft releases Flint, a visualization language for AI agents](ai/community/show-hn-microsoft-releases-flint-a-visualization-l.md)** • <kbd>+141 pts</kbd> • Rank: <kbd>+3</kbd>
+- 🔼 **[The Exclusive Home of NFL Sunday Ticket - YouTube & YouTube TV](ai/rag/the-exclusive-home-of-nfl-sunday-ticket-youtube-yo.md)** • Rank: <kbd>+16</kbd>
+- 🔼 **[EverPass](ai/resources/everpass.md)** • Rank: <kbd>+2270</kbd>
+- 🔼 **[NFL Sunday Ticket pricing & billing - YouTube TV Help](ai/rag/nfl-sunday-ticket-pricing-billing-youtube-tv-help.md)** • Rank: <kbd>+40</kbd>
+- 🔼 **[JAMS: Mediation, Arbitration and ADR Services](ai/resources/jams-mediation-arbitration-and-adr-services.md)** • Rank: <kbd>+851</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Score: `0`
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[John Deere owners will get the right to repair equipment under FTC settlement](ai/community/john-deere-owners-will-get-the-right-to-repair-equ.md)** • Score: `465`
+- 🆕 **[I think I have LLM burnout](ai/community/i-think-i-have-llm-burnout.md)** • Score: `191`
+- 🆕 **[MIRA: Multiplayer Interactive World Models Trained on Rocket League](ai/community/mira-multiplayer-interactive-world-models-trained.md)** • Score: `41`
+- 🆕 **[Benchmarking coding agents on Databricks' multi-million line codebase](ai/community/benchmarking-coding-agents-on-databricks-multi-mil.md)** • Score: `21`
+- 🆕 **[CFO.com | News for CFOs](ai/rag/cfo-com-news-for-cfos.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](ai/community/gitlost-we-tricked-github-s-ai-agent-into-leaking.md)**
+- 💤 **[EVE Online's Carbon engine is now open source: Fenris Creations explains why](ai/community/eve-online-s-carbon-engine-is-now-open-source-fenr.md)**
+- 💤 **[Tenda firmware (multiple versions) contains hidden authentication backdoor](ai/community/tenda-firmware-multiple-versions-contains-hidden-a.md)**
+- 💤 **[Show HN: Follow London Trains in 3D](ai/community/show-hn-follow-london-trains-in-3d.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

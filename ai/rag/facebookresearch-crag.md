@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-07-09T01:29:06.816139+05:30'
+collected_at: '2026-07-09T09:47:32.574903+05:30'
 published_at: '2026-07-07T00:17:48Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-07-09T01:29:06.816139+05:30'
-last_seen: '2026-07-09T01:29:06.816139+05:30'
-last_checked: '2026-07-09T01:29:06.816139+05:30'
+first_seen: '2026-07-09T09:47:32.574903+05:30'
+last_seen: '2026-07-09T09:47:32.574903+05:30'
+last_checked: '2026-07-09T09:47:32.574903+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **CRAG**: A comprehensive benchmark framework for evaluating Retrieval-Augmented Generation (RAG) systems, designed to assess performance across diverse tasks and datasets.
-- **Implementation**: Provided as Jupyter Notebooks, enabling interactive experimentation and analysis of RAG pipelines with modular components for retrieval, generation, and evaluation.
-- **Metrics & Tasks**: Includes standardized metrics and task definitions (e.g., fact-checking, open-domain QA) to enable reproducible comparisons between RAG models and baselines.
+- **CRAG**: A comprehensive benchmark framework for Retrieval-Augmented Generation (RAG) systems, designed to evaluate performance across diverse tasks and datasets.
+- **Implementation**: Provided as Jupyter Notebooks, enabling interactive experimentation and analysis of RAG pipelines.
+- **Evaluation Scope**: Covers multiple dimensions of RAG performance, including retrieval accuracy, generation quality, and robustness to noise/distortions.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: facebookresearch
 - Stars: 295
-- Forks: 35
+- Forks: 36
 - Language: Jupyter Notebook
 - Topics: None
 - Last Updated: 2026-07-07T00:17:48Z

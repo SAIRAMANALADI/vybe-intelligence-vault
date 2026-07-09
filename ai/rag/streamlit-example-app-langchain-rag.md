@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-09T01:28:36.719554+05:30'
+collected_at: '2026-07-09T09:47:02.607046+05:30'
 published_at: '2026-07-08T12:21:46Z'
 tags:
+- frontend_ui
 - github-repo
 - python
 - rag
+- workflows
 stars: 156
 language: Python
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-09T01:28:36.719554+05:30'
-last_seen: '2026-07-09T01:28:36.719554+05:30'
-last_checked: '2026-07-09T01:28:36.719554+05:30'
+first_seen: '2026-07-09T09:47:02.607046+05:30'
+last_seen: '2026-07-09T09:47:02.607046+05:30'
+last_checked: '2026-07-09T09:47:02.607046+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vectorstore retrieval with hybrid search (likely BM25 + dense retrieval) for improved document retrieval accuracy.
-
-- **LangChain Integration**: Utilizes LangChain's framework for chaining LLM calls, document processing, and retrieval logic, with a Streamlit UI for interactive querying.
-
-- **Vectorstore Backend**: Uses a vector database (e.g., FAISS, Chroma, or Pinecone) for semantic search, paired with keyword-based retrieval for hybrid search optimization.
+- **Hybrid RAG Pipeline**: Implements a Streamlit app integrating LangChain with a vector store (e.g., FAISS/Chroma) for retrieval-augmented generation (RAG), combining dense embeddings and sparse retrieval (BM25) for hybrid search.
+- **Modular LangChain Components**: Utilizes LangChain’s `RetrievalQA` with customizable chains (e.g., `stuff`, `map_reduce`) and embeddings (e.g., `HuggingFaceEmbeddings`) for end-to-end QA workflows.
+- **Streamlit UI**: Provides a reactive web interface for querying, displaying retrieved context, and streaming LLM responses with real-time feedback.
 
 ## Why It Matters
 

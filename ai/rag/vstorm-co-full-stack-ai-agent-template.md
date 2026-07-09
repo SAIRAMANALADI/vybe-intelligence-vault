@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-07-09T01:28:16.652945+05:30'
+collected_at: '2026-07-09T09:46:42.487924+05:30'
 published_at: '2026-07-08T17:53:44Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 1509
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-07-06T08:54:01Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-07-09T01:28:16.652945+05:30'
-last_seen: '2026-07-09T01:28:16.652945+05:30'
-last_checked: '2026-07-09T01:28:16.652945+05:30'
+first_seen: '2026-07-09T09:46:42.487924+05:30'
+last_seen: '2026-07-09T09:46:42.487924+05:30'
+last_checked: '2026-07-09T09:46:42.487924+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Full-stack template combining FastAPI (Python) backend with Next.js (TypeScript/React) frontend, PostgreSQL for data persistence, and Docker for containerization.
+- **Tech Stack**: Full-stack AI application template combining FastAPI (Python) backend with Next.js (TypeScript/React) frontend, PostgreSQL database, and Docker containerization.
 
-- **AI Features**: Pre-integrated with AI agent frameworks (LangChain, LangGraph, CrewAI, Pydantic-AI), RAG pipelines, real-time streaming via WebSockets, and 20+ third-party integrations.
+- **AI Capabilities**: Pre-integrated with multiple agent frameworks (CrewAI, LangChain, LangGraph, Pydantic-AI) and features RAG, streaming, authentication, and 20+ third-party integrations.
 
-- **Auth & Tooling**: Built-in authentication, Pydantic models (Deep), and pre-configured tooling for rapid deployment of scalable AI applications.
+- **Architecture**: Modular design with Pydantic models, WebSocket support, and pre-configured AI agent workflows for rapid deployment of production-grade AI applications.
 
 ## Why It Matters
 

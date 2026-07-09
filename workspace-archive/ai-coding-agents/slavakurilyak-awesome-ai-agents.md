@@ -16,6 +16,7 @@ tags:
 - hackernews
 - paper
 - python
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Repository hosting 300+ high-quality resources on agentic AI, including frameworks, tools, research papers, and applications.
-- **Technical Scope**: Focuses on autonomous and semi-autonomous AI agents, covering architectures, orchestration, and multi-agent systems.
-- **Python-Centric**: Primarily Python-based resources, with emphasis on libraries like LangChain, AutoGen, and CrewAI for agent development.
+- **Curated Collection**: Repository hosting 300+ agentic AI resources, including frameworks, libraries, and research papers focused on autonomous AI agents.
+- **Technical Scope**: Primarily Python-based, covering agent architectures, multi-agent systems, and agentic workflows with emphasis on scalability and modularity.
+- **Community Metrics**: 1,615 stars and 431 forks (as of last update: 2026-07-08), indicating active community engagement and contribution.
 
 ## Use Cases
 

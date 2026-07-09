@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/hello-agents
-collected_at: '2026-07-09T01:28:06.711317+05:30'
-published_at: '2026-07-08T19:22:56Z'
+collected_at: '2026-07-09T09:46:32.552246+05:30'
+published_at: '2026-07-09T04:07:04Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-stars: 64898
+stars: 64963
 language: Python
 status: active
 license: NOASSERTION
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-09-07T09:50:24Z'
 pushed_at: '2026-07-06T05:06:10Z'
 resource_id: github:datawhalechina/hello-agents
-first_seen: '2026-07-09T01:28:06.711317+05:30'
-last_seen: '2026-07-09T01:28:06.711317+05:30'
-last_checked: '2026-07-09T01:28:06.711317+05:30'
+first_seen: '2026-07-09T09:46:32.552246+05:30'
+last_seen: '2026-07-09T09:46:32.552246+05:30'
+last_checked: '2026-07-09T09:46:32.552246+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Repository**: Provides a comprehensive tutorial on building intelligent agents from scratch, covering both theoretical principles and practical implementations in Python.
+- **Repository Overview**: A comprehensive Chinese tutorial repository (`datawhalechina/hello-agents`) for building AI agents from scratch, covering principles and practical implementations.
 
-- **Key Components**: Focuses on integrating large language models (LLMs), retrieval-augmented generation (RAG), and agent architectures for real-world applications.
+- **Technical Scope**: Focuses on agent architectures, large language models (LLMs), retrieval-augmented generation (RAG), and hands-on Python-based development.
 
-- **Updated Content**: Last modified on July 8, 2026, ensuring relevance with recent advancements in AI agent development.
+- **Metadata**: 64,963 stars, 8,053 forks, last updated July 9, 2026, with active community engagement in AI agent development.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 64898
-- Forks: 8045
+- Stars: 64963
+- Forks: 8053
 - Language: Python
 - Topics: agent, llm, rag, tutorial
-- Last Updated: 2026-07-08T19:22:56Z
+- Last Updated: 2026-07-09T04:07:04Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-07T09:50:24Z

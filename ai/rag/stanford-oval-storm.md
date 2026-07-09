@@ -6,15 +6,14 @@ source_name: GitHub Discovery
 source_url: https://github.com/stanford-oval/storm?source=post_page
 resource_id: github:stanford-oval/storm
 -----dba899ae0355---------------------------------------
-collected_at: '2026-07-09T01:32:11.935698+05:30'
-published_at: '2026-07-08T19:54:36Z'
+collected_at: '2026-07-09T09:50:37.788723+05:30'
+published_at: '2026-07-09T03:50:35Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
-stars: 29950
+stars: 29962
 language: Python
 status: active
 license: MIT
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-03-24T16:23:39Z'
 pushed_at: '2025-09-30T18:07:21Z'
 resource_id: github:stanford-oval/storm
-first_seen: '2026-07-09T01:32:11.935698+05:30'
-last_seen: '2026-07-09T01:32:11.935698+05:30'
-last_checked: '2026-07-09T01:32:11.935698+05:30'
+first_seen: '2026-07-09T09:50:37.788723+05:30'
+last_seen: '2026-07-09T09:50:37.788723+05:30'
+last_checked: '2026-07-09T09:50:37.788723+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **LLM-Powered Knowledge Curation**: `storm` autonomously researches topics using large language models (LLMs) to generate comprehensive, citation-backed reports via an agentic retrieval-augmented generation (RAG) pipeline.
+- **LLM-Powered Knowledge Curation**: Uses large language models (LLMs) to autonomously research topics, synthesize information, and generate comprehensive reports with inline citations from retrieved sources.
 
-- **Multi-Stage Research Pipeline**: Implements a structured workflow (e.g., question decomposition, iterative retrieval, and synthesis) optimized for deep research, as highlighted in EMNLP 2024/NAACL contributions.
+- **Multi-Agent Retrieval-Augmented Generation (RAG)**: Implements an agentic RAG framework (`storm`) where specialized agents iteratively retrieve, verify, and refine information to produce structured, citation-backed reports.
 
-- **Python-Based Framework**: Open-source toolkit (Python) integrating retrieval, citation grounding, and report generation, with 29.9K+ GitHub stars and active updates (last commit: 2026-07-08).
+- **EMNLP 2024 & NAACL Contributions**: Presented as a research system at EMNLP 2024 and NAACL, demonstrating advancements in deep research, knowledge curation, and automated report generation with a Python-based implementation.
 
 ## Why It Matters
 
@@ -45,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: stanford-oval
-- Stars: 29950
-- Forks: 2802
+- Stars: 29962
+- Forks: 2804
 - Language: Python
 - Topics: agentic-rag, deep-research, emnlp2024, knowledge-curation, large-language-models, naacl, nlp, report-generation, retrieval-augmented-generation
-- Last Updated: 2026-07-08T19:54:36Z
+- Last Updated: 2026-07-09T03:50:35Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-24T16:23:39Z

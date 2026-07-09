@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated AI Web Search Tools**: Repository listing software enabling AI-assisted web search, including metasearch, question-answering, and retrieval-augmented generation (RAG) systems.
-- **Technical Scope**: Covers generative AI projects, LLM inference, and information retrieval tools, with emphasis on enhancing search via AI-driven techniques.
-- **Metadata**: 1,373 stars, 113 forks; last updated 2026-07-08; primarily HTML-based, hosted on GitHub with Hugging Face integration.
+- **Curated list** of AI-powered web search tools leveraging LLMs, RAG, and metasearch techniques for enhanced information retrieval and question-answering.
+- **Includes** generative AI projects, inference-based search engines, and retrieval-augmented generation (RAG) implementations for web-scale data.
+- **Hosted on Hugging Face Spaces** (https://hf.co/spaces/felladrin/awesome-ai-web-search) with an active GitHub repository (1.3k+ stars, 114 forks) last updated July 2026.
 
 ## Use Cases
 

@@ -8,7 +8,7 @@ local_vault_path: ai/agents/kylestratis-ai-agents-mcp-examples.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: tool
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -16,7 +16,7 @@ tags:
 - python
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # kylestratis/ai_agents_mcp_examples
@@ -25,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `MCP Registry`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: tool
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`kylestratis/ai_agents_mcp_examples`) containing Python-based examples for AI agents using the Model Context Protocol (MCP).
-- **Metadata**: 55 stars, 24 forks, last updated on **2026-05-17T13:34:42Z**.
-- **Scope**: Focuses on practical implementations of MCP-compatible AI agents, though no additional topics or description are provided.
+- **Repository Overview**: GitHub repository containing Python examples for AI agents using the Model Context Protocol (MCP), last updated on May 17, 2026.
+- **Metrics**: 55 stars, 24 forks, with no additional topics or description provided.
+- **Focus**: Demonstrates practical implementations of AI agents interacting via MCP, though specific use cases or frameworks are not detailed.
 
 ## Use Cases
 

@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/knowledge-agent-template
-collected_at: '2026-07-08T16:53:16.532296+05:30'
-published_at: '2026-07-08T05:35:43Z'
+collected_at: '2026-07-09T09:49:32.730365+05:30'
+published_at: '2026-07-08T23:14:31Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-stars: 938
+stars: 940
 language: TypeScript
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-20T15:02:20Z'
 pushed_at: '2026-06-11T09:36:03Z'
 resource_id: github:vercel-labs/knowledge-agent-template
-first_seen: '2026-07-08T16:53:16.532296+05:30'
-last_seen: '2026-07-08T16:53:16.532296+05:30'
-last_checked: '2026-07-08T16:53:16.532296+05:30'
+first_seen: '2026-07-09T09:49:32.730365+05:30'
+last_seen: '2026-07-09T09:49:32.730365+05:30'
+last_checked: '2026-07-09T09:49:32.730365+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a TypeScript-based template for building AI agents that dynamically synchronize with a file-system knowledge base, enabling real-time updates and contextual responses.
-- **Architecture**: Implements a sandboxed environment using Nuxt/Vue for frontend integration, with file-system agents leveraging Vercel’s infrastructure for scalable knowledge retrieval.
-- **Key Features**: Supports structured knowledge ingestion, agent-based querying, and modular agent deployment for chatbot or AI assistant applications.
+- **File-System & Knowledge-Based Agent Template**: Provides a TypeScript-based open-source framework for building AI agents that dynamically integrate and stay updated with a user-defined knowledge base via a file-system interface.
+
+- **Tech Stack**: Built with Nuxt.js (Vue.js framework) and TypeScript, leveraging sandboxed execution for secure knowledge agent operations.
+
+- **Vercel Integration**: Designed for Vercel deployments, enabling scalable, serverless execution of agents with real-time knowledge base synchronization (last updated July 2026).
 
 ## Why It Matters
 
@@ -40,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 938
+- Stars: 940
 - Forks: 124
 - Language: TypeScript
 - Topics: agents, ai-agent, chatbot, file-system, knowledge-base, nuxt, sandbox, typescript, vue
-- Last Updated: 2026-07-08T05:35:43Z
+- Last Updated: 2026-07-08T23:14:31Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-20T15:02:20Z

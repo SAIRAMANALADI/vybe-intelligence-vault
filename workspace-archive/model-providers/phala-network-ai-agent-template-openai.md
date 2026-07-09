@@ -17,6 +17,7 @@ tags:
 - openai
 - rag
 - typescript
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a TypeScript-based template for deploying AI agents on the Phala Network using OpenAI's API, enabling serverless, confidential smart contracts.
-- **Key Components**: Includes OpenAPI integration for LLM interactions, Phala's TEE (Trusted Execution Environment) for secure off-chain computation, and a pre-configured deployment pipeline.
-- **Technical Stack**: Built with TypeScript, leveraging Phala's `phala-blockchain` SDK and OpenAI's function calling for agent orchestrati
+- **Template Purpose**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, enabling decentralized AI agent execution.
+
+- **Key Components**: Includes pre-configured OpenAPI client integration, Phala Network contract scaffolding, and example agent workflows for rapid deployment.
+
+- **Technical Stack**: Leverages TypeScript for contract logic, OpenAI's API for AI agent functionality, and Phala's confidential computing infrastructure for secure
 
 ## Use Cases
 

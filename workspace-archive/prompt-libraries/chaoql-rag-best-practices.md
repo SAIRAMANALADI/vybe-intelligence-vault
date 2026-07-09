@@ -8,19 +8,16 @@ local_vault_path: ai/rag/chaoql-rag-best-practices.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
-- benchmark
 - github-repo
 - hackernews
-- models
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # chaoql/rag-best-practices
@@ -29,18 +26,18 @@ selection_reason:
 
 - Matched archive category: `Prompt Libraries`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements advanced retrieval-augmented generation (RAG) techniques for large language models (LLMs), focusing on retrieval quality, prompt engineering, and generation fine-tuning.
+- **Repository Overview**: Python-based repository (`chaoql/rag-best-practices`) focused on best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), last updated July 5, 2026.
 
-- **Modular Python Implementation**: Provides a structured, extensible codebase in Python for integrating RAG pipelines, including document preprocessing, vector storage, and query-response workflows.
+- **Key Focus**: Implements and documents advanced RAG techniques, including retrieval optimization, context integration, and prompt engineering for LLMs.
 
-- **Best Practices Documentation**: Includes benchmarking methodologies and perfor
+- **Metrics**: 95 stars, 10 forks, indicating a niche but active community interest in RAG methodologies.
 
 ## Use Cases
 

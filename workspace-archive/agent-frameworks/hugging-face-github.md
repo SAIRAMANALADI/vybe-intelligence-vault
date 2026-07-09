@@ -15,6 +15,7 @@ tags:
 - dataset
 - models
 - producthunt
+- reddit
 - web-crawled
 - youtube
 selection_reason:
@@ -33,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Hugging Face** is an AI organization providing a hub (`huggingface.co`) for open-source ML models, datasets, and tools, with verified control over the domain.
+- **Core Libraries**: Hugging Face maintains key open-source libraries including `transformers` (SOTA ML frameworks for text/vision/audio/multimodal models), `diffusers` (diffusion models for generative tasks), `datasets` (large-scale AI-ready datasets), and `peft` (parameter-efficient fine-tuning).
 
-- **Core libraries**: `transformers` (SOTA ML frameworks for text/vision/audio), `diffusers` (diffusion models for generative tasks), `datasets` (large-scale dataset hub), and `peft` (parameter-efficient fine-tuning).
-
-- **Additional tools**: `accelerate` (PyTorch training/inference acceleration), `optimum` (hardware optimization), an
+- **Optimization & Deployment**: Tools like `accelerate` (PyTorch acceleration across devices/distributed setups) and `optimum` (hardware-optimized inference/training for Transformers/Diffusers) ena
 
 ## Use Cases
 

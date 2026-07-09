@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- openai
 - python
 - rag
 selection_reason:
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent LLM Framework**: Implements a financial trading system using multiple LLM-based agents for strategy execution, risk management, and market analysis.
-- **Python-Based Architecture**: Leverages Python for modular agent interactions, enabling customizable trading pipelines with extensible agent roles.
-- **Open-Source Repository**: Hosted on GitHub with 91.8K+ stars, 17.7K+ forks, and active updates (last commit: 2026-07-08), focusing on finance, multi-agent systems, and LLM integrat
+- **Framework Overview**: Open-source Python-based `TradingAgents` leverages multi-agent LLM systems for autonomous financial trading, integrating specialized agents (e.g., analysts, traders, risk managers) for end-to-end decision-making.
+- **Architecture**: Modular design with configurable agent roles, LLM backends (e.g., OpenAI, local models), and pluggable trading environments (e.g., Binance, Interactive Brokers) for backtesting/real-time execution.
+- **Key Features**: Supports multi-modal da
 
 ## Use Cases
 
