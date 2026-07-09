@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/topoteretes/awesome-ai-memory
-collected_at: '2026-07-09T09:47:27.578301+05:30'
-published_at: '2026-07-08T10:14:09Z'
+collected_at: '2026-07-09T21:07:24.149021+05:30'
+published_at: '2026-07-09T08:20:59Z'
 tags:
 - agents
 - github-repo
 - hackernews
-- meta-ai
-- models
 - python
 - rag
 stars: 809
@@ -22,9 +20,9 @@ archived: false
 created_at: '2024-11-23T12:40:05Z'
 pushed_at: '2026-06-18T15:07:20Z'
 resource_id: github:topoteretes/awesome-ai-memory
-first_seen: '2026-07-09T09:47:27.578301+05:30'
-last_seen: '2026-07-09T09:47:27.578301+05:30'
-last_checked: '2026-07-09T09:47:27.578301+05:30'
+first_seen: '2026-07-09T21:07:24.149021+05:30'
+last_seen: '2026-07-09T21:07:24.149021+05:30'
+last_checked: '2026-07-09T21:07:24.149021+05:30'
 health_score: 100
 ---
 
@@ -32,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated list of AI memory projects**: Repository aggregates open-source and research initiatives focused on AI memory systems, including long-term memory, context retention, and memory-augmented architectures.
-- **Python-centric ecosystem**: Majority of listed projects are implemented in Python, leveraging frameworks like LangChain, LlamaIndex, or custom memory modules for AI agents.
-- **Covers RAG and memory management**: Includes tools for Retrieval-Augmented Generation (RAG), vector databases (e.g., Chroma, Weaviate), and memory serialization/optimization techniques.
+- **Curated AI Memory Projects**: Repository listing open-source and research projects focused on AI memory systems, including long-term memory, context retention, and memory-augmented architectures.
+- **Technical Stack**: Primarily Python-based, with integration of AI/ML frameworks (e.g., PyTorch, LangChain) and RAG (Retrieval-Augmented Generation) techniques for memory management.
+- **Active Maintenance**: Last updated July 2026, indicating ongoing curation with 809 stars and 93 forks, reflecting community engagement in AI memory engineering.
 
 ## Why It Matters
 
@@ -44,10 +42,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: topoteretes
 - Stars: 809
-- Forks: 92
+- Forks: 93
 - Language: Python
 - Topics: ai, ai-agents, ai-engineering, ai-memory, ai-ml, memory-management, rag
-- Last Updated: 2026-07-08T10:14:09Z
+- Last Updated: 2026-07-09T08:20:59Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-11-23T12:40:05Z

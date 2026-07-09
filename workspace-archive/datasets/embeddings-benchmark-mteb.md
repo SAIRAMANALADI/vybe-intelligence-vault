@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across 58 datasets spanning 11 tasks (e.g., retrieval, clustering, STS) in 12+ languages, supporting both monolingual and multilingual settings.
-- **Modality Support**: Extends evaluation to multimodal embeddings (text + image) via specialized tasks like image-text retrieval and cross-modal similarity.
-- **Standardized Framework**: Provides a unified Python API for consistent benchmarking of models (e.g., Sentence-BERT, SBERT) w
+- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across 58 datasets spanning 11 tasks (e.g., retrieval, clustering, STS) in 12+ languages, including low-resource languages, using standardized metrics (e.g., nDCG@10, Spearman correlation).
+
+- **Multimodal & Multilingual Support**: Supports evaluation for both text-only and multimodal embeddings (e.g., image-text pairs) with unified interfaces, enabling cross-modal and cross-lingual comparison of models like Sentence-BERT and CL
 
 ## Use Cases
 

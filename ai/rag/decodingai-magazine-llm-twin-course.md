@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-07-09T09:47:17.548017+05:30'
+collected_at: '2026-07-09T21:07:14.159360+05:30'
 published_at: '2026-07-07T22:04:22Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
-- scripts
 stars: 4367
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-07-09T09:47:17.548017+05:30'
-last_seen: '2026-07-09T09:47:17.548017+05:30'
-last_checked: '2026-07-09T09:47:17.548017+05:30'
+first_seen: '2026-07-09T21:07:14.159360+05:30'
+last_seen: '2026-07-09T21:07:14.159360+05:30'
+last_checked: '2026-07-09T21:07:14.159360+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **End-to-end LLM/RAG system**: Course provides hands-on guidance to build production-ready LLM and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including source code and 12 structured lessons.
+- **End-to-end LLM/RAG system**: Provides a production-ready framework for building and deploying large language models (LLMs) and retrieval-augmented generation (RAG) systems using LLMOps best practices.
 
-- **Tech stack integration**: Covers AWS, Pulumi (infrastructure-as-code), Bytewax, Qdrant (vector DB), Qwak (MLOps), Comet.ml (experiment tracking), and Docker for containerization.
+- **Hands-on course structure**: Includes 12 hands-on lessons and source code, covering infrastructure-as-code (Pulumi), MLOps (Qwak, Comet ML), vector databases (Qdrant), and streaming (Bytewax) with AWS integration.
 
-- **ML system design focus**: Emphasizes ML system design, MLOps, and generative AI deployment with topics like scaling, monitoring, and infrastructure automation.
+- **Technical stack**: Implements Docker for containerization, Superlinked for vector embeddings, and infrastructure-as-code (IaC) for scalable, reproducible deployments.
 
 ## Why It Matters
 

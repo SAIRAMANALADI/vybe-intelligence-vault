@@ -8,11 +8,12 @@ local_vault_path: ai/rag/neuml-txtai.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: framework
+resource_kind: template
 importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -27,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: framework
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, supporting agents, RAG, and vector search.
+- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, leveraging embeddings, transformers, and vector databases for end-to-end AI pipelines.
 
-- **Modular Components**: Leverages embeddings, transformers, and vector databases for scalable information retrieval and NLP tasks, including sentence embeddings and large language models.
+- **Key Features**: Supports agents, RAG (Retrieval-Augmented Generation), sentence embeddings, and vector search, enabling scalable information retrieval and generative AI workflows with minimal boilerplate.
 
-- **Extensible Architecture**: Designed for customization with support for Python-based workflows, enabling integration with a
+- **Technical Stack**: Built on Python with dependencies on mod
 
 ## Use Cases
 

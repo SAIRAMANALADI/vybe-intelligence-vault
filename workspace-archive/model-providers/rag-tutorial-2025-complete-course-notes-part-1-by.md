@@ -8,7 +8,7 @@ local_vault_path: ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md
 quality_score: 70
 archive_score: 76
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -32,16 +32,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 76 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Architecture**: Combines LLMs with external retrieval systems to fetch relevant information from documents/databases, mitigating context window limitations (e.g., GPT-4.1: 1M tokens, enterprise data often exceeds 10¹⁵ tokens).
+- **RAG Architecture**: RAG combines LLMs with retrieval systems to fetch relevant external information (documents, databases) dynamically, avoiding context window overload by injecting only pertinent chunks into the LLM prompt.
 
-- **Embedding Pipeline**: Documents are chunked (e.g., 1,000 tokens/segment), converted to high-dimensional vectors (e.g., OpenAI’s 3,072-dim embeddings) via embedding models, and stored in vector databases (e.g., Pinecone, FAISS) for semantic similarity matching.
+- **Embedding Pipeline**: Raw text is chunked (e.g., 1,000 tokens per chunk), converted into high-dimensional vector embeddings (e.g., 3,072D for OpenAI’s `text-embedding-3-large`), and stored in vector databases (e.g., Pinecone, Weaviate) for semantic similarity matchi
 
 ## Use Cases
 

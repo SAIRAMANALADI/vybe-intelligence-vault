@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-09T09:47:37.565462+05:30'
+collected_at: '2026-07-09T21:07:34.145654+05:30'
 published_at: '2026-07-08T12:24:24Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-09T09:47:37.565462+05:30'
-last_seen: '2026-07-09T09:47:37.565462+05:30'
-last_checked: '2026-07-09T09:47:37.565462+05:30'
+first_seen: '2026-07-09T21:07:34.145654+05:30'
+last_seen: '2026-07-09T21:07:34.145654+05:30'
+last_checked: '2026-07-09T21:07:34.145654+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: Introduces CRUD-RAG, a comprehensive Chinese benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems for Large Language Models (LLMs), covering diverse retrieval and generation tasks.
+- **Benchmark Suite**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems across **Create**, **Retrieve**, **Update**, and **Delete** operations for Large Language Models (LLMs).
 
-- **Evaluation Framework**: Provides structured metrics and datasets to assess RAG performance in Chinese, including retrieval accuracy, generation quality, and end-to-end system efficiency.
+- **Evaluation Framework**: Provides a structured methodology to assess RAG performance in Chinese, covering tasks like document retrieval, context integration, and dynamic knowledge updates with standardized metrics.
 
-- **Open-Source Toolkit**: Released as a Python-based repository with tools for benchmarking, including preprocessed datasets, evaluation scripts, and baseline model implementations.
+- **Open-Source Toolkit**: Released as a Python-based repository with 398 stars, offering tools for benchmarking, dataset curation, and evaluation pipelines for RAG systems in Chinese NLP contexts.
 
 ## Why It Matters
 

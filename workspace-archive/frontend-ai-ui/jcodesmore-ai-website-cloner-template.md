@@ -17,6 +17,7 @@ tags:
 - github-repo
 - scripts
 - typescript
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Automated Website Cloning**: Uses AI coding agents (e.g., Claude Code) to clone any website with a single command, automating reverse-engineering and reconstruction of frontend assets (React/Next.js).
-
-- **Tech Stack**: Built with TypeScript, Next.js, React, TailwindCSS, and shadcn-ui; integrates web-scraping and AI agent orchestration for dynamic content replication.
-
-- **Template Features**: Provides a boilerplate for AI-driven automation, supports developer tools integration, and includes
+- **AI-Powered Website Cloning**: Uses AI coding agents (e.g., Claude Code) to automate full website cloning via a single command, handling reverse-engineering, scraping, and code generation.
+- **Tech Stack**: Built with **Next.js**, **React**, **TypeScript**, **TailwindCSS**, and **shadcn/ui** for UI components, enabling modern, scalable web app replication.
+- **Automation & Extensibility**: Supports **web scraping**, **AI agent orchestration**, and modular **skills/templates** for custom workf
 
 ## Use Cases
 

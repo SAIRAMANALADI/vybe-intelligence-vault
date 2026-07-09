@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Kernel Development Workflow**: The Linux Kernel documentation provides structured guides on the development process, patch submission, maintainer handbooks, and community interaction via the `linux-doc` mailing list (`vger.kernel.org`).
+- **Kernel Development Process**: The Linux Kernel documentation outlines the structured workflow for kernel development, including patch submission guidelines, community interaction protocols, and maintainer handbooks to ensure code integration into the mainline kernel.
 
-- **API & Subsystem Documentation**: Includes core API references, driver APIs, subsystem-specific documentation, and locking mechanisms for kernel developers interfacing with internal kernel components.
+- **Core & Driver APIs**: Provides detailed references for kernel internal APIs, covering core subsystems, driver interfaces, locking mechanisms, and subsystem-specific documentation for low-level system programming.
 
-- **Architecture & Tooling Support**: Covers CPU arch
+- **Archi
 
 ## Use Cases
 

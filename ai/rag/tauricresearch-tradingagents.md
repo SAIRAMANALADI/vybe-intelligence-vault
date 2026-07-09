@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TauricResearch/TradingAgents
-collected_at: '2026-07-09T09:50:07.742591+05:30'
-published_at: '2026-07-09T04:17:54Z'
+collected_at: '2026-07-09T21:10:04.316130+05:30'
+published_at: '2026-07-09T15:36:13Z'
 tags:
 - agents
 - github-repo
-- openai
 - python
 - rag
-stars: 91917
+stars: 92018
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-12-28T03:31:08Z'
 pushed_at: '2026-07-05T14:32:24Z'
 resource_id: github:tauricresearch/tradingagents
-first_seen: '2026-07-09T09:50:07.742591+05:30'
-last_seen: '2026-07-09T09:50:07.742591+05:30'
-last_checked: '2026-07-09T09:50:07.742591+05:30'
+first_seen: '2026-07-09T21:10:04.316130+05:30'
+last_seen: '2026-07-09T21:10:04.316130+05:30'
+last_checked: '2026-07-09T21:10:04.316130+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: Open-source Python-based `TradingAgents` leverages multi-agent LLM systems for autonomous financial trading, integrating specialized agents (e.g., analysts, traders, risk managers) for end-to-end decision-making.
-- **Architecture**: Modular design with configurable agent roles, LLM backends (e.g., OpenAI, local models), and pluggable trading environments (e.g., Binance, Interactive Brokers) for backtesting/real-time execution.
-- **Key Features**: Supports multi-modal data (news, market data), adaptive strategy optimization via reinforcement learning, and risk-aware position sizing with real-time performance analytics dashboard.
+- **Framework**: Open-source Python-based multi-agent LLM system (`TauricResearch/TradingAgents`) for autonomous financial trading, leveraging large language models (LLMs) and agent-based architectures.
+
+- **Architecture**: Implements a distributed multi-agent system where specialized agents (e.g., market analysts, risk managers, execution brokers) collaborate via structured communication protocols for trading decision-making.
+
+- **Capabilities**: Supports real-time market data integration, adaptive strategy execution, and backtesting with modular design; optimized for scalability, interpretability, and integration with financial APIs (e.g., Binance, Interactive Brokers).
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TauricResearch
-- Stars: 91917
-- Forks: 17750
+- Stars: 92018
+- Forks: 17777
 - Language: Python
 - Topics: agent, finance, llm, multiagent, trading
-- Last Updated: 2026-07-09T04:17:54Z
+- Last Updated: 2026-07-09T15:36:13Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-12-28T03:31:08Z

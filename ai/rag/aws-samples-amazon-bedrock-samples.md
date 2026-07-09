@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-07-09T09:47:07.633720+05:30'
+collected_at: '2026-07-09T21:07:04.212761+05:30'
 published_at: '2026-07-09T00:16:46Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-06-30T09:33:23Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-07-09T09:47:07.633720+05:30'
-last_seen: '2026-07-09T09:47:07.633720+05:30'
-last_checked: '2026-07-09T09:47:07.633720+05:30'
+first_seen: '2026-07-09T21:07:04.212761+05:30'
+last_seen: '2026-07-09T21:07:04.212761+05:30'
+last_checked: '2026-07-09T21:07:04.212761+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples demonstrating usage of all available foundational models (e.g., Amazon Titan) in Amazon Bedrock for generative AI applications.
+- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples covering all available foundational models in Amazon Bedrock, including Amazon Titan, for customer onboarding and experimentation.
 
-- **Multi-Feature Implementation**: Includes samples for key Bedrock features such as embeddings generation, knowledge bases, and Retrieval-Augmented Generation (RAG) pipelines using LangChain integration.
+- **Multi-Use Case Demonstrations**: Includes implementations for embeddings, generative AI, knowledge bases, and Retrieval-Augmented Generation (RAG) using LangChain, showcasing practical applications of Bedrock's capabilities.
 
-- **AWS Service Integration**: Focuses on practical implementations leveraging AWS services (e.g., Bedrock, Titan) with structured examples for rapid prototyping and deployment of generative AI solutions.
+- **AWS Integration Focus**: Examples emphasize integration with AWS services, enabling users to build scalable, production-ready generative AI solutions leveraging Bedrock's managed infrastructure.
 
 ## Why It Matters
 

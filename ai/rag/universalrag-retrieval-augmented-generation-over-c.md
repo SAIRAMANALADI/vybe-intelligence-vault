@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://universalrag.github.io/
-published_at: '2026-07-09T09:46:22.977775+05:30'
-collected_at: '2026-07-09T09:46:22.977786+05:30'
+published_at: '2026-07-09T21:06:19.653728+05:30'
+collected_at: '2026-07-09T21:06:19.653738+05:30'
 tags:
 - benchmark
 - rag
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:universalrag-retrieval-augmented-generation-over-c
-first_seen: '2026-07-09T09:46:22.977786+05:30'
-last_seen: '2026-07-09T09:46:22.977786+05:30'
-last_checked: '2026-07-09T09:46:22.977786+05:30'
+first_seen: '2026-07-09T21:06:19.653738+05:30'
+last_seen: '2026-07-09T21:06:19.653738+05:30'
+last_checked: '2026-07-09T21:06:19.653738+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **UniversalRAG** introduces an any-to-any retrieval-augmented generation (RAG) framework that integrates knowledge from heterogeneous sources with diverse modalities (e.g., text, images, videos) and granularities, addressing limitations of single-modality RAG systems.
+- **UniversalRAG** introduces an any-to-any retrieval-augmented generation (RAG) framework that integrates heterogeneous knowledge sources across diverse modalities (e.g., text, images, videos) and granularities, addressing limitations of single-modality or unified-corpus approaches.
 
-- **Modality-aware routing** dynamically selects the most relevant modality-specific corpus for retrieval, mitigating the *modality gap* issue where retrieval favors items from the same modality as the query, supported by theoretical analysis.
+- **Modality-aware routing** dynamically selects the most relevant modality-specific corpus for retrieval, mitigating the *modality gap* issue where queries bias retrieval toward the same modality, supported by theoretical analysis.
 
-- Evaluated on 10 benchmarks across multiple modalities, UniversalRAG outperforms both modality-specific and unified baselines, demonstrating its effectiveness in fine-tuned retrieval tailored to query complexity and scope.
+- Evaluated on 10 multi-modal benchmarks, UniversalRAG outperforms both modality-specific and unified baselines by enabling fine-grained retrieval across granularity levels tailored to query complexity.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T09:46:22.977775+05:30
+- Published: 2026-07-09T21:06:19.653728+05:30
 
 ## Related Tags
 

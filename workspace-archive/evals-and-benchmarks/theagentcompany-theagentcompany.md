@@ -16,6 +16,7 @@ tags:
 - github-repo
 - hackernews
 - python
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Simulated software company environment for benchmarking AI agents on complex, multi-step tasks.
-- **Technical Stack**: Python-based framework with LLM integration for agent evaluation.
-- **Metrics**: Performance tracking across software development workflows (e.g., coding, debugging, collaboration).
+- **Purpose**: Simulated software company environment for benchmarking AI agents on realistic software development tasks.
+- **Technical Stack**: Python-based framework with LLM integration for evaluating agent performance in software engineering workflows.
+- **Metrics**: Focuses on agent capabilities in task automation, collaboration, and problem-solving within a controlled software company simulation.
 
 ## Use Cases
 

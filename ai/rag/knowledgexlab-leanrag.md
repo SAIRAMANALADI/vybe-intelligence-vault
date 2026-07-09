@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-07-09T09:48:02.636669+05:30'
+collected_at: '2026-07-09T21:07:59.164058+05:30'
 published_at: '2026-07-07T06:11:04Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-07-09T09:48:02.636669+05:30'
-last_seen: '2026-07-09T09:48:02.636669+05:30'
-last_checked: '2026-07-09T09:48:02.636669+05:30'
+first_seen: '2026-07-09T21:07:59.164058+05:30'
+last_seen: '2026-07-09T21:07:59.164058+05:30'
+last_checked: '2026-07-09T21:07:59.164058+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-layered retrieval (semantic → structural) for efficient, context-aware generation (AAAI 2026).
-- **Optimized Architecture**: Python-based system leveraging graph neural networks (GNNs) for dynamic knowledge fusion and adaptive query routing in low-latency settings.
-- **Scalable KG Integration**: Supports dynamic updates to knowledge graphs with hierarchical pruning to maintain retrieval precision and computational efficiency.
+- **Semantic Aggregation Mechanism**: Implements a knowledge-graph-based approach to aggregate and contextualize retrieved information using semantic relationships, enhancing the relevance of generated outputs.
+
+- **Hierarchical Retrieval Strategy**: Utilizes a multi-layered retrieval system to progressively refine and filter knowledge, optimizing both precision and computational efficiency in RAG pipelines.
+
+- **AAAI 2026 Framework**: Designed as a lightweight, Python-based framework for knowledge-graph-enhanced RAG, emphasizing modularity and scalability for downstream NLP tasks.
 
 ## Why It Matters
 

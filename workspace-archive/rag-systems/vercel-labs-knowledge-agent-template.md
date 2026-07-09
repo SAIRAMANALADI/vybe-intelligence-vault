@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **File-System & Knowledge-Based Agent Template**: Provides a TypeScript-based open-source framework for building AI agents that dynamically integrate and stay updated with a user-defined knowledge base via a file-system interface.
-
-- **Tech Stack**: Built with Nuxt.js (Vue.js framework) and TypeScript, leveraging sandboxed execution for secure knowledge agent operations.
-
-- **Vercel Integration**: Designed for Vercel deployments, enabling scalable, serverless execution of agents with real-time
+- **Template Overview**: Open-source starter kit for building AI agents with file-system and knowledge-base integration using TypeScript, Nuxt, and Vue.
+- **Key Features**: Supports real-time knowledge updates, sandboxed execution, and chatbot functionality for dynamic agent interactions.
+- **Tech Stack**: Leverages Vercel’s ecosystem with TypeScript, Nuxt.js, and Vue.js for scalable agent development.
 
 ## Use Cases
 

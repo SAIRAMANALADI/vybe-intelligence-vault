@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/odsc2015/agentic-hackathon-template
-collected_at: '2026-07-09T09:50:02.716921+05:30'
+collected_at: '2026-07-09T21:09:59.294227+05:30'
 published_at: '2026-05-10T13:08:24Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-07-24T08:33:29Z'
 pushed_at: '2025-07-25T16:42:10Z'
 resource_id: github:odsc2015/agentic-hackathon-template
-first_seen: '2026-07-09T09:50:02.716921+05:30'
-last_seen: '2026-07-09T09:50:02.716921+05:30'
-last_checked: '2026-07-09T09:50:02.716921+05:30'
+first_seen: '2026-07-09T21:09:59.294227+05:30'
+last_seen: '2026-07-09T21:09:59.294227+05:30'
+last_checked: '2026-07-09T21:09:59.294227+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Standardized starter repository** for Agentic AI App Hackathon, featuring preconfigured folder structure, environment specifications (e.g., `environment.yml`/`requirements.txt`), and template documentation to ensure consistency across submissions.
+- **Standardized Structure**: Provides a pre-defined folder architecture for Agentic AI App Hackathon submissions, ensuring consistency and reproducibility.
 
-- **Reproducible setup** via environment spec files, enabling teams to quickly deploy identical dependency stacks (Python, libraries, and tools) for seamless judging and cross-platform compatibility.
+- **Environment Spec**: Includes a reproducible environment configuration (e.g., `environment.yml` or `requirements.txt`) to streamline dependency management and execution.
 
-- **Judging-optimized structure** with placeholders (e.g., `/src`, `/docs`, `/tests`) to guide teams in organizing code, experiments, and reports, reducing setup overhead during hackathon deadlines.
+- **Documentation Placeholders**: Offers template files (e.g., `README.md`, `SOLUTION.md`) for teams to document methodology, results, and judging criteria efficiently.
 
 ## Why It Matters
 

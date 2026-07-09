@@ -16,6 +16,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Tool Overview**: Python-based RAG/LLM Security Scanner designed to detect critical vulnerabilities in AI applications (e.g., chatbots, virtual assistants) via automated security testing.
-- **Key Features**: Supports OWASP Top 10 for LLM security, prompt injection detection, red-team testing, and vulnerability scanning for RAG systems.
-- **Technical Scope**: Integrates with OpenAI/ChatGPT ecosystems, performs security audits, and addresses AI-specific threats like data leakage and adversarial
+- **Purpose**: Automated security scanner for RAG/LLM-based applications (e.g., chatbots, virtual assistants) to detect critical vulnerabilities like prompt injection, OWASP Top 10 AI risks, and insecure data retrieval.
+- **Features**: Implements red-team techniques, automated testing, and security audits for AI systems, supporting Python-based workflows and OpenAI integrations.
+- **Scope**: Covers prompt-injection, knowledge retrieval flaws, and cybersecurity risks in AI deployments, with last
 
 ## Use Cases
 

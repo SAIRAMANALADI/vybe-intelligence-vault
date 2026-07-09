@@ -8,13 +8,12 @@ local_vault_path: ai/rag/tomasonjo-langchain-neo4j.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: workflow
+resource_kind: tool
 importance: medium
 tags:
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -26,7 +25,7 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: workflow
+- Resource kind: tool
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
@@ -34,8 +33,8 @@ selection_reason:
 ## Summary
 
 - **Repository**: `tomasonjo/langchain-neo4j` (Python) – A GitHub repository with 0 stars and 1 fork, last updated on 2024-12-09.
-- **Purpose**: Likely integrates LangChain with Neo4j for graph-based AI/ML workflows (e.g., knowledge graphs, RAG).
-- **Status**: Minimal activity (no topics, no description, low engagement).
+- **Purpose**: Likely integrates **LangChain** with **Neo4j** for graph-based LLM applications (e.g., knowledge graphs, RAG).
+- **Status**: Minimal activity (no topics, low engagement) as of the last commit.
 
 ## Use Cases
 

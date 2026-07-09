@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PacktPublishing/LLM-Engineers-Handbook
-collected_at: '2026-07-09T09:47:12.572586+05:30'
-published_at: '2026-07-09T04:10:07Z'
+collected_at: '2026-07-09T21:07:09.127936+05:30'
+published_at: '2026-07-09T14:58:34Z'
 tags:
 - benchmark
 - github-repo
@@ -13,8 +13,7 @@ tags:
 - models
 - python
 - rag
-- workflows
-stars: 5181
+stars: 5197
 language: Python
 status: active
 license: MIT
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-04-09T10:56:03Z'
 pushed_at: '2026-04-22T08:25:03Z'
 resource_id: github:packtpublishing/llm-engineers-handbook
-first_seen: '2026-07-09T09:47:12.572586+05:30'
-last_seen: '2026-07-09T09:47:12.572586+05:30'
-last_checked: '2026-07-09T09:47:12.572586+05:30'
+first_seen: '2026-07-09T21:07:09.127936+05:30'
+last_seen: '2026-07-09T21:07:09.127936+05:30'
+last_checked: '2026-07-09T21:07:09.127936+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive LLM Engineering Guide**: Covers fundamentals to deployment of advanced LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-grade systems.
+- **Comprehensive LLM Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-grade systems.
 
-- **Technical Stack & Tools**: Focuses on Python-based implementations, including fine-tuning LLMs, RAG pipelines, and evaluation frameworks, with AWS integration for ML system design and MLOps workflows.
+- **Technical Focus Areas**: Includes fine-tuning LLMs, evaluation methodologies, MLOps/ML system design, and Retrieval-Augmented Generation (RAG) implementation with Python.
 
-- **Operational Best Practices**: Emphasizes LLMOps, including model deployment, monitoring, and lifecycle management, with updates as of July 2026 to reflect the latest advancements in generative AI.
+- **AWS Integration & Tooling**: Demonstrates deployment strategies on AWS, leveraging cloud-native services for end-to-end LLM lifecycle management and operational efficiency.
 
 ## Why It Matters
 
@@ -45,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: PacktPublishing
-- Stars: 5181
+- Stars: 5197
 - Forks: 1242
 - Language: Python
 - Topics: aws, fine-tuning-llm, genai, llm, llm-evaluation, llmops, ml-system-design, mlops, rag
-- Last Updated: 2026-07-09T04:10:07Z
+- Last Updated: 2026-07-09T14:58:34Z
 - License: MIT
 - Archived: No
 - Created At: 2024-04-09T10:56:03Z

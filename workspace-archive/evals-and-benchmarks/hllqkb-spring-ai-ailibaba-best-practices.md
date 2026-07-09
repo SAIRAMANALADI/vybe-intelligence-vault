@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Implements RAG with Vector Databases**: Utilizes embedding models and vector databases (e.g., Chroma, Milvus) for efficient retrieval-augmented generation (RAG) in Java-based AI Q&A systems.
-
-- **Supports SSE, Agents, and Function Calls**: Enables Server-Sent Events (SSE) for real-time streaming, AI agent workflows, and function calling for dynamic tool integration.
-
-- **Multi-modal Capabilities**: Integrates image generation (e.g., via Stable Diffusion), image understanding (OCR, vision mod
+- Implements **Server-Sent Events (SSE)** for real-time AI response streaming in a Spring-based AI Q&A system.
+- Integrates **RAG (Retrieval-Augmented Generation)** with **vector databases**, **embeddings**, and **knowledge graphs** for enhanced contextual retrieval.
+- Supports **Agent workflows**, **Function Call**, **image generation/understanding**, and **historical message management** within a Java-based Spring AI architecture.
 
 ## Use Cases
 

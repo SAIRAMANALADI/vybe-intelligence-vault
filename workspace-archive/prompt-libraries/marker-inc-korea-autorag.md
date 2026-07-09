@@ -8,10 +8,11 @@ local_vault_path: ai/rag/marker-inc-korea-autorag.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: template
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
+- dataset
 - github-repo
 - hackernews
 - python
@@ -29,16 +30,18 @@ selection_reason:
 
 - Matched archive category: `Prompt Libraries`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: template
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **AutoML-Style Optimization**: Automates hyperparameter tuning, prompt engineering, and pipeline configuration for RAG systems using black-box optimization techniques (e.g., Bayesian optimization, genetic algorithms) to maximize performance metrics like answer relevance, faithfulness, and context precision.
+- **AutoML-driven RAG optimization**: AutoRAG automates hyperparameter tuning, prompt engineering, and retrieval strategies for RAG pipelines using AutoML techniques, reducing manual effort in optimizing performance.
 
-- **Comprehensive Evaluation Suite**: Implements standardized benchmarks (e.g., RAGTruth, KILT) and custom metrics (e.g., retrieval latency, generation quality) to assess RAG pipelines acr
+- **Comprehensive evaluation & benchmarking**: Framework includes built-in tools for assessing RAG systems across metrics like answer correctness, context relevance, and latency, with support for custom datasets and evaluation pipelines.
+
+- **Modular pipeline with document processi
 
 ## Use Cases
 

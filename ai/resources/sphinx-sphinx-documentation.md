@@ -3,17 +3,18 @@ title: Sphinx — Sphinx documentation
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: http://sphinx-doc.org/
-published_at: '2026-07-07T15:40:11.468177+05:30'
-collected_at: '2026-07-07T15:40:11.468186+05:30'
+source_url: https://www.sphinx-doc.org/
+published_at: '2026-07-09T21:10:35.159357+05:30'
+collected_at: '2026-07-09T21:10:35.159369+05:30'
 tags:
 - hackernews
+- scripts
 - web-crawled
 status: active
 resource_id: blog:sphinx-sphinx-documentation
-first_seen: '2026-07-07T15:40:11.468186+05:30'
-last_seen: '2026-07-07T15:40:11.468186+05:30'
-last_checked: '2026-07-07T15:40:11.468186+05:30'
+first_seen: '2026-07-09T21:10:35.159369+05:30'
+last_seen: '2026-07-09T21:10:35.159369+05:30'
+last_checked: '2026-07-09T21:10:35.159369+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Language Markup Support**: Sphinx supports authoring in both [reStructuredText](http://sphinx-doc.org/usage/restructuredtext/basics.html#rst-primer) and [MyST Markdown](http://sphinx-doc.org/usage/markdown.html#markdown), enabling structured technical documentation with tables, code blocks, and mathematical notations.
-
-- **Cross-Referencing & Extensibility**: Enables robust [cross-referencing](http://sphinx-doc.org/usage/referencing.html#xref) within and across projects (via [Intersphinx](http://sphinx-doc.org/usage/extensions/intersphinx.html#ext-intersphinx)), with extensive [extension mechanisms](http://sphinx-doc.org/development/index.html#extending-sphinx) for custom functionality (e.g., diagrams, code testing).
-
-- **Multi-Format Output & API Documentation**: Generates documentation in multiple formats (HTML, LaTeX/PDF, ePub, Texinfo) and supports automatic API documentation generation for Python, C++, and other languages via [autodoc](http://sphinx-doc.org/usage/extensions/autodoc.html#ext-autodoc).
+- **Documentation Generation**: Sphinx supports authoring in reStructuredText or MyST Markdown, enabling structured technical documentation with tables, code blocks, math notations, and cross-references across projects via Intersphinx.
+- **Multi-Format Output & Extensibility**: Generates documentation in HTML, LaTeX (PDF), ePub, Texinfo, etc., with extensive built-in and third-party theme support, and extensible via robust APIs for custom functionality (e.g., API docs, diagrams).
+- **Automation & Internationalization**: Automatically generates API documentation from docstrings (Python/C++), supports multilingual documentation (i18n), and integrates with tools like Docker, Conda, and PyPI for deployment and community-driven development.
 
 ## Why It Matters
 
@@ -35,13 +34,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-07T15:40:11.468177+05:30
+- Published: 2026-07-09T21:10:35.159357+05:30
 
 ## Related Tags
 
 - hackernews
+- scripts
 - web-crawled
 
 ## Source
 
-Original source: http://sphinx-doc.org/
+Original source: https://www.sphinx-doc.org/

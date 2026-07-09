@@ -15,7 +15,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, optimized for Python-based AI workflows.
-
-- **Key Features**: Provides a structured framework for integrating document retrieval, prompt engineering, and agent-based reasoning with minimal boilerplate.
-
-- **Update Status**: Last modified on **2026-07-06**, indicating active maintenance or recent development.
+- **Purpose**: Template repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain.
+- **Structure**: Provides a modular Python framework for integrating document retrieval, vector storage, and LLM-based reasoning pipelines.
+- **Updates**: Last modified on July 6, 2026, with 313 stars and 72 forks.
 
 ## Use Cases
 

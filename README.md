@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-52%2C307-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-52%2C374-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--09-374151?style=flat-square)](#)
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 10,630</p>
-        <p><b>Active:</b> 10,385 | <b>Inactive:</b> 245</p>
+        <p><b>Resources tracked:</b> 10,650</p>
+        <p><b>Active:</b> 10,399 | <b>Inactive:</b> 251</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 41,677</p>
+        <p><b>Archive Files:</b> 41,724</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 52,307 files</p>
-        <p><b>Last Update:</b> 2026-07-09 20:16 IST</p>
+        <p><b>Total Vault Size:</b> 52,374 files</p>
+        <p><b>Last Update:</b> 2026-07-09 21:23 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,29 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+6</kbd>
-- 🔼 **[Medium Rules | by Medium | Medium Policy](ai/rag/medium-rules-by-medium-medium-policy.md)** • Rank: <kbd>+4</kbd>
-- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+4</kbd>
-- 🔼 **[stanford-oval/storm](ai/rag/stanford-oval-storm.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[John Deere owners will get the right to repair equipment under FTC settlement](ai/community/john-deere-owners-will-get-the-right-to-repair-equ.md)** • <kbd>+738 pts</kbd>
+- 🔼 **[Hugging Face · GitHub](ai/agents/hugging-face-github.md)** • Rank: <kbd>+35</kbd>
+- 🔼 **[Gemma 3 · Hugging Face](ai/rag/huggingface-docs-transformers.md)** • Rank: <kbd>+2673</kbd>
+- 🔼 **[MedGemma: Our most capable open models for health AI development](ai/rag/medgemma-our-most-capable-open-models-for-health-a.md)** • Rank: <kbd>+4512</kbd>
+- 🔼 **[Gemma 4 with quantization-aware training](ai/rag/gemma-4-with-quantization-aware-training.md)** • Rank: <kbd>+4312</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Score: `0`
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Show HN: FableCut – A browser video editor AI agents can drive (zero deps)](ai/community/ronak-create-fablecut.md)** • Score: `59`
+- 🆕 **[Show HN: Arcaide – Explore code with multi-level call graphs](ai/community/show-hn-arcaide-explore-code-with-multi-level-call.md)** • Score: `16`
+- 🆕 **[microsoft/pyright](ai/resources/microsoft-pyright.md)** • Score: `0`
+- 🆕 **[Get started with Crashlytics for Android | Firebase Crashlytics](ai/resources/get-started-with-crashlytics-for-android-firebase.md)** • Score: `0`
+- 🆕 **[Safetensors · Hugging Face](ai/rag/huggingface-docs-safetensors.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Show HN: Microsoft releases Flint, a visualization language for AI agents](ai/community/show-hn-microsoft-releases-flint-a-visualization-l.md)**
+- 💤 **[I think I have LLM burnout](ai/community/i-think-i-have-llm-burnout.md)**
+- 💤 **[MIRA: Multiplayer Interactive World Models Trained on Rocket League](ai/community/mira-multiplayer-interactive-world-models-trained.md)**
+- 💤 **[Benchmarking coding agents on Databricks' multi-million line codebase](ai/community/benchmarking-coding-agents-on-databricks-multi-mil.md)**
+- 💤 **[Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 By Mistral](ai/companies/mistral/research-physics-ai-research-thats-shaping-the-ind.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

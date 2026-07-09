@@ -4,24 +4,22 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents
-collected_at: '2026-07-09T09:49:07.686349+05:30'
-published_at: '2026-07-07T18:28:22Z'
+collected_at: '2026-07-09T21:09:04.172576+05:30'
+published_at: '2026-07-09T12:29:11Z'
 tags:
 - agents
 - github-repo
-- hackernews
-- scripts
 - unknown
-stars: 567
+stars: 568
 language: Unknown
 status: active
 archived: false
 created_at: '2026-02-06T02:08:01Z'
 pushed_at: '2026-07-05T21:12:34Z'
 resource_id: github:evanthomasluke/awesome-ai-hacking-agents
-first_seen: '2026-07-09T09:49:07.686349+05:30'
-last_seen: '2026-07-09T09:49:07.686349+05:30'
-last_checked: '2026-07-09T09:49:07.686349+05:30'
+first_seen: '2026-07-09T21:09:04.172576+05:30'
+last_seen: '2026-07-09T21:09:04.172576+05:30'
+last_checked: '2026-07-09T21:09:04.172576+05:30'
 health_score: 100
 ---
 
@@ -29,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Curated list of AI-driven hacking agents, tools, and frameworks for offensive security research and penetration testing.
-- **Metadata**: 567 stars, 92 forks, last updated July 7, 2026; language and topics unspecified in metadata.
-- **Purpose**: Aggregates resources for AI-powered cybersecurity attack simulations, automation, and adversarial ML techniques.
+- **Repository Overview**: GitHub repository (`EvanThomasLuke/Awesome-AI-Hacking-Agents`) cataloging AI-driven hacking/penetration testing tools and agents, with 568 stars and 92 forks.
+- **Metadata**: Language unspecified; last updated on **2026-07-09T12:29:11Z**; no topics/tags assigned.
+- **Access**: Repository URL: [https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents](https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents).
 
 ## Why It Matters
 
@@ -40,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: EvanThomasLuke
-- Stars: 567
+- Stars: 568
 - Forks: 92
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-07T18:28:22Z
+- Last Updated: 2026-07-09T12:29:11Z
 - Archived: No
 - Created At: 2026-02-06T02:08:01Z
 - Pushed At: 2026-07-05T21:12:34Z

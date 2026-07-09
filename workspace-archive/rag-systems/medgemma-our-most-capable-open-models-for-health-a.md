@@ -2,7 +2,7 @@
 title: 'MedGemma: Our most capable open models for health AI development'
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://research.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development
+source_url: https://research.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development/
 resource_id: blog:medgemma-our-most-capable-open-models-for-health-a
 local_vault_path: ai/rag/medgemma-our-most-capable-open-models-for-health-a.md
 quality_score: 70
@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: dataset
 importance: medium
 tags:
-- agents
 - benchmark
 - dataset
 - deepmind
@@ -21,6 +20,7 @@ tags:
 - rag
 - web-crawled
 - workflows
+- youtube
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **MedGemma Models**: Introduces **MedGemma 4B Multimodal** (64.4% MedQA score, 81% radiologist-approved chest X-ray reports) and **MedGemma 27B Multimodal** (87.7% MedQA score, competitive with larger models) for medical text/image tasks, including longitudinal EHR interpretation, with adaptability to single-GPU/mobile deployment.
+- **MedGemma Models**: New multimodal variants (4B and 27B) and MedSigLIP (400M) released for health AI development, with MedGemma 27B Multimodal supporting complex EHR interpretation and MedSigLIP enabling lightweight image-text alignment for classification/retrieval tasks.
 
-- **MedSigLIP**: A 400M-parameter lightweight image encoder (SigLIP-based) fine-tuned on medical imaging (X-rays, histopathology, dermatology, fundus) for classific
+- **Performance Metrics**: MedGemma 4B achieves 64.4% on MedQA and 81% radiologist agreement in chest X-ray report accuracy; MedGemma 27B scores 87.7% on MedQA with ~10x lower inference cost than comparable models.
+
+- **Ope
 
 ## Use Cases
 
@@ -51,7 +53,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://research.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development
+Original source URL: https://research.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development/
 
 ## Local Vault File
 

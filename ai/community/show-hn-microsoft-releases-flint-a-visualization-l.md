@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-microsoft-releases-flint-a-visualization-l
 first_seen: '2026-07-09T01:27:09.925086+05:30'
 last_seen: '2026-07-09T09:45:06.601240+05:30'
 last_checked: '2026-07-09T09:45:06.601240+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Microsoft releases Flint, a visualization language for AI agents
 

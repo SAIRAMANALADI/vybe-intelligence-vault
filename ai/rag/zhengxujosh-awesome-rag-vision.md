@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-07-09T09:47:27.509758+05:30'
+collected_at: '2026-07-09T21:07:24.110739+05:30'
 published_at: '2026-07-08T12:34:37Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
-- paper
 - rag
 - unknown
 stars: 337
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-07-09T09:47:27.509758+05:30'
-last_seen: '2026-07-09T09:47:27.509758+05:30'
-last_checked: '2026-07-09T09:47:27.509758+05:30'
+first_seen: '2026-07-09T21:07:24.110739+05:30'
+last_seen: '2026-07-09T21:07:24.110739+05:30'
+last_checked: '2026-07-09T21:07:24.110739+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository aggregates advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, including methods integrating vision-language models (VLMs), multimodal retrieval, and cross-modal attention mechanisms.
-- **Technical Scope**: Encompasses state-of-the-art RAG frameworks for tasks like **image captioning, visual question answering (VQA), and zero-shot object detection**, with emphasis on leveraging external knowledge bases for improved contextual understanding.
-- **Resource Structure**: Organized into subcategories (e.g., **multimodal RAG, domain-specific CV applications, and evaluation benchmarks**), with links to papers, code implementations, and comparative analyses.
+- **Curated Resource**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including methods integrating vision-language models (VLMs) and multimodal RAG pipelines.
+
+- **Technical Scope**: Focuses on cutting-edge RAG architectures for CV tasks such as **image-text retrieval**, **visual question answering (VQA)**, **captioning**, and **multimodal reasoning**, with emphasis on reducing hallucinations and improving factual grounding in generative outputs.
+
+- **Repository Metrics**: 337 stars, 9 forks, last updated **July 8, 2026**; language unspecified but likely includes Python-based implementations (e.g., PyTorch, Transformers) given the domain.
 
 ## Why It Matters
 

@@ -8,7 +8,7 @@ local_vault_path: ai/agents/duanyytop-agents-radar.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: product
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -27,15 +27,15 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: product
+- Resource kind: workflow
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Automated AI Ecosystem Aggregator**: Daily digest compiling AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, etc.) via GitHub Actions, supporting bilingual ZH/EN reports.
-- **Technical Stack**: Built in TypeScript, with 881 stars and 151 forks, last updated on 2026-07-09.
-- **Purpose**: Tracks AI advancements through structured, automated reporting without manual curation overhead.
+- **Automated AI Ecosystem Aggregator**: Daily digests compiled from 10 sources (e.g., GitHub, ArXiv, HN, HuggingFace) via GitHub Actions, supporting bilingual ZH/EN reports.
+- **Technical Stack**: Built in TypeScript, with scheduled updates (last push: 2026-07-09T14:35:10Z) and open-source contributions (883 stars, 151 forks).
+- **Multi-Source Data Pipeline**: Integrates GitHub, ArXiv, Hacker News, HuggingFace, Product Hunt, Dev.to, and Lobste.rs for real-time AI ecosystem monitoring.
 
 ## Use Cases
 

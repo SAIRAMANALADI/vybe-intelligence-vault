@@ -13,13 +13,14 @@ collected_at: '2026-07-09T09:45:08.452565+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:mira-multiplayer-interactive-world-models-trained
 first_seen: '2026-07-09T09:45:08.452565+05:30'
 last_seen: '2026-07-09T09:45:08.452565+05:30'
 last_checked: '2026-07-09T09:45:08.452565+05:30'
 health_score: 100
 ---
+
 
 # MIRA: Multiplayer Interactive World Models Trained on Rocket League
 

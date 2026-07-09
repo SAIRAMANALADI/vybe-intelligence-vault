@@ -18,13 +18,13 @@ Generative UI (like Vercel AI SDK) enables applications to dynamically render Re
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 8 resources matched in the intelligence vault.
+Active signals: 6 resources matched in the intelligence vault.
 Recently detected signals:
-- [vercel/ai](../ai/agents/vercel-ai.md) (Source: Unknown Source) - Collected 2026-07-09
-- [Cinnamon/kotaemon](../ai/rag/cinnamon-kotaemon.md) (Source: Unknown Source) - Collected 2026-07-09
-- [vercel-labs/ai-sdk-preview-rag](../ai/rag/vercel-labs-ai-sdk-preview-rag.md) (Source: Unknown Source) - Collected 2026-07-09
 - [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) (Source: Unknown Source) - Collected 2026-07-09
+- [vercel/ai](../ai/agents/vercel-ai.md) (Source: Unknown Source) - Collected 2026-07-09
 - [LangSmith Observability - Docs by LangChain](../ai/rag/langsmith-observability-docs-by-langchain.md) (Source: Unknown Source) - Collected 2026-07-08
+- [Langfuse](../ai/rag/langfuse.md) (Source: Unknown Source) - Collected 2026-07-07
+- [AI SDK Integration | OpenAI Agents SDK](../ai/agents/ai-sdk-integration-openai-agents-sdk.md) (Source: Unknown Source) - Collected 2026-06-22
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -33,24 +33,14 @@ Recently detected signals:
 ### 1. [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) ([GitHub](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial))
 - Stars: 0
 - Language: Unknown
-- Description: - **Intermediate LlamaIndex Events Streaming**: Demonstrates how to stream intermediate events from LlamaIndex during RAG (Retrieval-Augmented Generation) processes to the Vercel AI SDK using Serve...
+- Description: - **Intermediate LlamaIndex Events Streaming**: Demonstrates how to stream intermediate events from LlamaIndex during RAG (Retrieval-Augmented Generation) to the Vercel AI SDK using Server-Sent Eve...
 
-### 2. [vercel-labs/ai-sdk-preview-rag](../ai/rag/vercel-labs-ai-sdk-preview-rag.md) ([GitHub](https://github.com/vercel-labs/ai-sdk-preview-rag))
-- Stars: 0
-- Language: Unknown
-- Description: - **RAG Implementation**: Template demonstrating retrieval-augmented generation (RAG) using Vercel's AI SDK in a Next.js application.
-
-### 3. [Cinnamon/kotaemon](../ai/rag/cinnamon-kotaemon.md) ([GitHub](https://github.com/cinnamon/kotaemon))
-- Stars: 0
-- Language: Unknown
-- Description: - **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions, leveraging LLMs for contextual responses.
-
-### 4. [mkrl/e0](../ai/agents/mkrl-e0.md) ([GitHub](https://github.com/mkrl/e0))
+### 2. [mkrl/e0](../ai/agents/mkrl-e0.md) ([GitHub](https://github.com/mkrl/e0))
 - Stars: 0
 - Language: Unknown
 - Description: A simple Next.js app template for agentic generation of more apps. Powered by Vercel AI SDK and E2B.
 
-### 5. [vercel/ai](../ai/agents/vercel-ai.md) ([GitHub](https://github.com/vercel/ai))
+### 3. [vercel/ai](../ai/agents/vercel-ai.md) ([GitHub](https://github.com/vercel/ai))
 - Stars: 0
 - Language: Unknown
 - Description: - **AI SDK**: Open-source TypeScript library by Vercel for building AI-powered apps/agents, supporting LLMs (OpenAI, Anthropic, Gemini) and generative UI with React, Next.js, Svelte, and Vue.
@@ -75,4 +65,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-09T10:01:20.118030+05:30.682305+05:30.589701+05:30.761107+05:30.971744+05:30.401296+05:30.259812+05:30.664660+05:30.823287+05:30.855501+05:30.718697+05:30.650990+05:30.662181+05:30.412687+05:30.559839+05:30.229074+05:30.357938+05:30.727915+05:30.069958+05:30.066077+05:30.414434+05:30.363515+05:30.877755+05:30.810615+05:30.949333+05:30.426358+05:30.439688+05:30.506295+05:30.846557+05:30.365788+05:30.674019+05:30.493055+05:30.842993+05:30.484872+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-09T21:21:14.055026+05:30.118030+05:30.682305+05:30.589701+05:30.761107+05:30.971744+05:30.401296+05:30.259812+05:30.664660+05:30.823287+05:30.855501+05:30.718697+05:30.650990+05:30.662181+05:30.412687+05:30.559839+05:30.229074+05:30.357938+05:30.727915+05:30.069958+05:30.066077+05:30.414434+05:30.363515+05:30.877755+05:30.810615+05:30.949333+05:30.426358+05:30.439688+05:30.506295+05:30.846557+05:30.365788+05:30.674019+05:30.493055+05:30.842993+05:30.484872+05:30.

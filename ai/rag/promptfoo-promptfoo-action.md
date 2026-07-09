@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/promptfoo/promptfoo-action
-collected_at: '2026-07-09T09:47:47.703507+05:30'
+collected_at: '2026-07-09T21:07:44.292977+05:30'
 published_at: '2026-07-08T17:16:39Z'
 tags:
 - agents
@@ -14,7 +14,6 @@ tags:
 - meta-ai
 - models
 - rag
-- scripts
 - typescript
 stars: 69
 language: TypeScript
@@ -22,11 +21,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2023-06-21T03:10:38Z'
-pushed_at: '2026-07-08T17:15:29Z'
+pushed_at: '2026-07-09T07:37:12Z'
 resource_id: github:promptfoo/promptfoo-action
-first_seen: '2026-07-09T09:47:47.703507+05:30'
-last_seen: '2026-07-09T09:47:47.703507+05:30'
-last_checked: '2026-07-09T09:47:47.703507+05:30'
+first_seen: '2026-07-09T21:07:44.292977+05:30'
+last_seen: '2026-07-09T21:07:44.292977+05:30'
+last_checked: '2026-07-09T21:07:44.292977+05:30'
 health_score: 100
 ---
 
@@ -34,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Action Integration**: Enables automated testing of prompts, agents, and Retrieval-Augmented Generation (RAG) systems via GitHub Actions, supporting CI/CD pipelines for LLM evaluation.
-- **Multi-Model Benchmarking**: Facilitates comparison of LLM performance across providers (e.g., GPT, Claude, Gemini, Llama) with declarative configuration files.
-- **Security & Red Teaming**: Provides AI red teaming, pentesting, and vulnerability scanning for LLMs to identify and mitigate risks in deployed models.
+- **GitHub Action for Promptfoo**: Enables automated testing of prompts, agents, and RAG systems with AI red teaming, pentesting, and LLM vulnerability scanning.
+- **Multi-Model Comparison**: Supports performance benchmarking across LLMs (GPT, Claude, Gemini, Llama, etc.) via declarative configurations.
+- **Integration & Tooling**: Provides CLI, CI/CD compatibility, and TypeScript-based implementation for declarative prompt evaluation.
 
 ## Why It Matters
 
@@ -53,7 +52,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2023-06-21T03:10:38Z
-- Pushed At: 2026-07-08T17:15:29Z
+- Pushed At: 2026-07-09T07:37:12Z
 
 ## Possible Use Cases
 

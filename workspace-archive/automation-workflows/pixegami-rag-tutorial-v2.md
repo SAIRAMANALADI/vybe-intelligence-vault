@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates advanced RAG workflows using locally hosted large language models (LLMs) for privacy and reduced dependency on cloud APIs.
+- **Local LLM Integration**: Demonstrates deployment and utilization of local large language models (LLMs) within a Langchain-based RAG pipeline, emphasizing offline processing and reduced dependency on cloud APIs.
 
-- **Dynamic Database Updates**: Implements automated or semi-automated vector database refresh mechanisms to ensure retrieval relevance with evolving document corpora.
+- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS), ensuring retrieval relevance and mitigating stale data issues in RAG workflows.
 
-- **Testing & Evaluation Framework**: Includes structured testing methodologies (e.g., retrieval accuracy, response quality) to benchmark RAG system performance unde
+- **Testing & Evaluation Framework**: Includes structured testing met
 
 ## Use Cases
 

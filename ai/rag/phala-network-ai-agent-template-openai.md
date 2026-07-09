@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Phala-Network/ai-agent-template-openai
-collected_at: '2026-07-09T09:48:37.676641+05:30'
+collected_at: '2026-07-09T21:08:34.263082+05:30'
 published_at: '2026-06-30T16:46:05Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - openai
 - rag
 - typescript
-- workflows
 stars: 218
 language: TypeScript
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-03-28T19:00:47Z'
 pushed_at: '2024-09-05T18:01:35Z'
 resource_id: github:phala-network/ai-agent-template-openai
-first_seen: '2026-07-09T09:48:37.676641+05:30'
-last_seen: '2026-07-09T09:48:37.676641+05:30'
-last_checked: '2026-07-09T09:48:37.676641+05:30'
+first_seen: '2026-07-09T21:08:34.263082+05:30'
+last_seen: '2026-07-09T21:08:34.263082+05:30'
+last_checked: '2026-07-09T21:08:34.263082+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, enabling decentralized AI agent execution.
+- **Template Purpose**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, enabling secure, off-chain computation and on-chain verification.
 
-- **Key Components**: Includes pre-configured OpenAPI client integration, Phala Network contract scaffolding, and example agent workflows for rapid deployment.
+- **Key Components**: Includes pre-configured interfaces for OpenAI API interactions, Phala Network's TEE (Trusted Execution Environment) integration, and contract deployment scripts for AI agent execution.
 
-- **Technical Stack**: Leverages TypeScript for contract logic, OpenAI's API for AI agent functionality, and Phala's confidential computing infrastructure for secure off-chain computation.
+- **Technical Stack**: Leverages TypeScript for contract logic, OpenAI's API for AI inference, and Phala's blockchain infrastructure for privacy-preserving computation and data integrity.
 
 ## Why It Matters
 

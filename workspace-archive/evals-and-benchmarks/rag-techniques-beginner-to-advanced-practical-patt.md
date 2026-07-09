@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Combines a retriever (dense/sparse embeddings + vector search) with an LLM generator to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates via document indexing.
+- **Core RAG Architecture**: Combines a retriever (dense/sparse embeddings + vector search) with an LLM generator to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates via document indexing.
 
-- **Core Components**: Dense retrieval (e.g., `sentence-transformers` embeddings + FAISS/Chroma) for semantic similarity, sparse retrieval (BM25/TF-IDF) for lexical precision, and rerankers (cross-encoders like `monoT5`) to reorder top-k passages for hi
+- **Minimal Pipeline Implementation**: Uses `sentence-transformers` for embeddings, FAISS for vector search, and Flan-T5 for generation; documents are chunked, embedded, and indexed for retrieval, with query processing involving embedding → search → LLM gen
 
 ## Use Cases
 

@@ -14,7 +14,6 @@ tags:
 - agents
 - github-repo
 - python
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `masumi-network/crewai-masumi-quickstart-template` – A Python-based template for quickstart implementations using CrewAI.
-- **Metadata**: 13 stars, 20 forks, last updated on **2026-04-12T20:15:37Z**.
-- **Purpose**: Minimal template (no description/topics) for initializing CrewAI workflows.
+- **Repository**: `masumi-network/crewai-masumi-quickstart-template` – A Python-based template for quickstart implementations with CrewAI, last updated on **2026-04-12**.
+- **Metrics**: 13 stars, 20 forks, no topics or description provided.
+- **Purpose**: Likely serves as a starter template for integrating or testing CrewAI functionalities within a Python environment.
 
 ## Use Cases
 

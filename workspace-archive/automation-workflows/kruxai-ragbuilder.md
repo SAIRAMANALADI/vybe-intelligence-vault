@@ -11,8 +11,8 @@ archive_tier: essential
 resource_kind: benchmark
 importance: high
 tags:
+- benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a Python-based toolkit for constructing production-ready Retrieval Augmented Generation (RAG) pipelines optimized for user data integration.
+- **RAG Pipeline Optimization**: Provides a Python-based toolkit for constructing production-ready RAG systems, focusing on data preprocessing, retrieval, and generation optimization.
 
-- **Key Features**: Includes modular components for data ingestion, embedding generation, vector storage, and retrieval mechanisms tailored for GenAI applications.
+- **Modular Architecture**: Implements a flexible, component-based design to support customization of embedding models, vector databases, and LLM integration for tailored RAG workflows.
 
-- **Technical Stack**: Leverages Python with dependencies optimized for developer tools, GenAI workflows, and scalable RAG architectures.
+- **Performance & Scalability**: Includes benchmarking and evaluation tools to ensure efficient retrieval and generation, with s
 
 ## Use Cases
 

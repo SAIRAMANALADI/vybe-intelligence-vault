@@ -14,6 +14,8 @@ tags:
 - agents
 - github-repo
 - hackernews
+- meta-ai
+- models
 - python
 - rag
 - workflows
@@ -33,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Course Focus**: Production-grade implementation of Agentic Retrieval-Augmented Generation (RAG) systems in Python, emphasizing scalable, real-world deployment.
-- **Repository Metrics**: 7,543 stars, 1,683 forks, last updated July 9, 2026.
-- **Technical Stack**: Python-based framework for agentic AI workflows integrating retrieval, reasoning, and action execution.
+- **Course Focus**: Production-grade implementation of **Agentic RAG (Retrieval-Augmented Generation)** systems in Python, emphasizing scalable, real-world deployment.
+- **Repository Metrics**: 7,611 stars, 1,698 forks, last updated **July 9, 2026**; indicates active community engagement and maintenance.
+- **Technical Stack**: Primarily Python-based, leveraging modern frameworks (e.g., LangChain, LlamaIndex) for modular RAG pipelines and agentic workflows.
 
 ## Use Cases
 

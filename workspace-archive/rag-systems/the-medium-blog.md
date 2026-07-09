@@ -28,11 +28,11 @@ selection_reason:
 
 ## Summary
 
-- **Medium’s sitemap.xml** provides structured indexing of all published content, enabling efficient crawler-based discovery and SEO optimization for the platform.
+- Medium's sitemap (`/sitemap.xml`) provides structured indexing of all published content, including blog posts, topics, and author profiles, optimized for SEO and crawler accessibility.
 
-- **Medium’s navigation and authentication flows** leverage parameterized redirects (e.g., `?operation=login&redirect=`) to manage user sessions and post-authentication routing.
+- The platform supports multi-factor authentication (MFA) via OAuth 2.0 for user sign-in (`/m/signin`), with session management handled through JWT tokens for secure stateful interactions.
 
-- **Medium’s editorial and product updates** are organized into categorized feeds (e.g., `/all?topic=product`) with a 5+ editor team curating content, along
+- Medium's backend integrates with Google Play Services (`com.medium.reader`) for app analytics, push notifications, and d
 
 ## Use Cases
 

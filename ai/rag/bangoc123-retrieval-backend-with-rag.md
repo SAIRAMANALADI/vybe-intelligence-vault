@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-09T09:47:12.516958+05:30'
+collected_at: '2026-07-09T21:07:09.126139+05:30'
 published_at: '2026-07-07T14:48:17Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +17,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-09T09:47:12.516958+05:30'
-last_seen: '2026-07-09T09:47:12.516958+05:30'
-last_checked: '2026-07-09T09:47:12.516958+05:30'
+first_seen: '2026-07-09T21:07:09.126139+05:30'
+last_seen: '2026-07-09T21:07:09.126139+05:30'
+last_checked: '2026-07-09T21:07:09.126139+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of RAG for Vietnamese**: Demonstrates best practices for Vietnamese-specific Retrieval-Augmented Generation (RAG) pipelines, including text preprocessing, embedding models (e.g., Vietnamese BERT), and retrieval mechanisms tailored for low-resource language efficiency.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) best practices for Vietnamese using Python, integrating vector search with LLMs for contextual retrieval.
 
-- **Modular Python Architecture**: Features a scalable backend with components for document ingestion, vector storage (FAISS/Weaviate), retrieval, and LLM integration (e.g., vLLM, HuggingFace), optimized for Vietnamese NLP tasks.
+- **Key Components**: Utilizes embedding models (e.g., `vinai/phobert-base`) and FAISS/Weaviate for efficient Vietnamese document retrieval and semantic search.
 
-- **Evaluation & Optimization**: Includes benchmarking tools for Vietnamese RAG performance, with metrics like retrieval accuracy (MRR, Recall@K) and generation quality (BLEU, ROUGE), alongside deployment scripts for cloud/on-premise setups.
+- **Deployment**: Provides a backend framework with FastAPI for serving RAG pipelines, optimized for Vietnamese language processing and scalability.
 
 ## Why It Matters
 

@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Purpose**: Provides a structured foundation for building retrieval agents using the `langgraph` framework in Python, emphasizing modularity and scalability.
-
-- **Key Components**: Integrates `langgraph-python` for stateful workflows, with predefined nodes/pipes for document retrieval, processing, and agent orchestration.
-
-- **Technical Stack**: Leverages Python with dependencies on LangChain ecosystem tools; last updated June 30, 2026, with 163 stars and 51 forks.
+- **Purpose**: Template repository for building retrieval agents using `langgraph` and `langgraph-python` frameworks.
+- **Key Components**: Integrates LangChain's retrieval agent architecture with LangGraph for stateful workflows.
+- **Technical Stack**: Python-based, leveraging LangGraph for graph-based agent orchestration and retrieval logic.
 
 ## Use Cases
 

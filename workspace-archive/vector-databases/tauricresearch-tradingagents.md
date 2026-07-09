@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- openai
 - python
 - rag
 selection_reason:
@@ -32,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: Open-source Python-based `TradingAgents` leverages multi-agent LLM systems for autonomous financial trading, integrating specialized agents (e.g., analysts, traders, risk managers) for end-to-end decision-making.
-- **Architecture**: Modular design with configurable agent roles, LLM backends (e.g., OpenAI, local models), and pluggable trading environments (e.g., Binance, Interactive Brokers) for backtesting/real-time execution.
-- **Key Features**: Supports multi-modal da
+- **Framework**: Open-source Python-based multi-agent LLM system (`TauricResearch/TradingAgents`) for autonomous financial trading, leveraging large language models (LLMs) and agent-based architectures.
+
+- **Architecture**: Implements a distributed multi-agent system where specialized agents (e.g., market analysts, risk managers, execution brokers) collaborate via structured communication protocols for trading decision-making.
+
+- **Capabilities**: Supports real-time market data integration, adap
 
 ## Use Cases
 

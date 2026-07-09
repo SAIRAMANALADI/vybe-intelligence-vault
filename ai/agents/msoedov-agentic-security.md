@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/msoedov/agentic_security
-collected_at: '2026-07-09T09:49:27.676864+05:30'
+collected_at: '2026-07-09T21:09:24.215342+05:30'
 published_at: '2026-07-07T21:03:15Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - python
 stars: 1920
 language: Python
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-04-11T17:18:54Z'
 pushed_at: '2026-06-23T07:20:13Z'
 resource_id: github:msoedov/agentic_security
-first_seen: '2026-07-09T09:49:27.676864+05:30'
-last_seen: '2026-07-09T09:49:27.676864+05:30'
-last_checked: '2026-07-09T09:49:27.676864+05:30'
+first_seen: '2026-07-09T21:09:24.215342+05:30'
+last_seen: '2026-07-09T21:09:24.215342+05:30'
+last_checked: '2026-07-09T21:09:24.215342+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic LLM Security Toolkit**: Python-based framework for red teaming and vulnerability scanning of Large Language Models (LLMs), supporting agent frameworks, jailbreak detection, and prompt testing.
-- **LLM Fuzzing & Evaluation**: Includes tools for automated LLM fuzzing, vulnerability assessment, and evaluation of guardrails, with aggregation capabilities for comprehensive security testing.
-- **Active Development**: Last updated in 2026, the repository integrates 14+ security-focused topics, including LLM-specific attack vectors and defense mechanisms.
+- **Agentic LLM Security Scanner**: Python-based framework for automated vulnerability assessment and red teaming of LLM systems, supporting jailbreak detection, prompt testing, and security evaluation.
+- **Multi-Task Fuzzing & Aggregation**: Implements LLM fuzzing techniques with an aggregator for systematic vulnerability discovery and comparative analysis across different LLM models and configurations.
+- **Guardrails & Evaluation Suite**: Includes guardrail mechanisms, jailbreak mitigation tools, and a structured evaluation framework for assessing LLM security posture and resilience against adversarial inputs.
 
 ## Why It Matters
 

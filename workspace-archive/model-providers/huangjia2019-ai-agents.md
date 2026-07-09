@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Repository provides introductory examples for building LLM-based AI agents, designed as a beginner-friendly guide to LLM development with foundational concepts.
-- **Content**: Contains simple Jupyter Notebook examples under the umbrella of an asynchronous book titled *"大模型应用开发 动手做AI Agent"* (LLM Application Development: Hands-on AI Agents).
-- **Resources**: Directs users to more advanced examples (e.g., OpenAI Cookbook, LangChain) for deeper exploration, reflecting rapid advanceme
+- **Purpose**: Repository provides introductory examples for building LLM-based AI agents, serving as a beginner-friendly guide to LLM development with minimal complexity.
+
+- **Content**: Contains simple starter code in Jupyter Notebooks, covering foundational concepts for AI agent implementation.
+
+- **Resources**: Directs users to more advanced examples in OpenAI Cookbook and LangChain for deeper exploration beyond basic implementations.
 
 ## Use Cases
 

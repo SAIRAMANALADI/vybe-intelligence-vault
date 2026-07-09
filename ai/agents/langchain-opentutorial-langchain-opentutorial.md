@@ -4,14 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial
-collected_at: '2026-07-09T09:50:22.786837+05:30'
-published_at: '2026-07-07T09:04:31Z'
+collected_at: '2026-07-09T21:10:19.348636+05:30'
+published_at: '2026-07-09T05:43:52Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - workflows
-stars: 1088
+stars: 1087
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-12-14T14:33:57Z'
 pushed_at: '2025-09-18T07:01:44Z'
 resource_id: github:langchain-opentutorial/langchain-opentutorial
-first_seen: '2026-07-09T09:50:22.786837+05:30'
-last_seen: '2026-07-09T09:50:22.786837+05:30'
-last_checked: '2026-07-09T09:50:22.786837+05:30'
+first_seen: '2026-07-09T21:10:19.348636+05:30'
+last_seen: '2026-07-09T21:10:19.348636+05:30'
+last_checked: '2026-07-09T21:10:19.348636+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source tutorial repository for LangChain and LangGraph, designed to educate users on agent-based systems and workflows.
-- **Content**: Primarily Jupyter Notebooks, covering practical implementations and use cases of LangChain/LangGraph.
-- **Metadata**: 1,088 stars, 341 forks, last updated July 7, 2026.
+- **Purpose**: Educational repository providing tutorials on LangChain and LangGraph for building AI agents, structured as Jupyter Notebooks.
+- **Metrics**: 1,087 stars, 341 forks, last updated July 9, 2026.
+- **Technical Focus**: Covers agent development, workflow orchestration (LangGraph), and LangChain integration.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: LangChain-OpenTutorial
-- Stars: 1088
+- Stars: 1087
 - Forks: 341
 - Language: Jupyter Notebook
 - Topics: agent, langchain, langgraph
-- Last Updated: 2026-07-07T09:04:31Z
+- Last Updated: 2026-07-09T05:43:52Z
 - License: MIT
 - Archived: No
 - Created At: 2024-12-14T14:33:57Z

@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-layered retrieval (semantic → structural) for efficient, context-aware generation (AAAI 2026).
-- **Optimized Architecture**: Python-based system leveraging graph neural networks (GNNs) for dynamic knowledge fusion and adaptive query routing in low-latency settings.
-- **Scalable KG Integration**: Supports dynamic updates to knowledge graphs with hierarchical pruning to maintain retriev
+- **Semantic Aggregation Mechanism**: Implements a knowledge-graph-based approach to aggregate and contextualize retrieved information using semantic relationships, enhancing the relevance of generated outputs.
+
+- **Hierarchical Retrieval Strategy**: Utilizes a multi-layered retrieval system to progressively refine and filter knowledge, optimizing both precision and computational efficiency in RAG pipelines.
+
+- **AAAI 2026 Framework**: Designed as a lightweight, Python-based framework for knowle
 
 ## Use Cases
 

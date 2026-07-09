@@ -36,9 +36,9 @@ selection_reason:
 
 - **LangGraph ReAct Agent**: Implements a ReAct (Reasoning and Acting) agent architecture using LangGraph for dynamic workflow orchestration and decision-making.
 
-- **MCP Integration**: Supports Model Context Protocol (MCP) for seamless interaction with external data sources, APIs, and tools via standardized interfaces.
+- **MCP Integration**: Supports Model Context Protocol (MCP) for seamless interaction with external tools, APIs, and data sources via standardized interfaces.
 
-- **Streamlit UI**: Provides a Streamlit-based web interface for real-time configuration, deployment, and interaction with MCP-enabled AI agents.
+- **Streamlit UI**: Provides a Streamlit-based web interface for real-time configuration, deployment, and interaction with agents, enabling dynamic tool and workflow management.
 
 ## Use Cases
 

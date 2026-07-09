@@ -13,13 +13,14 @@ collected_at: '2026-07-09T09:45:06.315996+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:i-think-i-have-llm-burnout
 first_seen: '2026-07-09T09:45:06.315996+05:30'
 last_seen: '2026-07-09T09:45:06.315996+05:30'
 last_checked: '2026-07-09T09:45:06.315996+05:30'
 health_score: 100
 ---
+
 
 # I think I have LLM burnout
 

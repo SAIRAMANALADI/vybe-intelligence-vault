@@ -1,8 +1,8 @@
 ---
-title: allenai/scifact · Datasets at Hugging Face
+title: allenai/c4
 archive_category: datasets
-source_category: ai/rag
-source_url: https://huggingface.co/datasets/allenai/scifact
+source_category: ai/models
+source_url: https://huggingface.co/datasets/allenai
 resource_id: huggingface:datasets/allenai
 local_vault_path: ai/rag/huggingface-datasets-allenai.md
 quality_score: 70
@@ -12,14 +12,14 @@ resource_kind: dataset
 importance: medium
 tags:
 - dataset
-- rag
-- web-crawled
+- hf-dataset
+- huggingface
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
 
-# allenai/scifact · Datasets at Hugging Face
+# allenai/c4
 
 ## Why This Is In The Archive
 
@@ -32,9 +32,7 @@ selection_reason:
 
 ## Summary
 
-- **Model**: `SCIFACT_xlm_roberta_large` is a fine-tuned XLM-RoBERTa-large model for scientific claim verification.
-- **Performance**: Achieves high accuracy on the SCIFACT dataset, designed to validate scientific claims against evidence.
-- **Use Case**: Optimized for zero-shot or few-shot scientific fact-checking tasks, leveraging cross-lingual transfer capabilities.
+Trending Hugging Face dataset: allenai/c4 (Likes: 609, Downloads: 1495226)
 
 ## Use Cases
 
@@ -44,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://huggingface.co/datasets/allenai/scifact
+Original source URL: https://huggingface.co/datasets/allenai
 
 ## Local Vault File
 

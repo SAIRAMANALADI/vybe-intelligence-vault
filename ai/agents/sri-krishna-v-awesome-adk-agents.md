@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-07-09T09:48:57.626709+05:30'
+collected_at: '2026-07-09T21:08:54.227221+05:30'
 published_at: '2026-07-06T12:52:15Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-06-28T14:36:38Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-07-09T09:48:57.626709+05:30'
-last_seen: '2026-07-09T09:48:57.626709+05:30'
-last_checked: '2026-07-09T09:48:57.626709+05:30'
+first_seen: '2026-07-09T21:08:54.227221+05:30'
+last_seen: '2026-07-09T21:08:54.227221+05:30'
+last_checked: '2026-07-09T21:08:54.227221+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Curated list of AI agents built with Google's Agent Development Kit (ADK), featuring templates, best practices, and production-ready examples across domains like research, business, automation, and education.
+- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google’s Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
 
-- **Technical Scope**: Focuses on **ADK-Python** and **ADK-Web**, supporting **multi-agent systems**, **Gemini AI integration**, and **agentic AI workflows** with Python-based implementations.
+- **Multi-Faceted ADK Support**: Focuses on `adk-python`, `adk-web`, and `multi-agent-systems`, with integration examples for `gemini-ai` and Google ADK, enabling scalable agentic AI workflows.
 
-- **Metadata**: 331 stars, 47 forks, last updated **2026-07-06**; categorized under topics like `adk`, `awesome-list`, and `agent-samples`.
+- **Technical Stack & Metadata**: Python-based repository (331 stars, 47 forks) last updated July 6, 2026, categorized under topics like `agent-samples`, `awesome-list`, and `agentic-ai` for rapid discovery and deployment.
 
 ## Why It Matters
 

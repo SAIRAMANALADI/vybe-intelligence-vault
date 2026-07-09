@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://rag.readthedocs.io/
-published_at: '2026-07-07T15:33:25.833019+05:30'
-collected_at: '2026-07-07T15:33:25.833031+05:30'
+published_at: '2026-07-09T21:06:20.226418+05:30'
+collected_at: '2026-07-09T21:06:20.226429+05:30'
 tags:
 - rag
 - web-crawled
 - workflows
 status: active
 resource_id: blog:retrieval-augmented-generation-rag-rag-multi-model
-first_seen: '2026-07-07T15:33:25.833031+05:30'
-last_seen: '2026-07-07T15:33:25.833031+05:30'
-last_checked: '2026-07-07T15:33:25.833031+05:30'
+first_seen: '2026-07-09T21:06:20.226429+05:30'
+last_seen: '2026-07-09T21:06:20.226429+05:30'
+last_checked: '2026-07-09T21:06:20.226429+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval systems (e.g., document embeddings, vector search) with generative models (e.g., LLMs) to enhance contextual relevance and factual accuracy in outputs.
+- **RAG Architecture**: Combines retrieval systems (e.g., vector databases) with generative models (e.g., LLMs) to enhance contextual relevance by dynamically fetching and integrating external knowledge during generation.
 
-- **Implementation Components**: Includes document processing (`process_pdf.py`), question handling (`question_handler.py`), summarization (`summarizer.py`), and translation (`translator.py`) via modular Python chains and Streamlit UI integration.
+- **Streamlit Implementation**: Modular Python application with components for PDF processing (`process_pdf.py`), Q&A (`question_handler.py`), summarization (`summarizer.py`), and translation (`translator.py`), orchestrated via chain functions for end-to-end workflows.
 
-- **Key Workflow**: PDF ingestion → text splitting → vector embedding → retrieval → LLM augmentation → response generation, with real-time model comparison (e.g., `get_question_answer_chain`).
+- **Key Workflow Steps**: Document ingestion (chunking/splitting), embedding generation (e.g., FAISS/Chroma), retrieval-augmented generation (via LLM APIs), and UI-driven task execution with real-time result display.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T15:33:25.833019+05:30
+- Published: 2026-07-09T21:06:20.226418+05:30
 
 ## Related Tags
 

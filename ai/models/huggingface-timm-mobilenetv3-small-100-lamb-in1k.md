@@ -4,8 +4,8 @@ category: ai/models
 source_type: huggingface_model
 source_name: Hugging Face Trending Models
 source_url: https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k
-published_at: '2026-07-09T09:45:05.353464+05:30'
-collected_at: '2026-07-09T09:45:05.353471+05:30'
+published_at: '2026-07-09T21:05:26.946866+05:30'
+collected_at: '2026-07-09T21:05:26.946871+05:30'
 tags:
 - dataset
 - hf-model
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:timm/mobilenetv3_small_100.lamb_in1k
 first_seen: '2026-07-07T00:46:14.353420+05:30'
-last_seen: '2026-07-09T09:45:05.353471+05:30'
-last_checked: '2026-07-09T09:45:05.353471+05:30'
+last_seen: '2026-07-09T21:05:26.946871+05:30'
+last_checked: '2026-07-09T21:05:26.946871+05:30'
 health_score: 100
 ---
 
@@ -22,7 +22,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face model: timm/mobilenetv3_small_100.lamb_in1k (Likes: 87, Downloads: 28879073)
+Trending Hugging Face model: timm/mobilenetv3_small_100.lamb_in1k (Likes: 87, Downloads: 28981462)
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Trending Models
 - Category: ai/models
-- Published: 2026-07-09T09:45:05.353464+05:30
+- Published: 2026-07-09T21:05:26.946866+05:30
 
 ## Related Tags
 

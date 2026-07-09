@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/ai-agents-from-scratch
-collected_at: '2026-07-09T09:48:22.646885+05:30'
-published_at: '2026-07-09T01:49:27Z'
+collected_at: '2026-07-09T21:08:19.196960+05:30'
+published_at: '2026-07-09T08:21:37Z'
 tags:
 - agents
 - frontend_ui
@@ -14,7 +14,7 @@ tags:
 - javascript
 - meta-ai
 - models
-stars: 4387
+stars: 4386
 language: JavaScript
 status: active
 license: MIT
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-10-23T19:39:04Z'
 pushed_at: '2026-05-31T08:52:06Z'
 resource_id: github:pguso/ai-agents-from-scratch
-first_seen: '2026-07-09T09:48:22.646885+05:30'
-last_seen: '2026-07-09T09:48:22.646885+05:30'
-last_checked: '2026-07-09T09:48:22.646885+05:30'
+first_seen: '2026-07-09T21:08:19.196960+05:30'
+last_seen: '2026-07-09T21:08:19.196960+05:30'
+last_checked: '2026-07-09T21:08:19.196960+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using local LLMs, emphasizing transparency and understanding of core concepts like function calling, memory, and ReAct patterns.
-
-- **Technical Implementation**: Utilizes JavaScript and `node-llama-cpp` to create agent architectures, focusing on practical, non-black-box approaches to AI agent development.
-
-- **Key Features**: Covers function-calling, memory management, and ReAct (Reasoning and Acting) patterns, with updates as recent as July 2026.
+- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using JavaScript, focusing on local LLMs and eliminating black-box dependencies.
+- **Core Technical Concepts**: Covers function calling, memory management, and ReAct (Reasoning and Acting) patterns to enable autonomous agent behavior.
+- **Tooling & Integration**: Utilizes `node-llama-cpp` for local LLM inference and implements React-based agent architectures for practical implementation.
 
 ## Why It Matters
 
@@ -45,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pguso
-- Stars: 4387
+- Stars: 4386
 - Forks: 635
 - Language: JavaScript
 - Topics: ai-agents, educational, function-calling, llm, llm-agent, node-llama-cpp, react-agent, tutorial
-- Last Updated: 2026-07-09T01:49:27Z
+- Last Updated: 2026-07-09T08:21:37Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-23T19:39:04Z

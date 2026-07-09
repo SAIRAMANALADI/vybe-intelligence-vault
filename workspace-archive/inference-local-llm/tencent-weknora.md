@@ -6,7 +6,7 @@ source_url: https://github.com/Tencent/WeKnora
 resource_id: github:tencent/weknora
 local_vault_path: ai/rag/tencent-weknora.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -29,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Inference and Local LLM`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG & Autonomous Agent Framework**: Implements Retrieval-Augmented Generation (RAG) with vector search, reranking, and semantic search; supports autonomous reasoning agents and self-maintaining Wiki functionality.
-- **Multi-Model & Multi-Tenant Architecture**: Integrates OpenAI, Ollama, and other LLMs; designed for multi-tenant deployments with knowledge base management.
-- **Go-Based Implementation**: Built in Go with embeddings, evaluation tools, and support for multimodal models, enabling
+- **Multi-Model RAG & Agent Framework**: Implements Retrieval-Augmented Generation (RAG) with support for OpenAI-compatible embeddings, vector search (via reranking), and autonomous reasoning agents in Go, enabling dynamic knowledge base interactions.
+
+- **Self-Maintaining Wiki & Multi-Tenant System**: Automatically updates and structures raw documents into a queryable Wiki, with multi-tenant isolation for scalable, collaborative knowledge management.
+
+- **Modular & Extensible**: Integrates Olla
 
 ## Use Cases
 

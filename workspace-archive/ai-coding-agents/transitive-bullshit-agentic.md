@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
+- frontend_ui
 - github-repo
 - openai
 - typescript
@@ -32,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic**: A TypeScript framework enabling rapid conversion of APIs into paid MCP (Model Context Protocol) servers, facilitating monetization of AI/LLM agent interactions.
-- **Key Features**: Supports OpenAI-compatible agent workflows, integrates with LLMs, and provides tooling for API-to-MCP transformation with minimal setup.
-- **Ecosystem**: Targets AI agent developers, emphasizes OpenAPI/SDK-based MCP generation, and includes examples for OpenAI Function Calling and MCP client/server impl
+- **TypeScript-based MCP Framework**: Open-source library for converting APIs into Model Context Protocol (MCP) servers, enabling seamless integration with LLMs and AI agents.
+
+- **Agentic Workflows**: Supports structured agentic patterns (e.g., ReAct, Plan-Execute) for autonomous task execution with OpenAI-compatible tooling.
+
+- **Real-time Updates**: Actively maintained with frequent commits (last update: 2026-07-09), optimized for modern AI agent architectures.
 
 ## Use Cases
 

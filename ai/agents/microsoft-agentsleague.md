@@ -4,10 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/agentsleague
-collected_at: '2026-07-09T01:29:46.769487+05:30'
+collected_at: '2026-07-09T21:08:09.249950+05:30'
 published_at: '2026-06-30T16:54:25Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - unknown
 stars: 285
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-12-15T11:55:32Z'
 pushed_at: '2026-04-06T09:34:39Z'
 resource_id: github:microsoft/agentsleague
-first_seen: '2026-07-09T01:29:46.769487+05:30'
-last_seen: '2026-07-09T01:29:46.769487+05:30'
-last_checked: '2026-07-09T01:29:46.769487+05:30'
+first_seen: '2026-07-09T21:08:09.249950+05:30'
+last_seen: '2026-07-09T21:08:09.249950+05:30'
+last_checked: '2026-07-09T21:08:09.249950+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **E-sports-inspired AI challenge** featuring live AI Battles and asynchronous community challenges with GitHub-based submissions.
-- **Repository stats**: 285 stars, 90 forks, last updated 2026-06-30T16:54:25Z.
-- **Language/Topics**: Unknown (no specified language or topics).
+- **E-sports-inspired AI challenge platform** facilitating live AI Battles with competitive, asynchronous community challenges.
+- **GitHub-integrated submissions** enabling version-controlled, collaborative agent development and evaluation.
+- **Scheduled updates** (last commit: 2026-06-30) with no explicit primary language or topics specified in metadata.
 
 ## Why It Matters
 

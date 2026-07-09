@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-07-09T09:46:17.569984+05:30'
+collected_at: '2026-07-09T21:06:14.131067+05:30'
 published_at: '2026-07-07T08:27:57Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-07-09T09:46:17.569984+05:30'
-last_seen: '2026-07-09T09:46:17.569984+05:30'
-last_checked: '2026-07-09T09:46:17.569984+05:30'
+first_seen: '2026-07-09T21:06:14.131067+05:30'
+last_seen: '2026-07-09T21:06:14.131067+05:30'
+last_checked: '2026-07-09T21:06:14.131067+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and categorizing hallucinations in generated outputs.
-- **Technical Scope**: Provides a structured dataset with annotated hallucinations (e.g., factual inaccuracies, unsupported claims) to benchmark RAG systems' reliability and hallucination mitigation strategies.
-- **Implementation**: Python-based repository with tools for dataset generation, evaluation metrics, and baseline models to test hallucination detection and correction in RAG pipelines.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs.
+- **Technical Scope**: Provides a structured Python-based framework for generating, annotating, and benchmarking hallucination datasets, enabling systematic assessment of RAG model reliability.
+- **Repository Details**: Last updated July 7, 2026, with 257 stars and 32 forks, hosted on GitHub under the MIT License.
 
 ## Why It Matters
 

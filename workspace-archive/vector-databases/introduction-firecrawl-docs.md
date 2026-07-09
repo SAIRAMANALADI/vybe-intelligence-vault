@@ -8,7 +8,7 @@ local_vault_path: ai/rag/introduction-firecrawl-docs.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -25,23 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Core Functionality**:
-  - **Scrape**: Extracts webpage content in markdown or JSON format.
-  - **Crawl**: Recursively crawls entire websites, extracting content and metadata.
-  - **Map**: Generates a complete URL list of a target website.
-
-- **Agentic Capabilities**:
-  - **Extract**: Uses NLP to extract structured data from webpages.
-  - **Search**: Enables web-wide searches with full-page content retrieval.
-  - **Base URL**: All API requests use `https://api.firecrawl.dev`.
-
-- **Error Handl
+- **Core Functionality**: Provides web scraping (`markdown`/`json`), crawling, URL mapping, and web search capabilities via REST API.
+- **Agentic Features**: Enables structured data extraction from webpages using natural language prompts.
+- **Authentication & Rate Limits**: Requires `Bearer <API_KEY>` header; returns `429` for exceeded rate/concurrency limits (see [Rate Limits](https://docs.firecrawl.dev/rate-limits)).
 
 ## Use Cases
 

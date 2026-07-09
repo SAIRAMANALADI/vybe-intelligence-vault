@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://repost.aws/knowledge-center?nc1=f_dr
-published_at: '2026-07-09T09:57:11.444286+05:30'
-collected_at: '2026-07-09T09:57:11.444305+05:30'
+published_at: '2026-07-09T21:14:32.228930+05:30'
+collected_at: '2026-07-09T21:14:32.228937+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:discover-aws-official-knowledge-center-articles-aw
-first_seen: '2026-07-09T09:57:11.444305+05:30'
-last_seen: '2026-07-09T09:57:11.444305+05:30'
-last_checked: '2026-07-09T09:57:11.444305+05:30'
+first_seen: '2026-07-09T21:14:32.228937+05:30'
+last_seen: '2026-07-09T21:14:32.228937+05:30'
+last_checked: '2026-07-09T21:14:32.228937+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **S3 Replication Failures**: Common causes include missing IAM permissions, incorrect bucket policy configurations, or replication rule misconfigurations in Amazon S3 general-purpose buckets, even when source and destination buckets are in the same region.
+- **S3 Replication Failures**: Common causes include missing IAM permissions (`s3:ReplicateObject`, `s3:GetReplicationConfiguration`), incorrect bucket policy configurations, or missing destination bucket encryption settings (e.g., SSE-KMS) when cross-region replication (CRR) is enabled.
 
-- **EC2 SSH Connection Errors**: "Connection refused" or "Permission denied (publickey)" errors typically stem from misconfigured security groups, incorrect key pair associations, or disabled SSH access on Linux EC2 instances.
+- **EC2 SSH Connection Errors**: "Connection refused" or "Permission denied" errors typically stem from misconfigured security groups (denying inbound SSH/port 22), incorrect key pair associations, or disabled SSH access in the instance’s OS-level firewall (e.g., `iptables`/`firewalld`).
 
-- **S3 403 Access Denied Errors**: These errors often result from incorrect bucket policies, missing IAM permissions, or object-level ACL restrictions preventing access to Amazon S3 objects.
+- **Lambda Function Modifications**: To audit changes, enable AWS CloudTrail logging for `UpdateFunctionCode` and `UpdateFunctionConfiguration` API calls, then query CloudTrail logs using Amazon Athena to identify the principal, timestamp, and delta of modifications.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T09:57:11.444286+05:30
+- Published: 2026-07-09T21:14:32.228930+05:30
 
 ## Related Tags
 

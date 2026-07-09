@@ -1,0 +1,52 @@
+---
+title: kylestratis/ai_agents_mcp_examples
+archive_category: automation-workflows
+source_category: ai/agents
+source_url: https://github.com/kylestratis/ai_agents_mcp_examples
+resource_id: github:kylestratis/ai_agents_mcp_examples
+local_vault_path: ai/agents/kylestratis-ai-agents-mcp-examples.md
+quality_score: 70
+archive_score: 77
+archive_tier: useful
+resource_kind: workflow
+importance: medium
+tags:
+- agents
+- github-repo
+- python
+- workflows
+selection_reason:
+- Strong keyword match
+- Active open-source repository
+---
+
+# kylestratis/ai_agents_mcp_examples
+
+## Why This Is In The Archive
+
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
+
+## Summary
+
+- **Repository Overview**: GitHub repository (`kylestratis/ai_agents_mcp_examples`) containing Python-based examples for AI agents using the Model Context Protocol (MCP).
+- **Metadata**: 55 stars, 24 forks, last updated on **2026-05-17T13:34:42Z**.
+- **Purpose**: Demonstrates MCP integration in AI agent workflows, though no explicit description is provided.
+
+## Use Cases
+
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
+
+## Source
+
+Original source URL: https://github.com/kylestratis/ai_agents_mcp_examples
+
+## Local Vault File
+
+Path: [kylestratis-ai-agents-mcp-examples.md](../../ai/agents/kylestratis-ai-agents-mcp-examples.md)

@@ -14,6 +14,7 @@ tags:
 - agents
 - github-repo
 - python
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -30,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: A minimal GitHub template for [CrewAI](https://github.com/joaomdmoura/crewAI), a Python framework for multi-agent AI systems.
-- **Metadata**: 7 stars, 4 forks, last updated on 2025-09-09; no additional topics or description provided.
-- **Tech Stack**: Pure Python-based starter template with no external dependencies listed.
+- **Repository**: `muhammad-uzair-yasin/CrewAi_starter_template` – A starter template for **CrewAI** (a multi-agent orchestration framework) implemented in **Python**.
+- **Metadata**: 7 stars, 4 forks, last updated **2025-09-09**; no additional topics or description provided.
+- **Purpose**: Likely intended as a boilerplate for **CrewAI**-based agent workflows, though specifics are undocumented.
 
 ## Use Cases
 

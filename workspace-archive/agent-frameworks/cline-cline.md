@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous Coding Agent**: Provides an SDK, IDE extension, and CLI assistant for autonomous code generation, debugging, and project management using AI-driven workflows.
-
-- **TypeScript Implementation**: Built entirely in TypeScript, enabling seamless integration with modern development environments and tooling.
-
-- **High Scalability**: Designed to handle large-scale projects with real-time collaboration features and extensible plugin architecture.
+- **Autonomous Coding Agent**: Provides an SDK, IDE extension, and CLI assistant for autonomous coding tasks, enabling AI-driven development workflows.
+- **TypeScript Implementation**: Entirely built in TypeScript, ensuring type safety and compatibility with modern JavaScript/TypeScript ecosystems.
+- **High Adoption Metrics**: 64,485 stars and 6,879 forks indicate strong community engagement and adoption in the developer tools space.
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/duanyytop/agents-radar
-collected_at: '2026-07-09T09:48:12.629309+05:30'
-published_at: '2026-07-09T01:58:22Z'
+collected_at: '2026-07-09T21:08:09.173944+05:30'
+published_at: '2026-07-09T14:35:10Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - producthunt
 - scripts
 - typescript
-stars: 881
+stars: 883
 language: TypeScript
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-23T03:22:26Z'
 pushed_at: '2026-07-09T01:58:19Z'
 resource_id: github:duanyytop/agents-radar
-first_seen: '2026-07-09T09:48:12.629309+05:30'
-last_seen: '2026-07-09T09:48:12.629309+05:30'
-last_checked: '2026-07-09T09:48:12.629309+05:30'
+first_seen: '2026-07-09T21:08:09.173944+05:30'
+last_seen: '2026-07-09T21:08:09.173944+05:30'
+last_checked: '2026-07-09T21:08:09.173944+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Automated AI Ecosystem Aggregator**: Daily digest compiling AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, etc.) via GitHub Actions, supporting bilingual ZH/EN reports.
-- **Technical Stack**: Built in TypeScript, with 881 stars and 151 forks, last updated on 2026-07-09.
-- **Purpose**: Tracks AI advancements through structured, automated reporting without manual curation overhead.
+- **Automated AI Ecosystem Aggregator**: Daily digests compiled from 10 sources (e.g., GitHub, ArXiv, HN, HuggingFace) via GitHub Actions, supporting bilingual ZH/EN reports.
+- **Technical Stack**: Built in TypeScript, with scheduled updates (last push: 2026-07-09T14:35:10Z) and open-source contributions (883 stars, 151 forks).
+- **Multi-Source Data Pipeline**: Integrates GitHub, ArXiv, Hacker News, HuggingFace, Product Hunt, Dev.to, and Lobste.rs for real-time AI ecosystem monitoring.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: duanyytop
-- Stars: 881
+- Stars: 883
 - Forks: 151
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-07-09T01:58:22Z
+- Last Updated: 2026-07-09T14:35:10Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-23T03:22:26Z

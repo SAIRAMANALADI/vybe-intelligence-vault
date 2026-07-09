@@ -11,13 +11,14 @@ tags:
 - anthropic
 - anthropic-news
 - blog-post
-status: active
+status: inactive
 resource_id: blog:jun-12-2026announcementstcs-and-anthropic-partner
 first_seen: '2026-06-16T04:26:32.176037+00:00'
 last_seen: '2026-07-09T09:45:10.165731+05:30'
 last_checked: '2026-07-09T09:45:10.165731+05:30'
 health_score: 100
 ---
+
 
 # Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries
 

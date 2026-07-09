@@ -14,9 +14,9 @@ tags:
 - agents
 - anthropic
 - github-repo
-- models
 - openai
 - python
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports Anthropic, OpenAI, and other LLM providers via modular API clients for dynamic agent behavior across models like Claude, GPT-4, and Codex.
-
-- **Self-Improving Architecture**: Implements recursive self-critique and tool-use (e.g., `claude-code`) to autonomously refine prompts, code, and workflows without manual intervention.
-
-- **Extensible Tooling System**: Provides a plugin-based framework (`clawdbot`, `moltbot`) for integrating custom tools, APIs,
+- **Multi-Model Agent Framework**: Hermes-Agent is a Python-based AI agent system supporting integration with Anthropic, OpenAI, and other LLM providers (e.g., Claude, ChatGPT) via modular tooling for dynamic task execution.
+- **Extensible Tooling & Automation**: Features built-in support for code execution (Claude-Code), file system operations (ClawDBot), and API-driven workflows, enabling autonomous agent growth through plugin-based architecture.
+- **Open-Source Ecosystem**: Hosted on GitHub w
 
 ## Use Cases
 

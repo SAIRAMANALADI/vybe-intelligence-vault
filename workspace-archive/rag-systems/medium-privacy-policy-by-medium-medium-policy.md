@@ -2,7 +2,7 @@
 title: Medium Privacy Policy | by Medium | Medium Policy
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://medium.com/policy/f03bf92035c9
+source_url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page
 resource_id: blog:medium-privacy-policy-by-medium-medium-policy
 local_vault_path: ai/rag/medium-privacy-policy-by-medium-medium-policy.md
 quality_score: 70
@@ -10,12 +10,6 @@ archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
-tags:
-- agents
-- hackernews
-- rag
-- web-crawled
-- youtube
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -34,9 +28,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection & Sources**: Medium collects user-provided data (e.g., account details, posts, interactions) and automatically gathers activity, transactional, device, and usage data (IP addresses, device IDs, cookies, web beacons). Third-party sources (social networks, analytics providers) and derived inferences (e.g., location, preferences) are also utilized.
+- **Data Collection & Sources**: Medium collects personal data directly (e.g., account details, user-generated content) and automatically (e.g., IP addresses, device identifiers, cookies) via interactions, third-party integrations (e.g., social logins), and analytics providers. Payment data is processed by third-party processors (subject to their policies).
 
-- **Data Sharing & Third-Party Embeds**: Personal data is shared with vendors (e.g., analytics, fraud prevention) and disclosed und
+- **Data Processing & Sharing**: Information is used for service provision, personalization, and legal compliance. Data is shared with vend
 
 ## Use Cases
 
@@ -46,7 +40,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://medium.com/policy/f03bf92035c9
+Original source URL: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page
 
 ## Local Vault File
 

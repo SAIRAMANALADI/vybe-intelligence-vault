@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Orchestration**: Implements a swarm-based framework for coordinating multiple AI agents using LangGraph, enabling parallel task execution and dynamic agent collaboration.
-- **Python-Centric Design**: Built as a Python library with tight integration to LangChain’s ecosystem, leveraging LLMs for agent decision-making and state management.
-- **Stateful Workflows**: Supports complex multi-agent workflows with persistent state tracking, allowing agents to share context and maintain co
+- **Multi-Agent Orchestration Framework**: Implements a swarm-based architecture for coordinating multiple LLM-driven agents in Python, leveraging LangGraph for stateful workflows and dynamic agent interactions.
+
+- **LangGraph Integration**: Utilizes LangGraph's graph-based execution model to manage agent communication, task delegation, and state transitions in a structured, scalable manner.
+
+- **Extensible Agent Design**: Provides modular interfaces for custom agent logic, tool integration, and
 
 ## Use Cases
 

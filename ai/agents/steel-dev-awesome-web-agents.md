@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/steel-dev/awesome-web-agents
-collected_at: '2026-07-09T09:49:07.714110+05:30'
-published_at: '2026-07-09T01:55:45Z'
+collected_at: '2026-07-09T21:09:04.296884+05:30'
+published_at: '2026-07-09T08:56:49Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
 - scripts
-stars: 1497
+stars: 1498
 language: Python
 status: active
 license: NOASSERTION
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-03-06T05:23:47Z'
 pushed_at: '2026-06-30T09:53:51Z'
 resource_id: github:steel-dev/awesome-web-agents
-first_seen: '2026-07-09T09:49:07.714110+05:30'
-last_seen: '2026-07-09T09:49:07.714110+05:30'
-last_checked: '2026-07-09T09:49:07.714110+05:30'
+first_seen: '2026-07-09T21:09:04.296884+05:30'
+last_seen: '2026-07-09T21:09:04.296884+05:30'
+last_checked: '2026-07-09T21:09:04.296884+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated list** of tools, frameworks, and resources for developing AI web agents, covering browser automation, LLM benchmarking, and agent orchestration.
-- **Python-centric** repository with 1,497 stars and 195 forks, last updated July 2026.
-- **Topics** include AI agents, LLMs, browser automation, and benchmarking frameworks for autonomous web interaction.
+- **Curated Collection**: Repository hosting a structured list of tools, frameworks, and resources (e.g., browser automation, LLM benchmarking) for developing AI web agents, primarily in Python.
+- **Community Metrics**: 1,498 stars and 195 forks, indicating moderate adoption and interest in AI agent development tools.
+- **Last Updated**: July 9, 2026, ensuring relevance with recent advancements in AI agents and LLM integration.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: steel-dev
-- Stars: 1497
+- Stars: 1498
 - Forks: 195
 - Language: Python
 - Topics: ai, ai-agents, awesome, awesome-list, browser-automation, llms, llms-benchmarking
-- Last Updated: 2026-07-09T01:55:45Z
+- Last Updated: 2026-07-09T08:56:49Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-03-06T05:23:47Z

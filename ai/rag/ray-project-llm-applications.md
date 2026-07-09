@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-07-09T09:47:57.644603+05:30'
+collected_at: '2026-07-09T21:07:54.204494+05:30'
 published_at: '2026-07-07T17:41:17Z'
 tags:
-- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-07-09T09:47:57.644603+05:30'
-last_seen: '2026-07-09T09:47:57.644603+05:30'
-last_checked: '2026-07-09T09:47:57.644603+05:30'
+first_seen: '2026-07-09T21:07:54.204494+05:30'
+last_seen: '2026-07-09T21:07:54.204494+05:30'
+last_checked: '2026-07-09T21:07:54.204494+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for scalable serving, integrating Llama2 and OpenAI models with optimized retrieval mechanisms.
-- **Fine-Tuning & Serving**: Provides Jupyter Notebook-based guides for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve for low-latency inference in production environments.
-- **Multi-Model & Tooling Support**: Includes examples leveraging Anyscale for distributed training and serving, with tooling for hybrid retrieval (e.g., vector DBs) and evaluation frameworks.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples leveraging Llama2, OpenAI, and Anyscale endpoints.
+- **Fine-Tuning & Optimization**: Includes Jupyter Notebooks for fine-tuning LLMs (e.g., Llama2) and optimizing inference via Ray’s distributed compute for low-latency serving.
+- **Scalable Deployment**: Provides reference architectures for deploying RAG-based LLM applications in production, with focus on scalability, fault tolerance, and integration with Ray’s ecosystem.
 
 ## Why It Matters
 

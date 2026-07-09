@@ -8,7 +8,7 @@ local_vault_path: ai/rag/sciphi-ai-r2r.md
 quality_score: 70
 archive_score: 87
 archive_tier: essential
-resource_kind: framework
+resource_kind: benchmark
 importance: high
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # SciPhi-AI/R2R
@@ -27,16 +27,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Agentic RAG System**: Implements a production-ready, agentic Retrieval-Augmented Generation (RAG) framework with a RESTful API for AI retrieval tasks.
-- **Python-Based Architecture**: Built in Python, leveraging large language models (LLMs) for question-answering, retrieval systems, and search functionalities.
-- **Scalable & Modular Design**: Supports 7.9K+ stars and 644+ forks, with active development (last updated July 2026) for high-performance AI retrieval workflows.
+- **Agentic RAG System**: Implements an advanced **Retrieval-Augmented Generation (RAG)** pipeline with agentic workflows, enabling dynamic interaction between retrieval and generation components for enhanced question-answering.
+
+- **RESTful API Integration**: Provides a production-ready **REST API** for seamless integration with downstream applications, supporting scalable deployment and real-time inference.
+
+- **Python-Based Architecture**: Built in Python with modular components for **retriev
 
 ## Use Cases
 

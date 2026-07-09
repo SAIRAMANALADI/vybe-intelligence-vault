@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `imadmaalouf02/RAG` – A Python-based repository with no provided description or topics.
-- **Metadata**: 0 stars, 0 forks, last updated on `2024-12-05T01:18:06Z`.
-- **URL**: [https://github.com/imadmaalouf02/RAG](https://github.com/imadmaalouf02/RAG)
+- **Repository**: `imadmaalouf02/RAG` is an empty Python-based repository with no description, stars, or forks.
+- **Metadata**: Last updated on `2024-12-05T01:18:06Z` with no associated topics.
+- **Status**: Unused/untouched repository (0 stars, 0 forks) hosted on GitHub.
 
 ## Use Cases
 

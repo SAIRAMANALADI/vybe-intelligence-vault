@@ -6,13 +6,14 @@ source_url: https://github.com/dannyblaker/rag-tutorial
 resource_id: github:dannyblaker/rag-tutorial
 local_vault_path: ai/rag/dannyblaker-rag-tutorial.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: tutorial
-importance: high
+importance: medium
 tags:
 - github-repo
 - hackernews
+- models
 - python
 - rag
 - reddit
@@ -26,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Learning Paths`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Progressive RAG Learning Path**: 6 structured lessons covering foundational concepts (embeddings, vector databases) to advanced techniques (LLM integration, production deployment) with hands-on code examples and reusable utilities.
-
-- **Technical Stack**: Python-based implementation focusing on vector search (e.g., FAISS, Chroma), embeddings (e.g., Sentence Transformers), and LLM orchestration (e.g., LangChain, Hugging Face).
-
-- **Production-Ready Demos**: Includes reusable components and st
+- **Progressive Learning Path**: 6 structured lessons covering RAG fundamentals to production deployment, with reusable Python utilities and hands-on demos.
+- **Core Technical Components**: Covers embeddings generation, vector database integration, LLM fine-tuning, and advanced RAG techniques.
+- **Repository Structure**: Includes working code examples, modular utilities, and updated as of July 2026 for Python-based RAG system development.
 
 ## Use Cases
 

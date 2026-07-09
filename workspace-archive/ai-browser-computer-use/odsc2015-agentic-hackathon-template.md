@@ -30,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Standardized starter repository** for Agentic AI App Hackathon, featuring preconfigured folder structure, environment specifications (e.g., `environment.yml`/`requirements.txt`), and template documentation to ensure consistency across submissions.
+- **Standardized Structure**: Provides a pre-defined folder architecture for Agentic AI App Hackathon submissions, ensuring consistency and reproducibility.
 
-- **Reproducible setup** via environment spec files, enabling teams to quickly deploy identical dependency stacks (Python, libraries, and tools) for seamless judging and cross-platform compatibility.
+- **Environment Spec**: Includes a reproducible environment configuration (e.g., `environment.yml` or `requirements.txt`) to streamline dependency management and execution.
 
-- **Judging-optimized structure** with placeho
+- **Documentation Placeholders**: Offers template files (e.g., `README.md`, `SOLUTION.md`) for teams to document methodology, results, and judging criteria efficiently.
 
 ## Use Cases
 

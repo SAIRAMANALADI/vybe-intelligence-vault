@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-07-09T09:46:32.488809+05:30'
+collected_at: '2026-07-09T21:06:29.067670+05:30'
 published_at: '2026-07-07T12:37:16Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
+- workflows
 stars: 959
 language: Python
 status: active
@@ -17,9 +19,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-07-09T09:46:32.488809+05:30'
-last_seen: '2026-07-09T09:46:32.488809+05:30'
-last_checked: '2026-07-09T09:46:32.488809+05:30'
+first_seen: '2026-07-09T21:06:29.067670+05:30'
+last_seen: '2026-07-09T21:06:29.067670+05:30'
+last_checked: '2026-07-09T21:06:29.067670+05:30'
 health_score: 100
 ---
 
@@ -27,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates deployment of Retrieval-Augmented Generation (RAG) with local language models (LLMs) using LangChain, avoiding cloud dependency.
-- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS) to maintain relevance of retrieved context.
-- **Testing Framework**: Includes structured testing protocols for RAG pipelines, evaluating retrieval accuracy, response quality, and end-to-end latency.
+- **Local LLM Integration**: Demonstrates deployment and utilization of local large language models (LLMs) within a Langchain-based RAG pipeline, emphasizing offline processing and reduced dependency on cloud APIs.
+
+- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS), ensuring retrieval relevance and mitigating stale data issues in RAG workflows.
+
+- **Testing & Evaluation Framework**: Includes structured testing methodologies (e.g., retrieval accuracy, response quality) to validate RAG system performance, with tools for benchmarking and iterative improvement.
 
 ## Why It Matters
 
@@ -39,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: pixegami
 - Stars: 959
-- Forks: 608
+- Forks: 607
 - Language: Python
 - Topics: None
 - Last Updated: 2026-07-07T12:37:16Z

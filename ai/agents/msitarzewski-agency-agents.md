@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/msitarzewski/agency-agents
-collected_at: '2026-07-09T01:31:16.835508+05:30'
-published_at: '2026-07-08T19:55:17Z'
+collected_at: '2026-07-09T21:09:39.267278+05:30'
+published_at: '2026-07-09T15:39:38Z'
 tags:
 - agents
 - github-repo
@@ -13,17 +13,17 @@ tags:
 - scripts
 - shell
 - workflows
-stars: 129255
+stars: 129670
 language: Shell
 status: active
 license: MIT
 archived: false
 created_at: '2025-10-13T12:12:29Z'
-pushed_at: '2026-07-08T12:00:32Z'
+pushed_at: '2026-07-09T15:23:33Z'
 resource_id: github:msitarzewski/agency-agents
-first_seen: '2026-07-09T01:31:16.835508+05:30'
-last_seen: '2026-07-09T01:31:16.835508+05:30'
-last_checked: '2026-07-09T01:31:16.835508+05:30'
+first_seen: '2026-07-09T21:09:39.267278+05:30'
+last_seen: '2026-07-09T21:09:39.267278+05:30'
+last_checked: '2026-07-09T21:09:39.267278+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: Repository implements a modular AI agency framework with specialized agents (e.g., frontend, Reddit, whimsy, reality checkers), each with distinct personalities, workflows, and predefined deliverables.
-- **Shell-Based Implementation**: Entire system is built using Shell scripting, enabling lightweight, portable, and Unix/Linux-native agent orchestration.
-- **High Activity Metrics**: Maintains 129K+ stars and 21K+ forks, indicating strong community adoption, with last update timestamped July 8, 2026.
+- **Modular AI Agent Framework**: Implements a shell-based architecture with specialized agents (e.g., frontend, Reddit, whimsy injectors) each designed for distinct tasks, roles, and deliverables.
+- **Personality-Driven Workflows**: Agents incorporate unique personas and processes, enabling dynamic interaction patterns and context-aware decision-making.
+- **Scalable Automation Toolkit**: Repository provides a structured, extensible system for deploying AI-driven agents with minimal overhead, optimized for rapid iteration and community contributions.
 
 ## Why It Matters
 
@@ -42,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: msitarzewski
-- Stars: 129255
-- Forks: 21015
+- Stars: 129670
+- Forks: 21077
 - Language: Shell
 - Topics: None
-- Last Updated: 2026-07-08T19:55:17Z
+- Last Updated: 2026-07-09T15:39:38Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-13T12:12:29Z
-- Pushed At: 2026-07-08T12:00:32Z
+- Pushed At: 2026-07-09T15:23:33Z
 
 ## Possible Use Cases
 

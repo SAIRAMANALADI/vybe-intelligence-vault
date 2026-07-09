@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **Core RAG Architecture**: Combines a retriever (dense/sparse embeddings + vector search) with a generator (LLM) to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates via document indexing.
+- **Core RAG Architecture**: Combines a retriever (dense/sparse embeddings + vector search) with an LLM generator to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates via document indexing.
 
-- **Key Intermediate Techniques**: Implements chunking with overlap, hybrid retrieval (sparse BM25 + dense embeddings), reranking (cross-encoder models), query expansion (HyDE/multi-query), and metadata filtering to optimize precision/recall and latency.
+- **Minimal Pipeline Implementation**: Uses `sentence-transformers` for embeddings, FAISS for vector search, and Flan-T5 for generation; documents are chunked, embedded, and indexed for retrieval, with query processing involving embedding → search → LLM gen
 
 ## Use Cases
 

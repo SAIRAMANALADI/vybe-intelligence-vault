@@ -14,6 +14,7 @@ tags:
 - agents
 - benchmark
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -32,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and proposed fixes for agent debugging, reducing manual review overhead.
+- **Unified Agent Development Lifecycle**: LangSmith provides a framework-agnostic platform for **observability, evaluation, deployment, and monitoring** of AI agents, supporting Python, TypeScript, Go, and Java SDKs with native tracing for popular frameworks and OpenTelemetry.
 
-- **Multi-Layered Agent Infrastructure**: Supports native tracing (OpenTelemetry, Python/TypeScript/Go/Java SDKs), durable checkpointing, async human-in-the-loop interactions, and protocol compliance (A2A & MCP).
-
-- **Evaluation & Deployment Pipeline**: Converts production traces into reusable test cases with LLM-as-judge/multi-turn evals, enabling
+- **Autonomous Issue Detection & Improvement**: LangSmith Engine **autonomously clusters production failures**, identifies root causes in traces/code, and proposes fixes, enabling faster iterative improvements through re
 
 ## Use Cases
 

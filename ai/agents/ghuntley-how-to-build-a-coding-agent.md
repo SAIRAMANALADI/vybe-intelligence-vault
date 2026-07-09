@@ -4,23 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ghuntley/how-to-build-a-coding-agent
-collected_at: '2026-07-09T01:30:01.729424+05:30'
-published_at: '2026-07-08T14:57:35Z'
+collected_at: '2026-07-09T21:08:24.239217+05:30'
+published_at: '2026-07-09T14:35:20Z'
 tags:
 - agents
 - github-repo
 - go
 - hackernews
-stars: 5729
+- scripts
+- workflows
+stars: 5731
 language: Go
 status: active
 archived: false
 created_at: '2025-07-24T03:56:29Z'
 pushed_at: '2026-07-03T03:52:40Z'
 resource_id: github:ghuntley/how-to-build-a-coding-agent
-first_seen: '2026-07-09T01:30:01.729424+05:30'
-last_seen: '2026-07-09T01:30:01.729424+05:30'
-last_checked: '2026-07-09T01:30:01.729424+05:30'
+first_seen: '2026-07-09T21:08:24.239217+05:30'
+last_seen: '2026-07-09T21:08:24.239217+05:30'
+last_checked: '2026-07-09T21:08:24.239217+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Workshop Overview**: Provides a structured guide to building a coding agent (e.g., Roo Code, Cline, Amp) using Go, covering architecture, tooling, and integration with AI models.
-- **Technical Scope**: Focuses on agent-based systems, AI-driven code generation/editing, and real-time collaboration features akin to Cursor or Windsurf.
-- **Repository Details**: Active development (last updated July 2026), 5.7K+ stars, and 640+ forks, indicating strong community engagement in AI agent tooling.
+- **Workshop Overview**: Provides a step-by-step guide to building a coding agent (e.g., Roo Code, Cline, Amp) using Go, covering AI integration, agent architecture, and workflow automation.
+
+- **Technical Focus**: Implements core components like LLM interaction, tool orchestration, and real-time code analysis, with emphasis on modular design and extensibility.
+
+- **Repository Metrics**: 5.7K+ stars, 640 forks; last updated July 2026, indicating active maintenance and community engagement.
 
 ## Why It Matters
 
@@ -39,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ghuntley
-- Stars: 5729
+- Stars: 5731
 - Forks: 640
 - Language: Go
 - Topics: agent, ai, cursor, tutorial, workshop
-- Last Updated: 2026-07-08T14:57:35Z
+- Last Updated: 2026-07-09T14:35:20Z
 - Archived: No
 - Created At: 2025-07-24T03:56:29Z
 - Pushed At: 2026-07-03T03:52:40Z

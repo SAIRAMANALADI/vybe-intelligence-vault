@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/coree/awesome-rag
-collected_at: '2026-07-09T09:47:27.528393+05:30'
-published_at: '2026-07-03T01:44:41Z'
+collected_at: '2026-07-09T21:07:24.155352+05:30'
+published_at: '2026-07-09T08:20:39Z'
 tags:
 - dataset
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - paper
 - rag
 - unknown
-stars: 428
+stars: 427
 language: Unknown
 status: active
 license: CC0-1.0
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-02-10T12:01:04Z'
 pushed_at: '2025-12-01T08:45:44Z'
 resource_id: github:coree/awesome-rag
-first_seen: '2026-07-09T09:47:27.528393+05:30'
-last_seen: '2026-07-09T09:47:27.528393+05:30'
-last_checked: '2026-07-09T09:47:27.528393+05:30'
+first_seen: '2026-07-09T21:07:24.155352+05:30'
+last_seen: '2026-07-09T21:07:24.155352+05:30'
+last_checked: '2026-07-09T21:07:24.155352+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: A comprehensive collection of tools, frameworks, datasets, and research papers focused on retrieval-augmented generation (RAG) for large language models (LLMs).
-- **Technical Scope**: Covers embeddings, retrieval systems, LLM integration, and RAG model architectures, with emphasis on retrieval-augmented techniques.
-- **Maintenance**: Actively updated repository (last commit: July 3, 2026) with 428 stars and 50 forks, serving as a community-driven reference for RAG advancements.
+- **Curated RAG Resources**: A GitHub repository (`coree/awesome-rag`) aggregating tools, papers, frameworks, and datasets for **Retrieval-Augmented Generation (RAG)** in large language models (LLMs), including embeddings and retrieval systems.
+- **Technical Scope**: Covers **RAG models**, **retrieval mechanisms**, and **LLM integration**, with a focus on enhancing generative AI via external knowledge retrieval.
+- **Maintenance**: Last updated **July 9, 2026**, with **427 stars** and **51 forks**, indicating active community engagement in RAG research and development.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: coree
-- Stars: 428
-- Forks: 50
+- Stars: 427
+- Forks: 51
 - Language: Unknown
 - Topics: awesome-list, awesome-resources, embeddings, large-language-models, llm, rag, rag-model, retrieval-augmented, retrieval-augmented-generation, retrieval-systems
-- Last Updated: 2026-07-03T01:44:41Z
+- Last Updated: 2026-07-09T08:20:39Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2024-02-10T12:01:04Z

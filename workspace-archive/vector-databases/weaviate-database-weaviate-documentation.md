@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Open-source vector database**: Weaviate stores both data objects and their vector embeddings, enabling semantic search, hybrid search, and retrieval-augmented generation (RAG) workflows by comparing vector similarities rather than relying on keyword matching.
+- **Open-source vector database**: Weaviate is an open-source vector database that stores both data objects and their vector embeddings, enabling semantic search and hybrid search capabilities by comparing vector similarity rather than keyword matching.
 
-- **Multi-deployment options**: Supports evaluation and production deployments via Weaviate Cloud (managed), Docker (local), Kubernetes (scalable), and Embedded Weaviate (Python/JS/TS), with optional high availability and zero-downtime
+- **Core capabilities**: Supports semantic and hybrid search, retrieval-augmented generation (RAG), and agent-driven workflows, leveraging vector embeddings for context-aware AI applications and intelligent decision-making.
+
+- **Deployment optio
 
 ## Use Cases
 

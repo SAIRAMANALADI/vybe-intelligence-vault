@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-*   Curates advanced Retrieval Augmented Generation (RAG) techniques specifically for Large Language Models (LLMs).
-*   Catalogs resources pertaining to embeddings, information retrieval, and their integration within RAG architectures.
-*   Functions as a technical compendium for enhancing LLM capabilities via external knowledge retrieval mechanisms.
+- **Curated resource** for advanced **Retrieval-Augmented Generation (RAG)** techniques in **Large Language Models (LLMs)**, covering embeddings, retrieval mechanisms, and integration strategies.
+- **Comprehensive collection** of state-of-the-art RAG methods, including **RAG-embeddings**, **retrieval-information** optimization, and **LLM-specific** adaptations.
+- **Actively maintained** repository (last updated **2026-07-08**) with **1.3K+ stars** and **85 forks**, serving as a reference for res
 
 ## Use Cases
 

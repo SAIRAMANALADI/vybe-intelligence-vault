@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Open-source AI platform** built in Python with Next.js frontend, supporting **RAG (Retrieval-Augmented Generation)**, **vector search**, and **enterprise-grade information retrieval** across diverse LLMs.
-- **Self-hosted chat interface** with advanced features (e.g., ChatGPT-like UI) and **multi-model compatibility**, enabling scalable deployment for production use.
-- **Modular architecture** leveraging **Next.js (frontend)** and **Python (backend)**, optimized for **low-latency LLM interact
+- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any LLM, enabling flexible model switching and hybrid workflows.
+- **Enterprise-Grade Features**: Implements RAG (Retrieval-Augmented Generation), vector search, and advanced information retrieval for scalable, self-hosted deployments.
+- **Tech Stack**: Python backend with Next.js frontend, optimized for low-latency interactions and modular AI pipeline integration.
 
 ## Use Cases
 

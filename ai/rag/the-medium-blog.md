@@ -5,17 +5,17 @@ source_type: web
 source_name: Web Discovery
 source_url: https://blog.medium.com/?source=post_page
 resource_id: blog:the-medium-blog
------d10bb5769280
-published_at: '2026-07-08T14:21:07.453919+05:30'
-collected_at: '2026-07-08T14:21:07.453930+05:30'
+-----d10bb5769280---------------------------------------
+published_at: '2026-07-09T21:11:01.096904+05:30'
+collected_at: '2026-07-09T21:11:01.096915+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:the-medium-blog
-first_seen: '2026-07-08T14:21:07.453930+05:30'
-last_seen: '2026-07-08T14:21:07.453930+05:30'
-last_checked: '2026-07-08T14:21:07.453930+05:30'
+first_seen: '2026-07-09T21:11:01.096915+05:30'
+last_seen: '2026-07-09T21:11:01.096915+05:30'
+last_checked: '2026-07-09T21:11:01.096915+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Medium’s sitemap.xml** provides structured indexing of all published content, enabling efficient crawler-based discovery and SEO optimization for the platform.
+- Medium's sitemap (`/sitemap.xml`) provides structured indexing of all published content, including blog posts, topics, and author profiles, optimized for SEO and crawler accessibility.
 
-- **Medium’s navigation and authentication flows** leverage parameterized redirects (e.g., `?operation=login&redirect=`) to manage user sessions and post-authentication routing.
+- The platform supports multi-factor authentication (MFA) via OAuth 2.0 for user sign-in (`/m/signin`), with session management handled through JWT tokens for secure stateful interactions.
 
-- **Medium’s editorial and product updates** are organized into categorized feeds (e.g., `/all?topic=product`) with a 5+ editor team curating content, alongside a weekly newsletter subscription system.
+- Medium's backend integrates with Google Play Services (`com.medium.reader`) for app analytics, push notifications, and deep linking, while frontend components leverage responsive design with adaptive image resizing (e.g., `resize:fill` directives).
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T14:21:07.453919+05:30
+- Published: 2026-07-09T21:11:01.096904+05:30
 
 ## Related Tags
 
@@ -46,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://blog.medium.com/?source=post_page-----d10bb5769280
+Original source: https://blog.medium.com/?source=post_page-----d10bb5769280---------------------------------------

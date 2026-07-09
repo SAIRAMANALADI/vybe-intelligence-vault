@@ -6,7 +6,7 @@ source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
 local_vault_path: ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Implements RAG with Vector Databases**: Utilizes embedding models and vector databases (e.g., Chroma, Milvus) for efficient retrieval-augmented generation (RAG) in Java-based AI Q&A systems.
-
-- **Supports SSE, Agents, and Function Calls**: Enables Server-Sent Events (SSE) for real-time streaming, AI agent workflows, and function calling for dynamic tool integration.
-
-- **Multi-modal Capabilities**: Integrates image generation (e.g., via Stable Diffusion), image understanding (OCR, vision mod
+- Implements **Server-Sent Events (SSE)** for real-time AI response streaming in a Spring-based AI Q&A system.
+- Integrates **RAG (Retrieval-Augmented Generation)** with **vector databases**, **embeddings**, and **knowledge graphs** for enhanced contextual retrieval.
+- Supports **Agent workflows**, **Function Call**, **image generation/understanding**, and **historical message management** within a Java-based Spring AI architecture.
 
 ## Use Cases
 

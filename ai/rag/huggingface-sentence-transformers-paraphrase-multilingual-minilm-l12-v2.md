@@ -4,8 +4,8 @@ category: ai/rag
 source_type: huggingface_model
 source_name: Hugging Face Trending Models
 source_url: https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2
-published_at: '2026-07-09T09:45:05.353373+05:30'
-collected_at: '2026-07-09T09:45:05.353381+05:30'
+published_at: '2026-07-09T21:05:26.946785+05:30'
+collected_at: '2026-07-09T21:05:26.946792+05:30'
 tags:
 - hf-model
 - huggingface
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:sentence-transformers/paraphrase-multilingual-minilm-l12-v2
 first_seen: '2026-06-18T23:35:18.374787+05:30'
-last_seen: '2026-07-09T09:45:05.353381+05:30'
-last_checked: '2026-07-09T09:45:05.353381+05:30'
+last_seen: '2026-07-09T21:05:26.946792+05:30'
+last_checked: '2026-07-09T21:05:26.946792+05:30'
 health_score: 100
 ---
 
@@ -22,7 +22,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1306, Downloads: 50303787)
+Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1309, Downloads: 50200663)
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Trending Models
 - Category: ai/rag
-- Published: 2026-07-09T09:45:05.353373+05:30
+- Published: 2026-07-09T21:05:26.946785+05:30
 
 ## Related Tags
 

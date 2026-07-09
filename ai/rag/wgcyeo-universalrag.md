@@ -4,12 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-09T09:48:07.628772+05:30'
+collected_at: '2026-07-09T21:08:04.192886+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
-- benchmark
 - github-repo
-- paper
 - python
 - rag
 stars: 173
@@ -20,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-09T09:48:07.628772+05:30'
-last_seen: '2026-07-09T09:48:07.628772+05:30'
-last_checked: '2026-07-09T09:48:07.628772+05:30'
+first_seen: '2026-07-09T21:08:04.192886+05:30'
+last_seen: '2026-07-09T21:08:04.192886+05:30'
+last_checked: '2026-07-09T21:08:04.192886+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: Introduces UniversalRAG, an ACL 2026 Oral paper proposing a retrieval-augmented generation (RAG) system capable of handling diverse data modalities (text, images, tables, etc.) and granularities (document-level to fine-grained spans) within a unified architecture.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, entity) with unified indexing and retrieval.
 
-- **Modality-Agnostic Retrieval & Fusion**: Implements a modality-agnostic retriever (leveraging cross-modal embeddings) and a fusion mechanism to dynamically integrate retrieved heterogeneous data into the generation pipeline, optimizing context relevance across modalities.
+- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval mechanism using modality-specific encoders and a shared embedding space, optimized via contrastive learning for heterogeneous corpus alignment.
 
-- **Open-Source Python Implementation**: Provides a modular, extensible Python codebase (173 stars, 13 forks) with pre-trained models, evaluation tools, and APIs for custom corpus integration, supporting rapid deployment of multimodal RAG systems.
+- **Adaptive Generation Pipeline**: Dynamically selects and fuses retrieved information based on query context, leveraging a lightweight adapter to integrate multimodal evidence into LLM outputs while mitigating noise and redundancy.
 
 ## Why It Matters
 
@@ -44,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: wgcyeo
 - Stars: 173
-- Forks: 13
+- Forks: 14
 - Language: Python
 - Topics: ai, llm, multimodal, rag
 - Last Updated: 2026-07-02T21:11:00Z

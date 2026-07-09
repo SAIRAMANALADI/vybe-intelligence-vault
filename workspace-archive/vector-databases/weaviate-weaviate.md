@@ -8,14 +8,14 @@ local_vault_path: ai/rag/weaviate-weaviate.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: dataset
 importance: medium
 tags:
+- dataset
 - github-repo
 - go
 - hackernews
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -27,18 +27,16 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: benchmark
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Hybrid Architecture**: Combines object storage with vector embeddings, enabling vector search alongside structured filtering, leveraging HNSW for approximate nearest neighbor (ANN) search and gRPC for efficient communication.
+- **Hybrid Vector & Object Storage**: Weaviate integrates both structured data (objects) and high-dimensional vectors (embeddings) in a single database, enabling combined vector search with traditional filtering (e.g., BM25, exact match) while maintaining cloud-native scalability and fault tolerance.
 
-- **Cloud-Native Scalability**: Designed for fault tolerance and horizontal scalability, supporting MLOps workflows, hybrid search (vector + keyword), and semantic/neural search applications.
-
-- **Multi-Modal & Generative Integration**: Supports image search, recommend
+- **HNSW & gRPC-Powered Search**: Implements Hierarchical Navigable Small World (HNSW) graphs for approximate nearest neighbor (ANN) search, optimized via gRPC for low-latency, high-throughput vect
 
 ## Use Cases
 

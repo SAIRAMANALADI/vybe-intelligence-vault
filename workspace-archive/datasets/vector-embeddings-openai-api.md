@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **New Models & Performance**: `text-embedding-3-small` (1536D, 62.5k pages/$) and `text-embedding-3-large` (3072D, 9.6k pages/$) offer lower costs, higher multilingual performance, and dimensionality control via the `dimensions` parameter, outperforming `text-embedding-ada-002` (61.0% vs 64.6% on MTEB benchmark).
+- **New Embedding Models**: `text-embedding-3-small` and `text-embedding-3-large` offer lower costs, improved multilingual performance, and configurable embedding dimensions (default: 1536/3072) via the `dimensions` parameter, enabling trade-offs between performance and resource usage.
 
-- **Embedding Mechanics**: Text strings are converted to floating-point vectors (default 1536D/3072D) where cosine distance measures semantic relatedness; dimensions can be reduced (
+- **Embedding Mechanics**: Text embeddings are floating-point vectors where semantic relatedness is measured by vector distance (e.g., cosine similarity); OpenAI’s API generates embeddings via a dedicated endpoin
 
 ## Use Cases
 

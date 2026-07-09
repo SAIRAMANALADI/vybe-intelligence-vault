@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-09T09:47:02.607046+05:30'
+collected_at: '2026-07-09T21:06:59.140462+05:30'
 published_at: '2026-07-08T12:21:46Z'
 tags:
-- frontend_ui
 - github-repo
+- models
+- openai
 - python
 - rag
-- workflows
 stars: 156
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-09T09:47:02.607046+05:30'
-last_seen: '2026-07-09T09:47:02.607046+05:30'
-last_checked: '2026-07-09T09:47:02.607046+05:30'
+first_seen: '2026-07-09T21:06:59.140462+05:30'
+last_seen: '2026-07-09T21:06:59.140462+05:30'
+last_checked: '2026-07-09T21:06:59.140462+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a Streamlit app integrating LangChain with a vector store (e.g., FAISS/Chroma) for retrieval-augmented generation (RAG), combining dense embeddings and sparse retrieval (BM25) for hybrid search.
-- **Modular LangChain Components**: Utilizes LangChain’s `RetrievalQA` with customizable chains (e.g., `stuff`, `map_reduce`) and embeddings (e.g., `HuggingFaceEmbeddings`) for end-to-end QA workflows.
-- **Streamlit UI**: Provides a reactive web interface for querying, displaying retrieved context, and streaming LLM responses with real-time feedback.
+- **Hybrid RAG Pipeline**: Demonstrates a Streamlit app integrating LangChain with a vector store (e.g., FAISS/Chroma) and hybrid search (combining dense + sparse retrieval) for enhanced document retrieval and generation.
+
+- **Modular LangChain Components**: Utilizes LangChain’s `RetrievalQA`, `VectorStore`, and `Embeddings` modules to construct a RAG pipeline with configurable retriever (e.g., similarity search, MMR) and LLM integration (e.g., OpenAI, HuggingFace).
+
+- **Streamlit UI for RAG**: Provides a frontend to input queries, display retrieved context, and stream generated responses, with optional parameters (e.g., `k` for top-k retrieval, hybrid search weights).
 
 ## Why It Matters
 

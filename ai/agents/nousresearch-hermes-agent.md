@@ -4,27 +4,27 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NousResearch/hermes-agent
-collected_at: '2026-07-09T09:49:37.720899+05:30'
-published_at: '2026-07-09T04:18:39Z'
+collected_at: '2026-07-09T21:09:34.328609+05:30'
+published_at: '2026-07-09T15:33:22Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- models
 - openai
 - python
+- scripts
 - workflows
-stars: 211694
+stars: 212047
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-07-22T22:22:28Z'
-pushed_at: '2026-07-09T04:15:25Z'
+pushed_at: '2026-07-09T15:37:43Z'
 resource_id: github:nousresearch/hermes-agent
-first_seen: '2026-07-09T09:49:37.720899+05:30'
-last_seen: '2026-07-09T09:49:37.720899+05:30'
-last_checked: '2026-07-09T09:49:37.720899+05:30'
+first_seen: '2026-07-09T21:09:34.328609+05:30'
+last_seen: '2026-07-09T21:09:34.328609+05:30'
+last_checked: '2026-07-09T21:09:34.328609+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports Anthropic, OpenAI, and other LLM providers via modular API clients for dynamic agent behavior across models like Claude, GPT-4, and Codex.
-
-- **Self-Improving Architecture**: Implements recursive self-critique and tool-use (e.g., `claude-code`) to autonomously refine prompts, code, and workflows without manual intervention.
-
-- **Extensible Tooling System**: Provides a plugin-based framework (`clawdbot`, `moltbot`) for integrating custom tools, APIs, and domain-specific agents with persistent memory and state management.
+- **Multi-Model Agent Framework**: Hermes-Agent is a Python-based AI agent system supporting integration with Anthropic, OpenAI, and other LLM providers (e.g., Claude, ChatGPT) via modular tooling for dynamic task execution.
+- **Extensible Tooling & Automation**: Features built-in support for code execution (Claude-Code), file system operations (ClawDBot), and API-driven workflows, enabling autonomous agent growth through plugin-based architecture.
+- **Open-Source Ecosystem**: Hosted on GitHub with 212K+ stars, the project emphasizes collaborative development for AI-driven automation, with active maintenance (last update: 2026-07-09).
 
 ## Why It Matters
 
@@ -45,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NousResearch
-- Stars: 211694
-- Forks: 38930
+- Stars: 212047
+- Forks: 39042
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw
-- Last Updated: 2026-07-09T04:18:39Z
+- Last Updated: 2026-07-09T15:33:22Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-22T22:22:28Z
-- Pushed At: 2026-07-09T04:15:25Z
+- Pushed At: 2026-07-09T15:37:43Z
 
 ## Possible Use Cases
 

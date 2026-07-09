@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Curriculum Structure**: 12-lesson Jupyter Notebook-based course covering AI agent fundamentals, including agentic RAG, Autogen, and Semantic Kernel frameworks for building autonomous AI systems.
+- **12-Lesson Curriculum**: Structured course covering foundational to advanced concepts in building AI agents, including agentic RAG, multi-agent systems, and integration with frameworks like AutoGen and Semantic Kernel.
 
-- **Technical Focus**: Demonstrates practical implementations of agentic AI concepts, multi-agent orchestration, and integration with generative AI models for real-world applications.
+- **Hands-On Jupyter Notebooks**: Practical, code-based tutorials with executable examples in Jupyter Notebook format, enabling direct experimentation and implementation of AI agent architectures.
 
-- **Tooling & Ecosystem**: Leverages Microsoft’s AI agent frameworks (Autogen, Semantic Kernel) and emphasizes modu
+- **Microsoft Ecosystem Focus**: Leverages Microsoft’s AI agent frameworks (Aut
 
 ## Use Cases
 

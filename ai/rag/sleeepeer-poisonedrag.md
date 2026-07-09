@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-09T09:47:42.539469+05:30'
+collected_at: '2026-07-09T21:07:39.153321+05:30'
 published_at: '2026-07-05T07:03:45Z'
 tags:
 - benchmark
-- dataset
 - github-repo
+- hackernews
 - python
 - rag
 - reddit
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-09T09:47:42.539469+05:30'
-last_seen: '2026-07-09T09:47:42.539469+05:30'
-last_checked: '2026-07-09T09:47:42.539469+05:30'
+first_seen: '2026-07-09T21:07:39.153321+05:30'
+last_seen: '2026-07-09T21:07:39.153321+05:30'
+last_checked: '2026-07-09T21:07:39.153321+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Mechanism**: Introduces *PoisonedRAG*, a framework demonstrating *knowledge corruption attacks* on Retrieval-Augmented Generation (RAG) systems by injecting adversarial documents into the retrieval corpus, causing LLMs to generate manipulated or incorrect outputs while maintaining high semantic similarity to the corrupted knowledge.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems, enabling adversaries to manipulate model outputs by poisoning the retrieval corpus with adversarial documents.
 
-- **Evaluation Framework**: Proposes a systematic methodology to assess attack efficacy across multiple dimensions, including *attack stealthiness*, *transferability*, and *impact on downstream tasks*, leveraging datasets like *MS MARCO* and *NQ* to validate attack performance under black-box and white-box settings.
+- **Technical Mechanism**: Leverages *trigger-based* and *semantic poisoning* techniques to embed malicious content in retrieved passages, causing LLMs to generate incorrect or biased responses while maintaining high retrieval relevance scores.
 
-- **Defense Implications**: Highlights vulnerabilities in current RAG pipelines, emphasizing the need for *robust retrieval filtering*, *adversarial training*, and *real-time anomaly detection* to mitigate such poisoning attacks, while providing empirical evidence of defense evasion in existing systems.
+- **Evaluation & Impact**: Validated on multiple RAG pipelines (e.g., dense retrieval + LLMs), showing significant degradation in factual accuracy and trustworthiness, with attack success rates up to **92%** under optimized conditions.
 
 ## Why It Matters
 

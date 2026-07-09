@@ -8,7 +8,7 @@ local_vault_path: ai/agents/swe-agent-swe-agent.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # SWE-agent/SWE-agent
@@ -26,18 +26,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Automated Issue Resolution**: SWE-agent autonomously processes GitHub issues and generates fixes using a specified language model (LM), streamlining software development workflows.
+- **Automated Issue Resolution**: SWE-agent autonomously processes GitHub issues and generates fixes using a specified language model (LM), streamlining software debugging and development workflows.
 
-- **Multi-Domain Applicability**: Supports offensive cybersecurity tasks and competitive coding challenges, extending beyond standard issue resolution.
+- **Multi-Domain Utility**: Supports offensive cybersecurity tasks and competitive coding challenges, extending its applicability beyond traditional software engineering.
 
-- **Architecture & Integration**: Python-based agent framework with modular design for LM integration, categorized under AI-driven developer tools and agent-base
+- **Architecture & Ecosystem**: Implemented in Python, integrates with agent-based models and LLMs, with active development (las
 
 ## Use Cases
 

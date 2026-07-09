@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alvinreal/awesome-opensource-ai
-collected_at: '2026-07-09T09:47:27.499797+05:30'
-published_at: '2026-07-09T02:51:26Z'
+collected_at: '2026-07-09T21:07:24.145056+05:30'
+published_at: '2026-07-09T14:38:05Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-stars: 4043
+stars: 4047
 language: Python
 status: active
 license: CC0-1.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-24T15:58:22Z'
 pushed_at: '2026-07-06T18:22:19Z'
 resource_id: github:alvinreal/awesome-opensource-ai
-first_seen: '2026-07-09T09:47:27.499797+05:30'
-last_seen: '2026-07-09T09:47:27.499797+05:30'
-last_checked: '2026-07-09T09:47:27.499797+05:30'
+first_seen: '2026-07-09T21:07:24.145056+05:30'
+last_seen: '2026-07-09T21:07:24.145056+05:30'
+last_checked: '2026-07-09T21:07:24.145056+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Open-Source AI Repository**: A meticulously maintained GitHub list (`alvinreal/awesome-opensource-ai`) featuring state-of-the-art open-source AI projects, models, tools, and infrastructure, updated daily.
-- **Technical Scope**: Encompasses key AI domains including **agents**, **LLMs**, **RAG**, **MLOps**, and **generative AI**, with primary implementation in **Python**.
-- **Community Metrics**: High engagement with **4,043 stars**, **486 forks**, and last updated **July 9, 2026**, ensuring relevance in rapidly evolving AI landscape.
+- **Curated Collection**: Aggregates truly open-source AI projects, models, tools, and infrastructure, emphasizing transparency and accessibility in AI development.
+- **Technical Scope**: Encompasses agents, generative AI, LLMs, MLOps, and RAG systems, with daily updates to ensure relevance in rapidly evolving AI landscape.
+- **Repository Metrics**: Hosted on GitHub with 4,047 stars, 485 forks, primarily implemented in Python, and last updated on 2026-07-09.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: alvinreal
-- Stars: 4043
-- Forks: 486
+- Stars: 4047
+- Forks: 485
 - Language: Python
 - Topics: agents, ai, artificial-intelligence, awesome, awesome-list, generative-ai, llm, machine-learning, mlops, open-source, open-source-ai, rag
-- Last Updated: 2026-07-09T02:51:26Z
+- Last Updated: 2026-07-09T14:38:05Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2026-03-24T15:58:22Z

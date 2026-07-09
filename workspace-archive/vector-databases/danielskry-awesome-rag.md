@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Applications**: A comprehensive, community-driven repository listing cutting-edge Retrieval-Augmented Generation (RAG) applications in Generative AI, spanning diverse domains and use cases.
-- **High Engagement Metrics**: Demonstrates significant traction with **1,300 stars** and **168 forks**, indicating strong community interest and adoption.
-- **Multi-Topic Focus**: Covers core AI subfields including **LLMs, generative AI, and retrieval augmentation**, with the latest update as
+*   Aggregates diverse Retrieval-Augmented Generation (RAG) application examples and resources.
+*   Specializes in practical RAG implementations within Generative AI and Large Language Model (LLM) contexts.
+*   Serves as a community-curated index for RAG-specific tools and use cases.
 
 ## Use Cases
 

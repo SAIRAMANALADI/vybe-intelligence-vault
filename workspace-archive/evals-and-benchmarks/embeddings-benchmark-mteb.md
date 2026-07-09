@@ -6,7 +6,7 @@ source_url: https://github.com/embeddings-benchmark/mteb
 resource_id: github:embeddings-benchmark/mteb
 local_vault_path: ai/rag/embeddings-benchmark-mteb.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across 58 datasets spanning 11 tasks (e.g., retrieval, clustering, STS) in 12+ languages, supporting both monolingual and multilingual settings.
-- **Modality Support**: Extends evaluation to multimodal embeddings (text + image) via specialized tasks like image-text retrieval and cross-modal similarity.
-- **Standardized Framework**: Provides a unified Python API for consistent benchmarking of models (e.g., Sentence-BERT, SBERT) w
+- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across 58 datasets spanning 11 tasks (e.g., retrieval, clustering, STS) in 12+ languages, including low-resource languages, using standardized metrics (e.g., nDCG@10, Spearman correlation).
+
+- **Multimodal & Multilingual Support**: Supports evaluation for both text-only and multimodal embeddings (e.g., image-text pairs) with unified interfaces, enabling cross-modal and cross-lingual comparison of models like Sentence-BERT and CL
 
 ## Use Cases
 

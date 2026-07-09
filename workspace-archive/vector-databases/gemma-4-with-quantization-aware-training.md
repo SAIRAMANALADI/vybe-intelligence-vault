@@ -2,7 +2,7 @@
 title: Gemma 4 with quantization-aware training
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4
+source_url: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/
 resource_id: blog:gemma-4-with-quantization-aware-training
 local_vault_path: ai/rag/gemma-4-with-quantization-aware-training.md
 quality_score: 70
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Quantization-Aware Training (QAT)**: Integrates quantization into training to minimize quality loss, outperforming Post-Training Quantization (PTQ) while reducing memory footprint and accelerating inference for Gemma 4 models.
+- **Quantization-Aware Training (QAT)**: Integrates quantization during training to minimize quality loss, yielding higher overall quality compared to Post-Training Quantization (PTQ) for Gemma 4 models.
 
-- **Mobile-Optimized Quantization**: Custom schema for edge devices with static activations, channel-wise quantization, targeted 2-bit quantization for token generation layers, and KV cache optimization, reducing Gemma 4 E2B to **<1GB** memory usage.
+- **Mobile-Optimized Quantization**: Custom schema for edge devices includes static activations, channel-wise quantization, targeted 2-bit quantization for token generation, and embedding/KV cache optimization, reducing Gemma 4 E2B memory footprint to **<1GB**.
 
-- **Deployment &
+- **Deployment & Tooling Support
 
 ## Use Cases
 
@@ -50,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4
+Original source URL: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/
 
 ## Local Vault File
 

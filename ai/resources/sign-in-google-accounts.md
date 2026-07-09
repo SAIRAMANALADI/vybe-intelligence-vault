@@ -3,16 +3,16 @@ title: Sign in - Google Accounts
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://issuetracker.google.com/issues/new?component=186600&template=874803
-published_at: '2026-06-25T22:59:51.579766+05:30'
-collected_at: '2026-06-25T22:59:51.579773+05:30'
+source_url: https://security.google.com/settings/security/permissions
+published_at: '2026-07-09T21:17:37.061626+05:30'
+collected_at: '2026-07-09T21:17:37.061637+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:sign-in-google-accounts
-first_seen: '2026-06-25T22:59:51.579773+05:30'
-last_seen: '2026-06-25T22:59:51.579773+05:30'
-last_checked: '2026-06-25T22:59:51.579773+05:30'
+first_seen: '2026-07-09T21:17:37.061637+05:30'
+last_seen: '2026-07-09T21:17:37.061637+05:30'
+last_checked: '2026-07-09T21:17:37.061637+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Flow**: The page implements Google's OAuth-based sign-in flow with a `WebLiteSignIn` endpoint, requiring email/phone input and redirecting to `ServiceLogin` for credential validation.
+- **Authentication Interface**: Google's sign-in page requires user credentials (email/phone) for account access, with optional recovery options and private browsing mode for enhanced security.
 
-- **Recovery & Security**: Includes a `usernamerecovery` endpoint for forgotten emails and enforces private browsing mode (`Guest mode`) for non-trusted devices via `p=signin_privatebrowsing` parameter.
+- **Session Management**: Post-authentication, users are redirected to `myaccount.google.com/permissions` via a secure HTTPS flow (`dsh` and `ifkv` parameters likely track session state).
 
-- **Lifecycle Management**: Provides account creation via `GlifWebSignIn` flow (`SignUp` endpoint) and tracks post-authentication redirects using `followup` and `continue` query parameters for seamless issue submission.
+- **Account Provisioning**: New users can create accounts via `GlifWebSignIn` flow, with subsequent redirection to permissions management after signup completion.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-25T22:59:51.579766+05:30
+- Published: 2026-07-09T21:17:37.061626+05:30
 
 ## Related Tags
 
@@ -42,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://issuetracker.google.com/issues/new?component=186600&template=874803
+Original source: https://security.google.com/settings/security/permissions

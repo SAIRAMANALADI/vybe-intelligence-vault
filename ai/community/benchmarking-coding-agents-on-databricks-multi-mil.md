@@ -14,13 +14,14 @@ tags:
 - agents
 - benchmark
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:benchmarking-coding-agents-on-databricks-multi-mil
 first_seen: '2026-07-09T09:45:06.741612+05:30'
 last_seen: '2026-07-09T09:45:06.741612+05:30'
 last_checked: '2026-07-09T09:45:06.741612+05:30'
 health_score: 100
 ---
+
 
 # Benchmarking coding agents on Databricks' multi-million line codebase
 

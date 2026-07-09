@@ -8,13 +8,13 @@ local_vault_path: ai/rag/medium-partner-program.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - rag
 - web-crawled
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Medium Partner Program
@@ -23,15 +23,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Earnings Model**: Medium’s Partner Program compensates writers based on member engagement metrics—read time (≥30s), claps, highlights, replies, new follows, and Boosted story interactions—with earnings scaling with sustained reader engagement and community growth.
+- **Earnings Model**: Medium's Partner Program calculates writer earnings based on total views, read time (≥30s), and reader interactions (claps, highlights, replies, new follows), with additional bonuses for follower growth and Boosted content.
 
-- **Quality Incentives**: The program prioritizes long-form, high-quality content by rewarding member read time, positive interactions, and follower retention, explicitly discouraging clickbait in favor of meaningful storytelling.
+- **Quality Incentives**: Long-form, engaging content is prioritized; earnings scale with read duration and positive interactions, discouraging clickbait.
+
+- **Application & Support**: Writers apply via [Partner Program application](https://medium.com/p
 
 ## Use Cases
 

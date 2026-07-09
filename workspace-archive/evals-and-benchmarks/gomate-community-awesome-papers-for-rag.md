@@ -6,11 +6,12 @@ source_url: https://github.com/gomate-community/awesome-papers-for-rag
 resource_id: github:gomate-community/awesome-papers-for-rag
 local_vault_path: ai/rag/gomate-community-awesome-papers-for-rag.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
 - hackernews
 - paper
@@ -18,7 +19,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # gomate-community/awesome-papers-for-rag
@@ -26,17 +27,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, blogs, and technical reports on retrieval-augmented generation (RAG), focusing on advancements, methodologies, and applications.
-- **Python-Centric**: Primarily Python-based, facilitating integration with popular libraries (e.g., Hugging Face, LangChain) for RAG pipeline implementation and experimentation.
-- **Community-Driven**: Open-source project with 136 stars and 12 forks, last updated July 2026, emphasizing collaborat
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG), including implementations and benchmarks.
+- **Python-Centric**: Focuses on Python-based tools, libraries (e.g., LangChain, Haystack), and frameworks for RAG pipeline development and evaluation.
+- **Last Updated**: Repository metadata indicates last synchronization on **2026-07-01T02:40:05Z**, reflecting recent but not real-time updates.
 
 ## Use Cases
 

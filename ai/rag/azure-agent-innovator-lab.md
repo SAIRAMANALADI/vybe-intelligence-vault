@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/agent-innovator-lab
-collected_at: '2026-07-09T09:47:22.592435+05:30'
+collected_at: '2026-07-09T21:07:19.159724+05:30'
 published_at: '2026-06-30T14:03:05Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 stars: 57
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-01-02T08:11:52Z'
 pushed_at: '2026-02-20T14:45:01Z'
 resource_id: github:azure/agent-innovator-lab
-first_seen: '2026-07-09T09:47:22.592435+05:30'
-last_seen: '2026-07-09T09:47:22.592435+05:30'
-last_checked: '2026-07-09T09:47:22.592435+05:30'
+first_seen: '2026-07-09T21:07:19.159724+05:30'
+last_seen: '2026-07-09T21:07:19.159724+05:30'
+last_checked: '2026-07-09T21:07:19.159724+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository for building AI agents on Azure, focusing on search optimization, agent design, evaluation, and RAG best practices.
-- **Technical Stack**: Primarily implemented using Jupyter Notebooks, facilitating interactive development and experimentation.
-- **Metadata**: 57 stars, 32 forks, last updated on 2026-06-30T14:03:05Z.
+*   Focuses on AI agent development and deployment within the Azure ecosystem.
+*   Explores advanced agent design patterns and robust evaluation methodologies.
+*   Covers search optimization strategies and best practices for Retrieval-Augmented Generation (RAG) in agent architectures.
 
 ## Why It Matters
 

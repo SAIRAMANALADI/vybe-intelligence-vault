@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-07-09T09:47:42.602691+05:30'
-published_at: '2026-07-08T21:19:56Z'
+collected_at: '2026-07-09T21:07:39.167775+05:30'
+published_at: '2026-07-09T14:22:36Z'
 tags:
 - frontend_ui
 - github-repo
@@ -14,8 +14,7 @@ tags:
 - openai
 - python
 - rag
-- workflows
-stars: 39189
+stars: 39190
 language: Python
 status: active
 license: NOASSERTION
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-07-09T09:47:42.602691+05:30'
-last_seen: '2026-07-09T09:47:42.602691+05:30'
-last_checked: '2026-07-09T09:47:42.602691+05:30'
+first_seen: '2026-07-09T21:07:39.167775+05:30'
+last_seen: '2026-07-09T21:07:39.167775+05:30'
+last_checked: '2026-07-09T21:07:39.167775+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while enabling customization for diverse use cases.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization across LLMs (e.g., GPT4, Groq, Llama), vector stores (e.g., PGVector, Faiss), and file types.
 
-- **Multi-LLM & Vector Store Support**: Compatible with any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), supporting flexible file ingestion and storage configurations for scalable AI-driven workflows.
+- **Multi-Platform Compatibility**: Supports integration with any LLM backend, vector database, and file formats, with Docker support for deployment, and includes a React-based frontend for chatbot interfaces.
 
-- **Tech Stack & Deployment**: Built in Python with a React/TypeScript frontend, Dockerized for deployment, and supports PostgreSQL for metadata storage, emphasizing privacy, security, and extensibility for modern AI applications.
+- **Privacy & Security Focus**: Emphasizes data privacy and security, offering PostgreSQL-backed storage and customizable deployment options for enterprise-grade applications.
 
 ## Why It Matters
 
@@ -46,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: QuivrHQ
-- Stars: 39189
-- Forks: 3721
+- Stars: 39190
+- Forks: 3720
 - Language: Python
 - Topics: ai, api, chatbot, chatgpt, database, docker, framework, frontend, groq, html, javascript, llm, openai, postgresql, privacy, rag, react, security, typescript, vector
-- Last Updated: 2026-07-08T21:19:56Z
+- Last Updated: 2026-07-09T14:22:36Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-05-12T23:53:30Z

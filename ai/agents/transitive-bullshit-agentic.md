@@ -4,15 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/transitive-bullshit/agentic
-collected_at: '2026-07-09T01:31:36.851981+05:30'
-published_at: '2026-07-08T19:08:14Z'
+collected_at: '2026-07-09T21:09:59.271458+05:30'
+published_at: '2026-07-09T14:28:19Z'
 tags:
 - agents
+- frontend_ui
 - github-repo
 - openai
 - typescript
 - workflows
-stars: 18117
+stars: 18118
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -20,9 +21,9 @@ archived: true
 created_at: '2022-12-03T00:05:09Z'
 pushed_at: '2026-02-11T04:50:03Z'
 resource_id: github:transitive-bullshit/agentic
-first_seen: '2026-07-09T01:31:36.851981+05:30'
-last_seen: '2026-07-09T01:31:36.851981+05:30'
-last_checked: '2026-07-09T01:31:36.851981+05:30'
+first_seen: '2026-07-09T21:09:59.271458+05:30'
+last_seen: '2026-07-09T21:09:59.271458+05:30'
+last_checked: '2026-07-09T21:09:59.271458+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic**: A TypeScript framework enabling rapid conversion of APIs into paid MCP (Model Context Protocol) servers, facilitating monetization of AI/LLM agent interactions.
-- **Key Features**: Supports OpenAI-compatible agent workflows, integrates with LLMs, and provides tooling for API-to-MCP transformation with minimal setup.
-- **Ecosystem**: Targets AI agent developers, emphasizes OpenAPI/SDK-based MCP generation, and includes examples for OpenAI Function Calling and MCP client/server implementations.
+- **TypeScript-based MCP Framework**: Open-source library for converting APIs into Model Context Protocol (MCP) servers, enabling seamless integration with LLMs and AI agents.
+
+- **Agentic Workflows**: Supports structured agentic patterns (e.g., ReAct, Plan-Execute) for autonomous task execution with OpenAI-compatible tooling.
+
+- **Real-time Updates**: Actively maintained with frequent commits (last update: 2026-07-09), optimized for modern AI agent architectures.
 
 ## Why It Matters
 
@@ -41,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: transitive-bullshit
-- Stars: 18117
+- Stars: 18118
 - Forks: 2230
 - Language: TypeScript
 - Topics: agents, ai, llms, openai
-- Last Updated: 2026-07-08T19:08:14Z
+- Last Updated: 2026-07-09T14:28:19Z
 - License: NOASSERTION
 - Archived: Yes
 - Created At: 2022-12-03T00:05:09Z

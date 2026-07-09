@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-07-09T09:50:32.869005+05:30'
+collected_at: '2026-07-09T21:10:29.431029+05:30'
 published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - openai
 - python
 - rag
-- scripts
 - workflows
 stars: 59
 language: Python
@@ -23,9 +22,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-07-09T09:50:32.869005+05:30'
-last_seen: '2026-07-09T09:50:32.869005+05:30'
-last_checked: '2026-07-09T09:50:32.869005+05:30'
+first_seen: '2026-07-09T21:10:29.431029+05:30'
+last_seen: '2026-07-09T21:10:29.431029+05:30'
+last_checked: '2026-07-09T21:10:29.431029+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent RAG Framework**: Implements a collaborative system of AI agents (using CrewAI, AutoGen) for document processing, analysis, and insight generation via Retrieval-Augmented Generation (RAG) with ChromaDB, Pinecone, or Weaviate vector stores.
+- **Multi-Agent Architecture**: Implements a collaborative team of AI agents using frameworks like CrewAI, AutoGen, and Swarms to process, analyze, and generate insights from documents via parallelized workflows.
 
-- **Agent Orchestration & Integration**: Supports agent teams with tools like LangChain for workflow automation, Discord for real-time interaction, and compatibility with OpenAI (GPT-3.5/4/5), Anthropic, and other LLM backends.
+- **RAG Integration**: Supports retrieval-augmented generation (RAG) with vector databases (ChromaDB, Pinecone, Weaviate) and LLM APIs (OpenAI GPT-3.5/4/5, Anthropic) for contextual document retrieval and synthesis.
 
-- **Scalable Architecture**: Modular Python template optimized for multi-agent collaboration, with last update (2026-07-08) ensuring compatibility with modern AI/ML libraries and vector databases.
+- **Scalable Tooling**: Includes Discord integration for real-time agent coordination, LangChain for pipeline orchestration, and modular Python-based components for extensibility across agentic workflows.
 
 ## Why It Matters
 
