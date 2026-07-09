@@ -1,27 +1,27 @@
 ---
 title: "ivanostanin/lucius-mcp"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "Starlette", "uv", "Nuitka", "Pydantic", "Cyclopts", "Joserfc"]
+category: "Agent Framework"
+tech_stack: ["Python", "FastMCP", "Starlette", "uv", "Model Context Protocol (MCP)", "Allure TestOps API"]
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP Server", "Test Management", "Allure TestOps", "AI Agent Integration", "CLI Tool"]
+tags: ["MCP Server", "TestOps Integration", "AI Agent Tools", "Test Management", "Automation"]
 source: "https://github.com/ivanostanin/lucius-mcp"
-discovered_at: "2026-07-09T19:31:30Z"
+discovered_at: "2026-07-09T21:19:00Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Lucius is an MCP server and CLI tool designed to simplify interactions with Allure TestOps, a test management system. It provides structured, AI-friendly tools for managing test cases, launches, defects, and other test management workflows.
+Lucius is an MCP server designed to interact with Allure TestOps, providing AI agents with structured tools for test case management, launch execution, defect tracking, and hierarchical test organization. It simplifies complex Allure TestOps APIs into clear, agent-friendly interfaces with helpful error messages.
 
 ## Key Features
-- Specialized MCP server for Allure TestOps with 30+ structured tools for test case, launch, defect, and suite management
-- Agent-friendly error handling with 'Agent Hints' to guide AI tools in fixing mistakes
-- CLI interface for direct tool execution with type-safe validation and multiple output formats
-- Telemetry for improving tool quality while preserving privacy (no sensitive data collected)
-- Integration guides for Claude Desktop, Claude Code, and Codex
+- Specialized MCP server for Allure TestOps with 30+ structured tools for test lifecycle management
+- Agent-friendly error handling with 'Agent Hints' to guide AI corrections
+- CLI and MCP server dual-mode for direct execution or AI integration
+- Telemetry for usage analytics (opt-out available)
+- Comprehensive documentation including setup guides and tool references
 
 ## Why It Matters for RAG Builders
-Lucius bridges the gap between AI agents and Allure TestOps by providing structured, AI-friendly tools that reduce complexity and errors in test management workflows.
+Lucius bridges the gap between AI agents and Allure TestOps by providing structured, error-resistant tools that simplify complex test management workflows for AI-driven automation.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -36,17 +36,11 @@ Automated review identified **Starlette** as a key module contributing to infras
 ### uv
 Automated review identified **uv** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Nuitka
-Automated review identified **Nuitka** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Pydantic
-Automated review identified **Pydantic** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Cyclopts
-Automated review identified **Cyclopts** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Joserfc
-Automated review identified **Joserfc** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Allure TestOps API
+Automated review identified **Allure TestOps API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
