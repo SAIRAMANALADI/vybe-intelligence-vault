@@ -6,10 +6,10 @@ source_url: https://github.com/addyosmani/agent-skills
 resource_id: github:addyosmani/agent-skills
 local_vault_path: ai/agents/addyosmani-agent-skills.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: workflow
-importance: medium
+importance: high
 tags:
 - agents
 - anthropic
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Production-grade engineering skills for AI coding agents, maintained by addyosmani, with 75,570 stars and 8,122 forks as of July 9, 2026.
-- **Technical Focus**: JavaScript-based skills optimized for AI agents (e.g., Claude Code, Codex, Cursor) to enhance code generation, debugging, and optimization workflows.
-- **Key Topics**: Specialized in `agent-skills`, `antigravity` (simulated gravity in JS), and integration with modern AI-driven development tools.
+- **Repository Overview**: Production-grade engineering skills for AI coding agents, maintained by Addy Osmani, with 75,814 stars and 8,153 forks as of July 9, 2026.
+- **Technical Focus**: JavaScript-based repository providing specialized "skills" for AI agents (e.g., `claude-code`, `codex`, `cursor`) to enhance coding workflows.
+- **Purpose**: Optimizes AI coding agent capabilities with production-ready tools and methodologies (e.g., `antigravity` for advanced agent interactions).
 
 ## Use Cases
 

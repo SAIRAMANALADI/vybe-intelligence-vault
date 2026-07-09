@@ -3,9 +3,9 @@ title: URL Standard
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://url.spec.whatwg.org
-published_at: '2026-06-24T20:58:09.302194+05:30'
-collected_at: '2026-06-24T20:58:09.302212+05:30'
+source_url: https://url.spec.whatwg.org/
+published_at: '2026-07-10T04:24:31.746616+05:30'
+collected_at: '2026-07-10T04:24:31.746624+05:30'
 tags:
 - agents
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:url-standard
-first_seen: '2026-06-24T20:58:09.302212+05:30'
-last_seen: '2026-06-24T20:58:09.302212+05:30'
-last_checked: '2026-06-24T20:58:09.302212+05:30'
+first_seen: '2026-07-10T04:24:31.746624+05:30'
+last_seen: '2026-07-10T04:24:31.746624+05:30'
+last_checked: '2026-07-10T04:24:31.746624+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Unify URL standards**: Align RFC 3986/3987 with modern implementations, standardize terminology to "URL" (replacing URI/IRI), and obsolete outdated RFCs while ensuring parsing robustness comparable to HTML parsing.
+- **Unified URL Standardization**: Aligns RFC 3986/3987 with modern implementations, obsoleting them to standardize URL parsing (e.g., spaces, encoding, canonicalization) and consolidates URI/IRI under the term "URL" for interoperability.
 
-- **Define canonical URL behavior**: Specify URL parsing, serialization, and JavaScript API (including a new `URL` object for worker environments) to guarantee idempotence—parse→serialize→parse cycles must yield identical results.
+- **Parser/Serializer Idempotence**: Defines URL parsing, serialization, and JavaScript API to ensure parse-then-serialize and API manipulations are idempotent, preventing unintended changes across operations.
 
-- **Standardize error handling**: Enforce validation errors (e.g., IDNA failures, IPv4/IPv6 parsing issues) with explicit failure modes and encourage user agents to report them, ensuring consistent behavior across implementations.
+- **Validation Errors & Host Parsing**: Specifies strict validation for host parsing (e.g., IDNA errors, IPv4/IPv6 constraints) and requires percent-decoding of hosts in special URLs, with detailed error reporting for edge cases.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T20:58:09.302194+05:30
+- Published: 2026-07-10T04:24:31.746616+05:30
 
 ## Related Tags
 
@@ -50,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://url.spec.whatwg.org
+Original source: https://url.spec.whatwg.org/

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Prat011/awesome-llm-skills
-collected_at: '2026-07-09T21:09:09.288055+05:30'
+collected_at: '2026-07-10T04:19:05.953924+05:30'
 published_at: '2026-07-09T05:02:51Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-10-22T06:15:37Z'
 pushed_at: '2026-06-23T07:39:26Z'
 resource_id: github:prat011/awesome-llm-skills
-first_seen: '2026-07-09T21:09:09.288055+05:30'
-last_seen: '2026-07-09T21:09:09.288055+05:30'
-last_checked: '2026-07-09T21:09:09.288055+05:30'
+first_seen: '2026-07-10T04:19:05.953924+05:30'
+last_seen: '2026-07-10T04:19:05.953924+05:30'
+last_checked: '2026-07-10T04:19:05.953924+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated LLM/AI Agent Skills Repository**: Hosts a structured collection of tools, resources, and skills for customizing AI agent workflows, compatible with platforms like Claude Code, Codex, and Gemini CLI.
-
-- **Multi-Platform Support**: Includes integrations for Anthropic, OpenAI, Google (Gemini), Meta (Llama), Qwen, and other LLM frameworks, with CLI tools (e.g., `claude-skills`, `gemini-cli`).
-
-- **Python-Based & Open-Source**: Repository is Python-centric, actively maintained (last update: 2026-07-09), and features 1.3K+ stars and 222 forks, emphasizing extensibility for custom AI agents.
+- **Curated LLM/Agent Skills Repository**: Hosts a structured collection of tools, resources, and skills for customizing AI agent workflows, compatible with **Claude Code, Codex, Gemini CLI**, and custom agents.
+- **Multi-Model & CLI Support**: Includes integrations for **Anthropic, OpenAI, Google (Gemini), Llama, Qwen**, and others, with CLI tools like **Codex CLI, Gemini CLI**, and **OpenCode**.
+- **Python-Based & Actively Maintained**: Primarily Python-based, last updated **July 2026**, with **1.3K+ stars** and **222 forks**, focusing on **agent skills, workflows, and model-specific optimizations**.
 
 ## Why It Matters
 

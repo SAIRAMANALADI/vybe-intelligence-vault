@@ -1,6 +1,5 @@
 ---
-title: ProductJun 23, 2026Introducing Claude TagClaude Tag is a new way for teams
-  to work with Claude.
+title: Jun 23, 2026ProductIntroducing Claude Tag
 archive_category: model-providers
 source_category: ai/companies/anthropic
 source_url: https://anthropic.com/news/introducing-claude-tag
@@ -20,7 +19,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# ProductJun 23, 2026Introducing Claude TagClaude Tag is a new way for teams to work with Claude.
+# Jun 23, 2026ProductIntroducing Claude Tag
 
 ## Why This Is In The Archive
 
@@ -33,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Recent update from Anthropic News Blog: ProductJun 23, 2026Introducing Claude TagClaude Tag is a new way for teams to work with Claude.
+Recent update from Anthropic News Blog: Jun 23, 2026ProductIntroducing Claude Tag
 
 ## Use Cases
 

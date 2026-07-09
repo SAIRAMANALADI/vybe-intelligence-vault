@@ -8,7 +8,7 @@ local_vault_path: ai/agents/joshuac215-agent-service-toolkit.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # JoshuaC215/agent-service-toolkit
@@ -26,18 +26,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Framework Integration**: Combines LangGraph for agent orchestration, FastAPI for backend REST services, and Streamlit for frontend UI in a Python-based AI agent toolkit.
+- **Architecture**: Implements an AI agent service using **LangGraph** for stateful workflows, **FastAPI** for RESTful endpoints, and **Streamlit** for interactive UI components.
 
-- **Modular Architecture**: Designed for extensibility with tool-based agent interactions, enabling custom workflows via LangGraph’s stateful graph execution.
+- **Key Features**: Provides a modular toolkit for agent orchestration, including state management, tool integration, and scalable API endpoints with FastAPI.
 
-- **Deployment Ready**: Includes FastAPI endpoints for agent service management and Streamlit components for real-time UI, optimized for scalable AI agent deployment
+- **Deployment**: Supports deployment via Streamlit for frontend visualization and FastAPI for backend agent service, with stateful workflows managed by LangGra
 
 ## Use Cases
 

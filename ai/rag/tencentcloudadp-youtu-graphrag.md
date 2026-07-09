@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-07-09T21:07:59.199040+05:30'
+collected_at: '2026-07-10T04:17:55.910803+05:30'
 published_at: '2026-07-06T10:13:21Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 stars: 1216
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-07-09T21:07:59.199040+05:30'
-last_seen: '2026-07-09T21:07:59.199040+05:30'
-last_checked: '2026-07-09T21:07:59.199040+05:30'
+first_seen: '2026-07-10T04:17:55.910803+05:30'
+last_seen: '2026-07-10T04:17:55.910803+05:30'
+last_checked: '2026-07-10T04:17:55.910803+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced context-awareness.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., graph retrievers, planners, executors) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced retrieval-augmented generation (RAG).
 
-- **Graph Retrieval-Augmented Reasoning**: Integrates graph-based retrieval with large language models (LLMs) to dynamically construct and traverse knowledge graphs, enabling efficient handling of multi-hop queries and long-range dependencies.
+- **Graph-Centric RAG**: Integrates graph neural networks (GNNs) with LLM-based agents to enable dynamic knowledge graph traversal, improving contextual relevance and multi-hop reasoning in unstructured or semi-structured data.
 
-- **Optimized for ICLR 2026**: Implements advanced techniques like adaptive graph pruning, dynamic agent routing, and memory-augmented reasoning to improve scalability and accuracy in complex reasoning benchmarks.
+- **Performance Optimization**: Implements adaptive agent routing and memory-efficient graph processing (e.g., subgraph sampling, pruning) to scale reasoning tasks while maintaining low latency, validated on ICLR 2026 benchmarks.
 
 ## Why It Matters
 

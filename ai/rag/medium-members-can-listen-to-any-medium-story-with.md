@@ -5,18 +5,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.com/medium
-published_at: '2026-07-09T09:53:05.873963+05:30'
-collected_at: '2026-07-09T09:53:05.873978+05:30'
+published_at: '2026-07-10T04:25:29.972259+05:30'
+collected_at: '2026-07-10T04:25:29.972272+05:30'
 tags:
 - producthunt
 - rag
 - web-crawled
-- workflows
 status: active
 resource_id: blog:medium-members-can-listen-to-any-medium-story-with
-first_seen: '2026-07-09T09:53:05.873978+05:30'
-last_seen: '2026-07-09T09:53:05.873978+05:30'
-last_checked: '2026-07-09T09:53:05.873978+05:30'
+first_seen: '2026-07-10T04:25:29.972272+05:30'
+last_seen: '2026-07-10T04:25:29.972272+05:30'
+last_checked: '2026-07-10T04:25:29.972272+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Integration & Accessibility**: Medium’s "Listen" feature, powered by Speechify, enables Medium members to convert any article into audio with synchronized text highlighting, supporting multitasking (e.g., commuting, exercising) and improving accessibility for users with dyslexia or visual impairments.
+- **Integration & Accessibility**: Medium’s partnership with Speechify enables all Medium members to convert text-to-audio via the "Listen" feature, supporting multi-modal consumption (e.g., during commutes, workouts, or sleep) with synchronized text highlighting for improved retention.
 
-- **Performance & Customization**: Users can adjust playback speed (0.5x–4.5x) and select from multiple narrators, with reports of up to 3x higher content consumption and enhanced retention when combining listening with simultaneous text tracking.
+- **Performance & Customization**: Users can adjust playback speed (0.5x–4.5x) for productivity, with anecdotal reports of consuming up to 3x more content; writers leverage the feature for proofreading by detecting awkward phrasing in drafts.
 
-- **Proofreading & Workflow**: Writers can leverage the feature to proofread drafts by converting text to speech, identifying awkward phrasing or errors through auditory feedback, and sharing drafts via a shareable link for external review.
+- **Inclusivity & UX**: The tool aids users with dyslexia or visual impairments by bypassing traditional reading barriers; voice selection and playback speed adjustments enhance personalization.
 
 ## Why It Matters
 
@@ -38,14 +37,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T09:53:05.873963+05:30
+- Published: 2026-07-10T04:25:29.972259+05:30
 
 ## Related Tags
 
 - producthunt
 - rag
 - web-crawled
-- workflows
 
 ## Source
 

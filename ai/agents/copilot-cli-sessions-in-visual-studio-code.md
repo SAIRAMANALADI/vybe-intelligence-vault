@@ -4,17 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
-published_at: '2026-07-09T01:36:13.074028+05:30'
-collected_at: '2026-07-09T01:36:13.074041+05:30'
+published_at: '2026-07-10T04:22:05.450533+05:30'
+collected_at: '2026-07-10T04:22:05.450545+05:30'
 tags:
 - agents
 - openai
 - web-crawled
 status: active
 resource_id: blog:copilot-cli-sessions-in-visual-studio-code
-first_seen: '2026-07-09T01:36:13.074041+05:30'
-last_seen: '2026-07-09T01:36:13.074041+05:30'
-last_checked: '2026-07-09T01:36:13.074041+05:30'
+first_seen: '2026-07-10T04:22:05.450545+05:30'
+last_seen: '2026-07-10T04:22:05.450545+05:30'
+last_checked: '2026-07-10T04:22:05.450545+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Copilot CLI Sessions**: VS Code supports background agent sessions via GitHub Copilot CLI, enabling autonomous task execution (e.g., feature implementation, POC variants) with local execution outside the editor, monitored via the Chat view.
-
-- **Isolation Modes**: Two isolation modes are supported—**Worktree** (isolated Git worktree for changes) and **Folder** (direct workspace modifications)—with Worktree auto-approving tool calls and Folder offering configurable permission levels (Default/Bypass/Autopilot).
-
-- **Session Management**: Sessions can be initiated via Chat view or commands, support slash commands (e.g., `/research`, `/yolo`), and integrate with VS Code’s Copilot SDK for lifecycle control (start/stop/monitor).
+- **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via Copilot CLI, managed through the Chat view; supports multi-repository workspaces, custom agents, and deep research via `/research` command.
+- **Isolation Modes**: Two isolation modes—**Worktree** (isolated Git worktree for safe changes) and **Folder** (direct workspace modifications)—with auto-approval in Worktree mode and configurable permissions in Folder mode.
+- **Permissions & Approvals**: Worktree isolation enforces **Bypass Approvals**; Folder isolation supports **Default Approvals**, **Bypass Approvals**, and **Autopilot** modes, configurable via chat input permissions picker.
 
 ## Why It Matters
 
@@ -36,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-09T01:36:13.074028+05:30
+- Published: 2026-07-10T04:22:05.450533+05:30
 
 ## Related Tags
 

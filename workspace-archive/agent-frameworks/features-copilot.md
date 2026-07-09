@@ -2,13 +2,13 @@
 title: GitHub Copilot CLI · GitHub
 archive_category: agent-frameworks
 source_category: ai/agents
-source_url: https://github.com/features/copilot/cli
+source_url: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
 resource_id: github:features/copilot
 local_vault_path: ai/agents/features-copilot.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -30,16 +30,16 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: mcp-server
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Multi-Agent Parallel Execution**: Copilot CLI supports `/fleet` mode to parallelize tasks across multiple subagents, enabling concurrent execution of the same task with convergence on a decision-ready result, while maintaining user control via explicit approvals.
+- **Multi-Agent Orchestration**: Copilot CLI enables parallelized subagent execution via `/fleet`, allowing concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, converging on decision-ready outputs while maintaining user control.
 
-- **GitHub-Native MCP Integration**: Built on GitHub’s native Model Context Protocol (MCP) server, it directly interacts with issues, pull requests, branches, and labels, enabling seamless workflows from `/plan` to merged PRs witho
+- **GitHub-Native Workflow Integration**: Built on GitHub’s native Model Context Protocol (MCP) and `/mcp` server, it directly interacts with issues, PRs, branches, and labels, inheriting organizational policies (
 
 ## Use Cases
 
@@ -49,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/features/copilot/cli
+Original source URL: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
 
 ## Local Vault File
 

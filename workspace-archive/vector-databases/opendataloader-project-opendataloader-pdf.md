@@ -8,12 +8,14 @@ local_vault_path: ai/rag/opendataloader-project-opendataloader-pdf.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
 - java
 - rag
+- scripts
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -24,17 +26,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: benchmark
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Java-based PDF Parser**: Open-source tool (`opendataloader-pdf`) for extracting structured data (HTML, JSON, Markdown) from PDFs, supporting OCR for scanned documents and tagged/PDF-UA compliance for accessibility.
+- **Java-based PDF Parser**: Open-source tool (`opendataloader-pdf`) designed for AI-ready data extraction from PDFs, supporting accessibility standards (e.g., PDF/UA, WCAG) and structured outputs (HTML, JSON, Markdown).
 
-- **AI-Ready Data Extraction**: Automates document parsing with bounding-box detection, table extraction, and layout analysis to generate AI-compatible formats (e.g., RAG-optimized outputs).
+- **Advanced Features**: Includes OCR for scanned PDFs, bounding-box detection, table extraction, and tagged-PDF support for semantic parsing, enabling automation of document accessibility workflows.
 
-- **Multi-Format Output & Accessibility**: Converts PDFs to accessible HTML/JSON/Markdow
+- **Integration & Outputs**: Supports Rag (Retrieval-Augmented Generation) pi
 
 ## Use Cases
 

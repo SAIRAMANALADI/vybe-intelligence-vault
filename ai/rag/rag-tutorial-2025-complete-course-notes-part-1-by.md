@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280
-published_at: '2026-07-09T21:06:24.111026+05:30'
-collected_at: '2026-07-09T21:06:24.111037+05:30'
+published_at: '2026-07-10T04:16:19.642297+05:30'
+collected_at: '2026-07-10T04:16:19.642314+05:30'
 tags:
 - agents
 - anthropic
@@ -18,13 +18,12 @@ tags:
 - producthunt
 - rag
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
-first_seen: '2026-07-09T21:06:24.111037+05:30'
-last_seen: '2026-07-09T21:06:24.111037+05:30'
-last_checked: '2026-07-09T21:06:24.111037+05:30'
+first_seen: '2026-07-10T04:16:19.642314+05:30'
+last_seen: '2026-07-10T04:16:19.642314+05:30'
+last_checked: '2026-07-10T04:16:19.642314+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: RAG combines LLMs with retrieval systems to fetch relevant external information (documents, databases) dynamically, avoiding context window overload by injecting only pertinent chunks into the LLM prompt.
+- **RAG Architecture**: Combines LLMs with retrieval systems to fetch external information (e.g., documents, databases) for enhanced responses while avoiding context window overload; splits into **injection pipeline** (chunking + embedding) and **retrieval pipeline** (query embedding + similarity search).
 
-- **Embedding Pipeline**: Raw text is chunked (e.g., 1,000 tokens per chunk), converted into high-dimensional vector embeddings (e.g., 3,072D for OpenAI’s `text-embedding-3-large`), and stored in vector databases (e.g., Pinecone, Weaviate) for semantic similarity matching.
+- **Embedding Mechanics**: Converts text chunks into high-dimensional vectors (e.g., OpenAI’s `text-embedding-3-large` uses 3,072 dimensions) to capture semantic meaning; similarity search (e.g., cosine distance) retrieves relevant chunks for LLM input.
 
-- **Retrieval Workflow**: User queries are embedded and matched against stored vectors using similarity algorithms (e.g., cosine distance), retrieving top-*k* relevant chunks which are then passed to the LLM for answer generation.
+- **Vector Databases**: Stores embeddings (e.g., Pinecone, Weaviate, FAISS) for efficient retrieval; user queries are embedded and matched against stored vectors to fetch top-*k* relevant text chunks for LLM generation.
 
 ## Why It Matters
 
@@ -46,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T21:06:24.111026+05:30
+- Published: 2026-07-10T04:16:19.642297+05:30
 
 ## Related Tags
 
@@ -61,7 +60,6 @@ General public resource representing technology updates, guides, or tutorials.
 - producthunt
 - rag
 - web-crawled
-- workflows
 - youtube
 
 ## Source

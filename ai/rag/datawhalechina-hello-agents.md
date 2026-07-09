@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/hello-agents
-collected_at: '2026-07-09T21:06:29.153854+05:30'
-published_at: '2026-07-09T15:32:24Z'
+collected_at: '2026-07-10T04:16:25.887403+05:30'
+published_at: '2026-07-09T22:04:03Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-stars: 65125
+stars: 65145
 language: Python
 status: active
 license: NOASSERTION
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-09-07T09:50:24Z'
 pushed_at: '2026-07-06T05:06:10Z'
 resource_id: github:datawhalechina/hello-agents
-first_seen: '2026-07-09T21:06:29.153854+05:30'
-last_seen: '2026-07-09T21:06:29.153854+05:30'
-last_checked: '2026-07-09T21:06:29.153854+05:30'
+first_seen: '2026-07-10T04:16:25.887403+05:30'
+last_seen: '2026-07-10T04:16:25.887403+05:30'
+last_checked: '2026-07-10T04:16:25.887403+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A comprehensive Chinese tutorial repository (`datawhalechina/hello-agents`) for building intelligent agents from scratch, covering theory and practical implementation.
-
-- **Technical Scope**: Focuses on Python-based agent development, integrating Large Language Models (LLM), Retrieval-Augmented Generation (RAG), and agent architectures.
-
-- **Metadata**: 65,125 stars, 8,074 forks; last updated July 9, 2026; part of the Datawhale China educational initiative.
+*   Comprehensive tutorial on intelligent agent construction, emphasizing foundational principles and practical implementation.
+*   Integrates Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) as core architectural components for agent development.
+*   Python-based educational resource providing a step-by-step guide for building agents from scratch.
 
 ## Why It Matters
 
@@ -43,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 65125
-- Forks: 8074
+- Stars: 65145
+- Forks: 8077
 - Language: Python
 - Topics: agent, llm, rag, tutorial
-- Last Updated: 2026-07-09T15:32:24Z
+- Last Updated: 2026-07-09T22:04:03Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-07T09:50:24Z

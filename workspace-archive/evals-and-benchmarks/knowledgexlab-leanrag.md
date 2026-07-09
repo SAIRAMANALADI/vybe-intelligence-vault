@@ -34,9 +34,9 @@ selection_reason:
 
 - **Semantic Aggregation Mechanism**: Implements a knowledge-graph-based approach to aggregate and contextualize retrieved information using semantic relationships, enhancing the relevance of generated outputs.
 
-- **Hierarchical Retrieval Strategy**: Utilizes a multi-layered retrieval system to progressively refine and filter knowledge, optimizing both precision and computational efficiency in RAG pipelines.
+- **Hierarchical Retrieval Strategy**: Utilizes a multi-layered retrieval system to progressively refine and extract the most pertinent data from the knowledge graph, optimizing both precision and recall.
 
-- **AAAI 2026 Framework**: Designed as a lightweight, Python-based framework for knowle
+- **Efficiency Optimization**: Designed for AAAI 2026, the framework emphasizes li
 
 ## Use Cases
 

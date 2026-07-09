@@ -7,9 +7,9 @@ source_url: https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-ste
 resource_id: blog:build-rag-from-scratch-a-beginners-step-by-step-gu
 local_vault_path: ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: template
 importance: medium
 tags:
 - openai
@@ -17,7 +17,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium
@@ -25,17 +25,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Prompt Libraries`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **RAG Pipeline**: Implements a retrieval-augmented generation system using a two-step process: (1) **semantic retrieval** via FAISS vector store (indexed embeddings of document chunks) and (2) **context-grounded generation** using OpenAI’s LLM constrained by retrieved context to prevent hallucinations.
+- **Modular RAG Pipeline**: Implements a three-stage RAG system—document loading/splitting, vector embedding storage (FAISS), and retrieval-augmented generation—using LangChain for orchestration and OpenAI embeddings/LLM for semantic processing.
 
-- **Modular Architecture**: Decomposes the system into four core components—`document_loader.py` (text splitting), `vector_store.py` (FAISS indexing with OpenAI embeddings), `rag_chain.py` (pro
+- **Hallucination Mitigation**: Enforces context-grounded responses via a constrained prompt template that forces the LLM to answer only from retrieved documents or return "I don't know," eliminating unsupported claims.
+
+- **Local-First Architecture**:
 
 ## Use Cases
 

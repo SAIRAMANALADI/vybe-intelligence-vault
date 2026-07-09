@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Platform Agent Framework**: Provides open-source infrastructure (sandboxes, SDKs, benchmarks) for training and evaluating AI agents capable of controlling full desktop environments across macOS, Linux, and Windows.
-
-- **Virtualization & Containerization**: Implements virtualization frameworks (e.g., Apple Virtualization, Windows Sandbox) and containerization tools to isolate and manage agent execution environments securely.
-
-- **Cross-Platform SDK & Benchmarks**: Includes specialized S
+- **Cross-platform desktop automation framework** supporting macOS, Linux, and Windows via containerization and virtualization (e.g., Windows Sandbox, Apple Virtualization Framework).
+- **Sandboxed environments** for safe AI agent training/evaluation, with SDKs for desktop control (UI interaction, file ops, app automation).
+- **Benchmarks & tools** (e.g., Lume, Manus) for evaluating Computer-Use Agents (CUAs) in standardized desktop tasks.
 
 ## Use Cases
 

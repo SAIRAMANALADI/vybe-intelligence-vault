@@ -1,12 +1,11 @@
 ---
-title: ProductJun 23, 2026Introducing Claude TagClaude Tag is a new way for teams
-  to work with Claude.
+title: Jun 23, 2026ProductIntroducing Claude Tag
 category: ai/companies/anthropic
 source_type: company_blog
 source_name: Anthropic News
 source_url: https://anthropic.com/news/introducing-claude-tag
-published_at: '2026-07-09T21:05:29.869713+05:30'
-collected_at: '2026-07-09T21:05:29.869716+05:30'
+published_at: '2026-07-10T04:15:30.502445+05:30'
+collected_at: '2026-07-10T04:15:30.502447+05:30'
 tags:
 - anthropic
 - anthropic-news
@@ -14,16 +13,16 @@ tags:
 status: active
 resource_id: blog:productjun-23-2026introducing-claude-tagclaude-tag
 first_seen: '2026-06-24T10:06:17.872316+05:30'
-last_seen: '2026-07-09T21:05:29.869716+05:30'
-last_checked: '2026-07-09T21:05:29.869716+05:30'
+last_seen: '2026-07-10T04:15:30.502447+05:30'
+last_checked: '2026-07-10T04:15:30.502447+05:30'
 health_score: 100
 ---
 
-# ProductJun 23, 2026Introducing Claude TagClaude Tag is a new way for teams to work with Claude.
+# Jun 23, 2026ProductIntroducing Claude Tag
 
 ## Summary
 
-Recent update from Anthropic News Blog: ProductJun 23, 2026Introducing Claude TagClaude Tag is a new way for teams to work with Claude.
+Recent update from Anthropic News Blog: Jun 23, 2026ProductIntroducing Claude Tag
 
 ## Why It Matters
 
@@ -33,7 +32,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Anthropic News
 - Article URL: https://anthropic.com/news/introducing-claude-tag
-- Collected At: 2026-07-09T21:05:29.869716+05:30
+- Collected At: 2026-07-10T04:15:30.502447+05:30
 
 ## Related Tags
 

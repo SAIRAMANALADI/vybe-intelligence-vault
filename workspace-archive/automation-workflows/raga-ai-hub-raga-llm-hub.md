@@ -13,7 +13,6 @@ importance: medium
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Framework for evaluating large language models (LLMs), implementing guardrails, and ensuring security in LLM deployments.
-- **Key Features**: Supports LLM evaluation metrics, real-time guardrails for safety/compliance, and security protocols for LLM operations.
-- **Technical Stack**: Python-based, designed for LLMops workflows with integration into AI/ML pipelines.
+- **Purpose**: Provides a Python-based framework for evaluating large language models (LLMs), implementing guardrails, and ensuring LLM security within LLMops workflows.
+- **Key Features**: Supports structured evaluation pipelines, real-time monitoring, and enforcement of safety policies to mitigate risks such as prompt injection or harmful outputs.
+- **Integration**: Designed for seamless deployment in production environments, offering modular components for customization and scalability.
 
 ## Use Cases
 

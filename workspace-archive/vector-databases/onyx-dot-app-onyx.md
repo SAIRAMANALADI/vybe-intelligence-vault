@@ -6,17 +6,18 @@ source_url: https://github.com/onyx-dot-app/onyx
 resource_id: github:onyx-dot-app/onyx
 local_vault_path: ai/rag/onyx-dot-app-onyx.md
 quality_score: 70
-archive_score: 77
+archive_score: 81
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: dataset
 importance: medium
 tags:
+- dataset
 - frontend_ui
 - github-repo
 - openai
 - python
 - rag
-- workflows
+- reddit
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -27,17 +28,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any LLM, enabling flexible model switching and hybrid workflows.
-- **Enterprise-Grade Features**: Implements RAG (Retrieval-Augmented Generation), vector search, and advanced information retrieval for scalable, self-hosted deployments.
-- **Tech Stack**: Python backend with Next.js frontend, optimized for low-latency interactions and modular AI pipeline integration.
+- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any LLM via modular architecture, enabling seamless switching between models (e.g., ChatGPT, open-source alternatives) without vendor lock-in.
+
+- **Enterprise-Grade RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based semantic search (likely via libraries like FAISS or Pinecone) for context-aware responses and scalable information retrieval across large datasets.
+
+- **Full-
 
 ## Use Cases
 

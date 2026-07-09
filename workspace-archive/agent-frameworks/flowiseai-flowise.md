@@ -39,9 +39,9 @@ selection_reason:
 
 - **Visual AI Agent Builder**: Open-source, low/no-code platform in TypeScript/React for constructing AI agents and workflows, leveraging LangChain and large language models (LLMs) like OpenAI.
 
-- **Multi-Agent & RAG Support**: Enables creation of agentic systems with retrieval-augmented generation (RAG), multi-agent collaboration, and customizable workflow automation.
+- **Multi-Agent & RAG Support**: Enables creation of multi-agent systems and Retrieval-Augmented Generation (RAG) pipelines with modular components for chatbots, automation, and agentic workflows.
 
-- **Extensible Architecture**: Modular design with JavaScript/TypeScript backend, React-based UI, and integrations for chatbots
+- **Extensible Architecture**: Modular design with 54K+ GitHub stars, supporting integrations for agentic A
 
 ## Use Cases
 

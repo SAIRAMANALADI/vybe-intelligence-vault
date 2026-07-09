@@ -4,12 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-09T21:07:39.153321+05:30'
+collected_at: '2026-07-10T04:17:35.862001+05:30'
 published_at: '2026-07-05T07:03:45Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
+- meta-ai
+- mistral
+- models
 - python
 - rag
 - reddit
@@ -21,9 +24,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-09T21:07:39.153321+05:30'
-last_seen: '2026-07-09T21:07:39.153321+05:30'
-last_checked: '2026-07-09T21:07:39.153321+05:30'
+first_seen: '2026-07-10T04:17:35.862001+05:30'
+last_seen: '2026-07-10T04:17:35.862001+05:30'
+last_checked: '2026-07-10T04:17:35.862001+05:30'
 health_score: 100
 ---
 
@@ -31,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems, enabling adversaries to manipulate model outputs by poisoning the retrieval corpus with adversarial documents.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate incorrect or harmful outputs while maintaining high retrieval relevance metrics.
 
-- **Technical Mechanism**: Leverages *trigger-based* and *semantic poisoning* techniques to embed malicious content in retrieved passages, causing LLMs to generate incorrect or biased responses while maintaining high retrieval relevance scores.
+- **Technical Mechanism**: Leverages *trigger-based poisoning* where adversarial documents are crafted to exploit the retrieval-augmentation pipeline, ensuring targeted documents are retrieved with high confidence and altering the LLM’s generation behavior without direct model access.
 
-- **Evaluation & Impact**: Validated on multiple RAG pipelines (e.g., dense retrieval + LLMs), showing significant degradation in factual accuracy and trustworthiness, with attack success rates up to **92%** under optimized conditions.
+- **Evaluation & Impact**: Validated on multiple RAG benchmarks (e.g., MS MARCO, Natural Questions) and LLMs (e.g., Llama2, Mistral), showing significant degradation in factual accuracy (up to 40% drop in correctness) and proposing mitigation strategies like adversarial training and retrieval filtering.
 
 ## Why It Matters
 

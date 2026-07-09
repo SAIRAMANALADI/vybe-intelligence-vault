@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-09T21:06:59.181184+05:30'
+collected_at: '2026-07-10T04:16:55.864530+05:30'
 published_at: '2026-06-30T16:45:55Z'
 tags:
-- dataset
 - github-repo
 - python
 - rag
+- workflows
 stars: 368
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-09T21:06:59.181184+05:30'
-last_seen: '2026-07-09T21:06:59.181184+05:30'
-last_checked: '2026-07-09T21:06:59.181184+05:30'
+first_seen: '2026-07-10T04:16:55.864530+05:30'
+last_seen: '2026-07-10T04:16:55.864530+05:30'
+last_checked: '2026-07-10T04:16:55.864530+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a hybrid retrieval-augmented generation (RAG) system combining dense (vector-based) and sparse (keyword-based) retrieval methods to enhance document grounding and response accuracy.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector) and sparse (keyword) retrieval methods for enhanced document search and context augmentation.
 
-- **NVIDIA AI Workbench Integration**: Demonstrates deployment within NVIDIA's AI Workbench ecosystem, leveraging optimized GPU-accelerated components (e.g., TensorRT, Triton) for low-latency inference.
+- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined deployment, experimentation, and scalability of RAG workflows in Python.
 
-- **Modular Python Framework**: Provides a structured Python-based implementation with configurable components for retrieval, reranking, and generation, supporting extensibility for custom datasets and models.
+- **Modular Architecture**: Provides a structured example with modular components (retriever, generator, and hybrid fusion logic) for customizable RAG system development.
 
 ## Why It Matters
 

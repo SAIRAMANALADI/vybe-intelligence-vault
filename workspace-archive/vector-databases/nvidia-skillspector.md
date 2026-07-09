@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
@@ -32,8 +33,10 @@ selection_reason:
 ## Summary
 
 - **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to detect vulnerabilities, malicious patterns, and security risks without executing the code.
-- **Python-Based**: Implemented in Python, leveraging libraries for AST parsing, pattern matching, and rule-based detection of security flaws.
-- **Rule-Driven Detection**: Uses predefined security rules and heuristics to identify issues such as unsafe function calls, privilege escalation risks, and data exfiltration pat
+
+- **Python-Based**: Implemented in Python, leveraging static analysis techniques to inspect AI agent skills for potential security threats.
+
+- **NVIDIA-Developed**: An open-source security scanner developed by NVIDIA, last updated on July 9, 2026, with 12,615 stars and 1,043 forks on GitHub.
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-07-09T21:06:21.534179+05:30'
-collected_at: '2026-07-09T21:06:21.534189+05:30'
+published_at: '2026-07-10T04:16:17.572844+05:30'
+collected_at: '2026-07-10T04:16:17.572857+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-07-09T21:06:21.534189+05:30'
-last_seen: '2026-07-09T21:06:21.534189+05:30'
-last_checked: '2026-07-09T21:06:21.534189+05:30'
+first_seen: '2026-07-10T04:16:17.572857+05:30'
+last_seen: '2026-07-10T04:16:17.572857+05:30'
+last_checked: '2026-07-10T04:16:17.572857+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Provides a modular framework for chaining LLM components, with interfaces for models, embeddings, and vector stores, enabling structured RAG implementations and evaluation tools for performance measurement.
+- **Firecrawl**: AI-powered web scraping/crawling API converting dynamic websites into structured Markdown/HTML for RAG pipelines; includes LLM-friendly `llms.txt` generation, agent-based extraction, and deep research endpoints for data enrichment.
 
-- **RAGFlow**: Open-source RAG engine with deep document understanding, supporting structured extraction from PDFs/tables, GraphRAG for knowledge graphs, and dual storage backends (Elasticsearch/Infinity) via Python SDK/REST APIs.
+- **LangChain**: Modular framework for LLM/RAG workflows with 105k+ GitHub stars; supports multi-model integration, vector stores, retrieval pipelines, and evaluation tools via LangSmith/LangGraph for end-to-end AI application development.
 
-- **Milvus**: High-performance, cloud-native vector database optimized for ANN search, offering hybrid search (vector + scalar filtering), horizontal scalability for billions of vectors, and seamless integration with RAG frameworks like LangChain/LlamaIndex.
+- **Milvus**: Cloud-native vector database (33.9k stars) optimized for billion-scale ANN similarity search; enables hybrid retrieval (vector + scalar filtering), multi-modal embeddings, and seamless integration with RAG frameworks like LangChain/LlamaIndex.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T21:06:21.534179+05:30
+- Published: 2026-07-10T04:16:17.572844+05:30
 
 ## Related Tags
 

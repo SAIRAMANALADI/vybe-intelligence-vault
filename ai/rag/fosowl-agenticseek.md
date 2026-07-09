@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Fosowl/agenticSeek
-collected_at: '2026-07-09T21:09:39.258278+05:30'
-published_at: '2026-07-09T14:25:13Z'
+collected_at: '2026-07-10T04:19:35.989160+05:30'
+published_at: '2026-07-09T17:30:41Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- scripts
-stars: 26613
+stars: 26615
 language: Python
 status: active
 license: GPL-3.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-02-19T18:03:06Z'
 pushed_at: '2026-07-04T12:59:14Z'
 resource_id: github:fosowl/agenticseek
-first_seen: '2026-07-09T21:09:39.258278+05:30'
-last_seen: '2026-07-09T21:09:39.258278+05:30'
-last_checked: '2026-07-09T21:09:39.258278+05:30'
+first_seen: '2026-07-10T04:19:35.989160+05:30'
+last_seen: '2026-07-10T04:19:35.989160+05:30'
+last_checked: '2026-07-10T04:19:35.989160+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Local-first autonomous agent framework** leveraging DeepSeek-R1 for reasoning, browsing, and code execution entirely offline, eliminating API dependencies and cloud costs.
-- **Python-based implementation** with modular design for extensibility, supporting LLM-agent orchestration, voice-assistant integration, and real-time task automation.
-- **Open-source under active development** (last updated July 2026), with official updates restricted to [@Martin993886460](https://twitter.com/Martin993886460) to mitigate impersonation risks.
+- **Fully Local AI Agent Framework**: Open-source Python implementation (`agenticSeek`) enabling autonomous LLM-driven agents (e.g., web browsing, coding) with **no external APIs or cloud dependencies**, operating solely on local compute resources.
+- **DeepSeek-R1 Integration**: Leverages DeepSeek’s reasoning models for **self-directed task execution**, supporting multi-modal interactions (text/code) while minimizing operational costs to electricity expenditure.
+- **Twitter-Verified Updates**: Official project updates disseminated exclusively via verified Twitter account `@Martin993886460`; repository warns of impersonation scams and includes 26.6K+ stars and 2.9K+ forks as of July 2026.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Fosowl
-- Stars: 26613
-- Forks: 2981
+- Stars: 26615
+- Forks: 2980
 - Language: Python
 - Topics: agentic-ai, agents, ai, autonomous-agents, deepseek-r1, llm, llm-agents, voice-assistant
-- Last Updated: 2026-07-09T14:25:13Z
+- Last Updated: 2026-07-09T17:30:41Z
 - License: GPL-3.0
 - Archived: No
 - Created At: 2025-02-19T18:03:06Z

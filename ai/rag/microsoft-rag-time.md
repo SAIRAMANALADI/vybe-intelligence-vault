@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-07-09T21:06:24.086640+05:30'
+collected_at: '2026-07-10T04:16:20.854767+05:30'
 published_at: '2026-07-08T00:51:27Z'
 tags:
 - github-repo
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-07-09T21:06:24.086640+05:30'
-last_seen: '2026-07-09T21:06:24.086640+05:30'
-last_checked: '2026-07-09T21:06:24.086640+05:30'
+first_seen: '2026-07-10T04:16:20.854767+05:30'
+last_seen: '2026-07-10T04:16:20.854767+05:30'
+last_checked: '2026-07-10T04:16:20.854767+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **5-week structured curriculum** covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like **binary/scalar quantization** and **Matryoshka representation learning** for efficient indexing.
-- **Hands-on implementation** using **Azure OpenAI**, **HNSW** for vector search, and **Jupyter Notebooks** in **VS Code**, with focus on **responsible AI** and **multimodal RAG**.
-- **Optimized retrieval pipelines** demonstrated via **binary/scalar quantization** and **hybrid search** integration, targeting low-latency, high-accuracy LLM augmentation.
+- **5-week structured curriculum** covering RAG fundamentals, hybrid search (HNSW + keyword), and multimodal applications using Azure OpenAI and VS Code.
+- **Advanced quantization techniques** (binary/scalar) and **Matryoshka representation learning** for efficient indexing and retrieval.
+- **Responsible AI integration** with focus on generative AI safety, multimodal RAG pipelines, and deployment best practices.
 
 ## Why It Matters
 

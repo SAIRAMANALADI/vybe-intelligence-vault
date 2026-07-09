@@ -8,14 +8,14 @@ local_vault_path: ai/rag/medium.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - rag
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Medium
@@ -24,16 +24,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Medium's sitemap.xml** provides structured XML-based indexing of all public-facing URLs, enabling search engine crawlers to efficiently discover and index content.
-- **Medium’s navigation and authentication flows** leverage OAuth2-based sign-in (`/m/signin`) and registration (`/m/signin?operation=register`) endpoints, redirecting users post-authentication to relevant endpoints (e.g., `/new-story`).
-- **Medium’s content delivery** includes dynamic image resizing via CDN endpoints (e.g., `miro
+- **Medium’s sitemap.xml** provides structured indexing of all public-facing URLs, enabling efficient crawler discovery and SEO optimization for the platform’s blog and content repositories.
+
+- **Medium’s navigation and authentication flows** leverage parameterized redirects (e.g., `?operation=login&redirect=`) to maintain session continuity across web and mobile (Android/iOS) clients while tracking UTM sources for analytics.
+
+- **Medium’s editorial and product infrastructure** includes a multi-
 
 ## Use Cases
 

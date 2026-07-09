@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/topoteretes/awesome-ai-memory
-collected_at: '2026-07-09T21:07:24.149021+05:30'
+collected_at: '2026-07-10T04:17:20.906156+05:30'
 published_at: '2026-07-09T08:20:59Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 stars: 809
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-11-23T12:40:05Z'
 pushed_at: '2026-06-18T15:07:20Z'
 resource_id: github:topoteretes/awesome-ai-memory
-first_seen: '2026-07-09T21:07:24.149021+05:30'
-last_seen: '2026-07-09T21:07:24.149021+05:30'
-last_checked: '2026-07-09T21:07:24.149021+05:30'
+first_seen: '2026-07-10T04:17:20.906156+05:30'
+last_seen: '2026-07-10T04:17:20.906156+05:30'
+last_checked: '2026-07-10T04:17:20.906156+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated AI Memory Projects**: Repository listing open-source and research projects focused on AI memory systems, including long-term memory, context retention, and memory-augmented architectures.
-- **Technical Stack**: Primarily Python-based, with integration of AI/ML frameworks (e.g., PyTorch, LangChain) and RAG (Retrieval-Augmented Generation) techniques for memory management.
-- **Active Maintenance**: Last updated July 2026, indicating ongoing curation with 809 stars and 93 forks, reflecting community engagement in AI memory engineering.
+- **Curated list** of AI memory projects, frameworks, and tools focused on memory management, RAG, and agentic systems, primarily in Python.
+- **Covers 7 core topics**: AI agents, AI engineering, memory management, RAG, AI/ML, and related subfields (809 stars, 94 forks).
+- **Last updated July 2026**, ensuring relevance for cutting-edge research in persistent AI memory architectures.
 
 ## Why It Matters
 
@@ -42,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: topoteretes
 - Stars: 809
-- Forks: 93
+- Forks: 94
 - Language: Python
 - Topics: ai, ai-agents, ai-engineering, ai-memory, ai-ml, memory-management, rag
 - Last Updated: 2026-07-09T08:20:59Z

@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/MLGym
-collected_at: '2026-07-09T21:09:19.339252+05:30'
+collected_at: '2026-07-10T04:19:15.995001+05:30'
 published_at: '2026-07-01T12:27:01Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
-- workflows
 stars: 610
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-02-18T18:26:47Z'
 pushed_at: '2025-08-10T20:00:53Z'
 resource_id: github:facebookresearch/mlgym
-first_seen: '2026-07-09T21:09:19.339252+05:30'
-last_seen: '2026-07-09T21:09:19.339252+05:30'
-last_checked: '2026-07-09T21:09:19.339252+05:30'
+first_seen: '2026-07-10T04:19:15.995001+05:30'
+last_seen: '2026-07-10T04:19:15.995001+05:30'
+last_checked: '2026-07-10T04:19:15.995001+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Design**: MLGym is a modular Python framework for developing and benchmarking AI research agents, emphasizing reproducibility and scalability in machine learning experiments.
+- **Framework Overview**: MLGym is a Python-based framework designed to advance AI research agents by providing a structured environment for training, evaluating, and benchmarking autonomous agents in machine learning tasks.
 
-- **Benchmark Suite**: Includes standardized tasks and metrics to evaluate AI agents' performance across diverse research scenarios, enabling comparative analysis.
+- **Key Features**: Supports modular agent design, integrates with popular ML libraries (e.g., PyTorch, TensorFlow), and includes a benchmark suite for standardized agent performance evaluation across diverse tasks.
 
-- **Agent Orchestration**: Supports dynamic agent-environment interaction loops with configurable workflows, facilitating automated experimentation and hyperparameter optimization.
+- **Scalability & Reproducibility**: Enables distributed training, supports hyperparameter optimization, and ensures reproducible experiments via configuration management and logging tools.
 
 ## Why It Matters
 

@@ -15,7 +15,6 @@ tags:
 - github-repo
 - paper
 - rag
-- scripts
 - unknown
 selection_reason:
 - Strong keyword match
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: A structured, community-driven repository of AI agent frameworks, tools, and resources, including libraries, platforms, and research papers focused on autonomous and semi-autonomous agent systems.
-
-- **Multi-Domain Coverage**: Encompasses agents for web browsing, code generation, task automation, multi-agent collaboration, and reinforcement learning, with links to GitHub repositories, APIs, and academic papers.
-
-- **Active Maintenance**: Regularly updated (last commit:
+- **Curated Collection**: A structured, community-driven repository listing AI agents, frameworks, tools, and research papers for autonomous system development.
+- **Multi-Domain Coverage**: Encompasses agents for general AI, reinforcement learning, multi-agent systems, robotics, and specialized domains (e.g., finance, healthcare).
+- **Active Maintenance**: Regularly updated (last commit: 2026-07-09) with 2.5K+ stars and 679 forks, indicating strong community engagement and adoption.
 
 ## Use Cases
 

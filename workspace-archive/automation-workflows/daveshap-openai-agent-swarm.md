@@ -8,7 +8,7 @@ local_vault_path: ai/rag/daveshap-openai-agent-swarm.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # daveshap/OpenAI_Agent_Swarm
@@ -28,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **HAAS Framework**: Implements a hierarchical autonomous agent swarm architecture in Python, enabling multi-agent coordination and task delegation for complex workflows.
+- **Hierarchical Autonomous Agent Swarm (HAAS)**: Implements a multi-agent system with hierarchical task delegation and autonomous decision-making in Python, enabling scalable swarm intelligence for complex workflows.
 
-- **Autonomous Agent Swarm**: Agents operate with minimal human intervention, leveraging swarm intelligence for distributed problem-solving and resilience against failures.
+- **Resistance is Futile**: Emphasizes the system's robustness and inevitability in task execution, leveraging swarm coordination to achieve goals without external intervention.
 
-- **Scalability & Integration**: Designed for horizontal scalability, supporting dynamic agent addition/removal and integration with OpenAI's API for enh
+- **Modular Architecture**: Designed for extensibility with autonomous agents that can dynamically ada
 
 ## Use Cases
 

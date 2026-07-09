@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-07-09T21:08:54.192822+05:30'
+collected_at: '2026-07-10T04:18:50.898083+05:30'
 published_at: '2026-07-09T10:51:37Z'
 tags:
 - agents
 - github-repo
 - openai
 - python
-- scripts
 - workflows
 stars: 919
 language: Python
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-07-09T21:08:54.192822+05:30'
-last_seen: '2026-07-09T21:08:54.192822+05:30'
-last_checked: '2026-07-09T21:08:54.192822+05:30'
+first_seen: '2026-07-10T04:18:50.898083+05:30'
+last_seen: '2026-07-10T04:18:50.898083+05:30'
+last_checked: '2026-07-10T04:18:50.898083+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Demonstrates transition from *vibe coding* to structured *agentic engineering* using OpenAI's Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for scalable AI-driven development workflows.
+- **Agentic Workflow Integration**: Repository provides structured practices for transitioning from *vibe coding* to *agentic engineering* using Codex CLI, emphasizing modular agentic workflows, hooks, and context engineering for scalable AI-driven development.
 
-- **CLI-Centric Best Practices**: Repository provides a curated set of *codex-cli-commands*, *hooks*, and *skills* for optimizing AI agent interactions, including context management, state persistence, and error recovery in Python-based agentic systems.
+- **Codex CLI Best Practices**: Documents optimized commands, skills, and CLI configurations for OpenAI Codex, including agentic patterns, skill chaining, and context management to enhance AI agent efficiency and reproducibility.
 
-- **Pakistan-Centric AI Development**: Showcases contributions from Pakistani developers, offering localized insights into AI agent deployment, CLI tooling, and agentic workflows while maintaining alignment with global OpenAI Codex standards.
+- **Open-Source Toolkit**: Python-based repository offering reusable hooks, CLI templates, and engineering guidelines tailored for Pakistani developers, with a focus on OpenAI Codex integration and community-driven improvements.
 
 ## Why It Matters
 

@@ -11,13 +11,14 @@ tags:
 - anthropic
 - anthropic-news
 - blog-post
-status: active
+status: inactive
 resource_id: blog:jun-12-2026announcementsstatement-on-the-us-govern
 first_seen: '2026-07-07T00:46:14.979345+05:30'
 last_seen: '2026-07-09T21:05:29.869921+05:30'
 last_checked: '2026-07-09T21:05:29.869921+05:30'
 health_score: 100
 ---
+
 
 # Jun 12, 2026AnnouncementsStatement on the US government directive to suspend access to Fable 5 and Mythos 5
 

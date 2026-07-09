@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - web-crawled
-- workflows
 selection_reason:
 - Valuable developer reference
 ---
@@ -30,11 +29,11 @@ selection_reason:
 
 ## Summary
 
-- **Infrastructure-as-a-Service for Documentation**: Automates builds, previews, authentication, and versioning for docs-as-code workflows, integrating with Git providers (GitHub/GitLab/Bitbucket) and supporting tools like Sphinx, MkDocs, and Docusaurus.
+- **Infrastructure-as-a-Service for Documentation**: Hosts and automates builds, previews, and versioning for documentation projects using Git repositories, supporting tools like Sphinx, MkDocs, and Docusaurus.
 
-- **PR Preview & Regression Detection**: Generates live preview builds for pull requests with visual diffs against production, enabling pre-merge review of rendered documentation (not raw markup).
+- **PR Preview & Visual Diffing**: Generates live preview builds for every pull request with visual diffs against production, enabling pre-merge review of rendered documentation.
 
-- **Enterprise Features**: Offers SSO (GitHub/
+- **Access Control & AI Readiness**: Offers SSO integration (GitHub/GitLab) for access management and suppor
 
 ## Use Cases
 

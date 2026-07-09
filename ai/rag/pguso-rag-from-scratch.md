@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-07-09T21:06:34.072225+05:30'
+collected_at: '2026-07-10T04:16:30.797054+05:30'
 published_at: '2026-07-08T17:05:45Z'
 tags:
 - agents
@@ -14,7 +14,6 @@ tags:
 - meta-ai
 - models
 - rag
-- workflows
 stars: 1476
 language: JavaScript
 status: active
@@ -23,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-07-09T21:06:34.072225+05:30'
-last_seen: '2026-07-09T21:06:34.072225+05:30'
-last_checked: '2026-07-09T21:06:34.072225+05:30'
+first_seen: '2026-07-10T04:16:30.797054+05:30'
+last_seen: '2026-07-10T04:16:30.797054+05:30'
+last_checked: '2026-07-10T04:16:30.797054+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Provides a step-by-step, from-scratch implementation of Retrieval-Augmented Generation (RAG) using local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies and foster deep understanding of embeddings, vector search, retrieval, and context-augmented generation.
+- **Educational RAG Implementation**: Provides a step-by-step, from-scratch implementation of Retrieval-Augmented Generation (RAG) using local LLMs, emphasizing transparency and eliminating black-box components.
 
-- **Technical Stack**: Built in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, with a focus on modularity for agents, AI pipelines, and RAG-based chatbots.
+- **Technical Stack**: Built with JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference and focusing on core components like embeddings, vector search, retrieval, and context-augmented generation.
 
-- **Purpose & Scope**: Designed as a tutorial repository to demystify RAG workflows, covering core components like embedding generation, vector databases, retrieval mechanisms, and integration with LLMs for enhanced generation. Last updated July 2026.
+- **Purpose & Scope**: A tutorial-style repository designed to demystify RAG pipelines, covering agents, AI-agents, and RAG-specific topics (e.g., chatbots, retrieval mechanisms) for hands-on learning.
 
 ## Why It Matters
 

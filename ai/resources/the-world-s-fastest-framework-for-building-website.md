@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/
-published_at: '2026-07-09T21:10:30.241404+05:30'
-collected_at: '2026-07-09T21:10:30.241416+05:30'
+published_at: '2026-07-10T04:20:21.318650+05:30'
+collected_at: '2026-07-10T04:20:21.318661+05:30'
 tags:
 - frontend_ui
 - web-crawled
 status: active
 resource_id: blog:the-world-s-fastest-framework-for-building-website
-first_seen: '2026-07-09T21:10:30.241416+05:30'
-last_seen: '2026-07-09T21:10:30.241416+05:30'
-last_checked: '2026-07-09T21:10:30.241416+05:30'
+first_seen: '2026-07-10T04:20:21.318661+05:30'
+last_seen: '2026-07-10T04:20:21.318661+05:30'
+last_checked: '2026-07-10T04:20:21.318661+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Licensing & Popularity**: Distributed under Apache 2.0 License; has 88,892 GitHub stars (as of July 8, 2026) with an active community and frequent releases.
+- **Licensing & Adoption**: Distributed under Apache 2.0 License; 88,907 GitHub stars (as of July 9, 2026) with an active community forum ([discourse.gohugo.io](https://discourse.gohugo.io)).
 
-- **Performance & Architecture**: Written in Go, optimized for speed; renders large sites in seconds with an advanced templating system and fast asset pipelines.
+- **Performance & Architecture**: Go-based, optimized for speed with advanced templating and fast asset pipelines; renders large sites in seconds via multithreaded rendering and in-memory processing.
 
-- **Features & Tooling**: Supports multilingual content, powerful taxonomies, image/Sass/JS processing, TailwindCSS integration, and includes an embedded web server for real-time development.
+- **Features**: Supports multilingual sites, powerful taxonomies, image/Sass/JS processing (resize, crop, tree-shaking, TailwindCSS), and an embedded live-reload web server for development.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-09T21:10:30.241404+05:30
+- Published: 2026-07-10T04:20:21.318650+05:30
 
 ## Related Tags
 

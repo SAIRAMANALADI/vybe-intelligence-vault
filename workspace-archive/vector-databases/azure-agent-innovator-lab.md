@@ -14,6 +14,7 @@ tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 selection_reason:
@@ -32,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-*   Focuses on AI agent development and deployment within the Azure ecosystem.
-*   Explores advanced agent design patterns and robust evaluation methodologies.
-*   Covers search optimization strategies and best practices for Retrieval-Augmented Generation (RAG) in agent architectures.
+- **Repository Overview**: GitHub repository (`Azure/agent-innovator-lab`) providing a structured lab environment for building and optimizing AI agents on Microsoft Azure, with a focus on search optimization, agent architecture, evaluation methodologies, and Retrieval-Augmented Generation (RAG) best practices.
+
+- **Technical Stack**: Implemented primarily in Jupyter Notebooks, facilitating interactive experimentation and prototyping of AI agent systems within Azure’s ecosystem.
+
+- **Last Updated
 
 ## Use Cases
 

@@ -15,6 +15,7 @@ tags:
 - hackernews
 - rag
 - reddit
+- scripts
 - web-crawled
 - workflows
 - youtube
@@ -34,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page** provides real-time operational status for GitHub services, including incident reports, uptime metrics (e.g., 99.99% for Git Operations over 90 days), and historical data via Atom/RSS feeds.
-
-- **Past Incidents** include resolved issues such as **Actions/Codespaces API failures** (500 errors, 8-13% impact, mitigated via rollback and monitoring) and **GitHub Pages delays** (scaled deployment workers to resolve backlog).
-
-- **Notification Systems** support multi-channel ale
+- **GitHub Status Page** provides real-time operational status for GitHub services (e.g., GitHub Actions, Pages, API) with 90-day uptime metrics and incident tracking.
+- **Multi-Channel Incident Notifications** supported via email, SMS (global numbers), Slack, and webhooks for automated incident updates.
+- **Past Incidents** include resolved outages (e.g., Actions delays, Pages degradation, Copilot budget resets) with root cause analyses and mitigation timelines.
 
 ## Use Cases
 

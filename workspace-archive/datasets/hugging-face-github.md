@@ -8,7 +8,7 @@ local_vault_path: ai/agents/hugging-face-github.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # Hugging Face · GitHub
@@ -28,16 +28,19 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Hugging Face** is an AI-focused organization maintaining core libraries like `transformers` (162k+ stars), `diffusers` (34k+ stars), `datasets` (21.7k+ stars), and `peft` (21.4k+ stars) for state-of-the-art ML model development, diffusion-based generation, dataset management, and parameter-efficient fine-tuning, respectively.
+- **Hugging Face** maintains a suite of open-source libraries (`transformers`, `diffusers`, `datasets`, `peft`, `accelerate`, `optimum`) for state-of-the-art ML across modalities, supporting both training and inference with hardware acceleration (e.g., FSDP, DeepSpeed, fp8).
 
-- **Key infrastructure tools** include `accelerate` (PyTorch acceleration with FP8/FSDP/DeepSpeed support) and `optimum` (hardware optimization for inference/training
+- **Core repositories** include:
+  - `transformers`: Unified framework for NLP, vision, audio, and multimodal models (162k+ stars).
+  - `tokenizers`: High-performance Rust-based tokenization (10.8k+ stars).
+  - `diffusers`:
 
 ## Use Cases
 

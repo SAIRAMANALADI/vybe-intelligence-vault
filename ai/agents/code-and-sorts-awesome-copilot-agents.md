@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-07-09T21:08:14.237183+05:30'
-published_at: '2026-07-07T08:10:44Z'
+collected_at: '2026-07-10T04:18:10.941926+05:30'
+published_at: '2026-07-09T18:36:58Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - typescript
-stars: 545
+stars: 547
 language: TypeScript
 status: active
 license: CC0-1.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-07-09T21:08:14.237183+05:30'
-last_seen: '2026-07-09T21:08:14.237183+05:30'
-last_checked: '2026-07-09T21:08:14.237183+05:30'
+first_seen: '2026-07-10T04:18:10.941926+05:30'
+last_seen: '2026-07-10T04:18:10.941926+05:30'
+last_checked: '2026-07-10T04:18:10.941926+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource** for GitHub Copilot enhancement, featuring GitHub instructions, prompts, skills, MCPs, and agent markdown files to optimize AI agent interactions.
-- **Technical focus** on agent-skills, prompt-engineering, and custom-agents for VSCode Copilot Chat, with TypeScript-based implementations.
-- **Last updated** July 7, 2026, containing 545 stars and 90 forks, covering Copilot-instructions, MCP integration, and AI-agent orchestration.
+- **Curated Resource**: GitHub repository (`awesome-copilot-agents`) hosting structured GitHub Copilot enhancement files (instructions, prompts, MCPs) for AI agent integration.
+- **Technical Scope**: Supports TypeScript-based agent skills, custom instructions, and VS Code Copilot Chat integration via prompt engineering and MCP (Model Context Protocol) configurations.
+- **Metadata**: 547 stars, 90 forks, last updated 2026-07-09; categorized under `agent-skills`, `ai-agents`, and `prompt-engineering` topics.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Code-and-Sorts
-- Stars: 545
+- Stars: 547
 - Forks: 90
 - Language: TypeScript
 - Topics: agent-skills, ai-agents, awesome, awesome-list, copilot-instructions, copilot-prompting, custom-agents, github-copilot, mcp, prompt-engineering, vscode-copilot-chat
-- Last Updated: 2026-07-07T08:10:44Z
+- Last Updated: 2026-07-09T18:36:58Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2025-04-19T17:37:01Z

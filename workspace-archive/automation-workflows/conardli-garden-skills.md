@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-domain technical repository** containing open-source implementations for web design, knowledge retrieval (RAG), and image generation (GPT-Image-2), leveraging AI agents and Claude for automation.
-
-- **Tech stack**: Primarily CSS-based, with integrations for AI-driven workflows (e.g., RAG pipelines, image generation APIs).
-
-- **Metadata**: 9,282 stars, 1,242 forks, last updated July 8, 2026; categorized under AI agents, web design, and retrieval systems.
+- **Multi-domain technical repository** containing open-source implementations for web design, knowledge retrieval (RAG), and image generation (GPT-Image-2) workflows.
+- **Agent-based architecture** leveraging tools like Claude for automation, with CSS as the primary styling language for frontend components.
+- **Actively maintained** (last update: 2026-07-09) with 9.3K+ stars and 1.2K+ forks, indicating strong community adoption in AI-driven development.
 
 ## Use Cases
 

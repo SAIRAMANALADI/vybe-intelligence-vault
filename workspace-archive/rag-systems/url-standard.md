@@ -2,7 +2,7 @@
 title: URL Standard
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://url.spec.whatwg.org
+source_url: https://url.spec.whatwg.org/
 resource_id: blog:url-standard
 local_vault_path: ai/rag/url-standard.md
 quality_score: 70
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Unify URL standards**: Align RFC 3986/3987 with modern implementations, standardize terminology to "URL" (replacing URI/IRI), and obsolete outdated RFCs while ensuring parsing robustness comparable to HTML parsing.
+- **Unified URL Standardization**: Aligns RFC 3986/3987 with modern implementations, obsoleting them to standardize URL parsing (e.g., spaces, encoding, canonicalization) and consolidates URI/IRI under the term "URL" for interoperability.
 
-- **Define canonical URL behavior**: Specify URL parsing, serialization, and JavaScript API (including a new `URL` object for worker environments) to guarantee idempotence—parse→serialize→parse cycles must yield identical results.
+- **Parser/Serializer Idempotence**: Defines URL parsing, serialization, and JavaScript API to ensure parse-then-serialize and API manipulations are idempotent, preventing unintended changes across operations.
 
-- **Standardize error handling**: Enforce valida
+- **Validation Errors & Host Parsing**: Specifies
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://url.spec.whatwg.org
+Original source URL: https://url.spec.whatwg.org/
 
 ## Local Vault File
 

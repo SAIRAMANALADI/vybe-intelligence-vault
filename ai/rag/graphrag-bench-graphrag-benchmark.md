@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-07-09T21:07:29.118548+05:30'
+collected_at: '2026-07-10T04:17:25.858032+05:30'
 published_at: '2026-07-09T13:00:04Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
 stars: 457
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-07-09T21:07:29.118548+05:30'
-last_seen: '2026-07-09T21:07:29.118548+05:30'
-last_checked: '2026-07-09T21:07:29.118548+05:30'
+first_seen: '2026-07-10T04:17:25.858032+05:30'
+last_seen: '2026-07-10T04:17:25.858032+05:30'
+last_checked: '2026-07-10T04:17:25.858032+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Official repository for GraphRAG-Bench, designed to evaluate Graph Retrieval-Augmented Generation (GraphRAG) models with a focus on graph-based retrieval strategies (ICLR'26).
-- **Technical Scope**: Provides a comprehensive analysis of when to use graphs in RAG pipelines, including dataset curation, benchmarking methodologies, and performance metrics for graph-enhanced retrieval.
-- **Implementation**: Python-based implementation with modular components for graph construction, retrieval evaluation, and model comparison, supporting extensibility for new datasets and GraphRAG variants.
+- **Benchmark Framework**: Provides a standardized evaluation suite for GraphRAG models, designed to assess performance across diverse graph-based retrieval and generation tasks.
+- **Dataset & Analysis**: Includes curated datasets and analytical tools to study the efficacy of GraphRAG in structured knowledge extraction, with a focus on ICLR'26 validation.
+- **Python Implementation**: Open-source Python library for reproducible benchmarking, supporting modular extensions for custom graph retrieval and RAG pipeline integrations.
 
 ## Why It Matters
 

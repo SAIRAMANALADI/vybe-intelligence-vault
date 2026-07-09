@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-07-09T21:08:04.228072+05:30'
+collected_at: '2026-07-10T04:18:01.419736+05:30'
 published_at: '2026-07-09T03:34:10Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-07T15:14:52Z'
 pushed_at: '2026-06-24T06:17:09Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-07-09T21:08:04.228072+05:30'
-last_seen: '2026-07-09T21:08:04.228072+05:30'
-last_checked: '2026-07-09T21:08:04.228072+05:30'
+first_seen: '2026-07-10T04:18:01.419736+05:30'
+last_seen: '2026-07-10T04:18:01.419736+05:30'
+last_checked: '2026-07-10T04:18:01.419736+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Version Benchmark Suite**: Repository hosts code for three evolving benchmarks—VLM2Vec (ICLR 2025), VLM2Vec-V2 (TMLR 2026), and MMEB-V3 (COLM 2026)—focused on evaluating multimodal embedding models across tasks like image, video, and visual-document retrieval.
-
-- **Contrastive Learning Framework**: Implements contrastive learning techniques for training Vision-Language Models (VLMs) to generate high-quality embeddings, supporting multimodal retrieval and representation learning.
-
-- **Python-Based Toolkit**: Provides a Python-based repository with tools for benchmarking, embedding generation, and evaluation across diverse multimodal tasks, including RAG and visual document retrieval.
+- **Benchmark Suite**: Repository hosts **VLM2Vec (ICLR 2025)**, **VLM2Vec-V2 (TMLR 2026)**, and **MMEB-V3 (COLM 2026)**, providing multimodal embedding benchmarks (MMEB) for evaluating Vision-Language Models (VLMs) across tasks like image/video/document retrieval and RAG.
+- **Technical Focus**: Implements **contrastive learning** and **representation learning** for VLMs, with code optimized for **multimodal embeddings** and benchmarking against tasks in **image-retrieval**, **video-retrieval**, and **visual-document-retrieval**.
+- **Python Framework**: Repository is a **Python-based** toolkit with modular components for benchmarking, supporting integration with VLMs for embedding evaluation and retrieval tasks.
 
 ## Why It Matters
 

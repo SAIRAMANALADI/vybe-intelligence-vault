@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-07-09T21:07:14.159360+05:30'
+collected_at: '2026-07-10T04:17:10.869674+05:30'
 published_at: '2026-07-07T22:04:22Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
+- workflows
 stars: 4367
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-07-09T21:07:14.159360+05:30'
-last_seen: '2026-07-09T21:07:14.159360+05:30'
-last_checked: '2026-07-09T21:07:14.159360+05:30'
+first_seen: '2026-07-10T04:17:10.869674+05:30'
+last_seen: '2026-07-10T04:17:10.869674+05:30'
+last_checked: '2026-07-10T04:17:10.869674+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **End-to-end LLM/RAG system**: Provides a production-ready framework for building and deploying large language models (LLMs) and retrieval-augmented generation (RAG) systems using LLMOps best practices.
+- **Course Content**: Provides hands-on guidance for building production-ready LLM and RAG systems using LLMOps best practices, including source code and 12 structured lessons.
 
-- **Hands-on course structure**: Includes 12 hands-on lessons and source code, covering infrastructure-as-code (Pulumi), MLOps (Qwak, Comet ML), vector databases (Qdrant), and streaming (Bytewax) with AWS integration.
+- **Technical Stack**: Implements infrastructure-as-code (Pulumi, Docker), vector databases (Qdrant), MLOps tools (Bytewax, Comet-ML, Qwak), and AWS integration for scalable generative AI deployment.
 
-- **Technical stack**: Implements Docker for containerization, Superlinked for vector embeddings, and infrastructure-as-code (IaC) for scalable, reproducible deployments.
+- **Design Focus**: Covers ML system design, RAG optimization, and end-to-end workflows for deploying LLMs in production environments.
 
 ## Why It Matters
 

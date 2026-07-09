@@ -3,9 +3,9 @@ title: GitHub Copilot CLI · GitHub
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/features/copilot/cli
-published_at: '2026-07-09T01:35:05.879470+05:30'
-collected_at: '2026-07-09T01:35:05.879485+05:30'
+source_url: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
+published_at: '2026-07-10T04:20:31.188010+05:30'
+collected_at: '2026-07-10T04:20:31.188028+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-07-09T01:35:05.879485+05:30'
-last_seen: '2026-07-09T01:35:05.879485+05:30'
-last_checked: '2026-07-09T01:35:05.879485+05:30'
+first_seen: '2026-07-10T04:20:31.188028+05:30'
+last_seen: '2026-07-10T04:20:31.188028+05:30'
+last_checked: '2026-07-10T04:20:31.188028+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Parallel Execution**: Copilot CLI supports `/fleet` mode to parallelize tasks across multiple subagents, enabling concurrent execution of the same task with convergence on a decision-ready result, while maintaining user control via explicit approvals.
+- **Multi-Agent Orchestration**: Copilot CLI enables parallelized subagent execution via `/fleet`, allowing concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, converging on decision-ready outputs while maintaining user control.
 
-- **GitHub-Native MCP Integration**: Built on GitHub’s native Model Context Protocol (MCP) server, it directly interacts with issues, pull requests, branches, and labels, enabling seamless workflows from `/plan` to merged PRs without context switching.
+- **GitHub-Native Workflow Integration**: Built on GitHub’s native Model Context Protocol (MCP) and `/mcp` server, it directly interacts with issues, PRs, branches, and labels, inheriting organizational policies (branch protections, required checks) and enabling seamless transitions from `/plan` to merged PRs.
 
-- **Cross-Platform & Extensible**: Operates on macOS, Linux, and Windows, integrates with VS Code, and supports custom MCP servers, skills, and plugins via `/agent` and `/skills`, allowing tailored behavior and tool access across models and sessions.
+- **Session Persistence & Extensibility**: Supports `/resume` for resuming long-running tasks with memory compaction, AGENTS.md for custom agent behavior via `/agent` and `/skills`, and SDK-based extensions (`npm install -g @github/copilot`) for integrating agentic logic into applications.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-09T01:35:05.879470+05:30
+- Published: 2026-07-10T04:20:31.188010+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/features/copilot/cli
+Original source: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026

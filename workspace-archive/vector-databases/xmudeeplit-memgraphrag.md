@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 selection_reason:
@@ -32,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **MemGraphRAG Framework**: Introduces a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging agent-memory, ontology, and graph construction for enhanced contextual retrieval and generation.
+- **Memory-based Multi-Agent System**: Introduces MemGraphRAG, a KDD 2026 framework leveraging memory-driven multi-agent collaboration for graph-based Retrieval-Augmented Generation (RAG), enhancing contextual reasoning via dynamic memory integration.
 
-- **Key Components**: Implements ontology-driven graph construction and multi-agent collaboration to dynamically build and query knowledge graphs, optimizing retrieval-augmented generation (RAG) performance.
+- **Graph & Ontology Construction**: Implements automated graph construction and ontology learning to structure knowledge, enabling efficient subgraph retrieval and semantic alignment for downstream RAG tasks.
 
-- **Technical Stack**: Python-based implementation with
+- **Python Implementation**: Provide
 
 ## Use Cases
 

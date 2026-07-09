@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Licensing & Popularity**: Distributed under Apache 2.0 License; has 88,892 GitHub stars (as of July 8, 2026) with an active community and frequent releases.
+- **Licensing & Adoption**: Distributed under Apache 2.0 License; 88,907 GitHub stars (as of July 9, 2026) with an active community forum ([discourse.gohugo.io](https://discourse.gohugo.io)).
 
-- **Performance & Architecture**: Written in Go, optimized for speed; renders large sites in seconds with an advanced templating system and fast asset pipelines.
+- **Performance & Architecture**: Go-based, optimized for speed with advanced templating and fast asset pipelines; renders large sites in seconds via multithreaded rendering and in-memory processing.
 
-- **Features & Tooling**: Supports multilingual content, powerful taxonomies, image/Sass/JS processing, TailwindCSS integration, and includes an embedded web server for real-t
+- **Features**: Supports multilingual sites, powerful taxonomies, image/Sass/JS processing (resize, crop,
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-07-09T21:07:59.164058+05:30'
+collected_at: '2026-07-10T04:17:55.903929+05:30'
 published_at: '2026-07-07T06:11:04Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-07-09T21:07:59.164058+05:30'
-last_seen: '2026-07-09T21:07:59.164058+05:30'
-last_checked: '2026-07-09T21:07:59.164058+05:30'
+first_seen: '2026-07-10T04:17:55.903929+05:30'
+last_seen: '2026-07-10T04:17:55.903929+05:30'
+last_checked: '2026-07-10T04:17:55.903929+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 - **Semantic Aggregation Mechanism**: Implements a knowledge-graph-based approach to aggregate and contextualize retrieved information using semantic relationships, enhancing the relevance of generated outputs.
 
-- **Hierarchical Retrieval Strategy**: Utilizes a multi-layered retrieval system to progressively refine and filter knowledge, optimizing both precision and computational efficiency in RAG pipelines.
+- **Hierarchical Retrieval Strategy**: Utilizes a multi-layered retrieval system to progressively refine and extract the most pertinent data from the knowledge graph, optimizing both precision and recall.
 
-- **AAAI 2026 Framework**: Designed as a lightweight, Python-based framework for knowledge-graph-enhanced RAG, emphasizing modularity and scalability for downstream NLP tasks.
+- **Efficiency Optimization**: Designed for AAAI 2026, the framework emphasizes lightweight, scalable architecture (Python-based) to minimize computational overhead while maintaining high performance in RAG (Retrieval-Augmented Generation) tasks.
 
 ## Why It Matters
 

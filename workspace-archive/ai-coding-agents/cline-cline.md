@@ -14,7 +14,6 @@ tags:
 - agents
 - github-repo
 - typescript
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous Coding Agent**: Provides an SDK, IDE extension, and CLI assistant for autonomous coding tasks, enabling AI-driven development workflows.
-- **TypeScript Implementation**: Entirely built in TypeScript, ensuring type safety and compatibility with modern JavaScript/TypeScript ecosystems.
-- **High Adoption Metrics**: 64,485 stars and 6,879 forks indicate strong community engagement and adoption in the developer tools space.
+- **Autonomous Coding Agent**: Cline operates as an autonomous coding agent, functioning as an SDK, IDE extension, or CLI assistant to automate software development tasks.
+
+- **TypeScript Implementation**: The project is built entirely in TypeScript, enabling cross-platform compatibility and integration with modern development environments.
+
+- **High Activity & Maintenance**: With 64,497 stars and 6,880 forks, Cline is actively maintained, last updated on July 9, 2026, indicating ongoing develop
 
 ## Use Cases
 

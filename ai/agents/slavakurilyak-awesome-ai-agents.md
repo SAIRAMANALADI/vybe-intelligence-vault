@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/slavakurilyak/awesome-ai-agents
-collected_at: '2026-07-09T21:08:59.225771+05:30'
-published_at: '2026-07-08T23:09:57Z'
+collected_at: '2026-07-10T04:18:55.972081+05:30'
+published_at: '2026-07-09T17:00:57Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - paper
 - python
-stars: 1615
+stars: 1616
 language: Python
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-15T12:48:42Z'
 pushed_at: '2025-09-09T22:33:26Z'
 resource_id: github:slavakurilyak/awesome-ai-agents
-first_seen: '2026-07-09T21:08:59.225771+05:30'
-last_seen: '2026-07-09T21:08:59.225771+05:30'
-last_checked: '2026-07-09T21:08:59.225771+05:30'
+first_seen: '2026-07-10T04:18:55.972081+05:30'
+last_seen: '2026-07-10T04:18:55.972081+05:30'
+last_checked: '2026-07-10T04:18:55.972081+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository hosting 300+ curated resources focused on agentic AI, including frameworks, tools, and research papers.
-- **Metrics**: 1,615 stars and 431 forks, indicating significant community engagement and adoption.
-- **Technical Stack**: Primarily Python-based, with updates as recent as July 8, 2026.
+- **Curated Collection**: GitHub repository hosting an extensive curated list of 300+ resources focused on agentic AI, covering frameworks, tools, research papers, and applications.
+- **Technical Scope**: Primarily Python-based, emphasizing agent-oriented architectures, multi-agent systems, and autonomous decision-making frameworks.
+- **Community Metrics**: 1,616 stars and 432 forks, indicating active engagement; last updated July 9, 2026, ensuring relevance in rapidly evolving AI agent research.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: slavakurilyak
-- Stars: 1615
-- Forks: 431
+- Stars: 1616
+- Forks: 432
 - Language: Python
 - Topics: agent, agentic, agents
-- Last Updated: 2026-07-08T23:09:57Z
+- Last Updated: 2026-07-09T17:00:57Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-15T12:48:42Z

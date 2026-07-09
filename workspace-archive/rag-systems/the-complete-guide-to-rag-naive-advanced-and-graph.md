@@ -40,9 +40,7 @@ selection_reason:
 
 ## Summary
 
-- **RAG Evolution & Architecture**: RAG (Retrieval-Augmented Generation) combines retrieval, augmentation, and generation to address LLM limitations (freshness, private knowledge, hallucinations). It evolved from **Naive RAG** (basic vector search + generation) to **Advanced RAG** (hybrid retrieval, reranking, query transformation) to **Graph RAG** (entity-relation graph traversal for multi-hop reasoning), with **Modular RAG** enabling dynamic routing and tool integration.
-
-- **Core Components &
+- **RAG Architecture & Evolution**: RAG (Retrieval-Augmented Generation) integrates retrieval, augmentation, and generation, formalized in 2020 by Lewis et al. It addresses LLM limitations (freshness, private knowledge, hallucinations) by dynamically fetching external data. Evolution spans four generations: **Naive RAG** (basic vector search), **Advanced RAG** (hybrid retrieval, reranking, query transformation), **Modular RAG** (routing, looping, tool integration), and **Graph RAG** (entity-rela
 
 ## Use Cases
 

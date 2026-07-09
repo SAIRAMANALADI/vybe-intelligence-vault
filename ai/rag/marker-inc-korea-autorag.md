@@ -4,17 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-07-09T21:06:54.134813+05:30'
+collected_at: '2026-07-10T04:16:50.833076+05:30'
 published_at: '2026-07-09T11:16:28Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - hackernews
 - python
 - rag
 - scripts
-- workflows
 stars: 4862
 language: Python
 status: active
@@ -23,9 +21,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-07-02T03:46:39Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-07-09T21:06:54.134813+05:30'
-last_seen: '2026-07-09T21:06:54.134813+05:30'
-last_checked: '2026-07-09T21:06:54.134813+05:30'
+first_seen: '2026-07-10T04:16:50.833076+05:30'
+last_seen: '2026-07-10T04:16:50.833076+05:30'
+last_checked: '2026-07-10T04:16:50.833076+05:30'
 health_score: 100
 ---
 
@@ -33,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-driven RAG optimization**: AutoRAG automates hyperparameter tuning, prompt engineering, and retrieval strategies for RAG pipelines using AutoML techniques, reducing manual effort in optimizing performance.
+- **AutoML-Style RAG Optimization**: AutoRAG automates hyperparameter tuning, pipeline optimization, and evaluation for Retrieval-Augmented Generation (RAG) systems using AutoML techniques, reducing manual intervention.
 
-- **Comprehensive evaluation & benchmarking**: Framework includes built-in tools for assessing RAG systems across metrics like answer correctness, context relevance, and latency, with support for custom datasets and evaluation pipelines.
+- **Comprehensive RAG Benchmarking**: Provides built-in evaluation metrics and benchmarking tools for RAG pipelines, including document parsing, embeddings, retrieval, and generation quality assessment.
 
-- **Modular pipeline with document processing**: Supports end-to-end RAG workflows, including document parsing, embedding generation, retrieval, and generation, with extensible components for custom models and integrations.
+- **Modular Python Framework**: Open-source Python library with modular components for document parsing, embedding generation, retrieval strategies, and LLM integration, supporting customization and extensibility.
 
 ## Why It Matters
 

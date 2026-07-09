@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/coree/awesome-rag
-collected_at: '2026-07-09T21:07:24.155352+05:30'
+collected_at: '2026-07-10T04:17:20.840492+05:30'
 published_at: '2026-07-09T08:20:39Z'
 tags:
+- benchmark
 - dataset
 - github-repo
 - hackernews
+- models
 - paper
 - rag
 - unknown
@@ -21,9 +23,9 @@ archived: false
 created_at: '2024-02-10T12:01:04Z'
 pushed_at: '2025-12-01T08:45:44Z'
 resource_id: github:coree/awesome-rag
-first_seen: '2026-07-09T21:07:24.155352+05:30'
-last_seen: '2026-07-09T21:07:24.155352+05:30'
-last_checked: '2026-07-09T21:07:24.155352+05:30'
+first_seen: '2026-07-10T04:17:20.840492+05:30'
+last_seen: '2026-07-10T04:17:20.840492+05:30'
+last_checked: '2026-07-10T04:17:20.840492+05:30'
 health_score: 100
 ---
 
@@ -31,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: A GitHub repository (`coree/awesome-rag`) aggregating tools, papers, frameworks, and datasets for **Retrieval-Augmented Generation (RAG)** in large language models (LLMs), including embeddings and retrieval systems.
-- **Technical Scope**: Covers **RAG models**, **retrieval mechanisms**, and **LLM integration**, with a focus on enhancing generative AI via external knowledge retrieval.
-- **Maintenance**: Last updated **July 9, 2026**, with **427 stars** and **51 forks**, indicating active community engagement in RAG research and development.
+- **Curated RAG Resources**: Repository aggregates high-quality tools, papers, frameworks, and datasets for retrieval-augmented generation (RAG) in large language models (LLMs), covering embeddings, retrieval systems, and model architectures.
+- **Technical Scope**: Focuses on RAG-specific topics including vector databases, prompt engineering, fine-tuning strategies, and evaluation metrics for retrieval-augmented systems.
+- **Community-Driven Maintenance**: Continuously updated (last commit: 2026-07-09) with contributions from 427 stars and 51 forks, ensuring relevance to evolving LLM and RAG advancements.
 
 ## Why It Matters
 

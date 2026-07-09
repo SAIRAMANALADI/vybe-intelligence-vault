@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-52%2C374-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-52%2C450-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--10-374151?style=flat-square)](#)
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 10,650</p>
-        <p><b>Active:</b> 10,399 | <b>Inactive:</b> 251</p>
+        <p><b>Resources tracked:</b> 10,680</p>
+        <p><b>Active:</b> 10,424 | <b>Inactive:</b> 256</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 41,724</p>
+        <p><b>Archive Files:</b> 41,770</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 52,374 files</p>
-        <p><b>Last Update:</b> 2026-07-10 02:49 IST</p>
+        <p><b>Total Vault Size:</b> 52,450 files</p>
+        <p><b>Last Update:</b> 2026-07-10 04:33 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,29 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+7</kbd>
-- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+5</kbd>
-- 🔼 **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** • Rank: <kbd>+5</kbd>
-- 🔼 **[RUC-NLPIR/FlashRAG](ai/rag/ruc-nlpir-flashrag.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[HTML Standard](ai/rag/html-standard.md)** • Rank: <kbd>+5342</kbd>
+- 🔼 **[Web IDL Standard](ai/rag/web-idl-standard.md)** • Rank: <kbd>+4267</kbd>
+- 🔼 **[SpeechifyInc/ai-api-examples](ai/resources/speechifyinc-ai-api-examples.md)** • Rank: <kbd>+301</kbd>
+- 🔼 **[Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify](ai/rag/medium-members-can-listen-to-any-medium-story-with.md)** • Rank: <kbd>+303</kbd>
+- 🔼 **[Tuba](ai/resources/tuba.md)** • Rank: <kbd>+3806</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Engineering Bringing more control over your connectors June 24, 2026 By Mistral AI](ai/companies/mistral/bringing-more-control-over-your-connectors.md)** • Score: `0`
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Train sim created by just one person is being called the best ever made](ai/community/train-sim-created-by-just-one-person-is-being-call.md)** • Score: `158`
+- 🆕 **[AI content is everywhere on social media, especially LinkedIn](ai/community/ai-content-is-everywhere-on-social-media-especiall.md)** • Score: `152`
+- 🆕 **[Girls just wanna have fast MPMC queues with bounded waiting](ai/community/girls-just-wanna-have-fast-mpmc-queues-with-bounde.md)** • Score: `111`
+- 🆕 **[Issues · ietf-tools/red · GitHub](ai/resources/ietf-tools-red.md)** • Score: `0`
+- 🆕 **[Create an Incoming Webhook - Teams | Microsoft Learn](ai/agents/create-an-incoming-webhook-teams-microsoft-learn.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[John Deere owners will get the right to repair equipment under FTC settlement](ai/community/john-deere-owners-will-get-the-right-to-repair-equ.md)**
+- 💤 **[Show HN: FableCut – A browser video editor AI agents can drive (zero deps)](ai/community/ronak-create-fablecut.md)**
+- 💤 **[Show HN: Arcaide – Explore code with multi-level call graphs](ai/community/show-hn-arcaide-explore-code-with-multi-level-call.md)**
+- 💤 **[Jun 12, 2026AnnouncementsStatement on the US government directive to suspend access to Fable 5 and Mythos 5](ai/companies/anthropic/jun-12-2026announcementsstatement-on-the-us-govern.md)**
+- 💤 **[Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record](ai/companies/anthropic/jun-12-2026announcementsresults-from-the-first-ant.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

@@ -8,17 +8,16 @@ local_vault_path: ai/rag/samuelschmidgall-agentlaboratory.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: workflow
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
 - python
 - rag
-- scripts
 - workflows
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # SamuelSchmidgall/AgentLaboratory
@@ -27,17 +26,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: workflow
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **End-to-end autonomous research workflow**: Agent Laboratory automates the entire research process, from ideation to implementation, acting as an AI assistant for human researchers.
+- **Autonomous Research Workflow**: Agent Laboratory implements an end-to-end autonomous research pipeline in Python, designed to assist researchers by automating hypothesis generation, experimentation, and validation without manual intervention.
 
-- **Python-based implementation**: The project is fully developed in Python, leveraging its ecosystem for modular, extensible, and maintainable research automation.
+- **Multi-Agent Architecture**: The system leverages a collaborative agent-based framework where specialized agents (e.g., researcher, critic, executor) interact to iteratively refine research objectives and methodologies.
 
-- **Last updated July 2026**: The repository was last updated on July 9, 2026, indicating active development and recent maintenance.
+- **Open-Source & Extensible
 
 ## Use Cases
 

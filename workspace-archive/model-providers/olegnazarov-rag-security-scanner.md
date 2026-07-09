@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Automated security scanner for RAG/LLM-based applications (e.g., chatbots, virtual assistants) to detect critical vulnerabilities like prompt injection, OWASP Top 10 AI risks, and insecure data retrieval.
-- **Features**: Implements red-team techniques, automated testing, and security audits for AI systems, supporting Python-based workflows and OpenAI integrations.
-- **Scope**: Covers prompt-injection, knowledge retrieval flaws, and cybersecurity risks in AI deployments, with last
+- **Purpose**: Automated security scanner for RAG/LLM-based applications (e.g., chatbots, virtual assistants) to detect critical vulnerabilities like prompt injection and OWASP Top 10 risks.
+- **Features**: Implements red-team techniques, automated testing, and security audits tailored for AI systems, supporting Python-based workflows.
+- **Scope**: Covers LLM security, RAG vulnerabilities, and OpenAI/ChatGPT integrations, with last update on 2026-07-02.
 
 ## Use Cases
 

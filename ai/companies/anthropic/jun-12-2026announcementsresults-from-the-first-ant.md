@@ -10,13 +10,14 @@ tags:
 - anthropic
 - anthropic-news
 - blog-post
-status: active
+status: inactive
 resource_id: blog:jun-12-2026announcementsresults-from-the-first-ant
 first_seen: '2026-06-16T04:26:32.175979+00:00'
 last_seen: '2026-07-09T21:05:29.869949+05:30'
 last_checked: '2026-07-09T21:05:29.869949+05:30'
 health_score: 100
 ---
+
 
 # Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record
 

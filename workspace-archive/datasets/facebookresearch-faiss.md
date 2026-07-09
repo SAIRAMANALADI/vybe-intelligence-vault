@@ -8,18 +8,17 @@ local_vault_path: ai/rag/facebookresearch-faiss.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - c++
 - dataset
 - github-repo
 - hackernews
-- models
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # facebookresearch/faiss
@@ -28,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Efficient similarity search**: FAISS provides optimized algorithms for searching high-dimensional vectors in large datasets, leveraging techniques like **inverted file (IVF)**, **product quantization (PQ)**, and **graph-based methods** (e.g., HNSW) to achieve sub-linear time complexity.
-
-- **Clustering and indexing**: Supports **k-means clustering**, **PCA-based dimensionality reduction**, and **multiple index types** (e.g., `IndexFlat`, `IndexIVFFlat`, `IndexHNSW`) for both exact and approx
+- **Purpose**: FAISS is a C++ library designed for high-performance similarity search and clustering of dense vectors, optimized for large-scale datasets.
+- **Key Features**: Supports exact and approximate nearest neighbor search, GPU acceleration, and efficient indexing structures (e.g., IVF, HNSW, PQ).
+- **Applications**: Enables scalable vector similarity search for tasks like recommendation systems, image retrieval, and NLP embeddings.
 
 ## Use Cases
 

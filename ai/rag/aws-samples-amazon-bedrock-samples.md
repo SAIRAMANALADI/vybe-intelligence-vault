@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-07-09T21:07:04.212761+05:30'
+collected_at: '2026-07-10T04:17:00.919553+05:30'
 published_at: '2026-07-09T00:16:46Z'
 tags:
 - github-repo
 - jupyter notebook
+- models
 - rag
+- workflows
 stars: 1468
 language: Jupyter Notebook
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-06-30T09:33:23Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-07-09T21:07:04.212761+05:30'
-last_seen: '2026-07-09T21:07:04.212761+05:30'
-last_checked: '2026-07-09T21:07:04.212761+05:30'
+first_seen: '2026-07-10T04:17:00.919553+05:30'
+last_seen: '2026-07-10T04:17:00.919553+05:30'
+last_checked: '2026-07-10T04:17:00.919553+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples covering all available foundational models in Amazon Bedrock, including Amazon Titan, for customer onboarding and experimentation.
+- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples for all available Amazon Bedrock foundational models, covering use cases like generative AI, embeddings, and Retrieval-Augmented Generation (RAG).
 
-- **Multi-Use Case Demonstrations**: Includes implementations for embeddings, generative AI, knowledge bases, and Retrieval-Augmented Generation (RAG) using LangChain, showcasing practical applications of Bedrock's capabilities.
+- **Multi-Model & Tool Integration**: Includes demonstrations for Amazon Titan models, LangChain integration, and knowledge base management, enabling end-to-end generative AI workflows.
 
-- **AWS Integration Focus**: Examples emphasize integration with AWS services, enabling users to build scalable, production-ready generative AI solutions leveraging Bedrock's managed infrastructure.
+- **AWS Best Practices**: Showcases AWS-recommended patterns for deploying and fine-tuning Bedrock models, with structured examples for quick experimentation and production adoption.
 
 ## Why It Matters
 

@@ -8,7 +8,7 @@ local_vault_path: ai/resources/readthedocs-sphinx-rtd-theme.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: workflow
 importance: medium
 tags:
 - github-repo
@@ -17,7 +17,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # readthedocs/sphinx_rtd_theme
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Purpose**: A Sphinx documentation theme developed by Read the Docs, designed to enhance the visual presentation and usability of Sphinx-generated documentation.
-- **Technical Stack**: Built using **Sass** for styling, providing a responsive and customizable UI framework for documentation projects.
-- **Integration**: Supports Sphinx documentation workflows, with features optimized for readability and cross-referencing in large-scale technical documentation.
+- **Purpose**: A customizable Sphinx documentation theme developed by Read the Docs to enhance the visual presentation of Sphinx-generated documentation.
+- **Technical Stack**: Built using **Sass** for styling, enabling modular and maintainable CSS architecture for responsive design.
+- **Integration**: Designed for seamless use with **Sphinx**, supporting themes, extensions, and multi-version documentation workflows.
 
 ## Use Cases
 

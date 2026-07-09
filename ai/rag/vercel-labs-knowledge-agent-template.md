@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/knowledge-agent-template
-collected_at: '2026-07-09T21:09:29.322318+05:30'
+collected_at: '2026-07-10T04:19:26.059095+05:30'
 published_at: '2026-07-09T12:03:36Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - typescript
 stars: 941
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-20T15:02:20Z'
 pushed_at: '2026-06-11T09:36:03Z'
 resource_id: github:vercel-labs/knowledge-agent-template
-first_seen: '2026-07-09T21:09:29.322318+05:30'
-last_seen: '2026-07-09T21:09:29.322318+05:30'
-last_checked: '2026-07-09T21:09:29.322318+05:30'
+first_seen: '2026-07-10T04:19:26.059095+05:30'
+last_seen: '2026-07-10T04:19:26.059095+05:30'
+last_checked: '2026-07-10T04:19:26.059095+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Overview**: Open-source starter kit for building AI agents with file-system and knowledge-base integration using TypeScript, Nuxt, and Vue.
-- **Key Features**: Supports real-time knowledge updates, sandboxed execution, and chatbot functionality for dynamic agent interactions.
-- **Tech Stack**: Leverages Vercel’s ecosystem with TypeScript, Nuxt.js, and Vue.js for scalable agent development.
+- **Purpose**: Provides a TypeScript-based template for building AI agents that dynamically sync with a file-system knowledge base, enabling real-time updates and contextual responses.
+- **Key Features**: Integrates Nuxt and Vue for frontend, supports sandboxed execution, and leverages Vercel’s ecosystem for deployment and scalability.
+- **Technical Stack**: TypeScript-centric with file-system indexing, agent orchestration, and AI-driven query processing for knowledge retrieval.
 
 ## Why It Matters
 

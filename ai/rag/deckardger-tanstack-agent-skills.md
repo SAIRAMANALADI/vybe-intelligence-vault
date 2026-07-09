@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-07-09T01:30:31.801254+05:30'
+collected_at: '2026-07-10T04:18:50.966317+05:30'
 published_at: '2026-07-07T14:40:31Z'
 tags:
 - agents
-- frontend_ui
 - github-repo
-- hackernews
 - rag
 - reddit
 - unknown
@@ -21,9 +19,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-07-09T01:30:31.801254+05:30'
-last_seen: '2026-07-09T01:30:31.801254+05:30'
-last_checked: '2026-07-09T01:30:31.801254+05:30'
+first_seen: '2026-07-10T04:18:50.966317+05:30'
+last_seen: '2026-07-10T04:18:50.966317+05:30'
+last_checked: '2026-07-10T04:18:50.966317+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications, leveraging TanStack Query's reactivity and performance optimizations.
+- **Optimized Caching Strategies**: Implements advanced TanStack Query patterns (e.g., stale-while-revalidate, parallel queries) to minimize redundant API calls and improve cache consistency for AI-driven applications.
 
-- **TanStack Router Best Practices**: Provides structured guidance on dynamic routing, lazy loading, and state management for AI agents, ensuring scalable and maintainable client-side navigation.
+- **Dynamic Route Management**: Leverages TanStack Router’s file-based routing and lazy-loading to dynamically generate optimized paths for AI agent navigation, reducing bundle size and improving load times.
 
-- **TanStack Start Optimization**: Focuses on server-side rendering (SSR) and static site generation (SSG) techniques to enhance AI agent performance, with emphasis on hydration strategies and edge-compatible configurations.
+- **State Synchronization**: Integrates TanStack Start for seamless state hydration between server and client, ensuring AI agents maintain consistent context across SSR/CSR transitions.
 
 ## Why It Matters
 

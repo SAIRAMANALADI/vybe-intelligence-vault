@@ -2,7 +2,7 @@
 title: 'nbconvert: Convert Notebooks to other formats — nbconvert 7.17.1 documentation'
 archive_category: automation-workflows
 source_category: ai/resources
-source_url: https://nbconvert.readthedocs.io/en/latest
+source_url: https://nbconvert.readthedocs.io/en/latest/
 resource_id: blog:nbconvert-convert-notebooks-to-other-formats-nbcon
 local_vault_path: ai/resources/nbconvert-convert-notebooks-to-other-formats-nbcon.md
 quality_score: 70
@@ -14,7 +14,6 @@ tags:
 - hackernews
 - models
 - paper
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -35,8 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: `nbconvert` converts Jupyter `.ipynb` notebooks into static formats (HTML, LaTeX, PDF, Markdown, reStructuredText) via CLI (`jupyter nbconvert ...`) or Python API (`import nbconvert`), enabling cross-format sharing, publishing, and automation (e.g., batch processing or "Download as" feature in Jupyter).
-- **Architecture**: Modular pipeline with core classes (`NbConvertApp`, `Exporters`, `Preprocessors`, `Writers`, `Postprocessors`) and extensible exporters/templates for custom out
+- **Conversion Pipeline**: `nbconvert` processes Jupyter `.ipynb` notebooks through a modular pipeline involving preprocessors, exporters (e.g., HTML, LaTeX, PDF), and writers, enabling static format transformations while supporting programmatic execution.
+
+- **Dual Interface**: Supports both CLI (`jupyter nbconvert ...`) for batch/file-level operations and Python API (`import nbconvert`) for integration into custom workflows, including Jupyter’s "Download as" feature.
+
+- **Extensibility**: Allo
 
 ## Use Cases
 
@@ -46,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://nbconvert.readthedocs.io/en/latest
+Original source URL: https://nbconvert.readthedocs.io/en/latest/
 
 ## Local Vault File
 

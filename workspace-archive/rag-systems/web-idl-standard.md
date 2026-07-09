@@ -2,7 +2,7 @@
 title: Web IDL Standard
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://webidl.spec.whatwg.org/#dfn-interface
+source_url: https://webidl.spec.whatwg.org/
 resource_id: blog:web-idl-standard
 local_vault_path: ai/rag/web-idl-standard.md
 quality_score: 70
@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Web IDL Syntax**: Defines a standardized Interface Definition Language (IDL) for specifying web platform APIs, including interfaces, namespaces, dictionaries, typedefs, and callback functions, with grammar rules for definitions and extended attributes (e.g., `[Exposed=Window]`).
+- **Web IDL Syntax**: Defines a formal grammar for declaring web platform interfaces, including interfaces, namespaces, dictionaries, typedefs, and extended attributes, with strict identifier naming rules (e.g., reserved keywords like `constructor`, `toString`, and leading underscores disallowed).
 
-- **JavaScript Bindings**: Maps Web IDL interfaces to JavaScript constructs (e.g., attributes as accessor properties, operations as prototype methods), enforcing uniform behavior across web platform specifications v
+- **JavaScript Bindings**: Specifies how Web IDL interfaces map to JavaScript constructs (e.g., attributes as accessor properties, operations as prototype methods, and constructors enabling `new` inst
 
 ## Use Cases
 
@@ -49,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://webidl.spec.whatwg.org/#dfn-interface
+Original source URL: https://webidl.spec.whatwg.org/
 
 ## Local Vault File
 

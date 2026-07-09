@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/dannyblaker/rag-tutorial
-collected_at: '2026-07-09T21:06:24.122786+05:30'
+collected_at: '2026-07-10T04:16:20.822527+05:30'
 published_at: '2026-07-08T03:21:18Z'
 tags:
 - github-repo
 - hackernews
-- models
 - python
 - rag
 - reddit
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-01-03T09:47:50Z'
 pushed_at: '2026-01-03T09:50:45Z'
 resource_id: github:dannyblaker/rag-tutorial
-first_seen: '2026-07-09T21:06:24.122786+05:30'
-last_seen: '2026-07-09T21:06:24.122786+05:30'
-last_checked: '2026-07-09T21:06:24.122786+05:30'
+first_seen: '2026-07-10T04:16:20.822527+05:30'
+last_seen: '2026-07-10T04:16:20.822527+05:30'
+last_checked: '2026-07-10T04:16:20.822527+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Progressive Learning Path**: 6 structured lessons covering RAG fundamentals to production deployment, with reusable Python utilities and hands-on demos.
-- **Core Technical Components**: Covers embeddings generation, vector database integration, LLM fine-tuning, and advanced RAG techniques.
-- **Repository Structure**: Includes working code examples, modular utilities, and updated as of July 2026 for Python-based RAG system development.
+- **Progressive RAG Tutorial**: 6-step guide covering end-to-end RAG development, from fundamentals to production deployment, with reusable Python utilities and hands-on demos.
+- **Technical Scope**: Covers embeddings, vector databases (e.g., FAISS, Chroma), LLM integration, and advanced RAG techniques (e.g., query rewriting, multi-modal retrieval).
+- **Resources**: Includes working code examples, modular utilities, and updated as of July 2026 (Python-based, 7 stars, 0 forks).
 
 ## Why It Matters
 

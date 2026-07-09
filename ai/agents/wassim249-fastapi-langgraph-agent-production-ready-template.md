@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template
-collected_at: '2026-07-09T21:08:34.225478+05:30'
+collected_at: '2026-07-10T04:18:30.920884+05:30'
 published_at: '2026-07-09T15:36:37Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-07T16:54:25Z'
 pushed_at: '2026-06-17T09:53:19Z'
 resource_id: github:wassim249/fastapi-langgraph-agent-production-ready-template
-first_seen: '2026-07-09T21:08:34.225478+05:30'
-last_seen: '2026-07-09T21:08:34.225478+05:30'
-last_checked: '2026-07-09T21:08:34.225478+05:30'
+first_seen: '2026-07-10T04:18:30.920884+05:30'
+last_seen: '2026-07-10T04:18:30.920884+05:30'
+last_checked: '2026-07-10T04:18:30.920884+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **FastAPI + LangGraph Integration**: Production-ready template combining FastAPI for REST endpoints with LangGraph for building scalable, stateful AI agent workflows, including memory management and agent orchestration.
+- **Template Overview**: Production-ready FastAPI template for AI agent applications with LangGraph integration, designed for scalability, security, and maintainability in Python.
 
-- **Pre-configured Infrastructure**: Includes Docker support, security best practices (e.g., CORS, rate limiting), and modular structure for LLMs, enabling rapid deployment of agentic AI services.
+- **Key Features**: Includes Docker support, memory management, and integration with LangChain/LangGraph for agentic AI workflows.
 
-- **Key Dependencies**: Integrates LangChain/LangGraph for agent logic, optimized for Python 3.10+ with structured logging, health checks, and CI/CD-ready configurations.
+- **Metadata**: 2,494 stars, 582 forks, last updated July 9, 2026.
 
 ## Why It Matters
 

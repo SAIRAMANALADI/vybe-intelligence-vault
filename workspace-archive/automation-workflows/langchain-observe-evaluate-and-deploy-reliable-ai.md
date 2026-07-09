@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified Agent Development Lifecycle**: LangSmith provides a framework-agnostic platform for **observability, evaluation, deployment, and monitoring** of AI agents, supporting Python, TypeScript, Go, and Java SDKs with native tracing for popular frameworks and OpenTelemetry.
+- **Observability & Debugging**: LangSmith provides native tracing for agent frameworks (e.g., OpenTelemetry) with SDKs (Python/TypeScript/Go/Java), message threading for multi-turn interactions, and AI-driven analytics to debug complex agent behavior via structured trace timelines.
 
-- **Autonomous Issue Detection & Improvement**: LangSmith Engine **autonomously clusters production failures**, identifies root causes in traces/code, and proposes fixes, enabling faster iterative improvements through re
+- **Evaluation & Iteration**: Enables production trace capture, reusable LLM-as-judge/multi-turn evals, human feedback calibration, and automated scoring (online/offline) to iteratively improve agent performance.
+
+-
 
 ## Use Cases
 

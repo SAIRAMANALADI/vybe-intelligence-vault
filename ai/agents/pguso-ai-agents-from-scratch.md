@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/ai-agents-from-scratch
-collected_at: '2026-07-09T21:08:19.196960+05:30'
-published_at: '2026-07-09T08:21:37Z'
+collected_at: '2026-07-10T04:18:15.911736+05:30'
+published_at: '2026-07-09T21:04:48Z'
 tags:
 - agents
 - frontend_ui
@@ -14,6 +14,7 @@ tags:
 - javascript
 - meta-ai
 - models
+- workflows
 stars: 4386
 language: JavaScript
 status: active
@@ -22,9 +23,9 @@ archived: false
 created_at: '2025-10-23T19:39:04Z'
 pushed_at: '2026-05-31T08:52:06Z'
 resource_id: github:pguso/ai-agents-from-scratch
-first_seen: '2026-07-09T21:08:19.196960+05:30'
-last_seen: '2026-07-09T21:08:19.196960+05:30'
-last_checked: '2026-07-09T21:08:19.196960+05:30'
+first_seen: '2026-07-10T04:18:15.911736+05:30'
+last_seen: '2026-07-10T04:18:15.911736+05:30'
+last_checked: '2026-07-10T04:18:15.911736+05:30'
 health_score: 100
 ---
 
@@ -32,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using JavaScript, focusing on local LLMs and eliminating black-box dependencies.
-- **Core Technical Concepts**: Covers function calling, memory management, and ReAct (Reasoning and Acting) patterns to enable autonomous agent behavior.
-- **Tooling & Integration**: Utilizes `node-llama-cpp` for local LLM inference and implements React-based agent architectures for practical implementation.
+- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using local LLMs, emphasizing transparency by avoiding black-box models and focusing on core concepts like function calling, memory, and ReAct patterns.
+
+- **Technical Implementation**: Utilizes `node-llama-cpp` for local LLM integration in JavaScript, demonstrating practical agent architectures including memory management and function-calling workflows.
+
+- **Project Structure**: Covers React-based agent patterns, with last update on 2026-07-09, and includes 4,386 stars and 635 forks, indicating active community engagement in AI agent development.
 
 ## Why It Matters
 
@@ -47,7 +50,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 635
 - Language: JavaScript
 - Topics: ai-agents, educational, function-calling, llm, llm-agent, node-llama-cpp, react-agent, tutorial
-- Last Updated: 2026-07-09T08:21:37Z
+- Last Updated: 2026-07-09T21:04:48Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-23T19:39:04Z

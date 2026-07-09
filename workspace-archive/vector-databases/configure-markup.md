@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Default Markdown Handler**: Hugo defaults to Goldmark for Markdown rendering (`.md`, `.mdown`, `.markdown`), but supports alternative renderers (`asciidocext`, `org`, `pandoc`, `rst`) via configuration, requiring external tool installations for non-Goldmark options.
+- **Markup Handler Configuration**: Hugo defaults to Goldmark for Markdown rendering (`defaultMarkdownHandler: goldmark`), but supports alternative renderers (AsciiDoc, Org, Pandoc, reStructuredText) via configuration; requires external tooling and security policy updates for non-Goldmark handlers.
 
-- **Goldmark Configuration**: Goldmark’s default settings include extensions like `definitionList`, `footnote`, `linkify`, `strikethrough`, `table`, `taskList`, and `typographer`, with configurable parser/renderer behaviors (e.g
+- **Goldmark Extensions & Parser**: Goldmark’s default extensions (footnote, linkify, strikethrough, table, taskList, typographer) are enabled; parser supports auto-heading IDs (`autoHeadingID: true`
 
 ## Use Cases
 

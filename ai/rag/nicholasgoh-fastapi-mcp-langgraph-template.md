@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NicholasGoh/fastapi-mcp-langgraph-template
-collected_at: '2026-07-09T21:10:09.298550+05:30'
+collected_at: '2026-07-10T04:20:06.123092+05:30'
 published_at: '2026-07-06T12:03:00Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
+- workflows
 stars: 550
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-04-16T13:47:46Z'
 pushed_at: '2026-03-03T23:35:58Z'
 resource_id: github:nicholasgoh/fastapi-mcp-langgraph-template
-first_seen: '2026-07-09T21:10:09.298550+05:30'
-last_seen: '2026-07-09T21:10:09.298550+05:30'
-last_checked: '2026-07-09T21:10:09.298550+05:30'
+first_seen: '2026-07-10T04:20:06.123092+05:30'
+last_seen: '2026-07-10T04:20:06.123092+05:30'
+last_checked: '2026-07-10T04:20:06.123092+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Template integrates FastAPI, LangGraph, and MCP for agentic orchestration with modular components for rapid iteration and scalable deployment.
-- **Monitoring & Observability**: Includes Prometheus, Grafana, and Langfuse for metrics, logging, and observability in production environments.
-- **Data & Storage**: Uses SQLModel for database interactions and Supabase for backend storage, with Nginx for reverse proxy and load balancing.
+- **Architecture**: Template integrates FastAPI, MCP (Model Context Protocol), and LangGraph for agentic orchestration, enabling modular agent workflows with Python-based LangGraph for graph-based task execution.
+
+- **Observability & Storage**: Includes Prometheus/Grafana for monitoring, Langfuse for LLM observability, and Supabase/SQLModel for PostgreSQL-based data persistence and ORM.
+
+- **Deployment & Scalability**: Pre-configured with Nginx for reverse proxy, Docker-ready for containerization, and supports scalable deployments with Prometheus metrics and Langfuse tracing.
 
 ## Why It Matters
 

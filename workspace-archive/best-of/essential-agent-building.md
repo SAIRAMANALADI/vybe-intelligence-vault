@@ -13,6 +13,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `93` | **Path**: [`sickn33-agentic-awesome-skills.md`](../../ai/agents/sickn33-agentic-awesome-skills.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+- **Category**: `ai/agents` | **Kind**: `WORKFLOW` | **Tier**: `ESSENTIAL`
+- **Score**: `93` | **Path**: [`addyosmani-agent-skills.md`](../../ai/agents/addyosmani-agent-skills.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)
 - **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `91` | **Path**: [`modelcontextprotocol-python-sdk.md`](../../ai/resources/modelcontextprotocol-python-sdk.md)
@@ -63,11 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`sonarsource-sonarqube-mcp-server.md`](../../ai/agents/sonarsource-sonarqube-mcp-server.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)
-- **Category**: `ai/agents` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`aws-agent-toolkit-for-aws.md`](../../ai/agents/aws-agent-toolkit-for-aws.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 
 ## Recommended Learning Path
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-09 21:22 IST*
+*Last updated: 2026-07-10 04:32 IST*

@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
+- models
 - reddit
 - scripts
 - web-crawled
@@ -34,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Configuration File**: Read the Docs uses a `.readthedocs.yaml` YAML file (version 2) for project-specific settings, placed in the repository root, enabling automated builds upon Git commits.
-
-- **Build Customization**: Supports Sphinx/MkDocs with OS (e.g., Ubuntu 24.04), Python version (e.g., 3.12), and toolchain configuration (e.g., `build.tools.python`, `sphinx.configuration`), with optional formats like PDF/ePub.
-
-- **Environment & Advanced Features**: Allows Python dependency management
+- **Configuration File**: Read the Docs uses a YAML-based `.readthedocs.yaml` file (version 2) for project-specific settings, placed in the repository root, with auto-detection upon Git push.
+- **Build Environment**: Supports Ubuntu-based images (e.g., `ubuntu-24.04`) with configurable Python versions (e.g., `3.12`) and optional tools (Node.js, Rust, Go) for Sphinx/MkDocs builds.
+- **Customization**: Allows fine-tuning via `build.os`, `build.tools.python`, Sphinx/MkDocs builders, and Python depe
 
 ## Use Cases
 

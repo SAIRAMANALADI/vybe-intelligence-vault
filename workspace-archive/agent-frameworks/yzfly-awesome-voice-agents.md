@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated list** of voice AI agent frameworks, tools, and best practices for **STT (Speech-to-Text), TTS (Text-to-Speech), VAD (Voice Activity Detection), voice cloning, conversion, recognition, and synthesis**.
-- **Topics covered**: Real-time chat, voice assistants, voice agents, and related voice processing technologies.
-- **Last updated**: 2026-07-08; **35 stars**, **16 forks**; repository URL: [https://github.com/yzfly/awesome-voice-agents](https://github.com/yzfly/awesome-voice-agents).
+- **Curated Resource**: A GitHub repository (`yzfly/awesome-voice-agents`) listing frameworks, tools, and best practices for voice AI agents, covering STT, TTS, VAD, voice cloning, conversion, recognition, and synthesis.
+- **Technical Scope**: Includes real-time chat, voice activity detection (VAD), and voice assistant/agent development tools, with topics like `voice-agents`, `voice-assistant`, and `voice-synthesis`.
+- **Metadata**: Last updated July 8, 2026; 35 stars, 16 forks; language unspeci
 
 ## Use Cases
 

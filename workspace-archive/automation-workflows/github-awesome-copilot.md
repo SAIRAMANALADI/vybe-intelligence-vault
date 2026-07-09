@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource Hub**: GitHub repository aggregating community-driven tools, configurations, and extensions to enhance GitHub Copilot's functionality, including custom agents, prompt engineering techniques, and AI-driven workflows.
-
-- **Multi-Topic Collection**: Focuses on `agent-skills`, `custom-agents`, and `prompt-engineering` with additional relevance to `hacktoberfest` and AI integration, providing practical implementations primarily in Python.
-
-- **Active Maintenance**: Last updated i
+- **Curated Resource Hub**: GitHub repository (`awesome-copilot`) aggregating community-driven guides, agents, skills, and configurations to optimize GitHub Copilot usage, covering prompt engineering, custom agents, and AI-driven workflows.
+- **Technical Scope**: Focuses on Python-based implementations, including agent-skills, custom-agents, and hacktoberfest contributions, with structured configurations for extensibility.
+- **Metadata**: 36,385 stars, 4,531 forks, last updated July 9, 2026, and
 
 ## Use Cases
 

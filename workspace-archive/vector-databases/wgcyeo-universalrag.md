@@ -30,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, entity) with unified indexing and retrieval.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling Retrieval-Augmented Generation (RAG) across diverse data modalities (text, images, tables) and granularities (documents, paragraphs, entities), leveraging unified retrieval and generation mechanisms.
 
-- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval mechanism using modality-specific encoders and a shared embedding space, optimized via contrastive learning for heterogeneous corpus alignment.
+- **ACL 2026 Oral Presentation**: Highlights as an oral presentation at ACL 2026, emphasizing its novelty in handling heterogeneous corpora with a single, scalable architecture.
 
-- **Adaptive Generation Pipeline**
+- **Modular Python Implementation**: Provides
 
 ## Use Cases
 

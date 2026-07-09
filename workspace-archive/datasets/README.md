@@ -8,7 +8,7 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 
 ## Top Matched Resources
 
-- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) (framework - ESSENTIAL Tier)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (dataset - ESSENTIAL Tier)
 - [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245) (framework - ESSENTIAL Tier)
 - [OSF: On Pre-training and Scaling of Sleep Foundation Models](https://arxiv.org/abs/2603.00190) (framework - ESSENTIAL Tier)
 - [AnomalyMatch: Discovering Rare Objects of Interest with Semi-supervised and Active Learning](https://arxiv.org/abs/2505.03509) (framework - ESSENTIAL Tier)
@@ -20,12 +20,12 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 ## Best GitHub Repositories
 
 https://github.com/huggingface/datasets (Hugging Face Datasets)
-- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
-- [ParticleMedia/RAGTruth](https://github.com/ParticleMedia/RAGTruth)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
 - [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench)
 - [facebookresearch/CRAG](https://github.com/facebookresearch/CRAG)
+- [IBM/mt-rag-benchmark](https://github.com/IBM/mt-rag-benchmark)
+- [DEEP-PolyU/LinearRAG](https://github.com/DEEP-PolyU/LinearRAG)
 - [onejune2018/Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)
-- [AI-Application-and-Integration-Lab/MegaRAG](https://github.com/AI-Application-and-Integration-Lab/MegaRAG)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-07-09 21:22 IST*
+*Last updated: 2026-07-10 04:32 IST*

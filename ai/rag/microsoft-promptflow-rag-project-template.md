@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/promptflow-rag-project-template
-collected_at: '2026-07-09T21:06:49.142959+05:30'
+collected_at: '2026-07-10T04:16:45.876836+05:30'
 published_at: '2026-04-17T08:46:19Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-12-14T01:47:16Z'
 pushed_at: '2024-09-06T22:11:58Z'
 resource_id: github:microsoft/promptflow-rag-project-template
-first_seen: '2026-07-09T21:06:49.142959+05:30'
-last_seen: '2026-07-09T21:06:49.142959+05:30'
-last_checked: '2026-07-09T21:06:49.142959+05:30'
+first_seen: '2026-07-10T04:16:45.876836+05:30'
+last_seen: '2026-07-10T04:16:45.876836+05:30'
+last_checked: '2026-07-10T04:16:45.876836+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **End-to-End RAG Pipeline**: Demonstrates Retrieval-Augmented Generation (RAG) workflow including development, evaluation, experimentation, and deployment using **Promptflow**, with integration of search backends like **CosmosDB**, **PostgreSQL**, and **Azure AI Search**.
+- **End-to-End RAG Pipeline**: Demonstrates a complete Retrieval-Augmented Generation workflow using Promptflow, covering development, evaluation, experimentation, and deployment phases.
 
-- **Multi-Search Backend Support**: Provides sample implementations for hybrid search across **vector databases (CosmosDB, PostgreSQL)** and **semantic search engines (Azure AI Search)**, enabling flexible retrieval strategies.
+- **Multi-Search Backend Integration**: Supports multiple vector databases (CosmosDB, PostgresSQL, Azure AI Search) for retrieval, enabling flexible and scalable search implementations.
 
-- **Jupyter Notebook-Based**: Delivered as a **Jupyter Notebook** project template, facilitating interactive development, experimentation, and reproducibility for RAG applications.
+- **Jupyter Notebook-Based Implementation**: Provides a structured, interactive template in Jupyter Notebooks for prototyping, testing, and deploying RAG systems with reproducible workflows.
 
 ## Why It Matters
 

@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Ecosystem Index**: Curated collection of LangChain and LangGraph resources, including concepts, projects, tools, templates, and guides for building LLM and multi-agent applications.
-- **Technical Focus**: Primarily JavaScript-based, emphasizing advanced AI workflows, agent orchestration, and LLM integration patterns.
-- **Active Maintenance**: Last updated July 2026, ensuring relevance with ongoing community contributions (1,892 stars, 231 forks).
+- **Curated Ecosystem Index**: A structured repository aggregating LangChain and LangGraph resources, including concepts, tools, templates, and guides for building LLM and multi-agent applications.
+- **Technical Breadth**: Covers JavaScript-based implementations, LLM agent architectures, and ecosystem-specific projects for advanced AI workflows.
+- **Active Maintenance**: Last updated July 2026, ensuring relevance with ongoing contributions (1,892 stars, 231 forks).
 
 ## Use Cases
 

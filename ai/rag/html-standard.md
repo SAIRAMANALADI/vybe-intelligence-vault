@@ -3,23 +3,24 @@ title: HTML Standard
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://html.spec.whatwg.org/multipage/nav-history-apis.html#the-location-interface
-published_at: '2026-06-22T11:34:25.115883+05:30'
-collected_at: '2026-06-22T11:34:25.115895+05:30'
+source_url: https://html.spec.whatwg.org/multipage/webappapis.html#secure-context
+published_at: '2026-07-10T04:29:41.097330+05:30'
+collected_at: '2026-07-10T04:29:41.097350+05:30'
 tags:
 - agents
-- animation
+- benchmark
 - frontend_ui
 - hackernews
 - rag
 - reddit
+- scripts
 - web-crawled
 - youtube
 status: active
 resource_id: blog:html-standard
-first_seen: '2026-06-22T11:34:25.115895+05:30'
-last_seen: '2026-06-22T11:34:25.115895+05:30'
-last_checked: '2026-06-22T11:34:25.115895+05:30'
+first_seen: '2026-07-10T04:29:41.097350+05:30'
+last_seen: '2026-07-10T04:29:41.097350+05:30'
+last_checked: '2026-07-10T04:29:41.097350+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cross-origin security model for `Window`, `WindowProxy`, and `Location` objects**: Defines security checks via `[[CrossOriginPropertyDescriptorMap]]` internal slot, restricting property access across origins unless explicitly allowed (e.g., `href`, `location`, `postMessage`). Throws `SecurityError` if cross-origin access violates policies.
+- **Script Execution Mechanisms**: Defines execution contexts for author-provided code via `<script>` elements, `javascript:` URLs, event handlers (DOM `addEventListener()`, content/IDL attributes), and SVG scripting.
 
-- **Abstract operations for cross-origin property handling**: `CrossOriginProperties(O)` returns a predefined list of accessible properties for `Window`/`Location` objects, while `CrossOriginPropertyFallback(P)` handles fallback cases (e.g., `then`, `Symbol` properties) to ensure consistent behavior across origins.
+- **Agent/Cluster Formalism**: Maps JavaScript's [agent](https://tc39.es/ecma262/#sec-agents) and [agent cluster](https://tc39.es/ecma262/#sec-agent-clusters) concepts to web platform types (e.g., `Window`, `DedicatedWorkerGlobalScope`), enforcing memory model boundaries for `SharedArrayBuffer`.
 
-- **Internal slot and garbage collection rules**: The `[[CrossOriginPropertyDescriptorMap]]` caches property descriptors for cross-origin access, with garbage collection tied to reference lifetimes. User agents may optimize by clearing entries when `document.domain` changes, as prior origins become inaccessible.
+- **Realm Integration**: Specifies agent-realm relationships via [[AgentSignifier]] and [[Signifier]], defining event loop associations, blocking behavior (`Atomics` APIs), and cross-origin isolation modes for secure memory sharing.
 
 ## Why It Matters
 
@@ -41,19 +42,20 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:34:25.115883+05:30
+- Published: 2026-07-10T04:29:41.097330+05:30
 
 ## Related Tags
 
 - agents
-- animation
+- benchmark
 - frontend_ui
 - hackernews
 - rag
 - reddit
+- scripts
 - web-crawled
 - youtube
 
 ## Source
 
-Original source: https://html.spec.whatwg.org/multipage/nav-history-apis.html#the-location-interface
+Original source: https://html.spec.whatwg.org/multipage/webappapis.html#secure-context

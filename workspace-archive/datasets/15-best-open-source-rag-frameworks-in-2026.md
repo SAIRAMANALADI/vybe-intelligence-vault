@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Provides a modular framework for chaining LLM components, with interfaces for models, embeddings, and vector stores, enabling structured RAG implementations and evaluation tools for performance measurement.
+- **Firecrawl**: AI-powered web scraping/crawling API converting dynamic websites into structured Markdown/HTML for RAG pipelines; includes LLM-friendly `llms.txt` generation, agent-based extraction, and deep research endpoints for data enrichment.
 
-- **RAGFlow**: Open-source RAG engine with deep document understanding, supporting structured extraction from PDFs/tables, GraphRAG for knowledge graphs, and dual storage backends (Elasticsearch/Infinity) via Python SDK/REST APIs.
+- **LangChain**: Modular framework for LLM/RAG workflows with 105k+ GitHub stars; supports multi-model integration, vector stores, retrieval pipelines, and evaluation tools via LangSmith/LangGraph for end-to-end AI application development.
 
-- **Milvus**: High-performance, cloud-nativ
+- **Milvu
 
 ## Use Cases
 

@@ -33,11 +33,8 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Version Benchmark Suite**: Repository hosts code for three evolving benchmarks—VLM2Vec (ICLR 2025), VLM2Vec-V2 (TMLR 2026), and MMEB-V3 (COLM 2026)—focused on evaluating multimodal embedding models across tasks like image, video, and visual-document retrieval.
-
-- **Contrastive Learning Framework**: Implements contrastive learning techniques for training Vision-Language Models (VLMs) to generate high-quality embeddings, supporting multimodal retrieval and representation learning.
-
-- **P
+- **Benchmark Suite**: Repository hosts **VLM2Vec (ICLR 2025)**, **VLM2Vec-V2 (TMLR 2026)**, and **MMEB-V3 (COLM 2026)**, providing multimodal embedding benchmarks (MMEB) for evaluating Vision-Language Models (VLMs) across tasks like image/video/document retrieval and RAG.
+- **Technical Focus**: Implements **contrastive learning** and **representation learning** for VLMs, with code optimized for **multimodal embeddings** and benchmarking against tasks in **image-retrieval**, **video-retrieval**,
 
 ## Use Cases
 

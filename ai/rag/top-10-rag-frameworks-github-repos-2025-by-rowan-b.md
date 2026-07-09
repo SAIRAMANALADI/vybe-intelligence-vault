@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355
-published_at: '2026-07-09T09:46:23.095794+05:30'
-collected_at: '2026-07-09T09:46:23.095806+05:30'
+published_at: '2026-07-10T04:16:16.331568+05:30'
+collected_at: '2026-07-10T04:16:16.331578+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:top-10-rag-frameworks-github-repos-2025-by-rowan-b
-first_seen: '2026-07-09T09:46:23.095806+05:30'
-last_seen: '2026-07-09T09:46:23.095806+05:30'
-last_checked: '2026-07-09T09:46:23.095806+05:30'
+first_seen: '2026-07-10T04:16:16.331578+05:30'
+last_seen: '2026-07-10T04:16:16.331578+05:30'
+last_checked: '2026-07-10T04:16:16.331578+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack (deepset-ai)**: Modular AI orchestration framework supporting multi-document stores (Elasticsearch, FAISS, SQL) and integration with BERT/RoBERTa/DPR models, enabling scalable question-answering and summarization pipelines.
+- **Haystack (deepset-ai)**: Modular AI orchestration framework for production-ready LLM applications with multi-document store support (Elasticsearch, FAISS, SQL), scalable pipelines, and integration with BERT/RoBERTa/DPR models.
 
-- **RAGFlow (infiniflow)**: Open-source RAG engine emphasizing deep document understanding with pre-built RAG pipelines, vector database integration, and custom embedding model support for streamlined prototyping.
+- **RAGFlow (infiniflow)**: Open-source RAG engine optimized for deep document understanding, featuring pre-built RAG pipelines, vector database integration, and a user-friendly workflow design interface for rapid prototyping.
 
-- **FlashRAG (RUC-NLPIR)**: Lightweight Python toolkit optimized for efficient RAG research, featuring distributed processing, benchmarking tools, and retrieval algorithms designed for high-speed, scalable applications.
+- **FlashRAG (RUC-NLPIR)**: Lightweight Python toolkit for efficient RAG research with optimized retrieval algorithms, distributed processing support, and benchmarking tools for performance-critical applications.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T09:46:23.095794+05:30
+- Published: 2026-07-10T04:16:16.331568+05:30
 
 ## Related Tags
 

@@ -15,6 +15,7 @@ tags:
 - anthropic
 - github-repo
 - python
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Extensive Skill Library**: Repository contains **1,935+ installable agentic skills** for AI coding tools (Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity) with specialized plugins, bundles, and workflows.
-- **Multi-Tool Integration**: Supports **official/community skill collections** across AI agents (Claude, Cursor, Gemini, Antigravity) and includes an **installer CLI** for seamless deployment.
-- **Python-Based & Actively Maintained**: Entirely written in Python, last
+- **Comprehensive Agentic Skills Library**: A Python-based GitHub repository offering **1,935+ installable agentic skills** for AI coding tools (Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity) with specialized plugins, installer CLI, bundles, and workflows.
+
+- **Multi-Tool Integration**: Supports **official/community skill collections** across diverse AI agents (e.g., MCP, Kiro) and frameworks, enabling cross-platform automation for AI-driven development workflows.
+
+- **H
 
 ## Use Cases
 

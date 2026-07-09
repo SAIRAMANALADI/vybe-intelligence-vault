@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **End-to-End Autonomous Research Workflow**: Agent Laboratory implements a fully autonomous research pipeline in Python, designed to assist human researchers in executing research ideas from inception to completion without manual intervention.
+- **Autonomous Research Workflow**: Agent Laboratory implements an end-to-end autonomous research pipeline in Python, designed to assist researchers by automating hypothesis generation, experimentation, and validation without manual intervention.
 
-- **Multi-Agent System Architecture**: The framework leverages a modular, multi-agent system where specialized agents (e.g., researcher, programmer, reviewer) collaborate via defined protocols to iteratively refine hypotheses, conduct experiments, and v
+- **Multi-Agent Architecture**: The system leverages a collaborative agent-based framework where specialized agents (e.g., researcher, critic, executor) interact to iteratively refine research objectives and methodologies.
+
+- **Open-Source & Extensible
 
 ## Use Cases
 

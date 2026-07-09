@@ -3,9 +3,9 @@ title: Unlocking the power of unstructured data with RAG - The GitHub Blog
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag
-published_at: '2026-06-22T15:17:25.671060+05:30'
-collected_at: '2026-06-22T15:17:25.671078+05:30'
+source_url: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag/
+published_at: '2026-07-10T04:16:20.066991+05:30'
+collected_at: '2026-07-10T04:16:20.067005+05:30'
 tags:
 - rag
 - reddit
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:unlocking-the-power-of-unstructured-data-with-rag
-first_seen: '2026-06-22T15:17:25.671078+05:30'
-last_seen: '2026-06-22T15:17:25.671078+05:30'
-last_checked: '2026-06-22T15:17:25.671078+05:30'
+first_seen: '2026-07-10T04:16:20.067005+05:30'
+last_seen: '2026-07-10T04:16:20.067005+05:30'
+last_checked: '2026-07-10T04:16:20.067005+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Actions Security Enhancements**: Nicole Choi discusses recent security improvements in GitHub Actions, including hardened runners and secret scanning enhancements to mitigate supply chain risks.
+- **GitHub CLI 2.0+ Integration**: Nicole Choi is a GitHub Staff Developer Advocate focusing on CLI tools, contributing to GitHub CLI's evolution (e.g., `gh` commands, scripting, and automation workflows).
 
-- **Automated Dependency Management**: Highlights GitHub's automated dependency updates and Dependabot improvements for proactive vulnerability patching in repositories.
+- **Developer Experience Advocacy**: Specializes in improving CLI usability, security, and extensibility for developers via GitHub’s official documentation, tutorials, and community engagement.
 
-- **CI/CD Pipeline Optimization**: Focuses on performance optimizations in GitHub Actions workflows, such as faster job execution and reduced latency for large-scale CI/CD pipelines.
+- **Open-Source Contributions**: Actively contributes to GitHub’s open-source projects, including CLI tools, SDKs, and developer tooling, with a focus on performance, accessibility, and cross-platform compatibility.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:17:25.671060+05:30
+- Published: 2026-07-10T04:16:20.066991+05:30
 
 ## Related Tags
 
@@ -50,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag
+Original source: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag/

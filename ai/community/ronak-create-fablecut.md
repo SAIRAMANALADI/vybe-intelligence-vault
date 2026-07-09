@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: github:ronak-create/fablecut
 first_seen: '2026-07-09T21:05:28.410497+05:30'
 last_seen: '2026-07-09T21:05:28.410497+05:30'
 last_checked: '2026-07-09T21:05:28.410497+05:30'
 health_score: 100
 ---
+
 
 # Show HN: FableCut – A browser video editor AI agents can drive (zero deps)
 

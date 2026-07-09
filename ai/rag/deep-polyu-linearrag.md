@@ -4,10 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-09T21:07:59.192186+05:30'
+collected_at: '2026-07-10T04:17:55.924382+05:30'
 published_at: '2026-07-08T14:04:33Z'
 tags:
-- benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-09T21:07:59.192186+05:30'
-last_seen: '2026-07-09T21:07:59.192186+05:30'
-last_checked: '2026-07-09T21:07:59.192186+05:30'
+first_seen: '2026-07-10T04:17:55.924382+05:30'
+last_seen: '2026-07-10T04:17:55.924382+05:30'
+last_checked: '2026-07-10T04:17:55.924382+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing LLM performance by reducing computational overhead while maintaining contextual relevance.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel graph-based RAG framework that linearizes large-scale corpora into structured graphs for efficient retrieval and augmentation in LLMs, optimizing scalability for ICLR 2026.
 
-- **Graph-Based Retrieval Mechanism**: Implements a linear graph traversal algorithm to dynamically construct retrieval paths, enabling scalable and low-latency access to relevant information without dense graph computations.
+- **Key Innovation**: Implements linear-time graph traversal (O(V+E)) for retrieval, bypassing traditional quadratic complexity in dense retrieval methods, while preserving contextual relevance via graph-augmented prompts.
 
-- **Performance Benchmarks**: Demonstrates state-of-the-art results on ICLR 2026 evaluations, achieving higher retrieval accuracy and generation quality compared to traditional dense retrieval methods while reducing memory and compute requirements.
+- **Performance**: Achieves state-of-the-art trade-offs in retrieval latency and answer accuracy on large-scale datasets (e.g., 10M+ documents), with Python-based implementation leveraging PyTorch for graph operations.
 
 ## Why It Matters
 

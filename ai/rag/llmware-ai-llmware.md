@@ -4,17 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/llmware-ai/llmware
-collected_at: '2026-07-09T21:10:39.347807+05:30'
-published_at: '2026-07-08T19:39:30Z'
+collected_at: '2026-07-10T04:20:26.045751+05:30'
+published_at: '2026-07-09T17:00:32Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
 - rag
-stars: 14817
+- workflows
+stars: 14816
 language: Python
 status: active
 license: Apache-2.0
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-09-29T15:19:06Z'
 pushed_at: '2026-05-17T13:53:37Z'
 resource_id: github:llmware-ai/llmware
-first_seen: '2026-07-09T21:10:39.347807+05:30'
-last_seen: '2026-07-09T21:10:39.347807+05:30'
-last_checked: '2026-07-09T21:10:39.347807+05:30'
+first_seen: '2026-07-10T04:20:26.045751+05:30'
+last_seen: '2026-07-10T04:20:26.045751+05:30'
+last_checked: '2026-07-10T04:20:26.045751+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified RAG Framework**: Provides an integrated Python-based pipeline for enterprise Retrieval-Augmented Generation (RAG) using small, specialized models optimized via ONNX and OpenVINO, supporting LlamaCpp for efficient inference.
+- **Unified RAG Framework**: Provides an end-to-end pipeline for enterprise Retrieval-Augmented Generation (RAG) using small, specialized models optimized for efficiency and performance.
 
-- **Multi-Model & Tool Integration**: Supports agents, generative AI tools, and parsing modules, enabling modular deployment of small specialized models for enterprise-grade LLM applications.
+- **Multi-Backend Support**: Integrates with multiple inference engines (LlamaCPP, ONNX, OpenVINO) and supports parsing tools for structured/unstructured data processing.
 
-- **Active Development & Compatibility**: Last updated July 2026, with 14.8k+ stars and 2.9k+ forks, indicating strong community adoption and continuous integration of modern LLM optimization techniques.
+- **Python-Based & Modular**: Open-source Python repository with modular components for agents, model optimization, and retrieval workflows, last updated July 2026.
 
 ## Why It Matters
 
@@ -45,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: llmware-ai
-- Stars: 14817
-- Forks: 2910
+- Stars: 14816
+- Forks: 2909
 - Language: Python
 - Topics: agents, generative-ai-tools, llamacpp, llm, onnx, openvino, parsing, retrieval-augmented-generation, small-specialized-models
-- Last Updated: 2026-07-08T19:39:30Z
+- Last Updated: 2026-07-09T17:00:32Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-09-29T15:19:06Z

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/ajac-zero-example-rag-app.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tool
+resource_kind: prompt
 importance: medium
 tags:
 - anthropic
@@ -17,8 +17,8 @@ tags:
 - models
 - openai
 - rag
-- scripts
 - typescript
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -30,18 +30,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tool
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Observability & Multi-Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for 100+ provider compatibility (e.g., OpenAI, Anthropic, Mistral) with structured logging and tracing.
+- **Multi-Provider LLM Integration**: Utilizes LiteLLM to support 100+ LLM providers with unified API access, enabling seamless switching between models (e.g., OpenAI, Anthropic, Mistral) via environment variables.
 
-- **Strict TypeScript Enforcement**: Full type-checking via `tsc` and `type-coverage` tools, ensuring compile-time safety and runtime reliability in a Dockerized environment.
+- **Observability & Debugging**: Implements Langfuse for full LLM observability, logging prompts, completions, costs, and latency metrics to track performance and debugging workflows end-to-end.
 
-- **Testing & CI/CD**: Achieves 100% test coverage with Jest/Playwright, automated via GitHub Actions for continuous va
+- **Enterprise-Grade Tooling**: Dockerized deployment with TypeScript strict typing, 100
 
 ## Use Cases
 

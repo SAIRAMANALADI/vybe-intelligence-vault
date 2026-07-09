@@ -16,6 +16,7 @@ tags:
 - github-repo
 - openai
 - python
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -35,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an event-driven, non-blocking architecture for concurrent task execution using Python's `asyncio`, enabling parallelized LLM interactions and tool calls.
-- **Multi-Provider LLM Integration**: Supports asynchronous communication with OpenAI, Anthropic (ClaudeCode), and other LLM providers via standardized interfaces, optimizing token streaming and response handling.
-- **Modular Tooling & State Management**: Features a plugin-based tool system with persi
+- **Asynchronous Coding Agent**: Implements an asynchronous, multi-agent system for autonomous code generation, testing, and debugging using LLMs (OpenAI, Anthropic, etc.) with structured task decomposition and parallel execution.
+
+- **Tool Integration**: Supports dynamic tool usage (e.g., shell commands, file I/O, API calls) via a modular interface, enabling real-time environment interaction and iterative refinement of generated code.
+
+- **Scalable Architecture**: Designed for horizontal scalin
 
 ## Use Cases
 

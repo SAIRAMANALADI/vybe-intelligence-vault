@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-09T21:06:54.095648+05:30'
+collected_at: '2026-07-10T04:16:50.850856+05:30'
 published_at: '2026-07-07T03:51:39Z'
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - models
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-09T21:06:54.095648+05:30'
-last_seen: '2026-07-09T21:06:54.095648+05:30'
-last_checked: '2026-07-09T21:06:54.095648+05:30'
+first_seen: '2026-07-10T04:16:50.850856+05:30'
+last_seen: '2026-07-10T04:16:50.850856+05:30'
+last_checked: '2026-07-10T04:16:50.850856+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling real-time analysis of retrieval and generation dynamics.
-- **Streamlit-Powered UI**: Integrates Streamlit for interactive exploration of RAG components (e.g., embeddings, retrieval scores, LLM outputs) with dynamic visualizations for debugging and optimization.
-- **Python-Based & Modular**: Leverages Python for backend logic, supporting customization of retrieval strategies, LLM models, and visualization metrics; last updated July 2026 with active community contributions (1222 stars, 114 forks).
+- **Interactive RAG Visualization Tool**: Open-source Python-based utility (`RAGxplorer`) leveraging Jupyter Notebooks and Streamlit for dynamic exploration and debugging of Retrieval-Augmented Generation (RAG) pipelines.
+
+- **Key Features**: Enables real-time visualization of RAG components (retriever, generator, embeddings) with interactive UI for analyzing query flows, retrieval accuracy, and LLM response generation.
+
+- **Technical Stack**: Built with Python, integrates Streamlit for web-based interactivity, and supports custom RAG pipelines for LLMs with modular visualization of embeddings and retrieval metrics.
 
 ## Why It Matters
 

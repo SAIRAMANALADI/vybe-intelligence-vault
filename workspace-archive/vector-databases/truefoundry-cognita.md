@@ -2,7 +2,7 @@
 title: truefoundry/cognita
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/truefoundry/cognita?source=
+source_url: https://github.com/truefoundry/cognita
 resource_id: github:truefoundry/cognita
 local_vault_path: ai/rag/truefoundry-cognita.md
 quality_score: 70
@@ -10,6 +10,13 @@ archive_score: 75
 archive_tier: useful
 resource_kind: framework
 importance: medium
+tags:
+- agents
+- github-repo
+- models
+- python
+- rag
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -40,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/truefoundry/cognita?source=
+Original source URL: https://github.com/truefoundry/cognita
 
 ## Local Vault File
 

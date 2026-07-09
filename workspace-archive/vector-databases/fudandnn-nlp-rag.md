@@ -11,8 +11,8 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
-- hackernews
 - paper
 - python
 - rag
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Implementation**: Repository provides a Python-based implementation of the EMNLP2024 paper "Searching for Best Practices in Retrieval-Augmented Generation," focusing on RAG optimization techniques.
-- **Key Features**: Includes methods for evaluating and improving RAG pipelines, such as retrieval strategies, generation tuning, and integration frameworks.
-- **Updates**: Last updated on 2026-07-02, reflecting recent advancements or bug fixes in RAG methodologies.
+- Implements retrieval-augmented generation (RAG) best practices as per EMNLP 2024, optimizing retrieval and generation integration.
+- Provides a Python-based framework for evaluating and benchmarking RAG systems with modular components for retrieval, reranking, and generation.
+- Supports extensibility via custom retrievers, rerankers, and LLMs, with evaluation metrics for assessing performance.
 
 ## Use Cases
 

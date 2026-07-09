@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-07-09T21:07:39.181604+05:30'
+collected_at: '2026-07-10T04:17:35.898831+05:30'
 published_at: '2026-07-09T13:49:32Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - python
 - rag
 - scripts
+- workflows
 stars: 250
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-06-18T03:28:29Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-07-09T21:07:39.181604+05:30'
-last_seen: '2026-07-09T21:07:39.181604+05:30'
-last_checked: '2026-07-09T21:07:39.181604+05:30'
+first_seen: '2026-07-10T04:17:35.898831+05:30'
+last_seen: '2026-07-10T04:17:35.898831+05:30'
+last_checked: '2026-07-10T04:17:35.898831+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent with skill-based architecture for Security Operations Center (SOC) automation, integrating OpenSearch/Elasticsearch for real-time data monitoring and anomaly detection.
+- **Modular SOC Agent**: Python-based autonomous agent for Security Operations Centers (SOC), integrating OpenSearch/Elasticsearch monitoring with skill-based anomaly detection and threat validation via LLMs.
 
-- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to build dynamic behavioral memory from monitored data, enabling contextual validation of anomalies via LLMs.
+- **RAG-Based Behavioral Memory**: Constructs Retrieval-Augmented Generation (RAG) memory to contextualize real-time anomalies, enabling adaptive threat detection and historical pattern analysis.
 
-- **Threat Validation Pipeline**: Uses LLMs to cross-validate real-time anomalies, combining threat detection, hunting, and SOC automation for adaptive cybersecurity response.
+- **Real-Time Validation & Automation**: Validates anomalies dynamically using LLMs, automates SOC workflows, and supports modular expansion for cybersecurity use cases (threat hunting, detection, etc.).
 
 ## Why It Matters
 

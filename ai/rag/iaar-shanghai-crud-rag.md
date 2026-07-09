@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-09T21:07:34.145654+05:30'
+collected_at: '2026-07-10T04:17:30.901666+05:30'
 published_at: '2026-07-08T12:24:24Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-09T21:07:34.145654+05:30'
-last_seen: '2026-07-09T21:07:34.145654+05:30'
-last_checked: '2026-07-09T21:07:34.145654+05:30'
+first_seen: '2026-07-10T04:17:30.901666+05:30'
+last_seen: '2026-07-10T04:17:30.901666+05:30'
+last_checked: '2026-07-10T04:17:30.901666+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems across **Create**, **Retrieve**, **Update**, and **Delete** operations for Large Language Models (LLMs).
+- **Benchmark Suite**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) models, focusing on Large Language Models (LLMs) with metrics for retrieval quality, generation accuracy, and contextual relevance.
 
-- **Evaluation Framework**: Provides a structured methodology to assess RAG performance in Chinese, covering tasks like document retrieval, context integration, and dynamic knowledge updates with standardized metrics.
+- **Modular Framework**: Implements a structured pipeline for CRUD (Create, Read, Update, Delete) operations in RAG systems, enabling dynamic data management and retrieval optimization for Chinese-language tasks.
 
-- **Open-Source Toolkit**: Released as a Python-based repository with 398 stars, offering tools for benchmarking, dataset curation, and evaluation pipelines for RAG systems in Chinese NLP contexts.
+- **Evaluation Metrics**: Includes standardized metrics for assessing RAG performance, such as retrieval precision, generation coherence, and end-to-end task completion, with open-source Python implementations for reproducibility.
 
 ## Why It Matters
 

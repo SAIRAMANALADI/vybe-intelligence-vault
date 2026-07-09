@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **5-week structured curriculum** covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like **binary/scalar quantization** and **Matryoshka representation learning** for efficient indexing.
-- **Hands-on implementation** using **Azure OpenAI**, **HNSW** for vector search, and **Jupyter Notebooks** in **VS Code**, with focus on **responsible AI** and **multimodal RAG**.
-- **Optimized retrieval pipelines** demonstrated via **binary/scalar quantization** and **hybrid
+- **5-week structured curriculum** covering RAG fundamentals, hybrid search (HNSW + keyword), and multimodal applications using Azure OpenAI and VS Code.
+- **Advanced quantization techniques** (binary/scalar) and **Matryoshka representation learning** for efficient indexing and retrieval.
+- **Responsible AI integration** with focus on generative AI safety, multimodal RAG pipelines, and deployment best practices.
 
 ## Use Cases
 

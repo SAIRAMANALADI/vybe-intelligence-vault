@@ -6,18 +6,16 @@ source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
 resource_id: github:vstorm-co/full-stack-ai-agent-template
 local_vault_path: ai/rag/vstorm-co-full-stack-ai-agent-template.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: template
-importance: high
+importance: medium
 tags:
 - agents
 - frontend_ui
 - github-repo
 - python
 - rag
-- reddit
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -28,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `LLM App Templates`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Full-stack AI agent template** integrating FastAPI (backend) and Next.js (frontend) with pre-configured AI agent frameworks (**LangChain, LangGraph, CrewAI, Pydantic-AI**), **RAG**, streaming, and **20+ integrations** (e.g., PostgreSQL, Docker, WebSocket).
+- **Full-stack AI Agent Template**: Pre-configured starter with FastAPI backend, Next.js frontend, and integrated AI agents using frameworks like CrewAI, LangChain, LangGraph, and Pydantic-AI.
 
-- **Authentication & data validation** via **Pydantic** (Deep) and **PostgreSQL**, with **React/TypeScript** frontend for dynamic UI, optimized for AI agent workflows.
+- **Key Features**: Supports RAG, real-time streaming via WebSocket, authentication, and 20+ third-party integrations (PostgreSQL, Docker, etc.).
 
-- **Production-ready stack** with **FastAPI** for REST/WebSocket APIs
+- **Tech Stack**: Python (backend), TypeScript/React (frontend), with Pydantic models, FastAPI, and Next.js for scalable AI-driven applications.
 
 ## Use Cases
 

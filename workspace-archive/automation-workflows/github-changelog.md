@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- openai
 - web-crawled
 - workflows
 selection_reason:
@@ -31,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Enterprise Team Assignment to Cost Centers**: GitHub now allows enterprise teams to be directly assigned to cost centers, enabling granular financial tracking and resource allocation at the team level within enterprise accounts.
+- **Model Integration**: OpenAI's GPT-5.6 variants (Sol, Terra, Luna) are now accessible via GitHub Copilot, expanding the AI-powered coding assistant's model options.
 
-- **Enhanced Account Management Integration**: The update integrates enterprise team assignments with existing account management tools, streamlining administrative workflows for large-scale deployments.
+- **Enhanced Capabilities**: The new models (Sol, Terra, Luna) are optimized for improved code generation, debugging, and contextual understanding in GitHub Copilot workflows.
 
-- **Improved Enterprise Tooling**: The change enhances enterp
+- **Deployment Timeline**: The update was rolled out on **July 9, 2026**, as part of GitHub's changelog for Copilot integrations.
 
 ## Use Cases
 

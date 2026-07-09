@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Agent Framework**: Implements a shell-based architecture with specialized agents (e.g., frontend, Reddit, whimsy injectors) each designed for distinct tasks, roles, and deliverables.
-- **Personality-Driven Workflows**: Agents incorporate unique personas and processes, enabling dynamic interaction patterns and context-aware decision-making.
-- **Scalable Automation Toolkit**: Repository provides a structured, extensible system for deploying AI-driven agents with minimal overhead, op
+- **Modular AI Agent Framework**: Repository implements a shell-based, extensible AI agency architecture with specialized agents (e.g., frontend developers, Reddit community managers) each designed with distinct personalities, workflows, and predefined deliverables.
+
+- **Scalable Agent Ecosystem**: Supports rapid agent deployment via shell scripts, enabling integration of diverse expert roles (e.g., whimsy injectors, reality checkers) with minimal overhead.
+
+- **Community-Driven Development**: A
 
 ## Use Cases
 

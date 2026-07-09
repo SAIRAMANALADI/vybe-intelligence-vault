@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-agentic-rag
-collected_at: '2026-07-09T21:06:59.167332+05:30'
-published_at: '2026-07-04T02:29:38Z'
+collected_at: '2026-07-10T04:16:55.887234+05:30'
+published_at: '2026-07-09T21:04:01Z'
 tags:
 - agents
 - github-repo
 - jupyter notebook
 - rag
 - workflows
-stars: 165
+stars: 166
 language: Jupyter Notebook
 status: active
 license: Apache-2.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-14T17:08:04Z'
 pushed_at: '2026-06-11T22:51:59Z'
 resource_id: github:nvidia/workbench-example-agentic-rag
-first_seen: '2026-07-09T21:06:59.167332+05:30'
-last_seen: '2026-07-09T21:06:59.167332+05:30'
-last_checked: '2026-07-09T21:06:59.167332+05:30'
+first_seen: '2026-07-10T04:16:55.887234+05:30'
+last_seen: '2026-07-10T04:16:55.887234+05:30'
+last_checked: '2026-07-10T04:16:55.887234+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Implementation**: Demonstrates an agentic RAG pipeline leveraging NVIDIA AI Workbench for dynamic retrieval and generation workflows.
-- **Jupyter Notebook Format**: Provides a structured, executable example in a Jupyter Notebook for interactive experimentation and deployment.
-- **NVIDIA AI Workbench Integration**: Utilizes NVIDIA's AI Workbench framework to streamline agentic RAG model development and deployment.
+- **Agentic RAG Implementation**: Demonstrates an agentic RAG pipeline using NVIDIA AI Workbench, integrating retrieval and generative components for dynamic, multi-step reasoning.
+- **Jupyter Notebook Format**: Entire project structured as executable notebooks, enabling interactive experimentation with agentic workflows and RAG components.
+- **NVIDIA Stack Integration**: Leverages NVIDIA’s ecosystem (e.g., GPUs, frameworks) for optimized agentic RAG performance, including retrieval augmentation and LLM inference.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVIDIA
-- Stars: 165
+- Stars: 166
 - Forks: 233
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-07-04T02:29:38Z
+- Last Updated: 2026-07-09T21:04:01Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-08-14T17:08:04Z

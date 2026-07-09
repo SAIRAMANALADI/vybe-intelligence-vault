@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Model RAG & Agent Framework**: Implements Retrieval-Augmented Generation (RAG) with support for OpenAI-compatible embeddings, vector search (via reranking), and autonomous reasoning agents in Go, enabling dynamic knowledge base interactions.
+- **Multi-Model RAG & Agent Framework**: Implements Retrieval-Augmented Generation (RAG) with support for OpenAI and Ollama models, enabling autonomous reasoning agents and self-maintaining Wiki functionality via Go-based pipelines.
 
-- **Self-Maintaining Wiki & Multi-Tenant System**: Automatically updates and structures raw documents into a queryable Wiki, with multi-tenant isolation for scalable, collaborative knowledge management.
+- **Advanced Search & Embeddings**: Integrates vector search, reranking, and semantic search with multi-tenant support, leveraging embeddings for efficient document-to-query processing.
 
-- **Modular & Extensible**: Integrates Olla
+- **Scalable Knowledge Platform**: Designed for generative AI applications, fea
 
 ## Use Cases
 

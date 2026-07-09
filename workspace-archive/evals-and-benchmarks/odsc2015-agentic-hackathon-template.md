@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Standardized Framework**: Provides a pre-configured repository structure for Agentic AI App Hackathon submissions, including folder templates and documentation placeholders to ensure consistency.
+- **Standardized Starter Repository**: Provides a preconfigured folder structure and environment specifications for Agentic AI App Hackathon submissions, ensuring reproducibility and streamlined judging.
 
-- **Reproducible Environment**: Includes a specification file (e.g., `environment.yml` or `requirements.txt`) to standardize dependencies and runtime configurations across teams.
+- **Documentation Placeholders**: Includes templates for documentation to facilitate team submissions and evaluation processes.
 
-- **Judging Optimization**: Streamlines submission and evaluation processes by enforcing a uniform structure, reducing
+- **Version Control Metrics**: Maintains 19 stars and 192 forks as of the last update (2026-05-10), indicating community engagement and adoption.
 
 ## Use Cases
 

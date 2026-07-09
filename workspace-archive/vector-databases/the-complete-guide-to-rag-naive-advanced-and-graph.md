@@ -7,7 +7,7 @@ source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
 local_vault_path: ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md
 quality_score: 70
-archive_score: 72
+archive_score: 76
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -32,7 +32,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -40,9 +40,7 @@ selection_reason:
 
 ## Summary
 
-- **RAG Evolution & Architecture**: RAG (Retrieval-Augmented Generation) combines retrieval, augmentation, and generation to address LLM limitations (freshness, private knowledge, hallucinations). It evolved from **Naive RAG** (basic vector search + generation) to **Advanced RAG** (hybrid retrieval, reranking, query transformation) to **Graph RAG** (entity-relation graph traversal for multi-hop reasoning), with **Modular RAG** enabling dynamic routing and tool integration.
-
-- **Core Components &
+- **RAG Architecture & Evolution**: RAG (Retrieval-Augmented Generation) integrates retrieval, augmentation, and generation, formalized in 2020 by Lewis et al. It addresses LLM limitations (freshness, private knowledge, hallucinations) by dynamically fetching external data. Evolution spans four generations: **Naive RAG** (basic vector search), **Advanced RAG** (hybrid retrieval, reranking, query transformation), **Modular RAG** (routing, looping, tool integration), and **Graph RAG** (entity-rela
 
 ## Use Cases
 

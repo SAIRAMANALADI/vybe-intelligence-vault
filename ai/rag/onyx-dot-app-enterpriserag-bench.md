@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-07-09T21:07:34.172816+05:30'
+collected_at: '2026-07-10T04:17:30.918982+05:30'
 published_at: '2026-07-09T13:08:38Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - rag
 - unknown
 stars: 452
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-07-09T21:07:34.172816+05:30'
-last_seen: '2026-07-09T21:07:34.172816+05:30'
-last_checked: '2026-07-09T21:07:34.172816+05:30'
+first_seen: '2026-07-10T04:17:30.918982+05:30'
+last_seen: '2026-07-10T04:17:30.918982+05:30'
+last_checked: '2026-07-10T04:17:30.918982+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset & Benchmark**: Provides a curated dataset and evaluation framework for Retrieval-Augmented Generation (RAG) systems tailored to company internal documents, enabling standardized testing of enterprise RAG performance.
+- **Purpose**: Provides a benchmarking framework and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of LLM performance in enterprise search and knowledge base QA tasks.
 
-- **Synthetic Data Generation**: Implements synthetic data generation techniques to create diverse, realistic enterprise document-query pairs for robust RAG evaluation across domains like semantic search and QA.
+- **Key Features**: Includes 452+ synthetic enterprise documents across domains, with evaluation metrics for retrieval quality, answer correctness, and hallucination detection, designed for Python-based RAG pipelines.
 
-- **Evaluation Suite**: Includes Python-based tools for assessing RAG systems on metrics such as retrieval accuracy, answer correctness, and latency, supporting both open-source and proprietary LLMs.
+- **Evaluation Scope**: Measures semantic search effectiveness, context relevance, and LLM response accuracy, supporting iterative optimization of enterprise RAG deployments.
 
 ## Why It Matters
 

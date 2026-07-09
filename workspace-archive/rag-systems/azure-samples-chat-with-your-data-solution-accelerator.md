@@ -6,10 +6,10 @@ source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accele
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
 local_vault_path: ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: template
-importance: medium
+importance: high
 tags:
 - github-repo
 - openai
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-*   Implements a RAG pattern solution accelerator utilizing Azure AI Search for document retrieval and Azure OpenAI LLMs for generative responses.
-*   Provides ChatGPT-style and Q&A conversational AI experiences over proprietary data, incorporating best practices and common requirements.
-*   Developed in Python, designed for Azure deployment, and leverages `azd-templates` for infrastructure provisioning.
+- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for generative responses, enabling Q&A and ChatGPT-style interactions.
+- **Azure Deployment**: Leverages **Azure Developer CLI (azd) templates** for infrastructure-as-code (IaC) provisioning, ensuring scalable and reproducible deployments across Azure services.
+- **Best Practices**: Incorporates production-ready patterns for **semantic search**, **pro
 
 ## Use Cases
 

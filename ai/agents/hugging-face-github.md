@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/huggingface
-published_at: '2026-07-09T21:20:26.228022+05:30'
-collected_at: '2026-07-09T21:20:26.228036+05:30'
+published_at: '2026-07-10T04:22:15.445736+05:30'
+collected_at: '2026-07-10T04:22:15.445764+05:30'
 tags:
 - agents
 - dataset
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:hugging-face-github
-first_seen: '2026-07-09T21:20:26.228036+05:30'
-last_seen: '2026-07-09T21:20:26.228036+05:30'
-last_checked: '2026-07-09T21:20:26.228036+05:30'
+first_seen: '2026-07-10T04:22:15.445764+05:30'
+last_seen: '2026-07-10T04:22:15.445764+05:30'
+last_checked: '2026-07-10T04:22:15.445764+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,14 @@ health_score: 100
 
 ## Summary
 
-- **Hugging Face** is an AI-focused organization maintaining core libraries like `transformers` (162k+ stars), `diffusers` (34k+ stars), `datasets` (21.7k+ stars), and `peft` (21.4k+ stars) for state-of-the-art ML model development, diffusion-based generation, dataset management, and parameter-efficient fine-tuning, respectively.
+- **Hugging Face** maintains a suite of open-source libraries (`transformers`, `diffusers`, `datasets`, `peft`, `accelerate`, `optimum`) for state-of-the-art ML across modalities, supporting both training and inference with hardware acceleration (e.g., FSDP, DeepSpeed, fp8).
 
-- **Key infrastructure tools** include `accelerate` (PyTorch acceleration with FP8/FSDP/DeepSpeed support) and `optimum` (hardware optimization for inference/training across Transformers, Diffusers, and TIMM).
+- **Core repositories** include:
+  - `transformers`: Unified framework for NLP, vision, audio, and multimodal models (162k+ stars).
+  - `tokenizers`: High-performance Rust-based tokenization (10.8k+ stars).
+  - `diffusers`: Diffusion models for generative AI (34k+ stars).
 
-- **Additional projects** span `tokenizers` (Rust-based high-performance tokenization), `trl` (RL-based LM training), and `huggingface.js` (JavaScript/TypeScript bindings), with verified domain control over `huggingface.co`.
+- **Additional projects** span robotics (`lerobot`), reinforcement learning (`trl`), and compute optimization (`kernels`, `optimum`), with active community contributions and Apache-2.0 licensing.
 
 ## Why It Matters
 
@@ -39,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-09T21:20:26.228022+05:30
+- Published: 2026-07-10T04:22:15.445736+05:30
 
 ## Related Tags
 
