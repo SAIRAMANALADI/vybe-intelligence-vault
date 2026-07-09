@@ -1,46 +1,52 @@
 ---
 title: "withqwerty/football-docs"
 category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Node.js", "SQLite", "npm", "GitHub Actions"]
+tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "SQLite", "Node.js", "npm", "GitHub Actions", "Markdown", "Natural Language Processing (NLP)"]
 quality_score: 9
-rag_relevance: 9
-tags: ["football data", "AI agent documentation", "MCP server", "data provider references", "provenance tracking"]
+rag_relevance: 10
+tags: ["football data", "AI documentation", "MCP server", "data provider index", "RAG optimization"]
 source: "https://github.com/withqwerty/football-docs"
-discovered_at: "2026-07-09T11:52:46Z"
+discovered_at: "2026-07-09T14:45:28Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A searchable documentation index for football data providers and tools, designed to provide AI coding agents with verified, up-to-date references for football data specifics via the Model Context Protocol (MCP). It enables agents to resolve mutable facts like API endpoints, qualifier IDs, and coordinate systems with provenance tracking.
+football-docs provides a searchable, community-owned documentation index for football data providers and tools, enabling AI coding agents to retrieve verified, up-to-date facts about event types, APIs, data models, and identity surfaces without relying on potentially outdated training data.
 
 ## Key Features
-- Searchable index of 19+ football data providers and tools with 1,175+ chunks of documentation
-- Provenance tracking for all answers (source URL, version, crawl timestamp)
-- MCP server integration for AI coding tools (Claude Code, Cursor, VS Code Copilot)
-- Cross-provider comparison and identity resolution tools (e.g., `resolve_entity`)
-- Automated crawling and ingestion pipeline for maintaining up-to-date docs
+- Searchable index of 19+ football data providers and tools with 1,201+ searchable chunks
+- Provenance tracking for all documentation (source URL, version, crawl timestamp)
+- MCP server integration for seamless AI agent access (Claude Code, Cursor, VS Code Copilot)
+- Cross-provider comparison tools for event types, coordinate systems, and APIs
+- Community-driven updates via GitHub issues and PRs
 
 ## Why It Matters for RAG Builders
-It eliminates hallucinations in AI agents by providing verified, mutable football data facts with provenance, ensuring accurate and reliable RAG outputs for football analytics workflows.
+It eliminates hallucinations in AI agents by providing verified, mutable football data facts directly from authoritative sources, ensuring accuracy in RAG pipelines.
 
 ## Tech Stack Deep Dive
 ### TypeScript
 Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### SQLite
 Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### npm
 Automated review identified **npm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### GitHub Actions
 Automated review identified **GitHub Actions** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Markdown
+Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Natural Language Processing (NLP)
+Automated review identified **Natural Language Processing (NLP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

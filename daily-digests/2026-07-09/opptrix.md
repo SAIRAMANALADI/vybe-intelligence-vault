@@ -1,27 +1,27 @@
 ---
 title: "Travisun/Opptrix"
 category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "React", "Fastify", "Electron", "SQLite", "Fluent UI", "Vite", "MCP (Model Context Protocol)", "OpenAI-compatible LLM APIs"]
+tech_stack: ["TypeScript", "Node.js", "React", "Fluent UI", "Fastify", "Electron", "SQLite", "MCP (Model Context Protocol)", "Vite", "OpenAI-compatible LLM APIs"]
 quality_score: 9
 rag_relevance: 7
-tags: ["A-shares research", "MCP tools", "LLM agent", "factor screening", "investment assistant"]
+tags: ["AI research assistant", "MCP tools", "China A-shares", "multi-source data aggregation", "LLM function calling"]
 source: "https://github.com/Travisun/Opptrix"
-discovered_at: "2026-07-09T11:53:31Z"
+discovered_at: "2026-07-09T14:46:19Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Opptrix is an open-source AI-powered research assistant for China A-shares, enabling users to query stock market data, factors, institutional insights, and strategy signals via natural language. It integrates 40+ MCP tools, supports both web and Electron desktop interfaces, and provides structured Chinese analysis with a React-based UI and Fastify API backend.
+Opptrix is an open-source AI-powered research assistant for China A-shares that enables natural language queries processed by LLMs using 40+ MCP research tools to generate structured Chinese analysis. It supports both web and Electron desktop interfaces with a shared React UI and Fastify API backend.
 
 ## Key Features
-- Natural language querying for stock market research with LLM-driven tool execution
-- 40+ MCP tools for real-time quotes, factor analysis, institutional ratings, and backtesting
-- Web and Electron desktop support with a shared React UI and Fastify API backend
-- Local SQLite factor database for historical screening and radar analysis
-- Multi-session chat persistence, watchlists, and strategy discovery panels
+- Natural language querying with LLM-driven tool execution for stock research, factor screening, and backtesting
+- 40+ MCP research tools integrated for real-time market data, institutional ratings, and strategy signals
+- Cross-platform support with React-based UI and Electron desktop client
+- Local SQLite factor database for historical data analysis and screening
+- Multi-session chat history with persistent storage and right-panel market dashboards
 
 ## Why It Matters for RAG Builders
-Opptrix provides a modular, extensible framework for integrating LLM-driven research tools with financial data sources, making it valuable for AI engineers building RAG systems in the finance domain.
+Opptrix provides a modular framework for integrating LLM-driven research tools with financial data sources, making it valuable for building custom AI-driven investment research systems.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -33,6 +33,9 @@ Automated review identified **Node.js** as a key module contributing to infrastr
 ### React
 Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
+### Fluent UI
+Automated review identified **Fluent UI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### Fastify
 Automated review identified **Fastify** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
@@ -42,14 +45,11 @@ Automated review identified **Electron** as a key module contributing to infrast
 ### SQLite
 Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Fluent UI
-Automated review identified **Fluent UI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Vite
 Automated review identified **Vite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### OpenAI-compatible LLM APIs
 Automated review identified **OpenAI-compatible LLM APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
