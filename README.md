@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 52,374 files</p>
-        <p><b>Last Update:</b> 2026-07-09 21:23 IST</p>
+        <p><b>Last Update:</b> 2026-07-09 22:49 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,29 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[John Deere owners will get the right to repair equipment under FTC settlement](ai/community/john-deere-owners-will-get-the-right-to-repair-equ.md)** • <kbd>+738 pts</kbd>
-- 🔼 **[Hugging Face · GitHub](ai/agents/hugging-face-github.md)** • Rank: <kbd>+35</kbd>
-- 🔼 **[Gemma 3 · Hugging Face](ai/rag/huggingface-docs-transformers.md)** • Rank: <kbd>+2673</kbd>
-- 🔼 **[MedGemma: Our most capable open models for health AI development](ai/rag/medgemma-our-most-capable-open-models-for-health-a.md)** • Rank: <kbd>+4512</kbd>
-- 🔼 **[Gemma 4 with quantization-aware training](ai/rag/gemma-4-with-quantization-aware-training.md)** • Rank: <kbd>+4312</kbd>
+- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+7</kbd>
+- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+5</kbd>
+- 🔼 **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** • Rank: <kbd>+5</kbd>
+- 🔼 **[RUC-NLPIR/FlashRAG](ai/rag/ruc-nlpir-flashrag.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Show HN: FableCut – A browser video editor AI agents can drive (zero deps)](ai/community/ronak-create-fablecut.md)** • Score: `59`
-- 🆕 **[Show HN: Arcaide – Explore code with multi-level call graphs](ai/community/show-hn-arcaide-explore-code-with-multi-level-call.md)** • Score: `16`
-- 🆕 **[microsoft/pyright](ai/resources/microsoft-pyright.md)** • Score: `0`
-- 🆕 **[Get started with Crashlytics for Android | Firebase Crashlytics](ai/resources/get-started-with-crashlytics-for-android-firebase.md)** • Score: `0`
-- 🆕 **[Safetensors · Hugging Face](ai/rag/huggingface-docs-safetensors.md)** • Score: `0`
+- 🆕 **[Engineering Bringing more control over your connectors June 24, 2026 By Mistral AI](ai/companies/mistral/bringing-more-control-over-your-connectors.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Show HN: Microsoft releases Flint, a visualization language for AI agents](ai/community/show-hn-microsoft-releases-flint-a-visualization-l.md)**
-- 💤 **[I think I have LLM burnout](ai/community/i-think-i-have-llm-burnout.md)**
-- 💤 **[MIRA: Multiplayer Interactive World Models Trained on Rocket League](ai/community/mira-multiplayer-interactive-world-models-trained.md)**
-- 💤 **[Benchmarking coding agents on Databricks' multi-million line codebase](ai/community/benchmarking-coding-agents-on-databricks-multi-mil.md)**
-- 💤 **[Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 By Mistral](ai/companies/mistral/research-physics-ai-research-thats-shaping-the-ind.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
