@@ -1,43 +1,43 @@
 ---
-title: "palveron/mcp-server"
+title: "evehypoglycaemic255/mcp-server"
 category: "Orchestrator"
-tech_stack: ["Node.js", "JavaScript", "Model Context Protocol (MCP)", "REST API", "TypeScript (implied via SDK)"]
-quality_score: 8
-rag_relevance: 9
-tags: ["AI Governance", "MCP Server", "Policy Enforcement", "Audit Trail", "PII Masking"]
-source: "https://github.com/palveron/mcp-server"
-discovered_at: "2026-07-10T06:53:20Z"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "Windows", "Semantic Search", "Local Storage"]
+quality_score: 6
+rag_relevance: 8
+tags: ["MCP server", "long-term memory", "semantic search", "plugin sandbox", "local AI workflow"]
+source: "https://github.com/evehypoglycaemic255/mcp-server"
+discovered_at: "2026-07-10T20:22:31Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Official MCP server for Palveron's AI Governance platform, enabling real-time policy enforcement, PII masking, and audit trails for MCP-capable AI agents like Claude Code and Cursor. Acts as a drop-in gateway to enforce guardrails on tool calls and prompts.
+mcp-server provides a local Model Context Protocol (MCP) server for Windows, enabling AI tools to store and retrieve long-term memory, perform semantic searches, and manage plugins in a sandboxed environment. It includes a dashboard for monitoring and control.
 
 ## Key Features
-- Real-time policy enforcement for MCP tool calls and prompts
-- Drop-in integration with any MCP-capable client (Claude Code, Cursor, etc.)
-- Comprehensive audit trails with trace IDs for debugging and compliance
-- Built-in retry, circuit breaker, and typed error handling via @palveron/sdk
-- Environment-based configuration for secrets management and flexibility
+- Persistent memory storage for AI agents
+- Semantic search for retrieving related context
+- Dashboard for monitoring and management
+- Plugin sandbox for safe experimentation
+- Token-efficient design to reduce prompt bloat
 
 ## Why It Matters for RAG Builders
-It provides essential governance and security controls for RAG/AI stacks by enforcing policies and masking sensitive data in real-time during agent interactions.
+It enables AI workflows to maintain persistent, retrievable context locally, reducing redundant prompts and improving efficiency for RAG systems.
 
 ## Tech Stack Deep Dive
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### JavaScript
-Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Model Context Protocol (MCP)
 Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### REST API
-Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Windows
+Automated review identified **Windows** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### TypeScript (implied via SDK)
-Automated review identified **TypeScript (implied via SDK)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Semantic Search
+Automated review identified **Semantic Search** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Local Storage
+Automated review identified **Local Storage** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
