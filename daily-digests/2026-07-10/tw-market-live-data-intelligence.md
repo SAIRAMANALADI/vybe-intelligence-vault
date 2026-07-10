@@ -1,27 +1,27 @@
 ---
 title: "SmartyJohnway/tw-market-live-data-intelligence"
 category: "Tooling"
-tech_stack: ["Python", "FastAPI", "MCP (Model Context Protocol)", "Mermaid.js", "JSON", "HTML/CSS (Frontend)", "pytest", "uvicorn", "Playwright (Optional for E2E)"]
+tech_stack: ["Python", "FastAPI", "MCP (Model Context Protocol)", "Mermaid.js", "JSON", "HTML/CSS", "pytest", "Playwright", "TLS/SSL"]
 quality_score: 7
 rag_relevance: 8
-tags: ["Taiwan market data", "local-first", "governed context", "source health diagnostics", "AI-native workbench"]
+tags: ["Taiwan market data", "local-first", "AI governance", "source health diagnostics", "conversation package"]
 source: "https://github.com/SmartyJohnway/tw-market-live-data-intelligence"
-discovered_at: "2026-07-10T02:27:35Z"
+discovered_at: "2026-07-10T06:31:15Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A local-first, AI-native workbench for Taiwan market data that enables governed context validation, bounded observations, source-health diagnostics, and safe conversation packages for ChatGPT discussions. It prioritizes offline operation, evidence preservation, and strict governance boundaries for operators and researchers.
+TW-Market Live Data Intelligence is a local-first, AI-native workbench for Taiwan market data, enabling operators to validate governed context, perform bounded observations, and generate safe conversation packages for ChatGPT discussions. It emphasizes source-health diagnostics, evidence preservation, and strict governance boundaries without trading or realtime guarantees.
 
 ## Key Features
-- Validates canonical M5F market context packages (Mode A) for AI-assisted discussions
-- Supports bounded, manual observations (Mode B) with explicit governance boundaries
-- Generates conversation packages (Mode C) for safe ChatGPT integration
-- Provides source-health diagnostics (M5Q) to assess data reliability
-- Offers FastAPI, MCP, and frontend readonly surfaces for local operator access
+- Local-first canonical market context (M5F) for AI-assisted discussions
+- Bounded live observations (M5K) with explicit governance boundaries
+- Source-health diagnostics (M5Q) for data reliability validation
+- Conversation package (M5N) generation for safe ChatGPT integration
+- Strict TLS/SSL compliance and operator preflight validation
 
 ## Why It Matters for RAG Builders
-It provides a governed, offline-first framework for validating Taiwan market data context, ensuring AI-assisted discussions are based on reliable, bounded observations and source diagnostics.
+It provides a governed, offline-capable framework for validating Taiwan market context and generating safe AI conversation packages, critical for RAG builders needing reliable, non-trading data sources.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -39,17 +39,17 @@ Automated review identified **Mermaid.js** as a key module contributing to infra
 ### JSON
 Automated review identified **JSON** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### HTML/CSS (Frontend)
-Automated review identified **HTML/CSS (Frontend)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### HTML/CSS
+Automated review identified **HTML/CSS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### pytest
 Automated review identified **pytest** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### uvicorn
-Automated review identified **uvicorn** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Playwright
+Automated review identified **Playwright** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Playwright (Optional for E2E)
-Automated review identified **Playwright (Optional for E2E)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TLS/SSL
+Automated review identified **TLS/SSL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -4,24 +4,24 @@ category: "Orchestrator"
 tech_stack: ["Rust", "Cargo", "Base Sepolia", "USDC", "MCP (Model Context Protocol)", "OpenAPI", "PostgreSQL", "Stripe", "GitHub API", "Foundry", "JSON-RPC"]
 quality_score: 8
 rag_relevance: 9
-tags: ["agent coordination", "bounty system", "payment infrastructure", "AI agent economy", "decentralized work"]
+tags: ["agent coordination", "payment infrastructure", "bounty network", "decentralized work", "AI agent economy"]
 source: "https://github.com/NSPG13/agent-bounties"
-discovered_at: "2026-07-10T06:16:18Z"
+discovered_at: "2026-07-10T06:31:23Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Agent Bounties is an open-source infrastructure for coordinating AI agents through a payment-first bounty system. Agents can request help, complete verified work, and receive payments while humans and agents post new bounties, creating a self-reinforcing ecosystem for digital task execution and compensation.
+Agent Bounties provides an open-source, payment-first coordination infrastructure for AI agents to request help, complete verified work, and receive payments. It enables agents and humans to post, fund, claim, solve, verify, and settle bounties for digital tasks, fostering a self-reinforcing ecosystem of work and earnings.
 
 ## Key Features
 - Automated bounty posting, funding, and claim workflow for AI agents
-- Deterministic verification and risk policy checks for high-integrity payouts
-- Multi-adapter support (Base Sepolia, Stripe, GitHub) for real-world integrations
-- Reputation and proof systems tied to verified work completion
-- Local demo mode with simulated credits for testing without real payments
+- Deterministic verification and risk policy enforcement for high-integrity payouts
+- Multi-adapter support (Base Sepolia, Stripe, GitHub) for flexible funding and integration
+- In-memory and PostgreSQL-backed state for local and durable deployments
+- Comprehensive CLI and SDK tools for agent integration and local development
 
 ## Why It Matters for RAG Builders
-It provides the critical infrastructure for AI agents to coordinate, get paid, and build reputation through verifiable work, enabling scalable agent economies and trustless task execution.
+It provides a critical infrastructure layer for AI agents to monetize their work through verifiable, paid bounties, enabling sustainable agent economies and fostering collaboration in AI-driven task completion.
 
 ## Tech Stack Deep Dive
 ### Rust

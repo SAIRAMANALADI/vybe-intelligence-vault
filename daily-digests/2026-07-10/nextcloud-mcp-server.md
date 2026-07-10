@@ -1,27 +1,27 @@
 ---
 title: "cbcoutinho/nextcloud-mcp-server"
 category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Nextcloud API", "Docker", "Kubernetes", "Qdrant (for semantic search)", "Ollama (for embeddings)", "FastAPI (for HTTP transport)", "Basic Auth", "OAuth (Login Flow v2)"]
+tech_stack: ["Python", "Model Context Protocol (MCP)", "Nextcloud", "Docker", "Kubernetes", "Qdrant (for semantic search)", "Ollama (for embeddings)", "FastAPI", "OCR (Tesseract, Poppler)", "WebDAV", "CardDAV", "CalDAV"]
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP Server", "Nextcloud Integration", "Semantic Search", "AI Orchestration", "Document Processing"]
+tags: ["Nextcloud integration", "MCP server", "AI assistant bridge", "Semantic search", "Document processing"]
 source: "https://github.com/cbcoutinho/nextcloud-mcp-server"
-discovered_at: "2026-07-10T06:16:14Z"
+discovered_at: "2026-07-10T06:32:23Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A production-ready MCP server that bridges AI assistants with Nextcloud instances, enabling LLMs to interact with Nextcloud data (files, notes, calendars, contacts, etc.) via a secure API. Supports semantic search, document processing, and multi-user authentication.
+A production-ready MCP server that bridges AI assistants (e.g., Claude, GPT) with Nextcloud instances, enabling natural language interactions for managing notes, calendars, contacts, files, and more through a secure API. It operates as a standalone server with deep CRUD operations across Nextcloud apps.
 
 ## Key Features
-- 110+ MCP tools for comprehensive Nextcloud app coverage (Notes, Calendar, Contacts, Files, Deck, etc.)
-- Semantic search integration with Qdrant and Ollama for RAG pipelines
-- Multi-user authentication via Login Flow v2 or Basic Auth pass-through
-- Document processing with OCR and text extraction for PDFs, DOCX, and images
-- Flexible deployment options (Docker, Kubernetes, local, VM) with multiple transport modes (stdio, HTTP)
+- 110+ MCP tools for comprehensive Nextcloud app interactions (Notes, Calendar, Contacts, Files, Deck, etc.)
+- Semantic search integration with Qdrant and Ollama for vector-powered RAG
+- Flexible deployment options (Docker, Kubernetes, local, VM) with multiple transport protocols (stdio, streamable-http)
+- Production-ready authentication (Basic Auth, Login Flow v2, OAuth pass-through) and tag-based file exclusion for sensitive data
+- OCR and document processing for PDFs, DOCX, and images with progress notifications
 
 ## Why It Matters for RAG Builders
-It enables AI assistants to securely and efficiently interact with Nextcloud data, unlocking advanced RAG capabilities for personal and enterprise knowledge management.
+It enables AI assistants to securely interact with Nextcloud data, unlocking natural language workflows for personal and enterprise users while supporting advanced RAG capabilities through semantic search.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -30,8 +30,8 @@ Automated review identified **Python** as a key module contributing to infrastru
 ### Model Context Protocol (MCP)
 Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Nextcloud API
-Automated review identified **Nextcloud API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Nextcloud
+Automated review identified **Nextcloud** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Docker
 Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -45,14 +45,20 @@ Automated review identified **Qdrant (for semantic search)** as a key module con
 ### Ollama (for embeddings)
 Automated review identified **Ollama (for embeddings)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### FastAPI (for HTTP transport)
-Automated review identified **FastAPI (for HTTP transport)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### FastAPI
+Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Basic Auth
-Automated review identified **Basic Auth** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OCR (Tesseract, Poppler)
+Automated review identified **OCR (Tesseract, Poppler)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OAuth (Login Flow v2)
-Automated review identified **OAuth (Login Flow v2)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### WebDAV
+Automated review identified **WebDAV** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### CardDAV
+Automated review identified **CardDAV** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### CalDAV
+Automated review identified **CalDAV** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
