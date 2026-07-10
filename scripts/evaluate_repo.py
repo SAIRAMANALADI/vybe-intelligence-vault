@@ -590,13 +590,9 @@ evaluated_by: "{data['model_used']}"
 """
             safe_filename = f"{repo_name.lower().replace('.', '_')}.md"
             
-            if quality < 5:
-                log(f"Repo {repo} gated for PR review.")
-                pr_repos.append((repo, md_content, safe_filename))
-            else:
-                target_file = digest_dir / safe_filename
-                target_file.write_text(md_content, encoding="utf-8")
-                direct_repos.append(repo)
+            target_file = digest_dir / safe_filename
+            target_file.write_text(md_content, encoding="utf-8")
+            direct_repos.append(repo)
                 
             if quality >= 8 and webhook_url:
                 post_to_discord(
