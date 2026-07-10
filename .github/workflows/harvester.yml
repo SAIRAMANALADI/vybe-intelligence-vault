@@ -44,6 +44,16 @@ jobs:
           path: engine
           token: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
 
+      - name: Restore evaluation cache
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            evaluation-*.json
+            discovery-batch.json
+          key: harvester-eval-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            harvester-eval-
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -207,3 +217,12 @@ jobs:
         with:
           name: pipeline-report
           path: pipeline-report.json
+
+      - name: Save evaluation cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            evaluation-*.json
+            discovery-batch.json
+          key: harvester-eval-${{ github.run_id }}-${{ github.run_attempt }}
