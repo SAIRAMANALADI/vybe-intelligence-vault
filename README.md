@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 52,450 files</p>
-        <p><b>Last Update:</b> 2026-07-10 04:33 IST</p>
+        <p><b>Last Update:</b> 2026-07-10 07:58 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,29 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[HTML Standard](ai/rag/html-standard.md)** • Rank: <kbd>+5342</kbd>
-- 🔼 **[Web IDL Standard](ai/rag/web-idl-standard.md)** • Rank: <kbd>+4267</kbd>
-- 🔼 **[SpeechifyInc/ai-api-examples](ai/resources/speechifyinc-ai-api-examples.md)** • Rank: <kbd>+301</kbd>
-- 🔼 **[Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify](ai/rag/medium-members-can-listen-to-any-medium-story-with.md)** • Rank: <kbd>+303</kbd>
-- 🔼 **[Tuba](ai/resources/tuba.md)** • Rank: <kbd>+3806</kbd>
+- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+6</kbd>
+- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[stanford-oval/storm](ai/rag/stanford-oval-storm.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[RUC-NLPIR/FlashRAG](ai/rag/ruc-nlpir-flashrag.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Train sim created by just one person is being called the best ever made](ai/community/train-sim-created-by-just-one-person-is-being-call.md)** • Score: `158`
-- 🆕 **[AI content is everywhere on social media, especially LinkedIn](ai/community/ai-content-is-everywhere-on-social-media-especiall.md)** • Score: `152`
-- 🆕 **[Girls just wanna have fast MPMC queues with bounded waiting](ai/community/girls-just-wanna-have-fast-mpmc-queues-with-bounde.md)** • Score: `111`
-- 🆕 **[Issues · ietf-tools/red · GitHub](ai/resources/ietf-tools-red.md)** • Score: `0`
-- 🆕 **[Create an Incoming Webhook - Teams | Microsoft Learn](ai/agents/create-an-incoming-webhook-teams-microsoft-learn.md)** • Score: `0`
+- 🆕 **[Jun 23, 2026ProductIntroducing Claude Tag](ai/companies/anthropic/productjun-23-2026introducing-claude-tagclaude-tag.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[John Deere owners will get the right to repair equipment under FTC settlement](ai/community/john-deere-owners-will-get-the-right-to-repair-equ.md)**
-- 💤 **[Show HN: FableCut – A browser video editor AI agents can drive (zero deps)](ai/community/ronak-create-fablecut.md)**
-- 💤 **[Show HN: Arcaide – Explore code with multi-level call graphs](ai/community/show-hn-arcaide-explore-code-with-multi-level-call.md)**
-- 💤 **[Jun 12, 2026AnnouncementsStatement on the US government directive to suspend access to Fable 5 and Mythos 5](ai/companies/anthropic/jun-12-2026announcementsstatement-on-the-us-govern.md)**
-- 💤 **[Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record](ai/companies/anthropic/jun-12-2026announcementsresults-from-the-first-ant.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
