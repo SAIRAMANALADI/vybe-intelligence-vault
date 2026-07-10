@@ -46,8 +46,8 @@ Automated review identified **Mermaid.js** as a key module contributing to infra
 
 ## Installation
 ```bash
-# Install instruction (default)
-pip install -r requirements.txt
+# Install for Codex, Claude Code, and Cursor
+npx skills add atdy/maoxuan-product-agent --skill product-decision-agent --agent codex claude-code cursor -g -y
 ```
 
 ## Related Vault Entries
