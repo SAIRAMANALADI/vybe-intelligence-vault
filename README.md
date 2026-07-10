@@ -297,5 +297,5 @@ MIT License — see [LICENSE](./LICENSE)
 ---
 
 <div align="center">
-<sub>Built by <a href="https://github.com/sairaman436">@sairaman436</a> · Auto-updating since 2024</sub>
+<sub>Built by <a href="https://github.com/sairaman436">@sairaman436</a> · Auto-updating since 2026</sub>
 </div>
