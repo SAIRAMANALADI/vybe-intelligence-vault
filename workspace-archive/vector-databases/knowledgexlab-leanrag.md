@@ -30,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Semantic Aggregation Mechanism**: Implements a knowledge-graph-based approach to aggregate and contextualize retrieved information using semantic relationships, enhancing the relevance of generated outputs.
-
-- **Hierarchical Retrieval Strategy**: Utilizes a multi-layered retrieval system to progressively refine and extract the most pertinent data from the knowledge graph, optimizing both precision and recall.
-
-- **Efficiency Optimization**: Designed for AAAI 2026, the framework emphasizes li
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework (LeanRAG) that optimizes retrieval via semantic aggregation and multi-level hierarchical indexing for AAAI 2026.
+- **Efficiency & Scalability**: Python-based implementation with lightweight design, supporting 251 stars and 28 forks, optimized for low-latency generation and dynamic knowledge updates.
+- **Knowledge Graph Integration**: Leverages structured knowledge graphs for context-aware retrie
 
 ## Use Cases
 

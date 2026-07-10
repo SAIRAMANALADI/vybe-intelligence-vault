@@ -14,10 +14,8 @@ tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - scripts
 - shell
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Purpose**: Enables autonomous software delivery via headless Claude agents, converting requirements documents into pull requests for CI/CD pipelines.
-
-- **Key Components**: Integrates GitHub Actions, multi-agent orchestration, and Linear for issue tracking, supporting autonomous coding workflows.
-
-- **Technical Stack**: Shell-based implementation with headless agent execution, designed for reusable automation in AI-driven development environments.
+- **Template Purpose**: Enables autonomous software delivery via headless Claude agents, transforming requirements documents into reviewed pull requests.
+- **Key Components**: Integrates CI/CD pipelines, multi-agent orchestration, and GitHub Actions for autonomous PR generation and review.
+- **Tech Stack**: Shell-based automation with support for Claude Code, Linear integration, and headless agent execution.
 
 ## Use Cases
 

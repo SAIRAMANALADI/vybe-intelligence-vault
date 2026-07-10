@@ -6,10 +6,10 @@ source_url: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=or
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
 local_vault_path: ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md
 quality_score: 70
-archive_score: 70
+archive_score: 80
 archive_tier: useful
-resource_kind: benchmark
-importance: medium
+resource_kind: framework
+importance: high
 tags:
 - benchmark
 - hackernews
@@ -21,7 +21,7 @@ tags:
 - web-crawled
 - workflows
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex
@@ -29,14 +29,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-*   LlamaParse performs advanced multimodal document parsing, converting complex layouts, tables, charts,
+- **Multi-format parsing**: Supports 90+ document formats (PDFs, scanned docs, invoices, healthcare forms, etc.) with high accuracy, including complex layouts, tables, charts, handwriting, and checkboxes.
+
+- **Advanced parsing capabilities**: Features layout-aware processing (headers/footers), multimodal parsing (text + visuals), granular control modes (cost/accuracy trade-offs), multilingual support (100+ languages), and enterprise-grade scalability (millions of pages, local/cloud deployment).
 
 ## Use Cases
 

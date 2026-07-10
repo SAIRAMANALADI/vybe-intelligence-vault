@@ -4,15 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-07-10T04:19:20.982100+05:30'
+collected_at: '2026-07-10T13:21:52.535539+05:30'
 published_at: '2026-07-09T22:45:43Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - unknown
-- workflows
 stars: 2477
 language: Unknown
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-07-10T04:19:20.982100+05:30'
-last_seen: '2026-07-10T04:19:20.982100+05:30'
-last_checked: '2026-07-10T04:19:20.982100+05:30'
+first_seen: '2026-07-10T13:21:52.535539+05:30'
+last_seen: '2026-07-10T13:21:52.535539+05:30'
+last_checked: '2026-07-10T13:21:52.535539+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and agent coordination mechanisms for autonomous AI coding assistants, emphasizing system prompts and prompt engineering techniques.
+- **Agentic AI Coding Assistants**: Investigates the architecture and operational mechanics of autonomous AI coding agents, focusing on prompt pattern reconstruction and agent coordination frameworks.
 
-- **Security Classification**: The repository examines security frameworks and classifications for agentic AI systems, addressing potential vulnerabilities and mitigation strategies in AI-driven development workflows.
+- **Security Classification**: Analyzes security risks and mitigation strategies in agentic AI systems, including prompt injection, data leakage, and adversarial attacks.
 
-- **Claude & AI Research**: Utilizes Claude-based models for AI research, exploring advanced prompt engineering and system prompt structures to enhance agentic AI performance and reliability.
+- **System Prompts & Tools**: Examines optimized system prompts for agentic AI (e.g., Claude) and evaluates tool integration patterns for enhanced code generation and debugging.
 
 ## Why It Matters
 

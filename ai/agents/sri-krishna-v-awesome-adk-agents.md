@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-07-10T04:18:50.967960+05:30'
+collected_at: '2026-07-10T13:21:22.531229+05:30'
 published_at: '2026-07-06T12:52:15Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-06-28T14:36:38Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-07-10T04:18:50.967960+05:30'
-last_seen: '2026-07-10T04:18:50.967960+05:30'
-last_checked: '2026-07-10T04:18:50.967960+05:30'
+first_seen: '2026-07-10T13:21:22.531229+05:30'
+last_seen: '2026-07-10T13:21:22.531229+05:30'
+last_checked: '2026-07-10T13:21:22.531229+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google's Agent Development Kit (ADK), including templates, best practices, and production-ready examples across research, business, automation, and education domains.
-
-- **Multi-Faceted ADK Support**: Focuses on `adk-python`, `adk-web`, and multi-agent systems, with integration for `gemini-ai` and Google ADK, enabling diverse agentic AI applications.
-
-- **Technical Stack & Maintenance**: Primarily Python-based, last updated July 2026, with 331 stars and 47 forks, emphasizing cutting-edge agentic AI development and deployment.
+- **Curated ADK Agent Collection**: Repository hosting Google’s Agent Development Kit (ADK)-based AI agents, including templates, best practices, and production-ready examples across research, business, automation, and education domains.
+- **Multi-Language & Multi-Use Support**: Focuses on Python (`adk-python`) and web (`adk-web`) implementations, covering topics like multi-agent systems, agentic AI, and Google’s Gemini AI integration.
+- **Actively Maintained**: Last updated July 2026, with 331 stars and 47 forks, serving as an "awesome-list" resource for ADK-driven agent development.
 
 ## Why It Matters
 

@@ -8,17 +8,19 @@ local_vault_path: ai/rag/deckardger-tanstack-agent-skills.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
+- frontend_ui
 - github-repo
 - rag
 - reddit
 - unknown
+- workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # DeckardGer/tanstack-agent-skills
@@ -27,18 +29,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Optimized Caching Strategies**: Implements advanced TanStack Query patterns (e.g., stale-while-revalidate, parallel queries) to minimize redundant API calls and improve cache consistency for AI-driven applications.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and state synchronization in AI-driven applications using TanStack Query (v5+), including stale-while-revalidate (SWR) and optimistic updates for real-time agent interactions.
 
-- **Dynamic Route Management**: Leverages TanStack Router’s file-based routing and lazy-loading to dynamically generate optimized paths for AI agent navigation, reducing bundle size and improving load times.
-
-- **State Synchronization**: Integrates TanStack Start for seamless sta
+- **Router-State Management for AI Agents**: Implements TanStack Router’s file-based routing and type-safe navigation to dynamically handle agent workflows, leveraging deferred/lazy-loaded routes for performanc
 
 ## Use Cases
 

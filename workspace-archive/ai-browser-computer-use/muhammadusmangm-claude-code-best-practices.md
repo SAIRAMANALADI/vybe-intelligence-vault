@@ -14,6 +14,7 @@ tags:
 - agents
 - anthropic
 - github-repo
+- scripts
 - shell
 - workflows
 selection_reason:
@@ -32,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Setup & Configuration**: Provides structured guidance for configuring Claude Code, including `CLAUDE.md` templates for project-specific instructions, environment setup, and CLI optimization for agentic AI workflows.
+- **Setup & Configuration**: Provides structured guidelines for configuring Claude Code, including `CLAUDE.md` templates for project-specific instructions, environment setup, and CLI optimization for agentic AI workflows.
 
-- **Multi-Agent Patterns & Workflows**: Documents advanced patterns for orchestrating multiple AI agents, including task delegation, synchronization, and MCP (Model Context Protocol) integration for scalable AI-driven development.
+- **Multi-Agent & Workflow Patterns**: Documents advanced patterns for orchestrating multiple AI agents, including MCP (Model Context Protocol) integration, cost-efficient task delegation, and modular workflow design for LLM-based automation.
 
-- **Cost Optimization & Maintenance**: Includes
+- **Cost Optimization & Maintenan
 
 ## Use Cases
 

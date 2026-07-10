@@ -8,7 +8,7 @@ local_vault_path: ai/rag/reworkd-agentgpt.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: workflow
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -16,10 +16,10 @@ tags:
 - github-repo
 - openai
 - rag
+- scripts
 - typescript
-- workflows
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # reworkd/AgentGPT
@@ -28,17 +28,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: workflow
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Browser-based autonomous AI agent deployment**: Enables users to assemble, configure, and deploy AI agents directly in the browser without requiring local setup.
+- **Browser-based autonomous AI agent deployment**: Enables users to assemble, configure, and deploy autonomous AI agents directly in the browser without local setup.
 
-- **Tech stack**: Built with **TypeScript**, leveraging **Next.js (T3 Stack)**, **LangChain**, and **OpenAI's LLM APIs** for agent orchestration and natural language processing.
+- **Tech stack**: Built with **TypeScript**, leveraging **Next.js (T3 Stack)**, **LangChain**, and **OpenAI's LLM** for agent orchestration and natural language processing.
 
-- **Feature-rich repository**: Supports **AgentGPT**, **BabyAGI**, and **AutoGPT**-inspired workflows, with 36,259 stars and 9,304 forks, indicating stron
+- **Integration with AGI frameworks**: Supports **AgentGPT**, **BabyAGI**, and other autonomous agent architectures for advanced AI task automation.
 
 ## Use Cases
 

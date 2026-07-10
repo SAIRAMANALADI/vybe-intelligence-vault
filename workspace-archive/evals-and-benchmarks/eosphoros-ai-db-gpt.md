@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI Framework**: Open-source Python-based system integrating LLMs (e.g., DeepSeek, GPT-4, Vicuna) with database interaction capabilities, enabling autonomous data processing and analysis via agentic workflows.
-
-- **Privacy & Security Focus**: Implements Retrieval-Augmented Generation (RAG) and private LLM deployment strategies to ensure secure, on-premise data handling without external API dependencies.
-
-- **Modular Architecture**: Supports custom agents, database connectors (BGI), an
+- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) for tasks like querying, analysis, and RAG-based retrieval.
+- **Security & Privacy Focus**: Supports private, on-prem deployments with BGI (likely a security/encryption layer) to mitigate data leakage risks in AI-driven data products.
+- **Multi-Agent Architecture**: Integrates agent-based workflows for complex database operations, optimized for scalabil
 
 ## Use Cases
 

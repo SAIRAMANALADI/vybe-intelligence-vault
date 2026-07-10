@@ -4,20 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-07-10T04:22:10.017086+05:30'
-collected_at: '2026-07-10T04:22:10.017101+05:30'
+published_at: '2026-07-10T13:23:08.055266+05:30'
+collected_at: '2026-07-10T13:23:08.055275+05:30'
 tags:
 - agents
 - anthropic
+- benchmark
 - rag
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-07-10T04:22:10.017101+05:30'
-last_seen: '2026-07-10T04:22:10.017101+05:30'
-last_checked: '2026-07-10T04:22:10.017101+05:30'
+first_seen: '2026-07-10T13:23:08.055275+05:30'
+last_seen: '2026-07-10T13:23:08.055275+05:30'
+last_checked: '2026-07-10T13:23:08.055275+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM application development, while LangGraph/LangGraph.js enable building LLM agents as computational graphs for complex workflows.
+- **Core OSS Libraries**: LangChain/LangChain.js provide reusable LLM application components and integrations; LangGraph/LangGraph.js enable building LLM agents as computational graphs; Deep Agents/Deep Agents.js support hierarchical agent planning, subagent delegation, and filesystem interactions for complex task execution.
 
-- **Agent Frameworks**: Deep Agents/Deep Agents.js support hierarchical agent planning, subagent delegation, and filesystem interactions for advanced task execution, with `dcode` and Open SWE offering terminal-based and asynchronous coding agents respectively.
+- **Commercial Platform**: LangSmith offers a production-grade environment for developing, deploying, and monitoring LLM applications with observability and evaluation capabilities.
 
-- **Commercial & Protocol Tools**: LangSmith provides production-grade monitoring and deployment for LLM applications, while MCP Adapters and Agent Protocol standardize tool integration and framework-agnostic agent APIs for production deployment.
+- **OSS Extensions/Apps**: Deep Agents Code (`dcode`) is a terminal-based coding agent; Open SWE is an asynchronous coding agent; MCP Adapters bridge Model Context Protocol tools with LangChain/LangGraph; Agent Protocol defines framework-agnostic APIs for serving LLM agents in production.
 
 ## Why It Matters
 
@@ -39,15 +39,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-10T04:22:10.017086+05:30
+- Published: 2026-07-10T13:23:08.055266+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
+- benchmark
 - rag
 - web-crawled
-- workflows
 - youtube
 
 ## Source

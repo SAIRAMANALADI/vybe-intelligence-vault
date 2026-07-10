@@ -17,6 +17,7 @@ tags:
 - models
 - openai
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **5-week structured curriculum** covering RAG fundamentals, hybrid search (HNSW + keyword), and multimodal applications using Azure OpenAI and VS Code.
-- **Advanced quantization techniques** (binary/scalar) and **Matryoshka representation learning** for efficient indexing and retrieval.
-- **Responsible AI integration** with focus on generative AI safety, multimodal RAG pipelines, and deployment best practices.
+- **Comprehensive RAG Mastery Program**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals to advanced techniques, including hybrid search, vector search, and quantization methods (binary/scalar) for efficient indexing and retrieval.
+
+- **Multi-Technology Integration**: Combines Azure services, OpenAI/GPT models, HNSW (Hierarchical Navigable Small World) for approximate nearest neighbor search, and Matryoshka representation learning for scalable multimoda
 
 ## Use Cases
 

@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal indexing**: Supports text, structured data, and unstructured content (e.g., PDFs, images) via graph-based retrieval for enhanced context engineering.
-- **AI agents & MCP integration**: Enables autonomous agent workflows with Model Context Protocol (MCP) for dynamic tool orchestration and real-time knowledge graph updates.
-- **Scalable Kubernetes deployment**: Optimized for production-grade scalability with Helm charts, distributed processing, and modular microservices architectur
+- **Multi-modal indexing**: Supports text, structured, and unstructured data integration with graph-based retrieval for enhanced context engineering.
+- **AI agents & MCP integration**: Enables autonomous agent workflows with Model Context Protocol (MCP) for dynamic tool orchestration and knowledge graph interactions.
+- **Scalable Kubernetes deployment**: Optimized for production-grade scalability via K8s, with modular components for distributed graph processing and real-time updates.
 
 ## Use Cases
 

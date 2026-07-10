@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by oumua_don17. Score: 158, Comments: 62.
+Hacker News story by oumua_don17. Score: 503, Comments: 171.
 Original Link: https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-[phone redacted]
 
 ## Use Cases

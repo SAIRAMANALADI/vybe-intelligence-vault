@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Repository aggregates advanced RAG techniques specifically tailored for Computer Vision applications, including multimodal retrieval-augmented generation methods.
-- **Metadata**: 338 stars, 9 forks, last updated July 3, 2026; language unspecified.
-- **Focus Area**: Encompasses cutting-edge RAG frameworks, datasets, and benchmarks for vision-language tasks, though lacks explicit topic tags.
+- **Curated resource**: A structured collection of advanced RAG techniques specifically tailored for Computer Vision applications, including multimodal retrieval and generation methods.
+- **Repository metrics**: 337 stars, 9 forks, last updated July 8, 2026, with no explicit primary language or topic tags.
+- **Focus areas**: Encompasses cutting-edge RAG frameworks, datasets, and evaluation tools for integrating vision-language models (e.g., CLIP, BLIP) with retrieval mechanisms.
 
 ## Use Cases
 

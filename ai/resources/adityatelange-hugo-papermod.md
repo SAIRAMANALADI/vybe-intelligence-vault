@@ -4,15 +4,14 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/adityatelange/hugo-PaperMod/
-collected_at: '2026-07-09T21:10:34.346496+05:30'
-published_at: '2026-07-09T13:54:56Z'
+collected_at: '2026-07-10T13:23:12.595484+05:30'
+published_at: '2026-07-10T06:41:17Z'
 tags:
 - creative_dev
 - github-repo
-- hackernews
 - html
 - paper
-stars: 13741
+stars: 13743
 language: HTML
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2020-07-21T04:45:10Z'
 pushed_at: '2026-05-10T05:30:12Z'
 resource_id: github:adityatelange/hugo-papermod
-first_seen: '2026-07-09T21:10:34.346496+05:30'
-last_seen: '2026-07-09T21:10:34.346496+05:30'
-last_checked: '2026-07-09T21:10:34.346496+05:30'
+first_seen: '2026-07-10T13:23:12.595484+05:30'
+last_seen: '2026-07-10T13:23:12.595484+05:30'
+last_checked: '2026-07-10T13:23:12.595484+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hugo-PaperMod**: A high-performance, feature-rich Hugo theme optimized for speed, clean design, and responsiveness, supporting multilingual content.
-- **Technical Features**: Built with HTML, includes grayscale styling, and adheres to MIT licensing with comprehensive documentation.
-- **Repository Stats**: 13,741 stars, 3,411 forks, last updated on 2026-07-09, and categorized under blog, portfolio, and theme topics.
+- **Fast, responsive Hugo theme**: Optimized for high performance with clean, minimalist design and grayscale styling, ensuring quick load times and cross-device compatibility.
+
+- **Feature-rich & multilingual**: Supports extensive customization, including portfolio layouts, well-documented configurations, and multilingual content support via Hugo’s built-in features.
+
+- **MIT-licensed & actively maintained**: Open-source under MIT license, with recent updates (as of July 2026) and a large community (13.7k+ stars, 3.4k+ forks) ensuring ongoing development and support.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: adityatelange
-- Stars: 13741
-- Forks: 3411
+- Stars: 13743
+- Forks: 3412
 - Language: HTML
 - Topics: blog, blog-theme, clean, fast, feature-rich, grayscale, high-performance, hugo, hugo-blog-theme, hugo-theme, mit-license, multilingual, papermod, portfolio, theme, well-documented
-- Last Updated: 2026-07-09T13:54:56Z
+- Last Updated: 2026-07-10T06:41:17Z
 - License: MIT
 - Archived: No
 - Created At: 2020-07-21T04:45:10Z

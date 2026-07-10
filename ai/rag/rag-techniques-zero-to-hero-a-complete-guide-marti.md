@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-07-10T04:16:21.413555+05:30'
-collected_at: '2026-07-10T04:16:21.413568+05:30'
+published_at: '2026-07-10T13:18:53.040598+05:30'
+collected_at: '2026-07-10T13:18:53.040611+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-07-10T04:16:21.413568+05:30'
-last_seen: '2026-07-10T04:16:21.413568+05:30'
-last_checked: '2026-07-10T04:16:21.413568+05:30'
+first_seen: '2026-07-10T13:18:53.040611+05:30'
+last_seen: '2026-07-10T13:18:53.040611+05:30'
+last_checked: '2026-07-10T13:18:53.040611+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines a retriever (vector/lexical) with a generator LLM, where retrieved context conditions generation to improve factuality and reduce hallucinations; core components include embeddings, vector stores, rerankers, and orchestration layers.
+- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriting layers; orchestration and caching optimize efficiency.
 
-- **Chunking & Embeddings**: Text segmentation strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; domain-specific embedding fine-tuning and hybrid search (BM25 + vector) enhance precision/recall while ANN indexes (HNSW/IVF) optimize scalability.
+- **Chunking & Embeddings**: Chunking strategies (fixed-size, semantic, structure-aware) and overlap improve retrieval coherence; domain-fine-tuned embeddings (normalized, low-dimensional) outperform generic models for precision and latency.
 
-- **Advanced Optimization**: Multi-hop retrieval and iterative reasoning decompose complex queries; context distillation and cross-encoder rerankers improve evidence quality; operational concerns include latency, cost control, and evaluation metrics (nDCG, hallucination rate).
+- **Multi-Stage Retrieval & Context Control**: Hybrid retrieval (BM25 + vector) with cross-encoder reranking boosts recall/precision; context distillation and autocut manage token budgets, while multi-hop/iterative retrieval enables complex reasoning.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-10T04:16:21.413555+05:30
+- Published: 2026-07-10T13:18:53.040598+05:30
 
 ## Related Tags
 

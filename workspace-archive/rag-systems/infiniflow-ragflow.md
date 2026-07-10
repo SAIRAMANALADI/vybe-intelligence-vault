@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid RAG Architecture**: Combines advanced retrieval-augmented generation (RAG) with agentic capabilities to dynamically enhance LLM context processing, enabling superior contextual understanding and response generation.
+- **Hybrid RAG-Engine**: Combines advanced Retrieval-Augmented Generation (RAG) with Agentic AI to dynamically enhance LLM context via structured retrieval, reasoning, and tool-use integration.
 
-- **Go-Based Implementation**: Entirely developed in Go, optimizing performance and scalability for high-throughput RAG workloads, with modular design for extensibility.
+- **Go-Based Architecture**: Implements a high-performance, concurrent Go backend for scalable document parsing, vector indexing, and real-time agent orchestration.
 
-- **Agentic Context Engine**: Integrates agentic retrieval/search mechanisms to autonomously refine q
+- **Modular Context Layer**: Supports pluggable retrieval strategies (e.g., semantic, keyword, hybrid) and agent workflows (e.g., multi-hop
 
 ## Use Cases
 

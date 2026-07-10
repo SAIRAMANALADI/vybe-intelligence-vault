@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by djoldman. Score: 1203, Comments: 245.
+Hacker News story by djoldman. Score: 1312, Comments: 277.
 Original Link: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02
 
 ## Use Cases

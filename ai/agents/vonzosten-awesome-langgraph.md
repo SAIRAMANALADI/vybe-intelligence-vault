@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vonzosten/awesome-LangGraph
-collected_at: '2026-07-10T04:20:06.057317+05:30'
-published_at: '2026-07-09T05:17:44Z'
+collected_at: '2026-07-10T13:22:32.610999+05:30'
+published_at: '2026-07-10T06:29:43Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - javascript
 - workflows
-stars: 1892
+stars: 1893
 language: JavaScript
 status: active
 license: CC0-1.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-11-02T15:54:00Z'
 pushed_at: '2026-05-20T14:55:08Z'
 resource_id: github:vonzosten/awesome-langgraph
-first_seen: '2026-07-10T04:20:06.057317+05:30'
-last_seen: '2026-07-10T04:20:06.057317+05:30'
-last_checked: '2026-07-10T04:20:06.057317+05:30'
+first_seen: '2026-07-10T13:22:32.610999+05:30'
+last_seen: '2026-07-10T13:22:32.610999+05:30'
+last_checked: '2026-07-10T13:22:32.610999+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Ecosystem Index**: A structured repository aggregating LangChain and LangGraph resources, including concepts, tools, templates, and guides for building LLM and multi-agent applications.
-- **Technical Breadth**: Covers JavaScript-based implementations, LLM agent architectures, and ecosystem-specific projects for advanced AI workflows.
-- **Active Maintenance**: Last updated July 2026, ensuring relevance with ongoing contributions (1,892 stars, 231 forks).
+- **Comprehensive Ecosystem Index**: Curated collection of LangChain and LangGraph resources, including concepts, projects, tools, templates, and guides for building LLM and multi-agent applications.
+
+- **Technical Breadth**: Covers core topics like AI, LLM agents, and workflow orchestration, with a focus on JavaScript-based implementations and integrations.
+
+- **Active Maintenance**: Last updated in July 2026, ensuring relevance with ongoing updates and community contributions (1,893 stars, 231 forks).
 
 ## Why It Matters
 
@@ -41,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vonzosten
-- Stars: 1892
+- Stars: 1893
 - Forks: 231
 - Language: JavaScript
 - Topics: ai, awesome, awesome-list, langchain, langgraph, llm, llm-agents
-- Last Updated: 2026-07-09T05:17:44Z
+- Last Updated: 2026-07-10T06:29:43Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2024-11-02T15:54:00Z

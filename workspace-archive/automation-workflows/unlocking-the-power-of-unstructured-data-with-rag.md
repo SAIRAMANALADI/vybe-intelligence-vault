@@ -6,10 +6,10 @@ source_url: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructur
 resource_id: blog:unlocking-the-power-of-unstructured-data-with-rag
 local_vault_path: ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md
 quality_score: 70
-archive_score: 82
+archive_score: 74
 archive_tier: useful
-resource_kind: framework
-importance: high
+resource_kind: tutorial
+importance: medium
 tags:
 - rag
 - reddit
@@ -18,7 +18,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Unlocking the power of unstructured data with RAG - The GitHub Blog
@@ -26,19 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **GitHub CLI 2.0+ Integration**: Nicole Choi is a GitHub Staff Developer Advocate focusing on CLI tools, contributing to GitHub CLI's evolution (e.g., `gh` commands, scripting, and automation workflows).
-
-- **Developer Experience Advocacy**: Specializes in improving CLI usability, security, and extensibility for developers via GitHub’s official documentation, tutorials, and community engagement.
-
-- **Open-Source Contributions**: Actively contributes to GitHub’s open-source projects, including
+- **GitHub CLI 2.0+**: Introduces `gh repo clone` and `gh repo create` commands with enhanced scripting capabilities and improved API integration for repository management.
+- **GitHub Actions Updates**: Supports dynamic workflows via `workflow_dispatch` events and enables matrix-based job strategies for multi-OS/architecture builds.
+- **Security Enhancements**: Integrates Dependabot for automated dependency updates and enforces branch protection rules with required status checks.
 
 ## Use Cases
 

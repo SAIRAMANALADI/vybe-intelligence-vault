@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/knowledge-agent-template
-collected_at: '2026-07-10T04:19:26.059095+05:30'
-published_at: '2026-07-09T12:03:36Z'
+collected_at: '2026-07-10T13:21:57.647216+05:30'
+published_at: '2026-07-10T03:08:15Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - typescript
-stars: 941
+stars: 942
 language: TypeScript
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-01-20T15:02:20Z'
 pushed_at: '2026-06-11T09:36:03Z'
 resource_id: github:vercel-labs/knowledge-agent-template
-first_seen: '2026-07-10T04:19:26.059095+05:30'
-last_seen: '2026-07-10T04:19:26.059095+05:30'
-last_checked: '2026-07-10T04:19:26.059095+05:30'
+first_seen: '2026-07-10T13:21:57.647216+05:30'
+last_seen: '2026-07-10T13:21:57.647216+05:30'
+last_checked: '2026-07-10T13:21:57.647216+05:30'
 health_score: 100
 ---
 
@@ -31,8 +30,10 @@ health_score: 100
 ## Summary
 
 - **Purpose**: Provides a TypeScript-based template for building AI agents that dynamically sync with a file-system knowledge base, enabling real-time updates and contextual responses.
-- **Key Features**: Integrates Nuxt and Vue for frontend, supports sandboxed execution, and leverages Vercel’s ecosystem for deployment and scalability.
-- **Technical Stack**: TypeScript-centric with file-system indexing, agent orchestration, and AI-driven query processing for knowledge retrieval.
+
+- **Architecture**: Implements a Nuxt/Vue frontend with a sandboxed environment, leveraging Vercel’s ecosystem for scalable agent deployment and file-system integration.
+
+- **Key Features**: Supports agent customization for chatbots, knowledge retrieval, and state management, optimized for modularity and rapid prototyping.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 941
+- Stars: 942
 - Forks: 124
 - Language: TypeScript
 - Topics: agents, ai-agent, chatbot, file-system, knowledge-base, nuxt, sandbox, typescript, vue
-- Last Updated: 2026-07-09T12:03:36Z
+- Last Updated: 2026-07-10T03:08:15Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-20T15:02:20Z

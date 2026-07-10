@@ -6,7 +6,7 @@ source_url: https://www.githubstatus.com/
 resource_id: blog:github-status
 local_vault_path: ai/rag/github-status.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -29,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page** provides real-time operational status for GitHub services (e.g., GitHub Actions, Pages, API) with 90-day uptime metrics and incident tracking.
-- **Multi-Channel Incident Notifications** supported via email, SMS (global numbers), Slack, and webhooks for automated incident updates.
-- **Past Incidents** include resolved outages (e.g., Actions delays, Pages degradation, Copilot budget resets) with root cause analyses and mitigation timelines.
+- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., GitHub.com, Actions, Pages, API) with historical uptime metrics (90-day) and incident reports, including root cause analyses for major outages.
+
+- **Notification Systems**: Supports multi-channel incident notifications via email, SMS (global coverage), Slack, and webhooks for automated alerts on incident creation, updates, or resolutions.
+
+- **Regional Status Endpoints**: Offers region-specific status page
 
 ## Use Cases
 

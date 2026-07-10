@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-07-10T04:16:50.833076+05:30'
+collected_at: '2026-07-10T13:19:22.393831+05:30'
 published_at: '2026-07-09T11:16:28Z'
 tags:
 - benchmark
+- dataset
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-07-02T03:46:39Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-07-10T04:16:50.833076+05:30'
-last_seen: '2026-07-10T04:16:50.833076+05:30'
-last_checked: '2026-07-10T04:16:50.833076+05:30'
+first_seen: '2026-07-10T13:19:22.393831+05:30'
+last_seen: '2026-07-10T13:19:22.393831+05:30'
+last_checked: '2026-07-10T13:19:22.393831+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: AutoRAG automates hyperparameter tuning, pipeline optimization, and evaluation for Retrieval-Augmented Generation (RAG) systems using AutoML techniques, reducing manual intervention.
+- **AutoML-Style RAG Optimization**: AutoRAG automates hyperparameter tuning, pipeline optimization, and evaluation for Retrieval-Augmented Generation (RAG) systems using a black-box optimization approach, reducing manual effort in model configuration.
 
-- **Comprehensive RAG Benchmarking**: Provides built-in evaluation metrics and benchmarking tools for RAG pipelines, including document parsing, embeddings, retrieval, and generation quality assessment.
+- **Comprehensive RAG Benchmarking**: The framework includes built-in support for evaluating RAG pipelines across multiple dimensions (retrieval, generation, and end-to-end performance) with standardized metrics and datasets.
 
-- **Modular Python Framework**: Open-source Python library with modular components for document parsing, embedding generation, retrieval strategies, and LLM integration, supporting customization and extensibility.
+- **Modular & Extensible Pipeline**: Supports custom document parsers, embeddings, retrievers, and LLMs, enabling integration with external tools (e.g., Hugging Face, LangChain) while providing pre-configured templates for rapid deployment.
 
 ## Why It Matters
 

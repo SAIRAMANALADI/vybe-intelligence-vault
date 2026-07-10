@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform desktop automation framework** supporting macOS, Linux, and Windows via containerization and virtualization (e.g., Windows Sandbox, Apple Virtualization Framework).
-- **Sandboxed environments** for safe AI agent training/evaluation, with SDKs for desktop control (UI interaction, file ops, app automation).
-- **Benchmarks & tools** (e.g., Lume, Manus) for evaluating Computer-Use Agents (CUAs) in standardized desktop tasks.
+- **Cross-platform desktop automation framework** supporting macOS, Linux, and Windows via containerization (e.g., Windows Sandbox, Apple Virtualization Framework) for AI agent interaction with full desktop environments.
+
+- **Comprehensive SDK and benchmark suite** enabling training/evaluation of Computer-Use Agents (CUAs) with tools for sandboxed execution, virtualization, and desktop control automation.
+
+- **Open-source infrastructure** (HTML-based) with 19.5K+ stars, integrating Lume/Manus fo
 
 ## Use Cases
 

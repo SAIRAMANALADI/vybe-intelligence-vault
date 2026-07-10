@@ -8,7 +8,7 @@ local_vault_path: ai/rag/freddy-schuetz-n8n-claw.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: template
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -28,7 +28,7 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: template
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
@@ -37,9 +37,9 @@ selection_reason:
 
 - **Autonomous AI Agent Framework**: OpenClaw-inspired system built entirely in n8n, featuring adaptive RAG-powered memory, MCP-based Skills integration, and Expert Agents with delegated sub-agents for hierarchical task execution.
 
-- **Proactive Task & Media Management**: Supports proactive task scheduling, media understanding capabilities, and self-hosted deployment via a single setup script, leveraging Supabase for data persistence.
+- **Proactive Task & Media Management**: Supports proactive task handling, media understanding, and self-hosted deployment via a single setup script, leveraging tools like Supabase for storage and Crawl4AI for web scraping.
 
-- **Multi-Tool Integration**: Combines Crawl4AI for web scra
+- **Toolchain Integration**: Combines SearX
 
 ## Use Cases
 

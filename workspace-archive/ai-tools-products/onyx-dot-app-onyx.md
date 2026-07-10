@@ -6,18 +6,16 @@ source_url: https://github.com/onyx-dot-app/onyx
 resource_id: github:onyx-dot-app/onyx
 local_vault_path: ai/rag/onyx-dot-app-onyx.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
-resource_kind: dataset
-importance: medium
+archive_score: 87
+archive_tier: essential
+resource_kind: benchmark
+importance: high
 tags:
-- dataset
 - frontend_ui
 - github-repo
 - openai
 - python
 - rag
-- reddit
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -28,19 +26,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 87 (essential)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any LLM via modular architecture, enabling seamless switching between models (e.g., ChatGPT, open-source alternatives) without vendor lock-in.
+- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any LLM, enabling flexible deployment across diverse language models.
 
-- **Enterprise-Grade RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based semantic search (likely via libraries like FAISS or Pinecone) for context-aware responses and scalable information retrieval across large datasets.
+- **Enterprise-Grade Features**: Implements RAG (Retrieval-Augmented Generation), vector search, and information retrieval for advanced AI-driven enterprise search capabilities.
 
-- **Full-
+- **Full-Stack Architecture**: Combines Python backend with Next.js frontend, offering self-hosted deployment options for scalable, production-ready AI chat appli
 
 ## Use Cases
 

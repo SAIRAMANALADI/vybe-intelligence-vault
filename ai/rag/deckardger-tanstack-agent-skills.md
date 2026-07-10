@@ -4,14 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-07-10T04:18:50.966317+05:30'
+collected_at: '2026-07-10T13:21:22.540246+05:30'
 published_at: '2026-07-07T14:40:31Z'
 tags:
 - agents
+- frontend_ui
 - github-repo
 - rag
 - reddit
 - unknown
+- workflows
 stars: 193
 language: Unknown
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-07-10T04:18:50.966317+05:30'
-last_seen: '2026-07-10T04:18:50.966317+05:30'
-last_checked: '2026-07-10T04:18:50.966317+05:30'
+first_seen: '2026-07-10T13:21:22.540246+05:30'
+last_seen: '2026-07-10T13:21:22.540246+05:30'
+last_checked: '2026-07-10T13:21:22.540246+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized Caching Strategies**: Implements advanced TanStack Query patterns (e.g., stale-while-revalidate, parallel queries) to minimize redundant API calls and improve cache consistency for AI-driven applications.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and state synchronization in AI-driven applications using TanStack Query (v5+), including stale-while-revalidate (SWR) and optimistic updates for real-time agent interactions.
 
-- **Dynamic Route Management**: Leverages TanStack Router’s file-based routing and lazy-loading to dynamically generate optimized paths for AI agent navigation, reducing bundle size and improving load times.
+- **Router-State Management for AI Agents**: Implements TanStack Router’s file-based routing and type-safe navigation to dynamically handle agent workflows, leveraging deferred/lazy-loaded routes for performance-critical AI applications.
 
-- **State Synchronization**: Integrates TanStack Start for seamless state hydration between server and client, ensuring AI agents maintain consistent context across SSR/CSR transitions.
+- **Start Framework Best Practices**: Provides structured initialization patterns for TanStack Start (Next.js-like meta-framework) in agent environments, focusing on SSR/SSG hybrid rendering and edge-optimized deployments for scalable AI tooling.
 
 ## Why It Matters
 

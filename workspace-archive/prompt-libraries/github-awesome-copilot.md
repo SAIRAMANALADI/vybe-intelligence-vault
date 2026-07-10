@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource Hub**: GitHub repository (`awesome-copilot`) aggregating community-driven guides, agents, skills, and configurations to optimize GitHub Copilot usage, covering prompt engineering, custom agents, and AI-driven workflows.
-- **Technical Scope**: Focuses on Python-based implementations, including agent-skills, custom-agents, and hacktoberfest contributions, with structured configurations for extensibility.
-- **Metadata**: 36,385 stars, 4,531 forks, last updated July 9, 2026, and
+- **Curated Resource Hub**: Aggregates community-driven guides, agents, skills, and configurations to optimize GitHub Copilot usage, covering prompt engineering, custom agents, and AI-driven workflows.
+- **Technical Scope**: Primarily Python-based, with focus on agent-skills, hacktoberfest contributions, and extensibility via custom agents and configurations.
+- **High Engagement**: Maintains 36.4k+ stars and 4.5k+ forks, reflecting active community adoption and continuous updates (last synced Ju
 
 ## Use Cases
 

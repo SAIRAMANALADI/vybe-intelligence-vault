@@ -12,9 +12,8 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
+- dataset
 - github-repo
-- hackernews
-- models
 - python
 - rag
 selection_reason:
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Implementation Framework**: Repository provides Python-based best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), focusing on retrieval optimization and generation integration techniques.
-
-- **Key Technical Components**: Includes modules for document preprocessing, vector database integration (e.g., FAISS, Chroma), and prompt engineering strategies tailored for RAG pipelines.
-
-- **Evaluation & Optimization**: Implements benchmarking tools for assessi
+- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular Python components for query expansion, document chunking, and vector database integration (e.g., FAISS, Chroma).
+- **Evaluation Suite**: Includes automated metrics (e.g., retrieval precision/recall, answer relevance) and benchmark datasets for assessing RAG pipeline performance across domains.
+- **Deployment-Ready**: Provides Dockerized setup with preconfigured APIs (FastAPI) and support
 
 ## Use Cases
 

@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Hugo v0.164.0** introduces dark/light mode support for Chroma highlighter styles, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and Pandoc citation support, along with sub-path layout support in `Page.Render`.
+- **Hugo v0.164.0** introduces dark/light mode support for Chroma syntax highlighting, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and Pandoc citation support, along with sub-path support in `Page.Render` layouts and a performance regression fix.
 
-- **Performance regression fix** from v0.128.0 addressed, improving build times for larger sites, and deprecation of `resources.PostProcess` in favor of `templates.Defer`.
-
-- **Dependency updates** include upgrades to `esbuild v0.28.1`, `Chroma` (
+- **Deprecation**: `resources.PostProcess` is deprecated in favor of `templates.Defer` (commit `29ed932`), with additional optimizations like `hugio.Speedup hasBytesWriter` and case-insensitive template name look
 
 ## Use Cases
 

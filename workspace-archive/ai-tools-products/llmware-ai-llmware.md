@@ -13,11 +13,11 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified RAG Framework**: Provides an integrated Python-based pipeline for enterprise Retrieval-Augmented Generation (RAG) using small, specialized models optimized via ONNX and OpenVINO, supporting LlamaCpp for efficient inference.
+- **Unified RAG Framework**: Provides an end-to-end Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines optimized for small, specialized models (e.g., ONNX, OpenVINO, llama.cpp).
 
-- **Multi-Model & Tool Integration**: Supports agents, generative AI tools, and parsing modules, enabling modular deployment of small specialized models for enterprise-grade LLM applications.
+- **Multi-Backend Support**: Integrates with diverse inference backends (ONNX Runtime, OpenVINO, llama.cpp) and supports parsing, retrieval, and generation workflows for scalable enterprise deployments.
 
-- **Active Development & Compatibility**: Last updated July 2026, with
+- **Agent & Tool Integration**: Enables agent-based architecture
 
 ## Use Cases
 

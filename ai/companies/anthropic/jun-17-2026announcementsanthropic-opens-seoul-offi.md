@@ -11,13 +11,14 @@ tags:
 - anthropic
 - anthropic-news
 - blog-post
-status: active
+status: inactive
 resource_id: blog:jun-17-2026announcementsanthropic-opens-seoul-offi
 first_seen: '2026-06-17T21:32:20.512577+05:30'
 last_seen: '2026-07-10T04:15:30.502474+05:30'
 last_checked: '2026-07-10T04:15:30.502474+05:30'
 health_score: 100
 ---
+
 
 # Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem
 

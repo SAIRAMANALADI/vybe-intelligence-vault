@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-10T04:17:30.901666+05:30'
+collected_at: '2026-07-10T13:20:02.453015+05:30'
 published_at: '2026-07-08T12:24:24Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-10T04:17:30.901666+05:30'
-last_seen: '2026-07-10T04:17:30.901666+05:30'
-last_checked: '2026-07-10T04:17:30.901666+05:30'
+first_seen: '2026-07-10T13:20:02.453015+05:30'
+last_seen: '2026-07-10T13:20:02.453015+05:30'
+last_checked: '2026-07-10T13:20:02.453015+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) models, focusing on Large Language Models (LLMs) with metrics for retrieval quality, generation accuracy, and contextual relevance.
+- **Benchmark Suite**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) models, covering diverse tasks and datasets to assess performance in Chinese language contexts.
 
-- **Modular Framework**: Implements a structured pipeline for CRUD (Create, Read, Update, Delete) operations in RAG systems, enabling dynamic data management and retrieval optimization for Chinese-language tasks.
+- **Evaluation Framework**: Implements standardized metrics and protocols for assessing RAG systems, including retrieval quality, generation coherence, and end-to-end task completion in Chinese NLP scenarios.
 
-- **Evaluation Metrics**: Includes standardized metrics for assessing RAG performance, such as retrieval precision, generation coherence, and end-to-end task completion, with open-source Python implementations for reproducibility.
+- **Open-Source Toolkit**: Released as a Python-based repository, offering tools for benchmarking, model comparison, and reproducibility in RAG research for Chinese LLMs.
 
 ## Why It Matters
 

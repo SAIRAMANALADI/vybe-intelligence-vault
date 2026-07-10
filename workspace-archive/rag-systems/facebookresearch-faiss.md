@@ -6,7 +6,7 @@ source_url: https://github.com/facebookresearch/faiss
 resource_id: github:facebookresearch/faiss
 local_vault_path: ai/rag/facebookresearch-faiss.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -15,6 +15,7 @@ tags:
 - dataset
 - github-repo
 - hackernews
+- models
 - rag
 selection_reason:
 - Strong keyword match
@@ -26,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +35,12 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: FAISS is a C++ library designed for high-performance similarity search and clustering of dense vectors, optimized for large-scale datasets.
-- **Key Features**: Supports exact and approximate nearest neighbor search, GPU acceleration, and efficient indexing structures (e.g., IVF, HNSW, PQ).
-- **Applications**: Enables scalable vector similarity search for tasks like recommendation systems, image retrieval, and NLP embeddings.
+- **Purpose**: FAISS (Facebook AI Similarity Search) is a C++ library optimized for efficient similarity search and clustering of dense vectors, leveraging approximate nearest neighbor search techniques to handle large-scale datasets.
+
+- **Key Features**:
+  - Supports exact and approximate nearest neighbor search via indexes like IVF, HNSW, and PQ.
+  - Implements GPU-accelerated search via CUDA for high-performance vector operations.
+  - Provides Python and C++ APIs for integration with machine
 
 ## Use Cases
 

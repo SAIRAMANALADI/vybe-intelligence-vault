@@ -15,6 +15,7 @@ tags:
 - github-repo
 - rag
 - typescript
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic OS Framework**: Open-source TypeScript-based system enabling autonomous AI agents with plugin extensibility, supporting RAG, swarm intelligence, and multi-platform integration (Discord, Slack, Telegram).
-
-- **Multi-Protocol Integration**: Native support for Discord, Slack, and Telegram bots, facilitating cross-platform agentic interactions via standardized interfaces.
-
-- **Modular Architecture**: Plugin-driven design with crypto compatibility, enabling customizable agent behaviors, k
+- **Agentic OS Framework**: Open-source TypeScript-based system (`elizaOS/eliza`) enabling autonomous AI agents with plugin support for RAG, Discord, Slack, and Telegram integrations.
+- **Swarm Intelligence**: Designed for multi-agent coordination (`swarm` topic) with crypto compatibility for decentralized agent interactions.
+- **Modular Architecture**: Extensible via plugins, supporting agentic workflows, chatbot logic, and real-time updates (last commit: 2026-07-10).
 
 ## Use Cases
 

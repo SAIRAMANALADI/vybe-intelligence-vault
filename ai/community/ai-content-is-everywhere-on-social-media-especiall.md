@@ -13,13 +13,14 @@ collected_at: '2026-07-10T04:15:29.018280+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-content-is-everywhere-on-social-media-especiall
 first_seen: '2026-07-10T04:15:29.018280+05:30'
 last_seen: '2026-07-10T04:15:29.018280+05:30'
 last_checked: '2026-07-10T04:15:29.018280+05:30'
 health_score: 100
 ---
+
 
 # AI content is everywhere on social media, especially LinkedIn
 

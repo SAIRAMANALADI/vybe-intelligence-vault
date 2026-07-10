@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Fosowl/agenticSeek
-collected_at: '2026-07-10T04:19:35.989160+05:30'
+collected_at: '2026-07-10T13:22:07.560482+05:30'
 published_at: '2026-07-09T17:30:41Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-02-19T18:03:06Z'
 pushed_at: '2026-07-04T12:59:14Z'
 resource_id: github:fosowl/agenticseek
-first_seen: '2026-07-10T04:19:35.989160+05:30'
-last_seen: '2026-07-10T04:19:35.989160+05:30'
-last_checked: '2026-07-10T04:19:35.989160+05:30'
+first_seen: '2026-07-10T13:22:07.560482+05:30'
+last_seen: '2026-07-10T13:22:07.560482+05:30'
+last_checked: '2026-07-10T13:22:07.560482+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Fully Local AI Agent Framework**: Open-source Python implementation (`agenticSeek`) enabling autonomous LLM-driven agents (e.g., web browsing, coding) with **no external APIs or cloud dependencies**, operating solely on local compute resources.
-- **DeepSeek-R1 Integration**: Leverages DeepSeek’s reasoning models for **self-directed task execution**, supporting multi-modal interactions (text/code) while minimizing operational costs to electricity expenditure.
-- **Twitter-Verified Updates**: Official project updates disseminated exclusively via verified Twitter account `@Martin993886460`; repository warns of impersonation scams and includes 26.6K+ stars and 2.9K+ forks as of July 2026.
+- **Local-first AI autonomy**: Fully local implementation of Manus AI using Python, eliminating API dependencies and cloud costs; operates autonomously with on-device compute (electricity-only expense).
+
+- **DeepSeek-R1 integration**: Leverages DeepSeek-R1 LLM for reasoning, web browsing, and code execution within a self-contained agentic framework.
+
+- **Open-source & real-time updates**: Hosted on GitHub with 26.6K+ stars; official updates exclusively via verified Twitter account (@Martin993886460), mitigating impersonation risks.
 
 ## Why It Matters
 

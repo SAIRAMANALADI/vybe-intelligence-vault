@@ -3,10 +3,8 @@ title: RUC-NLPIR/FlashRAG
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/RUC-NLPIR/FlashRAG?source=post_page
-resource_id: github:ruc-nlpir/flashrag
------dba899ae0355---------------------------------------
-collected_at: '2026-07-10T04:20:21.084960+05:30'
+source_url: https://github.com/RUC-NLPIR/FlashRAG
+collected_at: '2026-07-10T13:19:57.421201+05:30'
 published_at: '2026-07-09T12:46:10Z'
 tags:
 - benchmark
@@ -23,9 +21,9 @@ archived: false
 created_at: '2024-03-14T01:40:33Z'
 pushed_at: '2026-04-10T03:37:48Z'
 resource_id: github:ruc-nlpir/flashrag
-first_seen: '2026-07-10T04:20:21.084960+05:30'
-last_seen: '2026-07-10T04:20:21.084960+05:30'
-last_checked: '2026-07-10T04:20:21.084960+05:30'
+first_seen: '2026-07-10T13:19:57.421201+05:30'
+last_seen: '2026-07-10T13:19:57.421201+05:30'
+last_checked: '2026-07-10T13:19:57.421201+05:30'
 health_score: 100
 ---
 
@@ -33,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experimentation.
+- **Efficient RAG Framework**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experiments.
 
-- **Benchmarking & Datasets**: Includes built-in support for standardized RAG benchmarks and diverse datasets, enabling reproducible evaluation of retrieval and generation performance across tasks.
+- **Benchmark & Dataset Integration**: Provides built-in support for standardized RAG benchmarks and datasets, enabling reproducible evaluation of retrieval and generation components.
 
-- **Modular & Extensible**: Designed with modularity in mind, allowing seamless integration of custom retrieval models, datasets, and evaluation metrics for advanced RAG research.
+- **Modular & Extensible**: Designed with modularity in mind, supporting custom retrieval strategies, models, and pipelines while maintaining low-latency inference for large language models.
 
 ## Why It Matters
 
@@ -72,4 +70,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/RUC-NLPIR/FlashRAG?source=post_page-----dba899ae0355---------------------------------------
+Original source: https://github.com/RUC-NLPIR/FlashRAG

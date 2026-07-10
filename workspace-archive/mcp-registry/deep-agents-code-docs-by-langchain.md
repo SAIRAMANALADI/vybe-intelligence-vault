@@ -8,21 +8,18 @@ local_vault_path: ai/rag/deep-agents-code-docs-by-langchain.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - anthropic
-- models
-- openai
 - producthunt
 - rag
-- scripts
 - web-crawled
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Deep Agents Code - Docs by LangChain
@@ -31,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `MCP Registry`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports dynamic switching between LLM providers (OpenAI, Anthropic, Google, etc.) mid-session via `/model` command or CLI flags (`--model`), with persistent memory and approval-gated execution controls.
+- **Multi-Model & Provider Agnostic**: `dcode` operates with any LLM, enabling seamless switching between providers/models while maintaining persistent memory for cross-session context.
 
-- **Built-in Toolset**: Provides 15+ approval-gated tools including file I/O (`read_file`, `edit_file`), shell execution (`execute`), web search (`web_search`), and subagent delegation (`task`), with configurable human-in-the-loop safeguards.
+- **Modular Execution Framework**: Supports remote sandboxes, subagents for parallel task delegation, MCP tool integration, and human-in-the-loop approvals for sensitive operations.
 
-- **Non-Inter
+- **Observability & Extensibility**: Features LangSmith tracing for debugging, context compaction for memory optimization, and cus
 
 ## Use Cases
 

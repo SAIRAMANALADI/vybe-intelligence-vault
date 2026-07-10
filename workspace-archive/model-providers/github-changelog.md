@@ -13,7 +13,6 @@ importance: medium
 tags:
 - openai
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -32,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Model Integration**: OpenAI's GPT-5.6 variants (Sol, Terra, Luna) are now accessible via GitHub Copilot, expanding the AI-powered coding assistant's model options.
-
-- **Enhanced Capabilities**: The new models (Sol, Terra, Luna) are optimized for improved code generation, debugging, and contextual understanding in GitHub Copilot workflows.
-
-- **Deployment Timeline**: The update was rolled out on **July 9, 2026**, as part of GitHub's changelog for Copilot integrations.
+- **Model Integration**: GitHub Copilot now supports OpenAI’s GPT-5.6 variants (Sol, Terra, Luna) via GitHub’s changelog update (July 9, 2026).
+- **Availability**: These models are accessible directly within GitHub Copilot, expanding its AI-driven coding assistance capabilities.
+- **Release Context**: The update aligns with OpenAI’s broader model rollout, enhancing Copilot’s performance for developers.
 
 ## Use Cases
 

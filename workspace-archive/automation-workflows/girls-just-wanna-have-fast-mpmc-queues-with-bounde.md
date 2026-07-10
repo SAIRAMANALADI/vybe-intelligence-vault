@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by EvgeniyZh. Score: 111, Comments: 20.
+Hacker News story by EvgeniyZh. Score: 155, Comments: 32.
 Original Link: https://nahla.dev/blog/waitfree_queue/
 
 ## Use Cases

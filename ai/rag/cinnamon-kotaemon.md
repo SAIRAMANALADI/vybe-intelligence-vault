@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-07-10T04:16:45.866559+05:30'
+collected_at: '2026-07-10T13:19:17.407931+05:30'
 published_at: '2026-07-09T22:41:28Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-06-09T09:55:55Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-07-10T04:16:45.866559+05:30'
-last_seen: '2026-07-10T04:16:45.866559+05:30'
-last_checked: '2026-07-10T04:16:45.866559+05:30'
+first_seen: '2026-07-10T13:19:17.407931+05:30'
+last_seen: '2026-07-10T13:19:17.407931+05:30'
+last_checked: '2026-07-10T13:19:17.407931+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable contextual document interaction by combining document retrieval with large language models (LLMs).
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded chat interactions, combining retrieval of relevant document segments with LLM-based response generation.
 
-- **Open-Source Python Framework**: Built in Python with modular components for document ingestion, vector storage, and LLM integration, supporting extensibility via plugins.
+- **Modular Python Framework**: Built in Python with extensible components for document ingestion, embedding, retrieval, and LLM integration, supporting customization for diverse use cases.
 
-- **Scalable Document Processing**: Optimized for handling large document sets with efficient retrieval (e.g., FAISS, Chroma) and supports hybrid search (semantic + keyword) for improved accuracy.
+- **Open-Source & Scalable**: Released under an open-source license with 25.5K+ stars, designed for scalability and integration with local or cloud-based LLMs and vector databases.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: Cinnamon
 - Stars: 25531
-- Forks: 2124
+- Forks: 2123
 - Language: Python
 - Topics: chatbot, llms, open-source, rag
 - Last Updated: 2026-07-09T22:41:28Z

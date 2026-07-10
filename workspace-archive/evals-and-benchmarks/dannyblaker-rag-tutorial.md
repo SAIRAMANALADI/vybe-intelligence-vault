@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6-step guide covering end-to-end RAG development, from fundamentals to production deployment, with reusable Python utilities and hands-on demos.
-- **Technical Scope**: Covers embeddings, vector databases (e.g., FAISS, Chroma), LLM integration, and advanced RAG techniques (e.g., query rewriting, multi-modal retrieval).
-- **Resources**: Includes working code examples, modular utilities, and updated as of July 2026 (Python-based, 7 stars, 0 forks).
+- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG pipeline development, from foundational concepts to production deployment, with executable code examples and reusable utilities.
+
+- **Core Technical Focus**: Covers embeddings generation, vector database integration, LLM interaction, and advanced RAG optimization techniques for building scalable retrieval-augmented systems.
+
+- **Python-Based Implementation**: Provides hands-on demos and modular utilities in Python, emph
 
 ## Use Cases
 

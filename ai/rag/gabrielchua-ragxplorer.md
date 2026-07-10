@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-10T04:16:50.850856+05:30'
+collected_at: '2026-07-10T13:19:22.407578+05:30'
 published_at: '2026-07-07T03:51:39Z'
 tags:
+- benchmark
 - github-repo
-- hackernews
 - jupyter notebook
 - models
 - rag
+- workflows
 stars: 1222
 language: Jupyter Notebook
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-10T04:16:50.850856+05:30'
-last_seen: '2026-07-10T04:16:50.850856+05:30'
-last_checked: '2026-07-10T04:16:50.850856+05:30'
+first_seen: '2026-07-10T13:19:22.407578+05:30'
+last_seen: '2026-07-10T13:19:22.407578+05:30'
+last_checked: '2026-07-10T13:19:22.407578+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Python-based utility (`RAGxplorer`) leveraging Jupyter Notebooks and Streamlit for dynamic exploration and debugging of Retrieval-Augmented Generation (RAG) pipelines.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
 
-- **Key Features**: Enables real-time visualization of RAG components (retriever, generator, embeddings) with interactive UI for analyzing query flows, retrieval accuracy, and LLM response generation.
+- **Streamlit-Powered UI**: Integrates Streamlit for a web-based, user-friendly interface to dynamically analyze and debug RAG workflows, including query processing, retrieval, and response generation.
 
-- **Technical Stack**: Built with Python, integrates Streamlit for web-based interactivity, and supports custom RAG pipelines for LLMs with modular visualization of embeddings and retrieval metrics.
+- **Python-Based Analysis**: Leverages Python for modular analysis of RAG components, supporting customization and extension for advanced debugging and performance evaluation of LLM pipelines.
 
 ## Why It Matters
 

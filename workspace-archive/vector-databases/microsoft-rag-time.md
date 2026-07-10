@@ -6,7 +6,7 @@ source_url: https://github.com/microsoft/rag-time
 resource_id: github:microsoft/rag-time
 local_vault_path: ai/rag/microsoft-rag-time.md
 quality_score: 70
-archive_score: 75
+archive_score: 77
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -17,7 +17,9 @@ tags:
 - models
 - openai
 - rag
+- workflows
 selection_reason:
+- Strong keyword match
 - Active open-source repository
 ---
 
@@ -26,16 +28,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: benchmark
 - Selection reasons:
+  - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **5-week structured curriculum** covering RAG fundamentals, hybrid search (HNSW + keyword), and multimodal applications using Azure OpenAI and VS Code.
-- **Advanced quantization techniques** (binary/scalar) and **Matryoshka representation learning** for efficient indexing and retrieval.
-- **Responsible AI integration** with focus on generative AI safety, multimodal RAG pipelines, and deployment best practices.
+- **Comprehensive RAG Mastery Program**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals to advanced techniques, including hybrid search, vector search, and quantization methods (binary/scalar) for efficient indexing and retrieval.
+
+- **Multi-Technology Integration**: Combines Azure services, OpenAI/GPT models, HNSW (Hierarchical Navigable Small World) for approximate nearest neighbor search, and Matryoshka representation learning for scalable multimoda
 
 ## Use Cases
 

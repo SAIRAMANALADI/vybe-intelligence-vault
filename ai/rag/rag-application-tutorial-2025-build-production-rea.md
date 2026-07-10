@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-07-09T21:06:26.051785+05:30'
-collected_at: '2026-07-09T21:06:26.051797+05:30'
+published_at: '2026-07-10T13:18:53.410870+05:30'
+collected_at: '2026-07-10T13:18:53.410887+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-07-09T21:06:26.051797+05:30'
-last_seen: '2026-07-09T21:06:26.051797+05:30'
-last_checked: '2026-07-09T21:06:26.051797+05:30'
+first_seen: '2026-07-10T13:18:53.410887+05:30'
+last_seen: '2026-07-10T13:18:53.410887+05:30'
+last_checked: '2026-07-10T13:18:53.410887+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like hybrid search combining dense/sparse retrieval), and vector storage (e.g., Supabase) for efficient retrieval during generation.
+- **RAG Architecture**: Core components include document chunking, embedding generation (e.g., via LangChain), vector storage (e.g., Supabase), and retrieval-augmented generation with LLM integration for contextual response synthesis.
 
-- **Production Optimization**: Critical factors include token usage reduction (via query expansion/rewriting), latency mitigation (caching, load balancing across models), and observability (Sentry integration for monitoring performance metrics).
+- **Production Optimization**: Key strategies involve hybrid search (dense + sparse retrieval), query expansion/rewriting, embedding optimization, caching, and load balancing across multiple models for latency and cost efficiency.
 
-- **Advanced Patterns & Scaling**: Multi-modal RAG (handling images/PDFs), conversational memory integration, and deployment strategies (Cloudflare Workers) enable scalable, high-performance RAG systems with trade-offs between cost and accuracy.
+- **Monitoring & Scaling**: Implementation requires observability (e.g., Sentry integration), performance benchmarking, multi-modal RAG support (images/PDFs), and deployment via edge platforms (Cloudflare Workers) for scalability.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T21:06:26.051785+05:30
+- Published: 2026-07-10T13:18:53.410870+05:30
 
 ## Related Tags
 

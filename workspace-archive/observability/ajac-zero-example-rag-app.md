@@ -6,7 +6,7 @@ source_url: https://github.com/ajac-zero/example-rag-app
 resource_id: github:ajac-zero/example-rag-app
 local_vault_path: ai/rag/ajac-zero-example-rag-app.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: prompt
 importance: medium
@@ -18,7 +18,6 @@ tags:
 - openai
 - rag
 - typescript
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -29,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +38,9 @@ selection_reason:
 
 - **Multi-Provider LLM Integration**: Utilizes LiteLLM to support 100+ LLM providers with unified API access, enabling seamless switching between models (e.g., OpenAI, Anthropic, Mistral) via environment variables.
 
-- **Observability & Debugging**: Implements Langfuse for full LLM observability, logging prompts, completions, costs, and latency metrics to track performance and debugging workflows end-to-end.
+- **Observability & Debugging**: Implements Langfuse for full LLM observability, logging prompts, completions, and costs, with structured metadata for performance analysis and debugging.
 
-- **Enterprise-Grade Tooling**: Dockerized deployment with TypeScript strict typing, 100
+- **Production-Grade Tooling**: Dockerized deployment with TypeScript strict type-checking, 100%
 
 ## Use Cases
 

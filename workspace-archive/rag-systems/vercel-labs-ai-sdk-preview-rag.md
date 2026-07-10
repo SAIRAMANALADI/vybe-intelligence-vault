@@ -13,9 +13,9 @@ importance: medium
 tags:
 - frontend_ui
 - github-repo
-- hackernews
 - rag
 - typescript
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Template for retrieval-augmented generation (RAG) using Vercel's AI SDK, designed for Next.js applications.
-- **Key Components**: Integrates AI SDK for LLM interactions, supports vector-based retrieval, and includes Next.js routing for RAG pipelines.
-- **Technical Stack**: TypeScript-based, leverages Vercel's ecosystem (e.g., Vercel AI SDK, Next.js).
+- **RAG Implementation**: Template demonstrates retrieval-augmented generation (RAG) using Vercel's AI SDK, integrating document retrieval with LLM generation in Next.js.
+- **Tech Stack**: Built with TypeScript, leveraging Next.js for frontend/backend, and the AI SDK for structured AI workflows.
+- **Key Features**: Supports vector search, context-aware prompting, and modular document processing for scalable RAG pipelines.
 
 ## Use Cases
 

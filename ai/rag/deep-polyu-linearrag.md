@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-10T04:17:55.924382+05:30'
-published_at: '2026-07-08T14:04:33Z'
+collected_at: '2026-07-10T13:20:27.461893+05:30'
+published_at: '2026-07-09T23:21:02Z'
 tags:
-- dataset
 - github-repo
+- hackernews
 - python
 - rag
-stars: 522
+stars: 523
 language: Python
 status: active
 license: GPL-3.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-10T04:17:55.924382+05:30'
-last_seen: '2026-07-10T04:17:55.924382+05:30'
-last_checked: '2026-07-10T04:17:55.924382+05:30'
+first_seen: '2026-07-10T13:20:27.461893+05:30'
+last_seen: '2026-07-10T13:20:27.461893+05:30'
+last_checked: '2026-07-10T13:20:27.461893+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel graph-based RAG framework that linearizes large-scale corpora into structured graphs for efficient retrieval and augmentation in LLMs, optimizing scalability for ICLR 2026.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel graph-based RAG framework that linearizes graph retrieval for large-scale corpora, optimizing efficiency and scalability for LLMs by leveraging linear graph traversal techniques.
 
-- **Key Innovation**: Implements linear-time graph traversal (O(V+E)) for retrieval, bypassing traditional quadratic complexity in dense retrieval methods, while preserving contextual relevance via graph-augmented prompts.
+- **ICLR 2026 Contribution**: Proposes a method to transform traditional graph-based RAG into a linear retrieval process, reducing computational overhead while maintaining or improving retrieval accuracy for knowledge-intensive tasks.
 
-- **Performance**: Achieves state-of-the-art trade-offs in retrieval latency and answer accuracy on large-scale datasets (e.g., 10M+ documents), with Python-based implementation leveraging PyTorch for graph operations.
+- **Implementation**: Provides a Python-based open-source repository with tools for graph construction, linear retrieval, and integration with LLMs, supporting large-scale corpora with minimal latency.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: DEEP-PolyU
-- Stars: 522
+- Stars: 523
 - Forks: 60
 - Language: Python
 - Topics: graphrag, llms, rag
-- Last Updated: 2026-07-08T14:04:33Z
+- Last Updated: 2026-07-09T23:21:02Z
 - License: GPL-3.0
 - Archived: No
 - Created At: 2025-10-27T02:16:18Z

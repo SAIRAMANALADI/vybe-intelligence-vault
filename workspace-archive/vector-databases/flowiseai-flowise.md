@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Visual AI Agent Builder**: Open-source, low/no-code platform in TypeScript/React for constructing AI agents and workflows, leveraging LangChain and large language models (LLMs) like OpenAI.
+- **Low-code/No-code Platform**: FlowiseAI enables visual construction of AI agents and workflows using a drag-and-drop interface, leveraging React, TypeScript, and JavaScript for frontend development.
 
-- **Multi-Agent & RAG Support**: Enables creation of multi-agent systems and Retrieval-Augmented Generation (RAG) pipelines with modular components for chatbots, automation, and agentic workflows.
+- **Multi-Agent & Workflow Automation**: Supports agentic AI, multi-agent systems, and LangChain integration for complex workflow automation, including RAG (Retrieval-Augmented Generation) and OpenAI/LLM interactions.
 
-- **Extensible Architecture**: Modular design with 54K+ GitHub stars, supporting integrations for agentic A
+- **Extensible & Open-Source**: Built with modularity in mind, allowing custom
 
 ## Use Cases
 

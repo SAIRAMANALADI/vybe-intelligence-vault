@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Functional LLM Platform**: Converts raw documents into a queryable Retrieval-Augmented Generation (RAG) system, an autonomous reasoning agent, and a self-maintaining Wiki, supporting multi-tenancy and multi-model integration (e.g., Ollama, OpenAI).
+- **Multi-functional LLM Platform**: WeKnora transforms raw documents into a **queryable RAG (Retrieval-Augmented Generation)**, an **autonomous reasoning agent**, and a **self-maintaining Wiki**, supporting **multi-tenant** and **multi-model** architectures.
 
-- **Technical Stack**: Implemented in Go, featuring embeddings, vector search, semantic search, reranking, and evaluation modules for generative AI and question-answering workflows.
-
-- **Key Features**: Supports agentic AI, chatbots, knowle
+- **Technical Stack & Features**: Built in **Go**, integrates **vector search**, **semantic search**, **reranking**, and **embeddings** (via **Ollama**/**OpenAI**), with **question-answering** and **evaluation** capabilities for generative
 
 ## Use Cases
 

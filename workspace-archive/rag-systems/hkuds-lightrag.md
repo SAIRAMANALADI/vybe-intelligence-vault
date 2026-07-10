@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
 - models
 - openai
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **LightRAG Framework**: Introduces a lightweight, fast Retrieval-Augmented Generation (RAG) system optimized for efficiency and simplicity, leveraging Python for implementation.
-- **Graph-Based Retrieval**: Utilizes knowledge graphs to enhance retrieval precision and contextual relevance in LLM outputs, improving performance over traditional RAG methods.
-- **EMNLP 2025 Contribution**: Proposes a novel approach to RAG, balancing computational efficiency with high-quality generation, validated t
+- **LightRAG Framework**: Introduces a lightweight, efficient Retrieval-Augmented Generation (RAG) system optimized for speed and simplicity, leveraging Python for implementation.
+
+- **Graph-Based Retrieval**: Utilizes knowledge graphs to enhance retrieval precision, improving context relevance for large language models (LLMs) while maintaining low computational overhead.
+
+- **EMNLP 2025 Contribution**: Proposes a novel approach to RAG, balancing performance and resource efficiency, with signifi
 
 ## Use Cases
 

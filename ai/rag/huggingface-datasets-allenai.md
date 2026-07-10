@@ -5,7 +5,7 @@ source_type: huggingface_dataset
 source_name: Hugging Face Trending Datasets
 source_url: https://huggingface.co/datasets/allenai
 published_at: '2024-01-09T19:14:03.000Z'
-collected_at: '2026-07-10T04:15:25.695934+05:30'
+collected_at: '2026-07-10T13:17:20.022330+05:30'
 tags:
 - dataset
 - hf-dataset
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:datasets/allenai
 first_seen: '2026-06-24T10:13:12.746774+05:30'
-last_seen: '2026-07-10T04:15:25.695934+05:30'
-last_checked: '2026-07-10T04:15:25.695934+05:30'
+last_seen: '2026-07-10T13:17:20.022330+05:30'
+last_checked: '2026-07-10T13:17:20.022330+05:30'
 health_score: 100
 ---
 

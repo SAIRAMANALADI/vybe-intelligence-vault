@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/coding-agent-template
-collected_at: '2026-07-10T04:18:25.959466+05:30'
-published_at: '2026-07-08T14:53:14Z'
+collected_at: '2026-07-10T13:20:57.505023+05:30'
+published_at: '2026-07-10T03:45:42Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
 - workflows
-stars: 1739
+stars: 1740
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-23T14:00:46Z'
 pushed_at: '2026-04-13T21:44:42Z'
 resource_id: github:vercel-labs/coding-agent-template
-first_seen: '2026-07-10T04:18:25.959466+05:30'
-last_seen: '2026-07-10T04:18:25.959466+05:30'
-last_checked: '2026-07-10T04:18:25.959466+05:30'
+first_seen: '2026-07-10T13:20:57.505023+05:30'
+last_seen: '2026-07-10T13:20:57.505023+05:30'
+last_checked: '2026-07-10T13:20:57.505023+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Multi-agent AI coding platform leveraging Vercel Sandbox for isolated execution and AI Gateway for unified AI model access.
-- **Tech Stack**: TypeScript-based, integrating Vercel’s infrastructure for scalable agent-based workflows.
-- **Last Update**: Repository last modified on **2026-07-08T14:53:14Z** with **1,739 stars** and **284 forks**.
+- **Architecture**: Multi-agent AI coding platform leveraging Vercel Sandbox for isolated execution and AI Gateway for unified AI model access and routing.
+- **Tech Stack**: Built in TypeScript, integrating Vercel’s serverless and edge compute infrastructure for scalable agent-based workflows.
+- **Key Features**: Enables parallelized AI agent collaboration for code generation, testing, and debugging with real-time sandboxed execution.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 1739
+- Stars: 1740
 - Forks: 284
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-07-08T14:53:14Z
+- Last Updated: 2026-07-10T03:45:42Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-23T14:00:46Z

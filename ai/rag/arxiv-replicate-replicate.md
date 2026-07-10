@@ -4,18 +4,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://replicate.com/docs/arxiv/about
-published_at: '2026-06-24T10:10:22.595127+05:30'
-collected_at: '2026-06-24T10:10:22.595138+05:30'
+published_at: '2026-07-10T13:24:11.260760+05:30'
+collected_at: '2026-07-10T13:24:11.260770+05:30'
 tags:
-- agents
-- anthropic
 - rag
+- reddit
 - web-crawled
+- youtube
 status: active
 resource_id: blog:arxiv-replicate-replicate
-first_seen: '2026-06-24T10:10:22.595138+05:30'
-last_seen: '2026-06-24T10:10:22.595138+05:30'
-last_checked: '2026-06-24T10:10:22.595138+05:30'
+first_seen: '2026-07-10T13:24:11.260770+05:30'
+last_seen: '2026-07-10T13:24:11.260770+05:30'
+last_checked: '2026-07-10T13:24:11.260770+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Gemini-3.1-Flash-TTS**: Google's TTS model supporting 30 voices and 70+ languages, optimized for speed and expressiveness with 195.9K runs.
-- **Claude-Opus-4.7**: Anthropic's advanced model excelling in agentic coding, vision tasks, and multi-step reasoning, with 112.6K runs.
-- **Seedream-5-Lite**: ByteDance’s image generation model featuring built-in reasoning, example-based editing, and deep domain knowledge, with 2.7M runs.
+- **p-video-avatar**: Fastest and most cost-effective avatar/lipsync video model, achieving 91.3K runs on Replicate.
+- **grok-imagine-video**: xAI’s video generation model, leveraging Grok, with 1.3M runs.
+- **flux-2-max**: Highest-fidelity image model from Black Forest Labs, with 3.6M runs.
 
 ## Why It Matters
 
@@ -35,14 +35,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:10:22.595127+05:30
+- Published: 2026-07-10T13:24:11.260760+05:30
 
 ## Related Tags
 
-- agents
-- anthropic
 - rag
+- reddit
 - web-crawled
+- youtube
 
 ## Source
 

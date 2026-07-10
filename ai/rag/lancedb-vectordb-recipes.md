@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-10T04:16:30.831287+05:30'
+collected_at: '2026-07-10T13:19:02.358963+05:30'
 published_at: '2026-07-09T08:20:25Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -24,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-10T04:16:30.831287+05:30'
-last_seen: '2026-07-10T04:16:30.831287+05:30'
-last_checked: '2026-07-10T04:16:30.831287+05:30'
+first_seen: '2026-07-10T13:19:02.358963+05:30'
+last_seen: '2026-07-10T13:19:02.358963+05:30'
+last_checked: '2026-07-10T13:19:02.358963+05:30'
 health_score: 100
 ---
 
@@ -34,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook examples for multimodal AI, Retrieval-Augmented Generation (RAG), and agent-based systems leveraging vector search and LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
+- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook examples for integrating vector search with LLMs (e.g., GPT-4-Vision, Llama-Index, LangChain) to enable multimodal AI and retrieval-augmented generation (RAG) workflows.
 
-- **Vector Database Integration**: Focuses on LanceDB for efficient vector storage and retrieval, demonstrating fine-tuning, embeddings, and hybrid search techniques for multimodal data.
+- **Vector Database Recipes**: Demonstrates practical use cases of LanceDB (a vector database) for efficient similarity search, fine-tuning, and embedding-based retrieval in AI pipelines.
 
-- **Toolchain & Frameworks**: Includes tutorials for OpenAI APIs, LangChain, and LlamaIndex, showcasing end-to-end pipelines for agentic workflows and multimodal applications.
+- **Agent & LLM Tooling**: Includes tutorials on deploying AI agents, leveraging OpenAI APIs, and optimizing embeddings for deep learning and machine learning applications.
 
 ## Why It Matters
 

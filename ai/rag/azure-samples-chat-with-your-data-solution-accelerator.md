@@ -4,24 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-07-10T04:17:15.889242+05:30'
+collected_at: '2026-07-10T13:19:47.474653+05:30'
 published_at: '2026-07-07T13:09:46Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
+- reddit
+- workflows
 stars: 1173
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-07-07T13:08:34Z'
+pushed_at: '2026-07-10T06:36:41Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-07-10T04:17:15.889242+05:30'
-last_seen: '2026-07-10T04:17:15.889242+05:30'
-last_checked: '2026-07-10T04:17:15.889242+05:30'
+first_seen: '2026-07-10T13:19:47.474653+05:30'
+last_seen: '2026-07-10T13:19:47.474653+05:30'
+last_checked: '2026-07-10T13:19:47.474653+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for generative responses, enabling Q&A and ChatGPT-style interactions.
-- **Azure Deployment**: Leverages **Azure Developer CLI (azd) templates** for infrastructure-as-code (IaC) provisioning, ensuring scalable and reproducible deployments across Azure services.
-- **Best Practices**: Incorporates production-ready patterns for **semantic search**, **prompt engineering**, and **security** (e.g., Azure Managed Identity, role-based access control) in a Python-based implementation.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern on Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A, adhering to best practices.
+- **Components**: Includes **Python-based** solution with **AZD templates**, integrating Azure AI Search for vector/keyword retrieval and Azure OpenAI for LLM-powered responses.
+- **Deployment**: Provides pre-configured infrastructure-as-code (IaC) via AZD templates, optimized for scalable, production-grade RAG workflows in Azure.
 
 ## Why It Matters
 
@@ -48,7 +50,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-07-07T13:08:34Z
+- Pushed At: 2026-07-10T06:36:41Z
 
 ## Possible Use Cases
 

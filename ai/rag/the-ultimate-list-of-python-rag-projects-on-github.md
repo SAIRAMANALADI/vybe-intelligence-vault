@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dasroot.net/posts/2026/03/python-rag-projects-github/
-published_at: '2026-07-10T04:16:16.807017+05:30'
-collected_at: '2026-07-10T04:16:16.807030+05:30'
+published_at: '2026-07-10T13:18:49.117744+05:30'
+collected_at: '2026-07-10T13:18:49.117756+05:30'
 tags:
 - agents
 - benchmark
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:the-ultimate-list-of-python-rag-projects-on-github
-first_seen: '2026-07-10T04:16:16.807030+05:30'
-last_seen: '2026-07-10T04:16:16.807030+05:30'
-last_checked: '2026-07-10T04:16:16.807030+05:30'
+first_seen: '2026-07-10T13:18:49.117756+05:30'
+last_seen: '2026-07-10T13:18:49.117756+05:30'
+last_checked: '2026-07-10T13:18:49.117756+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain v0.24.0** enables modular RAG pipelines with multi-agent workflows, supporting LLMs like Llama 3.1 70b instruct and reducing deployment overhead via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
+- **LangChain v0.24.0** enables modular RAG pipelines with multi-agent workflows, LLM compatibility (e.g., Llama 3.1 70b instruct), and minimal-code deployment via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
 
-- **LlamaIndex v0.12.0** introduces semantic chunking and advanced filtering, improving retrieval accuracy by **~30%** in complex datasets, with optimized support for unstructured data (PDFs, images) via `DBConnectors` and `Unstructured.io`.
+- **LlamaIndex v0.12.0** introduces semantic chunking and advanced filtering, improving retrieval accuracy by **30%** in complex datasets, with support for multi-format document parsing (PDFs, CSVs, Word) and structured database integration via `DBConnectors`.
 
-- **RAGFlow v0.24.0** offers enterprise-grade RAG with multi-modal parsing, agentic workflows, and support for models like Gemini 3 Pro and GPT-5, featuring a built-in Python/JavaScript code executor for dynamic task execution.
+- **RAGFlow v0.24.0** supports enterprise-grade multi-modal RAG with agent workflows, cross-language queries, and code execution (Python/JS), optimized for high-fidelity AI systems integrating sources like Confluence, S3, and Google Drive.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-10T04:16:16.807017+05:30
+- Published: 2026-07-10T13:18:49.117744+05:30
 
 ## Related Tags
 

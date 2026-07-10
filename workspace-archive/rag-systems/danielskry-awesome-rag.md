@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- hackernews
 - rag
 - unknown
 selection_reason:
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: Comprehensive collection of Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI, covering large language models (LLMs) and retrieval techniques.
-- **Active Maintenance**: Repository last updated on **2026-07-09**, indicating ongoing curation and relevance in the rapidly evolving RAG landscape.
-- **Community Engagement**: High engagement metrics with **1300 stars** and **169 forks**, reflecting strong interest and collaborative co
+- **Curated RAG Resources**: Comprehensive collection of Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI.
+- **High Community Engagement**: Repository with 1.3k+ stars and 168+ forks, indicating strong community interest and adoption.
+- **Updated & Active**: Last updated in July 2026, ensuring relevance with ongoing contributions and maintenance.
 
 ## Use Cases
 

@@ -4,15 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-10T04:16:55.884766+05:30'
+collected_at: '2026-07-10T13:19:27.439829+05:30'
 published_at: '2026-07-08T12:21:46Z'
 tags:
-- frontend_ui
 - github-repo
-- openai
 - python
 - rag
-- workflows
 stars: 156
 language: Python
 status: active
@@ -21,9 +18,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-10T04:16:55.884766+05:30'
-last_seen: '2026-07-10T04:16:55.884766+05:30'
-last_checked: '2026-07-10T04:16:55.884766+05:30'
+first_seen: '2026-07-10T13:19:27.439829+05:30'
+last_seen: '2026-07-10T13:19:27.439829+05:30'
+last_checked: '2026-07-10T13:19:27.439829+05:30'
 health_score: 100
 ---
 
@@ -31,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Demonstrates LangChain integration with a vector store (e.g., FAISS) and hybrid search (combining dense + sparse retrieval) for enhanced document retrieval accuracy.
+- **Hybrid Search Implementation**: Demonstrates combining vector similarity search with traditional keyword-based retrieval using LangChain's `HybridSearchRetriever` for enhanced document retrieval accuracy.
 
-- **Streamlit Frontend**: Provides a reactive UI for querying and visualizing RAG responses, with real-time feedback and interactive components.
+- **LangChain + RAG Pipeline**: Integrates LangChain's retrieval-augmented generation (RAG) framework with a vector store (e.g., FAISS or Chroma) to generate context-aware responses from retrieved documents.
 
-- **Modular Architecture**: Uses LangChain’s `RetrievalQA` chain with customizable retrievers, prompt templates, and LLM backends (e.g., OpenAI, HuggingFace) for scalable RAG workflows.
+- **Streamlit UI for RAG**: Provides a Streamlit-based web interface to interact with the RAG system, allowing users to input queries and visualize retrieved results and generated answers.
 
 ## Why It Matters
 

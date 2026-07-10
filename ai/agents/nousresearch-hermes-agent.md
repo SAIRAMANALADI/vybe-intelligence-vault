@@ -4,26 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NousResearch/hermes-agent
-collected_at: '2026-07-10T04:19:31.078487+05:30'
-published_at: '2026-07-09T22:49:05Z'
+collected_at: '2026-07-10T13:22:02.632608+05:30'
+published_at: '2026-07-10T07:50:39Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - openai
 - python
-- workflows
-stars: 212176
+stars: 212421
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-07-22T22:22:28Z'
-pushed_at: '2026-07-09T21:40:10Z'
+pushed_at: '2026-07-10T07:44:23Z'
 resource_id: github:nousresearch/hermes-agent
-first_seen: '2026-07-10T04:19:31.078487+05:30'
-last_seen: '2026-07-10T04:19:31.078487+05:30'
-last_checked: '2026-07-10T04:19:31.078487+05:30'
+first_seen: '2026-07-10T13:22:02.632608+05:30'
+last_seen: '2026-07-10T13:22:02.632608+05:30'
+last_checked: '2026-07-10T13:22:02.632608+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Model AI Agent Framework**: Hermes-Agent is a Python-based framework designed to integrate and manage multiple AI models (e.g., Anthropic, OpenAI, Codex) for dynamic task execution, emphasizing scalability and adaptability in agentic workflows.
-
-- **Modular & Extensible Architecture**: Supports plugins (e.g., `claude-code`, `clawdbot`) for specialized tasks, enabling customization via community-driven tools and APIs for LLM interaction, code generation, and tool orchestration.
-
-- **Active Development & Community**: Last updated in July 2026, the repository (212K+ stars, 39K+ forks) reflects ongoing enhancements, with a focus on collaborative AI agent ecosystems under the `NousResearch` umbrella.
+- **Multi-Provider LLM Integration**: Supports Anthropic, OpenAI, and other LLM providers via modular architecture for dynamic agent-environment interaction.
+- **Self-Improving Agent Framework**: Implements recursive self-feedback loops enabling continuous learning and adaptation from interactions.
+- **Tool-Agnostic Execution Engine**: Enables seamless integration with external tools (e.g., `claude-code`, `codex`) via standardized API interfaces.
 
 ## Why It Matters
 
@@ -44,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NousResearch
-- Stars: 212176
-- Forks: 39091
+- Stars: 212421
+- Forks: 39152
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw
-- Last Updated: 2026-07-09T22:49:05Z
+- Last Updated: 2026-07-10T07:50:39Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-22T22:22:28Z
-- Pushed At: 2026-07-09T21:40:10Z
+- Pushed At: 2026-07-10T07:44:23Z
 
 ## Possible Use Cases
 

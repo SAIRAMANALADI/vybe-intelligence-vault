@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-07-10T04:18:50.898083+05:30'
+collected_at: '2026-07-10T13:21:22.509918+05:30'
 published_at: '2026-07-09T10:51:37Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-07-10T04:18:50.898083+05:30'
-last_seen: '2026-07-10T04:18:50.898083+05:30'
-last_checked: '2026-07-10T04:18:50.898083+05:30'
+first_seen: '2026-07-10T13:21:22.509918+05:30'
+last_seen: '2026-07-10T13:21:22.509918+05:30'
+last_checked: '2026-07-10T13:21:22.509918+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository provides structured practices for transitioning from *vibe coding* to *agentic engineering* using Codex CLI, emphasizing modular agentic workflows, hooks, and context engineering for scalable AI-driven development.
+- **Agentic Workflow Integration**: Demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based task decomposition for AI-driven development workflows.
 
-- **Codex CLI Best Practices**: Documents optimized commands, skills, and CLI configurations for OpenAI Codex, including agentic patterns, skill chaining, and context management to enhance AI agent efficiency and reproducibility.
+- **CLI-Centric Best Practices**: Provides a Python-based repository of optimized Codex CLI commands, skills, and hooks for OpenAI’s Codex, including standardized patterns for agentic task execution, error handling, and state management.
 
-- **Open-Source Toolkit**: Python-based repository offering reusable hooks, CLI templates, and engineering guidelines tailored for Pakistani developers, with a focus on OpenAI Codex integration and community-driven improvements.
+- **Pakistan-Centric Developer Resources**: Curated collection of Pakistan-based developer contributions, focusing on localized AI agent workflows, CLI tooling, and scalable practices for agentic coding in emerging markets.
 
 ## Why It Matters
 

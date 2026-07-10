@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-07-10T04:18:10.941926+05:30'
+collected_at: '2026-07-10T13:20:42.471059+05:30'
 published_at: '2026-07-09T18:36:58Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-07-10T04:18:10.941926+05:30'
-last_seen: '2026-07-10T04:18:10.941926+05:30'
-last_checked: '2026-07-10T04:18:10.941926+05:30'
+first_seen: '2026-07-10T13:20:42.471059+05:30'
+last_seen: '2026-07-10T13:20:42.471059+05:30'
+last_checked: '2026-07-10T13:20:42.471059+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: GitHub repository (`awesome-copilot-agents`) hosting structured GitHub Copilot enhancement files (instructions, prompts, MCPs) for AI agent integration.
-- **Technical Scope**: Supports TypeScript-based agent skills, custom instructions, and VS Code Copilot Chat integration via prompt engineering and MCP (Model Context Protocol) configurations.
-- **Metadata**: 547 stars, 90 forks, last updated 2026-07-09; categorized under `agent-skills`, `ai-agents`, and `prompt-engineering` topics.
+- **Curated Resource**: Aggregates GitHub Copilot enhancement files (instructions, prompts, skills, MCPs, and agent markdown) for AI agent development.
+- **Technical Scope**: Covers agent-skills, prompt engineering, custom agents, and VS Code Copilot Chat integrations.
+- **Repository Metrics**: 547 stars, 91 forks, TypeScript-based, last updated July 9, 2026.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: Code-and-Sorts
 - Stars: 547
-- Forks: 90
+- Forks: 91
 - Language: TypeScript
 - Topics: agent-skills, ai-agents, awesome, awesome-list, copilot-instructions, copilot-prompting, custom-agents, github-copilot, mcp, prompt-engineering, vscode-copilot-chat
 - Last Updated: 2026-07-09T18:36:58Z

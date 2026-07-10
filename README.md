@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-52%2C450-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-54%2C517-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--10-374151?style=flat-square)](#)
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 10,680</p>
-        <p><b>Active:</b> 10,424 | <b>Inactive:</b> 256</p>
+        <p><b>Resources tracked:</b> 11,079</p>
+        <p><b>Active:</b> 10,822 | <b>Inactive:</b> 257</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 41,770</p>
+        <p><b>Archive Files:</b> 43,438</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 52,450 files</p>
-        <p><b>Last Update:</b> 2026-07-10 12:24 IST</p>
+        <p><b>Total Vault Size:</b> 54,517 files</p>
+        <p><b>Last Update:</b> 2026-07-10 13:35 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,26 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+6</kbd>
-- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[stanford-oval/storm](ai/rag/stanford-oval-storm.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[RUC-NLPIR/FlashRAG](ai/rag/ruc-nlpir-flashrag.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Train sim created by just one person is being called the best ever made](ai/community/train-sim-created-by-just-one-person-is-being-call.md)** • <kbd>+345 pts</kbd>
+- 🔼 **[Girls just wanna have fast MPMC queues with bounded waiting](ai/community/girls-just-wanna-have-fast-mpmc-queues-with-bounde.md)** • <kbd>+44 pts</kbd>
+- 🔼 **[embeddings-benchmark/mteb](ai/rag/embeddings-benchmark-mteb.md)** • Rank: <kbd>+315</kbd>
+- 🔼 **[GitHub Status](ai/rag/github-status.md)** • Rank: <kbd>+34</kbd>
+- 🔼 **[GitHub Changelog](ai/resources/github-changelog.md)** • Rank: <kbd>+37</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Jun 23, 2026ProductIntroducing Claude Tag](ai/companies/anthropic/productjun-23-2026introducing-claude-tagclaude-tag.md)** • Score: `0`
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[John Deere owners will get the right to repair equipment under FTC settlement](ai/community/john-deere-owners-will-get-the-right-to-repair-equ.md)** • Score: `1312`
+- 🆕 **[Building a real-time AI tutor for 5-year-olds](ai/community/building-a-real-time-ai-tutor-for-5-year-olds.md)** • Score: `82`
+- 🆕 **[Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future](ai/community/apple-silicon-exec-explains-mac-mini-ai-demand-and.md)** • Score: `66`
+- 🆕 **[Triple Dragon Fractal (2020)](ai/community/triple-dragon-fractal-2020.md)** • Score: `41`
+- 🆕 **[Qwen/Qwen3-VL-Embedding-2B · Hugging Face](ai/rag/huggingface-qwen-qwen3-vl-embedding-2b.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[AI content is everywhere on social media, especially LinkedIn](ai/community/ai-content-is-everywhere-on-social-media-especiall.md)**
+- 💤 **[Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem](ai/companies/anthropic/jun-17-2026announcementsanthropic-opens-seoul-offi.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

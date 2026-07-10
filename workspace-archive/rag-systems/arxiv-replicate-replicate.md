@@ -11,10 +11,10 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- agents
-- anthropic
 - rag
+- reddit
 - web-crawled
+- youtube
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Gemini-3.1-Flash-TTS**: Google's TTS model supporting 30 voices and 70+ languages, optimized for speed and expressiveness with 195.9K runs.
-- **Claude-Opus-4.7**: Anthropic's advanced model excelling in agentic coding, vision tasks, and multi-step reasoning, with 112.6K runs.
-- **Seedream-5-Lite**: ByteDance’s image generation model featuring built-in reasoning, example-based editing, and deep domain knowledge, with 2.7M runs.
+- **p-video-avatar**: Fastest and most cost-effective avatar/lipsync video model, achieving 91.3K runs on Replicate.
+- **grok-imagine-video**: xAI’s video generation model, leveraging Grok, with 1.3M runs.
+- **flux-2-max**: Highest-fidelity image model from Black Forest Labs, with 3.6M runs.
 
 ## Use Cases
 

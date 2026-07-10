@@ -14,7 +14,6 @@ tags:
 - benchmark
 - dataset
 - github-repo
-- openai
 - python
 - rag
 selection_reason:
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular Python components for query expansion, chunking strategies, and vector database integration (e.g., FAISS, Chroma).
-
-- **Evaluation Metrics**: Includes automated benchmarking for retrieval precision, generation coherence, and end-to-end latency, with support for custom datasets and metrics (e.g., MRR, BLEU, ROUGE).
-
-- **Deployment Tools**: Provides Dockerized pipelines for local/remote in
+- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular Python components for query expansion, document chunking, and vector database integration (e.g., FAISS, Chroma).
+- **Evaluation Suite**: Includes automated metrics (e.g., retrieval precision/recall, answer relevance) and benchmark datasets for assessing RAG pipeline performance across domains.
+- **Deployment-Ready**: Provides Dockerized setup with preconfigured APIs (FastAPI) and support
 
 ## Use Cases
 

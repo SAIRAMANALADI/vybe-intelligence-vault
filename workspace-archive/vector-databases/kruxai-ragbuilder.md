@@ -6,18 +6,18 @@ source_url: https://github.com/KruxAI/ragbuilder
 resource_id: github:kruxai/ragbuilder
 local_vault_path: ai/rag/kruxai-ragbuilder.md
 quality_score: 70
-archive_score: 85
+archive_score: 91
 archive_tier: essential
-resource_kind: dataset
+resource_kind: benchmark
 importance: high
 tags:
-- benchmark
-- dataset
 - github-repo
+- hackernews
+- openai
 - python
 - rag
-- workflows
 selection_reason:
+- Strong keyword match
 - Active open-source repository
 ---
 
@@ -26,18 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 85 (essential)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 91 (essential)
+- Resource kind: benchmark
 - Selection reasons:
+  - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Production-ready RAG Pipeline**: Provides a modular Python toolkit for constructing optimized Retrieval Augmented Generation (RAG) systems, emphasizing scalability and deployment readiness for real-world applications.
-
-- **Modular Architecture**: Supports customizable components (e.g., embeddings, retrievers, LLMs) with built-in evaluation and optimization tools to fine-tune performance for specific datasets or use cases.
-
-- **GenAI Integration**: Designed for seamless integration with gener
+- **Purpose**: Provides a Python-based toolkit for constructing production-ready Retrieval Augmented Generation (RAG) pipelines optimized for user data integration.
+- **Core Features**: Enables modular pipeline assembly with components for data ingestion, embedding, retrieval, and generation, supporting customization for performance and scalability.
+- **Technical Stack**: Built in Python with extensibility for integration with vector databases (e.g., FAISS, Pinecone) and LLM backends (e.g., Hugg
 
 ## Use Cases
 

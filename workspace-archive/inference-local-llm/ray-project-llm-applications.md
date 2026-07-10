@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -37,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline Implementation**: Provides production-grade examples for Retrieval-Augmented Generation (RAG) workflows, integrating vector databases, LLM inference, and serving layers using Ray for distributed computing.
-
-- **Multi-LLM Framework Support**: Demonstrates integration with Llama2, OpenAI, and Anyscale endpoints, including fine-tuning and inference optimization techniques for heterogeneous model architectures.
-
-- **Deployment & Scalability**: Includes Jupyter Notebooks for end-to-e
+- **RAG-based LLM Production Guide**: Provides a structured approach to deploying Retrieval-Augmented Generation (RAG) models in production using Ray, covering end-to-end workflows from fine-tuning to serving.
+- **Multi-Framework Integration**: Demonstrates integration with Llama2, OpenAI, and Anyscale, leveraging Ray for scalable model serving and distributed inference.
+- **Notebook-Based Implementation**: Includes Jupyter Notebooks for hands-on examples, focusing on practical deployment strate
 
 ## Use Cases
 

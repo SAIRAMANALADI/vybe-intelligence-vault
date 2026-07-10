@@ -8,7 +8,7 @@ local_vault_path: ai/rag/rohitg00-agentmemory.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - typescript
 - workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # rohitg00/agentmemory
@@ -28,17 +28,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Persistent Memory Framework**: Provides structured, long-term memory storage for AI coding agents, optimized for real-world benchmarks and agent workflows.
+- **Persistent Memory System**: Provides long-term, structured memory storage for AI coding agents, optimized for real-world benchmark performance and seamless integration with agent workflows.
 
-- **TypeScript Implementation**: Built in TypeScript for cross-platform compatibility, supporting integration with popular AI coding tools (Claude, Cursor, etc.).
+- **TypeScript Implementation**: Built in TypeScript, supporting modularity and scalability for agent-based memory operations, with compatibility across major AI coding tools (e.g., Claude, Cursor, Copilot).
 
-- **Benchmark-Driven Design**: Evaluated against real-world use cases, with 24.9K+ GitHub stars and 2K+ forks indicating strong community adoption.
+- **Benchmark-Driven Design**: Evaluated against real-world benchmarks to ensure reliability, ef
 
 ## Use Cases
 

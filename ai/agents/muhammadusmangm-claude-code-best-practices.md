@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-07-10T04:18:55.928301+05:30'
+collected_at: '2026-07-10T13:21:27.540875+05:30'
 published_at: '2026-07-08T11:36:13Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- scripts
 - shell
 - workflows
 stars: 61
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-07-10T04:18:55.928301+05:30'
-last_seen: '2026-07-10T04:18:55.928301+05:30'
-last_checked: '2026-07-10T04:18:55.928301+05:30'
+first_seen: '2026-07-10T13:21:27.540875+05:30'
+last_seen: '2026-07-10T13:21:27.540875+05:30'
+last_checked: '2026-07-10T13:21:27.540875+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Setup & Configuration**: Provides structured guidance for configuring Claude Code, including `CLAUDE.md` templates for project-specific instructions, environment setup, and CLI optimization for agentic AI workflows.
+- **Setup & Configuration**: Provides structured guidelines for configuring Claude Code, including `CLAUDE.md` templates for project-specific instructions, environment setup, and CLI optimization for agentic AI workflows.
 
-- **Multi-Agent Patterns & Workflows**: Documents advanced patterns for orchestrating multiple AI agents, including task delegation, synchronization, and MCP (Model Context Protocol) integration for scalable AI-driven development.
+- **Multi-Agent & Workflow Patterns**: Documents advanced patterns for orchestrating multiple AI agents, including MCP (Model Context Protocol) integration, cost-efficient task delegation, and modular workflow design for LLM-based automation.
 
-- **Cost Optimization & Maintenance**: Includes strategies for reducing API usage costs, caching mechanisms, and best practices for long-term maintenance of AI-assisted development environments.
+- **Cost Optimization & Maintenance**: Includes strategies for minimizing API/token costs (e.g., caching, context pruning), version control for agentic scripts, and best practices for long-term project scalability in Shell-based AI tooling.
 
 ## Why It Matters
 

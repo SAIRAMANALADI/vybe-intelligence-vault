@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **End-to-End RAG Pipeline**: Demonstrates a complete Retrieval-Augmented Generation workflow using Promptflow, covering development, evaluation, experimentation, and deployment phases.
+- **End-to-end RAG workflow**: Demonstrates Retrieval-Augmented Generation (RAG) implementation with development, evaluation, experimentation, and deployment phases using Microsoft's **Promptflow**.
 
-- **Multi-Search Backend Integration**: Supports multiple vector databases (CosmosDB, PostgresSQL, Azure AI Search) for retrieval, enabling flexible and scalable search implementations.
+- **Multi-backend search integration**: Supports vector search across **CosmosDB, PostgreSQL, and Azure AI Search** for retrieval, enabling hybrid or pure vector-based search strategies.
 
-- **Jupyter Notebook-Based Implementation**: Provides a structured, interactive template in Jupyter Notebooks for prototyping
+- **Jupyter Notebook-based template**: Provides a structured, executable notebook environment for prototyping, t
 
 ## Use Cases
 

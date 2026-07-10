@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated AI Agent Repository**: Hosts 500+ open-source AI agent projects spanning healthcare, finance, education, retail, and other sectors, demonstrating practical applications and GenAI implementations.
-- **Technical Stack**: Primarily Python-based, with structured links to executable projects for hands-on deployment and experimentation.
-- **High Community Engagement**: Maintains 34K+ stars and 6K+ forks, indicating strong adoption and collaborative development in AI agent ecosystems.
+- **Curated AI Agent Implementations**: Repository contains 500+ open-source AI agent projects spanning healthcare, finance, education, retail, and other sectors, demonstrating practical applications of generative AI and autonomous agents.
+
+- **Technical Stack & Accessibility**: All projects are implemented in Python, with direct links to GitHub repositories for hands-on implementation, catering to developers and researchers in AI/ML.
+
+- **High Community Engagement**: Repository has 34,047 stars
 
 ## Use Cases
 

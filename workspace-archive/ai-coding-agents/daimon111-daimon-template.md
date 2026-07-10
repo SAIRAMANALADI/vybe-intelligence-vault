@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Purpose**: Provides a foundational structure for creating autonomous agents ("daimons") in JavaScript, designed for modular and scalable agent development.
-
-- **Repository Metrics**: 2 stars, 18 forks, last updated on 2026-04-24, with no additional topics or dependencies specified.
-
-- **Technical Stack**: Entirely JavaScript-based, implying reliance on Node.js or browser-compatible runtime environments for agent execution.
+- **Template Purpose**: Provides a foundational structure for deploying autonomous agents (`daimon`) via repository forking.
+- **Technical Stack**: Implemented in JavaScript, with no additional dependencies or topics specified.
+- **Metadata**: Last updated April 24, 2026; minimal activity (2 stars, 18 forks).
 
 ## Use Cases
 

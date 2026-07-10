@@ -14,6 +14,7 @@ tags:
 - benchmark
 - dataset
 - github-repo
+- leaderboard
 - python
 - rag
 selection_reason:
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across 58 datasets spanning 11 tasks (e.g., retrieval, clustering, STS) in 12+ languages, including low-resource languages, using standardized metrics (e.g., nDCG@10, Spearman correlation).
+- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across **15+ tasks** (e.g., retrieval, clustering, STS, reranking) in **multilingual** and **multimodal** settings, integrating **100+ datasets** to assess performance in diverse linguistic and modality-specific scenarios.
 
-- **Multimodal & Multilingual Support**: Supports evaluation for both text-only and multimodal embeddings (e.g., image-text pairs) with unified interfaces, enabling cross-modal and cross-lingual comparison of models like Sentence-BERT and CL
+- **Modular Python Framework**: Implements a **standardized API** for embedding models (e.g., Sentence-BERT, neural search) with **automated metrics** (e.g., Spearman correlation, NDCG) and **low-resource NLP
 
 ## Use Cases
 

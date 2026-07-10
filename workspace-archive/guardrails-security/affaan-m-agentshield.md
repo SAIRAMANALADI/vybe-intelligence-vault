@@ -14,6 +14,7 @@ tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - typescript
 selection_reason:
 - Strong keyword match
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-format AI agent security scanner** supporting CLI, GitHub Action, ECC plugin, and GitHub App integration to detect vulnerabilities in agent configurations, MCP servers, and tool permissions.
-- **TypeScript-based implementation** targeting security analysis for AI agents, specifically Anthropic's Claude Code and Opus, with focus on MCP (Model Context Protocol) server interactions.
-- **Active development** with last update on 2026-07-09, featuring 959 stars and 213 forks, indicating grow
+- **Purpose**: AI agent security scanner designed to detect vulnerabilities in agent configurations, MCP servers, and tool permissions.
+- **Integration & Deployment**: Available as CLI, GitHub Action, ECC plugin, and GitHub App integration for seamless security auditing.
+- **Technical Stack**: Built in TypeScript, supports Anthropic's Claude Code/Opus, and focuses on MCP (Model Context Protocol) security.
 
 ## Use Cases
 

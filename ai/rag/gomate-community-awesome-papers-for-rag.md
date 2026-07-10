@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gomate-community/awesome-papers-for-rag
-collected_at: '2026-07-10T04:17:25.923262+05:30'
+collected_at: '2026-07-10T13:19:57.429304+05:30'
 published_at: '2026-07-01T02:40:05Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
-- meta-ai
-- models
 - paper
 - python
 - rag
@@ -23,9 +21,9 @@ archived: false
 created_at: '2024-02-23T08:38:47Z'
 pushed_at: '2025-10-31T14:16:08Z'
 resource_id: github:gomate-community/awesome-papers-for-rag
-first_seen: '2026-07-10T04:17:25.923262+05:30'
-last_seen: '2026-07-10T04:17:25.923262+05:30'
-last_checked: '2026-07-10T04:17:25.923262+05:30'
+first_seen: '2026-07-10T13:19:57.429304+05:30'
+last_seen: '2026-07-10T13:19:57.429304+05:30'
+last_checked: '2026-07-10T13:19:57.429304+05:30'
 health_score: 100
 ---
 
@@ -33,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG) methodologies, architectures, and applications.
-- **Python-Centric Tooling**: Includes implementations, benchmarks, and libraries (e.g., LangChain, LlamaIndex) for RAG system development and evaluation.
-- **Last Sync**: Repository last updated on **2026-07-01**, with 136 stars and 12 forks, indicating active community engagement.
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG), focusing on advancements, architectures, and empirical evaluations.
+- **Python-Centric Tooling**: Provides Python-based implementations, libraries, and frameworks (e.g., LangChain, Haystack) for prototyping and deploying RAG systems with modular retrieval and generation components.
+- **Last Updated 2026-07-01**: Maintained with recent contributions (136 stars, 12 forks) to ensure coverage of cutting-edge RAG techniques like hybrid retrieval, memory-augmented generation, and domain-specific adaptations.
 
 ## Why It Matters
 

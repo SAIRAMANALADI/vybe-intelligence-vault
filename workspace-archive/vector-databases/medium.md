@@ -2,19 +2,16 @@
 title: Medium
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://blog.medium.com
+source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=
 resource_id: blog:medium
 local_vault_path: ai/rag/medium.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
-tags:
-- rag
-- web-crawled
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Medium
@@ -23,17 +20,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Medium’s sitemap.xml** provides structured indexing of all public-facing URLs, enabling efficient crawler discovery and SEO optimization for the platform’s blog and content repositories.
+- **License Grant & Content Ownership**: Users retain rights to submitted content but grant Medium a **nonexclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Medium services, with attribution required for derivative works.
 
-- **Medium’s navigation and authentication flows** leverage parameterized redirects (e.g., `?operation=login&redirect=`) to maintain session continuity across web and mobile (Android/iOS) clients while tracking UTM sources for analytics.
-
-- **Medium’s editorial and product infrastructure** includes a multi-
+- **Dispute Resolution & Liability Limits**: Mandatory **binding arbitration** (JAMS Rules) replaces court proceedings for disputes, with class actions waived; Medium’s liability is capped at **$50 USD o
 
 ## Use Cases
 
@@ -43,7 +38,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://blog.medium.com
+Original source URL: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=
 
 ## Local Vault File
 

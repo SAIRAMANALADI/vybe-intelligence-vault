@@ -14,6 +14,7 @@ tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Framework**: Provides a standardized evaluation suite for GraphRAG models, designed to assess performance across diverse graph-based retrieval and generation tasks.
-- **Dataset & Analysis**: Includes curated datasets and analytical tools to study the efficacy of GraphRAG in structured knowledge extraction, with a focus on ICLR'26 validation.
-- **Python Implementation**: Open-source Python library for reproducible benchmarking, supporting modular extensions for custom graph retrieva
+- **Benchmark Suite**: Provides a standardized evaluation framework for GraphRAG models, including datasets and metrics for assessing performance in graph-based retrieval-augmented generation (RAG) tasks.
+
+- **GraphRAG Analysis**: Focuses on determining optimal use cases for graph structures in RAG systems, with empirical comparisons against traditional retrieval methods.
+
+- **Technical Implementation**: Implemented in Python, supporting modular evaluation of graph retrieval strategies, with ope
 
 ## Use Cases
 

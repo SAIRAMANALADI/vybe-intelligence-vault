@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (97 ⭐, 25 🍴)
-- **Language**: Unspecified (last updated: 2026-07-03)
-- **Content**: Likely a tutorial on integrating Langflow with Retrieval-Augmented Generation (RAG) workflows (exact details unverified due to missing description).
+- **Repository**: `techwithtim/Langflow-RAG-Tutorial` – A tutorial repository for implementing Retrieval-Augmented Generation (RAG) using Langflow, though no explicit description or language is provided.
+- **Metadata**: 97 stars, 25 forks, last updated on **2026-07-03**, with no specified programming language or topics.
+- **Purpose**: Likely demonstrates Langflow-based RAG workflows, though details are absent due to missing documentation.
 
 ## Use Cases
 
