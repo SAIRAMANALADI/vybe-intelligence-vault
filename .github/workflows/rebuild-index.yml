@@ -30,18 +30,21 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Run Rebuild Index
-        run: |
-          node scripts/build-index.js
-
-      - name: Commit & Push changes
+      - name: Rebuild & Push Index
         run: |
           git config --global user.name "${{ secrets.COMMIT_AUTHOR_NAME || 'sairaman436' }}"
           git config --global user.email "${{ secrets.COMMIT_AUTHOR_EMAIL || '24bq1a05p6@vvit.net' }}"
+          
+          # Pull latest remote changes first to prevent conflicts
+          git pull --rebase origin main
+          
+          # Build the index on top of the latest pulled state
+          node scripts/build-index.js
+          
+          # Stage, commit and push changes if any
           if [ -n "$(git status --porcelain)" ]; then
             git add vault-index.json vault-core/vault-index.json
             git commit -m "chore: auto-rebuild graph index [skip ci]"
-            git pull --rebase origin main || true
             git push origin main
           else
             echo "Index unchanged."
