@@ -134,7 +134,9 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             git add daily-digests/ vault-core/ README.md stats/ status/ trends/ reports/ change-log/
             git commit -m "docs(harvester): commit harvested digests and update vault stats [skip ci]"
-            git pull --rebase origin main || true
+            git stash -u || true
+            git pull --rebase origin main
+            git stash pop || true
             git push origin main
           else
             echo "No changes harvested."
@@ -194,7 +196,9 @@ jobs:
           git config --global user.email "${{ secrets.COMMIT_AUTHOR_EMAIL || '24bq1a05p6@vvit.net' }}"
           git add vault-core/
           git commit -m "chore(observability): log pipeline event [skip ci]" || echo "No logs to commit"
-          git pull --rebase origin main || true
+          git stash -u || true
+          git pull --rebase origin main
+          git stash pop || true
           git push origin main || echo "No push required"
 
       - name: Upload Pipeline Report Artifact
