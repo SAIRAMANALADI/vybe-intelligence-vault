@@ -36,8 +36,8 @@ jobs:
 
       - name: Commit & Push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "${{ secrets.COMMIT_AUTHOR_NAME || 'sairaman436' }}"
+          git config --global user.email "${{ secrets.COMMIT_AUTHOR_EMAIL || '24bq1a05p6@vvit.net' }}"
           if [ -n "$(git status --porcelain)" ]; then
             git add vault-index.json vault-core/vault-index.json
             git commit -m "chore: auto-rebuild graph index [skip ci]"
