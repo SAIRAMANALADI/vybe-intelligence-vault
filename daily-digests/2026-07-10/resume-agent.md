@@ -1,49 +1,58 @@
 ---
-title: "FanZhangnan/resume-agent"
+title: "yuens1002/resume-agent"
 category: "Agent Framework"
-tech_stack: ["Python", "ReAct (Reasoning and Acting) Framework", "LLM (Claude, GPT, or OpenAI-compatible models)", "FastAPI", "Uvicorn", "PDF/Word Parsing Libraries", "React (for Web UI)"]
+tech_stack: ["TypeScript", "Hono", "Supabase (Postgres + pgvector)", "Open Brain (OB1)", "Streamable HTTP", "MCP (Model Context Protocol)", "A2A (Agent-to-Agent) Protocol", "Railway (deployment)", "Ed25519 (cryptographic verification)", "OpenAPI (schema)"]
 quality_score: 9
-rag_relevance: 7
-tags: ["Resume Optimization", "AI Agent", "ReAct Framework", "Job Matching", "Self-Correction"]
-source: "https://github.com/FanZhangnan/resume-agent"
-discovered_at: "2026-07-10T06:30:15Z"
+rag_relevance: 10
+tags: ["professional agent", "verifiable identity", "MCP server", "truth-grounded AI", "employer screening"]
+source: "https://github.com/yuens1002/resume-agent"
+discovered_at: "2026-07-10T13:10:53Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A command-line AI Agent for resume optimization that autonomously plans, executes multi-step workflows, and validates outputs without hardcoded pipelines. It parses resumes, analyzes job descriptions, recommends roles, and generates tailored optimization reports with built-in honesty checks and self-correction mechanisms.
+A deployable AI agent backend that exposes a professional profile as a machine-queryable API and MCP server for employer AI systems, enabling verifiable, truth-grounded interactions about a user's professional history. Built on OB1 for knowledge storage and retrieval.
 
 ## Key Features
-- Autonomous ReAct-based planning with 8+ tools (resume parsing, JD analysis, role recommendation, matching score calculation, suggestion generation, self-verification, user interaction)
-- Self-verification and automatic correction loop for hallucinations, contradictions, or over-optimization with detailed revision logs
-- Role recommendation mode for users without job descriptions, ranking top-tier company roles by estimated match
-- Transparent reasoning chains (🧠Thinking → 🔧Action → 📋Observation) and offline demo mode for testing
-- Privacy-focused public deployment mode with BYOK (Bring Your Own Key), rate limiting, and ephemeral data handling
+- Public HTTP API and MCP server for employer AI systems to query professional profiles with structured JSON responses
+- Open Employment Protocol (OEP) for domain-bound identity verification via DNS fingerprint and Ed25519 keys
+- Truth contract enforcement: every factual claim is cited inline with deterministic evaluation harness
+- Private MCP server for personal interaction with job-hunt pipeline tools and job applications management
+- Supabase-backed data tier with RLS for public/private data separation and pgvector for semantic search
 
 ## Why It Matters for RAG Builders
-It provides a robust, self-correcting agent framework for resume optimization that can be adapted for other domain-specific AI workflows requiring multi-step reasoning and validation.
+This project enables AI systems to query verifiable, truth-grounded professional profiles directly from a candidate's domain, eliminating fabrication risks in automated hiring processes.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### ReAct (Reasoning and Acting) Framework
-Automated review identified **ReAct (Reasoning and Acting) Framework** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Hono
+Automated review identified **Hono** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### LLM (Claude, GPT, or OpenAI-compatible models)
-Automated review identified **LLM (Claude, GPT, or OpenAI-compatible models)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Supabase (Postgres + pgvector)
+Automated review identified **Supabase (Postgres + pgvector)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### FastAPI
-Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Open Brain (OB1)
+Automated review identified **Open Brain (OB1)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Uvicorn
-Automated review identified **Uvicorn** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Streamable HTTP
+Automated review identified **Streamable HTTP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### PDF/Word Parsing Libraries
-Automated review identified **PDF/Word Parsing Libraries** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### React (for Web UI)
-Automated review identified **React (for Web UI)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### A2A (Agent-to-Agent) Protocol
+Automated review identified **A2A (Agent-to-Agent) Protocol** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Railway (deployment)
+Automated review identified **Railway (deployment)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Ed25519 (cryptographic verification)
+Automated review identified **Ed25519 (cryptographic verification)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OpenAPI (schema)
+Automated review identified **OpenAPI (schema)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
