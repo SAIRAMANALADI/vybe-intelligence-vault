@@ -1,27 +1,27 @@
 ---
 title: "SHUKLAO/call-with-ai-agent"
-category: "UI Component"
+category: "Agent Framework"
 tech_stack: ["Next.js", "ElevenLabs", "TypeScript", "React", "WebSockets"]
-quality_score: 5
+quality_score: 4
 rag_relevance: 6
-tags: ["voice AI", "real-time interaction", "Next.js", "ElevenLabs", "conversational AI"]
+tags: ["voice-ai", "real-time-conversation", "nextjs", "elevenlabs", "ai-agent"]
 source: "https://github.com/SHUKLAO/call-with-ai-agent"
-discovered_at: "2026-06-23T19:12:35Z"
+discovered_at: "2026-06-23T13:44:35Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A Next.js-based application enabling real-time voice conversations with an AI agent using ElevenLabs for speech synthesis and recognition. The project facilitates interactive and responsive voice interactions for users.
+A Next.js-based application enabling real-time voice conversations with an AI agent using ElevenLabs for speech synthesis and recognition. The project focuses on interactive and responsive voice interactions.
 
 ## Key Features
-- Real-time voice conversation support with AI agents
-- Integration with ElevenLabs for high-quality speech synthesis
-- Built with Next.js for modern web capabilities
-- Interactive and responsive user experience
-- WebSocket-based communication for low-latency interactions
+- Real-time voice interaction with AI agents
+- Integration with ElevenLabs for speech synthesis and recognition
+- Built with Next.js for scalable frontend development
+- Supports interactive and responsive user experiences
+- Uses WebSockets for low-latency communication
 
 ## Why It Matters for RAG Builders
-It provides a foundational UI component for integrating real-time voice interactions with AI agents, critical for building conversational RAG applications.
+It provides a foundation for building voice-enabled AI agents, which are increasingly critical for hands-free and accessible AI interactions.
 
 ## Tech Stack Deep Dive
 ### Next.js
