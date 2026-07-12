@@ -1,52 +1,43 @@
 ---
-title: "rustok-org/mcp"
-category: "Tooling"
-tech_stack: ["Python", "Docker", "Model Context Protocol (MCP)", "Argon2id", "AES-256-GCM", "SQLite", "Redis", "FastAPI"]
-quality_score: 8
-rag_relevance: 9
-tags: ["MCP server", "self-custody wallet", "AI agent integration", "crypto transactions", "security-focused"]
-source: "https://github.com/rustok-org/mcp"
-discovered_at: "2026-07-11T07:52:44Z"
+title: "Sequenzy/mcp"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "Node.js", "REST API", "OAuth"]
+quality_score: 9
+rag_relevance: 7
+tags: ["MCP server", "email marketing", "AI agent integration", "structured tools", "automation"]
+source: "https://github.com/Sequenzy/mcp"
+discovered_at: "2026-07-12T11:58:39Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A Model Context Protocol (MCP) server that bridges AI agents (e.g., Claude Desktop, Cursor) with the Rustok self-custody wallet via Gateway. It enables secure, human-approved transactions for AI-driven crypto operations while keeping private keys encrypted and local.
+Sequenzy MCP Server provides an AI-native interface for managing email marketing operations through MCP-compatible clients like Claude, VS Code, and Cursor. It enables structured tool-based interactions with Sequenzy's platform for campaigns, subscribers, products, and analytics.
 
 ## Key Features
-- Connects AI agents to Rustok wallet via MCP (stdio or SSE transport)
-- Supports human-in-the-loop transaction approval for self-custody security
-- Encrypted key storage with Argon2id + AES-256-GCM
-- Capability-gated tools (read_wallet, preview_tx, execute_tx) with configurable restrictions
-- Audit logging for all actions in SQLite
+- 120+ structured MCP tools for email marketing operations (campaigns, subscribers, products, analytics)
+- Seamless integration with AI clients (Claude, VS Code, Cursor, etc.) via MCP protocol
+- Hosted remote MCP endpoint for Streamable HTTP clients
+- Machine-readable tool definitions with `readOnlyHint`, `destructiveHint`, and `outputSchema`
+- Automated setup via `npx @sequenzy/setup` for quick deployment
 
 ## Why It Matters for RAG Builders
-It enables secure, AI-driven crypto operations with human oversight, bridging the gap between autonomous agents and self-custody wallets for trustless yet controlled transactions.
+It enables AI agents to directly manage email marketing workflows through structured tools, reducing manual API calls and improving automation efficiency for RAG systems.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Docker
-Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Argon2id
-Automated review identified **Argon2id** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### REST API
+Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### AES-256-GCM
-Automated review identified **AES-256-GCM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### SQLite
-Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Redis
-Automated review identified **Redis** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### FastAPI
-Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OAuth
+Automated review identified **OAuth** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
