@@ -187,7 +187,7 @@ async function getEmbedding(text, relPath) {
 }
 
 async function buildIndex() {
-  const foldersToScan = ['maps', 'skills', 'daily-digests', 'prompts'];
+  const foldersToScan = ['maps', 'skills', 'daily-digests', 'prompts', 'ai', 'web-development', 'workspace-archive'];
   const nodes = [];
   const edges = [];
   const embeddingsMap = {};
@@ -285,6 +285,12 @@ async function buildIndex() {
     for (let j = i + 1; j < nodes.length; j++) {
       const n1 = nodes[i];
       const n2 = nodes[j];
+      
+      // Skip similarity check for large archives/crawler dirs to avoid O(N^2) CPU and memory blockages
+      if (n1.category === 'workspace-archive' || n1.category === 'ai' ||
+          n2.category === 'workspace-archive' || n2.category === 'ai') {
+        continue;
+      }
       
       const v1 = embeddingsMap[n1.path];
       const v2 = embeddingsMap[n2.path];
