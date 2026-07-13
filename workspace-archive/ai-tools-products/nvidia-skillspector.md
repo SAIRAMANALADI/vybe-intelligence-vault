@@ -8,7 +8,7 @@ local_vault_path: ai/rag/nvidia-skillspector.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -28,7 +28,7 @@ selection_reason:
 
 - Matched archive category: `AI Tools and Products`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
@@ -36,8 +36,8 @@ selection_reason:
 ## Summary
 
 - **Purpose**: Security scanner for AI agent skills, designed to detect vulnerabilities, malicious patterns, and security risks in AI workflows.
-- **Technical Stack**: Implemented in Python, leveraging static and dynamic analysis techniques to evaluate AI agent skills.
-- **Repository Metrics**: 10,526 stars, 841 forks; last updated June 25, 2026.
+- **Features**: Analyzes Python-based AI agent skills for potential security threats, leveraging static and dynamic analysis techniques.
+- **Status**: Actively maintained (last updated July 2026), with 13,038 stars and 1,059 forks, indicating significant community adoption.
 
 ## Use Cases
 

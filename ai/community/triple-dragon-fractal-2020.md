@@ -13,13 +13,14 @@ collected_at: '2026-07-10T13:17:23.227094+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:triple-dragon-fractal-2020
 first_seen: '2026-07-10T13:17:23.227094+05:30'
 last_seen: '2026-07-10T13:17:23.227094+05:30'
 last_checked: '2026-07-10T13:17:23.227094+05:30'
 health_score: 100
 ---
+
 
 # Triple Dragon Fractal (2020)
 

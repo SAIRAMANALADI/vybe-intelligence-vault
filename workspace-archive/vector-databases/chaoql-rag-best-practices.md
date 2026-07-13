@@ -6,7 +6,7 @@ source_url: https://github.com/chaoql/rag-best-practices
 resource_id: github:chaoql/rag-best-practices
 local_vault_path: ai/rag/chaoql-rag-best-practices.md
 quality_score: 70
-archive_score: 81
+archive_score: 75
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -17,7 +17,6 @@ tags:
 - python
 - rag
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
@@ -26,17 +25,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular Python components for query expansion, document chunking, and vector database integration (e.g., FAISS, Chroma).
-- **Evaluation Suite**: Includes automated metrics (e.g., retrieval precision/recall, answer relevance) and benchmark datasets for assessing RAG pipeline performance across domains.
-- **Deployment-Ready**: Provides Dockerized setup with preconfigured APIs (FastAPI) and support
+- **RAG Optimization Framework**: Repository provides Python-based best practices for optimizing Retrieval-Augmented Generation (RAG) pipelines, focusing on retrieval efficiency, context relevance, and generation quality.
+- **Modular Architecture**: Implements a modular design with configurable components (e.g., embedders, retrievers, LLMs) to enable customization for domain-specific RAG applications.
+- **Evaluation & Benchmarking**: Includes tools for evaluating RAG performance metrics (e.g., r
 
 ## Use Cases
 

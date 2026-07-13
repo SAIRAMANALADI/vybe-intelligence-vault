@@ -9,15 +9,16 @@ local_vault_path: ai/rag/complete-rag-tutorial-2025-build-ai-apps-with-retr.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - hackernews
 - rag
+- reddit
 - web-crawled
 - youtube
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Complete RAG Tutorial 2025: Build AI Apps with Retrieval Augmented Generation - YouTube
@@ -26,15 +27,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
 - **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization, and creator tools.
-- **Developer & API Access**: Provides APIs and SDKs for developers via [Google Developers](https://developers.google.com/youtube) to integrate YouTube functionality into third-party applications.
-- **Operational Framework**: Detailed technical infrastructure explained in ["How YouTube Works"](https://www.youtube.com/howyoutube
+- **Technical Infrastructure**: Utilizes Google’s distributed systems for scalable video delivery, with APIs (YouTube Data/Player) enabling third-party integration and developer access.
+- **Policy & Compliance**: Enforces copyright (Content ID system), privacy (GDPR/COPPA compliance), and safety policies via automated detection
 
 ## Use Cases
 

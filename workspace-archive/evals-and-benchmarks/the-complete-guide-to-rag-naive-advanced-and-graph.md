@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture Evolution**: Naive RAG (basic vector search + LLM generation) evolved into Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), addressing limitations in accuracy, freshness, and hallucination mitigation.
+- **RAG Evolution & Architecture**: RAG systems progress from *Naive* (basic retrieval + generation) to *Advanced* (hybrid retrieval, reranking, query rewriting) to *Graph RAG* (entity-relation graph traversal for multi-hop reasoning), addressing limitations in freshness, private knowledge, and hallucinations by decoupling reasoning (LLM) from reference (external knowledge base).
 
-- **Core RAG Components**: Implemented via a pipeline of chunking → embedding → retrieval (dense/sparse/hybrid) → reranking → LLM generation, with modular extensions (e.g., HyDE, MMR, RRF)
+- **Core Components & Techniques**: Naive RAG uses chunking + embeddings + similarity search; Advanced RAG adds hybr
 
 ## Use Cases
 

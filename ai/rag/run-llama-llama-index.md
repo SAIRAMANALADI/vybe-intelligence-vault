@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama_index
-collected_at: '2026-07-09T01:32:11.926412+05:30'
-published_at: '2026-07-08T19:58:59Z'
+collected_at: '2026-07-13T09:39:43.817285+05:30'
+published_at: '2026-07-13T03:33:03Z'
 tags:
 - agents
 - github-repo
@@ -13,17 +13,18 @@ tags:
 - models
 - python
 - rag
-stars: 50732
+- workflows
+stars: 50805
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2022-11-02T04:24:54Z'
-pushed_at: '2026-07-08T10:53:59Z'
+pushed_at: '2026-07-11T01:31:58Z'
 resource_id: github:run-llama/llama_index
-first_seen: '2026-07-09T01:32:11.926412+05:30'
-last_seen: '2026-07-09T01:32:11.926412+05:30'
-last_checked: '2026-07-09T01:32:11.926412+05:30'
+first_seen: '2026-07-13T09:39:43.817285+05:30'
+last_seen: '2026-07-13T09:39:43.817285+05:30'
+last_checked: '2026-07-13T09:39:43.817285+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework**: LlamaIndex is a Python-based framework designed for building document agents and OCR systems, supporting RAG (Retrieval-Augmented Generation) and multi-agent architectures.
-- **Core Features**: Integrates vector databases, fine-tuning capabilities, and LLM (Large Language Model) interactions for structured data processing and application development.
-- **Ecosystem**: Actively maintained (last updated July 2026) with 50K+ stars and 7K+ forks, emphasizing agents, data pipelines, and application-level integration.
+- **Framework**: LlamaIndex is a Python-based framework designed for building document agents and OCR pipelines, enabling integration with LLMs and vector databases for RAG applications.
+- **Multi-Agent & Fine-Tuning Support**: Supports multi-agent orchestration and fine-tuning workflows for LLMs, with tools for data ingestion, indexing, and retrieval.
+- **Vector Database Integration**: Provides connectors for vector databases (e.g., Pinecone, Weaviate) and OCR capabilities for unstructured data processing.
 
 ## Why It Matters
 
@@ -42,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: run-llama
-- Stars: 50732
-- Forks: 7713
+- Stars: 50805
+- Forks: 7740
 - Language: Python
 - Topics: agents, application, data, fine-tuning, framework, llamaindex, llm, multi-agents, rag, vector-database
-- Last Updated: 2026-07-08T19:58:59Z
+- Last Updated: 2026-07-13T03:33:03Z
 - License: MIT
 - Archived: No
 - Created At: 2022-11-02T04:24:54Z
-- Pushed At: 2026-07-08T10:53:59Z
+- Pushed At: 2026-07-11T01:31:58Z
 
 ## Possible Use Cases
 

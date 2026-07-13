@@ -6,10 +6,10 @@ source_url: https://github.com/Fosowl/agenticSeek
 resource_id: github:fosowl/agenticseek
 local_vault_path: ai/rag/fosowl-agenticseek.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
-resource_kind: framework
-importance: high
+archive_score: 77
+archive_tier: useful
+resource_kind: api
+importance: medium
 tags:
 - agents
 - github-repo
@@ -17,7 +17,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # Fosowl/agenticSeek
@@ -25,19 +25,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: api
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Local-first AI autonomy**: Fully local implementation of Manus AI using Python, eliminating API dependencies and cloud costs; operates autonomously with on-device compute (electricity-only expense).
+- **Fully Local AI Agent**: Implements an autonomous agent (`agenticSeek`) using Python, operating entirely locally without external APIs or cloud dependencies, relying solely on local compute resources for inference and execution.
 
-- **DeepSeek-R1 integration**: Leverages DeepSeek-R1 LLM for reasoning, web browsing, and code execution within a self-contained agentic framework.
+- **DeepSeek-R1 Integration**: Leverages the DeepSeek-R1 model for reasoning, browsing, and code generation tasks, enabling advanced agentic capabilities (e.g., web interaction, code execution) with minimal overhead.
 
-- **Open-source & real-time updates**: Hosted on GitHub with 26.6K+ stars; official updates exclusively via verified Twitter account (@Martin993886
+- **Cost-Effective & Open-Source**: Eliminates re
 
 ## Use Cases
 

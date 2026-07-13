@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PacktPublishing/LLM-Engineers-Handbook
-collected_at: '2026-07-10T13:19:37.401307+05:30'
-published_at: '2026-07-10T05:21:59Z'
+collected_at: '2026-07-13T09:36:13.651848+05:30'
+published_at: '2026-07-12T22:37:22Z'
 tags:
 - benchmark
 - github-repo
@@ -13,7 +13,8 @@ tags:
 - models
 - python
 - rag
-stars: 5208
+- workflows
+stars: 5218
 language: Python
 status: active
 license: MIT
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-04-09T10:56:03Z'
 pushed_at: '2026-04-22T08:25:03Z'
 resource_id: github:packtpublishing/llm-engineers-handbook
-first_seen: '2026-07-10T13:19:37.401307+05:30'
-last_seen: '2026-07-10T13:19:37.401307+05:30'
-last_checked: '2026-07-10T13:19:37.401307+05:30'
+first_seen: '2026-07-13T09:36:13.651848+05:30'
+last_seen: '2026-07-13T09:36:13.651848+05:30'
+last_checked: '2026-07-13T09:36:13.651848+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive LLM Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, emphasizing LLMOps best practices.
-- **Technical Focus**: Includes fine-tuning LLMs, evaluation, system design, and MLOps for production-grade GenAI systems.
-- **Hands-on Implementation**: Provides Python-based resources for deploying scalable LLM/RAG apps with AWS integration.
+- **Comprehensive LLM Engineering Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-grade systems.
+
+- **Technical Focus Areas**: Includes fine-tuning LLMs, evaluation frameworks, MLOps/ML system design, and GenAI-specific workflows with hands-on Python implementations.
+
+- **AWS-Centric Deployment**: Demonstrates end-to-end deployment strategies for LLM/RAG apps on AWS, emphasizing operational excellence and infrastructure-as-code practices.
 
 ## Why It Matters
 
@@ -42,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: PacktPublishing
-- Stars: 5208
-- Forks: 1245
+- Stars: 5218
+- Forks: 1249
 - Language: Python
 - Topics: aws, fine-tuning-llm, genai, llm, llm-evaluation, llmops, ml-system-design, mlops, rag
-- Last Updated: 2026-07-10T05:21:59Z
+- Last Updated: 2026-07-12T22:37:22Z
 - License: MIT
 - Archived: No
 - Created At: 2024-04-09T10:56:03Z

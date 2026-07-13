@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic Coding Framework**: Provides a structured template for Python-based agentic coding workflows, enabling autonomous task execution and iterative refinement.
-- **Modular Python Architecture**: Implements a scalable project structure with predefined modules for agents, tools, and workflow orchestration.
-- **GitHub Integration**: Designed for seamless version control and collaboration, with last update timestamped for continuous development tracking.
+- **Agentic Coding Framework**: Provides a structured template for Python-based agentic coding workflows, enabling autonomous task execution and iterative refinement of code artifacts.
+
+- **Modular Python Architecture**: Implements a scalable, component-based design with predefined hooks for agent interactions, facilitating integration with LLM-driven development tools.
+
+- **Project Scaffolding**: Includes pre-configured templates for agents, tools, and workflows, optimized for rapid deployment
 
 ## Use Cases
 

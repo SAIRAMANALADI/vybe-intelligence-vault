@@ -13,6 +13,9 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research](https://arxiv.org/abs/2606.07591) | `ai-coding-agents/` | 70 |
 | [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243) | `ai-coding-agents/` | 70 |
 | ["Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills in the Wild](https://arxiv.org/abs/2602.06547) | `ai-coding-agents/` | 70 |
+| [SCATE: Learning to Supervise Coding Agents for Cost-Effective Test Generation](https://arxiv.org/abs/2607.08983) | `ai-coding-agents/` | 70 |
+| [A Self-Evolving Agentic Framework for Metasurface Inverse Design](https://arxiv.org/abs/2604.01480) | `ai-coding-agents/` | 70 |
+| [Coding-agents can replicate scientific machine learning papers](https://arxiv.org/abs/2607.02134) | `ai-coding-agents/` | 70 |
 | [ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair](https://arxiv.org/abs/2607.01916) | `ai-coding-agents/` | 70 |
 | [Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning](https://arxiv.org/abs/2607.07708) | `ai-coding-agents/` | 70 |
 | [Harnessing Code Agents for Automatic Software Verification](https://arxiv.org/abs/2607.06341) | `ai-coding-agents/` | 70 |
@@ -26,8 +29,5 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Toward Generalist Autonomous Research via Hypothesis-Tree Refinement](https://arxiv.org/abs/2606.11926) | `ai-coding-agents/` | 70 |
 | [AeroCast: Probabilistic 3D Trajectory Prediction for Non-Cooperative Aerial Obstacles via Transformer-MDN Architecture](https://arxiv.org/abs/2606.25122) | `ai-coding-agents/` | 70 |
 | [Understanding Diversity Collapse in RLVR via the Lens of Overtraining](https://arxiv.org/abs/2606.15455) | `ai-coding-agents/` | 70 |
-| [Understanding Agent-Based Patching of Compiler Missed Optimizations](https://arxiv.org/abs/2607.02370) | `ai-coding-agents/` | 70 |
-| [CoACT: Action-Preserving Observation Compression for Coding Agents](https://arxiv.org/abs/2607.02911) | `ai-coding-agents/` | 70 |
-| [Beyond Static Rules: Automated Discovery of Latent Vulnerabilities in Text-to-SQL](https://arxiv.org/abs/2607.03833) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

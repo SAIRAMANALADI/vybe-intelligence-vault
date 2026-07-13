@@ -13,13 +13,14 @@ collected_at: '2026-07-10T13:17:22.804286+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:building-a-real-time-ai-tutor-for-5-year-olds
 first_seen: '2026-07-10T13:17:22.804286+05:30'
 last_seen: '2026-07-10T13:17:22.804286+05:30'
 last_checked: '2026-07-10T13:17:22.804286+05:30'
 health_score: 100
 ---
+
 
 # Building a real-time AI tutor for 5-year-olds
 

@@ -4,24 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/agent0ai/agent-zero
-collected_at: '2026-07-08T16:53:26.483386+05:30'
-published_at: '2026-07-08T10:05:55Z'
+collected_at: '2026-07-13T09:38:53.824020+05:30'
+published_at: '2026-07-13T03:41:10Z'
 tags:
 - agents
 - github-repo
 - python
-- scripts
-stars: 18364
+stars: 18406
 language: Python
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2024-06-10T09:10:45Z'
-pushed_at: '2026-07-06T13:52:43Z'
+pushed_at: '2026-07-12T17:06:26Z'
 resource_id: github:agent0ai/agent-zero
-first_seen: '2026-07-08T16:53:26.483386+05:30'
-last_seen: '2026-07-08T16:53:26.483386+05:30'
-last_checked: '2026-07-08T16:53:26.483386+05:30'
+first_seen: '2026-07-13T09:38:53.824020+05:30'
+last_seen: '2026-07-13T09:38:53.824020+05:30'
+last_checked: '2026-07-13T09:38:53.824020+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous AI Agent Framework**: Agent Zero is a Python-based framework designed for building autonomous AI agents capable of performing tasks independently on Linux systems.
+- **Autonomous AI Agent Framework**: Open-source Python-based system enabling creation of self-directed AI agents capable of executing complex tasks autonomously on Linux systems.
 
-- **Modular Architecture**: The framework supports modular components for task execution, memory management, and decision-making, enabling customizable agent behavior.
+- **Modular Architecture**: Implements plugin-based design with core components for memory, reasoning, tool integration, and environment interaction, supporting extensibility via community contributions.
 
-- **Open-Source & Scalable**: With 18K+ stars and active development, Agent Zero provides a scalable foundation for AI-driven automation and assistant applications.
+- **Multi-Agent Coordination**: Supports parallel agent operations with inter-agent communication protocols, enabling collaborative problem-solving and distributed task execution.
 
 ## Why It Matters
 
@@ -42,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: agent0ai
-- Stars: 18364
-- Forks: 3678
+- Stars: 18406
+- Forks: 3677
 - Language: Python
 - Topics: agent, ai, assistant, autonomous, linux, zero
-- Last Updated: 2026-07-08T10:05:55Z
+- Last Updated: 2026-07-13T03:41:10Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-06-10T09:10:45Z
-- Pushed At: 2026-07-06T13:52:43Z
+- Pushed At: 2026-07-12T17:06:26Z
 
 ## Possible Use Cases
 

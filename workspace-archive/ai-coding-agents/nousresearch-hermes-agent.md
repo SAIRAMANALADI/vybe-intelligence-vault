@@ -8,7 +8,7 @@ local_vault_path: ai/agents/nousresearch-hermes-agent.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - python
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # NousResearch/hermes-agent
@@ -27,16 +27,18 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports Anthropic, OpenAI, and other LLM providers via modular architecture for dynamic agent-environment interaction.
-- **Self-Improving Agent Framework**: Implements recursive self-feedback loops enabling continuous learning and adaptation from interactions.
-- **Tool-Agnostic Execution Engine**: Enables seamless integration with external tools (e.g., `claude-code`, `codex`) via standardized API interfaces.
+- **Multi-LLM Compatibility**: Hermes-Agent supports integration with various LLMs (e.g., Anthropic, OpenAI, Claude) via modular API wrappers, enabling dynamic switching between models for tasks like code generation, reasoning, or tool use.
+
+- **Self-Improving Architecture**: Implements a feedback-driven loop where agent performance metrics (e.g., task success rate, tool usage efficiency) are logged and used to refine prompts, tool selection, or model parameters autonomously.
+
+- **Tool-Use & San
 
 ## Use Cases
 

@@ -16,6 +16,7 @@ tags:
 - github-repo
 - scripts
 - shell
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Purpose**: Enables autonomous software delivery via headless Claude agents, transforming requirements documents into reviewed pull requests.
-- **Key Components**: Integrates CI/CD pipelines, multi-agent orchestration, and GitHub Actions for autonomous PR generation and review.
-- **Tech Stack**: Shell-based automation with support for Claude Code, Linear integration, and headless agent execution.
+- **Template Purpose**: Enables autonomous software delivery via headless Claude agents, converting requirements documents into reviewed pull requests.
+- **Key Components**: Integrates CI/CD pipelines, multi-agent systems, and GitHub Actions for automated workflow execution.
+- **Supported Integrations**: Compatible with Linear for project management and Claude Code for headless agent operations.
 
 ## Use Cases
 

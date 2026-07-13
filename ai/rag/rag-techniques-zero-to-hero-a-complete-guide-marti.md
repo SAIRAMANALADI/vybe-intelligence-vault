@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-07-10T13:18:53.040598+05:30'
-collected_at: '2026-07-10T13:18:53.040611+05:30'
+published_at: '2026-07-13T09:35:29.073349+05:30'
+collected_at: '2026-07-13T09:35:29.073364+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-07-10T13:18:53.040611+05:30'
-last_seen: '2026-07-10T13:18:53.040611+05:30'
-last_checked: '2026-07-10T13:18:53.040611+05:30'
+first_seen: '2026-07-13T09:35:29.073364+05:30'
+last_seen: '2026-07-13T09:35:29.073364+05:30'
+last_checked: '2026-07-13T09:35:29.073364+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriting layers; orchestration and caching optimize efficiency.
+- **RAG Architecture**: Combines a retriever (vector/lexical) with a generator (LLM), where retrieved context conditions generation to improve factuality and reduce hallucinations; core components include embeddings, vector stores, rerankers, and orchestration layers.
 
-- **Chunking & Embeddings**: Chunking strategies (fixed-size, semantic, structure-aware) and overlap improve retrieval coherence; domain-fine-tuned embeddings (normalized, low-dimensional) outperform generic models for precision and latency.
+- **Key Optimization Techniques**: Multi-stage retrieval (ANN + BM25 hybrid), cross-encoder reranking, query rewriting (expansion/canonicalization), and context distillation (evidence aggregation) to balance precision, latency, and cost.
 
-- **Multi-Stage Retrieval & Context Control**: Hybrid retrieval (BM25 + vector) with cross-encoder reranking boosts recall/precision; context distillation and autocut manage token budgets, while multi-hop/iterative retrieval enables complex reasoning.
+- **Advanced Patterns**: Multi-hop iterative retrieval (GraphRAG, agentic workflows), retrieval-aware fine-tuning (end-to-end training), and long-term memory (vector/episodic) for sustained grounding and freshness.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-10T13:18:53.040598+05:30
+- Published: 2026-07-13T09:35:29.073349+05:30
 
 ## Related Tags
 

@@ -13,6 +13,7 @@ importance: medium
 tags:
 - benchmark
 - github-repo
+- models
 - python
 - rag
 selection_reason:
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates a LangChain-based RAG pipeline leveraging local large language models (LLMs) for inference, reducing dependency on cloud APIs.
-- **Dynamic Database Updates**: Implements mechanisms for real-time or batch updates to the vector database (e.g., Chroma/FAISS), ensuring retrieval relevance with evolving data.
-- **Testing & Evaluation Framework**: Includes unit/integration tests and metrics (e.g., retrieval accuracy, response quality) to validate RAG performan
+- **Local LLM Integration**: Demonstrates deployment and fine-tuning of local large language models (LLMs) for Retrieval-Augmented Generation (RAG) pipelines using LangChain.
+- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval relevance with evolving data.
+- **Testing Framework**: Includes automated evaluation pipelines for RAG systems, covering metrics like retrieval accuracy, response relevance
 
 ## Use Cases
 

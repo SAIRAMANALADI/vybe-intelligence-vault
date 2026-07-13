@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-10T13:20:27.443719+05:30'
+collected_at: '2026-07-13T09:37:03.624037+05:30'
 published_at: '2026-07-05T11:30:42Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 stars: 341
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-10T13:20:27.443719+05:30'
-last_seen: '2026-07-10T13:20:27.443719+05:30'
-last_checked: '2026-07-10T13:20:27.443719+05:30'
+first_seen: '2026-07-13T09:37:03.624037+05:30'
+last_seen: '2026-07-13T09:37:03.624037+05:30'
+last_checked: '2026-07-13T09:37:03.624037+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
+- **Cognitive-Inspired Architecture**: Introduces a memory-organized RAG (Retrieval-Augmented Generation) framework, *ComoRAG*, designed for stateful long narrative reasoning, mimicking human cognitive memory structures for improved contextual retention.
 
-- **Stateful Reasoning Mechanism**: Implements dynamic memory retrieval and integration to maintain contextual coherence across extended dialogues or narratives, leveraging episodic and semantic memory modules.
+- **Stateful Reasoning Mechanism**: Implements a dynamic memory update and retrieval pipeline that maintains coherence across extended dialogues or narratives, enabling more accurate and contextually consistent responses over long interactions.
 
-- **AAAI 2026 Contribution**: Proposes novel memory organization techniques to enhance RAG systems' ability to handle complex, multi-turn reasoning tasks with improved factual consistency and contextual retention.
+- **AAAI 2026 Poster Submission**: Presented as a cutting-edge contribution to AAAI 2026, highlighting novel advancements in RAG systems for complex, long-form reasoning tasks with empirical validation.
 
 ## Why It Matters
 

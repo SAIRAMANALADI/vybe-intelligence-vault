@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - html
 - rag
 selection_reason:
@@ -33,7 +34,11 @@ selection_reason:
 
 ## Summary
 
-https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成
+- **Comprehensive AI Agent Development Guide**: Covers LangGraph, advanced RAG, multi-agent systems, and CrewAI with practical implementations and tutorials for AI agent development.
+
+- **Interview & Career Resources**: Includes a curated collection of interview questions, job-hunting strategies, and transition guidance for roles like algorithm engineers and LLM specialists.
+
+- **Advanced Topics & Tools**: Integrates techniques such as GraphRAG, GRPO, SFT, data synthesis, and reinforcement learn
 
 ## Use Cases
 

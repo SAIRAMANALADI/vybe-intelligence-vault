@@ -8,19 +8,20 @@ local_vault_path: ai/rag/reworkd-agentgpt.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: workflow
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - openai
 - rag
 - typescript
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # reworkd/AgentGPT
@@ -29,18 +30,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: workflow
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Browser-based autonomous AI agent deployment**: Enables users to assemble, configure, and deploy AI agents directly in the browser without requiring local setup.
-
-- **Tech stack**: Built with **TypeScript**, leveraging **Next.js (T3 Stack)**, **LangChain**, and **OpenAI's LLM APIs** for agent orchestration and natural language processing.
-
-- **Feature-rich repository**: Supports **AgentGPT**, **BabyAGI**, and **AutoGPT**-inspired workflows, with 36,259 stars and 9,304 forks, indicating stron
+- **Framework**: Browser-based TypeScript application leveraging Next.js (T3 stack) for deploying autonomous AI agents with configurable LLM integrations (OpenAI, LangChain).
+- **Core Functionality**: Enables agent assembly, configuration, and deployment via an intuitive UI, supporting AGI-oriented workflows (e.g., BabyAGI, AutoGPT).
+- **Tech Stack**: Built with modern web technologies (Next.js, TypeScript) and designed for extensibility with AI agent frameworks (LangChain) and LLM APIs (OpenAI)
 
 ## Use Cases
 

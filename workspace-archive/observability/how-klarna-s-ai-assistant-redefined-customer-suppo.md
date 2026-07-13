@@ -9,7 +9,7 @@ local_vault_path: ai/rag/how-klarna-s-ai-assistant-redefined-customer-suppo.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -20,7 +20,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # How Klarna's AI assistant redefined customer support at scale for 85 million active users
@@ -29,18 +29,18 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Multi-agent architecture**: Klarna’s AI assistant leverages LangGraph to route requests and handle tasks via a controllable agent framework, reducing latency, improving reliability, and lowering operational costs.
+- **Multi-agent architecture**: Klarna deployed a controllable, task-routing agent system using LangGraph, enabling dynamic request handling across departments, reducing latency (~80% faster resolutions) and operational costs while improving reliability.
 
-- **Context-aware prompt optimization**: Dynamic prompt tailoring ensures contextually relevant responses while minimizing token costs and latency, with LangSmith enabling meta-prompting for iterative refinement.
+- **Context-aware prompt optimization**: Implemented dynamic prompt tailoring via LangSmith to ensure contextually relevant responses, reducing token costs and latency while enhancing accuracy in customer escalations.
 
-- **Performance validation**: LangSmith’s observability and LLM eva
+- **Test-driven observabi
 
 ## Use Cases
 

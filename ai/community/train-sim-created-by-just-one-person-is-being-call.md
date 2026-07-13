@@ -13,13 +13,14 @@ collected_at: '2026-07-10T13:17:20.583133+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:train-sim-created-by-just-one-person-is-being-call
 first_seen: '2026-07-10T04:15:27.011841+05:30'
 last_seen: '2026-07-10T13:17:20.583133+05:30'
 last_checked: '2026-07-10T13:17:20.583133+05:30'
 health_score: 100
 ---
+
 
 # Train sim created by just one person is being called the best ever made
 

@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-10T13:19:22.407578+05:30'
-published_at: '2026-07-07T03:51:39Z'
+collected_at: '2026-07-13T09:35:58.594555+05:30'
+published_at: '2026-07-11T01:18:26Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - jupyter notebook
 - models
 - rag
-- workflows
-stars: 1222
+stars: 1223
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-10T13:19:22.407578+05:30'
-last_seen: '2026-07-10T13:19:22.407578+05:30'
-last_checked: '2026-07-10T13:19:22.407578+05:30'
+first_seen: '2026-07-13T09:35:58.594555+05:30'
+last_seen: '2026-07-13T09:35:58.594555+05:30'
+last_checked: '2026-07-13T09:35:58.594555+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
-
-- **Streamlit-Powered UI**: Integrates Streamlit for a web-based, user-friendly interface to dynamically analyze and debug RAG workflows, including query processing, retrieval, and response generation.
-
-- **Python-Based Analysis**: Leverages Python for modular analysis of RAG components, supporting customization and extension for advanced debugging and performance evaluation of LLM pipelines.
+- **Purpose**: Open-source tool for interactive visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines using Python and Streamlit.
+- **Key Features**: Jupyter Notebook-based implementation with visualization capabilities for LLM-based RAG systems.
+- **Technical Stack**: Python, Streamlit, and Jupyter Notebook; supports real-time exploration of RAG components (retrieval, generation, and evaluation).
 
 ## Why It Matters
 
@@ -44,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: gabrielchua
-- Stars: 1222
+- Stars: 1223
 - Forks: 114
 - Language: Jupyter Notebook
 - Topics: interactive, llm, python, rag, streamlit, visualization
-- Last Updated: 2026-07-07T03:51:39Z
+- Last Updated: 2026-07-11T01:18:26Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-11T15:31:36Z

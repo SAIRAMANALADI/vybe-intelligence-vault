@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM application development, while LangGraph/LangGraph.js enable building LLM agents as computational graphs for complex workflows.
+- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM application development, while LangGraph/LangGraph.js enable building LLM agents as graph-based workflows. Deep Agents/Deep Agents.js offer advanced agent capabilities including planning, subagent delegation, and filesystem interactions.
 
-- **Agent Frameworks**: Deep Agents/Deep Agents.js support hierarchical agent planning, subagent delegation, and filesystem interactions for advanced task execution, with `dcode` and Open SWE offering terminal-based and asynchronous coding agents respectively.
+- **Commercial Platform**: LangSmith provides a production-grade platform for building, monitoring, and managing LLM applications at scale.
 
-- **Commerc
+- **OSS Extensions & P
 
 ## Use Cases
 

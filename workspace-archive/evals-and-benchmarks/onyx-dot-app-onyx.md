@@ -6,13 +6,16 @@ source_url: https://github.com/onyx-dot-app/onyx
 resource_id: github:onyx-dot-app/onyx
 local_vault_path: ai/rag/onyx-dot-app-onyx.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: benchmark
-importance: high
+importance: medium
 tags:
 - frontend_ui
 - github-repo
+- meta-ai
+- mistral
+- models
 - openai
 - python
 - rag
@@ -26,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any LLM, enabling flexible deployment across diverse language models.
+- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any LLM (e.g., ChatGPT, Llama, Mistral) via modular backend architecture in Python, enabling seamless switching between models.
 
-- **Enterprise-Grade Features**: Implements RAG (Retrieval-Augmented Generation), vector search, and information retrieval for advanced AI-driven enterprise search capabilities.
+- **Enterprise-Grade RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based search (e.g., FAISS, Chroma) for scalable, low-latency information retrieval and context-aware AI responses.
 
-- **Full-Stack Architecture**: Combines Python backend with Next.js frontend, offering self-hosted deployment options for scalable, production-ready AI chat appli
+- **Full-Stack Self-Hosted Solution**: Combines Next.js fronten
 
 ## Use Cases
 

@@ -14,7 +14,6 @@ tags:
 - agents
 - github-repo
 - python
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Dockerfile template for deploying CrewAI applications, facilitating containerized execution of multi-agent workflows.
-- **Structure**: Includes Python-based setup with dependencies optimized for CrewAI, ensuring isolated runtime environments.
-- **Updates**: Last modified on **2026-03-15**, reflecting recent adjustments for compatibility and performance.
+- **Dockerfile Template**: Provides a pre-configured Docker setup for CrewAI, a Python-based framework for multi-agent AI systems.
+- **Python-Based**: Designed for Python environments, ensuring compatibility with CrewAI’s dependencies and runtime requirements.
+- **Last Updated**: March 15, 2026, with minimal community adoption (9 stars, 10 forks).
 
 ## Use Cases
 

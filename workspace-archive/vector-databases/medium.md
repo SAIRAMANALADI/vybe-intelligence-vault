@@ -2,7 +2,7 @@
 title: Medium
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=
+source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
 resource_id: blog:medium
 local_vault_path: ai/rag/medium.md
 quality_score: 70
@@ -10,6 +10,10 @@ archive_score: 70
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
+tags:
+- agents
+- rag
+- web-crawled
 selection_reason:
 - Valuable developer reference
 ---
@@ -26,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **License Grant & Content Ownership**: Users retain rights to submitted content but grant Medium a **nonexclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Medium services, with attribution required for derivative works.
+- **License Grant & Content Ownership**: Users retain content rights but grant Medium a **nonexclusive, worldwide, sublicensable, royalty-free license** to reproduce, modify, distribute, and display user content across all Medium services (web, mobile, derivatives) with attribution, limited to Medium’s platform.
 
-- **Dispute Resolution & Liability Limits**: Mandatory **binding arbitration** (JAMS Rules) replaces court proceedings for disputes, with class actions waived; Medium’s liability is capped at **$50 USD o
+- **Dispute Resolution & Liability Limits**: Mandatory **binding arbitration** (JAMS rules) waives class actions/jury trials; liability capped at **$50 USD or fees paid**, excluding gro
 
 ## Use Cases
 
@@ -38,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=
+Original source URL: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
 
 ## Local Vault File
 

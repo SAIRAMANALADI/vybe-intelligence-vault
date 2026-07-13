@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Utilizes LiteLLM to support 100+ LLM providers with unified API access, enabling seamless switching between models (e.g., OpenAI, Anthropic, Mistral) via environment variables.
+- **Multi-Provider LLM Integration**: Utilizes LiteLLM to support 100+ LLM providers with unified API calls, enabling seamless switching between models (e.g., OpenAI, Anthropic, Mistral) via environment variables.
 
-- **Observability & Debugging**: Implements Langfuse for full LLM observability, logging prompts, completions, and costs, with structured metadata for performance analysis and debugging.
+- **Observability & Monitoring**: Embeds Langfuse for comprehensive LLM observability, logging prompts, completions, latency, and token usage for debugging, performance analysis, and cost tracking.
 
-- **Production-Grade Tooling**: Dockerized deployment with TypeScript strict type-checking, 100%
+- **Production-Grade Tooling**: Dockerized deployment with TypeScript strict type-chec
 
 ## Use Cases
 

@@ -4,25 +4,27 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stackitcloud/rag-template
-collected_at: '2026-07-10T13:19:12.393365+05:30'
-published_at: '2026-07-05T00:44:33Z'
+collected_at: '2026-07-13T09:35:48.595295+05:30'
+published_at: '2026-07-12T00:39:04Z'
 tags:
 - github-repo
+- hackernews
 - meta-ai
 - models
 - python
 - rag
+- reddit
 stars: 84
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2025-01-16T12:14:53Z'
-pushed_at: '2026-07-05T01:39:14Z'
+pushed_at: '2026-07-12T01:29:39Z'
 resource_id: github:stackitcloud/rag-template
-first_seen: '2026-07-10T13:19:12.393365+05:30'
-last_seen: '2026-07-10T13:19:12.393365+05:30'
-last_checked: '2026-07-10T13:19:12.393365+05:30'
+first_seen: '2026-07-13T09:35:48.595295+05:30'
+last_seen: '2026-07-13T09:35:48.595295+05:30'
+last_checked: '2026-07-13T09:35:48.595295+05:30'
 health_score: 100
 ---
 
@@ -30,9 +32,15 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: FastAPI-based template implementing Retrieval-Augmented Generation (RAG) with vector search, supporting document management and AI chatbots via modular components.
-- **Deployment**: Containerized with Docker, deployable on Kubernetes, and integrates with Ollama for LLM inference and STACKIT for vector database/storage.
-- **Dependencies**: Python-centric stack leveraging vector databases, FastAPI for REST endpoints, and RAG-specific libraries for document processing and retrieval optimization.
+- **Purpose**: Provides a template for deploying AI chatbots and document management systems using **Retrieval-Augmented Generation (RAG)** with **vector search** and **FastAPI** for backend services.
+
+- **Key Components**:
+  - **FastAPI** for RESTful API endpoints.
+  - **Ollama** for LLM integration.
+  - **Vector database** for efficient document retrieval.
+  - **Docker/Kubernetes** support for containerized deployment.
+
+- **Technical Stack**: Python-based, leveraging **STACKIT Cloud** infrastructure with **LLM**, **RAG-chatbot**, and **vector-database** optimizations.
 
 ## Why It Matters
 
@@ -45,11 +53,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 10
 - Language: Python
 - Topics: ai, api, docker, fastapi, kubernetes, llm, ollama, python, rag, rag-chatbot, retrieval-augmented-generation, stackit, vector-database
-- Last Updated: 2026-07-05T00:44:33Z
+- Last Updated: 2026-07-12T00:39:04Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-01-16T12:14:53Z
-- Pushed At: 2026-07-05T01:39:14Z
+- Pushed At: 2026-07-12T01:29:39Z
 
 ## Possible Use Cases
 

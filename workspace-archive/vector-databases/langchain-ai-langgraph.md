@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent orchestration framework** in Python for building resilient, stateful agent systems with support for parallel and sequential workflows.
-- **Integrates with LLM providers** (OpenAI, Gemini) and tools (Pydantic, RAG) for enterprise-grade agentic applications.
-- **Open-source under Apache 2.0**, enabling stateful, multi-agent interactions with built-in resilience and scalability (36.9K+ stars, 6.2K+ forks).
+- **Framework for resilient agent orchestration**: LangGraph provides a Python-based framework for building, managing, and deploying resilient multi-agent systems with support for LLMs (OpenAI, Gemini), enterprise integrations, and complex workflows.
+
+- **Stateful graph-based execution**: Utilizes graph structures (nodes/edges) to model agent interactions, enabling deterministic, reproducible, and fault-tolerant agent behavior with Pydantic-based state management.
+
+- **Multi-agent and RAG capabi
 
 ## Use Cases
 

@@ -13,8 +13,10 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - typescript
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,9 +37,9 @@ selection_reason:
 
 - **Purpose**: Provides a TypeScript-based template for building AI agents that dynamically sync with a file-system knowledge base, enabling real-time updates and contextual responses.
 
-- **Architecture**: Implements a Nuxt/Vue frontend with a sandboxed environment, leveraging Vercel’s ecosystem for scalable agent deployment and file-system integration.
+- **Key Features**: Integrates **Nuxt** and **Vue** for frontend, supports **sandboxed execution**, and leverages **Vercel’s ecosystem** for deployment and scalability.
 
-- **Key Features**: Supports agent customization for chatbots, knowledge retrieval, and state management, optimized for modularity and rapid pr
+- **Technical Stack**: Open-source repository with **946 stars** and **125 forks**, last updated in **2026**, optimized for **agent-based AI wor
 
 ## Use Cases
 

@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a collaborative AI agent system using frameworks like CrewAI, AutoGen, and LangChain to distribute document processing, analysis, and insight generation tasks across specialized agents.
+- **Multi-Agent Architecture**: Implements a collaborative framework using CrewAI, AutoGen, and Swarms to distribute document processing tasks (e.g., retrieval, analysis, synthesis) across specialized AI agents.
 
-- **RAG Integration**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate) and LLM APIs (OpenAI GPT-3.5/4/5, Anthropic) for retrieval-augmented generation (RAG) workflows.
+- **RAG Integration**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate) and LLM backends (OpenAI GPT-3.5/4/5, Anthropic) for retrieval-augmented generation (RAG) workflows.
 
-- **Deployment Flexibility**: Includes Discord bot integration for real-time intera
+- **Scalable Deployment**: Includes Discord bot integration for real-time agent interaction and
 
 ## Use Cases
 

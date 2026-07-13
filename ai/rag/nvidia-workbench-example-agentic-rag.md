@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-agentic-rag
-collected_at: '2026-07-10T13:19:27.409852+05:30'
-published_at: '2026-07-09T21:04:01Z'
+collected_at: '2026-07-13T09:36:03.632006+05:30'
+published_at: '2026-07-12T16:00:05Z'
 tags:
 - agents
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-14T17:08:04Z'
 pushed_at: '2026-06-11T22:51:59Z'
 resource_id: github:nvidia/workbench-example-agentic-rag
-first_seen: '2026-07-10T13:19:27.409852+05:30'
-last_seen: '2026-07-10T13:19:27.409852+05:30'
-last_checked: '2026-07-10T13:19:27.409852+05:30'
+first_seen: '2026-07-13T09:36:03.632006+05:30'
+last_seen: '2026-07-13T09:36:03.632006+05:30'
+last_checked: '2026-07-13T09:36:03.632006+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Implementation**: Demonstrates an agentic RAG system using NVIDIA AI Workbench, integrating retrieval and generative AI workflows for dynamic, multi-step reasoning.
-- **Jupyter Notebook-Based**: Entire project structured as executable Jupyter Notebooks, enabling interactive development and visualization of agentic RAG pipelines.
-- **NVIDIA Stack Integration**: Leverages NVIDIA’s AI/ML ecosystem (e.g., GPUs, frameworks) for optimized retrieval and LLM inference in the agentic workflow.
+- **Agentic RAG Implementation**: Demonstrates an agentic RAG system using NVIDIA AI Workbench, integrating retrieval and generation with autonomous agent workflows.
+
+- **Jupyter Notebook-Based**: Entire project structured as a Jupyter Notebook for interactive experimentation and reproducibility.
+
+- **NVIDIA Stack Integration**: Leverages NVIDIA's AI/ML toolchain (e.g., NeMo, TensorRT) for optimized retrieval and LLM inference.
 
 ## Why It Matters
 
@@ -42,10 +44,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: NVIDIA
 - Stars: 166
-- Forks: 233
+- Forks: 232
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-07-09T21:04:01Z
+- Last Updated: 2026-07-12T16:00:05Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-08-14T17:08:04Z

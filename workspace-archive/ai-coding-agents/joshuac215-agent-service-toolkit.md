@@ -8,16 +8,14 @@ local_vault_path: ai/agents/joshuac215-agent-service-toolkit.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: workflow
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
 - python
-- scripts
-- workflows
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # JoshuaC215/agent-service-toolkit
@@ -26,17 +24,17 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: workflow
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Tech Stack**: Combines LangGraph for agent orchestration, FastAPI for backend services, and Streamlit for frontend UI in a Python-based AI agent service toolkit.
+- **Architecture**: Combines LangGraph for agent orchestration, FastAPI for backend services, and Streamlit for frontend UI to create a modular AI agent service framework.
 
-- **Core Features**: Provides a full toolkit for deploying, managing, and interacting with AI agents, including workflow automation and real-time agent communication.
+- **Key Features**: Includes pre-built tools for agent management, state persistence, and RESTful API endpoints for agent interaction and monitoring.
 
-- **Scalability & Extensibility**: Designed for modularity, enabling custom agent integrations, tool extensions, and scalable deployments via FastAPI endpoints and S
+- **Deployment**: Supports containerization (Docker) and scalable FastAPI backend with real-time Streamlit dashboard for agent visualization and control.
 
 ## Use Cases
 

@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 selection_reason:
@@ -31,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
+- **Cognitive-Inspired Architecture**: Introduces a memory-organized RAG (Retrieval-Augmented Generation) framework, *ComoRAG*, designed for stateful long narrative reasoning, mimicking human cognitive memory structures for improved contextual retention.
 
-- **Stateful Reasoning Mechanism**: Implements dynamic memory retrieval and integration to maintain contextual coherence across extended dialogues or narratives, leveraging episodic and semantic memory modules.
-
-- **AAAI 2026 Contribution**: Proposes novel memory organization techniques to enhance RAG syste
+- **Stateful Reasoning Mechanism**: Implements a dynamic memory update and retrieval pipeline that maintains coherence across extended dialogues or narratives, enabling more accurate and contextually consistent responses over long interactions.
 
 ## Use Cases
 

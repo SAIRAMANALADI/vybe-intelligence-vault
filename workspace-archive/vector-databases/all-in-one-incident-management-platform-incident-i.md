@@ -29,11 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **AI-powered alert filtering**: Automatically reduces noise by prioritizing critical incidents and minimizing unnecessary pages through machine learning-based noise reduction.
-
-- **Human-centric scheduling**: Implements effortless, automated on-call scheduling with intelligent rotation to ensure optimal coverage while balancing workload and reducing burnout.
-
-- **Real-time incident trends & mobile integration**: Provides actionable insights via trend analysis of incident patterns and offers a
+- **AI-powered alert filtering**: Reduces noise and minimizes unnecessary pages by prioritizing critical incidents using machine learning.
+- **Automated on-call scheduling**: Optimizes human resource allocation with intelligent rotation and escalation policies to ensure coverage.
+- **Real-time incident trends analysis**: Provides actionable insights via mobile and web dashboards to improve response efficiency and incident resolution.
 
 ## Use Cases
 

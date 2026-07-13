@@ -4,18 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://youtube.com/@Weaviate
-published_at: '2026-07-08T01:52:15.941745+05:30'
-collected_at: '2026-07-08T01:52:15.941760+05:30'
+published_at: '2026-07-13T09:41:04.407445+05:30'
+collected_at: '2026-07-13T09:41:04.407457+05:30'
 tags:
 - hackernews
 - rag
+- reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:weaviate-vector-database-youtube
-first_seen: '2026-07-08T01:52:15.941760+05:30'
-last_seen: '2026-07-08T01:52:15.941760+05:30'
-last_checked: '2026-07-08T01:52:15.941760+05:30'
+first_seen: '2026-07-13T09:41:04.407457+05:30'
+last_seen: '2026-07-13T09:41:04.407457+05:30'
+last_checked: '2026-07-13T09:41:04.407457+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, monetization, and live streaming, with a global reach of over 2 billion logged-in users monthly.
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization (via YouTube Partners/Advertisers), and creator tools (YouTube Studio, YouTube Music, YouTube Kids).
 
-- **Technical Infrastructure**: Utilizes Google's distributed systems for video transcoding, storage, and delivery, leveraging AI for recommendations, content moderation, and ad targeting via the Weaviate vector database for semantic search and contextual understanding.
+- **Technical Infrastructure**: Utilizes Google’s CDN and AI-driven recommendation algorithms (e.g., deep neural networks) to optimize video delivery, personalization, and content discovery across global users (~2.7B monthly active users).
 
-- **Developer & Creator Ecosystem**: Provides APIs (YouTube Data, Analytics, Live Streaming) and tools (YouTube Studio, Copyright Match) for third-party integration, content management, and copyright protection, with policies governed by Google's privacy and terms frameworks.
+- **Policy & Compliance**: Enforces [Content ID](https://www.youtube.com/howyoutubeworks/content-id/) for copyright management, adheres to [GDPR/CCPA](https://youtube.com/t/privacy) for data privacy, and provides [APIs](https://developers.google.com/youtube) for third-party integrations (e.g., analytics, live streaming).
 
 ## Why It Matters
 
@@ -37,12 +38,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T01:52:15.941745+05:30
+- Published: 2026-07-13T09:41:04.407445+05:30
 
 ## Related Tags
 
 - hackernews
 - rag
+- reddit
 - web-crawled
 - youtube
 

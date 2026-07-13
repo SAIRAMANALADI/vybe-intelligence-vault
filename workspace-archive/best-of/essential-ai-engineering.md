@@ -9,7 +9,7 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ## Curated Top Resources
 
 ### [langgenius/dify](https://github.com/langgenius/dify)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
@@ -18,14 +18,19 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`deepset-ai-haystack.md`](../../ai/rag/deepset-ai-haystack.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
+### [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent)
+- **Category**: `ai/agents` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`ghuntley-how-to-build-a-coding-agent.md`](../../ai/agents/ghuntley-how-to-build-a-coding-agent.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
 - **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`sickn33-agentic-awesome-skills.md`](../../ai/agents/sickn33-agentic-awesome-skills.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`graphrag-bench-graphrag-benchmark.md`](../../ai/rag/graphrag-bench-graphrag-benchmark.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/)
@@ -46,11 +51,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
 - **Category**: `ai/resources` | **Kind**: `API` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`llamasearchai-openagi-customization.md`](../../ai/resources/llamasearchai-openagi-customization.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`onyx-dot-app-onyx.md`](../../ai/rag/onyx-dot-app-onyx.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-10 13:34 IST*
+*Last updated: 2026-07-13 09:51 IST*

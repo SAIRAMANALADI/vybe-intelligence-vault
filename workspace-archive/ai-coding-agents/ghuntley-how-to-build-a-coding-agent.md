@@ -6,17 +6,16 @@ source_url: https://github.com/ghuntley/how-to-build-a-coding-agent
 resource_id: github:ghuntley/how-to-build-a-coding-agent
 local_vault_path: ai/agents/ghuntley-how-to-build-a-coding-agent.md
 quality_score: 70
-archive_score: 81
-archive_tier: useful
+archive_score: 93
+archive_tier: essential
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
 - agents
+- anthropic
 - github-repo
 - go
-- hackernews
-- scripts
-- workflows
+- openai
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -27,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 93 (essential)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Workshop Overview**: Provides a step-by-step guide to building a coding agent (e.g., Roo Code, Cline, Amp) using Go, covering AI integration, agent architecture, and workflow automation.
-
-- **Technical Focus**: Implements core components like LLM interaction, tool orchestration, and real-time code analysis, with emphasis on modular design and extensibility.
-
-- **Repository Metrics**: 5.7K+ stars, 640 forks; last updated July 2026, indicating active maintenance and community engagement.
+- **Go-based workshop** for constructing a **coding agent** (e.g., Roo Code, Cline, Amp) with modular architecture for AI-driven code generation, editing, and execution.
+- **Key components**: CLI tooling, LLM integration (e.g., OpenAI, Anthropic), and sandboxed environments for secure code execution and dependency management.
+- **Tutorial covers** agent orchestration, tooling (e.g., Git, Docker), and deployment strategies for scalable, production-ready AI coding assistants.
 
 ## Use Cases
 

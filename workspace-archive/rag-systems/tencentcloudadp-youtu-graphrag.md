@@ -6,7 +6,7 @@ source_url: https://github.com/TencentCloudADP/youtu-graphrag
 resource_id: github:tencentcloudadp/youtu-graphrag
 local_vault_path: ai/rag/tencentcloudadp-youtu-graphrag.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Vertically Unified Agents for Graph RAG**: Introduces a novel framework integrating hierarchical agent systems with Graph Retrieval-Augmented Generation (GraphRAG) to enhance complex reasoning by leveraging graph-structured knowledge for improved context retrieval and multi-step reasoning.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, verification) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for contextual augmentation.
 
-- **Multi-Layered Agent Architecture**: Implements a vertically unified agent system with specialized layers (e.g., retrieval, reasoning, and planning agents) that dynamically interact to decompose, retri
+- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Extends traditional RAG by integrating graph-based knowledge representations (e.g., knowledge graphs, heterogeneous networks) to enhance LLM reasoning with structured, multi-hop relational context
 
 ## Use Cases
 

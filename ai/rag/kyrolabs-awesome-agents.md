@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/kyrolabs/awesome-agents
-collected_at: '2026-07-10T13:21:27.522981+05:30'
-published_at: '2026-07-10T04:54:08Z'
+collected_at: '2026-07-13T09:38:03.687330+05:30'
+published_at: '2026-07-12T21:42:00Z'
 tags:
 - agents
 - github-repo
@@ -13,16 +13,16 @@ tags:
 - rag
 - scripts
 - unknown
-stars: 2581
+stars: 2611
 language: Unknown
 status: active
 archived: false
 created_at: '2023-07-02T11:12:36Z'
 pushed_at: '2026-07-09T22:24:49Z'
 resource_id: github:kyrolabs/awesome-agents
-first_seen: '2026-07-10T13:21:27.522981+05:30'
-last_seen: '2026-07-10T13:21:27.522981+05:30'
-last_checked: '2026-07-10T13:21:27.522981+05:30'
+first_seen: '2026-07-13T09:38:03.687330+05:30'
+last_seen: '2026-07-13T09:38:03.687330+05:30'
+last_checked: '2026-07-13T09:38:03.687330+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Aggregates a comprehensive list of AI agent frameworks, libraries, tools, and research papers for autonomous agent development.
-- **Multi-Domain Coverage**: Includes agents for web browsing, code generation, task automation, and multi-agent systems with emphasis on LLM integration.
-- **Open-Source Focus**: Primarily features open-source projects with active community contributions and regular updates.
+- **Curated Collection**: Aggregates a comprehensive list of AI agent frameworks, libraries, and tools, spanning autonomous agents, multi-agent systems, and agent-based simulations.
+- **Multi-Domain Coverage**: Encompasses agents for research, coding, automation, gaming, and enterprise applications, with links to papers, GitHub repos, and documentation.
+- **Community-Driven**: Actively maintained with contributions from researchers and developers, last updated July 2026, featuring 2,611 stars and 691 forks.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: kyrolabs
-- Stars: 2581
-- Forks: 681
+- Stars: 2611
+- Forks: 691
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-10T04:54:08Z
+- Last Updated: 2026-07-12T21:42:00Z
 - Archived: No
 - Created At: 2023-07-02T11:12:36Z
 - Pushed At: 2026-07-09T22:24:49Z

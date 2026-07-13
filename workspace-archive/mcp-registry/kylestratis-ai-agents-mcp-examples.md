@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 selection_reason:
 - Strong keyword match
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository containing examples of AI agents using the Model Context Protocol (MCP), with 55 stars and 24 forks.
-- **Technical Stack**: Implemented in Python, focusing on MCP-based AI agent architectures and interactions.
-- **Last Activity**: Last updated on **2026-05-17T13:34:42Z**, indicating recent development or maintenance.
+- **Repository Overview**: GitHub repository containing Python examples for AI agents using the Model Context Protocol (MCP), with 55 stars and 25 forks.
+- **Last Activity**: Last updated on **2026-05-17T13:34:42Z**, indicating recent development.
+- **Purpose**: Focuses on practical MCP implementations for AI agents, though no explicit description is provided.
 
 ## Use Cases
 

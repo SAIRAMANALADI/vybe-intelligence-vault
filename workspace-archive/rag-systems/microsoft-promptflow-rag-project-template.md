@@ -6,7 +6,7 @@ source_url: https://github.com/microsoft/promptflow-rag-project-template
 resource_id: github:microsoft/promptflow-rag-project-template
 local_vault_path: ai/rag/microsoft-promptflow-rag-project-template.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: template
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **End-to-end RAG workflow**: Demonstrates Retrieval-Augmented Generation (RAG) implementation with development, evaluation, experimentation, and deployment phases using Microsoft's **Promptflow**.
+- **End-to-End RAG Pipeline**: Demonstrates Retrieval-Augmented Generation (RAG) workflow including development, evaluation, experimentation, and deployment using **Promptflow**, with integration of search backends like **CosmosDB**, **PostgreSQL**, and **Azure AI Search**.
 
-- **Multi-backend search integration**: Supports vector search across **CosmosDB, PostgreSQL, and Azure AI Search** for retrieval, enabling hybrid or pure vector-based search strategies.
+- **Multi-Search Backend Support**: Provides templates for hybrid search implementations across **CosmosDB vector search**, **PostgreSQL pgvector**, and **Azure AI Search**, enabling flexible retrieval strategies.
 
-- **Jupyter Notebook-based template**: Provides a structured, executable notebook environment for prototyping, t
+- **Jupyt
 
 ## Use Cases
 

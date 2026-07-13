@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alfredodeza/azure-rag
-collected_at: '2026-07-10T13:19:27.341806+05:30'
+collected_at: '2026-07-13T09:36:03.581328+05:30'
 published_at: '2026-04-23T18:04:11Z'
 tags:
 - github-repo
@@ -12,6 +12,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 stars: 53
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2023-12-26T16:03:29Z'
 pushed_at: '2024-01-03T12:16:36Z'
 resource_id: github:alfredodeza/azure-rag
-first_seen: '2026-07-10T13:19:27.341806+05:30'
-last_seen: '2026-07-10T13:19:27.341806+05:30'
-last_checked: '2026-07-10T13:19:27.341806+05:30'
+first_seen: '2026-07-13T09:36:03.581328+05:30'
+last_seen: '2026-07-13T09:36:03.581328+05:30'
+last_checked: '2026-07-13T09:36:03.581328+05:30'
 health_score: 100
 ---
 
@@ -31,8 +32,8 @@ health_score: 100
 ## Summary
 
 - **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) implementation using Azure services, integrating document retrieval with generative AI models.
-- **Technical Stack**: Python-based solution leveraging Azure Cognitive Search for retrieval and Azure OpenAI for generative capabilities.
-- **Repository Details**: Last updated April 23, 2026, with 53 stars and 227 forks, indicating active community engagement.
+- **Technical Stack**: Python-based, leveraging Azure Cognitive Search for retrieval and Azure OpenAI (or similar) for generation.
+- **Key Features**: Example repository includes vector embeddings, semantic search, and prompt engineering for RAG workflows.
 
 ## Why It Matters
 
@@ -42,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: alfredodeza
 - Stars: 53
-- Forks: 227
+- Forks: 228
 - Language: Python
 - Topics: None
 - Last Updated: 2026-04-23T18:04:11Z

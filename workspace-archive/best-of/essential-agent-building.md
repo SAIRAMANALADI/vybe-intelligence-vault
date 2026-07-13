@@ -8,6 +8,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
+### [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent)
+- **Category**: `ai/agents` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
+- **Score**: `93` | **Path**: [`ghuntley-how-to-build-a-coding-agent.md`](../../ai/agents/ghuntley-how-to-build-a-coding-agent.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
 - **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `93` | **Path**: [`sickn33-agentic-awesome-skills.md`](../../ai/agents/sickn33-agentic-awesome-skills.md)
@@ -22,11 +27,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `90` | **Path**: [`arxiv-2606-24429.md`](../../ai/agents/arxiv-2606-24429.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
-
-### [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
-- **Category**: `ai/agents` | **Kind**: `WORKFLOW` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`greensock-gsap-skills.md`](../../ai/agents/greensock-gsap-skills.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
 - **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
@@ -54,7 +54,7 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [langgenius/dify](https://github.com/langgenius/dify)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-10 13:34 IST*
+*Last updated: 2026-07-13 09:51 IST*

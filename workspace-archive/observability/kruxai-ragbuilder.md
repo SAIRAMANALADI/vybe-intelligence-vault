@@ -14,7 +14,6 @@ tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -36,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Toolkit for constructing production-grade RAG pipelines optimized for custom datasets, supporting end-to-end workflows from ingestion to deployment.
-- **Key Features**: Modular Python framework with pre-built components for document processing, embedding, retrieval, and LLM integration, ensuring scalability and low-latency inference.
-- **Technical Stack**: Leverages Python ecosystem (e.g., LangChain, HuggingFace) with extensible APIs for custom model integration, vector stores, an
+- **Purpose-built RAG Toolkit**: Provides a Python-based framework for constructing production-grade Retrieval Augmented Generation (RAG) pipelines optimized for custom datasets.
+- **Key Features**: Includes modular components for data ingestion, embedding generation, vector storage, retrieval, and LLM integration with built-in evaluation metrics.
+- **Deployment-Ready**: Supports end-to-end workflows from prototyping to scalable deployment, with pre-configured best practices for latency, accurac
 
 ## Use Cases
 

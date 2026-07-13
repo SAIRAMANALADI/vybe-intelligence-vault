@@ -11,11 +11,11 @@ Computer-use and browser agents transition AI from text engines to active workfl
 - [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) (framework - ESSENTIAL Tier)
+- [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) (tutorial - ESSENTIAL Tier)
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) (framework - ESSENTIAL Tier)
 - [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) (mcp-server - ESSENTIAL Tier)
 - [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
-- [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,9 +24,9 @@ https://github.com/showlab/ComputerUse (Computer Use Examples)
 - [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework)
+- [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent)
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
 - [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)
-- [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/showlab/ComputerUse (Computer Use Examples)
 
 ---
 
-*Last updated: 2026-07-10 13:34 IST*
+*Last updated: 2026-07-13 09:51 IST*

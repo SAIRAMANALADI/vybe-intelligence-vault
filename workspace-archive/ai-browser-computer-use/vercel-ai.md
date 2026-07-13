@@ -17,6 +17,7 @@ tags:
 - github-repo
 - openai
 - typescript
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **AI SDK**: Open-source TypeScript library by Vercel for building AI-powered apps and agents, supporting models like Anthropic, Gemini, and OpenAI.
-- **Multi-Framework Support**: Compatible with React, Next.js, Svelte, Vue, and JavaScript, enabling generative UI and LLM integration.
-- **Active Development**: Last updated July 2026, with 25K+ stars and 4.7K+ forks, reflecting strong community adoption.
+- **AI SDK**: Open-source TypeScript library by Vercel for building AI-powered apps and agents, supporting LLMs (OpenAI, Anthropic, Gemini), React, Next.js, Svelte, and Vue.
+- **Generative UI**: Enables real-time, streaming AI responses with framework-agnostic components for dynamic UI generation.
+- **Tool Integration**: Supports function calling, structured outputs, and agent workflows with TypeScript-first APIs for type-safe AI interactions.
 
 ## Use Cases
 

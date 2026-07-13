@@ -4,25 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Ed1s0nZ/CyberStrikeAI
-collected_at: '2026-07-10T13:21:47.543041+05:30'
-published_at: '2026-07-10T07:38:16Z'
+collected_at: '2026-07-13T09:38:23.726346+05:30'
+published_at: '2026-07-13T03:24:24Z'
 tags:
 - agents
 - github-repo
 - go
 - hackernews
 - workflows
-stars: 5048
+stars: 5077
 language: Go
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2025-11-08T10:41:23Z'
-pushed_at: '2026-07-09T11:31:32Z'
+pushed_at: '2026-07-12T05:28:10Z'
 resource_id: github:ed1s0nz/cyberstrikeai
-first_seen: '2026-07-10T13:21:47.543041+05:30'
-last_seen: '2026-07-10T13:21:47.543041+05:30'
-last_checked: '2026-07-10T13:21:47.543041+05:30'
+first_seen: '2026-07-13T09:38:23.726346+05:30'
+last_seen: '2026-07-13T09:38:23.726346+05:30'
+last_checked: '2026-07-13T09:38:23.726346+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Execution Layer**: Implements AI-driven cybersecurity agents that convert security intent into governed, auditable actions via MCP-native tools, contextual attack-chain awareness, and multi-stage approval workflows.
+- **Agentic Execution Layer**: Implements AI-driven cybersecurity agents that convert security intent into governed, auditable actions using MCP-native tools, contextual attack-chain awareness, and multi-layer approvals.
 
-- **Technical Stack**: Built in Go, integrates AI agents, penetration testing tools, CTF utilities, and MCP (Model Context Protocol) for structured, extensible security operations.
+- **Technical Stack**: Built in Go, integrates AI agents, penetration testing tools, and CTF utilities with MCP (Model Context Protocol) for structured tool orchestration and knowledge management.
 
-- **Features**: Supports AI-powered penetration testing, attack chain simulation, real-time auditing, and policy enforcement with modular tooling for offensive and defensive security workflows.
+- **Security Governance**: Enforces strict approval workflows, audit trails, and attack-chain context to ensure precise, compliant, and traceable cybersecurity operations.
 
 ## Why It Matters
 
@@ -43,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Ed1s0nZ
-- Stars: 5048
-- Forks: 816
+- Stars: 5077
+- Forks: 823
 - Language: Go
 - Topics: ai, ai-agents, ai-cybersecurity, ai-hacking, ai-penetration-testing, ai-security-tool, ctf-tools, mcp, pentesting-tools
-- Last Updated: 2026-07-10T07:38:16Z
+- Last Updated: 2026-07-13T03:24:24Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-11-08T10:41:23Z
-- Pushed At: 2026-07-09T11:31:32Z
+- Pushed At: 2026-07-12T05:28:10Z
 
 ## Possible Use Cases
 

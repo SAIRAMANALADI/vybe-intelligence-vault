@@ -4,18 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://blog.langchain.com/
-published_at: '2026-07-07T00:53:05.025861+05:30'
-collected_at: '2026-07-07T00:53:05.025875+05:30'
+published_at: '2026-07-13T09:47:08.029993+05:30'
+collected_at: '2026-07-13T09:47:08.030009+05:30'
 tags:
 - agents
+- hackernews
+- producthunt
 - rag
 - web-crawled
-- youtube
 status: active
 resource_id: blog:langchain-blog
-first_seen: '2026-07-07T00:53:05.025875+05:30'
-last_seen: '2026-07-07T00:53:05.025875+05:30'
-last_checked: '2026-07-07T00:53:05.025875+05:30'
+first_seen: '2026-07-13T09:47:08.030009+05:30'
+last_seen: '2026-07-13T09:47:08.030009+05:30'
+last_checked: '2026-07-13T09:47:08.030009+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Cost Optimization for Coding Agents**: Implement prompt caching, subagent dynamic allocation, and RL-based loop engineering to reduce LLM API calls by up to 40% while maintaining performance.
+- **OpenWiki Brains** introduces a general-purpose wiki memory system for agents, enabling persistent, structured knowledge storage and retrieval to enhance agent decision-making and context retention.
 
-- **Model Neutrality Framework**: Prioritize abstraction layers over cloud provider lock-in, enabling seamless model switching via standardized interfaces and verifier-based fallback mechanisms.
+- **NVIDIA and LangChain collaboration** launched the NemoClaw Deep Agents Blueprint, integrating governed agent architectures for sensitive code execution with optimized performance via Nemotron 3 Ultra models.
 
-- **Secure Agent Execution**: Deploy sandboxed environments with state-aware harnesses and untrusted code isolation, leveraging LangSmith for real-time behavioral auditing and compliance enforcement.
+- **Dynamic Subagents in Deep Agents** enables runtime agent composition, allowing parent agents to spawn specialized subagents for modular task delegation and improved scalability.
 
 ## Why It Matters
 
@@ -37,14 +38,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T00:53:05.025861+05:30
+- Published: 2026-07-13T09:47:08.029993+05:30
 
 ## Related Tags
 
 - agents
+- hackernews
+- producthunt
 - rag
 - web-crawled
-- youtube
 
 ## Source
 

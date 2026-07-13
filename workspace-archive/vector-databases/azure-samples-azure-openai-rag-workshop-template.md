@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Template for building a Retrieval-Augmented Generation (RAG) chat application using Azure OpenAI services.
-- **Tech Stack**: Implemented in TypeScript, leveraging Azure OpenAI for LLM capabilities and retrieval mechanisms.
-- **Last Update**: March 4, 2026, with 21 stars and 41 forks on GitHub.
+- **Purpose**: Template for building a Retrieval-Augmented Generation (RAG) chat application using Azure OpenAI, designed for workshop implementation.
+- **Tech Stack**: Implemented in TypeScript, leveraging Azure OpenAI services for embedding and LLM inference.
+- **Key Components**: Includes pre-configured RAG pipeline (retriever + generator), sample data ingestion, and deployment scripts for Azure.
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://help.medium.com/hc/en-us/articles/115004932468-Paid-Terms-of-Service
-published_at: '2026-07-09T09:56:32.735847+05:30'
-collected_at: '2026-07-09T09:56:32.735862+05:30'
+published_at: '2026-07-13T09:45:33.098784+05:30'
+collected_at: '2026-07-13T09:45:33.098794+05:30'
 tags:
 - agents
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:membership-terms-of-service-medium-help-center
-first_seen: '2026-07-09T09:56:32.735862+05:30'
-last_seen: '2026-07-09T09:56:32.735862+05:30'
-last_checked: '2026-07-09T09:56:32.735862+05:30'
+first_seen: '2026-07-13T09:45:33.098794+05:30'
+last_seen: '2026-07-13T09:45:33.098794+05:30'
+last_checked: '2026-07-13T09:45:33.098794+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Subscription Billing & Renewal**: Recurring fees (monthly/annual) auto-renew unless canceled before the next billing cycle; charges occur on the same calendar day as initial purchase, with prorated adjustments for months with fewer days.
+- **Billing & Renewal**: Member Services operate on recurring (monthly/annual) payments, auto-renewing unless canceled before the billing cycle ends. Fees are charged on the same day of the month as the initial payment, with prorated refunds unavailable for partial periods.
 
-- **Payment & Account Management**: Medium charges the stored payment method for fees, taxes, and fluctuations; invalid payment methods trigger immediate service suspension until updated, with potential subscription cancellation after a reasonable period.
+- **License & Restrictions**: Users receive a non-exclusive, personal license for non-commercial use. Violations (e.g., password sharing, reverse-engineering, illegal use) trigger immediate termination without refund per Medium’s discretion.
 
-- **License & Restrictions**: Non-transferable, non-commercial personal license; violations (e.g., sharing credentials, reverse-engineering) result in immediate termination without refund, and Medium reserves the right to modify/discontinue services at any time.
+- **Gift Memberships**: Pre-paid, one-year access codes are non-transferable, non-refundable, and void post-redemption. Recipients must have a Medium account, and unused portions are forfeited upon cancellation.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T09:56:32.735847+05:30
+- Published: 2026-07-13T09:45:33.098784+05:30
 
 ## Related Tags
 

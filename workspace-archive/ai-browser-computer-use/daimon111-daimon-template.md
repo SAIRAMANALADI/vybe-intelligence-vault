@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 selection_reason:
 - Useful for project building
@@ -31,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Purpose**: Provides a foundational structure for deploying autonomous agents (`daimon`) via repository forking.
-- **Technical Stack**: Implemented in JavaScript, with no additional dependencies or topics specified.
-- **Metadata**: Last updated April 24, 2026; minimal activity (2 stars, 18 forks).
+- **Repository**: `daimon111/daimon-template` – A JavaScript-based template for spawning autonomous agents ("daimons"), forked from a base repository.
+- **Metadata**: 2 stars, 18 forks, last updated on **2026-04-24T07:15:56Z** with no additional topics.
+- **Purpose**: Designed as a minimal starter kit for building autonomous agents, requiring JavaScript knowledge for customization.
 
 ## Use Cases
 

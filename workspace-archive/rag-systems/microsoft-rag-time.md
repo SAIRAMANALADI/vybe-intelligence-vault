@@ -17,7 +17,6 @@ tags:
 - models
 - openai
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -36,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive RAG Mastery Program**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals to advanced techniques, including hybrid search, vector search, and quantization methods (binary/scalar) for efficient indexing and retrieval.
+- **Repository Overview**: `microsoft/rag-time` is a structured 5-week learning program focused on Retrieval-Augmented Generation (RAG) techniques, covering topics like hybrid search, vector search, and quantization methods (binary/scalar) for efficient indexing and retrieval.
 
-- **Multi-Technology Integration**: Combines Azure services, OpenAI/GPT models, HNSW (Hierarchical Navigable Small World) for approximate nearest neighbor search, and Matryoshka representation learning for scalable multimoda
+- **Technical Stack**: Implements RAG using Azure, OpenAI LLMs, and tools like HNSW (Hierarchical Navigable Small World) for approximate nearest neighbor search, with support for multimodal data and Matryoshka representat
 
 ## Use Cases
 

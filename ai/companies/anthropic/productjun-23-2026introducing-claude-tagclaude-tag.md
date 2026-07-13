@@ -4,8 +4,8 @@ category: ai/companies/anthropic
 source_type: company_blog
 source_name: Anthropic News
 source_url: https://anthropic.com/news/introducing-claude-tag
-published_at: '2026-07-10T13:17:24.402354+05:30'
-collected_at: '2026-07-10T13:17:24.402356+05:30'
+published_at: '2026-07-13T09:34:17.401158+05:30'
+collected_at: '2026-07-13T09:34:17.401161+05:30'
 tags:
 - anthropic
 - anthropic-news
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: blog:jun-23-2026productintroducing-claude-tag
 first_seen: '2026-06-24T10:06:17.872316+05:30'
-last_seen: '2026-07-10T13:17:24.402356+05:30'
-last_checked: '2026-07-10T13:17:24.402356+05:30'
+last_seen: '2026-07-13T09:34:17.401161+05:30'
+last_checked: '2026-07-13T09:34:17.401161+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Anthropic News
 - Article URL: https://anthropic.com/news/introducing-claude-tag
-- Collected At: 2026-07-10T13:17:24.402356+05:30
+- Collected At: 2026-07-13T09:34:17.401161+05:30
 
 ## Related Tags
 

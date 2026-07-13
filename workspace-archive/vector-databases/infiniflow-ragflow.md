@@ -6,9 +6,9 @@ source_url: https://github.com/infiniflow/ragflow
 resource_id: github:infiniflow/ragflow
 local_vault_path: ai/rag/infiniflow-ragflow.md
 quality_score: 70
-archive_score: 75
+archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -17,6 +17,7 @@ tags:
 - rag
 - workflows
 selection_reason:
+- Strong keyword match
 - Active open-source repository
 ---
 
@@ -25,18 +26,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: prompt
 - Selection reasons:
+  - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Hybrid RAG-Engine**: Combines advanced Retrieval-Augmented Generation (RAG) with Agentic AI to dynamically enhance LLM context via structured retrieval, reasoning, and tool-use integration.
+- **Hybrid RAG Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with agentic workflows, enabling dynamic context enrichment for LLMs by combining retrieval, reasoning, and tool-use capabilities.
 
-- **Go-Based Architecture**: Implements a high-performance, concurrent Go backend for scalable document parsing, vector indexing, and real-time agent orchestration.
+- **Multi-Modal Context Engine**: Supports structured/unstructured data ingestion (PDFs, docs, web content) with adaptive chunking, vector indexing (FAISS/Annoy), and semantic routing for optimized LLM prompt construction.
 
-- **Modular Context Layer**: Supports pluggable retrieval strategies (e.g., semantic, keyword, hybrid) and agent workflows (e.g., multi-hop
+- **Agentic Orchestration**: Implements agent-ba
 
 ## Use Cases
 

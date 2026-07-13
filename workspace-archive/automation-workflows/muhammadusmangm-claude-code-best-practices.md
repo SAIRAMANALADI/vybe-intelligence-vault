@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Setup & Configuration**: Provides structured guidelines for configuring Claude Code, including `CLAUDE.md` templates for project-specific instructions, environment setup, and CLI optimization for agentic AI workflows.
-
-- **Multi-Agent & Workflow Patterns**: Documents advanced patterns for orchestrating multiple AI agents, including MCP (Model Context Protocol) integration, cost-efficient task delegation, and modular workflow design for LLM-based automation.
-
-- **Cost Optimization & Maintenan
+- **Setup & Configuration**: Provides structured guidance for configuring Claude Code, including `CLAUDE.md` templates for project-specific instructions, environment setup, and CLI optimization.
+- **Multi-Agent & Workflow Patterns**: Documents advanced patterns for multi-agent collaboration, workflow automation, and MCP (Model Context Protocol) integration for scalable AI-driven development.
+- **Cost & Performance Optimization**: Focuses on cost-efficient usage of LLM APIs, resource management,
 
 ## Use Cases
 

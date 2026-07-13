@@ -9,23 +9,23 @@ Discovering modern AI productivity tools allows developers to streamline their d
 ## Top Matched Resources
 
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
-- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) (benchmark - ESSENTIAL Tier)
-- [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (dataset - ESSENTIAL Tier)
 - [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/) (framework - ESSENTIAL Tier)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
+- [Introduction to Haystack | Haystack Documentation](https://docs.haystack.deepset.ai/docs/intro?__hstc=17958374.34708e2a09562f4972500c174140941c.1781253286645.1781253286645.1781267739228.2&__hssc=17958374.1.1781267739228&__hsfp=3cf80f0816efe74df689359050c87c57) (framework - USEFUL Tier)
+- [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (benchmark - USEFUL Tier)
+- [Docker Hub Container Image Library | App Containerization](https://hub.docker.com) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
-- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
-- [langgenius/dify](https://github.com/langgenius/dify)
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
 - [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/)
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
+- [langfuse/langfuse](https://github.com/langfuse/langfuse)
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-07-10 13:34 IST*
+*Last updated: 2026-07-13 09:51 IST*

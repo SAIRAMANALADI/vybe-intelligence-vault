@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: codeparrot/github-code (Likes: 377, Downloads: 5685960)
+Trending Hugging Face dataset: codeparrot/github-code (Likes: 379, Downloads: 5702880)
 
 ## Use Cases
 

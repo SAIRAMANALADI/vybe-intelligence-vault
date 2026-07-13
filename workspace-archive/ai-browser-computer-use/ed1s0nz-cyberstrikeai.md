@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic Execution Layer**: Implements AI-driven cybersecurity agents that convert security intent into governed, auditable actions via MCP-native tools, contextual attack-chain awareness, and multi-stage approval workflows.
+- **Agentic Execution Layer**: Implements AI-driven cybersecurity agents that convert security intent into governed, auditable actions using MCP-native tools, contextual attack-chain awareness, and multi-layer approvals.
 
-- **Technical Stack**: Built in Go, integrates AI agents, penetration testing tools, CTF utilities, and MCP (Model Context Protocol) for structured, extensible security operations.
+- **Technical Stack**: Built in Go, integrates AI agents, penetration testing tools, and CTF utilities with MCP (Model Context Protocol) for structured tool orchestration and knowledge management.
 
-- **Features**: Supports AI-powered penetration testing, attack chain simulation, real-ti
+- **Security Governance**: Enforces strict approval workflows, audit trails, and
 
 ## Use Cases
 

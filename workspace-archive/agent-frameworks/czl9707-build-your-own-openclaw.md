@@ -8,15 +8,14 @@ local_vault_path: ai/agents/czl9707-build-your-own-openclaw.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
 - github-repo
 - python
-- workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # czl9707/build-your-own-openclaw
@@ -25,17 +24,15 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Modular AI Agent Architecture**: Provides a Python-based framework for constructing an AI agent with customizable components (e.g., memory, tools, reasoning modules) using OpenCLaw’s modular design principles.
-
-- **Step-by-Step Implementation Guide**: Includes detailed tutorials for integrating large language models (LLMs) with agentic workflows, covering environment setup, API interactions, and agent orchestration.
-
-- **Extensible Tool Integration**: Demonstrates how to extend agent capabil
+*   Provides a Python-centric, step-by-step guide for AI agent construction.
+*   Focuses on practical implementation of LLM-driven agent architectures.
+*   Offers a "build-your-own" methodology for developing custom AI agents.
 
 ## Use Cases
 

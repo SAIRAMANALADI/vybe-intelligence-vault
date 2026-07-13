@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025
-published_at: '2026-07-10T13:18:51.461324+05:30'
-collected_at: '2026-07-10T13:18:51.461333+05:30'
+published_at: '2026-07-13T09:35:26.947376+05:30'
+collected_at: '2026-07-13T09:35:26.947390+05:30'
 tags:
 - anthropic
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-retrieval-augmented-generation-guide-2025-impl
-first_seen: '2026-07-10T13:18:51.461333+05:30'
-last_seen: '2026-07-10T13:18:51.461333+05:30'
-last_checked: '2026-07-10T13:18:51.461333+05:30'
+first_seen: '2026-07-13T09:35:26.947390+05:30'
+last_seen: '2026-07-13T09:35:26.947390+05:30'
+last_checked: '2026-07-13T09:35:26.947390+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI text-embedding-ada-002, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for dynamic knowledge retrieval and LLM response augmentation.
+- **Core RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI `text-embedding-ada-002`, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for dynamic knowledge retrieval, reducing LLM hallucinations from 30% to <5% while enabling real-time updates.
 
-- **Advanced Techniques**: Implements hierarchical retrieval, query expansion, hybrid search (dense + sparse vectors), re-ranking (e.g., ms-marco-MiniLM), and adaptive retrieval (Self-RAG) to improve precision, recall, and hallucination reduction by 20-30%.
+- **Advanced Retrieval Techniques**: Implements hybrid search (dense + sparse vectors), query expansion (LLM-generated variations), and re-ranking (cross-encoder models) to improve recall/precision by 20-30%, with adaptive methods like Self-RAG for iterative verification.
 
-- **Production Metrics**: Achieves 90-95% accuracy with <2s latency, $0.02-0.10/query cost, and 10-50x cost savings vs. fine-tuning; validated in case studies (e.g., legal Q&A: 92% accuracy, 2.5s response time).
+- **Production Optimization**: Achieves sub-2s latency via caching (30-40% hit rate), cost efficiency ($0.02-0.10/query), and scalability (horizontal scaling in Milvus/Qdrant), outperforming fine-tuning (10-50x cheaper, real-time updates vs. weeks-long retraining).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-10T13:18:51.461324+05:30
+- Published: 2026-07-13T09:35:26.947376+05:30
 
 ## Related Tags
 

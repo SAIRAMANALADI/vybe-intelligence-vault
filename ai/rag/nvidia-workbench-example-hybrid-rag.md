@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-10T13:19:27.414005+05:30'
+collected_at: '2026-07-13T09:36:03.637304+05:30'
 published_at: '2026-06-30T16:45:55Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-10T13:19:27.414005+05:30'
-last_seen: '2026-07-10T13:19:27.414005+05:30'
-last_checked: '2026-07-10T13:19:27.414005+05:30'
+first_seen: '2026-07-13T09:36:03.637304+05:30'
+last_seen: '2026-07-13T09:36:03.637304+05:30'
+last_checked: '2026-07-13T09:36:03.637304+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining dense (vector) and sparse (keyword/BM25) retrieval methods for enhanced document search accuracy.
+- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector) and sparse (keyword/BM25) retrieval methods for enhanced document search and context augmentation in LLM responses.
 
-- **NVIDIA AI Workbench Integration**: Demonstrates deployment and optimization of the RAG pipeline using NVIDIA's AI Workbench framework for scalable, GPU-accelerated inference.
+- **NVIDIA AI Workbench Integration**: Showcases deployment and optimization of the RAG system using NVIDIA's AI Workbench, leveraging GPU acceleration (e.g., CUDA, TensorRT) for efficient inference and retrieval.
 
-- **Python-Based Implementation**: Provides a modular Python codebase with dependencies (e.g., `transformers`, `faiss`, `pyserini`) for end-to-end RAG workflows, including retrieval, reranking, and generation stages.
+- **Python-Based Pipeline**: Provides a modular Python codebase with dependencies (e.g., LangChain, FAISS/Annoy for vector search, Pyserini for sparse retrieval) for end-to-end RAG workflows, including indexing, retrieval, and generation.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: NVIDIA
 - Stars: 368
-- Forks: 1007
+- Forks: 1009
 - Language: Python
 - Topics: None
 - Last Updated: 2026-06-30T16:45:55Z

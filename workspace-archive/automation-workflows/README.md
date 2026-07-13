@@ -10,11 +10,11 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
-- [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (template - ESSENTIAL Tier)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
 - [Pinecone · GitHub](https://github.com/pinecone-io) (framework - ESSENTIAL Tier)
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (tutorial - ESSENTIAL Tier)
-- [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (dataset - ESSENTIAL Tier)
+- [langgenius/dify](https://github.com/langgenius/dify) (template - ESSENTIAL Tier)
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
@@ -22,10 +22,10 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 https://github.com/n8n-io/n8n (n8n)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
-- [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
 - [Pinecone · GitHub](https://github.com/pinecone-io)
 - [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+- [langgenius/dify](https://github.com/langgenius/dify)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-07-10 13:34 IST*
+*Last updated: 2026-07-13 09:51 IST*

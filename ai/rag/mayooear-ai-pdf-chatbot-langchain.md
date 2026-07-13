@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mayooear/ai-pdf-chatbot-langchain
-collected_at: '2026-07-10T13:22:42.595012+05:30'
-published_at: '2026-07-10T05:33:06Z'
+collected_at: '2026-07-13T09:39:18.731704+05:30'
+published_at: '2026-07-12T18:28:52Z'
 tags:
 - agents
 - frontend_ui
@@ -14,7 +14,8 @@ tags:
 - rag
 - reddit
 - typescript
-stars: 16567
+- workflows
+stars: 16574
 language: TypeScript
 status: active
 license: MIT
@@ -22,9 +23,9 @@ archived: true
 created_at: '2023-03-17T01:23:26Z'
 pushed_at: '2026-03-27T16:04:05Z'
 resource_id: github:mayooear/ai-pdf-chatbot-langchain
-first_seen: '2026-07-10T13:22:42.595012+05:30'
-last_seen: '2026-07-10T13:22:42.595012+05:30'
-last_checked: '2026-07-10T13:22:42.595012+05:30'
+first_seen: '2026-07-13T09:39:18.731704+05:30'
+last_seen: '2026-07-13T09:39:18.731704+05:30'
+last_checked: '2026-07-13T09:39:18.731704+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: TypeScript-based AI chatbot leveraging LangChain, LangGraph, and Next.js for PDF interaction, with OpenAI integration for natural language processing.
+- **Tech Stack**: TypeScript-based AI PDF chatbot leveraging LangChain for LLM orchestration, LangGraph for agent workflows, and Next.js for the frontend, with OpenAI integration for embeddings/LLM inference.
 
-- **Core Features**: Implements agent-based architecture for dynamic PDF querying, enabling structured document analysis and conversational retrieval.
+- **Core Functionality**: Implements a retrieval-augmented generation (RAG) pipeline to parse, index, and query PDF documents, enabling conversational interaction with document content via vector search and LLM response generation.
 
-- **Scalability**: Supports high-throughput PDF processing with modular components, optimized for real-time LLM-powered interactions.
+- **Architecture**: Uses a modular agent-based design with LangGraph for stateful workflows, supporting dynamic tool invocation (e.g., document parsing, vector DB queries) and real-time chat interactions.
 
 ## Why It Matters
 
@@ -45,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: mayooear
-- Stars: 16567
-- Forks: 3222
+- Stars: 16574
+- Forks: 3224
 - Language: TypeScript
 - Topics: agents, ai, chatbot, langchain, langgraph, nextjs, openai, pdf, typescript
-- Last Updated: 2026-07-10T05:33:06Z
+- Last Updated: 2026-07-12T18:28:52Z
 - License: MIT
 - Archived: Yes
 - Created At: 2023-03-17T01:23:26Z

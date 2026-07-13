@@ -4,25 +4,26 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/trycua/cua
-collected_at: '2026-07-10T13:21:37.588804+05:30'
-published_at: '2026-07-10T07:22:39Z'
+collected_at: '2026-07-13T09:38:13.760098+05:30'
+published_at: '2026-07-13T03:29:51Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - html
 - scripts
-stars: 19524
+stars: 19596
 language: HTML
 status: active
 license: MIT
 archived: false
 created_at: '2025-01-31T15:02:49Z'
-pushed_at: '2026-07-10T03:19:39Z'
+pushed_at: '2026-07-13T00:12:07Z'
 resource_id: github:trycua/cua
-first_seen: '2026-07-10T13:21:37.588804+05:30'
-last_seen: '2026-07-10T13:21:37.588804+05:30'
-last_checked: '2026-07-10T13:21:37.588804+05:30'
+first_seen: '2026-07-13T09:38:13.760098+05:30'
+last_seen: '2026-07-13T09:38:13.760098+05:30'
+last_checked: '2026-07-13T09:38:13.760098+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform desktop automation framework** supporting macOS, Linux, and Windows via containerization (e.g., Windows Sandbox, Apple Virtualization Framework) for AI agent interaction with full desktop environments.
+- **Purpose**: Provides open-source infrastructure for Computer-Use Agents (CUAs), enabling AI agents to control full desktop environments (macOS, Linux, Windows) via sandboxes, SDKs, and benchmarks.
 
-- **Comprehensive SDK and benchmark suite** enabling training/evaluation of Computer-Use Agents (CUAs) with tools for sandboxed execution, virtualization, and desktop control automation.
+- **Key Components**: Includes sandboxing for safe execution, SDKs for agent development, and standardized benchmarks for training/evaluating AI-driven desktop automation.
 
-- **Open-source infrastructure** (HTML-based) with 19.5K+ stars, integrating Lume/Manus for agent orchestration, and designed for extensibility (e.g., Hacktoberfest contributions) in desktop automation research.
+- **Technical Scope**: Supports cross-platform virtualization (macOS via Virtualization Framework, Windows via Sandbox), containerization, and frameworks like Swift (macOS) and Lume (cross-platform).
 
 ## Why It Matters
 
@@ -43,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: trycua
-- Stars: 19524
-- Forks: 1283
+- Stars: 19596
+- Forks: 1290
 - Language: HTML
 - Topics: agent, ai-agent, apple, computer-use, computer-use-agent, containerization, cua, desktop-automation, hacktoberfest, lume, macos, manus, operator, swift, virtualization, virtualization-framework, windows, windows-sandbox
-- Last Updated: 2026-07-10T07:22:39Z
+- Last Updated: 2026-07-13T03:29:51Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-31T15:02:49Z
-- Pushed At: 2026-07-10T03:19:39Z
+- Pushed At: 2026-07-13T00:12:07Z
 
 ## Possible Use Cases
 

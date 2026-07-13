@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-10T13:20:27.461893+05:30'
-published_at: '2026-07-09T23:21:02Z'
+collected_at: '2026-07-13T09:37:03.654003+05:30'
+published_at: '2026-07-13T02:17:29Z'
 tags:
+- dataset
 - github-repo
-- hackernews
 - python
 - rag
-stars: 523
+stars: 524
 language: Python
 status: active
 license: GPL-3.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-10T13:20:27.461893+05:30'
-last_seen: '2026-07-10T13:20:27.461893+05:30'
-last_checked: '2026-07-10T13:20:27.461893+05:30'
+first_seen: '2026-07-13T09:37:03.654003+05:30'
+last_seen: '2026-07-13T09:37:03.654003+05:30'
+last_checked: '2026-07-13T09:37:03.654003+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel graph-based RAG framework that linearizes graph retrieval for large-scale corpora, optimizing efficiency and scalability for LLMs by leveraging linear graph traversal techniques.
-
-- **ICLR 2026 Contribution**: Proposes a method to transform traditional graph-based RAG into a linear retrieval process, reducing computational overhead while maintaining or improving retrieval accuracy for knowledge-intensive tasks.
-
-- **Implementation**: Provides a Python-based open-source repository with tools for graph construction, linear retrieval, and integration with LLMs, supporting large-scale corpora with minimal latency.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a novel RAG framework leveraging linear graph structures for efficient retrieval on large-scale corpora, optimizing both scalability and performance for LLMs.
+- **Graph-Based Retrieval Mechanism**: Introduces a linear graph traversal method to dynamically construct retrieval paths, reducing computational overhead while maintaining high retrieval accuracy.
+- **ICLR 2026 Contribution**: Demonstrates state-of-the-art results in retrieval-augmented generation tasks, with empirical validation on large-scale datasets, outperforming traditional RAG baselines.
 
 ## Why It Matters
 
@@ -42,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: DEEP-PolyU
-- Stars: 523
+- Stars: 524
 - Forks: 60
 - Language: Python
 - Topics: graphrag, llms, rag
-- Last Updated: 2026-07-09T23:21:02Z
+- Last Updated: 2026-07-13T02:17:29Z
 - License: GPL-3.0
 - Archived: No
 - Created At: 2025-10-27T02:16:18Z

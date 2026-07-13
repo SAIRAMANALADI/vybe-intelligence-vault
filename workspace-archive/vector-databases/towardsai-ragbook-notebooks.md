@@ -34,8 +34,10 @@ selection_reason:
 ## Summary
 
 - Repository containing Jupyter Notebooks for the book *"Building LLMs for Production"* by Towards AI, focusing on practical implementations of LLMs in production environments.
-- Covers advanced topics including **LangChain**, **LlamaIndex**, **Retrieval-Augmented Generation (RAG)**, and **multi-agent systems**, with Python-based implementations.
-- Last updated July 9, 2026; 554 stars, 197 forks; structured as hands-on notebooks for deploying and optimizing LLMs in real-world applications.
+
+- Covers key topics including **RAG (Retrieval-Augmented Generation)**, **LangChain**, **LlamaIndex**, and **multi-agent systems**, with Python-based implementations.
+
+- Last updated on **July 9, 2026**, with **554 stars** and **197 forks**, serving as a hands-on resource for deploying LLMs in real-world applications.
 
 ## Use Cases
 

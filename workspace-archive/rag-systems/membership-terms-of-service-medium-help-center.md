@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Subscription Billing & Renewal**: Recurring fees (monthly/annual) auto-renew unless canceled before the next billing cycle; charges occur on the same calendar day as initial purchase, with prorated adjustments for months with fewer days.
+- **Billing & Renewal**: Member Services operate on recurring (monthly/annual) payments, auto-renewing unless canceled before the billing cycle ends. Fees are charged on the same day of the month as the initial payment, with prorated refunds unavailable for partial periods.
 
-- **Payment & Account Management**: Medium charges the stored payment method for fees, taxes, and fluctuations; invalid payment methods trigger immediate service suspension until updated, with potential subscription cancellation after a reasonable period.
+- **License & Restrictions**: Users receive a non-exclusive, personal license for non-commercial use. Violations (e.g., password sharing, reverse-engineering, illegal use) trigger immediate termination without refund per Med
 
 ## Use Cases
 

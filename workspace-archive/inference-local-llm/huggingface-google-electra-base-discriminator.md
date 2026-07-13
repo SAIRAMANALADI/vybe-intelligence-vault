@@ -29,7 +29,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face model: google/electra-base-discriminator (Likes: 136, Downloads: 45261060)
+Trending Hugging Face model: google/electra-base-discriminator (Likes: 138, Downloads: 49780827)
 
 ## Use Cases
 

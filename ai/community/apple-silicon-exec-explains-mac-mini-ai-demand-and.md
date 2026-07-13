@@ -13,13 +13,14 @@ collected_at: '2026-07-10T13:17:22.053233+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:apple-silicon-exec-explains-mac-mini-ai-demand-and
 first_seen: '2026-07-10T13:17:22.053233+05:30'
 last_seen: '2026-07-10T13:17:22.053233+05:30'
 last_checked: '2026-07-10T13:17:22.053233+05:30'
 health_score: 100
 ---
+
 
 # Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future
 

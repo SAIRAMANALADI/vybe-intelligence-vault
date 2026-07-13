@@ -35,9 +35,9 @@ selection_reason:
 
 - **Visual AI Workflow Automation**: Template for building visual AI-driven workflow automation platforms using TypeScript, enabling agent-based task orchestration.
 
-- **Repository Metrics**: 1,162 stars, 224 forks, last updated on 2026-07-07; designed for Vercel deployments with AI workflow capabilities.
+- **Vercel Integration**: Optimized for Vercel deployments, leveraging serverless functions and edge computing for scalable AI workflow execution.
 
-- **Tech Stack & Integration**: Leverages TypeScript and Vercel ecosystem; categorized under AI, agents, and workflow automation.
+- **Modular Architecture**: Pre-configured with reusable components for AI agents, workflow templates, and real-time collaboration, facilitating rapid development of automation pipelines
 
 ## Use Cases
 

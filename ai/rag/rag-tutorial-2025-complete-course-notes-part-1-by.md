@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280
-published_at: '2026-07-10T13:18:53.654211+05:30'
-collected_at: '2026-07-10T13:18:53.654228+05:30'
+published_at: '2026-07-13T09:35:27.838090+05:30'
+collected_at: '2026-07-13T09:35:27.838104+05:30'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
-first_seen: '2026-07-10T13:18:53.654228+05:30'
-last_seen: '2026-07-10T13:18:53.654228+05:30'
-last_checked: '2026-07-10T13:18:53.654228+05:30'
+first_seen: '2026-07-13T09:35:27.838104+05:30'
+last_seen: '2026-07-13T09:35:27.838104+05:30'
+last_checked: '2026-07-13T09:35:27.838104+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Core Architecture**: Combines LLMs with external retrieval systems to fetch relevant context (e.g., documents) dynamically, bypassing context window limits (e.g., GPT-4.1: 1M tokens) by injecting only pertinent chunks (~1K tokens each) into prompts.
+- **RAG Architecture**: RAG combines LLMs with retrieval systems to fetch relevant external information (e.g., documents, databases) dynamically, addressing context window limitations (e.g., GPT-4.1: 1M tokens, GPT-5: 400K tokens) and avoiding prompt overload by injecting only pertinent chunks into the LLM.
 
-- **Embedding Pipeline**: Chunks source data (e.g., 10M tokens → 10K chunks) via embedding models (e.g., OpenAI’s `text-embedding-3-large` with 3,072 dimensions) to generate vector representations, stored in vector databases (e.g., Pinecone, FAISS) for semantic similarity search.
+- **Vector Embeddings & Pipeline**: Documents are chunked (e.g., 1,000 tokens/segment), converted into high-dimensional embeddings (e.g., OpenAI’s 3,072-dim vectors) via embedding models (e.g., `text-embedding-3-large`), and stored in vector databases (e.g., Pinecone, FAISS). User queries undergo identical embedding before semantic similarity matching retrieves top-*k* relevant chunks.
 
-- **Retrieval & Generation**: User queries are embedded and matched against vector DB to retrieve top-*k* relevant chunks (e.g., via cosine similarity), which are then passed to the LLM for answer synthesis, optimizing for precision while minimizing token overhead.
+- **Retrieval & Generation**: The retriever uses similarity algorithms (e.g., cosine distance) to rank chunks by relevance to the query, passing the top results to the LLM for answer synthesis. Vector embeddings are solely for retrieval; post-retrieval processing relies on raw text chunks.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-10T13:18:53.654211+05:30
+- Published: 2026-07-13T09:35:27.838090+05:30
 
 ## Related Tags
 

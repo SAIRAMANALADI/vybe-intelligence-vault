@@ -8,16 +8,17 @@ local_vault_path: ai/rag/weaviate-vector-database-youtube.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - hackernews
 - rag
+- reddit
 - web-crawled
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Weaviate vector database - YouTube
@@ -26,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, monetization, and live streaming, with a global reach of over 2 billion logged-in users monthly.
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization (via YouTube Partners/Advertisers), and creator tools (YouTube Studio, YouTube Music, YouTube Kids).
 
-- **Technical Infrastructure**: Utilizes Google's distributed systems for video transcoding, storage, and delivery, leveraging AI for recommendations, content moderation, and ad targeting via the Weaviate vector database for semantic search and contextual understanding.
+- **Technical Infrastructure**: Utilizes Google’s CDN and AI-driven recommendation algorithms (e.g., deep neural networks) to optimize video delivery, personalization, and content discovery across global users (~2.7B monthly active users).
 
-- *
+- **Po
 
 ## Use Cases
 

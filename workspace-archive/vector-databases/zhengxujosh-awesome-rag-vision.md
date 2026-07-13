@@ -11,8 +11,6 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
-- dataset
 - github-repo
 - hackernews
 - rag
@@ -33,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated resource**: A structured collection of advanced RAG techniques specifically tailored for Computer Vision applications, including multimodal retrieval and generation methods.
-- **Repository metrics**: 337 stars, 9 forks, last updated July 8, 2026, with no explicit primary language or topic tags.
-- **Focus areas**: Encompasses cutting-edge RAG frameworks, datasets, and evaluation tools for integrating vision-language models (e.g., CLIP, BLIP) with retrieval mechanisms.
+- **Curated Resource**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques specifically for **Computer Vision (CV)**, including methods integrating vision-language models (VLMs) and multimodal retrieval.
+- **Metadata**: 338 stars, 9 forks, last updated **July 12, 2026**; language unspecified (likely Python-based given CV/RAG context).
+- **Focus Areas**: Encompasses **multimodal RAG**, **visual question answering (VQA)**,
 
 ## Use Cases
 

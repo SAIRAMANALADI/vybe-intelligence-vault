@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-07-10T13:20:27.449729+05:30'
+collected_at: '2026-07-13T09:37:03.674230+05:30'
 published_at: '2026-07-10T07:35:58Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-07-10T13:20:27.449729+05:30'
-last_seen: '2026-07-10T13:20:27.449729+05:30'
-last_checked: '2026-07-10T13:20:27.449729+05:30'
+first_seen: '2026-07-13T09:37:03.674230+05:30'
+last_seen: '2026-07-13T09:37:03.674230+05:30'
+last_checked: '2026-07-13T09:37:03.674230+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents for Graph RAG**: Introduces a novel framework integrating hierarchical agent systems with Graph Retrieval-Augmented Generation (GraphRAG) to enhance complex reasoning by leveraging graph-structured knowledge for improved context retrieval and multi-step reasoning.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, verification) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for contextual augmentation.
 
-- **Multi-Layered Agent Architecture**: Implements a vertically unified agent system with specialized layers (e.g., retrieval, reasoning, and planning agents) that dynamically interact to decompose, retrieve, and synthesize information from graph-based knowledge sources, optimizing performance for complex queries.
+- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Extends traditional RAG by integrating graph-based knowledge representations (e.g., knowledge graphs, heterogeneous networks) to enhance LLM reasoning with structured, multi-hop relational context.
 
-- **Graph-Centric Knowledge Integration**: Utilizes graph neural networks (GNNs) and graph databases to represent and retrieve structured knowledge, enabling efficient traversal and contextual augmentation for large language models (LLMs) to perform advanced reasoning tasks.
+- **ICLR 2026 Contribution**: Proposes a vertically integrated agent system optimized for graph-augmented reasoning, demonstrating state-of-the-art performance on complex tasks (e.g., multi-document QA, logical inference) via Python-based implementation.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/workflow-builder-template
-collected_at: '2026-07-10T04:18:25.941346+05:30'
-published_at: '2026-07-07T18:48:37Z'
+collected_at: '2026-07-13T09:37:33.727096+05:30'
+published_at: '2026-07-10T21:32:05Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - scripts
 - typescript
 - workflows
-stars: 1162
+stars: 1163
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-11-03T17:14:16Z'
 pushed_at: '2026-01-13T08:27:13Z'
 resource_id: github:vercel-labs/workflow-builder-template
-first_seen: '2026-07-10T04:18:25.941346+05:30'
-last_seen: '2026-07-10T04:18:25.941346+05:30'
-last_checked: '2026-07-10T04:18:25.941346+05:30'
+first_seen: '2026-07-13T09:37:33.727096+05:30'
+last_seen: '2026-07-13T09:37:33.727096+05:30'
+last_checked: '2026-07-13T09:37:33.727096+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 - **Visual AI Workflow Automation**: Template for building visual AI-driven workflow automation platforms using TypeScript, enabling agent-based task orchestration.
 
-- **Repository Metrics**: 1,162 stars, 224 forks, last updated on 2026-07-07; designed for Vercel deployments with AI workflow capabilities.
+- **Vercel Integration**: Optimized for Vercel deployments, leveraging serverless functions and edge computing for scalable AI workflow execution.
 
-- **Tech Stack & Integration**: Leverages TypeScript and Vercel ecosystem; categorized under AI, agents, and workflow automation.
+- **Modular Architecture**: Pre-configured with reusable components for AI agents, workflow templates, and real-time collaboration, facilitating rapid development of automation pipelines.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 1162
-- Forks: 224
+- Stars: 1163
+- Forks: 226
 - Language: TypeScript
 - Topics: agents, ai, workflows
-- Last Updated: 2026-07-07T18:48:37Z
+- Last Updated: 2026-07-10T21:32:05Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-11-03T17:14:16Z

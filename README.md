@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-54%2C517-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-56%2C055-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--13-374151?style=flat-square)](#)
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 11,079</p>
-        <p><b>Active:</b> 10,822 | <b>Inactive:</b> 257</p>
+        <p><b>Resources tracked:</b> 11,379</p>
+        <p><b>Active:</b> 11,116 | <b>Inactive:</b> 263</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 43,438</p>
+        <p><b>Archive Files:</b> 44,676</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 54,517 files</p>
-        <p><b>Last Update:</b> 2026-07-13 08:04 IST</p>
+        <p><b>Total Vault Size:</b> 56,055 files</p>
+        <p><b>Last Update:</b> 2026-07-13 09:52 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,20 +210,29 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+6</kbd>
-- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+6</kbd>
-- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+6</kbd>
-- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+4</kbd>
+- 🔼 **[Configure security](ai/resources/configure-security.md)** • Rank: <kbd>+1333</kbd>
+- 🔼 **[Streamlined Arbitration Rules & Procedures | JAMS Mediation, Arbitration, ADR Services](ai/rag/streamlined-arbitration-rules-procedures-jams-medi.md)** • Rank: <kbd>+803</kbd>
+- 🔼 **[LangChain Blog](ai/rag/langchain-blog.md)** • Rank: <kbd>+3162</kbd>
+- 🔼 **[Sign in - Google Accounts](ai/resources/sign-in-google-accounts.md)** • Rank: <kbd>+720</kbd>
+- 🔼 **[Watch NFL Sunday Ticket on YouTube TV - YouTube TV Help](ai/resources/watch-nfl-sunday-ticket-on-youtube-tv-youtube-tv-h.md)** • Rank: <kbd>+1209</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[I love LLMs, I hate hype](ai/community/i-love-llms-i-hate-hype.md)** • Score: `359`
+- 🆕 **[Ask HN: Add flag for AI-generated articles](ai/community/ask-hn-add-flag-for-ai-generated-articles.md)** • Score: `183`
+- 🆕 **[Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper](ai/community/migrating-a-production-ai-agent-to-gpt-5-6-2-2x-fa.md)** • Score: `154`
+- 🆕 **[I Learned to Read Again](ai/community/i-learned-to-read-again.md)** • Score: `113`
+- 🆕 **[Against Usefulness](ai/community/against-usefulness.md)** • Score: `92`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[John Deere owners will get the right to repair equipment under FTC settlement](ai/community/john-deere-owners-will-get-the-right-to-repair-equ.md)**
+- 💤 **[Train sim created by just one person is being called the best ever made](ai/community/train-sim-created-by-just-one-person-is-being-call.md)**
+- 💤 **[Girls just wanna have fast MPMC queues with bounded waiting](ai/community/girls-just-wanna-have-fast-mpmc-queues-with-bounde.md)**
+- 💤 **[Building a real-time AI tutor for 5-year-olds](ai/community/building-a-real-time-ai-tutor-for-5-year-olds.md)**
+- 💤 **[Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future](ai/community/apple-silicon-exec-explains-mac-mini-ai-demand-and.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

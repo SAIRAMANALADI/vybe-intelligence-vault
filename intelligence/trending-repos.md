@@ -11,8 +11,6 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [study8677/antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) | `ai-coding-agents/` | 70 |
 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | `ai-coding-agents/` | 70 |
 | [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) | `ai-coding-agents/` | 70 |
-| [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) | `ai-coding-agents/` | 70 |
-| [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials) | `ai-coding-agents/` | 70 |
 | [wxmb01/codex-app-autonomous-runs](https://github.com/wxmb01/codex-app-autonomous-runs) | `ai-coding-agents/` | 70 |
 | [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) | `ai-coding-agents/` | 70 |
 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `ai-coding-agents/` | 70 |
@@ -29,5 +27,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) | `ai-coding-agents/` | 70 |
 | [ilexistools/agents-sdk-templates](https://github.com/ilexistools/agents-sdk-templates) | `ai-coding-agents/` | 70 |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | `ai-coding-agents/` | 70 |
+| [Zijian-Ni/awesome-ai-agents-2026](https://github.com/Zijian-Ni/awesome-ai-agents-2026) | `ai-coding-agents/` | 70 |
+| [aden-hive/hive](https://github.com/aden-hive/hive) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

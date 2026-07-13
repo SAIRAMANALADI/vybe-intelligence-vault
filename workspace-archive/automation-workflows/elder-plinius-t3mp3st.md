@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Offensive Security Framework**: TypeScript-based autonomous red teaming platform enabling coordinated multi-agent offensive operations with AI-driven attack orchestration.
+- **Multi-Agent Offensive Security Framework**: Autonomous red teaming platform leveraging AI-driven agents for coordinated penetration testing, vulnerability assessment, and adversarial simulation in TypeScript.
 
-- **Dynamic Attack Meta-Harness**: Integrates modular offensive-security tools and techniques, allowing adaptive red team simulations with real-time agent collaboration and decision-making.
+- **Modular Meta-Harness Architecture**: Dynamic plugin-based system enabling extensible agent interactions, custom tool integration, and adaptive offensive workflows for real-world security engagements.
 
-- **Autonomous Red Teaming Engine**: Executes autonomous penetration testing workflows, leveraging AI agents to simulate
+- **Real-Time Threat Emulation**: Autonomous agent orchestration with adaptive le
 
 ## Use Cases
 

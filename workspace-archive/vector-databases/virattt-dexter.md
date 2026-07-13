@@ -8,13 +8,13 @@ local_vault_path: ai/rag/virattt-dexter.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: dataset
 importance: medium
 tags:
 - agents
+- dataset
 - github-repo
 - rag
-- scripts
 - typescript
 selection_reason:
 - Active open-source repository
@@ -26,15 +26,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: dataset
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Autonomous Financial Research Agent**: Dexter is an autonomous AI agent designed to perform deep financial research, leveraging TypeScript for execution and automation.
-- **High Scalability & Modularity**: The repository structure suggests a modular design, enabling extensibility for financial data analysis, NLP-driven insights, and automated report generation.
-- **Active Development & Community Engagement**: With 27K+ stars and 3K+ forks, Dexter indicates strong community interest, and the
+- **Autonomous Deep Research Agent**: Dexter is a TypeScript-based autonomous agent designed for deep financial research, leveraging AI to autonomously gather, analyze, and synthesize financial data without manual intervention.
+
+- **High Scalability & Modularity**: The repository structure suggests a modular architecture, enabling extensibility for custom financial datasets, APIs, or research methodologies while maintaining scalability for large-scale data processing.
+
+- **Real-Time & Scheduled
 
 ## Use Cases
 

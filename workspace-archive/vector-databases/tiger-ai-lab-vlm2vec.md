@@ -13,7 +13,6 @@ importance: medium
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - youtube
@@ -33,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Version VLM Embedding Benchmarks**: Hosts three evolving benchmarks—VLM2Vec/MMEB (ICLR 2025), VLM2Vec-V2/MMEB-V2 (TMLR 2026), and MMEB-V3 (COLM 2026)—for evaluating Vision-Language Model (VLM) embeddings across tasks like image/video/document retrieval and multimodal representation learning.
+- **Multi-Version Benchmarking Suite**: Hosts three evolving benchmarks—VLM2Vec (ICLR 2025), VLM2Vec-V2 (TMLR 2026), and MMEB-V3 (COLM 2026)—for evaluating Vision-Language Models (VLMs) across multimodal tasks including image, video, and visual document retrieval.
 
-- **Contrastive Learning Framework**: Implements contrastive learning techniques to generate high-quality multimodal embeddings, enabling zero-shot and fine-tuned evaluation across diverse retriev
+- **Contrastive Learning Framework**: Implements contrastive learning-based representation learning for VLMs, enabling robust embeddings optimized for multimodal retrieval and RAG (Retrieval-Augmented Generation) applications.
+
+- **Py
 
 ## Use Cases
 

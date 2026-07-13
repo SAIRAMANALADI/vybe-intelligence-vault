@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Framework for evaluating large language models (LLMs), implementing guardrails, and ensuring LLM security within Python-based workflows.
-- **Key Features**: Supports LLM evaluation metrics, real-time guardrails for safety/compliance, and security hardening for LLM deployments.
-- **Integration**: Designed for LLM operations (LLMOps) with modular architecture for extensibility in production environments.
+- **Framework Purpose**: Provides tools for evaluating Large Language Models (LLMs), implementing guardrails, and ensuring LLM security within Python-based workflows.
+- **Core Features**: Supports LLM evaluation metrics, real-time guardrail mechanisms, and security protocols to mitigate risks like prompt injection and data leakage.
+- **Integration & Use Cases**: Designed for LLM operations (LLMOps) with modular components for deployment in production environments, emphasizing scalability and com
 
 ## Use Cases
 

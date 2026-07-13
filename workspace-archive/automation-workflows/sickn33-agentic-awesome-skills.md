@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Skill Library**: Repository hosting 1,900+ installable agentic skills for AI coding tools (Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity) and MCP-based systems, with specialized plugins and workflows.
+- **Comprehensive Skill Library**: Repository offering 1,900+ installable agentic skills for AI coding tools (Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity) with specialized plugins, workflows, and both official/community skill collections.
 
-- **Multi-Tool Integration**: Supports official and community skill collections, installer CLI, and bundled workflows, enabling cross-platform AI agent automation across Python-based development environments.
+- **Multi-Tool Integration**: Supports diverse AI agent ecosystems (MCP, Kiro) and includes an installer CLI, skill bundles, and predefined workflows for rapid deployment and automation.
 
-- **High Adoption Metrics**: 42,754 stars and
+- **Python-Based & Highly Active**: Entirely
 
 ## Use Cases
 

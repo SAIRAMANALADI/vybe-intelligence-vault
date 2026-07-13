@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Repository hosting 300+ agentic AI resources, including frameworks, libraries, and research papers focused on autonomous AI agents.
-- **Technical Scope**: Primarily Python-based, covering agent architectures, multi-agent systems, and agentic workflows with emphasis on scalability and modularity.
-- **Community Metrics**: 1,615 stars and 431 forks (as of last update: 2026-07-08), indicating active community engagement and contribution.
+- **Curated Repository**: GitHub repository `slavakurilyak/awesome-ai-agents` containing 300+ high-quality resources focused on agentic AI systems, including frameworks, tools, research papers, and tutorials.
+- **Technical Metadata**: Primarily Python-based, with 1,822 stars and 458 forks, last updated on **2026-07-13**, indicating active maintenance and community engagement.
+- **Scope & Utility**: Aggregates cutting-edge resources on AI agents, covering multi-agent systems, autonomous agents, a
 
 ## Use Cases
 

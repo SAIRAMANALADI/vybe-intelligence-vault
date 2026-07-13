@@ -14,6 +14,7 @@ tags:
 - agents
 - github-repo
 - rag
+- scripts
 - typescript
 selection_reason:
 - Strong keyword match
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Serverless Architecture**: Implements a fully self-hosted email client leveraging Cloudflare Workers for serverless execution, eliminating traditional backend infrastructure.
+- **Architecture**: Self-hosted email client leveraging Cloudflare Workers for serverless execution, enabling low-latency, globally distributed processing with TypeScript-based AI agent integration.
 
-- **AI Agent Integration**: Embeds an AI agent within the email client, enabling automated processing, summarization, and response generation directly within the Cloudflare ecosystem.
+- **Core Features**: Real-time email processing, AI-driven filtering/automation, and end-to-end TypeScript implementation optimized for Cloudflare’s edge network.
 
-- **TypeScript-Based**: Entirely developed in TypeScript, utilizing Cloudflare’s Workers runtime for high-performance, edge-computing e
+- **Deployment**: Fully containerized (via Wrangler) for seamless Cloudflare Workers deployment, with no external dependencies beyond Cl
 
 ## Use Cases
 

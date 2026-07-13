@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ritik-prog/n8n-automation-templates-5000
-collected_at: '2026-07-10T13:19:12.328835+05:30'
-published_at: '2026-07-09T05:55:23Z'
+collected_at: '2026-07-13T09:35:48.539170+05:30'
+published_at: '2026-07-12T13:30:01Z'
 tags:
 - github-repo
 - rag
 - scripts
 - unknown
 - workflows
-stars: 424
+stars: 431
 language: Unknown
 status: active
 license: MIT
 archived: false
 created_at: '2025-08-05T16:00:00Z'
-pushed_at: '2026-04-29T05:59:09Z'
+pushed_at: '2026-07-10T11:27:53Z'
 resource_id: github:ritik-prog/n8n-automation-templates-5000
-first_seen: '2026-07-10T13:19:12.328835+05:30'
-last_seen: '2026-07-10T13:19:12.328835+05:30'
-last_checked: '2026-07-10T13:19:12.328835+05:30'
+first_seen: '2026-07-13T09:35:48.539170+05:30'
+last_seen: '2026-07-13T09:35:48.539170+05:30'
+last_checked: '2026-07-13T09:35:48.539170+05:30'
 health_score: 100
 ---
 
@@ -31,8 +31,8 @@ health_score: 100
 ## Summary
 
 - **Repository**: `ritik-prog/n8n-automation-templates-5000` hosts **5000+ production-ready n8n workflow templates** covering AI, CRM, finance, e-commerce, marketing, and RAG automation.
-- **Metadata**: **424 stars**, **168 forks**, last updated **2026-07-09**; language unspecified, no topics listed.
-- **Access**: **Free and open-source** templates available via GitHub.
+- **Metrics**: **431 stars**, **168 forks**, last updated **2026-07-12T13:30:01Z**.
+- **Access**: **Free and open-source**, language unspecified, no additional topics listed.
 
 ## Why It Matters
 
@@ -41,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ritik-prog
-- Stars: 424
+- Stars: 431
 - Forks: 168
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-09T05:55:23Z
+- Last Updated: 2026-07-12T13:30:01Z
 - License: MIT
 - Archived: No
 - Created At: 2025-08-05T16:00:00Z
-- Pushed At: 2026-04-29T05:59:09Z
+- Pushed At: 2026-07-10T11:27:53Z
 
 ## Possible Use Cases
 

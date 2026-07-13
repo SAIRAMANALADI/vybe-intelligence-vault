@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-07-10T13:20:22.465565+05:30'
-published_at: '2026-07-07T17:41:17Z'
+collected_at: '2026-07-13T09:36:58.686040+05:30'
+published_at: '2026-07-11T01:00:06Z'
 tags:
+- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -22,9 +23,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-07-10T13:20:22.465565+05:30'
-last_seen: '2026-07-10T13:20:22.465565+05:30'
-last_checked: '2026-07-10T13:20:22.465565+05:30'
+first_seen: '2026-07-13T09:36:58.686040+05:30'
+last_seen: '2026-07-13T09:36:58.686040+05:30'
+last_checked: '2026-07-13T09:36:58.686040+05:30'
 health_score: 100
 ---
 
@@ -32,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based LLM Production Guide**: Provides a structured approach to deploying Retrieval-Augmented Generation (RAG) models in production using Ray, covering end-to-end workflows from fine-tuning to serving.
-- **Multi-Framework Integration**: Demonstrates integration with Llama2, OpenAI, and Anyscale, leveraging Ray for scalable model serving and distributed inference.
-- **Notebook-Based Implementation**: Includes Jupyter Notebooks for hands-on examples, focusing on practical deployment strategies for machine learning applications.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2, OpenAI, and Anyscale models with optimized retrieval mechanisms.
+
+- **Fine-Tuning & Serving Optimization**: Provides Jupyter Notebook-based guides for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve for low-latency, scalable inference in production environments.
+
+- **Multi-Model & Tooling Support**: Includes examples leveraging OpenAI APIs, Anyscale endpoints, and custom fine-tuned models, with Ray’s ecosystem for orchestration, monitoring, and performance benchmarking.
 
 ## Why It Matters
 
@@ -47,7 +50,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 255
 - Language: Jupyter Notebook
 - Topics: anyscale, fine-tuning, llama2, llms, machine-learning, openai, ray, serving
-- Last Updated: 2026-07-07T17:41:17Z
+- Last Updated: 2026-07-11T01:00:06Z
 - License: CC-BY-4.0
 - Archived: No
 - Created At: 2023-08-16T04:41:26Z

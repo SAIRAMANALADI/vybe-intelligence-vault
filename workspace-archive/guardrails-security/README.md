@@ -24,8 +24,8 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security)
 - [olegnazarov/rag-security-scanner](https://github.com/olegnazarov/rag-security-scanner)
-- [sbalnojan/ai-chaos-awesome](https://github.com/sbalnojan/ai-chaos-awesome)
 - [raga-ai-hub/raga-llm-hub](https://github.com/raga-ai-hub/raga-llm-hub)
+- [sbalnojan/ai-chaos-awesome](https://github.com/sbalnojan/ai-chaos-awesome)
 - [adisystems/fmbench-assistant](https://github.com/adisystems/fmbench-assistant)
 
 ## Best Learning Resources
@@ -44,4 +44,4 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 
 ---
 
-*Last updated: 2026-07-10 13:34 IST*
+*Last updated: 2026-07-13 09:51 IST*

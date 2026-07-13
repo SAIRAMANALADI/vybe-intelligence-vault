@@ -13,13 +13,14 @@ collected_at: '2026-07-10T13:17:23.699706+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:john-deere-owners-will-get-the-right-to-repair-equ
 first_seen: '2026-07-09T09:45:05.404239+05:30'
 last_seen: '2026-07-10T13:17:23.699706+05:30'
 last_checked: '2026-07-10T13:17:23.699706+05:30'
 health_score: 100
 ---
+
 
 # John Deere owners will get the right to repair equipment under FTC settlement
 

@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVISOsecurity/cyber-security-llm-agents
-collected_at: '2026-07-10T04:19:26.001865+05:30'
+collected_at: '2026-07-13T09:38:33.773704+05:30'
 published_at: '2026-07-09T15:59:10Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - workflows
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-02-29T09:54:26Z'
 pushed_at: '2024-05-07T15:31:28Z'
 resource_id: github:nvisosecurity/cyber-security-llm-agents
-first_seen: '2026-07-10T04:19:26.001865+05:30'
-last_seen: '2026-07-10T04:19:26.001865+05:30'
-last_checked: '2026-07-10T04:19:26.001865+05:30'
+first_seen: '2026-07-13T09:38:33.773704+05:30'
+last_seen: '2026-07-13T09:38:33.773704+05:30'
+last_checked: '2026-07-13T09:38:33.773704+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Repository contains LLM-based agents designed to automate routine cybersecurity tasks (e.g., adversary emulation) using frameworks like **CALDERA**.
-- **Technical Stack**: Implemented in **Jupyter Notebooks**, leveraging LLMs for infosec workflows (e.g., threat detection, red teaming).
-- **Scope**: Covers adversary emulation, AI-driven cybersecurity, and integrates with **CALDERA** for attack simulation. Last updated **2026-07-09**.
+- **LLM-Driven Cybersecurity Agents**: Repository contains Jupyter Notebook-based agents leveraging Large Language Models (LLMs) to automate routine cybersecurity tasks, including adversary emulation and red teaming.
+
+- **Integration with CALDERA**: Agents are designed to interact with CALDERA, an open-source adversary emulation platform, enabling automated attack simulation and security testing workflows.
+
+- **Modular & Extensible**: Framework supports customization for diverse cybersecurity use cases, with modular components for integrating additional tools and adapting to evolving threat landscapes.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-07-10T13:19:42.371120+05:30'
+collected_at: '2026-07-13T09:36:18.594469+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-07-10T13:19:42.371120+05:30'
-last_seen: '2026-07-10T13:19:42.371120+05:30'
-last_checked: '2026-07-10T13:19:42.371120+05:30'
+first_seen: '2026-07-13T09:36:18.594469+05:30'
+last_seen: '2026-07-13T09:36:18.594469+05:30'
+last_checked: '2026-07-13T09:36:18.594469+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of AI Q&A Systems**: Demonstrates Spring AI integration with Alibaba Cloud services, featuring **Server-Sent Events (SSE) streaming**, **Agent-based workflows**, and **Retrieval-Augmented Generation (RAG)** with knowledge graphs for dynamic responses.
-
-- **Multi-Modal Capabilities**: Supports **image generation/understanding**, **function calling**, and **historical message management** via embeddings and vector databases (e.g., Chroma, Milvus) for contextual RAG.
-
-- **Technical Stack**: Leverages **Java-based Spring AI**, **Alibaba Cloud SDKs**, and **vector search** (e.g., FAISS, Weaviate) for embedding storage/retrieval, optimized for low-latency AI agent interactions.
+- **Implementation**: Demonstrates Spring AI integration with Alibaba Cloud services, featuring SSE streaming, Agent-based workflows, and RAG with knowledge graphs.
+- **Capabilities**: Supports function calling, historical message handling, image generation/understanding, embedding, vector databases, and advanced RAG pipelines.
+- **Technical Stack**: Java-based, leveraging embedding models, vector databases, and multimodal AI (text/image) for end-to-end AI Q&A systems.
 
 ## Why It Matters
 

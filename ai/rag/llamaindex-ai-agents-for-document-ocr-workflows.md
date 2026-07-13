@@ -3,9 +3,9 @@ title: LlamaIndex | AI Agents for Document OCR + Workflows
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.llamaindex.ai
-published_at: '2026-07-09T01:32:18.586779+05:30'
-collected_at: '2026-07-09T01:32:18.586794+05:30'
+source_url: https://www.llamaindex.ai/
+published_at: '2026-07-13T09:39:44.291072+05:30'
+collected_at: '2026-07-13T09:39:44.291087+05:30'
 tags:
 - agents
 - benchmark
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-07-09T01:32:18.586794+05:30'
-last_seen: '2026-07-09T01:32:18.586794+05:30'
-last_checked: '2026-07-09T01:32:18.586794+05:30'
+first_seen: '2026-07-13T09:39:44.291087+05:30'
+last_seen: '2026-07-13T09:39:44.291087+05:30'
+last_checked: '2026-07-13T09:39:44.291087+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR & VLM Integration**: LlamaParse leverages Vision-Language Models (VLM) for layout-aware document parsing, enabling automated extraction of structured data from complex documents (tables, charts, handwriting) with semantic understanding and recursive error correction loops.
+- **Agentic OCR & Structured Extraction**: LlamaParse leverages Vision-Language Models (VLMs) for layout-aware document parsing, enabling structured extraction of schemas (e.g., tables, charts, handwritten text) with 10,000 free credits/month (~1,000 pages) via its cloud API.
 
-- **Enterprise-Grade Features**: Supports 50+ unstructured file types, schema-based extraction, document classification, and enterprise-grade chunking/embedding pipelines optimized for high-precision RAG deployments with 99.9% uptime and SOC2/HIPAA/GDPR compliance.
+- **Multi-Stage Validation Pipeline**: Implements recursive auto-correction loops (agentic understanding → specialized experts → error detection/fixing) to ensure high pass-through rates on complex, multi-modal documents (e.g., dense tables, handwritten notes).
 
-- **Scalable Deployment Options**: Offers a free tier (10K credits/month), open-source LiteParse for local processing, and flexible deployment models (cloud or VPC) with dedicated SLAs and support for mission-critical AI workloads.
+- **Enterprise-Grade Performance**: Benchmarked against proprietary/VLM/commercial OCR tools, LlamaParse delivers superior accuracy in parsing, chart/table extraction, and retrieval-augmented generation (RAG) with 99.9% uptime, SOC2/GDPR compliance, and flexible VPC/cloud deployment.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T01:32:18.586779+05:30
+- Published: 2026-07-13T09:39:44.291072+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.llamaindex.ai
+Original source: https://www.llamaindex.ai/

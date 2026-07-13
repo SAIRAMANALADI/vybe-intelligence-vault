@@ -1,6 +1,6 @@
 # Latest Vault Update
 
-Last Synchronized: 2026-07-13 08:04 IST
-Latest Resource Ingested: 2026-07-10T13:33:35.167724+05:30
-Total Active Resources: 10822
-Total Inactive Resources: 257
+Last Synchronized: 2026-07-13 09:52 IST
+Latest Resource Ingested: 2026-07-13T09:49:35.298470+05:30
+Total Active Resources: 11116
+Total Inactive Resources: 263

@@ -35,12 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: FAISS (Facebook AI Similarity Search) is a C++ library optimized for efficient similarity search and clustering of dense vectors, leveraging approximate nearest neighbor search techniques to handle large-scale datasets.
+- **Core Functionality**: FAISS (Facebook AI Similarity Search) is a C++ library optimized for efficient similarity search and clustering of dense vectors, leveraging approximate nearest neighbor (ANN) techniques to handle large-scale datasets with high performance.
 
-- **Key Features**:
-  - Supports exact and approximate nearest neighbor search via indexes like IVF, HNSW, and PQ.
-  - Implements GPU-accelerated search via CUDA for high-performance vector operations.
-  - Provides Python and C++ APIs for integration with machine
+- **Key Features**: Supports both exact and approximate nearest neighbor search, along with clustering (e.g., k-means) and indexing methods like IVF (Inverted File Index), PQ (Product Quantization), and HNSW (Hierarchical Navigable
 
 ## Use Cases
 

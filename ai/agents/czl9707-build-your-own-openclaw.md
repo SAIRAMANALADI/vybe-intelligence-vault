@@ -4,24 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/czl9707/build-your-own-openclaw
-collected_at: '2026-07-07T04:12:11.968607+05:30'
-published_at: '2026-07-06T21:03:37Z'
+collected_at: '2026-07-13T09:37:28.652812+05:30'
+published_at: '2026-07-12T14:59:31Z'
 tags:
 - agents
 - github-repo
 - python
-- workflows
-stars: 1780
+stars: 1804
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2026-03-11T02:47:02Z'
-pushed_at: '2026-06-28T12:49:25Z'
+pushed_at: '2026-07-08T00:16:40Z'
 resource_id: github:czl9707/build-your-own-openclaw
-first_seen: '2026-07-07T04:12:11.968607+05:30'
-last_seen: '2026-07-07T04:12:11.968607+05:30'
-last_checked: '2026-07-07T04:12:11.968607+05:30'
+first_seen: '2026-07-13T09:37:28.652812+05:30'
+last_seen: '2026-07-13T09:37:28.652812+05:30'
+last_checked: '2026-07-13T09:37:28.652812+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Agent Architecture**: Provides a Python-based framework for constructing an AI agent with customizable components (e.g., memory, tools, reasoning modules) using OpenCLaw’s modular design principles.
-
-- **Step-by-Step Implementation Guide**: Includes detailed tutorials for integrating large language models (LLMs) with agentic workflows, covering environment setup, API interactions, and agent orchestration.
-
-- **Extensible Tool Integration**: Demonstrates how to extend agent capabilities via Python-based toolchains (e.g., web search, code execution) with hooks for custom logic and error handling.
+*   Provides a Python-centric, step-by-step guide for AI agent construction.
+*   Focuses on practical implementation of LLM-driven agent architectures.
+*   Offers a "build-your-own" methodology for developing custom AI agents.
 
 ## Why It Matters
 
@@ -42,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: czl9707
-- Stars: 1780
-- Forks: 314
+- Stars: 1804
+- Forks: 318
 - Language: Python
 - Topics: ai-agent, build-your-own-x, llm, python, tutorial
-- Last Updated: 2026-07-06T21:03:37Z
+- Last Updated: 2026-07-12T14:59:31Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-11T02:47:02Z
-- Pushed At: 2026-06-28T12:49:25Z
+- Pushed At: 2026-07-08T00:16:40Z
 
 ## Possible Use Cases
 

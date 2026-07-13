@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-07-10T13:21:07.563330+05:30'
-published_at: '2026-07-10T01:46:24Z'
+collected_at: '2026-07-13T09:37:43.692383+05:30'
+published_at: '2026-07-12T16:47:28Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
-stars: 6476
+stars: 6479
 language: Python
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-07-10T13:21:07.563330+05:30'
-last_seen: '2026-07-10T13:21:07.563330+05:30'
-last_checked: '2026-07-10T13:21:07.563330+05:30'
+first_seen: '2026-07-13T09:37:43.692383+05:30'
+last_seen: '2026-07-13T09:37:43.692383+05:30'
+last_checked: '2026-07-13T09:37:43.692383+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source context retrieval layer designed to enhance AI agents with dynamic, real-time data access via semantic search and retrieval-augmented generation (RAG).
+- **Open-source context retrieval layer** for AI agents, enabling semantic search and retrieval-augmented generation (RAG) via Python SDK/API.
 
-- **Key Features**: Supports enterprise data integration, semantic search, and API-driven context retrieval; includes SDK for developer extensibility and pre-built data connectors.
+- **Enterprise data integration** with connectors for structured/unstructured data, supporting semantic search and context-aware retrieval for LLMs.
 
-- **Technical Stack**: Python-based, optimized for LLM integration, and structured for scalable, low-latency information retrieval in agentic workflows.
+- **Scalable infrastructure** with API-based retrieval, search optimization, and modular design for AI agent workflows.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: airweave-ai
-- Stars: 6476
-- Forks: 814
+- Stars: 6479
+- Forks: 813
 - Language: Python
 - Topics: agent-infrastructure, ai, ai-agents, ai-infrastructure, api, context-retrieval, data-connectors, developer-tools, enterprise-data, information-retrieval, integration, llm, open-source, rag, retrieval, retrieval-augmented-generation, sdk, search, search-api, semantic-search
-- Last Updated: 2026-07-10T01:46:24Z
+- Last Updated: 2026-07-12T16:47:28Z
 - License: MIT
 - Archived: No
 - Created At: 2024-12-24T10:00:06Z

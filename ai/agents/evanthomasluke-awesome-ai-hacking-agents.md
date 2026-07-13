@@ -4,22 +4,22 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents
-collected_at: '2026-07-10T13:21:32.525074+05:30'
-published_at: '2026-07-10T05:11:04Z'
+collected_at: '2026-07-13T09:38:08.670910+05:30'
+published_at: '2026-07-11T15:39:09Z'
 tags:
 - agents
 - github-repo
 - unknown
-stars: 571
+stars: 573
 language: Unknown
 status: active
 archived: false
 created_at: '2026-02-06T02:08:01Z'
-pushed_at: '2026-07-10T05:11:00Z'
+pushed_at: '2026-07-11T04:45:23Z'
 resource_id: github:evanthomasluke/awesome-ai-hacking-agents
-first_seen: '2026-07-10T13:21:32.525074+05:30'
-last_seen: '2026-07-10T13:21:32.525074+05:30'
-last_checked: '2026-07-10T13:21:32.525074+05:30'
+first_seen: '2026-07-13T09:38:08.670910+05:30'
+last_seen: '2026-07-13T09:38:08.670910+05:30'
+last_checked: '2026-07-13T09:38:08.670910+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `Awesome-AI-Hacking-Agents` curated by `EvanThomasLuke`, last updated on **2026-07-10**, containing a collection of AI-driven hacking agents.
-- **Metadata**: 571 stars, 92 forks; language unspecified; no listed topics.
-- **Access**: Repository URL: [https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents](https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents).
+- **Repository Overview**: GitHub repository (`EvanThomasLuke/Awesome-AI-Hacking-Agents`) cataloging AI-driven autonomous hacking agents, tools, and frameworks for offensive security research.
+- **Metadata**: 573 stars, 92 forks, last updated on **2026-07-11**; language unspecified (likely multi-language).
+- **Purpose**: Curated resource for AI-powered penetration testing, vulnerability discovery, and adversarial simulation tools.
 
 ## Why It Matters
 
@@ -38,14 +38,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: EvanThomasLuke
-- Stars: 571
+- Stars: 573
 - Forks: 92
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-10T05:11:04Z
+- Last Updated: 2026-07-11T15:39:09Z
 - Archived: No
 - Created At: 2026-02-06T02:08:01Z
-- Pushed At: 2026-07-10T05:11:00Z
+- Pushed At: 2026-07-11T04:45:23Z
 
 ## Possible Use Cases
 

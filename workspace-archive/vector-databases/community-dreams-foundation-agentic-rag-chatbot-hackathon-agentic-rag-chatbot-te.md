@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: GitHub Classroom template for an agentic RAG chatbot, hosted by Community-Dreams-Foundation.
-- **Metadata**: 0 stars, 68 forks, Python-based, last updated 2026-02-17T18:07:23Z.
-- **Purpose**: Serves as a starter template for hackathon participants building agentic RAG chatbots.
+- **Repository**: `Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository` (0 stars, 68 forks), a GitHub Classroom template for an **Agentic RAG Chatbot** project.
+- **Tech Stack**: Primarily implemented in **Python**, designed for hackathon-style development with agentic RAG (Retrieval-Augmented Generation) capabilities.
+- **Metadata**: Last updated **2026-02-17T18:07:23Z**; no active topics or language-specific tags beyond Python.
 
 ## Use Cases
 

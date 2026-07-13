@@ -18,6 +18,7 @@ tags:
 - rag
 - reddit
 - typescript
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -36,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Tech Stack**: TypeScript-based AI chatbot leveraging LangChain, LangGraph, and Next.js for PDF interaction, with OpenAI integration for natural language processing.
+- **Tech Stack**: TypeScript-based AI PDF chatbot leveraging LangChain for LLM orchestration, LangGraph for agent workflows, and Next.js for the frontend, with OpenAI integration for embeddings/LLM inference.
 
-- **Core Features**: Implements agent-based architecture for dynamic PDF querying, enabling structured document analysis and conversational retrieval.
+- **Core Functionality**: Implements a retrieval-augmented generation (RAG) pipeline to parse, index, and query PDF documents, enabling conversational interaction with document content via vector search and LLM response generation.
 
-- **Scalability**: Supports high-throughput PDF processing with modular components, optimized for real-time LLM-powered interactions.
+- **Architecture**: Uses a modular agent-based design wit
 
 ## Use Cases
 

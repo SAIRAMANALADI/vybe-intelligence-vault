@@ -3,12 +3,11 @@ title: LlamaIndex · GitHub
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/run-llama
-published_at: '2026-07-10T13:23:03.024131+05:30'
-collected_at: '2026-07-10T13:23:03.024140+05:30'
+source_url: https://github.com/run-llama/
+published_at: '2026-07-13T09:40:25.893407+05:30'
+collected_at: '2026-07-13T09:40:25.893420+05:30'
 tags:
 - agents
-- hackernews
 - meta-ai
 - models
 - rag
@@ -17,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:llamaindex-github
-first_seen: '2026-07-10T13:23:03.024140+05:30'
-last_seen: '2026-07-10T13:23:03.024140+05:30'
-last_checked: '2026-07-10T13:23:03.024140+05:30'
+first_seen: '2026-07-13T09:40:25.893420+05:30'
+last_seen: '2026-07-13T09:40:25.893420+05:30'
+last_checked: '2026-07-13T09:40:25.893420+05:30'
 health_score: 100
 ---
 
@@ -27,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via `Parse` (document parsing), `Extract` (structured data extraction), and a unified `Platform` for document workflows and agent integration.
+- **LlamaParse Cloud Services**: Provides **state-of-the-art (SOTA) agentic OCR** via `Parse` and `Extract` APIs for document processing workflows, with platform documentation available for integration.
 
-- **Open-Source Tooling**: Includes `LiteParse` (lightweight parsing), `LlamaAgents` (modular agent framework), and `LlamaIndex` (Python library) for custom document processing pipelines.
+- **Open-Source Tooling**: Includes `LiteParse` (lightweight OCR), `LlamaAgents` (agentic workflows), and `LlamaIndex` (Python framework) for local/document processing, all with official documentation.
 
-- **Multi-Channel Support**: Offers official documentation, social media (X/Twitter, LinkedIn), and YouTube resources for community engagement and technical guidance.
+- **Community & Support**: Maintains active presence on **X (Twitter)**, **LinkedIn**, and **YouTube** for updates, networking, and tutorials.
 
 ## Why It Matters
 
@@ -41,12 +40,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-10T13:23:03.024131+05:30
+- Published: 2026-07-13T09:40:25.893407+05:30
 
 ## Related Tags
 
 - agents
-- hackernews
 - meta-ai
 - models
 - rag
@@ -56,4 +54,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/run-llama
+Original source: https://github.com/run-llama/

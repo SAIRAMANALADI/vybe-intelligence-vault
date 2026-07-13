@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IntelLabs/fastRAG
-collected_at: '2026-07-10T13:20:02.435482+05:30'
+collected_at: '2026-07-13T09:36:38.657370+05:30'
 published_at: '2026-07-09T01:45:29Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: true
 created_at: '2023-01-23T16:25:35Z'
 pushed_at: '2026-01-12T19:58:22Z'
 resource_id: github:intellabs/fastrag
-first_seen: '2026-07-10T13:20:02.435482+05:30'
-last_seen: '2026-07-10T13:20:02.435482+05:30'
-last_checked: '2026-07-10T13:20:02.435482+05:30'
+first_seen: '2026-07-13T09:36:38.657370+05:30'
+last_seen: '2026-07-13T09:36:38.657370+05:30'
+last_checked: '2026-07-13T09:36:38.657370+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,16 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: `fastRAG` is an efficient Python-based framework designed for Retrieval-Augmented Generation (RAG), integrating advanced techniques like semantic search (ColBERT, Sentence Transformers), multi-modal processing, and knowledge graph augmentation for LLMs.
+- **Framework Overview**: `fastRAG` is an efficient Python-based framework for **Retrieval-Augmented Generation (RAG)**, integrating **multi-modal** capabilities (text, knowledge graphs, diffusion models) with **transformers**, **ColBERT**, and **sentence-transformers** for optimized **information retrieval**, **semantic search**, and **generative AI** tasks.
 
-- **Key Features**: Supports diffusion models, dynamic benchmarking, and hybrid retrieval (dense + sparse) with optimizations for low-latency inference and scalable deployment in generative AI pipelines.
+- **Key Features**:
+  - Supports **benchmarking** for **question-answering**, **summarization**, and **knowledge-intensive NLP** tasks.
+  - Implements **optimized retrieval** (e.g., **ColBERTv2**, **FAISS**) and **generation** pipelines with **low-latency** inference.
+  - Enables **multi-modal fusion** (e.g., text + knowledge graphs) and **hybrid retrieval** (dense + sparse).
 
-- **Technical Stack**: Built on PyTorch, integrates with HuggingFace Transformers, and leverages Intel’s hardware acceleration (e.g., oneAPI) for optimized performance in NLP tasks like QA, summarization, and multi-modal reasoning.
+- **Technical Stack**:
+  - Built on **PyTorch** with **HuggingFace Transformers** and **Intel optimizations** (e.g., **oneDNN**, **OpenVINO**).
+  - Integrates **diffusion models** for generative tasks and **FAISS/Annoy** for approximate nearest-neighbor search.
 
 ## Why It Matters
 

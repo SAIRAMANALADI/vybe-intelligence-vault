@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-07-10T13:18:50.576051+05:30'
-collected_at: '2026-07-10T13:18:50.576067+05:30'
+published_at: '2026-07-13T09:35:29.698905+05:30'
+collected_at: '2026-07-13T09:35:29.698918+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-07-10T13:18:50.576067+05:30'
-last_seen: '2026-07-10T13:18:50.576067+05:30'
-last_checked: '2026-07-10T13:18:50.576067+05:30'
+first_seen: '2026-07-13T09:35:29.698918+05:30'
+last_seen: '2026-07-13T09:35:29.698918+05:30'
+last_checked: '2026-07-13T09:35:29.698918+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture Evolution**: Naive RAG (basic vector search + LLM generation) evolved into Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), addressing limitations in accuracy, freshness, and hallucination mitigation.
+- **RAG Evolution & Architecture**: RAG systems progress from *Naive* (basic retrieval + generation) to *Advanced* (hybrid retrieval, reranking, query rewriting) to *Graph RAG* (entity-relation graph traversal for multi-hop reasoning), addressing limitations in freshness, private knowledge, and hallucinations by decoupling reasoning (LLM) from reference (external knowledge base).
 
-- **Core RAG Components**: Implemented via a pipeline of chunking → embedding → retrieval (dense/sparse/hybrid) → reranking → LLM generation, with modular extensions (e.g., HyDE, MMR, RRF) optimizing pre/post-retrieval stages for precision and recall.
+- **Core Components & Techniques**: Naive RAG uses chunking + embeddings + similarity search; Advanced RAG adds hybrid retrieval (dense + sparse), query expansion (HyDE), reranking (cross-encoders), and modular routing; Graph RAG constructs and traverses knowledge graphs for relational reasoning, with trade-offs in graph construction overhead.
 
-- **Operational Trade-offs**: Graph RAG excels in relational reasoning but incurs high graph construction costs; Advanced RAG balances complexity with performance via hybrid retrieval and reranking, while Naive RAG remains a lightweight baseline for prototyping.
+- **Operational Considerations**: Evaluation metrics (e.g., RRF for multi-retriever fusion, MMR for diversity), production checklists (permissions, auditability), and alternatives (e.g., LLM Wiki for accumulating knowledge) are critical for deploying scalable, reliable RAG systems in regulated or dynamic environments.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-10T13:18:50.576051+05:30
+- Published: 2026-07-13T09:35:29.698905+05:30
 
 ## Related Tags
 

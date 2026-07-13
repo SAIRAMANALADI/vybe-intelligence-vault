@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/apecloud/ApeRAG
-collected_at: '2026-07-10T13:20:22.482426+05:30'
-published_at: '2026-07-09T23:20:40Z'
+collected_at: '2026-07-13T09:36:58.664246+05:30'
+published_at: '2026-07-10T23:53:50Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
 - workflows
-stars: 1275
+stars: 1277
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-06-20T12:18:12Z'
 pushed_at: '2026-05-02T05:01:36Z'
 resource_id: github:apecloud/aperag
-first_seen: '2026-07-10T13:20:22.482426+05:30'
-last_seen: '2026-07-10T13:20:22.482426+05:30'
-last_checked: '2026-07-10T13:20:22.482426+05:30'
+first_seen: '2026-07-13T09:36:58.664246+05:30'
+last_seen: '2026-07-13T09:36:58.664246+05:30'
+last_checked: '2026-07-13T09:36:58.664246+05:30'
 health_score: 100
 ---
 
@@ -31,8 +31,8 @@ health_score: 100
 ## Summary
 
 - **Multi-modal indexing**: Supports text, structured, and unstructured data integration with graph-based retrieval for enhanced context engineering.
-- **AI agents & MCP integration**: Enables autonomous agent workflows with Model Context Protocol (MCP) for dynamic tool orchestration and knowledge graph interactions.
-- **Scalable Kubernetes deployment**: Optimized for production-grade scalability via K8s, with modular components for distributed graph processing and real-time updates.
+- **AI agents & MCP integration**: Enables autonomous agent workflows with Model Context Protocol (MCP) for dynamic tool orchestration and knowledge interaction.
+- **Scalable K8s deployment**: Designed for Kubernetes-native scaling, ensuring high availability and distributed processing for large-scale GraphRAG applications.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: apecloud
-- Stars: 1275
+- Stars: 1277
 - Forks: 143
 - Language: Python
 - Topics: agents, context-engineering, graphrag, knowledge-graph, mcp
-- Last Updated: 2026-07-09T23:20:40Z
+- Last Updated: 2026-07-10T23:53:50Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-06-20T12:18:12Z

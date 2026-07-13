@@ -4,14 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/data-enrichment
-collected_at: '2026-07-08T16:53:56.590012+05:30'
-published_at: '2026-07-08T08:49:31Z'
+collected_at: '2026-07-13T09:39:18.879319+05:30'
+published_at: '2026-07-12T16:46:51Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - jupyter notebook
-stars: 235
+- workflows
+stars: 237
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-08-28T15:50:13Z'
 pushed_at: '2026-07-02T05:17:50Z'
 resource_id: github:langchain-ai/data-enrichment
-first_seen: '2026-07-08T16:53:56.590012+05:30'
-last_seen: '2026-07-08T16:53:56.590012+05:30'
-last_checked: '2026-07-08T16:53:56.590012+05:30'
+first_seen: '2026-07-13T09:39:18.879319+05:30'
+last_seen: '2026-07-13T09:39:18.879319+05:30'
+last_checked: '2026-07-13T09:39:18.879319+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: LangGraph Studio template for building agents that perform web research to generate or enrich structured data.
-- **Technical Stack**: Utilizes LangGraph (Python) and is implemented as a Jupyter Notebook.
-- **Last Update**: Repository last updated on **2026-07-08T08:49:31Z** with 235 stars and 59 forks.
+- **Purpose**: LangGraph Studio template enabling agent-based web research to generate or enrich structured data via a LangGraph pipeline.
+- **Technical Stack**: Implemented in Python using LangGraph (a graph-based workflow framework) with Jupyter Notebook for execution.
+- **Key Features**: Pre-configured workflow for autonomous data extraction/enrichment, modular design for customization, and dependency on LangChain ecosystem.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 235
-- Forks: 59
+- Stars: 237
+- Forks: 58
 - Language: Jupyter Notebook
 - Topics: langgraph, langgraph-python, langgraph-template
-- Last Updated: 2026-07-08T08:49:31Z
+- Last Updated: 2026-07-12T16:46:51Z
 - License: MIT
 - Archived: No
 - Created At: 2024-08-28T15:50:13Z

@@ -9,7 +9,7 @@ local_vault_path: ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -33,18 +33,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Core RAG Architecture**: Combines a retriever (dense/sparse) with an LLM generator to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates via document indexing.
+- **RAG Pipeline Architecture**: Combines a retriever (dense embeddings + vector search or sparse BM25/TF-IDF) with an LLM generator to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates.
 
-- **Minimal Pipeline Components**: Uses sentence-transformers for embeddings, FAISS for vector search, and Flan-T5 for generation; demonstrates end-to-end indexing (chunking → embedding → vector store) and retrieval-augmented prompting.
-
-- **Intermediate/Advanced Techniques**: Highli
+- **Core Components**: Dense retrieval leverages embeddings (e.g., `sentence-transformers`, `bge`) with vector stores (FAISS, Chroma, Milvus), while sparse retrieval uses lexical methods (BM25). Reranking (e.g., `monoT5`, `bge-reranker`) refines retrieval prec
 
 ## Use Cases
 

@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-10T13:19:27.439829+05:30'
+collected_at: '2026-07-13T09:36:08.613577+05:30'
 published_at: '2026-07-08T12:21:46Z'
 tags:
 - github-repo
+- openai
 - python
 - rag
 stars: 156
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-10T13:19:27.439829+05:30'
-last_seen: '2026-07-10T13:19:27.439829+05:30'
-last_checked: '2026-07-10T13:19:27.439829+05:30'
+first_seen: '2026-07-13T09:36:08.613577+05:30'
+last_seen: '2026-07-13T09:36:08.613577+05:30'
+last_checked: '2026-07-13T09:36:08.613577+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Implementation**: Demonstrates combining vector similarity search with traditional keyword-based retrieval using LangChain's `HybridSearchRetriever` for enhanced document retrieval accuracy.
+- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector store retrieval (e.g., FAISS) with hybrid search (dense + sparse embeddings) using LangChain for document processing and querying.
 
-- **LangChain + RAG Pipeline**: Integrates LangChain's retrieval-augmented generation (RAG) framework with a vector store (e.g., FAISS or Chroma) to generate context-aware responses from retrieved documents.
+- **Streamlit Integration**: Deploys a real-time web interface via Streamlit to visualize and interact with the RAG pipeline, enabling users to input queries and receive augmented responses with source citations.
 
-- **Streamlit UI for RAG**: Provides a Streamlit-based web interface to interact with the RAG system, allowing users to input queries and visualize retrieved results and generated answers.
+- **Modular Architecture**: Leverages LangChain’s modular components (e.g., `RetrievalQA`, `VectorStoreIndex`) for scalable document ingestion, embedding generation (e.g., OpenAI, HuggingFace), and hybrid search orchestration.
 
 ## Why It Matters
 

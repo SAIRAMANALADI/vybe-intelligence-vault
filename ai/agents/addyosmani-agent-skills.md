@@ -4,25 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/addyosmani/agent-skills
-collected_at: '2026-07-10T13:22:02.570919+05:30'
-published_at: '2026-07-10T07:51:46Z'
+collected_at: '2026-07-13T09:38:38.722769+05:30'
+published_at: '2026-07-13T04:08:06Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - javascript
-- workflows
-stars: 76257
+stars: 77645
 language: JavaScript
 status: active
 license: MIT
 archived: false
 created_at: '2026-02-15T20:20:26Z'
-pushed_at: '2026-07-10T02:59:20Z'
+pushed_at: '2026-07-12T18:03:54Z'
 resource_id: github:addyosmani/agent-skills
-first_seen: '2026-07-10T13:22:02.570919+05:30'
-last_seen: '2026-07-10T13:22:02.570919+05:30'
-last_checked: '2026-07-10T13:22:02.570919+05:30'
+first_seen: '2026-07-13T09:38:38.722769+05:30'
+last_seen: '2026-07-13T09:38:38.722769+05:30'
+last_checked: '2026-07-13T09:38:38.722769+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Production-grade engineering skills repository (`addyosmani/agent-skills`) for AI coding agents, with **76,257 stars** and **8,188 forks**, primarily written in JavaScript.
-
-- **Key Topics & Tools**: Focuses on `agent-skills`, `antigravity`, `claude-code`, `codex`, and `cursor`—targeting advanced AI coding workflows and agent-based development.
-
-- **Last Updated**: **July 10, 2026**, ensuring recent updates for compatibility with modern AI coding tools.
+- **Repository Overview**: Production-grade engineering skills for AI coding agents, primarily in JavaScript, with 77,645 stars and 8,337 forks.
+- **Key Features**: Focuses on advanced agent skills (`agent-skills`), including integration with tools like `claude-code`, `codex`, and `cursor`.
+- **Last Updated**: July 13, 2026, with active maintenance and updates.
 
 ## Why It Matters
 
@@ -43,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: addyosmani
-- Stars: 76257
-- Forks: 8188
+- Stars: 77645
+- Forks: 8337
 - Language: JavaScript
 - Topics: agent-skills, antigravity, claude-code, codex, cursor, skills
-- Last Updated: 2026-07-10T07:51:46Z
+- Last Updated: 2026-07-13T04:08:06Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-15T20:20:26Z
-- Pushed At: 2026-07-10T02:59:20Z
+- Pushed At: 2026-07-12T18:03:54Z
 
 ## Possible Use Cases
 

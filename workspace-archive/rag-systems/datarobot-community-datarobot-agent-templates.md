@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides pre-built templates for DataRobot Agentic Workflows, enabling integration with frameworks like CrewAI, LangGraph, and LlamaIndex for agentic AI applications.
-- **Technical Stack**: Implemented in Python, leveraging DataRobot's ecosystem for LLM-driven automation and agentic workflows.
-- **Repository Details**: Last updated July 4, 2026; includes 20 stars and 12 forks, focusing on agentic AI, DataRobot, and LLM tooling.
+- **Purpose**: Provides pre-built agentic workflow templates integrating DataRobot with frameworks like CrewAI, LangGraph, and LlamaIndex for LLM-driven automation.
+- **Technical Stack**: Python-based templates leveraging agentic AI, LLM orchestration, and DataRobot’s MLOps capabilities.
+- **Use Case**: Enables rapid deployment of agentic workflows for AI-driven data processing, model inference, and automated decision-making.
 
 ## Use Cases
 

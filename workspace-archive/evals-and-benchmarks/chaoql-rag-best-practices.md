@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular Python components for query expansion, document chunking, and vector database integration (e.g., FAISS, Chroma).
-- **Evaluation Suite**: Includes automated metrics (e.g., retrieval precision/recall, answer relevance) and benchmark datasets for assessing RAG pipeline performance across domains.
-- **Deployment-Ready**: Provides Dockerized setup with preconfigured APIs (FastAPI) and support
+- **RAG Optimization Framework**: Repository provides Python-based best practices for optimizing Retrieval-Augmented Generation (RAG) pipelines, focusing on retrieval efficiency, context relevance, and generation quality.
+- **Modular Architecture**: Implements a modular design with configurable components (e.g., embedders, retrievers, LLMs) to enable customization for domain-specific RAG applications.
+- **Evaluation & Benchmarking**: Includes tools for evaluating RAG performance metrics (e.g., r
 
 ## Use Cases
 

@@ -8,14 +8,14 @@ local_vault_path: ai/agents/evanthomasluke-awesome-ai-hacking-agents.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
 - unknown
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # EvanThomasLuke/Awesome-AI-Hacking-Agents
@@ -24,15 +24,15 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `Awesome-AI-Hacking-Agents` curated by `EvanThomasLuke`, last updated on **2026-07-10**, containing a collection of AI-driven hacking agents.
-- **Metadata**: 571 stars, 92 forks; language unspecified; no listed topics.
-- **Access**: Repository URL: [https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents](https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents).
+- **Repository Overview**: GitHub repository (`EvanThomasLuke/Awesome-AI-Hacking-Agents`) cataloging AI-driven autonomous hacking agents, tools, and frameworks for offensive security research.
+- **Metadata**: 573 stars, 92 forks, last updated on **2026-07-11**; language unspecified (likely multi-language).
+- **Purpose**: Curated resource for AI-powered penetration testing, vulnerability discovery, and adversarial simulation tools.
 
 ## Use Cases
 

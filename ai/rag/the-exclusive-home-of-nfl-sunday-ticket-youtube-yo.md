@@ -3,9 +3,9 @@ title: The Exclusive Home of NFL Sunday Ticket - YouTube & YouTube TV
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://tv.youtube.com/learn/nflsundayticket/?utm_source=web&amp;utm_medium=helpcenter&amp;utm_campaign=nflst_presale_apr23_helpcenter_1https://tv.youtube.com/learn/nflsundayticket?utm_source=web&amp;utm_medium=helpcenter&amp;utm_campaign=nflst_presale_apr23_helpcenter_1
-published_at: '2026-07-09T09:59:43.791719+05:30'
-collected_at: '2026-07-09T09:59:43.791733+05:30'
+source_url: https://tv.youtube.com/learn/nflsundayticket
+published_at: '2026-07-13T09:43:31.159732+05:30'
+collected_at: '2026-07-13T09:43:31.159747+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-exclusive-home-of-nfl-sunday-ticket-youtube-yo
-first_seen: '2026-07-09T09:59:43.791733+05:30'
-last_seen: '2026-07-09T09:59:43.791733+05:30'
-last_checked: '2026-07-09T09:59:43.791733+05:30'
+first_seen: '2026-07-13T09:43:31.159747+05:30'
+last_seen: '2026-07-13T09:43:31.159747+05:30'
+last_checked: '2026-07-13T09:43:31.159747+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Pricing & Plans**: NFL Sunday Ticket offers new users **$240/yr ($20/mo for 12 months)** or **$20/mo ($240/yr)** standalone; returning users pay **$378/yr ($31.50/mo)**. Requires active YouTube TV plan ($67.99/mo for 3 months, then $82.99/mo) for bundled access.
+- **Pricing & Plans**: New users can subscribe to NFL Sunday Ticket for **$20/month for 12 months** ($240/year) on YouTube TV or standalone; returning users pay **$31.50/month** ($378/year). Requires active YouTube TV plan for bundled option.
 
-- **Coverage & Features**: Provides **all out-of-market Sunday NFL games** (32 teams, AFC/NFC), multiview (4 games), fantasy view, and NFL RedZone (optional). Excludes digital-only games and commercial use; no contracts or satellite dish required.
+- **Coverage & Features**: Provides **all out-of-market Sunday NFL games** (32 teams, AFC/NFC) with multiview (4 games simultaneously), fantasy tracking, and RedZone (optional add-on). Excludes digital-only games and commercial use.
 
-- **Technical Requirements**: Requires **3+ Mbps (7+ Mbps recommended)** internet; supported on YouTube/YouTube TV apps across devices. Standalone or bundled with YouTube TV (ABC, CBS, FOX, ESPN). No refunds; terms/embargoes apply.
+- **Technical Requirements**: Requires **high-speed internet (3+ Mbps minimum, 7+ Mbps recommended)** and supported devices (YouTube/YouTube TV apps). No satellite dish or long-term contracts; monthly installments available.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T09:59:43.791719+05:30
+- Published: 2026-07-13T09:43:31.159732+05:30
 
 ## Related Tags
 
@@ -54,4 +54,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://tv.youtube.com/learn/nflsundayticket/?utm_source=web&amp;utm_medium=helpcenter&amp;utm_campaign=nflst_presale_apr23_helpcenter_1https://tv.youtube.com/learn/nflsundayticket?utm_source=web&amp;utm_medium=helpcenter&amp;utm_campaign=nflst_presale_apr23_helpcenter_1
+Original source: https://tv.youtube.com/learn/nflsundayticket

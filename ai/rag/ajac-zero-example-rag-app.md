@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ajac-zero/example-rag-app
-collected_at: '2026-07-10T13:19:32.379242+05:30'
+collected_at: '2026-07-13T09:36:13.599502+05:30'
 published_at: '2026-07-08T21:05:20Z'
 tags:
 - anthropic
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-02-18T16:15:24Z'
 pushed_at: '2026-01-15T20:18:12Z'
 resource_id: github:ajac-zero/example-rag-app
-first_seen: '2026-07-10T13:19:32.379242+05:30'
-last_seen: '2026-07-10T13:19:32.379242+05:30'
-last_checked: '2026-07-10T13:19:32.379242+05:30'
+first_seen: '2026-07-13T09:36:13.599502+05:30'
+last_seen: '2026-07-13T09:36:13.599502+05:30'
+last_checked: '2026-07-13T09:36:13.599502+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Utilizes LiteLLM to support 100+ LLM providers with unified API access, enabling seamless switching between models (e.g., OpenAI, Anthropic, Mistral) via environment variables.
+- **Multi-Provider LLM Integration**: Utilizes LiteLLM to support 100+ LLM providers with unified API calls, enabling seamless switching between models (e.g., OpenAI, Anthropic, Mistral) via environment variables.
 
-- **Observability & Debugging**: Implements Langfuse for full LLM observability, logging prompts, completions, and costs, with structured metadata for performance analysis and debugging.
+- **Observability & Monitoring**: Embeds Langfuse for comprehensive LLM observability, logging prompts, completions, latency, and token usage for debugging, performance analysis, and cost tracking.
 
-- **Production-Grade Tooling**: Dockerized deployment with TypeScript strict type-checking, 100% test coverage, and CI/CD-ready setup for scalable, maintainable RAG applications.
+- **Production-Grade Tooling**: Dockerized deployment with TypeScript strict type-checking (TypeScript), 100% test coverage, and CI/CD-ready structure for scalable, maintainable RAG applications.
 
 ## Why It Matters
 

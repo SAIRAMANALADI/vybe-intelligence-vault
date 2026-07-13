@@ -4,28 +4,27 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/deepset-ai/haystack
-collected_at: '2026-07-10T13:24:12.278407+05:30'
-published_at: '2026-07-10T07:04:49Z'
+collected_at: '2026-07-13T09:39:48.856004+05:30'
+published_at: '2026-07-13T01:51:56Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - mdx
 - models
 - openai
 - rag
 - workflows
-stars: 25861
+stars: 25879
 language: MDX
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2019-11-14T09:05:28Z'
-pushed_at: '2026-07-10T07:53:49Z'
+pushed_at: '2026-07-11T07:52:10Z'
 resource_id: github:deepset-ai/haystack
-first_seen: '2026-07-10T13:24:12.278407+05:30'
-last_seen: '2026-07-10T13:24:12.278407+05:30'
-last_checked: '2026-07-10T13:24:12.278407+05:30'
+first_seen: '2026-07-13T09:39:48.856004+05:30'
+last_seen: '2026-07-13T09:39:48.856004+05:30'
+last_checked: '2026-07-13T09:39:48.856004+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration**: Open-source framework enabling explicit control over retrieval, routing, memory, and generation for building production-ready LLM applications with modular pipelines and agent workflows.
+- **Modular AI Orchestration**: Enables building production-ready LLM applications via configurable pipelines and agent workflows, with explicit control over retrieval, routing, memory, and generation components.
 
-- **Multi-Use Case Support**: Designed for scalable agents, RAG, multimodal applications, semantic search, and conversational systems, leveraging Python, PyTorch, and Transformers.
+- **Multi-Use Case Support**: Designed for scalable agents, RAG, multimodal systems, semantic search, and conversational AI, leveraging transformers and PyTorch for advanced NLP tasks.
 
-- **Technical Stack**: Built for integration with generative AI models (e.g., GPT-4, Gemini) and NLP tasks (e.g., QA, summarization) with explicit support for information retrieval and orchestration.
+- **Open-Source Framework**: Python-based, optimized for generative AI (e.g., GPT-4, Gemini) and information retrieval, with active community maintenance (25.9k+ stars, last updated July 2026).
 
 ## Why It Matters
 
@@ -46,15 +45,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: deepset-ai
-- Stars: 25861
-- Forks: 2908
+- Stars: 25879
+- Forks: 2919
 - Language: MDX
 - Topics: agent, agents, ai, gemini, generative-ai, gpt-4, information-retrieval, large-language-models, llm, machine-learning, nlp, orchestration, python, pytorch, question-answering, rag, retrieval-augmented-generation, semantic-search, summarization, transformers
-- Last Updated: 2026-07-10T07:04:49Z
+- Last Updated: 2026-07-13T01:51:56Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2019-11-14T09:05:28Z
-- Pushed At: 2026-07-10T07:53:49Z
+- Pushed At: 2026-07-11T07:52:10Z
 
 ## Possible Use Cases
 

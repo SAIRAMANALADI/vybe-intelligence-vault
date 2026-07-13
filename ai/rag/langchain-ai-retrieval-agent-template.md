@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/retrieval-agent-template
-collected_at: '2026-07-09T21:10:14.388590+05:30'
-published_at: '2026-06-30T16:47:19Z'
+collected_at: '2026-07-13T09:39:13.859523+05:30'
+published_at: '2026-07-12T01:59:56Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - python
 - rag
 - workflows
-stars: 163
+stars: 164
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-08-21T20:47:35Z'
 pushed_at: '2026-06-26T08:28:00Z'
 resource_id: github:langchain-ai/retrieval-agent-template
-first_seen: '2026-07-09T21:10:14.388590+05:30'
-last_seen: '2026-07-09T21:10:14.388590+05:30'
-last_checked: '2026-07-09T21:10:14.388590+05:30'
+first_seen: '2026-07-13T09:39:13.859523+05:30'
+last_seen: '2026-07-13T09:39:13.859523+05:30'
+last_checked: '2026-07-13T09:39:13.859523+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Template repository for building retrieval agents using `langgraph` and `langgraph-python` frameworks.
-- **Key Components**: Integrates LangChain's retrieval agent architecture with LangGraph for stateful workflows.
-- **Technical Stack**: Python-based, leveraging LangGraph for graph-based agent orchestration and retrieval logic.
+- **Template Purpose**: Provides a structured foundation for building retrieval agents using LangGraph, a framework for constructing stateful, multi-actor applications with LLMs.
+- **Key Components**: Implements LangGraph's Python SDK (`langgraph-python`) to define agent workflows, state management, and tool integration for retrieval tasks.
+- **Technical Stack**: Python-based, leveraging LangGraph for graph-based agent orchestration with modular components for scalability and customization.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 163
+- Stars: 164
 - Forks: 51
 - Language: Python
 - Topics: langgraph, langgraph-python, langgraph-template
-- Last Updated: 2026-06-30T16:47:19Z
+- Last Updated: 2026-07-12T01:59:56Z
 - License: MIT
 - Archived: No
 - Created At: 2024-08-21T20:47:35Z

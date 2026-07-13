@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-07-10T13:22:57.692667+05:30'
+collected_at: '2026-07-13T09:39:33.865786+05:30'
 published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-07-10T13:22:57.692667+05:30'
-last_seen: '2026-07-10T13:22:57.692667+05:30'
-last_checked: '2026-07-10T13:22:57.692667+05:30'
+first_seen: '2026-07-13T09:39:33.865786+05:30'
+last_seen: '2026-07-13T09:39:33.865786+05:30'
+last_checked: '2026-07-13T09:39:33.865786+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a collaborative AI agent system using frameworks like CrewAI, AutoGen, and LangChain to distribute document processing, analysis, and insight generation tasks across specialized agents.
+- **Multi-Agent Architecture**: Implements a collaborative framework using CrewAI, AutoGen, and Swarms to distribute document processing tasks (e.g., retrieval, analysis, synthesis) across specialized AI agents.
 
-- **RAG Integration**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate) and LLM APIs (OpenAI GPT-3.5/4/5, Anthropic) for retrieval-augmented generation (RAG) workflows.
+- **RAG Integration**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate) and LLM backends (OpenAI GPT-3.5/4/5, Anthropic) for retrieval-augmented generation (RAG) workflows.
 
-- **Deployment Flexibility**: Includes Discord bot integration for real-time interaction and modular design for extensibility with additional agents, tools, or APIs.
+- **Scalable Deployment**: Includes Discord bot integration for real-time agent interaction and modular design for extensibility with additional tools/languages.
 
 ## Why It Matters
 
