@@ -3,26 +3,13 @@ import { useState, useEffect } from 'react';
 const IS_PROD = window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1';
 const VAULT_REPO_URL = 'https://raw.githubusercontent.com/sairaman436/vybe-intelligence-vault/main';
 
-// 1. Hook to fetch and poll vault-index.json
+// 1. Hook to fetch vault-index.json (no localStorage caching — index is too large)
 export function useVaultIndex() {
   const [indexData, setIndexData] = useState({ nodes: [], edges: [], system_health: {} });
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     const fetchIndex = () => {
-      // SWR caching logic: check localStorage first
-      const cached = localStorage.getItem('vault_index_cache');
-      if (cached && loading) {
-        try {
-          setIndexData(JSON.parse(cached));
-          setLoading(false);
-        } catch (err) {
-          console.warn('Failed to parse cached vault index', err);
-        }
-      }
-
-      // In production, fetch directly from raw GitHub to get live auto-updates.
-      // In development, fetch from the local public directory.
       const indexUrl = IS_PROD 
         ? `${VAULT_REPO_URL}/vault-core/vault-index.json` 
         : '/vault-index.json';
@@ -35,11 +22,9 @@ export function useVaultIndex() {
         .then((data) => {
           setIndexData(data);
           setLoading(false);
-          localStorage.setItem('vault_index_cache', JSON.stringify(data));
         })
         .catch((err) => {
           console.error('Error fetching vault index, attempting fallback:', err);
-          // If local fails in dev, or there is an issue, fallback to production URL
           fetch(`${VAULT_REPO_URL}/vault-core/vault-index.json`)
             .then(res => res.json())
             .then(data => {
@@ -54,10 +39,8 @@ export function useVaultIndex() {
     };
 
     fetchIndex();
-    const interval = setInterval(fetchIndex, 60000); // Poll every 60s
+    const interval = setInterval(fetchIndex, 120000);
     return () => clearInterval(interval);
-    // Disable react-hooks/exhaustive-deps because we only want to initialize the poll interval on mount.
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return { indexData, loading };
@@ -69,7 +52,6 @@ export function useEventStream() {
 
   useEffect(() => {
     const fetchEvents = () => {
-      // Attempt local orchestrator endpoint first, fallback to raw GitHub
       fetch('http://localhost:3456/events')
         .then((res) => {
           if (!res.ok) throw new Error('Local bridge offline');
@@ -94,16 +76,14 @@ export function useEventStream() {
                   return null;
                 }
               }).filter(Boolean);
-              setEvents(parsed.slice(0, 20)); // Limit to last 20 events
+              setEvents(parsed.slice(0, 20));
             })
-            .catch(() => {
-              // Graceful failure
-            });
+            .catch(() => {});
         });
     };
 
     fetchEvents();
-    const interval = setInterval(fetchEvents, 10000); // Poll every 10s
+    const interval = setInterval(fetchEvents, 10000);
     return () => clearInterval(interval);
   }, []);
 
@@ -130,7 +110,7 @@ export function useMCPBridge() {
     };
 
     checkBridge();
-    const interval = setInterval(checkBridge, 15000); // Poll health every 15s
+    const interval = setInterval(checkBridge, 15000);
     return () => clearInterval(interval);
   }, []);
 

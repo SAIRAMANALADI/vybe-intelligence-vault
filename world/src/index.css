@@ -1,45 +1,146 @@
 @import "tailwindcss";
 
-@layer base {
+/* ── Base resets ── */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #ffffff;
+  color: #111827;
+}
+
+::selection {
+  background: rgba(59, 130, 246, 0.3);
+}
+
+@media (prefers-color-scheme: dark) {
   body {
-    @apply bg-white text-gray-900 antialiased selection:bg-blue-500/30 overflow-hidden;
+    background: #0a0a0a;
+    color: #e5e7eb;
   }
-  
-  /* Dark mode support */
-  @media (prefers-color-scheme: dark) {
-    body {
-      @apply bg-[#0a0a0a] text-gray-200 selection:bg-cyan-500/30 selection:text-cyan-100;
-    }
+  ::selection {
+    background: rgba(6, 182, 212, 0.3);
+    color: #cffafe;
   }
 }
 
+/* ── Markdown Prose ── */
 .markdown-body {
-  @apply text-gray-700 dark:text-gray-300 leading-relaxed text-[15px];
+  color: #374151;
+  line-height: 1.75;
+  font-size: 15px;
 }
 
-.markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4 {
-  @apply text-gray-900 dark:text-white font-semibold mt-8 mb-4 tracking-tight;
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4 {
+  color: #111827;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  letter-spacing: -0.01em;
 }
 
-.markdown-body h1 { @apply text-3xl mb-6 pb-2 border-b border-gray-200 dark:border-white/10; }
-.markdown-body h2 { @apply text-2xl pb-2 border-b border-gray-200 dark:border-white/10; }
-.markdown-body h3 { @apply text-xl; }
-.markdown-body h4 { @apply text-lg; }
-.markdown-body p { @apply mb-4 leading-7; }
-.markdown-body a { @apply text-blue-600 dark:text-cyan-400 hover:underline transition-colors; }
-.markdown-body code { @apply bg-gray-100 dark:bg-white/[0.05] px-1.5 py-0.5 rounded text-[13px] font-mono border border-gray-200 dark:border-white/[0.05] text-pink-600 dark:text-pink-400; }
-.markdown-body pre { @apply bg-gray-50 dark:bg-[#050505] p-4 rounded-xl border border-gray-200 dark:border-white/[0.05] overflow-x-auto mb-6; }
-.markdown-body pre code { @apply bg-transparent p-0 border-0 text-gray-800 dark:text-gray-300; }
-.markdown-body ul { @apply list-disc list-outside mb-6 pl-6 space-y-2; }
-.markdown-body ol { @apply list-decimal list-outside mb-6 pl-6 space-y-2; }
-.markdown-body li > p { @apply mb-2; }
-.markdown-body blockquote { @apply border-l-4 border-blue-500/50 dark:border-cyan-500/50 pl-4 italic text-gray-600 dark:text-gray-400 my-6 bg-blue-50/50 dark:bg-cyan-500/5 py-2 pr-4 rounded-r-lg; }
-.markdown-body img { @apply rounded-lg border border-gray-200 dark:border-white/[0.05] max-w-full my-6 shadow-sm; }
-.markdown-body table { @apply w-full text-left border-collapse my-6; }
-.markdown-body th { @apply border-b-2 border-gray-200 dark:border-white/10 py-2 px-4 font-semibold; }
-.markdown-body td { @apply border-b border-gray-200 dark:border-white/10 py-2 px-4; }
+.markdown-body h1 {
+  font-size: 1.875rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e5e7eb;
+}
 
-/* Custom Scrollbar */
+.markdown-body h2 {
+  font-size: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.markdown-body h3 { font-size: 1.25rem; }
+.markdown-body h4 { font-size: 1.125rem; }
+.markdown-body p { margin-bottom: 1rem; line-height: 1.75; }
+
+.markdown-body a {
+  color: #2563eb;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+.markdown-body a:hover { text-decoration: underline; }
+
+.markdown-body code {
+  background: #f3f4f6;
+  padding: 0.125rem 0.375rem;
+  border-radius: 0.25rem;
+  font-size: 13px;
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+  border: 1px solid #e5e7eb;
+  color: #db2777;
+}
+
+.markdown-body pre {
+  background: #f9fafb;
+  padding: 1rem;
+  border-radius: 0.75rem;
+  border: 1px solid #e5e7eb;
+  overflow-x: auto;
+  margin-bottom: 1.5rem;
+}
+
+.markdown-body pre code {
+  background: transparent;
+  padding: 0;
+  border: 0;
+  color: #1f2937;
+}
+
+.markdown-body ul { list-style: disc; padding-left: 1.5rem; margin-bottom: 1.5rem; }
+.markdown-body ol { list-style: decimal; padding-left: 1.5rem; margin-bottom: 1.5rem; }
+.markdown-body li { margin-bottom: 0.5rem; }
+.markdown-body li > p { margin-bottom: 0.5rem; }
+
+.markdown-body blockquote {
+  border-left: 4px solid rgba(59, 130, 246, 0.5);
+  padding: 0.5rem 1rem;
+  margin: 1.5rem 0;
+  color: #6b7280;
+  font-style: italic;
+  background: rgba(239, 246, 255, 0.5);
+  border-radius: 0 0.5rem 0.5rem 0;
+}
+
+.markdown-body img {
+  border-radius: 0.5rem;
+  border: 1px solid #e5e7eb;
+  max-width: 100%;
+  margin: 1.5rem 0;
+}
+
+.markdown-body table { width: 100%; text-align: left; border-collapse: collapse; margin: 1.5rem 0; }
+.markdown-body th { border-bottom: 2px solid #e5e7eb; padding: 0.5rem 1rem; font-weight: 600; }
+.markdown-body td { border-bottom: 1px solid #e5e7eb; padding: 0.5rem 1rem; }
+
+/* ── Dark mode markdown ── */
+@media (prefers-color-scheme: dark) {
+  .markdown-body { color: #d1d5db; }
+  .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4 { color: #ffffff; }
+  .markdown-body h1, .markdown-body h2 { border-bottom-color: rgba(255,255,255,0.1); }
+  .markdown-body a { color: #22d3ee; }
+  .markdown-body code { background: rgba(255,255,255,0.05); border-color: rgba(255,255,255,0.05); color: #f472b6; }
+  .markdown-body pre { background: #050505; border-color: rgba(255,255,255,0.05); }
+  .markdown-body pre code { color: #d1d5db; }
+  .markdown-body blockquote { border-left-color: rgba(6,182,212,0.5); color: #9ca3af; background: rgba(6,182,212,0.05); }
+  .markdown-body img { border-color: rgba(255,255,255,0.05); }
+  .markdown-body th { border-bottom-color: rgba(255,255,255,0.1); }
+  .markdown-body td { border-bottom-color: rgba(255,255,255,0.1); }
+}
+
+/* ── Custom Scrollbar ── */
 .custom-scrollbar::-webkit-scrollbar {
   width: 4px;
 }

@@ -113,9 +113,14 @@ function getMarkdownFiles(dir, fileList = [], visited = new Set()) {
         }
         getMarkdownFiles(filePath, fileList, visited);
       } else if (stat.isFile()) {
-        fileList.push(filePath);
-        if (fileList.length % 5000 === 0) {
-          console.log(`Discovered ${fileList.length} files...`);
+        // Only index documentation files — no code or config
+        const ext = path.extname(file).toLowerCase();
+        const DOCS_EXTENSIONS = ['.md', '.txt', '.rst', '.csv', '.tsv'];
+        if (DOCS_EXTENSIONS.includes(ext)) {
+          fileList.push(filePath);
+          if (fileList.length % 5000 === 0) {
+            console.log(`Discovered ${fileList.length} files...`);
+          }
         }
       }
     } catch (err) {
