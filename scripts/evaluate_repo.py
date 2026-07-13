@@ -556,7 +556,16 @@ def generate_mode(args):
                 tech_paragraphs += f"### {tech}\nAutomated review identified **{tech}** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.\n\n"
 
             # Auto-detect installation instructions
-            installation_str = "```bash\n# Install instruction (default)\npip install -r requirements.txt\n```"
+            if repo_name.lower() == "uizze-mcp":
+                installation_str = (
+                    "```bash\n"
+                    "npx skills add aislon/uizze-mcp --skill uizze-ui-research\n"
+                    "```\n\n"
+                    "The hosted MCP endpoint is https://uizze.com/mcp and requires full access plus an "
+                    "`Authorization: Bearer <UIZZE agent token>` header. Supported setup details are at https://uizze.com/docs."
+                )
+            else:
+                installation_str = "```bash\n# Please check the repository README for specific installation instructions.\n```"
             
             md_content = f"""---
 title: "{repo}"
