@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect } from 'react';
-import { Search, Folder, FileText, ChevronRight, ChevronDown, Clock, Github, BookOpen, ExternalLink, ArrowLeft } from 'lucide-react';
+import { Search, Folder, FileText, ChevronRight, ChevronDown, Clock, Github, BookOpen, ExternalLink, ArrowLeft, TrendingUp } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 import { useVaultIndex } from './data/vaultHooks';
 
@@ -170,7 +170,6 @@ export default function App() {
   const [selectedNode, setSelectedNode] = useState(null);
   const [expandedPaths, setExpandedPaths] = useState(new Set());
   
-  // Build a true directory tree from flat paths
   const fileTree = useMemo(() => {
     if (!indexData?.nodes) return { children: {}, files: [] };
     const root = { children: {}, files: [] };
@@ -199,8 +198,30 @@ export default function App() {
     return indexData.nodes.filter(node => 
       (node.title && node.title.toLowerCase().includes(query)) ||
       (node.path && node.path.toLowerCase().includes(query))
-    ).slice(0, 100); // Limit to 100 to prevent crash on massive search
+    ).slice(0, 100); 
   }, [indexData, searchQuery]);
+
+  const recentFiles = useMemo(() => {
+    if (!indexData?.nodes) return [];
+    return [...indexData.nodes]
+      .filter(n => n.last_modified)
+      .sort((a, b) => new Date(b.last_modified) - new Date(a.last_modified))
+      .slice(0, 8);
+  }, [indexData]);
+
+  const topCategories = useMemo(() => {
+    if (!indexData?.nodes) return [];
+    const counts = {};
+    indexData.nodes.forEach(n => {
+      if (!n.path) return;
+      const rootCat = n.path.split('/')[0];
+      if (!rootCat || rootCat.startsWith('.') || rootCat === 'node_modules') return;
+      counts[rootCat] = (counts[rootCat] || 0) + 1;
+    });
+    return Object.entries(counts)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 6);
+  }, [indexData]);
 
   const togglePath = (path) => {
     const next = new Set(expandedPaths);
@@ -212,13 +233,21 @@ export default function App() {
     setExpandedPaths(next);
   };
 
+  const expandToNode = (node) => {
+    const parts = node.path.split('/');
+    const nextExpanded = new Set(expandedPaths);
+    let p = '';
+    for (let i = 0; i < parts.length - 1; i++) {
+      p = p ? `${p}/${parts[i]}` : parts[i];
+      nextExpanded.add(p);
+    }
+    setExpandedPaths(nextExpanded);
+  };
+
   const handleInternalNavigate = (href, currentPath) => {
     if (!indexData?.nodes) return;
-    
-    // Attempt to resolve the relative href based on the current file path
     const currentDir = currentPath.substring(0, currentPath.lastIndexOf('/'));
     
-    // Simple path resolution (handles ./ and ../ basics)
     let targetPath = href;
     if (href.startsWith('./')) {
       targetPath = `${currentDir}/${href.substring(2)}`;
@@ -237,23 +266,12 @@ export default function App() {
     }
 
     targetPath = targetPath.replace(/\\/g, '/');
-
-    // Find the node
     const targetNode = indexData.nodes.find(n => n.path.toLowerCase() === targetPath.toLowerCase() || n.path.toLowerCase().endsWith(targetPath.toLowerCase()));
     
     if (targetNode) {
       setSelectedNode(targetNode);
-      // Auto-expand the folders leading to this node
-      const parts = targetNode.path.split('/');
-      const nextExpanded = new Set(expandedPaths);
-      let p = '';
-      for (let i = 0; i < parts.length - 1; i++) {
-        p = p ? `${p}/${parts[i]}` : parts[i];
-        nextExpanded.add(p);
-      }
-      setExpandedPaths(nextExpanded);
+      expandToNode(targetNode);
     } else {
-      // Fallback: open raw GitHub URL if it truly doesn't exist in our index
       window.open(`https://github.com/sairaman436/vybe-intelligence-vault/blob/main/${targetPath}`, '_blank');
     }
   };
@@ -303,7 +321,7 @@ export default function App() {
               {searchResults.map(node => (
                 <button
                   key={node.path}
-                  onClick={() => setSelectedNode(node)}
+                  onClick={() => { setSelectedNode(node); expandToNode(node); }}
                   className={`w-full flex items-center gap-2 px-2 py-1.5 text-sm rounded-md transition-colors text-left ${selectedNode?.path === node.path ? 'bg-blue-50 dark:bg-cyan-500/10 text-blue-700 dark:text-cyan-400 font-medium' : 'hover:bg-gray-200/50 dark:hover:bg-white/[0.05]'}`}
                 >
                   <FileText className="w-3.5 h-3.5 shrink-0 opacity-70" />
@@ -361,27 +379,89 @@ export default function App() {
             onNavigate={handleInternalNavigate} 
           />
         ) : (
-          <div className="flex-1 flex flex-col items-center justify-center p-8 text-center">
-            <div className="w-16 h-16 bg-blue-50 dark:bg-white/[0.03] text-blue-500 dark:text-cyan-400 rounded-2xl flex items-center justify-center mb-6 border border-blue-100 dark:border-white/[0.08]">
-              <BookOpen className="w-8 h-8" />
-            </div>
-            <h2 className="text-2xl font-bold mb-2">Intelligence Vault</h2>
-            <p className="text-gray-500 max-w-md">
-              Browse your repository structure using the file explorer on the left, or search directly for intelligence and insights.
-            </p>
-            <div className="mt-8 grid grid-cols-2 gap-4 max-w-lg w-full">
-              <div className="p-4 rounded-xl border border-gray-200 dark:border-white/[0.08] bg-gray-50 dark:bg-white/[0.02]">
-                <div className="text-3xl font-bold text-gray-900 dark:text-white mb-1">
-                  {(indexData.nodes?.length || 0).toLocaleString()}
+          <div className="flex-1 overflow-y-auto bg-gray-50 dark:bg-[#050505] custom-scrollbar">
+            <div className="max-w-5xl mx-auto px-8 py-16">
+              
+              {/* Hero Section */}
+              <div className="mb-20 text-center max-w-2xl mx-auto">
+                <div className="w-20 h-20 bg-blue-600 dark:bg-cyan-500 text-white rounded-3xl flex items-center justify-center mx-auto mb-6 shadow-xl shadow-blue-500/20 dark:shadow-cyan-500/20">
+                  <BookOpen className="w-10 h-10" />
                 </div>
-                <div className="text-sm text-gray-500">Indexed Files</div>
-              </div>
-              <div className="p-4 rounded-xl border border-gray-200 dark:border-white/[0.08] bg-gray-50 dark:bg-white/[0.02]">
-                <div className="text-3xl font-bold text-gray-900 dark:text-white mb-1">
-                  {rootFolders.length}
+                <h2 className="text-4xl font-extrabold text-gray-900 dark:text-white mb-5 tracking-tight">
+                  Vybe Intelligence Vault
+                </h2>
+                <p className="text-lg text-gray-600 dark:text-gray-400 mb-8 leading-relaxed">
+                  Welcome to the knowledge base. Explore over <strong>{(indexData.nodes?.length || 0).toLocaleString()}</strong> documents of structured intelligence, research, and technical documentation.
+                </p>
+                <div className="relative max-w-xl mx-auto group">
+                  <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400 group-focus-within:text-blue-500 dark:group-focus-within:text-cyan-400 transition-colors" />
+                  <input 
+                    type="text"
+                    placeholder="Search the entire vault..."
+                    value={searchQuery}
+                    onChange={(e) => setSearchQuery(e.target.value)}
+                    className="w-full pl-12 pr-4 py-4 text-lg bg-white dark:bg-[#0a0a0a] border border-gray-200 dark:border-white/[0.1] rounded-2xl shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500/50 dark:focus:ring-cyan-500/50 transition-all"
+                  />
                 </div>
-                <div className="text-sm text-gray-500">Root Folders</div>
               </div>
+
+              <div className="grid grid-cols-1 lg:grid-cols-3 gap-10">
+                {/* Left Column: Core Categories */}
+                <div className="lg:col-span-2">
+                  <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-6 flex items-center gap-2">
+                    <Folder className="w-6 h-6 text-blue-500 dark:text-cyan-400" /> Core Directories
+                  </h3>
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                    {topCategories.map(([name, count]) => (
+                      <button
+                        key={name}
+                        onClick={() => {
+                          setExpandedPaths(new Set([name]));
+                        }}
+                        className="p-5 bg-white dark:bg-[#0a0a0a] border border-gray-200 dark:border-white/[0.08] rounded-2xl hover:border-blue-500 dark:hover:border-cyan-500 hover:shadow-md transition-all text-left group"
+                      >
+                        <div className="flex justify-between items-center mb-2">
+                          <span className="font-semibold text-gray-900 dark:text-gray-100 capitalize text-lg tracking-tight">
+                            {name.replace(/-/g, ' ')}
+                          </span>
+                          <ChevronRight className="w-5 h-5 text-gray-400 group-hover:text-blue-500 dark:group-hover:text-cyan-400 transition-colors" />
+                        </div>
+                        <div className="text-sm text-gray-500 font-medium">
+                          {count.toLocaleString()} files
+                        </div>
+                      </button>
+                    ))}
+                  </div>
+                </div>
+
+                {/* Right Column: Recent Activity */}
+                <div>
+                  <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-6 flex items-center gap-2">
+                    <TrendingUp className="w-6 h-6 text-green-500" /> Recent Updates
+                  </h3>
+                  <div className="bg-white dark:bg-[#0a0a0a] border border-gray-200 dark:border-white/[0.08] rounded-2xl overflow-hidden shadow-sm">
+                    {recentFiles.map(file => (
+                      <button
+                        key={file.path}
+                        onClick={() => {
+                          setSelectedNode(file);
+                          expandToNode(file);
+                        }}
+                        className="w-full text-left p-4 border-b border-gray-100 dark:border-white/[0.05] last:border-0 hover:bg-blue-50/50 dark:hover:bg-cyan-500/5 transition-colors group"
+                      >
+                        <div className="font-medium text-sm text-gray-900 dark:text-gray-200 truncate mb-1.5 group-hover:text-blue-700 dark:group-hover:text-cyan-400 transition-colors">
+                          {file.title || file.path.split('/').pop()}
+                        </div>
+                        <div className="text-xs text-gray-500 flex justify-between items-center">
+                          <span className="truncate uppercase tracking-wider font-mono opacity-80">{file.path.split('/')[0]}</span>
+                          <span className="shrink-0 font-medium">{new Date(file.last_modified).toLocaleDateString(undefined, {month: 'short', day: 'numeric'})}</span>
+                        </div>
+                      </button>
+                    ))}
+                  </div>
+                </div>
+              </div>
+
             </div>
           </div>
         )}
