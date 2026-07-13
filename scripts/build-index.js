@@ -5,7 +5,7 @@ const stateManager = require('./state-manager');
 
 const VAULT_ROOT = path.resolve(__dirname, '..');
 const EMBEDDINGS_DIR = path.join(VAULT_ROOT, 'vault-core', 'embeddings');
-const REACT_PUBLIC_DIR = path.resolve(VAULT_ROOT, '..', 'intelligence-map', 'public');
+const REACT_PUBLIC_DIR = path.resolve(VAULT_ROOT, 'world', 'public');
 
 if (!fs.existsSync(EMBEDDINGS_DIR)) {
   fs.mkdirSync(EMBEDDINGS_DIR, { recursive: true });

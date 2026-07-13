@@ -1,0 +1,71 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-black text-white font-sans antialiased selection:bg-cyan-500/30 selection:text-cyan-200 overflow-hidden;
+  }
+}
+
+@layer utilities {
+  .glass-panel {
+    @apply bg-white/[0.02] backdrop-blur-xl border border-white/[0.05] shadow-[0_8px_32px_0_rgba(0,0,0,0.3)];
+  }
+  
+  .glass-input {
+    @apply bg-white/[0.03] backdrop-blur-md border border-white/[0.08] focus:bg-white/[0.05] focus:border-cyan-500/50 transition-all duration-300;
+  }
+  
+  .premium-hover {
+    @apply hover:bg-white/[0.04] transition-all duration-300;
+  }
+  
+.animated-gradient-text {
+  background-image: linear-gradient(to right, #22d3ee, #e879f9, #22d3ee);
+  background-size: 200% auto;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  animation: gradient 8s linear infinite;
+}
+}
+
+@keyframes gradient {
+  to {
+    background-position: 200% center;
+  }
+}
+
+.markdown-body {
+  @apply text-gray-300 leading-relaxed text-[15px];
+}
+
+.markdown-body h1, .markdown-body h2, .markdown-body h3 {
+  @apply text-white font-semibold mt-8 mb-4 tracking-tight;
+}
+
+.markdown-body h1 { @apply text-2xl; }
+.markdown-body h2 { @apply text-xl border-b border-white/10 pb-2; }
+.markdown-body h3 { @apply text-lg; }
+.markdown-body p { @apply mb-4; }
+.markdown-body a { @apply text-cyan-400 hover:text-cyan-300 underline underline-offset-4 decoration-cyan-400/30 transition-colors; }
+.markdown-body code { @apply bg-white/[0.05] px-1.5 py-0.5 rounded text-[13px] text-fuchsia-300 font-mono border border-white/[0.05]; }
+.markdown-body pre { @apply bg-[#0a0a0a] p-4 rounded-xl border border-white/[0.05] overflow-x-auto mb-4; }
+.markdown-body pre code { @apply bg-transparent p-0 border-0 text-gray-300; }
+.markdown-body ul { @apply list-disc list-inside mb-4 space-y-1; }
+.markdown-body ol { @apply list-decimal list-inside mb-4 space-y-1; }
+.markdown-body blockquote { @apply border-l-2 border-cyan-500/50 pl-4 italic text-gray-400 my-4; }
+
+/* Custom Scrollbar for absolute minimal look */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.2);

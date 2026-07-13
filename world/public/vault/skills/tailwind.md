@@ -1,0 +1,243 @@
+# Tailwind CSS
+
+## What It Is
+
+Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces directly in your markup.
+
+## Why It Matters
+
+It speeds up styling iterations, avoids bloated CSS sheets, structures uniform design tokens, and simplifies responsive styling.
+
+## Core Topics
+
+- Utility-First Styling and Core Design Tokens
+- Responsive Modifiers and Mobile-First Workflows
+- Dark Mode Configurations and Custom Themes
+- Tailwind Config Extending (Plugins, Arbitrary Classes)
+
+## Best Resources Found
+
+### 1. [shadcn-ui/ui](../web-development/shadcn-ui/shadcn-ui-ui.md) ([Source URL](https://github.com/shadcn-ui/ui))
+- **Source**: GitHub shadcn/ui Resources (github)
+- **Category**: web-development/shadcn-ui
+- **Local Path**: `web-development/shadcn-ui/shadcn-ui-ui-5f0249.md`
+
+### 2. [shadcn-ui/taxonomy](../web-development/shadcn-ui/shadcn-ui-taxonomy.md) ([Source URL](https://github.com/shadcn-ui/taxonomy))
+- **Source**: GitHub shadcn/ui Resources (github)
+- **Category**: web-development/shadcn-ui
+- **Local Path**: `web-development/shadcn-ui/shadcn-ui-taxonomy-84dee1.md`
+
+### 3. [jnsahaj/tweakcn](../web-development/shadcn-ui/jnsahaj-tweakcn.md) ([Source URL](https://github.com/jnsahaj/tweakcn))
+- **Source**: GitHub shadcn/ui Resources (github)
+- **Category**: web-development/shadcn-ui
+- **Local Path**: `web-development/shadcn-ui/jnsahaj-tweakcn-158b52.md`
+
+### 4. [huntabyte/shadcn-svelte](../web-development/shadcn-ui/huntabyte-shadcn-svelte.md) ([Source URL](https://github.com/huntabyte/shadcn-svelte))
+- **Source**: GitHub shadcn/ui Resources (github)
+- **Category**: web-development/shadcn-ui
+- **Local Path**: `web-development/shadcn-ui/huntabyte-shadcn-svelte-cadb55.md`
+
+### 5. [ixartz/SaaS-Boilerplate](../web-development/nextjs/ixartz-saas-boilerplate.md) ([Source URL](https://github.com/ixartz/SaaS-Boilerplate))
+- **Source**: GitHub Next.js Templates (github)
+- **Category**: web-development/nextjs
+- **Local Path**: `web-development/nextjs/ixartz-saas-boilerplate-a4bdde.md`
+
+### 6. [pmndrs/react-three-next](../web-development/react-three-fiber/pmndrs-react-three-next.md) ([Source URL](https://github.com/pmndrs/react-three-next))
+- **Source**: GitHub React Three Fiber Resources (github)
+- **Category**: web-development/react-three-fiber
+- **Local Path**: `web-development/react-three-fiber/pmndrs-react-three-next-75a781.md`
+
+### 7. [salimi-my/shadcn-ui-sidebar](../web-development/shadcn-ui/salimi-my-shadcn-ui-sidebar.md) ([Source URL](https://github.com/salimi-my/shadcn-ui-sidebar))
+- **Source**: GitHub shadcn/ui Resources (github)
+- **Category**: web-development/shadcn-ui
+- **Local Path**: `web-development/shadcn-ui/salimi-my-shadcn-ui-sidebar-04320a.md`
+
+### 8. [reliverse/relivator](../web-development/nextjs/reliverse-relivator.md) ([Source URL](https://github.com/reliverse/relivator))
+- **Source**: GitHub Next.js Templates (github)
+- **Category**: web-development/nextjs
+- **Local Path**: `web-development/nextjs/reliverse-relivator-9e356e.md`
+
+### 9. [shadcn-ui/next-template](../web-development/shadcn-ui/shadcn-ui-next-template.md) ([Source URL](https://github.com/shadcn-ui/next-template))
+- **Source**: GitHub shadcn/ui Resources (github)
+- **Category**: web-development/shadcn-ui
+- **Local Path**: `web-development/shadcn-ui/shadcn-ui-next-template-424784.md`
+
+### 10. [uixmat/onborda](../web-development/framer-motion/uixmat-onborda.md) ([Source URL](https://github.com/uixmat/onborda))
+- **Source**: GitHub Framer Motion Resources (github)
+- **Category**: web-development/framer-motion
+- **Local Path**: `web-development/framer-motion/uixmat-onborda-15177b.md`
+
+### 11. [magicuidesign/portfolio](../web-development/shadcn-ui/magicuidesign-portfolio.md) ([Source URL](https://github.com/magicuidesign/portfolio))
+- **Source**: GitHub shadcn/ui Resources (github)
+- **Category**: web-development/shadcn-ui
+- **Local Path**: `web-development/shadcn-ui/magicuidesign-portfolio-d34ea5.md`
+
+### 12. [nobruf/shadcn-landing-page](../web-development/nextjs/nobruf-shadcn-landing-page.md) ([Source URL](https://github.com/nobruf/shadcn-landing-page))
+- **Source**: GitHub Next.js Templates (github)
+- **Category**: web-development/nextjs
+- **Local Path**: `web-development/nextjs/nobruf-shadcn-landing-page-0045a2.md`
+
+### 13. [SikandarJODD/svelte-animations](../web-development/framer-motion/sikandarjodd-svelte-animations.md) ([Source URL](https://github.com/SikandarJODD/svelte-animations))
+- **Source**: GitHub Framer Motion Resources (github)
+- **Category**: web-development/framer-motion
+- **Local Path**: `web-development/framer-motion/sikandarjodd-svelte-animations-f19557.md`
+
+### 14. [ObservedObserver/streamlit-shadcn-ui](../web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui.md) ([Source URL](https://github.com/ObservedObserver/streamlit-shadcn-ui))
+- **Source**: GitHub shadcn/ui Resources (github)
+- **Category**: web-development/shadcn-ui
+- **Local Path**: `web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui-b24cdd.md`
+
+### 15. [ChrisAbdo/MotionVariants](../web-development/framer-motion/chrisabdo-motionvariants.md) ([Source URL](https://github.com/ChrisAbdo/MotionVariants))
+- **Source**: GitHub Framer Motion Resources (github)
+- **Category**: web-development/framer-motion
+- **Local Path**: `web-development/framer-motion/chrisabdo-motionvariants-b69c25.md`
+
+### 16. [adrianhajdin/project_metaverse](../web-development/framer-motion/adrianhajdin-project-metaverse.md) ([Source URL](https://github.com/adrianhajdin/project_metaverse))
+- **Source**: GitHub Framer Motion Resources (github)
+- **Category**: web-development/framer-motion
+- **Local Path**: `web-development/framer-motion/adrianhajdin-project-metaverse-6ec2aa.md`
+
+### 17. [Haohao-end/openagent](../ai/agents/haohao-end-openagent.md) ([Source URL](https://github.com/Haohao-end/openagent))
+- **Source**: GitHub Discovery (github)
+- **Category**: ai/agents
+- **Local Path**: `ai/agents/haohao-end-openagent-402239.md`
+
+### 18. [shadcnstore/shadcn-dashboard-landing-template](../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md) ([Source URL](https://github.com/shadcnstore/shadcn-dashboard-landing-template))
+- **Source**: GitHub Next.js Templates (github)
+- **Category**: web-development/nextjs
+- **Local Path**: `web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template-3ea428.md`
+
+### 19. [braydoncoyer/braydoncoyer.dev](../web-development/framer-motion/braydoncoyer-braydoncoyer-dev.md) ([Source URL](https://github.com/braydoncoyer/braydoncoyer.dev))
+- **Source**: GitHub Framer Motion Resources (github)
+- **Category**: web-development/framer-motion
+- **Local Path**: `web-development/framer-motion/braydoncoyer-braydoncoyer-dev-b18161.md`
+
+### 20. [dan5py/turborepo-shadcn-ui](../web-development/shadcn-ui/dan5py-turborepo-shadcn-ui.md) ([Source URL](https://github.com/dan5py/turborepo-shadcn-ui))
+- **Source**: GitHub shadcn/ui Resources (github)
+- **Category**: web-development/shadcn-ui
+- **Local Path**: `web-development/shadcn-ui/dan5py-turborepo-shadcn-ui-258ba8.md`
+
+## Best GitHub Repositories
+
+### 1. [shadcn-ui/ui](../web-development/shadcn-ui/shadcn-ui-ui.md) ([GitHub](https://github.com/shadcn-ui/ui))
+- **Stars**: 116264
+- **Language**: TypeScript
+- **Local Path**: `web-development/shadcn-ui/shadcn-ui-ui-5f0249.md`
+
+### 2. [shadcn-ui/taxonomy](../web-development/shadcn-ui/shadcn-ui-taxonomy.md) ([GitHub](https://github.com/shadcn-ui/taxonomy))
+- **Stars**: 19246
+- **Language**: TypeScript
+- **Local Path**: `web-development/shadcn-ui/shadcn-ui-taxonomy-84dee1.md`
+
+### 3. [jnsahaj/tweakcn](../web-development/shadcn-ui/jnsahaj-tweakcn.md) ([GitHub](https://github.com/jnsahaj/tweakcn))
+- **Stars**: 9993
+- **Language**: TypeScript
+- **Local Path**: `web-development/shadcn-ui/jnsahaj-tweakcn-158b52.md`
+
+### 4. [huntabyte/shadcn-svelte](../web-development/shadcn-ui/huntabyte-shadcn-svelte.md) ([GitHub](https://github.com/huntabyte/shadcn-svelte))
+- **Stars**: 8835
+- **Language**: TypeScript
+- **Local Path**: `web-development/shadcn-ui/huntabyte-shadcn-svelte-cadb55.md`
+
+### 5. [ixartz/SaaS-Boilerplate](../web-development/nextjs/ixartz-saas-boilerplate.md) ([GitHub](https://github.com/ixartz/SaaS-Boilerplate))
+- **Stars**: 7180
+- **Language**: TypeScript
+- **Local Path**: `web-development/nextjs/ixartz-saas-boilerplate-a4bdde.md`
+
+### 6. [pmndrs/react-three-next](../web-development/react-three-fiber/pmndrs-react-three-next.md) ([GitHub](https://github.com/pmndrs/react-three-next))
+- **Stars**: 2837
+- **Language**: JavaScript
+- **Local Path**: `web-development/react-three-fiber/pmndrs-react-three-next-75a781.md`
+
+### 7. [salimi-my/shadcn-ui-sidebar](../web-development/shadcn-ui/salimi-my-shadcn-ui-sidebar.md) ([GitHub](https://github.com/salimi-my/shadcn-ui-sidebar))
+- **Stars**: 1797
+- **Language**: TypeScript
+- **Local Path**: `web-development/shadcn-ui/salimi-my-shadcn-ui-sidebar-04320a.md`
+
+### 8. [reliverse/relivator](../web-development/nextjs/reliverse-relivator.md) ([GitHub](https://github.com/reliverse/relivator))
+- **Stars**: 1553
+- **Language**: TypeScript
+- **Local Path**: `web-development/nextjs/reliverse-relivator-9e356e.md`
+
+### 9. [shadcn-ui/next-template](../web-development/shadcn-ui/shadcn-ui-next-template.md) ([GitHub](https://github.com/shadcn-ui/next-template))
+- **Stars**: 1496
+- **Language**: TypeScript
+- **Local Path**: `web-development/shadcn-ui/shadcn-ui-next-template-424784.md`
+
+### 10. [uixmat/onborda](../web-development/framer-motion/uixmat-onborda.md) ([GitHub](https://github.com/uixmat/onborda))
+- **Stars**: 1388
+- **Language**: TypeScript
+- **Local Path**: `web-development/framer-motion/uixmat-onborda-15177b.md`
+
+### 11. [magicuidesign/portfolio](../web-development/shadcn-ui/magicuidesign-portfolio.md) ([GitHub](https://github.com/magicuidesign/portfolio))
+- **Stars**: 1382
+- **Language**: TypeScript
+- **Local Path**: `web-development/shadcn-ui/magicuidesign-portfolio-d34ea5.md`
+
+### 12. [nobruf/shadcn-landing-page](../web-development/nextjs/nobruf-shadcn-landing-page.md) ([GitHub](https://github.com/nobruf/shadcn-landing-page))
+- **Stars**: 1246
+- **Language**: TypeScript
+- **Local Path**: `web-development/nextjs/nobruf-shadcn-landing-page-0045a2.md`
+
+### 13. [SikandarJODD/svelte-animations](../web-development/framer-motion/sikandarjodd-svelte-animations.md) ([GitHub](https://github.com/SikandarJODD/svelte-animations))
+- **Stars**: 1198
+- **Language**: Svelte
+- **Local Path**: `web-development/framer-motion/sikandarjodd-svelte-animations-f19557.md`
+
+### 14. [ObservedObserver/streamlit-shadcn-ui](../web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui.md) ([GitHub](https://github.com/ObservedObserver/streamlit-shadcn-ui))
+- **Stars**: 1139
+- **Language**: TypeScript
+- **Local Path**: `web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui-b24cdd.md`
+
+### 15. [ChrisAbdo/MotionVariants](../web-development/framer-motion/chrisabdo-motionvariants.md) ([GitHub](https://github.com/ChrisAbdo/MotionVariants))
+- **Stars**: 993
+- **Language**: TypeScript
+- **Local Path**: `web-development/framer-motion/chrisabdo-motionvariants-b69c25.md`
+
+### 16. [adrianhajdin/project_metaverse](../web-development/framer-motion/adrianhajdin-project-metaverse.md) ([GitHub](https://github.com/adrianhajdin/project_metaverse))
+- **Stars**: 863
+- **Language**: JavaScript
+- **Local Path**: `web-development/framer-motion/adrianhajdin-project-metaverse-6ec2aa.md`
+
+### 17. [Haohao-end/openagent](../ai/agents/haohao-end-openagent.md) ([GitHub](https://github.com/Haohao-end/openagent))
+- **Stars**: 821
+- **Language**: Python
+- **Local Path**: `ai/agents/haohao-end-openagent-402239.md`
+
+### 18. [shadcnstore/shadcn-dashboard-landing-template](../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md) ([GitHub](https://github.com/shadcnstore/shadcn-dashboard-landing-template))
+- **Stars**: 799
+- **Language**: TypeScript
+- **Local Path**: `web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template-3ea428.md`
+
+### 19. [braydoncoyer/braydoncoyer.dev](../web-development/framer-motion/braydoncoyer-braydoncoyer-dev.md) ([GitHub](https://github.com/braydoncoyer/braydoncoyer.dev))
+- **Stars**: 793
+- **Language**: TypeScript
+- **Local Path**: `web-development/framer-motion/braydoncoyer-braydoncoyer-dev-b18161.md`
+
+### 20. [dan5py/turborepo-shadcn-ui](../web-development/shadcn-ui/dan5py-turborepo-shadcn-ui.md) ([GitHub](https://github.com/dan5py/turborepo-shadcn-ui))
+- **Stars**: 666
+- **Language**: CSS
+- **Local Path**: `web-development/shadcn-ui/dan5py-turborepo-shadcn-ui-258ba8.md`
+
+## Projects To Build
+
+1. Aesthetic conversion-optimized SaaS landing page
+2. Custom theme builder application
+3. Tailwind-styled developer portfolio template
+
+## Related Skills
+
+- Three.js
+- React Three Fiber
+- WebGPU
+- Framer Motion
+- GSAP
+- shadcn/ui
+
+## Job Relevance
+
+Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator, Interactive UI Engineer.
+
+## Last Updated
+
+Auto-updated by Local AI + Web Harvester on 2026-06-11T17:26:29.043498+00:00.
