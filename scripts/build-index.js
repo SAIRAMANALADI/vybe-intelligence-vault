@@ -73,7 +73,7 @@ function parseMarkdown(content) {
   return result;
 }
 
-const IGNORED_DIR_NAMES = ['node_modules', '.git', '.venv', 'dist', 'build', 'cache', '.cache', 'temp', 'tmp'];
+const IGNORED_DIR_NAMES = ['node_modules', '.git', '.venv', 'dist', 'build', 'cache', '.cache', 'temp', 'tmp','world','scripts'];
 
 // Recurse directories safely tracking visited paths to prevent infinite junction/symlink loops
 function getMarkdownFiles(dir, fileList = [], visited = new Set()) {
