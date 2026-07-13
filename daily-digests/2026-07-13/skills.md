@@ -1,43 +1,43 @@
 ---
-title: "dream-num/skills"
+title: "emekdahl/skills"
 category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "CLI", "Univer Framework", "Spreadsheet Engine"]
-quality_score: 8
+tech_stack: ["Python", "Markdown", "CLI", "Skills Framework (skills.sh)", "LLM Evaluation Harness"]
+quality_score: 9
 rag_relevance: 7
-tags: ["spreadsheet automation", "workbook inspection", "AI tool integration", "Excel compatibility", "structured migration"]
-source: "https://github.com/dream-num/skills"
-discovered_at: "2026-07-11T02:27:39Z"
+tags: ["code review", "architecture validation", "AI agent skill", "SRE practices", "security review"]
+source: "https://github.com/emekdahl/skills"
+discovered_at: "2026-07-13T13:22:31Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Official Univer CLI Skill for enabling AI tools (Claude Code, Codex, Cursor) to automate and inspect spreadsheet workbooks via the Univer CLI. Provides structured workbook manipulation, evidence-based verification, and Excel-compatible handoff capabilities.
+A specialized AI skill that acts as a blunt, experienced code reviewer and architecture planner, stress-testing designs before implementation and reviewing code changes with severity-graded feedback. It leverages research-backed checklists and eval harnesses to ensure high-quality, actionable reviews.
 
 ## Key Features
-- Public Univer CLI for workbook automation (formulas, formatting, charts, import/export)
-- Evidence-first workbook inspection with managed tools and readonly probes
-- Source-backed durable changes via SaC sidecars, migration packs, and rollback
-- Excel-compatible handoff for seamless `.xlsx` file integration
-- Progressive disclosure of capabilities through `SKILL.md` and references
+- Stress-tests architecture plans and code changes with severity-graded feedback (Critical/Major/Minor)
+- Uses research-grounded checklists (e.g., Google SRE, CWE Top 25, DEVOPS.md, SECURITY.md)
+- Includes an eval harness with seeded defect patterns and false-positive grading
+- Saves full reviews to files for persistence and auditability
+- Employs a calibrated, blunt tone designed to mimic experienced senior engineers
 
 ## Why It Matters for RAG Builders
-Enables AI agents to safely and systematically interact with spreadsheets, ensuring structured, reviewable, and reversible changes for human-AI collaboration.
+It automates high-quality, experienced-based code and architecture reviews, reducing critical flaws before they reach production and improving AI agent reliability.
 
 ## Tech Stack Deep Dive
-### JavaScript
-Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Markdown
+Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### CLI
 Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Univer Framework
-Automated review identified **Univer Framework** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Skills Framework (skills.sh)
+Automated review identified **Skills Framework (skills.sh)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Spreadsheet Engine
-Automated review identified **Spreadsheet Engine** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### LLM Evaluation Harness
+Automated review identified **LLM Evaluation Harness** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
