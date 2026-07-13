@@ -112,10 +112,10 @@ function getMarkdownFiles(dir, fileList = [], visited = new Set()) {
           continue;
         }
         getMarkdownFiles(filePath, fileList, visited);
-      } else if (stat.isFile() && file.endsWith('.md')) {
+      } else if (stat.isFile()) {
         fileList.push(filePath);
         if (fileList.length % 5000 === 0) {
-          console.log(`Discovered ${fileList.length} markdown files...`);
+          console.log(`Discovered ${fileList.length} files...`);
         }
       }
     } catch (err) {
@@ -268,15 +268,15 @@ async function buildIndex() {
     if (!fs.existsSync(folderPath)) continue;
     
     const files = getMarkdownFiles(folderPath);
-    const isArchiveOrAI = folder === 'workspace-archive' || folder === 'ai';
     
     for (const filePath of files) {
       const relPath = path.relative(VAULT_ROOT, filePath).replace(/\\/g, '/');
       try {
         let title, tags, tech_stack, quality_score;
+        const isMarkdown = filePath.toLowerCase().endsWith('.md');
+        const isArchiveOrAI = folder === 'workspace-archive' || folder === 'ai' || !isMarkdown;
         
         if (isArchiveOrAI) {
-          // Bypass disk reads for large archives (loaded on-demand by client)
           title = path.basename(relPath, '.md').replace(/^["']|["']$/g, '');
           tags = [];
           tech_stack = [];
