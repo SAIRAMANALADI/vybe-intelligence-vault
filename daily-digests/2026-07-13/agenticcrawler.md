@@ -46,8 +46,7 @@ Automated review identified **LLM APIs (25 providers)** as a key module contribu
 
 ## Installation
 ```bash
-# Install instruction (default)
-pip install -r requirements.txt
+# Please check the repository README for specific installation instructions.
 ```
 
 ## Related Vault Entries

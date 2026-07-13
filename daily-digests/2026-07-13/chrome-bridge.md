@@ -49,8 +49,7 @@ Automated review identified **TypeScript (implied by modern JS practices)** as a
 
 ## Installation
 ```bash
-# Install instruction (default)
-pip install -r requirements.txt
+# Please check the repository README for specific installation instructions.
 ```
 
 ## Related Vault Entries

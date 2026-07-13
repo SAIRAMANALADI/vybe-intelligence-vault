@@ -49,8 +49,7 @@ Automated review identified **LLM Integration (Gemini, Anthropic, OpenAI, Ollama
 
 ## Installation
 ```bash
-# Install instruction (default)
-pip install -r requirements.txt
+# Please check the repository README for specific installation instructions.
 ```
 
 ## Related Vault Entries

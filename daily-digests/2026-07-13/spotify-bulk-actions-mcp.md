@@ -43,8 +43,7 @@ Automated review identified **OAuth 2.0** as a key module contributing to infras
 
 ## Installation
 ```bash
-# Install instruction (default)
-pip install -r requirements.txt
+# Please check the repository README for specific installation instructions.
 ```
 
 ## Related Vault Entries

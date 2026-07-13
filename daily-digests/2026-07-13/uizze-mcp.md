@@ -43,9 +43,10 @@ Automated review identified **Structured Data Contracts** as a key module contri
 
 ## Installation
 ```bash
-# Install instruction (default)
-pip install -r requirements.txt
+npx skills add aislon/uizze-mcp --skill uizze-ui-research
 ```
+
+The hosted MCP endpoint is https://uizze.com/mcp and requires full access plus an `Authorization: Bearer <UIZZE agent token>` header. Supported setup details are at https://uizze.com/docs.
 
 ## Related Vault Entries
 <!-- Auto-populated by build-index.js based on tech_stack overlap -->

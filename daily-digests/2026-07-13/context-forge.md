@@ -49,8 +49,7 @@ Automated review identified **React (context-visualizer)** as a key module contr
 
 ## Installation
 ```bash
-# Install instruction (default)
-pip install -r requirements.txt
+# Please check the repository README for specific installation instructions.
 ```
 
 ## Related Vault Entries

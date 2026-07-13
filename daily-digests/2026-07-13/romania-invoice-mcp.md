@@ -46,8 +46,7 @@ Automated review identified **ANAF e-Factura API** as a key module contributing 
 
 ## Installation
 ```bash
-# Install instruction (default)
-pip install -r requirements.txt
+# Please check the repository README for specific installation instructions.
 ```
 
 ## Related Vault Entries

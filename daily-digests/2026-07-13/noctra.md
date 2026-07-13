@@ -64,8 +64,7 @@ Automated review identified **CI/CD (GitHub Actions)** as a key module contribut
 
 ## Installation
 ```bash
-# Install instruction (default)
-pip install -r requirements.txt
+# Please check the repository README for specific installation instructions.
 ```
 
 ## Related Vault Entries

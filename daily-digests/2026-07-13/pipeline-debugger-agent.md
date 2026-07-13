@@ -46,8 +46,7 @@ Automated review identified **ETL Pipelines** as a key module contributing to in
 
 ## Installation
 ```bash
-# Install instruction (default)
-pip install -r requirements.txt
+# Please check the repository README for specific installation instructions.
 ```
 
 ## Related Vault Entries

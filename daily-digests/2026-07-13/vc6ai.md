@@ -43,8 +43,7 @@ Automated review identified **Windows XP/2003** as a key module contributing to 
 
 ## Installation
 ```bash
-# Install instruction (default)
-pip install -r requirements.txt
+# Please check the repository README for specific installation instructions.
 ```
 
 ## Related Vault Entries

@@ -67,8 +67,7 @@ Automated review identified **SQLite (FTS5 for retrieval)** as a key module cont
 
 ## Installation
 ```bash
-# Install instruction (default)
-pip install -r requirements.txt
+# Please check the repository README for specific installation instructions.
 ```
 
 ## Related Vault Entries
