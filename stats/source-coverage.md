@@ -100,7 +100,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | ragflow.io | 4 |
 | education.gainsight.com | 4 |
 | tech.cornell.edu | 4 |
-| policy.medium.com | 3 |
 | ai.google.dev | 3 |
 | firecrawl.dev | 3 |
 | platform.openai.com | 3 |
@@ -159,6 +158,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | tech-insider.org | 3 |
 | markaicode.com | 3 |
 | evidentlyai.com | 3 |
+| policy.medium.com | 3 |
 | nodejs.org | 2 |
 | jamsadr.com | 2 |
 | weaviate.io | 2 |
