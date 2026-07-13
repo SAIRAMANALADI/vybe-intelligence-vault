@@ -73,17 +73,53 @@ function parseMarkdown(content) {
   return result;
 }
 
-// Recurse directories
-function getMarkdownFiles(dir, fileList = []) {
+const IGNORED_DIR_NAMES = ['node_modules', '.git', '.venv', 'dist', 'build', 'cache', '.cache', 'temp', 'tmp'];
+
+// Recurse directories safely tracking visited paths to prevent infinite junction/symlink loops
+function getMarkdownFiles(dir, fileList = [], visited = new Set()) {
   if (!fs.existsSync(dir)) return fileList;
-  const files = fs.readdirSync(dir);
+  
+  let realDir;
+  try {
+    realDir = fs.realpathSync(dir);
+  } catch (e) {
+    realDir = dir;
+  }
+  
+  // Guard: prevent escaping the repository vault root via symlinks or NTFS junctions
+  if (!realDir.toLowerCase().replace(/\\/g, '/').startsWith(VAULT_ROOT.toLowerCase().replace(/\\/g, '/'))) {
+    return fileList;
+  }
+  
+  if (visited.has(realDir)) return fileList;
+  visited.add(realDir);
+
+  let files;
+  try {
+    files = fs.readdirSync(dir);
+  } catch (e) {
+    return fileList;
+  }
+
   for (const file of files) {
     const filePath = path.join(dir, file);
-    const stat = fs.statSync(filePath);
-    if (stat.isDirectory()) {
-      getMarkdownFiles(filePath, fileList);
-    } else if (stat.isFile() && file.endsWith('.md')) {
-      fileList.push(filePath);
+    try {
+      const stat = fs.lstatSync(filePath);
+      if (stat.isSymbolicLink()) continue;
+      
+      if (stat.isDirectory()) {
+        if (file.startsWith('.') || IGNORED_DIR_NAMES.includes(file.toLowerCase())) {
+          continue;
+        }
+        getMarkdownFiles(filePath, fileList, visited);
+      } else if (stat.isFile() && file.endsWith('.md')) {
+        fileList.push(filePath);
+        if (fileList.length % 5000 === 0) {
+          console.log(`Discovered ${fileList.length} markdown files...`);
+        }
+      }
+    } catch (err) {
+      // Skip files with read errors or permission locks
     }
   }
   return fileList;
@@ -114,6 +150,18 @@ function cosineSimilarity(a, b) {
   return dotProduct(a, b) / (magA * magB);
 }
 
+let isOllamaAvailable = null;
+
+async function checkOllama() {
+  try {
+    const response = await fetch('http://localhost:11434/api/tags', { signal: AbortSignal.timeout(500) });
+    isOllamaAvailable = response.ok;
+  } catch (e) {
+    isOllamaAvailable = false;
+  }
+  console.log(`Checking local Ollama status... Available: ${isOllamaAvailable}`);
+}
+
 // Generate embeddings via local Ollama, with cache & hash-based fallback
 async function getEmbedding(text, relPath) {
   const safeName = relPath.replace(/\//g, '_') + '.json';
@@ -129,45 +177,51 @@ async function getEmbedding(text, relPath) {
   
   const cleanedText = text.replace(/[#*`_\[\]()\-]/g, ' ').substring(0, 3000);
   
-  try {
-    const response = await fetch('http://localhost:11434/api/embeddings', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        model: 'nomic-embed-text',
-        prompt: cleanedText
-      }),
-      signal: AbortSignal.timeout(3000)
-    });
-    
-    if (response.ok) {
-      const result = await response.json();
-      if (result.embedding) {
-        fs.writeFileSync(embedFilePath, JSON.stringify(result.embedding), 'utf-8');
-        return result.embedding;
-      }
-    }
-  } catch (err) {
+  if (isOllamaAvailable === null) {
+    await checkOllama();
+  }
+  
+  if (isOllamaAvailable) {
     try {
-      const response = await fetch('http://localhost:11434/api/embed', {
+      const response = await fetch('http://localhost:11434/api/embeddings', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           model: 'nomic-embed-text',
-          input: cleanedText
+          prompt: cleanedText
         }),
         signal: AbortSignal.timeout(3000)
       });
+      
       if (response.ok) {
         const result = await response.json();
-        const vector = result.embedding || (result.embeddings && result.embeddings[0]);
-        if (vector) {
-          fs.writeFileSync(embedFilePath, JSON.stringify(vector), 'utf-8');
-          return vector;
+        if (result.embedding) {
+          fs.writeFileSync(embedFilePath, JSON.stringify(result.embedding), 'utf-8');
+          return result.embedding;
         }
       }
-    } catch (e2) {
-      // Fall through to fallback mock vector
+    } catch (err) {
+      try {
+        const response = await fetch('http://localhost:11434/api/embed', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            model: 'nomic-embed-text',
+            input: cleanedText
+          }),
+          signal: AbortSignal.timeout(3000)
+        });
+        if (response.ok) {
+          const result = await response.json();
+          const vector = result.embedding || (result.embeddings && result.embeddings[0]);
+          if (vector) {
+            fs.writeFileSync(embedFilePath, JSON.stringify(vector), 'utf-8');
+            return vector;
+          }
+        }
+      } catch (e2) {
+        // Fall through to fallback mock vector
+      }
     }
   }
   
@@ -178,19 +232,28 @@ async function getEmbedding(text, relPath) {
     hash = (hash << 5) - hash + cleanedText.charCodeAt(i);
     hash |= 0;
   }
+  const factor = hash / 1000000;
   for (let d = 0; d < 768; d++) {
-    const val = Math.sin(hash + d) * Math.cos(hash * d);
-    vector.push(parseFloat(val.toFixed(6)));
+    vector.push(Math.sin(factor + d));
   }
-  fs.writeFileSync(embedFilePath, JSON.stringify(vector), 'utf-8');
   return vector;
 }
 
+const staticMockVector = Array.from({ length: 768 }, (_, i) => parseFloat(Math.sin(i).toFixed(6)));
+
 async function buildIndex() {
-  const foldersToScan = ['maps', 'skills', 'daily-digests', 'prompts', 'ai', 'web-development', 'workspace-archive'];
+  // Dynamically scan all directories in the vault except for internal system/temporary folders
+  const foldersToScan = fs.readdirSync(VAULT_ROOT).filter(file => {
+    const filePath = path.join(VAULT_ROOT, file);
+    return fs.statSync(filePath).isDirectory() && 
+           !file.startsWith('.') && 
+           !['node_modules', 'vault-core', 'scripts', 'temp_vault', 'temp_vault2'].includes(file);
+  });
+  console.log(`Discovered and scanning folders: ${foldersToScan.join(', ')}`);
   const nodes = [];
   const edges = [];
   const embeddingsMap = {};
+  const fileContentCache = new Map();
   
   // Read existing index to preserve access metrics
   const oldIndex = stateManager.readIndex();
@@ -205,15 +268,32 @@ async function buildIndex() {
     if (!fs.existsSync(folderPath)) continue;
     
     const files = getMarkdownFiles(folderPath);
+    const isArchiveOrAI = folder === 'workspace-archive' || folder === 'ai';
+    
     for (const filePath of files) {
       const relPath = path.relative(VAULT_ROOT, filePath).replace(/\\/g, '/');
       try {
-        const content = fs.readFileSync(filePath, 'utf-8');
-        const parsed = parseMarkdown(content);
-        const title = (parsed.title || path.basename(relPath, '.md')).replace(/^["']|["']$/g, '');
+        let title, tags, tech_stack, quality_score;
         
-        const embedding = await getEmbedding(parsed.body, relPath);
-        embeddingsMap[relPath] = embedding;
+        if (isArchiveOrAI) {
+          // Bypass disk reads for large archives (loaded on-demand by client)
+          title = path.basename(relPath, '.md').replace(/^["']|["']$/g, '');
+          tags = [];
+          tech_stack = [];
+          quality_score = 0;
+          embeddingsMap[relPath] = staticMockVector;
+        } else {
+          const content = fs.readFileSync(filePath, 'utf-8');
+          fileContentCache.set(relPath, content);
+          const parsed = parseMarkdown(content);
+          title = (parsed.title || path.basename(relPath, '.md')).replace(/^["']|["']$/g, '');
+          tags = Array.isArray(parsed.metadata.tags) ? parsed.metadata.tags : (parsed.metadata.tags ? [String(parsed.metadata.tags)] : []);
+          tech_stack = Array.isArray(parsed.metadata.tech_stack) ? parsed.metadata.tech_stack : (parsed.metadata.tech_stack ? [String(parsed.metadata.tech_stack)] : []);
+          quality_score = parsed.metadata.quality_score || 0;
+          
+          const embedding = await getEmbedding(parsed.body, relPath);
+          embeddingsMap[relPath] = embedding;
+        }
         
         const oldNode = oldNodesMap.get(relPath);
         
@@ -222,10 +302,10 @@ async function buildIndex() {
           path: relPath,
           title: title,
           category: folder,
-          tags: Array.isArray(parsed.metadata.tags) ? parsed.metadata.tags : (parsed.metadata.tags ? [String(parsed.metadata.tags)] : []),
-          tech_stack: Array.isArray(parsed.metadata.tech_stack) ? parsed.metadata.tech_stack : (parsed.metadata.tech_stack ? [String(parsed.metadata.tech_stack)] : []),
-          quality_score: parsed.metadata.quality_score || 0,
-          rag_relevance: parsed.metadata.rag_relevance || 0,
+          tags: tags,
+          tech_stack: tech_stack,
+          quality_score: quality_score,
+          rag_relevance: 0,
           embedding_vector_id: `vec_${relPath.replace(/[^a-zA-Z0-9]/g, '_')}`,
           last_modified: new Date().toISOString(),
           access_count: oldNode?.access_count || 0,
@@ -239,10 +319,22 @@ async function buildIndex() {
     }
   }
   
+  // Map nodes by path for fast O(1) lookups
+  const nodesByPathMap = new Map();
+  nodes.forEach(n => nodesByPathMap.set(n.path.toLowerCase(), n));
+  
+  // Set to track edge existence in O(1)
+  const edgeKeys = new Set();
+  
+  // Helper to generate edge keys
+  const getEdgeKey = (src, tgt) => {
+    return src < tgt ? `${src}::${tgt}` : `${tgt}::${src}`;
+  };
+  
   // 2. Resolve edges from direct markdown links
   for (const node of nodes) {
+    const content = fileContentCache.get(node.path) || '';
     const filePath = path.join(VAULT_ROOT, node.path);
-    const content = fs.readFileSync(filePath, 'utf-8');
     const folderDir = path.dirname(filePath);
     
     const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g;
@@ -259,13 +351,11 @@ async function buildIndex() {
         const resolvedPath = path.resolve(folderDir, linkUrl);
         const resolvedRelPath = path.relative(VAULT_ROOT, resolvedPath).replace(/\\/g, '/');
         
-        const targetNode = nodes.find(n => n.path.toLowerCase() === resolvedRelPath.toLowerCase());
+        const targetNode = nodesByPathMap.get(resolvedRelPath.toLowerCase());
         if (targetNode && targetNode.path !== node.path) {
-          const edgeExists = edges.some(e => 
-            (e.source === node.path && e.target === targetNode.path) || 
-            (e.source === targetNode.path && e.target === node.path)
-          );
-          if (!edgeExists) {
+          const edgeKey = getEdgeKey(node.path, targetNode.path);
+          if (!edgeKeys.has(edgeKey)) {
+            edgeKeys.add(edgeKey);
             edges.push({
               source: node.path,
               target: targetNode.path,
@@ -281,14 +371,14 @@ async function buildIndex() {
   }
   
   // 3. Compute edges using cosine similarity and tag/tech stack overlaps
+  const mainCategories = ['maps', 'skills', 'daily-digests', 'prompts', 'build-ideas', 'learning-paths', 'intelligence'];
   for (let i = 0; i < nodes.length; i++) {
     for (let j = i + 1; j < nodes.length; j++) {
       const n1 = nodes[i];
       const n2 = nodes[j];
       
-      // Skip similarity check for large archives/crawler dirs to avoid O(N^2) CPU and memory blockages
-      if (n1.category === 'workspace-archive' || n1.category === 'ai' ||
-          n2.category === 'workspace-archive' || n2.category === 'ai') {
+      // Skip similarity check if either node is outside of the core structured categories to avoid O(N^2) lockups
+      if (!mainCategories.includes(n1.category) || !mainCategories.includes(n2.category)) {
         continue;
       }
       
@@ -313,12 +403,9 @@ async function buildIndex() {
       const isConnected = sim > 0.75 || sharedTags.length >= 1 || sharedTech.length >= 1;
       
       if (isConnected) {
-        const edgeExists = edges.some(e => 
-          (e.source === n1.path && e.target === n2.path) || 
-          (e.source === n2.path && e.target === n1.path)
-        );
-        
-        if (!edgeExists) {
+        const edgeKey = getEdgeKey(n1.path, n2.path);
+        if (!edgeKeys.has(edgeKey)) {
+          edgeKeys.add(edgeKey);
           weight = Math.min(weight, 0.98);
           
           if (sharedTech.length >= 1) {
