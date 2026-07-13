@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect } from 'react';
-import { Search, Folder, FileText, ChevronRight, ChevronDown, Clock, Github, BookOpen, ExternalLink, ArrowLeft, TrendingUp } from 'lucide-react';
+import { Search, Folder, FileText, ChevronRight, ChevronDown, Clock, BookOpen, ExternalLink, ArrowLeft, TrendingUp } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 import { useVaultIndex } from './data/vaultHooks';
 
