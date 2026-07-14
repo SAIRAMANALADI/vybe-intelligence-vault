@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 60,383 files</p>
-        <p><b>Last Update:</b> 2026-07-15 01:39 IST</p>
+        <p><b>Last Update:</b> 2026-07-15 03:26 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,25 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Australian energy retailers must provide three hours of free daytime electricity](ai/community/australian-energy-retailers-must-provide-three-hou.md)** • <kbd>+68 pts</kbd>
-- 🔼 **[Indian scientists produce most detailed 3D atlas of the human brainstem](ai/community/indian-scientists-produce-most-detailed-3d-atlas-o.md)** • <kbd>+61 pts</kbd>
-- 🔼 **[Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)](ai/community/danau5tin-ai-trains-ai.md)** • <kbd>+44 pts</kbd>
-- 🔼 **[alexfazio/crewAI-quickstart](ai/agents/alexfazio-crewai-quickstart.md)** • Rank: <kbd>+92</kbd>
-- 🔼 **[tonykipkemboi/trip_planner_agent](ai/rag/tonykipkemboi-trip-planner-agent.md)** • Rank: <kbd>+92</kbd>
+- 🔼 **[gomate-community/awesome-papers-for-rag](ai/rag/gomate-community-awesome-papers-for-rag.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[GraphRAG-Bench/GraphRAG-Benchmark](ai/rag/graphrag-bench-graphrag-benchmark.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[zhengxuJosh/Awesome-RAG-Vision](ai/rag/zhengxujosh-awesome-rag-vision.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[jxzhangjhu/Awesome-LLM-RAG](ai/rag/jxzhangjhu-awesome-llm-rag.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[topoteretes/awesome-ai-memory](ai/rag/topoteretes-awesome-ai-memory.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Are we offloading too much of our thinking to AI?](ai/community/are-we-offloading-too-much-of-our-thinking-to-ai.md)** • Score: `258`
-- 🆕 **[How the FSF sysadmins block botnets with reaction](web-development/community/how-the-fsf-sysadmins-block-botnets-with-reaction.md)** • Score: `137`
-- 🆕 **[Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone](ai/community/bonsai-27b-1-bit-llm-the-first-27b-class-model-to.md)** • Score: `96`
-- 🆕 **[The largest available Minecraft world, totalling 15 TB](ai/community/the-largest-available-minecraft-world-totalling-15.md)** • Score: `43`
-- 🆕 **[Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations](ai/community/launch-hn-agnost-ai-yc-s26-extract-user-feedback-f.md)** • Score: `23`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Coding agents think ahead of time](ai/agents/arxiv-2607-05188.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
