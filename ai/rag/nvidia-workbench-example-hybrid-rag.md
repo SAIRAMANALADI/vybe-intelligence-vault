@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-13T09:36:03.637304+05:30'
+collected_at: '2026-07-14T09:17:37.262586+05:30'
 published_at: '2026-06-30T16:45:55Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 368
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-13T09:36:03.637304+05:30'
-last_seen: '2026-07-13T09:36:03.637304+05:30'
-last_checked: '2026-07-13T09:36:03.637304+05:30'
+first_seen: '2026-07-14T09:17:37.262586+05:30'
+last_seen: '2026-07-14T09:17:37.262586+05:30'
+last_checked: '2026-07-14T09:17:37.262586+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector) and sparse (keyword/BM25) retrieval methods for enhanced document search and context augmentation in LLM responses.
-
-- **NVIDIA AI Workbench Integration**: Showcases deployment and optimization of the RAG system using NVIDIA's AI Workbench, leveraging GPU acceleration (e.g., CUDA, TensorRT) for efficient inference and retrieval.
-
-- **Python-Based Pipeline**: Provides a modular Python codebase with dependencies (e.g., LangChain, FAISS/Annoy for vector search, Pyserini for sparse retrieval) for end-to-end RAG workflows, including indexing, retrieval, and generation.
+- **Hybrid RAG Pipeline**: Implements a hybrid retrieval-augmented generation (RAG) system combining dense (vector-based) and sparse (keyword/BM25) retrieval methods to enhance document retrieval accuracy.
+- **NVIDIA AI Workbench Integration**: Demonstrates deployment of the RAG pipeline using NVIDIA AI Workbench, leveraging GPU-accelerated libraries (e.g., FAISS, TensorRT-LLM) for optimized performance.
+- **Modular Python Implementation**: Provides a Python-based reference architecture with modular components for retrieval, reranking, and generation, facilitating customization for domain-specific applications.
 
 ## Why It Matters
 

@@ -6,7 +6,7 @@ source_url: https://github.com/tonykipkemboi/trip_planner_agent
 resource_id: github:tonykipkemboi/trip_planner_agent
 local_vault_path: ai/rag/tonykipkemboi-trip-planner-agent.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **CrewAI Integration**: Utilizes CrewAI framework to orchestrate multiple AI agents for collaborative trip planning tasks.
-- **LLM-Driven Logic**: Leverages large language models (LLMs) via OpenAI for dynamic itinerary generation and real-time decision-making.
-- **Python-Based Open-Source Tool**: Open-source Python repository with modular agent architecture for extensible vacation planning workflows.
+- **CrewAI-based Multi-Agent System**: Implements autonomous AI agents (e.g., planner, researcher, travel advisor) using CrewAI framework to collaboratively design vacation itineraries via LLM orchestration.
+
+- **Python Implementation**: Leverages Python with CrewAI, OpenAI API integrations, and modular agent definitions to dynamically generate trip plans based on user inputs (e.g., destination, budget, preferences).
+
+- **Open-Source Toolkit**: Provides a lightweight, extensible framework for LL
 
 ## Use Cases
 

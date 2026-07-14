@@ -6,17 +6,16 @@ source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
 resource_id: github:vstorm-co/full-stack-ai-agent-template
 local_vault_path: ai/rag/vstorm-co-full-stack-ai-agent-template.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: template
-importance: high
+importance: medium
 tags:
 - agents
 - frontend_ui
 - github-repo
 - python
 - rag
-- reddit
 - workflows
 selection_reason:
 - Strong keyword match
@@ -28,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Full-stack AI agent template** integrating FastAPI (backend) and Next.js (frontend) with pre-configured AI agent frameworks (**LangChain, LangGraph, CrewAI, Pydantic-AI**), **RAG**, streaming, and **20+ integrations** (e.g., PostgreSQL, Docker, WebSocket).
+- **Full-stack AI Agent Template**: Pre-configured starter kit with FastAPI backend and Next.js frontend, integrating AI Agents, Retrieval-Augmented Generation (RAG), real-time streaming, authentication, and 20+ third-party integrations (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI).
 
-- **Authentication & data validation** via **Pydantic** (Deep) and **PostgreSQL**, with **React/TypeScript** frontend for dynamic UI, optimized for AI agent workflows.
-
-- **Production-ready stack** with **FastAPI** for REST/WebSocket APIs
+- **Tech Stack**: Python-based backend with FastAPI, PostgreSQL for data persistence, and a React/TypeScript frontend via Next.js; includes Docker for containerization, WebSocket support for real-time communicat
 
 ## Use Cases
 

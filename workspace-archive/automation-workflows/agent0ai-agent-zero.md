@@ -14,6 +14,7 @@ tags:
 - agents
 - github-repo
 - python
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous AI Agent Framework**: Agent Zero is a Python-based open-source framework designed for building autonomous AI agents capable of performing complex tasks without continuous human intervention.
+- **Framework Overview**: Agent Zero is an open-source AI framework in Python designed for building autonomous agents with capabilities for task execution, reasoning, and interaction in Linux environments.
 
-- **Modular Architecture**: The framework emphasizes modularity, enabling developers to integrate custom tools, APIs, and workflows while supporting Linux environments for execution.
+- **Core Architecture**: Implements a modular design with components for memory management, tool integration, and decision-making, enabling customizable agent behavior and workflow automation.
 
-- **Self-Improving Capabilities**: Agent Zero includes mechanisms for self-monitoring, task adaptation, and i
+- **Key Features**: Supports multi-agent systems, integrates with LLMs for natural language process
 
 ## Use Cases
 

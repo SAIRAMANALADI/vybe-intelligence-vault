@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/coding-agent-template
-collected_at: '2026-07-13T09:37:33.689662+05:30'
-published_at: '2026-07-12T18:45:30Z'
+collected_at: '2026-07-14T09:19:12.372030+05:30'
+published_at: '2026-07-13T12:07:51Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
 - workflows
-stars: 1742
+stars: 1743
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-23T14:00:46Z'
 pushed_at: '2026-04-13T21:44:42Z'
 resource_id: github:vercel-labs/coding-agent-template
-first_seen: '2026-07-13T09:37:33.689662+05:30'
-last_seen: '2026-07-13T09:37:33.689662+05:30'
-last_checked: '2026-07-13T09:37:33.689662+05:30'
+first_seen: '2026-07-14T09:19:12.372030+05:30'
+last_seen: '2026-07-14T09:19:12.372030+05:30'
+last_checked: '2026-07-14T09:19:12.372030+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Multi-agent system leveraging Vercel Sandbox for isolated execution and AI Gateway for unified AI model access, enabling parallelized, distributed coding workflows in TypeScript.
+- **Architecture**: Multi-agent AI coding platform leveraging Vercel Sandbox for isolated execution environments and Vercel AI Gateway for unified AI model access and routing.
 
-- **Key Components**: Integrates agent orchestration with Vercel’s serverless infrastructure, supporting dynamic agent deployment, state management, and inter-agent communication via standardized APIs.
+- **Tech Stack**: Built in TypeScript, integrating Vercel’s serverless infrastructure with agent-based workflows for autonomous code generation, testing, and deployment.
 
-- **Use Case**: Designed for autonomous or semi-autonomous AI-driven software development, facilitating tasks like code generation, testing, and debugging through modular, reusable agent templates.
+- **Key Features**: Enables parallelized agent collaboration (e.g., planners, coders, reviewers) with sandboxed execution, real-time feedback, and AI model abstraction via Vercel AI Gateway.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 1742
-- Forks: 284
+- Stars: 1743
+- Forks: 285
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-07-12T18:45:30Z
+- Last Updated: 2026-07-13T12:07:51Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-23T14:00:46Z

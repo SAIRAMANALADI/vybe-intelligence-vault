@@ -5,8 +5,8 @@ category: ai/companies/anthropic
 source_type: company_blog
 source_name: Anthropic News
 source_url: https://anthropic.com/news/ben-bernanke
-published_at: '2026-07-13T09:34:17.401010+05:30'
-collected_at: '2026-07-13T09:34:17.401012+05:30'
+published_at: '2026-07-14T09:09:49.232723+05:30'
+collected_at: '2026-07-14T09:09:49.232725+05:30'
 tags:
 - anthropic
 - anthropic-news
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: blog:jul-9-2026announcementsben-bernanke-appointed-to-a
 first_seen: '2026-07-10T04:15:30.502293+05:30'
-last_seen: '2026-07-13T09:34:17.401012+05:30'
-last_checked: '2026-07-13T09:34:17.401012+05:30'
+last_seen: '2026-07-14T09:09:49.232725+05:30'
+last_checked: '2026-07-14T09:09:49.232725+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Anthropic News
 - Article URL: https://anthropic.com/news/ben-bernanke
-- Collected At: 2026-07-13T09:34:17.401012+05:30
+- Collected At: 2026-07-14T09:09:49.232725+05:30
 
 ## Related Tags
 

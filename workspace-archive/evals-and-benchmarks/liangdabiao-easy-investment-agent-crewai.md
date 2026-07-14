@@ -6,19 +6,20 @@ source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
 resource_id: github:liangdabiao/easy_investment_agent_crewai
 local_vault_path: ai/rag/liangdabiao-easy-investment-agent-crewai.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
 - github-repo
 - python
 - rag
+- scripts
+- workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # liangdabiao/easy_investment_Agent_crewai
@@ -26,17 +27,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Multi-Agent A股 Analysis**: Implements 4 specialized AI agents (data retrieval, financial analysis, sentiment evaluation, decision synthesis) using CrewAI for collaborative A股 (China A-share) investment analysis.
-- **AKShare Integration**: Leverages AKShare for real-time A股 data (quotes, financials, fund flows, sentiment) with Python-based tooling for structured analysis.
-- **Decision Optimization**: Generates actionable investment recommendations by synthesizing multi-source data, tailored t
+- **Multi-Agent A股 Analysis Framework**: Leverages AKShare for real-time A股 data (quotes, financials, fund flows, sentiment) and CrewAI to orchestrate 4 specialized AI agents (e.g., data fetcher, analyzer, sentiment evaluator, decision generator) for collaborative investment insights.
+
+- **China-Specific Optimization**: Tailored workflows for A股 market nuances (e.g., regulatory constraints, liquidity patterns, sector-specific metrics) with automated report generation and risk assessment.
+
+- **En
 
 ## Use Cases
 

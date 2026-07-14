@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-13T09:36:43.610355+05:30'
+collected_at: '2026-07-14T09:18:17.247231+05:30'
 published_at: '2026-07-10T05:31:39Z'
 tags:
-- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - reddit
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-13T09:36:43.610355+05:30'
-last_seen: '2026-07-13T09:36:43.610355+05:30'
-last_checked: '2026-07-13T09:36:43.610355+05:30'
+first_seen: '2026-07-14T09:18:17.247231+05:30'
+last_seen: '2026-07-14T09:18:17.247231+05:30'
+last_checked: '2026-07-14T09:18:17.247231+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Framework**: Introduces *PoisonedRAG*, a first-of-its-kind attack targeting Retrieval-Augmented Generation (RAG) systems by corrupting the retrieval corpus to manipulate LLM outputs during inference.
-- **Knowledge Corruption Mechanism**: Demonstrates how adversaries can subtly alter retrieved documents (e.g., via adversarial perturbations or synthetic data poisoning) to bias LLM responses toward attacker-desired outcomes without direct model access.
-- **Evaluation & Mitigations**: Provides empirical evidence of attack efficacy across multiple RAG pipelines, along with preliminary defense strategies (e.g., retrieval integrity checks, anomaly detection in embeddings) to mitigate corpus poisoning risks.
+- **Attack Mechanism**: Introduces *PoisonedRAG*, a novel knowledge corruption attack targeting Retrieval-Augmented Generation (RAG) systems by manipulating the retrieval database to inject adversarial content, causing LLMs to generate misleading or harmful outputs.
+
+- **Technical Implementation**: Leverages *trigger-based poisoning* where adversaries subtly alter or insert malicious documents into the retrieval corpus, exploiting the RAG pipeline’s reliance on external knowledge sources to propagate incorrect or biased information.
+
+- **Impact & Mitigation**: Demonstrates significant degradation in RAG system reliability, with potential for large-scale misinformation dissemination; proposes defenses via robust retrieval filtering and adversarial training.
 
 ## Why It Matters
 

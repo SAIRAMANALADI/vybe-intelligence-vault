@@ -8,7 +8,7 @@ local_vault_path: ai/rag/packtpublishing-llm-engineers-handbook.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
@@ -17,10 +17,9 @@ tags:
 - models
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # PacktPublishing/LLM-Engineers-Handbook
@@ -29,18 +28,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Comprehensive LLM Engineering Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-grade systems.
-
-- **Technical Focus Areas**: Includes fine-tuning LLMs, evaluation frameworks, MLOps/ML system design, and GenAI-specific workflows with hands-on Python implementations.
-
-- **AWS-Centric Deployment**: Demonstrates end-to-end deployment strategies for LLM/RAG apps on AWS, emphasizing operational excelle
+- **Comprehensive LLM Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS using LLMOps best practices, structured as a practical handbook.
+- **Technical Focus**: Includes fine-tuning LLMs, LLM evaluation, ML system design, and MLOps, with Python-based implementations and AWS integration.
+- **Repository Metrics**: 5,222 stars, 1,250 forks, last updated July 14, 2026, with topics spanning AWS, GenAI, LLMOps, and RAG.
 
 ## Use Cases
 

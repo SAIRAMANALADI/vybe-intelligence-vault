@@ -8,14 +8,13 @@ local_vault_path: ai/agents/crewaiinc-crewai-tools.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: workflow
+resource_kind: api
 importance: medium
 tags:
 - agents
 - github-repo
 - python
 - scripts
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -27,7 +26,7 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: workflow
+- Resource kind: api
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
@@ -36,7 +35,7 @@ selection_reason:
 
 - **Purpose**: Extends CrewAI agent capabilities via modular Python tools for enhanced AI agent functionality.
 - **Key Features**: Provides pre-built tools for tasks like web scraping, API interactions, and data processing.
-- **Integration**: Compatible with CrewAI agents, enabling seamless tool utilization for agent workflows.
+- **Integration**: Designed for seamless compatibility with CrewAI agents, enabling custom tool development and deployment.
 
 ## Use Cases
 

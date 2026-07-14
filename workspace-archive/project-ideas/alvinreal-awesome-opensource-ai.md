@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Open-Source AI Repository**: Hosts a meticulously maintained list of truly open-source AI projects, models, tools, and infrastructure, with daily updates.
-- **Technical Scope**: Encompasses agents, generative AI, LLMs, machine learning, MLOps, and RAG, primarily implemented in Python.
-- **Community Metrics**: 4,116 stars, 495 forks, last updated July 13, 2026.
+- **Curated Open-Source AI Resources**: Repository (`alvinreal/awesome-opensource-ai`) listing high-quality, truly open-source AI projects, models, tools, and infrastructure, with daily updates.
+- **Technical Scope**: Focuses on agents, generative AI, LLMs, machine learning (MLOps), and RAG, primarily implemented in Python.
+- **Community Metrics**: 4,132 stars, 499 forks, last updated July 14, 2026.
 
 ## Use Cases
 

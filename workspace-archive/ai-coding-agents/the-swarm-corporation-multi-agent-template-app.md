@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Template Purpose**: Provides a minimal, high-performance foundation for rapidly deploying multi-agent applications with support for frameworks like AutoGen, CrewAI, LangChain, and HuggingFace Transformers.
-- **Technical Stack**: Shell-based template optimized for agentic workflows, integrating LLMs, transformers, and agent operations (AgentOps) with testing capabilities.
-- **Key Features**: Simplified setup for multi-agent systems, modular design for swarm-based architectures, and last updat
+- **Template Overview**: Provides a minimalist, high-performance foundation for deploying multi-agent systems with support for frameworks like AutoGen, CrewAI, LangChain, and HuggingFace Transformers.
+
+- **Technical Stack**: Shell-based repository optimized for agentic workflows, integrating LLMs, transformers, and multi-agent orchestration tools (e.g., Swarms, AgentOps).
+
+- **Purpose**: Enables rapid setup and testing of agent-based applications with modular components for scalability and relia
 
 ## Use Cases
 

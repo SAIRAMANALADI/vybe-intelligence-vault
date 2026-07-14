@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG), emphasizing cutting-edge methodologies and empirical evaluations.
-- **Python-Centric Tooling**: Hosts Python-based implementations, frameworks, and libraries (e.g., LangChain, LlamaIndex) for RAG pipeline development, evaluation, and deployment.
-- **Community-Driven Maintenance**: Actively updated (last commit: 2026-07-01) with collaborative contributio
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG) methodologies, architectures, and applications.
+- **Python-Centric Tooling**: Includes implementations, frameworks, and libraries (e.g., LangChain, LlamaIndex) for RAG system development, evaluation, and deployment in Python.
+- **Last Updated**: Repository metadata reflects a recent update (2026-07-01), indicating active maintenance and inclusion of cutt
 
 ## Use Cases
 

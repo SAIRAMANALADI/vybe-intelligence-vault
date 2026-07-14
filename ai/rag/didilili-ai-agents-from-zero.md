@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-07-13T09:37:23.626890+05:30'
-published_at: '2026-07-13T03:48:39Z'
+collected_at: '2026-07-14T09:19:02.286793+05:30'
+published_at: '2026-07-14T03:24:53Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - models
 - python
 - rag
-stars: 2691
+stars: 2722
 language: Python
 status: active
 license: MIT
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-01-29T02:49:11Z'
 pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
-first_seen: '2026-07-13T09:37:23.626890+05:30'
-last_seen: '2026-07-13T09:37:23.626890+05:30'
-last_checked: '2026-07-13T09:37:23.626890+05:30'
+first_seen: '2026-07-14T09:19:02.286793+05:30'
+last_seen: '2026-07-14T09:19:02.286793+05:30'
+last_checked: '2026-07-14T09:19:02.286793+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Learning Path**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, with hands-on projects, interview prep, and enterprise deployment/fine-tuning guidance.
+- **Comprehensive 2026 AI Agent Learning Path**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering with a structured curriculum targeting enterprise-level AI agent development roles.
 
-- **Full-Stack AI Agent Development**: Integrates skills from LLM integration to enterprise-grade deployment, including RAG pipelines, agent frameworks, and MCP/skills-based architectures.
+- **Hands-on Projects & Deployment**: Includes practical implementations, enterprise-grade deployment strategies, and fine-tuning techniques for AI agents, transitioning from learning to real-world deployment.
 
-- **Project-to-Interview Pipeline**: Provides structured learning from zero to production deployment, with curated interview questions and real-world project examples for AI Agent Engineering roles.
+- **Interview Preparation & Toolchain**: Provides a curated interview question bank and integrates tools like Cursor, DeepAgents, and Skills, ensuring alignment with large-scale model application development requirements.
 
 ## Why It Matters
 
@@ -43,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: didilili
-- Stars: 2691
-- Forks: 378
+- Stars: 2722
+- Forks: 384
 - Language: Python
 - Topics: agent, agent-framework, agentic-ai, ai-agent, aigc, coze, cursor, deepagents, dify, gpt, langchain, langgraph, llm, mcp, rag, skills, tutorial
-- Last Updated: 2026-07-13T03:48:39Z
+- Last Updated: 2026-07-14T03:24:53Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-29T02:49:11Z

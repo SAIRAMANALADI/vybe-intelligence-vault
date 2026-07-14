@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-07-13T09:38:03.697803+05:30'
+collected_at: '2026-07-14T09:19:37.331424+05:30'
 published_at: '2026-07-10T09:43:36Z'
 tags:
 - agents
+- frontend_ui
 - github-repo
+- hackernews
 - rag
 - reddit
 - unknown
-- workflows
 stars: 194
 language: Unknown
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-07-13T09:38:03.697803+05:30'
-last_seen: '2026-07-13T09:38:03.697803+05:30'
-last_checked: '2026-07-13T09:38:03.697803+05:30'
+first_seen: '2026-07-14T09:19:37.331424+05:30'
+last_seen: '2026-07-14T09:19:37.331424+05:30'
+last_checked: '2026-07-14T09:19:37.331424+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Implements advanced caching strategies, stale-while-revalidate (SWR) policies, and automatic retries for failed queries to enhance data fetching efficiency in AI-driven applications.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and state synchronization in AI-driven applications, leveraging TanStack Query's reactivity and performance optimizations.
 
-- **State Management with TanStack Router**: Utilizes dynamic route matching, prefetching, and nested layout routing to streamline navigation and state synchronization in complex AI agent workflows.
+- **Router Best Practices for AI Agents**: Provides structured routing strategies using TanStack Router to handle dynamic, AI-generated navigation paths with type safety and minimal re-rendering overhead.
 
-- **Performance Tuning for TanStack Start**: Leverages server-side rendering (SSR) and hydration optimizations to reduce Time-to-First-Byte (TTFB) and improve runtime performance for AI agents.
+- **Start Framework Integration**: Outlines initialization and lifecycle management techniques for TanStack Start in AI coding agents, ensuring seamless SSR/SSG compatibility and minimal bundle impact.
 
 ## Why It Matters
 

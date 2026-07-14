@@ -6,13 +6,14 @@ source_url: https://github.com/esxr/langgraph-mcp
 resource_id: github:esxr/langgraph-mcp
 local_vault_path: ai/rag/esxr-langgraph-mcp.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
-resource_kind: template
+resource_kind: mcp-server
 importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 - reddit
@@ -27,17 +28,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: template
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Purpose**: Provides a LangGraph-based solution template for the Model Context Protocol (MCP), enabling structured workflows for MCP interactions.
-- **Implementation**: Python-based framework leveraging LangGraph for graph-based orchestration of MCP-compatible tools and services.
-- **Status**: Actively maintained (last updated July 2026) with 583 stars and 110 forks, indicating community adoption.
+- **LangGraph MCP Template**: Provides a structured Python-based framework for implementing **Model Context Protocol (MCP)** using LangGraph, enabling stateful, multi-actor workflows with graph-based orchestration.
+- **Key Features**: Implements modular components for MCP servers/clients, supports dynamic graph construction, and integrates with LangChain/LangGraph ecosystems for LLM-driven workflows.
+- **Technical Stack**: Python-based, leverages LangGraph’s graph-based execution model, and incl
 
 ## Use Cases
 

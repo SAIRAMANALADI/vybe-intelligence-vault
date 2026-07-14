@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-13T09:36:13.604811+05:30'
+collected_at: '2026-07-14T09:17:47.250418+05:30'
 published_at: '2026-07-07T14:48:17Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
+- workflows
 stars: 264
 language: Python
 status: active
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-13T09:36:13.604811+05:30'
-last_seen: '2026-07-13T09:36:13.604811+05:30'
-last_checked: '2026-07-13T09:36:13.604811+05:30'
+first_seen: '2026-07-14T09:17:47.250418+05:30'
+last_seen: '2026-07-14T09:17:47.250418+05:30'
+last_checked: '2026-07-14T09:17:47.250418+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of RAG for Vietnamese**: Demonstrates best practices for Vietnamese-specific Retrieval-Augmented Generation (RAG) pipelines, including text preprocessing, embedding generation, and retrieval strategies optimized for Vietnamese language characteristics.
+- **Implementation**: Python-based Retrieval-Augmented Generation (RAG) system optimized for Vietnamese language processing, integrating vector search and LLM inference.
 
-- **Modular Python Architecture**: Provides a scalable backend with components for document retrieval, vector storage (e.g., FAISS/Weaviate), and LLM integration, leveraging libraries like `sentence-transformers` and `langchain`.
+- **Architecture**: Utilizes FAISS (Facebook AI Similarity Search) for efficient vector storage/retrieval and leverages a Vietnamese-specific embedding model (e.g., `vinai/phobert-base`).
 
-- **Evaluation & Optimization**: Includes benchmarking tools for Vietnamese RAG performance, with metrics for retrieval accuracy, response quality, and latency, alongside configuration examples for local/remote deployment.
+- **Pipeline**: End-to-end workflow includes document chunking, Vietnamese text embedding, similarity search, and prompt augmentation for downstream LLM tasks.
 
 ## Why It Matters
 

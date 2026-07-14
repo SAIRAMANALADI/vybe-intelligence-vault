@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Open-Source Projects**: Repository aggregates community-built AI agent projects leveraging CrewAI, facilitating discovery and contribution.
-- **Metadata**: 502 stars, 128 forks, last updated 2026-07-11T14:50:16Z; language and topics unspecified.
-- **Purpose**: Enables extension of AI agent capabilities through open-source contributions and collaborative development.
+- **Curated Open-Source Projects**: Repository aggregates community-built AI agent projects leveraging CrewAI, enabling discovery and contribution.
+- **Metadata**: 502 stars, 129 forks, last updated July 11, 2026.
+- **Purpose**: Facilitates extension of AI agent capabilities through open-source collaboration.
 
 ## Use Cases
 

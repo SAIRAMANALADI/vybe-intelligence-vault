@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Tencent/WeKnora
-collected_at: '2026-07-13T09:35:58.639414+05:30'
-published_at: '2026-07-13T03:39:12Z'
+collected_at: '2026-07-14T09:17:37.240522+05:30'
+published_at: '2026-07-14T03:38:37Z'
 tags:
 - agents
 - benchmark
@@ -15,17 +15,18 @@ tags:
 - models
 - openai
 - rag
-stars: 18167
+- scripts
+stars: 18240
 language: Go
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2025-07-22T08:01:23Z'
-pushed_at: '2026-07-13T04:02:01Z'
+pushed_at: '2026-07-14T03:38:30Z'
 resource_id: github:tencent/weknora
-first_seen: '2026-07-13T09:35:58.639414+05:30'
-last_seen: '2026-07-13T09:35:58.639414+05:30'
-last_checked: '2026-07-13T09:35:58.639414+05:30'
+first_seen: '2026-07-14T09:17:37.240522+05:30'
+last_seen: '2026-07-14T09:17:37.240522+05:30'
+last_checked: '2026-07-14T09:17:37.240522+05:30'
 health_score: 100
 ---
 
@@ -33,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal RAG & Agent Framework**: Implements Retrieval-Augmented Generation (RAG) with support for vector search, re-ranking, and semantic search; enables autonomous reasoning agents and self-maintaining wiki functionality via raw document ingestion.
+- **Multi-Model RAG & Agent Framework**: Implements Retrieval-Augmented Generation (RAG) with support for OpenAI, Ollama, and other LLMs, enabling autonomous reasoning agents and self-maintaining wiki functionality via vector search, embeddings, and reranking.
 
-- **Scalable, Multi-tenant Architecture**: Built in Go with OpenAI/Ollama compatibility, supporting multi-model LLMs, embeddings, and evaluation pipelines for enterprise-grade knowledge base management.
+- **Go-Based Scalable Architecture**: Built in Go for high-performance multi-tenant deployment, integrating semantic search, vector databases, and evaluation pipelines for generative AI applications.
 
-- **Advanced Query & Maintenance**: Integrates question-answering, chatbot interfaces, and automated document processing to maintain an up-to-date, queryable knowledge repository with minimal manual intervention.
+- **Knowledge Pipeline Automation**: Transforms raw documents into queryable knowledge bases with multimodal support, enabling chatbots, Q&A systems, and dynamic wiki maintenance.
 
 ## Why It Matters
 
@@ -46,15 +47,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Tencent
-- Stars: 18167
-- Forks: 2494
+- Stars: 18240
+- Forks: 2511
 - Language: Go
 - Topics: agent, agentic, ai, chatbot, embeddings, evaluation, generative-ai, golang, knowledge-base, llm, multi-tenant, multimodel, ollama, openai, question-answering, rag, reranking, semantic-search, vector-search, wiki
-- Last Updated: 2026-07-13T03:39:12Z
+- Last Updated: 2026-07-14T03:38:37Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-07-22T08:01:23Z
-- Pushed At: 2026-07-13T04:02:01Z
+- Pushed At: 2026-07-14T03:38:30Z
 
 ## Possible Use Cases
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/onyx-dot-app-enterpriserag-bench.md
 quality_score: 70
 archive_score: 81
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - benchmark
@@ -19,7 +19,7 @@ tags:
 - unknown
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # onyx-dot-app/EnterpriseRAG-Bench
@@ -28,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 81 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Purpose**: Provides a benchmarking framework and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, enabling standardized assessment of retrieval and generation performance.
+- **Purpose**: Provides a benchmark dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, enabling standardized assessment of performance in real-world scenarios.
 
-- **Key Features**: Includes diverse enterprise document types (e.g., contracts, emails, reports) with synthetic Q&A pairs, semantic search evaluation, and LLM-based assessment metrics for retrieval quality and answer correctness.
+- **Key Features**: Includes synthetic data generation for diverse enterprise knowledge bases, semantic search evaluation, and LLM-based QA performance metrics across retrieval and generation tasks.
 
-- **Technical Scope**: Suppo
+- **Technical Scope**: Supports Python-based RAG evaluation pipelines, covering informat
 
 ## Use Cases
 

@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Systems**: Repository focuses on advanced AI agent architectures, including agent skills, frameworks, and workflows for agentic AI development.
-- **Memory & Reasoning Loops**: Includes tutorials on integrating memory systems and iterative reasoning loops for enhanced agent planning and decision-making.
-- **Agentic RAG & Coding**: Demonstrates agentic retrieval-augmented generation (RAG) and AI-driven coding agents for autonomous task execution.
+- **Multi-Agent Architectures**: Repository focuses on designing and implementing systems with multiple AI agents, emphasizing inter-agent communication, task delegation, and collaborative problem-solving in agentic workflows.
+
+- **Memory & Reasoning Loops**: Includes tutorials on integrating short-term/long-term memory mechanisms and iterative reasoning loops to enhance agent decision-making and adaptability in dynamic environments.
+
+- **Agentic RAG & Frameworks**: Provides hands-on projects fo
 
 ## Use Cases
 

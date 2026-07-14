@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-13T09:36:08.613577+05:30'
+collected_at: '2026-07-14T09:17:42.255573+05:30'
 published_at: '2026-07-08T12:21:46Z'
 tags:
 - github-repo
-- openai
 - python
 - rag
 stars: 156
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-13T09:36:08.613577+05:30'
-last_seen: '2026-07-13T09:36:08.613577+05:30'
-last_checked: '2026-07-13T09:36:08.613577+05:30'
+first_seen: '2026-07-14T09:17:42.255573+05:30'
+last_seen: '2026-07-14T09:17:42.255573+05:30'
+last_checked: '2026-07-14T09:17:42.255573+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector store retrieval (e.g., FAISS) with hybrid search (dense + sparse embeddings) using LangChain for document processing and querying.
+- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector store (FAISS) and keyword-based (BM25) search for enhanced document retrieval accuracy.
 
-- **Streamlit Integration**: Deploys a real-time web interface via Streamlit to visualize and interact with the RAG pipeline, enabling users to input queries and receive augmented responses with source citations.
+- **LangChain Integration**: Utilizes LangChain’s modular framework for chaining LLM prompts, retrievers, and document loaders (e.g., PyPDFLoader) to process and query unstructured data.
 
-- **Modular Architecture**: Leverages LangChain’s modular components (e.g., `RetrievalQA`, `VectorStoreIndex`) for scalable document ingestion, embedding generation (e.g., OpenAI, HuggingFace), and hybrid search orchestration.
+- **Streamlit UI**: Deploys a Streamlit-based web interface for interactive querying, displaying retrieved context and generated responses with real-time feedback.
 
 ## Why It Matters
 

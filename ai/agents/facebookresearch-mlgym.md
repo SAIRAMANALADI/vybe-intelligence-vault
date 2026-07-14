@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/MLGym
-collected_at: '2026-07-13T09:38:23.757331+05:30'
+collected_at: '2026-07-14T09:19:57.405029+05:30'
 published_at: '2026-07-10T13:11:28Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-02-18T18:26:47Z'
 pushed_at: '2025-08-10T20:00:53Z'
 resource_id: github:facebookresearch/mlgym
-first_seen: '2026-07-13T09:38:23.757331+05:30'
-last_seen: '2026-07-13T09:38:23.757331+05:30'
-last_checked: '2026-07-13T09:38:23.757331+05:30'
+first_seen: '2026-07-14T09:19:57.405029+05:30'
+last_seen: '2026-07-14T09:19:57.405029+05:30'
+last_checked: '2026-07-14T09:19:57.405029+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-*   Introduces a novel Python framework for the development and evaluation of AI research agents.
-*   Establishes a standardized benchmark for comparative analysis and advancement of AI agents operating in research domains.
-*   Enables the creation of meta-AI agents to automate or assist in the scientific discovery and experimentation processes within AI research.
+- **Framework Purpose**: MLGym is a Python-based framework designed to advance AI research agents by providing a structured environment for training, evaluating, and benchmarking reinforcement learning (RL) and machine learning (ML) algorithms.
+
+- **Key Features**: It offers modular components for defining tasks, environments, and agent policies, enabling reproducible research and standardized comparisons across diverse AI research scenarios.
+
+- **Benchmarking & Scalability**: The framework includes built-in benchmarking tools and supports distributed training, facilitating large-scale experiments and performance evaluation of AI agents.
 
 ## Why It Matters
 
@@ -41,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: facebookresearch
 - Stars: 612
-- Forks: 59
+- Forks: 60
 - Language: Python
 - Topics: None
 - Last Updated: 2026-07-10T13:11:28Z

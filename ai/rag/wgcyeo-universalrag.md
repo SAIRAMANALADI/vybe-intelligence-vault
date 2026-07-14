@@ -4,12 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-13T09:37:08.631376+05:30'
+collected_at: '2026-07-14T09:18:42.263356+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
-- benchmark
 - github-repo
-- models
 - python
 - rag
 stars: 173
@@ -20,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-13T09:37:08.631376+05:30'
-last_seen: '2026-07-13T09:37:08.631376+05:30'
-last_checked: '2026-07-13T09:37:08.631376+05:30'
+first_seen: '2026-07-14T09:18:42.263356+05:30'
+last_seen: '2026-07-14T09:18:42.263356+05:30'
+last_checked: '2026-07-14T09:18:42.263356+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a unified framework for Retrieval-Augmented Generation (RAG) that processes corpora across diverse modalities (e.g., text, images, tables) and granularities (e.g., documents, paragraphs, entities) without requiring task-specific fine-tuning.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation over diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or entity-level), leveraging a unified indexing and retrieval pipeline.
 
-- **Modality-Agnostic Retrieval & Fusion**: Implements a cross-modal retrieval mechanism using modality-agnostic embeddings (e.g., via contrastive learning) and a fusion module to dynamically integrate retrieved information from heterogeneous sources into the generation process.
+- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval mechanism using modality-specific encoders (e.g., CLIP for images, BERT for text) and a shared embedding space, allowing seamless fusion of heterogeneous data sources during retrieval.
 
-- **ACL 2026 Oral Submission**: Proposes a scalable architecture with empirical validation on benchmarks spanning text, vision, and structured data, demonstrating superior performance over modality-specific RAG baselines in zero-shot and few-shot settings.
+- **Adaptive Fusion & Generation**: Introduces a dynamic fusion module that weighs retrieved modalities/granularities based on query context, integrating them into the LLM’s input via a learned attention mechanism to improve generation quality and factual grounding.
 
 ## Why It Matters
 

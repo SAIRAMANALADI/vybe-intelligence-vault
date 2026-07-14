@@ -4,13 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-07-13T09:37:58.694953+05:30'
+collected_at: '2026-07-14T09:19:37.316494+05:30'
 published_at: '2026-07-11T18:10:54Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- scripts
+- hackernews
 - shell
 - workflows
 stars: 62
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-07-13T09:37:58.694953+05:30'
-last_seen: '2026-07-13T09:37:58.694953+05:30'
-last_checked: '2026-07-13T09:37:58.694953+05:30'
+first_seen: '2026-07-14T09:19:37.316494+05:30'
+last_seen: '2026-07-14T09:19:37.316494+05:30'
+last_checked: '2026-07-14T09:19:37.316494+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Setup & Configuration**: Provides structured guidance for configuring Claude Code, including `CLAUDE.md` templates for project-specific instructions, environment setup, and CLI optimization.
-- **Multi-Agent & Workflow Patterns**: Documents advanced patterns for multi-agent collaboration, workflow automation, and MCP (Model Context Protocol) integration for scalable AI-driven development.
-- **Cost & Performance Optimization**: Focuses on cost-efficient usage of LLM APIs, resource management, and performance tuning for large-scale AI-assisted coding tasks.
+- **Repository Overview**: Curated best-practices guide for **Claude Code**, covering setup, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+- **Technical Scope**: Focuses on **agentic AI workflows**, **CLI tools**, **LLM integration**, and **MCP (Model Context Protocol)** patterns for optimized AI-assisted development.
+- **Implementation Details**: Provides **Shell-based scripts/templates** and structured workflows to enhance **Anthropic’s Claude Code** efficiency and multi-agent collaboration.
 
 ## Why It Matters
 

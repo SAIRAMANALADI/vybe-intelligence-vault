@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - workflows
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent systems**: Repository focuses on frameworks and implementations for coordinating multiple AI agents, including communication protocols, task delegation, and conflict resolution mechanisms.
+- **Multi-Agent Architectures**: Repository focuses on designing and implementing systems with multiple AI agents, emphasizing inter-agent communication, task delegation, and collaborative problem-solving in agentic workflows.
 
-- **Memory & reasoning loops**: Includes tutorials on integrating short-term/long-term memory systems and iterative reasoning pipelines (e.g., chain-of-thought, reflection loops) for agentic AI workflows.
+- **Memory & Reasoning Loops**: Includes tutorials on integrating short-term/long-term memory mechanisms and iterative reasoning loops to enhance agent decision-making and adaptability in dynamic environments.
 
-- **Agentic RAG & workflows**: Demonstrates advanced Retrieval-Augmented Generation (RAG
+- **Agentic RAG & Frameworks**: Provides hands-on projects fo
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-13T09:36:38.635605+05:30'
+collected_at: '2026-07-14T09:18:12.303321+05:30'
 published_at: '2026-07-10T09:46:49Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-13T09:36:38.635605+05:30'
-last_seen: '2026-07-13T09:36:38.635605+05:30'
-last_checked: '2026-07-13T09:36:38.635605+05:30'
+first_seen: '2026-07-14T09:18:12.303321+05:30'
+last_seen: '2026-07-14T09:18:12.303321+05:30'
+last_checked: '2026-07-14T09:18:12.303321+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Introduces CRUD-RAG, a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), focusing on comprehensive Chinese context understanding and generation.
-- **Evaluation Framework**: Provides a structured evaluation suite with metrics for retrieval quality, generation coherence, and end-to-end RAG performance, tailored for Chinese linguistic and cultural nuances.
-- **Open-Source Toolkit**: Releases a Python-based toolkit with datasets, evaluation scripts, and baseline models to facilitate reproducible research and benchmarking in Chinese RAG systems.
+- **Benchmark Suite**: Introduces a comprehensive Chinese benchmark (CRUD-RAG) for evaluating Retrieval-Augmented Generation (RAG) systems with large language models (LLMs), covering diverse retrieval and generation tasks.
+
+- **Evaluation Framework**: Provides a standardized framework to assess RAG performance across metrics like retrieval accuracy, response relevance, and contextual grounding in Chinese language scenarios.
+
+- **Open-Source Toolkit**: Offers a Python-based open-source repository with datasets, evaluation scripts, and baseline models to facilitate reproducible research and benchmarking in RAG systems.
 
 ## Why It Matters
 

@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular components for indexing, retrieval, and generation, supporting dynamic chunking and embedding strategies.
+- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with a focus on large model integration, including query reformulation, chunking strategies, and retrieval tuning for enhanced context relevance.
 
-- **Python-Based Pipeline**: Utilizes Python libraries (e.g., LangChain, FAISS, or Sentence-Transformers) for efficient document processing, vector storage, and similarity search in RAG workflows.
+- **Modular Python Implementation**: Provides a Python-based toolkit with components for document preprocessing, vector database integration (e.g., FAISS, Chroma), and LLM inference pipelines optimized for RAG workflows.
 
-- **Scalability & Evaluation**: Includes benchmarks and metrics for evaluating retrie
+- **Evaluation & Benchmarking**: I
 
 ## Use Cases
 

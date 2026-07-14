@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular RAG Framework**: Quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while offering customization for LLMs (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss).
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for diverse use cases without reinventing core RAG components.
 
-- **Multi-Backend Compatibility**: Supports any file type, LLM provider, and vector database backend, with Dockerized deployment for cross-platform scalability and modularity.
+- **Multi-LLM & Vector Store Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across different AI models and storage backends.
 
-- **Full-Stack Toolkit**: P
+- **Full-Stack Integration**: Pro
 
 ## Use Cases
 

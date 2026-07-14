@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Python-based application for production-grade RAG (Retrieval-Augmented Generation) pipelines, with 72 stars and 48 forks.
-- **Technical Stack**: Utilizes Python for implementation, though specific libraries/frameworks (e.g., LangChain, FAISS) are not detailed in metadata.
-- **Last Updated**: Repository was last modified on **2026-07-11T03:47:21Z**, indicating recent activity.
+- **Repository Overview**: A Python-based application repository focused on production-grade RAG (Retrieval-Augmented Generation) systems, with 72 stars and 48 forks.
+- **Technical Stack**: Utilizes Python for implementation, though specific libraries/frameworks are not detailed in the provided metadata.
+- **Last Activity**: Last updated on **July 11, 2026**, indicating recent or ongoing development.
 
 ## Use Cases
 

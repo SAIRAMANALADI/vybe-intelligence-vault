@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-07-13T09:36:23.616159+05:30'
+collected_at: '2026-07-14T09:18:02.234461+05:30'
 published_at: '2026-07-12T12:42:50Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-07-13T09:36:23.616159+05:30'
-last_seen: '2026-07-13T09:36:23.616159+05:30'
-last_checked: '2026-07-13T09:36:23.616159+05:30'
+first_seen: '2026-07-14T09:18:02.234461+05:30'
+last_seen: '2026-07-14T09:18:02.234461+05:30'
+last_checked: '2026-07-14T09:18:02.234461+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: A comprehensive repository aggregating advanced techniques, frameworks, and research papers on retrieval-augmented generation (RAG) for large language models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
+- **Curated RAG Resources**: Repository aggregates advanced techniques, frameworks, and papers on retrieval-augmented generation (RAG) for large language models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
 
-- **Technical Focus Areas**: Includes topics such as RAG embeddings optimization, retrieval-information enhancement, and LLM-RAG hybrid architectures, with emphasis on improving factual accuracy and contextual relevance in generative outputs.
+- **Technical Scope**: Focuses on cutting-edge RAG methodologies, including hybrid retrieval, multi-modal embeddings, and optimization techniques for enhancing LLM performance via external knowledge retrieval.
 
-- **Community-Driven Updates**: Actively maintained with contributions from researchers, featuring latest advancements (as of 2026-07-12) and practical implementations for scalable RAG deployments in production environments.
+- **Community-Driven**: Maintained list with 1,339+ stars and 86 forks, updated as of July 2026, serving as a dynamic reference for researchers and practitioners in LLM-RAG integration.
 
 ## Why It Matters
 

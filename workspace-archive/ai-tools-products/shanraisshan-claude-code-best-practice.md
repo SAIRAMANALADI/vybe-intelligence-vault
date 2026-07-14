@@ -16,6 +16,7 @@ tags:
 - github-repo
 - hackernews
 - html
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -35,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Curated best practices for transitioning from vibe coding to agentic engineering using Claude Code, covering workflow optimization, command execution, and skill development.
+- **Agentic Workflow Optimization**: Repository provides structured methodologies for transitioning from "vibe coding" to systematic agentic engineering with Claude Code, emphasizing context engineering and structured command execution.
 
-- **Technical Focus**: Emphasizes context engineering, agentic AI workflows, and advanced Claude Code commands for Pakistani developers and global contributors.
+- **Claude Code Best Practices**: Curates advanced techniques for Claude Code agents, including skill development, command optimization, and workflow automation for AI-driven software engineering tasks.
 
-- **Resource Structure**: HTML-based repository with structured documentation, examples, and community-driven updates (last modified: 20
+- **Community-Driven Resource**: Open-source hub with 62,5
 
 ## Use Cases
 

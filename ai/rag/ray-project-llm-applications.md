@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-07-13T09:36:58.686040+05:30'
+collected_at: '2026-07-14T09:18:37.326766+05:30'
 published_at: '2026-07-11T01:00:06Z'
 tags:
-- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-07-13T09:36:58.686040+05:30'
-last_seen: '2026-07-13T09:36:58.686040+05:30'
-last_checked: '2026-07-13T09:36:58.686040+05:30'
+first_seen: '2026-07-14T09:18:37.326766+05:30'
+last_seen: '2026-07-14T09:18:37.326766+05:30'
+last_checked: '2026-07-14T09:18:37.326766+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2, OpenAI, and Anyscale models with optimized retrieval mechanisms.
+- **RAG Pipeline Integration**: Demonstrates end-to-end production deployment of Retrieval-Augmented Generation (RAG) systems using Ray for distributed computing, integrating Llama2, OpenAI, and Anyscale models with optimized serving pipelines.
 
-- **Fine-Tuning & Serving Optimization**: Provides Jupyter Notebook-based guides for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve for low-latency, scalable inference in production environments.
+- **Fine-Tuning & Optimization**: Provides Jupyter Notebook-based workflows for fine-tuning LLMs (e.g., Llama2) and optimizing inference performance via Ray’s distributed serving infrastructure, including batching and dynamic scaling.
 
-- **Multi-Model & Tooling Support**: Includes examples leveraging OpenAI APIs, Anyscale endpoints, and custom fine-tuned models, with Ray’s ecosystem for orchestration, monitoring, and performance benchmarking.
+- **Modular Architecture**: Implements a modular, microservice-based design for LLM applications, leveraging Ray Serve for scalable model serving, with examples for hybrid retrieval (vector DBs) and multi-model orchestration.
 
 ## Why It Matters
 

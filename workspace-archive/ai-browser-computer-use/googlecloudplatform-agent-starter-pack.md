@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Production-ready AI agent templates** for Google Cloud, pre-integrated with CI/CD pipelines, evaluation frameworks, and observability tools to accelerate deployment from months to minutes.
-
-- **Gemini and GenAI agent support** with built-in LLMops/MLops best practices, enabling scalable, secure, and observable generative AI workflows in Python.
-
-- **GitHub-hosted starter pack** with 6.5K+ stars, offering modular templates for rapid agent development, including observability dashboards and au
+- **Production-ready AI agent templates** optimized for Google Cloud, featuring integrated CI/CD pipelines for rapid deployment and scalability.
+- **Built-in evaluation and observability tools** (e.g., logging, monitoring, and metrics) to ensure agent performance, reliability, and compliance in production environments.
+- **Supports GenAI agents** with native integration to Google Cloud’s Vertex AI, Gemini, and MLOps frameworks for streamlined LLM-based workflows.
 
 ## Use Cases
 

@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: LangGraph Studio template for building agents that autonomously perform web research to generate or enrich structured datasets.
+- **Purpose**: LangGraph Studio template for building agents that autonomously perform web research to generate or enhance structured datasets.
 - **Technical Stack**: Implemented in Jupyter Notebook using LangGraph (Python) for agent orchestration and workflow management.
-- **Key Features**: Enables automated data collection, validation, and enrichment via web-based agent interactions, optimized for scalability and reproducibility.
+- **Key Features**: Enables automated data enrichment via web research, optimized for structured output generation with LangGraph's Python SDK.
 
 ## Use Cases
 

@@ -4,24 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IBM/mt-rag-benchmark
-collected_at: '2026-07-13T09:36:38.621238+05:30'
-published_at: '2026-06-26T15:53:38Z'
+collected_at: '2026-07-14T09:18:12.279057+05:30'
+published_at: '2026-07-14T03:36:56Z'
 tags:
 - benchmark
+- dataset
 - github-repo
+- hackernews
 - python
 - rag
-stars: 145
+stars: 147
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2024-12-17T19:26:10Z'
-pushed_at: '2026-05-01T18:23:01Z'
+pushed_at: '2026-07-14T01:32:02Z'
 resource_id: github:ibm/mt-rag-benchmark
-first_seen: '2026-07-13T09:36:38.621238+05:30'
-last_seen: '2026-07-13T09:36:38.621238+05:30'
-last_checked: '2026-07-13T09:36:38.621238+05:30'
+first_seen: '2026-07-14T09:18:12.279057+05:30'
+last_seen: '2026-07-14T09:18:12.279057+05:30'
+last_checked: '2026-07-14T09:18:12.279057+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   Python-based benchmark for evaluating Multi-Turn Retrieval-Augmented Generation (RAG) systems.
-*   Provides a standardized framework for assessing RAG performance in conversational contexts.
-*   Developed by IBM, focusing on the complexities of multi-turn interactions within RAG architectures.
+- **Benchmark Purpose**: Evaluates multi-turn Retrieval-Augmented Generation (RAG) systems, focusing on conversational context retention and iterative retrieval performance.
+- **Technical Stack**: Implemented in Python, leveraging standard NLP/RAG libraries (e.g., HuggingFace, LangChain) for pipeline construction and evaluation.
+- **Evaluation Metrics**: Includes metrics for context relevance, answer accuracy, and multi-turn coherence, with datasets designed for iterative QA scenarios.
 
 ## Why It Matters
 
@@ -40,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: IBM
-- Stars: 145
+- Stars: 147
 - Forks: 29
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-26T15:53:38Z
+- Last Updated: 2026-07-14T03:36:56Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-12-17T19:26:10Z
-- Pushed At: 2026-05-01T18:23:01Z
+- Pushed At: 2026-07-14T01:32:02Z
 
 ## Possible Use Cases
 

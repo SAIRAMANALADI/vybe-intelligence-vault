@@ -6,7 +6,7 @@ source_url: https://github.com/TheAgentCompany/TheAgentCompany
 resource_id: github:theagentcompany/theagentcompany
 local_vault_path: ai/agents/theagentcompany-theagentcompany.md
 quality_score: 70
-archive_score: 75
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -14,10 +14,10 @@ tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
 - workflows
 selection_reason:
+- Strong keyword match
 - Useful for project building
 ---
 
@@ -26,16 +26,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Benchmark Design**: Simulated software company environment for evaluating AI agents on complex, multi-step tasks (e.g., coding, debugging, project management).
-- **Technical Stack**: Python-based framework with modular task definitions, agent interaction protocols, and evaluation metrics for LLM performance.
-- **Research Focus**: Measures agent autonomy, tool-use efficiency, and adaptability in dynamic software development workflows.
+- **Multi-agent benchmarking framework** simulating a software company environment for evaluating AI agents on complex, real-world tasks (e.g., coding, collaboration, project management).
+
+- **Python-based implementation** with modular design, supporting extensible task definitions, agent interactions, and evaluation metrics for AI research.
+
+- **Open-source repository** (740 stars, 120 forks) last updated July 2026, focusing on AI agent benchmarks, LLM performance, and software engineering work
 
 ## Use Cases
 

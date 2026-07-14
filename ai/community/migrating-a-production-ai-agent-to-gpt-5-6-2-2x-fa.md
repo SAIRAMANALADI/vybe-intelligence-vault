@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:migrating-a-production-ai-agent-to-gpt-5-6-2-2x-fa
 first_seen: '2026-07-13T09:34:14.614423+05:30'
 last_seen: '2026-07-13T09:34:14.614423+05:30'
 last_checked: '2026-07-13T09:34:14.614423+05:30'
 health_score: 100
 ---
+
 
 # Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper
 

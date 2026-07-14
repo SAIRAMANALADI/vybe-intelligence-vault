@@ -8,7 +8,6 @@ Understanding the pricing, capabilities, and APIs of different model providers i
 
 ## Top Matched Resources
 
-- [langgenius/dify](https://github.com/langgenius/dify) (template - ESSENTIAL Tier)
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (framework - ESSENTIAL Tier)
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) (tutorial - ESSENTIAL Tier)
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) (framework - ESSENTIAL Tier)
@@ -16,17 +15,18 @@ Understanding the pricing, capabilities, and APIs of different model providers i
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (api - ESSENTIAL Tier)
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/openai/openai-python (OpenAI SDK)
 https://github.com/google/generative-ai-python (Gemini SDK)
-- [langgenius/dify](https://github.com/langgenius/dify)
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent)
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/google/generative-ai-python (Gemini SDK)
 
 ---
 
-*Last updated: 2026-07-13 09:51 IST*
+*Last updated: 2026-07-14 09:24 IST*

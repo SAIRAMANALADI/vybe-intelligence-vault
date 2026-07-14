@@ -8,7 +8,7 @@ local_vault_path: ai/rag/tracecathq-tracecat.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -20,7 +20,7 @@ tags:
 - scripts
 - workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # TracecatHQ/tracecat
@@ -29,17 +29,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: workflow
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Platform Architecture**: Python-based open-source security automation platform leveraging FastAPI for backend services, Next.js for frontend, and Temporal.io for workflow orchestration and event-driven task scheduling.
+- **Platform Architecture**: Open-source security automation platform built with Python, FastAPI, and Next.js, leveraging event-driven workflows via Temporal.io for orchestration and monitoring.
 
-- **Core Components**: Integrates low-code workflow engine with Pydantic for data validation, OpenAPI for API specification, and LLM-driven automation for security operations, enabling AI agents and teams to execute complex security tasks.
+- **Technical Stack**: Integrates LLM capabilities, low-code workflows, and Pydantic for data validation, with OpenAPI for API specification and security-focused automation.
 
-- **Technical Stack**: Combines sec
+- **Deployment & Scalability**: Designed for teams and AI agents, enabling scalable, event-driven security automation with modula
 
 ## Use Cases
 

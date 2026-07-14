@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **CrewAI Integration**: Utilizes CrewAI framework to orchestrate multiple AI agents for collaborative trip planning tasks.
-- **LLM-Driven Logic**: Leverages large language models (LLMs) via OpenAI for dynamic itinerary generation and real-time decision-making.
-- **Python-Based Open-Source Tool**: Open-source Python repository with modular agent architecture for extensible vacation planning workflows.
+- **CrewAI-based Multi-Agent System**: Implements autonomous AI agents (e.g., planner, researcher, travel advisor) using CrewAI framework to collaboratively design vacation itineraries via LLM orchestration.
+
+- **Python Implementation**: Leverages Python with CrewAI, OpenAI API integrations, and modular agent definitions to dynamically generate trip plans based on user inputs (e.g., destination, budget, preferences).
+
+- **Open-Source Toolkit**: Provides a lightweight, extensible framework for LL
 
 ## Use Cases
 

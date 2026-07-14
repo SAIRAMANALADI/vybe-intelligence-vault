@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-07-13T09:35:48.660800+05:30'
+collected_at: '2026-07-14T09:17:22.251680+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-07-13T09:35:48.660800+05:30'
-last_seen: '2026-07-13T09:35:48.660800+05:30'
-last_checked: '2026-07-13T09:35:48.660800+05:30'
+first_seen: '2026-07-14T09:17:22.251680+05:30'
+last_seen: '2026-07-14T09:17:22.251680+05:30'
+last_checked: '2026-07-14T09:17:22.251680+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for a Generative AI Operations (GenAIOps) project, enabling automated provisioning of Azure resources for RAG (Retrieval-Augmented Generation) workflows.
+- **Template Type**: Infrastructure-as-Code (IaC) project for deploying a **Generative AI Ops (GenAIOps) solution** using **Azure Bicep** for RAG (Retrieval-Augmented Generation) workflows.
 
-- **RAG Pipeline Foundation**: Includes pre-configured Azure services (e.g., Azure AI Search, Azure OpenAI) to support end-to-end RAG implementations with minimal setup overhead.
+- **Key Components**: Pre-configured Azure resources (e.g., **Azure OpenAI, Cognitive Search, AKS, Key Vault**) to enable **end-to-end RAG pipelines**, including data ingestion, vector storage, and LLM inference.
 
-- **Ops-Ready Design**: Incorporates monitoring, logging, and CI/CD-ready components for scalable GenAI operations, adhering to MLOps principles.
+- **Deployment**: Uses **Bicep modules** for modular, repeatable Azure resource provisioning, with last update timestamped **2026-05-21T00:52:07Z**.
 
 ## Why It Matters
 

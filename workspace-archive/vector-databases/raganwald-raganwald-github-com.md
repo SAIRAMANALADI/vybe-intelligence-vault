@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Jekyll Source Repository**: Static site generator (Jekyll) source code for `raganwald.com`, hosted on GitHub Pages.
-- **Metadata**: 30 stars, 60 forks, primarily HTML-based, last updated July 8, 2026.
-- **Hosting**: Deployed via GitHub Pages with Jekyll, leveraging GitHub’s infrastructure for static site rendering.
+- **Jekyll-based static site generator**: Repository contains the source for a Jekyll-powered website (`raganwald.github.com`), enabling static site generation with Markdown and Liquid templating.
+- **Minimal configuration**: No additional topics or dependencies specified; relies on default Jekyll setup for HTML output.
+- **Last updated**: Repository metadata indicates a future update timestamp (`2026-07-08T15:07:53Z`), suggesting potential planned changes or automated scheduling.
 
 ## Use Cases
 

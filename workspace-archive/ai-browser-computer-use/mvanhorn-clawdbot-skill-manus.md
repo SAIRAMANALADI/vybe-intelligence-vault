@@ -13,9 +13,9 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - scripts
 - shell
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Task Delegation Framework**: Enables delegation of complex tasks (web research, report generation, code building, data scraping) to Manus AI via OpenClaw skill, with support for task templates, monitoring, and cost tracking.
-- **Technical Stack**: Implemented in Shell, designed for integration with AI agents and autonomous systems (e.g., ClawHub, Manus).
-- **Repository Metadata**: 25 stars, 12 forks; last updated 2026-07-07; focuses on automation, AI-agent orchestration, and web interaction.
+- **Task Delegation Framework**: OpenClaw skill enabling delegation of complex tasks (web research, report generation, code building, data scraping) to Manus AI via task templates, with monitoring and cost tracking capabilities.
+
+- **Autonomous Agent Integration**: Shell-based implementation for AI-agent orchestration (Manus AI) within ClawHub/OpenClaw ecosystem, supporting autonomous task execution and web browsing automation.
+
+- **Operational Toolkit**: Provides structured task management (tem
 
 ## Use Cases
 

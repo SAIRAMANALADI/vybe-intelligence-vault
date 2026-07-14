@@ -19,6 +19,7 @@ tags:
 - models
 - openai
 - rag
+- scripts
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -37,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal RAG & Agent Framework**: Implements Retrieval-Augmented Generation (RAG) with support for vector search, re-ranking, and semantic search; enables autonomous reasoning agents and self-maintaining wiki functionality via raw document ingestion.
+- **Multi-Model RAG & Agent Framework**: Implements Retrieval-Augmented Generation (RAG) with support for OpenAI, Ollama, and other LLMs, enabling autonomous reasoning agents and self-maintaining wiki functionality via vector search, embeddings, and reranking.
 
-- **Scalable, Multi-tenant Architecture**: Built in Go with OpenAI/Ollama compatibility, supporting multi-model LLMs, embeddings, and evaluation pipelines for enterprise-grade knowledge base management.
+- **Go-Based Scalable Architecture**: Built in Go for high-performance multi-tenant deployment, integrating semantic search, vector databases, and evaluation pipelines for generative AI applications.
 
-- **Advanced Query & Maintenance**: I
+- **Knowledge Pipeline Automation**:
 
 ## Use Cases
 

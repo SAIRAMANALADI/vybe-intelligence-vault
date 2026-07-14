@@ -8,13 +8,14 @@ local_vault_path: ai/rag/adongwanai-agentguide.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
 - github-repo
 - hackernews
 - html
+- models
 - rag
 selection_reason:
 - Strong keyword match
@@ -27,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Comprehensive AI Agent Development Guide**: Covers LangGraph, advanced RAG, multi-agent systems, and CrewAI with practical implementations and tutorials for AI agent development.
+- **Comprehensive AI Agent Development Guide**: Covers advanced topics including LangGraph, RAG (Retrieval-Augmented Generation), multi-agent systems, and reinforcement learning (GRPO), with practical implementations and tutorials.
 
-- **Interview & Career Resources**: Includes a curated collection of interview questions, job-hunting strategies, and transition guidance for roles like algorithm engineers and LLM specialists.
+- **Career Transition & Interview Resources**: Provides specialized content for transitioning into AI roles (e.g., algorithm engineer, LLM engineer), including interview preparation, question banks, and job-hunting strategies.
 
-- **Advanced Topics & Tools**: Integrates techniques such as GraphRAG, GRPO, SFT, data synthesis, and reinforcement learn
+- **Open-Source Repository**: Hosts 6,9
 
 ## Use Cases
 

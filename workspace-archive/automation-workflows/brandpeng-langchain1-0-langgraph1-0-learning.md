@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Focus**: Dedicated to learning LangChain 1.0 and LangGraph 1.0 for agent development, covering foundational concepts to hands-on projects.
-- **Technical Stack**: Implemented in Python, emphasizing agent-based workflows and integration of LangChain/LangGraph frameworks.
-- **Metadata**: 571 stars, 104 forks, last updated 2026-07-09, categorized under `agent`, `langchain`, and `langgraph`.
+- **Repository Purpose**: Dedicated to learning **LangChain 1.0** and **LangGraph 1.0**, focusing on **agent development** with a structured path from fundamentals to practical implementation.
+- **Technical Scope**: Covers **Python-based** agent frameworks, integrating **LangChain** (LLM orchestration) and **LangGraph** (graph-based workflows) for advanced AI system design.
+- **Project Status**: Actively maintained (last updated **2026-07-13**), with **581 stars** and **106 forks**, indicating c
 
 ## Use Cases
 

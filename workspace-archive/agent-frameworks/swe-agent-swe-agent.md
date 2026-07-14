@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Automated Issue Resolution**: SWE-agent autonomously processes GitHub issues and generates fixes using a specified language model (LM), streamlining software debugging and development workflows.
-
-- **Multi-Domain Utility**: Supports offensive cybersecurity tasks and competitive coding challenges, extending its applicability beyond traditional software engineering.
-
-- **Architecture & Ecosystem**: Implemented in Python, integrates with agent-based models and LLMs, with active development (las
+- **Automated Issue Resolution**: SWE-agent autonomously processes GitHub issues and generates fixes using a language model (LM), reducing manual debugging effort.
+- **Dual-Use Capabilities**: Supports offensive cybersecurity workflows and competitive coding challenges alongside standard issue resolution.
+- **LM Integration & Extensibility**: Designed for seamless LM integration (e.g., for code generation/analysis), with Python-based modularity for customization.
 
 ## Use Cases
 

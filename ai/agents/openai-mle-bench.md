@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/openai/mle-bench
-collected_at: '2026-07-13T09:38:18.708506+05:30'
-published_at: '2026-07-10T09:21:45Z'
+collected_at: '2026-07-14T09:19:52.377095+05:30'
+published_at: '2026-07-14T02:36:37Z'
 tags:
 - agents
 - benchmark
@@ -14,7 +14,7 @@ tags:
 - openai
 - python
 - workflows
-stars: 1618
+stars: 1621
 language: Python
 status: active
 license: NOASSERTION
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-10-08T17:07:40Z'
 pushed_at: '2026-04-24T17:33:44Z'
 resource_id: github:openai/mle-bench
-first_seen: '2026-07-13T09:38:18.708506+05:30'
-last_seen: '2026-07-13T09:38:18.708506+05:30'
-last_checked: '2026-07-13T09:38:18.708506+05:30'
+first_seen: '2026-07-14T09:19:52.377095+05:30'
+last_seen: '2026-07-14T09:19:52.377095+05:30'
+last_checked: '2026-07-14T09:19:52.377095+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **MLE-bench**: A benchmark suite designed to evaluate AI agents' proficiency in **machine learning engineering (MLE)** tasks, including model development, debugging, and optimization.
-- **Technical Scope**: Focuses on **Python-based** MLE workflows, testing agents' ability to handle real-world ML challenges such as hyperparameter tuning, error diagnosis, and performance benchmarking.
-- **Repository Metrics**: 1,618 stars, 257 forks, last updated **July 10, 2026**; serves as a standardized evaluation framework for AI-driven ML engineering capabilities.
+- **Benchmark Scope**: MLE-bench evaluates AI agents' proficiency in end-to-end machine learning engineering tasks, including data handling, model training, and deployment workflows.
+
+- **Technical Implementation**: Built in Python, it provides standardized tasks and metrics to assess agents' ability to autonomously execute ML pipelines, debug errors, and optimize performance.
+
+- **Evaluation Metrics**: Focuses on functional correctness, efficiency, and robustness of AI-driven ML engineering solutions, with results tracked via automated testing and validation frameworks.
 
 ## Why It Matters
 
@@ -43,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: openai
-- Stars: 1618
+- Stars: 1621
 - Forks: 257
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-10T09:21:45Z
+- Last Updated: 2026-07-14T02:36:37Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-10-08T17:07:40Z

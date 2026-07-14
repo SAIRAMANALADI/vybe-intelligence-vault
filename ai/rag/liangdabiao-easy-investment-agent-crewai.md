@@ -4,24 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
-collected_at: '2026-07-13T09:39:38.782326+05:30'
-published_at: '2026-07-11T16:06:46Z'
+collected_at: '2026-07-14T09:21:12.403484+05:30'
+published_at: '2026-07-13T11:22:00Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - python
 - rag
-stars: 460
+- scripts
+- workflows
+stars: 461
 language: Python
 status: active
 archived: false
 created_at: '2025-09-26T11:16:52Z'
 pushed_at: '2026-05-07T01:07:08Z'
 resource_id: github:liangdabiao/easy_investment_agent_crewai
-first_seen: '2026-07-13T09:39:38.782326+05:30'
-last_seen: '2026-07-13T09:39:38.782326+05:30'
-last_checked: '2026-07-13T09:39:38.782326+05:30'
+first_seen: '2026-07-14T09:21:12.403484+05:30'
+last_seen: '2026-07-14T09:21:12.403484+05:30'
+last_checked: '2026-07-14T09:21:12.403484+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent A股 Analysis**: Implements 4 specialized AI agents (data retrieval, financial analysis, sentiment evaluation, decision synthesis) using CrewAI for collaborative A股 (China A-share) investment analysis.
-- **AKShare Integration**: Leverages AKShare for real-time A股 data (quotes, financials, fund flows, sentiment) with Python-based tooling for structured analysis.
-- **Decision Optimization**: Generates actionable investment recommendations by synthesizing multi-source data, tailored to China’s market dynamics (e.g., regulatory nuances, liquidity patterns).
+- **Multi-Agent A股 Analysis Framework**: Leverages AKShare for real-time A股 data (quotes, financials, fund flows, sentiment) and CrewAI to orchestrate 4 specialized AI agents (e.g., data fetcher, analyzer, sentiment evaluator, decision generator) for collaborative investment insights.
+
+- **China-Specific Optimization**: Tailored workflows for A股 market nuances (e.g., regulatory constraints, liquidity patterns, sector-specific metrics) with automated report generation and risk assessment.
+
+- **End-to-End Automation**: Python-based pipeline integrates data ingestion → multi-agent processing → actionable investment recommendations, with GitHub activity tracked via Stars/Forks metrics.
 
 ## Why It Matters
 
@@ -40,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: liangdabiao
-- Stars: 460
+- Stars: 461
 - Forks: 95
 - Language: Python
 - Topics: agent
-- Last Updated: 2026-07-11T16:06:46Z
+- Last Updated: 2026-07-13T11:22:00Z
 - Archived: No
 - Created At: 2025-09-26T11:16:52Z
 - Pushed At: 2026-05-07T01:07:08Z

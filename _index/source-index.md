@@ -6965,6 +6965,7 @@ Resources organized by publisher feed and query sources.
   - [TomIsLoading/framer-motion-crash-course](../web-development/framer-motion/tomisloading-framer-motion-crash-course.md)
   - [TracecatHQ/tracecat](../ai/rag/tracecathq-tracecat.md)
   - [Tracer-Cloud/opensre](../ai/rag/tracer-cloud-opensre.md)
+  - [Upsonic/Tiger](../ai/rag/upsonic-tiger.md)
   - [VivekMalhan666/Toasts-library](../ai/resources/vivekmalhan666-toasts-library.md)
   - [VivekMalhan666/npm-package-combobox](../ai/resources/vivekmalhan666-npm-package-combobox.md)
   - [VivekMalhan666/rag-beginner-guide](../ai/rag/vivekmalhan666-rag-beginner-guide.md)
@@ -7065,6 +7066,7 @@ Resources organized by publisher feed and query sources.
   - [crazyaiml/nl-2-sql-agent](../ai/rag/crazyaiml-nl-2-sql-agent.md)
   - [creativelifeform/three-nebula](../web-development/threejs/creativelifeform-three-nebula.md)
   - [crewAIInc/awesome-crewai](../ai/rag/crewaiinc-awesome-crewai.md)
+  - [crewAIInc/crewAI](../ai/rag/crewaiinc-crewai.md)
   - [crewAIInc/crewAI-tools](../ai/agents/crewaiinc-crewai-tools.md)
   - [croppers/crewai](../ai/agents/croppers-crewai.md)
   - [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md)
@@ -7502,7 +7504,6 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: github_releases)
 
-  - [crewAIInc/crewAI Release: 1.14.8a5](../ai/rag/crewaiinc-crewai.md)
   - [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md)
   - [langchain-ai/langchain Release: langchain-openrouter==0.2.4](../ai/releases/langchain-ai-langchain.md)
   - [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md)
@@ -7528,13 +7529,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Against Usefulness](../ai/community/against-usefulness.md)
-  - [Ask HN: Add flag for AI-generated articles](../ai/community/ask-hn-add-flag-for-ai-generated-articles.md)
-  - [Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels](../ai/community/flash-msa-accelerating-million-token-training-with.md)
-  - [I Learned to Read Again](../ai/community/i-learned-to-read-again.md)
-  - [I love LLMs, I hate hype](../ai/community/i-love-llms-i-hate-hype.md)
-  - [Mechanistic interpretability researchers applying causality theory to LLMs](../ai/community/mechanistic-interpretability-researchers-applying.md)
-  - [Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper](../ai/community/migrating-a-production-ai-agent-to-gpt-5-6-2-2x-fa.md)
+  - [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](../ai/community/apple-s-new-speechanalyzer-api-benchmarked-against.md)
+  - [Building Food Metadata with LLM Juries](../ai/community/building-food-metadata-with-llm-juries.md)
+  - [Show HN: Jacquard, a programming language for AI-written, human-reviewed code](../ai/community/jbwinters-jacquard-lang.md)
+  - [Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder](../ai/community/show-hn-sx-2-0-share-ai-skills-with-your-team-thro.md)
+  - [Telegram's t.me domain has been suspended](../ai/community/telegram-s-t-me-domain-has-been-suspended.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -8405,6 +8404,7 @@ Resources organized by publisher feed and query sources.
   - [Qwen/Qwen3-0.6B](../ai/models/huggingface-qwen-qwen3-0-6b.md)
   - [cross-encoder/ms-marco-MiniLM-L6-v2](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
+  - [google-t5/t5-small](../ai/models/huggingface-google-t5-t5-small.md)
   - [google/electra-base-discriminator](../ai/models/huggingface-google-electra-base-discriminator.md)
   - [openai/clip-vit-base-patch32](../ai/models/huggingface-openai-clip-vit-base-patch32.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
@@ -8493,6 +8493,7 @@ Resources organized by publisher feed and query sources.
   - [Next.js 9.5](../web-development/nextjs/next-js-9-5.md)
   - [Next.js Across Platforms: Adapters, OpenNext, and Our Commitments](../web-development/nextjs/next-js-across-platforms-adapters-opennext-and-our.md)
   - [Next.js App Router Update](../web-development/nextjs/next-js-app-router-update.md)
+  - [Next.js Security Release and Our Next Patch Release](../web-development/nextjs/next-js-security-release-and-our-next-patch-releas.md)
   - [Next.js Security Update: December 11, 2025](../web-development/nextjs/next-js-security-update-december-11-2025.md)
   - [Our Journey with Caching](../web-development/nextjs/our-journey-with-caching.md)
   - [React 19 Upgrade Guide](../web-development/react-19-upgrade-guide.md)
@@ -10940,8 +10941,8 @@ Resources organized by publisher feed and query sources.
   - [[2410.05779] LightRAG: Simple and Fast Retrieval-Augmented Generation](../ai/rag/arxiv-2410-05779.md)
   - [[2411.04368] Measuring short-form factuality in large language models](../ai/resources/arxiv-2411-04368.md)
   - [[2501.07391] Enhancing Retrieval-Augmented Generation: A Study of Best Practices](../ai/rag/arxiv-2501-07391.md)
-  - [[2504.20734] UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../ai/rag/2504-20734-universalrag-retrieval-augmented-genera.md)
   - [[2504.20734] UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../ai/rag/arxiv-2504-20734.md)
+  - [[2504.20734] UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../ai/rag/2504-20734-universalrag-retrieval-augmented-genera.md)
   - [[2507.19457] GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](../ai/rag/arxiv-2507-19457.md)
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
   - [[2512.05411] A Systematic Framework for Enterprise Knowledge Retrieval: Leveraging LLM-Generated Metadata to Enhance RAG](../ai/rag/arxiv-2512-05411.md)
@@ -11158,4 +11159,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-13T09:50:24.263974+05:30*
+*Index generated on 2026-07-14T09:23:29.444469+05:30*

@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-56%2C055-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-56%2C087-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--14-374151?style=flat-square)](#)
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 11,379</p>
-        <p><b>Active:</b> 11,116 | <b>Inactive:</b> 263</p>
+        <p><b>Resources tracked:</b> 11,387</p>
+        <p><b>Active:</b> 11,117 | <b>Inactive:</b> 270</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 44,676</p>
+        <p><b>Archive Files:</b> 44,700</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 56,055 files</p>
-        <p><b>Last Update:</b> 2026-07-14 07:44 IST</p>
+        <p><b>Total Vault Size:</b> 56,087 files</p>
+        <p><b>Last Update:</b> 2026-07-14 09:25 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,22 +210,29 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Create a YouTube channel - YouTube Help](ai/rag/create-a-youtube-channel-youtube-help.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Terms of Service](ai/rag/terms-of-service.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[LangChain Blog](ai/rag/langchain-blog.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Sign in - Google Accounts](ai/resources/sign-in-google-accounts.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Agents - Docs by LangChain](ai/agents/agents-docs-by-langchain.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[alexfazio/crewAI-quickstart](ai/agents/alexfazio-crewai-quickstart.md)** • Rank: <kbd>+53</kbd>
+- 🔼 **[tonykipkemboi/trip_planner_agent](ai/rag/tonykipkemboi-trip-planner-agent.md)** • Rank: <kbd>+54</kbd>
+- 🔼 **[crewAIInc/crewAI-tools](ai/agents/crewaiinc-crewai-tools.md)** • Rank: <kbd>+57</kbd>
+- 🔼 **[strnad/CrewAI-Studio](ai/agents/strnad-crewai-studio.md)** • Rank: <kbd>+55</kbd>
+- 🔼 **[crewAIInc/awesome-crewai](ai/rag/crewaiinc-awesome-crewai.md)** • Rank: <kbd>+50</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Score: `0`
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](ai/community/apple-s-new-speechanalyzer-api-benchmarked-against.md)** • Score: `485`
+- 🆕 **[Telegram's t.me domain has been suspended](ai/community/telegram-s-t-me-domain-has-been-suspended.md)** • Score: `278`
+- 🆕 **[Show HN: Jacquard, a programming language for AI-written, human-reviewed code](ai/community/jbwinters-jacquard-lang.md)** • Score: `60`
+- 🆕 **[Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder](ai/community/show-hn-sx-2-0-share-ai-skills-with-your-team-thro.md)** • Score: `22`
+- 🆕 **[Building Food Metadata with LLM Juries](ai/community/building-food-metadata-with-llm-juries.md)** • Score: `17`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[I love LLMs, I hate hype](ai/community/i-love-llms-i-hate-hype.md)**
+- 💤 **[Ask HN: Add flag for AI-generated articles](ai/community/ask-hn-add-flag-for-ai-generated-articles.md)**
+- 💤 **[Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper](ai/community/migrating-a-production-ai-agent-to-gpt-5-6-2-2x-fa.md)**
+- 💤 **[I Learned to Read Again](ai/community/i-learned-to-read-again.md)**
+- 💤 **[Against Usefulness](ai/community/against-usefulness.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

@@ -4,16 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/esxr/langgraph-mcp
-collected_at: '2026-07-09T21:10:04.275414+05:30'
-published_at: '2026-07-05T13:12:12Z'
+collected_at: '2026-07-14T09:20:42.389679+05:30'
+published_at: '2026-07-12T01:58:59Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 - reddit
 - workflows
-stars: 583
+stars: 584
 language: Python
 status: active
 license: MIT
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-01-10T07:40:37Z'
 pushed_at: '2025-02-25T10:10:11Z'
 resource_id: github:esxr/langgraph-mcp
-first_seen: '2026-07-09T21:10:04.275414+05:30'
-last_seen: '2026-07-09T21:10:04.275414+05:30'
-last_checked: '2026-07-09T21:10:04.275414+05:30'
+first_seen: '2026-07-14T09:20:42.389679+05:30'
+last_seen: '2026-07-14T09:20:42.389679+05:30'
+last_checked: '2026-07-14T09:20:42.389679+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a LangGraph-based solution template for the Model Context Protocol (MCP), enabling structured workflows for MCP interactions.
-- **Implementation**: Python-based framework leveraging LangGraph for graph-based orchestration of MCP-compatible tools and services.
-- **Status**: Actively maintained (last updated July 2026) with 583 stars and 110 forks, indicating community adoption.
+- **LangGraph MCP Template**: Provides a structured Python-based framework for implementing **Model Context Protocol (MCP)** using LangGraph, enabling stateful, multi-actor workflows with graph-based orchestration.
+- **Key Features**: Implements modular components for MCP servers/clients, supports dynamic graph construction, and integrates with LangChain/LangGraph ecosystems for LLM-driven workflows.
+- **Technical Stack**: Python-based, leverages LangGraph’s graph-based execution model, and includes pre-configured templates for rapid MCP server/client development.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: esxr
-- Stars: 583
+- Stars: 584
 - Forks: 110
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-05T13:12:12Z
+- Last Updated: 2026-07-12T01:58:59Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-10T07:40:37Z

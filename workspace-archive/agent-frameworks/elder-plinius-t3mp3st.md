@@ -13,10 +13,9 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
+- scripts
 - typescript
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Offensive Security Framework**: Autonomous red teaming platform leveraging AI-driven agents for coordinated penetration testing, vulnerability assessment, and adversarial simulation in TypeScript.
+- **Multi-Agent Offensive Security Framework**: TypeScript-based autonomous red teaming platform enabling coordinated multi-agent offensive operations for penetration testing and adversarial simulations.
 
-- **Modular Meta-Harness Architecture**: Dynamic plugin-based system enabling extensible agent interactions, custom tool integration, and adaptive offensive workflows for real-world security engagements.
+- **Extensible Meta-Harness Architecture**: Modular design supports dynamic agent integration, task orchestration, and adaptive attack vector execution for real-world security assessments.
 
-- **Real-Time Threat Emulation**: Autonomous agent orchestration with adaptive le
+- **AI-Driven Attack Automation**: Leverages AI agents to autonomously discover vulnerabilities, exploit
 
 ## Use Cases
 

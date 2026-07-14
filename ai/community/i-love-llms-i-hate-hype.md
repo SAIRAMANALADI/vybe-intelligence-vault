@@ -13,13 +13,14 @@ collected_at: '2026-07-13T09:34:16.793755+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:i-love-llms-i-hate-hype
 first_seen: '2026-07-13T09:34:16.793755+05:30'
 last_seen: '2026-07-13T09:34:16.793755+05:30'
 last_checked: '2026-07-13T09:34:16.793755+05:30'
 health_score: 100
 ---
+
 
 # I love LLMs, I hate hype
 

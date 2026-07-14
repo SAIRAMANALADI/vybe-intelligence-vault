@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-07-13T09:36:18.602832+05:30'
+collected_at: '2026-07-14T09:17:52.225625+05:30'
 published_at: '2026-07-05T01:00:39Z'
 tags:
 - benchmark
@@ -12,6 +12,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 95
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-07-13T09:36:18.602832+05:30'
-last_seen: '2026-07-13T09:36:18.602832+05:30'
-last_checked: '2026-07-13T09:36:18.602832+05:30'
+first_seen: '2026-07-14T09:17:52.225625+05:30'
+last_seen: '2026-07-14T09:17:52.225625+05:30'
+last_checked: '2026-07-14T09:17:52.225625+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Framework**: Repository provides Python-based best practices for optimizing Retrieval-Augmented Generation (RAG) pipelines, focusing on retrieval efficiency, context relevance, and generation quality.
-- **Modular Architecture**: Implements a modular design with configurable components (e.g., embedders, retrievers, LLMs) to enable customization for domain-specific RAG applications.
-- **Evaluation & Benchmarking**: Includes tools for evaluating RAG performance metrics (e.g., retrieval precision, answer correctness) and benchmarking against standard datasets.
+- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with a focus on large model integration, including query reformulation, chunking strategies, and retrieval tuning for enhanced context relevance.
+
+- **Modular Python Implementation**: Provides a Python-based toolkit with components for document preprocessing, vector database integration (e.g., FAISS, Chroma), and LLM inference pipelines optimized for RAG workflows.
+
+- **Evaluation & Benchmarking**: Includes scripts for assessing RAG performance metrics (e.g., retrieval accuracy, generation quality) and compares baseline vs. optimized configurations using standardized datasets.
 
 ## Why It Matters
 

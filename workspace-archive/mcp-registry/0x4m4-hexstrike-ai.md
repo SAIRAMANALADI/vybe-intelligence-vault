@@ -6,7 +6,7 @@ source_url: https://github.com/0x4m4/hexstrike-ai
 resource_id: github:0x4m4/hexstrike-ai
 local_vault_path: ai/agents/0x4m4-hexstrike-ai.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
 resource_kind: mcp-server
 importance: medium
@@ -14,6 +14,7 @@ tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - python
 - scripts
 - workflows
@@ -27,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **MCP Server for AI-Driven Security Automation**: HexStrike AI MCP Agents integrates 150+ offensive cybersecurity tools (e.g., Kali Linux utilities, CTF tools) into a single MCP server, enabling AI agents (Claude, GPT, Copilot) to autonomously execute pentesting, vulnerability discovery, and bug bounty workflows.
+- **MCP Server Integration**: HexStrike AI MCP Agents functions as an advanced MCP server, enabling AI agents (e.g., Claude, GPT, Copilot) to autonomously execute **150+ cybersecurity tools** for automated penetration testing, vulnerability discovery, bug bounty automation, and security research.
 
-- **Real-Time LLM Integration**: Bridges large language models (LLMs) with live offensive security operations via the MCP protocol, allowing dynamic tool selection, parameter tuning,
+- **Offensive Security Automation**: Bridges LLMs with real-world offensive security capabilities, allowing AI-driven execution of Kali Linux tools and CTF utilities via structured MCP tooling for seam
 
 ## Use Cases
 

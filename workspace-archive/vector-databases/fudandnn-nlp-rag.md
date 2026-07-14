@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Implementation of RAG Best Practices**: Repository provides a Python-based implementation of retrieval-augmented generation (RAG) techniques, focusing on best practices as outlined in the EMNLP 2024 paper "Searching for Best Practices in Retrieval-Augmented Generation."
+- **Implementation of EMNLP2024 Paper**: Repository provides a Python-based implementation of the paper *"Searching for Best Practices in Retrieval-Augmented Generation"*, focusing on RAG optimization techniques.
 
-- **Modular Architecture**: Likely includes modular components for retrieval, reranking, and generation, enabling customizable pipelines for experimentation with different RAG configurations.
+- **Key Features**: Includes retrieval strategies, generation tuning, and evaluation frameworks for RAG systems, with modular design for extensibility.
 
-- **Evaluation Framework**: May
+- **Metadata**: 347 stars, 21 forks, last updated July 2, 2026, with no additional topics tagged.
 
 ## Use Cases
 

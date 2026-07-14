@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-07-13T09:35:38.571258+05:30'
-published_at: '2026-07-11T14:48:59Z'
+collected_at: '2026-07-14T09:17:17.255535+05:30'
+published_at: '2026-07-13T06:44:26Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - meta-ai
 - models
 - rag
-stars: 1477
+stars: 1478
 language: JavaScript
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-07-13T09:35:38.571258+05:30'
-last_seen: '2026-07-13T09:35:38.571258+05:30'
-last_checked: '2026-07-13T09:35:38.571258+05:30'
+first_seen: '2026-07-14T09:17:17.255535+05:30'
+last_seen: '2026-07-14T09:17:17.255535+05:30'
+last_checked: '2026-07-14T09:17:17.255535+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to demonstrate embeddings, vector search, retrieval, and context-augmented generation without proprietary black boxes.
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box abstractions, focusing on embeddings, vector search, retrieval, and context-augmented generation.
 
-- **JavaScript-Based Implementation**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference and vector operations, ensuring transparency and accessibility for educational purposes.
+- **JavaScript-Based Pipeline**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, with a modular design for educational clarity in RAG components (embedding, retrieval, and generation).
 
-- **Modular RAG Components**: Provides a hands-on tutorial covering the full RAG pipeline, including document ingestion, embedding generation, vector database integration, retrieval mechanisms, and prompt augmentation for enhanced LLM responses.
+- **Agent & Chatbot Applications**: Provides a tutorial for deploying RAG-based agents and chatbots, emphasizing practical implementation of RAG pipelines without external dependencies. Last updated July 2026.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pguso
-- Stars: 1477
+- Stars: 1478
 - Forks: 174
 - Language: JavaScript
 - Topics: agents, ai-agents, educational, llm, node-llama-cpp, nodejs, rag, rag-chatbot, rag-pipeline, tutorial
-- Last Updated: 2026-07-11T14:48:59Z
+- Last Updated: 2026-07-13T06:44:26Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-27T16:19:58Z

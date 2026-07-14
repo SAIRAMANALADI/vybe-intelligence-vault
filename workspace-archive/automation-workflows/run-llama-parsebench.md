@@ -14,7 +14,6 @@ tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
@@ -38,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: ParseBench is a benchmarking suite designed to evaluate document parsing capabilities of AI agents, covering tasks like PDF parsing, OCR, and table extraction.
-- **Key Components**: Includes evaluation metrics for LlamaIndex, LLMs, vision-language models, and OCR systems, with a focus on document AI tasks.
-- **Technical Scope**: Supports Python-based parsing tasks, with metrics for accuracy, robustness, and efficiency in document parsing workflows.
+- **Benchmark Suite**: ParseBench is a specialized benchmark for evaluating document parsing capabilities of AI agents, focusing on tasks like PDF parsing, OCR, and table extraction.
+
+- **Multi-Modal Evaluation**: Supports evaluation across vision-language models (VLMs) and traditional document AI pipelines, enabling comparative analysis of parsing performance.
+
+- **Integration-Friendly**: Designed for compatibility with LlamaIndex, providing structured evaluation metrics and tools for machine l
 
 ## Use Cases
 

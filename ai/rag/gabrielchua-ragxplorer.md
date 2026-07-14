@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-13T09:35:58.594555+05:30'
+collected_at: '2026-07-14T09:17:37.210866+05:30'
 published_at: '2026-07-11T01:18:26Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
 - jupyter notebook
 - models
 - rag
+- workflows
 stars: 1223
 language: Jupyter Notebook
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-13T09:35:58.594555+05:30'
-last_seen: '2026-07-13T09:35:58.594555+05:30'
-last_checked: '2026-07-13T09:35:58.594555+05:30'
+first_seen: '2026-07-14T09:17:37.210866+05:30'
+last_seen: '2026-07-14T09:17:37.210866+05:30'
+last_checked: '2026-07-14T09:17:37.210866+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source tool for interactive visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines using Python and Streamlit.
-- **Key Features**: Jupyter Notebook-based implementation with visualization capabilities for LLM-based RAG systems.
-- **Technical Stack**: Python, Streamlit, and Jupyter Notebook; supports real-time exploration of RAG components (retrieval, generation, and evaluation).
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for dynamic visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time debugging and performance assessment.
+
+- **Streamlit-Powered UI**: Leverages Streamlit for an interactive web interface, facilitating user-friendly exploration of RAG components (e.g., retrieval quality, LLM interactions) with minimal setup overhead.
+
+- **Python-Centric Design**: Built in Python with dependencies on LLM frameworks (e.g., LangChain) and visualization libraries (e.g., Plotly), optimized for integration with existing RAG workflows and customizable for advanced use cases.
 
 ## Why It Matters
 

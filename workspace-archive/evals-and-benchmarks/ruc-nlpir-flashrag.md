@@ -8,7 +8,7 @@ local_vault_path: ai/rag/ruc-nlpir-flashrag.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
@@ -19,7 +19,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # RUC-NLPIR/FlashRAG
@@ -28,10 +28,10 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
@@ -39,7 +39,7 @@ selection_reason:
 
 - **Benchmark & Dataset Integration**: Provides built-in support for standardized RAG benchmarks and diverse datasets, enabling reproducible evaluation across retrieval and generation tasks.
 
-- **Modular & Extensible**: Designed with modularity in mind, allowing researchers to
+- **Modular & Extensible**: Designed with modularity in mind, supporting custom retri
 
 ## Use Cases
 

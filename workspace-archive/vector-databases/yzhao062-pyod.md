@@ -8,18 +8,17 @@ local_vault_path: ai/rag/yzhao062-pyod.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # yzhao062/pyod
@@ -28,17 +27,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ anomaly detection algorithms for tabular, time series, graph, text, image, and audio data, with benchmark-backed orchestration via `ADEngine`.
+- **Multimodal Anomaly Detection**: Provides 60+ detectors (e.g., Isolation Forest, Autoencoders, Graph Neural Networks) for tabular, time series, graph, text, image, and audio data, with benchmark-backed performance evaluation via `ADEngine`.
 
-- **Agentic Workflow Integration**: Enables AI agent-driven anomaly detection workflows, leveraging foundation models for multimodal and cross-domain outlier detection.
+- **Agentic Workflow Integration**: Supports AI agent orchestration for automated anomaly detection pipelines, enabling adaptive, multi-step detection strategies leveraging foundation models.
 
-- **Active Development & Ecosystem**: Maintained with 9,905+ stars and 1,478 forks, PyOD integrates unsupervised learning
+- **Unsupervised & Novelty Detection**: Implements outlier ens
 
 ## Use Cases
 

@@ -4,25 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PierreGode/Ragnar
-collected_at: '2026-07-13T09:36:43.625424+05:30'
-published_at: '2026-07-13T01:15:19Z'
+collected_at: '2026-07-14T09:18:17.238947+05:30'
+published_at: '2026-07-14T03:26:35Z'
 tags:
 - github-repo
-- hackernews
 - paper
 - python
 - rag
-stars: 731
+stars: 738
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-11-01T03:12:25Z'
-pushed_at: '2026-07-13T03:16:25Z'
+pushed_at: '2026-07-14T03:26:30Z'
 resource_id: github:pierregode/ragnar
-first_seen: '2026-07-13T09:36:43.625424+05:30'
-last_seen: '2026-07-13T09:36:43.625424+05:30'
-last_checked: '2026-07-13T09:36:43.625424+05:30'
+first_seen: '2026-07-14T09:18:17.238947+05:30'
+last_seen: '2026-07-14T09:18:17.238947+05:30'
+last_checked: '2026-07-14T09:18:17.238947+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Ragnar is an offensive security tool designed for Raspberry Pi, integrating a 2.13-inch e-Paper HAT for network scanning and vulnerability assessment.
-- **Functionality**: Discovers network targets, enumerates open ports, identifies exposed services, and detects vulnerabilities.
-- **Technical Stack**: Implemented in Python, last updated on July 13, 2026.
+- **Network Scanning Tool**: Ragnar is a Python-based offensive security utility for Raspberry Pi, designed to discover network targets, open ports, exposed services, and vulnerabilities using a 2.13-inch e-Paper HAT for output display.
+
+- **Hardware Integration**: The tool leverages a Raspberry Pi with an e-Paper HAT (Hardware Attached on Top) for real-time data visualization of scan results, enhancing portability and usability in field operations.
+
+- **Automated Vulnerability Detection**: Ragnar automates the identification of network vulnerabilities by scanning for exposed services and cross-referencing with known security flaws, providing actionable insights for penetration testers.
 
 ## Why It Matters
 
@@ -41,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: PierreGode
-- Stars: 731
+- Stars: 738
 - Forks: 60
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-13T01:15:19Z
+- Last Updated: 2026-07-14T03:26:35Z
 - License: MIT
 - Archived: No
 - Created At: 2025-11-01T03:12:25Z
-- Pushed At: 2026-07-13T03:16:25Z
+- Pushed At: 2026-07-14T03:26:30Z
 
 ## Possible Use Cases
 

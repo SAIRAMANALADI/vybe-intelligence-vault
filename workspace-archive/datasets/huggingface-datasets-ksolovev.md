@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: ksolovev/FineNews (Likes: 20, Downloads: 1961580)
+Trending Hugging Face dataset: ksolovev/FineNews (Likes: 20, Downloads: 1961963)
 
 ## Use Cases
 

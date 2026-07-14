@@ -11,11 +11,11 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 - [Pinecone · GitHub](https://github.com/pinecone-io) (framework - ESSENTIAL Tier)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (framework - USEFUL Tier)
-- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app) (prompt - USEFUL Tier)
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (dataset - USEFUL Tier)
 - [Distributed authority quickstart | Netcode for GameObjects | 2.11.2](https://docs.unity3d.com/Packages/com.unity.netcode.gameobjects@2.11/manual/da-quickstart.html) (tutorial - USEFUL Tier)
 - [CineMobile: On-Device Image-to-Video Diffusion for Cinematic Camera Motion Generation](https://arxiv.org/abs/2607.03803) (framework - USEFUL Tier)
 - [LineageMark: Multi-user White-box Watermarking for Contribution Tracing in Model Derivation Chains](https://arxiv.org/abs/2606.17123) (framework - USEFUL Tier)
+- [A Vision Toward Energy-Efficient Domain-Specific Artificial Intelligence Models and Agents](https://arxiv.org/abs/2510.22052) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -43,4 +43,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-07-13 09:51 IST*
+*Last updated: 2026-07-14 09:24 IST*

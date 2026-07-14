@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVISOsecurity/cyber-security-llm-agents
-collected_at: '2026-07-13T09:38:33.773704+05:30'
-published_at: '2026-07-09T15:59:10Z'
+collected_at: '2026-07-14T09:20:07.392843+05:30'
+published_at: '2026-07-14T03:00:25Z'
 tags:
 - agents
 - github-repo
 - jupyter notebook
 - rag
 - workflows
-stars: 374
+stars: 375
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2024-02-29T09:54:26Z'
 pushed_at: '2024-05-07T15:31:28Z'
 resource_id: github:nvisosecurity/cyber-security-llm-agents
-first_seen: '2026-07-13T09:38:33.773704+05:30'
-last_seen: '2026-07-13T09:38:33.773704+05:30'
-last_checked: '2026-07-13T09:38:33.773704+05:30'
+first_seen: '2026-07-14T09:20:07.392843+05:30'
+last_seen: '2026-07-14T09:20:07.392843+05:30'
+last_checked: '2026-07-14T09:20:07.392843+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **LLM-Driven Cybersecurity Agents**: Repository contains Jupyter Notebook-based agents leveraging Large Language Models (LLMs) to automate routine cybersecurity tasks, including adversary emulation and red teaming.
-
-- **Integration with CALDERA**: Agents are designed to interact with CALDERA, an open-source adversary emulation platform, enabling automated attack simulation and security testing workflows.
-
-- **Modular & Extensible**: Framework supports customization for diverse cybersecurity use cases, with modular components for integrating additional tools and adapting to evolving threat landscapes.
+- **Purpose**: Repository containing LLM-driven agents for automating cybersecurity tasks (e.g., adversary emulation) using Jupyter Notebooks.
+- **Integration**: Compatible with frameworks like **CALDERA** for adversary simulation and red teaming workflows.
+- **Tech Stack**: Leverages LLMs for infosec operations, with recent updates (as of 2026-07-14) and active community forks (73).
 
 ## Why It Matters
 
@@ -42,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVISOsecurity
-- Stars: 374
+- Stars: 375
 - Forks: 73
 - Language: Jupyter Notebook
 - Topics: adversary-emulation, ai, caldera, cybersecurity, infosec, llm
-- Last Updated: 2026-07-09T15:59:10Z
+- Last Updated: 2026-07-14T03:00:25Z
 - Archived: No
 - Created At: 2024-02-29T09:54:26Z
 - Pushed At: 2024-05-07T15:31:28Z

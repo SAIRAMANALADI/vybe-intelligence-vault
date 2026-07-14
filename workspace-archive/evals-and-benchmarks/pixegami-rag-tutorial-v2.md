@@ -6,16 +6,17 @@ source_url: https://github.com/pixegami/rag-tutorial-v2
 resource_id: github:pixegami/rag-tutorial-v2
 local_vault_path: ai/rag/pixegami-rag-tutorial-v2.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
+- meta-ai
 - models
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -26,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates deployment and fine-tuning of local large language models (LLMs) for Retrieval-Augmented Generation (RAG) pipelines using LangChain.
-- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval relevance with evolving data.
-- **Testing Framework**: Includes automated evaluation pipelines for RAG systems, covering metrics like retrieval accuracy, response relevance
+- **Local LLM Integration**: Demonstrates end-to-end RAG workflow using locally deployed language models (e.g., Ollama, LM Studio) with Langchain for inference.
+- **Dynamic Database Updates**: Implements automated document ingestion and vector database (e.g., Chroma, FAISS) refreshes via Langchain's `RecursiveUrlLoader` and embedding pipelines.
+- **Testing Framework**: Includes unit/integration tests for retrieval, prompt engineering, and response validation using Langchain's `LangSmith` or cust
 
 ## Use Cases
 

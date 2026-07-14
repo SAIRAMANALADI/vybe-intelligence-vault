@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-07-13T09:35:33.522910+05:30'
+collected_at: '2026-07-14T09:17:12.216330+05:30'
 published_at: '2026-07-10T19:47:08Z'
 tags:
-- benchmark
 - github-repo
+- meta-ai
 - models
 - python
 - rag
+- workflows
 stars: 960
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-07-13T09:35:33.522910+05:30'
-last_seen: '2026-07-13T09:35:33.522910+05:30'
-last_checked: '2026-07-13T09:35:33.522910+05:30'
+first_seen: '2026-07-14T09:17:12.216330+05:30'
+last_seen: '2026-07-14T09:17:12.216330+05:30'
+last_checked: '2026-07-14T09:17:12.216330+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates deployment and fine-tuning of local large language models (LLMs) for Retrieval-Augmented Generation (RAG) pipelines using LangChain.
-- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval relevance with evolving data.
-- **Testing Framework**: Includes automated evaluation pipelines for RAG systems, covering metrics like retrieval accuracy, response relevance, and latency benchmarks.
+- **Local LLM Integration**: Demonstrates end-to-end RAG workflow using locally deployed language models (e.g., Ollama, LM Studio) with Langchain for inference.
+- **Dynamic Database Updates**: Implements automated document ingestion and vector database (e.g., Chroma, FAISS) refreshes via Langchain's `RecursiveUrlLoader` and embedding pipelines.
+- **Testing Framework**: Includes unit/integration tests for retrieval, prompt engineering, and response validation using Langchain's `LangSmith` or custom evaluators.
 
 ## Why It Matters
 
@@ -41,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: pixegami
 - Stars: 960
-- Forks: 607
+- Forks: 606
 - Language: Python
 - Topics: None
 - Last Updated: 2026-07-10T19:47:08Z

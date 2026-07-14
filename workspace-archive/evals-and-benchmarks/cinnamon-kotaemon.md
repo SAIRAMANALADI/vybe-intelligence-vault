@@ -8,16 +8,15 @@ local_vault_path: ai/rag/cinnamon-kotaemon.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # Cinnamon/kotaemon
@@ -26,16 +25,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **RAG Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable context-aware document interactions by combining document retrieval with large language models (LLMs).
-- **Modular Pipeline**: Features a modular design with components for document ingestion, embedding, retrieval, and generation, supporting customizable workflows.
-- **Open-Source & Extensible**: Built in Python with open-source licensing, enabling community contributions and integration with various LLMs and vecto
+- **RAG-Based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions with LLMs, leveraging external knowledge sources for contextual responses.
+
+- **Modular Python Framework**: Built in Python with extensible components for document ingestion, retrieval, and LLM integration, supporting customization for diverse use cases.
+
+- **Open-Source & Scalable**: Released under an open-source license, optimized for scalability with support fo
 
 ## Use Cases
 

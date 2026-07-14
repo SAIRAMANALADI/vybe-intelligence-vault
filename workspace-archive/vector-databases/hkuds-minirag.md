@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- Introduces **MiniRAG**, a simplified RAG framework leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining performance.
-- Proposes an **end-to-end distillation** method to compress large RAG models into compact SLMs, optimizing both retrieval and generation stages.
-- Achieves **state-of-the-art efficiency** with minimal performance degradation, validated on ACL2026 benchmarks for open-domain QA and knowledge-intensive tasks.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) architecture leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as presented at ACL 2026.
+
+- **Efficiency Optimizations**: Implements lightweight retrieval and generation mechanisms (e.g., distilled embeddings, pruned attention layers) to achieve near-SOTA results with <1B parameter models, targeting edge deployment.
+
+- **Open-Source Toolkit**:
 
 ## Use Cases
 

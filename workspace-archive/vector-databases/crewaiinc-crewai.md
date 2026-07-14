@@ -1,36 +1,42 @@
 ---
-title: 'crewAIInc/crewAI Release: 1.14.8a5'
+title: crewAIInc/crewAI
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/crewaiinc/crewai
+source_url: https://github.com/crewAIInc/crewAI
 resource_id: github:crewaiinc/crewai
 local_vault_path: ai/rag/crewaiinc-crewai.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
-- crewaiinc-crewai
-- github-release
+- github-repo
+- python
+- rag
+- workflows
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
-# crewAIInc/crewAI Release: 1.14.8a5
+# crewAIInc/crewAI
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-General public resource representing technology updates, guides, or tutorials.
+- **Role-Based Agent Orchestration**: CrewAI provides a Python framework for coordinating autonomous AI agents via role-playing, enabling structured collaboration through defined agent roles and task delegation.
+
+- **Collaborative Intelligence Engine**: Agents interact via a task-decomposition and execution pipeline, leveraging shared context and memory to solve multi-step problems in parallel or sequentially.
+
+- **LLM Integration & Extensibility**: Built for seamless integration with large lang
 
 ## Use Cases
 
@@ -40,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source URL: https://github.com/crewaiinc/crewai
+Original source URL: https://github.com/crewAIInc/crewAI
 
 ## Local Vault File
 

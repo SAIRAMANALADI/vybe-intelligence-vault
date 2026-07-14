@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Tutorials**: Provides end-to-end, code-first guides for developing production-grade GenAI agents, covering stages from prototype to enterprise deployment with a focus on practical implementation.
+- **Comprehensive Tutorials**: Provides end-to-end, code-first guides for building production-grade GenAI agents, covering prototyping to enterprise deployment with a focus on practical implementation.
 
-- **Multi-Framework Support**: Integrates multiple agent frameworks (e.g., LangGraph) and tools (e.g., MCP, RAG, LLM orchestration) alongside MLOps and observability practices for scalable AI agent systems.
+- **Multi-Framework Support**: Integrates multiple agent frameworks (e.g., LangGraph) and tools (e.g., MCP, RAG) while emphasizing MLOps, observability, and scalability for enterprise-grade systems.
 
-- **Python & Jupyter-Centric**: Delivers tutorials exclusively in Python usin
+- **Python & Jupyter-Centric**: Entirely implemented in Python using Jupyter Notebooks, with topi
 
 ## Use Cases
 

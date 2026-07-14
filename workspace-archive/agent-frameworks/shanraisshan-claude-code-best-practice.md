@@ -16,6 +16,7 @@ tags:
 - github-repo
 - hackernews
 - html
+- scripts
 - workflows
 selection_reason:
 - Active open-source repository
@@ -33,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `shanraisshan/claude-code-best-practice` provides structured guidance on transitioning from *vibe coding* to *agentic engineering* using Claude Code, with 62,494 stars and 6,249 forks.
-- **Key Focus Areas**: Curates best practices for *Claude Code* agents, including *context engineering*, *agentic workflows*, and *command optimization* for AI-driven development.
-- **Technical Scope**: Covers *Claude AI* tools, *agentic coding* techniques, and *context
+- **Agentic Workflow Optimization**: Repository provides structured methodologies for transitioning from "vibe coding" to systematic agentic engineering with Claude Code, emphasizing context engineering and structured command execution.
+
+- **Claude Code Best Practices**: Curates advanced techniques for Claude Code agents, including skill development, command optimization, and workflow automation for AI-driven software engineering tasks.
+
+- **Community-Driven Resource**: Open-source hub with 62,5
 
 ## Use Cases
 

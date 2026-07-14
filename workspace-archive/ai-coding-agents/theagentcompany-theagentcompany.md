@@ -14,7 +14,6 @@ tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
 - workflows
 selection_reason:
@@ -33,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Design**: Simulated software company environment for evaluating AI agents on complex, multi-step tasks (e.g., coding, debugging, project management).
-- **Technical Stack**: Python-based framework with modular task definitions, agent interaction protocols, and evaluation metrics for LLM performance.
-- **Research Focus**: Measures agent autonomy, tool-use efficiency, and adaptability in dynamic software development workflows.
+- **Multi-agent benchmarking framework** simulating a software company environment for evaluating AI agents on complex, real-world tasks (e.g., coding, collaboration, project management).
+
+- **Python-based implementation** with modular design, supporting extensible task definitions, agent interactions, and evaluation metrics for AI research.
+
+- **Open-source repository** (740 stars, 120 forks) last updated July 2026, focusing on AI agent benchmarks, LLM performance, and software engineering work
 
 ## Use Cases
 

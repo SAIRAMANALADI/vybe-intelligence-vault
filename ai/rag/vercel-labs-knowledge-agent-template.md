@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/knowledge-agent-template
-collected_at: '2026-07-13T09:38:33.797852+05:30'
+collected_at: '2026-07-14T09:20:07.418447+05:30'
 published_at: '2026-07-12T18:20:49Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - typescript
-- workflows
 stars: 946
 language: TypeScript
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2026-01-20T15:02:20Z'
 pushed_at: '2026-06-11T09:36:03Z'
 resource_id: github:vercel-labs/knowledge-agent-template
-first_seen: '2026-07-13T09:38:33.797852+05:30'
-last_seen: '2026-07-13T09:38:33.797852+05:30'
-last_checked: '2026-07-13T09:38:33.797852+05:30'
+first_seen: '2026-07-14T09:20:07.418447+05:30'
+last_seen: '2026-07-14T09:20:07.418447+05:30'
+last_checked: '2026-07-14T09:20:07.418447+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a TypeScript-based template for building AI agents that dynamically sync with a file-system knowledge base, enabling real-time updates and contextual responses.
+- **File-System & Knowledge-Based Agent Template**: Provides a TypeScript-based open-source framework for building AI agents that dynamically integrate with a user-defined knowledge base via a file system interface.
 
-- **Key Features**: Integrates **Nuxt** and **Vue** for frontend, supports **sandboxed execution**, and leverages **Vercel’s ecosystem** for deployment and scalability.
+- **Nuxt/Vue Integration**: Leverages Nuxt.js and Vue.js for frontend components, enabling structured chatbot UIs and sandboxed agent interactions within a modern web application architecture.
 
-- **Technical Stack**: Open-source repository with **946 stars** and **125 forks**, last updated in **2026**, optimized for **agent-based AI workflows** and **knowledge retrieval**.
+- **Real-Time Updates & Scalability**: Supports live synchronization with knowledge sources (last updated July 2026) and is optimized for Vercel deployments, ensuring scalable, serverless agent execution.
 
 ## Why It Matters
 

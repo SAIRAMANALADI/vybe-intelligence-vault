@@ -8,7 +8,7 @@ local_vault_path: ai/rag/ray-project-llm-applications.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
@@ -20,7 +20,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # ray-project/llm-applications
@@ -29,16 +29,18 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **RAG-based LLM Production Guide**: Provides a structured approach to deploying Retrieval-Augmented Generation (RAG) models in production using Ray, covering end-to-end workflows from fine-tuning to serving.
-- **Multi-Framework Integration**: Demonstrates integration with Llama2, OpenAI, and Anyscale, leveraging Ray for scalable model serving and distributed inference.
-- **Notebook-Based Implementation**: Includes Jupyter Notebooks for hands-on examples, focusing on practical deployment strate
+- **RAG Pipeline Integration**: Demonstrates end-to-end production deployment of Retrieval-Augmented Generation (RAG) systems using Ray for distributed computing, integrating Llama2, OpenAI, and Anyscale models with optimized serving pipelines.
+
+- **Fine-Tuning & Optimization**: Provides Jupyter Notebook-based workflows for fine-tuning LLMs (e.g., Llama2) and optimizing inference performance via Ray’s distributed serving infrastructure, including batching and dynamic scaling.
+
+- **Modular Archit
 
 ## Use Cases
 

@@ -16,7 +16,6 @@ tags:
 - javascript
 - rag
 - scripts
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Suite**: Provides JavaScript-based Codex App templates for enabling long-duration autonomous project execution with integrated reviewer agents and learning loops.
-- **Safety Mechanisms**: Incorporates narrow safety hooks to constrain agent behavior during autonomous runs, mitigating risk in unsupervised execution.
-- **Automation Focus**: Designed for AI-driven automation, leveraging Codex's agentic framework to streamline workflows while maintaining modularity and extensibility.
+- **Autonomous AI Agent Framework**: Provides templates for long-running autonomous project execution using AI agents with reviewer components and learning loops.
+- **Narrow Safety Hooks**: Implements targeted safety mechanisms to constrain agent behavior during autonomous operations.
+- **JavaScript-Based Implementation**: Built in JavaScript, leveraging Codex App templates for modular agent automation and project execution.
 
 ## Use Cases
 

@@ -5,9 +5,9 @@ Distribution of original signal ingestion sources across processed URLs:
 | Source Domain | Resource Count |
 | :--- | ---: |
 | arxiv | 6765 |
-| huggingface | 899 |
-| github | 791 |
-| nextjs.org | 67 |
+| huggingface | 900 |
+| github | 793 |
+| nextjs.org | 68 |
 | support.google.com | 28 |
 | react.dev | 23 |
 | youtube | 21 |
@@ -100,6 +100,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | ragflow.io | 4 |
 | education.gainsight.com | 4 |
 | tech.cornell.edu | 4 |
+| policy.medium.com | 3 |
 | ai.google.dev | 3 |
 | firecrawl.dev | 3 |
 | platform.openai.com | 3 |
@@ -158,7 +159,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | tech-insider.org | 3 |
 | markaicode.com | 3 |
 | evidentlyai.com | 3 |
-| policy.medium.com | 3 |
 | nodejs.org | 2 |
 | jamsadr.com | 2 |
 | weaviate.io | 2 |
@@ -323,13 +323,10 @@ Distribution of original signal ingestion sources across processed URLs:
 | aimultiple.com | 2 |
 | confident-ai.com | 2 |
 | benchmarkingagents.com | 2 |
-| geohot.github.io | 1 |
-| news.ycombinator.com | 1 |
-| ploy.ai | 1 |
-| substack.magazinenongrata.com | 1 |
-| motivenotes.ai | 1 |
-| cacm.acm.org | 1 |
-| nanduruganesh.github.io | 1 |
+| get-inscribe.com | 1 |
+| whois.com | 1 |
+| sleuth-io.github.io | 1 |
+| careersatdoordash.com | 1 |
 | incident.io | 1 |
 | about.medium.com | 1 |
 | help.upshow.tv | 1 |

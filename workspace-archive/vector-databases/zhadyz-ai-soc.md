@@ -15,6 +15,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -31,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: AI-augmented SOC integrating LLMs (Foundation-Sec-8B) with multi-agent orchestration for automated threat detection/response, combining Wazuh (log analysis), TheHive (incident management), and RAG (contextual data retrieval).
+- **Architecture**: Implements an AI-augmented SOC using LLMs (Foundation-Sec-8B) and multi-agent orchestration, integrating Wazuh for log analysis, TheHive for incident response, and RAG for contextual threat intelligence retrieval.
 
-- **Tech Stack**: Python-based implementation leveraging open-source tools (Foundation-Sec-8B for LLM inference, Wazuh for SIEM, TheHive for SOAR, and RAG for knowledge augmentation).
+- **Tech Stack**: Entirely Python-based, leveraging open-source security tools (Wazuh/TheHive) with a custom 8B-parameter LLM fine-tuned for security operations.
 
-- **Use Case**: Designed for autonomous SOC operations, enabling rea
+- **Workflow**: Automates SOC tasks via agent-based orchestration, combining real-time log processing
 
 ## Use Cases
 
