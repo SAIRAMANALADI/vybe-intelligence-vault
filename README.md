@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 60,211 files</p>
-        <p><b>Last Update:</b> 2026-07-14 13:31 IST</p>
+        <p><b>Last Update:</b> 2026-07-14 15:38 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,25 +210,17 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](ai/community/apple-s-new-speechanalyzer-api-benchmarked-against.md)** • <kbd>+37 pts</kbd>
-- 🔼 **[Show HN: Jacquard, a programming language for AI-written, human-reviewed code](ai/community/jbwinters-jacquard-lang.md)** • <kbd>+20 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Building Food Metadata with LLM Juries](ai/community/building-food-metadata-with-llm-juries.md)** • <kbd>+13 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder](ai/community/show-hn-sx-2-0-share-ai-skills-with-your-team-thro.md)** • <kbd>+10 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Subresource Integrity - Security | MDN](ai/resources/subresource-integrity-security-mdn.md)** • Rank: <kbd>+1030</kbd>
+- No trending items found.
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says](ai/community/openai-s-ad-business-is-on-pace-to-miss-its-own-fo.md)** • Score: `27`
-- 🆕 **[Home - World Federation of Advertisers](ai/resources/home-world-federation-of-advertisers.md)** • Score: `0`
-- 🆕 **[YourOnlineChoices.eu - Make a complaint](ai/resources/youronlinechoices-eu-make-a-complaint.md)** • Score: `0`
-- 🆕 **[Web EDAA - YouTube](ai/resources/web-edaa-youtube.md)** • Score: `0`
-- 🆕 **[Delete, allow, and manage cookies in Chrome - Computer - Google Chrome Help](ai/rag/delete-allow-and-manage-cookies-in-chrome-computer.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Telegram's t.me domain has been suspended](ai/community/telegram-s-t-me-domain-has-been-suspended.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
