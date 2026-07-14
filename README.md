@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-60%2C223-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-60%2C211-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--14-374151?style=flat-square)](#)
 
@@ -187,8 +187,8 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 12,189</p>
-        <p><b>Active:</b> 11,918 | <b>Inactive:</b> 271</p>
+        <p><b>Resources tracked:</b> 12,177</p>
+        <p><b>Active:</b> 11,906 | <b>Inactive:</b> 271</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
@@ -197,8 +197,8 @@ score_threshold: 0.65
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 60,223 files</p>
-        <p><b>Last Update:</b> 2026-07-14 13:15 IST</p>
+        <p><b>Total Vault Size:</b> 60,211 files</p>
+        <p><b>Last Update:</b> 2026-07-14 13:31 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>

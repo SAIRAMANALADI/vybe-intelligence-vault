@@ -6,7 +6,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | :--- | ---: |
 | arxiv | 7520 |
 | huggingface | 900 |
-| github | 803 |
+| github | 799 |
 | nextjs.org | 68 |
 | support.google.com | 30 |
 | react.dev | 23 |
@@ -35,7 +35,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | deepmind.google | 8 |
 | geeksforgeeks.org | 8 |
 | support.apple.com | 8 |
-| help.medium.com | 7 |
 | databricks.com | 7 |
 | stackoverflow.blog | 7 |
 | docs.docker.com | 7 |
@@ -47,6 +46,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | datatracker.ietf.org | 7 |
 | developer.mozilla.org | 6 |
 | gitlab.com | 6 |
+| help.medium.com | 6 |
 | creativecommons.org | 6 |
 | deepset.ai | 6 |
 | en.wikipedia.org | 6 |
@@ -73,7 +73,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | campus.datacamp.com | 5 |
 | support.gainsight.com | 5 |
 | csrc.nist.gov | 5 |
-| speechify.com | 4 |
 | blog.langchain.com | 4 |
 | langchain.com | 4 |
 | github.blog | 4 |
@@ -81,7 +80,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | developers.llamaindex.ai | 4 |
 | martinuke0.github.io | 4 |
 | haystack.deepset.ai | 4 |
-| play.google.com | 4 |
 | milvus.io | 4 |
 | nature.com | 4 |
 | science.nasa.gov | 4 |
@@ -104,11 +102,13 @@ Distribution of original signal ingestion sources across processed URLs:
 | tech.cornell.edu | 4 |
 | support.microsoft.com | 3 |
 | blog.google | 3 |
+| speechify.com | 3 |
 | scite.ai | 3 |
 | android-developers.googleblog.com | 3 |
 | firecrawl.dev | 3 |
 | platform.openai.com | 3 |
 | research.google | 3 |
+| play.google.com | 3 |
 | forbes.com | 3 |
 | medium.zendesk.com | 3 |
 | docs.google.com | 3 |
@@ -162,7 +162,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | tech-insider.org | 3 |
 | markaicode.com | 3 |
 | evidentlyai.com | 3 |
-| policy.medium.com | 3 |
 | myaccount.google.com | 2 |
 | artificialanalysis.ai | 2 |
 | electronjs.org | 2 |
@@ -1746,5 +1745,3 @@ Distribution of original signal ingestion sources across processed URLs:
 | botpenguin.com | 1 |
 | startdesigns.com | 1 |
 | signitysolutions.com | 1 |
-| blog.medium.com | 1 |
-| status.medium.com | 1 |
