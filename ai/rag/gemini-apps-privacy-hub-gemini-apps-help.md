@@ -3,9 +3,9 @@ title: Gemini Apps Privacy Hub - Gemini Apps Help
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://support.google.com/gemini/answer/13594961?hl=en_US#privacy_notice
-published_at: '2026-07-14T13:08:23.881025+05:30'
-collected_at: '2026-07-14T13:08:23.881040+05:30'
+source_url: https://support.google.com/gemini/answer/13594961#privacy_notice
+published_at: '2026-07-14T19:57:48.856352+05:30'
+collected_at: '2026-07-14T19:57:48.856367+05:30'
 tags:
 - agents
 - deepmind
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:gemini-apps-privacy-hub-gemini-apps-help
-first_seen: '2026-07-14T13:08:23.881040+05:30'
-last_seen: '2026-07-14T13:08:23.881040+05:30'
-last_checked: '2026-07-14T13:08:23.881040+05:30'
+first_seen: '2026-07-14T19:57:48.856367+05:30'
+last_seen: '2026-07-14T19:57:48.856367+05:30'
+last_checked: '2026-07-14T19:57:48.856367+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Collects explicit user inputs (prompts, files, audio/video transcripts, feedback), generated outputs (text/code/images/audio/video), device/browser metadata (permissions, logs, performance metrics), and third-party app data (Connected Apps, Google services like Search/YouTube history).
+- **Data Collection Scope**: Collects explicit user inputs (prompts, files, transcripts, feedback) and derived outputs (generated content, model reasoning steps, interaction logs), including device/browser metadata, Connected App data, and location information for service provisioning and personalization.
 
-- **Processing & Retention**: Uses data for service provision, improvement, personalization, and security under Google’s Privacy Policy; retains temporary chats (unless "Keep Activity" off) and user-uploaded content; human reviewers (including third-party contractors) may access data for quality control.
+- **Processing & Retention**: Uses collected data for service delivery, improvement, and AI model training under Google’s Privacy Policy, with human review for quality control; retention varies by feature (e.g., temporary chats deleted immediately if "Keep Activity" is off, otherwise up to 18 months unless extended by user settings).
 
-- **Third-Party Integration**: Enables cross-service data exchange with Connected Apps (Google/third-party), remote browser authentication (cookies), and device-level permissions (contacts, screen content, location); user-controlled settings govern data sharing and feature-specific usage (e.g., audio/video processing, location access).
+- **Third-Party & Feature-Specific Data Handling**: Integrates with Connected Apps (Google/third-party) with data processed per respective policies; audio/video interactions (e.g., Gemini Live) may be retained for up to 3 years for model improvement unless opt-out is configured, while Canvas interactions expose user-shared data to app creators.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T13:08:23.881025+05:30
+- Published: 2026-07-14T19:57:48.856352+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://support.google.com/gemini/answer/13594961?hl=en_US#privacy_notice
+Original source: https://support.google.com/gemini/answer/13594961#privacy_notice

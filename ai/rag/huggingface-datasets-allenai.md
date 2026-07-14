@@ -5,7 +5,7 @@ source_type: huggingface_dataset
 source_name: Hugging Face Trending Datasets
 source_url: https://huggingface.co/datasets/allenai
 published_at: '2024-01-09T19:14:03.000Z'
-collected_at: '2026-07-14T12:56:34.971834+05:30'
+collected_at: '2026-07-14T19:46:03.109287+05:30'
 tags:
 - dataset
 - hf-dataset
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:datasets/allenai
 first_seen: '2026-06-24T10:13:12.746774+05:30'
-last_seen: '2026-07-14T12:56:34.971834+05:30'
-last_checked: '2026-07-14T12:56:34.971834+05:30'
+last_seen: '2026-07-14T19:46:03.109287+05:30'
+last_checked: '2026-07-14T19:46:03.109287+05:30'
 health_score: 100
 ---
 
@@ -23,7 +23,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face dataset: allenai/c4 (Likes: 610, Downloads: 1510202)
+Trending Hugging Face dataset: allenai/c4 (Likes: 610, Downloads: 1514116)
 
 ## Why It Matters
 

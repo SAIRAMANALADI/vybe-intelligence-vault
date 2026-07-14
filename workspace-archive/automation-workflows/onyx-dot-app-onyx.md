@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Chat Platform**: Open-source Python-based system supporting integration with any LLM, featuring advanced chat UI, RAG (Retrieval-Augmented Generation), and vector search capabilities for enterprise-grade information retrieval.
+- **Multi-LLM Compatibility**: Open-source AI chat platform (`onyx`) supporting integration with **any LLM**, enabling flexible model switching and hybrid workflows via Python backend.
 
-- **Full-Stack Architecture**: Combines Next.js frontend with Python backend, enabling self-hosted deployment with support for hybrid search (semantic + keyword) and scalable enterprise search workflows.
+- **Enterprise-Grade RAG & Vector Search**: Implements **Retrieval-Augmented Generation (RAG)** with **vector search** for contextual information retrieval, optimized for large-scale deployments (Next.js frontend + Python backend).
 
-- **Extensible Features**: Includes built-in support
+- **Self-Hosted & Scalable**: Designed for **self-hosting** with modular architec
 
 ## Use Cases
 

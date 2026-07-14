@@ -8,7 +8,7 @@ local_vault_path: ai/agents/google-for-developers-build-with-gemini.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - workflows
 - youtube
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Google for Developers | Build with Gemini
@@ -26,15 +26,15 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Gemini API Integration**: Provides access to advanced reasoning and generative models (e.g., `gemini-3.5-flash`) with native multimodal support, enabling complex agentic workflows and large-scale codebase processing via a single REST API with SDKs in Python, JavaScript, Go, and Java.
-
-- **Agent-First Development Platforms**: Google Antigravity (CLI/desktop) and AI Studio allow natural language-to-app generation, autonomous agent customization, and scalable deployment on Google Cloud Run, whi
+- **Gemini API Integration**: Provides access to advanced reasoning and generative models for building AI-powered apps/agents with native multimodal support, long context windows, and real-time agentic workflows via a single API endpoint.
+- **Agent-First Development Platforms**: Google Antigravity (desktop/CLI) and AI Studio enable autonomous agent operations with Gemini models, supporting prompt-to-production workflows and scalable infrastructure via Google Cloud Run.
+- **Multi-Platform AI Tool
 
 ## Use Cases
 

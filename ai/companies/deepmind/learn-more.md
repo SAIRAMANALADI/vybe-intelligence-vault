@@ -4,8 +4,8 @@ category: ai/companies/deepmind
 source_type: company_blog
 source_name: Google DeepMind Blog
 source_url: https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi
-published_at: '2026-07-14T12:56:40.667109+05:30'
-collected_at: '2026-07-14T12:56:40.667112+05:30'
+published_at: '2026-07-14T19:46:05.626238+05:30'
+collected_at: '2026-07-14T19:46:05.626241+05:30'
 tags:
 - blog-post
 - deepmind
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: blog:learn-more
 first_seen: '2026-06-16T04:26:32.686042+00:00'
-last_seen: '2026-07-14T12:56:40.667112+05:30'
-last_checked: '2026-07-14T12:56:40.667112+05:30'
+last_seen: '2026-07-14T19:46:05.626241+05:30'
+last_checked: '2026-07-14T19:46:05.626241+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Google DeepMind Blog
 - Article URL: https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi
-- Collected At: 2026-07-14T12:56:40.667112+05:30
+- Collected At: 2026-07-14T19:46:05.626241+05:30
 
 ## Related Tags
 

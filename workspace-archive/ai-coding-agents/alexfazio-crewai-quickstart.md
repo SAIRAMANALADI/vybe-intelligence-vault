@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Demonstrates practical implementations of CrewAI's agentic workflows through notebooks, cookbooks, and recipes.
-- **Technical Stack**: Primarily uses Jupyter Notebooks with Python for showcasing CrewAI's agent-based systems.
-- **Scope**: Focuses on agent automation, workflow optimization, and tool integration within CrewAI's ecosystem.
+- **Repository Overview**: Contains Jupyter Notebooks, cookbooks, and recipes demonstrating CrewAI's agentic workflows and tools for practical implementations.
+- **Metadata**: 421 stars, 74 forks, last updated July 2, 2026.
+- **Technical Focus**: Showcases agent-based systems, workflow automation, and CrewAI tool integrations.
 
 ## Use Cases
 

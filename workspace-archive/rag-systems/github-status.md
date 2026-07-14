@@ -2,7 +2,7 @@
 title: GitHub Status
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://githubstatus.com
+source_url: https://www.githubstatus.com/
 resource_id: blog:github-status
 local_vault_path: ai/rag/github-status.md
 quality_score: 70
@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status, incident reports, and historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days) via [githubstatus.com](https://githubstatus.com), including regional breakdowns (AU/EU/JP/US).
+- **GitHub Status Page** provides real-time operational status, incident reports, and historical uptime metrics (e.g., 99.99% for Git Operations over 90 days) for GitHub services, including Actions, Codespaces, and APIs.
 
-- **Notification Subscriptions**: Supports multi-channel incident alerts (email, SMS, Slack, webhooks) with OTP verification, adhering to Atlassian/GitHub privacy policies and reCAPTCHA protection.
+- **Notification Systems** support email, SMS (with country-specific codes), Slack, and webhook integrations to alert users of incident creation, updates, or resolutions via configurable endpoints.
 
-- **Recent Incidents**: Documented fai
+- **Past Incidents** (e.g., July 9, 2026, Actions delays due to backend data se
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://githubstatus.com
+Original source URL: https://www.githubstatus.com/
 
 ## Local Vault File
 

@@ -13,13 +13,14 @@ collected_at: '2026-07-14T12:56:38.420761+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:jbwinters/jacquard-lang
 first_seen: '2026-07-14T09:09:47.588754+05:30'
 last_seen: '2026-07-14T12:56:38.420761+05:30'
 last_checked: '2026-07-14T12:56:38.420761+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Jacquard, a programming language for AI-written, human-reviewed code
 

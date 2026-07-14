@@ -4,8 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/RUC-NLPIR/FlashRAG?source=
-resource_id: github:ruc-nlpir/flashrag
------dba899ae0355---------------------------------------
+resource_id: github:ruc-nlpir/flashrag-00e6c936
+---
+--dba899ae0355---------------------------------------
 collected_at: '2026-07-14T13:02:54.079595+05:30'
 published_at: '2026-07-13T17:00:37Z'
 tags:

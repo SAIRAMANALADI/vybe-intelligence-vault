@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-s-ad-business-is-on-pace-to-miss-its-own-fo
 first_seen: '2026-07-14T12:56:37.778181+05:30'
 last_seen: '2026-07-14T12:56:37.778181+05:30'
 last_checked: '2026-07-14T12:56:37.778181+05:30'
 health_score: 100
 ---
+
 
 # OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says
 

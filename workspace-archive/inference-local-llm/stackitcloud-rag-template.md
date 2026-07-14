@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Template for deploying AI chatbots and document management systems using Retrieval-Augmented Generation (RAG) with vector search capabilities and FastAPI backend.
-
-- **Key Components**: Integrates Python-based FastAPI, Ollama for LLM inference, and a vector database for semantic search; supports Docker and Kubernetes for deployment.
-
-- **Features**: Includes RAG-chatbot functionality, retrieval-augmented generation, and is optimized for STACKIT cloud infrastructure.
+*   Python-based RAG template for AI chatbots, featuring document management via vector search.
+*   Implements a FastAPI backend for API exposure and integrates with LLMs (e.g., Ollama) for generation.
+*   Containerized for deployment with Docker and Kubernetes, enabling scalable RAG application hosting.
 
 ## Use Cases
 

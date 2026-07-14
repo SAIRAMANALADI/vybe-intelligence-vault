@@ -2,7 +2,7 @@
 title: Watch NFL Sunday Ticket on YouTube TV - YouTube TV Help
 archive_category: model-providers
 source_category: ai/resources
-source_url: https://support.google.com/youtubetv/topic/16266349?visit_id=1770113180724288000-1947945390&rd=1
+source_url: https://support.google.com/youtubetv/answer/13316318
 resource_id: blog:watch-nfl-sunday-ticket-on-youtube-tv-youtube-tv-h
 local_vault_path: ai/resources/watch-nfl-sunday-ticket-on-youtube-tv-youtube-tv-h.md
 quality_score: 70
@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Availability & Scope**: NFL Sunday Ticket is a premium U.S.-only YouTube TV package offering Sunday afternoon NFL games not broadcast locally, with multiview, stats, fantasy tools, and recording features.
-
-- **Subscription Models**: Multiple pricing tiers exist, including military/medical/teaching discounts, student plans, and optional NFL RedZone via Sports Plus.
-
-- **Technical Features**: Supports multiview, home network adjustments, and location management, with DVR functionality and fant
+- **Availability & Scope**: NFL Sunday Ticket is a U.S.-exclusive YouTube TV premium package offering all Sunday afternoon NFL games not broadcast locally, with no RedZone included by default.
+- **Technical Features**: Supports multiview for multiple games, fantasy football stats, and cloud DVR recording; requires home network setup for unlimited local playback.
+- **Subscription Tiers**: Offers military/medical/teaching discounts, student plans, and optional NFL RedZone via Sports Plus add-on wi
 
 ## Use Cases
 
@@ -47,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://support.google.com/youtubetv/topic/16266349?visit_id=1770113180724288000-1947945390&rd=1
+Original source URL: https://support.google.com/youtubetv/answer/13316318
 
 ## Local Vault File
 

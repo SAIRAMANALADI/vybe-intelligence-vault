@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-14T12:59:13.944662+05:30'
+collected_at: '2026-07-14T19:47:42.045935+05:30'
 published_at: '2026-06-30T16:45:55Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 368
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-14T12:59:13.944662+05:30'
-last_seen: '2026-07-14T12:59:13.944662+05:30'
-last_checked: '2026-07-14T12:59:13.944662+05:30'
+first_seen: '2026-07-14T19:47:42.045935+05:30'
+last_seen: '2026-07-14T19:47:42.045935+05:30'
+last_checked: '2026-07-14T19:47:42.045935+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a Retrieval Augmented Generation (RAG) system combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document search and context augmentation in generative AI workflows.
+- **Hybrid RAG Pipeline**: Implements a hybrid retrieval-augmented generation (RAG) system combining vector search (FAISS/GPU-accelerated) with keyword-based retrieval for improved document relevance.
 
-- **NVIDIA AI Workbench Integration**: Demonstrates deployment and optimization of the RAG pipeline using NVIDIA's AI Workbench, leveraging GPU acceleration for efficient LLM inference and vector database operations.
+- **NVIDIA AI Workbench Integration**: Demonstrates deployment of the RAG pipeline within NVIDIA AI Workbench, leveraging GPU acceleration (e.g., TensorRT-LLM) for optimized inference.
 
-- **Python-Based Implementation**: Provides a reference architecture in Python, utilizing libraries such as LangChain, FAISS (or similar vector stores), and NVIDIA-optimized components for end-to-end hybrid retrieval and generation.
+- **Modular Python Framework**: Provides a structured Python-based example with configurable components for document ingestion, retrieval, and LLM generation, supporting customization for different use cases.
 
 ## Why It Matters
 

@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Hugo v0.164.0** introduces dark/light mode pairs for Chroma highlighter styles, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and Pandoc citation support, along with a performance regression fix from v0.128.0.
-
-- **Deprecation & Enhancements**: Resources.PostProcess is deprecated in favor of `templates.Defer`, and markup.rst.syntaxHighlight is now configurable; template name lookup is now case-insensitive.
-
-- **Performance & Dependency Updates**: Optimiz
+- **Hugo v0.164.0** introduces Chroma syntax highlighter dark/light mode pairs, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and Pandoc citation support, alongside performance regression fixes for large sites.
+- **Deprecations & Enhancements**: Resources.PostProcess is deprecated in favor of `templates.Defer`, and sub-path support added to `Page.Render` layouts.
+- **Dependency Updates**: Includes upgrades to `esbuild v0.28.1`, `Chroma` for syntax highlighti
 
 ## Use Cases
 

@@ -2,7 +2,7 @@
 title: Medium
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://medium.com/policy/9db0094a1e0f
+source_url: https://medium.com/blog/all?topic=product&source=collection_home_page----15f753907972-----0-----------------------------------
 resource_id: blog:medium
 local_vault_path: ai/rag/medium.md
 quality_score: 70
@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- agents
 - rag
 - web-crawled
 selection_reason:
@@ -30,9 +29,11 @@ selection_reason:
 
 ## Summary
 
-- **License Grant & Content Ownership**: Users retain rights to submitted content but grant Medium a **nonexclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Services, including derivative works (e.g., previews, top-author lists) with attribution. This license is **Service-specific** and does not extend beyond Medium’s platforms.
+- **Medium’s sitemap.xml** provides structured indexing of all public URLs, enabling efficient crawler access and SEO optimization via standard XML sitemap protocols.
 
-- **Dispute Resolution & Liability Waivers**: All disputes (except small claims/IP injunctions
+- **Authentication endpoints** (`/m/signin`) use OAuth2-based redirects for session management, supporting both login (`operation=login`) and registration (`operation=register`) flows with post-authentication redirection.
+
+- **Static resources** (e.g., `/v2/resize:fill:64:64/...`) leverage CDN-backed image transformations with dyn
 
 ## Use Cases
 
@@ -42,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://medium.com/policy/9db0094a1e0f
+Original source URL: https://medium.com/blog/all?topic=product&source=collection_home_page----15f753907972-----0-----------------------------------
 
 ## Local Vault File
 

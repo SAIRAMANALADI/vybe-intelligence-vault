@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-07-14T13:01:09.000903+05:30'
+collected_at: '2026-07-14T19:49:37.106265+05:30'
 published_at: '2026-07-14T06:22:51Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-07-14T13:01:09.000903+05:30'
-last_seen: '2026-07-14T13:01:09.000903+05:30'
-last_checked: '2026-07-14T13:01:09.000903+05:30'
+first_seen: '2026-07-14T19:49:37.106265+05:30'
+last_seen: '2026-07-14T19:49:37.106265+05:30'
+last_checked: '2026-07-14T19:49:37.106265+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
+- **Agentic Workflow Integration**: Repository provides structured methodologies to transition from ad-hoc "vibe coding" to systematic agentic engineering using Codex CLI, emphasizing automation, reusable hooks, and context-engineering for scalable AI-driven development.
 
-- **Codex CLI Best Practices**: Provides a curated set of commands, skills, and hooks (e.g., `codex-cli-agents`, `codex-hooks`) to optimize AI agent interactions, enabling reproducible, scalable, and maintainable agentic workflows in Python.
+- **Codex CLI Best Practices**: Documents optimized commands, skills, and agentic workflows (e.g., `codex-cli-agents`, `codex-hooks`) to enhance productivity, reproducibility, and maintainability in AI-assisted coding environments.
 
-- **Open-Source Contribution Framework**: Repository serves as a Pakistan-based open-source template for AI agent development, offering standardized practices for Codex CLI-based agentic engineering, context management, and skill orchestration.
+- **Open-Source Contributions**: Open-source Python-based project (923 stars, 60 forks) focused on Pakistani developer community, offering tools and frameworks for OpenAI Codex integration, context management, and agentic automation.
 
 ## Why It Matters
 

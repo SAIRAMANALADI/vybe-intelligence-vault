@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Educational Repository**: Provides 18 structured lessons to introduce AI agent development, covering foundational concepts to advanced implementations in agentic AI, RAG, and generative AI.
-
-- **Technical Stack**: Utilizes Jupyter Notebooks with integrations for **Microsoft Foundry**, **AutoGen**, **Semantic Kernel**, and local agentic frameworks for hands-on learning.
-
-- **Key Topics**: Focuses on **agentic frameworks**, **multi-agent systems**, **RAG pipelines**, and **deployment strategie
+- **Educational Repository**: Provides 18 structured lessons for beginners to learn AI agent development, covering foundational to advanced concepts in agentic AI, RAG, and generative AI.
+- **Technical Stack**: Utilizes Jupyter Notebooks and integrates with Microsoft’s **Autogen**, **Foundry**, and **Semantic Kernel** frameworks for hands-on agentic AI implementation.
+- **Local & Framework Support**: Enables local agent development via **Foundry Local** and emphasizes agentic frameworks like **A
 
 ## Use Cases
 

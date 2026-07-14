@@ -8,7 +8,7 @@ local_vault_path: ai/rag/android-git-repositories-git-at-google.md
 quality_score: 70
 archive_score: 80
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: high
 tags:
 - benchmark
@@ -22,7 +22,7 @@ tags:
 - reddit
 - scripts
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # android Git repositories - Git at Google
@@ -31,14 +31,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 80 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Centralized Git Repository Hosting**: Android's official Git repositories are hosted at `android.googlesource.com`, providing version-controlled access to hardware-specific device trees, kernels, and platform components (e.g., `device/google/bluejay-kernel`, `device/generic/goldfish`).
-- **Kernel and Device-Specific Branches**: Many device repositories include kernel branches for specific Android versions (e.g., `device/google/bluejay-kernels/6.1`, `device/google/akita-kernels/5.15`) and sec
+- **Official Android Git Repository**: Hosted on `android.googlesource.com`, providing open-source Git repositories for Android OS, kernel, device-specific code, accessories, and Brillo/embedded projects.
+- **Device-Specific Repositories**: Contains kernel (`*-kernel`), sepolicy (`*-sepolicy`), and device-specific code for multiple Google devices (e.g., `bluejay`, `coral`, `lynx`, `shusky`) with versioned kernel branches (e.g., `5.10`, `6.1`).
+- **Build & Accessory Support**: Includes manifests
 
 ## Use Cases
 

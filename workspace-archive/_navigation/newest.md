@@ -5,12 +5,13 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | Date | Resource | Category |
 | :--- | :--- | :--- |
 | 2026-07-02 | [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | `agent-frameworks/` |
+| 2026-06-25 | [h1papc11/healthcare-ai-agent-vault](https://github.com/h1papc11/healthcare-ai-agent-vault) | `ai-coding-agents/` |
 | 2026-06-11 | [Jhonata-Matias/crewai-hackathon-2026](https://github.com/Jhonata-Matias/crewai-hackathon-2026) | `ai-coding-agents/` |
 | 2026-06-04 | [danielt69/awesome-agent-observability](https://github.com/danielt69/awesome-agent-observability) | `ai-coding-agents/` |
 | 2026-05-18 | [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) | `ai-coding-agents/` |
 | 2026-05-15 | [wxmb01/codex-app-autonomous-runs](https://github.com/wxmb01/codex-app-autonomous-runs) | `ai-coding-agents/` |
 | 2026-05-09 | [akihirookuda95/openai-agents-sdk-tutorial](https://github.com/akihirookuda95/openai-agents-sdk-tutorial) | `ai-coding-agents/` |
-| 2026-05-04 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `ai-coding-agents/` |
+| 2026-05-04 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `mcp-registry/` |
 | 2026-05-01 | [NotPBShaw/awesome-ai-governance](https://github.com/NotPBShaw/awesome-ai-governance) | `ai-coding-agents/` |
 | 2026-04-29 | [sirius-zuo/devops-skills](https://github.com/sirius-zuo/devops-skills) | `ai-coding-agents/` |
 | 2026-04-26 | [DenCabinetmaker/Rust-Rage](https://github.com/DenCabinetmaker/Rust-Rage) | `rag-systems/` |
@@ -33,4 +34,3 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-03-24 | [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) | `rag-systems/` |
 | 2026-03-24 | [zilliztech/milvus-skill](https://github.com/zilliztech/milvus-skill) | `rag-systems/` |
 | 2026-03-23 | [cisco-ai-defense/defenseclaw](https://github.com/cisco-ai-defense/defenseclaw) | `ai-coding-agents/` |
-| 2026-03-22 | [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices) | `ai-coding-agents/` |

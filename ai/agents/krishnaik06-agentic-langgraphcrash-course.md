@@ -4,15 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/krishnaik06/Agentic-LanggraphCrash-course
-collected_at: '2026-07-13T09:39:23.764812+05:30'
-published_at: '2026-07-11T03:37:22Z'
+collected_at: '2026-07-14T19:51:02.244688+05:30'
+published_at: '2026-07-14T03:40:24Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - jupyter notebook
-- workflows
-stars: 177
+stars: 178
 language: Jupyter Notebook
 status: active
 license: GPL-3.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-06-18T17:08:17Z'
 pushed_at: '2025-08-02T11:48:08Z'
 resource_id: github:krishnaik06/agentic-langgraphcrash-course
-first_seen: '2026-07-13T09:39:23.764812+05:30'
-last_seen: '2026-07-13T09:39:23.764812+05:30'
-last_checked: '2026-07-13T09:39:23.764812+05:30'
+first_seen: '2026-07-14T19:51:02.244688+05:30'
+last_seen: '2026-07-14T19:51:02.244688+05:30'
+last_checked: '2026-07-14T19:51:02.244688+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `Agentic-LanggraphCrash-course` by `krishnaik06`, containing Jupyter Notebooks focused on agentic workflows using LangGraph.
-- **Metadata**: 177 stars, 175 forks, last updated on **2026-07-11**.
-- **Purpose**: Implicitly targets LangGraph-based agentic systems, though no explicit description is provided.
+- **Repository Overview**: GitHub repository `Agentic-LanggraphCrash-course` by `krishnaik06` containing Jupyter Notebooks, last updated on **2026-07-14**.
+- **Metrics**: 178 stars, 176 forks, no explicit language or topic tags despite Jupyter Notebook format.
+- **Access**: Public repository URL: `https://github.com/krishnaik06/Agentic-LanggraphCrash-course`.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: krishnaik06
-- Stars: 177
-- Forks: 175
+- Stars: 178
+- Forks: 176
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-07-11T03:37:22Z
+- Last Updated: 2026-07-14T03:40:24Z
 - License: GPL-3.0
 - Archived: No
 - Created At: 2025-06-18T17:08:17Z

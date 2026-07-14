@@ -14,10 +14,10 @@ Curated highlights from the current week's collection, representing high-quality
 *   [Main Page « WordPress Codex](https://codex.wordpress.org) (Score: 70) - Category: `ai-coding-agents/`
 *   [Speechify: Text to Speech & Voice Typing AI Assistant | 60M+ Users](https://speechify.com/) (Score: 70) - Category: `ai-coding-agents/`
 *   [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (Score: 70) - Category: `ai-coding-agents/`
+*   [Agentic IDEs and CLIs - Pinecone Docs](https://docs.pinecone.io/guides/get-started/ai-coding-tools) (Score: 70) - Category: `ai-coding-agents/`
 *   [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) (Score: 70) - Category: `ai-coding-agents/`
 *   [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (Score: 70) - Category: `ai-coding-agents/`
 *   [Jira | Atlassian Community](https://community.atlassian.com/t5/JIRA-Software/ct-p/jira-software) (Score: 70) - Category: `ai-coding-agents/`
 *   [Toward Efficient Weakly Supervised Semantic Segmentation Using Only Low-Magnification Histopathological Images](https://arxiv.org/abs/2607.10783) (Score: 70) - Category: `ai-coding-agents/`
-*   [The relationship between reasoning and performance in large language models--o3 (mini) thinks harder, not longer](https://arxiv.org/abs/2502.15631) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

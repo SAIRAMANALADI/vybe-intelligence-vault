@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-14T13:00:18.924815+05:30'
+collected_at: '2026-07-14T19:48:47.061860+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-14T13:00:18.924815+05:30'
-last_seen: '2026-07-14T13:00:18.924815+05:30'
-last_checked: '2026-07-14T13:00:18.924815+05:30'
+first_seen: '2026-07-14T19:48:47.061860+05:30'
+last_seen: '2026-07-14T19:48:47.061860+05:30'
+last_checked: '2026-07-14T19:48:47.061860+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: UniversalRAG extends RAG to handle diverse modalities (text, images, tables) and granularities (documents, paragraphs, entities) via a unified retrieval and generation pipeline.
-- **Key Innovation**: Introduces modality-agnostic retrievers and adaptive fusion mechanisms to dynamically integrate heterogeneous data sources during generation.
-- **Performance**: Achieves state-of-the-art results on multimodal benchmarks (ACL 2026 Oral) while maintaining scalability for large, heterogeneous corpora.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence-level), leveraging unified embeddings for cross-modal retrieval.
+
+- **Modality-Agnostic Retrieval**: Implements a modality-agnostic retrieval mechanism using a shared encoder (e.g., transformer-based) to project heterogeneous data into a common latent space, enabling efficient and scalable retrieval without modality-specific pipelines.
+
+- **Dynamic Granularity Adaptation**: Proposes an adaptive retrieval strategy that dynamically selects optimal granularity (e.g., coarse-to-fine) based on query complexity and context, optimizing both retrieval precision and generation quality.
 
 ## Why It Matters
 

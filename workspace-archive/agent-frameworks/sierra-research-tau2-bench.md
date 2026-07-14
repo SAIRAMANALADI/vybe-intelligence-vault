@@ -16,6 +16,7 @@ tags:
 - github-repo
 - hackernews
 - python
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -32,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions in real-world domains, focusing on conversational agents and LLM-based systems with a structured, multi-domain approach.
+- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-based systems with tool integration.
 
-- **Technical Scope**: Implemented in Python, the benchmark includes 1575+ stars and 398 forks, emphasizing scalability, modularity, and integration with language model agents for dynamic tool-use scenarios.
+- **Technical Scope**: Implemented in Python, the benchmark assesses performance in dynamic, multi-turn interactions involving tool usage, user feedback, and agent adaptability.
 
-- **Evaluation Metrics**: Measures performance across tool selection, error handling, user-agent c
+- **Evaluation Metrics**: Measures efficiency, accuracy, and robustness of agent-tool-user workflows, providing standardized comparisons for LL
 
 ## Use Cases
 

@@ -2,24 +2,26 @@
 title: Pinecone documentation - Pinecone Docs
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://docs.pinecone.io/
+source_url: https://docs.pinecone.io
 resource_id: blog:pinecone-documentation-pinecone-docs
 local_vault_path: ai/rag/pinecone-documentation-pinecone-docs.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: mcp-server
 importance: medium
 tags:
 - agents
 - anthropic
+- meta-ai
+- models
 - rag
 - web-crawled
 - workflows
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Pinecone documentation - Pinecone Docs
@@ -28,18 +30,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- Pinecone supports **three index types**: document schema (BM25 + vector fields), dense vectors (semantic search with hosted embeddings), and sparse vectors (lexical search with custom encoders).
-
-- **Two ingestion workflows**: (1) Auto-vectorization of text via integrated embeddings for upsert/search, or (2) external embedding models for direct vector ingestion and querying.
-
-- **Enhanced search capabilities**: Metadata filtering, result reranking, and hybrid search (semantic + full-text/lexic
+- Pinecone is a vector database optimized for AI applications, enabling semantic search, knowledge retrieval, and scalable long-term memory storage.
+- Supports integration via IDEs/CLIs (e.g., Claude Code, Cursor), MCP server for agent compatibility, and APIs/SDKs for programmatic access.
+- Offers quickstart guides, example notebooks, third-party integrations (LangChain, LlamaIndex), and release notes for AI-driven workflows.
 
 ## Use Cases
 
@@ -49,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.pinecone.io/
+Original source URL: https://docs.pinecone.io
 
 ## Local Vault File
 

@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Core Components**: Knative consists of three Kubernetes-native components—**Serving** (HTTP-triggered autoscaling container runtime), **Eventing** (CloudEvents-based asynchronous event routing), and **Functions** (developer-focused function framework)—each deployable independently or together.
+- **Knative Architecture**: Comprises three core components—**Serving** (HTTP-triggered autoscaling container runtime), **Eventing** (CloudEvents-based asynchronous event routing), and **Functions** (developer-focused function framework)—all built on Kubernetes CRDs for lifecycle management.
 
-- **Serving Architecture**: Uses CRDs (`Service`, `Route`, `Configuration`, `Revision`) to manage stateless workloads, enabling automatic scaling (including scale-to-zero), traffic splitting (blue-gre
+- **Serving Scaling & Traffic Management**: Implements **scale-to-zero** autoscaling via an **Activator** component, routes traffic through **Queue-Proxy** sidecars for concurrency control, and supports **b
 
 ## Use Cases
 

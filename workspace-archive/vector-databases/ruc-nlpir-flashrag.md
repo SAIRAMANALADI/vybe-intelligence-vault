@@ -2,16 +2,23 @@
 title: RUC-NLPIR/FlashRAG
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/RUC-NLPIR/FlashRAG?source=
+source_url: https://github.com/RUC-NLPIR/FlashRAG
 resource_id: github:ruc-nlpir/flashrag
-local_vault_path: ai/rag/ruc-nlpir-flashrag.md
+local_vault_path: ai/rag/ruc-nlpir-flashrag-2.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
+tags:
+- benchmark
+- dataset
+- github-repo
+- python
+- rag
+- reddit
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # RUC-NLPIR/FlashRAG
@@ -20,17 +27,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Toolkit Overview**: FlashRAG is a Python-based framework designed for efficient Retrieval-Augmented Generation (RAG) research, optimized for speed and scalability in large language model (LLM) applications.
+- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for rapid Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and parallel processing to accelerate experimentation and deployment.
 
-- **Key Features**: Provides benchmarking tools, curated datasets, and modular components to streamline RAG pipeline development, evaluation, and deployment.
+- **Comprehensive Benchmarking**: Includes built-in support for standardized RAG benchmarks and datasets, enabling reproducible evaluation of retrieval and generation components across diverse tasks.
 
-- **Technical Stack**: Built with Python, supporting integration with modern LLM architectures and retrieval systems for high-per
+- **Modular & Extensible**: Designed with a modular architecture
 
 ## Use Cases
 
@@ -40,8 +47,8 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/RUC-NLPIR/FlashRAG?source=
+Original source URL: https://github.com/RUC-NLPIR/FlashRAG
 
 ## Local Vault File
 
-Path: [ruc-nlpir-flashrag.md](../../ai/rag/ruc-nlpir-flashrag.md)
+Path: [ruc-nlpir-flashrag-2.md](../../ai/rag/ruc-nlpir-flashrag-2.md)

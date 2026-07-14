@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-14T13:00:13.930524+05:30'
+collected_at: '2026-07-14T19:48:42.037587+05:30'
 published_at: '2026-07-13T12:27:27Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-14T13:00:13.930524+05:30'
-last_seen: '2026-07-14T13:00:13.930524+05:30'
-last_checked: '2026-07-14T13:00:13.930524+05:30'
+first_seen: '2026-07-14T19:48:42.037587+05:30'
+last_seen: '2026-07-14T19:48:42.037587+05:30'
+last_checked: '2026-07-14T19:48:42.037587+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory hierarchies.
-
-- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended dialogues or narratives, leveraging episodic and semantic memory layers.
-
-- **AAAI 2026 Contribution**: Proposes a novel RAG variant optimized for long-form reasoning tasks, with empirical validation demonstrating superior performance in narrative consistency and contextual recall compared to traditional RAG systems.
+- **Cognitive Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
+- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain context consistency across extended interactions, addressing limitations in traditional RAG systems.
+- **AAAI 2026 Contribution**: Proposes a novel approach for scalable, coherent reasoning in long-form narratives, validated through empirical benchmarks and theoretical analysis.
 
 ## Why It Matters
 

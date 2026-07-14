@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/olegnazarov/rag-security-scanner
-collected_at: '2026-07-14T12:59:53.911246+05:30'
+collected_at: '2026-07-14T19:48:22.178754+05:30'
 published_at: '2026-07-02T13:04:23Z'
 tags:
 - github-repo
@@ -12,7 +12,6 @@ tags:
 - openai
 - python
 - rag
-- scripts
 stars: 71
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-07-15T14:16:25Z'
 pushed_at: '2025-09-14T06:39:55Z'
 resource_id: github:olegnazarov/rag-security-scanner
-first_seen: '2026-07-14T12:59:53.911246+05:30'
-last_seen: '2026-07-14T12:59:53.911246+05:30'
-last_checked: '2026-07-14T12:59:53.911246+05:30'
+first_seen: '2026-07-14T19:48:22.178754+05:30'
+last_seen: '2026-07-14T19:48:22.178754+05:30'
+last_checked: '2026-07-14T19:48:22.178754+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Automated security scanner for detecting critical vulnerabilities in RAG/LLM-based AI applications (e.g., chatbots, virtual assistants) via prompt injection, OWASP Top 10 AI risks, and red-team testing.
-- **Features**: Supports security audits, penetration testing, and automated vulnerability scanning for Python-based AI systems, including OpenAI integrations.
-- **Technical Stack**: Python-based tool with GitHub Actions integration, last updated July 2026, targeting AI security, LLM security, and RAG-specific threats.
+- **Purpose**: Automated security scanner for RAG/LLM-based applications (e.g., chatbots, virtual assistants) to detect critical vulnerabilities like prompt injection, OWASP Top 10 for LLMs, and data exfiltration risks.
+- **Features**: Implements red-team techniques (e.g., adversarial prompts, jailbreak attacks) and integrates with OpenAI/Owasp frameworks for vulnerability assessment.
+- **Technical Stack**: Python-based tool with automated testing capabilities, leveraging AI-specific security auditing for RAG pipelines and LLM interactions.
 
 ## Why It Matters
 

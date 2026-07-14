@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/gohugoio/hugo/releases
-published_at: '2026-07-14T13:03:25.756033+05:30'
-collected_at: '2026-07-14T13:03:25.756049+05:30'
+published_at: '2026-07-14T19:53:16.436166+05:30'
+collected_at: '2026-07-14T19:53:16.436179+05:30'
 tags:
 - agents
 - frontend_ui
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugo
-first_seen: '2026-07-14T13:03:25.756049+05:30'
-last_seen: '2026-07-14T13:03:25.756049+05:30'
-last_checked: '2026-07-14T13:03:25.756049+05:30'
+first_seen: '2026-07-14T19:53:16.436179+05:30'
+last_seen: '2026-07-14T19:53:16.436179+05:30'
+last_checked: '2026-07-14T19:53:16.436179+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,9 @@ health_score: 100
 
 ## Summary
 
-- **Hugo v0.164.0** introduces dark/light mode pairs for Chroma highlighter styles, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and Pandoc citation support, along with a performance regression fix from v0.128.0.
-
-- **Deprecation & Enhancements**: Resources.PostProcess is deprecated in favor of `templates.Defer`, and markup.rst.syntaxHighlight is now configurable; template name lookup is now case-insensitive.
-
-- **Performance & Dependency Updates**: Optimized `hugio.hasBytesWriter` and updated dependencies (e.g., `github.com/JohannesKaufmann/html-to-markdown/v2`, `golang.org/x/tools`).
+- **Hugo v0.164.0** introduces Chroma syntax highlighter dark/light mode pairs, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and Pandoc citation support, alongside performance regression fixes for large sites.
+- **Deprecations & Enhancements**: Resources.PostProcess is deprecated in favor of `templates.Defer`, and sub-path support added to `Page.Render` layouts.
+- **Dependency Updates**: Includes upgrades to `esbuild v0.28.1`, `Chroma` for syntax highlighting, and multiple Go module dependencies (e.g., `golang.org/x/tools`, `github.com/pelletier/go-toml/v2`).
 
 ## Why It Matters
 
@@ -40,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T13:03:25.756033+05:30
+- Published: 2026-07-14T19:53:16.436166+05:30
 
 ## Related Tags
 

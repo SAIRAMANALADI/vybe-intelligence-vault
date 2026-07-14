@@ -30,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Performance Analysis Tool**: Google's PageSpeed Insights evaluates web page performance on both mobile and desktop devices, providing optimization suggestions based on Core Web Vitals and other metrics.
+- **Performance Analysis Tool**: Google's PageSpeed Insights evaluates web page performance on mobile and desktop devices using real-world data (CrUX) and lab data, providing optimization suggestions.
 
-- **Scoring System**: Generates a performance score (0-100) derived from lab and field data, with actionable recommendations categorized by priority (e.g., "Should Fix," "Consider Fixing").
+- **Scoring Metrics**: Utilizes Core Web Vitals (LCP, FID, CLS) and additional performance audits to generate a 0-100 score, highlighting areas for improvement (e.g., render-blocking resources, image optimization).
 
-- **API & Integration**: Offers a RESTful API for programmatic access to performance data, enabling a
+- **API & Integration**: Offers a RESTful API (`https://www.googleapis.com/pagespe
 
 ## Use Cases
 

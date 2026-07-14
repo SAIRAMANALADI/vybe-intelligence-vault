@@ -4,23 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-07-14T12:58:43.892055+05:30'
-published_at: '2026-07-10T19:47:08Z'
+collected_at: '2026-07-14T19:47:12.086081+05:30'
+published_at: '2026-07-14T13:01:32Z'
 tags:
 - benchmark
 - github-repo
 - python
 - rag
-stars: 960
+stars: 961
 language: Python
 status: active
 archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-07-14T12:58:43.892055+05:30'
-last_seen: '2026-07-14T12:58:43.892055+05:30'
-last_checked: '2026-07-14T12:58:43.892055+05:30'
+first_seen: '2026-07-14T19:47:12.086081+05:30'
+last_seen: '2026-07-14T19:47:12.086081+05:30'
+last_checked: '2026-07-14T19:47:12.086081+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates deployment and utilization of local large language models (LLMs) within a RAG pipeline, leveraging frameworks like LangChain for efficient inference.
+- **Local LLM Integration**: Demonstrates advanced Retrieval-Augmented Generation (RAG) using local language models (LLMs) via frameworks like LangChain, enabling offline or privacy-focused deployments.
 
-- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval relevance and mitigate staleness in knowledge sources.
+- **Dynamic Database Updates**: Implements automated or manual database refresh mechanisms to ensure RAG pipelines use up-to-date knowledge sources, improving response relevance.
 
-- **Testing & Evaluation Framework**: Includes structured testing methodologies (e.g., retrieval accuracy, response quality) to validate RAG performance, with tools for benchmarking and reproducibility.
+- **Testing Framework**: Includes structured testing methodologies for evaluating RAG performance, covering retrieval accuracy, response quality, and latency benchmarks.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pixegami
-- Stars: 960
+- Stars: 961
 - Forks: 606
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-10T19:47:08Z
+- Last Updated: 2026-07-14T13:01:32Z
 - Archived: No
 - Created At: 2024-04-06T09:27:09Z
 - Pushed At: 2024-08-03T16:41:27Z

@@ -14,9 +14,9 @@ tags:
 - agents
 - github-repo
 - hackernews
-- openai
 - python
 - rag
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -38,9 +38,9 @@ selection_reason:
 
 - **Template Purpose**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating rapid prototyping of AI-driven research workflows.
 
-- **Key Components**: Includes pre-configured modules for document ingestion, vector storage (e.g., Chroma/FAISS), LLM integration (e.g., LangChain's `ChatOpenAI`), and agent orchestration for research tasks.
+- **Technical Stack**: Implements Python-based RAG pipelines with LangChain, leveraging vector databases (e.g., Chroma, FAISS) for document retrieval and LLMs for synthesis/generation tasks.
 
-- **Technical Stack**: Python-based, leveraging LangChain's ecosystem (e.g.,
+- **Key Features**: Includes modular components for document ingestion, embedding, retrieval, a
 
 ## Use Cases
 

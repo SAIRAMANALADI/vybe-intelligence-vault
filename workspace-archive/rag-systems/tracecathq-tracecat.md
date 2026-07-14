@@ -14,7 +14,6 @@ tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
@@ -37,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Platform Overview**: TracecatHQ/tracecat is an open-source security automation platform designed for teams and AI agents, leveraging Python, FastAPI, and Next.js for backend and frontend components.
-- **Key Features**: Supports event-driven workflows, low-code orchestration, and integrates with LLM, Pydantic, OpenAPI, and TemporalIO for workflow engine capabilities.
-- **Technical Stack**: Utilizes temporalio for workflow management, FastAPI for API endpoints, and Next.js for the UI, with mon
+- **Platform Architecture**: Tracecat is an open-source, event-driven security automation platform built with FastAPI (backend), Next.js (frontend), and Temporal.io (workflow orchestration), leveraging Python for core logic and Pydantic for data validation.
+
+- **AI & Automation Integration**: Supports LLM-driven workflows, low-code automation, and agent-based orchestration, enabling AI-native security operations with OpenAPI-driven extensibility.
+
+- **Security & Monitoring**: Provides real-time
 
 ## Use Cases
 

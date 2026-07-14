@@ -16,6 +16,7 @@ tags:
 - github-repo
 - hackernews
 - javascript
+- scripts
 - workflows
 selection_reason:
 - Active open-source repository
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: `agent-skills` by addyosmani provides production-grade engineering skills for AI coding agents, optimized for tools like `claude-code`, `codex`, and `cursor`.
-- **Technical Stack**: Implemented in JavaScript, focusing on reusable agent capabilities (e.g., `antigravity` for code navigation and execution).
-- **Metrics & Activity**: 78,067 stars, 8,379 forks, last updated July 14, 2026, with a focus on agent-specific workflows and integrations.
+- **Repository Overview**: Production-grade engineering skills for AI coding agents, primarily in JavaScript, designed to enhance agent capabilities in real-world development workflows.
+- **Key Features**: Includes advanced tools and techniques for AI agents (e.g., `claude-code`, `codex`, `cursor`) with a focus on automation, debugging, and optimization.
+- **Community & Maintenance**: Actively maintained (last updated July 2026) with 78,211 stars and 8,397 forks, indicating strong community adop
 
 ## Use Cases
 

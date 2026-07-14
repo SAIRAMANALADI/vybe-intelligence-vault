@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-60%2C211-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-60%2C344-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--14-374151?style=flat-square)](#)
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 12,177</p>
-        <p><b>Active:</b> 11,906 | <b>Inactive:</b> 271</p>
+        <p><b>Resources tracked:</b> 12,212</p>
+        <p><b>Active:</b> 11,935 | <b>Inactive:</b> 277</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 48,034</p>
+        <p><b>Archive Files:</b> 48,132</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 60,211 files</p>
-        <p><b>Last Update:</b> 2026-07-14 17:40 IST</p>
+        <p><b>Total Vault Size:</b> 60,344 files</p>
+        <p><b>Last Update:</b> 2026-07-14 20:04 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,17 +210,29 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- No trending items found.
+- 🔼 **[Coding agents think ahead of time](ai/agents/arxiv-2607-05188.md)** • <kbd>+36 pts</kbd> • Rank: <kbd>+4019</kbd>
+- 🔼 **[Get extra features on YouTube TV with 4K Plus - Computer - YouTube TV Help](ai/rag/get-extra-features-on-youtube-tv-with-4k-plus-comp.md)** • Rank: <kbd>+4257</kbd>
+- 🔼 **[android Git repositories - Git at Google](ai/rag/android-git-repositories-git-at-google.md)** • Rank: <kbd>+1928</kbd>
+- 🔼 **[Driver Binaries for Nexus and Pixel Devices | Google Play services | Google for Developers](ai/rag/driver-binaries-for-nexus-and-pixel-devices-google.md)** • Rank: <kbd>+2450</kbd>
+- 🔼 **[superproject](ai/resources/superproject.md)** • Rank: <kbd>+1928</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Australian energy retailers must provide three hours of free daytime electricity](ai/community/australian-energy-retailers-must-provide-three-hou.md)** • Score: `172`
+- 🆕 **[Indian scientists produce most detailed 3D atlas of the human brainstem](ai/community/indian-scientists-produce-most-detailed-3d-atlas-o.md)** • Score: `118`
+- 🆕 **[Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)](ai/community/danau5tin-ai-trains-ai.md)** • Score: `35`
+- 🆕 **[AIP-9: Glossary](ai/resources/aip-9-glossary.md)** • Score: `0`
+- 🆕 **[15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](ai/community/apple-s-new-speechanalyzer-api-benchmarked-against.md)**
+- 💤 **[Show HN: Jacquard, a programming language for AI-written, human-reviewed code](ai/community/jbwinters-jacquard-lang.md)**
+- 💤 **[Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder](ai/community/show-hn-sx-2-0-share-ai-skills-with-your-team-thro.md)**
+- 💤 **[Building Food Metadata with LLM Juries](ai/community/building-food-metadata-with-llm-juries.md)**
+- 💤 **[OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says](ai/community/openai-s-ad-business-is-on-pace-to-miss-its-own-fo.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

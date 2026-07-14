@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-07-14T12:58:38.890898+05:30'
+collected_at: '2026-07-14T19:47:07.031676+05:30'
 published_at: '2026-07-14T06:56:41Z'
 tags:
 - github-repo
@@ -14,7 +14,6 @@ tags:
 - openai
 - rag
 - reddit
-- workflows
 stars: 896
 language: Jupyter Notebook
 status: active
@@ -23,9 +22,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-07-14T12:58:38.890898+05:30'
-last_seen: '2026-07-14T12:58:38.890898+05:30'
-last_checked: '2026-07-14T12:58:38.890898+05:30'
+first_seen: '2026-07-14T19:47:07.031676+05:30'
+last_seen: '2026-07-14T19:47:07.031676+05:30'
+last_checked: '2026-07-14T19:47:07.031676+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation Guide**: 5-week structured learning path covering Retrieval-Augmented Generation (RAG) with focus on hybrid search (HNSW, scalar/binary quantization), indexing, and keyword/vector search techniques.
-- **Tooling & Integration**: Demonstrates RAG workflows using Azure AI services, OpenAI LLMs, and VS Code, with notebooks covering multimodal retrieval, Matryoshka representation learning, and responsible AI practices.
-- **Optimization Techniques**: Explores advanced quantization (scalar/binary) and retrieval strategies (HNSW) for efficient, scalable RAG deployments in production environments.
+- **5-week structured curriculum** covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization, HNSW indexing, and Matryoshka representation learning for efficient retrieval and LLM integration.
+
+- **Hands-on implementation** using Azure, OpenAI APIs, and VS Code, with Jupyter Notebooks demonstrating multimodal RAG, responsible AI practices, and optimization strategies for production-grade systems.
+
+- **Focus on scalability and performance** via techniques like binary quantization for reduced memory footprint, hybrid search combining vector/scalar quantization, and efficient nearest-neighbor search with HNSW for large-scale retrieval.
 
 ## Why It Matters
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/crewaiinc-awesome-crewai.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -16,7 +16,7 @@ tags:
 - rag
 - unknown
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # crewAIInc/awesome-crewai
@@ -25,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Curated Open-Source Projects**: Repository aggregates community-built AI agent projects leveraging CrewAI, enabling discovery and contribution.
-- **Metadata**: 502 stars, 129 forks, last updated July 11, 2026.
-- **Purpose**: Facilitates extension of AI agent capabilities through open-source collaboration.
+- **Curated Open-Source Projects**: Repository aggregating community-built AI agent projects leveraging CrewAI framework for extensibility and collaboration.
+- **Community-Driven Contributions**: Facilitates contributions and extensions to enhance AI agent capabilities via CrewAI’s modular architecture.
+- **Metadata**: 503 stars, 129 forks, last updated 2026-07-14T12:57:22Z; language unspecified.
 
 ## Use Cases
 

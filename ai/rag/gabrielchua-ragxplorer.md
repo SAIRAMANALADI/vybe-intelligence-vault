@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-14T12:59:08.867573+05:30'
-published_at: '2026-07-11T01:18:26Z'
+collected_at: '2026-07-14T19:47:36.993146+05:30'
+published_at: '2026-07-14T09:11:11Z'
 tags:
+- dataset
 - github-repo
 - jupyter notebook
 - models
 - rag
-- workflows
-stars: 1223
+stars: 1222
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-14T12:59:08.867573+05:30'
-last_seen: '2026-07-14T12:59:08.867573+05:30'
-last_checked: '2026-07-14T12:59:08.867573+05:30'
+first_seen: '2026-07-14T19:47:36.993146+05:30'
+last_seen: '2026-07-14T19:47:36.993146+05:30'
+last_checked: '2026-07-14T19:47:36.993146+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Python-based Jupyter Notebook application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
 
-- **Streamlit Integration**: Leverages Streamlit for a web-based UI, allowing users to dynamically analyze RAG components (e.g., retrieval quality, context relevance, and generation outputs) via interactive visualizations.
+- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly interface, allowing dynamic visualization of RAG components (e.g., document retrieval, prompt augmentation, and model outputs) with real-time updates.
 
-- **Modular Design**: Supports customization for RAG workflows, including retrieval strategies, embedding models, and LLM backends, with extensibility via Python notebooks for research and debugging.
+- **Python-Based & Extensible**: Built in Python with modular design, supporting custom RAG configurations, dataset integration, and visualization of metrics (e.g., retrieval relevance, latency) for debugging and optimization.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: gabrielchua
-- Stars: 1223
+- Stars: 1222
 - Forks: 114
 - Language: Jupyter Notebook
 - Topics: interactive, llm, python, rag, streamlit, visualization
-- Last Updated: 2026-07-11T01:18:26Z
+- Last Updated: 2026-07-14T09:11:11Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-11T15:31:36Z

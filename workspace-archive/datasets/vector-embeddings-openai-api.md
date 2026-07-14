@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Model Specifications**: `text-embedding-3-small` (1536-dim vectors, ~62.5k pages/USD, 62.3% MTEB score) and `text-embedding-3-large` (3072-dim vectors, ~9.6k pages/USD, 64.6% MTEB score) support dynamic dimensionality reduction via `dimensions` parameter, enabling trade-offs between performance and cost.
+- **Model Specifications**: `text-embedding-3-small` (1536-dim vectors, 62.5k pages/$) and `text-embedding-3-large` (3072-dim vectors, 9.6k pages/$) support up to 8192 tokens, with performance gains of 1.3% and 3.6% respectively on MTEB vs. `text-embedding-ada-002`.
 
-- **Embedding Mechanics**: Vectors represent text relatedness via cosine similarity; input tokens determine pricing (~800 tokens/page). Default dimensions can be reduced post-generation (e.
+- **Dimensionality Control**: New `dimensions` parameter enables reducing embedding size (e.g., 256-dim `text-embedding-3-large` outperforms 1536-dim `ada-002`) while preserving semantic relevance, optimizing storage/compute costs.
 
 ## Use Cases
 

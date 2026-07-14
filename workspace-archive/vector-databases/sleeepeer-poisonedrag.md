@@ -8,12 +8,10 @@ local_vault_path: ai/rag/sleeepeer-poisonedrag.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: dataset
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
-- hackernews
-- models
 - python
 - rag
 - reddit
@@ -27,15 +25,14 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: dataset
+- Resource kind: benchmark
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Attack Mechanism**: Introduces *PoisonedRAG*, a novel knowledge corruption attack targeting Retrieval-Augmented Generation (RAG) systems by injecting adversarial documents into the retrieval database, causing LLMs to generate manipulated or incorrect outputs while maintaining high retrieval relevance.
-
-- **Technical Implementation**: Demonstrates a two-phase attack pipeline—*document poisoning* (crafting adversarial documents via gradient-based optimization) and *exploitation* (leveraging RA
+*   **PoisonedRAG** introduces a novel class of knowledge corruption attacks specifically targeting Retrieval-Augmented Generation (RAG) systems.
+*   These attacks manipulate the retrieved knowledge base, leading to compromised factual integrity and trustworthiness of Large Language Model (LLM) outputs
 
 ## Use Cases
 

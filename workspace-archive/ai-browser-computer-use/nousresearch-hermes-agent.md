@@ -8,7 +8,7 @@ local_vault_path: ai/agents/nousresearch-hermes-agent.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: api
 importance: medium
 tags:
 - agents
@@ -16,9 +16,8 @@ tags:
 - github-repo
 - openai
 - python
-- workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # NousResearch/hermes-agent
@@ -27,17 +26,15 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: api
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Modular AI Agent Framework**: Open-source Python-based system designed for extensibility, supporting integration with multiple LLMs (e.g., Anthropic, OpenAI, Codex) and agentic workflows via tools like `claude-code` and `moltbot`.
-
-- **Dynamic Tool Orchestration**: Implements adaptive agent behavior through a plugin architecture, enabling real-time tool selection and execution based on task requirements and model capabilities.
-
-- **Scalable Multi-Agent Collaboration**: Facilitates paralleliz
+- **Multi-Provider LLM Integration**: Supports Anthropic, OpenAI, and local LLMs (e.g., Nous-Hermes models) via modular API connectors for dynamic agent behavior.
+- **Tool-Agnostic Execution**: Executes Python, shell, and API-based tools (e.g., `claude-code`, `codex`) with sandboxed, stateful interactions for robust task resolution.
+- **Self-Improving Architecture**: Implements recursive feedback loops and tool-use optimization to enhance agent autonomy and performance over time.
 
 ## Use Cases
 

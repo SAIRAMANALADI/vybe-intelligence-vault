@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-07-14T12:58:58.970539+05:30'
+collected_at: '2026-07-14T19:47:27.086514+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
-- openai
 - rag
+- scripts
 - workflows
 stars: 44
 language: Bicep
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-07-14T12:58:58.970539+05:30'
-last_seen: '2026-07-14T12:58:58.970539+05:30'
-last_checked: '2026-07-14T12:58:58.970539+05:30'
+first_seen: '2026-07-14T19:47:27.086514+05:30'
+last_seen: '2026-07-14T19:47:27.086514+05:30'
+last_checked: '2026-07-14T19:47:27.086514+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for a Generative AI Operations (GenAIOps) project, enabling automated provisioning of Azure resources for RAG (Retrieval-Augmented Generation) workflows.
+- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for setting up a Generative AI Operations (GenAIOps) environment with Azure resources, enabling Retrieval-Augmented Generation (RAG) workflows.
 
-- **RAG Pipeline Foundation**: Pre-configured template for building Retrieval-Augmented Generation (RAG) systems, including components for vector databases, embedding models, and LLM integration.
+- **Modular Design**: Structured as a reusable project template with configurable parameters for customizing Azure resources (e.g., compute, storage, networking) for GenAI workloads.
 
-- **Azure Native Integration**: Leverages Azure services (e.g., Azure OpenAI, Cosmos DB, Cognitive Search) to support scalable, production-grade GenAI operations with built-in monitoring and CI/CD readiness.
+- **CI/CD Ready**: Includes deployment pipelines (via GitHub Actions) for automated provisioning and management of the GenAIOps infrastructure.
 
 ## Why It Matters
 

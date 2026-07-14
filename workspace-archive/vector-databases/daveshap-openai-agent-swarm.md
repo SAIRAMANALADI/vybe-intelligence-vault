@@ -16,7 +16,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **HAAS Framework**: Implements a **Hierarchical Autonomous Agent Swarm** architecture in Python, enabling distributed, self-organizing multi-agent systems with resistance-free coordination.
+- **Hierarchical Autonomous Agent Swarm (HAAS)**: Implements a multi-agent system with hierarchical task delegation and autonomous coordination, leveraging OpenAI's API for agent interactions.
 
-- **Autonomous Agent Swarm**: Features **self-governing agents** that dynamically interact, delegate tasks, and optimize workflows without centralized control, leveraging OpenAI's API for natural language processing.
+- **Python-Based Framework**: Provides a modular Python library for deploying swarms of autonomous agents, enabling parallel task execution and dynamic role assignment.
 
-- **Scalability & Extensibility**: Designed for **horizontal scaling** with modular agent
+- **Scalability & Autonomy**: Designed for large-scale agent swarms with resistance to single-point failures, supporting distributed dec
 
 ## Use Cases
 

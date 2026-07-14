@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Cloud Storage for Firebase**: Scalable object storage service for user-generated content (e.g., images, videos) with client SDKs for iOS, Android, Web, C++, and Unity.
-- **Automatic Scaling & Security**: Integrates with Firebase Authentication for user-based access control and leverages Cloud Functions for effortless auto-scaling without server management.
-- **Google-Scale Infrastructure**: Powers apps like Spotify/Google Photos; used by STAGE (2M users) and Acintyo (175 countries) to reduce
+- **Cloud Storage for Firebase**: Scalable object storage service optimized for Google-scale infrastructure, supporting user-generated content (e.g., images, videos) via client SDKs (iOS, Android, Web, C++, Unity).
+- **Automatic Scaling & Security**: Cloud Functions auto-scales compute resources; integrates with Firebase Authentication for user-based access control via declarative security rules (e.g., file metadata, identity).
+- **Case Studies**: STAGE reduced release time by 50% using Firebase
 
 ## Use Cases
 

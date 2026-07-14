@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-14T12:58:48.927001+05:30'
+collected_at: '2026-07-14T19:47:17.036466+05:30'
 published_at: '2026-07-13T09:54:01Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -23,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-14T12:58:48.927001+05:30'
-last_seen: '2026-07-14T12:58:48.927001+05:30'
-last_checked: '2026-07-14T12:58:48.927001+05:30'
+first_seen: '2026-07-14T19:47:17.036466+05:30'
+last_seen: '2026-07-14T19:47:17.036466+05:30'
+last_checked: '2026-07-14T19:47:17.036466+05:30'
 health_score: 100
 ---
 
@@ -33,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples and tutorials for Retrieval-Augmented Generation (RAG) and agent-based systems using vector search, LLMs, and multimodal inputs (e.g., GPT-4 Vision).
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI using vector search and LLMs, covering techniques like GPT-4 Vision, LangChain, and LlamaIndex.
 
-- **Toolchain Integration**: Demonstrates workflows with LangChain, LlamaIndex, and OpenAI APIs, covering embeddings, fine-tuning, and end-to-end pipelines for AI applications.
+- **Vector Database Integration**: Demonstrates practical use cases of LanceDB (a vector database) for efficient embeddings storage, retrieval, and fine-tuning in deep-learning pipelines.
 
-- **Vector Database Focus**: Leverages LanceDB for efficient vector search, with recipes spanning deep learning, machine learning, and multimodal AI use cases.
+- **Agent & LLM Workflows**: Includes tutorials on deploying AI agents, fine-tuning models, and leveraging OpenAI embeddings for multimodal and text-based applications.
 
 ## Why It Matters
 

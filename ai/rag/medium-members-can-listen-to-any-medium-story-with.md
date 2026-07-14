@@ -5,8 +5,9 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.com/medium?source=search_post
-resource_id: blog:medium-members-can-listen-to-any-medium-story-with
----two_column_layout_sidebar-----------------------------------------
+resource_id: blog:medium-members-can-listen-to-any-medium-story-with-023ecacf
+---
+two_column_layout_sidebar-----------------------------------------
 published_at: '2026-07-13T09:41:02.420246+05:30'
 collected_at: '2026-07-13T09:41:02.420260+05:30'
 tags:

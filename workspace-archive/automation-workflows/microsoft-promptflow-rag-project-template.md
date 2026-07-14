@@ -15,6 +15,7 @@ tags:
 - github-repo
 - jupyter notebook
 - rag
+- reddit
 - workflows
 selection_reason:
 - Strong keyword match
@@ -35,8 +36,8 @@ selection_reason:
 ## Summary
 
 - **End-to-End RAG Pipeline**: Demonstrates Retrieval-Augmented Generation (RAG) workflow including development, evaluation, experimentation, and deployment using **Promptflow**.
-- **Multi-Search Backend Integration**: Supports **CosmosDB**, **PostgreSQL**, and **Azure AI Search** as vector databases for retrieval.
-- **Jupyter Notebook-Based**: Provides a structured, executable template in Jupyter Notebook format for hands-on implementation and testing.
+- **Multi-Search Backend Integration**: Supports **CosmosDB**, **PostgreSQL**, and **Azure AI Search** as search products for vector/keyword retrieval.
+- **Jupyter Notebook-Based**: Provides a structured, executable template in Jupyter Notebook format for reproducibility and experimentation.
 
 ## Use Cases
 

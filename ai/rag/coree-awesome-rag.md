@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/coree/awesome-rag
-collected_at: '2026-07-14T12:59:38.919690+05:30'
+collected_at: '2026-07-14T19:48:07.026303+05:30'
 published_at: '2026-07-13T09:54:13Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
-- models
 - paper
 - rag
 - unknown
@@ -22,9 +20,9 @@ archived: false
 created_at: '2024-02-10T12:01:04Z'
 pushed_at: '2025-12-01T08:45:44Z'
 resource_id: github:coree/awesome-rag
-first_seen: '2026-07-14T12:59:38.919690+05:30'
-last_seen: '2026-07-14T12:59:38.919690+05:30'
-last_checked: '2026-07-14T12:59:38.919690+05:30'
+first_seen: '2026-07-14T19:48:07.026303+05:30'
+last_seen: '2026-07-14T19:48:07.026303+05:30'
+last_checked: '2026-07-14T19:48:07.026303+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: A comprehensive collection of tools, frameworks, libraries, and research papers focused on retrieval-augmented generation (RAG) for large language models (LLMs), including embeddings, retrieval systems, and LLM integration techniques.
-
-- **Technical Scope**: Covers advanced topics such as vector databases, hybrid retrieval methods, fine-tuning strategies, and evaluation metrics for RAG pipelines, with emphasis on scalability, latency optimization, and contextual relevance.
-
-- **Community-Driven**: Actively maintained repository (last updated July 2026) with 428 stars and 52 forks, serving as a dynamic reference for researchers and practitioners in AI-driven information retrieval and generative modeling.
+- **Curated RAG Resources**: A GitHub repository (`coree/awesome-rag`) hosting a structured collection of tools, frameworks, papers, and implementations focused on **Retrieval-Augmented Generation (RAG)** for large language models (LLMs).
+- **Technical Scope**: Covers key RAG components including **embeddings, retrieval systems, and LLM integration**, with emphasis on improving factual accuracy, context relevance, and generation quality in LLMs.
+- **Community & Maintenance**: Actively maintained (last update: **2026-07-13**) with **428 stars** and **52 forks**, serving as a community-driven reference for RAG research and development.
 
 ## Why It Matters
 

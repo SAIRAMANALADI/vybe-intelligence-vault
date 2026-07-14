@@ -14,13 +14,14 @@ tags:
 - ai
 - benchmark
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:apple-s-new-speechanalyzer-api-benchmarked-against
 first_seen: '2026-07-14T09:09:46.017838+05:30'
 last_seen: '2026-07-14T12:56:36.283984+05:30'
 last_checked: '2026-07-14T12:56:36.283984+05:30'
 health_score: 100
 ---
+
 
 # Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor
 

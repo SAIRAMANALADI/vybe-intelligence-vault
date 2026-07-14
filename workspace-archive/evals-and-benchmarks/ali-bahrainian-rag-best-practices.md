@@ -12,7 +12,6 @@ resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 selection_reason:
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository focused on best practices for Retrieval-Augmented Generation (RAG) systems, containing Python-based implementations and guidelines.
-- **Activity Metrics**: 107 stars, 20 forks, last updated on 2026-06-19.
-- **Technical Scope**: No additional metadata or topics provided; likely serves as a curated collection of RAG-related resources or code samples.
+- **Repository Overview**: A Python-based GitHub repository focused on Retrieval-Augmented Generation (RAG) best practices, with 107 stars and 20 forks.
+- **Last Updated**: The repository was last updated on **June 19, 2026**, at **11:36:42 UTC**.
+- **Repository Link**: Available at [https://github.com/ali-bahrainian/RAG_best_practices](https://github.com/ali-bahrainian/RAG_best_practices).
 
 ## Use Cases
 

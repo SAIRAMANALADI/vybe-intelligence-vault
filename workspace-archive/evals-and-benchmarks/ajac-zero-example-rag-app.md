@@ -6,13 +6,16 @@ source_url: https://github.com/ajac-zero/example-rag-app
 resource_id: github:ajac-zero/example-rag-app
 local_vault_path: ai/rag/ajac-zero-example-rag-app.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
-resource_kind: benchmark
-importance: medium
+archive_score: 89
+archive_tier: essential
+resource_kind: prompt
+importance: high
 tags:
 - anthropic
+- benchmark
 - github-repo
+- mistral
+- models
 - openai
 - rag
 - typescript
@@ -26,17 +29,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 89 (essential)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Observability & Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for 100+ provider compatibility (e.g., OpenAI, Anthropic, Hugging Face).
-- **Strict Development Standards**: Full TypeScript type-checking, 100% test coverage, and Dockerized deployment for reproducibility.
-- **Modern RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with modular architecture for extensibility and scalability.
+- **Multi-Provider LLM Integration**: Utilizes LiteLLM to support 100+ LLM providers (e.g., OpenAI, Anthropic, Mistral) with unified API compatibility.
+- **Observability & Monitoring**: Implements Langfuse for comprehensive LLM observability, logging, and evaluation of prompts, responses, and performance metrics.
+- **Production-Ready Stack**: Dockerized deployment, full TypeScript type-checking, and 100% test coverage for scalable, maintainable RAG applications.
 
 ## Use Cases
 

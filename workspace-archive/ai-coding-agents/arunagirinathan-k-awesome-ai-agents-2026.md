@@ -34,9 +34,9 @@ selection_reason:
 
 - **Comprehensive Repository**: Curated list of 300+ AI agents, frameworks, and tools spanning coding, creative, voice, research, and enterprise domains, with focus on 2026 advancements.
 
-- **Technical Resources**: Includes comparison guides, benchmarks, and deep-dive analyses for AI agent ecosystems (e.g., CrewAI, LangChain, LLM-based agents).
+- **Technical Depth**: Includes comparison guides, benchmarks, and deep-dive analyses for frameworks like CrewAI, LangChain, and LLM-based agents.
 
-- **Active Maintenance**: Last updated July 14, 2026, with 238 stars and 109 forks, indicating ongoing community engagement and updates.
+- **Updated & Structured**: Last updated July 14, 2026, with organized topics covering agent frameworks, autonomous agents, and LLM integration.
 
 ## Use Cases
 

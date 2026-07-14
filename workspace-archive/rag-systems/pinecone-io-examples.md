@@ -1,42 +1,41 @@
 ---
-title: pinecone-io/examples
+title: examples/learn/generation/better-rag/02b-semantic-chunking.ipynb at main ·
+  pinecone-io/examples · GitHub
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/pinecone-io/examples
+source_url: https://github.com/pinecone-io/examples/blob/master/learn/generation/better-rag/02b-semantic-chunking.ipynb
 resource_id: github:pinecone-io/examples
 local_vault_path: ai/rag/pinecone-io-examples.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: workflow
+resource_kind: tutorial
 importance: medium
 tags:
-- github-repo
 - hackernews
-- jupyter notebook
 - rag
-- workflows
+- web-crawled
 selection_reason:
 - Strong keyword match
 - Active open-source repository
 ---
 
-# pinecone-io/examples
+# examples/learn/generation/better-rag/02b-semantic-chunking.ipynb at main · pinecone-io/examples · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: workflow
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Repository Overview**: Provides Jupyter Notebooks for hands-on experimentation with Pinecone vector databases, covering topics like RAG, semantic search, and vector search.
-- **Technical Stack**: Implemented in Python with Jupyter Notebooks, integrating AI/ML workflows for LLM applications.
-- **Metadata**: 3,027 stars, 1,072 forks, last updated July 12, 2026, with topics including vector databases, semantic search, and AI.
+- Repository: `pinecone-io/examples` contains 1.1k forks and 3k stars, with 34 open issues and 31 pull requests.
+- File: `02b-semantic-chunking.ipynb` located in `/learn/generation/better-rag/` demonstrates advanced RAG techniques using semantic chunking.
+- Size: The notebook file is 2 MB in size, with commit history accessible via GitHub.
 
 ## Use Cases
 
@@ -46,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/pinecone-io/examples
+Original source URL: https://github.com/pinecone-io/examples/blob/master/learn/generation/better-rag/02b-semantic-chunking.ipynb
 
 ## Local Vault File
 

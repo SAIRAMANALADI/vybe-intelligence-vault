@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/firebase/
-published_at: '2026-07-08T14:25:26.127773+05:30'
-collected_at: '2026-07-08T14:25:26.127786+05:30'
+published_at: '2026-07-14T19:59:57.156501+05:30'
+collected_at: '2026-07-14T19:59:57.156515+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:firebase-github
-first_seen: '2026-07-08T14:25:26.127786+05:30'
-last_seen: '2026-07-08T14:25:26.127786+05:30'
-last_checked: '2026-07-08T14:25:26.127786+05:30'
+first_seen: '2026-07-14T19:59:57.156515+05:30'
+last_seen: '2026-07-14T19:59:57.156515+05:30'
+last_checked: '2026-07-14T19:59:57.156515+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-platform SDKs**: Firebase provides official SDKs for Android (Kotlin/Java), iOS (Swift/Obj-C), Web (TypeScript/JavaScript), Unity (C#), and C++, with open-source quickstart repositories demonstrating integration across platforms.
+- Firebase provides official SDKs for multiple platforms, including **JavaScript/TypeScript (firebase-js-sdk)**, **iOS (firebase-ios-sdk)**, **C++ (firebase-cpp-sdk)**, **Python (firebase-functions-python)**, and **Dart (FlutterFire)**, supporting real-time database, authentication, and cloud functions.
 
-- **Cloud Functions Samples**: The [`functions-samples`](https://github.com/firebase/functions-samples) repository contains 12.2k+ stars and showcases 66+ Cloud Functions use cases (e.g., authentication, Firestore triggers) with JavaScript implementations.
+- The **firebase-tools** CLI enables deployment, local emulation, and management of Firebase services, while **firebase-functions-samples** demonstrates Cloud Functions use cases such as triggers, HTTP endpoints, and integrations with third-party APIs.
 
-- **UI & Testing Libraries**: Firebase maintains [`FirebaseUI-Android`](https://github.com/firebase/FirebaseUI-Android) (4.7k+ stars) for optimized UI components and [`quickstart-testing`](https://github.com/firebase/quickstart-testing) for testing methodologies across Firebase services.
+- Firebase maintains **platform-specific quickstart repositories** (e.g., Android, iOS, Web, Unity, C++) with sample implementations, alongside **firebaseui-web** for pre-built authentication UI components and **quickstart-testing** for Firebase app testing methodologies.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-08T14:25:26.127773+05:30
+- Published: 2026-07-14T19:59:57.156501+05:30
 
 ## Related Tags
 

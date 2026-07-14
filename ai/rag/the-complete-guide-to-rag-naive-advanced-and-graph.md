@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-07-14T12:58:35.723281+05:30'
-collected_at: '2026-07-14T12:58:35.723294+05:30'
+published_at: '2026-07-14T19:47:08.336432+05:30'
+collected_at: '2026-07-14T19:47:08.336443+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-07-14T12:58:35.723294+05:30'
-last_seen: '2026-07-14T12:58:35.723294+05:30'
-last_checked: '2026-07-14T12:58:35.723294+05:30'
+first_seen: '2026-07-14T19:47:08.336443+05:30'
+last_seen: '2026-07-14T19:47:08.336443+05:30'
+last_checked: '2026-07-14T19:47:08.336443+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Overview & Evolution**: RAG combines retrieval, augmentation, and generation to address LLM limitations (freshness, private knowledge, hallucinations) by dynamically pulling external data. It evolved from Naive RAG (basic vector search) to Advanced RAG (hybrid retrieval, reranking, query transformation) to Modular RAG (routing, looping, tool integration) and Graph RAG (entity-relation graphs for multi-hop reasoning).
+- **RAG Evolution & Taxonomy**: Defines four generations—Naive (basic retrieval), Advanced (hybrid retrieval, reranking, query rewriting), Modular (routing, looping, tool integration), and Graph RAG (entity-relation graph traversal)—highlighting trade-offs in accuracy, flexibility, and operational complexity.
 
-- **Core Techniques & Tools**: Key methods include BM25 (sparse retrieval), dense embeddings (e.g., `BAAI/bge-m3`), hybrid retrieval (Dense + Sparse), reranking (cross-encoders like `BAAI/bge-reranker-v2-m3`), and ANN algorithms (HNSW, IVF-PQ). Frameworks like LangChain/LCEL and vector DBs (Chroma, Pinecone) are standard for implementation.
+- **Core RAG Mechanics**: Retrieval-Augmented Generation (RAG) augments LLMs with external knowledge via vector search (e.g., `BAAI/bge-m3` embeddings), addressing hallucinations, freshness, and private data limitations while enabling cost-efficient, auditable responses.
 
-- **Trade-offs & Decision Guide**: Naive RAG is simple but limited; Advanced RAG improves accuracy via smarter pipelines; Graph RAG excels in relational reasoning but adds complexity. Evaluation metrics (e.g., RRF, MMR) and production checklists are critical for deployment, with modularity enabling agentic workflows.
+- **Implementation Stack**: Standardized components include LangChain/LCEL for orchestration, Chroma/Weaviate for vector storage, BM25/ANN for retrieval, and cross-encoders (e.g., `BAAI/bge-reranker-v2-m3`) for reranking, with modular pipelines enabling hybrid (dense+sparse) and multi-hop reasoning workflows.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T12:58:35.723281+05:30
+- Published: 2026-07-14T19:47:08.336432+05:30
 
 ## Related Tags
 

@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Model Selection & Optimization**: Choose task-specific, lightweight models (e.g., <5MB for general use, <10MB for mobile) and leverage shrinking techniques (quantization, pruning) to balance accuracy and size; specialized models (e.g., language detection at 315KB) outperform generic LLMs (e.g., Gemma 2B at 1.3GB).
+- **Client-side AI implementation** leverages JavaScript libraries (TensorFlow.js, Transformers.js, MediaPipe GenAI) for low-latency, offline, and privacy-preserving inference, avoiding server-side dependencies and API keys.
 
-- **Performance Mitigation Strategies**: Offload model preparation/inference to Web Workers, use WebGPU where supported (with Wasm fallback), and chunk downloads (e.g., `fetch-in-
+- **Performance optimization strategies** include model size constraints (<10MB ideal), WebGPU fallback checks, explicit caching (Cache API), chunked downloads, and offloading tasks to web workers to mitigate UI blocking during model preparation/inference.
+
+- **User experie
 
 ## Use Cases
 

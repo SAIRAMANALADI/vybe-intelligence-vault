@@ -13,9 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
-- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -32,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Educational Repository**: Provides a structured tutorial on LangChain and LangGraph, designed for hands-on learning with Jupyter Notebooks.
-- **Technical Scope**: Covers agent-based workflows, integrating LangChain and LangGraph for building AI-driven applications.
-- **Active Maintenance**: Last updated in July 2026, ensuring relevance with recent advancements in the ecosystem.
+- **Repository Overview**: GitHub repository providing open-source tutorials on LangChain and LangGraph, covering agent-based systems with Jupyter Notebook examples.
+- **Metadata**: 1,087 stars, 342 forks, last updated July 9, 2026; primary language is Python (Jupyter Notebook).
+- **Focus Areas**: Educational resource for implementing LangChain/LangGraph agents, emphasizing practical, hands-on tutorials.
 
 ## Use Cases
 

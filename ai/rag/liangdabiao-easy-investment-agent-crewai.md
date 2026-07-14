@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
-collected_at: '2026-07-14T13:02:49.048389+05:30'
+collected_at: '2026-07-14T19:51:17.209564+05:30'
 published_at: '2026-07-13T11:22:00Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-09-26T11:16:52Z'
 pushed_at: '2026-05-07T01:07:08Z'
 resource_id: github:liangdabiao/easy_investment_agent_crewai
-first_seen: '2026-07-14T13:02:49.048389+05:30'
-last_seen: '2026-07-14T13:02:49.048389+05:30'
-last_checked: '2026-07-14T13:02:49.048389+05:30'
+first_seen: '2026-07-14T19:51:17.209564+05:30'
+last_seen: '2026-07-14T19:51:17.209564+05:30'
+last_checked: '2026-07-14T19:51:17.209564+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent A股 Analysis System**: Leverages AKShare for real-time A-share data (quotes, financials, fund flows, sentiment) and CrewAI to coordinate 4 specialized AI agents (e.g., data fetcher, analyzer, sentiment evaluator, decision generator) for collaborative investment insights.
+- **Multi-Agent A股 Analysis Framework**: Leverages AKShare for real-time A-share market data (quotes, financials, fund flows, sentiment) and CrewAI to orchestrate 4 specialized AI agents (e.g., data fetcher, analyzer, sentiment evaluator, decision generator) for collaborative investment analysis.
 
-- **China-Specific Optimization**: Tailored for A-share market dynamics (e.g., regulatory nuances, liquidity patterns) with AKShare’s China-focused financial APIs and localized sentiment analysis tools.
+- **China-Specific Optimization**: Tailored workflows for A-share market idiosyncrasies (e.g., regulatory constraints, liquidity patterns) with localized financial metrics and sentiment analysis from Chinese data sources.
 
-- **Automated Investment Pipeline**: Integrates data ingestion → multi-agent analysis → decision synthesis, providing actionable investment recommendations (e.g., stock rankings, risk alerts) via Python-based workflows.
+- **Decision-Centric Pipeline**: Integrates quantitative analysis (AKShare APIs) with LLM-driven reasoning to generate structured investment recommendations, risk assessments, and actionable insights for retail/institutional users.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: liangdabiao
 - Stars: 461
-- Forks: 95
+- Forks: 96
 - Language: Python
 - Topics: agent
 - Last Updated: 2026-07-13T11:22:00Z

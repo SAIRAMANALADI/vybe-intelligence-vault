@@ -32,8 +32,8 @@ selection_reason:
 ## Summary
 
 - **Modular AIRA Agent Template**: Provides a Python-based framework for building modular autonomous agents, leveraging ROS (Robot Operating System) for robotics applications.
-- **Key Features**: Designed for extensibility with predefined agent modules, enabling rapid prototyping of autonomous systems with ROS integration.
-- **Repository Status**: Last updated on 2024-06-25, with minimal community adoption (1 star, 5 forks).
+- **Key Features**: Designed for extensibility with predefined modules for perception, decision-making, and actuation, enabling rapid prototyping of autonomous systems.
+- **Repository Status**: Minimal community adoption (1 star, 5 forks) with last update on 2024-06-25, indicating an early-stage or niche project.
 
 ## Use Cases
 

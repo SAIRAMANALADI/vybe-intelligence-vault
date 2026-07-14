@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: dataset
 importance: medium
 tags:
-- benchmark
 - dataset
 - github-repo
 - hackernews
@@ -36,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a Python-based toolkit for constructing production-grade Retrieval Augmented Generation (RAG) pipelines optimized for custom datasets.
-- **Key Features**: Supports modular components for data ingestion, embedding, retrieval, and generation, enabling end-to-end RAG workflows.
-- **Technical Stack**: Leverages Python with integrations for vector databases, LLM APIs, and evaluation metrics for deployment-ready RAG systems.
+- **Purpose**: Provides a Python-based toolkit to design and deploy production-grade Retrieval-Augmented Generation (RAG) systems optimized for specific datasets.
+
+- **Key Features**: Includes modular components for data ingestion, embedding generation, vector storage, retrieval, and LLM integration to streamline RAG pipeline development.
+
+- **Technical Stack**: Built in Python, leveraging GenAI libraries and vector databases to ensure scalability, efficiency, and compatibility with modern AI wo
 
 ## Use Cases
 

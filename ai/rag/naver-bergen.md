@@ -4,26 +4,27 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/naver/bergen
-collected_at: '2026-07-14T12:59:43.942794+05:30'
+collected_at: '2026-07-14T19:48:12.030423+05:30'
 published_at: '2026-07-08T12:33:32Z'
 tags:
 - benchmark
+- dataset
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 - reddit
-- workflows
 stars: 273
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2024-05-09T14:13:44Z'
-pushed_at: '2026-03-11T09:37:23Z'
+pushed_at: '2026-07-14T11:04:39Z'
 resource_id: github:naver/bergen
-first_seen: '2026-07-14T12:59:43.942794+05:30'
-last_seen: '2026-07-14T12:59:43.942794+05:30'
-last_checked: '2026-07-14T12:59:43.942794+05:30'
+first_seen: '2026-07-14T19:48:12.030423+05:30'
+last_seen: '2026-07-14T19:48:12.030423+05:30'
+last_checked: '2026-07-14T19:48:12.030423+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-*   RAG benchmarking library designed for evaluating retrieval, augmentation, and generation components.
-*   Targets LLM-centric workflows, encompassing augmentation, generation, and retrieval strategies.
-*   Developed using Jupyter Notebooks, indicating an interactive and iterative development/evaluation environment.
+- **Purpose**: Bergen is a benchmarking library specifically designed for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on retrieval and generation performance.
+- **Implementation**: Written in Jupyter Notebook, it supports modular evaluation of RAG pipelines, including retrieval quality and generation metrics.
+- **Scope**: Covers augmentation, generation, and LLM interactions, enabling standardized comparison of RAG techniques across datasets and configurations.
 
 ## Why It Matters
 
@@ -50,7 +51,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-05-09T14:13:44Z
-- Pushed At: 2026-03-11T09:37:23Z
+- Pushed At: 2026-07-14T11:04:39Z
 
 ## Possible Use Cases
 

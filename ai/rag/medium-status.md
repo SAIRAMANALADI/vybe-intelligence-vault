@@ -4,8 +4,9 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://status.medium.com/?source=post_page
-resource_id: blog:medium-status
------d10bb5769280---------------------------------------
+resource_id: blog:medium-status-5a0393e5
+---
+--d10bb5769280---------------------------------------
 published_at: '2026-06-24T22:51:17.029493+05:30'
 collected_at: '2026-06-24T22:51:17.029505+05:30'
 tags:

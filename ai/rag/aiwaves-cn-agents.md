@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aiwaves-cn/agents
-collected_at: '2026-07-14T13:02:09.063686+05:30'
+collected_at: '2026-07-14T19:50:37.308468+05:30'
 published_at: '2026-07-13T20:18:12Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - hackernews
 - python
 - rag
+- workflows
 stars: 5943
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2023-07-18T02:01:03Z'
 pushed_at: '2024-09-26T03:12:53Z'
 resource_id: github:aiwaves-cn/agents
-first_seen: '2026-07-14T13:02:09.063686+05:30'
-last_seen: '2026-07-14T13:02:09.063686+05:30'
-last_checked: '2026-07-14T13:02:09.063686+05:30'
+first_seen: '2026-07-14T19:50:37.308468+05:30'
+last_seen: '2026-07-14T19:50:37.308468+05:30'
+last_checked: '2026-07-14T19:50:37.308468+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: Open-source Python-based framework (`aiwaves-cn/agents`) enabling autonomous language agents with self-evolving capabilities, emphasizing data-centric design for dynamic adaptation and performance optimization.
+- **Framework Overview**: Open-source Python-based framework (`aiwaves-cn/agents`) designed for building **data-centric, self-evolving autonomous language agents** leveraging LLMs for dynamic adaptation and task execution.
 
-- **Core Features**: Supports autonomous agent orchestration, leveraging LLMs for decision-making, and integrates mechanisms for continuous learning and self-improvement via iterative data feedback loops.
+- **Core Capabilities**: Enables **autonomous agent development** with self-improvement mechanisms, integrating data-driven feedback loops for continuous performance optimization and task-specific customization.
 
-- **Technical Stack**: Built for scalability and modularity, utilizing Python with dependencies optimized for LLM integration, agent autonomy, and real-time performance tuning.
+- **Technical Stack**: Built on Python, optimized for **LLM integration**, with modular architecture supporting extensibility for autonomous agent workflows, multi-agent collaboration, and real-time data processing.
 
 ## Why It Matters
 

@@ -4,11 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-14T12:59:23.874345+05:30'
+collected_at: '2026-07-14T19:47:51.993486+05:30'
 published_at: '2026-07-07T14:48:17Z'
 tags:
 - benchmark
+- dataset
 - github-repo
+- hackernews
 - python
 - rag
 stars: 264
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-14T12:59:23.874345+05:30'
-last_seen: '2026-07-14T12:59:23.874345+05:30'
-last_checked: '2026-07-14T12:59:23.874345+05:30'
+first_seen: '2026-07-14T19:47:51.993486+05:30'
+last_seen: '2026-07-14T19:47:51.993486+05:30'
+last_checked: '2026-07-14T19:47:51.993486+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of RAG for Vietnamese**: Repository demonstrates best practices for Vietnamese Retrieval-Augmented Generation (RAG) using Python, focusing on efficient document retrieval and context-aware generation.
+- **Vietnamese RAG Implementation**: Repository demonstrates best practices for Retrieval-Augmented Generation (RAG) specifically optimized for Vietnamese language processing, including text preprocessing, embedding models, and retrieval strategies tailored for Vietnamese corpora.
 
-- **Modular Architecture**: Includes components for Vietnamese text preprocessing, embedding generation (e.g., using `sentence-transformers` or `vinai/phobert`), vector storage (FAISS/Weaviate), and retrieval-augmented generation with LLMs.
+- **Technical Stack**: Utilizes Python with frameworks/libraries such as LangChain, FAISS (for vector storage), and Hugging Face Transformers for Vietnamese-specific NLP tasks (e.g., embedding generation with `vinai/phobert-base`).
 
-- **Evaluation & Optimization**: Provides tools for benchmarking Vietnamese RAG pipelines, including retrieval metrics (e.g., MRR, Recall@K) and generation quality assessments (e.g., BLEU, ROUGE for Vietnamese).
+- **Deployment & Evaluation**: Includes modular backend design for scalable RAG pipelines, with components for document ingestion, retrieval, and generation, along with evaluation metrics (e.g., retrieval precision, answer relevance) for Vietnamese datasets.
 
 ## Why It Matters
 

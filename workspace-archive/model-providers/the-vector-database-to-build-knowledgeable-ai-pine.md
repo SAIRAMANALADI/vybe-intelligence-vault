@@ -8,11 +8,12 @@ local_vault_path: ai/rag/the-vector-database-to-build-knowledgeable-ai-pine.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: dataset
 importance: medium
 tags:
 - agents
 - anthropic
+- dataset
 - paper
 - rag
 - web-crawled
@@ -27,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Vector Database Performance**: Pinecone provides <100ms write acknowledgment, automatic indexing with no tuning required, and consistent query latency (p99) that scales without degradation, supporting up to 1B vectors with 31ms p50 latency.
+- **Vector Database Performance**: Pinecone provides <100ms write acknowledgment, automatic indexing with no tuning required, and consistent p99 query latency that improves with scale, enabling real-time searchable vectors at any dataset size.
 
-- **Multi-Tenant Scalability**: Supports 1.7M namespaces (one per agent) with 400 QPS throughput, enabling isolated memory for AI agents without separate indexes, while metadata filtering executes in-query for 12ms p50 latency.
+- **Multi-Tenant Scalability**: Supports 1.7M namespaces (one per agent) with 400 QPS throughput, eliminating the need for separate indexes while maintaining compiled knowledge retrieval efficiency.
 
-- **Enterprise-Grade Secu
+- **Enterprise-Grade Security & Compliance**: Offers SO
 
 ## Use Cases
 

@@ -35,9 +35,8 @@ selection_reason:
 
 ## Summary
 
-- **Android Bench** updated with new LLM benchmarking methodology, expanded model evaluations, and community-driven contributions for Android development assistance.
-- **Android 17 (API 37)** released with AOSP source code and Pixel device rollout, introducing key updates requiring app compatibility adjustments.
-- **Android Studio Quail 1 | 2026.1.1 Patch 2** SDK license enforces restricted usage, prohibits reverse engineering, and mandates compliance with Google’s proprietary rights and third-p
+- **Android Bench** updated with new LLM benchmarking methodology, expanded model evaluations, and community contribution opportunities to assess AI assistance for Android development ([link](https://android-developers.googleblog.com/2026/07/android-bench-llm-measurement.html)).
+- **Android 17 (API 37)** released with AOSP source code live and Pixel device rollouts; key updates include adaptive layouts, media integration, and Health Services enhancements ([link](https://android-developers.google
 
 ## Use Cases
 

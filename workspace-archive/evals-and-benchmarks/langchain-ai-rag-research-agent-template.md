@@ -16,6 +16,8 @@ tags:
 - hackernews
 - python
 - rag
+- scripts
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Template Purpose**: Provides a structured starter template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating rapid prototyping of AI-driven document analysis and synthesis systems.
+- **Template Purpose**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating rapid prototyping of AI-driven research workflows.
 
-- **Key Components**: Includes pre-configured pipelines for document ingestion, embedding generation (e.g., with `sentence-transformers`), vector storage (e.g., Chroma or FAISS), and LLM integration (e.g., LangChain’s `LLMChain` or `RetrievalQA`).
+- **Technical Stack**: Implements Python-based RAG pipelines with LangChain, leveraging vector databases (e.g., Chroma, FAISS) for document retrieval and LLMs for synthesis/generation tasks.
 
-- **Technical Stack
+- **Key Features**: Includes modular components for document ingestion, embedding, retrieval, a
 
 ## Use Cases
 

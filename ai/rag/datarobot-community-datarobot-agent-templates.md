@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datarobot-community/datarobot-agent-templates
-collected_at: '2026-07-14T13:02:39.137498+05:30'
+collected_at: '2026-07-14T19:51:07.250014+05:30'
 published_at: '2026-07-04T08:01:20Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - meta-ai
 - models
 - python
 - rag
-- scripts
 - workflows
 stars: 20
 language: Python
@@ -23,9 +23,9 @@ archived: false
 created_at: '2025-05-14T14:40:53Z'
 pushed_at: '2026-07-01T08:08:35Z'
 resource_id: github:datarobot-community/datarobot-agent-templates
-first_seen: '2026-07-14T13:02:39.137498+05:30'
-last_seen: '2026-07-14T13:02:39.137498+05:30'
-last_checked: '2026-07-14T13:02:39.137498+05:30'
+first_seen: '2026-07-14T19:51:07.250014+05:30'
+last_seen: '2026-07-14T19:51:07.250014+05:30'
+last_checked: '2026-07-14T19:51:07.250014+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Templates**: Repository providing pre-built templates for agentic workflows integrating DataRobot with frameworks like CrewAI, LangGraph, and LlamaIndex for LLM-driven automation.
+- **Repository Overview**: Provides templates for DataRobot Agentic Workflows, enabling integration with frameworks like CrewAI, LangGraph, and LlamaIndex for agentic AI applications.
 
-- **Multi-Framework Support**: Includes Python-based templates optimized for DataRobot's agentic AI capabilities, enabling seamless interaction with LLM orchestration tools (e.g., LangGraph) and retrieval systems (e.g., LlamaIndex).
+- **Technical Stack**: Implemented in Python, leveraging LLM orchestration tools (e.g., LangGraph) and vector databases (e.g., LlamaIndex) for agent-based workflows.
 
-- **Community-Driven**: Open-source project with 20 stars and 12 forks, last updated July 2026, focusing on modular agent templates for enterprise-scale AI workflows.
+- **Purpose**: Facilitates modular, reusable templates for DataRobot users to deploy agentic AI solutions with minimal setup overhead.
 
 ## Why It Matters
 

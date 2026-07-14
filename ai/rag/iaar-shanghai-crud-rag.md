@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-14T12:59:48.937394+05:30'
+collected_at: '2026-07-14T19:48:17.081166+05:30'
 published_at: '2026-07-10T09:46:49Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-14T12:59:48.937394+05:30'
-last_seen: '2026-07-14T12:59:48.937394+05:30'
-last_checked: '2026-07-14T12:59:48.937394+05:30'
+first_seen: '2026-07-14T19:48:17.081166+05:30'
+last_seen: '2026-07-14T19:48:17.081166+05:30'
+last_checked: '2026-07-14T19:48:17.081166+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: CRUD-RAG provides a structured Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on large language models (LLMs) with comprehensive metrics and datasets.
+- **Benchmark Framework**: Introduces CRUD-RAG, a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems with Large Language Models (LLMs), covering comprehensive CRUD (Create, Read, Update, Delete) operations.
 
-- **CRUD Operations Integration**: Supports Create, Read, Update, and Delete (CRUD) operations in RAG pipelines, enabling dynamic and interactive evaluation of retrieval and generation components.
+- **Evaluation Metrics**: Focuses on retrieval quality, generation accuracy, and end-to-end performance in Chinese contexts, providing standardized metrics for RAG system assessment.
 
-- **Open-Source Toolkit**: Implemented in Python, the repository includes reusable code, evaluation scripts, and datasets to facilitate reproducible research and benchmarking in Chinese RAG systems.
+- **Open-Source Toolkit**: Provides a Python-based repository with datasets, evaluation scripts, and baseline models to facilitate reproducible research and benchmarking in Chinese RAG systems.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/models
 source_type: huggingface_dataset
 source_name: Hugging Face Trending Datasets
 source_url: https://huggingface.co/datasets/kakologarchives
-published_at: '2026-07-14T07:22:02.000Z'
-collected_at: '2026-07-14T12:56:34.971808+05:30'
+published_at: '2026-07-14T14:12:16.000Z'
+collected_at: '2026-07-14T19:46:03.109212+05:30'
 tags:
 - dataset
 - hf-dataset
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:datasets/kakologarchives
 first_seen: '2026-06-18T23:35:18.472147+05:30'
-last_seen: '2026-07-14T12:56:34.971808+05:30'
-last_checked: '2026-07-14T12:56:34.971808+05:30'
+last_seen: '2026-07-14T19:46:03.109212+05:30'
+last_checked: '2026-07-14T19:46:03.109212+05:30'
 health_score: 100
 ---
 
@@ -22,7 +22,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face dataset: KakologArchives/KakologArchives (Likes: 64, Downloads: 2177197)
+Trending Hugging Face dataset: KakologArchives/KakologArchives (Likes: 64, Downloads: 2107497)
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Trending Datasets
 - Category: ai/models
-- Published: 2026-07-14T07:22:02.000Z
+- Published: 2026-07-14T14:12:16.000Z
 
 ## Related Tags
 

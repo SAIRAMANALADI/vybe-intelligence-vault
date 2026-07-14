@@ -15,6 +15,7 @@ tags:
 - github-repo
 - python
 - rag
+- scripts
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Open-AutoGLM Framework**: A Python-based open-source framework designed to enable AI-driven phone agent capabilities, facilitating autonomous interaction with mobile devices.
-
-- **Agent Architecture**: Implements a modular agent system for phone operations, leveraging large language models (LLMs) to interpret and execute tasks via structured APIs.
-
-- **Performance & Scalability**: Supports high-throughput agent interactions with real-time processing, optimized for deployment across diverse m
+- **Open-AutoGLM Framework**: A Python-based open-source framework designed to deploy autonomous AI agents for phone interactions, enabling end-to-end automation of tasks via voice or text commands.
+- **Agent Architecture**: Implements a modular agent system with pluggable components for speech recognition, task planning, and execution, leveraging large language models (LLMs) for dynamic decision-making.
+- **Scalability & Integration**: Supports cross-platform deployment (Android/iOS) with APIs
 
 ## Use Cases
 

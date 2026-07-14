@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- Introduces **MiniRAG**, a simplified RAG framework leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining performance.
-- Proposes **modular architecture** decoupling retrieval, reranking, and generation stages, enabling efficient integration with lightweight models (e.g., <1B parameters).
-- Achieves **competitive results** on benchmarks (e.g., MTEB, KILT) with 3-5x fewer parameters than conventional RAG systems, emphasizing scalability and acce
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
+
+- **Efficiency Optimizations**: Implements lightweight retrieval and generation mechanisms, including distilled embeddings and quantized inference, to enable deployment on resource-constrained hardware without sacrificing accuracy.
+
+- **Open-Source Toolkit**: Pro
 
 ## Use Cases
 

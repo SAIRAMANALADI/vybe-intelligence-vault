@@ -16,7 +16,6 @@ tags:
 - go
 - hackernews
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Scalable Vector ANN Search Engine**: Milvus is a cloud-native, distributed vector database optimized for high-performance Approximate Nearest Neighbor (ANN) search, supporting billion-scale datasets with sub-millisecond latency.
-- **Multi-Index & Hybrid Search Support**: Implements multiple indexing algorithms (HNSW, IVF, DiskANN, FAISS) and enables hybrid search combining vector, scalar, and full-text filtering for complex queries.
-- **Go-Based Architecture with Ecosystem Integration**: Bui
+- **Scalable ANN Search Engine**: Milvus is a cloud-native, distributed vector database optimized for high-performance approximate nearest neighbor (ANN) search, supporting billion-scale datasets with low latency.
+- **Multi-Index & Hybrid Retrieval**: Implements multiple indexing algorithms (e.g., HNSW, DiskANN, FAISS) and supports hybrid search combining vector and scalar filtering for flexible similarity queries.
+- **Go-Based Architecture**: Built in Go for concurrency and performance, with mo
 
 ## Use Cases
 

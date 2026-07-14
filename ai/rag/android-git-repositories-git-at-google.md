@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://android.googlesource.com
-published_at: '2026-07-09T21:17:28.403534+05:30'
-collected_at: '2026-07-09T21:17:28.403544+05:30'
+published_at: '2026-07-14T20:00:11.922541+05:30'
+collected_at: '2026-07-14T20:00:11.922551+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-07-09T21:17:28.403544+05:30'
-last_seen: '2026-07-09T21:17:28.403544+05:30'
-last_checked: '2026-07-09T21:17:28.403544+05:30'
+first_seen: '2026-07-14T20:00:11.922551+05:30'
+last_seen: '2026-07-14T20:00:11.922551+05:30'
+last_checked: '2026-07-14T20:00:11.922551+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Centralized Git Repository Hosting**: Android's official Git repositories are hosted at `android.googlesource.com`, providing version-controlled access to hardware-specific device trees, kernels, and platform components (e.g., `device/google/bluejay-kernel`, `device/generic/goldfish`).
-- **Kernel and Device-Specific Branches**: Many device repositories include kernel branches for specific Android versions (e.g., `device/google/bluejay-kernels/6.1`, `device/google/akita-kernels/5.15`) and security policy (SELinux) configurations (e.g., `device/google/raviole-sepolicy`).
-- **Emulation and Testing Infrastructure**: Generic device targets (e.g., `device/generic/arm64`, `device/generic/x86_64`) and emulator-specific projects (e.g., `device/generic/mini-emulator-armv7-a-neon`) support cross-platform development and CI/CD pipelines.
+- **Official Android Git Repository**: Hosted on `android.googlesource.com`, providing open-source Git repositories for Android OS, kernel, device-specific code, accessories, and Brillo/embedded projects.
+- **Device-Specific Repositories**: Contains kernel (`*-kernel`), sepolicy (`*-sepolicy`), and device-specific code for multiple Google devices (e.g., `bluejay`, `coral`, `lynx`, `shusky`) with versioned kernel branches (e.g., `5.10`, `6.1`).
+- **Build & Accessory Support**: Includes manifests (`manifest/`), prebuilt assets (e.g., `android-studio-ux-assets`), and accessory frameworks (e.g., `arduino`, `demokit`) for hardware integration and development.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T21:17:28.403534+05:30
+- Published: 2026-07-14T20:00:11.922541+05:30
 
 ## Related Tags
 

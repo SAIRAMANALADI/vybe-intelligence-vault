@@ -3,23 +3,24 @@ title: GitHub Copilot CLI · GitHub
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/features/copilot/cli
-published_at: '2026-07-14T13:04:30.976790+05:30'
-collected_at: '2026-07-14T13:04:30.976802+05:30'
+source_url: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
+published_at: '2026-07-14T19:51:37.458603+05:30'
+collected_at: '2026-07-14T19:51:37.458618+05:30'
 tags:
 - agents
 - anthropic
 - frontend_ui
 - hackernews
 - openai
+- scripts
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-07-14T13:04:30.976802+05:30'
-last_seen: '2026-07-14T13:04:30.976802+05:30'
-last_checked: '2026-07-14T13:04:30.976802+05:30'
+first_seen: '2026-07-14T19:51:37.458618+05:30'
+last_seen: '2026-07-14T19:51:37.458618+05:30'
+last_checked: '2026-07-14T19:51:37.458618+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Workflows**: Copilot CLI enables parallelized execution via `/fleet`, allowing multiple subagents to work concurrently on tasks (e.g., model comparisons, issue resolution) with centralized control and decision convergence.
+- **Multi-agent orchestration**: Copilot CLI enables parallelized subagent execution via `/fleet`, allowing concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, while maintaining session persistence via `/resume` for long-running workflows.
 
-- **GitHub-Native Integration**: Built on GitHub’s `/mcp` protocol, it natively interacts with issues, PRs, and branches while enforcing org-specific policies (e.g., branch protections, required checks) without additional setup.
+- **GitHub-native MCP integration**: Built on GitHub’s Model Context Protocol (MCP), the CLI interacts directly with issues, PRs, branches, and labels, inheriting organizational policies (e.g., branch protections, Copilot Business/Enterprise settings) without additional setup.
 
-- **Session Persistence & Autonomy**: Supports `/resume` for context retention across sessions and `/autopilot` for autonomous task execution (e.g., `/plan` → `/delegate` → PR merge) with explicit user approval for file/command changes.
+- **Autonomous workflow automation**: Supports `/plan` to `/IDE` transitions, `/delegate` for PR creation, and `/remote` cross-device monitoring, with explicit user approval required for all file modifications and command executions, ensuring security and governance compliance.
 
 ## Why It Matters
 
@@ -41,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-14T13:04:30.976790+05:30
+- Published: 2026-07-14T19:51:37.458603+05:30
 
 ## Related Tags
 
@@ -50,10 +51,11 @@ General public resource representing technology updates, guides, or tutorials.
 - frontend_ui
 - hackernews
 - openai
+- scripts
 - web-crawled
 - workflows
 - youtube
 
 ## Source
 
-Original source: https://github.com/features/copilot/cli
+Original source: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026

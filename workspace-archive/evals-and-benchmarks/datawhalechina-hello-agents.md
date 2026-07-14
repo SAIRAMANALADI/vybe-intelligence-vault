@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Educational Repository**: Provides a comprehensive tutorial in Chinese titled *"从零开始构建智能体"* (Building Agents from Scratch), covering foundational principles and practical implementations of AI agents using large language models (LLMs), retrieval-augmented generation (RAG), and Python.
-
-- **Technical Scope**: Focuses on agent architecture, LLM integration, and RAG pipelines, offering hands-on code examples and step-by-step guidance for constructing intelligent agents from the ground up.
-
-- **
+- **Educational Repository**: Provides a comprehensive tutorial in Chinese titled *"从零开始构建智能体"* (Building Agents from Scratch), covering principles and practical implementations of AI agents.
+- **Technical Focus**: Covers core topics including **Large Language Models (LLM)**, **Retrieval-Augmented Generation (RAG)**, and agent architecture, with hands-on Python-based implementations.
+- **Updated & Active**: Last modified on **2026-07-14**, with **66,136 stars** and **8,192 forks**, indicating st
 
 ## Use Cases
 

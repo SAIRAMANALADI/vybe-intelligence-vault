@@ -6,7 +6,7 @@ source_url: https://github.com/stackitcloud/rag-template
 resource_id: github:stackitcloud/rag-template
 local_vault_path: ai/rag/stackitcloud-rag-template.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: template
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Template for deploying AI chatbots and document management systems using Retrieval-Augmented Generation (RAG) with vector search capabilities and FastAPI backend.
-
-- **Key Components**: Integrates Python-based FastAPI, Ollama for LLM inference, and a vector database for semantic search; supports Docker and Kubernetes for deployment.
-
-- **Features**: Includes RAG-chatbot functionality, retrieval-augmented generation, and is optimized for STACKIT cloud infrastructure.
+*   Python-based RAG template for AI chatbots, featuring document management via vector search.
+*   Implements a FastAPI backend for API exposure and integrates with LLMs (e.g., Ollama) for generation.
+*   Containerized for deployment with Docker and Kubernetes, enabling scalable RAG application hosting.
 
 ## Use Cases
 

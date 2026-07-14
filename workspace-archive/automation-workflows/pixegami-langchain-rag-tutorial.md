@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
+- **LangChain RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
 
-- **Python-Based Architecture**: Utilizes Python with LangChain libraries to orchestrate document loading, embedding, vector storage (e.g., FAISS or Chroma), and LLM interaction for contextual Q&A.
+- **Python-Based Architecture**: Utilizes Python with LangChain's modular components (e.g., `RetrievalQA`, `VectorStore`) to process and query documents via embeddings (e.g., FAISS or Chroma).
 
-- **Modular Design**: Includes components for document preprocessing, vector indexing, retrieval, and g
+- **Modular Design**: Includes components for document loading (e.g., `PyPDFLoader`), text splitting (`RecursiveCh
 
 ## Use Cases
 

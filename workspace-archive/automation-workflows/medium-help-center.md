@@ -1,15 +1,20 @@
 ---
 title: Medium Help Center
 archive_category: automation-workflows
-source_category: ai/rag
-source_url: https://help.medium.com/hc/en-us?source=post_page
+source_category: ai/resources
+source_url: https://help.medium.com/hc/en-us?source=--------------------------------------------
 resource_id: blog:medium-help-center
-local_vault_path: ai/rag/medium-help-center.md
+local_vault_path: ai/resources/medium-help-center.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
+tags:
+- hackernews
+- web-crawled
+- workflows
+- youtube
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -28,9 +33,8 @@ selection_reason:
 
 ## Summary
 
-- Medium's **Partner Program** enables monetization via eligibility criteria, earnings dashboards, and revenue calculation metrics (e.g., read ratio, member reading time).
-- **Publication management** includes story submission workflows, curation settings, and layout customization (e.g., editorial guidelines, contributor roles).
-- **Content policies** enforce strict moderation via COVID-19, controversial content, and journalism best-practice guidelines, with user safety tools for blocking/report
+- **Account Management**: Medium provides granular control over user profiles, subscription settings, email preferences, and social media integrations via dedicated help articles (e.g., [profile URL customization](https://help.medium.com/hc/en-us/articles/115004746707-Your-profile-page-URL), [subscription management](https://medium.zendesk.com/hc/en-us/articles/360006277374)).
+- **Content Distribution & Analytics**: Authors can monitor performance metrics (e.g., [detailed story stats](https://he
 
 ## Use Cases
 
@@ -40,8 +44,8 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://help.medium.com/hc/en-us?source=post_page
+Original source URL: https://help.medium.com/hc/en-us?source=--------------------------------------------
 
 ## Local Vault File
 
-Path: [medium-help-center.md](../../ai/rag/medium-help-center.md)
+Path: [medium-help-center.md](../../ai/resources/medium-help-center.md)

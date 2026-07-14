@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous Agent Template**: JavaScript-based repository designed to spawn custom autonomous agents via forking.
-- **Minimal Metadata**: No associated topics, 2 stars, 18 forks, last updated April 24, 2026.
-- **Direct Forking Mechanism**: Enables rapid deployment of autonomous agent instances from the template.
+- **Template Repository**: A JavaScript-based starter template for creating autonomous agents (Daimon), forked from `daimon111/daimon-template`.
+- **Fork Usage**: Designed to be cloned/spawned to generate custom autonomous agents with minimal setup.
+- **Metadata**: 2 stars, 18 forks, last updated on **2026-04-24T07:15:56Z**.
 
 ## Use Cases
 

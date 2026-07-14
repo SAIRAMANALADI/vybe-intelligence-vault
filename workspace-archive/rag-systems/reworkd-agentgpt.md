@@ -18,7 +18,6 @@ tags:
 - openai
 - rag
 - typescript
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -37,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework**: Browser-based TypeScript application leveraging Next.js (T3 stack) for deploying autonomous AI agents with configurable LLM integrations (OpenAI, LangChain).
-- **Core Functionality**: Enables agent assembly, configuration, and deployment via an intuitive UI, supporting AGI-oriented workflows (e.g., BabyAGI, AutoGPT).
-- **Tech Stack**: Built with modern web technologies (Next.js, TypeScript) and designed for extensibility with AI agent frameworks (LangChain) and LLM APIs (OpenAI)
+- **Purpose**: Browser-based platform for assembling, configuring, and deploying autonomous AI agents using TypeScript and modern web frameworks (Next.js/T3 stack).
+- **Key Integrations**: Supports OpenAI LLMs, LangChain for agent orchestration, and compatibility with AutoGPT/BabyAGI methodologies.
+- **Technical Stack**: Built on Next.js (React framework), leveraging modern TypeScript for agent configuration and deployment in a client-side environment.
 
 ## Use Cases
 

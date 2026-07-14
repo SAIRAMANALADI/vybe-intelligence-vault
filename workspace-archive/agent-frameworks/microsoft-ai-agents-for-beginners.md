@@ -6,7 +6,7 @@ source_url: https://github.com/microsoft/ai-agents-for-beginners
 resource_id: github:microsoft/ai-agents-for-beginners
 local_vault_path: ai/rag/microsoft-ai-agents-for-beginners.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Educational Repository**: Provides 18 structured lessons to introduce AI agent development, covering foundational concepts to advanced implementations in agentic AI, RAG, and generative AI.
-
-- **Technical Stack**: Utilizes Jupyter Notebooks with integrations for **Microsoft Foundry**, **AutoGen**, **Semantic Kernel**, and local agentic frameworks for hands-on learning.
-
-- **Key Topics**: Focuses on **agentic frameworks**, **multi-agent systems**, **RAG pipelines**, and **deployment strategie
+- **Educational Repository**: Provides 18 structured lessons for beginners to learn AI agent development, covering foundational to advanced concepts in agentic AI, RAG, and generative AI.
+- **Technical Stack**: Utilizes Jupyter Notebooks and integrates with Microsoft’s **Autogen**, **Foundry**, and **Semantic Kernel** frameworks for hands-on agentic AI implementation.
+- **Local & Framework Support**: Enables local agent development via **Foundry Local** and emphasizes agentic frameworks like **A
 
 ## Use Cases
 

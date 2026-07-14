@@ -4,16 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/e2b-dev/awesome-ai-agents
-collected_at: '2026-07-14T13:01:14.024655+05:30'
-published_at: '2026-07-14T07:18:14Z'
+collected_at: '2026-07-14T19:49:42.184885+05:30'
+published_at: '2026-07-14T13:44:13Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - models
 - openai
-- scripts
 - unknown
-stars: 28731
+stars: 28736
 language: Unknown
 status: active
 license: NOASSERTION
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-06-19T00:20:06Z'
 pushed_at: '2026-07-09T17:41:48Z'
 resource_id: github:e2b-dev/awesome-ai-agents
-first_seen: '2026-07-14T13:01:14.024655+05:30'
-last_seen: '2026-07-14T13:01:14.024655+05:30'
-last_checked: '2026-07-14T13:01:14.024655+05:30'
+first_seen: '2026-07-14T19:49:42.184885+05:30'
+last_seen: '2026-07-14T19:49:42.184885+05:30'
+last_checked: '2026-07-14T19:49:42.184885+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated list of AI autonomous agents**: Repository aggregates tools, frameworks, and projects (e.g., AutoGPT, BabyAGI, GPT-Engineer) for building and deploying AI agents with capabilities in reasoning, task automation, and decision-making.
-
-- **Multi-language support & integrations**: Includes Python-based agents (e.g., GPT-4, OpenAI APIs) and supports cross-platform execution, with emphasis on extensibility via modular architectures.
-
-- **Active maintenance & community**: Last updated July 2026, with 28.7K+ stars and 3.1K+ forks, indicating strong adoption and contributions from the AI/autonomous systems research community.
+- **Curated repository** of AI autonomous agents, including notable projects like AutoGPT, BabyAGI, GPT-Engineer, and Copilot, focusing on Python-based implementations and OpenAI integrations (GPT-4).
+- **Highly active maintenance** with 28,736 stars and 3,145 forks, last updated in July 2026, ensuring up-to-date inclusion of cutting-edge autonomous agent frameworks.
+- **Technical focus** on artificial intelligence agents, emphasizing autonomous decision-making, multi-agent collaboration, and integration with large language models (LLMs) for dynamic task execution.
 
 ## Why It Matters
 
@@ -44,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: e2b-dev
-- Stars: 28731
-- Forks: 3142
+- Stars: 28736
+- Forks: 3145
 - Language: Unknown
 - Topics: agent, ai, artificial-intelligence, autogpt, autonomous-agents, awesome, babyagi, copilot, gpt, gpt-4, gpt-engineer, openai, python
-- Last Updated: 2026-07-14T07:18:14Z
+- Last Updated: 2026-07-14T13:44:13Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-06-19T00:20:06Z

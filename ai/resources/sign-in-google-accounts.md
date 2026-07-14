@@ -3,16 +3,17 @@ title: Sign in - Google Accounts
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://aistudio.google.com/apps
-published_at: '2026-07-14T13:04:54.552629+05:30'
-collected_at: '2026-07-14T13:04:54.552644+05:30'
+source_url: https://support.google.com/youtubetv/gethelp?symptom=about_nfl_sunday_ticket&utm_source=st_lp
+published_at: '2026-07-14T19:57:43.343107+05:30'
+collected_at: '2026-07-14T19:57:43.343120+05:30'
 tags:
 - web-crawled
+- youtube
 status: active
 resource_id: blog:sign-in-google-accounts
-first_seen: '2026-07-14T13:04:54.552644+05:30'
-last_seen: '2026-07-14T13:04:54.552644+05:30'
-last_checked: '2026-07-14T13:04:54.552644+05:30'
+first_seen: '2026-07-14T19:57:43.343120+05:30'
+last_seen: '2026-07-14T19:57:43.343120+05:30'
+last_checked: '2026-07-14T19:57:43.343120+05:30'
 health_score: 100
 ---
 
@@ -20,9 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Authentication**: Requires Google Account credentials (email/phone) for access to Google AI Studio services.
-- **Recovery & Security**: Provides "Forgot email?" functionality and recommends private browsing for non-personal devices.
-- **Account Management**: Offers "Create account" option for new users and links to support resources for Guest mode.
+- **Authentication Interface**: Google's sign-in page requires user credentials (email/phone) for account access, with recovery options for forgotten usernames.
+
+- **Session Management**: Supports private browsing mode to prevent credential caching, enhancing security for non-personal device usage.
+
+- **Account Creation**: Provides an integrated "Create account" flow for new user registration, redirecting post-authentication to the target service (YouTube TV).
 
 ## Why It Matters
 
@@ -32,12 +35,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-14T13:04:54.552629+05:30
+- Published: 2026-07-14T19:57:43.343107+05:30
 
 ## Related Tags
 
 - web-crawled
+- youtube
 
 ## Source
 
-Original source: https://aistudio.google.com/apps
+Original source: https://support.google.com/youtubetv/gethelp?symptom=about_nfl_sunday_ticket&utm_source=st_lp

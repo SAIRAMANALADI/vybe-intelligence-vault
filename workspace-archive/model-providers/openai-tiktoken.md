@@ -12,7 +12,6 @@ resource_kind: tool
 importance: medium
 tags:
 - github-repo
-- models
 - openai
 - python
 - rag
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Fast BPE Tokenizer**: Implements Byte Pair Encoding (BPE) for efficient tokenization, optimized for OpenAI's models with high-speed performance.
-- **Python Implementation**: Written in Python, leveraging efficient data structures and algorithms for tokenization tasks.
-- **Pre-trained Models**: Includes pre-trained tokenizers for OpenAI models (e.g., GPT-4, GPT-3.5), supporting dynamic vocabulary updates.
+- **BPE Tokenizer**: Implements Byte Pair Encoding (BPE) algorithm for efficient tokenization, optimized for OpenAI's models.
+- **Performance**: Designed for speed, leveraging C extensions and Rust for high-throughput token processing.
+- **Compatibility**: Supports OpenAI's model-specific tokenizers (e.g., `cl100k_base`, `p50k_base`, `r50k_base`) with pre-defined vocabularies.
 
 ## Use Cases
 

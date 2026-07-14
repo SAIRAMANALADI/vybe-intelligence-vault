@@ -4,25 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-07-14T13:01:38.999176+05:30'
-published_at: '2026-07-14T03:01:28Z'
+collected_at: '2026-07-14T19:50:07.139109+05:30'
+published_at: '2026-07-14T09:21:15Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - unknown
 - workflows
-stars: 2480
+stars: 2481
 language: Unknown
 status: active
 archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-07-14T13:01:38.999176+05:30'
-last_seen: '2026-07-14T13:01:38.999176+05:30'
-last_checked: '2026-07-14T13:01:38.999176+05:30'
+first_seen: '2026-07-14T19:50:07.139109+05:30'
+last_seen: '2026-07-14T19:50:07.139109+05:30'
+last_checked: '2026-07-14T19:50:07.139109+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and agent coordination mechanisms for autonomous AI-driven coding workflows.
-- **Security Classification**: Analyzes security frameworks and classifications for agentic AI systems to mitigate risks in automated code generation and execution.
-- **System Prompts & Tools**: Investigates advanced prompt engineering techniques (e.g., for Claude) and tool integration for multi-agent collaboration in AI-assisted development.
+- **Agentic AI Coding Assistants**: Analyzes reconstructed prompt patterns and agent coordination mechanisms for autonomous AI-driven coding workflows.
+- **Security Classification**: Evaluates security risks and mitigation strategies in agentic AI systems, including prompt injection and privilege escalation.
+- **System Prompts & Tools**: Investigates the role of system prompts (e.g., Claude) and tool integration in enabling multi-agent collaboration for software development.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Leonxlnx
-- Stars: 2480
+- Stars: 2481
 - Forks: 1071
 - Language: Unknown
 - Topics: agentic-ai, ai-research, claude, prompt-engineering, system-prompts
-- Last Updated: 2026-07-14T03:01:28Z
+- Last Updated: 2026-07-14T09:21:15Z
 - Archived: No
 - Created At: 2026-03-31T11:47:04Z
 - Pushed At: 2026-03-31T19:04:33Z

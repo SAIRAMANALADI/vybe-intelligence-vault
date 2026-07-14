@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-OS Agent Framework**: Provides sandboxes, SDKs, and benchmarks for training/evaluating AI agents capable of full desktop control across macOS, Linux, and Windows.
-- **Virtualization & Containerization**: Implements virtualization frameworks (e.g., Apple's Virtualization Framework, Windows Sandbox) and containerization for isolated agent execution.
-- **Open-Source Toolkit**: Includes Lume (Swift-based), Manus (Python SDK), and benchmarking tools under an open-source license (HTML-based
+- **Cross-Platform Agent Infrastructure**: Provides sandboxes, SDKs, and benchmarks for training/evaluating AI agents capable of full desktop control (macOS, Linux, Windows) via containerization and virtualization frameworks.
+
+- **Multi-OS Virtualization Support**: Integrates Apple's Virtualization Framework, Windows Sandbox, and LXC/LXD for macOS, Windows, and Linux environments respectively.
+
+- **Open-Source Toolchain**: Includes Manus (Swift-based agent framework), Lume (benchmarking suite),
 
 ## Use Cases
 

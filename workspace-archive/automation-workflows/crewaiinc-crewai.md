@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Role-Based Agent Orchestration**: CrewAI enables autonomous AI agents to collaborate via role assignment, task decomposition, and workflow management using Python.
+- **Role-Based Agent Orchestration**: CrewAI enables autonomous AI agents to collaborate via role-playing, leveraging structured task delegation and hierarchical agent interactions for complex workflows.
 
-- **Multi-Agent Coordination**: Supports parallel and sequential task execution with inter-agent communication, leveraging LLMs for dynamic decision-making.
+- **Python-Based Framework**: Built in Python, it integrates with LLMs to facilitate multi-agent task execution, emphasizing modularity and extensibility for AI-driven automation.
 
-- **Extensible Python Framework**: Open-source toolkit (55K+ stars) for building AI agent systems with modular design, optimized for complex workflow automation.
+- **High Scalability**: Supports large-scale agent deployments (55K+ stars) with real-time collaboration features,
 
 ## Use Cases
 

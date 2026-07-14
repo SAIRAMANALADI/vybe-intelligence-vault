@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured for enterprise-level deployment and fine-tuning.
-- **Full-Stack Learning Path**: Integrates hands-on projects, interview prep, and real-world deployment workflows, targeting AI application development roles.
-- **Enterprise-Ready Toolkit**: Includes skills, RAG pipelines, and agent frameworks (e.g., DeepAgents) with Python-based implementations and updates as of July
+- **Comprehensive 2026 AI Agent Guide**: Covers end-to-end AI agent development, including LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, with enterprise-grade deployment and fine-tuning methodologies.
+
+- **Practical Learning Path**: Includes hands-on projects, interview question banks, and a structured roadmap aligned with AI application engineering roles, bridging theory to real-world deployment.
+
+- **Multi-Framework & Tool Integration**: Supports Python-based workflo
 
 ## Use Cases
 

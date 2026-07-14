@@ -3,20 +3,20 @@ title: LlamaParse Platform Quickstart | Developer Documentation
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://developers.llamaindex.ai/python/cloud/?utm_source=github&utm_medium=org_card
-published_at: '2026-07-14T13:03:30.794212+05:30'
-collected_at: '2026-07-14T13:03:30.794226+05:30'
+source_url: https://developers.llamaindex.ai/
+published_at: '2026-07-14T19:52:23.197911+05:30'
+collected_at: '2026-07-14T19:52:23.197925+05:30'
 tags:
 - agents
-- hackernews
 - meta-ai
 - models
 - web-crawled
+- workflows
 status: active
 resource_id: blog:llamaparse-platform-quickstart-developer-documenta
-first_seen: '2026-07-14T13:03:30.794226+05:30'
-last_seen: '2026-07-14T13:03:30.794226+05:30'
-last_checked: '2026-07-14T13:03:30.794226+05:30'
+first_seen: '2026-07-14T19:52:23.197925+05:30'
+last_seen: '2026-07-14T19:52:23.197925+05:30'
+last_checked: '2026-07-14T19:52:23.197925+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Layout-Aware OCR Engine**: Parse employs advanced OCR technology with layout awareness to process PDFs, scans, tables, and charts, ensuring accurate extraction of structured content.
-
-- **Multi-Format Output**: The tool converts extracted content into clean markdown, plain text, or JSON, enabling seamless integration with LLM pipelines.
-
-- **Agentic Processing**: Designed as an agentic parser, Parse autonomously handles complex document structures, optimizing OCR and extraction for downstream AI applications.
+- **Agentic Document Parser**: Parse is designed for LLM pipelines, offering layout-aware OCR to convert PDFs, scans, tables, and charts into structured markdown, text, or JSON.
+- **Layout-Aware Processing**: Extracts and preserves document structure (e.g., headings, tables, figures) for downstream LLM tasks.
+- **Multi-Format Output**: Supports clean markdown, plain text, or JSON output for seamless integration with AI workflows.
 
 ## Why It Matters
 
@@ -38,16 +36,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-14T13:03:30.794212+05:30
+- Published: 2026-07-14T19:52:23.197911+05:30
 
 ## Related Tags
 
 - agents
-- hackernews
 - meta-ai
 - models
 - web-crawled
+- workflows
 
 ## Source
 
-Original source: https://developers.llamaindex.ai/python/cloud/?utm_source=github&utm_medium=org_card
+Original source: https://developers.llamaindex.ai/

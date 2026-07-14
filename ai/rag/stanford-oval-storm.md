@@ -4,8 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stanford-oval/storm?source=post_page
-resource_id: github:stanford-oval/storm
------dba899ae0355---------------------------------------
+resource_id: github:stanford-oval/storm-6cdd3b18
+---
+--dba899ae0355---------------------------------------
 collected_at: '2026-07-10T04:20:21.065791+05:30'
 published_at: '2026-07-09T22:32:01Z'
 tags:

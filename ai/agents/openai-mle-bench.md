@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/openai/mle-bench
-collected_at: '2026-07-14T13:01:29.036519+05:30'
-published_at: '2026-07-14T07:15:52Z'
+collected_at: '2026-07-14T19:49:57.149208+05:30'
+published_at: '2026-07-14T11:24:19Z'
 tags:
 - agents
 - benchmark
@@ -13,7 +13,8 @@ tags:
 - hackernews
 - openai
 - python
-stars: 1622
+- workflows
+stars: 1624
 language: Python
 status: active
 license: NOASSERTION
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-10-08T17:07:40Z'
 pushed_at: '2026-04-24T17:33:44Z'
 resource_id: github:openai/mle-bench
-first_seen: '2026-07-14T13:01:29.036519+05:30'
-last_seen: '2026-07-14T13:01:29.036519+05:30'
-last_checked: '2026-07-14T13:01:29.036519+05:30'
+first_seen: '2026-07-14T19:49:57.149208+05:30'
+last_seen: '2026-07-14T19:49:57.149208+05:30'
+last_checked: '2026-07-14T19:49:57.149208+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Scope**: MLE-bench evaluates AI agents' proficiency in end-to-end machine learning engineering tasks, including data preprocessing, model training, hyperparameter tuning, and deployment.
+- **MLE-bench**: A benchmark suite designed to evaluate AI agents' proficiency in machine learning engineering tasks, including model training, debugging, and deployment workflows.
 
-- **Technical Implementation**: Implemented in Python, the benchmark provides standardized interfaces for agent interaction, with tasks designed to test practical ML engineering skills (e.g., reproducibility, efficiency, and correctness).
+- **Technical Scope**: Focuses on end-to-end ML engineering challenges, assessing agents' ability to handle Python-based workflows, tool integration, and problem-solving in real-world scenarios.
 
-- **Evaluation Metrics**: Performance is measured via automated scoring of agent-generated solutions, focusing on functional correctness, resource efficiency, and adherence to ML best practices.
+- **Repository Metrics**: 1,624 stars, 257 forks, last updated July 14, 2026, with no explicit topic tags.
 
 ## Why It Matters
 
@@ -44,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: openai
-- Stars: 1622
+- Stars: 1624
 - Forks: 257
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-14T07:15:52Z
+- Last Updated: 2026-07-14T11:24:19Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-10-08T17:07:40Z

@@ -15,6 +15,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-*   Python-based template for implementing retrieval agents.
-*   Leverages LangGraph for stateful, graph-based orchestration of LLM application logic.
-*   Provides a foundational structure for LangGraph-powered retrieval agent development.
+- **Purpose**: Template for building retrieval agents using LangGraph, a framework for constructing stateful, multi-actor applications with LLMs.
+- **Key Components**: Implements LangGraph for orchestration, likely leveraging Python-based workflows for agent-based retrieval tasks.
+- **Updates**: Last modified on **2026-07-14**, with **165 stars** and **51 forks**, indicating active community interest.
 
 ## Use Cases
 
