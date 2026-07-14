@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 56,087 files</p>
-        <p><b>Last Update:</b> 2026-07-14 09:25 IST</p>
+        <p><b>Last Update:</b> 2026-07-14 10:59 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,29 +210,22 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[alexfazio/crewAI-quickstart](ai/agents/alexfazio-crewai-quickstart.md)** • Rank: <kbd>+53</kbd>
-- 🔼 **[tonykipkemboi/trip_planner_agent](ai/rag/tonykipkemboi-trip-planner-agent.md)** • Rank: <kbd>+54</kbd>
-- 🔼 **[crewAIInc/crewAI-tools](ai/agents/crewaiinc-crewai-tools.md)** • Rank: <kbd>+57</kbd>
-- 🔼 **[strnad/CrewAI-Studio](ai/agents/strnad-crewai-studio.md)** • Rank: <kbd>+55</kbd>
-- 🔼 **[crewAIInc/awesome-crewai](ai/rag/crewaiinc-awesome-crewai.md)** • Rank: <kbd>+50</kbd>
+- 🔼 **[Create a YouTube channel - YouTube Help](ai/rag/create-a-youtube-channel-youtube-help.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Terms of Service](ai/rag/terms-of-service.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[LangChain Blog](ai/rag/langchain-blog.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Sign in - Google Accounts](ai/resources/sign-in-google-accounts.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Agents - Docs by LangChain](ai/agents/agents-docs-by-langchain.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](ai/community/apple-s-new-speechanalyzer-api-benchmarked-against.md)** • Score: `485`
-- 🆕 **[Telegram's t.me domain has been suspended](ai/community/telegram-s-t-me-domain-has-been-suspended.md)** • Score: `278`
-- 🆕 **[Show HN: Jacquard, a programming language for AI-written, human-reviewed code](ai/community/jbwinters-jacquard-lang.md)** • Score: `60`
-- 🆕 **[Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder](ai/community/show-hn-sx-2-0-share-ai-skills-with-your-team-thro.md)** • Score: `22`
-- 🆕 **[Building Food Metadata with LLM Juries](ai/community/building-food-metadata-with-llm-juries.md)** • Score: `17`
+- 🆕 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[I love LLMs, I hate hype](ai/community/i-love-llms-i-hate-hype.md)**
-- 💤 **[Ask HN: Add flag for AI-generated articles](ai/community/ask-hn-add-flag-for-ai-generated-articles.md)**
-- 💤 **[Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper](ai/community/migrating-a-production-ai-agent-to-gpt-5-6-2-2x-fa.md)**
-- 💤 **[I Learned to Read Again](ai/community/i-learned-to-read-again.md)**
-- 💤 **[Against Usefulness](ai/community/against-usefulness.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
