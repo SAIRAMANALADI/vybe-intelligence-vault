@@ -1,0 +1,238 @@
+name: Harvest Public Vault Core
+
+on:
+  schedule:
+    - cron: "17 */12 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Run mode"
+        required: false
+        default: "normal"
+        type: choice
+        options:
+          - normal
+          - dry-run
+          - health-only
+
+concurrency:
+  group: vault-harvest-core
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    env:
+      TZ: "Asia/Kolkata"
+      CI: "true"
+      RUNNING_IN_GITHUB_ACTIONS: "true"
+      PUBLIC_VAULT_MODE: "true"
+      PUBLIC_PUSH_REQUIRE_SAFETY_SCAN: "true"
+      DISCOVERY_ENABLED: "true"
+      DISCOVERY_MODE: "wide_net"
+      ENABLE_DAEMON_SYNC: "false"
+      DEFAULT_POLL_INTERVAL_MINUTES: 180
+      LOCAL_VAULT_PATH: "./vault"
+      VAULT_BRANCH: "main"
+      RUN_MODE: ${{ github.event.inputs.mode || 'normal' }}
+      COMMIT_AUTHOR_NAME: "sairaman436"
+      COMMIT_AUTHOR_EMAIL: ${{ secrets.COMMIT_AUTHOR_EMAIL }}
+      
+      # Secrets mappings (Uses the Vault's built-in GITHUB_TOKEN for vault pushes)
+      GITHUB_TOKEN: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+      VAULT_GITHUB_TOKEN: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+      PUBLIC_VAULT_REPO_URL: "https://github.com/${{ github.repository }}.git"
+      PUBLIC_VAULT_REPO_NAME: "${{ github.event.repository.name }}"
+      
+      # Optional API keys
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+      GOOGLE_SEARCH_API_KEY: ${{ secrets.GOOGLE_SEARCH_API_KEY }}
+      GOOGLE_SEARCH_ENGINE_ID: ${{ secrets.GOOGLE_SEARCH_ENGINE_ID }}
+      BRAVE_SEARCH_API_KEY: ${{ secrets.BRAVE_SEARCH_API_KEY }}
+      TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+      SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+      REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+      REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+      YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      PRODUCTHUNT_TOKEN: ${{ secrets.PRODUCTHUNT_TOKEN }}
+      SEMANTIC_SCHOLAR_API_KEY: ${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}
+      HUGGINGFACE_API_TOKEN: ${{ secrets.HUGGINGFACE_API_TOKEN }}
+      OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+      OPENROUTER_MODEL: ${{ secrets.OPENROUTER_MODEL }}
+      COLAB_ENDPOINT_URL: ${{ secrets.COLAB_ENDPOINT_URL }}
+
+    steps:
+      - name: Checkout private engine repository
+        uses: actions/checkout@v4
+        with:
+          repository: sairaman436/vybe-intelligence-engine
+          token: ${{ secrets.ENGINE_GITHUB_TOKEN }}
+          path: .
+
+      - name: Checkout public vault repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          path: vault
+          fetch-depth: 0
+
+      - name: Log workflow start metadata
+        run: |
+          echo "=================================================="
+          echo "WORKFLOW STARTED (RUNNING IN PUBLIC VAULT REPO)"
+          echo "Trigger Type: ${{ github.event_name }}"
+          echo "Run Mode: $RUN_MODE"
+          echo "Repository: ${{ github.repository }}"
+          echo "Branch: ${{ github.ref_name }}"
+          echo "Python Version: 3.11"
+          echo "CI Mode: $CI"
+          echo "Vault Path: $LOCAL_VAULT_PATH"
+          echo "Public Vault Repo Name: $PUBLIC_VAULT_REPO_NAME"
+          echo "Timezone (TZ): $TZ"
+          echo "System Timezone: \$(date +%Z)"
+          echo "Current IST Time: \$(date)"
+          
+          # Secrets check
+          if [ -n "$VAULT_GITHUB_TOKEN" ]; then
+            echo "Secret VAULT_GITHUB_TOKEN: PRESENT"
+          else
+            echo "Secret VAULT_GITHUB_TOKEN: MISSING"
+          fi
+          
+          # Command to be run
+          if [ "$RUN_MODE" = "health-only" ]; then
+            echo "Harvest Command: None (health-only)"
+          elif [ "$RUN_MODE" = "dry-run" ]; then
+            echo "Harvest Command: python scripts/run_once.py --wide-net"
+          else
+            echo "Harvest Command: python scripts/run_once.py --wide-net --sync"
+          fi
+          echo "=================================================="
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Initialize workflow status tracker
+        run: |
+          python scripts/github_actions_run_tracker.py --start \
+            --run-id "${{ github.run_id }}" \
+            --run-number "${{ github.run_number }}" \
+            --event-name "${{ github.event_name }}" \
+            --mode "$RUN_MODE"
+
+      - name: Configure Git identity
+        run: |
+          git config --global user.name "$COMMIT_AUTHOR_NAME"
+          git config --global user.email "$COMMIT_AUTHOR_EMAIL"
+
+      - name: Run system health diagnostics
+        run: python scripts/health_check.py
+
+      - name: Pre-flight check HuggingFace connectivity
+        run: |
+          curl -sS -H "Authorization: Bearer $HUGGINGFACE_API_TOKEN" https://router.huggingface.co/v1/models --max-time 10 || echo "HF unreachable"
+
+      - name: Run harvester ingestion cycle
+        if: env.RUN_MODE != 'health-only'
+        run: |
+          if [ "$RUN_MODE" = "dry-run" ]; then
+            python scripts/run_once.py --wide-net
+          else
+            python scripts/run_once.py --wide-net --sync
+          fi
+
+      - name: Report vault sync status
+        if: always()
+        run: |
+          if [ -f scripts/sync_status.py ]; then
+            python scripts/sync_status.py
+          fi
+
+      - name: Validate Git Commit and Contribution Telemetry
+        if: always()
+        run: |
+          echo "=================================================="
+          echo "  GIT CONTRIBUTION ATTR & COMMIT VALIDATION LOGS"
+          echo "=================================================="
+          
+          # Check branch and author details
+          if [ -d ./vault ]; then
+            cd ./vault
+            echo "Current Vault Branch: $(git branch --show-current)"
+            echo "Git Author:           $(git log -1 --format='%an' 2>/dev/null || echo 'No commits yet')"
+            echo "Git Email:            $(git log -1 --format='%ae' 2>/dev/null || echo 'No commits yet')"
+            echo "Latest Commit SHA:    $(git log -1 --format='%H' 2>/dev/null || echo 'N/A')"
+            cd ..
+          else
+            echo "Vault directory not found."
+          fi
+          
+          # Print files modified, commit, and push status from status.json
+          if [ -f status.json ]; then
+            echo "--------------------------------------------------"
+            echo "Ingestion status.json metrics:"
+            echo "--------------------------------------------------"
+            cat status.json
+            echo "--------------------------------------------------"
+            
+            COMMIT_CREATED=$(python -c "import json; print(json.load(open('status.json')).get('commit_created'))")
+            PUSH_SUCCESSFUL=$(python -c "import json; print(json.load(open('status.json')).get('push_successful'))")
+            FILES_MODIFIED=$(python -c "import json; print(json.load(open('status.json')).get('files_modified'))")
+            
+            echo "Number of files changed: $FILES_MODIFIED"
+            echo "Whether files changed:   $([ \"$FILES_MODIFIED\" -gt 0 ] && echo 'Yes' || echo 'No')"
+            echo "Whether commit created:  $COMMIT_CREATED"
+            echo "Whether push succeeded:  $PUSH_SUCCESSFUL"
+          else
+            echo "status.json not found. Run did not finish successfully."
+          fi
+          
+          echo ""
+          echo "=================================================="
+          echo "  CONTRIBUTION GRAPH DIAGNOSTICS & VERIFICATION"
+          echo "=================================================="
+          echo "To verify why a scheduled commit might not count toward the contribution graph:"
+          echo "1. Verify the Git Email is listed & verified in your GitHub account (Settings > Emails)."
+          echo "   Active Email: $COMMIT_AUTHOR_EMAIL"
+          echo "2. Ensure you are pushing to the default branch (usually 'main')."
+          echo "3. If this repository is private, verify that 'Private contributions' is checked in your profile settings."
+          echo "4. GitHub does not count contributions made to forks unless they are part of a merged pull request."
+          echo "5. Commits with no changed files (duplicate runs) will be skipped by the sync manager to avoid spam."
+          echo "=================================================="
+
+      - name: Update workflow status tracker and print end logs
+        if: always()
+        run: |
+          python scripts/github_actions_run_tracker.py --end --status "${{ job.status }}"
+          
+          echo "=================================================="
+          echo "WORKFLOW FINISHED"
+          echo "Final Status: ${{ job.status }}"
+          echo "=================================================="
+
+      - name: Upload harvest status artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: harvest-status
+          path: |
+            logs/
+            state/last_github_actions_run.json
+            state/last_sync_status.json
+            state/last_cycle_status.json
+            status.json
+            status/validation_report.md
+            vault/status/validation_report.md
+          if-no-files-found: warn
