@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T01:22:20.849160+05:30",
+  "generated_at": "2026-07-15T01:39:59.098110+05:30",
   "trending_resources": [
     {
       "id": "hackernews:australian-energy-retailers-must-provide-three-hou",
@@ -337,6 +337,19 @@
       "source_type": "company_blog",
       "url": "https://anthropic.com/news/claude-for-teachers",
       "file_path": "ai/companies/anthropic/jul-14-2026productintroducing-claude-for-teachers.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:broken-link",
+      "title": "[BROKEN LINK] - ",
+      "category": "",
+      "source_type": "",
+      "url": "",
+      "file_path": ".github/ISSUE_TEMPLATE/broken-link.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,

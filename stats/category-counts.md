@@ -12,13 +12,13 @@ Below is the file distribution across the vault categories.
 | `ai/companies/deepmind/` | 5 |
 | `ai/companies/mistral/` | 10 |
 | `ai/companies/openai/` | 4 |
-| `ai/models/` | 798 |
-| `ai/rag/` | 3734 |
+| `ai/models/` | 797 |
+| `ai/rag/` | 3735 |
 | `ai/releases/` | 3 |
-| `ai/research/` | 4088 |
+| `ai/research/` | 4089 |
 | `ai/resources/` | 1287 |
 | `ai/trending/` | 6 |
-| `web-development/` | 41 |
+| `web-development/` | 40 |
 | `web-development/community/` | 1 |
 | `web-development/dashboards/` | 1 |
 | `web-development/framer-motion/` | 25 |

@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-15T01:22:20.849160+05:30`
+Generated at: `2026-07-15T01:39:59.098110+05:30`
 
 ## Executive Summary
 
@@ -14,6 +14,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **The largest available Minecraft world, totalling 15 TB** - Score: `43` in category `ai/community` ([Link](https://2b2t.place/1million)) ([File](../ai/community/the-largest-available-minecraft-world-totalling-15.md))
 - **Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations** - Score: `23` in category `ai/community` ([Link](https://agnost.ai)) ([File](../ai/community/launch-hn-agnost-ai-yc-s26-extract-user-feedback-f.md))
 - **Jul 14, 2026ProductIntroducing Claude for Teachers** - Score: `0` in category `ai/companies/anthropic` ([Link](https://anthropic.com/news/claude-for-teachers)) ([File](../ai/companies/anthropic/jul-14-2026productintroducing-claude-for-teachers.md))
+- **[BROKEN LINK] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/broken-link.md))
 
 ## Top Trending Resources
 
