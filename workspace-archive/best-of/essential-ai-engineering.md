@@ -13,10 +13,10 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`deepset-ai-haystack.md`](../../ai/rag/deepset-ai-haystack.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent)
-- **Category**: `ai/agents` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`ghuntley-how-to-build-a-coding-agent.md`](../../ai/agents/ghuntley-how-to-build-a-coding-agent.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
+### [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`quivrhq-quivr.md`](../../ai/rag/quivrhq-quivr.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
 - **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-14 09:25 IST*
+*Last updated: 2026-07-14 13:15 IST*

@@ -8,14 +8,14 @@ local_vault_path: ai/agents/nvidia-ai-blueprints-aiq.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
 - python
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # NVIDIA-AI-Blueprints/aiq
@@ -24,15 +24,17 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-*   Open reference blueprint for intelligent AI agents for enterprise data integration.
-*   Facilitates reasoning via state-of-the-art models on connected enterprise data.
-*   Designed to deliver trusted business insights through AI-driven analysis.
+- **Enterprise Data Integration**: Demonstrates building AI agents that securely connect to enterprise data sources for real-time access and processing.
+
+- **Multi-Model Reasoning**: Utilizes state-of-the-art NVIDIA AI models (e.g., LLMs, vision, or speech) for contextual reasoning and decision-making.
+
+- **Trusted Insights Pipeline**: Implements a framework for validating, auditing, and delivering business insights with explainability and compliance controls.
 
 ## Use Cases
 

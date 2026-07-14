@@ -6,7 +6,7 @@ source_url: https://firebase.google.com
 resource_id: blog:firebase-google-s-mobile-and-web-app-development-p
 local_vault_path: ai/rag/firebase-google-s-mobile-and-web-app-development-p.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified Backend Platform**: Firebase provides a suite of managed services (e.g., Firestore, Realtime Database, Authentication, Cloud Functions) for building, scaling, and securing AI-powered applications globally with Google Cloud integration.
+- **Cross-platform SDKs**: Firebase provides unified SDKs for iOS, Android, Web, Flutter, Unity, and C++, enabling seamless app development across multiple platforms with shared backend infrastructure.
 
-- **AI & Generative AI Integration**: Supports Firebase AI Logic, Agent Skills, and third-party AI tools (e.g., Gemini) for embedding generative AI workflows, including real-time data processing and AI-driven logic.
+- **AI/ML Integration**: Supports generative AI workflows via **Firebase AI Logic** and **Agent Skills**, enabling AI-powered app features, while integrating with Google’s Gemini and Vertex AI for advanced ML capabilities.
 
-- **Cross-Platform Extensibility**
+- **Backend Services & Extensions**: Offers managed backend services (Fir
 
 ## Use Cases
 

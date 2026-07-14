@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-domain technical repository** containing open-source implementations for web design, knowledge retrieval (RAG), and image generation (GPT-Image-2) workflows.
-- **Agent-based architecture** leveraging tools like Claude for automation, with CSS as the primary styling language for frontend components.
-- **Actively maintained** (last update: 2026-07-09) with 9.3K+ stars and 1.2K+ forks, indicating strong community adoption in AI-driven development.
+- **Multi-domain technical repository** combining web design (CSS), knowledge retrieval (RAG), and image generation (GPT-Image-2) with agent-based automation workflows.
+- **Highly modular structure** leveraging modern AI tools (Claude, GPT variants) for end-to-end skill development and deployment pipelines.
+- **Actively maintained** (last updated July 2026) with 9.49k stars and 1.26k forks, indicating strong community adoption and collaborative contributions.
 
 ## Use Cases
 

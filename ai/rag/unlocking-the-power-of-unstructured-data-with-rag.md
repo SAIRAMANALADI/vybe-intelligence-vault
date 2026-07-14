@@ -4,19 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag/
-published_at: '2026-07-10T13:18:52.790688+05:30'
-collected_at: '2026-07-10T13:18:52.790703+05:30'
+published_at: '2026-07-14T12:58:37.231172+05:30'
+collected_at: '2026-07-14T12:58:37.231186+05:30'
 tags:
+- hackernews
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:unlocking-the-power-of-unstructured-data-with-rag
-first_seen: '2026-07-10T13:18:52.790703+05:30'
-last_seen: '2026-07-10T13:18:52.790703+05:30'
-last_checked: '2026-07-10T13:18:52.790703+05:30'
+first_seen: '2026-07-14T12:58:37.231186+05:30'
+last_seen: '2026-07-14T12:58:37.231186+05:30'
+last_checked: '2026-07-14T12:58:37.231186+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub CLI 2.0+**: Introduces `gh repo clone` and `gh repo create` commands with enhanced scripting capabilities and improved API integration for repository management.
-- **GitHub Actions Updates**: Supports dynamic workflows via `workflow_dispatch` events and enables matrix-based job strategies for multi-OS/architecture builds.
-- **Security Enhancements**: Integrates Dependabot for automated dependency updates and enforces branch protection rules with required status checks.
+- **Author Profile**: Nicole Choi is a technical writer and developer advocate at GitHub, contributing to technical documentation and community engagement.
+- **GitHub Contributions**: Active contributor to GitHub’s official blog, focusing on developer tools, workflows, and platform updates.
+- **Social Presence**: Maintains a professional GitHub account ([@nicchoi29](https://github.com/nicchoi29)) and is associated with GitHub’s official communications.
 
 ## Why It Matters
 
@@ -36,13 +36,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-10T13:18:52.790688+05:30
+- Published: 2026-07-14T12:58:37.231172+05:30
 
 ## Related Tags
 
+- hackernews
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 

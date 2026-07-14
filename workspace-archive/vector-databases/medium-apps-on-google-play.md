@@ -8,7 +8,7 @@ local_vault_path: ai/rag/medium-apps-on-google-play.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: dataset
 importance: medium
 selection_reason:
 - Valuable developer reference
@@ -20,17 +20,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: dataset
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Platform**: Medium is a content-sharing platform offering long-form stories, articles, and audio versions, accessible across Android, iOS, and web, with features like highlighting, bookmarking, and personalized recommendations.
+- **Medium App Overview**: A Google Play Store application by Medium Corporation, rated **Teen** (Users Interact, In-App Purchases), with **10M+ downloads** and a **4.7-star rating** from 510K reviews. Offers ad-free long-form content, audio playback, and cross-device synchronization (smartphone, tablet, desktop).
 
-- **Monetization & Data**: Uses a freemium model with a $4.99/month or $49.99/year subscription for unlimited access; collects personal data (e.g., photos, location) but encrypts it in transit and allows deletion requests.
-
-- **Content & Ratings**: Hosts 10M+ downloa
+- **Core Features & Monetization**: Supports **highlighting, bookmarking, and personalized recommendations**; allows **publishing and monetization via the Medium Partner Program**. Su
 
 ## Use Cases
 

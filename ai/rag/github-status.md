@@ -3,9 +3,9 @@ title: GitHub Status
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.githubstatus.com
-published_at: '2026-07-13T09:41:07.901663+05:30'
-collected_at: '2026-07-13T09:41:07.901675+05:30'
+source_url: https://githubstatus.com
+published_at: '2026-07-14T13:08:14.350563+05:30'
+collected_at: '2026-07-14T13:08:14.350581+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-07-13T09:41:07.901675+05:30'
-last_seen: '2026-07-13T09:41:07.901675+05:30'
-last_checked: '2026-07-13T09:41:07.901675+05:30'
+first_seen: '2026-07-14T13:08:14.350581+05:30'
+last_seen: '2026-07-14T13:08:14.350581+05:30'
+last_checked: '2026-07-14T13:08:14.350581+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Incident on July 9, 2026**: GitHub Actions experienced delayed/failed job starts (03:29–13:39 UTC) due to unhealthy backend data service, affecting ~8% of workflow runs (>5 min delay) and ~2% failures; resolved after restoring replication system.
+- **GitHub Status Page**: Provides real-time operational status, incident reports, and historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days) via [githubstatus.com](https://githubstatus.com), including regional breakdowns (AU/EU/JP/US).
 
-- **Incident on July 7, 2026**: Actions and Codespaces REST APIs returned intermittent 500 errors (14:01–16:17 UTC), peaking at ~8% (Actions) and ~13% (Codespaces) requests; mitigated via rollback of a faulty change.
+- **Notification Subscriptions**: Supports multi-channel incident alerts (email, SMS, Slack, webhooks) with OTP verification, adhering to Atlassian/GitHub privacy policies and reCAPTCHA protection.
 
-- **Incident on July 2, 2026**: GitHub Pages deployments were queued/lagged (15:00–18:30 UTC) due to demand surge exceeding processing capacity; resolved by scaling deployment workers and storage.
+- **Recent Incidents**: Documented failures include Actions run delays (July 9, 2026, caused by backend data service issues) and REST API 500 errors for Actions/Codespaces (July 7, 2026, due to a faulty change rollout).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-13T09:41:07.901663+05:30
+- Published: 2026-07-14T13:08:14.350563+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.githubstatus.com
+Original source: https://githubstatus.com

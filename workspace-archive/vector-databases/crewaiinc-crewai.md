@@ -15,6 +15,7 @@ tags:
 - github-repo
 - python
 - rag
+- scripts
 - workflows
 selection_reason:
 - Useful for project building
@@ -32,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Role-Based Agent Orchestration**: CrewAI provides a Python framework for coordinating autonomous AI agents via role-playing, enabling structured collaboration through defined agent roles and task delegation.
+- **Role-Based Agent Orchestration**: CrewAI enables autonomous AI agents to collaborate via role assignment, task decomposition, and workflow management using Python.
 
-- **Collaborative Intelligence Engine**: Agents interact via a task-decomposition and execution pipeline, leveraging shared context and memory to solve multi-step problems in parallel or sequentially.
+- **Multi-Agent Coordination**: Supports parallel and sequential task execution with inter-agent communication, leveraging LLMs for dynamic decision-making.
 
-- **LLM Integration & Extensibility**: Built for seamless integration with large lang
+- **Extensible Python Framework**: Open-source toolkit (55K+ stars) for building AI agent systems with modular design, optimized for complex workflow automation.
 
 ## Use Cases
 

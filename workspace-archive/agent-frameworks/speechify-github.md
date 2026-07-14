@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
 - dataset
 - reddit
 - web-crawled
@@ -32,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Meta-Voicebox**: Speechify's implementation of Meta's generative AI speech model, enabling cross-task generalization with state-of-the-art performance.
-- **Speechify AI API SDKs**: Multi-language support (TypeScript, Python) for interfacing with Speechify's AI-powered text-to-speech and speech processing services.
-- **Open-source toolkits**: Includes `olmocr` (PDF linearization for LLM training) and `SpecForge` (speculative decoding model training/evaluation).
+- **Meta-Voicebox**: First generative AI model for speech enabling cross-task generalization with state-of-the-art performance (GitHub: [SpeechifyInc/Meta-voicebox](https://github.com/SpeechifyInc/Meta-voicebox)).
+
+- **Speechify AI API SDKs**: Provides TypeScript and Python SDKs for interacting with Speechify's AI services, including legacy and current implementations (e.g., [speechify-api-sdk-typescript](https://github.com/SpeechifyInc/speechify-api-sdk-typescript)).
+
+- **Toolchain for Document
 
 ## Use Cases
 

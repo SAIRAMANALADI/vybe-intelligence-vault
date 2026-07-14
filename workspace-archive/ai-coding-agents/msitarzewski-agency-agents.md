@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Agent Framework**: Repository implements a shell-based, extensible AI agency architecture with specialized agents (e.g., frontend developers, Reddit community managers) each designed with distinct personalities, workflows, and predefined deliverables.
+- **Multi-Agent AI Framework**: Implements a modular system of specialized agents (e.g., frontend, Reddit, whimsy injectors) with distinct roles, processes, and deliverables, orchestrated via Shell scripts.
 
-- **Scalable Agent Ecosystem**: Supports rapid agent deployment via shell scripts, enabling integration of diverse expert roles (e.g., whimsy injectors, reality checkers) with minimal overhead.
+- **Personality-Driven Agents**: Each agent is designed with unique behavioral traits and expertise, enabling dynamic interaction patterns and task execution tailored to specific use cases.
 
-- **Community-Driven Development**: A
+- **Scalable Shell-Based Architecture**: Entire system is built using Shell scripting for lightweight
 
 ## Use Cases
 

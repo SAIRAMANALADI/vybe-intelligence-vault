@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-*   Utilizes knowledge graphs for robust text generation.
-*   Employs semantic aggregation for contextual information synthesis.
-*   Implements hierarchical retrieval mechanisms for multi-granular data access.
+- **Semantic Aggregation**: Implements a knowledge-graph-based method for aggregating semantic relationships to enhance retrieval precision in RAG systems.
+- **Hierarchical Retrieval**: Introduces a multi-layered retrieval mechanism to dynamically select relevant subgraphs or nodes based on query complexity.
+- **Optimized Generation**: Leverages graph-augmented context to improve factual consistency and reduce hallucinations in generated outputs.
 
 ## Use Cases
 

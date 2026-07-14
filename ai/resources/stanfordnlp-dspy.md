@@ -4,23 +4,23 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stanfordnlp/dspy
-collected_at: '2026-06-25T20:48:39.016767+05:30'
-published_at: '2026-06-25T14:48:25Z'
+collected_at: '2026-07-14T13:03:09.078964+05:30'
+published_at: '2026-07-14T05:48:54Z'
 tags:
-- frontend_ui
 - github-repo
+- openai
 - python
-stars: 35387
+stars: 36109
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-01-09T21:01:51Z'
-pushed_at: '2026-06-18T16:57:05Z'
+pushed_at: '2026-07-14T03:33:02Z'
 resource_id: github:stanfordnlp/dspy
-first_seen: '2026-06-25T20:48:39.016767+05:30'
-last_seen: '2026-06-25T20:48:39.016767+05:30'
-last_checked: '2026-06-25T20:48:39.016767+05:30'
+first_seen: '2026-07-14T13:03:09.078964+05:30'
+last_seen: '2026-07-14T13:03:09.078964+05:30'
+last_checked: '2026-07-14T13:03:09.078964+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Programmatic LM Optimization**: DSPy introduces a framework that shifts from manual prompt engineering to programmatic optimization of language models, enabling automatic generation and tuning of prompts, instructions, and demonstrations for downstream tasks.
+- **Programmatic LM Optimization**: DSPy introduces a framework for programmatically structuring language model (LM) interactions, replacing ad-hoc prompting with modular, trainable pipelines (e.g., `Signature`, `Module`, `Predictor`) that optimize LM behavior via gradient-free optimization (e.g., `BootstrapFewShot`, `MIPRO`).
 
-- **Modular & Declarative API**: The framework provides a modular, declarative programming model where users define LM-based systems as *signatures* (input/output specifications) and *modules* (e.g., ChainOfThought, ReAct), abstracting away low-level prompt crafting.
+- **Compiler-Based Abstraction**: The framework compiles high-level programmatic instructions into optimized LM calls, enabling automatic prompt generation, parameter tuning, and task decomposition while abstracting low-level details (e.g., `dspy.compile()` transforms `Predictor` instances into executable pipelines).
 
-- **Compilation & Metrics-Driven Optimization**: DSPy compiles programs into optimized prompts using teleprompters (e.g., BootstrapFewShot, MIPRO) and evaluates performance via task-specific metrics, enabling end-to-end optimization of LM pipelines without manual intervention.
+- **Modular & Extensible Design**: DSPy supports custom modules, teleprompters (optimizers), and LM integrations (e.g., HuggingFace, OpenAI) via a unified API, with built-in support for few-shot learning, chain-of-thought, and adaptive retrieval strategies.
 
 ## Why It Matters
 
@@ -41,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: stanfordnlp
-- Stars: 35387
-- Forks: 3003
+- Stars: 36109
+- Forks: 3095
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-25T14:48:25Z
+- Last Updated: 2026-07-14T05:48:54Z
 - License: MIT
 - Archived: No
 - Created At: 2023-01-09T21:01:51Z
-- Pushed At: 2026-06-18T16:57:05Z
+- Pushed At: 2026-07-14T03:33:02Z
 
 ## Possible Use Cases
 

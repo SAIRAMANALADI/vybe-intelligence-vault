@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: A minimal starter template for CrewAI, a Python-based framework for multi-agent AI systems, with no additional documentation or features included.
-- **Metadata**: 7 stars, 4 forks, last updated on 2025-09-09, written in Python with no associated topics.
-- **Purpose**: Serves as a barebones foundation for users to extend with custom CrewAI agent configurations and workflows.
+- **Repository**: `muhammad-uzair-yasin/CrewAi_starter_template` – A starter template for **CrewAI** (a framework for orchestrating role-playing, autonomous AI agents) implemented in Python.
+- **Metadata**: 7 stars, 4 forks, last updated **2025-09-09**; no additional topics or description provided.
+- **Purpose**: Likely serves as a minimal boilerplate to initialize **CrewAI**-based agent workflows, though specifics are undocumented.
 
 ## Use Cases
 

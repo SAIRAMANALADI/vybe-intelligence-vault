@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-07-14T09:17:22.219713+05:30'
+collected_at: '2026-07-14T12:58:53.870563+05:30'
 published_at: '2026-07-13T17:15:05Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 1528
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-07-10T07:26:30Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-07-14T09:17:22.219713+05:30'
-last_seen: '2026-07-14T09:17:22.219713+05:30'
-last_checked: '2026-07-14T09:17:22.219713+05:30'
+first_seen: '2026-07-14T12:58:53.870563+05:30'
+last_seen: '2026-07-14T12:58:53.870563+05:30'
+last_checked: '2026-07-14T12:58:53.870563+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Full-stack AI Agent Template**: Pre-configured starter kit with FastAPI backend and Next.js frontend, integrating AI Agents, Retrieval-Augmented Generation (RAG), real-time streaming, authentication, and 20+ third-party integrations (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI).
+- **Full-stack AI Agent Template**: Pre-configured starter kit with FastAPI (backend) and Next.js (frontend), integrating AI Agents, RAG, streaming, authentication, and 20+ third-party integrations (e.g., CrewAI, LangChain, LangGraph).
 
-- **Tech Stack**: Python-based backend with FastAPI, PostgreSQL for data persistence, and a React/TypeScript frontend via Next.js; includes Docker for containerization, WebSocket support for real-time communication, and Pydantic models for data validation.
+- **Tech Stack**: Python-based backend with FastAPI, PostgreSQL, Pydantic (AI/deep variants), Dockerized deployment; frontend in React/TypeScript with Next.js, WebSocket support for real-time interactions.
 
-- **Key Features**: Out-of-the-box AI agent orchestration (multi-agent workflows), modular RAG pipelines, plug-and-play integrations (e.g., LLMs, APIs), and pre-built auth systems; optimized for rapid deployment of scalable AI applications.
+- **Key Features**: Out-of-the-box AI agent frameworks (CrewAI, LangChain, LangGraph), modular architecture, and extensive integrations (e.g., LLMs, auth, RAG) for rapid AI application development.
 
 ## Why It Matters
 

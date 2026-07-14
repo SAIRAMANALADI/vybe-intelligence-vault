@@ -4,25 +4,26 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NousResearch/hermes-agent
-collected_at: '2026-07-14T09:20:12.406803+05:30'
-published_at: '2026-07-14T03:42:25Z'
+collected_at: '2026-07-14T13:01:49.090256+05:30'
+published_at: '2026-07-14T07:31:06Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - openai
 - python
-stars: 214353
+- workflows
+stars: 214453
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-07-22T22:22:28Z'
-pushed_at: '2026-07-14T02:50:56Z'
+pushed_at: '2026-07-14T06:10:12Z'
 resource_id: github:nousresearch/hermes-agent
-first_seen: '2026-07-14T09:20:12.406803+05:30'
-last_seen: '2026-07-14T09:20:12.406803+05:30'
-last_checked: '2026-07-14T09:20:12.406803+05:30'
+first_seen: '2026-07-14T13:01:49.090256+05:30'
+last_seen: '2026-07-14T13:01:49.090256+05:30'
+last_checked: '2026-07-14T13:01:49.090256+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports Anthropic (Claude, Claude Code), OpenAI (ChatGPT, Codex), and other LLM APIs for dynamic agent interactions and tool execution.
-- **Modular Python Framework**: Extensible architecture with plugins (`clawdbot`, `moltbot`) for custom toolchains, state management, and adaptive agent behavior.
-- **Stateful, Evolving Agent**: Implements persistent memory and incremental learning to enable continuous improvement and personalized responses over time.
+- **Modular AI Agent Framework**: Open-source Python-based system designed for extensibility, supporting integration with multiple LLMs (e.g., Anthropic, OpenAI, Codex) and agentic workflows via tools like `claude-code` and `moltbot`.
+
+- **Dynamic Tool Orchestration**: Implements adaptive agent behavior through a plugin architecture, enabling real-time tool selection and execution based on task requirements and model capabilities.
+
+- **Scalable Multi-Agent Collaboration**: Facilitates parallelized agent interactions with built-in concurrency support, optimized for high-throughput tasks while maintaining state consistency via `hermes-agent` core.
 
 ## Why It Matters
 
@@ -41,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NousResearch
-- Stars: 214353
-- Forks: 39831
+- Stars: 214453
+- Forks: 39859
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw
-- Last Updated: 2026-07-14T03:42:25Z
+- Last Updated: 2026-07-14T07:31:06Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-22T22:22:28Z
-- Pushed At: 2026-07-14T02:50:56Z
+- Pushed At: 2026-07-14T06:10:12Z
 
 ## Possible Use Cases
 

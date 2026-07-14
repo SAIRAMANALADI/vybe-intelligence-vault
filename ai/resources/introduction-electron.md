@@ -3,17 +3,17 @@ title: Introduction | Electron
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://electronjs.org/docs/latest
-published_at: '2026-07-08T14:24:28.036609+05:30'
-collected_at: '2026-07-08T14:24:28.036624+05:30'
+source_url: https://www.electronjs.org/docs/latest
+published_at: '2026-07-14T13:06:06.998270+05:30'
+collected_at: '2026-07-14T13:06:06.998286+05:30'
 tags:
 - producthunt
 - web-crawled
 status: active
 resource_id: blog:introduction-electron
-first_seen: '2026-07-08T14:24:28.036624+05:30'
-last_seen: '2026-07-08T14:24:28.036624+05:30'
-last_checked: '2026-07-08T14:24:28.036624+05:30'
+first_seen: '2026-07-14T13:06:06.998286+05:30'
+last_seen: '2026-07-14T13:06:06.998286+05:30'
+last_checked: '2026-07-14T13:06:06.998286+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform desktop apps**: Electron combines Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based desktop app development for Windows, macOS, and Linux without native code requirements.
+- **Cross-platform desktop apps**: Electron embeds Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based cross-platform desktop applications without native development requirements.
 
-- **Core components**: Electron apps consist of a `main.js` (Node.js process managing app lifecycle), `preload.js` (bridge between renderer and Node.js APIs), and `index.html` (UI rendered via Chromium).
+- **Core components**: Electron apps consist of a main process (`main.js`) managing app lifecycle, a renderer process (`index.html`) for UI, and a preload script (`preload.js`) bridging Node.js APIs to the renderer securely.
 
-- **Development tools**: Electron Fiddle provides a sandboxed IDE for prototyping/testing APIs, with direct integration into official docs via "Open in Fiddle" buttons for seamless example execution.
+- **Documentation structure**: Official docs include tutorials, process models, best practices, examples, distribution guides, debugging/testing tools, and contribution guidelines for Electron development.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-08T14:24:28.036609+05:30
+- Published: 2026-07-14T13:06:06.998270+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://electronjs.org/docs/latest
+Original source: https://www.electronjs.org/docs/latest

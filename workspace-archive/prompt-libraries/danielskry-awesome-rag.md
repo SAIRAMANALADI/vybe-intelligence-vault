@@ -11,8 +11,8 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
-- hackernews
 - rag
 - unknown
 selection_reason:
@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: Comprehensive repository aggregating applications, tools, and frameworks for Retrieval-Augmented Generation (RAG) in Generative AI, covering LLMs, retrieval mechanisms, and hybrid architectures.
-- **Community-Driven**: Open-source project with 1.3K+ stars and 166 forks, actively maintained with the latest updates as of July 2026.
-- **Technical Focus**: Encompasses topics like large language models, vector databases, prompt engineering, and domain-specific RAG impleme
+- **Curated RAG Resources**: Aggregates cutting-edge Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI, spanning LLMs, vector databases, and evaluation methodologies.
+
+- **Community-Driven Maintenance**: Actively updated repository (last commit: 2026-07-14) with 1,306 stars and 172 forks, indicating robust community engagement and contributions.
+
+- **Multi-Topic Coverage**: Encompasses core RAG topics including large language models (LLMs), retrieval mecha
 
 ## Use Cases
 

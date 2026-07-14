@@ -16,8 +16,8 @@ tags:
 - producthunt
 - rag
 - reddit
-- scripts
 - web-crawled
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Managed Backend Services**: Firebase provides a suite of managed backend services (e.g., Firestore, Realtime Database, Authentication, Cloud Functions) for scalable app development, with built-in Google Cloud integration for AI-powered features and global scalability.
+- **Cross-platform SDKs**: Firebase provides unified SDKs for iOS, Android, Web, Flutter, Unity, and C++, enabling seamless app development across multiple platforms with shared backend infrastructure.
 
-- **AI & Generative Integration**: Supports AI logic (Firebase AI Logic) and integrates with Google’s generative AI (Gemini) via Agent Skills, enabling AI-driven app experiences (e.g., dynamic content, automation) with pre-bui
+- **AI/ML Integration**: Supports generative AI workflows via **Firebase AI Logic** and **Agent Skills**, enabling AI-powered app features, while integrating with Google’s Gemini and Vertex AI for advanced ML capabilities.
+
+- **Backend Services & Extensions**: Offers managed backend services (Fir
 
 ## Use Cases
 

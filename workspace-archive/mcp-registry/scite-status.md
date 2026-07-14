@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **System Status**: All scite.ai services (scite.ai, MCP, API) are fully operational with no reported issues.
-- **Monitoring**: Real-time system status updates available via [status.scite.ai](https://status.scite.ai/) and historical data via [history](https://status.scite.ai/history).
-- **Support**: Contact `customersupport@researchsolutions.com` for issues; subscribe to updates via provided link.
+- All scite.ai services (scite.ai, MCP, API) are fully operational with no reported issues.
+- System status is monitored and updated in real-time via [status.scite.ai](https://status.scite.ai/).
+- Historical status data and policies (privacy, terms) are accessible via provided links.
 
 ## Use Cases
 

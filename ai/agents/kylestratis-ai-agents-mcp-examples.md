@@ -4,12 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/kylestratis/ai_agents_mcp_examples
-collected_at: '2026-07-14T09:19:27.313002+05:30'
+collected_at: '2026-07-14T13:01:03.963175+05:30'
 published_at: '2026-05-17T13:34:42Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 stars: 55
 language: Python
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-04-26T13:16:14Z'
 pushed_at: '2026-07-13T21:35:26Z'
 resource_id: github:kylestratis/ai_agents_mcp_examples
-first_seen: '2026-07-14T09:19:27.313002+05:30'
-last_seen: '2026-07-14T09:19:27.313002+05:30'
-last_checked: '2026-07-14T09:19:27.313002+05:30'
+first_seen: '2026-07-14T13:01:03.963175+05:30'
+last_seen: '2026-07-14T13:01:03.963175+05:30'
+last_checked: '2026-07-14T13:01:03.963175+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository containing Python examples for AI agents using the Model Context Protocol (MCP), with 55 stars and 25 forks.
-- **Technical Focus**: Demonstrates practical implementations of AI agents interacting with MCP, though no explicit description or topics are provided.
-- **Last Activity**: Last updated on **May 17, 2026**, indicating recent or ongoing development.
+- **Repository**: `kylestratis/ai_agents_mcp_examples` – A Python-based collection of examples for AI agents using the Model Context Protocol (MCP).
+- **Stats**: 55 stars, 25 forks, last updated on **2026-05-17**.
+- **Purpose**: Demonstrates MCP integration with AI agents, though no explicit description is provided.
 
 ## Why It Matters
 

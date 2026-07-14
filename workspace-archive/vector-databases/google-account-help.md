@@ -30,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Google Account Security & Recovery**: Supports 2-Step Verification, Advanced Protection, and account recovery via recovery codes, phone numbers, or email; includes steps for compromised accounts and delayed recovery requests.
-- **Linked Apps & Data Sharing**: Enables OAuth-based "Sign in with Google" and third-party app integration with granular data access controls, Cross-Account Protection, and error code troubleshooting.
-- **Privacy & Inactive Account Management**: Provides tools for mana
+- **Google Account Security & Recovery**: Supports 2-Step Verification, Advanced Protection, and account recovery for compromised/hacked accounts, including delayed recovery requests and password reset mechanisms.
+
+- **Data Management & Privacy Controls**: Enables users to manage Web & App Activity, Timeline data, location settings, and linked third-party app permissions, with options to delete activity or entire accounts.
+
+- **Family & Cross-Account Features**: Provides tools for creating child
 
 ## Use Cases
 

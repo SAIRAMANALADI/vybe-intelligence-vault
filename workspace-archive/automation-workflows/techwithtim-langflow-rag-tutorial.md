@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (97 ⭐, 25 🍴) – No description, topics, or language metadata provided.
-- **Last Updated**: 2026-07-03T20:52:55Z – Indicates recent or future activity.
-- **Purpose**: Implied to be a tutorial for **Langflow**-based **Retrieval-Augmented Generation (RAG)** workflows, though specifics are unverified due to missing documentation.
+- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (97 ⭐, 25 🍴), last updated 2026-07-03.
+- **Language/Topics**: Unknown primary language; no listed topics.
+- **Content**: Unspecified, but inferred to cover Langflow and Retrieval-Augmented Generation (RAG) workflows.
 
 ## Use Cases
 

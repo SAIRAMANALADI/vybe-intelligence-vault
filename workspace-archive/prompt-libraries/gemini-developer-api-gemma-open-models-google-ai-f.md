@@ -8,10 +8,11 @@ local_vault_path: ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - agents
+- benchmark
 - deepmind
 - hackernews
 - models
@@ -22,7 +23,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Gemini Developer API | Gemma open models | Google AI for Developers
@@ -31,18 +32,16 @@ selection_reason:
 
 - Matched archive category: `Prompt Libraries`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Gemini API Integration**: Provides access to advanced AI models (Gemini, Imagen, Veo) via API for app integration, enabling rapid development with tools like Google AI Studio for prompt engineering and code generation.
-
-- **On-Device & Edge AI**: Supports deployment of lightweight models (e.g., **Gemini Nano**) across mobile, web, and embedded systems via **Google AI Edge**, ensuring low-latency, privacy-preserving inference without cloud dependency.
-
-- **Responsible AI & Code Assist**: Offe
+*   Provides API access to Google's frontier AI models (Gemini, Imagen, Veo, Gemini 3 Flash) for application integration and offers Google AI Studio for prompt engineering and model evaluation.
+*   Enables custom AI solutions with open models like Gemma, and supports on-device/edge ML deployment via Google AI Edge, including Gemini Nano for mobile/web platforms leveraging native APIs (e.g., Android, Chrome).
+*   Integrates Gemini into developer workflows across major IDEs (Android Studio, VS Cod
 
 ## Use Cases
 

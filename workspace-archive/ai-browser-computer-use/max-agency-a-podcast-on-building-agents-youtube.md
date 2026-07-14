@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
+- hackernews
 - web-crawled
 - youtube
 selection_reason:
@@ -30,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- YouTube is a subsidiary of Google LLC, operating under its corporate policies and privacy frameworks.
-- The platform provides APIs and developer tools via [Google's YouTube Developers](https://developers.google.com/youtube) for integration and customization.
-- YouTube's monetization and content policies are governed by its [Terms of Service](https://www.youtube.com/t/terms) and [Advertising Guidelines](https://www.youtube.com/ads/).
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, monetization (via YouTube Partners/Advertisers), and developer APIs (YouTube Data/Player APIs) for third-party integrations.
+
+- **Content & Policy Framework**: Operates under strict [Terms of Service](https://www.youtube.com/t/terms), [Privacy Policy](https://www.youtube.com/t/privacy), and [Community Guidelines](https://www.youtube.com/about/policies/), enforcing copyri
 
 ## Use Cases
 

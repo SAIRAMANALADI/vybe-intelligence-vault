@@ -13,7 +13,6 @@ importance: high
 tags:
 - github-repo
 - unknown
-- youtube
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -32,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Public Roadmap Repository**: GitHub's official public roadmap (`github/roadmap`) tracks upcoming features and improvements for GitHub and GitHub Enterprise.
-- **Metadata**: 8,782 stars, 1,677 forks; last updated on **2026-06-25T17:18:21Z**.
-- **Purpose**: Serves as a transparent communication channel for GitHub's development priorities and timelines.
+- **Public Roadmap Repository**: GitHub's official public roadmap (`github/roadmap`) tracks upcoming features and improvements for GitHub.com and GitHub Enterprise, providing transparency into development priorities and timelines.
+
+- **Collaborative Development**: The roadmap is open for community feedback via GitHub Issues, allowing users to propose, discuss, and vote on features, with updates reflecting ongoing engineering efforts.
+
+- **Regular Updates**: The repository is actively maintained,
 
 ## Use Cases
 

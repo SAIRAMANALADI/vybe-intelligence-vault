@@ -2,7 +2,7 @@
 title: Home page | Yarn
 archive_category: automation-workflows
 source_category: ai/resources
-source_url: https://yarnpkg.com
+source_url: https://yarnpkg.com/
 resource_id: blog:home-page-yarn
 local_vault_path: ai/resources/home-page-yarn.md
 quality_score: 70
@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Workspaces**: Yarn is the first package manager designed specifically for workspaces, enabling modular project decomposition into sub-components for efficient dependency management in both simple and monorepo projects.
-
-- **Stability & Reproducibility**: Yarn ensures deterministic installs, guaranteeing consistent behavior across environments and future versions, eliminating "works today, breaks tomorrow" scenarios.
-
-- **Plugin Architecture**: Yarn provides extensibility via a robust plugin
+- **Workspaces**: Yarn is the first package manager designed specifically for workspaces, enabling efficient management of multi-package repositories (monorepos) by splitting projects into sub-components.
+- **Stability**: Ensures reproducible builds with guaranteed consistent behavior across future versions, maintaining compatibility for all successful installs.
+- **Plugins & Innovation**: Provides extensible plugin architecture for custom workflows while actively challenging industry norms with
 
 ## Use Cases
 
@@ -45,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://yarnpkg.com
+Original source URL: https://yarnpkg.com/
 
 ## Local Vault File
 

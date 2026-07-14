@@ -14,7 +14,7 @@ Langfuse, Ollama, llama.cpp, vLLM, Phoenix.
 *   [incident-io - YouTube](https://www.youtube.com/@incident-io)
 *   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse?utm_source=clickhouse&utm_medium=website&utm_campaign=website-nav)
 *   [Sanjeev Arora](https://www.cs.princeton.edu/~arora)
-*   [The Linux Kernel documentation — The Linux Kernel documentation](https://docs.kernel.org/)
+*   [Web EDAA - YouTube](https://www.youtube.com/channel/UC5ZkoeB9RI3sODde6GBBNOg)
 
 ## Project Ideas
 *   Self-hosted Ollama server with custom evaluators verifying response quality.

@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-07-14T09:18:07.215637+05:30'
+collected_at: '2026-07-14T12:59:43.891916+05:30'
 published_at: '2026-07-12T00:21:39Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - python
 - rag
 stars: 460
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-07-14T09:18:07.215637+05:30'
-last_seen: '2026-07-14T09:18:07.215637+05:30'
-last_checked: '2026-07-14T09:18:07.215637+05:30'
+first_seen: '2026-07-14T12:59:43.891916+05:30'
+last_seen: '2026-07-14T12:59:43.891916+05:30'
+last_checked: '2026-07-14T12:59:43.891916+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: Provides a standardized evaluation framework for GraphRAG (Graph Retrieval-Augmented Generation) models, including datasets and metrics for assessing performance in graph-based RAG tasks.
-- **ICLR'26 Contribution**: Introduces a comprehensive analysis on the optimal use cases for GraphRAG, derived from empirical evaluations across diverse scenarios.
-- **Implementation**: Python-based repository with modular components for dataset generation, retrieval strategies, and model evaluation, supporting reproducibility and extensibility.
+- **Benchmark Suite**: Provides a standardized evaluation framework for Graph Retrieval-Augmented Generation (GraphRAG) models, including datasets and metrics for assessing performance in graph-based RAG tasks.
+
+- **Technical Scope**: Focuses on analyzing when and how to integrate graph structures into RAG pipelines, covering retrieval strategies, graph construction, and query optimization for enhanced contextual reasoning.
+
+- **Implementation**: Python-based repository with modular components for graph construction, retrieval, and evaluation, designed for extensibility and reproducibility in research settings.
 
 ## Why It Matters
 

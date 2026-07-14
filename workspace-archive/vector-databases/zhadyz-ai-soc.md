@@ -8,16 +8,15 @@ local_vault_path: ai/rag/zhadyz-ai-soc.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # zhadyz/AI_SOC
@@ -26,17 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Architecture**: Implements an AI-augmented SOC using LLMs (Foundation-Sec-8B) and multi-agent orchestration, integrating Wazuh for log analysis, TheHive for incident response, and RAG for contextual threat intelligence retrieval.
-
-- **Tech Stack**: Entirely Python-based, leveraging open-source security tools (Wazuh/TheHive) with a custom 8B-parameter LLM fine-tuned for security operations.
-
-- **Workflow**: Automates SOC tasks via agent-based orchestration, combining real-time log processing
+- **Architecture**: Implements an AI-augmented SOC using LLMs (Foundation-Sec-8B) and multi-agent orchestration for automated threat detection/response.
+- **Integration**: Combines Wazuh (SIEM), TheHive (SOAR), and RAG for contextual threat intelligence and incident management.
+- **Implementation**: Python-based framework for real-time security operations, last updated July 2026.
 
 ## Use Cases
 

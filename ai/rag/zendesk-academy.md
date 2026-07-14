@@ -3,13 +3,12 @@ title: Zendesk Academy
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://academy.zendesk.com
-published_at: '2026-06-22T15:31:54.266886+05:30'
-collected_at: '2026-06-22T15:31:54.266903+05:30'
+source_url: https://academy.zendesk.com/
+published_at: '2026-07-14T13:06:28.018700+05:30'
+collected_at: '2026-07-14T13:06:28.018717+05:30'
 tags:
 - agents
 - dataset
-- frontend_ui
 - hackernews
 - meta-ai
 - models
@@ -22,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:zendesk-academy
-first_seen: '2026-06-22T15:31:54.266903+05:30'
-last_seen: '2026-06-22T15:31:54.266903+05:30'
-last_checked: '2026-06-22T15:31:54.266903+05:30'
+first_seen: '2026-07-14T13:06:28.018717+05:30'
+last_seen: '2026-07-14T13:06:28.018717+05:30'
+last_checked: '2026-07-14T13:06:28.018717+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Zendesk Academy** provides role-specific training paths for **Admins** (automation, AI, configuration), **Agents** (ticketing, messaging, voice), **Analysts** (metrics, dashboards, forecasting), and **Developers** (API integration, custom apps).
+- **Zendesk Academy** provides role-specific training (Admin, Agent, Analyst, Developer) with certifications in AI agents, CX analytics, app development, and omnichannel support, validated via proctored exams (e.g., $199–$350, 30–120 min).
 
-- **Certifications** include **Zendesk Support Administrator Expert**, **Guide Specialist**, **Explore CX Analyst Expert**, **App Developer I Expert**, and **Omnichannel Agent Specialist**, with exam durations ranging from 30–120 minutes and costs between $199–$350.
+- **Technical courses** cover AI agent configuration (Level 2/3), workflow automation (triggers, SLA scheduling), and migration from Chat to Messaging, with durations ranging from 8 min to 2+ hours.
 
-- **Featured courses** cover **AI agent configuration**, **schedules/SLAs**, **triggers/automations**, **QA/WFM tools**, and **migration from Chat to Messaging**, with durations from 8 minutes to 2 hours.
+- **Community & resources** include the Zendesk Community forums, developer APIs, and localized content (DE/ES/JA/PT/FR), supporting integration, troubleshooting, and platform extensions.
 
 ## Why It Matters
 
@@ -46,13 +45,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:31:54.266886+05:30
+- Published: 2026-07-14T13:06:28.018700+05:30
 
 ## Related Tags
 
 - agents
 - dataset
-- frontend_ui
 - hackernews
 - meta-ai
 - models
@@ -66,4 +64,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://academy.zendesk.com
+Original source: https://academy.zendesk.com/

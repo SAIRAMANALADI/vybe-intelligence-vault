@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-07-14T09:17:52.225625+05:30'
+collected_at: '2026-07-14T12:59:28.892504+05:30'
 published_at: '2026-07-05T01:00:39Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
-- workflows
 stars: 95
 language: Python
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-07-14T09:17:52.225625+05:30'
-last_seen: '2026-07-14T09:17:52.225625+05:30'
-last_checked: '2026-07-14T09:17:52.225625+05:30'
+first_seen: '2026-07-14T12:59:28.892504+05:30'
+last_seen: '2026-07-14T12:59:28.892504+05:30'
+last_checked: '2026-07-14T12:59:28.892504+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with a focus on large model integration, including query reformulation, chunking strategies, and retrieval tuning for enhanced context relevance.
-
-- **Modular Python Implementation**: Provides a Python-based toolkit with components for document preprocessing, vector database integration (e.g., FAISS, Chroma), and LLM inference pipelines optimized for RAG workflows.
-
-- **Evaluation & Benchmarking**: Includes scripts for assessing RAG performance metrics (e.g., retrieval accuracy, generation quality) and compares baseline vs. optimized configurations using standardized datasets.
+- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices for large language models (LLMs), focusing on retrieval quality, prompt engineering, and generation efficiency.
+- **Python-Based Pipeline**: Provides a modular Python repository with components for document indexing, vector search, and LLM integration, optimized for production-grade RAG systems.
+- **Evaluation & Benchmarking**: Includes tools for assessing retrieval performance (e.g., precision/recall) and generation quality (e.g., hallucination metrics) to validate RAG improvements.
 
 ## Why It Matters
 

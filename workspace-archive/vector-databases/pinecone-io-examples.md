@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Contents**: Jupyter Notebooks demonstrating Pinecone vector database integration with AI/ML workflows, covering topics like RAG, semantic search, and vector search.
-- **Technical Stack**: Python-based notebooks leveraging Pinecone’s vector database for LLM applications, with examples in semantic search and vector similarity.
-- **Metadata**: 3,027 stars, 1,072 forks, last updated July 12, 2026; focuses on vector databases, LLMs, and AI-driven search workflows.
+- **Repository Overview**: Provides Jupyter Notebooks for hands-on experimentation with Pinecone vector databases, covering topics like RAG, semantic search, and vector search.
+- **Technical Stack**: Implemented in Python with Jupyter Notebooks, integrating AI/ML workflows for LLM applications.
+- **Metadata**: 3,027 stars, 1,072 forks, last updated July 12, 2026, with topics including vector databases, semantic search, and AI.
 
 ## Use Cases
 

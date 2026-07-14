@@ -4,15 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-07-13T09:37:58.705165+05:30'
-published_at: '2026-07-13T03:23:05Z'
+collected_at: '2026-07-14T13:01:09.000903+05:30'
+published_at: '2026-07-14T06:22:51Z'
 tags:
 - agents
 - github-repo
 - openai
 - python
+- scripts
 - workflows
-stars: 921
+stars: 923
 language: Python
 status: active
 license: MIT
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-07-13T09:37:58.705165+05:30'
-last_seen: '2026-07-13T09:37:58.705165+05:30'
-last_checked: '2026-07-13T09:37:58.705165+05:30'
+first_seen: '2026-07-14T13:01:09.000903+05:30'
+last_seen: '2026-07-14T13:01:09.000903+05:30'
+last_checked: '2026-07-14T13:01:09.000903+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based command execution for scalable AI agent development.
+- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
 
-- **CLI-Centric Best Practices**: Provides a Python-based framework for Codex CLI commands, skills, and hooks, optimizing multi-agent workflows with OpenAI’s Codex for Pakistan-specific developer use cases (e.g., localized context handling).
+- **Codex CLI Best Practices**: Provides a curated set of commands, skills, and hooks (e.g., `codex-cli-agents`, `codex-hooks`) to optimize AI agent interactions, enabling reproducible, scalable, and maintainable agentic workflows in Python.
 
-- **Performance Optimization**: Focuses on iterative refinement of Codex CLI agents via structured prompts, context management, and skill chaining to achieve deterministic outputs, reducing hallucinations in agentic workflows.
+- **Open-Source Contribution Framework**: Repository serves as a Pakistan-based open-source template for AI agent development, offering standardized practices for Codex CLI-based agentic engineering, context management, and skill orchestration.
 
 ## Why It Matters
 
@@ -43,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: shanraisshan
-- Stars: 921
+- Stars: 923
 - Forks: 60
 - Language: Python
 - Topics: agentic-ai, agentic-coding, agentic-engineering, agentic-workflow, ai, ai-agents, codex, codex-ai, codex-cli, codex-cli-agents, codex-cli-best-practices, codex-cli-commands, codex-cli-skills, codex-hooks, context-engineering, hooks, openai, pakistan, pakistani-developer, vibe-coding
-- Last Updated: 2026-07-13T03:23:05Z
+- Last Updated: 2026-07-14T06:22:51Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-27T07:37:49Z

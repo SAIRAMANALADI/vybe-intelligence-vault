@@ -6,7 +6,7 @@ source_url: https://github.com/msitarzewski/agency-agents
 resource_id: github:msitarzewski/agency-agents
 local_vault_path: ai/agents/msitarzewski-agency-agents.md
 quality_score: 70
-archive_score: 75
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -18,6 +18,7 @@ tags:
 - shell
 - workflows
 selection_reason:
+- Strong keyword match
 - Useful for project building
 ---
 
@@ -26,18 +27,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Modular AI Agent Framework**: Repository implements a shell-based, extensible AI agency architecture with specialized agents (e.g., frontend developers, Reddit community managers) each designed with distinct personalities, workflows, and predefined deliverables.
+- **Multi-Agent AI Framework**: Implements a modular system of specialized agents (e.g., frontend, Reddit, whimsy injectors) with distinct roles, processes, and deliverables, orchestrated via Shell scripts.
 
-- **Scalable Agent Ecosystem**: Supports rapid agent deployment via shell scripts, enabling integration of diverse expert roles (e.g., whimsy injectors, reality checkers) with minimal overhead.
+- **Personality-Driven Agents**: Each agent is designed with unique behavioral traits and expertise, enabling dynamic interaction patterns and task execution tailored to specific use cases.
 
-- **Community-Driven Development**: A
+- **Scalable Shell-Based Architecture**: Entire system is built using Shell scripting for lightweight
 
 ## Use Cases
 

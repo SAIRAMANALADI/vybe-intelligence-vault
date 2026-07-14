@@ -16,7 +16,6 @@ tags:
 - github-repo
 - rag
 - typescript
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous Financial Research Agent**: Dexter is a TypeScript-based autonomous agent designed to perform deep financial research, leveraging AI-driven data analysis and decision-making for market insights.
+- **Autonomous Financial Research Agent**: Dexter is a TypeScript-based autonomous agent designed for deep financial research, leveraging AI to autonomously analyze financial data, generate insights, and execute tasks without manual intervention.
 
-- **High Scalability & Modularity**: The repository emphasizes a modular architecture, enabling integration with diverse financial data sources (e.g., APIs, datasets) and customizable workflows for automated research pipelines.
+- **Modular Architecture**: The repository likely employs a modular design, enabling extensibility for integrating new financial data sources, APIs, or analytical tools while maintaining scalability for large datasets.
 
-- **Active Development & Community Engagement**: With 27K+ s
+- **Continuous Learning & Adapta
 
 ## Use Cases
 

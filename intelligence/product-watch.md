@@ -12,6 +12,7 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [Announcing Dart 3.9 | The Dart Blog](https://blog.dart.dev/announcing-dart-3-9-ba49e8f38298) | `mcp-registry/` | 70 |
 | [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) | `mcp-registry/` | 70 |
 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | `mcp-registry/` | 70 |
+| [Black Forest Labs · GitHub](https://github.com/black-forest-labs) | `mcp-registry/` | 70 |
 | [Scite Status](https://status.scite.ai) | `mcp-registry/` | 70 |
 | [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) | `mcp-registry/` | 70 |
 | [Zoom Privacy Statement | Zoom](https://zoom.us/privacy) | `mcp-registry/` | 70 |
@@ -23,6 +24,5 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [demcp/awesome-web3-mcp-servers](https://github.com/demcp/awesome-web3-mcp-servers) | `mcp-registry/` | 70 |
 | [riseandignite/mcp-shield](https://github.com/riseandignite/mcp-shield) | `mcp-registry/` | 70 |
 | [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) | `mcp-registry/` | 70 |
-| [AI Agent Benchmarks 2026: Who Leads SWE-bench & GAIA](https://codersera.com/blog/ai-agent-benchmarks-state-of-leaderboard-may-2026) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

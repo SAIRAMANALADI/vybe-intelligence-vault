@@ -8,7 +8,7 @@ local_vault_path: ai/agents/pguso-ai-agents-from-scratch.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -18,8 +18,9 @@ tags:
 - javascript
 - meta-ai
 - models
+- workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # pguso/ai-agents-from-scratch
@@ -28,17 +29,17 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Educational Repository**: Provides a hands-on tutorial to build AI agents from scratch using local LLMs, emphasizing transparency and eliminating "black boxes" in agent design.
+- **Educational Repository**: Demonstrates building AI agents from scratch using local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies, focusing on core concepts like function calling, memory management, and ReAct (Reasoning and Acting) patterns.
 
-- **Core Technical Focus**: Covers key AI agent concepts including function calling, memory management, and ReAct (Reasoning and Acting) patterns for agent decision-making.
+- **Technical Implementation**: Utilizes JavaScript/Node.js to construct agents with explicit control over agent behavior, enabling hands-on understanding of LLM-agent architectures without proprietary abstractions.
 
-- **Implementation Stack**: Uses JavaScript with `node-llama-cpp` for local LLM integration and React-based agent frameworks, updated as of July
+- **Key Features**:
 
 ## Use Cases
 

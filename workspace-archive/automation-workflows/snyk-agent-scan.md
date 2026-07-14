@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Security scanner designed to audit AI agents, MCP servers, and agent skills for vulnerabilities.
-- **Key Features**: Supports static and dynamic analysis of agent workflows, MCP protocol interactions, and skill integrations.
-- **Technical Stack**: Python-based, integrates with Snyk’s vulnerability database for real-time threat detection.
+- **Purpose**: Security scanner designed to audit AI agents, MCP servers, and agent skills for vulnerabilities and misconfigurations.
+- **Key Features**: Supports static and dynamic analysis, integrates with MCP (Model Context Protocol), and identifies risks in agent workflows.
+- **Technical Stack**: Implemented in Python, with compatibility for AI/ML pipelines and agent frameworks.
 
 ## Use Cases
 

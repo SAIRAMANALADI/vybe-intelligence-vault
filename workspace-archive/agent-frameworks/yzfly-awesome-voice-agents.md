@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - unknown
 selection_reason:
 - Useful for project building
@@ -30,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated list** of voice AI agent frameworks, tools, and best practices, covering **STT, TTS, VAD, voice cloning, conversion, recognition, synthesis, and real-time chat** integration.
-- **Repository metadata**: 35 stars, 17 forks, last updated **2026-07-08**, with topics including **agents, voice-assistant, and voice-activity-detection**.
-- **Primary focus**: Aggregation of resources for **voice agent development**, emphasizing **multi-modal interaction** and **real-time processing** capabili
+- **Curated list** of voice AI agent frameworks, tools, and best practices, covering STT, TTS, VAD, voice cloning, conversion, recognition, and synthesis.
+- **Topics** include realtime-chat, voice-agents, voice-assistant, and related voice processing technologies.
+- **Last updated** 2026-07-08T09:14:52Z, with 35 stars and 17 forks.
 
 ## Use Cases
 

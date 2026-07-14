@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Core Workflows**: Git is the foundational VCS for GitHub, enabling local version control; SSH provides secure remote access; repositories store and manage project files; pull requests facilitate collaborative code review and merging.
+- **Git Integration & Authentication**: GitHub relies on Git for version control and supports SSH for secure remote access, requiring proper setup (`git config`) and key management (`ssh-keygen`).
 
-- **Authentication & Security**: GitHub supports multiple authentication methods (passwords, tokens, SSH keys); secrets management and vulnerability scanning are enforced via CodeQL; supply chain security is maintained through dependency monitoring.
+- **Repository Workflow**: Core operations include creating/managing repositories (`gh repo create`), handling pull requests for collaborative code review (`gh pr`), and enforcing security via secrets scanning (`gh secret scan`).
 
-- *
+- **CI/CD & Security**: GitHub Actions enables automated pipelines (`wo
 
 ## Use Cases
 

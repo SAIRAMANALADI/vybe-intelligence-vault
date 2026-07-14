@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/jbwinters/jacquard-lang
 hn_url: https://news.ycombinator.com/item?id=48894630
-score: 60
+score: 80
 author: jbwinters
-comments_count: 31
+comments_count: 44
 published_at: '2026-07-13T21:26:02+05:30'
-collected_at: '2026-07-14T09:09:47.588754+05:30'
+collected_at: '2026-07-14T12:56:38.420761+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: github:jbwinters/jacquard-lang
 first_seen: '2026-07-14T09:09:47.588754+05:30'
-last_seen: '2026-07-14T09:09:47.588754+05:30'
-last_checked: '2026-07-14T09:09:47.588754+05:30'
+last_seen: '2026-07-14T12:56:38.420761+05:30'
+last_checked: '2026-07-14T12:56:38.420761+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by jbwinters. Score: 60, Comments: 31.
+Hacker News story by jbwinters. Score: 80, Comments: 44.
 Original Link: https://github.com/jbwinters/jacquard-lang
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: jbwinters
-- Score: 60 Upvotes
-- Comments: 31 Discussions
+- Score: 80 Upvotes
+- Comments: 44 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48894630
 - Original Article: https://github.com/jbwinters/jacquard-lang
 

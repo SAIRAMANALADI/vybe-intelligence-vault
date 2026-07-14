@@ -6,7 +6,7 @@ source_url: https://github.com/embeddings-benchmark/mteb
 resource_id: github:embeddings-benchmark/mteb
 local_vault_path: ai/rag/embeddings-benchmark-mteb.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -14,6 +14,7 @@ tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - leaderboard
 - python
 - rag
@@ -27,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across **15+ tasks** (e.g., retrieval, clustering, STS, reranking) in **multilingual** and **multimodal** settings, integrating **100+ datasets** to assess performance in diverse linguistic and modality-specific scenarios.
+- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across 8 tasks (e.g., retrieval, clustering, STS) and 112 datasets, supporting 15+ languages and multimodal inputs, enabling cross-lingual and cross-modal comparison of embedding models.
 
-- **Modular Python Framework**: Implements a **standardized API** for embedding models (e.g., Sentence-BERT, neural search) with **automated metrics** (e.g., Spearman correlation, NDCG) and **low-resource NLP
+- **Modular & Extensible Framework**: Python-based library with standardized APIs for task-specific evaluations, allowing seamless integration of new datasets, tasks, or embedding models while ensuring reproducibility via consistent metrics (e.
 
 ## Use Cases
 

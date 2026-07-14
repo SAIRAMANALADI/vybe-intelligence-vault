@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/creators
-published_at: '2026-07-09T21:12:05.006342+05:30'
-collected_at: '2026-07-09T21:12:05.006353+05:30'
+published_at: '2026-07-14T13:05:52.952904+05:30'
+collected_at: '2026-07-14T13:05:52.952920+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium-partner-program
-first_seen: '2026-07-09T21:12:05.006353+05:30'
-last_seen: '2026-07-09T21:12:05.006353+05:30'
-last_checked: '2026-07-09T21:12:05.006353+05:30'
+first_seen: '2026-07-14T13:05:52.952920+05:30'
+last_seen: '2026-07-14T13:05:52.952920+05:30'
+last_checked: '2026-07-14T13:05:52.952920+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Earnings Model**: Medium's Partner Program calculates writer earnings based on total views, read time (≥30s), and reader interactions (claps, highlights, replies, new follows), with additional bonuses for follower growth and Boosted content.
+- **Earnings Mechanism**: Medium’s Partner Program compensates writers based on member engagement metrics (30+ second read time, claps, highlights, replies, follows, and Boosted content), with payouts scaling with interaction depth and follower retention.
 
-- **Quality Incentives**: Long-form, engaging content is prioritized; earnings scale with read duration and positive interactions, discouraging clickbait.
+- **Quality Emphasis**: Prioritizes long-form, thoughtful content over clickbait, rewarding sustained reader engagement and community-building (e.g., follower bonuses for consistent interaction).
 
-- **Application & Support**: Writers apply via [Partner Program application](https://medium.com/partner-program-application), with earnings details in the [Partner Program Guide](https://help.medium.com/hc/en-us/articles/115011694187) and further queries handled via [Help Desk](https://help.medium.com/hc/en-us/requests/new).
+- **Calculation Framework**: Total earnings derive from weighted metrics (views, read duration, reader actions) via a proprietary algorithm, detailed in the [Partner Program Guide](https://help.medium.com/hc/en-us/articles/115011694187).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T21:12:05.006342+05:30
+- Published: 2026-07-14T13:05:52.952904+05:30
 
 ## Related Tags
 

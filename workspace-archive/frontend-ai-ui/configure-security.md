@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Default Deny Policy**: Hugo enforces a restrictive default security policy via allowlists, blocking `os/exec`, remote operations, and other high-risk features unless explicitly permitted; violations trigger detailed failure messages.
+- **Default Deny Policy**: Hugo enforces a default-deny security model via allowlists for `os/exec`, remote HTTP access, and environment variables, blocking operations not explicitly permitted (e.g., `text/html` content is denied by default).
 
-- **Granular Allowlists**: Security configuration includes regex-based allowlists for executable names (`exec.allow`), environment variables (`exec.osEnv`, `funcs.getenv`), HTTP methods/URLs (`http.methods`, `http.urls`), and Node.js permissions (`node.permissi
+- **Node.js Permissions**: New in v0.161.0, the `node.permissions` config restricts Node.js tools (e.g., TailwindCSS) via `--permission` flags, controlling file I/O (`allowRead`/`allowWrite`), child processes (`allowChildProcess`), and native addons (`allo
 
 ## Use Cases
 

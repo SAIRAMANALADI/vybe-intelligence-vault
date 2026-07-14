@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ksm26/Multi-AI-Agent-Systems-with-crewAI
-collected_at: '2026-07-13T09:39:43.788267+05:30'
+collected_at: '2026-07-14T13:02:54.049375+05:30'
 published_at: '2026-07-06T11:12:29Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-05-27T13:55:05Z'
 pushed_at: '2024-06-11T14:01:02Z'
 resource_id: github:ksm26/multi-ai-agent-systems-with-crewai
-first_seen: '2026-07-13T09:39:43.788267+05:30'
-last_seen: '2026-07-13T09:39:43.788267+05:30'
-last_checked: '2026-07-13T09:39:43.788267+05:30'
+first_seen: '2026-07-14T13:02:54.049375+05:30'
+last_seen: '2026-07-14T13:02:54.049375+05:30'
+last_checked: '2026-07-14T13:02:54.049375+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Orchestration**: Demonstrates specialized AI agent teams using the open-source `crewAI` library to automate complex, multi-step business workflows (e.g., financial analysis, event planning, customer support).
-- **Modular Design & Custom Tools**: Implements role-playing agents with custom tools for task automation, error handling, and natural language prompting, enabling tailored solutions like resume optimization and technical writing.
-- **Jupyter Notebook-Based Framework**: Provides a structured, interactive environment for designing agent cooperation, memory management, and workflow optimization, with examples in business process automation and AI-driven decision-making.
+- **Multi-Agent System Framework**: Demonstrates specialized AI agent teams using the open-source `crewAI` library to automate complex, multi-step business processes, including customer support, financial analysis, and event planning.
+
+- **Technical Implementation**: Focuses on role-playing, natural language prompting, and custom tool integration for task automation, with examples in Jupyter Notebooks for workflow optimization and error handling.
+
+- **Advanced Features**: Covers AI memory management, role tailoring (e.g., resume customization), and open-source AI workflows for business process automation and complex task management.
 
 ## Why It Matters
 

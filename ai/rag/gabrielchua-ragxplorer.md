@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-14T09:17:37.210866+05:30'
+collected_at: '2026-07-14T12:59:08.867573+05:30'
 published_at: '2026-07-11T01:18:26Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-14T09:17:37.210866+05:30'
-last_seen: '2026-07-14T09:17:37.210866+05:30'
-last_checked: '2026-07-14T09:17:37.210866+05:30'
+first_seen: '2026-07-14T12:59:08.867573+05:30'
+last_seen: '2026-07-14T12:59:08.867573+05:30'
+last_checked: '2026-07-14T12:59:08.867573+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for dynamic visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time debugging and performance assessment.
+- **Interactive RAG Visualization Tool**: Open-source Python-based Jupyter Notebook application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
 
-- **Streamlit-Powered UI**: Leverages Streamlit for an interactive web interface, facilitating user-friendly exploration of RAG components (e.g., retrieval quality, LLM interactions) with minimal setup overhead.
+- **Streamlit Integration**: Leverages Streamlit for a web-based UI, allowing users to dynamically analyze RAG components (e.g., retrieval quality, context relevance, and generation outputs) via interactive visualizations.
 
-- **Python-Centric Design**: Built in Python with dependencies on LLM frameworks (e.g., LangChain) and visualization libraries (e.g., Plotly), optimized for integration with existing RAG workflows and customizable for advanced use cases.
+- **Modular Design**: Supports customization for RAG workflows, including retrieval strategies, embedding models, and LLM backends, with extensibility via Python notebooks for research and debugging.
 
 ## Why It Matters
 

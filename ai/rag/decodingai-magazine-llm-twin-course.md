@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-07-14T09:17:52.278598+05:30'
+collected_at: '2026-07-14T12:59:28.920151+05:30'
 published_at: '2026-07-11T18:06:44Z'
 tags:
 - github-repo
 - python
 - rag
-- scripts
 stars: 4368
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-07-14T09:17:52.278598+05:30'
-last_seen: '2026-07-14T09:17:52.278598+05:30'
-last_checked: '2026-07-14T09:17:52.278598+05:30'
+first_seen: '2026-07-14T12:59:28.920151+05:30'
+last_seen: '2026-07-14T12:59:28.920151+05:30'
+last_checked: '2026-07-14T12:59:28.920151+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Course Structure**: Provides a hands-on, 12-lesson curriculum for building production-ready LLM and RAG systems using LLMOps best practices, including source code and Docker-based deployment.
+- **End-to-End LLM & RAG System**: Course provides hands-on guidance to build production-ready LLM and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including source code and 12 structured lessons.
 
-- **Tech Stack**: Integrates AWS, Pulumi (IaC), Bytewax (streaming), Qdrant (vector DB), Comet ML (experiment tracking), and Qwak (MLOps platform) for scalable generative AI pipelines.
+- **Tech Stack & Tools**: Utilizes Python-based infrastructure with AWS, Docker, Pulumi (IaC), Qdrant (vector DB), Bytewax (stream processing), Comet.ml (ML tracking), and Qwak (MLOps platform).
 
-- **Focus Areas**: Covers ML system design, infrastructure automation, and deployment strategies for LLMs/RAG, emphasizing reproducibility and scalability in production environments.
+- **ML System Design Focus**: Covers ML system design, MLOps, and infrastructure-as-code (IaC) for scalable, deployable generative AI solutions, with updates as of July 2026.
 
 ## Why It Matters
 

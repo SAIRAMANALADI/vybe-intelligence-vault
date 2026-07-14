@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **AI-Powered Content Enhancement**: Zendesk leverages generative AI (via OpenAI’s Enterprise GPT) to offer four content modification tools—**Expand**, **Simplify**, **Make more friendly**, and **Make more formal**—for help center articles and content blocks, enabling rapid content refinement without manual rewrites.
+- **AI-Powered Content Enhancement**: Zendesk integrates generative AI (via OpenAI’s Enterprise GPT) to expand, simplify, or adjust the tone of help center content, offering options like *Expand*, *Simplify*, *Make more friendly*, and *Make more formal* to align with brand voice and readability.
 
-- **Text Expansion Workflow**: Users can input concise bullet points or short notes, then apply the **Expand** tool to generate full paragraphs, with up to five AI-generated varia
+- **Text Expansion Workflow**: Users can input concise bullet points or short notes, then use the *Expand* tool to generate full paragraphs. The system allows up to five AI-generated variations per requ
 
 ## Use Cases
 

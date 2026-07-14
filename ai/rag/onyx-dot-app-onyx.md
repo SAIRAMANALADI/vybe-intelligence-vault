@@ -4,25 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/onyx
-collected_at: '2026-07-14T09:17:37.221680+05:30'
-published_at: '2026-07-14T03:43:49Z'
+collected_at: '2026-07-14T12:59:13.940096+05:30'
+published_at: '2026-07-14T07:18:50Z'
 tags:
 - frontend_ui
 - github-repo
 - openai
 - python
 - rag
-stars: 30862
+- workflows
+stars: 30865
 language: Python
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2023-04-27T06:04:01Z'
-pushed_at: '2026-07-14T03:45:36Z'
+pushed_at: '2026-07-14T06:21:22Z'
 resource_id: github:onyx-dot-app/onyx
-first_seen: '2026-07-14T09:17:37.221680+05:30'
-last_seen: '2026-07-14T09:17:37.221680+05:30'
-last_checked: '2026-07-14T09:17:37.221680+05:30'
+first_seen: '2026-07-14T12:59:13.940096+05:30'
+last_seen: '2026-07-14T12:59:13.940096+05:30'
+last_checked: '2026-07-14T12:59:13.940096+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Open-source AI chat platform (`onyx`) supporting integration with any Large Language Model (LLM), enabling cross-platform AI interactions without vendor lock-in.
+- **Modular AI Chat Platform**: Open-source Python-based system supporting integration with any LLM, featuring advanced chat UI, RAG (Retrieval-Augmented Generation), and vector search capabilities for enterprise-grade information retrieval.
 
-- **Advanced RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based search for enterprise-grade information retrieval, enhancing contextual accuracy in responses.
+- **Full-Stack Architecture**: Combines Next.js frontend with Python backend, enabling self-hosted deployment with support for hybrid search (semantic + keyword) and scalable enterprise search workflows.
 
-- **Next.js + Python Stack**: Hybrid architecture combining Next.js (frontend) with Python (backend), featuring self-hosting capabilities, modular chat UI, and Gen-AI tooling for scalable deployments.
+- **Extensible Features**: Includes built-in support for multi-modal inputs, customizable chat interfaces, and enterprise search pipelines with vector databases (e.g., FAISS, Pinecone) for low-latency, high-accuracy retrieval.
 
 ## Why It Matters
 
@@ -43,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: onyx-dot-app
-- Stars: 30862
-- Forks: 4246
+- Stars: 30865
+- Forks: 4249
 - Language: Python
 - Topics: ai, ai-chat, chatgpt, chatui, enterprise-search, gen-ai, information-retrieval, llm, llm-ui, nextjs, python, rag, self-hosted, vector-search
-- Last Updated: 2026-07-14T03:43:49Z
+- Last Updated: 2026-07-14T07:18:50Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-04-27T06:04:01Z
-- Pushed At: 2026-07-14T03:45:36Z
+- Pushed At: 2026-07-14T06:21:22Z
 
 ## Possible Use Cases
 

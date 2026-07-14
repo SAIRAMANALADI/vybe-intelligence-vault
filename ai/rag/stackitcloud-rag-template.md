@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stackitcloud/rag-template
-collected_at: '2026-07-14T09:17:27.244959+05:30'
+collected_at: '2026-07-14T12:58:58.940864+05:30'
 published_at: '2026-07-12T00:39:04Z'
 tags:
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
 - rag
-- workflows
 stars: 84
 language: Python
 status: active
@@ -22,9 +20,9 @@ archived: false
 created_at: '2025-01-16T12:14:53Z'
 pushed_at: '2026-07-12T01:29:39Z'
 resource_id: github:stackitcloud/rag-template
-first_seen: '2026-07-14T09:17:27.244959+05:30'
-last_seen: '2026-07-14T09:17:27.244959+05:30'
-last_checked: '2026-07-14T09:17:27.244959+05:30'
+first_seen: '2026-07-14T12:58:58.940864+05:30'
+last_seen: '2026-07-14T12:58:58.940864+05:30'
+last_checked: '2026-07-14T12:58:58.940864+05:30'
 health_score: 100
 ---
 
@@ -32,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a template for deploying AI chatbots and document management systems using **Retrieval-Augmented Generation (RAG)** with **vector search** and **FastAPI** for backend services.
-- **Key Components**: Integrates **Ollama** for LLM inference, **FastAPI** for REST endpoints, and supports **Docker** and **Kubernetes** for container orchestration, with a **vector database** for efficient document retrieval.
-- **Technical Stack**: Python-based, leveraging **STACKIT** infrastructure, optimized for **LLM** workflows, and designed for scalable deployment in cloud environments.
+- **Purpose**: Template for deploying AI chatbots and document management systems using Retrieval-Augmented Generation (RAG) with vector search capabilities and FastAPI backend.
+
+- **Key Components**: Integrates Python-based FastAPI, Ollama for LLM inference, and a vector database for semantic search; supports Docker and Kubernetes for deployment.
+
+- **Features**: Includes RAG-chatbot functionality, retrieval-augmented generation, and is optimized for STACKIT cloud infrastructure.
 
 ## Why It Matters
 

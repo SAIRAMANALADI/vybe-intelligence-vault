@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Repository**: Provides a starter template for building an agentic RAG (Retrieval-Augmented Generation) chatbot, designed for hackathons and educational purposes.
-- **Python-Based**: Entirely implemented in Python, leveraging modern AI/ML libraries for RAG pipelines and agentic workflows.
-- **GitHub Classroom Integration**: Structured for automated student/team assignments with version control and collaborative development tracking.
+- **Template Repository**: Provides a starter framework for building an agentic RAG (Retrieval-Augmented Generation) chatbot, designed for hackathon submissions.
+- **Python-Based**: Implements core functionality in Python, leveraging libraries for LLM integration, vector databases, and agent orchestration.
+- **GitHub Classroom Integration**: Structured for educational use, enabling automated assignment distribution and grading workflows for AI/ML hackathons.
 
 ## Use Cases
 

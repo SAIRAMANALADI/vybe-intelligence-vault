@@ -8,16 +8,17 @@ local_vault_path: ai/agents/braincrew-lab-langgraph-mcp-agents.md
 quality_score: 70
 archive_score: 81
 archive_tier: useful
-resource_kind: framework
+resource_kind: workflow
 importance: medium
 tags:
 - agents
 - frontend_ui
 - github-repo
 - python
+- workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # braincrew-lab/langgraph-mcp-agents
@@ -26,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `MCP Registry`
 - Quality score: 70 | Archive score: 81 (useful)
-- Resource kind: framework
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Architecture**: Implements a LangGraph-based ReAct (Reasoning and Acting) agent framework with Model Context Protocol (MCP) for tool integration, enabling dynamic agent configuration and deployment via a Streamlit web interface.
+- **LangGraph ReAct Agent**: Implements a ReAct (Reasoning and Acting) agent architecture using LangGraph for dynamic workflow orchestration, enabling iterative reasoning and tool-use cycles.
 
-- **Functionality**: Enables AI agents to interact with external data sources and APIs through MCP tools, facilitating real-time agent interaction and tool execution within a Python-based environment.
+- **MCP Integration**: Supports Model Context Protocol (MCP) for standardized tool discovery and execution, allowing agents to interact with external data sources and APIs through a unified interface.
 
-- **Deployment**: Provides a Streamlit-based UI for configuring,
+- **Streamlit UI**: Provides a web-based Streamlit interface for real-time configuration, deployment, and
 
 ## Use Cases
 

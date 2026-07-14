@@ -13,6 +13,7 @@ importance: high
 tags:
 - agents
 - github-repo
+- hackernews
 - mdx
 - models
 - openai
@@ -36,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Orchestration**: Enables building production-ready LLM applications via configurable pipelines and agent workflows, with explicit control over retrieval, routing, memory, and generation components.
+- **Modular AI Orchestration**: Framework for building production-ready LLM applications with explicit control over retrieval, routing, memory, and generation via modular pipelines and agent workflows.
 
-- **Multi-Use Case Support**: Designed for scalable agents, RAG, multimodal systems, semantic search, and conversational AI, leveraging transformers and PyTorch for advanced NLP tasks.
+- **Multi-Use Capabilities**: Supports scalable agents, RAG, multimodal applications, semantic search, and conversational systems with Python-based orchestration.
 
-- **Open-Source Framework**: Python-based, optimized for generative AI (e.g., GPT-4, Gemini) and inf
+- **Technical Stack**: Built with PyTorch and Transformers, optimized for generative AI (e.g., GPT-4, Gemini) and information retriev
 
 ## Use Cases
 

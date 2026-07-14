@@ -6,9 +6,9 @@ source_url: https://github.com/JoshuaC215/agent-service-toolkit
 resource_id: github:joshuac215/agent-service-toolkit
 local_vault_path: ai/agents/joshuac215-agent-service-toolkit.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: framework
+resource_kind: template
 importance: medium
 tags:
 - agents
@@ -25,19 +25,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **LangGraph-based Agent Framework**: Implements a modular agent service architecture using LangGraph for stateful, graph-based workflow orchestration with Python.
+- **LangGraph-based Agent Framework**: Implements a modular AI agent service architecture using LangGraph for stateful, multi-agent workflow orchestration with graph-based execution.
 
-- **Full-Stack Integration**: Combines FastAPI for RESTful backend services and Streamlit for interactive frontend UI, enabling end-to-end agent deployment.
+- **FastAPI + Streamlit Integration**: Provides a RESTful backend (FastAPI) for agent service endpoints and a frontend (Streamlit) for interactive agent management and visualization.
 
-- **Toolkit Components**: Provides pre-built tools for agent lifecycle management, including state persistence, tool registration, and real-time monitoring via a unified Python
+- **Toolkit Components**: Includes pre-built agent templates, tooling for agent deployment, and utilities for state management, tool
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-07-14T09:18:02.234461+05:30'
+collected_at: '2026-07-14T12:59:33.905028+05:30'
 published_at: '2026-07-12T12:42:50Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-07-14T09:18:02.234461+05:30'
-last_seen: '2026-07-14T09:18:02.234461+05:30'
-last_checked: '2026-07-14T09:18:02.234461+05:30'
+first_seen: '2026-07-14T12:59:33.905028+05:30'
+last_seen: '2026-07-14T12:59:33.905028+05:30'
+last_checked: '2026-07-14T12:59:33.905028+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates advanced techniques, frameworks, and papers on retrieval-augmented generation (RAG) for large language models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
+- **Curated RAG Resources**: Repository aggregates advanced techniques and research papers on retrieval-augmented generation (RAG) for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
 
-- **Technical Scope**: Focuses on cutting-edge RAG methodologies, including hybrid retrieval, multi-modal embeddings, and optimization techniques for enhancing LLM performance via external knowledge retrieval.
+- **Technical Scope**: Focuses on RAG-embeddings, retrieval-information optimization, and LLM-specific enhancements to improve factual accuracy, context relevance, and generative performance.
 
-- **Community-Driven**: Maintained list with 1,339+ stars and 86 forks, updated as of July 2026, serving as a dynamic reference for researchers and practitioners in LLM-RAG integration.
+- **Community & Updates**: Maintained collection with 1,339 stars and 86 forks, last updated July 2026, serving as a dynamic reference for state-of-the-art RAG advancements in LLMs.
 
 ## Why It Matters
 

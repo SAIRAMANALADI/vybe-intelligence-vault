@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-07-14T09:17:32.296259+05:30'
+collected_at: '2026-07-14T12:59:03.891953+05:30'
 published_at: '2026-07-13T23:50:19Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-06-09T09:55:55Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-07-14T09:17:32.296259+05:30'
-last_seen: '2026-07-14T09:17:32.296259+05:30'
-last_checked: '2026-07-14T09:17:32.296259+05:30'
+first_seen: '2026-07-14T12:59:03.891953+05:30'
+last_seen: '2026-07-14T12:59:03.891953+05:30'
+last_checked: '2026-07-14T12:59:03.891953+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG-Based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions with LLMs, leveraging external knowledge sources for contextual responses.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions with LLMs, leveraging vector embeddings and retrieval mechanisms for context-aware responses.
 
-- **Modular Python Framework**: Built in Python with extensible components for document ingestion, retrieval, and LLM integration, supporting customization for diverse use cases.
+- **Modular Python Framework**: Built with extensible components for document ingestion, embedding, retrieval, and LLM integration, supporting customization via configurable pipelines and APIs.
 
-- **Open-Source & Scalable**: Released under an open-source license, optimized for scalability with support for large document collections and high-throughput inference.
+- **Open-Source & Scalable**: Designed for deployment flexibility, with support for local/remote LLMs, multi-modal document processing, and scalable retrieval backends (e.g., FAISS, Chroma).
 
 ## Why It Matters
 

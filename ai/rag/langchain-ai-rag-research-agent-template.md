@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-07-14T09:17:22.279778+05:30'
+collected_at: '2026-07-14T12:58:53.946541+05:30'
 published_at: '2026-07-13T21:23:18Z'
 tags:
 - agents
 - github-repo
 - hackernews
-- openai
 - python
 - rag
-- workflows
 stars: 312
 language: Python
 status: active
@@ -22,9 +20,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-07-14T09:17:22.279778+05:30'
-last_seen: '2026-07-14T09:17:22.279778+05:30'
-last_checked: '2026-07-14T09:17:22.279778+05:30'
+first_seen: '2026-07-14T12:58:53.946541+05:30'
+last_seen: '2026-07-14T12:58:53.946541+05:30'
+last_checked: '2026-07-14T12:58:53.946541+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating rapid prototyping of AI-driven research workflows.
+- **Template Purpose**: Provides a structured starter template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating rapid prototyping of AI-driven document analysis and synthesis systems.
 
-- **Key Components**: Includes pre-configured modules for document ingestion, vector storage (e.g., Chroma/FAISS), LLM integration (e.g., LangChain's `ChatOpenAI`), and agent orchestration for research tasks.
+- **Key Components**: Includes pre-configured pipelines for document ingestion, embedding generation (e.g., with `sentence-transformers`), vector storage (e.g., Chroma or FAISS), and LLM integration (e.g., LangChain’s `LLMChain` or `RetrievalQA`).
 
-- **Technical Stack**: Python-based, leveraging LangChain's ecosystem (e.g., `langchain-core`, `langchain-community`) with modular design for extensibility and customization of RAG pipelines.
+- **Technical Stack**: Python-based, leveraging LangChain’s modular framework, with dependencies on libraries like `pydantic` for data validation, `unstructured` for document parsing, and optional GPU-accelerated embeddings (e.g., `sentence-transformers` with CUDA support).
 
 ## Why It Matters
 

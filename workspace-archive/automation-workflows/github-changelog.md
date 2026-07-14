@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- openai
 - web-crawled
 - workflows
 selection_reason:
@@ -32,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Model Integration**: OpenAI's GPT-5.6 variants (Sol, Terra, Luna) are now accessible via GitHub Copilot, expanding the AI-powered coding assistant's model options.
+- **GitHub Code Quality License Estimate (Public Preview)**: Introduces a new feature providing real-time license compliance estimates for code repositories, enabling proactive risk assessment for open-source dependencies.
 
-- **Enhanced Capabilities**: The new models (Sol, Terra, Luna) are optimized for improved code generation, debugging, and contextual understanding in GitHub Copilot workflows.
+- **Account Management Enhancements**: Updates include granular access controls and automated policy enforcement for user and organization-level permissions, improving security and compliance workflows.
 
-- **Deployment Timeline**: The update was rolled out on **July 9, 2026**, as part of GitHub's changelog for Copilot integrations.
+- **Application Security Integration**: New tools for static and dynamic
 
 ## Use Cases
 

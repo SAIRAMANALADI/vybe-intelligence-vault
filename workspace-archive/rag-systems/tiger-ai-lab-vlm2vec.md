@@ -6,9 +6,9 @@ source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
 resource_id: github:tiger-ai-lab/vlm2vec
 local_vault_path: ai/rag/tiger-ai-lab-vlm2vec.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
@@ -19,7 +19,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # TIGER-AI-Lab/VLM2Vec
@@ -27,19 +27,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **VLM2Vec Framework**: Implements three versions (ICLR 2025, TMLR 2026, COLM 2026) of a Visual Language Model (VLM)-based embedding framework (MMEB) for multimodal representation learning, evaluated across benchmark tasks including image, video, and visual document retrieval.
+- **Repository Overview**: Hosts code for three multimodal embedding benchmarks: VLM2Vec (ICLR 2025), VLM2Vec-V2 (TMLR 2026), and MMEB-V3 (COLM 2026), focusing on contrastive learning and representation learning for multimodal tasks.
 
-- **Contrastive Learning**: Utilizes contrastive learning techniques to align and optimize embeddings between visual and textual modalities, enabling zero-shot and fine-tuned performance on multimodal benchmarks.
+- **Technical Scope**: Implements benchmarks for image retrieval, video retrieval, visual document retrieval, and RAG (Retrieval-Augmented Generation) using Vision-Language Models (VLMs).
 
-- **Py
+- **Implementation Details**: Python-based repository supporting embedding e
 
 ## Use Cases
 

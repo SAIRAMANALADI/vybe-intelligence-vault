@@ -12,6 +12,7 @@ resource_kind: template
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
 - unknown
 selection_reason:
@@ -30,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Standardized Structure**: Provides a pre-defined folder architecture for Agentic AI App Hackathon submissions, ensuring consistency and reproducibility across teams.
+- **Pre-structured repository** for Agentic AI App Hackathon, enforcing standardized folder layout and submission templates to ensure consistency across teams.
 
-- **Reproducible Environment**: Includes a specification file (e.g., `environment.yml` or `requirements.txt`) to lock dependencies and ensure identical runtime conditions for all participants.
+- **Reproducible environment** via included `environment.yml` (Conda) or `requirements.txt` (pip) for dependency management, enabling seamless setup and execution.
 
-- **Documentation Placeholders**: Offers template files (e.g., `README.md`, `SOLUTION.md`) to guide teams in documenting methodology, r
+- **Documentation scaffolding** with placeholder files (`README.md`, `docs/`) to guide teams in structuring project descriptions, methodology, and evaluation metrics for judg
 
 ## Use Cases
 

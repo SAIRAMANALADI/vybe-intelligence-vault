@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.llamaindex.ai/en/stable/?utm_source=github&utm_medium=org_card
-published_at: '2026-07-08T01:52:18.534193+05:30'
-collected_at: '2026-07-08T01:52:18.534207+05:30'
+published_at: '2026-07-14T13:03:26.150303+05:30'
+collected_at: '2026-07-14T13:03:26.150320+05:30'
 tags:
 - meta-ai
 - models
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:welcome-to-llamaindex-developer-documentation
-first_seen: '2026-07-08T01:52:18.534207+05:30'
-last_seen: '2026-07-08T01:52:18.534207+05:30'
-last_checked: '2026-07-08T01:52:18.534207+05:30'
+first_seen: '2026-07-14T13:03:26.150320+05:30'
+last_seen: '2026-07-14T13:03:26.150320+05:30'
+last_checked: '2026-07-14T13:03:26.150320+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 - **Abstraction**: Simplifies complex systems by hiding lower-level details, enabling focus on high-level functionality.
 - **Modularity**: Divides systems into independent, interchangeable components for easier maintenance and scalability.
-- **Encapsulation**: Bundles data and methods within a single unit (e.g., class) while restricting direct access to internal state.
+- **Scalability**: Designs systems to handle increased load efficiently, often through horizontal or vertical expansion.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T01:52:18.534193+05:30
+- Published: 2026-07-14T13:03:26.150303+05:30
 
 ## Related Tags
 

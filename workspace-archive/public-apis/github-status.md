@@ -2,7 +2,7 @@
 title: GitHub Status
 archive_category: public-apis
 source_category: ai/rag
-source_url: https://www.githubstatus.com
+source_url: https://githubstatus.com
 resource_id: blog:github-status
 local_vault_path: ai/rag/github-status.md
 quality_score: 70
@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Incident on July 9, 2026**: GitHub Actions experienced delayed/failed job starts (03:29–13:39 UTC) due to unhealthy backend data service, affecting ~8% of workflow runs (>5 min delay) and ~2% failures; resolved after restoring replication system.
+- **GitHub Status Page**: Provides real-time operational status, incident reports, and historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days) via [githubstatus.com](https://githubstatus.com), including regional breakdowns (AU/EU/JP/US).
 
-- **Incident on July 7, 2026**: Actions and Codespaces REST APIs returned intermittent 500 errors (14:01–16:17 UTC), peaking at ~8% (Actions) and ~13% (Codespaces) requests; mitigated via rollback of a faulty change.
+- **Notification Subscriptions**: Supports multi-channel incident alerts (email, SMS, Slack, webhooks) with OTP verification, adhering to Atlassian/GitHub privacy policies and reCAPTCHA protection.
 
-- **Incident on July 2, 2026**
+- **Recent Incidents**: Documented fai
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.githubstatus.com
+Original source URL: https://githubstatus.com
 
 ## Local Vault File
 

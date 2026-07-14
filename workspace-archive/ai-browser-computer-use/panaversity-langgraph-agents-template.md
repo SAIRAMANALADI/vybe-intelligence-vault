@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Starter template for constructing multi-agent systems using LangGraph in Python.
-- **Key Features**: Provides foundational structure and utilities for agent orchestration and workflow management.
-- **Last Updated**: June 10, 2026.
+*   Python-based `langgraph` template for multi-agent system development.
+*   Provides a foundational structure for orchestrating complex agentic workflows.
+*   Designed to accelerate prototyping of interconnected AI agent systems.
 
 ## Use Cases
 

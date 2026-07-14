@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.zendesk.com/hc/en-us/articles/6267360002714-Using-generative-AI-to-expand-and-enhance-help-center-content
-published_at: '2026-06-22T15:31:48.910822+05:30'
-collected_at: '2026-06-22T15:31:48.910840+05:30'
+published_at: '2026-07-14T13:06:27.022177+05:30'
+collected_at: '2026-07-14T13:06:27.022190+05:30'
 tags:
 - agents
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:using-generative-ai-to-expand-and-enhance-help-cen
-first_seen: '2026-06-22T15:31:48.910840+05:30'
-last_seen: '2026-06-22T15:31:48.910840+05:30'
-last_checked: '2026-06-22T15:31:48.910840+05:30'
+first_seen: '2026-07-14T13:06:27.022190+05:30'
+last_seen: '2026-07-14T13:06:27.022190+05:30'
+last_checked: '2026-07-14T13:06:27.022190+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **AI-Powered Content Enhancement**: Zendesk leverages generative AI (via OpenAI’s Enterprise GPT) to offer four content modification tools—**Expand**, **Simplify**, **Make more friendly**, and **Make more formal**—for help center articles and content blocks, enabling rapid content refinement without manual rewrites.
+- **AI-Powered Content Enhancement**: Zendesk integrates generative AI (via OpenAI’s Enterprise GPT) to expand, simplify, or adjust the tone of help center content, offering options like *Expand*, *Simplify*, *Make more friendly*, and *Make more formal* to align with brand voice and readability.
 
-- **Text Expansion Workflow**: Users can input concise bullet points or short notes, then apply the **Expand** tool to generate full paragraphs, with up to five AI-generated variations available for selection before finalizing changes via **Replace selection**.
+- **Text Expansion Workflow**: Users can input concise bullet points or short notes, then use the *Expand* tool to generate full paragraphs. The system allows up to five AI-generated variations per request, with options to *Try again* or *Replace selection* to finalize edits.
 
-- **Tone & Clarity Adjustments**: The **Simplify** tool reduces wordiness for technical content, while tone modifiers adjust text for either conversational (**Make more friendly**) or professional (**Make more formal**) alignment with brand voice, all accessible through the **Enhance writing** icon in Zendesk’s help center or Knowledge admin interfaces.
+- **Tone & Clarity Adjustments**: The *Simplify* feature reduces wordiness for technical content, while tone modifiers adjust conversational or professional styles. Changes are applied via the *Enhance writing* icon, with real-time previews and rollback options.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:31:48.910822+05:30
+- Published: 2026-07-14T13:06:27.022177+05:30
 
 ## Related Tags
 

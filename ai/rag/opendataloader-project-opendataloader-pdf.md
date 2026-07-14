@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/opendataloader-project/opendataloader-pdf
-collected_at: '2026-07-14T09:17:32.213523+05:30'
-published_at: '2026-07-14T03:03:10Z'
+collected_at: '2026-07-14T12:59:03.888448+05:30'
+published_at: '2026-07-14T06:46:02Z'
 tags:
 - github-repo
 - java
 - rag
-- scripts
-stars: 27107
+stars: 27113
 language: Java
 status: active
 license: Apache-2.0
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-05-13T05:48:02Z'
 pushed_at: '2026-07-14T02:00:47Z'
 resource_id: github:opendataloader-project/opendataloader-pdf
-first_seen: '2026-07-14T09:17:32.213523+05:30'
-last_seen: '2026-07-14T09:17:32.213523+05:30'
-last_checked: '2026-07-14T09:17:32.213523+05:30'
+first_seen: '2026-07-14T12:59:03.888448+05:30'
+last_seen: '2026-07-14T12:59:03.888448+05:30'
+last_checked: '2026-07-14T12:59:03.888448+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Java-based PDF Parser**: Open-source tool designed to convert PDFs into AI-ready formats (HTML, JSON, Markdown) with OCR support for accessibility and document parsing.
-- **Key Features**: Extracts tagged PDFs, tables, bounding boxes, and supports PDF/UA compliance for enhanced accessibility (a11y) and document structure preservation.
-- **Integration & Output**: Enables automation for RAG pipelines, supports multiple output formats (HTML/JSON/Markdown), and facilitates PDF-to-AI data conversion with OCR recognition.
+- **Java-based PDF parser** designed for AI-ready data extraction, supporting accessibility (a11y) and PDF/UA compliance for automated document processing.
+- **Multi-format output** including HTML, JSON, Markdown, and bounding-box annotations, with OCR support for scanned documents and table extraction.
+- **Open-source tool** optimized for RAG pipelines, enabling tagged PDF parsing and conversion while maintaining compatibility with tagged PDF structures.
 
 ## Why It Matters
 
@@ -40,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: opendataloader-project
-- Stars: 27107
-- Forks: 2597
+- Stars: 27113
+- Forks: 2598
 - Language: Java
 - Topics: a11y, accessibility, ai, bounding-box, document-parsing, eaa, html, json, markdown, ocr, ocr-recognition, pdf, pdf-accessibility, pdf-converter, pdf-extraction, pdf-parser, pdf-ua, rag, tables, tagged-pdf
-- Last Updated: 2026-07-14T03:03:10Z
+- Last Updated: 2026-07-14T06:46:02Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-05-13T05:48:02Z

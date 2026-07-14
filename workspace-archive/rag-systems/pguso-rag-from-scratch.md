@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box abstractions, focusing on embeddings, vector search, retrieval, and context-augmented generation.
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box dependencies, focusing on embeddings, vector search, retrieval, and context-augmented generation.
 
-- **JavaScript-Based Pipeline**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, with a modular design for educational clarity in RAG components (embedding, retrieval, and generation).
+- **JavaScript-Based Pipeline**: Implements a complete RAG pipeline in JavaScript/Node.js, covering embedding generation, vector database integration, retrieval mechanisms, and LLM context augmentation for chatbot applications.
 
-- **Agent &
+- **Open-Sou
 
 ## Use Cases
 

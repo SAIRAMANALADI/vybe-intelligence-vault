@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Model & Provider Agnostic**: `dcode` operates with any LLM, enabling seamless switching between providers/models while maintaining persistent memory for cross-session context.
+- **Modular Agent Framework**: Open-source coding agent (`dcode`) built on Deep Agents SDK, supporting multi-model LLM integration with persistent memory, customizable skills, and execution approval controls.
 
-- **Modular Execution Framework**: Supports remote sandboxes, subagents for parallel task delegation, MCP tool integration, and human-in-the-loop approvals for sensitive operations.
+- **Advanced Capabilities**: Supports remote sandboxes, goal-based task validation, subagent delegation, MCP tool integration, and LangSmith tracing for observability and debugging.
 
-- **Observability & Extensibility**: Features LangSmith tracing for debugging, context compaction for memory optimization, and cus
+- **Configuration & Extensibility**: Enables CLI-based setup, environment-driven customization (`config.tom
 
 ## Use Cases
 

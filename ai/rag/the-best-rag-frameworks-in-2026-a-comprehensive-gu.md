@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems/
-published_at: '2026-07-13T09:35:24.027123+05:30'
-collected_at: '2026-07-13T09:35:24.027149+05:30'
+published_at: '2026-07-14T12:58:34.294663+05:30'
+collected_at: '2026-07-14T12:58:34.294677+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-best-rag-frameworks-in-2026-a-comprehensive-gu
-first_seen: '2026-07-13T09:35:24.027149+05:30'
-last_seen: '2026-07-13T09:35:24.027149+05:30'
-last_checked: '2026-07-13T09:35:24.027149+05:30'
+first_seen: '2026-07-14T12:58:34.294677+05:30'
+last_seen: '2026-07-14T12:58:34.294677+05:30'
+last_checked: '2026-07-14T12:58:34.294677+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain (2026)**: Dominates RAG with 700+ integrations, LangGraph for agentic workflows, and modular chains for retrieval/reranking/generation; supports dense/sparse retrieval and vector stores (Pinecone, Weaviate); enhanced observability via LangSmith and production-ready tracing/deployment tools.
+- **LangChain**: Dominates RAG with 700+ integrations, LangGraph for agentic workflows, and modular chains for retrieval/reranking/generation; supports Pinecone/Weaviate and offers LangSmith for observability ([GitHub](https://github.com/langchain-ai/langchain)).
 
-- **LlamaIndex (2026)**: Optimized for production-grade indexing and retrieval, handling multimodal data (text/images/PDFs) with advanced routers, query engines, and 100+ data source integrations; features sophisticated evaluation tools and custom retriever scalability for knowledge-intensive applications.
+- **LlamaIndex**: Optimized for production-grade indexing and retrieval, handling multimodal data (text/images/PDFs) with advanced routers and 100+ data source integrations ([GitHub](https://github.com/run-llama/llama_index)).
 
-- **Haystack (2026)**: Enterprise-focused framework with end-to-end pipeline abstraction for custom RAG flows, supporting dense/sparse retrieval (Elasticsearch, Weaviate) and built-in evaluation; future releases include visual DAG editors and pre-built industry-specific pipelines for scalable, secure production deployments.
+- **Haystack (deepset)**: Enterprise-ready framework with dense/sparse retrieval, modular pipelines (Elasticsearch/Weaviate support), built-in evaluation, and future DAG editor for scalable production search/QA systems ([GitHub](https://github.com/deepset-ai/haystack)).
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-13T09:35:24.027123+05:30
+- Published: 2026-07-14T12:58:34.294663+05:30
 
 ## Related Tags
 

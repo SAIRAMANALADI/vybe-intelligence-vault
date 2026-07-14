@@ -13,6 +13,7 @@ importance: medium
 tags:
 - github-repo
 - hackernews
+- models
 - python
 - rag
 - reddit
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from embeddings and vector databases to LLMs and production deployment, with reusable Python utilities and hands-on demos.
-- **Technical Depth**: Focuses on core RAG components (e.g., vector search, retrieval strategies) and advanced techniques, with executable code examples for practical implementation.
-- **Repository Metadata**: Python-based, last updated July 2026, minimal Git activity (7 stars, 0 forks)
+- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from embeddings and vector databases to LLM integration and advanced techniques, with reusable Python utilities and hands-on demos.
+
+- **Technical Depth**: Focuses on core RAG components—vector search, retrieval strategies, and LLM fine-tuning—with working code examples for production-grade systems.
+
+- **Repository Metadata**: Python-based, last updated July 2026, minimal community adoption (7 stars, 0 fork
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-07-14T09:19:37.331424+05:30'
+collected_at: '2026-07-14T13:01:13.992582+05:30'
 published_at: '2026-07-10T09:43:36Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-07-14T09:19:37.331424+05:30'
-last_seen: '2026-07-14T09:19:37.331424+05:30'
-last_checked: '2026-07-14T09:19:37.331424+05:30'
+first_seen: '2026-07-14T13:01:13.992582+05:30'
+last_seen: '2026-07-14T13:01:13.992582+05:30'
+last_checked: '2026-07-14T13:01:13.992582+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and state synchronization in AI-driven applications, leveraging TanStack Query's reactivity and performance optimizations.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications, leveraging TanStack Query's reactivity and performance optimizations.
 
-- **Router Best Practices for AI Agents**: Provides structured routing strategies using TanStack Router to handle dynamic, AI-generated navigation paths with type safety and minimal re-rendering overhead.
+- **Router Best Practices for AI Agents**: Provides structured routing strategies using TanStack Router to handle dynamic, AI-generated navigation paths with type safety and minimal re-renders.
 
-- **Start Framework Integration**: Outlines initialization and lifecycle management techniques for TanStack Start in AI coding agents, ensuring seamless SSR/SSG compatibility and minimal bundle impact.
+- **Start Framework Integration**: Outlines initialization and lifecycle management techniques for TanStack Start in AI coding agents, ensuring scalable and maintainable application bootstrapping.
 
 ## Why It Matters
 

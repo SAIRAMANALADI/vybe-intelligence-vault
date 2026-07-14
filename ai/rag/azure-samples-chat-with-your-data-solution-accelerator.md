@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-07-14T09:17:57.255679+05:30'
+collected_at: '2026-07-14T12:59:33.960552+05:30'
 published_at: '2026-07-13T15:05:09Z'
 tags:
 - github-repo
+- models
 - openai
 - python
 - rag
+- scripts
 stars: 1173
 language: Python
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2023-06-06T01:40:48Z'
 pushed_at: '2026-07-13T12:26:57Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-07-14T09:17:57.255679+05:30'
-last_seen: '2026-07-14T09:17:57.255679+05:30'
-last_checked: '2026-07-14T09:17:57.255679+05:30'
+first_seen: '2026-07-14T12:59:33.960552+05:30'
+last_seen: '2026-07-14T12:59:33.960552+05:30'
+last_checked: '2026-07-14T12:59:33.960552+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,15 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for generating ChatGPT-style and Q&A responses, adhering to best practices.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A experiences, following best practices for production-grade deployments.
 
-- **Azure Deployment**: Utilizes **Azure Developer CLI (azd)** templates for infrastructure-as-code deployment, ensuring scalable and reproducible setups in Azure.
+- **Key Components**:
+  - **Python-based** solution with **AZD templates** for deployment automation.
+  - Integrates **Azure OpenAI** models (e.g., `gpt-4`, `text-embedding-ada-002`) and **Azure AI Search** for vector similarity search and hybrid retrieval.
 
-- **Python-Based**: Entire solution is implemented in Python, integrating Azure services (AI Search, OpenAI) with modular components for extensibility and enterprise-grade requirements.
+- **Features**:
+  - End-to-end RAG pipeline with **semantic search**, **chunking strategies**, and **prompt engineering** for grounded responses.
+  - Supports **multi-modal** data (text, PDFs, Office docs) with **OCR** and **vectorization** via Azure AI Document Intelligence.
 
 ## Why It Matters
 

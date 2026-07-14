@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.ai/
-published_at: '2026-07-09T01:35:16.428497+05:30'
-collected_at: '2026-07-09T01:35:16.428512+05:30'
+published_at: '2026-07-14T13:05:31.726518+05:30'
+collected_at: '2026-07-14T13:05:31.726531+05:30'
 tags:
 - hackernews
 - leaderboard
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:speechifyai-voice-ai-research-lab
-first_seen: '2026-07-09T01:35:16.428512+05:30'
-last_seen: '2026-07-09T01:35:16.428512+05:30'
-last_checked: '2026-07-09T01:35:16.428512+05:30'
+first_seen: '2026-07-14T13:05:31.726531+05:30'
+last_seen: '2026-07-14T13:05:31.726531+05:30'
+last_checked: '2026-07-14T13:05:31.726531+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Simba 3.2**: Streaming-native TTS model achieving sub-100ms latency, ranked #1 on Artificial Analysis leaderboard, with refined emotional control via SSML prosody and curated voice set supporting 30+ locales.
-- **Zero-Shot Voice Cloning**: Enables cloning speaker identity (timbre, cadence, micro-expressions) from ≥10s reference audio, with emotion control (neutral, happy, sad, excited, calm) and multilingual synthesis.
-- **Unified API**: Single endpoint (`/v1/audio/speech`) for streaming, voice cloning, and multilingual synthesis, requiring minimal code (e.g., `curl` with `Authorization: Bearer $SPEECHIFY_API_KEY`).
+- **Simba 3.2 TTS Model**: Streaming-native architecture with sub-100ms latency, outperforming competitors on the Artificial Analysis TTS leaderboard while remaining cost-effective; features fine-grained emotional control via SSML prosody and a curated voice set with expanding language coverage.
+
+- **Zero-Shot Voice Cloning & Emotion Control**: Clones speaker identity (timbre, cadence, micro-expressions) from as little as 10 seconds of reference audio; enables nuanced emotional synthesis (neutral, happy, sad, etc.) through prosodic modeling rather than just pitch/speed adjustments.
+
+- **Multilingual Synthesis & API Integration**: Supports 30+ locales with native-quality voices, handling mixed-language inputs automatically; provides a single API for streaming, voice cloning, and emotion control with minimal code (e.g., `curl` example for `/v1/audio/speech`).
 
 ## Why It Matters
 
@@ -35,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T01:35:16.428497+05:30
+- Published: 2026-07-14T13:05:31.726518+05:30
 
 ## Related Tags
 

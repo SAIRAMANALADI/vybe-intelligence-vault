@@ -2,13 +2,13 @@
 title: Android Sets New Record for Mobile Web Performance
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://blog.google/chromium/android-sets-new-record-for-mobile-web-performance
+source_url: https://blog.google/chromium/android-sets-new-record-for-mobile-web-performance/
 resource_id: blog:android-sets-new-record-for-mobile-web-performance
 local_vault_path: ai/rag/android-sets-new-record-for-mobile-web-performance.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
@@ -18,7 +18,7 @@ tags:
 - reddit
 - web-crawled
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Android Sets New Record for Mobile Web Performance
@@ -27,15 +27,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Benchmark Performance**: Android flagship devices achieved record scores in Speedometer (responsiveness) and LoadLine (page load speed) benchmarks, outperforming competitors by up to 47% in LoadLine and demonstrating 20-60% year-over-year improvements in key metrics.
+- **Benchmark Performance**: Android flagship devices achieved record-high scores in **Speedometer 3.1** (responsiveness) and **LoadLine** (page load speed), outperforming competitors by up to **47%** in LoadLine metrics, with Speedometer scores directly correlating to real-world interaction latency (INP).
 
-- **Benchmark Methodology**: Speedometer 3.1 measures interaction latency using real-world web frameworks (React, Angular, jQuery), while LoadLine evaluates end-to-end page load performance using recorded versions of production
+- **Vertical Optimization**: Performance gains (20-60% YoY improvements in flagship models) stem from deep integration across **SoC hardware, OS kernel scheduler policies, and Chrome/OS softw
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://blog.google/chromium/android-sets-new-record-for-mobile-web-performance
+Original source URL: https://blog.google/chromium/android-sets-new-record-for-mobile-web-performance/
 
 ## Local Vault File
 

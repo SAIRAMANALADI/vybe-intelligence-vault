@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/elizaOS/eliza
-collected_at: '2026-07-14T09:17:32.215284+05:30'
+collected_at: '2026-07-14T12:59:03.927214+05:30'
 published_at: '2026-07-14T02:10:14Z'
 tags:
 - agents
@@ -18,11 +18,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2024-07-09T07:55:40Z'
-pushed_at: '2026-07-14T03:44:00Z'
+pushed_at: '2026-07-14T07:24:02Z'
 resource_id: github:elizaos/eliza
-first_seen: '2026-07-14T09:17:32.215284+05:30'
-last_seen: '2026-07-14T09:17:32.215284+05:30'
-last_checked: '2026-07-14T09:17:32.215284+05:30'
+first_seen: '2026-07-14T12:59:03.927214+05:30'
+last_seen: '2026-07-14T12:59:03.927214+05:30'
+last_checked: '2026-07-14T12:59:03.927214+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OS Framework**: Open-source TypeScript-based system enabling autonomous AI agents with plugin architecture for extensibility (RAG, crypto, Discord/Slack/Telegram integrations).
+- **Agentic OS Framework**: Open-source TypeScript-based system enabling autonomous AI agents with plugin extensibility for multi-platform integration (Discord, Slack, Telegram) and RAG capabilities.
 
-- **Swarm Intelligence**: Supports multi-agent orchestration via `swarm` topic, facilitating collaborative task execution and distributed workflows.
+- **Swarm Intelligence**: Supports distributed agent orchestration via `elizaOS/swarm`, facilitating collaborative task execution across decentralized networks.
 
-- **Cross-Platform AI Runtime**: Integrates with crypto, chat platforms (Discord/Slack/Telegram), and plugin ecosystems for real-time agent interactions and data processing.
+- **Crypto & Plugin Ecosystem**: Integrates cryptographic primitives for secure agent interactions and modular plugin architecture for custom AI workflows (e.g., chatbots, autonomous systems).
 
 ## Why It Matters
 
@@ -51,7 +51,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2024-07-09T07:55:40Z
-- Pushed At: 2026-07-14T03:44:00Z
+- Pushed At: 2026-07-14T07:24:02Z
 
 ## Possible Use Cases
 

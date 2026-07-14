@@ -3,18 +3,18 @@ title: Medium
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
-published_at: '2026-07-13T09:47:25.421536+05:30'
-collected_at: '2026-07-13T09:47:25.421548+05:30'
+source_url: https://medium.com/policy/9db0094a1e0f
+published_at: '2026-07-14T13:05:57.615420+05:30'
+collected_at: '2026-07-14T13:05:57.615434+05:30'
 tags:
 - agents
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium
-first_seen: '2026-07-13T09:47:25.421548+05:30'
-last_seen: '2026-07-13T09:47:25.421548+05:30'
-last_checked: '2026-07-13T09:47:25.421548+05:30'
+first_seen: '2026-07-14T13:05:57.615434+05:30'
+last_seen: '2026-07-14T13:05:57.615434+05:30'
+last_checked: '2026-07-14T13:05:57.615434+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **License Grant & Content Ownership**: Users retain content rights but grant Medium a **nonexclusive, worldwide, sublicensable, royalty-free license** to reproduce, modify, distribute, and display user content across all Medium services (web, mobile, derivatives) with attribution, limited to Medium’s platform.
+- **License Grant & Content Ownership**: Users retain rights to submitted content but grant Medium a **nonexclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Services, including derivative works (e.g., previews, top-author lists) with attribution. This license is **Service-specific** and does not extend beyond Medium’s platforms.
 
-- **Dispute Resolution & Liability Limits**: Mandatory **binding arbitration** (JAMS rules) waives class actions/jury trials; liability capped at **$50 USD or fees paid**, excluding gross negligence/fraud, with disputes resolved in San Francisco (or user’s county if consumer).
+- **Dispute Resolution & Liability Waivers**: All disputes (except small claims/IP injunctions) are subject to **confidential, binding arbitration** under JAMS rules, with venue in San Francisco (or user’s county for consumers). Medium disclaims liability for **indirect damages** (e.g., lost profits) and caps total liability at **$50 USD or fees paid**, unless gross negligence/fraud is proven.
 
-- **Data Processing & Termination Rights**: Users consent to **cross-border data processing** (US/international); Medium may **suspend/terminate access** at will, and retains rights to modify/limit services/storage without liability for indirect damages.
+- **Data Processing & Termination Rights**: Users consent to **cross-border data processing/storage** (including in the US) for Service provision. Medium reserves the right to **suspend/terminate access** at will, modify/remove content, and retain **unlimited, non-confidential rights** to user feedback (e.g., suggestions, ideas) for any purpose.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-13T09:47:25.421536+05:30
+- Published: 2026-07-14T13:05:57.615420+05:30
 
 ## Related Tags
 
@@ -46,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
+Original source: https://medium.com/policy/9db0094a1e0f

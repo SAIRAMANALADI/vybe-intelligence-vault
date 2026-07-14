@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.github.com/
-published_at: '2026-07-09T01:35:23.236202+05:30'
-collected_at: '2026-07-09T01:35:23.236215+05:30'
+published_at: '2026-07-14T13:03:04.356938+05:30'
+collected_at: '2026-07-14T13:03:04.356954+05:30'
 tags:
 - agents
 - scripts
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-docs
-first_seen: '2026-07-09T01:35:23.236215+05:30'
-last_seen: '2026-07-09T01:35:23.236215+05:30'
-last_checked: '2026-07-09T01:35:23.236215+05:30'
+first_seen: '2026-07-14T13:03:04.356954+05:30'
+last_seen: '2026-07-14T13:03:04.356954+05:30'
+last_checked: '2026-07-14T13:03:04.356954+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Core Workflows**: Git is the foundational VCS for GitHub, enabling local version control; SSH provides secure remote access; repositories store and manage project files; pull requests facilitate collaborative code review and merging.
+- **Git Integration & Authentication**: GitHub relies on Git for version control and supports SSH for secure remote access, requiring proper setup (`git config`) and key management (`ssh-keygen`).
 
-- **Authentication & Security**: GitHub supports multiple authentication methods (passwords, tokens, SSH keys); secrets management and vulnerability scanning are enforced via CodeQL; supply chain security is maintained through dependency monitoring.
+- **Repository Workflow**: Core operations include creating/managing repositories (`gh repo create`), handling pull requests for collaborative code review (`gh pr`), and enforcing security via secrets scanning (`gh secret scan`).
 
-- **Developer & CI/CD Tools**: GitHub Actions automates workflows; REST/GraphQL APIs enable programmatic access; GitHub CLI and Copilot integrate AI-driven coding assistance; GitHub Pages hosts static sites; Packages and Actions support artifact management and deployment.
+- **CI/CD & Security**: GitHub Actions enables automated pipelines (`workflow.yml`), while CodeQL (`codeql database create`) and Dependabot (`dependabot.yml`) enforce code quality and dependency security.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-09T01:35:23.236202+05:30
+- Published: 2026-07-14T13:03:04.356938+05:30
 
 ## Related Tags
 

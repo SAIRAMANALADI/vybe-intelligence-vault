@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Model AI Agent Framework**: Hermes-Agent is a Python-based framework designed to integrate and manage multiple AI models (e.g., Anthropic, OpenAI, Codex) for dynamic task execution, emphasizing scalability and adaptability in agentic workflows.
+- **Modular AI Agent Framework**: Open-source Python-based system designed for extensibility, supporting integration with multiple LLMs (e.g., Anthropic, OpenAI, Codex) and agentic workflows via tools like `claude-code` and `moltbot`.
 
-- **Modular & Extensible Architecture**: Supports plugins (e.g., `claude-code`, `clawdbot`) for specialized tasks, enabling customization via community-driven tools and APIs for LLM interaction, code generation, and tool orchestration.
+- **Dynamic Tool Orchestration**: Implements adaptive agent behavior through a plugin architecture, enabling real-time tool selection and execution based on task requirements and model capabilities.
 
-- **Act
+- **Scalable Multi-Agent Collaboration**: Facilitates paralleliz
 
 ## Use Cases
 

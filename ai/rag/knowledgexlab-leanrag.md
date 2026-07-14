@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-07-14T09:18:42.292705+05:30'
+collected_at: '2026-07-14T13:00:13.951495+05:30'
 published_at: '2026-07-07T06:11:04Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-07-14T09:18:42.292705+05:30'
-last_seen: '2026-07-14T09:18:42.292705+05:30'
-last_checked: '2026-07-14T09:18:42.292705+05:30'
+first_seen: '2026-07-14T13:00:13.951495+05:30'
+last_seen: '2026-07-14T13:00:13.951495+05:30'
+last_checked: '2026-07-14T13:00:13.951495+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-*   Utilizes knowledge graphs for robust text generation.
-*   Employs semantic aggregation for contextual information synthesis.
-*   Implements hierarchical retrieval mechanisms for multi-granular data access.
+- **Semantic Aggregation**: Implements a knowledge-graph-based method for aggregating semantic relationships to enhance retrieval precision in RAG systems.
+- **Hierarchical Retrieval**: Introduces a multi-layered retrieval mechanism to dynamically select relevant subgraphs or nodes based on query complexity.
+- **Optimized Generation**: Leverages graph-augmented context to improve factual consistency and reduce hallucinations in generated outputs.
 
 ## Why It Matters
 

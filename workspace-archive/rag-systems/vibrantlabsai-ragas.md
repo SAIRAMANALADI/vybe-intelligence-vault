@@ -1,49 +1,43 @@
 ---
-title: ragas/docs/getstarted/evals.md at main · vibrantlabsai/ragas · GitHub
+title: vibrantlabsai/ragas
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/vibrantlabsai/ragas/blob/master/docs/getstarted/evals.md
+source_url: https://github.com/vibrantlabsai/ragas
 resource_id: github:vibrantlabsai/ragas
 local_vault_path: ai/rag/vibrantlabsai-ragas.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
-- anthropic
 - benchmark
 - dataset
-- meta-ai
-- mistral
-- models
-- openai
+- github-repo
+- python
 - rag
-- web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
-# ragas/docs/getstarted/evals.md at main · vibrantlabsai/ragas · GitHub
+# vibrantlabsai/ragas
 
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Quickstart Setup**: The `ragas quickstart rag_eval` command generates a modular project with `evals.py` (evaluation logic) and `rag.py` (RAG/LLM application), including datasets, experiments, and logs directories for structured evaluation workflows.
-
-- **LLM Provider Integration**: Supports multiple LLM providers (OpenAI, Anthropic, Google, Ollama, custom) via `llm_factory`, enabling seamless swapping of models by configuring API keys or local endpoints in `_init_clients()`.
-
-- **Metrics & E
+- **Ragas**: Python library for evaluating LLM applications, focusing on metrics like faithfulness, answer relevance, and context relevance to enhance LLMops workflows.
+- **Key Features**: Provides automated, multi-dimensional evaluation metrics for RAG pipelines, enabling quantitative assessment of LLM outputs without manual grading.
+- **Integration**: Designed for seamless integration into existing LLM evaluation pipelines, supporting custom metrics and benchmarking against standard datasets.
 
 ## Use Cases
 
@@ -53,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/vibrantlabsai/ragas/blob/master/docs/getstarted/evals.md
+Original source URL: https://github.com/vibrantlabsai/ragas
 
 ## Local Vault File
 

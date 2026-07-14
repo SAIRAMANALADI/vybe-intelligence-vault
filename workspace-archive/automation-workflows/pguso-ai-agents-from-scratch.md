@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using local LLMs, emphasizing transparency by avoiding black-box models and focusing on core concepts like function calling, memory, and ReAct patterns.
+- **Educational Repository**: Demonstrates building AI agents from scratch using local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies, focusing on core concepts like function calling, memory management, and ReAct (Reasoning and Acting) patterns.
 
-- **Technical Implementation**: Utilizes `node-llama-cpp` for local LLM integration in JavaScript, demonstrating practical agent architectures including memory management and function-calling workflows.
+- **Technical Implementation**: Utilizes JavaScript/Node.js to construct agents with explicit control over agent behavior, enabling hands-on understanding of LLM-agent architectures without proprietary abstractions.
 
-- **Project Structure**: Covers React-based age
+- **Key Features**:
 
 ## Use Cases
 

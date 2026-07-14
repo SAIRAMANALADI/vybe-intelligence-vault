@@ -3,14 +3,14 @@ This index groups resources by direct developer use-cases and design goals.
 
 ## Autonomous Coding & Agent Workflows
 
-- [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) (Category: `ai-coding-agents` | [`Local File`](../../ai/agents/ghuntley-how-to-build-a-coding-agent.md))
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) (Category: `ai-coding-agents` | [`Local File`](../../ai/agents/sickn33-agentic-awesome-skills.md))
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) (Category: `mcp-registry` | [`Local File`](../../ai/resources/modelcontextprotocol-python-sdk.md))
-- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) (Category: `mcp-registry` | [`Local File`](../../ai/rag/apecloud-aperag.md))
 - [Detecting AI Coding Agents in Open Source: A Validated Multi-Method Census of 180 Million Repositories](https://arxiv.org/abs/2606.24429) (Category: `ai-coding-agents` | [`Local File`](../../ai/agents/arxiv-2606-24429.md))
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (Category: `mcp-registry` | [`Local File`](../../ai/resources/model-context-protocol-github.md))
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) (Category: `mcp-registry` | [`Local File`](../../ai/resources/github-github-mcp-server.md))
+- [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (Category: `mcp-registry` | [`Local File`](../../ai/resources/black-forest-labs-github.md))
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) (Category: `mcp-registry` | [`Local File`](../../ai/resources/modelcontextprotocol-typescript-sdk.md))
+- [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) (Category: `mcp-registry` | [`Local File`](../../ai/resources/jlbadano-ig-mcp.md))
 
 ## Orchestrating Multi-Agent Logic
 
@@ -21,23 +21,23 @@ This index groups resources by direct developer use-cases and design goals.
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/girijesh-ai-ai-interview-codex.md))
 - [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/run-llama-llama-deploy.md))
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/yonatangross-orchestkit.md))
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
+- [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/vin67-crewai-docker.md))
 
 ## Document Knowledge base & Search (RAG)
 
 - [Pinecone · GitHub](https://github.com/pinecone-io) (Category: `vector-databases` | [`Local File`](../../ai/rag/pinecone-github.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `rag-systems` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Category: `rag-systems` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `vector-databases` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (Category: `rag-systems` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (Category: `rag-systems` | [`Local File`](../../ai/rag/scotthavird-crewai-template.md))
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Category: `rag-systems` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
 - [Pinecone · GitHub](https://github.com/pinecone-io) (Category: `rag-systems` | [`Local File`](../../ai/rag/pinecone-github.md))
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (Category: `rag-systems` | [`Local File`](../../ai/rag/decodingai-magazine-llm-twin-course.md))
-- [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (Category: `rag-systems` | [`Local File`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
-- [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide) (Category: `rag-systems` | [`Local File`](../../ai/rag/vivekmalhan666-rag-beginner-guide.md))
 
 ## Model Selection, Inference & Cost Profiling
 
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Category: `model-providers` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
-- [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) (Category: `model-providers` | [`Local File`](../../ai/agents/ghuntley-how-to-build-a-coding-agent.md))
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) (Category: `model-providers` | [`Local File`](../../ai/rag/quivrhq-quivr.md))
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) (Category: `model-providers` | [`Local File`](../../ai/agents/sickn33-agentic-awesome-skills.md))
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (Category: `model-providers` | [`Local File`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md))
 - [Pinecone · GitHub](https://github.com/pinecone-io) (Category: `observability` | [`Local File`](../../ai/rag/pinecone-github.md))
@@ -50,22 +50,22 @@ This index groups resources by direct developer use-cases and design goals.
 - [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/google-cloud-platform-github.md))
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [Pinecone · GitHub](https://github.com/pinecone-io) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/pinecone-github.md))
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/decodingai-magazine-llm-twin-course.md))
 - [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/vivekmalhan666-rag-beginner-guide.md))
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
-- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/apecloud-aperag.md))
 - [Neo4j · GitHub](https://github.com/neo4j) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/neo4j-github.md))
 
 ## Script Automations & External API Integration
 
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (Category: `automation-workflows` | [`Local File`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `automation-workflows` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (Category: `automation-workflows` | [`Local File`](../../ai/resources/model-context-protocol-github.md))
+- [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (Category: `automation-workflows` | [`Local File`](../../ai/resources/black-forest-labs-github.md))
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Category: `automation-workflows` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
 - [Pinecone · GitHub](https://github.com/pinecone-io) (Category: `automation-workflows` | [`Local File`](../../ai/rag/pinecone-github.md))
-- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `automation-workflows` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Category: `automation-workflows` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
 - [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) (Category: `automation-workflows` | [`Local File`](../../ai/rag/run-llama-llama-deploy.md))
+- [LlamaIndex · GitHub](https://github.com/run-llama) (Category: `automation-workflows` | [`Local File`](../../ai/rag/llamaindex-github.md))
 
 ## Streaming UI Layouts & Next.js AI SaaS Templates
 
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560) (Category: `project-ideas` | [`Local File`](../../ai/rag/arxiv-2606-11560.md))
 
 ---
-*Last updated: 2026-07-14 09:25 IST*
+*Last updated: 2026-07-14 13:15 IST*

@@ -2,13 +2,13 @@
 title: GitHub Copilot CLI · GitHub
 archive_category: agent-frameworks
 source_category: ai/agents
-source_url: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
+source_url: https://github.com/features/copilot/cli
 resource_id: github:features/copilot
 local_vault_path: ai/agents/features-copilot.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # GitHub Copilot CLI · GitHub
@@ -30,16 +30,18 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Multi-Agent Orchestration**: Copilot CLI enables parallelized subagent execution via `/fleet`, allowing concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, converging on decision-ready outputs while maintaining user control.
+- **Multi-Agent Workflows**: Copilot CLI enables parallelized execution via `/fleet`, allowing multiple subagents to work concurrently on tasks (e.g., model comparisons, issue resolution) with centralized control and decision convergence.
 
-- **GitHub-Native Workflow Integration**: Built on GitHub’s native Model Context Protocol (MCP) and `/mcp` server, it directly interacts with issues, PRs, branches, and labels, inheriting organizational policies (
+- **GitHub-Native Integration**: Built on GitHub’s `/mcp` protocol, it natively interacts with issues, PRs, and branches while enforcing org-specific policies (e.g., branch protections, required checks) without additional setup.
+
+- **Session Persistence & Auto
 
 ## Use Cases
 
@@ -49,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
+Original source URL: https://github.com/features/copilot/cli
 
 ## Local Vault File
 

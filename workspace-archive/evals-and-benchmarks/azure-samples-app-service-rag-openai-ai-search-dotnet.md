@@ -12,6 +12,7 @@ resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
+- hackernews
 - html
 - openai
 - rag
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Implementation**: Demonstrates Retrieval Augmented Generation (RAG) using a Blazor Server app with Azure OpenAI and Azure AI Search, enabling hybrid search (vector + keyword + semantic ranking) for document-based chat interactions.
+- **Hybrid Search Integration**: Implements **vector + keyword + semantic ranking** in Azure AI Search for document retrieval, enhancing RAG accuracy by combining multiple search techniques.
 
-- **Security & Deployment**: Implements managed identity for secure Azure resource access and supports one-command deployment via Azure Developer CLI (`azd up`).
+- **Security & Deployment**: Uses **managed identities** for secure Azure resource access and supports **one-command deployment** via Azure Developer CLI (`azd`).
 
-- **Tech Stack**: Built with .NET (Blazor Server), Azure OpenAI, Azure AI Search, and HTML; last
+- **Tech Stack**: Built as a **Blazor Server** app in .NET, leveraging **Azure OpenAI** for generative AI and **Azure App Service** for hosting.
 
 ## Use Cases
 

@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Tech Stack**: TypeScript-based AI PDF chatbot leveraging LangChain for LLM orchestration, LangGraph for agent workflows, and Next.js for the frontend, with OpenAI integration for embeddings/LLM inference.
-
-- **Core Functionality**: Implements a retrieval-augmented generation (RAG) pipeline to parse, index, and query PDF documents, enabling conversational interaction with document content via vector search and LLM response generation.
-
-- **Architecture**: Uses a modular agent-based design wit
+- **Tech Stack**: TypeScript-based AI PDF chatbot leveraging LangChain, LangGraph, Next.js, and OpenAI for agentic workflows, document processing, and conversational interfaces.
+- **Core Features**: Implements RAG (Retrieval-Augmented Generation) for dynamic PDF querying, with structured state management via LangGraph for multi-step agent interactions.
+- **Deployment**: Open-source repository with 16.5K+ stars, supporting modular extensions (e.g., custom LLMs, vector stores) and real-time update
 
 ## Use Cases
 

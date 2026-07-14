@@ -2,7 +2,7 @@
 title: Learn more
 archive_category: model-providers
 source_category: ai/companies/deepmind
-source_url: https://deepmind.google/blog/securing-the-future-of-ai-agents
+source_url: https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi
 resource_id: blog:learn-more
 local_vault_path: ai/companies/deepmind/learn-more.md
 quality_score: 70
@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: reference
 importance: high
 tags:
-- agents
 - blog-post
 - deepmind
 - google-deepmind-blog
@@ -42,7 +41,7 @@ Recent update from Google DeepMind Blog Blog: Learn more
 
 ## Source
 
-Original source URL: https://deepmind.google/blog/securing-the-future-of-ai-agents
+Original source URL: https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi
 
 ## Local Vault File
 

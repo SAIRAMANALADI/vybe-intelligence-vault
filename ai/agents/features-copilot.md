@@ -3,9 +3,9 @@ title: GitHub Copilot CLI · GitHub
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
-published_at: '2026-07-10T04:20:31.188010+05:30'
-collected_at: '2026-07-10T04:20:31.188028+05:30'
+source_url: https://github.com/features/copilot/cli
+published_at: '2026-07-14T13:04:30.976790+05:30'
+collected_at: '2026-07-14T13:04:30.976802+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-07-10T04:20:31.188028+05:30'
-last_seen: '2026-07-10T04:20:31.188028+05:30'
-last_checked: '2026-07-10T04:20:31.188028+05:30'
+first_seen: '2026-07-14T13:04:30.976802+05:30'
+last_seen: '2026-07-14T13:04:30.976802+05:30'
+last_checked: '2026-07-14T13:04:30.976802+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Orchestration**: Copilot CLI enables parallelized subagent execution via `/fleet`, allowing concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, converging on decision-ready outputs while maintaining user control.
+- **Multi-Agent Workflows**: Copilot CLI enables parallelized execution via `/fleet`, allowing multiple subagents to work concurrently on tasks (e.g., model comparisons, issue resolution) with centralized control and decision convergence.
 
-- **GitHub-Native Workflow Integration**: Built on GitHub’s native Model Context Protocol (MCP) and `/mcp` server, it directly interacts with issues, PRs, branches, and labels, inheriting organizational policies (branch protections, required checks) and enabling seamless transitions from `/plan` to merged PRs.
+- **GitHub-Native Integration**: Built on GitHub’s `/mcp` protocol, it natively interacts with issues, PRs, and branches while enforcing org-specific policies (e.g., branch protections, required checks) without additional setup.
 
-- **Session Persistence & Extensibility**: Supports `/resume` for resuming long-running tasks with memory compaction, AGENTS.md for custom agent behavior via `/agent` and `/skills`, and SDK-based extensions (`npm install -g @github/copilot`) for integrating agentic logic into applications.
+- **Session Persistence & Autonomy**: Supports `/resume` for context retention across sessions and `/autopilot` for autonomous task execution (e.g., `/plan` → `/delegate` → PR merge) with explicit user approval for file/command changes.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-10T04:20:31.188010+05:30
+- Published: 2026-07-14T13:04:30.976790+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
+Original source: https://github.com/features/copilot/cli

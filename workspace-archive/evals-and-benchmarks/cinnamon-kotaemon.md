@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG-Based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions with LLMs, leveraging external knowledge sources for contextual responses.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions with LLMs, leveraging vector embeddings and retrieval mechanisms for context-aware responses.
 
-- **Modular Python Framework**: Built in Python with extensible components for document ingestion, retrieval, and LLM integration, supporting customization for diverse use cases.
+- **Modular Python Framework**: Built with extensible components for document ingestion, embedding, retrieval, and LLM integration, supporting customization via configurable pipelines and APIs.
 
-- **Open-Source & Scalable**: Released under an open-source license, optimized for scalability with support fo
+- **Open-Source & Scalable**: Designed for deployment flexibility, with supp
 
 ## Use Cases
 

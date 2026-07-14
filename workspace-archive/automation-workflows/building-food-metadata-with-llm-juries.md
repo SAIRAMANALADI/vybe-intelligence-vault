@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by tie-in. Score: 17, Comments: 0.
+Hacker News story by tie-in. Score: 30, Comments: 8.
 Original Link: https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/
 
 ## Use Cases

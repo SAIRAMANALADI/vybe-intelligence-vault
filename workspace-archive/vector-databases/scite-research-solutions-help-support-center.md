@@ -8,7 +8,7 @@ local_vault_path: ai/rag/scite-research-solutions-help-support-center.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: tutorial
 importance: medium
 tags:
 - paper
@@ -25,17 +25,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Scite's search mechanism** leverages **Citation Statement Search**, which categorizes citations into **supporting**, **contrasting**, or **neutral** based on contextual analysis of citing sentences, enabling granular citation context retrieval.
+- **Scite's Citation Analysis**: Scite classifies citations into supporting, contrasting, or mentioning categories using contextual NLP analysis of citation statements, distinguishing it from traditional citation indexes that only count citations.
 
-- **Scite's coverage** includes **multi-source citation data** (e.g., PubMed, Crossref, arXiv) with **~1.2B citation statements** (as of 2023), though gaps may exist for niche or preprint sources.
+- **Data Coverage & Accuracy**: Scite indexes over 1.2B citation statements from 45M+ papers, with continuous updates; missing citations can be reported via their coverage feedback mechanism.
 
-- **Citation classification** is automated via **NLP
+- **Functional Workflow**: Enables systematic literature r
 
 ## Use Cases
 

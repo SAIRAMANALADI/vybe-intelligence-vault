@@ -2,7 +2,7 @@
 title: Zendesk Academy
 archive_category: datasets
 source_category: ai/rag
-source_url: https://academy.zendesk.com
+source_url: https://academy.zendesk.com/
 resource_id: blog:zendesk-academy
 local_vault_path: ai/rag/zendesk-academy.md
 quality_score: 70
@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - dataset
-- frontend_ui
 - hackernews
 - meta-ai
 - models
@@ -21,6 +20,7 @@ tags:
 - rag
 - reddit
 - scripts
+- web-crawled
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Zendesk Academy** provides role-specific training paths for **Admins** (automation, AI, configuration), **Agents** (ticketing, messaging, voice), **Analysts** (metrics, dashboards, forecasting), and **Developers** (API integration, custom apps).
+- **Zendesk Academy** provides role-specific training (Admin, Agent, Analyst, Developer) with certifications in AI agents, CX analytics, app development, and omnichannel support, validated via proctored exams (e.g., $199–$350, 30–120 min).
 
-- **Certifications** include **Zendesk Support Administrator Expert**, **Guide Specialist**, **Explore CX Analyst Expert**, **App Developer I Expert**, and **Omnichannel Agent Specialist**, with exam durations ranging from 30–120 minutes and costs b
+- **Technical courses** cover AI agent configuration (Level 2/3), workflow automation (triggers, SLA scheduling), and migration from Chat to Messaging, with durations ranging from 8 min to 2+ hours.
+
+- **Community & resources** include the Zendesk Community f
 
 ## Use Cases
 
@@ -51,7 +53,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://academy.zendesk.com
+Original source URL: https://academy.zendesk.com/
 
 ## Local Vault File
 

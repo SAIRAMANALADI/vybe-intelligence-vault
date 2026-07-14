@@ -11,8 +11,8 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- frontend_ui
 - github-repo
+- openai
 - python
 selection_reason:
 - Strong keyword match
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Programmatic LM Optimization**: DSPy introduces a framework that shifts from manual prompt engineering to programmatic optimization of language models, enabling automatic generation and tuning of prompts, instructions, and demonstrations for downstream tasks.
+- **Programmatic LM Optimization**: DSPy introduces a framework for programmatically structuring language model (LM) interactions, replacing ad-hoc prompting with modular, trainable pipelines (e.g., `Signature`, `Module`, `Predictor`) that optimize LM behavior via gradient-free optimization (e.g., `BootstrapFewShot`, `MIPRO`).
 
-- **Modular & Declarative API**: The framework provides a modular, declarative programming model where users define LM-based systems as *signatures* (input/output specifications) and *modules* (e.g., ChainOfThought, ReAct), abstracting
+- **Compiler-Based Abstraction**: The framework compiles high-level programmatic instructions into optimized LM calls, enabling automatic prompt generation, parameter tun
 
 ## Use Cases
 

@@ -14,7 +14,6 @@ tags:
 - agents
 - github-repo
 - python
-- scripts
 - workflows
 selection_reason:
 - Useful for project building
@@ -32,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **FastAPI + LangGraph Integration**: Production-ready template combining FastAPI for RESTful API development with LangGraph for building scalable, stateful AI agent workflows, including memory management and agent orchestration.
+- **FastAPI + LangGraph Integration**: Production-ready template combining FastAPI for RESTful API development with LangGraph for building scalable, stateful AI agent workflows with graph-based orchestration.
 
-- **Pre-configured Infrastructure**: Includes Docker support, security best practices (e.g., CORS, rate limiting), and modular structure for LLMs, agent tools, and state persistence (e.g., Redis, SQL).
+- **Pre-configured Infrastructure**: Includes Docker support, security best practices (e.g., CORS, rate limiting), and modular architecture for memory management, LLM integration, and agentic AI components.
 
-- **Observability & Maintainability**: Pre-integrated logging, mo
+- **Optimized for Production**: Structured for maintainability with CI/CD-ready se
 
 ## Use Cases
 

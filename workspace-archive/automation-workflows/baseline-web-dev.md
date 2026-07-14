@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Baseline Definition & Governance**: Defined by the WebDX Community Group, Baseline provides interoperability status for web platform features across core browsers (Chrome, Edge, Firefox, Safari). Features progress through stages: *Limited availability* → *Newly available* (all core browsers support) → *Widely available* (30 months post-interoperability).
-
-- **Tooling Integration**: Baseline is integrated into development workflows via tools like Browserslist (feature queries), Chrome DevTool
+- **Baseline Definition & Governance**: Originated by Chrome, now maintained by the WebDX Community Group; defines interoperable web features via two stages: *Newly available* (all core browsers support) and *Widely available* (30 months post-interop).
+- **Core Browser Set & Tooling Integration**: Supports Chrome, Edge, Firefox, and Safari; integrates with tools like Browserslist, ESLint, VS Code, and Chrome DevTools to enforce Baseline-compliant feature usage.
+- **Adoption & Case Studies**: Ena
 
 ## Use Cases
 

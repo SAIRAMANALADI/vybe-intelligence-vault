@@ -7,7 +7,7 @@ source_url: https://tensorblue.com/blog/rag-retrieval-augmented-generation-imple
 resource_id: blog:rag-retrieval-augmented-generation-guide-2025-impl
 local_vault_path: ai/rag/rag-retrieval-augmented-generation-guide-2025-impl.md
 quality_score: 70
-archive_score: 80
+archive_score: 78
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -29,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 80 (useful)
+- Quality score: 70 | Archive score: 78 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Core RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI `text-embedding-ada-002`, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for dynamic knowledge retrieval, reducing LLM hallucinations from 30% to <5% while enabling real-time updates.
+- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI text-embedding-ada-002, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for dynamic knowledge retrieval and LLM response augmentation.
 
-- **Advanced Retrieval Techniques**: Implements hybrid search (dense + sparse vectors), query expansion (LLM-generated variations), and re-ranking (cross-encoder m
+- **Advanced Techniques**: Implements hierarchical retrieval, query expansion, hybrid search (dense + sparse vectors), re-ranking (e.g., ms-marco-MiniLM), and adaptive self-RAG to improve recall (20-30%), precision (15
 
 ## Use Cases
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/langchain-blog.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -16,9 +16,10 @@ tags:
 - producthunt
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # LangChain Blog
@@ -27,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **OpenWiki Brains** introduces a general-purpose wiki memory system for agents, enabling persistent, structured knowledge storage and retrieval to enhance agent decision-making and context retention.
+- **OpenWiki Brains** introduces a general-purpose wiki memory system for agents, enabling persistent, structured knowledge storage and retrieval via a hierarchical graph-based architecture optimized for agentic workflows.
 
-- **NVIDIA and LangChain collaboration** launched the NemoClaw Deep Agents Blueprint, integrating governed agent architectures for sensitive code execution with optimized performance via Nemotron 3 Ultra models.
+- **NemoClaw Deep Agents Blueprint** (LangChain + NVIDIA) provides a governed framework for deploying deep agents with NVIDIA's Nemotron models, emphasizing secure code execution and enterprise-grade compliance.
 
-- **Dynamic Subagents in Deep Agents** enables runtime agent composition, allowing p
+- **Dynamic Subagents in Deep Agents** enables runtime agent co
 
 ## Use Cases
 

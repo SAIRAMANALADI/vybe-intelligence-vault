@@ -14,9 +14,9 @@ tags:
 - agents
 - github-repo
 - hackernews
-- paper
 - rag
 - unknown
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Aggregates cutting-edge resources (papers, tools, frameworks) for **agentic deep research** in ACL 2026 KnowFM, focusing on autonomous reasoning agents, multi-agent systems, and advanced RAG architectures.
-- **Technical Scope**: Covers **LLM-driven reasoning**, **search agents**, and **deep research pipelines**, emphasizing scalability, multi-hop reasoning, and dynamic knowledge synthesis.
-- **Community-Driven**: Maintains active updates (last sync: 2026-07-09) with 798
+- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on autonomous multi-agent systems, reasoning agents, and advanced RAG (Retrieval-Augmented Generation) architectures for complex knowledge synthesis.
+- **ACL 2026 KnowFM Alignment**: Aligns with ACL 2026’s *Knowledge Foundation Models (KnowFM)* initiative, emphasizing structured knowledge extraction, multi-step reasoning, and scalable deep research frameworks.
+- **Technical Breadth**: Encompasses LLM-d
 
 ## Use Cases
 

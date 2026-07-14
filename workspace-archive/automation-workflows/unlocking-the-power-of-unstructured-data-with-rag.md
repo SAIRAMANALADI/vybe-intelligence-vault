@@ -6,14 +6,14 @@ source_url: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructur
 resource_id: blog:unlocking-the-power-of-unstructured-data-with-rag
 local_vault_path: ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md
 quality_score: 70
-archive_score: 74
+archive_score: 82
 archive_tier: useful
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
+- hackernews
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub CLI 2.0+**: Introduces `gh repo clone` and `gh repo create` commands with enhanced scripting capabilities and improved API integration for repository management.
-- **GitHub Actions Updates**: Supports dynamic workflows via `workflow_dispatch` events and enables matrix-based job strategies for multi-OS/architecture builds.
-- **Security Enhancements**: Integrates Dependabot for automated dependency updates and enforces branch protection rules with required status checks.
+- **Author Profile**: Nicole Choi is a technical writer and developer advocate at GitHub, contributing to technical documentation and community engagement.
+- **GitHub Contributions**: Active contributor to GitHub’s official blog, focusing on developer tools, workflows, and platform updates.
+- **Social Presence**: Maintains a professional GitHub account ([@nicchoi29](https://github.com/nicchoi29)) and is associated with GitHub’s official communications.
 
 ## Use Cases
 

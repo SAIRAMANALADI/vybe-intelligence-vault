@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-14T09:17:47.250418+05:30'
+collected_at: '2026-07-14T12:59:23.874345+05:30'
 published_at: '2026-07-07T14:48:17Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
-- workflows
 stars: 264
 language: Python
 status: active
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-14T09:17:47.250418+05:30'
-last_seen: '2026-07-14T09:17:47.250418+05:30'
-last_checked: '2026-07-14T09:17:47.250418+05:30'
+first_seen: '2026-07-14T12:59:23.874345+05:30'
+last_seen: '2026-07-14T12:59:23.874345+05:30'
+last_checked: '2026-07-14T12:59:23.874345+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Python-based Retrieval-Augmented Generation (RAG) system optimized for Vietnamese language processing, integrating vector search and LLM inference.
+- **Implementation of RAG for Vietnamese**: Repository demonstrates best practices for Vietnamese Retrieval-Augmented Generation (RAG) using Python, focusing on efficient document retrieval and context-aware generation.
 
-- **Architecture**: Utilizes FAISS (Facebook AI Similarity Search) for efficient vector storage/retrieval and leverages a Vietnamese-specific embedding model (e.g., `vinai/phobert-base`).
+- **Modular Architecture**: Includes components for Vietnamese text preprocessing, embedding generation (e.g., using `sentence-transformers` or `vinai/phobert`), vector storage (FAISS/Weaviate), and retrieval-augmented generation with LLMs.
 
-- **Pipeline**: End-to-end workflow includes document chunking, Vietnamese text embedding, similarity search, and prompt augmentation for downstream LLM tasks.
+- **Evaluation & Optimization**: Provides tools for benchmarking Vietnamese RAG pipelines, including retrieval metrics (e.g., MRR, Recall@K) and generation quality assessments (e.g., BLEU, ROUGE for Vietnamese).
 
 ## Why It Matters
 

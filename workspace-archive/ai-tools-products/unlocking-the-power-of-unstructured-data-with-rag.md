@@ -8,17 +8,17 @@ local_vault_path: ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: high
 tags:
+- hackernews
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Unlocking the power of unstructured data with RAG - The GitHub Blog
@@ -27,18 +27,16 @@ selection_reason:
 
 - Matched archive category: `AI Tools and Products`
 - Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **GitHub CLI 2.0+ Integration**: Nicole Choi is a GitHub Staff Developer Advocate focusing on CLI tools, contributing to GitHub CLI's evolution (e.g., `gh` commands, scripting, and automation workflows).
-
-- **Developer Experience Advocacy**: Specializes in improving CLI usability, security, and extensibility for developers via GitHub’s official documentation, tutorials, and community engagement.
-
-- **Open-Source Contributions**: Actively contributes to GitHub’s open-source projects, including
+- **Author Profile**: Nicole Choi is a technical writer and developer advocate at GitHub, contributing to technical documentation and community engagement.
+- **GitHub Contributions**: Active contributor to GitHub’s official blog, focusing on developer tools, workflows, and platform updates.
+- **Social Presence**: Maintains a professional GitHub account ([@nicchoi29](https://github.com/nicchoi29)) and is associated with GitHub’s official communications.
 
 ## Use Cases
 

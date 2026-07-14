@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-14T09:18:42.263356+05:30'
+collected_at: '2026-07-14T13:00:18.924815+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-14T09:18:42.263356+05:30'
-last_seen: '2026-07-14T09:18:42.263356+05:30'
-last_checked: '2026-07-14T09:18:42.263356+05:30'
+first_seen: '2026-07-14T13:00:18.924815+05:30'
+last_seen: '2026-07-14T13:00:18.924815+05:30'
+last_checked: '2026-07-14T13:00:18.924815+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation over diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or entity-level), leveraging a unified indexing and retrieval pipeline.
-
-- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval mechanism using modality-specific encoders (e.g., CLIP for images, BERT for text) and a shared embedding space, allowing seamless fusion of heterogeneous data sources during retrieval.
-
-- **Adaptive Fusion & Generation**: Introduces a dynamic fusion module that weighs retrieved modalities/granularities based on query context, integrating them into the LLM’s input via a learned attention mechanism to improve generation quality and factual grounding.
+- **Framework Overview**: UniversalRAG extends RAG to handle diverse modalities (text, images, tables) and granularities (documents, paragraphs, entities) via a unified retrieval and generation pipeline.
+- **Key Innovation**: Introduces modality-agnostic retrievers and adaptive fusion mechanisms to dynamically integrate heterogeneous data sources during generation.
+- **Performance**: Achieves state-of-the-art results on multimodal benchmarks (ACL 2026 Oral) while maintaining scalability for large, heterogeneous corpora.
 
 ## Why It Matters
 

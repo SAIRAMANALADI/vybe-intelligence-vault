@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/Awesome-GraphRAG
-collected_at: '2026-07-14T09:18:02.271734+05:30'
+collected_at: '2026-07-14T12:59:33.922092+05:30'
 published_at: '2026-07-13T07:28:02Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-21T08:29:58Z'
 pushed_at: '2026-06-02T12:52:38Z'
 resource_id: github:deep-polyu/awesome-graphrag
-first_seen: '2026-07-14T09:18:02.271734+05:30'
-last_seen: '2026-07-14T09:18:02.271734+05:30'
-last_checked: '2026-07-14T09:18:02.271734+05:30'
+first_seen: '2026-07-14T12:59:33.922092+05:30'
+last_seen: '2026-07-14T12:59:33.922092+05:30'
+last_checked: '2026-07-14T12:59:33.922092+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based retrieval-augmented generation (GraphRAG)**, covering knowledge graphs, large language models (LLMs), and RAG techniques.
-- **Technical Scope**: Encompasses **GraphRAG-specific topics**, including graph-augmented retrieval architectures, graph neural networks (GNNs) for knowledge integration, and hybrid LLM-graph pipelines for enhanced reasoning.
-- **Repository Metrics**: Maintained by **DEEP-PolyU**, with **2,527 stars**, **218 forks**, and last updated **July 13, 2026**; serves as a dynamic reference for cutting-edge GraphRAG research and implementations.
+- **Curated Resource Hub**: Comprehensive collection of surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, covering knowledge graphs, large language models (LLMs), and RAG techniques.
+- **Technical Scope**: Encompasses **GraphRAG-specific methodologies**, including graph-augmented retrieval, knowledge graph integration, and LLM-based generation with structured graph data.
+- **Community & Updates**: Actively maintained with **2,527 stars and 218 forks**, last updated in **July 2026**, ensuring access to cutting-edge research and implementations.
 
 ## Why It Matters
 

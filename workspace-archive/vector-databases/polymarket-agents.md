@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous Trading Framework**: Python-based repository enabling AI agents to execute trades autonomously on Polymarket, leveraging market-making and predictive models for decentralized prediction market interactions.
-
-- **Modular Architecture**: Designed with extensible components for strategy implementation, risk management, and real-time data processing, supporting custom agent configurations for diverse trading objectives.
-
-- **Polymarket API Integration**: Direct interfacing with Polyma
+- **Autonomous Trading Framework**: Python-based repository enabling AI agents to execute trades autonomously on Polymarket, leveraging market-making and prediction strategies.
+- **Modular Architecture**: Designed with extensible components for order execution, data processing, and agent logic, facilitating customization for diverse trading approaches.
+- **Real-Time Market Integration**: Interfaces with Polymarket’s API for live order book data, trade execution, and liquidity management, optimiz
 
 ## Use Cases
 

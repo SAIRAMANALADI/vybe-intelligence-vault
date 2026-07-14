@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-07-14T09:18:47.301055+05:30'
+collected_at: '2026-07-14T13:00:18.965876+05:30'
 published_at: '2026-07-13T09:31:12Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-07T15:14:52Z'
 pushed_at: '2026-06-24T06:17:09Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-07-14T09:18:47.301055+05:30'
-last_seen: '2026-07-14T09:18:47.301055+05:30'
-last_checked: '2026-07-14T09:18:47.301055+05:30'
+first_seen: '2026-07-14T13:00:18.965876+05:30'
+last_seen: '2026-07-14T13:00:18.965876+05:30'
+last_checked: '2026-07-14T13:00:18.965876+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **VLM2Vec Framework**: Implements three versions (ICLR 2025, TMLR 2026, COLM 2026) of a Visual Language Model (VLM)-based embedding framework (MMEB) for multimodal representation learning, evaluated across benchmark tasks including image, video, and visual document retrieval.
+- **Repository Overview**: Hosts code for three multimodal embedding benchmarks: VLM2Vec (ICLR 2025), VLM2Vec-V2 (TMLR 2026), and MMEB-V3 (COLM 2026), focusing on contrastive learning and representation learning for multimodal tasks.
 
-- **Contrastive Learning**: Utilizes contrastive learning techniques to align and optimize embeddings between visual and textual modalities, enabling zero-shot and fine-tuned performance on multimodal benchmarks.
+- **Technical Scope**: Implements benchmarks for image retrieval, video retrieval, visual document retrieval, and RAG (Retrieval-Augmented Generation) using Vision-Language Models (VLMs).
 
-- **Python Implementation**: Provides a Python-based codebase with modular components for training, evaluation, and benchmarking, supporting tasks like Retrieval-Augmented Generation (RAG) and multimodal embedding benchmarks (MMEB).
+- **Implementation Details**: Python-based repository supporting embedding evaluation across modalities, with updates as recent as July 2026.
 
 ## Why It Matters
 

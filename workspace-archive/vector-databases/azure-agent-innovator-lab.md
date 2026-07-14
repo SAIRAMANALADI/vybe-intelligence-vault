@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Contains Jupyter Notebooks for building AI agents on Azure, focusing on search optimization, agent design, evaluation, and RAG best practices.
-- **Technical Scope**: Covers implementation strategies for agent-based systems, including retrieval-augmented generation (RAG) and performance evaluation methodologies.
-- **Repository Metadata**: 57 stars, 32 forks, last updated 2026-06-30, primarily notebook-based with no additional topics.
+- **Repository Overview**: GitHub repository focused on constructing AI agents using Azure services, emphasizing search optimization, agent architecture, evaluation methodologies, and Retrieval-Augmented Generation (RAG) best practices.
+- **Technical Stack**: Implemented primarily in Jupyter Notebooks, with last update timestamped **2026-06-30T14:03:05Z**.
+- **Metrics**: 57 stars, 32 forks, no listed topics, and no additional metadata provided beyond the core description.
 
 ## Use Cases
 

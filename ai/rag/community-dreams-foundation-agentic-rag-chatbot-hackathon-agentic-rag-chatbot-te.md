@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository
-collected_at: '2026-07-14T09:17:07.294397+05:30'
+collected_at: '2026-07-14T12:58:34.000743+05:30'
 published_at: '2026-02-17T18:07:23Z'
 tags:
 - agents
 - github-repo
-- meta-ai
-- models
 - python
 - rag
+- workflows
 stars: 0
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-02-16T23:07:29Z'
 pushed_at: '2026-02-16T23:07:31Z'
 resource_id: github:community-dreams-foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-template-repository
-first_seen: '2026-07-14T09:17:07.294397+05:30'
-last_seen: '2026-07-14T09:17:07.294397+05:30'
-last_checked: '2026-07-14T09:17:07.294397+05:30'
+first_seen: '2026-07-14T12:58:34.000743+05:30'
+last_seen: '2026-07-14T12:58:34.000743+05:30'
+last_checked: '2026-07-14T12:58:34.000743+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Repository**: Provides a starter template for building an agentic RAG (Retrieval-Augmented Generation) chatbot, designed for hackathon use cases.
-- **Python-Based**: Implements core functionality using Python, likely leveraging libraries like LangChain, LlamaIndex, or similar frameworks for RAG pipelines.
-- **GitHub Classroom Integration**: Structured for educational/team-based development with version control and collaboration features enabled via GitHub Classroom.
+- **Template Repository**: Provides a starter framework for building an agentic RAG (Retrieval-Augmented Generation) chatbot, designed for hackathon submissions.
+- **Python-Based**: Implements core functionality in Python, leveraging libraries for LLM integration, vector databases, and agent orchestration.
+- **GitHub Classroom Integration**: Structured for educational use, enabling automated assignment distribution and grading workflows for AI/ML hackathons.
 
 ## Why It Matters
 

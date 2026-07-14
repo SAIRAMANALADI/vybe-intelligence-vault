@@ -2,21 +2,14 @@
 title: RUC-NLPIR/FlashRAG
 archive_category: datasets
 source_category: ai/rag
-source_url: https://github.com/RUC-NLPIR/FlashRAG
+source_url: https://github.com/RUC-NLPIR/FlashRAG?source=
 resource_id: github:ruc-nlpir/flashrag
 local_vault_path: ai/rag/ruc-nlpir-flashrag.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
-tags:
-- benchmark
-- dataset
-- github-repo
-- python
-- rag
-- reddit
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -27,7 +20,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +28,11 @@ selection_reason:
 
 ## Summary
 
-- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experiments.
+- **Toolkit Overview**: FlashRAG is a Python-based framework designed for efficient Retrieval-Augmented Generation (RAG) research, optimized for speed and scalability in large language model (LLM) applications.
 
-- **Benchmark & Dataset Integration**: Provides built-in support for standardized RAG benchmarks and diverse datasets, enabling reproducible evaluation across retrieval and generation tasks.
+- **Key Features**: Provides benchmarking tools, curated datasets, and modular components to streamline RAG pipeline development, evaluation, and deployment.
 
-- **Modular & Extensible**: Designed with modularity in mind, supporting custom retri
+- **Technical Stack**: Built with Python, supporting integration with modern LLM architectures and retrieval systems for high-per
 
 ## Use Cases
 
@@ -49,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/RUC-NLPIR/FlashRAG
+Original source URL: https://github.com/RUC-NLPIR/FlashRAG?source=
 
 ## Local Vault File
 

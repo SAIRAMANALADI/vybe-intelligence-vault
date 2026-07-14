@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/oss/python/deepagents/code/overview
-published_at: '2026-07-10T13:24:17.264446+05:30'
-collected_at: '2026-07-10T13:24:17.264456+05:30'
+published_at: '2026-07-14T13:05:15.493886+05:30'
+collected_at: '2026-07-14T13:05:15.493899+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:deep-agents-code-docs-by-langchain
-first_seen: '2026-07-10T13:24:17.264456+05:30'
-last_seen: '2026-07-10T13:24:17.264456+05:30'
-last_checked: '2026-07-10T13:24:17.264456+05:30'
+first_seen: '2026-07-14T13:05:15.493899+05:30'
+last_seen: '2026-07-14T13:05:15.493899+05:30'
+last_checked: '2026-07-14T13:05:15.493899+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Model & Provider Agnostic**: `dcode` operates with any LLM, enabling seamless switching between providers/models while maintaining persistent memory for cross-session context.
+- **Modular Agent Framework**: Open-source coding agent (`dcode`) built on Deep Agents SDK, supporting multi-model LLM integration with persistent memory, customizable skills, and execution approval controls.
 
-- **Modular Execution Framework**: Supports remote sandboxes, subagents for parallel task delegation, MCP tool integration, and human-in-the-loop approvals for sensitive operations.
+- **Advanced Capabilities**: Supports remote sandboxes, goal-based task validation, subagent delegation, MCP tool integration, and LangSmith tracing for observability and debugging.
 
-- **Observability & Extensibility**: Features LangSmith tracing for debugging, context compaction for memory optimization, and customizable skills/hooks via `config.toml` or environment variables.
+- **Configuration & Extensibility**: Enables CLI-based setup, environment-driven customization (`config.toml`), context compaction, and human-in-the-loop approval for sensitive operations.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-10T13:24:17.264446+05:30
+- Published: 2026-07-14T13:05:15.493886+05:30
 
 ## Related Tags
 

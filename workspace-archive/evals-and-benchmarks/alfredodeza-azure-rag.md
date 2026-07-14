@@ -15,7 +15,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) implementation using Azure services (e.g., Azure Cognitive Search, OpenAI) for enhanced LLM responses.
-- **Tech Stack**: Python-based, leveraging Azure SDKs for AI/ML integration and retrieval workflows.
-- **Structure**: Example repository with 228 forks, last updated April 2026, focusing on Azure-specific RAG pipelines.
+- **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) implementation using Azure services (e.g., Azure Cognitive Search, OpenAI) to enhance LLM responses with retrieved data.
+- **Tech Stack**: Python-based, leveraging Azure SDKs for search/indexing and OpenAI APIs for generation.
+- **Key Features**: Includes vector search, document indexing, and prompt augmentation for contextual LLM queries.
 
 ## Use Cases
 

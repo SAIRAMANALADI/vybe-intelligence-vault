@@ -3,20 +3,20 @@ title: LlamaParse Platform Quickstart | Developer Documentation
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://developers.llamaindex.ai/
-published_at: '2026-07-13T09:40:25.729816+05:30'
-collected_at: '2026-07-13T09:40:25.729830+05:30'
+source_url: https://developers.llamaindex.ai/python/cloud/?utm_source=github&utm_medium=org_card
+published_at: '2026-07-14T13:03:30.794212+05:30'
+collected_at: '2026-07-14T13:03:30.794226+05:30'
 tags:
 - agents
+- hackernews
 - meta-ai
 - models
 - web-crawled
-- workflows
 status: active
 resource_id: blog:llamaparse-platform-quickstart-developer-documenta
-first_seen: '2026-07-13T09:40:25.729830+05:30'
-last_seen: '2026-07-13T09:40:25.729830+05:30'
-last_checked: '2026-07-13T09:40:25.729830+05:30'
+first_seen: '2026-07-14T13:03:30.794226+05:30'
+last_seen: '2026-07-14T13:03:30.794226+05:30'
+last_checked: '2026-07-14T13:03:30.794226+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Layout-aware OCR**: Parse performs advanced optical character recognition (OCR) while preserving document structure (e.g., PDFs, scans), enabling accurate extraction of text, tables, and charts.
+- **Layout-Aware OCR Engine**: Parse employs advanced OCR technology with layout awareness to process PDFs, scans, tables, and charts, ensuring accurate extraction of structured content.
 
-- **Multi-format output**: Converts parsed documents into clean markdown, plain text, or structured JSON for seamless integration into LLM pipelines.
+- **Multi-Format Output**: The tool converts extracted content into clean markdown, plain text, or JSON, enabling seamless integration with LLM pipelines.
 
-- **Agentic processing**: Designed as an autonomous component for LLM workflows, optimizing document understanding without manual intervention.
+- **Agentic Processing**: Designed as an agentic parser, Parse autonomously handles complex document structures, optimizing OCR and extraction for downstream AI applications.
 
 ## Why It Matters
 
@@ -38,16 +38,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-13T09:40:25.729816+05:30
+- Published: 2026-07-14T13:03:30.794212+05:30
 
 ## Related Tags
 
 - agents
+- hackernews
 - meta-ai
 - models
 - web-crawled
-- workflows
 
 ## Source
 
-Original source: https://developers.llamaindex.ai/
+Original source: https://developers.llamaindex.ai/python/cloud/?utm_source=github&utm_medium=org_card

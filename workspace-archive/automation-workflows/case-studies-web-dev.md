@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Community Participation**: Web developers sought for user research, product testing, and discussion groups via [WebDev Insights Community application](https://cspace.eu.qualtrics.com/jfe/form/SV_d4CyeN2qJgODm0m?pcid=CLCS&udv=wd).
+- **Community Participation**: Web developers can join user research, product testing, and discussion groups via the [WebDev Insights Community application](https://cspace.eu.qualtrics.com/jfe/form/SV_d4CyeN2qJgODm0m?pcid=CLCS&udv=wd).
 
-- **Resource Hub**: [web.dev](https://web.dev/) provides technical documentation and best practices for web development, including [case studies](https://web.dev/case-studies) showcasing real-world implementations.
+- **Resources & Case Studies**: Access technical guides and case studies on [web.dev](https://web.dev/) to learn implementation strategies for high-performance web experiences.
 
-- **Content Organization**: Users can save and ca
+- **Content Organization**: Use collections to save and categorize web.dev content fo
 
 ## Use Cases
 

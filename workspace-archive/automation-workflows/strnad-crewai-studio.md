@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **GUI for CrewAI Management**: A Streamlit-based, no-code interface for configuring, running, and monitoring CrewAI agents and tasks across multiple platforms.
-- **Environment Support**: Compatible with Conda and virtual environments, enabling isolated Python setups without requiring manual CLI intervention.
-- **Multi-Agent Orchestration**: Simplifies CrewAI workflows via a visual editor, supporting task delegation, agent collaboration, and real-time execution tracking.
+- **Multi-platform GUI** for managing and executing CrewAI agents/tasks without coding, built with **Streamlit** and compatible with **Conda/virtual environments**.
+- **No-code interface** enables agent/task configuration via GUI, supporting **Python-based CrewAI** workflows.
+- **Active repository** (last updated **2026-07-12**) with **1,315 stars** and **316 forks**, focused on simplifying CrewAI agent orchestration.
 
 ## Use Cases
 

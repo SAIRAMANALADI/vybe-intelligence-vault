@@ -2,7 +2,7 @@
 title: LangChain Blog
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://blog.langchain.com
+source_url: https://blog.langchain.com/
 resource_id: blog:langchain-blog
 local_vault_path: ai/rag/langchain-blog.md
 quality_score: 70
@@ -12,10 +12,11 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
+- hackernews
+- producthunt
 - rag
 - web-crawled
 - workflows
-- youtube
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **SmithDB Inverted Index**: Implemented a scalable inverted index in SmithDB for full-text search, optimized for object storage with efficient tokenization, postings list compression, and probabilistic data structures (e.g., Bloom filters) for metadata filtering.
+- **OpenWiki Brains** introduces a general-purpose wiki memory system for agents, enabling persistent, structured knowledge storage and retrieval via a hierarchical graph-based architecture optimized for agentic workflows.
 
-- **Model Neutrality Framework**: Proposed a model-neutral architecture prioritizing API abstraction over cloud provider lock-in, enabling seamless switching between LLMs via standardized interfaces while maintaining performance pari
+- **NemoClaw Deep Agents Blueprint** (LangChain + NVIDIA) provides a governed framework for deploying deep agents with NVIDIA's Nemotron models, emphasizing secure code execution and enterprise-grade compliance.
+
+- **Dynamic Subagents in Deep Agents** enables runtime agent co
 
 ## Use Cases
 
@@ -46,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://blog.langchain.com
+Original source URL: https://blog.langchain.com/
 
 ## Local Vault File
 

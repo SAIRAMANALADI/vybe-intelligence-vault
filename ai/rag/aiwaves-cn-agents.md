@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aiwaves-cn/agents
-collected_at: '2026-07-14T09:20:32.435681+05:30'
+collected_at: '2026-07-14T13:02:09.063686+05:30'
 published_at: '2026-07-13T20:18:12Z'
 tags:
 - agents
-- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 5943
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-07-18T02:01:03Z'
 pushed_at: '2024-09-26T03:12:53Z'
 resource_id: github:aiwaves-cn/agents
-first_seen: '2026-07-14T09:20:32.435681+05:30'
-last_seen: '2026-07-14T09:20:32.435681+05:30'
-last_checked: '2026-07-14T09:20:32.435681+05:30'
+first_seen: '2026-07-14T13:02:09.063686+05:30'
+last_seen: '2026-07-14T13:02:09.063686+05:30'
+last_checked: '2026-07-14T13:02:09.063686+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Architecture**: Open-source Python-based framework designed for autonomous language agents with self-evolving capabilities, leveraging large language models (LLMs) for dynamic adaptation and data-centric optimization.
+- **Framework Overview**: Open-source Python-based framework (`aiwaves-cn/agents`) enabling autonomous language agents with self-evolving capabilities, emphasizing data-centric design for dynamic adaptation and performance optimization.
 
-- **Core Features**: Implements autonomous agent systems that iteratively refine performance through self-driven learning loops, integrating data collection, model training, and evaluation in a unified pipeline.
+- **Core Features**: Supports autonomous agent orchestration, leveraging LLMs for decision-making, and integrates mechanisms for continuous learning and self-improvement via iterative data feedback loops.
 
-- **Scalability & Integration**: Supports modular extensions for multi-agent collaboration, tool integration, and deployment across diverse environments, with active community contributions and frequent updates.
+- **Technical Stack**: Built for scalability and modularity, utilizing Python with dependencies optimized for LLM integration, agent autonomy, and real-time performance tuning.
 
 ## Why It Matters
 

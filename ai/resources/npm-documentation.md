@@ -4,23 +4,22 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/npm/documentation
-collected_at: '2026-07-08T14:27:20.849155+05:30'
-published_at: '2026-07-07T21:05:41Z'
+collected_at: '2026-07-14T13:04:20.778308+05:30'
+published_at: '2026-07-14T05:30:41Z'
 tags:
 - github-repo
-- hackernews
 - mdx
-stars: 674
+stars: 680
 language: MDX
 status: active
 license: CC-BY-4.0
 archived: false
 created_at: '2020-09-22T21:51:41Z'
-pushed_at: '2026-07-06T05:37:24Z'
+pushed_at: '2026-07-13T05:37:56Z'
 resource_id: github:npm/documentation
-first_seen: '2026-07-08T14:27:20.849155+05:30'
-last_seen: '2026-07-08T14:27:20.849155+05:30'
-last_checked: '2026-07-08T14:27:20.849155+05:30'
+first_seen: '2026-07-14T13:04:20.778308+05:30'
+last_seen: '2026-07-14T13:04:20.778308+05:30'
+last_checked: '2026-07-14T13:04:20.778308+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Content Scope**: Repository hosts MDX-based documentation for npm registry, CLI, and website, covering usage, configuration, and API interactions.
-- **Technical Structure**: Utilizes MDX (Markdown + JSX) for dynamic, interactive documentation components and examples.
-- **Maintenance**: Last updated in 2026, indicating active but infrequent updates; high fork count (4031) suggests significant community engagement or contributions.
+- **Purpose**: Hosts documentation for npm registry, website, and CLI tools, written in MDX.
+- **Repository Stats**: 680 stars, 4050 forks, last updated July 14, 2026.
+- **Focus**: Primarily supports npm command-line interface (CLI) development and usage.
 
 ## Why It Matters
 
@@ -39,15 +38,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: npm
-- Stars: 674
-- Forks: 4031
+- Stars: 680
+- Forks: 4050
 - Language: MDX
 - Topics: npm-cli
-- Last Updated: 2026-07-07T21:05:41Z
+- Last Updated: 2026-07-14T05:30:41Z
 - License: CC-BY-4.0
 - Archived: No
 - Created At: 2020-09-22T21:51:41Z
-- Pushed At: 2026-07-06T05:37:24Z
+- Pushed At: 2026-07-13T05:37:56Z
 
 ## Possible Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-07-14T09:18:42.321626+05:30'
+collected_at: '2026-07-14T13:00:18.952399+05:30'
 published_at: '2026-07-10T03:31:57Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-07-14T09:18:42.321626+05:30'
-last_seen: '2026-07-14T09:18:42.321626+05:30'
-last_checked: '2026-07-14T09:18:42.321626+05:30'
+first_seen: '2026-07-14T13:00:18.952399+05:30'
+last_seen: '2026-07-14T13:00:18.952399+05:30'
+last_checked: '2026-07-14T13:00:18.952399+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging distributed agent interactions for enhanced knowledge retrieval and generation.
+- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging distributed agent-memory for enhanced knowledge retrieval and generation.
 
-- **Graph & Ontology Construction**: Dynamically constructs knowledge graphs and ontologies from input data, enabling structured memory representation and efficient semantic querying for downstream tasks.
+- **Graph & Ontology Construction**: Dynamically constructs and integrates graph structures and ontologies to enable structured knowledge representation, facilitating efficient retrieval and reasoning in RAG pipelines.
 
-- **Memory-Augmented RAG Pipeline**: Integrates agent memory with GraphRAG to improve context-aware generation, optimizing long-term dependency modeling and reducing hallucinations in LLM outputs.
+- **Python Implementation**: Provides a Python-based framework optimized for scalability, with modular components for agent-memory, graph construction, and ontology integration, supporting KDD 2026 research standards.
 
 ## Why It Matters
 

@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework**: Python-based open-source framework (`langgraph`) for building resilient, multi-agent systems with support for LLMs (OpenAI, Gemini), RAG, and enterprise-grade workflows.
-- **Key Features**: Integrates with `langchain`, `pydantic` for structured outputs, and enables resilient agent orchestration with fault tolerance and state management.
-- **Use Cases**: Supports chatbots, deep agents, and enterprise AI pipelines with multi-agent collaboration, tool integration, and generative AI
+- **Framework for resilient AI agents**: LangGraph provides a Python-based framework for building resilient, multi-agent systems with support for LLMs (OpenAI, Gemini), enterprise integration, and generative AI workflows.
+
+- **Stateful, graph-based execution**: Implements a graph-based architecture (using Pydantic for data validation) to model agent interactions, enabling complex workflows, parallel execution, and fault tolerance.
+
+- **Enterprise-ready features**: Supports RAG, multi-agent colla
 
 ## Use Cases
 

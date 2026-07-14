@@ -9,9 +9,9 @@ Model Context Protocol (MCP) acts as the bridge connecting LLMs and local develo
 ## Top Matched Resources
 
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) (framework - ESSENTIAL Tier)
-- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) (dataset - ESSENTIAL Tier)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) (mcp-server - ESSENTIAL Tier)
+- [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) (framework - ESSENTIAL Tier)
 - [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) (mcp-server - ESSENTIAL Tier)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
@@ -21,8 +21,8 @@ Model Context Protocol (MCP) acts as the bridge connecting LLMs and local develo
 
 https://github.com/modelcontextprotocol (Official MCP Repos)
 https://github.com/modelcontextprotocol/servers (MCP Reference Servers)
-- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server)
+- [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
 - [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp)
 
 ## Best Learning Resources
@@ -41,4 +41,4 @@ https://github.com/modelcontextprotocol/servers (MCP Reference Servers)
 
 ---
 
-*Last updated: 2026-07-14 09:23 IST*
+*Last updated: 2026-07-14 13:14 IST*

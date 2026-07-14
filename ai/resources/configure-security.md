@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/security/
-published_at: '2026-07-13T09:49:32.531933+05:30'
-collected_at: '2026-07-13T09:49:32.531949+05:30'
+published_at: '2026-07-14T13:04:07.092020+05:30'
+collected_at: '2026-07-14T13:04:07.092037+05:30'
 tags:
 - frontend_ui
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-security
-first_seen: '2026-07-13T09:49:32.531949+05:30'
-last_seen: '2026-07-13T09:49:32.531949+05:30'
-last_checked: '2026-07-13T09:49:32.531949+05:30'
+first_seen: '2026-07-14T13:04:07.092037+05:30'
+last_seen: '2026-07-14T13:04:07.092037+05:30'
+last_checked: '2026-07-14T13:04:07.092037+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Default Deny Policy**: Hugo enforces a default-deny security model where `os/exec`, remote communication, and similar operations are restricted via allowlists; unauthorized operations fail with detailed error messages.
+- **Default Deny Policy**: Hugo enforces a default-deny security model via allowlists for `os/exec`, remote HTTP access, and environment variables, blocking operations not explicitly permitted (e.g., `text/html` content is denied by default).
 
-- **Granular Allowlists**: Security policies include regex-based allowlists for executable commands (`exec.allow`), environment variables (`exec.osEnv`, `funcs.getenv`), HTTP methods/URLs (`http.methods`, `http.urls`), and Node.js permissions (`node.permissions.*`), with negation rules (`!`) for explicit denials.
+- **Node.js Permissions**: New in v0.161.0, the `node.permissions` config restricts Node.js tools (e.g., TailwindCSS) via `--permission` flags, controlling file I/O (`allowRead`/`allowWrite`), child processes (`allowChildProcess`), and native addons (`allowAddons`).
 
-- **Environment Overrides**: Security settings can be dynamically overridden via environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none`), and Node.js tools are restricted to permitted file system paths (`allowRead`/`allowWrite`) and child processes (`allowChildProcess`) when the permission model is enabled (`disable=false`).
+- **Negation & Environment Overrides**: Allowlists support negation (`!`) for deny rules (e.g., block `evil.example.com` while allowing others), and security settings can be overridden via `HUGO_SECURITY_*` environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none`).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-13T09:49:32.531933+05:30
+- Published: 2026-07-14T13:04:07.092020+05:30
 
 ## Related Tags
 

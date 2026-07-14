@@ -16,6 +16,7 @@ tags:
 - github-repo
 - openai
 - python
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports Anthropic (Claude, Claude Code), OpenAI (ChatGPT, Codex), and other LLM APIs for dynamic agent interactions and tool execution.
-- **Modular Python Framework**: Extensible architecture with plugins (`clawdbot`, `moltbot`) for custom toolchains, state management, and adaptive agent behavior.
-- **Stateful, Evolving Agent**: Implements persistent memory and incremental learning to enable continuous improvement and personalized responses over time.
+- **Modular AI Agent Framework**: Open-source Python-based system designed for extensibility, supporting integration with multiple LLMs (e.g., Anthropic, OpenAI, Codex) and agentic workflows via tools like `claude-code` and `moltbot`.
+
+- **Dynamic Tool Orchestration**: Implements adaptive agent behavior through a plugin architecture, enabling real-time tool selection and execution based on task requirements and model capabilities.
+
+- **Scalable Multi-Agent Collaboration**: Facilitates paralleliz
 
 ## Use Cases
 

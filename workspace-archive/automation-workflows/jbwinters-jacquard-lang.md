@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by jbwinters. Score: 60, Comments: 31.
+Hacker News story by jbwinters. Score: 80, Comments: 44.
 Original Link: https://github.com/jbwinters/jacquard-lang
 
 ## Use Cases

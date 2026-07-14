@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by get-inscribe. Score: 485, Comments: 191.
+Hacker News story by get-inscribe. Score: 522, Comments: 210.
 Original Link: https://get-inscribe.com/blog/apple-speech-api-benchmark.html
 
 ## Use Cases

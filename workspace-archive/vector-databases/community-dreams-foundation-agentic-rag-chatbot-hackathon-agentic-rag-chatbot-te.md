@@ -6,18 +6,18 @@ source_url: https://github.com/Community-Dreams-Foundation/agentic-rag-chatbot-h
 resource_id: github:community-dreams-foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-template-repository
 local_vault_path: ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md
 quality_score: 70
-archive_score: 75
+archive_score: 77
 archive_tier: useful
 resource_kind: template
 importance: medium
 tags:
 - agents
 - github-repo
-- meta-ai
-- models
 - python
 - rag
+- workflows
 selection_reason:
+- Strong keyword match
 - Useful for project building
 ---
 
@@ -26,16 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: template
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Template Repository**: Provides a starter template for building an agentic RAG (Retrieval-Augmented Generation) chatbot, designed for hackathon use cases.
-- **Python-Based**: Implements core functionality using Python, likely leveraging libraries like LangChain, LlamaIndex, or similar frameworks for RAG pipelines.
-- **GitHub Classroom Integration**: Structured for educational/team-based development with version control and collaboration features enabled via GitHub Classroom.
+- **Template Repository**: Provides a starter framework for building an agentic RAG (Retrieval-Augmented Generation) chatbot, designed for hackathon submissions.
+- **Python-Based**: Implements core functionality in Python, leveraging libraries for LLM integration, vector databases, and agent orchestration.
+- **GitHub Classroom Integration**: Structured for educational use, enabling automated assignment distribution and grading workflows for AI/ML hackathons.
 
 ## Use Cases
 

@@ -8,7 +8,7 @@ local_vault_path: ai/agents/evanthomasluke-awesome-ai-hacking-agents.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: workflow
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # EvanThomasLuke/Awesome-AI-Hacking-Agents
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: workflow
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Repository**: `EvanThomasLuke/Awesome-AI-Hacking-Agents` – A curated list of AI-driven autonomous agents designed for cybersecurity research, penetration testing, and offensive security applications.
-- **Metadata**: 569 stars, 92 forks, last updated 2026-07-09; language and topics unspecified, indicating potential ambiguity in categorization or emerging toolset.
-- **Purpose**: Focuses on aggregating AI-powered tools for adversarial simulation, vulnerability discovery, and automated exploitat
+- **Repository Overview**: Curated list of AI-driven autonomous agents designed for offensive security, penetration testing, and vulnerability assessment.
+- **Metadata**: 578 stars, 92 forks, last updated July 14, 2026; language unspecified.
+- **Purpose**: Aggregates tools/frameworks enabling AI-powered cyberattack simulations and red-teaming workflows.
 
 ## Use Cases
 

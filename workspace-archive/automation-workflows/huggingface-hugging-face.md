@@ -12,11 +12,9 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- hackernews
 - rag
 - web-crawled
 - workflows
-- youtube
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: Moon Bot integrates a Slack-native coding agent with Hugging Face's infrastructure, leveraging **Buckets** for model storage and retrieval, enabling seamless deployment of ML models in Slack workflows.
+- **Integration Architecture**: Moon Bot is a Slack-native coding agent leveraging Hugging Face Buckets for model storage and inference, enabling real-time, in-Slack code generation and debugging via Slack's API and event-driven workflows.
 
-- **Technical Backend**: Uses **Hugging Face Transformers** and **FastAPI** for model inference, with **Slack Bolt** framework for real-time bot interactions, ensuring low-latency responses in collaborative coding environments.
+- **Model & Data Pipeline**: Utilizes Hugging Face's `transformers` library and custom model buckets for versioned, scalable deployment, with automated model updates and bucket synchronization for consistent performance.
 
-- **Deployment & Scalability**: Implemented via
+- **Security & Scalability**: Impleme
 
 ## Use Cases
 

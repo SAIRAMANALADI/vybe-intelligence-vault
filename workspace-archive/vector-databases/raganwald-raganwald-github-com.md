@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Jekyll-based static site generator**: Repository contains the source for a Jekyll-powered website (`raganwald.github.com`), enabling static site generation with Markdown and Liquid templating.
-- **Minimal configuration**: No additional topics or dependencies specified; relies on default Jekyll setup for HTML output.
-- **Last updated**: Repository metadata indicates a future update timestamp (`2026-07-08T15:07:53Z`), suggesting potential planned changes or automated scheduling.
+- **Jekyll-based static site generator** for `raganwald.com`, utilizing HTML templating and Markdown content.
+- **GitHub Pages deployment** with automatic builds triggered by `push` events to the `master` branch.
+- **Minimalist structure** with no additional dependencies or topics, relying solely on Jekyll’s default configuration.
 
 ## Use Cases
 

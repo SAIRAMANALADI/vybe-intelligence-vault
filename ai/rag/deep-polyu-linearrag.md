@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-14T09:18:37.279762+05:30'
+collected_at: '2026-07-14T13:00:13.959762+05:30'
 published_at: '2026-07-13T02:17:29Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-14T09:18:37.279762+05:30'
-last_seen: '2026-07-14T09:18:37.279762+05:30'
-last_checked: '2026-07-14T09:18:37.279762+05:30'
+first_seen: '2026-07-14T13:00:13.959762+05:30'
+last_seen: '2026-07-14T13:00:13.959762+05:30'
+last_checked: '2026-07-14T13:00:13.959762+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph RAG Framework**: Introduces a novel **Linear Graph Retrieval-Augmented Generation (LinearRAG)** approach for large-scale corpora, leveraging linear graph structures to optimize retrieval efficiency and scalability in RAG pipelines.
-
-- **ICLR 2026 Contribution**: Proposes a method to **linearize graph-based retrieval** for LLMs, reducing computational overhead while maintaining or improving retrieval accuracy in knowledge-intensive tasks.
-
-- **Open-Source Implementation**: Provides a **Python-based repository** with tools for constructing linear graphs, integrating with LLMs, and benchmarking performance on large-scale textual corpora.
+- Introduces **LinearRAG**, a novel graph-based Retrieval-Augmented Generation (RAG) framework for large-scale corpora, leveraging linear graph structures to optimize retrieval efficiency and scalability.
+- Proposes a **linear graph retrieval mechanism** that reduces computational overhead while maintaining high retrieval accuracy, enabling efficient handling of large-scale textual data.
+- Demonstrates superior performance in **ICLR 2026 evaluations**, outperforming traditional RAG methods in both retrieval quality and generation coherence on benchmark datasets.
 
 ## Why It Matters
 

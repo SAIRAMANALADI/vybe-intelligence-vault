@@ -6,8 +6,8 @@ source_name: Web Discovery
 source_url: https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar&source=
 resource_id: blog:medium-apps-on-google-play
 ---publication_layout_nav-----------------------------------------
-published_at: '2026-06-24T22:50:40.203578+05:30'
-collected_at: '2026-06-24T22:50:40.203592+05:30'
+published_at: '2026-07-14T13:08:10.908616+05:30'
+collected_at: '2026-07-14T13:08:10.908632+05:30'
 tags:
 - hackernews
 - rag
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:medium-apps-on-google-play
-first_seen: '2026-06-24T22:50:40.203592+05:30'
-last_seen: '2026-06-24T22:50:40.203592+05:30'
-last_checked: '2026-06-24T22:50:40.203592+05:30'
+first_seen: '2026-07-14T13:08:10.908632+05:30'
+last_seen: '2026-07-14T13:08:10.908632+05:30'
+last_checked: '2026-07-14T13:08:10.908632+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform**: Medium is a content-sharing platform offering long-form stories, articles, and audio versions, accessible across Android, iOS, and web, with features like highlighting, bookmarking, and personalized recommendations.
+- **Medium App Overview**: A Google Play Store application by Medium Corporation, rated **Teen** (Users Interact, In-App Purchases), with **10M+ downloads** and a **4.7-star rating** from 510K reviews. Offers ad-free long-form content, audio playback, and cross-device synchronization (smartphone, tablet, desktop).
 
-- **Monetization & Data**: Uses a freemium model with a $4.99/month or $49.99/year subscription for unlimited access; collects personal data (e.g., photos, location) but encrypts it in transit and allows deletion requests.
+- **Core Features & Monetization**: Supports **highlighting, bookmarking, and personalized recommendations**; allows **publishing and monetization via the Medium Partner Program**. Subscription model: **$4.99/month or $49.99/year** (auto-renewing via Google Play), with data encrypted in transit and no third-party sharing per developer disclosure.
 
-- **Content & Ratings**: Hosts 10M+ downloads with a 4.7-star rating (508K reviews), rated "Teen" for user interactions and in-app purchases, and includes ad-free, distraction-minimized reading with a global community of writers and readers.
+- **Data Safety & User Feedback**: Collects **personal info, photos/videos, and other data types**; supports data deletion requests. User reviews highlight **bugs in Reading List persistence** and **subscription transparency concerns**, with mixed feedback on content quality and pricing model.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T22:50:40.203578+05:30
+- Published: 2026-07-14T13:08:10.908616+05:30
 
 ## Related Tags
 

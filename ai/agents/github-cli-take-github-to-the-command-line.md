@@ -4,19 +4,20 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://cli.github.com
-published_at: '2026-07-08T14:23:15.268741+05:30'
-collected_at: '2026-07-08T14:23:15.268754+05:30'
+published_at: '2026-07-14T13:04:29.907370+05:30'
+collected_at: '2026-07-14T13:04:29.907384+05:30'
 tags:
 - agents
 - producthunt
 - reddit
+- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:github-cli-take-github-to-the-command-line
-first_seen: '2026-07-08T14:23:15.268754+05:30'
-last_seen: '2026-07-08T14:23:15.268754+05:30'
-last_checked: '2026-07-08T14:23:15.268754+05:30'
+first_seen: '2026-07-14T13:04:29.907384+05:30'
+last_seen: '2026-07-14T13:04:29.907384+05:30'
+last_checked: '2026-07-14T13:04:29.907384+05:30'
 health_score: 100
 ---
 
@@ -24,9 +25,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub CLI (`gh`)** is a free, open-source tool that integrates GitHub workflows directly into the terminal, supporting commands like `gh issue list`, `gh pr status`, `gh pr checkout`, `gh pr create`, `gh release create`, and `gh repo view`.
-- **Installation** is supported across macOS (Homebrew/binary), Windows (WinGet/MSI), and Linux (apt/dnf/zypper/.deb/.rpm/.tar.gz) with version `v2.96.0` available for download.
-- **Advanced features** include GitHub Copilot CLI integration, custom aliases (e.g., `gh alias set bugs 'issue list --label="bugs"'`), API scripting, and GitHub Enterprise Server compatibility.
+- **GitHub CLI (`gh`)** integrates GitHub workflows directly into the terminal, enabling CLI-based operations for issues, PRs, releases, and repository management via native commands (`gh issue list`, `gh pr status`, `gh release create`, etc.).
+- **Cross-platform installation** supported via package managers (Homebrew, WinGet, `apt`, `dnf`, `zypper`) or direct binary downloads for macOS, Windows, and Linux.
+- **Extensible features** include GitHub Copilot CLI integration, custom aliases (`gh alias set`), and GitHub Enterprise Server compatibility for scripting and automation.
 
 ## Why It Matters
 
@@ -36,13 +37,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-08T14:23:15.268741+05:30
+- Published: 2026-07-14T13:04:29.907370+05:30
 
 ## Related Tags
 
 - agents
 - producthunt
 - reddit
+- scripts
 - web-crawled
 - workflows
 

@@ -7,9 +7,9 @@ source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
 local_vault_path: ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md
 quality_score: 70
-archive_score: 80
+archive_score: 78
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -24,7 +24,7 @@ tags:
 - models
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte
@@ -32,17 +32,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 80 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 78 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **RAG Evolution & Architecture**: RAG systems progress from *Naive* (basic retrieval + generation) to *Advanced* (hybrid retrieval, reranking, query rewriting) to *Graph RAG* (entity-relation graph traversal for multi-hop reasoning), addressing limitations in freshness, private knowledge, and hallucinations by decoupling reasoning (LLM) from reference (external knowledge base).
+- **RAG Overview & Evolution**: RAG combines retrieval, augmentation, and generation to address LLM limitations (freshness, private knowledge, hallucinations) by dynamically pulling external data. It evolved from Naive RAG (basic vector search) to Advanced RAG (hybrid retrieval, reranking, query transformation) to Modular RAG (routing, looping, tool integration) and Graph RAG (entity-relation graphs for multi-hop reasoning).
 
-- **Core Components & Techniques**: Naive RAG uses chunking + embeddings + similarity search; Advanced RAG adds hybr
+- **Core Techniques & Tools**: Key methods include BM25 (sparse retrie
 
 ## Use Cases
 

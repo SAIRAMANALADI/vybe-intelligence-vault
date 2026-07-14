@@ -1,0 +1,57 @@
+---
+title: onyx-dot-app/EnterpriseRAG-Bench
+archive_category: ai-tools-products
+source_category: ai/rag
+source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
+resource_id: github:onyx-dot-app/enterpriserag-bench
+local_vault_path: ai/rag/onyx-dot-app-enterpriserag-bench.md
+quality_score: 70
+archive_score: 77
+archive_tier: useful
+resource_kind: dataset
+importance: medium
+tags:
+- benchmark
+- dataset
+- github-repo
+- hackernews
+- rag
+- unknown
+- workflows
+selection_reason:
+- Strong keyword match
+- Active open-source repository
+---
+
+# onyx-dot-app/EnterpriseRAG-Bench
+
+## Why This Is In The Archive
+
+- Matched archive category: `AI Tools and Products`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
+
+## Summary
+
+- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary/company internal documents, enabling standardized assessment of enterprise RAG performance.
+
+- **Key Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based QA tasks tailored for enterprise knowledge bases and information retrieval systems.
+
+- **Technical Scope**: Supports Python-based RAG evaluation pipelines, covering large language models
+
+## Use Cases
+
+- Workflow automation search
+- AI developer tooling
+- Developer utility updates
+
+## Source
+
+Original source URL: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
+
+## Local Vault File
+
+Path: [onyx-dot-app-enterpriserag-bench.md](../../ai/rag/onyx-dot-app-enterpriserag-bench.md)

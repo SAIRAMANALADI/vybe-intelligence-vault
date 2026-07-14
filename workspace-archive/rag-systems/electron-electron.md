@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform desktop app framework** leveraging Chromium (Blink), Node.js, and V8 JavaScript engine to build native applications using HTML, CSS, and JavaScript.
-
-- **Core architecture** integrates a modified Chromium browser engine with Node.js runtime, enabling direct access to low-level system APIs via JavaScript.
-
-- **Build system** relies on GN (Generate Ninja) and Ninja for compilation, supporting Windows (MSVC), macOS (Clang), and Linux (GCC/Clang) with Electron-specific optimizatio
+- **Cross-platform desktop app framework** leveraging Chromium for rendering, Node.js for backend integration, and V8 for JavaScript execution, enabling native-like apps using HTML/CSS/JS.
+- **Core architecture** combines a C++ runtime with a multi-process model (BrowserWindow, renderer, main process) for performance and security isolation.
+- **Tooling & ecosystem** supports native Node.js modules, IPC (Inter-Process Communication), and integrates with build systems like Electron Forge/GYP for c
 
 ## Use Cases
 

@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by detkin. Score: 22, Comments: 24.
+Hacker News story by detkin. Score: 32, Comments: 28.
 Original Link: https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html
 
 ## Use Cases

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/flowiseai-flowise.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -29,17 +29,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: benchmark
+- Resource kind: workflow
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Visual AI Agent Builder**: Open-source, low/no-code platform in TypeScript for constructing AI agents and workflows, leveraging LangChain and React for modular, drag-and-drop interfaces.
+- **Visual AI Agent Builder**: Open-source, low-code/no-code platform in TypeScript for constructing AI agents and workflows, leveraging React for UI and LangChain for agentic logic.
 
-- **Multi-Agent & RAG Integration**: Supports multi-agent systems, Retrieval-Augmented Generation (RAG), and integration with LLMs (e.g., OpenAI, ChatGPT) for dynamic, agentic workflows and automation.
+- **Multi-Model & Tool Integration**: Supports OpenAI, RAG, and multi-agent systems with modular components for chatbots, workflow automation, and agentic decision-making.
 
-- **Extensible & Scalable**: Modular architecture with JavaScript/TypeScript backend and React frontend,
+- **Deployment & Scalability**: Enables rapid prototyping and deployment of AI agents with JavaScript/TypeScript backend, optimized for extensi
 
 ## Use Cases
 

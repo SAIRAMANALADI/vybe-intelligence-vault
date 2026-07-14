@@ -4,17 +4,18 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
-published_at: '2026-07-10T04:22:05.450533+05:30'
-collected_at: '2026-07-10T04:22:05.450545+05:30'
+published_at: '2026-07-14T13:06:04.825347+05:30'
+collected_at: '2026-07-14T13:06:04.825360+05:30'
 tags:
 - agents
 - openai
 - web-crawled
+- workflows
 status: active
 resource_id: blog:copilot-cli-sessions-in-visual-studio-code
-first_seen: '2026-07-10T04:22:05.450545+05:30'
-last_seen: '2026-07-10T04:22:05.450545+05:30'
-last_checked: '2026-07-10T04:22:05.450545+05:30'
+first_seen: '2026-07-14T13:06:04.825360+05:30'
+last_seen: '2026-07-14T13:06:04.825360+05:30'
+last_checked: '2026-07-14T13:06:04.825360+05:30'
 health_score: 100
 ---
 
@@ -22,9 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via Copilot CLI, managed through the Chat view; supports multi-repository workspaces, custom agents, and deep research via `/research` command.
-- **Isolation Modes**: Two isolation modes—**Worktree** (isolated Git worktree for safe changes) and **Folder** (direct workspace modifications)—with auto-approval in Worktree mode and configurable permissions in Folder mode.
-- **Permissions & Approvals**: Worktree isolation enforces **Bypass Approvals**; Folder isolation supports **Default Approvals**, **Bypass Approvals**, and **Autopilot** modes, configurable via chat input permissions picker.
+- **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via GitHub Copilot CLI, managed via the Chat view; support multi-repository workspaces, custom agents, and deep research (`/research` command).
+
+- **Isolation Modes**: Copilot CLI supports **Worktree** (isolated Git worktree) and **Folder** (direct workspace changes) isolation; Worktree auto-approves all tool calls, while Folder allows configurable permission levels (Default/Bypass/Autopilot).
+
+- **Permissions & Workflow**: Worktree isolation enforces **Bypass Approvals**; Folder isolation supports all permission levels; slash commands (`/compact`, `/yolo`, `/autoApprove`) enable advanced session control.
 
 ## Why It Matters
 
@@ -34,13 +37,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-10T04:22:05.450533+05:30
+- Published: 2026-07-14T13:06:04.825347+05:30
 
 ## Related Tags
 
 - agents
 - openai
 - web-crawled
+- workflows
 
 ## Source
 
