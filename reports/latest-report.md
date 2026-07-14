@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-14T20:04:49.093146+05:30`
+Generated at: `2026-07-14T20:19:24.642144+05:30`
 
 ## Executive Summary
 
@@ -39,16 +39,16 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify** - (Rank Change: `+11841`) ([File](../ai/rag/medium-members-can-listen-to-any-medium-story-with-2.md))
-- **Medium Status** - (Rank Change: `+11834`) ([File](../ai/resources/medium-status.md))
-- **Medium Help Center** - (Rank Change: `+11831`) ([File](../ai/resources/medium-help-center.md))
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+11820`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy-2.md))
-- **The Medium Blog** - (Rank Change: `+11817`) ([File](../ai/resources/the-medium-blog.md))
-- **stanford-oval/storm** - (Rank Change: `+11812`) ([File](../ai/rag/stanford-oval-storm-2.md))
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+11663`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **pathwaycom/llm-app** - (Rank Change: `+11623`) ([File](../ai/rag/pathwaycom-llm-app-2.md))
 - **CloudEvents |** - (Rank Change: `+5846`) ([File](../ai/resources/cloudevents.md))
 - **What is artificial intelligence? | web.dev** - (Rank Change: `+5522`) ([File](../ai/rag/what-is-artificial-intelligence-web-dev.md))
+- **Improve performance and UX for client-side AI | web.dev** - (Rank Change: `+5446`) ([File](../ai/rag/improve-performance-and-ux-for-client-side-ai-web.md))
+- **Ethics and AI | web.dev** - (Rank Change: `+5416`) ([File](../ai/resources/ethics-and-ai-web-dev.md))
+- **openai/tiktoken** - (Rank Change: `+4352`) ([File](../ai/rag/openai-tiktoken.md))
+- **Security model** - (Rank Change: `+4302`) ([File](../ai/rag/security-model.md))
+- **Extensions for Visual Studio family of products | Visual Studio Marketplace** - (Rank Change: `+4280`) ([File](../ai/resources/extensions-for-visual-studio-family-of-products-vi.md))
+- **Get extra features on YouTube TV with 4K Plus - Computer - YouTube TV Help** - (Rank Change: `+4257`) ([File](../ai/rag/get-extra-features-on-youtube-tv-with-4k-plus-comp.md))
+- **Shopping & Ordering Support | Verizon Customer Support** - (Rank Change: `+4202`) ([File](../ai/resources/shopping-ordering-support-verizon-customer-support.md))
+- **Coding agents think ahead of time** - (Rank Change: `+4019`) ([File](../ai/agents/arxiv-2607-05188.md))
 
 ## 🔄 Essential Tier Transitions
 

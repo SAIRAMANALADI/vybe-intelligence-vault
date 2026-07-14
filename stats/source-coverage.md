@@ -6,12 +6,12 @@ Distribution of original signal ingestion sources across processed URLs:
 | :--- | ---: |
 | arxiv | 7520 |
 | huggingface | 900 |
-| github | 805 |
+| github | 804 |
 | nextjs.org | 68 |
 | support.google.com | 32 |
 | youtube | 23 |
 | react.dev | 23 |
-| medium.com | 20 |
+| medium.com | 19 |
 | developers.google.com | 18 |
 | cloud.google.com | 18 |
 | learn.microsoft.com | 16 |
@@ -75,12 +75,12 @@ Distribution of original signal ingestion sources across processed URLs:
 | support.gainsight.com | 5 |
 | csrc.nist.gov | 5 |
 | ai.google | 4 |
-| speechify.com | 4 |
 | developers.llamaindex.ai | 4 |
 | milvus.io | 4 |
 | langchain.com | 4 |
 | martinuke0.github.io | 4 |
 | github.blog | 4 |
+| speechify.com | 4 |
 | blog.langchain.com | 4 |
 | python.langchain.com | 4 |
 | haystack.deepset.ai | 4 |
@@ -340,9 +340,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | knative.dev | 1 |
 | status.pinecone.io | 1 |
 | githubstatus.com | 1 |
-| status.medium.com | 1 |
-| policy.medium.com | 1 |
-| blog.medium.com | 1 |
 | mrlatte.net | 1 |
 | pragatimehraa.medium.com | 1 |
 | is4.ai | 1 |
@@ -1750,3 +1747,5 @@ Distribution of original signal ingestion sources across processed URLs:
 | botpenguin.com | 1 |
 | startdesigns.com | 1 |
 | signitysolutions.com | 1 |
+| status.medium.com | 1 |
+| policy.medium.com | 1 |
