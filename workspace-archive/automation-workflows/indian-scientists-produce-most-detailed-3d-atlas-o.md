@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by BaudouinVH. Score: 118, Comments: 15.
+Hacker News story by BaudouinVH. Score: 179, Comments: 20.
 Original Link: https://www.bbc.com/news/articles/cg53l737v1qo
 
 ## Use Cases

@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-07-14T19:47:12.050268+05:30'
+collected_at: '2026-07-15T01:15:22.140599+05:30'
 published_at: '2026-07-12T13:21:37Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 974
 language: Python
 status: active
@@ -18,9 +17,9 @@ archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-07-14T19:47:12.050268+05:30'
-last_seen: '2026-07-14T19:47:12.050268+05:30'
-last_checked: '2026-07-14T19:47:12.050268+05:30'
+first_seen: '2026-07-15T01:15:22.140599+05:30'
+last_seen: '2026-07-15T01:15:22.140599+05:30'
+last_checked: '2026-07-15T01:15:22.140599+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **LangChain RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
-
-- **Python-Based Architecture**: Utilizes Python with LangChain's modular components (e.g., `RetrievalQA`, `VectorStore`) to process and query documents via embeddings (e.g., FAISS or Chroma).
-
-- **Modular Design**: Includes components for document loading (e.g., `PyPDFLoader`), text splitting (`RecursiveCharacterTextSplitter`), and vector storage (e.g., `ChromaDB`) for scalable RAG workflows.
+- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
+- **Python-Based Architecture**: Utilizes Python with LangChain to orchestrate document loading, text splitting, vector embedding (via FAISS or similar), and LLM querying for contextual generation.
+- **Modular Structure**: Includes components for document ingestion, vector storage, retrieval, and prompt-based LLM interaction, with minimal dependencies for ease of deployment.
 
 ## Why It Matters
 
@@ -42,7 +39,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: pixegami
 - Stars: 974
-- Forks: 517
+- Forks: 520
 - Language: Python
 - Topics: None
 - Last Updated: 2026-07-12T13:21:37Z

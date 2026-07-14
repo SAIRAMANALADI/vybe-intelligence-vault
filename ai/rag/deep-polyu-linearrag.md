@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-14T19:48:42.239608+05:30'
+collected_at: '2026-07-15T01:16:47.196168+05:30'
 published_at: '2026-07-13T02:17:29Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 524
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-14T19:48:42.239608+05:30'
-last_seen: '2026-07-14T19:48:42.239608+05:30'
-last_checked: '2026-07-14T19:48:42.239608+05:30'
+first_seen: '2026-07-15T01:16:47.196168+05:30'
+last_seen: '2026-07-15T01:16:47.196168+05:30'
+last_checked: '2026-07-15T01:16:47.196168+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel linear graph-based RAG framework for large-scale corpora, optimizing retrieval efficiency and scalability for LLMs by leveraging linear graph structures to enhance retrieval-augmented generation.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing LLM performance via graph-based indexing and retrieval mechanisms.
 
-- **ICLR 2026 Contribution**: Proposes a method to linearize graph-based RAG, reducing computational overhead while maintaining or improving retrieval accuracy, addressing challenges in dynamic corpus scaling and real-time query processing.
+- **ICLR 2026 Contribution**: Proposes a scalable, linear-time graph retrieval method to mitigate computational bottlenecks in traditional RAG systems, enabling faster and more efficient augmentation of LLMs with external knowledge.
 
-- **Implementation**: Provides a Python-based open-source repository with tools for constructing linear graphs, integrating retrieval mechanisms, and augmenting LLMs with retrieved context, optimized for large-scale document corpora.
+- **Implementation**: Provides a Python-based open-source repository (`LinearRAG`) with tools for constructing linear graphs, indexing corpora, and integrating retrieval-augmented generation workflows for LLMs.
 
 ## Why It Matters
 

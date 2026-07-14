@@ -8,7 +8,7 @@ local_vault_path: ai/agents/brandpeng-langchain1-0-langgraph1-0-learning.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - python
 - workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # BrandPeng/Langchain1.0-Langgraph1.0-Learning
@@ -26,15 +26,15 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: workflow
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Repository Purpose**: Dedicated to learning **LangChain 1.0** and **LangGraph 1.0**, focusing on **agent development** with a structured path from **fundamental concepts to hands-on projects**.
-- **Technical Scope**: Covers **Python-based agent frameworks**, including **workflow orchestration** (LangGraph) and **LLM integration** (LangChain) for building autonomous systems.
-- **Project Status**: Last updated **July 13, 2026**, with **581 stars** and **106 forks**, indicating active community
+- **Repository Overview**: Dedicated to learning **LangChain 1.0** and **LangGraph 1.0**, focusing on **agent development** with a structured path from foundational concepts to practical implementations.
+- **Technical Scope**: Covers **multi-agent systems**, workflow orchestration, and integration of **LangChain/LangGraph** components for AI-driven applications.
+- **Repository Stats**: **583 stars**, **107 forks**, primarily in **Python**, last updated **2026-07-14**.
 
 ## Use Cases
 

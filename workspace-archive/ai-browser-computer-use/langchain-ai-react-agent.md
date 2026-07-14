@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Template Purpose**: Provides a LangGraph-based implementation of a ReAct (Reasoning and Acting) agent in Python, enabling iterative reasoning and action execution workflows.
-- **Key Components**: Utilizes LangGraph for stateful, multi-actor workflows with tools, tools calls, and intermediate steps managed via a graph-based architecture.
-- **Dependencies**: Built on LangChain ecosystem (LangGraph, LangGraph Python) with modular design for extensibility via custom tools or state modifications.
+- **Template Purpose**: Provides a LangGraph-based implementation of a ReAct (Reasoning and Acting) agent in Python, facilitating iterative reasoning and action execution.
+
+- **Key Components**: Utilizes LangGraph for state management and workflow orchestration, enabling structured agent interactions with tools and memory.
+
+- **Update Status**: Last modified on **2026-07-14**, with **795 stars** and **693 forks**, indicating active community engagement.
 
 ## Use Cases
 

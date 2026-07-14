@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-07-14T19:48:37.064655+05:30'
+collected_at: '2026-07-15T01:16:47.199044+05:30'
 published_at: '2026-07-11T01:00:06Z'
 tags:
 - github-repo
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-07-14T19:48:37.064655+05:30'
-last_seen: '2026-07-14T19:48:37.064655+05:30'
-last_checked: '2026-07-14T19:48:37.064655+05:30'
+first_seen: '2026-07-15T01:16:47.199044+05:30'
+last_seen: '2026-07-15T01:16:47.199044+05:30'
+last_checked: '2026-07-15T01:16:47.199044+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples leveraging Llama2 and OpenAI models.
-- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) and optimizing inference via Ray’s scalable serving infrastructure.
-- **Multi-Model Deployment**: Showcases hybrid architectures combining fine-tuned models, vector databases (e.g., Anyscale), and Ray’s distributed compute for low-latency LLM applications.
+- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized retrieval mechanisms.
+
+- **Fine-Tuning & Serving Integration**: Provides Jupyter Notebooks for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve for low-latency inference, with examples for hybrid model serving (open-source + proprietary APIs).
+
+- **Scalable Architecture**: Leverages Ray’s distributed computing to handle large-scale LLM applications, including batch inference, dynamic scaling, and seamless integration with retrieval systems (e.g., vector databases) for end-to-end production deployment.
 
 ## Why It Matters
 

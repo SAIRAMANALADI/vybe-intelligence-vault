@@ -8,13 +8,12 @@ local_vault_path: ai/rag/reworkd-agentgpt.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: template
 importance: medium
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - openai
 - rag
 - typescript
@@ -28,15 +27,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: template
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Purpose**: Browser-based platform for assembling, configuring, and deploying autonomous AI agents using TypeScript and modern web frameworks (Next.js/T3 stack).
-- **Key Integrations**: Supports OpenAI LLMs, LangChain for agent orchestration, and compatibility with AutoGPT/BabyAGI methodologies.
-- **Technical Stack**: Built on Next.js (React framework), leveraging modern TypeScript for agent configuration and deployment in a client-side environment.
+- **Browser-based autonomous AI agent deployment**: Enables users to assemble, configure, and deploy AI agents directly in the browser without local setup.
+
+- **Tech stack**: Built with TypeScript, leveraging Next.js (T3 stack), LangChain, and OpenAI's LLM APIs for agent orchestration and reasoning.
+
+- **Integration & scalability**: Supports modular agent configurations (e.g., BabyAGI, AutoGPT) with GitHub-hosted templates for rapid deployment and customization.
 
 ## Use Cases
 

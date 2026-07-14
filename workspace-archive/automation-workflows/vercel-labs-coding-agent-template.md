@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent AI coding platform** leveraging Vercel Sandbox for isolated execution environments and AI Gateway for optimized AI model routing/management.
-- **TypeScript-based template** providing a structured foundation for deploying autonomous coding agents with Vercel’s serverless infrastructure.
-- **Last updated July 2026**, indicating active development with potential support for cutting-edge AI-driven workflows and Vercel’s latest features.
+- **Multi-agent AI coding platform** leveraging Vercel Sandbox for isolated execution environments and AI Gateway for LLM orchestration.
+- **TypeScript-based** template enabling agent collaboration for automated code generation, testing, and debugging workflows.
+- **Last updated July 2026**, with 1,742 stars and 285 forks, indicating active community adoption.
 
 ## Use Cases
 

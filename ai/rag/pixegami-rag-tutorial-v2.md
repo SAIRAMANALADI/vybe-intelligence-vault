@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-07-14T19:47:12.086081+05:30'
+collected_at: '2026-07-15T01:15:22.097035+05:30'
 published_at: '2026-07-14T13:01:32Z'
 tags:
-- benchmark
 - github-repo
+- meta-ai
+- models
 - python
 - rag
 stars: 961
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-07-14T19:47:12.086081+05:30'
-last_seen: '2026-07-14T19:47:12.086081+05:30'
-last_checked: '2026-07-14T19:47:12.086081+05:30'
+first_seen: '2026-07-15T01:15:22.097035+05:30'
+last_seen: '2026-07-15T01:15:22.097035+05:30'
+last_checked: '2026-07-15T01:15:22.097035+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates advanced Retrieval-Augmented Generation (RAG) using local language models (LLMs) via frameworks like LangChain, enabling offline or privacy-focused deployments.
-
-- **Dynamic Database Updates**: Implements automated or manual database refresh mechanisms to ensure RAG pipelines use up-to-date knowledge sources, improving response relevance.
-
-- **Testing Framework**: Includes structured testing methodologies for evaluating RAG performance, covering retrieval accuracy, response quality, and latency benchmarks.
+- **Local LLM Integration**: Demonstrates end-to-end RAG pipeline using local language models (e.g., Ollama) for privacy-preserving inference without API dependencies.
+- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma) refresh mechanisms for real-time document ingestion and retrieval.
+- **Testing Framework**: Includes unit/integration tests (e.g., pytest) to validate retrieval quality, LLM response accuracy, and pipeline robustness.
 
 ## Why It Matters
 

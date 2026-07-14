@@ -6,15 +6,17 @@ source_url: https://github.com/pathwaycom/llm-app
 resource_id: github:pathwaycom/llm-app
 local_vault_path: ai/rag/pathwaycom-llm-app-2.md
 quality_score: 70
-archive_score: 75
+archive_score: 77
 archive_tier: useful
 resource_kind: template
 importance: medium
 tags:
 - github-repo
 - jupyter notebook
+- openai
 - rag
 selection_reason:
+- Strong keyword match
 - Useful for project building
 ---
 
@@ -23,16 +25,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: template
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-*   Provides cloud-native templates for RAG, AI pipelines, and enterprise search, integrating LLMs with vector indexing.
-*   Enables real-time data synchronization from heterogeneous sources including SharePoint, S3, Kafka, and PostgreSQL.
-*   Docker-friendly architecture supporting LLMops for live data processing and scalable AI application deployment.
+- **Cloud-native templates** for **Retrieval-Augmented Generation (RAG)**, AI pipelines, and enterprise search with **real-time data synchronization** (SharePoint, Google Drive, S3, Kafka, PostgreSQL, APIs, etc.) via Dockerized deployment.
+
+- **Pre-configured integrations** for **vector databases**, **live data ingestion**, and **LLM prompting** (Hugging Face, OpenAI) with **LLMOps** and **security** best practices.
+
+- **Jupyter Notebook-based** repository supporting **local LLM execution**, **v
 
 ## Use Cases
 

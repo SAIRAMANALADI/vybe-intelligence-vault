@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ksm26/Multi-AI-Agent-Systems-with-crewAI
-collected_at: '2026-07-14T19:51:22.422123+05:30'
+collected_at: '2026-07-15T01:19:27.230063+05:30'
 published_at: '2026-07-06T11:12:29Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-05-27T13:55:05Z'
 pushed_at: '2024-06-11T14:01:02Z'
 resource_id: github:ksm26/multi-ai-agent-systems-with-crewai
-first_seen: '2026-07-14T19:51:22.422123+05:30'
-last_seen: '2026-07-14T19:51:22.422123+05:30'
-last_checked: '2026-07-14T19:51:22.422123+05:30'
+first_seen: '2026-07-15T01:19:27.230063+05:30'
+last_seen: '2026-07-15T01:19:27.230063+05:30'
+last_checked: '2026-07-15T01:19:27.230063+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent System Framework**: Demonstrates specialized AI agent teams using the open-source `crewAI` library to automate complex, multi-step business processes via role-based task delegation and natural language prompting.
+- **Multi-Agent System Framework**: Demonstrates specialized AI agent teams using the open-source `crewAI` library to automate complex, multi-step business processes (e.g., financial analysis, customer support, event planning) via role-playing and natural language prompting.
 
-- **Technical Implementation**: Utilizes Jupyter Notebooks to showcase custom tools, error handling, and memory integration for workflow optimization in domains like financial analysis, customer support automation, and event planning.
+- **Workflow Optimization**: Implements Jupyter Notebook-based workflows for task automation, error handling, and custom tool integration, enabling efficient management of complex tasks and business process automation.
 
-- **Advanced Features**: Covers AI workflow optimization, resume tailoring, technical writing, and role-playing scenarios with support for open-source AI integration and task automation across diverse use cases.
+- **Open-Source AI Tools**: Provides modular templates for AI memory, role specialization, and prompt engineering, facilitating technical writing, resume tailoring, and multi-agent cooperation in open-source AI applications.
 
 ## Why It Matters
 

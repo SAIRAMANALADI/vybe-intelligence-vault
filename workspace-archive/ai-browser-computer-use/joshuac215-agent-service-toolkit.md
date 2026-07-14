@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **LangGraph-based Agent Framework**: Implements a modular AI agent service architecture using LangGraph for stateful, multi-agent workflows with graph-based task orchestration.
+- **LangGraph-based Agent Framework**: Implements a modular AI agent architecture using LangGraph for stateful, multi-agent workflows with graph-based execution and tool integration.
 
-- **Full-Stack Deployment**: Combines FastAPI for RESTful backend services and Streamlit for interactive frontend, enabling real-time agent interaction and monitoring.
+- **FastAPI + Streamlit Dual Interface**: Exposes RESTful endpoints via FastAPI for backend agent orchestration and provides a real-time UI via Streamlit for interactive agent management and visualization.
 
-- **Tool Integration & Extensibility**: Provides pre-built agent tools and supports custom tool integration, with Docker support for scalable deploymen
+- **Prebuilt Tooling & Extensibility**: Includes built-in agent tools (e.g., web search, code execution) with
 
 ## Use Cases
 

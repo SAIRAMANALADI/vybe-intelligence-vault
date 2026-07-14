@@ -14,6 +14,7 @@ tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -35,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Trilingual Learning Roadmap**: Curates 240+ resources spanning LLM fundamentals to multi-agent systems, available in Traditional Chinese, Simplified Chinese, and English with hands-on Python examples.
+- **Trilingual Learning Roadmap**: Curates 240+ resources spanning LLM fundamentals to multi-agent systems, supporting traditional Chinese, English, and simplified Chinese for AI agent development.
 
-- **Comprehensive Topics**: Covers agentic AI workflows, LLM agents, RAG, prompt engineering, MCP, CLI tools (e.g., Claude Code/Skills), and multi-agent architectures with structured tutorials.
+- **Technical Scope**: Covers agentic AI workflows, Model Context Protocol (MCP), RAG, prompt engineering, and CLI tools with Python-based examples and hands-on tutorials.
 
-- **Active Maintenance**: Last updated July 2026, with 4.4k+ stars and 576 forks, indicating strong
+- **Repository Metrics**: 4,505 stars, 581 forks, last updated July 14, 2026, with topics including `ai-agents`, `claude-code`,
 
 ## Use Cases
 

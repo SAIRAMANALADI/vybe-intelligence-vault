@@ -14,9 +14,7 @@ tags:
 - agents
 - github-repo
 - hackernews
-- paper
 - python
-- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -36,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Repository hosting a structured, community-driven list of **300+ resources** focused on **agentic AI**, including frameworks, tools, research papers, and applications.
-- **Technical Scope**: Primarily **Python-based**, with emphasis on **autonomous agents**, **multi-agent systems**, and **agentic workflows** for AI-driven automation.
-- **Active Maintenance**: Last updated **July 13, 2026**, with **1,830 stars** and **458 forks**, indicating ongoing community engagement
+- **Curated Repository**: GitHub repository `slavakurilyak/awesome-ai-agents` aggregates 300+ open-source and commercial AI agent frameworks, libraries, and tools, categorized by functionality and use case.
+- **Technical Stack**: Primarily Python-based, with additional resources spanning multi-language support (e.g., JavaScript, Go) for agentic AI development.
+- **Metadata**: 1,830 stars, 458 forks, last updated July 13, 2026; focuses on agentic AI topics including autonomous agents, multi-agent
 
 ## Use Cases
 

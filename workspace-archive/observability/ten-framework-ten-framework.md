@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal real-time framework**: Python-based open-source system enabling conversational voice AI agents with real-time audio/video processing and multi-modal interactions.
-- **Modular architecture**: Designed for extensibility, supporting dynamic integration of voice, video, and AI components via a plugin-based system.
-- **Scalable deployment**: Optimized for low-latency performance, enabling deployment across edge and cloud environments with support for concurrent agent sessions.
+- **Multi-modal real-time framework**: Python-based open-source system enabling conversational voice AI agents with real-time audio/video processing and multi-modal input/output capabilities.
+- **Modular architecture**: Designed for extensibility, supporting dynamic integration of voice, video, and other sensory modalities via a plugin-based system.
+- **Scalable deployment**: Optimized for low-latency, high-throughput conversational AI with support for distributed execution and real-time synchro
 
 ## Use Cases
 

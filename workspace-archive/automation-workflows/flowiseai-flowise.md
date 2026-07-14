@@ -6,10 +6,10 @@ source_url: https://github.com/FlowiseAI/Flowise
 resource_id: github:flowiseai/flowise
 local_vault_path: ai/rag/flowiseai-flowise.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
-resource_kind: benchmark
-importance: medium
+archive_score: 87
+archive_tier: essential
+resource_kind: framework
+importance: high
 tags:
 - agents
 - frontend_ui
@@ -21,7 +21,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # FlowiseAI/Flowise
@@ -29,19 +29,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 87 (essential)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Visual AI Agent Builder**: Open-source, low/no-code platform in TypeScript for constructing AI agents and workflows, leveraging React for UI and LangChain for agentic logic.
+- **Low-code/No-code AI Agent Builder**: Open-source TypeScript/React framework enabling visual construction of AI agents and workflows via drag-and-drop interface, leveraging LangChain for LLM orchestration and RAG pipelines.
 
-- **Multi-Agent & RAG Support**: Enables orchestration of multiple AI agents and integrates Retrieval-Augmented Generation (RAG) for enhanced context-aware interactions with LLMs (e.g., OpenAI).
+- **Multi-Agent & Workflow Automation**: Supports agentic AI systems with multi-agent collaboration, customizable workflows, and integration with OpenAI/other LLMs for dynamic task automation and chatbot deployment.
 
-- **Extensible & Deployment-Ready**: Modular architecture allows custom component integration; supports deployment via Docker
+- **Extensible & Production-Ready**: Modular architectu
 
 ## Use Cases
 

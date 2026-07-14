@@ -1,48 +1,70 @@
 ---
-title: examples/learn/generation/better-rag/02b-semantic-chunking.ipynb at main ·
-  pinecone-io/examples · GitHub
+title: pinecone-io/examples
 category: ai/rag
-source_type: web
-source_name: Web Discovery
-source_url: https://github.com/pinecone-io/examples/blob/master/learn/generation/better-rag/02b-semantic-chunking.ipynb
-published_at: '2026-07-14T19:53:11.025272+05:30'
-collected_at: '2026-07-14T19:53:11.025285+05:30'
+source_type: github
+source_name: GitHub Discovery
+source_url: https://github.com/pinecone-io/examples
+collected_at: '2026-07-15T01:15:52.617720+05:30'
+published_at: '2026-07-12T08:37:06Z'
 tags:
+- github-repo
 - hackernews
+- jupyter notebook
 - rag
-- web-crawled
+- workflows
+stars: 3027
+language: Jupyter Notebook
 status: active
+license: MIT
+archived: false
+created_at: '2021-03-09T19:42:10Z'
+pushed_at: '2026-07-11T20:48:20Z'
 resource_id: github:pinecone-io/examples
-first_seen: '2026-07-14T19:53:11.025285+05:30'
-last_seen: '2026-07-14T19:53:11.025285+05:30'
-last_checked: '2026-07-14T19:53:11.025285+05:30'
+first_seen: '2026-07-15T01:15:52.617720+05:30'
+last_seen: '2026-07-15T01:15:52.617720+05:30'
+last_checked: '2026-07-15T01:15:52.617720+05:30'
 health_score: 100
 ---
 
-# examples/learn/generation/better-rag/02b-semantic-chunking.ipynb at main · pinecone-io/examples · GitHub
+# pinecone-io/examples
 
 ## Summary
 
-- Repository: `pinecone-io/examples` contains 1.1k forks and 3k stars, with 34 open issues and 31 pull requests.
-- File: `02b-semantic-chunking.ipynb` located in `/learn/generation/better-rag/` demonstrates advanced RAG techniques using semantic chunking.
-- Size: The notebook file is 2 MB in size, with commit history accessible via GitHub.
+- **Repository**: `pinecone-io/examples` provides Jupyter Notebooks for hands-on experimentation with Pinecone vector databases, covering topics like AI, LLM, RAG, semantic search, and vector search.
+- **Technical Scope**: Includes Python-based implementations for vector database operations, retrieval-augmented generation (RAG), and semantic/approximate nearest neighbor (ANN) search workflows.
+- **Metadata**: 3,027 stars, 1,073 forks, last updated July 12, 2026, with primary languages including Jupyter Notebook and Python.
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: Web Discovery
-- Category: ai/rag
-- Published: 2026-07-14T19:53:11.025272+05:30
+- Owner: pinecone-io
+- Stars: 3027
+- Forks: 1073
+- Language: Jupyter Notebook
+- Topics: ai, jupyter-notebook, llm, pinecone, python, rag, semantic-search, vector-database, vector-search
+- Last Updated: 2026-07-12T08:37:06Z
+- License: MIT
+- Archived: No
+- Created At: 2021-03-09T19:42:10Z
+- Pushed At: 2026-07-11T20:48:20Z
 
-## Related Tags
+## Possible Use Cases
 
-- hackernews
-- rag
-- web-crawled
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 
-Original source: https://github.com/pinecone-io/examples/blob/master/learn/generation/better-rag/02b-semantic-chunking.ipynb
+Original source: https://github.com/pinecone-io/examples

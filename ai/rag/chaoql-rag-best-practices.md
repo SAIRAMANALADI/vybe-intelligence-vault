@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-07-14T19:47:57.042502+05:30'
+collected_at: '2026-07-15T01:16:02.161967+05:30'
 published_at: '2026-07-05T01:00:39Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-07-14T19:47:57.042502+05:30'
-last_seen: '2026-07-14T19:47:57.042502+05:30'
-last_checked: '2026-07-14T19:47:57.042502+05:30'
+first_seen: '2026-07-15T01:16:02.161967+05:30'
+last_seen: '2026-07-15T01:16:02.161967+05:30'
+last_checked: '2026-07-15T01:16:02.161967+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Focuses on best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), providing a structured guide for implementation in Python.
-- **Technical Scope**: Covers advanced techniques for optimizing RAG pipelines, including retrieval strategies, prompt engineering, and evaluation methodologies for enhancing LLM performance.
-- **Repository Status**: Last updated July 5, 2026, with 95 stars and 10 forks, indicating a niche but actively maintained resource for LLM RAG optimization.
+- **RAG Implementation Guide**: Repository provides technical best practices for integrating large language models (LLMs) with retrieval-augmented generation (RAG) systems, focusing on optimization techniques for enhanced performance.
+
+- **Python-Centric Framework**: All implementations and examples are written in Python, leveraging libraries like LangChain, FAISS, or HuggingFace for vector storage, retrieval, and LLM integration.
+
+- **Evaluation & Optimization**: Includes methodologies for benchmarking RAG pipelines, optimizing retrieval strategies (e.g., chunking, embedding models), and mitigating hallucinations or latency in production deployments.
 
 ## Why It Matters
 

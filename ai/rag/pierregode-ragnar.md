@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PierreGode/Ragnar
-collected_at: '2026-07-14T19:48:22.052312+05:30'
-published_at: '2026-07-14T11:39:02Z'
+collected_at: '2026-07-15T01:16:27.133279+05:30'
+published_at: '2026-07-14T17:36:33Z'
 tags:
 - github-repo
 - hackernews
@@ -18,11 +18,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2025-11-01T03:12:25Z'
-pushed_at: '2026-07-14T11:38:54Z'
+pushed_at: '2026-07-14T17:36:15Z'
 resource_id: github:pierregode/ragnar
-first_seen: '2026-07-14T19:48:22.052312+05:30'
-last_seen: '2026-07-14T19:48:22.052312+05:30'
-last_checked: '2026-07-14T19:48:22.052312+05:30'
+first_seen: '2026-07-15T01:16:27.133279+05:30'
+last_seen: '2026-07-15T01:16:27.133279+05:30'
+last_checked: '2026-07-15T01:16:27.133279+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose & Features**: Ragnar is an offensive security tool designed for Raspberry Pi with a 2.13-inch e-Paper HAT, enabling network scanning, target discovery, open port enumeration, service identification, and vulnerability detection.
-
-- **Technical Stack**: Implemented in Python, leveraging modular libraries for network reconnaissance and security assessment.
-
-- **Metadata**: Last updated on 2026-07-14, with 739 stars and 60 forks on GitHub.
+- **Purpose**: Ragnar is a Python-based offensive security tool designed for Raspberry Pi, integrating a 2.13-inch e-Paper HAT for network scanning and vulnerability assessment.
+- **Functionality**: Automates discovery of network targets, open ports, exposed services, and known vulnerabilities via active scanning techniques.
+- **Hardware Integration**: Leverages the Raspberry Pi platform with an e-Paper HAT for portable, low-power offensive security operations.
 
 ## Why It Matters
 
@@ -47,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 60
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-14T11:39:02Z
+- Last Updated: 2026-07-14T17:36:33Z
 - License: MIT
 - Archived: No
 - Created At: 2025-11-01T03:12:25Z
-- Pushed At: 2026-07-14T11:38:54Z
+- Pushed At: 2026-07-14T17:36:15Z
 
 ## Possible Use Cases
 

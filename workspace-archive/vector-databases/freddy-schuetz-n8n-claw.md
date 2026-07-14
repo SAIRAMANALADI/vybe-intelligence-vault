@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent framework built entirely in n8n, leveraging Adaptive RAG for memory, MCP templates for Skills, and Expert Agents with delegated sub-agents for hierarchical task execution.
+- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging adaptive RAG-powered memory, MCP templates for Skills, and Expert Agents with delegated sub-agents for hierarchical task execution.
 
-- **Capabilities**: Proactive task management, media understanding, and self-hosted deployment via a single setup script; integrates with Supabase for storage and SearXNG for search engine functionality.
+- **Capabilities**: Supports proactive task management, media understanding, and self-hosted deployment via a single setup script; integrates with Supabase for data persistence and SearXNG for search functionality.
 
-- **Technical Stack**: Shell-based repository with dependencies
+- **Technical Stack**: Shell-based reposito
 
 ## Use Cases
 

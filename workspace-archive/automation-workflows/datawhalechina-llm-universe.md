@@ -36,9 +36,9 @@ selection_reason:
 
 - **Educational Resource**: A beginner-friendly tutorial for developing LLM applications, structured as Jupyter Notebooks, with an online version available at [datawhalechina.github.io/llm-universe](https://datawhalechina.github.io/llm-universe/).
 
-- **Technical Focus**: Covers **LangChain** and **RAG (Retrieval-Augmented Generation)** workflows for LLM integration and deployment.
+- **Technical Focus**: Covers **LangChain** and **RAG (Retrieval-Augmented Generation)** workflows, emphasizing practical implementation for LLM application development.
 
-- **Repository Metrics**: 13,472 stars, 1,375 forks, last updated **2026-07-14**, primarily in Python (Jupyter Note
+- **Repository Stats**: 13,475 stars, 1,375 forks, last updated **2026-07-14**,
 
 ## Use Cases
 

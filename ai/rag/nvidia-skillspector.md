@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/SkillSpector
-collected_at: '2026-07-14T19:50:02.217836+05:30'
-published_at: '2026-07-14T14:15:52Z'
+collected_at: '2026-07-15T01:18:07.267817+05:30'
+published_at: '2026-07-14T19:12:45Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 13148
+stars: 13165
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-03-21T00:28:43Z'
 pushed_at: '2026-07-14T10:21:44Z'
 resource_id: github:nvidia/skillspector
-first_seen: '2026-07-14T19:50:02.217836+05:30'
-last_seen: '2026-07-14T19:50:02.217836+05:30'
-last_checked: '2026-07-14T19:50:02.217836+05:30'
+first_seen: '2026-07-15T01:18:07.267817+05:30'
+last_seen: '2026-07-15T01:18:07.267817+05:30'
+last_checked: '2026-07-15T01:18:07.267817+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to identify vulnerabilities, malicious patterns, and security risks without executing the code.
-- **Python-Based**: Implemented in Python, leveraging libraries for abstract syntax tree (AST) parsing and pattern matching to analyze skill definitions and configurations.
-- **Rule-Driven Detection**: Uses predefined security rules and heuristics to flag issues such as unsafe function calls, privilege escalation risks, or embedded malicious payloads.
+- **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to detect vulnerabilities, malicious patterns, and security risks without executing the code.
+- **Python-Based**: Implemented in Python, leveraging AST (Abstract Syntax Tree) parsing and pattern matching to identify potential security threats in AI skill definitions.
+- **Open-Source Security Scanner**: Released under an open-source license (likely Apache 2.0), enabling integration into CI/CD pipelines for proactive security assessment of AI agents.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVIDIA
-- Stars: 13148
-- Forks: 1066
+- Stars: 13165
+- Forks: 1067
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-14T14:15:52Z
+- Last Updated: 2026-07-14T19:12:45Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-03-21T00:28:43Z

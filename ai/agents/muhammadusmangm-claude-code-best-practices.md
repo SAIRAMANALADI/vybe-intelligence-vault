@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-07-14T19:49:42.294134+05:30'
+collected_at: '2026-07-15T01:17:47.197072+05:30'
 published_at: '2026-07-11T18:10:54Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-07-14T19:49:42.294134+05:30'
-last_seen: '2026-07-14T19:49:42.294134+05:30'
-last_checked: '2026-07-14T19:49:42.294134+05:30'
+first_seen: '2026-07-15T01:17:47.197072+05:30'
+last_seen: '2026-07-15T01:17:47.197072+05:30'
+last_checked: '2026-07-15T01:17:47.197072+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Structure**: Provides a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Focus**: Primarily written in Shell, with emphasis on CLI tools, MCP (Model Context Protocol), and integration with Anthropic's LLM frameworks.
-- **Resource Scope**: Covers agentic AI workflows, developer tooling, and optimization techniques for efficient LLM interactions.
+- **Repository Overview**: GitHub repository (`MuhammadUsmanGM/claude-code-best-practices`) providing structured best practices for **Claude Code**, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+- **Technical Focus**: Primarily shell-based repository (`Shell`) with emphasis on **agentic AI**, **MCP (Model Context Protocol)**, and **CLI tooling** for Anthropic’s Claude ecosystem.
+- **Metadata**: 62 stars, 12 forks, last updated **2026-07-11**; topics include `agentic-ai`, `claude-code`, `llm`, and `developer-tools`.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: MuhammadUsmanGM
 - Stars: 62
-- Forks: 11
+- Forks: 12
 - Language: Shell
 - Topics: agentic-ai, ai, anthropic, best-practices, claude, claude-code, cli, developer-tools, llm, mcp, templates
 - Last Updated: 2026-07-11T18:10:54Z

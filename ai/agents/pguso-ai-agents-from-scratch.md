@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/ai-agents-from-scratch
-collected_at: '2026-07-14T19:49:02.098682+05:30'
-published_at: '2026-07-14T13:55:37Z'
+collected_at: '2026-07-15T01:17:07.220690+05:30'
+published_at: '2026-07-14T16:01:01Z'
 tags:
 - agents
 - frontend_ui
@@ -14,7 +14,7 @@ tags:
 - javascript
 - meta-ai
 - models
-stars: 4398
+stars: 4399
 language: JavaScript
 status: active
 license: MIT
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-10-23T19:39:04Z'
 pushed_at: '2026-05-31T08:52:06Z'
 resource_id: github:pguso/ai-agents-from-scratch
-first_seen: '2026-07-14T19:49:02.098682+05:30'
-last_seen: '2026-07-14T19:49:02.098682+05:30'
-last_checked: '2026-07-14T19:49:02.098682+05:30'
+first_seen: '2026-07-15T01:17:07.220690+05:30'
+last_seen: '2026-07-15T01:17:07.220690+05:30'
+last_checked: '2026-07-15T01:17:07.220690+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using local LLMs, emphasizing transparency by avoiding black-box models and focusing on core concepts like function calling, memory management, and ReAct (Reasoning and Acting) patterns.
-
-- **Technical Implementation**: Utilizes **JavaScript** with **node-llama-cpp** for local LLM integration, demonstrating agent architecture, tool/function calling, and stateful memory in a practical, code-centric approach.
-
-- **Project Scope**: Covers agent design patterns (e.g., ReAct), tool integration, and real-world agent behavior, with updates as of **July 2026** and active community engagement (4,398 stars, 636 forks).
+- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies and enhance understanding of core concepts.
+- **Technical Focus**: Covers function calling, memory management, and ReAct (Reasoning and Acting) patterns to implement functional, stateful AI agents in JavaScript.
+- **Project Structure**: Demonstrates practical agent development with React-based interfaces, emphasizing modularity and real-world applicability in AI agent architectures.
 
 ## Why It Matters
 
@@ -45,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pguso
-- Stars: 4398
+- Stars: 4399
 - Forks: 636
 - Language: JavaScript
 - Topics: ai-agents, educational, function-calling, llm, llm-agent, node-llama-cpp, react-agent, tutorial
-- Last Updated: 2026-07-14T13:55:37Z
+- Last Updated: 2026-07-14T16:01:01Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-23T19:39:04Z

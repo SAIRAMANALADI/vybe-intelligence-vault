@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/tonykipkemboi/trip_planner_agent
-collected_at: '2026-07-14T19:51:17.228927+05:30'
+collected_at: '2026-07-15T01:19:27.233042+05:30'
 published_at: '2026-05-18T04:13:15Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-01-16T09:09:17Z'
 pushed_at: '2024-06-19T15:04:05Z'
 resource_id: github:tonykipkemboi/trip_planner_agent
-first_seen: '2026-07-14T19:51:17.228927+05:30'
-last_seen: '2026-07-14T19:51:17.228927+05:30'
-last_checked: '2026-07-14T19:51:17.228927+05:30'
+first_seen: '2026-07-15T01:19:27.233042+05:30'
+last_seen: '2026-07-15T01:19:27.233042+05:30'
+last_checked: '2026-07-15T01:19:27.233042+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **CrewAI-based Python agents** for automated vacation planning, leveraging LLMs (e.g., OpenAI) for itinerary generation.
-- **Open-source repository** with 143 stars and 63 forks, last updated May 18, 2026.
-- **Modular design** for extensibility, supporting integration with CrewAI, OpenAI APIs, and Python-based workflows.
+- **CrewAI-based multi-agent system** leveraging LLMs (e.g., OpenAI) to autonomously plan vacations via Python, integrating modular agent workflows for itinerary generation.
+- **Open-source repository** (143 stars, 63 forks) with active development (last updated May 2026), supporting extensible agent roles (e.g., researcher, planner, validator).
+- **Dependencies**: CrewAI framework, Python 3.x, LLM APIs (OpenAI-compatible), with modular design for customization of travel constraints (budget, preferences, destinations).
 
 ## Why It Matters
 

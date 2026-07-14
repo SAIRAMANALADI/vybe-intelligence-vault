@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-14T19:48:42.037587+05:30'
+collected_at: '2026-07-15T01:16:47.210706+05:30'
 published_at: '2026-07-13T12:27:27Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-14T19:48:42.037587+05:30'
-last_seen: '2026-07-14T19:48:42.037587+05:30'
-last_checked: '2026-07-14T19:48:42.037587+05:30'
+first_seen: '2026-07-15T01:16:47.210706+05:30'
+last_seen: '2026-07-15T01:16:47.210706+05:30'
+last_checked: '2026-07-15T01:16:47.210706+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
-- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain context consistency across extended interactions, addressing limitations in traditional RAG systems.
-- **AAAI 2026 Contribution**: Proposes a novel approach for scalable, coherent reasoning in long-form narratives, validated through empirical benchmarks and theoretical analysis.
+- **Cognitive-Inspired Memory Organization**: Introduces a memory-optimized RAG framework (`ComoRAG`) that mimics human cognitive memory structures to enhance long-form narrative reasoning, addressing stateful dependencies in extended contexts.
+
+- **Stateful Long Narrative Reasoning**: Implements dynamic memory retrieval and hierarchical organization to maintain coherence and context relevance across extended dialogues or documents, improving multi-turn reasoning performance.
+
+- **AAAI 2026 Poster Submission**: Presented as a novel approach in the AAAI 2026 conference, leveraging Python-based implementation with potential applications in complex reasoning tasks requiring persistent memory integration.
 
 ## Why It Matters
 

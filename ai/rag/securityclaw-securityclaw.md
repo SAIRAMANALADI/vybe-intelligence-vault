@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-07-14T19:48:22.126006+05:30'
+collected_at: '2026-07-15T01:16:32.185140+05:30'
 published_at: '2026-07-14T06:32:15Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-06-18T03:28:29Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-07-14T19:48:22.126006+05:30'
-last_seen: '2026-07-14T19:48:22.126006+05:30'
-last_checked: '2026-07-14T19:48:22.126006+05:30'
+first_seen: '2026-07-15T01:16:32.185140+05:30'
+last_seen: '2026-07-15T01:16:32.185140+05:30'
+last_checked: '2026-07-15T01:16:32.185140+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent with skill-based architecture for real-time monitoring of OpenSearch/Elasticsearch data, enabling threat detection and hunting in SOC environments.
-
-- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to build dynamic behavioral profiles, improving anomaly validation and contextual decision-making via LLMs.
-
-- **LLM-Driven Anomaly Validation**: Utilizes large language models to cross-validate detected anomalies in real-time, enhancing detection accuracy and reducing false positives in autonomous SOC operations.
+- **Modular SOC Agent**: Python-based autonomous agent with skill-based architecture for real-time monitoring of OpenSearch/Elasticsearch logs, integrating RAG for behavioral memory and LLM-driven anomaly validation.
+- **RAG & LLM Integration**: Builds contextual behavioral memory via retrieval-augmented generation (RAG) and leverages large language models (LLMs) to validate and prioritize detected anomalies dynamically.
+- **Threat Detection & Automation**: Enables autonomous threat hunting and SOC automation with modular skills for anomaly detection, threat validation, and adaptive response in security operations.
 
 ## Why It Matters
 

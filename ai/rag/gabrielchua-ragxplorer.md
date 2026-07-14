@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-14T19:47:36.993146+05:30'
+collected_at: '2026-07-15T01:15:47.115645+05:30'
 published_at: '2026-07-14T09:11:11Z'
 tags:
-- dataset
 - github-repo
 - jupyter notebook
 - models
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-14T19:47:36.993146+05:30'
-last_seen: '2026-07-14T19:47:36.993146+05:30'
-last_checked: '2026-07-14T19:47:36.993146+05:30'
+first_seen: '2026-07-15T01:15:47.115645+05:30'
+last_seen: '2026-07-15T01:15:47.115645+05:30'
+last_checked: '2026-07-15T01:15:47.115645+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of retrieval and generation processes.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly interface, allowing dynamic visualization of RAG components (e.g., document retrieval, prompt augmentation, and model outputs) with real-time updates.
+- **Streamlit-Powered UI**: Leverages Streamlit for an interactive web interface, facilitating real-time manipulation and visualization of RAG components (e.g., embeddings, retrieval mechanisms, and LLM outputs).
 
-- **Python-Based & Extensible**: Built in Python with modular design, supporting custom RAG configurations, dataset integration, and visualization of metrics (e.g., retrieval relevance, latency) for debugging and optimization.
+- **Modular Python Framework**: Designed for extensibility, supporting custom RAG configurations (e.g., vector stores, LLMs) and integration with Python-based NLP libraries (e.g., LangChain, HuggingFace).
 
 ## Why It Matters
 

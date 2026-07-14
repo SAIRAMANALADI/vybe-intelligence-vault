@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-14T19:47:51.993486+05:30'
+collected_at: '2026-07-15T01:15:57.193474+05:30'
 published_at: '2026-07-07T14:48:17Z'
 tags:
 - benchmark
-- dataset
 - github-repo
-- hackernews
 - python
 - rag
 stars: 264
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-14T19:47:51.993486+05:30'
-last_seen: '2026-07-14T19:47:51.993486+05:30'
-last_checked: '2026-07-14T19:47:51.993486+05:30'
+first_seen: '2026-07-15T01:15:57.193474+05:30'
+last_seen: '2026-07-15T01:15:57.193474+05:30'
+last_checked: '2026-07-15T01:15:57.193474+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Repository demonstrates best practices for Retrieval-Augmented Generation (RAG) specifically optimized for Vietnamese language processing, including text preprocessing, embedding models, and retrieval strategies tailored for Vietnamese corpora.
+- **Vietnamese RAG Implementation**: Demonstrates best practices for building a Retrieval-Augmented Generation (RAG) system optimized for Vietnamese language processing, including text preprocessing, embedding generation, and retrieval mechanisms.
 
-- **Technical Stack**: Utilizes Python with frameworks/libraries such as LangChain, FAISS (for vector storage), and Hugging Face Transformers for Vietnamese-specific NLP tasks (e.g., embedding generation with `vinai/phobert-base`).
+- **Modular Python Architecture**: Utilizes a structured Python backend with components for document ingestion, vector storage (e.g., FAISS or Weaviate), and LLM integration (e.g., ViT5, PhoBERT) for Vietnamese-specific tasks.
 
-- **Deployment & Evaluation**: Includes modular backend design for scalable RAG pipelines, with components for document ingestion, retrieval, and generation, along with evaluation metrics (e.g., retrieval precision, answer relevance) for Vietnamese datasets.
+- **Evaluation & Optimization**: Includes benchmarking scripts for assessing retrieval accuracy and response quality, with support for Vietnamese-specific metrics (e.g., F1-score, BLEU for context relevance).
 
 ## Why It Matters
 

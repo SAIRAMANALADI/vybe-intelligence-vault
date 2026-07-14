@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Obsidian-TS-AI Integration**: Combines Obsidian templates with TypeScript preprocessing for Apple Health export data, enabling structured healthcare data handling via AI workflows.
+- **Obsidian-TS-AI Integration**: Combines Obsidian templates with TypeScript preprocessing for Apple Health export data, enabling structured AI-driven healthcare analysis workflows.
 
-- **AI Prompt Workflows**: Implements specialized AI-driven prompt chains for family healthcare management, optimizing data extraction and analysis from health metrics.
+- **AI Prompt Workflows**: Implements specialized AI prompt chains for healthcare data interpretation, facilitating automated insights and decision support for family health monitoring.
 
-- **Modular TypeScript Pipeline**: Processes Apple Health exports through a TypeScript-based preprocessing layer, ensuring compatibility with AI
+- **TypeScript Preprocessing Pipeline**: Processes raw Apple Health export data (JSON/XML) into structured formats, optimizing in
 
 ## Use Cases
 

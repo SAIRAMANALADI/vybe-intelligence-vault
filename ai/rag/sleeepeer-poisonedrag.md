@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-14T19:48:22.035805+05:30'
+collected_at: '2026-07-15T01:16:27.149369+05:30'
 published_at: '2026-07-10T05:31:39Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 - reddit
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-14T19:48:22.035805+05:30'
-last_seen: '2026-07-14T19:48:22.035805+05:30'
-last_checked: '2026-07-14T19:48:22.035805+05:30'
+first_seen: '2026-07-15T01:16:27.149369+05:30'
+last_seen: '2026-07-15T01:16:27.149369+05:30'
+last_checked: '2026-07-15T01:16:27.149369+05:30'
 health_score: 100
 ---
 
@@ -29,8 +30,11 @@ health_score: 100
 
 ## Summary
 
-*   **PoisonedRAG** introduces a novel class of knowledge corruption attacks specifically targeting Retrieval-Augmented Generation (RAG) systems.
-*   These attacks manipulate the retrieved knowledge base, leading to compromised factual integrity and trustworthiness of Large Language Model (LLM) outputs
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems, exploiting vulnerabilities in the retrieval and generation pipeline to manipulate outputs.
+
+- **Technical Exploitation**: Details adversarial poisoning of the retrieval corpus (e.g., document embeddings or indices) to bias RAG models toward generating attacker-desired responses while maintaining stealth via subtle perturbations.
+
+- **Security Implications**: Evaluates attack efficacy across multiple RAG architectures (e.g., dense retrieval, BM25) and proposes countermeasures, including robust embedding purification and retrieval integrity checks, to mitigate knowledge corruption risks.
 
 ## Why It Matters
 

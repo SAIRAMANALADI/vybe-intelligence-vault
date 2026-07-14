@@ -36,8 +36,8 @@ selection_reason:
 ## Summary
 
 - **Benchmark Suite**: Multi-Turn Retrieval-Augmented Generation (RAG) evaluation framework designed to assess conversational RAG systems across multiple interaction turns.
-- **Technical Implementation**: Python-based repository with modular components for dataset handling, retrieval evaluation, and response generation metrics.
-- **Evaluation Metrics**: Focuses on multi-turn conversational coherence, retrieval precision, and context-aware response quality in RAG pipelines.
+- **Technical Implementation**: Python-based repository with structured datasets and metrics for evaluating multi-turn RAG performance, including retrieval quality and response coherence.
+- **Repository Metadata**: Updated July 2026, with 147 stars and 30 forks, indicating active community engagement in RAG benchmarking resea
 
 ## Use Cases
 

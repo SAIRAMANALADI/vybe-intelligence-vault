@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mayooear/ai-pdf-chatbot-langchain
-collected_at: '2026-07-14T19:50:57.178337+05:30'
+collected_at: '2026-07-15T01:19:02.234702+05:30'
 published_at: '2026-07-13T20:18:07Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: true
 created_at: '2023-03-17T01:23:26Z'
 pushed_at: '2026-03-27T16:04:05Z'
 resource_id: github:mayooear/ai-pdf-chatbot-langchain
-first_seen: '2026-07-14T19:50:57.178337+05:30'
-last_seen: '2026-07-14T19:50:57.178337+05:30'
-last_checked: '2026-07-14T19:50:57.178337+05:30'
+first_seen: '2026-07-15T01:19:02.234702+05:30'
+last_seen: '2026-07-15T01:19:02.234702+05:30'
+last_checked: '2026-07-15T01:19:02.234702+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: TypeScript-based AI PDF chatbot leveraging LangChain for LLM orchestration, LangGraph for agent workflows, and Next.js for the frontend, with OpenAI integration for embeddings/LLM inference.
+- **Architecture**: Implements a PDF chatbot agent using **LangChain** and **LangGraph** in **TypeScript**, leveraging **Next.js** for the frontend and **OpenAI** for LLM interactions.
 
-- **Core Functionality**: Processes PDF documents via vector embeddings (likely using OpenAI's `text-embedding-ada-002`), enabling conversational retrieval-augmented generation (RAG) with context-aware responses.
+- **Core Features**: Enables **semantic search** and **conversational Q&A** over PDF documents via vector embeddings (likely using OpenAI's `text-embedding-ada-002`) and retrieval-augmented generation (RAG).
 
-- **Architecture**: Implements a multi-agent system (via LangGraph) for document ingestion, indexing, and query resolution, optimized for Next.js SSR/SSG compatibility and real-time chat interactions.
+- **Deployment**: Open-source repository with **16.5K+ stars** and **3.2K+ forks**, last updated in **July 2026**, optimized for modularity and extensibility in AI agent workflows.
 
 ## Why It Matters
 

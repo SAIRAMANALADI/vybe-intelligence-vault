@@ -16,7 +16,6 @@ tags:
 - github-repo
 - hackernews
 - python
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Agentic LLM Vulnerability Scanner designed for AI red teaming, enabling automated evaluation of LLM-based systems for security flaws, jailbreaks, and prompt injection vulnerabilities.
-
-- **Features**: Supports LLM fuzzing, jailbreak testing, vulnerability scanning, and guardrail evaluation within an agentic framework, aggregating results for comprehensive security assessment.
-
-- **Technical Stack**: Python-based framework with modular architecture for extensibility, targeting LLM
+- **Purpose**: Agentic LLM Vulnerability Scanner designed for AI red teaming, enabling automated evaluation of LLM security vulnerabilities, jailbreaks, and prompt-based attacks.
+- **Features**: Supports LLM fuzzing, vulnerability scanning, guardrail testing, and aggregation of results across multiple LLM frameworks and attack vectors.
+- **Technical Stack**: Python-based agent framework with extensible modules for LLM security research, evaluation, and adversarial testing.
 
 ## Use Cases
 

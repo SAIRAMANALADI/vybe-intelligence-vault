@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzfly/awesome-voice-agents
-collected_at: '2026-07-14T19:49:42.088100+05:30'
+collected_at: '2026-07-15T01:17:47.224143+05:30'
 published_at: '2026-07-08T09:14:52Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-11-03T02:20:30Z'
 pushed_at: '2026-07-03T22:06:38Z'
 resource_id: github:yzfly/awesome-voice-agents
-first_seen: '2026-07-14T19:49:42.088100+05:30'
-last_seen: '2026-07-14T19:49:42.088100+05:30'
-last_checked: '2026-07-14T19:49:42.088100+05:30'
+first_seen: '2026-07-15T01:17:47.224143+05:30'
+last_seen: '2026-07-15T01:17:47.224143+05:30'
+last_checked: '2026-07-15T01:17:47.224143+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated collection** of voice AI agent frameworks, tools, and best practices, covering **STT (Speech-to-Text), TTS (Text-to-Speech), VAD (Voice Activity Detection), voice cloning, conversion, recognition, and synthesis**.
-- **Topics include** real-time chat, voice assistants, and agent-based systems, with a focus on **voice interaction technologies**.
-- **Last updated** in **July 2026**, maintained by **yzfly**, with **35 stars** and **18 forks**.
+- **Curated Resource**: Comprehensive list of frameworks, tools, and best practices for voice AI agents, covering speech-to-text (STT), text-to-speech (TTS), voice activity detection (VAD), voice cloning, conversion, recognition, and synthesis.
+- **Technical Scope**: Encompasses real-time chat, voice assistant, and agent development, including multi-modal interactions and voice processing pipelines.
+- **Maintenance**: Last updated July 8, 2026, with 35 stars and 18 forks, indicating active community engagement.
 
 ## Why It Matters
 

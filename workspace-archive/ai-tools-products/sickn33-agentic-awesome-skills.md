@@ -15,7 +15,6 @@ tags:
 - anthropic
 - github-repo
 - python
-- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `sickn33/agentic-awesome-skills` is a Python-based GitHub library hosting **1,900+ agentic skills** for AI coding tools (Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity) and MCP-compatible systems.
-- **Features**: Includes **specialized plugins, installer CLI, skill bundles, workflows**, and curated collections (official/community) for AI-driven development and automation.
-- **Metrics**: **43,108 stars**, **6,846 forks**, last updated **2026-07-14**; focu
+- **Extensive Skill Library**: Repository hosts 1,900+ installable agentic skills for AI tools like Claude Code, Cursor, Codex CLI, Autohand Code, and Gemini CLI, including specialized plugins and workflows.
+
+- **Multi-Tool Compatibility**: Supports AI coding assistants (Claude Code, Cursor), CLI tools (Codex, Gemini), and frameworks (Antigravity, MCP, Kiro) with official and community-driven skill collections.
+
+- **Python-Based CLI & Bundles**: Features an installer CLI, pre-configured bundles,
 
 ## Use Cases
 

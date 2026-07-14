@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-07-14T19:48:17.043155+05:30'
+collected_at: '2026-07-15T01:16:22.158022+05:30'
 published_at: '2026-07-14T12:09:17Z'
 tags:
 - benchmark
@@ -13,6 +13,7 @@ tags:
 - hackernews
 - rag
 - unknown
+- workflows
 stars: 460
 language: Unknown
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-07-14T19:48:17.043155+05:30'
-last_seen: '2026-07-14T19:48:17.043155+05:30'
-last_checked: '2026-07-14T19:48:17.043155+05:30'
+first_seen: '2026-07-15T01:16:22.158022+05:30'
+last_seen: '2026-07-15T01:16:22.158022+05:30'
+last_checked: '2026-07-15T01:16:22.158022+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on company internal documents, enabling standardized assessment of enterprise RAG performance.
-- **Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based question-answering metrics tailored for enterprise knowledge bases and internal search use cases.
-- **Technical Scope**: Supports Python-based RAG evaluation pipelines, covering retrieval quality, generative AI accuracy, and large language model (LLM) performance in enterprise contexts.
+- **Purpose**: Provides a benchmarking framework and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, focusing on real-world applicability.
+- **Components**: Includes evaluation metrics, synthetic data generation tools, and standardized tasks for assessing RAG pipelines in enterprise search and QA scenarios.
+- **Technical Scope**: Covers semantic search, LLM evaluation, and information retrieval, with support for Python-based implementations and integration with generative AI workflows.
 
 ## Why It Matters
 

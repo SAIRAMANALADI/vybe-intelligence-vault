@@ -12,9 +12,11 @@ resource_kind: template
 importance: medium
 tags:
 - agents
+- dataset
 - github-repo
 - hackernews
 - jupyter notebook
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: LangGraph Studio template for constructing agents that perform web research to generate or enrich structured data using LangGraph framework.
-- **Technical Stack**: Implemented in Jupyter Notebook with dependencies on `langgraph` and `langgraph-python`.
-- **Metadata**: 237 stars, 58 forks, last updated on 2026-07-12.
+- **Purpose**: LangGraph Studio template for constructing an agent that automates web research to generate or enhance structured datasets.
+- **Technical Stack**: Built using LangGraph (Python) with Jupyter Notebook integration for agent orchestration and data processing.
+- **Key Features**: Enables web-based data enrichment workflows with modular components for scalability and reproducibility (last updated: 2026-07-12).
 
 ## Use Cases
 

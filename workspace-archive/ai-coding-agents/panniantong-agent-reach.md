@@ -6,9 +6,9 @@ source_url: https://github.com/Panniantong/Agent-Reach
 resource_id: github:panniantong/agent-reach
 local_vault_path: ai/agents/panniantong-agent-reach.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: api
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -17,6 +17,7 @@ tags:
 - python
 - reddit
 - scripts
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -28,19 +29,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: api
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Multi-platform web scraping CLI**: Enables AI agents to extract data from Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu via a single command-line interface without incurring API fees.
+- **Multi-Platform Web Scraper**: CLI tool (`Agent-Reach`) in Python that aggregates data from Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu without API fees, enabling AI agents to "see" the internet via scraped content.
 
-- **Zero-cost API alternative**: Implements custom scrapers for each platform, bypassing paid APIs while maintaining structured data output (e.g., YouTube transcripts, GitHub repositories).
+- **Zero-Cost API Alternative**: Uses open-source scraping libraries (e.g., `snscrape`, `yt-dlp`, `requests`) to bypass paid APIs, reducing operational costs for AI search and automation tasks.
 
-- **Python-based MCP toolkit**: Designed for agent infrastructure, supporting Claude Code, Cursor, and LLM
+- **Integration-Ready**: Supports MCP, CLI tools (e.g., `claude-code`
 
 ## Use Cases
 

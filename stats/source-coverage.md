@@ -4,9 +4,9 @@ Distribution of original signal ingestion sources across processed URLs:
 
 | Source Domain | Resource Count |
 | :--- | ---: |
-| arxiv | 7520 |
+| arxiv | 7519 |
 | huggingface | 900 |
-| github | 804 |
+| github | 805 |
 | nextjs.org | 68 |
 | support.google.com | 32 |
 | youtube | 23 |
@@ -23,6 +23,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | gohugo.io | 12 |
 | doi.org | 11 |
 | stackoverflow.com | 11 |
+| anthropic.com | 10 |
 | web.dev | 10 |
 | mistral.ai | 10 |
 | docs.unity3d.com | 10 |
@@ -30,7 +31,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | firebase.google.com | 9 |
 | deepmind.google | 9 |
 | developer.android.com | 9 |
-| anthropic.com | 9 |
 | neo4j.com | 9 |
 | docs.langchain.com | 8 |
 | geeksforgeeks.org | 8 |
@@ -103,6 +103,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | ragflow.io | 4 |
 | education.gainsight.com | 4 |
 | tech.cornell.edu | 4 |
+| fsf.org | 3 |
 | policies.google.com | 3 |
 | marketplace.visualstudio.com | 3 |
 | myaccount.google.com | 3 |
@@ -271,7 +272,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | freepikcompany.com | 2 |
 | the-decoder.de | 2 |
 | doc.rust-lang.org | 2 |
-| fsf.org | 2 |
 | directory.fsf.org | 2 |
 | docs.oracle.com | 2 |
 | docs.speechify.ai | 2 |
@@ -328,8 +328,12 @@ Distribution of original signal ingestion sources across processed URLs:
 | aimultiple.com | 2 |
 | confident-ai.com | 2 |
 | benchmarkingagents.com | 2 |
+| artfish.ai | 1 |
 | lenergy.com.au | 1 |
 | bbc.com | 1 |
+| prismml.com | 1 |
+| 2b2t.place | 1 |
+| agnost.ai | 1 |
 | cs.android.com | 1 |
 | cloudevents.io | 1 |
 | pagespeed.web.dev | 1 |

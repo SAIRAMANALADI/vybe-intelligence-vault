@@ -12,10 +12,10 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
+- hackernews
 - openai
 - python
 - rag
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- Implements **Retrieval Augmented Generation (RAG)** using **Azure** services (e.g., Azure Cognitive Search, OpenAI) for document retrieval and LLM augmentation.
-- Provides a **Python-based** framework with **53 stars** and **228 forks**, last updated in **April 2026**.
-- Demonstrates end-to-end workflow: **document ingestion → vector embedding → retrieval → LLM prompt augmentation** with Azure integrations.
+- **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) implementation using Azure services (e.g., Azure Cognitive Search, Azure OpenAI) for enhanced LLM responses with external data retrieval.
+- **Technical Stack**: Python-based, leveraging Azure SDKs for search/indexing and OpenAI API for generation, with structured prompts for context-aware responses.
+- **Key Features**: Includes sample pipelines for document ingestion, vector embeddings, and hybrid search (keyword + semantic) to opt
 
 ## Use Cases
 

@@ -15,6 +15,7 @@ tags:
 - dataset
 - github-repo
 - hackernews
+- paper
 - rag
 - unknown
 selection_reason:
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated resource**: A structured collection of advanced RAG techniques specifically tailored for Computer Vision applications, including multimodal retrieval and generation methods.
-- **Repository metrics**: 337 stars, 9 forks, last updated July 8, 2026, with no explicit primary language or topic tags.
-- **Focus areas**: Encompasses cutting-edge RAG frameworks, datasets, and evaluation tools for integrating vision-language models (e.g., CLIP, BLIP) with retrieval mechanisms.
+- **Curated resource** for advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, aggregating state-of-the-art methods, papers, and tools.
+- **Repository structure** includes categorized lists of RAG frameworks, datasets, and benchmarks optimized for vision-language tasks (e.g., image captioning, visual question answering).
+- **Last updated** in **July 2026**, reflecting recent advancements in multimodal RAG integration for CV applications.
 
 ## Use Cases
 

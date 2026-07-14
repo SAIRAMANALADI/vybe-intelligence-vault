@@ -8,7 +8,7 @@ local_vault_path: ai/rag/doorman11991-smallcode.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - javascript
 - rag
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # Doorman11991/smallcode
@@ -26,15 +26,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Optimized AI Coding Agent**: Designed for small language models (LLMs) with a reported 87% benchmark accuracy using a 4B-active model.
-- **JavaScript-Based**: Entirely implemented in JavaScript, leveraging lightweight frameworks for efficiency.
-- **GitHub Repository**: Publicly hosted at `Doorman11991/smallcode` with 1,972 stars, 151 forks, and last updated on 2026-07-06.
+- **Optimized AI Coding Agent**: Designed for small language models (LLMs), achieving **87% benchmark performance** with a **4B-active model**, balancing efficiency and capability for constrained environments.
+
+- **JavaScript Implementation**: Entirely developed in **JavaScript**, leveraging lightweight runtime environments for rapid execution and minimal overhead.
+
+- **Repository Metrics**: **1,985 stars**, **151 forks**, last updated **July 14, 2026**, indicating active community engagement an
 
 ## Use Cases
 

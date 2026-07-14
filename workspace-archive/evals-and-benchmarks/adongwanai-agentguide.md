@@ -6,12 +6,13 @@ source_url: https://github.com/adongwanai/AgentGuide
 resource_id: github:adongwanai/agentguide
 local_vault_path: ai/rag/adongwanai-agentguide.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
 - hackernews
 - html
@@ -19,7 +20,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # adongwanai/AgentGuide
@@ -27,19 +28,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Comprehensive AI Agent Development Guide**: Covers LangGraph, advanced RAG (Retrieval-Augmented Generation), multi-agent systems, and practical implementations using frameworks like LangChain and CrewAI.
+- **Comprehensive AI Agent Development Guide**: Covers advanced topics including LangGraph, RAG (Retrieval-Augmented Generation), multi-agent systems, and reinforcement learning (GRPO) with practical implementations and tutorials.
 
-- **Career Transition & Interview Resources**: Provides specialized content for transitioning into AI roles (e.g., algorithm engineer, LLM engineer), including interview questions, SFT (Supervised Fine-Tuning) techniques, and job-hunting strategies.
+- **Interview & Career Resources**: Provides structured content for transitioning into AI roles (e.g., LLM engineer, algorithm engineer) with curated interview questions, job-hunting strategies, and SFT (Supervised Fine-Tuning) techniques.
 
-- **Advanced Technical Topics**: Include
+- **Open-Source Repository*
 
 ## Use Cases
 

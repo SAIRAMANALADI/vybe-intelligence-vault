@@ -9,9 +9,9 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-60%2C341-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-60%2C383-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
-[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--14-374151?style=flat-square)](#)
+[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--15-374151?style=flat-square)](#)
 
 [Overview](#-overview) · [How It Works](#-how-it-works) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [Vault Stats](#-vault-stats) · [Contributing](#-contributing)
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 12,209</p>
-        <p><b>Active:</b> 11,932 | <b>Inactive:</b> 277</p>
+        <p><b>Resources tracked:</b> 12,216</p>
+        <p><b>Active:</b> 11,938 | <b>Inactive:</b> 278</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 48,132</p>
+        <p><b>Archive Files:</b> 48,167</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 60,341 files</p>
-        <p><b>Last Update:</b> 2026-07-14 23:32 IST</p>
+        <p><b>Total Vault Size:</b> 60,383 files</p>
+        <p><b>Last Update:</b> 2026-07-15 01:22 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,25 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Deep Agents Code - Docs by LangChain](ai/rag/deep-agents-code-docs-by-langchain.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[zilliztech/milvus_cli](ai/rag/zilliztech-milvus-cli.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[zilliztech/attu](ai/rag/zilliztech-attu.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[milvus-io/milvus](ai/rag/milvus-io-milvus.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[Spaces · Hugging Face](ai/rag/huggingface-docs-hub.md)** • Rank: <kbd>+4</kbd>
+- 🔼 **[Australian energy retailers must provide three hours of free daytime electricity](ai/community/australian-energy-retailers-must-provide-three-hou.md)** • <kbd>+68 pts</kbd>
+- 🔼 **[Indian scientists produce most detailed 3D atlas of the human brainstem](ai/community/indian-scientists-produce-most-detailed-3d-atlas-o.md)** • <kbd>+61 pts</kbd>
+- 🔼 **[Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)](ai/community/danau5tin-ai-trains-ai.md)** • <kbd>+44 pts</kbd>
+- 🔼 **[alexfazio/crewAI-quickstart](ai/agents/alexfazio-crewai-quickstart.md)** • Rank: <kbd>+92</kbd>
+- 🔼 **[tonykipkemboi/trip_planner_agent](ai/rag/tonykipkemboi-trip-planner-agent.md)** • Rank: <kbd>+92</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Are we offloading too much of our thinking to AI?](ai/community/are-we-offloading-too-much-of-our-thinking-to-ai.md)** • Score: `258`
+- 🆕 **[How the FSF sysadmins block botnets with reaction](web-development/community/how-the-fsf-sysadmins-block-botnets-with-reaction.md)** • Score: `137`
+- 🆕 **[Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone](ai/community/bonsai-27b-1-bit-llm-the-first-27b-class-model-to.md)** • Score: `96`
+- 🆕 **[The largest available Minecraft world, totalling 15 TB](ai/community/the-largest-available-minecraft-world-totalling-15.md)** • Score: `43`
+- 🆕 **[Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations](ai/community/launch-hn-agnost-ai-yc-s26-extract-user-feedback-f.md)** • Score: `23`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Coding agents think ahead of time](ai/agents/arxiv-2607-05188.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

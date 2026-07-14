@@ -6,10 +6,10 @@ source_url: https://github.com/sickn33/agentic-awesome-skills
 resource_id: github:sickn33/agentic-awesome-skills
 local_vault_path: ai/agents/sickn33-agentic-awesome-skills.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
 - anthropic
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Extensive Skill Library**: A GitHub repository containing over **1,900 installable agentic skills** for AI coding tools like **Claude Code, Cursor, Codex CLI, Autohand Code, and Gemini CLI**, along with plugins, workflows, and bundles.
-- **Multi-Tool Compatibility**: Supports **Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity**, and other AI agent frameworks, with dedicated skill collections for each.
-- **Python-Based & Actively Maintained**: Entirely written in **Pytho
+- **Extensive Skill Library**: Repository hosts 1,900+ installable agentic skills for AI tools like Claude Code, Cursor, Codex CLI, Autohand Code, and Gemini CLI, including specialized plugins and workflows.
+
+- **Multi-Tool Compatibility**: Supports AI coding assistants (Claude Code, Cursor), CLI tools (Codex, Gemini), and frameworks (Antigravity, MCP, Kiro) with official and community-driven skill collections.
+
+- **Python-Based CLI & Bundles**: Features an installer CLI, pre-configured bundles,
 
 ## Use Cases
 

@@ -8,11 +8,12 @@ local_vault_path: ai/rag/esxr-langgraph-mcp.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: template
+resource_kind: mcp-server
 importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 - reddit
@@ -27,15 +28,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: template
+- Resource kind: mcp-server
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Purpose**: LangGraph solution template for **Model Context Protocol (MCP)**, enabling structured multi-agent workflows in Python.
-- **Key Features**: Leverages **LangGraph** for graph-based orchestration of MCP-compatible tools and services.
-- **Tech Stack**: Python-based implementation with **MCP integration**, designed for extensible agentic systems.
+- **Purpose**: Provides a LangGraph-based template for implementing **Model Context Protocol (MCP)** servers in Python, enabling structured multi-agent workflows with stateful graph execution.
+- **Key Features**: Leverages LangGraph’s **cyclic graph execution** and **state management** to handle MCP server interactions, including tool invocation and context synchronization.
+- **Technical Stack**: Built on Python with dependencies on `langgraph` (stateful graph execution) and MCP SDK (`mcp`) for
 
 ## Use Cases
 

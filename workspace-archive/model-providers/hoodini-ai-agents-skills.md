@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Curated collection of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf) in Python, created via GitHub Copilot in VS Code Insiders.
+- **Repository Overview**: Curated collection of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf) implemented in Python.
 - **Metadata**: 249 stars, 59 forks, last updated 2026-07-14T14:16:10Z.
-- **Source**: [GitHub Repository](https://github.com/hoodini/ai-agents-skills).
+- **Origin**: Created by Yuval Avidani using GitHub Copilot via VS Code Insiders.
 
 ## Use Cases
 

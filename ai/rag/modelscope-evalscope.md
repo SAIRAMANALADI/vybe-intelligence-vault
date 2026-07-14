@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/modelscope/evalscope
-collected_at: '2026-07-14T19:48:17.066011+05:30'
-published_at: '2026-07-14T12:55:02Z'
+collected_at: '2026-07-15T01:16:27.433253+05:30'
+published_at: '2026-07-14T19:21:17Z'
 tags:
 - benchmark
 - github-repo
 - python
 - rag
-- workflows
-stars: 3074
+stars: 3075
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-12-07T06:10:49Z'
 pushed_at: '2026-07-14T10:45:04Z'
 resource_id: github:modelscope/evalscope
-first_seen: '2026-07-14T19:48:17.066011+05:30'
-last_seen: '2026-07-14T19:48:17.066011+05:30'
-last_checked: '2026-07-14T19:48:17.066011+05:30'
+first_seen: '2026-07-15T01:16:27.433253+05:30'
+last_seen: '2026-07-15T01:16:27.433253+05:30'
+last_checked: '2026-07-15T01:16:27.433253+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: Evalscope is a Python-based, modular framework designed for efficient evaluation and benchmarking of large models (LLMs, VLMs, AIGC) with customizable pipelines.
-- **Key Features**: Supports performance metrics, RAG evaluation, and streamlined workflows for large-scale model assessment.
-- **Repository Stats**: 3,074 stars, 421 forks; last updated July 14, 2026.
+- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with modular, extensible architecture.
+- **Core Features**: Supports performance benchmarking, evaluation of RAG systems, and standardized metrics for model comparison across diverse tasks.
+- **Integration & Usage**: Designed for efficiency with pre-built evaluators, extensible APIs, and compatibility with ModelScope’s ecosystem for large-scale model assessment.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: modelscope
-- Stars: 3074
-- Forks: 421
+- Stars: 3075
+- Forks: 422
 - Language: Python
 - Topics: evaluation, llm, performance, rag, vlm
-- Last Updated: 2026-07-14T12:55:02Z
+- Last Updated: 2026-07-14T19:21:17Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-07T06:10:49Z

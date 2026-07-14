@@ -8,13 +8,14 @@ local_vault_path: ai/rag/fosowl-agenticseek.md
 quality_score: 70
 archive_score: 85
 archive_tier: essential
-resource_kind: api
+resource_kind: workflow
 importance: high
 tags:
 - agents
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -25,15 +26,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 85 (essential)
-- Resource kind: api
+- Resource kind: workflow
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Fully Local AI Agent**: Implements an autonomous agent (`agenticSeek`) using Python, operating entirely locally with no external APIs or cloud dependencies, relying solely on local compute resources.
-- **DeepSeek-R1 Integration**: Leverages the DeepSeek-R1 model for reasoning, browsing, and coding tasks, enabling autonomous operation without subscription fees or third-party costs.
-- **Voice & Web Capabilities**: Supports voice assistant functionality and web browsing, with updates officially
+- **Local LLM Integration**: Fully local implementation of Manus AI using Python, eliminating dependency on external APIs or cloud services, operating solely on local compute resources.
+- **Autonomous Agent Capabilities**: Supports autonomous web browsing, code execution, and reasoning tasks via deepseek-r1, enabling end-to-end agentic workflows without recurring costs.
+- **Cost-Effective & Offline**: Operates at the sole expense of electricity with no subscription fees, leveraging local LLMs fo
 
 ## Use Cases
 

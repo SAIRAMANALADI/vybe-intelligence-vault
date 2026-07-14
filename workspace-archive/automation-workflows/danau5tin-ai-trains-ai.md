@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by Danau5tin. Score: 35, Comments: 13.
+Hacker News story by Danau5tin. Score: 79, Comments: 37.
 Original Link: https://github.com/Danau5tin/ai-trains-ai
 
 ## Use Cases

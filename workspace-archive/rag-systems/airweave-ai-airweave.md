@@ -16,6 +16,7 @@ tags:
 - hackernews
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Open-source context retrieval layer designed to enhance AI agents by providing structured, semantic search capabilities for enterprise data integration.
+- **Purpose**: Open-source context retrieval layer designed to enhance AI agents by providing structured, efficient access to enterprise data and external APIs for retrieval-augmented generation (RAG).
 
-- **Key Features**: Supports RAG (Retrieval-Augmented Generation), semantic search, and data connectors for structured/unstructured data sources via a Python SDK and API.
+- **Key Features**: Supports semantic search, data connectors for enterprise systems, and a unified API for integrating structured/unstructured data into LLM workflows.
 
-- **Technical Stack**: Python-based, with enterprise-grade retrieval mechanisms, API-driven integration, and modular architecture for scalable AI agent infrast
+- **Technical Stack**: Python-based SDK with modular architecture for extensible data connectors, search APIs, and agent infras
 
 ## Use Cases
 

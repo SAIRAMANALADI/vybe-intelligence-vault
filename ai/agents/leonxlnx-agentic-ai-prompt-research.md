@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-07-14T19:50:07.139109+05:30'
+collected_at: '2026-07-15T01:18:12.250654+05:30'
 published_at: '2026-07-14T09:21:15Z'
 tags:
 - agents
 - anthropic
+- benchmark
 - github-repo
 - unknown
-- workflows
 stars: 2481
 language: Unknown
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-07-14T19:50:07.139109+05:30'
-last_seen: '2026-07-14T19:50:07.139109+05:30'
-last_checked: '2026-07-14T19:50:07.139109+05:30'
+first_seen: '2026-07-15T01:18:12.250654+05:30'
+last_seen: '2026-07-15T01:18:12.250654+05:30'
+last_checked: '2026-07-15T01:18:12.250654+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Analyzes reconstructed prompt patterns and agent coordination mechanisms for autonomous AI-driven coding workflows.
-- **Security Classification**: Evaluates security risks and mitigation strategies in agentic AI systems, including prompt injection and privilege escalation.
-- **System Prompts & Tools**: Investigates the role of system prompts (e.g., Claude) and tool integration in enabling multi-agent collaboration for software development.
+- **Agentic AI Coding Assistants**: Investigates the architecture and operational mechanics of autonomous AI coding assistants, focusing on prompt patterns, agent coordination protocols, and multi-agent collaboration frameworks.
+
+- **Security Classification & Prompt Engineering**: Analyzes security risks, access control mechanisms, and prompt injection vulnerabilities in agentic AI systems, with reconstructed system prompts for secure deployment.
+
+- **Research Artifacts & Tools**: Provides a curated repository of prompt templates, coordination strategies, and evaluation benchmarks for agentic AI coding assistants, including integration with tools like Claude.
 
 ## Why It Matters
 

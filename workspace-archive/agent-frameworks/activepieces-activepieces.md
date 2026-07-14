@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Open-source AI Workflow Automation Platform**: TypeScript-based framework (~400 MCP servers) enabling AI agents, workflow automation, and MCP (Model Context Protocol) integrations for AI-driven tasks.
+- **MCP Integration & AI Automation**: Open-source TypeScript framework (~400 MCP servers) enabling AI agents with Model Context Protocol (MCP) support for workflow automation and tool orchestration, positioning as an alternative to n8n.
 
-- **No-Code AI Agent & Workflow Builder**: Alternative to n8n, offering drag-and-drop automation for AI agents with MCP tools, multi-agent orchestration, and prebuilt workflows.
+- **AI Workflow & Agent Framework**: Supports no-code AI agent creation, multi-agent systems, and AI-driven workflows with modular MCP-based tooling for extensible automation.
 
-- **Active Development & Ecosystem**: 23K+ stars, 3.8K+ forks, last updated July 2026, with rapid expansion of MCP
+- **Scalable Architecture**: Actively maintained (last update: 2026-07-14) with 23K+
 
 ## Use Cases
 

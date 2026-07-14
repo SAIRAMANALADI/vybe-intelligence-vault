@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid Search Integration**: Implements hybrid search combining vector, keyword, and semantic ranking via Azure AI Search for enhanced document retrieval in a Blazor Server application.
+- **Hybrid Search Integration**: Implements **vector + keyword + semantic ranking** for document retrieval using Azure AI Search, enabling enhanced hybrid search capabilities in a Blazor Server application.
 
-- **Security & Deployment**: Utilizes managed identity for secure Azure resource access and supports one-command deployment using Azure Developer CLI (`azd`).
+- **Security & Deployment**: Utilizes **managed identity** for secure Azure resource access and supports **one-command deployment** via Azure Developer CLI for streamlined setup.
 
-- **Tech Stack**: .NET-based Blazor Server app integrating Azure OpenAI for RAG, with HTML frontend and backend logic for chat-based document interac
+- **Tech Stack**: Built with **.NET** (Blazor Server) and integrates **Azure OpenAI** for RAG-based chat interac
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-07-14T09:19:32.370282+05:30'
+collected_at: '2026-07-15T01:17:42.176716+05:30'
 published_at: '2026-07-14T01:37:46Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - hackernews
 - python
 - scripts
-- workflows
 stars: 334
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-06-28T14:36:38Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-07-14T09:19:32.370282+05:30'
-last_seen: '2026-07-14T09:19:32.370282+05:30'
-last_checked: '2026-07-14T09:19:32.370282+05:30'
+first_seen: '2026-07-15T01:17:42.176716+05:30'
+last_seen: '2026-07-15T01:17:42.176716+05:30'
+last_checked: '2026-07-15T01:17:42.176716+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated ADK Resources**: Repository offering templates, best practices, and production-ready examples for building AI agents using Google's Agent Development Kit (ADK) across research, business, automation, and education domains.
-- **Multi-Format Support**: Includes samples for `adk-python`, `adk-web`, and multi-agent systems, with integration for Google's Gemini AI and ADK-specific tooling.
-- **Technical Scope**: Focuses on agentic AI workflows, modular templates, and deployment strategies, updated as of July 2026.
+- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google's Agent Development Kit (ADK), including templates, best practices, and production-ready examples across research, business, automation, and education domains.
+
+- **Multi-Platform Support**: Focuses on ADK-Python and ADK-Web implementations, enabling development for both Python-based and web-based agentic AI systems, with integration examples for Gemini AI and multi-agent architectures.
+
+- **Active Maintenance**: Last updated in July 2026, the repository maintains relevance with ongoing updates, 334 stars, and 48 forks, serving as a community-driven hub for ADK-based agent development.
 
 ## Why It Matters
 

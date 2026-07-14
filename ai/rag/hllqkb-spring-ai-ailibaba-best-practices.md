@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-07-14T19:47:57.023804+05:30'
+collected_at: '2026-07-15T01:16:07.170028+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
 - github-repo
 - java
 - rag
+- reddit
 - workflows
 stars: 35
 language: Java
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-07-14T19:47:57.023804+05:30'
-last_seen: '2026-07-14T19:47:57.023804+05:30'
-last_checked: '2026-07-14T19:47:57.023804+05:30'
+first_seen: '2026-07-15T01:16:07.170028+05:30'
+last_seen: '2026-07-15T01:16:07.170028+05:30'
+last_checked: '2026-07-15T01:16:07.170028+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Java-based implementation integrating Spring AI with Alibaba Cloud services, focusing on RAG (Retrieval-Augmented Generation) with vector databases, embedding models, and knowledge graph integration.
+- **Implements SSE streaming, Agent-based workflows, and Knowledge Graph RAG** for AI Q&A systems using Spring AI and Alibaba Cloud components.
 
-- **Features**: Implements SSE (Server-Sent Events) streaming, agent-based workflows, function calling, historical message management, and multimodal capabilities (image generation/understanding).
+- **Supports multimodal processing** with image generation (e.g., via Stable Diffusion), image understanding (OCR/CLIP), and vector database retrieval (Embedding + RAG).
 
-- **Architecture**: Combines embedding-based retrieval, vector search, and function calls for dynamic AI responses, with modular components for extensibility and Alibaba Cloud compatibility.
+- **Integrates FunctionCall, historical message management, and vector DB pipelines** (e.g., Chroma/Weaviate) for context-aware AI responses in Java-based architectures.
 
 ## Why It Matters
 

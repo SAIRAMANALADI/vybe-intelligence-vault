@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource Hub**: A comprehensive, community-driven repository listing plugins, themes, agents, projects, and resources specifically for [opencode.ai](https://opencode.ai), maintained as an "awesome-list."
-- **Technical Stack**: Primarily developed in JavaScript, leveraging modern web technologies for extensibility and integration.
-- **Active Maintenance**: Last updated on **2026-07-09**, indicating ongoing updates and community engagement (8,744 stars, 626 forks).
+- **Curated Resource Hub**: Centralized collection of plugins, themes, agents, projects, and tools specifically for [opencode.ai](https://opencode.ai), maintained as an open-source repository.
+- **Technical Stack**: Primarily implemented in JavaScript, leveraging modern web technologies for extensibility and integration.
+- **High Community Engagement**: 8,898 stars and 639 forks indicate strong adoption and collaborative contributions, with the last update on 2026-07-14.
 
 ## Use Cases
 

@@ -12,10 +12,8 @@ resource_kind: template
 importance: medium
 tags:
 - agents
-- anthropic
 - benchmark
 - github-repo
-- openai
 - python
 - workflows
 selection_reason:
@@ -36,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic Coding Framework**: Python-based template for autonomous AI-driven software development, enabling dynamic code generation, testing, and optimization via agentic workflows.
+- **Agentic Coding Framework**: Python-based template for autonomous AI agents, enabling dynamic code generation, execution, and refinement in Python environments.
 
-- **Modular Architecture**: Pre-configured project structure with extensible components for agents, tools, and evaluation pipelines, facilitating rapid prototyping of AI-assisted coding systems.
+- **Modular Architecture**: Pre-configured project structure with extensible components for agentic workflows, including tooling, memory, and evaluation modules.
 
-- **Integration-Ready**: Supports seamless integration with LLM APIs (e.g., OpenAI, Anthropic) and CI/CD pipelines, opt
+- **2026 Update**: Last commit (July 4, 2026) indicates active development with potential support for advanced LLM-driven coding paradigms.
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-07-14T19:49:22.182883+05:30'
+collected_at: '2026-07-15T01:17:32.197160+05:30'
 published_at: '2026-07-14T12:52:49Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - hackernews
 - python
 - rag
+- workflows
 stars: 6484
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-07-14T19:49:22.182883+05:30'
-last_seen: '2026-07-14T19:49:22.182883+05:30'
-last_checked: '2026-07-14T19:49:22.182883+05:30'
+first_seen: '2026-07-15T01:17:32.197160+05:30'
+last_seen: '2026-07-15T01:17:32.197160+05:30'
+last_checked: '2026-07-15T01:17:32.197160+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source context retrieval layer designed to enhance AI agents by providing structured, semantic search capabilities for enterprise data integration.
+- **Purpose**: Open-source context retrieval layer designed to enhance AI agents by providing structured, efficient access to enterprise data and external APIs for retrieval-augmented generation (RAG).
 
-- **Key Features**: Supports RAG (Retrieval-Augmented Generation), semantic search, and data connectors for structured/unstructured data sources via a Python SDK and API.
+- **Key Features**: Supports semantic search, data connectors for enterprise systems, and a unified API for integrating structured/unstructured data into LLM workflows.
 
-- **Technical Stack**: Python-based, with enterprise-grade retrieval mechanisms, API-driven integration, and modular architecture for scalable AI agent infrastructure.
+- **Technical Stack**: Python-based SDK with modular architecture for extensible data connectors, search APIs, and agent infrastructure integration.
 
 ## Why It Matters
 

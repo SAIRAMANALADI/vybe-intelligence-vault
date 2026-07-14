@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: template
 importance: medium
 tags:
-- dataset
 - github-repo
 - openai
 - python
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: Implements a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A, deployed entirely within Azure.
-- **Key Components**: Includes **AZD templates** for deployment, Python-based implementation, and integrates best practices for scalability, security, and performance.
-- **Use Case**: Enables **ChatGPT-style conversational AI** and **Q&A systems** over custom datasets, leveraging vector search and large langu
+- **Architecture**: Implements **Retrieval-Augmented Generation (RAG)** pattern in Azure, combining **Azure AI Search** for retrieval and **Azure OpenAI** for LLM-powered Q&A/chat experiences.
+- **Key Components**: Includes **Python-based** implementation with **AZD templates**, adhering to **best practices** for production-grade RAG deployments.
+- **Deployment**: Provides **pre-configured Azure resources** and **scalable templates** for rapid deployment of chat/Q&A solutions with minimal setup.
 
 ## Use Cases
 

@@ -6,9 +6,9 @@ source_url: https://github.com/chaoql/rag-best-practices
 resource_id: github:chaoql/rag-best-practices
 local_vault_path: ai/rag/chaoql-rag-best-practices.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
@@ -18,7 +18,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # chaoql/rag-best-practices
@@ -26,17 +26,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Repository Overview**: Focuses on best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), providing a structured guide for implementation in Python.
-- **Technical Scope**: Covers advanced techniques for optimizing RAG pipelines, including retrieval strategies, prompt engineering, and evaluation methodologies for enhancing LLM performance.
-- **Repository Status**: Last updated July 5, 2026, with 95 stars and 10 forks, indicating a niche but actively maintain
+- **RAG Implementation Guide**: Repository provides technical best practices for integrating large language models (LLMs) with retrieval-augmented generation (RAG) systems, focusing on optimization techniques for enhanced performance.
+
+- **Python-Centric Framework**: All implementations and examples are written in Python, leveraging libraries like LangChain, FAISS, or HuggingFace for vector storage, retrieval, and LLM integration.
+
+- **Evaluation & Optimization**: Includes methodologies for benc
 
 ## Use Cases
 

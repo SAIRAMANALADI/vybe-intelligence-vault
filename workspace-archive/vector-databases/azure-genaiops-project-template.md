@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for setting up a Generative AI Operations (GenAIOps) environment with Azure resources, enabling Retrieval-Augmented Generation (RAG) workflows.
+- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for Generative AI Ops with RAG (Retrieval-Augmented Generation) capabilities, enabling automated provisioning of Azure resources.
 
-- **Modular Design**: Structured as a reusable project template with configurable parameters for customizing Azure resources (e.g., compute, storage, networking) for GenAI workloads.
+- **Modular Design**: Structured as a reusable project template with configurable components for AI pipelines, data ingestion, and model serving, facilitating scalable GenAI deployments.
 
-- **CI/CD Ready**: Includes deployment pipelines (via GitHub Actions) for automated provisio
+- **CI/CD Integration**: Includes GitHub Actions workflows for automated testing, validation, and depl
 
 ## Use Cases
 

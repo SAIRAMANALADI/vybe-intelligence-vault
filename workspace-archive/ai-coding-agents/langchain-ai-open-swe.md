@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Open-SWE is an open-source framework for building asynchronous coding agents that interact with LLMs (e.g., OpenAI, Anthropic) to execute, debug, and optimize code dynamically.
+- **Asynchronous Coding Agent**: Open-SWE is an open-source framework designed for building asynchronous coding agents that interact with LLMs (e.g., OpenAI, Anthropic) to autonomously execute, debug, and refine code in real-time.
 
-- **Multi-Model Support**: Integrates with major LLM providers (OpenAI, Anthropic) and tools like ClaudeCode, enabling cross-platform compatibility for agentic workflows in Python.
+- **Multi-Model & Tool Integration**: Supports multiple LLM providers (OpenAI, Anthropic) and integrates with tools like `claudecode` for enhanced code generation, execution, and error handling in a non-blocking async architecture.
 
-- **Scalable & Extensible**: Designed for high concurrency with async/await patterns, supporting custom too
+- **Scalable & Extensible**: Implem
 
 ## Use Cases
 

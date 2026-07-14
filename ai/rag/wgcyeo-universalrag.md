@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-14T19:48:47.061860+05:30'
+collected_at: '2026-07-15T01:16:52.171090+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-14T19:48:47.061860+05:30'
-last_seen: '2026-07-14T19:48:47.061860+05:30'
-last_checked: '2026-07-14T19:48:47.061860+05:30'
+first_seen: '2026-07-15T01:16:52.171090+05:30'
+last_seen: '2026-07-15T01:16:52.171090+05:30'
+last_checked: '2026-07-15T01:16:52.171090+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence-level), leveraging unified embeddings for cross-modal retrieval.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling Retrieval-Augmented Generation (RAG) across diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or cell-level), leveraging unified indexing and retrieval mechanisms.
 
-- **Modality-Agnostic Retrieval**: Implements a modality-agnostic retrieval mechanism using a shared encoder (e.g., transformer-based) to project heterogeneous data into a common latent space, enabling efficient and scalable retrieval without modality-specific pipelines.
+- **Modality-Agnostic Retrieval**: Implements a modality-agnostic retriever that dynamically adapts to input types, using modality-specific encoders (e.g., CLIP for images, T5 for text) and a shared retrieval index (e.g., FAISS or Weaviate) for cross-modal similarity search.
 
-- **Dynamic Granularity Adaptation**: Proposes an adaptive retrieval strategy that dynamically selects optimal granularity (e.g., coarse-to-fine) based on query complexity and context, optimizing both retrieval precision and generation quality.
+- **Adaptive Generation with Contextual Fusion**: Proposes an adaptive generation module that fuses retrieved context from multiple modalities/granularities using modality-aware attention and hierarchical fusion, optimizing LLM outputs for tasks requiring heterogeneous data integration.
 
 ## Why It Matters
 

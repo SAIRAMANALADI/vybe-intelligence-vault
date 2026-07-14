@@ -8,7 +8,7 @@ local_vault_path: ai/rag/zhadyz-ai-soc.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # zhadyz/AI_SOC
@@ -26,18 +26,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Multi-Agent Orchestration**: Implements an AI-augmented SOC using LLMs and multi-agent systems for automated threat detection and response, integrating tools like Wazuh and TheHive.
+- **Multi-Agent Orchestration**: Implements a Security Operations Center (SOC) using Large Language Models (LLMs) and multi-agent systems for automated threat detection and response, integrating tools like Wazuh and TheHive.
 
-- **Foundation-Sec-8B Model**: Utilizes a specialized 8B-parameter security-focused LLM (Foundation-Sec-8B) for contextual threat analysis and decision-making.
+- **Foundation-Sec-8B Model**: Utilizes the open-source Foundation-Sec-8B model as the core AI engine for security analytics, leveraging Retrieval-Augmented Generation (RAG) for enhanced threat intelligence processing.
 
-- **RAG Pipeline**: Incorporates Retrieval-Augmented Generation (RAG) for real-time threat intelligence retrieval and contextual enrichment of security
+- **Python-Based Framework**: Built in Python, the rep
 
 ## Use Cases
 

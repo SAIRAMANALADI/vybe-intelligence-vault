@@ -8,7 +8,7 @@ local_vault_path: ai/rag/azure-agent-innovator-lab.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # Azure/agent-innovator-lab
@@ -28,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`Azure/agent-innovator-lab`) providing a Jupyter Notebook-based lab for building AI agents on Microsoft Azure, focusing on search optimization, agent architecture, evaluation frameworks, and RAG (Retrieval-Augmented Generation) best practices.
-
-- **Technical Scope**: Covers core components of AI agent development including agent design patterns, performance evaluation methodologies, and RAG implementation strategies optimized for Azure's ecosystem.
+- **Repository Overview**: GitHub repository (`Azure/agent-innovator-lab`) focused on constructing AI agents on Azure, with emphasis on search optimization, agent architecture, evaluation methodologies, and Retrieval-Augmented Generation (RAG) best practices.
+- **Technical Stack**: Primarily implemented using Jupyter Notebooks, facilitating interactive development and experimentation.
+- **Metadata**: 57 stars, 32 forks, last updated on **2026-06-30T14:03:05Z**.
 
 ## Use Cases
 

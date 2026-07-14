@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: Template integrates FastAPI for REST endpoints, LangGraph for agentic workflows, and MCP for model control plane orchestration, enabling scalable agentic systems.
-- **Observability & Storage**: Includes Prometheus/Grafana for metrics, Langfuse for tracing/LLM evals, Supabase for PostgreSQL-based storage, and SQLModel for ORM.
-- **Deployment**: Pre-configured with Nginx for reverse proxy, Docker-ready for containerization, and supports CI/CD-friendly modular composition.
+- **Architecture**: Template integrates FastAPI, MCP (Model Context Protocol), and LangGraph for agentic orchestration, enabling modular agent workflows with Python-based LangGraph for stateful graph computations.
+- **Observability & Storage**: Includes Prometheus/Grafana for metrics, Langfuse for LLM observability, Supabase for PostgreSQL-based storage, and SQLModel for ORM integration.
+- **Deployment**: Pre-configured with Nginx for reverse proxy and Docker Compose for scalable, containerized
 
 ## Use Cases
 

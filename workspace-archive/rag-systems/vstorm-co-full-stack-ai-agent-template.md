@@ -14,8 +14,10 @@ tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Tech Stack**: Full-stack template combining FastAPI (backend) and Next.js (frontend) with AI agent frameworks (CrewAI, LangChain, LangGraph, Pydantic-AI), PostgreSQL (database), and Docker (containerization).
+- **Full-stack AI agent template** integrating FastAPI (backend) with Next.js (frontend), featuring built-in AI Agents, Retrieval-Augmented Generation (RAG), streaming, authentication, and 20+ pre-configured integrations (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI).
 
-- **Features**: Pre-integrated with 20+ tools (RAG, streaming, authentication, WebSocket) and AI models (LLMs), supporting real-time agent interactions and structured data validation via Pydantic.
+- **Technical stack**: Python (backend), TypeScript (frontend), PostgreSQL (database), Docker (containerization), WebSocket (real-time communication), with Pydantic models for data validation and schema enforcement.
 
-- **Deployment**: Optimized for scalability with modular architecture, last updated July
+- **Key fe
 
 ## Use Cases
 

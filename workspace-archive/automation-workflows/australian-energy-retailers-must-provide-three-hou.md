@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by i2oc. Score: 172, Comments: 262.
+Hacker News story by i2oc. Score: 240, Comments: 318.
 Original Link: https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/
 
 ## Use Cases

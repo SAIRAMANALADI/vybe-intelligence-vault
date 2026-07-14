@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-14T19:48:17.081166+05:30'
+collected_at: '2026-07-15T01:16:22.163449+05:30'
 published_at: '2026-07-10T09:46:49Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-14T19:48:17.081166+05:30'
-last_seen: '2026-07-14T19:48:17.081166+05:30'
-last_checked: '2026-07-14T19:48:17.081166+05:30'
+first_seen: '2026-07-15T01:16:22.163449+05:30'
+last_seen: '2026-07-15T01:16:22.163449+05:30'
+last_checked: '2026-07-15T01:16:22.163449+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Introduces CRUD-RAG, a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems with Large Language Models (LLMs), covering comprehensive CRUD (Create, Read, Update, Delete) operations.
-
-- **Evaluation Metrics**: Focuses on retrieval quality, generation accuracy, and end-to-end performance in Chinese contexts, providing standardized metrics for RAG system assessment.
-
-- **Open-Source Toolkit**: Provides a Python-based repository with datasets, evaluation scripts, and baseline models to facilitate reproducible research and benchmarking in Chinese RAG systems.
+- **Benchmark Suite**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems across **Create, Read, Update, and Delete (CRUD)** operations in LLMs.
+- **Evaluation Framework**: Provides a standardized testbed with 10,000+ queries spanning multi-domain datasets to assess RAG performance in Chinese, including metrics for retrieval quality, generation accuracy, and robustness.
+- **Open-Source Toolkit**: Released under Python, offering modular implementations for benchmarking, dataset preprocessing, and model evaluation, with support for integration with popular RAG pipelines.
 
 ## Why It Matters
 

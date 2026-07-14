@@ -6,7 +6,7 @@ source_url: https://github.com/mayooear/ai-pdf-chatbot-langchain
 resource_id: github:mayooear/ai-pdf-chatbot-langchain
 local_vault_path: ai/rag/mayooear-ai-pdf-chatbot-langchain.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -29,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Tech Stack**: TypeScript-based AI PDF chatbot leveraging LangChain for LLM orchestration, LangGraph for agent workflows, and Next.js for the frontend, with OpenAI integration for embeddings/LLM inference.
+- **Architecture**: Implements a PDF chatbot agent using **LangChain** and **LangGraph** in **TypeScript**, leveraging **Next.js** for the frontend and **OpenAI** for LLM interactions.
 
-- **Core Functionality**: Processes PDF documents via vector embeddings (likely using OpenAI's `text-embedding-ada-002`), enabling conversational retrieval-augmented generation (RAG) with context-aware responses.
+- **Core Features**: Enables **semantic search** and **conversational Q&A** over PDF documents via vector embeddings (likely using OpenAI's `text-embedding-ada-002`) and retrieval-augmented generation (RAG).
 
-- **Architecture**: Implements a multi-agent system (via LangGraph) for docu
+- **Deployment**: Open-source repository with **16.5K+ stars** and **3.2K+ forks**, last updated in **Jul
 
 ## Use Cases
 

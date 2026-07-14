@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic OS Framework**: Open-source TypeScript-based system enabling autonomous AI agents with plugin support for RAG, Discord, Slack, and Telegram integrations.
+- **Agentic OS Framework**: Open-source TypeScript-based system enabling autonomous AI agents with plugin extensibility for RAG, crypto, and multi-platform (Discord, Slack, Telegram) integration.
 
-- **Swarm Intelligence**: Designed for multi-agent orchestration, facilitating distributed task execution and collaborative AI workflows.
+- **Swarm Intelligence**: Supports distributed agent orchestration via swarm logic, facilitating collaborative task execution across decentralized networks.
 
-- **Crypto & Plugin Ecosystem**: Integrates cryptographic capabilities and extensible plugin architecture for modular AI agent functionality.
+- **Modular Architecture**: Plugin-driven design with built-in crypto support for agent interactions, enabling seamless integration with blockcha
 
 ## Use Cases
 

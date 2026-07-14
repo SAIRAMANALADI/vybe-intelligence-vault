@@ -2,13 +2,13 @@
 title: infiniflow/ragflow
 archive_category: observability
 source_category: ai/rag
-source_url: https://github.com/infiniflow/ragflow?source=-----dba899ae0355---------------------------------------
+source_url: https://github.com/infiniflow/ragflow
 resource_id: github:infiniflow/ragflow
-local_vault_path: ai/rag/infiniflow-ragflow.md
+local_vault_path: ai/rag/infiniflow-ragflow-2.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -27,16 +27,18 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Hybrid RAG-Engine**: Combines advanced Retrieval-Augmented Generation (RAG) with agentic workflows to enhance LLM context processing via a unified pipeline.
-- **Go-Based Architecture**: Implemented in Go for high-performance parallel processing, optimized for low-latency retrieval and agent orchestration.
-- **Modular Context Engine**: Supports dynamic context management, enabling fine-grained control over retrieval, agent interactions, and LLM input synthesis.
+- **Hybrid RAG-Engine**: Combines state-of-the-art Retrieval-Augmented Generation (RAG) with Agentic AI to enhance LLM context processing via structured retrieval, reasoning, and tool-use integration.
+
+- **Go-Based Architecture**: Implements a high-performance, concurrent backend in Go for scalable document ingestion, indexing, and real-time retrieval with low-latency response.
+
+- **Modular Context Layer**: Supports dynamic context management via pluggable components (e.g., vector search, graph
 
 ## Use Cases
 
@@ -46,8 +48,8 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/infiniflow/ragflow?source=-----dba899ae0355---------------------------------------
+Original source URL: https://github.com/infiniflow/ragflow
 
 ## Local Vault File
 
-Path: [infiniflow-ragflow.md](../../ai/rag/infiniflow-ragflow.md)
+Path: [infiniflow-ragflow-2.md](../../ai/rag/infiniflow-ragflow-2.md)

@@ -12,8 +12,12 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
+- leaderboard
+- scripts
 - unknown
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -30,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **AI E-Sports Platform**: Hosts live AI Battles with competitive agentic AI challenges, integrating an e-sports-style tournament structure for developers.
-- **Asynchronous & GitHub-Integrated**: Supports asynchronous community challenges with submissions managed via GitHub repositories for version control and collaboration.
-- **Developer-Focused**: A high-energy challenge framework designed to foster innovation in agentic AI through structured, competitive, and community-driven development.
+- **AI E-Sports Platform**: Hosts live, asynchronous AI agent battles with competitive scoring and GitHub-based submissions.
+- **Developer Challenge Framework**: Enables community-driven agentic AI challenges with structured participation and evaluation.
+- **GitHub Integration**: Automates submissions, scoring, and leaderboard updates via GitHub Actions/workflows.
 
 ## Use Cases
 

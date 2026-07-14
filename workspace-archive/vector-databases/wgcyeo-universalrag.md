@@ -6,7 +6,7 @@ source_url: https://github.com/wgcyeo/UniversalRAG
 resource_id: github:wgcyeo/universalrag
 local_vault_path: ai/rag/wgcyeo-universalrag.md
 quality_score: 70
-archive_score: 75
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -15,6 +15,7 @@ tags:
 - python
 - rag
 selection_reason:
+- Strong keyword match
 - Useful for project building
 ---
 
@@ -23,16 +24,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence-level), leveraging unified embeddings for cross-modal retrieval.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling Retrieval-Augmented Generation (RAG) across diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or cell-level), leveraging unified indexing and retrieval mechanisms.
 
-- **Modality-Agnostic Retrieval**: Implements a modality-agnostic retrieval mechanism using a shared encoder (e.g., transformer-based) to project heterogeneous data into a common latent space, enabling efficient and scal
+- **Modality-Agnostic Retrieval**: Implements a modality-agnostic retriever that dynamically adapts to input types, using modality-specific encoders (e.g., CLIP for images, T5 for text) and a shared retrieval
 
 ## Use Cases
 

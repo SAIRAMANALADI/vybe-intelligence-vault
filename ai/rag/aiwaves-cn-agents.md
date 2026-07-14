@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aiwaves-cn/agents
-collected_at: '2026-07-14T19:50:37.308468+05:30'
+collected_at: '2026-07-15T01:18:47.334432+05:30'
 published_at: '2026-07-13T20:18:12Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - hackernews
 - python
 - rag
-- workflows
 stars: 5943
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2023-07-18T02:01:03Z'
 pushed_at: '2024-09-26T03:12:53Z'
 resource_id: github:aiwaves-cn/agents
-first_seen: '2026-07-14T19:50:37.308468+05:30'
-last_seen: '2026-07-14T19:50:37.308468+05:30'
-last_checked: '2026-07-14T19:50:37.308468+05:30'
+first_seen: '2026-07-15T01:18:47.334432+05:30'
+last_seen: '2026-07-15T01:18:47.334432+05:30'
+last_checked: '2026-07-15T01:18:47.334432+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: Open-source Python-based framework (`aiwaves-cn/agents`) designed for building **data-centric, self-evolving autonomous language agents** leveraging LLMs for dynamic adaptation and task execution.
+- **Framework Architecture**: Open-source Python framework (`aiwaves-cn/agents`) designed for **data-centric, self-evolving autonomous language agents**, leveraging LLMs for dynamic adaptation and task execution without manual intervention.
 
-- **Core Capabilities**: Enables **autonomous agent development** with self-improvement mechanisms, integrating data-driven feedback loops for continuous performance optimization and task-specific customization.
+- **Key Features**: Supports **autonomous agent orchestration**, **self-improvement via feedback loops**, and **modular agent design** for scalable, multi-agent systems with minimal human oversight.
 
-- **Technical Stack**: Built on Python, optimized for **LLM integration**, with modular architecture supporting extensibility for autonomous agent workflows, multi-agent collaboration, and real-time data processing.
+- **Technical Stack**: Built in Python with integrations for **LLM APIs**, **memory management**, and **environment interaction** (e.g., tool use, API calls) to enable end-to-end agent autonomy.
 
 ## Why It Matters
 

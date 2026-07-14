@@ -6,15 +6,16 @@ source_url: https://github.com/Fosowl/agenticSeek
 resource_id: github:fosowl/agenticseek
 local_vault_path: ai/rag/fosowl-agenticseek.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
-resource_kind: api
-importance: medium
+archive_score: 87
+archive_tier: essential
+resource_kind: workflow
+importance: high
 tags:
 - agents
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -25,19 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Inference and Local LLM`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: api
+- Quality score: 70 | Archive score: 87 (essential)
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Local LLM Integration**: Fully autonomous agent leveraging **DeepSeek-R1** (or similar) for reasoning, browsing, and coding **without cloud APIs**, operating solely on local compute resources.
-
-- **Zero-Cost Operation**: Eliminates subscription fees ($200+/month) by running entirely offline, with costs limited to electricity consumption.
-
-- **Multi-Modal Capabilities**: Supports **voice-assistant functionality** and **LLM-agent orchestration** (e.g., web interaction, code execution) via Pyth
+- **Local LLM Integration**: Fully local implementation of Manus AI using Python, eliminating dependency on external APIs or cloud services, operating solely on local compute resources.
+- **Autonomous Agent Capabilities**: Supports autonomous web browsing, code execution, and reasoning tasks via deepseek-r1, enabling end-to-end agentic workflows without recurring costs.
+- **Cost-Effective & Offline**: Operates at the sole expense of electricity with no subscription fees, leveraging local LLMs fo
 
 ## Use Cases
 
