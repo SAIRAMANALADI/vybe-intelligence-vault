@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 60,383 files</p>
-        <p><b>Last Update:</b> 2026-07-16 16:28 IST</p>
+        <p><b>Last Update:</b> 2026-07-16 17:52 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,16 +210,16 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[gomate-community/awesome-papers-for-rag](ai/rag/gomate-community-awesome-papers-for-rag.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[GraphRAG-Bench/GraphRAG-Benchmark](ai/rag/graphrag-bench-graphrag-benchmark.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[zhengxuJosh/Awesome-RAG-Vision](ai/rag/zhengxujosh-awesome-rag-vision.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[jxzhangjhu/Awesome-LLM-RAG](ai/rag/jxzhangjhu-awesome-llm-rag.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[topoteretes/awesome-ai-memory](ai/rag/topoteretes-awesome-ai-memory.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[microsoft/promptflow-rag-project-template](ai/rag/microsoft-promptflow-rag-project-template.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow-2.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Azure/GenAIOps-project-template](ai/rag/azure-genaiops-project-template.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[langchain-ai/rag-research-agent-template](ai/rag/langchain-ai-rag-research-agent-template.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[vercel-labs/ai-sdk-preview-rag](ai/rag/vercel-labs-ai-sdk-preview-rag.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
