@@ -13,13 +13,14 @@ collected_at: '2026-07-15T01:14:27.391727+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:australian-energy-retailers-must-provide-three-hou
 first_seen: '2026-07-14T19:46:06.311503+05:30'
 last_seen: '2026-07-15T01:14:27.391727+05:30'
 last_checked: '2026-07-15T01:14:27.391727+05:30'
 health_score: 100
 ---
+
 
 # Australian energy retailers must provide three hours of free daytime electricity
 

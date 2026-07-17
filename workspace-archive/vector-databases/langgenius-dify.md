@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent orchestration framework**: Enables development of agentic workflows with support for LLM integration (OpenAI, GPT-4, Gemini), MCP, and RAG pipelines in a low/no-code environment.
+- **Multi-agent orchestration framework** leveraging TypeScript/Next.js for frontend and Python for backend, enabling agentic workflows with LLM integration (OpenAI, GPT-4, Gemini) and MCP support.
 
-- **Full-stack TypeScript/Python implementation**: Built with Next.js (frontend) and Python (backend), supporting scalable agentic AI automation with orchestration capabilities.
+- **Low-code/no-code platform** with built-in RAG (Retrieval-Augmented Generation) capabilities, designed for rapid AI agent development and automation without extensive coding.
 
-- **Production-ready deployment**: Optimized for enterprise-grade workflows with version control, API-driven development, and
+- **Production-ready deployment** with GitHub stars (149K+) and forks (23K+), supporting scalable agentic workflows, orche
 
 ## Use Cases
 

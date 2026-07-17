@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic RAG System**: Production-ready Retrieval-Augmented Generation (RAG) framework with RESTful API support, enabling dynamic agent-based retrieval and generation workflows.
-- **Python Implementation**: Fully implemented in Python, optimized for large-scale AI retrieval tasks, question answering, and search applications.
-- **Scalable Architecture**: Supports high-performance retrieval systems with modular components for integration with large language models (LLMs) and vector databases.
+- **Agentic RAG System**: Production-ready retrieval-augmented generation (RAG) framework with RESTful API support, enabling dynamic agent-based retrieval and generation workflows.
+- **Python Implementation**: Fully implemented in Python, leveraging modern AI/ML libraries for efficient indexing, retrieval, and generation.
+- **Scalable Retrieval & QA**: Optimized for large-scale document retrieval and question-answering, supporting vector search, hybrid retrieval, and structured metadata filterin
 
 ## Use Cases
 

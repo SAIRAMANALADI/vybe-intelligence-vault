@@ -3,17 +3,16 @@ title: Sign in - Google Accounts
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://support.google.com/youtubetv/gethelp?symptom=about_nfl_sunday_ticket&utm_source=st_lp
-published_at: '2026-07-14T19:57:43.343107+05:30'
-collected_at: '2026-07-14T19:57:43.343120+05:30'
+source_url: https://wallet.google.com/wallet?p=globalgpayhome&utm_source=gpay-hc&utm_medium=website&utm_campaign=gpay-hc-redirect
+published_at: '2026-07-17T14:11:02.997755+05:30'
+collected_at: '2026-07-17T14:11:02.997766+05:30'
 tags:
 - web-crawled
-- youtube
 status: active
 resource_id: blog:sign-in-google-accounts
-first_seen: '2026-07-14T19:57:43.343120+05:30'
-last_seen: '2026-07-14T19:57:43.343120+05:30'
-last_checked: '2026-07-14T19:57:43.343120+05:30'
+first_seen: '2026-07-17T14:11:02.997766+05:30'
+last_seen: '2026-07-17T14:11:02.997766+05:30'
+last_checked: '2026-07-17T14:11:02.997766+05:30'
 health_score: 100
 ---
 
@@ -21,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Interface**: Google's sign-in page requires user credentials (email/phone) for account access, with recovery options for forgotten usernames.
+- **Authentication Flow**: Google Wallet employs a **WebLiteSignIn** OAuth 2.0 flow for user authentication, with optional **Guest Mode** (private browsing) to enhance security.
 
-- **Session Management**: Supports private browsing mode to prevent credential caching, enhancing security for non-personal device usage.
+- **Recovery Mechanism**: The "Forgot email?" feature triggers a **username recovery** process via `usernamerecovery` endpoint, redirecting to `wallet.google.com` post-verification.
 
-- **Account Creation**: Provides an integrated "Create account" flow for new user registration, redirecting post-authentication to the target service (YouTube TV).
+- **Account Creation**: New users are directed to a **GlifWebSignIn** signup flow (`/lifecycle/flows/signup`), with post-creation redirection to the Google Wallet dashboard (`globalgpayhome`).
 
 ## Why It Matters
 
@@ -35,13 +34,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-14T19:57:43.343107+05:30
+- Published: 2026-07-17T14:11:02.997755+05:30
 
 ## Related Tags
 
 - web-crawled
-- youtube
 
 ## Source
 
-Original source: https://support.google.com/youtubetv/gethelp?symptom=about_nfl_sunday_ticket&utm_source=st_lp
+Original source: https://wallet.google.com/wallet?p=globalgpayhome&utm_source=gpay-hc&utm_medium=website&utm_campaign=gpay-hc-redirect

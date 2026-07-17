@@ -6,7 +6,7 @@ source_url: https://github.com/didilili/ai-agents-from-zero
 resource_id: github:didilili/ai-agents-from-zero
 local_vault_path: ai/rag/didilili-ai-agents-from-zero.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -16,6 +16,7 @@ tags:
 - models
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -26,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Learning Paths`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, prompting, and enterprise deployment/fine-tuning for AI Agent Development Engineer roles.
-- **Full-Stack Learning Path**: Integrates theory, hands-on projects, and interview prep with a structured roadmap from zero to production deployment.
-- **Enterprise-Ready Toolkit**: Includes skills, RAG pipelines, agent frameworks, and deployment tools (e.g., Dify, Coze) with Python-based implementations.
+- **Comprehensive AI Agent Learning Path**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured for 2026 AI Agent roles, including enterprise deployment and fine-tuning.
+- **Hands-on Projects & Interview Prep**: Includes real-world projects, interview question banks, and end-to-end workflows from learning to deployment, targeting AI application development engineering positions.
+- **Multi-Framework & Tool Integration**: Integrates skills, LLM APIs, and fram
 
 ## Use Cases
 

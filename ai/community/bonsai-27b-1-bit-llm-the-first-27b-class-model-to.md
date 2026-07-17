@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:bonsai-27b-1-bit-llm-the-first-27b-class-model-to
 first_seen: '2026-07-15T01:14:25.298288+05:30'
 last_seen: '2026-07-15T01:14:25.298288+05:30'
 last_checked: '2026-07-15T01:14:25.298288+05:30'
 health_score: 100
 ---
+
 
 # Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone
 

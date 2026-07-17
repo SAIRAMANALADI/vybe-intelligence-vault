@@ -8,9 +8,10 @@ local_vault_path: ai/resources/github-changelog.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: dataset
 importance: medium
 tags:
+- dataset
 - web-crawled
 - workflows
 selection_reason:
@@ -24,18 +25,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **GitHub Code Quality License Estimate (Public Preview)**: Introduces a new feature providing real-time license compliance estimates for code repositories, enabling proactive risk assessment for open-source dependencies.
+- **Advanced search for Projects**: GitHub Projects now supports advanced search capabilities, enabling users to filter and query projects using structured queries (e.g., `status:done label:"bug"`), improving discoverability and management of large-scale project data.
 
-- **Account Management Enhancements**: Updates include granular access controls and automated policy enforcement for user and organization-level permissions, improving security and compliance workflows.
-
-- **Application Security Integration**: New tools for static and dynamic
+- **Integration with GitHub Issues**: Advanced search extends to GitHub Issues, allowing cross-referenced queries across projects and issues (e.g., `project:"Roadmap" is:issue is:open`), unifying workflows for issue tracking and p
 
 ## Use Cases
 

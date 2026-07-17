@@ -8,7 +8,7 @@ local_vault_path: ai/rag/github-copilot-cli-command-reference-github-docs.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: prompt
+resource_kind: mcp-server
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - web-crawled
 - workflows
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # GitHub Copilot CLI command reference - GitHub Docs
@@ -30,15 +30,13 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: prompt
+- Resource kind: mcp-server
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot completion SHELL` (enables tab completion for `bash`/`zsh`/`fish`), `copilot init` (repository custom instructions), `copilot login` (OAuth device flow auth with `--host` for GitHub Enterprise), `copilot skill` (manage agent skills), and `copilot version`/`update` (version info and updates).
-
-- **Authentication & Environment**: Supports OAuth tokens (fine-grained PATs with "Copilot Requests" permission), OAuth
+- **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot completion SHELL` (enables tab completion for bash/zsh/fish), `copilot help [TOPIC]` (displays help for billing/config/commands/etc.), `copilot init` (initializes custom instructions), `copilot login` (OAuth device flow auth with `--host` support), `copilot mcp` (manages MCP server configs), `copilot skill` (manages agent skills), `copilot update` (updates CLI), and `copilot version` (displays version info).
 
 ## Use Cases
 

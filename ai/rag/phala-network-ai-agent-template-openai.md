@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Phala-Network/ai-agent-template-openai
-collected_at: '2026-07-14T19:49:17.130301+05:30'
+collected_at: '2026-07-17T14:04:19.102802+05:30'
 published_at: '2026-06-30T16:46:05Z'
 tags:
 - agents
 - github-repo
+- models
 - openai
 - rag
 - typescript
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-28T19:00:47Z'
 pushed_at: '2024-09-05T18:01:35Z'
 resource_id: github:phala-network/ai-agent-template-openai
-first_seen: '2026-07-14T19:49:17.130301+05:30'
-last_seen: '2026-07-14T19:49:17.130301+05:30'
-last_checked: '2026-07-14T19:49:17.130301+05:30'
+first_seen: '2026-07-17T14:04:19.102802+05:30'
+last_seen: '2026-07-17T14:04:19.102802+05:30'
+last_checked: '2026-07-17T14:04:19.102802+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a TypeScript-based contract template for integrating AI agents with OpenAI's API within the Phala Network ecosystem.
+- **TypeScript-based AI Agent Contract Template**: Provides a structured framework for integrating OpenAI's API with Phala Network's confidential computing environment, enabling secure AI inference execution.
 
-- **Key Components**: Includes pre-configured interfaces for OpenAI API calls, agent lifecycle management, and secure on-chain data handling via Phala's confidential computing.
+- **OpenAI Integration**: Implements OpenAI's function-calling API to dynamically invoke AI models (e.g., GPT-4) within a decentralized, trustless smart contract environment.
 
-- **Integration Focus**: Designed for seamless deployment of AI-driven smart contracts, leveraging OpenAI's models for tasks like NLP or decision-making while ensuring privacy-preserving execution on Phala's decentralized cloud.
+- **Phala Network Compatibility**: Leverages Phala's TEE (Trusted Execution Environment) to ensure privacy-preserving computation, allowing AI agents to process sensitive data without exposing raw inputs or model internals.
 
 ## Why It Matters
 

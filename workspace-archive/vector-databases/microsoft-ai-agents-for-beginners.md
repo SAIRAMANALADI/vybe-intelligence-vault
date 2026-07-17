@@ -16,7 +16,6 @@ tags:
 - hackernews
 - jupyter notebook
 - rag
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -33,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curriculum Structure**: 18 structured lessons in Jupyter Notebooks covering foundational to advanced concepts in AI agent development, including agentic RAG, Autogen, and Microsoft Foundry.
-
-- **Technical Stack**: Integrates key frameworks/tools like **Semantic Kernel**, **Microsoft Foundry**, and **Autogen** for building agentic AI systems with local deployment capabilities.
-
-- **Educational Focus**: Designed for beginners, emphasizing hands-on implementation of agentic workflows, multi-age
+- **Curriculum Structure**: 18 structured lessons in Jupyter Notebooks covering foundational to advanced concepts in AI agents, including agentic RAG, Autogen, and Microsoft Foundry.
+- **Technical Stack**: Integrates Microsoft’s **Semantic Kernel**, **Autogen**, and **Foundry** for local agentic AI development, with emphasis on agentic frameworks and generative AI.
+- **Repository Metrics**: Highly active with **69,587 stars**, **23,079 forks**, and last updated **July 2026**, indicating strong c
 
 ## Use Cases
 

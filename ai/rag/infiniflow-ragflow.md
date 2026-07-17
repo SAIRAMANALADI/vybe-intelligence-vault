@@ -4,8 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/infiniflow/ragflow?source=
-resource_id: github:infiniflow/ragflow
------dba899ae0355---------------------------------------
+resource_id: github:infiniflow/ragflow-417aded1
+---
+--dba899ae0355---------------------------------------
 collected_at: '2026-07-14T19:51:22.399623+05:30'
 published_at: '2026-07-14T14:11:03Z'
 tags:

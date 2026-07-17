@@ -6,10 +6,10 @@ source_url: https://is4.ai/blog/our-blog-1/how-to-implement-rag-retrieval-augmen
 resource_id: blog:how-to-implement-rag-retrieval-augmented-generatio
 local_vault_path: ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md
 quality_score: 70
-archive_score: 84
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
-importance: high
+importance: medium
 tags:
 - agents
 - anthropic
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 84 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines LLMs with external knowledge retrieval to reduce hallucinations and improve factual accuracy by fetching real-time, domain-specific information from vector databases (e.g., ChromaDB) using embeddings (e.g., OpenAI's `text-embedding-3-small`).
+- **RAG Architecture**: Combines LLMs with external knowledge retrieval to reduce hallucinations and improve factual accuracy by fetching real-time, domain-specific data from vector databases (e.g., ChromaDB) using embeddings (e.g., OpenAI's `text-embedding-3-small`).
 
-- **Core Pipeline**: Implements a production-ready RAG system via LangChain, involving document chunking (1000 chars, 200 overlap), vector store creation (ChromaDB), hybrid retrieval (semantic + BM25), and deterministic LLM
+- **Core Pipeline**: Implements a 7-step process—document loading (PDFs/text), chunking (1000 chars, 200 overlap), embedding generation, vector store creation, retriever setup (hybrid/reranking), RAG chain assembly (LangChain + `g
 
 ## Use Cases
 

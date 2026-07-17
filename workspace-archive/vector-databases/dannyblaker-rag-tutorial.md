@@ -6,7 +6,7 @@ source_url: https://github.com/dannyblaker/rag-tutorial
 resource_id: github:dannyblaker/rag-tutorial
 local_vault_path: ai/rag/dannyblaker-rag-tutorial.md
 quality_score: 70
-archive_score: 81
+archive_score: 77
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from embeddings and vector databases to LLMs and advanced techniques, with reusable Python utilities and hands-on demos.
-
-- **Technical Depth**: Integrates embeddings (e.g., Sentence-BERT), vector DBs (e.g., Chroma/FAISS), and LLM orchestration (e.g., LangChain/HuggingFace) for production-grade RAG pipelines.
-
-- **Code-Centric**: Provides working examples, reusable modules, and demos to bridge theory-to-pra
+- **Progressive RAG Tutorial**: 6 structured lessons covering embeddings, vector databases, LLMs, and advanced RAG techniques with working Python code examples and reusable utilities.
+- **Hands-on Demos**: Practical implementation guides with executable code snippets for building production-grade RAG systems from scratch.
+- **Updated Repository**: Last modified on 2026-07-08, featuring foundational to advanced RAG concepts with no prior forks or stars.
 
 ## Use Cases
 

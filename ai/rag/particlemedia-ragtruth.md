@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-07-15T01:15:12.145470+05:30'
-published_at: '2026-07-07T08:27:57Z'
+collected_at: '2026-07-17T14:01:58.966663+05:30'
+published_at: '2026-07-17T06:35:47Z'
 tags:
 - benchmark
 - dataset
@@ -13,7 +13,7 @@ tags:
 - hackernews
 - python
 - rag
-stars: 257
+stars: 258
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-07-15T01:15:12.145470+05:30'
-last_seen: '2026-07-15T01:15:12.145470+05:30'
-last_checked: '2026-07-15T01:15:12.145470+05:30'
+first_seen: '2026-07-17T14:01:58.966663+05:30'
+last_seen: '2026-07-17T14:01:58.966663+05:30'
+last_checked: '2026-07-17T14:01:58.966663+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs.
-- **Technical Scope**: Provides a structured dataset with annotated hallucinations, enabling benchmarking of RAG systems' factual accuracy and reliability in real-world retrieval-augmented scenarios.
-- **Implementation**: Python-based repository with tools for dataset generation, evaluation metrics, and baseline model comparisons to facilitate reproducible research in hallucination mitigation.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the reliability of Retrieval-Augmented Generation (RAG) systems by identifying and quantifying hallucinations in LLM outputs.
+- **Technical Composition**: Contains Python-based tools for generating synthetic hallucinations, annotating truthfulness, and benchmarking RAG models against hallucination risks in retrieval-augmented pipelines.
+- **Evaluation Focus**: Provides a structured framework for assessing hallucination mitigation strategies, including metrics for precision/recall of truthful responses and robustness to noisy retrieval contexts.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ParticleMedia
-- Stars: 257
+- Stars: 258
 - Forks: 32
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-07T08:27:57Z
+- Last Updated: 2026-07-17T06:35:47Z
 - License: MIT
 - Archived: No
 - Created At: 2023-12-26T05:41:01Z

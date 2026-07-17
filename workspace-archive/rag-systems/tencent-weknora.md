@@ -19,7 +19,6 @@ tags:
 - models
 - openai
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -38,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal RAG & Agentic Workflow**: WeKnora converts raw documents into a queryable Retrieval-Augmented Generation (RAG) system, an autonomous reasoning agent, and a self-maintaining Wiki, supporting multimodal inputs (e.g., text, embeddings) and enabling multi-tenant deployments.
+- **Multi-modal RAG & Agent Framework**: Implements Retrieval-Augmented Generation (RAG) with vector search, reranking, and semantic indexing; supports autonomous reasoning agents and self-maintaining wiki functionality for dynamic knowledge updates.
 
-- **Go-Based Vector & Semantic Search**: Implements vector search, reranking, and semantic search via Go, integrating with models like Ollama and OpenAI, while supporting embeddings, LLM APIs, and evaluation fra
+- **Scalable Multi-Tenant Architecture**: Built in Go with support for OpenAI/Ollama models, multi-model embeddings, and tenant isolation for enterprise-grade deployments.
+
+- **Evaluation & Tooling Suite**: Includes built-in evaluation metrics, sem
 
 ## Use Cases
 

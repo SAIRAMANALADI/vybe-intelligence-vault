@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **ipywidgets**: Primary framework for interactive widgets in Jupyter Notebooks, implemented in TypeScript with BSD-3-Clause licensing, supporting 3.3k+ stars and 973+ forks.
+- **ipywidgets**: Primary framework for interactive widgets in Jupyter Notebooks, written in TypeScript, with 3.3k+ stars, 971 forks, and BSD-3-Clause license. Supports bidirectional communication between frontend and kernel.
 
-- **ipyleaflet**: Jupyter-Leaflet.js bridge enabling geospatial visualization, written in TypeScript with MIT license, featuring 1.5k+ stars and 362+ forks.
+- **ipyleaflet**: Jupyter-Leaflet.js bridge enabling interactive maps in notebooks, TypeScript-based, MIT licensed, with 1.5k+ stars and 364 forks, facilitating geospatial visualization.
 
-- **ipydatagrid**: High-performance datagrid widget for Jupyter environments, TypeScript-based with BSD-3-Clause licensing, 641+ stars and optimized for large datase
+- **ipydatagrid**: High-performance data grid widget for Jupyter, optimized for large
 
 ## Use Cases
 

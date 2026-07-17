@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform desktop framework** leveraging Chromium for rendering, Node.js for backend integration, and V8 for JavaScript execution, enabling native-like apps with web technologies (HTML/CSS/JS).
+- **Cross-platform desktop app framework**: Electron enables building native applications for Windows, macOS, and Linux using web technologies (JavaScript, HTML, CSS) with a Chromium-based runtime and Node.js integration.
 
-- **Core architecture** combines a C++ runtime with a multi-process model (BrowserWindow, main/renderer processes) for performance and security isolation.
+- **Core architecture**: Combines V8 JavaScript engine, Chromium's Blink rendering engine, and Node.js APIs to provide a unified runtime for desktop applications.
 
-- **Extensible ecosystem** supports native modules, IPC (Inter-Process Communication), and platform-specific APIs while maintaining compatib
+- **Development stack**: Leverages C++ for performance-critical components, integrates with V8 for JS execution,
 
 ## Use Cases
 

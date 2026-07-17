@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-15T01:15:52.170682+05:30'
-published_at: '2026-07-14T19:14:59Z'
+collected_at: '2026-07-17T14:02:49.004523+05:30'
+published_at: '2026-07-16T10:59:46Z'
 tags:
 - github-repo
 - python
 - rag
-stars: 157
+stars: 158
 language: Python
 status: active
 license: Apache-2.0
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-15T01:15:52.170682+05:30'
-last_seen: '2026-07-15T01:15:52.170682+05:30'
-last_checked: '2026-07-15T01:15:52.170682+05:30'
+first_seen: '2026-07-17T14:02:49.004523+05:30'
+last_seen: '2026-07-17T14:02:49.004523+05:30'
+last_checked: '2026-07-17T14:02:49.004523+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Demonstrates LangChain integration with a vector store (e.g., FAISS) and hybrid search (combining dense and sparse retrieval) for enhanced document retrieval and generation.
-
-- **Streamlit UI**: Provides a web interface built with Streamlit to interact with the RAG system, enabling users to input queries and receive context-augmented responses.
-
-- **Modular Architecture**: Uses LangChain’s `RetrievalQA` chain with customizable components (e.g., embeddings, retrievers) and supports local/remote vector stores for scalable deployment.
+- Implements **LangChain RAG pipeline** in a Streamlit app, combining vector store retrieval with hybrid search (likely BM25 + dense retrieval).
+- Uses **retrieval-augmented generation (RAG)** to enhance LLM responses with external knowledge via a vector database (e.g., FAISS, Chroma).
+- Demonstrates **hybrid search** (sparse + dense retrieval) for improved document retrieval accuracy in a production-ready Streamlit interface.
 
 ## Why It Matters
 
@@ -41,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: streamlit
-- Stars: 157
+- Stars: 158
 - Forks: 80
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-14T19:14:59Z
+- Last Updated: 2026-07-16T10:59:46Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-03-01T22:26:37Z

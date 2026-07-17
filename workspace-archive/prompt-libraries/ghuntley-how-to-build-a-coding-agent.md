@@ -8,15 +8,16 @@ local_vault_path: ai/agents/ghuntley-how-to-build-a-coding-agent.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: prompt
+resource_kind: template
 importance: medium
 tags:
 - agents
 - github-repo
 - go
+- scripts
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # ghuntley/how-to-build-a-coding-agent
@@ -25,18 +26,18 @@ selection_reason:
 
 - Matched archive category: `Prompt Libraries`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: prompt
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Go-based workshop** for constructing an AI-powered coding agent, analogous to tools like Cursor or Cline, with modular architecture for extensibility.
+- **Go-based workshop** for constructing a **coding agent** (comparable to Cursor, Cline, or Amp) with modular architecture for AI-driven code generation and automation.
 
-- **Key components** include LLM integration, tool orchestration (e.g., file I/O, shell commands), and context-aware prompt engineering for autonomous code generation/review.
+- **Key components** include **LLM integration**, **context-aware prompt engineering**, and **toolchain orchestration** (e.g., file I/O, shell commands, API calls).
 
-- **Open-source repository** (MIT License) with 5.7K+ stars, providing hands-on tutorials, sample implementations, and CLI scaffolding for rapid prototyping.
+- **Open-source template** provides starter code, **testing harness**, and **deployment guidelines** for extensible agent development.
 
 ## Use Cases
 

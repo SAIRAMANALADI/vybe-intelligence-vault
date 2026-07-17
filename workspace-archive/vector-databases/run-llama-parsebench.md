@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents, covering tasks like PDF parsing, OCR, and table extraction across diverse document types.
-
-- **Multi-Modal Evaluation**: Supports testing of vision-language models (VLMs) and LLMs for structured/unstructured document understanding, including layout analysis and content extraction.
-
-- **Integration-Ready**: Designed for compatibility with LlamaIndex, enabling seamless benchmarking of document parsing pipelines
+- **Benchmark Suite**: ParseBench evaluates AI agents on document parsing tasks, including PDF parsing, OCR, and table extraction, across diverse document types.
+- **Multi-Modal Evaluation**: Tests both text-based and vision-language models for document understanding and structured data extraction.
+- **LlamaIndex Integration**: Designed for compatibility with LlamaIndex, enabling benchmarking of document parsing pipelines in AI agent workflows.
 
 ## Use Cases
 

@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: Agent Zero is an open-source AI framework in Python designed for building autonomous agents with capabilities for task execution, reasoning, and interaction in Linux environments.
+- **Framework Overview**: Agent Zero is an autonomous AI agent framework written in Python, designed for building and deploying AI assistants capable of executing tasks independently on Linux systems.
 
-- **Core Architecture**: Implements a modular design with components for memory management, tool integration, and decision-making, enabling customizable agent behavior and workflow automation.
+- **Core Features**: Supports autonomous operation, task automation, and integration with AI models for real-time decision-making and execution in headless environments.
 
-- **Key Features**: Supports multi-agent systems, integrates with LLMs for natural language process
+- **Repository Metrics**: Maintained by a large community (18,443 stars, 3,678 forks), last updated July 17, 2026, with a focus
 
 ## Use Cases
 

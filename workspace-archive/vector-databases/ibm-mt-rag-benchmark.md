@@ -8,17 +8,15 @@ local_vault_path: ai/rag/ibm-mt-rag-benchmark.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
-- dataset
 - github-repo
-- hackernews
 - python
 - rag
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # IBM/mt-rag-benchmark
@@ -27,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Benchmark Suite**: Multi-Turn Retrieval-Augmented Generation (RAG) evaluation framework designed to assess conversational RAG systems across multiple interaction turns.
-- **Technical Implementation**: Python-based repository with structured datasets and metrics for evaluating multi-turn RAG performance, including retrieval quality and response coherence.
-- **Repository Metadata**: Updated July 2026, with 147 stars and 30 forks, indicating active community engagement in RAG benchmarking resea
+- **Purpose**: Evaluates Multi-Turn Retrieval-Augmented Generation (RAG) systems with a focus on conversational context retention and iterative retrieval quality.
+- **Implementation**: Python-based benchmark with standardized metrics for assessing multi-turn RAG performance, including relevance, coherence, and retrieval efficiency.
+- **Scope**: Designed for dynamic interaction testing, enabling comparison of RAG models across extended dialogues with persistent context tracking.
 
 ## Use Cases
 

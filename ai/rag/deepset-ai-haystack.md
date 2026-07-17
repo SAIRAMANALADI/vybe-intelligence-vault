@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/deepset-ai/haystack
-collected_at: '2026-07-14T13:02:59.151276+05:30'
-published_at: '2026-07-14T06:44:01Z'
+collected_at: '2026-07-17T14:06:34.216581+05:30'
+published_at: '2026-07-17T08:11:24Z'
 tags:
 - agents
 - github-repo
@@ -15,17 +15,17 @@ tags:
 - openai
 - rag
 - workflows
-stars: 25889
+stars: 25922
 language: MDX
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2019-11-14T09:05:28Z'
-pushed_at: '2026-07-14T07:32:52Z'
+pushed_at: '2026-07-17T08:14:45Z'
 resource_id: github:deepset-ai/haystack
-first_seen: '2026-07-14T13:02:59.151276+05:30'
-last_seen: '2026-07-14T13:02:59.151276+05:30'
-last_checked: '2026-07-14T13:02:59.151276+05:30'
+first_seen: '2026-07-17T14:06:34.216581+05:30'
+last_seen: '2026-07-17T14:06:34.216581+05:30'
+last_checked: '2026-07-17T14:06:34.216581+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration**: Framework for building production-ready LLM applications with explicit control over retrieval, routing, memory, and generation via modular pipelines and agent workflows.
+- **Modular AI Orchestration**: Haystack enables building production-grade LLM applications via explicit, modular pipelines for retrieval, routing, memory, and generation, supporting scalable agents, RAG, multimodal systems, and conversational workflows.
 
-- **Multi-Use Capabilities**: Supports scalable agents, RAG, multimodal applications, semantic search, and conversational systems with Python-based orchestration.
+- **Context-Engineered Design**: Optimized for context-aware applications (e.g., semantic search, QA, summarization) with integrations for transformers, PyTorch, and APIs like GPT-4/Gemini, ensuring fine-grained control over information retrieval and generation.
 
-- **Technical Stack**: Built with PyTorch and Transformers, optimized for generative AI (e.g., GPT-4, Gemini) and information retrieval tasks (e.g., QA, summarization).
+- **Technical Stack**: Python-based framework with MDX support, designed for extensibility across retrieval-augmented generation (RAG), agent workflows, and NLP tasks, last updated in July 2026.
 
 ## Why It Matters
 
@@ -46,15 +46,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: deepset-ai
-- Stars: 25889
-- Forks: 2920
+- Stars: 25922
+- Forks: 2928
 - Language: MDX
 - Topics: agent, agents, ai, gemini, generative-ai, gpt-4, information-retrieval, large-language-models, llm, machine-learning, nlp, orchestration, python, pytorch, question-answering, rag, retrieval-augmented-generation, semantic-search, summarization, transformers
-- Last Updated: 2026-07-14T06:44:01Z
+- Last Updated: 2026-07-17T08:11:24Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2019-11-14T09:05:28Z
-- Pushed At: 2026-07-14T07:32:52Z
+- Pushed At: 2026-07-17T08:14:45Z
 
 ## Possible Use Cases
 

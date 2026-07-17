@@ -2,7 +2,7 @@
 title: 🔎 Overview
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://myst-parser.readthedocs.io
+source_url: https://myst-parser.readthedocs.io/en/latest/
 resource_id: blog:overview
 local_vault_path: ai/rag/overview.md
 quality_score: 70
@@ -30,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Syntax Extension**: MyST extends CommonMark to support technical authoring features (e.g., tables, footnotes) while maintaining compatibility with Sphinx directives/roles for advanced documentation (e.g., admonitions, figures).
+- **Syntax Extension**: MyST extends CommonMark to support technical features like tables and footnotes, enabling structured authoring in scientific/technical documentation.
 
-- **Configurability**: Supports global and document-level configuration to modify parsing behavior and enable extended syntax features.
+- **Sphinx Integration**: Supports Sphinx roles/directives (e.g., admonitions, figures) and all Sphinx extensions via MyST syntax, enhancing documentation capabilities.
 
-- **Tooling Integration**: Leverages `markdown-it-py` for CommonMark parsing and provides extensions like VS Code syntax highlight
+- **Configurability**: Parsing behavior and extended syntax features can be configured globally or per-document, leveraging `markdown-it-py` for CommonMark
 
 ## Use Cases
 
@@ -44,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://myst-parser.readthedocs.io
+Original source URL: https://myst-parser.readthedocs.io/en/latest/
 
 ## Local Vault File
 

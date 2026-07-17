@@ -14,7 +14,6 @@ tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - typescript
 selection_reason:
 - Useful for project building
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: AI agent security scanner designed to detect vulnerabilities in agent configurations, MCP servers, and tool permissions
-- **Features**: Available as CLI, GitHub Action, ECC plugin, and GitHub App integration
-- **Technical Details**: Implemented in TypeScript, supports Anthropic's Claude Code/Opus, and integrates with MCP for security analysis
+- **AgentShield** is a TypeScript-based security scanner for AI agents, designed to detect vulnerabilities in configurations, MCP servers, and tool permissions.
+- Supports multiple integrations: CLI, GitHub Action, ECC plugin, and GitHub App for deployment flexibility.
+- Targets AI agent frameworks (e.g., Anthropic, Claude Code, MCP) with a focus on security hardening and vulnerability assessment.
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-15T01:16:22.163449+05:30'
+collected_at: '2026-07-17T14:03:18.995769+05:30'
 published_at: '2026-07-10T09:46:49Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-15T01:16:22.163449+05:30'
-last_seen: '2026-07-15T01:16:22.163449+05:30'
-last_checked: '2026-07-15T01:16:22.163449+05:30'
+first_seen: '2026-07-17T14:03:18.995769+05:30'
+last_seen: '2026-07-17T14:03:18.995769+05:30'
+last_checked: '2026-07-17T14:03:18.995769+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems across **Create, Read, Update, and Delete (CRUD)** operations in LLMs.
-- **Evaluation Framework**: Provides a standardized testbed with 10,000+ queries spanning multi-domain datasets to assess RAG performance in Chinese, including metrics for retrieval quality, generation accuracy, and robustness.
-- **Open-Source Toolkit**: Released under Python, offering modular implementations for benchmarking, dataset preprocessing, and model evaluation, with support for integration with popular RAG pipelines.
+- **Benchmark Framework**: Introduces **CRUD-RAG**, a Chinese-language benchmark designed to evaluate **Retrieval-Augmented Generation (RAG)** systems for Large Language Models (LLMs) with a focus on **Create, Read, Update, Delete (CRUD)** operations.
+- **Evaluation Scope**: Assesses RAG performance across **multi-turn dialogues**, **long-context retrieval**, and **dynamic knowledge updates**, providing standardized metrics for Chinese-language LLM evaluation.
+- **Open-Source Toolkit**: Provides a **Python-based** repository with tools for benchmarking, including datasets, evaluation scripts, and baseline models for reproducibility.
 
 ## Why It Matters
 

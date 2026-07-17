@@ -8,7 +8,7 @@ local_vault_path: ai/agents/langchain-opentutorial-langchain-opentutorial.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -16,7 +16,7 @@ tags:
 - jupyter notebook
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # LangChain-OpenTutorial/LangChain-OpenTutorial
@@ -25,16 +25,14 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Repository Overview**: GitHub repository providing open-source tutorials on LangChain and LangGraph, covering agent-based systems with Jupyter Notebook examples.
-- **Metadata**: 1,087 stars, 342 forks, last updated July 9, 2026; primary language is Python (Jupyter Notebook).
-- **Focus Areas**: Educational resource for implementing LangChain/LangGraph agents, emphasizing practical, hands-on tutorials.
+*   Jupyter Notebook-based tutorial repository for LangChain and LangGraph frameworks.
 
 ## Use Cases
 

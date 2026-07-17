@@ -10,23 +10,23 @@ Security guardrails defend against malicious inputs, prompt injections, and data
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [Computational Safety for Generative AI: A Hypothesis Testing Perspective](https://arxiv.org/abs/2502.12445) (framework - USEFUL Tier)
-- [Jul 2, 2026AnnouncementsMore details on Fable 5’s cyber safeguards and our jailbreak framework](https://anthropic.com/news/fable-safeguards-jailbreak-framework) (framework - USEFUL Tier)
-- [NeST: Neuron Selective Tuning for LLM Safety](https://arxiv.org/abs/2602.16835) (framework - USEFUL Tier)
+- [Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System](https://arxiv.org/abs/2606.12702) (framework - USEFUL Tier)
+- [EXHOLD: Experience-Aware Real-Time Hold Control for Large-Scale Ride-Hailing Matching at DiDi](https://arxiv.org/abs/2607.09090) (framework - USEFUL Tier)
+- [LLMs Prompted for Legal Context Object More: Overrefusal from Small On-Premises LLMs in Criminal Legal Context](https://arxiv.org/abs/2606.24585) (framework - USEFUL Tier)
 - [TREC AutoJudge ← TREC AutoJudge](https://trec-auto-judge.cs.unh.edu) (template - USEFUL Tier)
+- [NeST: Neuron Selective Tuning for LLM Safety](https://arxiv.org/abs/2602.16835) (framework - USEFUL Tier)
 - [PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails](https://arxiv.org/abs/2607.05910) (framework - USEFUL Tier)
-- [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (framework - USEFUL Tier)
-- [SkillVetBench: LLM-as-Judge for Multi-Dimensional Security Risk Evaluation in Open-Source LLM Agent Skills](https://arxiv.org/abs/2606.15899) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/guardrails-ai/guardrails (Guardrails AI)
 https://github.com/neuri-ai/llm-guard (LLM Guard)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
-- [olegnazarov/rag-security-scanner](https://github.com/olegnazarov/rag-security-scanner)
-- [raga-ai-hub/raga-llm-hub](https://github.com/raga-ai-hub/raga-llm-hub)
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security)
-- [sbalnojan/ai-chaos-awesome](https://github.com/sbalnojan/ai-chaos-awesome)
+- [raga-ai-hub/raga-llm-hub](https://github.com/raga-ai-hub/raga-llm-hub)
+- [olegnazarov/rag-security-scanner](https://github.com/olegnazarov/rag-security-scanner)
 - [adisystems/fmbench-assistant](https://github.com/adisystems/fmbench-assistant)
+- [sbalnojan/ai-chaos-awesome](https://github.com/sbalnojan/ai-chaos-awesome)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 
 ---
 
-*Last updated: 2026-07-15 01:21 IST*
+*Last updated: 2026-07-17 14:18 IST*

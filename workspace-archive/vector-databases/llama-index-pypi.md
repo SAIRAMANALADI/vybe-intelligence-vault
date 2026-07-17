@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Purpose**: LlamaIndex v0.14.23 is an open-source Python framework (MIT License) designed as an interface between LLMs and structured/unstructured data, enabling RAG (Retrieval-Augmented Generation) workflows with modular integrations (e.g., LLMs, embeddings, vector stores) via `llama-index-core` or the bundled `llama-index` package.
+- **Purpose & Scope**: LlamaIndex v0.14.23 is an open-source framework designed to bridge large language models (LLMs) with external data sources, enabling agentic applications via structured indexing, retrieval, and integration with 300+ plugins (LlamaHub) for LLMs, embeddings, and vector stores.
 
-- **Architecture & Namespace**: Core components are imported via `llama_index.core.*` (e.g., `from llama_index.core.llms import LLM`), while integrati
+- **Installation & Modularity**: Available as `llama-index` (starter package) or `llama-index-core` (minimal core with optional integrations), supporting Python 3.10+. Imports are namespaced (`core` f
 
 ## Use Cases
 

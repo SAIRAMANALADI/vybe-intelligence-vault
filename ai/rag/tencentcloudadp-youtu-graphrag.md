@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-07-15T01:16:52.155365+05:30'
-published_at: '2026-07-10T07:35:58Z'
+collected_at: '2026-07-17T14:03:44.018563+05:30'
+published_at: '2026-07-16T02:17:21Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - python
 - rag
-stars: 1218
+stars: 1220
 language: Python
 status: active
 license: NOASSERTION
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-07-15T01:16:52.155365+05:30'
-last_seen: '2026-07-15T01:16:52.155365+05:30'
-last_checked: '2026-07-15T01:16:52.155365+05:30'
+first_seen: '2026-07-17T14:03:44.018563+05:30'
+last_seen: '2026-07-17T14:03:44.018563+05:30'
+last_checked: '2026-07-17T14:03:44.018563+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, validation) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
+- **Vertically Unified Agents Framework**: Introduces a multi-agent architecture where specialized agents (e.g., retrieval, reasoning, planning) operate hierarchically within a graph-structured knowledge base to enhance complex reasoning tasks.
 
-- **Graph Retrieval-Augmented Architecture**: Integrates graph neural networks (GNNs) with retrieval-augmented generation (RAG) to dynamically extract and synthesize subgraphs, improving factual grounding and multi-hop reasoning in LLMs.
+- **Graph Retrieval-Augmented Generation (GraphRAG)**: Integrates graph neural networks (GNNs) with large language models (LLMs) to dynamically retrieve and synthesize structured knowledge, improving factual accuracy and contextual understanding in reasoning.
 
-- **ICLR 2026 Contribution**: Proposes a novel paradigm for structured knowledge integration, achieving state-of-the-art performance in complex reasoning benchmarks via adaptive graph traversal and agentic coordination.
+- **Modular Python Implementation**: Provides an open-source Python library with extensible components for graph construction, agent orchestration, and retrieval-augmented reasoning, optimized for scalability and integration with existing LLM pipelines.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TencentCloudADP
-- Stars: 1218
+- Stars: 1220
 - Forks: 183
 - Language: Python
 - Topics: agent, graph, graphrag, llm, rag
-- Last Updated: 2026-07-10T07:35:58Z
+- Last Updated: 2026-07-16T02:17:21Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-01T02:52:13Z

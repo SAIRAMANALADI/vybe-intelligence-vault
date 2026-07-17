@@ -15,7 +15,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Framework**: agentUniverse enables developers to construct multi-agent applications using LLMs, facilitating autonomous agent interactions and task delegation.
-- **Python-Based**: The framework is implemented in Python, leveraging its ecosystem for extensibility and integration with AI/ML libraries.
-- **Modular & Scalable**: Designed for scalability, it supports dynamic agent orchestration, state management, and tool integration for complex workflows.
+- **Multi-agent LLM Framework**: agentUniverse enables developers to construct multi-agent applications leveraging large language models (LLMs) with minimal overhead.
+- **Python-based Architecture**: The framework is implemented in Python, supporting modular agent design, autonomous interactions, and extensible agent capabilities.
+- **Active Development & Community**: Last updated in July 2026, the repository includes 2,307 stars and 411 forks, indicating strong community engagement and ongoing
 
 ## Use Cases
 

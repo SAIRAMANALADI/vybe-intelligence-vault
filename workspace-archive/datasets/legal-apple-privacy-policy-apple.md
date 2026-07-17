@@ -2,7 +2,7 @@
 title: Legal - Apple Privacy Policy - Apple
 archive_category: datasets
 source_category: ai/rag
-source_url: https://www.apple.com/legal/privacy/en-ww
+source_url: https://www.apple.com/legal/privacy/en-ww/
 resource_id: blog:legal-apple-privacy-policy-apple
 local_vault_path: ai/rag/legal-apple-privacy-policy-apple.md
 quality_score: 70
@@ -37,8 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Definition & Scope of Personal Data**: Apple defines personal data as any information relating to an identified/identifiable individual (directly or linkable via identifiers like device serial numbers), excluding aggregated data; this applies globally regardless of user location.
-- **Data Collection & Legal Basis**: Apple collects data (account, device, payment, health, location, etc.) only when necessary, relying on user consent, contractual necessity, legitimate interests, or legal obligat
+- **Definition & Scope of Personal Data**: Apple defines personal data broadly as any information relating to an identified or identifiable individual, including device identifiers (e.g., serial numbers) and aggregated data as non-personal. The policy applies globally to all interactions with Apple, its affiliates, and third-party services accessed via Apple platforms, excluding third-party data handling practices.
+
+- **Data Collection & Sources**: Apple collects diverse personal data types (e.g
 
 ## Use Cases
 
@@ -48,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.apple.com/legal/privacy/en-ww
+Original source URL: https://www.apple.com/legal/privacy/en-ww/
 
 ## Local Vault File
 

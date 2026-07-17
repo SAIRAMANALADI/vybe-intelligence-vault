@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-15T01:15:57.193474+05:30'
+collected_at: '2026-07-17T14:02:53.964173+05:30'
 published_at: '2026-07-07T14:48:17Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
+- workflows
 stars: 264
 language: Python
 status: active
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-15T01:15:57.193474+05:30'
-last_seen: '2026-07-15T01:15:57.193474+05:30'
-last_checked: '2026-07-15T01:15:57.193474+05:30'
+first_seen: '2026-07-17T14:02:53.964173+05:30'
+last_seen: '2026-07-17T14:02:53.964173+05:30'
+last_checked: '2026-07-17T14:02:53.964173+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Demonstrates best practices for building a Retrieval-Augmented Generation (RAG) system optimized for Vietnamese language processing, including text preprocessing, embedding generation, and retrieval mechanisms.
+- **Vietnamese RAG Implementation**: Repository demonstrates best practices for Retrieval-Augmented Generation (RAG) specifically optimized for Vietnamese language processing, including text preprocessing, embedding, and retrieval pipelines.
 
-- **Modular Python Architecture**: Utilizes a structured Python backend with components for document ingestion, vector storage (e.g., FAISS or Weaviate), and LLM integration (e.g., ViT5, PhoBERT) for Vietnamese-specific tasks.
+- **Python-Based Pipeline**: Utilizes Python with key libraries (e.g., `sentence-transformers`, `FAISS`, `FastAPI`) for embedding generation, vector search, and serving RAG models via a REST API.
 
-- **Evaluation & Optimization**: Includes benchmarking scripts for assessing retrieval accuracy and response quality, with support for Vietnamese-specific metrics (e.g., F1-score, BLEU for context relevance).
+- **Modular Architecture**: Implements a modular design with components for document ingestion, vector storage (FAISS), retrieval, and generation, enabling scalable and customizable RAG workflows for Vietnamese text.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: bangoc123
 - Stars: 264
-- Forks: 95
+- Forks: 96
 - Language: Python
 - Topics: None
 - Last Updated: 2026-07-07T14:48:17Z

@@ -11,11 +11,11 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
-- [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
-- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) (workflow - ESSENTIAL Tier)
 - [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
-- [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) (benchmark - ESSENTIAL Tier)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (framework - ESSENTIAL Tier)
+- [malonge/RaGOO](https://github.com/malonge/RaGOO) (workflow - ESSENTIAL Tier)
+- [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (template - ESSENTIAL Tier)
+- [cli/docs/install_linux.md at trunk · cli/cli · GitHub](https://github.com/cli/cli/blob/trunk/docs/install_linux.md#debian) (tutorial - ESSENTIAL Tier)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,9 +23,9 @@ https://github.com/n8n-io/n8n (n8n)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
-- [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
-- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)
 - [langgenius/dify](https://github.com/langgenius/dify)
+- [malonge/RaGOO](https://github.com/malonge/RaGOO)
+- [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-07-15 01:21 IST*
+*Last updated: 2026-07-17 14:19 IST*

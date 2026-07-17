@@ -8,11 +8,10 @@ local_vault_path: ai/rag/arxiv-replicate-replicate.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 tags:
 - rag
-- reddit
 - web-crawled
 - youtube
 selection_reason:
@@ -26,16 +25,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **p-video-avatar**: Fastest and most cost-effective avatar/lipsync video model, achieving 91.3K runs on Replicate.
-- **grok-imagine-video**: xAI’s video generation model, leveraging Grok, with 1.3M runs.
-- **flux-2-max**: Highest-fidelity image model from Black Forest Labs, with 3.6M runs.
+- **xAI Grok-Imagine-Video**: Generates videos using xAI's proprietary diffusion-based model, optimized for high-quality video synthesis from text prompts; 1.3M+ community runs indicate strong adoption.
+
+- **Black Forest Labs Flux-2-Max**: Highest-fidelity image generation model from Black Forest Labs, leveraging advanced transformer architectures for photorealistic outputs; 3.7M+ runs demonstrate scalability.
+
+- **Alibaba HappyHorse-1.0**: Text-to-video and image-to-video model supporting resol
 
 ## Use Cases
 

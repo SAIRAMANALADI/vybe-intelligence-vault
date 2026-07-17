@@ -30,8 +30,9 @@ selection_reason:
 
 ## Summary
 
-* JavaScript-based template for autonomous agent development.
-* Serves as a boilerplate for spawning custom
+- **Purpose**: Repository forked to deploy autonomous agent instances via a JavaScript-based template.
+- **Metadata**: 2 stars, 18 forks, last updated 2026-04-24T07:15:56Z.
+- **Tech Stack**: JavaScript-only implementation with no additional topics or dependencies.
 
 ## Use Cases
 

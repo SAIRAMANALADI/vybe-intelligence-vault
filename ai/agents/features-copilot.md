@@ -3,24 +3,23 @@ title: GitHub Copilot CLI · GitHub
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
-published_at: '2026-07-14T19:51:37.458603+05:30'
-collected_at: '2026-07-14T19:51:37.458618+05:30'
+source_url: https://github.com/features/copilot/cli
+published_at: '2026-07-17T14:08:26.160793+05:30'
+collected_at: '2026-07-17T14:08:26.160801+05:30'
 tags:
 - agents
 - anthropic
 - frontend_ui
 - hackernews
 - openai
-- scripts
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-07-14T19:51:37.458618+05:30'
-last_seen: '2026-07-14T19:51:37.458618+05:30'
-last_checked: '2026-07-14T19:51:37.458618+05:30'
+first_seen: '2026-07-17T14:08:26.160801+05:30'
+last_seen: '2026-07-17T14:08:26.160801+05:30'
+last_checked: '2026-07-17T14:08:26.160801+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent orchestration**: Copilot CLI enables parallelized subagent execution via `/fleet`, allowing concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, while maintaining session persistence via `/resume` for long-running workflows.
+- **Multi-Agent Workflows**: GitHub Copilot CLI supports parallelized subagents via `/fleet`, enabling concurrent task execution across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, and multi-step autonomous workflows from `/plan` to merged pull requests.
 
-- **GitHub-native MCP integration**: Built on GitHub’s Model Context Protocol (MCP), the CLI interacts directly with issues, PRs, branches, and labels, inheriting organizational policies (e.g., branch protections, Copilot Business/Enterprise settings) without additional setup.
+- **GitHub-Native Integration**: Built on GitHub’s native Model Context Protocol (MCP), Copilot CLI interacts directly with issues, branches, and pull requests, inherits organization policies (e.g., branch protections), and supports `/remote` execution across devices while maintaining session persistence.
 
-- **Autonomous workflow automation**: Supports `/plan` to `/IDE` transitions, `/delegate` for PR creation, and `/remote` cross-device monitoring, with explicit user approval required for all file modifications and command executions, ensuring security and governance compliance.
+- **Customizable & Extensible**: Supports AGENTS.md for defining custom agent behaviors, MCP server integrations for tool access, and the Copilot SDK (`npm install -g @github/copilot`) for embedding agentic logic in applications, with explicit user approval required for all file modifications and commands.
 
 ## Why It Matters
 
@@ -42,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-14T19:51:37.458603+05:30
+- Published: 2026-07-17T14:08:26.160793+05:30
 
 ## Related Tags
 
@@ -51,11 +50,10 @@ General public resource representing technology updates, guides, or tutorials.
 - frontend_ui
 - hackernews
 - openai
-- scripts
 - web-crawled
 - workflows
 - youtube
 
 ## Source
 
-Original source: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
+Original source: https://github.com/features/copilot/cli

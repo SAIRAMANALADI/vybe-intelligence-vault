@@ -4,18 +4,18 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/playlist?list=PLfaIDFEXuae3UwB1QGEjsRAr8BzCQss7s
-published_at: '2026-07-14T13:05:12.020431+05:30'
-collected_at: '2026-07-14T13:05:12.020446+05:30'
+published_at: '2026-07-17T14:10:13.905206+05:30'
+collected_at: '2026-07-17T14:10:13.905218+05:30'
 tags:
 - agents
-- hackernews
+- scripts
 - web-crawled
 - youtube
 status: active
 resource_id: blog:max-agency-a-podcast-on-building-agents-youtube
-first_seen: '2026-07-14T13:05:12.020446+05:30'
-last_seen: '2026-07-14T13:05:12.020446+05:30'
-last_checked: '2026-07-14T13:05:12.020446+05:30'
+first_seen: '2026-07-17T14:10:13.905218+05:30'
+last_seen: '2026-07-17T14:10:13.905218+05:30'
+last_checked: '2026-07-17T14:10:13.905218+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, monetization (via YouTube Partners/Advertisers), and developer APIs (YouTube Data/Player APIs) for third-party integrations.
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos with monetization options for creators via ads and subscriptions.
 
-- **Content & Policy Framework**: Operates under strict [Terms of Service](https://www.youtube.com/t/terms), [Privacy Policy](https://www.youtube.com/t/privacy), and [Community Guidelines](https://www.youtube.com/about/policies/), enforcing copyright compliance (DMCA) and safety policies for creators/advertisers.
+- **Developer & API Access**: Provides [YouTube Data API](https://developers.google.com/youtube) for programmatic access to video metadata, uploads, and analytics, supporting third-party integrations and automation.
 
-- **Technical & Business Infrastructure**: Provides [YouTube for Developers](https://developers.google.com/youtube) for API access, [NFL Sunday Ticket](https://tv.youtube.com/learn/nflsundayticket) for live sports streaming, and experimental features via [YouTube Labs](https://www.youtube.com/new).
+- **Policy & Compliance**: Enforces [Terms of Service](https://www.youtube.com/t/terms), [Privacy Policy](https://www.youtube.com/t/privacy), and [Content Policies](https://www.youtube.com/about/policies/) to regulate copyright, safety, and community standards.
 
 ## Why It Matters
 
@@ -37,12 +37,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-14T13:05:12.020431+05:30
+- Published: 2026-07-17T14:10:13.905206+05:30
 
 ## Related Tags
 
 - agents
-- hackernews
+- scripts
 - web-crawled
 - youtube
 

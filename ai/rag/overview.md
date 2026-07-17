@@ -3,18 +3,18 @@ title: 🔎 Overview
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://myst-parser.readthedocs.io
-published_at: '2026-06-22T11:32:17.522637+05:30'
-collected_at: '2026-06-22T11:32:17.522648+05:30'
+source_url: https://myst-parser.readthedocs.io/en/latest/
+published_at: '2026-07-17T14:10:19.308859+05:30'
+collected_at: '2026-07-17T14:10:19.308871+05:30'
 tags:
 - hackernews
 - rag
 - web-crawled
 status: active
 resource_id: blog:overview
-first_seen: '2026-06-22T11:32:17.522648+05:30'
-last_seen: '2026-06-22T11:32:17.522648+05:30'
-last_checked: '2026-06-22T11:32:17.522648+05:30'
+first_seen: '2026-07-17T14:10:19.308871+05:30'
+last_seen: '2026-07-17T14:10:19.308871+05:30'
+last_checked: '2026-07-17T14:10:19.308871+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Syntax Extension**: MyST extends CommonMark to support technical authoring features (e.g., tables, footnotes) while maintaining compatibility with Sphinx directives/roles for advanced documentation (e.g., admonitions, figures).
+- **Syntax Extension**: MyST extends CommonMark to support technical features like tables and footnotes, enabling structured authoring in scientific/technical documentation.
 
-- **Configurability**: Supports global and document-level configuration to modify parsing behavior and enable extended syntax features.
+- **Sphinx Integration**: Supports Sphinx roles/directives (e.g., admonitions, figures) and all Sphinx extensions via MyST syntax, enhancing documentation capabilities.
 
-- **Tooling Integration**: Leverages `markdown-it-py` for CommonMark parsing and provides extensions like VS Code syntax highlighting and RST-to-MyST conversion tools.
+- **Configurability**: Parsing behavior and extended syntax features can be configured globally or per-document, leveraging `markdown-it-py` for CommonMark compliance.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:32:17.522637+05:30
+- Published: 2026-07-17T14:10:19.308859+05:30
 
 ## Related Tags
 
@@ -46,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://myst-parser.readthedocs.io
+Original source: https://myst-parser.readthedocs.io/en/latest/

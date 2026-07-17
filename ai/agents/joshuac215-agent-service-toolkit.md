@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/JoshuaC215/agent-service-toolkit
-collected_at: '2026-07-15T01:19:07.262389+05:30'
-published_at: '2026-07-14T16:37:42Z'
+collected_at: '2026-07-17T14:06:04.154002+05:30'
+published_at: '2026-07-17T06:34:06Z'
 tags:
 - agents
 - github-repo
 - python
-- workflows
 stars: 4377
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-08-04T23:13:44Z'
 pushed_at: '2026-07-14T04:50:07Z'
 resource_id: github:joshuac215/agent-service-toolkit
-first_seen: '2026-07-15T01:19:07.262389+05:30'
-last_seen: '2026-07-15T01:19:07.262389+05:30'
-last_checked: '2026-07-15T01:19:07.262389+05:30'
+first_seen: '2026-07-17T14:06:04.154002+05:30'
+last_seen: '2026-07-17T14:06:04.154002+05:30'
+last_checked: '2026-07-17T14:06:04.154002+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **LangGraph-based Agent Framework**: Implements a modular AI agent architecture using LangGraph for stateful, multi-agent workflows with graph-based execution and tool integration.
-
-- **FastAPI + Streamlit Dual Interface**: Exposes RESTful endpoints via FastAPI for backend agent orchestration and provides a real-time UI via Streamlit for interactive agent management and visualization.
-
-- **Prebuilt Tooling & Extensibility**: Includes built-in agent tools (e.g., web search, code execution) with a plugin system for custom tool integration, enabling rapid deployment of scalable agent services.
+*   Orchestrates AI agent services using LangGraph for stateful, cyclical execution graphs.
+*   Provides a FastAPI backend for API exposure and a Streamlit frontend for interactive user interfaces.
+*   Offers a full-stack Python toolkit for deploying and managing AI agent applications.
 
 ## Why It Matters
 
@@ -43,10 +40,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: JoshuaC215
 - Stars: 4377
-- Forks: 736
+- Forks: 739
 - Language: Python
 - Topics: agents, langgraph, streamlit
-- Last Updated: 2026-07-14T16:37:42Z
+- Last Updated: 2026-07-17T06:34:06Z
 - License: MIT
 - Archived: No
 - Created At: 2024-08-04T23:13:44Z

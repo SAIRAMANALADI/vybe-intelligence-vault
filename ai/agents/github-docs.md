@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.github.com/
-published_at: '2026-07-14T13:03:04.356938+05:30'
-collected_at: '2026-07-14T13:03:04.356954+05:30'
+published_at: '2026-07-17T14:08:22.157285+05:30'
+collected_at: '2026-07-17T14:08:22.157299+05:30'
 tags:
 - agents
 - scripts
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-docs
-first_seen: '2026-07-14T13:03:04.356954+05:30'
-last_seen: '2026-07-14T13:03:04.356954+05:30'
-last_checked: '2026-07-14T13:03:04.356954+05:30'
+first_seen: '2026-07-17T14:08:22.157299+05:30'
+last_seen: '2026-07-17T14:08:22.157299+05:30'
+last_checked: '2026-07-17T14:08:22.157299+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Git Integration & Authentication**: GitHub relies on Git for version control and supports SSH for secure remote access, requiring proper setup (`git config`) and key management (`ssh-keygen`).
-
-- **Repository Workflow**: Core operations include creating/managing repositories (`gh repo create`), handling pull requests for collaborative code review (`gh pr`), and enforcing security via secrets scanning (`gh secret scan`).
-
-- **CI/CD & Security**: GitHub Actions enables automated pipelines (`workflow.yml`), while CodeQL (`codeql database create`) and Dependabot (`dependabot.yml`) enforce code quality and dependency security.
+- **GitHub Core Functionality**: GitHub is built on Git, an open-source VCS, enabling local version control; supports secure remote access via SSH for authenticated interactions.
+- **Collaboration & CI/CD**: Facilitates collaborative coding through pull requests, repositories, and GitHub Actions for automated workflows; integrates with Codespaces for cloud-based development.
+- **Security & Extensibility**: Provides tools for securing code (e.g., CodeQL, secrets management) and APIs (REST/GraphQL) for custom integrations; supports enterprise-scale security policies and third-party app development.
 
 ## Why It Matters
 
@@ -38,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-14T13:03:04.356938+05:30
+- Published: 2026-07-17T14:08:22.157285+05:30
 
 ## Related Tags
 

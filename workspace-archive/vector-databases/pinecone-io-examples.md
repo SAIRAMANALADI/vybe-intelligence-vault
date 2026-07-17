@@ -1,32 +1,31 @@
 ---
-title: pinecone-io/examples
+title: examples/learn/generation/better-rag/02b-semantic-chunking.ipynb at main ·
+  pinecone-io/examples · GitHub
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/pinecone-io/examples
+source_url: https://github.com/pinecone-io/examples/blob/master/learn/generation/better-rag/02b-semantic-chunking.ipynb
 resource_id: github:pinecone-io/examples
 local_vault_path: ai/rag/pinecone-io-examples.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- github-repo
 - hackernews
-- jupyter notebook
 - rag
-- workflows
+- web-crawled
 selection_reason:
 - Strong keyword match
 - Active open-source repository
 ---
 
-# pinecone-io/examples
+# examples/learn/generation/better-rag/02b-semantic-chunking.ipynb at main · pinecone-io/examples · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `pinecone-io/examples` provides Jupyter Notebooks for hands-on experimentation with Pinecone vector databases, covering topics like AI, LLM, RAG, semantic search, and vector search.
-- **Technical Scope**: Includes Python-based implementations for vector database operations, retrieval-augmented generation (RAG), and semantic/approximate nearest neighbor (ANN) search workflows.
-- **Metadata**: 3,027 stars, 1,073 forks, last updated July 12, 2026, with primary languages including
+- **Repository**: Pinecone-io/examples is a public GitHub repository with 1.1k forks and 3k stars, containing code examples and resources for Pinecone's vector database and related technologies.
+
+- **File**: `02b-semantic-chunking.ipynb` is a Jupyter Notebook located in the `/learn/generation/better-rag/` directory, focused on semantic chunking techniques for improving RAG (Retrieval-Augmented Generation) pipelines.
+
+- **Content**: The notebook is a 2MB file that demonstrates advanced text segme
 
 ## Use Cases
 
@@ -46,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/pinecone-io/examples
+Original source URL: https://github.com/pinecone-io/examples/blob/master/learn/generation/better-rag/02b-semantic-chunking.ipynb
 
 ## Local Vault File
 

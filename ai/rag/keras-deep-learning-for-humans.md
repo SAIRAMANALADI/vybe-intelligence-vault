@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://keras.io/keras_3/
-published_at: '2026-07-08T14:25:26.488575+05:30'
-collected_at: '2026-07-08T14:25:26.488590+05:30'
+published_at: '2026-07-17T14:09:17.906252+05:30'
+collected_at: '2026-07-17T14:09:17.906263+05:30'
 tags:
 - benchmark
 - dataset
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:keras-deep-learning-for-humans
-first_seen: '2026-07-08T14:25:26.488590+05:30'
-last_seen: '2026-07-08T14:25:26.488590+05:30'
-last_checked: '2026-07-08T14:25:26.488590+05:30'
+first_seen: '2026-07-17T14:09:17.906263+05:30'
+last_seen: '2026-07-17T14:09:17.906263+05:30'
+last_checked: '2026-07-17T14:09:17.906263+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Backend Compatibility**: Keras 3 supports JAX, TensorFlow, PyTorch, and OpenVINO (inference-only), enabling dynamic backend selection for optimal performance without code changes, and seamless interoperability (e.g., PyTorch `Module` ↔ Keras model, TensorFlow `SavedModel` export).
+- **Multi-Backend Compatibility**: Keras 3 enables seamless execution across JAX, TensorFlow, PyTorch, and OpenVINO (inference-only) backends, allowing dynamic backend selection for optimal performance without code changes, while maintaining full API compatibility with Keras 2 for existing models.
 
-- **Unified Cross-Framework API**: Implements the full Keras API (layers, metrics, optimizers, etc.) across backends via `keras.ops` (NumPy-like API + neural ops), allowing stateless custom components (layers/models/metrics) to work identically in JAX/TensorFlow/PyTorch with shared codebases.
+- **Cross-Framework Model & Component Portability**: Keras 3 models and custom components (layers, metrics, optimizers) written with `keras.ops` (NumPy-like API + NN-specific ops) work identically across backends, enabling PyTorch `Module` instantiation, TensorFlow `SavedModel` export, or JAX stateless function usage without modification.
 
-- **Advanced Distribution & Stateless APIs**: Introduces `keras.distribution` for model/data parallelism (initially JAX-only) and stateless methods (`stateless_call`, `stateless_apply`) for JAX functional programming, while maintaining backward compatibility with Keras 2 via limited exceptions.
+- **Advanced Distribution & Stateless APIs**: Introduces a new `keras.distribution` namespace for multi-device model/data parallelism (JAX-first, TensorFlow/PyTorch support pending) and provides stateless variants (`stateless_call`, `stateless_apply`, etc.) for JAX functional programming compatibility.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T14:25:26.488575+05:30
+- Published: 2026-07-17T14:09:17.906252+05:30
 
 ## Related Tags
 

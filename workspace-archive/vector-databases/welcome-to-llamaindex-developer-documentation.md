@@ -6,10 +6,10 @@ source_url: https://docs.llamaindex.ai/en/stable/?utm_source=github&utm_medium=o
 resource_id: blog:welcome-to-llamaindex-developer-documentation
 local_vault_path: ai/rag/welcome-to-llamaindex-developer-documentation.md
 quality_score: 70
-archive_score: 70
+archive_score: 80
 archive_tier: useful
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
 - meta-ai
 - models
@@ -24,16 +24,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 80 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Abstraction**: Simplifies complex systems by hiding lower-level details, enabling focus on high-level functionality.
-- **Modularity**: Divides systems into independent, interchangeable components for easier maintenance and scalability.
-- **Scalability**: Designs systems to handle increased load efficiently, often through horizontal or vertical expansion.
+- **Abstraction**: Simplifying complex systems by modeling classes/objects with essential attributes/methods, hiding implementation details.
+- **Encapsulation**: Bundling data (attributes) and methods (functions) within a class, restricting direct access to some components.
+- **Polymorphism**: Enabling objects of different classes to be treated as objects of a common superclass, facilitating method overriding/interface implementation.
 
 ## Use Cases
 

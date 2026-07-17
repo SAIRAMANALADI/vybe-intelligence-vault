@@ -8,7 +8,7 @@ local_vault_path: ai/agents/ksm26-multi-ai-agent-systems-with-crewai.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: template
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -28,18 +28,16 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: template
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Multi-Agent System Framework**: Demonstrates specialized AI agent teams using the open-source `crewAI` library to automate complex, multi-step business processes (e.g., financial analysis, customer support, event planning) via role-playing and natural language prompting.
+- **Specialized AI Agent Teams**: Demonstrates how to design and organize specialized AI agents using the open-source `crewAI` library to automate complex, multi-step business processes (e.g., financial analysis, customer support, event planning).
 
-- **Workflow Optimization**: Implements Jupyter Notebook-based workflows for task automation, error handling, and custom tool integration, enabling efficient management of complex tasks and business process automation.
-
-- *
+- **Multi-Agent System Integration**: Focuses on role-playing, natural language prompting, and custom tool integration to optimize workflows, manage errors, and enable cooperative agent behavior for tasks like resume tailoring and technical writing.
 
 ## Use Cases
 

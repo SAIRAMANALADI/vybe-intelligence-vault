@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-15T01:16:52.171090+05:30'
+collected_at: '2026-07-17T14:03:49.005339+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-15T01:16:52.171090+05:30'
-last_seen: '2026-07-15T01:16:52.171090+05:30'
-last_checked: '2026-07-15T01:16:52.171090+05:30'
+first_seen: '2026-07-17T14:03:49.005339+05:30'
+last_seen: '2026-07-17T14:03:49.005339+05:30'
+last_checked: '2026-07-17T14:03:49.005339+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling Retrieval-Augmented Generation (RAG) across diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or cell-level), leveraging unified indexing and retrieval mechanisms.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) over heterogeneous corpora spanning diverse modalities (e.g., text, images, tables) and granularities (e.g., documents, paragraphs, entities), addressing unified retrieval challenges across modalities.
 
-- **Modality-Agnostic Retrieval**: Implements a modality-agnostic retriever that dynamically adapts to input types, using modality-specific encoders (e.g., CLIP for images, T5 for text) and a shared retrieval index (e.g., FAISS or Weaviate) for cross-modal similarity search.
+- **ACL 2026 Oral Contribution**: Presents a novel architecture with modality-agnostic retrieval mechanisms and adaptive granularity selection, optimizing retrieval precision and generation quality for mixed-modal inputs.
 
-- **Adaptive Generation with Contextual Fusion**: Proposes an adaptive generation module that fuses retrieved context from multiple modalities/granularities using modality-aware attention and hierarchical fusion, optimizing LLM outputs for tasks requiring heterogeneous data integration.
+- **Open-Source Implementation**: Provides a Python-based reference implementation with modular components for customization, supporting integration with existing LLM pipelines and multimodal encoders (e.g., CLIP, BLIP).
 
 ## Why It Matters
 

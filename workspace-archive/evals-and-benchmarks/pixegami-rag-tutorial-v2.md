@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- dataset
 - github-repo
 - meta-ai
 - models
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates end-to-end RAG pipeline using local language models (e.g., Ollama) for privacy-preserving inference without API dependencies.
-- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma) refresh mechanisms for real-time document ingestion and retrieval.
-- **Testing Framework**: Includes unit/integration tests (e.g., pytest) to validate retrieval quality, LLM response accuracy, and pipeline robustness.
+- **Local LLM Integration**: Demonstrates end-to-end RAG pipeline using local language models (e.g., Ollama) for document retrieval and generation without external API dependencies.
+- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma) refresh mechanisms to handle real-time document additions or modifications.
+- **Testing Framework**: Includes unit and integration tests for RAG components (retriever, LLM, embeddings) with reproducibility via `pytest` and example dat
 
 ## Use Cases
 

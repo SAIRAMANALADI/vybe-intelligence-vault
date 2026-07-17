@@ -8,21 +8,22 @@ local_vault_path: ai/rag/jupyter-ai.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
 - anthropic
-- hackernews
 - mistral
 - models
 - openai
 - rag
 - reddit
+- scripts
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Jupyter AI
@@ -31,16 +32,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: mcp-server
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Jupyter AI** integrates AI agents (e.g., Claude, Codex, GitHub Copilot, Gemini) into JupyterLab for real-time collaboration and computation.
-- **Features** include collaborative chats, frontier agent support, real-time UI updates, default guardrails, and extensible MCP server integration.
-- **Technical stack** leverages Python, R, Julia, Scala, NumPy, Pandas, TensorFlow, PyTorch, and Apache Spark for computational notebooks.
+- **Multi-Language Support**: Integrates with Python, R, Julia, Scala, Haskell, and domain-specific libraries (NumPy, Pandas, Matplotlib, SciPy, Scikit-learn) for data science and machine learning workflows.
+
+- **AI Agent Integration**: Supports frontier AI models (OpenAI, Anthropic, Gemini) and agents (GitHub Copilot, Goose, Kiro, Mistral Vibe, OpenCode) via JupyterLab for real-time collaboration and notebook automation.
+
+- **Real-Time Collaboration & Security**: Enables shared chats with drag-
 
 ## Use Cases
 

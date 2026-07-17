@@ -1,42 +1,44 @@
 ---
-title: AnswerDotAI/RAGatouille
+title: RAGatouille/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
+  at main · AnswerDotAI/RAGat
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://github.com/AnswerDotAI/RAGatouille
+source_url: https://github.com/AnswerDotAI/RAGatouille/blob/main/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
 resource_id: github:answerdotai/ragatouille
 local_vault_path: ai/rag/answerdotai-ragatouille.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
-- github-repo
-- hackernews
-- python
+- models
 - rag
+- web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
-# AnswerDotAI/RAGatouille
+# RAGatouille/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb at main · AnswerDotAI/RAGat
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **ColBERT Integration**: Provides a modular, Python-based framework for integrating late-interaction retrieval methods (ColBERT) into RAG pipelines with minimal overhead.
-- **Training & Inference**: Supports both training and inference workflows for ColBERT models, optimized for modularity and ease of integration.
-- **Research-Backed**: Built on state-of-the-art retrieval techniques, ensuring high performance in document search and ranking tasks.
+- **RAGatouille**: A GitHub repository by AnswerDotAI implementing Retrieval-Augmented Generation (RAG) with ColBERTv2 for efficient, state-of-the-art dense retrieval and late interaction.
+
+- **Fine-tuning without annotations**: Demonstrates a method to fine-tune models using RAGatouille and Instructor embeddings without requiring labeled data, leveraging synthetic or weakly supervised signals.
+
+- **Example notebook**: Includes `03-finetuning_without_annotations_with_instructor_and_RAGatouille.i
 
 ## Use Cases
 
@@ -46,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/AnswerDotAI/RAGatouille
+Original source URL: https://github.com/AnswerDotAI/RAGatouille/blob/main/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
 
 ## Local Vault File
 

@@ -4,10 +4,15 @@ The latest resources synchronized from public feeds, ordered chronologically.
 
 | Date | Resource | Category |
 | :--- | :--- | :--- |
+| 2026-07-13 | [Chaelsoo/Zetsu](https://github.com/Chaelsoo/Zetsu) | `rag-systems/` |
+| 2026-07-06 | [crazyaiml/attribute-knowledge-rag](https://github.com/crazyaiml/attribute-knowledge-rag) | `rag-systems/` |
+| 2026-07-03 | [Speechify-AI/tts-shims](https://github.com/Speechify-AI/tts-shims) | `ai-coding-agents/` |
 | 2026-07-02 | [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | `agent-frameworks/` |
+| 2026-06-26 | [crazyaiml/VAR](https://github.com/crazyaiml/VAR) | `ai-coding-agents/` |
 | 2026-06-25 | [h1papc11/healthcare-ai-agent-vault](https://github.com/h1papc11/healthcare-ai-agent-vault) | `ai-coding-agents/` |
 | 2026-06-11 | [Jhonata-Matias/crewai-hackathon-2026](https://github.com/Jhonata-Matias/crewai-hackathon-2026) | `ai-coding-agents/` |
 | 2026-06-04 | [danielt69/awesome-agent-observability](https://github.com/danielt69/awesome-agent-observability) | `ai-coding-agents/` |
+| 2026-05-31 | [PentesterFlow/agent](https://github.com/PentesterFlow/agent) | `ai-coding-agents/` |
 | 2026-05-18 | [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) | `ai-coding-agents/` |
 | 2026-05-15 | [wxmb01/codex-app-autonomous-runs](https://github.com/wxmb01/codex-app-autonomous-runs) | `ai-coding-agents/` |
 | 2026-05-09 | [akihirookuda95/openai-agents-sdk-tutorial](https://github.com/akihirookuda95/openai-agents-sdk-tutorial) | `ai-coding-agents/` |
@@ -29,8 +34,3 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-04-04 | [ChrisChen667788/Your-First-LLM-Studio](https://github.com/ChrisChen667788/Your-First-LLM-Studio) | `ai-coding-agents/` |
 | 2026-03-31 | [purduehackers/coding-agent-workshop-template](https://github.com/purduehackers/coding-agent-workshop-template) | `ai-coding-agents/` |
 | 2026-03-31 | [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) | `ai-coding-agents/` |
-| 2026-03-31 | [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) | `ai-coding-agents/` |
-| 2026-03-28 | [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) | `ai-coding-agents/` |
-| 2026-03-24 | [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) | `rag-systems/` |
-| 2026-03-24 | [zilliztech/milvus-skill](https://github.com/zilliztech/milvus-skill) | `rag-systems/` |
-| 2026-03-23 | [cisco-ai-defense/defenseclaw](https://github.com/cisco-ai-defense/defenseclaw) | `ai-coding-agents/` |

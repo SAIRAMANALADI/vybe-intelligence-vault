@@ -30,7 +30,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: anisoleai/fineweb-tokenized (Likes: 8, Downloads: 6327108)
+Trending Hugging Face dataset: anisoleai/fineweb-tokenized (Likes: 13, Downloads: 6623690)
 
 ## Use Cases
 

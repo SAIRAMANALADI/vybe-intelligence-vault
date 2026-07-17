@@ -17,7 +17,6 @@ tags:
 - hackernews
 - rag
 - unknown
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a benchmarking framework and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, focusing on real-world applicability.
-- **Components**: Includes evaluation metrics, synthetic data generation tools, and standardized tasks for assessing RAG pipelines in enterprise search and QA scenarios.
-- **Technical Scope**: Covers semantic search, LLM evaluation, and information retrieval, with support for Python-based impleme
+- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise RAG performance.
+- **Key Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based QA tasks tailored for enterprise knowledge bases and internal document retrieval.
+- **Technical Scope**: Supports Python-based evaluation frameworks for RAG pipelines, covering retrieval quality,
 
 ## Use Cases
 

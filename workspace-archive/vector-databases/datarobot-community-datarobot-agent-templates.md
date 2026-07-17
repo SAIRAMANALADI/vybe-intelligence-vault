@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides templates for building agentic workflows integrating DataRobot with frameworks like CrewAI, LangGraph, and LlamaIndex for LLM-driven automation.
-- **Technical Stack**: Python-based templates leveraging DataRobot's API, agentic AI tools (e.g., CrewAI for multi-agent orchestration), and retrieval/augmentation (LlamaIndex).
-- **Use Case**: Enables modular, reusable workflows for automating DataRobot tasks (e.g., model deployment, monitoring) via LLM agents and graph-based pi
+- **Purpose**: Provides reusable templates for building agentic workflows integrating DataRobot with frameworks like CrewAI, LangGraph, and LlamaIndex for LLM-driven automation.
+- **Technical Stack**: Python-based templates leveraging agentic AI tools (e.g., CrewAI for multi-agent orchestration, LangGraph for stateful workflows, LlamaIndex for RAG pipelines).
+- **Integration Focus**: Designed to extend DataRobot’s capabilities with custom agentic workflows, enabling LLM-driven decision-making an
 
 ## Use Cases
 

@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling Retrieval-Augmented Generation (RAG) across diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or cell-level), leveraging unified indexing and retrieval mechanisms.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) over heterogeneous corpora spanning diverse modalities (e.g., text, images, tables) and granularities (e.g., documents, paragraphs, entities), addressing unified retrieval challenges across modalities.
 
-- **Modality-Agnostic Retrieval**: Implements a modality-agnostic retriever that dynamically adapts to input types, using modality-specific encoders (e.g., CLIP for images, T5 for text) and a shared retrieval
+- **ACL 2026 Oral Contribution**: Presents a novel architecture with modality-agnostic retrieval mechanisms and adaptive granularity selection, optimizing retrieval precision and generat
 
 ## Use Cases
 

@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent RAG Framework**: Implements a collaborative system of AI agents using frameworks like CrewAI, AutoGen, and LangChain to process, analyze, and extract insights from documents via Retrieval-Augmented Generation (RAG).
-
-- **Vector Database Integration**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate) for efficient document storage, retrieval, and semantic search in RAG pipelines.
-
-- **Multi-Model & Multi-Tool Compatibility**: Designed for interoperability with var
+- **Multi-Agent Architecture**: Implements a collaborative framework using **CrewAI**, **AutoGen**, and **Swarm** paradigms to distribute document processing tasks among specialized AI agents (e.g., retrieval, analysis, synthesis).
+- **RAG Pipeline Integration**: Supports **LangChain**, **ChromaDB**, **Weaviate**, and **Pinecone** for vector embeddings, retrieval, and contextual augmentation, with compatibility for **GPT-3.5/4/5** and **Anthropic** models.
+- **Deployment & Extensibility**: Inclu
 
 ## Use Cases
 

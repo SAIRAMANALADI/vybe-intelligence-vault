@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-07-14T19:47:08.336432+05:30'
-collected_at: '2026-07-14T19:47:08.336443+05:30'
+published_at: '2026-07-17T14:02:09.300262+05:30'
+collected_at: '2026-07-17T14:02:09.300275+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-07-14T19:47:08.336443+05:30'
-last_seen: '2026-07-14T19:47:08.336443+05:30'
-last_checked: '2026-07-14T19:47:08.336443+05:30'
+first_seen: '2026-07-17T14:02:09.300275+05:30'
+last_seen: '2026-07-17T14:02:09.300275+05:30'
+last_checked: '2026-07-17T14:02:09.300275+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Evolution & Taxonomy**: Defines four generations—Naive (basic retrieval), Advanced (hybrid retrieval, reranking, query rewriting), Modular (routing, looping, tool integration), and Graph RAG (entity-relation graph traversal)—highlighting trade-offs in accuracy, flexibility, and operational complexity.
+- **RAG Evolution & Taxonomy**: Naive RAG (basic retrieval + generation) evolved into Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), addressing limitations in freshness, private knowledge, and hallucination mitigation.
 
-- **Core RAG Mechanics**: Retrieval-Augmented Generation (RAG) augments LLMs with external knowledge via vector search (e.g., `BAAI/bge-m3` embeddings), addressing hallucinations, freshness, and private data limitations while enabling cost-efficient, auditable responses.
+- **Core RAG Components**: Retrieval (vector/BM25 hybrid search), Augmentation (context injection), and Generation (LLM reasoning with citations), with modular frameworks (LangChain/LCEL) enabling swappable pipelines for dynamic routing and tool integration.
 
-- **Implementation Stack**: Standardized components include LangChain/LCEL for orchestration, Chroma/Weaviate for vector storage, BM25/ANN for retrieval, and cross-encoders (e.g., `BAAI/bge-reranker-v2-m3`) for reranking, with modular pipelines enabling hybrid (dense+sparse) and multi-hop reasoning workflows.
+- **Operational Considerations**: Production RAG requires evaluation metrics (e.g., RAGAS), environment setup (vector DBs like Chroma/Qdrant), and trade-offs between modularity (Agentic RAG) and graph complexity (GraphRAG), with cost/performance constraints for real-time deployment.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T19:47:08.336432+05:30
+- Published: 2026-07-17T14:02:09.300262+05:30
 
 ## Related Tags
 

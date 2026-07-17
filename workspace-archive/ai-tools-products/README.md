@@ -9,22 +9,22 @@ Discovering modern AI productivity tools allows developers to streamline their d
 ## Top Matched Resources
 
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) (framework - ESSENTIAL Tier)
+- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------) (framework - ESSENTIAL Tier)
 - [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/) (framework - ESSENTIAL Tier)
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) (framework - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
-- [Introduction to Haystack | Haystack Documentation](https://docs.haystack.deepset.ai/docs/intro?__hstc=17958374.34708e2a09562f4972500c174140941c.1781253286645.1781253286645.1781267739228.2&__hssc=17958374.1.1781267739228&__hsfp=3cf80f0816efe74df689359050c87c57) (framework - USEFUL Tier)
-- [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (benchmark - USEFUL Tier)
-- [Docker Hub Container Image Library | App Containerization](https://hub.docker.com) (framework - USEFUL Tier)
-- [JetBrains AI - The JetBrains Blog](https://blog.jetbrains.com/ai) (framework - USEFUL Tier)
+- [Abstracting Cross-Domain Action Sequences into Interpretable Workflows](https://arxiv.org/abs/2606.14654) (framework - USEFUL Tier)
+- [First, do NOHARM: towards clinically safe large language models](https://arxiv.org/abs/2512.01241) (framework - USEFUL Tier)
+- [Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement](https://arxiv.org/abs/2606.14718) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
+- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------)
 - [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/)
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
 - [langfuse/langfuse](https://github.com/langfuse/langfuse)
-- [ksm26/Multi-AI-Agent-Systems-with-crewAI](https://github.com/ksm26/Multi-AI-Agent-Systems-with-crewAI)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
 
 ## Best Learning Resources
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-07-15 01:21 IST*
+*Last updated: 2026-07-17 14:19 IST*

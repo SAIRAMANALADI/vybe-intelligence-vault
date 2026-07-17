@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/electron/electron
-collected_at: '2026-07-14T19:54:14.379303+05:30'
-published_at: '2026-07-14T12:44:08Z'
+collected_at: '2026-07-17T14:10:16.100507+05:30'
+published_at: '2026-07-17T08:21:32Z'
 tags:
 - c++
 - github-repo
 - hackernews
 - rag
-stars: 121997
+stars: 122057
 language: C++
 status: active
 license: MIT
 archived: false
 created_at: '2013-04-12T01:47:36Z'
-pushed_at: '2026-07-14T13:01:03Z'
+pushed_at: '2026-07-17T06:33:12Z'
 resource_id: github:electron/electron
-first_seen: '2026-07-14T19:54:14.379303+05:30'
-last_seen: '2026-07-14T19:54:14.379303+05:30'
-last_checked: '2026-07-14T19:54:14.379303+05:30'
+first_seen: '2026-07-17T14:10:16.100507+05:30'
+last_seen: '2026-07-17T14:10:16.100507+05:30'
+last_checked: '2026-07-17T14:10:16.100507+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform desktop framework** leveraging Chromium for rendering, Node.js for backend integration, and V8 for JavaScript execution, enabling native-like apps with web technologies (HTML/CSS/JS).
+- **Cross-platform desktop app framework**: Electron enables building native applications for Windows, macOS, and Linux using web technologies (JavaScript, HTML, CSS) with a Chromium-based runtime and Node.js integration.
 
-- **Core architecture** combines a C++ runtime with a multi-process model (BrowserWindow, main/renderer processes) for performance and security isolation.
+- **Core architecture**: Combines V8 JavaScript engine, Chromium's Blink rendering engine, and Node.js APIs to provide a unified runtime for desktop applications.
 
-- **Extensible ecosystem** supports native modules, IPC (Inter-Process Communication), and platform-specific APIs while maintaining compatibility with Node.js and Chromium's evolving features.
+- **Development stack**: Leverages C++ for performance-critical components, integrates with V8 for JS execution, and supports CSS/HTML for UI rendering while maintaining native OS integration.
 
 ## Why It Matters
 
@@ -42,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: electron
-- Stars: 121997
-- Forks: 17301
+- Stars: 122057
+- Forks: 17312
 - Language: C++
 - Topics: c-plus-plus, chrome, css, electron, html, javascript, nodejs, v8, works-with-codespaces
-- Last Updated: 2026-07-14T12:44:08Z
+- Last Updated: 2026-07-17T08:21:32Z
 - License: MIT
 - Archived: No
 - Created At: 2013-04-12T01:47:36Z
-- Pushed At: 2026-07-14T13:01:03Z
+- Pushed At: 2026-07-17T06:33:12Z
 
 ## Possible Use Cases
 

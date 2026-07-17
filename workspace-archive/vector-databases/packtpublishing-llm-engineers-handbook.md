@@ -6,10 +6,10 @@ source_url: https://github.com/PacktPublishing/LLM-Engineers-Handbook
 resource_id: github:packtpublishing/llm-engineers-handbook
 local_vault_path: ai/rag/packtpublishing-llm-engineers-handbook.md
 quality_score: 70
-archive_score: 85
-archive_tier: essential
+archive_score: 75
+archive_tier: useful
 resource_kind: benchmark
-importance: high
+importance: medium
 tags:
 - benchmark
 - github-repo
@@ -27,18 +27,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 85 (essential)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Comprehensive LLM Engineering Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-ready systems.
-
-- **Technical Focus Areas**: Includes fine-tuning LLMs, evaluation methodologies, ML system design, and MLOps integration, with Python-based implementations and AWS deployment strategies.
-
-- **Repository Contents**: Provides hands-on resources for GenAI applications, RAG pipelines, and LLMOps workflows
+- **Comprehensive Guide**: Covers LLM fundamentals, fine-tuning, deployment, and advanced RAG applications on AWS, integrating LLMOps best practices for scalable ML system design.
+- **Technical Focus**: Includes Python-based implementations for LLM evaluation, fine-tuning, and ML system design, with emphasis on AWS deployment and MLOps workflows.
+- **Updated Resource**: Last modified in July 2026, featuring 5,228 stars and 1,252 forks, reflecting active community engagement in GenAI and LLM opti
 
 ## Use Cases
 

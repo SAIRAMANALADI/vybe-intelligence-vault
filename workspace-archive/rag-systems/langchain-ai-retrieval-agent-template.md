@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Template repository for building retrieval agents using LangGraph, a framework for constructing stateful, multi-actor applications with LLMs.
-- **Technical Stack**: Implements LangGraph (Python) for agent orchestration, enabling structured workflows for information retrieval tasks.
-- **Structure**: Provides a modular template for rapid deployment of retrieval agents, leveraging LangChain’s ecosystem for LLM integration and agentic workflows.
+- **Template Purpose**: Provides a structured framework for building retrieval agents using LangGraph, a Python-based library for stateful, multi-actor applications with LLMs.
+
+- **Key Components**: Integrates LangGraph for graph-based workflows, enabling modular agent design with tools like retrieval, memory, and decision-making nodes.
+
+- **Technical Stack**: Python-based, leveraging LangGraph (a LangChain subproject) for agent orchestration, with dependencies optimized for retrieval workflows.
 
 ## Use Cases
 

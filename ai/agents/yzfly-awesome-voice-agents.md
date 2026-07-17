@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzfly/awesome-voice-agents
-collected_at: '2026-07-15T01:17:47.224143+05:30'
-published_at: '2026-07-08T09:14:52Z'
+collected_at: '2026-07-17T14:04:39.064040+05:30'
+published_at: '2026-07-15T07:58:38Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - unknown
-stars: 35
+stars: 36
 language: Unknown
 status: active
 license: CC0-1.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-11-03T02:20:30Z'
 pushed_at: '2026-07-03T22:06:38Z'
 resource_id: github:yzfly/awesome-voice-agents
-first_seen: '2026-07-15T01:17:47.224143+05:30'
-last_seen: '2026-07-15T01:17:47.224143+05:30'
-last_checked: '2026-07-15T01:17:47.224143+05:30'
+first_seen: '2026-07-17T14:04:39.064040+05:30'
+last_seen: '2026-07-17T14:04:39.064040+05:30'
+last_checked: '2026-07-17T14:04:39.064040+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: Comprehensive list of frameworks, tools, and best practices for voice AI agents, covering speech-to-text (STT), text-to-speech (TTS), voice activity detection (VAD), voice cloning, conversion, recognition, and synthesis.
-- **Technical Scope**: Encompasses real-time chat, voice assistant, and agent development, including multi-modal interactions and voice processing pipelines.
-- **Maintenance**: Last updated July 8, 2026, with 35 stars and 18 forks, indicating active community engagement.
+- **Curated list** of voice AI agent frameworks, tools, and best practices for STT, TTS, VAD, voice cloning, conversion, recognition, and synthesis.
+- **Topics covered**: realtime-chat, voice-activity-detection, voice-agents, voice-assistant, and related voice processing technologies.
+- **Last updated**: 2026-07-15, with 36 stars and 18 forks on GitHub.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: yzfly
-- Stars: 35
+- Stars: 36
 - Forks: 18
 - Language: Unknown
 - Topics: agents, realtime-chat, stt, tts, vad, voice-activity-detection, voice-agents, voice-assistant, voice-cloning, voice-conversion, voice-recognition, voice-synthesis
-- Last Updated: 2026-07-08T09:14:52Z
+- Last Updated: 2026-07-15T07:58:38Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2025-11-03T02:20:30Z

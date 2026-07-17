@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:danau5tin/ai-trains-ai
 first_seen: '2026-07-14T19:46:04.744708+05:30'
 last_seen: '2026-07-15T01:14:27.199461+05:30'
 last_checked: '2026-07-15T01:14:27.199461+05:30'
 health_score: 100
 ---
+
 
 # Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)
 

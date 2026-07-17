@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/openai/mle-bench
-collected_at: '2026-07-14T19:49:57.149208+05:30'
-published_at: '2026-07-14T11:24:19Z'
+collected_at: '2026-07-17T14:04:59.086805+05:30'
+published_at: '2026-07-17T03:56:51Z'
 tags:
 - agents
 - benchmark
@@ -14,7 +14,7 @@ tags:
 - openai
 - python
 - workflows
-stars: 1624
+stars: 1636
 language: Python
 status: active
 license: NOASSERTION
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-10-08T17:07:40Z'
 pushed_at: '2026-04-24T17:33:44Z'
 resource_id: github:openai/mle-bench
-first_seen: '2026-07-14T19:49:57.149208+05:30'
-last_seen: '2026-07-14T19:49:57.149208+05:30'
-last_checked: '2026-07-14T19:49:57.149208+05:30'
+first_seen: '2026-07-17T14:04:59.086805+05:30'
+last_seen: '2026-07-17T14:04:59.086805+05:30'
+last_checked: '2026-07-17T14:04:59.086805+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **MLE-bench**: A benchmark suite designed to evaluate AI agents' proficiency in machine learning engineering tasks, including model training, debugging, and deployment workflows.
+- **Benchmark Purpose**: MLE-bench evaluates AI agents' proficiency in machine learning engineering tasks, providing a standardized framework for performance assessment.
 
-- **Technical Scope**: Focuses on end-to-end ML engineering challenges, assessing agents' ability to handle Python-based workflows, tool integration, and problem-solving in real-world scenarios.
+- **Technical Stack**: Implemented in Python, the benchmark includes tasks spanning model training, hyperparameter optimization, debugging, and deployment workflows.
 
-- **Repository Metrics**: 1,624 stars, 257 forks, last updated July 14, 2026, with no explicit topic tags.
+- **Repository Status**: Actively maintained with the last update on July 17, 2026; 1,636 stars and 256 forks indicate community engagement.
 
 ## Why It Matters
 
@@ -45,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: openai
-- Stars: 1624
-- Forks: 257
+- Stars: 1636
+- Forks: 256
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-14T11:24:19Z
+- Last Updated: 2026-07-17T03:56:51Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-10-08T17:07:40Z

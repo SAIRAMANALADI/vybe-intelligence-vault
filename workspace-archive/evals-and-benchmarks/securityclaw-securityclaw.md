@@ -8,7 +8,7 @@ local_vault_path: ai/rag/securityclaw-securityclaw.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - scripts
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # SecurityClaw/SecurityClaw
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent with skill-based architecture for real-time monitoring of OpenSearch/Elasticsearch logs, integrating RAG for behavioral memory and LLM-driven anomaly validation.
-- **RAG & LLM Integration**: Builds contextual behavioral memory via retrieval-augmented generation (RAG) and leverages large language models (LLMs) to validate and prioritize detected anomalies dynamically.
-- **Threat Detection & Automation**: Enables autonomous threat hunting and
+- **Modular SOC Agent**: Implements a skill-based autonomous SOC agent in Python, integrating OpenSearch/Elasticsearch for real-time data monitoring and anomaly detection.
+- **RAG-Based Behavioral Memory**: Constructs Retrieval-Augmented Generation (RAG) memory to contextualize historical and current security events for improved threat validation.
+- **LLM-Powered Validation**: Uses Large Language Models (LLMs) to validate real-time anomalies, enabling adaptive threat detection and automated resp
 
 ## Use Cases
 

@@ -4,16 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mergisi/awesome-openclaw-agents
-collected_at: '2026-07-15T01:17:17.165993+05:30'
-published_at: '2026-07-14T13:42:03Z'
+collected_at: '2026-07-17T14:04:14.041756+05:30'
+published_at: '2026-07-16T16:33:34Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - html
 - scripts
-stars: 3812
+stars: 3822
 language: HTML
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-05T10:51:17Z'
 pushed_at: '2026-05-25T10:21:05Z'
 resource_id: github:mergisi/awesome-openclaw-agents
-first_seen: '2026-07-15T01:17:17.165993+05:30'
-last_seen: '2026-07-15T01:17:17.165993+05:30'
-last_checked: '2026-07-15T01:17:17.165993+05:30'
+first_seen: '2026-07-17T14:04:14.041756+05:30'
+last_seen: '2026-07-17T14:04:14.041756+05:30'
+last_checked: '2026-07-17T14:04:14.041756+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Contents**: 162 production-ready AI agent templates for OpenClaw, implemented via SOUL.md configurations across 19 distinct categories.
-- **Technical Scope**: Supports multi-agent systems, MCP integration, Docker deployment, and no-code configurations with support for LLM frameworks (e.g., Anthropic, Claude) and automation tools (e.g., CrewClaw, Telegram bots).
-- **Community & Contribution**: Open-source repository with 3,812 stars, 620 forks, and a submission mechanism for community-contributed agent templates, last updated on 2026-07-14.
+*   Aggregates 162 production-ready AI agent templates for the OpenClaw framework.
+*   Templates are defined via SOUL.md configurations, categorized across 19 distinct domains.
+*   Supports multi-agent architectures and LLM-driven automation, with Docker implications for deployment.
 
 ## Why It Matters
 
@@ -42,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: mergisi
-- Stars: 3812
-- Forks: 620
+- Stars: 3822
+- Forks: 622
 - Language: HTML
 - Topics: ai-agent-templates, ai-agents, ai-automation, anthropic, automation, awesome, awesome-list, claude, community-agents, crewclaw, docker, llm, mcp, multi-agent, no-code, openclaw, productivity, soul-md, submit-your-agent, telegram-bot
-- Last Updated: 2026-07-14T13:42:03Z
+- Last Updated: 2026-07-16T16:33:34Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-05T10:51:17Z

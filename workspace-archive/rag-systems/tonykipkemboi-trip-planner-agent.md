@@ -13,10 +13,10 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **CrewAI-based multi-agent system** leveraging LLMs (e.g., OpenAI) to autonomously plan vacations via Python, integrating modular agent workflows for itinerary generation.
-- **Open-source repository** (143 stars, 63 forks) with active development (last updated May 2026), supporting extensible agent roles (e.g., researcher, planner, validator).
-- **Dependencies**: CrewAI framework, Python 3.x, LLM APIs (OpenAI-compatible), with modular design for customization of travel constraints (budget, pre
+- **Purpose**: Implements CrewAI agents for automated vacation planning using LLMs (e.g., OpenAI) in Python.
+- **Technical Stack**: Leverages CrewAI framework, OpenAI API, and Python for agent-based trip itinerary generation.
+- **Repository Status**: Actively maintained (last updated May 2026) with 143 stars and 62 forks.
 
 ## Use Cases
 

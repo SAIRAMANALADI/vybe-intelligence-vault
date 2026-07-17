@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform game engine**: Godot supports multiple platforms (Windows, macOS, Linux, BSD, iOS, Android, etc.) with a unified editor and export workflow, utilizing a custom engine architecture optimized for performance and flexibility.
+- **Godot Engine** is an open-source, cross-platform game engine supporting 2D/3D rendering, physics (2D/3D), shaders, scripting (GDScript, C#, C++ via GDExtension), audio, networking, and XR (AR/VR) with a modular architecture.
 
-- **Scripting & extensibility**: Primarily uses GDScript (Python-like, optimized for Godot) but supports C#, C++, and visual scripting; features GDExtension for native module integration and a plugin-based architecture for extensibility.
+- **Core design principles** include minimal core feature set, avoidance of STL/exceptions, and optional ECS/DOD enforcement, prioritizing flexibility and performance optimization.
 
-- **Rendering & ph
+- **Licensing compliance** requires inclusion of third-party licenses in credits, output
 
 ## Use Cases
 

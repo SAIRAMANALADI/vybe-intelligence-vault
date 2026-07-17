@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **TypeScript-based JupyterLab**: A modular, extensible computational environment built with TypeScript, enabling interactive data science and scientific computing workflows.
-- **GitHub Metrics**: Highly active repository with **15,215 stars**, **4,021 forks**, and recent updates as of **2026-06-25**.
-- **Core Features**: Supports Jupyter notebooks, interactive widgets, and integrates with Jupyter’s ecosystem for advanced computational tasks.
+- **JupyterLab**: A next-generation, extensible computational environment for Jupyter, written primarily in TypeScript, enabling interactive data science and scientific computing workflows.
+
+- **Key Features**: Supports modular extensions, integrates with Jupyter kernels, and provides a flexible UI with dockable panels, tabs, and a unified file browser.
+
+- **Ecosystem**: Actively maintained (last updated July 2026) with 15K+ stars and 4K+ forks, fostering a large community for plugins, integrati
 
 ## Use Cases
 

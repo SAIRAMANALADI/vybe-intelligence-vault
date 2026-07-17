@@ -4,17 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://rag.readthedocs.io/
-published_at: '2026-07-10T04:16:17.084643+05:30'
-collected_at: '2026-07-10T04:16:17.084655+05:30'
+published_at: '2026-07-17T14:02:05.874146+05:30'
+collected_at: '2026-07-17T14:02:05.874156+05:30'
 tags:
+- meta-ai
+- mistral
+- models
 - rag
 - web-crawled
-- workflows
 status: active
 resource_id: blog:retrieval-augmented-generation-rag-rag-multi-model
-first_seen: '2026-07-10T04:16:17.084655+05:30'
-last_seen: '2026-07-10T04:16:17.084655+05:30'
-last_checked: '2026-07-10T04:16:17.084655+05:30'
+first_seen: '2026-07-17T14:02:05.874156+05:30'
+last_seen: '2026-07-17T14:02:05.874156+05:30'
+last_checked: '2026-07-17T14:02:05.874156+05:30'
 health_score: 100
 ---
 
@@ -22,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval systems (e.g., document indexing, embeddings) with generative models (e.g., LLMs) to enhance context-aware responses by dynamically fetching relevant data before generation.
+- **RAG Architecture**: Combines retrieval systems (e.g., vector databases) with generative models (e.g., LLMs) to enhance contextual relevance by fetching relevant documents before generating responses.
 
-- **Streamlit Implementation**: Modular Python application with components for PDF processing (`process_pdf.py`), question handling (`question_handler.py`), summarization (`summarizer.py`), and translation (`translator.py`), integrated via chain functions for end-to-end workflows.
+- **Implementation Components**: Includes document processing (`process_pdf.py`), question handling (`question_handler.py`), summarization (`summarizer.py`), and translation (`translator.py`) via modular Python chains.
 
-- **Key Features**: Supports model selection, PDF upload/processing, task execution (QA/summarization/translation), and real-time result display, with backend processing (e.g., `load_and_split_pdfs`, `get_question_answer_chain`) orchestrated through a Streamlit UI.
+- **Streamlit Integration**: Provides an interactive UI for PDF upload, model selection (e.g., Llama2, Mistral), task execution (QA, summarization, translation), and result visualization with backend processing via LangChain/LLMs.
 
 ## Why It Matters
 
@@ -36,13 +38,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-10T04:16:17.084643+05:30
+- Published: 2026-07-17T14:02:05.874146+05:30
 
 ## Related Tags
 
+- meta-ai
+- mistral
+- models
 - rag
 - web-crawled
-- workflows
 
 ## Source
 

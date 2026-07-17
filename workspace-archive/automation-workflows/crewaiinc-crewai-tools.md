@@ -14,6 +14,7 @@ tags:
 - agents
 - github-repo
 - python
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Extends CrewAI agent capabilities via modular Python-based tools for enhanced AI agent functionality.
-- **Key Features**: Provides reusable, customizable tools for AI agents (e.g., search, file I/O, APIs) to streamline workflows.
-- **Integration**: Designed for seamless compatibility with CrewAI agents, supporting rapid deployment and scalability.
+- **Purpose**: Extends CrewAI agent capabilities via modular Python tools, enabling enhanced functionality for AI-driven workflows.
+- **Key Features**: Provides reusable toolkits (e.g., file I/O, web scraping, API integrations) for agent specialization and task automation.
+- **Integration**: Designed for seamless compatibility with CrewAI agents, supporting dynamic tool invocation and custom tool development.
 
 ## Use Cases
 

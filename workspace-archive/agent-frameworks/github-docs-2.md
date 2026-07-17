@@ -1,39 +1,42 @@
 ---
-title: docs/content/copilot/concepts/agents/copilot-cli/research.md at main · github/docs
-  · GitHub
+title: docs/content/index.md at main · github/docs · GitHub
 archive_category: agent-frameworks
 source_category: ai/agents
-source_url: https://github.com/github/docs/blob/main/content/copilot/concepts/agents/copilot-cli/research.md
+source_url: https://github.com/github/docs/blob/main/content/index.md
 resource_id: github:github/docs
 local_vault_path: ai/agents/github-docs-2.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
-- frontend_ui
 - hackernews
 - web-crawled
+- workflows
+- youtube
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
-# docs/content/copilot/concepts/agents/copilot-cli/research.md at main · github/docs · GitHub
+# docs/content/index.md at main · github/docs · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Purpose & Functionality**: The `/research` slash command in {% data variables.product.prodname_copilot_cli_short %} acts as a specialized research agent, autonomously gathering and synthesizing in-depth technical information from codebases, GitHub repositories, and the web, producing comprehensive Markdown reports with citations and summaries.
-- **Output & Sharing**: Reports are saved as Markdown files (stored in session-specific directories) and can be shared via GitHub gists or local file
+- GitHub Help Documentation provides structured technical guides across **FPT, GHES, and GHEC** versions, covering core workflows (Git setup, SSH auth, repo management, PRs) and advanced features (GitHub Copilot CLI, Actions CI/CD, CodeQL security analysis).
+
+- Key documentation categories include **collaborative coding** (Codespaces, Discussions), **security & compliance** (supply chain security, secrets management), and **developer tools** (REST API, GraphQL, Webhooks, GitHub CLI).
+
+- Enterpri
 
 ## Use Cases
 
@@ -43,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/github/docs/blob/main/content/copilot/concepts/agents/copilot-cli/research.md
+Original source URL: https://github.com/github/docs/blob/main/content/index.md
 
 ## Local Vault File
 

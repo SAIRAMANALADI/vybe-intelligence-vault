@@ -40,8 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Dominates RAG frameworks with 700+ integrations, LangGraph for agentic workflows, and modular chains for retrieval/reranking/generation; supports dense/sparse retrieval and vector stores like Pinecone/Weaviate; enhanced observability via LangSmith.
-- **LlamaIndex**: Optimized for advanced indexing and retrieval of multimodal data (text/images/PDFs), featuring sophisticated routers, query engines, and 100+ data source integrations; excels in knowledge-intensive enterprise applica
+- **LangChain**: Dominates RAG with 700+ integrations, LangGraph for agentic workflows, and modular chains for retrieval/reranking/generation; ideal for complex, multi-tool pipelines but has a steep learning curve.
+- **LlamaIndex**: Optimized for production-grade indexing and retrieval, supporting multimodal data and advanced query engines; excels in enterprise-scale knowledge bases with 100+ data source integrations.
+- **Haystack**: Enterprise-ready framework with modular pipelines, dense/spars
 
 ## Use Cases
 

@@ -3,39 +3,40 @@ title: infiniflow/ragflow
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/infiniflow/ragflow
-collected_at: '2026-07-15T01:15:37.165708+05:30'
-published_at: '2026-07-14T19:35:48Z'
+source_url: https://github.com/infiniflow/ragflow?source=post_page
+resource_id: github:infiniflow/ragflow
+-----dba899ae0355---------------------------------------
+collected_at: '2026-07-17T14:06:29.214388+05:30'
+published_at: '2026-07-17T08:30:04Z'
 tags:
 - agents
 - github-repo
 - go
 - rag
 - workflows
-stars: 85038
+stars: 85272
 language: Go
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-12-12T06:13:13Z'
-pushed_at: '2026-07-14T15:30:35Z'
-resource_id: github:infiniflow/ragflow-d7078bd1
-first_seen: '2026-07-15T01:15:37.165708+05:30'
-last_seen: '2026-07-15T01:15:37.165708+05:30'
-last_checked: '2026-07-15T01:15:37.165708+05:30'
+pushed_at: '2026-07-17T08:29:57Z'
+resource_id: github:infiniflow/ragflow
+first_seen: '2026-07-17T14:06:29.214388+05:30'
+last_seen: '2026-07-17T14:06:29.214388+05:30'
+last_checked: '2026-07-17T14:06:29.214388+05:30'
 health_score: 100
 ---
-
 
 # infiniflow/ragflow
 
 ## Summary
 
-- **Hybrid RAG-Engine**: Combines state-of-the-art Retrieval-Augmented Generation (RAG) with Agentic AI to enhance LLM context processing via structured retrieval, reasoning, and tool-use integration.
+- **Hybrid RAG-Agent Architecture**: Combines advanced Retrieval-Augmented Generation (RAG) with agentic workflows to enhance LLM context processing, enabling dynamic interaction between retrieval and reasoning components.
 
-- **Go-Based Architecture**: Implements a high-performance, concurrent backend in Go for scalable document ingestion, indexing, and real-time retrieval with low-latency response.
+- **Multi-Stage Context Engineering**: Implements a layered context engine for knowledge compilation, context management, and retrieval optimization, supporting structured and unstructured data processing.
 
-- **Modular Context Layer**: Supports dynamic context management via pluggable components (e.g., vector search, graph retrieval, agent workflows) to optimize LLM prompt augmentation across diverse data modalities.
+- **Scalable Go-Based Implementation**: Built in Go for high-performance parallel processing, with modular harness engineering for extensibility across agentic search, AI agents, and LLM applications.
 
 ## Why It Matters
 
@@ -44,15 +45,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: infiniflow
-- Stars: 85038
-- Forks: 9921
+- Stars: 85272
+- Forks: 9958
 - Language: Go
-- Topics: agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-management, llm-apps, rag, retrieval-augmented-generation
-- Last Updated: 2026-07-14T19:35:48Z
+- Topics: agent-harness, agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-engineering, context-management, harness-engineering, knowledge-compilation, llm-apps, rag, retrieval-augmented-generation
+- Last Updated: 2026-07-17T08:30:04Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-12T06:13:13Z
-- Pushed At: 2026-07-14T15:30:35Z
+- Pushed At: 2026-07-17T08:29:57Z
 
 ## Possible Use Cases
 
@@ -70,4 +71,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/infiniflow/ragflow
+Original source: https://github.com/infiniflow/ragflow?source=post_page-----dba899ae0355---------------------------------------

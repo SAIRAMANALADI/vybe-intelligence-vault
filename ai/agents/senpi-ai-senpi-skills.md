@@ -4,11 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Senpi-ai/senpi-skills
-collected_at: '2026-07-15T01:18:32.253637+05:30'
-published_at: '2026-07-13T15:32:07Z'
+collected_at: '2026-07-17T14:05:29.152775+05:30'
+published_at: '2026-07-15T17:36:30Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 stars: 106
 language: Python
@@ -16,11 +17,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2026-02-23T19:28:09Z'
-pushed_at: '2026-07-14T02:06:04Z'
+pushed_at: '2026-07-16T23:30:58Z'
 resource_id: github:senpi-ai/senpi-skills
-first_seen: '2026-07-15T01:18:32.253637+05:30'
-last_seen: '2026-07-15T01:18:32.253637+05:30'
-last_checked: '2026-07-15T01:18:32.253637+05:30'
+first_seen: '2026-07-17T14:05:29.152775+05:30'
+last_seen: '2026-07-17T14:05:29.152775+05:30'
+last_checked: '2026-07-17T14:05:29.152775+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Trading Framework**: Open-source Python-based repository providing AI agent skills and 80+ strategy templates for autonomous trading on Hyperliquid, supporting crypto, equities, commodities, and indices.
-
-- **Two-Phase Trailing-Stop Exits**: Implements a domain-specific language (DSL) for dynamic exit strategies, enabling risk management via two-phase trailing-stop mechanisms.
-
-- **Strategy Deployment & Protection**: Enables build, deployment, and protection of trading strategies with built-in safeguards for autonomous execution.
+- **Purpose**: Open-source framework for autonomous trading agents, providing AI-driven strategy templates and execution logic for Hyperliquid across crypto, equities, commodities, and indices.
+- **Key Features**: Implements two-phase trailing-stop (DSL) exits for risk management and strategy protection; supports 80+ pre-built templates for rapid deployment.
+- **Technical Stack**: Python-based implementation with GitHub repository (106 stars, 33 forks) last updated July 15, 2026.
 
 ## Why It Matters
 
@@ -45,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 33
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-13T15:32:07Z
+- Last Updated: 2026-07-15T17:36:30Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-23T19:28:09Z
-- Pushed At: 2026-07-14T02:06:04Z
+- Pushed At: 2026-07-16T23:30:58Z
 
 ## Possible Use Cases
 

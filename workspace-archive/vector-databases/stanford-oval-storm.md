@@ -2,23 +2,22 @@
 title: stanford-oval/storm
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/stanford-oval/storm?source=-----dba899ae0355---------------------------------------
+source_url: https://github.com/stanford-oval/storm?source=post_page-----dba899ae0355---------------------------------------
 resource_id: github:stanford-oval/storm
-local_vault_path: ai/rag/stanford-oval-storm-2.md
+local_vault_path: ai/rag/stanford-oval-storm.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
-- models
 - python
 - rag
-- workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # stanford-oval/storm
@@ -27,15 +26,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **LLM-Powered Knowledge Curation**: Automates research and report generation for any topic using large language models (LLMs) with integrated citation tracking.
-- **Agentic RAG & Deep Research**: Implements retrieval-augmented generation (RAG) with multi-agent orchestration for iterative, in-depth topic exploration and synthesis.
-- **EMNLP/NAACL Framework**: Designed for structured, citation-backed report generation, optimized for NLP research workflows with Python-based implementation.
+- **LLM-Powered Knowledge Curation**: STORM autonomously researches topics by leveraging large language models (LLMs) to generate comprehensive reports with inline citations, enabling deep, agentic retrieval-augmented generation (RAG).
+
+- **Multi-Source Integration**: Implements a retrieval-augmented pipeline to synthesize information from diverse sources, optimizing for factual accuracy and contextual relevance in report generation.
+
+- **Research & Benchmarking Focus**: Designed for advanced kn
 
 ## Use Cases
 
@@ -45,8 +46,8 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/stanford-oval/storm?source=-----dba899ae0355---------------------------------------
+Original source URL: https://github.com/stanford-oval/storm?source=post_page-----dba899ae0355---------------------------------------
 
 ## Local Vault File
 
-Path: [stanford-oval-storm-2.md](../../ai/rag/stanford-oval-storm-2.md)
+Path: [stanford-oval-storm.md](../../ai/rag/stanford-oval-storm.md)

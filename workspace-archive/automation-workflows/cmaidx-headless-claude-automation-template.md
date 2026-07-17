@@ -6,7 +6,7 @@ source_url: https://github.com/cmAIdx/headless-claude-automation-template
 resource_id: github:cmaidx/headless-claude-automation-template
 local_vault_path: ai/agents/cmaidx-headless-claude-automation-template.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: template
 importance: medium
@@ -14,9 +14,9 @@ tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - scripts
 - shell
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Structure**: Provides a reusable GitHub Actions-based framework for autonomous software delivery using headless Claude agents, converting input requirements documents into reviewed pull requests via CI/CD pipelines.
-
-- **Multi-Agent Integration**: Supports multi-agent workflows with tools like `claude-code` and `Linear` for issue tracking, enabling parallelized autonomous coding and PR review processes.
-
-- **Headless Automation**: Implements headless execution of Claude agents in CI
+- **Template Purpose**: Enables autonomous software delivery via headless Claude agents, converting input requirements documents into reviewed pull requests.
+- **Core Components**: Integrates CI/CD pipelines, multi-agent orchestration, and GitHub Actions for automated PR generation and review.
+- **Technical Stack**: Shell-based implementation supporting AI agents, Linear integration, and headless Claude Code execution.
 
 ## Use Cases
 

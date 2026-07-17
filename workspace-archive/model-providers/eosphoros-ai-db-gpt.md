@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) for natural language querying, analysis, and data operations via RAG and agent-based workflows.
+- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) for querying, analysis, and data operations via RAG and agent-based orchestration.
 
-- **Security & Privacy Focus**: Designed for private, on-premises deployment with built-in security measures to ensure data confidentiality while leveraging large language models for sensitive database interactions.
+- **Multi-Model & Private Deployment**: Supports integration with proprietary LLMs (e.g., BGI) and ensures private, secure data processing with no external cloud dependency, emphasizing data sovereignty.
 
-- **Modular & Extensible**: Python-based
+- **Modular Python Architecture**: Extensible Python-based system
 
 ## Use Cases
 

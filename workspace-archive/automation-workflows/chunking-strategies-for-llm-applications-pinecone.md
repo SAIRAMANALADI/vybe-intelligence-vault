@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Chunking Definition & Purpose**: Chunking breaks large text into smaller segments to optimize vector database storage and retrieval performance, balancing meaningful information retention with low-latency LLM applications (e.g., RAG, agentic workflows).
+- **Chunking definition**: Process of breaking large text into smaller segments ("chunks") to optimize relevance in vector databases, balancing meaningful content size with performance and low-latency retrieval for RAG and agentic workflows.
 
-- **Chunking Strategies & Tradeoffs**: Fixed-size chunking (e.g., token-based) is simplest but may ignore document structure; content-aware methods (sentence/paragraph splitting, recursive character-level, or document structure-based) preser
+- **Key considerations for chunking strategy**: Embedding model context windows (e.g., 1024 tokens for `llama-text-embed-v2`), document structure (e.g., paragraphs, headers), query complexity, and application use case (e.g., semantic search vs. agentic work
 
 ## Use Cases
 

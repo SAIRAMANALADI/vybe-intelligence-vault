@@ -8,7 +8,7 @@ local_vault_path: ai/rag/changelog-docs-by-langchain.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -30,16 +30,18 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **`deepagents` v0.7.0a6**: Introduced a new `delete` filesystem tool for recursive directory/file deletion, modified `write_file` to overwrite existing files, enabled middleware instance overriding via `.name` matching, and added filesystem tool allowlisting in `FilesystemMiddleware`.
+- **DeepAgents v0.7.0a6**: Introduced a new `delete` filesystem tool, `write_file` now overwrites existing files, added middleware override support, filesystem tool allowlisting, and structured system prompt configuration via `SystemPromptConfig`.
 
-- **`DeltaChannel` (beta)**: Implemented in `deepagents` and `langgraph` v1.2.0, this channel type stores only incremental deltas per step (e.g., message history) to reduce checkpoint overhead, with optional ful
+- **LangGraph v1.2.0**: Added `DeltaChannel` for incremental checkpoint storage, per-node timeouts/error handlers, graceful shutdown via `RunControl`, and a new v3 event streaming API with typed, per-channel projections.
+
+- **LangChain v1.3.0**: Added
 
 ## Use Cases
 

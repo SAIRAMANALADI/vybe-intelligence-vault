@@ -4,30 +4,30 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 
 | Research / Paper | Vault Folder | Score |
 | :--- | :--- | :--- |
-| [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) | `ai-coding-agents/` | 70 |
-| [Toward Efficient Weakly Supervised Semantic Segmentation Using Only Low-Magnification Histopathological Images](https://arxiv.org/abs/2607.10783) | `ai-coding-agents/` | 70 |
-| [The relationship between reasoning and performance in large language models--o3 (mini) thinks harder, not longer](https://arxiv.org/abs/2502.15631) | `ai-coding-agents/` | 70 |
-| [When Generic Prompt Improvements Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025) | `ai-coding-agents/` | 70 |
-| [ParEVO: Synthesizing Code for Irregular Data: High-Performance Parallelism through Agentic Evolution](https://arxiv.org/abs/2603.02510) | `ai-coding-agents/` | 70 |
-| [ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues](https://arxiv.org/abs/2606.18237) | `ai-coding-agents/` | 70 |
-| [Fair Cognitive Impairment Detection Through Unlearning](https://arxiv.org/abs/2606.18571) | `ai-coding-agents/` | 70 |
-| [ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research](https://arxiv.org/abs/2606.07591) | `ai-coding-agents/` | 70 |
-| [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243) | `ai-coding-agents/` | 70 |
-| ["Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills in the Wild](https://arxiv.org/abs/2602.06547) | `ai-coding-agents/` | 70 |
-| [SCATE: Learning to Supervise Coding Agents for Cost-Effective Test Generation](https://arxiv.org/abs/2607.08983) | `ai-coding-agents/` | 70 |
-| [A Self-Evolving Agentic Framework for Metasurface Inverse Design](https://arxiv.org/abs/2604.01480) | `ai-coding-agents/` | 70 |
-| [Coding-agents can replicate scientific machine learning papers](https://arxiv.org/abs/2607.02134) | `ai-coding-agents/` | 70 |
-| [ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair](https://arxiv.org/abs/2607.01916) | `ai-coding-agents/` | 70 |
-| [Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning](https://arxiv.org/abs/2607.07708) | `ai-coding-agents/` | 70 |
-| [Diagnosing and Mitigating Thinking Collapse in On-Policy Self-Distillation](https://arxiv.org/abs/2607.10805) | `ai-coding-agents/` | 70 |
-| [Harnessing Code Agents for Automatic Software Verification](https://arxiv.org/abs/2607.06341) | `ai-coding-agents/` | 70 |
-| [Specification Grounding Drives Test Effectiveness for LLM Code](https://arxiv.org/abs/2607.06636) | `ai-coding-agents/` | 70 |
-| [LemonHarness Technical Report](https://arxiv.org/abs/2606.24311) | `ai-coding-agents/` | 70 |
-| [Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/abs/2602.11988) | `ai-coding-agents/` | 70 |
-| [Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases](https://arxiv.org/abs/2607.01425) | `ai-coding-agents/` | 70 |
-| [CaresAI at SMM4H-HeaRD 2026: Predicting TNM Staging](https://arxiv.org/abs/2607.03466) | `ai-coding-agents/` | 70 |
-| [SecureCode: A Production-Grade Multi-Turn Dataset for Training Security-Aware Code Generation Models](https://arxiv.org/abs/2512.18542) | `ai-coding-agents/` | 70 |
-| [Prompt-to-Paper: Agentic AI System for Bioinformatics](https://arxiv.org/abs/2607.05456) | `ai-coding-agents/` | 70 |
-| [Toward Generalist Autonomous Research via Hypothesis-Tree Refinement](https://arxiv.org/abs/2606.11926) | `ai-coding-agents/` | 70 |
+| [SCOReD: Student-Aware CoT Optimization for Recommendation Distillation](https://arxiv.org/abs/2607.05734) | `ai-coding-agents/` | 70 |
+| [TriViewBench: Controlled Complexity Scaling for Multi-View Structural Reasoning in MLLMs](https://arxiv.org/abs/2606.26029) | `ai-coding-agents/` | 70 |
+| [Environmental Drivers of Respiratory Disease: A District Level Analysis](https://arxiv.org/abs/2607.04416) | `ai-coding-agents/` | 70 |
+| [Mitigating Early Training Collapse in CTR Models](https://arxiv.org/abs/2607.09696) | `ai-coding-agents/` | 70 |
+| [On the Optimal Reasoning Length for RL-Trained Language Models](https://arxiv.org/abs/2602.09591) | `ai-coding-agents/` | 70 |
+| [HyDRA: Hybrid Dynamic Routing Architecture for Heterogeneous LLM Pools](https://arxiv.org/abs/2605.17106) | `ai-coding-agents/` | 70 |
+| [Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build](https://arxiv.org/abs/2605.21629) | `ai-coding-agents/` | 70 |
+| [A Quantitative Analysis of Multimodal Biomarkers in Alzheimer's Disease](https://arxiv.org/abs/2606.17867) | `ai-coding-agents/` | 70 |
+| [A Temporal Machine Learning-Based Time-to-Event Model for Predicting ALS Progression and Healthcare Utilization](https://arxiv.org/abs/2607.14190) | `ai-coding-agents/` | 70 |
+| [Fingerprint, Not Blueprint: How Positional Schemes Set the Default Spectral Algebra of Attention](https://arxiv.org/abs/2607.06621) | `ai-coding-agents/` | 70 |
+| [SynthDocBench: Controlled Benchmark for Long-Context Visual Document Understanding](https://arxiv.org/abs/2607.10400) | `ai-coding-agents/` | 70 |
+| [The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences](https://arxiv.org/abs/2606.24104) | `ai-coding-agents/` | 70 |
+| [Assessing AI in Introductory Physics Problem Solving](https://arxiv.org/abs/2607.14303) | `ai-coding-agents/` | 70 |
+| [Hierarchical Multi-to-Single-Modal Knowledge Distillation for Disruption Prediction in EAST](https://arxiv.org/abs/2607.04241) | `ai-coding-agents/` | 70 |
+| [Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers](https://arxiv.org/abs/2606.24099) | `ai-coding-agents/` | 70 |
+| [Benchmarking API Drift in LLM-Generated Quantum Code Across Successive SDK Versions](https://arxiv.org/abs/2607.04072) | `ai-coding-agents/` | 70 |
+| [EyeMulator: Improving Code Language Models by Mimicking Human Visual Attention](https://arxiv.org/abs/2508.16771) | `ai-coding-agents/` | 70 |
+| [How Post-Training Shapes Biological Reasoning Models](https://arxiv.org/abs/2606.16517) | `ai-coding-agents/` | 70 |
+| [When Multi-Sensor Fusion Fails to Generalize: Cattle Posture Classification Under Animal-Level and Temporal Distribution Shift](https://arxiv.org/abs/2606.24986) | `ai-coding-agents/` | 70 |
+| [Compete Then Collaborate: Frontier AI Teachers Build a Verifiable Curriculum to Improve a Coding Student Beyond Imitation](https://arxiv.org/abs/2607.08255) | `ai-coding-agents/` | 70 |
+| [EvalStop: Using World Feedback to Detect and Correct Reward Overoptimization in Multi-Tenant RLHF Platforms](https://arxiv.org/abs/2606.04145) | `ai-coding-agents/` | 70 |
+| [You Don't Need to Run Every Eval](https://arxiv.org/abs/2606.24020) | `ai-coding-agents/` | 70 |
+| [Workload-Driven Optimization for On-Device Real-Time Subtitle Translation](https://arxiv.org/abs/2607.09957) | `ai-coding-agents/` | 70 |
+| [TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models](https://arxiv.org/abs/2607.09562) | `ai-coding-agents/` | 70 |
+| [From Overload to Convergence: Supporting Multi-Issue Human-AI Negotiation with Bayesian Visualization](https://arxiv.org/abs/2603.22766) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

@@ -3,13 +3,13 @@ title: yuin/goldmark
 category: ai/resources
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/yuin/goldmark/
-collected_at: '2026-07-14T13:05:11.720532+05:30'
-published_at: '2026-07-14T07:16:45Z'
+source_url: https://github.com/yuin/goldmark?tab=readme-ov-file#typographer-extension
+collected_at: '2026-07-17T14:09:32.712565+05:30'
+published_at: '2026-07-16T17:22:31Z'
 tags:
 - github-repo
 - go
-stars: 4898
+stars: 4906
 language: Go
 status: active
 license: MIT
@@ -17,9 +17,9 @@ archived: false
 created_at: '2019-04-26T11:24:21Z'
 pushed_at: '2026-07-12T07:48:51Z'
 resource_id: github:yuin/goldmark
-first_seen: '2026-07-14T13:05:11.720532+05:30'
-last_seen: '2026-07-14T13:05:11.720532+05:30'
-last_checked: '2026-07-14T13:05:11.720532+05:30'
+first_seen: '2026-07-17T14:09:32.712565+05:30'
+last_seen: '2026-07-17T14:09:32.712565+05:30'
+last_checked: '2026-07-17T14:09:32.712565+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Goldmark is a **CommonMark-compliant** Markdown parser written in **Go**, designed for **extensibility** and **modularity**.
-- **Architecture**: Features a **well-structured** codebase with clear separation of concerns, enabling easy customization and extension.
-- **Compliance & Features**: Fully adheres to **CommonMark** standards while supporting **additional Markdown extensions** for enhanced functionality.
+- **Implementation**: Goldmark is a **CommonMark-compliant** Markdown parser written in **Go**, optimized for extensibility and clean architecture.
+
+- **Features**: Supports **standard CommonMark syntax** while providing a modular design for custom extensions (e.g., typographer, syntax highlighting).
+
+- **Status**: Actively maintained (last updated **2026-07-16**), with **4,906 stars** and **297 forks** on GitHub.
 
 ## Why It Matters
 
@@ -38,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: yuin
-- Stars: 4898
-- Forks: 296
+- Stars: 4906
+- Forks: 297
 - Language: Go
 - Topics: commonmark, go, golang, markdown
-- Last Updated: 2026-07-14T07:16:45Z
+- Last Updated: 2026-07-16T17:22:31Z
 - License: MIT
 - Archived: No
 - Created At: 2019-04-26T11:24:21Z
@@ -64,4 +66,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/yuin/goldmark/
+Original source: https://github.com/yuin/goldmark?tab=readme-ov-file#typographer-extension

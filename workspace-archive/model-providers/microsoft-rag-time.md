@@ -17,7 +17,6 @@ tags:
 - models
 - openai
 - rag
-- reddit
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -36,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **5-week structured curriculum** covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization, HNSW indexing, and Matryoshka representation learning for efficient retrieval and LLM integration.
-
-- **Hands-on implementation** using Azure, OpenAI APIs, and VS Code, with Jupyter Notebooks demonstrating multimodal RAG, responsible AI practices, and optimization strategies for production-grade systems.
-
-- **Focus on scalability and performance
+- **5-week structured curriculum** covering RAG fundamentals, hybrid search (HNSW + keyword), and advanced techniques like binary/scalar quantization and Matryoshka representation learning for efficient retrieval.
+- **Hands-on implementation** with Jupyter Notebooks, integrating Azure OpenAI, multimodal inputs, and responsible AI practices for production-grade RAG pipelines.
+- **Optimized indexing & search** using vector databases (HNSW), hybrid retrieval (vector + keyword), and VS Code tooling
 
 ## Use Cases
 

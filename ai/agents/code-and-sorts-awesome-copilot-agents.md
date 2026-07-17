@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-07-15T01:17:02.203910+05:30'
-published_at: '2026-07-13T21:30:11Z'
+collected_at: '2026-07-17T14:03:59.057540+05:30'
+published_at: '2026-07-16T13:04:15Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - typescript
-stars: 550
+stars: 552
 language: TypeScript
 status: active
 license: CC0-1.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-07-15T01:17:02.203910+05:30'
-last_seen: '2026-07-15T01:17:02.203910+05:30'
-last_checked: '2026-07-15T01:17:02.203910+05:30'
+first_seen: '2026-07-17T14:03:59.057540+05:30'
+last_seen: '2026-07-17T14:03:59.057540+05:30'
+last_checked: '2026-07-17T14:03:59.057540+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) containing a structured collection of GitHub Copilot AI enhancement materials, including instructions, prompts, skills, MCPs (Model Context Protocol), and agent markdown files.
-- **Technical Scope**: Focuses on advanced GitHub Copilot customization via TypeScript-based agent skills, prompt engineering, and MCP integration for VS Code Copilot Chat.
-- **Community Metrics**: 550 stars, 93 forks, last updated July 13, 2026, covering topics like AI agents, custom agents, and prompt engineering.
+- **Curated Resource**: A GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) providing a structured collection of GitHub Copilot instructions, prompts, skills, MCPs (Model Context Protocols), and agent markdown files to optimize AI interactions.
+- **Technical Scope**: Focuses on `TypeScript`-based agent skills, prompt engineering, and custom agent configurations for GitHub Copilot, VSCode Copilot Chat, and AI agent frameworks.
+- **Metadata**: 552 stars, 93 forks, last updated `2026-07-16T13:04:15Z`, covering topics like `agent-skills`, `copilot-instructions`, and `prompt-engineering`.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Code-and-Sorts
-- Stars: 550
+- Stars: 552
 - Forks: 93
 - Language: TypeScript
 - Topics: agent-skills, ai-agents, awesome, awesome-list, copilot-instructions, copilot-prompting, custom-agents, github-copilot, mcp, prompt-engineering, vscode-copilot-chat
-- Last Updated: 2026-07-13T21:30:11Z
+- Last Updated: 2026-07-16T13:04:15Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2025-04-19T17:37:01Z

@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-15T01:15:27.128424+05:30'
+collected_at: '2026-07-17T14:02:19.003605+05:30'
 published_at: '2026-07-13T09:54:01Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -23,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-15T01:15:27.128424+05:30'
-last_seen: '2026-07-15T01:15:27.128424+05:30'
-last_checked: '2026-07-15T01:15:27.128424+05:30'
+first_seen: '2026-07-17T14:02:19.003605+05:30'
+last_seen: '2026-07-17T14:02:19.003605+05:30'
+last_checked: '2026-07-17T14:02:19.003605+05:30'
 health_score: 100
 ---
 
@@ -33,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems using vector search and large language models (LLMs) like GPT-4 Vision.
+- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based tutorials for integrating vector search with LLMs (e.g., GPT-4 Vision) in multimodal AI and Retrieval-Augmented Generation (RAG) pipelines, leveraging LanceDB for efficient vector storage and retrieval.
 
-- **Vector Database Integration**: Demonstrates practical use of **LanceDB** (a vector database) with frameworks such as **LangChain** and **LlamaIndex** for efficient embedding storage, retrieval, and fine-tuning workflows.
+- **Agent & Workflow Examples**: Demonstrates agent-based workflows using frameworks like LangChain and LlamaIndex, combining embeddings, fine-tuning, and OpenAI APIs to build scalable AI systems with vector databases.
 
-- **Agentic & Embedding Workflows**: Includes tutorials on deploying AI agents, fine-tuning embeddings, and leveraging OpenAI’s APIs for multimodal and text-based tasks in production-grade vector search systems.
+- **Technical Stack & Tools**: Focuses on deep-learning models, embeddings, and vector databases (LanceDB) for optimizing AI applications, with examples covering fine-tuning, multimodal processing, and end-to-end RAG implementations.
 
 ## Why It Matters
 

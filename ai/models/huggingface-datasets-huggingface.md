@@ -4,8 +4,8 @@ category: ai/models
 source_type: huggingface_dataset
 source_name: Hugging Face Trending Datasets
 source_url: https://huggingface.co/datasets/huggingface
-published_at: '2026-07-10T07:27:05.000Z'
-collected_at: '2026-07-14T19:46:03.109200+05:30'
+published_at: '2026-07-17T08:04:20.000Z'
+collected_at: '2026-07-17T14:00:34.904637+05:30'
 tags:
 - dataset
 - hf-dataset
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:datasets/huggingface
 first_seen: '2026-06-18T23:35:18.472104+05:30'
-last_seen: '2026-07-14T19:46:03.109200+05:30'
-last_checked: '2026-07-14T19:46:03.109200+05:30'
+last_seen: '2026-07-17T14:00:34.904637+05:30'
+last_checked: '2026-07-17T14:00:34.904637+05:30'
 health_score: 100
 ---
 
@@ -22,7 +22,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face dataset: huggingface/documentation-images (Likes: 164, Downloads: 2751803)
+Trending Hugging Face dataset: huggingface/documentation-images (Likes: 165, Downloads: 2530531)
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Trending Datasets
 - Category: ai/models
-- Published: 2026-07-10T07:27:05.000Z
+- Published: 2026-07-17T08:04:20.000Z
 
 ## Related Tags
 

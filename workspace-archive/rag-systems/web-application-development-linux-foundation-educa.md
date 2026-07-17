@@ -2,17 +2,17 @@
 title: Web & Application Development - Linux Foundation - Education
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://training.linuxfoundation.org/application-development
+source_url: https://training.linuxfoundation.org/application-development/
 resource_id: blog:web-application-development-linux-foundation-educa
 local_vault_path: ai/rag/web-application-development-linux-foundation-educa.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: tutorial
 importance: medium
 tags:
+- agents
 - anthropic
-- creative_dev
 - hackernews
 - openai
 - rag
@@ -32,16 +32,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Certification Portfolio**: Offers 7 certifications for web/app development, including FINOS Certified FDC3 Practitioner (FCFP) and specialized SkillCreds (e.g., Vim, Git, Helm, JSON, Regex) targeting foundational to intermediate competencies in application development workflows.
+- **Certification Catalog**: Offers 7 certifications in web & application development, including FINOS Certified FDC3 Practitioner (FCFP) and skill-based credentials like Vim, Git, Helm, and JSON.
 
-- **Technology-Specific Training**: Provides structured learning paths in web/mobile/cloud application development, emphasizing tooling (e.g., Helm for Kubernetes, Git for SCM) and open data formats (JSON) with begi
+- **SkillCreds**: Provides micro-credentials ($79 each) for foundational skills in version control (Git), container orchestration (Helm), text editing (Vim), and data formats (JSON).
+
+- **Target Audience**: Focuses on practical software development skills for web, mobile, cloud, and desktop applicatio
 
 ## Use Cases
 
@@ -51,7 +53,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://training.linuxfoundation.org/application-development
+Original source URL: https://training.linuxfoundation.org/application-development/
 
 ## Local Vault File
 

@@ -10,23 +10,23 @@ Aesthetic, responsive AI chat interfaces and bento grids enhance user engagement
 
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (template - ESSENTIAL Tier)
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
-- [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine) (template - USEFUL Tier)
-- [jolbol1/nextjs-velite-blog-template](https://github.com/jolbol1/nextjs-velite-blog-template) (template - USEFUL Tier)
-- [ixartz/SaaS-Boilerplate](https://github.com/ixartz/saas-boilerplate) (template - USEFUL Tier)
-- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) (template - USEFUL Tier)
-- [gonzalochale/saas-landing-template](https://github.com/gonzalochale/saas-landing-template) (template - USEFUL Tier)
-- [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace) (template - USEFUL Tier)
+- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) (template - USEFUL Tier)
+- [salimi-my/shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar) (template - USEFUL Tier)
+- [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template) (template - USEFUL Tier)
+- [dan5py/react-vite-shadcn-ui](https://github.com/dan5py/react-vite-shadcn-ui) (template - USEFUL Tier)
+- [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) (template - USEFUL Tier)
+- [magicuidesign/portfolio](https://github.com/magicuidesign/portfolio) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/shadcn-ui/ui (shadcn/ui)
 https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
-- [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine)
-- [jolbol1/nextjs-velite-blog-template](https://github.com/jolbol1/nextjs-velite-blog-template)
-- [ixartz/SaaS-Boilerplate](https://github.com/ixartz/saas-boilerplate)
-- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page)
-- [gonzalochale/saas-landing-template](https://github.com/gonzalochale/saas-landing-template)
+- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte)
+- [salimi-my/shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar)
+- [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template)
+- [dan5py/react-vite-shadcn-ui](https://github.com/dan5py/react-vite-shadcn-ui)
+- [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
 
 ---
 
-*Last updated: 2026-07-15 01:22 IST*
+*Last updated: 2026-07-17 14:19 IST*

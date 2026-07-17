@@ -3,15 +3,16 @@ title: Medium Members Can Listen To Any Medium Story With The Speechify Play But
   | Speechify
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://speechify.com/medium?source=post_page-----f03bf92035c9---------------------------------------
+source_url: https://speechify.com/medium
 resource_id: blog:medium-members-can-listen-to-any-medium-story-with
-local_vault_path: ai/rag/medium-members-can-listen-to-any-medium-story-with-2.md
+local_vault_path: ai/rag/medium-members-can-listen-to-any-medium-story-with.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - producthunt
 - rag
 - web-crawled
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Integration & Accessibility**: Medium’s "Listen" feature, powered by Speechify, enables Medium members to convert any article into audio with synchronized text highlighting, supporting multitasking (e.g., commuting, exercising) and improving information retention via dual-modal consumption.
+- **Integration & Accessibility**: Medium's "Listen" feature, powered by Speechify, enables Medium members to convert any article into audio (via TTS) with synchronized text highlighting, supporting multitasking (e.g., commuting, exercising) and improving retention for users with dyslexia or visual impairments.
 
-- **Customization & Utility**: Users can adjust playback speed (0.5x–4.5x) for productivity or proofreading, with options to switch between narrators; writers leverage this for real-time draft validation
+- **Performance & Customization**: Users can adjust playback speed (0.5x–4.5x) and select from multiple narrators, with reports of users consuming up to 3x more content and writers lever
 
 ## Use Cases
 
@@ -45,8 +46,8 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://speechify.com/medium?source=post_page-----f03bf92035c9---------------------------------------
+Original source URL: https://speechify.com/medium
 
 ## Local Vault File
 
-Path: [medium-members-can-listen-to-any-medium-story-with-2.md](../../ai/rag/medium-members-can-listen-to-any-medium-story-with-2.md)
+Path: [medium-members-can-listen-to-any-medium-story-with.md](../../ai/rag/medium-members-can-listen-to-any-medium-story-with.md)

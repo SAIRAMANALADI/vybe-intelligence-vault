@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.godotengine.org/en/
-published_at: '2026-06-25T20:52:11.299330+05:30'
-collected_at: '2026-06-25T20:52:11.299353+05:30'
+published_at: '2026-07-17T14:10:25.173024+05:30'
+collected_at: '2026-07-17T14:10:25.173041+05:30'
 tags:
 - agents
 - animation
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:godot-docs-4-7-branch-godot-engine-stable-document
-first_seen: '2026-06-25T20:52:11.299353+05:30'
-last_seen: '2026-06-25T20:52:11.299353+05:30'
-last_checked: '2026-06-25T20:52:11.299353+05:30'
+first_seen: '2026-07-17T14:10:25.173041+05:30'
+last_seen: '2026-07-17T14:10:25.173041+05:30'
+last_checked: '2026-07-17T14:10:25.173041+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform game engine**: Godot supports multiple platforms (Windows, macOS, Linux, BSD, iOS, Android, etc.) with a unified editor and export workflow, utilizing a custom engine architecture optimized for performance and flexibility.
+- **Godot Engine** is an open-source, cross-platform game engine supporting 2D/3D rendering, physics (2D/3D), shaders, scripting (GDScript, C#, C++ via GDExtension), audio, networking, and XR (AR/VR) with a modular architecture.
 
-- **Scripting & extensibility**: Primarily uses GDScript (Python-like, optimized for Godot) but supports C#, C++, and visual scripting; features GDExtension for native module integration and a plugin-based architecture for extensibility.
+- **Core design principles** include minimal core feature set, avoidance of STL/exceptions, and optional ECS/DOD enforcement, prioritizing flexibility and performance optimization.
 
-- **Rendering & physics pipelines**: Offers both 2D/3D rendering with options like Forward+, Mobile, and Compatibility renderers; includes Bullet physics for 3D and a custom 2D physics engine, with shader support via a visual shader editor and GLSL/HLSL compatibility.
+- **Licensing compliance** requires inclusion of third-party licenses in credits, output logs, or accompanying files; Godot uses MIT license with strict attribution for derived works.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T20:52:11.299330+05:30
+- Published: 2026-07-17T14:10:25.173024+05:30
 
 ## Related Tags
 

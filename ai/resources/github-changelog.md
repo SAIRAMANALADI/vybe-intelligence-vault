@@ -4,16 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.blog/changelog
-published_at: '2026-07-14T13:04:08.904337+05:30'
-collected_at: '2026-07-14T13:04:08.904352+05:30'
+published_at: '2026-07-17T14:07:24.293007+05:30'
+collected_at: '2026-07-17T14:07:24.293019+05:30'
 tags:
+- dataset
 - web-crawled
 - workflows
 status: active
 resource_id: blog:github-changelog
-first_seen: '2026-07-14T13:04:08.904352+05:30'
-last_seen: '2026-07-14T13:04:08.904352+05:30'
-last_checked: '2026-07-14T13:04:08.904352+05:30'
+first_seen: '2026-07-17T14:07:24.293019+05:30'
+last_seen: '2026-07-17T14:07:24.293019+05:30'
+last_checked: '2026-07-17T14:07:24.293019+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Code Quality License Estimate (Public Preview)**: Introduces a new feature providing real-time license compliance estimates for code repositories, enabling proactive risk assessment for open-source dependencies.
+- **Advanced search for Projects**: GitHub Projects now supports advanced search capabilities, enabling users to filter and query projects using structured queries (e.g., `status:done label:"bug"`), improving discoverability and management of large-scale project data.
 
-- **Account Management Enhancements**: Updates include granular access controls and automated policy enforcement for user and organization-level permissions, improving security and compliance workflows.
+- **Integration with GitHub Issues**: Advanced search extends to GitHub Issues, allowing cross-referenced queries across projects and issues (e.g., `project:"Roadmap" is:issue is:open`), unifying workflows for issue tracking and project planning.
 
-- **Application Security Integration**: New tools for static and dynamic code analysis are now available, with automated vulnerability scanning and remediation guidance integrated into GitHub workflows.
+- **Performance optimizations**: Backend improvements ensure sub-second response times for complex queries, even with large datasets (e.g., 100K+ issues/projects), via optimized indexing and query execution.
 
 ## Why It Matters
 
@@ -35,10 +36,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-14T13:04:08.904337+05:30
+- Published: 2026-07-17T14:07:24.293007+05:30
 
 ## Related Tags
 
+- dataset
 - web-crawled
 - workflows
 

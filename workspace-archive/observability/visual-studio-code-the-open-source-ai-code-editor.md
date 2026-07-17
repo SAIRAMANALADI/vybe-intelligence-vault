@@ -7,7 +7,7 @@ source_url: https://code.visualstudio.com/
 resource_id: blog:visual-studio-code-the-open-source-ai-code-editor
 local_vault_path: ai/agents/visual-studio-code-the-open-source-ai-code-editor.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Component Extraction**: Refactored `MailList.tsx` by extracting individual mail list item rendering into a dedicated `MailListItem` component, reducing complexity and improving maintainability while preserving keyboard navigation and accessibility.
+- **Component Refactoring**: Extracted `MailListItem` into a standalone component with typed props (`email`, `isSelected`, `onOpen`), reducing `MailList.tsx` complexity from 30 to 6 lines while preserving keyboard navigation, selection state, and accessibility features.
 
-- **Batch Processing Optimization**: Implemented a `POST /process/batch` endpoint in Go with parallel file processing (8 concurrent workers), per-request timeout (30s), OpenTelemetry instrumentation, and structured logging, achieving **83% latenc
+- **Batch Processing Optimization**: Implemented `POST /process/batch` endpoint in Go with parallel processing (8 concurrent workers), per-request 30s timeout, OpenTelemetry spans, and structured logging, improving throughput fr
 
 ## Use Cases
 

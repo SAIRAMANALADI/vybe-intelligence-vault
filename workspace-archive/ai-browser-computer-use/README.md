@@ -8,25 +8,25 @@ Computer-use and browser agents transition AI from text engines to active workfl
 
 ## Top Matched Resources
 
-- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
-- [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) (framework - ESSENTIAL Tier)
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) (framework - ESSENTIAL Tier)
+- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) (template - ESSENTIAL Tier)
+- [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/) (framework - ESSENTIAL Tier)
+- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
 - [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) (mcp-server - ESSENTIAL Tier)
-- [secret-mars/loop-starter-kit](https://github.com/secret-mars/loop-starter-kit) (template - ESSENTIAL Tier)
+- [golf-mcp/golf](https://github.com/golf-mcp/golf) (mcp-server - ESSENTIAL Tier)
+- [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) (framework - ESSENTIAL Tier)
+- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (mcp-server - ESSENTIAL Tier)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/microsoft/playwright (Playwright)
 https://github.com/showlab/ComputerUse (Computer Use Examples)
-- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
-- [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework)
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
+- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents)
+- [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/)
+- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)
-- [secret-mars/loop-starter-kit](https://github.com/secret-mars/loop-starter-kit)
+- [golf-mcp/golf](https://github.com/golf-mcp/golf)
+- [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/showlab/ComputerUse (Computer Use Examples)
 
 ---
 
-*Last updated: 2026-07-15 01:21 IST*
+*Last updated: 2026-07-17 14:19 IST*

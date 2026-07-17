@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-07-15T01:16:02.172846+05:30'
-published_at: '2026-07-11T18:06:44Z'
+collected_at: '2026-07-17T14:02:58.993468+05:30'
+published_at: '2026-07-16T22:03:07Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
-stars: 4368
+stars: 4372
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-07-15T01:16:02.172846+05:30'
-last_seen: '2026-07-15T01:16:02.172846+05:30'
-last_checked: '2026-07-15T01:16:02.172846+05:30'
+first_seen: '2026-07-17T14:02:58.993468+05:30'
+last_seen: '2026-07-17T14:02:58.993468+05:30'
+last_checked: '2026-07-17T14:02:58.993468+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Course Structure**: Provides a free, hands-on curriculum for building production-ready LLM and RAG systems, including 12+ sessions with source code and Docker-based environments.
+- **Course Content**: Provides a free, hands-on guide to building an end-to-end production-ready LLM and RAG system using LLMOps best practices, including source code and 12 structured lessons.
 
-- **Technical Stack**: Implements LLMOps best practices using AWS, Pulumi (IaC), Bytewax, Qdrant (vector DB), Superlinked, Qwak (MLOps), and Comet-ML for experiment tracking.
+- **Technical Stack**: Utilizes Python-based tools such as AWS, Bytewax, Comet-ML, Pulumi (IaC), Qdrant (vector DB), Qwak (MLOps), and Superlinked for infrastructure and system design.
 
-- **Key Topics**: Covers ML system design, MLOps, generative AI, and infrastructure-as-code (IaC) for scalable LLM/RAG deployments.
+- **Deployment & Scalability**: Incorporates Docker for containerization, ML system design principles, and infrastructure-as-code (Pulumi) to ensure scalable, production-grade LLM/RAG deployments.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: decodingai-magazine
-- Stars: 4368
-- Forks: 733
+- Stars: 4372
+- Forks: 734
 - Language: Python
 - Topics: aws, bytewax, comet-ml, course, docker, generative-ai, infrastructure-as-code, large-language-models, llmops, machine-learning-engineering, ml-system-design, mlops, pulumi, qdrant, qwak, rag, superlinked
-- Last Updated: 2026-07-11T18:06:44Z
+- Last Updated: 2026-07-16T22:03:07Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-08T09:21:28Z

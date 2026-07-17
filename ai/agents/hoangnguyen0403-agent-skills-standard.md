@@ -4,14 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-07-15T01:17:42.184154+05:30'
-published_at: '2026-07-14T18:26:03Z'
+collected_at: '2026-07-17T14:04:39.101996+05:30'
+published_at: '2026-07-16T19:12:37Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - typescript
-stars: 524
+- workflows
+stars: 527
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -19,9 +21,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-07-15T01:17:42.184154+05:30'
-last_seen: '2026-07-15T01:17:42.184154+05:30'
-last_checked: '2026-07-15T01:17:42.184154+05:30'
+first_seen: '2026-07-17T14:04:39.101996+05:30'
+last_seen: '2026-07-17T14:04:39.101996+05:30'
+last_checked: '2026-07-17T14:04:39.101996+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices for AI agents, covering programming languages (TypeScript, Kotlin, Go, Java) and frameworks (React, Angular, NestJS, Spring Boot, Laravel, Flutter, React Native).
+- **Repository Overview**: A TypeScript-based collection of standardized agent skills and best practices for AI agents across multiple programming languages and frameworks (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot).
 
-- **Key Features**: Provides structured guidelines for AI agents to adhere to coding standards, including Cursor rules, and supports cross-platform development (Android, iOS).
+- **Key Features**: Provides structured guidelines (`cursor-rules`) and coding standards for AI agents to ensure consistency and adherence to best practices in software development workflows.
 
-- **Metadata**: 524 stars, 153 forks, last updated July 14, 2026, with topics spanning agentic AI, best practices, and framework-specific standards.
+- **Scope & Maintenance**: Covers 19+ technologies, last updated July 16, 2026, with 527 stars and 153 forks, indicating active community engagement and continuous updates.
 
 ## Why It Matters
 
@@ -42,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HoangNguyen0403
-- Stars: 524
+- Stars: 527
 - Forks: 153
 - Language: TypeScript
 - Topics: agent-, agentic-ai, android, angular, best-practices, coding-standards, cursor-rules, flutter, golang, ios, kotlin, laravel, nestjs, nextjs, react, react-native, reactjs, spring-boot, typescript
-- Last Updated: 2026-07-14T18:26:03Z
+- Last Updated: 2026-07-16T19:12:37Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-01-15T15:33:38Z

@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
@@ -31,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent LLM Framework**: Implements a financial trading system using multiple LLM-based agents for market analysis, strategy formulation, and execution.
-- **Python-Based Architecture**: Leverages Python for modular agent interactions, with dependencies on libraries like LangChain, Transformers, and financial APIs (e.g., yfinance).
-- **Dynamic Market Adaptation**: Agents autonomously refine strategies via reinforcement learning and real-time data feeds, optimizing for profit/loss metrics.
+- **Framework Overview**: Open-source Python-based multi-agent LLM system (`TauricResearch/TradingAgents`) for financial trading, integrating agent-based modeling with large language models (LLMs) to simulate and execute trading strategies.
+
+- **Key Components**: Supports modular agent architectures (e.g., decision-makers, executors, analyzers) with LLM-driven reasoning for market analysis, risk assessment, and automated trade execution across financial instruments.
+
+- **Technical Stack**: Lever
 
 ## Use Cases
 

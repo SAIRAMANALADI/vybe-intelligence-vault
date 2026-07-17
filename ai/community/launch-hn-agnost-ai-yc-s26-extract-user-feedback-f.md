@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-agnost-ai-yc-s26-extract-user-feedback-f
 first_seen: '2026-07-15T01:14:26.149052+05:30'
 last_seen: '2026-07-15T01:14:26.149052+05:30'
 last_checked: '2026-07-15T01:14:26.149052+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations
 

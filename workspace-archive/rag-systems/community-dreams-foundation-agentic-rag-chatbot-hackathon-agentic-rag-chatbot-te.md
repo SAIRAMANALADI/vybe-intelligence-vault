@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Repository**: Provides a starter template for building an agentic RAG (Retrieval-Augmented Generation) chatbot, designed for hackathon-style development.
-- **Python-Based**: Implements core functionality in Python, leveraging modern AI/ML libraries for RAG pipelines.
-- **GitHub Classroom Integration**: Structured for educational use, with version control and collaboration features enabled via GitHub Classroom.
+- **Repository**: `Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository` (GitHub Classroom template)
+- **Metadata**: 0 stars, 68 forks, Python-based, last updated `2026-02-17T18:07:23Z`
+- **Purpose**: Template repository for an **agentic RAG (Retrieval-Augmented Generation) chatbot** implementation
 
 ## Use Cases
 

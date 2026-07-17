@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/krishnaik06/RAG-Tutorials
-collected_at: '2026-07-15T01:15:22.109889+05:30'
-published_at: '2026-07-14T11:35:21Z'
+collected_at: '2026-07-17T14:02:18.920710+05:30'
+published_at: '2026-07-17T08:22:30Z'
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
-stars: 377
+stars: 384
 language: Jupyter Notebook
 status: active
 license: GPL-3.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-09-03T03:41:25Z'
 pushed_at: '2026-04-03T17:43:05Z'
 resource_id: github:krishnaik06/rag-tutorials
-first_seen: '2026-07-15T01:15:22.109889+05:30'
-last_seen: '2026-07-15T01:15:22.109889+05:30'
-last_checked: '2026-07-15T01:15:22.109889+05:30'
+first_seen: '2026-07-17T14:02:18.920710+05:30'
+last_seen: '2026-07-17T14:02:18.920710+05:30'
+last_checked: '2026-07-17T14:02:18.920710+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `RAG-Tutorials` by `krishnaik06` with 377 stars and 341 forks, primarily containing Jupyter Notebooks.
-- **Technical Focus**: No explicit description or topics provided, suggesting a collection of tutorials likely centered around Retrieval-Augmented Generation (RAG) techniques.
-- **Last Updated**: Repository last updated on **July 14, 2026**, indicating active maintenance or recent development.
+- **Repository Overview**: A Jupyter Notebook-based repository focused on Retrieval-Augmented Generation (RAG) tutorials, containing 384 stars and 342 forks.
+- **Technical Stack**: Primarily utilizes Python-based Jupyter Notebooks for RAG implementation and experimentation.
+- **Last Activity**: Last updated on **July 17, 2026**, indicating recent or ongoing development.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: krishnaik06
-- Stars: 377
-- Forks: 341
+- Stars: 384
+- Forks: 342
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-07-14T11:35:21Z
+- Last Updated: 2026-07-17T08:22:30Z
 - License: GPL-3.0
 - Archived: No
 - Created At: 2025-09-03T03:41:25Z

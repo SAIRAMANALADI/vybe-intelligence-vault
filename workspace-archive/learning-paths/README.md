@@ -9,22 +9,22 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 ## Top Matched Resources
 
 - [Get Started - The Go Programming Language](https://go.dev/learn) (tutorial - USEFUL Tier)
+- [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (framework - USEFUL Tier)
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [Unity Essentials Pathway - Learn Game Development for Beginners | Unity Learn](https://learn.unity.com/pathway/unity-essentials) (tutorial - USEFUL Tier)
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
-- [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (framework - USEFUL Tier)
-- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (framework - USEFUL Tier)
+- [iamshaunjp/framer-motion](https://github.com/iamshaunjp/framer-motion) (tutorial - USEFUL Tier)
 - [github/roadmap](https://github.com/github/roadmap) (tutorial - USEFUL Tier)
 - [Postman Inc. · GitHub](https://github.com/postmanlabs) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
-- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
+- [iamshaunjp/framer-motion](https://github.com/iamshaunjp/framer-motion)
 - [github/roadmap](https://github.com/github/roadmap)
 - [Postman Inc. · GitHub](https://github.com/postmanlabs)
+- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
-- [iamshaunjp/framer-motion](https://github.com/iamshaunjp/framer-motion)
 
 ## Best Learning Resources
 
@@ -40,4 +40,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-07-15 01:22 IST*
+*Last updated: 2026-07-17 14:19 IST*

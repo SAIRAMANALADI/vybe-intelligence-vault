@@ -18,47 +18,37 @@ Generative UI (like Vercel AI SDK) enables applications to dynamically render Re
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 10 resources matched in the intelligence vault.
+Active signals: 8 resources matched in the intelligence vault.
 Recently detected signals:
-- [vercel/ai](../ai/agents/vercel-ai.md) (Source: Unknown Source) - Collected 2026-07-15
-- [vercel-labs/ai-sdk-preview-rag](../ai/rag/vercel-labs-ai-sdk-preview-rag.md) (Source: Unknown Source) - Collected 2026-07-15
-- [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) (Source: Unknown Source) - Collected 2026-07-15
-- [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md) (Source: Unknown Source) - Collected 2026-07-15
+- [vercel/ai](../ai/agents/vercel-ai.md) (Source: Unknown Source) - Collected 2026-07-17
+- [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) (Source: Unknown Source) - Collected 2026-07-17
 - [run-llama/chat-ui](../ai/rag/run-llama-chat-ui.md) (Source: Unknown Source) - Collected 2026-07-14
+- [LlamaIndex Chat UI](../ai/rag/llamaindex-chat-ui.md) (Source: Unknown Source) - Collected 2026-07-14
+- [LangSmith Observability - Docs by LangChain](../ai/rag/langsmith-observability-docs-by-langchain.md) (Source: Unknown Source) - Collected 2026-07-14
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
 
 <!-- GENERATED:BEST_REPOS_START -->
-### 1. [vercel-labs/ai-sdk-preview-rag](../ai/rag/vercel-labs-ai-sdk-preview-rag.md) ([GitHub](https://github.com/vercel-labs/ai-sdk-preview-rag))
+### 1. [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) ([GitHub](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial))
 - Stars: 0
 - Language: Unknown
-- Description: - **RAG Implementation**: Template leverages the Vercel AI SDK to enable retrieval-augmented generation (RAG) workflows in TypeScript, integrating document retrieval with LLM inference for enhanced...
+- Description: - Demonstrates streaming intermediate LlamaIndex RAG events to Vercel AI SDK via Server-Sent Events (SSE) for real-time processing.
 
-### 2. [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) ([GitHub](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial))
+### 2. [vercel/ai](../ai/agents/vercel-ai.md) ([GitHub](https://github.com/vercel/ai))
 - Stars: 0
 - Language: Unknown
-- Description: - **Event Streaming Integration**: Demonstrates how to stream intermediate LlamaIndex RAG events to Vercel AI SDK using Server-Sent Events (SSE) for real-time processing.
+- Description: - **AI SDK**: Open-source TypeScript library by Vercel for building AI-powered apps and agents, supporting models like OpenAI, Anthropic, and Gemini.
 
-### 3. [mkrl/e0](../ai/agents/mkrl-e0.md) ([GitHub](https://github.com/mkrl/e0))
-- Stars: 0
-- Language: Unknown
-- Description: A simple Next.js app template for agentic generation of more apps. Powered by Vercel AI SDK and E2B.
-
-### 4. [run-llama/chat-ui](../ai/rag/run-llama-chat-ui.md) ([GitHub](https://github.com/run-llama/chat-ui))
+### 3. [run-llama/chat-ui](../ai/rag/run-llama-chat-ui.md) ([GitHub](https://github.com/run-llama/chat-ui))
 - Stars: 0
 - Language: Unknown
 - Description: - **TypeScript-based UI Components**: Provides reusable React components for LLM chat interfaces, optimized for Next.js applications.
 
-### 5. [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md) ([GitHub](https://github.com/raganwald/raganwald.github.com))
+### 4. [mkrl/e0](../ai/agents/mkrl-e0.md) ([GitHub](https://github.com/mkrl/e0))
 - Stars: 0
 - Language: Unknown
-- Description: - **Jekyll-based static site generator**: Repository contains the source code for `raganwald.com`, a static website built using Jekyll, a Ruby-based static site generator.
-
-### 6. [vercel/ai](../ai/agents/vercel-ai.md) ([GitHub](https://github.com/vercel/ai))
-- Stars: 0
-- Language: Unknown
-- Description: - **AI SDK**: Open-source TypeScript library (by Vercel) for building AI-powered apps and agents, supporting LLMs (OpenAI, Anthropic, Gemini), React, Next.js, Svelte, and Vue.
+- Description: A simple Next.js app template for agentic generation of more apps. Powered by Vercel AI SDK and E2B.
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -80,4 +70,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-15T01:20:35.021380+05:30.455576+05:30.248579+05:30.290487+05:30.199049+05:30.403348+05:30.278821+05:30.055026+05:30.118030+05:30.682305+05:30.589701+05:30.761107+05:30.971744+05:30.401296+05:30.259812+05:30.664660+05:30.823287+05:30.855501+05:30.718697+05:30.650990+05:30.662181+05:30.412687+05:30.559839+05:30.229074+05:30.357938+05:30.727915+05:30.069958+05:30.066077+05:30.414434+05:30.363515+05:30.877755+05:30.810615+05:30.949333+05:30.426358+05:30.439688+05:30.506295+05:30.846557+05:30.365788+05:30.674019+05:30.493055+05:30.842993+05:30.484872+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-17T14:17:16.550584+05:30.021380+05:30.455576+05:30.248579+05:30.290487+05:30.199049+05:30.403348+05:30.278821+05:30.055026+05:30.118030+05:30.682305+05:30.589701+05:30.761107+05:30.971744+05:30.401296+05:30.259812+05:30.664660+05:30.823287+05:30.855501+05:30.718697+05:30.650990+05:30.662181+05:30.412687+05:30.559839+05:30.229074+05:30.357938+05:30.727915+05:30.069958+05:30.066077+05:30.414434+05:30.363515+05:30.877755+05:30.810615+05:30.949333+05:30.426358+05:30.439688+05:30.506295+05:30.846557+05:30.365788+05:30.674019+05:30.493055+05:30.842993+05:30.484872+05:30.

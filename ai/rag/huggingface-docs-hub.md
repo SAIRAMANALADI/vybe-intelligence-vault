@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-07-14T19:52:24.859395+05:30'
-collected_at: '2026-07-14T19:52:24.859409+05:30'
+published_at: '2026-07-17T14:07:22.249740+05:30'
+collected_at: '2026-07-17T14:07:22.249751+05:30'
 tags:
 - agents
 - creative_dev
@@ -15,14 +15,15 @@ tags:
 - models
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-07-14T19:52:24.859409+05:30'
-last_seen: '2026-07-14T19:52:24.859409+05:30'
-last_checked: '2026-07-14T19:52:24.859409+05:30'
+first_seen: '2026-07-17T14:07:22.249751+05:30'
+last_seen: '2026-07-17T14:07:22.249751+05:30'
+last_checked: '2026-07-17T14:07:22.249751+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting with built-in support for Gradio, Docker, and static HTML/JS apps, with optional GPU acceleration for performance-critical workloads.
+- **Hosting & SDK Support**: Hugging Face Spaces enables ML demo hosting directly on user/organization profiles with built-in support for Gradio, Docker, and static HTML/JavaScript apps, including GPU acceleration options.
 
-- **Integration & Customization**: Supports dependency management, GitHub Actions for CI/CD, and custom domains; allows embedding Spaces in external applications via API endpoints or MCP servers.
+- **Storage & Compute Flexibility**: Supports dynamic disk usage/storage management, GPU upgrades, and ZeroGPU configurations for optimized resource allocation in ML demos.
 
-- **Storage & Compute**: Provides disk usage tracking, ZeroGPU options for cost-efficient inference, and advanced configurations for scaling (e.g., custom hardware, storage buckets with S3 compatibility).
+- **Integration & Automation**: Enables embedding Spaces, GitHub Actions integration for CI/CD, and Docker-based deployment with configurable reference settings and changelog tracking.
 
 ## Why It Matters
 
@@ -44,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T19:52:24.859395+05:30
+- Published: 2026-07-17T14:07:22.249740+05:30
 
 ## Related Tags
 
@@ -56,6 +57,7 @@ General public resource representing technology updates, guides, or tutorials.
 - models
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows

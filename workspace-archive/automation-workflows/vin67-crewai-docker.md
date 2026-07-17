@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Dockerfile template for deploying CrewAI applications, facilitating containerized execution of multi-agent workflows.
-- **Structure**: Includes Python-based setup with dependencies optimized for CrewAI, ensuring isolated runtime environments.
-- **Updates**: Last modified on **2026-03-15**, reflecting recent adjustments for compatibility and performance.
+- **Purpose**: Dockerfile template for deploying CrewAI applications, simplifying containerization of multi-agent AI workflows.
+- **Structure**: Includes base Python image with dependencies for CrewAI, optimized for isolated, reproducible environments.
+- **Usage**: Designed for quick setup, enabling local/remote deployment of CrewAI agents with minimal configuration overhead.
 
 ## Use Cases
 

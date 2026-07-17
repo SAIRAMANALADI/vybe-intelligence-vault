@@ -4,27 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-07-15T01:15:32.125416+05:30'
-published_at: '2026-07-14T19:16:25Z'
+collected_at: '2026-07-17T14:02:23.948896+05:30'
+published_at: '2026-07-17T08:03:51Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
-stars: 1530
+stars: 1539
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-12-19T12:23:15Z'
-pushed_at: '2026-07-10T07:26:30Z'
+pushed_at: '2026-07-16T09:42:07Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-07-15T01:15:32.125416+05:30'
-last_seen: '2026-07-15T01:15:32.125416+05:30'
-last_checked: '2026-07-15T01:15:32.125416+05:30'
+first_seen: '2026-07-17T14:02:23.948896+05:30'
+last_seen: '2026-07-17T14:02:23.948896+05:30'
+last_checked: '2026-07-17T14:02:23.948896+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Full-stack AI agent template** integrating FastAPI (backend) with Next.js (frontend), featuring built-in AI Agents, Retrieval-Augmented Generation (RAG), streaming, authentication, and 20+ pre-configured integrations (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI).
-
-- **Technical stack**: Python (backend), TypeScript (frontend), PostgreSQL (database), Docker (containerization), WebSocket (real-time communication), with Pydantic models for data validation and schema enforcement.
-
-- **Key features**: Pre-built AI agent workflows, modular architecture for rapid deployment, and support for multiple LLM providers (e.g., LangChain, Pydantic-AI), optimized for scalability and extensibility.
+*   Full-stack AI application template integrating FastAPI (Python) for backend services and Next.js (TypeScript/React) for the frontend.
+*   Leverages AI agent frameworks (e.g., CrewAI, LangChain, LangGraph) to implement RAG, streaming, and authentication, with 20+ pre-built integrations.
+*   Utilizes Pydantic for data validation, PostgreSQL for persistence, and Docker for containerized deployment, supporting WebSocket communication.
 
 ## Why It Matters
 
@@ -45,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vstorm-co
-- Stars: 1530
-- Forks: 298
+- Stars: 1539
+- Forks: 299
 - Language: Python
 - Topics: agent-framework, ai-agent-template, ai-agents, crewai, docker, fastapi, full-stack, langchain, langgraph, llm, nextjs, postgresql, pydantic-ai, pydantic-deep, python, rag, react, typescript, vstorm, websocket
-- Last Updated: 2026-07-14T19:16:25Z
+- Last Updated: 2026-07-17T08:03:51Z
 - License: MIT
 - Archived: No
 - Created At: 2025-12-19T12:23:15Z
-- Pushed At: 2026-07-10T07:26:30Z
+- Pushed At: 2026-07-16T09:42:07Z
 
 ## Possible Use Cases
 

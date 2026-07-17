@@ -4,17 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stanford-oval/storm?source=post_page
-resource_id: github:stanford-oval/storm-6cdd3b18
----
---dba899ae0355---------------------------------------
-collected_at: '2026-07-10T04:20:21.065791+05:30'
-published_at: '2026-07-09T22:32:01Z'
+resource_id: github:stanford-oval/storm
+-----dba899ae0355---------------------------------------
+collected_at: '2026-07-17T14:06:29.195102+05:30'
+published_at: '2026-07-17T07:54:59Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - python
 - rag
-stars: 29987
+stars: 30124
 language: Python
 status: active
 license: MIT
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-03-24T16:23:39Z'
 pushed_at: '2025-09-30T18:07:21Z'
 resource_id: github:stanford-oval/storm
-first_seen: '2026-07-10T04:20:21.065791+05:30'
-last_seen: '2026-07-10T04:20:21.065791+05:30'
-last_checked: '2026-07-10T04:20:21.065791+05:30'
+first_seen: '2026-07-17T14:06:29.195102+05:30'
+last_seen: '2026-07-17T14:06:29.195102+05:30'
+last_checked: '2026-07-17T14:06:29.195102+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **LLM-Powered Research & Report Generation**: STORM autonomously researches a given topic using large language models (LLMs) and generates a comprehensive, citation-backed report with minimal human input.
+- **LLM-Powered Knowledge Curation**: STORM autonomously researches topics by leveraging large language models (LLMs) to generate comprehensive reports with inline citations, enabling deep, agentic retrieval-augmented generation (RAG).
 
-- **Agentic RAG & Deep Research Pipeline**: Implements an agentic retrieval-augmented generation (RAG) framework with iterative retrieval, synthesis, and verification to produce high-fidelity, structured reports (EMNLP 2024/NAACL contribution).
+- **Multi-Source Integration**: Implements a retrieval-augmented pipeline to synthesize information from diverse sources, optimizing for factual accuracy and contextual relevance in report generation.
 
-- **Python-Based Modular System**: Open-source framework (29.9K+ stars) with modular components for topic decomposition, evidence retrieval, and report generation, optimized for scalability and reproducibility.
+- **Research & Benchmarking Focus**: Designed for advanced knowledge curation, with applications in deep research tasks, evaluated in academic contexts (EMNLP 2024, NAACL) and implemented in Python.
 
 ## Why It Matters
 
@@ -45,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: stanford-oval
-- Stars: 29987
-- Forks: 2805
+- Stars: 30124
+- Forks: 2820
 - Language: Python
 - Topics: agentic-rag, deep-research, emnlp2024, knowledge-curation, large-language-models, naacl, nlp, report-generation, retrieval-augmented-generation
-- Last Updated: 2026-07-09T22:32:01Z
+- Last Updated: 2026-07-17T07:54:59Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-24T16:23:39Z

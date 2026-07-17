@@ -14,7 +14,9 @@ tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - typescript
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices for AI agents, covering programming languages (TypeScript, Kotlin, Go, Java) and frameworks (React, Angular, NestJS, Spring Boot, Laravel, Flutter, React Native).
+- **Repository Overview**: A TypeScript-based collection of standardized agent skills and best practices for AI agents across multiple programming languages and frameworks (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot).
 
-- **Key Features**: Provides structured guidelines for AI agents to adhere to coding standards, including Cursor rules, and supports cross-platform development (Android, iOS).
+- **Key Features**: Provides structured guidelines (`cursor-rules`) and coding standards for AI agents to ensure consistency and adherence to best practices in software development workflows.
 
-- **Metadata**: 524 stars, 153 forks, last updated July 14, 2026, with
+- **Scope & Maintenance**: Covers 19+ tec
 
 ## Use Cases
 

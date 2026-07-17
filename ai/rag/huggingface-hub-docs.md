@@ -4,20 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/huggingface/hub-docs/blob/main/docs/hub/spaces.md
-published_at: '2026-07-10T04:22:15.071473+05:30'
-collected_at: '2026-07-10T04:22:15.071485+05:30'
+published_at: '2026-07-17T14:08:21.304529+05:30'
+collected_at: '2026-07-17T14:08:21.304541+05:30'
 tags:
 - creative_dev
 - rag
 - reddit
 - scripts
 - web-crawled
-- youtube
 status: active
 resource_id: github:huggingface/hub-docs
-first_seen: '2026-07-10T04:22:15.071485+05:30'
-last_seen: '2026-07-10T04:22:15.071485+05:30'
-last_checked: '2026-07-10T04:22:15.071485+05:30'
+first_seen: '2026-07-17T14:08:21.304541+05:30'
+last_seen: '2026-07-17T14:08:21.304541+05:30'
+last_checked: '2026-07-17T14:08:21.304541+05:30'
 health_score: 100
 ---
 
@@ -25,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting directly on user/organization profiles with support for Gradio SDK, Dockerfiles, and static JavaScript/HTML apps; GPU/accelerated hardware upgrades available.
+- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting directly on user/organization profiles with support for Gradio SDK, Dockerfiles, and static JS/HTML apps, including GPU/accelerated hardware upgrades.
 
-- **Integration & Customization**: Supports dependency management, OpenCV integration, GitHub Actions CI/CD, and embedding; includes dev mode, storage monitoring, and ArXiv submission for research artifacts.
+- **Integration & Customization**: Supports dependency management, OpenCV integration, GitHub Actions for CI/CD, and embedding Spaces; also allows custom Python/Docker configurations and ArXiv submissions.
 
-- **SDK & Configuration**: Provides SDKs for Gradio, Docker, static HTML, and custom Python; includes reference docs, changelog, and contact channels (forum, email, Twitter) for support and collaboration.
+- **Performance & Scalability**: Offers GPU acceleration, disk/storage management, and dev mode for testing; includes reference docs, changelog, and community support via forum/Twitter.
 
 ## Why It Matters
 
@@ -39,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-10T04:22:15.071473+05:30
+- Published: 2026-07-17T14:08:21.304529+05:30
 
 ## Related Tags
 
@@ -48,7 +47,6 @@ General public resource representing technology updates, guides, or tutorials.
 - reddit
 - scripts
 - web-crawled
-- youtube
 
 ## Source
 

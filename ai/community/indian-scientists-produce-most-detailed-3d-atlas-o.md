@@ -13,13 +13,14 @@ collected_at: '2026-07-15T01:14:28.031120+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:indian-scientists-produce-most-detailed-3d-atlas-o
 first_seen: '2026-07-14T19:46:06.459205+05:30'
 last_seen: '2026-07-15T01:14:28.031120+05:30'
 last_checked: '2026-07-15T01:14:28.031120+05:30'
 health_score: 100
 ---
+
 
 # Indian scientists produce most detailed 3D atlas of the human brainstem
 

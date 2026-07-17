@@ -30,9 +30,8 @@ selection_reason:
 
 ## Summary
 
-- **Reporting Process**: Security bugs in Node.js must be reported via [HackerOne](https://hackerone.com/nodejs) with acknowledgment within 5 days and detailed response within 10 days; escalation to `security@lists.openjsf.org` is allowed if no response is received within 6 business days or 14 days post-acknowledgment.
-
-- **Disclosure & Validation**: Validated vulnerabilities undergo multi-version fixes, CVE assignment, and coordinated disclosure (72-hour embargo post-CVE issuance), with public
+- Security bugs in Node.js must be reported via [HackerOne](https://hackerone.com/nodejs) with acknowledgment within 5 days and updates within 10 days; escalation to `security@lists.openjsf.org` is possible if no response is received within 6 business days or 14 days post-acknowledgment.
+- Node.js follows a structured disclosure policy: validated vulnerabilities are fixed across supported versions, assigned a CVE, and disclosed after a 72-hour embargo (adjustable for severity), with advisories p
 
 ## Use Cases
 

@@ -4,15 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lgesuellip/langgraph-whatsapp-agent
-collected_at: '2026-07-15T01:18:57.227740+05:30'
-published_at: '2026-07-13T02:58:56Z'
+collected_at: '2026-07-17T14:05:59.145805+05:30'
+published_at: '2026-07-16T08:38:56Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - workflows
-stars: 234
+stars: 236
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-11T15:05:10Z'
 pushed_at: '2025-06-10T19:14:06Z'
 resource_id: github:lgesuellip/langgraph-whatsapp-agent
-first_seen: '2026-07-15T01:18:57.227740+05:30'
-last_seen: '2026-07-15T01:18:57.227740+05:30'
-last_checked: '2026-07-15T01:18:57.227740+05:30'
+first_seen: '2026-07-17T14:05:59.145805+05:30'
+last_seen: '2026-07-17T14:05:59.145805+05:30'
+last_checked: '2026-07-17T14:05:59.145805+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **WhatsApp Agent Framework**: Template for deploying AI agents on WhatsApp using LangGraph and Twilio, enabling message/image processing and graph-based agent invocation.
-- **Integration & Deployment**: Supports MCP integration and runs on the LangGraph Platform, facilitating custom agent workflows.
-- **Technical Stack**: Python-based repository with 234 stars and 96 forks, last updated on 2026-07-13.
+- **Integration Framework**: Template for deploying AI agents on WhatsApp using **LangGraph** (graph-based workflows) and **Twilio** (WhatsApp API integration), enabling bidirectional message/image processing.
+
+- **MCP & LangGraph Platform Compatibility**: Supports **Model Context Protocol (MCP)** for tool/function calling and runs on the **LangGraph Platform** for scalable agent orchestration.
+
+- **Custom Agent Logic**: Enables definition of **graph-based agent workflows** (e.g., state machines, conditional routing) to handle WhatsApp interactions dynamically.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: lgesuellip
-- Stars: 234
+- Stars: 236
 - Forks: 96
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-13T02:58:56Z
+- Last Updated: 2026-07-16T08:38:56Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-04-11T15:05:10Z

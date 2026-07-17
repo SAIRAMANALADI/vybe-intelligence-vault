@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-*   Python-based `langgraph` template for multi-agent system development.
-*   Provides a foundational structure for orchestrating complex agentic workflows.
-*   Designed to accelerate prototyping of interconnected AI agent systems.
+- **Purpose**: Provides a starter template for constructing multi-agent systems using LangGraph, a framework for orchestrating complex workflows with multiple agents.
+
+- **Key Features**: Implements a modular Python-based architecture for defining agent roles, communication protocols, and task delegation within a graph-based workflow.
+
+- **Dependencies**: Requires Python and LangGraph (a LangChain extension) for agent orchestration, with no additional topics or external integrations specified.
 
 ## Use Cases
 

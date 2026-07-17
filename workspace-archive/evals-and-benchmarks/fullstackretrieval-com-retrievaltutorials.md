@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: GitHub repository [`RetrievalTutorials`](https://github.com/FullStackRetrieval-com/RetrievalTutorials) by `FullStackRetrieval-com` with 237 forks, 1.5k stars, 6 issues, and 2 pull requests.
+- **Repository Overview**: GitHub repository `RetrievalTutorials` by `FullStackRetrieval-com` contains 237 forks and 1.5k stars, focusing on retrieval techniques and tutorials.
 
-- **Tutorial Content**: Jupyter Notebook [`5_Levels_Of_Text_Splitting.ipynb`](https://github.com/FullStackRetrieval-com/RetrievalTutorials/blob/main/tutorials/LevelsOfTextSplitting/5_Levels_Of_Text_Splitting.ipynb) containing 2901 lines (330 KB) focused on hierarchical text splitting techni
+- **Tutorial Content**: Includes a Jupyter Notebook (`5_Levels_Of_Text_Splitting.ipynb`) with 2901 lines (330 KB) in the `LevelsOfTextSplitting` directory, detailing hierarchical text splitting methods.
+
+- **Technical Metadata**: File is raw-accessible via `RetrievalTutorials/raw/refs/heads/main/tutorials/LevelsOfTextSpl
 
 ## Use Cases
 

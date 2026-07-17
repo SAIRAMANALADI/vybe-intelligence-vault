@@ -7,9 +7,9 @@ source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
 local_vault_path: ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md
 quality_score: 70
-archive_score: 74
+archive_score: 76
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -24,7 +24,7 @@ tags:
 - models
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte
@@ -32,17 +32,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 76 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **RAG Evolution & Taxonomy**: Defines four generations—Naive (basic retrieval), Advanced (hybrid retrieval, reranking, query rewriting), Modular (routing, looping, tool integration), and Graph RAG (entity-relation graph traversal)—highlighting trade-offs in accuracy, flexibility, and operational complexity.
+- **RAG Evolution & Taxonomy**: Naive RAG (basic retrieval + generation) evolved into Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), addressing limitations in freshness, private knowledge, and hallucination mitigation.
 
-- **Core RAG Mechanics**: Retrieval-Augmented Generation (RAG) augments LLMs with external knowledge via vector search (e.g., `BAAI/bge-m3` embeddings), addressing hallucinations, freshnes
+- **Core RAG Components**: Retrieval (vector/BM25 hybrid search), Augmentation (context injection), and Generation (LLM reasoning with citations), with modular frameworks (LangChain/LCEL) e
 
 ## Use Cases
 

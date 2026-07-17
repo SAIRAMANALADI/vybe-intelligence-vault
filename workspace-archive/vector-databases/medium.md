@@ -2,15 +2,16 @@
 title: Medium
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://medium.com/blog/all?topic=product&source=collection_home_page----15f753907972-----0-----------------------------------
+source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
 resource_id: blog:medium
-local_vault_path: ai/rag/medium.md
+local_vault_path: ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- agents
 - rag
 - web-crawled
 selection_reason:
@@ -29,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Medium’s sitemap.xml** provides structured indexing of all public URLs, enabling efficient crawler access and SEO optimization via standard XML sitemap protocols.
-
-- **Authentication endpoints** (`/m/signin`) use OAuth2-based redirects for session management, supporting both login (`operation=login`) and registration (`operation=register`) flows with post-authentication redirection.
-
-- **Static resources** (e.g., `/v2/resize:fill:64:64/...`) leverage CDN-backed image transformations with dyn
+*   Users retain content ownership but grant Medium a non-exclusive, royalty-free, worldwide, sublicensable license for operational use, including reproduction, modification, and distribution across its services.
+*   Dispute resolution mandates binding arbitration via JAMS (Streamlined Rules) with a class action waiver, requiring prior informal resolution attempts and providing a 30-day opt-out period; California law governs, with venue in San Francisco.
+*   Services are provided "as is" without
 
 ## Use Cases
 
@@ -43,8 +42,8 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://medium.com/blog/all?topic=product&source=collection_home_page----15f753907972-----0-----------------------------------
+Original source URL: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
 
 ## Local Vault File
 
-Path: [medium.md](../../ai/rag/medium.md)
+Path: [top-10-rag-frameworks-on-github-by-stars-january-2.md](../../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md)

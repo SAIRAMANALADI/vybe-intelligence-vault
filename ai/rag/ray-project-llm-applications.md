@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-07-15T01:16:47.199044+05:30'
+collected_at: '2026-07-17T14:03:39.051790+05:30'
 published_at: '2026-07-11T01:00:06Z'
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -22,9 +23,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-07-15T01:16:47.199044+05:30'
-last_seen: '2026-07-15T01:16:47.199044+05:30'
-last_checked: '2026-07-15T01:16:47.199044+05:30'
+first_seen: '2026-07-17T14:03:39.051790+05:30'
+last_seen: '2026-07-17T14:03:39.051790+05:30'
+last_checked: '2026-07-17T14:03:39.051790+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized retrieval mechanisms.
-
-- **Fine-Tuning & Serving Integration**: Provides Jupyter Notebooks for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve for low-latency inference, with examples for hybrid model serving (open-source + proprietary APIs).
-
-- **Scalable Architecture**: Leverages Ray’s distributed computing to handle large-scale LLM applications, including batch inference, dynamic scaling, and seamless integration with retrieval systems (e.g., vector databases) for end-to-end production deployment.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with modular components for retrieval, vector DB integration (e.g., FAISS), and LLM inference (e.g., Llama2, OpenAI APIs).
+- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) with Anyscale endpoints, leveraging Ray’s distributed training for scalability, and techniques like LoRA for efficient adaptation.
+- **End-to-End Deployment**: Provides templates for deploying RAG applications on Ray Serve, with examples for batch/real-time inference, monitoring, and cost optimization via dynamic scaling and resource allocation.
 
 ## Why It Matters
 

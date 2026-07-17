@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline**: A 5-step process comprising **Load** (ingest documents), **Chunk** (split into retrieval-sized segments), **Embed** (convert to vector embeddings via `text-embedding-3-small`), **Retrieve** (semantic search using ChromaDB with `k=4` top chunks), and **Generate** (LLM inference with `gpt-4o-mini` using retrieved context).
+- **RAG Architecture**: A 5-stage pipeline (load, chunk, embed, retrieve, generate) that augments LLM responses with real-time retrieval from a vector database (e.g., ChromaDB) to ensure factual grounding and eliminate hallucinations.
 
-- **Chunking Strategy**: Uses `RecursiveCharacterTextSplitter` with 512-token chunks and 50-token overlap to balance semantic coherence and retrieval granul
+- **Key Components**: Uses `langchain` for modular document processing, OpenAI embeddings (`text-embedding-3-small`) for semantic vectorization, and recursive text splitting (512-token chunks with 50-token overlap) to balance context retention and retrieval precis
 
 ## Use Cases
 

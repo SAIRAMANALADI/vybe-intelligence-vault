@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/ParseBench
-collected_at: '2026-07-15T01:18:02.258710+05:30'
-published_at: '2026-07-14T14:21:45Z'
+collected_at: '2026-07-17T14:04:59.148377+05:30'
+published_at: '2026-07-16T21:03:27Z'
 tags:
 - agents
 - benchmark
@@ -15,17 +15,17 @@ tags:
 - python
 - rag
 - workflows
-stars: 525
+stars: 527
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-04-10T20:46:33Z'
-pushed_at: '2026-07-13T20:15:56Z'
+pushed_at: '2026-07-15T22:18:26Z'
 resource_id: github:run-llama/parsebench
-first_seen: '2026-07-15T01:18:02.258710+05:30'
-last_seen: '2026-07-15T01:18:02.258710+05:30'
-last_checked: '2026-07-15T01:18:02.258710+05:30'
+first_seen: '2026-07-17T14:04:59.148377+05:30'
+last_seen: '2026-07-17T14:04:59.148377+05:30'
+last_checked: '2026-07-17T14:04:59.148377+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents, covering tasks like PDF parsing, OCR, and table extraction across diverse document types.
-
-- **Multi-Modal Evaluation**: Supports testing of vision-language models (VLMs) and LLMs for structured/unstructured document understanding, including layout analysis and content extraction.
-
-- **Integration-Ready**: Designed for compatibility with LlamaIndex, enabling seamless benchmarking of document parsing pipelines in Python-based AI workflows.
+- **Benchmark Suite**: ParseBench evaluates AI agents on document parsing tasks, including PDF parsing, OCR, and table extraction, across diverse document types.
+- **Multi-Modal Evaluation**: Tests both text-based and vision-language models for document understanding and structured data extraction.
+- **LlamaIndex Integration**: Designed for compatibility with LlamaIndex, enabling benchmarking of document parsing pipelines in AI agent workflows.
 
 ## Why It Matters
 
@@ -46,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: run-llama
-- Stars: 525
-- Forks: 72
+- Stars: 527
+- Forks: 74
 - Language: Python
 - Topics: benchmark, document-ai, document-parsing, evaluation, llamaindex, llm, machine-learning, ocr, pdf-parsing, table-extraction, vision-language-models
-- Last Updated: 2026-07-14T14:21:45Z
+- Last Updated: 2026-07-16T21:03:27Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-04-10T20:46:33Z
-- Pushed At: 2026-07-13T20:15:56Z
+- Pushed At: 2026-07-15T22:18:26Z
 
 ## Possible Use Cases
 

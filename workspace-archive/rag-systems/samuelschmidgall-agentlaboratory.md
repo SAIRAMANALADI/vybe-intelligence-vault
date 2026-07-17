@@ -8,7 +8,7 @@ local_vault_path: ai/rag/samuelschmidgall-agentlaboratory.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # SamuelSchmidgall/AgentLaboratory
@@ -27,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Autonomous Research Workflow**: Agent Laboratory implements an end-to-end autonomous research system designed to assist researchers in executing research ideas without manual intervention.
+- **End-to-end autonomous research workflow**: Agent Laboratory automates the entire research process, from idea conceptualization to implementation, reducing manual intervention by researchers.
 
-- **Python-Based Framework**: The system is built entirely in Python, leveraging modular architecture for extensibility and integration with research tools.
+- **Python-based architecture**: The system is implemented in Python, leveraging modular design for extensibility and integration with research tools/libraries.
 
-- **Open-Source & Actively Maintained**: Hosted on GitHub with 5,749 stars and 802 forks, the project is open-source and last updated in July 2026,
+- **Open-source and actively maintained**: Hosted on GitHub with 5,754 stars and 803 forks, last updated in July 2026, indicating active commu
 
 ## Use Cases
 

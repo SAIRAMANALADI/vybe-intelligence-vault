@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/eosphoros-ai/DB-GPT
-collected_at: '2026-07-15T01:16:32.163133+05:30'
-published_at: '2026-07-14T16:12:39Z'
+collected_at: '2026-07-17T14:03:28.992249+05:30'
+published_at: '2026-07-17T07:26:43Z'
 tags:
 - agents
 - github-repo
@@ -14,17 +14,17 @@ tags:
 - python
 - rag
 - workflows
-stars: 19468
+stars: 19497
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-04-13T14:52:43Z'
-pushed_at: '2026-07-12T10:51:39Z'
+pushed_at: '2026-07-16T11:51:08Z'
 resource_id: github:eosphoros-ai/db-gpt
-first_seen: '2026-07-15T01:16:32.163133+05:30'
-last_seen: '2026-07-15T01:16:32.163133+05:30'
-last_checked: '2026-07-15T01:16:32.163133+05:30'
+first_seen: '2026-07-17T14:03:28.992249+05:30'
+last_seen: '2026-07-17T14:03:28.992249+05:30'
+last_checked: '2026-07-17T14:03:28.992249+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) for natural language querying, analysis, and data operations via RAG and agent-based workflows.
+- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) for querying, analysis, and data operations via RAG and agent-based orchestration.
 
-- **Security & Privacy Focus**: Designed for private, on-premises deployment with built-in security measures to ensure data confidentiality while leveraging large language models for sensitive database interactions.
+- **Multi-Model & Private Deployment**: Supports integration with proprietary LLMs (e.g., BGI) and ensures private, secure data processing with no external cloud dependency, emphasizing data sovereignty.
 
-- **Modular & Extensible**: Python-based architecture supporting integration with multiple LLMs, databases, and custom agents, optimized for hacktoberfest contributions and next-gen AI + Data product development.
+- **Modular Python Architecture**: Extensible Python-based system with pluggable components for database connectors, LLM backends, and agent workflows, optimized for hacktoberfest contributions and next-gen AI+Data products.
 
 ## Why It Matters
 
@@ -45,15 +45,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: eosphoros-ai
-- Stars: 19468
-- Forks: 2825
+- Stars: 19497
+- Forks: 2830
 - Language: Python
 - Topics: agents, bgi, database, deepseek, gpt, gpt-4, hacktoberfest, llm, private, rag, security, vicuna
-- Last Updated: 2026-07-14T16:12:39Z
+- Last Updated: 2026-07-17T07:26:43Z
 - License: MIT
 - Archived: No
 - Created At: 2023-04-13T14:52:43Z
-- Pushed At: 2026-07-12T10:51:39Z
+- Pushed At: 2026-07-16T11:51:08Z
 
 ## Possible Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-15T01:16:47.210706+05:30'
+collected_at: '2026-07-17T14:03:44.015423+05:30'
 published_at: '2026-07-13T12:27:27Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-15T01:16:47.210706+05:30'
-last_seen: '2026-07-15T01:16:47.210706+05:30'
-last_checked: '2026-07-15T01:16:47.210706+05:30'
+first_seen: '2026-07-17T14:03:44.015423+05:30'
+last_seen: '2026-07-17T14:03:44.015423+05:30'
+last_checked: '2026-07-17T14:03:44.015423+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Memory Organization**: Introduces a memory-optimized RAG framework (`ComoRAG`) that mimics human cognitive memory structures to enhance long-form narrative reasoning, addressing stateful dependencies in extended contexts.
+- **Cognitive Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework inspired by human memory organization, enabling stateful long-form narrative reasoning via structured memory modules.
 
-- **Stateful Long Narrative Reasoning**: Implements dynamic memory retrieval and hierarchical organization to maintain coherence and context relevance across extended dialogues or documents, improving multi-turn reasoning performance.
+- **Memory Organization**: Implements hierarchical, context-aware memory structures (e.g., episodic/semantic layers) to dynamically store, retrieve, and synthesize information for coherent multi-turn reasoning.
 
-- **AAAI 2026 Poster Submission**: Presented as a novel approach in the AAAI 2026 conference, leveraging Python-based implementation with potential applications in complex reasoning tasks requiring persistent memory integration.
+- **Stateful Reasoning**: Enables persistent context tracking across extended interactions, leveraging memory retrieval to mitigate hallucinations and improve factual consistency in long narratives.
 
 ## Why It Matters
 

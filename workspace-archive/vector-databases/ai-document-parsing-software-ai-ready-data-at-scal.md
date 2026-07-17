@@ -6,10 +6,10 @@ source_url: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=or
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
 local_vault_path: ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md
 quality_score: 70
-archive_score: 80
+archive_score: 70
 archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - benchmark
 - hackernews
@@ -29,16 +29,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 80 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Multi-format parsing**: Supports 90+ document formats (PDFs, scanned docs, invoices, healthcare forms, etc.) with high accuracy, including complex layouts, tables, charts, handwriting, and checkboxes.
+- **Multimodal & Layout-Aware Parsing**: Processes 90+ formats (PDFs, tables, charts, handwriting, checkboxes, images) with layout-aware OCR, preserving complex structures (headers, footers, multi-column layouts) and extracting contextual data from non-textual elements.
 
-- **Advanced parsing capabilities**: Features layout-aware processing (headers/footers), multimodal parsing (text + visuals), granular control modes (cost/accuracy trade-offs), multilingual support (100+ languages), and enterprise-grade scalability (millions of pages, local/cloud deployment).
+- **Scalable Multilingual Engine**: Supports 100+ languages with enterprise-grade concurrency, enabling processing of millions of pages via cloud or local deployment, optimized for cost/accuracy trade-offs via granular parsing m
 
 ## Use Cases
 

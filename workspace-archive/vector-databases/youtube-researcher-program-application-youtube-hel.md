@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Application Requirements**: The YouTube Researcher Program application mandates details on research focus, institutional affiliation, API client specifics, and current/proposed API usage, with adherence to [Privacy Policy](https://policies.google.com/privacy?hl=en) and [Researcher Program Policies](https://research.youtube/policies/).
+- **Application Requirements**: Requires details on research, institution, API Client, and current/proposed YouTube API Services usage; subject to [Privacy Policy](https://policies.google.com/privacy) and [Researcher Program Policies](https://research.youtube/policies/).
 
-- **Institutional Data Collection**: Applicants must provide legal name, monitored email, country, and select an accredited organization from a predefined lis
+- **Institution & Affiliation**: Must specify organization name, contact email, country, and actively monitored email for service updates; includes pre-filled legal name field.
+
+- **Researcher Program Status**: Applicants must
 
 ## Use Cases
 

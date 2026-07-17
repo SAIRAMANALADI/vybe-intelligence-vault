@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/tonykipkemboi/trip_planner_agent
-collected_at: '2026-07-15T01:19:27.233042+05:30'
+collected_at: '2026-07-17T14:06:24.134615+05:30'
 published_at: '2026-05-18T04:13:15Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - python
 - rag
-- workflows
 stars: 143
 language: Python
 status: active
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-01-16T09:09:17Z'
 pushed_at: '2024-06-19T15:04:05Z'
 resource_id: github:tonykipkemboi/trip_planner_agent
-first_seen: '2026-07-15T01:19:27.233042+05:30'
-last_seen: '2026-07-15T01:19:27.233042+05:30'
-last_checked: '2026-07-15T01:19:27.233042+05:30'
+first_seen: '2026-07-17T14:06:24.134615+05:30'
+last_seen: '2026-07-17T14:06:24.134615+05:30'
+last_checked: '2026-07-17T14:06:24.134615+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **CrewAI-based multi-agent system** leveraging LLMs (e.g., OpenAI) to autonomously plan vacations via Python, integrating modular agent workflows for itinerary generation.
-- **Open-source repository** (143 stars, 63 forks) with active development (last updated May 2026), supporting extensible agent roles (e.g., researcher, planner, validator).
-- **Dependencies**: CrewAI framework, Python 3.x, LLM APIs (OpenAI-compatible), with modular design for customization of travel constraints (budget, preferences, destinations).
+- **Purpose**: Implements CrewAI agents for automated vacation planning using LLMs (e.g., OpenAI) in Python.
+- **Technical Stack**: Leverages CrewAI framework, OpenAI API, and Python for agent-based trip itinerary generation.
+- **Repository Status**: Actively maintained (last updated May 2026) with 143 stars and 62 forks.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: tonykipkemboi
 - Stars: 143
-- Forks: 63
+- Forks: 62
 - Language: Python
 - Topics: crewai, llm, llms, open-source, openai, python
 - Last Updated: 2026-05-18T04:13:15Z

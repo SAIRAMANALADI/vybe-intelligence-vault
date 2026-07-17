@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/towardsai/ragbook-notebooks
-collected_at: '2026-07-15T01:16:42.277965+05:30'
+collected_at: '2026-07-17T14:03:34.043984+05:30'
 published_at: '2026-07-09T02:19:20Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
 - rag
+- workflows
 stars: 554
 language: Jupyter Notebook
 status: active
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-04-10T14:18:01Z'
 pushed_at: '2026-01-25T18:13:23Z'
 resource_id: github:towardsai/ragbook-notebooks
-first_seen: '2026-07-15T01:16:42.277965+05:30'
-last_seen: '2026-07-15T01:16:42.277965+05:30'
-last_checked: '2026-07-15T01:16:42.277965+05:30'
+first_seen: '2026-07-17T14:03:34.043984+05:30'
+last_seen: '2026-07-17T14:03:34.043984+05:30'
+last_checked: '2026-07-17T14:03:34.043984+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Purpose**: Hosts Jupyter Notebooks accompanying the book *"Building LLMs for Production"* by Towards AI, focusing on practical implementations of LLMs in production environments.
+- **Repository**: `towardsai/ragbook-notebooks` – Jupyter Notebook-based collection for *"Building LLMs for Production"* by Towards AI, covering topics like **RAG (Retrieval-Augmented Generation)**, **LangChain**, **LlamaIndex**, and **LLM deployment** in Python.
 
-- **Technical Stack**: Primarily utilizes Python with integrations for LangChain, LlamaIndex, and RAG (Retrieval-Augmented Generation) frameworks for agent-based LLM applications.
+- **Key Features**: Includes notebooks on **agent-based workflows**, **LLM integration**, and **production-grade RAG pipelines**, leveraging libraries like `langchain` and `llamaindex` for scalable AI systems.
 
-- **Metadata**: 554 stars, 197 forks, last updated July 9, 2026; emphasizes production-grade LLM deployment, agent systems, and RAG pipelines.
+- **Metadata**: 554 ⭐, 197 🍴, last updated **2026-07-09**, with a focus on **AI/ML engineering** and **Python-based LLM tooling**.
 
 ## Why It Matters
 

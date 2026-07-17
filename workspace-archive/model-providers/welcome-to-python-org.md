@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- Python 3 supports **list comprehensions** (`[fruit.upper() for fruit in fruits]`) and **enumeration** (`enumerate(fruits)`) for compound data type manipulation.
-- **Control flow** in Python includes standard constructs (`if`, `for`, `while`, `range`) with additional features like **mandatory/optional arguments** and **keyword arguments** in functions.
-- Python’s **standard library** spans **AI/ML** (PyTorch, TensorFlow), **scientific computing** (SciPy, Pandas), **web frameworks** (Django, Fas
+- Python 3 supports **arithmetic operations** (`+`, `-`, `*`, `/`, `//`, `**`) with intuitive syntax, including true division (`/`) and floor division (`//`), as well as **list comprehensions** for concise transformations (e.g., `[fruit.upper() for fruit in fruits]`).
+
+- Python provides **built-in compound data types** like lists (indexable, sliceable, and manipulable) and supports **control flow statements** (`if`, `for`, `while`, `range`), with functions enabling optional, keyword, and arbitra
 
 ## Use Cases
 
