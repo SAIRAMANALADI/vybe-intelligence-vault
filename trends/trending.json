@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T01:22:57.996388+05:30",
+  "generated_at": "2026-07-18T01:35:52.462783+05:30",
   "trending_resources": [
     {
       "id": "hackernews:eeg-shows-brain-can-simultaneous-encode-two-speech",
@@ -181,7 +181,7 @@
       "file_path": "ai/agents/the-agent-skills-directory.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 6474,
+      "rank_change": 6475,
       "new_resource": false,
       "tier": "tier-3"
     },
