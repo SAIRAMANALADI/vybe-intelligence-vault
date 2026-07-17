@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-18T01:35:52.462783+05:30`
+Generated at: `2026-07-18T03:23:03.363495+05:30`
 
 ## Executive Summary
 
@@ -8,47 +8,36 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Apple targets dozens of OpenAI employees with legal letters** - Score: `305` in category `ai/community` ([Link](https://ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166)) ([File](../ai/community/apple-targets-dozens-of-openai-employees-with-lega.md))
-- **Mozilla: The state of open source AI** - Score: `275` in category `ai/community` ([Link](https://stateofopensource.ai)) ([File](../ai/community/mozilla-the-state-of-open-source-ai.md))
-- **AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM** - Score: `60` in category `ai/community` ([Link](https://blog.zksecurity.xyz/posts/openvm-bugs)) ([File](../ai/community/ai-meets-cryptography-2-what-ai-found-in-openvm-s.md))
-- **VulnHunter: Capital One's agentic AI code security tool** - Score: `46` in category `ai/community` ([Link](https://capitalone.com/tech/open-source/announcing-vulnhunter)) ([File](../ai/community/vulnhunter-capital-one-s-agentic-ai-code-security.md))
-- **Legal - Website Terms of Use - Apple** - Score: `0` in category `ai/agents` ([Link](https://apple.com/legal/internet-services/terms/site.html)) ([File](../ai/agents/legal-website-terms-of-use-apple.md))
-- **Financial services | Claude by Anthropic** - Score: `0` in category `ai/rag` ([Link](https://claude.com/solutions/financial-services)) ([File](../ai/rag/financial-services-claude-by-anthropic.md))
-- **Claude Legal Solutions | Claude by Anthropic** - Score: `0` in category `ai/rag` ([Link](https://claude.com/solutions/legal)) ([File](../ai/rag/claude-legal-solutions-claude-by-anthropic.md))
-- **Claude for K-12 Teachers | Claude by Anthropic** - Score: `0` in category `ai/resources` ([Link](https://claude.com/solutions/teachers)) ([File](../ai/resources/claude-for-k-12-teachers-claude-by-anthropic.md))
-- **Vercel · GitHub** - Score: `0` in category `ai/agents` ([Link](https://github.com/vercel)) ([File](../ai/agents/vercel-github.md))
-- **v0 by Vercel - Build Full-Stack Web Apps with AI** - Score: `0` in category `ai/resources` ([Link](https://v0.app)) ([File](../ai/resources/v0-by-vercel-build-full-stack-web-apps-with-ai.md))
-- **codesnippets/benchmark_whisper_cache.ipynb at main · sanchit-gandhi/codesnippets · GitHub** - Score: `0` in category `ai/resources` ([Link](https://github.com/sanchit-gandhi/codesnippets)) ([File](../ai/resources/sanchit-gandhi-codesnippets.md))
-- **Understanding LSTM Networks -- colah's blog** - Score: `0` in category `ai/resources` ([Link](http://colah.github.io/posts/2015-08-understanding-lstms)) ([File](../ai/resources/understanding-lstm-networks-colah-s-blog.md))
-- **[1703.03906] Massive Exploration of Neural Machine Translation Architectures** - Score: `0` in category `ai/resources` ([Link](https://arxiv.org/abs/1703.03906)) ([File](../ai/resources/arxiv-1703-03906.md))
-- **CSS Nesting | Chrome for Developers** - Score: `0` in category `ai/resources` ([Link](https://developer.chrome.com/docs/css-ui/css-nesting)) ([File](../ai/resources/css-nesting-chrome-for-developers.md))
-- **How to use Baseline in your project | Google Codelabs** - Score: `0` in category `ai/resources` ([Link](https://codelabs.developers.google.com/codelabs/use-baseline-in-your-project)) ([File](../ai/resources/how-to-use-baseline-in-your-project-google-codelab.md))
+- **EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI** - Score: `0` in category `ai/companies/mistral` ([Link](https://mistral.ai/news/more-control-over-connectors)) ([File](../ai/companies/mistral/bringing-more-control-over-your-connectors.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **ProductIntroducing Search ToolkitProduction search pipelines, anywhere.May 28, 2026By Mistral** - Score: `0` in category `ai/companies/mistral` ([Link](https://mistral.ai/news/search-toolkit)) ([File](../ai/companies/mistral/introducing-search-toolkit.md))
+- **CompanyAI Now Summit 2026Innovations for global enterprises solving the world’s hardest problems. May 28, 2026By Mistral** - Score: `0` in category `ai/companies/mistral` ([Link](https://mistral.ai/news/ai-now-summit-2026)) ([File](../ai/companies/mistral/ai-now-summit-2026.md))
 
 ## Top Trending Resources
 
-- **EEG shows brain can simultaneous encode two speech streams** - Score: `233` (+170), Rank Change: `+3` ([File](../ai/community/eeg-shows-brain-can-simultaneous-encode-two-speech.md))
-- **Legal - Apple Privacy Policy - Apple** - Score: `0` (0), Rank Change: `+44` ([File](../ai/rag/legal-apple-privacy-policy-apple.md))
-- **Official Apple Support Community** - Score: `0` (0), Rank Change: `+6053` ([File](../ai/rag/official-apple-support-community.md))
-- **Apple Vision Pro - Apple** - Score: `0` (0), Rank Change: `+6023` ([File](../ai/resources/apple-vision-pro-apple.md))
-- **SpeechifyInc/ai-api-examples** - Score: `0` (0), Rank Change: `+36` ([File](../ai/resources/speechifyinc-ai-api-examples.md))
-- **Privacy Policy | Speechify** - Score: `0` (0), Rank Change: `+7608` ([File](../ai/rag/privacy-policy-speechify.md))
-- **Speechify · GitHub** - Score: `0` (0), Rank Change: `+921` ([File](../ai/agents/speechify-github.md))
-- **Text to Speech Leaderboard - Top AI Speech Models** - Score: `0` (0), Rank Change: `+922` ([File](../ai/agents/text-to-speech-leaderboard-top-ai-speech-models.md))
-- **Copilot CLI sessions in Visual Studio Code** - Score: `0` (0), Rank Change: `+868` ([File](../ai/agents/copilot-cli-sessions-in-visual-studio-code.md))
-- **GitHub Status** - Score: `0` (0), Rank Change: `+114` ([File](../ai/rag/github-status.md))
+- **Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/medium-members-can-listen-to-any-medium-story-with.md))
+- **Home - The GitHub Blog** - Score: `0` (0), Rank Change: `+1` ([File](../ai/resources/home-the-github-blog.md))
+- **LinkedIn** - Score: `0` (0), Rank Change: `+1` ([File](../ai/resources/linkedin.md))
+- **GitHub Changelog** - Score: `0` (0), Rank Change: `+1` ([File](../ai/resources/github-changelog.md))
+- **The Agent Skills Directory** - Score: `0` (0), Rank Change: `+1` ([File](../ai/agents/the-agent-skills-directory.md))
+- **llama-index · PyPI** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/llama-index-pypi.md))
+- **run-llama/llama_deploy** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/run-llama-llama-deploy.md))
+- **DagsHub** - Score: `0` (0), Rank Change: `+1` ([File](../ai/resources/dagshub.md))
+- **DagsHub - YouTube** - Score: `0` (0), Rank Change: `+1` ([File](../ai/resources/dagshub-youtube.md))
+- **Mailing list Subscription Form** - Score: `0` (0), Rank Change: `+1` ([File](../ai/resources/mailing-list-subscription-form.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Privacy Policy | Speechify** - (Rank Change: `+7608`) ([File](../ai/rag/privacy-policy-speechify.md))
-- **Shows | web.dev** - (Rank Change: `+6948`) ([File](../ai/resources/shows-web-dev.md))
-- **:has() CSS pseudo-class - CSS | MDN** - (Rank Change: `+6829`) ([File](../ai/rag/has-css-pseudo-class-css-mdn.md))
-- **The Agent Skills Directory** - (Rank Change: `+6475`) ([File](../ai/agents/the-agent-skills-directory.md))
-- **Official Apple Support Community** - (Rank Change: `+6053`) ([File](../ai/rag/official-apple-support-community.md))
-- **Apple Vision Pro - Apple** - (Rank Change: `+6023`) ([File](../ai/resources/apple-vision-pro-apple.md))
-- **Discourse | Where Tech Companies Build Communities** - (Rank Change: `+5749`) ([File](../ai/resources/discourse-where-tech-companies-build-communities.md))
-- **Community Participation Guidelines — Mozilla** - (Rank Change: `+5745`) ([File](../ai/rag/community-participation-guidelines-mozilla.md))
-- **Turn on Match Dynamic Range or Match Frame Rate on your Apple TV - Apple Support** - (Rank Change: `+5069`) ([File](../ai/resources/turn-on-match-dynamic-range-or-match-frame-rate-on.md))
-- **Change audio settings on Apple TV 4K - Apple Support** - (Rank Change: `+5068`) ([File](../ai/rag/change-audio-settings-on-apple-tv-4k-apple-support.md))
+- **ritik-prog/n8n-automation-templates-5000** - (Rank Change: `+4`) ([File](../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
+- **stackitcloud/rag-template** - (Rank Change: `+4`) ([File](../ai/rag/stackitcloud-rag-template.md))
+- **langchain-ai/rag-research-agent-template** - (Rank Change: `+4`) ([File](../ai/rag/langchain-ai-rag-research-agent-template.md))
+- **vstorm-co/full-stack-ai-agent-template** - (Rank Change: `+4`) ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
+- **rsrohan99/rag-stream-intermediate-events-tutorial** - (Rank Change: `+4`) ([File](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md))
+- **vercel-labs/ai-sdk-preview-rag** - (Rank Change: `+4`) ([File](../ai/rag/vercel-labs-ai-sdk-preview-rag.md))
+- **enescingoz/awesome-n8n-templates** - (Rank Change: `+4`) ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
+- **lancedb/vectordb-recipes** - (Rank Change: `+4`) ([File](../ai/rag/lancedb-vectordb-recipes.md))
+- **techwithtim/Langflow-RAG-Tutorial** - (Rank Change: `+4`) ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
+- **pguso/rag-from-scratch** - (Rank Change: `+4`) ([File](../ai/rag/pguso-rag-from-scratch.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -59,10 +48,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol** (Category: `ai/community`) ([File](../ai/community/100-ai-music-video-claude-fable-5-vs-gpt-5-6-sol.md))
-- **LM Studio Bionic: the AI agent for open models** (Category: `ai/community`) ([File](../ai/community/lm-studio-bionic-the-ai-agent-for-open-models.md))
-- **The LLM Critics Are Right. I Use LLMs Anyway** (Category: `ai/community`) ([File](../ai/community/the-llm-critics-are-right-i-use-llms-anyway.md))
-- **Detecting LLM-Generated Texts with “Classical” Machine Learning** (Category: `ai/community`) ([File](../ai/community/detecting-llm-generated-texts-with-classical-machi.md))
-- **How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM** (Category: `ai/community`) ([File](../ai/community/how-to-train-a-gen-ai-kick-drum-model-on-your-old.md))
-- **UIUC AI Teaching Assistant** (Category: `ai/community`) ([File](../ai/community/center-for-ai-innovation-ai-teaching-assistant-uiuc.md))
-- **In Praise of Exhaustive Destructuring** (Category: `ai/community`) ([File](../ai/community/in-praise-of-exhaustive-destructuring.md))
+No recently active resources transitioned to inactive.
+

@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 62,940 files</p>
-        <p><b>Last Update:</b> 2026-07-18 01:35 IST</p>
+        <p><b>Last Update:</b> 2026-07-18 03:23 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,29 +210,24 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[EEG shows brain can simultaneous encode two speech streams](ai/community/eeg-shows-brain-can-simultaneous-encode-two-speech.md)** • <kbd>+170 pts</kbd> • Rank: <kbd>+3</kbd>
-- 🔼 **[Legal - Apple Privacy Policy - Apple](ai/rag/legal-apple-privacy-policy-apple.md)** • Rank: <kbd>+44</kbd>
-- 🔼 **[Official Apple Support Community](ai/rag/official-apple-support-community.md)** • Rank: <kbd>+6053</kbd>
-- 🔼 **[Apple Vision Pro - Apple](ai/resources/apple-vision-pro-apple.md)** • Rank: <kbd>+6023</kbd>
-- 🔼 **[SpeechifyInc/ai-api-examples](ai/resources/speechifyinc-ai-api-examples.md)** • Rank: <kbd>+36</kbd>
+- 🔼 **[Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify](ai/rag/medium-members-can-listen-to-any-medium-story-with.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Home - The GitHub Blog](ai/resources/home-the-github-blog.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[LinkedIn](ai/resources/linkedin.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[GitHub Changelog](ai/resources/github-changelog.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[The Agent Skills Directory](ai/agents/the-agent-skills-directory.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Apple targets dozens of OpenAI employees with legal letters](ai/community/apple-targets-dozens-of-openai-employees-with-lega.md)** • Score: `305`
-- 🆕 **[Mozilla: The state of open source AI](ai/community/mozilla-the-state-of-open-source-ai.md)** • Score: `275`
-- 🆕 **[AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM](ai/community/ai-meets-cryptography-2-what-ai-found-in-openvm-s.md)** • Score: `60`
-- 🆕 **[VulnHunter: Capital One's agentic AI code security tool](ai/community/vulnhunter-capital-one-s-agentic-ai-code-security.md)** • Score: `46`
-- 🆕 **[Legal - Website Terms of Use - Apple](ai/agents/legal-website-terms-of-use-apple.md)** • Score: `0`
+- 🆕 **[EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](ai/companies/mistral/bringing-more-control-over-your-connectors.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[ProductIntroducing Search ToolkitProduction search pipelines, anywhere.May 28, 2026By Mistral](ai/companies/mistral/introducing-search-toolkit.md)** • Score: `0`
+- 🆕 **[CompanyAI Now Summit 2026Innovations for global enterprises solving the world’s hardest problems. May 28, 2026By Mistral](ai/companies/mistral/ai-now-summit-2026.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](ai/community/100-ai-music-video-claude-fable-5-vs-gpt-5-6-sol.md)**
-- 💤 **[LM Studio Bionic: the AI agent for open models](ai/community/lm-studio-bionic-the-ai-agent-for-open-models.md)**
-- 💤 **[The LLM Critics Are Right. I Use LLMs Anyway](ai/community/the-llm-critics-are-right-i-use-llms-anyway.md)**
-- 💤 **[Detecting LLM-Generated Texts with “Classical” Machine Learning](ai/community/detecting-llm-generated-texts-with-classical-machi.md)**
-- 💤 **[How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](ai/community/how-to-train-a-gen-ai-kick-drum-model-on-your-old.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
