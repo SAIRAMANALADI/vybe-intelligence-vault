@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-62%2C754-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-62%2C753-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--17-374151?style=flat-square)](#)
 
@@ -187,8 +187,8 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 12,687</p>
-        <p><b>Active:</b> 12,401 | <b>Inactive:</b> 286</p>
+        <p><b>Resources tracked:</b> 12,686</p>
+        <p><b>Active:</b> 12,400 | <b>Inactive:</b> 286</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
@@ -197,8 +197,8 @@ score_threshold: 0.65
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 62,754 files</p>
-        <p><b>Last Update:</b> 2026-07-17 14:20 IST</p>
+        <p><b>Total Vault Size:</b> 62,753 files</p>
+        <p><b>Last Update:</b> 2026-07-17 16:17 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,29 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[RST-to-MyST — RST-to-MyST: v0.4.0](ai/resources/rst-to-myst-rst-to-myst-v0-4-0.md)** • Rank: <kbd>+5572</kbd>
-- 🔼 **[markdown-it-py — markdown-it-py](ai/resources/markdown-it-py-markdown-it-py.md)** • Rank: <kbd>+5581</kbd>
-- 🔼 **[Web & Application Development - Linux Foundation - Education](ai/rag/web-application-development-linux-foundation-educa.md)** • Rank: <kbd>+6942</kbd>
-- 🔼 **[A safe and modern home for JavaScript technologies | OpenJS Foundation](ai/resources/a-safe-and-modern-home-for-javascript-technologies.md)** • Rank: <kbd>+5609</kbd>
-- 🔼 **[npm/documentation](ai/resources/npm-documentation.md)** • Rank: <kbd>+417</kbd>
+- 🔼 **[Stainless · GitHub](ai/resources/stainless-github.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Integrations | Astro](ai/rag/integrations-astro.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Styles and CSS | Docs](web-development/tailwind/styles-and-css-docs.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Built-in AI | AI on Chrome | Chrome for Developers](ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Keras: Deep Learning for humans](ai/rag/keras-deep-learning-for-humans.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](ai/community/100-ai-music-video-claude-fable-5-vs-gpt-5-6-sol.md)** • Score: `244`
-- 🆕 **[LM Studio Bionic: the AI agent for open models](ai/community/lm-studio-bionic-the-ai-agent-for-open-models.md)** • Score: `238`
-- 🆕 **[The LLM Critics Are Right. I Use LLMs Anyway](ai/community/the-llm-critics-are-right-i-use-llms-anyway.md)** • Score: `223`
-- 🆕 **[Detecting LLM-Generated Texts with “Classical” Machine Learning](ai/community/detecting-llm-generated-texts-with-classical-machi.md)** • Score: `194`
-- 🆕 **[How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](ai/community/how-to-train-a-gen-ai-kick-drum-model-on-your-old.md)** • Score: `128`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Are we offloading too much of our thinking to AI?](ai/community/are-we-offloading-too-much-of-our-thinking-to-ai.md)**
-- 💤 **[Australian energy retailers must provide three hours of free daytime electricity](ai/community/australian-energy-retailers-must-provide-three-hou.md)**
-- 💤 **[Indian scientists produce most detailed 3D atlas of the human brainstem](ai/community/indian-scientists-produce-most-detailed-3d-atlas-o.md)**
-- 💤 **[How the FSF sysadmins block botnets with reaction](web-development/community/how-the-fsf-sysadmins-block-botnets-with-reaction.md)**
-- 💤 **[Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone](ai/community/bonsai-27b-1-bit-llm-the-first-27b-class-model-to.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

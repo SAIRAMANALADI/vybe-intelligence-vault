@@ -6,13 +6,13 @@ Distribution of original signal ingestion sources across processed URLs:
 | :--- | ---: |
 | arxiv | 7935 |
 | huggingface | 907 |
-| github | 823 |
+| github | 822 |
 | nextjs.org | 68 |
 | support.google.com | 31 |
 | youtube | 24 |
 | react.dev | 23 |
 | developers.google.com | 20 |
-| medium.com | 19 |
+| medium.com | 20 |
 | cloud.google.com | 18 |
 | apple.com | 16 |
 | learn.microsoft.com | 16 |
@@ -173,7 +173,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | electronjs.org | 2 |
 | nodejs.org | 2 |
 | fosstodon.org | 2 |
-| policy.medium.com | 2 |
 | astro.build | 2 |
 | glukhov.org | 2 |
 | interrupt.langchain.com | 2 |
@@ -1759,3 +1758,4 @@ Distribution of original signal ingestion sources across processed URLs:
 | startdesigns.com | 1 |
 | signitysolutions.com | 1 |
 | status.medium.com | 1 |
+| policy.medium.com | 1 |
