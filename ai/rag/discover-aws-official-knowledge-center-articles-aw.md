@@ -4,9 +4,10 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://repost.aws/knowledge-center?nc1=f_dr
-published_at: '2026-07-09T21:14:32.228930+05:30'
-collected_at: '2026-07-09T21:14:32.228937+05:30'
+published_at: '2026-07-18T01:13:09.620853+05:30'
+collected_at: '2026-07-18T01:13:09.620864+05:30'
 tags:
+- agents
 - frontend_ui
 - hackernews
 - rag
@@ -17,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:discover-aws-official-knowledge-center-articles-aw
-first_seen: '2026-07-09T21:14:32.228937+05:30'
-last_seen: '2026-07-09T21:14:32.228937+05:30'
-last_checked: '2026-07-09T21:14:32.228937+05:30'
+first_seen: '2026-07-18T01:13:09.620864+05:30'
+last_seen: '2026-07-18T01:13:09.620864+05:30'
+last_checked: '2026-07-18T01:13:09.620864+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **S3 Replication Failures**: Common causes include missing IAM permissions (`s3:ReplicateObject`, `s3:GetReplicationConfiguration`), incorrect bucket policy configurations, or missing destination bucket encryption settings (e.g., SSE-KMS) when cross-region replication (CRR) is enabled.
+- **S3 Replication Issues**: Troubleshoot why Amazon S3 objects fail to replicate between general-purpose buckets in the same or different AWS Regions, including misconfigured replication rules or missing IAM permissions.
 
-- **EC2 SSH Connection Errors**: "Connection refused" or "Permission denied" errors typically stem from misconfigured security groups (denying inbound SSH/port 22), incorrect key pair associations, or disabled SSH access in the instance’s OS-level firewall (e.g., `iptables`/`firewalld`).
+- **EC2 Connection Failures**: Resolve SSH or Session Manager connection errors to Amazon EC2 instances, including misconfigured security groups, key pairs, or SSM agent issues.
 
-- **Lambda Function Modifications**: To audit changes, enable AWS CloudTrail logging for `UpdateFunctionCode` and `UpdateFunctionConfiguration` API calls, then query CloudTrail logs using Amazon Athena to identify the principal, timestamp, and delta of modifications.
+- **AWS WAF Rate-Based Rule Misconfiguration**: Debug why AWS WAF rate-based rules (including custom aggregation keys) fail to block traffic at configured thresholds, often due to incorrect metric filters or rule scoping.
 
 ## Why It Matters
 
@@ -41,10 +42,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T21:14:32.228930+05:30
+- Published: 2026-07-18T01:13:09.620853+05:30
 
 ## Related Tags
 
+- agents
 - frontend_ui
 - hackernews
 - rag

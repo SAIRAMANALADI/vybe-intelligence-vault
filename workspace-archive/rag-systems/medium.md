@@ -2,7 +2,7 @@
 title: Medium
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
+source_url: https://medium.com/policy/9db0094a1e0f
 resource_id: blog:medium
 local_vault_path: ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md
 quality_score: 70
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-*   Users retain content ownership but grant Medium a non-exclusive, royalty-free, worldwide, sublicensable license for operational use, including reproduction, modification, and distribution across its services.
-*   Dispute resolution mandates binding arbitration via JAMS (Streamlined Rules) with a class action waiver, requiring prior informal resolution attempts and providing a 30-day opt-out period; California law governs, with venue in San Francisco.
-*   Services are provided "as is" without
+- **License Grant**: Users retain content ownership but grant Medium a **non-exclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display user content across all Medium services, including derivative works (e.g., previews, curated lists) with attribution.
+
+- **Liability Waiver**: Medium disclaims all warranties (express/implied) and limits liability to **$50 USD or service fees paid**, excluding gross negligence/fraud; users indemnify Medium for legal
 
 ## Use Cases
 
@@ -44,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
+Original source URL: https://medium.com/policy/9db0094a1e0f
 
 ## Local Vault File
 

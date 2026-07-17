@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Client-side AI implementation** leverages JavaScript libraries (TensorFlow.js, Transformers.js, MediaPipe GenAI) for low-latency, offline, and privacy-preserving inference, avoiding server-side dependencies and API keys.
+- **Model Size Optimization**: Client-side AI models vary widely in size (e.g., 9.4KB for BudouX, 1.3GB for Gemma 2B). Prioritize task-specific models (e.g., language detection at 315KB) and use techniques like quantization or pruning to reduce size while maintaining accuracy. Avoid large LLMs (>10MB) unless absolutely necessary due to performance and bandwidth constraints.
 
-- **Performance optimization strategies** include model size constraints (<10MB ideal), WebGPU fallback checks, explicit caching (Cache API), chunked downloads, and offloading tasks to web workers to mitigate UI blocking during model preparation/inference.
-
-- **User experie
+- **Hardware Compatibility & Progressive Loading**: Not all devices support client-side AI (e.g., WebGPU/WASM fallbacks).
 
 ## Use Cases
 

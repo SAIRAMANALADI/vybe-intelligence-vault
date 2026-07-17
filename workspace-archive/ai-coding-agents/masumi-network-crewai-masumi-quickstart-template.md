@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `masumi-network/crewai-masumi-quickstart-template`
-  - **Purpose**: Quickstart template for CrewAI (AI agent orchestration framework) integration with Masumi Network.
-  - **Metadata**: 13 stars, 20 forks, Python-based, last updated **2026-04-12**.
+- **Repository Overview**: A Python-based template for quickstart with CrewAI, maintained by masumi-network.
+- **Metadata**: 13 stars, 20 forks, last updated on April 12, 2026.
+- **Structure**: Minimal setup with no additional topics or description provided.
 
 ## Use Cases
 

@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **LLM-Powered Cybersecurity Agents**: Repository contains Jupyter Notebook-based agents leveraging Large Language Models (LLMs) to automate routine cybersecurity tasks, including adversary emulation and red teaming.
-- **Integration with CALDERA**: Agents are designed to interact with the MITRE CALDERA adversary emulation platform, enabling automated attack simulation and security testing workflows.
-- **Open-Source Toolkit**: Provides a modular framework for cybersecurity professionals to exten
+- **LLM-Powered Cybersecurity Agents**: Repository contains Jupyter Notebook-based agents leveraging LLMs to automate routine cybersecurity tasks, including adversary emulation and threat detection.
+
+- **Integration with CALDERA**: Agents are designed to interface with the CALDERA adversary emulation platform, enabling automated red team operations and security testing workflows.
+
+- **Open-Source Toolkit**: Provides a modular framework for cybersecurity professionals to extend and customize LLM-
 
 ## Use Cases
 

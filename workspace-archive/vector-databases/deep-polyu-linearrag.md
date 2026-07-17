@@ -11,7 +11,9 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- dataset
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
@@ -30,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework that constructs a linear graph from large-scale corpora, enabling efficient retrieval and augmentation for LLMs by leveraging linear graph structures for improved scalability and performance.
+- **Linear Graph RAG Framework**: Proposes a linear-time graph-based retrieval method for RAG, optimizing scalability on large-scale corpora by reducing retrieval complexity from quadratic to linear via graph traversal techniques.
 
-- **ICLR 2026 Contribution**: Proposes a linear-time graph-based retrieval mechanism, optimizing traditional GraphRAG approaches by reducing computational overhead while maintaining or enhancing retrieval qualit
+- **Efficient Retrieval Mechanism**: Introduces a linear graph traversal algorithm that dynamically constructs retrieval paths, improving contextual relevance while maintaining computational efficiency for LLMs.
+
+- **ICLR 2026 Contribution**: Demonstrates state-of-the
 
 ## Use Cases
 

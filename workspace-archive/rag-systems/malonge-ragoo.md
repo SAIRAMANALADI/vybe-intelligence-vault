@@ -6,15 +6,15 @@ source_url: https://github.com/malonge/RaGOO
 resource_id: github:malonge/ragoo
 local_vault_path: ai/rag/malonge-ragoo.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
-resource_kind: workflow
-importance: high
+archive_score: 77
+archive_tier: useful
+resource_kind: tool
+importance: medium
 tags:
 - github-repo
+- hackernews
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -25,17 +25,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: workflow
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: tool
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **RaGOO**: A discontinued Python-based tool for genome assembly and scaffolding, previously used in bioinformatics workflows.
-- **Deprecation Notice**: Officially replaced by RagTag (https://github.com/malonge/RagTag) due to lack of ongoing support.
-- **Metadata**: 173 stars, 28 forks, last updated 2026-06-18.
+- **Deprecation Notice**: RaGOO is no longer maintained; users are directed to **RagTag** (`malonge/RagTag`) as its successor.
+- **Technical Scope**: Designed for **bioinformatics**, specifically **genome assembly** and **scaffolding** in Python.
+- **Repository Metrics**: 173 stars, 28 forks; last updated **2026-06-18**.
 
 ## Use Cases
 

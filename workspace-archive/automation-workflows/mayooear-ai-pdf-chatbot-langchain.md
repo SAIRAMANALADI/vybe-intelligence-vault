@@ -8,7 +8,7 @@ local_vault_path: ai/rag/mayooear-ai-pdf-chatbot-langchain.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -30,18 +30,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Tech Stack**: TypeScript-based AI PDF chatbot leveraging LangChain, LangGraph, Next.js, and OpenAI for agentic workflows and document interaction.
-
-- **Core Functionality**: Enables conversational querying over PDF documents using LangChain's retrieval-augmented generation (RAG) and LangGraph's stateful agent orchestration.
-
-- **Deployment**: Open-source repository with 16.5k+ stars, supporting modular integration of LLMs, embeddings, and vector stores for scalable PDF-based Q&A systems.
+- **Tech Stack**: TypeScript-based AI chatbot leveraging LangChain, LangGraph, and Next.js for PDF interaction and agent-based workflows.
+- **Core Features**: Integrates OpenAI for natural language processing, enabling conversational querying and summarization of PDF documents.
+- **Architecture**: Uses a modular agent system with LangGraph for state management and orchestration, optimized for scalable PDF document processing.
 
 ## Use Cases
 

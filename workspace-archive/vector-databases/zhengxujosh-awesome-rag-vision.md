@@ -11,9 +11,9 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- dataset
 - github-repo
 - hackernews
-- paper
 - rag
 - unknown
 selection_reason:
@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG-Vision Resources**: A GitHub repository compiling advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including papers, frameworks, and tools.
-- **Metadata**: 339 stars, 9 forks, last updated **July 15, 2026**; language unspecified.
-- **Focus Areas**: Encompasses **multimodal RAG**, vision-language models (VLMs), and domain-specific CV applications leveraging RAG for improved contextual retrieval and generation.
+- **Curated Collection**: Repository aggregates advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, including multimodal RAG, vision-language models, and cross-modal retrieval methods.
+
+- **Resource Scope**: Encompasses cutting-edge research, frameworks, datasets, and tools for integrating RAG with CV tasks such as image captioning, visual question answering (VQA), and object detection.
+
+- **Community Engagement**: Maintained with peri
 
 ## Use Cases
 

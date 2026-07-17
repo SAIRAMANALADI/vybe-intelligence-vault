@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://web.dev/articles/client-side-ai-performance
-published_at: '2026-07-14T19:59:48.512712+05:30'
-collected_at: '2026-07-14T19:59:48.512725+05:30'
+published_at: '2026-07-18T01:15:15.859209+05:30'
+collected_at: '2026-07-18T01:15:15.859224+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:improve-performance-and-ux-for-client-side-ai-web
-first_seen: '2026-07-14T19:59:48.512725+05:30'
-last_seen: '2026-07-14T19:59:48.512725+05:30'
-last_checked: '2026-07-14T19:59:48.512725+05:30'
+first_seen: '2026-07-18T01:15:15.859224+05:30'
+last_seen: '2026-07-18T01:15:15.859224+05:30'
+last_checked: '2026-07-18T01:15:15.859224+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Client-side AI implementation** leverages JavaScript libraries (TensorFlow.js, Transformers.js, MediaPipe GenAI) for low-latency, offline, and privacy-preserving inference, avoiding server-side dependencies and API keys.
+- **Model Size Optimization**: Client-side AI models vary widely in size (e.g., 9.4KB for BudouX, 1.3GB for Gemma 2B). Prioritize task-specific models (e.g., language detection at 315KB) and use techniques like quantization or pruning to reduce size while maintaining accuracy. Avoid large LLMs (>10MB) unless absolutely necessary due to performance and bandwidth constraints.
 
-- **Performance optimization strategies** include model size constraints (<10MB ideal), WebGPU fallback checks, explicit caching (Cache API), chunked downloads, and offloading tasks to web workers to mitigate UI blocking during model preparation/inference.
+- **Hardware Compatibility & Progressive Loading**: Not all devices support client-side AI (e.g., WebGPU/WASM fallbacks). Use `Navigator.hardwareConcurrency`, `deviceMemory`, and WebGPU feature detection to gate model execution. Warn users before large downloads (>10MB) and implement chunked downloads (e.g., `fetch-in-chunks`) with progress indicators to mitigate latency and interruptions.
 
-- **User experience considerations** require progress indicators for downloads/inference, graceful error handling (GPU/CPU failures), cancellable operations, and progressive feature degradation to ensure critical UX remains functional even when AI models are not fully loaded.
+- **Offloading & Error Handling**: Move model preparation/inference to Web Workers to avoid blocking the main thread. Implement `try/catch` for runtime errors, handle GPU device loss (`GPUDevice.lost`), and provide cancellable inference with visual feedback (e.g., animations) to maintain UX during high-latency operations. Cache models explicitly via the Cache API to avoid redundant downloads.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T19:59:48.512712+05:30
+- Published: 2026-07-18T01:15:15.859209+05:30
 
 ## Related Tags
 

@@ -12,12 +12,10 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- hackernews
 - meta-ai
 - models
 - rag
 - typescript
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Intermediate LlamaIndex Event Streaming**: Demonstrates how to stream intermediate events from LlamaIndex during RAG (Retrieval-Augmented Generation) processes to enhance real-time interaction.
-
-- **Vercel AI SDK Integration**: Shows integration with Vercel's AI SDK via Server-Sent Events (SSE) to handle streaming responses efficiently in TypeScript-based applications.
-
-- **Technical Implementation**: Provides a structured tutorial for developers to implement event streaming in RAG workflows
+- **Intermediate LlamaIndex Events Streaming**: Demonstrates how to stream intermediate events from LlamaIndex during RAG (Retrieval-Augmented Generation) using Server-Sent Events (SSE).
+- **Vercel AI SDK Integration**: Shows integration with the Vercel AI SDK to handle and process these intermediate events in a TypeScript-based application.
+- **Real-Time Event Handling**: Focuses on real-time event transmission and processing, enabling intermediate RAG steps to be streamed efficiently to the cl
 
 ## Use Cases
 

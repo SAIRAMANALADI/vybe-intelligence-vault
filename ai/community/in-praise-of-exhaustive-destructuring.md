@@ -13,13 +13,14 @@ collected_at: '2026-07-17T14:00:37.135433+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:in-praise-of-exhaustive-destructuring
 first_seen: '2026-07-17T14:00:37.135433+05:30'
 last_seen: '2026-07-17T14:00:37.135433+05:30'
 last_checked: '2026-07-17T14:00:37.135433+05:30'
 health_score: 100
 ---
+
 
 # In Praise of Exhaustive Destructuring
 

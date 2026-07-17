@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/FudanDNN-NLP/RAG
-collected_at: '2026-07-17T14:02:59.002721+05:30'
+collected_at: '2026-07-18T01:06:53.011413+05:30'
 published_at: '2026-07-02T18:18:04Z'
 tags:
+- dataset
 - github-repo
 - hackernews
 - paper
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-06-29T13:07:50Z'
 pushed_at: '2024-12-21T07:32:41Z'
 resource_id: github:fudandnn-nlp/rag
-first_seen: '2026-07-17T14:02:59.002721+05:30'
-last_seen: '2026-07-17T14:02:59.002721+05:30'
-last_checked: '2026-07-17T14:02:59.002721+05:30'
+first_seen: '2026-07-18T01:06:53.011413+05:30'
+last_seen: '2026-07-18T01:06:53.011413+05:30'
+last_checked: '2026-07-18T01:06:53.011413+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of EMNLP2024 Paper**: Repository provides a Python-based implementation of the paper *"Searching for Best Practices in Retrieval-Augmented Generation"*, focusing on RAG optimization techniques.
+- **Implementation of EMNLP2024 Paper**: Repository provides a Python-based implementation of best practices for Retrieval-Augmented Generation (RAG) as outlined in the EMNLP2024 paper, focusing on optimizing retrieval and generation pipelines.
 
-- **Key Features**: Includes experimental frameworks for evaluating retrieval and generation components, with modular design for integrating custom retrievers and LLMs.
+- **Key Features**: Includes modular components for document retrieval, query processing, and response generation, with support for customizable retrieval strategies and integration with large language models (LLMs).
 
-- **Metadata**: Last updated July 2, 2026; 347 stars, 21 forks; no explicit topics tagged.
+- **Performance-Oriented**: Designed for efficiency and scalability, with optimizations for large-scale datasets and real-time inference, leveraging state-of-the-art retrieval techniques (e.g., dense retrieval, hybrid search).
 
 ## Why It Matters
 

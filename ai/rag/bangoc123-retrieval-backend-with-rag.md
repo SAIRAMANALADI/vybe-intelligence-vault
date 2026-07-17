@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-17T14:02:53.964173+05:30'
+collected_at: '2026-07-18T01:06:47.983085+05:30'
 published_at: '2026-07-07T14:48:17Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
 - python
 - rag
-- workflows
 stars: 264
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-17T14:02:53.964173+05:30'
-last_seen: '2026-07-17T14:02:53.964173+05:30'
-last_checked: '2026-07-17T14:02:53.964173+05:30'
+first_seen: '2026-07-18T01:06:47.983085+05:30'
+last_seen: '2026-07-18T01:06:47.983085+05:30'
+last_checked: '2026-07-18T01:06:47.983085+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Repository demonstrates best practices for Retrieval-Augmented Generation (RAG) specifically optimized for Vietnamese language processing, including text preprocessing, embedding, and retrieval pipelines.
+- **RAG Implementation for Vietnamese**: Repository demonstrates best practices for Vietnamese Retrieval-Augmented Generation (RAG) using Python, focusing on efficient document retrieval and context-aware generation.
 
-- **Python-Based Pipeline**: Utilizes Python with key libraries (e.g., `sentence-transformers`, `FAISS`, `FastAPI`) for embedding generation, vector search, and serving RAG models via a REST API.
+- **Key Components**: Includes vector database integration (e.g., FAISS/Weaviate), Vietnamese text preprocessing (tokenization, embedding), and retrieval-augmented generation pipelines with LLMs.
 
-- **Modular Architecture**: Implements a modular design with components for document ingestion, vector storage (FAISS), retrieval, and generation, enabling scalable and customizable RAG workflows for Vietnamese text.
+- **Performance Optimization**: Implements Vietnamese-specific techniques (e.g., syllable-aware embeddings, query expansion) and benchmarking for retrieval accuracy and response quality.
 
 ## Why It Matters
 

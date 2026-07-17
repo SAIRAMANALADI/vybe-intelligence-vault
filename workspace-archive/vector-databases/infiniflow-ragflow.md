@@ -2,9 +2,9 @@
 title: infiniflow/ragflow
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/infiniflow/ragflow?source=post_page-----dba899ae0355---------------------------------------
+source_url: https://github.com/infiniflow/ragflow?source=-----dba899ae0355---------------------------------------
 resource_id: github:infiniflow/ragflow
-local_vault_path: ai/rag/infiniflow-ragflow-2.md
+local_vault_path: ai/rag/infiniflow-ragflow.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
@@ -14,8 +14,8 @@ tags:
 - agents
 - github-repo
 - go
+- hackernews
 - rag
-- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid RAG-Agent Architecture**: Combines advanced Retrieval-Augmented Generation (RAG) with agentic workflows to enhance LLM context processing, enabling dynamic interaction between retrieval and reasoning components.
-
-- **Multi-Stage Context Engineering**: Implements a layered context engine for knowledge compilation, context management, and retrieval optimization, supporting structured and unstructured data processing.
-
-- **Scalable Go-Based Implementation**: Built in Go for high-performa
+- **RAGFlow**: Open-source Retrieval-Augmented Generation (RAG) engine combining advanced RAG with Agent capabilities to enhance LLM context layers.
+- **Technical Stack**: Primarily implemented in Go, supporting features like context management, knowledge compilation, and agentic retrieval/search.
+- **Metrics**: 85,296 stars, 9,964 forks; last updated on 2026-07-17, with active development in agent-harness and context-engineering domains.
 
 ## Use Cases
 
@@ -46,8 +44,8 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/infiniflow/ragflow?source=post_page-----dba899ae0355---------------------------------------
+Original source URL: https://github.com/infiniflow/ragflow?source=-----dba899ae0355---------------------------------------
 
 ## Local Vault File
 
-Path: [infiniflow-ragflow-2.md](../../ai/rag/infiniflow-ragflow-2.md)
+Path: [infiniflow-ragflow.md](../../ai/rag/infiniflow-ragflow.md)

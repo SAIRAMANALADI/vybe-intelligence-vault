@@ -16,7 +16,6 @@ tags:
 - github-repo
 - hackernews
 - javascript
-- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -36,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Production-grade engineering skills for AI coding agents, primarily in JavaScript, designed to enhance agent capabilities in real-world development workflows.
-- **Key Features**: Includes advanced tools and techniques for AI agents (e.g., `claude-code`, `codex`, `cursor`) with a focus on automation, debugging, and optimization.
-- **Community & Maintenance**: Actively maintained (last updated July 2026) with 78,211 stars and 8,397 forks, indicating strong community adop
+- **Repository Overview**: A curated collection of production-grade engineering skills for AI coding agents, optimized for tools like `claude-code`, `codex`, and `cursor`.
+
+- **Technical Scope**: Focuses on advanced JavaScript-based workflows, including `antigravity` (simulated gravity utilities) and agent-specific skill integrations.
+
+- **Community & Maintenance**: Highly active with 78,962 stars, 8,490 forks, and last updated on 2026-07-17, indicating strong community adoption and iterative im
 
 ## Use Cases
 

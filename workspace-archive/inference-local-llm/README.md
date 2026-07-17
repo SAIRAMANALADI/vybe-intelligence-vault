@@ -23,10 +23,10 @@ https://github.com/ollama/ollama (Ollama)
 https://github.com/ggerganov/llama.cpp (llama.cpp)
 https://github.com/vllm-project/vllm (vLLM)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
-- [vndee/local-assistant-examples](https://github.com/vndee/local-assistant-examples)
 - [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2)
-- [huggingface/transformers Release: Patch release v5.12.1](https://github.com/huggingface/transformers)
-- [pguso/rag-from-scratch](https://github.com/pguso/rag-from-scratch)
+- [llmware-ai/llmware](https://github.com/llmware-ai/llmware)
+- [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template)
+- [vndee/local-assistant-examples](https://github.com/vndee/local-assistant-examples)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-07-17 14:19 IST*
+*Last updated: 2026-07-18 01:22 IST*

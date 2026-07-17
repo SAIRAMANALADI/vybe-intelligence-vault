@@ -13,6 +13,7 @@ importance: medium
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - youtube
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Suite**: Repository hosts **VLM2Vec/MMEB (ICLR 2025)**, **VLM2Vec-V2/MMEB-V2 (TMLR 2026)**, and **MMEB-V3 (COLM 2026)**, providing standardized benchmarks for evaluating **Vision-Language Models (VLMs)** across tasks like image retrieval, video retrieval, and visual document retrieval.
+- **Multi-modal Embedding Benchmark (MMEB) Suite**: Repository hosts three benchmarking frameworks—VLM2Vec (ICLR 2025), VLM2Vec-V2 (TMLR 2026), and MMEB-V3 (COLM 2026)—designed to evaluate contrastive learning-based visual-language models (VLMs) across tasks like image, video, and visual document retrieval.
 
-- **Contrastive Learning Framework**: Implements **contrastive learning** for generating high-quality **multimodal embeddings**, enabling efficient retrieval and representation learning for VLMs in
+- **Technical Focus**: Implements representation learning via contrastive objectives, enabling zero-shot and fine-tuned evaluations for multimodal embeddings, with support for retrieval task
 
 ## Use Cases
 

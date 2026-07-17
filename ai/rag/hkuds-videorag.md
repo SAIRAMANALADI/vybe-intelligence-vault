@@ -4,14 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-07-17T14:03:44.010577+05:30'
-published_at: '2026-07-17T03:11:22Z'
+collected_at: '2026-07-18T01:07:38.042204+05:30'
+published_at: '2026-07-17T17:41:52Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - youtube
-stars: 3180
+stars: 3183
 language: Python
 status: active
 license: NOASSERTION
@@ -19,9 +21,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-07-17T14:03:44.010577+05:30'
-last_seen: '2026-07-17T14:03:44.010577+05:30'
-last_checked: '2026-07-17T14:03:44.010577+05:30'
+first_seen: '2026-07-18T01:07:38.042204+05:30'
+last_seen: '2026-07-18T01:07:38.042204+05:30'
+last_checked: '2026-07-18T01:07:38.042204+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to interactively query and chat with video content via multi-modal embeddings and retrieval mechanisms.
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system enabling LLMs to process and interact with long-form video content via multi-modal embeddings and retrieval mechanisms.
 
-- **Multi-Modal Integration**: Combines vision-language models (VLMs) and LLMs to process video frames, extract semantic features, and generate context-aware responses for dynamic video Q&A.
+- **Technical Implementation**: Utilizes Python with PyTorch/TensorFlow for multi-modal feature extraction (visual, audio, text) and integrates hierarchical video chunking for efficient long-video understanding.
 
-- **Scalable Architecture**: Optimized for long-duration videos (e.g., lectures, meetings) with efficient frame sampling, hierarchical retrieval, and GPU-accelerated processing in Python.
+- **Benchmarking & Applications**: Evaluated on KDD'2026 benchmarks for long-video QA, supporting tasks like temporal event localization, summarization, and interactive video-based dialogue.
 
 ## Why It Matters
 
@@ -42,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 3180
-- Forks: 452
+- Stars: 3183
+- Forks: 453
 - Language: Python
 - Topics: large-language-models, llms, long-video-understanding, multi-modal-llms, rag, retrieval-augmented-generation
-- Last Updated: 2026-07-17T03:11:22Z
+- Last Updated: 2026-07-17T17:41:52Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-02-03T03:59:11Z

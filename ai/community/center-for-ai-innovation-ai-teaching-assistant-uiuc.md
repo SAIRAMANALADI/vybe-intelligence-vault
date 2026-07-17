@@ -13,13 +13,14 @@ collected_at: '2026-07-17T14:00:37.211095+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:center-for-ai-innovation/ai-teaching-assistant-uiuc
 first_seen: '2026-07-17T14:00:37.211095+05:30'
 last_seen: '2026-07-17T14:00:37.211095+05:30'
 last_checked: '2026-07-17T14:00:37.211095+05:30'
 health_score: 100
 ---
+
 
 # UIUC AI Teaching Assistant
 

@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines LLMs with external knowledge retrieval to reduce hallucinations and improve factual accuracy by fetching real-time, domain-specific data from vector databases (e.g., ChromaDB) using embeddings (e.g., OpenAI's `text-embedding-3-small`).
+- **RAG Architecture & Core Components**: RAG combines LLMs with external knowledge retrieval via vector databases (e.g., ChromaDB) using embeddings (e.g., OpenAI's `text-embedding-3-small`) to ground responses in real-time, domain-specific data, reducing hallucinations and enabling cost-effective knowledge updates without model retraining.
 
-- **Core Pipeline**: Implements a 7-step process—document loading (PDFs/text), chunking (1000 chars, 200 overlap), embedding generation, vector store creation, retriever setup (hybrid/reranking), RAG chain assembly (LangChain + `g
+- **Optimized Pipeline Implementation**: Requires document chunking (e.g., `RecursiveCharacterTextSplitter` with 1000-char chunks, 200-char overlap), hybrid
 
 ## Use Cases
 

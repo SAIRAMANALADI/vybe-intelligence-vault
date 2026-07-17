@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY
-published_at: '2026-07-17T14:02:10.043526+05:30'
-collected_at: '2026-07-17T14:02:10.043539+05:30'
+published_at: '2026-07-18T01:06:03.413058+05:30'
+collected_at: '2026-07-18T01:06:03.413071+05:30'
 tags:
 - hackernews
 - rag
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:complete-rag-tutorial-2025-build-ai-apps-with-retr
-first_seen: '2026-07-17T14:02:10.043539+05:30'
-last_seen: '2026-07-17T14:02:10.043539+05:30'
-last_checked: '2026-07-17T14:02:10.043539+05:30'
+first_seen: '2026-07-18T01:06:03.413071+05:30'
+last_seen: '2026-07-18T01:06:03.413071+05:30'
+last_checked: '2026-07-18T01:06:03.413071+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, advertising, and creator monetization under structured policies and terms of service.
-
-- **Developer & API Access**: Provides a dedicated [YouTube Developers](https://developers.google.com/youtube) portal for integrating YouTube functionality into applications via APIs, enabling features like video uploads, search, and analytics.
-
-- **Technical Resources**: Offers documentation and tools such as [How YouTube Works](https://www.youtube.com/howyoutubeworks) to explain backend infrastructure, content delivery, and recommendation algorithms for developers and researchers.
+- **YouTube Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, monetization (via YouTube Partners/Advertisers), and developer APIs (YouTube Data/Player APIs) for integration.
+- **Policy & Compliance**: Governed by Google’s privacy policy, terms of service, and content safety guidelines, with dedicated portals for copyright, press, and creator resources.
+- **Developer & Feature Resources**: Provides technical documentation for developers (YouTube for Developers), experimental features (YouTube Labs), and exclusive content (e.g., NFL Sunday Ticket) under Google’s ecosystem.
 
 ## Why It Matters
 
@@ -38,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-17T14:02:10.043526+05:30
+- Published: 2026-07-18T01:06:03.413058+05:30
 
 ## Related Tags
 

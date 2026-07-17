@@ -9,24 +9,24 @@ Understanding the pricing, capabilities, and APIs of different model providers i
 ## Top Matched Resources
 
 - [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
-- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app) (product - ESSENTIAL Tier)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (framework - ESSENTIAL Tier)
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) (framework - ESSENTIAL Tier)
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) (framework - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - ESSENTIAL Tier)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (api - ESSENTIAL Tier)
+- [Main · Workflow runs · weaviate/weaviate-python-client · GitHub](https://github.com/weaviate/weaviate-python-client/actions/workflows/main.yaml) (tutorial - ESSENTIAL Tier)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (dataset - ESSENTIAL Tier)
-- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/openai/openai-python (OpenAI SDK)
 https://github.com/google/generative-ai-python (Gemini SDK)
 - [langgenius/dify](https://github.com/langgenius/dify)
-- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
-- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- [Main · Workflow runs · weaviate/weaviate-python-client · GitHub](https://github.com/weaviate/weaviate-python-client/actions/workflows/main.yaml)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/google/generative-ai-python (Gemini SDK)
 
 ---
 
-*Last updated: 2026-07-17 14:19 IST*
+*Last updated: 2026-07-18 01:22 IST*

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-07-17T14:02:23.948896+05:30'
+collected_at: '2026-07-18T01:06:18.028752+05:30'
 published_at: '2026-07-17T08:03:51Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-07-16T09:42:07Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-07-17T14:02:23.948896+05:30'
-last_seen: '2026-07-17T14:02:23.948896+05:30'
-last_checked: '2026-07-17T14:02:23.948896+05:30'
+first_seen: '2026-07-18T01:06:18.028752+05:30'
+last_seen: '2026-07-18T01:06:18.028752+05:30'
+last_checked: '2026-07-18T01:06:18.028752+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-*   Full-stack AI application template integrating FastAPI (Python) for backend services and Next.js (TypeScript/React) for the frontend.
-*   Leverages AI agent frameworks (e.g., CrewAI, LangChain, LangGraph) to implement RAG, streaming, and authentication, with 20+ pre-built integrations.
-*   Utilizes Pydantic for data validation, PostgreSQL for persistence, and Docker for containerized deployment, supporting WebSocket communication.
+- **Full-stack AI Agent Template**: Pre-configured starter kit with FastAPI (backend) and Next.js (frontend), integrating AI agents, Retrieval-Augmented Generation (RAG), real-time streaming, authentication, and 20+ third-party integrations (e.g., CrewAI, LangChain, LangGraph).
+
+- **Tech Stack**: Python-based backend with FastAPI, PostgreSQL for data persistence, and Pydantic for data validation; frontend built with Next.js (React/TypeScript), Docker for containerization, and WebSocket for bidirectional communication.
+
+- **Key Features**: Built-in AI agent frameworks (CrewAI, LangChain, LangGraph), modular architecture with Pydantic models, and pre-configured integrations for rapid deployment of production-grade AI applications.
 
 ## Why It Matters
 

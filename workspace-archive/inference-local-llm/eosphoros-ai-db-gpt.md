@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Open-source agentic AI framework enabling autonomous interaction with databases via LLMs (e.g., GPT-4, DeepSeek, Vicuna) for next-gen AI + Data products.
-- **Key Features**: Supports RAG, private/local LLM deployment, and integrates with BGI for enhanced data processing; includes security-focused architecture.
-- **Technical Stack**: Python-based, optimized for hacktoberfest contributions, and designed for scalable agentic workflows in database environments.
+- **Purpose**: Open-source agentic AI framework enabling autonomous interaction with databases via LLMs (e.g., GPT-4, DeepSeek, Vicuna) for next-gen AI+Data applications.
+- **Key Features**: Supports RAG (Retrieval-Augmented Generation), private/local LLM deployment, and integrates with BGI for enhanced data processing and security.
+- **Technical Stack**: Python-based, optimized for hacktoberfest contributions, and designed for scalable, secure database interactions in agentic workflows.
 
 ## Use Cases
 

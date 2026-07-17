@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous Coding Agent**: Provides an SDK, IDE extension, and CLI assistant for autonomous code generation, debugging, and project management.
-- **TypeScript Implementation**: Entirely built in TypeScript, enabling cross-platform compatibility and integration with modern development environments.
-- **High Activity Metrics**: 64,645 stars and 6,912 forks indicate strong community adoption and rapid development pace (last updated July 14, 2026).
+- **Autonomous Coding Agent**: Cline operates as an autonomous coding agent, functioning as an SDK, IDE extension, or CLI assistant to automate software development tasks.
+
+- **TypeScript-Based Implementation**: The project is built entirely in TypeScript, enabling cross-platform compatibility and integration with modern development environments.
+
+- **High Activity & Maintenance**: With 64,743 stars and 6,928 forks, Cline demonstrates significant community engagement, and its last update (July 1
 
 ## Use Cases
 

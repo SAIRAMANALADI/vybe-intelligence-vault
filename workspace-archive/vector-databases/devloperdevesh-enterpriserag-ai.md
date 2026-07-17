@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - typescript
 selection_reason:
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native technologies and eBPF for runtime monitoring and enforcement.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using eBPF for low-overhead runtime monitoring and enforcement within Linux environments.
 
-- **Enterprise-Grade RAG System**: Combines FastAPI backend with TypeScript, leveraging vector databases and GenAI/LLM pipelines for scalable Retrieval-Augmented Generation (RAG) in SaaS environments.
+- **Enterprise-Grade RAG Pipeline**: Combines FastAPI backend with TypeScript components to deliver a scalable Retrieval-Augmented Generation (RAG) system optimized for SaaS AI deployments and vector database integration.
 
-- **Security-First Architecture**: Designed for multi-tenant SaaS-AI deployments with governance controls, ensur
+- **Security-First Architecture**: Enforces governance policies via eBPF-powered h
 
 ## Use Cases
 

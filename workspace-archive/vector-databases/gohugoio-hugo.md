@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Hugo v0.164.0** introduces dark/light mode support for Chroma syntax highlighting, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and Pandoc citation support, alongside fixes for a performance regression introduced in v0.128.0.
+- **Hugo v0.164.0** introduces dark/light mode pairs for Chroma highlighter styles, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and Pandoc citation support, alongside fixes for a performance regression introduced in v0.128.0.
 
-- **Deprecation & Performance**: Resources.PostProcess is deprecated in favor of `templates.Defer`, and `hugio.Speedup hasBytesWriter` improves I/O performance.
+- **Deprecations & Enhancements**: Resources.PostProcess is deprecated in favor of `templates.Defer`, and markup.rst.syntaxHighlight option is added for RST syntax highlighting configuration.
 
-- **Dependency Updates**: Upgrades include Go modules (`x/tools`, `x
+- **Performance & Dependencies**: Optimi
 
 ## Use Cases
 

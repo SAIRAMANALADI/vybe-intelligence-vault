@@ -6,10 +6,10 @@ source_url: https://android.googlesource.com
 resource_id: blog:android-git-repositories-git-at-google
 local_vault_path: ai/rag/android-git-repositories-git-at-google.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
-resource_kind: framework
-importance: high
+resource_kind: benchmark
+importance: medium
 tags:
 - benchmark
 - frontend_ui
@@ -23,7 +23,7 @@ tags:
 - scripts
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # android Git repositories - Git at Google
@@ -31,17 +31,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Official Android Git Repository**: Hosted on `android.googlesource.com`, providing open-source Git repositories for Android OS, kernel, device-specific code, accessories, and Brillo/embedded projects.
-- **Device-Specific Repositories**: Contains kernel (`*-kernel`), sepolicy (`*-sepolicy`), and device-specific code for multiple Google devices (e.g., `bluejay`, `coral`, `lynx`, `shusky`) with versioned kernel branches (e.g., `5.10`, `6.1`).
-- **Build & Accessory Support**: Includes manifests
+- **Android Git Repository Structure**: Hosted on `android.googlesource.com`, the repository contains kernel, device-specific, and accessory-related code (e.g., `device/google/bluejay-kernel`, `device/google/accessory/arduino`) with versioned kernel branches (e.g., `5.10`, `6.1`).
+
+- **Code Review & Access Control**: Google’s Gerrit-based code review system (`android-review.googlesource.com`) integrates with OAuth2 for authentication, requiring signed-in access via Google accounts for repository
 
 ## Use Cases
 

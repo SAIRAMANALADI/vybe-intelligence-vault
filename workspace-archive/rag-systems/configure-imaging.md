@@ -2,7 +2,7 @@
 title: Configure imaging
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://gohugo.io/configuration/imaging/#avif-images
+source_url: https://gohugo.io/configuration/imaging/#avif
 resource_id: blog:configure-imaging
 local_vault_path: ai/rag/configure-imaging.md
 quality_score: 70
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Image Processing Configuration**: Hugo's `imaging` settings support format-specific parameters for AVIF (`compression`, `encoderSpeed`, `hint`, `quality`), JPEG (`quality`), and WebP (`compression`, `hint`, `method`, `quality`, `useSharpYuv`), with defaults optimized for photographic content (`anchor: smart`, `resampleFilter: box`, `bgColor: ffffff`).
+- **Image Processing Defaults**: Hugo's `imaging` config supports AVIF (lossy/lossless, `encoderSpeed: 1-10`, `hint: photo/picture/etc.`), JPEG (`quality: 1-100`), and WebP (`compression: lossy/lossless`, `method: 0-6`, `useSharpYuv: bool`) with format-specific settings replacing deprecated global `compression`, `hint`, and `quality` options.
 
-- **Metadata Handling**: The `meta` method filters EXIF/IPTC metadata using glob patterns (`fields`) to exclude technical tags (e.g., `GPS`,
+- **Resampling & Metadata Control**: Top-level settings include `anchor: smart|TopLeft|...`, `resampleFilter: box|lanczos|...`, `bgColor: hex`, and `exif`
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://gohugo.io/configuration/imaging/#avif-images
+Original source URL: https://gohugo.io/configuration/imaging/#avif
 
 ## Local Vault File
 

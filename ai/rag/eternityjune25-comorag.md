@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-17T14:03:44.015423+05:30'
+collected_at: '2026-07-18T01:07:38.087939+05:30'
 published_at: '2026-07-13T12:27:27Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-17T14:03:44.015423+05:30'
-last_seen: '2026-07-17T14:03:44.015423+05:30'
-last_checked: '2026-07-17T14:03:44.015423+05:30'
+first_seen: '2026-07-18T01:07:38.087939+05:30'
+last_seen: '2026-07-18T01:07:38.087939+05:30'
+last_checked: '2026-07-18T01:07:38.087939+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework inspired by human memory organization, enabling stateful long-form narrative reasoning via structured memory modules.
+- **Cognitive-Inspired Architecture**: Introduces a memory-organized RAG (Retrieval-Augmented Generation) framework that mimics human-like memory structures for stateful long narrative reasoning, enhancing contextual coherence in multi-turn dialogues.
 
-- **Memory Organization**: Implements hierarchical, context-aware memory structures (e.g., episodic/semantic layers) to dynamically store, retrieve, and synthesize information for coherent multi-turn reasoning.
+- **Stateful Reasoning Mechanism**: Implements a dynamic memory update and retrieval system that maintains narrative consistency across extended interactions, leveraging episodic and semantic memory modules for improved long-term dependency modeling.
 
-- **Stateful Reasoning**: Enables persistent context tracking across extended interactions, leveraging memory retrieval to mitigate hallucinations and improve factual consistency in long narratives.
+- **AAAI 2026 Poster Submission**: Presents empirical results demonstrating superior performance in narrative reasoning tasks compared to traditional RAG baselines, with codebase in Python and modular design for extensibility.
 
 ## Why It Matters
 

@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-07-17T14:03:29.026423+05:30'
+collected_at: '2026-07-18T01:07:23.015738+05:30'
 published_at: '2026-07-17T06:42:04Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - typescript
 stars: 14
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-17T06:41:55Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-07-17T14:03:29.026423+05:30'
-last_seen: '2026-07-17T14:03:29.026423+05:30'
-last_checked: '2026-07-17T14:03:29.026423+05:30'
+first_seen: '2026-07-18T01:07:23.015738+05:30'
+last_seen: '2026-07-18T01:07:23.015738+05:30'
+last_checked: '2026-07-18T01:07:23.015738+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native technologies and eBPF for runtime monitoring and enforcement.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using eBPF for low-overhead runtime monitoring and enforcement within Linux environments.
 
-- **Enterprise-Grade RAG System**: Combines FastAPI backend with TypeScript, leveraging vector databases and GenAI/LLM pipelines for scalable Retrieval-Augmented Generation (RAG) in SaaS environments.
+- **Enterprise-Grade RAG Pipeline**: Combines FastAPI backend with TypeScript components to deliver a scalable Retrieval-Augmented Generation (RAG) system optimized for SaaS AI deployments and vector database integration.
 
-- **Security-First Architecture**: Designed for multi-tenant SaaS-AI deployments with governance controls, ensuring secure, auditable, and compliant AI agent operations.
+- **Security-First Architecture**: Enforces governance policies via eBPF-powered hooks, ensuring real-time threat detection and compliance for multi-agent AI workloads in production environments.
 
 ## Why It Matters
 

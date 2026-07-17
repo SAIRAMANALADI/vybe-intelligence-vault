@@ -15,30 +15,30 @@ This index groups resources by direct developer use-cases and design goals.
 ## Orchestrating Multi-Agent Logic
 
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/scotthavird-crewai-template.md))
+- [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/nirdiamant-agents-towards-production.md))
+- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/sri-krishna-v-awesome-adk-agents.md))
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [langgenius/dify](https://github.com/langgenius/dify) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/langgenius-dify.md))
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/yonatangross-orchestkit.md))
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/girijesh-ai-ai-interview-codex.md))
-- [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/run-llama-llama-deploy.md))
-- [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
-- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/sri-krishna-v-awesome-adk-agents.md))
 
 ## Document Knowledge base & Search (RAG)
 
-- [streamlit/example-app-langchain-rag](https://github.com/streamlit/example-app-langchain-rag) (Category: `vector-databases` | [`Local File`](../../ai/rag/streamlit-example-app-langchain-rag.md))
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Category: `vector-databases` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
+- [Main · Workflow runs · weaviate/weaviate-python-client · GitHub](https://github.com/weaviate/weaviate-python-client/actions/workflows/main.yaml) (Category: `vector-databases` | [`Local File`](../../ai/rag/weaviate-weaviate-python-client.md))
 - [Pinecone · GitHub](https://github.com/pinecone-io) (Category: `vector-databases` | [`Local File`](../../ai/rag/pinecone-github.md))
-- [streamlit/example-app-langchain-rag](https://github.com/streamlit/example-app-langchain-rag) (Category: `rag-systems` | [`Local File`](../../ai/rag/streamlit-example-app-langchain-rag.md))
-- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------) (Category: `rag-systems` | [`Local File`](../../ai/rag/truefoundry-cognita.md))
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Category: `rag-systems` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
-- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (Category: `rag-systems` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
-- [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (Category: `rag-systems` | [`Local File`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md))
+- [truefoundry/cognita](https://github.com/truefoundry/cognita) (Category: `rag-systems` | [`Local File`](../../ai/rag/truefoundry-cognita-2.md))
+- [Main · Workflow runs · weaviate/weaviate-python-client · GitHub](https://github.com/weaviate/weaviate-python-client/actions/workflows/main.yaml) (Category: `rag-systems` | [`Local File`](../../ai/rag/weaviate-weaviate-python-client.md))
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Category: `rag-systems` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `rag-systems` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (Category: `vector-databases` | [`Local File`](../../ai/rag/datawhalechina-all-in-rag.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `vector-databases` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 
 ## Model Selection, Inference & Cost Profiling
 
-- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app) (Category: `observability` | [`Local File`](../../ai/rag/ajac-zero-example-rag-app.md))
 - [langgenius/dify](https://github.com/langgenius/dify) (Category: `model-providers` | [`Local File`](../../ai/rag/langgenius-dify.md))
-- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app) (Category: `model-providers` | [`Local File`](../../ai/rag/ajac-zero-example-rag-app.md))
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Category: `model-providers` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) (Category: `model-providers` | [`Local File`](../../ai/rag/quivrhq-quivr.md))
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) (Category: `model-providers` | [`Local File`](../../ai/agents/sickn33-agentic-awesome-skills.md))
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (Category: `model-providers` | [`Local File`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md))
 - [Quantize with Confidence? An Empirical Study of Quantization for Code Generation](https://arxiv.org/abs/2607.14181) (Category: `inference-local-llm` | [`Local File`](../../ai/research/arxiv-2607-14181.md))
@@ -49,28 +49,28 @@ This index groups resources by direct developer use-cases and design goals.
 
 - [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/google-cloud-platform-github.md))
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
-- [langgenius/dify](https://github.com/langgenius/dify) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/langgenius-dify.md))
+- [truefoundry/cognita](https://github.com/truefoundry/cognita) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/truefoundry-cognita-2.md))
+- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/jamwithai-production-agentic-rag-course.md))
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/datawhalechina-all-in-rag.md))
 - [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/vivekmalhan666-rag-beginner-guide.md))
-- [streamlit/example-app-langchain-rag](https://github.com/streamlit/example-app-langchain-rag) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/streamlit-example-app-langchain-rag.md))
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
 - [Neo4j · GitHub](https://github.com/neo4j) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/neo4j-github.md))
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
-- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/truefoundry-cognita.md))
 
 ## Script Automations & External API Integration
 
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (Category: `automation-workflows` | [`Local File`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) (Category: `ai-tools-products` | [`Local File`](../../ai/agents/sickn33-agentic-awesome-skills.md))
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (Category: `automation-workflows` | [`Local File`](../../ai/resources/model-context-protocol-github.md))
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (Category: `automation-workflows` | [`Local File`](../../ai/resources/black-forest-labs-github.md))
+- [truefoundry/cognita](https://github.com/truefoundry/cognita) (Category: `automation-workflows` | [`Local File`](../../ai/rag/truefoundry-cognita-2.md))
+- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (Category: `automation-workflows` | [`Local File`](../../ai/rag/jamwithai-production-agentic-rag-course.md))
 - [langgenius/dify](https://github.com/langgenius/dify) (Category: `automation-workflows` | [`Local File`](../../ai/rag/langgenius-dify.md))
-- [malonge/RaGOO](https://github.com/malonge/RaGOO) (Category: `automation-workflows` | [`Local File`](../../ai/rag/malonge-ragoo.md))
-- [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (Category: `automation-workflows` | [`Local File`](../../ai/rag/scotthavird-crewai-template.md))
-- [cli/docs/install_linux.md at trunk · cli/cli · GitHub](https://github.com/cli/cli/blob/trunk/docs/install_linux.md#debian) (Category: `automation-workflows` | [`Local File`](../../ai/rag/cli-cli.md))
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Category: `automation-workflows` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
+- [Main · Workflow runs · weaviate/weaviate-python-client · GitHub](https://github.com/weaviate/weaviate-python-client/actions/workflows/main.yaml) (Category: `automation-workflows` | [`Local File`](../../ai/rag/weaviate-weaviate-python-client.md))
 
 ## Streaming UI Layouts & Next.js AI SaaS Templates
 
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (Category: `frontend-ai-ui` | [`Local File`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md))
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
+- [truefoundry/cognita](https://github.com/truefoundry/cognita) (Category: `llm-app-templates` | [`Local File`](../../ai/rag/truefoundry-cognita-2.md))
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (Category: `startup-builder` | [`Local File`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md))
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (Category: `llm-app-templates` | [`Local File`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md))
 - [Future Confidence Distillation in Large Language Models](https://arxiv.org/abs/2607.07626) (Category: `llm-app-templates` | [`Local File`](../../ai/research/arxiv-2607-07626.md))
@@ -91,6 +91,7 @@ This index groups resources by direct developer use-cases and design goals.
 
 ## Curriculums & Reference Projects
 
+- [truefoundry/cognita](https://github.com/truefoundry/cognita) (Category: `project-ideas` | [`Local File`](../../ai/rag/truefoundry-cognita-2.md))
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (Category: `project-ideas` | [`Local File`](../../ai/rag/scotthavird-crewai-template.md))
 - [Get Started - The Go Programming Language](https://go.dev/learn) (Category: `learning-paths` | [`Local File`](../../ai/resources/get-started-the-go-programming-language.md))
 - [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (Category: `learning-paths` | [`Local File`](../../ai/research/arxiv-2507-16696.md))
@@ -98,7 +99,6 @@ This index groups resources by direct developer use-cases and design goals.
 - [Unity Essentials Pathway - Learn Game Development for Beginners | Unity Learn](https://learn.unity.com/pathway/unity-essentials) (Category: `learning-paths` | [`Local File`](../../ai/rag/unity-essentials-pathway-learn-game-development-fo.md))
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (Category: `learning-paths` | [`Local File`](../../ai/agents/bitbucket-atlassian-community.md))
 - [Modeling Complex Behaviors: Multi-Personality Composition and Dynamic Switching in Vision-Language Models](https://arxiv.org/abs/2606.11074) (Category: `project-ideas` | [`Local File`](../../ai/research/arxiv-2606-11074.md))
-- [Are LLMs Bad at Moral Reasoning?](https://arxiv.org/abs/2606.11635) (Category: `project-ideas` | [`Local File`](../../ai/research/arxiv-2606-11635.md))
 
 ---
-*Last updated: 2026-07-17 14:19 IST*
+*Last updated: 2026-07-18 01:22 IST*

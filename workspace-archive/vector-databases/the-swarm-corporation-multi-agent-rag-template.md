@@ -6,7 +6,7 @@ source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
 local_vault_path: ai/rag/the-swarm-corporation-multi-agent-rag-template.md
 quality_score: 70
-archive_score: 81
+archive_score: 83
 archive_tier: useful
 resource_kind: template
 importance: medium
@@ -17,7 +17,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -28,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 83 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -36,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a collaborative framework using **CrewAI**, **AutoGen**, and **Swarm** paradigms to distribute document processing tasks among specialized AI agents (e.g., retrieval, analysis, synthesis).
-- **RAG Pipeline Integration**: Supports **LangChain**, **ChromaDB**, **Weaviate**, and **Pinecone** for vector embeddings, retrieval, and contextual augmentation, with compatibility for **GPT-3.5/4/5** and **Anthropic** models.
-- **Deployment & Extensibility**: Inclu
+- **Multi-Agent Architecture**: Implements a collaborative framework using agents (e.g., CrewAI, AutoGen) to distribute document processing, analysis, and insight generation tasks across specialized AI models (e.g., GPT-3.5/4, GPT-5, Anthropic).
+
+- **RAG Pipeline Integration**: Leverages retrieval-augmented generation (RAG) with vector databases (ChromaDB, Pinecone, Weaviate) to enable context-aware document querying and synthesis.
+
+- **Modular Tooling**: Supports Discord integration for real-ti
 
 ## Use Cases
 

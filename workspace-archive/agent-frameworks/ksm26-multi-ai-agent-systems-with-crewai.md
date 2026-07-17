@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Specialized AI Agent Teams**: Demonstrates how to design and organize specialized AI agents using the open-source `crewAI` library to automate complex, multi-step business processes (e.g., financial analysis, customer support, event planning).
+- **Specialized AI Agent Teams**: Demonstrates how to design and organize specialized AI agents into teams using the open-source `crewAI` library to automate complex, multi-step business processes (e.g., financial analysis, customer support, event planning).
 
-- **Multi-Agent System Integration**: Focuses on role-playing, natural language prompting, and custom tool integration to optimize workflows, manage errors, and enable cooperative agent behavior for tasks like resume tailoring and technical writing.
+- **Modular Workflow Optimization**: Focuses on role-playing, natural language prompting, and custom tool integration to optimize AI workflows, enabling error handling, task automation, and complex task management (e.g., resume tailoring, t
 
 ## Use Cases
 

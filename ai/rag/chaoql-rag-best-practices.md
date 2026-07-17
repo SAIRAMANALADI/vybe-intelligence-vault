@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-07-17T14:02:58.955628+05:30'
+collected_at: '2026-07-18T01:06:52.980467+05:30'
 published_at: '2026-07-05T01:00:39Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
-- workflows
 stars: 95
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-07-17T14:02:58.955628+05:30'
-last_seen: '2026-07-17T14:02:58.955628+05:30'
-last_checked: '2026-07-17T14:02:58.955628+05:30'
+first_seen: '2026-07-18T01:06:52.980467+05:30'
+last_seen: '2026-07-18T01:06:52.980467+05:30'
+last_checked: '2026-07-18T01:06:52.980467+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular components for indexing, retrieval, and generation in Python.
-- **Performance Benchmarking**: Includes evaluation metrics and comparison tools for assessing RAG pipelines against baseline models.
-- **Scalable Architecture**: Designed for distributed retrieval and parallel processing, leveraging vector databases (e.g., FAISS, Milvus) for high-throughput RAG workflows.
+- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular Python components for indexing, retrieval, and generation pipelines.
+- **Technical Stack**: Leverages Python-based libraries (e.g., LangChain, FAISS, or HuggingFace) for efficient vector storage, semantic search, and LLM integration.
+- **Evaluation Metrics**: Includes benchmarking tools for assessing retrieval quality (e.g., MRR, Hit Rate) and generation performance (e.g., BLEU, ROUGE) to validate RAG efficacy.
 
 ## Why It Matters
 

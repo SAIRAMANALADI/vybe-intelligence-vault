@@ -1,53 +1,71 @@
 ---
-title: cli/docs/install_linux.md at trunk · cli/cli · GitHub
+title: cli/cli
 category: ai/rag
-source_type: web
-source_name: Web Discovery
-source_url: https://github.com/cli/cli/blob/trunk/docs/install_linux.md#debian
-published_at: '2026-07-14T13:05:32.179572+05:30'
-collected_at: '2026-07-14T13:05:32.179586+05:30'
+source_type: github
+source_name: GitHub Discovery
+source_url: https://github.com/cli/cli
+collected_at: '2026-07-18T01:15:33.262553+05:30'
+published_at: '2026-07-17T19:09:22Z'
 tags:
+- github-repo
+- go
 - hackernews
 - rag
-- reddit
-- web-crawled
+- scripts
 - workflows
-- youtube
+stars: 45304
+language: Go
 status: active
+license: MIT
+archived: false
+created_at: '2019-10-03T15:24:53Z'
+pushed_at: '2026-07-17T10:18:56Z'
 resource_id: github:cli/cli
-first_seen: '2026-07-14T13:05:32.179586+05:30'
-last_seen: '2026-07-14T13:05:32.179586+05:30'
-last_checked: '2026-07-14T13:05:32.179586+05:30'
+first_seen: '2026-07-18T01:15:33.262553+05:30'
+last_seen: '2026-07-18T01:15:33.262553+05:30'
+last_checked: '2026-07-18T01:15:33.262553+05:30'
 health_score: 100
 ---
 
-# cli/docs/install_linux.md at trunk · cli/cli · GitHub
+# cli/cli
 
 ## Summary
 
-- Official Debian/Ubuntu installation uses signed APT repository with keyring `githubcli-archive-keyring.gpg` (SHA256: `6084d5d7bd8e288441e0e94fc6275570895da18e6751f70f057485dc2d1a811b`) and installs via `apt install gh`.
-- RPM-based systems (Fedora, RHEL, openSUSE) use signed repository via `gh-cli.repo` with key verification via `gpg --show-keys` against fingerprints `2C6106201985B60E6C7AC87323F3D4EA75716059` and `7F38BBB59D064DBCB3D84D725612B36462313325`.
-- FreeBSD/OpenBSD ports install `gh` via `pkg_add github-cli` or `make install clean` from official ports tree, while discouraged Snap packages suffer from unresolved runtime issues.
+- **Purpose**: Official GitHub CLI tool (`gh`) for interacting with GitHub repositories, issues, PRs, and APIs directly from the command line.
+- **Technical Stack**: Built in Go, leveraging GitHub’s GraphQL API v4 (`github-api-v4`) for efficient data fetching and mutation.
+- **Key Features**: Supports Git operations, GitHub API interactions, and workflow automation with a focus on CLI usability and extensibility.
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: Web Discovery
-- Category: ai/rag
-- Published: 2026-07-14T13:05:32.179572+05:30
+- Owner: cli
+- Stars: 45304
+- Forks: 8702
+- Language: Go
+- Topics: cli, git, github-api-v4, golang
+- Last Updated: 2026-07-17T19:09:22Z
+- License: MIT
+- Archived: No
+- Created At: 2019-10-03T15:24:53Z
+- Pushed At: 2026-07-17T10:18:56Z
 
-## Related Tags
+## Possible Use Cases
 
-- hackernews
-- rag
-- reddit
-- web-crawled
-- workflows
-- youtube
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 
-Original source: https://github.com/cli/cli/blob/trunk/docs/install_linux.md#debian
+Original source: https://github.com/cli/cli

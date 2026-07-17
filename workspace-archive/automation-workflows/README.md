@@ -11,11 +11,11 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
+- [truefoundry/cognita](https://github.com/truefoundry/cognita) (framework - ESSENTIAL Tier)
+- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (benchmark - ESSENTIAL Tier)
 - [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
-- [malonge/RaGOO](https://github.com/malonge/RaGOO) (workflow - ESSENTIAL Tier)
+- [Main · Workflow runs · weaviate/weaviate-python-client · GitHub](https://github.com/weaviate/weaviate-python-client/actions/workflows/main.yaml) (tutorial - ESSENTIAL Tier)
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (template - ESSENTIAL Tier)
-- [cli/docs/install_linux.md at trunk · cli/cli · GitHub](https://github.com/cli/cli/blob/trunk/docs/install_linux.md#debian) (tutorial - ESSENTIAL Tier)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,9 +23,9 @@ https://github.com/n8n-io/n8n (n8n)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
+- [truefoundry/cognita](https://github.com/truefoundry/cognita)
+- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
 - [langgenius/dify](https://github.com/langgenius/dify)
-- [malonge/RaGOO](https://github.com/malonge/RaGOO)
-- [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-07-17 14:19 IST*
+*Last updated: 2026-07-18 01:22 IST*

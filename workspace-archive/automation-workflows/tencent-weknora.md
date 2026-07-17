@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal RAG & Agentic Workflow**: WeKnora converts raw documents into a queryable Retrieval-Augmented Generation (RAG) system, an autonomous reasoning agent, and a self-maintaining Wiki, supporting multimodal inputs (e.g., text, embeddings) and enabling multi-tenant deployments.
+- **Multi-Model RAG & Agent Framework**: WeKnora transforms raw documents into a **queryable RAG system**, an **autonomous reasoning agent**, and a **self-maintaining Wiki** using Go, supporting **multi-tenancy** and **multi-model LLMs** (e.g., Ollama, OpenAI).
 
-- **Go-Based Vector & Semantic Search**: Implements vector search, reranking, and semantic search via Go, integrating with models like Ollama and OpenAI, while supporting embeddings, LLM APIs, and evaluation fra
+- **Advanced Search & Evaluation**: Implements **semantic search**, **vector search**, **reranking**, and **embeddings** for high-precision retrieval, with built-in **evaluation metrics** for LLM performance.
+
+- **Modular Architecture**:
 
 ## Use Cases
 

@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IBM/mt-rag-benchmark
-collected_at: '2026-07-17T14:03:18.992446+05:30'
+collected_at: '2026-07-18T01:07:13.020960+05:30'
 published_at: '2026-07-16T03:38:47Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 148
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-12-17T19:26:10Z'
 pushed_at: '2026-07-14T01:32:02Z'
 resource_id: github:ibm/mt-rag-benchmark
-first_seen: '2026-07-17T14:03:18.992446+05:30'
-last_seen: '2026-07-17T14:03:18.992446+05:30'
-last_checked: '2026-07-17T14:03:18.992446+05:30'
+first_seen: '2026-07-18T01:07:13.020960+05:30'
+last_seen: '2026-07-18T01:07:13.020960+05:30'
+last_checked: '2026-07-18T01:07:13.020960+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Evaluates Multi-Turn Retrieval-Augmented Generation (RAG) systems with a focus on conversational context retention and iterative retrieval quality.
-- **Implementation**: Python-based benchmark with standardized metrics for assessing multi-turn RAG performance, including relevance, coherence, and retrieval efficiency.
-- **Scope**: Designed for dynamic interaction testing, enabling comparison of RAG models across extended dialogues with persistent context tracking.
+- **Benchmark Focus**: Multi-Turn Retrieval-Augmented Generation (RAG) evaluation framework designed to assess conversational RAG systems across multi-turn interactions.
+- **Technical Stack**: Implemented in Python, leveraging standard NLP/RAG libraries (e.g., HuggingFace, LangChain) for retrieval and generation tasks.
+- **Evaluation Metrics**: Includes metrics for context relevance, answer accuracy, and conversational coherence in multi-turn scenarios.
 
 ## Why It Matters
 

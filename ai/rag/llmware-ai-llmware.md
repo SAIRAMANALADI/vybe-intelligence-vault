@@ -4,17 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/llmware-ai/llmware
-collected_at: '2026-07-17T14:06:29.216465+05:30'
-published_at: '2026-07-16T13:05:15Z'
+collected_at: '2026-07-18T01:10:28.197475+05:30'
+published_at: '2026-07-17T15:30:00Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
 - rag
-stars: 14808
+- workflows
+stars: 14806
 language: Python
 status: active
 license: Apache-2.0
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-09-29T15:19:06Z'
 pushed_at: '2026-05-17T13:53:37Z'
 resource_id: github:llmware-ai/llmware
-first_seen: '2026-07-17T14:06:29.216465+05:30'
-last_seen: '2026-07-17T14:06:29.216465+05:30'
-last_checked: '2026-07-17T14:06:29.216465+05:30'
+first_seen: '2026-07-18T01:10:28.197475+05:30'
+last_seen: '2026-07-18T01:10:28.197475+05:30'
+last_checked: '2026-07-18T01:10:28.197475+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: Unified Python-based framework for constructing enterprise-grade RAG pipelines using small, specialized models (e.g., LlamaCpp, ONNX, OpenVINO) optimized for efficiency and performance.
+- **Unified RAG Pipeline Framework**: Provides an integrated Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) systems using small, specialized models optimized for efficiency (e.g., ONNX, OpenVINO, llama.cpp).
 
-- **Key Features**: Supports agents, parsing, and retrieval-augmented generation (RAG) with modular integration of generative AI tools and lightweight model backends.
+- **Multi-Model & Tooling Support**: Supports diverse model architectures (e.g., LLMs, small specialized models) and integrates parsing, retrieval, and agent-based workflows for modular pipeline design.
 
-- **Technical Stack**: Leverages Python with dependencies on parsing libraries and model inference engines (e.g., ONNX Runtime, OpenVINO) for scalable, low-latency deployments.
+- **Enterprise Optimization**: Focuses on low-latency, high-throughput deployments with hardware-aware optimizations (e.g., quantization, GPU acceleration) and last updated with recent advancements (July 2026).
 
 ## Why It Matters
 
@@ -45,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: llmware-ai
-- Stars: 14808
-- Forks: 2909
+- Stars: 14806
+- Forks: 2908
 - Language: Python
 - Topics: agents, generative-ai-tools, llamacpp, llm, onnx, openvino, parsing, retrieval-augmented-generation, small-specialized-models
-- Last Updated: 2026-07-16T13:05:15Z
+- Last Updated: 2026-07-17T15:30:00Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-09-29T15:19:06Z

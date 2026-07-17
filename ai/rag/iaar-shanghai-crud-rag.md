@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-17T14:03:18.995769+05:30'
+collected_at: '2026-07-18T01:07:13.037232+05:30'
 published_at: '2026-07-10T09:46:49Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-17T14:03:18.995769+05:30'
-last_seen: '2026-07-17T14:03:18.995769+05:30'
-last_checked: '2026-07-17T14:03:18.995769+05:30'
+first_seen: '2026-07-18T01:07:13.037232+05:30'
+last_seen: '2026-07-18T01:07:13.037232+05:30'
+last_checked: '2026-07-18T01:07:13.037232+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Introduces **CRUD-RAG**, a Chinese-language benchmark designed to evaluate **Retrieval-Augmented Generation (RAG)** systems for Large Language Models (LLMs) with a focus on **Create, Read, Update, Delete (CRUD)** operations.
-- **Evaluation Scope**: Assesses RAG performance across **multi-turn dialogues**, **long-context retrieval**, and **dynamic knowledge updates**, providing standardized metrics for Chinese-language LLM evaluation.
-- **Open-Source Toolkit**: Provides a **Python-based** repository with tools for benchmarking, including datasets, evaluation scripts, and baseline models for reproducibility.
+- **Benchmark Design**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive performance metrics across diverse tasks and datasets.
+- **Evaluation Framework**: Implements structured evaluation protocols for assessing Large Language Models (LLMs) in retrieval, generation, and combined RAG scenarios with standardized metrics.
+- **Open-Source Toolkit**: Provides a Python-based repository with modular components for benchmarking, including datasets, evaluation scripts, and baseline model implementations.
 
 ## Why It Matters
 

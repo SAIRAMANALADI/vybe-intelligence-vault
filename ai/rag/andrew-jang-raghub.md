@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Andrew-Jang/RAGHub
-collected_at: '2026-07-17T14:02:09.144167+05:30'
+collected_at: '2026-07-18T01:06:02.971039+05:30'
 published_at: '2026-07-17T06:52:59Z'
 tags:
 - github-repo
+- hackernews
 - rag
 - unknown
 stars: 1960
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-10-02T12:07:52Z'
 pushed_at: '2026-07-15T23:37:59Z'
 resource_id: github:andrew-jang/raghub
-first_seen: '2026-07-17T14:02:09.144167+05:30'
-last_seen: '2026-07-17T14:02:09.144167+05:30'
-last_checked: '2026-07-17T14:02:09.144167+05:30'
+first_seen: '2026-07-18T01:06:02.971039+05:30'
+last_seen: '2026-07-18T01:06:02.971039+05:30'
+last_checked: '2026-07-18T01:06:02.971039+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Community-driven RAG repository** aggregating open-source frameworks, projects, and resources for Retrieval-Augmented Generation (RAG), covering LLMs, NLP, and AI applications.
-- **Actively maintained** with contributions from the community, last updated in July 2026 (GitHub timestamp).
-- **Multi-topic hub** focusing on RAG, LLMs, NLP, and machine learning, with 1,960 stars and 182 forks.
+- **Curated RAG Ecosystem**: Open-source repository aggregating frameworks, projects, and resources for Retrieval-Augmented Generation (RAG) in AI/ML/NLP applications.
+- **Community-Driven**: Hosts 1,960+ stars and 182 forks, enabling collaborative contributions to the evolving RAG landscape.
+- **Technical Scope**: Focuses on large language models (LLMs), natural language processing (NLP), and retrieval-augmented generation (RAG) with last update on 2026-07-17.
 
 ## Why It Matters
 

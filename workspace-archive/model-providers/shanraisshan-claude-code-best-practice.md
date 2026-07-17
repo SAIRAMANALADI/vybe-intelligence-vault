@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic Engineering Transition**: Repository documents the shift from *vibe coding* to structured *agentic engineering* workflows, emphasizing systematic AI agent orchestration for software development tasks using Claude Code.
-
-- **Technical Best Practices**: Provides curated guidelines for *Claude Code* commands, skills, and context engineering, optimizing AI agent performance in coding workflows (e.g., modular task decomposition, error handling, and iterative refinement).
-
-- **Community-Dr
+- **Repository Overview**: Hosts curated best practices for **Claude Code** (Anthropic's AI coding agent), transitioning from "vibe coding" to structured **agentic engineering** workflows.
+- **Technical Focus**: Provides guidelines for **Claude Code commands**, **skills**, and **context engineering**, optimizing AI-driven development pipelines.
+- **Community & Updates**: Actively maintained (last updated **2026-07-17**), with **62,978 stars** and **6,305 forks**, emphasizing **agentic AI workflo
 
 ## Use Cases
 

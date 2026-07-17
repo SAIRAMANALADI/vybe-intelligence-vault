@@ -8,7 +8,7 @@ local_vault_path: ai/rag/what-is-artificial-intelligence-web-dev.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: prompt
+resource_kind: dataset
 importance: medium
 tags:
 - anthropic
@@ -31,15 +31,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: prompt
+- Resource kind: dataset
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **AI Fundamentals**: AI refers to non-human programs/models performing complex problem-solving, creativity, and generative tasks (e.g., content creation) via machine learning (ML) algorithms trained on large datasets. Foundational models (e.g., LLMs) leverage pre-training for broad applicability, while smaller models (SLMs) optimize for specific tasks.
+- **AI Fundamentals**: AI refers to non-human programs/models performing problem-solving and creativity tasks, including generative AI which creates new content; capabilities vary widely across implementations.
 
-- **AI Deployment Models**: AI inference occurs either client-side (browser-based, e.g., Transformers.js, TensorFlow.js) for low latency/priva
+- **AI Deployment Models**: Client-side AI (browser-based inference with libraries like TensorFlow.js) offers low latency and privacy, while server-side AI (e.g., cloud-based LLMs) provides higher performance; hybrid approaches combine both.
+
+- **Key Challenges**: AI faces issues like ou
 
 ## Use Cases
 

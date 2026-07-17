@@ -39,7 +39,9 @@ selection_reason:
 
 ## Summary
 
-*   Deep Agents facilitate RAG through patterns including skills-guided retrieval, rubric-
+- **RAG Patterns in Deep Agents**: Supports skills-guided retrieval, rubric-checked grounding, todo-driven investigation, and retrieve-offload-delegate workflows; leverages custom retrieval tools, filesystem backends, subagents, skills, and grading rubrics for flexible RAG implementations.
+
+- **Retrieval-Augmented Generation (RAG) Workflow**: Indexes LangChain documentation by loading/splitting documents, embedding chunks via OpenAI (or alternatives), storing in a VectorStore, and retrieving rel
 
 ## Use Cases
 

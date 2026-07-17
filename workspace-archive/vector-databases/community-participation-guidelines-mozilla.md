@@ -2,13 +2,13 @@
 title: Community Participation Guidelines — Mozilla
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://www.mozilla.org/about/governance/policies/participation
+source_url: https://www.mozilla.org/about/governance/policies/participation/
 resource_id: blog:community-participation-guidelines-mozilla
 local_vault_path: ai/rag/community-participation-guidelines-mozilla.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - hackernews
@@ -17,7 +17,7 @@ tags:
 - web-crawled
 - youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Community Participation Guidelines — Mozilla
@@ -26,17 +26,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Scope & Applicability**: Guidelines apply to all Mozilla community interactions (online/offline), including events, forums, and social media, with enforcement extending to off-platform actions that impact community health.
+- **Inclusive Participation Framework**: Mozilla's guidelines enforce respectful, professional conduct across all community interactions (online/offline), mandating inclusion of diverse perspectives (e.g., remote participants, non-native speakers) and prohibiting derogatory language, violence, or unwelcome physical/sexual advances.
 
-- **Prohibited Behaviors**: Explicitly bans violence/threats, personal attacks, derogatory language (including misgendering), unwelcome sexual advances, disruptive behavior (heckling, intoxication), and retaliation against reporters.
-
-- **Enforcement & Reporting**: Violat
+- **Accountability & Enforcement**: Violations trigger escalating consequences, from temporary removal to permanent bans; Mozilla staff face additional disciplinary
 
 ## Use Cases
 
@@ -46,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.mozilla.org/about/governance/policies/participation
+Original source URL: https://www.mozilla.org/about/governance/policies/participation/
 
 ## Local Vault File
 

@@ -6,17 +6,14 @@ source_url: https://github.com/pathwaycom/llm-app
 resource_id: github:pathwaycom/llm-app
 local_vault_path: ai/rag/pathwaycom-llm-app-2.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: template
 importance: medium
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
-- openai
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -27,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +32,8 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides cloud-ready templates for **RAG pipelines**, **AI workflows**, and **enterprise search** with **real-time data synchronization** from sources like SharePoint, Google Drive, S3, Kafka, PostgreSQL, and APIs.
-- **Technical Stack**: **Dockerized** implementation (Jupyter Notebook-based) supporting **LLM integration** (Hugging Face, OpenAI), **vector databases**, **live data APIs**, and **LLMOps/security** best practices.
-- **Features**: **Real-time retrieval-augmented generat
+*   Provides Docker-friendly, pre-built templates for Retrieval Augmented Generation (RAG), AI pipelines, and enterprise search applications.
+*
 
 ## Use Cases
 

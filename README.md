@@ -9,9 +9,9 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-62%2C753-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-62%2C940-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
-[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--17-374151?style=flat-square)](#)
+[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--18-374151?style=flat-square)](#)
 
 [Overview](#-overview) · [How It Works](#-how-it-works) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [Vault Stats](#-vault-stats) · [Contributing](#-contributing)
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 12,686</p>
-        <p><b>Active:</b> 12,400 | <b>Inactive:</b> 286</p>
+        <p><b>Resources tracked:</b> 12,734</p>
+        <p><b>Active:</b> 12,441 | <b>Inactive:</b> 293</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 50,067</p>
+        <p><b>Archive Files:</b> 50,206</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 62,753 files</p>
-        <p><b>Last Update:</b> 2026-07-17 23:35 IST</p>
+        <p><b>Total Vault Size:</b> 62,940 files</p>
+        <p><b>Last Update:</b> 2026-07-18 01:22 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,29 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Stainless · GitHub](ai/resources/stainless-github.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Integrations | Astro](ai/rag/integrations-astro.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Styles and CSS | Docs](web-development/tailwind/styles-and-css-docs.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Built-in AI | AI on Chrome | Chrome for Developers](ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Keras: Deep Learning for humans](ai/rag/keras-deep-learning-for-humans.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[EEG shows brain can simultaneous encode two speech streams](ai/community/eeg-shows-brain-can-simultaneous-encode-two-speech.md)** • <kbd>+170 pts</kbd> • Rank: <kbd>+3</kbd>
+- 🔼 **[Legal - Apple Privacy Policy - Apple](ai/rag/legal-apple-privacy-policy-apple.md)** • Rank: <kbd>+44</kbd>
+- 🔼 **[Official Apple Support Community](ai/rag/official-apple-support-community.md)** • Rank: <kbd>+6053</kbd>
+- 🔼 **[Apple Vision Pro - Apple](ai/resources/apple-vision-pro-apple.md)** • Rank: <kbd>+6023</kbd>
+- 🔼 **[SpeechifyInc/ai-api-examples](ai/resources/speechifyinc-ai-api-examples.md)** • Rank: <kbd>+36</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Apple targets dozens of OpenAI employees with legal letters](ai/community/apple-targets-dozens-of-openai-employees-with-lega.md)** • Score: `305`
+- 🆕 **[Mozilla: The state of open source AI](ai/community/mozilla-the-state-of-open-source-ai.md)** • Score: `275`
+- 🆕 **[AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM](ai/community/ai-meets-cryptography-2-what-ai-found-in-openvm-s.md)** • Score: `60`
+- 🆕 **[VulnHunter: Capital One's agentic AI code security tool](ai/community/vulnhunter-capital-one-s-agentic-ai-code-security.md)** • Score: `46`
+- 🆕 **[Legal - Website Terms of Use - Apple](ai/agents/legal-website-terms-of-use-apple.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](ai/community/100-ai-music-video-claude-fable-5-vs-gpt-5-6-sol.md)**
+- 💤 **[LM Studio Bionic: the AI agent for open models](ai/community/lm-studio-bionic-the-ai-agent-for-open-models.md)**
+- 💤 **[The LLM Critics Are Right. I Use LLMs Anyway](ai/community/the-llm-critics-are-right-i-use-llms-anyway.md)**
+- 💤 **[Detecting LLM-Generated Texts with “Classical” Machine Learning](ai/community/detecting-llm-generated-texts-with-classical-machi.md)**
+- 💤 **[How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](ai/community/how-to-train-a-gen-ai-kick-drum-model-on-your-old.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

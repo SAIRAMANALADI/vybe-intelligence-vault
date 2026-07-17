@@ -14,6 +14,7 @@ tags:
 - agents
 - github-repo
 - go
+- hackernews
 selection_reason:
 - Useful for project building
 ---
@@ -30,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-*   Implements a security governance framework tailored for agentic AI systems.
-*   Developed in Go, indicating a focus on performance and system-level integration for AI defense mechanisms.
-*   Addresses the unique security challenges posed by autonomous AI agents through structured oversight and control.
+- **Purpose**: DefenseClaw is a security governance framework designed to secure agentic AI systems, providing mechanisms for policy enforcement, threat detection, and compliance monitoring in AI-driven environments.
+
+- **Technical Stack**: Implemented in Go, the repository focuses on high-performance, concurrent security controls tailored for agentic AI architectures, including policy engines and runtime integrity verification.
+
+- **Key Features**: Enables real-time security governance via poli
 
 ## Use Cases
 

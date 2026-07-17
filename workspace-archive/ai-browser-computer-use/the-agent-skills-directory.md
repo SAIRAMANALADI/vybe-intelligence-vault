@@ -8,7 +8,7 @@ local_vault_path: ai/agents/the-agent-skills-directory.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -19,10 +19,10 @@ tags:
 - meta-ai
 - models
 - paper
+- producthunt
 - reddit
-- web-crawled
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # The Agent Skills Directory
@@ -31,17 +31,24 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Top 3 most installed skills**: `find-skills` (2.2M), `frontend-design` (582.8K), `vercel-react-best-practices` (498.2K), indicating high demand for AI-assisted frontend development and skill discovery tools.
+- **Top 3 Skills by Install Count**:
+  - `find-skills` (vercel-labs/skills): **2.5M** installs
+  - `frontend-design` (anthropics/skills): **675.3K** installs
+  - `grill-me` (mattpocock/skills): **583.8K** installs
 
-- **Dominant contributors**: Microsoft (`azure-skills` with 6.1M total installs), Vercel Labs (`agent-skills` with 4.5M+ installs), and Anthropic (`skills` with 1M+ installs), showcasing enterprise and AI-driven tooling focus.
+- **Top Microsoft Azure Skills**:
+  - `microsoft-foundry` (microsoft/azure-skills): **462.4K** installs
+  - `azure-ai` (microsoft/azure-skills): **459.0K** installs
+  - `azure-hosted-copilot-sdk` (microsoft/azure-skills): **420.5K** installs
 
-- **Emerging AI/ML skill clusters**: Runcomfy-com/Doany-ai
+- **Top Matt Pocock Skills**:
+  - `grill-m
 
 ## Use Cases
 

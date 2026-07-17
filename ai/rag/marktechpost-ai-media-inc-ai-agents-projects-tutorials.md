@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-07-17T14:04:04.043891+05:30'
-published_at: '2026-07-15T17:06:47Z'
+collected_at: '2026-07-18T01:07:58.091463+05:30'
+published_at: '2026-07-17T17:13:07Z'
 tags:
 - agents
 - github-repo
@@ -17,11 +17,11 @@ language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2025-05-15T09:00:54Z'
-pushed_at: '2026-07-12T11:56:15Z'
+pushed_at: '2026-07-17T17:11:57Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-07-17T14:04:04.043891+05:30'
-last_seen: '2026-07-17T14:04:04.043891+05:30'
-last_checked: '2026-07-17T14:04:04.043891+05:30'
+first_seen: '2026-07-18T01:07:58.091463+05:30'
+last_seen: '2026-07-18T01:07:58.091463+05:30'
+last_checked: '2026-07-18T01:07:58.091463+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed roles, emphasizing inter-agent communication, task delegation, and conflict resolution.
-- **Memory & reasoning loops**: Implements persistent memory architectures and iterative reasoning pipelines for adaptive decision-making in dynamic environments.
-- **Agentic workflows**: Provides tutorials on orchestrating agentic AI systems for complex tasks, including RAG (Retrieval-Augmented Generation) and autonomous coding workflows.
+- Repository focuses on **multi-agent systems**, **memory management**, **planning**, and **reasoning loops** in AI agent development.
+- Contains **Jupyter Notebooks** with tutorials on **agentic AI frameworks**, **RAG workflows**, and **coding agent skills**.
+- Last updated **July 2026**; has **2,797 stars** and **611 forks** on GitHub.
 
 ## Why It Matters
 
@@ -44,10 +44,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 611
 - Language: Jupyter Notebook
 - Topics: agent-skills, agentic-ai, agentic-ai-development, agentic-coding, agentic-engineering, agentic-framework, agentic-rag, agentic-workflow, ai, aiagent, aiagents
-- Last Updated: 2026-07-15T17:06:47Z
+- Last Updated: 2026-07-17T17:13:07Z
 - Archived: No
 - Created At: 2025-05-15T09:00:54Z
-- Pushed At: 2026-07-12T11:56:15Z
+- Pushed At: 2026-07-17T17:11:57Z
 
 ## Possible Use Cases
 

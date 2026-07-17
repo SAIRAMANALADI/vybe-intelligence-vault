@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Core Functionality**: GitHub is built on Git, an open-source VCS, enabling local version control; supports secure remote access via SSH for authenticated interactions.
-- **Collaboration & CI/CD**: Facilitates collaborative coding through pull requests, repositories, and GitHub Actions for automated workflows; integrates with Codespaces for cloud-based development.
-- **Security & Extensibility**: Provides tools for securing code (e.g., CodeQL, secrets management) and APIs (REST/GraphQL
+- **GitHub Core Functionality**: GitHub relies on Git for version control, supports SSH for secure remote connections, and enables repository creation/management for collaborative development workflows.
+
+- **Collaboration & Automation**: Pull requests facilitate code review and merging, GitHub Actions enables CI/CD pipelines, and GitHub Copilot provides AI-driven code suggestions within IDEs.
+
+- **Security & Extensibility**: GitHub offers security features like secret scanning, vulnerability det
 
 ## Use Cases
 

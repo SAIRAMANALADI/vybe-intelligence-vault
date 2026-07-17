@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
+- benchmark
 - deepmind
 - hackernews
 - models
@@ -38,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Gemini API Integration**: Enables developers to integrate cutting-edge AI models (Gemini, Imagen, Veo) via API keys for app development, with support for on-device deployment (Gemini Nano on Android) and web apps via Chrome APIs.
-- **Gemma & Google AI Edge**: Open-source Gemma models allow custom AI solutions with full data control, while Google AI Edge supports on-device ML deployment across frameworks for low-latency, cost-effective generative AI features.
-- **Responsible AI & Productivity
+- **Gemini API Integration**: Provides access to advanced AI models (Gemini, Imagen, Veo) via API for app integration, with tools for prompt engineering and code generation in Google AI Studio.
+- **On-Device & Edge AI**: Supports deployment of lightweight models (e.g., **Gemini Nano**) across mobile, web, and embedded systems via **Google AI Edge**, ensuring low-latency, privacy-preserving inference.
+- **Responsible AI Development**: Offers frameworks (e.g., **SAIF**) and tools for secure, ethic
 
 ## Use Cases
 

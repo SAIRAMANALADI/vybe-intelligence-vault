@@ -16,7 +16,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any Large Language Model (LLM), enabling flexible deployment across diverse AI backends.
+- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any LLM via standardized APIs, enabling cross-model interoperability for enterprise and self-hosted deployments.
 
-- **Enterprise-Grade Features**: Implements RAG (Retrieval-Augmented Generation), vector search, and information retrieval for scalable, self-hosted AI-driven workflows.
+- **Advanced RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based similarity search for contextual information retrieval, optimized for large-scale enterprise knowledge bases.
 
-- **Tech Stack**: Built with Python (backend) and Next.js (frontend), offering modular architecture for customization and deployment in production envi
+- **Full-Stack Architecture**: Combines Python (backend) with Next.js (frontend) for
 
 ## Use Cases
 

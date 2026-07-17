@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- models
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -31,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Enhanced Code Completion**: Introduced AI-powered multi-line code completions with improved context awareness, reducing keystrokes by up to 40% in complex codebases.
-
-- **Custom Copilot Models**: Added support for fine-tuning Copilot models using proprietary codebases, enabling domain-specific suggestions while maintaining enterprise data privacy.
-
-- **Performance Optimizations**: Reduced latency in real-time code suggestions by 30% through optimized model inference and caching mechanisms in
+- **Advanced search for Projects**: Introduced generally available advanced search capabilities for GitHub Projects, enabling users to filter and query issues, pull requests, and other project data using structured queries (e.g., `status:"In Progress" label:"bug"`).
+- **Syntax & Operators**: Supports logical operators (`AND`, `OR`, `NOT`), field-specific filters (e.g., `assignee:user`, `milestone:v1.0`), and nested queries for complex filtering in Projects.
+- **Performance & Integration**: Optim
 
 ## Use Cases
 

@@ -23,6 +23,6 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 | [Scenario Compass Initiative | IIASA](https://scenariocompass.org) | `frontend-ai-ui/` | 70 |
 | [CORDIS | European Commission](https://cordis.europa.eu) | `frontend-ai-ui/` | 70 |
 | [Memberstack Dashboard](https://app.memberstack.com/signup) | `frontend-ai-ui/` | 70 |
-| [Table of contents — voila 0.5.8 documentation](https://voila.readthedocs.io/) | `frontend-ai-ui/` | 70 |
+| [EverPass](https://help.upshow.tv/hc/en-us) | `frontend-ai-ui/` | 70 |
 
 More resources will appear as the harvester collects them.

@@ -13,9 +13,9 @@ importance: medium
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular components for indexing, retrieval, and generation in Python.
-- **Performance Benchmarking**: Includes evaluation metrics and comparison tools for assessing RAG pipelines against baseline models.
-- **Scalable Architecture**: Designed for distributed retrieval and parallel processing, leveraging vector databases (e.g., FAISS, Milvus) for high-throughput RAG workflows.
+- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular Python components for indexing, retrieval, and generation pipelines.
+- **Technical Stack**: Leverages Python-based libraries (e.g., LangChain, FAISS, or HuggingFace) for efficient vector storage, semantic search, and LLM integration.
+- **Evaluation Metrics**: Includes benchmarking tools for assessing retrieval quality (e.g., MRR, Hit Rate) and generation performance (e.g., BLEU, ROUGE) t
 
 ## Use Cases
 

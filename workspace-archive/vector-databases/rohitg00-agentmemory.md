@@ -36,9 +36,9 @@ selection_reason:
 
 - **Persistent Memory System**: Implements a TypeScript-based persistent memory framework for AI coding agents, optimized for real-world benchmark performance and seamless integration with tools like ClaudeCode, Cursor, and Copilot.
 
-- **Cross-Platform Compatibility**: Supports multiple AI coding environments (e.g., OpenClaw, Hermes) with structured memory storage, enabling state retention across agent sessions and workflows.
+- **Cross-Platform Compatibility**: Supports multiple AI agent environments (e.g., OpenClaw, Hermes) with structured memory storage, enabling state retention across sessions for enhanced agent efficiency.
 
-- **High Adoption Metrics**: Achieves 25,259+ GitHub stars and 2,091+
+- **Benchmark-Driven Optimization**: Designed for high scala
 
 ## Use Cases
 

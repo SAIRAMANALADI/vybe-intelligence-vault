@@ -11,10 +11,7 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- anthropic
-- frontend_ui
 - github-repo
-- openai
 - python
 - rag
 - workflows
@@ -36,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a Streamlit app integrating LangChain with a vector store (e.g., FAISS/Chroma) and hybrid search (combining dense + sparse retrieval) for enhanced document retrieval and generation.
-
-- **Modular LangChain Components**: Utilizes LangChain’s `RetrievalQA` chain, document loaders (e.g., PyPDF), text splitters, and embeddings (e.g., HuggingFace/SentenceTransformers) for end-to-end RAG workflow.
-
-- **Streamlit UI for RAG**: Provides a reactive web interface to in
+- **Tech Stack**: Python-based Streamlit app integrating LangChain for RAG pipelines, leveraging vector stores (e.g., FAISS/Chroma) and hybrid search (combining dense + sparse retrieval).
+- **Core Functionality**: Demonstrates end-to-end RAG workflow: document ingestion → embedding → vector storage → retrieval → LLM augmentation → interactive UI.
+- **Hybrid Search Implementation**: Combines semantic (vector) and keyword (BM25/sparse) retrieval for improved accuracy, with Streamlit UI for query i
 
 ## Use Cases
 

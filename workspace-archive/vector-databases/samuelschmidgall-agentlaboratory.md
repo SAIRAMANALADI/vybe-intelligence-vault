@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **End-to-end autonomous research workflow**: Agent Laboratory automates the entire research process, from idea conceptualization to implementation, reducing manual intervention by researchers.
+- **Autonomous Research Workflow**: Agent Laboratory provides an end-to-end autonomous system designed to assist researchers in implementing research ideas, leveraging Python for execution.
 
-- **Python-based architecture**: The system is implemented in Python, leveraging modular design for extensibility and integration with research tools/libraries.
+- **Open-Source Repository**: Hosted on GitHub with 5,756 stars and 803 forks, indicating significant community engagement and adoption.
 
-- **Open-source and actively maintained**: Hosted on GitHub with 5,754 stars and 803 forks, last updated in July 2026, indicating active commu
+- **Last Updated**: The repository was last updated on **July 17, 2026**, ensuring recent maintenance and potential feature updates.
 
 ## Use Cases
 

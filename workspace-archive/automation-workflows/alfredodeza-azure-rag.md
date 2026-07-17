@@ -8,7 +8,7 @@ local_vault_path: ai/rag/alfredodeza-azure-rag.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
@@ -18,7 +18,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # alfredodeza/azure-rag
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- Implements **Retrieval Augmented Generation (RAG)** using **Azure** services (e.g., Azure Cognitive Search, OpenAI) for document retrieval and LLM augmentation.
-- Provides a **Python-based** framework with **53 stars** and **228 forks**, last updated in **April 2026**.
-- Demonstrates end-to-end workflow: **document ingestion → vector embedding → retrieval → LLM prompt augmentation** with Azure integrations.
+- **RAG Implementation**: Demonstrates Azure-based Retrieval Augmented Generation (RAG) using Python, integrating Azure services for document retrieval and generation.
+- **Repository Stats**: 53 stars, 228 forks, last updated April 23, 2026.
+- **Tech Stack**: Leverages Azure cognitive services (e.g., Azure Cognitive Search, OpenAI) for embedding and generation workflows.
 
 ## Use Cases
 

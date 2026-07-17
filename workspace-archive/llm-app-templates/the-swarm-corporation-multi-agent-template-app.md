@@ -15,7 +15,6 @@ tags:
 - github-repo
 - hackernews
 - shell
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a minimalist, high-performance template for rapidly deploying multi-agent applications with reliability.
-- **Key Features**: Supports frameworks like AutoGen, CrewAI, LangChain, and Hugging Face Transformers; includes testing and model integration.
-- **Technical Stack**: Primarily Shell-based, optimized for multi-agent systems, LLM interactions, and swarm intelligence workflows.
+- **Template Purpose**: Provides a minimal, high-performance foundation for building multi-agent applications with support for frameworks like AutoGen, CrewAI, LangChain, and HuggingFace Transformers.
+
+- **Key Features**: Includes pre-configured integrations for agentic systems, testing utilities, and model compatibility (LLMs/Transformers), optimized for reliability and scalability.
+
+- **Technical Stack**: Primarily implemented in Shell, with dependencies on agentops, swarms, and multi-agent or
 
 ## Use Cases
 

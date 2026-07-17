@@ -4,10 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-17T14:03:49.005339+05:30'
+collected_at: '2026-07-18T01:07:43.025563+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
+- benchmark
+- dataset
 - github-repo
+- hackernews
 - python
 - rag
 stars: 173
@@ -18,9 +21,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-17T14:03:49.005339+05:30'
-last_seen: '2026-07-17T14:03:49.005339+05:30'
-last_checked: '2026-07-17T14:03:49.005339+05:30'
+first_seen: '2026-07-18T01:07:43.025563+05:30'
+last_seen: '2026-07-18T01:07:43.025563+05:30'
+last_checked: '2026-07-18T01:07:43.025563+05:30'
 health_score: 100
 ---
 
@@ -28,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) over heterogeneous corpora spanning diverse modalities (e.g., text, images, tables) and granularities (e.g., documents, paragraphs, entities), addressing unified retrieval challenges across modalities.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG to support diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, etc.) via unified retrieval and generation pipelines.
 
-- **ACL 2026 Oral Contribution**: Presents a novel architecture with modality-agnostic retrieval mechanisms and adaptive granularity selection, optimizing retrieval precision and generation quality for mixed-modal inputs.
+- **Modular Architecture**: Implements a flexible, plug-and-play system with modality-specific encoders, retrievers, and fusion mechanisms, enabling dynamic adaptation to heterogeneous corpora.
 
-- **Open-Source Implementation**: Provides a Python-based reference implementation with modular components for customization, supporting integration with existing LLM pipelines and multimodal encoders (e.g., CLIP, BLIP).
+- **ACL 2026 Oral Contribution**: Introduces novel techniques for cross-modal retrieval alignment and granularity-aware generation, validated on benchmarks spanning multimodal datasets.
 
 ## Why It Matters
 

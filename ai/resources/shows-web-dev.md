@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://web.dev/shows
-published_at: '2026-06-23T01:12:27.434550+05:30'
-collected_at: '2026-06-23T01:12:27.434562+05:30'
+published_at: '2026-07-18T01:15:22.706102+05:30'
+collected_at: '2026-07-18T01:15:22.706114+05:30'
 tags:
 - hackernews
 - web-crawled
 - youtube
 status: active
 resource_id: blog:shows-web-dev
-first_seen: '2026-06-23T01:12:27.434562+05:30'
-last_seen: '2026-06-23T01:12:27.434562+05:30'
-last_checked: '2026-06-23T01:12:27.434562+05:30'
+first_seen: '2026-07-18T01:15:22.706114+05:30'
+last_seen: '2026-07-18T01:15:22.706114+05:30'
+last_checked: '2026-07-18T01:15:22.706114+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **This is Baseline**: Series of short videos introducing new web platform features and their practical implementation.
-- **WasmAssembly**: Podcast series exploring WebAssembly (Wasm) advancements, interviewing experts on its evolution and applications.
-- **HTTP 203**: Developer-focused show where Jake Archibald and Surma discuss web dev philosophies, techniques, and industry insights.
+- **This is Baseline**: Series of short videos introducing new web platform features and their implementation.
+- **WasmAssembly**: Podcast series discussing WebAssembly (Wasm) developments, past, present, and future, with community experts.
+- **HTTP 203**: Google Developers Jake Archibald and Surma discuss web development philosophies, techniques, and insights.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-23T01:12:27.434550+05:30
+- Published: 2026-07-18T01:15:22.706102+05:30
 
 ## Related Tags
 

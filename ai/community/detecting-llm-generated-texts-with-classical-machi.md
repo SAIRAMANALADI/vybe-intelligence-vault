@@ -15,13 +15,14 @@ tags:
 - llm
 - machine learning
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:detecting-llm-generated-texts-with-classical-machi
 first_seen: '2026-07-17T14:00:36.778449+05:30'
 last_seen: '2026-07-17T14:00:36.778449+05:30'
 last_checked: '2026-07-17T14:00:36.778449+05:30'
 health_score: 100
 ---
+
 
 # Detecting LLM-Generated Texts with “Classical” Machine Learning
 

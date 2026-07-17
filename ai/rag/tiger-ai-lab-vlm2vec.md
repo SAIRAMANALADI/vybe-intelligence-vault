@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-07-17T14:03:49.023073+05:30'
+collected_at: '2026-07-18T01:07:43.061680+05:30'
 published_at: '2026-07-14T15:02:08Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - youtube
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-10-07T15:14:52Z'
 pushed_at: '2026-06-24T06:17:09Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-07-17T14:03:49.023073+05:30'
-last_seen: '2026-07-17T14:03:49.023073+05:30'
-last_checked: '2026-07-17T14:03:49.023073+05:30'
+first_seen: '2026-07-18T01:07:43.061680+05:30'
+last_seen: '2026-07-18T01:07:43.061680+05:30'
+last_checked: '2026-07-18T01:07:43.061680+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: Repository hosts **VLM2Vec/MMEB (ICLR 2025)**, **VLM2Vec-V2/MMEB-V2 (TMLR 2026)**, and **MMEB-V3 (COLM 2026)**, providing standardized benchmarks for evaluating **Vision-Language Models (VLMs)** across tasks like image retrieval, video retrieval, and visual document retrieval.
+- **Multi-modal Embedding Benchmark (MMEB) Suite**: Repository hosts three benchmarking frameworks—VLM2Vec (ICLR 2025), VLM2Vec-V2 (TMLR 2026), and MMEB-V3 (COLM 2026)—designed to evaluate contrastive learning-based visual-language models (VLMs) across tasks like image, video, and visual document retrieval.
 
-- **Contrastive Learning Framework**: Implements **contrastive learning** for generating high-quality **multimodal embeddings**, enabling efficient retrieval and representation learning for VLMs in tasks such as **RAG (Retrieval-Augmented Generation)**.
+- **Technical Focus**: Implements representation learning via contrastive objectives, enabling zero-shot and fine-tuned evaluations for multimodal embeddings, with support for retrieval tasks (e.g., RAG, image/video/document search).
 
-- **Python-Based Toolkit**: Open-source repository with **666 stars** and **62 forks**, supporting **multimodal embedding benchmarks (MMEB)** and optimized for **visual-language model (VLM) evaluation** with last update on **2026-07-14**.
+- **Python-Based Toolkit**: Provides modular codebase for benchmarking VLMs, including evaluation protocols, metrics, and pre-trained models optimized for multimodal embedding tasks.
 
 ## Why It Matters
 

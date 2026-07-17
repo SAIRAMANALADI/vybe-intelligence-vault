@@ -6,7 +6,7 @@ source_url: https://github.com/modelscope/evalscope
 resource_id: github:modelscope/evalscope
 local_vault_path: ai/rag/modelscope-evalscope.md
 quality_score: 70
-archive_score: 81
+archive_score: 83
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -15,6 +15,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -25,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 83 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-*   Provides a customizable and efficient Python framework for large model (LLM, VLM, AIGC) evaluation.
-*   Facilitates performance benchmarking across diverse generative AI architectures.
-*   Includes specialized evaluation capabilities for Retrieval-Augmented Generation (RAG) systems.
+- **Framework Purpose**: EvalScope is a Python-based framework designed for efficient evaluation and benchmarking of large models (LLMs, VLMs, AIGC) with customizable workflows.
+
+- **Key Features**: Supports modular evaluation pipelines for tasks like RAG, performance metrics, and multi-model comparison with extensible task-specific plugins.
+
+- **Repository Stats**: 3.1K stars, 425 forks, last updated July 17, 2026, with active development in model evaluation tooling.
 
 ## Use Cases
 

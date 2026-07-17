@@ -1,5 +1,5 @@
 ---
-title: Engineering Bringing more control over your connectors June 24, 2026 By Mistral
+title: EngineeringBringing more control over your connectorsJune 24, 2026By Mistral
   AI
 archive_category: model-providers
 source_category: ai/companies/mistral
@@ -21,7 +21,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Engineering Bringing more control over your connectors June 24, 2026 By Mistral AI
+# EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI
 
 ## Why This Is In The Archive
 
@@ -34,7 +34,7 @@ selection_reason:
 
 ## Summary
 
-Recent update from Mistral AI News Blog: Engineering Bringing more control over your connectors June 24, 2026 By Mistral AI
+Recent update from Mistral AI News Blog: EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI
 
 ## Use Cases
 

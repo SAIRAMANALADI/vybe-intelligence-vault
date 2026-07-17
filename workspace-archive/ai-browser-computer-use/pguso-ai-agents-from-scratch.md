@@ -18,6 +18,7 @@ tags:
 - javascript
 - meta-ai
 - models
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies and enhance understanding of core concepts.
-- **Technical Focus**: Covers function calling, memory management, and ReAct (Reasoning and Acting) patterns to implement functional, stateful AI agents in JavaScript.
-- **Project Structure**: Demonstrates practical agent development with React-based interfaces, emphasizing modularity
+- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using local LLMs, emphasizing transparency and understanding of core concepts like function calling, memory, and ReAct patterns.
+
+- **Technical Stack**: Implements agents in JavaScript with `node-llama-cpp` for local LLM integration, supporting React-based agent architectures and custom function-calling workflows.
+
+- **Key Features**: Focuses on demystifying AI agents by avoiding "black box" dependenci
 
 ## Use Cases
 

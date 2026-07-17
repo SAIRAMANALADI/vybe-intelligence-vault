@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.ai/
-published_at: '2026-07-14T13:05:31.726518+05:30'
-collected_at: '2026-07-14T13:05:31.726531+05:30'
+published_at: '2026-07-18T01:14:20.286787+05:30'
+collected_at: '2026-07-18T01:14:20.286800+05:30'
 tags:
 - hackernews
 - leaderboard
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:speechifyai-voice-ai-research-lab
-first_seen: '2026-07-14T13:05:31.726531+05:30'
-last_seen: '2026-07-14T13:05:31.726531+05:30'
-last_checked: '2026-07-14T13:05:31.726531+05:30'
+first_seen: '2026-07-18T01:14:20.286800+05:30'
+last_seen: '2026-07-18T01:14:20.286800+05:30'
+last_checked: '2026-07-18T01:14:20.286800+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Simba 3.2 TTS Model**: Streaming-native architecture with sub-100ms latency, outperforming competitors on the Artificial Analysis TTS leaderboard while remaining cost-effective; features fine-grained emotional control via SSML prosody and a curated voice set with expanding language coverage.
+- **Simba 3.2 TTS Model**: Achieves sub-100ms latency while leading on the [Artificial Analysis TTS leaderboard](https://artificialanalysis.ai/text-to-speech/leaderboard/selected-voice?top-models=true) for US English, offering streaming-native architecture with fine-grained emotional control (via SSML prosody) and a curated voice set.
 
-- **Zero-Shot Voice Cloning & Emotion Control**: Clones speaker identity (timbre, cadence, micro-expressions) from as little as 10 seconds of reference audio; enables nuanced emotional synthesis (neutral, happy, sad, etc.) through prosodic modeling rather than just pitch/speed adjustments.
+- **Zero-Shot Voice Cloning & Emotion Control**: Enables cloning of speaker identity (timbre, cadence, micro-expressions) from ≥10s audio and synthesizes text with nuanced emotional expressions (neutral, happy, sad, excited, calm) at the prosody level.
 
-- **Multilingual Synthesis & API Integration**: Supports 30+ locales with native-quality voices, handling mixed-language inputs automatically; provides a single API for streaming, voice cloning, and emotion control with minimal code (e.g., `curl` example for `/v1/audio/speech`).
+- **Multilingual & API Integration**: Supports 30+ locales with native-quality voices, handles mixed-language input, and provides a unified API for streaming, voice cloning, and emotion control (e.g., `curl` example for `/v1/audio/speech`).
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T13:05:31.726518+05:30
+- Published: 2026-07-18T01:14:20.286787+05:30
 
 ## Related Tags
 

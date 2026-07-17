@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Repository forked to deploy autonomous agent instances via a JavaScript-based template.
-- **Metadata**: 2 stars, 18 forks, last updated 2026-04-24T07:15:56Z.
-- **Tech Stack**: JavaScript-only implementation with no additional topics or dependencies.
+- **Purpose**: Template repository for spawning autonomous agents ("daimons") in JavaScript.
+- **Metrics**: 2 stars, 18 forks, last updated on 2026-04-24.
+- **Language**: JavaScript-based implementation.
 
 ## Use Cases
 

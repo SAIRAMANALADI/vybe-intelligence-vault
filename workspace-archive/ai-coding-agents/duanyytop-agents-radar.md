@@ -17,7 +17,6 @@ tags:
 - producthunt
 - scripts
 - typescript
-- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Automated AI Ecosystem Aggregator**: Daily digest compiling AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
-- **Bilingual Reporting**: Generates reports in both Chinese and English, automated via scheduled GitHub Actions workflows.
-- **Technical Stack**: Built in TypeScript, last updated on 2026-07-17, with 907 stars and 163 forks.
+- **Aggregation Pipeline**: Automated daily digest of AI ecosystem updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
+- **Bilingual Output**: Generates reports in both Chinese and English using TypeScript.
+- **Metadata**: 908 stars, 163 forks, last updated 2026-07-17T12:27:38Z.
 
 ## Use Cases
 

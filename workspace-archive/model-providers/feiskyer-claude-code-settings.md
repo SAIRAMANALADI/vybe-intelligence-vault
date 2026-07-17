@@ -39,10 +39,8 @@ selection_reason:
 ## Summary
 
 - **Repository Purpose**: Provides curated skills, sub-agents, and configuration templates to enhance **Claude Code** functionality, including research, image generation, GitHub automation, and more.
-
-- **Technical Stack**: Primarily written in **Python**, leveraging tools like **LiteLLM**, **Codex**, and **Vibe-coding** for agentic AI workflows.
-
-- **Key Features**: Supports **Claude Code agents**, **plugins**, and **skills**, with a focus on automation, AI-driven development, and integration w
+- **Technical Stack**: Primarily implemented in **Python**, leveraging tools like **LiteLLM** and integrating with **Claude Code plugins** for agentic AI workflows.
+- **Community & Updates**: Maintained repository with **1,596 stars** and **239 forks**, last updated on **July 17, 2026**, covering to
 
 ## Use Cases
 

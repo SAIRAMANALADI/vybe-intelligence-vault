@@ -1,8 +1,8 @@
 ---
-title: node/SECURITY.md at main · nodejs/node · GitHub
+title: Security Policy · nodejs/node · GitHub
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/nodejs/node/blob/main/SECURITY.md
+source_url: https://github.com/nodejs/node/security/policy
 resource_id: github:nodejs/node
 local_vault_path: ai/rag/nodejs-node.md
 quality_score: 70
@@ -19,7 +19,7 @@ selection_reason:
 - Active open-source repository
 ---
 
-# node/SECURITY.md at main · nodejs/node · GitHub
+# Security Policy · nodejs/node · GitHub
 
 ## Why This Is In The Archive
 
@@ -32,8 +32,9 @@ selection_reason:
 
 ## Summary
 
-- Security bugs in Node.js must be reported via [HackerOne](https://hackerone.com/nodejs) with acknowledgment within 5 days and updates within 10 days; escalation to `security@lists.openjsf.org` is possible if no response is received within 6 business days or 14 days post-acknowledgment.
-- Node.js follows a structured disclosure policy: validated vulnerabilities are fixed across supported versions, assigned a CVE, and disclosed after a 72-hour embargo (adjustable for severity), with advisories p
+- **Reporting Process**: Security bugs in Node.js must be reported via [HackerOne](https://hackerone.com/nodejs) with acknowledgment within 5 days and detailed response within 10 days; escalation to `security@lists.openjsf.org` is allowed if no response is received within 6 business days or 14 days post-acknowledgment.
+
+- **Disclosure Policy**: Vulnerabilities are validated across supported versions, fixes are prepared privately, assigned a CVE, and disclosed after a 72-hour embargo (adjustable
 
 ## Use Cases
 
@@ -43,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/nodejs/node/blob/main/SECURITY.md
+Original source URL: https://github.com/nodejs/node/security/policy
 
 ## Local Vault File
 

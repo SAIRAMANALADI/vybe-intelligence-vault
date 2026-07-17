@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/
-published_at: '2026-07-14T19:51:22.841253+05:30'
-collected_at: '2026-07-14T19:51:22.841265+05:30'
+published_at: '2026-07-18T01:10:18.770409+05:30'
+collected_at: '2026-07-18T01:10:18.770426+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-07-14T19:51:22.841265+05:30'
-last_seen: '2026-07-14T19:51:22.841265+05:30'
-last_checked: '2026-07-14T19:51:22.841265+05:30'
+first_seen: '2026-07-18T01:10:18.770426+05:30'
+last_seen: '2026-07-18T01:10:18.770426+05:30'
+last_checked: '2026-07-18T01:10:18.770426+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR Pipeline**: LlamaParse employs a Vision-Language Model (VLM)-powered agentic OCR system with specialized experts for layout-aware parsing, auto-correction loops, and structured extraction of schemas (e.g., tables, charts, handwritten text) via recursive error detection and correction.
+- **Agentic OCR Pipeline**: LlamaParse employs a Vision-Language Model (VLM)-powered agentic OCR system with task-specific experts (e.g., text, charts, tables) and recursive auto-correction loops for high-fidelity parsing of complex, multi-modal documents, including handwritten text and dense layouts.
 
-- **Performance Benchmarks**: Achieves industry-leading accuracy in document parsing across 50+ unstructured formats (PDFs, images, multi-page tables) with enterprise-grade chunking, embedding, and retrieval pipelines optimized for RAG applications.
+- **Structured Extraction & Agentic Workflows**: Supports schema-based structured extraction without training, enabling end-to-end document agents for tasks like classification, segmentation, and multi-step knowledge workflows, with enterprise-grade chunking and embedding pipelines for RAG applications.
 
-- **Enterprise Deployment**: Offers 99.9% uptime, HIPAA/GDPR/SOC2 compliance, and flexible deployment options (cloud or VPC) with dedicated SLAs, supporting mission-critical AI workloads in finance, healthcare, insurance, and manufacturing.
+- **Enterprise-Grade Performance & Compliance**: Benchmarks show superior accuracy across charts/tables vs. proprietary/IDP/commercial OCR solutions; offers 99.9% uptime, SOC2/GDPR/HIPAA compliance, granular access controls, and flexible deployment (cloud or VPC) for scalable, secure document processing.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T19:51:22.841253+05:30
+- Published: 2026-07-18T01:10:18.770409+05:30
 
 ## Related Tags
 

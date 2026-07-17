@@ -3,17 +3,17 @@ title: CodeQL documentation
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://codeql.github.com/docs
-published_at: '2026-07-17T14:10:12.546967+05:30'
-collected_at: '2026-07-17T14:10:12.546979+05:30'
+source_url: https://codeql.github.com/docs/
+published_at: '2026-07-18T01:15:29.102942+05:30'
+collected_at: '2026-07-18T01:15:29.102954+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:codeql-documentation
-first_seen: '2026-07-17T14:10:12.546979+05:30'
-last_seen: '2026-07-17T14:10:12.546979+05:30'
-last_checked: '2026-07-17T14:10:12.546979+05:30'
+first_seen: '2026-07-18T01:15:29.102954+05:30'
+last_seen: '2026-07-18T01:15:29.102954+05:30'
+last_checked: '2026-07-18T01:15:29.102954+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **CodeQL Overview**: CodeQL treats code as data, enabling vulnerability detection via custom queries; supported languages/frameworks, CWEs, and system requirements are documented in release resources.
-- **Query Development**: QL language reference, standard libraries, and language guides provide syntax/constructs for writing efficient CodeQL queries; puzzles and running queries are covered in learning resources.
-- **Tooling & Contributions**: CodeQL CLI, VS Code extension, and GitHub repository facilitate query execution, IDE integration, and open-source contributions to libraries/queries.
+- **CodeQL Overview**: Treats code as data, enabling vulnerability detection via structured queries; supports multiple languages/frameworks and maps findings to CWEs.
+- **Core Components**: Includes QL language reference, standard libraries, and query execution via CLI or VS Code extension; queries can be shared to improve security coverage.
+- **Resources & Development**: Provides CLI releases, VS Code integration, and an open-source repository for contributing to CodeQL libraries and queries.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-17T14:10:12.546967+05:30
+- Published: 2026-07-18T01:15:29.102942+05:30
 
 ## Related Tags
 
@@ -42,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://codeql.github.com/docs
+Original source: https://codeql.github.com/docs/

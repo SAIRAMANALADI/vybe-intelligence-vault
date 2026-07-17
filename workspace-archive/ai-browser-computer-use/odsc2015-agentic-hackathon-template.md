@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Standardized Starter Repository**: Provides a preconfigured folder structure and environment specifications for Agentic AI App Hackathon submissions, ensuring reproducibility and streamlined judging.
-- **Documentation Placeholders**: Includes templates for documentation to facilitate consistent and complete submission requirements across teams.
-- **Version Control & Metadata**: Last updated in 2026, with 19 stars and 192 forks, indicating community engagement and adoption.
+- Provides a standardized starter repository for the Agentic AI App Hackathon with pre-defined folder structure and environment specifications
+- Includes reproducible environment setup and documentation templates to streamline team submissions and judging processes
+- Last updated in 2026 with 19 stars and 192 forks, though primary language remains unspecified
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Tencent/WeKnora
-collected_at: '2026-07-17T14:02:38.988451+05:30'
-published_at: '2026-07-17T08:31:50Z'
+collected_at: '2026-07-18T01:06:33.028941+05:30'
+published_at: '2026-07-17T19:25:00Z'
 tags:
 - agents
 - benchmark
@@ -15,17 +15,18 @@ tags:
 - models
 - openai
 - rag
-stars: 18451
+- workflows
+stars: 18467
 language: Go
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2025-07-22T08:01:23Z'
-pushed_at: '2026-07-17T08:30:46Z'
+pushed_at: '2026-07-17T10:42:46Z'
 resource_id: github:tencent/weknora
-first_seen: '2026-07-17T14:02:38.988451+05:30'
-last_seen: '2026-07-17T14:02:38.988451+05:30'
-last_checked: '2026-07-17T14:02:38.988451+05:30'
+first_seen: '2026-07-18T01:06:33.028941+05:30'
+last_seen: '2026-07-18T01:06:33.028941+05:30'
+last_checked: '2026-07-18T01:06:33.028941+05:30'
 health_score: 100
 ---
 
@@ -33,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal RAG & Agent Framework**: Implements Retrieval-Augmented Generation (RAG) with vector search, reranking, and semantic indexing; supports autonomous reasoning agents and self-maintaining wiki functionality for dynamic knowledge updates.
+- **Multi-Model RAG & Agent Framework**: WeKnora transforms raw documents into a **queryable RAG system**, an **autonomous reasoning agent**, and a **self-maintaining Wiki** using Go, supporting **multi-tenancy** and **multi-model LLMs** (e.g., Ollama, OpenAI).
 
-- **Scalable Multi-Tenant Architecture**: Built in Go with support for OpenAI/Ollama models, multi-model embeddings, and tenant isolation for enterprise-grade deployments.
+- **Advanced Search & Evaluation**: Implements **semantic search**, **vector search**, **reranking**, and **embeddings** for high-precision retrieval, with built-in **evaluation metrics** for LLM performance.
 
-- **Evaluation & Tooling Suite**: Includes built-in evaluation metrics, semantic search, and chatbot integration for end-to-end LLM knowledge pipeline management.
+- **Modular Architecture**: Integrates **chatbot**, **knowledge-base**, and **Wiki** capabilities with **multi-tenant isolation**, enabling scalable, production-grade AI workflows.
 
 ## Why It Matters
 
@@ -46,15 +47,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Tencent
-- Stars: 18451
-- Forks: 2550
+- Stars: 18467
+- Forks: 2556
 - Language: Go
 - Topics: agent, agentic, ai, chatbot, embeddings, evaluation, generative-ai, golang, knowledge-base, llm, multi-tenant, multimodel, ollama, openai, question-answering, rag, reranking, semantic-search, vector-search, wiki
-- Last Updated: 2026-07-17T08:31:50Z
+- Last Updated: 2026-07-17T19:25:00Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-07-22T08:01:23Z
-- Pushed At: 2026-07-17T08:30:46Z
+- Pushed At: 2026-07-17T10:42:46Z
 
 ## Possible Use Cases
 

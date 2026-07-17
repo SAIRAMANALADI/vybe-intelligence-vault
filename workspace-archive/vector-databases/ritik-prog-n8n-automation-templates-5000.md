@@ -12,6 +12,7 @@ resource_kind: template
 importance: high
 tags:
 - github-repo
+- hackernews
 - rag
 - scripts
 - unknown
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-*   Offers 5000+ production-ready n8n workflow templates for diverse automation.
-*   Covers advanced integration scenarios including AI, CRM, finance, e-commerce, marketing, and RAG.
-*   Provides open-source, real-world solutions for robust business process orchestration.
+*   Offers 5000+ production-ready n8n workflow templates for diverse automation use cases.
+*   Encompasses technical domains such as AI, CRM, finance, e-commerce, marketing, and RAG automation.
+*   Provides free and open-source solutions for real-world integration and workflow orchestration.
 
 ## Use Cases
 

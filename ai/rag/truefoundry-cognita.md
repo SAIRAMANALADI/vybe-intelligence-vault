@@ -4,8 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/truefoundry/cognita?source=post_page
-resource_id: github:truefoundry/cognita
------dba899ae0355---------------------------------------
+resource_id: github:truefoundry/cognita-515d43f5
+---
+--dba899ae0355---------------------------------------
 collected_at: '2026-07-17T14:06:29.186066+05:30'
 published_at: '2026-07-17T01:11:09Z'
 tags:

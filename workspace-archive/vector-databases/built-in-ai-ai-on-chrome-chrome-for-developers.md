@@ -16,7 +16,6 @@ tags:
 - rag
 - threejs
 - web-crawled
-- workflows
 selection_reason:
 - Valuable developer reference
 ---
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Built-in AI APIs**: Chrome integrates foundation/expert models via APIs (e.g., `Proofreader`, `Writer`, `Rewriter`, `Translator`, `Language Detector`, `Summarizer`, `Prompt`) for client-side AI tasks like text processing, translation, and summarization.
-- **Polyfills & Hybrid Workloads**: Supports `Prompt API`/`Task API` polyfills for cross-browser compatibility and hybrid AI workflows (e.g., Firebase AI Logic for cloud fallback).
-- **Model Management**: Chrome handles on-device model downlo
+- **Built-in AI in Chrome**: Chrome integrates foundation/expert models (e.g., Gemini Nano) for client-side AI tasks via browser-managed APIs, enabling on-device inference without cloud dependency.
+- **Key AI APIs**: Chrome offers APIs for text translation, summarization, proofreading, rewriting, language detection, and prompt/task management, with polyfills for cross-browser compatibility.
+- **Best Practices & Performance**: Chrome provides guidance on caching models, streaming LLM responses, d
 
 ## Use Cases
 

@@ -17,6 +17,7 @@ tags:
 - html
 - models
 - rag
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive AI Agent Development Guide**: Repository provides an in-depth technical resource covering AI agent development, LangGraph implementation, advanced RAG (Retrieval-Augmented Generation), and multi-agent systems, including tutorials and practical examples.
+- **Comprehensive AI Agent Development Guide**: Repository provides an in-depth technical resource covering AI agent development, LangGraph implementation, advanced RAG (Retrieval-Augmented Generation), and multi-agent systems, with a focus on practical tutorials and real-world applications.
 
-- **Career Transition & Interview Preparation**: Includes specialized sections for transitioning into AI roles (e.g., algorithm engineer), LLM-focused interview questions, and a curated problem set for technical assessments in
+- **Interview & Career Preparation Framework**: Includes specialized sections for algorithm engineers and LLM roles, featuring interview question databases, job-hunting strategies, and career transition gui
 
 ## Use Cases
 

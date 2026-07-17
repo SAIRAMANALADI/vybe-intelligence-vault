@@ -8,18 +8,14 @@ local_vault_path: ai/agents/microsoft-agentsleague.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: tool
 importance: medium
 tags:
 - agents
-- benchmark
 - github-repo
-- leaderboard
-- scripts
 - unknown
-- workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # microsoft/agentsleague
@@ -28,15 +24,15 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: tool
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **AI E-Sports Platform**: Hosts live, asynchronous AI agent battles with competitive scoring and GitHub-based submissions.
-- **Developer Challenge Framework**: Enables community-driven agentic AI challenges with structured participation and evaluation.
-- **GitHub Integration**: Automates submissions, scoring, and leaderboard updates via GitHub Actions/workflows.
+- **E-sports-inspired AI challenge**: Hosts live AI Battles with competitive agentic AI, blending developer engagement with gaming-style tournaments.
+- **Asynchronous community participation**: Facilitates GitHub-based submissions and async challenges, enabling scalable, distributed developer contributions.
+- **Microsoft-backed initiative**: Repository last updated in 2026, indicating an active, evolving project under Microsoft’s developer ecosystem.
 
 ## Use Cases
 

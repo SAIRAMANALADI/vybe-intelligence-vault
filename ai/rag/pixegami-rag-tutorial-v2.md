@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-07-17T14:02:13.951488+05:30'
+collected_at: '2026-07-18T01:06:07.938693+05:30'
 published_at: '2026-07-15T08:50:02Z'
 tags:
-- dataset
+- benchmark
 - github-repo
 - meta-ai
+- mistral
 - models
 - python
 - rag
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-07-17T14:02:13.951488+05:30'
-last_seen: '2026-07-17T14:02:13.951488+05:30'
-last_checked: '2026-07-17T14:02:13.951488+05:30'
+first_seen: '2026-07-18T01:06:07.938693+05:30'
+last_seen: '2026-07-18T01:06:07.938693+05:30'
+last_checked: '2026-07-18T01:06:07.938693+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates end-to-end RAG pipeline using local language models (e.g., Ollama) for document retrieval and generation without external API dependencies.
-- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma) refresh mechanisms to handle real-time document additions or modifications.
-- **Testing Framework**: Includes unit and integration tests for RAG components (retriever, LLM, embeddings) with reproducibility via `pytest` and example datasets.
+- **Local LLM Integration**: Demonstrates Langchain-based RAG pipeline leveraging local LLMs (e.g., Llama, Mistral) via Ollama or LM Studio for offline inference.
+- **Dynamic Database Updates**: Implements automated vector store (e.g., Chroma, FAISS) refresh mechanisms for real-time document ingestion and embedding updates.
+- **Testing Framework**: Includes unit/integration tests (e.g., pytest) for RAG components (retriever, generator) with evaluation metrics (e.g., retrieval precision, answer correctness).
 
 ## Why It Matters
 

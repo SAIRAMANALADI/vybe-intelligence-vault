@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:lm-studio-bionic-the-ai-agent-for-open-models
 first_seen: '2026-07-17T14:00:36.214112+05:30'
 last_seen: '2026-07-17T14:00:36.214112+05:30'
 last_checked: '2026-07-17T14:00:36.214112+05:30'
 health_score: 100
 ---
+
 
 # LM Studio Bionic: the AI agent for open models
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/pinecone-io-examples.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: workflow
 importance: medium
 tags:
 - github-repo
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Repository**: `pinecone-io/examples` provides Jupyter Notebooks for hands-on experimentation with Pinecone vector databases, covering topics like AI, LLM, RAG, semantic search, and vector search.
-- **Technical Scope**: Includes Python-based implementations for vector database operations, retrieval-augmented generation (RAG), and semantic/approximate nearest neighbor (ANN) search workflows.
-- **Metadata**: 3,027 stars, 1,073 forks, last updated July 12, 2026, with primary languages including
+- **Repository Overview**: Provides Jupyter Notebooks for hands-on experimentation with Pinecone vector databases, covering topics like AI, LLM, RAG, semantic search, and vector search.
+- **Technical Stack**: Primarily uses Python in Jupyter Notebooks, with integrations for vector databases, LLMs, and semantic search workflows.
+- **Metadata**: 3,028 stars, 1,073 forks, last updated July 16, 2026. Topics include `ai`, `pinecone`, `vector-database`, and `rag`.
 
 ## Use Cases
 

@@ -13,13 +13,14 @@ collected_at: '2026-07-17T14:00:37.565123+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:the-llm-critics-are-right-i-use-llms-anyway
 first_seen: '2026-07-17T14:00:37.565123+05:30'
 last_seen: '2026-07-17T14:00:37.565123+05:30'
 last_checked: '2026-07-17T14:00:37.565123+05:30'
 health_score: 100
 ---
+
 
 # The LLM Critics Are Right. I Use LLMs Anyway
 

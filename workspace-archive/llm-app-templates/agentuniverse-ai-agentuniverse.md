@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent LLM Framework**: agentUniverse enables developers to construct multi-agent applications leveraging large language models (LLMs) with minimal overhead.
-- **Python-based Architecture**: The framework is implemented in Python, supporting modular agent design, autonomous interactions, and extensible agent capabilities.
-- **Active Development & Community**: Last updated in July 2026, the repository includes 2,307 stars and 411 forks, indicating strong community engagement and ongoing
+- **Multi-agent LLM Framework**: agentUniverse enables developers to construct multi-agent applications leveraging LLMs with minimal overhead, emphasizing modularity and scalability.
+
+- **Python-Based Architecture**: Built in Python, the framework supports rapid prototyping and integration with existing AI/ML pipelines, optimized for autonomous agent orchestration.
+
+- **Extensible & Community-Driven**: Features an "awesome-list" style repository, fostering modular extensions (e.g., custom agents
 
 ## Use Cases
 

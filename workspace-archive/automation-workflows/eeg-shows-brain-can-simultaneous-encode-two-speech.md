@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by giuliomagnifico. Score: 63, Comments: 26.
+Hacker News story by giuliomagnifico. Score: 233, Comments: 151.
 Original Link: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876
 
 ## Use Cases

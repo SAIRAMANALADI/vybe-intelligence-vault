@@ -8,10 +8,9 @@ local_vault_path: ai/rag/ali-bahrainian-rag-best-practices.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: prompt
+resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
 - github-repo
 - hackernews
 - python
@@ -26,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: prompt
+- Resource kind: benchmark
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Repository Overview**: A Python-based GitHub repository (`ali-bahrainian/RAG_best_practices`) focused on best practices for Retrieval-Augmented Generation (RAG) systems, with 107 stars and 20 forks.
-- **Technical Scope**: Contains implementation examples and guidelines for optimizing RAG pipelines, including retrieval strategies, prompt engineering, and evaluation metrics.
-- **Last Updated**: June 19, 2026, indicating active maintenance or recent development.
+- **Repository Overview**: GitHub repository focused on best practices for Retrieval-Augmented Generation (RAG) systems, written in Python.
+- **Metadata**: 107 stars, 20 forks, last updated on 2026-06-19T11:36:42Z.
+- **Purpose**: No explicit description provided, but inferred as a technical resource for optimizing RAG pipelines.
 
 ## Use Cases
 

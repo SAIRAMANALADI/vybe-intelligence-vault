@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-07-17T14:02:09.183216+05:30'
-published_at: '2026-07-17T01:14:58Z'
+collected_at: '2026-07-18T01:06:03.010005+05:30'
+published_at: '2026-07-17T18:42:53Z'
 tags:
 - github-repo
 - hackernews
@@ -13,7 +13,8 @@ tags:
 - models
 - openai
 - rag
-stars: 896
+- reddit
+stars: 895
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-07-17T14:02:09.183216+05:30'
-last_seen: '2026-07-17T14:02:09.183216+05:30'
-last_checked: '2026-07-17T14:02:09.183216+05:30'
+first_seen: '2026-07-18T01:06:03.010005+05:30'
+last_seen: '2026-07-18T01:06:03.010005+05:30'
+last_checked: '2026-07-18T01:06:03.010005+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **5-week structured curriculum** covering RAG fundamentals, hybrid search (HNSW + keyword), and advanced techniques like binary/scalar quantization and Matryoshka representation learning for efficient retrieval.
-- **Hands-on implementation** with Jupyter Notebooks, integrating Azure OpenAI, multimodal inputs, and responsible AI practices for production-grade RAG pipelines.
-- **Optimized indexing & search** using vector databases (HNSW), hybrid retrieval (vector + keyword), and VS Code tooling for scalable, low-latency RAG deployments.
+- **Learning Framework**: 5-week structured program in Jupyter Notebooks covering RAG fundamentals, hybrid search (HNSW + keyword), and advanced techniques like binary/scalar quantization and Matryoshka representation learning.
+
+- **Tech Stack Integration**: Demonstrates RAG pipelines with Azure OpenAI, multimodal inputs, and VS Code tooling, emphasizing responsible AI practices and efficient indexing for LLM augmentation.
+
+- **Optimization Focus**: Implements vector search (HNSW), scalar/binary quantization for memory efficiency, and hybrid retrieval (vector + keyword) to enhance RAG performance.
 
 ## Why It Matters
 
@@ -42,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: microsoft
-- Stars: 896
+- Stars: 895
 - Forks: 317
 - Language: Jupyter Notebook
 - Topics: ai, azure, binary-quantization, generative-ai, gpt, hnsw, hybrid-search, indexing, keyword-search, language-model, llm, matryoshka-representation-learning, multimodal, openai, rag, responsible-ai, retrieval-augmented-generation, scalar-quantization, vector-search, visual-studio-code
-- Last Updated: 2026-07-17T01:14:58Z
+- Last Updated: 2026-07-17T18:42:53Z
 - License: MIT
 - Archived: No
 - Created At: 2024-12-11T17:25:02Z

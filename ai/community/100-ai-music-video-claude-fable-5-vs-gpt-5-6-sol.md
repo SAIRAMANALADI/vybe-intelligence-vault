@@ -15,13 +15,14 @@ tags:
 - anthropic
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: hackernews:100-ai-music-video-claude-fable-5-vs-gpt-5-6-sol
 first_seen: '2026-07-17T14:00:36.284576+05:30'
 last_seen: '2026-07-17T14:00:36.284576+05:30'
 last_checked: '2026-07-17T14:00:36.284576+05:30'
 health_score: 100
 ---
+
 
 # $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol
 

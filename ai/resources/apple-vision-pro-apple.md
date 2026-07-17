@@ -3,9 +3,9 @@ title: Apple Vision Pro - Apple
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://www.apple.com/apple-vision-pro
-published_at: '2026-06-24T22:59:15.493094+05:30'
-collected_at: '2026-06-24T22:59:15.493108+05:30'
+source_url: https://www.apple.com/apple-vision-pro/
+published_at: '2026-07-18T01:17:16.919582+05:30'
+collected_at: '2026-07-18T01:17:16.919597+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:apple-vision-pro-apple
-first_seen: '2026-06-24T22:59:15.493108+05:30'
-last_seen: '2026-06-24T22:59:15.493108+05:30'
-last_checked: '2026-06-24T22:59:15.493108+05:30'
+first_seen: '2026-07-18T01:17:16.919597+05:30'
+last_seen: '2026-07-18T01:17:16.919597+05:30'
+last_checked: '2026-07-18T01:17:16.919597+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **M5 Chip Integration**: Apple Vision Pro features the new M5 chip, designed for high-performance mobile and wearable computing, enabling seamless blending of digital and physical spaces with advanced processing for spatial computing tasks.
+- **M5 Chip Integration**: Apple Vision Pro features the new M5 chip, designed for high-performance mobile and wearable computing, enabling seamless blending of digital content with physical space and supporting advanced spatial computing experiences.
 
-- **Dual Knit Band & Fit System**: The Dual Knit Band combines breathable, counterbalanced straps with an independent Fit Dial for adjustable upper/lower strap tension, ensuring comfort and personalized fit while maintaining immersion.
+- **Dual Knit Band & Fit System**: The Dual Knit Band combines breathable, counterbalanced straps with an adjustable Fit Dial for personalized comfort, while the Light Seal magnetically conforms to the face to block stray light and optimize immersion.
 
-- **ZEISS Optical Inserts & Spatial Audio**: Customizable ZEISS Optical Inserts magnetically attach for precise vision correction and eye tracking, while dual-positioned speakers deliver Spatial Audio that blends with real-world sounds for situational awareness.
+- **Spatial Audio & Battery Efficiency**: Speakers near the ears deliver Spatial Audio that blends with real-world sounds, and the external aluminum-encased battery supports up to 2.5 hours of general use or 3 hours of video playback.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T22:59:15.493094+05:30
+- Published: 2026-07-18T01:17:16.919582+05:30
 
 ## Related Tags
 
@@ -52,4 +52,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.apple.com/apple-vision-pro
+Original source: https://www.apple.com/apple-vision-pro/

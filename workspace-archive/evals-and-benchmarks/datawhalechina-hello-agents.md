@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Educational Repository**: Provides a comprehensive, step-by-step tutorial in Chinese on building intelligent agents from scratch, covering both theoretical foundations and practical implementations.
-
-- **Technical Scope**: Focuses on core components like LLMs, RAG (Retrieval-Augmented Generation), and agent architectures, with Python-based implementations and hands-on examples.
-
-- **High Engagement**: Maintains 66,815+ stars and 8,295+ forks, indicating strong community adoption and active m
+- **Repository Overview**: A Chinese-language tutorial repository (`datawhalechina/hello-agents`) focused on building AI agents from scratch, covering core principles and practical implementations.
+- **Technical Scope**: Covers key AI agent concepts including **LLM integration**, **RAG (Retrieval-Augmented Generation)**, and agent architectures, with Python-based implementations.
+- **Metadata**: 66,897 stars, 8,308 forks; last updated **July 17, 2026**; part of the **Datawhale China** open-sourc
 
 ## Use Cases
 

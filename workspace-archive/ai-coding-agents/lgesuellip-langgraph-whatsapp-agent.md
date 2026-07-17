@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - workflows
 selection_reason:
@@ -31,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Integration Framework**: Template for deploying AI agents on WhatsApp using **LangGraph** (graph-based workflows) and **Twilio** (WhatsApp API integration), enabling bidirectional message/image processing.
+- **Framework Integration**: Template for deploying AI agents on WhatsApp using **LangGraph** for graph-based workflows and **Twilio** for WhatsApp API integration, supporting message/image processing and custom agent invocation.
 
-- **MCP & LangGraph Platform Compatibility**: Supports **Model Context Protocol (MCP)** for tool/function calling and runs on the **LangGraph Platform** for scalable agent orchestration.
+- **MCP & LangGraph Platform**: Incorporates **Model Context Protocol (MCP)** for tool/function calling and is designed to run on the **LangGraph Platform**, enabling scalable, graph-based agent orchestration.
 
-- **Custom Agent Logic**: Enables definition of **graph-based agent workflows** (e.g., state machines
+- **Technical Stack**: Implemented in **Python**, with las
 
 ## Use Cases
 

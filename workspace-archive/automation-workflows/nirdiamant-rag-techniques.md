@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Hosts advanced RAG techniques with Jupyter Notebook tutorials, covering agentic RAG, embeddings, semantic search, and vector databases.
-- **Technical Stack**: Integrates LangChain, LlamaIndex, OpenAI, and Python for LLM-based retrieval augmentation and generative AI workflows.
-- **Metadata**: 28.5K stars, 3.4K forks, last updated July 2026, with topics spanning NLP, LLMs, and retrieval-augmented generation.
+- **Repository Overview**: Hosts advanced RAG techniques with Jupyter Notebook tutorials, covering agentic RAG, embeddings, and vector databases for LLM augmentation.
+- **Technical Stack**: Integrates LangChain, LlamaIndex, OpenAI, and semantic search for retrieval-augmented generation workflows in Python.
+- **Metrics**: 28.6K+ stars, 3.5K+ forks, last updated July 2026, with topics spanning generative AI, NLP, and machine learning.
 
 ## Use Cases
 

@@ -13,13 +13,14 @@ collected_at: '2026-07-17T14:00:37.636648+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:how-to-train-a-gen-ai-kick-drum-model-on-your-old
 first_seen: '2026-07-17T14:00:37.636648+05:30'
 last_seen: '2026-07-17T14:00:37.636648+05:30'
 last_checked: '2026-07-17T14:00:37.636648+05:30'
 health_score: 100
 ---
+
 
 # How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM
 

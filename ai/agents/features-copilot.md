@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-07-17T14:08:26.160793+05:30'
-collected_at: '2026-07-17T14:08:26.160801+05:30'
+published_at: '2026-07-18T01:14:16.617832+05:30'
+collected_at: '2026-07-18T01:14:16.617845+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-07-17T14:08:26.160801+05:30'
-last_seen: '2026-07-17T14:08:26.160801+05:30'
-last_checked: '2026-07-17T14:08:26.160801+05:30'
+first_seen: '2026-07-18T01:14:16.617845+05:30'
+last_seen: '2026-07-18T01:14:16.617845+05:30'
+last_checked: '2026-07-18T01:14:16.617845+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Workflows**: GitHub Copilot CLI supports parallelized subagents via `/fleet`, enabling concurrent task execution across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, and multi-step autonomous workflows from `/plan` to merged pull requests.
+- **Multi-Agent Parallel Execution**: GitHub Copilot CLI supports `/fleet` for parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI), enabling concurrent task processing with `/model` switching and decision convergence.
 
-- **GitHub-Native Integration**: Built on GitHub’s native Model Context Protocol (MCP), Copilot CLI interacts directly with issues, branches, and pull requests, inherits organization policies (e.g., branch protections), and supports `/remote` execution across devices while maintaining session persistence.
+- **Native GitHub Integration**: Built on GitHub’s Model Context Protocol (MCP), Copilot CLI interacts directly with issues, PRs, branches, and labels via `/mcp`, inheriting organization policies (branch protections, required checks) without additional setup.
 
-- **Customizable & Extensible**: Supports AGENTS.md for defining custom agent behaviors, MCP server integrations for tool access, and the Copilot SDK (`npm install -g @github/copilot`) for embedding agentic logic in applications, with explicit user approval required for all file modifications and commands.
+- **Session Persistence & Autopilot**: Features `/resume` for session continuity, `/plan` for multi-agent task outlining, and Shift+Tab autopilot mode for autonomous execution with explicit approval gates for file/command modifications.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-17T14:08:26.160793+05:30
+- Published: 2026-07-18T01:14:16.617832+05:30
 
 ## Related Tags
 

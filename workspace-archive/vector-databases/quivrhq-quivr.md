@@ -6,10 +6,10 @@ source_url: https://github.com/QuivrHQ/quivr
 resource_id: github:quivrhq/quivr
 local_vault_path: ai/rag/quivrhq-quivr.md
 quality_score: 70
-archive_score: 79
-archive_tier: useful
+archive_score: 89
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - frontend_ui
 - github-repo
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 89 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-*   Provides an opinionated RAG framework for streamlined GenAI integration, abstracting underlying complexities to accelerate application development.
-*   Offers extensive backend flexibility, supporting diverse LLMs (e.g., GPT4, Groq, Llama) and vector databases (e.g., PGVector, Faiss) for varied data and model requirements.
-*   Built with Python, TypeScript, and React, it facilitates easy, customizable integration into existing products, emphasizing a product-centric approach over RAG impleme
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while enabling customization for diverse use cases.
+
+- **Multi-LLM & Vectorstore Support**: Compatible with any LLM (e.g., GPT4, Groq, Llama) and vector databases (e.g., PGVector, Faiss), supporting flexible file ingestion and integration with existing tech stacks (PostgreSQL, React, TypeScript).
+
+- **P
 
 ## Use Cases
 

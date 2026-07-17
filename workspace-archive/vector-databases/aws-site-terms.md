@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Licensing & Usage Rights**: AWS grants limited, revocable licenses for personal use of the AWS Site; commercial use, data mining, or scraping is prohibited without express consent. Documentation is licensed under CC-BY-SA-4.0, while embedded code follows MIT-0.
+- **Licensing & Usage Rights**: AWS grants limited, revocable licenses for personal use of the AWS Site; commercial use, scraping, or data mining requires express written consent. Documentation is licensed under CC-BY-SA-4.0, while embedded code follows MIT-0.
 
-- **Liability & Warranty Disclaimer**: AWS provides all services "as-is" without warranties (explicit or implied), including no guarantees of fitness for a specific purpose or freedom from harmful components. Liability is expressly e
+- **Liability & Warranties**: AWS disclaims all warranties (express/implied) and limits liability for damages arising from site use, except as prohibited by law. Users assume sole risk for content, third-party materials, and security vuln
 
 ## Use Cases
 

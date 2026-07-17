@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based retrieval-augmented generation (GraphRAG)**.
-- **Technical Scope**: Covers **knowledge graphs**, **large language models (LLMs)**, and **retrieval-augmented generation (RAG)** methodologies.
-- **Repository Metrics**: 2,531 stars, 222 forks, last updated **July 17, 2026**.
+- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, emphasizing knowledge graphs and large language models (LLMs).
+- **Technical Scope**: Covers **RAG architectures**, **knowledge graph integration**, and **LLM augmentation** methodologies, with relevance to retrieval-augmented generation and graph-based AI systems.
+- **Repository Metrics**: Maintained with **2,533 stars** and **222 for
 
 ## Use Cases
 

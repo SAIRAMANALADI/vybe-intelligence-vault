@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/RUC-NLPIR/FlashRAG
-collected_at: '2026-07-17T14:03:14.007455+05:30'
-published_at: '2026-07-17T08:15:04Z'
+collected_at: '2026-07-18T01:07:08.046325+05:30'
+published_at: '2026-07-17T09:28:32Z'
 tags:
 - benchmark
 - dataset
@@ -13,7 +13,7 @@ tags:
 - python
 - rag
 - reddit
-stars: 3521
+stars: 3522
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-03-14T01:40:33Z'
 pushed_at: '2026-04-10T03:37:48Z'
 resource_id: github:ruc-nlpir/flashrag
-first_seen: '2026-07-17T14:03:14.007455+05:30'
-last_seen: '2026-07-17T14:03:14.007455+05:30'
-last_checked: '2026-07-17T14:03:14.007455+05:30'
+first_seen: '2026-07-18T01:07:08.046325+05:30'
+last_seen: '2026-07-18T01:07:08.046325+05:30'
+last_checked: '2026-07-18T01:07:08.046325+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experimentation.
+- **Efficient RAG Framework**: FlashRAG is a Python toolkit optimized for rapid Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experimentation and deployment.
 
-- **Benchmark & Datasets**: Includes standardized benchmarks and diverse datasets for evaluating RAG models, enabling reproducible and comparative studies in large language model (LLM) augmentation.
+- **Comprehensive Toolset**: Includes benchmarking utilities, curated datasets, and modular components for end-to-end RAG pipelines, supporting large language models (LLMs) with retrieval integration.
 
-- **Modular & Extensible**: Designed with a modular architecture to support custom retrieval methods, LLM integrations, and evaluation metrics, facilitating rapid prototyping and deployment in production environments.
+- **Scalable & Modular Design**: Implements parallel processing and caching mechanisms to handle large-scale datasets and models, enabling reproducible research with minimal overhead.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: RUC-NLPIR
-- Stars: 3521
-- Forks: 308
+- Stars: 3522
+- Forks: 311
 - Language: Python
 - Topics: benchmark, datasets, large-language-models, retrieval-augmented-generation
-- Last Updated: 2026-07-17T08:15:04Z
+- Last Updated: 2026-07-17T09:28:32Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-14T01:40:33Z

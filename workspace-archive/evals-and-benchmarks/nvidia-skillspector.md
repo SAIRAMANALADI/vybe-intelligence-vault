@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Security scanner for AI agent skills, designed to detect vulnerabilities, malicious patterns, and security risks in AI-driven applications.
-- **Technical Stack**: Implemented in Python, leveraging static and dynamic analysis techniques to evaluate AI agent skills.
-- **Repository Stats**: 10,591 stars, 848 forks, last updated on 2026-06-25.
+- **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to detect vulnerabilities, malicious patterns, and security risks without executing the code.
+- **Python-Based**: The tool is implemented in Python, leveraging static analysis techniques to evaluate AI agent skills for potential security threats.
+- **NVIDIA Developed**: Developed by NVIDIA, the tool aims to enhance the security of AI agents by identifying and mitigating security risks in their skills.
 
 ## Use Cases
 

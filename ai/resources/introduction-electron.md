@@ -4,16 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://electronjs.org/docs/latest
-published_at: '2026-07-17T14:10:12.762223+05:30'
-collected_at: '2026-07-17T14:10:12.762234+05:30'
+published_at: '2026-07-18T01:12:14.153068+05:30'
+collected_at: '2026-07-18T01:12:14.153082+05:30'
 tags:
 - producthunt
 - web-crawled
+- workflows
 status: active
 resource_id: blog:introduction-electron
-first_seen: '2026-07-17T14:10:12.762234+05:30'
-last_seen: '2026-07-17T14:10:12.762234+05:30'
-last_checked: '2026-07-17T14:10:12.762234+05:30'
+first_seen: '2026-07-18T01:12:14.153082+05:30'
+last_seen: '2026-07-18T01:12:14.153082+05:30'
+last_checked: '2026-07-18T01:12:14.153082+05:30'
 health_score: 100
 ---
 
@@ -21,9 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Electron** is a cross-platform desktop application framework that embeds **Chromium** and **Node.js** into a single binary, enabling JavaScript/HTML/CSS-based app development without native code requirements.
-- **Electron Fiddle** is a sandbox tool for prototyping and testing Electron APIs, integrating with documentation via "Open in Fiddle" buttons for seamless example execution.
-- Electron's documentation includes **tutorials**, **process models**, **best practices**, **distribution guides**, and **debugging/testing tools**, with community support via Discord and GitHub issue tracking.
+- **Cross-platform desktop apps**: Electron combines Chromium for rendering and Node.js for backend logic into a single binary, enabling JavaScript/HTML/CSS-based desktop apps that run on Windows, macOS, and Linux without native development.
+
+- **Electron Fiddle**: A sandbox tool for prototyping and testing Electron APIs, integrated with documentation via "Open in Fiddle" buttons that auto-load examples into the app.
+
+- **Official docs structure**: Organized into tutorials, process references, best practices, examples, distribution guides, debugging/testing tools, and contribution instructions for end-to-end Electron development workflows.
 
 ## Why It Matters
 
@@ -33,12 +36,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-17T14:10:12.762223+05:30
+- Published: 2026-07-18T01:12:14.153068+05:30
 
 ## Related Tags
 
 - producthunt
 - web-crawled
+- workflows
 
 ## Source
 

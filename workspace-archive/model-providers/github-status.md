@@ -2,7 +2,7 @@
 title: GitHub Status
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://www.githubstatus.com/
+source_url: https://githubstatus.com
 resource_id: blog:github-status
 local_vault_path: ai/rag/github-status.md
 quality_score: 70
@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page** provides real-time operational status for GitHub services (e.g., Git Operations, REST API, Webhooks) with historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days).
-- **Incident Notifications** support multiple channels (email, SMS, Slack, webhooks) for updates on incidents (e.g., degraded REST API availability, Actions failures) with root cause analyses and mitigation steps.
-- **Regional Status Endpoints** (e.g., `au.githubstatus.com`, `eu.githubst
+- **GitHub Status Page** provides real-time operational metrics for GitHub services (e.g., Git Operations, API Requests, Webhooks) with historical uptime tracking (90-day windows) and regional status dashboards (AU/EU/JP/US).
+
+- **Incident Management** includes automated notifications via email, SMS (global), Slack, and webhooks for incident creation/updates/resolution, with detailed post-incident analyses (e.g., REST API outage due to misconfigured backend health checks).
+
+- **Service-Specific
 
 ## Use Cases
 
@@ -50,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.githubstatus.com/
+Original source URL: https://githubstatus.com
 
 ## Local Vault File
 

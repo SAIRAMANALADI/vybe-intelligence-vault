@@ -14,6 +14,7 @@ tags:
 - agents
 - openai
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Copilot CLI Sessions**: VS Code supports autonomous background agent sessions via GitHub Copilot CLI, managed through the Chat view; sessions run locally (outside VS Code process) and continue after editor closure, enabling parallel task execution with isolation modes (Worktree/Folder) and permission controls (auto-approval for Worktree, configurable for Folder).
+- **Copilot CLI Sessions**: VS Code supports autonomous background agent sessions via GitHub Copilot CLI, managed through the Chat view; sessions run locally (using Copilot SDK) or in isolated Git worktrees, enabling parallel task execution without blocking the editor.
 
-- **Isolation & Permissions**: Worktree isolation uses Git worktrees for change isolation (auto-approved tool calls), while Folde
+- **Isolation Modes**: Copilot CLI supports **Worktree** (isolated Git worktree for safe changes) and **Folder** (direct workspace modifications) isolation, with Worktree enforcing auto-approvals and Folder allowing configurable
 
 ## Use Cases
 

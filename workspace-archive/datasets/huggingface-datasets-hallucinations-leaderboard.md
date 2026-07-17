@@ -33,7 +33,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: hallucinations-leaderboard/results (Likes: 11, Downloads: 1503804)
+Trending Hugging Face dataset: hallucinations-leaderboard/results (Likes: 12, Downloads: 1503804)
 
 ## Use Cases
 

@@ -14,6 +14,8 @@ tags:
 - github-repo
 - go
 - hackernews
+- meta-ai
+- models
 - rag
 selection_reason:
 - Strong keyword match
@@ -33,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid Architecture**: Weaviate integrates vector storage (HNSW-based approximate nearest neighbor search) with structured data (SQL-like filtering) in a single system, enabling combined vector and scalar queries while maintaining cloud-native scalability and fault tolerance.
+- **Hybrid Vector & Structured Data Storage**: Weaviate integrates both object storage (JSON-like structures) and high-dimensional vector embeddings, enabling combined vector search with structured filtering (e.g., SQL-like queries) while maintaining cloud-native scalability and fault tolerance.
 
-- **Multi-Modal & Generative Capabilities**: Supports semantic, image, and hybrid search via vector embeddings, with built-in generative search (RAG) integration for AI-driven query augmentation and contextual retrieva
+- **Approximate Nearest Neighbor (ANN) Search Engine**: Implements HNSW (Hierarchical Navigable Small World) indexing for low-latency similarity search, supporting hybrid search modes (vector + BM25/key
 
 ## Use Cases
 

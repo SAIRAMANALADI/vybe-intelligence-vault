@@ -16,7 +16,6 @@ tags:
 - hackernews
 - jupyter notebook
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -36,8 +35,10 @@ selection_reason:
 ## Summary
 
 - **Content Focus**: Repository provides advanced tutorials on **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **real-world AI agent applications**, emphasizing practical implementation.
-- **Technical Stack**: Primarily uses **Jupyter Notebooks** for demonstrations, covering topics like **agents, MCP (Model Context Protocol), and machine learning** workflows.
-- **Activity & Scale**: Highly active with **36,542 stars** and **6,054 forks**, last updated **July 17, 2
+
+- **Technical Stack**: Primarily uses **Jupyter Notebooks** with topics covering **agents, AI, LLMs, machine learning, MCP (Model Context Protocol), and RAG**.
+
+- **Metadata**: 36,553 stars, 6,054 forks, last updated **July 17, 2026**.
 
 ## Use Cases
 

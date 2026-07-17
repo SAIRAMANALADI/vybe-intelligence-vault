@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Dynamic Agent Framework**: Hermes-Agent is a Python-based AI agent system designed for adaptive growth, supporting integration with multiple LLMs (e.g., Anthropic, OpenAI, Codex) and specialized tools like `claude-code` and `moltbot`.
-
-- **Multi-Model & Tool Agnostic**: Supports seamless switching between AI providers (Claude, ChatGPT, etc.) and execution backends (e.g., `clawdbot`, `openclaw`) via modular architecture.
-
-- **Open-Source & Scalable**: Repository (216K+ stars, 40K+ forks) emph
+- **Multi-LLM Agent Framework**: Hermes-Agent is a Python-based framework designed for AI agents, supporting integration with Anthropic, OpenAI, and other LLM providers for dynamic task execution.
+- **Self-Improving Architecture**: Implements a "grows with you" paradigm via iterative feedback loops, enabling agents to refine performance through continuous learning from interactions and corrections.
+- **Tool-Agnostic Execution**: Supports modular tool integration (e.g., `claude-code`, `codex`, `m
 
 ## Use Cases
 

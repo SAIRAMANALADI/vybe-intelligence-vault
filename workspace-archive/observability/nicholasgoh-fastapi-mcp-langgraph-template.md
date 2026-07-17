@@ -15,7 +15,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: Template integrates FastAPI, MCP (Model Context Protocol), and LangGraph for agentic orchestration, enabling modular agent workflows with Python-based LangGraph for stateful graph computations.
-- **Observability & Storage**: Includes Prometheus/Grafana for metrics, Langfuse for LLM observability, Supabase for PostgreSQL-based storage, and SQLModel for ORM integration.
-- **Deployment**: Pre-configured with Nginx for reverse proxy and Docker Compose for scalable, containerized
+- **Architecture**: Template integrates FastAPI, LangGraph, and MCP for agentic orchestration with modular components for rapid iteration and scalable deployment.
+- **Monitoring & Observability**: Includes Prometheus, Grafana, and Langfuse for metrics, logging, and tracing; Supabase for data storage; SQLModel for ORM.
+- **Deployment**: Pre-configured with Nginx for reverse proxy and Docker Compose for container orchestration, optimized for production-grade deployments.
 
 ## Use Cases
 

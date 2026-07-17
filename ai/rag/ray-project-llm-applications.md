@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-07-17T14:03:39.051790+05:30'
+collected_at: '2026-07-18T01:07:33.043317+05:30'
 published_at: '2026-07-11T01:00:06Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-07-17T14:03:39.051790+05:30'
-last_seen: '2026-07-17T14:03:39.051790+05:30'
-last_checked: '2026-07-17T14:03:39.051790+05:30'
+first_seen: '2026-07-18T01:07:33.043317+05:30'
+last_seen: '2026-07-18T01:07:33.043317+05:30'
+last_checked: '2026-07-18T01:07:33.043317+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with modular components for retrieval, vector DB integration (e.g., FAISS), and LLM inference (e.g., Llama2, OpenAI APIs).
-- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) with Anyscale endpoints, leveraging Ray’s distributed training for scalability, and techniques like LoRA for efficient adaptation.
-- **End-to-End Deployment**: Provides templates for deploying RAG applications on Ray Serve, with examples for batch/real-time inference, monitoring, and cost optimization via dynamic scaling and resource allocation.
+- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with fine-tuning capabilities.
+- **Scalable Serving Architecture**: Leverages Ray’s distributed computing framework for efficient LLM inference and retrieval, optimized for low-latency production deployments.
+- **End-to-End Tooling**: Provides Jupyter Notebook-based guides for fine-tuning, retrieval augmentation, and deployment, with support for Anyscale and multi-model compatibility.
 
 ## Why It Matters
 

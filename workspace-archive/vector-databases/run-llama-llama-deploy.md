@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent orchestration framework** enabling deployment of agentic workflows with Python, integrating LlamaIndex for LLM-driven tasks and multi-agent coordination.
-
-- **Production-ready deployment** via modular architecture supporting scalable, fault-tolerant workflow execution with configurable components (e.g., message queues, state management).
-
-- **Extensible tooling** for custom agent definitions, workflow DAGs, and integration with external services, optimized for LLM-based applicati
+- **Framework Overview**: `llama_deploy` is a Python-based framework designed for deploying agentic workflows to production, leveraging LLM (Large Language Model) capabilities via LlamaIndex.
+- **Multi-Agent Architecture**: Supports orchestration of multiple agents, enabling complex workflows and interactions between specialized AI agents.
+- **Production-Ready Deployment**: Provides tools and infrastructure for scalable, production-grade deployment of agentic systems with built-in monitoring and
 
 ## Use Cases
 

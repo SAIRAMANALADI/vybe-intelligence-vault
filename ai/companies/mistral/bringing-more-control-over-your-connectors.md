@@ -1,12 +1,12 @@
 ---
-title: Engineering Bringing more control over your connectors June 24, 2026 By Mistral
+title: EngineeringBringing more control over your connectorsJune 24, 2026By Mistral
   AI
 category: ai/companies/mistral
 source_type: company_blog
 source_name: Mistral AI News
 source_url: https://mistral.ai/news/more-control-over-connectors
-published_at: '2026-07-17T14:00:41.244042+05:30'
-collected_at: '2026-07-17T14:00:41.244046+05:30'
+published_at: '2026-07-18T01:05:08.671250+05:30'
+collected_at: '2026-07-18T01:05:08.671253+05:30'
 tags:
 - blog-post
 - mistral
@@ -15,16 +15,16 @@ tags:
 status: active
 resource_id: blog:engineering-bringing-more-control-over-your-connec
 first_seen: '2026-06-24T20:38:11.250574+05:30'
-last_seen: '2026-07-17T14:00:41.244046+05:30'
-last_checked: '2026-07-17T14:00:41.244046+05:30'
+last_seen: '2026-07-18T01:05:08.671253+05:30'
+last_checked: '2026-07-18T01:05:08.671253+05:30'
 health_score: 100
 ---
 
-# Engineering Bringing more control over your connectors June 24, 2026 By Mistral AI
+# EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI
 
 ## Summary
 
-Recent update from Mistral AI News Blog: Engineering Bringing more control over your connectors June 24, 2026 By Mistral AI
+Recent update from Mistral AI News Blog: EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Mistral AI News
 - Article URL: https://mistral.ai/news/more-control-over-connectors
-- Collected At: 2026-07-17T14:00:41.244046+05:30
+- Collected At: 2026-07-18T01:05:08.671253+05:30
 
 ## Related Tags
 

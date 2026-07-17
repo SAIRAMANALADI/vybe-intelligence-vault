@@ -6,14 +6,15 @@ source_url: https://github.com/streamlit/example-app-langchain-rag
 resource_id: github:streamlit/example-app-langchain-rag
 local_vault_path: ai/rag/streamlit-example-app-langchain-rag.md
 quality_score: 70
-archive_score: 91
-archive_tier: essential
+archive_score: 79
+archive_tier: useful
 resource_kind: benchmark
-importance: high
+importance: medium
 tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -24,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 91 (essential)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- Implements **LangChain RAG pipeline** in a Streamlit app, combining vector store retrieval with hybrid search (likely BM25 + dense retrieval).
-- Uses **retrieval-augmented generation (RAG)** to enhance LLM responses with external knowledge via a vector database (e.g., FAISS, Chroma).
-- Demonstrates **hybrid search** (sparse + dense retrieval) for improved document retrieval accuracy in a production-ready Streamlit interface.
+- **Tech Stack**: Python-based Streamlit app integrating LangChain for RAG pipelines, leveraging vector stores (e.g., FAISS/Chroma) and hybrid search (combining dense + sparse retrieval).
+- **Core Functionality**: Demonstrates end-to-end RAG workflow: document ingestion → embedding → vector storage → retrieval → LLM augmentation → interactive UI.
+- **Hybrid Search Implementation**: Combines semantic (vector) and keyword (BM25/sparse) retrieval for improved accuracy, with Streamlit UI for query i
 
 ## Use Cases
 

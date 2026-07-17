@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: high
 tags:
+- agents
 - frontend_ui
 - hackernews
 - rag
@@ -37,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **S3 Replication Failures**: Common causes include missing IAM permissions (`s3:ReplicateObject`, `s3:GetReplicationConfiguration`), incorrect bucket policy configurations, or missing destination bucket encryption settings (e.g., SSE-KMS) when cross-region replication (CRR) is enabled.
+- **S3 Replication Issues**: Troubleshoot why Amazon S3 objects fail to replicate between general-purpose buckets in the same or different AWS Regions, including misconfigured replication rules or missing IAM permissions.
 
-- **EC2 SSH Connection Errors**: "Connection refused" or "Permission denied" errors typically stem from misconfigured security groups (denying inbound SSH/port 22), incorrect key pair associations, or disabled
+- **EC2 Connection Failures**: Resolve SSH or Session Manager connection errors to Amazon EC2 instances, including misconfigured security groups, key pairs, or SSM agent issues.
+
+- **AWS WAF Rate-Based Rule Misconfiguration**: Debug why AWS WAF rate-based rules (including cust
 
 ## Use Cases
 

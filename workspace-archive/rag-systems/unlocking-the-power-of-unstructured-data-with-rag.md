@@ -6,14 +6,16 @@ source_url: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructur
 resource_id: blog:unlocking-the-power-of-unstructured-data-with-rag
 local_vault_path: ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
+- hackernews
 - rag
 - reddit
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -24,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -32,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Contributor Profile**: Nicole Choi is a verified contributor on GitHub, with a profile link (`https://github.com/nicchoi29`) and associated GitHub Blog author page (`https://github.blog/author/nicchoi29/`).
-
-- **Avatar & Metadata**: The profile includes a custom avatar image hosted on GitHub’s CDN (`https://avatars.githubusercontent.com/u/121124774?v=4&s=200`), indicating a user ID of `121124774` and a standard avatar size of 200x200 pixels.
-
-- **Social Handle**: The contributor’s Twi
+- **Author Profile**: Nicole Choi is a technical writer and developer advocate at GitHub, contributing to documentation and community resources.
+- **GitHub Contributions**: Active maintainer of GitHub’s official blog, focusing on developer tools, workflows, and platform updates.
+- **Social Presence**: Engages with the developer community via GitHub (@nicchoi29) and other technical platforms.
 
 ## Use Cases
 

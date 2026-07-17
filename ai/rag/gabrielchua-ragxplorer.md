@@ -4,14 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-17T14:02:38.954433+05:30'
+collected_at: '2026-07-18T01:06:32.962530+05:30'
 published_at: '2026-07-14T09:11:11Z'
 tags:
+- benchmark
+- dataset
 - github-repo
-- hackernews
 - jupyter notebook
 - models
 - rag
+- workflows
 stars: 1222
 language: Jupyter Notebook
 status: active
@@ -20,9 +22,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-17T14:02:38.954433+05:30'
-last_seen: '2026-07-17T14:02:38.954433+05:30'
-last_checked: '2026-07-17T14:02:38.954433+05:30'
+first_seen: '2026-07-18T01:06:32.962530+05:30'
+last_seen: '2026-07-18T01:06:32.962530+05:30'
+last_checked: '2026-07-18T01:06:32.962530+05:30'
 health_score: 100
 ---
 
@@ -30,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source visualization tool for Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of RAG system components (e.g., retrieval, generation) via a Streamlit-based UI.
-- **Technical Stack**: Built in Python with Jupyter Notebooks for prototyping and Streamlit for deployment; integrates with LLM frameworks for real-time RAG pipeline analysis.
-- **Features**: Provides dynamic visualizations (e.g., retrieval heatmaps, latency metrics, token flow) to debug and optimize RAG performance, with GitHub repository actively maintained (last updated July 2026).
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for real-time visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and performance evaluation.
+
+- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based exploration of RAG components (retriever, LLM, prompts) with dynamic visual feedback for query-response workflows.
+
+- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom datasets, embeddings, and LLM integrations; last updated July 2026 with active community contributions (1.2k+ stars, 114 forks).
 
 ## Why It Matters
 

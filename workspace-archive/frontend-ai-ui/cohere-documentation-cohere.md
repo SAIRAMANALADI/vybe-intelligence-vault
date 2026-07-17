@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Cohere Platform**: Provides API endpoints (`/chat`, `/embed`, `/rerank`) for NLP tasks, enabling model integration, customization, and deployment via structured guides and API references.
-- **Learning & Resources**: LLM University (LLMU) offers structured courses on enterprise AI and NLP fundamentals, while cookbooks and release notes provide practical implementations and updates.
-- **Developer Tools**: Dashboard, Playground, and Community (Discord) facilitate model testing, integration, and
+- **API Endpoints**: Cohere v2 API provides `/chat`, `/embed`, and `/rerank` endpoints for model interaction, NLP integration, and enhanced functionality.
+- **Learning Resources**: LLM University (LLMU) offers structured courses and guides for mastering enterprise AI, NLP, and LLMs.
+- **Documentation & Tools**: Comprehensive guides, API references, release notes, and cookbooks are available, alongside a dashboard, playground, and community support.
 
 ## Use Cases
 

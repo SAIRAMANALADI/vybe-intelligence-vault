@@ -13,15 +13,14 @@ Public developer APIs supply external context and utilities for LLM tools.
 - [FastAPI - FastAPI](https://fastapi.tiangolo.com/) (template - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
 - [azure-ai-docs/articles/search/index.yml at main · MicrosoftDocs/azure-ai-docs · GitHub](https://github.com/MicrosoftDocs/azure-ai-docs/blob/main/articles/search/index.yml) (framework - USEFUL Tier)
-- [bangoc123/retrieval-backend-with-rag](https://github.com/bangoc123/retrieval-backend-with-rag) (benchmark - USEFUL Tier)
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app?source=) (template - USEFUL Tier)
 - [docs/content/index.md at main · github/docs · GitHub](https://github.com/github/docs/blob/main/content/index.md) (framework - USEFUL Tier)
+- [The Compass REST API](https://developer.atlassian.com/cloud/compass/rest/v1/intro/#about) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
-- [bangoc123/retrieval-backend-with-rag](https://github.com/bangoc123/retrieval-backend-with-rag)
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app?source=)
 - [docs/content/index.md at main · github/docs · GitHub](https://github.com/github/docs/blob/main/content/index.md)
 
@@ -41,4 +40,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-07-17 14:19 IST*
+*Last updated: 2026-07-18 01:22 IST*

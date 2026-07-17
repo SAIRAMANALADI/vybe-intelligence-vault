@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **FastAPI-based RAG Template**: Provides a structured Python implementation for Retrieval-Augmented Generation (RAG) chatbots, integrating FastAPI for API endpoints, vector search, and document management.
-- **Vector Database & LLM Integration**: Supports Ollama and other LLMs, with vector storage/retrieval (e.g., via embeddings) for contextual document querying.
-- **Deployment-Ready**: Includes Docker and Kubernetes configurations for scalable deployment, optimized for STACKIT cloud environme
+- **FastAPI-based RAG Template**: Provides a structured Python implementation for Retrieval-Augmented Generation (RAG) chatbots with FastAPI, supporting document ingestion, vector search, and LLM integration.
+- **Vector Search & LLM Integration**: Utilizes a vector database (e.g., Chroma, Weaviate) for semantic search and integrates with LLMs (e.g., Ollama) for contextual response generation.
+- **Deployment-Ready**: Includes Docker and Kubernetes configurations for scalable deployment, with supp
 
 ## Use Cases
 

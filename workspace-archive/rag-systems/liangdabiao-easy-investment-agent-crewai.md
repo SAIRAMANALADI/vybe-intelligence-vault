@@ -8,17 +8,17 @@ local_vault_path: ai/rag/liangdabiao-easy-investment-agent-crewai.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
-- creative_dev
 - github-repo
 - python
 - rag
+- scripts
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # liangdabiao/easy_investment_Agent_crewai
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Multi-Agent System**: Implements four specialized AI agents (data fetcher, analyzer, sentiment evaluator, decision maker) collaborating via CrewAI to perform end-to-end A-share investment analysis.
-- **Data Integration**: Leverages AKShare for real-time A-share metrics (quotes, financials, fund flows, sentiment) and applies China-specific market optimizations.
-- **Decision Engine**: Aggregates multi-source insights to generate structured investment recommendations, with outputs designed for
+- **Multi-Agent A-Shares Analysis Framework**: Implements 4 specialized AI agents (data retrieval, financial analysis, sentiment analysis, decision synthesis) using CrewAI for collaborative A-shares investment analysis.
+- **AKShare-Integrated Data Pipeline**: Leverages AKShare for real-time quotes, financial metrics, fund flows, and market sentiment data tailored for Chinese stock market dynamics.
+- **Decision-Oriented Output**: Aggregates multi-source analysis into actionable investment recomme
 
 ## Use Cases
 
