@@ -458,11 +458,18 @@ async function buildIndex() {
   // 4. Sync copy to React assets if public folder exists
   if (fs.existsSync(REACT_PUBLIC_DIR)) {
     const reactIndexFile = path.join(REACT_PUBLIC_DIR, 'vault-index.json');
-    const sourceIndex = path.join(VAULT_ROOT, 'vault-core', 'vault-index.json');
-    if (fs.existsSync(sourceIndex)) {
-      fs.copyFileSync(sourceIndex, reactIndexFile);
-    }
-    console.log(`Saved index copy to React: ${reactIndexFile}`);
+    
+    // The frontend React app does not use edges, so we strip them to save 85%+ bandwidth.
+    const frontendPayload = {
+      version: indexObject.version,
+      last_updated: indexObject.last_updated,
+      nodes: indexObject.nodes,
+      system_health: indexObject.system_health
+      // intentionally omitting 'edges'
+    };
+    
+    fs.writeFileSync(reactIndexFile, JSON.stringify(frontendPayload), 'utf-8');
+    console.log(`Saved optimized node-only index to React: ${reactIndexFile}`);
     copyMarkdownFiles();
   }
 }

@@ -39,8 +39,7 @@ export function useVaultIndex() {
     };
 
     fetchIndex();
-    const interval = setInterval(fetchIndex, 120000);
-    return () => clearInterval(interval);
+    // Intentionally removed setInterval polling to avoid freezing the browser and wasting bandwidth.
   }, []);
 
   return { indexData, loading };
