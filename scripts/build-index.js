@@ -404,8 +404,8 @@ async function buildIndex() {
         weight += (sharedTags.length * 0.08) + (sharedTech.length * 0.12);
       }
       
-      // Edge threshold check (sim > 0.75 or sharing at least one tag/tech item for visual relevance)
-      const isConnected = sim > 0.75 || sharedTags.length >= 1 || sharedTech.length >= 1;
+      // Strict Edge threshold check (sim > 0.85 or sharing significant tag/tech overlap) to prevent edge explosion
+      const isConnected = sim > 0.85 || sharedTags.length >= 3 || sharedTech.length >= 2;
       
       if (isConnected) {
         const edgeKey = getEdgeKey(n1.path, n2.path);
@@ -413,9 +413,9 @@ async function buildIndex() {
           edgeKeys.add(edgeKey);
           weight = Math.min(weight, 0.98);
           
-          if (sharedTech.length >= 1) {
+          if (sharedTech.length >= 2) {
             type = 'depends_on';
-          } else if (sim > 0.75) {
+          } else if (sim > 0.85) {
             type = 'similar_to';
           } else {
             type = 'references';
