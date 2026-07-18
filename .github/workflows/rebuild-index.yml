@@ -43,7 +43,7 @@ jobs:
           
           # Stage, commit and push changes if any
           if [ -n "$(git status --porcelain)" ]; then
-            git add vault-index.json vault-core/vault-index.json
+            git add world/public/vault-index.json
             git commit -m "chore: auto-rebuild graph index [skip ci]"
             git push origin main
           else
